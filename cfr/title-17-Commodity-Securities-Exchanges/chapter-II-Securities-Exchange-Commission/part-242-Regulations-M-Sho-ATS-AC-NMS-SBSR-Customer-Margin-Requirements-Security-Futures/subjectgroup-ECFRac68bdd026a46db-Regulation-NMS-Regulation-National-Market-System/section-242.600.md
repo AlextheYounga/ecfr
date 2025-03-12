@@ -1,6 +1,6 @@
 ##### § 242.600 NMS security designation and definitions. #####
 
-Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
+Link to an amendment published at 86 FR 18809, Apr. 9, 2021.Link to a correction published at 86 FR 29196, June 1, 2021.
 
 (a) The term *national market system security* as used in section 11A(a)(2) of the Act (15 U.S.C. 78k-1(a)(2)) shall mean any NMS security as defined in paragraph (b) of this section.
 

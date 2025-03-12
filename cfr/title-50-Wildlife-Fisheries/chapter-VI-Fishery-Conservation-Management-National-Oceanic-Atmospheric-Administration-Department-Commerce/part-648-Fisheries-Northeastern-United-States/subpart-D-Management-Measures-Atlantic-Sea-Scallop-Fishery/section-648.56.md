@@ -1,7 +1,5 @@
 ##### § 648.56 Scallop research. #####
 
-Link to an amendment published at 85 FR 74920, Nov. 24, 2020.
-
 (a) At least biennially, in association with the biennial framework process, the Council and NMFS shall prepare and issue an announcement of Federal Funding Opportunity (FFO) that identifies research priorities for projects to be conducted by vessels using research set-aside as specified in paragraph (d) of this section and § 648.59(e), provides requirements and instructions for applying for funding of a proposed RSA project, and specifies the date by which applications must be received. The FFO shall be published as soon as possible by NMFS and shall provide the opportunity for applicants to apply for projects to be awarded for 1 or 2 years by allowing applicants to apply for RSA funding for the first year, second year, or both.
 
 (b) Proposals submitted in response to the FFO must include the following information, as well as any other specific information required within the FFO: A project summary that includes the project goals and objectives, the relationship of the proposed research to scallop research priorities and/or management needs, project design, participants other than the applicant, funding needs, breakdown of costs, and the vessel(s) for which authorization is requested to conduct research activities.
@@ -18,4 +16,4 @@ Link to an amendment published at 85 FR 74920, Nov. 24, 2020.
 
 (h) Upon completion of scallop research projects approved pursuant to this section and the applicable NOAA grants review process, researchers must provide the Council and NMFS with a report of research findings, which must include at least the following: A detailed description of methods of data collection and analysis; a discussion of results and any relevant conclusions presented in a format that is understandable to a non-technical audience; and a detailed final accounting of all funds used to conduct the sea scallop research.
 
-[76 FR 43769, July 21, 2011, as amended at 77 FR 20740, Apr. 6, 2012; 81 FR 76525, Nov. 3, 2016; 83 FR 12862, Mar. 26, 2018; 86 FR 27049, May 19, 2021]Effective Date Note:At 85 FR 33029, June 1, 2020, § 648.56 was amended by suspending paragraph (f) and adding paragraph (i), effective June 1, 2020, through Nov. 28, 2020. At 85 FR 74920, Nov. 24, 2020, the effective date for these amendments was extended until June 21, 2021.
+[76 FR 43769, July 21, 2011, as amended at 77 FR 20740, Apr. 6, 2012; 81 FR 76525, Nov. 3, 2016; 83 FR 12862, Mar. 26, 2018; 86 FR 27049, May 19, 2021]

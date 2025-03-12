@@ -1,7 +1,5 @@
 ##### § 635.24 Commercial retention limits for sharks, swordfish, and BAYS tunas. #####
 
-Link to an amendment published at 86 FR 22894, Apr. 30, 2021.
-
 The retention limits in this section are subject to the quotas and closure provisions in §§ 635.27 and 635.28, and the gear operation and deployment restrictions in § 635.21.
 
 (a) *Sharks.* (1) A person who owns or operates a vessel that has been issued a valid shark research permit under § 635.32(f) and who has a NMFS-approved observer on board may retain, possess, or land LCS, including sandbar sharks, in excess of the retention limits in paragraphs (a)(2) through (6) of this section. The amount of LCS that can be landed by such a person will vary as specified on the shark research permit. Only a person who owns or operates a vessel issued a valid shark research permit with a NMFS-approved observer on board may retain, possess, or land sandbar sharks.
@@ -16,7 +14,7 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (iii) Consistent with paragraph (a)(4)(ii) of this section, a person who owns or operates a vessel that has been issued an incidental shark LAP may retain, possess, land, or sell no more than 16 SCS and pelagic sharks, combined, per vessel per trip, if the respective fishery is open per §§ 635.27 and 635.28. Of those 16 SCS and pelagic sharks per vessel per trip, no more than 8 shall be blacknose sharks. Shortfin mako sharks may only be retained under the commercial retention limits by persons using pelagic longline, bottom longline, or gillnet gear, only if the shark is dead at the time of haulback and consistent with the provisions at § 635.21(c)(1), (d)(5), and (g)(6). If the vessel has also been issued a permit with a shark endorsement and retains a shortfin mako shark, recreational retention limits apply to all sharks retained and none may be sold, per § 635.22(c)(7).
 
-(iv) A person who owns or operates a vessel that has been issued an HMS Commercial Caribbean Small Boat permit may retain, possess, or land any LCS, SCS or pelagic sharks only when the HMS Commercial Caribbean Small Boat permit trip limit is set above zero. The current shark trip limit for HMS Commercial Caribbean Small Boat permit holders is set at zero.
+(iv) A person who owns, operates, or is aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit may retain, possess, land, or sell any blacktip, bull, lemon, nurse, spinner, tiger, Atlantic sharpnose, bonnethead, finetooth, and smoothhound shark, subject to the HMS Commercial Caribbean Small Boat permit shark retention limit. A person who owns, operates, or is aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit may not retain, possess, land, or sell any hammerhead, blacknose, silky, sandbar, blue, thresher, oceanic whitetip, shortfin mako, or prohibited shark, including parts or pieces of these sharks. The shark retention limit for a person who owns, operates, or is aboard a vessel issued an HMS Commercial Caribbean Small Boat permit will range from zero to three sharks per vessel per trip. At the start of each fishing year, the default shark trip limit will apply. During the fishing year, NMFS may adjust the default shark trip limit per the inseason trip limit adjustment criteria listed in paragraph (a)(8) of this section. The default shark retention limit for the HMS Commercial Caribbean Small Boat permit is three sharks per vessel per trip.
 
 (5) A person who owns or operates a vessel that has been issued a Federal Atlantic commercial shark permit may not retain, possess, land, sell, or purchase prohibited sharks, including any parts or pieces of prohibited sharks, which are listed in section D of Table 1 of Appendix A to this part under prohibited sharks.
 
@@ -46,39 +44,39 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (2) Persons aboard a vessel in the squid trawl fishery that has been issued an Incidental HMS squid trawl permit may retain, possess, land, or sell no more than 15 swordfish per trip in or from the Atlantic Ocean north of 5° N. lat. A vessel is considered to be in the squid trawl fishery when it has no commercial fishing gear other than trawls on board and when squid constitute not less than 75 percent by weight of the total fish on board or offloaded from the vessel.
 
-(3) Persons aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat vessel permit may retain, possess, land, or sell no more than 2 swordfish per trip in or from the Atlantic Ocean north of 5° N. lat.
+(3) A person who owns, operates, or is aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit may retain, possess, land, or sell North Atlantic swordfish, subject to the HMS Commercial Caribbean Small Boat permit swordfish retention limit. The swordfish retention limit for a person who owns, operates, or is aboard a vessel issued an HMS Commercial Caribbean Small Boat permit will range from 0 to 18 swordfish per vessel per trip. At the start of each fishing year, the default retention limit will apply. During the fishing year, NMFS may adjust the default retention limit per the inseason regional retention limit adjustment criteria listed in paragraph (b)(5) of this section. The default retention limit for the HMS Commercial Caribbean Small Boat permit is eighteen swordfish per vessel per trip.
 
-(4) Persons aboard a vessel that has been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit with a commercial sale endorsement (and only when on a non for-hire trip) are subject to the regional swordfish retention limits specified at paragraph (b)(4)(iii) of this section, which may be adjusted during the fishing year based upon the inseason regional retention limit adjustment criteria identified in paragraph (b)(4)(iv) of this section.
+(4) A person who owns, operates, or is aboard a vessel that has been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit with a commercial sale endorsement (and only when on a non for-hire trip) are subject to the regional swordfish retention limits specified at paragraph (b)(4)(iii) of this section, which may be adjusted during the fishing year based upon the inseason regional retention limit adjustment criteria listed in paragraph (b)(5) of this section.
 
 (i) *Regions.* Regional retention limits for swordfish apply in four regions. For purposes of this section, these regions are: the Florida Swordfish Management Area as defined in § 635.2; the Northwest Atlantic region (federal waters along the entire Atlantic coast of the United States north of 28°17′10″ N. latitude); the Gulf of Mexico region (any water located in the EEZ in the entire Gulf of Mexico west of 82° W. longitude); and the Caribbean region (the U.S. territorial waters within the Caribbean as defined in § 622.2 of this chapter).
 
 (ii) Vessels that have been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit with a commercial sale endorsement (and only when on a non for-hire trip), as a condition of these permits, may not possess, retain, or land any more swordfish than is specified for the region in which the vessel is located.
 
-(iii) *Regional retention limits.* The swordfish regional retention limits for each region will range between zero to six swordfish per vessel per trip. At the start of each fishing year, the default regional retention limits will apply. During the fishing year, NMFS may adjust the default retention limits per the inseason regional retention limit adjustment criteria listed in § 635.24(b)(4)(iv), if necessary. The default retention limits for the regions set forth under paragraph (b)(4)(i) of this section are:
+(iii) *Regional retention limits.* The swordfish regional retention limits for each region will range from 0 to 18 swordfish per vessel per trip. At the start of each fishing year, the default regional retention limits will apply. During the fishing year, NMFS may adjust the default retention limits per the inseason regional retention limit adjustment criteria listed in paragraph (b)(5) of this section. The default retention limits for the regions set forth under paragraph (b)(4)(i) of this section are:
 
-(A) Zero swordfish per vessel per trip for the Florida Swordfish Management Area.
+(A) Zero swordfish per vessel per trip for the Florida Swordfish Management Area;
 
-(B) Two swordfish per vessel per trip for the Caribbean region.
+(B) Eighteen swordfish per vessel per trip for the Caribbean region;
 
-(C) Three swordfish per vessel per trip for the Northwest Atlantic region.
+(C) Eighteen swordfish per vessel per trip for the Northwest Atlantic region; and
 
-(D) Three swordfish per vessel per trip for the Gulf of Mexico region.
+(D) Eighteen swordfish per vessel per trip for the Gulf of Mexico region.
 
-(iv) *Inseason regional retention limit adjustment criteria.* NMFS will file with the Office of the Federal Register for publication notification of any inseason adjustments to the regional retention limits. Before making any inseason adjustments to regional retention limits, NMFS will consider the following criteria and other relevant factors:
+(5) NMFS will file with the Office of the Federal Register for publication notification of any inseason adjustments to the default swordfish retention limits specified at paragraphs (b)(3) and (b)(4)(iii) of this section. Before making any inseason adjustments to swordfish retention limits, NMFS will consider the following criteria and other relevant factors:
 
-(A) The usefulness of information obtained from biological sampling and monitoring of the North Atlantic swordfish stock;
+(i) The usefulness of information obtained from biological sampling and monitoring of the North Atlantic swordfish stock;
 
-(B) The estimated ability of vessels participating in the fishery to land the amount of swordfish quota available before the end of the fishing year;
+(ii) The estimated ability of vessels participating in the fishery to land the amount of swordfish quota available before the end of the fishing year;
 
-(C) The estimated amounts by which quotas for other categories of the fishery might be exceeded;
+(iii) The estimated amounts by which quotas for other categories of the fishery might be exceeded;
 
-(D) Effects of the adjustment on accomplishing the objectives of the fishery management plan and its amendments;
+(iv) Effects of the adjustment on accomplishing the objectives of the fishery management plan and its amendments;
 
-(E) Variations in seasonal distribution, abundance, or migration patterns of swordfish;
+(v) Variations in seasonal distribution, abundance, or migration patterns of swordfish;
 
-(F) Effects of catch rates in one region precluding vessels in another region from having a reasonable opportunity to harvest a portion of the overall swordfish quota; and
+(vi) Effects of catch rates in one region precluding vessels in another region from having a reasonable opportunity to harvest a portion of the overall swordfish quota; and
 
-(G) Review of dealer reports, landing trends, and the availability of swordfish on the fishing grounds.
+(vii) Review of dealer reports, landing trends, and the availability of swordfish on the fishing grounds.
 
 (c) BAYS tunas. Persons aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit under § 635.4 may retain, possess, land, or sell no more than 10 BAYS tunas per vessel per trip.
 

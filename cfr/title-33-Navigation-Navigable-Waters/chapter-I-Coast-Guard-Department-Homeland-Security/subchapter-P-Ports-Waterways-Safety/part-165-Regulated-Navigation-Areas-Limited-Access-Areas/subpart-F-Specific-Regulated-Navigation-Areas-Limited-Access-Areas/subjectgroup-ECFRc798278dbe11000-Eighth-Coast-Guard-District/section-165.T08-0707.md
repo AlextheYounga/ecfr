@@ -12,4 +12,4 @@
 
 (d) *Informational broadcasts.* The COTP or a designated representative will inform the public of the enforcement date and times for this safety zone, as well as any emergent safety concerns that may delay the enforcement of the zone through Broadcast Notice to Mariners (BNM) and or Local Notices to Mariners (LNMs).
 
-[USCG-2021-0260, 86 FR 28490, May 27, 2021]Effective Date Note:By USCG-2021-0260, 86 FR 28490, May 27, 2021, § 165.T08-0707 was added, effective May 27 through Sept. 4, 2021.
+[USCG-2021-0260, 86 FR 28490, May 27, 2021]Effective Date Note:By USCG-2021-0260, 86 FR 28490, May 27, 2021, § 165.T08-0707 was added, effective May 29 through Sept. 4, 2021.

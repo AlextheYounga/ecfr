@@ -1,7 +1,5 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 86 FR 16527, Mar. 30, 2021.
-
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
 (b) *Definitions* - (1) *Requirements service agreement* means a contract or rate schedule under which a public utility provides any portion of a customer's bundled wholesale power requirements.
@@ -258,7 +256,7 @@ Link to an amendment published at 86 FR 16527, Mar. 30, 2021.
 
 (11) A resource's incremental energy offer must be capped at the higher of $1,000/MWh or that resource's cost-based incremental energy offer. For the purpose of calculating Locational Marginal Prices, Regional Transmission Organizations and Independent System Operators must cap cost-based incremental energy offers at $2,000/MWh. The actual or expected costs underlying a resource's cost-based incremental energy offer above $1,000/MWh must be verified before that offer can be used for purposes of calculating Locational Marginal Prices. If a resource submits an incremental energy offer above $1,000/MWh and the actual or expected costs underlying that offer cannot be verified before the market clearing process begins, that offer may not be used to calculate Locational Marginal Prices and the resource would be eligible for a make-whole payment if that resource is dispatched and the resource's actual costs are verified after-the-fact. A resource would also be eligible for a make-whole payment if it is dispatched and its verified cost-based incremental energy offer exceeds $2,000/MWh. All resources, regardless of type, are eligible to submit cost-based incremental energy offers in excess of $1,000/MWh.
 
-(12) *Distributed energy resource aggregators.* (i) Each independent system operator and regional transmission organization must have tariff provisions that allow distributed energy resource aggregations to participate directly in the organized wholesale electric markets. Each regional transmission organization and independent system operator must establish distributed energy resource aggregators as a type of market participant. Additionally, each regional transmission organization and independent system operator must allow distributed energy resource aggregators to register distributed energy resource aggregations under one or more participation models in the regional transmission operator's or the independent system operator's tariff that accommodate the physical and operational characteristics of the distributed energy resource aggregation.
+(12) *Distributed energy resource aggregators.* (i) Each independent system operator and regional transmission organization must have tariff provisions that allow distributed energy resource aggregations to participate directly in the independent system operator or regional transmission organization markets.
 
 (ii) Each regional transmission organization and independent system operator, to accommodate the participation of distributed energy resource aggregations, must establish market rules that address:
 
