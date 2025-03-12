@@ -1,14 +1,12 @@
 ##### § 665.242 Permits. #####
 
-Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
-
 (a) *Applicability.* (1) The owner of any vessel used to fish for lobster in Permit Area 1 must have a limited access permit issued for such vessel.
 
 (2) The owner of any vessel used to fish for lobster in Permit Area 2 must have a permit issued for such a vessel.
 
 (3) The owner of any vessel used to fish for deepwater shrimp in Crustacean Permit Areas 1 or 2 must have a permit issued for that vessel.
 
-(4) Harvest of Hawaii crustacean MUS within the Northwestern Hawaiian Islands Marine National Monument is subject to the requirements of 50 CFR part 404.
+(4) Harvest of Hawaii crustacean MUS or ECS within the Northwestern Hawaiian Islands Marine National Monument is subject to the requirements of 50 CFR part 404.
 
 (b) *General requirements.* General requirements governing application information, issuance, fees, expiration, replacement, transfer, alteration, display, sanctions, and appeals for permits issued under this section, as applicable, are contained in § 665.13.
 
@@ -49,3 +47,5 @@ Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
 (C) One point shall be assigned for each calendar year or partial year after August 8, 1985, that the applicant was the owner, operator, or crew member of a vessel engaged in any other commercial fishing in the EEZ surrounding Hawaii.
 
 (5) A holder of a new limited access permit must own at least a 50 percent share in the vessel that the permit would cover.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2773, Feb. 8, 2019]

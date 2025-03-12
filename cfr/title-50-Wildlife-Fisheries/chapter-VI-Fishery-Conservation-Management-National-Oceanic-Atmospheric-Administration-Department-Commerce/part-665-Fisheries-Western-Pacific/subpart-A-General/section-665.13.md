@@ -1,7 +1,5 @@
 ##### § 665.13 Permits and fees. #####
 
-Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
-
 (a) *Applicability.* The requirements for permits for specific western Pacific fisheries are set forth in subparts B through I of this part.
 
 (b) *Validity.* Each permit is valid for fishing only in the specific fishery management areas identified on the permit.
@@ -52,10 +50,10 @@ Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
 
 (j) *Alteration.* Any permit that has been altered, erased, or mutilated is invalid.
 
-(k) *Display.* Any permit issued under this subpart, or a facsimile of such permit, must be on board the vessel at all times while the vessel is fishing for, taking, retaining, possessing, or landing MUS shoreward of the outer boundary of the fishery management area. Any permit issued under this section must be displayed for inspection upon request of an authorized officer.
+(k) *Display.* Any permit issued under this subpart, or a facsimile of such permit, must be on board the vessel at all times while the vessel is fishing for, taking, retaining, possessing, or landing MUS or ECS shoreward of the outer boundary of the fishery management area. Any permit issued under this section must be displayed for inspection upon request of an authorized officer.
 
 (l) *Sanctions.* Procedures governing sanctions and denials are found at subpart D of 15 CFR part 904.
 
 (m) *Permit appeals.* Procedures for appeals of permitting and administrative actions are specified in the relevant subparts of this part.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013]
+[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013; 84 FR 2769, Feb. 8, 2019]

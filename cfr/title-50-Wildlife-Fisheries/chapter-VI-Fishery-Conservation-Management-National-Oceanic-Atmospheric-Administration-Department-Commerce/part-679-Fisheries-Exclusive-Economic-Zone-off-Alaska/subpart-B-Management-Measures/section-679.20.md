@@ -1,10 +1,8 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
-(a) *Harvest limits* - (1) *OY* (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
+(a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
 
 (A) The OY for groundfish in the BSAI regulated by this section and by part 600 of this chapter is 1.4 million to 2.0 million mt.
 
@@ -453,6 +451,8 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 (B) In establishing a directed fishing allowance under paragraph (d)(1)(iv)(A) of this section, the Regional Administrator will consider the amount of the sideboard limit established for a group of AFA vessels under § 679.64 that will be taken as incidental catch by those vessels in directed fishing for other species.
 
 (C) If the Regional Administrator determines that a sideboard amount is insufficient to support a directed fishery for that species then the Regional Administrator may set the sideboard directed fishing allowance at zero for that species or species group.
+
+(D) Species or species groups for which directed fishing for sideboard limits by AFA vessels is prohibited are listed in Tables 54, 55, and 56 to this part.
 
 (v) *Amendment 80 GOA sideboard limits - GOA groundfish.* (A) If the Regional Administrator determines that a GOA sideboard limit for a GOA groundfish species as described under Table 37 to this part is sufficient to support a directed fishing allowance for that species, the Regional Administrator may establish a directed fishing allowance for the species applicable only to Amendment 80 vessels subject to the GOA groundfish sideboard limit.
 

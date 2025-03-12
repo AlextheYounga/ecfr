@@ -1,24 +1,22 @@
 ##### § 665.424 Permits and fees. #####
 
-Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
-
 (a) *Applicability.* Unless otherwise specified in this subpart, § 665.13 applies to coral reef ecosystem permits.
 
-(1) *Special permit.* Any person of the United States fishing for, taking or retaining Mariana coral reef ecosystem MUS must have a special permit if they, or a vessel which they operate, is used to fish for any:
+(1) *Special permit.* Any person of the United States fishing for, taking or retaining Mariana coral reef ECS must have a special permit if they, or a vessel which they operate, is used to fish for any:
 
-(i) Mariana coral reef ecosystem MUS in low-use MPAs as defined in § 665.399;
+(i) Mariana coral reef ecosystem MUS ECS in low-use MPAs as defined in § 665.399;
 
-(ii) Mariana Potentially Harvested Coral Reef Taxa in the coral reef ecosystem management area; or
+(ii) Mariana coral reef ECS in the coral reef ecosystem management area; or
 
-(iii) Mariana Coral reef ecosystem MUS in the Mariana coral reef ecosystem management area with any gear not specifically allowed in this subpart.
+(iii) Mariana coral reef ECS in the Mariana coral reef ecosystem management area with any gear not specifically allowed in this subpart.
 
-(2) *Transshipment permit.* A receiving vessel must be registered for use with a transshipment permit if that vessel is used in the Mariana coral reef ecosystem management area to land or transship Mariana PHCRT, or any Mariana coral reef ecosystem MUS harvested within low-use MPAs.
+(2) *Transshipment permit.* A receiving vessel must be registered for use with a transshipment permit if that vessel is used in the Mariana coral reef ecosystem management area to land or transship any Mariana coral reef ECS harvested within low-use MPAs.
 
 (3) *Exceptions.* The following persons are not required to have a permit under this section:
 
-(i) Any person issued a permit to fish under any FEP who incidentally catches Mariana coral reef ecosystem MUS while fishing for bottomfish MUS, crustacean MUS, western Pacific pelagic MUS, precious coral, or seamount groundfish.
+(i) Any person issued a permit to fish under any FEP who incidentally catches Mariana coral reef ECS while fishing for bottomfish MUS or ECS, crustacean ECS, western Pacific pelagic MUS, precious coral ECS, or seamount groundfish MUS.
 
-(ii) Any person fishing for Mariana CHCRT outside of an MPA, who does not retain any incidentally caught Mariana PHCRT.
+(ii) Any person fishing for Mariana coral reef ECS outside of an MPA, who does not retain any Mariana coral reef ECS.
 
 (iii) Any person collecting marine organisms for scientific research as described in § 665.17, or § 600.745 of this chapter.
 
@@ -91,3 +89,5 @@ Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
 (iv) The Regional Administrator may adopt the hearing officer's recommended decision, in whole or in part, or may reject or modify it. In any event, the Regional Administrator will notify interested persons of the decision, and the reason(s) therefore, in writing, within 30 days of receipt of the hearing officer's recommended decision. The Regional Administrator's action constitutes final action for the agency for the purposes of the Administrative Procedure Act.
 
 (5) The Regional Administrator may extend, for good cause, any time limit prescribed in this section for a period not to exceed 30 days, either upon his or her own motion or upon written request from the Council, appellant or applicant stating the reason(s) therefore.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2775, Feb. 8, 2019]

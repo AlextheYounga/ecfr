@@ -1,7 +1,5 @@
 ##### § 64.615 TRS User Registration Database and administrator. #####
 
-Link to an amendment published at 84 FR 8463, Mar. 8, 2019.
-
 (a) *TRS User Registration Database.* (1) VRS providers shall validate the eligibility of the party on the video side of each call by querying the TRS User Registration Database on a per-call basis. Emergency 911 calls are excepted from this requirement.
 
 (i) Validation shall occur during the call setup process, prior to the placement of the call.

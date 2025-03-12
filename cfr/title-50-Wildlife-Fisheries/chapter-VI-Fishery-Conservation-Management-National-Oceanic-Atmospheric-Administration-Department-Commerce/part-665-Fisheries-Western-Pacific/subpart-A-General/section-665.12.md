@@ -1,10 +1,8 @@
 ##### § 665.12 Definitions. #####
 
-Link to an amendment published at 84 FR 2768, Feb. 8, 2019.
-
 In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this chapter, and subparts B through F of this part, general definitions for western Pacific fisheries have the following meanings:
 
-*American Samoa FEP* means the Fishery Ecosystem Plan for American Samoa.
+*American Samoa FEP* means the Fishery Ecosystem Plan for American Samoa, available from the Western Pacific Fishery Management Council or PIRO.
 
 *Bottomfish FMP* means the Fishery Management Plan for Bottomfish and Seamount Groundfish of the Western Pacific Region established in 1986 and replaced by FEPs.
 
@@ -24,21 +22,19 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Crustaceans FMP* means the Fishery Management Plan for Crustacean Fisheries of the Western Pacific Region established in 1982 and replaced by FEPs.
 
-*Currently harvested coral reef taxa (CHCRT)* means coral reef associated species, families, or subfamilies, as defined in §§ 665.121, 665.221, 665.421, and 665.621, that have annual landings greater than 454.54 kg (1,000 lb) as reported on individual state, commonwealth, or territory catch reports or through creel surveys. Fisheries and research data from many of these species have been analyzed by regional management agencies.
-
 *Customary exchange* means the non-market exchange of marine resources between fishermen and community residents, including family and friends of community residents, for goods, and/or services for cultural, social, or religious reasons. Customary exchange may include cost recovery through monetary reimbursements and other means for actual trip expenses, including but not limited to ice, bait, fuel, or food, that may be necessary to participate in fisheries in the western Pacific. Actual trip expenses do not include expenses that a fisherman would incur without making a fishing trip, including expenses relating to dock space, vessel mortgage payments, routine vessel maintenance, vessel registration fees, safety equipment required by U.S. Coast Guard, and other incidental costs and expenses normally associated with ownership of a vessel.
 
 *Dead coral* means any precious coral that no longer has any live coral polyps or tissue.
 
-*Ecosystem component species* means any western Pacific MUS that the Council has identified to be, generally, a non-target species, not determined to be subject to overfishing, approaching overfished, or overfished, not likely to become subject to overfishing or overfished, and generally not retained for sale or personal use.
+*Ecosystem component species (ECS)* means a stock that a Council or the Secretary has determined does not require conservation and management, but is identified in an FEP to achieve ecosystem management objectives.
 
 *EFP* means an experimental fishing permit.
 
 *First level buyer* means:
 
-(1) The first person who purchases, with the intention to resell, management unit species, or portions thereof, that were harvested by a vessel that holds a permit or is otherwise regulated under crustacean fisheries in subparts B through E of this part; or
+(1) The first person who purchases, with the intention to resell, management unit species (MUS) or ECS, or portions thereof, that were harvested by a vessel that holds a permit or is otherwise regulated under crustacean fisheries in subparts B through E of this part; or
 
-(2) A person who provides recordkeeping, purchase, or sales assistance in the first transaction involving MUS (such as the services provided by a wholesale auction facility).
+(2) A person who provides recordkeeping, purchase, or sales assistance in the first transaction involving MUS or ECS (such as the services provided by a wholesale auction facility).
 
 *Fishing gear,* as used in regulations for the American Samoa, CNMI, Hawaii, and PRIA bottomfish fisheries in subparts B through E of this part, includes:
 
@@ -62,7 +58,7 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Hawaiian Archipelago* means the Main and Northwestern Hawaiian Islands, including Midway Atoll.
 
-*Hawaii FEP* means the Fishery Ecosystem Plan for the Hawaiian Archipelago.
+*Hawaii FEP* means the Fishery Ecosystem Plan for the Hawaiian Archipelago, available from the Western Pacific Fishery Management Council or PIRO.
 
 *Hookah breather* means a tethered underwater breathing device that pumps air from the surface through one or more hoses to divers at depth.
 
@@ -84,7 +80,7 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Mariana Archipelago* means Guam and the Northern Mariana Islands.
 
-*Mariana FEP* means the Fishery Ecosystem Plan for the Mariana Archipelago.
+*Mariana FEP* means the Fishery Ecosystem Plan for the Mariana Archipelago, available from the Western Pacific Fishery Management Council or PIRO.
 
 *Medium vessel,* as used in this part, means any vessel equal to or more than 40 ft (12.2 m) and less than 50 ft (15.2 m) LOA.
 
@@ -96,9 +92,9 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Northwestern Hawaiian Islands (NWHI)* means the islands of the Hawaiian Archipelago lying to the west of 161° W. long.
 
-*No-take MPA* means an area of the U.S. EEZ that is closed to fishing for or harvesting of any MUS, as defined in subparts B through F of this part.
+*No-take MPA* means an area of the U.S. EEZ that is closed to fishing for or harvesting of any MUS or ECS, as defined in subparts B through F of this part.
 
-*Offload* means to remove MUS from a vessel.
+*Offload* means to remove MUS or ECS from a vessel.
 
 *Offset circle hook* means a circle hook in which the barbed end of the hook is displaced relative to the parallel plane of the eyed end, or shank, of the hook when laid on its side.
 
@@ -108,15 +104,13 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Pacific remote island areas (PRIA, or U.S. island possessions in the Pacific Ocean)* means Palmyra Atoll, Kingman Reef, Jarvis Island, Baker Island, Howland Island, Johnston Atoll, Wake Island, and Midway Atoll.
 
-*Pelagics FEP* means the Fishery Ecosystem Plan for Pacific Pelagic Fisheries of the Western Pacific Region.
+*Pelagics FEP* means the Fishery Ecosystem Plan for Pelagic Fisheries of the Western Pacific, available from the Western Pacific Fishery Management Council or PIRO.
 
 *Pelagics FMP* means the Fishery Management Plan for Pelagic Fisheries of the Western Pacific Region that was established in 1987 and replaced by the western Pacific pelagic FEP.
 
-*Potentially harvested coral reef taxa (PHCRT)* means coral reef associated species, families, or subfamilies, as defined in §§ 665.121, 665.221, 665.421, and 665.621, for which little or no information is available beyond general taxonomic and distribution descriptions. These species have either not been caught in the past or have been harvested annually in amounts less than 454.54 kg (1,000 lb).
-
 *Precious Corals FMP* means the Fishery Management Plan for Precious Corals of the Western Pacific Region established in 1983 and replaced by fishery ecosystem plans (FEPs).
 
-*PRIA FEP* means the Fishery Ecosystem Plan for the Pacific Remote Island Areas of Palmyra Atoll, Kingman Reef, Jarvis Island, Baker Island, Howland Island, Johnston Atoll, and Wake Island.
+*PRIA FEP* means the Fishery Ecosystem Plan for the Pacific Remote Island Areas of Palmyra Atoll, Kingman Reef, Jarvis Island, Baker Island, Howland Island, Johnston Atoll, and Wake Island, available from the Western Pacific Fishery Management Council or PIRO.
 
 *Protected species* means an animal protected under the MMPA, as amended, listed under the ESA, as amended, or subject to the Migratory Bird Treaty Act, as amended.
 
@@ -130,13 +124,13 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Special Agent-In-Charge (SAC)* means the Special Agent-In-Charge, NMFS, Pacific Islands Enforcement Division, located at 1845 Wasp Blvd., Bldg. 176, Honolulu, HI 96818; telephone number: 808-725-6100, or a designee.
 
-*Special permit* means a permit issued to allow fishing for coral reef ecosystem MUS in low-use MPAs or to fish for any PHCRT.
+*Special permit* means a permit issued to allow fishing for coral reef ECS in low-use MPAs or with any gear not specifically allowed under § 665.127, § 665.227, or § 665.427.
 
 *SSC* means the Scientific and Statistical Committee of the Western Pacific Fishery Management Council.
 
 *State of Hawaii commercial marine license* means the license required by the State of Hawaii for anyone to take marine life for commercial purposes (also known as the commercial fishing license).
 
-*Transship* means to offload or otherwise transfer MUS or products thereof to a receiving vessel.
+*Transship* means to offload or otherwise transfer MUS or ECS or products thereof to a receiving vessel.
 
 *Trap* means a box-like device used for catching and holding lobsters or fish.
 
@@ -146,4 +140,4 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Western Pacific fishery management area* means those waters shoreward of the outer boundary of the EEZ around American Samoa, Guam, Hawaii, CNMI, Midway, Johnston and Palmyra Atolls, Kingman Reef, and Wake, Jarvis, Baker, and Howland Islands.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37286, June 27, 2011; 78 FR 33003, June 3, 2013; 79 FR 64111, Oct. 28, 2014]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37286, June 27, 2011; 78 FR 33003, June 3, 2013; 79 FR 64111, Oct. 28, 2014; 84 FR 2768, Feb. 8, 2019]

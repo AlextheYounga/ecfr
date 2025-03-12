@@ -1,7 +1,5 @@
 ##### § 665.15 Prohibitions. #####
 
-Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
-
 In addition to the prohibitions in § 600.725 of this chapter, it is unlawful for any person to:
 
 (a) Engage in fishing without a valid permit or facsimile of a valid permit on board the vessel and available for inspection by an authorized officer, when a permit is required under §§ 665.13 or 665.17, unless the vessel was at sea when the permit was issued under § 665.13, in which case the permit must be on board the vessel before its next trip.
@@ -26,13 +24,13 @@ In addition to the prohibitions in § 600.725 of this chapter, it is unlawful fo
 
 (k) Fail to notify officials as required in §§ 665.126, 665.144, 665.205, 665.226, 665.244, 665.426, 665.444, 665.626, 665.644, 665.803, or 665.808.
 
-(l) Fish for, take or retain within a no-take MPA, defined in §§ 665.99, 665.199, 665.399, or 665.599, any bottomfish MUS, crustacean MUS, western Pacific pelagic MUS, precious coral, seamount groundfish or coral reef ecosystem MUS.
+(l) Fish for, take or retain within a no-take MPA, defined in § 665.99, § 665.199, § 665.399, or § 665.599, any bottomfish MUS or ECS, crustacean MUS or ECS, western Pacific pelagic MUS, precious coral MUS or ECS, seamount groundfish MUS, or coral reef ecosystem ECS.
 
 (m) Fail to comply with a term or condition governing the vessel monitoring system in violation of § 665.19.
 
-(n) Fish for, catch, or harvest MUS without an operational VMS unit on board the vessel after installation of the VMS unit by NMFS, in violation of § 665.19(e)(2).
+(n) Fish for, catch, or harvest MUS or ECS without an operational VMS unit on board the vessel after installation of the VMS unit by NMFS, in violation of § 665.19(e)(2).
 
-(o) Possess MUS, that were harvested after NMFS has installed the VMS unit on the vessel, on board that vessel without an operational VMS unit, in violation of § 665.19(e)(2).
+(o) Possess MUS or ECS, that were harvested after NMFS has installed the VMS unit on the vessel, on board that vessel without an operational VMS unit, in violation of § 665.19(e)(2).
 
 (p) Interfere with, tamper with, alter, damage, disable, or impede the operation of a VMS unit or attempt any of the same; or move or remove a VMS unit without the prior permission of the SAC in violation of § 665.19(e)(3).
 
@@ -46,4 +44,4 @@ In addition to the prohibitions in § 600.725 of this chapter, it is unlawful fo
 
 (u) Fail to comply with the restrictions specified in the notification issued pursuant to § 665.4(f)(1), in violation of § 665.15(f)(2).
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37287, June 27, 2011]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37287, June 27, 2011; 84 FR 2769, Feb. 8, 2019]

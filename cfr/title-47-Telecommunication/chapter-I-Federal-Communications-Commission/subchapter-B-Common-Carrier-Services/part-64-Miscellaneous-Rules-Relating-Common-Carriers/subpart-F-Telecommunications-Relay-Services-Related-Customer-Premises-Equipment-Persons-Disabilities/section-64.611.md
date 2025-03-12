@@ -1,7 +1,5 @@
 ##### § 64.611 Internet-based TRS registration. #####
 
-Link to an amendment published at 84 FR 8461, Mar. 8, 2019.
-
 (a) *Default provider registration.* Every provider of VRS or IP Relay must, no later than December 31, 2008, provide users with the capability to register with that VRS or IP Relay provider as a “default provider.” Upon a user's registration, the VRS or IP Relay provider shall:
 
 (1) Either:

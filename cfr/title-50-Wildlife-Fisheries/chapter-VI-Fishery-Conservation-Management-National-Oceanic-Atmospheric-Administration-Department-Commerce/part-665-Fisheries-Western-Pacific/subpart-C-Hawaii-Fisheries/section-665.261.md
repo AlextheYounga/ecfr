@@ -1,17 +1,18 @@
 ##### § 665.261 Definitions. #####
 
-Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
-
 As used in §§ 665.260 through 665.270:
 
-*Hawaii precious coral management unit species (Hawaii precious coral MUS)* means any coral of the genus *Corallium* in addition to the following species of corals:
+*Hawaii precious coral ecosystem component species (Hawaii precious coral ECS)* means those species identified as ECS in the Hawaii FEP.
 
-|        English common name         |                           Scientific name                           |
-|------------------------------------|---------------------------------------------------------------------|
-|Pink coral (also known as red coral)|       Corallium secundum,Corallium regale,Corallium laauense.       |
-|             Gold coral             |Gerardia spp., Callogorgia gilberti, Narella spp., Calyptrophora spp.|
-|            Bamboo coral            |                   Lepidisis olapa, Acanella spp.                    |
-|            Black coral             |        Antipathes griggi,Antipathes grandis,Antipathes ulex.        |
+*Hawaii precious coral management unit species (Hawaii precious coral MUS)* means the following species:
+
+|Common name |                    Scientific name                     |
+|------------|--------------------------------------------------------|
+| Pink coral |               Pleurocorallium secundum.                |
+| Red coral  |                Hemicorallium laauense.                 |
+| Gold coral |                 Kulamanamana haumeaae.                 |
+|Bamboo coral|                      Acanella sp.                      |
+|Black coral |Antipathes griggi, Antipathes grandis, Myriopathes ulex.|
 
 *Hawaii precious coral permit area* means the area encompassing the precious coral beds within the EEZ around Hawaii. Each bed is designated by a permit area code and assigned to one of the following four categories:
 
@@ -30,3 +31,5 @@ As used in §§ 665.260 through 665.270:
 (3) *Refugia.* Westpac Bed, Permit Area R-1, includes the area within a radius of 2.0 nm of a point at 23°18′ N. lat., 162°35′ W. long.
 
 (4) *Exploratory areas.* Permit Area X-P-H includes all coral beds, other than established beds, conditional beds, or refugia, in the EEZ seaward of the State of Hawaii.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2773, Feb. 8, 2019]

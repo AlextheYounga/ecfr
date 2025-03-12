@@ -1,5 +1,7 @@
 ##### § 54.312 Connect America Fund for Price Cap Territories - Phase I. #####
 
+Link to an amendment published at 84 FR 8624, Mar. 11, 2019.
+
 (a) *Frozen High-Cost Support.* Beginning January 1, 2012, each price cap local exchange carrier and rate-of-return carrier affiliated with a price cap local exchange carrier will have a “baseline support amount” equal to its total 2011 support in a given study area, or an amount equal to $3,000 times the number of reported lines for 2011, whichever is lower. For purposes of this section, price cap carriers are defined pursuant to § 61.3(aa) of this chapter and affiliated companies are determined by § 32.9000 of this chapter. Each price cap local exchange carrier and rate-of-return carrier affiliated with a price cap local exchange carrier will have a “monthly baseline support amount” equal to its baseline support amount divided by twelve. Beginning January 1, 2012, on a monthly basis, eligible carriers will receive their monthly baseline support amount.
 
 (1) “Total 2011 support” is the amount of support disbursed to a price cap local exchange carrier or rate-of-return carrier affiliated with a price cap local exchange carrier for 2011, without regard to prior period adjustments related to years other than 2011 and as determined by USAC on January 31, 2012.

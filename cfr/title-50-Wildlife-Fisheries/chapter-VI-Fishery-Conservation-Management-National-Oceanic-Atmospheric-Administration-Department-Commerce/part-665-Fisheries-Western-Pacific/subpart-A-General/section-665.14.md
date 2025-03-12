@@ -1,8 +1,6 @@
 ##### § 665.14 Reporting and recordkeeping. #####
 
-Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
-
-(a) Except for precious coral and crustacean fisheries, any person who is required to do so by applicable state law or regulation must make and/or file all reports of MUS landings containing all data and in the exact manner required by applicable state law or regulation.
+(a) *State reporting.* Except for precious coral and crustacean fisheries, any person who is required to do so by applicable state law or regulation must make and/or file all reports of MUS or ECS landings containing all data and in the exact manner required by applicable state law or regulation.
 
 (b) *Fishing record forms* - (1) *Applicability.* (i) The operator of a fishing vessel subject to the requirements of §§ 665.124, 665.142, 665.162, 665.203(a)(2), 665.224, 665.242, 665.262, 665.404, 665.424, 665.442, 665.462, 665.603, 665.624, 665.642, 665.662, 665.801, 665.905, 665.935, or 665.965 must maintain on board the vessel an accurate and complete record of catch, effort, and other data on paper report forms provided by the Regional Administrator, or electronically as specified and approved by the Regional Administrator, except as allowed in paragraph (b)(1)(iii) of this section.
 
@@ -18,9 +16,9 @@ Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
 
 (iv) If fishing was authorized under a permit pursuant to §§ 665.124, 665.224, 665.424, 665.624, 665.905, 665.935, or 665.965, the original logbook information for each day of fishing must be submitted to the Regional Administrator within 30 days of the end of each fishing trip.
 
-(c) *Transshipment logbooks.* Any person subject to the requirements of §§ 665.124(a)(2), 665.224(a)(2), 665.424(a)(2), 665.624(a)(2), or 665.801(e) must maintain on board the vessel an accurate and complete NMFS transshipment logbook containing report forms provided by the Regional Administrator. All information specified on the forms must be recorded on the forms within 24 hours after the day of transshipment. Each form must be signed and dated by the receiving vessel operator. The original logbook for each day of transshipment activity must be submitted to the Regional Administrator within 72 hours of each landing of western Pacific pelagic MUS. The original logbook for each day of transshipment activity must be submitted to the Regional Administrator within 7 days of each landing of coral reef ecosystem MUS.
+(c) *Transshipment logbooks.* Any person subject to the requirements of § 665.124(a)(2), § 665.224(a)(2), § 665.424(a)(2), § 665.624(a)(2), or § 665.801(e) must maintain on board the vessel an accurate and complete NMFS transshipment logbook containing report forms provided by the Regional Administrator. All information specified on the forms must be recorded on the forms within 24 hours after the day of transshipment. Each form must be signed and dated by the receiving vessel operator. The original logbook for each day of transshipment activity must be submitted to the Regional Administrator within 72 hours of each landing of western Pacific pelagic MUS. The original logbook for each day of transshipment activity must be submitted to the Regional Administrator within 7 days of each landing of coral reef ECS.
 
-(d) *Sales report.* The operator of any fishing vessel subject to the requirements of §§ 665.142, 665.242, 665.442, or 665.642, or the owner of a medium or large fishing vessel subject to the requirements of § 665.404(a)(2) must submit to the Regional Administrator, within 72 hours of offloading of crustacean MUS, an accurate and complete sales report on a form provided by the Regional Administrator. The form must be signed and dated by the fishing vessel operator.
+(d) *Sales report.* The operator of any fishing vessel subject to the requirements of § 665.142, § 665.242, § 665.442, or § 665.642, or the owner of a medium or large fishing vessel subject to the requirements of § 665.404(a)(2) must submit to the Regional Administrator, within 72 hours of offloading of crustacean MUS or ECS, an accurate and complete sales report on a form provided by the Regional Administrator. The form must be signed and dated by the fishing vessel operator.
 
 (e) *Packing or weigh-out slips.* The operator of any fishing vessel subject to the requirements of §§ 665.142, 665.242, 665.442, or 665.642 must attach packing or weighout slips provided to the operator by the first-level buyer(s), unless the packing or weighout slips have not been provided in time by the buyer(s).
 
@@ -34,18 +32,18 @@ Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
 
 (iii) Prices paid by the buyer and proceeds to the seller in each transaction.
 
-(2) *Crustacean MUS.* Upon request, any first-level buyer must immediately allow an authorized officer and any employee of NMFS designated by the Regional Administrator, to access, inspect, and copy all records relating to the harvest, sale, or transfer of crustacean MUS taken by vessels that have permits issued under this subpart or §§ 665.140 through 665.145, 665.240 through 665.252, 665.440 through 665.445, or 665.640 through 665.645 of this part. This requirement may be met by furnishing the information on a worksheet provided by the Regional Administrator. The information must include, but is not limited to:
+(2) *Crustaceans.* Upon request, any first-level buyer must immediately allow an authorized officer and any employee of NMFS designated by the Regional Administrator, to access, inspect, and copy all records relating to the harvest, sale, or transfer of crustacean MUS or ECS taken by vessels that have permits issued under this subpart or §§ 665.140 through 665.145, §§ 665.240 through 665.252, §§ 665.440 through 665.445, or §§ 665.640 through 665.645. This requirement may be met by furnishing the information on a worksheet provided by the Regional Administrator. The information must include, but is not limited to:
 
 (i) The name of the vessel involved in each transaction and the owner or operator of the vessel.
 
-(ii) The amount, number, and size of each MUS involved in each transaction.
+(ii) The amount, number, and size of each MUS or ECS involved in each transaction.
 
 (iii) Prices paid by the buyer and proceeds to the seller in each transaction.
 
-(3) Bottomfish and seamount groundfish MUS. Any person who is required by state laws and regulations to maintain records of landings and sales for vessels regulated by this subpart and by §§ 665.100 through 665.105, 665.200 through 665.212, 665.400 through 665.407, and 665.600 through 665.606 of this part must make those records immediately available for Federal inspection and copying upon request by an authorized officer.
+(3) *Bottomfish and seamount groundfish.* Any person who is required by state laws and regulations to maintain records of landings and sales for vessels regulated by this subpart and by §§ 665.100 through 665.105, 665.200 through 665.212, 665.400 through 665.407, and 665.600 through 665.606 must make those records immediately available for Federal inspection and copying upon request by an authorized officer.
 
-(4) *Coral reef ecosystem MUS.* Any person who has a special permit and who is required by state laws and regulations to maintain and submit records of catch and effort, landings and sales for coral reef ecosystem MUS by this subpart and §§ 665.120 through 665.128, 665.220 through 665.228, 665.420 through 665.428, or 665.620 through 665.628 of this part must make those records immediately available for Federal inspection and copying upon request by an authorized officer as defined in § 600.10 of this chapter.
+(4) *Coral reefs.* Any person who has a special permit and who is required by state laws and regulations to maintain and submit records of catch and effort, landings and sales for coral reef ECS by this subpart and §§ 665.120 through 665.128, §§ 665.220 through 665.228, §§ 665.420 through 665.428, or §§ 665.620 through 665.628 must make those records immediately available for Federal inspection and copying upon request by an authorized officer as defined in § 600.10 of this chapter.
 
 (h) *State reporting.* Any person who has a permit under §§ 665.124, 665.203, 665.224, 665.404, 665.424, 665.603, or 665.624 and who is regulated by state laws and regulations to maintain and submit records of catch and effort, landings and sales for vessels regulated by subparts B through F of this part must maintain and submit those records in the exact manner required by state laws and regulations.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013]
+[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013; 84 FR 2769, Feb. 8, 2019]

@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -425,7 +423,6 @@ Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
 |                                           679.5(l)(7)                                           |                                          \-0711                                          |
 |                                           679.5(l)(8)                                           |                                          \-0665                                          |
 |                                            679.5(n)                                             |                                          \-0269                                          |
-|                                            679.5(o)                                             |                                          \-0401                                          |
 |                                            679.5(p)                                             |                                          \-0428                                          |
 |                                            679.5(q)                                             |                                          \-0513                                          |
 |                                            679.5(r)                                             |                                 \-0213, -0445, and -0545                                 |

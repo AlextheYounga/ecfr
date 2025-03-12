@@ -1,10 +1,8 @@
 ##### § 665.17 Experimental fishing. #####
 
-Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
+(a) *General.* The Regional Administrator may authorize, for limited purposes, the direct or incidental harvest of MUS or ECS that would otherwise be prohibited by this part. No experimental fishing may be conducted unless authorized by an EFP issued by the Regional Administrator in accordance with the criteria and procedures specified in this section. EFPs will be issued without charge.
 
-(a) *General.* The Regional Administrator may authorize, for limited purposes, the direct or incidental harvest of MUS that would otherwise be prohibited by this part. No experimental fishing may be conducted unless authorized by an EFP issued by the Regional Administrator in accordance with the criteria and procedures specified in this section. EFPs will be issued without charge.
-
-(b) *Observers.* No experimental fishing for crustacean MUS may be conducted unless a NMFS observer is aboard the vessel.
+(b) *Observers.* No experimental fishing for crustacean MUS or ECS may be conducted unless a NMFS observer is aboard the vessel.
 
 (c) *Application.* An applicant for an EFP must submit to the Regional Administrator at least 60 days before the desired date of the EFP a written application including, but not limited to, the following information:
 
@@ -91,3 +89,5 @@ Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
 (j) *Sanctions.* Failure of the holder of an EFP to comply with the terms and conditions of an EFP, the provisions of subparts A through F of this part, any other applicable provision of this part, the Magnuson-Stevens Act, or any other regulation promulgated thereunder, is grounds for revocation, suspension, or modification of the EFP with respect to all persons and vessels conducting activities under the EFP. Any action taken to revoke, suspend, or modify an EFP will be governed by 15 CFR part 904 subpart D. Other sanctions available under the statute will be applicable.
 
 (k) *Protected species.* Persons fishing under an EFP must report any incidental take or fisheries interaction with protected species on a form provided for that purpose. Reports must be submitted to the Regional Administrator within 3 days of arriving in port.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2769, Feb. 8, 2019]

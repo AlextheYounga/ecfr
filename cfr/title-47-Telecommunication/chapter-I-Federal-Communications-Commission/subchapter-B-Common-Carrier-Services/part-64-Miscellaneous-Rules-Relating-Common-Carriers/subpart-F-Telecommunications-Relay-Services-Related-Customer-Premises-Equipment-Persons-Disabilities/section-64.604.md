@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 84 FR 8461, Mar. 8, 2019.
-
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
 (a) *Operational standards* - (1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.

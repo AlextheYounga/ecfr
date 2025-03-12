@@ -1,24 +1,22 @@
 ##### § 665.124 Permits and fees. #####
 
-Link to an amendment published at 84 FR 2770, Feb. 8, 2019.
-
 (a) *Applicability.* Unless otherwise specified in this subpart, § 665.13 applies to coral reef ecosystem permits.
 
-(1) *Special permit.* Any person of the United States fishing for, taking or retaining American Samoa coral reef ecosystem MUS must have a special permit if they, or a vessel which they operate, is used to fish for any:
+(1) *Special permit.* Any person of the United States fishing for, taking or retaining American Samoa coral reef ECS must have a special permit if they fish, or if a vessel which they operate is used to fish, for any:
 
-(i) American Samoa coral reef ecosystem MUS in low-use MPAs as defined in § 665.99;
+(i) American Samoa coral reef ECS in low-use MPAs as defined in § 665.99;
 
-(ii) American Samoa Potentially Harvested Coral Reef Taxa in the coral reef ecosystem management area; or
+(ii) American Samoa coral reef ECS in the coral reef ecosystem management area; or
 
-(iii) American Samoa coral reef ecosystem MUS in the coral reef ecosystem management area with any gear not specifically allowed in this subpart.
+(iii) American Samoa coral reef ECS in the coral reef ecosystem management area with any gear not specifically allowed in this subpart.
 
-(2) *Transshipment permit.* A receiving vessel must be registered for use with a transshipment permit if that vessel is used in the American Samoa coral reef ecosystem management area to land or transship PHCRT, or any American Samoa coral reef ecosystem MUS harvested within low-use MPAs.
+(2) *Transshipment permit.* A receiving vessel must be registered for use with a transshipment permit if that vessel is used in the American Samoa coral reef ecosystem management area to land or transship American Samoa coral reef ECS harvested within low-use MPAs.
 
 (3) *Exceptions.* The following persons are not required to have a permit under this section:
 
-(i) Any person issued a permit to fish under any FEP who incidentally catches American Samoa coral reef ecosystem MUS while fishing for bottomfish MUS, crustacean MUS, western Pacific pelagic MUS, precious coral, or seamount groundfish.
+(i) Any person issued a permit to fish under any FEP who incidentally catches American Samoa coral reef ECS while fishing for bottomfish MUS or ECS, crustacean ECS, western Pacific pelagic MUS, precious coral ECS, or seamount groundfish MUS;
 
-(ii) Any person fishing for American Samoa CHCRT outside of an MPA, who does not retain any incidentally caught American Samoa PHCRT; and
+(ii) Any person fishing for American Samoa coral reef ECS outside of an MPA, who does not retain any American Samoa coral reef ECS; and
 
 (iii) Any person collecting marine organisms for scientific research as described in § 665.17, or § 600.745 of this chapter.
 
@@ -87,3 +85,5 @@ Link to an amendment published at 84 FR 2770, Feb. 8, 2019.
 (iv) The Regional Administrator may adopt the hearing officer's recommended decision, in whole or in part, or may reject or modify it. In any event, the Regional Administrator will notify interested persons of the decision, and the reason(s) therefore, in writing, within 30 days of receipt of the hearing officer's recommended decision. The Regional Administrator's action constitutes final action for the agency for the purposes of the Administrative Procedure Act.
 
 (5) The Regional Administrator may, for good cause, extend any time limit prescribed in this section for a period not to exceed 30 days either upon his or her own motion or upon written request from the Council, appellant or applicant stating the reason(s) therefore.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2770, Feb. 8, 2019]

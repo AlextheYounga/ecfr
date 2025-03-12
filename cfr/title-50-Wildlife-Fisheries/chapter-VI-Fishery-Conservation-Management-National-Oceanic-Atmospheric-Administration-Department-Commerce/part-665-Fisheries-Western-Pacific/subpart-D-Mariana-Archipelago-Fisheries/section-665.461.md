@@ -1,6 +1,8 @@
 ##### § 665.461 Definitions. #####
 
-Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
+As used in §§ 665.460 through 665.470:
+
+*Mariana precious coral ecosystem component species (Mariana precious coral ECS)* means those species identified as ECS in the Marianas Archipelago FEP.
 
 *Mariana precious coral management unit species* means any coral of the genus *Corallium* in addition to the following species of corals:
 
@@ -24,3 +26,5 @@ Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
 (i) Permit Area X-P-G includes all coral beds, other than established beds, conditional beds, or refugia, in the EEZ seaward of Guam.
 
 (ii) Permit Area X-P-CNMI includes all coral beds, other than established beds, conditional beds, or refugia, in the EEZ seaward of points 3 nautical miles from the shoreline of the CNMI.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2775, Feb. 8, 2019]

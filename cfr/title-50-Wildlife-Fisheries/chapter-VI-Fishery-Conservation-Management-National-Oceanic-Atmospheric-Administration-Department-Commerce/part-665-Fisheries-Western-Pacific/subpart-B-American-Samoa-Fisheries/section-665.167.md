@@ -1,7 +1,5 @@
 ##### § 665.167 Quotas. #####
 
-Link to an amendment published at 84 FR 2771, Feb. 8, 2019.
-
 (a) General. The quotas limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in § 665.167(d). Only live coral is counted toward the quota. The accounting period for all quotas begins July 1, 1983.
 
 (b) *Conditional bed closure.* A conditional bed will be closed to all nonselective coral harvesting after the quota for one species of coral has been taken.
@@ -16,4 +14,6 @@ Link to an amendment published at 84 FR 2771, Feb. 8, 2019.
 
 (4) NMFS will publish in the Federal Register a notification of the Regional Administrator's determination and a summary of the information on which it is based as soon as practicable after the determination is made.
 
-(d) The American Samoa exploratory permit area X-P-AS has an annual quota of 1,000 kg for all American Samoa precious coral MUS combined with the exception of black corals.
+(d) *Exploratory areas.* The American Samoa exploratory permit area X-P-AS has an annual quota of 1,000 kg for all American Samoa precious coral ECS combined with the exception of black corals.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2771, Feb. 8, 2019]

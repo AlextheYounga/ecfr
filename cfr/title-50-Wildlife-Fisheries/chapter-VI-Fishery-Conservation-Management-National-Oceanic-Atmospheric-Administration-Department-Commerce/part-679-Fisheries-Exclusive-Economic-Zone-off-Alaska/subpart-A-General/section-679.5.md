@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -1328,29 +1326,7 @@ CR Crab Regional Designations
 
 (ii) *Electronic submittal.* The transferee's designated representative must log into the system and create a transfer request as indicated on the computer screen. By using the transferee's NMFS ID, password, and Transfer Key and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
-(o) *Catcher vessel cooperative pollock catch report* - (1) *Applicability.* The designated representative of each AFA inshore processor catcher vessel cooperative must submit to the Regional Administrator a catcher vessel cooperative pollock catch report detailing each delivery of pollock harvested under the allocation made to that cooperative. The owners of the member catcher vessels in the cooperative are jointly responsible for compliance and must ensure that the designated representative complies with the applicable recordkeeping and reporting requirements of this section.
-
-(2) *Time limits and submittal.* (i) The cooperative pollock catch report must be submitted by one of the following methods:
-
-(A) An electronic data file in a format approved by NMFS; or
-
-(B) By FAX.
-
-(ii) The cooperative pollock catch report must be received by the Regional Administrator by 1200 hours, A.l.t. 1 week after the date of completion of delivery.
-
-(3) *Information required.* The cooperative pollock catch report must contain the following information:
-
-(i) Cooperative account number;
-
-(ii) Catcher vessel ADF&G number;
-
-(iii) Inshore processor Federal processor permit number;
-
-(iv) Delivery date;
-
-(v) Amount of pollock (in lb) delivered plus weight of at-sea pollock discards;
-
-(vi) ADF&G fish ticket number.
+(o) [Reserved]
 
 (p) *Commercial Operator's Annual Report (COAR)* - (1) *Requirement.* The owner of a mothership or catcher/processor must annually complete and submit to ADF&G the appropriate Forms A through M and COAR certification page for each year in which the mothership or catcher/processor was issued a Federal Fisheries permit. The owner of a mothership must include all fish received and processed during the year, including fish received from an associated tender vessel. The ADF&G COAR is further described under Alaska Administrative Code (5 AAC 39.130) (see § 679.3 (b)(2)).
 

@@ -4,7 +4,7 @@ Class prices per hundredweight of milk containing 3.5 percent butterfat, compone
 
 (a) *Class I price.* The Class I price per hundredweight, rounded to the nearest cent, shall be 0.965 times the Class I skim milk price plus 3.5 times the Class I butterfat price.
 
-(b) *Class I skim milk price.* The Class I skim milk price per hundredweight shall be the adjusted Class I differential specified in § 1000.52, plus the adjustment to Class I prices specified in §§ 1005.51(b), 1006.51(b) and 1007.51(b), plus the higher of the advanced pricing factors computed in paragraph (q)(1) or (2) of this section.
+(b) *Class I skim milk price.* The Class I skim milk price per hundredweight shall be the adjusted Class I differential specified in § 1000.52, plus the adjustment to Class I prices specified in §§ 1000.51(b), 1006.51(b) and 1007.51(b), plus the simple average of the advanced pricing factors computed in paragraph (q)(1) and (2) of this section, plus $0.74 per hundredweight.
 
 (c) *Class I butterfat price.* The Class I butterfat price per pound shall be the adjusted Class I differential specified in § 1000.52 divided by 100, plus the adjustments to Class I prices specified in §§ 1005.51(b), 1006.51(b) and 1007.51(b) divided by 100, plus the advanced butterfat price computed in paragraph (q)(3) of this section.
 
@@ -76,4 +76,4 @@ Class prices per hundredweight of milk containing 3.5 percent butterfat, compone
 
 (3) An advanced butterfat price per pound rounded to the nearest one-hundredth cent, shall be calculated by computing a weighted average of the 2 most recent U.S. average NASS AA Butter survey prices announced before the 24th day of the month, subtracting 17.15 cents from this average, and multiplying the result by 1.211.
 
-[64 FR 47899, Sept. 1, 1999, as amended at 65 FR 82833, Dec. 28, 2000; 68 FR 7064, Feb. 12, 2003; 71 FR 78334, Dec. 29, 2006; 73 FR 14155, Mar. 17, 2008; 73 FR 44619, July 31, 2008]
+[64 FR 47899, Sept. 1, 1999, as amended at 65 FR 82833, Dec. 28, 2000; 68 FR 7064, Feb. 12, 2003; 71 FR 78334, Dec. 29, 2006; 73 FR 14155, Mar. 17, 2008; 73 FR 44619, July 31, 2008; 84 FR 8591, Mar. 11, 2019+]

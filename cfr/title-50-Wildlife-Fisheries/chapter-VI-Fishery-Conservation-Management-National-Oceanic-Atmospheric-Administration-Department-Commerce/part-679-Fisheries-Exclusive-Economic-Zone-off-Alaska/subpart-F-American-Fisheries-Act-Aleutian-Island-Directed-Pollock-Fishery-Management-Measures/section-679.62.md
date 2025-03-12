@@ -1,7 +1,5 @@
 ##### § 679.62 Inshore sector cooperative allocation program. #####
 
-Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
-
 (a) *How will inshore sector cooperative allocations be made?* An inshore catcher vessel cooperative that applies for and receives an AFA inshore cooperative fishing permit under § 679.4(l)(6) will receive a sub-allocation of the annual BS subarea inshore sector directed fishing allowance. Each inshore cooperative's annual allocation amount(s) will be determined using the following procedure:
 
 (1) *Determination of individual vessel catch histories.* The Regional Administrator will calculate an official AFA inshore cooperative catch history for every inshore-sector endorsed AFA catcher vessel according to the following steps:
@@ -32,8 +30,6 @@ Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
 
 (ii) *Contract vessels.* All pollock contracted for harvest and caught by a vessel under contract to the cooperative under paragraph (c) of this section while the vessel was engaged in directed fishing for pollock in the BS subarea.
 
-(3) *How must cooperative harvests be reported to NMFS?* Each inshore pollock cooperative must report its BS subarea pollock harvest to NMFS on a weekly basis according to the recordkeeping and reporting requirements set out at § 679.5(o).
-
 (c) *Contract fishing by non-member vessels.* A cooperative that wishes to contract with a non-member vessel to harvest a portion of the cooperative's annual pollock allocation must comply with the following procedures.
 
 (1) *How does a cooperative contract with a non-member vessel?* A cooperative that wishes to contract with a non-member vessel must submit a completed contract fishing application to the Alaska Region, NMFS, in accordance with the contract fishing application instructions.
@@ -56,4 +52,4 @@ Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
 
 (5) *How must contract fishing be reported to NMFS?* An AFA inshore processor that receives pollock harvested by a vessel under contract to a cooperative must report the delivery to NMFS on the electronic delivery report by using the co-op code for the contracting cooperative rather than the co-op code of the vessel's home cooperative.
 
-[67 FR 79734, Dec. 30, 2002, as amended at 68 FR 6836, Feb. 11, 2003; 69 FR 64688, Nov. 8, 2004; 70 FR 9868, Mar. 1, 2005; 79 FR 54602, Sept. 12, 2014]
+[67 FR 79734, Dec. 30, 2002, as amended at 68 FR 6836, Feb. 11, 2003; 69 FR 64688, Nov. 8, 2004; 70 FR 9868, Mar. 1, 2005; 79 FR 54602, Sept. 12, 2014; 84 FR 2728, Feb. 8, 2019]
