@@ -64,7 +64,7 @@ Applications for the abandonment of railroad lines or the discontinuance of rail
 
 (h) *Additional information.* The applicant shall submit such additional information to support its application as the Board may require.
 
-(i) *Draft Federal Register notice.* The applicant shall submit a draft notice of its application to be published by the Board. In addition to the regular number of copies that must be filed with the Board, the applicant must submit a copy of the draft notice as data contained on a computer diskette compatible with the Board's current word processing capabilities. The Board will publish the notice in the Federal Register within 20 days of the application's filing with the Board. The draft notice shall be in the form set forth below:
+(i) *Draft Federal Register notice.* The applicant shall submit a draft notice of its application to be published by the Board. The Board will publish the notice in the Federal Register within 20 days of the application's filing with the Board. The draft notice shall be in the form set forth below:
 
 STB No. AB-\_\_\_\_ (Sub-No. \_\_\_\_)Notice of Application to Abandon or to Discontinue Service
 
@@ -90,7 +90,7 @@ In addition, a commenting party or protestant may provide:
 
 Parties seeking information concerning the filing of protests should refer to § 1152.25.
 
-Written comments and protests, including all requests for public use and trail use conditions, must indicate the proceeding designation STB No. AB \_\_ (Sub-No. \_\_) and should be filed with the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board (Board), Washington, DC 20423-0001, no later than (insert the date 45 days after the date applicant intends to file its application). Interested persons may file a written comment or protest with the Board to become a party to this abandonment (or discontinuance) proceeding. A copy of each written comment or protest shall be served upon the representative of the applicant (insert name, address, and phone number). The original and 10 copies of all comments or protests shall be filed with the Board with a certificate of service. Except as otherwise set forth in part 1152, every document filed with the Board must be served on all parties to the abandonment proceeding. 49 CFR 1104.12(a).
+Written comments and protests, including all requests for public use and trail use conditions, must indicate the proceeding designation STB No. AB \_\_ (Sub-No. \_\_) and should be filed with the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board (Board), Washington, DC 20423-0001, no later than (insert the date 45 days after the date applicant intends to file its application). Interested persons may file a written comment or protest with the Board to become a party to this abandonment (or discontinuance) proceeding. A copy of each written comment or protest shall be served upon the representative of the applicant (insert name, address, and phone number). Every comment or protest shall be filed with the Board with a certificate of service. Except as otherwise set forth in part 1152, every document filed with the Board must be served on all parties to the abandonment proceeding. 49 CFR 1104.12(a).
 
 The line sought to be abandoned (or discontinued) will be available for subsidy or sale for continued rail use, if the Board decides to permit the abandonment (or discontinuance), in accordance with applicable laws and regulations (49 U.S.C. 10904 and 49 CFR 1152.27). No subsidy arrangement approved under 49 U.S.C. 10904 shall remain in effect for more than 1 year unless otherwise mutually agreed by the parties (49 U.S.C. 10904(f)(4)(B)). Applicant will promptly provide upon request to each interested party an estimate of the subsidy and minimum purchase price required to keep the line in operation. The carrier's representative to whom inquiries may be made concerning sale or subsidy terms is (insert name and business address).
 
@@ -108,4 +108,4 @@ VerificationState of \_\_\_\_\_\_ ss.County of \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Subscribed and sworn to before me \_\_\_\_\_\_ in and for the State and County above named, this \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_.
 
-My Commission expires[61 FR 67883, Dec. 24, 1996, as amended at 74 FR 52909, Oct. 15, 2009; 83 FR 15079, Apr. 9, 2018]
+My Commission expires[61 FR 67883, Dec. 24, 1996, as amended at 74 FR 52909, Oct. 15, 2009; 83 FR 15079, Apr. 9, 2018; 84 FR 12945, Apr. 3, 2019]

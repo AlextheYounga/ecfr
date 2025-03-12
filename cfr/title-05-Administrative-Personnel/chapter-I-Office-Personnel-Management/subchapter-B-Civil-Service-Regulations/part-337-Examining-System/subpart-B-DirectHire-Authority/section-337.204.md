@@ -1,5 +1,7 @@
 ##### § 337.204 Severe shortage of candidates. #####
 
+Link to an amendment published at 84 FR 12875, April 3, 2019.
+
 (a) OPM will determine when a severe shortage of candidates exists for particular occupations, grades (or equivalent), and/or geographic locations. OPM may decide independently that such a shortage exists, or may make this decision in response to a written request from an agency.
 
 (b) An agency when requesting direct-hire authority under this section, or OPM when deciding independently, must identify the position or positions that are difficult to fill and must provide supporting evidence that demonstrates the existence of a severe shortage of candidates with respect to the position(s). The evidence should include, as applicable, information about:

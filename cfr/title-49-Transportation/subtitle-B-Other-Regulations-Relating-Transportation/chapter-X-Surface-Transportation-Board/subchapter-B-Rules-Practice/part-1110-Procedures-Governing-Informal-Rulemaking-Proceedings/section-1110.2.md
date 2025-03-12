@@ -6,7 +6,7 @@
 
 (c) Each petition seeking the institution of a proceeding, filed under this section must:
 
-(1) Be submitted, along with 15 copies, to the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board, Washington DC;
+(1) Be submitted to the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board, Washington DC;
 
 (2) Set forth the text or substance of the rule or amendment proposed or specify the rule that the petitioner wants to have repealed or modified;
 
@@ -22,4 +22,4 @@
 
 (g) If a petition under this section concerning a common carrier by railroad is granted, the Board will proceed as soon as it is practicable. If the petition is denied, the Board will publish a statement of the reasons for the denial in the Federal Register.
 
-[47 FR 49556, Nov. 1, 1982, as amended at 74 FR 52907, Oct. 15, 2009; 81 FR 8854, Feb. 23, 2016]
+[47 FR 49556, Nov. 1, 1982, as amended at 74 FR 52907, Oct. 15, 2009; 81 FR 8854, Feb. 23, 2016; 84 FR 12944, Apr. 3, 2019]

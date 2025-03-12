@@ -1,5 +1,7 @@
 ##### § 337.205 Critical hiring needs. #####
 
+Link to an amendment published at 84 FR 12875, April 3, 2019.
+
 (a) OPM will determine when there is a critical hiring need for particular occupations, grades (or equivalent) and/or geographic locations. OPM may decide independently that such a need exists or may make this decision in response to a written request from an agency.
 
 (b) An agency when requesting direct-hire authority under this section, or OPM when deciding on its own, must:

@@ -1,7 +1,5 @@
 ##### 519.708-70 Solicitation provisions. #####
 
-Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
-
 Insert the following provisions as directed:
 
 (a) 552.219-71, Notice to Offerors of Subcontracting Plan Requirements, on the cover page of solicitations containing the clause at FAR 52.219-9, Small Business Subcontracting Plan.

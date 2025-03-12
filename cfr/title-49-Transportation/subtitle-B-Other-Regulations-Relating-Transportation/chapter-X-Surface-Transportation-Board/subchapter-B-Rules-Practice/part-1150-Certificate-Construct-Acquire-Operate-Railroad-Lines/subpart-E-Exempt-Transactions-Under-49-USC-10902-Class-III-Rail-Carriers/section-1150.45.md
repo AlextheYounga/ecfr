@@ -1,4 +1,4 @@
-##### § 1150.45 Procedures and relevant dates - transactions under section 10902 that involve creation of Class I or Class II rail carriers. #####
+##### § 1150.45 Procedures and relevant dates—transactions under section 10902 that involve creation of Class I or Class II rail carriers. #####
 
 (a) To qualify for this exemption, applicant must serve a notice of intent to file a notice of exemption no later than 14 days before the notice of exemption is filed with the Board, and applicant must comply with the notice requirement of § 1150.42(e).
 
@@ -18,7 +18,7 @@
 
 (4) Shippers representing at least 50 percent of the volume of local traffic and traffic originating or terminating on the line(s) in the most recent 12 months for which data are available (beginning with the largest shipper and working down).
 
-(d) Applicant must also file a verified notice of exemption conforming to the requirements of paragraph (b) of this section and of § 1150.44, and certify compliance with paragraphs (a), (b), and (c) of this section, attaching a copy of the notice of intent. In addition to the written submission, the notice must be submitted on a 3.5-inch diskette formatted for WordPerfect 5.1.
+(d) Applicant must also file a verified notice of exemption conforming to the requirements of paragraph (b) of this section and of § 1150.44, and certify compliance with paragraphs (a), (b), and (c) of this section, attaching a copy of the notice of intent.
 
 (e) The exemption will be effective 45 days after the notice is filed. The Board, through the Director of the Office of Proceedings, will publish a notice in the Federal Register within 16 days of the filing.
 
@@ -26,4 +26,4 @@
 
 (g) Applicant must preserve intact all sites and structures more than 50 years old until compliance with the requirements of section 106 of the National Historic Preservation Act, 16 U.S.C. 470f, is achieved.
 
-[61 FR 32355, June 24, 1996, as amended at 62 FR 47584, Sept. 10, 1997; 71 FR 62213, Oct. 24, 2006]
+[61 FR 32355, June 24, 1996, as amended at 62 FR 47584, Sept. 10, 1997; 71 FR 62213, Oct. 24, 2006; 84 FR 12945, Apr. 3, 2019]

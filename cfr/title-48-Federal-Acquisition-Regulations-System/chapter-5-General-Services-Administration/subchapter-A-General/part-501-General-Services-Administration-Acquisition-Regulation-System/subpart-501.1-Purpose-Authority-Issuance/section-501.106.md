@@ -1,7 +1,5 @@
 ##### 501.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
-
 |GSAR Reference |          OMB Control No.          |
 |---------------|-----------------------------------|
 | 509.105-1(a)  |             3090-0007             |
@@ -11,8 +9,6 @@ Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
 |    515.408    |             3090-0235             |
 |516.203-4(a)(1)|             3090-0243             |
 |    516.506    |             3090-0248             |
-|    519.70     |             3090-0286             |
-|  519.708(b)   |             3090-0252             |
 |   522.406-6   |             1215-0149             |
 |    523.370    |             3090-0205             |
 |  532.905-70   |             3090-0080             |
@@ -32,9 +28,6 @@ Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
 |  552.216-72   |             3090-0248             |
 |  552.216-73   |             3090-0248             |
 |  552.216-75   |             3090-0306             |
-|  552.219-72   |             3090-0252             |
-|  552.219-75   |             3090-0286             |
-|  552.219-76   |             3090-0286             |
 |  552.223-72   |             3090-0205             |
 |   552.232-5   |3090-0080, 9000-0070, and 9000-0102|
 |  552.232-72   |             3090-0080             |
@@ -59,4 +52,4 @@ Link to an amendment published at 84 FR 1411, Feb. 4, 2019.
 |  570.802(c)   |             3090-0086             |
 |  570.802(d)   |             3090-0086             |
 
-[64 FR 37203, July 9, 1999, as amended at 65 FR 41378, July 5, 2000; 68 FR 41288, July 11, 2003; 74 FR 21273, May 7, 2009; 74 FR 41063, Aug. 14, 2009; 74 FR 47738, Sept. 17, 2009; 74 FR 66253, Dec. 15, 2009; 76 FR 30845, May 27, 2011; 77 FR 750, Jan. 6, 2012; 79 FR 14184, Mar. 13, 2014; 79 FR 62884, Oct. 21, 2014; 79 FR 63057, Oct. 22, 2014; 81 FR 36425, June 6, 2016; 81 FR 41136, June 23, 2016; 84 FR 3716, Feb. 13, 2019]Editorial Note:At 74 FR 66253, Dec. 15, 2009, the table in § 501.106 was amended by removing the GSAR reference number “511.104-70” and its corresponding OMB Control Number “3090-0203”; however, the amendment could not be done because this reference number is not found in the table.
+[64 FR 37203, July 9, 1999, as amended at 65 FR 41378, July 5, 2000; 68 FR 41288, July 11, 2003; 74 FR 21273, May 7, 2009; 74 FR 41063, Aug. 14, 2009; 74 FR 47738, Sept. 17, 2009; 74 FR 66253, Dec. 15, 2009; 76 FR 30845, May 27, 2011; 77 FR 750, Jan. 6, 2012; 79 FR 14184, Mar. 13, 2014; 79 FR 62884, Oct. 21, 2014; 79 FR 63057, Oct. 22, 2014; 81 FR 36425, June 6, 2016; 81 FR 41136, June 23, 2016; 84 FR 1411, Feb. 4, 2019; 84 FR 3716, Feb. 13, 2019]Editorial Note:At 74 FR 66253, Dec. 15, 2009, the table in § 501.106 was amended by removing the GSAR reference number “511.104-70” and its corresponding OMB Control Number “3090-0203”; however, the amendment could not be done because this reference number is not found in the table.

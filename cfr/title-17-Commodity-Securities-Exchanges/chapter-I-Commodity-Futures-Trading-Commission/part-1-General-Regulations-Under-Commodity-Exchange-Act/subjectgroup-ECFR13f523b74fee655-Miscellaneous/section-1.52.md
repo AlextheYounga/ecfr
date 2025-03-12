@@ -1,5 +1,7 @@
 ##### § 1.52 Self-regulatory organization adoption and surveillance of minimum financial requirements. #####
 
+Link to an amendment published at 84 FR 12892, April 3, 2019.
+
 (a) For purposes of this section, the following terms are defined as follows:
 
 (1) *Examinations expert* is defined as a Nationally recognized accounting and auditing firm with substantial expertise in audits of futures commission merchants, risk assessment and internal control reviews, and is an accounting and auditing firm that is acceptable to the Commission; and

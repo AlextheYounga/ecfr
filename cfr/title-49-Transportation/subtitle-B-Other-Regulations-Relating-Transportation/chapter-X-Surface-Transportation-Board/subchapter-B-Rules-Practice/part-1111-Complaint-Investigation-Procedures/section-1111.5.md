@@ -4,10 +4,12 @@
 
 (b) *Disclosure with simplified standards answer.* The defendant must provide to the complainant all documents that it relied upon to determine the inputs used in the URCS Phase III program.
 
-(c) *Time for filing; copies; service.* An answer must be filed within 20 days after the service of the complaint or within such additional time as the Board may provide. The original and 10 copies of an answer must be filed with the Board. The defendant must serve copies of the answer upon the complainant and any other defendants.
+(c) *Time for filing; copies; service.* An answer must be filed with the Board within 20 days after the service of the complaint or within such additional time as the Board may provide. The defendant must serve copies of the answer upon the complainant and any other defendants.
 
 (d) *Cross complaints.* A cross complaint alleging violations by other parties to the proceeding or seeking relief against them may be filed with the answer. An answer to a cross complaint shall be filed within 20 days after the service date of the cross complaint. The party shall serve copies of an answer to a cross complaint upon the other parties.
 
 (e) *Failure to answer complaint.* Averments in a complaint are admitted when not denied in an answer to the complaint.
 
 (f) *Discovery in stand-alone cost cases.* Upon filing its answer, the defendant shall certify that it has served its initial discovery requests on the complainant. If the complainant tenders an amended or supplemental complaint to which the defendant must reply, upon filing the answer to the amended or supplemental complaint, the defendant shall certify that it has served on the complainant those initial discovery requests affected by the amended or supplemental complaint, if any.
+
+[82 FR 57379, Dec. 5, 2017, as amended at 84 FR 12944, Apr. 3, 2019]

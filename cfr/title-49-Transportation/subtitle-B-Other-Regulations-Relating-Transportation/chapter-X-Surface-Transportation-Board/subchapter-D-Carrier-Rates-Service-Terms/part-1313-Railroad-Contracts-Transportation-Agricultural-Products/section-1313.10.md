@@ -1,5 +1,7 @@
 ##### § 1313.10 Procedures for complaints and discovery. #####
 
+Link to an amendment published at 84 FR 12946, April 3, 2019.
+
 (a) *Complaints, discovery petitions, replies, and appeals* - (1) *Initial filing.* Complaints must be filed by the 18th day after the contract summary is filed. Any discovery petition must accompany the complaint.
 
 (2) *Complaint.* A complaint must contain the correct, unabbreviated names and addresses of the complainant(s) and defendant(s). The complainant must set out the statutory provisions under which it has standing to file a complaint, and its reasons for requesting that the Board find the challenged contract unlawful.

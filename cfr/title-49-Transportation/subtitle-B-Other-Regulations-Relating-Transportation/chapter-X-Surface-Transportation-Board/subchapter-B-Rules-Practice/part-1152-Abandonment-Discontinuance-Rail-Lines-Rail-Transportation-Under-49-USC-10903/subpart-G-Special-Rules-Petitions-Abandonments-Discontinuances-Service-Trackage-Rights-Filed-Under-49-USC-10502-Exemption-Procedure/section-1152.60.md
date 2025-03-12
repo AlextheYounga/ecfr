@@ -6,7 +6,7 @@
 
 (c) A petitioner for an abandonment exemption shall submit, with its petition, a draft Federal Register notice of its petition according to the form prescribed below:
 
-Draft Federal Register Notice. The petitioner shall submit a draft notice of its petition to be published by the Board within 20 days of the petition's filing with the Board. The petitioner must submit a copy of the draft notice as data contained on a computer diskette compatible with the Board's current word processing capabilities. The draft notice shall be in the form set forth below:
+Draft Federal Register Notice. The petitioner shall submit a draft notice of its petition to be published by the Board within 20 days of the petition's filing with the Board. The draft notice shall be in the form set forth below:
 
 STB No. AB-\_\_\_ (Sub-No.\_\_\_)Notice of Petition for Exemption To Abandon or To Discontinue Service
 
@@ -30,4 +30,4 @@ An environmental assessment (EA) (or environmental impact statement (EIS), if ne
 
 (e) As Provided in § 1152.29(e)(2), rail carriers that receive authority to abandon a line by individual exemption under 49 U.S.C. 10502 must file with the Board a notice that abandonment has been consummated.
 
-[61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34670, June 27, 1997; 83 FR 15079, Apr. 9, 2018]
+[61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34670, June 27, 1997; 83 FR 15079, Apr. 9, 2018; 84 FR 12945, Apr. 3, 2019]

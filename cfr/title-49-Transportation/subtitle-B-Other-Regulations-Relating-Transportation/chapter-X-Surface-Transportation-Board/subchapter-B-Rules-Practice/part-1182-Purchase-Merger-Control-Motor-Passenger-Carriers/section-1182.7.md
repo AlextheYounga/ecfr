@@ -18,6 +18,8 @@
 
 (1) A petition to reconsider a grant of interim approval must be in writing and shall state the specific grounds upon which the commenter relies in opposing interim approval. The petition shall certify that a copy has been served on applicants' representative.
 
-(2) The original and 10 copies of the petition to reconsider a grant of interim approval shall be filed with the Board, and one copy of the petition shall be served on applicants' representative(s).
+(2) The petition to reconsider a grant of interim approval shall be filed with the Board, and one copy of the petition shall be served on applicants' representative(s).
 
 (f) The Board may act on a petition to reconsider a grant of interim approval either separately or in connection with the final decision on the application.
+
+[63 FR 46397, Sept. 1, 1998, as amended at 84 FR 12945, Apr. 3, 2019]

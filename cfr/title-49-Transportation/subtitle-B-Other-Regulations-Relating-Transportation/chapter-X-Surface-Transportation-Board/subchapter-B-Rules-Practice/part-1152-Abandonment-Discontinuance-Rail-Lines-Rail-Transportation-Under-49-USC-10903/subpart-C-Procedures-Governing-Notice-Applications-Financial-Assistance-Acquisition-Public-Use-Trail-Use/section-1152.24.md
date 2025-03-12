@@ -1,6 +1,6 @@
 ##### § 1152.24 Filing and service of application. #####
 
-(a) An original and 10 copies of applications, typewritten or printed on paper approximately 81/2 inches by 11 inches with 11/2 inch left margin, shall be filed with the Chief, Section of Administration, Office of Proceedings, Washington, DC 20423-0001. The original shall bear the date and signature and shall be complete in itself; the signature may be stamped or typed and the notarial seal may be omitted on the copies. A check, money order or payment by credit card payable to the Surface Transportation Board must also be submitted to cover the applicable filing fee. If the applicant carrier is in bankruptcy, the application shall also be filed on the bankruptcy court.
+(a) The application shall be filed with the Chief, Section of Administration, Office of Proceedings, Washington, DC 20423-0001. The application shall bear the date and signature and shall be complete in itself. The applicable filing fee must be paid by check, money order, or through the Board's electronic payment system (see 49 CFR part 1002). If the applicant carrier is in bankruptcy, the application shall also be filed on the bankruptcy court.
 
 (b) The applicant shall tender with its application an affidavit attesting to its compliance with the notice requirement of § 1152.20. The affidavit shall include the dates of service, posting, and publication of the notice.
 
@@ -20,4 +20,4 @@
 
 (f) As provided in § 1152.29(e)(2), rail carriers authorized to abandon a line under 49 U.S.C. 10903 must file with the Board a notice that abandonment has been consummated.
 
-[61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34669, June 27, 1997; 64 FR 53268, Oct. 1, 1999; 74 FR 52909, Oct. 15, 2009]
+[61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34669, June 27, 1997; 64 FR 53268, Oct. 1, 1999; 74 FR 52909, Oct. 15, 2009; 84 FR 12945, Apr. 3, 2019]

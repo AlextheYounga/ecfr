@@ -1,5 +1,7 @@
 ##### § 1313.4 Filing procedures and formats for contract summaries. #####
 
+Link to an amendment published at 84 FR 12946, April 3, 2019.
+
 (a) *Filing of Summaries.* (1) Two copies of each contract summary, containing the applicable information specified in §§ 1313.6, 1313.7, or 1313.8, as appropriate, must be filed with the Board as soon as possible, but no longer than 7 days after the date of the contract (or contract amendment).
 
 (2) The outside envelope or wrapper containing one or more contract summaries must be prominently marked “Rail Contract Summary” and addressed to: Tariffs Branch, Surface Transportation Board, Washington, DC 20423.

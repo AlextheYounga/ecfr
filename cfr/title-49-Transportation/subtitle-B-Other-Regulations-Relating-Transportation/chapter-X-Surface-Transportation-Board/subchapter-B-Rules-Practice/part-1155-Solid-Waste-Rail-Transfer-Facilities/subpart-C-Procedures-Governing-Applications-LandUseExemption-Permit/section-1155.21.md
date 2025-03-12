@@ -50,7 +50,7 @@ Applications for land-use-exemption permits for the facility, and any proposed f
 
 (d) *Additional information.* The applicant shall submit such additional information to support its application as the Board may require.
 
-(e) *Draft Federal Register Notice.* The applicant shall submit a draft notice of its application to be published by the Board. In addition to the regular number of copies that must be filed with the Board, the applicant must submit a copy of the draft notice as data contained on a computer diskette compatible with the Board's current word processing capabilities. The Board will publish the notice in the Federal Register within 20 days of the application's filing with the Board. The draft notice shall be in the form set forth in Appendix B to this part.
+(e) *Draft Federal Register Notice.* The applicant shall submit a draft notice of its application to be published by the Board. The Board will publish the notice in the Federal Register within 20 days of the application's filing with the Board. The draft notice shall be in the form set forth in appendix B to this part.
 
 (f) *Verification.* The original application shall be executed and verified in the form set forth below by an officer of the applicant having knowledge of the facts and matters relied upon.
 
@@ -67,3 +67,5 @@ County of \_\_\_\_
 Subscribed and sworn to before me \_\_\_\_ in and for the State and County above named, this \_\_ day of \_\_, 20\_\_.
 
 My commission expires \_\_\_\_
+
+[77 FR 69774, Nov. 21, 2012, as amended at 84 FR 12945, Apr. 3, 2019]
