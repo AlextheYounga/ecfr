@@ -1,0 +1,7 @@
+##### § 1211.635 Forms and instructions; coordination. #####
+
+(a) *Forms and instructions.* The designated agency official shall issue and promptly make available to interested persons forms and detailed instructions and procedures for implementing these Title IX regulations.
+
+(b) *Supervision and coordination.* The Archivist or his designee may from time to time assign to officials of the agency, or to officials of other departments or agencies of the Government with the consent of such departments or agencies, responsibilities in connection with the effectuation of the purposes of Title IX and these Title IX regulations (other than responsibility for review as provided in § 1211.625(e)), including the achievements of effective coordination and maximum uniformity within the agency and within the Executive Branch of the Government in the application of Title IX and these Title IX regulations to similar programs and in similar situations. Any action taken, determination made, or requirement imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this section shall have the same effect as though such action had been taken by the designated official of this agency.
+
+[65 FR 52889, Aug. 30, 2000]

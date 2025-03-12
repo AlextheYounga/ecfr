@@ -1,0 +1,7 @@
+##### § 1206.41 What is a state historical records advisory board and how is it constituted? #####
+
+(a) *Responsibilities.* The board is the central advisory body for historical records coordination within the State and for NHPRC State and local records projects within the State. The board engages in planning; it develops, revises, and submits to the Commission a State plan including priorities for State historical records projects following “The Manual of Suggested Practices.” The board reviews all State and local records projects within the State and makes recommendations for State projects to the Commission.
+
+(b) *Appointments.* Each State participating in the NHPRC State program must adopt an appointment process and appoint a board following “The Manual of Suggested Practices.” The appointment process and membership must be reported at least annually to the Commission. A majority of members should have recognizable experience in the administration of records, manuscripts, or archives. The board should be as broadly representative as possible of the public and private archives, records offices, and research institutions and organizations in the State.
+
+[71 FR 27624, May 12, 2006, as amended at 75 FR 66318, Oct. 28, 2010]

@@ -1,0 +1,3 @@
+##### § 910.60 Gross floor area. #####
+
+*Gross floor area* is defined in section 1201, Zoning Regulations of the District of Columbia and generally means the sum of the gross horizontal areas of the several floors from the ground floor up of all buildings of a *development* occurring on a lot. *Gross floor area* shall be measured from the exterior faces of exterior walls and from the center line of walls separating two buildings.

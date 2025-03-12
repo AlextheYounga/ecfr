@@ -1,0 +1,19 @@
+##### § 219.17 Effective dates and transition. #####
+
+(a) *Effective dates.* (1) A plan or plan revision is effective 30 days after publication of notice of its approval.
+
+(2) Except as provided in paragraph (a)(3) of this section, a plan amendment for which an environmental impact statement (EIS) has been prepared is effective 30 days after publication of notice of its approval; a plan amendment for which an EIS has not been prepared is effective immediately.
+
+(3) A plan amendment that applies to only one specific project or activity is effective on the date the project may be implemented in accordance with administrative review regulations at 36 CFR parts 215 and 218.
+
+(b) *Plan amendment and plan revision transition.* For the purposes of this section, initiation means that the Agency has issued a notice of intent or other notice announcing the beginning of the process to develop a proposed plan, plan amendment, or plan revision.
+
+(1) *Initiating plan development and plan revisions.* Plan development and plan revisions initiated after May 9, 2012 must conform to the requirements of this part.
+
+(2) *Initiating plan amendments.* All plan amendments initiated after May 9, 2012, are subject to the objection process in subpart B of this part. With respect to plans approved or revised under a prior planning regulation, including the transition provisions of the reinstated 2000 rule (36 CFR part 219, published at 36 CFR parts 200 to 299, revised as of July 1, 2010), plan amendments may be initiated under the provisions of the prior planning regulation for 3 years after May 9, 2012, and may be completed and approved under those provisions (except for the optional appeal procedures of the prior planning regulation); or may be initiated, completed, and approved under the requirements of this part. After the 3-year transition period, all plan amendments must be initiated, completed, and approved under the requirements of this part.
+
+(3) *Plan development, plan amendments, or plan revisions initiated before this part.* For plan development, plan amendments, or plan revisions that were initiated before May 9, 2012, the responsible official may complete and approve the plan, plan amendment, or plan revision in conformance with the provisions of the prior planning regulation, including its transition provisions (36 CFR part 219, published at 36 CFR parts 200 to 299, revised as of July 1, 2010), or may conform the plan, plan amendment, or plan revision to the requirements of this part. If the responsible official chooses to complete an ongoing planning process under the provisions of the prior planning regulation, but chooses to allow for an objection rather than an administrative appeal, the objection process in subpart B of this part shall apply. When the responsible official chooses to conform an ongoing planning process to this part, public notice must be made (§ 219.16(a)(5)). An objection process may be chosen only if the public is provided the opportunity to comment on a proposed plan, plan amendment, or plan revision, and associated environmental analysis.
+
+(c) *Plans developed, amended, or revised under a prior planning regulation.* This part supersedes any prior planning regulation. No obligations remain from any prior planning regulation, except those that are specifically included in a unit's existing plan. Existing plans will remain in effect until revised. This part does not compel a change to any existing plan, except as required in § 219.12(c)(1). None of the requirements of this part apply to projects or activities on units with plans developed or revised under a prior planning rule until the plan is revised under this part, except that projects or activities on such units must comply with the consistency requirement of § 219.15 with respect to any amendments that are developed and approved pursuant to this part.
+
+[77 FR 21260, Apr. 9, 2012, as amended at 77 FR 44145, July 27, 2012]

@@ -1,0 +1,3 @@
+##### § 13.930 Do I need a permit to operate a motor vehicle on the Denali Park road west of the Savage River? #####
+
+Yes, you must obtain a permit from the superintendent to operate a motor vehicle on the restricted section of the Denali Park road. The restricted section begins at the west end of the Savage River Bridge (mile 14.8) and continues to the former Mt. McKinley National Park boundary north of Wonder Lake (mile 87.9).

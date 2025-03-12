@@ -1,0 +1,3 @@
+##### § 1012.6 How much will I be charged? #####
+
+We will charge you the costs, including travel expenses, for employees to testify under the relevant substantive and procedural laws and regulations. You must pay costs for record production in accordance with the provisions governing requests under the Freedom of Information Act in part 1007 of this chapter. Estimated Costs must be paid in advance by check or money order payable to the Presidio Trust. Upon determination of the precise costs, the Presidio Trust will either reimburse you for any overpayment, or charge you for any underpayment, which charges must be paid within 10 business days by check or money order payable to the Presidio Trust.

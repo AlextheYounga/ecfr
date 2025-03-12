@@ -1,0 +1,21 @@
+##### § 200.1 Central organization. #####
+
+(a) *Central office.* The national office of the Forest Service, U.S. Department of Agriculture, is located in the Auditors Building, 14th and Independence Avenue, SW. Washington, DC. It consists of the Office of the Chief and Associate Chief, and a Deputy Chief for each of the following five activities: Programs and Legislation, National Forest System, Research, State and Private Forestry, and Administration. All communications should be addressed to the Forest Service, Department of Agriculture, P.O. Box 96090, Washington, DC 20090-6090.
+
+(b) *Chief of the Forest Service.* The Chief of the Forest Service, under the direction of the Secretary of Agriculture, administers the formulation, direction, and execution of Forest Service policies, programs, and activities.
+
+(c) *Deputy Chiefs.* The major activities of the Forest Service at the headquarters level are divided into five Deputy Chief areas with each further divided into staff units. The programs and functions of staff units are directed by staff directors and may be subdivided into groups headed by group leaders. A description of the major activities of each Deputy Chief follows:
+
+(1) *Programs and legislation.* Overall planning of Forest Service programs, policy formulation and analysis, budgeting, legislative development, reporting and liaison, and environmental coordination.
+
+(2) *National Forest System.* Administration of National Forest System lands and management of natural resources within the principle of multiple use and sustained yield. Management includes planning, coordinating, and directing the national resource programs of timber, range, wildlife, recreation, watershed, and mineral areas; and support activities of fire, engineering, lands, aviation, and computer systems. The National Forest System includes:
+
+155 Proclaimed or designated National Forests20 National Grasslands51 Purchase Units8 Land Utilization Projects20 Research and Experimental Areas33 Other AreasThe first four classifications listed above are administered as 121 Forest Service Administrative Units, each headed by a Forest Supervisor. National Recreation Areas, National Forest Wildernesses, and Primitive Areas are included in the above land classifications.
+
+(3) *Research.* Plan, coordinate, and direct research programs to learn how man can best use and protect the plant, animal, soil, water, and esthetic resources of nonagricultural rural and exurban lands for his well-being and enjoyment. These programs include research on timber management, forest products and engineering, forest economics and marketing, watersheds, wildlife and fish habitat, range, recreation and other environmental concerns, forest insects and disease, forest fire and atmospheric science. Plans and directs international forestry activities and disseminates forestry research information throughout the world.
+
+(4) *State and private forestry.* Coordinate and provide leadership for intergovernmental resource programs for technical and financial assistance to improve and protect State and privately-owned forest resources and urban and community forestry. Carries out this action through cooperative forestry, area planning and development, cooperative fire protection, forest insect and disease management, cooperative tree planting, and overall Forest Service participation in rural development and environmental concern, including civil defense and other emergency activities.
+
+(5) *Administration.* Provide support for Forest Service programs through management improvement, fiscal and accounting, administrative services, personnel management, manpower and youth conservation, antipoverty programs, communication and electronics, internal review system, external audits, coordination of civil rights activities, public information, and Service-wide management of systems and computer applications.
+
+[41 FR 24350, June 16, 1976, as amended at 42 FR 32230, June 24, 1977; 43 FR 27190, June 23, 1978; 44 FR 5660, Jan. 29, 1979; 62 FR 33366, June 19, 1997]

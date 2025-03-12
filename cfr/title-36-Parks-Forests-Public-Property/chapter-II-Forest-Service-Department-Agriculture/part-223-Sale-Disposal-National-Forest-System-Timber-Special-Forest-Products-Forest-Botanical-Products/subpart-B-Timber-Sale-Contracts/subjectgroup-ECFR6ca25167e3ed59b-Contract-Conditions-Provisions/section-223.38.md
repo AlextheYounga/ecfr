@@ -1,0 +1,3 @@
+##### § 223.38 Standards for road design and construction. #####
+
+Road construction authorized under timber sale contracts, permits and other documents authorizing the cutting or removal of timber or forest products shall be designed to standards appropriate for the intended uses, considering safety, cost of transportation, and impacts on land and resources. If the sale contract provides for road design standards in excess of those needed for the harvest and removal of timber from that sale, including measures to protect adjacent resource values, provision shall be made in the contract for compensating the purchaser for the additional costs, unless the purchaser elects Government construction under section 14(i) of the National Forest Management Act of 1976.

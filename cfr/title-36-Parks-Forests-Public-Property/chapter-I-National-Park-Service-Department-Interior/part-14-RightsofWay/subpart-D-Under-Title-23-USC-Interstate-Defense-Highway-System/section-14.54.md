@@ -1,0 +1,3 @@
+##### § 14.54 General. #####
+
+Applications for rights-of-way and material sites under title 23, U.S.C., for lands under the jurisdiction of the National Park Service, together with four copies of a durable and legible map shall be filed by the appropriate State highway department with the Director, National Park Service, Department of Interior, Washington, D.C. 20240. Maps should accurately describe the land or interest in land desired, showing the survey of the right-of-way, properly located with respect to the public land surveys so that said right-of-way may be accurately located on the ground by any competent engineer or land surveyor. The map should comply with the requirements of § 14.25(a).

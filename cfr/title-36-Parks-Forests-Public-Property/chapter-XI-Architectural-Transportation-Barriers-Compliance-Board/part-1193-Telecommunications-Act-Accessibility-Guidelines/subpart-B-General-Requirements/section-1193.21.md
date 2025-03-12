@@ -1,0 +1,3 @@
+##### § 1193.21 Accessibility, usability, and compatibility. #####
+
+Where readily achievable, telecommunications equipment and customer premises equipment shall comply with the requirements of subpart C of this part. Where it is not readily achievable to comply with subpart C of this part, telecommunications equipment and customer premises equipment shall comply with the requirements of subpart D of this part, if readily achievable.

@@ -1,0 +1,3 @@
+##### § 1256.96 What provisions apply to the transfer of USIA audiovisual records to the National Archives of the United States? #####
+
+The provisions of 44 U.S.C. 2107 and 36 CFR part 1228 apply to the transfer of USIA audiovisual records to NARA, and to their deposit with the National Archives of the United States. At the time the audiovisual records are transferred to NARA, the Director of USIA, in accordance with § 1228.266(e) of this chapter, will also transfer any production or title files bearing on the ownership of rights in the productions in connection with USIA's official overseas programming.

@@ -1,0 +1,3 @@
+##### § 1222.30 When must agencies comply with the recordkeeping requirements of other agencies? #####
+
+Agencies must comply with recordkeeping requirements that are imposed government-wide by another agency with jurisdiction over the program or activity being conducted, e.g., requirements for records concerning hazardous waste. Affected agencies must include these requirements in appropriate directives or other official issuances prescribing the agency's organization, functions, or activities.

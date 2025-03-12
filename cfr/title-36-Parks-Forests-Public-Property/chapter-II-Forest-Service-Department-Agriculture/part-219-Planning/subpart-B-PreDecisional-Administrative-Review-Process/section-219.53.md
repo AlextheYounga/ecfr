@@ -1,0 +1,11 @@
+##### § 219.53 Who may file an objection. #####
+
+(a) Individuals and entities who have submitted substantive formal comments related to a plan, plan amendment, or plan revision during the opportunities for public comment as provided in subpart A during the planning process for that decision may file an objection. Objections must be based on previously submitted substantive formal comments attributed to the objector unless the objection concerns an issue that arose after the opportunities for formal comment. The burden is on the objector to demonstrate compliance with requirements for objection. Objections that do not meet the requirements of this paragraph may not be accepted; however, objections not accepted must be documented in the planning record.
+
+(b) Formal comments received from an authorized representative(s) of an entity are considered those of the entity only. Individual members of that entity do not meet objection eligibility requirements solely based on membership in an entity. A member or an individual must submit substantive formal comments independently to be eligible to file an objection in an individual capacity.
+
+(c) When an objection lists multiple individuals or entities, each individual or entity must meet the requirements of paragraph (a) of this section. Individuals or entities listed on an objection that do not meet eligibility requirements may not be considered objectors, although an objection must be accepted (if not otherwise set aside for review under § 219.55) if at least one listed individual or entity meets the eligibility requirements.
+
+(d) Federal agencies may not file objections.
+
+(e) Federal employees who otherwise meet the requirements of this subpart for filing objections in a non-official capacity must comply with Federal conflict of interest statutes at 18 U.S.C. 202-209 and with employee ethics requirements at 5 CFR part 2635. Specifically, employees may not be on official duty nor use government property or equipment in the preparation or filing of an objection. Further, employees may not include information unavailable to the public, such as Federal agency documents that are exempt from disclosure under the Freedom of Information Act (5 U.S.C. 552(b)).

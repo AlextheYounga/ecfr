@@ -1,0 +1,7 @@
+##### § 1600.25 Appeals from denials of requests for access to records. #####
+
+(a) *Appeals.* If you are dissatisfied with the Foundation's response to your request for access to records, you may appeal an adverse determination denying your request in any respect to the Executive Director of the Foundation, 110 S. Church Avenue, Suite 3350, Tucson, AZ 85701-1650. You must make your appeal in writing, and it must be received within 60 days of the date of the letter denying your request. Your appeal letter may include as much or as little related information as you wish, as long as it clearly identifies the determination (including the assigned request number, if any) that you are appealing. For the quickest possible handling, you should mark both your appeal letter and the envelope “Privacy Act Appeal.”
+
+(b) *Responses to appeals.* The decision on your appeal will be made in writing. A decision affirming an adverse determination in whole or in part will include a brief statement of the reason(s) for the affirmance, including any Privacy Act exemption applied, and will inform you of the Privacy Act provisions for court review of the decision. If the adverse determination is reversed or modified on appeal in whole or in part, you will be notified in a written decision and your request will be reprocessed in accordance with that appeal decision.
+
+(c) *When appeal is required.* If you wish to seek review by a court of any adverse determination or denial of a request, you must first appeal it under this section.

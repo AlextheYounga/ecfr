@@ -1,0 +1,3 @@
+##### § 401.3 Background. #####
+
+Following World War I many American individuals, organizations and governmental entities sought to create memorials in Europe commemorating the service of American Armed Forces that participated in that war. Frequently such well-intended efforts were undertaken without adequate regard for many issues including host nation approvals, design adequacy, and funding for perpetual maintenance. As a result, in 1923 Congress created the American Battle Monuments Commission to generally oversee all memorials created by Americans or American entities to commemorate the service of American Armed Forces at locations outside the United States.

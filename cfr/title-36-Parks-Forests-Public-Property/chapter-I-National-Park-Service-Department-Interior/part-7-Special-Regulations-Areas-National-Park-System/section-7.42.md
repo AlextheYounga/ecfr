@@ -1,0 +1,7 @@
+##### § 7.42 Pipestone National Monument. #####
+
+(a) An American Indian desiring to quarry and work “catlinite” pipestone shall first secure a permit from the Superintendent. The Superintendent shall issue a permit to any American Indian applicant, *Provided,* that: (1) In the judgment of the Superintendent, the number of permittees then quarrying or working the pipestone is not so large as to be inconsistent with preservation of the deposit and (2) a suitable area is available for conduct of the operation. The permit shall be issued without charge and shall be valid only during the calendar year in which it is issued.
+
+(b) An American Indian desiring to sell handicraft products produced by him, members of his family, or by other Indians under his supervision or under contract to him, including pipestone articles, shall apply to the Superintendent. The Superintendent shall grant the permit provided that (1) in his judgment the number of permittees selling handicraft products is not so large as to be inconsistent with the enjoyment of visitors to the Pipestone National Monument and (2) a suitable area is available for conduct of the operation. The permit shall be issued without charge and shall be valid only during the calendar year in which it is issued.
+
+[34 FR 5377, Mar. 19, 1969]

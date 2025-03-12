@@ -1,0 +1,3 @@
+##### § 1202.82 How do I file a Statement of Disagreement? #####
+
+If you receive a NARA final determination denying your request to amend a record, you may file a Statement of Disagreement with the appropriate system manager. The Statement of Disagreement must include an explanation of why you believe the record to be inaccurate, irrelevant, untimely, or incomplete. The system manager will maintain your Statement of Disagreement in conjunction with the pertinent record. The System Manager will send a copy of the Statement of Disagreement to any person or agency to whom the record has been disclosed, only if the disclosure was subject to the accounting requirements of § 1202.60.

@@ -1,0 +1,3 @@
+##### § 293.1 Definition. #####
+
+National Forest Wilderness shall consist of those units of the National Wilderness Preservation System which at least 30 days before the Wilderness Act of September 3, 1964, were designated as Wilderness and Wild under Secretary of Agriculture's Regulations U-1 and U-2 (§§ 251.20, 251.21), the Boundary Waters Canoe Area as designated under Regulation U-3 (§ 294.1), and such other areas of the National Forests as may later be added to the System by act of Congress. Sections 293.1 to 293.15 apply to all National Forest units now or hereafter in the National Wilderness Preservation System, including the Boundary Waters Canoe Area, Superior National Forest, except as that area is subject to § 293.16.

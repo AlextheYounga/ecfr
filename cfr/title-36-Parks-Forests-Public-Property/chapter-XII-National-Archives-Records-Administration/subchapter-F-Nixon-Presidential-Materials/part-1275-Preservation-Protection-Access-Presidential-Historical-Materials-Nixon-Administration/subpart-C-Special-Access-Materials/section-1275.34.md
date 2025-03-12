@@ -1,0 +1,3 @@
+##### § 1275.34 Access for use in judicial proceedings. #####
+
+In accordance with subpart B of this part, and subject to any rights, defenses, or privileges which the Federal Government or any person may invoke, the Presidential historical materials in the custody and control of the Archivist will be made available for use in any judicial proceeding and are subject to subpoena or other lawful process.

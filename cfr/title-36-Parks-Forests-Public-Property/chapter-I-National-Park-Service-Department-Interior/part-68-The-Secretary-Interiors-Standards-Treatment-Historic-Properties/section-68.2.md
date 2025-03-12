@@ -1,0 +1,11 @@
+##### § 68.2 Definitions. #####
+
+The standards for the treatment of historic properties will be used by the National Park Service and State historic preservation officers and their staff members in planning, undertaking and supervising grant-assisted projects for preservation, rehabilitation, restoration and reconstruction. For the purposes of this part:
+
+(a) *Preservation* means the act or process of applying measures necessary to sustain the existing form, integrity and materials of an historic property. Work, including preliminary measures to protect and stabilize the property, generally focuses upon the ongoing maintenance and repair of historic materials and features rather than extensive replacement and new construction. New exterior additions are not within the scope of this treatment; however, the limited and sensitive upgrading of mechanical, electrical and plumbing systems and other code-required work to make properties functional is appropriate within a preservation project.
+
+(b) *Rehabilitation* means the act or process of making possible an efficient compatible use for a property through repair, alterations and additions while preserving those portions or features that convey its historical, cultural or architectural values.
+
+(c) *Restoration* means the act or process of accurately depicting the form, features and character of a property as it appeared at a particular period of time by means of the removal of features from other periods in its history and reconstruction of missing features from the restoration period. The limited and sensitive upgrading of mechanical, electrical and plumbing systems and other code-required work to make properties functional is appropriate within a restoration project.
+
+(d) *Reconstruction* means the act or process of depicting, by means of new construction, the form, features and detailing of a non-surviving site, landscape, building, structure or object for the purpose of replicating its appearance at a specific period of time and in its historic location.

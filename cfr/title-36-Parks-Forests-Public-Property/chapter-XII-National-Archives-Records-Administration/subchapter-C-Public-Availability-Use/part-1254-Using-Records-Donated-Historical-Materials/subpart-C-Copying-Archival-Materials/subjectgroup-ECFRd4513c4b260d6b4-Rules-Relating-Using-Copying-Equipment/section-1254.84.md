@@ -1,0 +1,5 @@
+##### § 1254.84 How may I use a debit card for copiers in the Washington, DC, area? #####
+
+Your research identification card can be used as a debit card if you arrange with the Cashier's Office to set up an account using cash, check, money order, debit card, or credit card. Your researcher identification card number as encoded on the card forms the basis of your account in the debit system. You may also purchase generic debit cards of values up to $20 each from the Cashier's Office using any of the above payment methods. When the Cashier's Office is closed or at any other time during the hours research rooms are open as cited in part 1253 of this chapter, you may use cash or credit card to purchase a debit card from the vending machines located in the research rooms. Inserting the debit card into a card reader connected to the copier enables you to make copies for the appropriate fee, which are found in § 1258.12 of this chapter. You can add value to your card using the vending machine in the research room or at the Cashier's Office. We do not make refunds.
+
+[75 FR 10415, Mar. 8, 2010]

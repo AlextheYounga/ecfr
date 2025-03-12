@@ -1,0 +1,3 @@
+##### § 1253.1 National Archives Building. #####
+
+The National Archives Building is located at 700 Pennsylvania Avenue, NW., Washington, DC 20408. Hours for the Research Center and the Central Research Room are posted at *http://www.archives.gov.* The exhibit areas' hours of operation are also posted at *http://www.archives.gov.* Last admission to the exhibit areas of the building will be no later than 30 minutes before the stated closing hour. The phone number for the National Archives Building is 202-357-5000.

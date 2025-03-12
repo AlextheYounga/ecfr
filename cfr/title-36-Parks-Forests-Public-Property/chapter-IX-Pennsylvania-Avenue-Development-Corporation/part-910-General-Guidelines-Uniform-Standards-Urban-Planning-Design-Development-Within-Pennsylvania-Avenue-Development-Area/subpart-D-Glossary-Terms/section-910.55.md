@@ -1,0 +1,3 @@
+##### § 910.55 Build-to line. #####
+
+*Build-to line* means a line with which the exterior wall of a building in a *development* is required to coincide. Minor deviations from the *build-to line* for such architectural features as *weather protection,* recesses, niches, ornamental projections, entrance bays, or other articulations of the facade are permitted, unless otherwise prohibited by the applicable *Square Guidelines* or the District of Columbia's codes and regulations.

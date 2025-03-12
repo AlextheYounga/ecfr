@@ -1,0 +1,3 @@
+##### § 1202.74 How will I know if NARA approved my amendment request? #####
+
+If NARA approves your amendment request, the system manager will promptly make the necessary amendment to the record and will send a copy of the amended record to you. NARA will also advise all previous recipients of the record, using the accounting of disclosures, that an amendment has been made and give the substance of the amendment. Where practicable, NARA will also send a copy of the amended record to previous recipients.

@@ -1,0 +1,7 @@
+##### § 9.110 What are the purposes and functions of NPS operating standards? #####
+
+(a) You must comply with all operating standards in §§ 9.111 through 9.116, as well as with the standards in §§ 9.117 and 9.118, if applicable. The standards apply only to operations that occur within a System unit, including downhole activities, and do not apply to surface activities located outside a System unit. These operating standards are incorporated into the terms and conditions of your operations permit. Violation of these operating standards will subject you to the prohibitions and penalties provisions of §§ 9.180 through 9.182.
+
+(b) NPS operating standards are applied to ensure protection of federally owned or administered lands, waters, and resources of System units, visitor uses and experiences, and visitor and employee health and safety. The operating standards give us and the operator flexibility to consider using alternative methods, equipment, materials design, and conduct of operations.
+
+(c) In applying standards to a particular operation, you must use technologically feasible, least damaging methods to protect federally owned or administered lands, waters, and resources of System units, visitor uses and experiences, and visitor and employee health and safety.

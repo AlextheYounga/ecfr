@@ -1,0 +1,9 @@
+##### § 293.17 National Forest Primitive Areas. #####
+
+(a) Within those areas of National Forests classified as *Primitive* on the effective date of the Wilderness Act, September 3, 1964, there shall be no roads or other provision for motorized transportation, no commercial timber cutting, and no occupancy under special-use permit for hotels, stores, resorts, summer homes, organization camps, hunting and fishing lodges, or similar uses: *Provided,* That existing roads over National Forest lands reserved from the public domain and roads necessary for the exercise of a statutory right of ingress and egress may be allowed under appropriate conditions determined by the Chief, Forest Service.
+
+(b) Grazing of domestic livestock, development of water storage projects which do not involve road construction, and improvements necessary for the protection of the National Forests may be permitted, subject to such restrictions as the Chief, Forest Service, deems desirable. Within Primitive Areas, when the use is for other than administrative needs of the Forest Service, use by other Federal agencies when authorized by the Chief, and in emergencies, the landing of aircraft and the use of motorboats are prohibited on National Forest land or water unless such use by aircraft or motorboats has already become well established, the use of motor vehicles is prohibited, and the use of other motorized equipment is prohibited except as authorized by the Chief. These restrictions are not intended as limitations on statutory rights of ingress and egress or of prospecting, locating, and developing mineral resources.
+
+(c) All prohibitions for those areas of National Forest classified as *Primitive* on the effective date of the Wilderness Act, September 3, 1964, are in part 261.
+
+(78 Stat. 890, 16 U.S.C. 1131-1136; 74 Stat. 215, 16 U.S.C. 528-531)[38 FR 5855, Mar. 5, 1973, as amended at 42 FR 35960, July 13, 1977]

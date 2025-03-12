@@ -1,0 +1,3 @@
+##### § 1235.20 How do agencies indicate that transferred records contain information that is restricted from public access? #####
+
+When completing an SF 258, agencies must indicate restrictions on the use and examination of records and attach a written justification. The justification must cite the statute or Freedom of Information Act (FOIA) exemption (5 U.S.C. 552(b) as amended), that authorizes the restrictions.

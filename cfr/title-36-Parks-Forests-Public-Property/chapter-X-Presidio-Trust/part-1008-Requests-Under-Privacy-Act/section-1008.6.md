@@ -1,0 +1,5 @@
+##### § 1008.6 Assuring integrity of records. #####
+
+(a) *Statutory requirement.* The Privacy Act requires that records subject to the Privacy Act be maintained with appropriate administrative, technical and physical safeguards to insure the security and confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained, 5 U.S.C. 552a(e)(10).
+
+(b) *Records security.* Whether maintained in physical or electronic form, records subject to the Privacy Act shall be maintained in a secure manner commensurate with the sensitivity of the information contained in the system of records. The Privacy Act Officer will periodically review these security measures to ensure their adequacy.

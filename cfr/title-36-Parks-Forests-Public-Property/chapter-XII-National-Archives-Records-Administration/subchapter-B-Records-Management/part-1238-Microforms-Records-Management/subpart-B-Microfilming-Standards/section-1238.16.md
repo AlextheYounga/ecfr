@@ -1,0 +1,5 @@
+##### § 1238.16 What are the microfilming requirements for temporary records, duplicates, and user copies? #####
+
+(a) *Temporary records with a retention period over 99 years.* Agencies must use the microfilming requirements in § 1238.14.
+
+(b) *Temporary records to be kept for less than 99 years, duplicates, and user copies.* NARA does not require the use of specific standards for these microforms. Agencies may select a film stock that meets their needs and ensures the preservation of the microforms for their full retention period. NARA recommends that agencies consult appropriate standards, available as noted in § 1238.3, and manufacturer's instructions for processing production, and maintenance of microform to ensure that the images are accessible and usable for the entire retention period of the records.

@@ -1,0 +1,3 @@
+##### § 64.18 Retention and use. #####
+
+Property acquired or developed by State and local governments with section 809(b) assistance will be available to the general public and retained for recreation/conservation use. The acquiring agency will cause to have placed in the legal title to the property a restriction which precludes its conversion to other than public recreation/conservation use without the consent of the Secretary of the Interior. The Secretary shall not permit conversion to any use that would preclude future reactivation of rail transportation on such right-of-way.

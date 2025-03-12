@@ -1,0 +1,3 @@
+##### § 1150.81 Consolidated or joint hearing. #####
+
+In cases in which the same or related facts are asserted to constitute noncompliance with standards or guidelines and requirements, the judge may order all related cases consolidated and may make other orders concerning the proceedings as will be consistent with the objective of securing a just and inexpensive determination of the case without unnecessary delay.

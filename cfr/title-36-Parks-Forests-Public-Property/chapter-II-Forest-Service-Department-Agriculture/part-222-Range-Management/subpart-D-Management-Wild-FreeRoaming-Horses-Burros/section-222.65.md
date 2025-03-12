@@ -1,0 +1,3 @@
+##### § 222.65 Protection of wild free-roaming horses and burros when they are upon other than the National Forest System or public lands. #####
+
+Individual animals and herds of wild free-roaming horses and burros will be under the protection of the Chief, Forest Service, even though they may thereafter move to lands of other ownership or jurisdiction as a part of their annual territorial habitat pattern or for other reasons. The Chief will exercise surveillance of these animals through the use of cooperative agreements and as otherwise authorized by law and act immediately through appropriate administrative or criminal and civil judicial procedures to provide them the protective measures of the Act at any time he has cause to believe its provisions are being violated.

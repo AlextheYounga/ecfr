@@ -1,0 +1,7 @@
+##### § 1192.57 Interior circulation, handrails and stanchions. #####
+
+(a) Handrails and stanchions shall be provided to assist safe boarding, on-board circulation, seating and standing assistance, and alighting by persons with disabilities.
+
+(b) Handrails, stanchions, and seats shall allow a route at least 32 inches wide so that at least two wheelchair or mobility aid users can enter the vehicle and position the wheelchairs or mobility aids in areas, each having a minimum clear space of 48 inches by 30 inches, which do not unduly restrict movement of other passengers. Space to accommodate wheelchairs and mobility aids may be provided within the normal area used by standees and designation of specific spaces is not required. Particular attention shall be given to ensuring maximum maneuverability immediately inside doors. Ample vertical stanchions from ceiling to seat-back rails shall be provided. Vertical stanchions from ceiling to floor shall not interfere with wheelchair or mobility aid user circulation and shall be kept to a minimum in the vicinity of doors.
+
+(c) The diameter or width of the gripping surface of handrails and stanchions shall be 11/4 inches to 11/2 inches or provide an equivalent gripping surface and shall provide a minimum 11/2 inches knuckle clearance from the nearest adjacent surface.

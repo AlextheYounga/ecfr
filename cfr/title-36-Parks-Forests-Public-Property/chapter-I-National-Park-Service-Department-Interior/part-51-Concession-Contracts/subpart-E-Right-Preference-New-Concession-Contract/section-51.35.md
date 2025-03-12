@@ -1,0 +1,3 @@
+##### § 51.35 What happens to a right of preference if the Director receives no responsive proposals? #####
+
+If the Director receives no responsive proposals, including a responsive proposal from a preferred offeror, in response to a prospectus for a qualified concession contract for which a preferred offeror exists, the Director must cancel the solicitation and may resolicit the concession contract or take other appropriate action in accordance with this part. No right of preference will apply to a concession contract resolicited under this section unless the contract is resolicited upon terms and conditions materially more favorable to offerors than those contained in the original contract.

@@ -1,0 +1,3 @@
+##### § 51.6 Will a concession contract be developed for a particular potential offeror? #####
+
+The terms and conditions of a concession contract must represent the requirements of the Director in accordance with the purposes of this part and must not be developed to accommodate the capabilities or limitations of any potential offeror. The Director must not provide a current concessioner or other person any information as to the content of a proposed or issued prospectus that is not available to the general public.

@@ -1,0 +1,7 @@
+##### § 1260.82 What actions must NARA take with information in its physical and legal custody that has been made available to the public after declassification without proper authority? #####
+
+(a) When information in the physical and legal custody of NARA has been made available for public use following declassification without proper authority and needs to have its original classification markings restored, the original classification authority shall notify the Archivist in writing in accordance with 32 CFR 2001.13(a)(1).
+
+(b) If the Archivist does not agree with the reclassification decision and the information is more than 25 years old, the information will be temporarily withdrawn from public access and the Archivist will appeal the agency decision to the Director of ISOO, who will make a final decision in accordance with 32 CFR 2001.13(a)(1). The decision of the Director of ISOO may be appealed by the Archivist or the agency head to the President through the National Security Advisor.
+
+(c) Information about records that have been reclassified or have had their classification restored as described in §§ 1260.80 and 1260.82 will be made available quarterly through the NARA Web site, *http://www.archives.gov/about/plans-reports/withdrawn/.* Information will include the responsible agency, NARA location, date withdrawn, number of records, and number of pages.

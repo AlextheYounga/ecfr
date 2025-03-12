@@ -1,0 +1,3 @@
+##### § 14.52 Termination of right-of-way no longer needed. #####
+
+If at any time the need for any such lands or materials for such purposes shall no longer exist, notice of the fact shall be given by the State highway department to the Secretary of Transportation and such lands or materials shall immediately revert to the control of the Secretary of the Department from which they had been appropriated. Notice by the State highway departments, that the need for the land or material no longer exists may be given directly to the Bureau which granted the rights.

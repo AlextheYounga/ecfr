@@ -1,0 +1,3 @@
+##### § 1150.105 Court enforcement. #####
+
+The Executive Director, at the direction of the Board, shall bring a civil action in any appropriate United States district court to enforce, in whole or in part, any final compliance order. No member of the A&TBCB shall participate in any decision of the A&TBCB concerning a proceeding relating to the member, his/her Federal agency, or organization to which he/she is a member or in which he/she is otherwise interested.

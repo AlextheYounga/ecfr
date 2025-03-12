@@ -1,0 +1,3 @@
+##### § 72.43 Fundable elements: Recovery Action Program grants. #####
+
+Reasonable and documented costs necessary for preparing a Recovery Action Program may be reimbursed by UPARR funds from a 50 percent matching grant. These costs may include expenses for professional services; local public meetings; data collection and analysis; preparation, editing and printing of appropriate reports, plans, maps, charts and other documents forming a part of the plan; and supporting costs, supplies and other approved costs. Costs incurred prior to the approval of a Recovery Action Program grant will not be eligible for reimbursement or cost sharing.

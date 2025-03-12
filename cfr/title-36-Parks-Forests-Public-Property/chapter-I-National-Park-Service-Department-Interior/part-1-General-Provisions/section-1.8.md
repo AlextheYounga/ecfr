@@ -1,0 +1,5 @@
+##### § 1.8 Information collection. #####
+
+The information collection requirements contained in §§ 1.5, 2.4, 2.5, 2.10 2.12, 2.17, 2.33, 2.38, 2.50, 2.51, 2.52, 2.60, 2.61, 2.62, 3.3, 3.4, 4.4 and 4.11 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.,* and assigned clearance number 1024-0026. This information is being collected to provide superintendents data necessary to issue permits for special uses of park areas and to obtain notification of accidents that occur within park areas. This information will be used to grant administrative benefits and to facilitate prompt emergency response to accidents. In §§ 2.33, 3.4 and 4.4, the obligation to respond is mandatory; in all other sections the obligation to respond is required in order to obtain a benefit.
+
+[52 FR 10683, Apr. 2, 1987]

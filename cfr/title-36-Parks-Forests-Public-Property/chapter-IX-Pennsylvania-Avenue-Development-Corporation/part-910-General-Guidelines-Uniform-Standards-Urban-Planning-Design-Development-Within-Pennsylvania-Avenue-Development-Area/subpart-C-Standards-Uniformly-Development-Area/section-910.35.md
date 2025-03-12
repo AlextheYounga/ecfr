@@ -1,0 +1,3 @@
+##### § 910.35 Fine arts. #####
+
+Fine arts, including sculpture, paintings, decorative windows, bas-reliefs, ornamental fountains, murals, tapestries, and the like, should be included in each *development.* PADC encourages commissions for original works of art which are appropriate for the *development.* For information and guidance, a reasonable expenditure for fine arts is deemed to be one half of one percent of the total construction cost of the *development.*

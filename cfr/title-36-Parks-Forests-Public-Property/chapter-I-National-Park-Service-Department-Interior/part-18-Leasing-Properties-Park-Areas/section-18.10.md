@@ -1,0 +1,3 @@
+##### § 18.10 How long can the term of a lease be? #####
+
+All leases entered into under this part shall have as short a term as possible, taking into account the financial obligations of the lessee and other factors related to determining an appropriate lease term. No lease shall have a term of more than 60 years. Leases entered under the authority of this part may not be extended, except that, leases with an initial term of one (1) year or more may be extended once for a period not to exceed one (1) additional year if the Director determines that an extension is necessary because of circumstances beyond the Director's control.

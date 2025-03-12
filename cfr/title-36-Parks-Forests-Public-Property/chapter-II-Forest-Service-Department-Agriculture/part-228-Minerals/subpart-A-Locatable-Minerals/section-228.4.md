@@ -1,0 +1,51 @@
+##### § 228.4 Plan of operations—notice of intent—requirements. #####
+
+(a) Except as provided in paragraph (a)(1) of this section, a notice of intent to operate is required from any person proposing to conduct operations which might cause significant disturbance of surface resources. Such notice of intent to operate shall be submitted to the District Ranger having jurisdiction over the area in which the operations will be conducted. Each notice of intent to operate shall provide information sufficient to identify the area involved, the nature of the proposed operations, the route of access to the area of operations, and the method of transport.
+
+(1) A notice of intent to operate is not required for:
+
+(i) Operations which will be limited to the use of vehicles on existing public roads or roads used and maintained for National Forest System purposes;
+
+(ii) Prospecting and sampling which will not cause significant surface resource disturbance and will not involve removal of more than a reasonable amount of mineral deposit for analysis and study which generally might include searching for and occasionally removing small mineral samples or specimens, gold panning, metal detecting, non-motorized hand sluicing, using battery operated dry washers, and collecting of mineral specimens using hand tools;
+
+(iii) Marking and monumenting a mining claim;
+
+(iv) Underground operations which will not cause significant surface resource disturbance;
+
+(v) Operations, which in their totality, will not cause surface resource disturbance which is substantially different than that caused by other users of the National Forest System who are not required to obtain a Forest Service special use authorization, contract, or other written authorization;
+
+(vi) Operations which will not involve the use of mechanized earthmoving equipment, such as bulldozers or backhoes, or the cutting of trees, unless those operations otherwise might cause a significant disturbance of surface resources; or
+
+(vii) Operations for which a proposed plan of operations is submitted for approval;
+
+(2) The District Ranger will, within 15 days of receipt of a notice of intent to operate, notify the operator if approval of a plan of operations is required before the operations may begin.
+
+(3) An operator shall submit a proposed plan of operations to the District Ranger having jurisdiction over the area in which operations will be conducted in lieu of a notice of intent to operate if the proposed operations will likely cause a significant disturbance of surface resources. An operator also shall submit a proposed plan of operations, or a proposed supplemental plan of operations consistent with § 228.4(d), to the District Ranger having jurisdiction over the area in which operations are being conducted if those operations are causing a significant disturbance of surface resources but are not covered by a current approved plan of operations. The requirement to submit a plan of operations shall not apply to the operations listed in paragraphs (a)(1)(i) through (v). The requirement to submit a plan of operations also shall not apply to operations which will not involve the use of mechanized earthmoving equipment, such as bulldozers or backhoes, or the cutting of trees, unless those operations otherwise will likely cause a significant disturbance of surface resources.
+
+(4) If the District Ranger determines that any operation is causing or will likely cause significant disturbance of surface resources, the District Ranger shall notify the operator that the operator must submit a proposed plan of operations for approval and that the operations can not be conducted until a plan of operations is approved.
+
+(b) Any person conducting operations on the effective date of these regulations, who would have been required to submit a plan of operations under § 228.4(a), may continue operations but shall within 120 days thereafter submit a plan of operations to the District Ranger having jurisdiction over the area within which operations are being conducted: *Provided, however,* That upon a showing of good cause the authorized officer will grant an extension of time for submission of a plan of operations, not to exceed an additional 6 months. Operations may continue according to the submitted plan during its review, unless the authorized officer determines that the operations are unnecessarily or unreasonably causing irreparable damage to surface resources and advises the operator of those measures needed to avoid such damage. Upon approval of a plan of operations, operations shall be conducted in accordance with the approved plan. The requirement to submit a plan of operations shall not apply: (1) To operations excepted in § 228.4(a) or (2) to operations concluded prior to the effective date of the regulations in this part.
+
+(c) The plan of operations shall include:
+
+(1) The name and legal mailing address of the operators (and claimants if they are not the operators) and their lessees, assigns, or designees.
+
+(2) A map or sketch showing information sufficient to locate the proposed area of operations on the ground, existing and/or proposed roads or access routes to be used in connection with the operations as set forth in § 228.12 and the approximate location and size of areas where surface resources will be disturbed.
+
+(3) Information sufficient to describe or identify the type of operations proposed and how they would be conducted, the type and standard of existing and proposed roads or access routes, the means of transportation used or to be used as set forth in § 228.12, the period during which the proposed activity will take place, and measures to be taken to meet the requirements for environmental protection in § 228.8.
+
+(d) The plan of operations shall cover the requirements set forth in paragraph (c) of this section, as foreseen for the entire operation for the full estimated period of activity: *Provided, however,* That if the development of a plan for an entire operation is not possible at the time of preparation of a plan, the operator shall file an initial plan setting forth his proposed operation to the degree reasonably foreseeable at that time, and shall thereafter file a supplemental plan or plans whenever it is proposed to undertake any significant surface disturbance not covered by the initial plan.
+
+(e) At any time during operations under an approved plan of operations, the authorized officer may ask the operator to furnish a proposed modification of the plan detailing the means of minimizing unforeseen significant disturbance of surface resources. If the operator does not furnish a proposed modification within a time deemed reasonable by the authorized officer, the authorized officer may recommend to his immediate superior that the operator be required to submit a proposed modification of the plan. The recommendation of the authorized officer shall be accompanied by a statement setting forth in detail the supporting facts and reasons for his recommendations. In acting upon such recommendation, the immediate superior of the authorized officer shall determine:
+
+(1) Whether all reasonable measures were taken by the authorized officer to predict the environmental impacts of the proposed operations prior to approving the operating plan,
+
+(2) Whether the disturbance is or probably will become of such significance as to require modification of the operating plan in order to meet the requirements for environmental protection specified in § 228.8 and
+
+(3) Whether the disturbance can be minimized using reasonable means. Lacking such determination that unforeseen significant disturbance of surface resources is occurring or probable and that the disturbance can be minimized using reasonable means, no operator shall be required to submit a proposed modification of an approved plan of operations. Operations may continue in accordance with the approved plan until a modified plan is approved, unless the immediate superior of the authorized officer determines that the operations are unnecessarily or unreasonably causing irreparable injury, loss or damage to surface resources and advises the operator of those measures needed to avoid such damage.
+
+(f) Upon completion of an environmental analysis in connection with each proposed operating plan, the authorized officer will determine whether an environmental statement is required. Not every plan of operations, supplemental plan or modification will involve the preparation of an environmental statement. Environmental impacts will vary substantially depending on whether the nature of operations is prospecting, exploration, development, or processing, and on the scope of operations (such as size of operations, construction required, length of operations and equipment required), resulting in varying degrees of disturbance to vegetative resources, soil, water, air, or wildlife. The Forest Service will prepare any environmental statements that may be required.
+
+(g) The information required to be included in a notice of intent or a plan of operations, or supplement or modification thereto, has been assigned Office of Management and Budget Control #0596-0022. The public reporting burden for this collection of information is estimated to vary from a few minutes for an activity involving little or no surface disturbance to several months for activities involving heavy capital investments and significant surface disturbance, with an average of 2 hours per individual response. This includes time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding the burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to Chief (2800), Forest Service, USDA, P.O. Box 96090, Washington, DC 20090-6090 and to the Office of Information and Regulatory Affairs, Office of Management and Budget, Washington, DC 20503.
+
+[39 FR 31317, Aug. 28, 1974. Redesignated at 46 FR 36142, July 14, 1981, and amended at 54 FR 6893, Feb. 15, 1989; 69 FR 41430, July 9, 2004; 70 FR 32731, June 6, 2005]

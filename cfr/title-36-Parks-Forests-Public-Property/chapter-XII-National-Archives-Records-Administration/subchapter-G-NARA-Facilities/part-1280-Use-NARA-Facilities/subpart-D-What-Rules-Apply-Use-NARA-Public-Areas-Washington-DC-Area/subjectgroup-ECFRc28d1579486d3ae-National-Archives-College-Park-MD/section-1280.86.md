@@ -1,0 +1,3 @@
+##### § 1280.86 When are the public areas available for events in the National Archives at College Park? #####
+
+Most areas are available for set-up and use from 8 a.m. until 9:30 p.m., Monday through Friday, and from 9 a.m. until 4:30 p.m. on Saturday. A NARA staff member must be present at all times when the public area is in use. If the space and staff are available, we may approve requests for events held before or after these hours and on Sunday.

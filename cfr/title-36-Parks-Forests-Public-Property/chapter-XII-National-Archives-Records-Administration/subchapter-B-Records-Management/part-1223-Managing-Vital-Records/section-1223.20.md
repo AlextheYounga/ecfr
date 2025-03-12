@@ -1,0 +1,3 @@
+##### § 1223.20 What are the requirements for accessing vital records during an emergency? #####
+
+Agencies must establish retrieval procedures for vital records that are easily implemented, especially since individuals unfamiliar with the records may need to use them in an emergency. For electronic records systems, agencies must also ensure that appropriate hardware, software, and system documentation adequate to operate the system and access the records will be available in case of an emergency.

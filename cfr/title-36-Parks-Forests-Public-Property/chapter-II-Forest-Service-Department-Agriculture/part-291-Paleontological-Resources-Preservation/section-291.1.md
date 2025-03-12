@@ -1,0 +1,7 @@
+##### § 291.1 Purpose. #####
+
+(a) The regulations in this part implement provisions of the Paleontological Resources Preservation Act, 16 U.S.C. 470aaa through 16 U.S.C. 470aaa-11 (hereinafter referred to as the Act), which provides for the preservation, management, and protection of paleontological resources on National Forest System lands and encourages the scientific, educational and where appropriate, the casual collection of these resources. Paleontological resources are nonrenewable, and are an accessible and irreplaceable part of America's natural heritage.
+
+(b) The Secretary shall manage, protect, and preserve paleontological resources on National Forest System lands using scientific principles and expertise. These regulations provide for coordinated management of paleontological resources and encourage scientific and educational use by promoting public awareness, providing for collection under permit, setting curation standards, establishing civil and criminal penalties, clarifying that paleontological resources cannot be collected from National Forest System lands for commercial purposes, and by allowing the casual collection of some of these resources on certain lands and under specific conditions.
+
+(c) To the extent possible, the Secretary of Agriculture and the Secretary of the Interior will coordinate in the implementation of the Act.

@@ -1,0 +1,3 @@
+##### § 13.1328 EGDA closures and restrictions. #####
+
+The Superintendent may prohibit or otherwise restrict activities in the EGDA to protect public health, safety, or park resources, or to provide for the equitable and orderly use of park facilities. Information on closures and restrictions will be available at the park visitor information center. Violating closures or restrictions is prohibited.

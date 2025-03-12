@@ -1,0 +1,3 @@
+##### § 51.97 May the Director open to renegotiation or modify the terms of a concession contract as a condition to the approval of a transaction? #####
+
+The Director may not open to renegotiation or modify the terms and conditions of a concession contract as a condition to the approval of an assignment or encumbrance. The exception is if the Director determines that renegotiation or modification is required to avoid an adverse impact on the protection, conservation or preservation of the resources of a park area or an adverse impact on the provision of necessary and appropriate visitor services at reasonable rates and charges.

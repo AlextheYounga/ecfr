@@ -1,0 +1,3 @@
+##### § 228.46 Application of other laws and regulations. #####
+
+All mining operations for removal of mineral materials from National Forest lands must meet or exceed applicable Federal standards for the protection of public safety, health, and the environment, and must also meet or exceed State and local standards for the protection of public safety, health, and the environment, to the extent that such standards are not in conflict with Federal purposes and functions.

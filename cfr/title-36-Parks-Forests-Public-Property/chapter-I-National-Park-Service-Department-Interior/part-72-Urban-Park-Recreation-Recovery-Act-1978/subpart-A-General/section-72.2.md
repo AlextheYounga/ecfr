@@ -1,0 +1,3 @@
+##### § 72.2 Legislative authority. #####
+
+The policies and procedures of this rule are created to implement the Urban Park and Recreation Recovery Act of 1978, Title X of the National Parks and Recreation Act of 1978, Public Law 95-625, 16 U.S.C. 2501-2514. The Act provides Federal grants to economically hard-pressed communities specifically for the rehabilitation of critically needed recreation areas and facilities, and for the development of improved recreation services this program is authorized for a period of five years.

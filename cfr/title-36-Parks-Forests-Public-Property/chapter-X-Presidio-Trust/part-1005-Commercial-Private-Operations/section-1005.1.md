@@ -1,0 +1,3 @@
+##### § 1005.1 Advertisements. #####
+
+Commercial notices or advertisements shall not be displayed, posted, or distributed within the area administered by the Presidio Trust unless prior written permission has been given by the Executive Director. Such permission may be granted only if the notice or advertisement is of goods, services, or facilities available within the area administered by the Presidio Trust and such notices and advertisements are found by the Executive Director to be desirable and necessary for the convenience and guidance of the public.

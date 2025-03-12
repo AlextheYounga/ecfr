@@ -1,0 +1,3 @@
+##### § 51.101 Did the 1998 Act repeal the 1965 Act? #####
+
+Section 415 of the 1998 Act repealed the 1965 Act and related laws as of November 13, 1998. This repeal did not affect the validity of any 1965 Act concession contract. The provisions of this part apply to all 1965 Act concession contracts except to the extent that such provisions are inconsistent with terms and conditions of a 1965 Act concession contract.

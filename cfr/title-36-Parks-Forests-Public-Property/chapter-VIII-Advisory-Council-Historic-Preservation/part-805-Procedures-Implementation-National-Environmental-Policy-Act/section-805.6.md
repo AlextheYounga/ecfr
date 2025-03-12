@@ -1,0 +1,3 @@
+##### § 805.6 Interagency cooperation. #####
+
+The Council shall consult with appropriate Federal and non-Federal agencies and with interested private persons and organizations when it is considering actions involving such parties and requiring environmental assessments. Where other Federal agencies are involved in the proposed action, the Council shall cooperate in the required environmental assessment and the preparation of necessary environmental documents. Where appropriate as determined by the nature and extent of Council involvement in the proposed action, the Council shall assume the status of lead agency.

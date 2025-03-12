@@ -1,0 +1,3 @@
+##### § 1256.92 What is the purpose of this subpart? #####
+
+This subpart implements section 501 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1461), as amended by section 202 of Public Law 101-246 (104 Stat. 49, Feb. 16, 1990). This subpart also outlines procedures that permit the public to inspect and obtain copies of USIA audiovisual records and other materials in the United States that were prepared for dissemination abroad and that have been transferred to NARA for preservation and domestic distribution.

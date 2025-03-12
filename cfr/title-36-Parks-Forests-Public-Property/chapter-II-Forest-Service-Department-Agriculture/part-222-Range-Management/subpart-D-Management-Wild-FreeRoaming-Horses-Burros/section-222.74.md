@@ -1,0 +1,3 @@
+##### § 222.74 National Advisory Board. #####
+
+The Chief, Forest Service, shall appoint a representative to attend meetings of the National Advisory Board for Wild Free-Roaming Horses and Burros and to function as prescribed by the Memorandum of Agreement between the Department of the Interior and the Department of Agriculture and the Joint Charter issued by the Secretary of the Interior and the Secretary of Agriculture. Policies and guidelines relative to proposals for the establishment of ranges, adjustments in number, relocation and disposal of animals, and other matters relating generally to the protection, management, and control of wild free-roaming horses and burros shall be presented to the National Advisory Board for recommendations.

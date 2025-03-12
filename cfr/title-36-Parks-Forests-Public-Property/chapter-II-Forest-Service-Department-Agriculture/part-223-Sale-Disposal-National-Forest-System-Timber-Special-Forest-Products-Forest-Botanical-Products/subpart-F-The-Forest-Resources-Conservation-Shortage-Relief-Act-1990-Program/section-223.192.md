@@ -1,0 +1,15 @@
+##### § 223.192 Procedures for a non-manufacturer. #####
+
+(a) Persons who do not own or operate a manufacturing facility (non-manufacturer) are not eligible to apply for or be granted a sourcing area.
+
+(b) The prohibition against the purchase of Federal timber for a person who has exported unprocessed timber originating from private lands within the preceding 24-month period shall not apply, if the person certified in writing to the Regional Forester of the region(s) in which the person purchases National Forest System timber by November 20, 1990, that the person would cease exporting unprocessed timber originating from private lands by February 20, 1991, for a period of three (3) years, and the exporting did cease in accordance with such certification.
+
+(c) To obtain an exemption from the prohibition against export within the preceding 24-month period for purchasing Federal timber described in § 223.189 (a) and (b) of this subpart, a person must have applied in writing to the applicable Regional Forester on or before November 20, 1990. The application was required to be on company letterhead and, in the case of a corporation, with its corporate seal affixed, and must have included:
+
+(1) An agreement to retain records of all transactions involving acquisition and disposition of unprocessed timber from both private and Federal lands within the area(s) involved in the certification, for a period of three (3) years beginning November 20, 1990, and to make such records available for inspection upon the request of the Regional Forester, or other official to whom such authority has been delegated.
+
+(2) A signed certification which reads as follows:
+
+“I have engaged in the exporting of unprocessed timber originating from private lands located west of the 100th meridian in the contiguous 48 States during the preceding 24 months. I desire to purchase directly from a department or agency of the United States, unprocessed timber originating from Federal lands located in such area of the United States. I make this certification for the exemption from the prohibition against export within the preceding 24-month period for purchasing Federal timber required by the Forest Resources Conservation and Shortage Relief Act of 1990 (Pub. L. No. 101-382, August 20, 1990, 16 U.S.C. 620, *et seq.*) (Act). I hereby certify that I will cease all exporting of such unprocessed private timber from west of the 100th meridian in the contiguous 48 States of the United States by February 20, 1991. I make this certification with full knowledge and understanding of the requirements of this Act and do fully understand that failure to cease such exporting as certified will be a violation of this Act (16 U.S.C. 620d) and the False Statements Act (18 U.S.C. 1001), and may subject me to the penalties and remedies provided for such violation.”
+
+(3) The certification must have been signed by the person making such certification or, in the case of a corporation, by its Chief Executive Officer. The certificate must have been notarized.

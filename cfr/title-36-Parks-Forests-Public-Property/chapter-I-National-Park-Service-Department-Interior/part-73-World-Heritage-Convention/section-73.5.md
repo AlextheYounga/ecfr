@@ -1,0 +1,3 @@
+##### § 73.5 Authority. #####
+
+The policies and procedures contained herein are based on the authority of the Secretary of the Interior under title IV of the National Historic Preservation Act Amendments of 1980 (Pub. L. 96-515; 94 Stat. 3000; 16 U.S.C. 470a-1, a-2) which directs the Secretary to ensure and direct U.S. participation in the Convention Concerning the Protection of the World Cultural and Natural Heritage, approved by the U.S. Senate on October 26, 1973, in cooperation with the Secretary of State, the Smithsonian Institution, and the Advisory Council on Historic Preservation.

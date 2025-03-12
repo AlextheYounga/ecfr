@@ -1,0 +1,3 @@
+##### § 1008.1 Purpose and scope. #####
+
+This part contains the regulations of the Presidio Trust implementing section 3 of the Privacy Act. Sections 1008.3 through 1008.10 describe the procedures and policies of the Presidio Trust concerning maintenance of records which are subject to the Privacy Act. Sections 1008.11 through 1008.17 describe the procedure under which individuals may determine whether systems of records subject to the Privacy Act contain records relating to them and the procedure under which they may seek access to existing records. Sections 1008.18 through 1008.24 describe the procedure under which individuals may petition for amendment of records subject to the Privacy Act relating to them.

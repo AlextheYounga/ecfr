@@ -1,0 +1,7 @@
+##### § 218.11 Resolution of objections. #####
+
+(a) *Meetings.* Prior to the issuance of the reviewing officer's written response, either the reviewing officer or the objector may request to meet to discuss issues raised in the objection and potential resolution. The reviewing officer has the discretion to determine whether adequate time remains in the review period to make a meeting with the objector practical, the appropriate date, duration, agenda, and location for any meeting, and how the meeting will be conducted to facilitate the most beneficial dialogue; e.g., face-to-face office meeting, project site visit, teleconference, video conference, etc. The responsible official should be a participant along with the reviewing officer in any objection resolution meeting. Meetings are not required to be noticed but are open to attendance by the public, and the reviewing officer will determine whether those other than objectors may participate.
+
+(b) *Reviewing officer's response to objections.* (1) A written response must set forth the reasons for the response, but need not be a point-by-point response and may contain instructions to the responsible official, if necessary. In cases involving more than one objection to a proposed project or activity, the reviewing officer may consolidate objections and issue one or more responses.
+
+(2) No further review from any other Forest Service or USDA official of the reviewing officer's written response to an objection is available.

@@ -1,0 +1,3 @@
+##### § 28.24 Information collection. #####
+
+The collection of information contained in §§ 28.13, and 28.23 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1024-0050. The information will be used to determine if private property conforms to the federal regulations. Response is required to obtain a benefit in accordance with 16 U.S.C. Section 459e *et seq.*

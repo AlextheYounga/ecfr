@@ -1,0 +1,3 @@
+##### § 9.301 Scope and applicability. #####
+
+These regulations apply to all activities conducted by authorized agencies and their contractors on public lands in units of the National Park System in Alaska under the Alaska Mineral Resource Assessment program (AMRAP) as authorized by section 1010 of ANILCA. AMRAP activities conducted under this subpart shall be performed in accordance with ANILCA, the regulations in this subpart, the terms and conditions of an approved permit, and other applicable statutes and regulations, and amendments thereto.

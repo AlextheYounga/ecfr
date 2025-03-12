@@ -1,0 +1,17 @@
+##### § 60.11 Requests for nominations. #####
+
+(a) The State Historic Preservation Officer or Federal Preservation Officer as appropriate shall respond in writing within 60 days to any person or organization submitting a completed National Register nomination form or requesting consideration for any previously prepared nomination form on record with the State or Federal agency. The response shall provide a technical opinion concerning whether or not the property is adequately documented and appears to meet the National Register criteria for evaluation in § 60.4. If the nomination form is determined to be inadequately documented, the nominating authority shall provide the applicant with an explanation of the reasons for that determination.
+
+(b) If the nomination form does not appear to be adequately documented, upon receiving notification, it shall be the responsibility of the applicant to provide necessary additional documentation.
+
+(c) If the nomination form appears to be adequately documented and if the property appears to meet the National Register criteria for evaluation, the State Historic Preservation Officer shall comply with the notification requirements in § 60.6 and schedule the property for presentation at the earliest possible State Review Board meeting. Scheduling shall be consistent with the State's established priorities for processing nominations. If the nomination form is adequately documented, but the property does not appear to meet National Register criteria for evaluation, the State Historic Preservation Officer need not process the nomination, unless so requested by the Keeper pursuant to § 60.12.
+
+(d) The State Historic Preservation Officer's response shall advise the applicant of the property's position in accord with the State's priorities for processing nominations and of the approximate date the applicant can expect its consideration by the State Review Board. The State Historic Preservation Officer shall also provide notice to the applicant of the time and place of the Review Board meeting at least 30 but not more than 75 days before the meeting, as well as complying with the notification requirements in § 60.6.
+
+(e) Upon action on a nomination by the State Review Board, the State Historic Preservation Officer shall, within 90 days, submit the nomination to the National Park Service, or, if the State Historic Preservation Officer does not consider the property eligible for the National Register, so advise the applicant within 45 days.
+
+(f) If the applicant substantially revises a nomination form as a result of comments by the State or Federal agency, it may be treated by the State Historic Preservation Officer or Federal Preservation Officer as a new submittal and reprocessed in accord with the requirements in this section.
+
+(g) The Federal Preservation Officer shall request the comments of the State Historic Preservation Officer and notify the applicant in writing within 90 days of receipt of an adequately documented nomination form as to whether the Federal agency will nominate the property. The Federal Preservation Officer shall submit an adequately documented nomination to the National Park Service unless in his or her opinion the property is not eligible for the National Register.
+
+[48 FR 46308, Oct. 12, 1983]

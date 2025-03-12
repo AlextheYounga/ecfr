@@ -1,0 +1,5 @@
+##### § 1202.94 What NARA systems of records are exempt from release under the Investigatory Information Material exemption of the Privacy Act? #####
+
+(a) The Personnel Security Case Files (NARA-24) system of records is eligible for exemption under 5 U.S.C. 552a(k)(5) because it contains investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal employment or access to classified information. The only information exempt under this provision is that which would disclose the identity of a confidential source described in 5 U.S.C. 552a(k)(2).
+
+(b) The system of records described in paragraph (a) of this section is exempt from 5 U.S.C. 552a(d)(1). Exemption from the particular subsection is justified as access to records in the system would reveal the identity(ies) of the source(s) of information collected in the course of a background investigation.

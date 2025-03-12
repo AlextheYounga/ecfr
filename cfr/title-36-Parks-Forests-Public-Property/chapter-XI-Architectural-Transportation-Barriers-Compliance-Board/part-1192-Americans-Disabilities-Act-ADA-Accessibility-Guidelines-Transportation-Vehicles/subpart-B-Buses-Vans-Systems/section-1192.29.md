@@ -1,0 +1,15 @@
+##### § 1192.29 Interior circulation, handrails and stanchions. #####
+
+Link to an amendment published at 81 FR 90624, December 14, 2016.
+
+(a) Interior handrails and stanchions shall permit sufficient turning and maneuvering space for wheelchairs and other mobility aids to reach a securement location from the lift or ramp.
+
+(b) Handrails and stanchions shall be provided in the entrance to the vehicle in a configuration which allows persons with disabilities to grasp such assists from outside the vehicle while starting to board, and to continue using such assists throughout the boarding and fare collection process. Handrails shall have a cross-sectional diameter between 11/4 inches and 11/2 inches or shall provide an equivalent grasping surface, and have eased edges with corner radii of not less than1/8 inch. Handrails shall be placed to provide a minimum 11/2 inches knuckle clearance from the nearest adjacent surface. Where on-board fare collection devices are used on vehicles in excess of 22 feet in length, a horizontal passenger assist shall be located across the front of the vehicle and shall prevent passengers from sustaining injuries on the fare collection device or windshield in the event of a sudden deceleration. Without restricting the vestibule space, the assist shall provide support for a boarding passenger from the front door through the boarding procedure. Passengers shall be able to lean against the assist for security while paying fares.
+
+(c) For vehicles in excess of 22 feet in length, overhead handrail(s) shall be provided which shall be continuous except for a gap at the rear doorway.
+
+(d) Handrails and stanchions shall be sufficient to permit safe boarding, on-board circulation, seating and standing assistance, and alighting by persons with disabilities.
+
+(e) For vehicles in excess of 22 feet in length with front-door lifts or ramps, vertical stanchions immediately behind the driver shall either terminate at the lower edge of the aisle-facing seats, if applicable, or be “dog-legged” so that the floor attachment does not impede or interfere with wheelchair footrests. If the driver seat platform must be passed by a wheelchair or mobility aid user entering the vehicle, the platform, to the maximum extent practicable, shall not extend into the aisle or vestibule beyond the wheel housing.
+
+(f) For vehicles in excess of 22 feet in length, the minimum interior height along the path from the lift to the securement location shall be 68 inches. For vehicles of 22 feet in length or less, the minimum interior height from lift to securement location shall be 56 inches.

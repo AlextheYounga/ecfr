@@ -1,0 +1,3 @@
+##### § 230.10 Technical assistance funds. #####
+
+CFP technical assistance funds may be provided to State Foresters or equivalent officials of Indian tribes through an administrative grant to help implement community forest projects funded through the CFP, and as a result, funds will only be provided to States or Indian tribes with a CFP project funded within their jurisdiction. Section 7A (f) of the authorizing statute limits the funds made available for program administration and technical assistance to no more than 10% of all funds made available to carry out the program for each fiscal year.

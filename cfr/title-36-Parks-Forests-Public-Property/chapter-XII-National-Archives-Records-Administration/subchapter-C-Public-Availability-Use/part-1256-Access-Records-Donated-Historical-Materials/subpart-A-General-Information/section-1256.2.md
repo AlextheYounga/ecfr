@@ -1,0 +1,3 @@
+##### § 1256.2 How do I obtain access to records stored in Federal Records Centers? #####
+
+Agencies that retire their records to a Federal records center (FRC) set rules for access to those records. Address requests for access to records stored in Federal records centers directly to the appropriate agency or to the appropriate FRC director at the address shown in part 1253. When the agency's rules permit, NARA makes FRC records available to requesters. When the agency's rules and restrictions do not permit access FRCs receive requests that should have been sent to the agency, the FRC director refers the requests and any appeals for access, including those made under the Freedom of Information Act (5 U.S.C. 552, as amended), to the responsible agency.

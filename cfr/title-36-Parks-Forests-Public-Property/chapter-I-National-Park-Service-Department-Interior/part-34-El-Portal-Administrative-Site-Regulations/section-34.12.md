@@ -1,0 +1,3 @@
+##### § 34.12 Information collection. #####
+
+The information collection requirements contained in §§ 34.6, 34.8 and 34.10 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.,* and assigned clearance number 1024-0026. This information is being collected to solicit information necessary for the Superintendent to issue permits and other benefits, and to gather information. This information will be used to grant administrative benefits. The obligation to respond is required to obtain a benefit.

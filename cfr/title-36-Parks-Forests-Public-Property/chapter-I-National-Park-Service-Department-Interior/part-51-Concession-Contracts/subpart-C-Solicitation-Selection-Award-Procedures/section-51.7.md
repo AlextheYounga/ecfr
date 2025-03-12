@@ -1,0 +1,3 @@
+##### § 51.7 How will information be provided to a potential offeror after the prospectus is issued? #####
+
+Material information directly related to the prospectus and the concession contract (except when otherwise publicly available) that the Director provides to any potential offeror prior to the submission of proposals must be made available to all persons who have requested a copy of the prospectus.

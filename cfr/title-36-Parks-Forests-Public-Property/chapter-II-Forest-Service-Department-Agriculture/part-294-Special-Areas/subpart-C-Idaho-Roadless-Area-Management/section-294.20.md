@@ -1,0 +1,3 @@
+##### § 294.20 Purpose. #####
+
+The purpose of this subpart is to provide, in the context of multiple-use management, State-specific direction for the conservation of inventoried roadless areas in the national forests within the State of Idaho. This subpart sets forth the procedures for management of Idaho Roadless Areas consistent with the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 528-531).

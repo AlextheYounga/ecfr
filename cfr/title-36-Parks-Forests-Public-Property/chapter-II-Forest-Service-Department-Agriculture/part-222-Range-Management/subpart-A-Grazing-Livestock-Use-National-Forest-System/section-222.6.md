@@ -1,0 +1,7 @@
+##### § 222.6 Compensation for permittees' interest in authorized permanent improvements. #####
+
+(a) Whenever a term permit for grazing livestock on National Forest land in the 16 contiguous western States is canceled in whole or in part to devote the lands covered by the permit to another public purpose, including disposal, the permittee shall receive from the United States a reasonable compensation for the adjusted value of his interest in authorized permanent improvements placed or constructed by him on the lands covered by the canceled permit. The adjusted value is to be determined by the Chief, Forest Service. Compensation received shall not exceed the fair market value of the terminated portion of the permittee's interest therein.
+
+(b) In the event a permittee waives his grazing permit in connection with sale of his base property or permitted livestock, he is not entitled to compensation.
+
+(Sec. 1, 30 Stat. 35, as amended (16 U.S.C. 551); sec. 1, 33 Stat. 628 (16 U.S.C. 472); sec. 32, 50 Stat. 525, as amended (7 U.S.C. 1011); sec. 19, 64 Stat. 88 (16 U.S.C. 5801); Title IV, Pub. L. 94, 90 Stat. 2771 (43 U.S.C. 1751, *et seq.*); 92 Stat. 1803 (43 U.S.C. 1901))[42 FR 56732, Oct. 28, 1977, as amended at 44 FR 61345, Oct. 25, 1979]

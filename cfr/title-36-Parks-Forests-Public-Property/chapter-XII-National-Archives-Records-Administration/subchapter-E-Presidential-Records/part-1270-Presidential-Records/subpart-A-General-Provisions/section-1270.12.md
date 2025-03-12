@@ -1,0 +1,5 @@
+##### § 1270.12 Application. #####
+
+(a) These regulations apply to all Presidential records created during a term of office of the President beginning on or after January 20, 1981.
+
+(b) Vice-Presidential records shall be subject to the provisions of this part in the same manner as Presidential records. The Vice President's duties and responsibilities, with respect to Vice-Presidential records, shall be the same as the President's duties and responsibilities with respect to Presidential records. The Archivist's authority with respect to Vice-Presidential records shall be the same as the Archivist's authority with respect to Presidential records, except that the Archivist may, when he determines it to be in the public interest, enter into an agreement with a non-Federal archival repository for the deposit of Vice-Presidential records.

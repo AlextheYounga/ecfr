@@ -1,0 +1,3 @@
+##### § 1150.78 Public documents. #####
+
+When a party or paticipant offers, in whole or in part, a public document, such as an official report, decision, opinion, or published scientific or economic statistical data issued by any of the executive departments, or their subdivisions, legislative agencies or committees or administrative agencies of the Federal government (including government-owned corporations), or a similar document issued by a State or local government or their agencies, and such document (or part thereof) has been shown by the offeror to be reasonably available to the public, such document need not be produced or marked for identification, but may be offered for official notice, as a public document by specifying the document or its relevant part.

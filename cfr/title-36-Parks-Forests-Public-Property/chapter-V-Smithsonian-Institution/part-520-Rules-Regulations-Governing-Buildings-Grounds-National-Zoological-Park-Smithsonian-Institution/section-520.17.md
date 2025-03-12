@@ -1,0 +1,5 @@
+##### § 520.17 Lost and found. #####
+
+(a) Lost articles or money which are found in areas covered by this part shall be immediately referred to the police station. Proper records shall be kept at Police Headquarters of the receipt and disposition of such articles. If an article or money found on park areas and referred to Zoo Police Headquarters is not claimed by the owner within a period of 60 days, it shall be returned to the finder and appropriate receipt obtained; except that in the case of National Zoological Park employees, articles or money turned in which are not claimed by the owner within 60 days shall be considered as abandoned to the Smithsonian Institution. Such articles or money shall be transferred to the Treasurer of the Smithsonian Institution, who shall make suitable disposition of articles and remit all proceeds of such disposition and all unclaimed money into the unrestricted funds of the Smithsonian Institution.
+
+(b) The abandonment of any personal property in any of the park areas is prohibited.

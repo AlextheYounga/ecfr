@@ -1,0 +1,7 @@
+##### § 264.2 Use of insignia. #####
+
+The Forest Service insignia is reserved for the official use of the Forest Service. Such use will be primarily for identification purposes. The Chief may authorize other uses of the insignia as follows:
+
+(a) *Public service use.* The Chief may authorize the use of the insignia for non-commercial educational purposes, without charge when such use is essentially a public service and will contribute to public knowledge and understanding of the Forest Service, its mission, and objectives. An example of this would be the use of the insignia on a printed program for a dedication ceremony where the Forest Service participates but is not the sponsor of the event.
+
+(b) *Commercial use.* Through the issuance of licenses, the Chief may authorize commercial use of the insignia to (1) contribute to the public recognition of the Forest Service, such as a likeness of the insignia on a toy forest ranger's truck or (2) promote employee esprit de corps or pride in the organization, such as a likeness of the insignia on belt buckles. Such use must be consistent with the status of a national insignia. Business or calling cards commercially prepared for employees, at employee expense, may display the insignia without special license.

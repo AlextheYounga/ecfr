@@ -1,0 +1,3 @@
+##### § 1150.92 Official transcript. #####
+
+The official transcripts of testimony, and any exhibits, briefs, or memoranda of law filed with them, shall be filed with the judge. Transcripts of testimony in hearings may be obtained from the official reporter by the parties and the public at rates not to exceed the maximum rates fixed by the contract between the A&TBCB and the reporter. Upon notice to all parties, the judge may authorize corrections to the transcript as are necessary to reflect accurately the testimony.

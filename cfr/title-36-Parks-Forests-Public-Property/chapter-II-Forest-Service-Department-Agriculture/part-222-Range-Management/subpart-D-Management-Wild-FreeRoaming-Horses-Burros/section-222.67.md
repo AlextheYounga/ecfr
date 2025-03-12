@@ -1,0 +1,3 @@
+##### § 222.67 Maintenance of wild free-roaming horses and burros on privately-owned lands. #####
+
+Owners of land who wish to maintain wild free-roaming horses and burros which have strayed onto their lands from the National Forest System may do so by notifying the nearest office of the Forest Service in a timely fashion and providing such information on a continuing basis as the Chief, Forest Service, may require. Such owners shall protect the wild free-roaming horses and burros on their lands. They may not, in so maintaining these animals, impede their return to National Forest System lands unless authorized by agreement with the Forest Service.

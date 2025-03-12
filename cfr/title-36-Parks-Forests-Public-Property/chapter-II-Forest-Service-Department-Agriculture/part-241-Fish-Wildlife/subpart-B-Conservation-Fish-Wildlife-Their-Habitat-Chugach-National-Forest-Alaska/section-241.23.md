@@ -1,0 +1,7 @@
+##### § 241.23 Taking of fish and wildlife. #####
+
+(a) The taking of fish and wildlife by hunting, trapping, or fishing from lands subject to the rules of this subpart is authorized in accordance with applicable State and Federal law.
+
+(b) To the extent consistent with the conservation of fish and wildlife and their habitat in accordance with recognized scientific management principles, local rural residents who depend upon the Chugach National Forest for subsistence needs shall continue to have the opportunity to engage in a subsistence way of life on the lands to which this subpart applies pursuant to applicable State and Federal law.
+
+(c) To the extent consistent with the conservation of fish and wildlife and their habitat, the continuation of existing uses and the future establishment and use of temporary campsites, tent, platforms, shelters, and other temporary facilities and equipment directly and necessarily related to the taking of fish and wildlife may be authorized in accordance with applicable law and regulations. However, the Forest Supervisor may restrict or prohibit facilities or uses in the Copper River-Rude River addition or Copper River-Bering River area if it is determined, after adequate notice to the affected parties, that the continuation of such facilities or uses would materially interfere with or adversely affect the conservation of fish and wildlife and their habitat.

@@ -1,0 +1,3 @@
+##### § 14.36 Method of filing. #####
+
+Any proposed transfer in whole or in part of any right, title or interest in a right-of-way, or permit incident to a right-of-way acquired under any law, except the Act of March 3, 1891 (26 Stat. 1101; 43 U.S.C. 946-949), must be filed in accordance with § 14.20 for approval, must be accompanied by the same showing of qualifications of the transferee as is required of the applicant, and must be supported by a stipulation that the assignee agrees to comply with and to be bound by the terms and conditions of the right-of-way. No transfer will be recognized unless and until it is first approved in writing by the authorized officer.

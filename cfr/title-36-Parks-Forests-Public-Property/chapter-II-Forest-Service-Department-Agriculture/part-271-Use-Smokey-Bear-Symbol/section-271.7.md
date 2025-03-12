@@ -1,0 +1,3 @@
+##### § 271.7 Power to revoke. #####
+
+It is the intention of the regulations in this part that the Chief, in exercising the authorities delegated hereunder, will at all times consider the primary purpose of fostering public information in the prevention of forest fires. All authorities and licenses granted under the regulations in this part shall be subject to abrogation by the Chief at any time he finds that the use involved is injurious to the purpose of forest fire prevention, is offensive to decency or good taste, or for similar reasons in addition to any other limitations and terms contained in the licenses.

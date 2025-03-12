@@ -1,0 +1,3 @@
+##### § 72.1 Purpose of regulations. #####
+
+The purpose of this rule is to set forth guidelines for awarding and administering the three types of grants available through the UPARR program. The three types of grants available are: Rehabilitation, Innovation and Recovery Action Program. The objectives of this rule are to: (1) Explain the policies to be followed for awarding grants; (2) list the requirements and criteria to be met for each type of grant and discretionary eligibility; (3) discuss fundable uses and limitations; (4) explain how proposals will be selected and funded; and (5) describe the application process and administrative procedures for awarding grants.

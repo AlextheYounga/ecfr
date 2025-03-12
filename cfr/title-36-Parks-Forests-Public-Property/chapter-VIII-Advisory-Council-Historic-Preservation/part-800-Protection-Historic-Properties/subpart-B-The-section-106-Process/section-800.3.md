@@ -1,0 +1,33 @@
+##### § 800.3 Initiation of the section 106 process. #####
+
+(a) *Establish undertaking.* The agency official shall determine whether the proposed Federal action is an undertaking as defined in § 800.16(y) and, if so, whether it is a type of activity that has the potential to cause effects on historic properties.
+
+(1) *No potential to cause effects.* If the undertaking is a type of activity that does not have the potential to cause effects on historic properties, assuming such historic properties were present, the agency official has no further obligations under section 106 or this part.
+
+(2) *Program alternatives.* If the review of the undertaking is governed by a Federal agency program alternative established under § 800.14 or a programmatic agreement in existence before January 11, 2001, the agency official shall follow the program alternative.
+
+(b) *Coordinate with other reviews.* The agency official should coordinate the steps of the section 106 process, as appropriate, with the overall planning schedule for the undertaking and with any reviews required under other authorities such as the National Environmental Policy Act, the Native American Graves Protection and Repatriation Act, the American Indian Religious Freedom Act, the Archeological Resources Protection Act, and agency-specific legislation, such as section 4(f) of the Department of Transportation Act. Where consistent with the procedures in this subpart, the agency official may use information developed for other reviews under Federal, State, or tribal law to meet the requirements of section 106.
+
+(c) *Identify the appropriate SHPO and/or THPO.* As part of its initial planning, the agency official shall determine the appropriate SHPO or SHPOs to be involved in the section 106 process. The agency official shall also determine whether the undertaking may occur on or affect historic properties on any tribal lands and, if so, whether a THPO has assumed the duties of the SHPO. The agency official shall then initiate consultation with the appropriate officer or officers.
+
+(1) *Tribal assumption of SHPO responsibilities.* Where an Indian tribe has assumed the section 106 responsibilities of the SHPO on tribal lands pursuant to section 101(d)(2) of the act, consultation for undertakings occurring on tribal land or for effects on tribal land is with the THPO for the Indian tribe in lieu of the SHPO. Section 101(d)(2)(D)(iii) of the act authorizes owners of properties on tribal lands which are neither owned by a member of the tribe nor held in trust by the Secretary for the benefit of the tribe to request the SHPO to participate in the section 106 process in addition to the THPO.
+
+(2) *Undertakings involving more than one State.* If more than one State is involved in an undertaking, the involved SHPOs may agree to designate a lead SHPO to act on their behalf in the section 106 process, including taking actions that would conclude the section 106 process under this subpart.
+
+(3) *Conducting consultation.* The agency official should consult with the SHPO/THPO in a manner appropriate to the agency planning process for the undertaking and to the nature of the undertaking and its effects on historic properties.
+
+(4) *Failure of the SHPO/THPO to respond.* If the SHPO/THPO fails to respond within 30 days of receipt of a request for review of a finding or determination, the agency official may either proceed to the next step in the process based on the finding or determination or consult with the Council in lieu of the SHPO/THPO. If the SHPO/THPO re-enters the Section 106 process, the agency official shall continue the consultation without being required to reconsider previous findings or determinations.
+
+(d) *Consultation on tribal lands.* Where the Indian tribe has not assumed the responsibilities of the SHPO on tribal lands, consultation with the Indian tribe regarding undertakings occurring on such tribe's lands or effects on such tribal lands shall be in addition to and on the same basis as consultation with the SHPO. If the SHPO has withdrawn from the process, the agency official may complete the section 106 process with the Indian tribe and the Council, as appropriate. An Indian tribe may enter into an agreement with a SHPO or SHPOs specifying the SHPO's participation in the section 106 process for undertakings occurring on or affecting historic properties on tribal lands.
+
+(e) *Plan to involve the public.* In consultation with the SHPO/THPO, the agency official shall plan for involving the public in the section 106 process. The agency official shall identify the appropriate points for seeking public input and for notifying the public of proposed actions, consistent with § 800.2(d).
+
+(f) *Identify other consulting parties.* In consultation with the SHPO/THPO, the agency official shall identify any other parties entitled to be consulting parties and invite them to participate as such in the section 106 process. The agency official may invite others to participate as consulting parties as the section 106 process moves forward.
+
+(1) *Involving local governments and applicants.* The agency official shall invite any local governments or applicants that are entitled to be consulting parties under § 800.2(c).
+
+(2) *Involving Indian tribes and Native Hawaiian organizations.* The agency official shall make a reasonable and good faith effort to identify any Indian tribes or Native Hawaiian organizations that might attach religious and cultural significance to historic properties in the area of potential effects and invite them to be consulting parties. Such Indian tribe or Native Hawaiian organization that requests in writing to be a consulting party shall be one.
+
+(3) *Requests to be consulting parties.* The agency official shall consider all written requests of individuals and organizations to participate as consulting parties and, in consultation with the SHPO/THPO and any Indian tribe upon whose tribal lands an undertaking occurs or affects historic properties, determine which should be consulting parties.
+
+(g) *Expediting consultation.* A consultation by the agency official with the SHPO/THPO and other consulting parties may address multiple steps in §§ 800.3 through 800.6 where the agency official and the SHPO/THPO agree it is appropriate as long as the consulting parties and the public have an adequate opportunity to express their views as provided in § 800.2(d).

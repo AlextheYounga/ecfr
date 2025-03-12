@@ -1,0 +1,3 @@
+##### § 910.59 Development parcel. #####
+
+*Development parcel* means an area of land established by the Corporation to be a minimum site on which a *development* may occur under *the Plan* and any applicable *Square Guidelines* adopted by the Corporation. A *development parcel* does not need to be under the ownership of a single individual or entity. A proposal for a *development parcel* may be formulated by any number of individuals or entities, so long as it accommodates the needs and requirements of affirmative action, historic preservation and other policies of the Corporation, and at the same time responds to the goals of comprehensive planning and design for that particular *coordinated planning area.*

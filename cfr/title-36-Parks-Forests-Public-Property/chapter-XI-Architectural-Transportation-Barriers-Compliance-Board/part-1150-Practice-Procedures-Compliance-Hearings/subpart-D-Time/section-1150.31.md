@@ -1,0 +1,3 @@
+##### § 1150.31 Computation. #####
+
+In computing any period of time under these rules or in any order issued under them, the time begins with the day following the act, event, or default, and includes the last day of the period, unless it is a Saturday, Sunday, or Federal legal holiday, in which event it includes the next following business day. When the period of time prescribed or allowed is less than seven (7) days, intermediate Saturdays, Sundays, and Federal legal holidays shall be excluded from the computation.

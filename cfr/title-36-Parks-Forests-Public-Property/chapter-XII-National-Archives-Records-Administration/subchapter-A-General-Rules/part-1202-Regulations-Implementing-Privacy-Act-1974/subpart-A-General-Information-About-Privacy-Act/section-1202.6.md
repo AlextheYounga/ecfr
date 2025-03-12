@@ -1,0 +1,3 @@
+##### § 1202.6 Whom should I contact for Privacy Act matters at NARA? #####
+
+Contact the NARA Privacy Act Officer, National Archives and Records Administration (NGC), Room 3110, 8601 Adelphi Road, College Park, MD 20740-6001, for guidance in making a Privacy Act request, or if you need assistance with an existing request. The Privacy Act Officer will refer you to the responsible system manager. Details about what to include in your Privacy Act request are discussed in Subpart C of this part.

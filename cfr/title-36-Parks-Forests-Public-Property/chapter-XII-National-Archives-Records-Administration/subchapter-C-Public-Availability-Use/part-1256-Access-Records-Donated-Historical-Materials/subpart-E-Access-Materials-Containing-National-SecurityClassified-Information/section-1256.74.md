@@ -1,0 +1,5 @@
+##### § 1256.74 How does NARA process Freedom of Information Act (FOIA) requests for classified information? #####
+
+(a) NARA processes FOIA requests for access to classified information in Federal records in accordance with the provisions of 36 CFR part 1250. Time limits for responses to FOIA requests for classified information are those provided in the FOIA, rather than the longer time limits provided for responses to mandatory review requests specified by Executive Order 12958, Classified National Security Information (3 CFR, 1995 Comp., p. 333), as amended by Executive Order 13292 (68 FR 15315, 3 CFR, 2003 Comp., p. 196).
+
+(b) NARA processes requests for access to classified information in Presidential records under the FOIA and the Presidential Records Act (PRA) in accordance with the provisions of part 1270 of this chapter. Time limits for responses to FOIA requests for classified information are those provided in the FOIA, the PRA, and Executive Order 13233, Further Implementation of the Presidential Records Act (3 CFR, 2001 Comp., p. 815).

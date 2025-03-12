@@ -1,0 +1,3 @@
+##### § 51.34 What will the Director do if a selected preferred offeror does not timely execute the new concession contract? #####
+
+If a selected preferred offeror fails to execute the concession contract in the time period specified by the Director, the Director either will select for award of the concession contract the offeror that submitted the best responsive proposal, or will cancel the solicitation and may resolicit the concession contract but only without recognition of a preferred offeror or right of preference.

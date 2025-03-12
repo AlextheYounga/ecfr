@@ -1,0 +1,3 @@
+##### § 328.1 Purpose. #####
+
+This regulation, in connection with the modification of the present prohibition of seaplane operations by the amendment to § 327.4 of title 36 of the Code of Federal Regulations, is designed to provide uniform policies and criteria for designating Corps projects, or portions thereof, at which seaplane operations are prohibited or restricted; and to continue to protect the integrity and all authorized uses of such projects and the safety of users of such projects. As used in this regulation, *projects* or *Corps projects* means water resources development projects administered by the Chief of Engineers.

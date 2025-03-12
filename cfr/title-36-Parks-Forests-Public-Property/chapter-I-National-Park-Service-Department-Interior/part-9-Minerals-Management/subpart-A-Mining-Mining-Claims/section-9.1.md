@@ -1,0 +1,5 @@
+##### § 9.1 Purpose and scope. #####
+
+These regulations control all activities within units of the National Park System resulting from the exercise of valid existing mineral rights on patented or unpatented mining claims without regard to the means or route by which the operator gains access to the claim. The purpose of these regulations is to insure that such activities are conducted in a manner consistent with the purposes for which the National Park System and each unit thereof were created, to prevent or minimize damage to the environment or other resource values, and to insure that the pristine beauty of the units is preserved for the benefit of present and future generations. These regulations apply to all operations, as defined herein, conducted within the boundaries of any unit of the National Park System.
+
+[53 FR 25162, July 2, 1988]

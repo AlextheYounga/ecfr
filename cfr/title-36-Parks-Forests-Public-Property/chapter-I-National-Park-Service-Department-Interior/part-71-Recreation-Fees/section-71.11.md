@@ -1,0 +1,3 @@
+##### § 71.11 Collection of Federal recreation fees. #####
+
+The bureaus of the Department of the Interior administering outdoor recreation programs shall provide for the collection of entrance fees at the place of admission to Designated Entrance Fee Areas; they shall provide for the collection of recreation use fees and/or special recreation permit fees at the place of use or at a location reasonably convenient for the public and the bureaus.

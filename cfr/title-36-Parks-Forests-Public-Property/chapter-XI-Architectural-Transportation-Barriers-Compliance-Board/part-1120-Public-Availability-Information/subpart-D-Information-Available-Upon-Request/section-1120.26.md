@@ -1,0 +1,5 @@
+##### § 1120.26 Deficient descriptions. #####
+
+(a) If the description of the records sought in the request is not sufficient to allow the A&TBCB to identify and locate the requested records, the office taking action under § 1120.32 must notify the requestor (by telephone when practicable) that the request cannot be further processed until additional information is furnished.
+
+(b) The A&TBCB must make every reasonable effort to assist the requestor in formulating his or her request. If a request is described in general terms (e.g., all records having to do with a certain area), the A&TBCB office taking action under § 1120.32 may communicate with the requestor (by telephone when practicable) with a view toward reducing the administrative burden of processing a broad request and minimizing the fee payable by the requestor. Such attempts must not be used as a means to discourage requests, but rather as a means to help identify with more specificity the records actually sought.

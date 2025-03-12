@@ -1,0 +1,3 @@
+##### § 212.53 Coordination with Federal, State, county, and other local governmental entities and tribal governments. #####
+
+The responsible official shall coordinate with appropriate Federal, State, county, and other local governmental entities and tribal governments when designating National Forest System roads, National Forest System trails, and areas on National Forest System lands pursuant to this subpart.

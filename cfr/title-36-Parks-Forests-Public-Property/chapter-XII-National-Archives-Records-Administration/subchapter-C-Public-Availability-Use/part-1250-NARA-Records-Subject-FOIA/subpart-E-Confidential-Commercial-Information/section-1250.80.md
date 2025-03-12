@@ -1,0 +1,3 @@
+##### § 1250.80 How does a submitter identify records containing confidential commercial information? #####
+
+At the time of submission, a submitter of business information is expected to designate, by appropriate markings, any portions of its submission that it considers to be protected from disclosure under FOIA Exemption 4. Although these portions may be designated, this does not preclude NARA from conducting a full FOIA review of all such documents if a FOIA request for those records has been received. These designations will expire 10 years after the date of the submission unless the submitter requests, and provides justification for, a longer designation period, or NARA extends the designation period at its discretion.

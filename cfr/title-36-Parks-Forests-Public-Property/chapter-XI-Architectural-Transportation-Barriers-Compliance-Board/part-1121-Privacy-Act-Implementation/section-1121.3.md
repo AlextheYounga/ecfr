@@ -1,0 +1,3 @@
+##### § 1121.3 Procedures for requests pertaining to individuals' records in a records system. #####
+
+An individual or authorized representative shall submit a written request to the Administrative Officer to determine if a system of records named by the individual contains a record pertaining to the individual. The individual or authorized representative shall submit a written request to the Executive Director of the ATBCB which states the individual's desire to review his or her record.

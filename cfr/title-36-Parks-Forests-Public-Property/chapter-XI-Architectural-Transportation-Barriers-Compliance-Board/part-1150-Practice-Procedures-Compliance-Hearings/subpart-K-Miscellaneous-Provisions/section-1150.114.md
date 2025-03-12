@@ -1,0 +1,3 @@
+##### § 1150.114 Effect of partial invalidity. #####
+
+If any section, subsection, paragraph, sentence, clause or phrase of these regulations is declared invalid for any reason, the remaining portions of these regulations that are severable from the invalid part shall remain in full force and effect. If a part of these regulations is invalid in one or more of its applications, the part shall remain in effect in all valid applications that are severable from the invalid applications.

@@ -1,0 +1,3 @@
+##### § 1206.90 Must I acknowledge NHPRC grant support? #####
+
+Yes, grantee institutions, grant project directors, or grant staff personnel may publish results of any work supported by an NHPRC grant without review by the Commission; however, publications or other products resulting from the project must acknowledge the assistance of the NHPRC grant and all copies paid for by grant funds must be distributed at a reasonable cost.

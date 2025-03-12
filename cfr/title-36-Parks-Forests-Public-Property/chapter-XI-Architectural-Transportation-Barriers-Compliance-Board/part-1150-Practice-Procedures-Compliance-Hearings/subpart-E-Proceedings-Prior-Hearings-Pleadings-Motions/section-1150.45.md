@@ -1,0 +1,3 @@
+##### § 1150.45 Request for hearing. #####
+
+When a citation does not state that a hearing will be scheduled, the respondent, either in a separate paragraph of the answer, or in a separate document, may request a hearing. Failure of a respondent to request a hearing within fifteen (15) days from service of the citation shall be deemed a waiver of the right to a hearing and shall constitute consent to the making of a decision on the basis of available information.

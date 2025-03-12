@@ -1,0 +1,3 @@
+##### § 1011.17 Will a debtor who owes a debt be ineligible for Presidio Trust licenses, permits, leases, privileges or services? #####
+
+Unless prohibited by law, the Presidio Trust may terminate, suspend or revoke licenses, permits, leases (subject to the terms of the leases), or other privileges or services for any inexcusable or willful failure of a debtor to pay a debt. The Presidio Trust may establish guidelines and procedures governing termination, suspension and revocation for delinquent debtors. If applicable, the Presidio Trust will advise the debtor in the notice required by § 1011.4 of this part of the Presidio Trust's ability to suspend or revoke licenses, permits, leases, or privileges or services.

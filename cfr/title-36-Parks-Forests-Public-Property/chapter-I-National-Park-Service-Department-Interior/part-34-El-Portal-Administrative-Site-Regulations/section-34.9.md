@@ -1,0 +1,7 @@
+##### § 34.9 Protective custody. #####
+
+(a) An authorized person, with reasonable cause to believe that a juvenile found within the administrative site has been unlawfully abused or neglected by any person living in the juvenile's place of residence, may take such juvenile into protective custody. An authorized person taking protective custody action pursuant to this paragraph shall deliver the juvenile to the care and custody of the appropriate State or local authorities.
+
+(b) An authorized person, with reasonable cause to believe that a person found within the administrative site is either temporarily or permanently psychologically or mentally impaired to a degree that the person is gravely disabled or that presents a clear danger to that person or another, may take such person into protective custody. An authorized person taking protective custody action pursuant to this paragraph shall deliver the person to the care of the Mariposa County Mental Health Authorities for an initial 72-hour evaluation in accordance with applicable provisions of the California Welfare and Institutions Code.
+
+(c) An authorized person may take into protective custody any juvenile found within the administrative site who is deemed to be a runaway according to applicable provisions of the California Welfare and Institutions Code. An authorized person taking protective custody action pursuant to this paragraph shall deliver the juvenile to the care and custody of the Mariposa County Sheriff's Office.

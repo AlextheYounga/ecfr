@@ -1,0 +1,3 @@
+##### § 14.57 Approval. #####
+
+After receipt of such determination that the lands or interests in lands under application are reasonably necessary for the purposes of Title 23, U.S.C., the authorized officer of the National Park Service will notify the applicant and the authorized officer of the Federal Highway Administration either (a) that the approval of the application would be contrary to the public interest or inconsistent with the purposes for which the lands or materials have been reserved or (b) that he proposes to grant the right-of-way under the regulations of this part, subject to said regulations and to such conditions which he indicates in his notice.

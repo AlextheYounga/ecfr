@@ -1,0 +1,9 @@
+##### § 63.6 Review and nomination of properties determined eligible. #####
+
+The Keeper of the National Register will conduct an annual review of the condition of properties determined eligible for the National Register. The Keeper of the National Register will obtain from the Advisory Council on Historic Preservation information on decisions made concerning eligible properties in accord with memorandum of agreement under the Council's “Procedures for the Protection of Historic and Cultural Properties” (36 CFR part 800). If there is no memorandum of agreement or if no provision has been made in a memorandum of agreement for nomination of an eligible property and if the property retains the characteristics that made it eligible for the National Register, the Keeper of the National Register will take the following steps:
+
+(a) For a property owned by a Federal agency, or under the jurisdiction or control of the agency to the extent that the agency substantially exercises the attributes of ownership, the Keeper of the National Register will request the Federal agency to nominate the property to the National Register within six months.
+
+(b) If the property is not under Federal jurisdiction or control, the Keeper of the National Register will request that the State Historic Preservation Office nominate the property to the National Register within six months.
+
+(c) If the Keeper of the National Register determines that a property has lost the characteristics that made it eligible for the National Register, he will inform the State Historic Preservation Officer and the Federal agency and remove the property from the list of eligible properties.

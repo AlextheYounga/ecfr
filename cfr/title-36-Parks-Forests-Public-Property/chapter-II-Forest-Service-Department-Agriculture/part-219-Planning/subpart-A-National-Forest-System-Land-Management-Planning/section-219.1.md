@@ -1,0 +1,15 @@
+##### § 219.1 Purpose and applicability. #####
+
+(a) This subpart sets out the planning requirements for developing, amending, and revising land management plans (also referred to as plans) for units of the National Forest System (NFS), as required by the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended by the National Forest Management Act of 1976 (16 U.S.C. 1600 *et seq.*) (NFMA). This subpart also sets out the requirements for plan components and other content in land management plans. This part is applicable to all units of the NFS as defined by 16 U.S.C. 1609 or subsequent statute.
+
+(b) Consistent with the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 528-531) (MUSYA), the Forest Service manages the NFS to sustain the multiple use of its renewable resources in perpetuity while maintaining the long-term health and productivity of the land. Resources are managed through a combination of approaches and concepts for the benefit of human communities and natural resources. Land management plans guide sustainable, integrated resource management of the resources within the plan area in the context of the broader landscape, giving due consideration to the relative values of the various resources in particular areas.
+
+(c) The purpose of this part is to guide the collaborative and science-based development, amendment, and revision of land management plans that promote the ecological integrity of national forests and grasslands and other administrative units of the NFS. Plans will guide management of NFS lands so that they are ecologically sustainable and contribute to social and economic sustainability; consist of ecosystems and watersheds with ecological integrity and diverse plant and animal communities; and have the capacity to provide people and communities with ecosystem services and multiple uses that provide a range of social, economic, and ecological benefits for the present and into the future. These benefits include clean air and water; habitat for fish, wildlife, and plant communities; and opportunities for recreational, spiritual, educational, and cultural benefits.
+
+(d) This part does not affect treaty rights or valid existing rights established by statute or legal instruments.
+
+(e) During the planning process, the responsible official shall comply with Section 8106 of the Food, Conservation, and Energy Act of 2008 (25 U.S.C. 3056), Executive Order 13007 of May 24, 1996, Executive Order 13175 of November 6, 2000, laws, and other requirements with respect to disclosing or withholding under the Freedom of Information Act (5 U.S.C. 552) certain information regarding reburial sites or other information that is culturally sensitive to an Indian Tribe or Tribes.
+
+(f) Plans must comply with all applicable laws and regulations, including NFMA, MUSYA, the Clean Air Act, the Clean Water Act, the Wilderness Act, and the Endangered Species Act.
+
+(g) The responsible official shall ensure that the planning process, plan components, and other plan content are within Forest Service authority, the inherent capability of the plan area, and the fiscal capability of the unit.

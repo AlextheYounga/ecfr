@@ -1,0 +1,3 @@
+##### § 72.71 Information collection. #####
+
+The information collection requirements contained in § 72.72 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1024-0048. The information is being collected to determine whether to approve a grant recipient's request to convert an assisted site or facility to other than public recreation uses. The information will be used to assure that the requirements of section 1010 of the UPARR Act would be met should the proposed conversion be implemented. Response is required in order to obtain the benefit of Department of the Interior approval.

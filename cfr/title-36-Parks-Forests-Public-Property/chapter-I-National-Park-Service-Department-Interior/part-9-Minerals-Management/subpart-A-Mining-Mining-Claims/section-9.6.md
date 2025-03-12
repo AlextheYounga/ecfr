@@ -1,0 +1,5 @@
+##### § 9.6 Transfers of interest. #####
+
+(a) Whenever a claimant who has recorded his unpatented claim(s) with the Superintendent pursuant to the requirements of § 9.5 sells, assigns, bequeaths, or otherwise conveys all or any part of his interest in his claim(s), the Superintendent shall be notified within 60 days after completion of the transfer of: The name of the claim(s) involved; the name and legal address of the person to whom an interest has been sold, assigned, bequeathed, or otherwise transferred; and a description of the interest conveyed or received. Copies of the transfer documents will be provided by the Superintendent to the Bureau of Land Management. Failure to so notify the Superintendent shall render any existing access permit void.
+
+(b) If the transfer occurs within the period of 12 months from the effective date of the Act and the prior owner has not recorded the unpatented claim with the Superintendent in accordance with these regulations, the holder by transfer shall have the remainder of the 12-month period to record the unpatented claim. Failure to record shall be governed by the provisions of § 9.5(c).

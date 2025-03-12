@@ -1,0 +1,3 @@
+##### § 13.4 Information collection. #####
+
+The information collection requirements contained in subparts C and G, and §§ 13.55, 13.440, 13.450, 13.485, and 13.495 are necessary for park Superintendents to issue concession contracts and special use permits, and have been approved by the Office of Management and Budget under 44 U.S.C. 3507. Information collections associated with the award of concession contracts are covered under OMB control number 1024-0125; the information collections associated with the issuance of special use permits are covered under OMB control number 1024-0026.

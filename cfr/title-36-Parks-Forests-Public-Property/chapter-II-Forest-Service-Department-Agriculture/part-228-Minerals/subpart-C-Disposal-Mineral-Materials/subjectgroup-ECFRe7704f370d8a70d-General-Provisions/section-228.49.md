@@ -1,0 +1,3 @@
+##### § 228.49 Reappraisal. #####
+
+If an extension of time is granted as provided in § 228.53(b), the authorized officer must reappraise or reestimate the mineral materials covered by the contract or permit and which remain unexcavated at the time of extension. The recalculated unit value becomes the new unit value for the remaining unexcavated material; excavated and stockpiled material is not subject to reappraisal.

@@ -1,0 +1,3 @@
+##### § 72.41 Demolition and replacement of existing recreation properties. #####
+
+Demolition will only be supported when rehabilitation is not feasible or prudent. In the case of demolition, the demolition costs should not exceed 75% of the proposed cost for replacement. The applicant must present a cost analysis (well documented case) for demolition and replacement versus rehabilitation. When assistance for demolition is requested, the applicant must also indicate how the replacement will increase the site's recreation utility, and how the useable life of the property will be increased.

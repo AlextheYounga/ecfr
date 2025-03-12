@@ -1,0 +1,3 @@
+##### § 25.5 Badges and uniforms. #####
+
+Licensed guides will be furnished with official badges as evidence of their authority, which shall remain the property of the Government and be returned to the superintendent upon relinquishment or revocation of the license as a guide. Where conditions warrant it and its purchase would not prove a hardship on the guides, they may be required to adopt a standard uniform, to be procured at their own expense.

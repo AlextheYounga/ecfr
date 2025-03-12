@@ -1,0 +1,7 @@
+##### § 228.100 Scope and applicability. #####
+
+(a) *Scope.* This subpart sets forth the rules and procedures by which the Forest Service of the United States Department of Agriculture will carry out its statutory responsibilities in the issuance of Federal oil and gas leases and management of subsequent oil and gas operations on National Forest System lands, for approval and modification of attendant surface use plans of operations, for monitoring of surface disturbing operations on such leases, and for enforcement of surface use requirements and reclamation standards.
+
+(b) *Applicability.* The rules of this subpart apply to leases on National Forest System lands and to operations that are conducted on Federal oil and gas leases on National Forest System lands as of April 20, 1990.
+
+(c) *Applicability of other rules.* Surface uses associated with oil and gas prospecting, development, production, and reclamation activities, that are conducted on National Forest System lands outside a leasehold must receive prior authorization from the Forest Service. Such activities are subject to the regulations set forth elsewhere in 36 CFR chapter II, including but not limited to the regulations set forth in 36 CFR parts 251, subpart B, and 261.

@@ -1,0 +1,3 @@
+##### § 520.6 Nuisances. #####
+
+The use of loud, abusive, or otherwise improper language; unwarranted loitering, sleeping or assembly; the creation of any hazard to persons or things; improper disposal of rubbish; spitting; prurient prying; the commission of any obscene or indecent act, or any other unseemly or disorderly conduct on the premises; throwing articles of any kind on the premises, or climbing upon any part of the building is prohibited.

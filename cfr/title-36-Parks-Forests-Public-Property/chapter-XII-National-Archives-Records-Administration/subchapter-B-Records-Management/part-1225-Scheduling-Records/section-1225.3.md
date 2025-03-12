@@ -1,0 +1,3 @@
+##### § 1225.3 What standards are used as guidance for this part? #####
+
+These regulations conform with guidance provided in ISO 15489-1:2001, Information and documentation—Records management. Paragraphs 4 (Benefits of records management), 6.3 (Responsibilities), 7.1 (Principles of records management programmes), 8.3.7 (Retention and disposition), 9.2 (Determining how long to retain records), 9.10 (Documenting records management processes), 10 (Records management processes and controls), and 11 (Monitoring and auditing) apply to records scheduling.

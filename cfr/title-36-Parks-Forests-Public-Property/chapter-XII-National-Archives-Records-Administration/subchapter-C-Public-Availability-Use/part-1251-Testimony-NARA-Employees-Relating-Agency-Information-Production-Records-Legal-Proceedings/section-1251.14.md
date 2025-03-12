@@ -1,0 +1,3 @@
+##### § 1251.14 Who makes the final determination on compliance with demands for records or testimony? #####
+
+The General Counsel makes the final determination on demands to employees for testimony. The appropriate NARA official authorized to accept service, as described in § 1251.8, makes the final determination on demands for the production of records. The NARA official notifies the requester and, as necessary, the court or other authority of the final determination and any conditions that may be imposed on the release of records or information, or on the testimony of a NARA employee. If the NARA official deems it appropriate not to comply with the demand, the official communicates the reasons for the noncompliance as appropriate.

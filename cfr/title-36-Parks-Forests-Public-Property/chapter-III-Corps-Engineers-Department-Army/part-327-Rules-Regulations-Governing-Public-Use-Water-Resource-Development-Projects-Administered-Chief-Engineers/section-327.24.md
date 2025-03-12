@@ -1,0 +1,7 @@
+##### § 327.24 Interference with Government employees. #####
+
+(a) It is a Federal crime pursuant to the provisions of sections 111 and 1114 of Title 18, United States Code, to forcibly assault, resist, oppose, impede, intimidate, or interfere with, attempt to kill or kill any civilian official or employee for the U.S. Army Corps of Engineers engaged in the performance of his or her official duties, or on account of the performance of his or her official duties. Such actions or interference directed against a Federal employee while carrying out the regulations in this part are violation of such regulations and may be a state crime pursuant to the laws of the state where they occur.
+
+(b) Failure to comply with a lawful order issued by a Federal employee acting pursuant to the regulations in this part shall be considered as interference with that employee while engaged in the performance of their official duties. Such interference with a Federal employee includes failure to provide a correct name, address or other information deemed necessary for identification upon request of the Federal employee, when that employee is authorized by the District Commander to issue citations in the performance of the employee's official duties.
+
+[65 FR 6903, Feb. 11, 2000]

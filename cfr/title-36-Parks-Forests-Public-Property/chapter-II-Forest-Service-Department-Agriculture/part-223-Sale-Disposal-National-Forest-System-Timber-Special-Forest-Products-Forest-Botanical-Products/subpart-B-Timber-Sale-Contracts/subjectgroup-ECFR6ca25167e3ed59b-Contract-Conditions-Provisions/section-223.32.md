@@ -1,0 +1,3 @@
+##### § 223.32 Timber sale operating plan. #####
+
+Sale contracts with a term of 2 years or more shall provide for the filing of an operating plan as soon as practicable after execution of the contract, such plan shall be a part of the contract. The plan of operation shall be general in nature, outlining the expected timing and order of sale development, including such major operations as road construction, felling and removal of timber, distribution of timber, and contractual requirements for erosion prevention and slash disposal. The plan of operation and revisions thereto shall be subject to concurrence by the Forest Service.

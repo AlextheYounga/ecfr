@@ -1,0 +1,27 @@
+##### § 228.58 Competitive sales. #####
+
+(a) *Invitation for bid.* Sales must be conducted as described below after inviting competitive bids through publication and posting. The authorized officer may not offer a competitive sale unless there is a right-of-way or other access to the sale area which is available to anyone qualified to bid.
+
+(b) *Advertising*—(1) *Sales over 25,000 cubic yards.* Mineral material sales offered by competitive bidding and which exceed 25,000 cubic yards must be advertised on the same day once a week for two consecutive weeks in a newspaper of general circulation in the area where the material is located, and in a trade or industrial newspaper when considered appropriate. Notice of the sale must be posted in a conspicuous place in the office where bids are to be submitted. In addition, the authorized officer may send the advertisement directly to known interested persons. Bids may be received but not evaluated before the end of the advertising period, which may be extended at the discretion of the authorized officer.
+
+(2) *Content of advertising.* The advertisement of sale must specify the location by legal description of the tract or tracts or by any other means identify the location of the mineral material deposit being offered, the kind of material, estimated quantities, the unit of measurement, appraised price (which sets the minimum acceptable bid), time and place for receiving and opening of bids, minimum deposit required, major special constraints due to environmental considerations, available access, maintenance required over haul routes, traffic controls, required use permits, required qualifications of bidders, the method of bidding, bonding requirement, notice of the right to reject any or all bids, the office where a copy of the contract and additional information may be obtained, and additional information the authorized officer deems necessary.
+
+(3) *Advertising smaller sales.* Advertisement of mineral materials amounting to 25,000 cubic yards in volume (or weight equivalent) or less must be published and/or posted. The methods of advertisement are at the discretion of the authorized officer.
+
+(c) *Conduct of sales.* (1) Bidding at competitive sales may be conducted by the submission of written sealed bids, oral bids, or a combination of both as directed by the authorized officer. In the event of a tie in high sealed bids, the highest bidder will be determined by oral auction among those tied bidders; when no oral bid is higher that the sealed bids, the selected bidder will be determined by lot, the purchase price being the amount of the tied bid. For all oral auctions, including those used to break sealed-bid ties, the high bidder must confirm the bid in writing immediately upon being declared the high bidder. The authorized officer must mail notification of the bidding results to all bidders within 10 days.
+
+(2) The authorized officer may require bidders to furnish evidence of qualification at the time of award or, if such evidence has already been furnished and is still valid, make appropriate reference to the record containing it.
+
+(3) When it is in the interest of the United States to do so, the authorized officer may reject any or all bids.
+
+(d) *Bid deposits and award of contract.* Sealed bids must be accompanied by a deposit. For mineral materials offered at oral auction, bidders must make the deposit before opening of the bidding.
+
+(1) Bid deposits must be equal to 10 percent of the appraised value but not less than $100.00.
+
+(2) Bid deposits must be in the form of cash, money order, bank drafts, cashier's or certified checks made payable to the Forest Service, or bonds acceptable to the Forest Service (§ 228.51(b)).
+
+(3) Upon conclusion of the bidding, the authorized officer will return the deposits of all unsuccessful bidders. The successful bidder's deposit will be applied toward the purchase price. If the contract is not awarded to the high bidder due to an inability to perform the obligations of the contract, the deposit, less expenses and damages incurred by the United States, may be returned. The return of a deposit does not prejudice any other rights or remedies of the United States. The contract may be offered and awarded to the next successive qualified high bidder, or, at the discretion of the authorized officer, the sale may be either readvertised or negotiated if it is determined that a competitive sale is impracticable.
+
+(4) Within 30 days after receipt of the contract, the successful bidder must sign and return the contract, together with any required bond, unless the authorized officer has granted an extension for an additional 30 days. The bidder must apply for the extension in writing within the first 30-day period. If the successful bidder fails to return the contract within the first 30-day period or within an approved extension, the bid deposit, less the costs of readvertising and damages, may be returned without prejudice to any other rights or remedies of the United States.
+
+(5) All sales must be processed on Forest Service-approved contract forms. The authorized officer may add provisions to the contract to cover conditions peculiar to the sale area. Such additional provisions must be made available for inspection by prospective bidders during the advertising period.

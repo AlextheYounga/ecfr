@@ -1,0 +1,3 @@
+##### § 1250.1 Scope of this part. #####
+
+This part implements the provisions of the Freedom of Information Act (FOIA), 5 U.S.C. 552, as amended, for NARA operational records and archival records that are subject to FOIA. This part contains the rules that we follow to process FOIA requests, such as the amount of time we have to make a determination regarding the release of records and what fees we may charge. Other NARA regulations in 36 CFR parts 1254 through 1275 provide detailed guidance for conducting research at NARA.

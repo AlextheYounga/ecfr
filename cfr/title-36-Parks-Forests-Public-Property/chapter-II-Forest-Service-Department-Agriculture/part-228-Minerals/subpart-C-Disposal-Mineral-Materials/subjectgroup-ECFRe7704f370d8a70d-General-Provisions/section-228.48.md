@@ -1,0 +1,5 @@
+##### § 228.48 Appraisal and measurement. #####
+
+(a) *Appraisal.* All mineral materials for sale must be appraised to determine fair market value. Appraisals must be based on knowledge of the extent of the deposit, quality of material, and economic value. A sale must not be made at less than the appraised value which may be expressed as either price per cubic yard or weight equivalent. In all cases the units of measurement must correspond to the units used in the appraisal. The authorized officer must estimate and record the amount and value of minerals to be disposed of by free-use permit.
+
+(b) *Measurement.* The amount of mineral material actually removed may be measured by volume, weight, truck tally, by combination of these methods, or by such other form of measurement as the authorized officer determines to be appropriate and in the public interest.

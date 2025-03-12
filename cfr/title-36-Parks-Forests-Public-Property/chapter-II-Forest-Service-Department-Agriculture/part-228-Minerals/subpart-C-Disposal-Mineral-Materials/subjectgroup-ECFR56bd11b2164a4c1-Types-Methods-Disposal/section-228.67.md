@@ -1,0 +1,7 @@
+##### § 228.67 Information collection requirements. #####
+
+(a) The following sections of this subpart contain information collection requirements as defined in the Paperwork Reduction Act of 1980 (5 CFR part 1320): § 228.45, Qualifications of applicants; § 228.51, Bonding; § 228.52(b)(1), Requirements of assignee; § 228.53(b), Extension of time; § 228.56, Operating plans; § 228.57(c), Conduct of sales; § 228.60, Prospecting permits; § 228.61, Preference right negotiated sales; and § 228.62, Free use. These requirements have been approved by the Office of Management and Budget and assigned clearance number 0596-0081.
+
+(b) The public reporting burden for this collection of information is estimated to vary from a few minutes to many hours per individual response, with an average of 2 hours per individual response, including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding the burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to Chief (2800), Forest Service, USDA, P.O. Box 96090, Washington, DC 20090-6090 and to the Office of Information and Regulatory Affairs, Office of Management and Budget, Washington, DC 20503.
+
+[55 FR 51706, Dec. 17, 1990]

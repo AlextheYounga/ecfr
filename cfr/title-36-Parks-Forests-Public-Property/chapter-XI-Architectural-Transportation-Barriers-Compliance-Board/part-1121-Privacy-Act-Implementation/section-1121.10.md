@@ -1,0 +1,3 @@
+##### § 1121.10 Disclosure of record to a person other than the individual to whom the record pertains. #####
+
+The Board will not disclose a record to any individual or agency other than the individual to whom the record pertains, except to an authorized representative, unless the disclosure has been listed as a “routine use” in the Board's notices of its systems of records, or falls within one of the special disclosure situations listed in the Privacy Act of 1974 (5 U.S.C. 552a(b)).

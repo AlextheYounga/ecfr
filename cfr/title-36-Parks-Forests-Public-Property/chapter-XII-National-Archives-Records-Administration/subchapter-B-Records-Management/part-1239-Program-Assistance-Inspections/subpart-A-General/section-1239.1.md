@@ -1,0 +1,3 @@
+##### § 1239.1 What is the scope of this part? #####
+
+NARA's statutory authorities include assisting agencies in carrying out their records management responsibilities and, when necessary, inspecting agency programs and reporting to Congress on those inspections. Part 1239 identifies the types of records management guidance and program assistance NARA provides to agencies under its 44 U.S.C. chapter 29 mandate; the conditions under which NARA will invoke its inspection authority, also under chapter 29; and the requirements for agencies to cooperate fully in such inspections.

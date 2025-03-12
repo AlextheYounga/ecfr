@@ -1,0 +1,5 @@
+##### § 28.20 Review by the Superintendent. #####
+
+(a) The Superintendent, within 15 working days of the receipt of a copy of an application for a variance, exception, permits for commercial or industrial use, or special permit submitted to the zoning authority for any development, use or change in use shall provide the applicant/landowner and the appropriate zoning authority written comments on the application. The purpose of the Superintendent's review is to determine if the proposed use or development does not conform to the federal standards and the purposes of the Act or is likely to cause significant harm to the natural resources of the Seashore. If the Superintendent's review determines the proposal does not conform, the Superintendent shall inform the applicant/landowner and appropriate zoning authority that should the proposed use or development proceed, the National Park Service may seek to enjoin the development and acquire the property by condemnation.
+
+(b) The Superintendent may also appeal the decision of the zoning authority pursuant to procedures of local law.

@@ -1,0 +1,3 @@
+##### § 1280.66 May I use the National Archives Library? #####
+
+The National Archives Library facilities in the National Archives Building and in the National Archives at College Park are operated to meet the needs of researchers and NARA staff members. If you are not conducting research in archival materials at NARA, NARA Library staff will refer you to public libraries and other possible sources for such published materials.

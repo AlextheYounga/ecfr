@@ -1,0 +1,7 @@
+##### § 1600.8 Appeals. #####
+
+(a) *Appeals of adverse determinations.* If you are dissatisfied with the Foundation's response to your request, you may appeal an adverse determination denying your request, in any respect, to the Executive Director of the Foundation, 110 S. Church Avenue, Suite 3350, Tucson, AZ 85701-1650. You must make your appeal in writing, and it must be received by the Executive Director within 60 days of the date of the letter denying your request. Your appeal letter may include as much or as little related information as you wish, as long as it clearly identifies the determination (including the assigned request number, if known) that you are appealing. For the quickest possible handling, you should mark your appeal letter and the envelope “Freedom of Information Act Appeal.”
+
+(b) *Responses to appeals.* The decision on your appeal will be made in writing. A decision affirming an adverse determination in whole or in part shall contain a statement of the reason(s) for the affirmance, including any FOIA exemption(s) applied, and will inform you of the FOIA provisions for court review of the decision. If the adverse determination is reversed or modified on appeal, in whole or in part, you will be notified in a written decision and your request will be reprocessed in accordance with that appeal decision.
+
+(c) *When appeal is required.* If you wish to seek review by a court of any adverse determination, you must first appeal it under this section.

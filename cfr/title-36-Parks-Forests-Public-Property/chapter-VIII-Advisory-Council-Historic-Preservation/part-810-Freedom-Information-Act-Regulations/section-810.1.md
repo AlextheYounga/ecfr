@@ -1,0 +1,3 @@
+##### § 810.1 Purpose and scope. #####
+
+This subpart contains the regulations of the Advisory Council on Historic Preservation implementing the Freedom of Information Act (5 U.S.C. 552). Procedures for obtaining the records covered by the Act are established in these regulations. Persons seeking information or records of the Council are encouraged to consult first with the staff of the Council before filing a formal request under the Act pursuant to these regulations. The informal exchange of information is encouraged wherever possible.

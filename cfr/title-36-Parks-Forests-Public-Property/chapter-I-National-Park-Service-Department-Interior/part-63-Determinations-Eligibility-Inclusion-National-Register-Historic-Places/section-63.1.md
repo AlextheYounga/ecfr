@@ -1,0 +1,3 @@
+##### § 63.1 Purpose and authorities. #####
+
+(a) These regulations have been developed to assist Federal agencies in identifying and evaluating the eligibility of properties for inclusion in the National Register. The regulations explain how to request determinations of eligibility under section 2(b) of Executive Order 11593 and the regulations of the Advisory Council on Historic Preservation (36 CFR part 800) for implementation of sections 1(3) and 2(b) of Executive Order 11593 and the National Historic Preservation Act of 1966, as amended Federal agencies request determinations of eligibility in considering historic properties on lands under their jurisdiction or control or on lands to be affected by proposed actions.

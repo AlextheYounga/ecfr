@@ -1,0 +1,3 @@
+##### § 51.21 When must the selected offeror execute the concession contract? #####
+
+The selected offeror must execute the concession contract promptly after selection of the best proposal and within the time established by the Director. If the selected offeror fails to execute the concession contract in this period, the Director may select another responsive proposal or may cancel the selection and resolicit the concession contract.

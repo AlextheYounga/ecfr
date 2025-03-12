@@ -1,0 +1,7 @@
+##### § 216.2 Definitions. #####
+
+(a) The *Forest Service Manual* consists of numerous volumes organized by numerically coded subject matter. The volumes contain legal authorities, responsibilities, delegations, and general instruction and direction needed on a continuous basis by Forest Service officers at more than one unit to plan and execute programs. The parent text is issued by the national headquarters and sets forth the policies, and other guidance applicable Service-wide. National directives are supplemented, as necessary, by Forest Service field offices. Supplements to the Forest Service Manual are applicable only within the Forest Service organizational jurisdiction for which they are issued. The Forest Service Manual is revised to conform to changing law, orders, regulations, or management needs.
+
+(b) *Public participation activities* are actions initiated by the Forest Service to facilitate an exchange of information with the public. These actions include, but are not limited to, oral and written measures such as public notices, letters, discussion papers, and gatherings such as meetings, workshops, and hearings.
+
+(c) *Standards, criteria, and guidelines* means those written policies, instructions, and orders, originated by the Forest Service and issued in the Forest Service Manual which establish the general framework for the management and conduct of Forest Service programs.

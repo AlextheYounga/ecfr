@@ -1,0 +1,3 @@
+##### § 218.20 Applicability and scope. #####
+
+This subpart includes provisions that are specific to proposed projects and activities implementing land and resource management plans and documented with a Record of Decision or Decision Notice, except those authorized under the Healthy Forests Restoration Act (HFRA). The sections of this subpart must be considered in combination with the general provisions of subpart A of this part for the full complement of regulatory direction pertaining to predecisional administrative review of the applicable projects and activities.

@@ -1,0 +1,9 @@
+##### § 294.47 Modifications and administrative corrections. #####
+
+Modifications and administrative corrections pursuant to this subpart, after coordination with the State, may be made under the following circumstances:
+
+(a) *Modifications to boundaries.* The Chief of the Forest Service may modify the boundaries of any designated Colorado Roadless Area identified in § 294.49 or add new Colorado Roadless Areas based on changed circumstances. Modifications and additions will be reflected in the set of maps maintained at the national headquarters office of the Forest Service. The construction or reconstruction of a temporary road or tree cutting, sale, or removal will not result in any boundary modification of a Colorado Roadless Area. Public notice with a minimum 90-day comment period will be provided for any proposed Colorado Roadless Area boundary modifications or additions.
+
+(b) *Administrative corrections to boundaries.* The Chief of the Forest Service may issue administrative corrections after public notice and a 30-day comment period. Administrative corrections to the maps of any designated Colorado Roadless Areas identified in § 294.49, including upper tier acres are adjustments to remedy errors such as clerical or improvements in mapping technology. Other than clerical errors, an administrative correction is based on improved field data due to updated imagery, global positioning system data, or other collected field data.
+
+(c) *Amendments to rule language.* Any amendment of this subpart will include coordination with the State and the appropriate level of NEPA analysis. A minimum 90-day comment period will be provided.

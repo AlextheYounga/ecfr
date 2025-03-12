@@ -1,0 +1,5 @@
+##### § 1260.28 Who is responsible for declassifying Restricted Data, Formerly Restricted Data, and Transclassified Foreign Nuclear Information? #####
+
+(a) Only designated officials within the Department of Energy (DOE) may declassify Restricted Data (RD) *(as defined by the Atomic Energy Act of 1954, as amended).* The declassification of Formerly Restricted Data (FRD) *(as defined in 10 CFR 1045.3)* may only be performed after designated officials within DOE, in conjunction with designated officials within DOD, have determined that the FRD marking may be removed. Declassification of Transclassified Foreign Nuclear Information (TFNI) *(as defined in 32 CFR 2001.24(i))* may be performed only by designated officials within DOE.
+
+(b) Any record that contains RD, FRD, or TFNI shall be excluded from automatic declassification and referred by the primary reviewing agency to DOE using a completed SF 715 to communicate both the referral action and the actions taken on the equities of the primary reviewing agency. Any record identified by the primary reviewing agency as potentially containing RD, FRD, or TFNI shall be referred to DOE using a completed SF 715.

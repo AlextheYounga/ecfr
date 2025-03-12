@@ -1,0 +1,7 @@
+##### § 703.2 Policy. #####
+
+(a) Subject to limitations set out in this part, Library of Congress records shall be available as hereinafter provided and shall be furnished as promptly as possible within the Library to any member of the public at appropriate places and times and for an appropriate fee, if any.
+
+(b) The Library shall not provide records from its files that originate in another federal agency or non-federal organization to persons who may not be entitled to obtain the records from the originator. In such instances, the Library shall refer requesters to the agency or organization that originated the records.
+
+(c) In order to avoid disruption of work in progress, and in the interests of fairness to those who might be adversely affected by the release of information which has not been fully reviewed to assure its accuracy and completeness, it is the policy of the Library not to provide records which are part of on-going reviews or other current projects. In response to such requests, the Library will inform the requester of the estimated completion date of the review or project so that the requester may then ask for the records. At that time, the Library may release the records unless the same are exempt from disclosure as identified in § 703.5.

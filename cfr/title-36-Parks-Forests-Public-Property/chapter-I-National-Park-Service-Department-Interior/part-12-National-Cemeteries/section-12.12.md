@@ -1,0 +1,3 @@
+##### § 12.12 Information collection. #####
+
+The information collection requirements contained in §§ 12.6, 12.7, 12.8 and 12.9 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.,* and assigned clearance number 1024-0026. The information is being collected to obtain information necessary to issue permits and will be used to grant administrative benefits. The obligation to respond is required in order to obtain a benefit.

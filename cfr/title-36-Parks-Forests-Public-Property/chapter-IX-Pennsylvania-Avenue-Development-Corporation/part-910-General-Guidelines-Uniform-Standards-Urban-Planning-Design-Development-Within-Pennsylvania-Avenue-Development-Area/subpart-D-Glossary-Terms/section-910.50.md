@@ -1,0 +1,3 @@
+##### § 910.50 General. #####
+
+The definitions appearing in this Glossary of Terms are applicable to this part 910 and to the *Square Guidelines.* In addition, definitions appearing in section 1201 of the Zoning Regulations of the District of Columbia are also applicable. Where a conflict between this subpart and section 1201 of the Zoning Regulations arises in terminology or interpretation, this subpart shall be controlling.

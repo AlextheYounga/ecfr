@@ -1,0 +1,5 @@
+##### § 18.6 Are there limitations on the use of property leased under this part? #####
+
+(a) A lease issued under this part may authorize the use of the leased property for any lawful purpose, subject to the determinations required by § 18.4 and the limitations on activities set forth in paragraph (b) of this section.
+
+(b) Unless otherwise authorized by law, a lease issued under this part may not authorize the lessee to engage in activities that are subject to authorization through a concession contract, commercial use authorization or similar instrument. Proposed lease activities are subject to authorization under a concession contract if the Director determines in accordance with 36 CFR part 51 and park area planning documents and related guidelines and policies that the proposed activities meet applicable requirements for issuance of a concession contract. Proposed activities are subject to authorization under a commercial use authorization if the Director determines in accordance with park area planning documents and related guidelines and policies that the proposed activities meet applicable requirements for issuance of a commercial use authorization.

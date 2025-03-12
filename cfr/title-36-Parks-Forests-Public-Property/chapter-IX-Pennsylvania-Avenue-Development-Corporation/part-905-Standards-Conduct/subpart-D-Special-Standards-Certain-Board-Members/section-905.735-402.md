@@ -1,0 +1,7 @@
+##### § 905.735-402 Advice and determination. #####
+
+The Corporation's Ethics Counselor is readily available for consultation when a Board Member seeks advice as to the appropriateness of his actions in light of this part, the Executive order, or title 18 U.S.C., chapter 11. A Board Member has an affirmative duty to advise the Ethics Counselor of any potential conflict of interest which may arise with the individual's participation in any particular matter before the Corporation. If advised to do so, the Board Member should submit to the Chairman for determination the question of whether or not the conflict will disqualify the Board Member from participating in the action to be taken by the Corporation. Under the authority delegated to the Chairman pursuant to 18 U.S.C. 208(b), the Chairman may find that the Board Member need not be disqualified from participating in the particular matter, if:
+
+(a) The Board Member makes a full disclosure of the financial interest; and
+
+(b) The Chairman furnishes him with a written determination in advance of the action that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from the Board Member. Requests for similar determinations for conflicts posed by the financial interests of the Chairman himself shall be submitted to the Chairman of the Civil Service Commission.

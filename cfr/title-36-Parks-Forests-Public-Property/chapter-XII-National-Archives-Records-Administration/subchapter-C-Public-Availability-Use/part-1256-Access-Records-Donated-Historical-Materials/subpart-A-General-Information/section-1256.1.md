@@ -1,0 +1,3 @@
+##### § 1256.1 What does this part cover? #####
+
+This part describes NARA's policies on access to archival records of the Executive Branch and donated historical materials in the National Archives of the United States and to records in the physical custody of the Federal records centers. This part applies to records and materials covered by the Federal Records Act (44 U.S.C. 2108 and chs. 29, 31, 33) and donated historical materials. This part does not apply to Presidential, Supreme Court, Senate, House of Representatives, and Architect of the Capitol records except for the purpose of directing mandatory review requests in subpart E.

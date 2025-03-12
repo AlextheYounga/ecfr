@@ -1,0 +1,3 @@
+##### § 17.8 Conveyance. #####
+
+Conveyance of a leasehold or freehold interest shall be by lease or deed, as appropriate, at the highest bid price, but not less than fair market value. All conveyance of leasehold or freehold interests shall contain such terms and conditions as the Secretary deems necessary to assure use of the property in a manner consistent with the purpose for which the area was authorized by Congress. The conveyancing or leasing document shall contain such provisions and restrictions as may be determined by the Secretary to be necessary to protect the natural, historic, cultural or other values present on the lands. All conveyances shall be without warranty.

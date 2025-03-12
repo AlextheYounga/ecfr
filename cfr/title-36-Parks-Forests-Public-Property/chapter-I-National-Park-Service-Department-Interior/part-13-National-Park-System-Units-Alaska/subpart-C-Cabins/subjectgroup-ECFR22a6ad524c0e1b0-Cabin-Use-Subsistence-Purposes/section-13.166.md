@@ -1,0 +1,3 @@
+##### § 13.166 Temporary facilities. #####
+
+A temporary facility or structure directly and necessarily related to the taking of subsistence resources may be constructed and used by a qualified subsistence user without a permit so long as such use is for less than thirty days and the site is returned to a natural condition. The Superintendent may establish conditions and standards governing the use or construction of these temporary structures and facilities which shall be published annually in accordance with § 1.7 of this chapter.

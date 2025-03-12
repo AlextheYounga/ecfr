@@ -1,0 +1,3 @@
+##### § 14.55 Consultation with local bureau officials, program values. #####
+
+An applicant will be expected, at the earliest possible date prior to the filing of an application, to consult with the local officials of the National Park Service to ascertain whether or not the use or appropriation of the lands for right-of-way purposes is consistent with the Service's management program and to agree to such measures as may be necessary to maintain program values. Failure to do so may lead to an unresolvable conflict of interest and necessitate disallowance of the application.

@@ -1,0 +1,5 @@
+##### § 907.16 Actions where lead Agency designation is necessary. #####
+
+(a) Consistent with CEQ Regulations, § 1501.5, where a proposed action by the Corporation involves one or more other Federal agencies, or where a group of actions by the Corporation and one or more other Federal agencies are directly related to each other because of their functional interdependence or geographical proximity, the Corporation will seek designation as lead agency for those actions that directly relate to implementation of the Plan and those actions that relate solely to the Development Area.
+
+(b) For an action that qualifies as one for which the Corporation will seek designation as lead agency, the Corporation will promptly consult with the appropriate Federal agencies such as the National Capital Planning Commission, the Department of the Interior, and the General Services Administration to establish lead agency and cooperating agency designations.

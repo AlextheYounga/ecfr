@@ -1,0 +1,5 @@
+##### § 1120.25 Form of requests. #####
+
+A request must be in writing, must reasonably describe the records sought in a way that will permit their identification and location, and must be addressed to the address set forth in § 1120.23, but otherwise need not be in any particular form. Each request under the Freedom of Information Act should be clearly and prominently identified by a legend on the first page, such as “Freedom of Information Act Request.” The envelope in which the request is sent should be prominently marked with the letters “FOIA.” It is helpful, but not necessary, for the requestor to include his or her phone number and the reason for the request. A request may state the maximum amount of fees which the requester is willing to pay. Under § 1120.33(d), the failure to state willingness to pay fees as high as are anticipated by the A&TBCB will delay running of the time limit and delay processing of the request, if the responsible official anticipates that the fees chargeable may exceed $250.00.
+
+[45 FR 80976, Dec. 8, 1980, as amended at 52 FR 43195, Nov. 10, 1987]

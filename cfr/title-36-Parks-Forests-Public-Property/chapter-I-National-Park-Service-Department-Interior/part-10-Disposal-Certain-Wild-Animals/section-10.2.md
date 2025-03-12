@@ -1,0 +1,3 @@
+##### § 10.2 Charges. #####
+
+No charge will be made for the animals, but the receiver will be required to make a deposit with the appropriate superintendent to defray the expense of capturing, crating, and transporting them to the point of shipment. The receiver may also be required to pay for the services of a veterinarian for testing, vaccinating, and treating the animals at the park for communicable diseases and parasites. Estimates of such expenses will be furnished by the appropriate superintendent upon request.

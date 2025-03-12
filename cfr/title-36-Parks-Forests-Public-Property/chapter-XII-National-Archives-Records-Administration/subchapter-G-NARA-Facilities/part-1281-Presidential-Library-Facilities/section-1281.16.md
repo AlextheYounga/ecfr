@@ -1,0 +1,3 @@
+##### § 1281.16 What standard does NARA use for measuring building size? #####
+
+For purposes of 44 U.S.C. 2112(g)(3) and (4), and this part, NARA has adopted the BOMA Standard (incorporated by reference in § 1281.2) as the standard for measuring the size of the facility and the value for calculating the endowment. The architectural and design standards contain the description of the area to be measured as to obtain the useable square footage and the exclusions to the measurement.

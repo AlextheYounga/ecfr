@@ -1,0 +1,3 @@
+##### § 294.12 State petitions. #####
+
+The Governor of any State or territory that contains National Forest System lands may petition the Secretary of Agriculture to promulgate regulations establishing management requirements for all or any portion of National Forest System inventoried roadless areas within that State or territory. Any such petition must be submitted to the Secretary of Agriculture not later than November 13, 2006.

@@ -1,0 +1,9 @@
+##### § 6.6 Solid waste disposal sites within new additions to the National Park System. #####
+
+(a) An operator of a solid waste disposal site located on lands or waters added to the National Park System, by act of Congress or by proclamation, after January 23, 1995, will not be permitted to dispose of solid waste after expiration of the permit or license in effect on the date of the land's or water's designation as being within a National Park System unit's boundaries. The operator must then immediately fulfill all applicable closure and post-closure care requirements.
+
+(b) An operator of a solid waste disposal site located on lands or waters designated as being within the boundaries of a unit of the National Park System established or expanded after January 23, 1995, who wishes to remain in operation for the duration of the existing permit or license, must submit to the Regional Director, within 180 calendar days of the land's or water's designation as being within a National Park System unit boundaries, a permit request and environmental report as described in § 6.4(b) (1)-(9).
+
+(c) Any operator who fails to submit a request as described in paragraph (b) of this section will be subject to the penalty provisions of § 6.12.
+
+(d) If the Regional Director finds that the permit request and the environmental report do not meet the conditions for approval set forth in § 6.5(c), the Regional Director will reject the request and notify the proposed operator of the reasons for the rejection. Within 90 calendar days of such notice, the operator of the solid waste disposal site must cease disposing of solid waste at the site. The operator may resume disposing of solid waste only upon submission and approval of a permit request and environmental report that the Regional Director determines meet the conditions set forth in § 6.5(c).

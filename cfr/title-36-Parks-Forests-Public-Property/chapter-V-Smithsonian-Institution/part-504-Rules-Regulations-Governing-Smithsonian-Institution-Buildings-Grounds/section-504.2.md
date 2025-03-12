@@ -1,0 +1,3 @@
+##### § 504.2 Recording presence. #####
+
+Except as otherwise ordered, Smithsonian buildings shall be closed to the public after normal visiting hours. Such buildings, or portions thereof, shall also be closed to the public in emergency situations and at such other times as may be necessary for the orderly conduct of business. Whenever the buildings are closed to the public for any reason, visitors will immediately leave the premises upon being requested by a guard or other authorized individuals. Admission to such premises during periods when closed to the public will be limited to authorized individuals who will be required to register and identify themselves when requested by guards or other authorized individuals.

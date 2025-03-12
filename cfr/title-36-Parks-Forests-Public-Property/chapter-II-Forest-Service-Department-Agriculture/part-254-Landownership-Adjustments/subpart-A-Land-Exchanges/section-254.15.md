@@ -1,0 +1,21 @@
+##### § 254.15 Title standards. #####
+
+(a) *Title evidence.* (1) Unless otherwise specified by the USDA Office of the General Counsel, evidence of title for the non-Federal lands being conveyed to the United States must be in recordable form and in conformance with the Department of Justice regulations and “Standards for the Preparation of Title Evidence in Land Acquisitions by the United States” in effect at the time of conveyance.
+
+(2) The United States is not required to furnish title evidence for the Federal lands being exchanged.
+
+(b) *Conveyance documents.* (1) Unless otherwise specified by the USDA Office of the General Counsel, all conveyances to the United States must be prepared, executed, and acknowledged in accordance with the Department of Justice regulations and “Standards for the Preparation of Title Evidence in Land Acquisitions by the United States” in effect at the time of conveyance.
+
+(2) Conveyances of lands from the United States are made by patent, quitclaim deed, or deed and without express or implied warranties, except as to hazardous substances pursuant to § 254.3 of this subpart.
+
+(c) *Title encumbrances*—(1) *Non-Federal lands.* (i) Title to the non-Federal lands must be acceptable to the United States. For example, encumbrances such as taxes, judgment liens, mortgages, and other objections or title defects shall be eliminated, released, or waived in accordance with requirements of the preliminary title opinion of the USDA Office of the General Counsel or the Department of Justice, as appropriate.
+
+(ii) The United States shall not accept lands in which there are reserved or outstanding interests that would interfere with the use and management of the land by the United States or would otherwise be inconsistent with the authority under which, or the purpose for which, the lands are to be acquired. Reserved interests of the non-Federal landowner are subject to the appropriate rules and regulations of the Secretary, except upon special finding by the Chief, Forest Service in the case of States, agencies, or political subdivisions thereof (36 CFR part 251, subpart A).
+
+(iii) Any personal property owned by the non-Federal party which is not a part of the exchange proposal, should be removed by the non-Federal party prior to acceptance of title by the United States, unless the authorized officer and the non-Federal party to the exchange previously agree upon a specified period to remove the personal property. If the personal property is not removed prior to acceptance of title or within the otherwise prescribed time, it shall be deemed abandoned and shall become vested in the United States.
+
+(iv) The exchange parties must reach agreement on the arrangements for the relocation of any tenants. Qualified tenants occupying non-Federal lands affected by a land exchange may be entitled to relocation benefits under 49 CFR 24.2. Unless otherwise provided by law or regulation (49 CFR 24.101(a)(1)), relocation benefits are not applicable to owner-occupants involved in exchanges with the United States provided the owner-occupants are notified in writing that the non-Federal lands are being acquired by the United States on a voluntary basis.
+
+(2) *Federal lands.* If Federal lands proposed for exchange are occupied under grant, permit, easement, or non-mineral lease by a third party who is not a party to the exchange, the third party holder of such authorization and the non-Federal party to the exchange may reach agreement as to the disposition of the existing use(s) authorized under the terms of the grant, permit, easement, or lease. The non-Federal exchange party shall submit documented proof of such agreement prior to issuance of a decision to approve the land exchange, as instructed by the authorized officer. If an agreement cannot be reached, the authorized officer shall consider other alternatives to accommodate the authorized use or shall determine whether there are specific and compelling reasons in the public interest for revoking the authorization for that use pursuant to 36 CFR 251.60.
+
+[59 FR 10867, Mar. 8, 1994, as amended at 78 FR 33726, June 5, 2013]

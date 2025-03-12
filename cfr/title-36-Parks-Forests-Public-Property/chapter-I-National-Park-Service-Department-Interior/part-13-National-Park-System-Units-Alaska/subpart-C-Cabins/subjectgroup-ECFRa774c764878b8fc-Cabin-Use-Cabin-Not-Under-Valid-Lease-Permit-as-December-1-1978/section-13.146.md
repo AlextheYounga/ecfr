@@ -1,0 +1,3 @@
+##### § 13.146 Use and occupancy of a cabin between December 18, 1973 and December 1, 1978. #####
+
+A cabin or other residential structure in existence prior to December 1, 1978, with occupancy commenced by a claimant between December 18, 1973 and December 1, 1978, which a claimant has continued to occupy or use for a substantial portion of the time, may continue to be used and occupied by the claimant pursuant to a non-transferable permit. The Superintendent may issue and extend such permit for a term not to exceed December 1, 1999 for such reasons as are deemed by the Superintendent to be equitable and just. The Superintendent shall review the permit at least every two years and modify the permit as necessary to protect park resources and values.

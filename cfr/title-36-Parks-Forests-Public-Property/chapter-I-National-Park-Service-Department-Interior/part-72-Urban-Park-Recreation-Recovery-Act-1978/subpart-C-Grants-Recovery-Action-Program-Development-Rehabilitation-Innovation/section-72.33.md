@@ -1,0 +1,9 @@
+##### § 72.33 Timing and duration of projects. #####
+
+(a) Construction components of projects must be initiated during the first full construction season following grant approval. The time for completing construction components of either Rehabilitation or Innovation proposals will be limited to three years or three construction seasons, whichever is greater, unless in the opinion of the Director an extension of time not to exceed a designated period will assure that completion of the grant objectives will be cost-effective within funding currently available, in accord with established goals of the UPARR Program, and of benefit to the federal government. Any component of an Innovation proposal which is to provide services or programs, must be started within one year from grant approval. The grant project term and expiration date for Rehabilitation and Innovation proposals will be established by NPS at the time of grant approval.
+
+(b) When an applicant wishes to complete a project in a number of stages, the applicant may request UPARR assistance for all the stages in a single application or proposal. In such cases, the three year limit on construction still applies. If an applicant wishes to request funding for only a single stage at time, each stage must be structured in such a manner that it will increase the recreation utility of the property, or provide direct recreation opportunities, independent of subsequent stages. Funding of one stage of a multi-staged proposal in no way implies that subsequent stages will also be funded.
+
+(c) Supplemental grants to existing innovation grants may be approved by the Director.
+
+[45 FR 71719, Oct. 29, 1980. Redesignated at 46 FR 34329, July 1, 1981, and correctly redesignated at 46 FR 43045, Aug. 26, 1981, and amended at 47 FR 15137, Apr. 8, 1982; 48 FR 3971, Jan. 28, 1983]

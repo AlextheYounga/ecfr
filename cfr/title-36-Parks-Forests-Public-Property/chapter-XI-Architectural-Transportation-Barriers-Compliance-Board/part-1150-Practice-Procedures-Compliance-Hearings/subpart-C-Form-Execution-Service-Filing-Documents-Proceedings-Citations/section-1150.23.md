@@ -1,0 +1,7 @@
+##### § 1150.23 Filing and service. #####
+
+(a) *General.* All notices, written motions, requests, petitions, memoranda, pleadings, briefs, decisions, and correspondence to the judge, from a party or a participant or vice versa, relating to a proceeding after its commencement shall be filed and served on all parties and participants.
+
+(b) *Filing.* Parties shall submit for filing the original and two copies of documents, exhibits, and transcripts of testimony. Filings shall be made in person or by mail, with the hearing clerk at the address stated in the notice of hearing or notice of opportunity for hearing, during regular business hours. Regular business hours are every Monday through Friday (Federal legal holidays excepted) from 9 a.m. to 5:30 p.m. Standard or Daylight Savings Time, whichever is effective in the city where the office of the judge is located at the time.
+
+(c) *Service.* Service of one copy shall be made on each party and participant by personal delivery or by certified mail, return receipt requested, properly addressed with postage prepaid. When a party or participant has appeared by attorney or other representative, service upon the attorney or representative is deemed service upon the party or participant.

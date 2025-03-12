@@ -1,0 +1,3 @@
+##### § 910.63 Rehabilitation. #####
+
+*Rehabilitation* means the process of adapting improvements on real property to make possible an efficient contemporary use achieved by means of a combination of construction, repair, or alteration, as well as *restoration* and *replication* of those portions and features of the property that are significant to its historic, architectural, and cultural values, consistent with the goals and objectives of *the Plan.*

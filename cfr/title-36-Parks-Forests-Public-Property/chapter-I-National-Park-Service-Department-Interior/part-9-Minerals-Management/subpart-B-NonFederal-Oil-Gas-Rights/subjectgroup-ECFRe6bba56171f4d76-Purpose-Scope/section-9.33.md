@@ -1,0 +1,5 @@
+##### § 9.33 If I am already operating under an NPS authorization, what do I need to do? #####
+
+(a) If you already have an NPS-approved plan of operations, you may continue to operate according to the terms and conditions of that approval, subject to the provisions of this subpart. For purposes of this subpart, we consider your approved plan of operations to be either a temporary access permit or operations permit.
+
+(b) This section applies to you if we have granted you an exemption to the plan of operations requirement because your operation accesses oil and gas rights inside a System unit boundary from a surface location outside the boundary. You may continue to operate under the exemption provided that your operations comply with the general terms and conditions of §§ 9.120 through 9.122. You are also subject to the prohibitions and penalties in §§ 9.180 through 9.182.

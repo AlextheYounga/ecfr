@@ -1,0 +1,3 @@
+##### § 1150.21 Form of documents to be filed. #####
+
+Documents to be filed under the rules in this part shall be dated, the original signed in ink, shall show the docket number and title of the proceeding and shall show the title, if any, and address of the signatory. Copies need not be signed; however, the name of the person signing the original, but not necessarily his/her signature, shall be reproduced. Documents shall be legible and shall not be more than 81/2 inches wide.

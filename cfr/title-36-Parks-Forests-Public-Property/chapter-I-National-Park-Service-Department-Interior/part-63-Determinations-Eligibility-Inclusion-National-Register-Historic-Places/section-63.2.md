@@ -1,0 +1,21 @@
+##### § 63.2 Determination of eligibility process. #####
+
+The Department of the Interior will respond within 45 days of receipt of a documented request for a determination of eligibility from a Federal agency when it is submitted in accordance with the following regulations and is accompanied by documentation that clearly portrays the nature and significance of the property.
+
+(a) The agency shall consult the State Historic Preservation Officer as the first step in identifying historic properties for information concerning:
+
+(1) Properties listed in the National Register.
+
+(2) Properties in the process of nomination to the National Register.
+
+(3) Properties determined eligible by the Secretary of the Interior for listing in the National Register.
+
+(4) Any other available information that would assist in identifying properties in the area affected by the proposed action.
+
+(b) If the State Historic Preservation Officer has inadequate information to document the presence or absence of historic properties in the project area, the Federal agency should refer to the Department of the Interior's criteria for the identification of historic properties and the guidelines for level of documentation to accompany requests for determinations of eligibility for inclusion in the National Register published as a notice in the Federal Register.
+
+(c) The agency shall, in consultation with the State Historic Preservation Officer, apply the National Register Criteria for Evaluation contained in 36 CFR 60.6 to all potentially eligible properties that may be affected by the proposed action. If a property appears to meet the Criteria and the State Historic Preservation Officer agrees, the agency should follow the procedures in § 63.3. If there is a question whether the Criteria are met, the agency shall complete the procedures in § 63.3(d). A question on whether a property meets the Criteria exists when the agency and the State Historic Preservation Officer disagree or when the agency determines that a question exists. The Department of the Interior will provide general and specific advice concerning the identification of historic properties and will bring to the attention of a Federal agency any information received from the public regarding potential historic properties in the area affected by its plans or projects.
+
+(d) The agency shall submit a letter of request for a determination of eligibility with a description, statement of significance, photographs, and a map, or a statement in accord with § 63.3 below, if applicable, directly to the Keeper of the National Register, National Park Service, Department of the Interior, Washington, D.C. 20240. If available, the opinion of the State Historic Preservation Officer on the eligibility of the property should also be forwarded with the request.
+
+(e) The Keeper, National Register, will respond in writing to the agency's request within 45 days of receipt of a documented request submitted in accord with § 63.2(d) of these procedures. If the opinion of the State Historic Preservation Officer is not included with the request, the Keeper of the National Register will provide to the State Historic Preservation Officer a copy of the request and will ask for his opinion on the property. If the Keeper does not receive the State Historic Preservation Officer's response within three weeks of the State Historic Preservation Officer's receipt of a letter from the Keeper requesting an opinion, the Keeper will proceed with the determination and will inform the agency that the State Historic Preservation Officer did not give an opinion. If the Keeper of the National Register determines that documentation submitted with the request is not sufficient to make a professional evaluation of the significance of the property, he will advise the agency in writing of the additional information needed. The Keeper of the National Register will respond to the agency's request within 45 days of receipt of documentation on the property requested by the Keeper.

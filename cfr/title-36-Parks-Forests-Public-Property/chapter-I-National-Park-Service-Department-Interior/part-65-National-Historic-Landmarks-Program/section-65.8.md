@@ -1,0 +1,17 @@
+##### § 65.8 Alteration of National Historic Landmark boundaries. #####
+
+(a) *Two justifications exist for enlarging the boundary of a National Historic Landmark:* Documentation of previously unrecognized significance or professional error in the original designation. Enlargement of a boundary will be approved only when the area proposed for addition to the National Historic Landmark possesses or contributes directly to the characteristics for which the landmark was designated.
+
+(b) *Two justifications exist for reducing the boundary of a National Historic Landmark:* Loss of integrity or professional error in the original designation. Reduction of a boundary will be approved only when the area to be deleted from the National Historic Landmark does not possess or has lost the characteristics for which the landmark was designated.
+
+(c) A proposal for enlargement or reduction of a National Historic Landmark boundary may be submitted to or can originate with the History Division, NPS. NPS may restudy the National Historic Landmark and subsequently make a proposal, if appropriate, in the same manner as specified in § 65.5 (c) through (h). In the case of boundary enlargements only those owners in the newly nominated but as yet undesignated area will be notified and will be counted in determining whether a majority of private owners object to listing.
+
+(d)(1) When a boundary is proposed for a National Historic Landmark for which no specific boundary was identified at the time of designation, NPS shall provide notice, in writing, of the proposed boundary to (i) the owner(s); (ii) the appropriate State official; (iii) the chief elected local official; (iv) the Members of Congress who represent the district and State in which the landmark is located, and (v) if the property is located on an Indian reservation, the chief executive officer of the Indian tribe, and shall allow not less than 30 nor more than 60 days for submitting written comments on the proposal. In the case of a landmark with more than 50 owners, the general notice specified in § 65.5(d)(3) will be used. In the case of National Historic Landmark districts for which no boundaries have been established, proposed boundaries shall be published in the Federal Register for comment and be submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Interior and Insular Affairs of the United States House of Representatives and not less than 30 nor more than 60 days shall be provided for the submittal of written comments on the proposed boundaries.
+
+(2) The proposed boundary and any comments received thereon shall be submitted to the Associated Director for National Register Programs, NPS, who may approve the boundary without reference to the Advisory Board or the Secretary.
+
+(3) NPS will provide written notice of the approved boundary to the same parties specified in paragraph (d)(1) of this section and by publication in the Federal Register.
+
+(4) Management of the activities described in paragraphs (d)(1), (2), and (3) of this section is handled by the National Register of Historic Places, NPS, [Address: National Register of Historic Places, National Park Service, Department of the Interior, Washington, DC 20240].
+
+(e) A technical correction to a boundary may be approved by the Chief, History Division, without Advisory Board review or Secretarial approval. NPS will provide notice, in writing, of any technical correction in a boundary to the same parties specified in (d)(1).

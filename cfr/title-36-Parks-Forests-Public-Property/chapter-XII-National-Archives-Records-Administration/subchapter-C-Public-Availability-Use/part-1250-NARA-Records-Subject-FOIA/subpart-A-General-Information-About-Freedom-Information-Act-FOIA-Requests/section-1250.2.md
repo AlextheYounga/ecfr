@@ -1,0 +1,3 @@
+##### § 1250.2 Presumption of Openness and Proactive Disclosures. #####
+
+NARA, consistent with its core mission, has always been committed to providing public access to as many of our records as possible. We therefore continue to affirmatively release and post records, or descriptions of such records, on our Web site at *www.archives.gov* in the absence of any FOIA request. We proactively identify and make discretionary disclosures of additional records of interest to the public whenever possible.

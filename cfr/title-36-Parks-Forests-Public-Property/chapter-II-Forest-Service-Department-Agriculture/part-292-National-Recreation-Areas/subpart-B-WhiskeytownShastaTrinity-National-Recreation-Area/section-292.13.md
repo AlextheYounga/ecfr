@@ -1,0 +1,33 @@
+##### § 292.13 Standards. #####
+
+(a) The standards set forth in §§ 292.11-292.13 shall apply to the Shasta and Clair Engle-Lewiston Units, which are defined by the boundary descriptions in the notice of the Secretary of Agriculture of July 12, 1966 (31 FR 9469), and to a strip of land outside the National Recreation Area on either side of Federal Aid Secondary Highway Numbered 1089, as more fully described in 2(a) of the act establishing the recreation area (79 Stat. 1296).
+
+(b) *New industrial or commercial uses.* New industrial or commercial uses will be prohibited in any location except under the following conditions:
+
+(1) The industrial use is such that its operation, physical structures, or waste byproducts would not have significant adverse impacts on surrounding or nearby outdoor recreation, scenic and esthetic values. Industrial uses having an adverse impact include, but are not limited to, cement production, gravel extraction operations involving more than one-fourth acre of surface, smelters, sand, gravel and aggregate processing plants, fabricating plants, pulpmills, and commercial livestock feeder yards.
+
+(2)(i) The commercial use is for purposes of providing food, lodging, automotive or marine maintenance facilities and services to accommodate recreationists and the intended land occupancy and physical structures are such that they can be harmonized with adjacent land development and surrounding appearances in accordance with approved plans and schedules.
+
+(ii) This standard provides for privately owned and operated businesses whose purposes and physical structures are in keeping with objectives for use and maintenance of the area's outdoor recreation resources. It precludes establishment of drive-in theaters, zoos, and similar nonconforming types of commercial entertainment.
+
+(c) *Protection of roadsides.* Provisions to protect natural scenic qualities and maintain screening along public travel routes will include:
+
+(1) Prohibition of new structural improvements or visible utility lines within a strip of land extending back not less than 150 feet from both sides of the centerline of any public road or roadway except roads within subdivisions or commercial areas. In addition to buildings, this prohibition pertains to above-ground power and telephone lines, borrow pits, gravel, or earth extraction areas, and quarries.
+
+(2) Retention of trees and shrubs in the above-prescribed roadside strips to the full extent that is compatible with needs for public safety and road maintenance. Wholesale clearing by chemical or other means for fire control and other purposes will not be practiced under this standard.
+
+(d) *Protection of shorelines.* Provisions to protect scenic qualities and reduce potentials for pollution of public reservoirs will include: Prohibition of structures within 300 feet horizontal distance from highwater lines of reservoirs other than structures the purpose of which is to service and accommodate boating or to facilitate picnicking and swimming: *Provided,* That exceptions to this standard may be made upon showing satisfactory to the Secretary that proposed structures will not conflict with scenic and antipollution considerations.
+
+(e) *Property development.* Location and development of structures will conform with the following minimum standards:
+
+(1) *Commercial development.* (i) Stores, restaurants, garages, service stations, and comparable business enterprises will be situated in centers zoned for this purpose unless they are operated as part of a resort or hotel. Commercial centers will be of sufficient size that expansion of facilities or service areas is not dependent upon use of public land.
+
+(ii) Sites outside designated commercial centers will be used for resort development contingent upon case by case concurrence of the responsible county officials and the Secretary that such use is, in all aspects, compatible with the purposes for establishing the recreation area.
+
+(iii) Structures for commercial purposes, inclusive of isolated resorts or motels, will not exceed two stories height at front elevation, and will be conventional architecture and will utilize colors, nonglare roofing materials, and spacing or layout that harmonizes with forested settings. Except for signs, structures designed primarily for purposes of calling attention to products or service will not be permitted.
+
+(2) *Residential development.* (i) Locations approved for residential development will be buffered by distance, topography, or forest cover from existing or planned public use areas such as trailer parks, campgrounds, or organization sites. Separation will be sufficient to avoid conflicts resulting from intervisibility, noise, and proximity that is conducive to private property trespass.
+
+(ii) Requirements for approval of residential areas will include: (*a*) Construction of access when main access would otherwise be limited to a road constructed by the United States primarily to service publicly owned recreation developments; (*b*) limitation of residences to single-family units situated at a density not exceeding two per acre, but any lot of less than a half-acre may be used for residential purposes if, on or before promulgation of §§ 292.11-292.13, such lot was in separate ownership or was delineated in a county-approved plat that constitutes part of a duly recorded subdivision; (*c*) use of set-backs, limitations to natural terrain, neutral exterior colors, nonglare roofing materials, and limitations of building heights fully adequate to harmonize housing development with the objective of the National Recreation Area as set forth in the act.
+
+(3) *Signs and signing.* Only those signs may be permitted which: (i) Do not exceed 1 square foot in area for any residential use; (ii) do not exceed 40 square feet in area, 8 feet in length, and 15 feet maximum height from ground for any other use, including advertisement of the sale or rental of property; and (iii) which are not illuminated by any neon or flashing device. Commercial signs may be placed only on the property on which the advertised use occurs, or on the property which is advertised for sale or rental. Signs shall be subdued in appearance, harmonizing in design and color with the surroundings and shall not be attached to any tree or shrub. Nonconforming signs may continue for a period not to exceed 2 years from the date a zoning ordinance containing these limitations is adopted.

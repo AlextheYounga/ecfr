@@ -1,0 +1,3 @@
+##### § 13.110 Notice and comment on proposed permit. #####
+
+Before a permit for the use and occupancy of a cabin or other structure is issued pursuant to this subpart, the Superintendent shall publish notice of the proposed issuance in the local media and provide a public comment period of at least sixty days, subject to the following exceptions: Prior notice and comment are not required for a permit authorizing use and occupancy for 14 days or less of a public use cabin or use and occupancy of a temporary facility for the taking of fish or wildlife for sport or subsistence purposes.

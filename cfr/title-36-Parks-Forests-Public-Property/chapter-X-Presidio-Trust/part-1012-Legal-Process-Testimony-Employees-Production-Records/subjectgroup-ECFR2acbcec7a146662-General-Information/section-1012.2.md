@@ -1,0 +1,5 @@
+##### § 1012.2 What is the Presidio Trust's policy on granting requests for employee testimony or Presidio Trust records? #####
+
+(a) Except for proceedings covered by § 1012.1(c) and (d), it is the Presidio Trust's general policy not to allow its employees to testify or to produce Presidio Trust records either upon request or by subpoena. However, if the party seeking such testimony or records requests in writing, the Presidio Trust will consider whether to allow testimony or production of records under this part. The Presidio Trust's policy ensures the orderly execution of its mission and programs while not impeding any proceeding inappropriately.
+
+(b) No Presidio Trust employee may testify or produce records in any proceeding to which this part applies unless authorized by the Presidio Trust under §§ 1012.1 through 1012.11. *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

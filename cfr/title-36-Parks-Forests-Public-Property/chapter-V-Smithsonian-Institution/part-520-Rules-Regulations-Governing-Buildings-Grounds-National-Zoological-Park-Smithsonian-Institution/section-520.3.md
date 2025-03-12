@@ -1,0 +1,3 @@
+##### § 520.3 Preservation of property. #####
+
+It is unlawful willfully to destroy, damage, or remove property or any part thereof. Any parcels, portfolios, bags, or containers of any kind may be required to be opened and the contents identified prior to removal from the premises. In order to remove any property from the premises, a properly completed property pass signed by an authorized official of the National Zoological Park may be required prior to removal.

@@ -1,0 +1,3 @@
+##### § 1235.10 What records do agencies transfer to the National Archives of the United States? #####
+
+Agencies must transfer to the National Archives of the United States records that have been scheduled as permanent on an SF 115, Request for Records Disposition Authority, records that are designated as permanent in a GRS; and, when appropriate, records that are accretions to holdings (continuations of series already accessioned.)

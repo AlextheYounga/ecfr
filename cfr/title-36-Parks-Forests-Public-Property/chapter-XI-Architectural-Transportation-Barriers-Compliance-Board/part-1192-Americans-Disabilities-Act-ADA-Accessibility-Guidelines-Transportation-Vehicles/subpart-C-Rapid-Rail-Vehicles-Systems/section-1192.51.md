@@ -1,0 +1,7 @@
+##### § 1192.51 General. #####
+
+(a) New, used and remanufactured rapid rail vehicles, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with this subpart.
+
+(b) If portions of the vehicle are modified in a way that affects or could affect accessibility, each such portion shall comply, to the extent practicable, with the applicable provisions of this subpart. This provision does not require that inaccessible vehicles be retrofitted with lifts, ramps or other boarding devices.
+
+(c) Existing vehicles which are retrofitted to comply with the “one-car-per-train rule” of 49 CFR 37.93 shall comply with §§ 1192.55, 1192.57(b), 1192.59 and shall have, in new and key stations, at least one door complying with § 1192.53(a)(1), (b) and (d). Removal of seats is not required. Vehicles previously designed and manufactured in accordance with the accessibility requirements of 49 CFR part 609 or Department of Transportation regulations implementing section 504 of the Rehabilitation Act of 1973 that were in effect before October 7, 1991, and which can be entered and used from stations in which they are to be operated, may be used to satisfy the requirements of 49 CFR 37.93.

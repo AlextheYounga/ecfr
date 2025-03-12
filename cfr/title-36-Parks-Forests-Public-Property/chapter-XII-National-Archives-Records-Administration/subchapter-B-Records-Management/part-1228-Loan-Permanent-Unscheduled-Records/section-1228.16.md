@@ -1,0 +1,3 @@
+##### § 1228.16 When must agencies retrieve records that have been loaned? #####
+
+An agency must contact the recipient of loaned permanent or unscheduled records 30 days prior to the expiration of the loan period (as stated in the loan agreement) to arrange for the return of the records. If the agency extends the duration of the loan, it must notify NARA (see § 1228.12(b)) in writing, specifying the reason for the extension and providing the new expiration date of the loan.

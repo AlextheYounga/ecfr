@@ -1,0 +1,3 @@
+##### § 51.74 When may a concession contract be terminated by the Director? #####
+
+Concession contracts will contain appropriate provisions for suspension of operations under a concession contract and for termination of a concession contract by the Director for default, including, without limitation, unsatisfactory performance, or termination when necessary to achieve the purposes of the 1998 Act. The purposes of the 1998 Act include, but are not limited to, protecting, conserving, and preserving park area resources and providing necessary and appropriate visitor services in park areas.

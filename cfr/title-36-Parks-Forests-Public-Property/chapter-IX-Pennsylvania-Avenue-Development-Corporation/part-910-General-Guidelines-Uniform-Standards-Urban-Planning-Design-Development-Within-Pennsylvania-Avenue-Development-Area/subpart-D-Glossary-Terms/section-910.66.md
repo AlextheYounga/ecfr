@@ -1,0 +1,3 @@
+##### § 910.66 Sidewalk setback. #####
+
+*Sidewalk setback* means that area between a *building restriction line* and the right-of-way of a street into which projections except architectural articulations, minor architectural embellishments, and subsurface structures, are prohibited. The area is to be dedicated to open space activities related to the public improvements program of the Pennsylvania Avenue Development Corporation. Subsurface structures may intrude into the area if they are in compliance with the *Square Guidelines.*

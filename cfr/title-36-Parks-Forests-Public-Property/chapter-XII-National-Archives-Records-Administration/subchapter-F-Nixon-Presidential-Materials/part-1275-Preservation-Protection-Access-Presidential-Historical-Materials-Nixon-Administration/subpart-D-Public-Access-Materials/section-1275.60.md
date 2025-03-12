@@ -1,0 +1,5 @@
+##### § 1275.60 Freedom of Information Act (FOIA) requests. #####
+
+(a) The Archivist will process Freedom of Information Act (FOIA) requests for access to only those materials within the Presidential historical materials that are identifiable by an archivist as records of an agency as defined in § 1275.16(f). The Archivist will process these requests in accordance with the FOIA regulations set forth in 36 CFR part 1250, NARA Records Subject to FOIA.
+
+(b) In order to allow NARA archivists to devote as much time and effort as possible to the processing of materials for general public access, the Archivist will not process those FOIA requests where the requester can reasonably obtain the same materials through a request directed to an agency (as defined in § 1275.16(f)), unless the requester demonstrates that he or she has unsuccessfully sought access from that agency or its successor in law or function.

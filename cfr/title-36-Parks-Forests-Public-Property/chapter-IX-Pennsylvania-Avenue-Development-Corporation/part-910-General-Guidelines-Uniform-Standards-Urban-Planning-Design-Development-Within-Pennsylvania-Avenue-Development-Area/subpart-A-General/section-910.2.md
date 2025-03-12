@@ -1,0 +1,5 @@
+##### § 910.2 Purpose. #####
+
+(a) Implementation of *the Plan* occurs through two component actions: public improvements construction and square development. Public improvements construction consists of implementation by the Corporation of the Public Improvements Program which is a comprehensive plan for the design and construction of public amenities in public spaces and selected thoroughfares within the Development Area. This program outlines the details of roadway and sidewalk improvements, public space configuration, and pedestrian amenities. Square development consists of design and construction of *development* projects primarily on city blocks, known as squares, within the Development Area. These *development* projects are generally pursued by private entrepreneurs with varying degrees of participation and involvement by the Corporation, through such means as land assemblage and leasing.
+
+(b) This part 910, together with the *Square Guidelines* applicable to the *coordinated planning area,* pertains solely to square development and specifies the controlling mechanism for implementation of *the Plan* required by Chapter Six of *the Plan.*

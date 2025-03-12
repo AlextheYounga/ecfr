@@ -1,0 +1,11 @@
+##### § 1254.96 What credits must I give NARA? #####
+
+(a) You must agree to credit NARA as having custody of the original documents. The credit must appear at the beginning of a microfilm publication and in any publicity material or descriptions of the publication.
+
+(b) If the original documents are Federal records, you must agree to include on the film this statement: “The documents reproduced in this publication are among the records of the (name of agency) in the custody of the National Archives of the United States. (Name of microfilm publication producer) does not claim any copyright interest in these official U.S. Government records.”
+
+(c) If the original documents are donated historical materials, you must agree to include on the film this statement: “The documents reproduced in this publication are donated historical materials from (name of donor) in the custody of the (name of Presidential library or National Archives of the United States). The National Archives and Records Administration administers them in accordance with the requirements of the donor's deed of gift and the U.S. Copyright Law, Title 17, U.S.C. (Name of microfilm publication producer) does not claim any copyright interest in these donated historical materials.”
+
+(d) If the original documents are Presidential or Vice-Presidential records as specified in 44 U.S.C. 2201, you must agree to include on the film this statement: “The documents reproduced in this publication are Presidential records in the custody of the (name of Presidential library or National Archives of the United States). The National Archives and Records Administration administers them in accordance with the requirements of Title 44, U.S.C. (Name of microfilm publication producer) does not claim any copyright interest in these official Presidential records.”
+
+(e) If the original documents are records of Congress, you must agree to include on the film this statement: “The documents reproduced in this publication are among the records of the (House of Representatives/Senate) in the physical custody of the National Archives and Records Administration (NARA). NARA administers them in accordance with the requirements of the (House/Senate). (Name of microfilm publication producer) does not claim any copyright interest in these official congressional records.”

@@ -1,0 +1,3 @@
+##### § 222.73 Management coordination. #####
+
+All management activities by the Chief, Forest Service, shall be carried out in consultation with the appropriate agencies of the State involved. The expert advice of qualified scientists in the fields of biology and ecology shall also be sought in administering wild free-roaming horses and burros. The advice and suggestions of agencies, qualified scientists, and other qualified interest groups shall be made available to the National Advisory Board for their use and consideration. Actions taken in connection with private ownership claims shall be coordinated to the fullest extent possible with the State agency responsible for livestock estray law administration.

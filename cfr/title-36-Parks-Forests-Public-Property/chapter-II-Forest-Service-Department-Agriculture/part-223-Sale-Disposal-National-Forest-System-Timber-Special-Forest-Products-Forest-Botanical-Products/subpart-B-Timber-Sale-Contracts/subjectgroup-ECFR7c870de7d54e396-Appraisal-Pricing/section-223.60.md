@@ -1,0 +1,5 @@
+##### § 223.60 Determining fair market value. #####
+
+The objective of Forest Service timber appraisals is to determine fair market value. Fair market value is estimated by such methods as are authorized by the Chief, Forest Service, through issuance of agency directives (36 CFR 200.4). Valid methods to determine fair market value include, but are not limited to, transaction evidence appraisals, analytical appraisals, comparison appraisals, and independent estimates based on average investments. Pertinent factors affecting market value also considered include, but are not limited to, prices paid and valuations established for comparable timber, selling value of products produced, estimated operating costs, operating difficulties, and quality of timber. Considerations and valuations may recognize and adjust for factors which are not normal market influences.
+
+[61 FR 5685, Feb. 14, 1996]

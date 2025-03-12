@@ -1,0 +1,19 @@
+##### § 251.11 Governing mining locations under the mining laws of the United States within that portion of the Black Hills National Forest, State of South Dakota, designated as the Norbeck Wildlife Preserve. #####
+
+(a) Whoever locates a mining claim within the Norbeck Wildlife Preserve must, within 10 days after posting the location notice upon such claim, file a true copy of such location notice with the Forest Supervisor of the Black Hills National Forest at Custer, South Dakota, and further, within 10 days after said location notice is filed for record pursuant to the State laws of South Dakota, a true copy of the recorded location certificate must be filed with said Forest Supervisor.
+
+(b) All mining locators shall in all developments and operations make all reasonable provisions for the disposal of tailings, dumpage, and other deleterious materials or substances in such manner as to prevent obstruction, pollution, or deterioration of the land, streams, ponds, lakes, or springs, as may be directed by the Forest Supervisor.
+
+(c) All slash resulting from cutting or destruction of forest growth incident and necessary to mining operations must be disposed of as directed by the Forest Supervisor.
+
+(d) The cutting and removal of timber, except where clearing is necessary in connection with mining operations or to provide space for buildings or structures used in connection with mining operations, shall be conducted in accordance with the marking rules and timber sale practices applicable to the Black Hills National Forest, and such cutting and removal of timber shall be as directed by the Forest Supervisor.
+
+(e) No use of the surface of a mining claim or the resources therefrom not reasonably required for carrying on mining and prospecting shall be allowed, except under the National Forest rules and regulations, nor shall the locator prevent or obstruct other occupancy of the surface or use of surface resources under authority of National Forest Regulations, or permits issued thereunder, if such occupancy or use is not in conflict with mineral developments.
+
+(f) When any road is to be built for mining purposes upon a mining claim, the locator must apply to the Forest Supervisor for the applicable rules and regulations governing the construction and maintenance of roads within the Black Hills National Forest, and such road will be built in accordance with such specifications and in such locations as the Forest Supervisor may direct.
+
+(g) In conducting mining operations the locator, his agents, representatives, or employees, or other persons whose presence in the area or in the vicinity thereof, is occasioned by such mining operations, shall use due diligence in the prevention and suppression of fires, and shall, when requested by the Forest Supervisor, or his authorized representative, be available for service in the extinguishment and suppression of all fires occurring within the Preserve: *Provided,* That if such fire does not originate through any negligence on the part of the locator, his agents, representatives, or employees, or other persons whose presence in the area or in the vicinity thereof, is occasioned by such mining operations and does not threaten the structures, improvements or property incident to the mining operation, such persons shall be paid for their services at the current rate of pay of fire fighters employed by the United States.
+
+(h) Nothing contained in this section shall be construed to relieve the locator from complying with any requirements of the laws of the State of South Dakota, nor from compliance with or conformity to any requirements of any Federal law or regulation now existing or which later may be enacted or promulgated, and applicable to the subject involved in this section.
+
+[13 FR 4792, Aug. 19, 1948, as amended at 48 FR 31854, July 12, 1983]

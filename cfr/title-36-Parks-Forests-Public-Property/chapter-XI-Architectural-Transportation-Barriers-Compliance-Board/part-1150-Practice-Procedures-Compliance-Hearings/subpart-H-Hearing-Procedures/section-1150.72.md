@@ -1,0 +1,3 @@
+##### § 1150.72 Purpose of hearing. #####
+
+Hearings for the receipt of evidence will be held only in cases where issues of fact must be resolved. Where it appears from the citation, the answer, stipulations, or other documents in the record, that there are no matters of material fact in dispute, the judge may enter an order so finding, vacating the hearing date, if one has been set, and fixing the time for filing briefs.

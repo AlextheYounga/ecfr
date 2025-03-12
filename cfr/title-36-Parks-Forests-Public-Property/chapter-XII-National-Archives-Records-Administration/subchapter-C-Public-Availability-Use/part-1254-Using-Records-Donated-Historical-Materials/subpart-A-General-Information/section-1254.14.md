@@ -1,0 +1,3 @@
+##### § 1254.14 Are some procedures in regional archives and Presidential libraries different from those in the Washington, DC, area? #####
+
+Yes, the variety of facilities, locations of research rooms, room sizes, and other factors contribute to differences in some, but not all, practices from the Washington, DC, area. When the appropriate regional director of archival operations or Presidential library director indicates, you must follow the procedures in regional archives and Presidential library archival research rooms where researchers use original documents. These procedures are in addition to the procedures we specify elsewhere in this part. The procedures are either posted in the facility or the staff gives copies of them to researchers.

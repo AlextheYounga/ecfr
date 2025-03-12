@@ -1,0 +1,3 @@
+##### § 702.8 Use and carrying of food and beverages in Library buildings. #####
+
+Consumption of food and beverages in Library buildings is prohibited except at point of purchase or other authorized eating places. Under no circumstances may food or beverages be carried to the bookstacks or other areas where there exists significant risk to Library materials or property or where there may result a detraction from the dignity or efficiency of public service.

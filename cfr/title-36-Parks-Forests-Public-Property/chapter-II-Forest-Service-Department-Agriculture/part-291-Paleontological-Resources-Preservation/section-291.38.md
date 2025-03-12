@@ -1,0 +1,3 @@
+##### § 291.38 Fair market or commercial value. #####
+
+The fair market value of any paleontological resource involved in a violation of the prohibitions contained in this part or conditions of a permit issued pursuant to this part shall be the commercial value of the resources, determined using the condition of the paleontological resource prior to the violation, to the extent that its prior condition can be ascertained. The term “fair market value” can be used interchangeably with the term “commercial value.” Fair market value of paleontological resources can be established through the use of comparable sales or pricing information, advertisements for comparable resources, appraisals, and/or other information on legal or illegal markets.

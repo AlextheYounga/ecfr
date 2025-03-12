@@ -1,0 +1,5 @@
+##### § 504.16 Penalties. #####
+
+Section 6 of the Smithsonian Institution Special Policing Statute, Act of October 24, 1951, 65 Stat. 635, 40 U.S.C. 193(s) states that:
+
+Whoever violates any provision of sections 193o-193q of this Title, or any regulation prescribed under section 193r of this Title, shall be fined not more than $100 or imprisoned not more than sixty days, or both, prosecution for such offenses to be had in the District of Columbia Court of General Sessions, upon information by the U.S. attorney or any of his assistants: *Provided,* That in any case where, in the commission of such offense, property is damaged in an amount exceeding $100, the amount of the fine for the offense may be not more than $5,000, the period of imprisonment for the offense may be not more than 5 years and prosecution shall be had in the U.S. District Court for the District of Columbia by indictment, or if the defendant, after he has been advised of the nature of the charge and of his rights, waives in open court prosecution by indictment, by information by the U.S. attorney or any of his assistants.

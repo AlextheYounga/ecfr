@@ -1,0 +1,3 @@
+##### § 705.1 Scope and purpose of this part. #####
+
+The purpose of this part is to implement certain provisions of the American Television and Radio Archives Act, 2 U.S.C. 170. Specifically, this part prescribes rules pertaining to the reproduction, compilation, and distribution by the Library of Congress, under section 170(b) of title 2 of the United States Code, of television and radio transmission programs consisting of regularly scheduled newscasts or on-the-spot coverage of news events.

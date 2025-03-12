@@ -1,0 +1,3 @@
+##### § 910.31 High architectural quality. #####
+
+*Development* must maintain a uniformly high standard of architecture, representative of the best contemporary design and planning concepts. Great care and sensitivity must be shown in the architectural treatment of new buildings, particularly in terms of massing, facade design (including materials, composition, and detailing), the ground floor and sidewalk pedestrian environment, interior public spaces, and provisions for pedestrian and vehicular *access.* Special design considerations for each *coordinated planning area* are set forth in *Square Guidelines.*

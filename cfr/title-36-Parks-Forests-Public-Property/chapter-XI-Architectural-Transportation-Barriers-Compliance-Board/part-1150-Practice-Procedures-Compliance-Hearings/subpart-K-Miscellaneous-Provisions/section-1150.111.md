@@ -1,0 +1,7 @@
+##### § 1150.111 Ex parte communications. #####
+
+(a) No party, participant or other person having an interest in the case shall make or cause to be made an ex parte communication to the judge with respect to the case.
+
+(b) A request for information directed to the judge which merely inquiries about the status of a proceeding without discussing issues or expressing points of view is not deemed an ex parte communication. Communications with respect to minor procedural matters or inquires or emergency requests for extensions of time are not deemed ex parte communications prohibited by paragraph (a) of this section. Where feasible, however, such communications should be by letter, with copies delivered to all parties. Ex parte communications between a party or participant and the Executive Director with respect to securing compliance are not prohibited.
+
+(c) In the event an ex parte communication occurs, the judge shall issue orders and take action as fairness requires. A prohibited communication in writing received by the judge shall be made public by placing it in the correspondence file of the docket in the case and will not be considered as part of the record for decision. If the prohibited communication is received orally, a memorandum setting forth its substance shall be made and filed in the correspondence section of the docket in the case. A person referred to in this memorandum may file a comment for inclusion in the docket if he/she considers the memorandum to be incorrect.

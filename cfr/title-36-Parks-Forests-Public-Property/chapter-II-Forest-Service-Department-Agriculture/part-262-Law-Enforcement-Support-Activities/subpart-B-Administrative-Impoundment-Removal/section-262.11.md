@@ -1,0 +1,5 @@
+##### § 262.11 Impoundment of dogs. #####
+
+Any dog found running at large in a part of the National Forest System, which has been closed to dogs running at large, may be captured and impounded by Forest officers. Forest officers will notify the owner of the dog, if known, of such impounding, and the owner will be given five days to redeem the dog. A dog may be redeemed by the owner submitting adequate evidence of ownership and paying all expenses incurred by the Forest Service in capturing and impounding it. If the owner fails to redeem the dog within five days after notice, or if the owner cannot be ascertained within 10 days from the date of impounding, the dog may be destroyed or otherwise disposed of at the discretion of the Forest officer having possession of it.
+
+[42 FR 2961, Jan. 14, 1977. Redesignated at 48 FR 26605, June 9, 1983]

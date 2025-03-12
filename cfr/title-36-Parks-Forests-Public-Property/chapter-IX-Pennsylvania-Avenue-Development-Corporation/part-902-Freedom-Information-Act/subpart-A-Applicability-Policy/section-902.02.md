@@ -1,0 +1,3 @@
+##### § 902.02 Statement of policy. #####
+
+In keeping with the spirit of the Freedom of Information Act, 5 U.S.C. 552, the policy of the Corporation is one of full and responsible disclosure of its records to the public. Therefore, all records of the Corporation, unless otherwise exempted under subpart F of this part, are declared to be available for public inspection and copying. Each officer and employee of the Corporation is directed to cooperate to this end and shall make records available to the public with reasonable promptness. A record may not be withheld from the public solely because its release might suggest administrative error or embarrass an officer or employee of the Corporation.

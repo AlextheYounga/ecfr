@@ -1,0 +1,3 @@
+##### § 1254.30 Does NARA provide any supplies? #####
+
+Yes, in most facilities NARA furnishes you, without charge, pencils and specially marked lined and unlined notepaper and notecards, for use in the research rooms. NARA also provides diskettes and paper for our public access computers. Return unused pencils and notepaper, notecards, diskettes, and printer paper to the research room attendant at the end of the day.

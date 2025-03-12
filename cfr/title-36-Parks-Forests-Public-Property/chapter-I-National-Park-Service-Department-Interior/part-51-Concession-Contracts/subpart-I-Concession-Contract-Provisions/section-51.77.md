@@ -1,0 +1,3 @@
+##### § 51.77 Will a concession contract provide a concessioner an exclusive right to provide visitor services? #####
+
+Concession contracts will not provide in any manner an exclusive right to provide all or certain types of visitor services in a park area. The Director may limit the number of concession contracts to be awarded for the conduct of visitor services in a particular park area in furtherance of the purposes described in this part.

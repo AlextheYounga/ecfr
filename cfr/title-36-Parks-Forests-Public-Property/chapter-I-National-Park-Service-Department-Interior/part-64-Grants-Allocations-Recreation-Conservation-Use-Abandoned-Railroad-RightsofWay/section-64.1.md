@@ -1,0 +1,3 @@
+##### § 64.1 Purpose. #####
+
+The purpose of these guidelines is to prescribe policies and procedures for administering the funding of projects involving the conversion of abandoned railroad rights-of-way to recreation and conservation uses. Because of the limited funding available, it is the Bureau of Outdoor Recreation's intent to select a few projects which effectively demonstrate the conversion of abandoned railroad rights-of-way for recreation and conservation purposes in a timely manner.

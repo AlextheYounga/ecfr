@@ -1,0 +1,3 @@
+##### § 1280.84 May I ask to use the Rotunda? #####
+
+The Rotunda is primarily used for the public exhibition of the Charters of Freedom and other documents from NARA's holdings. NARA also uses the Rotunda for activities that further its Strategic Plan. Therefore, the use of the Rotunda for private events is not permitted. NARA may, upon application, permit other Federal agencies, quasi-Federal agencies, and State, local, and tribal governments to use the Rotunda for official functions, with NARA as a co-sponsor. Governmental groups that use the Rotunda for official functions must reimburse NARA for the cost of additional cleaning, security, and other staff services.

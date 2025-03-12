@@ -1,0 +1,3 @@
+##### § 51.99 What access to concessioner records will the Comptroller General have? #####
+
+The Comptroller General or any duly authorized representative of the Comptroller General must, until the expiration of five calendar years after the close of the business year of each concessioner (or subconcessioner), have access to and the right to examine all pertinent books, papers, documents and records of the concessioner, subconcessioner and any parent or affiliate of the concessioner (but with respect to parents and affiliates only to the extent necessary to confirm the validity and performance of any representations or commitments made to the Director by the parent or affiliate of the concessioner).

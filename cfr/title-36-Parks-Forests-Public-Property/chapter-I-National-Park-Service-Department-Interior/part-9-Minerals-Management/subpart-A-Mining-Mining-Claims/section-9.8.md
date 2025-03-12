@@ -1,0 +1,5 @@
+##### § 9.8 Use of water. #####
+
+(a) No operator may use for operations any water from a point of diversion which is within the boundaries of any unit unless authorized in writing by the Regional Director. The Regional Director shall not approve a plan of operations requiring the use of water from such source unless the right to the water has been perfected under applicable State law, has a priority date prior to the establishment of the unit and there has been a continued beneficial use of that water right.
+
+(b) If an operator whose operations will require the use of water from a point of diversion within the boundaries of the unit can show that he has a perfected State water right junior to the reserved water right of the United States and can demonstrate that the exercise of that State water right will not diminish the Federal right, which is that amount of water necessary for the purposes for which the unit was established, he will be authorized to use water from that source for operations, if he has complied with all other provisions of these regulations.

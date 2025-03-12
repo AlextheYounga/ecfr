@@ -1,0 +1,3 @@
+##### § 1284.30 Does NARA lend documents to other institutions for exhibit purposes? #####
+
+Yes, NARA considers lending documents that are in appropriate condition for exhibition and travel. Prospective exhibitors must comply with NARA's requirements for security, fire protection, environmental controls, packing and shipping, exhibit methods, and insurance. For additional information, contact Registrar, Museum Programs (NWE), National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001.

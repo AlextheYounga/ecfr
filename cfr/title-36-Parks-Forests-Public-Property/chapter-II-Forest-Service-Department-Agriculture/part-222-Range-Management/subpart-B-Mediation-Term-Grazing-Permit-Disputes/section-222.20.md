@@ -1,0 +1,3 @@
+##### § 222.20 Decisions subject to mediation. #####
+
+The holder of a term grazing permit issued in a State with a mediation program certified by the U.S. Department of Agriculture may request mediation of a dispute relating to a decision to suspend or cancel the permit as authorized by 36 CFR 222.4(a)(2)(i), (ii), (iv), and (v) and (a)(3) through (6). Any request for mediation must be included in an appeal of the decision to suspend or cancel the permit filed in accordance with 36 CFR part 214.

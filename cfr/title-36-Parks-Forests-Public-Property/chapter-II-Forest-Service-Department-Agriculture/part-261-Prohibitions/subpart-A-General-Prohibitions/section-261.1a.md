@@ -1,0 +1,5 @@
+##### § 261.1a Special use authorizations, contracts and operating plans. #####
+
+The Chief, each Regional Forester, each Forest Supervisor, and each District Ranger or equivalent officer may issue special-use authorizations, award contracts, or approve operating plans authorizing the occupancy or use of a road, trail, area, river, lake, or other part of the National Forest System in accordance with authority which is delegated elsewhere in this chapter or in the Forest Service Manual. These Forest Officers may permit in the authorizing document or approved plan an act or omission that would otherwise be a violation of a subpart A or subpart C regulation or a subpart B order. In authorizing such uses, the Forest Officer may place such conditions on the authorization as that officer considers necessary for the protection or administration of the National Forest System, or for the promotion of public health, safety, or welfare.
+
+[49 FR 25450, June 21, 1984]

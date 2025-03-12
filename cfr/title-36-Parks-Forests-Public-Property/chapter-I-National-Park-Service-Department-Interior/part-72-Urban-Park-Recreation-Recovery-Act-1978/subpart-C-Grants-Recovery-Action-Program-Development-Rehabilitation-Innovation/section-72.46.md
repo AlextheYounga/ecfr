@@ -1,0 +1,5 @@
+##### § 72.46 Citizen participation requirements. #####
+
+(a) *Recovery Action Program Grants.* Citizen participation is required for developing and implementing a Recovery Action Program (§ 72, Subpart B), but is not required in the process of preparing a local Recovery Action Program grant application.
+
+(b) *Rehabilitation and Innovation grant.* The applicant shall provide citizens with an adequate opportunity to participate in the development of a Rehabilitation and/or Innovation proposal and in implementation, monitoring and evaluation of the activities supported through the grants. The applicant shall also encourage the submission of views and proposals, particularly by residents of blighted neighborhoods and citizens with low and moderate incomes. The applicant is encouraged to utilize a variety of approaches to ensure public involvement. Nothing in these requirements, however, shall be construed to restrict the legal responsibility and authority of the applicant for the execution of its Recovery Action Program, and the development of its UPARR applications.

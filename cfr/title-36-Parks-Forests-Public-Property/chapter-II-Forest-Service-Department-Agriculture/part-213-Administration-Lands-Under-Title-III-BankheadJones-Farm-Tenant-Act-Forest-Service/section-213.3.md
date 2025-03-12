@@ -1,0 +1,7 @@
+##### § 213.3 Protection, occupancy, use, administration, and exercise of reservations. #####
+
+(a) The rules and regulations applicable to the national forests as set forth in title 36, Code of Federal Regulations, or as hereafter amended, supplemented, or promulgated, are hereby adopted as the rules and regulations to govern the exercise of reservations in conveyances to the United States and to prevent trespasses on and otherwise regulate the protection, use, occupancy, and administration of the National Grasslands and all other lands administered by the Forest Service under the provisions of title III of the Bankhead-Jones Farm Tenant Act insofar as is practical and consistent with said act: *Provided,* That Forest Service officers may continue under delegated authority to acquire lands, to make exchanges, to grant easements and enter into leases, permits, agreements, contracts and memoranda of understanding involving such lands under such terms and conditions and for such consideration, fees or rentals as authorized by title III of the said Act.
+
+(b) Existing valid rights, reservations easements, leases, permits, agreements, contracts and memoranda of understanding affecting these lands shall continue in full force and effect so long as they remain valid in accordance with the terms thereof.
+
+[27 FR 9217, Sept. 18, 1962]

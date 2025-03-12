@@ -1,0 +1,3 @@
+##### § 1223.16 How are vital records identified? #####
+
+Agencies identify vital records in the context of the emergency management function. Vital records are those that are needed to perform the most critical functions of the agency and those needed to protect legal and financial rights of the Government and of the persons affected by its actions. Vital records also include emergency plans and related records that specify how an agency will respond to an emergency. The informational content of records series and electronic records systems determines which are vital records. Only the most recent and complete sources of the information are vital records.

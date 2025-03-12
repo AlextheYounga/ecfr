@@ -1,0 +1,5 @@
+##### § 251.10 Prohibition of location of mining claims within certain areas in the Norbeck Wildlife Preserve, South Dakota. #####
+
+The location of mining claims in such areas within 660 feet of any Federal, State or county road and within such other areas where the location of mining claims would not be in the public interest, as may be designated by the Chief, Forest Service, or the Regional Forester, of Forest Service Region 2, is hereby prohibited. The Director, Bureau of Land Management, Department of the Interior, shall be advised of the areas so designated and notices of the boundaries of such areas posted at conspicuous places in the Preserve, as well as at the county courthouses in Pennington in the cities of Custer and Rapid City, and Custer Counties and the post offices State of South Dakota.
+
+[13 FR 3676, July 1, 1948, as amended at 48 FR 31854, July 12, 1983]

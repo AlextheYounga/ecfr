@@ -1,0 +1,3 @@
+##### § 703.19 Requests for authenticated copies of Library documents. #####
+
+Requests for authenticated copies of Library documents for purposes of admissibility under 28 U.S.C. 1733 and Rule 44 of the Federal Rules of Civil Procedure will be granted for documents that would otherwise be released pursuant to the Library's Regulations governing the release of information. The advice of the appropriate deciding official should be obtained concerning the proper form of authentication and information as to the proper person having custody of the record.

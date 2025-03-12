@@ -1,0 +1,3 @@
+##### § 1239.26 What are an agency's follow up obligations for an inspection report? #####
+
+The agency must submit a plan of corrective action that specifies how the agency will address each inspection report recommendation, including a timeline for completion, and proposed progress reporting dates. The agency must submit the plan of corrective action to NARA within 60 days of transmission of the final report. NARA may take up to 60 days to review and comment on the plan. Once the plan is agreed upon by both sides, agencies must submit progress reports to NARA until all actions are completed.

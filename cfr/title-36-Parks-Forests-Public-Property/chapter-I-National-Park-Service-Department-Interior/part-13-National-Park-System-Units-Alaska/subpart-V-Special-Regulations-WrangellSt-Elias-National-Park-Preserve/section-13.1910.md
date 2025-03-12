@@ -1,0 +1,3 @@
+##### § 13.1910 KNHL and developed area closures and restrictions. #####
+
+The Superintendent may prohibit or otherwise restrict activities in the KNHL, Headquarters/Visitor Center Developed Area, and Slana Developed Area to protect public health and safety or park resources. Information on closures and restrictions will be available at the park visitor center. Violating these closures or restrictions is prohibited. Notwithstanding the provisions of this subpart, the Superintendent may issue a Special Use Permit to authorize uses in the KNHL and either developed area.

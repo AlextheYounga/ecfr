@@ -1,0 +1,3 @@
+##### § 9.190 Can I, as operator, request reconsideration of NPS decisions? #####
+
+Yes. If you disagree with a decision of the Regional Director under this subpart, you may file with the Regional Director a written statement describing the alleged factual or legal errors in the original decision and requesting that the Regional Director reconsider the decision. You must file your request for reconsideration within 60 calendar days after your receipt of the Regional Director's decision. The NPS will dismiss as untimely any request for reconsideration received more than 60 days after your receipt of the original decision.

@@ -1,0 +1,3 @@
+##### § 228.44 Disposal on existing Federal leased areas. #####
+
+Mineral material contracts or permits may be issued within existing areas leased or under permit under the 1920 Mineral Leasing Act, as amended (30 U.S.C. 181-187); section 402 of Reorganization Plan No. 3 of 1946 (5 U.S.C. Appendix); the 1947 Mineral Leasing Act for Acquired Lands, as amended (30 U.S.C. 351 *et seq.*); and the 1970 Geothermal Steam Act (30 U.S.C. 1001-1025), provided that it has been determined that removal will neither endanger nor unreasonably interfere with lease operations, and provided further that the lease terms do not prohibit disposal.

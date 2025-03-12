@@ -1,0 +1,3 @@
+##### § 228.1 Purpose. #####
+
+It is the purpose of these regulations to set forth rules and procedures through which use of the surface of National Forest System lands in connection with operations authorized by the United States mining laws (30 U.S.C. 21-54), which confer a statutory right to enter upon the public lands to search for minerals, shall be conducted so as to minimize adverse environmental impacts on National Forest System surface resources. It is not the purpose of these regulations to provide for the management of mineral resources; the responsibility for managing such resources is in the Secretary of the Interior.

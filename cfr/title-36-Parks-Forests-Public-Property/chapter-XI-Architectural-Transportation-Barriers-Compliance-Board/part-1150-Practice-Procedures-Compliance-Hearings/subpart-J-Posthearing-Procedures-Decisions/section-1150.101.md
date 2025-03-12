@@ -1,0 +1,3 @@
+##### § 1150.101 Posthearing briefs; proposed findings. #####
+
+The judge shall fix the terms, including time, for filing post-hearing statements of position or briefs, which may contain proposed findings of fact and conclusions of law. The judge may fix a reasonable time for such filing, but this period shall not exceed thirty (30) days from the receipt by the parties of the transcript of the hearing.

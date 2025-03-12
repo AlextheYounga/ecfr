@@ -1,0 +1,3 @@
+##### § 1275.42 Processing. #####
+
+The archivists will conduct archival processing of all closed materials to prepare them for public access. In processing the materials, the archivists will give priority to segregating private or personal materials and transferring them to their proprietary or commemorative owners in accordance with § 1275.46. In conducting such archival processing, the archivists will restrict portions of the materials pursuant to §§ 1275.48 and 1275.50. All materials will be prepared for public access and released subject to restrictions or outstanding claims or petitions seeking such restrictions.

@@ -1,0 +1,3 @@
+##### § 1280.64 What entrance should I use to enter the National Archives at College Park? #####
+
+You may enter the National Archives at College Park facility only through the main entrance on Adelphi Road. This entrance will be open to visitors during normal business hours described in 36 CFR 1253.2. Commercial deliveries must be made at the loading dock which is accessible only from Metzerott Road.

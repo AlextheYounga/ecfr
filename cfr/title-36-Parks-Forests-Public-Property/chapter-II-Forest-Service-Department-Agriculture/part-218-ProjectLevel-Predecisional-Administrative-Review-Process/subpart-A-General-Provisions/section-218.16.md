@@ -1,0 +1,13 @@
+##### § 218.16 Effective dates. #####
+
+(a) *Effective dates for HFRA-authorized projects.* (1) Provisions of this part that are applicable to hazardous fuel reduction projects authorized under the HFRA are in effect as of March 27, 2013 for projects where scoping begins on or after this date.
+
+(2) Hazardous fuel reduction project proposals under the HFRA for which public scoping began prior to March 27, 2013 may use the predecisional objection procedures posted at *http://www.fs.fed.us/objections.*
+
+(3) Hazardous fuel reduction project proposals that are re-scoped with the public or re-issued for notice and comment after March 27, 2013 are subject to this part.
+
+(b) *Effective dates for non-HFRA-authorized projects.* (1) Project proposals with public scoping completed, but that have not had legal notice published. The applicable provisions of this part are in effect as of March 27, 2013 where public scoping was previously initiated for project proposals, but legal notice of the opportunity to comment has not yet been published; unless scoping or other public notification of the project (e.g. Schedule of Proposed Actions) has clearly indicated the project to be under the former 36 CFR part 215 appeal process.
+
+(2) Project proposals which have legal notice published, but a Decision Notice or Record of Decision has not been signed. If a Decision Notice or Record of Decision is signed within 6 months of March 27, 2013, it will be subject to the 36 CFR part 215 appeal process. If the Decision Notice or Record of Decision is to be signed more than 6 months beyond March 27, 2013, the project proposal will be subject to the requirements of this part. In this case, the responsible official will notify all interested and affected parties who participated during scoping or provided specific written comment regarding the proposed project or activity during the comment period initiated with a legal notice that the project proposal will be subject to the predecisional objection regulations at 36 CFR part 218. All interested and affected parties who provided written comment as defined in § 218.2 during scoping or the comment period will be eligible to participate in the objection process.
+
+(3) Project proposals are subject to the requirements of this part when initial public scoping, re-scoping with the public, or re-issuance of notice and comment begins on or after March 27, 2013.

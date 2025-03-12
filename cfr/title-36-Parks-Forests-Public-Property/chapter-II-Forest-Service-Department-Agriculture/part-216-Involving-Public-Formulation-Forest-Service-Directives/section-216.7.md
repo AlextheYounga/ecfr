@@ -1,0 +1,3 @@
+##### § 216.7 Exemption of proposed Manual directives from normal procedures. #####
+
+When it is found for good cause that an exigency exists, an interim Manual directive that is determined to be of substantial public interest or expected controversy may be issued in advance of providing opportunity for public comment. However, as soon as practicable after issuance, the interim Manual directive will be made available for public review and comment as described in § 216.6. In making the Manual directive available, the responsible official shall state why the interim directive was issued prior to obtaining public comments.

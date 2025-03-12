@@ -1,0 +1,3 @@
+##### § 212.56 Identification of designated roads, trails, and areas. #####
+
+Designated roads, trails, and areas shall be identified on a motor vehicle use map. Motor vehicle use maps shall be made available to the public at the headquarters of corresponding administrative units and Ranger Districts of the National Forest System and, as soon as practicable, on the website of corresponding administrative units and Ranger Districts. The motor vehicle use maps shall specify the classes of vehicles and, if appropriate, the times of year for which use is designated.

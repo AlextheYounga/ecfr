@@ -1,0 +1,3 @@
+##### § 1202.42 How are requests for access to medical records handled? #####
+
+When NARA receives a request for access to medical records, if NARA believes that disclosure of medical and/or psychological information directly to you could have an adverse effect on you, you may be asked to designate in writing a physician or mental health professional to whom you would like the records to be disclosed, and disclosure that otherwise would be made to you will instead be made to the designated physician or mental health professional.

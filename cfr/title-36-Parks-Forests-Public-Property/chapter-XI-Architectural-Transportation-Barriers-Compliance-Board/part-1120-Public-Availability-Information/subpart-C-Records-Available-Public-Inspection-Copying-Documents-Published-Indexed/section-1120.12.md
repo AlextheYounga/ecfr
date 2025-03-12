@@ -1,0 +1,3 @@
+##### § 1120.12 Indexes to certain records. #####
+
+Current indexes are normally available to the public in published form as provided in § 1120.11. These indexes, whether or not published, are made available for inspection and copying on request. If published copies of a particular index are at any time not available or if publication of the index has been determined to be unnecessary and impracticable by order published in the Federal Register, copies of the index will be furnished on request. (See § 1120.6(b), *Published indexes.*)

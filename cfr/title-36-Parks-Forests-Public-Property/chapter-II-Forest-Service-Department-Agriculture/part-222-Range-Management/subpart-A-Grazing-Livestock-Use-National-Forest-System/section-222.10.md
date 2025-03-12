@@ -1,0 +1,9 @@
+##### § 222.10 Range betterment fund. #####
+
+In addition to range development which is accomplished through funds from the rangeland management budget line item and the Granger-Thye Act, and deposited and nondeposited cooperative funds, range development may also be accomplished through use of the range betterment fund as follows:
+
+(a) On National Forest land within the 16 contiguous western States, the Chief, Forest Service, shall implement range improvement programs where necessary to arrest range deterioration and improve forage conditions with resulting benefits to wildlife, watershed protection, and livestock production. One-half of the available funds will be expended on the National Forest where derived. The remaining one-half of the fund will be allocated for range rehabilitation, protection and improvements on National Forest lands within the Forest Service Regions where they were derived. During the planning process there will be consultation with grazing permittees who will be affected by the range rehabilitation, protection and improvements, and other interested persons or organizations.
+
+(b) Range betterment funds shall be utilized only for on-the-ground expenditure for range land betterment, including, but not limited to, seeding and reseeding, fence construction, water development, weed and other plant control, and fish and wildlife habitat enhancement within allotments.
+
+(Sec. 1, 30 Stat. 35, as amended (16 U.S.C. 551); sec. 1, 33 Stat. 628 (16 U.S.C. 472); sec. 32, 50 Stat. 525, as amended (7 U.S.C. 1011); sec. 19, 64 Stat. 88 (16 U.S.C. 5801); Title IV, Pub. L. 94, 90 Stat. 2771 (43 U.S.C. 1751, *et seq.*); 92 Stat. 1803 (43 U.S.C. 1901))[42 FR 56732, Oct. 28, 1977, as amended at 44 FR 61345, Oct. 25, 1979]

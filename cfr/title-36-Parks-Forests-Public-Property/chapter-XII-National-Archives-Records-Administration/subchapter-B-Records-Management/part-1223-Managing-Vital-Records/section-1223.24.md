@@ -1,0 +1,3 @@
+##### § 1223.24 When can vital records be destroyed? #####
+
+The disposition of vital records that are original records is governed by records schedules approved by NARA (see part 1225, Scheduling Records, of this subchapter). Agencies must not destroy original records that are not scheduled. Duplicate copies created and maintained for vital records purposes only may be destroyed when superseded or obsolete during the routine vital records cycle process.

@@ -1,0 +1,7 @@
+##### § 13.320 Preference to Cook Inlet Region, Incorporated. #####
+
+(a) The Cook Inlet Region, Incorporated (CIRI), in cooperation with village corporations within the Cook Inlet region when appropriate, will have a right of first refusal to provide new visitor services within that portion of Lake Clark National Park and Preserve that is within the boundaries of the Cook Inlet region. In order to exercise this right of first refusal, the National Park Service will publicly solicit competitive offers for the visitor services authorization pursuant to 36 CFR part 51 or other applicable National Park Service procedures. CIRI must submit a responsive offer within 90 days of such solicitation. If CIRI makes such an offer and is determined by the Director to be capable of carrying out the terms and conditions of the visitor services authorization, it will receive the authorization. If it does not, the authorization may be awarded to another person pursuant to usual National Park Service policies and procedures if otherwise appropriate.
+
+(b) The CIRI right of first refusal will have precedence over the rights of preferred operators. An offer from CIRI under this section, if the offer is in the form of a joint venture, will not be considered valid unless it demonstrates to the satisfaction of the Director that CIRI has a controlling interest in the joint venture.
+
+(c) The CIRI right of first refusal may not be sold, transferred, devised or assigned, directly or indirectly.

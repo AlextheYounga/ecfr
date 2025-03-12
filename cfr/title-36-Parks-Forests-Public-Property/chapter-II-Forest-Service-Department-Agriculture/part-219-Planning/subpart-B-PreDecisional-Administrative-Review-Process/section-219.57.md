@@ -1,0 +1,9 @@
+##### § 219.57 Resolution of objections. #####
+
+(a) *Meetings.* Prior to the issuance of the reviewing officer's written response, either the reviewing officer or the objector may request to meet to discuss issues raised in the objection and potential resolution. The reviewing officer must allow other interested persons to participate in such meetings. An interested person must file a request to participate in an objection within 10 days after publication of the notice of objection by the responsible official (§ 219.56(f)). The responsible official shall be a participant in all meetings involving the reviewing officer, objectors, and interested persons. During meetings with objectors and interested persons, the reviewing officer may choose to use alternative dispute resolution methods to resolve objections. All meetings are open to observation by the public.
+
+(b) *Response to objections.* (1) The reviewing officer must render a written response to the objection(s) within 90 days of the close of the objection-filing period, unless the allowable time is extended as provided at § 219.56(g). A written response must set forth the reasons for the response but need not be a point-by-point response, and may contain instructions to the responsible official. In cases involving more than one objection to a plan, plan amendment, or plan revision, the reviewing officer may consolidate objections and issue one or more responses. The response must be sent to the objecting party(ies) by certified mail, return receipt requested, and posted online.
+
+(2) The reviewing officer's review of and response to the objection(s) is limited to only those issues and concerns submitted in the objection(s).
+
+(3) The response of the reviewing officer will be the final decision of the U.S. Department of Agriculture on the objection.

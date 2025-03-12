@@ -1,0 +1,3 @@
+##### § 222.76 Arrest. #####
+
+Any employee designated by the Chief, Forest Service, shall have the power to arrest without warrant, any person committing in the presence of the employee a violation of the Act and to take such person immediately for examination or trial before an officer or court of competent jurisdiction. Any employee so designated shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of the Act.

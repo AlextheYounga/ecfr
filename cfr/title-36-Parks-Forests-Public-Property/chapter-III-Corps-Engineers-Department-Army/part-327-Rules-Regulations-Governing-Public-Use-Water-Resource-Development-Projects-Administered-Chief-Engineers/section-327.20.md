@@ -1,0 +1,5 @@
+##### § 327.20 Unauthorized structures. #####
+
+The construction, placement, or existence of any structure (including, but not limited to, roads, trails, signs, non-portable hunting stands or blinds, buoys, docks, or landscape features) of any kind under, upon, in or over the project lands, or waters is prohibited unless a permit, lease, license or other appropriate written authorization has been issued by the District Commander. The design, construction, placement, existence or use of structures in violation of the terms of the permit, lease, license, or other written authorization is prohibited. The government shall not be liable for the loss of, or damage to, any private structures, whether authorized or not, placed on project lands or waters. Unauthorized structures are subject to summary removal or impoundment by the District Commander. Portable hunting stands, climbing devices, steps, or blinds, that are not nailed or screwed into trees and are removed at the end of a day's hunt may be used.
+
+[65 FR 6902, Feb. 11, 2000]

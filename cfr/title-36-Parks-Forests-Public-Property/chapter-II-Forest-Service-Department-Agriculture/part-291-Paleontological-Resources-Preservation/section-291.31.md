@@ -1,0 +1,15 @@
+##### § 291.31 Civil penalties hearing procedures. #####
+
+(a) *Requests for hearings.* Any person wishing to request a hearing on a notice of assessment of civil penalty may file a written dated request for a hearing with the hearing office specified in the notice. The person shall enclose a copy of the notice of violation and the notice of assessment. The request shall state the relief sought, the basis for challenging the facts used for assessing the penalty, and the person's preference as to the place and date for a hearing. A copy of the request shall be served upon the USDA Office of the General Counsel by certified mail, at the addresses specified in the notice of assessment. Hearings shall be conducted in accordance with 5 U.S.C. 554.
+
+(b) *Commencement of hearing procedures.* Upon receipt of a request for a hearing, the hearing office shall assign an administrative law judge to the case. Notice of assignment shall be given promptly to the parties, and thereafter, all pleadings, papers, and other documents in the proceeding shall be filed directly with the administrative law judge, with copies served on the opposing party.
+
+(c) *Appearance and practice.* (1) The respondent may appear in person, by representative, or by counsel, and may participate fully in the proceedings. If respondent fails to appear and the administrative law judge determines such failure is without good cause, the administrative law judge may, in his/her discretion, determine that such failure shall constitute a waiver of the right to a hearing and consent to the making of a decision on the record made at the hearing.
+
+(2) Departmental counsel shall represent the Agency in the proceedings. Upon notice to the Authorized Officer of the assignment of an administrative law judge to the case, said counsel shall enter his/her appearance on behalf of the Agency and shall file all petitions and correspondence exchanges by the Agency and the respondent which shall become part of the hearing record. Thereafter, service upon the Agency shall be made to Departmental counsel.
+
+(d) *Hearing administration.* (1) The administrative law judge shall have all powers accorded by law and necessary to preside over the parties and the proceedings and to make decisions in accordance with 5 U.S.C. 554 through 557.
+
+(2) The transcript of testimony; the exhibits; and all papers, documents and requests filed in the proceedings shall constitute the record for decision. The administrative law judge shall render a written decision upon the record, which shall set forth his/her findings of fact and conclusions of law, and the reasons and basis therefore, and an assessment of a penalty, if any.
+
+(3) The administrative law judge's decision shall become effective 30 calendar days from the date of this decision.

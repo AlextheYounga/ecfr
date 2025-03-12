@@ -1,0 +1,3 @@
+##### § 51.96 May the Director amend or extend a concession contract for the purpose of facilitating a transaction? #####
+
+The Director may not amend or extend a concession contract for the purpose of facilitating an assignment or encumbrance. The Director may not make commitments regarding rates to the public, contract extensions, concession contract terms and conditions, or any other matter, for the purpose of facilitating an assignment or encumbrance.

@@ -1,0 +1,3 @@
+##### § 5.7 Construction of buildings or other facilities. #####
+
+Constructing or attempting to construct a building, or other structure, boat dock, road, trail, path, or other way, telephone line, telegraph line, power line, or any other private or public utility, upon across, over, through, or under any park areas, except in accordance with the provisions of a valid permit, contract, or other written agreement with the United States, is prohibited.

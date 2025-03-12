@@ -1,0 +1,3 @@
+##### § 902.01 Purpose and applicability. #####
+
+This part contains regulations of the Corporation implementing 5 U.S.C. 552, as amended. It informs the public about where and how the Corporation's records may be obtained. The following provisions are applicable to all records of the Corporation in existence at the time a request for records is made. The regulations establish fee schedules applicable to the search and copying of requested records. This part identifies the officials having authority to act on requests and prescribes the procedures to appeal decisions which initially deny disclosure. Indexes maintained to reflect all records subject to this part are available for public inspection and copying as provided herein.

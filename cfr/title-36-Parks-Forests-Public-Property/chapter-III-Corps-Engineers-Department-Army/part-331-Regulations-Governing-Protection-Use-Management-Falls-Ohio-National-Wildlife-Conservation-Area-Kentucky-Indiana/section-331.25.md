@@ -1,0 +1,3 @@
+##### § 331.25 Violation of regulations. #####
+
+Anyone violating the provisions of this regulation shall be subject to a fine of not more than $500 or imprisonment for not more than 6 months, or both. All persons designated by the Chief of Engineers, U.S. Army Corps of Engineers, for that purpose shall have the authority to issue a citation for the violation of these regulations, requiring the appearance of any person charged with violation to appear before the U.S. Magistrate within whose jurisdiction the violation occurred.

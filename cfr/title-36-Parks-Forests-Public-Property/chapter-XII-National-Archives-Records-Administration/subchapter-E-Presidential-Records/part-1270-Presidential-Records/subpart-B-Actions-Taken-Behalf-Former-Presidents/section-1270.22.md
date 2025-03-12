@@ -1,0 +1,3 @@
+##### § 1270.22 When Archivist may act for former President. #####
+
+In those instances where a President has specified, in accordance with 44 U.S.C. 2204(a), restrictions on access to Presidential records, but has not made a designation under § 1270.20 of this subpart, the Archivist shall, upon the death or disability of a President or former President, exercise the discretion or authority granted to a President or former President by 44 U.S.C. 2204.

@@ -1,0 +1,5 @@
+##### § 8.6 Complaints; appeal. #####
+
+Any question pertaining to the interpretation or application of or compliance with this part which cannot be satisfactorily settled between a concessioner and his employee, employees, or employee representative may be referred for review by any of the parties concerned to the Director, National Park Service. Any person adversely affected by the decision of the Director, National Park Service, may appeal to the Director, Office of Hearings and Appeals, in accordance with the general rules set forth in Department Hearings and Appeals Procedures, 43 CFR part 4, subpart B, and the special procedural rules in subpart G of 43 CFR part 4, applicable to proceedings in appeals cases which do not lie within the appellate jurisdiction of an established Appeals Board of the Office of Hearings and Appeals.
+
+[36 FR 7184, Apr. 15, 1971. Redesignated at 51 FR 24656, July 8, 1986]

@@ -1,0 +1,3 @@
+##### § 1275.1 Scope and purpose. #####
+
+This part implements title I of the Presidential Recordings and Materials Preservation Act (PRMPA, 44 U.S.C. 2111 note) with respect to the Presidential historical materials of the Richard M. Nixon Administration (covering the period beginning January 20, 1969, and ending August 9, 1974). This part applies to all Nixon Presidential historical materials in the custody of the Archivist of the United States pursuant to the PRMPA, and prescribes policies and procedures by which the National Archives and Records Administration (NARA) preserves, protects, and provides access to them.

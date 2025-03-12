@@ -1,0 +1,7 @@
+##### § 703.18 Procedures when an employee's appearance is demanded or documents are demanded. #####
+
+(a) If the deciding official has not acted by the return date on a subpoena, the employee must appear at the stated time and place (unless advised by the deciding official that the subpoena was not validly issued or served or that the subpoena has been withdrawn) and inform the court (or other interested parties) that the demand has been or is being, as the case may be, referred for the prompt consideration of the appropriate Library or congressional officials and shall respectfully request the court (or other authority) to stay the demand pending receipt of the requested instructions.
+
+(b) If the deciding official has denied approval to comply with the subpoena, and the court or authority rules that the demand must be complied with irrespective of such a denial, the employee upon whom such a demand has been made shall produce a copy of this Part and shall respectfully refuse to provide any testimony or produce any documents. *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).
+
+(c) The deciding official, as appropriate, will request the assistance of the Department of Justice or the U.S. Attorney's Office or congressional officials where necessary to represent the interests of the Library, the Congress, and the employee in any of the foregoing proceedings.

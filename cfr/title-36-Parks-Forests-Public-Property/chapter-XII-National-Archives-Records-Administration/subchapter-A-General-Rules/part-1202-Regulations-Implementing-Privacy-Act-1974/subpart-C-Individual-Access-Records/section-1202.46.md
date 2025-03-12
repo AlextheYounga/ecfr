@@ -1,0 +1,5 @@
+##### § 1202.46 In what ways will NARA provide access? #####
+
+(a) At your request, NARA will provide you, or a person authorized by you, a copy of the records by mail or by making the records available in person during normal business hours at the NARA facility where the records are located. If you are seeking access in person, the system manager will permit you to examine the original record, will provide you with a copy of the records, or both.
+
+(b) When obtaining access to the records in person at a NARA facility, you must provide proof of identification either by producing at least one piece of identification bearing a name or signature and either a photograph or physical description (e.g., a driver's license or employee identification card) or by signing the Certification of Identity form described in § 1204.40 (b)(5). NARA reserves the right to ask you to produce additional pieces of identification to assure NARA of your identity. You will also be asked to sign an acknowledgement that you have been given access.

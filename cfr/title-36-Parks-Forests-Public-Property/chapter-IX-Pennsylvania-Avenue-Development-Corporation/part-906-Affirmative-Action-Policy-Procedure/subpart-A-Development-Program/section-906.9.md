@@ -1,0 +1,3 @@
+##### § 906.9 Voluntary compliance. #####
+
+The Corporation will encourage any individual or entity not described in § 906.1(c) or (d) to submit and adopt an Affirmative Action Plan on any development project for which the Corporation's review and approval is required to determine conformity of the development project with The Pennsylvania Avenue Plan—1974. Any such Affirmative Action Plan should accompany the development plans.

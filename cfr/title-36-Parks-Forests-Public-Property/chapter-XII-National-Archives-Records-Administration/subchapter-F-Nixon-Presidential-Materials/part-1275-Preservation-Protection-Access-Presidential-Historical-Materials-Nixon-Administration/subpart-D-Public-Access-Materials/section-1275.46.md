@@ -1,0 +1,5 @@
+##### § 1275.46 Transfer of private or personal materials. #####
+
+(a) The Archivist will transfer sole custody and use of those materials determined to be private or personal, or to be neither related to abuses of governmental power nor otherwise of general historical significance, to Richard Nixon's heirs or to the former staff member who created the materials having primary proprietary or commemorative interest in the materials, or to their heir, designee, or assignee. Such materials include all segments of the original tape recordings that have been or will be identified as private or personal.
+
+(b) Materials determined to be neither related to abuses of governmental power nor otherwise of general historical significance, and transferred pursuant to paragraph (a) of this section, will upon such transfer no longer be deemed Presidential historical materials as defined in § 1275.16(a).

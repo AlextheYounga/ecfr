@@ -1,0 +1,7 @@
+##### § 1011.11 How will the Presidio Trust use tax refund offset to collect a debt? #####
+
+(a) *Tax refund offset.* In most cases, the FMS uses the Treasury Offset Program to collect debts by the offset of tax refunds and other federal payments. See § 1011.9(c) of this part. If not already transferred to the FMS under § 1011.9 of this part, the Presidio Trust will refer to the Treasury Offset Program any delinquent, legally enforceable debt for collection by tax refund offset.
+
+(b) *Notice; certification.* At least 60 days prior to referring a debt to the Treasury Offset Program, the Presidio Trust will send notice to the debtor in accordance with the requirements of § 1011.4 of this part. The Presidio Trust will certify to the FMS's Treasury Offset Program, in writing, that the debt is delinquent and legally enforceable in the amount submitted and that the Presidio Trust has made reasonable efforts to obtain payment of the debt. In addition, the Presidio Trust will certify its compliance with all applicable due process and other requirements described in this part and other applicable law.
+
+(c) *Administrative review.* The notice described in § 1011.4 of this part will provide the debtor with at least 60 days prior to the initiation of tax refund offset to request an administrative review as described in § 1011.10(c) of this part. The Presidio Trust may suspend collection through tax refund offset and/or other collection actions pending the resolution of the debtor's dispute.

@@ -1,0 +1,3 @@
+##### § 294.40 Purpose. #####
+
+The purpose of this subpart is to provide, within the context of multiple use management, State-specific direction for the protection of roadless areas on National Forest System lands in Colorado. The intent of this regulation is to protect roadless values by restricting tree cutting, sale, and removal; road construction and reconstruction; and linear construction zones within Colorado Roadless Areas (CRAs), with narrowly focused exceptions. Activities must be designed to conserve the roadless area characteristics listed in § 294.41, although applying the exceptions in § 294.42, § 294.43, and § 294.44 may have effects to some roadless area characteristics.

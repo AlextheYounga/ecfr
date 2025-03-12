@@ -1,0 +1,5 @@
+##### § 218.3 Reviewing officer. #####
+
+(a) The reviewing officer is the U.S. Department of Agriculture (USDA) or Forest Service official having the delegated authority and responsibility to review an objection filed under this part. For project or activity proposals made below the level of the Chief, the reviewing officer is the Forest Service line officer at the next higher administrative level above the responsible official, or the respective Associate Deputy Chief, Deputy Regional Forester, or Deputy Forest Supervisor with the delegation of authority relevant to the provisions of this part. When a project or activity proposal is made by the Chief, the Secretary of Agriculture or Under Secretary, Natural Resources and Environment is the reviewing officer.
+
+(b) The reviewing officer determines procedures to be used for processing objections when the procedures are not specifically described in this part, including, to the extent practicable, such procedures as needed to be compatible with the administrative review processes of other Federal agencies, when projects are proposed jointly. Such determinations are not subject to further administrative review.

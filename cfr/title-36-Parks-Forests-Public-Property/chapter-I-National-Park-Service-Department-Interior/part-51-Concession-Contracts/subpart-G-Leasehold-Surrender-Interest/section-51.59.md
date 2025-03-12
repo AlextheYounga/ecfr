@@ -1,0 +1,3 @@
+##### § 51.59 Will a leasehold surrender interest be extinguished by expiration or termination of a leasehold surrender interest concession contract or may it be taken for public use? #####
+
+A leasehold surrender interest may not be extinguished by the expiration or termination of a concession contract and a leasehold surrender interest may not be taken for public use except on payment of just compensation. Payment of leasehold surrender interest value pursuant to this part will constitute the payment of just compensation for leasehold surrender interest within the meaning of this part and for all other purposes.

@@ -1,0 +1,3 @@
+##### § 51.41 If the concession contract grants a compensable interest in real property improvements, will the Director find that the concession contract is an outfitter and guide concession contract? #####
+
+The Director will find that a concession contract is not an outfitter and guide contract if the contract grants any compensable interest in real property improvements on lands owned by the United States within a park area.

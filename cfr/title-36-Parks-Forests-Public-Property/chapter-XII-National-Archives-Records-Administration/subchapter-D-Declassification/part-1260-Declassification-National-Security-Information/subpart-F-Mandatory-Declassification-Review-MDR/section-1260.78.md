@@ -1,0 +1,9 @@
+##### § 1260.78 What is the appeal process when an MDR request for Executive Branch information in NARA's legal custody is denied in whole or in part? #####
+
+(a) NARA shall respond to the requester in writing that her/his mandatory declassification review request was denied in full or in part and the rationale for the denial by using the appropriate category in either section 1.4 of the Order for information that is less than 25 years old, or section 3.3 of the Order for information that is older than 25 years, or 32 CFR 2001.30(p) for information governed by the Atomic Energy Act of 1954, as amended, or the National Security Act of 1947, as amended. NARA will send the requester a notice of the right to appeal the determination within 60 calendar days to the Deputy Archivist of the United States, National Archives and Records Administration, 8601 Adelphi Road, College Park, MD. If a final decision on the appeal is not made within 60 working days of the date of the appeal, the requester may appeal to the Interagency Security Classification Appeals Panel (ISCAP).
+
+(b) NARA will process all appeals in accordance with 32 CFR 2001.33(a)(2)(iii). NARA will inform all agencies with equity interests in the denied information. Those agencies will assist NARA in the appellate process and provide NARA with final declassification review decisions in a timely manner and consistent with 32 CFR 2001.33(a)(2)(iii).
+
+(c) NARA will also notify the requester of the right to appeal denials of access to the Interagency Security Classification Appeals Panel, Attn: Mandatory Declassification Review Appeals, c/o Information Security Oversight Office, National Archives and Records Administration, 700 Pennsylvania Avenue NW., Room 503, Washington, DC 20408; *iscap@nara.gov.*
+
+(d) The pertinent NARA office or Presidential Library will coordinate the potential release of information declassified by the Interagency Security Classification Appeals Panel (ISCAP).

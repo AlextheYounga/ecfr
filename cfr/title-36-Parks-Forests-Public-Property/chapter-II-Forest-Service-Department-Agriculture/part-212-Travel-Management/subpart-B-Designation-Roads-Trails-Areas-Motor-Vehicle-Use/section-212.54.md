@@ -1,0 +1,3 @@
+##### § 212.54 Revision of designations. #####
+
+Designations of National Forest System roads, National Forest System trails, and areas on National Forest System lands pursuant to § 212.51 may be revised as needed to meet changing conditions. Revisions of designations shall be made in accordance with the requirements for public involvement in § 212.52, the requirements for coordination with governmental entities in § 212.53, and the criteria in § 212.55, and shall be reflected on a motor vehicle use map pursuant to § 212.56.

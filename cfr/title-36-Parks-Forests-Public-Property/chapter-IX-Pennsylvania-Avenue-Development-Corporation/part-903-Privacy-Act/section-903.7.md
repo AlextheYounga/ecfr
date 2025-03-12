@@ -1,0 +1,7 @@
+##### § 903.7 Requests for amendment of record. #####
+
+(a) An individual may request amendment of a Corporation record pertaining to him or to her, if the individual believes that the record contains information which is not accurate, relevant, timely, or complete. The request shall be in writing, whether presented in person or by mail, shall state with specificity the record sought to be amended, and shall propose wording of the correction or amendment sought. The request shall be directed to the Privacy Protection Officer at the place, times, and in the manner specified in § 903.3 (a) and (b). Assistance in preparing a request to amend a record, or to appeal an initial adverse determination under § 903.3(a), may be obtained from the Privacy Officer, Pennsylvania Avenue Development Corporation, 1331 Pennsylvania Avenue, NW., Suite 1220 North, Washington, DC 20004.
+
+(b) Not later than 10 days after the date of receipt of a request the Privacy Protection Officer will acknowledge it in writing. The acknowledgement will clearly describe the request, and if a determination has not already been made, will advise the individual when he or she may expect to be advised of action taken on the request. For requests presented in person, written acknowledgement will be provided at the time when the request is presented. No separate acknowledgement of receipt will be issued if the request can be reviewed and the individual advised of the results of the review within the 10 day period.
+
+[42 FR 5973, Feb. 1, 1977, as amended at 50 FR 45824, Nov. 4, 1985]

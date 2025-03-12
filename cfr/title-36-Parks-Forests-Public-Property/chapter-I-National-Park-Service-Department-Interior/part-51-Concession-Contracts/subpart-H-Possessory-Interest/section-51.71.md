@@ -1,0 +1,3 @@
+##### § 51.71 What is the process to be followed if there is a dispute between the prior concessioner and the Director as to the value of possessory interest? #####
+
+Unless other procedures are agreed to by the concessioner and the Director, in the event that a concessioner under a possessory interest concession contract is awarded a new concession contract and there is a dispute between the concessioner and the Director as to the value of such possessory interest, or, a dispute as to the allocation of an established overall possessory interest value on a unit by unit basis, the value and/or allocation will be established by arbitration in accordance with the terms and conditions of this part. The arbitration procedures are described in § 51.51.

@@ -1,0 +1,3 @@
+##### § 216.8 Availability of proposed Manual directives identified for formal public review. #####
+
+As a minimum, review copies of proposed Manual directives determined to be of substantial public interest or expected controversy shall be available in the Forest Supervisor's Office and District Rangers' Offices when National Forest proposals are involved; in the Regional Office and Forest Supervisors' Offices when regional proposals are involved; and in Regional Offices and National Headquarters when national proposals are involved. When Manual directives involve Forest Service Research or State and Private Forestry programs, review copies shall be available at comparable administrative offices.

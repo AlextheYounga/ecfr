@@ -1,0 +1,3 @@
+##### § 1004.1 Applicability and scope. #####
+
+The applicability of the regulations in this part is described in § 1001.2 of this chapter. The regulations in this part also apply, regardless of land ownership, on all roadways and parking areas within the boundaries of the area administered by the Presidio Trust that are open to public traffic and that are under the legislative jurisdiction of the United States.

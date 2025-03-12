@@ -1,0 +1,3 @@
+##### § 1270.10 Scope of part. #####
+
+These regulations implement the provisions of the Presidential Records Act of 1978, Pub. L. No. 95-591, 92 Stat. 2523-27, as amended by Pub. L. No. 98-497, sec. 107(b)(7), 98 Stat. 2287 (1984) (codified at 44 U.S.C. 2201-07), by setting forth the policies and procedures governing preservation, protection, and disposal of, and access to Presidential and Vice-Presidential records created during a term of office of the President or Vice President beginning on or after January 20, 1981. Nothing in these regulations is intended to govern procedures for assertion of, or response to, any constitutionally based privilege which may be available to an incumbent or former President.

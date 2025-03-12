@@ -1,0 +1,5 @@
+##### § 1256.70 What controls access to national security-classified information? #####
+
+(a) The declassification of and public access to national security-classified information, hereinafter referred to as “classified information” is governed by Executive Order 12958 of April 17, 1995 (3 CFR, 1995 Comp., p. 333) and as amended by Executive Order 13292 of March 25, 2003 (68 FR 15315, 3 CFR, 2003 Comp. 196), 32 CFR part 2001, and the Freedom of Information Act (5 U.S.C. 552, as amended).
+
+(b) Public access to documents declassified in accordance with this regulation may be restricted or denied for other reasons under the provisions of 5 U.S.C. 552(b) for accessioned agency records; §§ 1256.30 through 1256.36 of this part for donated historical materials; 44 U.S.C. 2111, 44 U.S.C. 2201 *et seq.,* and 36 CFR part 1270 for Presidential records; and 44 U.S.C. 2111 note and 36 CFR part 1275 for Nixon Presidential materials.

@@ -1,0 +1,7 @@
+##### § 60.13 Publication in the Federal Register and other NPS notification. #####
+
+(a) When a nomination is received, NPS will publish notice in the Federal Register that the property is being considered for listing in the National Register. A 15-day commenting period from date of publication will be provided. When necessary to assist in the preservation of historic properties this 15-day period may be shortened or waived.
+
+(b) NPS shall notify the appropriate State Historic Preservation Officer, Federal Preservation Officer, person or local government when there is no approved State program of the listing of the property in the National Register and will publish notice of the listing in the Federal Register.
+
+(c) In nominations where the owner of any privately owned property (or a majority of the owners of such properties within a district or single property with multiple owners) has objected and the Keeper has determined the nomination eligible for the National Register, NPS shall notify the State Historic Preservation Officer, the Federal Preservation Officer (for Federal or concurrent nominations), the person or local government where there is no approved State Historic Preservation Program and the Advisory Council on Historic Preservation. NPS will publish notice of the determination of eligibility in the Federal Register.

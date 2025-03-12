@@ -1,0 +1,3 @@
+##### § 219.50 Purpose and scope. #####
+
+This subpart establishes a pre-decisional administrative review (hereinafter referred to as objection) process for plans, plan amendments, or plan revisions. This process gives an individual or entity an opportunity for an independent Forest Service review and resolution of issues before the approval of a plan, plan amendment, or plan revision. This subpart identifies who may file objections to a plan, plan amendment, or plan revision; the responsibilities of the participants in an objection; and the procedures that apply to the review of the objection.

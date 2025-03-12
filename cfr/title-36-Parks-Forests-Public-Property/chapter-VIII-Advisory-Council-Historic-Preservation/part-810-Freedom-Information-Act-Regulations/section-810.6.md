@@ -1,0 +1,5 @@
+##### § 810.6 Exemptions. #####
+
+(a) The Freedom of Information Act exempts from disclosure nine categories of records which are described in 5 U.S.C. 552(b).
+
+(b) When a request encompasses records which would be of concern to or which have been created primarily by another Federal agency, the record will be made available by the Council only if the document was created primarily to meet the requirements of the Council's regulations implementing section 106 of the National Historic Preservation Act or other provisions of law administered primarily by the Council. If the record consists primarily of materials submitted by State or local governments, private individuals, organizations, or corporations, to another Federal agency in fulfillment of requirements for receiving assistance, permits, licenses, or approvals from the agency, the Council may refer the request to that agency. The requester shall be notified in writing of the referral.

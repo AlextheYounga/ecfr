@@ -1,0 +1,11 @@
+##### § 330.5 Policy. #####
+
+(a) It is the policy of the Corps of Engineers to provide, to the extent of its authorities, a safe and healthful environment for public use of lands and waters at Civil Works water resource development projects. To insure this safe and healthful environment, and to augment the citation authorities granted to the Corps of Engineers by reference § 330.3(b), District Engineers, subject to the authority of the Division Engineers, as set out below, are hereby delegated the authority to contract with States or their political subdivisions to obtain increased law enforcement services at Civil Works water resource development projects. Division Engineers are hereby delegated the authority to approve any minor deviations from this regulation except that any substantial deviations from the policies expressed within this regulation will require the prior approval of the Chief of Engineers or his authorized representative. Any required approval for deviation shall be made prior to the execution of the contract. When fiscal year 1978 and fiscal year 1979 work allowances are issued, instructions will be furnished on reporting requirements and the control of expenditures.
+
+(b) Contracts for law enforcement services, as authorized in § 330.5(a), shall be subject to the terms and conditions as provided for within this regulation and in accordance with standard contracting and accounting procedures applicable to the Corps of Engineers.
+
+(c) This regulation is not intended to diminish or otherwise limit the existing law enforcement responsibilities of the State or local law enforcement agencies.
+
+(d) Contract law enforcement personnel shall not be given Federal citation authority for enforcement of regulations contained in title 36 of the Code of Federal Regulations, Chapter III nor shall they be empowered to enforce such regulations. These regulations shall remain the responsibility of the Corps of Engineers.
+
+(e) Contracts for increased law enforcement shall be for those projects or portions of projects that are operated and maintained by the Corps of Engineers. Law enforcement services will not be provided under this program to those outgrant areas operated and maintained by a non-Federal sponsor.

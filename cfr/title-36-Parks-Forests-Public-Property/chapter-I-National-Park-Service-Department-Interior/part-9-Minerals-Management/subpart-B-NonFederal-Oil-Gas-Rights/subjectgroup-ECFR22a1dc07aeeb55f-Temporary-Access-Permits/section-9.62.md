@@ -1,0 +1,3 @@
+##### § 9.62 When will the NPS grant a temporary access permit? #####
+
+If the Regional Director determines that your proposed reconnaissance surveys will not result in surface disturbance, except for minimal disturbance necessary to perform required surveys, the Regional Director will issue you a temporary access permit within 30 days after receipt of a complete application, unless the Regional Director notifies you that additional time is necessary to evaluate or process your application.

@@ -1,0 +1,13 @@
+##### § 218.5 Who may file an objection. #####
+
+(a) Individuals and entities as defined in § 218.2 who have submitted timely, specific written comments regarding a proposed project or activity that is subject to these regulations during any designated opportunity for public comment may file an objection. Opportunity for public comment on a draft EIS includes request for comments during scoping, the 40 CFR 1506.10 comment period, or other public involvement opportunity where written comments are requested by the responsible official. Opportunity for public comment on an EA includes during scoping or any other instance where the responsible official seeks written comments.
+
+(b) Federally-recognized Indian Tribes and Alaska Native Corporations are also eligible to file an objection when specific written comments as defined in § 218.2 are provided during Federal-Tribal consultations.
+
+(c) Comments received from an authorized representative(s) of an entity are considered those of the entity only. Individual members of that entity do not meet objection eligibility requirements solely on the basis of membership in an entity. A member or an individual must submit timely, specific written comments independently in order to be eligible to file an objection in an individual capacity.
+
+(d) When an objection lists multiple individuals or entities, each individual or entity must meet the requirements of paragraph (a) of this section. If the objection does not identify a lead objector as required at § 218.8(d)(3), the reviewing officer will delegate the first eligible objector on the list as the lead objector. Individuals or entities listed on an objection that do not meet eligibility requirements will not be considered objectors. Objections from individuals or entities that do not meet the requirements of paragraph (a) of this section will not be accepted and will be documented as such in the objection record.
+
+(e) Federal agencies may not file objections.
+
+(f) Federal employees who otherwise meet the requirements of this subpart for filing objections in a non-official capacity must comply with Federal conflict of interest statutes at 18 U.S.C. 202-209 and with employee ethics requirements at 5 CFR part 2635. Specifically, employees must not be on official duty nor use Government property or equipment in the preparation or filing of an objection. Further, employees must not use or otherwise incorporate information unavailable to the public, such as Federal agency documents that are exempt from disclosure under the Freedom of Information Act (5 U.S.C. 552(b)).

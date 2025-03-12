@@ -1,0 +1,3 @@
+##### § 331.21 Unauthorized structures. #####
+
+The construction, placing, or continued existence of any structure of any kind under, upon, in, or over WCA lands or waters is prohibited unless a permit, lease, license, or other appropriate written agreement therefor has been issued by the District Engineer. Structures not so authorized are subject to summary removal or impoundment by the District Engineer. The design, construction, placing, existence, or use of structures in violation of the terms of the permit, lease, license, or other written agreement therefor is prohibited.

@@ -1,0 +1,7 @@
+##### § 907.9 Preparation of an EIS. #####
+
+(a) *Notice of intent.* When PADC decides to prepare an environmental impact statement, it shall publish a notice of intent in the Federal Register in accordance with 40 CFR 1501.7 and 1508.22 of the CEQ Regulations.
+
+(b) *Preparation.* After determining that an environmental impact statement will be prepared and publishing the notice of intent, PADC will begin to prepare or have prepared the environmental impact statement. Procedures for preparing the environmental impact statement are set forth in 40 CFR part 1502, CEQ Regulations.
+
+(c) *Supplemental environmental impact statements.* PADC may supplement a draft or final environmental impact statement at any time. PADC shall prepare a supplement to either the draft or final environmental impact statement when (1) substantial changes are proposed to an action contained in the draft or final EIS that are relevant to environmental concerns or there are significant new circumstances or information relevant to environmental concerns and bearing on the proposed action or its impacts; or (2) actions are proposed which relate or are similar to other action(s) taken or proposed and that together will have a cumulatively significantly impact on the environment.

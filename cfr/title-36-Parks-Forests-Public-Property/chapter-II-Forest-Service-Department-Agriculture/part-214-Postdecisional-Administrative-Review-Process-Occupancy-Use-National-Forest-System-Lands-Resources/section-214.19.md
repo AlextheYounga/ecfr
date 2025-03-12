@@ -1,0 +1,13 @@
+##### § 214.19 Procedures for discretionary review. #####
+
+(a) *Initiation.* (1) One day after issuance of an appeal decision, the Appeal Deciding Officer shall send a copy of the appeal decision, appeal, and appealable decision to the Discretionary Reviewing Officer to determine whether discretionary review of the appeal decision should be conducted.
+
+(2) One day after issuance of a Chief's decision that is eligible for discretionary review under § 214.7(b)(2), the Chief shall send the decision to the Discretionary Reviewing Officer to determine whether discretionary review should be conducted.
+
+(b) *Criteria for determining whether to conduct discretionary review.* In deciding whether to conduct discretionary review, the Discretionary Reviewing Officer should, at a minimum, consider the degree of controversy surrounding the decision, the potential for litigation, and the extent to which the decision establishes precedent or new policy.
+
+(c) *Time period.* Upon receipt of the appeal decision, appeal, and appealable decision or Chief's decision, the Discretionary Reviewing Officer shall have 30 days to determine whether to conduct discretionary review and may request the appeal record or the record related to the Chief's decision during that time to assist in making that determination. If a request for the record is made, it must be transmitted to the Discretionary Reviewing Officer within 5 days.
+
+(d) *Notification.* The Discretionary Reviewing Officer shall notify the parties and the Appeal Deciding Officer in writing of a decision to conduct discretionary review. The Discretionary Reviewing Officer may notify the parties and the Appeal Deciding Officer of a decision not to conduct discretionary review within 30 days. If the Discretionary Reviewing Officer takes no action within 30 days of receipt of the appeal decision, appeal, and appealable decision or Chief's decision, the appeal decision or Chief's decision shall constitute USDA's final administrative decision.
+
+(e) *Scope of discretionary review and issuance of a discretionary review decision.* Discretionary review shall be limited to the record. No additional information shall be considered by the Discretionary Reviewing Officer. The Discretionary Reviewing Officer shall have 30 days to issue a discretionary review decision after notification of the parties and Appeal Deciding Officer has occurred pursuant to § 214.19(d). The Discretionary Reviewing Officer's decision shall constitute USDA's final administrative decision. If a discretionary review decision is not issued within 30 days following the notification of the decision to conduct discretionary review, the appeal decision or Chief's decision shall constitute USDA's final administrative decision.

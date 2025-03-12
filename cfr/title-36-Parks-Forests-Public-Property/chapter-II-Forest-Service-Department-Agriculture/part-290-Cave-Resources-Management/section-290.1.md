@@ -1,0 +1,3 @@
+##### § 290.1 Purpose and scope. #####
+
+The rules of this part implement the requirements of the Federal Cave Resources Protection Act (16 U.S.C. 4301-4309), hereafter referred to as the “Act”. The rules apply to cave management on National Forest System lands. These rules, in conjunction with rules in part 261 of this chapter, provide the basis for identifying and managing significant caves on National Forest System lands in accordance with the Act. National Forest System lands will be managed in a manner which, to the extent practical, protects and maintains significant cave resources in accordance with the policies outlined in the Forest Service Directive System and the management direction contained in the individual forest plans.

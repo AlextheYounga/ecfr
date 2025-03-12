@@ -1,0 +1,3 @@
+##### § 1201.53 When may NARA make an offset in an expedited manner? #####
+
+NARA may effect an administrative offset against a payment to be made to you before completion of the procedures required by §§ 1201.51 and 1201.52 if failure to take the offset would substantially jeopardize NARA's ability to collect the debt and the time before the payment is to be made does not reasonably permit the completion of those procedures. An expedited offset will be followed promptly by the completion of those procedures. Amounts recovered by offset, but later found not to be owed to the United States, will be promptly refunded.

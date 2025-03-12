@@ -1,0 +1,5 @@
+##### § 17.6 Action at close of bidding. #####
+
+The person who is declared by the authorized officer to be the high bidder shall be bound by his bid and the regulations in this part to complete the purchase in accordance therewith unless his bid is rejected or he is released therefrom by the authorized officer. The declared high bid on property for which a preference right exists will be conditionally accepted subject to the exercise of the preference as described below. In the case of a freehold interest, the high bidder must submit the balance of the bid within 45 days of the bid award in the form of a certified check, post office money order, bank draft, or cashier's check, made payable to the United States of America. Failure to submit the full balance within 45 days will result in the forfeiture of $1,000 of bid deposit, unless the bidder has been released from the bid or an extension has been granted by the authorized officer, and the property will be awarded to the next highest bidder upon fulfillment of the requirements of this section.
+
+[42 FR 46302, Sept. 15, 1977, as amended at 61 FR 28508, June 5, 1996]

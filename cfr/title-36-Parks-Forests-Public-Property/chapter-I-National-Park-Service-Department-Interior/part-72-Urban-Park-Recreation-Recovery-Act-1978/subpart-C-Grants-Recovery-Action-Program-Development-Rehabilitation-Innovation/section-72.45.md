@@ -1,0 +1,37 @@
+##### § 72.45 Fundable elements: Innovation grants. #####
+
+(a) Innovation grants may cover costs related to improved delivery of recreation services (including personnel, training, facilities, recreation equipment and supplies), except those which pertain to routine operation and maintenance not directly related to the provision of recreation opportunities. All equipment and supply requests in Innovation proposals will be reviewed to assure that they will substantially contribute to the recreation services intended under the specific grant. The intent of Innovation grants is to test new ideas, concepts and approaches aimed at improving facility design, operations or programming in the delivery of neighborhood recreation services. They should also contribute to a systems approach to recreation by linking recreation services with other critical community programs; such as transportation, housing, and health programs. The UPARR Program will competitively choose the best quality Innovation proposals with nationwide demonstration potential, and which serve people who most need the new recreation services. An innovative community recreation project may be a service, a process, an organizational arrangement or a technique. The innovation should demonstrate a concept that is untried, unique, and/or advances the state of the art for recreation. Ideas from successful Innovation proposals will be disseminated nationwide through annual progress reports to Congress, as required in section 1015(b) of the Act, and through the ongoing technical assistance efforts of NPS. Information seminars, workshops and other techniques may also be used to provide the greatest possible exposure of these ideas for use in other communities. Because the legislation limits the yearly funds available for Innovation grants (not more than 10% of funds authorized), the majority of Innovation grants should ideally be monetarily smaller awards aimed at leveraging public and private community support and providing activities with high demonstration value, rather than large-scale development or expansion projects. The long-range intent of funding innovative proposals is to support and demonstrate a great variety of ideas during the five year implementation of the UPARR Program. For this reason, only one or two proposals having a similar emphasis or approach will be funded. Proposed Innovation projects which have been demonstrated before or are currently being operated in other cities, may be considered for UPARR assistance if the application identifies and addresses the question of the special nature or circumstances surrounding the new project.
+
+(1) *Program services.* Innovation grant costs may include those costs which relate to: demonstrations of the improved multiple-use of public buildings e.g., schools, community centers, libraries; unique program expansions or increases in services; purchase of recreation services on a contractual basis; increased access to recreation areas; and cost-effective management techniques.
+
+(2) *Adaptive reuse.* In addition to providing services for areas or facilities already in recreation use, Innovation grants may provide funding for the adaptive reuse of areas or facilities not currently in recreation use, or those where mixed community use occurs. Physical rehabilitation of facilities not currently in recreation use (whether public or private) may be funded as part of an Innovation proposal, and would be classified as adaptive reuse. An example would be conversion of an abandoned building to a unique community recreation center. When only a portion of the area or facility will be used for recreation, only that portion will be eligible for UPARR funding.
+
+(3) *Supplies.* Funds may be used to purchase expendable supplies and equipment which relate directly to an Innovation proposal, such as sports equipment, arts and crafts supplies, chairs and tables if needed for an activity, and essential emergency or safety equipment. General office supplies and furniture not used exclusively to provide recreation services as a part of the proposal, or not an inherent component of the proposal, will not be reimbursable.
+
+(4) *Coordination.* Local costs incurred for coordinating any grant proposal activities and programs with other public, non-profit or private community services may be reimbursable.
+
+(5) *Personnel.* Eligible personnel costs for Innovation proposals will be limited to salaries and benefits of those employees directly engaged in the provision of recreation services or formulation of new techniques. Volunteer services may be furnished by professional and technical personnel, consultants, and other skilled and unskilled labor. Each hour of committed volunteer service may be counted toward the local matching share of funds, if the service provided is an integral part of an approved proposal.
+
+(6) *Special populations.* A proposal which will provide recreation opportunities primarily for a specific demographic group, such as the elderly, youth or handicapped, may be funded. However, the recreation provided must be open to the public, incorporate some activities for the general population, and address needs as identified in the local Recovery Action Program. Services for special populations, such as transportation to recreation facilities, may also be funded.
+
+(b) *Basic types of Innovation proposals.* Types of Innovation proposals which can be funded are suggested by, but not limited to, the following types:
+
+(1) The unique integration of recreation with other community services; such as transportation, public housing and public safety; either to expand or update current services, or to link programs within the social service structure of a neighborhood, or between neighborhoods.
+
+(2) New management and cost-saving or service-efficient approaches for improving the delivery of recreation services should be fundamental to all Innovation and Rehabilitation proposals, and may also be the prime focus of an Innovation proposal. Extending hours of operation, increasing the variety of recreation programs, contracting with commercial or private non-profit agencies to supply specific recreation services, or assisting citizens in designing and operating their own programs, are examples of management approaches.
+
+(3) New approaches to facility design which emphasize user needs and preferences and promote efficient operation and energy conservation.
+
+(4) New fiscal techniques to generate revenue for continuing operation and maintenance, such as tax credits.
+
+(5) Techniques for improving transportation and access to recreation opportunities.
+
+(6) Techniques to facilitate private, non-profit, and community involvement in providing recreation opportunities.
+
+(7) Improved use of land resources; such as utilizing abandoned railroads and highway rights-of-way, waterfronts, street spaces, or derelict land for recreation.
+
+(8) Adaptive reuse or multiple use of public or private facilities and areas. (Private areas or facilities utilized must be opened to the public.)
+
+(9) Techniques to prevent or reduce crime, abuse and vandalism; such as better design, non-destructible building materials, or use of community volunteers to supervise areas.
+
+(10) Communications and public awareness of recreation opportunities, including education in leisure services; but excluding research.

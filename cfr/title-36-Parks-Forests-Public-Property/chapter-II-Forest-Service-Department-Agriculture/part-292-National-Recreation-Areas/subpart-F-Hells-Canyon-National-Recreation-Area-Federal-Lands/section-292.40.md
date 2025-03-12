@@ -1,0 +1,5 @@
+##### § 292.40 Purpose and scope. #####
+
+(a) *Purpose.* The rules of this subpart establish standards and guidelines for the protection and preservation of historic, archeological, and paleontological resources, the use of motorized and mechanical equipment, the use of motorized and non-motorized rivercraft, and the management, utilization, and disposal of natural resources by timber harvesting, mining and grazing on National Forest System lands that comprise the Hells Canyon National Recreation Area located in the Wallowa-Whitman, Nez Perce, and Payette National Forests in the States of Idaho and Oregon as established by the Act of December 31, 1975, as amended (89 Stat. 1117, 16 U.S.C. 460gg *et seq.*).
+
+(b) *Scope.* Management of National Forest System lands within the Hells Canyon National Recreation Area is subject to all laws, rules, and regulations applicable to the national Forest System, except as otherwise provided in this subpart. In the event of a conflict of inconsistency between rules of this subpart and other rules within this title, the rules of this subpart shall take precedence to the extent permitted by law.

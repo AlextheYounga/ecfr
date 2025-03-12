@@ -1,0 +1,19 @@
+##### § 903.9 Appeal of initial adverse determination of request for amendment of record. #####
+
+(a) After receipt by an individual of notice of an adverse determination by the Privacy Protection Officer concerning a request to amend a record, the individual may, within 60 working days after the date of receipt of the notice, appeal the determination by seeking a review by the Executive Director of the Corporation, or by an officer of the Corporation designated by him. The appeal shall be in writing, mailed or delivered to the Executive Director, Pennsylvania Avenue Development Corporation, 1331 Pennsylvania Avenue, NW, Suite 1220 North, Washington, DC 20004. The appeal shall identify the record in the same manner as it was identified in the original request, shall indicate the dates of the original request and of the adverse determination and shall indicate the expressed basis for that determination. In addition, the appeal shall state briefly the reasons why the adverse determination should be reversed.
+
+(b) Not later than 30 days after receipt of an appeal, the Executive Director, or an officer of the Corporation designated by him, will complete a review of the appeal and the initial determination, and either: (1) Determine that the appeal should be granted, take the appropriate action with respect to the record in question, and notify the individual accordingly; or, (2) determine that the appeal should be denied.
+
+(c) The reviewing official may, at his or her option, request from the individual such additional information as is deemed necessary to properly conduct the review. If additional time is required, the Executive Director may, for good cause shown, extend the period for action beyond the 30 days specified above. The individual will then be informed in writing of the delay and the reasons therefor, and of the approximate date on which action is expected to be completed.
+
+(d) If the reviewing official denies the appeal, he or she shall advise the individual in writing:
+
+(1) Of the decision and the reasons for reaching it;
+
+(2) That the denial of the appeal is a final agency action entitling the individual to seek judicial review in the appropriate district court of the United States, as provided in 5 U.S.C. 552a(g); and,
+
+(3) That the individual may file with the Corporation a concise statement setting forth the reasons for his or her disagreement with the refusal of the Corporation to amend the record in question.
+
+(e) Any individual having received notices of a denial of an appeal to amend a record may file a statement of disagreement with the Executive Director not later than 60 working days from the date of receipt of the notice. Such statements shall ordinarily not exceed one page in length, and the Corporation reserves the right to reject statements of excessive length. Upon receipt of a proper and timely statement of disagrement, the Corporation will clearly annotate the record in question to indicate the portion of the record which is in dispute. In any subsequent disclosure containing information about which the individual has filed a statement of disagreement, the Corporation will provide a copy of the statement together with the record to which it pertains. In addition, prior recipients of the disputed record will be provided with a copy of statements of disagreement to the extent that an accounting of disclosures was maintained. If the Corporation deems it apropriate, it may also include in any disclosure its own concise statement of the reasons for not making the amendments requested.
+
+[42 FR 5973, Feb. 1, 1977, as amended at 50 FR 45824, Nov. 4, 1985]

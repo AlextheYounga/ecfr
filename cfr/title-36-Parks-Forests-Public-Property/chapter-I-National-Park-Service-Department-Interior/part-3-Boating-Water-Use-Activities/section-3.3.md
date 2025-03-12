@@ -1,0 +1,3 @@
+##### § 3.3 Am I required to obtain a permit to operate a vessel in a park area? #####
+
+Generally, you are not required to obtain a permit to operate a vessel in a park area. However, in certain circumstances, taking into consideration public safety, protection of park resources, and weather and park management objectives, the superintendent may require a permit for use of a vessel within a park area, under §§ 1.5 and 1.7, and will issue permits consistent with § 1.6 of this chapter.

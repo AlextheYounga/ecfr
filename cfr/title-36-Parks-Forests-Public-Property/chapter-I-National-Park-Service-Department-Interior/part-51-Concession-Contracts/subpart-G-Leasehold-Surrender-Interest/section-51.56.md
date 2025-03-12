@@ -1,0 +1,5 @@
+##### § 51.56 How will the construction cost for purposes of leasehold surrender interest value be determined? #####
+
+After receiving the detailed construction report (and certification, if requested), from the concessioner, the Director will review the report, certification and other information as appropriate to determine that the reported construction cost is consistent with the construction cost approved by the Director in advance of the construction and that all costs included in the construction cost are eligible direct or indirect costs as defined in this part. The construction cost determined by the Director will be the final determination of construction cost for purposes of the leasehold surrender interest value in the related capital improvement unless the concessioner requests arbitration of the construction cost under § 51.57. The Director may at any time review a construction cost determination (subject to arbitration under § 51.57) if the Director has reason to believe that it was based on false, misleading or incomplete information.
+
+[66 FR 35083, July 3, 2001]

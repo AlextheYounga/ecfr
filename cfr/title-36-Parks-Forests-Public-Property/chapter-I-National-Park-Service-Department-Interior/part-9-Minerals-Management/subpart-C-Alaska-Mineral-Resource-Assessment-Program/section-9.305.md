@@ -1,0 +1,3 @@
+##### § 9.305 Environmental compliance. #####
+
+Each AMRAP agency is responsible for obtaining all required Federal, State, and local permits and must provide sufficient information to the NPS to ensure appropriate compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*), the National Historic Preservation Act of 1966 (16 U.S.C. 470 *et seq.*), and other applicable statutes.

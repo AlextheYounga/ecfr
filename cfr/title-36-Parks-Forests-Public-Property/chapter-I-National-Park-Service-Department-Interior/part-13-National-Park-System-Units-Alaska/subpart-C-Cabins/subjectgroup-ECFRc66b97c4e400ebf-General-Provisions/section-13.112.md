@@ -1,0 +1,5 @@
+##### § 13.112 Permit revocation. #####
+
+(a) The superintendent may revoke a permit or lease issued pursuant to this subpart when the superintendent determines that the use under the permit or lease is causing or may cause significant detriment to the principal purposes for which the park area was established. *Provided, however*, that if a permittee submits a written request for a hearing concerning the revocation, based on the cause listed above, of a permit or lease issued pursuant to §§ 13.130, 13.136-13.149, or 13.160-168 of this subpart, the matter shall be assigned to an administrative law judge who, after notice and hearing and based on substantial evidence in the administrative record as a whole, shall render a recommended decision for the superintendent's review. The superintendent shall then accept, reject or modify the administrative law judge's recommended decision in whole or in part and issue a final decision in writing.
+
+(b) The superintendent may revoke or modify any permit or lease issued pursuant to this subpart when the permittee violates a term of the permit or lease.

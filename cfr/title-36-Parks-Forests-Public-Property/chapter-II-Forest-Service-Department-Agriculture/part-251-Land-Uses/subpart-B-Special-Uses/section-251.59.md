@@ -1,0 +1,5 @@
+##### § 251.59 Transfer of authorized improvements. #####
+
+If the holder, through death, voluntary sale, transfer, or through enforcement of a valid legal proceeding or operation of law, ceases to be the owner of the authorized improvements, the authorization terminates upon change of ownership. Except for easements issued under authorities other than § 251.53(e) and leases and easements under § 251.53(l) of this subpart, the new owner of the authorized improvements must apply for and receive a new special use authorization. The new owner must meet requirements under applicable regulations of this subpart and agree to comply with the terms and conditions of the authorization and any new terms and conditions warranted by existing or prospective circumstances.
+
+[63 FR 65967, Nov. 30, 1998]

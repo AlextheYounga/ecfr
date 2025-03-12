@@ -1,0 +1,5 @@
+##### § 228.7 Inspection, noncompliance. #####
+
+(a) Forest Officers shall periodically inspect operations to determine if the operator is complying with the regulations in this part and an approved plan of operations.
+
+(b) If an operator fails to comply with the regulations or his approved plan of operations and the noncompliance is unnecessarily or unreasonably causing injury, loss or damage to surface resources the authorized officer shall serve a notice of noncompliance upon the operator or his agent in person or by certified mail. Such notice shall describe the noncompliance and shall specify the action to comply and the time within which such action is to be completed, generally not to exceed thirty (30) days: *Provided, however,* That days during which the area of operations is inaccessible shall not be included when computing the number of days allowed for compliance.

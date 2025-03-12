@@ -1,0 +1,5 @@
+##### § 1120.24 Misdirected written requests; oral requests. #####
+
+(a) The A&TBCB cannot assure that a timely for satisfactory response under this subpart will be given to written requests that are addressed to A&TBCB offices, members, or employees other than the Freedom of Information Officer listed in § 1120.23. Any A&TBCB member or employee who receives a written request for inspection or disclosure of A&TBCB records must promptly forward a copy of the request to the Freedom of Information Officer, by the fastest practicable means, and must, if appropriate, commence action under § 1120.32.
+
+(b) While A&TBCB members and employees will attempt in good faith to comply with oral requests for inspection or disclosure of A&TBCB records, by telephone or otherwise, these requests are not required to be processed in accordance with this subpart.

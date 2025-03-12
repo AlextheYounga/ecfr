@@ -1,0 +1,3 @@
+##### § 1202.70 Whom should I contact at NARA to amend records about myself? #####
+
+If you believe that a record that NARA maintains about you is not accurate, timely, relevant or complete, you may request that the record be amended. Write to the NARA Privacy Act Officer, Room 3110, 8601 Adelphi Rd, College Park, MD 20470-6001. Employees of NARA who desire to amend their personnel records should write to the Director, Human Resources Services Division. You should include as much information, documentation, or other evidence as needed to support your request to amend the pertinent record. Mark both the envelop and the letter with the phrase “Privacy Act—Request To Amend Record.”

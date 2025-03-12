@@ -1,0 +1,3 @@
+##### § 14.38 Disposal of property on termination of right-of-way. #####
+
+Upon the termination of a right-of-way by expiration or by prior cancellation, in the absence of any agreement to the contrary, if all monies due the Government thereunder have been paid, the holder of the right-of-way will be allowed six months or such additional time as may be granted in which to remove from the right-of-way all property or improvements of any kind, other than a road and usable improvements to a road, placed thereon by him; but if not removed within the time allowed, all such property and improvements shall become the property of the United States.

@@ -1,0 +1,5 @@
+##### § 902.21 Publication in the Federal Register shall be constructive notice of information that affects the public. #####
+
+(a) All material described in § 902.20 shall be published in the Federal Register. For the purpose of this section, material that is reasonably available to the class of persons affected by it is considered to be published in the Federal Register when it is incorporated by reference with the approval of the Director of the Federal Register.
+
+(b) Publication in the Federal Register of all relevant information shall be considered constructive notice of information that affects the public, except that no person shall be required to resort to or be adversely affected by any matter which is required to be published in the Federal Register and is not so published unless such person has actual and timely notice of the terms of the unpublished matter.

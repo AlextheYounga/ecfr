@@ -1,0 +1,3 @@
+##### § 331.6 Public property. #####
+
+Unless otherwise authorized in writing by the District Engineer, the destruction, injury, defacement, removal, or any alteration of public property including, but not limited to natural formations, paleontological features, historical and archaeological features and vegetative growth is prohibited. Any such destruction, removal, or alteration of public property shall be in accordance with the conditions of any permission granted.

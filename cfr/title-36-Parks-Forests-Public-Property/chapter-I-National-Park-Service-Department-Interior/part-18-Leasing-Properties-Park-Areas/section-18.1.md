@@ -1,0 +1,3 @@
+##### § 18.1 What is the authority and purpose for this part? #####
+
+16 U.S.C. 1 *et seq.,* particularly 16 U.S.C. 1a-2(k), and, 16 U.S.C. 470h-3 are the authorities for this part. These authorities allow the Director (or delegated officials) to lease certain federally owned or administered property located within the boundaries of park areas. All leases to be entered into by the Director under these authorities are subject to the requirements of this part, except that, proposed leases that were solicited pursuant to this part prior to January 28, 2002, may be executed in accordance with the terms of the solicitation.

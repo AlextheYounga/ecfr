@@ -1,0 +1,3 @@
+##### § 1232.3 What standards are used as guidance for this part? #####
+
+These regulations conform with guidance provided in ISO 15489-1:2001 Paragraphs 7.1 (Principles of records management programmes), 8.3.3 (Physical storage medium and protection), 8.3.6 (Access, retrieval and use), 8.3.7 (Retention and disposition), 9.6 (Storage and handling), and 9.8.3 (Location and tracking) apply to records creation and maintenance.

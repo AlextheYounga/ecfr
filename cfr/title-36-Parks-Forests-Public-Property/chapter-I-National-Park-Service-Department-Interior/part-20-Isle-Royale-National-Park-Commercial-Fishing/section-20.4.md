@@ -1,0 +1,5 @@
+##### § 20.4 Revocation of permits; appeal. #####
+
+The Director of the National Park Service may, by notification in writing, revoke the permit of any permittee found by him to have violated any Federal statute or the provisions of these or any other regulations of the Secretary, relating to the Park. A permittee, however, shall have the right to appeal to the Director, Office of Hearings and Appeals, from a decision of the Director of the National Park Service revoking his permit. Any such appeal shall comply with the general rules set forth in Department Hearings and Appeals Procedures, 43 CFR part 4, subpart B, and the special procedural rules in subpart G of 43 CFR part 4, applicable to proceedings in appeals cases which do not lie within the appellate jurisdiction of an established Appeals Board of the Office of Hearings and Appeals.
+
+[36 FR 7184, Apr. 15, 1971]

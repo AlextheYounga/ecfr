@@ -1,0 +1,3 @@
+##### § 1010.2 Purpose. #####
+
+The regulations in this part incorporate and supplement the Council on Environmental Quality's (CEQ) regulations at 40 CFR parts 1500 through 1508 for implementing the procedural provisions of the National Environmental Policy Act of 1969, as amended (NEPA), and otherwise to describe how the Trust intends to consider environmental factors and concerns in the Trust's decision-making process within the requirements set forth in NEPA and CEQ regulations.

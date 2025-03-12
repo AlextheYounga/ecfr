@@ -1,0 +1,3 @@
+##### § 72.30 General requirements. #####
+
+Applicants must have an approved Recovery Action Program on file with the appropriate NPS Regional Office prior to applying for Rehabilitation or Innovation grants. Rehabilitation and Innovation proposals must be based on priorities identified in the applicant jurisdiction's Recovery Action Program. Once NPS has indicated that a Rehabilitation or Innovation proposal is fundable, the applicant must meet all documentation requirements imposed by OMB Circulars A-102, A-95 and FMC 74-4. Regional offices of NPS will provide technical assistance to grantees in complying with these requirements.

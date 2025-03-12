@@ -1,0 +1,5 @@
+##### § 1120.42 Release of exempt documents. #####
+
+(a) An A&TBCB office may, in its discretion, release requested records despite the applicability of one or more of the exemptions listed in § 1120.41 (a)(2), (5), or (7). Disclosure of such records is encouraged if no important purpose would be served by withholding the records.
+
+(b) Though the policy of the A&TBCB is to honor all requests, as indicated in § 1120.21(a), there are circumstances when the A&TBCB will not disclose a record if one or more of the FOIA exemptions applies to the record. The exemptions usually in such circumstances are exemptions (2), (3), (4), (6), (8) and (9). In these cases, where the A&TBCB has withheld a requested record, or portions thereof, the A&TBCB will disclose the exempted record when ordered to do so by a Federal court or in exceptional circumstances under appropriate restrictions with the approval of the Office of General Counsel.

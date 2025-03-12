@@ -1,0 +1,5 @@
+##### § 230.1 Purpose and scope. #####
+
+(a) The regulations of this subpart govern the rules and procedures for the Community Forest and Open Space Conservation Program (CFP), established under Section 7A of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103d). Under the CFP, the Secretary of Agriculture, acting through the Chief of the Forest Service, awards grants to local governments, Indian tribes, and qualified nonprofit organizations to establish community forests for community benefits by acquiring and protecting private forestlands.
+
+(b) The CFP applies to eligible entities within any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau, and the territories and possessions of the United States.

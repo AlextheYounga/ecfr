@@ -1,0 +1,5 @@
+##### § 1234.2 What does this part cover? #####
+
+(a) This part covers the establishment, maintenance, and operation of records centers, whether Federally-owned and operated by NARA or another Federal agency, or Federally-owned and contractor operated. This part also covers an agency's use of commercial records storage facilities. Records centers and commercial records storage facilities are referred to collectively as records storage facilities. This part specifies the minimum structural, environmental, property, and life-safety standards that a records storage facility must meet when the facility is used for the storage of Federal records.
+
+(b) Except where specifically noted, this part applies to all records storage facilities. Certain noted provisions apply only to new records storage facilities established or placed in service on or after September 28, 2005.

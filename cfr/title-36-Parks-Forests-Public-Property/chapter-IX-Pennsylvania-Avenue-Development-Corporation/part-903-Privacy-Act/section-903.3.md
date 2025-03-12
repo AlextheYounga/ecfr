@@ -1,0 +1,7 @@
+##### § 903.3 Procedures for notification of records pertaining to individuals. #####
+
+(a) An individual making a written or oral request under the Privacy Act (5 U.S.C. 522a) shall be informed of any Corporation systems of records which pertain to the individual, if the request contains a reasonable identification of the appropriate systems of records as described in the notice published in the Federal Register.
+
+(b) Requests may be made in person between the hours of 9:00 a.m. and 5:00 p.m. Monday through Friday, (except legal holidays). The request should be addressed to the Privacy Protection Officer, Pennsylvania Avenue Development Corporation, 1331 Pennsylvania Avenue, NW., Suite 1220 North, Washington, DC 20004. The Privacy Protection Officer of the Corporation will require adequate personal identification before processing the request. If a request is made in writing it must be under the signature of the requesting individual and include the individual's address, date of birth, and an additional proof of identification, such as a photocopy of a driver's license or similar document bearing the individual's signature. A notarized, signed statement is acceptable to verify the identity of the individual involved without additional proof.
+
+[42 FR 5973, Feb. 1, 1977, as amended at 50 FR 45824, Nov. 4, 1985]

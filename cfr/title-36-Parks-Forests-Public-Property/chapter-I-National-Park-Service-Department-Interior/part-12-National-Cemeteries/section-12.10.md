@@ -1,0 +1,3 @@
+##### § 12.10 Floral and commemorative tributes. #####
+
+The placement on a grave of fresh cut or artificial flowers in or on a metal or other non-breakable rod or container designated by the superintendent is allowed at times designated by the superintendent. The placement of a statue, vigil light, or other commemorative object on a grave, or the securing or attaching of any object to a headstone, marker or commemorative monument is prohibited.

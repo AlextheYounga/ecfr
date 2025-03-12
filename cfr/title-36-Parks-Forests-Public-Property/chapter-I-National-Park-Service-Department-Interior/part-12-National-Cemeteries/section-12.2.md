@@ -1,0 +1,3 @@
+##### § 12.2 Purpose of National Cemeteries. #####
+
+National cemeteries are established as national shrines in tribute to the gallant dead who have served in the Armed Forces of the United States. Such areas are protected, managed and administered as suitable and dignified burial grounds and as significant cultural resources. As such, the authorization of activities that take place in national cemeteries is limited to those that are consistent with applicable legislation and that are compatible with maintaining the solemn commemorative and historic character of these areas.

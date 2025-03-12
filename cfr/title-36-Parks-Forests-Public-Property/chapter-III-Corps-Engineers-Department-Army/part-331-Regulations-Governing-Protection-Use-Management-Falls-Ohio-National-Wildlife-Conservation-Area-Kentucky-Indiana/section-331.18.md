@@ -1,0 +1,3 @@
+##### § 331.18 Restrictions. #####
+
+The District Engineer may establish and post a schedule of visiting hours and/or restrictions on the public use of a portion or portions of the WCA. The District Engineer may close or restrict the use of the WCA or portion of the WCA when necessitated by reason of public health, public safety, security, maintenance, or other reasons in the public interest. Entering or using the project in a manner which is contrary to the schedule of visiting hours, closure or restrictions is prohibited.

@@ -1,0 +1,3 @@
+##### § 61.10 Waiver. #####
+
+The Secretary may waive any of the requirements of the rules in this part that are not mandated by statute or by other applicable regulations if the Secretary finds, in writing, that the historic preservation program would benefit from such waiver and the waiver would not compromise the purposes, conditions, and requirements of the National Historic Preservation Act of 1966, as amended.

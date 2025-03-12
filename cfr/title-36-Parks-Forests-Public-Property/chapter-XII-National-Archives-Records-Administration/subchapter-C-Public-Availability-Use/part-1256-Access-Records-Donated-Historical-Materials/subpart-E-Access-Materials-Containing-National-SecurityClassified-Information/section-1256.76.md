@@ -1,0 +1,13 @@
+##### § 1256.76 How do I request mandatory review of classified information under Executive Order 12958, as amended? #####
+
+(a) You may request mandatory review of classified information that is in the legal custody of NARA, as well as in legislative and judicial records NARA holds. Your mandatory review request must describe the document or material containing the information with sufficient specificity to enable NARA to locate it with a reasonable amount of effort. When possible, a request must include the name of the originator and recipient of the information, as well as its date, subject, and file designation. Information we reviewed within the previous 2 years is not subject to mandatory review. We notify you if this provision applies to your request.
+
+(b) You must address your mandatory review request to the appropriate staff in the following table.
+
+|                                                                If the documents are . . .                                                                |                                 . . . then address your request to                                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|                                   (1) Presidential records and donated historical materials at a Presidential library                                    |                         The appropriate library cited in 36 CFR part 1253.                         |
+|                                                             (2) Nixon Presidential materials                                                             |Director, Nixon Presidential Materials Staff (NLNS), 8601 Adelphi Road, College Park, MD 20740-6001.|
+|                                            (3) Presidential materials maintained in the Washington, DC, area                                             | Director, Presidential Materials Staff (NLMS), 700 Pennsylvania Avenue, NW., Washington, DC 20408. |
+|(4) Federal records, donated historical materials related to Federal records, judicial records, legislative records maintained in the Washington, DC, area|     Chief, Special Access/FOIA Staff (NWCTF), 8601 Adelphi Road, College Park, MD 20740-6001.      |
+|                                        (5) Federal records and judicial records maintained at a regional archives                                        |                    The appropriate regional archives cited in 36 CFR part 1253.                    |

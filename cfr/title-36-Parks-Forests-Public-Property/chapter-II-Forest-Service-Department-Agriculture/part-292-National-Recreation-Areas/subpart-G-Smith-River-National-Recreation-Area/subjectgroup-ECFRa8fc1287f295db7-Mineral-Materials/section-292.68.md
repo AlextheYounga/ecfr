@@ -1,0 +1,3 @@
+##### § 292.68 Mineral material operations. #####
+
+Subject to the provisions of part 228, subpart C, and part 293 of this chapter, the authorized officer may approve contracts and permits for the sale or other disposal of mineral materials, including but not limited to, common varieties of gravel, sand, or stone. However, such contracts and permits may be approved only if the material is not within a designated wilderness area and is to be used for the construction and maintenance of roads and other facilities within the SRNRA or the four excluded areas identified by the Act.

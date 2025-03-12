@@ -1,0 +1,3 @@
+##### § 905.735-505 Confidentiality of statements. #####
+
+The Ethics Counselor shall hold in confidence each statement of employment and financial interests, and each supplementary statement within his control. Access to or disclosure of information contained in these statements shall not be allowed, except as the Commission or the Ethics Counselor determine for good cause shown, consistent with the Privacy Act of 1974 (5 U.S.C. 552a), and the regulations and pertinent notices of systems of records prepared by the Civil Service Commission and the Corporation in accordance with that Act.

@@ -1,0 +1,3 @@
+##### § 1228.10 When do loans of permanent and unscheduled records require NARA approval? #####
+
+Loans of permanent or unscheduled records between Federal agencies or to non-Federal recipients require prior written approval from NARA. The loan of permanent or unscheduled records increases the likelihood of the records becoming lost, misplaced, or incorporated into other files. Agencies should consider reproducing or scanning the records in response to a loan request.

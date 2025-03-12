@@ -1,0 +1,5 @@
+##### § 1223.1 What are the authorities for Part 1223? #####
+
+(a) The authorities for this part are 44 U.S.C. 3101; Executive Orders 12656, Assignment of Emergency Preparedness Responsibilities, and 13231, Critical Infrastructure Protection in the Information Age; and National Security Presidential Directive (NSPD 51)/Homeland Security Presidential Directive (HSPD-20) or applicable successor directives. These authorities require the head of each agency to make and preserve records that contain adequate and proper documentation of the organization and to perform national security emergency preparedness functions.
+
+(b) These regulations are in conformance with guidance provided in Federal Continuity Directive (FCD) 1, Federal Executive Branch National Continuity Program and Requirements, and FCD 2, Federal Executive Branch Mission Essential Function and Primary Mission Essential Function Identification and Submission Process.

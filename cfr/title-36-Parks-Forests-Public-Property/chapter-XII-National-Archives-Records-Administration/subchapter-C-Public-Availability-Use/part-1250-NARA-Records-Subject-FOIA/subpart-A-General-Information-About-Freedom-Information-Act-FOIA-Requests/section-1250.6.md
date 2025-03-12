@@ -1,0 +1,12 @@
+##### § 1250.6 Does the FOIA apply to all of the records at NARA? #####
+
+No, the FOIA applies only to the records of the executive branch of the Federal Government and certain Presidential and Vice Presidential records:
+
+|                                      If you want access to . . .                                       |                                                          Then access is governed by . . .                                                          |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                (a) Records of executive branch agencies                                |                             This CFR part and parts 1254 through 1260 of this chapter. FOIA applies to these records.                              |
+|                     (b) Records of the Federal courts and judicial branch agencies                     |                                   Parts 1254 through 1260 of this chapter. FOIA does not apply to these records.                                   |
+|                        (c) Records of Congress and legislative branch agencies                         |                                   Parts 1254 through 1260 of this chapter. FOIA does not apply to these records.                                   |
+|     (d) Presidential records (created by Presidents and Vice Presidents holding office since 1981)     |This part and parts 1254 through 1270 of this chapter. FOIA applies to these records five years after the President and Vice President leave office.|
+|(e) Documents created by Presidents holding office before 1981 and housed in a NARA Presidential library|      The deed of gift under which they were given to NARA. These documents are not agency records and FOIA does not apply to these materials.      |
+|                                    (f) Nixon Presidential materials                                    |                                         Part 1275 of this chapter. FOIA does not apply to these materials.                                         |

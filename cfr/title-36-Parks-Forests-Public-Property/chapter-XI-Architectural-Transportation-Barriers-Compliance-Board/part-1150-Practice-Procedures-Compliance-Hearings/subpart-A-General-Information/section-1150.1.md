@@ -1,0 +1,3 @@
+##### § 1150.1 Purpose. #####
+
+*Purpose.* The purpose of the regulations in this part is to implement section 502(b)(1) of the Rehabilitation Act of 1973, Pub. L. 93-112, 29 U.S.C. 792, *as amended by* the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, Pub. L. 95-602, section 118, 92 Stat. 2979, by establishing rules of procedure for public hearings which ensure compliance with standards issued under the Architectural Barriers Act of 1968, Pub. L. 90-480, as amended, 42 U.S.C. 4151 *et seq.* (including standards of the U.S. Postal Service).

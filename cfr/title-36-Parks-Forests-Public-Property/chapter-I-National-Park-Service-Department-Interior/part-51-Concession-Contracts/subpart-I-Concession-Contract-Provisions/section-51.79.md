@@ -1,0 +1,3 @@
+##### § 51.79 May the Director waive payment of a franchise fee or other payments? #####
+
+The Director may not waive the concessioner's payment of a franchise fee or other payments or consideration required by a concession contract, except that a franchise fee may be waived in part by the Director pursuant to administrative guidelines that may allow for a partial franchise fee waiver in recognition of exceptional performance by a concessioner under the terms of a concession contract. A concessioner will have no right to require the partial waiver of a franchise fee under this authority or under any related administrative guidelines.

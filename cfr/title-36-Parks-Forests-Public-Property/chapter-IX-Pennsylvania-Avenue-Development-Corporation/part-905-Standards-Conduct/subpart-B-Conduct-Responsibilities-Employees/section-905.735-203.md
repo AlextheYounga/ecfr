@@ -1,0 +1,3 @@
+##### § 905.735-203 Outside employment and other activity. #####
+
+As provided in 5 CFR 735.203, an employee of the Corporation may engage in outside employment or other outside activity not incompatible with the full and proper discharge of the duties and responsibilities of his Government employment. An employee who proposes to engage in outside employment shall report that fact in writing to his supervisor prior to undertaking such employment.

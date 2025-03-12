@@ -1,0 +1,3 @@
+##### § 12.4 Special events and demonstrations. #####
+
+Conducting a special event or demonstration, whether spontaneous or organized, is prohibited except for official commemorative events conducted for Memorial Day, Veterans Day and other dates designated by the superintendent as having special historic and commemorative significance to a particular national cemetery. Committal services are excluded from this restriction.

@@ -1,0 +1,3 @@
+##### § 73.1 Purpose. #####
+
+The purpose of these rules is to set forth the policies and procedures that the Department of the Interior, through the National Park Service (NPS), uses to direct and coordinate U.S. participation in the Convention Concerning the Protection of the World Cultural and Natural Heritage, which was ratified by the Senate on October 26, 1973. The rules describe the procedures used to implement the Convention under the National Historic Preservation Act Amendments of 1980. The purpose of the World Heritage Convention is to enhance worldwide understanding and appreciation of heritage conservation, and to recognize and preserve natural and cultural properties throughout the world that have outstanding universal value to mankind.

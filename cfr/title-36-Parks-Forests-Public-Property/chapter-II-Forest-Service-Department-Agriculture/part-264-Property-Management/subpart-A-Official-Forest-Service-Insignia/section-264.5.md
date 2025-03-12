@@ -1,0 +1,3 @@
+##### § 264.5 Power to revoke. #####
+
+All authorities and licenses granted under this subpart shall be subject to cancellation by the Chief at any time the Chief finds that the use involved is offensive to decency and good taste or injurious to the image of the Forest Service. The Chief may also revoke any license or authorization when there is a failure to comply with the terms and conditions of the license or authorization.

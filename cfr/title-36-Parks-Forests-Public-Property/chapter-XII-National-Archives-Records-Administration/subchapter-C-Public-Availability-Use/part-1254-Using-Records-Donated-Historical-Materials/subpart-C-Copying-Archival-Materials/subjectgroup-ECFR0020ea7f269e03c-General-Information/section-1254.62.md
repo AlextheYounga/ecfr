@@ -1,0 +1,3 @@
+##### § 1254.62 Does NARA have archival materials protected by copyright? #####
+
+Yes, although many of our holdings are in the public domain as products of employees or agents of the Federal Government, some records and donated historical materials do have copyright protection. Particularly in the case of some special media records, Federal agencies may have obtained materials from private commercial sources, and these may carry publication restrictions in addition to copyright protection. Presidential records may also contain copyrighted materials. You are responsible for obtaining any necessary permission for use, copying, and publication from copyright holders and for any other applicable provisions of the Copyright Act (Title 17, United States Code).

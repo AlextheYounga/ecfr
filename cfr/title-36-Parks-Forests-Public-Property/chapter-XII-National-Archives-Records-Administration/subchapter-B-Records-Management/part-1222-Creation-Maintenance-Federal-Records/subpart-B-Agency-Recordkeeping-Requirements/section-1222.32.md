@@ -1,0 +1,15 @@
+##### § 1222.32 How do agencies manage records created or received by contractors? #####
+
+(a) Agency officials responsible for administering contracts must safeguard records created, processed, or in the possession of a contractor or a non-Federal entity by taking the following steps:
+
+(1) Agencies must ensure that contractors performing Federal government agency functions create and maintain records that document these activities. Agencies must specify in the contract Government ownership and the delivery to the Government of all records necessary for the adequate and proper documentation of contractor-operated agency activities and programs in accordance with requirements of the Federal Acquisition Regulation (FAR) (Office of Federal Procurement Policy Act of 1974 (Pub. L. 93-400), as amended by Pub. L. 96-83 41 U.S.C.), and, where applicable, the Defense Federal Acquisition Regulation Supplement (DFARS) (48 CFR parts 200-299).
+
+(2) Records management oversight of contract records is necessary to ensure that all recordkeeping needs are met. All records created for Government use and delivered to, or under the legal control of, the Government must be managed in accordance with Federal law. In addition, electronic records and background electronic data specified for delivery to the contracting agency must be accompanied by sufficient technical documentation to permit understanding and use of the records and data.
+
+(3) Contracts that require the creation of data for the Government's use must specify, in addition to the final product, delivery of background supporting data or other records that may have reuse value to the Government. To determine what background supporting data or other records that contractors must deliver, program and contracting officials must consult with agency records and information managers and historians and, when appropriate, with other Government agencies to ensure that all Government needs are met, especially when the data deliverables support a new agency mission or a new Government program.
+
+(4) Deferred ordering and delivery-of-data clauses and rights-in-data clauses must be included in contracts whenever necessary to ensure adequate and proper documentation or because the data have reuse value to the Government.
+
+(b) All data created for Government use and delivered to, or falling under the legal control of, the Government are Federal records subject to the provisions of 44 U.S.C. chapters 21, 29, 31, and 33, the Freedom of Information Act (FOIA) (5 U.S.C. 552), as amended, and the Privacy Act of 1974 (5 U.S.C. 552a), as amended, and must be managed and scheduled for disposition only as provided in Subchapter B.
+
+(c) Agencies must ensure that appropriate authority for retention of classified materials has been granted to contractors or non-Government entities participating in the National Industrial Security Program (NISP), established under Executive order 12829, as amended, or a successor Order.

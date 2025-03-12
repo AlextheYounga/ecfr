@@ -1,0 +1,13 @@
+##### § 1238.10 What are the format standards for microfilming records? #####
+
+The following formats must be used when microfilming records:
+
+(a) *Roll film*—(1) *Source documents.* The formats described in ANSI/AIIM MS14 (incorporated by reference, see § 1238.5) must be used for microfilming source documents on 16mm and 35mm roll film. A reduction ratio no greater than 1:24 is recommended for correspondence or similar typewritten documents. Use ANSI/AIIM MS23 (incorporated by reference, see § 1238.5) for the appropriate reduction ratio and format for meeting image quality requirements. When microfilming on 35mm film for aperture card applications, the format dimensions in ANSI/AIIM MS32 (incorporated by reference, see § 1238.5), Table 1 must be used, and the aperture card format “D Aperture” shown in ANSI/AIIM MS41 (incorporated by reference, see § 1238.5), Figure 1, must be used. The components of the aperture card, including the paper and adhesive, must conform to the requirements of ANSI/PIMA IT9.2 (incorporated by reference, see § 1238.5). The 35mm film used in the aperture card application must conform to film designated as LE 500 in ISO 18901 (incorporated by reference, see § 1238.5).
+
+(2) *COM.* Microfilm created using computer output microfilm (COM) technology must use the simplex mode described in ANSI/AIIM MS14 (incorporated by reference, see § 1238.5) at an effective ratio of 1:24 or 1:48 depending upon the application.
+
+(b) *Microfiche.* When creating microfiche, either by microfilming source documents or using COM technology, the formats and reduction ratios prescribed in ANSI/AIIM MS5 (incorporated by reference, see § 1238.5) must be used as specified for the size and quality of the documents being filmed. Use ANSI/AIIM MS23 (incorporated by reference, see § 1238.5) for determining the appropriate reduction ratio and format for meeting the image quality requirements.
+
+(c) *Index placement*—(1) *Source documents.* When microfilming source documents, place indexes, registers, or other finding aids, if microfilmed, either in the first frames of the first roll of film or in the last frames of the last roll of film of a series. For microfiche, place the indexes in the last frames of the last microfiche or microfilm jacket of a series.
+
+(2) *COM.* Place indexes on COM following the data on a roll of film, in the last frames of a single microfiche, or in the last frames of the last fiche in a series. Other locations for indexes may be used only if dictated by special system constraints.

@@ -1,0 +1,3 @@
+##### § 64.14 Project inspections. #####
+
+All State and local projects will receive a final inspection by the Bureau. Final inspections will be conducted prior to final payment of Federal funds. Progress inspections will be conducted as deemed necessary by the Bureau. Preapproval inspections will also be conducted prior to project selection at the discretion of the appropriate Bureau Regional Office.

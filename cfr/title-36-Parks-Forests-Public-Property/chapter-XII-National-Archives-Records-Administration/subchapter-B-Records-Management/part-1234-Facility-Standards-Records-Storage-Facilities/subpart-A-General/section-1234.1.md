@@ -1,0 +1,3 @@
+##### § 1234.1 What authorities apply to part 1234? #####
+
+NARA is authorized to establish, maintain and operate records centers for Federal agencies under 44 U.S.C. 2907. NARA is authorized, under 44 U.S.C. 3103, to approve a records center that is maintained and operated by an agency. NARA is also authorized to promulgate standards, procedures, and guidelines to Federal agencies with respect to the storage of their records in commercial records storage facilities. See 44 U.S.C. 2104(a), 2904, and 3102. The regulations in this subpart apply to all records storage facilities Federal agencies use to store, service, and dispose of their records.

@@ -1,0 +1,3 @@
+##### § 1222.3 What standards are used as guidance for this part? #####
+
+These regulations conform with guidance provided in ISO 15489-1:2001, Information and documentation—Records management. Paragraphs 7.1 (Principles of records management programmes), 7.2 (Characteristics of a record), 8.3.5 (Conversion and migration), 8.3.6 (Access, retrieval and use), and 9.6 (Storage and handling) apply to records creation and maintenance.

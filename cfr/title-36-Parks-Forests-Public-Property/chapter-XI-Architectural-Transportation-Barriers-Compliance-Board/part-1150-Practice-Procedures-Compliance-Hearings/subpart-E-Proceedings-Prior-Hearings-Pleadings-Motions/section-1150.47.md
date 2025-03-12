@@ -1,0 +1,3 @@
+##### § 1150.47 Disposition of motions and petitions. #####
+
+The judge may not sustain or grant a written motion or petition prior to expiration of the time for filing responses, but may overrule or deny such motion or petition without awaiting response, *Providing however,* That prehearing conferences, hearings, and decisions need not be delayed pending disposition of motions or petitions. All motions and petitions may be ruled upon immediately after reply. Motions and petitions not disposed of in separate rulings or in decisions will be deemed denied.

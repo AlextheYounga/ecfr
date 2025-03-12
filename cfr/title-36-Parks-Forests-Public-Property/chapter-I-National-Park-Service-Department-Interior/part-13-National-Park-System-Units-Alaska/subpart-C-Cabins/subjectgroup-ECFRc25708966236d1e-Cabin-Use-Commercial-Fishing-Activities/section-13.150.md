@@ -1,0 +1,3 @@
+##### § 13.150 Use for authorized commercial fishing activities. #####
+
+The use of a campsite, cabin or other structure in conjunction with commercial fishing activities authorized by section 205 of ANILCA in Cape Krusenstern National Monument, the Malaspina Glacier Forelands area of Wrangell-Saint Elias National Preserve, and the Dry Bay area of Glacier Bay National Preserve is authorized pursuant to the provisions of § 13.40(c) of this chapter and the terms of a permit issued by the Superintendent.

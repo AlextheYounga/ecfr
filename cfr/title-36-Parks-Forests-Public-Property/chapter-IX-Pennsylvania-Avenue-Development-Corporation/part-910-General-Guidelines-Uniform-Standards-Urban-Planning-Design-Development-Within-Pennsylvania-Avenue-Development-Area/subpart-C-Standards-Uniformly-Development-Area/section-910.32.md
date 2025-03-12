@@ -1,0 +1,3 @@
+##### § 910.32 Historic preservation. #####
+
+*Rehabilitation* of buildings within the Development Area, which, according to *the Plan* and the Historic Preservation Plan of the Corporation, are specified for preservation, shall be acomplished (a) in accordance with the Secretary of the Interior's “Standards for Historic Preservation Projects”: (36 CFR part 68), and (b) consultation with the State Historic Preservation Officer for the District of Columbia.

@@ -1,0 +1,3 @@
+##### § 1193.37 Information pass through. #####
+
+Telecommunications equipment and customer premises equipment shall pass through cross-manufacturer, non-proprietary, industry-standard codes, translation protocols, formats or other information necessary to provide telecommunications in an accessible format. In particular, signal compression technologies shall not remove information needed for access or shall restore it upon decompression.

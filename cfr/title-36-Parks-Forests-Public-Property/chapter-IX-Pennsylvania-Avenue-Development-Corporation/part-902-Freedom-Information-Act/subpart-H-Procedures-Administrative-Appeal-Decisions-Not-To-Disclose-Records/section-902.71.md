@@ -1,0 +1,3 @@
+##### § 902.71 Forms for appeal. #####
+
+Although no particular written form is prescribed for on appeal, the letter or similar written statement appealing a denial of a record shall contain a description of the record requested, the name and position of the official who denied the request, the reason(s) given for the denial, and other pertinent facts and statements deemed appropriate by the appellant. The Corporation may request additional details if the information submitted is insufficient to support an appeal.

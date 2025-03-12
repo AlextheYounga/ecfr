@@ -1,0 +1,3 @@
+##### § 251.113 Instrument of authorization. #####
+
+To grant authority to construct and/or use facilities and structures on National Forest System lands for access to non-Federal lands, the authorized officer shall issue a special-use authorization in conformance with the provisions of subpart B of this part or a road-use permit. In cases where Road Rights-of-way Construction And Use Agreements are in effect, the authorized officer may grant an easement in accordance with the provisions of part 212 of this chapter.

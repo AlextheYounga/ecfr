@@ -1,0 +1,3 @@
+##### § 223.37 Revegetation of temporary roads. #####
+
+Timber sale contracts, permits and other documents authorizing the cutting or removal of timber or forest products shall require the purchaser to treat temporary roads constructed or used thereunder so as to permit the reestablishment by artificial or natural means, or vegetative cover on the roadway and areas where the vegetative cover was disturbed by the construction or use of the road, as necessary to minimize erosion from the disturbed area. Such treatment shall be designed to reestablish vegetative cover as soon as practicable, but at least within 10 years after the termination of the contract.

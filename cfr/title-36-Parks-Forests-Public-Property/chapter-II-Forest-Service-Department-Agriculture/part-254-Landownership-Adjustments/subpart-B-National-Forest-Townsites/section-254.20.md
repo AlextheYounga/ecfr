@@ -1,0 +1,5 @@
+##### § 254.20 Purpose and scope. #####
+
+(a) A Forest Service official may, upon application, set aside and designate for townsite purposes up to 640 acres of National Forest System lands adjacent to or contiguous to an established community in Alaska, Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
+
+(b) National Forest System lands, needed by a community, may be sold under the Townsite Act, for fair market value if those lands would serve indigenous community objectives that outweigh the public objectives and values of retaining the lands in Federal ownership. Indigenous community objectives may include space for housing and for service industries, expansion of existing economic enterprises, new industries utilizing local resources and skills, public schools, public health facilities, community parks, and other recreation areas for local citizens, but would exclude such uses as commercial enterprises or new industries and housing projects that would change the character of the local community.

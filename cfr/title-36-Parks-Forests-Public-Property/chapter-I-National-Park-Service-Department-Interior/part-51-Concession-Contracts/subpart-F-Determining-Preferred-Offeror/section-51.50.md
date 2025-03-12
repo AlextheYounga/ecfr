@@ -1,0 +1,3 @@
+##### § 51.50 Does the existence of a preferred offeror limit the authority of the Director to establish the terms of a concession contract? #####
+
+The existence of a preferred offeror does not limit the authority of the Director to establish, in accordance with this part, the terms and conditions of a new concession contract, including, but not limited to, terms and conditions that modify the terms and conditions of a prior concession contract.

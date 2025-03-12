@@ -1,0 +1,5 @@
+##### § 14.29 Timely construction. #####
+
+(a) Unless otherwise provided by law, a period of up to five years from the date a right-of-way is granted is allowed for completion of construction. Within 90 days after completion of construction or after all restoration stipulations have been complied with, whichever is later, proof of construction, on forms approved by the Director, shall be submitted to the authorized officer.
+
+(b) The time for filing proof of construction may be extended by the authorized officer, unless prohibited by law, upon a satisfactory showing of the need therefor and the filing of a progress report, demonstrating that due diligence toward completion of the project is being exercised, for reasonable lengths of time not to exceed a total of ten years from the date of issuance of the right-of-way.

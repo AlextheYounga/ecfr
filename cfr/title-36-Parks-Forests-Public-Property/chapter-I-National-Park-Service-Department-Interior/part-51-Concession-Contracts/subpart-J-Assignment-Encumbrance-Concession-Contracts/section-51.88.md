@@ -1,0 +1,3 @@
+##### § 51.88 What happens if an assignment or encumbrance is completed without the approval of the Director? #####
+
+Assignments or encumbrances completed without the prior written approval of the Director will be considered as null and void and a material breach of the applicable concession contract which may result in termination of the contract for cause. No person will obtain any valid or enforceable rights in a concessioner, in a concession contract, or to operate or manage under a concession contract as a subconcessioner or otherwise, or to leasehold surrender interest or possessory interest, if acquired in violation of the requirements in this subpart.

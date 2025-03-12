@@ -1,0 +1,11 @@
+##### § 72.36 Land ownership, control and conversion. #####
+
+Section 1010 of the Act provides that no property improved or developed with assistance through the program shall, without the approval of the Director, be converted to other than public recreation use. Therefore, any applicant or sub-grantee must demonstrate, at the time of grant approval, that it has adequate tenure and control of the land or facilities for which UPARR assistance is proposed, either through outright ownership or lease.
+
+(a) Lands or facilities that are not under adequate tenure or control will not be considered for UPARR assistance. If the land is not owned by the applicant or sub-grantee, then a non-revocable lease of at least 25 years, or a non-revocable lease providing ample time to amortize the total costs of the proposed activity, must be in effect at the time of grant approval. The lease cannot be revocable at will be the lessor. The costs of acquisition or leasing of land or facilities are not eligible for assistance under the provisions of the Act, section 1014.
+
+(b) The conversion or replacement of properties assisted through UPARR to non-recreation use must be in accord with the current local Recovery Action Program, and approved by the Director. Requests for permission to convert UPARR-assisted properties must be submitted to the Director in writing. The replacement property must assure the provision of adequate recreation properties and opportunities of reasonable equivalent location and recreation usefulness. For leased property which is developed or improved with UPARR funds, the grantee, as a condition of the receipt of these funds, must specify in a manner agreed to by the Director, in advance of the conversion, how the converted property will be replaced once the lease expires.
+
+(c) UPARR Program funds may be used to rehabilitate facilities built or develop with LWCF assistance only after a determination is made by NPS that the facility has been maintained in accordance with the LWCF Program.
+
+(d) Applicants must certify that any property acquired after January 2, 1971, and to be improved or enhanced by UPARR assistance, was acquired in conformance with Pub. L. 91-646, the Uniform Relocation and Land Acquisition Policies Act (See 41 CFR parts 114-50).

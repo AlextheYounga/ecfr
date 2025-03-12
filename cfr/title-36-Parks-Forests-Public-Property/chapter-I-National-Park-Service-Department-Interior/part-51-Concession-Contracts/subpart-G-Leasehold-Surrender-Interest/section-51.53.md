@@ -1,0 +1,3 @@
+##### § 51.53 When may the Director authorize the construction of a capital improvement? #####
+
+The Director may only authorize or require a concessioner to construct capital improvements on park lands in accordance with this part and under the terms and conditions of a leasehold surrender interest concession contract for the conduct by the concessioner of visitor services, including, without limitation, the construction of capital improvements necessary for the conduct of visitor services.

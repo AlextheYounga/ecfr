@@ -1,0 +1,3 @@
+##### § 218.4 Proposed projects and activities not subject to objection. #####
+
+Proposed projects and activities are not subject to objection when no timely, specific written comments regarding the proposed project or activity (see § 218.2) are received during any designated opportunity for public comment (see § 218.5(a)). The responsible official must issue a statement in the Record of Decision or Decision Notice that the project or activity was not subject to objection.

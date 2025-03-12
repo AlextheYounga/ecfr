@@ -1,0 +1,3 @@
+##### § 1011.14 How will the Presidio Trust report debts to credit bureaus? #####
+
+The Presidio Trust will report delinquent debts to credit bureaus in accordance with the provisions of 31 U.S.C. 3711(e) and the FCCS. At least 60 days prior to reporting a delinquent debt to a consumer reporting agency, the Presidio Trust will send notice to the debtor in accordance with the requirements of § 1011.4 of this part. The Presidio Trust may authorize the FMS to report to credit bureaus those delinquent debts that have been transferred to the FMS under § 1011.9 of this part.

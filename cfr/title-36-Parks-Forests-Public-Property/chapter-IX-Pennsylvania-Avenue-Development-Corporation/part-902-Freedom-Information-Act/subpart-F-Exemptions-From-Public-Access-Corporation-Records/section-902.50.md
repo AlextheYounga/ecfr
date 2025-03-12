@@ -1,0 +1,5 @@
+##### § 902.50 Applicability. #####
+
+(a) This subpart implements section 552(b) of title 5 U.S.C., which exempts certain records from public inspection under section 552(a). This subpart applies to records requested under subparts D and E of this part. The Corporation may, however, release a record authorized to be withheld under §§ 902.52 through 902.59 unless it determines that the release of that record would be inconsistent with a purpose of the aforementioned sections. Examples given in §§ 902.52 through 902.59 of records included within a particular statutory exemption are not necessarily illustrative of all types of records covered by the exemption. Any reasonably segregable portion of a record withheld under this subpart shall be provided to a requester, after deletion of the portions which are exempt under this subpart.
+
+(b) This subpart does not authorize withholding of information or limit the availability of records to the public, except as specifically stated. This subpart is not authority to withhold information from Congress.

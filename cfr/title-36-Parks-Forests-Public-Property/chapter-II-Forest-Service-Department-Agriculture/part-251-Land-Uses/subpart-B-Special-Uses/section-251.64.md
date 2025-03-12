@@ -1,0 +1,7 @@
+##### § 251.64 Renewals. #####
+
+(a) When a special use authorization provides for renewal, the authorized officer shall renew it where such renewal is authorized by law, if the project or facility is still being used for the purpose(s) previously authorized and is being operated and maintained in accordance with all the provisions of the authorization. In making such renewal, the authorized officer may modify the terms, conditions, and special stipulations to reflect any new requirements imposed by current Federal and State land use plans, laws, regulations or other management decisions. Special uses may be reauthorized upon expiration so long as such use remains consistent with the decision that approved the expiring special use or group of uses. If significant new information or circumstances have developed, appropriate environmental analysis must accompany the decision to reauthorize the special use.
+
+(b) When a special use authorization does not provide for renewal, it is discretionary with the authorized officer, upon request from the holder and prior to its expiration, whether or not the authorization shall be renewed. A renewal pursuant to this section shall comply with the same provisions contained in paragraph (a) of this section.
+
+[45 FR 38327, June 6, 1980, as amended at 63 FR 65968, Nov. 30, 1998]

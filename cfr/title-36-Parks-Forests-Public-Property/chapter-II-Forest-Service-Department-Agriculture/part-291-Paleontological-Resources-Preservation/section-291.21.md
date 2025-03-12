@@ -1,0 +1,3 @@
+##### § 291.21 Curation of paleontological resources. #####
+
+Collections from National Forest System lands made under a permit issued according to this Part will be deposited in an approved repository. The curation of paleontological resources collected from National Forest System lands before the effective date of these regulations is covered under the terms of the original collection permit and/or agreement. Such collections remain Federal property unless otherwise transferred or disposed of in a Forest Service agreement.

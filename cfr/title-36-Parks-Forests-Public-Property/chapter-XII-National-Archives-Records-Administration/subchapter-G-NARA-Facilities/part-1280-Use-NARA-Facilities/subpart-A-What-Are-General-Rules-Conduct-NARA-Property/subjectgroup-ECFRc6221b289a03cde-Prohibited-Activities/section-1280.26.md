@@ -1,0 +1,3 @@
+##### § 1280.26 May I pass out fliers on NARA property? #####
+
+No, you may not distribute or post handbills, fliers, pamphlets or other materials on bulletin boards or elsewhere on NARA property, except in those spaces designated by NARA as public forums. This prohibition does not apply to displays or notices distributed as part of authorized Government activities or bulletin boards used by employees to post personal notices.

@@ -1,0 +1,3 @@
+##### § 13.1406 State lands. #####
+
+The National Park Service administers certain state-owned lands and waters within the boundary of Klondike Gold Rush National Historical Park under a memorandum of understanding with the State of Alaska. The prohibition on carrying, possession, and use of weapons, traps, and nets in this chapter does not apply to the lawful taking of wildlife on these State-owned lands and waters.

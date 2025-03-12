@@ -1,0 +1,3 @@
+##### § 14.51 Extent of grant. #####
+
+By decision of the Secretary, Nevada Department of Highways, A.24151, September 1945, it was held that the law imports discretion and indicates no intent to vest in the State a right at the end of the four months' period without further action by the Department having jurisdiction. It was held further that the interest transferred under the statute is merely a right-of-way or right to take materials and that the Government may reserve the right to dispose of leasable minerals.

@@ -1,0 +1,3 @@
+##### § 51.52 How do I obtain a leasehold surrender interest? #####
+
+Leasehold surrender interest concession contracts will contain appropriate leasehold surrender interest terms and conditions consistent with this part. A concessioner will obtain leasehold surrender interest in capital improvements constructed in accordance with this part and the leasehold surrender interest terms and conditions of an applicable leasehold surrender interest concession contract.

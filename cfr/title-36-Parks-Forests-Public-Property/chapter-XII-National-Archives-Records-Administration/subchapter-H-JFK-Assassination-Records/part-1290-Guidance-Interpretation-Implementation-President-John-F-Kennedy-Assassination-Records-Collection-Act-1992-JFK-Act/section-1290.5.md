@@ -1,0 +1,3 @@
+##### § 1290.5 Requirement that assassination records be released in their entirety. #####
+
+An assassination record shall be released in its entirety except for portions specifically postponed pursuant to the grounds for postponement of public disclosure of records established in § 2107.6 of the JFK Act, and no portion of any assassination record shall be withheld from public disclosure solely on grounds of non-relevance unless, in the Review Board's sole discretion, release of part of a record is sufficient to comply with the intent and purposes of the JFK Act.

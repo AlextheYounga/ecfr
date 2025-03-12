@@ -1,0 +1,5 @@
+##### § 1238.20 How must microform records be stored? #####
+
+(a) *Permanent and unscheduled records.* Agencies must store permanent and unscheduled microform records under the extended term storage conditions specified in ISO 18911 and ANSI/PIMA IT9.2 (both incorporated by reference, see § 1238.5), except that the relative humidity of the storage area must be a constant 35 percent RH, plus or minus 5 percent. Non-silver copies of microforms must be maintained in a different storage area than are silver gelatin originals or duplicate copies).
+
+(b) *Temporary records.* Agencies must store temporary microform records under conditions that will ensure their preservation for their authorized retention period. NARA suggests that agencies may consult Life Expectance (LE) guidelines in ISO 18901 (incorporated by reference, see § 1238.5).

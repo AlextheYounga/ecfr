@@ -1,0 +1,5 @@
+##### § 902.42 Request for records of concern to more than one government organization. #####
+
+(a) If the release of a record covered by this subpart would be of concern to both the Corporation and another Federal agency, the record will be made available only after consultation with the other agency concerned. Records of another agency in the Corporation's possession will not be disclosed without the approval of the other agency.
+
+(b) If the release of a record covered by this subpart would be of concern to both the Corporation and to a foreign, state or local government, the record will be made available by the Corporation only after consultation with the other interested foreign state or local government. Records of a foreign, state or local government will not be disclosed without the approval of the government concerned.

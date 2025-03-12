@@ -1,0 +1,5 @@
+##### § 297.6 Environmental analysis requirements. #####
+
+(a) The determination of the effects of a proposed water resources project shall be made in compliance with the National Environmental Policy Act (NEPA). To the extent possible, authorizing agencies should ensure that any environmental studies, assessments, or environmental impact statements prepared for a water resources project adequately address the environmental effects on resources protected by the Wild and Scenic Rivers Act, and that the Department of Agriculture is apprised of ongoing analyses so as to facilitate coordination and identification of Wild and Scenic River related issues.
+
+(b) To the extent practicable, impacts on Wild and Scenic River values will be considered in the context of other review procedures provided by law. Authorizing agencies are encouraged to consult with the Forest Service in order to identify measures which could eliminate any direct and adverse effects, thereby increasing the likelihood of securing consent.

@@ -1,0 +1,3 @@
+##### § 71.14 Public notification. #####
+
+The administering bureaus shall notify the public of the specific Federal recreation fees which will be charged at areas and for facilities and uses under their jurisdiction. Such notification shall be accomplished by the posting of fee information in accordance with § 71.4 and the inclusion of such information in publications distributed at each area or facility. Public announcements, press releases and any other suitable means may also be used to provide such notification.

@@ -1,0 +1,3 @@
+##### § 294.16 State-specific rulemaking. #####
+
+If the Secretary or the Secretary's designee accepts a petition, the Forest Service shall be directed to initiate notice and comment rulemaking to address the petition. The Forest Service shall coordinate development of the proposed rule with the petitioner. The Secretary or the Secretary's designee shall make the final decision for any State-specific inventoried roadless area management rule.

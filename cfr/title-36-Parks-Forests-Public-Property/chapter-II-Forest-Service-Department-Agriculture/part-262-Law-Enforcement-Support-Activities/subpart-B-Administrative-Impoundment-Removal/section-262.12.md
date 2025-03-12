@@ -1,0 +1,13 @@
+##### § 262.12 Impoundment of property. #####
+
+(a) Automobiles or other vehicles, trailers, boats, and camping equipment and other inanimate personal property on National Forest System lands without the authorization of a Forest officer which are not removed therefrom within the prescribed period after a warning notice as provided in this regulation may be impounded by a Forest officer. Whenever such Forest officer knows the name and address of the owner, such impoundment may be effected at any time five days after the date that written notice of the trespass is mailed by registered mail or delivered to such owner.
+
+(b) If the local Forest Officer does not know the name and address of the owner of property in trespass, impoundment may be effected at any time 72 hours after a notice of intention to impound the property in trespass is posted in at least one place in the vicinity of the property.
+
+(c) Personal property impounded under this regulation may be disposed of at the expiration of 90-days after the date of impoundment. The owner may redeem the personal property within the 90-day period by submitting proof of ownership and paying all expenses incurred by the United States in advertising, gathering, moving, impounding, storing, and otherwise caring for the property, and also for the value of the use of the site occupied during the period of the trespass.
+
+(d) The owner of impounded property may redeem it by the date set for its disposition, but shall remain liable for all costs associated with its impoundment, removal, transportation, and storage. Impounded property that is not redeemed by the date set for its disposition shall become the property of the United States and may be retained by the Forest Service for official use, sold at public sale to the highest bidder, or otherwise disposed of. When impounded property is sold, the forest officer conducting the sale shall furnish the purchaser with a bill of sale or other written instrument evidencing the sale. The original owner shall remain liable for all costs associated with impoundment, removal, transportation, and storage of the property, minus any amount received from the sale of the property.
+
+(e) The provisions of this section shall not apply to the impoundment or disposal of beached logs in Alaska if deemed abandoned under State law.
+
+[42 FR 2961, Jan. 14, 1977, as amended at 46 FR 33521, June 30, 1981. Redesignated at 48 FR 26604, June 9, 1983; 79 FR 44296, July 31, 2014]

@@ -1,0 +1,5 @@
+##### § 1256.24 How long may access to some records be denied? #####
+
+(a) Although many records are open for research, some records are closed for long periods, either under our general restrictions, described in subpart D of this part, or another governing authority. For example, in accordance with 44 U.S.C. 2108(b), we do not grant access to restricted census and survey records of the Bureau of the Census less than 72 years old containing data identifying individuals enumerated in population censuses.
+
+(b) Screening records takes time. We screen records as soon as possible and can often make most of the records in which you are interested available. In the case of electronic structured databases, NARA can make a copy of records with restricted information masked. In response to FOIA requests for records in other media, we make a copy of the record available if we can mask or “redact” restricted information.

@@ -1,0 +1,3 @@
+##### § 1237.14 What are the additional scheduling requirements for audiovisual, cartographic, and related records? #####
+
+The disposition instructions should also provide that permanent records be transferred to the National Archives of the United States within 5-10 years after creation (see also 36 CFR part 1235). See § 1235.42 of this subchapter for specifications and standards for transfer to the National Archives of the United States of audiovisual, cartographic, and related records.

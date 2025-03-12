@@ -1,0 +1,3 @@
+##### § 228.2 Scope. #####
+
+These regulations apply to operations hereafter conducted under the United States mining laws of May 10, 1872, as amended (30 U.S.C. 22 *et seq.*), as they affect surface resources on all National Forest System lands under the jurisdiction of the Secretary of Agriculture to which such laws are applicable: *Provided, however,* That any area of National Forest lands covered by a special Act of Congress (16 U.S.C. 482a-482q) is subject to the provisions of this part and the provisions of the special act, and in the case of conflict the provisions of the special act shall apply.

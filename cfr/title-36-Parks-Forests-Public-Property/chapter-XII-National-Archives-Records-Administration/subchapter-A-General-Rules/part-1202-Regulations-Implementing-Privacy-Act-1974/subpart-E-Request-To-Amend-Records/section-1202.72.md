@@ -1,0 +1,5 @@
+##### § 1202.72 How does NARA handle requests to amend records? #####
+
+(a) NARA will acknowledge receipt of a request to amend a record within 10 workdays. If possible, the acknowledgment will include the system manager's determination either to amend the record or to deny your request to amend as provided in § 1202.76.
+
+(b) When reviewing a record in response to your request to amend, the system manager will assess the accuracy, relevance, timeliness, and completeness of the existing record in light of your proposed amendment to determine if your request to amend is justified. If you request the deletion of information, the system manager also will review your request and the existing record to determine whether the information is relevant and necessary to accomplish NARA's purpose, as required by law or Executive order.

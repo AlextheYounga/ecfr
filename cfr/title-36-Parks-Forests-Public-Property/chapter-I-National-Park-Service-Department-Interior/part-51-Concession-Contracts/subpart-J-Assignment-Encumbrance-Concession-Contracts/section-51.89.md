@@ -1,0 +1,3 @@
+##### § 51.89 What happens if there is a default on an encumbrance approved by the Director? #####
+
+In the event of default on an encumbrance approved by the Director in accordance with this part, the creditor, or an assignee of the creditor, may succeed to the interests of the concessioner only to the extent provided by the approved encumbrance, this part and the terms and conditions of the applicable concession contract.

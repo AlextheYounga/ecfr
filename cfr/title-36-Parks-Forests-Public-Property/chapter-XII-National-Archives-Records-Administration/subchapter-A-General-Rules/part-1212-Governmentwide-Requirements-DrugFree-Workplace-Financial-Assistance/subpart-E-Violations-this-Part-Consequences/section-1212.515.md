@@ -1,0 +1,3 @@
+##### § 1212.515 Are there any exceptions to those actions? #####
+
+The Archivist of the United States or designee may waive with respect to a particular award, in writing, a suspension of payments under an award, suspension or termination of an award, or suspension or debarment of a recipient if the Archivist of the United States or designee determines that such a waiver would be in the public interest. This exception authority cannot be delegated to any other official.

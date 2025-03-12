@@ -1,0 +1,15 @@
+##### § 701.1 Information about the Library. #####
+
+(a) *Information about the Library.* It is the Library's policy to furnish freely information about the Library to the media. All requests from the media, for other than generally published information and Library records, should be referred to the Public Affairs Office. For information about access to, service of, and employment with the Library of Congress, go to *http://www.loc.gov.*
+
+(b) *Public Affairs Office.* The Public Affairs Office shall have the principal responsibility for responding to requests for information about the Library from representatives of the media; giving advice to Library officers and staff members on public-relations and public-information matters; keeping the Librarian and other officers informed of important developments in this field; and promoting the resources and activities of the Library.
+
+(1) During regular office hours (8:30 a.m. to 5 p.m.) telephone operators shall refer requests for information, from the media only, about the Library to the Public Affairs Office. All other requests for information shall be referred to the National Reference Service or other appropriate offices of the Library.
+
+(2) All other Library offices and staff members who receive inquiries directly from representatives of the media for information about the Library, other than generally published information, shall refer such inquiries to the Public Affairs Office.
+
+(3) The Public Affairs Office shall respond directly to inquiries concerning the Library, calling upon other offices to supply information to it as necessary, or shall arrange for other offices or staff members, as appropriate, to supply such information directly and report back to Public Affairs after the contact has been made. Requests for Library of Congress records, however, shall be made in accordance with 36 CFR part 703.
+
+(4) When the Public Affairs Office is closed (evenings, Saturdays, Sundays, and holidays), requests from the media for information about the Library shall be referred to the Public Affairs Officer at his/her home. In the event that person is not available, inquiries shall be referred to the Acting Public Affairs Officer, or, in turn, a designated public affairs specialist.
+
+(c) *Other Library Units and Staff Members.* All Other Library Units and Staff Members shall be responsible for keeping the Public Affairs Office fully and promptly informed of contacts with the press, except in those instances of routine reference inquiries; supplying the Public Affairs Office with any data it requires in order to respond to inquiries from representatives of the media; and reporting promptly to the Public Affairs Office substantive contacts with media representatives about the Library and its policies or activities.

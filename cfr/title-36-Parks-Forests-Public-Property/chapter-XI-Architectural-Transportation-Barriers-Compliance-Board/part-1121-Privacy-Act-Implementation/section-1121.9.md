@@ -1,0 +1,3 @@
+##### § 1121.9 Notification of dispute. #####
+
+In any disclosure pursuant to § 1121.10 containing information about which the individual has previously filed a statement of disagreement under § 1121.8, the Board shall clearly note any portion of the record which is disputed and provide copies of the statement and, if the Executive Director deems it appropriate, copies of a concise statement of the reasons of the Executive Director for not making the amendments requested.

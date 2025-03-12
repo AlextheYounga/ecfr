@@ -1,0 +1,3 @@
+##### § 8.2 Basis and purpose. #####
+
+The public using the national parks is better served when the employees of the concessioners enjoy the benefits of fair labor standards and when, in this respect, they are treated at least as well as those employed in similar occupations outside such areas, but within the same State. This principle is the basis of the regulations in this part and their purpose is its implementation.

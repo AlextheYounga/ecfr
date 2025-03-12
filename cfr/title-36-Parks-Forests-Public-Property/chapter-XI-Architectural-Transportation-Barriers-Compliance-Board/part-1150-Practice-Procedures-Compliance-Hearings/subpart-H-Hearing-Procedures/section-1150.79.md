@@ -1,0 +1,3 @@
+##### § 1150.79 Offer of proof. #####
+
+An offer of proof made in connection with an objection taken to a ruling of the judge rejecting or excluding proffered oral testimony shall consist of a statement of the substance of the evidence which counsel contends would be adduced by such testimony. If the excluded evidence consists of evidence in documentary or written form or refers to documents or records, a copy of the evidence shall be marked for identification and shall accompany the record as the offer of proof.

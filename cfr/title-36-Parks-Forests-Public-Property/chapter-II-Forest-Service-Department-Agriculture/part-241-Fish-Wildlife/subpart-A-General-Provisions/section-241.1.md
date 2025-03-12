@@ -1,0 +1,5 @@
+##### § 241.1 Cooperation in wildlife protection. #####
+
+(a) Officials of the Forest Service will cooperate with State, county, and Federal officials in the enforcement of all laws and regulations for the protection of wildlife.
+
+(b) Officials of the Forest Service who have been, or hereafter may be, lawfully appointed deputy game wardens under the laws of any State, will serve in such capacity with full power to enforce the State laws and regulations relating to fur-bearing and game animals, birds, and fish. Such officials will serve as State deputy game wardens without additional pay, except that they may accept the usual fees allowed by the respective States for issuing hunting and fishing licenses. All officials of the Forest Service are prohibited from accepting bounties, rewards, or parts of fines offered by any person, corporation or State for aid rendered in the enforcement of any Federal or State law relating to fur-bearing and game animals, birds, and fish.

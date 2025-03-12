@@ -1,0 +1,3 @@
+##### § 216.5 Documentation. #####
+
+The responsible Forest Service official shall document the results of the determination made pursuant to § 216.4(b), and the reasons therefor, in a concise written summary. The summary may be combined with documentation required by NEPA procedures or other applicable law or policy. The summary shall be prepared and filed at the same location as the Forest Service official responsible for developing the Manual directive.

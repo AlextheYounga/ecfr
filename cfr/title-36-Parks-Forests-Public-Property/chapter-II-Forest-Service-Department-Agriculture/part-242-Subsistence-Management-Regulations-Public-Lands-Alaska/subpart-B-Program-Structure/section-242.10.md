@@ -1,0 +1,83 @@
+##### § 242.10 Federal Subsistence Board. #####
+
+(a) The Secretary of the Interior and Secretary of Agriculture hereby establish a Federal Subsistence Board, and assign it responsibility for administering the subsistence taking and uses of fish and wildlife on public lands, and the related promulgation and signature authority for regulations of subparts C and D of this part. The Secretaries, however, retain their existing authority to restrict or eliminate hunting, fishing, or trapping activities which occur on lands or waters in Alaska other than public lands when such activities interfere with subsistence hunting, fishing, or trapping on the public lands to such an extent as to result in a failure to provide the subsistence priority.
+
+(b) *Membership.* (1) The voting members of the Board are: A Chair to be appointed by the Secretary of the Interior with the concurrence of the Secretary of Agriculture; two public members who possess personal knowledge of and direct experience with subsistence uses in rural Alaska to be appointed by the Secretary of the Interior with the concurrence of the Secretary of Agriculture; the Alaska Regional Director, U.S. Fish and Wildlife Service; Alaska Regional Director, National Park Service; Alaska Regional Forester, U.S. Forest Service; the Alaska State Director, Bureau of Land Management; and the Alaska Regional Director, Bureau of Indian Affairs. Each Federal agency member of the Board may appoint a designee.
+
+(2) [Reserved]
+
+(c) Liaisons to the Board are: a State liaison, and the Chairman of each Regional Council. The State liaison and the Chairman of each Regional Council may attend public sessions of all Board meetings and be actively involved as consultants to the Board.
+
+(d) *Powers and duties.* (1) The Board shall meet at least twice per year and at such other times as deemed necessary. Meetings shall occur at the call of the Chair, but any member may request a meeting.
+
+(2) A quorum consists of five members.
+
+(3) No action may be taken unless a majority of voting members are in agreement.
+
+(4) The Board is empowered, to the extent necessary, to implement Title VIII of ANILCA, to:
+
+(i) Issue regulations for the management of subsistence taking and uses of fish and wildlife on public lands;
+
+(ii) Determine which communities or areas of the State are rural or non-rural;
+
+(iii) Determine which rural Alaska areas or communities have customary and traditional subsistence uses of specific fish and wildlife populations;
+
+(iv) Allocate subsistence uses of fish and wildlife populations on public lands;
+
+(v) Ensure that the taking on public lands of fish and wildlife for nonwasteful subsistence uses shall be accorded priority over the taking on such lands of fish and wildlife for other purposes;
+
+(vi) Restrict the taking of fish and wildlife on public lands for nonsubsistence uses or close public lands to the take of fish and wildlife for nonsubsistence uses when necessary for the conservation of healthy populations of fish or wildlife, to continue subsistence uses of fish or wildlife, or for reasons of public safety or administration. The Board may also reopen public lands to nonsubsistence uses if new information or changed conditions indicate that the closure is no longer warranted;
+
+(vii) Restrict the taking of a particular fish or wildlife population on public lands for subsistence uses, close public lands to the take of fish and wildlife for subsistence uses, or otherwise modify the requirements for take from a particular fish or wildlife population on public lands for subsistence uses when necessary to ensure the continued viability of a fish or wildlife population, or for reasons of public safety or administration. As soon as conditions warrant, the Board may also reopen public lands to the taking of a fish and wildlife population for subsistence users to continue those uses;
+
+(viii) Establish priorities for the subsistence taking of fish and wildlife on public lands among rural Alaska residents;
+
+(ix) Restrict or eliminate taking of fish and wildlife on public lands;
+
+(x) Determine what types and forms of trade of fish and wildlife taken for subsistence uses constitute allowable customary trade;
+
+(xi) Authorize the Regional Councils to convene;
+
+(xii) Establish a Regional Council in each subsistence resource region and recommend to the Secretaries, appointees to the Regional Councils, pursuant to the FACA;
+
+(xiii) Establish Federal Advisory Committees within the subsistence resource regions, if necessary, and recommend to the Secretaries that members of the Federal Advisory Committees be appointed from the group of individuals nominated by rural Alaska residents;
+
+(xiv) Establish rules and procedures for the operation of the Board, and the Regional Councils;
+
+(xv) Review and respond to proposals for regulations, management plans, policies, and other matters related to subsistence taking and uses of fish and wildlife;
+
+(xvi) Enter into cooperative agreements or otherwise cooperate with Federal agencies, the State, Native organizations, local governmental entities, and other persons and organizations, including international entities to effectuate the purposes and policies of the Federal subsistence management program;
+
+(xvii) Develop alternative permitting processes relating to the subsistence taking of fish and wildlife to ensure continued opportunities for subsistence;
+
+(xviii) Evaluate whether hunting, fishing, or trapping activities which occur on lands or waters in Alaska other than public lands interfere with subsistence hunting, fishing, or trapping on the public lands to such an extent as to result in a failure to provide the subsistence priority, and after appropriate consultation with the State of Alaska, the Regional Councils, and other Federal agencies, make a recommendation to the Secretaries for their action;
+
+(xix) Identify, in appropriate specific instances, whether there exists additional Federal reservations, Federal reserved water rights or other Federal interests in lands or waters, including those in which the United States holds less than a fee ownership, to which the Federal subsistence priority attaches, and make appropriate recommendation to the Secretaries for inclusion of those interests within the Federal Subsistence Management Program; and
+
+(xx) Take other actions authorized by the Secretaries to implement Title VIII of ANILCA.
+
+(5) The Board may implement one or more of the following harvest and harvest reporting or permit systems:
+
+(i) The fish and wildlife is taken by an individual who is required to obtain and possess pertinent State harvest permits, tickets, or tags, or Federal permit (Federal Subsistence Registration Permit);
+
+(ii) A qualified subsistence user may designate another qualified subsistence user (by using the Federal Designated Harvester Permit) to take fish and wildlife on his or her behalf;
+
+(iii) The fish and wildlife is taken by individuals or community representatives permitted (via a Federal Subsistence Registration Permit) a one-time or annual harvest for special purposes including ceremonies and potlatches; or
+
+(iv) The fish and wildlife is taken by representatives of a community permitted to do so in a manner consistent with the community's customary and traditional practices.
+
+(6) The Board may delegate to agency field officials the authority to set harvest and possession limits, define harvest areas, specify methods or means of harvest, specify permit requirements, and open or close specific fish or wildlife harvest seasons within frameworks established by the Board.
+
+(7) The Board shall establish a Staff Committee for analytical and administrative assistance composed of members from the U.S. Fish and Wildlife Service, National Park Service, U.S. Bureau of Land Management, Bureau of Indian Affairs, and USDA Forest Service. A U.S. Fish and Wildlife Service representative shall serve as Chair of the Staff Committee.
+
+(8) The Board may establish and dissolve additional committees as necessary for assistance.
+
+(9) The U.S. Fish and Wildlife Service shall provide appropriate administrative support for the Board.
+
+(10) The Board shall authorize at least two meetings per year for each Regional Council.
+
+(e) *Relationship to Regional Councils.* (1) The Board shall consider the reports and recommendations of the Regional Councils concerning the taking of fish and wildlife on public lands within their respective regions for subsistence uses. The Board may choose not to follow any Regional Council recommendation which it determines is not supported by substantial evidence, violates recognized principles of fish and wildlife conservation, would be detrimental to the satisfaction of subsistence needs, or in closure situations, for reasons of public safety or administration or to assure the continued viability of a particular fish or wildlife population. If a recommendation is not adopted, the Board shall set forth the factual basis and the reasons for the decision, in writing, in a timely fashion.
+
+(2) The Board shall provide available and appropriate technical assistance to the Regional Councils.
+
+[67 FR 30563, May 7, 2002, as amended at 75 FR 63092, Oct. 14, 2010; 76 FR 56114, Sept. 12, 2011]

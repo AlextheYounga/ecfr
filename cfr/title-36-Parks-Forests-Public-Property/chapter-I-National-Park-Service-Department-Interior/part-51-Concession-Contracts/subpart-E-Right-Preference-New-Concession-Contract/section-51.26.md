@@ -1,0 +1,3 @@
+##### § 51.26 What solicitation, selection and award procedures apply when a preferred offeror exists? #####
+
+The solicitation, selection and award procedures described in this part will apply to the solicitation, selection and award of contracts for which a preferred offeror exists, except as modified by this subpart, subpart F and other sections of this part related to preferred offerors and/or a right of preference.

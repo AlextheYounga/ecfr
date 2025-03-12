@@ -1,0 +1,3 @@
+##### § 1192.2 Equivalent facilitation. #####
+
+Departures from particular technical and scoping requirements of these guidelines by use of other designs and technologies are permitted where the alternative designs and technologies used will provide substantially equivalent or greater access to and usability of the vehicle. Departures are to be considered on a case-by-case basis by the Department of Transportation under the procedure set forth in 49 CFR 37.7.

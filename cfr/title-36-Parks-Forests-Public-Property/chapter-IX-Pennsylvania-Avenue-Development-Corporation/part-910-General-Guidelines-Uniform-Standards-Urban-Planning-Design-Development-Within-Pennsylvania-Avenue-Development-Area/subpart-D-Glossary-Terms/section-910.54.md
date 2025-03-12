@@ -1,0 +1,3 @@
+##### § 910.54 Build-to height. #####
+
+*Build-to height* means a specified minimum *height of development* to which the exterior wall of a building in a development must rise. Minor deviations from the *build-to height* for architectural embellishments and articulations of the cornice and roof level are permitted, unless otherwise prohibited by the applicable Square Guidelines or the District of Columbia's codes and regulations.

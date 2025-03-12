@@ -1,0 +1,3 @@
+##### § 254.30 Purpose. #####
+
+These regulations set forth procedures by which the Secretary of Agriculture may resolve land disputes and management problems pursuant to Pub. L. 97-465, commonly called the Small Tracts Act, by conveying, through sale, exchange, or interchange, three categories of tracts of land: Parcels encroached on, road rights-of-way, and mineral survey fractions. Implementation of these regulations does not constitute authorization of nor consent to adverse possession against lands administered by the Secretary of Agriculture.

@@ -1,0 +1,3 @@
+##### § 1281.4 What are the architectural and design standards for Presidential libraries? #####
+
+The Archivist is required by 44 U.S.C. 2112(a)(2) to promulgate architectural and design standards for Presidential libraries. The standards address the architectural, design, and structural requirements of a new Presidential library and additions or renovations, and they ensure that Presidential libraries are safe and efficient to operate and provide adequate and secure research and museum facilities. A copy of the standards is provided to the foundation upon request and is available from the Office of Presidential Libraries (NL), Room 2200, 8601 Adelphi Rd., College Park, MD 20740-6001.

@@ -1,0 +1,3 @@
+##### § 1202.8 How does NARA handle records that are in Government-wide Privacy Act systems? #####
+
+Records in the custody of NARA in a Government-wide Privacy Act system are the primary responsibility of another agency, e.g., the Office of Personnel Management (OPM) or the Office of Government Ethics (OGE). These records are governed by the regulations established by that agency pursuant to the Privacy Act. NARA provides access using that agency's regulations.

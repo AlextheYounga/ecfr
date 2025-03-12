@@ -1,0 +1,13 @@
+##### § 13.495 Application procedures for subsistence permits and aircraft exceptions. #####
+
+(a) Any person applying for the subsistence permit required by § 13.440(a), or the exception to the prohibition on aircraft use provided by § 13.450(b)(2), shall submit his/her application to the Superintendent of the appropriate national park or monument. If the applicant is unable or does not wish to submit the application in written form, the Superintendent shall provide the applicant an opportunity to present the application orally and shall keep a record of such oral application. Each application must include a statement which acknowledges that providing false information in support of the application is a violation of Section 1001 of Title 18 of the United States Code, and additional statements or documentation which demonstrates that the applicant satisfies the criteria set forth in § 13.440(a) for a subsistence permit or § 13.450(b)(2) for the aircraft exception, as appropriate. Except in extraordinary cases for good cause shown, the Superintendent shall decide whether to grant or deny the application in a timely manner not to exceed forty-five (45) days following the receipt of the completed application. Should the Superintendent deny the application, he/she shall include in the decision a statement of the reasons for the denial and shall promptly forward a copy to the applicant.
+
+(b) An applicant whose application has been denied by the Superintendent has the right to have his/her application reconsidered by the Alaska Regional Director by contacting the Regional Director within 180 days of the issuance of the denial. The Regional Director may extend the 180-day time limit to initiate a reconsideration for good cause shown by the applicant. For purposes of reconsideration, the applicant shall present the following information:
+
+(1) Any statement or documentation, in addition to that included in the initial application, which demonstrates that the applicant satisfies the criteria set forth in paragraph (a) of this section;
+
+(2) The basis for the applicant's disagreement with the Superintendent's findings and conclusions; and
+
+(3) Whether or not the applicant requests an informal hearing before the Regional Director.
+
+(c) The Regional Director shall provide a hearing if requested by the applicant. After consideration of the written materials and oral hearing, if any, and within a reasonable period of time, the Regional Director shall affirm, reverse, or modify the denial of the Superintendent and shall set forth in writing the basis for the decision. A copy of the decision shall be forwarded promptly to the applicant and shall constitute final agency action.

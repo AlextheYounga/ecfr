@@ -1,0 +1,3 @@
+##### § 212.57 Monitoring of effects of motor vehicle use on designated roads and trails and in designated areas. #####
+
+For each administrative unit of the National Forest System, the responsible official shall monitor the effects of motor vehicle use on designated roads and trails and in designated areas under the jurisdiction of that responsible official, consistent with the applicable land management plan, as appropriate and feasible.

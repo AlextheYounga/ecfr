@@ -1,0 +1,5 @@
+##### § 60.5 Nomination forms and information collection. #####
+
+(a) All nominations to the National Register are to be made on standard National Register forms. These forms are provided upon request to the State Historic Preservation Officer, participating Federal agencies and others by the NPS. For archival reasons, no other forms, photocopied or otherwise, will be accepted.
+
+(b) The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number *1024-0018.* The information is being collected as part of the nomination of properties to the National Register. This information will be used to evaluate the eligibility of properties for inclusion in the National Register under established criteria. The obligation to respond is required to obtain a benefit.

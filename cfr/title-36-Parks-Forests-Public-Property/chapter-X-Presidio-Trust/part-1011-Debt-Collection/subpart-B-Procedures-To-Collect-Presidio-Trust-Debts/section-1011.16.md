@@ -1,0 +1,5 @@
+##### § 1011.16 When will the Presidio Trust refer debts to the Department of Justice? #####
+
+(a) *Compromise or suspension or termination of collection activity.* The Presidio Trust will refer debts having a principal balance over $100,000, or such higher amount as authorized by the Attorney General, to the Department of Justice for approval of any compromise of a debt or suspension or termination of collection activity. See the FCCS and § 1011.7 and 1011.8 of this part.
+
+(b) *Litigation.* The Presidio Trust will promptly refer to the Department of Justice for litigation delinquent debts on which aggressive collection activity has been taken in accordance with this part that the Presidio Trust determines should not be compromised, and on which collection activity should not be suspended or terminated. The Presidio Trust may authorize the FMS to refer to the Department of Justice for litigation those delinquent debts that have been transferred to the FMS under § 1011.9 of this part.

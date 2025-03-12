@@ -1,0 +1,3 @@
+##### § 5.1 Advertisements. #####
+
+Commercial notices or advertisements shall not be displayed, posted, or distributed on federally owned or controlled lands within a park area unless prior written permission has been given by the Superintendent. Such permission may be granted only if the notice or advertisement is of goods, services, or facilities available within the park area and such notices and advertisements are found by the Superintendent to be desirable and necessary for the convenience and guidance of the public.

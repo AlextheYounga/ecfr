@@ -1,0 +1,5 @@
+##### § 1280.70 When does NARA allow non-NARA groups to use the public areas of NARA property? #####
+
+(a) The primary use of NARA property in the Washington, DC, area (the National Archives Building and the National Archives at College Park), including those areas open to the public, is the conduct of official NARA business, including public programs and other activities conducted in conjunction with government and non-government organizations and the Foundation for the National Archives (“Foundation”). In conducting official business, NARA and its partners use all of the public areas of the Washington, DC, area facilities. There are no public areas in the Washington National Records Center in Suitland, MD.
+
+(b) NARA may permit, under the conditions described in this subpart, the occasional use of certain public areas by other Federal agencies, quasi-Federal agencies, and state, local, and tribal government organizations for official activities. NARA also permits the occasional, non-official use of its public areas by organizations when the activity relates to or furthers NARA's archival, records, or other programs.

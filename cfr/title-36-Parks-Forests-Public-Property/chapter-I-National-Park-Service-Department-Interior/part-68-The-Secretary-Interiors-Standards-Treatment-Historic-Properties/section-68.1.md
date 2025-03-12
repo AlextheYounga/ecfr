@@ -1,0 +1,3 @@
+##### § 68.1 Intent. #####
+
+The intent of this part is to set forth standards for the treatment of historic properties containing standards for preservation, rehabilitation, restoration and reconstruction. These standards apply to all proposed grant-in-aid development projects assisted through the National Historic Preservation Fund. 36 CFR part 67 focuses on “certified historic structures” as defined by the IRS Code of 1986. Those regulations are used in the Preservation Tax Incentives Program. 36 CFR part 67 should continue to be used when property owners are seeking certification for Federal tax benefits.

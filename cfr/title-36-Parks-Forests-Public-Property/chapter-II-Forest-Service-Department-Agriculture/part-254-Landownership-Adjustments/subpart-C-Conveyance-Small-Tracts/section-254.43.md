@@ -1,0 +1,3 @@
+##### § 254.43 Surveys. #####
+
+All necessary tract surveys of National Forest System land shall be conducted by a licensed private surveyor under Forest Service instructions, contracted by the person applying for the conveyance, or by a Forest Service surveyor. The person will also be required to have all Federal property boundaries resulting from a conveyance marked and posted to Forest Service standards.

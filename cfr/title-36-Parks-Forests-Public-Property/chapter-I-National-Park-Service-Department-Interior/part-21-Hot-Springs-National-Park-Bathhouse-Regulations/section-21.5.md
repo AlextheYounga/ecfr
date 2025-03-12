@@ -1,0 +1,3 @@
+##### § 21.5 Therapeutic bathing requirements. #####
+
+Baths shall be administered to persons having a prescription from a registered physician with prescription instructions therein. Baths shall be administered to person who do not have prescriptions from registered physicians only if the bath is administered in accordance with the bath directions prescribed by the Superintendent, the violation of which is not subject to the penalty provisions of § 21.2.

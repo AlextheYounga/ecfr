@@ -1,0 +1,3 @@
+##### § 25.4 Schedule of rates. #####
+
+As the conditions of each park differ with respect to the proper charge for the service rendered to the public, the schedule of rates for observance by the licensed guides at each separate park will be submitted to the Director of the National Park Service for approval. The superintendent will prepare itineraries arranged so as best to observe the different features of the battlefield and submit them with recommendations as to schedule of rates to the Director of the National Park Service for approval.

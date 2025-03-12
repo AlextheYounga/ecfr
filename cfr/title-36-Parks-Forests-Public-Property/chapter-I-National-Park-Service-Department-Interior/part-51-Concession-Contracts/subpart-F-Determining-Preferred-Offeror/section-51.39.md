@@ -1,0 +1,3 @@
+##### § 51.39 What are some examples of outfitter and guide concession contracts? #####
+
+Outfitter and guide concession contracts may include, but are not limited to, concession contracts which solely authorize or require the guided conduct of river running, hunting (where otherwise lawful in a park area), fishing, horseback, camping, and mountaineering activities in the backcountry of a park area.

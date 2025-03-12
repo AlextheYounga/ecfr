@@ -1,0 +1,5 @@
+##### § 64.4 Scope. #####
+
+(a) Funding assistance authorized by section 809(b)(2) shall be provided to State and local government entities to enable them to acquire and develop abandoned railroad rights-of-way for recreation and conservation purposes and to plan for such acquisition and development. As provided for by law, grants shall be made for not more than 90 percent of the cost of the particular project for which funds are sought.
+
+(b) Allocations authorized by section 809(b)(3) shall be made to Federal agencies to enable them to acquire abandoned railroad rights-of-way. Such allocations shall be made for an amount up to the price paid to the owner of the real property proposed for acquisition plus expenses incidental to acquisition such as title work, surveys, appraisals and relocation.

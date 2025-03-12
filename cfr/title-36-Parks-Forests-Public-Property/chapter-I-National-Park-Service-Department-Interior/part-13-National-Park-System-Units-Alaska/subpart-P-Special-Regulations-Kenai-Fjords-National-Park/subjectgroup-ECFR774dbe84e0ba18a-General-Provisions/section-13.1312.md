@@ -1,0 +1,3 @@
+##### § 13.1312 Climbing and walking on Exit Glacier. #####
+
+Except for areas designated by the Superintendent, climbing or walking on, in, or under Exit Glacier is prohibited within1/2 mile of the glacial terminus from May 1 through October 31, and during other periods as determined by the Superintendent. Restrictions and exceptions will be available for inspection at the park visitor center, on bulletin boards or signs, or by other appropriate means.

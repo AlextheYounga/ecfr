@@ -1,0 +1,3 @@
+##### § 1235.40 What records are covered by additional transfer requirements? #####
+
+In addition to complying with subparts A and B of this part, agencies must follow the specifications and requirements in this subpart when transferring audiovisual, cartographic, architectural, and electronic records to the National Archives of the United States. In general, such records must be transferred to the National Archives of the United States as soon as they become inactive or whenever the agency cannot provide proper care and handling of the records, including adequate storage conditions (see parts 1236 and 1237 of this subchapter).

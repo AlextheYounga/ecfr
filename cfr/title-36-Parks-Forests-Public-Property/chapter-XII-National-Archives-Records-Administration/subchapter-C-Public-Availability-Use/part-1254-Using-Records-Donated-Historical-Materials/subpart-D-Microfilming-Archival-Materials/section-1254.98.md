@@ -1,0 +1,3 @@
+##### § 1254.98 May NARA make subsequent use of my publication? #####
+
+You must give NARA a royalty-free worldwide license, to take effect seven years after you complete filming at the NARA facility, to publish, display, reproduce, distribute, and sell the publication, and to create derivative works based on the publication, and to use the publication in collective works, all without limitation. The license required by this section must be written to take effect upon publication if there is no commercial distributor, or once commercial distribution ends if less than seven years from the date you complete filming at the NARA facility.

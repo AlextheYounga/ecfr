@@ -1,0 +1,3 @@
+##### § 1202.48 Will I have to pay for copies of records? #####
+
+Yes. However NARA will waive fees for the first 100 pages copied or when the cost to collect the fee will exceed the amount collected. When a fee is charged, the charge per copy is $0.20 per page if NARA makes the copy or $0.15 per page if you make the copy on a NARA self-service copier. Fees for other reproduction processes are computed upon request.

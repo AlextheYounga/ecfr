@@ -1,0 +1,5 @@
+##### § 51.62 What is the process to determine the leasehold surrender interest value when the concessioner does not seek or is not awarded a new concession contract? #####
+
+Leasehold surrender interest concession contracts must contain provisions under which the Director and the concessioner will seek to agree in advance of the expiration or other termination of the concession contract as to what the concessioner's leasehold surrender interest value will be on a unit-by-unit basis as of the date of expiration or termination of the concession contract. In the event that agreement cannot be reached, the provisions of the leasehold surrender interest concession contract must provide for the Director to make a final determination of leasehold surrender interest value unless binding arbitration as to the value is requested by the concessioner. The arbitration procedures are described in § 51.51. A prior decision as to the construction cost of capital improvements made by the Director or by an arbitration panel in accordance with this part are final and not subject to further arbitration.
+
+[66 FR 35083, July 3, 2001]

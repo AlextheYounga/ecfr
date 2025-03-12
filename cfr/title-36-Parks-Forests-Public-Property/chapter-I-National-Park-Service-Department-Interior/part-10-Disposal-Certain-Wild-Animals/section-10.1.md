@@ -1,0 +1,3 @@
+##### § 10.1 Animals available. #####
+
+From time to time there are surplus live elk, buffaloes and bears in Yellowstone National Park, and live buffaloes in Wind Cave National Park which the Secretary may, in his discretion, dispose of to Federal, State, county and municipal authorities for preserves, zoos, zoological gardens, and parks. When surplus live elk and buffaloes are available from these national parks, the Secretary may, in his discretion, dispose of these to individuals and private institutions.

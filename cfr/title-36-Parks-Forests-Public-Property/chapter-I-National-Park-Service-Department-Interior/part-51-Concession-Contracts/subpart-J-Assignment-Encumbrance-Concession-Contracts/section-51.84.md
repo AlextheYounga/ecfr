@@ -1,0 +1,11 @@
+##### § 51.84 What special terms must I know to understand this part? #####
+
+To understand this subpart specifically and this part in general you must refer to these definitions, applicable in the singular or plural, whenever the terms are used in this part.
+
+A *controlling interest in a concession contract* means an interest, beneficial or otherwise, that permits the exercise of managerial authority over a concessioner's performance under the terms of the concession contract and/or decisions regarding the rights and liabilities of the concessioner.
+
+A *controlling interest in a concessioner* means, in the case of corporate concessioners, an interest, beneficial or otherwise, of sufficient outstanding voting securities or capital of the concessioner or related entities that permits the exercise of managerial authority over the actions and operations of the concessioner. A “controlling interest” in a concessioner also means, in the case of corporate concessioners, an interest, beneficial or otherwise, of sufficient outstanding voting securities or capital of the concessioner or related entities to permit the election of a majority of the Board of Directors of the concessioner. The term “controlling interest” in a concessioner, in the instance of a partnership, limited partnership, joint venture, other business organization or individual entrepreneurship, means ownership or beneficial ownership of the assets of the concessioner that permits the exercise of managerial authority over the actions and operations of the concessioner.
+
+*Rights to operate and/or manage* under a concession contract means any arrangement where the concessioner employs or contracts with a third party to operate and/or manage the performance of a concession contract (or any portion thereof). This does not apply to arrangements with an individual employee.
+
+*Subconcessioner* means a third party that, with the approval of the Director, has been granted by a concessioner rights to operate under a concession contract (or any portion thereof), whether in consideration of a percentage of revenues or otherwise.

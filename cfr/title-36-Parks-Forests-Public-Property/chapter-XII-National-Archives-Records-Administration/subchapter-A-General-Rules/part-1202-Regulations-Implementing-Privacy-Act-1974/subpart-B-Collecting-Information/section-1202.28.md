@@ -1,0 +1,3 @@
+##### § 1202.28 What rules do NARA employees follow in managing personal information? #####
+
+All NARA employees and contractors involved in the design, development, operation or maintenance of any system of records must review the provisions of the Privacy Act and the regulations in this part. NARA employees and contractors must conduct themselves in accordance with the rules of conduct concerning the protection of nonpublic information in the Standards of Ethical Conduct for Employees of the Executive Branch, 5 CFR 2635.703.

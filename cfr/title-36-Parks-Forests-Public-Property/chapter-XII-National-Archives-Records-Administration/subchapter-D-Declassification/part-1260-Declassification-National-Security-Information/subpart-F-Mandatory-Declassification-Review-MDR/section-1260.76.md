@@ -1,0 +1,5 @@
+##### § 1260.76 What are NARA's procedures after it has received the agency's declassifications determination? #####
+
+(a) If a document cannot be declassified in its entirety, the agency must return to NARA a copy of the document with those portions that require continued classification clearly marked. If a document requires continued classification in its entirety, the agency must return to NARA a copy of the document clearly so marked.
+
+(b) NARA will notify the requester of the results of its review and make available copies of documents declassified in full and in part. If the requested information cannot be declassified in its entirety, NARA will send the requester a notice of the right to appeal the determination within 60 calendar days to the Deputy Archivist of the United States, National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001. Additional information on appeals is located in 36 CFR Part 1264 and in Appendix A to 32 CFR Part 2001 (Article VIII).

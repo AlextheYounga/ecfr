@@ -1,0 +1,3 @@
+##### § 72.48 Federal coordination. #####
+
+Applicants requesting UPARR assistance under one of the three grant categories shall investigate the possibilities of administrative and/or funding coordination with other Federal programs. Higher priority is given to proposals which relate to a comprehensive neighborhood revitalization strategy, including, but not limited to programs such as the Department of Housing and Urban Development (HUD) Neighborhood Self-Help program.

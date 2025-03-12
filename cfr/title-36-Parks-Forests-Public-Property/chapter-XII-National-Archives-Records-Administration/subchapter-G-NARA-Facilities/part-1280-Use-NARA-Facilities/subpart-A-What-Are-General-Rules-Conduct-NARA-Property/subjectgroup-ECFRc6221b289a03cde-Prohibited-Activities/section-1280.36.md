@@ -1,0 +1,5 @@
+##### § 1280.36 May I file an appeal if I am banned from NARA facilities? #####
+
+Yes, within 30 calendar days of receiving such notification, an individual may appeal the decision in writing. In the request, the individual must state the reasons for the appeal and mail it to the Deputy Archivist of the United States for reconsideration (address: National Archives and Records Administration (ND), 8601 Adelphi Road, College Park, MD 20740-6001). The Deputy Archivist has 30 calendar days from receipt of an appeal to make a decision to rescind, modify, or uphold the ban. If the ban is upheld, further requests by the affected individual will not be acted upon if received prior to the expiration of a period of one year from the date of the last request for reconsideration. After one year has passed, a further request for reconsideration will be considered, and the Deputy Archivist will decide, within 30 calendar days of receiving the request, whether the ban remains in place or is rescinded. Notice of the decision will be provided in writing to the affected individual.
+
+[68 FR 53882, Sept. 15, 2003]

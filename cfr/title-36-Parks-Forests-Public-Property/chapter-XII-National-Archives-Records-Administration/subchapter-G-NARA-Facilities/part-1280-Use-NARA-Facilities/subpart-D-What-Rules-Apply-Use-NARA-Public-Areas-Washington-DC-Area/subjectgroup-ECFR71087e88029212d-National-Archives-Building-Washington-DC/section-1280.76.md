@@ -1,0 +1,3 @@
+##### § 1280.76 When are the public areas available for private events in the National Archives Building? #####
+
+Most public areas are available for set-up and use on weekdays from 6 p.m. until 10:30 p.m. during the fall and winter seasons (day after Labor Day through March 14). The areas are available for set-up and use from 7:30 p.m. until 10:30 p.m. in the spring season (March 15 through Labor Day). The areas are not available during weekends or on Federal holidays. A NARA staff member must be present at all times when non-NARA groups use NARA spaces.

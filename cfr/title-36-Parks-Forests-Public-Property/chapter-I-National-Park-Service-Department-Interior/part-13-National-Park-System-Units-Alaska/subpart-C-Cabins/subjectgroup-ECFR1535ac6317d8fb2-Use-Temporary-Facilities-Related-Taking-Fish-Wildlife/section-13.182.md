@@ -1,0 +1,3 @@
+##### § 13.182 Temporary facilities. #####
+
+In a national preserve where the taking of fish and wildlife is permitted, the construction, maintenance or use of a temporary campsite, tent platform, shelter or other temporary facility or equipment directly and necessarily related to such activities is prohibited except pursuant to the terms of a permit issued by the Superintendent. This requirement applies only to a temporary facility that will remain in place for a period longer than 14 days.

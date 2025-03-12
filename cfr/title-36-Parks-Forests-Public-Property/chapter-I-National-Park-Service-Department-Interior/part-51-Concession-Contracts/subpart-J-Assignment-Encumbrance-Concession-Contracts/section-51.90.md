@@ -1,0 +1,3 @@
+##### § 51.90 How does the concessioner get the Director's approval before making an assignment or encumbrance? #####
+
+Before completing any assignment or encumbrance which may be considered to be the type of transaction described in this part, including, but not limited to, the assignment or encumbrance of what may be a controlling interest in a concessioner or a concession contract, the concessioner must apply in writing for approval of the transaction by the Director.

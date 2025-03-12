@@ -1,0 +1,3 @@
+##### § 1005.4 Commercial passenger-carrying motor vehicles. #####
+
+Passenger-carrying motor vehicles that are so large as to require special escort in order to proceed safely over Presidio Trust roads, or which in the judgment of the Executive Director are beyond the carrying capacity or safety factor of the roads, will not be permitted in the area administered by the Presidio Trust, except that, where they may satisfactorily enter and travel to the Presidio Trust headquarters they may be parked there during the period of stay.

@@ -1,0 +1,5 @@
+##### § 705.7 Distribution. #####
+
+(a) Library staff acting under the general authority of the Librarian of Congress may distribute a reproduction of a transmission program or a compilation of transmission programs made under this part, by loan to a researcher, provided that the researcher indicates the particular segments of the news broadcasts or compilations that he or she wishes to review, on the basis of an index or other finding aid prepared by the Librarian; and for deposit in a library or archives which meets the requirements of section 108(a) of title 17 of the United States Code.
+
+(b) Library staff will advise all recipients of such reproductions that such distribution shall be only for the purposes of research and not for further reproduction or performance, and that any use in excess of that permitted by the American Television and Radio Archives Act (section 170 of title 2 of the United States Code), title 17 of the United States Code, and this part may violate copyrights or other rights.

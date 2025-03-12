@@ -1,0 +1,3 @@
+##### § 214.21 Information collection requirements. #####
+
+The rules of this part governing appeal of decisions relating to occupancy or use of National Forest System lands and resources specify the information that an appellant must provide in an appeal. Therefore, these rules contain information collection requirements as defined in 5 CFR part 1320. These information collection requirements are assigned Office of Management and Budget Control Number 0596-0231.

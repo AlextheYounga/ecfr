@@ -1,0 +1,7 @@
+##### § 1234.34 When may NARA conduct an inspection of a records storage facility? #####
+
+(a) At the time an agency submits a request to establish an agency records center, pursuant to § 1234.30, NARA may conduct an inspection of the proposed facility to ensure that the facility complies fully with the standards in this subpart. NARA may also conduct periodic inspections of agency records centers so long as such facility is used as an agency records center. NARA will inspect its own records center facilities on a periodic basis to ensure that they are in compliance with the requirements of this subpart.
+
+(b) Agencies must ensure, by contract or otherwise, that agency and NARA officials, or their delegates, have the right to inspect commercial records storage facilities to ensure that such facilities fully comply with the standards in this subpart. NARA may conduct periodic inspections of commercial records storage facilities so long as agencies use such facilities to store agency records. The using agency, not NARA, will be responsible for paying any fee or charge assessed by the commercial records storage facility for NARA's conducting an inspection.
+
+(c) NARA will contact the agency operating the records center or the agency holding a contract with a commercial records storage facility in advance to set a date for the inspection.

@@ -1,0 +1,3 @@
+##### § 910.52 Buildable area. #####
+
+*Buildable area* means that portion of the established *development parcel* which can be devoted to buildings and structures. Generally, this area is bounded by any applicable *building restriction lines,* right-of-way lines and *development parcel* lines. It shall be the *buildable area* of a *development parcel* rather than “lot,” as it is established in the DC Zoning Regulations, that will be utilized to establish the maximum *gross floor area* of a *development* within specified portions of the Development Area.

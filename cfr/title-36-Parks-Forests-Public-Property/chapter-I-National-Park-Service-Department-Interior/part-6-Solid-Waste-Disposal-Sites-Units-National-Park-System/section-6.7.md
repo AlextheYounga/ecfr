@@ -1,0 +1,11 @@
+##### § 6.7 Mining wastes. #####
+
+(a) Solid waste from mining includes but is not limited to mining overburden, mining byproducts, solid waste from the extraction, processing and beneficiation of ores and minerals, drilling fluids, produced waters, and other wastes associated with exploration, development, or production of oil, natural gas or geothermal energy and any garbage, refuse or sludge associated with mining and mineral operations.
+
+(b) A person conducting mining or mineral operations on January 23, 1995, and not governed by a plan of operations approved under 36 CFR part 9, Minerals Management, or pursuant to the terms of a Federal mineral lease, may continue to operate a solid waste disposal site within the boundaries of a unit only after complying with § 6.5 and § 6.10 and with a permit issued by the Regional Director under § 6.9.
+
+(c) A person conducting mining or mineral operations on January 23, 1995, and governed by a plan of operations approved under 36 CFR part 9 or pursuant to the terms of a Federal mineral lease may continue to operate a solid waste disposal site under the terms of the approved plan of operations or lease. Where an existing mining or mineral operation is governed by 36 CFR part 9 or a Federal mineral lease, an NPS-approved plan of operations will constitute the permit for solid waste disposal site operation otherwise required under § 6.9. A bond required under 36 CFR part 9, or by the Bureau of Land Management for Federal lessees, will satisfy the requirements of § 6.10.
+
+(d) A person proposing to initiate mining or mineral operations after January 23, 1995, within the boundaries of a unit of the National Park System, whether or not governed by a plan of operations approved under 36 CFR part 9 or the terms of a Federal mineral lease, may not establish or operate a new solid waste disposal site within a unit.
+
+(e) The temporary storage, stockpiling for return, or return of nonhazardous mining overburden to the mine site for the purpose of mine site reclamation does not require a request, environmental report, financial assurance or a permit issued under this part.

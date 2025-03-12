@@ -1,0 +1,3 @@
+##### § 64.3 Applicability and authority. #####
+
+The policies and procedures contained herein are applicable to the making of grants to State and local governments and to the making of allocations to Federal agencies under the provisions of title VIII, section 809(b) (2) and (3) of the Railroad Revitalization and Regulatory Reform Act of 1976 (Pub. L. 94-210) (90 Stat. 145). The Secretary of the Interior in consultation with the Secretary of Transportation is responsible for providing financial assistance in accordance with section 809(b) (2) and (3). The Secretary of the Interior's responsibility has been delegated to the Bureau of Outdoor Recreation.

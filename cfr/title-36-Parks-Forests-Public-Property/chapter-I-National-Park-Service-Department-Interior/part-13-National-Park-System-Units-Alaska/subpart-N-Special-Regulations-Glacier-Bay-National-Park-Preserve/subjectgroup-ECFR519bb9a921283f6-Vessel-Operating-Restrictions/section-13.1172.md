@@ -1,0 +1,3 @@
+##### § 13.1172 When general operating restrictions do not apply. #####
+
+Section 13.1170 does not apply to a vessel being used in connection with federally permitted whale research or monitoring; other closures and restrictions in “Vessel Operating Restrictions,” §§ 13.1170 through 13.1180, do not apply to authorized persons conducting emergency or law enforcement operations, research or resource management, park administration/supply, or other necessary patrols.

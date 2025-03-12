@@ -1,0 +1,3 @@
+##### § 1010.16 Actions to encourage agency cooperation early in the NEPA process. #####
+
+Consistent with 40 CFR 1501.6, the Trust may request the NPS to be a cooperating agency for actions or projects significantly affecting the quality of the Presidio. In addition, upon request of the Trust, any other Federal, State, local, or tribal agency that has jurisdiction by law or special expertise with respect to any environmental issue that should be addressed in the analysis may be a cooperating agency. The Trust shall use the environmental analysis and proposals of cooperating agencies with jurisdiction by law or special expertise to the maximum extent possible consistent with its responsibility as lead or joint lead agency.

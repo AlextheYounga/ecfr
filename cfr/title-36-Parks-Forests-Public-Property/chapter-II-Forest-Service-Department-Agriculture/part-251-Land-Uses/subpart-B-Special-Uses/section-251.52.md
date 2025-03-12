@@ -1,0 +1,3 @@
+##### § 251.52 Delegation of authority. #####
+
+Special use authorizations shall be issued, granted, amended, renewed, suspended, terminated, or revoked by the Chief, or through delegation, by the Regional Forester, Forest Supervisor, District Ranger or other forest officer, and shall be in such form and contain such terms, stipulations, conditions, and agreements as may be required by the regulations of the Secretary and the instructions of the Chief (7 CFR 2.60; 36 CFR part 200, subpart B).

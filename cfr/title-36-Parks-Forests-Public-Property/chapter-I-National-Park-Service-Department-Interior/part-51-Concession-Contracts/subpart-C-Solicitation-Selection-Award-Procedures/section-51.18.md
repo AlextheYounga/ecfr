@@ -1,0 +1,3 @@
+##### § 51.18 When must the Director reject a proposal? #####
+
+The Director must reject any proposal received, regardless of the franchise fee offered, if the Director makes any of the following determinations: the offeror is not a qualified person as defined in this part; The offeror is not likely to provide satisfactory service; the proposal is not a responsive proposal as defined in this part; or, the proposal is not responsive to the objectives of protecting and preserving the resources of the park area and of providing necessary and appropriate services to the public at reasonable rates.

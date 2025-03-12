@@ -1,0 +1,3 @@
+##### § 1280.18 May I bring guns or other weapons onto NARA property? #####
+
+No, you may not bring firearms or other dangerous or deadly weapons either openly or concealed onto NARA property except for official business. You also may not bring explosives, or items intended to be used to fabricate an explosive or incendiary device, onto NARA property. State-issued concealed-carry permits are not valid on NARA property.

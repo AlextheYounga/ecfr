@@ -1,0 +1,3 @@
+##### § 72.54 Rehabilitation and Innovation grants—full application process. #####
+
+Once a Rehabilitation or Innovation proposal has received a tentative grant offer, applicants will be responsible for compliance with all applicable Federal laws and regulations listed in OMB Circular A-102, including those specific Acts and Executive Orders listed in § 72.56 of these regulations. The applicant must also complete all documentation and other requirements specified by OMB circulars A-102, and A-95 within 120 days. Regional Offices of NPS will provide technical assistance to grantees in complying with these requirements. A grant will not be approved until the applicant is in compliance with the above requirements.

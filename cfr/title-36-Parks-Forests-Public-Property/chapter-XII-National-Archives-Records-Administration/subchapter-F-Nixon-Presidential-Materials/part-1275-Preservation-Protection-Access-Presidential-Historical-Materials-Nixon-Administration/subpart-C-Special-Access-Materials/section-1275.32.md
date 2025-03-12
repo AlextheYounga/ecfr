@@ -1,0 +1,3 @@
+##### § 1275.32 Access by Federal agencies. #####
+
+In accordance with subpart B of this part, any Federal agency in the executive branch has access for lawful Government use to the Presidential historical materials in the custody and control of the Archivist to the extent necessary for ongoing Government business. The Archivist will consider only written requests from heads of agencies or departments, deputy heads of agencies or departments, or heads of major organizational components or functions within agencies or departments.

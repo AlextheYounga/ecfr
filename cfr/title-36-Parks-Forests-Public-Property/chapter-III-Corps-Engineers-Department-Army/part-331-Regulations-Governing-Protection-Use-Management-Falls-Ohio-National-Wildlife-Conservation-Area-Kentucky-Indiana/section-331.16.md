@@ -1,0 +1,3 @@
+##### § 331.16 Interference with government employees. #####
+
+Interference with any Government employee in the conduct of his or her official duties pertaining to the administration of these regulations is prohibited. It is a violation to fail to comply with a lawful order directed by any Government employee or to knowingly give any false, fictitious, or fraudulent report or other information to any government employee in the performance of his or her official duties pertaining to the administration of these regulations.

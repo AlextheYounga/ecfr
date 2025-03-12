@@ -1,0 +1,5 @@
+##### § 702.10 Protection of property. #####
+
+(a) Any person who shall steal, wrongfully deface, injure, mutilate, tear, or destroy library materials, or any portion thereof, shall be punished by a fine of not more than $1,000 or imprisoned not more than 3 years, or both (18 U.S.C. 641; 18 U.S.C. 1361; 18 U.S.C. 2071).
+
+(b) Any person who embezzles, steals, purloins, or, without authority, disposes of anything of value of the United States, or willfully injures or commits any depredation against any Government property shall be punished by a fine of not more than $10,000 or imprisoned not more than 10 years, or both; but if the value of such property does not exceed the sum of $100, he shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. (18 U.S.C. 641; 18 U.S.C. 1361.)

@@ -1,0 +1,3 @@
+##### § 223.7 Permission for free use of timber outside free-use areas. #####
+
+Similar material may be cut outside of a free-use area without permit in cases of emergency, but the person taking such material shall promptly notify the district ranger. Small quantities of material needed by transients while in the forest may also be taken without permit; subject to such rules as may be prescribed pursuant to § 261.70. In all other cases permits will be required for green material.

@@ -1,0 +1,7 @@
+##### § 810.4 Appeals. #####
+
+(a) When a request has been denied, the requester may, within 30 days of receipt of the denial, appeal the denial to the Executive Director of the Council. Appeals to the Executive Director shall be in writing, shall be addressed to the Executive Director, Advisory Council on Historic Preservation, 1522 K Street NW., Washington, DC 20005, and shall be clearly marked “FREEDOM OF INFORMATION APPEAL.” Requests that are not so marked will be honored, but will be deemed not to have been received by the Council, for purposes of computing the response time, until the date on which they are identified by a member of the Council staff as being an appeal pursuant to the Freedom of Information Act.
+
+(b) The appeal will be acted on within 20 working days of receipt. A written decision shall be issued. Where the decision upholds an initial denial of information, the decision shall include a reference to the specific exemption in the Freedom of Information Act which authorizes withholding the information, a brief explanation of how the exemption applies to the record withheld, and a brief statement of why a discretionary release is not appropriate. The decision shall also inform the requester of the right to seek judicial review in the U.S. District Court where the requester resides or has his principal place of business, or in which the agency records are situated, or in the District of Columbia.
+
+(c) If no decision has been issued within 20 working days, the requester is deemed to have exhausted his administrative remedies.

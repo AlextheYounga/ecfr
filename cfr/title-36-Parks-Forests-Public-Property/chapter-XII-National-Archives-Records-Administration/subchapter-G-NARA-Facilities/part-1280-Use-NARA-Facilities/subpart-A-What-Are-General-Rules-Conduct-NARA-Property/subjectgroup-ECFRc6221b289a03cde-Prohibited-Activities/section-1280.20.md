@@ -1,0 +1,3 @@
+##### § 1280.20 What is your policy on illegal drugs and alcohol? #####
+
+You may not use or be in possession of illegal drugs on NARA property. You also may not enter NARA property while under the influence of illegal drugs or alcohol. Using alcoholic beverages on NARA property is prohibited except for occasions when the Archivist of the United States or his/her designee has granted an exemption in writing.

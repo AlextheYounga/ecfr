@@ -1,0 +1,3 @@
+##### § 71.12 Enforcement. #####
+
+Persons authorized by the heads of the appropriate bureaus to enforce these regulations may arrest any person who violates these rules and regulations within areas under the administration or authority of such bureau head with a warrant or, if the offense is committed in his presence, without a warrant. Any violations of the rules and regulations issued in this part, except those in § 71.15, shall be punishable by a fine of not more than $100.

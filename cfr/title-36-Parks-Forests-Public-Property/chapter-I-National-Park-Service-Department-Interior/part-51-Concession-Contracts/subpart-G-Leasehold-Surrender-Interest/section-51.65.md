@@ -1,0 +1,3 @@
+##### § 51.65 May the concessioner gain additional leasehold surrender interest by replacing a fixture in which the concessioner has a leasehold surrender interest? #####
+
+A concessioner that replaces an existing fixture in which the concessioner has a leasehold surrender interest with a new fixture will increase its leasehold surrender interest by the amount of the construction cost of the replacement fixture less the construction cost of the replaced fixture.

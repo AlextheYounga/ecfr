@@ -1,0 +1,3 @@
+##### § 1250.24 Does NARA accept electronic FOIA requests? #####
+
+Yes. You may submit and track requests for NARA *operational* records through the *FOIAonline* program, accessible at *https://foiaonline.regulations.gov,* or by sending an email to *FOIA@nara.gov.* The body of the message must contain all of the information listed in 36 CFR 1250.20. You may also file a FOIA request by emailing your request to the offices listed in the table at 36 CFR 1250.22.

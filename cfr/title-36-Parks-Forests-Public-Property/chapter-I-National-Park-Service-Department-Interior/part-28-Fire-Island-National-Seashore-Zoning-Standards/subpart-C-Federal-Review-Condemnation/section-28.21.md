@@ -1,0 +1,3 @@
+##### § 28.21 Suspension of condemnation authority in the communities. #####
+
+The Secretary has the authority to acquire land by condemnation. Upon Secretarial approval of local ordinances, Secretarial authority to acquire by condemnation private property within the communities and “improved property” in the Seashore District that conforms to the federal standards and the provisions of the Act or is not likely to cause significant harm to the natural resources of the Seashore is suspended, except as provided for in § 28.22.

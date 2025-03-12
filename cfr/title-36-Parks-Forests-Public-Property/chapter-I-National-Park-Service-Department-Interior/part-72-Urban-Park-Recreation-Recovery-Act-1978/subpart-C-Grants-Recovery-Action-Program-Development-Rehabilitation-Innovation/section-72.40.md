@@ -1,0 +1,3 @@
+##### § 72.40 Historic properties. #####
+
+Properties listed in or determined eligible for listing in the National Register of Historic Places must be treated in accordance with the Advisory Council on Historic Preservation procedures described in 36 CFR 800, “Protection of Historic and Cultural Properties.” Applicants must identify such properties in the preapplication if they are situated at a UPARR grant site.

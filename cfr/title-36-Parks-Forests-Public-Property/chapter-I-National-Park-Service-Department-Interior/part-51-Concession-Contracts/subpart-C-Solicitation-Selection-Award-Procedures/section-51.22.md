@@ -1,0 +1,5 @@
+##### § 51.22 When may the Director award the concession contract? #####
+
+Before awarding a concession contract with anticipated annual gross receipts in excess of $5,000,000 or of more than 10 years in duration, the Director must submit the concession contract to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The Director must not award any such concession contract until 60 days after the submission. Award of these contracts may not be made without the Director's written approval. The Director may not delegate this approval except to a Deputy Director or an Associate Director. The Director may award a concession contract that is not subject to these or other special award requirements at any time after selection of the best proposal and execution of the concession contract by the offeror.
+
+[65 FR 20668, Apr. 17, 2000, as amended at 79 FR 58263, Sept. 29, 2014]

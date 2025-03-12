@@ -1,0 +1,3 @@
+##### § 1281.10 When does a foundation consult with NARA before offering a gift of a physical or material change, or addition to an existing library? #####
+
+A foundation must consult with the Office of Presidential Libraries before beginning the process of offering a gift for the purpose of making a physical or material change or addition to a new or existing library. NARA will furnish the interested foundation the current architectural and design standards as specified in § 1281.4. Others may request a single copy by writing the Office of Presidential Libraries (NL), Room 2200, 8601 Adelphi Road, College Park, Maryland 20740-6001.

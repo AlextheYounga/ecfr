@@ -1,0 +1,3 @@
+##### § 17.1 Authority. #####
+
+Section 5(a) of the Act of July 15, 1968, 82 Stat. 354, 16 U.S.C. 4601-22(a), authorizes the Secretary of the Interior, under specified conditions, to convey a leasehold or freehold interest on federally owned real property acquired by the Secretary from non-Federal sources within any unit of the National Park System except national parks and those national monuments of scientific significance. This legislation is referred to as “the act” in regulations in this part.

@@ -1,0 +1,3 @@
+##### § 9.191 How does the NPS process my request for reconsideration? #####
+
+The Regional Director will review his or her original decision and, within 90 days after receipt of your appeal, provide you with a written statement reversing, affirming, or modifying that decision, unless the Regional Director notifies you that he or she needs additional time to review the original decision. When issued, that written statement constitutes the Regional Director's final decision on the matter.

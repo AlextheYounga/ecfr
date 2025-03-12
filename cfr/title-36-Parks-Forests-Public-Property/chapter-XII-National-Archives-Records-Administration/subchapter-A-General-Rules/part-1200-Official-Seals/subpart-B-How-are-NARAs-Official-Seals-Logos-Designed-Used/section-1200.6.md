@@ -1,0 +1,3 @@
+##### § 1200.6 Who is authorized to apply the official seals on documents or other materials? #####
+
+The Archivist of the United States (and the Archivist's designee) is the only individual authorized to apply NARA official seals, embossing seals, and replicas and reproductions of seals to appropriate documents, authentications, and other material. NARA accepts requests to use the official seals and approves or denies them based on the criteria identified in § 1200.10.

@@ -1,0 +1,3 @@
+##### § 331.20 Advertisement. #####
+
+Unless otherwise authorized in writing by the District Engineer, advertising by the use of billboards, signs, markers, audio devices, or any other means whatsoever including handbills, circulars, and posters is prohibited. Vessels or vehicles with semipermanent or permanently installed signs are exempt if being used for authorized recreational activities or special events and in compliance with all other rules and regulations pertaining to vessels and vehicles.

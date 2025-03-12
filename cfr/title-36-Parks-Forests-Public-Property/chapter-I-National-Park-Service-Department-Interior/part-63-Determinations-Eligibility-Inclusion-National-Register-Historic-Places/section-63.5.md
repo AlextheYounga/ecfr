@@ -1,0 +1,3 @@
+##### § 63.5 Federal Register publication of properties determined eligible. #####
+
+In addition to written notice to the Federal agency and the State Historic Preservation Officer, public notice of properties determined eligible for the National Register will be published in the Federal Register at regular intervals and in a cumulative annual edition usually issued in February. Determinations in accord with § 63.3 will be identified with an asterisk.

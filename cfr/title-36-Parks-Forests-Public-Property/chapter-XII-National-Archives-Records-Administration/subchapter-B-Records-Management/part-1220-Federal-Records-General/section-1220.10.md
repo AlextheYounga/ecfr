@@ -1,0 +1,5 @@
+##### § 1220.10 Who is responsible for records management? #####
+
+(a) The National Archives and Records Administration (NARA) is responsible for overseeing agencies' adequacy of documentation and records disposition programs and practices, and the General Services Administration (GSA) is responsible for overseeing economy and efficiency in records management. The Archivist of the United States and the Administrator of GSA issue regulations and provide guidance and assistance to Federal agencies on records management programs. NARA regulations are in this subchapter. GSA regulations are in 41 CFR parts 102-193.
+
+(b) Federal agencies are responsible for establishing and maintaining a records management program that complies with NARA and GSA regulations and guidance. Subpart B of this part sets forth basic agency records management requirements.

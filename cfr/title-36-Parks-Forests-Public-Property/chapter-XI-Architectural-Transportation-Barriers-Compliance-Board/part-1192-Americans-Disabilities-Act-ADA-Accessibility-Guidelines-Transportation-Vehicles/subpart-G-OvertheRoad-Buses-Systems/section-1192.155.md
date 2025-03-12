@@ -1,0 +1,7 @@
+##### § 1192.155 Interior circulation, handrails and stanchions. #####
+
+Link to an amendment published at 81 FR 90624, December 14, 2016.
+
+(a) Handrails and stanchions shall be provided in the entrance to the vehicle in a configuration which allows passengers to grasp such assists from outside the vehicle while starting to board, and to continue using such handrails or stanchions throughout the boarding process. Handrails shall have a cross-sectional diameter between 11/4 inches and 11/2 inches or shall provide an equivalent grasping surface, and have eased edges with corner radii of not less than1/8 inch. Handrails shall be placed to provide a minimum 11/2 inches knuckle clearance from the nearest adjacent surface. Where on-board fare collection devices are used, a horizontal passenger assist shall be located between boarding passengers and the fare collection device and shall prevent passengers from sustaining injuries on the fare collection device or windshield in the event of a sudden deceleration. Without restricting the vestibule space, the assist shall provide support for a boarding passenger from the door through the boarding procedure. Passengers shall be able to lean against the assist for security while paying fares.
+
+(b) Where provided within passenger compartments, handrails or stanchions shall be sufficient to permit safe on-board circulation, seating and standing assistance, and alighting by persons with disabilities.

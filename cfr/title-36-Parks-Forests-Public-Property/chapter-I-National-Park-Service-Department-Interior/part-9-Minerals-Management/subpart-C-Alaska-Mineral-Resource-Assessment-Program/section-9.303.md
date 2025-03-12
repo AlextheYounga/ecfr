@@ -1,0 +1,5 @@
+##### § 9.303 Coordination of AMRAP activities in National Park System units. #####
+
+(a) To facilitate compliance with this Subpart, each AMRAP agency will designate a coordinator for AMRAP activities in Alaska who will be the central point of communications with the NPS. The AMRAP agency is responsible for notifying the Regional Director of such designation.
+
+(b) By January 1 of each year, the designated coordinators for the AMRAP agencies will, in consultation with the Regional Director, schedule an interagency meeting to be held by January 31 of each year. Representatives of the AMRAP agencies and the NPS will meet to develop a mutually agreeable schedule of AMRAP projects and activities in Alaska units of the National Park System. Where practicable, AMRAP agencies will consolidate their field activities, including access and field camps, to minimize disturbance to park resources and values.

@@ -1,0 +1,7 @@
+##### § 27.4 Variances and exceptions. #####
+
+(a) Zoning bylaws may provide for variances and exceptions.
+
+(b) Bylaws adopted pursuant to these standards shall contain provisions which constitute notice to applicants for variances and exceptions that, under section 5(d) of the Act of August 7, 1961, the Secretary of the Interior is authorized to withdraw the suspension of his authority to acquire, by condemnation, “improved property” that is made the subject of a variance or exception which, in his opinion, fails to conform or is in any manner opposed to or inconsistent with preservation and development of the seashore as contemplated in the said Act. The Secretary may be consulted at any time by zoning authorities or by the owner of “improved property” regarding the effect of a proposed variance or exception upon the status of the affected property with regard to the suspension of the Secretary's authority to condemn. The Secretary, within 60 days of the receipt of a request for such determination, or as soon thereafter as is reasonably possible, shall advise the owner or zoning authorities whether or not the intended use will subject the property to acquisition by condemnation.
+
+(c) The Secretary shall be promptly notified of the granting of any variance or exception.
