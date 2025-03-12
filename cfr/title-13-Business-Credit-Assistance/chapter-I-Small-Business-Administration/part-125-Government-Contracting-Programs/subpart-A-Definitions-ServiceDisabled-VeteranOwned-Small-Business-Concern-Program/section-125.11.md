@@ -1,5 +1,7 @@
 ##### § 125.11 What definitions are important in the Service-Disabled Veteran-Owned (SDVO) Small Business Concern (SBC) Program? #####
 
+Link to an amendment published at 87 FR 43739, July 22, 2022.
+
 *Contracting officer* has the meaning given such term in section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5)).
 
 *Daily business operations* include, but are not limited to, the marketing, production, sales, and administrative functions of the firm, as well as the supervision of the executive team, and the implementation of policies.

@@ -1,5 +1,7 @@
 ##### § 429.17 Water heaters. #####
 
+Link to an amendment published at 87 FR 43977, July 22, 2022.
+
 (a) *Determination of represented value.* (1) Manufacturers must determine the represented value for each water heater by applying an AEDM in accordance with 10 CFR 429.70 or by testing for the uniform energy factor, in conjunction with the applicable sampling provisions as follows:
 
 (i) If the represented value is determined through testing, the general requirements of 10 CFR 429.11 are applicable; and

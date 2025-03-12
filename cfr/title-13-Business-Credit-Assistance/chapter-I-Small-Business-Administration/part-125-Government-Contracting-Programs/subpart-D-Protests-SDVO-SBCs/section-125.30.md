@@ -1,5 +1,7 @@
 ##### § 125.30 How will SBA process an SDVO protest? #####
 
+Link to an amendment published at 87 FR 43740, July 22, 2022.
+
 (a) *Notice of receipt of protest.* Upon receipt of the protest, SBA will notify the contracting officer and the protester of the date SBA received the protest and whether SBA will process the protest or dismiss it under paragraph (b) of this section.
 
 (b) *Dismissal of protest.* If SBA determines that the protest is premature, untimely, nonspecific, or is based on non-protestable allegations, SBA will dismiss the protest and will send the contracting officer and the protester a notice of dismissal, citing the reason(s) for the dismissal. The dismissal notice must also advise the protester of his/her right to appeal the dismissal to SBA's Office of Hearings and Appeals (OHA) in accordance with part 134 of this chapter.

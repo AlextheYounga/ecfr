@@ -1,5 +1,7 @@
 ##### § 429.33 Ceiling fan light kits. #####
 
+Link to an amendment published at 87 FR 43978, July 22, 2022.
+
 (a) *Determination of represented value.* Manufacturers must determine represented values, which includes certified ratings, for each basic model of ceiling fan light kit in accordance with following sampling provisions.
 
 (1) The requirements of § 429.11 are applicable to ceiling fan light kits, and

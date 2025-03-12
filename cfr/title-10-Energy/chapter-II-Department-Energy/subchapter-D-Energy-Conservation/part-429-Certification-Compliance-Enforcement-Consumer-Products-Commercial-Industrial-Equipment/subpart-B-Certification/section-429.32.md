@@ -1,5 +1,7 @@
 ##### § 429.32 Ceiling fans. #####
 
+Link to an amendment published at 87 FR 43978, July 22, 2022.
+
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of ceiling fan by testing, in conjunction with the following sampling provisions:
 
 (1) The requirements of § 429.11 are applicable to ceiling fans; and

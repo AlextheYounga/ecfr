@@ -8,7 +8,6 @@
 |-------------------------------|----------------------------------------------|
 |        Addison, Texas         |               Addison Airport.               |
 |      Appleton, Wisconsin      |       Appleton International Airport.        |
-|       Ardmore, Oklahoma       |         Ardmore Industrial Airpark.          |
 |    Bedford, Massachusetts     |             L.G. Hanscom Field.              |
 |       Belgrade, Montana       |  Bozeman Yellowstone International Airport.  |
 |      Boca Raton, Florida      |             Boca Raton Airport.              |
@@ -17,7 +16,6 @@
 |         Conroe, Texas         |    Conroe-North Houston Regional Airport.    |
 |         Dallas, Texas         |     Dallas Love Field Municipal Airport      |
 |    Daytona Beach, Florida     |     Daytona Beach International Airport.     |
-|       Decatur, Illinois       |               Decatur Airport.               |
 |        Edinburg, Texas        |South Texas International Airport at Edinburg.|
 |Egg Harbor Township, New Jersey|     Atlantic City International Airport.     |
 |      Englewood, Colorado      |             Centennial Airport.              |
@@ -26,6 +24,8 @@
 |      Fresno, California       |    Fresno Yosemite International Airport.    |
 |       Gypsum, Colorado        |        Eagle County Regional Airport.        |
 |       Harlingen, Texas        |        Valley International Airport.         |
+|         Hayden, Idaho         |            Coeur d'Alene Airport.            |
+|       Ithaca, New York        |      Ithaca Tompkins Regional Airport.       |
 |    Johnson City, New York     |         Greater Binghamton Airport.          |
 |       Lakeland, Florida       |    Lakeland Linder International Airport.    |
 |       Lansing, Michigan       |    Capital Region International Airport.     |
@@ -48,12 +48,14 @@
 |   Palm Springs, California    |     Palm Springs International Airport.      |
 |     Plattsburgh, New York     |      Plattsburgh International Airport.      |
 |     Rochester, Minnesota      |       Rochester International Airport.       |
-|       Rogers, Arkansas        |   Rogers Executive Airport - Carter Field.   |
+|       Rogers, Arkansas        |    Rogers Executive Airport—Carter Field.    |
 |  San Bernardino, California   |    San Bernardino International Airport.     |
 |      San Antonio, Texas       |              Kelly Field Annex.              |
 |     Santa Ana, California     |             John Wayne Airport.              |
 |       Sarasota, Florida       |  Sarasota/Bradenton International Airport.   |
+|        Savoy, Illinois        |   University of Illinois-Willard Airport.    |
 |      Scottsdale, Arizona      |             Scottsdale Airport.              |
+|  Sheboygan Falls, Wisconsin   |      Sheboygan County Memorial Airport.      |
 |      South Bend, Indiana      |      South Bend International Airport.       |
 |    St. Augustine, Florida     |     Northeast Florida Regional Airport.      |
 |        Stuart, Florida        |            Witham Field Airport.             |

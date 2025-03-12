@@ -1,5 +1,7 @@
 ##### § 429.19 Dishwashers. #####
 
+Link to an amendment published at 87 FR 43977, July 22, 2022.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to dishwashers; and
 
 (2) For each basic model of dishwashers, a sample of sufficient size shall be randomly selected and tested to ensure that -

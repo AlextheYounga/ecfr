@@ -1,5 +1,7 @@
 ##### § 125.12 Who does SBA consider to own an SDVO SBC? #####
 
+Link to an amendment published at 87 FR 43739, July 22, 2022.
+
 Generally, a concern must be at least 51% unconditionally and directly owned by one or more service-disabled veterans. More specifically:
 
 (a) *Ownership must be direct.* Ownership by one or more service disabled veterans must be direct ownership. A concern owned principally by another business entity that is in turn owned and controlled by one or more service-disabled veterans does not meet this requirement. Ownership by a trust, such as a living trust, may be treated as the functional equivalent of ownership by service-disabled veterans where the trust is revocable, and service-disabled veterans are the grantors, trustees, and the current beneficiaries of the trust.

@@ -1,5 +1,7 @@
 ##### § 125.14 What size standards apply to SDVO SBCs? #####
 
+Link to an amendment published at 87 FR 43739, July 22, 2022.
+
 (a) At time of contract offer, an SDVO SBC must be small within the size standard corresponding to the NAICS code assigned to the contract.
 
 (b) If the contracting officer is unable to verify that the SDVO SBC is small, the concern shall be referred to the responsible SBA Government Contracting Area Director for a formal size determination in accordance with part 121 of this chapter.

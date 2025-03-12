@@ -1,5 +1,7 @@
 ##### § 125.29 What are the grounds for filing an SDVO SBC protest? #####
 
+Link to an amendment published at 87 FR 43740, July 22, 2022.
+
 (a) *Status.* In cases where the protest is based on service-connected disability, permanent and severe disability, or veteran status, the Director, Office of Government Contracting will only consider a protest that presents specific allegations supporting the contention that the owner(s) cannot provide documentation from the VA, DoD, or the U.S. National Archives and Records Administration to show that they meet the definition of service-disabled veteran or service disabled veteran with a permanent and severe disability as set forth in § 125.8.
 
 (b) *Ownership and control.* In cases where the protest is based on ownership and control, the Director, Office of Government Contracting will consider a protest only if the protester presents credible evidence that the concern is not 51% owned and controlled by one or more service-disabled veterans. In the case of a veteran with a permanent and severe disability, the protester must present credible evidence that the concern is not controlled by the veteran, spouse or permanent caregiver of such veteran.

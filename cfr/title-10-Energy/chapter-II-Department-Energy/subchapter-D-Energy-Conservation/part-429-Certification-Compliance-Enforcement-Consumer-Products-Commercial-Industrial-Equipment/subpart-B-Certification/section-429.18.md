@@ -1,5 +1,7 @@
 ##### § 429.18 Residential furnaces. #####
 
+Link to an amendment published at 87 FR 43977, July 22, 2022.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to residential furnaces; and
 
 (2)(i) For each basic model of furnaces, other than basic models of those sectional cast-iron boilers (which may be aggregated into groups having identical intermediate sections and combustion chambers) a sample of sufficient size shall be randomly selected and tested to ensure that -

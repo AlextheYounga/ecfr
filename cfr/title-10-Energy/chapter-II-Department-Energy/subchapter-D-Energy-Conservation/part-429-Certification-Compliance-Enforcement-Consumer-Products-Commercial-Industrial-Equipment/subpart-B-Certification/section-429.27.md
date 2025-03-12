@@ -1,5 +1,7 @@
 ##### § 429.27 General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps. #####
 
+Link to an amendment published at 87 FR 43978, July 22, 2022.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to general service fluorescent lamps, general service incandescent lamps and incandescent reflector lamps; and
 
 (2)(i) For each basic model of general service fluorescent lamp and incandescent reflector lamp, samples of production lamps shall be obtained from a 12-month period, tested, and the results averaged. A minimum sample of 21 lamps shall be tested. The manufacturer shall randomly select a minimum of three lamps from each month of production for a minimum of 7 out of the 12-month period. In the instance where production occurs during fewer than 7 of such 12 months, the manufacturer shall randomly select 3 or more lamps from each month of production, where the number of lamps selected for each month shall be distributed as evenly as practicable among the months of production to attain a minimum sample of 21 lamps. Any represented value of lamp efficacy of a basic model shall be based on the sample and shall be less than or equal to the lower of:
