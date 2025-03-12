@@ -1,5 +1,7 @@
 ##### § 17.1005 Payment limitations. #####
 
+Link to an amendment published at 88 FR 10842, Feb. 22, 2023.
+
 (a) Payment or reimbursement for emergency treatment (including emergency transportation) under 38 U.S.C. 1725 will be calculated as follows:
 
 (1) If an eligible veteran has personal liability to a provider of emergency treatment and no contractual or legal recourse against a third party, including under a health-plan contract, VA will pay the lesser of the amount for which the veteran is personally liable or 70 percent of the applicable Medicare fee schedule amount for such treatment.

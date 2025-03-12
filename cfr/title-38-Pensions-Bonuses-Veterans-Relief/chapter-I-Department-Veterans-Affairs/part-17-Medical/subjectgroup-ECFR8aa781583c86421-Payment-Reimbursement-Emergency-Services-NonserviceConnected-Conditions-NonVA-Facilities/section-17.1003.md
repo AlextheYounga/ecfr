@@ -1,5 +1,7 @@
 ##### § 17.1003 Emergency transportation. #####
 
+Link to an amendment published at 88 FR 10841, Feb. 22, 2023.
+
 Notwithstanding the provisions of § 17.1002, payment or reimbursement under 38 U.S.C. 1725 for ambulance services, including air ambulance services, may be made for transporting a veteran to a facility only if the following conditions are met:
 
 (a) Payment or reimbursement is authorized under 38 U.S.C. 1725 for emergency treatment provided at a non-VA facility, or payment or reimbursement would have been authorized under 38 U.S.C. 1725 for emergency treatment had:

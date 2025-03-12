@@ -1,5 +1,7 @@
 ##### § 17.1004 Filing claims. #####
 
+Link to an amendment published at 88 FR 10841, Feb. 22, 2023.
+
 (a) A claimant for payment or reimbursement under 38 U.S.C. 1725 must be the entity that furnished the treatment, the veteran who paid for the treatment, or the person or organization that paid for such treatment on behalf of the veteran.
 
 (b) To obtain payment or reimbursement for emergency treatment under 38 U.S.C. 1725, a claimant must submit to the VA medical facility of jurisdiction a completed standard billing form (such as a UB92 or a CMS 1500). Where the form used does not contain a false claims notice, the completed form must also be accompanied by a signed, written statement declaring that “I hereby certify that this claim meets all of the conditions for payment by VA for emergency medical services under 38 CFR 17.1002 (except for paragraph (e)) and 17.1003. I am aware that 38 U.S.C. 6102(b) provides that one who obtains payment without being entitled to it and with intent to defraud the United States shall be fined in accordance with title 18, United States Code, or imprisoned not more than one year, or both.”
@@ -22,4 +24,4 @@ These regulations regarding payment or reimbursement for emergency services for 
 
 (f) Notwithstanding paragraph (d) of this section, VA will provide retroactive payment or reimbursement for emergency treatment received by the veteran on or after July 19, 2001, but more than 90 days before May 21, 2012, if the claimant files a claim for reimbursement no later than 1 year after May 21, 2012.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0620.)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 77 FR 23617, Apr. 20, 2012; 84 FR 26307, June 5, 2019]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0620)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 77 FR 23617, Apr. 20, 2012; 84 FR 26307, June 5, 2019]
