@@ -1,5 +1,7 @@
 ##### § 651.10 Definitions of terms used in this part and parts 652, 653, 654, and 658 of this chapter. #####
 
+Link to an amendment published at 85 FR 625, Jan. 6, 2020.
+
 In addition to the definitions set forth in sec. 3 of WIOA, the following definitions apply to the regulations in parts 652, 653, 654, and 658 of this chapter:
 
 *Act* means the Wagner-Peyser Act (codified at 29 U.S.C. 49 *et seq.*).

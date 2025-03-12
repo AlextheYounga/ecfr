@@ -22,8 +22,8 @@
 
 1 Copies and translations of foreign laws and regulations will be requested only if they are not in the files of the Plant Variety Protection Office. Applicants may learn whether such a request will be made by writing to the address given in paragraph (c) of this section.
 
-(c) Application and exhibit forms shall be issued by the Commissioner. (Copies of the forms may be obtained from the Plant Variety Protection Office, National Agricultural Library, Room 401, 10301 Baltimore Avenue, Beltsville, MD 20705-2351).
+(c) Application and exhibit forms shall be issued by the Commissioner. (Copies of the forms may be obtained from the Plant Variety Protection Office by sending an email request to *PVPOmail@usda.gov* or downloading forms from the PVPO website (*https://www.ams.usda.gov/PVPO*).
 
 (d) Effective the date of these regulations and rules of practice, the signature of the applicant, or his or her agent or attorney on any affidavit or other statement filed pursuant to these regulations and rules constitutes a certification by the applicant. The signature certifies that all information relied on in any affidavit or statement filed in the course of the proceeding is knowingly correct and false claims have not been made to mislead.
 
-[58 FR 42435, Aug. 9, 1993, as amended at 60 FR 17189, Apr. 4, 1995; 61 FR 248, Jan. 4, 1996; 70 FR 28785, May 19, 2005]
+[58 FR 42435, Aug. 9, 1993, as amended at 60 FR 17189, Apr. 4, 1995; 61 FR 248, Jan. 4, 1996; 70 FR 28785, May 19, 2005; 85 FR 430, Jan. 6, 2020]

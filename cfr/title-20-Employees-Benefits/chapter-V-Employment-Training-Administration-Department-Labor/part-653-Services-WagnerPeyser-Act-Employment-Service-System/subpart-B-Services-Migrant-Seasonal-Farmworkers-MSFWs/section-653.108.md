@@ -1,5 +1,7 @@
 ##### § 653.108 State Workforce Agency and State Monitor Advocate responsibilities. #####
 
+Link to an amendment published at 85 FR 627, Jan. 6, 2020.
+
 (a) State Administrators must ensure their SWAs monitor their own compliance with ES regulations in serving MSFWs on an ongoing basis. The State Administrator has overall responsibility for SWA self-monitoring.
 
 (b) The State Administrator must appoint a State Monitor Advocate. The State Administrator must inform farmworker organizations and other organizations with expertise concerning MSFWs of the opening and encourage them to refer qualified applicants to apply through the State merit system prior to appointing a State Monitor Advocate. Among qualified candidates determined through State merit system procedures, the SWAs must seek persons:

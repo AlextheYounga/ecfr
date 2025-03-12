@@ -1,12 +1,10 @@
 ##### § 1744.67 Temporary excess construction funds. #####
 
-Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
-
 (a) When unanticipated events delay the borrower's disbursement of advanced funds, the funds may be used as follows:
 
-(1) With RUS loan funds for loans approved prior to November 1, 1993, or hardship loan funds, the borrower may invest the funds in 5 percent Treasury Certificates of Indebtedness - RUS Series.
+(1) With RUS loan funds for loans approved prior to November 1, 1993, or hardship loan funds, the borrower may invest the funds in 5 percent Treasury Certificates of Indebtedness—RUS Series.
 
-(2) With RUS cost-of-money, FFB or RTB loan funds, the following apply:
+(2) With RUS cost-of-money or FFB loan funds, the following apply:
 
 (i) The borrower may invest the funds in short term securities issued by the United States Treasury.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
 
 (e) For RUS loans approved prior to October 1, 1991, the borrower may return advanced funds to RUS as a refund of an advance. Interest stops accruing on the refunded advance upon receipt by RUS. A refunded advance may be readvanced. A refund of an advance shall be sent to the Rural Utilities Service, United States Department of Agriculture, Collections and Custodial Section, Washington, DC, 20250. The borrower should clearly indicate that this is a refund of an advance, and not a loan payment or prepayment.
 
-[54 FR 12186, Mar. 24, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 58 FR 66257, Dec. 20, 1993]
+[54 FR 12186, Mar. 24, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 58 FR 66257, Dec. 20, 1993; 84 FR 59922, Nov. 7, 2019]

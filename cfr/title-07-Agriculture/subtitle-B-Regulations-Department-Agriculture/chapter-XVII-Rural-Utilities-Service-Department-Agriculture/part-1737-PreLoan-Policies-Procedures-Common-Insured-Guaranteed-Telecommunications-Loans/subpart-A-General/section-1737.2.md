@@ -1,7 +1,5 @@
 ##### § 1737.2 Definitions. #####
 
-Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
-
 As used in this part:
 
 *Access line* means a transmission path between user terminal equipment and a switching center that is used for local exchange service. For multiparty service, the number of access lines equals the number of lines/paths terminating on the mainframe of the switching center.
@@ -38,15 +36,13 @@ As used in this part:
 
 *RE Act* means the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*).
 
-*RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act bearing an interest rate as determined under 7 CFR 1735.31(c). RUS cost-of-money loans are made concurrently with RTB loans.
-
 *Release of funds* means determination by RUS that a borrower has complied with all of the conditions prerequisite to the advances as set forth in the loan contract to the extent deemed necessary by RUS for approval of the use of loan funds and any required equity or other nonloan funds.
 
 *Reserves* means loan or nonloan funds that have not been encumbered. Funds are encumbered when they have been set aside for by RUS for a particular loan purpose.
 
-*RTB loan* means a loan made by the Rural Telephone Bank (RTB) under section 408 of the RE Act bearing an interest rate as determined under 7 CFR 1610.10. RTB loans are made concurrently with RUS cost-of-money loans.
-
 *Rural area* means any area of the United States, its territories and possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States. If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
+
+*RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act bearing an interest rate as determined under 7 CFR 1735.31(c).
 
 *Special project* means facilities involving investment in excess of $100,000 for any single subscriber.
 
@@ -64,4 +60,4 @@ As used in this part:
 
 *Times Interest Earned Ratio* (TIER) means the ratio of a borrower's net income (after taxes) plus interest expense, all divided by interest expense. For the purpose of this calculation, all amounts will be annual figures and interest expense will include only interest on debt with a maturity greater than one year.
 
-[54 FR 13356, Apr. 3, 1989. Redesignated at 55 FR 39396, Sept. 27, 1990, as amended at 56 FR 26598, June 10, 1991; 58 FR 66256, Dec. 20, 1993; 80 FR 9861, Feb. 24, 2015]
+[54 FR 13356, Apr. 3, 1989. Redesignated at 55 FR 39396, Sept. 27, 1990, as amended at 56 FR 26598, June 10, 1991; 58 FR 66256, Dec. 20, 1993; 80 FR 9861, Feb. 24, 2015; 84 FR 59922, Nov. 7, 2019]

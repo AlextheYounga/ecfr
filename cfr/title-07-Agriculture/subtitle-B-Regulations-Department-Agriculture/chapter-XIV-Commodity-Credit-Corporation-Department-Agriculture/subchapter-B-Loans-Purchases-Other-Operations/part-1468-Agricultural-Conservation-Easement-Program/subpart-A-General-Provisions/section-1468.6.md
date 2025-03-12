@@ -1,43 +1,49 @@
 ##### § 1468.6 Subordination, exchange, modification, and termination. #####
 
-(a) After an easement has been recorded, no subordination, exchange, modification, or termination will be made in any interest in land, or portion of such interest, except as approved by the NRCS.
+(a) After an easement has been recorded, no subordination, modification, exchange, or termination will be made in any interest in land, or portion of such interest, except as approved by the NRCS. NRCS may approve such easement administration actions if NRCS determines, in accordance with the sequencing considerations under the National Environmental Policy Act, that -
 
-(b) NRCS may approve subordinations, exchanges, modifications, or terminations if NRCS determines that:
+(1)(i) The subordination, modification, or exchange action results in no net loss of easement acres, and is in the public interest or will further the practical administration and management of the easement area or the program, as determined by the NRCS, or
 
-(1) It is in the Federal Government's interest to subordinate, exchange, modify, or terminate the interest in the land enrolled in the program;
+(ii) The termination action will address a compelling public need for which there is no practicable alternative even with avoidance and minimization, and will further the practical administration and management of the easement area or the program, as determined by the NRCS.
 
-(2) The subordination, exchange, modification, or termination action will address a compelling public need or will facilitate the practical administration and management of the easement area or the program, as determined by the NRCS;
+(2) For modification or exchange actions -
 
-(3) There is no practicable alternative that would address the compelling public need and avoid the easement area;
+(i) There is no reasonable alternative that would avoid the easement area, or if the easement area cannot be avoided entirely, then the preferred alternative must minimize impacts to the original easement area and its conservation functions and values to the greatest extent practicable and any remaining adverse impacts must be mitigated, as determined by NRCS, at no cost to the government,
 
-(4)(i) The change will not adversely affect the conservation functions and values for which the easement was acquired or
+(ii) The action is consistent with the original intent of the easement and is consistent with the purposes of the program, and
 
-(ii) If there is no practicable alternative that exists other than impact to the conservation value of the easement area, such adverse impacts have been minimized to the greatest extent practicable, and any remaining adverse impacts mitigated by enrollment of other lands that provide equal or greater conservation functions and values, as determined by NRCS, at no cost to the government;
+(iii) The action results in equal or greater conservation functions and value and equal or greater economic value to the United States. A determination of equal or greater economic value to the United States will be made in accordance with an approved easement valuation methodology for agricultural land easements under subpart B or for wetland reserve easements under subpart C. In addition to the value of the easement itself, NRCS may consider other financial investments it has made in the acquisition, restoration, and management of the original easement to ensure that the easement administration action results in equal or greater economic value to the United States.
 
-(5) The easement subordination, modification, exchange, or termination under this section will not affect more than 10 percent of the original easement area. NRCS may authorize a greater percentage of the original easement area to be affected if NRCS determines that it is impracticable to achieve program purposes on the original easement area; and
+(3) For subordination actions, the action -
 
-(6) The subordination, exchange, modification, or termination action will result in comparable conservation functions and value and equivalent or greater economic value to the United States as determined pursuant to paragraph (d) of this section.
+(i) Increases conservation functions and values or has a limited negative effect on conservation functions and values;
 
-(c) NRCS must determine that the landowner and, if applicable, the eligible entity agree to such easement subordination, modification, exchange, or termination prior to considering that such easement administration action should be approved.
+(ii) Is at no cost to the Government; and
 
-(d) A determination of equal or greater economic value to the United States under paragraph (b) of this section will be made in accordance with an approved easement valuation methodology for ALE easements under subpart B or for WRE easements under subpart C. In addition to the value of the easement itself, NRCS may consider other financial investments it has made in the acquisition, restoration, and management of the original easement to ensure that the easement administration action results in equal or greater economic value to the United States.
+(iii) Notwithstanding paragraph (a)(4) of this section, will only minimally affect the acreage subject to the interest in land.
 
-(e) Subordinations, exchanges, modifications, or terminations must result in equal or greater conservation and economic values to the United States. Subordinations, exchanges, or modifications of ACEP easements must result in no net loss of easement acres.
+(4) For termination actions, the action -
 
-(f) When reviewing a proposed action under this section, the preferred alternative is to avoid the easement area. If the easement area cannot be avoided entirely, then the preferred alternative must minimize impacts to the original easement area and its conservation functions and values.
+(i) Is in the interest of the Federal Government; and
 
-(g) Easement modifications, including subordinations, are preferred to easement exchanges that may involve lands that are not physically adjacent to the original easement area. Easement exchanges are limited to circumstances where there are no available lands adjacent to the original easement area that will result in equal or greater conservation and economic values to the United States.
+(ii) The United States will be fully compensated for the fair market value of the interest in land including any costs and damages related to the termination.
 
-(h) Replacement of easement acres as part of an easement exchange must occur within the same State and within the same eight-digit watershed as determined by the hydrologic unit codes developed by the U.S. Geological Survey.
+(5) The easement administration action will not affect more than 10 percent of the original easement area unless NRCS determines that it is impracticable to achieve program purposes on the original easements area, in which case NRCS may authorize a greater percentage of the original easement area to be affected.
 
-(i) Where NRCS determines that recordation of a new deed is necessary to effect an easement administration action under this section, NRCS may use the most recent version of the ACEP deed document or deed terms approved by NRCS.
+(6) The landowner and, if applicable, the agricultural land easement holder agrees to such easement administration action prior to NRCS considering that such easement administration action may be approved.
 
-(j) If a modification, subordination or exchange involves an amended or new easement deed, the amended or new easement deed will be duly prepared and recorded in conformity with standard real estate practices, including requirements for title approval, subordination of liens, and recordation of documents.
+(b) Easement subordinations or modifications are preferred to easement exchanges that may involve lands that are not physically adjacent to the original easement area. Easement exchanges are limited to circumstances where there are no available lands adjacent to the original easement area that will result in equal or greater conservation and economic values to the United States.
 
-(k) At least 90 days prior to taking any termination action, written notice of such termination action will be provided to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+(c) Replacement of easement acres as part of an easement exchange must occur within the same State and within the same eight-digit watershed as determined by the hydrologic unit codes developed by the U.S. Geological Survey.
 
-(l) A termination must meet criteria identified in this part and are limited to those circumstances where NRCS determines that the purposes of the program can no longer be achieved on the original easement area or the terms of the easement are no longer enforceable and there are no acceptable replacement acres available. NRCS will enter into a compensatory agreement with the proponent of the termination that identifies the costs for which the United States must be reimbursed, including but not limited to the value of the easement itself based upon current valuation methodologies, repayment of legal boundary survey costs, legal title work costs, associated easement purchase and restoration costs, and legal filing fees.
+(d) Where NRCS determines that recordation of an amended or new easement deed is necessary to affect an easement administration action under this section, NRCS may use the most recent version of the ACEP deed document or deed terms approved by NRCS. The amended or new easement deed must be duly prepared and recorded in conformity with standard real estate practices, including requirements for title approval, subordination of liens, and recordation of documents.
 
-(m) *Easement plan.* Insofar as is consistent with the easement and applicable law, NRCS may approve modifications to an easement plan that do not affect provisions of the easement. Easement plans include any agricultural land easement plans and component plans, wetland reserve plans of operations, or wetland reserve easement restoration agreements. Any easement plan modification must meet ACEP regulations and program objectives and must result in equal or greater conservation benefits on the enrolled land.
+(e) Modification or exchange of all or a portion of an interest in land enrolled in ACEP-ALE may not increase any payment to an easement holder.
 
-[80 FR 11048, Feb. 27, 2015, as amended at 81 FR 71852, Oct. 18, 2016]
+(f)(1) A termination action must meet criteria identified in this part and are limited to those circumstances where NRCS determines it is in the Federal Government's interest to terminate all or a portion of the interest in the land enrolled in the program, that the purposes of the program can no longer be achieved on the original easement area, or the terms of the easement are no longer enforceable and there are no acceptable replacement acres available.
+
+(2) NRCS will enter into a compensatory agreement with the proponent of the termination that identifies the costs for which the United States must be reimbursed, including but not limited to the value of the easement itself based upon current valuation methodologies, repayment of legal boundary survey costs, legal title work costs, associated easement purchase and restoration costs, legal filing fees, costs relating to the termination, and any damages determined appropriate by NRCS.
+
+(3) At least 90 days prior to taking any termination action, written notice of such termination action will be provided to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+(g) Insofar as is consistent with the easement and applicable law, NRCS may approve modifications to an easement plan that do not affect provisions of the easement. Easement plans include any conservation plan, WRPO, wetland reserve easement restoration agreements, grazing management plan, habitat management plans, or other plans required as a condition of enrollment. Any easement plan modification must meet this part and must result in equal or greater conservation benefits on the enrolled land.

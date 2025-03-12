@@ -1,5 +1,7 @@
 ##### § 658.410 Establishment of local and State complaint systems. #####
 
+Link to an amendment published at 85 FR 628, Jan. 6, 2020.
+
 (a) Each State Workforce Agency (SWA) must establish and maintain a Complaint System pursuant to this subpart.
 
 (b) The State Administrator must have overall responsibility for the operation of the Complaint System. At the ES office level the manager must be responsible for the operation of the Complaint System.

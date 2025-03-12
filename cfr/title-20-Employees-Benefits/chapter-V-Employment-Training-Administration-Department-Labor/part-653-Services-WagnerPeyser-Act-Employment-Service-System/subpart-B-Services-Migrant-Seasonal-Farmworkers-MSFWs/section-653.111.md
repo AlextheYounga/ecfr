@@ -1,5 +1,7 @@
 ##### § 653.111 State Workforce Agency staffing requirements. #####
 
+Link to an amendment published at 85 FR 628, Jan. 6, 2020.
+
 (a) The SWA must implement and maintain an affirmative action program for staffing in significant MSFW one-stop centers, and must employ ES staff in a manner facilitating the delivery of employment services tailored to the special needs of MSFWs, including:
 
 (1) The positioning of multilingual staff in offices serving a significant number of Spanish-speaking or ELL participants; and

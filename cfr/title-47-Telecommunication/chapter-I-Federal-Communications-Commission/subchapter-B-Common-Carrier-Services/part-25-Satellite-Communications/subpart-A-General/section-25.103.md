@@ -1,7 +1,5 @@
 ##### § 25.103 Definitions. #####
 
-Link to an amendment published at 84 FR 66779, Dec. 5, 2019.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *1.5/1.6 GHz Mobile-Satellite Service.* Mobile-Satellite Service provided in any portion of the 1525-1559 MHz space-to-Earth band and the 1626.5-1660.5 MHz Earth-to-space band, which are referred to in this rule part as the “1.5/1.6 GHz MSS bands.”
@@ -45,8 +43,6 @@ Terms with definitions including the “(RR)” designation are defined in the s
 *Earth Station in Motion (ESIM).* A term that collectively designates ESV, VMES and ESAA earth stations, as defined in this section.
 
 *Earth Station on Vessel (ESV).* An earth station onboard a craft designed for traveling on water, receiving from and transmitting to geostationary-orbit Fixed-Satellite Service space stations.
-
-*Emergency Call Center.* A facility that subscribers of satellite commercial mobile radio services call when in need of emergency assistance by dialing “911” on their mobile earth station terminals.
 
 *Equivalent diameter.* When circular aperture reflector antennas are employed, the size of the antenna is generally expressed as the diameter of the antenna's main reflector. When non-reflector or non-circular-aperture antennas are employed, the equivalent diameter is the diameter of a hypothetical circular-aperture antenna with the same aperture area as the actual antenna. For example, an elliptical aperture antenna with major axis *a* and minor axis *b* will have an equivalent diameter of [*a* × *b*]1/2. A rectangular aperture antenna with length *l* and width *w* will have an equivalent diameter of [4(*l* × *w*)/π]1/2.
 
@@ -134,4 +130,4 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to geostationary orbit Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019]

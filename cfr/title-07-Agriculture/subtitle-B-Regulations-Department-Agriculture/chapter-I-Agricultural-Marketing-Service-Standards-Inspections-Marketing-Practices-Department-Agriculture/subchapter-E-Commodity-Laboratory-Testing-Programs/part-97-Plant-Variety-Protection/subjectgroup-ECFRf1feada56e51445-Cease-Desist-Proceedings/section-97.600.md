@@ -1,3 +1,3 @@
-##### § 97.600 Rules of practice. #####
+##### § 97.600 Administrative provisions. #####
 
 Any proceedings instituted under section 128 of the Act for false marking shall be conducted in accordance with §§ 202.10 through 202.29 of this chapter (rules of practice under the Federal Seed Act) (7 U.S.C. 1551 *et seq.*), except that all references in those rules and regulations to “Examiner” shall be construed to be an Administrative Law Judge, U.S. Department of Agriculture, and not an “Examiner” as defined in the regulations under the Plant Variety Protection Act.

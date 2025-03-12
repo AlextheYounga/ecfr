@@ -1,6 +1,6 @@
 ##### § 1.9030 Long-term de facto transfer leasing arrangements. #####
 
-Link to an amendment published at 84 FR 57364, October 25, 2019.Link to an amendment published at 84 FR 66760, Dec. 5, 2019.
+Link to an amendment published at 84 FR 57364, October 25, 2019.
 
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a long-term *de facto* transfer leasing arrangement in which the licensee retains *de jure* control of the license while *de facto* control of the leased spectrum is transferred to the spectrum lessee for the duration of the spectrum leasing arrangement, subject to prior Commission consent pursuant to the application procedures set forth in this section. A “long-term” *de facto* transfer leasing arrangement has an individual term, or series of combined terms, of more than one year. The term of a long-term *de facto* transfer leasing arrangement may be no longer than the term of the license authorization.
 
@@ -54,7 +54,7 @@ Link to an amendment published at 84 FR 57364, October 25, 2019.Link to an amend
 
 (7) *Regulatory fees.* The licensee remains responsible for payment of the required regulatory fees that must be paid in advance of its license term (*see* § 1.1152). Where, however, regulatory fees are paid annually on a per-unit basis (such as for CMRS services pursuant to § 1.1152), the licensee and spectrum lessee each are required to pay fees for those units associated with its respective operations.
 
-(8) *E911 requirements.* To the extent the licensee is required to meet E911 obligations (*see* § 20.18 of this chapter), the spectrum lessee is required to meet those obligations with respect to the spectrum leased under the spectrum leasing arrangement insofar as the spectrum lessee's operations are encompassed within the E911 obligations. If the spectrum lessee is a Contraband Interdiction System (CIS) provider, as defined in § 1.9003, then the CIS provider is responsible for compliance with § 20.18(r) regarding E911 transmission obligations.
+(8) *E911 requirements.* To the extent the licensee is required to meet E911 obligations (see § 9.10 of this chapter), the spectrum lessee is required to meet those obligations with respect to the spectrum leased under the spectrum leasing arrangement insofar as the spectrum lessee's operations are encompassed within the E911 obligations. If the spectrum lessee is a Contraband Interdiction System (CIS) provider, as defined in § 1.9003, then the CIS provider is responsible for compliance with § 9.10(r) regarding E911 transmission obligations.
 
 (e) *Applications for long-term de facto transfer leasing arrangements.* Applications for long-term *de facto* transfer leasing arrangements will be processed either pursuant to the general approval procedures or the immediate approval procedures, as discussed herein. Spectrum leasing parties must submit the application by electronic filing using ULS and FCC Form 608, and obtain Commission consent prior to consummating the transfer of *de facto* control of the leased spectrum, except that parties falling within the provisions of § 1.913(d) may file the application either electronically or manually.
 
@@ -118,4 +118,4 @@ Link to an amendment published at 84 FR 57364, October 25, 2019.Link to an amend
 
 (m) *Community notification requirement for certain contraband interdiction systems.* 10 days prior to deploying a Contraband Interdiction System that prevents communications to or from mobile devices, a lessee must notify the community in which the correctional facility is located. The notification must include a description of what the system is intended to do, the date the system is scheduled to begin operating, and the location of the correctional facility. Notification must be tailored to reach the community immediately adjacent to the correctional facility, including through local television, radio, Internet news sources, or community groups, as may be appropriate. No notification is required, however, for brief tests of a system prior to deployment.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77554, Dec. 27, 2004; 80 FR 56816, Sept. 18, 2015; 82 FR 22760, May 18, 2017]
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77554, Dec. 27, 2004; 80 FR 56816, Sept. 18, 2015; 82 FR 22760, May 18, 2017; 84 FR 66760, Dec. 5, 2019]

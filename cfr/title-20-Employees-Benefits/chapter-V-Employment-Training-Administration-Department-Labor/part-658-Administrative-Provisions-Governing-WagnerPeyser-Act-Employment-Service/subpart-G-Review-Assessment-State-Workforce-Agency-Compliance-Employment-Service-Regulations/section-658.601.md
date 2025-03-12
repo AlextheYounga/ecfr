@@ -1,5 +1,7 @@
 ##### § 658.601 State Workforce Agency responsibility. #####
 
+Link to an amendment published at 85 FR 629, Jan. 6, 2020.
+
 (a) Each SWA must establish and maintain a self-appraisal system for ES operations to determine success in reaching goals and to correct deficiencies in performance. The self-appraisal system must include numerical (quantitative) appraisal and non-numerical (qualitative) appraisal.
 
 (1) Numerical appraisal at the ES office level must be conducted as follows:

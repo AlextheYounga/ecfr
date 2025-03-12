@@ -1,7 +1,5 @@
 ##### § 1735.2 Definitions. #####
 
-Link to an amendment published at 84 FR 59920, Nov. 7, 2019.
-
 As used in this part:
 
 *Access line* means a transmission path between user terminal equipment and a switching center that is used for local exchange service. For multiparty service, the number of access lines equals the number of lines/paths terminating on the mainframe of the switching center.
@@ -30,7 +28,7 @@ As used in this part:
 
 *Depreciation* means the loss not restored by current maintenance, incurred in connection with the consumption or prospective retirement of telecommunications plant in the course of service from causes which are known to be in current operation, against which the company is not protected by insurance, and the effect of which can be forecast to a reasonable approach to accuracy.
 
-*Economic life* as applied to facilities financed by loan funds, means the number of years resulting from dividing 100 percent by the depreciation rate (expressed as a percent) approved by the regulatory body with jurisdiction over the telephone service provided by the borrower for the class of facility involved or, if no approved rate exists, by the median depreciation rate expressed as a percent as published by RUS in its Statistical Report, Rural Telephone Borrowers for all RUS and RTB borrowers for that class of facility.
+*Economic life* as applied to facilities financed by loan funds, means the number of years resulting from dividing 100 percent by the depreciation rate (expressed as a percent) approved by the regulatory body with jurisdiction over the telephone service provided by the borrower for the class of facility involved or, if no approved rate exists, by the median depreciation rate expressed as a percent as published by RUS in its Statistical Report, Rural Telephone Borrowers for all RUS borrowers for that class of facility.
 
 *Exchange access* means the offering of access to telephone exchange services or facilities for the purpose of the origination or termination of telephone toll services.
 
@@ -88,13 +86,11 @@ Note: For nonprofit organizations, owners' equity is shown in subaccounts of 454
 
 *RE Act* means the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*).
 
+*Rural area* means any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
+
 *RUS* means the Rural Utilities Service, an agency of the United States Department of Agriculture, successor to the Rural Electrification Administration.
 
-*RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act bearing an interest rate as determined under § 1735.31(c). RUS cost-of-money loans are made concurrently with RTB loans.
-
-*RTB loan* means a loan made by the Rural Telephone Bank (RTB) under section 408 of the RE Act bearing an interest rate as determined under 7 CFR 1610.10. RTB loans are made concurrently with RUS cost-of-money loans.
-
-*Rural area* means any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
+*RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act bearing an interest rate as determined under § 1735.31(c).
 
 *Specialized telecommunications service* means any telephone service other than telephone exchange service, exchange access, or mobile telecommunications service.
 
@@ -130,4 +126,4 @@ Note: For nonprofit organizations, owners' equity is shown in subaccounts of 454
 
 Note: All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32).
 
-[54 FR 13351, Apr. 3, 1989; 54 FR 16194, Apr. 21, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26596, June 10, 1991; 58 FR 66253, Dec. 20, 1993; 62 FR 46869, Sept. 5, 1997; 65 FR 42619, July 11, 2000; 65 FR 54402, Sept. 8, 2000; 80 FR 9861, Feb. 24, 2015]
+[54 FR 13351, Apr. 3, 1989; 54 FR 16194, Apr. 21, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26596, June 10, 1991; 58 FR 66253, Dec. 20, 1993; 62 FR 46869, Sept. 5, 1997; 65 FR 42619, July 11, 2000; 65 FR 54402, Sept. 8, 2000; 80 FR 9861, Feb. 24, 2015; 84 FR 59920, Nov. 7, 2019]

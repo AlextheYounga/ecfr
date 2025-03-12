@@ -1,12 +1,10 @@
 ##### § 1.9049 Special provisions relating to spectrum leasing arrangements involving the ancillary terrestrial component of Mobile Satellite Services. #####
 
-Link to an amendment published at 84 FR 66760, Dec. 5, 2019.
-
 (a) A license issued under part 25 of the Commission's rules that provides authority for an ATC will be considered to provide “exclusive use rights” for purpose of this subpart of the rules.
 
 (b) For the purpose of this subpart, a Mobile Satellite Service licensee with an ATC authorization may enter into a spectrum manager leasing arrangement with a spectrum lessee (*see* § 1.9020). Notwithstanding the provisions of §§ 1.9030 and 1.9035, a MSS licensee is not permitted to enter into a *de facto* transfer leasing arrangement with a spectrum lessee.
 
-(c) For purposes of § 1.9020(d)(8), the Mobile Satellite Service licensee's obligation, if any, concerning the E911 requirements in § 20.18 of this chapter, will, with respect to an ATC, be specified in the licensing document for the ATC.
+(c) For purposes of § 1.9020(d)(8), the Mobile Satellite Service licensee's obligation, if any, concerning the E911 requirements in § 9.10 of this chapter, will, with respect to an ATC, be specified in the licensing document for the ATC.
 
 (d) The following provision shall apply, in lieu of § 1.9020(m), with respect to spectrum leasing of an ATC:
 
@@ -14,4 +12,4 @@ Link to an amendment published at 84 FR 66760, Dec. 5, 2019.
 
 (2) Reserved.
 
-[76 FR 31259, May 31, 2011]
+[76 FR 31259, May 31, 2011, as amended at 84 FR 66760, Dec. 5, 2019]

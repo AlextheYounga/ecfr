@@ -1,43 +1,29 @@
 ##### § 97.175 Fees and charges. #####
 
-The following fees and charges apply to the services and actions specified below:
+The following fees and charges apply to the services and actions specified in paragraphs (a) through (f) of this section:
 
-(a) Filing the application and notifying the public of filing - $518.00.
+(a) Application:
 
-(b) Search or examination - $3,864.00.
+(1) Initial fee for filing, examination, and certificate issuance—$5,150
 
-(c) Submission of new application data, after notice of allowance, prior to issuance of certificate - $432.00.
+(2) Submission of new application data prior to issuance of certificate—$432
 
-(d) Allowance and issuance of certificate and notifying public of issuance - $768.00.
+(3) Granting extensions for responding to data requests—$89
 
-(e) Revive an abandoned application - $518.00.
+(4) Refunds pursuant to § 97.178 may be issued for portions of the initial application fee as follows: examination—$3,864, and certificate issuance—$768.
 
-(f) Reproduction of records, drawings, certificates, exhibits, or printed material (cost per page of material) - $1.80.
+(b) Reconsideration of application—$589
 
-(g) Authentication (each page) - $1.80.
+(c) Revival of an abandoned application—$518
 
-(h) Correcting or re-issuance of a certificate - $518.00.
+(d) Appeals:
 
-(i) Recording an assignment, any revision of an assignment, or withdrawal or revocation of an assignment (per certificate or application) - $41.00.
+(1) Filing a petition for protest to Commissioner—$4,118
 
-(j) Copies of 8 × 10 photographs in color - $41.00.
+(2) Appeal to Secretary (refundable if appeal overturns protest to Commissioner)—$4,942
 
-(k) Additional fee for reconsideration - $518.00.
+(e) Field inspections or other services requiring travel by a representative of the Plant Variety Protection Office, made at the request of the applicant, shall be reimbursable in full (including travel, per diem or subsistence, salary, and administrative costs), in accordance with standardized government travel regulations.
 
-(l) Additional fee for late payment - $41.00.
+(f) Any other service not covered in this section, including, but not limited to, reproduction of records, authentication, correction, or reissuance of a certificate, recordation or revision of assignment, and late fees will be charged for at rates prescribed by the Commissioner, but in no event shall they exceed $97 per employee hour. Charges will also be made for materials, space, and administrative costs.
 
-(m) Fee for handling replenishment seed sample (applicable only for certificates issued after June 20, 2005) - $38.00.
-
-(n) Additional fee for late replenishment of seed - $41.00.
-
-(o) Filing a petition for protest proceeding - $4,118.00.
-
-(p) Appeal to Secretary (refundable if appeal overturns the Commissioner's decision) - $4,942.00.
-
-(q) Granting of extensions for responding to a request - $89.00.
-
-(r) Field inspections by a representative of the Plant Variety Protection Office, made at the request of the applicant, shall be reimbursable in full (including travel, per diem or subsistence, and salary) in accordance with Standardized Government Travel Regulation.
-
-(s) Any other service not covered above will be charged for at rates prescribed by the Commissioner, but in no event shall they exceed $107.00 per employee-hour. Charges also will be made for materials, space, and administrative costs.
-
-[70 FR 54612, Sept. 16, 2005]
+[85 FR 432, Jan. 6, 2020]

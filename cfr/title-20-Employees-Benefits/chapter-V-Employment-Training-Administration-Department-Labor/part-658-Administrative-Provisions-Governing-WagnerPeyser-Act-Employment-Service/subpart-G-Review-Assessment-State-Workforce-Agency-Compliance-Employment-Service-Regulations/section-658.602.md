@@ -1,5 +1,7 @@
 ##### § 658.602 Employment and Training Administration National Office responsibility. #####
 
+Link to an amendment published at 85 FR 629, Jan. 6, 2020.
+
 The ETA National Office must:
 
 (a) Monitor ETA Regional Offices' operations under ES regulations;

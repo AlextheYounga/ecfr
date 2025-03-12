@@ -1,5 +1,7 @@
 ##### § 658.603 Employment and Training Administration Regional Office responsibility. #####
 
+Link to an amendment published at 85 FR 630, Jan. 6, 2020.
+
 (a) The Regional Administrator must have responsibility for the regular review and assessment of SWA performance and compliance with ES regulations.
 
 (b) The Regional Administrator must participate with the National Office staff in reviewing and approving the State Plan for the SWAs within the region. In reviewing the State Plans the Regional Administrator and appropriate National Office staff must consider relevant factors including the following:

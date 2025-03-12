@@ -1,5 +1,7 @@
 ##### § 652.210 What are the Wagner-Peyser Act's requirements for administration of the work test, including eligibility assessments, as appropriate, and assistance to unemployment insurance claimants? #####
 
+Link to an amendment published at 85 FR 626, Jan. 6, 2020.
+
 (a) State UI law or rules establish the requirements under which UI claimants must register and search for work in order to fulfill the UI work test requirements.
 
 (b) Staff funded under the Wagner-Peyser Act must assure that:

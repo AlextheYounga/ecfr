@@ -1,6 +1,6 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 84 FR 66779, Dec. 5, 2019.
+Link to an amendment published at 85 FR 465, Jan. 6, 2020.
 
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
@@ -64,7 +64,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (viii) TRS providers shall provide, as TRS features, answering machine and voice mail retrieval.
 
-(4) Emergency call handling requirements for TTY-based TRS providers. TTY-based TRS providers must use a system for incoming emergency calls that, at a minimum, automatically and immediately transfers the caller to an appropriate Public Safety Answering Point (PSAP). An appropriate PSAP is either a PSAP that the caller would have reached if he had dialed 911 directly, or a PSAP that is capable of enabling the dispatch of emergency services to the caller in an expeditious manner.
+(4) [Reserved]
 
 (5) *STS called numbers.* Relay providers must offer STS users the option to maintain at the relay center a list of names and telephone numbers which the STS user calls. When the STS user requests one of these names, the CA must repeat the name and state the telephone number to the STS user. This information must be transferred to any new STS provider.
 
@@ -480,6 +480,6 @@ I swear under penalty of perjury that:
 
 (iii) Calls between captioned telephone relay service or IP CTS users and VRS users.
 
-(d) *Other standards.* The applicable requirements of §§ 64.605, 64.611, 64.615, 64.617, 64.621, 64.631, 64.632, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 of this part are to be considered mandatory minimum standards.
+(d) Other standards. The applicable requirements of § 9.14 of this chapter and §§ 64.611, 64.615, 64.617, 64.621, 64.631, 64.632, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 of this part are to be considered mandatory minimum standards.
 
 [65 FR 38436, June 21, 2000]Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

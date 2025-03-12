@@ -1,5 +1,7 @@
 ##### § 658.704 Remedial actions. #####
 
+Link to an amendment published at 85 FR 630, Jan. 6, 2020.
+
 (a) If a SWA fails to correct violations as determined pursuant to § 658.702, the Regional Administrator must apply one or more of the following remedial actions to the SWA:
 
 (1) Imposition of special reporting requirements for a specified time;

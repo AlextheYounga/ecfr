@@ -1,12 +1,10 @@
 ##### § 1751.100 Definitions. #####
 
-Link to an amendment published at 84 FR 59923, Nov. 7, 2019.
-
 As used in this subpart:
 
 *Bit rate.* The rate of transmission of telecommunications signals or intelligence in binary (two state) form in bits per unit time, e.g., Mb/s (megabits per second), kb/s (kilobits per second), etc.
 
-*Borrower.* Any organization that has received an RUS loan designation number and which has an outstanding telephone loan made by RUS or the Rural Telephone Bank, or guaranteed by RUS, or which has a completed loan application with RUS.
+*Borrower.* Any organization that has received a RUS loan designation number and which has an outstanding telephone loan made by RUS or guaranteed by RUS, or which has a completed loan application with RUS.
 
 *Emerging technologies.* New or not fully developed methods of telecommunications.
 
@@ -26,11 +24,7 @@ As used in this subpart:
 
 *RUS.* The Rural Utilities Service, an agency of the United States Department of Agriculture established pursuant to Section 232 of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 (Pub. L. 103-354, 108 Stat. 3178 (7 U.S.C. 6941 *et seq.*)), successor to REA with respect to administering certain electric and telephone programs. See 7 CFR 1700.1.
 
-*RUS cost-of-money loan.* A loan made under section 305(d)(2) of the RE Act bearing interest as determined under 7 CFR 1735.31(c). RUS cost-of-money loans are made concurrently with RTB loans.
-
 *RUS hardship loan.* A loan made by RUS under section 305(d)(1) of the RE Act bearing interest at a rate of 5 percent per year.
-
-*RTB loan.* A loan made by the Rural Telephone Bank (RTB) under section 408 of the RE Act bearing interest as determined under 7 CFR 1610.10. RTB loans are made concurrently with RUS cost-of-money loans.
 
 *State.* Each of the 50 states of the United States, the District of Columbia, and the territories and insular possessions of the United States. This does not include countries in the Compact of Free Association.
 
@@ -39,3 +33,5 @@ As used in this subpart:
 *Telecommunications providers.* RUS Borrowers and if the Plan Developer is a PUC, such other entities providing telecommunications services as the developer of the Modernization Plan (See § 1751.101) may determine.
 
 *Wireline Service.* Telecommunica-tions service provided over telephone lines. It is characterized by a wire or wirelike connection carrying electricity or light between the subscriber and the rest of the telecommunications network. Wireline Service implies a physical connection. Although radio may form part of the circuit, it is not the major method of transmission as in radiotelephone.
+
+[60 FR 8174, Feb. 13, 1995, as amended at 84 FR 59923, Nov. 7, 2019]

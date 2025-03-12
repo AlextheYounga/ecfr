@@ -1,5 +1,7 @@
 ##### § 658.501 Basis for discontinuation of services. #####
 
+Link to an amendment published at 85 FR 629, Jan. 6, 2020.
+
 (a) The SWA must initiate procedures for discontinuation of services to employers who:
 
 (1) Submit and refuse to alter or withdraw job orders containing specifications which are contrary to employment-related laws;

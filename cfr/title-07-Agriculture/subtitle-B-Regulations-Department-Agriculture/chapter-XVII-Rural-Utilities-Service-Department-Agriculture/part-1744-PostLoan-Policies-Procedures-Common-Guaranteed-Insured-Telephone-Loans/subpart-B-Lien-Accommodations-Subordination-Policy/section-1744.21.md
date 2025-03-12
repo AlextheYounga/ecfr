@@ -1,23 +1,21 @@
 ##### § 1744.21 Definitions. #####
 
-Link to an amendment published at 84 FR 59922, Nov. 7, 2019.
-
 The following definitions apply to this subpart:
 
-*Administrator* means the Administrator of RUS and includes the Governor of the RTB.
+*Administrator* means the Administrator of RUS.
 
-*Advance* means transferring funds from RUS, RTB, or a lender guaranteed by RUS to the borrower's construction fund.
+*Advance* means transferring funds from RUS or a lender guaranteed by RUS to the borrower's construction fund.
 
 *After-acquired property* means property which is to be acquired by the borrower and which would be subject to the lien of the Government mortgage when acquired.
 
 *Amortization expense* means the sum of the balances of the following accounts of the borrower:
 
-|            Account names            |Number|
-|-------------------------------------|------|
-|      (1) Amortization expense       |6560.2|
-| (2) Amortization expense - tangible | 6563 |
-|(3) Amortization expense - intangible| 6564 |
-|  (4) Amortization expense - other   | 6565 |
+|           Account names           |Number|
+|-----------------------------------|------|
+|     (1) Amortization expense      |6560.2|
+| (2) Amortization expense—tangible | 6563 |
+|(3) Amortization expense—intangible| 6564 |
+|  (4) Amortization expense—other   | 6565 |
 
 Note:
 
@@ -37,11 +35,11 @@ All references to account numbers are to the Uniform System of Accounts (7 CFR p
 
 *Depreciation expense* means the sum of the balances of the following accounts of the borrower:
 
-|                              Account names                               |Number|
-|--------------------------------------------------------------------------|------|
-|                         (1) Depreciation expense                         |6560.1|
-|      (2) Depreciation expense - telecommunications plant in service      | 6561 |
-|(3) Depreciation expense - property held for future telecommunications use| 6562 |
+|                             Account names                              |Number|
+|------------------------------------------------------------------------|------|
+|                        (1) Depreciation expense                        |6560.1|
+|      (2) Depreciation expense—telecommunications plant in service      | 6561 |
+|(3) Depreciation expense—property held for future telecommunications use| 6562 |
 
 Note:
 
@@ -53,7 +51,7 @@ All references to account numbers are to the Uniform System of Accounts (7 CFR p
 
 *FFB* means the Federal Financing Bank.
 
-*Financial Requirement Statement (FRS)* means RUS Form 481 (OMB - No. 0572 - 0023). (This RUS Form is available from RUS, Program Development and Regulatory Analysis, Washington, DC 20250-1522).
+*Financial Requirement Statement (FRS)* means RUS Form 481 (OMB—No. 0572—0023). (This RUS Form is available from RUS, Program Development and Regulatory Analysis, Washington, DC 20250-1522).
 
 *Government mortgage* means any instrument to which the Government, acting through the Administrator, is a party and which creates a lien or security interest in the borrower's property in connection with a loan made or guaranteed by RUS whether the Government is the sole mortgagee or is a co-mortgagee with a private lender.
 
@@ -67,7 +65,7 @@ All references to account numbers are to the Uniform System of Accounts (7 CFR p
 |-----------------------------------------------------|-----------|
 |           (1) Interest and related items            |   7500    |
 |             (2) Interest on funded debt             |   7510    |
-|        (3) Interest expense - capital leases        |   7520    |
+|         (3) Interest expense—capital leases         |   7520    |
 |      (4) Amortization of debt issuance expense      |   7530    |
 |(5) Less Allowance for funds used during construction|7340/7300.4|
 |            (6) Other interest deductions            |   7540    |
@@ -153,9 +151,9 @@ All references to account numbers are to the Uniform System of Accounts (7 CFR p
 
 *Private loan* means any loan made by a private lender.
 
-*RE Act (Act)* means the Rural Electrification Act of 1936 (7 U.S.C. 901 *et seq.*) RTB means the Rural Telephone Bank.
+*RE Act (Act)* means the Rural Electrification Act of 1936 (7 U.S.C. 901 *et. seq.*).
 
-*RUS* means the Rural Utilities Service, and includes its predecessor, the Rural Electrification Administration. The term also includes the RTB, unless otherwise indicated.
+*RUS* means the Rural Utilities Service, and includes its predecessor, the Rural Electrification Administration.
 
 *RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act.
 
@@ -163,14 +161,14 @@ All references to account numbers are to the Uniform System of Accounts (7 CFR p
 
 *Tangible plant* means any of the items properly recordable in the following accounts of the borrower:
 
-|                                   Account names                                    |     Number      |
-|------------------------------------------------------------------------------------|-----------------|
-|          (1) Telecommunications Plant in Service - General Support Assets          |2110 through 2124|
-|          (2) Telecommunications Plant in Service - Central Office Assets           |2210 through 2232|
-|(3) Telecommunications Plant in Service - Information Origination/Termination Assets|2310 through 2362|
-|     (4) Telecommunications Plant in Service - Cable and Wire Facilities Assets     |2410 through 2441|
-|                          (5) Amortizable Tangible Assets                           |2680 through 2682|
-|                               (6) Nonoperating Plant                               |      2006       |
+|                                  Account names                                   |     Number      |
+|----------------------------------------------------------------------------------|-----------------|
+|          (1) Telecommunications Plant in Service—General Support Assets          |2110 through 2124|
+|          (2) Telecommunications Plant in Service—Central Office Assets           |2210 through 2232|
+|(3) Telecommunications Plant in Service—Information Origination/Termination Assets|2310 through 2362|
+|     (4) Telecommunications Plant in Service—Cable and Wire Facilities Assets     |2410 through 2441|
+|                         (5) Amortizable Tangible Assets                          |2680 through 2682|
+|                              (6) Nonoperating Plant                              |      2006       |
 
 Note:
 
@@ -226,4 +224,4 @@ All references to account numbers are to the Uniform System of Accounts (7 CFR p
 
 *Wholly-owned subsidiary* means a corporation owned 100 percent by the borrower.
 
-[66 FR 41758, Aug. 9, 2001]
+[66 FR 41758, Aug. 9, 2001, as amended at 84 FR 59922, Nov. 7, 2019]

@@ -34,16 +34,14 @@ Words used in the regulations in this part in the singular form will import the 
 
 *Office or Plant Variety Protection Office.* The Plant Variety Protection Office, Science and Technology Programs, AMS, USDA.
 
-*Official Journal.* The “Official Journal of the Plant Variety Protection Office.”
-
 *Owner.* A breeder who developed or discovered and developed a variety for which plant variety protection may be applied for under the Act, or a person to whom the rights to such variety have been assigned or transferred.
 
 *Person.* An individual, partnership, corporation, association, government agency, or other business or governmental entity.
+
+*Sale for other than seed or propagating purposes.* The transfer of title to and possession of the seed or propagating material by the owner to a grower or other person, for reproduction for the owner, for testing, or for experimental use, and not for commercial sale of the seed, reproduced seed, propagating material, or reproduced propagating material for planting purposes.
 
 *Secretary.* The Secretary of Agriculture of the United States or any other officer or employee of the U.S. Department of Agriculture, to whom authority has heretofore been delegated, or to whom authority may hereafter be delegated to act in his or her stead.
 
 *Seed certifying agency.* It shall be defined as set forth in the Federal Seed Act (53 Stat. 1275).
 
-*Sale for other than seed purposes.* The transfer of title to and possession of the seed by the owner to a grower or other person, for reproduction for the owner, for testing, or for experimental use, and not for commercial sale of the seed or the reproduced seed for planting purposes.
-
-[58 FR 42435, Aug. 9, 1993, as amended at 60 FR 17189, Apr. 4, 1995; 61 FR 248, Jan. 4, 1996; 70 FR 28785, May 19, 2005]
+[58 FR 42435, Aug. 9, 1993, as amended at 60 FR 17189, Apr. 4, 1995; 61 FR 248, Jan. 4, 1996; 70 FR 28785, May 19, 2005; 85 FR 430, Jan. 6, 2020]

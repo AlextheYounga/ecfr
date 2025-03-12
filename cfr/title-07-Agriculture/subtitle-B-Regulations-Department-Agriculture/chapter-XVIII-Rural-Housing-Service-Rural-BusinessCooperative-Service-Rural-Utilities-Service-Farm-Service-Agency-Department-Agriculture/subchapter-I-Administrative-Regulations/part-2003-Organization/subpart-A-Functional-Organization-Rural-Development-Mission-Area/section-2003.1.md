@@ -1,23 +1,21 @@
 ##### § 2003.1 Definitions. #####
 
-Link to an amendment published at 84 FR 59923, November 7, 2019.
+*EEO*—the Equal Employment Opportunity Act of 1972, 42 U.S.C. § 2000e *et seq.*
 
-*EEO* - the Equal Employment Opportunity Act of 1972, 42 U.S.C. § 2000e *et seq.*
+*O&M*—Operations and Management.
 
-*O&M* - Operations and Management.
+*P&P*—Policy and Planning.
 
-*P&P* - Policy and Planning.
+*RBS*—Rural Business-Cooperative Development Service, USDA, or any successor agency.
 
-*RBS* - Rural Business-Cooperative Development Service, USDA, or any successor agency.
+*RHS*—Rural Housing Service, USDA, or any successor agency.
 
-*RHS* - Rural Housing Service, USDA, or any successor agency.
+*Rural Development*—Rural Development mission area of USDA.
 
-*RTB* - Rural Telephone Bank authorized by 7 U.S.C. 944.
+*RUS*—Rural Utilities Service, USDA, or any successor agency.
 
-*Rural Development* - Rural Development mission area of USDA.
+*Secretary*—the Secretary of USDA.
 
-*RUS* - Rural Utilities Service, USDA, or any successor agency.
+*USDA*—the United States Department of Agriculture.
 
-*Secretary* - the Secretary of USDA.
-
-*USDA* - the United States Department of Agriculture.
+[62 FR 67259, Dec. 24, 1997, as amended at 84 FR 59923, Nov. 7, 2019]

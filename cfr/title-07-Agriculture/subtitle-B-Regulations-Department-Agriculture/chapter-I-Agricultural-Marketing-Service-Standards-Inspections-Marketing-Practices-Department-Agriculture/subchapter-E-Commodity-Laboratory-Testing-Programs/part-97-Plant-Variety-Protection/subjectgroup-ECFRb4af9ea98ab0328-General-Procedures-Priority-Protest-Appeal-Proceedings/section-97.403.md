@@ -8,4 +8,6 @@ Service of any paper under this part must be on the attorney or agent of the par
 
 (c) When the person served has no usual place of business, by leaving a copy at his or her home with a member of the family over 14 years of age and of discretion; and
 
-(d) Whenever it shall be found by the Commissioner or Secretary that none of the above modes of serving the paper is practicable, service may be by notice, published once in the Office Journal.
+(d) Whenever it shall be found by the Commissioner or Secretary that none of the above modes of serving the paper is practicable, service may be by notice, published once on the Plant Variety Protection Office website (*https://www.ams.usda.gov/PVPO*).
+
+[58 FR 42435, Aug. 9, 1993, as amended at 85 FR 432, Jan. 6, 2020]

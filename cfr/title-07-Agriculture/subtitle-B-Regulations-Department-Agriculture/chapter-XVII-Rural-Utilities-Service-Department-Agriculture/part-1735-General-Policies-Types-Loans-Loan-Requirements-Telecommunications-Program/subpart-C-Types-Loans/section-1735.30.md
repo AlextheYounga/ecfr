@@ -1,7 +1,5 @@
 ##### § 1735.30 Hardship loans. #####
 
-Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
-
 (a) RUS makes hardship loans under section 305(d)(1) of the RE Act. These loans bear interest at a rate of 5 percent per year. To qualify for a hardship loan on or after November 1, 1993, a borrower must meet each of the following requirements:
 
 (1) The average number of proposed subscribers per mile of line in the service area of the borrower is not more than 4;
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
 
 (ii) An average number of proposed subscribers per mile of line greater than 17.
 
-(2) Those facilities may, however, be financed with concurrent RUS cost-of-money and RTB loans or a guaranteed loan if the borrower is eligible for such financing.
+(2) Those facilities may, however, be financed with a RUS cost-of-money loans or a guaranteed loan if the borrower is eligible for such financing.
 
 (c) The Administrator may waive the TIER requirement in paragraph (a)(2) of this section in any case in which the Administrator determines, and sets forth the reasons therefor in writing, that the requirement would prevent emergency restoration of the telephone system of the borrower or result in severe hardship to the borrower.
 
@@ -50,8 +48,8 @@ Link to an amendment published at 84 FR 59921, Nov. 7, 2019.
 
 (2) Maximize the use of all available hardship funds appropriated for loans in that fiscal year.
 
-(f) On request of any borrower who is eligible for a hardship loan for which funds are not available, the borrower shall be considered to have applied for concurrent RUS cost-of-money and RTB loans under sections 305 and 408, respectively, of the RE Act.
+(f) On request of any borrower who is eligible for a hardship loan for which funds are not available, the borrower shall be considered to have applied for a RUS cost-of-money loans under sections 305 of the RE Act.
 
-(g) Hardship loans may be made simultaneously with concurrent RUS cost-of-money and RTB loans or guaranteed loans.
+(g) Hardship loans may be made simultaneously with a RUS cost-of-money loans or guaranteed loans.
 
-[58 FR 66254, Dec. 20, 1993, as amended at 82 FR 55939, Nov. 27, 2017]
+[58 FR 66254, Dec. 20, 1993, as amended at 82 FR 55939, Nov. 27, 2017; 84 FR 59921, Nov. 7, 2019]

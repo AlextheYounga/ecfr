@@ -1,51 +1,63 @@
-##### § 1468.27 Eligible entity certification. #####
+##### § 1468.27 Buy-Protect-Sell transactions. #####
 
-(a) To be considered for certification, an entity must submit a written request for certification to NRCS, which specifically addresses the following items:
+(a) NRCS may enter into an ALE-agreement with an eligible entity for a buy-protect-sell transaction to provide cost-share assistance for the purchase of an agricultural land easement on eligible private or Tribal agricultural land that an eligible entity owns or is in the process of purchasing for the purposes of securing the long-term protection of natural resources and the agricultural nature of the land and ensuring timely transfer to a qualified farmer or rancher.
 
-(1) An explanation of how the entity meets the requirements identified in § 1468.20(b) of this section;
+(b) At the time the individual parcel application is submitted, the eligible entity must identify the specific buy-protect-sell transaction type as either -
 
-(2) An agreement to use for ACEP-ALE funded acquisitions easement valuation methodologies identified in section § 1468.24 of this part;
+(1) Pre-closing transfer, wherein the eligible entity will transfer fee title ownership to a farmer or rancher at or prior to closing on the agricultural land easement and the eligible entity will hold the agricultural land easement prior to receiving the Federal share, or
 
-(3) Proof that the entity holds, manages, and monitors a minimum of 25 agricultural land conservation easements, unless the entity requests and receives a waiver of this requirement from NRCS;
+(2) Post-closing transfer, wherein the eligible entity will transfer fee title ownership to a farmer or rancher not later than 3 years after closing on the agricultural land easement, unless an extension of such time has been authorized by NRCS based on documentation of extenuating circumstances provided by the eligible entity.
 
-(4) Proof that the entity holds, manages, and monitors a minimum of five ACEP-ALE, FRPP, or Farmland Protection Program conservation easements;
+(c) The ALE-agreement must contain the information described in § 1468.23 and must specify the details of the legal arrangement for the individual buy-protect-sell transaction, including that for all buy-protect-sell transactions the eligible entity must -
 
-(5) A showing of a demonstrated ability to complete acquisition of easements in a timely fashion;
+(1) Own the land or within 12 months of execution of the ALE-agreement for the buy-protect-sell transaction by both NRCS and the eligible entity, and the eligible entity has completed or has demonstrated to the satisfaction of NRCS that completion of the purchase of the land is imminent.
 
-(6) A showing that it has the capacity to enforce the provisions of easement deeds and history of such enforcement;
+(2) Make an initial sale of the land to a farmer or rancher that is or will be subject to the agricultural land easement pursuant to the terms of the ALE-agreement.
 
-(7) For nongovernmental organizations, information that the entity possesses a dedicated fund for the purposes of easement management, monitoring, and enforcement where such fund is sufficiently capitalized. The fund must be dedicated to the purposes of managing, monitoring, and enforcing each easement held by the eligible entity; and
+(3) Sell the land to the farmer or rancher for a purchase price that does not exceed the lesser of -
 
-(8) A plan for administering easements enrolled under this part, as determined by NRCS.
+(i) The original purchase price of the land paid by the eligible entity; or
 
-(b) NRCS will notify an entity in writing whether they have been certified and the rationale for the agency's decision. When NRCS determines an entity qualifies as certified:
+(ii) The agricultural value as determined by an appraisal.
 
-(1) NRCS may enter into a ALE-agreement with the certified entity through which NRCS may obligate funding for up to 5 fiscal years. New parcels or prior-year unfunded parcels submitted for funding by certified entities must compete for funding each year. Selected parcels and funding will be added to the existing ALE-agreement using an amendment to the ALE-agreement . Amendments added in the last year of the agreement cannot be extended;
+(4) Ensure that amounts included in the sale of the land to the farmer or rancher for reasonable holding and transaction costs incurred by the eligible entity in total do not exceed more than 10 percent of the agricultural value.
 
-(2) NRCS will accept applications from certified entities continuously throughout the fiscal year;
+(5) Submit documentation satisfactory to NRCS that confirms the sale of the land that is or will be subject to the agricultural land easement meets the buy-protect-sell transaction requirements. Pursuant to the terms and conditions of the ALE-agreement for the buy-protect-sell transaction, the eligible entity must provide -
 
-(3) The terms of the ALE-agreement will include the regulatory deed requirements specified in § 1468.25 of this part that must be addressed in the deed to ensure that ACEP-ALE purposes will be met by the certified entity without requiring NRCS to pre-approve each easement transaction prior to closing.
+(i) Evidence that the purchaser of the land is a qualified farmer or rancher,
 
-(i) Certified entities may purchase easements without NRCS approving the agricultural land easement deeds, agricultural land easement plans, titles, or appraisals before the purchase of the easement;
+(ii) Documentation of the purchase price for the land paid by the eligible entity,
 
-(ii) Certified entities will prepare the agricultural land easement deeds, agricultural land easement plans, titles, and appraisals in accordance with NRCS requirements as identified in the ALE-agreement ;
+(iii) The appraisal used to determine the agricultural value of the land,
 
-(4) NRCS may provide technical assistance to develop the agricultural land easement plan.
+(iv) An itemized list of the allowable holding or transaction costs included in the sales price,
 
-(5) NRCS will conduct quality assurance reviews of a percentage of the agricultural land easement transactions submitted by the certified entity for payment and annual monitoring reports submitted by the certified entity. The review will include whether the deed, title review, agricultural land easement plan, easement valuation determinations, and subsequent monitoring were conducted in accordance with the requirements set forth by NRCS in its certification of the eligible entity or in the ALE-agreement entered into with the certified entity; and
+(v) A copy of the settlement statements identifying the sale price and all holding and transactions costs charged to the farmer or rancher purchaser, and
 
-(6) If an agricultural land easement deed, agricultural land easement plan, title, appraisal, or other easement valuation determination, or monitoring report fails the NRCS quality assurance review, NRCS will provide the certified entity an opportunity to correct the errors. If the certified entity fails to correct the errors to NRCS' satisfaction, NRCS will consider whether to allow the certified entity to continue to purchase ALE-funded easements without prior NRCS approval, to decertify the entity in accordance with paragraph (c) of this section, or require the certified entity to take administrative steps necessary to remedy the deficiencies.
+(vi) Other documents as specified by NRCS in the ALE-agreement.
 
-(c) *Review and decertification of the certified entity.* (1) NRCS will conduct a review of the certified entity a minimum of once every 3 years to ensure that the certified entities are meeting the certification criteria established in this section.
+(6) Reimburse NRCS for the entirety of the Federal share provided if, as determined by NRCS, the eligible entity failed to transfer ownership per the terms and conditions of the ALE-agreement for the buy-protect-sell transaction.
 
-(2) If NRCS determines that the certified entity no longer meets these criteria, the Chief will:
+(d) In addition to the requirements identified in paragraph (c) of this section, for buy-protect-sell transactions that involve a pre-closing transfer as required by paragraph (b)(1) of this section:
 
-(i) Provide the certified entity a specified period of time, at a minimum 180 days, in which to take such actions as may be necessary to correct the identified deficiencies, and
+(1) The maximum duration of the ALE-agreement may be the same as described in § 1468.23(b).
 
-(ii) If NRCS determines the certified entity does not meet the criteria established in this part after the 180 days, NRCS will send written notice of decertification of the entity's certification status or eligibility for future ACEP-ALE funding. This notice will specify the actions that have not been completed to retain certification status, the actions entity must take to request certification status, the status of funds in the ALE-agreement; and the eligibility of the entity to apply for future ACEP-ALE funds. The entity may contest the Notice of Decertification in writing to NRCS within 20 calendar days of receipt of the notice of decertification. The entity's letter must provide specific reasons why the decision to decertify is in error.
+(2) The Federal share for the agricultural land easement will be provided on a reimbursable basis only, after the agricultural land easement has closed and the required documents have been provided to and reviewed by NRCS.
 
-(3) The period of decertification may not exceed 3 years in duration, with duration of decertification based upon the seriousness of the facts; and
+(e) For buy-protect-sell transactions that involve a post-closing transfer as required by paragraph (b)(2) of this section:
 
-(4) The entity may be recertified upon application to NRCS, after the decertification period has expired, and when the entity has met the requirements as outlined under § 1468.20(d).
+(1) At the time of application, in addition to the information identified § 1468.21, the eligible entity must provide NRCS specific information on the proposed structure of the buy-protect-sell transaction, including the parties to be involved in the transaction, the roles and responsibilities of each party related to the acquisition, holding, monitoring, and enforcement of the easement and the fee title ownership of the land, relevant State law that authorizes such transactions, proposed timeline, and other information identified by NRCS.
 
-[80 FR 11048, Feb. 27, 2015, as amended at 81 FR 71854, Oct. 18, 2016]
+(2) NRCS will determine the legal conformance of the proposed arrangement for the buy-protect-sell transaction.
+
+(3) Based on the NRCS determination of legal conformance of the proposed buy-protect-sell transaction, for eligible applications selected for funding based on ranking and availability of funds, NRCS will identify the specific terms of the ALE-agreement for the buy-protect-sell transaction.
+
+(4) The buy-protect-sell transaction must meet the timing requirements in paragraphs (e)(4)(i) through (iv) of this section -
+
+(i) The term of the ALE-agreement for a buy-protect-sell transaction will be for a period no longer than 5 fiscal years following the fiscal year of execution of the ALE-agreement by NRCS and the eligible entity.
+
+(ii) The agricultural land easement must be closed within 2 fiscal years following the fiscal year of ALE-agreement execution, and the sale of the land subject to the agricultural land easement to a qualified farmer or rancher must occur within 3 years of closing on the agricultural land easement.
+
+(iii) Prior to the expiration of the 3-year timeframe, the eligible entity may submit to NRCS a request for an extension that includes documentation of extenuating circumstances and the anticipated timeline, not to exceed 12 months, in which the sale of the land subject to the easement will occur.
+
+(iv) NRCS may, in its discretion, authorize such additional time for the sale of the land subject to the agricultural land easement to a qualified farmer or rancher through a modification to the ALE-agreement.
