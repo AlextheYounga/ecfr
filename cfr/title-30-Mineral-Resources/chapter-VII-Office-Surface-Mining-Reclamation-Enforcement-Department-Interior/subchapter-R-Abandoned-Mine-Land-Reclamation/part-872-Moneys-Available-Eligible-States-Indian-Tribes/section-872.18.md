@@ -14,7 +14,9 @@
 |---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |            (i) October 1, 2007 and October 1, 2008            |50 percent of your 50 percent share of reclamation fees collected on prior fiscal year coal production. |
 |           (ii) October 1, 2009 and October 1, 2010            |75 percent of your 50 percent share of reclamation fees collected on prior fiscal year coal production. |
-|(iii) October 1, 2011 and continuing through September 30, 2022|100 percent of your 50 percent share of reclamation fees collected on prior fiscal year coal production.|
-|            (iv) October 1, 2022 (fiscal year 2023)            |                         The amount remaining in your Tribal share of the Fund.                         |
+|(iii) October 1, 2011 and continuing through September 30, 2035|100 percent of your 50 percent share of reclamation fees collected on prior fiscal year coal production.|
+|            (iv) October 1, 2035 (fiscal year 2036)            |                         The amount remaining in your Tribal share of the Fund.                         |
 
 (2) We award these funds to you in grants according to the provisions of part 886 of this chapter.
+
+[73 FR 67634, Nov. 14, 2008, as amended at 87 FR 2345, Jan. 14, 2022]

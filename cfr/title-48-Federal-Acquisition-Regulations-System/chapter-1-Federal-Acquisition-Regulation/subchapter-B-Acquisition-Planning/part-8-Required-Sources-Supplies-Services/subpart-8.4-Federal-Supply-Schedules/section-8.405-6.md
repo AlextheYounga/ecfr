@@ -1,10 +1,8 @@
 ##### 8.405-6 Limiting sources. #####
 
-Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraph (a) or (b) of this section—
 
-Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraph (a) or (b) of this section -
-
-(a) *Orders or BPAs exceeding the micro-purchase threshold based on a limited sources justification* - (1) *Circumstances justifying limiting the source.* (i) For a proposed order or BPA with an estimated value exceeding the micro-purchase threshold not placed or established in accordance with the procedures in 8.405-1, 8.405-2, or 8.405-3, the only circumstances that may justify the action are -
+(a) *Orders or BPAs exceeding the micro-purchase threshold based on a limited sources justification*—(1) *Circumstances justifying limiting the source.* (i) For a proposed order or BPA with an estimated value exceeding the micro-purchase threshold not placed or established in accordance with the procedures in 8.405-1, 8.405-2, or 8.405-3, the only circumstances that may justify the action are—
 
 (A) An urgent and compelling need exists, and following the procedures would result in unacceptable delays;
 
@@ -14,13 +12,13 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (ii) *See* 8.405-6(c) for the content of the justification for an order or BPA exceeding the simplified acquisition threshold.
 
-(2) *Posting.* (i) Within 14 days after placing an order or establishing a BPA exceeding the simplified acquisition threshold that is supported by a limited-sources justification permitted under any of the circumstances under paragraph (a)(1) of this section, the ordering activity shall -
+(2) *Posting.* (i) Within 14 days after placing an order or establishing a BPA exceeding the simplified acquisition threshold that is supported by a limited-sources justification permitted under any of the circumstances under paragraph (a)(1) of this section, the ordering activity shall—
 
 (A) Publish a notice in accordance with 5.301; and
 
-(B) Post the justification -
+(B) Post the justification—
 
-(*1*) At the GPE *https://www.fbo.gov;*
+(*1*) At the GPE *https://www.sam.gov*
 
 (*2*) On the Web site of the ordering activity agency, which may provide access to the justification by linking to the GPE; and
 
@@ -50,7 +48,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (C) The documentation in paragraph (b)(2)(i) of this section and the justification in paragraph (c) of this section is subject to the screening requirement in paragraph (a)(2)(iii) of this section.
 
-(ii) The posting requirement of paragraph (b)(3)(i) of this section does not apply when -
+(ii) The posting requirement of paragraph (b)(3)(i) of this section does not apply when—
 
 (A) Disclosure would compromise the national security (*e.g.,* would result in disclosure of classified information) or create other security risks. The fact that access to classified matter may be necessary to submit a proposal or perform the contract does not, in itself, justify use of this exception;
 
@@ -90,11 +88,11 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (2) For a proposed order or BPA with an estimated value exceeding $750,000, but not exceeding $15 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (d)(3) or (4) of this section. This authority is not delegable.
 
-(3) For a proposed order or BPA with an estimated value exceeding $15 million, but not exceeding $75 million (or, for DoD, NASA, and the Coast Guard, not exceeding $100 million), the justification must be approved by -
+(3) For a proposed order or BPA with an estimated value exceeding $15 million, but not exceeding $75 million (or, for DoD, NASA, and the Coast Guard, not exceeding $100 million), the justification must be approved by—
 
 (i) The head of the procuring activity placing the order;
 
-(ii) A designee who -
+(ii) A designee who—
 
 (A) If a member of the armed forces, is a general or flag officer; or
 
@@ -104,4 +102,4 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (4) For a proposed order or BPA with an estimated value exceeding $75 million (or, for DoD, NASA, and the Coast Guard, over $100 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
 
-[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019; 85 FR 62488, Oct. 2, 2020]
+[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019; 85 FR 62488, Oct. 2, 2020; 86 FR 71325, Dec. 15, 2021]

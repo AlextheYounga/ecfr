@@ -1,5 +1,7 @@
 ##### § 570.140 General. #####
 
+Link to an amendment published at 87 FR 2335, Jan. 14, 2022.
+
 (a) Section 15(a)(4) of the Act makes any violation of the provisions of sections 12(a) or 12(c) unlawful. Any such unlawful act or practice may be enjoined by the United States District Courts under section 17 upon court action, filed by the Secretary pursuant to section 12(b) and, if willful will subject the offender to the criminal penalties provided in section 16(a) of the Act. Section 16(a) provides that any person who willfully violates any of the provisions of section 15 shall upon conviction thereof be subject to a fine of not more than $10,000, or to imprisonment for not more than six months, or both. No person shall be imprisoned under this subsection except for an offense committed after the conviction of such person for a prior offense under this subsection.
 
 (b) In addition, FLSA section 16(e) states that any person who violates the provisions of FLSA sections 12 or 13(c), relating to child labor, or any regulations issued under those sections, shall be subject to a civil penalty, not to exceed:

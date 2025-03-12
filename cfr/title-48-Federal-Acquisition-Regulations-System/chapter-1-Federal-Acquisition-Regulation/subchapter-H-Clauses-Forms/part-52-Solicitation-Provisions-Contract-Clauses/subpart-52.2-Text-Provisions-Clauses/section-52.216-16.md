@@ -1,16 +1,14 @@
-##### 52.216-16 Incentive Price Revision - Firm Target. #####
-
-Link to an amendment published at 86 FR 71323, Dec. 15, 2021.
+##### 52.216-16 Incentive Price Revision—Firm Target. #####
 
 As prescribed in 16.406(a), insert the following clause:
 
-Incentive Price Revision - Firm Target (OCT 1997)
+Incentive Price Revision—Firm Target (JAN 2022)
 
 (a) *General.* The supplies or services identified in the Schedule as Items \_\_\_ [*Contracting Officer insert Schedule line item numbers*] are subject to price revision in accordance with this clause; *provided,* that in no event shall the total final price of these items exceed the ceiling price of \_\_\_ dollars ($\_\_\_). Any supplies or services that are to be (1) ordered separately under, or otherwise added to, this contract and (2) subject to price revision in accordance with the terms of this clause shall be identified as such in a modification to this contract.
 
 (b) *Definition. Costs,* as used in this clause, means allowable costs in accordance with part 31 of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.
 
-(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after the end of the month in which the Contractor has delivered the last unit of supplies and completed the services specified by item number in paragraph (a) of this clause, the Contractor shall submit in the format of Table 15-2, FAR 15.408, or in any other form on which the parties agree -
+(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after the end of the month in which the Contractor has delivered the last unit of supplies and completed the services specified by item number in paragraph (a) of this clause, the Contractor shall submit in the format of Table 15-2, FAR 15.408, or in any other form on which the parties agree—
 
 (i) A detailed statement of all costs incurred up to the end of that month in performing all work under the items;
 
@@ -34,7 +32,7 @@ Incentive Price Revision - Firm Target (OCT 1997)
 
 (iii) If the final negotiated cost is less than the total target cost, the adjustment is the total target profit plus \_\_\_ [*Contracting Officer insert percent*] percent of the amount by which the total final negotiated cost is less than the total target cost.
 
-(e) *Contract modification.* The total final price of the items specified in paragraph (a) above shall be evidenced by a modification to this contract, signed by the Contractor and the Contracting Officer. This price shall not be subject to revision, notwithstanding any changes in the cost of performing the contract, except to the extent that -
+(e) *Contract modification.* The total final price of the items specified in paragraph (a) above shall be evidenced by a modification to this contract, signed by the Contractor and the Contracting Officer. This price shall not be subject to revision, notwithstanding any changes in the cost of performing the contract, except to the extent that—
 
 (1) The parties may agree in writing, before the determination of total final price, to exclude specific elements of cost from this price and to a procedure for subsequent disposition of those elements; and
 
@@ -48,17 +46,17 @@ Incentive Price Revision - Firm Target (OCT 1997)
 
 (g) *Quarterly limitation on payments statement.* This paragraph (g) shall apply until final price revision under this contract has been completed.
 
-(1) Within 45 days after the end of each quarter of the Contractor's fiscal year in which a delivery is first made (or services are first performed) and accepted by the Government under this contract, and for each quarter thereafter, the Contractor shall submit to the contract administration office (with a copy to the contracting office and the cognizant contract auditor) a statement, cumulative from the beginning of the contract, showing -
+(1) Within 45 days after the end of each quarter of the Contractor's fiscal year in which a delivery is first made (or services are first performed) and accepted by the Government under this contract, and for each quarter thereafter, the Contractor shall submit to the contract administration office (with a copy to the contracting office and the cognizant contract auditor) a statement, cumulative from the beginning of the contract, showing—
 
 (i) The total contract price of all supplies delivered (or services performed) and accepted by the Government and for which final prices have been established;
 
 (ii) The total costs (estimated to the extent necessary) reasonably incurred for, and properly allocable solely to, the supplies delivered (or services performed) and accepted by the Government and for which final prices have not been established;
 
-(iii) The portion of the total target profit (used in establishing the initial contract price or agreed to for the purpose of this paragraph (g)) that is in direct proportion to the supplies delivered (or services performed) and accepted by the Government and for which final prices have not been established - increased or decreased in accordance with subparagraph (d)(2) above, when the amount stated under subdivision (ii), immediately above, differs from the aggregate target costs of the supplies or services; and
+(iii) The portion of the total target profit (used in establishing the initial contract price or agreed to for the purpose of this paragraph (g)) that is in direct proportion to the supplies delivered (or services performed) and accepted by the Government and for which final prices have not been established—increased or decreased in accordance with subparagraph (d)(2) above, when the amount stated under subdivision (ii), immediately above, differs from the aggregate target costs of the supplies or services; and
 
 (iv) The total amount of all invoices or vouchers for supplies delivered (or services performed) and accepted by the Government (including amounts applied or to be applied to liquidate progress payments).
 
-(2) Notwithstanding any provision of this contract authorizing greater payments, if on any quarterly statement the amount under subdivision (1)(iv) above exceeds the sum due the Contractor, as computed in accordance with subdivisions (1)(i), (ii), and (iii) above, the Contractor shall immediately refund or credit to the Government the amount of this excess. The Contractor may, when appropriate, reduce this refund or credit by the amount of any applicable tax credits due the Contractor under 26 U.S.C. 1481 and by the amount of previous refunds or credits effected under this clause. If any portion of the excess has been applied to the liquidation of progress payments, then that portion may, instead of being refunded, be added to the unliquidated progress payment account consistent with the Progress Payments clause. The Contractor shall provide complete details to support any claimed reductions in refunds.
+(2) Notwithstanding any provision of this contract authorizing greater payments, if on any quarterly statement the amount under subdivision (1)(iv) above exceeds the sum due the Contractor, as computed in accordance with subdivisions (1)(i), (ii), and (iii) above, the Contractor shall immediately refund or credit to the Government the amount of this excess. The Contractor may, when appropriate, reduce this refund or credit by the amount of previous refunds or credits effected under this clause. If any portion of the excess has been applied to the liquidation of progress payments, then that portion may, instead of being refunded, be added to the unliquidated progress payment account consistent with the Progress Payments clause. The Contractor shall provide complete details to support any claimed reductions in refunds.
 
 (3) If the Contractor fails to submit the quarterly statement within 45 days after the end of each quarter and it is later determined that the Government has overpaid the Contractor, the Contractor shall repay the excess to the Government immediately. Unless repaid within 30 days after the end of the statement submittal period, the amount of the excess shall bear interest, computed from the date the quarterly statement was due to the date of repayment, at the rate established in accordance with the Interest clause.
 
@@ -82,4 +80,4 @@ Incentive Price Revision - Firm Target (OCT 1997)
 
 (o) *Provisioning and options.* Parts, other supplies, or services that are to be furnished under this contract on the basis of a provisioning document or Government option shall be subject to price revision in accordance with this clause. Any prices established for these parts, other supplies, or services under a provisioning document or Government option shall be treated as target prices. Target cost and profit covering these parts, other supplies, or services may be established separately, in the aggregate, or in any combination, as the parties may agree.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 61 FR 67426, Dec. 20, 1996; 62 FR 12696, Mar. 17, 1997; 62 FR 51265, Sept. 30, 1997]
+[48 FR 42478, Sept. 19, 1983, as amended at 61 FR 67426, Dec. 20, 1996; 62 FR 12696, Mar. 17, 1997; 62 FR 51265, Sept. 30, 1997; 86 FR 71323, Dec. 15, 2021]

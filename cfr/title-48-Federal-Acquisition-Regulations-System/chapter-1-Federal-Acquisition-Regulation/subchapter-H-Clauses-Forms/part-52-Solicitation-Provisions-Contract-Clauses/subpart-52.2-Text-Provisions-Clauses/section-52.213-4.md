@@ -1,7 +1,5 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 86 FR 71326, Dec. 15, 2021.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JAN 2022)
@@ -44,7 +42,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (NOV 2021)
+(viii) 52.244-6 Subcontracts for Commercial Products and Commercial Items (JAN 2022).
 
 (ix) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -70,7 +68,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (B) Alternate I (MAR 2015) (Applies if the Contracting Officer has filled in the following information with regard to applicable directives or notices: Document title(s), source for obtaining document(s), and contract performance location outside the United States to which the document applies).
 
-(ix) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia)).
+(ix) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia)).
 
 (x) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia.))
 

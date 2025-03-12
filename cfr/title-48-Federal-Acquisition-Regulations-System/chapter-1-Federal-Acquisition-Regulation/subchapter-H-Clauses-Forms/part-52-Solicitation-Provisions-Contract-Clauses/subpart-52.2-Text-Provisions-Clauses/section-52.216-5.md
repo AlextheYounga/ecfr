@@ -1,10 +1,8 @@
-##### 52.216-5 Price Redetermination - Prospective. #####
-
-Link to an amendment published at 86 FR 71322, Dec. 15, 2021.
+##### 52.216-5 Price Redetermination—Prospective. #####
 
 As prescribed in 16.205-4, insert the following clause:
 
-Price Redetermination - Prospective (OCT 1997)
+Price Redetermination—Prospective (JAN 2022)
 
 (a) *General.* The unit prices and the total price stated in this contract shall be periodically redetermined in accordance with this clause, except that (1) the prices for supplies delivered and services performed before the first effective date of price redetermination (see paragraph (c) below) shall remain fixed and (2) in no event shall the total amount paid under this contract exceed any ceiling price included in the contract.
 
@@ -12,9 +10,9 @@ Price Redetermination - Prospective (OCT 1997)
 
 (c) *Price redetermination periods.* For the purpose of price redetermination, performance of this contract is divided into successive periods. The first period shall extend from the date of the contract to \_\_, [*see Note (1)*] and the second and each succeeding period shall extend for \_\_ [*insert appropriate number*] months from the end of the last preceding period, except that the parties may agree to vary the length of the final period. The first day of the second and each succeeding period shall be the effective date of price redetermination for that period.
 
-(d) *Data submission.* (1) Not more than \_\_ nor less than \_\_ [*see Note (2)*] days before the end of each redetermination period, except the last, the Contractor shall submit -
+(d) *Data submission.* (1) Not more than \_\_ nor less than \_\_ [*see Note (2)*] days before the end of each redetermination period, except the last, the Contractor shall submit—
 
-(i) Proposed prices for supplies that may be delivered or services that may be performed in the next succeeding period, and -
+(i) Proposed prices for supplies that may be delivered or services that may be performed in the next succeeding period, and—
 
 (A) An estimate and breakdown of the costs of these supplies or services in the format of Table 15-2, FAR 15.408, or in any other form on which the parties may agree;
 
@@ -22,15 +20,15 @@ Price Redetermination - Prospective (OCT 1997)
 
 (C) An explanation of the differences between this estimate and the original (or last preceding) estimate for the same supplies or services; and
 
-(ii) A statement of all costs incurred in performing this contract through the end of the \_\_\_ month (see Note (3)) before the submission of proposed prices in the format of Table 15-2, FAR 15.408 (or in any other form on which the parties may agree), with sufficient supporting data to disclose unit costs and cost trends for -
+(ii) A statement of all costs incurred in performing this contract through the end of the \_\_\_ month (see Note (3)) before the submission of proposed prices in the format of Table 15-2, FAR 15.408 (or in any other form on which the parties may agree), with sufficient supporting data to disclose unit costs and cost trends for—
 
 (A) Supplies delivered and services performed; and
 
 (B) Inventories of work in process and undelivered contract supplies on hand (estimated to the extent necessary).
 
-(2) The Contractor shall also submit, to the extent that it becomes available before negotiations on redetermined prices are concluded -
+(2) The Contractor shall also submit, to the extent that it becomes available before negotiations on redetermined prices are concluded—
 
-(i) Supplemental statements of costs incurred after the date stated in subdivision (d)(1)(ii) above for -
+(i) Supplemental statements of costs incurred after the date stated in subdivision (d)(1)(ii) above for—
 
 (A) Supplies delivered and services performed; and
 
@@ -48,7 +46,7 @@ Price Redetermination - Prospective (OCT 1997)
 
 (h) *Quarterly limitation on payments statement.* This paragraph (h) applies only during periods for which firm prices have not been established.
 
-(1) Within 45 days after the end of the quarter of the Contractor's fiscal year in which a delivery is first made (or services are first performed) and accepted by the Government under this contract, and for each quarter thereafter, the Contractor shall submit to the contract administration office (with a copy to the contracting office and the cognizant contract auditor) a statement, cumulative from the beginning of the contract, showing -
+(1) Within 45 days after the end of the quarter of the Contractor's fiscal year in which a delivery is first made (or services are first performed) and accepted by the Government under this contract, and for each quarter thereafter, the Contractor shall submit to the contract administration office (with a copy to the contracting office and the cognizant contract auditor) a statement, cumulative from the beginning of the contract, showing—
 
 (i) The total contract price of all supplies delivered (or services performed) and accepted by the Government and for which final prices have been established;
 
@@ -60,7 +58,7 @@ Price Redetermination - Prospective (OCT 1997)
 
 (2) The statement required by subparagraph (1) above need not be submitted for any quarter for which either no costs are to be reported under subdivision (1)(ii) above, or revised billing prices have been established in accordance with paragraph (g) above, and do not exceed the existing contract price, the Contractor's price-redetermination proposal, or a price based on the most recent quarterly statement, whichever is least.
 
-(3) Notwithstanding any provision of this contract authorizing greater payments, if on any quarterly statement the amount under subdivision (1)(iv) above exceeds the sum due the Contractor, as computed in accordance with subdivisions (1)(i), (ii), and (iii) above, the Contractor shall immediately refund or credit to the Government the amount of this excess. The Contractor may, when appropriate, reduce this refund or credit by the amount of any applicable tax credits due the Contractor under 26 U.S.C. 1481 and by the amount of previous refunds or credits effected under this clause. If any portion of the excess has been applied to the liquidation of progress payments, then that portion may, instead of being refunded, be added to the unliquidated progress payment account, consistent with the Progress Payments clause. The Contractor shall provide complete details to support any claimed reductions in refunds.
+(3) Notwithstanding any provision of this contract authorizing greater payments, if on any quarterly statement the amount under subdivision (1)(iv) above exceeds the sum due the Contractor, as computed in accordance with subdivisions (1)(i), (ii), and (iii) above, the Contractor shall immediately refund or credit to the Government the amount of this excess. The Contractor may, when appropriate, reduce this refund or credit by the amount of previous refunds or credits effected under this clause. If any portion of the excess has been applied to the liquidation of progress payments, then that portion may, instead of being refunded, be added to the unliquidated progress payment account, consistent with the Progress Payments clause. The Contractor shall provide complete details to support any claimed reductions in refunds.
 
 (4) If the Contractor fails to submit the quarterly statement within 45 days after the end of each quarter and it is later determined that the Government has overpaid the Contractor, the Contractor shall repay the excess to the Government immediately. Unless repaid within 30 days after the end of the statement submittal period, the amount of the excess shall bear interest, computed from the date the quarterly statement was due to the date of repayment, at the rate established in accordance with the Interest clause.
 
@@ -78,4 +76,4 @@ Price Redetermination - Prospective (OCT 1997)
 
 (3) Insert *first,* except that *second* may be inserted if necessary to achieve compatibility with the Contractor's accounting system.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 61 FR 67425, Dec. 20, 1996; 62 FR 51265, Sept. 30, 1997]
+[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 61 FR 67425, Dec. 20, 1996; 62 FR 51265, Sept. 30, 1997; 86 FR 71322, Dec. 15, 2021]

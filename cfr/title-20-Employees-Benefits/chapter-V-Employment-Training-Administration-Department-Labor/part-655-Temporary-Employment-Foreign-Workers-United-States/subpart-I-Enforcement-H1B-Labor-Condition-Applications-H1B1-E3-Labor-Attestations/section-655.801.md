@@ -1,5 +1,7 @@
 ##### § 655.801 What protection do employees have from retaliation? #####
 
+Link to an amendment published at 87 FR 2333, Jan. 14, 2022.
+
 (a) No employer subject to this subpart I or subpart H of this part shall intimidate, threaten, restrain, coerce, blacklist, discharge or in any other manner discriminate against an employee (which term includes a former employee or an applicant for employment) because the employee has -
 
 (1) Disclosed information to the employer, or to any other person, that the employee reasonably believes evidences a violation of sections 212(n) or (t) of the INA or any regulation relating to sections 212(n) or (t), including this subpart I and subpart H of this part and any pertinent regulations of DHS or the Department of Justice; or

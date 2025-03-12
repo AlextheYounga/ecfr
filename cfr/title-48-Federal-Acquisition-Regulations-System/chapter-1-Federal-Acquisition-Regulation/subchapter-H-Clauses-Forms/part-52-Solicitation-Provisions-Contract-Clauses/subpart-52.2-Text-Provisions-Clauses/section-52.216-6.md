@@ -1,16 +1,14 @@
-##### 52.216-6 Price Redetermination - Retroactive. #####
-
-Link to an amendment published at 86 FR 71323, Dec. 15, 2021.
+##### 52.216-6 Price Redetermination—Retroactive. #####
 
 As prescribed in 16.206-4, insert the following clause:
 
-Price Redetermination - Retroactive (OCT 1997)
+Price Redetermination—Retroactive (JAN 2022)
 
 (a) *General.* The unit price and the total price stated in this contract shall be redetermined in accordance with this clause, but in no event shall the total amount paid under this contract exceed \_\_ [*insert dollar amount of ceiling price*].
 
 (b) *Definition. Costs,* as used in this clause, means allowable costs in accordance with part 31 of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.
 
-(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after delivery of all supplies to be delivered and completion of all services to be performed under this contract, the Contractor shall submit -
+(c) *Data submission.* (1) Within \_\_ [*Contracting Officer insert number of days*] days after delivery of all supplies to be delivered and completion of all services to be performed under this contract, the Contractor shall submit—
 
 (i) Proposed prices;
 
@@ -28,7 +26,7 @@ Price Redetermination - Retroactive (OCT 1997)
 
 (g) *Quarterly limitation on payments statement.* This paragraph (g) shall apply until final price redetermination under this contract has been completed.
 
-(1) Within 45 days after the end of the quarter of the Contractor's fiscal year in which a delivery is first made (or services are first performed) and accepted by the Government under this contract, and for each quarter thereafter, the Contractor shall submit to the contract administration office (with a copy to the contracting office and the cognizant contract auditor), a statement, cumulative from the beginning of the contract, showing -
+(1) Within 45 days after the end of the quarter of the Contractor's fiscal year in which a delivery is first made (or services are first performed) and accepted by the Government under this contract, and for each quarter thereafter, the Contractor shall submit to the contract administration office (with a copy to the contracting office and the cognizant contract auditor), a statement, cumulative from the beginning of the contract, showing—
 
 (i) The total contract price of all supplies delivered (or services performed) and accepted by the Government and for which final prices have been established;
 
@@ -38,7 +36,7 @@ Price Redetermination - Retroactive (OCT 1997)
 
 (iv) The total amount of all invoices or vouchers for supplies delivered (or services performed) and accepted by the Government (including amounts applied or to be applied to liquidate progress payments).
 
-(2) Notwithstanding any provision of this contract authorizing greater payments, if on any quarterly statement the amount under subdivision (1)(iv) above exceeds the sum due the Contractor, as computed in accordance with subdivisions (i), (ii), and (iii) above, the Contractor shall immediately refund or credit to the Government the amount of this excess. The Contractor may, when appropriate, reduce this refund or credit by the amount of any applicable tax credits due the contractor under 26 U.S.C. 1481 and by the amount of previous refunds or credits effected under this clause. If any portion of the excess has been applied to the liquidation of progress payments, then that portion may, instead of being refunded, be added to the unliquidated progress payment account, consistent with the Progress Payments clause. The Contractor shall provide complete details to support any claimed reduction in refunds.
+(2) Notwithstanding any provision of this contract authorizing greater payments, if on any quarterly statement the amount under subdivision (1)(iv) above exceeds the sum due the Contractor, as computed in accordance with subdivisions (i), (ii), and (iii) above, the Contractor shall immediately refund or credit to the Government the amount of this excess. The Contractor may, when appropriate, reduce this refund or credit by the amount of previous refunds or credits effected under this clause. If any portion of the excess has been applied to the liquidation of progress payments, then that portion may, instead of being refunded, be added to the unliquidated progress payment account, consistent with the Progress Payments clause. The Contractor shall provide complete details to support any claimed reduction in refunds.
 
 (3) If the Contractor fails to submit the quarterly statement within 45 days after the end of each quarter and it is later determined that the Government has overpaid the Contractor, the Contractor shall repay the excess to the Government immediately. Unless repaid within 30 days after the end of the statement submittal period, the amount of the excess shall bear interest, computed from the date the quarterly statement was due to the date of repayment, at the rate established in accordance with the Interest clause.
 
@@ -48,4 +46,4 @@ Price Redetermination - Retroactive (OCT 1997)
 
 (j) *Termination.* If this contract is terminated before price redetermination, prices shall be established in accordance with this clause for completed supplies and services not terminated. All other elements of the termination shall be resolved in accordance with other applicable clauses of this contract.
 
-(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 61 FR 67426, Dec. 20, 1996; 62 FR 51265, Sept. 30, 1997]
+(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 61 FR 67426, Dec. 20, 1996; 62 FR 51265, Sept. 30, 1997; 86 FR 71323, Dec. 15, 2021]

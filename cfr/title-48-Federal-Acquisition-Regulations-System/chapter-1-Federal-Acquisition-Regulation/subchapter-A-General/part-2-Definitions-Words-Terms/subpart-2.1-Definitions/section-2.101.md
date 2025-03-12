@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 86 FR 71324, Dec. 15, 2021.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -408,7 +406,7 @@ Link to an amendment published at 86 FR 71324, Dec. 15, 2021.
 
 (2) Under a delegation of procurement authority issued by the General Services Administration (GSA) prior to August 7, 1996, under authority granted GSA by former section 40 U.S.C. 759, repealed by Pub. L. 104-106. The Economy Act does not apply to orders under a Governmentwide acquisition contract.
 
-*Governmentwide point of entry (GPE)* means the single point where Government business opportunities greater than $25,000, including synopses of proposed contract actions, solicitations, and associated information, can be accessed electronically by the public. The GPE is located at *https://www.fbo.gov.*
+*Governmentwide point of entry (GPE)* means the single point where Government business opportunities greater than $25,000, including synopses of proposed contract actions, solicitations, and associated information, can be accessed electronically by the public. The GPE is located at *https://www.sam.gov*.
 
 *Head of the agency* (see “agency head”).
 

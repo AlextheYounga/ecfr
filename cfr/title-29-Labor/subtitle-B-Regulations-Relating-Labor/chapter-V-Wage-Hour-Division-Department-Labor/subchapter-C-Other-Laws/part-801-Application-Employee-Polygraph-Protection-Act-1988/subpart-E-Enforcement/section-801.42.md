@@ -1,5 +1,7 @@
 ##### § 801.42 Civil money penalties - assessment. #####
 
+Link to an amendment published at 87 FR 2335, Jan. 14, 2022.
+
 (a) A civil money penalty in an amount not to exceed $21,663 for any violation may be assessed against any employer for:
 
 (1) Requiring, requesting, suggesting or causing an employee or prospective employee to take a lie detector test or using, accepting, referring to or inquiring about the results of any lie detector test of any employee or prospective employee, other than as provided in the Act or this part;

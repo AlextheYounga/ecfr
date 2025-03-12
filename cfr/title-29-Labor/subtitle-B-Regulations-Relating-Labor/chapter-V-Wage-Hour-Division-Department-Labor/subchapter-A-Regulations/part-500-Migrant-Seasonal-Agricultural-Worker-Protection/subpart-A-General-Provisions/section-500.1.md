@@ -1,5 +1,7 @@
 ##### § 500.1 Purpose and scope. #####
 
+Link to an amendment published at 87 FR 2334, Jan. 14, 2022.
+
 (a) Congress stated, in enacting the Migrant and Seasonal Agricultural Worker Protection Act that “[I]t is the purpose of this Act to remove the restraints on commerce caused by activities detrimental to migrant and seasonal agricultural workers; to require farm labor contractors to register under this Act; and to assure necessary protections for migrant and seasonal agricultural workers, agricultural associations, and agricultural employers.” It authorized the Secretary to issue such rules and regulations as are necessary to carry out the Act consistent with the requirements of chapter 5 of title 5, United States Code.
 
 (b) These regulations implement this purpose and policy. The regulations contained in this part are issued in accordance with section 511 of the Act and establish the rules and regulations necessary to carry out the Act.

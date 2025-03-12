@@ -1,10 +1,8 @@
 ##### 52.222-55 Minimum Wages Under Executive Order 13658. #####
 
-Link to an amendment published at 86 FR 71326, Dec. 15, 2021.
-
 As prescribed in 22.1906, insert the following clause:
 
-Minimum Wages Under Executive Order 13658 (NOV 2020)
+Minimum Wages Under Executive Order 13658 (JAN 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -30,7 +28,7 @@ Minimum Wages Under Executive Order 13658 (NOV 2020)
 
 (b) *Executive Order minimum wage rate.* (1) The Contractor shall pay to workers, while performing in the United States, and performing on, or in connection with, this contract, a minimum hourly wage rate of $10.10 per hour beginning January 1, 2015.
 
-(2) The Contractor shall adjust the minimum wage paid, if necessary, beginning January 1, 2016, and annually thereafter, to meet the applicable annual E.O. minimum wage. The Administrator of the Department of Labor's Wage and Hour Division (the Administrator) will publish annual determinations in the Federal Register no later than 90 days before the effective date of the new E.O. minimum wage rate. The Administrator will also publish the applicable E.O. minimum wage on *www.wdol.gov* (or any successor Web site), and a general notice on all wage determinations issued under the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute, that will provide information on the E.O. minimum wage and how to obtain annual updates. The applicable published E.O. minimum wage is incorporated by reference into this contract.
+(2) The Contractor shall adjust the minimum wage paid, if necessary, beginning January 1, 2016, and annually thereafter, to meet the applicable annual E.O. minimum wage. The Administrator of the Department of Labor's Wage and Hour Division (the Administrator) will publish annual determinations in the Federal Register no later than 90 days before the effective date of the new E.O. minimum wage rate. The Administrator will also publish the applicable E.O. minimum wage on *https://www.sam.gov* (or any successor Web site), and a general notice on all wage determinations issued under the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute, that will provide information on the E.O. minimum wage and how to obtain annual updates. The applicable published E.O. minimum wage is incorporated by reference into this contract.
 
 (3)(i) The Contractor may request a price adjustment only after the effective date of the new annual E.O. minimum wage determination. Prices will be adjusted only for increased labor costs (including subcontractor labor costs) as a result of an increase in the annual E.O. minimum wage, and for associated labor costs (including those for subcontractors). Associated labor costs shall include increases or decreases that result from changes in social security and unemployment taxes and workers' compensation insurance, but will not otherwise include any amount for general and administrative costs, overhead, or profit.
 
@@ -110,4 +108,4 @@ Minimum Wages Under Executive Order 13658 (NOV 2020)
 
 (k) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (k) in all subcontracts, regardless of dollar value, that are subject to the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute, and are to be performed in whole or in part in the United States.
 
-(End of clause)[79 FR 74552, Dec. 15, 2014, as amended at 80 FR 75917, Dec. 4, 2015; 85 FR 67628, Oct. 23, 2020]
+(End of clause)[79 FR 74552, Dec. 15, 2014, as amended at 80 FR 75917, Dec. 4, 2015; 85 FR 67628, Oct. 23, 2020; 86 FR 71326, Dec. 15, 2021]

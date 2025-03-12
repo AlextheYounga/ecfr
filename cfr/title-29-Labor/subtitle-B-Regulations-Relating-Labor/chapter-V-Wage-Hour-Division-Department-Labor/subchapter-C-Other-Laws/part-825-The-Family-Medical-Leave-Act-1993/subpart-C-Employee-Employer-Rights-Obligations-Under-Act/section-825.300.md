@@ -1,5 +1,7 @@
 ##### § 825.300 Employer notice requirements. #####
 
+Link to an amendment published at 87 FR 2335, Jan. 14, 2022.
+
 (a) *General notice.* (1) Every employer covered by the FMLA is required to post and keep posted on its premises, in conspicuous places where employees are employed, a notice explaining the Act's provisions and providing information concerning the procedures for filing complaints of violations of the Act with the Wage and Hour Division. The notice must be posted prominently where it can be readily seen by employees and applicants for employment. The poster and the text must be large enough to be easily read and contain fully legible text. Electronic posting is sufficient to meet this posting requirement as long as it otherwise meets the requirements of this section. An employer that willfully violates the posting requirement may be assessed a civil money penalty by the Wage and Hour Division not to exceed $178 for each separate offense.
 
 (2) Covered employers must post this general notice even if no employees are eligible for FMLA leave.

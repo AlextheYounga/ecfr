@@ -1,7 +1,5 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (JAN 2022)
@@ -206,7 +204,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_ (7) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020).
+\_\_ (7) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022).
 
 \_\_ (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
@@ -256,7 +254,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xvi) 52.222-54, Employment Eligibility Verification (NOV 2021) (E. O. 12989).
 
-(xvii) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020).
+(xvii) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022).
 
 (xviii) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
@@ -276,7 +274,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (NOV 2021). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (JAN 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -322,7 +320,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (O) 52.222-54, Employment Eligibility Verification (NOV 2021) (Executive Order 12989).
 
-(P) 52.222-55, Minimum Wages Under Executive Order 13658 (NOV 2020).
+(P) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022).
 
 (Q) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017)(E.O. 13706).
 

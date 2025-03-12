@@ -1,7 +1,5 @@
 ##### 6.305 Availability of the justification. #####
 
-Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
-
 (a) The agency shall make publicly available the justification required by 6.303-1 as required by 10 U.S.C. 2304(l) and 41 U.S.C. 3304(f). Except for the circumstances in paragraphs (b) and (c) of this section, the justification shall be made publicly available within 14 days after contract award.
 
 (b) In the case of a contract award permitted under 6.302-2, the justification shall be posted within 30 days after contract award.
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
 
 (d) The justifications shall be made publicly available -
 
-(1) At the Government Point of Entry (GPE) *https://www.fbo.gov*;
+(1) At the Government Point of Entry (GPE) *https://www.sam.gov*;
 
 (2) On the website of the agency, which may provide access to the justifications by linking to the GPE; and
 
@@ -20,4 +18,4 @@ Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
 
 (f) The requirements of paragraphs (a) through (d) do not apply if posting the justification would disclose the executive agency's needs and disclosure of such needs would compromise national security or create other security risks.
 
-[75 FR 34276, June 16, 2010, as amended at 79 FR 24198, Apr. 29, 2014; 83 FR 42572, Aug. 22, 2018]
+[75 FR 34276, June 16, 2010, as amended at 79 FR 24198, Apr. 29, 2014; 83 FR 42572, Aug. 22, 2018; 86 FR 71325, Dec. 15, 2021]

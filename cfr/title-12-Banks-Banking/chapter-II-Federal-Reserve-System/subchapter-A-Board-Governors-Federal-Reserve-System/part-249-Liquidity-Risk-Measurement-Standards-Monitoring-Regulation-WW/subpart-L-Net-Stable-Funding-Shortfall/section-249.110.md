@@ -25,5 +25,3 @@
 (3) The Board-regulated institution must report to the Board at least monthly, or such other frequency as required by the Board, on progress to achieve full compliance with § 249.100.
 
 (c) *Supervisory and enforcement actions.* The Board may, at its discretion, take additional supervisory or enforcement actions to address noncompliance with the minimum net stable funding ratio and other requirements of subparts K through N of this part (see also § 249.2(c)).
-
-[86 FR 9212, Feb. 11, 2021]

@@ -1,10 +1,8 @@
 ##### 5.705 Publicizing postaward. #####
 
-Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
-
 Follow usual publication procedures at 5.301, except that the following supersede the exceptions at 5.301(b)(2) through (7):
 
-(a)(1) Publicize the award notice for any action exceeding $500,000, funded in whole or in part by the Recovery Act, including -
+(a)(1) Publicize the award notice for any action exceeding $500,000, funded in whole or in part by the Recovery Act, including—
 
 (i) Contracts;
 
@@ -14,7 +12,7 @@ Follow usual publication procedures at 5.301, except that the following supersed
 
 (iv) Modifications to orders under task or delivery order contracts.
 
-(2) Contracting officers shall identify contract actions, funded in whole or in part by the Recovery Act, by using the following instructions which are also available in the Recovery FAQS under “Buyers/Engineers” at the Governmentwide Point of Entry (GPE) (*https://www.fbo.gov*):
+(2) Contracting officers shall identify contract actions, funded in whole or in part by the Recovery Act, by using the following instructions which are also available in the Recovery FAQS under “Buyers/Engineers” at the Governmentwide Point of Entry (GPE) (*https://www.sam.gov*):
 
 (i) If submitting notices electronically via ftp or email, enter the word “Recovery” as the first word in the title field.
 
@@ -24,8 +22,6 @@ Follow usual publication procedures at 5.301, except that the following supersed
 
 (b) Regardless of dollar value, if the contract action, including all modifications and orders under task or delivery order contracts, is not both fixed-price and competitively awarded, publicize the award notice and include in the description the rationale for using other than a fixed-priced and/or competitive approach. Include in the description a statement specifically noting if the contract action was not awarded competitively, or was not fixed-price, or was neither competitive nor fixed-price. These notices and the rationale will be available to the public at the GPE, so do not include any proprietary information or information that would compromise national security. The following table provides examples for when a rationale is required.
 
-Posting of Rationale - Examples
-
 |                                          Description of  <br/>contract action                                           |                                                                                                                                               Rationale required                                                                                                                                                |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                               (1) A contract is competitively awarded and is fixed-price.                               |                                                                                                                                                  Not required.                                                                                                                                                  |
@@ -33,9 +29,9 @@ Posting of Rationale - Examples
 |                                     (3) A contract is awarded without competition.                                      |                                                                                                                                                    Required.                                                                                                                                                    |
 |                       (4) An order is issued under a new or existing single award IDIQ contract.                        |                                                                                                        Required if order is made under a contract described in paragraph (b)(2) or (3) or this section.                                                                                                         |
 |                      (5) An order is issued under a new or existing multiple award IDIQ contract.                       |Required if one or both of the following conditions exist:  <br/>(i) The order is not fixed-price.  <br/>(ii) The order is awarded pursuant to an exception to the competition requirements applicable to the underlying vehicle (e.g.), award is made pursuant to an exception to the fair opportunity process).|
-|                                              (6) A modification is issued.                                              |                                              Required if modification is made -  <br/>(i) To a contract described in paragraph (b)(2) or (3) of this section; or  <br/>(ii) To an order requiring posting as described in paragraph (b)(4) or (5) of this section.                                              |
+|                                              (6) A modification is issued.                                              |                                              Required if modification is made—  <br/>(i) To a contract described in paragraph (b)(2) or (3) of this section; or  <br/>(ii) To an order requiring posting as described in paragraph (b)(4) or (5) of this section.                                               |
 |(7) A contract or order is awarded pursuant to a small business contracting authority (e.g., SBA's section 8(a) program).|                                             Required if one or both of the following conditions exist:  <br/>(i) The contract or order is not fixed-price;  <br/>(ii) The contract or order was not awarded using competition (e.g., a noncompetitive 8(a) award).                                              |
 
-(c) Contracting officers shall use the instructions available in the Recovery FAQs under “Buyers/Engineers” at the GPE (*https://www.fbo.gov*) to identify actions funded in whole or in part by the Recovery Act.
+(c) Contracting officers shall use the instructions available in the Recovery FAQs under “Buyers/Engineers” at the GPE (*https://www.sam.gov*) to identify actions funded in whole or in part by the Recovery Act.
 
-[74 FR 14638, Mar. 31, 2009, as amended at 74 FR 22810, May 14, 2009; 75 FR 34273, June 16, 2010; 76 FR 14552, Mar. 16, 2011; 83 FR 42572, Aug. 22, 2018; 84 FR 19841, May 6, 2019]
+[74 FR 14638, Mar. 31, 2009, as amended at 74 FR 22810, May 14, 2009; 75 FR 34273, June 16, 2010; 76 FR 14552, Mar. 16, 2011; 83 FR 42572, Aug. 22, 2018; 84 FR 19841, May 6, 2019; 86 FR 71325, Dec. 15, 2021]

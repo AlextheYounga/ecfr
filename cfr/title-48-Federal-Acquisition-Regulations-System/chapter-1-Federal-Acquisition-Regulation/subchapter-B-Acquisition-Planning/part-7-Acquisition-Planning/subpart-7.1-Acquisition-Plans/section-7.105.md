@@ -1,12 +1,10 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
-
 In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
-(a) *Acquisition background and objectives* - (1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
+(a) *Acquisition background and objectives*—(1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
 
-(2) *Applicable conditions.* State all significant conditions affecting the acquisition, such as -
+(2) *Applicable conditions.* State all significant conditions affecting the acquisition, such as—
 
 (i) Requirements for compatibility with existing or future systems or programs; and
 
@@ -36,7 +34,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (iii) State the timeframe for identifying which of those specifications and standards, originally provided for guidance only, shall become mandatory.
 
-(b) *Plan of action* - (1) *Sources.* (i) Indicate the prospective sources of supplies or services that can meet the need.
+(b) *Plan of action*—(1) *Sources.* (i) Indicate the prospective sources of supplies or services that can meet the need.
 
 (ii) Consider required sources of supplies or services (see part 8) and sources identifiable through databases including the Governmentwide database of contracts and other procurement instruments intended for use by multiple agencies available at *https://www.contractdirectory.gov/contractdirectory/.*
 
@@ -56,7 +54,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (3) *Contract type selection.* Discuss the rationale for the selection of contract type. For other than firm-fixed-price contracts, *see* 16.103(d) for additional documentation guidance. Acquisition personnel shall document the acquisition plan with findings that detail the particular facts and circumstances, (*e.g.,* complexity of the requirements, uncertain duration of the work, contractor's technical capability and financial responsibility, or adequacy of the contractor's accounting system), and associated reasoning essential to support the contract type selection. The contracting officer shall ensure that requirements and technical personnel provide the necessary documentation to support the contract type selection.
 
-(4) *Source-selection procedures.* Discuss the source-selection procedures for the acquisition, including the timing for submission and evaluation of proposals, and the relationship of evaluation factors to the attainment of the acquisition objectives (see subpart 15.3). When an EVMS is required (see FAR 34.202(a)) and a pre-award IBR is contemplated, the acquisition plan must discuss -
+(4) *Source-selection procedures.* Discuss the source-selection procedures for the acquisition, including the timing for submission and evaluation of proposals, and the relationship of evaluation factors to the attainment of the acquisition objectives (see subpart 15.3). When an EVMS is required (see FAR 34.202(a)) and a pre-award IBR is contemplated, the acquisition plan must discuss—
 
 (i) How the pre-award IBR will be considered in the source selection decision;
 
@@ -66,11 +64,11 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (5) *Acquisition considerations.* (i) For each contract contemplated, discuss use of multiyear contracting, options, or other special contracting methods (*see* part 17); any special clauses, special solicitation provisions, or FAR deviations required (*see* subpart 1.4); whether sealed bidding or negotiation will be used and why; whether equipment will be acquired by lease or purchase (*see* subpart 7.4) and why; and any other contracting considerations. Provide rationale if a performance-based acquisition will not be used or if a performance-based acquisition for services is contemplated on other than a firm-fixed-price basis (see 37.102(a), 16.103(d), and 16.505(a)(3)).
 
-(ii) For each order contemplated, discuss -
+(ii) For each order contemplated, discuss—
 
 (A) For information technology acquisitions, how the capital planning and investment control requirements of 40 U.S.C. 11312 and OMB Circular A-130 will be met (*see* 7.103(v) and part 39); and
 
-(B) Why this action benefits the Government, such as when -
+(B) Why this action benefits the Government, such as when—
 
 (*1*) The agency can accomplish its mission more efficiently and effectively (*e.g.,* take advantage of the servicing agency's specialized expertise; or gain access to contractors with needed expertise); or
 
@@ -98,7 +96,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (13) *Test and evaluation.* To the extent applicable, describe the test program of the contractor and the Government. Describe the test program for each major phase of a major system acquisition. If concurrency is planned, discuss the extent of testing to be accomplished before production release.
 
-(14) *Logistics considerations.* Describe -
+(14) *Logistics considerations.* Describe—
 
 (i) The assumptions determining contractor or agency support, both initially and over the life of the acquisition, including consideration of contractor or agency maintenance and servicing (see subpart 7.3), support for contracts to be performed in a designated operational area or supporting a diplomatic or consular mission (see 25.301-3); and distribution of commercial products or commercial services;
 
@@ -110,7 +108,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (15) *Government-furnished property.* Indicate any Government property to be furnished to contractors, and discuss any associated considerations, such as its availability or the schedule for its acquisition (see 45.102).
 
-(16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the Governmentwide point of entry (GPE) at *https://www.fbo.gov* (see 5.102(a)).
+(16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the Governmentwide point of entry (GPE) at*https://www.sam.gov* (see 5.102(a)).
 
 (17) *Environmental and energy conservation objectives.* Discuss all applicable environmental and energy conservation objectives associated with the acquisition (see part 23), the applicability of an environmental assessment or environmental impact statement (see 40 CFR part 1502), the proposed resolution of environmental issues, and any environmentally-related requirements to be included in solicitations and contracts (see 11.002 and 11.303).
 
