@@ -1,5 +1,7 @@
 ##### § 902.3 Definitions. #####
 
+Link to an amendment published at 88 FR 30500, May 11, 2023.
+
 As used in this part:
 
 *Act* means the U.S. Housing Act of 1937 (42 U.S.C. 1437 *et seq.*)

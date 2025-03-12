@@ -1,6 +1,6 @@
 ##### § 17.96 Critical habitat—plants. #####
 
-Link to an amendment published at 88 FR 21867, Apr. 11, 2023.Link to an amendment published at 88 FR 25238, Apr. 25, 2023.Link to an amendment published at 88 FR 28905, May 4, 2023.
+Link to an amendment published at 88 FR 21867, Apr. 11, 2023.Link to an amendment published at 88 FR 25238, Apr. 25, 2023.Link to an amendment published at 88 FR 28905, May 4, 2023.Link to a correction of the above amendment published at 88 FR 30234, May 11, 2023.
 
 (a) *Flowering plants.*
 
@@ -2486,7 +2486,105 @@ Unit 7, La Puerta Tract (1,577 ha; 3,895 ac) (Segment 590). Note: All bearings a
 
 Unit 8—Private ranch site comprises 0.552 hectares (1.36 acres) within the Universal Transverse Mercator, Zone 14 and begins at UTM 490706 E, 2929709 N; thence to 490729 E, 2929706 N; to 490748 E, 2929720 N; to 490762 E, 2929722 N; to 490767 E, 2929704 N; to 490767 E, 2929679 N; to 490769 E, 2929654 N; to 490770 E, 2929637 N; to 490770 E, 2929629 N; to 490760 E, 2929619 N; to 490743 E, 2929614 N; to 490732 E, 2929612 N; to 490720 E, 2929614 N; to 490709 E, 2929670 N; and thence to point of beginning.
 
-![](/graphics/er22de00.016.gif)Family Brassicaceae: *Thlaspi californicum* (Kneeland Prairie penny-cress)
+![](/graphics/er22de00.016.gif)Family Brassicaceae: *Streptanthus bracteatus* (bracted twistflower)
+
+(1) Critical habitat units are depicted for Bexar, Medina, Travis, and Uvalde Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of bracted twistflower consist of the following components:
+
+(i) Karstic, dolomitic limestones underlain by less permeable limestone strata, where perched aquifers seep to the surface along slopes. These are often found within 2 kilometers of the exposed boundary of the Edwards or Devils River and Glen Rose geological formations;
+
+(ii) Native, old-growth juniper-oak woodlands and shrublands along the Balcones Escarpment;
+
+(iii) Herbivory from white-tailed deer and introduced ungulates of such low intensity that it does not severely deplete populations prior to seed dispersal;
+
+(iv) Tree and shrub canopy gaps that allow direct sunlight to reach the herbaceous plant layer at least 6 hours per day; and
+
+(v) Viable populations of native bee species and the abundant, diverse forb and shrub understory that support them.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 11, 2023.
+
+(4) Data layers defining map units were created using U.S. Geological Survey digital elevation models. For each unit/subunit, we determined the range of occupied elevations and the range of occupied slopes; critical habitat polygons consist of the intersection of the occupied elevations and occupied slopes. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2021-0013, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to *Streptanthus bracteatus* (bracted twistflower) paragraph (5)![](/graphics/er11ap23.004.gif)
+
+(6) Unit 1: Northeast; Travis County, Texas.
+
+(i) Subunit 1a: Barton Creek Greenbelt and Barton Creek Wilderness Park.
+
+(A) Subunit 1a consists of 690.5 acres (ac) (279.44 hectares (ha)) in Travis County and is composed of lands along Barton Creek owned by the City of Austin Parks and Recreation Department and jointly managed by the Parks and Recreation Department and Austin Water's Wildland Conservation Division as a unit of the Balcones Canyonlands Preserve (BCP) system.
+
+(B) Map of Subunit 1a follows:
+
+Figure 2 to *Streptanthus bracteatus* (bracted twistflower) paragraph (6)(i)(B)![](/graphics/er11ap23.005.gif)
+
+(ii) Subunit 1b: Bull Creek District Park.
+
+(A) Subunit 1b consists of 2.32 ac (0.94 ha) in Travis County and is composed of lands owned by the City of Austin Parks and Recreation Department and jointly managed by the Parks and Recreation Department and Austin Water's Wildland Conservation Division as a unit of the BCP system.
+
+(B) Map of Subunit 1b follows:
+
+Figure 3 to *Streptanthus bracteatus* (bracted twistflower) paragraph (6)(ii)(B)![](/graphics/er11ap23.006.gif)
+
+(iii) Subunit 1c: Mount Bonnell Park.
+
+(A) Subunit 1c consists of 2 ac (0.81 ha) in Travis County and is composed of lands owned by the City of Austin Parks and Recreation Department and jointly managed by the Parks and Recreation Department and Austin Water's Wildland Conservation Division as a unit of the BCP system.
+
+(B) Map of Subunit 1c follows:
+
+Figure 4 to *Streptanthus bracteatus* (bracted twistflower) paragraph (6)(iii)(B)![](/graphics/er11ap23.007.gif)
+
+(iv) Subunit 1d: Ullrich Water Treatment Plant/Bee Creek Park.
+
+(A) Subunit 1d consists of 19.47 ac (7.88 ha) in Travis County and is composed of lands owned by the City of Austin Water Utility, a portion of which is jointly managed by the Parks and Recreation Department and Austin Water's Wildland Conservation Division as a unit of the BCP system.
+
+(B) Map of Subunit 1d follows:
+
+Figure 5 to *Streptanthus bracteatus* (bracted twistflower) paragraph (6)(iv)(B)![](/graphics/er11ap23.008.gif)
+
+(7) Unit 2: Central; Bexar and Medina Counties, Texas.
+
+(i) Subunit 2a: Eisenhower Park.
+
+(A) Subunit 2a consists of 78.16 ac (31.63 ha) in Bexar County and is composed of lands owned by the City of San Antonio and managed by San Antonio Parks and Recreation Department.
+
+(B) Map of Subunit 2a follows:
+
+Figure 6 to *Streptanthus bracteatus* (bracted twistflower) paragraph (7)(i)(B)![](/graphics/er11ap23.009.gif)
+
+(ii) Subunit 2b: Rancho Diana.
+
+(A) Subunit 2b consists of 395.73 ac (160.15 ha) in Bexar County and is composed of lands owned and managed by the City of San Antonio.
+
+(B) Map of Subunit 2b follows:
+
+Figure 7 to *Streptanthus bracteatus* (bracted twistflower) paragraph (7)(ii)(B)![](/graphics/er11ap23.010.gif)
+
+(iii) Subunit 2c: Laurel Canyon Ranch Easement.
+
+(A) Subunit 2c consists of 39.59 ac (16.02 ha) in Medina County and is composed of private property owned by Laurel C. Canyon Ranch, LP. The City of San Antonio Edwards Aquifer Protection Program holds a conservation easement on 222 ha (549 ac) of Laurel Canyon Ranch.
+
+(B) Map of Subunit 2c follows:
+
+Figure 8 to *Streptanthus bracteatus* (bracted twistflower) paragraph (7)(iii)(B)![](/graphics/er11ap23.011.gif)
+
+(iv) Subunit 2d: Medina River.
+
+(A) Subunit 2d consists of 23.28 ac (9.42 ha) in Medina County and is composed of private property owned by Medina Ranch Inc.
+
+(B) Map of Subunit 2d follows:
+
+Figure 9 to *Streptanthus bracteatus* (bracted twistflower) paragraph (7)(iv)(B)![](/graphics/er11ap23.012.gif)
+
+(8) Unit 3: Southwest; Garner State Park, Uvalde County, Texas.
+
+(i) Unit 3 consists of 345.22 ac (139.71 ha) in Uvalde County and is composed of lands within Garner State Park, which is managed by Texas Parks and Wildlife Department.
+
+(ii) Map of Unit 3 follows:
+
+Figure 10 to *Streptanthus bracteatus* (bracted twistflower) paragraph (8)(ii)![](/graphics/er11ap23.013.gif)Family Brassicaceae: *Thlaspi californicum* (Kneeland Prairie penny-cress)
 
 (1) A critical habitat unit is depicted for Humboldt County, California, on the map below. The map provided is for informational purposes only.
 

@@ -1,5 +1,7 @@
 ##### § 983.3 PBV definitions. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *Use of PBV definitions*—(1) *PBV terms (defined in this section).* This section defines PBV terms that are used in this part 983. For PBV assistance, the definitions in this section apply to use of the defined terms in part 983 and in applicable provisions of 24 CFR part 982. (Section 983.2 specifies which provisions in part 982 apply to PBV assistance under part 983.)
 
 (2) *Other voucher terms (terms defined in 24 CFR 982.4).* (i) The definitions in this section apply instead of definitions of the same terms in 24 CFR 982.4.

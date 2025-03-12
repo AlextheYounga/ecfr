@@ -1,5 +1,7 @@
 ##### § 200.853 Applicability. #####
 
+Link to an amendment published at 88 FR 30498, May 11, 2023.
+
 This subpart applies to:
 
 (a) Housing assisted by HUD under the following programs:

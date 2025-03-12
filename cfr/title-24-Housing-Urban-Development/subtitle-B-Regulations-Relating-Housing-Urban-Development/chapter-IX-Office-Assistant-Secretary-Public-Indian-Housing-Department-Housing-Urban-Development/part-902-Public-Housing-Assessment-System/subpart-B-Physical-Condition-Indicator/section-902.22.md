@@ -1,5 +1,7 @@
 ##### § 902.22 Physical inspection of PHA projects. #####
 
+Link to an amendment published at 88 FR 30501, May 11, 2023.
+
 (a) *The inspection, generally.* The PHA's score for the physical condition indicator is based on an independent physical inspection of a PHA's project(s) provided by HUD and using HUD's Uniform Physical Condition Standard (UPCS) inspection protocols to ensure projects meet DSS/GR standards that constitute acceptable basic housing conditions. Mixed-finance projects will be subject to the physical condition inspections.
 
 (b) Pursuant to § 902.13(a), PHAs with less than 250 public housing units will receive a PHAS assessment, based on their PHAS designation, as follows:

@@ -102,7 +102,9 @@ The “person in charge” under this part is not necessarily the same person as
 
 (3) Containers or other receptacles that are used as temporary storage for garbage; or
 
-(4) Any combination of fixed and mobile facilities. “Recreational boating facility” means a facility that is capable of providing wharfage or other services for 10 or more recreational vessels. It includes, but is not limited to, marinas, boatyards, and yacht clubs, but does not include a place or facility containing only an unattended launching ramp.
+(4) Any combination of fixed and mobile facilities.
+
+*Recreational boating facility* means a facility that is capable of providing wharfage or other services for 10 or more recreational vessels. It includes, but is not limited to, marinas, boatyards, and yacht clubs, but does not include a place or facility containing only an unattended launching ramp.
 
 *Regulated NLS cargo* includes each Category A or high viscosity or solidifying Category B or C NLS cargo listed in table 1 of 46 CFR Part 153 that contains a reference to § 153.908(a) or § 153.908(b) in the “Special Requirements” column of that table and is unloaded at the port or terminal within a typical continuous 12 month period either before or after application is made for a Certificate of Adequacy.
 

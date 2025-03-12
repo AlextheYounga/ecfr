@@ -1,5 +1,7 @@
 ##### § 902.20 Physical condition assessment. #####
 
+Link to an amendment published at 88 FR 30500, May 11, 2023.
+
 (a) *Objective.* The objective of the physical condition indicator is to determine whether a PHA is meeting the standard of decent, safe, sanitary housing in good repair (DSS/GR), as this standard is defined in 24 CFR 5.703.
 
 (b) *Method of assessment.* The physical condition assessment is based on an independent physical inspection of a PHA's projects provided by HUD and performed by contract inspectors, and conducted using HUD's Uniform Physical Condition Standards (UPCS) under 24 CFR part 5, subpart G.

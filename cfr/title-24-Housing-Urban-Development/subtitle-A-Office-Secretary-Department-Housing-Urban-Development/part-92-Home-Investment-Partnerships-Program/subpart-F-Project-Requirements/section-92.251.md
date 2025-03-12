@@ -1,5 +1,7 @@
 ##### § 92.251 Property standards. #####
 
+Link to an amendment published at 88 FR 30496, May 11, 2023.
+
 (a) *New construction projects.* (1) *State and local codes, ordinances, and zoning requirements.* Housing that is newly constructed with HOME funds must meet all applicable State and local codes, ordinances, and zoning requirements. HOME-assisted new construction projects must meet State or local residential and building codes, as applicable or, in the absence of a State or local building code, the International Residential Code or International Building Code (as applicable to the type of housing) of the International Code Council. The housing must meet the applicable requirements upon project completion.
 
 (2) *HUD requirements.* All new construction projects must also meet the requirements described in this paragraph:

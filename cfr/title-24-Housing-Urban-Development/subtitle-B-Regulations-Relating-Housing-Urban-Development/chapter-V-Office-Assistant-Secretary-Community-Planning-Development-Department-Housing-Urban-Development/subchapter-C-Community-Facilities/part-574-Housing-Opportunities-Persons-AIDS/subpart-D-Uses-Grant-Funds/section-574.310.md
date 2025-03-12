@@ -1,6 +1,6 @@
 ##### § 574.310 General standards for eligible housing activities. #####
 
-Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
+Link to an amendment published at 88 FR 9665, Feb. 14, 2023.Link to an amendment published at 88 FR 30498, May 11, 2023.
 
 All grantees using grant funds to provide housing must adhere to the following standards:
 

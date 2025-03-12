@@ -1,6 +1,6 @@
 ##### § 92.2 Definitions. #####
 
-Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
+Link to an amendment published at 88 FR 9662, Feb. 14, 2023.Link to an amendment published at 88 FR 30496, May 11, 2023.
 
 The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA), Public housing,**Public Housing Agency (PHA),* and *Secretary* are defined in 24 CFR 5.100.
 

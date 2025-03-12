@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 21073, Apr. 10, 2023.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -397,21 +395,13 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (u) *Water closets.* Measure the water use for water closets, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(a) of appendix T to this subpart.
 
-(v) *Urinals.* Measure the water use for urinals, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(b) of appendix T to this subpart.
+(v) For a ceiling fan light kit packaged with other fluorescent lamps (not compact fluorescent lamps or general service fluorescent lamps), packaged with consumer-replaceable SSL (not integrated LED lamps), packaged with non-consumer-replaceable SSL, or packaged with other SSL lamps that have an ANSI standard base (not integrated LED lamps), measure efficacy in accordance with section 3 of appendix V of this subpart for each lamp basic model, consumer-replaceable SSL basic model, or non-consumer-replaceable SSL basic model.
 
 (w) *Ceiling fans.* Measure the following attributes of a single ceiling fan in accordance with appendix U to this subpart: airflow; power consumption; ceiling fan efficiency, as applicable; ceiling fan energy index (CFEI), as applicable; standby power, as applicable; distance between the ceiling and lowest point of fan blades; blade span; blade edge thickness; and blade revolutions per minute (RPM).
 
-(x) *Ceiling fan light kits.* (1) For each ceiling fan light kit that is required to comply with the energy conservation standards as of January 1, 2007:
+(x) *Ceiling fan light kits.*
 
-(i) For a ceiling fan light kit with medium screw base sockets that is packaged with compact fluorescent lamps, measure lamp efficacy, lumen maintenance at 1,000 hours, lumen maintenance at 40 percent of lifetime, rapid cycle stress test, and time to failure in accordance with paragraph (y) of this section.
-
-(ii) For a ceiling fan light kit with medium screw base sockets that is packaged with integrated LED lamps, measure lamp efficacy in accordance with paragraph (ee) of this section.
-
-(iii) For a ceiling fan light kit with pin-based sockets that is packaged with fluorescent lamps, measure system efficacy in accordance with section 4 of appendix V of this subpart.
-
-(iv) For a ceiling fan light kit with medium screw base sockets that is packaged with incandescent lamps, measure lamp efficacy in accordance with paragraph (r) of this section.
-
-(2) For each ceiling fan light kit that requires compliance with the January 21, 2020 energy conservation standards:
+(1) For each ceiling fan light kit that requires compliance with the January 21, 2020 energy conservation standards:
 
 (i) For a ceiling fan light kit packaged with compact fluorescent lamps, measure lamp efficacy, lumen maintenance at 1,000 hours, lumen maintenance at 40 percent of lifetime, rapid cycle stress test, and time to failure in accordance with paragraph (y) of this section for each lamp basic model.
 
@@ -421,7 +411,9 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (iv) For a ceiling fan light kit packaged with integrated LED lamps, measure lamp efficacy in accordance with paragraph (ee) of this section for each lamp basic model.
 
-(v) For a ceiling fan light kit packaged with other fluorescent lamps (not compact fluorescent lamps or general service fluorescent lamps), packaged with other SSL products (not integrated LED lamps) or with integrated SSL circuitry, measure efficacy in accordance with section 3 of appendix V1 of this subpart for each lamp basic model or integrated SSL basic model.
+(v) For a ceiling fan light kit packaged with other fluorescent lamps (not compact fluorescent lamps or general service fluorescent lamps), packaged with consumer-replaceable SSL (not integrated LED lamps), packaged with non-consumer-replaceable SSL, or packaged with other SSL lamps that have an ANSI standard base (not integrated LED lamps), measure efficacy in accordance with section 3 of appendix V of this subpart for each lamp basic model, consumer-replaceable SSL basic model, or non-consumer-replaceable SSL basic model.
+
+(2) [Reserved]
 
 (y) *Compact fluorescent lamps.* (1) Measure initial lumen output, input power, initial lamp efficacy, lumen maintenance at 1,000 hours, lumen maintenance at 40 percent of lifetime of a compact fluorescent lamp (as defined in 10 CFR 430.2), color rendering index (CRI), correlated color temperature (CCT), power factor, start time, standby mode energy consumption, and time to failure in accordance with appendix W of this subpart. Express time to failure in hours.
 

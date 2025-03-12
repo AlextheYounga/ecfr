@@ -1,5 +1,7 @@
 ##### § 902.26 Physical Inspection Report. #####
 
+Link to an amendment published at 88 FR 30501, May 11, 2023.
+
 (a) Following the physical inspection of each project and the computation of the score(s) under this subpart, the PHA receives a Physical Inspection Report. The Physical Inspection Report allows the PHA to see the points lost by inspectable area, and the impact on the score of the H&S and EHS deficiencies.
 
 (1) If EHS items are identified in the report, the PHA shall have the opportunity to correct, remedy, or act to abate all EHS deficiencies and may request a reinspection.

@@ -1,5 +1,7 @@
 ##### § 902.68 Technical review of results of PHAS physical condition indicator. #####
 
+Link to an amendment published at 88 FR 30501, May 11, 2023.
+
 (a) *Request for technical reviews.* This section describes the process for requesting and granting technical reviews of physical inspection results.
 
 (1) For these reviews, the burden of proof is on the PHA to show that an error occurred.

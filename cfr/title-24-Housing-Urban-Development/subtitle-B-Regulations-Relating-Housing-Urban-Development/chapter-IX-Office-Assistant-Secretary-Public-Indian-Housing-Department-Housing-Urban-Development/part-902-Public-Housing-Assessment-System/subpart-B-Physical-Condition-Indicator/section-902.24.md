@@ -1,5 +1,7 @@
 ##### § 902.24 Database adjustment. #####
 
+Link to an amendment published at 88 FR 30501, May 11, 2023.
+
 (a) *Adjustments for factors not reflected or inappropriately reflected in physical condition score.* Under circumstances described in this section, HUD may determine it is appropriate to review the results of a project's physical inspection that are unusual or incorrect due to facts and circumstances affecting the PHA's project that are not reflected in the inspection or that are reflected inappropriately in the inspection.
 
 (1) The circumstances described in this section are not the circumstances that may be addressed by the technical review process described in § 902.68. The circumstances addressed in this paragraph (a)(1) of this section may include inconsistencies between local code requirements and the HUD physical inspection protocol; conditions that are permitted by local variance or license or which are preexisting physical features that do not conform to, or are inconsistent with, HUD's physical condition protocol; or the project or PHA having been scored for elements (e.g., roads, sidewalks, mail boxes, resident-owned appliances, etc.) that it does not own and is not responsible for maintaining. To qualify for an adjustment on this basis, the project or PHA must have notified the proper authorities regarding the deficient element.

@@ -1,5 +1,7 @@
 ##### § 982.4 Definitions. #####
 
+Link to an amendment published at 88 FR 30503, May 11, 2023.
+
 (a) *Definitions found elsewhere*—(1) *General definitions.* The following terms are defined in part 5, subpart A of this title: 1937 Act, covered person, drug, drug-related criminal activity, federally assisted housing, guest, household, HUD, MSA, other person under the tenant's control, public housing, Section 8, and violent criminal activity.
 
 (2) *Definitions concerning family income and rent.* The terms “adjusted income,” “annual income,” “extremely low income family,” “tenant rent,” “total tenant payment,” “utility allowance,” “utility reimbursement,” and “welfare assistance” are defined in part 5, subpart F of this title. The definitions of “tenant rent” and “utility reimbursement” in part 5, subpart F of this title do not apply to the HCV program under part 982.

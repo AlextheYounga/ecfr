@@ -1,10 +1,8 @@
 ##### § 120.130 Restrictions on uses of proceeds. #####
 
-Link to an amendment published at 88 FR 21085, Apr. 10, 2023.
-
 SBA will not authorize nor may a Borrower use loan proceeds for the following purposes (including the replacement of funds used for any such purpose):
 
-(a) Payments, distributions or loans to Associates of the applicant (except for ordinary compensation for services rendered);
+(a) Payments, distributions, or loans to Associates of the applicant (except for ordinary compensation for services rendered or to facilitate changes of ownership in accordance with § 120.202);
 
 (b) Refinancing a debt owed to a Small Business Investment Company (“SBIC”) or a New Markets Venture Capital Company (“NMVCC”);
 
@@ -16,6 +14,6 @@ SBA will not authorize nor may a Borrower use loan proceeds for the following pu
 
 (f) A purpose which does not benefit the small business; or
 
-(g) Any use restricted by §§ 120.201, 120.202, and 120.884 (specific to 7(a) loans and 504 loans respectively).
+(g) Any use restricted by §§ 120.201 and 120.884 (specific to 7(a) loans and 504 loans respectively).
 
-[61 FR 3235, Jan. 31, 1996, as amended at 76 FR 9218, Feb. 17, 2011; 76 FR 63545, Oct. 12, 2011; 82 FR 39502, Aug. 21, 2017; 85 FR 7648, Feb. 10, 2020; 85 FR 80588, Dec. 14, 2020]
+[61 FR 3235, Jan. 31, 1996, as amended at 76 FR 9218, Feb. 17, 2011; 76 FR 63545, Oct. 12, 2011; 82 FR 39502, Aug. 21, 2017; 85 FR 7648, Feb. 10, 2020; 85 FR 80588, Dec. 14, 2020; 88 FR 21085, Apr. 10, 2023]

@@ -1,5 +1,7 @@
 ##### § 1026.59 Reevaluation of rate increases. #####
 
+Link to an amendment published at 88 FR 30623, May 11, 2023.
+
 (a) *General rule*—(1) *Evaluation of increased rate.* If a card issuer increases an annual percentage rate that applies to a credit card account under an open-end (not home-secured) consumer credit plan, based on the credit risk of the consumer, market conditions, or other factors, or increased such a rate on or after January 1, 2009, and 45 days' advance notice of the rate increase is required pursuant to § 1026.9(c)(2) or (g), the card issuer must:
 
 (i) Evaluate the factors described in paragraph (d) of this section; and

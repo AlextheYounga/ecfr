@@ -1,5 +1,7 @@
 ##### § 902.13 Frequency of PHAS assessments. #####
 
+Link to an amendment published at 88 FR 30500, May 11, 2023.
+
 The frequency of a PHA's PHAS assessments is determined by the size of the PHA's Low-Rent program and its PHAS designation. HUD may, due to unforeseen circumstances or other cause as determined by HUD, extend the time between assessments by direct notice to the PHA and relevant resident organization or resident management entity, and any other general notice that HUD deems appropriate.
 
 (a) *Small PHAs.* HUD will assess and score the performance of a PHA with fewer than 250 public housing units, as follows:

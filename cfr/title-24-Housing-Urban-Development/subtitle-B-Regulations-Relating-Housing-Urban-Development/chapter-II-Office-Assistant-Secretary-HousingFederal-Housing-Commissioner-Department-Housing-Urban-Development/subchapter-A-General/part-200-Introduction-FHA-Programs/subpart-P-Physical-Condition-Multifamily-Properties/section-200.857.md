@@ -1,5 +1,7 @@
 ##### § 200.857 Administrative process for scoring and ranking the physical condition of multifamily housing properties. #####
 
+Link to an amendment published at 88 FR 30498, May 11, 2023.
+
 (a) *Scoring and ranking of the physical condition of multifamily housing properties.* (1) HUD's Real Estate Assessment Center (REAC) will score and rank the physical condition of certain multifamily housing insured properties listed in § 200.853 in accordance with the procedures described in this section. The physical condition inspection of the property, upon which REAC bases its score and ranking, is conducted by the responsible entity in accordance with § 200.855.
 
 (2) Depending upon the results of its physical condition inspection, a multifamily housing property will be assigned one of three designations—standard 1 performing, standard 2 performing and standard 3 performing—in accordance with the ranking process described in paragraph (b) of this section.

@@ -1,5 +1,7 @@
 ##### § 882.516 Maintenance, operation and inspections. #####
 
+Link to an amendment published at 88 FR 30499, May 11, 2023.
+
 (a) *Maintenance and operation.* The Owner must provide all the services, maintenance and utilities as agreed to under the Contract, subject to abatement of housing assistance payments or other applicable remedies if the Owner fails to meet these obligations.
 
 (b) *Periodic inspection.* In addition to the inspections required prior to execution of the Contract, the PHA must inspect or cause to be inspected each dwelling unit under Contract at least annually and at such other times as may be necessary to assure that the Owner is meeting the obligations to maintain the unit in decent, safe and sanitary condition and to provide the agreed upon utilities and other services. The PHA must take into account complaints and any other information coming to its attention in scheduling inspections.

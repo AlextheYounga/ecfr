@@ -1,5 +1,7 @@
 ##### § 983.101 Housing quality standards. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *HQS applicability.* Except as otherwise provided in this section, 24 CFR 982.401 (housing quality standards) applies to the PBV program. The physical condition standards at 24 CFR 5.703 do not apply to the PBV program.
 
 (b) *HQS for special housing types.* For special housing types assisted under the PBV program, HQS in 24 CFR part 982 apply to the PBV program. (Shared housing, manufactured home space rental, and the homeownership option are not assisted under the PBV program.) HQS contained within 24 CFR part 982 that are inapplicable to the PBV program pursuant to § 983.2 are also inapplicable to special housing types under the PBV program.

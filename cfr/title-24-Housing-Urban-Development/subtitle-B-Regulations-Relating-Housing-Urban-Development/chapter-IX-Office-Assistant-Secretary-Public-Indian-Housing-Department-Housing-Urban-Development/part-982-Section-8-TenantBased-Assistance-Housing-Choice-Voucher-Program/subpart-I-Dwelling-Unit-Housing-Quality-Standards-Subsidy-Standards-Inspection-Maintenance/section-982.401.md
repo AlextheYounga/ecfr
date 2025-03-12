@@ -1,5 +1,7 @@
 ##### § 982.401 Housing quality standards (HQS). #####
 
+Link to an amendment published at 88 FR 30503, May 11, 2023.
+
 (a) *Performance and acceptability requirements.* (1) This section states the housing quality standards (HQS) for housing assisted under the HCV program.
 
 (2)(i) The HQS consist of:

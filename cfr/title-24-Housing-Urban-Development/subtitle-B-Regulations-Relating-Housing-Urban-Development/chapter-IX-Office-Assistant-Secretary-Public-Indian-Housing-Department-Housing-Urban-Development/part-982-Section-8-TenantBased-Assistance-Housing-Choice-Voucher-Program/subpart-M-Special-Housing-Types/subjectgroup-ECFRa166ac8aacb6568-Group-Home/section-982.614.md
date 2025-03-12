@@ -1,5 +1,7 @@
 ##### § 982.614 Group home: Housing quality standards. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *Compliance with HQS.* The PHA may not give approval to reside in a group home unless the unit, including the portion of the unit available for use by the assisted person under the lease, meets the housing quality standards.
 
 (b) *Applicable HQS standards.* (1) The HQS in § 982.401 apply to assistance in a group home. However, the standards in this section apply in place of § 982.401(b) (sanitary facilities), § 982.401(c) (food preparation and refuse disposal), § 982.401(d) (space and security), § 982.401(g) (structure and materials) and § 982.401(l) (site and neighborhood).

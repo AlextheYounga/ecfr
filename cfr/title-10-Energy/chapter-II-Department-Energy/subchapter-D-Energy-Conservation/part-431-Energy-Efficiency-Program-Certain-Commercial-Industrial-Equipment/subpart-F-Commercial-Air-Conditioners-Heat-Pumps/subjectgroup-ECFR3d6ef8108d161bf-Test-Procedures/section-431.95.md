@@ -1,7 +1,5 @@
 ##### § 431.95 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 21839, Apr. 11, 2023.
-
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, DOE must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE, and at the National Archives and Records Administration (NARA). Contact DOE at: the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2311 Wilson Blvd., Suite 400, Arlington, VA 22201; (703) 524-8800; *www.ahrinet.org.*
@@ -24,11 +22,13 @@ Link to an amendment published at 88 FR 21839, Apr. 11, 2023.
 
 (9) AHRI Standard 1230 (I-P), (“AHRI 1230-2021'), “*2021 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment”,* copyright in 2021; IBR approved for appendix D1 to this subpart.
 
+(10) AHRI Standard 1360-2022 (I-P) (“AHRI 1360-2022”), 2022 *Standard for Performance Rating of Computer and Data Processing Room Air Conditioners,* copyright 2022; IBR approved for appendix E1 to this subpart.
+
 (c) *ASHRAE.* American Society of Heating, Refrigerating and Air-Conditioning Engineers, 180 Technology Parkway, Peachtree Corners, Georgia 30092; (404) 636-8400; *www.ashrae.org.*
 
 (1) ANSI/ASHRAE Standard 16-1983 (RA 2014), (“ANSI/ASHRAE 16”), “Method of Testing for Rating Room Air Conditioners and Packaged Terminal Air Conditioners,” ASHRAE reaffirmed July 3, 2014, IBR approved for § 431.96.
 
-(2) ANSI/ASHRAE Standard 37-2009 (“ANSI/ASHRAE 37-2009”), *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* ASHRAE approved June 24, 2009; IBR approved for § 431.96 and appendices A, B, D1, F1, G, and G1 to this subpart.
+(2) ANSI/ASHRAE Standard 37-2009 (“ANSI/ASHRAE 37-2009”), *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* ASHRAE approved June 24, 2009; IBR approved for § 431.96 and appendices A, B, D1, E1, F1 G, and G1 to this subpart.
 
 (3) Errata Sheet for ANSI/ASHRAE Standard 37-2009, *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* March 27, 2019; IBR approved for appendix D1 to this subpart.
 
@@ -38,9 +38,11 @@ Link to an amendment published at 88 FR 21839, Apr. 11, 2023.
 
 (6) ANSI/ASHRAE Standard 58-1986 (RA 2014), (“ANSI/ASHRAE 58”), “Method of Testing for Rating Room Air-Conditioner and Packaged Terminal Air-Conditioner Heating Capacity,” ASHRAE reaffirmed July 3, 2014, IBR approved for § 431.96.
 
-(7) ASHRAE Standard 127-2007, “*Method of Testing for Rating Computer and Data Processing Room Unitary Air Conditioners,*” approved on June 28, 2007, (ASHRAE 127-2007), IBR approved for § 431.96.
+(7) ASHRAE Standard 127-2007, “*Method of Testing for Rating Computer and Data Processing Room Unitary Air Conditioners,*” approved on June 28, 2007, (ASHRAE 127-2007), IBR approved for § 431.96 and appendix E to this subpart.
 
-(8) ANSI/ASHRAE Standard 198- 2013 (“ANSI/ASHRAE 198-2013”), “Method of Test for Rating DX-Dedicated Outdoor Air Systems for Moisture Removal Capacity and Moisture Removal Efficiency,” ANSI-approved January 30, 2013; IBR approved for appendix B to this subpart.
+(8) ANSI/ASHRAE Standard 127-2020 (“ANSI/ASHRAE 127-2020”), *Method of Rating Air-Conditioning Units Serving Data Center (DC) and Other Information Technology Equipment (ITE) Spaces,* ANSI-approved on November 30, 2020; IBR approved for appendix E1 to this subpart.
+
+(9) ANSI/ASHRAE Standard 198- 2013 (“ANSI/ASHRAE 198-2013”), “Method of Test for Rating DX-Dedicated Outdoor Air Systems for Moisture Removal Capacity and Moisture Removal Efficiency,” ANSI-approved January 30, 2013; IBR approved for appendix B to this subpart.
 
 (d) *ISO.* International Organization for Standardization, 1, ch. De la Voie-Creuse, Case Postale 56, CH-1211 Geneva 20, Switzerland, + 41 22 749 01 11 or go to: *http://www.iso.ch/.*
 
@@ -48,4 +50,4 @@ Link to an amendment published at 88 FR 21839, Apr. 11, 2023.
 
 (2) [Reserved]
 
-[77 FR 28989, May 16, 2012, as amended at 80 FR 37148, June 30, 2015; 80 FR 79669, Dec. 23, 2015; 87 FR 45198, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75168, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022]
+[77 FR 28989, May 16, 2012, as amended at 80 FR 37148, June 30, 2015; 80 FR 79669, Dec. 23, 2015; 87 FR 45198, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75168, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21839, Apr. 11, 2023]

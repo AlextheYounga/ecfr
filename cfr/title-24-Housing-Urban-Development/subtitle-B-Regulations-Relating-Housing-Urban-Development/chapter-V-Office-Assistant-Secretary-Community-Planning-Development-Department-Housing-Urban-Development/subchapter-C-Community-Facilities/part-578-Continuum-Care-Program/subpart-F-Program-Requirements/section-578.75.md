@@ -1,5 +1,7 @@
 ##### § 578.75 General operations. #####
 
+Link to an amendment published at 88 FR 30499, May 11, 2023.
+
 (a) *State and local requirements.* (1) Housing and facilities constructed or rehabilitated with assistance under this part must meet State or local building codes, and in the absence of State or local building codes, the International Residential Code or International Building Code (as applicable to the type of structure) of the International Code Council.
 
 (2) Services provided with assistance under this part must be provided in compliance with all applicable State and local requirements, including licensing requirements.

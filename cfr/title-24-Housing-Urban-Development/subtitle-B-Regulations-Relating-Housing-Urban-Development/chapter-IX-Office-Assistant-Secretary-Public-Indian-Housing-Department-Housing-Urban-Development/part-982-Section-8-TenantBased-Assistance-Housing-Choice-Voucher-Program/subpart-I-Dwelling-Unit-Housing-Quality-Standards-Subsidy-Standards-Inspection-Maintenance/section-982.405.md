@@ -1,5 +1,7 @@
 ##### § 982.405 PHA initial and periodic unit inspection. #####
 
+Link to an amendment published at 88 FR 30503, May 11, 2023.
+
 (a) The PHA must inspect the unit leased to a family prior to the initial term of the lease, at least biennially during assisted occupancy, and at other times as needed, to determine if the unit meets the HQS. (See § 982.305(b)(2) concerning timing of initial inspection by the PHA.)
 
 (b) The PHA must conduct supervisory quality control HQS inspections.

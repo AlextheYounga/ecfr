@@ -1,5 +1,7 @@
 ##### § 886.113 Physical condition standard; physical inspection requirements. #####
 
+Link to an amendment published at 88 FR 30500, May 11, 2023.
+
 (a) *General.* Housing used in this program must be maintained and inspected in accordance with the requirements in 24 CFR part 5, subpart G.
 
 (b) *Space and security.* In addition to the standards in 24 CFR part 5, subpart G, the dwelling unit must have a living room, a kitchen area, and a bathroom. The dwelling unit must have at least one bedroom or living/sleeping room for each two persons.

@@ -1,5 +1,7 @@
 ##### § 576.403 Shelter and housing standards. #####
 
+Link to an amendment published at 88 FR 30498, May 11, 2023.
+
 (a) *Lead-based paint remediation and disclosure.* The Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations in 24 CFR part 35, subparts A, B, H, J, K, M, and R apply to all shelters assisted under ESG program and all housing occupied by program participants.
 
 (b) *Minimum standards for emergency shelters.* Any building for which Emergency Solutions Grant (ESG) funds are used for conversion, major rehabilitation, or other renovation, must meet state or local government safety and sanitation standards, as applicable, and the following minimum safety, sanitation, and privacy standards. Any emergency shelter that receives assistance for shelter operations must also meet the following minimum safety, sanitation, and privacy standards. The recipient may also establish standards that exceed or add to these minimum standards.

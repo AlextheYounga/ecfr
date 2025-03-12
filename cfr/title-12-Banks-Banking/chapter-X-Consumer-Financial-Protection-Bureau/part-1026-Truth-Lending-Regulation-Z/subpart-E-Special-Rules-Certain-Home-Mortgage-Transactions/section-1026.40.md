@@ -1,5 +1,7 @@
 ##### § 1026.40 Requirements for home equity plans. #####
 
+Link to an amendment published at 88 FR 30622, May 11, 2023.
+
 The requirements of this section apply to open-end credit plans secured by the consumer's dwelling. For purposes of this section, an annual percentage rate is the annual percentage rate corresponding to the periodic rate as determined under § 1026.14(b).
 
 (a) *Form of disclosures*—(1) *General.* The disclosures required by paragraph (d) of this section shall be made clearly and conspicuously and shall be grouped together and segregated from all unrelated information. The disclosures may be provided on the application form or on a separate form. The disclosure described in paragraph (d)(4)(iii), the itemization of third-party fees described in paragraph (d)(8), and the variable-rate information described in paragraph (d)(12) of this section may be provided separately from the other required disclosures.

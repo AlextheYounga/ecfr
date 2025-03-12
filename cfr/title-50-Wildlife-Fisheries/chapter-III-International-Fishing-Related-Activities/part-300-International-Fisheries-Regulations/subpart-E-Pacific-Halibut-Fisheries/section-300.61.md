@@ -1,7 +1,5 @@
 ##### § 300.61 Definitions. #####
 
-Link to an amendment published at 88 FR 21506, Apr. 11, 2023.
-
 In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply.
 
 *Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part.
@@ -26,7 +24,7 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Charter halibut permit* means a permit issued by the National Marine Fisheries Service pursuant to § 300.67.
 
-*Charter vessel,* for purposes of §§ 300.65, 300.66, and 300.67, means a vessel used while providing or receiving sport fishing guide services for halibut.
+*Charter vessel,* for purposes of §§ 300.65, 300.66, and 300.67, means a vessel used while providing or receiving sport fishing guide services for halibut, and, for purposes of § 300.63, means a vessel used for hire in recreational (sport) fishing for Pacific halibut, but not including a vessel without a hired operator.
 
 *Charter vessel angler,* for purposes of §§ 300.65, 300.66, and 300.67, means a person, paying or non-paying, receiving sport fishing guide services for halibut.
 

@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 21072, Apr. 10, 2023.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -372,7 +370,7 @@ The standards referenced in paragraphs (q)(1) through (9) are also available fro
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
-(2) IES LM-9-09, (“IES LM-9”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for § 430.2 and appendices V and V1 to subpart B.
+(2) IES LM-9-09, (“IES LM-9”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for § 430.2.
 
 (3) IES LM-9-09 (“IES LM-9-09-DD”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for appendix DD to subpart B, as follows:
 
@@ -384,7 +382,7 @@ The standards referenced in paragraphs (q)(1) through (9) are also available fro
 
 (iv) Section 7.0—Photometric Test Procedures: Section 7.5—Integrating Sphere Measurement.
 
-(4) ANSI/IES LM-9-20 (“IES LM-9-20”), *Approved Method: Electrical and Photometric Measurements of Fluorescent Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
+(4) ANSI/IES LM-9-20 (“IES LM-9-20”), *Approved Method: Electrical and Photometric Measurements of Fluorescent Lamps,* ANSI-approved February 7, 2020; IBR approved for appendices R and V.
 
 (5) IESNA LM-16-1993 (“IESNA LM-16”), IESNA Practical Guide to Colorimetry of Light Sources, December 1993, IBR approved for § 430.2.
 
@@ -424,7 +422,7 @@ The standards referenced in paragraphs (q)(1) through (9) are also available fro
 
 (iv) Section 6—Test Procedure Requirements, Section 6.2—Seasoning Test Procedures: Section 6.2.2.1—Discharge Lamps: Discharge Lamps except T5 fluorescent.
 
-(12) ANSI/IES LM-54-20 (“IES LM-54-20”), *Approved Method: IES Guide to Lamp Seasoning,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
+(12) ANSI/IES LM-54-20 (“IES LM-54-20”), *Approved Method: IES Guide to Lamp Seasoning,* ANSI-approved February 7, 2020; IBR approved for appendices R and V.
 
 (13) ANSI/IES LM-58-20 (“IES LM-58-20”), *Approved Method: Spectroradiometric Measurement Methods for Light Sources;* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
@@ -436,9 +434,7 @@ The standards referenced in paragraphs (q)(1) through (9) are also available fro
 
 (iii) Section 6.0—Lamp Test Procedures
 
-(15) IES LM-66-14, (“IES LM-66-14”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix V to subpart B.
-
-(16) IES LM-66-14, (“IES LM-66”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
+(15) IES LM-66-14, (“IES LM-66”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
 
 (i) Section 4.0—Ambient and Physical Conditions;
 
@@ -448,9 +444,9 @@ The standards referenced in paragraphs (q)(1) through (9) are also available fro
 
 (17) IESNA LM-78-07, IESNA Approved Method for Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer, approved January 28, 2007; IBR approved for appendix W to subpart B.
 
-(18) ANSI/IES LM-78-20 (“IES LM-78-20”) *Approved Method: Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
+(18) ANSI/IES LM-78-20 (“IES LM-78-20”) *Approved Method: Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer,* ANSI-approved February 7, 2020; IBR approved for appendices R and V.
 
-(19) IES LM-79-08, (“IES LM-79-08”), IES Approved Method for the Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendices V1 and BB to subpart B.
+(19) IES LM-79-08, (“IES LM-79-08”), IES Approved Method for the Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendix BB to subpart B.
 
 (20) IES LM-79-08 (“IES LM-79-08-DD”), Approved Method: Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendix DD to subpart B as follows:
 
@@ -468,11 +464,13 @@ The standards referenced in paragraphs (q)(1) through (9) are also available fro
 
 (vii) Section 9.0—Test Methods for Total Luminous Flux measurement: Section 9.1 Integrating sphere with a spectroradiometer (Sphere-spectroradiometer system); and Section 9.2—Integrating sphere with a photometer head (Sphere-photometer system).
 
-(21) IES LM-84-14, (“IES LM-84”), Approved Method: Measuring Luminous Flux and Color Maintenance of LED Lamps, Light Engines, and Luminaires, approved March 31, 2014; IBR approved for appendix BB to subpart B.
+(21) ANSI/IES LM-79-19 (“IES LM-79-19”), Approved Method: Optical and Electrical Measurements of Solid-State Lighting Products, ANSI-approved May 14, 2019; IBR approved for appendix V to subpart B.
 
-(22) ANSI/IES RP-16-10 (“ANSI/IES RP-16”), Nomenclature and Definitions for Illuminating Engineering, approved October 15, 2005; IBR approved for § 430.2.
+(22) IES LM-84-14, (“IES LM-84”), Approved Method: Measuring Luminous Flux and Color Maintenance of LED Lamps, Light Engines, and Luminaires, approved March 31, 2014; IBR approved for appendix BB to subpart B.
 
-(23) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
+(23) ANSI/IES RP-16-10 (“ANSI/IES RP-16”), Nomenclature and Definitions for Illuminating Engineering, approved October 15, 2005; IBR approved for § 430.2.
+
+(24) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
 (s) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
 

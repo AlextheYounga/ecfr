@@ -1,5 +1,7 @@
 ##### § 983.103 Inspecting units. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *Pre-selection inspection*—(1) *Inspection of site.* The PHA must examine the proposed site before the proposal selection date.
 
 (2) *Inspection of existing units.* If the units to be assisted already exist, the PHA must inspect all the units before the proposal selection date, and must determine whether the units substantially comply with the HQS. To qualify as existing housing, units must substantially comply with the HQS on the proposal selection date. However, the PHA may not execute the HAP contract until the units fully comply with the HQS.

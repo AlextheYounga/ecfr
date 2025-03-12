@@ -1,5 +1,7 @@
 ##### § 982.609 Congregate housing: Housing quality standards. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *HQS standards for congregate housing.* The HQS in § 982.401 apply to congregate housing. However, the standards in this section apply in place of § 982.401(c) (food preparation and refuse disposal). Congregate housing is not subject to the HQS acceptability requirement in § 982.401(d)(2)(i) that the dwelling unit must have a kitchen area.
 
 (b) *Food preparation and refuse disposal: Additional performance requirements.* The following additional performance requirements apply to congregate housing:

@@ -1,5 +1,7 @@
 ##### § 200.855 Physical condition standards and physical inspection requirements. #####
 
+Link to an amendment published at 88 FR 30498, May 11, 2023.
+
 (a) *Applicable standards and requirements.* The physical condition standards and physical inspection requirements in 24 CFR part 5, subpart G, are applicable to the properties assisted or insured that are listed in § 200.853.
 
 (b) *Entity responsible for inspection of property.* The regulations that govern the programs listed in § 200.853, or regulatory agreements or contracts, identify the entity responsible for conducting the physical inspection of the property which is HUD, the lender or the owner. For properties with more than one HUD insured loan, only the first mortgage lender is required to conduct the physical inspection. The second mortgage lender will be provided a copy of the physical inspection report by the first mortgage lender.

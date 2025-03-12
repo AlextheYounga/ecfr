@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 21074, Apr. 10, 2023.Link to an amendment published at 88 FR 21814, Apr. 11, 2023.
+Link to an amendment published at 88 FR 21814, Apr. 11, 2023.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -695,14 +695,14 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (5) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 21, 2020, with socket types other than those covered in paragraph (s)(3) or (4) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts.
 
-(6) Ceiling fan light kits manufactured on or after January 21, 2020 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK and each basic model of integrated SSL in the CFLK basic model shall meet the requirements shown in the table:
+(6) Ceiling fan light kits manufactured on or after January 21, 2020 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, and each basic model of non-consumer-replaceable SSL in the CFLK basic model shall meet the requirements shown in paragraphs (s)(6)(i) and (ii) of this section:
 
-|Lumens<sup>1</sup>|Minimum required efficacy  <br/>(lm/W)|
-|------------------|--------------------------------------|
-|      \<120       |                  50                  |
-|       ≥120       |(74.0−29.42 × 0.9983<sup>lumens</sup>)|
+|Lumens<sup>1</sup>|Minimum required efficacy  <br/>(lm/W) |
+|------------------|---------------------------------------|
+|    (i) \<120     |                  50.                  |
+|    (ii) ≥120     |(74.0−29.42 × 0.9983<sup>lumens</sup>).|
 
-<sup>1</sup> Use the lumen output for each basic model of lamp packaged with the basic model of CFLK or each basic model of integrated SSL in the CFLK basic model to determine the applicable standard.
+<sup>1</sup> Use the lumen output for each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, or each basic model of non-consumer-replaceable SSL in the CFLK basic model to determine the applicable standard.
 
 (i) Ceiling fan light kits with medium screw base sockets manufactured on or after January 21, 2020 and packaged with compact fluorescent lamps must include lamps that also meet the following requirements:
 

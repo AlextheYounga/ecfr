@@ -1,5 +1,7 @@
 ##### § 93.404 Grantee responsibilities; written agreements; onsite inspections; financial oversight. #####
 
+Link to an amendment published at 88 FR 30497, May 11, 2023.
+
 (a) *Responsibilities.* The grantee is responsible for managing the day-to-day operations of its HTF program, ensuring that HTF funds are used in accordance with all program requirements and written agreements, and taking appropriate action when performance problems arise. The use of subgrantees or contractors does not relieve the grantee of this responsibility. The performance and compliance of each contractor and subgrantee must be reviewed at least annually. The grantee must have and follow written policies, procedures, and systems, including a system for assessing risk of activities and projects and a system for monitoring entities consistent with this section, to ensure that the requirements of this part are met.
 
 (b) *Executing a written agreement.* Before disbursing any HTF funds to any entity, the grantee must enter into a written agreement with that entity. The written agreement must ensure compliance with the requirements of this part.

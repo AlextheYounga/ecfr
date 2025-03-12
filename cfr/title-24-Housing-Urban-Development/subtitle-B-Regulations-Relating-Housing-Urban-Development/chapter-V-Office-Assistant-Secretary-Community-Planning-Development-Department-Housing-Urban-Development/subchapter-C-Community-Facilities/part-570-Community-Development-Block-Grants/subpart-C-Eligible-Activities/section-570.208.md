@@ -1,5 +1,7 @@
 ##### § 570.208 Criteria for national objectives. #####
 
+Link to an amendment published at 88 FR 30498, May 11, 2023.
+
 The following criteria shall be used to determine whether a CDBG-assisted activity complies with one or more of the national objectives as required under § 570.200(a)(2):
 
 (a) *Activities benefiting low- and moderate-income persons.* Activities meeting the criteria in paragraph (a) (1), (2), (3), or (4) of this section as applicable, will be considered to benefit low and moderate income persons unless there is substantial evidence to the contrary. In assessing any such evidence, the full range of direct effects of the assisted activity will be considered. (The recipient shall appropriately ensure that activities that meet these criteria do not benefit moderate income persons to the exclusion of low income persons.)

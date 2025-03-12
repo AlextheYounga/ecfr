@@ -1,5 +1,7 @@
 ##### § 882.404 Physical condition standards; physical inspection requirements. #####
 
+Link to an amendment published at 88 FR 30499, May 11, 2023.
+
 (a) *Compliance with physical condition standards.* Housing in this program must be maintained and inspected in accordance with the requirements in 24 CFR part 5, subpart G.
 
 (b) *Space and security.* In addition to the standards in 24 CFR part 5, subpart G, a dwelling unit used in the Section 8 moderate rehabilitation program that is not SRO housing must have a living room, a kitchen area, and a bathroom. Such a dwelling unit must have at least one bedroom or living/sleeping room for each two persons.

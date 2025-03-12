@@ -1,5 +1,7 @@
 ##### § 884.217 Maintenance, operation and inspections. #####
 
+Link to an amendment published at 88 FR 30499, May 11, 2023.
+
 (a) *Maintenance and operation.* The Owner shall maintain and operate the project so as to provide Decent, Safe, and Sanitary housing and he shall provide all the services, maintenance and utilities which he agrees to provide under the Contract, subject to abatement of housing assistance payments or other applicable remedies if he fails to meet these obligations.
 
 (b) *Inspection prior to occupancy.* Prior to occupancy of any unit by a Family, the Owner and the Family shall inspect the unit and both shall certify, on forms prescribed by HUD, that they have inspected the unit and have determined it to be Decent, Safe, and Sanitary in accordance with the criteria provided in the prescribed forms. Copies of these reports shall be kept on file by the Owner for at least three years.

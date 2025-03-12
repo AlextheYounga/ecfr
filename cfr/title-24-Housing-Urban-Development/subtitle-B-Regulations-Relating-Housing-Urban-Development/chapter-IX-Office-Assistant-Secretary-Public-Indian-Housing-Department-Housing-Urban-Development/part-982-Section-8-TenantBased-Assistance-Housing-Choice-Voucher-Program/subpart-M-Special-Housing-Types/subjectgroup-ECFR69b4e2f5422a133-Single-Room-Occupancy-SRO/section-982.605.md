@@ -1,5 +1,7 @@
 ##### § 982.605 SRO: Housing quality standards. #####
 
+Link to an amendment published at 88 FR 30503, May 11, 2023.
+
 (a) *HQS standards for SRO.* The HQS in § 982.401 apply to SRO housing. However, the standards in this section apply in place of § 982.401(b) (sanitary facilities), § 982.401(c) (food preparation and refuse disposal), and § 982.401(d) (space and security). Since the SRO units will not house children, the housing quality standards in § 982.401(j), concerning lead-based paint, do not apply to SRO housing.
 
 (b) *Performance requirements.* (1) SRO housing is subject to the additional performance requirements in this paragraph (b).

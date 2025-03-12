@@ -1,5 +1,7 @@
 ##### § 982.628 Homeownership option: Eligible units. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *Initial requirements applicable to the unit.* The PHA must determine that the unit satisfies all of the following requirements:
 
 (1) The unit is eligible. (See § 982.352. Paragraphs (a)(6), (a)(7) and (b) of § 982.352 do not apply.)

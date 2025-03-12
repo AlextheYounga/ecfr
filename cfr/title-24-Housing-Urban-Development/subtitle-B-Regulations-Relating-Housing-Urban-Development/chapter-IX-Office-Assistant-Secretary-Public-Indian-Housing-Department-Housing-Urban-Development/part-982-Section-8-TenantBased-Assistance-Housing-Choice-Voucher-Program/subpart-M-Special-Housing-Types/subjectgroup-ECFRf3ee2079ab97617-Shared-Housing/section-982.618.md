@@ -1,5 +1,7 @@
 ##### § 982.618 Shared housing: Housing quality standards. #####
 
+Link to an amendment published at 88 FR 30504, May 11, 2023.
+
 (a) *Compliance with HQS.* The PHA may not give approval to reside in shared housing unless the entire unit, including the portion of the unit available for use by the assisted family under its lease, meets the housing quality standards.
 
 (b) *Applicable HQS standards.* The HQS in § 982.401 apply to assistance in shared housing. However, the HQS standards in this section apply in place of § 982.401(d) (space and security).
