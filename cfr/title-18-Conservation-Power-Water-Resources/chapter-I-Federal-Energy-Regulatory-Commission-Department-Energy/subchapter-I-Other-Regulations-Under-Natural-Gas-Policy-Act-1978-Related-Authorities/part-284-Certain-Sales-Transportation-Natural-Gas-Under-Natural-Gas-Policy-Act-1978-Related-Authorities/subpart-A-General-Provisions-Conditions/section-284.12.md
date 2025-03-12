@@ -1,24 +1,22 @@
 ##### § 284.12 Standards for pipeline business operations and communications. #####
 
-Link to an amendment published at 83 FR 62248, Dec. 3, 2018.
+(a) *Incorporation by reference of NAESB standards.* (1) An interstate pipeline that transports gas under subparts B or G of this part must comply with the business practices and electronic communications standards as promulgated by the North American Energy Standards Board, as incorporated herein by reference in paragraphs (a)(1)(i) through (vii) of this section.
 
-(a) *Incorporation by reference of NAESB standards.* (1) An interstate pipeline that transports gas under subparts B or G of this part must comply with the business practices and electronic communications standards as promulgated by the North American Energy Standards Board, as incorporated herein by reference in paragraphs (a)(1)(i) thru (vii) of this section.
+(i) Additional Standards (Version 3.1, September 29, 2017);
 
-(i) Additional Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015);
+(ii) Nominations Related Standards (Version 3.1, September 29, 2017);
 
-(ii) Nominations Related Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015);
+(iii) Flowing Gas Related Standards (Version 3.1, September 29, 2017);
 
-(iii) Flowing Gas Related Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015);
+(iv) Invoicing Related Standards (Version 3.1, September 29, 2017);
 
-(iv) Invoicing Related Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015);
+(v) Quadrant Electronic Delivery Mechanism Related Standards (Version 3.1, September 29, 2017);
 
-(v) Quadrant Electronic Delivery Mechanism Related Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015);
+(vi) Capacity Release Related Standards (Version 3.1, September 29, 2017); and
 
-(vi) Capacity Release Related Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015); and
+(vii) Internet Electronic Transport Related Standards (Version 3.1, September 29, 2017).
 
-(vii) Internet Electronic Transport Related Standards (Version 3.0, November 14, 2014, with minor corrections applied through June 29, 2015).
-
-(2) This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these standards may be obtained from the North American Energy Standards Board, 801 Travis Street, Suite 1675, Houston, TX 77002, *Phone:* (713) 356-0060. NAESB's Web site is at *http://www.naesb.org/.* Copies may be inspected at the Federal Energy Regulatory Commission, Public Reference and Files Maintenance Branch, 888 First Street, NE., Washington, DC 20426, *Phone:* (202) 502-8371, *http://www.ferc.gov,* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(2) This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these standards may be obtained from the North American Energy Standards Board, 801 Travis Street, Suite 1675, Houston, TX 77002, *Phone:* (713) 356-0060. NAESB's Web site is at *http://www.naesb.org/.* Copies may be inspected at the Federal Energy Regulatory Commission, Public Reference and Files Maintenance Branch, 888 First Street, NE., Washington, DC 20426, *Phone:* (202) 502-8371, *http://www.ferc.gov,* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) *Business practices and electronic communication requirements.* An interstate pipeline that transports gas under subparts B or G of this part must comply with the following requirements. The regulations in this paragraph adopt the abbreviations and definitions contained in the North American Energy Standards Board Wholesale Gas Quadrant standards incorporated by reference in paragraph (a)(1) of this section.
 

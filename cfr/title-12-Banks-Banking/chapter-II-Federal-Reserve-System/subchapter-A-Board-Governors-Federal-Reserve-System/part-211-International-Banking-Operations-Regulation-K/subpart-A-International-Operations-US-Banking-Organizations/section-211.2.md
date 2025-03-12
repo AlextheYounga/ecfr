@@ -1,7 +1,5 @@
 ##### § 211.2 Definitions. #####
 
-Link to an amendment published at 83 FR 58734, November 21, 2018.
-
 Unless otherwise specified, for purposes of this subpart:
 
 (a) An *affiliate* of an organization means:
@@ -114,4 +112,6 @@ Unless otherwise specified, for purposes of this subpart:
 
 (3) In relation to an Edge or agreement corporation, that it has tier 1 and total risk-based capital ratios of 6.0 and 10.0 percent, respectively, or greater.
 
-(z) *Well managed* means that the Edge or agreement corporation, any parent insured bank, and the bank holding company received a composite rating of 1 or 2, and at least a satisfactory rating for management if such a rating is given, at their most recent examination or review.
+(z) *Well managed* means that the Edge or agreement corporation, any parent insured bank, and the bank holding company either received a composite rating of 1 or 2 or is considered satisfactory under the applicable rating system, and has at least a satisfactory rating for management if such a rating is given, at their most recent examination or review.
+
+[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 83 FR 58734, Nov. 21, 2018]

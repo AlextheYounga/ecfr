@@ -1,14 +1,12 @@
 ##### § 211.9 Investment procedures. #####
 
-Link to an amendment published at 83 FR 58734, November 21, 2018.
-
 (a) *General provisions.*5 Direct and indirect investments shall be made in accordance with the general consent, limited general consent, prior notice, or specific consent procedures contained in this section.
 
 5 When necessary, the provisions of this section relating to general consent and prior notice constitute the Board's approval under section 25A(8) of the FRA (12 U.S.C. 615) for investments in excess of the limitations therein based on capital and surplus.
 
 (1) *Minimum capital adequacy standards.* Except as the Board may otherwise determine, in order for an investor to make investments pursuant to the procedures set out in this section, the investor, the bank holding company, and the member bank shall be in compliance with applicable minimum standards for capital adequacy set out in the Capital Adequacy Guidelines; provided that, if the investor is an Edge or agreement corporation, the minimum capital required is total and tier 1 capital ratios of 8 percent and 4 percent, respectively.
 
-(2) *Composite rating.* Except as the Board may otherwise determine, in order for an investor to make investments under the general consent or limited general consent procedures of paragraphs (b) and (c) of this section, the investor and any parent insured bank must have received a composite rating of at least 2 at the most recent examination.
+(2) *Composite rating.* Except as the Board may otherwise determine, in order for an investor to make investments under the general consent or limited general consent procedures of paragraphs (b) and (c) of this section, at the most recent examination the investor and any parent insured bank must have either received a composite rating of at least 2 or be considered satisfactory under the applicable rating system.
 
 (3) *Board's authority to modify or suspend procedures.* The Board, at any time upon notice, may modify or suspend the procedures contained in this section with respect to any investor or with respect to the acquisition of shares of organizations engaged in particular kinds of activities.
 
@@ -98,4 +96,4 @@ Link to an amendment published at 83 FR 58734, November 21, 2018.
 
 (g) *Specific consent.* Any investment that does not qualify for either the general consent or the prior notice procedure may not be consummated without the specific consent of the Board.
 
-[66 FR 54374, Oct. 26, 2001, as amended at 66 FR 58655, Nov. 23, 2001]
+[66 FR 54374, Oct. 26, 2001, as amended at 66 FR 58655, Nov. 23, 2001; Reg. K, 83 FR 58734, Nov. 21, 2018]

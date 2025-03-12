@@ -1,5 +1,7 @@
 ##### § 3035.18 Filing for permanent product status. #####
 
+Link to an amendment published at 84 FR 975, Feb. 1, 2019.
+
 (a) If the Postal Service determines to make an experimental product permanent, it shall file a request, pursuant to 39 U.S.C. 3642 and part 3020, subpart B of this chapter, to add a new product or price category to the market dominant or competitive product list. Requests to make existing experimental products permanent must be filed at least 60 days before the market test expires (including any extension period granted) or the market test exceeds any authorized adjusted limitation in any fiscal year, whichever is earlier.
 
 (b) A request to make an experimental product permanent must, among other things, quantify the product specific costs associated with the development of the market test; that is, costs incurred before the market test is implemented.

@@ -12,4 +12,4 @@
 
 (b) U.S. Department of Agriculture kernel color standards, PEC-MC-1, illustrate the color intensities implied by the terms “golden,” “light brown,” “medium brown,” and “dark brown” referred to in paragraph (a) of this section.
 
-[41 FR 39303, Sept. 15, 1976. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 83 FR 50476, Oct. 9, 2018]
+[34 FR 9377, June 14, 1969. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 83 FR 50476, Oct. 9, 2018]

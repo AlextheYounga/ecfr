@@ -164,4 +164,4 @@
 
 (n) For Title IV, HEA program purposes, *eligible program* includes a direct assessment program approved by the Secretary under § 668.10 and a comprehensive transition and postsecondary program approved by the Secretary under § 668.232.
 
-(Authority: 20 U.S.C. 1070a, 1070a-1, 1070b, 1070c-1, 1070c-2, 1070g, 1085, 1087aa-1087hh, 1088, 1091; 42 U.S.C. 2753)[59 FR 22421, Apr. 29, 1994]Editorial Note:For Federal Register citations affecting § 668.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 20 U.S.C. 1070a, 1070a-1, 1070b, 1070c-1, 1070c-2, 1070g, 1085, 1087aa-1087hh, 1088, 1091; 42 U.S.C. 2753)[59 FR 22421, Apr. 29, 1994]Editorial Note:For Federal Register citations affecting § 668.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

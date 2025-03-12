@@ -1,5 +1,7 @@
 ##### § 3035.16 Exemption from dollar amount limitation. #####
 
+Link to an amendment published at 84 FR 975, Feb. 1, 2019.
+
 (a) The Postal Service may request an exemption from the $10 Million Adjusted Limitation by filing a written request with the Commission. In no instance shall the request for exemption exceed the market test dollar amount limitation of $50,000,000 in any fiscal year, as adjusted for the change in the CPI-U index, as specified in paragraph (c) of this section ($50 Million Adjusted Limitation).
 
 (b) For each fiscal year, the $50 Million Adjusted Limitation shall reflect the average CPI result during the previous fiscal year calculated as described in paragraph (c) of this section. The Commission shall publish this figure annually, after the close of the fiscal year, on its Web site at *http://www.prc.gov.*
