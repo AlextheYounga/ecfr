@@ -1,7 +1,5 @@
 ##### § 107.50 Definition of terms. #####
 
-Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
-
 *Accumulated Prioritized Payments* has the meaning set forth in § 107.1520.
 
 *Act* means the Small Business Investment Act of 1958, as amended.
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
 
 (7) Any Secondary Relative of any Person described in paragraphs (1), (2), (4), and (5) of this definition.
 
-(8) Any concern in which -
+(8) Any concern in which—
 
 (i) Any person described in paragraphs (1) through (6) of this definition is an officer; general partner, or managing member; or
 
@@ -76,7 +74,7 @@ Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
 
 (2) Any Person serving as the general partner, officer, director, or manager (in the case of a limited liability company) of any entity that controls a Licensee, either directly or through an intervening entity;
 
-(3) Any Person that -
+(3) Any Person that—
 
 (i) Controls or owns, directly or through an intervening entity, at least 10 percent of a Partnership Licensee or any entity described in paragraphs (1) or (2) of this definition; and
 
@@ -130,7 +128,7 @@ Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
 
 (iv) Improves industrial energy efficiency through combined heat and power (CHP) prime mover or power generation technologies, heat recovery units, absorption chillers, desiccant dehumidifiers, packaged CHP systems, more efficient process heating equipment, more efficient steam generation equipment, heat recovery steam generators, or more efficient use of water recapture, purification and reuse for industrial application;
 
-(v) Advances commercialization of technologies developed by recipients of awards from the Department of Energy under the Advanced Research Projects Agency - Energy, Small Business Innovation Research, or Small Business Technology Transfer programs;
+(v) Advances commercialization of technologies developed by recipients of awards from the Department of Energy under the Advanced Research Projects Agency—Energy, Small Business Innovation Research, or Small Business Technology Transfer programs;
 
 (vi) Reduces the consumption of non-renewable energy by providing renewable energy sources, as demonstrated by meeting the standards, applicable to the year in which the investment is made, for receiving a Renewable Electricity Production Tax Credit as defined in Internal Revenue Code Section 45 or an Energy Credit as defined in Internal Revenue Code Section 48;
 
@@ -193,6 +191,12 @@ Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
 *Guaranty Agreement* means the contract entered into by SBA which is a guarantee backed by the full faith and credit of the United States Government as to timely payment of principal and interest on Debentures or the Redemption Price of and Prioritized Payments on Participating Securities and SBA's rights in connection with such guarantee.
 
 *Includible Non-Cash Gains* means those non-cash gains (as reported on SBA Form 468) that are realized in the form of Publicly Traded and Marketable securities or investment grade debt instruments. For purposes of this definition, investment grade debt instruments means those instruments that are rated “BBB” or “Baa”, or better, by Standard & Poor's Corporation or Moody's Investors Service, respectively. Non-rated debt may be considered to be investment grade if Licensee obtains a written opinion from an investment banking firm acceptable to SBA stating that the non-rated debt instrument is equivalent in risk to the issuer's investment grade debt.
+
+*Inflation Adjustment* is the methodology used to increase SBIC administrative fees using the Consumer Price Index for Urban Consumers (CPI-U), calculated by the U.S. Bureau of Labor and Statistics (BLS), using the U.S. city average for all items, not seasonally adjusted, with the base period of 1982 − 84 = 100. To calculate the Inflation Adjustment, each year, SBA will divide the CPI-U from the most recent June by the CPI-U from June of the preceding year. If the result is greater than 1, SBA will increase the relevant fees as follows:
+
+(1) Multiply the result by the current fee; and
+
+(2) Round to the nearest $100.
 
 *Institutional Investor* means:
 
@@ -322,7 +326,7 @@ Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
 
 *Smaller Enterprise* has the meaning set forth in § 107.710.
 
-*Start-up Financing* means an Equity Capital Investment in a Small Business that -
+*Start-up Financing* means an Equity Capital Investment in a Small Business that—
 
 (1) Has not had sales exceeding $3,000,000 or positive cash flow from operations in any of its last three full fiscal years; and
 
@@ -350,4 +354,4 @@ Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
 
 *Wind-up Plan* has the meaning set forth in § 107.590.
 
-[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017]
+[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017; 82 FR 52184, Nov. 13, 2017]

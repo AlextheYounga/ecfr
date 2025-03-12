@@ -1,45 +1,34 @@
 ##### § 107.692 Examination fees. #####
 
-Link to an amendment published at 82 FR 52185, Nov. 13, 2017.
-
 (a) *General.* SBA will assess fees for examinations in accordance with this § 107.692. Unless SBA determines otherwise on a case by case basis, SBA will not assess fees for special examinations to obtain specific information.
 
-(b) *Base fee.* A base fee will be assessed based on your total assets (at cost) as of the date of your latest certified financial statement or a more recent interim statement requested by and submitted to SBA in connection with the examination. The base fee table is as follows:
+(b) *Base Fee.* (1) The Base Fee will be assessed based on your total assets (at cost) as of the date of your latest certified financial statement, including if requested by SBA in connection with the examination, a more recently submitted interim statement. For purposes of this section, Base Fee means the Minimum Base Fee plus 0.024% of assets at cost, rounded to the nearest $100, not to exceed the Maximum Base Fee. The Minimum and Maximum Base Fees are adjusted annually as follows:
 
-| Total assets of licensee |Base fee|        Plus, percent of assets         |
-|--------------------------|--------|----------------------------------------|
-|     $0 to $1,500,000     | $3,500 |                  \+ 0%                 |
-| $1,500,001 to $5,000,000 | 3,700  | \+ .065% of the amount over $1,500,000 |
-|$5,000,001 to $10,000,000 | 6,000  |  \+ .02% of the amount over $5,000,000 |
-|$10,000,001 to $15,000,000| 7,000  | \+ .01% of the amount over $10,000,000 |
-|$15,000,001 to $25,000,000| 7,700  | \+ .015% of the amount over $15,000,000|
-|$25,000,001 to $50,000,000| 9,200  | \+ .015% of the amount over $25,000,000|
-|$50,000,001 to $60,000,000| 13,000 | \+ .01% of the amount over $50,000,000 |
-|  $60,000,001 and above   | 14,000 |                  \+ 0%                 |
+|Time period  <br/>(Based on the examination start date)|Minimum  <br/>base fee|Maximum  <br/>base fee for  <br/>non-leveraged  <br/>SBICs|Maximum  <br/>base fee for  <br/>leveraged  <br/>SBICs|
+|-------------------------------------------------------|----------------------|----------------------------------------------------------|------------------------------------------------------|
+|        December 13, 2017 to September 30, 2018        |        $6,000        |                         $22,500                          |                       $26,000                        |
+|         October 1, 2018 to September 30, 2019         |        7,000         |                          25,000                          |                        32,000                        |
+|         October 1, 2019 to September 30, 2020         |        8,000         |                          27,500                          |                        38,000                        |
+|         October 1, 2020 to September 30, 2021         |        9,000         |                          30,000                          |                        44,000                        |
 
-(c) *Adjustments to base fee.* Your base fee, as determined by the table in paragraph (b) of this section, will be adjusted (increased or decreased) based on the following criteria:
+(2) In the table in paragraph (b)(1) of this section, a Non-leveraged SBIC means any SBIC that, as of the date of the examination, has no outstanding Leverage or Leverage commitment, has no Earmarked Assets, and certifies to SBA that it will not seek Leverage in the future. Beginning on October 1, 2021, SBA will annually adjust the Minimum Base Fee and Maximum Base Fees using the Inflation Adjustment and will publish a Notice prior to such adjustment in the Federal Register identifying the amount of the fees.
 
-(1) If you have no outstanding regulatory violations at the time of the commencement of the examination and SBA did not identify any violations as a result of the most recent prior examination, you will receive a 15% discount on your base fee;
+(c) *Adjustments to Base Fee.* In order to determine the amount of your examination fee, your Base Fee, as determined in paragraph (b) of this section, will be increased based on the following criteria:
 
-(2) If you were fully responsive to the letter of notification of examination (that is, you provided all requested documents and information within the time period stipulated in the notification letter in a complete and accurate manner, and you prepared and had available all information requested by the examiner for on-site review), you will receive a 10% discount on your base fee;
+(1) If you were not fully responsive to the letter of notification of examination (that is, you did not provide all requested documents and information within the time period stipulated in the notification letter in a complete and accurate manner, or you did not prepare or did not have available all information requested by the examiner for on-site review) after a written warning by the SBA, you will pay an additional charge equal to 15% of your Base Fee;
 
-(3) If you are organized as a partnership or limited liability company, you will pay an additional charge equal to 5% of your base fee;
+(2) If you maintain your records/files in multiple locations (as permitted under § 107.600(b)), you will pay an additional charge equal to 10% of your Base Fee; and
 
-(4) If you are an Early Stage SBIC with outstanding Leverage or Leverage commitments, you will pay an additional charge equal to 10% of your base fee;
+(3) For any regulatory violation that remains unresolved 90 days from the date SBA notified you that you must take corrective action (as established by the date of the notification letter) or such later date as SBA sets forth in the notice, you will pay an additional charge equal to 5% of the Base Fee for every 30 days or portion thereof that the violation remains unresolved after the cure period, unless SBA resolves the finding in your favor.
 
-(5) If you are a Licensee authorized to issue Participating Securities, you will pay an additional charge equal to 10% of your base fee; and
+(d) *Fee additions table.* The following table summarizes the additions noted in paragraph (c) of this section:
 
-(6) If you maintain your records/files in multiple locations (as permitted under § 107.600(b)), you will pay an additional charge equal to 10% of your base fee.
+|     Examination fee additions     |                                                               Amount of addition − % of base fee                                                                |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          Non-responsive           |                                                                              15%.                                                                               |
+|Records/Files at multiple locations|                                                                              10%.                                                                               |
+|        Unresolved Findings        |5% of Base Fee for every 30 days or portion thereof beyond the 90 day cure period or such later date as SBA sets forth in the notice for each unresolved finding.|
 
-(d) *Fee discounts and additions table.* The following table summarizes the discounts and additions noted in paragraph (c) of this section:
+(e) *Delay fee.* If, in the judgment of SBA, the time required to complete your examination is delayed due to your lack of cooperation or the condition of your records, SBA may assess an additional fee of $700 per day. Beginning on October 1, 2021, SBA will annually adjust this fee using the Inflation Adjustment and will publish a Notice prior to such adjustment in the Federal Register identifying the amount of the fee.
 
-|Examination fee discounts|Amount of  <br/>discount -  <br/>%  <br/>of base  <br/>examination fee|       Examination fee additions        |Amount of  <br/>addition -  <br/>%  <br/>of base  <br/>examination fee|
-|-------------------------|----------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
-|   No prior violations   |                                  15                                  |Partnership or limited liability company|                                  5                                   |
-|     Responsiveness      |                                  10                                  |    Participating Security Licensee     |                                  10                                  |
-|                         |                                                                      |  Records/Files at multiple locations   |                                  10                                  |
-|                         |                                                                      |            Early Stage SBIC            |                                  10                                  |
-
-(e) *Delay fee.* If, in the judgement of SBA, the time required to complete your examination is delayed due to your lack of cooperation or the condition of your records, SBA may assess an additional fee of up to $500 per day.
-
-[62 FR 23338, Apr. 30, 1997, as amended at 77 FR 25052, Apr. 27, 2012]
+[62 FR 23338, Apr. 30, 1997, as amended at 77 FR 25052, Apr. 27, 2012; 82 FR 52185, Nov. 13, 2017]
