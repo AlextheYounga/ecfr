@@ -1280,6 +1280,8 @@ Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
 
 (ix) Engage in recreational fishing for golden tilefish with fishing gear that is not compliant with the gear restrictions specified at § 648.296.
 
+(x) Engage in recreational fishing for blueline tilefish outside of the recreational open season specified at § 648.296(b).
+
 (3) *Transfer and purchase.* (i) Purchase, possess, or receive for a commercial purpose, other than solely for transport on land; or attempt to purchase, possess, or receive for a commercial purpose, other than solely for transport on land; golden or blueline tilefish caught by a vessel without a tilefish permit, unless the tilefish were harvested by a vessel without a tilefish permit that fished exclusively in State waters.
 
 (ii) Purchase or otherwise receive for commercial purposes golden or blueline tilefish caught in the EEZ from outside the Tilefish Management Unit unless otherwise permitted under 50 CFR part 622.

@@ -28,7 +28,7 @@
 
 (iii) *Age.* The Registration Agency will apply the same standards and defenses for age discrimination as those set forth in the Age Discrimination in Employment Act (ADEA), 29 U.S.C. 623, and the implementing regulations promulgated by the EEOC at 29 CFR part 1625.
 
-(iv) *Genetic information.* The Registration Agency will apply the same standards and defenses for discrimination based on genetic information as those set forth in the Genetic Information Nondiscrimination Act (GINA), 29 U.S.C. 2000ff *et seq.,* and the implementing regulations promulgated by the EEOC at 29 CFR part 1635.
+(iv) *Genetic information.* The Registration Agency will apply the same standards and defenses for discrimination based on genetic information as those set forth in the Genetic Information Nondiscrimination Act (GINA), 42 U.S.C. 2000ff *et seq.* and the implementing regulations promulgated by the EEOC at 29 CFR part 1635.
 
 (b) *General duty to engage in affirmative action.* For each registered apprenticeship program, a sponsor is required to take affirmative steps to provide equal opportunity in apprenticeship. These steps must include:
 
@@ -42,7 +42,7 @@
 
 (2) *Internal dissemination of equal opportunity policy.* The sponsor must inform all applicants for apprenticeship, apprentices, and individuals connected with the administration or operation of the registered apprenticeship program of its commitment to equal opportunity and its affirmative action obligations. In addition, the sponsor must require that individuals connected with the administration or operation of the apprenticeship program take the necessary action to aid the sponsor in meeting its nondiscrimination and affirmative action obligations under this part. A sponsor, at a minimum, is required to:
 
-(i) Publish its equal opportunity pledge - set forth in paragraph (c) of this section - in the apprenticeship standards required under § 29.5(c) of this title, and in appropriate publications, such as apprentice and employee handbooks, policy manuals, newsletters, or other documents disseminated by the sponsor or that otherwise describe the nature of the sponsorship;
+(i) Publish its equal opportunity pledge—set forth in paragraph (c) of this section—in the apprenticeship standards required under § 29.5(b) of this title, and in appropriate publications, such as apprentice and employee handbooks, policy manuals, newsletters, or other documents disseminated by the sponsor or that otherwise describe the nature of the sponsorship;
 
 (ii) Post its equal opportunity pledge from paragraph (c) of this section on bulletin boards, including through electronic media, such that it is accessible to all apprentices and applicants for apprenticeship;
 
@@ -83,3 +83,5 @@
 (d)  *Compliance.* (1) Current sponsors: A sponsor that has a registered apprenticeship program as of the effective date of this regulation must comply with all obligations of this section within 180 days of the effective date of this rule.
 
 (2) New sponsors: A sponsor registering with a Registration Agency after the effective date of this regulation shall comply with all obligations of this section upon registration or 180 days after the effective date of this regulation, whichever is later.
+
+[81 FR 92108, Dec. 19, 2016, as amended at 84 FR 3301, Feb. 12, 2019]
