@@ -1,7 +1,5 @@
 ##### § 124.104 Who is economically disadvantaged? #####
 
-Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
-
 (a) *General.* Economically disadvantaged individuals are socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same or similar line of business who are not socially disadvantaged.
 
 (b) *Submission of narrative and financial information.* (1) Each individual claiming economic disadvantage must submit personal financial information.
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
 
 (iii) In determining an individual's access to capital and credit, SBA may consider any assets that the individual transferred within such two-year period described by paragraph (c)(1)(i) of this section that SBA does not consider in evaluating the individual's assets and net worth (e.g., transfers to charities).
 
-(2) *Net worth.* The net worth of an individual claiming disadvantage must be less than $750,000. In determining such net worth, SBA will exclude the ownership interest in the applicant or Participant and the equity in the primary personal residence (except any portion of such equity which is attributable to excessive withdrawals from the applicant or Participant). Exclusions for net worth purposes are not exclusions for asset valuation or access to capital and credit purposes.
+(2) *Net worth.* The net worth of an individual claiming disadvantage must be less than $850,000. In determining such net worth, SBA will exclude the ownership interest in the applicant or Participant and the equity in the primary personal residence (except any portion of such equity which is attributable to excessive withdrawals from the applicant or Participant). Exclusions for net worth purposes are not exclusions for asset valuation or access to capital and credit purposes.
 
 (i) A contingent liability does not reduce an individual's net worth.
 
@@ -26,10 +24,10 @@ Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
 
 (iv) The personal net worth of an individual claiming to be an Alaska Native will include assets and income from sources other than an Alaska Native Corporation and exclude any of the following which the individual receives from any Alaska Native Corporation: cash (including cash dividends on stock received from an ANC) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum; stock (including stock issued or distributed by an ANC as a dividend or distribution on stock); a partnership interest; land or an interest in land (including land or an interest in land received from an ANC as a dividend or distribution on stock); and an interest in a settlement trust.
 
-(3) *Personal income for the past three years.* (i) SBA will presume that an individual is not economically disadvantaged if his or her adjusted gross income averaged over the three preceding years exceeds $350,000. The presumption may be rebutted by a showing that this income level was unusual and not likely to occur in the future, that losses commensurate with and directly related to the earnings were suffered, or by evidence that the income is not indicative of lack of economic disadvantage.
+(3) *Personal income for the past three years.* (i) SBA will presume that an individual is not economically disadvantaged if his or her adjusted gross income averaged over the three preceding years exceeds $400,000. The presumption may be rebutted by a showing that this income level was unusual and not likely to occur in the future, that losses commensurate with and directly related to the earnings were suffered, or by evidence that the income is not indicative of lack of economic disadvantage.
 
 (ii) Income received from an applicant or Participant that is an S corporation, LLC or partnership will be excluded from an individual's income where the applicant or Participant provides documentary evidence demonstrating that the income was reinvested in the firm or used to pay taxes arising in the normal course of operations of the firm. Losses from the S corporation, LLC or partnership, however, are losses to the company only, not losses to the individual, and cannot be used to reduce an individual's personal income.
 
-(4) *Fair market value of all assets.* An individual will generally not be considered economically disadvantaged if the fair market value of all his or her assets (including his or her primary residence and the value of the applicant/Participant firm) exceeds $6 million. The only assets excluded from this determination are funds excluded under paragraph (c)(2)(ii) of this section as being invested in a qualified IRA account.
+(4) *Fair market value of all assets.* An individual will generally not be considered economically disadvantaged if the fair market value of all his or her assets (including his or her primary residence and the value of the applicant/Participant firm) exceeds $6.5 million. The only assets excluded from this determination are funds excluded under paragraph (c)(2)(ii) of this section as being invested in a qualified IRA account.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8254, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 85 FR 27660, May 11, 2020]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8254, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 85 FR 27660, May 11, 2020; 87 FR 69154, Nov. 17, 2022]

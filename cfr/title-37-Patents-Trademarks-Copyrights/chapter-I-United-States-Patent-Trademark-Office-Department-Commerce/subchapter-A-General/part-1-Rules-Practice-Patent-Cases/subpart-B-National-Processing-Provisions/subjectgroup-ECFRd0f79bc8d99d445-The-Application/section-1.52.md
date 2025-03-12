@@ -18,7 +18,7 @@
 
 (4) See § 1.58 for chemical and mathematical formulae and tables, and § 1.84 for drawings.
 
-(5) Papers that are submitted electronically to the Office must be formatted and transmitted in compliance with the Office's electronic filing system requirements.
+(5) Papers that are submitted electronically to the Office must be formatted and transmitted in compliance with the USPTO patent electronic filing system requirements.
 
 (b) *The application (specification, including the claims, drawings, and the inventor's oath or declaration) or reexamination or supplemental examination proceeding, any amendments to the application or reexamination proceeding, or any corrections to the application, or reexamination or supplemental examination proceeding.* (1) The application or proceeding and any amendments or corrections to the application (including any translation submitted pursuant to paragraph (d) of this section) or proceeding, except as provided for in § 1.69 and paragraph (d) of this section, must:
 
@@ -110,7 +110,7 @@
 
 (9) If a file is unreadable, it will be treated as not having been submitted, and a notice will be issued to require a compliant submission.
 
-(f) *Determining application size fees for applications containing electronic documents submitted on a read-only optical disc or via the USPTO patent electronic filing system* -
+(f) *Determining application size fees for applications containing electronic documents submitted on a read-only optical disc or via the USPTO patent electronic filing system*—
 (1) *Submission on read-only optical discs.* The application size fee required by § 1.16(s) or § 1.492(j), for an application component submitted in part on a read-only optical disc in compliance with paragraph (e) of this section, shall be determined such that each three kilobytes of content submitted on a read-only optical disc shall be counted as a sheet of paper. Excluded from this determination is any ASCII plain text file or any XML file (as applicable) submitted on a read-only optical disc under paragraph (e) of this section containing:
 
 (i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c) or (e), or any “Sequence Listing XML” in compliance with § 1.831(a); or

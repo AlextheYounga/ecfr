@@ -26,7 +26,7 @@ Table 2 to Paragraph (a)(1)(i)(B)
 
 (C) For an international application having a receipt date that is before January 1, 2014: $240.00
 
-(ii) A non-electronic filing fee portion for any international application designating the United States of America that is filed on or after November 15, 2011, other than by the Office electronic filing system, except for a plant application:
+(ii) A non-electronic filing fee portion for any international application designating the United States of America that is filed on or after November 15, 2011, other than by the USPTO patent electronic filing system, except for a plant application:
 
 Table 3 to Paragraph (a)(1)(ii)
 

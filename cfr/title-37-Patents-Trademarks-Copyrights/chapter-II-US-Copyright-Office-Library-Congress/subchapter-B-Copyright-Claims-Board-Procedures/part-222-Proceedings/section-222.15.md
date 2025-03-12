@@ -6,9 +6,9 @@
 
 (1) *Documentary evidence.* (i) Documentary evidence must be accompanied by a statement that lists each submitted document and provides a brief description of each document and how it bears on a claim or counterclaim; and
 
-(ii) Direct or response documentary evidence shall only include documents that were served on opposing parties pursuant to the scheduling order, absent leave from the Board, which shall be granted only for good cause.
+(ii) Except when testimony is submitted pursuant to § 227.2 or § 227.4 of this subchapter, direct or response documentary evidence shall only include documents that were served on opposing parties pursuant to the scheduling order, absent leave from the Board, which shall be granted only for good cause.
 
-(2) *Witness statements.* A witness statement must -
+(2) *Witness statements.* A witness statement must—
 
 (i) Be sworn under penalty of perjury by the witness;
 
@@ -16,7 +16,7 @@
 
 (iii) Contain only factual information based on the witness's personal knowledge and may not contain legal argument.
 
-(3) *Party statement.* A party statement -
+(3) *Party statement.* A party statement—
 
 (i) Shall set forth the party's position as to the key facts and damages, as well as any position as to the law;
 
@@ -42,4 +42,4 @@
 
 (f) *No additional filing.* Following filing of any written reply testimony, no further written testimony or evidence may be submitted to the Board, unless at the specific request of the Board or with the Board's leave, or as appropriate at a hearing on the merits ordered by the Board.
 
-[87 FR 30077, May 17, 2022]
+[87 FR 30077, May 17, 2022, as amended at 87 FR 77520, Dec. 19, 2022]

@@ -1,5 +1,5 @@
-##### § 351.21 Appeals. #####
+##### § 351.21 Certification of certain animal fat for export. #####
 
-Link to an amendment published at 87 FR 63423, Oct. 19, 2022.
+Any person receiving inspection service may, if dissatisfied with any decision of an inspector relating to any inspection, file an appeal from such decision or action in accordance with 9 CFR 500.9.
 
-Any decision by an employee of the Program may be appealed by any adversely affected person to the immediate supervisor of such employee. Decisions of other inspectors may be appealed to the circuit supervisor.
+[87 FR 63423, Oct. 19, 2022]

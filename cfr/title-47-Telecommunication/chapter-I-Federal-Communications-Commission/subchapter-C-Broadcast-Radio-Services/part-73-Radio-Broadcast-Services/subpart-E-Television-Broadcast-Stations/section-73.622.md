@@ -614,7 +614,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |    Great Falls     |                7, 8, 17, \*21, 26                 |   |
 |       Hardin       |                        22                         |   |
 |       Havre        |                         9                         |   |
-|       Helena       |                      12, 29                       |   |
+|       Helena       |                      29, 31                       |   |
 |     Kalispell      |                      9, \*15                      |   |
 |     Miles City     |                         3                         |   |
 |      Missoula      |                  7, \*11, 20, 23                  |   |

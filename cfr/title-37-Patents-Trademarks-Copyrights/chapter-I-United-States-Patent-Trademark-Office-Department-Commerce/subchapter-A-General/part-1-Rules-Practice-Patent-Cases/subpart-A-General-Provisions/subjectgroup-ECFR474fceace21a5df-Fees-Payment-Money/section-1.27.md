@@ -52,7 +52,7 @@
 
 (b) *Establishment of small entity status permits payment of reduced fees.* (1) A small entity, as defined in paragraph (a) of this section, who has properly asserted entitlement to small entity status pursuant to paragraph (c) of this section will be accorded small entity status by the Office in the particular application or patent in which entitlement to small entity status was asserted. Establishment of small entity status allows the payment of certain reduced patent fees pursuant to 35 U.S.C. 41(h)(1).
 
-(2) Submission of an original utility application in compliance with the Office electronic filing system by an applicant who has properly asserted entitlement to small entity status pursuant to paragraph (c) of this section in that application allows the payment of a reduced filing fee pursuant to 35 U.S.C. 41(h)(3).
+(2) Submission of an original utility application in compliance with the USPTO patent electronic filing system by an applicant who has properly asserted entitlement to small entity status pursuant to paragraph (c) of this section in that application allows the payment of a reduced filing fee pursuant to 35 U.S.C. 41(h)(3).
 
 (c) *Assertion of small entity status.* Any party (person, small business concern or nonprofit organization) should make a determination, pursuant to paragraph (f) of this section, of entitlement to be accorded small entity status based on the definitions set forth in paragraph (a) of this section, and must, in order to establish small entity status for the purpose of paying small entity fees, actually make an assertion of entitlement to small entity status, in the manner set forth in paragraphs (c)(1) or (c)(3) of this section, in the application or patent in which such small entity fees are to be paid.
 

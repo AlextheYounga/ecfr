@@ -12,4 +12,6 @@
 
 (c) *Law students, law clinics, and pro bono legal services.* The limitations in this section do not apply to law students or a law clinic or *pro bono* legal services organization with a connection to the participating law student's law school.
 
-[87 FR 30092, May 17, 2022; 87 FR 36061, June 15, 2022]
+(d) *District court referrals.* In calculating the number of proceedings that have been filed by a claimant, sole practitioner, legal counsel, or a law firm under this section, claims referred by district courts will not be considered.
+
+[87 FR 30092, May 17, 2022; 87 FR 36061, June 15, 2022; 87 FR 77521, Dec. 19, 2022]

@@ -6,12 +6,12 @@ Link to an amendment published at 86 FR 66193, Nov. 22, 2021.
 
 Table 1 to Paragraph (a)
 
-|                                                                                                                                   |      |
-|-----------------------------------------------------------------------------------------------------------------------------------|------|
-|                                                    By a micro entity (§ 1.29)                                                     |$80.00|
-|                                                   By a small entity (§ 1.27(a))                                                   |160.00|
-|By a small entity (§ 1.27(a)) if the application is submitted in compliance with the Office electronic filing system (§ 1.27(b)(2))|80.00 |
-|                                               By other than a small or micro entity                                               |320.00|
+|                                                                                                                                         |      |
+|-----------------------------------------------------------------------------------------------------------------------------------------|------|
+|                                                       By a micro entity (§ 1.29)                                                        |$80.00|
+|                                                      By a small entity (§ 1.27(a))                                                      |160.00|
+|By a small entity (§ 1.27(a)) if the application is submitted in compliance with the USPTO patent electronic filing system (§ 1.27(b)(2))|80.00 |
+|                                                  By other than a small or micro entity                                                  |320.00|
 
 (b) Basic fee for filing each application under 35 U.S.C. 111 for an original design patent:
 
@@ -185,7 +185,7 @@ Table 19 to Paragraph (s)
 |    By a small entity (§ 1.27(a))    |210.00 |
 |By other than a small or micro entity|420.00 |
 
-(t) Non-electronic filing fee for any application under 35 U.S.C. 111(a) that is filed on or after November 15, 2011, other than by the Office electronic filing system, except for a reissue, design, or plant application:
+(t) Non-electronic filing fee for any application under 35 U.S.C. 111(a) that is filed on or after November 15, 2011, other than by the USPTO patent electronic filing system, except for a reissue, design, or plant application:
 
 Table 20 to Paragraph (t)
 

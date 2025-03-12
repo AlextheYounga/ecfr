@@ -1,7 +1,5 @@
 ##### § 381.35 Appeal inspections; how made. #####
 
-Link to an amendment published at 87 FR 63423, Oct. 19, 2022.
+Any person receiving inspection service may, if dissatisfied with any decision or action of an inspector or other Agency employee relating to any inspection, file an appeal from such decision or action in accordance with 9 CFR 500.9.
 
-Any person receiving inspection service may, if dissatisfied with any decision of an inspector relating to any inspection, file an appeal from such decision: *Provided,* That such appeal is filed within 48 hours from the time the decision was made. Any such appeal from a decision of an inspector shall be made to his immediate superior having jurisdiction over the subject matter of the appeal, and such superior shall determine whether the inspector's decision was correct. Review of such appeal determination, when requested, shall be made by the immediate superior of the employee of the Department making the appeal determination. The cost of any such appeal shall be borne by the appellant if the Administrator determines that the appeal is frivolous. The charges for such frivolous appeal shall be at the rate of $9.28 per hour for the time required to make the appeal inspection. The poultry or poultry products involved in any appeal shall be identified by U.S. retained tags and segregated in a manner approved by the inspector pending completion of an appeal inspection.
-
-[48 FR 11419, Mar. 18, 1983, as amended at 60 FR 67456, Dec. 29, 1995]
+[87 FR 63423, Oct. 19, 2022]

@@ -1,6 +1,6 @@
 ##### § 222.9 Counterclaim. #####
 
-(a) *Asserting a counterclaim.* Any party can assert a counterclaim falling under the jurisdiction of the Board that also -
+(a) *Asserting a counterclaim.* Any party can assert a counterclaim falling under the jurisdiction of the Board that also—
 
 (1) Arises out of the same transaction or occurrence as the initial claim; or
 
@@ -8,23 +8,25 @@
 
 (b) *Electronic filing requirement.* A party may submit a counterclaim through eCCB using the counterclaim form provided by the Board.
 
-(c) *Content of counterclaim.* The counterclaim shall include -
+(c) *Content of counterclaim.* The counterclaim shall include—
 
 (1) The name of the party or parties against whom the counterclaim is asserted;
 
 (2) An identification of the counterclaim, which shall consist of at least one of the following:
 
-(i) A claim for infringement of an exclusive right in a copyrighted work provided under 17 U.S.C. 106;
+(i) A counterclaim for infringement of an exclusive right in a copyrighted work provided under 17 U.S.C. 106;
 
-(ii) A claim for a declaration of noninfringement of an exclusive right in a copyrighted work provided under 17 U.S.C. 106; or
+(ii) A counterclaim for a declaration of noninfringement of an exclusive right in a copyrighted work provided under 17 U.S.C. 106;
 
-(iii) A claim under 17 U.S.C. 512(f) for misrepresentation in connection with -
+(iii) A counterclaim under 17 U.S.C. 512(f) for misrepresentation in connection with—
 
 (A) A notification of claimed infringement; or
 
-(B) A counter notification seeking to replace removed or disabled material;
+(B) A counter notification seeking to replace removed or disabled material; or
 
-(3) For an infringement counterclaim asserted under paragraph (c)(2)(i) of this section -
+(iv) A counterclaim that arises under an agreement pertaining to the same transaction or occurrence that is the subject of a claim of infringement brought under 17 U.S.C. 1504(c)(1), if the agreement could affect the relief awarded to the claimant;
+
+(3) For an infringement counterclaim asserted under paragraph (c)(2)(i) of this section—
 
 (i) That the counterclaimant is the legal or beneficial owner of rights in a work protected by copyright and, if there are any co-owners, their names;
 
@@ -50,13 +52,13 @@
 
 (D) The facts leading the counterclaimant to believe the work has been infringed;
 
-(E) Whether the alleged infringement has continued through the date the claim was filed, or, if it has not, when the alleged infringement ceased;
+(E) Whether the alleged infringement has continued through the date the counterclaim was filed, or, if it has not, when the alleged infringement ceased;
 
 (F) Where the alleged act(s) of infringement occurred; and
 
-(G) If the claim of infringement is asserted against an online service provider as defined in 17 U.S.C. 512(k)(1)(B) for infringement by reason of the storage of or referral or linking to infringing material that may be subject to the limitations on liability set forth in 17 U.S.C. 512(b), (c), or (d), an affirmance that the counterclaimant has previously notified the service provider of the claimed infringement in accordance with 17 U.S.C. 512(b)(2)(E), (c)(3), or (d)(3), as applicable, and that the service provider failed to remove or disable access to the material expeditiously upon the provision of such notice;
+(G) If the infringement counterclaim is asserted against an online service provider as defined in 17 U.S.C. 512(k)(1)(B) for infringement by reason of the storage of or referral or linking to infringing material that may be subject to the limitations on liability set forth in 17 U.S.C. 512(b), (c), or (d), an affirmance that the counterclaimant has previously notified the service provider of the claimed infringement in accordance with 17 U.S.C. 512(b)(2)(E), (c)(3), or (d)(3), as applicable, and that the service provider failed to remove or disable access to the material expeditiously upon the provision of such notice;
 
-(4) For a declaration of noninfringement counterclaim asserted under paragraph (c)(2)(ii) of this section -
+(4) For a declaration of noninfringement counterclaim asserted under paragraph (c)(2)(ii) of this section—
 
 (i) The name(s) of the person(s) or organization(s) asserting that the counterclaimant has infringed a copyright;
 
@@ -70,13 +72,13 @@
 
 (D) The work of authorship category, as set forth in 17 U.S.C. 102, or, if the counterclaimant is unable to determine which category is applicable, a brief description of the nature of the work;
 
-(iii) A brief description of the activity at issue in the claim, including, to the extent known to the counterclaimant:
+(iii) A brief description of the activity at issue in the counterclaim, including, to the extent known to the counterclaimant:
 
 (A) Any exclusive rights provided under 17 U.S.C. 106 that may be implicated;
 
 (B) When the activities at issue began and, if applicable, ended;
 
-(C) Whether the activities at issue have continued through the date the claim was filed;
+(C) Whether the activities at issue have continued through the date the counterclaim was filed;
 
 (D) The name(s) of all person(s) or organization(s) who participated in the allegedly infringing activity; and
 
@@ -86,7 +88,7 @@
 
 (v) A brief statement describing the reasons why the counterclaimant believes that there is an actual controversy concerning the requested declaration;
 
-(5) For a misrepresentation counterclaim asserted under paragraph (c)(2)(iii) of this section -
+(5) For a misrepresentation counterclaim asserted under paragraph (c)(2)(iii) of this section—
 
 (i) The sender of the notification of claimed infringement;
 
@@ -96,7 +98,7 @@
 
 (iv) A description of the notification;
 
-(v) If a counter notification was sent in response to the notification -
+(v) If a counter notification was sent in response to the notification—
 
 (A) The sender of the counter notification;
 
@@ -110,13 +112,13 @@
 
 (vii) An explanation of the alleged misrepresentation;
 
-(6) For infringement claims and misrepresentation claims, a statement describing the harm suffered by the claimant(s) as a result of the alleged activity and the relief sought by the claimant(s). Such statement may, but is not required to, include an estimate of any monetary relief sought;
+(6) For infringement counterclaims, misrepresentation counterclaims, and counterclaims arising under an agreement as provided in paragraph (a)(2), a statement describing the harm suffered by the counterclaimant(s) as a result of the alleged activity and the relief sought by the counterclaimant(s). Such statement may, but is not required to, include an estimate of any monetary relief sought;
 
 (7) A statement describing the relationship between the initial claim and the counterclaim; and
 
 (8) A certification under penalty of perjury by the counterclaimant or the counterclaimant's legal counsel or *authorized representative* that the information provided in the counterclaim is accurate and truthful to the best of the certifying person's knowledge and, if the certifying person is not the counterclaimant, that the certifying person has confirmed the accuracy of the information with the counterclaimant. The certification shall include the typed signature of the certifying person.
 
-(d) *Additional matter.* The counterclaimant may also include, as attachments to or files that accompany the counterclaim, any material the counterclaimant believes plays a significant role in setting forth the facts of the claim, such as:
+(d) *Additional matter.* The counterclaimant may also include, as attachments to or files that accompany the counterclaim, any material the counterclaimant believes plays a significant role in setting forth the facts of the counterclaim, such as:
 
 (1) A copy of the copyright registration certificate for a work that is the subject of the proceeding;
 
@@ -126,10 +128,12 @@
 
 (4) A copy of the notification of claimed infringement that is alleged to contain the misrepresentation;
 
-(5) A copy of the counter notification that is alleged to contain the misrepresentation; and
+(5) A copy of the counter notification that is alleged to contain the misrepresentation;
 
-(6) Any other exhibits that play a significant role in setting forth the facts of the counterclaim.
+(6) A copy of any agreements related to the counterclaim, including any amendments or revisions; and
+
+(7) Any other exhibits that play a significant role in setting forth the facts of the counterclaim.
 
 (e) *Timing of counterclaim.* A counterclaim must be served and filed with the respondent's response unless the Board, for good cause, permits a counterclaim to be asserted at a subsequent time.
 
-[87 FR 17004, Mar. 25, 2022]
+[87 FR 17004, Mar. 25, 2022, as amended at 87 FR 77520, Dec. 19, 2022]

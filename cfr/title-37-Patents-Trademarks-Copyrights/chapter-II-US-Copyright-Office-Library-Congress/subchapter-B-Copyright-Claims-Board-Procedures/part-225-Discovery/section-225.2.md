@@ -4,17 +4,17 @@
 
 (1) The identity of witnesses whom the parties plan to use in the proceeding, including contact information for the witnesses, if known, and a brief description of the subject matter on which they may testify;
 
-(2) The identity of any other individuals who may have material information related to the claims or defenses, including contact information for the individuals, if known;
+(2) The identity of any other individuals who may have material information related to the claims, counterclaims, or defenses, including contact information for the individuals, if known;
 
-(3) Any agreement or other relationship between the parties relevant to the claim;
+(3) Any agreement or other relationship between the parties relevant to the claim or counterclaim;
 
 (4) Any harm suffered or damages sought; and
 
 (5) Any materially responsive documents that the party is aware exist or once existed, but are not in the possession of that party.
 
-(b) *For a party asserting infringement.* In addition to paragraph (a) of this section, the *standard interrogatories* for a party asserting an infringement claim or responding to a claim for non-infringement shall consist of information pertaining to:
+(b) *For a party asserting infringement.* In addition to paragraph (a) of this section, the *standard interrogatories* for a party asserting an infringement claim or counterclaim or responding to a claim or counterclaim for non-infringement shall consist of information pertaining to:
 
-(1) The allegedly infringed work's copyright registration, to the extent such information differs from or adds to information provided in the claim;
+(1) The allegedly infringed work's copyright registration, to the extent such information differs from or adds to information provided in the claim or counterclaim;
 
 (2) For works requiring copyright formalities, the extent the allegedly infringed work complied with such copyright formalities;
 
@@ -34,9 +34,9 @@
 
 (10) A description of any harm suffered and, to the extent known, a calculation of the damages requested by the party as a result of the alleged infringement; and
 
-(11) Any attempts by the party to cause the infringement to be ceased or mitigated prior to bringing the claim.
+(11) Any attempts by the party to cause the infringement to be ceased or mitigated prior to bringing the claim or counterclaim.
 
-(c) *For a party asserting non-infringement.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a party responding to an infringement claim or asserting a claim for non-infringement shall consist of information pertaining to:
+(c) *For a party asserting non-infringement.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a party responding to an infringement claim or counterclaim or asserting a claim or counterclaim for non-infringement shall consist of information pertaining to:
 
 (1) The party's ownership of the copyright in the allegedly infringing material;
 
@@ -48,7 +48,7 @@
 
 (5) Any information indicating that the party alleging infringement does not own a copyright in the allegedly infringed work;
 
-(6) All defenses to infringement asserted by the party and a detailed basis for those defenses. Defenses listed in timely answers and timely updated answers to the *standard interrogatories* shall be considered by the Board and will not require an amendment of the response to an infringement claim or an amendment of a claim for non-infringement;
+(6) All defenses to infringement asserted by the party and a detailed basis for those defenses. Defenses listed in timely answers and timely updated answers to the *standard interrogatories* shall be considered by the Board and will not require an amendment of the response to an infringement claim or counterclaim or an amendment of a claim or counterclaim for non-infringement;
 
 (7) The basis for any other reasons the party believes that its actions do not constitute infringement;
 
@@ -56,7 +56,7 @@
 
 (9) For a party responding to infringement claims or counterclaims, the revenues and profits the party has received that are directly related to the sale or use of the allegedly infringing material, as well as the deductible expenses directly related to that sale or use, and any elements of profit for that sale or use that the party believes are attributable to factors other than the copyrighted work.
 
-(d) *For a party asserting misrepresentation.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a party asserting a claim of misrepresentation under 17 U.S.C. 512(f) shall consist of information pertaining to:
+(d) *For a party asserting misrepresentation.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a party asserting a claim or counterclaim of misrepresentation under 17 U.S.C. 512(f) shall consist of information pertaining to:
 
 (1) The notification or counter notification that allegedly contained a misrepresentation;
 
@@ -68,12 +68,14 @@
 
 (5) The harm, including a description and calculation of damages, caused by the alleged misrepresentation.
 
-(e) *For a party responding to misrepresentation claims.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a party responding to a claim of misrepresentation under 17 U.S.C. 512(f) shall consist of information pertaining to:
+(e) *For a party responding to misrepresentation claims or counterclaims.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a party responding to a claim or counterclaim of misrepresentation under 17 U.S.C. 512(f) shall consist of information pertaining to:
 
-(1) All defenses asserted to the misrepresentation claim and the basis for those assertions. Defenses listed in timely answers and timely updated answers to the *standard interrogatories* shall be considered by the Board and will not require an amendment of the response;
+(1) All defenses asserted to the misrepresentation claim or counterclaim and the basis for those assertions. Defenses listed in timely answers and timely updated answers to the *standard interrogatories* shall be considered by the Board and will not require an amendment of the response;
 
 (2) The basis for any other reasons the party believes that its statement did not constitute a misrepresentation; and
 
 (3) Identification and a description of any communications with the internet service provider, the parties, or others related to the notification or counter notification at issue.
 
 (f) *Duty to update.* A party has an obligation to update its interrogatory responses and serve updated responses on the other parties as soon as practicable after the discovery of new or updated information.
+
+[87 FR 30082, May 17, 2022, as amended at 87 FR 77521, Dec. 19, 2022]

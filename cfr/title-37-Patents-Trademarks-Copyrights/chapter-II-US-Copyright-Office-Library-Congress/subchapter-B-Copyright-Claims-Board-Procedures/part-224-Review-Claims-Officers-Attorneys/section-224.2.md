@@ -8,6 +8,6 @@
 
 (3) Following the expiration of the time for the respondent or counterclaim respondent to submit a response, the Board shall render its final decision whether to dismiss the claim for unsuitability.
 
-(c) *Request by a party to dismiss a claim or counterclaim for unsuitability.* At any time, any party who believes that a claim or counterclaim is unsuitable for determination by the Board may file a request that shall not exceed five pages providing the basis for such belief. An opposing party may file a response within 14 days setting forth the basis for such opposition to the request. A request or response made under this paragraph shall meet the requirements set forth in § 220.5(a)(2) of this subchapter.
+(c) *Request by a party to dismiss a claim or counterclaim for unsuitability.* At any time, any party who believes that a claim or counterclaim is unsuitable for determination by the Board may file a request providing the basis for such belief. An opposing party may file a response within 14 days setting forth the basis for such opposition to the request. A request or response made under this paragraph shall meet the requirements set forth in § 220.5(a)(2) of this subchapter.
 
-[87 FR 17007, Mar. 25, 2022, as amended at 87 FR 30081, May 17, 2022]
+[87 FR 17007, Mar. 25, 2022, as amended at 87 FR 30081, May 17, 2022; 87 FR 77521, Dec. 19, 2022]

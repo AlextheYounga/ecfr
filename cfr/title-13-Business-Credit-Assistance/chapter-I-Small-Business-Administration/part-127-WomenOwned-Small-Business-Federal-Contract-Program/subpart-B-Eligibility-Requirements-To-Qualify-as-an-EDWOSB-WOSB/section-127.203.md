@@ -1,10 +1,8 @@
 ##### § 127.203 What are the rules governing the requirement that economically disadvantaged women must own EDWOSBs? #####
 
-Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
-
 (a) *General.* To qualify as an EDWOSB, the concern must be at least 51 percent owned by one or more women who are economically disadvantaged. A woman is economically disadvantaged if she can demonstrate that her ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same or similar line of business. SBA does not take into consideration community property laws when determining economic disadvantage when the woman has no direct, individual or separate ownership interest in the property.
 
-(b) *Limitation on personal net worth.* (1) In order to be considered economically disadvantaged, the woman's personal net worth must be less than $750,000, excluding her ownership interest in the concern and her equity interest in her primary personal residence.
+(b) *Limitation on personal net worth.* (1) In order to be considered economically disadvantaged, the woman's personal net worth must be less than $850,000, excluding her ownership interest in the concern and her equity interest in her primary personal residence.
 
 (2) Income received from an EDWOSB that is an S corporation, LLC or partnership will be excluded from net worth where the EDWOSB provides documentary evidence demonstrating that the income was reinvested in the business concern or the distribution was solely for the purposes of paying taxes arising in the normal course of operations of the business concern. Losses from the S corporation, LLC or partnership, however, are losses to the EDWOSB only, not losses to the individual, and cannot be used to reduce an individual's net worth.
 
@@ -16,11 +14,11 @@ Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
 
 (3) *Income.*
 
-(i) When considering a woman's personal income, if the adjusted gross yearly income averaged over the three years preceding the certification exceeds $350,000, SBA will presume that she is not economically disadvantaged. The presumption may be rebutted by a showing that this income level was unusual and not likely to occur in the future, that losses commensurate with and directly related to the earnings were suffered, or by evidence that the income is not indicative of lack of economic disadvantage.
+(i) When considering a woman's personal income, if the adjusted gross yearly income averaged over the three years preceding the certification exceeds $400,000, SBA will presume that she is not economically disadvantaged. The presumption may be rebutted by a showing that this income level was unusual and not likely to occur in the future, that losses commensurate with and directly related to the earnings were suffered, or by evidence that the income is not indicative of lack of economic disadvantage.
 
 (ii) Income received by an EDWOSB that is an S corporation, LLC, or partnership will be excluded from an individual's income where the EDWOSB provides documentary evidence demonstrating that the income was reinvested in the EDWOSB or the distribution was solely for the purposes of paying taxes arising in the normal course of operations of the business concern. Losses from the S corporation, LLC or partnership, however, are losses to the EDWOSB only, not losses to the individual, and cannot be used to reduce a woman's personal income.
 
-(4) *Fair market value of all assets.* A woman will generally not be considered economically disadvantaged if the fair market value of all her assets (including her primary residence and the value of the business concern) exceeds $6 million. The only assets excluded from this determination are funds excluded under paragraph (b)(3) of this section as being invested in a qualified IRA account or other official retirement account.
+(4) *Fair market value of all assets.* A woman will generally not be considered economically disadvantaged if the fair market value of all her assets (including her primary residence and the value of the business concern) exceeds $6.5 million. The only assets excluded from this determination are funds excluded under paragraph (b)(3) of this section as being invested in a qualified IRA account or other official retirement account.
 
 (d) *Transfers within two years.* Assets that a woman claiming economic disadvantage transferred within two years of the date of the concern's certification will be attributed to the woman claiming economic disadvantage if the assets were transferred to an immediate family member, or to a trust that has as a beneficiary an immediate family member. The transferred assets within the two-year period will not be attributed to the woman if the transfer was:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
 
 (2) To an immediate family member in recognition of a special occasion, such as a birthday, graduation, anniversary, or retirement.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 85 FR 27660, May 11, 2020]
+[75 FR 62282, Oct. 7, 2010, as amended at 85 FR 27660, May 11, 2020; 87 FR 69154, Nov. 17, 2022]

@@ -2,13 +2,13 @@
 
 (a) *General.* Parties in an *active proceeding* shall use the relevant set of *standard requests for the production of documents* provided on the Board's website. *Standard requests for the production of documents* shall include copies of:
 
-(1) All documents the party is likely to use in support of its claims or defenses;
+(1) All documents the party is likely to use in support of its claims, counterclaims, or defenses;
 
-(2) All other documents of which the party is reasonably aware that conflict with the party's claims or defenses in the proceeding;
+(2) All other documents of which the party is reasonably aware that conflict with the party's claims, counterclaims, or defenses in the proceeding; and
 
-(3) All documents referred to in, or that were used in preparing, any of the party's responses to *standard interrogatories;* and
+(3) All documents referred to in, or that were used in preparing, any of the party's responses to *standard interrogatories.*
 
-(b) *For a party asserting infringement.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party asserting an infringement claim or responding to a claim for non-infringement shall include copies of:
+(b) *For a party asserting infringement.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party asserting an infringement claim or counterclaim or responding to a claim or counterclaim for non-infringement shall include copies of:
 
 (1) The work claimed to be infringed, its copyright registration, and all correspondence with the Copyright Office regarding that registration;
 
@@ -22,9 +22,9 @@
 
 (6) Documents sufficient to show the damages suffered by the party as a result of the alleged infringement; and
 
-(7) Documents showing attempts by the party to cause the cessation or mitigation of infringement prior to bringing the claim.
+(7) Documents showing attempts by the party to cause the cessation or mitigation of infringement prior to bringing the claim or counterclaim.
 
-(c) *For a party asserting non-infringement.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party responding to an infringement claim or asserting a claim for non-infringement shall include copies of:
+(c) *For a party asserting non-infringement.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party responding to an infringement claim or counterclaim or asserting a claim or counterclaim for non-infringement shall include copies of:
 
 (1) The allegedly infringing material;
 
@@ -34,7 +34,7 @@
 
 (4) For a party responding to infringement claims or counterclaims, documents sufficient to show the revenues and profits the party has received directly related to the sale or use of the allegedly infringing material, as well as the deductible expenses directly related to that sale or use, and the elements of profit for that sale or use that the party believes are attributable to factors other than the copyrighted work.
 
-(d) *For a party asserting misrepresentation.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party asserting a claim of misrepresentation under 17 U.S.C. 512(f) shall include copies of:
+(d) *For a party asserting misrepresentation.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party asserting a claim or counterclaim of misrepresentation under 17 U.S.C. 512(f) shall include copies of:
 
 (1) The notification or counter notification at issue;
 
@@ -44,15 +44,15 @@
 
 (4) Documents sufficient to show the damages suffered by the party as a result of the alleged misrepresentation.
 
-(e) *For party responding to misrepresentation claims.* In addition to the information in paragraph (a) of this section, *the standard requests for the production of documents* for a party responding to a claim of misrepresentation under 17 U.S.C. 512(f) shall include copies of:
+(e) *For a party responding to misrepresentation claims or counterclaims.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party responding to a claim or counterclaim of misrepresentation under 17 U.S.C. 512(f) shall include copies of:
 
 (1) Communications with the internet service provider concerning the notification or counter notification at issue; and
 
 (2) Documents directly pertaining to the truth or falsity of any representations made in the notification or counter notification.
 
-(f) *Document searches and productions* - (1) *General.* Each party shall have an obligation to conduct a reasonable search for any responsive documents of any files in its possession or under its control, including the files of any of the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents.
+(f) *Document searches and productions*—(1) *General.* Each party shall have an obligation to conduct a reasonable search for any responsive documents of any files in its possession or under its control, including the files of any of the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents.
 
-(2) *Electronically stored information.* Documents responsive to the *standard requests for the production of documents,* or any additional requests permitted by the Board, shall include electronically stored information (ESI), including emails and computer files. A reasonable search under the circumstances shall include the ESI of the party and the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents, except that -
+(2) *Electronically stored information.* Documents responsive to the *standard requests for the production of documents,* or any additional requests permitted by the Board, shall include electronically stored information (ESI), including emails and computer files. A reasonable search under the circumstances shall include the ESI of the party and the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents, except that—
 
 (i) ESI searches need not exceed manual searches that are easily accomplished by a layperson; and
 
@@ -64,4 +64,4 @@
 
 (g) *Privileged documents.* Confidential communications with external counsel or in-house counsel reflecting or seeking legal advice related to the merits of the proceeding shall be considered privileged and need not be produced or logged. Parties must seek leave of the Board to withhold additional documents as privileged by filing a request with the Board. Requests to withhold additional documents as privileged and any responses thereto shall follow the procedures set forth in § 220.5(a)(1) of this subchapter.
 
-[87 FR 30082, May 17, 2022; 87 FR 36061, June 15, 2022]
+[87 FR 30082, May 17, 2022; 87 FR 36061, June 15, 2022; 87 FR 77521, Dec. 19, 2022]
