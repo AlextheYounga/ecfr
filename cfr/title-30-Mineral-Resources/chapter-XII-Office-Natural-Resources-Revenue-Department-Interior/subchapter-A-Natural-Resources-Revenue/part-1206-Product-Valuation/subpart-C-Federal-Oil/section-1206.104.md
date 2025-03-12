@@ -1,10 +1,8 @@
 ##### § 1206.104 How will ONRR determine if my royalty payments are correct? #####
 
-Link to an amendment published at 86 FR 4653, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
-
 (a)(1) ONRR may monitor, review, and audit the royalties that you report, and, if ONRR determines that your reported value is inconsistent with the requirements of this subpart, ONRR may direct you to use a different measure of royalty value or decide your value under § 1206.105.
 
-(2) If ONRR directs you to use a different royalty value, you must either pay any additional royalties due, plus late payment interest calculated under §§ 1218.54 and 1218.102 of this chapter), or report a credit for - or request a refund of - any overpaid royalties.
+(2) If ONRR directs you to use a different royalty value, you must either pay any additional royalties due, plus late payment interest calculated under §§ 1218.54 and 1218.102 of this chapter), or report a credit for—or request a refund of—any overpaid royalties.
 
 (b) When the provisions in this subpart refer to gross proceeds, in conducting reviews and audits, ONRR will examine if your or your affiliate's contract reflects the total consideration actually transferred, either directly or indirectly, from the buyer to you or to your affiliate for the oil. If ONRR determines that a contract does not reflect the total consideration, ONRR may decide your value under § 1206.105.
 
@@ -12,9 +10,9 @@ Link to an amendment published at 86 FR 4653, Jan. 15, 2021.This amendment was d
 
 (1) There is misconduct by or between the contracting parties; or
 
-(2) You have breached your duty to market the oil for the mutual benefit of yourself and the lessor by selling your oil at a value that is unreasonably low. ONRR may consider a sales price to be unreasonably low if it is 10 percent less than the lowest reasonable measures of market price including - but not limited to - index prices and prices reported to ONRR for like quality oil; or
+(2) You have breached your duty to market the oil for the mutual benefit of yourself and the lessor by selling your oil at a value that is unreasonably low. ONRR may consider a sales price to be unreasonably low if it is 10 percent less than the lowest reasonable measures of market price including—but not limited to—index prices and prices reported to ONRR for like quality oil; or
 
-(3) ONRR cannot determine if you properly valued your oil under § 1206.101 or § 1206.102 for any reason including - but not limited to - your or your affiliate's failure to provide documents that ONRR requests under 30 CFR part 1212, subpart B.
+(3) ONRR cannot determine if you properly valued your oil under § 1206.101 or § 1206.102 for any reason including—but not limited to—your or your affiliate's failure to provide documents that ONRR requests under 30 CFR part 1212, subpart B.
 
 (d) You have the burden of demonstrating that your or your affiliate's contract is arm's-length.
 

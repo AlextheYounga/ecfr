@@ -16,6 +16,8 @@
 
 (1) For defense articles and defense services, the following countries have a policy of denial:
 
+Table 1 to Paragraph (d)(1)
+
 |  Country   |
 |------------|
 |  Belarus.  |
@@ -27,7 +29,9 @@
 |   Syria.   |
 | Venezuela. |
 
-(2) For defense articles and defense services, a policy of denial applies to the following countries except as specified in the associated paragraphs below:
+(2) For defense articles and defense services, a policy of denial applies as specified in the associated paragraphs in the following table:
+
+Table 2 to Paragraph (d)(2)
 
 |          Country           |  Country specific paragraph location  |
 |----------------------------|---------------------------------------|
@@ -35,6 +39,7 @@
 |  Central African Republic  |See also paragraph (u) of this section.|
 |           Cyprus           |See also paragraph (r) of this section.|
 |Democratic Republic of Congo|See also paragraph (i) of this section.|
+|          Ethiopia          |See also paragraph (n) of this section.|
 |          Eritrea           |See also paragraph (h) of this section.|
 |           Haiti            |See also paragraph (j) of this section.|
 |            Iraq            |See also paragraph (f) of this section.|
@@ -62,11 +67,7 @@ Note to paragraph (e):
 
 (g) *Afghanistan.* It is the policy of the United States to deny licenses or other approvals for exports and imports of defense articles and defense services, destined for or originating in Afghanistan, except that a license or other approval may be issued, on a case-by-case basis, for the Government of Afghanistan or coalition forces. In addition, the names of individuals, groups, undertakings, and entities subject to arms embargoes, due to their affiliation with the Taliban, Al-Qaida, or those associated with them, are published in lists maintained by the United Nations Security Council's Sanctions Committees (established pursuant to United Nations Security Council resolutions (UNSCR) 1267, 1988, and 1989).
 
-(h) *Eritrea.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Eritrea, except that a license or other approval may be issued, on a case-by-case basis, for:
-
-(1) Non-lethal military equipment intended solely for humanitarian or protective use, as approved in advance by the relevant committee of the Security Council; or
-
-(2) Personal protective clothing, including flak jackets and military helmets, temporarily exported to Eritrea by United Nations personnel, representatives of the media, humanitarian and development workers, and associated personnel for their personal use only.
+(h) *Eritrea.* It is the policy of the United States to deny licenses or other approvals for exports of defense articles or defense services destined to or for the armed forces, police, intelligence, or other internal security forces of Eritrea.
 
 (i) *Democratic Republic of the Congo.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in the Democratic Republic of the Congo, except that a license or other approval may be issued, on a case-by-case basis, for:
 
@@ -144,7 +145,9 @@ Note to paragraph (e):
 
 (6) Supplies of non-lethal defense articles intended solely for humanitarian or protective use, notified to the relevant committee of the Security Council five days in advance for its information only, by the supplying State, international, regional, or subregional organization.
 
-(n)-(q) [Reserved]
+(n) *Ethiopia.* It is the policy of the United States to deny licenses or other approvals for exports of defense articles or defense services destined to or for the armed forces, police, intelligence, or other internal security forces of Ethiopia.
+
+(o)-(q) [Reserved]
 
 (r) *Cyprus.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Cyprus, except that a license or other approval may be issued, on a case-by-case basis, for the United Nations Forces in Cyprus (UNFICYP) or for civilian end-users. This policy of denial does not apply to exports, reexports, retransfers, and temporary imports of non-lethal defense articles and defense services destined for or originating in Cyprus if:
 

@@ -1,7 +1,5 @@
 ##### § 1206.159 What general processing allowances requirements apply to me? #####
 
-Link to an amendment published at 86 FR 4656, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
-
 (a)(1) When you value any gas plant product under § 1206.142(c) of this subpart, you may deduct from the value the reasonable, actual costs of processing.
 
 (2) You do not need ONRR's approval before reporting a processing allowance.

@@ -1,0 +1,5 @@
+##### § 90.100 What role does the Bureau of India Affairs (BIA) play in the Osage Minerals Council's elections? #####
+
+(a) The Superintendent of the Osage Agency must compile, at the request of the Chair of the Osage Minerals Council, a list of the voters of Osage descent who will be 18 years of age or over on the election day designated by the Osage Minerals Council and whose names appear on the March quarterly annuity roll at the Osage Agency as of the March quarterly payment immediately preceding the date of the election. Such list must set forth only the name and last known address of each voter.
+
+(b) For purposes of calculating votes, the Superintendent must furnish to the Osage Minerals Council designee charged with carrying out Osage Minerals Council elections a separate list containing the name and last known address of each eligible voter and including the voter's headright interest shown on the last March quarterly annuity roll.

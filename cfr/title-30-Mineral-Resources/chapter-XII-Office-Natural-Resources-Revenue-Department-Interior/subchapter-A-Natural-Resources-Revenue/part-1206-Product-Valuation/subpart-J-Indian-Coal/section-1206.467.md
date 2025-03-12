@@ -1,7 +1,5 @@
 ##### § 1206.467 What general washing allowance requirements apply to me? #####
 
-Link to an amendment published at 86 FR 4659, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
-
 (a)(1) If you determine the value of your coal under § 1206.452 of this subpart, you may take a washing allowance for the reasonable, actual costs to wash coal. The allowance is a deduction when determining coal royalty value for the costs that you incur to wash coal.
 
 (2) Before you may take any deduction, you must submit a completed page 1 of the Coal Washing Allowance Report (Form ONRR-4292), under §§ 1206.470 and 1206.471 of this subpart. You may claim a washing allowance retroactively for a period of not more than three months prior to the first day of the month when you have filed form ONRR-4292 with ONRR.

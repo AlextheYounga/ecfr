@@ -1,7 +1,5 @@
 ##### § 1206.111 How do I determine a transportation allowance if I have an arm's-length transportation contract? #####
 
-Link to an amendment published at 86 FR 4654, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
-
 (a)(1) If you or your affiliate incur transportation costs under an arm's-length transportation contract, you may claim a transportation allowance for the reasonable, actual costs incurred, as more fully explained in paragraph (b) of this section, except as provided in § 1206.110(f) and subject to the limitation in § 1206.110(d).
 
 (2) You must be able to demonstrate that your or your affiliate's contract is at arm's-length.
@@ -32,7 +30,7 @@ Link to an amendment published at 86 FR 4654, Jan. 15, 2021.This amendment was d
 
 (11) The cost of carrying on your books as inventory a volume of oil that the pipeline operator requires you, as a shipper, to maintain and that you do maintain in the line as line fill. You must calculate this cost as follows:
 
-(i) First, multiply the volume that the pipeline requires you to maintain - and that you do maintain - in the pipeline by the value of that volume for the current month calculated under § 1206.101 or § 1206.102, as applicable.
+(i) First, multiply the volume that the pipeline requires you to maintain—and that you do maintain—in the pipeline by the value of that volume for the current month calculated under § 1206.101 or § 1206.102, as applicable.
 
 (ii) Second, multiply the value calculated under paragraph (b)(11)(i) of this section by the monthly rate of return, calculated by dividing the rate of return specified in § 1206.112(i)(3) by 12.
 

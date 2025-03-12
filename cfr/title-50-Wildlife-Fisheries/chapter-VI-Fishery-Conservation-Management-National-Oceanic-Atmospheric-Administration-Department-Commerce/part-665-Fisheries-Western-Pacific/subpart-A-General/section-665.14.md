@@ -20,7 +20,7 @@ Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
 
 (2) *Timeliness of submission.* (i) If fishing was authorized under a permit pursuant to § 665.142, § 665.242, § 665.442, § 665.404, § 665.162, § 665.262, § 665.462, § 665.662, or § 665.801, and if the logbook information was not submitted to NMFS electronically within 24 hours of the end of each fishing day while the vessel was at sea, the vessel operator must submit the original logbook information for each day of the fishing trip to the Regional Administrator within 72 hours of the end of each fishing trip, except as allowed in paragraph (b)(2)(iii) of this section.
 
-(ii) [Reserved]
+(ii) If fishing was authorized under a permit pursuant to § 665.203(a)(2), the vessel operator or vessel owner must submit the original logbook form for each day of the fishing trip to the Regional Administrator within 72 hours of the end of each fishing trip.
 
 (iii) If fishing was authorized under a PRIA bottomfish permit pursuant to § 665.603(a), PRIA pelagic troll and handline permit pursuant to § 665.801(f), crustacean fishing permit for the PRIA (Permit Area 4) pursuant to § 665.642(a), or a precious coral fishing permit for Permit Area X-P-PI pursuant to § 665.662, the original logbook form for each day of fishing within EEZ waters around the PRIA must be submitted to the Regional Administrator within 30 days of the end of each fishing trip.
 
@@ -56,4 +56,4 @@ Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
 
 (h) *State reporting.* Any person who has a permit under §§ 665.124, 665.203, 665.224, 665.404, 665.424, 665.603, or 665.624 and who is regulated by state laws and regulations to maintain and submit records of catch and effort, landings and sales for vessels regulated by subparts B through F of this part must maintain and submit those records in the exact manner required by state laws and regulations.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013; 84 FR 2769, Feb. 8, 2019; 86 FR 42745, Aug. 5, 2021]
+[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013; 84 FR 2769, Feb. 8, 2019; 86 FR 42745, Aug. 5, 2021; 86 FR 60182, Nov. 1, 2021]

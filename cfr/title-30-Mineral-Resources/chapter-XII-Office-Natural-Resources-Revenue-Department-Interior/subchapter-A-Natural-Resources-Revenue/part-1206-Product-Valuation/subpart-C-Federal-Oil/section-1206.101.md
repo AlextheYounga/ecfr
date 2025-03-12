@@ -1,7 +1,5 @@
 ##### § 1206.101 How do I calculate royalty value for oil I or my affiliate sell(s) under an arm's-length contract? #####
 
-Link to an amendment published at 86 FR 4653, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
-
 (a) The value of oil under this section for royalty purposes is the gross proceeds accruing to you or your affiliate under the arm's-length contract less applicable allowances determined under § 1206.111 or § 1206.112. This value does not apply if you exercise an option to use a different value provided in paragraph (c)(1) or (c)(2)(i) of this section or if ONRR decides to value your oil under § 1206.105. You must use this paragraph (a) to value oil when:
 
 (1) You sell under an arm's-length sales contract; OR
