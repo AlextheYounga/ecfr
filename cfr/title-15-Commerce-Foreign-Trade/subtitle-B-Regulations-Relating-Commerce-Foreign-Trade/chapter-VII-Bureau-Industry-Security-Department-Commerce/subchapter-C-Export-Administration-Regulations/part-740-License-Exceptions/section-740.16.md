@@ -54,4 +54,4 @@ This License Exception allows the following reexports:
 
 (2) Reexports to destinations in Country Group E:2 and Country Group D:2.
 
-[61 FR 12768, Mar. 25, 1996. Redesignated at 61 FR 64274, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996, and amended at 62 FR 25458, May 9, 1997; 63 FR 42228, Aug. 7, 1998; 65 FR 38150, June 19, 2000; 65 FR 60855, Oct. 13, 2000; 67 FR 10614, Mar. 8, 2002; 72 FR 43531, Aug. 6, 2007; 74 FR 23945, May 22, 2009; 74 FR 68145, Dec. 23, 2009; 76 FR 70339, Nov. 14, 2011; 77 FR 39367, July 2, 2012; 79 FR 76872, Dec. 23, 2014; 80 FR 29442, May 21, 2015; 81 FR 70332, Oct. 12, 2016]
+[61 FR 12768, Mar. 25, 1996. Redesignated at 61 FR 64274, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996]Editorial Note:For Federal Register citations affecting § 740.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

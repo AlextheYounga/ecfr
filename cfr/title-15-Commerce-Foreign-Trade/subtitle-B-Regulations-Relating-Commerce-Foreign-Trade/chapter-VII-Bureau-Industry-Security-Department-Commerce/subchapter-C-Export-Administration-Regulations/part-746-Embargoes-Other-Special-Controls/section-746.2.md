@@ -86,4 +86,4 @@ The policy of case-by-case review in this paragraph is intended to facilitate ex
 
 (d) *Related controls.* OFAC maintains controls on the activities of persons subject to U.S. jurisdiction, wherever located, involving transactions with Cuba or any Cuban national, as provided in 31 CFR part 515. Exporters and reexporters should consult with OFAC for further guidance on its related controls.
 
-[61 FR 12802, Mar. 25, 1996, as amended at 61 FR 64284, Dec. 4, 1996; 62 FR 9364, Mar. 3, 1997; 62 FR 25459, May 9, 1997; 64 FR 25808, May 13, 1999; 66 FR 36682, July 12, 2001; 69 FR 5690, Feb. 6, 2004; 69 FR 34567, June 22, 2004; 74 FR 45990, Sept. 8, 2009; 79 FR 32625, June 5, 2014; 80 FR 2290, Jan. 16, 2015; 80 FR 43318, July 22, 2015; 80 FR 56904, Sept. 21, 2015; 81 FR 4582, Jan. 27, 2016; 81 FR 13974, Mar. 16, 2016; 81 FR 71367, Oct. 17, 2016; 82 FR 51986, Nov. 9, 2017]
+[61 FR 12802, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 746.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

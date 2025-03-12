@@ -1,6 +1,6 @@
 ##### § 202.20 Deposit of copies and phonorecords for copyright registration. #####
 
-Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment published at 83 FR 2548, Jan. 18, 2018.
+Link to an amendment published at 83 FR 2548, Jan. 18, 2018.
 
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published and unpublished works for the purpose of copyright registration under section 408 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for the Library of Congress under section 407 of title 17, except as expressly adopted in § 202.19.
 
@@ -42,11 +42,9 @@ Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment
 
 (vii) *Motion pictures.* In the case of a published or unpublished motion picture, a copy is “complete” if the reproduction of all of the visual and aural elements comprising the copyrightable subject matter in the work is clean, undamaged, undeteriorated, and free of splices, and if the copy itself and its physical housing are free of any defects that would interfere with the performance of the work or that would cause mechanical, visual, or audible defects or distortions.
 
-(3) The term *secure test* has the meaning set forth in § 202.13(b).
+(3) The terms *secure test* and *literary monograph* have the meanings set forth in §§ 202.13(b) and 202.19(b)(5).
 
-(4) *Title 17* means title 17 of the United States Code.
-
-(5) For the purposes of determining the applicable deposit requirements under this section only, the following shall be considered unpublished motion pictures: motion pictures that consist of television transmission programs and that have been published, if at all, only by reason of a license or other grant to a nonprofit institution of the right to make a fixation of such programs directly from a transmission to the public, with or without the right to make further uses of such fixations.
+(4) For the purposes of determining the applicable deposit requirements under this section only, the following shall be considered unpublished motion pictures: motion pictures that consist of television transmission programs and that have been published, if at all, only by reason of a license or other grant to a nonprofit institution of the right to make a fixation of such programs directly from a transmission to the public, with or without the right to make further uses of such fixations.
 
 (c) *Nature of required deposit.* (1) Subject to the provisions of paragraph (c)(2) of this section, the deposit required to accompany an application for registration of claim to copyright under section 408 of title 17 shall consist of:
 
@@ -62,27 +60,29 @@ Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment
 
 (i) *General.* In the following cases the deposit of one complete copy or phonorecord will suffice in lieu of two copies or phonorecords:
 
-(A) Published three-dimensional cartographic representations of area, such as globes and relief models;
+(A) Published three-dimensional cartographic representations of area, such as globes and relief models.
 
-(B) Published diagrams illustrating scientific or technical works or formulating scientific or technical information in linear or other two-dimensional form, such as an architectural or engineering blueprint, or a mechanical drawing;
+(B) Published diagrams illustrating scientific or technical works or formulating scientific or technical information in linear or other two-dimensional form, such as an architectural or engineering blueprint, or a mechanical drawing.
 
-(C) Published greeting cards, picture postcards, and stationery;
+(C) Published greeting cards, picture postcards, and stationery.
 
-(D) Lectures, sermons, speeches, and addresses published individually and not as a collection of the works of one or more authors;
+(D) Lectures, sermons, speeches, and addresses published individually and not as a collection of the works of one or more authors.
 
-(E) Musical compositions published in copies only, or in both copies and phonorecords, if the only publication of copies took place by rental, lease, or lending;
+(E) Musical compositions published solely in copies or in both copies and phonorecords, provided that one complete copy (rather than a phonorecord) is deposited.
 
-(F) Published multimedia kits or any part thereof;
+(F) Published multimedia kits or any part thereof.
 
-(G) Works exempted from the requirement of depositing identifying material under paragraph (c)(2)(xi)(B) of this section;
+(G) Works exempted from the requirement of depositing identifying material under paragraph (c)(2)(xi)(B) of this section.
 
-(H) Literary, dramatic, and musical works published only as embodied in phonorecords, although this category does not exempt the owner of copyright in a sound recording;
+(H) Literary, dramatic, and musical works published only as embodied in phonorecords, although this category does not exempt the owner of copyright in a sound recording.
 
-(I) Choreographic works, pantomimes, literary, dramatic, and musical works published only as embodied in motion pictures;
+(I) Choreographic works, pantomimes, literary, dramatic, and musical works published only as embodied in motion pictures.
 
-(J) Published works in the form of two-dimensional games, decals, fabric patches or emblems, calendars, instructions for needle work, needle work and craft kits; and
+(J) Published works in the form of two-dimensional games, decals, fabric patches or emblems, calendars, instructions for needle work, needle work and craft kits.
 
 (K) Works reproduced on three-dimensional containers such as boxes, cases, and cartons.
+
+(L) Published literary monographs.
 
 (ii) *Motion pictures.* In the case of published or unpublished motion pictures, the deposit of one complete copy will suffice. The deposit of a copy or copies for any published or unpublished motion picture must be accompanied by a separate description of its contents, such as a continuity, pressbook, or synopsis. In any case where the deposit copy or copies required for registration of a motion picture cannot be viewed for examining purposes on equipment in the Registration Program of the Copyright Office, the description accompanying the deposit must comply with § 202.21(h). The Library of Congress may, at its sole discretion, enter into an agreement permitting the return of copies of published motion pictures to the depositor under certain conditions and establishing certain rights and obligations of the Library of Congress with respect to such copies. In the event of termination of such an agreement by the Library, it shall not be subject to reinstatement, nor shall the depositor or any successor in interest of the depositor be entitled to any similar or subsequent agreement with the Library, unless at the sole discretion of the Library it would be in the best interests of the Library to reinstate the agreement or enter into a new agreement. In the case of unpublished motion pictures (including television transmission programs that have been fixed and transmitted to the public, but have not been published), the deposit of identifying material in compliance with § 202.21 may be made and will suffice in lieu of an actual copy. In the case of colorized versions of motion pictures made from pre-existing black and white motion pictures, in addition to the deposit of one complete copy of the colorized motion picture and the separate description of its contents as specified above, the deposit shall consist of one complete print of the black and white version of the motion picture from which the colorized version was prepared. If special relief from this requirement is requested and granted, the claimant shall make a good faith effort to deposit the best available, near-archival quality black and white print, as a condition of any grant of special relief.
 
@@ -150,13 +150,13 @@ The number of sets of instructions and identifying material shall be the same as
 
 (viii) *Machine-readable copies of works other than computer programs, databases, and works fixed in a CD-ROM format.* Where a literary, musical, pictorial, graphic, or audiovisual work, or a sound recording, except for works fixed in a CD-ROM format and literary works which are computer programs, databases, compilations, statistical compendia or the like, if unpublished has been fixed or, if published, has been published only in machine-readable form, the deposit must consist of identifying material. The type of identifying material submitted should generally be appropriate to the type of work embodied in machine-readable form, but in all cases should be that which best represents the copyrightable content of the work. In all cases the identifying material must include the title of the work. A synopsis may also be requested in addition to the other deposit materials as appropriate in the discretion of the Copyright Office. In the case of any published work subject to this section, the identifying material must include a representation of the copyright notice, if one exists. Identifying material requirements for certain types of works are specified below. In the case of the types of works listed below, the requirements specified shall apply except that, in any case where the specific requirements are not appropriate for a given work the form of the identifying material required will be determined by the Copyright Office in consultation with the applicant, but the Copyright Office will make the final determination of the acceptability of the identifying material.
 
-(A) For pictorial or graphic works, the deposit shall consist of identifying material in compliance with § 202.21;
+(A) For pictorial or graphic works, the deposit shall consist of identifying material in compliance with § 202.21.
 
-(B) For audiovisual works, the deposit shall consist of either a videotape of the work depicting representative portions of the copyrightable content, or a series of photographs or drawings, depicting representative portions of the work, plus in all cases a separate synopsis of the work;
+(B) For audiovisual works, the deposit shall consist of either a videotape of the work depicting representative portions of the copyrightable content, or a series of photographs or drawings, depicting representative portions of the work, plus in all cases a separate synopsis of the work.
 
-(C) For musical compositions, the deposit shall consist of a transcription of the entire work such as a score, or a reproduction of the entire work on an audiocassette or other phonorecord;
+(C) For musical compositions, the deposit shall consist of a transcription of the entire work such as a score, or a reproduction of the entire work on a phonorecord.
 
-(D) For sound recordings, the deposit shall consist of a reproduction of the entire work on an audiocassette or other phonorecord;
+(D) For sound recordings, the deposit shall consist of a reproduction of the entire work on a phonorecord.
 
 (E) For literary works, the deposit shall consist of a transcription of representative portions of the work including the first and last 25 pages or equivalent units, and five or more pages indicative of the remainder.
 

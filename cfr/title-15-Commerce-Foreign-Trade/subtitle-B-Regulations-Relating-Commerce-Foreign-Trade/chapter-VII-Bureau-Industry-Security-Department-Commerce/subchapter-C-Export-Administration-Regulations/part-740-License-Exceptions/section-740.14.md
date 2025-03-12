@@ -72,4 +72,4 @@ Note to paragraph (h):
 
 Body armor controlled under ECCN 1A005 is eligible for this License Exception under paragraph (b) of this section.
 
-[61 FR 12768, Mar. 25, 1996. Redesignated at 61 FR 64274, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996, and amended at 62 FR 25458, May 9, 1997; 63 FR 50522, Sept. 22, 1998; 64 FR 17973, Apr. 13, 1999; 68 FR 35784, June 17, 2003; 69 FR 34567, June 22, 2004; 71 FR 30284, May 26, 2006; 72 FR 3945, Jan. 29, 2007; 72 FR 70512, Dec. 12, 2007; 74 FR 45989, Sept. 8, 2009; 79 FR 281, Jan. 2, 2014; 81 FR 49528, July 28, 2016]
+[61 FR 12768, Mar. 25, 1996. Redesignated at 61 FR 64274, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996]Editorial Note:For Federal Register citations affecting § 740.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

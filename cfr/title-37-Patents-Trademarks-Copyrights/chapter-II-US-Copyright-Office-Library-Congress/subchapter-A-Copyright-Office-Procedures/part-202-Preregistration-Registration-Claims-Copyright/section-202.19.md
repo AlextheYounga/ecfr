@@ -1,6 +1,6 @@
 ##### § 202.19 Deposit of published copies or phonorecords for the Library of Congress. #####
 
-Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment published at 83 FR 4147, January 30, 2018.
+Link to an amendment published at 83 FR 4147, January 30, 2018.
 
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published works for the Library of Congress under section 407 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for purposes of copyright registration under section 408 of title 17, except as expressly adopted in § 202.20.
 
@@ -35,6 +35,8 @@ Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment
 (3) The terms *architectural works*, *copies*, *collective work*, *device*, *fixed*, *literary work*, *machine*, *motion picture, phonorecord*, *publication*, *sound recording*, *useful article*, and their variant forms, have the meanings given to them in 17 U.S.C. 101.
 
 (4) For purposes of paragraph (c)(5) of this section, an *electronic serial* is an electronic work published in the United States and available only online, issued or intended to be issued on an established schedule in successive parts bearing numerical or chronological designations, without subsequent alterations, and intended to be continued indefinitely. This class includes periodicals, newspapers, annuals, and the journals, proceedings, transactions, and other publications of societies.
+
+(5) The term *literary monograph* means a literary work published in one volume or a finite number of volumes. This category does not include serials, nor does it include legal publications that are published in one volume or a finite number of volumes that contain legislative enactments, judicial decisions, or other edicts of government.
 
 (c) *Exemptions from deposit requirements.* The following categories of material are exempt from the deposit requirements of section 407(a) of title 17:
 
@@ -90,7 +92,7 @@ Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment
 
 (B) The work has been published and sold or offered for sale in a limited edition consisting of no more than three hundred numbered copies, the deposit of one complete copy of the best edition of the work or, alternatively, the deposit of photographs or other identifying material in compliance with § 202.21, will suffice in lieu of the two copies required by paragraph (d)(1) of this section.
 
-(v) In the case of a musical composition published in copies only, or in both copies and phonorecords, if the only publication of copies in the United States took place by rental, lease, or lending, the deposit of one complete copy of the best edition will suffice in lieu of the two copies required by paragraph (d)(1) of this section.
+(v) In the case of a musical composition published solely in copies, or in both copies and phonorecords, the deposit of one complete copy of the best edition will suffice in lieu of the two copies required by paragraph (d)(1) of this section.
 
 (vi) In the case of published multimedia kits that include literary works, audiovisual works, sound recordings, or any combination of such works, the deposit of one complete copy of the best edition will suffice in lieu of the two copies required by paragraph (d)(1) of this section.
 
@@ -105,6 +107,8 @@ Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment
 (C) Positive photostat or photodirect positive;
 
 (D) Blue line copies (diazo or ozalid process). If photographs are submitted, they should be 8 × 10 inches and should clearly show several exterior and interior views. The deposit should disclose the name(s) of the architect(s) and draftsperson(s) and the building site.
+
+(ix) In the case of published literary monographs, the deposit of one complete copy of the best edition of the work will suffice in lieu of the two copies required by paragraph (d)(1) of this section, unless the Copyright Office issues a demand for a second copy pursuant to 17 U.S.C. 407(d).
 
 (e) *Special relief.* (1) In the case of any published work not exempt from deposit under paragraph (c) of this section, the Register of Copyrights may, after consultation with other appropriate officials of the Library of Congress and upon such conditions as the Register may determine after such consultation:
 
@@ -128,4 +132,4 @@ Link to an amendment published at 83 FR 2372, Jan. 17, 2018.Link to an amendment
 
 (3) Upon request by the depositor made at the time of the deposit, the Copyright Office will issue a certificate of receipt for the deposit of copies or phonorecords of a work under this section. Certificates of receipt will be issued in response to requests made after the date of deposit only if the requesting party is identified in the records of the Copyright Office as having made the deposit. In either case, requests for a certificate of receipt must be in writing and accompanied by the appropriate fee, as required in § 201.3(c). A certificate of receipt will include identification of the depositor, the work deposited, and the nature and format of the copy or phonorecord deposited, together with the date of receipt.
 
-[51 FR 6403, Feb. 24, 1986, as amended at 54 FR 42299, Oct. 16, 1989; 56 FR 47403, Sept. 19, 1991; 56 FR 59885, Nov. 26, 1991; 57 FR 45310, Oct. 1, 1992; 60 FR 34168, June 30, 1995; 64 FR 29522, June 1, 1999; 64 FR 62978, Nov. 18, 1999; 66 FR 34373, June 28, 2001; 73 FR 37839, July 2, 2008; 75 FR 3869, Jan. 25, 2010; 82 FR 9360, Feb. 6, 2017]
+[51 FR 6403, Feb. 24, 1986, as amended at 54 FR 42299, Oct. 16, 1989; 56 FR 47403, Sept. 19, 1991; 56 FR 59885, Nov. 26, 1991; 57 FR 45310, Oct. 1, 1992; 60 FR 34168, June 30, 1995; 64 FR 29522, June 1, 1999; 64 FR 62978, Nov. 18, 1999; 66 FR 34373, June 28, 2001; 73 FR 37839, July 2, 2008; 75 FR 3869, Jan. 25, 2010; 82 FR 9360, Feb. 6, 2017; 83 FR 2372, Jan. 17, 2018]

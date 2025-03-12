@@ -48,7 +48,7 @@ This License Exception authorizes exports and reexports for international nuclea
 
 (*4*) The items being exported, reexported, or transferred (in-country) are not controlled for Chemical Weapons Convention (CW) or proliferation of chemical and biological weapons (CB) reasons;
 
-(C) This paragraph authorizes the 'temporary' export, reexport, or transfer (in-country) of an item in support of any foreign assistance or sales program authorized by law and subject to the control of the President by other means, when
+(C) This paragraph authorizes the 'temporary' export, reexport, or transfer (in-country) of an item in support of any foreign assistance or sales program authorized by law and subject to the control of the President by other means, when:
 
 (*1*) The item is provided pursuant to a contract between the exporter, reexporter, or transferor and a department or agency of the U.S. Government; and
 
