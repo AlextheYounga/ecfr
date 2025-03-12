@@ -1,5 +1,7 @@
 ##### § 1300.01 Definitions relating to controlled substances. #####
 
+Link to an amendment published at 86 FR 33883, June 28, 2021.
+
 (a) Any term not defined in this part shall have the definition set forth in section 102 of the Act (21 U.S.C. 802), except that certain terms used in part 1316 of this chapter are defined at the beginning of each subpart of that part.
 
 (b) As used in parts 1301 through 1308, 1312, and 1317 of this chapter, the following terms shall have the meanings specified:

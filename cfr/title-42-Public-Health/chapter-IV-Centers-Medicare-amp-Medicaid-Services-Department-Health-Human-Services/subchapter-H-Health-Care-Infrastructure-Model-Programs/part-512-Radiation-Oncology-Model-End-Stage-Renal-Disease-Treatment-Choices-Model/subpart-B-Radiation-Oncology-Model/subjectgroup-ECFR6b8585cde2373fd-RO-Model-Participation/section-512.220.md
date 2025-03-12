@@ -1,7 +1,5 @@
 ##### § 512.220 RO participant compliance with RO Model requirements. #####
 
-Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
-
 (a) *RO participant-specific requirements.* (1) RO participants must satisfy the requirements of this section to qualify for the APM Incentive Payment.
 
 (2) Each Professional participant and Dual participant must ensure its individual practitioners:
@@ -32,6 +30,6 @@ Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
 
 (3) Starting in PY1, at such times and in the form and manner specified by CMS, each Technical participant and Dual participant must annually attest to whether it actively participates with a AHRQ-listed patient safety organization (PSO). Examples include maintaining a contractual or similar relationship with a PSO for the receipt and review of patient safety work product.
 
-(b) *CEHRT.* (1) Each RO participant must use CEHRT, and ensure that its individual practitioners use CEHRT, in a manner sufficient to meet the applicable requirements of the Advanced APM criteria codified in § 414.1415(a)(1)(i) of this chapter. Before each PY, each RO participant must certify in the form and manner, and by a deadline specified by CMS, that it uses CEHRT throughout such PY in a manner sufficient to meet the requirements set forth in § 414.1415(a)(1)(i) of this chapter.
+(b) *CEHRT.* Each RO participant must use CEHRT, and ensure that its individual practitioners use CEHRT, in a manner sufficient to meet the applicable requirements of the Advanced APM criteria codified in § 414.1415(a)(1)(i) of this chapter. Within 30 days of the start of PY2 and each subsequent PY, each RO participant must certify in the form and manner, and by a deadline specified by CMS, that it uses CEHRT throughout such PY in a manner sufficient to meet the requirements set forth in § 414.1415(a)(1)(i) of this chapter.
 
-(2) Within 30 days of the start of PY1, the RO participant must certify its intent to use CEHRT throughout PY1 in a manner sufficient to meet the requirements set forth in § 414.1415(a)(1)(i) of this chapter.
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Effective Date Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

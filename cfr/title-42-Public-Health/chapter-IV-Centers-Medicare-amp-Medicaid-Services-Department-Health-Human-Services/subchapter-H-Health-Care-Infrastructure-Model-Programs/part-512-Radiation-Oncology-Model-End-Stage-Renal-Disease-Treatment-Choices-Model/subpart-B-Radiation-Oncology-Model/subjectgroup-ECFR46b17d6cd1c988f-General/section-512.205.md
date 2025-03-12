@@ -1,7 +1,5 @@
 ##### § 512.205 Definitions. #####
 
-Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
-
 For purposes of this subpart, the following definitions apply:
 
 *Aggregate quality score (AQS)* means the numeric score calculated for each RO participant based on its performance on, and reporting of, quality measures and clinical data. The AQS is used to determine an RO participant's quality reconciliation payment amount.
@@ -60,7 +58,7 @@ For purposes of this subpart, the following definitions apply:
 
 *MIPS* means Merit based Incentive Payment System.
 
-*Model performance period* means, January 1, 2021, through December 31, 2025, the last date on which an RO episode may end under the RO Model. No new RO episodes may begin after October 3, 2025, in order for all RO episodes to end by December 31, 2025.
+*Model performance period* means July 1, 2021, through December 31, 2025, the last date on which an RO episode may end under the RO Model. No new RO episodes may begin after October 3, 2025, in order for all RO episodes to end by December 31, 2025.
 
 *National base rate* means the total payment amount for the relevant component of an RO episode, before application of the trend factor, discount factor, adjustments, and applicable withholds, for each of the included cancer types.
 
@@ -72,7 +70,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Participant-specific technical episode payment* means a payment which is calculated by CMS as set forth in § 512.255 and which is paid by CMS to a Technical participant or Dual participant in accordance with § 512.265, for the provision of the technical component to an RO beneficiary during an RO episode.
 
-*Performance year (PY)* means the 12-month period beginning on January 1 and ending on December 31 of each year during the Model performance period.
+*Performance year (PY)* means the 6-month period beginning on July 1, 2021, and ending on December 31, 2021, and the 12-month period beginning on January 1 and ending on December 31 of each subsequent year (2022 through 2025) during the Model performance period.
 
 *PGP* means physician group practice.
 
@@ -121,3 +119,5 @@ For purposes of this subpart, the following definitions apply:
 *Trend factor* means an adjustment applied to the national base rates that updates those rates to reflect current trends in the OPPS and PFS rates for RT services.
 
 *True-up reconciliation* means the process to calculate additional reconciliation payments or repayment amounts for incomplete episodes and duplicate RT services that are identified after the initial reconciliation and after a 12-month claims run-out for all RO episodes initiated in the applicable PY.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Effective Date Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

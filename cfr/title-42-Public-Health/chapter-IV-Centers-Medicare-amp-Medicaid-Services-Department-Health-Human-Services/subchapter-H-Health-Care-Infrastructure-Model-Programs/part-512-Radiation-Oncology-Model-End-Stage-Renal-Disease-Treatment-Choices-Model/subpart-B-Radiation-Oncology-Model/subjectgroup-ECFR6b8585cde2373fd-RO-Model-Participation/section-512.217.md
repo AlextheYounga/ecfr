@@ -1,7 +1,5 @@
 ##### § 512.217 Identification of individual practitioners. #####
 
-Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
-
 (a) *General.* Upon the start of each PY, CMS creates and provides to each Dual participant and Professional participant an individual practitioner list identifying by NPI each individual practitioner associated with the RO participant.
 
 (b) *Review of individual practitioner list.* Within 30 days of receipt of the individual practitioner list, the RO participant must review and certify the individual practitioner list, correct any inaccuracies in accordance with paragraph (d) of this section, and certify the list (as corrected, if applicable) in a form and manner specified by CMS and in accordance with paragraph (c) of this section or correct the individual practitioner list in accordance with paragraph (d) of this section.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
 
 (2) All Medicare-enrolled individual practitioners that have reassigned their right to receive Medicare payment for provision of RT services to the TIN of the RO participant must be included on the RO participant's individual practitioner list and each individual practitioner must agree to comply with the requirements of the RO Model before the RO participant certifies the individual practitioner list.
 
-(3) If the RO participant does not certify the individual practitioner list:
+(3) If the RO participant does not certify the individual practitioner list in PY2 through PY5:
 
 (i) Eligible clinicians in the RO Model will not be considered participants in a MIPS APM for purposes of MIPS reporting and scoring rules; and
 
@@ -27,3 +25,5 @@ Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
 (ii) The removal of an individual practitioner from the RO participant's individual practitioner list is effective on the date specified in the notice furnished to CMS. If the RO participant fails to submit a timely notice of the removal, then the removal is effective on the date that the individual ceases to be an individual practitioner.
 
 (e) *Update to Medicare enrollment information.* The RO participant must ensure that all changes to enrollment information for an RO participant and its individual practitioners, including changes to reassignment of the right to receive Medicare payment, are reported to CMS consistent with § 424.516 of this chapter.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Effective Date Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

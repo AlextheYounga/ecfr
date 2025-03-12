@@ -1,7 +1,5 @@
 ##### § 512.285 Reconciliation process. #####
 
-Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
-
 (a) *General.* CMS conducts an initial reconciliation and a true-up reconciliation for each RO participant for each PY in accordance with this section.
 
 (b) *Annual reconciliation calculations.* (1) To determine the reconciliation payment or the repayment amount based on RO episodes initiated in a PY, CMS performs the following steps:
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
 
 (5) *Incorrect episode payment reconciliation amount.* If the total incorrect episode payment amount represents money owed by the RO participant to CMS, CMS subtracts the total incorrect episode payment amount from the total incorrect payment withhold amount. In the case that the total incorrect episode payment amount represents money owed by CMS to the RO participant, CMS adds the total incorrect episode payment amount to the total incorrect payment withhold amount. The resulting amount is the RO participant's incorrect episode payment reconciliation amount.
 
-(d) *Quality reconciliation payment amount.* For Professional participants and Dual participants, CMS determines the quality reconciliation payment amount for each PY by multiplying the participant's AQS (as a percentage) by the total quality withhold amount for all RO episodes initiated during the PY.
+(d) *Quality reconciliation payment amount.* For Professional participants and Dual participants, CMS determines the quality reconciliation payment amount for PY2 through PY5 by multiplying the participant's AQS (as a percentage) by the total quality withhold amount for all RO episodes initiated during the PY. There is no quality reconciliation payment amount for PY1.
 
 (e) *Patient experience reconciliation amount.* For PY3 and subsequent PYs, CMS determines the patient experience reconciliation amount for RO participants by multiplying the participant's AQS (as a percentage) by the total patient experience withhold amount for all RO episodes initiated during the PY.
 
@@ -69,3 +67,5 @@ Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
 (2) The RO participant must pay a repayment amount to CMS in the amount specified in the reconciliation report by a deadline specified by CMS. If the RO participant fails to timely pay the full repayment amount, CMS recoups the repayment amount from any payments otherwise owed by CMS to the RO participant, including Medicare payments for items and services unrelated to the RO Model.
 
 (3) No coinsurance is owed by an RO beneficiary with respect to any repayment amount or reconciliation payment.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86305, Dec. 29, 2020]Effective Date Note:At 85 FR 86305, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

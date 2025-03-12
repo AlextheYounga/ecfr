@@ -1,7 +1,5 @@
 ##### § 512.255 Determination of participant-specific professional episode payment and participant-specific technical episode payment amounts. #####
 
-Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
-
 (a) Thirty days before the start of each PY, CMS provides each RO participant its case mix and historical experience adjustments for both the PC and TC as calculated in paragraphs (c)(3) and (4) of this section. If an RO participant is not eligible to receive a historical experience adjustment or case mix adjustment as described under paragraph (c)(7) of this section, then CMS provides a zero value for those adjustments.
 
 (b) Any episode used to calculate the participant-specific professional episode payment amounts and the participant-specific technical episode payment amounts for an RO participant is subject to the exclusions described in § 512.250(b)(1) and (2).
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
 
 (ii) CMS determines during the annual reconciliation process set forth at § 512.285 whether an RO participant is eligible to receive a portion or all of the withheld amount or whether any payment is owed to CMS.
 
-(10) *Quality withhold.* In accordance with § 414.1415(b)(1) of this chapter, CMS withholds 2 percent from each professional episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, and discount factor to the national base rate. RO participants may earn back this withhold, in part or in full, based on their AQS.
+(10) *Quality withhold.* In accordance with § 414.1415(b)(1) of this chapter, CMS withholds 2 percent from each professional episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, and discount factor to the national base rate starting in PY2. RO participants may earn back this withhold, in part or in full, based on their AQS.
 
 (11) *Patient experience withhold.* Starting in PY3,
 
@@ -65,3 +63,5 @@ Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
 (v) In the case of duplicate RT services, the beneficiary coinsurance payment equals 20 percent of the episode payment amount to be paid to the RO participant(s) per § 512.255(c)(12)(iii) and 20 percent of the FFS amount to the RT provider and/or RT supplier furnishing one or more duplicate RT services.
 
 (13) *Sequestration.* CMS deducts 2 percent from each episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, discount, withholds, and coinsurance to the national base rate.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86305, Dec. 29, 2020]Effective Date Note:At 85 FR 86305, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

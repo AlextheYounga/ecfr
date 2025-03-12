@@ -1,5 +1,7 @@
 ##### § 1304.24 Records for maintenance treatment programs and detoxification treatment programs. #####
 
+Link to an amendment published at 86 FR 33885, June 28, 2021.
+
 (a) Each person registered or authorized (by § 1301.22 of this chapter) to maintain and/or detoxify controlled substance users in a narcotic treatment program shall maintain records with the following information for each narcotic controlled substance:
 
 (1) Name of substance;

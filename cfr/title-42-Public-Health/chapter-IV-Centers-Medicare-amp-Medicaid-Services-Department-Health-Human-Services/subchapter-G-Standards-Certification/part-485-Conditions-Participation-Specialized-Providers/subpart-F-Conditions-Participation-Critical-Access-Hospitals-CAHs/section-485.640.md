@@ -1,7 +1,5 @@
 ##### § 485.640 Condition of participation: Infection prevention and control and antibiotic stewardship programs. #####
 
-Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
-
 The CAH must have active facility-wide programs, for the surveillance, prevention, and control of HAIs and other infectious diseases and for the optimization of antibiotic use through stewardship. The programs must demonstrate adherence to nationally recognized infection prevention and control guidelines, as well as to best practices for improving antibiotic use where applicable, and for reducing the development and transmission of HAIs and antibiotic-resistant organisms. Infection prevention and control problems and antibiotic use issues identified in the programs must be addressed in coordination with the facility-wide quality assessment and performance improvement (QAPI) program.
 
 (a) *Standard: Infection prevention and control program organization and policies.* The CAH must demonstrate that:
@@ -60,6 +58,12 @@ The CAH must have active facility-wide programs, for the surveillance, preventio
 
 (iv) Competency-based training and education of CAH personnel and staff, including medical staff, and, as applicable, personnel providing contracted services in the CAHs, on the practical applications of antibiotic stewardship guidelines, policies, and procedures.
 
-(d) *COVID-19 Reporting.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary.
+(d) *COVID-19 reporting.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary. This report must include, but not be limited to, the following data elements:
 
-[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020]
+(1) The CAH's current inventory supplies of any COVID-19-related therapeutics that have been distributed and delivered to the CAH under the authority and direction of the Secretary; and
+
+(2) The CAH's current usage rate for any COVID-19-related therapeutics that have been distributed and delivered to the CAH under the authority and direction of the Secretary.
+
+(e) *Standard: Reporting of Acute Respiratory Illness, including Seasonal Influenza Virus, Influenza-like Illness, and Severe Acute Respiratory Infection.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information, in accordance with a frequency as specified by the Secretary, on Acute Respiratory Illness (including, but not limited to, Seasonal Influenza Virus, Influenza-like Illness, and Severe Acute Respiratory Infection) in a standardized format specified by the Secretary.
+
+[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020; 85 FR 86304, Dec. 29, 2020]Effective Date Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

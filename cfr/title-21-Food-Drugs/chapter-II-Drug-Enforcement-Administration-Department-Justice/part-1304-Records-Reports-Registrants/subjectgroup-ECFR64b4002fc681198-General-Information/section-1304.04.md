@@ -1,5 +1,7 @@
 ##### § 1304.04 Maintenance of records and inventories. #####
 
+Link to an amendment published at 86 FR 33885, June 28, 2021.
+
 (a) Except as provided in paragraphs (a)(1) and (a)(2) of this section, every inventory and other records required to be kept under this part must be kept by the registrant and be available, for at least 2 years from the date of such inventory or records, for inspection and copying by authorized employees of the Administration.
 
 (1) Financial and shipping records (such as invoices and packing slips but not executed order forms subject to §§ 1305.17 and 1305.27 of this chapter) may be kept at a central location, rather than at the registered location, if the registrant has notified the Administration of his intention to keep central records. Written notification must be submitted by registered or certified mail, return receipt requested, in triplicate, to the Special Agent in Charge of the Administration in the area in which the registrant is located. Unless the registrant is informed by the Special Agent in Charge that permission to keep central records is denied, the registrant may maintain central records commencing 14 days after receipt of his notification by the Special Agent in Charge. All notifications must include the following:

@@ -1,7 +1,7 @@
 ##### § 157.22 Schedule for final decisions on a request for a Federal authorization. #####
 
-Link to an amendment published at 86 FR 16302, Mar. 29, 2021.
+(a) For an application under section 3 or 7 of the Natural Gas Act that requires a Federal authorization—*i.e.,* a permit, special use authorization, certification, opinion, or other approval—from a Federal agency or officer, or State agency or officer acting pursuant to delegated Federal authority, a final decision on a request for a Federal authorization is due no later than 90 days after the Commission issues its final environmental document, unless a schedule is otherwise established by Federal law.
 
-For an application under section 3 or 7 of the Natural Gas Act that requires a Federal authorization - *i.e.*, a permit, special use authorization, certification, opinion, or other approval - from a Federal agency or officer, or State agency or officer acting pursuant to delegated Federal authority, a final decision on a request for a Federal authorization is due no later than 90 days after the Commission issues its final environmental document, unless a schedule is otherwise established by Federal law.
+(b) For requests for a water quality certification submitted pursuant to section 401(a)(1) of the Federal Water Pollution Control Act (Clean Water Act) in connection with a project for which authorization is sought from the Commission under section 3 or 7 of the Natural Gas Act, the reasonable period of time during which the certifying agency may act on the water quality certification request is one year from the certifying agency's receipt of the request. A certifying agency is deemed to have waived the certification requirements of section 401(a)(1) of the Clean Water Act if the certifying agency has not denied or granted certification by one year after the date the certifying agency received a written request for certification.
 
-[Order 687, 71 FR 62921, Oct. 27, 2006]
+[86 FR 16302, Mar. 29, 2021]

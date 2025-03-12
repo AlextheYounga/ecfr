@@ -1,5 +1,7 @@
 ##### § 1301.72 Physical security controls for non-practitioners; narcotic treatment programs and compounders for narcotic treatment programs; storage areas. #####
 
+Link to an amendment published at 86 FR 33884, June 28, 2021.
+
 (a) *Schedules I and II.* Raw material, bulk materials awaiting further processing, finished products which are controlled substances listed in Schedule I or II (except GHB that is manufactured or distributed in accordance with an exemption under section 505(i) of the Federal Food Drug and Cosmetic Act which shall be subject to the requirements of paragraph (b) of this section), and sealed mail-back packages and inner liners acquired in accordance with part 1317 of this chapter, shall be stored in one of the following secured areas:
 
 (1) Where small quantities permit, a safe or steel cabinet;

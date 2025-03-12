@@ -2,17 +2,16 @@
 
 (a) Except as provided elsewhere in this subpart, the emissions from an intentional radiator shall not exceed the field strength levels specified in the following table:
 
-|Frequency (MHz)|Field strength (microvolts/meter)|Measurement distance (meters)|
-|---------------|---------------------------------|-----------------------------|
-|  0.009-0.490  |           2400/F(kHz)           |             300             |
-|  0.490-1.705  |          24000/F(kHz)           |             30              |
-|  1.705-30.0   |               30                |             30              |
-|     30-88     |            100 \*\*             |              3              |
-|    88-216     |            150 \*\*             |              3              |
-|    216-960    |            200 \*\*             |              3              |
-|   Above 960   |               500               |              3              |
-
-\*\* Except as provided in paragraph (g), fundamental emissions from intentional radiators operating under this section shall not be located in the frequency bands 54-72 MHz, 76-88 MHz, 174-216 MHz or 470-806 MHz. However, operation within these frequency bands is permItted under other sections of this part, e.g., §§ 15.231 and 15.241.
+|                                                                                                                                                                 Frequency (MHz)                                                                                                                                                                 |Field strength (microvolts/meter)|Measurement distance (meters)|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------------------|
+|                                                                                                                                                                   0.009-0.490                                                                                                                                                                   |           2400/F(kHz)           |             300             |
+|                                                                                                                                                                   0.490-1.705                                                                                                                                                                   |          24000/F(kHz)           |             30              |
+|                                                                                                                                                                   1.705-30.0                                                                                                                                                                    |               30                |             30              |
+|                                                                                                                                                                      30-88                                                                                                                                                                      |            100 \*\*             |              3              |
+|                                                                                                                                                                     88-216                                                                                                                                                                      |            150 \*\*             |              3              |
+|                                                                                                                                                                     216-960                                                                                                                                                                     |            200 \*\*             |              3              |
+|                                                                                                                                                                    Above 960                                                                                                                                                                    |               500               |              3              |
+|\*\* Except as provided in paragraph (g), fundamental emissions from intentional radiators operating under this section shall not be located in the frequency bands 54-72 MHz, 76-88 MHz, 174-216 MHz or 470-806 MHz. However, operation within these frequency bands is permitted under other sections of this part, e.g., §§ 15.231 and 15.241.|                                 |                             |
 
 (b) In the emission table above, the tighter limit applies at the band edges.
 
