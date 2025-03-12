@@ -74,7 +74,7 @@
 
 (Authority: 38 U.S.C. 5503(a))
 
-(i) *Certain veterans and surviving spouses receiving Medicaid-covered nursing home care.* Effective November 5, 1990, and terminating on September 30, 2011, if a veteran having neither spouse nor child, or a surviving spouse having no child, is receiving Medicaid-covered nursing home care, no pension or death pension in excess of $90 per month shall be paid to or for the veteran or the surviving spouse for any period after the month in which the Medicaid payments begin. A veteran or surviving spouse is not liable for any pension paid in excess of the $90 per month by reason of the Secretary's inability or failure to reduce payments, unless that inability or failure is the result of willful concealment by the veteran or surviving spouse of information necessary to make that reduction.
+(i) *Certain beneficiaries receiving Medicaid-covered nursing home care.* This paragraph (i) applies to a veteran without a spouse or child, to a surviving spouse without a child, and to a surviving child. Effective November 5, 1990, and terminating on the date provided in 38 U.S.C. 5503(d)(7), if such a beneficiary is receiving Medicaid-covered nursing home care, no pension or survivors pension in excess of $90 per month will be paid to or for the beneficiary for any period after the month in which the Medicaid payments begin. A beneficiary is not liable for any pension paid in excess of the $90 per month by reason of the Secretary's inability or failure to reduce payments, unless that inability or failure is the result of willful concealment, by the beneficiary, of information necessary to make that reduction.
 
 (Authority: 38 U.S.C. 5503)Cross References:
 

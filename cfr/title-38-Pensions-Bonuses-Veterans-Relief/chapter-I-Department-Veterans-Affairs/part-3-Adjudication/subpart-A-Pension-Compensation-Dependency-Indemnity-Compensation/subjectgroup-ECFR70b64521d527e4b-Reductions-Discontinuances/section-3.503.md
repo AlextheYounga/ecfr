@@ -10,7 +10,7 @@
 
 (Authority: 38 U.S.C. 501)
 
-(3) *Permanently incapable of selfsupport (38 U.S.C. 5112(a), (b)(6); Pub. L. 87-825; §§ 3.57, 3.950)* - (i) *Pension.* Date of last payment.
+(3) *Permanently incapable of selfsupport (38 U.S.C. 5112(a), (b)(6); Pub. L. 87-825; §§ 3.57, 3.950)*—(i) *Pension.* Date of last payment.
 
 (ii) *Compensation or dependency and indemnity compensation.* Last day of month following 60 days after notice to payee.
 
@@ -32,4 +32,8 @@
 
 (b) *Monetary allowance under 38 U.S.C. chapter 18 for certain individuals who are children of Vietnam veterans or children of veterans with covered service in Korea.* The effective date of discontinuance of the monthly allowance under 38 U.S.C. chapter 18 will be the last day of the month before the month in which the death of the individual occurred.
 
-(Authority: 38 U.S.C. 501, 1832, 5112(b))[26 FR 1597, Feb. 24, 1961, as amended at 27 FR 11890, Dec. 1, 1962; 30 FR 14983, Dec. 3, 1965; 34 FR 839, Jan. 18, 1969; 38 FR 872, Jan. 5, 1973; 41 FR 55875, Dec. 23, 1976; 53 FR 23237, June 21, 1988; 62 FR 51279, Sept. 30, 1997; 67 FR 49587, July 31, 2002; 76 FR 4248, Jan. 25, 2011]
+(c) *Medicaid-covered nursing home care (§ 3.551(i)).* (1) Last day of the calendar month in which Medicaid payments begin, last day of the month following 60 days after issuance of a prereduction notice required under § 3.103(b)(2), or the earliest date on which payment may be reduced without creating an overpayment, whichever date is later; or
+
+(2) If the child or the child's custodian willfully conceals information necessary to make the reduction, the last day of the month in which that willful concealment occurred.
+
+(Authority: 38 U.S.C. 501, 1832, 5112(b))[26 FR 1597, Feb. 24, 1961, as amended at 27 FR 11890, Dec. 1, 1962; 30 FR 14983, Dec. 3, 1965; 34 FR 839, Jan. 18, 1969; 38 FR 872, Jan. 5, 1973; 41 FR 55875, Dec. 23, 1976; 53 FR 23237, June 21, 1988; 62 FR 51279, Sept. 30, 1997; 67 FR 49587, July 31, 2002; 76 FR 4248, Jan. 25, 2011; 83 FR 47275, Sept. 18, 2018]

@@ -1,5 +1,7 @@
 ##### § 3.262 Evaluation of income. #####
 
+Link to an amendment published at 83 FR 47268, Sept. 18, 2018.
+
 (a) *Total income.* All income from sources such as wages, salaries, earnings, bonuses from employers, income from a business or profession or from investments or rents as well as the fair value of personal services, goods or room and board received in lieu thereof will be included.
 
 (1) Salary is not determined by “takehome” pay, but includes deductions made under a retirement act or plan and amounts withheld by virtue of income tax laws.

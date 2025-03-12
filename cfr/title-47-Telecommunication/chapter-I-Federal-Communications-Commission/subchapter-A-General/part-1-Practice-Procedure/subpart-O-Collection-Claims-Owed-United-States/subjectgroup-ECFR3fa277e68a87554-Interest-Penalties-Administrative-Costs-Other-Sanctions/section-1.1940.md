@@ -1,5 +1,7 @@
 ##### § 1.1940 Assessment. #####
 
+Link to an amendment published at 83 FR 47097, September 18, 2018.
+
 (a) Except as provided in paragraphs (g), (h), and (i) of this section or § 1.1941, the Commission shall charge interest, penalties, and administrative costs on debts owed to the United States pursuant to 31 U.S.C. 3717. The Commission will mail, hand-deliver, or use other forms of transmission, including facsimile telecopier service, a written notice to the debtor, at the debtor's CORES contact address (see section 1.8002(b)) explaining the Commission's requirements concerning these charges except where these requirements are included in a contractual or repayment agreement, or otherwise provided in the Commission's rules, as may be amended from time to time. These charges shall continue to accrue until the debt is paid in full or otherwise resolved through compromise, termination, or waiver of the charges. This provision is not intended to modify or limit the terms of any contract, note, or security agreement from the debtor, or to modify or limit the Commission's rights under its rules with regard to the notice or the parties' agreement to waive notice.
 
 (b) The Commission shall charge interest on debts owed the United States as follows:

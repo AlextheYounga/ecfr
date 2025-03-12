@@ -1,5 +1,7 @@
 ##### § 2.4 Weapons, traps and nets. #####
 
+Link to an amendment published at 83 FR 47073, September 18, 2018.
+
 (a) None of the provisions in this section or any regulation in this chapter may be enforced to prohibit an individual from possessing a firearm, including an assembled or functional firearm, in any National Park System unit if:
 
 (1) The individual is not otherwise prohibited by law from possessing the firearm; and

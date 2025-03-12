@@ -18,7 +18,7 @@
 
 (c) *Eligibility verification reports.* (1) For purposes of this section the term eligibility verification report means a form prescribed by the Secretary that is used to request income, net worth, dependency status, and any other information necessary to determine or verify entitlement to pension.
 
-(2) The Secretary shall require an eligibility verification report under the following circumstances:
+(2) The Secretary may require an eligibility verification report under the following circumstances:
 
 (i) If the Social Security Administration has not verified the beneficiary's Social Security number and, if the beneficiary is married, his or her spouse's Social Security number;
 
@@ -30,4 +30,4 @@
 
 (d) If VA requests that a claimant or beneficiary submit an eligibility verification report but he or she fails to do so within 60 days of the date of the VA request, the Secretary shall suspend the award or disallow the claim.
 
-(Authority: 38 U.S.C. 1506)(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0101 and 2900-0624)[44 FR 45936, Aug. 6, 1979, as amended at 60 FR 51922, Oct. 4, 1995; 65 FR 16827, Mar. 30, 2000; 66 FR 56614, Nov. 9, 2001]
+(Authority: 38 U.S.C. 1506)(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0101 and 2900-0624)[44 FR 45936, Aug. 6, 1979, as amended at 60 FR 51922, Oct. 4, 1995; 65 FR 16827, Mar. 30, 2000; 66 FR 56614, Nov. 9, 2001; 83 FR 47272, Sept. 18, 2018]

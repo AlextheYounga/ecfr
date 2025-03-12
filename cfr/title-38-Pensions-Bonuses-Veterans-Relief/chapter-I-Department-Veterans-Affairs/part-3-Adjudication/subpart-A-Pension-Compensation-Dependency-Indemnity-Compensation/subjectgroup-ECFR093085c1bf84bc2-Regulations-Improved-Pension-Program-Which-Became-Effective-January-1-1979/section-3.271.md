@@ -38,4 +38,6 @@
 
 (h) *Fractions of dollars.* Fractions of dollars will be disregarded in computing annual income.
 
-[44 FR 45936, Aug. 6, 1979, as amended at 53 FR 23235, June 21, 1988; 57 FR 59299, Dec. 15, 1992]
+(i) *Waiver of receipt of income.* Potential income that is not excludable under § 3.272 or § 3.279 but is waived by an individual is included as countable income of the individual. However, if an individual withdraws a claim for Social Security benefits, after a finding of entitlement to those benefits, in order to maintain eligibility for unreduced Social Security benefits upon reaching a particular age, VA will not regard this potential income as having been waived and will therefore not count it.
+
+(Authority: 38 U.S.C. 1503 (a)).[44 FR 45936, Aug. 6, 1979, as amended at 53 FR 23235, June 21, 1988; 57 FR 59299, Dec. 15, 1992; 83 FR 47269, Sept. 18, 2018]

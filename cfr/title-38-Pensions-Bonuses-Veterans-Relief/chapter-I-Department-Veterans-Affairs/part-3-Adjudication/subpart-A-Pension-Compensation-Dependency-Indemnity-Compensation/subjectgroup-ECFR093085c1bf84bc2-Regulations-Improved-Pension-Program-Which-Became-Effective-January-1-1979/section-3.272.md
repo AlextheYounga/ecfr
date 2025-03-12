@@ -28,7 +28,7 @@ The following shall be excluded from countable income for the purpose of determi
 
 (Authority: 38 U.S.C. 1503(a)(7))
 
-(g) *Medical expenses.* Within the provisions of the following paragraphs, there will be excluded from the amount of an individual's annual income any unreimbursed amounts which have been paid within the 12-month annualization period for medical expenses regardless of when the indebtedness was incurred. An estimate based on a clear and reasonable expectation that unusual medical expenditure will be realized may be accepted for the purpose of authorizing prospective payments of benefits subject to necessary adjustment in the award upon receipt of an amended estimate, or after the end of the 12-month annualization period upon receipt of an eligibility verification report.
+(g) *Medical expenses.* Within the provisions of the following paragraphs, there will be excluded from the amount of an individual's annual income any unreimbursed amounts which have been paid within the 12-month annualization period for medical expenses regardless of when the indebtedness was incurred. An estimate based on a clear and reasonable expectation that unusual medical expenditure will be realized may be accepted for the purpose of authorizing prospective payments of benefits subject to necessary adjustment in the award upon receipt of an amended estimate, or after the end of the 12-month annualization period upon receipt of an eligibility verification report. For the definition of what constitutes a medical expense, see § 3.278, Deductible medical expenses.
 
 (Authority: 38 U.S.C. 501)
 
@@ -84,15 +84,9 @@ The following shall be excluded from countable income for the purpose of determi
 
 (Authority: 38 U.S.C. 1503(a)(10))
 
-(k) *Domestic Volunteer Service Act Programs.* Payments received under a Domestic Volunteer Service Act (DVSA) Program (including Volunteers in Service to America (VISTA), University Year for ACTION (UYA), Foster Grandparent Program (FGP), Retired Senior Volunteer Program (RSVP), Senior Companion Program) shall be excluded as provided in paragraphs (k)(1) and (2) of this section:
+(k) *Veterans' benefits from States and municipalities.* VA will exclude from income payments from a State or municipality to a veteran of a monetary benefit that is paid as a veterans' benefit due to injury or disease. VA will exclude up to $5,000 of such benefit in any annualization period.
 
-(1) All DVSA payments received before December 13, 1979, shall be excluded from determining entitlement to improved pension.
-
-(Authority: 42 U.S.C. 5044(g) (1973))
-
-(2) DVSA payments received after December 12, 1979, shall be excluded from determining entitlement to improved pension unless the Director of the ACTION Agency has determined that the value of all DVSA payments, adjusted to reflect the number of hours served by the volunteer, equals or exceeds the minimum wage then in effect under the Fair Labor Standards Act of 1938 or the minimum wage of the State where the volunteer served, whichever is the greater.
-
-(Authority: 42 U.S.C. 5044(g) (1979))
+(Authority: 38 U.S.C. 1503(a)(11))
 
 (l) *Distributions of funds under 38 U.S.C. 1718.* Distributions from the Department of Veterans Affairs Special Therapeutic and Rehabilitation Activities Fund as a result of participation in a therapeutic or rehabilitation activity under 38 U.S.C. 1718 and payments from participation in a program of rehabilitative services provided as part of the care furnished by a State home and which is approved by VA as conforming to standards for activities under 38 U.S.C. 1718 shall be considered donations from a public or private relief or welfare organization and shall not be countable as income for pension purposes.
 
@@ -106,42 +100,26 @@ The following shall be excluded from countable income for the purpose of determi
 
 (Authority: Sec. 653, Pub. L. 100-456; 102 Stat. 1991)
 
-(o) *Agent Orange settlement payments.* Payments received by any person in settlement of the case of In re Agent Orange product liability litigation in the United States District Court for the Eastern District of New York (M.D.L. No. 381). (January 1, 1989)
-
-(Authority: Pub. L. 101-201, 103 Stat. 1795)
-
-(p) *Restitution to individuals of Japanese ancestry.* Any payment made as restitution under Public Law 100-383 to individuals of Japanese ancestry who were interned, evacuated, or relocated during the period December 7, 1941, through June 30, 1946, pursuant to any law, Executive order, Presidential proclamation, directive, or other official action respecting these individuals. (August 10, 1988)
-
-(Authority: Sec. 105, Pub. L. 100-383; 102 Stat. 905)
-
-(q) *Cash surrender value of life insurance.* That portion of proceeds from the cash surrender of a life insurance policy which represents a return of insurance premiums.
+(o) *Cash surrender value of life insurance.* That portion of proceeds from the cash surrender of a life insurance policy which represents a return of insurance premiums.
 
 (Authority: 38 U.S.C. 501(a))
 
-(r) *Income received by American Indian beneficiaries from trust or restricted lands.* Income of up to $2,000 per calendar year to an individual Indian from trust lands or restricted lands as defined in 25 CFR 151.2. (January 1, 1994)
-
-(Authority: Sec. 13736, Pub. L. 103-66; 107 Stat 633)
-
-(s) *Radiation Exposure Compensation Act.* Any payment made under Section 6 of the Radiation Exposure Compensation Act of 1990.
+(p) *Radiation Exposure Compensation Act.* Any payment made under Section 6 of the Radiation Exposure Compensation Act of 1990.
 
 (Authority: 42 U.S.C. 2210 note)
 
-(t) *Alaska Native Claims Settlement Act.* Any receipt by an individual of cash (including cash dividends on stock received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum; stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock); a partnership interest; land or an interest in land (including land or an interest in land received from a Native Corporation as a dividend or distribution on stock); and an interest in a settlement trust. (November 2, 1994)
+(q) *Life insurance proceeds.* Lump-sum proceeds of any life insurance policy on a veteran.
 
-(Authority: Sec. 506, Pub. L. 103-446)
+(Authority: 38 U.S.C. 1503(a)(12))
 
-(u) *Monetary allowance under 38 U.S.C. chapter 18 for certain individuals who are children of Vietnam veterans or children of veterans with covered service in Korea.* Any allowance paid under the provisions of 38 U.S.C. chapter 18 to or for an individual who is a child of a Vietnam veteran or a child of a veteran with covered service in Korea.
+(r) *Income tax returns.* VA will exclude from income payments from income tax returns. See § 3.279(e)(1).
 
-(Authority: 38 U.S.C. 1833(c))
+(Authority: 26 U.S.C. 6409)
 
-(v) *Victims of Crime Act.* Amounts received as compensation under the Victims of Crime Act of 1984 unless the total amount of assistance received from all federally funded programs is sufficient to fully compensate the claimant for losses suffered as a result of the crime.
+(s) *Reimbursements for loss.* VA will exclude from income payments described in 38 U.S.C. 1503(a)(5).
 
-(Authority: 42 U.S.C. 10602(c))
+(Authority: 38 U.S.C. 1503(a)(5))
 
-(w) *Medicare Prescription Drug Discount Card and Transitional Assistance Program.* The payments received under the Medicare transitional assistance program and any savings associated with the Medicare prescription drug discount card.
+(t) *Statutory exclusions.* Other amounts excluded from income by statute. See § 3.279. VA will exclude from income any amount designated by statute as not countable as income, regardless of whether or not it is listed in this section or in § 3.279.
 
-(Authority: 42 U.S.C. 1395w-141(g)(6))
-
-(x) *Life insurance proceeds.* Lump-sum proceeds of any life insurance policy on a veteran.
-
-(Authority: 38 U.S.C. 1503(a)(11))[44 FR 45936, Aug. 6, 1979]Editorial Note:For Federal Register citations affecting § 3.272, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 45936, Aug. 6, 1979]Editorial Note:For Federal Register citations affecting § 3.272, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
