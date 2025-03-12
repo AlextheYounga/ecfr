@@ -1,6 +1,6 @@
 ##### § 780.330 Sharecroppers and tenant farmers. #####
 
-Link to an amendment published at 86 FR 1246, Jan. 7, 2021.
+Link to an amendment published at 86 FR 1246, Jan. 7, 2021.Link to an amendment published at 86 FR 12539, Mar. 4, 2021, delaying the above amendment until May 7, 2021.
 
 (a) The test of coverage for sharecroppers and tenant farmers is the same as that applied under the Act to determine whether any other person is an employee or not. Certain so-called sharecroppers or tenants whose work activities are closely guided by the landowner or his agent are covered. Those individuals called sharecroppers and tenants whose work is closeIy directed and who have no actual discretion in controlling farm operations are in fact employees by another name. True independent-contractor sharecroppers or tenant farmers who actually control their farm operations are not employees, but if they employ other workers they may be responsible as employers under the Act.
 

@@ -1,6 +1,6 @@
 ##### § 788.16 Employment relationship. #####
 
-Link to an amendment published at 86 FR 1246, Jan. 7, 2021.
+Link to an amendment published at 86 FR 1246, Jan. 7, 2021.Link to an amendment published at 86 FR 12539, Mar. 4, 2021, delaying the above amendment until May 7, 2021.
 
 (a) The Supreme Court has made it clear that there is no single rule or test for determining whether an individual is an employee or an independent contractor, but that the “total situation controls” (see *Rutherford Food Corp.* v. *McComb,* 331 United States 722; *United States* v. *Silk,* 331 United States 704; *Harrison* v. *Greyvan Lines,* 331 United States 704; *Bartels* v. *Birmingham,* 332 United States 126). In general an employee, as distinguished from a person who is engaged in a business of his own, is one who “follows the usual path of an employee” and is dependent on the business which he serves. As an aid in assessing the total situation the Court mentioned some of the characteristics of the two classifications which should be considered. Among these are: The extent to which the services rendered are an integral part of the principal's business, the permanency of the relationship, the opportunities for profit or loss, the initiative judgment or foresight exercised by the one who performs the services, the amount of investment, and the degree of control which the principal has in the situation. The Court specifically rejected the degree of control retained by the principal as the sole criterion to be applied.
 

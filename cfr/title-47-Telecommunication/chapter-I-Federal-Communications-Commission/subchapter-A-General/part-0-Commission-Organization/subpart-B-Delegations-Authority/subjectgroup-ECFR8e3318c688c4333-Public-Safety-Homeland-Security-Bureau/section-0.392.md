@@ -1,5 +1,7 @@
 ##### § 0.392 Authority delegated. #####
 
+Link to an amendment published at 86 FR 12547, Mar. 4, 2021.
+
 The Chief, Public Safety and Homeland Security Bureau, is hereby delegated authority to perform all functions of the Bureau, described in §§ 0.191 and 0.192, subject to the following exceptions and limitations in paragraphs (a) through (e) of this section.
 
 (a) The Chief, Public Safety and Homeland Security Bureau shall not have authority to act on any applications or requests that present novel questions of fact, law or policy that cannot be resolved under outstanding precedents and guidelines.

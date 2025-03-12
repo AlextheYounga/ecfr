@@ -1,5 +1,7 @@
 ##### § 0.311 Authority delegated. #####
 
+Link to an amendment published at 86 FR 12547, Mar. 4, 2021.
+
 The Chief, Enforcement Bureau, is delegated authority to perform all functions of the Bureau, described in § 0.111, provided that:
 
 (a) The following matters shall be referred to the Commission en banc for disposition:

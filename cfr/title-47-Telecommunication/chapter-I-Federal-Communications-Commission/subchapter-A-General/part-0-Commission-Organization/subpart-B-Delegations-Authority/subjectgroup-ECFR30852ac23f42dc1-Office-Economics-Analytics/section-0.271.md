@@ -1,5 +1,7 @@
 ##### § 0.271 Authority delegated. #####
 
+Link to an amendment published at 86 FR 12547, Mar. 4, 2021.
+
 The Chief, Office of Economics and Analytics, is delegated authority to perform all functions and activities described in § 0.21 (and to perform the specified functions set forth in in paragraphs (f) through (i) of this section to the extent they fall within the subject matters over which the Office of Economics and Analytics has primary authority under § 0.21), subject to the exceptions and limitations in paragraphs (a) through (e) of this section:
 
 (a) The Chief, Office of Economics and Analytics, shall not have authority to act on notices of proposed rulemaking and of inquiry, final orders in rulemaking proceedings and inquiry proceedings, and reports arising from any of the foregoing except such order involving ministerial conforming amendments to rule parts and notices and orders addressing the detailed procedures for implementation of auctions of spectrum and broadcast services and uses of competitive bidding to achieve other Commission policy objectives, including universal service support.

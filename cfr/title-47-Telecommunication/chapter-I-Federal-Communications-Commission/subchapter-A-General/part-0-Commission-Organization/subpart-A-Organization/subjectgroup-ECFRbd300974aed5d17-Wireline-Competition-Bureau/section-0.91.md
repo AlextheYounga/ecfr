@@ -1,5 +1,7 @@
 ##### § 0.91 Functions of the Bureau. #####
 
+Link to an amendment published at 86 FR 12546, Mar. 4, 2021.
+
 The Wireline Competition Bureau advises and makes recommendations to the Commission, or acts for the Commission under delegated authority, in all matters pertaining to the regulation and licensing of communications common carriers and ancillary operations (other than matters pertaining exclusively to the regulation and licensing of wireless telecommunications services and facilities). The Bureau will, among other things:
 
 (a) Develop and recommend policy goals, objectives, programs and plans for the Commission in rulemaking and adjudicatory matters concerning wireline telecommunications, drawing on relevant economic, technological, legislative, regulatory and judicial information and developments. Overall objectives include meeting the present and future wireline telecommunications needs of the Nation; fostering economic growth; ensuring choice, opportunity, and fairness in the development of wireline telecommunications; promoting economically efficient investment in wireline telecommunications infrastructure; promoting the development and widespread availability of wireline telecommunications services; and developing deregulatory initiatives where appropriate.

@@ -1,5 +1,7 @@
 ##### § 0.212 Board of Commissioners. #####
 
+Link to an amendment published at 86 FR 12546, Mar. 4, 2021.
+
 (a) Whenever the Chairman or Acting Chairman of the Commission determines that a quorum of the Commission is not present or able to act, he may convene a Board of Commissioners. The Board shall be composed of all Commissioners present and able to act.
 
 (b) The Board of Commissioners is authorized to act upon all matters normally acted upon by the Commission en banc, except the following:

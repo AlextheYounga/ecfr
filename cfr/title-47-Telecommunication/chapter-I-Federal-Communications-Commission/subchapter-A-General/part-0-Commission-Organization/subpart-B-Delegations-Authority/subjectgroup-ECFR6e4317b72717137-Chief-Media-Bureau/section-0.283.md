@@ -1,5 +1,7 @@
 ##### § 0.283 Authority delegated. #####
 
+Link to an amendment published at 86 FR 12547, Mar. 4, 2021.
+
 The Chief, Media Bureau, is delegated authority to perform all functions of the Bureau, described in § 0.61, provided that the following matters shall be referred to the Commission en banc for disposition:
 
 (a) Notices of proposed rulemaking and of inquiry and final orders in such proceedings, with the exception of rulemaking proceedings involving the allotment of FM and television channels.
