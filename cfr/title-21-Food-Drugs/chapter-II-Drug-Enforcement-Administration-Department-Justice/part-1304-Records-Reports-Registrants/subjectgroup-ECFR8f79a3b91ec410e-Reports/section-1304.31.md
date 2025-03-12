@@ -1,8 +1,6 @@
 ##### § 1304.31 Reports from manufacturers importing narcotic raw material. #####
 
-Link to an amendment published at 81 FR 97020, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
-(a) Every manufacturer which imports or manufactures from narcotic raw material (opium, poppy straw, and concentrate of poppy straw) shall submit information which accounts for the importation and for all manufacturing operations performed between importation and the production in bulk or finished marketable products, standardized in accordance with the U.S. Pharmacopeia, National Formulary or other recognized medical standards. Reports shall be signed by the authorized official and submitted quarterly on company letterhead to the Drug and Chemical Evaluation Section, Drug Enforcement Administration, on or before the 15th day of the month immediately following the period for which it is submitted. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Every manufacturer which imports or manufactures from narcotic raw material (opium, poppy straw, and concentrate of poppy straw) shall submit information which accounts for the importation and for all manufacturing operations performed between importation and the production in bulk or finished marketable products, standardized in accordance with the U.S. Pharmacopeia, National Formulary or other recognized medical standards. Reports shall be signed by the authorized official and submitted quarterly on company letterhead to the UN Reporting and Quota Section, Diversion Control Division, on or before the 15th day of the month immediately following the period for which it is submitted. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) The following information shall be submitted for each type of narcotic raw material (quantities are expressed as grams of anhydrous morphine alkaloid):
 
@@ -64,4 +62,4 @@ Link to an amendment published at 81 FR 97020, Dec. 30, 2016.Link to a delay pub
 
 (g) All in-process inventories should be expressed in terms of end-products and not precursors. Once precursor material has been changed or placed into process for the manufacture of a specified end-product, it must no longer be accounted for as precursor stocks available for conversion or use, but rather as end-product in-process inventories.
 
-[62 FR 13961, Mar. 24, 1997, as amended at 75 FR 10677, Mar. 9, 2010]
+[62 FR 13961, Mar. 24, 1997, as amended at 75 FR 10677, Mar. 9, 2010; 81 FR 97020, Dec. 30, 2016]

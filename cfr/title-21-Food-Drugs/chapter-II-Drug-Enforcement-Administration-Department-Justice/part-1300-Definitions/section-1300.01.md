@@ -1,7 +1,5 @@
 ##### § 1300.01 Definitions relating to controlled substances. #####
 
-Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) Any term not defined in this part shall have the definition set forth in section 102 of the Act (21 U.S.C. 802), except that certain terms used in part 1316 of this chapter are defined at the beginning of each subpart of that part.
 
 (b) As used in parts 1301 through 1308, 1312, and 1317 of this chapter, the following terms shall have the meanings specified:
@@ -76,9 +74,13 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 
 *Commercial container* means any bottle, jar, tube, ampule, or other receptacle in which a substance is held for distribution or dispensing to an ultimate user, and in addition, any box or package in which the receptacle is held for distribution or dispensing to an ultimate user. The term commercial container does not include any package liner, package insert or other material kept with or within a commercial container, nor any carton, crate, drum, or other package in which commercial containers are stored or are used for shipment of controlled substances.
 
+*Competent national authority,* for purposes of importation and exportation of controlled substances and listed chemicals, means an entity lawfully entitled to authorize the import and export of controlled substances, and to regulate or enforce national controls over listed chemicals, and included as such in the directory of “Competent National Authorities Under the International Drug Control Treaties” published by the United Nations Office on Drugs and Crime. For purposes of exports of narcotic drugs, the term also includes freely associated states authorized to receive such exports pursuant to 48 U.S.C. 1972.
+
 *Compounder* means any person engaging in maintenance or detoxification treatment who also mixes, prepares, packages or changes the dosage form of a narcotic drug listed in Schedules II, III, IV or V for use in maintenance or detoxification treatment by another narcotic treatment program.
 
 *Controlled substance* has the meaning given in section 802(6) of Title 21, United States Code (U.S.C.).
+
+*Customs officer* means either an Officer of the Customs as defined in 19 U.S.C. 1401(i) (that is, of the U.S. Customs and Border Protection), or any individual duly authorized to accept entries of merchandise, to collect duties, and to enforce the customs laws of any commonwealth, territory, or possession of the United States.
 
 *Customs territory of the United States* means the several States, the District of Columbia, and Puerto Rico.
 
@@ -90,7 +92,7 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 
 *Dispenser* means an individual practitioner, institutional practitioner, pharmacy or pharmacist who dispenses a controlled substance.
 
-*Export* means, with respect to any article, any taking out or removal of such article from the jurisdiction of the United States (whether or not such taking out or removal constitutes an exportation within the meaning of the customs and related laws of the United States).
+*Export* means, with respect to any article, any taking out or removal of such article from the United States (whether or not such taking out or removal constitutes an exportation within the meaning of the customs laws, export control laws enforced by other agencies, or related laws of the United States).
 
 *Exporter* includes every person who exports, or who acts as an export broker for exportation of, controlled substances listed in any schedule.
 
@@ -104,7 +106,7 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 
 (3) In part 1308 of this chapter, any hearing held for the issuance, amendment, or repeal of any rule issuable pursuant to section 201 of the Act (21 U.S.C. 811).
 
-*Import* means, with respect to any article, any bringing in or introduction of such article into either the jurisdiction of the United States or the customs territory of the United States, and from the jurisdiction of the United States into the customs territory of the United States (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
+*Import* means, with respect to any article, any bringing in or introduction of such article into the customs territory of the United States from any place outside thereof (but within the United States), or into the United States from any place outside thereof (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
 
 *Importer* includes every person who imports, or who acts as an import broker for importation of, controlled substances listed in any schedule.
 
@@ -121,8 +123,6 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 (1) The optical isomer, except as used in § 1308.11(d) and § 1308.12(b)(4) of this chapter. As used in § 1308.11(d) of this chapter, the term “isomer” means any optical, positional, or geometric isomer. As used in § 1308.12(b)(4) of this chapter, the term “isomer” means any optical or geometric isomer;
 
 (2) As used in § 1308.11(d) of this chapter, the term “positional isomer” means any substance possessing the same molecular formula and core structure and having the same functional group(s) and/or substituent(s) as those found in the respective Schedule I hallucinogen, attached at any position(s) on the core structure, but in such manner that no new chemical functionalities are created and no existing chemical functionalities are destroyed relative to the respective Schedule I hallucinogen. Rearrangements of alkyl moieties within or between functional group(s) or substituent(s), or divisions or combinations of alkyl moieties, that do not create new chemical functionalities or destroy existing chemical functionalities, are allowed i.e., result in compounds which are positional isomers. For purposes of this definition, the “core structure” is the parent molecule that is the common basis for the class; for example, tryptamine, phenethylamine, or ergoline. Examples of rearrangements resulting in creation and/or destruction of chemical functionalities (and therefore resulting in compounds which are not positional isomers) include, but are not limited to: Ethoxy to *alpha*-hydroxyethyl, hydroxy and methyl to methoxy, or the repositioning of a phenolic or alcoholic hydroxy group to create a hydroxyamine. Examples of rearrangements resulting in compounds which would be positional isomers include: *Tert*-butyl to *sec*-butyl, methoxy and ethyl to isopropoxy, N,N-diethyl to N-methyl-N-propyl, or *alpha*-methylamino to N-methylamino.
-
-*Jurisdiction of the United States* means the customs territory of the United States, the Virgin Islands, the Canal Zone, Guam, American Samoa, and the Trust Territories of the Pacific Islands.
 
 *Label* means any display of written, printed, or graphic matter placed upon the commercial container of any controlled substance by any manufacturer of such substance.
 
@@ -166,6 +166,10 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 
 *Pharmacist* means any pharmacist licensed by a State to dispense controlled substances, and shall include any other person (e.g., pharmacist intern) authorized by a State to dispense controlled substances under the supervision of a pharmacist licensed by such State.
 
+*Port of entry* means, unless distinguished as being a foreign port of entry, any place at which a customs officer is duly authorized to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs laws of the United States (whether or not such place is a port of entry as defined in title 19 of the United States Code or its associated implementing regulations). Examples of ports of entry include, but are not limited to, places designated as ports of entry or customs stations in title 19 of the *Code of Federal Regulations* or by the governing customs authority of that area. When shipments are transported under U.S. Customs and Border Protection's immediate transportation procedures, the port of entry shall be the port of final destination.
+
+*Port of export* means, unless distinguished as being a foreign port of export, any place under the control of a customs officer where goods are loaded on an aircraft, vessel or other conveyance for export outside of the United States. For goods loaded aboard an aircraft or vessel in the United States, that stops at several ports before departing the United States, the port of export is the first port where the goods were actually loaded. For goods off-loaded from the original conveyance to another conveyance (even if the aircraft or vessel belongs to the same carrier) at any port subsequent to the port where the first on-loading occurred in the United States, the port where the goods were loaded onto the last conveyance before departing the United States is the port of export.
+
 *Prescription* means an order for medication which is dispensed to or for an ultimate user but does not include an order for medication which is dispensed for immediate administration to the ultimate user (e.g., an order to dispense a drug to a bed patient for immediate administration in a hospital is not a prescription).
 
 *Proceeding* means all actions taken for the issuance, amendment, or repeal of any rule issued pursuant to section 201 of the Act (21 U.S.C. 811), commencing with the publication by the Administrator of the proposed rule, amended rule, or repeal in the Federal Register.
@@ -178,6 +182,8 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 
 *Registrant* means any person who is registered pursuant to either section 303 or section 1008 of the Act (21 U.S.C. 823 or 958).
 
+*Return information* means supplemental information required to be reported to the Administration following an import or export transaction containing the particulars of the transaction and any other information as the Administration may specify.
+
 *Reverse distribute* means to acquire controlled substances from another registrant or law enforcement for the purpose of:
 
 (1) Return to the registered manufacturer or another registrant authorized by the manufacturer to accept returns on the manufacturer's behalf; or
@@ -188,4 +194,6 @@ Link to an amendment published at 81 FR 97018, Dec. 30, 2016.Link to a delay pub
 
 *Supplier* means any registered person entitled to fill order forms pursuant to § 1305.06 of this chapter.
 
-[62 FR 13941, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 68 FR 37409, June 24, 2003; 68 FR 41228, July 11, 2003; 70 FR 25465, May 13, 2005; 70 FR 74656, Dec. 16, 2005; 71 FR 60427, Oct. 13, 2006; 72 FR 67852, Dec. 3, 2007; 74 FR 63609, Dec. 4, 2009; 77 FR 4230, Jan. 27, 2012; 77 FR 44461, July 30, 2012; 79 FR 53559, Sept. 9, 2014]
+*United States,* when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States, which, in addition to the customs territory of the United States, include but are not limited to the U.S. Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+
+[62 FR 13941, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 68 FR 37409, June 24, 2003; 68 FR 41228, July 11, 2003; 70 FR 25465, May 13, 2005; 70 FR 74656, Dec. 16, 2005; 71 FR 60427, Oct. 13, 2006; 72 FR 67852, Dec. 3, 2007; 74 FR 63609, Dec. 4, 2009; 77 FR 4230, Jan. 27, 2012; 77 FR 44461, July 30, 2012; 79 FR 53559, Sept. 9, 2014; 81 FR 97018, Dec. 30, 2016]

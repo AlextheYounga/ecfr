@@ -1,22 +1,14 @@
 ##### § 121.6 Exemptions for overlap select agents and toxins. #####
 
-Link to an amendment published at 82 FR 6208, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 (a) Clinical or diagnostic laboratories and other entities that possess, use, or transfer an overlap select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
-(1) Unless directed otherwise by the Administrator or the HHS Secretary, within 7 calendar days after identification, the agent or toxin is transferred in accordance with § 121.16 or 42 CFR 73.16 or destroyed on-site by a recognized sterilization or inactivation process;
+(1) Unless directed otherwise by the Administrator, within 7 calendar days after identification of the select agent or toxin, the select agent or toxin is transferred in accordance with § 121.16 or destroyed on-site by a recognized sterilization or inactivation process;
 
-(2) The agent or toxin is secured against theft, loss, or release during the period between identification of the agent or toxin and transfer or destruction of such agent or toxin, and any theft, loss, or release of such agent or toxin is reported; and
+(2) The agent or toxin is secured against theft, loss, or release during the period between identification of the agent or toxin and transfer or destruction of such agent or toxin, and any theft, loss, or release of such agent or toxin is reported;
 
-(3) The identification of the agent or toxin is reported to APHIS or CDC.
+(3) Unless otherwise directed by the Administrator or HHS Secretary, the clinical or diagnostic specimens collected from a patient infected with a select agent are transferred in accordance with § 121.16 or destroyed on-site by a recognized sterilization or inactivation process within 7 calendar days after delivery of patient care by heath care professionals has concluded; and
 
-(i) The identification of any of the following overlap select agents and toxins must be immediately reported by telephone, facsimile, or e-mail: *Bacillus anthracis, Burkholderia mallei,* or *Burkholderia pseudomallei.* This report must be followed by submission of APHIS/CDC Form 4 within 7 calendar days after identification.
-
-(ii) For all other overlap select agents or toxins, APHIS/CDC Form 4 must be submitted within 7 calendar days after identification.
-
-(iii) Less stringent reporting may be required during agricultural emergencies or outbreaks, or in endemic areas.
-
-(iv) A copy of APHIS/CDC Form 4 must be maintained for 3 years.
+(4) The identification of the agent or toxin is reported to APHIS or CDC, the specimen provider, and to other appropriate authorities when required by Federal, State, or local law by telephone, facsimile, or email. This report must be followed by submission of APHIS/CDC Form 4 to APHIS or CDC within 7 calendar days after identification.
 
 (b) Clinical or diagnostic laboratories and other entities that possess, use, or transfer an overlap select agent or toxin that is contained in a specimen presented for proficiency testing will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
@@ -48,4 +40,4 @@ Link to an amendment published at 82 FR 6208, Jan. 19, 2017.This amendment was d
 
 (f) Upon request of the Secretary of Health and Human Services, the Administrator may exempt an individual or entity from the requirements, in whole or in part, of this part for up to 30 calendar days if the Secretary of Health and Human Services has granted an exemption for a public health emergency involving an overlap select agent or toxin. The Administrator may extend the exemption once for an additional 30 days.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61078, Oct. 5, 2012; 79 FR 26831, May 12, 2014]
+[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61078, Oct. 5, 2012; 79 FR 26831, May 12, 2014; 82 FR 6208, Jan. 19, 2017]

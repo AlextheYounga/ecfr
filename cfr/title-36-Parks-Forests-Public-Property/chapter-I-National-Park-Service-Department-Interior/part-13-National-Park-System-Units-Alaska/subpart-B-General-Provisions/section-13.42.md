@@ -1,7 +1,5 @@
 ##### § 13.42 Taking of wildlife in national preserves. #####
 
-Link to an amendment published at 82 FR 3632, Jan. 12, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10442, Feb. 13, 2017.
-
 (a) Hunting and trapping are allowed in national preserves in accordance with applicable Federal and non-conflicting State law and regulation.
 
 (b) Violating a provision of either Federal or non-conflicting State law or regulation is prohibited.
@@ -45,4 +43,6 @@ Link to an amendment published at 82 FR 3632, Jan. 12, 2017.This amendment was d
 
 (2) Creating a visual, aural, olfactory, or physical stimulus in order to alter the behavior of the game that another person is attempting to take.
 
-[80 FR 64343, Oct. 23, 2015]
+(j) Collecting, capturing, or possessing living wildlife is prohibited unless expressly authorized by federal statute or pursuant to § 2.5 of this chapter. A falconry permit or other permit issued by the State of Alaska does not provide the required authorization. These collecting activities are not hunting or trapping activities and therefore are not allowed in national preserves under paragraph (a) of this section. This regulation does not prohibit the use of trained raptors for hunting activities where authorized by applicable federal and state law.
+
+[80 FR 64343, Oct. 23, 2015, as amended at 82 FR 3632, Jan. 12, 2017]

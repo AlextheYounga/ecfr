@@ -1,5 +1,5 @@
-##### § 1308.01 Scope of part 1308. #####
+##### § 1308.01 Scope of this part. #####
 
-Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Schedules of controlled substances established by section 202 of the Act (21 U.S.C. 812) and nonnarcotic substances, chemical preparations, veterinary anabolic steroid implant products, prescription products, anabolic steroid products, and cannabis plant material and products made therefrom that contain tetrahydrocannabinols excluded pursuant to section 201 of the Act (21 U.S.C. 811), as they are changed, updated, and republished from time to time, are set forth in this part.
 
-Schedules of controlled substances established by section 202 of the Act (21 U.S.C. 812), as they are changed, updated, and republished from time to time, are set forth in this part.
+[81 FR 97021, Dec. 30, 2016]

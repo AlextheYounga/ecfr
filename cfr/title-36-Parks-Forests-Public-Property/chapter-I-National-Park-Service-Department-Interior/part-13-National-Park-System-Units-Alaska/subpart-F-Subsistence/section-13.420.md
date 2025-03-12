@@ -1,6 +1,20 @@
 ##### § 13.420 Definitions. #####
 
-Link to an amendment published at 82 FR 3632, Jan. 12, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10442, Feb. 13, 2017.
+The following definitions apply to this part:
+
+*Animal parts.* As used in this part, this term means nonedible antlers, horns, bones, teeth, claws, hooves, skins, hides, fur, hair, feathers, or quills that:
+
+(1) Are obtained from lawfully hunted or trapped fish or wildlife;
+
+(2) Have been shed or discarded as a result of natural life-cycle events; or
+
+(3) Remain on the landscape as a result of the natural mortality of fish or wildlife.
+
+*Handicraft.* As used in the part, this term has the same meaning as used in federal subsistence regulations (50 CFR part 100) except that:
+
+(1) The term also includes products made from plant materials; and
+
+(2) The term does not include a trophy or European mount of horns or antlers.
 
 *Local rural resident.* As used in this part with respect to national parks and monuments, the term “local rural resident” shall mean either of the following:
 
@@ -10,14 +24,16 @@ Link to an amendment published at 82 FR 3632, Jan. 12, 2017.This amendment was d
 
 *Resident zone.* As used in this part, the term “resident zone” shall mean the area within, and the communities and areas near, a national park or monument in which persons who have customarily and traditionally engaged in subsistence uses within the national park or monument permanently reside. The communities and areas near a national park or monument included as a part of its resident zone shall be determined pursuant to § 13.430 and listed for each national park or monument in the applicable special regulations of this part.
 
-*Subsistence uses.* As used in this part, the term “subsistence uses” shall mean the customary and traditional uses by rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter or sharing for personal or family consumption; and for customary trade. For the purposes of this paragraph, the term -
+*Subsistence uses.* As used in this part, this term means the customary and traditional uses by rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools or transportation; for the making and selling of handicraftsout of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter or sharing for personal or family consumption; and for customary trade pursuant to Title VIII of ANILCA. Harvest of migratory birds pursuant to the Migratory Bird Treaty Act (and implementing regulations at 50 CFR part 92) and marine mammals pursuant to the Marine Mammal Protection Act Act (and implmenting regulations at 50 CFR 18.23 and 18.26) by qualified individuals is a subsistence use in accordance with this subpart. For the purposes of this subpart, the terms—
 
-(1) “Family” shall mean all persons related by blood, marriage, or adoption, or any person living within the household on a permanent basis; and
+(1) “Family” means all persons related by blood, marriage, or adoption, or any person living within the household on a permanent basis; and
 
-(2) “Barter” shall mean the exchange of fish or wildlife or their parts taken for subsistence uses -
+(2) “Barter” means the exchange of handicrafts or fish or wildlife or their parts taken for subsistence uses—
 
 (i) For other fish or game or their parts; or
 
 (ii) For other food or for nonedible items other than money if the exchange is of a limited and noncommercial nature; and
 
-(3) “Customary trade” shall be limited to the exchange of furs for cash (and such other activities as may be designated for a specific park area in the applicable special regulations of this part).
+(3) “Customary trade” means the exchange of handicrafts or furs for cash to support personal or family needs; and does not include trade which constitutes a significant commercial enterprise.
+
+[71 FR 69333, Nov. 30, 2006, as amended at 82 FR 3632, Jan. 12, 2017]

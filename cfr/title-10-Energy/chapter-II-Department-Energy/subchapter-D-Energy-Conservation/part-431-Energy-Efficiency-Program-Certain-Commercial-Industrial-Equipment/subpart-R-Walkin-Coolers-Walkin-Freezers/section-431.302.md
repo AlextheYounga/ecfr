@@ -1,6 +1,6 @@
 ##### § 431.302 Definitions concerning walk-in coolers and walk-in freezers. #####
 
-Link to an amendment published at 81 FR 95801, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8805, Jan. 31, 2017.
+Link to an amendment published at 81 FR 95801, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8805, Jan. 31, 2017.This amendment was further delayed until June 26, 2017, at 82 FR 14426, Mar. 21, 2017.
 
 *Basic model* means all components of a given type of walk-in cooler or walk-in freezer (or class thereof) manufactured by one manufacturer, having the same primary energy source, and which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and
 

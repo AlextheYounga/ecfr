@@ -1,7 +1,5 @@
 ##### § 125.287 Initial and recurrent pilot testing requirements. #####
 
-Link to an amendment published at 81 FR 90176, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
-
 (a) No certificate holder may use any person, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that person has passed a written or oral test, given by the Administrator or an authorized check airman on that person's knowledge in the following areas -
 
 (1) The appropriate provisions of parts 61, 91, and 125 of this chapter and the operations specifications and the manual of the certificate holder;
@@ -46,4 +44,6 @@ Link to an amendment published at 81 FR 90176, Dec. 13, 2016.This amendment was 
 
 (f) Portions of a required competency check may be given in an airplane simulator or other appropriate training device, if approved by the Administrator.
 
-[45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-18, 58 FR 69629, Dec. 30, 1993]
+(g) If the certificate holder is authorized to conduct EFVS operations, the competency check in paragraph (b) of this section must include tasks appropriate to the EFVS operations the certificate holder is authorized to conduct.
+
+[45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-18, 58 FR 69629, Dec. 30, 1993; Docket FAA-2013-0485, Amdt. 125-66, 81 FR 90176, Dec. 13, 2016]

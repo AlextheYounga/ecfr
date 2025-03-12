@@ -1,6 +1,6 @@
 ##### § 429.53 Walk-in coolers and walk-in freezers. #####
 
-Link to an amendment published at 81 FR 95799, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8805, Jan. 31, 2017.
+Link to an amendment published at 81 FR 95799, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8805, Jan. 31, 2017.This amendment was further delayed until June 26, 2017, at 82 FR 14426, Mar. 21, 2017.
 
 (a) *Determination of represented value* - (1) *Refrigeration equipment:* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of walk-in cooler or freezer refrigeration equipment, either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM satisfying the criteria provided at § 429.70(f)(1).
 

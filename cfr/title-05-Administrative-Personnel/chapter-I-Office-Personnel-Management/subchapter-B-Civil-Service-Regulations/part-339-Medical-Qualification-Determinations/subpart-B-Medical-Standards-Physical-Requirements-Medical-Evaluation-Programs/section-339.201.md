@@ -1,0 +1,3 @@
+##### § 339.201 Disqualification by OPM. #####
+
+OPM must review and decide upon an agency's request to pass over a candidate, who is a preference eligible, on medical grounds pursuant to § 339.306. OPM may deny an applicant employment by reason of physical or mental unfitness for the position for which he or she has applied. An OPM decision under this section or § 339.306 is separate and distinct from a determination of disability pursuant to statutory provisions for disability retirement under the Civil Service Retirement System and the Federal Employees' Retirement System.

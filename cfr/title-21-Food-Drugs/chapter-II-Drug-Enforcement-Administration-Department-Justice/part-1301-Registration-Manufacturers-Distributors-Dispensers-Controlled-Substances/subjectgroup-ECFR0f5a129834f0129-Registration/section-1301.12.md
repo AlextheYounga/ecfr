@@ -1,7 +1,5 @@
 ##### § 1301.12 Separate registrations for separate locations. #####
 
-Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) A separate registration is required for each principal place of business or professional practice at one general physical location where controlled substances are manufactured, distributed, imported, exported, or dispensed by a person.
 
 (b) The following locations shall be deemed not to be places where controlled substances are manufactured, distributed, or dispensed:
@@ -10,8 +8,8 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 (2) An office used by agents of a registrant where sales of controlled substances are solicited, made, or supervised but which neither contains such substances (other than substances for display purposes or lawful distribution as samples only) nor serves as a distribution point for filling sales orders; and
 
-(3) An office used by a practitioner (who is registered at another location in the same State or jurisdiction of the United States) where controlled substances are prescribed but neither administered nor otherwise dispensed as a regular part of the professional practice of the practitioner at such office, and where no supplies of controlled substances are maintained.
+(3) An office used by a practitioner (who is registered at another location in the same State in which he or she practices) where controlled substances are prescribed but neither administered nor otherwise dispensed as a regular part of the professional practice of the practitioner at such office, and where no supplies of controlled substances are maintained.
 
 (4) A freight forwarding facility, as defined in § 1300.01 of this part, provided that the distributing registrant operating the facility has submitted written notice of intent to operate the facility by registered mail, return receipt requested (or other suitable means of documented delivery) and such notice has been approved. The notice shall be submitted to the Special Agent in Charge of the Administration's offices in both the area in which the facility is located and each area in which the distributing registrant maintains a registered location that will transfer controlled substances through the facility. The notice shall detail the registered locations that will utilize the facility, the location of the facility, the hours of operation, the individual(s) responsible for the controlled substances, the security and recordkeeping procedures that will be employed, and whether controlled substances returns will be processed through the facility. The notice must also detail what state licensing requirements apply to the facility and the registrant's actions to comply with any such requirements. The Special Agent in Charge of the DEA Office in the area where the freight forwarding facility will be operated will provide written notice of approval or disapproval to the person within thirty days after confirmed receipt of the notice. Registrants that are currently operating freight forwarding facilities under a memorandum of understanding with the Administration must provide notice as required by this section no later than September 18, 2000 and receive written approval from the Special Agent in Charge of the DEA Office in the area in which the freight forwarding facility is operated in order to continue operation of the facility.
 
-[62 FR 13945, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 65 FR 45829, July 25, 2000; 71 FR 69480, Dec. 1, 2006]
+[62 FR 13945, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 65 FR 45829, July 25, 2000; 71 FR 69480, Dec. 1, 2006; 81 FR 97019, Dec. 30, 2016]

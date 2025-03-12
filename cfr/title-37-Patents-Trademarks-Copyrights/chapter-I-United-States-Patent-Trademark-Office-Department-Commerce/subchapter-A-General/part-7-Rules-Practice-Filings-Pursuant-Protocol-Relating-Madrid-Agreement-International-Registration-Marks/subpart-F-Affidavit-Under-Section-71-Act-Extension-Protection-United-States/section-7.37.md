@@ -1,7 +1,5 @@
 ##### § 7.37 Requirements for a complete affidavit or declaration of use in commerce or excusable nonuse. #####
 
-Link to an amendment published at 82 FR 6265, Jan. 19, 2017.Link to an extension of the above amendment published at 82 FR 10273, Feb. 10, 2017.
-
 A complete affidavit or declaration under section 71 of the Act must:
 
 (a) Be filed by the holder of the international registration within the period set forth in § 7.36(b);
@@ -32,7 +30,7 @@ A complete affidavit or declaration under section 71 of the Act must:
 
 (g) Include one specimen showing how the mark is in use in commerce for each class in the registration, unless excusable nonuse is claimed under paragraph (f)(2) of this section. When requested by the Office, additional specimens must be provided. The specimen must meet the requirements of § 2.56 of this chapter.
 
-(h) The Office may require the holder to furnish such information, exhibits, affidavits or declarations, and such additional specimens as may be reasonably necessary to the proper examination of the affidavit or declaration under section 71 of the Act.
+(h) The Office may require the holder to furnish such information, exhibits, affidavits or declarations, and such additional specimens as may be reasonably necessary to the proper examination of the affidavit or declaration under section 71 of the Act or for the Office to assess and promote the accuracy and integrity of the register.
 
 (i) Additional requirements for a collective mark: In addition to the above requirements, a complete affidavit or declaration pertaining to a collective mark must:
 
@@ -52,4 +50,4 @@ A complete affidavit or declaration under section 71 of the Act must:
 
 (3) Satisfy the requirements of § 2.45(a)(4)(i)(A) and (C) of this chapter.
 
-[68 FR 55769, Sept. 26, 2003, as amended at 73 FR 47686, Aug. 14, 2008; 75 FR 35977, June 24, 2010; 77 FR 30208, May 22, 2012; 80 FR 33190, June 11, 2015]
+[68 FR 55769, Sept. 26, 2003, as amended at 73 FR 47686, Aug. 14, 2008; 75 FR 35977, June 24, 2010; 77 FR 30208, May 22, 2012; 80 FR 33190, June 11, 2015; 82 FR 6265, Jan. 19, 2017]

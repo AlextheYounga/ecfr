@@ -1,12 +1,10 @@
 ##### § 1316.47 Request for hearing. #####
 
-Link to an amendment published at 81 FR 97041, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+(a) Any person entitled to a hearing and desiring a hearing shall, within the period permitted for filing, file a request for a hearing and/or an answer that complies with the following format (see the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address):
 
-(a) Any person entitled to a hearing and desiring a hearing shall, within the period permitted for filing, file a request for a hearing in the following form (see the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address):
+(Date)Drug Enforcement Administration, Attn: Hearing Clerk/OALJ(Mailing Address)Subject: Request for HearingDear Sir:
 
-\_\_\_\_\_\_\_\_\_\_(Date)Administrator, Drug Enforcement Administration, Attention: DEA Federal Register Representative.
-
-Dear Sir: The undersigned \_\_\_\_\_\_ (Name of person) hereby requests a hearing in the matter of: \_\_\_\_\_\_\_\_ (Identification of the proceeding).
+The undersigned \_\_\_\_\_\_ (Name of the Person) hereby requests a hearing in the matter of: \_\_\_\_\_\_ (Identification of the proceeding).
 
 (A) (State with particularity the interest of the person in the proceeding.)
 
@@ -16,11 +14,7 @@ Dear Sir: The undersigned \_\_\_\_\_\_ (Name of person) hereby requests a hearin
 
 All notices to be sent pursuant to the proceeding should be addressed to:
 
-\_\_\_\_\_\_\_\_\_\_ (Name)\_\_\_\_\_\_\_\_\_\_ (Street address)\_\_\_\_\_\_\_\_\_\_ (City and State)
-
-Respectfully yours,
-
-\_\_\_\_\_\_\_\_\_\_ (Signature of person)
+(Name)(Street Address)(City and State)Respectfully yours,(Signature of Person)
 
 (b) The Administrative Law Judge, upon request and showing of good cause, may grant a reasonable extension of the time allowed for response to an Order to Show Cause.
 

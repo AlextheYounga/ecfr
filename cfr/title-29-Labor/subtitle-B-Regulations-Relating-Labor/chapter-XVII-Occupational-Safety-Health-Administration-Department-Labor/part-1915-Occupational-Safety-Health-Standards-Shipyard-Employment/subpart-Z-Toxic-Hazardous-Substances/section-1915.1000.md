@@ -1,6 +1,6 @@
 ##### § 1915.1000 Air contaminants. #####
 
-Link to an amendment published at 82 FR 2744, Jan. 9, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8901, Feb. 1, 2017.
+Link to an amendment published at 82 FR 2744, Jan. 9, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8901, Feb. 1, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14439, Mar. 21, 2017.
 
 Wherever this section applies, an employee's exposure to any substance listed in Table Z - Shipyards of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
 

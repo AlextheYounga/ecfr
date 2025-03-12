@@ -1,6 +1,6 @@
 ##### § 510.300 Determination of episode target prices. #####
 
-Link to an amendment published at 82 FR 613, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 10863, Feb. 17, 2017.
+Link to an amendment published at 82 FR 613, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed to May 20, 2017 at 82 FR 14464, Mar. 21, 2017.
 
 (a) *General.* CMS establishes episode target prices for participant hospitals for each performance year of the model as specified in this section. Episode target prices are established according to the following:
 

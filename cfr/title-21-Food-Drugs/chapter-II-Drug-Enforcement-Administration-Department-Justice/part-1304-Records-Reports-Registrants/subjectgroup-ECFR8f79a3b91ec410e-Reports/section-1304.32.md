@@ -1,8 +1,6 @@
 ##### § 1304.32 Reports of manufacturers importing coca leaves. #####
 
-Link to an amendment published at 81 FR 97020, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
-(a) Every manufacturer importing or manufacturing from raw coca leaves shall submit information accounting for the importation and for all manufacturing operations performed between the importation and the manufacture of bulk or finished products standardized in accordance with U.S. Pharmacopoeia, National Formulary, or other recognized standards. The reports shall be submitted quarterly on company letterhead to the Drug and Chemical Evaluation Section, Drug Enforcement Administration, on or before the 15th day of the month immediately following the period for which it is submitted. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Every manufacturer importing or manufacturing from raw coca leaves shall submit information accounting for the importation and for all manufacturing operations performed between the importation and the manufacture of bulk or finished products standardized in accordance with U.S. Pharmacopoeia, National Formulary, or other recognized standards. The reports shall be submitted quarterly on company letterhead to the UN Reporting and Quota Section, Diversion Control Division, on or before the 15th day of the month immediately following the period for which it is submitted. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) The following information shall be submitted for raw coca leaf, ecgonine, ecgonine for conversion or further manufacture, benzoylecgonine, manufacturing coca extracts (list for tinctures and extracts; and others separately), other crude alkaloids and other derivatives (quantities should be reported as grams of actual quantity involved and the cocaine alkaloid content or equivalency):
 
@@ -50,4 +48,4 @@ Link to an amendment published at 81 FR 97020, Dec. 30, 2016.Link to a delay pub
 
 (f) All in-process inventories should be expressed in terms of end-products and not precursors. Once precursor material has been changed or placed into process for the manufacture of a specified end-product, it must no longer be accounted for as precursor stocks available for conversion or use, but rather as end-product in-process inventories.
 
-[62 FR 13962, Mar. 24, 1997, as amended at 75 FR 10678, Mar. 9, 2010]
+[62 FR 13962, Mar. 24, 1997, as amended at 75 FR 10678, Mar. 9, 2010; 81 FR 97020, Dec. 30, 2016]

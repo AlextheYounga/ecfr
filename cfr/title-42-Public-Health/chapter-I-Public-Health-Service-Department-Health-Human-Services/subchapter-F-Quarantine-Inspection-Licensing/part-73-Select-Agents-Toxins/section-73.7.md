@@ -1,12 +1,12 @@
 ##### § 73.7 Registration and related security risk assessments. #####
 
-Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
-
 (a) Unless exempted under § 73.5, an individual or entity shall not possess, use, or transfer any HHS select agent or toxin without a certificate of registration issued by the HHS Secretary. Unless exempted under § 73.6 or 9 CFR part 121.6, an individual or entity shall not possess, use, or transfer overlap select agents or toxins, without a certificate of registration issued by the HHS Secretary and Administrator.
 
-(b) As a condition of registration, each entity must designate an individual to be its Responsible Official. While most registrants are likely to be entities, in the event that an individual applies for and is granted a certificate of registration, the individual will be considered the Responsible Official.
+(b) As a condition of registration, each entity is required to be in compliance with the requirements of this part for select agents and toxins listed on the registration regardless of whether the entity is in actual possession of the select agent or toxin. With regard to toxins, the entity registered for possession, use or transfer of a toxin must be in compliance with the requirements of this part regardless of the amount of toxin currently in its possession.
 
-(c)(1) As a condition of registration, the following must be approved by the HHS Secretary or Administrator based on a security risk assessment by the Attorney General:
+(c) As a condition of registration, each entity must designate an individual to be its Responsible Official. While most registrants are likely to be entities, in the event that an individual applies for and is granted a certificate of registration, the individual will be considered the Responsible Official.
+
+(d)(1) As a condition of registration, the following must be approved by the HHS Secretary or Administrator based on a security risk assessment by the Attorney General:
 
 (i) The individual or entity,
 
@@ -32,15 +32,15 @@ Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment wa
 
 (5) To obtain a security risk assessment, an individual or entity must submit the information necessary to conduct a security risk assessment to the Attorney General.
 
-(d) To apply for a certificate of registration that covers only HHS select agents or toxins, an individual or entity must submit the information requested in the registration application package (APHIS/CDC Form 1) to CDC. To apply for a certificate of registration that does not cover only HHS select agents or toxins (*i.e.,* covers at least one overlap select agent and/or toxin, or covers any combination of HHS select agents and/or toxins and USDA select agents and/or toxins), an individual or entity must submit the information requested in the registration application package (APHIS/CDC Form 1) to CDC or APHIS, but not both.
+(e) To apply for a certificate of registration that covers only HHS select agents or toxins, an individual or entity must submit the information requested in the registration application package (APHIS/CDC Form 1) to CDC. To apply for a certificate of registration that does not cover only HHS select agents or toxins (*i.e.,* covers at least one overlap select agent and/or toxin, or covers any combination of HHS select agents and/or toxins and USDA select agents and/or toxins), an individual or entity must submit the information requested in the registration application package (APHIS/CDC Form 1) to CDC or APHIS, but not both.
 
-(e) Prior to the issuance of a certificate of registration, the Responsible Official must promptly provide notification of any changes to the application for registration by submitting the relevant page(s) of the registration application.
+(f) Prior to the issuance of a certificate of registration, the Responsible Official must promptly provide notification of any changes to the application for registration by submitting the relevant page(s) of the registration application.
 
-(f) The issuance of a certificate of registration may be contingent upon inspection or submission of additional information, such as the security plan, biosafety plan, incident response plan, or any other documents required to be prepared under this part.
+(g) The issuance of a certificate of registration may be contingent upon inspection or submission of additional information, such as the security plan, biosafety plan, incident response plan, or any other documents required to be prepared under this part.
 
-(g) A certificate of registration will be valid for one physical location (a room, a building, or a group of buildings) where the Responsible Official will be able to perform the responsibilities required in this part, for specific select agents or toxins, and for specific activities.
+(h) A certificate of registration will be valid for one physical location (a room, a building, or a group of buildings) where the Responsible Official will be able to perform the responsibilities required in this part, for specific select agents or toxins, and for specific activities.
 
-(h) A certificate of registration may be amended to reflect changes in circumstances (e.g., replacement of the Responsible Official or other personnel changes, changes in ownership or control of the entity, changes in the activities involving any select agents or toxins, or the addition or removal of select agents or toxins).
+(i) A certificate of registration may be amended to reflect changes in circumstances (e.g., replacement of the Responsible Official or other personnel changes, changes in ownership or control of the entity, changes in the activities involving any select agents or toxins, or the addition or removal of select agents or toxins).
 
 (1) Prior to any change, the Responsible Official must apply for an amendment to a certificate of registration by submitting the relevant page(s) of the registration application.
 
@@ -48,8 +48,10 @@ Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment wa
 
 (3) No change may be made without such approval.
 
-(i) An entity must immediately notify CDC or APHIS if it loses the services of its Responsible Official. In the event that an entity loses the services of its Responsible Official, an entity may continue to possess or use select agents or toxins only if it appoints as the Responsible Official another individual who has been approved by the HHS Secretary or Administrator following a security risk assessment by the Attorney General and who meets the requirements of this part.
+(j) An entity must immediately notify CDC or APHIS if it loses the services of its Responsible Official. In the event that an entity loses the services of its Responsible Official, an entity may continue to possess or use select agents or toxins only if it appoints as the Responsible Official another individual who has been approved by the HHS Secretary or Administrator following a security risk assessment by the Attorney General and who meets the requirements of this part.
 
-(j) A certificate of registration will be terminated upon the written request of the entity if the entity no longer possesses or uses any select agents or toxins and no longer wishes to be registered.
+(k) A certificate of registration will be terminated upon the written request of the entity if the entity no longer possesses or uses any select agents or toxins and no longer wishes to be registered.
 
-(k) A certificate of registration will be valid for a maximum of three years.
+(l) A certificate of registration will be valid for a maximum of three years.
+
+[70 FR 13316, Mar. 18, 2005, as amended at 82 FR 6292, Jan. 19, 2017]

@@ -1,8 +1,6 @@
 ##### § 1308.31 Application for exemption of a nonnarcotic prescription product. #####
 
-Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
-(a) Any person seeking to have any compound, mixture, or preparation containing any nonnarcotic controlled substance listed in § 1308.12(e), or in § 1308.13(b) or (c), or in § 1308.14, or in § 1308.15, exempted from application of all or any part of the Act pursuant to section 201(g)(3)(A), of the Act (21 U.S.C. 811(g)(3)(A)) may apply to the Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Any person seeking to have any compound, mixture, or preparation containing any nonnarcotic controlled substance listed in § 1308.12(e), or in § 1308.13(b) or (c), or in § 1308.14, or in § 1308.15, exempted from application of all or any part of the Act pursuant to section 201(g)(3)(A), of the Act (21 U.S.C. 811(g)(3)(A)) may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) An application for an exemption under this section shall contain the following information:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay pub
 
 (d) The Administrator may revoke any exemption granted pursuant to section 201(g)(3)(A) of the Act (21 U.S.C. 811(g)(3)(A)) by following the procedures set forth in paragraph (c) of this section for handling an application for an exemption which has been accepted for filing.
 
-[38 FR 8254, Mar. 30, 1973. Redesignated at 38 FR 26609, Sept. 24, 1973, as amended at 44 FR 18968, Mar. 30, 1979; 52 FR 9803, Mar. 27, 1987; 75 FR 10679, Mar. 9, 2010]
+[38 FR 8254, Mar. 30, 1973. Redesignated at 38 FR 26609, Sept. 24, 1973, as amended at 44 FR 18968, Mar. 30, 1979; 52 FR 9803, Mar. 27, 1987; 75 FR 10679, Mar. 9, 2010; 81 FR 97021, Dec. 30, 2016]

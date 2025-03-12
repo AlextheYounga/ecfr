@@ -1,0 +1,9 @@
+##### § 2.15 Incompetent and deceased patients. #####
+
+(a) *Incompetent patients other than minors* - (1) *Adjudication of incompetence.* In the case of a patient who has been adjudicated as lacking the capacity, for any reason other than insufficient age, to their own affairs, any consent which is required under the regulations in this part may be given by the guardian or other individual authorized under state law to act in the patient's behalf.
+
+(2) *No adjudication of incompetency.* In the case of a patient, other than a minor or one who has been adjudicated incompetent, that for any period suffers from a medical condition that prevents knowing or effective action on their own behalf, the part 2 program director may exercise the right of the patient to consent to a disclosure under subpart C of this part for the sole purpose of obtaining payment for services from a third-party payer.
+
+(b) *Deceased patients* - (1) *Vital statistics.* These regulations do not restrict the disclosure of patient identifying information relating to the cause of death of a patient under laws requiring the collection of death or other vital statistics or permitting inquiry into the cause of death.
+
+(2) *Consent by personal representative.* Any other disclosure of information identifying a deceased patient as having a substance use disorder is subject to the regulations in this part. If a written consent to the disclosure is required, that consent may be given by an executor, administrator, or other personal representative appointed under applicable state law. If there is no such applicable state law appointment, the consent may be given by the patient's spouse or, if none, by any responsible member of the patient's family.

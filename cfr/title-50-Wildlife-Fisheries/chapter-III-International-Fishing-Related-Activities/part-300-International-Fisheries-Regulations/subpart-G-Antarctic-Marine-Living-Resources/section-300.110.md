@@ -1,45 +1,29 @@
-##### § 300.110 Mesh size. #####
+##### § 300.110 Exploratory fisheries. #####
 
-(a) The use of pelagic and bottom trawls having the mesh size in any part of a trawl less than indicated is prohibited for any directed fishing for the following Antarctic finfishes:
+(a) An exploratory fishery, for purposes of this section, is a fishery that was previously defined as a new fishery under § 300.109.
 
-(1) *Notothenia rossii* and *Dissostichus eleginoides* - 120 mm.
+(b) A fishery continues to be classified by CCAMLR as an exploratory fishery until sufficient information is available to:
 
-(2) *Champsocephalus gunnari* - 90 mm.
+(1) Evaluate the distribution, abundance, and demography of the target species, leading to an estimate of the fishery's potential yield;
 
-(3) *Gobionotothen gibberifrons, Notothenia kempi* and *Lepidorhirus squamifrons* - 80 mm.
+(2) Review the fishery's potential impacts on dependent and related species; and
 
-(b) Any means or device that would reduce the size or obstruct the opening of the meshes is prohibited.
+(3) Allow the CCAMLR Scientific Committee to formulate and provide advice to the Commission on appropriate harvest catch levels and fishing gear.
 
-(c) The following procedure will be used for determining compliance with mesh size requirements.
+(c) The operator of any vessel engaging in an exploratory fishery must submit, by the date specified in the vessel permit issued under § 300.107, catch, effort, and related biological, ecological, and environmental data as required by a data collection plan for the fishery formulated by the CCAMLR Scientific Committee.
 
-(1) *Description of gauges.* (i) Gauges for determining mesh sizes will be 2 mm thick, flat, of durable material and capable of retaining their shape. They may have either a series of parallel-edged sides connected by intermediate tapering edges with a taper of one to eight on each side, or only tapering edges with the taper defined above. They will have a hole at the narrowest extremity.
+(d) In addition to the requirements in § 300.107, any person planning to enter an exploratory fishery must notify the Assistant Administrator no later than April 1 for the fishing season that will commence on or after December 1 and shall not enter the fishery pending NMFS and CCAMLR review or until a vessel permit has been used under this subpart. The Assistant Administrator will not issue a permit to enter an exploratory fishery until after the requirements of § 300.107 have been met and CCAMLR has considered the notification.
 
-(ii) Each gauge will be inscribed on its face with the width in millimeters both on the parallel-sided section, if any, and on the tapering section. In the case of the latter, the width will be inscribed every 1 mm interval, but the indication of the width may appear at regular intervals other than 1 mm.
+(e) The notification shall be accompanied by a complete vessel permit application required under § 300.107 and information on:
 
-(2) *Use of the gauge.* (i) The net will be stretched in the direction of the long diagonal of the meshes.
+(1) The nature of the exploratory fishery, including target species, methods of fishing, proposed region and maximum catch levels proposed for the forthcoming season;
 
-(ii) A gauge as described in paragraph (c)(1) of this section will be inserted by its narrowest extremity into the mesh opening in a direction perpendicular to the plane of the net.
+(2) Specification and full description of the types of fishing gear to be used;
 
-(iii) The gauge may be inserted into the mesh opening either with a manual force or using a weight or dynamometer, until it is stopped at the tapering edges by the resistance of the mesh.
+(3) Biological information on the target species from comprehensive research/survey cruises, such as distribution, abundance, demographic data and information on stock identity; details of dependent and related species and the likelihood of their being affected by the proposed fishery;
 
-(3) *Selection of meshes to be measured.* (i) Meshes to be measured will form a series of 20 consecutive meshes chosen in the direction of the long axis of the net, except that the meshes to be measured need not be consecutive if the application of paragraph (c)(3)(ii) of this section prevents it.
+(4) Information from other fisheries in the region or similar fisheries elsewhere that may assist in the evaluation of potential yield;
 
-(ii) Meshes less than 50 cm from lacings, ropes, or codline will not be measured. This distance will be measured perpendicular to the lacings, ropes or codline with the net stretched in the direction of that measurement. No mesh will be measured which has been mended or broken or has attachments to the net fixed at that mesh.
+(5) If the proposed fishery will be undertaken using bottom trawl gear, information on the known and anticipated impacts of this gear on vulnerable marine ecosystems, including benthos and benthic communities; and
 
-(iii) Nets will be measured only when wet and unfrozen.
-
-(4) The measurement of each mesh will be the width of the gauge at the point where the gauge is stopped, when using this gauge in accordance with paragraph (c)(2) of this section.
-
-(5) Determination of the mesh size of the net will be the arithmetical mean in millimeters of the measurements of the total number of meshes selected and measured as provided for in paragraphs (c) (3) and (4) of this section, the arithmetical mean being rounded up to the next millimeter.
-
-(6) *Inspection procedure.* (i) One series of 20 meshes, selected in accordance with paragraph (c)(3) of this section, will be measured by inserting the gauge manually without using a weight or dynamometer. The mesh size of the net will then be determined in accordance with paragraph (c)(5) of this section. If the calculation of the mesh size shows that the mesh size does not appear to comply with the rules in force, then two additional series of 20 meshes selected in accordance with paragraph (c)(3) of this section will be measured. The mesh size will then be recalculated in accordance with paragraph (c)(5) of this section, taking into account the 60 meshes already measured; this recalculation will be the mesh size of the net.
-
-(ii) If the captain of the vessel contests the mesh size determined in accordance with paragraph (c)(6)(i) of this section, such measurement will not be considered for the determination of the mesh size and the net will be remeasured.
-
-(A) A weight or dynamometer attached to the gauge will be used for remeasurement. The choice of weight or dynamometer is at the discretion of the inspectors. The weight will be fixed to the hole in the narrowest extremity of the gauge using a hook. The dynamometer may either be fixed to the hole in the narrowest extremity of the gauge or be applied at the largest extremity of the gauge.
-
-(B) The accuracy of the weight or dynamometer must be certified by the appropriate national authority.
-
-(C) For nets of a mesh size of 35 mm or less as determined in accordance with paragraph (c)(6)(i) of this section, a force of 19.61 newtons (equivalent to a mass of 2 kg) will be applied, and for other nets, a force of 49.03 newtons (equivalent to a mass of 5 kg).
-
-(D) For the purposes of determining the mesh size in accordance with paragraph (c)(5) of this section, when using a weight or dynamometer, one series of 20 meshes only will be measured.
+(6) Any other information the Assistant Administrator requires to fully implement the relevant conservation measures.

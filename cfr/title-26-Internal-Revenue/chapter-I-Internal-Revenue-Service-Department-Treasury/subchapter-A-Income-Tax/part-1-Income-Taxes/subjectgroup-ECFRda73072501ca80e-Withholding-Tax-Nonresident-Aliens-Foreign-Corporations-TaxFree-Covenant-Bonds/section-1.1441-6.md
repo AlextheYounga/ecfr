@@ -86,4 +86,4 @@ Example 1.G, a citizen and resident of Country Y, a country with which the Unite
 
 (3) [Reserved]. For further guidance, see § 1.1441-6T(i)(3).
 
-[T.D. 8734, 62 FR 53458, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72185, 72188, Dec. 31, 1998; T.D. 8856, 64 FR 73410, Dec. 30, 1999; 65 FR 16320, Mar. 28, 2000; T.D. 8881, 65 FR 32194, May 22, 2000; T.D. 8977, 67 FR 2328, Jan. 17, 2002; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9253, 71 FR 13006, Mar. 14, 2006; 71 FR 25748, May 2, 2006; T.D. 9648, 78 FR 73082, Dec. 5, 2013; T.D. 9658, 79 FR 12773, Mar. 6, 2014; T.D. 9808, 82 FR 2093, Jan. 6, 2017]
+[T.D. 8734, 62 FR 53458, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

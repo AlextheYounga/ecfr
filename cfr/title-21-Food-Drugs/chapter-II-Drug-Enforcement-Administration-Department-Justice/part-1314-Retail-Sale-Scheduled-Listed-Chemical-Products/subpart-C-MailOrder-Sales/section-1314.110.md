@@ -1,12 +1,10 @@
 ##### § 1314.110 Reports for mail-order sales. #####
 
-Link to an amendment published at 81 FR 97040, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) Each regulated person required to report under § 1310.03(c) of this chapter must either:
 
-(1) Submit a written report, containing the information set forth in paragraph (b) of this section, on or before the 15th day of each month following the month in which the distributions took place. The report must be submitted under company letterhead, signed by the person authorized to sign on behalf of the regulated seller, to the Import/Export Unit, Drug Enforcement Administration (see the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address); or
+(1) Submit a written report, containing the information set forth in paragraph (b) of this section, on or before the 15th day of each month following the month in which the distributions took place. The report must be submitted under company letterhead, signed by the person authorized to sign on behalf of the regulated seller, to the Regulatory Section, Diversion Control Division, Drug Enforcement Administration (see the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address); or
 
-(2) Upon request to and approval by the Administration, submit the report in electronic form, either via computer disk or direct electronic data transmission, in such form as the Administration shall direct. Requests to submit reports in electronic form should be submitted to the Import/Export Unit, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(2) Upon request to and approval by the Administration, submit the report in electronic form, either via computer disk or direct electronic data transmission, in such form as the Administration shall direct. Requests to submit reports in electronic form should be submitted to the Regulatory Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) Each monthly report must provide the following information for each distribution:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 81 FR 97040, Dec. 30, 2016.Link to a delay pub
 
 (13) Lot number.
 
-[71 FR 56024, Sept. 26, 2006, as amended at 75 FR 10684, Mar. 9, 2010]
+[71 FR 56024, Sept. 26, 2006, as amended at 75 FR 10684, Mar. 9, 2010; 81 FR 97040, Dec. 30, 2016]

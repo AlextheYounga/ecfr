@@ -1,7 +1,5 @@
 ##### § 121.11 Security. #####
 
-Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 (a) An individual or entity required to register under this part must develop and implement a written security plan. The security plan must be sufficient to safeguard the select agent or toxin against unauthorized access, theft, loss, or release.
 
 (b) The security plan must be designed according to a site-specific risk assessment and must provide graded protection in accordance with the risk of the select agent or toxin, given its intended use. A current security plan must be submitted for initial registration, renewal of registration, or when requested.
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was d
 
 (4) Establish procedures for removing unauthorized or suspicious persons;
 
-(5) Describe procedures for addressing loss or compromise of keys, passwords, combinations, etc. and protocols for changing access numbers or locks following staff changes;
+(5) Describe procedures for addressing loss or compromise of keys, keycards, passwords, combinations, etc. and protocols for changing access permissions or locks following staff changes;
 
 (6) Contain procedures for reporting unauthorized or suspicious persons or activities, loss or theft of select agents or toxins, release of select agents or toxins, or alteration of inventory records;
 
@@ -60,9 +58,11 @@ Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was d
 
 (iii) Any loss or theft of select agents or toxins;
 
-(iv) Any release of a select agent or toxin; and
+(iv) Any release of a select agent or toxin;
 
 (v) Any sign that inventory or use records for select agents or toxins have been altered or otherwise compromised; and
+
+(vi) Any loss of computer, hard drive or other data storage device containing information that could be used to gain access to select agents or toxins; and
 
 (8) Separate areas where select agents and toxins are stored or used from the public areas of the building.
 
@@ -122,6 +122,6 @@ Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was d
 
 (g) In developing a security plan, an individual or entity should consider the document entitled, “Security Guidance for Select Agent or Toxin Facilities.” This document is available on the National Select Agent Registry at *http://www.selectagents.gov/.*
 
-(h) The plan must be reviewed annually and revised as necessary. Drills or exercises must be conducted at least annually to test and evaluate the effectiveness of the plan. The plan must be reviewed and revised, as necessary, after any drill or exercise and after any incident.
+(h) The plan must be reviewed annually and revised as necessary. Drills or exercises must be conducted at least annually to test and evaluate the effectiveness of the plan. The plan must be reviewed and revised, as necessary, after any drill or exercise and after any incident. Drills or exercises must be documented to include how the drill or exercise tested and evaluated the plan, any problems that were identified and corrective action(s) taken, and the names of registered entity personal participants.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61079, Oct. 5, 2012; 79 FR 26831, May 12, 2014]
+[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61079, Oct. 5, 2012; 79 FR 26831, May 12, 2014; 82 FR 6209, Jan. 19, 2017]

@@ -1,7 +1,5 @@
 ##### § 1301.34 Application for importation of Schedule I and II substances. #####
 
-Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) In the case of an application for registration or reregistration to import a controlled substance listed in Schedule I or II, under the authority of section 1002(a)(2)(B) of the Act (21 U.S.C. 952(a)(2)(B)), the Administrator shall, upon the filing of such application, publish in the Federal Register a notice naming the applicant and stating that such applicant has applied to be registered as an importer of a Schedule I or II controlled substance, which substance shall be identified. A copy of said notice shall be mailed simultaneously to each person registered as a bulk manufacturer of that controlled substance and to any other applicant therefor. Any such person may, within 30 days from the date of publication of the notice in the Federal Register, file written comments on or objections to the issuance of the proposed registration, and may, at the same time, file a written request for a hearing on the application pursuant to § 1301.43. If a hearing is requested, the Administrator shall hold a hearing on the application in accordance with § 1301.41. Notice of the hearing shall be published in the Federal Register, and shall be mailed simultaneously to the applicant and to all persons to whom notice of the application was mailed. Any such person may participate in the hearing by filing a notice of appearance in accordance with § 1301.43 of this chapter. Notice of the hearing shall contain a summary of all comments and objections filed regarding the application and shall state the time and place for the hearing, which shall not be less than 30 days after the date of publication of such notice in the Federal Register. A hearing pursuant to this section may be consolidated with a hearing held pursuant to § 1301.35 or § 1301.36 of this part.
 
 (b) The Administrator shall register an applicant to import a controlled substance listed in Schedule I or II if he/she determines that such registration is consistent with the public interest and with U.S. obligations under international treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the following factors shall be considered:
@@ -32,7 +30,7 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 (1) Compliance with the security requirements set forth in §§ 1301.71-1301.76; and
 
-(2) Employment of security procedures to guard against in-transit losses within and without the jurisdiction of the United States.
+(2) Employment of security procedures to guard against in-transit losses.
 
 (d) In determining whether competition among the domestic manufacturers of a controlled substance is adequate within the meaning of paragraphs (b)(1) and (b)(6)(iii) of this section, as well as section 1002(a)(2)(B) of the Act (21 U.S.C. 952(a)(2)(B)), the Administrator shall consider:
 
@@ -58,4 +56,4 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 (f) The fact that the number of existing manufacturers is small shall not demonstrate, in and of itself, that adequate competition among them does not exist.
 
-[62 FR 13953, Mar. 24, 1997]
+[62 FR 13953, Mar. 24, 1997, as amended at 81 FR 97019, Dec. 30, 2016]

@@ -1,16 +1,16 @@
 ##### § 73.5 Exemptions for HHS select agents and toxins. #####
 
-Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
-
 (a) Clinical or diagnostic laboratories and other entities that possess, use, or transfer a HHS select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
-(1) Unless directed otherwise by the HHS Secretary, within seven calendar days after identification, the select agent or toxin is transferred in accordance with § 73.16 or destroyed on-site by a recognized sterilization or inactivation process,
+(1) Unless directed otherwise by the HHS Secretary, within seven calendar days after identification of the select agent or toxin (except for Botulinum neurotoxin and/or *Staphylococcal* enterotoxin (Subtypes A-E)), or within 30 calendar days after identification of Botulinum neurotoxin and/or *Staphylococcal* enterotoxin (Subtypes A-E), the select agent or toxin is transferred in accordance with § 73.16 or destroyed on-site by a recognized sterilization or inactivation process,
 
 (2) The select agent or toxin is secured against theft, loss, or release during the period between identification of the select agent or toxin and transfer or destruction of such agent or toxin, and any theft, loss, or release of such agent or toxin is reported, and
 
-(3) The identification of the select agent or toxin is reported to CDC or APHIS and to other appropriate authorities when required by Federal, State, or local law.
+(3) Unless otherwise directed by the HHS Secretary, the clinical or diagnostic specimens collected from a patient infected with a select agent are transferred in accordance with § 73.16 or destroyed on-site by a recognized sterilization or inactivation process within seven calendar days after delivery of patient care by health care professionals has concluded, and
 
-(i) The identification of any of the following HHS select agents or toxins must be immediately reported by telephone, facsimile, or e-mail: Botulinum neurotoxins, Botulinum neurotoxin producing species of *Clostridium*, Ebola viruses, *Francisella tularensis,* Marburg virus, Variola major virus (Smallpox virus), Variola minor (Alastrim), or Yersinia pestis. This report must be followed by submission of APHIS/CDC Form 4 within seven calendar days after identification.
+(4) The identification of the agent or toxin is reported to CDC or APHIS, the specimen provider, and to other appropriate authorities when required by Federal, State, or local law by telephone, facsimile, or email. This report must be followed by submission of APHIS/CDC Form 4 to APHIS or CDC within seven calendar days after identification.
+
+(i) The identification of any of the following HHS select agents or toxins must be immediately reported by telephone, facsimile, or e-mail: *Bacillus cereus* Biovar *anthracis,*, Botulinum neurotoxins, Botulinum neurotoxin producing species of *Clostridium*, Ebola viruses, *Francisella tularensis,* Marburg virus, Variola major virus (Smallpox virus), Variola minor (Alastrim), or Yersinia pestis. This report must be followed by submission of APHIS/CDC Form 4 within seven calendar days after identification.
 
 (ii) For all other HHS select agents or toxins, APHIS/CDC Form 4 must be submitted within seven calendar days after identification.
 
@@ -46,4 +46,4 @@ Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment wa
 
 (e) The HHS Secretary may temporarily exempt an individual or entity from the requirements of this part based on a determination that the exemption is necessary to provide for the timely participation of the individual or entity in response to a domestic or foreign public health emergency. With respect to the emergency involved, the exemption may not exceed 30 calendar days, except that one extension of an additional 30 calendar days may be granted.
 
-[70 FR 13316, Mar. 18, 2005, as amended at 73 FR 61366, Oct. 16, 2008; 77 FR 61112, Oct. 5, 2012]
+[70 FR 13316, Mar. 18, 2005, as amended at 73 FR 61366, Oct. 16, 2008; 77 FR 61112, Oct. 5, 2012; 82 FR 6292, Jan. 19, 2017]

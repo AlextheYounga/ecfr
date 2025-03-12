@@ -1,14 +1,14 @@
 ##### § 73.6 Exemptions for overlap select agents and toxins. #####
 
-Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
-
 (a) Clinical or diagnostic laboratories and other entities that possess, use, or transfer an overlap select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
 (1) Unless directed otherwise by the HHS Secretary or Administrator, within seven calendar days after identification, the select agent or toxin is transferred in accordance with § 73.16 or 9 CFR part 121.16 or destroyed on-site by a recognized sterilization or inactivation process,
 
 (2) The select agent or toxin is secured against theft, loss, or release during the period between identification of the select agent or toxin and transfer or destruction of such agent or toxin, and any theft, loss, or release of such agent or toxin is reported, and
 
-(3) The identification of the select agent or toxin is reported to CDC or APHIS and to other appropriate authorities when required by Federal, State, or local law.
+(3) Unless otherwise directed by the HHS Secretary or Administrator, the clinical or diagnostic specimens collected from a patient infected with a select agent are transferred in accordance with § 73.16 or destroyed on-site by a recognized sterilization or inactivation process within seven calendar days after delivery of patient care by health care professionals has concluded, and
+
+(4) The identification of the agent or toxin is reported to CDC or APHIS, the specimen provider, and to other appropriate authorities when required by Federal, State, or local law by telephone, facsimile, or email. This report must be followed by submission of APHIS/CDC Form 4 to APHIS or CDC within seven calendar days after identification.
 
 (i) The identification of any of the following overlap select agents or toxins must be immediately reported by telephone, facsimile, or e-mail: *Bacillus anthracis, Burkholderia mallei* and *Burkholderia pseudomallei.* This report must be followed by submission of APHIS/CDC Form 4 within seven calendar days after identification.
 
@@ -48,4 +48,4 @@ Link to an amendment published at 82 FR 6292, January 19, 2017.This amendment wa
 
 (f) Upon request of the Administrator, the HHS Secretary may exempt an individual or entity from the requirements, in whole or in part, of this part for 30 calendar days if the Administrator has granted the exemption for agricultural emergency. The HHS Secretary may extend the exemption once for an additional 30 calendar days.
 
-[70 FR 13316, Mar. 18, 2005, as amended at 73 FR 61366, Oct. 16, 2008; 77 FR 61112, Oct. 5, 2012; 79 FR 26862, May 12, 2014]
+[70 FR 13316, Mar. 18, 2005, as amended at 73 FR 61366, Oct. 16, 2008; 77 FR 61112, Oct. 5, 2012; 79 FR 26862, May 12, 2014;82 FR 6292, Jan. 19, 2017]

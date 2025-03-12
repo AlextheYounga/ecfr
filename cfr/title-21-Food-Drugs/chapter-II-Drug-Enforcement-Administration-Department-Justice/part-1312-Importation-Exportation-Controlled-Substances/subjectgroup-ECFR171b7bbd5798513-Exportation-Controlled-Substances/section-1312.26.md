@@ -1,5 +1,5 @@
 ##### § 1312.26 Records required of exporter. #####
 
-Link to an amendment published at 81 FR 97033, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+In addition to any other records required by this chapter, the exporter must keep a record of any serial numbers that might appear on packages of narcotic drugs in quantities of one ounce or more in such a manner as will identify the foreign consignee, along with an official record of the export permit, in accordance with part 1304 of this chapter.
 
-The exporter shall keep a record of any serial numbers that might appear on packages of narcotic drugs in quantities of one ounce or more in such a manner as will identify the foreign consignee, along with Copy 3 of the export permit.
+[81 FR 97033, Dec. 30, 2016]

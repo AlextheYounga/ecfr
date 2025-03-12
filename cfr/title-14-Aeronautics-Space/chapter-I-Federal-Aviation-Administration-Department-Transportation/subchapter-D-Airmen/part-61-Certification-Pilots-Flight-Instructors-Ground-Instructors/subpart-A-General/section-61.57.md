@@ -1,7 +1,5 @@
 ##### § 61.57 Recent flight experience: Pilot in command. #####
 
-Link to an amendment published at 81 FR 90170, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
-
 (a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying passengers or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and -
 
 (i) The person acted as the sole manipulator of the flight controls; and
@@ -142,9 +140,9 @@ Link to an amendment published at 81 FR 90170, Dec. 13, 2016.This amendment was 
 
 (e) *Exceptions.* (1) Paragraphs (a) and (b) of this section do not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 125 when the pilot is engaged in a flight operation for that certificate holder if the pilot in command is in compliance with §§ 125.281 and 125.285 of this chapter.
 
-(2) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 121 when the pilot is engaged in a flight operation under parts 91 and 121 for that certificate holder if the pilot in command is in compliance with §§ 121.435 or 121.436, as applicable, and § 121.439 of this chapter.
+(2) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 121 when the pilot is engaged in a flight operation under part 91 or 121 for that certificate holder if the pilot in command complies with §§ 121.436 and 121.439 of this chapter.
 
-(3) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 135 when the pilot is engaged in a flight operation under parts 91 and 135 for that certificate holder if the pilot in command is in compliance with §§ 135.243 and 135.247 of this chapter.
+(3) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 135 when the pilot is engaged in a flight operation under parts 91 or 135 for that certificate holder if the pilot in command is in compliance with §§ 135.243 and 135.247 of this chapter.
 
 (4) Paragraph (b) of this section does not apply to a pilot in command of a turbine-powered airplane that is type certificated for more than one pilot crewmember, provided that pilot has complied with the requirements of paragraph (e)(4)(i) or (ii) of this section:
 
@@ -196,4 +194,4 @@ Link to an amendment published at 81 FR 90170, Dec. 13, 2016.This amendment was 
 
 (6) A person approved by the FAA to perform night vision goggle proficiency checks.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997; Amdt. 61-106, 64 FR 23529, Apr. 30, 1999; Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-124, 74 FR 42550, Aug. 21, 2009; Amdt. 61-127, 76 FR 19267, Apr. 7, 2011; Amdt. 61-129, 76 FR 78143, Dec. 16, 2011; Amdt. 61-130, 78 FR 42374, July 15, 2013; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997; Amdt. 61-106, 64 FR 23529, Apr. 30, 1999; Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-124, 74 FR 42550, Aug. 21, 2009; Amdt. 61-127, 76 FR 19267, Apr. 7, 2011; Amdt. 61-129, 76 FR 78143, Dec. 16, 2011; Amdt. 61-130, 78 FR 42374, July 15, 2013; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Docket FAA-2013-0485, Amdt. 61-139, 81 FR 90170, Dec. 13, 2016]

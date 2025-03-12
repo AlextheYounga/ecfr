@@ -1,8 +1,6 @@
 ##### § 135.293 Initial and recurrent pilot testing requirements. #####
 
-Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
-
-(a) No certificate holder may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that pilot has passed a written or oral test, given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas -
+(a) No certificate holder may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that pilot has passed a written or oral test, given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas—
 
 (1) The appropriate provisions of parts 61, 91, and 135 of this chapter and the operations specifications and the manual of the certificate holder;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was 
 
 (6) Meteorology in general, including the principles of frontal systems, icing, fog, thunderstorms, and windshear, and, if appropriate for the operation of the certificate holder, high altitude weather;
 
-(7) Procedures for -
+(7) Procedures for—
 
 (i) Recognizing and avoiding severe weather situations;
 
@@ -42,4 +40,6 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was 
 
 (h) Rotorcraft pilots must be tested on the subjects in paragraph (a)(9) of this section when taking a written or oral knowledge test after April 22, 2015. Rotorcraft pilots must be checked on the maneuvers and procedures in paragraph (c) of this section when taking a competency check after April 22, 2015.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-27, 53 FR 37697, Sept. 27, 1988; Amdt. 135-129, 79 FR 9974, Feb. 21, 2014; 79 FR 22012, Apr. 21, 2014]
+(i) If the certificate holder is authorized to conduct EFVS operations, the competency check in paragraph (b) of this section must include tasks appropriate to the EFVS operations the certificate holder is authorized to conduct.
+
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-27, 53 FR 37697, Sept. 27, 1988; Amdt. 135-129, 79 FR 9974, Feb. 21, 2014; 79 FR 22012, Apr. 21, 2014; Docket FAA-2013-0485, Amdt. 135-135, 81 FR 90177, Dec. 13, 2016]

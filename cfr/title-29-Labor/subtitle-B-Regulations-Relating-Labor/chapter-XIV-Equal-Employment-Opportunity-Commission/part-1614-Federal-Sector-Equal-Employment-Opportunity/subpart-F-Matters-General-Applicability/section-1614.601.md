@@ -1,7 +1,5 @@
 ##### § 1614.601 EEO group statistics. #####
 
-Link to an amendment published at 82 FR 681, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 16, 2017.
-
 (a) Each agency shall establish a system to collect and maintain accurate employment information on the race, national origin, sex and disability of its employees.
 
 (b) Data on race, national origin and sex shall be collected by voluntary self-identification. If an employee does not voluntarily provide the requested information, the agency shall advise the employee of the importance of the data and of the agency's obligation to report it. If the employee still refuses to provide the information, the agency must make visual identification and inform the employee of the data it will be reporting. If an agency believes that information provided by an employee is inaccurate, the agency shall advise the employee about the solely statistical purpose for which the data is being collected, the need for accuracy, the agency's recognition of the sensitivity of the information and the existence of procedures to prevent its unauthorized disclosure. If, thereafter, the employee declines to change the apparently inaccurate self-identification, the agency must accept it.
@@ -18,8 +16,8 @@ Link to an amendment published at 82 FR 681, Jan. 3, 2017.This amendment was del
 
 (e) The agency may use the data only in studies and analyses which contribute affirmatively to achieving the objectives of the equal employment opportunity program. An agency shall not establish a quota for the employment of persons on the basis of race, color, religion, sex, or national origin.
 
-(f) Data on disabilities shall also be collected by voluntary self-identification. If an employee does not voluntarily provide the requested information, the agency shall advise the employee of the importance of the data and of the agency's obligation to report it. If an employee who has been appointed pursuant to special appointment authority for hiring individuals with disabilities still refuses to provide the requested information, the agency must identify the employee's disability based upon the records supporting the appointment. If any other employee still refuses to provide the requested information or provides information which the agency believes to be inaccurate, the agency should report the employee's disability status as unknown.
+(f) Data on disabilities shall be collected using a method permitted under § 1614.203(d)(6)(ii) and § 1614.203(d)(6)(iii).
 
 (g) An agency shall report to the Commission on employment by race, national origin, sex and disability in the form and at such times as the Commission may require.
 
-[57 FR 12646, Apr. 10, 1992, as amended at 74 FR 63984, Dec. 7, 2009]
+[57 FR 12646, Apr. 10, 1992, as amended at 74 FR 63984, Dec. 7, 2009; 82 FR 681, Jan. 3, 2017]

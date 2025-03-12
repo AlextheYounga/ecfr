@@ -1,6 +1,6 @@
 ##### § 91.175 Takeoff and landing under IFR. #####
 
-Link to an amendment published at 81 FR 90172, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
 
 (a) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.
 
@@ -12,7 +12,7 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.This amendment was 
 
 (3) The DA/DH or MDA appropriate for the aircraft equipment available and used during the approach.
 
-(c) *Operation below DA/ DH or MDA.* Except as provided in paragraph (l) of this section, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless -
+(c) *Operation below DA/DH or MDA.* Except as provided in paragraph (l) of this section or § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless -
 
 (1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and for operations conducted under part 121 or part 135 unless that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 
@@ -30,7 +30,7 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.This amendment was 
 
 (v) The runway end identifier lights.
 
-(vi) The visual approach slope indicator.
+(vi) The visual glideslope indicator.
 
 (vii) The touchdown zone or touchdown zone markings.
 
@@ -44,15 +44,13 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.This amendment was 
 
 (1) For operations conducted under paragraph (l) of this section, the requirements of (l)(4) of this section are not met; or
 
-(2) For all other part 91 operations and parts 121, 125, 129, and 135 operations, the flight visibility is less than the visibility prescribed in the standard instrument approach procedure being used.
+(2) For operations conducted under § 91.176 of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
+
+(3) For all other operations under this part and parts 121, 125, 129, and 135, the flight visibility is less than the visibility prescribed in the standard instrument approach procedure being used.
 
 (e) *Missed approach procedures.* Each pilot operating an aircraft, except a military aircraft of the United States, shall immediately execute an appropriate missed approach procedure when either of the following conditions exist:
 
-(1) Whenever operating an aircraft pursuant to paragraph (c) or (l) of this section and the requirements of that paragraph are not met at either of the following times:
-
-(i) When the aircraft is being operated below MDA; or
-
-(ii) Upon arrival at the missed approach point, including a DA/DH where a DA/DH is specified and its use is required, and at any time after that until touchdown.
+(1) Whenever operating an aircraft pursuant to paragraph (c) or (l) of this section or § 91.176 of this chapter, and the requirements of that paragraph or section are not met at either of the following times:
 
 (2) Whenever an identifiable part of the airport is not distinctly visible to the pilot during a circling maneuver at or above MDA, unless the inability to see an identifiable part of the airport results only from a normal bank of the aircraft during the circling approach.
 
@@ -162,4 +160,6 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.This amendment was 
 
 (4) The display characteristics and dynamics are suitable for manual control of the aircraft.
 
-[Doc. No. 18334, 54 FR 34294, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-281, 69 FR 1640, Jan. 9, 2004; Amdt. 91-296, 72 FR 31678, June 7, 2007; Amdt. 91-306, 74 FR 20205, May 1, 2009]
+(n) Before March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with either the requirements of paragraphs (l) and (m) of this section or with the requirements of § 91.176(b) of this part. Beginning on March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with the requirements of § 91.176(b) of this part. The requirements of paragraphs (l) and (m) of this section will expire on March 13, 2018.
+
+[Doc. No. 18334, 54 FR 34294, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-281, 69 FR 1640, Jan. 9, 2004; Amdt. 91-296, 72 FR 31678, June 7, 2007; Amdt. 91-306, 74 FR 20205, May 1, 2009; Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90172, Dec. 13, 2016]

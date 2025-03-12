@@ -1,0 +1,5 @@
+##### § 600.1605 Definitions and word usage. #####
+
+(a) *Definitions.* In addition to the definitions in the Magnuson-Stevens Act and § 600.10, *standardized reporting methodology* means an established, consistent procedure or procedures used to collect, record, and report bycatch data in a fishery, which may vary from one fishery to another. Bycatch assessment is not part of the standardized reporting methodology, but must be considered as described in § 600.1610(a)(2)(iv).
+
+(b) *Word usage.* The terms “bycatch” and “fishery” are used in the same manner as in 16 U.S.C. 1802. The terms “must”, “should”, “may”, “will”, “could”, and “can” are used in the same manner as in § 600.305(c). The term “Council” is used in the same manner as in § 600.305(d)(10), and includes the regional fishery management Councils and the Secretary of Commerce, as appropriate (16 U.S.C. 1854(c) and (g)).

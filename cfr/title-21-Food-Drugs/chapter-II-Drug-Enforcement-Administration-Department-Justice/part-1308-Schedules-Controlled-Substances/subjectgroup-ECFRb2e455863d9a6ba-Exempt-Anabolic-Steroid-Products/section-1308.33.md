@@ -1,10 +1,8 @@
 ##### § 1308.33 Exemption of certain anabolic steroid products; application. #####
 
-Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) The Administrator, upon the recommendation of Secretary of Health and Human Services, may, by regulation, exempt from the application of all or any part of the Act any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter, which is intended for administration to a human being or animal, if, because of its concentration, preparation, formulation, or delivery system, it has no significant potential for abuse.
 
-(b) Any person seeking to have any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter exempted from the application of all or any part of the Act, pursuant to paragraph (a) of this section, may apply to the Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(b) Any person seeking to have any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter exempted from the application of all or any part of the Act, pursuant to paragraph (a) of this section, may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (c) An application for an exemption under this section shall be submitted in triplicate and contain the following information:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay pub
 
 (e) The Administrator may revoke any exemption granted pursuant to section 1903(a) of Public Law 101-647 by following the procedures set forth in paragraph (d) of this section for handling an application for an exemption which has been accepted for filing.
 
-[56 FR 42936, Aug. 30, 1991; 57 FR 10815, Mar. 31, 1992, as amended at 62 FR 13968, Mar. 24, 1997; 70 FR 74657, Dec. 16, 2005; 75 FR 10679, Mar. 9, 2010]
+[56 FR 42936, Aug. 30, 1991; 57 FR 10815, Mar. 31, 1992, as amended at 62 FR 13968, Mar. 24, 1997; 70 FR 74657, Dec. 16, 2005; 75 FR 10679, Mar. 9, 2010; 81 FR 97021, Dec. 30, 2016]

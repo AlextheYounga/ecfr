@@ -12,11 +12,13 @@
 
 (ii) If the protester has requested a post-award debriefing from the FAA Product Team, not later than five (5) business days after the date on which the Product Team holds that debriefing.
 
-(b) Protests shall be filed at:
+(b) Protests shall be filed with the ODRA, AGC-70, Federal Aviation Administration, telephone (202) 267-3290 as follows:
 
-(1) ODRA, AGC-70, Federal Aviation Administration, 800 Independence Avenue, SW., Room 323, Washington, DC 20591; Telephone: (202) 267-3290, Fax: (202) 267-3720; or
+(1) 600 Independence Avenue SW., Room 2W100, Washington, DC 20591 for filing by hand delivery, courier or other form of in-person delivery;
 
-(2) Other address as shall be published from time to time in the Federal Register.
+(2) 800 Independence Avenue SW., Washington, DC 20591 [Attention: AGC-70, Wilbur Wright Bldg., Room 2W100] for filing by U.S. Mail; or
+
+(3) Numbers (202) 267-3720 or alternate (202) 267-1293 for filing by facsimile.
 
 (c) A protest shall be in writing, and set forth:
 
@@ -42,7 +44,7 @@
 
 (1) Set forth such compelling reason(s), supply all facts and documents supporting the protester's position; and
 
-(2) Demonstrate -
+(2) Demonstrate—
 
 (i) The protester has alleged a substantial case;
 
@@ -59,3 +61,5 @@
 (f) Upon receipt of the protest, the CO shall notify the awardee of a challenged contract award in writing of the existence of the protest. The awardee and/or interested parties shall notify the ODRA in writing, of their interest in participating in the protest as intervenors within two (2) business days of receipt of the CO's notification, and shall, in such notice, designate a person as the point of contact for the ODRA.
 
 (g) The ODRA has discretion to designate the parties who shall participate in the protest as intervenors. In protests of awarded contracts, only the awardee may participate as an intervenor as a matter of right.
+
+[76 FR 55221, Sept. 7, 2011, as amended by Doc. No. FAA-2017-0075, 82 FR 14429, Mar. 21, 2017]

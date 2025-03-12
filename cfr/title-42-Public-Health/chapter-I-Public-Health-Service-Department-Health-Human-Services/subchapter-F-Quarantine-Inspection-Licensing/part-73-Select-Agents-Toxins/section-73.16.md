@@ -1,7 +1,5 @@
 ##### § 73.16 Transfers. #####
 
-Link to an amendment published at 82 FR 6294, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
-
 (a) Except as provided in paragraphs (c) and (d) of this section, a select agent or toxin may only be transferred to individuals or entities registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by CDC or APHIS prior to the transfer.4
 
 4 This section does not cover transfers within an entity when the sender and the recipient are covered by the same certificate of registration.
@@ -38,8 +36,8 @@ Link to an amendment published at 82 FR 6294, January 19, 2017.This amendment wa
 
 (l) A registered individual or entity transferring an amount of a HHS toxin otherwise excluded under the provisions of § 73.3(d) must:
 
-(1) Transfer the amounts only after the transferor uses due diligence and documents that the recipient has a legitimate need (*i.e.,* reasonably justified by a prophylactic, protective, bona fide research, or other peaceful purpose) to handle or use such toxins.
+(1) Transfer the amounts only after the transferor uses due diligence and documents that the recipient has a legitimate need (*e.g.,* prophylactic, protective, bona fide research, or other peaceful purpose) to handle or use such toxins. Information to be documented includes, but is not limited, to the recipient information, toxin and amount transferred, and declaration that the recipient has legitimate purpose to store and use such toxins.
 
 (2) Report to CDC if they detect a known or suspected violation of Federal law or become aware of suspicious activity related to a toxin listed in § 73.3(d) of this part.
 
-[70 FR 13316, Mar. 18, 2005, as amended at 77 FR 61115, Oct. 5, 2012; 79 FR 26862, May 12, 2014]
+[70 FR 13316, Mar. 18, 2005, as amended at 77 FR 61115, Oct. 5, 2012; 79 FR 26862, May 12, 2014; 82 FR 6294, Jan. 19, 2017]

@@ -1,7 +1,5 @@
 ##### § 127.28 Special merchandise. #####
 
-Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
-
 (a) *Drugs, seeds, plants, nursery stock, and other articles required to be inspected by the Department of Agriculture.* Drugs, seeds, plants, nursery stock, and other articles required to be inspected by the Department of Agriculture must be inspected by a representative of the Department of Agriculture to ascertain whether they comply with the requirements of the law and regulations of that Department. If found not to comply with such requirements, they shall be immediately destroyed.
 
 (b) *Pesticides and devices.* Pesticides and devices intended for trapping, destroying, repelling or mitigating any pest or any other form of plant or animal life (other than man or other than bacteria, virus, or other microorganism on or in living man or other living animals) shall be inspected by a representative of the Environmental Protection Agency to ascertain whether they comply with the requirements of the law and regulations of that agency. If found not to comply with such requirements, they shall be immediately destroyed.
@@ -18,6 +16,6 @@ Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was 
 
 (h) *Unclaimed merchandise remaining on dock.* Unclaimed merchandise remaining on the dock which, in the opinion of the port director, will not sell for enough to pay the cost of cartage and storage shall be sold at public auction upon public notice of not less than 6 or more than 10 days.
 
-(i) *Chemical substances, mixtures, and articles containing chemical substances or mixtures.* Chemical substances, mixtures, and articles containing a chemical substance or mixture, as these items are defined in section 3, Toxic Substances Control Act (“TSCA”) and section 12.120 of this chapter, shall be inspected by a representative of the Environmental Protection Agency to ascertain whether they comply with TSCA and the regulations and orders issued thereunder. If found not to comply with these requirements they shall be exported or otherwise disposed of immediately in accordance with the provisions of §§ 12.125 through 12.127 of this chapter.
+(i) *Good subject to TSCA Requirements.* A good subject to TSCA requirements, *i.e.,* a covered commodity as defined in section 12.120 of this chapter, will be inspected by a representative of the Environmental Protection Agency to ascertain whether it complies with the Toxic Substances Control Act and the regulations and orders issued thereunder. If found not to comply with these requirements that good must be exported or otherwise disposed of immediately in accordance with the provisions of §§ 12.125 through 12.127 of this chapter.
 
-[T.D. 74-114, 39 FR 12092, Apr. 3, 1974, as amended by T.D. 83-158, 48 FR 34740, Aug. 1, 1983; T.D. 98-74, 63 FR 51290, Sept. 25, 1998; T.D. 02-65, 67 FR 68034, Nov. 8, 2002]
+[T.D. 74-114, 39 FR 12092, Apr. 3, 1974, as amended by T.D. 83-158, 48 FR 34740, Aug. 1, 1983; T.D. 98-74, 63 FR 51290, Sept. 25, 1998; T.D. 02-65, 67 FR 68034, Nov. 8, 2002; CBP Dec. 16-28, 81 FR 94986, Dec. 27, 2016]

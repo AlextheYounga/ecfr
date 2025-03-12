@@ -1,9 +1,7 @@
 ##### § 1313.35 Return declaration or amendment to Form 486 for international transactions. #####
 
-Link to an amendment published at 81 FR 97040, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+(a) Within 30 calendar days after an international transaction is completed, the broker or trader must file a report with the Administration through the DEA Diversion Control Division secure network application about the particulars of the transaction. This report must include the following information: The date(s) on which the listed chemical was released by the foreign customs officer(s) at the port(s); the actual quantity of listed chemical that left the country of export; the actual quantity of the listed chemical released by a customs officer at the port of entry; chemical; container; name of transferees; and the transaction identification and any other information as the Administration may specify. Upon receipt and review, the Administration will assign a completed report a transaction identification number. The report will not be deemed filed until the Administration has issued a transaction identification number.
 
-(a) Within 30 days after a transaction is completed, the broker or trader must send to the Administration a return declaration containing particulars of the transaction, including the date, quantity, chemical, container, name of transferees, and any other information as the Administration may specify.
+(b) If an international transaction for which a DEA Form 486 has been filed fails to take place, the broker or trader must report to the Administration that the international transaction did not occur utilizing the DEA Diversion Control Division secure network application as soon as the broker or trader becomes aware of the circumstances.
 
-(b) If a transaction for which a Form 486 has been filed fails to take place, the broker or trader must file an amended Form 486 notifying the Administration that the transaction did not occur.
-
-[72 FR 17409, Apr. 9, 2007]
+[81 FR 97040, Dec. 30, 2016]

@@ -1,31 +1,75 @@
-##### § 300.114 Dealer permits and preapproval. #####
+##### § 300.114 Prohibitions. #####
 
-(a) *General.* (1) A dealer importing, or re-exporting AMLR, or a person exporting AMLR, must possess a valid IFTP issued under § 300.322 and file, as specified under § 300.323, the required data sets electronically with CBP at the time of, or in advance of importation or exportation. Required data set has the same meaning as § 300.321 (*see* definition of “Documentation and data sets required.”) See § 300.322 for IFTP application procedures and permit regulations. The IFTP holder may only conduct those specific activities stipulated by the IFTP. Preapproval from NMFS is required for each shipment of frozen *Dissostichus* species.
+In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
-(2) An AMLR may be imported into the United States if its harvest has been authorized by a U.S.-issued individual permit or its importation has been authorized by an IFTP and, in the case of frozen *Dissostichus* species, preapproval issued under § 300.114(a)(1). AMLRs may not be released for entry into the United States unless accompanied by the harvesting permit, the individual permit, or IFTP and, in the case of frozen *Dissostichus* species, the preapproval certification granted by NMFS to allow import. NMFS will only accept electronic catch documents for toothfish imports.
+(a) Harvest any AMLR without a permit for such activity as required by § 300.107.
 
-(3) In no event may a marine mammal be imported into the United States unless authorized and accompanied by an import permit issued under the Marine Mammal Protection Act and/or the Endangered Species Act.
+(b) Import into, or export or re-export from, the United States any AMLR: Taken by a vessel of the United States without a permit issued under this subpart or by a foreign-flagged vessel without valid authorization from the applicable flag state to harvest those resources; without accurate, complete, valid and properly validated CDS documentation as required by § 300.106; without an IFTP as required by § 300.104; or in violation of the terms and conditions for such import, export or re-export as specified on the IFTP.
 
-(4) An IFTP or preapproval issued under this section does not authorize the harvest or transshipment of any AMLR by or to a vessel of the United States.
+(c) Engage in or benefit from harvesting or other associated activities in violation of the provisions of the Convention or in violation of a conservation measure in force with respect to the United States under Article IX of the Convention.
 
-(b) *Application.* Application forms for preapproval are available from NMFS.
+(d) Ship, transport, offer for sale, sell, purchase, import, export, re-export or have custody, control or possession of, any AMLR that was harvested in violation of a conservation measure in force with respect to the United States under Article IX of the Convention or in violation of any regulation promulgated under the Act, without regard to the citizenship of the person that harvested, or vessel that was used in the harvesting of, the AMLR.
 
-(c) *Fees.* A fee to recover the administrative expenses associated with processing preapproval applications will be charged. The amount of the fee will be determined in accordance with procedures specified in the NOAA Finance Handbook for calculating administrative costs of special products and services. The fee is specified with the preapproval application form. The appropriate fee must accompany each application and be paid by check, draft, or money order.
+(e) Refuse to allow any CCAMLR inspector or authorized officer to board a vessel of the United States or a vessel subject to the jurisdiction of the United States for the purpose of conducting any search, investigation, or inspection authorized by the Act, this subpart, or any permit issued under the Act.
 
-(d) *Issuance.* NMFS may issue a preapproval if it determines that the activity proposed by the dealer meets the requirements of the Act and that the resources were not or will not be harvested in violation of any CCAMLR conservation measure in force with respect to the United States or in violation of any regulation in this subpart.
+(f) Refuse to provide appropriate assistance, including access as necessary to communications equipment, to any CCAMLR inspector or authorized officer.
 
-(e) *Duration.* A preapproval is valid until the product is imported. Each export or re-export document created by NMFS in the CDS is valid only for that particular shipment.
+(g) Refuse to sign a written notification of alleged violations of CCAMLR conservation measures in force prepared by a CCAMLR inspector.
 
-(f) *Transfer.* A preapproval issued under this section is not transferable or assignable.
+(h) Assault, resist, oppose, impede, intimidate, or interfere with a CCAMLR inspector or authorized officer in the conduct of any boarding, search, investigation, or inspection authorized by the Act, this subpart, or any permit issued under the Act.
 
-(g) *Changes in information* - (1) *Pending applications.* Applicants for preapproval under this section must report in writing to NMFS any change in the information submitted in preapproval applications.
+(i) Use any vessel to engage in harvesting, or receive, import, export or re-export, AMLRs after the revocation, or during the period of suspension, of an applicable permit issued under the Act.
 
-(2) *Issued preapprovals.* Any entity issued a preapproval under this section must report in writing to NMFS any changes in previously submitted information.
+(j) Fail to identify, falsely identify, fail to properly maintain, or obscure the identification of a harvesting vessel or its gear as required by this subpart.
 
-(h) *Revision, suspension, or revocation.* A preapproval issued under this section may be revised, suspended, or revoked, based upon a violation of the IFTP, the Act, or this subpart. Failure to report a change in the information contained in a preapproval application voids the application or preapproval. Title 15 CFR part 904 governs sanctions under this subpart.
+(k) Fish in an area where fishing is prohibited by the Commission, other than for scientific research purposes in accordance with § 300.103.
 
-(i) *Exception.* Preapproval is not required for shipments of fresh *Dissostichus* species. A report of a shipment of fresh *Dissostichus* species must be completed and submitted to NMFS within 24 hours following import.
+(l) Violate or attempt to violate any provision of this subpart, the Act, any other regulation promulgated under the Act or the conditions of any permit issued under the Act.
 
-(j) *SVDCD.* Preapprovals will not be issued for *Dissostichus* spp. offered for sale or other disposition under a Specially Validated DCD.
+(m) Provide incomplete or inaccurate information about the harvest, transshipment, landing, import, export, or re-export of applicable species on any document required under this subpart.
 
-[68 FR 23228, May 1, 2003. Redesignated and amended at 72 FR 48510, 48511, Aug. 23, 2007; 75 FR 18112, Apr. 9, 2010; 81 FR 51134, Aug. 3, 2016]
+(n) Receive AMLR from a vessel, without holding an AMLR first receiver permit as required under § 300.104, or receive AMLR from a fishing vessel that does not hold a valid vessel permit issued under § 300.107.
+
+(o) Import, export or re-export *Dissostichus* spp. harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported and unregulated (IUU) fishing, originating from a high seas area designated by the Food and Agriculture Organization of the United Nations as Statistical Area 51 or Statistical Area 57 or accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation or import or re-export *Dissostichus spp.* accompanied by a SVDCD.
+
+(p) Import shipments of frozen *Dissostichus* spp. without a preapproval issued under § 300.105.
+
+(q) *Observers.* (1) Assault, resist, oppose, impede, intimidate, harass, bribe, or interfere with an observer.
+
+(2) Interfere with or bias the sampling procedure employed by an observer, including physical, mechanical, or other sorting or discarding of catch before sampling.
+
+(3) Tamper with, destroy, or discard an observer's collected samples, equipment, records, photographic film, papers, or personal effects without the express consent of the observer.
+
+(4) Prohibit or bar by command, impediment, threat, coercion, or by refusal of reasonable assistance, an observer from collecting samples, conducting product recovery rate determinations, making observations, or otherwise performing the observer's duties.
+
+(5) Harass an observer by conduct that has sexual connotations, has the purpose or effect of interfering with the observer's work performance, or otherwise creates an intimidating, hostile, or offensive environment.
+
+(6) Fish for or process fish without observer coverage required under § 300.111.
+
+(7) Require, pressure, coerce, or threaten an observer to perform duties normally performed by crew members, including, but not limited to, cooking, washing dishes, standing watch, vessel maintenance, assisting with the setting or retrieval of gear, or any duties associated with the processing of fish, from sorting the catch to the storage of the finished product.
+
+(8) Refuse to provide appropriate assistance, including access as necessary to communications equipment, to an observer.
+
+(r) *Vessel monitoring systems.* (1) Use any vessel of the United States issued, or required to be issued, an AMLR vessel permit to conduct fishing operations unless that vessel carries a NMFS-type-approved EMTU and complies with the requirements described in this subpart.
+
+(2) Fail to install, activate, repair or replace an EMTU prior to leaving port as specified in this subpart.
+
+(3) Fail to operate and maintain an EMTU on board the vessel at all times as specified in this subpart.
+
+(4) Tamper with, damage, destroy, alter, or in any way distort, render useless, inoperative, ineffective, or inaccurate the EMTU required to be installed on a vessel or the EMTU position reports transmitted by a vessel as specified in this subpart.
+
+(5) Fail to contact OLE or follow OLE instructions when automatic position reporting has been interrupted as specified in this subpart.
+
+(6) Register an EMTU to more than one vessel at the same time.
+
+(7) Connect, or leave connected, additional equipment to an EMTU without the prior approval of the OLE.
+
+(8) Make a false statement, oral or written, to an authorized officer regarding the installation, use, operation, or maintenance of an EMTU or communication service provider.
+
+(9) Fail to report to NMFS and to CCAMLR's C-VMS from port-to-port on any trip during which AMLR are, or are expected to be, harvested regardless of whether the vessel operates, or is expected to operate, inside the Convention Area.
+
+(s) Trawl for krill in Convention Area fisheries without a seal excluder device or possess trawl gear without a seal excluder device installed onboard a vessel permitted, or required to be permitted, under this subpart to harvest krill with trawl gear.
+
+(t) Harvest any AMLR in the Convention Area without a vessel permit required by this subpart.
+
+(u) Ship, transport, offer for sale, sell, purchase, import, export, re-export or have custody, control, or possession of, any frozen *Dissostichus* species without verifiable documentation that the harvesting vessel reported to CCAMLR's C-VMS continuously and in real-time, from port-to-port, regardless of where such *Dissostichus* species were harvested.

@@ -1,7 +1,5 @@
 ##### § 31.303 Substantive requirements. #####
 
-Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8894, Feb. 1, 2017.
-
 (a) *Assurances.* The State must certify through the provision of assurances that it has complied and will comply (as appropriate) with sections 223(a)(1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (16), (17), (18), (19), (20), (21), (22), and (25), and sections 229 and 261(d), in formulating and implementing the State plan. The Formula Grant Application kit provides a form and guidance for the provision of assurances. OJJDP interprets the section 223(a)(16) assurance as satisfied by an affirmation that State law and/or policy clearly require equitable treatment on the required bases; or by providing in the State plan that the State agency will require an assurance of equitable treatment by all Formula Grant subgrant and contract recipients, and establish as a program goal, in conjunction with the State Advisory Group, the adoption and implementation of a statewide juvenile justice policy that all youth in the juvenile justice system will be treated equitably without regard to gender, race, family income, and mentally, emotionally, or physically handicapping conditions. OJJDP interprets the section 223(a)(25) assurance as satisfied by a provision in the State plan for the State agency and the State Advisory Group to promulgate policies and budget priorities that require the funding of programs that are part of a comprehensive and coordinated community system of services as set forth in section 103(19) of the JJDP Act. This requirement is applicable when a State's formula grant for any fiscal year exceeds 105 percent of the State's formula grant for FY 1992.
 
 (b) *Serious juvenile offender emphasis.* Pursuant to sections 101(a)(10) and 223(a)(10) of the JJDP Act, OJJDP encourages States that have identified serious and violent juvenile offenders as a priority problem to allocate formula grant funds to programs designed for serious and violent juvenile offenders at a level consistent with the extent of the problem as identified through the State planning process. Particular attention should be given to improving prosecution, sentencing procedures, providing resources necessary for effective rehabilitation, and facilitating the coordination of services between the juvenile justice and criminal justice systems.
@@ -36,9 +34,9 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (1) Describe its plan, procedure, and timetable for assuring that requirements of this section will be met beginning after December 8, 1985. Refer to § 31.303(f)(4) to determine the regulatory exception to this requirement.
 
-(2) Describe the barriers that a State faces in removing all juveniles from adult jails and lockups. This requirement excepts only those alleged or adjudicated juvenile delinquents placed in a jail or a lockup for up to six hours from the time they enter a secure custody status or immediately before or after a court appearance, those juveniles formally waived or transferred to criminal court and against whom criminal felony charges have been filed, or juveniles over whom a criminal court has original or concurrent jurisdiction and such court's jurisdiction has been invoked through the filing of criminal felony charges.
+(2) Describe the barriers that a State faces in removing all juveniles from adult jails and lockups. This requirement excepts only those alleged or adjudicated juvenile delinquents placed in a jail or a lockup for up to six hours from the time they enter a detention status or immediately before or after a court appearance, those juveniles formally waived or transferred to criminal court and against whom criminal felony charges have been filed, or juveniles over whom a criminal court has original or concurrent jurisdiction and such court's jurisdiction has been invoked through the filing of criminal felony charges.
 
-(3) *Collocated facilities.* (i) Determine whether or not a facility in which juveniles are detained or confined is an adult jail or lockup. The JJDP Act prohibits the secure custody of juveniles in adult jails and lockups, except as otherwise provided under the Act and implementing OJJDP regulations. Juvenile facilities collocated with adult facilities are considered adult jails or lockups absent compliance with criteria established in paragraphs (e)(3)(i)(C)(*1*) through (*4*) of this section.
+(3) *Collocated facilities.* (i) Determine whether or not a facility in which juveniles are detained or confined is an adult jail or lockup. The JJDP Act prohibits the detention of juveniles in adult jails and lockups, except as otherwise provided under the Act and implementing OJJDP regulations. Juvenile facilities collocated with adult facilities are considered adult jails or lockups absent compliance with criteria established in paragraphs (e)(3)(i)(C)(*1*) through (*4*) of this section.
 
 (A) A collocated facility is a juvenile facility located in the same building as an adult jail or lockup, or is part of a related complex of buildings located on the same grounds as an adult jail or lockup. A complex of buildings is considered “related” when it shares physical features such as walls and fences, or services beyond mechanical services (heating, air conditioning, water and sewer), or the specialized services that are allowable under paragraph (e)(3)(i)(C)(*3*) of this section.
 
@@ -128,9 +126,9 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (v) The State must provide documentation that the conditions in paragraphs(f)(4)(i) through (iv) of this section have been met and received prior approval from OJJDP. OJJDP strongly recommends that jails and lockups that incarcerate juveniles be required to provide youth specific admissions screening and continuous visual supervision of juveniles incarcerated pursuant to this exception; and
 
-(vi) Pursuant to section 223(a)(14) of the JJDP Act, the nonMSA (low population density) exception to the jail and lockup removal requirement as described in paragraphs (f)(4) (i) through (v) of this section shall remain in effect through 1997, and shall allow for secure custody beyond the twenty-four hour period described in paragraph (f)(4)(i) of this section when the facility is located where conditions of distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within twenty-four hours, so that a brief (not to exceed an additional forty-eight hours) delay is excusable; or the facility is located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until twenty-four hours after the time that such conditions allow for reasonably safe travel. States may use these additional statutory allowances only where the precedent requirements set forth in paragraphs (f)(4) (i) through (v) of this section have been complied with. This may necessitate statutory or judicial (court rule or opinion) relief within the State from the twenty-four hour initial court appearance standard required by paragraph (f)(4)(i) of this section.
+(vi) Pursuant to section 223(a)(14) of the JJDP Act, the nonMSA (low population density) exception to the jail and lockup removal requirement as described in paragraphs (f)(4) (i) through (v) of this section shall remain in effect through 1997, and shall allow for detention beyond the twenty-four hour period described in paragraph (f)(4)(i) of this section when the facility is located where conditions of distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within twenty-four hours, so that a brief (not to exceed an additional forty-eight hours) delay is excusable; or the facility is located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until twenty-four hours after the time that such conditions allow for reasonably safe travel. States may use these additional statutory allowances only where the precedent requirements set forth in paragraphs (f)(4) (i) through (v) of this section have been complied with. This may necessitate statutory or judicial (court rule or opinion) relief within the State from the twenty-four hour initial court appearance standard required by paragraph (f)(4)(i) of this section.
 
-(5) *Reporting requirement.* The State shall report annually to the Administrator of OJJDP on the results of monitoring for section 223(a)(12),(13), and (14) of the JJDP Act. The reporting period should provide 12 months of data, but shall not be less than six months. The report shall be submitted to the Administrator of OJJDP by December 31 of each year.
+(5) *Reporting requirement.* The State shall report annually to the Administrator of OJJDP on the results of monitoring for the core requirements in the JJDPA at 42 U.S.C. 5633(a)(12), (13), and (14). The reporting period should provide 12 months of data for each federal fiscal year, for 85% of facilities within the State that are required to report compliance data, and States must extrapolate and report, in a statistically valid manner, data for the remaining 15% of facilities. The report shall be submitted to the Administrator of OJJDP by February 28 of each year, except that the Administrator may grant an extension of the reporting deadline to March 31st, for good cause, upon request by a State.
 
 (i) To demonstrate the extent of compliance with section 223(a)(12)(A) of the JJDP Act, the report must include, at a minimum, the following information for the current reporting period:
 
@@ -140,7 +138,7 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (C) The total number of accused status offenders and nonoffenders, including out-of-State runaways and Federal wards, held in any secure detention or correctional facility for longer than twenty-four hours (not including weekends or holidays), excluding those held pursuant to the valid court order provision as set forth in paragraph (f)(3) of this section or pursuant to section 922(x) of title 18, United States Code (which prohibits the possession of a handgun by a juvenile), or a similar State law. A juvenile who violates this statute, or a similar state law, is excepted from the deinstitutionalization of status offenders requirement;
 
-(D) The total number of accused status offenders (including valid court order violators, out of state runaways, and Federal wards, but excluding Title 18 922(x) violators) and nonoffenders securely detained in any adult jail, lockup, or nonapproved collocated facility for any length of time;
+(D) The total number of accused status offenders (including valid court order violators, out of state runaways, and Federal wards, but excluding Title 18 922(x) violators) and nonoffenders detained in any adult jail, lockup, or nonapproved collocated facility for any length of time;
 
 (E) The total number of adjudicated status offenders and nonoffenders, including out-of-state runaways and Federal wards, held for any length of time in a secure detention or correctional facility, excluding those held pursuant to the valid court order provision or pursuant to title 18 U.S.C. section 922(x);
 
@@ -162,9 +160,9 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (B) The total number of facilities used to detain or confine both juvenile offenders and adult criminal offenders during the past 12 months and the number inspected on-site;
 
-(C) The total number of facilities used for secure detention and confinement of both juvenile offenders and adult criminal offenders which did not provide sight and sound separation;
+(C) The total number of facilities used for detention and confinement of both juvenile offenders and adult criminal offenders which did not provide sight and sound separation;
 
-(D) The total number of juvenile offenders and nonoffenders not separated from adult criminal offenders in facilities used for the secure detention and confinement of both juveniles and adults;
+(D) The total number of juvenile offenders and nonoffenders not separated from adult criminal offenders in facilities used for the detention and confinement of both juveniles and adults;
 
 (E) The total number of State approved juvenile detention centers located within the same building or on the same grounds as an adult jail or lockup, including a list of such facilities;
 
@@ -186,13 +184,13 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (E) The total number of adult lockups holding juveniles during the past twelve months;
 
-(F) The total number of accused juvenile criminal-type offenders held securely in adult jails, lockups, and unapproved collocated facilities in excess of six hours, including those held pursuant to the “removal exception” as set forth in paragraph (f)(4) of this section;
+(F) The total number of accused juvenile criminal-type offenders detained in adult jails, lockups, and unapproved collocated facilities in excess of six hours, including those held pursuant to the “removal exception” as set forth in paragraph (f)(4) of this section;
 
-(G) The total number of accused juvenile criminal-type offenders held securely in adult jails, lockups and unapproved collocated facilities for less than six hours for purposes other than identification, investigations, processing, release to parent(s), transfer to court, or transfer to a juvenile facility following initial custody;
+(G) The total number of accused juvenile criminal-type offenders detained in adult jails, lockups and unapproved collocated facilities for less than six hours for purposes other than identification, investigations, processing, release to parent(s), transfer to court, or transfer to a juvenile facility following initial custody;
 
-(H) The total number of adjudicated juvenile criminal-type offenders held securely in adult jails or lockups and unapproved collocated facilities in excess of six hours prior to or following a court appearance or for any length of time not related to a court appearance;
+(H) The total number of adjudicated juvenile criminal-type offenders detained in adult jails or lockups and unapproved collocated facilities in excess of six hours prior to or following a court appearance or for any length of time not related to a court appearance;
 
-(I) The total number of accused and adjudicated status offenders (including valid court order violators) and nonoffenders held securely in adult jails, lockups and unapproved collocated facilities for any length of time;
+(I) The total number of accused and adjudicated status offenders (including valid court order violators) and nonoffenders detained in adult jails, lockups and unapproved collocated facilities for any length of time;
 
 (J) The total number of adult jails, lockups, and unapproved collocated facilities in areas meeting the “removal exception” as noted in paragraph (f)(4) of this section, including a list of such facilities and the county or jurisdiction in which each is located;
 
@@ -202,65 +200,13 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (M) The total number of juveniles accused of a criminal-type offense who were held in excess of 24 hours, but not more than an additional 24 hours after the time such conditions as adverse weather allow for reasonably safe travel, in adult jails, lockups and unapproved collocated facilities, in areas meeting the “removal exception” as noted in paragraph (f)(4) of this section.
 
-(6) *Compliance.* The State must demonstrate the extent to which the requirements of sections 223(a)(12)(A), (13), (14), and (23) of the Act are met. If the State fails to demonstrate full compliance with sections 223(a)(12)(A) and (14), and compliance with sections 223(a)(13) and (23) by the end of the fiscal year for any fiscal year beginning with fiscal year 1994, the State's allotment under section 222 will be reduced by twenty five percent for each such failure, provided that the State will lose its eligibility for any allotment unless: the State agrees to expend all remaining funds (except planning and administration, State advisory group set-aside funds and Indian tribe pass-through funds) for the purpose of achieving compliance with the mandate(s) for which the State is in noncompliance; or the Administrator makes discretionary determination that the State has substantially complied with the mandate(s) for which there is noncompliance and that the State has made through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time. In order for a determination to be made that a State has substantially complied with the mandate(s), the State must demonstrate that it has: Diligently carried out the plan approved by OJJDP; demonstrated significant progress toward full compliance; submitted a plan based on an assessment of current barriers to DMC; and provided an assurance that added resources will be expended, be it formula grants or other funds, to achieve compliance. Where a State's allocation is reduced, the amount available for planning and administration and the required pass-through allocation, other than State advisory group set-aside, will be reduced because they are based on the reduced allocation.
+(6) *Compliance.* The State must demonstrate the extent to which the requirements of sections 223(a)(11), (12), and (13) of the Act are met.
 
-(i) Full compliance with section 223(a)(12)(A) is achieved when a State has removed 100 percent of status offenders and nonoffenders from secure detention and correctional facilities or can demonstrate full compliance with de minimis exceptions pursuant to the policy criteria contained in the Federal Register of January 9, 1981 (copies are available from the Office of General Counsel, Office of Justice Programs, 633 Indiana Ave. NW., Washington, DC 20531).
+(i) In determining the compliance standards to be applied to States' FY 2016 compliance monitoring data, the Administrator shall collect all of the data from each of the States' CY 2013 compliance reports, remove one negative outlier in each data collection period for DSO, separation, and jail removal, and apply a standard deviation factor of two to establish the compliance standards to be applied, which shall be posted on OJJDP's Web site no later than March 3, 2017.
 
-(ii) Compliance with section 223(a)(13) has been achieved when a State can demonstrate that:
+(ii) In determining the compliance standards to be applied to States' FY 2017 compliance monitoring data, the Administrator shall collect all of the data from each of the States' CY 2013 and FY 2016 compliance reports (removing, when appropriate or applicable, one negative outlier in each data collection period for DSO, separation, and jail removal) and apply a standard deviation factor of not less than one to establish the compliance standards to be applied, which shall be posted on OJJDP's Web site by August 31, 2017.
 
-(A) The last submitted monitoring report, covering a full 12 months of data, demonstrates that no juveniles were incarcerated in circumstances that were in violation of section 223(a)(13); or
-
-(B)(*1*) The instances of noncompliance reported in the last submitted monthly report do not indicate a pattern or practice but rather constitute isolated instances; and
-
-(*2*)(*i*) Where all instances of noncompliance reported were in violation of or departure from State law, rule, or policy that clearly prohibits the incarceration of all juvenile offenders in circumstances that would be in violation of section 223(a)(13), existing enforcement mechanisms are such that the instances of noncompliance are unlikely to recur in the future; or
-
-(*ii*) An acceptable plan has been developed to eliminate the noncompliant incidents.
-
-(iii)(A) Full compliance is achieved when a state demonstrates that the last submitted monitoring report, covering 12 months of actual data, demonstrates that no juveniles were held in adult jails or lockups in circumstances that were in violation of section 223(a)(14).
-
-(B) Full compliance with de minimis exceptions is achieved when a State demonstrates that it has met the standard set forth in either of paragraphs (f)(6)(iii)(B) (*1*) or (*2*) of this section:
-
-(*1*) *Substantive de minimis standard.* To comply with this standard the State must demonstrate that each of the following requirements have been met:
-
-(*i*) State law, court rule, or other statewide executive or judicial policy clearly prohibits the detention or confinement of all juveniles in circumstances that would be in violation of section 223(a)(14);
-
-(*ii*) All instances of noncompliance reported in the last submitted monitoring reported were in violation of or departures from, the State law, rule, or policy referred to in paragraph (f)(6)(iii)(B)(*1*)(*i*) of this section;
-
-(*iii*) The instances of noncompliance do not indicate a pattern or practice but rather constitute isolated instances;
-
-(*iv*) Existing mechanisms for the enforcement of the State law, rule or policy referred to in paragraph (f)(6)(iii)(B)(*1*)(*i*) of this section are such that the instances of noncompliance are unlikely to recur in the future; and
-
-(*v*) An acceptable plan has been developed to eliminate the noncompliant incidents and to monitor the existing mechanism referred to in paragraph (f)(6)(iii)(B)(*1*)(*iv*) of this section.
-
-(*2*) *Numerical de minimis standard.* To comply with this standard the State must demonstrate that each of the following requirements under paragraphs (f)(6)(iii)(B)(2) (*i*) and (*ii*) of this section have been met:
-
-(*i*) The incidents of noncompliance reported in the State's last submitted monitoring report do not exceed an annual rate of 9 per 100,000 juvenile population of the State; and
-
-(*ii*) An acceptable plan has been developed to eliminate the noncompliant incidents through the enactment or enforcement of State law, rule, or statewide executive or judicial policy, education, the provision of alternatives, or other effective means.
-
-(*iii*) *Exception.* When the annual rate for a State exceeds 9 incidents of noncompliance per 100,000 juvenile population, the State will be considered ineligible for a finding of full compliance with de minimis exceptions under the numerical de minimis standard unless the State has recently enacted changes in State law which have gone into effect and which the State demonstrates can reasonably be expected to have a substantial, significant and positive impact on the state's achieving full (100%) compliance or full compliance with de minimis exceptions by the end of the monitoring period immediately following the monitoring period under consideration.
-
-(*iv*) *Progress.* Beginning with the monitoring report due by December 31, 1990, any State whose prior full compliance status is based on having met the numerical de minimis standard set forth in paragraph (f)(6)(iii)(B)(*2*)(*i*) of this § 31.303, must annually demonstrate, in its request for a finding of full compliance with de minimis exceptions, continued and meaningful progress toward achieving full (100%) compliance in order to maintain eligibility for a continued finding of full compliance with de minimis exceptions.
-
-(*v*) *Request submission.* Determinations of full compliance and full compliance with de minimis exceptions are made annually by OJJDP following submission of the monitoring report due by December 31 of each calendar year. Any State reporting less than full (100%) compliance in any annual monitoring report may request a finding of full compliance with de minimis exceptions under paragraph (f)(6)(iii)(B) (*1*) or (*2*) of this section. The request may be submitted in conjunction with the monitoring report, as soon thereafter as all information required for a determination is available, or be included in the annual State plan and application for the State's formula grant award.
-
-(C) *Waiver.* Failure to achieve full compliance as defined in this section shall terminate any State's eligibility for FY 1993 and prior year formula grant funds unless the Administrator of OJJDP waives termination of the State's eligibility. ln order to be eligible for this waiver of termination, a State must request a waiver and demonstrate that it meets the standards set forth in paragraphs (f)(6)(iii)(C) (1)-(7) of this section:
-
-(*1*) Agrees to expend all of its formula grant award except planning and administration, advisory group set-aside, and Indian tribe pass-through funds, to achieve compliance with section 223(a)(14); and
-
-(*2*) Removed all status and nonoffender juveniles from adult jails and lockups. Compliance with this standard requires that the last submitted monitoring report demonstrate that no status offender (including those accused of or adjudicated for violating a valid court order) or nonoffender juveniles were securely detained in adult jails or lock-ups for any length of time; or that all status offenders and nonoffenders securely detained in adult jails and lock-ups for any length of time were held in violation of an enforceable State law and did not constitute a pattern or practice within the State; and
-
-(*3*) Made meaningful progress in removing juvenile criminal-type offenders from adult jails and lockups. Compliance with this standard requires the State to document a significant reduction in the number of jurisdictions securely detaining juvenile criminal-type offenders in violation of section 223 (a)(14) of the JJDP Act; or a significant reduction in the number of facilities securely detaining such juveniles; or a significant reduction in the average length of time each juvenile criminal-type offender is securely detained in an adult jail or lock-up; or State legislation has recently been enacted and taken effect and which the State demonstrates will significantly impact the secure detention of juvenile criminal-type offenders in adult jails and lock-ups; and
-
-(*4*) Diligently carried out the State's jail and lockup removal plan approved by OJJDP. Compliance with this standard requires that actions have been undertaken to achieve the State's jail and lock-up removal goals and objectives within approved time lines, and that the State Advisory Group, required by section 223 (a)(3) of the JJDP Act, has maintained an appropriate involvement in developing and/or implementing the State's plan; and
-
-(*5*) Submitted an acceptable plan, based on an assessment of current jail and lockup removal barriers within the State, to eliminate noncompliant incidents; and
-
-(*6*) Achieved compliance with section 223(a)(15) of the JJDP Act; and
-
-(*7*) Demonstrates an unequivocal commitment, through appropriate executive or legislative action, to achieving full compliance.
-
-(D) *Waiver maximum.* A State may receive a waiver of termination of eligibility from the Administrator under paragraph (f)(6)(iii)(C) of this section for a combined maximum of four Formula Grant Awards through Fiscal Year 1993. No additional waivers will be granted.
+(iii) In determining the compliance standards to be applied to States' FY 2018 and subsequent years' compliance monitoring data, the Administrator shall take the average of the States' compliance monitoring data from not less than two years prior to the compliance reporting period with respect to which the compliance determination will be made (removing, when applicable, one negative outlier in each data collection period for DSO, separation, and jail removal) and apply a standard deviation of not less than one to establish the compliance standards to be applied, except that the Administrator may make adjustments to the methodology described in this paragraph as he deems necessary and shall post the compliance standards on OJJDP's Web site by August 31st of each year.
 
 (7) *Monitoring report exemption.* States which have been determined by the OJJDP Administrator to have achieved full compliance with sections 223(a)(12)(A), (a)(14), and compliance with section 223(a)(13) of the JJDP and wish to be exempted from the annual monitoring report requirements must submit a written request to the OJJDP Administrator which demonstrates that:
 
@@ -316,4 +262,4 @@ Link to an amendment published at 82 FR 4792, Jan. 17, 2017.This amendment was d
 
 (k) Pursuant to section 223(a)(24) of the JJDP Act, states shall agree to other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of programs assisted under the Formula Grant.
 
-[60 FR 28440, May 31, 1995, as amended at 61 FR 65138, Dec. 10, 1996]
+[60 FR 28440, May 31, 1995, as amended at 61 FR 65138, Dec. 10, 1996; 82 FR 4792, Jan. 17, 2017]

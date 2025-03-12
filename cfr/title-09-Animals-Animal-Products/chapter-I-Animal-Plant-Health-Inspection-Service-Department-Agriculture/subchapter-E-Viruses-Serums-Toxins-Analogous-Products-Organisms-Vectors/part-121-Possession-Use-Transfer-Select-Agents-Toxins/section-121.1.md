@@ -1,7 +1,5 @@
 ##### § 121.1 Definitions. #####
 
-Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the U.S. Department of Agriculture.
@@ -44,6 +42,8 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 *Permit.* A written authorization by the Administrator to import or move interstate select agents or toxins, under conditions prescribed by the Administrator.
 
+*Principal investigator.* The one individual who is designated by the entity to direct a project or program and who is responsible to the entity for the scientific and technical direction of that project or program.
+
 *Proficiency testing.* The process of determining the competency of an individual or laboratory to perform a specified test or procedure.
 
 *Recombinant nucleic acids.* (1) Molecules that are constructed by joining nucleic acid molecules and that can replicate in a living cell; or
@@ -74,10 +74,14 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 *USDA.* The U.S. Department of Agriculture.
 
+*Validated inactivation procedure.* A procedure, whose efficacy is confirmed by data generated from a viability testing protocol, to render a select agent non-viable but allows the select agent to retain characteristics of interest for future use; or to render any nucleic acids that can produce infectious forms of any select agent virus non-infectious for future use.
+
 *Verification.* The demonstration of obtaining established performance (e.g., accuracy, precision, and the analytical sensitivity and specificity) specifications for any procedure used for diagnosis.
+
+*Viability testing protocol.* A protocol to confirm the validated inactivation procedure by demonstrating the material is free of all viable select agent.
 
 *VS.* The Veterinary Services Programs of the Animal and Plant Health Inspection Service.
 
 *VS select agent and/or toxin.* A biological agent or toxin listed in § 121.3.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61077, Oct. 5, 2012]
+[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61077, Oct. 5, 2012; 82 FR 6206, Jan. 19, 2017]

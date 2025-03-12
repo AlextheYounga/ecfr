@@ -1,0 +1,3 @@
+##### § 312.9 Matching share requirements. #####
+
+The required matching share of a project's eligible costs may consist of cash or in-kind contribution(s) whose value can be readily determined, verified, and justified. Applicants must show at the time of application that the matching share is committed to the project, will be available as needed, and is not or will not be conditioned or encumbered in any way that would preclude its use consistent with the requirements of the investment assistance. EDA shall determine at its sole discretion whether the matching share documentation adequately addresses the requirements of this section.

@@ -1,14 +1,12 @@
 ##### § 1312.31 Schedule I: Application for prior written approval. #####
 
-Link to an amendment published at 81 FR 97035, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) A controlled substance listed in schedule I may be imported into the United States for transshipment, or may be transferred or transshipped within the United States for immediate exportation, provided that:
 
 (1) The controlled substance is necessary for scientific, medical, or other legitimate purposes in the country of destination, and
 
 (2) A transshipment permit has been issued by the Administrator.
 
-(b) An application for a transshipment permit must be submitted to the Import/Export Unit, Drug Enforcement Administration, at least 30 days, or in the case of an emergency as soon as practicable, prior to the expected date of importation, transfer or transshipment. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. Each application shall contain the following:
+(b) An application for a transshipment permit must be submitted to the Regulatory Section, Diversion Control Division, Drug Enforcement Administration, at least 30 calendar days, or in the case of an emergency as soon as is practicable, prior to the expected date of arrival at the first port in the United States. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. A separate permit is required for each shipment of controlled substance to be imported, transferred, or transshipped. Each application must contain the following:
 
 (1) The date of execution;
 
@@ -48,9 +46,11 @@ Link to an amendment published at 81 FR 97035, Dec. 30, 2016.Link to a delay pub
 
 (1) Is to be applied exclusively to scientific, medical or other legitimate uses within the country of destination;
 
-(2) Will not be exported from such country; and
+(2) Will not be exported from such country;
 
-(3) Is needed therein because there is an actual shortage thereof and a demand therefor for scientific, medical or other legitimate uses within such country.
+(3) Is needed therein because there is an actual shortage thereof and a demand therefor for scientific, medical or other legitimate uses within such country; and
+
+(4) If the import license or permit, or the certified copy of such, is not written in English or bilingual with another language and English, the application must include a certified translation of the permit or license. For purposes of this requirement, certified translation means that the translator has signed the translation legally attesting the accuracy of the translation.
 
 (e) Verification by an American consular officer of the signatures on a foreign import license or permit shall be required, if such license or permit does not bear the seal of the authority signing them.
 
@@ -58,4 +58,4 @@ Link to an amendment published at 81 FR 97035, Dec. 30, 2016.Link to a delay pub
 
 (g) The Administrator shall, within 21 days from the date of receipt of the application, either grant or deny the application. The applicant shall be accorded an opportunity to amend the application, with the Administrator either granting or denying the amended application within 7 days of its receipt. If the Administrator does not grant or deny the application within 21 days of its receipt, or in the case of an amended application, within 7 days of its receipt, the application shall be deemed approved and the applicant may proceed.
 
-[36 FR 7815, Apr. 24, 1971, as amended at 37 FR 15923, Aug. 8, 1972. Redesignated at 38 FR 26609, Sept. 24, 1973, and further amended at 45 FR 74715, Nov. 12, 1980; 51 FR 5319, Feb. 13, 1986; 53 FR 48244, Nov. 30, 1988; 62 FR 13969, Mar. 24, 1997; 75 FR 10683, Mar. 9, 2010]
+[36 FR 7815, Apr. 24, 1971, as amended at 37 FR 15923, Aug. 8, 1972. Redesignated at 38 FR 26609, Sept. 24, 1973, and further amended at 45 FR 74715, Nov. 12, 1980; 51 FR 5319, Feb. 13, 1986; 53 FR 48244, Nov. 30, 1988; 62 FR 13969, Mar. 24, 1997; 75 FR 10683, Mar. 9, 2010; 81 FR 97035, Dec. 30, 2016]

@@ -1,7 +1,5 @@
 ##### § 73.1 Definitions. #####
 
-Link to an amendment published at 82 FR 6290, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
-
 For purposes of this part:
 
 *Administrator* means the Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -28,7 +26,7 @@ For purposes of this part:
 
 *HHS select agent and/or toxin* means a biological agent or toxin included in § 73.3.
 
-*Information security* means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide -
+*Information security* means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—
 
 (1) Integrity, which means guarding against improper information modification or destruction, and includes ensuring information authenticity;
 
@@ -72,6 +70,10 @@ For purposes of this part:
 
 *USDA* means the United States Department of Agriculture.
 
+*Validated inactivation procedure* means a procedure, whose efficacy is confirmed by data generated from a viability testing protocol, to render a select agent non-viable but allows the select agent to retain characteristics of interest for future use; or to render any nucleic acids that can produce infectious forms of any select agent virus non-infectious for future use.
+
+*Viability testing protocol* means a protocol to confirm the validated inactivation procedure by demonstrating the material is free of all viable select agent.
+
 *Verification* means the demonstration of obtaining established performance (e.g., accuracy, precision, and the analytical sensitivity and specificity) specifications for any procedure used for diagnosis.
 
-[70 FR 13316, Mar. 18, 2005, as amended at 77 FR 61110, Oct. 5, 2012]
+[70 FR 13316, Mar. 18, 2005, as amended at 77 FR 61110, Oct. 5, 2012; 82 FR 6290, Jan. 19, 2017]

@@ -1,7 +1,5 @@
 ##### § 121.10 Restricting access to select agents and toxins; security risk assessments. #####
 
-Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 (a) An individual or entity required to register under this part may not provide an individual access to a select agent or toxin, and an individual may not access a select agent or toxin, unless the individual is approved by the Administrator or the HHS Secretary following a security risk assessment by the Attorney General.
 
 (b) An individual will be deemed to have access at any point in time if the individual has possession of a select agent or toxin (e.g., carries, uses, or manipulates) or the ability to gain possession of a select agent or toxin.
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was d
 
 (d) To apply for access approval, each individual must submit the information necessary to conduct a security risk assessment to the Attorney General.
 
-(e) A person with valid approval from the HHS Secretary or Administrator to have access to select agents or toxins may request, through his or her Responsible Official, that the HHS Secretary or Administrator provide their approved access status to another registered individual or entity for a specified period of time.
+(e) A person with valid approval from the HHS Secretary or Administrator to have access to select agents or toxins may request, through his or her Responsible Official, that the HHS Secretary or Administrator provide their approved access status to another registered individual or entity for a specified period of time. A responsible official must immediately notify the responsible official of the visited entity if the person's access to select agents and toxins has been terminated.
 
 (f) An individual's security risk assessment may be expedited upon written request by the responsible official and a showing of good cause (e.g., public health or agricultural emergencies, national security, or a short-term visit by a prominent researcher). A written decision granting or denying the request will be issued.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 82 FR 6209, Jan. 19, 2017.This amendment was d
 
 (k) The responsible official must immediately notify APHIS or CDC when an individual's access to select agents or toxins is terminated by the entity and the reasons therefore.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61079, Oct. 5, 2012]
+[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61079, Oct. 5, 2012; 82 FR 6209, Jan. 19, 2017]

@@ -1,0 +1,3 @@
+##### § 2.18 Restrictions on the use of identification cards. #####
+
+No person may require any patient to carry in their immediate possession while away from the part 2 program premises any card or other object which would identify the patient as having a substance use disorder. This section does not prohibit a person from requiring patients to use or carry cards or other identification objects on the premises of a part 2 program.

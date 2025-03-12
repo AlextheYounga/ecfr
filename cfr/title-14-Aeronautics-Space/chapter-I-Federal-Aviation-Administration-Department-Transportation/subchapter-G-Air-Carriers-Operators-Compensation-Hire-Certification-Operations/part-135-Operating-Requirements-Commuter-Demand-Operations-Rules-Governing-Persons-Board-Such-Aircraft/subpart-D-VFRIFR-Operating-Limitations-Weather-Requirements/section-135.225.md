@@ -1,20 +1,22 @@
 ##### § 135.225 IFR: Takeoff, approach and landing minimums. #####
 
-Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
-(a) Except to the extent permitted by paragraph (b) of this section, no pilot may begin an instrument approach procedure to an airport unless -
+(a) Except to the extent permitted by paragraphs (b) and (j) of this section, no pilot may begin an instrument approach procedure to an airport unless -
 
 (1) That airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by U.S. National Weather Service, or a source approved by the Administrator; and
 
 (2) The latest weather report issued by that weather reporting facility indicates that weather conditions are at or above the authorized IFR landing minimums for that airport.
 
-(b) A pilot conducting an eligible on-demand operation may begin an instrument approach procedure to an airport that does not have a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator if -
+(b) A pilot conducting an eligible on-demand operation may begin and conduct an instrument approach procedure to an airport that does not have a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator if -
 
 (1) The alternate airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator; and
 
 (2) The latest weather report issued by the weather reporting facility includes a current local altimeter setting for the destination airport. If no local altimeter setting for the destination airport is available, the pilot may use the current altimeter setting provided by the facility designated on the approach chart for the destination airport.
 
-(c) If a pilot has begun the final approach segment of an instrument approach to an airport under paragraph (b) of this section, and the pilot receives a later weather report indicating that conditions have worsened to below the minimum requirements, then the pilot may continue the approach only if the requirements of § 91.175(l) of this chapter, or both of the following conditions, are met -
+(c) Except as provided in paragraph (j) of this section, no pilot may begin the final approach segment of an instrument approach procedure to an airport unless the latest weather reported by the facility described in paragraph (a)(1) of this section indicates that weather conditions are at or above the authorized IFR landing minimums for that procedure.
+
+(d) A pilot who has begun the final approach segment of an instrument approach to an airport under paragraph (c) of this section, and receives a later weather report indicating that conditions have worsened to below the minimum requirements, may continue the approach only if the requirements of § 91.175(l) of this chapter, paragraph (j) of this section, or both of the following conditions are met -
 
 (1) The later weather report is received when the aircraft is in one of the following approach phases:
 
@@ -22,25 +24,13 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was 
 
 (ii) The aircraft is on an ASR or PAR final approach and has been turned over to the final approach controller; or
 
-(iii) The aircraft is on a nonprecision final approach and the aircraft -
+(iii) The aircraft is on a non-precision final approach and the aircraft -
 
 (A) Has passed the appropriate facility or final approach fix; or
 
 (B) Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; and
 
 (2) The pilot in command finds, on reaching the authorized MDA or DA/DH, that the actual weather conditions are at or above the minimums prescribed for the procedure being used.
-
-(d) If a pilot has begun the final approach segment of an instrument approach to an airport under paragraph (c) of this section and a later weather report indicating below minimum conditions is received after the aircraft is -
-
-(1) On an ILS final approach and has passed the final approach fix; or
-
-(2) On an ASR or PAR final approach and has been turned over to the final approach controller; or
-
-(3) On a final approach using a VOR, NDB, or comparable approach procedure; and the aircraft -
-
-(i) Has passed the appropriate facility or final approach fix; or
-
-(ii) Where a final approach fix is not specified, has completed the procedure turn and is established inbound toward the airport on the final approach course within the distance prescribed in the procedure; the approach may be continued and a landing made if the pilot finds, upon reaching the authorized MDA or DH, that actual weather conditions are at least equal to the minimums prescribed for the procedure.
 
 (e) The MDA or DA/DH and visibility landing minimums prescribed in part 97 of this chapter or in the operator's operations specifications are increased by 100 feet and1/2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered airplane who has not served at least 100 hours as pilot in command in that type of airplane.
 
@@ -62,4 +52,6 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was 
 
 (3) The certificate holder has been approved for such operations.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-91, 68 FR 54586, Sept. 17, 2003; Amdt. 135-93, 69 FR 1641, Jan. 9, 2004; Amdt. 135-110, 72 FR 31685, June 7, 2007; Amdt. 135-126, 77 FR 1632, Jan. 11, 2012]
+(j) A pilot may begin an instrument approach procedure, or continue an approach, at an airport when the visibility is reported to be less than the visibility minimums prescribed for that procedure if the pilot uses an operable EFVS in accordance with § 91.176 of this chapter and the certificate holder's operations specifications for EFVS operations.
+
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-91, 68 FR 54586, Sept. 17, 2003; Amdt. 135-93, 69 FR 1641, Jan. 9, 2004; Amdt. 135-110, 72 FR 31685, June 7, 2007; Amdt. 135-126, 77 FR 1632, Jan. 11, 2012; Docket FAA-2013-0485, Amdt. 135-135, 81 FR 90177, Dec. 13, 2016]

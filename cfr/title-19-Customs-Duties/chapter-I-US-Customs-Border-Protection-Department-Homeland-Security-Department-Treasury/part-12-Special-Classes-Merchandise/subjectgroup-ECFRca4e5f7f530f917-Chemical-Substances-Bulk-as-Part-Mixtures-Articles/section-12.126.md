@@ -1,5 +1,5 @@
 ##### § 12.126 Notice of abandonment. #####
 
-Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
+If the importer intends to abandon the shipment after receiving notice of refusal of entry, the importer must present a notice of intent to abandon in writing to the port director or electronically to ACE or any other CBP-authorized EDI system. Notification under this section is a waiver of any right to export the merchandise. The importer will remain liable for any expense incurred in the storage and/or disposal of abandoned merchandise.
 
-If the importer intends to abandon the shipment after receiving notice of refusal of entry, the importer shall present a written notice of intent to abandon to the port director and the Administrator. Notification under this section is a waiver of any right to export the merchandise. The importer shall remain liable for any expense incurred in the storage and/or disposal of abandoned merchandise.
+[CBP Dec. 16-28, 81 FR 94986, Dec. 27, 2016]

@@ -1,9 +1,7 @@
 ##### § 1312.32 Schedules II, III, IV: Advance notice. #####
 
-Link to an amendment published at 81 FR 97036, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+(a) A controlled substance listed in Schedules II, III, or IV may be imported into the United States for transshipment, or may be transferred or transshipped within the United States for immediate exportation, provided that written notice is submitted to the Regulatory Section, Diversion Control Division, Drug Enforcement Administration, at least 15 calendar days prior to the expected date of date of arrival at the first port in the United States. See the Table of DEA mailing Addresses in § 1321.01 of this chapter for the current mailing addresses.
 
-(a) A controlled substance listed in Schedules II, III, or IV may be imported into the United States for transshipment, or may be transferred or transshipped within the United States for immediate exportation, provided that written notice is submitted to the Import/Export Unit, Drug Enforcement Administration, at least 15 days prior to the expected date of importation, transfer or transshipment. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(b) A separate advance notice is required for each shipment of controlled substance to be imported, transferred, or transshipped. Each advance notice must contain those items required by § 1312.31(b) and (c). If the export license, permit, or other authorization, issued by a competent national authority of the country of origin, is not written in English or bilingual with another language and English, the notice must be accompanied by a certified translation of the export license, permit, or other authorization. For purposes of this requirement, certified translation means that the translator has signed the translation legally attesting the accuracy of the translation.
 
-(b) Each advance notice shall contain those items required by § 1312.31 (b) and (c).
-
-[36 FR 7815, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 45 FR 74715, Nov. 12, 1980; 51 FR 5319, Feb. 13, 1986; 53 FR 48244, Nov. 30, 1988; 62 FR 13969, Mar. 24, 1997; 75 FR 10683, Mar. 9, 2010]
+[81 FR 97036, Dec. 30, 2016]

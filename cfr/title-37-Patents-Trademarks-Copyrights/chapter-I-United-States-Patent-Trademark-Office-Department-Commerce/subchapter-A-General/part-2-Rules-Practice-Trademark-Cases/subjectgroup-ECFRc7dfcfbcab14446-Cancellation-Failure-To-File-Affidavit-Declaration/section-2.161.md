@@ -1,7 +1,5 @@
 ##### § 2.161 Requirements for a complete affidavit or declaration of continued use or excusable nonuse. #####
 
-Link to an amendment published at 82 FR 6265, Jan. 19, 2017.Link to an extension of the above amendment published at 82 FR 10273, Feb. 10, 2017.
-
 A complete affidavit or declaration under section 8 of the Act must:
 
 (a) Be filed by the owner within the period set forth in § 2.160(a);
@@ -26,7 +24,7 @@ A complete affidavit or declaration under section 8 of the Act must:
 
 (g) Include one specimen showing how the mark is in use in commerce for each class in the registration, unless excusable nonuse is claimed under paragraph (f)(2) of this section. When requested by the Office, additional specimens must be provided. The specimen must meet the requirements of § 2.56.
 
-(h) The Office may require the owner to furnish such information, exhibits, affidavits or declarations, and such additional specimens as may be reasonably necessary to the proper examination of the affidavit or declaration under section 8 of the Act.
+(h) The Office may require the owner to furnish such information, exhibits, affidavits or declarations, and such additional specimens as may be reasonably necessary to the proper examination of the affidavit or declaration under section 8 of the Act or for the Office to assess and promote the accuracy and integrity of the register.
 
 (i) Additional requirements for a collective mark: In addition to the above requirements, a complete affidavit or declaration pertaining to a collective mark must:
 
@@ -48,4 +46,4 @@ A complete affidavit or declaration under section 8 of the Act must:
 
 (k) For requirements of a complete affidavit or declaration of use in commerce or excusable nonuse for a registration that issued from a section 66(a) basis application, see § 7.37.
 
-[64 FR 48924, Sept. 8, 1999, as amended at 67 FR 79522, Dec. 30, 2002; 68 FR 55769, Sept. 26, 2003; 73 FR 47686, Aug. 14, 2008; 73 FR 67773, Nov. 17, 2008; 74 FR 54910, Oct. 26, 2009; 75 FR 35976, June 24, 2010; 77 FR 30207, May 22, 2012; 80 FR 33188, June 11, 2015]
+[64 FR 48924, Sept. 8, 1999, as amended at 67 FR 79522, Dec. 30, 2002; 68 FR 55769, Sept. 26, 2003; 73 FR 47686, Aug. 14, 2008; 73 FR 67773, Nov. 17, 2008; 74 FR 54910, Oct. 26, 2009; 75 FR 35976, June 24, 2010; 77 FR 30207, May 22, 2012; 80 FR 33188, June 11, 2015; 82 FR 6265, Jan. 19, 2017]

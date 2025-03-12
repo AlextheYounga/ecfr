@@ -1,105 +1,49 @@
-##### § 300.113 Scientific observers. #####
+##### § 300.113 CCAMLR Ecosystem Monitoring Program sites. #####
 
-This section applies to national and international observers as defined in § 300.101.
+(a) *General.* (1) Any person subject to the jurisdiction of the United States must apply for and be granted an entry permit authorizing specific activities prior to entering a CCAMLR Ecosystem Monitoring Program (CEMP) site designated in accordance with the CCAMLR conservation measure describing the procedure for according protection for CEMP sites.
 
-(a) This section applies to a national observer aboard U.S. vessels harvesting in the Convention Area, national observers placed on foreign flagged vessels and international observers placed on U.S. vessels harvesting in the Convention Area.
+(2) If a CEMP site is also a site specially protected under the Antarctic Treaty (or the Protocol on Environmental Protection to the Antarctic Treaty and its Annexes, such as the sites listed in 45 CFR 670.29), an applicant seeking to enter such site must apply to the Director of the NSF for a permit under applicable provisions of the ACA or any superseding legislation. The permit granted by NSF shall constitute a joint CEMP/ACA Protected Site permit and any person holding such a permit must comply with the appropriate CEMP site management plan. In all other cases, an applicant seeking a permit to enter a CEMP site must apply to the Assistant Administrator for a CEMP permit in accordance with the provisions of this section.
 
-(b) All U.S. vessels fishing in the Convention Area must carry one or more scientific observers as required by CCAMLR conservation and management measures or as specified in a NMFS-issued AMLR Harvesting Permit.
+(b) *Responsibility of CEMP permit holders and persons designated as agents under a CEMP permit.* (1) The CEMP permit holder and person designated as agents under a CEMP permit are jointly and severally responsible for compliance with the Act, this subpart, and any permit issued under this subpart.
 
-(c) All U.S. vessels conducting longline sink rate testing outside the Convention area and pursuant to CCAMLR protocols must carry one or more scientific observers as specified in a NMFS-issued AMLR Harvesting Permit.
+(2) The CEMP permit holder and agents designated under a CEMP permit are responsible for the acts of their employees and agents constituting violations, regardless of whether the specific acts were authorized or forbidden by the CEMP permit holder or agents, and regardless of knowledge concerning their occurrence.
 
-(d) *Procurement of observers by vessel.* Owners of vessels required to carry scientific observers under this section must arrange for observer services in coordination with the NMFS Southwest Fisheries Science Center Antarctic Ecosystem Research Division. The vessel owner is required to pay for observer services through an observer service provider who has provided observer services to the Federal government within the past year. In situations where no qualified observer is available through a qualified observer provider, the Secretary may authorize a vessel owner to arrange for an observer by alternative methods. An observer may not be paid directly by the vessel owner.
+(c) *Prohibitions regarding the Antarctic Treaty System and other applicable treaties and statutes.* Holders of permits to enter CEMP Protected Sites are not authorized to undertake any activities within a CEMP Protected Site that are not in compliance with the conditions of the CEMP permit and the provisions of:
 
-(e) *Insurance.* The observer service provider or vessel owner must provide insurance for observers that provides compensation in the event of an injury or death during the entire deployment, from the point of hire location to return, equivalent to the standards of the North Pacific Groundfish Observer Program set forth in § 679.80 of this title.
+(1) The Antarctic Treaty, including the Agreed Measures for the Conservation of Antarctic Fauna and Flora (including the Protocol on the Environmental Protection to the Antarctic Treaty and its Annexes), as implemented by the ACA and any superseding legislation. (Persons interested in conducting activities subject to the Antarctic Treaty or the Protocol should contact the Office of Polar Programs, NSF).
 
-(f) *Educational requirements.* National observer candidates must:
+(2) The Convention for the Conservation of Antarctic Seals.
 
-(1) Have a Bachelor's degree or higher from an accredited college or university with a major in one of the natural sciences; or
+(3) The Convention and its Conservation Measures in force, implemented under the Act.
 
-(2) Have successfully completed a minimum of 30 semester hours or equivalent in applicable biological sciences with extensive use of dichotomous keys in at least one course.
+(d) *Prohibitions on takings.* Permits issued under this section do not authorize any takings as defined in the applicable statutes and implementing regulations governing the activities of persons in Antarctica.
 
-(g) *Health requirements.* National observers must have a signed and dated statement from a licensed physician that he or she has physically examined the observer. The statement must confirm that, based upon the physical examination, the observer does not have any health problems or conditions that would jeopardize that individual's safety or the safety of others while deployed, or prevent the observer from performing his or her duties satisfactorily. The statement must declare that prior to the examination; the physician was made aware of the duties of an observer and the dangerous, remote and rigorous nature of the work. The physician's statement must be submitted to the NMFS Southwest Fisheries Science Center Antarctic Ecosystem Research Division program office prior to approval of an observer. The physical exam must have occurred during the 12 months prior to the observer's deployment. The physician's statement will expire 12 months after the physical exam occurred. A new physical exam must be performed, and accompanying statement submitted, prior to any deployment occurring after the expiration of the statement.
+(e) *Issuance criteria.* Permits designated in this section may be issued by the Assistant Administrator upon a determination that:
 
-(h) *Vessel responsibilities.* An operator of a vessel required to carry one or more scientific observers must:
+(1) The specific activities meet the requirements of the Act;
 
-(1) *Accommodations and food.* Provide, at no cost to the observers or the United States, accommodations and food on the vessel for the observer or observers that are equivalent to those provided for officers of the vessel; and
+(2) There is sufficient reason, established in the CEMP permit application, that the scientific purpose for the intended entry cannot be served elsewhere; and
 
-(2) *Safe conditions.* (i) Maintain safe conditions on the vessel for the protection of observers including adherence to all U.S. Coast Guard and other applicable rules, regulations, or statutes pertaining to safe operation of the vessel.
+(3) The actions permitted will not violate any provisions or prohibitions of the site's management plan submitted in compliance with the CCAMLR Conservation Measure describing the procedure for according protection to CEMP sites.
 
-(ii) Have on board:
+(f) *Application process.* An applicant seeking a CEMP permit from the Assistant Administrator to enter a CEMP site shall include the following in the application.
 
-(A) A valid Commercial Fishing Vessel Safety Decal issued within the past 2 years that certifies compliance with regulations found in 33 CFR chapter I and 46 CFR chapter I. NMFS will grant a waiver from the Voluntary Safety decal provision if the vessel is in compliance with the standards of the observer vessel safety check list developed by the Northeast Fisheries Science Center *http://www.nefsc.noaa.gov/femad/fsb/* or equivalent certification issued by the Flagging State;
+(1) A detailed justification that the scientific objectives of the applicant cannot be accomplished elsewhere and a description of how said objectives will be accomplished within the terms of the site's management plan.
 
-(B) A certificate of compliance issued pursuant to 46 CFR 28.710; or
+(2) A statement signed by the applicant that the applicant has read and fully understands the provisions and prohibitions of the site's management plan. Prospective applicants may obtain copies of the relevant management plans and the CCAMLR Conservation Measure describing the procedure for according protection to CEMP sites by requesting them from NMFS Headquarters.
 
-(C) A valid certificate of inspection pursuant to 46 U.S.C. 3311.
+(g) *Conditions.* CEMP permits issued under this section will contain special and general conditions including a condition that the permit holder shall submit a report describing the activities conducted under the permit within 30 days of the expiration of the CEMP permit.
 
-(3) *Health and safety regulations.* Comply with the Observer health and safety regulations at part 600 of this title. NMFS will grant a waiver from the Voluntary Safety decal provision if the vessel is in compliance with the standards of the observer vessel safety check list.
+(h) *Transfer.* CEMP permits are not transferable or assignable. A CEMP permit is valid only for the person to whom it is issued.
 
-(4) *Transmission of data.* Facilitate transmission of observer data by allowing observers, on request, to use the vessel's communications equipment and personnel for the confidential entry, transmission, and receipt of work-related messages.
+(i) *Additional conditions and restrictions.* The Assistant Administrator may revise the CEMP permit effective upon notification of the permit holder, to impose additional conditions and restrictions as necessary to achieve the purposes of the Convention, the Act and the CEMP Management Plan. The CEMP permit holder must, as soon as possible, notify any and all agents operating under the permit of any and all revisions or modifications to the permit.
 
-(5) *Vessel position.* Allow observers access to, and the use of, the vessel's navigation equipment and personnel, on request, to determine the vessel's position, course and speed.
+(j) *Revocation or suspension.* CEMP permits may be revoked or suspended based upon information received by the Assistant Administrator and such revocation or suspension shall be effective upon notification to the permit holder.
 
-(6) *Access.* Allow observers free and unobstructed access to the vessel's bridge, trawl or working decks, holding bins, processing areas, freezer spaces, weight scales, cargo holds, and any other space that may be used to hold, process, weigh, or store fish or fish products at any time.
+(1) A CEMP permit may be revoked or suspended based on a violation of the permit, the Act, or this subpart.
 
-(7) *Prior notification.* Notify observers at least 15 minutes before fish are brought on board, or fish and fish products are transferred from the vessel, to allow sampling the catch or observing the transfer, unless the observers specifically request not to be notified.
+(2) Failure to report a change in the information submitted in a CEMP permit application within 10 days of the change is a violation of this subpart and voids the application or permit, as applicable. Title 15 CFR part 904 governs permit sanctions under this subpart.
 
-(8) *Records.* Allow observers to inspect and copy the vessel's CCAMLR DCD, product transfer forms, any other logbook or document required by regulations, printouts or tallies of scale weights, scale calibration records, bin sensor readouts, and production records.
+(k) *Exceptions.* Entry into a CEMP site is lawful if committed under emergency conditions to prevent the loss of human life, avoid compromising human safety, prevent the loss of vessels or aircraft, or to prevent environmental damage.
 
-(9) *Assistance.* Provide all other reasonable assistance to enable observers to carry out their duties, including, but not limited to:
-
-(i) Measuring decks, codends, and holding bins;
-
-(ii) Providing the observers with a safe work area adjacent to the sample collection site;
-
-(iii) Collecting bycatch when requested by the observers;
-
-(iv) Collecting and carrying baskets of fish when requested by observers; and
-
-(v) Allowing observers to determine the sex of fish when this procedure will not decrease the value of a significant portion of the catch.
-
-(10) *Transfer at sea.* (i) Ensure that transfers of observers at sea via small boat or raft are carried out during daylight hours, under safe conditions, and with the agreement of observers involved.
-
-(ii) Notify observers at least 3 hours before observers are transferred, such that the observers can collect personal belongings, equipment, and scientific samples.
-
-(iii) Provide a safe pilot ladder and conduct the transfer to ensure the safety of observers during transfers.
-
-(iv) Provide an experienced crew member to assist observers in the small boat or raft in which any transfer is made.
-
-(i) *Standards of observer conduct* - (1) *Observers:* (i) Must not have a direct financial interest in the fishery being observed, including but not limited to:
-
-(A) Any ownership, mortgage holder, or other secured interest in a vessel, shoreside or floating stationary processor facility involved in the catching, taking, harvesting or processing of fish;
-
-(B) Any business involved with selling supplies or services to any vessel, shoreside or floating stationary processing facility; or
-
-(C) Any business involved with purchasing raw or processed products from any vessel, shoreside or floating stationary processing facilities.
-
-(ii) Must not solicit or accept, directly or indirectly, any gratuity, gift, favor, entertainment, loan, or anything of monetary value from anyone who either conducts activities that are regulated by NMFS or has interests that may be substantially affected by the performance or nonperformance of the observers' official duties.
-
-(iii) May not serve as observers on any vessel or at any shoreside or floating stationary processing facility owned or operated by a person who previously employed the observers.
-
-(iv) May not solicit or accept employment as a crew member or an employee of a vessel, shoreside processor, or stationary floating processor while employed by an observer provider.
-
-(2) Provisions for remuneration of observers under this section do not constitute a conflict of interest.
-
-(j) *Standards of observer behavior.* Observers must avoid any behavior that could adversely affect the confidence of the public in the integrity of the Observer Program or of the government, including but not limited to the following:
-
-(1) Observers must perform their assigned duties as described in the CCAMLR Scientific Observers Manual and must complete the CCAMLR Scientific Observer Logbooks and submit them to the CCAMLR Data Manager at the intervals specified by the Data Manager.
-
-(2) Observers must accurately record their sampling data, write complete reports, and report accurately any observations of suspected violations of regulations relevant to conservation of marine resources or their environment.
-
-(3) Observers must not disclose collected data and observations made on board the vessel or in the processing facility to any person except the owner or operator of the observed vessel or processing facility, or NMFS.
-
-(4) Observers must refrain from engaging in any illegal actions or any other activities that would reflect negatively on their image as professional scientists, on other observers, or on the Observer Program as a whole. This includes, but is not limited to:
-
-(i) Engaging in the use, possession, or distribution of illegal drugs; or
-
-(ii) Engaging in physical sexual contact with personnel of the vessel or processing facility to which the observer is assigned, or with any vessel or processing plant personnel who may be substantially affected by the performance or non-performance of the observer's official duties.
-
-(k) *Sampling station.* (1) Minimum work space aboard at sea processing vessels. The observer must have a working area of 4.5 square meters, including the observer's sampling table, for sampling and storage of fish to be sampled. The observer must be able to stand upright and have a work area at least 0.9 m deep in the area in front of the table and scale.
-
-(2) Table aboard at-sea processing vessels. The observer sampling station must include a table at least 0.6 m deep, 1.2 m wide and 0.9 m high and no more than 1.1 m high. The entire surface area of the table must be available for use by the observer. Any area for the observer sampling scale is in addition to the minimum space requirements for the table. The observer's sampling table must be secured to the floor or wall.
-
-(3) Other requirement for at-sea processing vessels. The sampling station must be in a well-drained area that includes floor grating (or other material that prevents slipping), lighting adequate for day or night sampling, and a hose that supplies fresh or sea water to the observer.
-
-[72 FR 48510, Aug. 23, 2007]
+(l) *Protected sites.* Sites protected by the Antarctic Treaty and regulated under the ACA are listed at 45 CFR part 670 subpart F.

@@ -1,7 +1,5 @@
 ##### § 1.2 Abbreviations and symbols. #####
 
-Link to an amendment published at 81 FR 90169, Dec. 13, 2016.Link to an extension of the above amendment published at 82 FR 9677, Feb. 8, 2017.
-
 In Subchapters A through K of this chapter:
 
 *AFM* means airplane flight manual.
@@ -237,6 +235,8 @@ VTOSS means takeoff safety speed for Category A rotorcraft.
 *V*2min means minimum takeoff safety speed.
 
 *VFR* means visual flight rules.
+
+*VGSI* means visual glide slope indicator.
 
 *VHF* means very high frequency.
 

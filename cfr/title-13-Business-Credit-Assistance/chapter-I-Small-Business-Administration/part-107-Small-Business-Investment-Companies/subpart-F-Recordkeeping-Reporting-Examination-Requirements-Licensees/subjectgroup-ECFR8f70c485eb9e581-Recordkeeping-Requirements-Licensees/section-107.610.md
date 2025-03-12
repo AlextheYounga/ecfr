@@ -1,6 +1,6 @@
 ##### § 107.610 Required certifications for Loans and Investments. #####
 
-Link to an amendment published at 81 FR 95424, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8499, Jan. 26, 2017.
+Link to an amendment published at 81 FR 95424, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8499, Jan. 26, 2017.This amendment was further delayed until May 20, 2017 at 82 FR 14428, Mar. 21, 2017.
 
 For each of your Loans and Investments, you must have the documents listed in this section. Except for information and documentation prepared under paragraphs (f)(2) and (3) of this section, you must keep these documents in your files and make them available to SBA upon request.
 

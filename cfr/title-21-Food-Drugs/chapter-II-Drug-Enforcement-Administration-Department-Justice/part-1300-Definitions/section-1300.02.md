@@ -1,7 +1,5 @@
 ##### § 1300.02 Definitions relating to listed chemicals. #####
 
-Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) Any term not defined in this part shall have the definition set forth in section 102 of the Act (21 U.S.C. 802), except that certain terms used in part 1316 of this chapter are defined at the beginning of each subpart of that part.
 
 (b) As used in parts 1309, 1310, and 1313 of this chapter, the following terms shall have the meaning specified:
@@ -26,13 +24,15 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 *Chemical exporter* is a regulated person who, as the principal party in interest in the export transaction, has the power and responsibility for determining and controlling the sending of the listed chemical out of the United States.
 
-*Chemical import* means with respect to a listed chemical, any bringing in or introduction of such listed chemical into either the jurisdiction of the United States or into the customs territory of the United States (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
-
 *Chemical importer* is a regulated person who, as the principal party in interest in the import transaction, has the power and responsibility for determining and controlling the bringing in or introduction of the listed chemical into the United States.
 
 *Chemical mixture* means a combination of two or more chemical substances, at least one of which is not a listed chemical, except that such term does not include any combination of a listed chemical with another chemical that is present solely as an impurity or which has been created to evade the requirements of the Act.
 
 *Combination ephedrine product* means a drug product containing ephedrine or its salts, optical isomers, or salts of optical isomers, and therapeutically significant quantities of another active medicinal ingredient.
+
+*Competent national authority,* for purposes of importation and exportation of controlled substances and listed chemicals, means an entity lawfully entitled to authorize the import and export of controlled substances, and to regulate or enforce national controls over listed chemicals, and included as such in the directory of “Competent National Authorities Under the International Drug Control Treaties” published by the United Nations Office on Drugs and Crime.
+
+*Customs officer* means either an Officer of the Customs as defined in 19 U.S.C. 1401(i) (that is, of the U.S. Customs and Border Protection), or any individual duly authorized to accept entries of merchandise, to collect duties, and to enforce the customs laws of any commonwealth, territory, or possession of the United States.
 
 *Customs territory of the United States* means the several States, the District of Columbia, and Puerto Rico.
 
@@ -44,11 +44,13 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 *Established record as an importer* means that the regulated person has imported a listed chemical at least once within the past six months, or twice within the past twelve months from a foreign supplier.
 
+*Export* means, with respect to any article, any taking out or removal of such article from the United States (whether or not such taking out or removal constitutes an exportation within the meaning of the customs laws, export control laws enforced by other agencies, or related laws of the United States).
+
 *Hearing* means any hearing held for the granting, denial, revocation, or suspension of a registration pursuant to sections 303, 304, and 1008 of the Act (21 U.S.C. 823, 824 and 958).
 
-*International transaction* means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
+*Import* means, with respect to any article, any bringing in or introduction of such article into the customs territory of the United States from any place outside thereof (but within the United States), or into the United States from any place outside thereof (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
 
-*Jurisdiction of the United States* means the customs territory of the United States, the Virgin Islands, the Canal Zone, Guam, American Samoa, and the Trust Territories of the Pacific Islands.
+*International transaction* means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
 
 *Listed chemical* means any List I chemical or List II chemical.
 
@@ -61,6 +63,10 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 *Name* means the official name, common or usual name, chemical name, or brand name of a substance.
 
 *Person* includes any individual, corporation, government or governmental subdivision or agency, business trust, partnership, association, or other legal entity.
+
+*Port of entry,* unless distinguished as being a foreign port of entry, means any place at which a customs officer is duly authorized to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs laws of the United States (whether or not such place is a port of entry as defined in title 19 of the United States Code or its associated implementing regulations). Examples of ports of entry include, but are not limited to, places designated as ports of entry or customs stations in title 19 of the *Code of Federal Regulations* or by the governing customs authority of that area. When shipments are transported under U.S. Customs and Border Protection immediate transportation procedures, the port of entry shall be the port of final destination.
+
+*Port of export* means, unless distinguished as being a foreign port of export, any place under the control of a customs officer where goods are loaded on an aircraft, vessel or other conveyance for export outside of the United States. For goods loaded aboard an aircraft or vessel in the United States that stops at several ports before departing the United States, the port of export is the first port where the goods were loaded. For goods off-loaded from the original conveyance to another conveyance (even if the aircraft or vessel belongs to the same carrier) at any port subsequent to the port where the first on-loading occurred in the United States, the port where the goods were loaded onto the last conveyance before departing the United States is the port of export. For reporting purposes, in the case of an otherwise lawful export occurring by mail, the port of export is the place of mailing.
 
 *Readily retrievable* means that certain records are kept by automatic data processing systems or other electronic or mechanized recordkeeping systems in such a manner that they can be separated out from all other records in a reasonable time and/or records are kept on which certain items are asterisked, redlined, or in some other manner visually identifiable apart from other items appearing on the records.
 
@@ -100,6 +106,8 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 *Retail distributor* means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to drug products containing pseudoephedrine or phenylpropanolamine are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales. Also for the purposes of this paragraph, a “grocery store” is an entity within Standard Industrial Classification (SIC) code 5411, a “general merchandise store” is an entity within SIC codes 5300 through 5399 and 5499, and a “drug store” is an entity within SIC code 5912.
 
+*Return information* means supplemental information required to be reported to the Administration following an import or export transaction containing the particulars of the transaction and any other information as the Administration may specify.
+
 *Scheduled listed chemical product* means:
 
 (1) A product that contains ephedrine, pseudoephedrine, or phenylpropanolamine and may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act as a nonprescription drug. Ephedrine, pseudoephedrine, and phenylpropanolamine include their salts, optical isomers, and salts of optical isomers.
@@ -108,6 +116,8 @@ Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay pub
 
 *Tableting machine* means any manual, semi-automatic, or fully automatic equipment which may be used for the compaction or molding of powdered or granular solids, or semi-solid material, to produce coherent solid tablets.
 
+*United States,* when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States, which, in addition to the customs territory of the United States, include but are not limited to the U.S. Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+
 *Valid prescription* means a prescription that is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
 
-[75 FR 16304, Mar. 31, 2010, as amended at 77 FR 4233, Jan. 27, 2012]
+[75 FR 16304, Mar. 31, 2010, as amended at 77 FR 4233, Jan. 27, 2012; 81 FR 97019, Dec. 30, 2016]

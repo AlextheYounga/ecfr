@@ -1,7 +1,5 @@
 ##### § 31.304 Definitions. #####
 
-Link to an amendment published at 82 FR 4793, Jan. 17, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8894, Feb. 1, 2017.
-
 (a) *Private agency.* A private non-profit agency, organization or institution is:
 
 (1) Any corporation, foundation, trust, association, cooperative, or accredited institution of higher education not under public supervision or control; and
@@ -37,3 +35,7 @@ Link to an amendment published at 82 FR 4793, Jan. 17, 2017.This amendment was d
 (o) *Valid court order.* The term means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word “valid” permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States.
 
 (p) *Local private agency.* For the purposes of the pass-through requirement of section 223(a)(5), a local private agency is defined as a private non-profit agency or organization that provides program services within an identifiable unit or a combination of units of general local government.
+
+(q) *Detain or confine* means to hold, keep, or restrain a person such that he is not free to leave, or such that a reasonable person would believe that he is not free to leave, except that a juvenile held by law enforcement solely for the purpose of returning him to his parent or guardian or pending his transfer to the custody of a child welfare or social service agency is not detained or confined within the meaning of this definition.
+
+[60 FR 28440, May 31, 1995, as amended at 82 FR 4793, Jan. 17, 2017]

@@ -1,8 +1,6 @@
 ##### § 1308.21 Application for exclusion of a nonnarcotic substance. #####
 
-Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
-(a) Any person seeking to have any nonnarcotic drug that may, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301), be lawfully sold over the counter without a prescription, excluded from any schedule, pursuant to section 201(g)(1) of the Act (21 U.S.C. 811(g)(1)), may apply to the Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Any person seeking to have any nonnarcotic drug that may, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301), be lawfully sold over the counter without a prescription, excluded from any schedule, pursuant to section 201(g)(1) of the Act (21 U.S.C. 811(g)(1)), may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) An application for an exclusion under this section shall contain the following information:
 
@@ -16,4 +14,4 @@ Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay pub
 
 (d) The Administrator may at any time revoke any exclusion granted pursuant to section 201(g) of the Act (21 U.S.C. 811(g)) by following the procedures set forth in paragraph (c) of this section for handling an application for an exclusion which has been accepted for filing.
 
-[38 FR 8254, Mar. 30, 1973, as amended at 70 FR 74657, Dec. 16, 2005; 75 FR 10678, Mar. 9, 2010]
+[38 FR 8254, Mar. 30, 1973, as amended at 70 FR 74657, Dec. 16, 2005; 75 FR 10678, Mar. 9, 2010; 81 FR 97021, Dec. 30, 2016]

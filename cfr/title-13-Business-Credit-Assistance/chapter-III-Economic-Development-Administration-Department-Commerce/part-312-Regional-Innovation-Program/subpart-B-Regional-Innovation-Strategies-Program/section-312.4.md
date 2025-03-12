@@ -1,0 +1,3 @@
+##### § 312.4 Purpose and scope of the Regional Innovation Strategies Program. #####
+
+Under the RIS Program, EDA makes grants on a competitive basis to eligible applicants to foster connected, innovation-centric economic regions that support commercialization and entrepreneurship. The grants are intended to build public and private capacity to invent and improve products and services and to bring those products and services to market through a process often referred to as technology commercialization, as demonstrated by methodologically sound metrics for output and outcome.

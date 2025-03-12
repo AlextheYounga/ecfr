@@ -1,7 +1,5 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 81 FR 90169, Dec. 13, 2016.Link to an extension of the above amendment published at 82 FR 9677, Feb. 8, 2017.
-
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 
 *Administrator* means the Federal Aviation Administrator or any person to whom he has delegated his authority in the matter concerned.
@@ -142,9 +140,11 @@ Controlled airspace is a generic term that covers Class A, Class B, Class C, Cla
 
 *Early ETOPS* means ETOPS type design approval obtained without gaining non-ETOPS service experience on the candidate airplane-engine combination certified for ETOPS.
 
+*EFVS operation* means an operation in which visibility conditions require an EFVS to be used in lieu of natural vision to perform an approach or landing, determine enhanced flight visibility, identify required visual references, or conduct a rollout.
+
 *Enhanced flight visibility (EFV)* means the average forward horizontal distance, from the cockpit of an aircraft in flight, at which prominent topographical objects may be clearly distinguished and identified by day or night by a pilot using an enhanced flight vision system.
 
-*Enhanced flight vision system (EFVS)* means an electronic means to provide a display of the forward external scene topography (the natural or manmade features of a place or region especially in a way to show their relative positions and elevation) through the use of imaging sensors, such as a forward looking infrared, millimeter wave radiometry, millimeter wave radar, low light level image intensifying.
+*Enhanced flight vision system (EFVS)* means an installed aircraft system which uses an electronic means to provide a display of the forward external scene topography (the natural or manmade features of a place or region especially in a way to show their relative positions and elevation) through the use of imaging sensors, including but not limited to forward-looking infrared, millimeter wave radiometry, millimeter wave radar, or low-light level image intensification. An EFVS includes the display element, sensors, computers and power supplies, indications, and controls.
 
 *Equivalent airspeed* means the calibrated airspeed of an aircraft corrected for adiabatic compressible flow for the particular altitude. Equivalent airspeed is equal to calibrated airspeed in standard atmosphere at sea level.
 

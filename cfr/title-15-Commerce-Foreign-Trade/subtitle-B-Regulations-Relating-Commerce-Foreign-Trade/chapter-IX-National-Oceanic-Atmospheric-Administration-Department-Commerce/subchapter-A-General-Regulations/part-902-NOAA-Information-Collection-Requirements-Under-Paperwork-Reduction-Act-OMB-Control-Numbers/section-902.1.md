@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 82 FR 6223, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 9369, Feb. 9, 2017.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -103,16 +101,18 @@ Link to an amendment published at 82 FR 6223, Jan. 19, 2017.This amendment was d
 |                                   300.65(h) through (l)                                    |                                          \-0512                                          |
 |                                   300.67(a) through (j)                                    |                                          \-0592                                          |
 |                                     300.67(k) and (l)                                      |                                     \-0592 and -0665                                     |
-|                                         300.103(a)                                         |                                          \-0194                                          |
-|                                         300.104(d)                                         |                                          \-0194                                          |
-|                                         300.104(e)                                         |                                          \-0194                                          |
-|                                         300.105(c)                                         |                                          \-0194                                          |
-|                                         300.106(e)                                         |                                          \-0194                                          |
-|                                          300.107                                           |                                          \-0194                                          |
-|                                         300.108(a)                                         |                                          \-0368                                          |
-|                                         300.108(c)                                         |                                          \-0367                                          |
+|                                     300.103(b) and (c)                                     |                                          \-0194                                          |
+|                                          300.104                                           |                                          \-0194                                          |
+|                                          300.105                                           |                                          \-0194                                          |
+|                                          300.106                                           |                                          \-0194                                          |
+|                                     300.107(c) and (l)                                     |                                          \-0194                                          |
+|                                         300.107(k)                                         |                                          \-0724                                          |
+|                                          300.108                                           |                                          \-0194                                          |
+|                                         300.109(c)                                         |                                          \-0194                                          |
+|                                         300.110(e)                                         |                                          \-0194                                          |
+|                                          300.111                                           |                                          \-0194                                          |
 |                                          300.112                                           |                                          \-0194                                          |
-|                                          300.113                                           |                                          \-0194                                          |
+|                                         300.113(a)                                         |                                          \-0194                                          |
 |                                          300.123                                           |                                          \-0205                                          |
 |                                         300.124(b)                                         |                                          \-0016                                          |
 |                                          300.125                                           |                                          \-0358                                          |

@@ -1,0 +1,19 @@
+##### § 64.6209 Eligibility criteria. #####
+
+Before providing Equipment or related services to an individual, a certified program shall verify the individual's eligibility in accordance with this section.
+
+(a) *Verification of disability.* A certified program shall require an individual applying for Equipment and related services to provide verification of disability in accordance with paragraph (a)(1) or (2) of this section.
+
+(1) The individual may provide an attestation from a professional with direct knowledge of the individual's disability, either to the best of the professional's knowledge or under penalty of perjury, that the applicant is deaf-blind (as defined in § 64.6203(c) of this part). Such attestation shall include the attesting professional's full name, title, and contact information, including business name, address, phone number, and email address. Such attestation shall also include the basis of the attesting professional's knowledge that the individual is deaf-blind and may also include information about the individual's functional abilities to use Covered Services in various settings.
+
+(2) The individual may provide existing documentation that the individual is deaf-blind, such as an individualized education program (IEP) or a Social Security determination letter.
+
+(b) *Verification of income eligibility.* A certified program shall require an individual applying for Equipment and related services to provide verification that his or her income does not exceed 400 percent of the Federal Poverty Guidelines, as defined in 42 U.S.C. 9902(2), or that he or she is enrolled in a federal program with an income eligibility requirement that does not exceed 400 percent of the Federal Poverty Guidelines, such as Medicaid, Supplemental Nutrition Assistance Program, Supplemental Security Income, Federal Public Housing Assistance, or Veterans and Survivors Pension Benefit. The NDBEDP Administrator may identify state or other federal programs with income eligibility thresholds that do not exceed 400 percent of the Federal Poverty Guidelines for determining income eligibility for participation in the NDBEDP. When an applicant is not already enrolled in a qualifying low-income program, income eligibility may be verified by the certified program using appropriate and reasonable means.
+
+(c) *Prohibition against requiring employment.* No certified program may require, for eligibility, that an applicant be employed or actively seeking employment.
+
+(d) *Availability of Covered Services.* A certified program may require an equipment recipient to demonstrate, for eligibility, that a Covered Service that the Equipment is designed to use is available for use by the individual.
+
+(e) *Age.* A certified program may not establish eligibility criteria that exclude low-income individuals who are deaf-blind of a certain age from applying for or receiving Equipment if the needs of such individuals are not being met through other available resources.
+
+(f) *Reverification.* If an individual who has previously received equipment from a certified program applies to a certified program for additional Equipment or related services one year or more after the individual's income was last verified, the certified program shall re-verify an individual's income eligibility in accordance with paragraph (b) before providing new Equipment or related services. If a certified program has reason to believe that an individual's vision or hearing has improved sufficiently that the individual is no longer eligible for Equipment or related services, the certified program shall require reverification of the individual's disability in accordance with paragraph (a) before providing new Equipment or related services.

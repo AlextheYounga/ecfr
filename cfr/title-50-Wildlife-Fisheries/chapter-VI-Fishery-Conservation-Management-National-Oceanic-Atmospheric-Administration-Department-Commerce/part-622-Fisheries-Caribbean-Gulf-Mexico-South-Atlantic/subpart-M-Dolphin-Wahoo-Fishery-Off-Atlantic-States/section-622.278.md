@@ -14,4 +14,4 @@ Commercial trip limits are limits on the amount of Atlantic dolphin and wahoo th
 
 (b) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 81 FR 96930, Dec. 30, 2016]Effective Date Note:At 82 FR 8820, Jan. 31, 2017, in § 622.278, paragraph (a) was stayed, effective Jan. 31, 2017 through Mar. 21, 2017.
+[78 FR 22952, Apr. 17, 2013, as amended at 81 FR 96930, Dec. 30, 2016]

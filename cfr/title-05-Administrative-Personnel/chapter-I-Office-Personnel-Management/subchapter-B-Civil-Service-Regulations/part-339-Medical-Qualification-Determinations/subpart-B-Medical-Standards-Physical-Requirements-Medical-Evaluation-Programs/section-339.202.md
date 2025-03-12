@@ -1,0 +1,7 @@
+##### § 339.202 Medical standards. #####
+
+OPM may establish and/or approve medical standards for a Governmentwide occupation (*i.e.,* an occupation common to more than one agency) or approve revisions to its established medical standards. An individual agency may establish medical standards for positions that predominate in that agency (*i.e.,* where the agency has 50 percent or more of the positions in a particular occupation). Such standards must be justified on the basis that the duties of the positions are arduous or hazardous, or require a certain level of health status for successful performance when the nature of the positions involves a high degree of responsibility toward the public or sensitive national security concerns. The rationale for establishing the standard must be documented and supported by a study(ies) or evaluation(s) establishing the medical standard is job-related to the occupation(s). Medical standards established by agencies must be approved by OPM prior to implementation. Standards established by OPM or an agency must be:
+
+(a) Established by written directive and uniformly applied, and
+
+(b) Directly related to the actual performance and requirements necessary for the performance of the duties of the position.

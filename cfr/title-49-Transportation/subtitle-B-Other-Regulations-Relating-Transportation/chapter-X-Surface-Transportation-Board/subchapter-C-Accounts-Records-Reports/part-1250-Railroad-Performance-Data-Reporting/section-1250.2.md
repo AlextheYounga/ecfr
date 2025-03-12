@@ -1,7 +1,5 @@
 ##### § 1250.2 Railroad performance data elements. #####
 
-Link to an amendment published at 82 FR 13402, Mar. 13, 2017.
-
 (a) Each Class I railroad must report the performance data elements in paragraphs (a)(1)-(9) and (11) of this section on a weekly basis, and the data elements in paragraph (a)(10) on a monthly basis, for the reporting period, as defined in § 1250.1(a). However, with regard to data elements in paragraph (a)(7) and (8), Kansas City Southern Railway Company is not required to report information by state, but instead shall report system-wide data.
 
 (1) System-average train speed for the overall system and for the following train types for the reporting week. (Train speed should be measured for line-haul movements between terminals. The average speed for each train type should be calculated by dividing total train-miles by total hours operated.)
@@ -48,7 +46,7 @@ Link to an amendment published at 82 FR 13402, Mar. 13, 2017.
 
 (5) The weekly average number of trains holding per day sorted by train type (intermodal, grain unit, coal unit, automotive unit, crude oil unit, ethanol unit, other unit, and manifest) and by cause (crew, locomotive power, or other). (Railroads are instructed to run a same-time snapshot of trains holding each day, and then to calculate the average for the reporting period.)
 
-(6) The weekly average of loaded and empty cars, operating in normal movement and billed to an origin or destination, which have not moved in 48 hours or more sorted by service type (intermodal, grain, coal, crude oil, automotive, ethanol, fertilizer (the following Standard Transportation Commodity Codes (STCCs): 2871236, 2871235, 2871238, 2819454, 2812534, 2818426, 2819815, 2818170, 2871315, 2818142, 2818146, 2871244, 2819173, and 2871451), and all other). In order to derive the averages for the reporting period, carriers should run a same-time snapshot each day of the reporting period, capturing cars that have not moved in 48 hours or more. The number of cars captured on the daily snapshot for each category should be added, and then divided by the number of days in the reporting period. In deriving this data, carriers should include cars in normal service anywhere on their system, but should not include cars placed at a customer facility; in constructive placement; placed for interchange to another carrier; in bad order status; in storage; or operating in railroad service (*e.g.,* ballast).
+(6) The weekly average of loaded and empty cars, operating in normal movement and billed to an origin or destination, which have not moved in 48 hours or more sorted by service type (intermodal, grain, coal, crude oil, automotive, ethanol, fertilizer (the following Standard Transportation Commodity Codes (STCCs): 2871236, 2871235, 2871238, 2819454, 2812534, 2818426, 2819815, 2818170, 2871315, 2818142, 2818146, 2871244, 2819173, 2871313, and 2871451), and all other). In order to derive the averages for the reporting period, carriers should run a same-time snapshot each day of the reporting period, capturing cars that have not moved in 48 hours or more. The number of cars captured on the daily snapshot for each category should be added, and then divided by the number of days in the reporting period. In deriving this data, carriers should include cars in normal service anywhere on their system, but should not include cars placed at a customer facility; in constructive placement; placed for interchange to another carrier; in bad order status; in storage; or operating in railroad service (*e.g.,* ballast).
 
 (7) The weekly total number of grain cars loaded and billed, reported by state, aggregated for the following STCCs: 01131 (barley), 01132 (corn), 01133 (oats), 01135 (rye), 01136 (sorghum grains), 01137 (wheat), 01139 (grain, not elsewhere classified), 01144 (soybeans), 01341 (beans, dry), 01342 (peas, dry), and 01343 (cowpeas, lentils, or lupines). “Total grain cars loaded and billed” includes cars in shuttle service; dedicated train service; reservation, lottery, open and other ordering systems; and private cars. Additionally, separately report the total cars loaded and billed in shuttle service (or dedicated train service), if any, versus total cars loaded and billed in all other ordering systems, including private cars.
 
@@ -119,3 +117,5 @@ Link to an amendment published at 82 FR 13402, Mar. 13, 2017.
 (B) [Reserved]
 
 (b) [Reserved]
+
+[81 FR 87484, Dec. 5, 2016, as amended at 82 FR 13402, Mar. 13, 2017]

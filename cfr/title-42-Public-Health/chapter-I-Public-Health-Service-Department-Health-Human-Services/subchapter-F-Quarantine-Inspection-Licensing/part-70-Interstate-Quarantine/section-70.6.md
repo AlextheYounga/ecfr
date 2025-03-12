@@ -1,7 +1,11 @@
-##### § 70.6 Apprehension and detention of persons with specific diseases. #####
+##### § 70.6 Apprehension and detention of persons with quarantinable communicable diseases. #####
 
-Link to an amendment published at 82 FR 6971, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10719, Feb. 15, 2017.
+(a) The Director may authorize the apprehension, medical examination, quarantine, isolation, or conditional release of any individual for the purpose of preventing the introduction, transmission, and spread of quarantinable communicable diseases, as specified by Executive Order, based upon a finding that:
 
-Regulations prescribed in this part authorize the detention, isolation, quarantine, or conditional release of individuals, for the purpose of preventing the introduction, transmission, and spread of the communicable diseases listed in an Executive Order setting out a list of quarantinable communicable diseases, as provided under section 361(b) of the Public Health Service Act. Executive Order 13295, of April 4, 2003, as amended by Executive Order 13375 of April 1, 2005, contains the current revised list of quarantinable communicable diseases, and may be obtained at *http://www.cdc.gov/quarantine* and *http://www.archives.gov/federal\_register.* If this Order is amended, HHS will enforce that amended order immediately and update its Web site.
+(1) The individual is reasonably believed to be infected with a quarantinable communicable disease in a qualifying stage and is moving or about to move from a State into another State; or
 
-[77 FR 75884, Dec. 26, 2012]
+(2) The individual is reasonably believed to be infected with a quarantinable communicable disease in a qualifying stage and constitutes a probable source of infection to other individuals who may be moving from a State into another State.
+
+(b) The Director will arrange for adequate food and water, appropriate accommodation, appropriate medical treatment, and means of necessary communication for individuals who are apprehended or held in quarantine or isolation under this part.
+
+[82 FR 6971, Jan. 19, 2017]

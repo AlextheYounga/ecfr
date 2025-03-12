@@ -1,0 +1,15 @@
+##### § 890.1412 Non-pay status, insufficient pay, or change to ineligible position. #####
+
+(a) *Non-pay status for 365 days.* Enrollment of a tribal employee and coverage of family members may continue for up to 365 days during which the tribal employee is in a non-pay status (as described at § 890.303(e)(1)) under terms described at § 890.502(b). Enrollment terminates at midnight of the last day of the pay period which includes the 365th consecutive day of nonpay status or the last day of leave under the Family and Medical Leave Act, whichever is later. The tribal employee and covered family members are entitled to a 31-day temporary extension of coverage without premium contribution and may convert to an individual policy as described at § 890.401.
+
+(b) *Insufficient pay.* If the pay of a non-temporary tribal employee who is enrolled in FEHB is insufficient to pay for the tribal employee's share of premiums, the tribal employer must follow the procedure described at § 890.502(b). If the enrollment is terminated due to insufficient pay, the tribal employee and covered family members are entitled to a 31-day temporary extension of coverage without premium contribution and may convert to an individual policy as described at § 890.401.
+
+(c) *Insufficient pay for temporary tribal employees.* If the pay of a temporary tribal employee who meets eligibility requirements described at 5 U.S.C. 8906a is insufficient to pay the tribal employee's share of premiums as described at § 890.304(a)(2), and the tribal employee does not or cannot elect a plan at a cost to him or her not in excess of the pay, the tribal employee's enrollment must be terminated as described at § 890.304(a)(2). The tribal employee and covered family members are entitled to a 31-day temporary extension of coverage without premium contribution and may convert to an individual policy as described at § 890.401.
+
+(d) *Change to ineligible position.* A tribal employee who moves from an FEHB eligible to a non-FEHB-eligible position at a tribal employer will be eligible to continue FEHB enrollment as described in § 890.303(b).
+
+(e) Non-pay status due to Uniformed Service—
+
+(1) Enrollment of a tribal employee and coverage of family members terminates at midnight of the earliest of the dates described at § 890.304(a)(1)(vi) through (viii). The tribal employee and covered family members are entitled to a 31-day temporary extension of coverage without premium contribution and may convert to an individual policy as described at § 890.401.
+
+(2) Enrollment is reinstated on the date the tribal employee is restored to duty in an eligible position with the tribal employer upon return from Uniformed Service, pursuant to applicable law, provided that the tribal employer continues to purchase FEHB for its tribal employees in the affected tribal employee's billing unit on that date.

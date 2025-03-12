@@ -1,8 +1,6 @@
 ##### § 1308.25 Exclusion of a veterinary anabolic steroid implant product; application. #####
 
-Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
-(a) Any person seeking to have any anabolic steroid product, which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration, identified as being excluded from any schedule, pursuant to section 102(41)(B)(i) of the Act (21 U.S.C. 802(41)(B)(i)), may apply to the Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Any person seeking to have any anabolic steroid product, which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration, identified as being excluded from any schedule, pursuant to section 102(41)(B)(i) of the Act (21 U.S.C. 802(41)(B)(i)), may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration . See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (b) An application for any exclusion under this section shall be submitted in triplicate and contain the following information:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay pub
 
 (d) The Administrator may at any time revoke or modify any designation of excluded status granted pursuant to this section by following the procedures set forth in paragraph (c) of this section for handling an application for an exclusion which has been accepted for filing.
 
-[56 FR 42936, Aug. 30, 1991, as amended at 75 FR 10679, Mar. 9, 2010]
+[56 FR 42936, Aug. 30, 1991, as amended at 75 FR 10679, Mar. 9, 2010; 81 FR 97021, Dec. 30, 2016]

@@ -1,21 +1,29 @@
-##### § 300.105 Initiating a new fishery. #####
+##### § 300.105 Preapproval for importation of frozen Dissostichus species. #####
 
-(a) A new fishery, for purposes of this section, is a fishery on a species using a particular method in a statistical subarea for which:
+(a) A NMFS-issued preapproval certificate is required to import each shipment of frozen *Dissostichus* species.
 
-(1) Information on distribution, abundance, demography, potential yield and stock identity from comprehensive research/surveys or exploratory fishing has not been submitted to CCAMLR;
+(b) *Application.* Application forms for a preapproval certificate are available from NMFS Headquarters and the National Seafood Inspection Laboratory. With the exception of the U.S. Customs 7501 entry number, a complete and accurate application must be received by NMFS for each preapproval certificate at least 10 working days before the anticipated date of the importation. Dealers must supply the U.S. Customs 7501 entry number at least three working days prior to the expected arrival of a shipment of frozen *Dissostichus* species at a U.S. port.
 
-(2) Catch and effort data have never been submitted to CCAMLR; or
+(c) *Fees.* A person must include the processing fee with each preapproval certificate application. NMFS will determine the fee under the NOAA finance handbook procedures for calculating administrative costs of special products and services and user fees collected for administrative expenses associated with processing applications for preapproval certificates.
 
-(3) Catch and effort data from the two most recent seasons in which fishing occurred have not been submitted to CCAMLR.
+(d) *Issuance.* NMFS may issue a preapproval certificate for importation of a shipment of frozen *Dissostichus* species if the preapproval application form is complete and NMFS determines that the activity proposed by the applicant meets the requirements of the Act and that the resources were not harvested in violation of any CCAMLR conservation measure or in violation of any regulation in this subpart. No preapproval will be issued for *Dissostichus* species without verifiable documentation that the harvesting vessel reported to C-VMS continuously and in real-time from port-to-port, regardless of where such *Dissostichus* species were harvested.
 
-(b) An individual subject to these regulations intending to develop a new fishery shall notify the Assistant Administrator no later than July 1 of the year in which he or she intends to initiate the fishery and shall not initiate the fishery pending CCAMLR review.
+(e) *Duration.* A preapproval certificate is valid until the Dissostichus product specified in the preapproval application is imported.
 
-(c) The notification shall be accompanied by information on:
+(f) *Transfer.* A person may not transfer or assign a preapproval certificate.
 
-(1) The nature of the proposed fishery, including target species, methods of fishing, proposed region and any minimum level of catches that would be required to develop a viable fishery.
+(g) *Changes in information.* (1) For pending preapproval certificates, applicants must report in writing to NMFS any changes in the information submitted in their preapproval certificate applications. NMFS may extend the processing period for the application as necessary to review and consider any changes.
 
-(2) Biological information from comprehensive research/survey cruises, such as distribution, abundance, demographic data and information on stock identity.
+(2) *Issued preapprovals.* For issued preapproval certificates, the certificate holder must report in writing to NMFS any changes to information included in the preapproval certificate application. Any changes related to fish being imported, such as harvesting vessel or country of origin, type and quantity of the fish to be imported or Convention statistical subarea from which the resource was harvested, will void the preapproval certificate and the shipment may not be imported unless authorized by NMFS through issuance of a revised or new preapproval certificate.
 
-(3) Details of dependent and associated species and the likelihood of them being affected by the proposed fishery.
+(3) The provision of false information in a preapproval application, or the failure to report a change in the information contained in a preapproval application, voids the application or preapproval as applicable.
 
-(4) Information from other fisheries in the region or similar fisheries elsewhere that may assist in the valuation of potential yield.
+(h) NMFS will not issue a preapproval certificate for any shipment of *Dissostichus* species:
+
+(1) Identified as originating from a high seas area designated by the Food and Agriculture Organization of the United Nations as Statistical Area 51 or Statistical Area 57 in the eastern and western Indian Ocean outside and north of the Convention Area;
+
+(2) Determined to have been harvested or transshipped in contravention of any CCAMLR Conservation Measure in force at the time of harvest or transshipment;
+
+(3) Determined to have been harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported and unregulated (IUU) fishing; or
+
+(3) Accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation or by a SVDCD.

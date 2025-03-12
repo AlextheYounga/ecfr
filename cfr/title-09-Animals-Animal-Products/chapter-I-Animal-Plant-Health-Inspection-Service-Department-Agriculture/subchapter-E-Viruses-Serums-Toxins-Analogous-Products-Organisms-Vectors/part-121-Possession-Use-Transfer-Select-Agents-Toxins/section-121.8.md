@@ -1,7 +1,5 @@
 ##### § 121.8 Denial, revocation, or suspension of registration. #####
 
-Link to an amendment published at 82 FR 6208, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 (a) An application may be denied or a certificate of registration revoked or suspended if:
 
 (1) The individual or entity, the responsible official, or an individual who owns or controls the entity is within any of the categories described in 18 U.S.C. 175b;
@@ -14,9 +12,9 @@ Link to an amendment published at 82 FR 6208, Jan. 19, 2017.This amendment was d
 
 (iii) Being an agent of a foreign power as defined in 50 U.S.C. 1801;
 
-(3) The individual or entity does not meet the requirements of this part;8 or
+(3) The individual or entity does not meet the requirements of this part;10 or
 
-8 If registration is denied for this reason, we may provide technical assistance and guidance.
+10 If registration is denied for this reason, we may provide technical assistance and guidance.
 
 (4) It is determined that such action is necessary to protect animal health or animal products.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 82 FR 6208, Jan. 19, 2017.This amendment was d
 
 (c) Denial of an application for registration and revocation of registration may be appealed under § 121.20. However, any denial of an application for registration or revocation of a certificate of registration will remain in effect until a final agency decision has been rendered.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008]
+[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 82 FR 6208, Jan. 19, 2017]

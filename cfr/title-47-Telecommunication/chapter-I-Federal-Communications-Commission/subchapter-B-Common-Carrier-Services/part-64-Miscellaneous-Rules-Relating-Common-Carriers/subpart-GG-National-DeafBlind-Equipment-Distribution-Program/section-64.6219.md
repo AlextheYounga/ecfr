@@ -1,0 +1,5 @@
+##### § 64.6219 Whistleblower protections. #####
+
+(a) NDBEDP certified programs shall permit, without reprisal in the form of an adverse personnel action, purchase or contract cancellation or discontinuance, eligibility disqualification, or otherwise, any current or former employee, agent, contractor, manufacturer, vendor, applicant, or recipient, to disclose to a designated official of the certified program, the NDBEDP Administrator, the TRS Fund Administrator, the Commission, or to any federal or state law enforcement entity, any known or suspected violations of the Communications Act or Commission rules, or any other activity that the reporting person reasonably believes to be unlawful, wasteful, fraudulent, or abusive, or that otherwise could result in the improper distribution of Equipment, provision of services, or billing to the TRS Fund.
+
+(b) NDBEDP certified programs shall include these whistleblower protections with the information they provide about the program in any employee handbooks or manuals, on their Web sites, and in other appropriate publications.

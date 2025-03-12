@@ -1,12 +1,10 @@
 ##### § 121.16 Transfers. #####
 
-Link to an amendment published at 82 FR 6210, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
+(a) Except as provided in paragraphs (c) and (d) of this section, a select agent or toxin may only be transferred to individuals or entities registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by APHIS or CDC prior to the transfer.14
 
-(a) Except as provided in paragraphs (c) and (d) of this section, a select agent or toxin may only be transferred to individuals or entities registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by APHIS or CDC prior to the transfer.12
+14 The requirements of this section do not apply to transfers within a registered entity (*i.e.*, the sender and the recipient are covered by the same certificate of registration).
 
-12 The requirements of this section do not apply to transfers within a registered entity (*i.e.*, the sender and the recipient are covered by the same certificate of registration).
-
-(b) In addition to any permit required under part 122 of this subchapter, a transfer may be authorized if:
+(b) A transfer may be authorized if:
 
 (1) The sender:
 
@@ -36,4 +34,6 @@ Link to an amendment published at 82 FR 6210, Jan. 19, 2017.This amendment was d
 
 (k) An authorization for a transfer shall be valid only for 30 calendar days after issuance, except that such an authorization becomes immediately null and void if any facts supporting the authorization change (e.g., change in the certificate of registration for the sender or recipient, change in the application for transfer).
 
-[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61081, Oct. 5, 2012]
+(l) Transfer the amounts only after the transferor uses due diligence and documents that the recipient has a legitimate need (*e.g.,* prophylactic, protective, bona fide research, or other peaceful purpose) to handle or use such toxins. Information to be documented includes, but is not limited, to the recipient information, toxin and amount transferred, and declaration that the recipient has legitimate purpose to store and use such toxins.
+
+[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61081, Oct. 5, 2012; 82 FR 6210, Jan. 19, 2017]

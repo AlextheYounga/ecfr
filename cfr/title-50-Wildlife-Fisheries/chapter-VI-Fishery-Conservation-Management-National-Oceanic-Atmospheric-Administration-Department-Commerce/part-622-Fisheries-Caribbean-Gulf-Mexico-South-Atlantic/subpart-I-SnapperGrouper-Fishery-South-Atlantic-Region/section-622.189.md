@@ -4,7 +4,7 @@
 
 (b) *Configuration restriction.* In the South Atlantic EEZ, sea bass pots may not be used or possessed in multiple configurations, that is, two or more pots may not be attached one to another so that their overall dimensions exceed those allowed for an individual sea bass pot. This does not preclude connecting individual pots to a line, such as a “trawl” or trot line.
 
-(c) *Requirement for escape mechanisms.* (1) A sea bass pot that is used or possessed in the South Atlantic EEZ between 35°15.19′ N. lat. (due east of Cape Hatteras Light, NC) and 28°35.1′ N. lat. (due east of the NASA Vehicle Assembly Building, Cape Canaveral, FL) is required to have -
+(c) *Requirement for escape mechanisms.* (1) A sea bass pot that is used or possessed in the South Atlantic EEZ between 35°15.19′ N. lat. (due east of Cape Hatteras Light, NC) and 28°35.1′ N. lat. (due east of the NASA Vehicle Assembly Building, Cape Canaveral, FL) is required to have—
 
 (i) On at least one side, excluding top and bottom, a panel or door with an opening equal to or larger than the interior end of the trap's throat (funnel). The hinges and fasteners of each panel or door must be made of one of the following degradable materials:
 
@@ -26,11 +26,11 @@
 
 (i) For sides of the pot other than the back panel:
 
-(A) Hexagonal mesh (chicken wire) - at least 1.5 inches (3.8 cm) between the wrapped sides;
+(A) Hexagonal mesh (chicken wire)—at least 1.5 inches (3.8 cm) between the wrapped sides;
 
-(B) Square mesh - at least 1.5 inches (3.8 cm) between sides; or
+(B) Square mesh—at least 1.5 inches (3.8 cm) between sides; or
 
-(C) Rectangular mesh - at least 1 inch (2.5 cm) between the longer sides and 2 inches (5.1 cm) between the shorter sides.
+(C) Rectangular mesh—at least 1 inch (2.5 cm) between the longer sides and 2 inches (5.1 cm) between the shorter sides.
 
 (ii) For the entire back panel, *i.e.,* the side of the pot opposite the side that contains the pot entrance, mesh that is at least 2 inches (5.1 cm) between sides.
 
@@ -44,4 +44,4 @@
 
 (g) *Sea bass pot buoy line marking requirement.* In addition to the gear marking requirements specified in 50 CFR 229.32(b), from November 15 through April 15, each year, in the Southeast U.S. Restricted Area North as described in 50 CFR 229.32(f) and from September 1 through May 31, each year in the Offshore Trap/Pot Waters Area and the Southern Nearshore Trap/Pot Waters Area, as described in 50 CFR 229.32(c)(6) and (9), respectively, the buoy line must be marked with a purple color band. The colored band must be clearly visible when the gear is hauled or removed from the water, including if the color of the rope is the same as, or similar, to the colored band. The purple band must be marked directly onto the line and adjacent to the buoy line markings specified in 50 CFR 229.32(b), that is, at the top, middle, and bottom of each buoy line deployed by, or on board, the vessel. Each of the three purple bands must be a 12-inch (30.5 cm) color mark. In marking or affixing the purple band, the line may be dyed, painted, or marked with thin colored whipping line, thin colored plastic, or heat-shrink tubing, or other material.
 
-[81 FR 1792, Jan. 13, 2016, as amended at 81 FR 95902, Dec. 29, 2016]Effective Date Note:At 82 FR 8820, Jan. 31, 2017, in § 622.189, paragraph (g) was stayed, effective Jan. 31, 2017 through Mar. 21, 2017.
+[81 FR 1792, Jan. 13, 2016, as amended at 81 FR 95902, Dec. 29, 2016]

@@ -1,0 +1,7 @@
+##### § 890.1409 Cancellation of coverage or decreases in enrollment. #####
+
+(a) A tribal employee enrolled under this subpart may cancel enrollment as described at § 890.304(d) or decrease his or her enrollment as described at § 890.301. A tribal employee who does not participate in premium conversion may cancel his or her enrollment or decrease his or her enrollment at any time by request to the tribal employer, unless there is a legally binding court or administrative order requiring coverage of a child as described at § 890.301(g)(3). A tribal employee who participates in premium conversion may cancel his or her enrollment as provided by § 892.209 or decrease his or her enrollment as provided by § 892.208 of this chapter only during open season or because of and consistent with a qualifying life event.
+
+(b) A cancellation of enrollment becomes effective as described at § 890.304(d). A decrease in enrollment becomes effective as described in § 890.301(e)(2).
+
+(c) A tribal employee who cancels his or her enrollment under this section or decreases his or her enrollment may reenroll or increase his or her enrollment only during open season or because of and consistent with a qualifying life event.

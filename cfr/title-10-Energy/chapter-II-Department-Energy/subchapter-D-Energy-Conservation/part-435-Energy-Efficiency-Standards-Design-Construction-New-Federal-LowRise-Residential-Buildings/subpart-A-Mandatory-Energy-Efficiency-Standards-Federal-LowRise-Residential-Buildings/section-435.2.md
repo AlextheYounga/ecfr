@@ -1,6 +1,6 @@
 ##### § 435.2 Definitions. #####
 
-Link to an amendment published at 82 FR 2867, Jan. 10, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 9343, Feb. 6, 2017.
+Link to an amendment published at 82 FR 2867, Jan. 10, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 9343, Feb. 6, 2017.This amendment was further delayed until Sept. 30, 2017, at 82 FR 14427, Mar. 21, 2017.
 
 For purposes of this part, the following terms, phrases and words shall be defined as follows:
 

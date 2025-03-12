@@ -1,29 +1,23 @@
 ##### § 12.121 Reporting requirements. #####
 
-Link to an amendment published at 81 FR 94985, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
-
-(a) *Chemical substances in bulk or mixtures* - (1) *Certification required.* The importer of a chemical substance imported in bulk or as part of a mixture, or the authorized agent of such an importer, must certify either that the chemical shipment is subject to TSCA and complies with all applicable rules and orders thereunder, or that the chemical shipment is not subject to TSCA, by signing and filing with Customs one of the following statements:
+(a) *Certification required.* (1) The importer or the authorized agent of such an importer of a TSCA chemical substance in bulk form or as part of a mixture, must certify in writing or electronically that the chemical shipment complies with all applicable rules and orders under TSCA by filing with CBP the following statement:
 
 I certify that all chemical substances in this shipment comply with all applicable rules or orders under TSCA and that I am not offering a chemical substance for entry in violation of TSCA or any applicable rule or order thereunder.
 
-I certify that all chemical substances in this shipment are not subject to TSCA.
+(2) The importer or the authorized agent of such an importer of any TSCA-excluded chemical not clearly identified as such must certify in writing or electronically that the chemical shipment is not subject to TSCA by filing with CBP the following statement:
 
-(2) *Filing of certification* - (i) *General.* The appropriate certification required under paragraph (a)(1) of this section must be filed with the director of the port of entry before release of the shipment and, except when a blanket certification is on file as provided for in paragraph (a)(2)(ii) of this section, must appear as a typed or stamped statement:
+I certify that all chemicals in this shipment are not subject to TSCA.
+
+(3) *Filing of certification.* (i) The appropriate certification required under paragraph (a) of this section must be filed with the director of the port of entry in writing or electronically to the Automated Commercial Environment (ACE) system or any other CBP-authorized EDI system prior to release of the shipment. For each entry subject to certification under paragraph (a), the name, phone number, and email address of the certifier (the importer or the importer's authorized agent) shall be included.
+
+(ii) Written certifications must appear as a typed or stamped statement:
 
 (A) On an appropriate entry document or commercial invoice or on an attachment to that entry document or invoice; or
 
 (B) In the event of release under a special permit for an immediate delivery as provided for in § 142.21 of this chapter or in the case of an entry as provided for in § 142.3 of this chapter, on the commercial invoice or on an attachment to that invoice.
 
-(ii) *Blanket certifications.* A Center director may, in his discretion, approve an importer's use of a “blanket” certification, in lieu of filing a separate certification for each chemical shipment, for any chemical shipment that conforms to a product description provided to Customs pursuant to paragraph (a)(2)(ii)(A) of this section. In approving the use of a “blanket” certification, the Center director should consider the reliability of the importer and Customs broker. Approval and use of a “blanket” certification will be subject to the following conditions:
+(b) *TSCA chemical substances or mixtures as parts of articles.* An importer of a TSCA chemical substance or mixture as part of an article must comply with the certification requirements set forth in paragraph (a) of this section only if required to do so by a rule or order issued under TSCA.
 
-(A) A “blanket” certification must be filed with the CBP, either at the port of entry or electronically on the letterhead of the certifying firm, must list the products covered by name and Harmonized Tariff Schedule of the United States subheading number, must identify the foreign supplier by name and address, and must be signed by an authorized person;
+(c) *Facsimile signatures.* The certification statements required under paragraph (a) of this section may be signed by means of an authorized facsimile signature.
 
-(B) A “blanket” certification will remain valid, and may be used, for 1 year from the date of approval unless the approval is revoked earlier for cause by the Center director. Separate “blanket” certifications must be approved and used for chemical substances that are subject to TSCA and for chemical substances that are not subject to TSCA; and
-
-(C) An importer for whom the use of a “blanket” certification has been approved must include, on the invoice used in connection with the entry and entry summary procedures for each shipment covered by the “blanket” certification, a statement referring to the “blanket” certification and incorporating it by reference. This statement need not be signed.
-
-(b) *Chemical substances or mixtures as parts of articles.* Each importer of a chemical substance or mixture as part of an article must comply with the certification requirements set forth in paragraph (a) of this section only if required to do so by a rule or order issued under TSCA.
-
-(c) *Facsimile signatures.* The certification statements required under paragraph (a)(1) of this section may be signed by means of an authorized facsimile signature.
-
-[T.D. 00-13, 65 FR 10704, Feb. 29, 2000, as amended by CBP Dec. 16-26, 81 FR 93014, Dec. 20, 2016]
+[CBP Dec. 16-28, 81 FR 94985, Dec. 27, 2016]

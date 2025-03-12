@@ -1,8 +1,6 @@
 ##### § 91.1065 Initial and recurrent pilot testing requirements. #####
 
-Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
-
-(a) No program manager or owner may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th month before that service, that pilot has passed either a written or oral test (or a combination), given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas -
+(a) No program manager or owner may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th month before that service, that pilot has passed either a written or oral test (or a combination), given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas—
 
 (1) The appropriate provisions of parts 61 and 91 of this chapter and the management specifications and the operating manual of the program manager;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was 
 
 (6) Meteorology in general, including the principles of frontal systems, icing, fog, thunderstorms, and windshear, and, if appropriate for the operation of the program manager, high altitude weather;
 
-(7) Procedures for -
+(7) Procedures for—
 
 (i) Recognizing and avoiding severe weather situations;
 
@@ -35,3 +33,7 @@ Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was 
 (e) The Administrator or authorized check pilot certifies the competency of each pilot who passes the knowledge or flight check in the program manager's pilot records.
 
 (f) All or portions of a required competency check may be given in an aircraft simulator or other appropriate training device, if approved by the Administrator.
+
+(g) If the program manager is authorized to conduct EFVS operations, the competency check in paragraph (b) of this section must include tasks appropriate to the EFVS operations the certificate holder is authorized to conduct.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90175, Dec. 13, 2016]

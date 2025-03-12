@@ -100,4 +100,4 @@
 
 (2) [Reserved]. For further guidance, see § 1.1441-2T(f)(2).
 
-[T.D. 8734, 62 FR 53444, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72187, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 8881, 65 FR 32186, May 22, 2000; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; 73 FR 45612, Aug. 6, 2008; T.D. 9572, 77 FR 3109, Jan. 23, 2012; T.D. 9648, 78 FR 73081, Dec. 5, 2013; T.D. 9734, 80 FR 56890, Sept. 18, 2015; T.D. 9808, 82 FR 2085, Jan. 6, 2017; T.D. 9815, 82 FR 8164, Jan. 24, 2017]
+[T.D. 8734, 62 FR 53444, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

@@ -1,9 +1,15 @@
-##### § 300.115 Appointment of a designated representative. #####
+##### § 300.115 Facilitation of enforcement and inspection. #####
 
-(a) All holders of permits authorizing fishing in subarea 48.3 must appoint a designated representative in the United States.
+In addition to the facilitation of enforcement provisions of § 300.5, the following requirements apply to this subpart.
 
-(b) The designated representative will be notified of closures under § 300.111 and must transmit this information to the vessel on the grounds.
+(a) *Access and records.* (1) The owners and operator of each harvesting vessel must provide authorized officers and CCAMLR inspectors access to all spaces where work is conducted or business papers and records are prepared or stored, including but not limited to personal quarters and areas within personal quarters. If inspection of a particular area would interfere with specific on-going scientific research, and if the operator of the harvesting vessel makes such assertion and produces an individual permit that covers that specific research, the authorized officer or CCAMLR inspector will not disturb the area, but will record the information pertaining to the denial of access.
 
-(c) The designated representative may receive catch reports from the vessel and transmit the reports to NMFS in writing.
+(2) The owner and operator of each harvesting vessel must provide to authorized officers and CCAMLR inspectors all records and documents pertaining to the harvesting activities of the vessel, including but not limited to production records, fishing logs, navigation logs, transfer records, product receipts, cargo stowage plans or records, draft or displacement calculations, customs documents or records, and an accurate hold plan reflecting the current structure of the vessel's storage and factory spaces.
 
-[61 FR 35550, July 5, 1996. Redesignated at 72 FR 48510, Aug. 23, 2007]
+(3) Before leaving vessels that have been inspected, the CCAMLR inspector will give the master of the vessel a Certificate of Inspection and a written notification of any alleged violations of CCAMLR conservation measures in effect and will afford the master the opportunity to comment on it. The ship's master must sign the notification to acknowledge receipt and the opportunity to comment on it.
+
+(4) Any person issued a first receiver permit under this subpart, or an IFTP under § 300.322, must as a condition of that permit, allow an authorized officer access to any facility from which they engage in the first receipt, import, export or re-export of AMLR for the purpose of inspecting the facility and any fish, equipment or records therein.
+
+(b) *Reports by non-inspectors.* All scientists, fishermen, and other non-inspectors present in the Convention Area and subject to the jurisdiction of the United States are encouraged to report any violation of CCAMLR conservation measures observed in the Convention Area to the Office of Ocean and Polar Affairs (CCAMLR Violations), Department of State, Room 5801, Washington, DC 20520.
+
+(c) *Storage of AMLR.* The operator of each harvesting vessel storing AMLR in a storage space on board a vessel must ensure that non-resource items are neither stowed beneath nor covered by resource items, unless required to maintain the stability and safety of the vessel. Non-resource items include, but are not limited to, portable conveyors, exhaust fans, ladders, nets, fuel bladders, extra bin boards, or other moveable non-resource items. These non-resource items may be in a resource storage space when necessary for the safety of the vessel or crew or for the storage of the items. Lumber, bin boards, or other dunnage may be used for shoring or bracing of product to ensure the safety of crew and to prevent shifting of cargo within the space.

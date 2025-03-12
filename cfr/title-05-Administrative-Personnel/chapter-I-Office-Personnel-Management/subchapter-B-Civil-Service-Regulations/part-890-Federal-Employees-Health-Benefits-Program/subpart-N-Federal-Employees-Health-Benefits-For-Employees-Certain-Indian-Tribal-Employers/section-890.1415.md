@@ -1,0 +1,9 @@
+##### § 890.1415 Reconsideration of enrollment and eligibility decisions and appeal rights. #####
+
+(a) The tribal employer shall establish or identify an independent dispute resolution panel to adjudicate appeals of determinations made by a tribal employer denying an individual's status as a tribal employee eligible to enroll in FEHB or denying a change in the type of enrollment (*i.e.:* to or from self only coverage) under this subpart. Such panel shall be authorized to enforce enrollment and eligibility decisions. The tribal employer shall notify affected individuals of this panel and its functions.
+
+(b) Under procedures set forth by the tribal employer, an individual may file a written request to the independent dispute resolution panel to reconsider an initial decision of the tribal employer under this subpart. A reconsideration decision made by the panel must be issued to the individual in writing and must fully state the findings and reasons for the findings. The panel may consider information from the tribal employer, the individual, or another source. The panel must retain a file of its documentation until December 31 of the 3rd year after the year in which the decision was made, and must provide the file to OPM upon request.
+
+(c) If the panel determines that the individual is ineligible to enroll in FEHB as a tribal employee or to change enrollment, the individual may request that OPM reconsider the denial. Such a request must be made in writing and any decision by OPM will be binding on the tribal employer.
+
+(d) OPM may request a panel decision file during the retention period described at paragraph (b) of this section. Panel decisions remain subject to final OPM authority to correct errors, as set forth in § 890.1406.

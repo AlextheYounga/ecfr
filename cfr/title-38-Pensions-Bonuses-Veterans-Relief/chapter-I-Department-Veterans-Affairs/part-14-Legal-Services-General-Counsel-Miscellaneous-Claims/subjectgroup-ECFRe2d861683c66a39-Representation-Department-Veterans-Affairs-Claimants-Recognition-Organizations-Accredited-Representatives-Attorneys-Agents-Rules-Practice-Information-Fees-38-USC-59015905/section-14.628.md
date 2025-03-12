@@ -1,7 +1,5 @@
 ##### § 14.628 Recognition of organizations. #####
 
-Link to an amendment published at 82 FR 6272, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 11151, Feb. 21, 2017.
-
 Authorized officers of an organization may request recognition by letter to the Secretary of Veterans Affairs.
 
 (a) *National organization.* An organization may be recognized as a national organization if:
@@ -20,7 +18,9 @@ Authorized officers of an organization may request recognition by letter to the 
 
 (v) Geographic diversification, *i.e.*, either one or more posts, chapters, or offices in at least ten states, or one or more members in at least twenty states.
 
-(b) *State organization.* An organization created and primarily funded by a State government for the purpose of serving the needs of veterans of that State may be recognized. Only one such organization may be recognized in each State.
+(b)(1) *State organization.* An organization created and primarily funded by a State government for the purpose of serving the needs of veterans of that State may be recognized. Only one such organization may be recognized in each State.
+
+(2) *Tribal organization.* For the purposes of 38 CFR 14.626 through 14.637, an organization that is a legally established organization that is primarily funded and controlled, sanctioned, or chartered by one or more tribal governments and that has a primary purpose of serving the needs of Native American veterans. Only one tribal organization may be recognized for each tribal government. If a tribal organization is created and funded by more than one tribal government, the approval of each tribal government must be obtained prior to applying for VA recognition. If one of the supporting tribal governments withdraws from the tribal organization, the tribal organization must notify VA of the withdrawal and certify that the tribal organization continues to meet the recognition requirements in paragraph (d) of this section.
 
 (c) *Regional or local organization.* An organization other than a State or national organization as set forth in paragraphs (a) and (b) of this section may be recognized when the Department of Veterans Affairs has determined that it is a veterans' service organization primarily involved in delivering services connected with either title 38 U.S.C., benefits and programs or other Federal and State programs designed to assist veterans. The term *veteran* as used in this paragraph shall include veterans, former armed forces personnel, and the dependents or survivors of either. Further, the organization shall provide responsible, qualified representation in the preparation, presentation, and prosecution of claims for title 38 U.S.C., benefits.
 
@@ -70,4 +70,4 @@ An organization may be considered to provide complete claims service notwithstan
 
 (f) *Requests for further information.* The Secretary or the Secretary's designee may request further information from any recognized organization, including progress reports, updates, or verifications.
 
-(Authority: 38 U.S.C. 501(a), 5902)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0439)[53 FR 52419, Dec. 28, 1988, as amended at 57 FR 33878, July 31, 1992; 68 FR 8544, Feb. 24, 2003]
+(Authority: 38 U.S.C. 501(a), 5902)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0850)[53 FR 52419, Dec. 28, 1988, as amended at 57 FR 33878, July 31, 1992; 68 FR 8544, Feb. 24, 2003; 82 FR 6272, Jan. 19, 2017]

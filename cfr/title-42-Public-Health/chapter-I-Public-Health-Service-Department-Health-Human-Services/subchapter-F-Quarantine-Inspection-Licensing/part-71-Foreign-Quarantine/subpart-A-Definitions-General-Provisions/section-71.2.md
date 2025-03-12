@@ -1,5 +1,5 @@
 ##### § 71.2 Penalties. #####
 
-Link to an amendment published at 82 FR 6975, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10719, Feb. 15, 2017.
+(a) Persons in violation of this part are subject to a fine of no more than $100,000 if the violation does not result in a death or one year in jail, or both, or a fine of no more than $250,000 if the violation results in a death or one year in jail, or both, or as otherwise provided by law. (b) Violations by organizations are subject to a fine of no more than $200,000 per event if the violation does not result in a death or $500,000 per event if the violation results in a death or as otherwise provided by law.
 
-Any person violating any provision of these regulations shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, as provided in section 368 of the Public Health Service Act (42 U.S.C. 271).
+[82 FR 6975, Jan. 19, 2017]

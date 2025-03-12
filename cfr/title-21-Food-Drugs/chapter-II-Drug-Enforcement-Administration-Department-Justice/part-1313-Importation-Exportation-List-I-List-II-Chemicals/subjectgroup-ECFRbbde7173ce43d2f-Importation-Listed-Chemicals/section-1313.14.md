@@ -1,13 +1,5 @@
-##### § 1313.14 Distribution of import declaration. #####
+##### § 1313.14 Disposition of import declaration. #####
 
-Link to an amendment published at 81 FR 97037, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+The importer, or their agent, must submit an official record of the import declaration and/or required data concerning the import transaction to a customs officer at the port of entry in compliance with all import control requirements of agencies with import control authorities under the Act or statutory authority other than the Controlled Substances Import and Export Act. For List I chemicals, the final destination of the import transaction must only be the registered location of the importer (*i.e.,* drop shipments are prohibited). A regulated person must maintain an official record of the declaration (available from the DEA Diversion Control Division secure network application after the Administration issues a transaction identification number) in accordance with part 1310 of this chapter as the record of the import. Official records of import declarations involving listed chemicals must be retained for two years.
 
-The required three copies of the listed chemical import declaration (DEA Form 486) will be distributed as follows:
-
-(a) Copy 1 shall be retained on file by the regulated person as the official record of import. Import declaration forms involving a List I chemical must be retained for four years; declaration forms for List II chemical must be retained for two years.
-
-(b) Copy 2 is the Drug Enforcement Administration copy used to fulfill the notification requirements of Section 6053 of the Chemical Diversion and Trafficking Act of 1988, as specified in § 1313.12.
-
-(c) Copy 3 shall be presented to the U.S. Customs Service along with the customs entry. If the import is a regulated transaction for which the 15-day advance notice requirement has been waived, the regulated person shall declare this information to the U.S. Customs Service Official by checking the block on the DEA Form 486 designated for this purpose.
-
-[54 FR 31665, Aug. 1, 1989, as amended at 60 FR 32465, June 22, 1995; 77 FR 4237, Jan. 27, 2012]
+[81 FR 97037, Dec. 30, 2016]
