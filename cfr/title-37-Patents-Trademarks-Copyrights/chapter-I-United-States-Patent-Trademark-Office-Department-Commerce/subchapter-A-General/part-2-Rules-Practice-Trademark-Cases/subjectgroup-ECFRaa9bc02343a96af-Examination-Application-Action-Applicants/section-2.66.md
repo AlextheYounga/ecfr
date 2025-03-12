@@ -1,41 +1,49 @@
-##### § 2.66 Revival of abandoned applications. #####
+##### § 2.66 Revival of applications abandoned in full or in part due to unintentional delay. #####
 
-Link to an amendment published at 82 FR 29408, June 29, 2017.
+(a) *Deadline.* The applicant may file a petition to revive an application abandoned in full or in part because the applicant did not timely respond to an Office action or notice of allowance, if the delay was unintentional. The applicant must file the petition by not later than:
 
-(a) The applicant may file a petition to revive an application abandoned because the applicant did not timely respond to an Office action or notice of allowance, if the delay was unintentional. The applicant must file the petition:
+(1) Two months after the issue date of the notice of abandonment in full or in part; or
 
-(1) Within two months of the date of issuance of the notice of abandonment; or
+(2) Two months after the date of actual knowledge of the abandonment and not later than six months after the date the trademark electronic records system indicates that the application is abandoned in full or in part, where the applicant declares under § 2.20 or 28 U.S.C. 1746 that it did not receive the notice of abandonment.
 
-(2) Within two months of actual knowledge of the abandonment, if the applicant did not receive the notice of abandonment, and the applicant was diligent in checking the status of the application every six months in accordance with § 2.146(i).
-
-(b) The requirements for filing a petition to revive an application abandoned because the applicant did not timely respond to an Office action are:
+(b) *Petition To Revive Application Abandoned in Full or in Part for Failure To Respond to an Office Action.* A petition to revive an application abandoned in full or in part because the applicant did not timely respond to an Office action must include:
 
 (1) The petition fee required by § 2.6;
 
 (2) A statement, signed by someone with firsthand knowledge of the facts, that the delay in filing the response on or before the due date was unintentional; and
 
-(3) Unless the applicant alleges that it did not receive the Office action, the proposed response.
+(3) A response to the Office action, signed pursuant to § 2.193(e)(2), or a statement that the applicant did not receive the Office action or the notification that an Office action issued. If the applicant asserts that the unintentional delay is based on non-receipt of an Office action or notification, the applicant may not assert non-receipt of the same Office action or notification in a subsequent petition. When the abandonment is after a final Office action, the response is treated as a request for reconsideration under § 2.63(b)(3) and the applicant must also file:
 
-(c) The requirements for filing a petition to revive an application abandoned because the applicant did not timely respond to a notice of allowance are:
+(i) A notice of appeal to the Trademark Trial and Appeal Board under § 2.141 or a petition to the Director under § 2.146, if permitted by § 2.63(b)(2)(iii); or
+
+(ii) A statement that no appeal or petition is being filed from the final refusal(s) or requirement(s).
+
+(c) *Petition To Revive Application Abandoned for Failure To Respond to a Notice of Allowance.* A petition to revive an application abandoned because the applicant did not timely respond to a notice of allowance must include:
 
 (1) The petition fee required by § 2.6;
 
-(2) A statement, signed by someone with firsthand knowledge of the facts, that the delay in filing the statement of use (or request for extension of time to file a statement of use) on or before the due date was unintentional;
+(2) A statement, signed by someone with firsthand knowledge of the facts, that the delay in filing the statement of use (or request for extension of time to file a statement of use) on or before the due date was unintentional; and one of the following:
 
-(3) Unless the applicant alleges that it did not receive the notice of allowance and requests cancellation of the notice of allowance, the required fees for the number of requests for extensions of time to file a statement of use that the applicant should have filed under § 2.89 if the application had never been abandoned;
+(i) A statement of use under § 2.88, signed pursuant to § 2.193(e)(1), and the required fees for the number of requests for extensions of time to file a statement of use that the applicant should have filed under § 2.89 if the application had never been abandoned;
 
-(4) Unless the applicant alleges that it did not receive the notice of allowance and requests cancellation of the notice of allowance, either a statement of use under § 2.88 or a request for an extension of time to file a statement of use under § 2.89; and
+(ii) A request for an extension of time to file a statement of use under § 2.89, signed pursuant to § 2.193(e)(1), and the required fees for the number of requests for extensions of time to file a statement of use that the applicant should have filed under § 2.89 if the application had never been abandoned;
 
-(5) Unless a statement of use is filed with or before the petition, or the applicant alleges that it did not receive the notice of allowance and requests cancellation of the notice of allowance, the applicant must file any further requests for extensions of time to file a statement of use under § 2.89 that become due while the petition is pending, or file a statement of use under § 2.88.
+(iii) A statement that the applicant did not receive the notice of allowance and a request to cancel said notice and issue a new notice. If the applicant asserts that the unintentional delay in responding is based on non-receipt of the notice of allowance, the applicant may not assert non-receipt of the notice of allowance in a subsequent petition; or
 
-(d) In an application under section 1(b) of the Act, the Director will not grant the petition if this would permit the filing of a statement of use more than 36 months after the date of issuance of the notice of allowance under section 13(b)(2) of the Act.
+(iv) In a multiple-basis application, an amendment, signed pursuant to § 2.193(e)(2), deleting the section 1(b) basis and seeking registration based on section 1(a) and/or section 44(e) of the Act.
 
-(e) The Director will grant the petition to revive if the applicant complies with the requirements listed above and establishes that the delay in responding was unintentional.
+(3) The applicant must file any further requests for extensions of time to file a statement of use under § 2.89 that become due while the petition is pending, or file a statement of use under § 2.88.
 
-(f) If the Director denies a petition, the applicant may request reconsideration, if the applicant:
+(d) *Statement of Use or Petition To Substitute a Basis May Not Be Filed More Than 36 Months After Issuance of the Notice of Allowance.* In an application under section 1(b) of the Act, the Director will not grant a petition under this section if doing so would permit an applicant to file a statement of use, or a petition under § 2.35(b) to substitute a basis, more than 36 months after the issue date of the notice of allowance under section 13(b)(2) of the Act.
 
-(1) Files the request within two months of the date of issuance of the decision denying the petition; and
+(e) *Request for Reconsideration.* If the Director denies a petition to revive under this section, the applicant may request reconsideration, if:
 
-(2) Pays a second petition fee under § 2.6.
+(1) The applicant files the request by not later than:
 
-[64 FR 48921, Sept. 8, 1999, as amended at 68 FR 55764, Sept. 26, 2003; 73 FR 67769, Nov. 17, 2008]
+(i) Two months after the issue date of the decision denying the petition; or
+
+(ii) Two months after the date of actual knowledge of the decision denying the petition and not later than six months after the issue date of the decision where the applicant declares under § 2.20 or 28 U.S.C. 1746 that it did not receive the decision; and
+
+(2) The applicant pays a second petition fee under § 2.6.
+
+[82 FR 29408, June 29, 2017]
