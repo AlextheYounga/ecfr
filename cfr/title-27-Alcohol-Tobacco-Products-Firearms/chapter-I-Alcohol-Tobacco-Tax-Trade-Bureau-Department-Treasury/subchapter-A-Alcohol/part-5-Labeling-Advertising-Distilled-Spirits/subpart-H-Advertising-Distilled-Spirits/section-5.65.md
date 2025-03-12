@@ -1,6 +1,6 @@
 ##### § 5.65 Prohibited practices. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
 
 (a) *Restrictions.* An advertisement of distilled spirits shall not contain:
 

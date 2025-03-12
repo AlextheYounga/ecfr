@@ -1,6 +1,6 @@
 ##### § 7.29 Prohibited practices. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
 
 (a) *Statements on labels.* Containers of malt beverages, or any labels on such containers, or any carton, case, or individual covering of such containers, used for sale at retail, or any written, printed, graphic, or other material accompanying such containers to the consumer, must not contain:
 

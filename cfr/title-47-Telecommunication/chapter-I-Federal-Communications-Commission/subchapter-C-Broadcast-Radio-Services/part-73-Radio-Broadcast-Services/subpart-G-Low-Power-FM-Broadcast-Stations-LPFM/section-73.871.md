@@ -1,7 +1,5 @@
 ##### § 73.871 Amendment of LPFM broadcast station applications. #####
 
-Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
-
 (a) New and major change applications may be amended without limitation during the pertinent filing window.
 
 (b) Amendments that would improve the comparative position of new and major change applications will not be accepted after the close of the pertinent filing window.
@@ -12,7 +10,13 @@ Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
 
 (2) Filings subject to paragraph (c)(5), site relocations of 5.6 kilometers or less for LP100 stations;
 
-(3) Changes in ownership where the original party or parties to an application retain more than a 50 percent ownership interest in the application as originally filed;
+(3) Changes in ownership where the original party or parties to an application either:
+
+(i) Retain more than a 50 percent ownership interest in the application as originally filed;
+
+(ii) Retain an ownership interest of 50 percent or less as the result of governing board changes in a nonstock or membership applicant that occur over a period of six months or more; or
+
+(iii) Retain an ownership interest of 50 percent or less as the result of governing board changes in a nonstock or membership applicant that occur over a period of less than six months and there is no evidence of a takeover concern or a significant effect on such organization's mission. All changes in a governmental applicant are considered minor;
 
 (4) Universal voluntary time-sharing agreements to apportion vacant time among the licensees;
 
@@ -24,4 +28,4 @@ Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
 
 (d) Unauthorized or untimely amendments are subject to return by the FCC's staff without consideration.
 
-[66 FR 23863, May 10, 2001, as amended at 70 FR 39186, July 7, 2005; 73 FR 3217, Jan. 17, 2008; 78 FR 2108, Jan. 9, 2013]
+[66 FR 23863, May 10, 2001, as amended at 70 FR 39186, July 7, 2005; 73 FR 3217, Jan. 17, 2008; 78 FR 2108, Jan. 9, 2013; 85 FR 7889, Feb. 12, 2020]

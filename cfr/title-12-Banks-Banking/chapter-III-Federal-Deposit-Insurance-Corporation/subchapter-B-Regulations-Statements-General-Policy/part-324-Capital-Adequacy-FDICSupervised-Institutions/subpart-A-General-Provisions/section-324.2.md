@@ -240,9 +240,11 @@ As used in this part:
 
 (11) An unsettled transaction;
 
-(12) A policy loan; or
+(12) A policy loan;
 
-(13) A separate account.
+(13) A separate account; or
+
+(14) A Paycheck Protection Program covered loan as defined in section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)).
 
 *Country risk classification (CRC)* with respect to a sovereign, means the most recent consensus CRC published by the Organization for Economic Cooperation and Development (OECD) as of December 31st of the prior calendar year that provides a view of the likelihood that the sovereign will service its external debt.
 
@@ -1086,4 +1088,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 44124, July 30, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 82 FR 50260, Oct. 30, 2017; 84 FR 4246, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59277, Nov. 1, 2019; 84 FR 68033, Dec. 13, 2019; 85 FR 4429, Jan. 24, 2020; 85 FR 4578, Jan. 27, 2020]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 44124, July 30, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 82 FR 50260, Oct. 30, 2017; 84 FR 4246, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59277, Nov. 1, 2019; 84 FR 68033, Dec. 13, 2019; 85 FR 4429, Jan. 24, 2020; 85 FR 4578, Jan. 27, 2020; 85 FR 20393, Apr. 13, 2020]

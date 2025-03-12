@@ -1,6 +1,6 @@
 ##### § 7.10 Meaning of terms. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
 
 As used in this part, unless the context otherwise requires, terms shall have the meaning ascribed in this subpart.
 

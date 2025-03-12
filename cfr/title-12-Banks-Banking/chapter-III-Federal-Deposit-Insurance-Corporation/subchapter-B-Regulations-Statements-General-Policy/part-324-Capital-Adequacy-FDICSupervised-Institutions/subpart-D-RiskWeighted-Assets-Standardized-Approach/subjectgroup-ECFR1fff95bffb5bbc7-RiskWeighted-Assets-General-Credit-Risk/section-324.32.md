@@ -8,6 +8,8 @@
 
 (ii) An FDIC-supervised institution must assign a 20 percent risk weight to the portion of an exposure that is conditionally guaranteed by the U.S. government, its central bank, or a U.S. government agency. This includes an exposure, or the portion of an exposure, that is conditionally guaranteed by the FDIC or National Credit Union Administration.
 
+(iii) An FDIC-supervised institution must assign a zero percent risk weight to a Paycheck Protection Program covered loan as defined in section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)).
+
 (2) *Other sovereign exposures.* In accordance with Table 1 to § 324.32, an FDIC-supervised institution must assign a risk weight to a sovereign exposure based on the CRC applicable to the sovereign or the sovereign's OECD membership status if there is no CRC applicable to the sovereign.
 
 Table 1 to § 324.32 - Risk Weights for Sovereign Exposures
@@ -179,4 +181,4 @@ Table 4 to § 324.32 - Risk Weights for non-U.S. PSE Revenue Obligations
 
 (ii) The risks associated with the asset are substantially similar to the risks of assets that are otherwise assigned to a risk weight category of less than 100 percent under this subpart.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 84 FR 35275, July 22, 2019; 85 FR 4431, Jan. 24, 2020]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 84 FR 35275, July 22, 2019; 85 FR 4431, Jan. 24, 2020; 85 FR 20394, Apr. 13, 2020]

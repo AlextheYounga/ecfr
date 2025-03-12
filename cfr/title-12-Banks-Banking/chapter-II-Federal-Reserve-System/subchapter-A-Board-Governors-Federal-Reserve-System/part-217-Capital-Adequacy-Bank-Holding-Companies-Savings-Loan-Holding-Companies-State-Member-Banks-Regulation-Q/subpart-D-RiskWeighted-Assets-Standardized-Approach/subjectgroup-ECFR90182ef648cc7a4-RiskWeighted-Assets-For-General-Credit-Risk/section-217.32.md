@@ -8,6 +8,8 @@
 
 (ii) A Board-regulated institution must assign a 20 percent risk weight to the portion of an exposure that is conditionally guaranteed by the U.S. government, its central bank, or a U.S. government agency. This includes an exposure, or the portion of an exposure, that is conditionally guaranteed by the FDIC or National Credit Union Administration.
 
+(iii) A Board-regulated institution must assign a zero percent risk weight to a Paycheck Protection Program covered loan as defined in section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)).
+
 (2) *Other sovereign exposures.* In accordance with Table 1 to § 217.32, a Board-regulated institution must assign a risk weight to a sovereign exposure based on the CRC applicable to the sovereign or the sovereign's OECD membership status if there is no CRC applicable to the sovereign.
 
 Table 1 to § 217.32 - Risk Weights for Sovereign Exposures
@@ -190,4 +192,4 @@ Table 4 to § 217.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (2) *Policy loans.* A bank holding company or savings and loan holding company must assign a 20 percent risk weight to a policy loan.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 84 FR 35264, July 22, 2019; 85 FR 4417, Jan. 24, 2020]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 84 FR 35264, July 22, 2019; 85 FR 4417, Jan. 24, 2020; 85 FR 20393, Apr. 13, 2020]

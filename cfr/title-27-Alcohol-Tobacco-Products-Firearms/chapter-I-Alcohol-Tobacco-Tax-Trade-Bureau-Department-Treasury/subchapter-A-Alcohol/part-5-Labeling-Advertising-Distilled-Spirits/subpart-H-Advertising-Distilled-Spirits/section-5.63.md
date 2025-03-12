@@ -1,6 +1,6 @@
 ##### § 5.63 Mandatory statements. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
 
 (a) *Responsible advertiser.* The advertisement shall state the name and address of the permittee responsible for its publication or broadcast. Street number and name may be omitted in the address.
 

@@ -1,6 +1,6 @@
 ##### § 7.54 Prohibited statements. #####
 
-Link to an amendment published at 85 FR 18726, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction published at 85 FR 20424, Apr. 13, 2020.
 
 (a) *General prohibition.* An advertisement of malt beverages must not contain:
 

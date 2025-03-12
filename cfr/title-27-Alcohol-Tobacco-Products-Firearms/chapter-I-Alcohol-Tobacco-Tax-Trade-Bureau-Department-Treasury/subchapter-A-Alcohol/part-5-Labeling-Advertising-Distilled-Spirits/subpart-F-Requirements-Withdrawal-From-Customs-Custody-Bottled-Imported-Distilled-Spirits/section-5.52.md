@@ -1,6 +1,6 @@
 ##### § 5.52 Certificates of age and origin. #####
 
-Link to an amendment published at 85 FR 18724, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18724, Apr. 2, 2020.Link to correction published at 85 FR 20423, Apr. 13, 2020.
 
 (a) *Scotch, Irish, and Canadian whiskies.* (1) Scotch, Irish, and Canadian whiskies, imported in bottles, are not eligible for release from customs custody for consumption, and no person may remove such whiskies from customs custody for consumption, unless that person has obtained and is in possession of an invoice accompanied by a certificate of origin issued by an official duly authorized by the British, Irish, or Canadian Government, certifying:
 

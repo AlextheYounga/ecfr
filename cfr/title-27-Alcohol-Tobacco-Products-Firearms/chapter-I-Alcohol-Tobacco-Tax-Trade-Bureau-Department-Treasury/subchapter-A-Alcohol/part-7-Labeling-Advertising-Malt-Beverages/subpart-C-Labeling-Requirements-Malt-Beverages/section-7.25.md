@@ -1,6 +1,6 @@
 ##### § 7.25 Name and address. #####
 
-Link to an amendment published at 85 FR 18725, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18725, Apr. 2, 2020.Link to a correction published at 85 FR 20423, Apr. 13, 2020.
 
 (a) *Domestic malt beverages.* (1) On labels of containers of domestic malt beverages there shall be stated the name of the bottler or packer and the place where bottled or packed. The bottler's or packer's principal place of business may be shown in lieu of the actual place where bottled or packed if the address shown is a location where bottling or packing operation takes place. The appropriate TTB officer may disapprove the listing of a principal place of business if its use would create a false or misleading impression as to the geographic origin of the beer.
 

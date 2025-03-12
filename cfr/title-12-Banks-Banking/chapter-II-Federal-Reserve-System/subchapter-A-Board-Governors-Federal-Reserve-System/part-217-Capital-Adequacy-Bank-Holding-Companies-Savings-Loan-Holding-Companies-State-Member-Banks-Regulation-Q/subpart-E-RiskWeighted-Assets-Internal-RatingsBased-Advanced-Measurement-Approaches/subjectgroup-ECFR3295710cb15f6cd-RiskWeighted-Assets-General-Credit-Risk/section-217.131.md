@@ -2,17 +2,17 @@
 
 (a) *Overview.* A Board-regulated institution must calculate its total wholesale and retail risk-weighted asset amount in four distinct phases:
 
-(1) Phase 1 - categorization of exposures;
+(1) Phase 1—categorization of exposures;
 
-(2) Phase 2 - assignment of wholesale obligors and exposures to rating grades and segmentation of retail exposures;
+(2) Phase 2—assignment of wholesale obligors and exposures to rating grades and segmentation of retail exposures;
 
-(3) Phase 3 - assignment of risk parameters to wholesale exposures and segments of retail exposures; and
+(3) Phase 3—assignment of risk parameters to wholesale exposures and segments of retail exposures; and
 
-(4) Phase 4 - calculation of risk-weighted asset amounts.
+(4) Phase 4—calculation of risk-weighted asset amounts.
 
-(b) *Phase 1 - Categorization.* The Board-regulated institution must determine which of its exposures are wholesale exposures, retail exposures, securitization exposures, or equity exposures. The Board-regulated institution must categorize each retail exposure as a residential mortgage exposure, a QRE, or another retail exposure. The Board-regulated institution must identify which wholesale exposures are HVCRE exposures, sovereign exposures, OTC derivative contracts, repo-style transactions, eligible margin loans, eligible purchased wholesale exposures, cleared transactions, default fund contributions, and unsettled transactions to which § 217.136 applies, and eligible guarantees or eligible credit derivatives that are used as credit risk mitigants. The Board-regulated institution must identify any on-balance sheet asset that does not meet the definition of a wholesale, retail, equity, or securitization exposure, any non-material portfolio of exposures described in paragraph (e)(4) of this section, and for bank holding companies and savings and loan holding companies, any on-balance sheet asset that is held in a non-guaranteed separate account.
+(b) *Phase 1—Categorization.* The Board-regulated institution must determine which of its exposures are wholesale exposures, retail exposures, securitization exposures, or equity exposures. The Board-regulated institution must categorize each retail exposure as a residential mortgage exposure, a QRE, or another retail exposure. The Board-regulated institution must identify which wholesale exposures are HVCRE exposures, sovereign exposures, OTC derivative contracts, repo-style transactions, eligible margin loans, eligible purchased wholesale exposures, cleared transactions, default fund contributions, and unsettled transactions to which § 217.136 applies, and eligible guarantees or eligible credit derivatives that are used as credit risk mitigants. The Board-regulated institution must identify any on-balance sheet asset that does not meet the definition of a wholesale, retail, equity, or securitization exposure, any non-material portfolio of exposures described in paragraph (e)(4) of this section, and for bank holding companies and savings and loan holding companies, any on-balance sheet asset that is held in a non-guaranteed separate account.
 
-(c) *Phase 2 - Assignment of wholesale obligors and exposures to rating grades and retail exposures to segments* - (1) *Assignment of wholesale obligors and exposures to rating grades.*
+(c) *Phase 2—Assignment of wholesale obligors and exposures to rating grades and retail exposures to segments*—(1) *Assignment of wholesale obligors and exposures to rating grades.*
 
 (i) The Board-regulated institution must assign each obligor of a wholesale exposure to a single obligor rating grade and must assign each wholesale exposure to which it does not directly assign an LGD estimate to a loss severity rating grade.
 
@@ -26,7 +26,7 @@
 
 (3) *Eligible purchased wholesale exposures.* A Board-regulated institution may group its eligible purchased wholesale exposures into segments that have homogeneous risk characteristics. A Board-regulated institution must use the wholesale exposure formula in Table 1 of this section to determine the risk-based capital requirement for each segment of eligible purchased wholesale exposures.
 
-(d) *Phase 3 - Assignment of risk parameters to wholesale exposures and segments of retail exposures.* (1) *Quantification process.* Subject to the limitations in this paragraph (d), the Board-regulated institution must:
+(d) *Phase 3—Assignment of risk parameters to wholesale exposures and segments of retail exposures*—(1) *Quantification process.* Subject to the limitations in this paragraph (d), the Board-regulated institution must:
 
 (i) Associate a PD with each wholesale obligor rating grade;
 
@@ -64,7 +64,7 @@
 
 (8) *EAD for exposures to certain central counterparties.* A Board-regulated institution may attribute an EAD of zero to exposures that arise from the settlement of cash transactions (such as equities, fixed income, spot foreign exchange, and spot commodities) with a central counterparty where there is no assumption of ongoing counterparty credit risk by the central counterparty after settlement of the trade and associated default fund contributions.
 
-(e) *Phase 4 - Calculation of risk-weighted assets* - (1) *Non-defaulted exposures.* (i) A Board-regulated institution must calculate the dollar risk-based capital requirement for each of its wholesale exposures to a non-defaulted obligor (except for eligible guarantees and eligible credit derivatives that hedge another wholesale exposure, IMM exposures, cleared transactions, default fund contributions, unsettled transactions, and exposures to which the Board-regulated institution applies the double default treatment in § 217.135) and segments of non-defaulted retail exposures by inserting the assigned risk parameters for the wholesale obligor and exposure or retail segment into the appropriate risk-based capital formula specified in Table 1 and multiplying the output of the formula (K) by the EAD of the exposure or segment. Alternatively, a Board-regulated institution may apply a 300 percent risk weight to the EAD of an eligible margin loan if the Board-regulated institution is not able to meet the Board's requirements for estimation of PD and LGD for the margin loan.
+(e) *Phase 4—Calculation of risk-weighted assets*—(1) *Non-defaulted exposures.* (i) A Board-regulated institution must calculate the dollar risk-based capital requirement for each of its wholesale exposures to a non-defaulted obligor (except for eligible guarantees and eligible credit derivatives that hedge another wholesale exposure, IMM exposures, cleared transactions, default fund contributions, unsettled transactions, and exposures to which the Board-regulated institution applies the double default treatment in § 217.135) and segments of non-defaulted retail exposures by inserting the assigned risk parameters for the wholesale obligor and exposure or retail segment into the appropriate risk-based capital formula specified in Table 1 and multiplying the output of the formula (K) by the EAD of the exposure or segment. Alternatively, a Board-regulated institution may apply a 300 percent risk weight to the EAD of an eligible margin loan if the Board-regulated institution is not able to meet the Board's requirements for estimation of PD and LGD for the margin loan.
 
 ![](/graphics/er11oc13.028.gif)![](/graphics/er11oc13.029.gif)
 
@@ -72,7 +72,7 @@
 
 (iii) The aggregate risk-weighted asset amount for wholesale exposures to non-defaulted obligors and segments of non-defaulted retail exposures equals the total dollar risk-based capital requirement in paragraph (e)(1)(ii) of this section multiplied by 12.5.
 
-(2) *Wholesale exposures to defaulted obligors and segments of defaulted retail exposures* - (i) *Not covered by an eligible U.S. government guarantee:* The dollar risk-based capital requirement for each wholesale exposure not covered by an eligible guarantee from the U.S. government to a defaulted obligor and each segment of defaulted retail exposures not covered by an eligible guarantee from the U.S. government equals 0.08 multiplied by the EAD of the exposure or segment.
+(2) *Wholesale exposures to defaulted obligors and segments of defaulted retail exposures*—(i) *Not covered by an eligible U.S. government guarantee:* The dollar risk-based capital requirement for each wholesale exposure not covered by an eligible guarantee from the U.S. government to a defaulted obligor and each segment of defaulted retail exposures not covered by an eligible guarantee from the U.S. government equals 0.08 multiplied by the EAD of the exposure or segment.
 
 (ii) *Covered by an eligible U.S. government guarantee:* The dollar risk-based capital requirement for each wholesale exposure to a defaulted obligor covered by an eligible guarantee from the U.S. government and each segment of defaulted retail exposures covered by an eligible guarantee from the U.S. government equals the sum of:
 
@@ -98,8 +98,10 @@
 
 (vii) The risk-weighted asset amount for any other on-balance-sheet asset that does not meet the definition of a wholesale, retail, securitization, IMM, or equity exposure, cleared transaction, or default fund contribution and is not subject to deduction under § 217.22(a), (c), or (d) equals the carrying value of the asset.
 
+(viii) The risk-weighted asset amount for a Paycheck Protection Program covered loan as defined in section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) equals zero.
+
 (4) *Non-material portfolios of exposures.* The risk-weighted asset amount of a portfolio of exposures for which the Board-regulated institution has demonstrated to the Board's satisfaction that the portfolio (when combined with all other portfolios of exposures that the Board-regulated institution seeks to treat under this paragraph (e)) is not material to the Board-regulated institution is the sum of the carrying values of on-balance sheet exposures plus the notional amounts of off-balance sheet exposures in the portfolio. For purposes of this paragraph (e)(4), the notional amount of an OTC derivative contract that is not a credit derivative is the EAD of the derivative as calculated in § 217.132.
 
 (5) *Assets held in non-guaranteed separate accounts.* The risk-weighted asset amount for an on-balance sheet asset that is held in a non-guaranteed separate account is zero percent of the carrying value of the asset.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62289, Oct. 11, 2013; 80 FR 41420, July 15, 2015; 84 FR 35268, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62289, Oct. 11, 2013; 80 FR 41420, July 15, 2015; 84 FR 35268, July 22, 2019; 85 FR 20393, Apr. 13, 2020]

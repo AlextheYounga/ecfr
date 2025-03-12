@@ -1,6 +1,6 @@
 ##### § 7.71 Alcoholic content. #####
 
-Link to an amendment published at 85 FR 18726, Apr. 2, 2020.
+Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction published at 85 FR 20424, Apr. 13, 2020.
 
 (a) *General.* Alcoholic content and the percentage and quantity of the original gravity or extract may be stated on a label unless prohibited by State law. When alcoholic content is stated, and the manner of statement is not required under State law, it shall be stated as prescribed in paragraph (b) of this section.
 

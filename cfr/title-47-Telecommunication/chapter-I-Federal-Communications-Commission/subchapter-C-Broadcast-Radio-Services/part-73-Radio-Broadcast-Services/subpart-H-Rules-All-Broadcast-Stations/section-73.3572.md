@@ -1,7 +1,5 @@
 ##### § 73.3572 Processing of TV broadcast, Class A TV broadcast, low power TV, TV translators, and TV booster applications. #####
 
-Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
-
 (a) Applications for TV stations are divided into two groups:
 
 (1) In the first group are applications for new stations or major changes in the facilities of authorized stations. A major change for TV broadcast stations authorized under this part is any change in frequency or community of license which is in accord with a present allotment contained in the Table of Allotments (§ 73.606). Other requests for change in frequency or community of license for TV broadcast stations must first be submitted in the form of a petition for rulemaking to amend the Table of Allotments.
@@ -34,7 +32,15 @@ Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
 
 (v) Provided further, that the FCC may, within 15 days after acceptance of any other application for modification of facilities, advise the applicant that such application is considered to be one for a major change and therefore subject to the provisions of §§ 73.3522, 73.3580, and 1.1111 of this chapter pertaining to major changes. Such major modification applications filed for Class A TV, low power TV, TV translator, TV booster stations, and for a non-reserved television allotment, are subject to competitive bidding procedures and will be dismissed if filed outside a specified filing period. *See* 47 CFR 73.5002(a).
 
-(b) A new file number will be assigned to an application for a new station or for major changes in the facilities of an authorized station, when it is amended so as to effect a major change, as defined in paragraphs (a)(1) or (a)(2) of this section, or result in a situation where the original party or parties to the application do not retain more than 50% ownership interest in the application as originally filed and § 73.3580 will apply to such amended application. An application for change in the facilities of any existing station will continue to carry the same file number even though (pursuant to FCC approval) an assignment of license or transfer of control of such licensee or permittee has taken place if, upon consummation, the application is amended to reflect the new ownership.
+(b)(1) A new file number will be assigned to an application for a new station or for major changes in the facilities of an authorized station, when it is amended so as to effect a major change, as defined in paragraph (a)(1) or (2) of this section, or result in a situation where the original party or parties to the application do not retain more than 50 percent ownership interest in the application as originally filed, and § 73.3580 will apply to such amended application. However, such change in ownership is minor if:
+
+(i) The governing board change in a nonstock or membership noncommercial educational (NCE) full power television applicant occurred over a period of six months or longer; or
+
+(ii) The governing board change in a nonstock or membership NCE full power television applicant occurred over a period of less than six months and there is no evidence of a takeover concern or a significant effect on such organization's mission.
+
+(2) All changes in a governmental applicant are considered minor.
+
+(3) An application for change in the facilities of any existing station will continue to carry the same file number even though (pursuant to FCC approval) an assignment of license or transfer of control of such licensee or permittee has taken place if, upon consummation, the application is amended to reflect the new ownership.
 
 (c) Amendments to Class A TV, low power TV, TV translator, TV booster stations, or non-reserved television applications, which would require a new file number pursuant to paragraph (b) of this section, are subject to competitive bidding procedures and will be dismissed if filed outside a specified filing period. See 47 CFR 73.5002(a). When an amendment to an application for a reserved television allotment would require a new file number pursuant to paragraph (b) of this section, the applicant will have the opportunity to withdraw the amendment at any time prior to designation for a hearing if applicable; and may be afforded, subject to the discretion of the Administrative Law Judge, an opportunity to withdraw the amendment after designation for a hearing.
 
@@ -50,4 +56,4 @@ Link to an amendment published at 85 FR 7889, Feb. 12, 2020.
 
 (h) Class A TV station licensees shall file a license application for either the flash cut channel or the digital companion channel they choose to retain for post-transition digital operations. Class A TV stations will retain primary, protected regulatory status on their desired post-transition digital channel. Class A TV applicants must certify that their proposed post-transition digital facilities meet all Class A TV interference protection requirements.
 
-[63 FR 48626, Sept. 11, 1998, as amended at 65 FR 30007, May 10, 2000; 65 FR 36379, June 8, 2000; 67 FR 5513, Feb. 6, 2002; 67 FR 45374, July 9, 2002; 68 FR 26227, May 15, 2003; 76 FR 44827, July 27, 2011; 82 FR 18249, Apr. 18, 2017]
+[63 FR 48626, Sept. 11, 1998, as amended at 65 FR 30007, May 10, 2000; 65 FR 36379, June 8, 2000; 67 FR 5513, Feb. 6, 2002; 67 FR 45374, July 9, 2002; 68 FR 26227, May 15, 2003; 76 FR 44827, July 27, 2011; 82 FR 18249, Apr. 18, 2017; 85 FR 7889, Feb. 12, 2020]
