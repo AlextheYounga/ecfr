@@ -1,5 +1,7 @@
 ##### § 201.18 Notice of intention to obtain a compulsory license for making and distributing phonorecords of nondramatic musical works. #####
 
+Link to an amendment published at 86 FR 32642, June 22, 2021.
+
 (a) *General.* (1) A “Notice of Intention” is a Notice identified in section 115(b) of title 17 of the United States Code. If the eligibility requirements of 17 U.S.C. 115(a) are satisfied, then, subject to 17 U.S.C. 115(b), a person may serve on a copyright owner or file with the Copyright Office, as applicable, a Notice of Intention and thereby obtain a compulsory license pursuant to 17 U.S.C. 115.
 
 (2)(i) To obtain a compulsory license to make and distribute phonorecords of a musical work other than by means of digital phonorecord delivery, a Notice must be served on the copyright owner or, if the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which Notice can be served, filed with the Copyright Office, before, or not later than 30 calendar days after, making, and before distributing, any phonorecord of the work.

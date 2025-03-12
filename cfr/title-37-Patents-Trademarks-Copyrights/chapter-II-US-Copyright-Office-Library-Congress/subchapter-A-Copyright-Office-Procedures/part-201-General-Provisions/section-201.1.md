@@ -1,5 +1,7 @@
 ##### § 201.1 Communication with the Copyright Office. #####
 
+Link to an amendment published at 86 FR 32641, June 22, 2021.
+
 (a) *General purpose addresses.* Members of the public must use the correct address in order to facilitate timely receipt by the U.S. Copyright Office division or section to which an inquiry should be directed. The address set forth in paragraph (b) may be used for general inquiries made to a particular division or section of the U.S. Copyright Office. Addresses for special, limited purposes are provided below in paragraph (c) of this section. Please note that the Library of Congress no longer accepts direct deliveries from commercial couriers and messengers.1 For additional address information, including information on courier delivery, mail delays, or disruptions, please visit the “Contact us” section on the Office's website (*http://www.copyright.gov*). General questions may also be directed to the U.S. Copyright Office website submission form at: *http://www.copyright.gov/help/general-form.html.*
 
 1*See* 69 FR 5371 (Feb. 4, 2004) and 68 FR 70039 (Dec. 16, 2003).

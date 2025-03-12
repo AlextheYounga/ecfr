@@ -1,7 +1,5 @@
 ##### 509.406-3 Procedures. #####
 
-Link to an amendment published at 86 FR 21666, Apr. 23, 2021.
-
 (a) *Investigation and referral.* (1) Refer to the Suspension and Debarment Official matters involving serious contract improprieties or performance deficiencies. Performance deficiencies that continue over a period of time or apply to more than one contract may warrant debarment consideration.
 
 (2) Refer possible criminal or fraudulent activities to the Office of the Inspector General (OIG). See 5 CFR 6701.107, Reporting Waste, Fraud, Abuse, and Corruption. If, after investigation, the OIG believes a cause for debarment exists, it will refer the matter to the Suspension and Debarment Official for consideration of debarment action.
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 21666, Apr. 23, 2021.
 
 (1) The recommendation and supporting rationale.
 
-(2) A list of parties to be considered for possible debarment, including the contractor, principals, and affiliates. Include last known home and business addresses, zip codes, and DUNS Numbers.
+(2) A list of parties to be considered for possible debarment, including the contractor, principals, and affiliates. Include last known home and business addresses, zip codes, and unique entity identifiers.
 
 (3) A statement of facts.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 21666, Apr. 23, 2021.
 
 (6) A list of any known active or potential criminal investigations, criminal or civil proceedings, or administrative claims before the Board of Contract Appeals.
 
-(c) *Review.* The Suspension and Debarment Official will review the report, and after coordinating with assigned legal counsel -
+(c) *Review.* The Suspension and Debarment Official will review the report, and after coordinating with assigned legal counsel—
 
 (1) Initiate debarment action;
 
@@ -68,4 +66,4 @@ Link to an amendment published at 86 FR 21666, Apr. 23, 2021.
 
 (ix) Prepare written findings of fact based on a preponderance of the evidence and submit them to both the Suspension and Debarment Official and the contractor within 20 calendar days following the conclusion of the fact-finding proceeding.
 
-[64 FR 37207, July 9, 1999, as amended at 74 FR 12733, Mar. 25, 2009]
+[64 FR 37207, July 9, 1999, as amended at 74 FR 12733, Mar. 25, 2009; 86 FR 21666, Apr. 23, 2021]

@@ -1,5 +1,7 @@
 ##### § 201.29 Access to, and confidentiality of, Statements of Account, Verification Auditor's Reports, and other verification information filed in the Copyright Office for digital audio recording devices or media. #####
 
+Link to an amendment published at 86 FR 32642, June 22, 2021.
+
 (a) *General.* This section prescribes rules covering access to DART Statements of Account, including the Primary Auditor's Reports, filed under 17 U.S.C. 1003(c) and access to a Verifying Auditor's Report or other information that may be filed in the Office in a DART verification procedure as set out in § 201.30. It also prescribes rules to ensure confidential disclosure of these materials to appropriate parties.
 
 (b) *Definitions.* (1) *Access* includes inspection of and supervised making of notes on information contained in Statements of Account including Primary Auditor's Reports, Verification Auditor's Reports, and any other verification information.

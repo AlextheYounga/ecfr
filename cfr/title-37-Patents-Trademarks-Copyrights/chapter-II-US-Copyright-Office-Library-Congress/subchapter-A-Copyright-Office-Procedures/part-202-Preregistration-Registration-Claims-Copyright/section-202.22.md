@@ -1,5 +1,7 @@
 ##### § 202.22 Acquisition and deposit of unpublished audio and audiovisual transmission programs. #####
 
+Link to an amendment published at 86 FR 32642, June 22, 2021.
+
 (a) *General.* This section prescribes rules pertaining to the acquisition of phonorecords and copies of unpublished audio and audiovisual transmission programs by the Library of Congress under section 407(e) of title 17 of the United States Code, as amended. It also prescribes rules pertaining to the use of such phonorecords and copies in the registration of claims to copyright, under section 408(b).
 
 (b) *Definitions.* For purposes of this section:

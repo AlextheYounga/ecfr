@@ -1,5 +1,7 @@
 ##### § 201.12 Recordation of certain contracts by cable systems located outside of the forty-eight contiguous States. #####
 
+Link to an amendment published at 86 FR 32642, June 22, 2021.
+
 (a) Written, nonprofit contracts providing for the equitable sharing of costs of videotapes and their transfer, as identified in 17 U.S.C. 111(e)(2), will be filed in the Copyright Office Licensing Division by recordation upon payment of the prescribed fee. The document submitted for recordation shall meet the following requirements:
 
 (1) It shall be an original instrument of contract; or it shall be a copy of an original, accompanied by a certification that shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of at least one of the parties to the contract, or an authorized representative of that party, that the reproduction is a true copy;

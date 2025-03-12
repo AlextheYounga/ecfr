@@ -1,5 +1,7 @@
 ##### § 210.6 Monthly statements of account. #####
 
+Link to an amendment published at 86 FR 32643, June 22, 2021.
+
 (a) *Forms.* The Copyright Office does not provide printed forms for the use of persons serving Monthly Statements of Account.
 
 (b) *General content.* A Monthly Statement of Account shall be clearly and prominently identified as a “Monthly Statement of Account Under Compulsory License for Making and Distributing Phonorecords,” and shall include a clear statement of the following information:

@@ -1,5 +1,7 @@
 ##### § 370.2 Notice of use of sound recordings under statutory license. #####
 
+Link to an amendment published at 86 FR 32643, June 22, 2021.
+
 (a) *General.* This section prescribes rules under which copyright owners shall receive notice of use of their sound recordings when used under either section 112(e) or 114(d)(2) of title 17, United States Code, or both.
 
 (b) *Forms and content.* A Notice of Use of Sound Recordings Under Statutory License shall be prepared on a form that may be obtained from the Copyright Office Web site or from the Licensing Division, and shall include the following information:

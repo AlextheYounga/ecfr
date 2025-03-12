@@ -1,5 +1,7 @@
 ##### § 370.5 Designated collection and distribution organizations for reports of use of sound recordings under statutory license. #####
 
+Link to an amendment published at 86 FR 32643, June 22, 2021.
+
 (a) *General.* This section prescribes rules under which reports of use shall be collected and distributed under section 114(f) of title 17 of the United States Code, and under which reports of such use shall be kept and made available.
 
 (b) *Notice of Designation as Collective under Statutory License.* A Collective shall file with the Licensing Division of the Copyright Office and post and make available online a “Notice of Designation as Collective under Statutory License,” which shall be identified as such by prominent caption or heading, and shall contain the following information:

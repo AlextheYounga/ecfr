@@ -1,5 +1,7 @@
 ##### § 203.3 Organization. #####
 
+Link to an amendment published at 86 FR 32642, June 22, 2021.
+
 (a) The Office of the Register of Copyrights has overall responsibility for the Copyright Office and its statutory mandate, specifically: For legal interpretation of the copyright law; administering the provisions of title 17 of the U.S.C.; promulgating copyright regulations; advising Congress and other government officials on domestic and international copyright policy and other intellectual property issues; determining personnel and other resource requirements for the Office; organizing strategic and annual program planning; and preparing budget estimates for inclusion in the budget of the Library of Congress and U.S. Government.
 
 (b) The Office of the Chief of Operations is headed by the Chief of Operations (“COO”), who advises the Register on core business functions and coordinates and directs the day-to-day operations of the Copyright Office. The Office of the COO supervises human capital, the administration of certain statutory licenses, mandatory deposits and acquisitions, and strategic planning functions. This Office interacts with every other senior management office that reports to the Register and frequently coordinates and assesses institutional projects. The COO chairs the Copyright Office's operations committee. The following divisions fall under the oversight of the COO:

@@ -1,6 +1,6 @@
 ##### § 11.1 Definitions. #####
 
-Link to an amendment published at 86 FR 28452, May 26, 2021.
+Link to an amendment published at 86 FR 28452, May 26, 2021.Link to an amendment published at 86 FR 32640, June 22, 2021.
 
 This part governs solely the practice of patent, trademark, and other law before the United States Patent and Trademark Office. Nothing in this part shall be construed to preempt the authority of each State to regulate the practice of law, except to the extent necessary for the United States Patent and Trademark Office to accomplish its Federal objectives. Unless otherwise clear from the context, the following definitions apply to this part:
 

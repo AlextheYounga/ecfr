@@ -14,6 +14,6 @@ The following persons must be medically examined and certified in accordance wit
 
 (f) Any driver whose ability to perform his or her normal duties has been impaired by a physical or mental injury or disease; and
 
-(g) Beginning June 22, 2021, any person found by a medical examiner not to be physically qualified to operate a commercial motor vehicle under the provisions of paragraph (g)(3) of § 391.43.
+(g) On or after June 23, 2025, any person found by a medical examiner not to be physically qualified to operate a commercial motor vehicle under the provisions of paragraph (g)(3) of § 391.43.
 
-[83 FR 47520, Sept. 19, 2018]
+[83 FR 47520, Sept. 19, 2018, as amended at 86 FR 32651, June 22, 2021]
