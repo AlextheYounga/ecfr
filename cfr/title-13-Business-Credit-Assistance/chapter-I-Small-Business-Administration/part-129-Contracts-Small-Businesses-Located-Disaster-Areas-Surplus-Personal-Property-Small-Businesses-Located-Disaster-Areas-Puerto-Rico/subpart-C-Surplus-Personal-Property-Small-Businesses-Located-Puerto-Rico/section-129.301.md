@@ -1,5 +1,7 @@
 ##### § 129.301 How does a small business concern located in a Puerto Rico obtain Federal surplus personal property? #####
 
+Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
+
 (a) *General.* Pursuant to 15 U.S.C. 636(j)(13)(F)(iii), eligible small business concerns located in Puerto Rico may receive surplus Federal Government property from the Puerto Rico State Agency for Surplus Property (SASP). The procedures set forth in 41 CFR part 102-37 and this section will be used to transfer surplus personal property to eligible small business concerns. The property which may be transferred to the Puerto Rico SASP for further transfer to eligible small business concerns includes all personal property which has become available for donation pursuant to 41 CFR 102-37.30.
 
 (b) *Eligibility to receive Federal surplus personal property.* To be eligible to receive Federal surplus personal property, on the date of transfer a concern must:

@@ -1,5 +1,7 @@
 ##### § 125.1 What definitions are important to SBA's Government Contracting Programs? #####
 
+Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
+
 *Chief Acquisition Officer* means the employee of a Federal agency designated as such pursuant to section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a)).
 
 *Commercial off-the-shelf item* has the same definition as set forth in 41 U.S.C. 101 (as renumbered) and Federal Acquisition Regulation (FAR) 2.101 (48 U.S.C. 2.101).
