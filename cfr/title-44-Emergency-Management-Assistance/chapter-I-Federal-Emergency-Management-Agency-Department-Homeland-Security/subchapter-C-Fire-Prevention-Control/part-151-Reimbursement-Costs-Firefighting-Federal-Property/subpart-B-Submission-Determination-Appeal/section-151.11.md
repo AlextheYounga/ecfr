@@ -1,6 +1,6 @@
 ##### § 151.11 Submission of claims. #####
 
-Any fire service in any State which believes it has a claim(s) cognizable under section 11 shall submit its claim(s) in writing within 90 days of the occurrence of the fire(s) for which a claim(s) is made. If the fire is of such duration that the claimant desires to submit a claim before its conclusion, it may do so, but only for the eligible costs actually incurred to date. Additional claims may be filed for costs later incurred. Claims shall be submitted to the Director, FEMA, Washington, DC, 20472. Each claim shall include the following information:
+Any fire service in any State which believes it has a claim(s) cognizable under section 11 shall submit its claim(s) in writing within 90 days of the occurrence of the fire(s) for which a claim(s) is made. If the fire is of such duration that the claimant desires to submit a claim before its conclusion, it may do so, but only for the eligible costs actually incurred to date. Additional claims may be filed for costs later incurred. Claims shall be submitted to the Administrator, FEMA, Washington, DC, 20472. Each claim shall include the following information:
 
 (a) Name, address, jurisdiction and nature (volunteer, private, municipal, etc.) of claimant's fire service organization;
 

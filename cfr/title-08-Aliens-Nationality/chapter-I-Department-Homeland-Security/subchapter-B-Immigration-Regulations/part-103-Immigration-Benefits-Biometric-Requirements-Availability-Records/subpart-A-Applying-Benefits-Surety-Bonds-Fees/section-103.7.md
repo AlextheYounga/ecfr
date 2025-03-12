@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 83 FR 44450, Aug. 31, 2018.
-
 (a) *Remittances.* (1) Fees shall be submitted with any formal application or petition prescribed in this chapter in the amount prescribed by law or regulation. Except for fees remitted directly to the Board of Immigration Appeals pursuant to the provisions of 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any Department of Justice Executive Office for Immigration Review proceeding shall be paid to, and accepted by, any USCIS office authorized to accept fees. The immigration court does not collect fees. Payment of any fee under this section does not constitute filing of the document with the Board of Immigration Appeals or with the Immigration Court. The Department of Homeland Security shall return to the payer, at the time of payment, a receipt for any fee paid. The USCIS shall also return to the payer any documents, submitted with the fee, relating to any Immigration Court proceeding.
 
 (2) Remittances must be drawn on a bank or other institution located in the United States and be payable in United States currency. Remittances must be made payable in accordance with the guidance specific to the applicable U.S. Government office when submitting to a Department of Homeland Security office located outside of the United States. Remittances to the Board of Immigration Appeals must be made payable to the “United States Department of Justice,” in accordance with 8 CFR 1003.8. If a remittance in payment of a fee or any other matter is not honored by the bank or financial institution on which it is drawn:
@@ -94,11 +92,11 @@ Link to an amendment published at 83 FR 44450, Aug. 31, 2018.
 
 (U) Application to Register Permanent Residence or Adjust Status, Form I-485. For filing an application for permanent resident status or creation of a record of lawful permanent residence:
 
-(1) $1,140 for an applicant 14 years of age or older; or
+(*1*) $1,140 for an applicant 14 years of age or older; or
 
-(2) $750 for an applicant under the age of 14 years who submits the application concurrently with the Form I-485 of a parent.
+(*2*) $750 for an applicant under the age of 14 years who submits the application concurrently with the Form I-485 of a parent.
 
-(3) There is no fee if an applicant is filing as a refugee under section 209(a) of the Act.
+(*3*) There is no fee if an applicant is filing as a refugee under section 209(a) of the Act.
 
 (V) *Application to Adjust Status under Section 245(i) of the Act,* Supplement A to Form I-485. Supplement to Form I-485 for persons seeking to adjust status under the provisions of section 245(i) of the Act: $1,000. There is no fee when the applicant is an unmarried child less than 17 years of age, when the applicant is the spouse, or the unmarried child less than 21 years of age of an individual with lawful immigration status and who is qualified for and has applied for voluntary departure under the family unity program.
 
@@ -164,7 +162,7 @@ Link to an amendment published at 83 FR 44450, Aug. 31, 2018.
 
 (RR) *Application for Authorization to Issue Certification for Health Care Workers,* Form I-905: $230.
 
-(SS) *Request for Premium Processing Service,* Form I-907. $1,225. The Request for Premium Processing Service fee:
+(SS) *Request for Premium Processing Service,* Form I-907. $1,410. The Request for Premium Processing Service fee:
 
 (*1*) Must be paid in addition to, and in a separate remittance from, other filing fees.
 
@@ -330,6 +328,4 @@ Link to an amendment published at 83 FR 44450, Aug. 31, 2018.
 
 (f) *Authority to certify records.* The Director of USCIS, or such officials as he or she may designate, may certify records when authorized under 5 U.S.C. 552 or any other law to provide such records.
 
-[38 FR 35296, Dec. 27, 1973]Editorial Notes:1. For Federal Register citations affecting § 103.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
-
-2. At 73 FR 55698, Sept. 26, 2008, § 103.7 was amended by revising Form I-290B; however, the amendment could not be incorporated because the text of the newly revised form was not provided.
+[38 FR 35296, Dec. 27, 1973]Editorial Note:For Federal Register citations affecting § 103.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

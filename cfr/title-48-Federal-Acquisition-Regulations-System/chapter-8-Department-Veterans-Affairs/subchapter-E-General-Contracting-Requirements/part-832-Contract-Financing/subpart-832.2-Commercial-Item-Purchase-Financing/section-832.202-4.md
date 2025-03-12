@@ -1,5 +1,7 @@
 ##### 832.202-4 Security for Government financing. #####
 
+Link to an amendment published at 83 FR 49306, Oct. 1, 2018.
+
 An offeror's financial condition may be considered adequate security to protect the Government's interest when the Government provides contract financing. In assessing the offeror's financial condition, the contracting officer may obtain, to the extent required, the following information to establish the offeror's financial capability and to determine the offeror's financial condition:
 
 (a) A current year interim balance sheet and income statement and balance sheets and income statements for the two preceding fiscal years. The statements should be prepared in accordance with generally accepted accounting principles and must be audited and certified by an independent public accountant or an appropriate officer of the firm.

@@ -1,5 +1,7 @@
 ##### 832.904 Determining payment due dates. #####
 
+Link to an amendment published at 83 FR 49306, Oct. 1, 2018.
+
 (a) When preparing specification packages, contracting officers must give full consideration to the time reasonably required for constructive acceptance or approval of the goods or services and for making invoice payments. Based on this analysis, contracting officers may, when authorized by FAR 32.904, modify the number of days allowed for notifying contractors of defects in invoices or, for construction solicitations, the number of days allowed for payment of invoices specified in the applicable prompt payment clause. Changes, if any, should be made before issuing the solicitation.
 
 (b)(1) For construction solicitations, the analysis specified in paragraph (a) of this section may routinely take more than the 7 days provided in paragraph (a)(2) of the FAR clause at 52.232-27, Prompt Payment for Construction Contracts, to evaluate and return defective progress payment invoices.

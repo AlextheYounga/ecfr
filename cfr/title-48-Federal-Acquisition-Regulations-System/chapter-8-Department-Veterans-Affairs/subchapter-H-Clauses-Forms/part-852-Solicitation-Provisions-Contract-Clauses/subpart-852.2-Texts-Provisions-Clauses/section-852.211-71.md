@@ -1,5 +1,7 @@
 ##### 852.211-71 Special notice. #####
 
+Link to an amendment published at 83 FR 49307, Oct. 1, 2018.
+
 As prescribed in 870.112, insert the following provision:
 
 Special Notice (JAN 2008)

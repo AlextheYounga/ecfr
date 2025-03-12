@@ -6,6 +6,6 @@
 
 (c) *FFIEC.* title XI placed the ASC within FFIEC as a separate, appropriated agency of the United States Government with specific statutory responsibilities under Federal law.
 
-(d) *ASD Address* ASC offices are located at 2000 K Street, NW., Suite 310; Washington, DC 20006.
+(d) *ASD Address* ASC offices are located at 1325 G Street NW, Suite 500, Washington, DC 20005.
 
 [57 FR 60724, Dec. 22, 1992, as amended at 64 FR 72497, Dec. 28, 1999]

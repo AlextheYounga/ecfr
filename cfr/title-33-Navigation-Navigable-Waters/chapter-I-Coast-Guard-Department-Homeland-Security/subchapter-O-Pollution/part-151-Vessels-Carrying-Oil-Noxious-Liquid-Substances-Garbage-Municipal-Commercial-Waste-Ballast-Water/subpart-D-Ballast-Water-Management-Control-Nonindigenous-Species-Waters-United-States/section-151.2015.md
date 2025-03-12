@@ -1,7 +1,5 @@
 ##### § 151.2015 Exemptions. #####
 
-Link to an amendment published at 83 FR 47292, Sept. 19, 2018.
-
 (a) The following vessels are exempt from all of the requirements of this subpart:
 
 (1) Any Department of Defense or Coast Guard vessel subject to the requirements of section 1103 of the Nonindigenous Aquatic Nuisance Prevention and Control Act, as amended by the National Invasive Species Act; or any vessel of the Armed Forces, as defined in the Federal Water Pollution Control Act (33 U.S.C. 1322(a)), that is subject to the “Uniform National Discharge Standards for Vessels of the Armed Forces” (33 U.S.C. 1322(n)).
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 47292, Sept. 19, 2018.
 
 (b) Crude oil tankers engaged in coastwise trade are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), 151.2060 (reporting), and 151.2070 (recordkeeping) of this subpart.
 
-(c) Vessels that operate exclusively on voyages between ports or places within a single COTP Zone are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), and 151.2070 (recordkeeping) of this subpart.
+(c) Vessels that operate exclusively on voyages between ports or places within a single COTP Zone are exempt from the requirements of §§ 151.2025 (ballast water management (BWM) requirements), 151.2060 (reporting), and 151.2070 (recordkeeping) of this subpart.
 
 (d) The following vessels are exempt only from the requirements of § 151.2025 (BWM requirements) of this subpart:
 
@@ -22,14 +20,16 @@ Link to an amendment published at 83 FR 47292, Sept. 19, 2018.
 
 Table 1 to § 151.2015 - Table of 33 CFR 151.2015 Specific Exemptions for Types of Vessels
 
-|                                                                                                                                                                                     |151.2025  <br/>(Management)|151.2060  <br/>(Reporting)|                                    151.2070  <br/>(Recordkeeping)                                     |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|-------------------------------------------------------------------------------------------------------|
-|                                                        Department of Defense or Coast Guard vessel subject to 46 U.S.C. 4713                                                        |          Exempt           |          Exempt          |                                                Exempt.                                                |
-|                        Vessel of the Armed Forces subject to the “Uniform National Discharge Standards for Vessels of the Armed Forces” (33 U.S.C. 1322(n))                         |          Exempt           |          Exempt          |                                                Exempt.                                                |
-|                                                                    Crude oil tankers engaged in coastwise trade                                                                     |          Exempt           |          Exempt          |                                                Exempt.                                                |
-|                                              Vessel operates exclusively on voyages between ports or places within a single COTP Zone                                               |          Exempt           |        Applicable        |                                                Exempt.                                                |
-|Seagoing vessel operates on voyages between ports or places in more than a single COTP Zone, does not operate outside of EEZ, and ≤1600 gross register tons or ≤3000 gross tons (ITC)|          Exempt           |        Applicable        |                                              Applicable.                                              |
-|                                                                                 Non-seagoing vessel                                                                                 |          Exempt           |        Applicable        |Applicable (unless operating exclusively on voyages between ports or places within a single COTP Zone).|
-|                 Vessel operates between ports or places in more than a single COTP Zone and takes on and discharges ballast water exclusively in a single COTP Zone                 |          Exempt           |        Applicable        |                                              Applicable.                                              |
+|                                                                                                                                                                                     |151.2025  <br/>(Management)|151.2060  <br/>(Reporting)|151.2070  <br/>(Recordkeeping)|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|------------------------------|
+|                                                        Department of Defense or Coast Guard vessel subject to 46 U.S.C. 4713                                                        |          Exempt           |          Exempt          |           Exempt.            |
+|                        Vessel of the Armed Forces subject to the “Uniform National Discharge Standards for Vessels of the Armed Forces” (33 U.S.C. 1322(n))                         |          Exempt           |          Exempt          |           Exempt.            |
+|                                                                    Crude oil tankers engaged in coastwise trade                                                                     |          Exempt           |          Exempt          |           Exempt.            |
+|                                              Vessel operates exclusively on voyages between ports or places within a single COTP Zone                                               |          Exempt           |          Exempt          |           Exempt.            |
+|Seagoing vessel operates on voyages between ports or places in more than a single COTP Zone, does not operate outside of EEZ, and ≤1600 gross register tons or ≤3000 gross tons (ITC)|          Exempt           |        Applicable        |         Applicable.          |
+|                                                                                 Non-seagoing vessel                                                                                 |          Exempt           |  Applicable<sup>1</sup>  |    Applicable<sup>1</sup>    |
+|                 Vessel operates between ports or places in more than a single COTP Zone and takes on and discharges ballast water exclusively in a single COTP Zone                 |          Exempt           |        Applicable        |         Applicable.          |
 
-[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended by USCG-2012-0924, 80 FR 73114, Nov. 24, 2015]
+<sup>1</sup> Unless operating exclusively on voyages between ports or places within a single COTP Zone.
+
+[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended by USCG-2012-0924, 80 FR 73114, Nov. 24, 2015; 83 FR 47293, Sept. 19, 2018]

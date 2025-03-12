@@ -1,7 +1,5 @@
 ##### § 495.104 Incentive payments to eligible hospitals. #####
 
-Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
-
 (a) *General rule.* A qualifying hospital (as defined in this subpart) must receive the special incentive payment as determined under the formulas described in paragraph (c) of this section for the period specified in paragraph (b) of this section.
 
 (b) *Transition periods.* Subject to paragraph (d) of this section and the payment formula specified in paragraph (c) of this section, qualifying hospitals may receive incentive payments during transition periods which comprise the following fiscal years:
@@ -15,6 +13,16 @@ Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
 (4) Hospitals whose first payment year is FY 2014 may receive such payments for FY 2014 through 2016.
 
 (5) Hospitals whose first payment year is FY 2015 may receive such payments for FY 2015 through 2016.
+
+(6) Puerto Rico eligible hospitals whose first payment year is FY 2016 may receive such payments for FYs 2016 through 2019.
+
+(7) Puerto Rico eligible hospitals whose first payment year is FY 2017 may receive such payments for FYs 2017 through 2020.
+
+(8) Puerto Rico eligible hospitals whose first payment year is FY 2018 may receive such payments for FYs 2018 through 2021.
+
+(9) Puerto Rico eligible hospitals whose first payment year is FY 2019 may receive such payments for FYs 2019 through 2021.
+
+(10) Puerto Rico eligible hospitals whose first payment year is FY 2020 may receive such payments for FYs 2020 through 2021.
 
 (c) *Payment methodology.* (1) The incentive payment for each payment year is calculated as the product of the following:
 
@@ -98,6 +106,50 @@ Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
 
 (B)1/4 for FY 2016.
 
+(vi) For Puerto Rico eligible hospitals whose first payment year is FY 2016 -
+
+(A) 1 for FY 2016;
+
+(B)3/4 for FY 2017;
+
+(C)1/2 for FY 2018; and
+
+(D)1/4 for FY 2019.
+
+(vii) For Puerto Rico eligible hospitals whose first payment year is FY 2017 -
+
+(A) 1 for FY 2017;
+
+(B)3/4 for FY 2018;
+
+(C)1/2 for FY 2019; and
+
+(D)1/4 for FY 2020;
+
+(viii) For Puerto Rico eligible hospitals whose first payment year is FY 2018 -
+
+(A) 1 for FY 2018;
+
+(B)3/4 for FY 2018;
+
+(C)1/2 for FY 2019; and
+
+(D)1/4 for FY 2020.
+
+(ix) For Puerto Rico eligible hospitals whose first payment year is FY 2019 -
+
+(A)3/4 for FY 2019;
+
+(B)1/2 for FY 2020; and
+
+(C)1/4 for FY 2021.
+
+(x) For Puerto Rico eligible hospitals whose first payment year is FY 2020 -
+
+(A)1/2 for FY 2020; and
+
+(B)1/4 for FY 2021.
+
 (d) No incentive payment for nonqualifying hospitals. After the first payment year, an eligible hospital will not receive an incentive payment for any payment year during which it is not a qualifying hospital.
 
-[75 FR 44565, July 28, 2010, as amended at 78 FR 75200, Dec. 10, 2013]
+[75 FR 44565, July 28, 2010, as amended at 78 FR 75200, Dec. 10, 2013; 83 FR 41710, Aug. 17, 2018]

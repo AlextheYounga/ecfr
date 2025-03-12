@@ -1,7 +1,5 @@
 ##### § 412.105 Special treatment: Hospitals that incur indirect costs for graduate medical education programs. #####
 
-Link to an amendment published at 83 FR 41703, Aug. 17, 2018.
-
 CMS makes an additional payment to hospitals for indirect medical education costs using the following procedures:
 
 (a) *Basic data.* CMS determines the following for each hospital:
@@ -148,7 +146,7 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (vi) Hospitals that are part of the same Medicare GME affiliated group or emergency Medicare GME affiliated group (as defined in § 413.75(b) of this subchapter) may elect to apply the limit specified in paragraph (f)(1)(iv) of this section on an aggregate basis, as specified in § 413.79(f) of this subchapter. Effective beginning on or after October 1, 2008, home and host hospitals with valid emergency Medicare GME affiliation agreements are exempt from the application of the ratio cap specified in paragraph (a)(1)(i) of this section.
 
-(vii) If a hospital establishes a new medical residency training program, as defined in § 413.79(l) of this subchapter, the hospital's full-time equivalent cap may be adjusted in accordance with the provisions of §§ 413.79(e)(1) through (e)(4) of this subchapter.
+(vii) If a hospital establishes a new medical residency training program, as defined in § 413.79(l) of this subchapter, the hospital's full-time equivalent cap may be adjusted in accordance with the provisions of § 413.79(e) of this subchapter.
 
 (viii) A hospital that began construction of its facility prior to August 5, 1997, and sponsored new medical residency training programs on or after January 1, 1995 and on or before August 5, 1997, that either received initial accreditation by the appropriate accrediting body or temporarily trained residents at another hospital(s) until the facility was completed, may receive an adjustment to its full-time equivalent cap in accordance with the provisions of § 413.79(g) of this subchapter.
 
@@ -184,4 +182,4 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (g) *Indirect medical education payment for managed care enrollees.* For portions of cost reporting periods occurring on or after January 1, 1998, a payment is made to a hospital for indirect medical education costs, as determined under paragraph (e) of this section, for discharges associated with individuals who are enrolled under a risk-sharing contract with an eligible organization under section 1876 of the Act or with a Medicare + Choice organization under title XVIII, Part C of the Act during the period, according to the applicable payment percentages described in §§ 413.76(c)(1) through (c)(5) of this subchapter.
 
-[50 FR 12741, Mar. 29, 1985. Redesignated at 56 FR 43241, Aug. 30, 1991]Editorial Note:For Federal Register citations affecting § 412.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 12741, Mar. 29, 1985. Redesignated at 56 FR 43241, Aug. 30, 1991]Editorial Note:For Federal Register citations affecting § 412.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 495.40 Demonstration of meaningful use criteria. #####
 
-Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
-
 (a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22 or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
 (1) For CY 2011 - (i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP -
@@ -164,8 +162,12 @@ Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
 
 (vi) *Exception for Medicare eligible hospitals and CAHs for FY 2012 and 2013 - Participation in the Medicare EHR Incentive Program Electronic Reporting Pilot.* In order to satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, a Medicare eligible hospital or CAH may participate in the Medicare EHR Incentive Program Electronic Reporting Pilot.
 
+(vii) *Exception for dual-eligible eligible hospitals and CAHs beginning in CY 2019.* (A) Beginning with the EHR reporting period in CY 2019, dual-eligible eligible hospitals and CAHs (those that are eligible for an incentive payment under Medicare for meaningful use of CEHRT and/or subject to the Medicare payment reduction for failing to demonstrate meaningful use, and are also eligible to earn a Medicaid incentive payment for meaningful use) must satisfy the requirements under paragraph (b)(2) of this section by attestation and reporting information to CMS, not to their respective state Medicaid agency.
+
+(B) Dual-eligible eligible hospitals and CAHs that demonstrate meaningful use to their state Medicaid agency may only qualify for an incentive payment under Medicaid and will not qualify for an incentive payment under Medicare and/or avoid the Medicare payment reduction.
+
 (c) *Review of meaningful use.* (1) CMS (and in the case of Medicaid EPs and eligible hospitals, States) may review an EP, eligible hospital or CAH's demonstration of meaningful use.
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017; 82 FR 38518, Aug. 14, 2017]
+[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017; 82 FR 38518, Aug. 14, 2017; 83 FR 41710, Aug. 17, 2018]

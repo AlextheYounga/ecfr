@@ -1,7 +1,5 @@
 ##### § 413.24 Adequate cost data and cost finding. #####
 
-Link to an amendment published at 83 FR 41705, Aug. 17, 2018.
-
 (a) *Principle.* Providers receiving payment on the basis of reimbursable cost must provide adequate cost data. This must be based on their financial and statistical records which must be capable of verification by qualified auditors. The cost data must be based on an approved method of cost finding and on the accrual basis of accounting, except for -
 
 (1) Governmental institutions which operate on a cash basis method of accounting. Cost data based on such basis of accounting will be acceptable, subject to appropriate treatment of capital expenditures.
@@ -96,7 +94,19 @@ I hereby certify that I have read the above certification statement and that I h
 
 (5) An acceptable cost report submission is defined as follows:
 
-(i) All providers - The provider, must complete and submit the required cost reporting forms, including all necessary signatures. A cost report is rejected for lack of supporting documentation only if it does not include the Provider Cost Reimbursement Questionnaire. Additionally, a cost report for a teaching hospital is rejected for lack of supporting documentation if the cost report does not include a copy of the Intern and Resident Information System diskette.
+(i) All providers - The provider must accurately complete and submit the required cost reporting forms, including all necessary signatures and supporting documents. For providers claiming costs on their cost reports that are allocated from a home office or chain organization, the Home Office Cost statement must be submitted by the home office or chain organization as set forth in paragraph (f)(5)(i)(E) of this section. A cost report is rejected for lack of supporting documentation if it does not include the following, except as provided in paragraph (f)(5)(i)(E) of this section:
+
+(A) *Teaching hospitals* - For teaching hospitals, the Intern and Resident Information System (IRIS) data.
+
+(B) *Bad debt* - Effective for cost reporting periods beginning on or after October 1, 2018, for providers claiming Medicare bad debt reimbursement, a detailed bad debt listing that corresponds to the amount of bad debt claimed in the provider's cost report.
+
+(C) *DSH eligible hospitals* - Effective for cost reporting periods beginning on or after October 1, 2018, for hospitals claiming a disproportionate share hospital payment adjustment, a detailed listing of the hospital's Medicaid eligible days that corresponds to the Medicaid eligible days claimed in the hospital's cost report. If the hospital submits an amended cost report that changes its Medicaid eligible days, the hospital must submit an amended listing or an addendum to the original listing of the hospital's Medicaid eligible days that corresponds to the Medicaid eligible days claimed in the hospital's amended cost report.
+
+(D) *Charity care and uninsured discounts* - Effective for cost reporting periods beginning on or after October 1, 2018, for DSH eligible hospitals reporting charity care and/or uninsured discounts, a detailed listing of charity care and/or uninsured discounts that corresponds to the amounts claimed in the DSH eligible hospital's cost report.
+
+(E) *Home office cost allocation.* (*1*) *Same fiscal year end.* Effective for cost reporting periods beginning on or after October 1, 2018, for providers claiming costs on their cost report that are allocated from a home office or chain organization with the same fiscal year end, a Home Office Cost Statement completed and submitted by the home office or chain organization to its chain provider's servicing contractor that corresponds to the amounts allocated from the home office or chain organization to the provider's cost report.
+
+(*2*) *Differing fiscal year end.* Effective for cost reporting periods beginning on or after October 1, 2018, for providers claiming costs on their cost report that are allocated from a home office or chain organization with a different fiscal year end, a Home Office Cost Statement completed and submitted by the home office or chain organization to its chain provider's servicing contractor that corresponds to some portion of the amounts allocated from the home office or chain organization to the provider's cost report.
 
 (ii) For providers that are required to file electronic cost reports - In addition to the requirements of paragraphs (f)(4) and (f)(5)(i) of this section, the provider must submit its cost reports in an electronic cost report format in conformance with the requirements contained in the Electronic Cost Report (ECR) Specifications Manual (unless the provider has received an exemption from CMS).
 
@@ -138,4 +148,4 @@ I hereby certify that I have read the above certification statement and that I h
 
 (5) *Administrative review of whether there is an appropriate cost report claim*. If the provider files an administrative appeal (pursuant to Part 405, Subpart R of this chapter) seeking reimbursement for a specific item and any party to such appeal questions whether the provider's cost report included an appropriate claim for the specific item under appeal (as specified in paragraphs (j)(1), (2), (3), and (4) of this section), the reviewing entity (as defined in § 405.1801(a) of this chapter) must follow the procedures prescribed in § 405.1873 of this chapter (if the appeal was filed originally with the Board), or the procedures set forth in § 405.1832 of this chapter (if the appeal was filed initially with the contractor), for review of whether the substantive reimbursement requirement of an appropriate cost report claim for the specific item under appeal is satisfied. The reviewing entity must follow the procedures set forth in paragraph (j)(3) of this section in determining whether the provider's cost report included an appropriate claim for the specific item under appeal. The reviewing entity may permit reimbursement for the specific item under appeal solely to the extent authorized by § 405.1873(f) of this chapter (if the appeal was filed originally with the Board) or by § 405.1832(f) of this chapter (if the appeal was filed initially with the contractor).
 
-[51 FR 34793, Sept. 30, 1986]Editorial Note:For Federal Register citations affecting § 413.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[51 FR 34793, Sept. 30, 1986]Editorial Note:For Federal Register citations affecting § 413.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

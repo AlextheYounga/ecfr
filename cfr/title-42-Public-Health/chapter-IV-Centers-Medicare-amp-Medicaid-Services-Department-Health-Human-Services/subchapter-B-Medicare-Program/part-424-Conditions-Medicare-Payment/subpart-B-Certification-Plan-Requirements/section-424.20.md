@@ -1,12 +1,10 @@
 ##### § 424.20 Requirements for posthospital SNF care. #####
 
-Link to an amendment published at 83 FR 39290, August 8, 2018.
-
 Medicare Part A pays for posthospital SNF care furnished by an SNF, or a hospital or CAH with a swing-bed approval, only if the certification and recertification for services are consistent with the content of paragraph (a) or (c) of this section, as appropriate.
 
 (a) *Content of certification* - (1) *General requirements.* Posthospital SNF care is or was required because -
 
-(i) The individual needs or needed on a daily basis skilled nursing care (furnished directly by or requiring the supervision of skilled nursing personnel) or other skilled rehabilitation services that, as a practical matter, can only be provided in an SNF or a swing-bed hospital on an inpatient basis, and the SNF care is or was needed for a condition for which the individual received inpatient care in a participating hospital or a qualified hospital, as defined in § 409.3 of this chapter; or
+(i) The individual needs or needed on a daily basis skilled nursing care (furnished directly by or requiring the supervision of skilled nursing personnel) or other skilled rehabilitation services that, as a practical matter, can only be provided in an SNF or a swing-bed hospital on an inpatient basis, and the SNF care is or was needed for a condition for which the individual received inpatient care in a participating hospital or a qualified hospital, as defined in § 409.3 of this chapter, or for a new condition that arose while the individual was receiving care in the SNF or swing-bed hospital for a condition for which he or she received inpatient care in a participating or qualified hospital; or
 
 (ii) The individual has been correctly assigned one of the case-mix classifiers that CMS designates as representing the required level of care, as provided in § 409.30 of this chapter.
 
@@ -48,4 +46,4 @@ Medicare Part A pays for posthospital SNF care furnished by an SNF, or a hospita
 
 (g) *Description of procedures.* The SNF must have available on file a written description that specifies the certification and recertification time schedule and indicates whether utilization review is used as an alternative to the second and subsequent recertifications.
 
-[53 FR 6634, Mar. 2, 1988, as amended at 54 FR 37275, Sept. 7, 1989; 58 FR 30671, May 26, 1993; 60 FR 38272, July 26, 1995; 62 FR 46037, Aug. 29, 1997; 63 FR 26311, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 66 FR 39600, July 31, 2001; 70 FR 45055, Aug. 4, 2005; 75 FR 73626, Nov. 29, 2010; 82 FR 36635, Aug. 4, 2017]
+[53 FR 6634, Mar. 2, 1988, as amended at 54 FR 37275, Sept. 7, 1989; 58 FR 30671, May 26, 1993; 60 FR 38272, July 26, 1995; 62 FR 46037, Aug. 29, 1997; 63 FR 26311, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 66 FR 39600, July 31, 2001; 70 FR 45055, Aug. 4, 2005; 75 FR 73626, Nov. 29, 2010; 82 FR 36635, Aug. 4, 2017; 83 FR 39290, Aug. 8, 2018]

@@ -1,8 +1,6 @@
 ##### § 424.11 General procedures. #####
 
-Link to an amendment published at 83 FR 41706, August 17, 2018.
-
-(a) *Responsibility of the provider.* The provider must -
+(a) *Responsibility of the provider.* The provider must—
 
 (1) Obtain the required certification and recertification statements;
 
@@ -10,9 +8,9 @@ Link to an amendment published at 83 FR 41706, August 17, 2018.
 
 (3) Certify, on the appropriate billing form, that the statements have been obtained and are on file.
 
-(b) *Obtaining the certification and recertification statements.* No specific procedures or forms are required for certification and recertification statements. The provider may adopt any method that permits verification. The certification and recertification statements may be entered on forms, notes, or records that the appropriate individual signs, or on a special separate form. Except as provided in paragraph (d) of this section for delayed certifications, there must be a separate signed statement for each certification or recertification.
+(b) *Obtaining the certification and recertification statements.* No specific procedures or forms are required for certification and recertification statements. The provider may adopt any method that permits verification. The certification and recertification statements may be entered on forms, notes, or records that the appropriate individual signs, or on a special separate form. Except as provided in paragraph (d) of this section for delayed certifications, there must be a separate signed statement for each certification or recertification. If supporting information for the signed statement is contained in other provider records (such as physicians' progress notes), it need not be repeated in the statement itself.
 
-(c) *Required information.* The succeeding sections of this subpart set forth specific information required for different types of services. If that information is contained in other provider records, such as physicians' progress notes, it need not be repeated. It will suffice for the statement to indicate where the information is to be found.
+(c) *Required information.* The succeeding sections of this subpart set forth specific information required for different types of services.
 
 (d) *Timeliness.* (1) The succeeding sections of this subpart also specify the timeframes for certification and for initial and subsequent recertifications.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 83 FR 41706, August 17, 2018.
 
 (4) A nurse practitioner or clinical nurse specialist as defined in paragraph (e)(5) or (e)(6) of this section, or a physician assistant as defined in section 1861(aa)(5)(A) of the Act, in the circumstances specified in § 424.20(e).
 
-(5) For purposes of this section, to qualify as a nurse practitioner, an individual must -
+(5) For purposes of this section, to qualify as a nurse practitioner, an individual must—
 
 (i) Be a registered professional nurse who is currently licensed to practice nursing in the State where he or she practices; be authorized to perform the services of a nurse practitioner in accordance with State law; and have a master's degree in nursing;
 
@@ -42,7 +40,7 @@ Link to an amendment published at 83 FR 41706, August 17, 2018.
 
 (iii) Meet the requirements for a nurse practitioner set forth in paragraph (e)(5)(i) of this section, except for the master's degree requirement, and have received before August 25, 1998 a certificate of completion from a formal advanced practice program that prepares registered nurses to perform an expanded role in the delivery of primary care.
 
-(6) For purposes of this section, to qualify as a clinical nurse specialist, an individual must -
+(6) For purposes of this section, to qualify as a clinical nurse specialist, an individual must—
 
 (i) Be a registered professional nurse who is currently licensed to practice nursing in the State where he or she practices; be authorized to perform the services of a clinical nurse specialist in accordance with State law; and have a master's degree in a defined clinical area of nursing;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 83 FR 41706, August 17, 2018.
 
 (iii) Meet the requirements for a clinical nurse specialist set forth in paragraph (e)(6)(i) of this section, except for the master's degree requirement, and have received before August 25, 1998 a certificate of completion from a formal advanced practice program that prepares registered nurses to perform an expanded role in the delivery of primary care.
 
-[53 FR 6634, Mar. 2, 1988, as amended at 56 FR 8845, Mar. 1, 1991; 60 FR 38272, July 26, 1995; 78 FR 47968, Aug. 6, 2013; 78 FR 50969, Aug. 19, 2013; 79 FR 50359, Aug. 22, 2014]
+[53 FR 6634, Mar. 2, 1988, as amended at 56 FR 8845, Mar. 1, 1991; 60 FR 38272, July 26, 1995; 78 FR 47968, Aug. 6, 2013; 78 FR 50969, Aug. 19, 2013; 79 FR 50359, Aug. 22, 2014; 83 FR 41706, Aug. 17, 2018]

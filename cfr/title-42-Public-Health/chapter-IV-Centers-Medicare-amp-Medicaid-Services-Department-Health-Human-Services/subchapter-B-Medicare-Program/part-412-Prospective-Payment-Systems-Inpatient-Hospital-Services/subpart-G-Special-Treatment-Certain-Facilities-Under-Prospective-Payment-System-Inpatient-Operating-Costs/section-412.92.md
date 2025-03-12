@@ -1,14 +1,12 @@
 ##### § 412.92 Special treatment: Sole community hospitals. #####
 
-Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
-
 (a) *Criteria for classification as a sole community hospital.* CMS classifies a hospital as a sole community hospital if it is located more than 35 miles from other like hospitals, or it is located in a rural area (as defined in § 412.64) and meets one of the following conditions:
 
 (1) The hospital is located between 25 and 35 miles from other like hospitals and meets one of the following criteria:
 
 (i) No more than 25 percent of residents who become hospital inpatients or no more than 25 percent of the Medicare beneficiaries who become hospital inpatients in the hospital's service area are admitted to other like hospitals located within a 35-mile radius of the hospital, or, if larger, within its service area;
 
-(ii) The hospital has fewer than 50 beds and the intermediary certifies that the hospital would have met the criteria in paragraph (a)(1)(i) of this section were it not for the fact that some beneficiaries or residents were forced to seek care outside the service area due to the unavailability of necessary specialty services at the community hospital; or
+(ii) The hospital has fewer than 50 beds and the MAC certifies that the hospital would have met the criteria in paragraph (a)(1)(i) of this section were it not for the fact that some beneficiaries or residents were forced to seek care outside the service area due to the unavailability of necessary specialty services at the community hospital; or
 
 (iii) Because of local topography or periods of prolonged severe weather conditions, the other like hospitals are inaccessible for at least 30 days in each 2 out of 3 years.
 
@@ -16,7 +14,9 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (3) Because of distance, posted speed limits, and predictable weather conditions, the travel time between the hospital and the nearest like hospital is at least 45 minutes.
 
-(b) *Classification procedures* - (1) *Request for classification as sole community hospital.* (i) The hospital must make its request to its fiscal intermediary.
+(4) For a hospital with a main campus and one or more remote locations under a single provider agreement where services are provided and billed under the inpatient hospital prospective payment system and that meets the provider-based criteria at § 413.65 of this chapter as a main campus and a remote location of a hospital, combined data from the main campus and its remote location(s) are required to demonstrate that the criteria specified in paragraphs (a)(1)(i) and (ii) of this section are met. For the mileage and rural location criteria in paragraph (a) of this section and the mileage, accessibility, and travel time criteria specified in paragraphs (a)(1) through (3) of this section, the hospital must demonstrate that the main campus and its remote location(s) each independently satisfy those requirements.
+
+(b) *Classification procedures* - (1) *Request for classification as sole community hospital.* (i) The hospital must make its request to its MAC.
 
 (ii) If a hospital is seeking sole community hospital classification under paragraph (a)(1)(i) or (a)(1)(ii) of this section, the hospital must include the following information with its request:
 
@@ -26,23 +26,25 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (iii)(A) If the hospital is unable to obtain the information required under paragraph (b)(1)(ii)(A) of this section concerning the residences of Medicare beneficiaries who were inpatients in other hospitals located within a 35 mile radius of the hospital or, if larger, within the hospital's service area, the hospital may request that CMS provide this information.
 
-(B) If a hospital obtains the information as requested under paragraph (b)(1)(iii)(A) of this section, that information is used by both the intermediary and CMS in making the determination of the residences of Medicare beneficiaries under paragraphs (b)(1)(iii) and (b)(1)(iv) of this section, regardless of any other information concerning the residences of Medicare beneficiaries submitted by the hospital.
+(B) If a hospital obtains the information as requested under paragraph (b)(1)(iii)(A) of this section, that information is used by both the MAC and CMS in making the determination of the residences of Medicare beneficiaries under paragraphs (b)(1)(iii) and (b)(1)(iv) of this section, regardless of any other information concerning the residences of Medicare beneficiaries submitted by the hospital.
 
-(iv) The intermediary reviews the request and send the request, with its recommendation, to CMS.
+(iv) The MAC reviews the request and send the request, with its recommendation, to CMS.
 
-(v) CMS reviews the request and the intermediary's recommendation and forward its approval or disapproval to the intermediary.
+(v) CMS reviews the request and the MAC's recommendation and forward its approval or disapproval to the MAC.
 
-(2) *Effective dates of classification.* (i) Sole community hospital status is effective 30 days after the date of CMS' written notification of approval, except as provided in paragraph (b)(2)(v) of this section.
+(2) *Effective dates of classification.*(i) For applications received on or before September 30, 2018, sole community hospital status is effective 30 days after the date of CMS' written notification of approval, except as provided in paragraph (b)(2)(v) of this section. For applications received on or after October 1, 2018, sole community hospital status is effective as of the date the MAC receives the complete application, except as provided in paragraph (b)(2)(v) of this section.
 
-(ii) When a court order or a determination by the Provider Reimbursement Review Board (PRRB) reverses an CMS denial of sole community hospital status and no further appeal is made, the sole community hospital status is effective as follows:
+(ii) When a court order or a determination by the Provider Reimbursement Review Board (PRRB) reverses a CMS denial of sole community hospital status and no further appeal is made, the sole community hospital status is effective as follows:
 
 (A) If the hospital's application was submitted prior to October 1, 1983, its status as a sole community hospital is effective at the start of the cost reporting period for which it sought exemption from the cost limits.
 
-(B) If the hospital's application for sole community hospital status was filed on or after October 1, 1983, the effective date is 30 days after the date of CMS's original written notification of denial.
+(B) If the hospital's application for sole community hospital status was received on or after October 1, 1983 and on or before September 30, 2018, the effective date is 30 days after the date of CMS' original written notification of denial.
+
+(C) If the hospital's application for sole community hospital status was received on or after October 1, 2018, the effective date is the date the MAC receives the complete application.
 
 (iii) When a hospital is granted retroactive approval of sole community hospital status by a court order or a PRRB decision and the hospital wishes its sole community hospital status terminated before the date of the court order or PRRB determination, it must submit written notice to the CMS regional office within 90 days of the court order or PRRB decision. A written request received after the 90-day period is effective no later than 30 days after the request is submitted.
 
-(iv) A hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after 30 days after the date of CMS's approval of the classification.
+(iv) For applications received on or before September 30, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after 30 days after the date of CMS' approval of the classification. For applications received on or after October 1, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after the date the MAC receives the complete application.
 
 (v) If a hospital that is classified as an MDH under § 412.108 applies for classification as a sole community hospital because its status under the MDH program expires with the expiration of the MDH program, and that hospital's sole community hospital status is approved, the effective date of approval of sole community hospital status is the day following the expiration date of the MDH program if the hospital -
 
@@ -50,9 +52,9 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (B) Requests that sole community hospital status be effective with the expiration of the MDH program.
 
-(3) *Duration of classification.* (i) An approved classification as a sole community hospital remains in effect without need for reapproval unless there is a change in the circumstances under which the classification was approved. An approved sole community hospital must notify the fiscal intermediary if any change that is specified in paragraph (b)(3)(ii) of this section occurs. If CMS determines that a sole community hospital failed to comply with this requirement, CMS will cancel the hospital's classification as a sole community hospital effective with the date that the hospital no longer met the criteria for such classification, consistent with the provisions of § 405.1885 of this chapter.
+(3) *Duration of classification.* (i) An approved classification as a sole community hospital remains in effect without need for reapproval unless there is a change in the circumstances under which the classification was approved. An approved sole community hospital must notify the MAC if any change that is specified in paragraph (b)(3)(ii) of this section occurs. If CMS determines that a sole community hospital failed to comply with this requirement, CMS will cancel the hospital's classification as a sole community hospital effective with the date that the hospital no longer met the criteria for such classification, consistent with the provisions of § 405.1885 of this chapter.
 
-(ii) A sole community hospital must report the following to the fiscal intermediary within 30 days of the event:
+(ii) A sole community hospital must report the following to the MAC within 30 days of the event:
 
 (A) The opening of a new hospital in its service area.
 
@@ -64,9 +66,9 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (E) Any changes to the driving conditions that result in a decrease in the amount of travel time between itself and a like provider if the hospital qualifies as a sole community hospital under paragraph (a)(3) of this section.
 
-(iii) A sole community hospital must report to the fiscal intermediary if it becomes aware of any change that would affect its classification as a sole community hospital beyond the events listed in paragraph (b)(3)(ii) of this section within 30 days of the event. If CMS determines that a sole community hospital has failed to comply with this requirement, CMS will cancel the hospital's classification as a sole community hospital effective with the date the hospital became aware of the event that resulted in the sole community hospital no longer meeting the criteria for such classification, consistent with the provisions of § 405.1885 of this chapter.
+(iii) A sole community hospital must report to the MAC if it becomes aware of any change that would affect its classification as a sole community hospital beyond the events listed in paragraph (b)(3)(ii) of this section within 30 days of the event. If CMS determines that a sole community hospital has failed to comply with this requirement, CMS will cancel the hospital's classification as a sole community hospital effective with the date the hospital became aware of the event that resulted in the sole community hospital no longer meeting the criteria for such classification, consistent with the provisions of § 405.1885 of this chapter.
 
-(iv) A sole community hospital must report to the fiscal intermediary or MAC any factor or information that could have affected its initial classification as a sole community hospital.
+(iv) A sole community hospital must report to the MAC any factor or information that could have affected its initial classification as a sole community hospital.
 
 (A) If CMS determines that a sole community hospital has failed to comply with the requirement of paragraph ((b)(3)(iv) of this section, CMS may cancel the hospital's classification as a sole community hospital effective with the date the hospital failed to meet the criteria for such classification, consistent with the provisions of § 405.1885 of this chapter.
 
@@ -104,7 +106,7 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (v) For cost reporting periods beginning on or after January 1, 2009, the hospital-specific rate as determined under § 412.78.
 
-(2) *Transition of FY 1996 hospital-specific rate.* The intermediary calculates the hospital-specific rate determined on the basis of the fiscal year 1996 base period rate as follows:
+(2) *Transition of FY 1996 hospital-specific rate.* The MAC calculates the hospital-specific rate determined on the basis of the fiscal year 1996 base period rate as follows:
 
 (i) For Federal fiscal year 2001, the hospital-specific rate is the sum of 75 percent of the greater of the amounts specified in paragraph (d)(1)(i), (d)(1)(ii), or (d)(1)(iii) of this section, plus 25 percent of the hospital-specific rate as determined under § 412.77.
 
@@ -116,17 +118,17 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (3) *Adjustment to payments.* A sole community hospital may receive an adjustment to its payments to take into account a significant decrease in the number of discharges, as described in paragraph (e) of this section.
 
-(e) *Additional payments to sole community hospitals experiencing a significant volume decrease.* (1) For cost reporting periods beginning on or after October 1, 1983, the intermediary provides for a payment adjustment for a sole community hospital for any cost reporting period during which the hospital experiences, due to circumstances as described in paragraph (e)(2) of this section a more than five percent decrease in its total discharges of inpatients as compared to its immediately preceding cost reporting period. If either the cost reporting period in question or the immediately preceding cost reporting period is other than a 12-month cost reporting period, the intermediary must convert the discharges to a monthly figure and multiply this figure by 12 to estimate the total number of discharges for a 12-month cost reporting period.
+(e) *Additional payments to sole community hospitals experiencing a significant volume decrease.* (1) For cost reporting periods beginning on or after October 1, 1983, the MAC provides for a payment adjustment for a sole community hospital for any cost reporting period during which the hospital experiences, due to circumstances as described in paragraph (e)(2) of this section a more than five percent decrease in its total discharges of inpatients as compared to its immediately preceding cost reporting period. If either the cost reporting period in question or the immediately preceding cost reporting period is other than a 12-month cost reporting period, the MAC must convert the discharges to a monthly figure and multiply this figure by 12 to estimate the total number of discharges for a 12-month cost reporting period.
 
-(2) To qualify for a payment adjustment on the basis of a decrease in discharges, a sole community hospital must submit its request no later than 180 days after the date on the intermediary's Notice of Amount of Program Reimbursement -
+(2) To qualify for a payment adjustment on the basis of a decrease in discharges, a sole community hospital must submit its request no later than 180 days after the date on the MAC's Notice of Amount of Program Reimbursement -
 
-(i) Submit to the intermediary documentation demonstrating the size of the decrease in discharges, and the resulting effect on per discharge costs; and
+(i) Submit to the MAC documentation demonstrating the size of the decrease in discharges, and the resulting effect on per discharge costs; and
 
 (ii) Show that the decrease is due to circumstances beyond the hospital's control.
 
-(3) Effective for cost reporting periods beginning before October 1, 2017, the intermediary determines a lump sum adjustment amount not to exceed the difference between the hospital's Medicare inpatient operating costs and the hospital's total DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105). Effective for cost reporting periods beginning on or after October 1, 2017, the MAC determines a lump sum adjustment amount equal to the difference between the hospital's fixed Medicare inpatient operating costs and the hospital's total MS-DRG revenue based on MS-DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105) multiplied by the ratio of the hospital's fixed inpatient operating costs to its total inpatient operating costs.
+(3) Effective for cost reporting periods beginning before October 1, 2017, the MAC determines a lump sum adjustment amount not to exceed the difference between the hospital's Medicare inpatient operating costs and the hospital's total DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105). Effective for cost reporting periods beginning on or after October 1, 2017, the MAC determines a lump sum adjustment amount equal to the difference between the hospital's fixed Medicare inpatient operating costs and the hospital's total MS-DRG revenue based on MS-DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105) multiplied by the ratio of the hospital's fixed inpatient operating costs to its total inpatient operating costs.
 
-(i) In determining the adjustment amount, the intermediary considers -
+(i) In determining the adjustment amount, the MAC considers -
 
 (A) The individual hospital's needs and circumstances, including the reasonable cost of maintaining necessary core staff and services in view of minimum staffing requirements imposed by State agencies;
 
@@ -134,8 +136,8 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (C) The length of time the hospital has experienced a decrease in utilization.
 
-(ii) The intermediary makes its determination within 180 days from the date it receives the hospital's request and all other necessary information.
+(ii) The MAC makes its determination within 180 days from the date it receives the hospital's request and all other necessary information.
 
-(iii) The intermediary determination is subject to review under subpart R of part 405 of this chapter.
+(iii) The MAC determination is subject to review under subpart R of part 405 of this chapter.
 
-[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.92, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.92, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

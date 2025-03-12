@@ -1,7 +1,5 @@
 ##### § 1304.412 Definitions. #####
 
-Link to an amendment published at 83 FR 44474, Aug. 31, 2018.
-
 Except as the context may otherwise require, the following words or terms, when used in this part 1304, have the meaning specified in this section.
 
 *100-year floodplain* means that area inundated by the one percent annual chance (or 100-year) flood.
@@ -28,6 +26,8 @@ Except as the context may otherwise require, the following words or terms, when 
 
 *Enclosed structure* means a structure enclosed overhead and on all sides so as to keep out the weather.
 
+*Existing floating cabin* means a floating cabin that was located or moored on the Tennessee River System on or before December 16, 2016.
+
 *Flood control storage* means the volume within an elevation range on a TVA reservoir that is reserved for the storage of floodwater.
 
 *Flood control storage zone* means the area within an elevation range on a TVA reservoir that is reserved for the storage of floodwater. TVA shall, upon request, identify the contour marking the upper limit of the flood control storage zone at particular reservoir locations.
@@ -44,15 +44,19 @@ Except as the context may otherwise require, the following words or terms, when 
 
 *Maximum shoreline contour* means an elevation typically five feet above the top of the gates of a TVA dam. It is sometimes the property boundary between TVA property and adjoining private property.
 
-*Nonnavigable houseboat* means any houseboat not in compliance with one or more of the criteria defining a navigable houseboat.
+*New floating cabin* means a floating cabin that was not located or moored on the Tennessee River System on or before December 16, 2016.
 
 *Owner or landowner* ordinarily means all of the owners of a parcel of land. Except as otherwise specifically provided in this part, in all cases where TVA approval is required to engage in an activity and the applicant's eligibility to seek approval depends on status as an owner of real property, the owner or owners of only a fractional interest or of fractional interests totaling less than one in any such property shall not be considered, by virtue of such fractional interest or interests only, to be an owner and as such eligible to seek approval to conduct the activity without the consent of the other co-owners. In cases where the applicant owns water access rights across adjoining private property that borders TVA-owned shoreland, TVA may exercise its discretion to consider such person an owner, taking into account the availability of the shoreline to accommodate similarly situated owners and such other factors as TVA deems to be appropriate. In subdivisions where TVA had an established practice prior to September 8, 2003 of permitting individual or common water-use facilities on or at jointly-owned lots without the consent of all co-owners, TVA may exercise its discretion to continue such practice, taking into account the availability of the shoreline to accommodate similarly situated owners and other factors as TVA deems to be appropriate; provided, however, that the issuance of a TVA permit conveys no property interests, and the objections of a co-owner may be a basis for revocation of the permit.
+
+*Rebuilding* means replacement of all or a significant portion of an approved obstruction to the same configuration, total footprint, and dimensions (length, width, and height) as the approved plans, standards, and conditions of the Section 26a permit.
 
 *Shoreland* means the surface of land lying between minimum winter pool elevation of a TVA reservoir and the maximum shoreline contour.
 
 *Shoreline* means the line where the water of a TVA reservoir meets the shore when the water level is at the full summer pool elevation.
 
 *Shoreline Management Zone (SMZ)* means a 50-foot-deep vegetated zone designated by TVA on TVA-owned land.
+
+*Tennessee River System* means TVA reservoirs, the Tennessee River or any of the Tennessee River's tributaries.
 
 *TVA* means the Tennessee Valley Authority.
 
@@ -68,4 +72,4 @@ Except as the context may otherwise require, the following words or terms, when 
 
 *Winter pool* means the lowest level expected for the reservoir during the flood season.
 
-[68 FR 46936, Aug. 7, 2003, as amended at 79 FR 4622, Jan. 29, 2014]
+[68 FR 46936, Aug. 7, 2003, as amended at 79 FR 4622, Jan. 29, 2014; 83 FR 44474, Aug. 31, 2018]

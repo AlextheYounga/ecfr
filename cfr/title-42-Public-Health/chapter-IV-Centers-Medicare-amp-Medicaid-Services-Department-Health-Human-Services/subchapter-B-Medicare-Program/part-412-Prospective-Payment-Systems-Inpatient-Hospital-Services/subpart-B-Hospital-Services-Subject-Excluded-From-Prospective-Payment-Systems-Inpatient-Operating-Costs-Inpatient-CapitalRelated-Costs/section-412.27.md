@@ -1,10 +1,8 @@
 ##### § 412.27 Excluded psychiatric units: Additional requirements. #####
 
-Link to an amendment published at 83 FR 38619, Aug. 6, 2018.
-
 In order to be excluded from the prospective payment system as specified in § 412.1(a)(1), and paid under the prospective payment system as specified in § 412.1(a)(2), a psychiatric unit must meet the following requirements:
 
-(a) Admit only patients whose admission to the unit is required for active treatment, of an intensity that can be provided appropriately only in an inpatient hospital setting, of a psychiatric principal diagnosis that is listed in the Fourth Edition, Text Revision of the American Psychiatric Association's Diagnostic and Statistical Manual, or in Chapter Five (“Mental Disorders”) of the International Classification of Diseases, Ninth Revision, Clinical Modification.
+(a) Admit only patients whose admission to the unit is required for active treatment, of an intensity that can be provided appropriately only in an inpatient hospital setting, of a psychiatric principal diagnosis that is listed in the International Classification of Diseases, Tenth Revision, Clinical Modification.
 
 (b) Furnish, through the use of qualified personnel, psychological services, social work services, psychiatric nursing, and therapeutic activities.
 
@@ -22,7 +20,7 @@ In order to be excluded from the prospective payment system as specified in § 4
 
 (v) When indicated, a complete neurological examination must be recorded at the time of the admission physical examination.
 
-(2) *Psychiatric evaluation.* Each inpatient must receive a psychiatric evaluation that must -
+(2) *Psychiatric evaluation.* Each inpatient must receive a psychiatric evaluation that must—
 
 (i) Be completed within 60 hours of admission;
 
@@ -48,7 +46,7 @@ In order to be excluded from the prospective payment system as specified in § 4
 
 (d) Meet special staff requirements in that the unit must have adequate numbers of qualified professional and supportive staff to evaluate inpatients, formulate written, individualized, comprehensive treatment plans, provide active treatment measures and engage in discharge planning, as follows:
 
-(1) *Personnel.* The unit must employ or undertake to provide adequate numbers of qualified professional, technical, and consultative personnel to -
+(1) *Personnel.* The unit must employ or undertake to provide adequate numbers of qualified professional, technical, and consultative personnel to—
 
 (i) Evaluate inpatients;
 
@@ -80,4 +78,4 @@ In order to be excluded from the prospective payment system as specified in § 4
 
 (ii) The number of qualified therapists, support personnel, and consultants must be adequate to provide comprehensive therapeutic activities consistent with each inpatient's active treatment program.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39820, Sept. 1, 1992; 59 FR 45397, 45400, Sept. 1, 1994; 69 FR 66976, Nov. 15, 2004; 71 FR 27086, May 9, 2006]
+[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39820, Sept. 1, 1992; 59 FR 45397, 45400, Sept. 1, 1994; 69 FR 66976, Nov. 15, 2004; 71 FR 27086, May 9, 2006; 83 FR 38619, Aug. 6, 2018]

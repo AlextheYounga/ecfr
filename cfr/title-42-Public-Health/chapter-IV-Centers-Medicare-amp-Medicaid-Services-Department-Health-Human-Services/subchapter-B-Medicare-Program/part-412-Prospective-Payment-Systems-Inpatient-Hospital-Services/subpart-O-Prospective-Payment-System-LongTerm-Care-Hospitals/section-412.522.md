@@ -1,7 +1,5 @@
 ##### § 412.522 Application of site neutral payment rate. #####
 
-Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
-
 (a) *General.* For discharges in cost reporting periods beginning on or after October 1, 2015 -
 
 (1) Except as provided for in paragraph (b) of this section, all discharges are paid based on the site neutral payment rate as determined under the provisions of paragraph (c) of this section.
@@ -62,6 +60,8 @@ Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
 
 (ii) 100 percent of the estimated cost of the case determined under the provisions of § 412.529(d)(2). The provisions for cost-to-charge ratios at § 412.529(f)(4)(i) through (iii) apply to the calculation of the estimated cost of the case under this paragraph.
 
+(iii) For discharges occurring in fiscal years 2018 through 2026, the amount in paragraph (c)(1)(i) of this section is reduced by 4.6 percent.
+
 (2) *Adjustments.* CMS adjusts the payment rate determined under paragraph (c)(1) of this section to account for -
 
 (i) Outlier payments, by applying a reduction factor equal to the estimated proportion of outlier payments under § 412.525(a) payable for discharges from a long-term care hospital described in paragraph (a)(1) of this section to total estimated payments under the long-term care hospital prospective payment system to discharges from a long-term care hospital described in paragraph (a)(1) of this section. The adjustment under this paragraph (c)(2)(i) does not include the portion of the blended payment rate described in paragraph (c)(3)(ii) of this section.
@@ -72,9 +72,7 @@ Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
 
 (iv) The special payment provisions for long-term care hospitals and satellite facilities of long-term care hospitals that discharged Medicare patients admitted from a hospital not located in the same building or on the same campus as the long-term care hospital or satellite facility of the long-term care hospital, as provided in § 412.536.
 
-(v) The limitation on long-term care hospital admissions from referring hospitals specified in § 412.538.
-
-(3) *Transition.* For discharges in cost reporting periods beginning on or after October 1, 2015 and on or before September 30, 2017, payment for discharges under paragraph (c)(1) of this section are made using a blended payment rate, which is determined as -
+(3) *Transition.* For discharges occurring in cost reporting periods beginning on or after October 1, 2015 and on or before September 30, 2019, payment for discharges under paragraph (c)(1) of this section are made using a blended payment rate, which is determined as -
 
 (i) 50 percent of the site neutral payment rate amount for the discharge as determined under paragraph (c)(1) of this section; and
 
@@ -84,4 +82,4 @@ Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
 
 (2) CMS will inform each long-term care hospital of its discharge payment percentage, as determined under paragraph (d)(1) of this section, for each cost reporting period beginning on or after October 1, 2015.
 
-[80 FR 49768, Sept. 1, 2015, as amended at 81 FR 23438, Apr. 21, 2016; 81 FR 57269, Aug. 22, 2016; 82 FR 38512, Aug. 14, 2017]
+[80 FR 49768, Sept. 1, 2015, as amended at 81 FR 23438, Apr. 21, 2016; 81 FR 57269, Aug. 22, 2016; 82 FR 38512, Aug. 14, 2017; 83 FR 41704, Aug. 17, 2018]

@@ -22,6 +22,6 @@
 
 (1) The sponsor must approve the agreement and certify in writing that it is necessary to carry out the purposes of subsection 708(c)(1) of the DPA;
 
-(2) The Director of the Federal Emergency Management Agency must approve this certification, and submit it to the Attorney General with a request for a written finding; and
+(2) The Administrator of the Federal Emergency Management Agency must approve this certification, and submit it to the Attorney General with a request for a written finding; and
 
 (3) The Attorney General, after consulting with the Chairman of the Federal Trade Commission, must issue a written finding that the purposes of subsection 708(c)(1) can not reasonably be achieved through a voluntary agreement having less anti-competitive effects or without any voluntary agreement.

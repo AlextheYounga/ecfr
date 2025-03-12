@@ -1,8 +1,6 @@
 ##### § 74.22 What are the procedures for cancellation? #####
 
-Link to an amendment published at 83 FR 48232, Sept. 24, 2018.
-
-(a) *General.* When CVE believes that a participant's verified status should be cancelled prior to the expiration of its eligibility term, CVE will notify the participant in writing. The Notice of Proposed Cancellation Letter will set forth the specific facts and reasons for CVE's findings, and will notify the participant that it has 30 days from the date it receives the letter to submit a written response to CVE explaining why the proposed ground(s) should not justify cancellation.
+(a) *General.* When CVE believes that a participant's verified status should be cancelled prior to the expiration of its eligibility term, CVE will notify the participant in writing. The Notice of Proposed Cancellation Letter will set forth the specific facts and reasons for CVE's findings and will notify the participant that it has 30 days from the date CVE sent the notice to submit a written response to CVE explaining why the proposed ground(s) should not justify cancellation.
 
 (b) *Recommendation and decision.* Following the 30-day response period, the Director, CVE, will consider any information submitted by the participant. Upon determining that cancellation is not warranted, the Director, CVE, will notify the participant in writing. If cancellation appears warranted, the Director, CVE, will make a decision whether to cancel the participant's verified status.
 
@@ -10,4 +8,6 @@ Link to an amendment published at 83 FR 48232, Sept. 24, 2018.
 
 (d) *Effect of verified status cancellation.* After the effective date of cancellation, a participant is no longer eligible to appear as “verified” in the VetBiz VIP database. However, such concern is obligated to perform previously awarded contracts to the completion of their existing term of performance.
 
-(e) *Appeals.* A participant may file an appeal with the Executive Director, Office of Small and Disadvantaged Business Utilization and Center for Veterans Enterprise, concerning the Notice of Verified Status Cancellation within 30 days of receipt of CVE's cancellation decision. “Filing” means a document is received by CVE by 5:30 p.m., eastern time, on that day. Documents may be filed by hand delivery, mail, commercial carrier, or facsimile transmission. Hand delivery and other means of delivery may not be practicable during certain periods due, for example, to security concerns or equipment failures. The filing party bears the risk that the delivery method chosen will not result in timely receipt at CVE. Submit appeals to: Executive Director, Office of Small and Disadvantaged Business Utilization and Center for Veterans Enterprise (00VE), U.S. Department of Veterans Affairs, 810 Vermont Avenue, NW., Washington, DC 20420. A formal decision will be issued within 60 days after receipt. The decision on the appeal shall be final.
+(e) *Appeals.* A participant may file an appeal with OHA concerning the Notice of Verified Status Cancellation decision in accordance with 13 CFR part 134. The decision on the appeal shall be final.
+
+[75 FR 6101, Feb. 8, 2010, as amended at 83 FR 48232, Sept. 24, 2018]

@@ -1,8 +1,6 @@
 ##### § 344.7 Settlement of securities transactions. #####
 
-Link to an amendment published at 83 FR 26349, June 7, 2018.
-
-(a) An FDIC-supervised institution shall not effect or enter into a contract for the purchase or sale of a security (other than an exempted security as defined in 15 U.S.C. 78c(a)(12), government security, municipal security, commercial paper, bankers' acceptances, or commercial bills) that provides for payment of funds and delivery of securities later than the third business day after the date of the contract unless otherwise expressly agreed to by the parties at the time of the transaction.
+(a) All contracts effected or entered into by an FDIC-supervised institution that provide for the purchase or sale of a security (other than an exempted security as defined in 15 U.S.C. 78c(a)(12), government security, municipal security, commercial paper, bankers' acceptances, or commercial bills) shall provide for completion of the transaction within the number of business days in the standard settlement cycle followed by registered broker dealers in the United States, unless otherwise agreed to by the parties at the time of the transaction. The number of business days in the standard settlement cycle shall be determined by reference to paragraph (a) of SEC Rule 15c6-1, 17 CFR 240.15c6-1(a).
 
 (b) Paragraphs (a) and (c) of this section shall not apply to contracts:
 
@@ -13,3 +11,5 @@ Link to an amendment published at 83 FR 26349, June 7, 2018.
 (c) Paragraph (a) of this section shall not apply to contracts for the sale for cash of securities that are priced after 4:30 p.m. Eastern time on the date the securities are priced and that are sold by an issuer to an underwriter pursuant to a firm commitment underwritten offering registered under the Securities Act of 1933, 15 U.S.C. 77a et seq., or sold to an initial purchaser by an FDIC-supervised institution participating in the offering. An FDIC-supervised institution shall not effect or enter into a contract for the purchase or sale of the securities that provides for payment of funds and delivery of securities later than the fourth business day after the date of the contract unless otherwise expressly agreed to by the parties at the time of the transaction.
 
 (d) For the purposes of paragraphs (a) and (c) of this section, the parties to a contract shall be deemed to have expressly agreed to an alternate date for payment of funds and delivery of securities at the time of the transaction for a contract for the sale for cash of securities pursuant to a firm commitment offering if the managing underwriter and the issuer have agreed to the date for all securities sold pursuant to the offering and the parties to the contract have not expressly agreed to another date for payment of funds and delivery of securities at the time of the transaction.
+
+[78 FR 76723, Dec. 19, 2013, as amended at 83 FR 26349, June 7, 2018]

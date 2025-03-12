@@ -1,10 +1,8 @@
 ##### § 151.2060 Reporting requirements. #####
 
-Link to an amendment published at 83 FR 47293, Sept. 19, 2018.
-
 (a) Ballast water reporting requirements exist for each vessel subject to this subpart bound for ports or places of the United States regardless of whether a vessel operated outside of the Exclusive Economic Zone (EEZ), unless exempted in § 151.2015 of this subpart.
 
-(b) Unless operating exclusively on voyages between ports or places within a single COTP Zone, the master, owner, operator, agent, or person in charge of a vessel subject to this subpart and this section must submit a ballast water report to the National Ballast Information Clearinghouse (NBIC) by electronic ballast water report format using methods specified at NBIC's Web site at *http://invasions.si.edu/nbic/submit.html*. The ballast water report will include the information listed in paragraph (c) of this section and must be submitted as follows:
+(b) The master, owner, operator, agent, or person in charge of a vessel subject to this subpart and this section must submit a ballast water report to the National Ballast Information Clearinghouse (NBIC) by electronic ballast water report format using methods specified at NBIC's Web site at *http://invasions.si.edu/nbic/submit.html*. The ballast water report will include the information listed in paragraph (c) of this section and must be submitted as follows:
 
 (1) *For any vessel bound for the Great Lakes from outside the EEZ.* (i) Submit a ballast water report at least 24 hours before the vessel arrives in Montreal, Quebec.
 
@@ -36,20 +34,4 @@ Link to an amendment published at 83 FR 47293, Sept. 19, 2018.
 
 (d) If the information submitted in accordance with paragraph (c) of this section changes, the master, owner, operator, agent, or person in charge of the vessel must submit an amended report before the vessel departs the waters of the United States or not later than 24 hours after departure from the port or place, whichever is earlier.
 
-(e) The master, owner, operator, agent, or person in charge of a vessel operating on voyages exclusively between ports or places within a single COTP Zone, and subject to this subpart and this section, must submit the information required by paragraph (f) of this section to NBIC by electronic Annual Ballast Water Summary Report format using methods specified at NBIC's Web site at *http://invasions.si.edu/nbic/submit.html*. The Annual Ballast Water Summary Report is required for a period of three years on the following schedule:
-
-(1) Report on the vessel's ballasting practices for calendar year 2016 due no later than March 31, 2017.
-
-(2) Report on the vessel's ballasting practices for calendar year 2017 due no later than March 31, 2018.
-
-(3) Report on the vessel's ballasting practices for calendar year 2018 due no later than March 31, 2019.
-
-(f) The Annual Ballast Water Summary Report will include the following information:
-
-(1) *Vessel information.* This includes name, identification number, vessel type, operator, tonnage, call sign and COTP Zone of operation.
-
-(2) *Ballast information.* This includes the number of ballast tanks and total ballast water capacity.
-
-(3) *Operational information.* This includes the estimated number of times ballast water is discharged, estimated volume of ballast water discharged each time, primary port of ballast water loading, primary port of ballast water discharge, and certification of compliance with § 151.2050.
-
-[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended by USCG-2012-0924, 80 FR 73114, Nov. 24, 2015]
+[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended by USCG-2012-0924, 80 FR 73114, Nov. 24, 2015; USCG-2018-0245, 83 FR 47292, Sept. 19, 2018]

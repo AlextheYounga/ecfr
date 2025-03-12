@@ -1,7 +1,5 @@
 ##### § 412.103 Special treatment: Hospitals located in urban areas and that apply for reclassification as rural. #####
 
-Link to an amendment published at 83 FR 41703, Aug. 17, 2018.
-
 (a) *General criteria.* A prospective payment hospital that is located in an urban area (as defined in subpart D of this part) may be reclassified as a rural hospital if it submits an application in accordance with paragraph (b) of this section and meets any of the following conditions:
 
 (1) The hospital is located in a rural census tract of a Metropolitan Statistical Area (MSA) as determined under the most recent version of the Goldsmith Modification, the Rural-Urban Commuting Area codes, as determined by the Office of Rural Health Policy (ORHP) of the Health Resources and Services Administration, which is available via the ORHP Web site at: *http://www.ruralhealth.hrsa.gov* or from the U.S. Department of Health and Human Services, Health Resources and Services Administration, Office of Rural Health Policy, 5600 Fishers Lane, Room 9A-55, Rockville, MD 20857.
@@ -16,6 +14,8 @@ Link to an amendment published at 83 FR 41703, Aug. 17, 2018.
 
 (6) For any period on or after October 1, 2014, a CAH in a county that was not in an urban area as defined by the Office of Management and Budget (OMB), but was included in an urban area as a result of the most recent OMB standards for delineating statistical areas adopted by CMS and the most recent Census Bureau data, may be reclassified as being located in a rural area for purposes of meeting the rural location requirement at § 485.610(b) of this chapter for a period of 2 years, beginning with the date of the implementation of the new labor market area delineations, if it meets any of the requirements under paragraph (a)(1), (a)(2), or (a)(3) of this section.
 
+(7) For a hospital with a main campus and one or more remote locations under a single provider agreement where services are provided and billed under the inpatient hospital prospective payment system and that meets the provider-based criteria at § 413.65 of this chapter as a main campus and a remote location of a hospital, the hospital is required to demonstrate that the main campus and its remote location(s) each independently satisfy the location conditions specified in paragraphs (a)(1) and (2) of this section.
+
 (b) *Application requirements* - (1) *Written application.* A hospital seeking reclassification under this section must submit a complete application in writing to CMS in accordance with paragraphs (b)(2) and (b)(3) of this section.
 
 (2) *Contents of application.* An application is complete if it contains an explanation of how the hospital meets the condition that constitutes the basis of the request for reclassification set forth in paragraph (a) of this section, including data and documentation necessary to support the request.
@@ -26,7 +26,7 @@ Link to an amendment published at 83 FR 41703, Aug. 17, 2018.
 
 (5) *Filing date.* The filing date of the application is the date CMS receives the application.
 
-(6) *Lock-in date for the wage index calculation and budget neutrality.* In order for a hospital to be treated as rural in the wage index and budget neutrality calculations under § 412.64(e)(1)(ii), (2), and (4) and (h) for the payment rates for the next Federal fiscal year, the hospital's filing date must be no later than 70 days prior to the second Monday in June of the current Federal fiscal year and the application must be approved by the CMS Regional Office in accordance with the requirements of this section.
+(6) *Lock-in date for the wage index calculation and budget neutrality.* In order for a hospital to be treated as rural in the wage index and budget neutrality calculations under § 412.64(e)(1)(ii), (e)(2) and (4), and (h) for the payment rates for the next Federal fiscal year, the hospital's application must be approved by the CMS Regional Office in accordance with the requirements of this section no later than 60 days after the public display date at the Office of the Federal Register of the inpatient prospective payment system proposed rule for the next Federal fiscal year.
 
 (c) *CMS review.* The CMS Regional Office will review the application and notify the hospital of its approval or disapproval of the request within 60 days of the filing date.
 
@@ -52,4 +52,4 @@ Link to an amendment published at 83 FR 41703, Aug. 17, 2018.
 
 (iii) The provisions of paragraphs (g)(2)(i) and (g)(2)(ii) of this section are effective for all written requests submitted by hospitals on or after October 1, 2007, to cancel rural reclassifications.
 
-[65 FR 47048, Aug. 1, 2000, as amended at 69 FR 49244, Aug. 11, 2004; 69 FR 60252, Oct. 7, 2004; 70 FR 47486, Aug. 12, 2005; 72 FR 47411, Aug. 22, 2007; 74 FR 43997, Aug. 27, 2009; 79 FR 50353, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016]
+[65 FR 47048, Aug. 1, 2000, as amended at 69 FR 49244, Aug. 11, 2004; 69 FR 60252, Oct. 7, 2004; 70 FR 47486, Aug. 12, 2005; 72 FR 47411, Aug. 22, 2007; 74 FR 43997, Aug. 27, 2009; 79 FR 50353, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 83 FR 41703, Aug. 17, 2018]

@@ -1,5 +1,7 @@
 ##### 852.211-74 Liquidated damages. #####
 
+Link to an amendment published at 83 FR 49307, Oct. 1, 2018.
+
 As prescribed in 811.503 and 836.206, the contracting officer may insert the following clause when appropriate:
 
 Liquidated Damages (JAN 2008)

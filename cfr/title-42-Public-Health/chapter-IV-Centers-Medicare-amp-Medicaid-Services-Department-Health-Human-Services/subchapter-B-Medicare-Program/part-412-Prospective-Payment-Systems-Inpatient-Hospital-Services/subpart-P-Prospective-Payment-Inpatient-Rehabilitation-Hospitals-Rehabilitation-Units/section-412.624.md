@@ -1,7 +1,5 @@
 ##### § 412.624 Methodology for calculating the Federal prospective payment rates. #####
 
-Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
-
 (a) *Data used.* To calculate the prospective payment rates for inpatient hospital services furnished by inpatient rehabilitation facilities, we use -
 
 (1) The most recent Medicare data available, as of the date of establishing the inpatient rehabilitation facility prospective payment system, to estimate payments for inpatient operating and capital-related costs made under part 413 of this subchapter;
@@ -26,9 +24,11 @@ Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
 
 (4) Applicable increase factor for FY 2014 and for subsequent FY. Subject to the provisions of paragraphs (c)(4)(i) and (c)(4)(ii) of this section, the applicable increase factor for FY 2014 and for subsequent years for updating the standard payment conversion factor is the increase factor described in paragraph (a)(3) of this section, including adjustments described in paragraph (d) of this section as appropriate.
 
-(i) In the case of an IRF that is paid under the prospective payment system specified in § 412.1(a)(3) of this part that does not submit quality data to CMS, in the form and manner specified by CMS, the applicable increase factor specified in paragraph (a)(3) of this section is reduced by 2 percentage points.
+(i) In the case of an IRF that is paid under the prospective payment system specified in § 412.1(a)(3) that does not submit quality data to CMS in accordance with § 412.634, the applicable increase factor specified in paragraph (a)(3) of this section, after application of subparagraphs (C)(iii) and (D) of section 1886(j)(3) of the Act, is reduced by 2 percentage points.
 
 (ii) Any reduction of the increase factor will apply only to the fiscal year involved and will not be taken into account in computing the applicable increase factor for a subsequent fiscal year.
+
+(iii) The 2 percentage point reduction described in paragraph (c)(4)(i) of this section may result in the applicable increase factor specified in paragraph (a)(3) of this section being less than 0.0 for a fiscal year, and may result in payment rates under the prospective payment system specified in § 412.1(a)(3) for a fiscal year being less than such payment rates for the preceding fiscal year.
 
 (5) *Determining the Federal prospective payment rate for each case-mix group.* The Federal prospective payment rates for each case-mix group is the product of the weighting factors described in § 412.620(b) and the standard payment conversion factor described in paragraph (c)(3) of this section.
 
@@ -90,4 +90,4 @@ Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
 
 (ii) If the reason for the interrupted patient stay is to receive inpatient acute care hospital services, an amount based on the prospective payment systems described in § 412.1(a)(1) made to the acute care hospital.
 
-[66 FR 41388, Aug. 7, 2001, as amended at 67 FR 44077, July 1, 2002; 68 FR 45700, Aug. 1, 2003; 70 FR 47952, Aug. 15, 2005; 71 FR 48408, Aug. 18, 2006; 72 FR 44312, Aug. 7, 2007; 76 FR 47892, Aug. 5, 2011; 82 FR 36305, Aug. 3, 2017]
+[66 FR 41388, Aug. 7, 2001, as amended at 67 FR 44077, July 1, 2002; 68 FR 45700, Aug. 1, 2003; 70 FR 47952, Aug. 15, 2005; 71 FR 48408, Aug. 18, 2006; 72 FR 44312, Aug. 7, 2007; 76 FR 47892, Aug. 5, 2011; 82 FR 36305, Aug. 3, 2017; 83 FR 38573, Aug. 6, 2018]

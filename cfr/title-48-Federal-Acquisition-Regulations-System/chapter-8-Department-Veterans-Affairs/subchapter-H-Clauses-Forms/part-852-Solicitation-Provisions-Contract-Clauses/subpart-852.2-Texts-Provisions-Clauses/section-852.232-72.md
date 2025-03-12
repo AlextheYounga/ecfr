@@ -1,5 +1,7 @@
 ##### 852.232-72 Electronic submission of payment requests. #####
 
+Link to an amendment published at 83 FR 49310, Oct. 1, 2018.
+
 As prescribed in 832.7002-2, insert the following clause:
 
 Electronic Submission of Payment Requests (NOV 2012)

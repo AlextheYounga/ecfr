@@ -1,12 +1,10 @@
 ##### § 1304.204 Docks, piers, and boathouses. #####
 
-Link to an amendment published at 83 FR 44474, Aug. 31, 2018.
-
 Applicants are responsible for submitting plans for proposed docks, piers, and boathouses that conform to the size standards specified in this section. Where and if site constraints at the proposed construction location preclude a structure of the maximum size, TVA shall determine the size of facility that may be approved. Applicants are required to submit accurate drawings with dimensions of all proposed facilities.
 
-(a) Docks, piers, boathouses, and all other residential water-use facilities shall not exceed a total footprint area of greater than 1000 square feet.
+(a) Docks, piers, boathouses, and all other residential water-use facilities shall not exceed a total footprint area of greater than 1,000 square feet, unless the proposed water-use facility will be located in an area of preexisting development. For the purpose of this regulation, “preexisting development” means either: The water-use facility will be located in a subdivision recorded before November 1, 1999, and TVA permitted at least one water-use facility in the subdivision prior to November 1, 1999; or if there is no subdivision, where the water-use facility will be located within a quarter-mile radius of another water-use facility that TVA permitted prior to November 1, 1999. TVA may allow even larger facilities where an applicant requests and justifies a waiver or variance, set forth in §§ 1304.212 and 1304.408 respectively, but such waivers or variances shall be made in TVA's discretion and on a case-by-case basis.
 
-(b) Docks, boatslips, piers, and fixed or floating boathouses are allowable. These and other water-use facilities associated with a lot must be sited within a 1000-square-foot rectangular or square area at the lakeward end of the access walkway that extends from the shore to the structure. Access walkways to the water-use structure are not included in calculating the 1000-foot area.
+(b) Docks, boatslips, piers, and fixed or floating boathouses are allowable. These and other water-use facilities associated with a lot must be sited within a 1,000- or 1,800-square-foot rectangular or square area as required by § 1304.204(a) at the lakeward end of the access walkway that extends from the shore to the structure. Access walkways to the water-use structure are not included in calculating the 1,000- or 1,800-square foot area.
 
 (c) Docks and walkway(s) shall not extend more than 150 feet from the shoreline, or more than one-third the distance to the opposite shoreline, whichever is less.
 
@@ -30,10 +28,12 @@ Applicants are responsible for submitting plans for proposed docks, piers, and b
 
 (m) Docks, piers, and boathouses shall not contain living space or sleeping areas. Floor space shall not be considered enclosed if three of the four walls are constructed of wire or screen mesh from floor to ceiling, and the wire or screen mesh leaves the interior of the structure open to the weather.
 
-(n) Except for nonnavigable houseboats approved in accordance with subpart B of this part, toilets and sinks are not permitted on water-use facilities.
+(n) Except for floating cabins approved in accordance with subpart B of this part, toilets and sinks are not permitted on water-use facilities.
 
 (o) Covered docks, boatslips, and boathouses shall not exceed one story in height.
 
 (p) Second stories on covered docks, piers, boatslips, or boathouses may be constructed as open decks with railing, but shall not be covered by a roof or enclosed with siding or screening.
 
 (q) In congested areas or in other circumstances deemed appropriate by TVA, TVA may require an applicant's dock, pier, or boathouse to be located on an area of TVA shoreline not directly fronting the applicant's property.
+
+[68 FR 46936, Aug. 7, 2003, as amended at 83 FR 44474, Aug. 31, 2018]

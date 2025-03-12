@@ -1,5 +1,7 @@
 ##### § 3050.25 Volume and revenue data. #####
 
+Link to an amendment published at 83 FR 49293, Oct. 1, 2018.
+
 (a) The items in paragraphs (b) through (e) of this section shall be provided.
 
 (b) The Revenue, Pieces, and Weight (RPW) report, including estimates by shape, weight, and indicia, and the underlying billing determinants, broken out by quarter, within 90 days of the close of each fiscal year;

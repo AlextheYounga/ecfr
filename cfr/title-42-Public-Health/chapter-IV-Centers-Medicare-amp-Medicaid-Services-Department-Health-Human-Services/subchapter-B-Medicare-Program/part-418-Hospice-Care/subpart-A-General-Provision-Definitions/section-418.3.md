@@ -1,20 +1,20 @@
 ##### § 418.3 Definitions. #####
 
-Link to an amendment published at 83 FR 38654, August 6, 2018.
-
 For purposes of this part -
 
 *Attending physician* means a -
 
 (1)(i) Doctor of medicine or osteopathy legally authorized to practice medicine and surgery by the State in which he or she performs that function or action; or
 
-(ii) Nurse practitioner who meets the training, education, and experience requirements as described in § 410.75 (b) of this chapter.
+(ii) Nurse practitioner who meets the training, education, and experience requirements as described in § 410.75(b) of this chapter; or
+
+(iii) Physician assistant who meets the requirements of § 410.74(c) of this chapter.
 
 (2) Is identified by the individual, at the time he or she elects to receive hospice care, as having the most significant role in the determination and delivery of the individual's medical care.
 
 *Bereavement counseling* means emotional, psychosocial, and spiritual support and services provided before and after the death of the patient to assist with issues related to grief, loss, and adjustment.
 
-*Cap period* means the twelve-month period ending October 31 used in the application of the cap on overall hospice reimbursement specified in § 418.309.
+*Cap period* means the twelve-month period ending September 30 used in the application of the cap on overall hospice reimbursement specified in § 418.309.
 
 *Clinical note* means a notation of a contact with the patient and/or the family that is written and dated by any person providing services and that describes signs and symptoms, treatments and medications administered, including the patient's reaction and/or response, and any changes in physical, emotional, psychosocial or spiritual condition during a given period of time.
 
@@ -56,4 +56,4 @@ For purposes of this part -
 
 *Terminally ill* means that the individual has a medical prognosis that his or her life expectancy is 6 months or less if the illness runs its normal course.
 
-[48 FR 56026, Dec. 16, 1983, as amended at 52 FR 4499, Feb. 12, 1987; 55 FR 50834, Dec. 11, 1990; 70 FR 45144, Aug. 4, 2005; 72 FR 50227, Aug. 31, 2007; 73 FR 32204, June 5, 2008; 79 FR 50509, Aug. 22, 2014]
+[48 FR 56026, Dec. 16, 1983, as amended at 52 FR 4499, Feb. 12, 1987; 55 FR 50834, Dec. 11, 1990; 70 FR 45144, Aug. 4, 2005; 72 FR 50227, Aug. 31, 2007; 73 FR 32204, June 5, 2008; 79 FR 50509, Aug. 22, 2014; 83 FR 38654, Aug. 6, 2018]

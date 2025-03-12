@@ -1,6 +1,6 @@
 ##### § 1102.24 Filing requirements. #####
 
-(a) *Filing.* All papers filed with the ASC in any proceeding shall be filed with the Secretary, Appraisal Subcommittee, 2000 K Street, NW., Suite 310, Washington, DC 20006.
+(a) *Filing.* All papers filed with the ASC in any proceeding shall be filed with the Secretary, Appraisal Subcommittee, 1325 G Street NW, Suite 500, Washington, DC 20005.
 
 (b) *Manner of filing.* Unless otherwise specified by the ASC, filing may be accomplished by:
 

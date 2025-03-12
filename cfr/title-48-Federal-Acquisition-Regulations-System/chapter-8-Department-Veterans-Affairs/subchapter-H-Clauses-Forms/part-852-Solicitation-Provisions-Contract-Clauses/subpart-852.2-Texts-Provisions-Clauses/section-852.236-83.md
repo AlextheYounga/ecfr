@@ -1,5 +1,7 @@
 ##### 852.236-83 Payments under fixed-price construction contracts (including NAS). #####
 
+Link to an amendment published at 83 FR 49311, Oct. 1, 2018.
+
 As prescribed in 832.111, insert the following clause in contracts that contain a section entitled “Network Analysis System (NAS).”
 
 Payments Under Fixed-Price Construction Contracts (JUL 2002)

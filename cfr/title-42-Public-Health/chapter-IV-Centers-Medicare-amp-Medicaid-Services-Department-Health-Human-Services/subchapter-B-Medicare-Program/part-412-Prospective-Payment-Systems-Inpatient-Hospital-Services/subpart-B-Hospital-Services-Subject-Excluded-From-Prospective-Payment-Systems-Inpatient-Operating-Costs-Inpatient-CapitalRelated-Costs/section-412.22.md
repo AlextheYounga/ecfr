@@ -1,7 +1,5 @@
 ##### § 412.22 Excluded hospitals and hospital units: General rules. #####
 
-Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
-
 (a) *Criteria.* Subject to the criteria set forth in paragraph (e) of this section, a hospital is excluded from the prospective payment systems specified in § 412.1(a)(1) of this part if it meets the criteria for one or more of the excluded classifications described in § 412.23. For purposes of this subpart, the term “hospital” includes a critical access hospital (CAH).
 
 (b) *Cost reimbursement.* Except for those hospitals specified in paragraph (c) of this section, and § 412.20(b), (c), and (d), all excluded hospitals (and excluded hospital units, as described in § 412.23 through § 412.29) are reimbursed under the cost reimbursement rules set forth in part 413 of this chapter, and are subject to the ceiling on the rate of hospital cost increases as specified in § 413.40 of this chapter.
@@ -102,6 +100,8 @@ Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
 
 (G) It reports its costs on the cost report of the hospital of which it is a part, covering the same fiscal period and using the same method of apportionment as the hospital of which it is a part.
 
+(*4*) On or after October 1, 2018, a satellite facility that is part of a hospital excluded from the prospective payment systems specified in § 412.1(a)(1) that provides inpatient services in a building also used by another hospital that is excluded from the prospective payment systems specified in § 412.1(a)(1), or in one or more entire buildings located on the same campus as buildings used by another hospital that is excluded from the prospective payment systems specified in § 412.1(a)(1), is not required to meet the criteria specified in paragraphs (h)(2)(iii)(A)(*1*) through (*3*) of this section in order to be excluded from the inpatient prospective payment system. A satellite facility that is part of a hospital excluded from the prospective payment systems specified in § 412.1(a)(1) which is located in a building also used by another hospital that is not excluded from the prospective payment systems specified in § 412.1(a)(1), or in one or more entire buildings located on the same campus as buildings used by another hospital that is not excluded from the prospective payment systems specified in § 412.1(a)(1), is required to meet the criteria specified in paragraphs (h)(2)(iii)(A)(*1*) through (*3*) of this section in order to be excluded from the prospective payment systems specified in § 412.1(a)(1).
+
 (3) Except as provided in paragraphs (h)(4) and (h)(5) of this section, the provisions of paragraph (h)(2) of this section do not apply to -
 
 (i) Any hospital structured as a satellite facility on September 30, 1999, and excluded from the prospective payment systems on that date, to the extent the hospital continues operating under the same terms and conditions, including the number of beds and square footage considered, for the purposes of Medicare participation and payment, to be part of the hospital, in effect on September 30, 1999; or
@@ -130,4 +130,4 @@ Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
 
 (2) *Payment to extended neoplastic disease care hospitals.* Payment for inpatient operating costs for hospitals classified under paragraph (i)(1) of this section is made as set forth in § 412.526(c)(3). Payment for capital costs for hospitals classified under paragraph (i)(1) of this section is made as set forth in § 412.526(c)(4).
 
-[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

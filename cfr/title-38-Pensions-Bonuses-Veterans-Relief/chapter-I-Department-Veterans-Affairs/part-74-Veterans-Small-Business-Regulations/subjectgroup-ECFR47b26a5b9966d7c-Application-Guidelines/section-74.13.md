@@ -1,10 +1,8 @@
-##### § 74.13 Can an applicant ask CVE to reconsider its initial decision to deny an application? #####
+##### § 74.13 Can an applicant appeal CVE's initial decision to deny an application? #####
 
-Link to an amendment published at 83 FR 48231, Sept. 24, 2018.
+(a) An applicant may appeal CVE's decision to deny an application by filing an appeal with the United States Small Business Administration (SBA) Office of Hearings and Appeals (OHA) after the applicant receives the denial in accordance with 13 CFR part 134. The filing party bears the risk that the delivery method chosen will not result in timely receipt by OHA.
 
-(a) An applicant may request that the Director, CVE, reconsider his or her decision to deny an application by filing a request for reconsideration with CVE within 30 days of receipt of CVE's denial decision. “Filing” means a document is received by CVE by 5:30 p.m., eastern time, on that day. Documents may be filed by hand delivery, mail, commercial carrier, or facsimile transmission. Hand delivery and other means of delivery may not be practicable during certain periods due, for example, to security concerns or equipment failures. The filing party bears the risk that the delivery method chosen will not result in timely receipt at CVE. Submit requests for reconsideration to: Director, Center for Veterans Enterprise (00VE), U.S. Department of Veterans Affairs, 810 Vermont Avenue, NW., Washington, DC 20420. A formal decision will be issued within 60 days after receipt.
-
-(b) The Director, CVE, will issue a written decision within 60 days, when practicable, of receipt of the applicant's request. The Director, CVE, may either approve the application, deny it on the same grounds as the original decision, or deny it on other grounds. If denied, the Director, CVE, will explain why the applicant is not eligible for the VetBiz VIP Verification and give specific reasons for the denial.
+(b) A denial decision that is based on the failure to meet any veteran eligibility criteria is not subject to appeal and is the final decision of CVE.
 
 (c) If the Director, CVE, denies the application solely on issues not raised in the initial denial, the applicant may ask for reconsideration as if it were an initial denial.
 
@@ -15,3 +13,5 @@ Link to an amendment published at 83 FR 48231, Sept. 24, 2018.
 (f) Except as provided in paragraph (c) of this section, the decision on the request for reconsideration shall be final.
 
 (g) The decision may be sent by mail, commercial carrier, facsimile transmission, or other electronic means.
+
+[75 FR 6101, Feb. 8, 2010, as amended at 83 FR 48231, Sept. 24, 2018]

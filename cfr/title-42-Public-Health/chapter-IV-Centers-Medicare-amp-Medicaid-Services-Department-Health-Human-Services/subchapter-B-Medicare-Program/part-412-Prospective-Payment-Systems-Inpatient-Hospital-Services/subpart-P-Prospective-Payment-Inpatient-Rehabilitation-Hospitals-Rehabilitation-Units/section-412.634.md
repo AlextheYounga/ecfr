@@ -1,14 +1,28 @@
 ##### § 412.634 Requirements under the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program (QRP). #####
 
-Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
-
 (a) *Participation.* (1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the Certification and Survey Provider Enhanced Reports (CASPER) system.
 
 (2) [Reserved]
 
-(b) *Submission Requirements and Payment Impact.* (1) IRFs must submit to CMS data on measures specified under section 1886(j)(7)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, as applicable. Such data must be submitted in the form and manner, and at a time, specified by CMS.
+(b) *Submission requirements.* (1) IRFs must submit to CMS data on measures specified under sections 1886(j)(7)(D), 1899B(c)(1), 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act, as applicable. Such data must be submitted in the form and manner, and at a time, specified by CMS.
 
-(2) As required by section 1886(j)(7)(A)(i) of the Act, any IRF that does not submit data in accordance with section 1886(j)(7)(C) and (F) of the Act for a given fiscal year will have its annual update to the standard Federal rate for discharges for the IRF during the fiscal year reduced by two percentage points.
+(2) CMS may remove a quality measure from the IRF QRP based on one or more of the following factors:
+
+(i) Measure performance among IRFs is so high and unvarying that meaningful distinctions in improvements in performance can no longer be made;
+
+(ii) Performance or improvement on a measure does not result in better patient outcomes;
+
+(iii) A measure does not align with current clinical guidelines or practice;
+
+(iv) The availability of a more broadly applicable (across settings, populations, or conditions) measure for the particular topic;
+
+(v) The availability of a measure that is more proximal in time to desired patient outcomes for the particular topic;
+
+(vi) The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic;
+
+(vii) The collection or public reporting of a measure leads to negative unintended consequences other than patient harm;
+
+(viii) The costs associated with a measure outweigh the benefit of its continued use in the program.
 
 (c) *Exception and Extension Requirements.* (1) An IRF may request and CMS may grant exceptions or extensions to the measures data or standardized patient assessment data reporting requirements, for one or more quarters, when there are certain extraordinary circumstances beyond the control of the IRF.
 
@@ -38,7 +52,7 @@ Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
 
 (5) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
 
-(d) *Reconsideration.* (1) IRFs found to be non-compliant with the quality reporting requirements for a particular fiscal year will receive a letter of non-compliance through the Quality Improvement and Evaluation System Assessment Submission and Processing (QIES-ASAP) system, as well as through the United States Postal Service. IRFs must submit reconsideration requests no later than 30 calendar days after the date identified on the letter of non-compliance.
+(d) *Reconsideration.* (1) IRFs that do not meet the requirement in paragraph (b) of this section for a program year will receive a written notification of non-compliance through at least one of the following methods: Quality Improvement and Evaluation System Assessment Submission and Processing (QIES ASAP) system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
 
 (2) Reconsideration requests must be submitted to CMS by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
 
@@ -58,7 +72,7 @@ Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
 
 (4) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
 
-(5) The QIES-ASAP system and the United States Postal Service will be the two mechanisms used to distribute each IRF's compliance letter, as well as our final decision regarding any reconsideration request received from the IRF.
+(5) CMS will notify IRFs, in writing, of its final decision regarding any reconsideration request through at least one of the following methods: QIES ASAP system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
 
 (e) *Appeals.* (1) An IRF may appeal the decision made by CMS on its reconsideration request by filing with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
@@ -70,4 +84,4 @@ Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
 
 (3) An IRF must meet or exceed both thresholds to avoid receiving a 2 percentage point reduction to their annual payment update for a given fiscal year, beginning with FY 2016 and for all subsequent payment updates.
 
-[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016; 82 FR 36305, Aug. 3, 2017]
+[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016; 82 FR 36305, Aug. 3, 2017; 83 FR 38573, Aug. 6, 2018]

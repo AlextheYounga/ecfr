@@ -1,14 +1,12 @@
 ##### § 412.4 Discharges and transfers. #####
 
-Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
-
-(a) *Discharges.* Subject to the provisions of paragraphs (b) and (c) of this section, a hospital inpatient is considered discharged from a hospital paid under the prospective payment system when -
+(a) *Discharges.* Subject to the provisions of paragraphs (b) and (c) of this section, a hospital inpatient is considered discharged from a hospital paid under the prospective payment system when—
 
 (1) The patient is formally released from the hospital; or
 
 (2) The patient dies in the hospital.
 
-(b) *Acute care transfers.* A discharge of a hospital inpatient is considered to be a transfer for purposes of payment under this part if the patient is readmitted the same day (unless the readmission is unrelated to the initial discharge) to another hospital that is -
+(b) *Acute care transfers.* A discharge of a hospital inpatient is considered to be a transfer for purposes of payment under this part if the patient is readmitted the same day (unless the readmission is unrelated to the initial discharge) to another hospital that is—
 
 (1) Paid under the prospective payment system described in subparts A through M of this part;
 
@@ -25,6 +23,8 @@ Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
 (2) To a skilled nursing facility.
 
 (3) To home under a written plan of care for the provision of home health services from a home health agency and those services begin within 3 days after the date of discharge.
+
+(4) For discharges occurring on or after October 1, 2018, to hospice care provided by a hospice program.
 
 (d) *Qualifying DRGs.* (1) For a fiscal year prior to FY 2006, for purposes of paragraph (c) of this section, and subject to the provisions of paragraph (d)(2) of this section, the qualifying DRGs must meet the following criteria for both of the 2 most recent years for which data are available:
 
@@ -44,7 +44,7 @@ Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
 
 (ii) The latter DRG was split or otherwise modified within the previous 2 fiscal years.
 
-(3) For fiscal years beginning with FY 2006, for purposes of paragraph (c) of this section -
+(3) For fiscal years beginning with FY 2006, for purposes of paragraph (c) of this section—
 
 (i) The qualifying DRGs must meet the following criteria using data from the March 2005 update of the FY 2004 MedPAR file and Version 23.0 of the DRG Definitions Manual (FY 2006):
 
@@ -68,7 +68,7 @@ Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
 
 (e) *Payment for discharges.* The hospital discharging an inpatient (under paragraph (a) of this section) is paid in full, in accordance with § 412.2(b).
 
-(f) *Payment for transfers* - (1) *General rule.* Except as provided in paragraph (f)(2) or (f)(3) of this section, a hospital that transfers an inpatient under the circumstances described in paragraph (b) or (c) of this section, is paid a graduated per diem rate for each day of the patient's stay in that hospital, not to exceed the amount that would have been paid under subparts D and M of this part if the patient had been discharged to another setting. The per diem rate is determined by dividing the appropriate prospective payment rate (as determined under subparts D and M of this part) by the geometric mean length of stay for the specific DRG to which the case is assigned. Payment is graduated by paying twice the per diem amount for the first day of the stay, and the per diem amount for each subsequent day, up to the full DRG payment.
+(f) *Payment for transfers*—(1) *General rule.* Except as provided in paragraph (f)(2) or (f)(3) of this section, a hospital that transfers an inpatient under the circumstances described in paragraph (b) or (c) of this section, is paid a graduated per diem rate for each day of the patient's stay in that hospital, not to exceed the amount that would have been paid under subparts D and M of this part if the patient had been discharged to another setting. The per diem rate is determined by dividing the appropriate prospective payment rate (as determined under subparts D and M of this part) by the geometric mean length of stay for the specific DRG to which the case is assigned. Payment is graduated by paying twice the per diem amount for the first day of the stay, and the per diem amount for each subsequent day, up to the full DRG payment.
 
 (2) *Special rule for DRGs 209, 210, and 211 for fiscal years prior to FY 2006.* For fiscal years prior to FY 2006, a hospital that transfers an inpatient under the circumstances described in paragraph (c) of this section and the transfer is assigned to DRGs 209, 210, or 211 is paid as follows:
 
@@ -100,4 +100,4 @@ Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
 
 (iv) If a DRG is part of an MS-DRG group that meets the criteria specified in paragraphs (f)(6)(i) through (f)(6)(iii) of this section, that DRG will also be paid under the provisions of paragraphs (f)(2)(i) and (f)(2)(ii) of this section.
 
-[63 FR 41003, July 31, 1998, as amended at 65 FR 47106, Aug. 1, 2000; 67 FR 50111, Aug. 1, 2002; 68 FR 45469, Aug. 1, 2003; 69 FR 49240, Aug. 11, 2004; 70 FR 47484, Aug. 12, 2005; 72 FR 47410, Aug. 22, 2007; 75 FR 50413, Aug. 16, 2010]
+[63 FR 41003, July 31, 1998, as amended at 65 FR 47106, Aug. 1, 2000; 67 FR 50111, Aug. 1, 2002; 68 FR 45469, Aug. 1, 2003; 69 FR 49240, Aug. 11, 2004; 70 FR 47484, Aug. 12, 2005; 72 FR 47410, Aug. 22, 2007; 75 FR 50413, Aug. 16, 2010; 83 FR 41700, Aug. 17, 2018]

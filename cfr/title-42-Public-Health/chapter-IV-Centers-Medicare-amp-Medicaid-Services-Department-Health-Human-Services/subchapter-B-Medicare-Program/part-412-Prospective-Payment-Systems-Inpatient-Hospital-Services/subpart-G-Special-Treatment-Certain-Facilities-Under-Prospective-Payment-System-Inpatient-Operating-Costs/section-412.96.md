@@ -1,7 +1,5 @@
 ##### § 412.96 Special treatment: Referral centers. #####
 
-Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
-
 (a) *Criteria for classification as a referral center: Basic rule.* CMS classifies a hospital as a referral center only if the hospital is a Medicare participating acute care hospital and meets the applicable criteria of paragraph (b) or (c) of this section.
 
 (b) *Criteria for cost reporting periods beginning on or after October 1, 1983.* The hospital meets either of the following criteria:
@@ -52,9 +50,11 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (5) *Volume of referrals.* At least 40 percent of all inpatients treated at the hospital are referred from other hospitals or from physicians not on the hospital's staff.
 
-(d) *Payment to rural referral centers.* Effective for discharges occurring on or after April 1, 1988, and before October 1, 1994, a hospital that is located in a rural area and meets the criteria of paragraphs (b)(1), (b)(2) or (c) of this section is paid prospective payments for inpatient operating costs per discharge based on the applicable other urban payment rates as determined in accordance with § 412.63, as adjusted by the hospital's area wage index.
+(d) *Criteria for hospitals that have remote location(s).* For a hospital with a main campus and one or more remote locations under a single provider agreement where services are provided and billed under the inpatient hospital prospective payment system and that meets the provider-based criteria at § 413.65 of this chapter as a main campus and a remote location of a hospital, combined data from the main campus and its remote location(s) are required to demonstrate that the criteria specified in paragraphs (b)(1) and (2) and (c)(1) through (5) of this section are met. For the rural location criteria specified in paragraphs (b)(1) and (c) of this section and the mileage criteria specified in paragraphs (b)(2)(ii) and (c)(4) of this section, the hospital must demonstrate that the main campus and its remote locations each independently satisfy those requirements.
 
-(e)-(f) [Reserved]
+(e) *Payment to rural referral centers.* Effective for discharges occurring on or after April 1, 1988, and before October 1, 1994, a hospital that is located in a rural area and meets the criteria of paragraphs (b)(1), (b)(2) or (c) of this section is paid prospective payments for inpatient operating costs per discharge based on the applicable other urban payment rates as determined in accordance with § 412.63, as adjusted by the hospital's area wage index.
+
+(f) [Reserved]
 
 (g) *Hospital cancellation of referral center status.* (1) A hospital may at any time request cancellation of its status as a referral center and be paid prospective payments per discharge based on the applicable rural rate, as determined in accordance with subpart D of this part.
 
@@ -80,4 +80,4 @@ Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
 
 (3) *Annual notice.* CMS sets forth the national and regional criteria in the annual notice of prospective payment rates published under § 412.8(b). These criteria are compared to an applying hospital's number of discharges for the same cost reporting period used to develop the regional criteria in this section in determining if the hospital qualifies for referral center status for cost reporting periods beginning on or after October 1 of the Federal fiscal year to which the notice applies.
 
-[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.96, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.96, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

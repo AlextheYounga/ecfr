@@ -1,6 +1,4 @@
-##### § 413.338 Skilled nursing facility value-based purchasing. #####
-
-Link to an amendment published at 83 FR 39289, Aug. 8, 2018.
+##### § 413.338 Skilled nursing facility value-based purchasing program. #####
 
 (a) *Definitions.* As used in this section:
 
@@ -34,11 +32,15 @@ Link to an amendment published at 83 FR 39289, Aug. 8, 2018.
 
 (15) *Value-based incentive payment adjustment factor* is the number that will be multiplied by the adjusted Federal per diem rate for services furnished by a SNF during a fiscal year, based on its performance score for that fiscal year, and after such rate is reduced by the applicable percent.
 
+(16) *Low-volume SNF* means a SNF with fewer than 25 eligible stays included in the SNF readmission measure denominator during the performance period for a fiscal year.
+
+(17) *Eligible stay* means, for purposes of the SNF readmission measure, an index SNF admission that would be included in the denominator of that measure.
+
 (b) *Applicability of the SNF VBP Program.* The SNF VBP Program applies to SNFs, including facilities described in section 1888(e)(7)(B).
 
 (c) *Process for reducing the adjusted Federal per diem rate and applying the value-based incentive payment adjustment factor under the SNF VBP Program* - (1) *General.* CMS will make value-based incentive payments to each SNF based on its performance score for a fiscal year under the SNF VBP Program under the requirements and conditions specified in this paragraph.
 
-(2) *Value-based incentive payment amount* - (i) *Total amount available for a fiscal year.* The total amount available for value-based incentive payments for a fiscal year is equal to 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS.
+(2) *Value-based incentive payment amount* - (i) *Total amount available for a fiscal year.* The total amount available for value-based incentive payments for a fiscal year is at least 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS, and will be increased as appropriate for each fiscal year to account for the assignment of a performance score to low-volume SNFs under paragraph (d)(3) of this section.
 
 (ii) *Calculation of the value-based incentive payment amount.* The value-based incentive payment amount is calculated by multiplying the adjusted Federal per diem rate by the value- based incentive payment adjustment factor, after the adjusted Federal per diem rate has been reduced by the applicable percent.
 
@@ -54,7 +56,21 @@ Link to an amendment published at 83 FR 39289, Aug. 8, 2018.
 
 (iii) CMS will award 100 points to a SNF whose performance meets or exceeds the benchmark.
 
+(iv) CMS will not award points for improvement to a SNF that has fewer than 25 eligible stays during the baseline period.
+
 (2) The highest of the SNF's achievement, improvement and benchmark score will be the SNF's performance score for the fiscal year.
+
+(3) If CMS determines that a SNF is a low-volume SNF with respect to a fiscal year, CMS will assign a performance score to the SNF for the fiscal year that, when used to calculate the value-based incentive payment amount (as defined in paragraph (a)(14) of this section), results in a value-based incentive payment amount that is equal to the adjusted Federal per diem rate (as defined in paragraph (a)(2) of this section) that would apply to the SNF for the fiscal year without application of § 413.337(f).
+
+(4)(i) A SNF may request and CMS may grant exceptions to the SNF Value-Based Purchasing Program's requirements under this section for one or more calendar months when there are certain extraordinary circumstances beyond the control of the SNF.
+
+(ii) A SNF may request an exception within 90 days of the date that the extraordinary circumstances occurred by sending an email to *SNFVBPinquiries@cms.hhs.gov* that includes a completed Extraordinary Circumstances Request form (available on the SNF VBP section of QualityNet at *https://www.qualitynet.org/*) and any available evidence of the impact of the extraordinary circumstances on the care that the SNF furnished to patients, including, but not limited to, photographs, newspaper, and other media articles.
+
+(iii) Except as provided in paragraph (d)(4)(iv) of this section, CMS will not consider an exception request unless the SNF requesting such exception has complied fully with the requirements in this paragraph (d).
+
+(iv) CMS may grant exceptions to SNFs without a request if it determines that an extraordinary circumstance affects an entire region or locale.
+
+(v) CMS will calculate a SNF performance score for a fiscal year for a SNF for which it has granted an exception request that does not include its performance on the SNF readmission measure during the calendar months affected by the extraordinary circumstance.
 
 (e) *Confidential feedback reports and public reporting.* (1) Beginning October 1, 2016, CMS will provide quarterly confidential feedback reports to SNFs on their performance on the SNF readmission measure. SNFs will have the opportunity to review and submit corrections for this data by March 31st following the date that CMS provides the reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
 
@@ -74,4 +90,4 @@ Link to an amendment published at 83 FR 39289, Aug. 8, 2018.
 
 (5) The ranking determinations under section 1888(h)(4)(B) of the Act.
 
-[82 FR 36633, Aug. 4, 2017]
+[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018]

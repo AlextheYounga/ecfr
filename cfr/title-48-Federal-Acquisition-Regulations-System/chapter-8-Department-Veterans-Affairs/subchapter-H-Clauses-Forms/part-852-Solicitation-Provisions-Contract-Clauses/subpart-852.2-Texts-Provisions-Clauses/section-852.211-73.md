@@ -1,5 +1,7 @@
 ##### 852.211-73 Brand name or equal. #####
 
+Link to an amendment published at 83 FR 49307, Oct. 1, 2018.
+
 As prescribed in 811.104-71, insert the following clause:
 
 Brand Name or Equal (JAN 2008)(Note:

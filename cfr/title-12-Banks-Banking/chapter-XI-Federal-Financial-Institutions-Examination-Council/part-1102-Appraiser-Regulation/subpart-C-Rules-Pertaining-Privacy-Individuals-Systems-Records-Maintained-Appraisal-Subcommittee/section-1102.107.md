@@ -4,7 +4,7 @@
 
 (1) The application shall be in writing and shall describe the record in issue and set forth the proposed amendment and the reasons therefor.
 
-(2) The application shall be delivered to the ASC, 2000 K Street, NW., Suite 310, Washington, DC, or by mail addressed to the Privacy Act Officer, ASC, 1401 H Street, NW., Suite 760,Washington, DC 20005.
+(2) The application shall be delivered to the ASC, 1325 G Street NW, Suite 500, Washington, DC 20005, or by mail addressed to the Privacy Act Officer, ASC, 1325 G Street NW, Suite 500, Washington, DC 20005.
 
 (3) The applicant may state such facts and cite such legal or other authorities in support of the application.
 
@@ -40,7 +40,7 @@
 
 (b) *Statement of disagreement.* As noted in paragraph (a)(9)(ii) of this section, an individual may file with the Executive Director a statement setting forth his or her disagreement with the Executive Director's denial of his or her request to amend a record.
 
-(1) Such statement of disagreement shall be delivered to the ASC, 1401 H Street, NW., Suite 760,Washington, DC 20005, within 30 days after receipt by the individual of the Executive Director's order denying the amendment, excluding Saturdays, Sundays and Federal holidays. For good cause shown, this period can be extended for a reasonable time.
+(1) Such statement of disagreement shall be delivered to the ASC, 1325 G Street NW, Suite 500, Washington, DC 20005, within 30 days after receipt by the individual of the Executive Director's order denying the amendment, excluding Saturdays, Sundays and Federal holidays. For good cause shown, this period can be extended for a reasonable time.
 
 (2) Such statement of disagreement shall concisely state the basis for the individual's disagreement. Unduly lengthy or irrelevant materials will be returned to the individual by the Executive Director for appropriate revisions before they become a permanent part of the individual's record.
 

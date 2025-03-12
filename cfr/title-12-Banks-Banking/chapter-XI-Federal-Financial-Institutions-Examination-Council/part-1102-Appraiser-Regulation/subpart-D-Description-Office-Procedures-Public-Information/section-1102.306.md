@@ -4,7 +4,7 @@
 
 (i) By facsimile clearly marked “Freedom of Information Act Request” to (202) 293-6251;
 
-(ii) By letter to the Executive Director marked “Freedom of Information Act Request”; 2000 K Street, NW., Suite 301; Washington, DC 20006; or
+(ii) By letter to the Executive Director marked “Freedom of Information Act Request”; 1325 G Street NW, Suite 500, Washington, DC 20005; or
 
 (iii) By sending Internet e-mail to the Executive Director marked “Freedom of Information Act Request” at his or her e-mail address listed on the ASC's World Wide Web site.
 
@@ -22,7 +22,7 @@
 
 (b) *Defective requests.* The ASC need not accept or process a request that does not reasonably describe the records requested or that does not otherwise comply with the requirements of this subpart. The ASC may return a defective request, specifying the deficiency. The requester may submit a corrected request, which will be treated as a new request.
 
-(c) *Processing requests* - (1) *Receipt of requests.* Upon receipt of any request that satisfies paragraph (a) of this section, the Executive Director shall assign the request to the appropriate processing track pursuant to this section. The date of receipt for any request, including one that is addressed incorrectly or that is referred by another agency, is the date the Executive Director actually receives the request.
+(c) *Processing requests*—(1) *Receipt of requests.* Upon receipt of any request that satisfies paragraph (a) of this section, the Executive Director shall assign the request to the appropriate processing track pursuant to this section. The date of receipt for any request, including one that is addressed incorrectly or that is referred by another agency, is the date the Executive Director actually receives the request.
 
 (2) *Expedited processing.* (i) Where a person requesting expedited access to records has demonstrated a compelling need for the records, or where the ASC has determined to expedite the response, the ASC shall process the request as soon as practicable. To show a compelling need for expedited processing, the requester shall provide a statement demonstrating that:
 
@@ -84,7 +84,7 @@
 
 (3) By arrangement with the requester, the ASC may elect to send the responsive records electronically if a substantial portion of the request is in electronic format. If the information requested is made pursuant to the Privacy Act of 1974, 5 U.S.C. 552a, it will not be sent by electronic means unless reasonable security measures can be provided.
 
-(e) *Fees* - (1) *General rules.* (i) Persons requesting records of the ASC shall be charged for the direct costs of search, duplication, and review as set forth in paragraphs (e)(2) and (e)(3) of this section, unless such costs are less than the ASC's cost of processing the requester's remittance.
+(e) *Fees*—(1) *General rules.* (i) Persons requesting records of the ASC shall be charged for the direct costs of search, duplication, and review as set forth in paragraphs (e)(2) and (e)(3) of this section, unless such costs are less than the ASC's cost of processing the requester's remittance.
 
 (ii) Requesters will be charged for search and review costs even if responsive records are not located or, if located, are determined to be exempt from disclosure.
 
@@ -164,7 +164,7 @@
 
 (9) Geological and geophysical information and data, including maps, concerning wells.
 
-(g) *Appeals.* (1) Appeals should be addressed to the Executive Director; ASC; 2000 K Street, NW., Suite 310; Washington, DC 20006.
+(g) *Appeals.* (1) Appeals should be addressed to the Executive Director; ASC; 1325 G Street NW, Suite 500, Washington, DC 20005.
 
 (2) A person whose initial request for records under this section, or whose request for a waiver of fees under paragraph (e)(1)(x) of this section, has been denied, either in part or in whole, has the right to appeal the denial to the ASC's Chairman (or designee) within 30 business days after receipt of notification of the denial. Appeals of denials of initial requests or for a waiver of fees must be in writing and include any additional information relevant to consideration of the appeal.
 

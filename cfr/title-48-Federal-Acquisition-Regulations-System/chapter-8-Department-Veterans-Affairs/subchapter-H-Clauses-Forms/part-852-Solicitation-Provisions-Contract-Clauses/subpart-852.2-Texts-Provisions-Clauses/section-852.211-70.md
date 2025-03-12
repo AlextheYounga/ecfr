@@ -1,5 +1,7 @@
 ##### 852.211-70 Service data manuals. #####
 
+Link to an amendment published at 83 FR 49307, Oct. 1, 2018.
+
 (a) As prescribed in 811.107(a), insert the following clause:
 
 Service Data Manuals (NOV 1984)

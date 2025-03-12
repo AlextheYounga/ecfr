@@ -1,7 +1,5 @@
 ##### § 418.309 Hospice aggregate cap. #####
 
-Link to an amendment published at 83 FR 38655, August 6, 2018.
-
 A hospice's aggregate cap is calculated by multiplying the adjusted cap amount (determined in paragraph (a) of this section) by the number of Medicare beneficiaries, as determined by one of two methodologies for determining the number of Medicare beneficiaries for a given cap year described in paragraphs (b) and (c) of this section.
 
 (a) *Cap Amount.* The cap amount was set at $6,500 in 1983 and is updated using one of two methodologies described in paragraphs (a)(1) and (a)(2) of this section.
@@ -12,7 +10,7 @@ A hospice's aggregate cap is calculated by multiplying the adjusted cap amount (
 
 (b) *Streamlined methodology defined.* A hospice's aggregate cap is calculated by multiplying the adjusted cap amount determined in paragraph (a) of this section by the number of Medicare beneficiaries as determined in paragraphs (b)(1) and (2) of this section. For purposes of the streamlined methodology calculation -
 
-(1) In the case in which a beneficiary received care from only one hospice, the hospice includes in its number of Medicare beneficiaries those Medicare beneficiaries who have not previously been included in the calculation of any hospice cap, and who have filed an election to receive hospice care in accordance with § 418.24 during the period beginning on September 28 (34 days before the beginning of the cap year) and ending on September 27 (35 days before the end of the cap year), using the best data available at the time of the calculation.
+(1) In the case in which a beneficiary received care from only one hospice, the hospice includes in its number of Medicare beneficiaries those Medicare beneficiaries who have not previously been included in the calculation of any hospice cap, and who have filed an election to receive hospice care in accordance with § 418.24 during the cap period as defined in § 418.3, using the best data available at the time of the calculation.
 
 (2) In the case in which a beneficiary received care from more than one hospice, each hospice includes in its number of Medicare beneficiaries only that fraction which represents the portion of a patient's total days of care in all hospices and all years that was spent in that hospice in that cap year, using the best data available at the time of the calculation. The aggregate cap calculation for a given cap year may be adjusted after the calculation for that year based on updated data.
 
@@ -40,4 +38,4 @@ A hospice's aggregate cap is calculated by multiplying the adjusted cap amount (
 
 (3) If a hospice that elected to have its aggregate cap calculated using the streamlined methodology under paragraph (d)(2)(ii) of this section subsequently elects the patient-by-patient proportional methodology or appeals the streamlined methodology, under paragraph (d)(2)(ii)(A) or (B) of this section, the hospice's aggregate cap determination for that cap year and all subsequent cap years is to be calculated using the patient-by-patient proportional methodology. As such, past cap year determinations may be adjusted to prevent the over-counting of beneficiaries, subject to existing reopening regulations.
 
-[48 FR 56026, Dec. 16, 1983, as amended at 76 FR 47332, Aug. 4, 2011; 80 FR 47207, Aug. 6, 2015]
+[48 FR 56026, Dec. 16, 1983, as amended at 76 FR 47332, Aug. 4, 2011; 80 FR 47207, Aug. 6, 2015; 83 FR 38655, Aug. 6, 2018]

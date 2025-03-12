@@ -1,10 +1,8 @@
 ##### § 495.316 State monitoring and reporting regarding activities required to receive an incentive payment. #####
 
-Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
-
 (a) Subject to § 495.332 the State is responsible for tracking and verifying the activities necessary for a Medicaid EP or eligible hospital to receive an incentive payment for each payment year, as described in § 495.314.
 
-(b) Subject to § 495.332, the State must submit a State Medicaid HIT Plan to CMS that includes -
+(b) Subject to § 495.332, the State must submit a State Medicaid HIT Plan to CMS that includes—
 
 (1) A detailed plan for monitoring, verifying and periodic auditing of the requirements for receiving incentive payments, as described in § 495.314; and
 
@@ -62,7 +60,7 @@ Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
 
 (1) The State and payment year to which the quarterly report pertains.
 
-(2) Subject to paragraph (h)(2) of this section, provider-level attestation data for each eligible hospital that attests to demonstrating meaningful use for each payment year beginning with 2013.
+(2) Subject to paragraph (h)(2) of this section, provider-level attestation data for each eligible hospital that attests to demonstrating meaningful use for each payment year beginning with 2013 and ending after 2018.
 
 (3) Subject to paragraph (h)(2) of this section, provider-level attestation data for each eligible EP that attests to demonstrating meaningful use for each payment year beginning with 2013 and ending after 2016.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
 
 (2) The quarterly report described in paragraph (g) of this section is not required to include information on EPs who are eligible for the Medicaid EHR incentive program on the basis of being a nurse practitioner, certified nurse-midwife or physician assistant.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54162, Sept. 4, 2012; 80 FR 62954, Oct. 16, 2015; 81 FR 77557, Nov. 4, 2016]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54162, Sept. 4, 2012; 80 FR 62954, Oct. 16, 2015; 81 FR 77557, Nov. 4, 2016; 83 FR 41711, Aug. 17, 2018]

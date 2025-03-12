@@ -1,7 +1,5 @@
 ##### § 412.525 Adjustments to the Federal prospective payment. #####
 
-Link to an amendment published at 83 FR 41705, Aug. 17, 2018.
-
 (a) *Adjustments for high-cost outliers.* (1) CMS provides for an additional payment to a long-term care hospital if its estimated costs for a patient exceed the applicable long-term care hospital prospective payment system payment plus an applicable fixed-loss amount. For each long-term care hospital prospective payment system payment year, CMS annually establishes a fixed-loss amount that is the maximum loss that a long-term care hospital would incur under the long-term care hospital prospective payment system for a case with unusually high costs before receiving an additional payment.
 
 (2)(i) The fixed loss-amount for discharges from a long-term care hospital described under § 412.522(a)(2) is determined for the long-term care hospital prospective payment system payment year, using the LTC-DRG relative weights that are in effect at the start of the applicable long-term care hospital prospective payment system payment year.
@@ -70,6 +68,4 @@ Link to an amendment published at 83 FR 41705, Aug. 17, 2018.
 
 (5) Long-term care hospitals and satellites of long-term care hospitals that discharged Medicare patients admitted from a hospital not located in the same building or on the same campus as the long-term care hospital or satellite of the long-term care hospital, as provided in § 412.536.
 
-(6) The limitation on long-term care hospital admissions from referring hospitals specified in § 412.538.
-
-[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 69 FR 25721, May 7, 2004; 70 FR 24222, May 6, 2005; 71 FR 48140, Aug. 18, 2006; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 79 FR 50356, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017]
+[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 69 FR 25721, May 7, 2004; 70 FR 24222, May 6, 2005; 71 FR 48140, Aug. 18, 2006; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 79 FR 50356, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017; 83 FR 41705, Aug. 17, 2018]

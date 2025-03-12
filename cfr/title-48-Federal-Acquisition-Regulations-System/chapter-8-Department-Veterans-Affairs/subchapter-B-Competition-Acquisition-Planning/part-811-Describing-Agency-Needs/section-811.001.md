@@ -1,5 +1,7 @@
 ##### 811.001 Definitions. #####
 
+Link to an amendment published at 83 FR 49305, Oct. 1, 2018.
+
 For the purposes of this part:
 
 *Brand name product* means a commercial product described by brand name and make or model number or other appropriate nomenclature by which the product is offered for sale to the public by the particular manufacturer, producer or distributor.

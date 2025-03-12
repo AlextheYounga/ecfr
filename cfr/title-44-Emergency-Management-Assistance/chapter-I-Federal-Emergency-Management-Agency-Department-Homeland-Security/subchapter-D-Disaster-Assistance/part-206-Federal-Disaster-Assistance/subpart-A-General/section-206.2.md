@@ -22,7 +22,7 @@
 
 (10) *Federal agency:* Any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government, including the United States Postal Service, but shall not include the American National Red Cross.
 
-(11) *Federal Coordinating Officer (FCO):* The person appointed by the Administrator, or in his absence, the Deputy Director, to coordinate Federal assistance in an emergency or a major disaster.
+(11) *Federal Coordinating Officer (FCO):* The person appointed by the Administrator, or in his absence, the Deputy Administrator, to coordinate Federal assistance in an emergency or a major disaster.
 
 (12) *Governor:* The chief executive of any State or the Acting Governor.
 

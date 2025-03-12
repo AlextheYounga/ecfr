@@ -1,6 +1,4 @@
-##### § 134.201 Scope of the rules in this subpart B. #####
-
-Link to an amendment published at 83 FR 13629, Mar. 30, 2018.
+##### § 134.201 Scope of the rules in this subpart. #####
 
 (a) The rules of practice in this subpart apply to all OHA proceedings except:
 
@@ -22,10 +20,14 @@ Link to an amendment published at 83 FR 13629, Mar. 30, 2018.
 
 (6) For appeals relating to SBA employee disputes, in subpart H of this part (§ 134.801 *et seq.*);
 
-(7) For Size Standard Petitions, in subpart I of this part (§§ 134.901 *through* 134.918); and
+(7) For Size Standard Petitions, in subpart I of this part (§§ 134.901 *through* 134.918);
 
-(8) For proceedings under the Program Fraud Civil Remedies Act, in part 142 of this chapter.
+(8) For protests of eligibility for inclusion in the Center for Verification and Evaluation (CVE) database, in subpart J of this part;
+
+(9) For appeals of denials and cancellations of inclusion in the CVE database, in subpart K of this part; and
+
+(10) For proceedings under the Program Fraud Civil Remedies Act, in part 142 of this chapter.
 
 (c) If a rule in this subpart conflicts with a rule pertaining to OHA in another subpart of this part or in another part of this chapter, the latter rule shall govern.
 
-[75 FR 47438, Aug. 6, 2010, as amended at 82 FR 25506, June 2, 2017]
+[75 FR 47438, Aug. 6, 2010, as amended at 82 FR 25506, June 2, 2017; 83 FR 13629, Mar. 30, 2018]

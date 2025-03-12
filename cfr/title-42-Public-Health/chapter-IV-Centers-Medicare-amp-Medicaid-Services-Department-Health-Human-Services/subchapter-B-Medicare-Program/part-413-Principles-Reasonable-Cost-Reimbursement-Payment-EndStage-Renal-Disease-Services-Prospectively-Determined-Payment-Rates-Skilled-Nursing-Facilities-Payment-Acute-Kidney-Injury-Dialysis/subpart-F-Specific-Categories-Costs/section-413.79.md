@@ -1,7 +1,5 @@
 ##### § 413.79 Direct GME payments: Determination of the weighted number of FTE residents. #####
 
-Link to an amendment published at 83 FR 41706, Aug. 17, 2018.
-
 Subject to the provisions in § 413.80, CMS determines a hospital's number of FTE residents by applying a weighting factor to each resident and then summing the resulting numbers that represent each resident. The weighting factor is determined as follows:
 
 (a) *Initial residency period.* Generally, for purposes of this section, effective July 1, 1995, an initial residency period is defined as the minimum number of years required for board eligibility.
@@ -126,7 +124,13 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (iii) If a hospital begins training residents in a new medical residency training program for the first time on or after January 1, 1995, but before October 1, 2012, the cap will not be adjusted for new programs established more than 3 years after residents begin training in the first new program, or if a hospital begins training residents in a new medical residency training program for the first time on or after October 1, 2012, the cap will not be adjusted for new programs established more than 5 years after residents begin training in the first new program.
 
-(iv) Effective for Medicare GME affiliation agreements entered into on or after October 1, 2005, an urban hospital that qualifies for an adjustment to its FTE cap under paragraph (e)(1) of this section is permitted to be part of a Medicare GME affiliated group for purposes of establishing an aggregate FTE cap only if the adjustment that results from the affiliation is an increase to the urban hospital's FTE cap.
+(iv)(A) Effective for Medicare GME affiliation agreements entered into on or after October 1, 2005, exceptas provided in paragraph (e)(1)(iv)(B) of this section, an urban hospital that qualifies for an adjustment to its FTE cap under paragraph (e)(1) of this section is permitted to be part of a Medicare GME affiliated group for purposes of establishing an aggregate FTE cap only if the adjustment that results from the affiliation is an increase to the urban hospital's FTE cap.
+
+(B) Effective for Medicare GME affiliation agreements entered into on or after July 1, 2019, an urban hospital that qualifies for an adjustment to its FTE cap under paragraph (e)(1) of this section is permitted to be part of a Medicare GME affiliated group for purposes of establishing an aggregate FTE cap and receive an adjustment that is a decrease to the urban hospital's FTE cap, provided the Medicare GME affiliated group meets one of the following conditions:
+
+(*1*) The Medicare GME affiliated group consists solely of two or more urban hospitals that qualify for adjustments to their FTE caps under paragraph (e)(1) of this section.
+
+(*2*) The Medicare GME affiliated group includes an urban hospital(s) that received FTE cap(s) under paragraph (c)(2)(i) of this section or § 412.105(f)(1)(iv)(A) of this subchapter, or both. This Medicare GME affiliated group must be established effective with a July 1 date (the residency training year) that is at least 5 years after the start of the cost reporting period that coincides with or follows the start of the sixth program year of the first new program for which the hospital's FTE cap was adjusted in accordance with paragraph (e)(1) of this section or § 412.105(f)(1)(v)(C) or (D) of this subchapter, or both.
 
 (v) A rural hospital that qualifies for an adjustment to its FTE cap under paragraph (e)(1) of this section is permitted to be part of a Medicare GME affiliated group for purposes of establishing an aggregate FTE cap.
 
@@ -390,4 +394,4 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (ii) The provisions of this paragraph (o) will not be applied in a manner that will require the reopening of settled cost reports, except where the provider has a jurisdictionally proper appeal pending on direct GME or IME payments as of March 23, 2010.
 
-[69 FR 49254, Aug. 11, 2004]Editorial Note:For Federal Register citations affecting § 413.79, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[69 FR 49254, Aug. 11, 2004]Editorial Note:For Federal Register citations affecting § 413.79, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

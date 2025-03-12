@@ -1,7 +1,5 @@
 ##### § 412.230 Criteria for an individual hospital seeking redesignation to another rural area or an urban area. #####
 
-Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
-
 (a) *General* - (1) *Purposes.* Except as specified in paragraph (a)(5) -
 
 (i) For fiscal years prior to fiscal year 2005, an individual hospital may be redesignated from a rural area to an urban area, from a rural area to another rural area, or from an urban area to another urban area for the purposes of using the other area's standardized amount for inpatient operating costs, the wage index value, or both.
@@ -100,6 +98,6 @@ Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
 
 (iii) It was approved for redesignation under this paragraph (d) for each year from fiscal year 1992 through fiscal year 1997.
 
-(5) *Single hospital MSA exception.* The requirements of paragraph (d)(1)(iii) of this section do not apply if a hospital is the single hospital in its MSA that is paid under subpart D of this part.
+(5) *Single hospital MSA exception.* The requirements of paragraph (d)(1)(iii) of this section do not apply if a hospital is the single hospital in its MSA with published 3-year average hourly wage data included in the current fiscal year inpatient prospective payment system final rule.
 
-[55 FR 36766, Sept. 6, 1990]Editorial Note:For Federal Register citations affecting § 412.230, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[55 FR 36766, Sept. 6, 1990]Editorial Note:For Federal Register citations affecting § 412.230, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

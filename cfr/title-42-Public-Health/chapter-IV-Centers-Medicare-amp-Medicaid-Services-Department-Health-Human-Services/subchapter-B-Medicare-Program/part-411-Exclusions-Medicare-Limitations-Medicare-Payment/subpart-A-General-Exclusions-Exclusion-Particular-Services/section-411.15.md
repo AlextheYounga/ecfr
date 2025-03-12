@@ -1,7 +1,5 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
-Link to an amendment published at 83 FR 39289, Aug. 8, 2018.
-
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:
@@ -186,7 +184,7 @@ The following services are excluded from coverage:
 
 (iii) The beneficiary receives outpatient services from a Medicare-participating hospital or CAH (but only for those services that CMS designates as being beyond the general scope of SNF comprehensive care plans, as required under § 483.21(b) of this chapter); or
 
-(iv) The beneficiary is formally discharged (or otherwise departs) from the SNF, unless the beneficiary is readmitted (or returns) to that or another SNF by midnight of the day of departure.
+(iv) The beneficiary is formally discharged (or otherwise departs) from the SNF, unless the beneficiary is readmitted (or returns) to that or another SNF before the following midnight.
 
 (q) *Assisted suicide.* Any health care service used for the purpose of causing, or assisting to cause, the death of any individual. This does not pertain to the withholding or withdrawing of medical treatment or care, nutrition or hydration or to the provision of a service for the purpose of alleviating pain or discomfort, even if the use may increase the risk of death, so long as the service is not furnished for the specific purpose of causing death.
 
@@ -194,4 +192,4 @@ The following services are excluded from coverage:
 
 (s) Unless § 414.404(d) or § 414.408(e)(2) of this subchapter applies, Medicare does not make payment if an item or service that is included in a competitive bidding program (as described in part 414, subpart F of this subchapter) is furnished by a supplier other than a contract supplier (as defined in § 414.402 of this subchapter).
 
-[54 FR 41734, Oct. 11, 1989; 55 FR 1820, Jan. 19, 1990]Editorial Note:For Federal Register citations affecting § 411.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 41734, Oct. 11, 1989; 55 FR 1820, Jan. 19, 1990]Editorial Note:For Federal Register citations affecting § 411.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

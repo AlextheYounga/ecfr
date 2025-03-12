@@ -1,6 +1,4 @@
-##### § 418.304 Payment for physician and nurse practitioner services. #####
-
-Link to an amendment published at 83 FR 38655, August 6, 2018.
+##### § 418.304 Payment for physician, and nurse practitioner, and physician assistant services. #####
 
 (a) The following services performed by hospice physicians and nurse practitioners are included in the rates described in § 418.302:
 
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 38655, August 6, 2018.
 
 (e)(1) Effective December 8, 2003, Medicare pays for attending physician services provided by nurse practitioners to Medicare beneficiaries who have elected the hospice benefit and who have selected a nurse practitioner as their attending physician. This applies to nurse practitioners without regard to whether they are hospice employees.
 
-(2) Nurse practitioners may bill and receive payment for services only if the -
+(2) Nurse practitioners may bill and receive payment for services only if the—
 
 (i) Nurse practitioner is the beneficiary's attending physician as defined in § 418.3;
 
@@ -28,4 +26,18 @@ Link to an amendment published at 83 FR 38655, August 6, 2018.
 
 (3) Payment for nurse practitioner services are made at 85 percent of the physician fee schedule amount.
 
-[48 FR 56026, Dec. 16, 1983, as amended at 69 FR 66426, Nov. 15, 2004; 70 FR 45145, Aug. 4, 2005; 70 FR 70547, Nov. 22, 2005]
+(f)(1) Effective January 1, 2019, Medicare pays for attending physician services provided by physician assistants to Medicare beneficiaries who have elected the hospice benefit and who have selected a physician assistant as their attending physician. This applies to physician assistants without regard to whether they are hospice employees.
+
+(2) The employer or a contractor of a physician assistant must bill and receive payment for physician assistant services only if the—
+
+(i) Physician assistant is the beneficiary's attending physician as defined in § 418.3;
+
+(ii) Services are medically reasonable and necessary;
+
+(iii) Services are performed by a physician in the absence of the physician assistant and, the physician assistant services are furnished under the general supervision of a physician; and
+
+(iv) Services are not related to the certification of terminal illness specified in § 418.22.
+
+(3) The payment amount for physician assistant services when serving as the attending physician for hospice patients is 85 percent of what a physician is paid under the Medicare physician fee schedule.
+
+[48 FR 56026, Dec. 16, 1983, as amended at 69 FR 66426, Nov. 15, 2004; 70 FR 45145, Aug. 4, 2005; 70 FR 70547, Nov. 22, 2005; 83 FR 38655, Aug. 6, 2018]

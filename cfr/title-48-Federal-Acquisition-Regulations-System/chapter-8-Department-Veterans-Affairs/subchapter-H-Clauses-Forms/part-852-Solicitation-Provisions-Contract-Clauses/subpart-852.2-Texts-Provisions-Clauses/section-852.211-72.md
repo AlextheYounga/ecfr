@@ -1,5 +1,7 @@
 ##### 852.211-72 Technical industry standards. #####
 
+Link to an amendment published at 83 FR 49307, Oct. 1, 2018.
+
 As prescribed in 811.103-70, insert the following provision:
 
 Technical Industry Standards (JAN 2008)

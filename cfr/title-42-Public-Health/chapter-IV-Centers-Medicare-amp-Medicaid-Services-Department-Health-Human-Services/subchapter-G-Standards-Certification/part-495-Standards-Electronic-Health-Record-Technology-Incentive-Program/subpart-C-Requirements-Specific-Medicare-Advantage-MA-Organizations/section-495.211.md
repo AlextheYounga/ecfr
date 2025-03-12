@@ -1,14 +1,12 @@
 ##### § 495.211 Payment adjustments effective for 2015 and subsequent MA payment years with respect to MA EPs and MA-affiliated eligible hospitals. #####
 
-Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
-
 (a) *In general.* Beginning for MA payment adjustment year 2015, payment adjustments set forth in this section are made to prospective payments (issued under section 1853(a)(1)(A) of the Act) of qualifying MA organizations that previously received incentive payments under the MA EHR Incentive Program, if all or a portion of the MA-EPs and MA-affiliated eligible hospitals that would meet the definition of qualifying MA-EPs or qualifying MA-affiliated eligible hospitals (but for their demonstration of meaningful use) are not meaningful EHR users.
 
 (b) *Adjustment based on payment adjustment year.* The payment adjustment is calculated based on the payment adjustment year.
 
 (c) *Separate application of adjustments for MA EPs and MA-affiliated eligible hospitals.* The payment adjustments identified in paragraphs (d) and (e) of this section are applied separately. Paragraph (d) of this section applies only to qualifying MA organizations that received payment for any MA payment year for qualifying MA EPs under § 495.204. Paragraph (e) of this section applies only to qualifying MA organizations that received payment for any MA payment year for qualifying MA-affiliated eligible hospitals under § 495.204.
 
-(d) *Payment adjustments effective for 2015 and subsequent years with respect to MA EPs.* (1) For payment adjustment year 2015, and subsequent payment adjustment years, if a qualifying MA EP is not a meaningful EHR user during the payment adjustment year, CMS -
+(d) *Payment adjustments effective for 2015 and subsequent years with respect to MA EPs.* (1) For payment adjustment year 2015, and subsequent payment adjustment years, if a qualifying MA EP is not a meaningful EHR user during the payment adjustment year, CMS—
 
 (i) Determines a payment adjustment based on data from the payment adjustment year; and
 
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
 
 [the total number of potentially qualifying MA EPs]/[(the total number of potentially qualifying MA EPs) + (the total number of qualifying MA EPs)].
 
-(3) The monthly prospective payment amount paid under section 1853(a)(1)(A) of the Act for the payment adjustment year is adjusted by the product of -
+(3) The monthly prospective payment amount paid under section 1853(a)(1)(A) of the Act for the payment adjustment year is adjusted by the product of—
 
 (i) The percent calculated in accordance with paragraph (d)(2) of this section;
 
@@ -44,7 +42,7 @@ Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
 
 (ii) The payment adjustment is calculated by multiplying the qualifying MA organization's monthly prospective payment for the payment adjustment year under section 1853(a)(1)(A) of the Act by the percent set forth in paragraph (e)(2) of this section.
 
-(2) The percent set forth in this paragraph (e) is the product of -
+(2) The percent set forth in this paragraph (e) is the product of—
 
 (i) The percentage point reduction to the applicable percentage increase in the market basket index for the relevant Federal fiscal year as a result of § 412.64(d)(3) of this chapter;
 
@@ -56,4 +54,6 @@ Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
 
 (3) The Medicare Hospital Expenditure Proportion for a year is the Secretary's estimate of expenditures under Parts A and B that are not attributable to Part C, that are attributable to expenditures for inpatient hospital services, adjusted for the proportion of expenditures that are provided by hospitals that are neither qualifying nor potentially qualifying MA-affiliated eligible hospitals with respect to a qualifying MA organization.
 
-[77 FR 54159, Sept. 4, 2012]
+(4) For MA payment adjustment years prior to 2022, subsection (d) Puerto Rico hospitals are neither potentially qualifying MA-affiliated eligible hospitals nor qualifying MA-affiliated eligible hospitals for purposes of applying the payment adjustments under paragraph (e) of this section.
+
+[77 FR 54159, Sept. 4, 2012, as amended at 83 FR 41711, Aug. 17, 2018]
