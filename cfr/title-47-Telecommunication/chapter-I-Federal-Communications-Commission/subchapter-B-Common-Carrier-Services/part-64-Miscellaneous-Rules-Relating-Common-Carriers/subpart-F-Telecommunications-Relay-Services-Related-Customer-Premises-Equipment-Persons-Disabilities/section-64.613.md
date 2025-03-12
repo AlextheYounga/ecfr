@@ -1,10 +1,10 @@
 ##### § 64.613 Numbering directory for Internet-based TRS users. #####
 
-Link to an amendment published at 82 FR 17764, Apr. 13, 2017.
+(a) *TRS Numbering Directory.*
 
-(a) *TRS Numbering Directory.* (1) The TRS Numbering Directory shall contain records mapping the geographically appropriate NANP telephone number of each Registered Internet-based TRS User to a unique Uniform Resource Identifier (URI).
+(1) The TRS Numbering Directory shall contain records mapping the geographically appropriate NANP telephone number of each Registered Internet-based TRS User and hearing point-to-point video user to a unique Uniform Resource Identifier (URI).
 
-(2) For each record associated with a VRS user's geographically appropriate NANP telephone number, the URI shall contain the IP address of the user's device. For each record associated with an IP Relay user's geographically appropriate NANP telephone number, the URI shall contain the user's user name and domain name that can be subsequently resolved to reach the user.
+(2) For each record associated with a VRS or hearing point-to-point video user's geographically appropriate NANP telephone number, the URI shall contain the IP address of the user's device. For each record associated with an IP Relay user's geographically appropriate NANP telephone number, the URI shall contain the user's user name and domain name that can be subsequently resolved to reach the user.
 
 (3) Within one year after the effective date of this Order, Internet-based TRS providers must ensure that a user's toll free number that is associated with a geographically appropriate NANP number will be associated with the same URI as that geographically appropriate NANP telephone number.
 
@@ -22,4 +22,4 @@ Link to an amendment published at 82 FR 17764, Apr. 13, 2017.
 
 (3) *Compensation.* The TRS Fund, as defined by 47 CFR 64.604(a)(5)(iii), may compensate the TRS Numbering Administrator for the reasonable costs of administration pursuant to the terms of its contract.
 
-[73 FR 41296, July 18, 2008, as amended at 76 FR 59577, Sept. 27, 2011]
+[73 FR 41296, July 18, 2008, as amended at 76 FR 59577, Sept. 27, 2011; 82 FR 17764, Apr. 13, 2017]

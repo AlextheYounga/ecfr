@@ -1,7 +1,5 @@
 ##### § 64.615 TRS User Registration Database and administrator. #####
 
-Link to an amendment published at 82 FR 17764, Apr. 13, 2017.
-
 (a) *TRS User Registration Database.* (1) VRS providers shall validate the eligibility of the party on the video side of each call by querying the TRS User Registration Database on a per-call basis. Emergency 911 calls are excepted from this requirement.
 
 (i) Validation shall occur during the call setup process, prior to the placement of the call.
@@ -12,9 +10,11 @@ Link to an amendment published at 82 FR 17764, Apr. 13, 2017.
 
 (2) The administrator of the TRS User Registration Database shall assign a unique identifier to each user in the TRS User Registration Database.
 
-(3) *Data integrity.* (i) Each VRS provider shall request that the administrator of the TRS User Registration Database remove from the TRS User Registration Database user information for any registered user:
+(3) *Data integrity.*
 
-(A) Who informs its default provider that it no longer wants use of a ten-digit number for TRS services; or;
+(i) Each VRS provider shall request that the administrator of the TRS User Registration Database remove from the TRS User Registration Database user information for any registered VRS user or hearing point-to-point video user:
+
+(A) Who informs its default provider that it no longer wants use of a ten-digit number for TRS or (in the case of a hearing point-to-point video user) for point-to-point video service; or
 
 (B) For whom the provider obtains information that the user is not eligible to use the service.
 
@@ -36,4 +36,4 @@ Link to an amendment published at 82 FR 17764, Apr. 13, 2017.
 
 (2) *Compensation.* The TRS Fund, as defined by § 64.604(a)(5)(iii) of this subpart, may be used to compensate the administrator of the TRS User Registration Database for the reasonable costs of administration pursuant to the terms of its contract.
 
-[78 FR 40609, July 5, 2013]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017]Effective Date Note:At 82 FR 17764, Apr. 13, 2017, § 64.615 was amended by revising paragraphs (a)(3)(i) introductory text and (a)(3)(i)(A). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

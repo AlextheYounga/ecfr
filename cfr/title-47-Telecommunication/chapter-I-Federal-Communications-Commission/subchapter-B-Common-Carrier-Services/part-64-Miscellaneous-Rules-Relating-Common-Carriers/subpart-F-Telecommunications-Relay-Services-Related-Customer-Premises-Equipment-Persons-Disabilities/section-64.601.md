@@ -1,7 +1,5 @@
 ##### § 64.601 Definitions and provisions of general applicability. #####
 
-Link to an amendment published at 82 FR 17761, Apr. 13, 2017.
-
 (a) For purposes of this subpart, the terms *Public Safety Answering Point (PSAP), statewide default answering point,* and *appropriate local emergency authority* are defined in 47 CFR 64.3000; the terms *pseudo-ANI* and *Wireline E911 Network* are defined in 47 CFR 9.3; the term *affiliate* is defined in 47 CFR 52.12(a)(1)(i), and the terms *majority* and *debt* are defined in 47 CFR 52.12(a)(1)(ii).
 
 (1) *711.* The abbreviated dialing code for accessing relay services anywhere in the United States.
@@ -114,6 +112,12 @@ Link to an amendment published at 82 FR 17761, Apr. 13, 2017.
 
 (46) *Real-Time Text (RTT).* The term *real-time text* shall have the meaning set forth in § 67.1 of this chapter.
 
+(47) *Hearing point-to-point video user.* A hearing individual who has been assigned a ten-digit NANP number that is entered in the TRS Numbering Directory to access point-to-point service.
+
+(48) *Point-to-point video service.* A service that enables a user to place and receive non-relay video calls without the assistance of a CA.
+
+(49) *Point-to-point video call.* A call placed via a point-to-point video service.
+
 (b) For purposes of this subpart, all regulations and requirements applicable to common carriers shall also be applicable to providers of interconnected VoIP service.
 
-[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017]
+[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 81 FR 17761, Apr. 13, 2017]

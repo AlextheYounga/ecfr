@@ -1,7 +1,5 @@
 ##### § 64.5103 Definitions. #####
 
-Link to an amendment published at 82 FR 17765, Apr. 13, 2017.
-
 (a) *Address of record.* An “address of record,” whether postal or electronic, is an address that the TRS provider has associated with the customer for at least 30 days.
 
 (b) *Affiliate.* The term “affiliate” shall have the same meaning given such term in section 3 of the Communications Act of 1934, as amended, 47 U.S.C. 153.
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 17765, Apr. 13, 2017.
 
 (l) *Opt-out approval.* The term “opt-out approval” shall have the same meaning given such term in § 64.5107(b)(2) of this subpart.
 
-(m) *Point-to-point service.* The term “point-to-point service” means a service that enables a VRS customer to place and receive non-relay calls without the assistance of a CA over the VRS provider facilities using VRS access technology. Such calls are made by means of ten-digit NANP numbers assigned to customers by VRS providers. The term “point-to-point call” shall refer to a call placed via a point-to-point service.
+(m) *Point-to-point service.* The term “point-to-point service” means a service that enables a VRS or hearing customer to place and receive non-relay calls without the assistance of a communications assistant over the facilities of a VRS provider using VRS access technology. Such calls are made by means of ten-digit NANP numbers registered in the TRS Numbering Directory and assigned to VRS customers and hearing point-to-point customers by VRS providers. The term “point-to-point call” shall refer to a call placed via a point-to-point service.
 
 (n) *Readily available biographical information.* The term “readily available biographical information” means information drawn from the customer's life history and includes such things as the customer's social security number, or the last four digits of that number; mother's maiden name; home address; or date of birth.
 
@@ -52,4 +50,6 @@ Link to an amendment published at 82 FR 17765, Apr. 13, 2017.
 
 (w) *VRS access technology.* The term “VRS access technology” shall have the same meaning given to the term in § 64.601(a) of this part.
 
-Effective Date Note:At 78 FR 40613, July 5, 2013, § 64.5104 was added. Paragraphs (c)(4) and (c)(5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[78 FR 40613, July 5, 2013, as amended at 82 FR 17765, Apr. 13, 2017]Effective Date Notes:1. At 78 FR 40613, July 5, 2013, § 64.5104 was added. Paragraphs (c)(4) and (c)(5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+
+2. At 82 FR 17765, Apr. 13, 2017, § 64.5103 was amended by revising paragraph (m). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
