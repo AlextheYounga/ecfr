@@ -1,5 +1,7 @@
 ##### § 622.55 Closed areas. #####
 
+Link to an amendment published at 83 FR 29046, June 22, 2018.
+
 (a) *Texas closure.* (1) From 30 minutes after official sunset on May 15 to 30 minutes after official sunset on July 15, trawling, except trawling for royal red shrimp beyond the 100-fathom (183-m) depth contour, is prohibited in the Gulf EEZ off Texas.
 
 (2) In accordance with the procedures and restrictions of the Gulf Shrimp FMP, the RA may adjust the closing and/or opening date of the Texas closure to provide an earlier, later, shorter, or longer closure, but the duration of the closure may not exceed 90 days or be less than 45 days. Notification of the adjustment of the closing or opening date will be published in the Federal Register.

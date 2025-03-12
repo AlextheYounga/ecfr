@@ -1,5 +1,7 @@
 ##### § 240.14a-16 Internet availability of proxy materials. #####
 
+Link to an amendment published at 83 FR 29204, June 22, 2018.
+
 (a)(1) A registrant shall furnish a proxy statement pursuant to § 240.14a-3(a), or an annual report to security holders pursuant to § 240.14a-3(b), to a security holder by sending the security holder a Notice of Internet Availability of Proxy Materials, as described in this section, 40 calendar days or more prior to the security holder meeting date, or if no meeting is to be held, 40 calendar days or more prior to the date the votes, consents or authorizations may be used to effect the corporate action, and complying with all other requirements of this section.
 
 (2) Unless the registrant chooses to follow the full set delivery option set forth in paragraph (n) of this section, it must provide the record holder or respondent bank with all information listed in paragraph (d) of this section in sufficient time for the record holder or respondent bank to prepare, print and send a Notice of Internet Availability of Proxy Materials to beneficial owners at least 40 calendar days before the meeting date.

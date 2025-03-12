@@ -36,6 +36,6 @@
 
 (3) Make the decision of an attorney advisor under paragraph (d) of this section subject to review by the Appeals Council if the Appeals Council decides to review the decision of the attorney advisor anytime within 60 days after the date of the decision under § 404.969.
 
-(g) *Sunset provision.* The provisions of this section will no longer be effective on August 3, 2018, unless we terminate them earlier or extend them beyond that date by notice of a final rule in the Federal Register.
+(g) *Sunset provision.* The provisions of this section will no longer be effective on August 2, 2019, unless we terminate them earlier or extend them beyond that date by notice of a final rule in the Federal Register.
 
-[60 FR 34131, June 30, 1995, as amended at 63 FR 35516, June 30, 1998; 64 FR 13678, Mar. 22, 1999; 64 FR 51893, Sept. 27, 1999; 72 FR 44765, Aug. 9, 2007; 73 FR 76944, Dec. 18, 2008; 74 FR 33328, July 13, 2009; 76 FR 18384, Apr. 4, 2011; 76 FR 65370, Oct. 21, 2011; 78 FR 45460, July 29, 2013; 80 FR 31991, June 5, 2015; 82 FR 5863, Jan. 18, 2017; 82 FR 34401, July 25, 2017; 83 FR 712, Jan. 8, 2018]
+[60 FR 34131, June 30, 1995, as amended at 63 FR 35516, June 30, 1998; 64 FR 13678, Mar. 22, 1999; 64 FR 51893, Sept. 27, 1999; 72 FR 44765, Aug. 9, 2007; 73 FR 76944, Dec. 18, 2008; 74 FR 33328, July 13, 2009; 76 FR 18384, Apr. 4, 2011; 76 FR 65370, Oct. 21, 2011; 78 FR 45460, July 29, 2013; 80 FR 31991, June 5, 2015; 82 FR 5863, Jan. 18, 2017; 82 FR 34401, July 25, 2017; 83 FR 712, Jan. 8, 2018; 83 FR 28993, June 22, 2018]

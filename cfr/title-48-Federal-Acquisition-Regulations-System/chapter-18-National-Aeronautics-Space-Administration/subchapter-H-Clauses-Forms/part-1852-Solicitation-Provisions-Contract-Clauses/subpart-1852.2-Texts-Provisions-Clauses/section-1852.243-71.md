@@ -1,5 +1,7 @@
 ##### 1852.243-71 Shared savings. #####
 
+Link to an amendment published at 83 FR 29041, June 22, 2018.
+
 As prescribed in 1843.7102, insert the following clause:
 
 Shared Savings (MAR 1997)

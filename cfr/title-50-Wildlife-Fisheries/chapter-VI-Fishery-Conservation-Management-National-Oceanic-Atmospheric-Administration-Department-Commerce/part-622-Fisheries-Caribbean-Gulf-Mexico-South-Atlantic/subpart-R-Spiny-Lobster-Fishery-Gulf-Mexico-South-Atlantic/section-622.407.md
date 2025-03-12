@@ -1,5 +1,7 @@
 ##### § 622.407 Minimum size limits and other harvest limitations. #####
 
+Link to an amendment published at 83 FR 29047, June 22, 2018.
+
 (a) *Minimum size limits.* (1) Except as provided in paragraph (c) of this section -
 
 (i) No person may possess a spiny lobster in or from the EEZ with a carapace length of 3.0 inches (7.62 cm) or less; and

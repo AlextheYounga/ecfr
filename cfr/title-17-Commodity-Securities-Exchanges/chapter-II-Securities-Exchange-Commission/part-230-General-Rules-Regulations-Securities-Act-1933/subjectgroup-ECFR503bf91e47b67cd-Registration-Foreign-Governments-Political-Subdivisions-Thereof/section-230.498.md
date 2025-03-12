@@ -1,5 +1,7 @@
 ##### § 230.498 Summary Prospectuses for open-end management investment companies. #####
 
+Link to an amendment published at 83 FR 29203, June 22, 2018.Link to an amendment published at 83 FR 29204, June 22, 2018.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Class* means a class of shares issued by a Fund that has more than one class that represent interests in the same portfolio of securities under § 270.18f-3 of this chapter or under an order exempting the Fund from sections 18(f), 18(g), and 18(i) of the Investment Company Act (15 U.S.C. 80a-18(f), 80a-18(g), and 80a-18(i)).

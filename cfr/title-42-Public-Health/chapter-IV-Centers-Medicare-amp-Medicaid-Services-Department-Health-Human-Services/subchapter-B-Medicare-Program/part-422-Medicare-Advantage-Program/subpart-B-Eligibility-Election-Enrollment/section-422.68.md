@@ -16,4 +16,4 @@
 
 (f) *Annual 45-day period for disenrollment from MA plans to Original Medicare.* Through 2018, an election made from January 1 through February 14 to disenroll from an MA plan to Original Medicare, as described in § 422.62(a)(5), is effective the first day of the first month following the month in which the election is made.
 
-[63 FR 35071, June 26, 1998, as amended at 65 FR 40317, June 29, 2000; 67 FR 13288, Mar. 22, 2002; 70 FR 4718, Jan. 28, 2005; 76 FR 21562, Apr. 15, 2011; 83 FR 16722, Apr. 16, 2018]
+[63 FR 35071, June 26, 1998, as amended at 65 FR 40317, June 29, 2000; 67 FR 13288, Mar. 22, 2002; 70 FR 4718, Jan. 28, 2005; 76 FR 21562, Apr. 15, 2011; 83 FR 16724, Apr. 16, 2018]

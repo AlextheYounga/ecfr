@@ -1,5 +1,7 @@
 ##### § 200.800 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
+Link to an amendment published at 83 FR 29203, June 22, 2018.
+
 (a) *Purpose:* This subpart collects and displays the control numbers assigned to information collection requirements of the Commission by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, 44 U.S.C. 3500 *et seq.* This subpart displays current OMB control numbers for those information collection requirements of the Commission that are rules and regulations and codified in 17 CFR either in full text or incorporated by reference with the approval of the Director of the Office of the Federal Register.
 
 (b) *Display.*

@@ -1,5 +1,7 @@
 ##### 1827.409 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 83 FR 29040, June 22, 2018.
+
 (b)(1) When the clause at FAR 52.227-14, Rights in Data - General, is included in a solicitation or contract, it shall be modified as set forth at 1852.227-14. In contracts for basic or applied research to be performed solely by universities and colleges, the contracting officer shall consult with the center patent or intellectual property counsel regarding the addition of subparagraph (4) as set forth at 1852.227-14 to paragraph (d) of the clause at FAR 52.227-14 and they will consider the guidance provided at FAR 27.404-4.
 
 (2) The contracting officer, with the concurrence of the center patent or intellectual property counsel, is the approval authority for use of Alternate I of the clause at FAR 52.227-14. An example of its use is where the principal purpose of the contract (such as a contract for basic or applied research) does not involve the development, use, or delivery of items, components, or processes that are intended to be acquired for use by or for the Government (either under the contract in question or under any anticipated follow-on contracts relating to the same subject matter).
