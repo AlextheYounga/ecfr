@@ -1,12 +1,10 @@
 ##### § 1240.43 Simplified supervisory formula approach (SSFA). #####
 
-Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
-
 (a) *General requirements for the SSFA.* To use the SSFA to determine the risk weight for a securitization exposure, an Enterprise must have data that enables it to assign accurately the parameters described in paragraph (b) of this section. Data used to assign the parameters described in paragraph (b) of this section must be the most currently available data; if the contracts governing the underlying exposures of the securitization require payments on a monthly or quarterly basis, the data used to assign the parameters described in paragraph (b) of this section must be no more than 91 calendar days old. An Enterprise that does not have the appropriate data to assign the parameters described in paragraph (b) of this section must assign a risk weight of 1,250 percent to the exposure.
 
 (b) *SSFA parameters.* To calculate the risk weight for a securitization exposure using the SSFA, an Enterprise must have accurate information on the following five inputs to the SSFA calculation:
 
-(1) *K*G is the weighted-average (with unpaid principal used as the weight for each exposure) adjusted total capital requirement of the underlying exposures calculated using this subpart. *K*G is expressed as a decimal value between zero and one (that is, an average risk weight of 100 percent represents a value of KG equal to 0.08).
+(1) *K*G is the weighted-average (with unpaid principal used as the weight for each exposure) adjusted total capital requirement of the underlying exposures calculated using this subpart. *K*G is expressed as a decimal value between zero and one (that is, an average risk weight of 100 percent represents a value of *K*G equal to 0.08).
 
 (2) Parameter *W* is expressed as a decimal value between zero and one. Parameter *W* is the ratio of the sum of the dollar amounts of any underlying exposures of the securitization that meet any of the criteria as set forth in paragraphs (b)(2)(i) through (vi) of this section to the balance, measured in dollars, of underlying exposures:
 
@@ -65,3 +63,5 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 (3) The risk weight for the exposure (expressed as a percent) is equal to *K*SSFA \* 1,250.
 
 (e) *Limitations.* Notwithstanding any other provision of this section, an Enterprise must assign a risk weight of not less than 20 percent to a securitization exposure.
+
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]

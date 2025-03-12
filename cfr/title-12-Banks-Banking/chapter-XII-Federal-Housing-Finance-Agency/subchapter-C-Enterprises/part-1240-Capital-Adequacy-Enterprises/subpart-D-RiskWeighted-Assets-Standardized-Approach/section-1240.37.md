@@ -1,12 +1,10 @@
 ##### § 1240.37 Cleared transactions. #####
 
-Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
-
-(a) *General requirements* - (1) *Clearing member clients.* An Enterprise that is a clearing member client must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
+(a) *General requirements*—(1) *Clearing member clients.* An Enterprise that is a clearing member client must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
 
 (2) *Clearing members.* An Enterprise that is a clearing member must use the methodologies described in paragraph (c) of this section to calculate its risk-weighted assets for a cleared transaction and paragraph (d) of this section to calculate its risk-weighted assets for its default fund contribution to a CCP.
 
-(b) *Clearing member client Enterprise* - (1) *Risk-weighted assets for cleared transactions.* (i) To determine the risk-weighted asset amount for a cleared transaction, an Enterprise that is a clearing member client must multiply the trade exposure amount for the cleared transaction, calculated in accordance with paragraph (b)(2) of this section, by the risk weight appropriate for the cleared transaction, determined in accordance with paragraph (b)(3) of this section.
+(b) *Clearing member client Enterprise*—(1) *Risk-weighted assets for cleared transactions.* (i) To determine the risk-weighted asset amount for a cleared transaction, an Enterprise that is a clearing member client must multiply the trade exposure amount for the cleared transaction, calculated in accordance with paragraph (b)(2) of this section, by the risk weight appropriate for the cleared transaction, determined in accordance with paragraph (b)(3) of this section.
 
 (ii) A clearing member client Enterprise's total risk-weighted assets for cleared transactions is the sum of the risk-weighted asset amounts for all its cleared transactions.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 
 (ii) A clearing member client Enterprise must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction in accordance with the requirements under this subpart D.
 
-(c) *Clearing member Enterprises* - (1) *Risk-weighted assets for cleared transactions.* (i) To determine the risk-weighted asset amount for a cleared transaction, a clearing member Enterprise must multiply the trade exposure amount for the cleared transaction, calculated in accordance with paragraph (c)(2) of this section, by the risk weight appropriate for the cleared transaction, determined in accordance with paragraph (c)(3) of this section.
+(c) *Clearing member Enterprises*—(1) *Risk-weighted assets for cleared transactions.* (i) To determine the risk-weighted asset amount for a cleared transaction, a clearing member Enterprise must multiply the trade exposure amount for the cleared transaction, calculated in accordance with paragraph (c)(2) of this section, by the risk weight appropriate for the cleared transaction, determined in accordance with paragraph (c)(3) of this section.
 
 (ii) A clearing member Enterprise's total risk-weighted assets for cleared transactions is the sum of the risk-weighted asset amounts for all of its cleared transactions.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 
 (ii) A clearing member Enterprise must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or a custodian in connection with a cleared transaction in accordance with requirements under this subpart D.
 
-(d) *Default fund contributions* - (1) *General requirement.* A clearing member Enterprise must determine the risk-weighted asset amount for a default fund contribution to a CCP at least quarterly, or more frequently if, in the opinion of the Enterprise or FHFA, there is a material change in the financial condition of the CCP.
+(d) *Default fund contributions*—(1) *General requirement.* A clearing member Enterprise must determine the risk-weighted asset amount for a default fund contribution to a CCP at least quarterly, or more frequently if, in the opinion of the Enterprise or FHFA, there is a material change in the financial condition of the CCP.
 
 (2) *Risk-weighted asset amount for default fund contributions to non-qualifying CCPs.* A clearing member Enterprise's risk-weighted asset amount for default fund contributions to CCPs that are not QCCPs equals the sum of such default fund contributions multiplied by 1,250 percent, or an amount determined by FHFA, based on factors such as size, structure and membership characteristics of the CCP and riskiness of its transactions, in cases where such default fund contributions may be unlimited.
 
@@ -132,7 +130,7 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 
 (*3*) K\*CM as defined in paragraph (d)(3)(ii) of this section.
 
-(iii) *Method 2.* A clearing member Enterprise's risk-weighted asset amount for its default fund contribution to a QCCP, RWADF, equals:
+(iv) *Method 2.* A clearing member Enterprise's risk-weighted asset amount for its default fund contribution to a QCCP, RWADF, equals:
 
 RWADF = Min {12.5 \* DF; 0.18 \* TE}
 
@@ -143,3 +141,5 @@ Where:
 (B) DF = the funded portion of the Enterprise's default fund contribution to the QCCP.
 
 (*4*) *Total risk-weighted assets for default fund contributions.* Total risk-weighted assets for default fund contributions is the sum of a clearing member Enterprise's risk-weighted assets for all of its default fund contributions to all CCPs of which the Enterprise is a clearing member.
+
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]

@@ -1,0 +1,3 @@
+##### § 79.17 Timing of disposition. #####
+
+Disposition will occur no sooner than 60 days after the notice of determination of disposition is published in the Federal Register under § 79.15(i). If the Federal agency receives an objection under § 79.16, then disposition will occur no sooner than 30 days after the notice of decision on the objection and any amendments are published in the Federal Register under § 79.16(f).

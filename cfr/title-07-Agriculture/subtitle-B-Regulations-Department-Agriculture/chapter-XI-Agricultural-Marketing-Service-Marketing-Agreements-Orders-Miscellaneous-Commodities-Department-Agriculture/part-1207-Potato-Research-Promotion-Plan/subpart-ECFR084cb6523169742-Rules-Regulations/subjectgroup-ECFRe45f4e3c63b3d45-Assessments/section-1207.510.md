@@ -1,7 +1,5 @@
 ##### § 1207.510 Levy of assessments. #####
 
-Link to an amendment published at 87 FR 22436, Apr. 15, 2022.
-
 (a) *Domestic assessments.* (1) An assessment rate of 3 cents per hundredweight shall be levied on all potatoes produced within the 50 states of the United States.
 
 (2) No assessment shall be levied on potatoes grown in the 50 States of the United States by producers of less than 5 acres of potatoes.
@@ -11,13 +9,13 @@ Link to an amendment published at 87 FR 22436, Apr. 15, 2022.
 (2) The following conversion factors shall be used to determine the fresh weight equivalents of frozen and processed potato products:
 
 |       Frozen potato products       | .50 |
-|:-----------------------------------|----:|
+|------------------------------------|-----|
 |          Canned potatoes           |.636 |
 |Potato chips and shoestring potatoes|.245 |
 |     Dehydrated potato products     | .14 |
 |           Potato starch            |.1111|
 
-(3) The Harmonized Tariff Schedule (HTS) categories and assessment rates on imported tablestock potatoes and frozen or processed potatoes for ultimate consumption by humans and on imported seed potatoes are as follows:
+(3) The Harmonized Tariff Schedule (HTS) categories and assessment rates on imported tablestock potatoes and frozen or processed potatoes for ultimate consumption by humans and on imported seed potatoes are listed in the following table. In the event that any HTS number subject to assessment is changed and such change is merely a replacement of a previous number and has no impact on the description of the potatoes, assessments will continue to be collected based on the new numbers.
 
 |Tablestock potatoes, frozen or processed potatoes, and seed potatoes|Assessment|     |
 |--------------------------------------------------------------------|----------|-----|
@@ -49,4 +47,4 @@ Link to an amendment published at 87 FR 22436, Apr. 15, 2022.
 
 (d) No more than one such assessment shall be made on any potatoes or potato products.
 
-[57 FR 40083, Sept. 2, 1992, as amended at 58 FR 3359, Jan. 8, 1993; 59 FR 44036, Aug. 26, 1994; 71 FR 11296, Mar. 7, 2006; 71 FR 50330, Aug. 25, 2006; 74 FR 63543, Dec. 4, 2009; 75 FR 14491, Mar. 26, 2010]
+[57 FR 40083, Sept. 2, 1992, as amended at 58 FR 3359, Jan. 8, 1993; 59 FR 44036, Aug. 26, 1994; 71 FR 11296, Mar. 7, 2006; 71 FR 50330, Aug. 25, 2006; 74 FR 63543, Dec. 4, 2009; 75 FR 14491, Mar. 26, 2010; 87 FR 22436, Apr. 15, 2022]

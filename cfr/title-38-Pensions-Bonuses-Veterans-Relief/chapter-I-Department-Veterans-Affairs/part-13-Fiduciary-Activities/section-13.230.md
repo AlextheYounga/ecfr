@@ -1,5 +1,7 @@
 ##### § 13.230 Protection of beneficiary funds. #####
 
+Link to an amendment published at 87 FR 29673, May 16, 2022.
+
 (a) *General.* Except as prescribed in paragraph (c) of this section, within 60 days of appointment, the fiduciary must furnish to the fiduciary hub with jurisdiction a corporate surety bond that is conditioned upon faithful discharge of all of the responsibilities of a fiduciary prescribed in § 13.140 and meets the requirements of paragraph (d) of this section, if the VA benefit funds that are due and to be paid for the beneficiary will exceed $25,000 at the time of appointment. The Hub Manager will not authorize the release of a retroactive, one-time, or other pending lump-sum benefit payment to the fiduciary until the fiduciary has furnished the bond prescribed by this section.
 
 (b) *Accumulated funds.* The provisions of paragraph (a) of this section, which require a fiduciary to furnish a surety bond, apply in any case in which the accumulation over time of VA benefit funds under management by a fiduciary for a beneficiary exceeds $25,000. Except as prescribed in paragraph (c) of this section, within 60 days of accumulated funds exceeding the prescribed threshold, the fiduciary will furnish to the fiduciary hub a bond that meets the requirements of paragraph (d) of this section.

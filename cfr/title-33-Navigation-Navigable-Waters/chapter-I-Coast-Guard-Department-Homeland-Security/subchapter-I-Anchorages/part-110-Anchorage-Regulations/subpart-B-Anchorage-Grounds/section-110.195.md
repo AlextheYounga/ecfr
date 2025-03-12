@@ -1,5 +1,7 @@
 ##### § 110.195 Mississippi River below Baton Rouge, LA, including South and Southwest Passes. #####
 
+Link to an amendment published at 87 FR 29670, May 16, 2022.
+
 (a) *The Anchorage Grounds.* Unless otherwise specified, all anchorage widths are measured from the average low water plane (ALWP).
 
 (1) *Pilottown Anchorage.* An area 5.2 miles in length along the right descending bank of the river from mile 1.5 to mile 6.7 above Head of Passes, extending in width to 1600 feet from the left descending bank of the river.

@@ -1,6 +1,6 @@
 ##### § 241.3 Discontinuance of USPS-operated retail facilities. #####
 
-(a) *Introduction* - (1) *Coverage.* (i) This section establishes the rules governing the Postal Service's consideration of whether an existing retail Post Office, station, or branch should be discontinued. The rules cover any proposal to:
+(a) *Introduction*—(1) *Coverage.* (i) This section establishes the rules governing the Postal Service's consideration of whether an existing retail Post Office, station, or branch should be discontinued. The rules cover any proposal to:
 
 (A) Replace a USPS-operated Post Office, station, or branch with a contractor-operated retail facility;
 
@@ -47,7 +47,7 @@
 Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 |30 days for filing any appeal; up to 120 days for appeal consideration and decision|Wait at least 60 days from first day after posting final determination before closing or consolidating USPS-operated retail facility.|
-|:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 (4) *Additional requirements.* This section also includes:
 
@@ -93,9 +93,9 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (iv) *Initial feasibility study due to emergency suspension.* Wherever possible when an initial feasibility study is to be initiated under § 241.3(a)(5)(i)(B) (for example, when it is anticipated that a lease or rental agreement will be cancelled with no suitable alternate quarters available in the community), responsible personnel should initiate the initial feasibility study sufficiently in advance of the circumstance prompting the emergency suspension to allow a meaningful opportunity for public input to be taken into account. If public input cannot be sought sufficiently in advance of the end date of the lease or rental agreement, responsible personnel should endeavor, to the extent possible, to continue operation of the USPS-operated retail facility for the duration necessary to gather public input and make a more fully informed decision on whether to proceed with a discontinuance proposal. Customers formerly served by the suspended facility should receive notice under paragraph (a)(5)(iii) of this section, including by mail, to the same extent that they would have if the facility were not in suspended status at the time of the initial feasibility study, proposal, or final determination.
 
-(b) *Preservation of community address* - (1) *Policy.* The Postal Service permits the use of a community's separate address to the extent practicable.
+(b) *Preservation of community address*—(1) *Policy.* The Postal Service permits the use of a community's separate address to the extent practicable.
 
-(2) *ZIP Code assignment.* The ZIP Code for each address formerly served from the discontinued USPS-operated retail facility should be kept, wherever practical. In some cases, the ZIP Code originally assigned to the discontinued USPS-operated retail facility may be changed if the responsible District Manager receives approval from his or her Vice President, Area Operations, before any proposal to discontinue the USPS-operated retail facility is posted.
+(2) *ZIP Code assignment.* The ZIP Code for each address formerly served from the discontinued USPS-operated retail facility should be kept, wherever practical. In some cases, the ZIP Code originally assigned to the discontinued USPS-operated retail facility may be changed if the responsible District Manager receives approval from his or her Vice President of Area Delivery and Retail Operations before any proposal to discontinue the USPS-operated retail facility is posted.
 
 (i) In a consolidation, the ZIP Code for the replacement contractor-operated retail facility is the ZIP Code originally assigned to the discontinued facility.
 
@@ -105,7 +105,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (4) *Name of facility established by consolidation.* If a USPS-operated retail facility is consolidated by establishing in its place a contractor-operated facility, the replacement unit can be given the same name of the facility that is replaced, if appropriate in light of the nature of the contract and level of service provided.
 
-(c) *Initial proposal* - (1) *In general.* If a District Manager believes that the discontinuance of a USPS-operated retail facility within his or her responsibility may be warranted, the District Manager:
+(c) *Initial proposal*—(1) *In general.* If a District Manager believes that the discontinuance of a USPS-operated retail facility within his or her responsibility may be warranted, the District Manager:
 
 (i) Must use the standards and procedures in § 241.3(c) and (d).
 
@@ -147,7 +147,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (D) *Appeal rights.* “The final determination will contain instructions on how affected customers may appeal a decision to close or consolidate a post office to the Postal Regulatory Commission. Any such appeal must be received by the Commission within 30 days of the posting of the final determination.” The notice in this clause is provided when the USPS-operated retail facility under study is a post office. For purposes of this clause, the date of receipt by the Commission is based on the postmark of the appeal, if sent through the mail, or on other appropriate documentation or indicia, if sent through another lawful delivery method.
 
-(d) *Notice, public comment, and record* - (1) *Posting proposal and comment notice.* A copy of the written proposal and a signed invitation for comments must be posted prominently, with additional copies to be given to customers upon request, in the following locations:
+(d) *Notice, public comment, and record*—(1) *Posting proposal and comment notice.* A copy of the written proposal and a signed invitation for comments must be posted prominently, with additional copies to be given to customers upon request, in the following locations:
 
 (i) The USPS-operated retail facility under study, unless service at the facility has been suspended;
 
@@ -165,7 +165,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (iii) Provide a name and telephone number to call for information.
 
-(3) *Other steps.* In addition to providing notice and inviting comment, the District Manager must take any other steps necessary to ensure that the persons served by affected USPS-operated retail facilities understand the nature and implications of the proposed action. A community meeting must be held to provide outreach and gain public input after the proposal is posted, unless otherwise instructed by the responsible Headquarters Vice President or the applicable Vice President, Area Operations. Authorization to forgo a community meeting should issue only where exceptional circumstances make a community meeting infeasible, such as where the community no longer exists because of a natural disaster or because residents have moved elsewhere.
+(3) *Other steps.* In addition to providing notice and inviting comment, the District Manager must take any other steps necessary to ensure that the persons served by affected USPS-operated retail facilities understand the nature and implications of the proposed action. A community meeting must be held to provide outreach and gain public input after the proposal is posted, unless otherwise instructed by the responsible Headquarters Vice President or the applicable Vice President of Area Delivery and Retail Operations. Authorization to forgo a community meeting should issue only where exceptional circumstances make a community meeting infeasible, such as where the community no longer exists because of a natural disaster or because residents have moved elsewhere.
 
 (i) If oral contacts develop views or information not previously documented, whether favorable or unfavorable to the proposal, the District Manager should encourage persons offering the views or information to provide written comments to preserve them for the record.
 
@@ -185,7 +185,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (vi) Copies of documents in the record (except the proposal and comment form) are provided on request and on payment of fees as noted in chapter 4 of Handbook AS-353, *Guide to Privacy, the Freedom of Information Act, and Records Management.*
 
-(e) *Consideration of public comments and final local recommendation* - (1) *Analysis of comments.* The District Manager or a designee must prepare an analysis of the public comments received for consideration and inclusion in the record. If possible, comments subsequently received should also be included in the analysis. The analysis should list and briefly describe each point favorable to the proposal and each point unfavorable to the proposal. The analysis should identify to the extent possible how many comments support each point listed.
+(e) *Consideration of public comments and final local recommendation*—(1) *Analysis of comments.* The District Manager or a designee must prepare an analysis of the public comments received for consideration and inclusion in the record. If possible, comments subsequently received should also be included in the analysis. The analysis should list and briefly describe each point favorable to the proposal and each point unfavorable to the proposal. The analysis should identify to the extent possible how many comments support each point listed.
 
 (2) *Re-evaluation of proposal.* After completing the analysis, the District Manager must review the proposal and re-evaluate all the tentative conclusions previously made in light of additional customer information and views in the record.
 
@@ -197,7 +197,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (B) Certify that all documents in the record are originals or true and correct copies.
 
-(f) *Postal Service decision* - (1) *In general.* The responsible Headquarters Vice President or a designee must review the proposal of the District Manager and decide on the merits of the proposal. This review and the decision must be based on and supported by the record developed by the District Manager. The responsible Headquarters Vice President can instruct the District Manager to provide more information to supplement the record. Each instruction and the response must be added to the record. The decision on the proposal of the District Manager, which must also be added to the record, may approve or disapprove the proposal, or return it for further action as set forth in this paragraph (f).
+(f) *Postal Service decision*—(1) *In general.* The responsible Headquarters Vice President or a designee must review the proposal of the District Manager and decide on the merits of the proposal. This review and the decision must be based on and supported by the record developed by the District Manager. The responsible Headquarters Vice President can instruct the District Manager to provide more information to supplement the record. Each instruction and the response must be added to the record. The decision on the proposal of the District Manager, which must also be added to the record, may approve or disapprove the proposal, or return it for further action as set forth in this paragraph (f).
 
 (2) *Approval.* The responsible Headquarters Vice President or a designee may approve the proposed discontinuance, with or without further revisions. If approved without further revision, the term “Final Determination” is substituted for “Proposal” in the title. A copy of the Final Determination must be provided to the District Manager. The Final Determination constitutes the Postal Service determination for the purposes of 39 U.S.C. 404(d).
 
@@ -211,7 +211,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (5) *Public file.* Copies of each Final Determination and each disapproval of a proposal by the responsible Headquarters Vice President must be placed on file in the Postal Service Headquarters library.
 
-(g) *Implementation of final determination* - (1) *Notice of final determination to discontinue USPS-operated retail facility.* The District Manager must:
+(g) *Implementation of final determination*—(1) *Notice of final determination to discontinue USPS-operated retail facility.* The District Manager must:
 
 (i) Provide notice of the Final Determination by posting a copy prominently in the USPS-operated retail facilities in each affected USPS-operated retail facilities where the proposal was posted under paragraph (d)(1) of this section, including the USPS-operated retail facilities likely to be serving the affected customers. The date of posting must be noted on the first page of the posted copy as follows: “Date of posting.”
 
@@ -221,7 +221,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (2) *Implementation of determinations not appealed.* If no appeal is filed, the official closing date of the office must be published in the *Postal Bulletin* and effective, at the earliest, 60 days after the first day that Final Determination was posted. A District Manager may request a different date for official discontinuance in the Retail Change Announcement document submitted to the responsible Headquarters Vice President or a designee. However, the USPS-operated retail facility may not be discontinued sooner than 60 days after the first day of the posting of the notice required by paragraph (g)(1) of this section.
 
-(3) *Actions during appeal* - (i) *Implementation of discontinuance.* If an appeal is filed, only the responsible Headquarters Vice President may direct a discontinuance before disposition of the appeal. However, the USPS-operated retail facility may not be permanently discontinued sooner than 60 days after the first day of the posting of the notice required by paragraph (g)(1) of this section.
+(3) *Actions during appeal*—(i) *Implementation of discontinuance.* If an appeal is filed, only the responsible Headquarters Vice President may direct a discontinuance before disposition of the appeal. However, the USPS-operated retail facility may not be permanently discontinued sooner than 60 days after the first day of the posting of the notice required by paragraph (g)(1) of this section.
 
 (ii) *Display of appeal documents.* The Office of General Counsel must provide the District Manager with copies of all pleadings, notices, orders, briefs, and opinions filed in the appeal proceeding.
 
@@ -229,7 +229,7 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (B) All documents except the Postal Regulatory Commission's final order and opinion must be displayed until the final order and opinion are issued. The final order and opinion must be displayed at the USPS-operated retail facility to be discontinued for 30 days or until the effective date of the discontinuance, whichever is earlier. The final order and opinion must be displayed for 30 days in all other USPS-operated retail facilities where the Final Determination was posted under paragraph (g)(1)(i) of this section.
 
-(4) *Actions following appeal decision* - (i) *Determination affirmed.* If the Commission dismisses the appeal or affirms the Postal Service's determination, the official closing date of the office must be published in the Postal Bulletin, effective anytime after the Commission renders its opinion, if not previously implemented under § 241.3(g)(3)(i). However, the USPS-operated retail facility may not be discontinued sooner than 60 days after the first day of the posting of the notice required under § 241.3(g)(1).
+(4) *Actions following appeal decision* —(i) *Determination affirmed.* If the Commission dismisses the appeal or affirms the Postal Service's determination, the official closing date of the office must be published in the Postal Bulletin, effective anytime after the Commission renders its opinion, if not previously implemented under § 241.3(g)(3)(i). However, the USPS-operated retail facility may not be discontinued sooner than 60 days after the first day of the posting of the notice required under § 241.3(g)(1).
 
 (ii) *Determination returned for further consideration.* If the Commission returns the matter for further consideration, the responsible Headquarters Vice President must direct that either:
 
@@ -237,4 +237,4 @@ Public Notice of Proposal60-day noticePublic Notice of Final Determination
 
 (B) The matter be returned to an appropriate stage under this section for further consideration following such instructions as the responsible Headquarters Vice President may provide.
 
-[76 FR 41420, July 14, 2011; 76 FR 43898, July 22, 2011, as amended at 76 FR 66187, Oct. 26, 2011; 77 FR 46950, Aug. 7, 2012]
+[76 FR 41420, July 14, 2011; 76 FR 43898, July 22, 2011, as amended at 76 FR 66187, Oct. 26, 2011; 77 FR 46950, Aug. 7, 2012; 87 FR 29673, May 16, 2022]

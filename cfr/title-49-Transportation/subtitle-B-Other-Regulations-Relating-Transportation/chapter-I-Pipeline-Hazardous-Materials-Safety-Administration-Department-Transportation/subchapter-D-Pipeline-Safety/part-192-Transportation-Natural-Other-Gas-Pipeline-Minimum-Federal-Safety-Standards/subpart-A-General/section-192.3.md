@@ -1,6 +1,6 @@
 ##### § 192.3 Definitions. #####
 
-Link to an amendment published at 86 FR 63295, Nov. 15, 2021.Link to an amendment published at 87 FR 20982, Apr. 8, 2022.
+Link to an amendment published at 87 FR 20982, Apr. 8, 2022.
 
 As used in this part:
 
@@ -11,6 +11,8 @@ As used in this part:
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate.
 
 *Alarm* means an audible or visible means of indicating to the controller that equipment or processes are outside operator-defined, safety-related parameters.
+
+*Composite materials* means materials used to make pipe or components manufactured with a combination of either steel and/or plastic and with a reinforcing material to maintain its circumferential or longitudinal strength.
 
 *Control room* means an operations center staffed by personnel charged with the responsibility for remotely monitoring and controlling a pipeline facility.
 

@@ -1,7 +1,5 @@
 ##### § 1240.2 Definitions. #####
 
-Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
-
 As used in this part:
 
 *Acquired CRT exposure* means, with respect to an Enterprise:
@@ -66,7 +64,7 @@ As used in this part:
 
 (i) If the transaction is not subject to a qualifying master netting agreement, the counterparty credit risk (E\*) for transactions with a counterparty must be calculated on a transaction by transaction basis, such that each transaction i is treated as its own netting set, in accordance with the following formula, where Ei is the fair value of the instruments, gold, or cash that the Enterprise has lent, sold subject to repurchase, or provided as collateral to the counterparty, and Ci is the fair value of the instruments, gold, or cash that the Enterprise has borrowed, purchased subject to resale, or received as collateral from the counterparty:
 
-Ei\* = max {0, [Ei - Ci]}
+Ei\* = max {0, [Ei—Ci]}
 
 (ii) If the transaction is subject to a qualifying master netting agreement, the counterparty credit risk (E\*) must be calculated as the greater of zero and the total fair value of the instruments, gold, or cash that the Enterprise has lent, sold subject to repurchase or provided as collateral to a counterparty for all transactions included in the qualifying master netting agreement (ΣEi), less the total fair value of the instruments, gold, or cash that the Enterprise borrowed, purchased subject to resale or received as collateral from the counterparty for those transactions (ΣCi), in accordance with the following formula:
 
@@ -274,7 +272,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Eligible credit reserves* means all general allowances that have been established through a charge against earnings or retained earnings to cover expected credit losses associated with on- or off-balance sheet wholesale and retail exposures, including AACL associated with such exposures. Eligible credit reserves exclude allowances that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities and other specific reserves created against recognized losses.
 
-*Eligible funded synthetic risk transfer* means a credit risk transfer in which -
+*Eligible funded synthetic risk transfer* means a credit risk transfer in which—
 
 (1) A CRT SPE that is bankruptcy remote from the Enterprise and not consolidated with the Enterprise under GAAP is contractually obligated to reimburse the Enterprise for specified losses on a reference pool of mortgage exposures of the Enterprise upon designated credit events and designated modification events;
 
@@ -282,7 +280,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (3) The performance of each class of securities issued by the CRT SPE depends on the performance of the reference pool; and
 
-(4) The proceeds of the securities issued by the CRT SPE -
+(4) The proceeds of the securities issued by the CRT SPE—
 
 (i) Are, at the time of entry into the transaction, in the aggregate no less than the maximum obligation of the CRT SPE to the Enterprise; and
 
@@ -616,7 +614,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Standardized total risk-weighted assets* means:
 
-(1) The sum of -
+(1) The sum of—
 
 (i) Total risk-weighted assets for general credit risk as calculated under § 1240.31;
 
@@ -676,7 +674,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (i) An investment fund;
 
-(ii) A collective investment fund held by a State member bank as fiduciary and, consistent with local law, invested collectively -
+(ii) A collective investment fund held by a State member bank as fiduciary and, consistent with local law, invested collectively—
 
 (A) In a common trust fund maintained by such bank exclusively for the collective investment and reinvestment of monies contributed thereto by the bank in its capacity as trustee, executor, administrator, guardian, or custodian under the Uniform Gifts to Minors Act; or
 
@@ -701,3 +699,5 @@ E\* = max {0, [ΣEi− ΣCi]}
 *Variation margin threshold* means the amount of credit exposure of an Enterprise to its counterparty that, if exceeded, would require the counterparty to post variation margin to the Enterprise pursuant to the variation margin agreement.
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
+
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]

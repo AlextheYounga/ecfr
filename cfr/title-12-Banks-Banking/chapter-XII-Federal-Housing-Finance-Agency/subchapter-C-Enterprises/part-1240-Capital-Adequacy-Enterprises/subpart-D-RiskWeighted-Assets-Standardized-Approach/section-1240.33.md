@@ -1,7 +1,5 @@
 ##### § 1240.33 Single-family mortgage exposures. #####
 
-Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
-
 (a) *Definitions.* Subject to any additional instructions set forth on table 1 to this paragraph (a), for purposes of this section:
 
 *Adjusted MTMLTV* means, with respect to a single-family mortgage exposure and as of a particular time, the amount equal to:
@@ -50,13 +48,13 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 
 *Loan purpose* means the purpose of a single-family mortgage exposure at origination.
 
-*Long-term HPI trend* means, as of a particular time, the amount equal to: 0.66112295.
+*Long-term HPI trend* means, as of a particular time, the amount equal to: 0.66112295*e*(0.002619948\*t).
 
 Where *t* = the number of quarters from the first quarter of 1975 to and including the end of the preceding calendar quarter and where the first quarter of 1975 is counted as one.1
 
 1 FHFA will adjust the formula for the long-term HPI trend in accordance with applicable law if two conditions are satisfied as of the end of a calendar quarter that follows the last adjustment to the long-term HPI trend: (i) The average of the long-term trend departures over four consecutive calendar quarters has been less than −5.0 percent; and (ii) after the end of the calendar quarter in which the first condition is satisfied, the deflated HPI has increased to an extent that it again exceeds the long-term HPI trend. The point in time of the new trough used by FHFA to adjust the formula for the long-term HPI trend will be identified by the calendar quarter with the smallest deflated HPI in the period that includes the calendar quarter in which the first condition is satisfied and ends at the end of the calendar quarter in which the second condition is first satisfied.
 
-*Long-term trend departure* means, as of a particular time, the percent amount equal to -
+*Long-term trend departure* means, as of a particular time, the percent amount equal to—
 
 (i) The deflated HPI as of that time divided by the long-term HPI trend as of that time; minus
 
@@ -96,9 +94,9 @@ Where *t* = the number of quarters from the first quarter of 1975 to and includi
 
 *Original credit score* means the borrower's credit score as of the origination date of a single-family mortgage exposure.
 
-*OLTV* means, with respect to a single-family mortgage exposure, the amount equal to:
+*OLTV (original loan-to-value)* means, with respect to a single-family mortgage exposure, the amount equal to:
 
-(i) The unpaid principal balance of the single-family mortgage exposure at *origination;* divided by
+(i) The unpaid principal balance of the single-family mortgage exposure at origination; divided by
 
 (ii) The lesser of:
 
@@ -203,7 +201,7 @@ Table 1 to Paragraph (a): Permissible Values and Additional Instructions
 |        Streamlined refi        |                                                                             Yes, no                                                                              |                                                                                                                                                            No if unable to determine.                                                                                                                                                             |
 |         Subordination          |                                                            0 percent \<= Subordination \<= 80 percent                                                            |                                                                                                                                                     80 percent if outside permissible range.                                                                                                                                                      |
 
-(b) *Risk weight* - (1) *In general.* Subject to paragraph (b)(2) of this section, an Enterprise must assign a risk weight to a single-family mortgage exposure equal to:
+(b) *Risk weight*—(1) *In general.* Subject to paragraph (b)(2) of this section, an Enterprise must assign a risk weight to a single-family mortgage exposure equal to:
 
 (i) The base risk weight for the single-family mortgage exposure as determined under paragraph (c) of this section; multiplied by
 
@@ -213,7 +211,7 @@ Table 1 to Paragraph (a): Permissible Values and Additional Instructions
 
 (2) *Minimum risk weight.* Notwithstanding the risk weight determined under paragraph (b)(1) of this section, the risk weight assigned to a single-family mortgage exposure may not be less than 20 percent.
 
-(c) *Base risk weight* - (1) *Performing loan.* The base risk weight for a performing loan is set forth on Table 2 to this paragraph (c)(1). For purposes of this paragraph (c)(1), credit score means, with respect to a single-family mortgage exposure:
+(c) *Base risk weight*—(1) *Performing loan.* The base risk weight for a performing loan is set forth on Table 2 to this paragraph (c)(1). For purposes of this paragraph (c)(1), credit score means, with respect to a single-family mortgage exposure:
 
 (i) The original credit score of the single-family mortgage exposure, if the loan age of the single-family mortgage exposure is less than 6; or
 
@@ -237,7 +235,7 @@ Table 1 to Paragraph (a): Permissible Values and Additional Instructions
 
 ![](/graphics/er17de20.015.gif)
 
-(d) *Combined risk multiplier* - (1) *In general.* Subject to paragraph (d)(2) of this section, the combined risk multiplier for a single-family mortgage exposure is equal to the product of each of the applicable risk multipliers set forth under the applicable single-family segment on Table 6 to paragraph (d)(2) of this section.
+(d) *Combined risk multiplier*—(1) *In general.* Subject to paragraph (d)(2) of this section, the combined risk multiplier for a single-family mortgage exposure is equal to the product of each of the applicable risk multipliers set forth under the applicable single-family segment on Table 6 to paragraph (d)(2) of this section.
 
 (2) *Maximum combined risk multiplier.* Notwithstanding the combined risk multiplier determined under paragraph (d)(1) of this section, the combined risk multiplier for a single-family mortgage exposure may not exceed 3.0.
 
@@ -307,7 +305,7 @@ Table 6 to Paragraph (d)(2): Risk Multipliers
 |                                                              |                 760 \<= refreshed credit score \<780                  |                     |             |   |0.7|
 |                                                              |                    Refreshed credit score \>= 780                     |                     |             |   |0.5|
 
-(e) *Credit enhancement multiplier* - (1) *Amount* - (i) *In general.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is subject to loan-level credit enhancement is equal to 1.0 minus the product of:
+(e) *Credit enhancement multiplier*—(1) *Amount*—(i) *In general.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is subject to loan-level credit enhancement is equal to 1.0 minus the product of:
 
 (A) 1.0 minus the credit enhancement multiplier for the single-family mortgage exposure as determined under paragraph (e)(2) of this section; multiplied by
 
@@ -317,7 +315,7 @@ Table 6 to Paragraph (d)(2): Risk Multipliers
 
 (2) *Credit enhancement multiplier.* (i) The credit enhancement multiplier for a single-family mortgage exposure that is subject to a participation agreement is 1.0.
 
-(ii) Subject to paragraph (e)(2)(iii) of this section, the credit enhancement multiplier for -
+(ii) Subject to paragraph (e)(2)(iii) of this section, the credit enhancement multiplier for—
 
 (A) A performing loan, non-modified RPL, or modified RPL that is subject to non-cancelable mortgage insurance is set forth on Table 7 to paragraph (e)(2)(iii)(E) of this section;
 
@@ -343,7 +341,7 @@ Table 6 to Paragraph (d)(2): Risk Multipliers
 
 ![](/graphics/er17de20.018.gif)![](/graphics/er17de20.019.gif)![](/graphics/er17de20.020.gif)![](/graphics/er17de20.021.gif)![](/graphics/er17de20.022.gif)
 
-(3) *Credit enhancement counterparty haircut* - (i) *Counterparty rating* - (A) *In general.* For purposes of this paragraph (e)(3), the counterparty rating for a counterparty is -
+(3) *Credit enhancement counterparty haircut*—(i) *Counterparty rating*—(A) *In general.* For purposes of this paragraph (e)(3), the counterparty rating for a counterparty is—
 
 (*1*) 1, if the Enterprise has determined that the counterparty has extremely strong capacity to perform its financial obligations in a severely adverse stress;
 
@@ -369,10 +367,12 @@ Table 6 to Paragraph (d)(2): Risk Multipliers
 
 ![](/graphics/er17de20.023.gif)
 
-(f) *COVID-19-related forbearances* - (1) *During forbearance.* Notwithstanding anything to the contrary under paragraph (c)(4) of this section, the base risk weight for an NPL is equal to the product of 0.45 and the base risk weight that would otherwise be assigned to the NPL under paragraph (c)(4) of this section if the NPL -
+(f) *COVID-19-related forbearances*—(1) *During forbearance.* Notwithstanding anything to the contrary under paragraph (c)(4) of this section, the base risk weight for an NPL is equal to the product of 0.45 and the base risk weight that would otherwise be assigned to the NPL under paragraph (c)(4) of this section if the NPL—
 
 (i) Is subject to a COVID-19-related forbearance; or
 
 (ii) Was subject to a COVID-19-related forbearance at any time in the prior 6 calendar months and is subject to a trial modification plan.
 
 (2) *After forbearance.* Notwithstanding the definition of “past due” under paragraph (a) of this section, any period of time in which a single-family mortgage exposure was past due while subject to a COVID-19-related forbearance is to be disregarded for the purpose of assigning a risk weight under this section if the entire amount past due was repaid upon the termination of the COVID-19-related forbearance.
+
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]

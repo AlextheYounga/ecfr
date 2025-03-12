@@ -1,7 +1,5 @@
 ##### § 1240.11 Capital conservation buffer and leverage buffer. #####
 
-Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Capital conservation buffer.* An Enterprise's capital conservation buffer is the amount calculated under paragraph (c)(2) of this section.
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 
 (5) *Prescribed capital conservation buffer amount.* An Enterprise's prescribed capital conservation buffer amount is equal to its stress capital buffer in accordance with paragraph (a)(7) of this section plus its applicable countercyclical capital buffer amount in accordance with paragraph (e) of this section plus its applicable stability capital buffer in accordance with paragraph (f) of this section.
 
-(6) *Prescribed leverage buffer amount.* An Enterprise's prescribed leverage buffer amount is 1.5 percent of the Enterprise's adjusted total assets, as of the last day of the previous calendar quarter.
+(6) *Prescribed leverage buffer amount.* An Enterprise's prescribed leverage buffer amount is 50 percent of the Enterprise's stability capital buffer calculated in accordance with subpart G of this part.
 
 (7) *Stress capital buffer.* (i) Subject to paragraph (a)(7)(iii) of this section, FHFA will determine the stress capital buffer pursuant to this paragraph (a)(7).
 
@@ -99,3 +97,5 @@ Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
 (iii) *Twelve month sunset.* The countercyclical capital buffer amount will return to zero percent 12 months after the effective date that the adjusted countercyclical capital buffer amount is announced, unless FHFA announces a decision to maintain the adjusted countercyclical capital buffer amount or adjust it again before the expiration of the 12-month period.
 
 (f) *Stability capital buffer.* An Enterprise must use its stability capital buffer calculated in accordance with subpart G of this part for purposes of determining its maximum payout ratio under Table 1 to paragraph (b)(5) of this section.
+
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]

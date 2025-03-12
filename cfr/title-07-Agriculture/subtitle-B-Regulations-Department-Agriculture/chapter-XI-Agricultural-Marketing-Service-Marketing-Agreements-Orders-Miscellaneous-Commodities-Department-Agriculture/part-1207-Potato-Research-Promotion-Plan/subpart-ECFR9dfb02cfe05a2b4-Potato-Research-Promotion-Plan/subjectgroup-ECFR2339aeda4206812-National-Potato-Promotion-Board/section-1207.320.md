@@ -1,10 +1,8 @@
 ##### § 1207.320 Establishment and membership. #####
 
-Link to an amendment published at 87 FR 22435, Apr. 15, 2022.
-
 (a) There is hereby established a National Potato Promotion Board, hereinafter called the “Board”, composed of producers, importers, and a public member appointed by the Secretary. Producer members shall be appointed from nominations submitted by producers in the various States or groups of States pursuant to § 1207.322. Importer members shall be appointed from nominations submitted by importers pursuant to § 1207.322. The public member shall be nominated by Board members in such manner as recommended by the Board and approved by the Secretary, and shall be appointed by the Secretary.
 
-(b) Producer membership upon the Board shall be determined on the basis of the potato production reported in the latest Crop Production Annual Summary Report issued by the Crop Reporting Board, U.S. Department of Agriculture. Unless the Secretary, upon recommendation of the Board, determines an alternate basis, for each five million hundredweight of such production, or major fraction thereof, produced within each State, such State shall be entitled to one member. However, each State shall initially be entitled to at least one member.
+(b) Producer membership upon the Board shall be determined on the basis of the potato production reported in the latest Crop Production Annual Summary Report issued by the National Agricultural Statistics Service of the U.S. Department of Agriculture. If a State's potato production data is not provided by the National Agricultural Statistics Service, the Board may use an alternative data source that reliably reflects potato production in the United States. Unless the Secretary, upon recommendation of the Board, determines an alternate basis, for each five million hundredweight of such production, or major fraction thereof, produced within each State, such State shall be entitled to one member. However, each State shall initially be entitled to at least one member.
 
 (c) The number of importer member positions on the Board shall be based on the hundredweights of potatoes, potato products equivalent to fresh potatoes, and seed potatoes imported into the United States but shall not exceed five importer members. Unless the Secretary, upon recommendation of the Board, determines an alternate basis, there shall be one importer member position for each 5 million hundredweight, or major fraction thereof, of potatoes, potato product equivalents, and seed potatoes imported into the United States.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 87 FR 22435, Apr. 15, 2022.
 
 (f) Should the Board fail to nominate a public member, the Secretary may appoint such member.
 
-[37 FR 5008, Mar. 9, 1972, as amended at 49 FR 20806, May 17, 1984; 49 FR 31390, Aug. 7, 1984; 56 FR 40229, Aug. 14, 1991]
+[37 FR 5008, Mar. 9, 1972, as amended at 49 FR 20806, May 17, 1984; 49 FR 31390, Aug. 7, 1984; 56 FR 40229, Aug. 14, 1991; 87 FR 22435, Apr. 15, 2022]
