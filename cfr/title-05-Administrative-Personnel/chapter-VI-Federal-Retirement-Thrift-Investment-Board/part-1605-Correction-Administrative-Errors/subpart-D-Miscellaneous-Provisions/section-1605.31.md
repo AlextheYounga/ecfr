@@ -1,5 +1,7 @@
 ##### § 1605.31 Contributions missed as a result of military service. #####
 
+Link to an amendment published at 82 FR 60105, Dec. 19, 2017.
+
 (a) *Applicability.* This section applies to employees who meet the conditions specified at 5 CFR 1620.40 and who are eligible to make up employee contributions or to receive employing agency contributions missed as a result of military service.
 
 (b) *Missed employee contributions.* An employee who separates or enters nonpay status to perform military service may be eligible to make up TSP contributions when he or she is reemployed or restored to pay status in the civilian service. Eligibility for making up missed employee contributions will be determined in accordance with the rules specified at 5 CFR part 1620, subpart E. Missed employee contributions must be made up in accordance with the rules set out in § 1605.11(c) and 5 CFR 1620.42.

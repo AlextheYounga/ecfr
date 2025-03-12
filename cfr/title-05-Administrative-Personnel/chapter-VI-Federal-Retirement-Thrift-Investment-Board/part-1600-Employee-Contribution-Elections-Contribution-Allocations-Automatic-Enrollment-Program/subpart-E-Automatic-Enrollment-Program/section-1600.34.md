@@ -1,5 +1,7 @@
 ##### § 1600.34 Automatic enrollment program. #####
 
+Link to an amendment published at 82 FR 60102, Dec. 19, 2017.
+
 (a) All newly hired civilian employees who are eligible to participate in the Thrift Savings Plan and those civilian employees who are rehired after a separation in service of 31 or more calendar days and who are eligible to participate in the TSP will automatically have 3% of their basic pay contributed to the employee's traditional TSP balance (default employee contribution) unless they elect by the end of the employee's first pay period (subject to the agency's processing time frames):
 
 (1) To not contribute;

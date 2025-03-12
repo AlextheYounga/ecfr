@@ -1,5 +1,7 @@
 ##### § 1603.1 Definitions. #####
 
+Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
+
 (a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.
 
 (b) As used in this part:

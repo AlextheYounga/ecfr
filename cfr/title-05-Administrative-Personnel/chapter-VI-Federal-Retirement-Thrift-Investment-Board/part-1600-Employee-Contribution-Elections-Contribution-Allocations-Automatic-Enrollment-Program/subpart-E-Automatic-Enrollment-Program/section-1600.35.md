@@ -1,5 +1,7 @@
 ##### § 1600.35 Refunds of default employee contributions. #####
 
+Link to an amendment published at 82 FR 60103, Dec. 19, 2017.
+
 (a) A participant may request a refund of any default employee contributions made on his or her behalf (*i.e.,* the contributions made while under the automatic enrollment program) provided the request is received within 90 days after the date that the first default employee contribution was processed. The election must be made on the TSP's refund request form and must be received by the TSP's record keeper prior to the expiration of the 90-day period.
 
 (1) The distribution of a refund will be reported as income to the participant on IRS Form 1099-R, but it will not be subject to the additional tax under 26 U.S.C. 72(t) (the early withdrawal penalty tax).

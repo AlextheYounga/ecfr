@@ -1,5 +1,7 @@
 ##### § 1603.2 Basic vesting rules. #####
 
+Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
+
 (a) All amounts in a CSRS employee's or uniformed service member's individual account are immediately vested.
 
 (b) Except as provided in paragraph (c) of this section, all amounts in a FERS employee's individual account (including all first conversion contributions) are immediately vested.

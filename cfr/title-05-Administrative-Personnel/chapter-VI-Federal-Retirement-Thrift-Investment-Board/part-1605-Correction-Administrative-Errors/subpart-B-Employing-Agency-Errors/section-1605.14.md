@@ -1,5 +1,7 @@
 ##### § 1605.14 Misclassified retirement system coverage. #####
 
+Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
+
 (a) If a CSRS participant is misclassified by an employing agency as a FERS participant, when the misclassification is corrected:
 
 (1) Employee contributions that exceed the applicable contribution percentage for the pay period(s) involved may remain in the participant's account. The participant may request the return of excess employee contributions made on or after January 1, 2000; those contributed before January 1, 2000, must remain in the participant's account. If the participant requests a refund of employee contributions, the employing agency must submit a negative adjustment record to remove these funds under the procedure described in § 1605.12.

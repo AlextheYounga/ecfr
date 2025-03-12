@@ -1,5 +1,7 @@
 ##### § 1605.11 Makeup of missed or insufficient contributions. #####
 
+Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
+
 (a) *Applicability.* This section applies whenever, as the result of an employing agency error, a participant does not receive all of the TSP contributions to which he or she is entitled. This includes situations in which an employing agency error prevents a participant from making an election to contribute to his or her TSP account, in which an employing agency fails to implement a contribution election properly submitted by a participant, in which an employing agency fails to make agency automatic (1%) contributions or agency matching contributions that it is required to make, or in which an employing agency otherwise erroneously contributes less to the TSP for a participant's account than it should have. The corrections required by this section must be made in accordance with this part and the procedures provided to employing agencies by the Board in bulletins or other guidance. It is the responsibility of the employing agency to determine whether it has made an error that entitles a participant to error correction under this section.
 
 (b) *Employer makeup contributions.* If an employing agency has failed to make agency automatic (1%) contributions that are required under 5 U.S.C. 8432(c)(1)(A), agency matching contributions that are required under section 8432(c)(2), or matching contributions that are authorized under 37 U.S.C. 211(d), the following rules apply:

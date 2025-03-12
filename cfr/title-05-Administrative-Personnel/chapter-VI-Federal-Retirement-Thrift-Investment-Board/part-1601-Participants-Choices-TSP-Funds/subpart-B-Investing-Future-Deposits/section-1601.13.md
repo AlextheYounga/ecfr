@@ -1,5 +1,7 @@
 ##### § 1601.13 Elections. #####
 
+Link to an amendment published at 82 FR 60103, Dec. 19, 2017.
+
 (a) *Contribution allocation.* Each participant may indicate his or her choice of TSP Funds for the allocation of future deposits by using the TSP Web site or the ThriftLine, or by completing and filing the appropriate paper TSP form with the TSP record keeper in accordance with the form's instructions. The following rules apply to contribution allocations:
 
 (1) Contribution allocations must be made in one percent increments. The sum of the percentages elected for all of the TSP Funds must equal 100 percent;

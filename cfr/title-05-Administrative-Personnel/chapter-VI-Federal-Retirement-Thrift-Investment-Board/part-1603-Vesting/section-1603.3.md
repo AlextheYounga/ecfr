@@ -1,5 +1,7 @@
 ##### § 1603.3 Service requirements. #####
 
+Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
+
 (a) Except as provided under paragraph (b) of this section, FERS employees will be vested in their agency automatic (1%) contributions and attributable earnings upon separating from Government only if, as of their separation date, they have completed three years of service.
 
 (b) FERS employees will be vested in their agency automatic (1%) contributions and attributable earnings upon separating from Government service if, as of their separation date, they have completed two years of service and they are serving in one of the following positions:
