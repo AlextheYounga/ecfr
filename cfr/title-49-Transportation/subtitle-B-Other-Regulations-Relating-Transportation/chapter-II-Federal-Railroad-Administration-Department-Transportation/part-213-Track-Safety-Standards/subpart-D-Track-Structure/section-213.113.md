@@ -1,12 +1,12 @@
 ##### § 213.113 Defective rails. #####
 
-(a) When an owner of track learns that a rail in the track contains any of the defects listed in the table contained in paragraph (c) of this section, a person designated under § 213.7 shall determine whether the track may continue in use. If the designated person determines that the track may continue in use, operation over the defective rail is not permitted until -
+(a) When an owner of track learns that a rail in the track contains any of the defects listed in the table contained in paragraph (c) of this section, a person designated under § 213.7 shall determine whether the track may continue in use. If the designated person determines that the track may continue in use, operation over the defective rail is not permitted until—
 
 (1) The rail is replaced or repaired; or
 
 (2) The remedial action prescribed in the table contained in paragraph (c) of this section is initiated.
 
-(b) When an owner of track learns that a rail in the track contains an indication of any of the defects listed in the table contained in paragraph (c) of this section, the track owner shall verify the indication. The track owner must verify the indication within four hours, unless the track owner has an indication of the existence of a defect that requires remedial action A, A2, or B identified in the table contained in paragraph (c) of this section, in which case the track owner must immediately verify the indication. If the indication is verified, the track owner must -
+(b) When an owner of track learns that a rail in the track contains an indication of any of the defects listed in the table contained in paragraph (c) of this section, the track owner shall verify the indication. Except as provided in § 213.240, the track owner must verify the indication within four hours, unless the track owner has an indication of the existence of a defect that requires remedial action A, A2, or B identified in the table contained in paragraph (c) of this section, in which case the track owner must immediately verify the indication. If the indication is verified, the track owner must—
 
 (1) Replace or repair the rail; or
 
@@ -16,7 +16,7 @@
 
 ![](/graphics/er29ja14.000.gif)![](/graphics/er29ja14.001.gif)![](/graphics/er29ja14.002.gif)
 
-(d) As used in this section -
+(d) As used in this section—
 
 (1) *Bolt hole crack* means a crack across the web, originating from a bolt hole, and progressing on a path either inclined upward toward the rail head or inclined downward toward the base. Fully developed bolt hole cracks may continue horizontally along the head/web or base/web fillet, or they may progress into and through the head or base to separate a piece of the rail end from the rail. Multiple cracks occurring in one rail end are considered to be a single defect. However, bolt hole cracks occurring in adjacent rail ends within the same joint must be reported as separate defects.
 
@@ -50,4 +50,4 @@
 
 (16) *Vertical split head* means a vertical split through or near the middle of the head, and extending into or through it. A crack or rust streak may show under the head close to the web or pieces may be split off the side of the head.
 
-[79 FR 4256, Jan. 24, 2014; 79 FR 4633, Jan. 29, 2014]
+[79 FR 4256, Jan. 24, 2014; 79 FR 4633, Jan. 29, 2014, as amended at 85 FR 63388, Oct. 7, 2020]

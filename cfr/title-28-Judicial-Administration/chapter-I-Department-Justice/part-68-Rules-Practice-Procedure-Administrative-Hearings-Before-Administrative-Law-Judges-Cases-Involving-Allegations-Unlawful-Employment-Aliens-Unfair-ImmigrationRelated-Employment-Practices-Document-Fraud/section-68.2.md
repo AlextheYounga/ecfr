@@ -18,9 +18,37 @@ For purposes of this part:
 
 *Certify* means the act of executing a certification;
 
-*Chief Administrative Hearing Officer* or an official who has been designated to act as the Chief Administrative Hearing Officer, is the official who, under the Director, Executive Office for Immigration Review, generally administers the Administrative Law Judge program, exercises administrative supervision over Administrative Law Judges and others assigned to the Office of the Chief Administrative Hearing Officer, and who, in accordance with sections 274A(e)(7) and 274C(d)(4) of the INA, exercises discretionary authority to review the decisions and orders of Administrative Law Judges adjudicated under sections 274A and 274C of the INA;
+*Chief Administrative Hearing Officer* is the official who, under the Director, Executive Office for Immigration Review, exercises administrative supervision over the Chief Administrative Law Judge and others assigned to the Office of the Chief Administrative Hearing Officer (OCAHO). Subject to the supervision of the Director, the Chief Administrative Hearing Officer shall be responsible for the management and direction of hearings and duties within the jurisdiction of OCAHO. The Chief Administrative Hearing Officer shall have no authority to direct the result of an adjudication assigned to an administrative law judge unless done so in accordance with the review process in this part, provided, however, that nothing in this part otherwise shall be construed to limit the authority of the Chief Administrative Hearing Officer to carry out his or her duties. In coordination with the Director, and following consultation with the Chief Administrative Law Judge, the Chief Administrative Hearing Officer is authorized to:
 
-*Complainant* means the Immigration and Naturalization Service in cases arising under sections 274A and 274C of the INA. In cases arising under section 274B of the INA, “complainant” means the Special Counsel (as defined in this section), and also includes the person or entity who has filed a charge with the Special Counsel, or, in private actions, an individual or private organization;
+(1) Advise the Office of Policy on the issuance of operational instructions and policy, including procedural instructions regarding the implementation of new statutory or regulatory authorities;
+
+(2) Advise the Office of Policy on the provision of appropriate training of the administrative law judges and other OCAHO staff on the conduct of their authorities and duties;
+
+(3) Direct the conduct of employees assigned to OCAHO to ensure the efficient disposition of all pending cases, including the authority to regulate the initial assignment of administrative law judges to cases and to set priorities or time frames for the resolution of cases;
+
+(4) Evaluate the activities performed by OCAHO by making appropriate reports and inspections, and taking corrective action where needed, provided that nothing in this part shall be construed as providing for the performance evaluation of an administrative law judge;
+
+(5) Adjudicate cases on administrative review, as provided in this part; and
+
+(6) Exercise such other authorities as the Director may provide;
+
+*Chief Administrative Law Judge* means an Administrative Law Judge who, in addition to performing the general duties of an Administrative Law Judge, serves as the immediate supervisor of all other Administrative Law Judges in the Office of the Chief Administrative Hearing Officer and performs other regulatory duties as identified in this part and elsewhere. Subject to the supervision of the Director and the Chief Administrative Hearing Officer, the Chief Administrative Law Judge shall be responsible for the supervision, direction, and scheduling of the administrative law judges in the conduct of the hearings and duties assigned to them. The Chief Administrative Law Judge shall have no authority to direct the result of an adjudication assigned to another Administrative Law Judge, provided, however, that nothing in this part shall otherwise be construed to limit the authority of the Chief Administrative Law Judge to carry out his or her duties. In coordination with the Director and the Chief Administrative Hearing Officer, the Chief Administrative Law Judge is authorized to:
+
+(1) Advise the Office of Policy on the issuance of operational instructions and policy, including procedural instructions regarding the implementation of new statutory or regulatory authorities;
+
+(2) Advise the Office of Policy on the provision of appropriate training of the administrative law judges and other OCAHO staff on the conduct of their authorities and duties;
+
+(3) Direct the conduct of employees assigned to an administrative law judge team in OCAHO to ensure the efficient disposition of all pending cases, including the authority to regulate the assignment of administrative law judges to cases to promote administrative efficiency and the authority to set priorities or time frames for the resolution of cases;
+
+(4) Evaluate the activities performed by administrative law judge teams by making appropriate reports and inspections, and take corrective action where needed, provided that nothing in this part shall be construed as providing for the performance evaluation of an administrative law judge;
+
+(5) Adjudicate cases as an administrative law judge; and
+
+(6) Exercise such other authorities as the Director or Chief Administrative Hearing Officer may provide;
+
+*Complainant* means the Department of Homeland Security in cases arising under sections 274A and 274C of the INA. In cases arising under section 274B of the INA, “complainant” means the Special Counsel (as defined in this section), and also includes the person or entity who has filed a charge with the Special Counsel, or, in private actions, an individual or private organization;
+
+*Complainant* means the Department of Homeland Security in cases arising under sections 274A and 274C of the INA. In cases arising under section 274B of the INA, “complainant” means the Special Counsel (as defined in this section), and also includes the person or entity who has filed a charge with the Special Counsel, or, in private actions, an individual or private organization;
 
 *Complaint* means the formal document initiating an adjudicatory proceeding;
 
@@ -54,7 +82,7 @@ For purposes of this part:
 
 *Party* includes all persons or entities named or admitted as a complainant, respondent, or intervenor in a proceeding; or any person filing a charge with the Special Counsel under section 274B of the INA, resulting in the filing of a complaint, concerning an unfair immigration-related employment practice;
 
-*Pleading* means the complaint, motions, the answer thereto, any supplement or amendment thereto, and reply that may be permitted to any answer, supplement, or amendment submitted to the Administrative Law Judge or, when no judge is assigned, the Chief Administrative Hearing Officer;
+*Pleading* means the complaint, the answer thereto, any motions, any supplements or amendments to any motions or amendments, and any reply that may be permitted to any answer, supplement, or amendment submitted to the Administrative Law Judge or, when no judge is assigned, the Chief Administrative Law Judge;
 
 *Prohibition of indemnity bond cases* means cases involving allegations under section 274A(g) of the INA;
 
@@ -66,4 +94,4 @@ For purposes of this part:
 
 *Unlawful employment cases* means cases involving allegations under section 274A of the INA, other than prohibition of indemnity bond cases.
 
-[Order No. 2203-99, 64 FR 7073, Feb. 12, 1999, as amended by Order No. 2255-99, 64 FR 49660, Sept. 14, 1999]
+[Order No. 2203-99, 64 FR 7073, Feb. 12, 1999, as amended by Order No. 2255-99, 64 FR 49660, Sept. 14, 1999; AG Order No. 4840-2020, 85 FR 63206, Oct. 7, 2020]

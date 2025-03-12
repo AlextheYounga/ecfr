@@ -1,5 +1,7 @@
 ##### § 1630.16 Applicability to non-LSC funds. #####
 
+Link to an amendment published at 85 FR 63216, Oct. 7, 2020.
+
 (a) No costs attributable to a purpose prohibited by the LSC Act, as defined by 45 CFR 1610.2(a), may be charged to private funds, except for tribal funds used for the specific purposes for which they were provided.
 
 (b) No cost attributable to an activity prohibited by or inconsistent with Pub. L. 103-134, title V, sec. 504, as defined by 45 CFR 1610.2(b), may be charged to non-LSC funds, except for tribal funds used for the specific purposes for which they were provided.

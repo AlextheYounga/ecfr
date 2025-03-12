@@ -1,5 +1,7 @@
 ##### § 302.304 Order of consideration. #####
 
+Link to an amendment published at 85 FR 63191, Oct. 7, 2020.
+
 (a) *Consideration of priority reemployment candidates.* An agency must consider all qualified candidates on its priority reemployment list before it may refer candidates from its reemployment list, if any, or regular employment list. When a qualified candidate is available on the priority list, the agency may appoint an individual who is not on the priority list or who has lower standing than others on that list *only* when necessary to obtain an employee for duties that cannot be taken over without undue interruption to the agency by an individual who is entitled to reemployment priority or has higher standing on the priority reemployment list than the one appointed. The agency must notify each individual on the priority reemployment list who is adversely affected by an appointment under this paragraph of the reasons for the exception and must further notify each such individual who is a preference eligible of his or her right of appeal to the Merit Systems Protection Board.
 
 (b) *Consideration of other candidates.* Except as provided in paragraphs (b)(4) and (b)(5) of this section, an agency shall consider applicants on the reemployment and/or regular employment list who have been assigned eligible ratings for a given position in Order A, Order B, or Order C, as described in paragraphs (b)(1) through (b)(3) of this section. Order A must be used when the agency has not established a reemployment list.

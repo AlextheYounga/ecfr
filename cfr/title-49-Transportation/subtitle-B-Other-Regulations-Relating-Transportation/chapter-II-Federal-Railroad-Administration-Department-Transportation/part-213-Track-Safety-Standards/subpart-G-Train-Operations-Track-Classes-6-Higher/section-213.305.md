@@ -20,7 +20,7 @@ Each track owner to which this subpart applies shall designate qualified individ
 
 (iii) Can prescribe appropriate remedial action to correct or safely compensate for those deviations; and
 
-(3) Be authorized in writing by the track owner to prescribe remedial actions to correct or safely compensate for deviations from the requirements of this subpart and successful completion of a recorded examination on this subpart as part of the qualification process.
+(3) Be authorized by the track owner to prescribe remedial actions to correct or safely compensate for deviations from the requirements of this subpart and successfully completed a recorded examination on this subpart as part of the qualification process.
 
 (b) Inspect track for defects shall meet the following minimum qualifications:
 
@@ -40,7 +40,7 @@ Each track owner to which this subpart applies shall designate qualified individ
 
 (iii) Can prescribe appropriate remedial action to correct or safely compensate for those deviations; and
 
-(3) Be authorized in writing by the track owner to prescribe remedial actions to correct or safely compensate for deviations from the requirements in this subpart and successful completion of a recorded examination on this subpart as part of the qualification process.
+(3) Be authorized by the track owner to prescribe remedial actions to correct or safely compensate for deviations from the requirements in this subpart and successfully completed a recorded examination on this subpart as part of the qualification process.
 
 (c) Individuals designated under paragraphs (a) or (b) of this section that inspect continuous welded rail (CWR) track or supervise the installation, adjustment, and maintenance of CWR in accordance with the written procedures established by the track owner shall have:
 
@@ -56,9 +56,9 @@ Each track owner to which this subpart applies shall designate qualified individ
 
 (iii) Can prescribe appropriate remedial action to correct or safely compensate for those deviations; and
 
-(4) Written authorization from the track owner to prescribe remedial actions to correct or safely compensate for deviations from the requirements in those procedures and successful completion of a recorded examination on those procedures as part of the qualification process. The recorded examination may be written, or it may be a computer file with the results of an interactive training course.
+(4) Authorization from the track owner to prescribe remedial actions to correct or safely compensate for deviations from the requirements in those procedures and successfully completed a recorded examination on those procedures as part of the qualification process. The recorded examination may be written, or it may be a computer file with the results of an interactive training course.
 
-(d) Persons not fully qualified to supervise certain renewals and inspect track as outlined in paragraphs (a), (b) and (c) of this section, but with at least one year of maintenance of way or signal experience, may pass trains over broken rails and pull aparts provided that -
+(d) Persons not fully qualified to supervise certain renewals and inspect track as outlined in paragraphs (a), (b) and (c) of this section, but with at least one year of maintenance of way or signal experience, may pass trains over broken rails and pull aparts provided that—
 
 (1) The track owner determines the person to be qualified and, as part of doing so, trains, examines, and re-examines the person periodically within two years after each prior examination on the following topics as they relate to the safe passage of trains over broken rails or pull aparts: rail defect identification, crosstie condition, track surface and alinement, gage restraint, rail end mismatch, joint bars, and maximum distance between rail ends over which trains may be allowed to pass. The sole purpose of the examination is to ascertain the person's ability to effectively apply these requirements and the examination may not be used to disqualify the person from other duties. A minimum of four hours training is adequate for initial training;
 
@@ -68,16 +68,18 @@ Each track owner to which this subpart applies shall designate qualified individ
 
 (4) Person(s) fully qualified under § 213.305 of this subpart are notified and dispatched to the location as soon as practicable for the purpose of authorizing movements and effectuating temporary or permanent repairs.
 
-(e) With respect to designations under paragraphs (a), (b), (c) and (d) of this section, each track owner shall maintain written records of:
+(e) With respect to designations under paragraphs (a), (b), (c) and (d) of this section, each track owner shall maintain records of:
 
 (1) Each designation in effect;
 
-(2) The basis for each designation, including but not limited to:
+(2) The date each designation was made; and
 
-(i) The exact nature of any training courses attended and the dates thereof;
+(3) The basis for each designation, including but not limited to:
 
-(ii) The manner in which the track owner has determined a successful completion of that training course, including test scores or other qualifying results;
+(i) The exact nature of any training courses attended and the dates thereof; and
 
-(3) Track inspections made by each individual as required by § 213.369. These records shall be made available for inspection and copying by the Federal Railroad Administration during regular business hours.
+(ii) The manner in which the track owner has determined a successful completion of that training course, including test scores or other qualifying results.
 
-[63 FR 34029, June 22, 1998; 63 FR 45959, Aug. 28, 1998, as amended at 78 FR 16103, Mar. 13, 2013]
+(f) Each track owner shall keep these designation records readily available for inspection or copying by the Federal Railroad Administration during regular business hours, following reasonable notice.
+
+[63 FR 34029, June 22, 1998; 63 FR 45959, Aug. 28, 1998, as amended at 78 FR 16103, Mar. 13, 2013; 85 FR 63391, Oct. 7, 2020]
