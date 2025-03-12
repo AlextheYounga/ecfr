@@ -1,0 +1,3 @@
+##### § 102.125 Action on petition. #####
+
+Upon the filing of such petition, the Board will consider the same and may either grant or deny the petition in whole or in part, conduct an appropriate hearing thereon, or make other disposition of the petition. Should the petition be denied in whole or in part, prompt notice will be given of the denial, accompanied by a simple statement of the grounds unless the denial is self-explanatory.

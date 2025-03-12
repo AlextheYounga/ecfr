@@ -4,6 +4,8 @@ In addition to the terms defined in § 300.2 and those in the Act and in the Con
 
 *1982 Convention* means the United Nations Convention on the Law of the Sea of 10 December 1982.
 
+*Active FAD* is a FAD that is equipped with a buoy with a clearly marked reference number allowing its identification and equipped with a satellite tracking system to monitor its position.
+
 *Aggregate or summary form* means information structured in such a way which does not directly or indirectly disclose the identity or business of any person who submits such information.
 
 *Areas under the national jurisdiction of the Parties to the Nauru Agreement* means the exclusive economic zones of the Parties to the Nauru Agreement.
@@ -123,4 +125,4 @@ In addition to the terms defined in § 300.2 and those in the Act and in the Con
 
 *WCPFC transshipment monitor* means, with respect to transshipments that take place on the high seas, a person authorized by the Commission to conduct transshipment monitoring on the high seas, and with respect to transshipments that take place in areas under the jurisdiction of a member of the Commission other than the United States, a person authorized by such member of the Commission to conduct transshipment monitoring.
 
-[72 FR 18405, Apr. 12, 2007, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3347, Jan. 21, 2010; 77 FR 71509, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 79 FR 64110, Oct. 28, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59047, Oct. 1, 2015]
+[72 FR 18405, Apr. 12, 2007, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3347, Jan. 21, 2010; 77 FR 71509, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 79 FR 64110, Oct. 28, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59047, Oct. 1, 2015; 83 FR 33869, July 18, 2018]

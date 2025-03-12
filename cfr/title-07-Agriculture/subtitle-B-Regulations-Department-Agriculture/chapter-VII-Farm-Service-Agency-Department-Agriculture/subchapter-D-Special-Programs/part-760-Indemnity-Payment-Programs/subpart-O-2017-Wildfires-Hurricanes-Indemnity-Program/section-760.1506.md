@@ -1,0 +1,7 @@
+##### § 760.1506 Availability of funds and timing of payments. #####
+
+(a) An initial payment will be issued for 50 percent of each 2017 WHIP payment calculated according to this subpart, as determined by the Secretary. The remainder of the calculated 2017 WHIP payment will be paid to a participant only after the application period has ended and any crop insurance indemnity or NAP payment the participant is entitled to receive for the crop has been calculated and reported to FSA, and then only if there are funds available for such payment as discussed in this subpart.
+
+(b) In the event that, within the limits of the funding made available by the Secretary, approval of eligible applications would result in payments in excess of the amount available, FSA will prorate payments by a national factor to reduce the payments to an amount that is less than available funds as determined by the Secretary. FSA will prorate the payments in such manner as it determines equitable.
+
+(c) Applications and claims that are unpaid or prorated for any reason will not be carried forward for payment under other funds for later years or otherwise, but will be considered, as to any unpaid amount, void and nonpayable.

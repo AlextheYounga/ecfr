@@ -1,7 +1,5 @@
 ##### § 173.158 Nitric acid. #####
 
-Link to an amendment published at 83 FR 28168, June 18, 2018.
-
 (a) Nitric acid exceeding 40 percent concentration may not be packaged with any other material.
 
 (b) Nitric acid in any concentration which does not contain sulfuric acid or hydrochloric acid as impurities, when offered for transportation or transported by rail, highway, or water shall be packaged in specification containers as follows:
@@ -55,7 +53,7 @@ An example of the markings required by paragraphs (b)(1)(vi) (A), (B), and (C) o
 
 (2) In combination packagings with 1A2, 1B2, 1N2, 1D, 1G, 1H2, 3H2, 4A, 4B, 4N or 4G outer packagings with inner glass packagings of 2.5 L (0.66 gallons) or less capacity cushioned with a non-reactive, absorbent material and packed within a tightly closed intermediate packaging of metal or plastic.
 
-(e) Nitric acid of less than 90 percent concentration, when offered for transportation or transported by rail, highway, or water may be packaged in 4A, 4B, or 4N metal boxes, 4G fiberboard boxes or 4C1, 4C2, 4D or 4F wooden boxes with inside glass packagings of not over 2.5 L (0.66 gallon) capacity each. When placed in wooden or fiberboard outer packagings, the glass inner packagings must be packed in tightly-closed, intermediate packagings, cushioned with an absorbent material. The intermediate packaging and absorbent material must be compatible with the nitric acid. See § 173.24(e).
+(e) Nitric acid of less than 90 percent concentration, when offered for transportation or transported by rail, highway, or water may be packaged in 4A, 4B, or 4N metal boxes, 4G fiberboard boxes or 4C1, 4C2, 4D or 4F wooden boxes with inside glass packagings of not over 2.5 L (0.66 gallon) capacity each. Beginning September 17, 2018, when placed in wooden or fiberboard outer packagings, glass inner packagings must be packed in tightly-closed, intermediate packagings and cushioned with absorbent material sufficient to absorb the entire contents of the package. The intermediate packaging and absorbent material must be compatible with the nitric acid. See § 173.24(e).
 
 (f) Nitric acid of 70 percent or less concentration, when offered for transportation or transported by rail, highway, or water, may be packaged as follows:
 
@@ -67,7 +65,7 @@ An example of the markings required by paragraphs (b)(1)(vi) (A), (B), and (C) o
 
 (g) Nitric acid of more than 70 percent concentration, when offered for transportation or transported by cargo aircraft only, must be packaged in combination packagings with 1A2, 1B2, 1N2, 1D, 1G, 1H2, 3H2, 4C1, 4C2, 4D, 4F, 4G, 4A, 4B or 4N outer packagings with glass or earthenware inner packagings of not over 1 L (0.3 gallon) or glass ampoules of not over 0.5 L (0.1 gallon).
 
-(h) Nitric acid of less than 70 percent concentration, when offered for transportation in cargo aircraft only must be packaged in combination packagings with 1A2, 1B2, 1N2, 1D, 1G, 1H2, 3H2, 4C1, 4C2, 4D, 4F, 4G, 4A, 4B or 4N outer packagings with inner packagings of -
+(h) Nitric acid of less than 70 percent concentration, when offered for transportation in cargo aircraft only must be packaged in combination packagings with 1A2, 1B2, 1N2, 1D, 1G, 1H2, 3H2, 4C1, 4C2, 4D, 4F, 4G, 4A, 4B or 4N outer packagings with inner packagings of—
 
 (1) Glass or earthenware not over 2.5 L (0.66 gallon) capacity;
 
@@ -89,4 +87,4 @@ An example of the markings required by paragraphs (b)(1)(vi) (A), (B), and (C) o
 
 (ii) A plastic bag containing one inner packaging and placed inside a heavy-wall polypropylene bag lined with polypropylene absorbent material of sufficient capacity to completely absorb the liquid contents of each inner package. Both bags must be tightly sealed with either plastic tape, a wire tie or a cable tie.
 
-[Amdt. 173-224, 55 FR 52643, Dec. 21, 1990, as amended at 56 FR 66270, Dec. 20, 1991; Amdt. 173-241, 59 FR 67509, Dec. 29, 1994; Amdt. 173-255, 61 FR 50626, Sept. 26, 1996; 68 FR 75744, Dec. 31, 2003; 78 FR 1085, Jan. 7, 2013; 81 FR 3673, Jan. 21, 2016; 81 FR 35541, June 2, 2016]
+[Amdt. 173-224, 55 FR 52643, Dec. 21, 1990, as amended at 56 FR 66270, Dec. 20, 1991; Amdt. 173-241, 59 FR 67509, Dec. 29, 1994; Amdt. 173-255, 61 FR 50626, Sept. 26, 1996; 68 FR 75744, Dec. 31, 2003; 78 FR 1085, Jan. 7, 2013; 81 FR 3673, Jan. 21, 2016; 81 FR 35541, June 2, 2016; 83 FR 28168, June 18, 2018]

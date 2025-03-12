@@ -2,15 +2,17 @@
 
 None of the requirements of this section apply in the territorial seas or archipelagic waters of the United States or any other nation, as defined by the domestic laws and regulations of that nation and recognized by the United States. All dates used in this section are in Universal Coordinated Time, also known as UTC; for example: the year 2013 starts at 00:00 on January 1, 2013 UTC and ends at 24:00 on December 31, 2013 UTC; and July 1, 2013, begins at 00:00 UTC and ends at 24:00 UTC.
 
-(a) *Fishing effort limits.* This paragraph establishes limits on the number of fishing days that fishing vessels of the United States equipped with purse seine gear may collectively spend in the ELAPS.
+(a) *Fishing effort limits.* This paragraph establishes limits on the number of fishing days that fishing vessels of the United States equipped with purse seine gear may operate in the Convention Area in the area between 20° N latitude and 20° S latitude in a calendar year.
 
-(1) For calendar year 2016 there is a limit of 1,828 fishing days.
+(1) For the high seas there is a limit of 1,370 fishing days in 2018.
 
-(2) NMFS will determine the number of fishing days spent in the ELAPS in each of the applicable time periods using data submitted in logbooks and other available information. After NMFS determines that the limit in any applicable time period is expected to be reached by a specific future date, and at least seven calendar days in advance of the closure date, NMFS will publish a notice in the Federal Register announcing that the purse seine fishery in the ELAPS will be closed starting on that specific future date and will remain closed until the end of the applicable time period.
+(2) For the U.S. EEZ there is a limit of 458 fishing days for 2018. If NMFS expects that this limit will be reached by October 1, 2018, NMFS will publish a document in the Federal Register increasing the limit for that calendar year to 558 fishing days no later than seven days prior to October 1, 2018.
 
-(3) Once a fishery closure is announced pursuant to paragraph (a)(2) of this section, fishing vessels of the United States equipped with purse seine gear may not be used to fish in the ELAPS during the period specified in the Federal Register notice, except that such vessels are not prohibited from bunkering in the ELAPS during a fishery closure.
+(3) NMFS will determine the number of fishing days spent on the high seas and in the U.S. EEZ in each calendar year using data submitted in logbooks and other available information. After NMFS determines that a limit in a calendar year is expected to be reached by a specific future date, and at least seven calendar days in advance of the closure date, NMFS will publish a document in the Federal Register announcing that the purse seine fishery in the area where the limit is expected to be reached will be closed starting on that specific future date and will remain closed until the end of the calendar year.
 
-(b) *Use of fish aggregating devices.* (1) During the periods and in the areas specified in paragraph (b)(2) of this section, owners, operators, and crew of fishing vessels of the United States shall not do any of the activities described below in the Convention Area in the area between 20° N. latitude and 20° S. latitude:
+(4) Once a fishery closure is announced pursuant to paragraph (a)(3) of this section, fishing vessels of the United States equipped with purse seine gear may not be used to fish in the closed area during the period specified in the Federal Register document, except that such vessels are not prohibited from bunkering during a fishery closure.
+
+(b) *Use of fish aggregating devices.* (1) During the periods and in the areas specified in paragraph (b)(2) of this section, owners, operators, and crew of fishing vessels of the United States equipped with purse seine gear shall not do any of the activities described below in the Convention Area in the area between 20° N latitude and 20° S latitude:
 
 (i) Set a purse seine around a FAD or within one nautical mile of a FAD.
 
@@ -22,7 +24,7 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (A) A FAD may be inspected and handled as needed to identify the FAD, identify and release incidentally captured animals, un-foul fishing gear, or prevent damage to property or risk to human safety; and
 
-(B) A FAD may be removed from the water and if removed may be cleaned, provided that it is not returned to the water.
+(B) A FAD may be removed from the water and if removed may be repaired, cleaned, maintained, or otherwise serviced, provided that it is not returned to the water.
 
 (v) From a purse seine vessel or any associated skiffs, other watercraft or equipment, do any of the following, except in emergencies as needed to prevent human injury or the loss of human life, the loss of the purse seine vessel, skiffs, watercraft or aircraft, or environmental damage:
 
@@ -34,13 +36,13 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (2) The requirements of paragraph (b)(1) of this section shall apply:
 
-(i) From July 1 through September 30, 2016;
+(i) From July 1 through September 30, in each calendar year;
 
-(ii) From July 1 through September 30, 2017;
+(ii) In any area of high seas, from November 1 through December 31, in each calendar year.
 
-(iii) During any period specified in a Federal Register notice issued by NMFS announcing that NMFS has determined that U.S. purse seine vessels have collectively made, or are projected to make, 2,522 sets on FADs in the Convention Area in the area between 20° N. latitude and 20° S. latitude in 2016 or 2017. The Federal Register notice will be published at least seven days in advance of the start of the period announced in the notice. NMFS will estimate and project the number of FAD sets using vessel logbooks, and/or other information sources that it deems most appropriate and reliable for the purposes of this section; and
+(3)(i) *Activating FADs for purse seine vessels.* A vessel owner, operator, or crew of a fishing vessel of the United States equipped with purse seine gear shall turn on the tracking equipment of an active FAD while the FAD is onboard the vessel and before it is deployed in the water.
 
-(iv) In any area of high seas, from January 1 through December 31, 2017.
+(ii) *Restrictions on Active FADs for purse seine vessels.* U.S. vessel owners and operators of a fishing vessel of the United States equipped with purse seine gear shall not have more than 350 drifting active FADs per vessel in the Convention Area at any one time.
 
 (c) [Reserved]
 
@@ -116,4 +118,4 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (h) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS in the Convention Area must release any whale shark that is encircled in a purse seine net in the Convention Area, and take reasonable steps for its safe release, without compromising the safety of any persons. This paragraph does not apply to the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 79 FR 71331, Dec. 2, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 33149, May 25, 2016; 81 FR 41250, June 24, 2016]
+[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018]

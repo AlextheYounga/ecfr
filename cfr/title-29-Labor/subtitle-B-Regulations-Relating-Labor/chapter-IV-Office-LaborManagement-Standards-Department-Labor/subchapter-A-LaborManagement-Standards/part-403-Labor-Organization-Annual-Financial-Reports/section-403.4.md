@@ -42,4 +42,4 @@ Furthermore, we certify that the terminal reports required by 29 CFR 403.4(b)(5)
 
 For certification see NHQ file folder file number:
 
-PresidentWhere signedDateTreasurerWhere signedDate[28 FR 14383, Dec. 27, 1963, as amended at 37 FR 10669, May 26, 1972; 41 FR 27318, July 2, 1976; 45 FR 7525, Feb. 1, 1980; 50 FR 31309, Aug. 1, 1985; 50 FR 31310, Aug. 1, 1985; 57 FR 49290, 49357, Oct. 30, 1992; 62 FR 6092, Feb. 10, 1997; 64 FR 71623, Dec. 21, 1999; 65 FR 21141, Apr. 20, 2000]
+PresidentWhere signedDateTreasurerWhere signedDate[28 FR 14383, Dec. 27, 1963, as amended at 37 FR 10669, May 26, 1972; 41 FR 27318, July 2, 1976; 45 FR 7525, Feb. 1, 1980; 50 FR 31309, Aug. 1, 1985; 50 FR 31310, Aug. 1, 1985; 57 FR 49290, 49357, Oct. 30, 1992; 62 FR 6092, Feb. 10, 1997; 64 FR 71623, Dec. 21, 1999; 65 FR 21141, Apr. 20, 2000; 81 FR 33389, May 26, 2016]

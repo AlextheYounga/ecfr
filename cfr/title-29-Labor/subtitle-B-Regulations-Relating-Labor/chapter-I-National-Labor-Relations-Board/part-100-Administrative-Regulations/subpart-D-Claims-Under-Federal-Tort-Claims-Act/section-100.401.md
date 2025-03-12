@@ -13,3 +13,5 @@
 (f) *Payment of awards.* Any award, compromise, or settlement in an amount of $2,500 or less made pursuant to this action will be paid by the Chief Financial Officer out of appropriations available to the National Labor Relations Board. Payment of any award, compromise, or settlement in an amount greater than $2,500 will be paid in accordance with 28 CFR 14.10.
 
 (g) *Acceptance of payment constitutes release.* Acceptance by a claimant, his or her agent or legal representative of any award, compromise, or settlement made pursuant to this part shall be final and conclusive on the claimant, his or her agent or legal representative and any other person on whose behalf or for whose benefit the claim has been submitted, and shall constitute a complete release of any claims against the United States, the National Labor Relations Board, and any employee of the government whose act or omission gave rise to the claim.
+
+[81 FR 19487, Apr. 5, 2016]

@@ -12,7 +12,7 @@
 
 (iv) *South Pacific tuna fisheries.* Fishing activities subject to the reporting requirements of § 300.34(c)(1) must be maintained and reported in the manner specified in that section.
 
-(v) *High seas fisheries.* Fishing activities subject to the reporting requirements of § 300.17(a) must be maintained and reported in the manner specified in § 300.17(a) and (b).
+(v) *High seas fisheries.* Fishing activities subject to the reporting requirements of § 300.341 must be maintained and reported in the manner specified in § 300.341(a).
 
 (vi) *Canada albacore fisheries.* Fishing activities subject to the reporting requirements of § 300.174 must be maintained and reported in the manner specified in that section.
 
@@ -90,8 +90,8 @@
 
 (2) *Accepting vessels.* The owner and operator of a fishing vessel of the United States equipped with purse seine gear that accepts fish from another purse seine fishing vessel under § 300.216(c) shall ensure that the net sharing activity is recorded on the catch report forms maintained pursuant to § 300.34(c)(1), in the format specified by the Pacific Islands Regional Administrator.
 
-(g) *Daily FAD reports.* If directed by NMFS, the owner or operator of any fishing vessel of the United States equipped with purse seine gear must report to NMFS, for the period and in the format and manner directed by the Pacific Islands Regional Administrator, within 24 hours of the end of each day that the vessel is at sea in the Convention Area, the number of purse seine sets were made on FADs during that day.
+(g) *Daily purse seine fishing effort reports.* If directed by NMFS, the owner or operator of any fishing vessel of the United States equipped with purse seine gear must report to NMFS, for the period and in the format and manner directed by the Pacific Islands Regional Administrator, within 24 hours of the end of each day that the vessel is at sea in the Convention Area, the activity of the vessel (*e.g.,* setting, transiting, searching), location and type of set, if a set was made during that day.
 
 (h) *Whale shark encirclement reports.* The owner and operator of a fishing vessel of the United States used for commercial fishing in the Convention Area that encircles a whale shark (*Rhincodon typus*) with a purse seine in the Convention Area shall ensure that the incident is recorded by the end of the day on the catch report forms maintained pursuant to § 300.34(c)(1), in the format specified by the Pacific Islands Regional Administrator. This paragraph does not apply to the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States.
 
-[75 FR 3350, Jan. 21, 2010, as amended at 77 FR 71511, Dec. 3, 2012; 79 FR 77943, Dec. 29, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59048, Oct. 1, 2015]
+[75 FR 3350, Jan. 21, 2010, as amended at 77 FR 71511, Dec. 3, 2012; 79 FR 77943, Dec. 29, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59048, Oct. 1, 2015; 83 FR 33869, July 18, 2018]Effective Date Note:At 83 FR 33869, July 18, 2018, § 300.218 was amended in part by revising paragraph (g). Paragraph (g) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

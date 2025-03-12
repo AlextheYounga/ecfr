@@ -6,7 +6,7 @@
 
 (3) Any boat, skiff, or other watercraft carried on board the fishing vessel shall be marked with the same identification markings as required under this section for the fishing vessel and shall be marked in accordance with this section.
 
-(b) *Marking.* (1) Vessels shall be marked in accordance with the identification requirements of § 300.14(b)(2), and if an IRCS has not been assigned to the vessel, then the Federal, State, or other documentation number used in lieu of the IRCS must be preceded by the characters “USA” and a hyphen (that is, “USA-”).
+(b) *Marking.* (1) Vessels shall be marked in accordance with the identification requirements of § 300.336(b)(2), and if an IRCS has not been assigned to the vessel, then the Federal, State, or other documentation number used in lieu of the IRCS must be preceded by the characters “USA” and a hyphen (that is, “USA-”).
 
 (2) With the exception of the vessel's name and hailing port, the marking required in this section shall be the only vessel identification mark consisting of letters and numbers to be displayed on the hull and superstructure.
 
@@ -18,4 +18,4 @@
 
 (4) Upon receipt of a request for an exemption under paragraph (c)(3) of this section, the Pacific Islands Regional Administrator will, to the extent he or she determines appropriate, assist the fishing vessel owner in requesting an IMO number. If the Pacific Islands Regional Administrator determines that it is infeasible or impractical for the fishing vessel owner to obtain an IMO number for the fishing vessel, he or she will issue an exemption from the requirements of paragraph (c)(2) of this section for the subject fishing vessel and its owner and notify the fishing vessel owner of the exemption. The Pacific Islands Regional Administrator may limit the duration of the exemption. The Pacific Islands Regional Administrator may rescind an exemption at any time. If an exemption is rescinded, the fishing vessel owner must comply with the requirements of paragraph (c)(2) of this section within 30 days of being notified of the rescission. If the ownership of a fishing vessel changes, an exemption issued to the former fishing vessel owner becomes void.
 
-[75 FR 3350, Jan. 21, 2010, as amended at 76 FR 73520, Nov. 29, 2011; 80 FR 59047, Oct. 1, 2015]
+[75 FR 3350, Jan. 21, 2010, as amended at 76 FR 73520, Nov. 29, 2011; 80 FR 59047, Oct. 1, 2015; 83 FR 33869, July 18, 2018]

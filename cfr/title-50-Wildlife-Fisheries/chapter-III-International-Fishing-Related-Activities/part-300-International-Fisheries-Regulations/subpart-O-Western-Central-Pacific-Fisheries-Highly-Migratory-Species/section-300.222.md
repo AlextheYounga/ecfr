@@ -44,9 +44,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (u) Fail to stow fishing gear or fishing equipment as required in § 300.221(c).
 
-(v) Use a fishing vessel equipped with purse seine gear to fish in the ELAPS while the fishery is closed under § 300.223(a).
+(v) Use a fishing vessel equipped with purse seine gear to fish in an area closed to purse seine fishing under § 300.223(a).
 
-(w) Set a purse seine around, near or in association with a FAD or a vessel, deploy or service a FAD, or use lights in contravention of § 300.223(b).
+(w) Set a purse seine around, near or in association with a FAD or a vessel, deploy, activate, or service a FAD, or use lights in contravention of § 300.223(b).
 
 (x) Discard fish at sea in the Convention Area in contravention of § 300.223(d).
 
@@ -82,9 +82,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (nn) Fail to submit, or ensure submission of, a net sharing report as required in § 300.218(f).
 
-(oo) Fail to submit, or ensure submission of, an entry or exit notice for the Eastern High Seas Special Management Area as required in § 300.225.
+(oo) Transship in the Eastern High Seas Special Management Area in contravention of § 300.225.
 
-(pp) Fail to submit, or ensure submission of, a daily FAD report as required in § 300.218(g).
+(pp) Fail to submit, or ensure submission of, a daily purse seine fishing effort report as required in § 300.218(g).
 
 (qq) Fail to submit, or ensure submission of, a whale shark encirclement report as required in § 300.218(h).
 
@@ -102,4 +102,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (xx) Fail to comply with any of the limits, restrictions, prohibitions, or requirements specified under § 300.227.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3355, Jan. 21, 2010; 77 FR 51714, Aug. 27, 2012; 77 FR 71512, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 79 FR 71331, Dec. 2, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016]
+[74 FR 38554, Aug. 4, 2009, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3355, Jan. 21, 2010; 77 FR 51714, Aug. 27, 2012; 77 FR 71512, Dec. 3, 2012; 79 FR 71331, Dec. 2, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018]

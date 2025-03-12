@@ -1,7 +1,5 @@
 ##### § 180.407 Requirements for test and inspection of specification cargo tanks. #####
 
-Link to an amendment published at 83 FR 28168, June 18, 2018.
-
 (a) *General.* (1) A cargo tank constructed in accordance with a DOT specification for which a test or inspection specified in this section has become due, may not be filled and offered for transportation or transported until the test or inspection has been successfully completed. This paragraph does not apply to any cargo tank filled prior to the test or inspection due date.
 
 (2) Except during a pressure test, a cargo tank may not be subjected to a pressure greater than its design pressure or MAWP.
@@ -32,41 +30,42 @@ Link to an amendment published at 83 FR 28168, June 18, 2018.
 
 (c) *Periodic test and inspection.* Each specification cargo tank must be tested and inspected as specified in the following table by an inspector meeting the qualifications in § 180.409. The retest date shall be determined from the specified interval identified in the following table from the most recent inspection or the CTMV certification date.
 
-Compliance Dates - Inspections and Test Under § 180.407(C)
+Compliance Dates - Inspections and Test Under § 180.407(c)
 
-|                                         Test or inspection (cargo tank specification, configuration, and service)                                          |Date by which first test must be completed (see note 1)|Interval period after first test|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------|
-|                                                                External Visual Inspection:                                                                 |                                                       |                                |
-|                                        All cargo tanks designed to be loaded by vacuum with full opening rear heads                                        |                   September 1, 1991                   |           6 months.            |
-|                                                                   All other cargo tanks                                                                    |                   September 1, 1991                   |            1 year.             |
-|                                                                Internal Visual Inspection:                                                                 |                                                       |                                |
-|                                           All insulated cargo tanks, except MC 330, MC 331, MC 338 (see Note 4)                                            |                   September 1, 1991                   |               1                |
-|                                                 All cargo tanks transporting lading corrosive to the tank                                                  |                   September 1, 1991                   |               1                |
-|MC 331 cargo tanks less than 3,500 gallons water capacity in dedicated propane service constructed of nonquenched and tempered NQT SA-612 steel (see Note 5)|                   September 1, 2016                   |               10               |
-|                                                            All other cargo tanks, except MC 338                                                            |                   September 1, 1995                   |               5                |
-|                                                                     Lining Inspection:                                                                     |                                                       |                                |
-|                                              All lined cargo tanks transporting lading corrosive to the tank                                               |                   September 1, 1991                   |            1 year.             |
-|                                                                       Leakage Test:                                                                        |                                                       |                                |
-|                                                     MC 330 and MC 331 cargo tanks in chlorine service                                                      |                   September 1, 1991                   |            2 years.            |
-|                                                            All other cargo tanks except MC 338                                                             |                   September 1, 1991                   |            1 year.             |
-|                                               Pressure Test (Hydrostatic or pneumatic) (See Notes 2 and 3):                                                |                                                       |                                |
-|                                 All cargo tanks which are insulated with no manhole or insulated and lined, except MC 338                                  |                   September 1, 1991                   |               1                |
-|                                        All cargo tanks designed to be loaded by vacuum with full opening rear heads                                        |                   September 1, 1992                   |               2                |
-|                                                     MC 330 and MC 331 cargo tanks in chlorine service                                                      |                   September 1, 1992                   |               2                |
-|   MC 331 cargo tanks less than 3,500 gallons water capacity in dedicated propane service constructed of nonquenched and tempered NQT steel (See Note 5)    |                   September 1, 2017                   |               10               |
-|                                                                   All other cargo tanks                                                                    |                   September 1, 1995                   |               5                |
-|                                                                      Thickness Test:                                                                       |                                                       |                                |
-|                                     All unlined cargo tanks transporting material corrosive to the tank, except MC 338                                     |                   September 1, 1992                   |            2 years.            |
+|                                      Test or inspection  <br/>(cargo tank specification, configuration, and service)                                       |Date by which first test  <br/>must be completed  <br/>(see Note 1)|Interval  <br/>period  <br/>after first test|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------|
+|                                                                External Visual Inspection:                                                                 |                                                                   |                                            |
+|                                        All cargo tanks designed to be loaded by vacuum with full opening rear heads                                        |                         September 1, 1991                         |                 6 months.                  |
+|                                                                   All other cargo tanks                                                                    |                         September 1, 1991                         |                  1 year.                   |
+|                                                                Internal Visual Inspection:                                                                 |                                                                   |                                            |
+|                                           All insulated cargo tanks, except MC 330, MC 331, MC 338 (see Note 4)                                            |                         September 1, 1991                         |                  1 year.                   |
+|                                                 All cargo tanks transporting lading corrosive to the tank                                                  |                         September 1, 1991                         |                  1 year.                   |
+|MC 331 cargo tanks less than 3,500 gallons water capacity in dedicated propane service constructed of nonquenched and tempered NQT SA-612 steel (see Note 5)|                                                                   |                 10 years.                  |
+|                                                            All other cargo tanks, except MC 338                                                            |                         September 1, 1995                         |                  5 years.                  |
+|                                                                     Lining Inspection:                                                                     |                                                                   |                                            |
+|                                              All lined cargo tanks transporting lading corrosive to the tank                                               |                         September 1, 1991                         |                  1 year.                   |
+|                                                                       Leakage Test:                                                                        |                                                                   |                                            |
+|                                                     MC 330 and MC 331 cargo tanks in chlorine service                                                      |                         September 1, 1991                         |                  2 years.                  |
+|                                                            All other cargo tanks except MC 338                                                             |                         September 1, 1991                         |                  1 year.                   |
+|                                                                       Pressure Test:                                                                       |                                                                   |                                            |
+|                                                       (Hydrostatic or pneumatic) (See Notes 2 and 3)                                                       |                                                                   |                                            |
+|                                 All cargo tanks which are insulated with no manhole or insulated and lined, except MC 338                                  |                         September 1, 1991                         |                  1 year.                   |
+|                                        All cargo tanks designed to be loaded by vacuum with full opening rear heads                                        |                         September 1, 1992                         |                  2 years.                  |
+|                                                     MC 330 and MC 331 cargo tanks in chlorine service                                                      |                         September 1, 1992                         |                  2 years.                  |
+|MC 331 cargo tanks less than 3,500 gallons water capacity in dedicated propane service constructed of nonquenched and tempered NQT SA-612 steel (See Note 5)|                                                                   |                 10 years.                  |
+|                                                                   All other cargo tanks                                                                    |                         September 1, 1995                         |                  5 years.                  |
+|                                                                      Thickness Test:                                                                       |                                                                   |                                            |
+|                                     All unlined cargo tanks transporting material corrosive to the tank, except MC 338                                     |                         September 1, 1992                         |                  2 years.                  |
 
 Note 1: If a cargo tank is subject to an applicable inspection or test requirement under the regulations in effect on December 30, 1990, and the due date (as specified by a requirement in effect on December 30, 1990) for completing the required inspection or test occurs before the compliance date listed in table I, the earlier date applies.
 
-Note 2: Pressure testing is not required for MC 330 and MC 331 cargo tanks in dedicated sodium metal service.
+Note 2: Pressure testing is not required for MC 330 or MC 331 cargo tanks in dedicated sodium metal service.
 
-Note 3: Pressure testing is not required for uninsulated lined cargo tanks, with a design pressure or MAWP 15 psig or less, which receive an external visual inspection and lining inspection at least once each year.
+Note 3: Pressure testing is not required for uninsulated lined cargo tanks, with a design pressure MAWP 15 psig or less, which receive an external visual inspection and lining inspection at least once each year.
 
 Note 4: Insulated cargo tanks equipped with manholes or inspection openings may perform either an internal visual inspection in conjunction with the external visual inspection or a hydrostatic or pneumatic pressure-test of the cargo tank.
 
-Note 5: A 10-year inspection interval period also applies to cargo tanks constructed of NQT SA-202, NQT SA-455, or NQT SA-612 steels provided the materials have full-size equivalent (FSE) Charpy vee notch (CVN) energy test data that demonstrated 75% shear-area ductility at 32 °F with an average of 3 or more samples \>15 ft-lb FSE with no sample \<10 ft-lb FSE.
+Note 5: A 10-year inspection interval period also applies to cargo tanks constructed of NQT SA-202 or NQT SA-455 steel provided the materials have full-size equivalent (FSE) Charpy vee notch (CVN) energy test data that demonstrated 75% shear-area ductility at 32 °F with an average of 3 or more samples \>15 ft-lb FSE with no sample \<10 ft-lb FSE.
 
 (d) *External visual inspection and testing.* The following applies to the external visual inspection and testing of cargo tanks:
 
@@ -147,12 +146,6 @@ Note 5: A 10-year inspection interval period also applies to cargo tanks constru
 (1) *Test Procedure* - (i) As part of the pressure test, the inspector must perform an external and internal visual inspection, except that on an MC 338 cargo tank, or a cargo tank not equipped with a manhole or inspection opening, an internal inspection is not required.
 
 (ii) All self-closing pressure relief valves, including emergency relief vents and normal vents, must be removed from the cargo tank for inspection and testing according to the requirements in paragraph (j) of this section.
-
-(A) Each self-closing pressure relief valve that is an emergency relief vent must open at no less than the required set pressure and no more than 110 percent of the required set pressure, and must reseat to a leak-tight condition at no less than 90 percent of the start-to-discharge pressure or the pressure prescribed for the applicable cargo tank specification.
-
-(B) Normal vents (1 psig vents) must be tested according to the testing criteria established by the valve manufacturer.
-
-(C) Self-closing pressure relief devices not tested or failing the tests in this paragraph (g)(1)(ii) must be repaired or replaced.
 
 (iii) Except for cargo tanks carrying lading corrosive to the tank, areas covered by the upper coupler (fifth wheel) assembly must be inspected for corroded and abraded areas, dents, distortions, defects in welds, and any other condition that might render the tank unsafe for transportation service. The upper coupler (fifth wheel) assembly must be removed from the cargo tank for this inspection.
 
