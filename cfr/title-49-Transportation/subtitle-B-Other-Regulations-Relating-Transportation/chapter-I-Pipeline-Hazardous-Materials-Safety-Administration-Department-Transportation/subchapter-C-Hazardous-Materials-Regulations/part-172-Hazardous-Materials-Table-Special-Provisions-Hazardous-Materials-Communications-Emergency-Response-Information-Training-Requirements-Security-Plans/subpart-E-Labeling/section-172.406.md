@@ -1,12 +1,12 @@
 ##### § 172.406 Placement of labels. #####
 
-Link to an amendment published at 87 FR 44991, July 26, 2022.
+(a) *General.* (1) Except as provided in paragraphs (b) and (e) of this section, each label required by this subpart must—
 
-(a) *General.* (1) Except as provided in paragraphs (b) and (e) of this section, each label required by this subpart must -
+(i) Be printed on or affixed to a surface (other than the bottom) of the package or containment device containing the hazardous material;
 
-(i) Be printed on or affixed to a surface (other than the bottom) of the package or containment device containing the hazardous material; and
+(ii) Be located on the same surface of the package and near the proper shipping name marking, if the package dimensions are adequate; and
 
-(ii) Be located on the same surface of the package and near the proper shipping name marking, if the package dimensions are adequate.
+(iii) For transportation by aircraft, the entire label(s) must appear on one side of the package. For cylindrical packages, the label must be of such dimensions that it will not overlap itself. In the case of cylindrical packages containing radioactive materials, which require two identical labels, these labels must be centered on opposite points of the circumference and must not overlap each other. If the dimensions of the package are such that two identical labels cannot be affixed without overlapping each other, one label is acceptable provided it does not overlap itself.
 
 (2) Except as provided in paragraph (e) of this section, duplicate labeling is not required on a package or containment device (such as to satisfy redundant labeling requirements).
 
@@ -22,7 +22,7 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.
 
 (d) *Contrast with background.* Each label must be printed on or affixed to a background color contrasting to the color specification of the label as required by § 172.407(d)(1), or must have a dotted or solid line outer border, to enhance the visibility of the label. However, the dotted or solid line outer border may also be used for backgrounds of contrasting color.
 
-(e) *Duplicate labeling.* Generally, only one of each different required label must be displayed on a package. However, duplicate labels must be displayed on at least two sides or two ends (other than the bottom) of -
+(e) *Duplicate labeling.* Generally, only one of each different required label must be displayed on a package. However, duplicate labels must be displayed on at least two sides or two ends (other than the bottom) of—
 
 (1) Each package or overpack having a volume of 1.8 m3 (64 cubic feet) or more;
 
@@ -38,4 +38,4 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.
 
 (f) *Visibility.* A label must be clearly visible and may not be obscured by markings or attachments.
 
-[Amdt. 172-123, 55 FR 52594, Dec. 21, 1990, as amended at 56 FR 66255, Dec. 20, 1991; Amdt. 172-130, 58 FR 51531, Oct. 1, 1993; 73 FR 4716, Jan. 28, 2008; 81 FR 35540, June 2, 2016]
+[Amdt. 172-123, 55 FR 52594, Dec. 21, 1990, as amended at 56 FR 66255, Dec. 20, 1991; Amdt. 172-130, 58 FR 51531, Oct. 1, 1993; 73 FR 4716, Jan. 28, 2008; 81 FR 35540, June 2, 2016; 87 FR 44991, July 26, 2022]

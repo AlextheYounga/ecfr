@@ -1,5 +1,7 @@
 ##### 219.7102 General. #####
 
+Link to an amendment published at 87 FR 52349, Aug. 25, 2022.
+
 The Program includes -
 
 (a) Mentor firms and protégé firms that meet the criteria in Appendix I, section I-102.

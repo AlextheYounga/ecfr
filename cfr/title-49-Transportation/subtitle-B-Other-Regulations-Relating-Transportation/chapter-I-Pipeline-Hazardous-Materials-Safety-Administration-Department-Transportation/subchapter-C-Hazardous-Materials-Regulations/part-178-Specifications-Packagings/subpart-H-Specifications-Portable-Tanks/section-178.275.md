@@ -1,14 +1,12 @@
 ##### § 178.275 Specification for UN Portable Tanks intended for the transportation of liquid and solid hazardous materials. #####
 
-Link to an amendment published at 87 FR 44999, July 26, 2022.
-
 (a) In addition to the requirements of § 178.274, this section sets forth definitions and requirements that apply to UN portable tanks intended for the transportation of liquid and solid hazardous materials.
 
-(b) *Definitions and requirements* - (1) *Design pressure* means the pressure to be used in calculations required by the recognized pressure vessel code. The design pressure must not be less than the highest of the following pressures:
+(b) *Definitions and requirements*—(1) *Design pressure* means the pressure to be used in calculations required by the recognized pressure vessel code. The design pressure must not be less than the highest of the following pressures:
 
 (i) The maximum effective gauge pressure allowed in the shell during filling or discharge; or
 
-(ii) The sum of -
+(ii) The sum of—
 
 (A) The absolute vapor pressure (in bar) of the hazardous material at 65 °C, minus 1 bar (149 °F, minus 100 kPa);
 
@@ -86,7 +84,7 @@ Link to an amendment published at 87 FR 44999, July 26, 2022.
 
 (i)(A) To determine the total required capacity of the relief devices, which must be regarded as being the sum of the individual capacities of all the contributing devices, the following formula must be used:
 
-![](/graphics/er01oc08.000.gif)Where:Q = minimum required rate of discharge in cubic meters of air per second (m3/s) at conditions: 1 bar and 0 °C (273 °K);F = for uninsulated shells: 1; for insulated shells: U(649−t)/13.6 but in no case is less than 0.25Where:U = thermal conductance of the insulation, in *kW m*−2*K*−1, at 38 °C (100 °F); and t = actual temperature of the hazardous material during filling (in °C) or when this temperature is unknown, let t = 15 °C (59 °F). The value of F given in this paragraph (i)(2)(i)(A) for insulated shells may only be used if the insulation is in conformance with paragraph (i)(2)(iv) of this section;A = total external surface area of shell in square meters;Z = the gas compressibility factor in the accumulating condition (when this factor is unknown, let Z equal 1.0);T = absolute temperature in Kelvin (°C + 273) above the pressure relief devices in the accumulating condition;L = the latent heat of vaporization of the liquid, in kJ/kg, in the accumulating condition;M = molecular weight of the hazardous material.
+![](/graphics/er26jy22.153.gif)Where:Q = minimum required rate of discharge in cubic meters of air per second (*m*3/s) at conditions: 1 bar and 0 °C (273 °K);F = for uninsulated shells: 1; for insulated shells: U(649−t)/13.6 but in no case, is less than 0.25Where:U = heat transfer coefficient of the insulation, in *kW m*−2*K*−1, at 38 °C (100 °F); and t = actual temperature of the hazardous material during filling (in °C) or when this temperature is unknown, let t = 15 °C (59 °F). The value of F given in this paragraph (i)(2)(i)(A) for insulated shells may only be used if the insulation is in conformance with paragraph (i)(2)(iv) of this section;A = total external surface area of shell in square meters;Z = the gas compressibility factor in the accumulating condition (when this factor is unknown, let Z equal 1.0);T = absolute temperature in Kelvin ( °C + 273) above the pressure relief devices in the accumulating condition;L = the latent heat of vaporization of the liquid, in kJ/kg, in the accumulating condition;M = molecular weight of the hazardous material.
 
 (B) The constant C, as shown in the formula in paragraph (i)(2)(i)(A) of this section, is derived from one of the following formulas as a function of the ratio k of specific heats:
 
@@ -97,8 +95,6 @@ Link to an amendment published at 87 FR 44999, July 26, 2022.
 ![](/graphics/er01oc08.002.gif)
 
 (D) When k = 1 or k is unknown, a value of 0.607 may be used for the constant C. C may also be taken from the following table:
-
-C Constant Value Table
 
 | k  |  C  |
 |----|-----|
@@ -146,10 +142,6 @@ C Constant Value Table
 
 (iii) Minimum emergency vent capacity, Q, in cubic meters of air per second at 1 bar and 0 °C (273 °K) shown in the following table:
 
-Minimum Emergency Vent Capacity
-
-[Q Values]
-
 |A  <br/>Exposed area (square meters)|Q  <br/>(Cubic meters of air per second)|A  <br/>Exposed area (square meters)|Q  <br/>(Cubic meters of air per second)|
 |------------------------------------|----------------------------------------|------------------------------------|----------------------------------------|
 |                 2                  |                 0.230                  |                37.5                |                 2.539                  |
@@ -173,7 +165,7 @@ Minimum Emergency Vent Capacity
 |                32.5                |                 2.258                  |                 95                 |                 5.442                  |
 |                 35                 |                 2.400                  |                100                 |                 5.676                  |
 
-(iv) Insulation systems, used for the purpose of reducing venting capacity, must be specifically approved by the approval agency. In all cases, insulation systems approved for this purpose must -
+(iv) Insulation systems, used for the purpose of reducing venting capacity, must be specifically approved by the approval agency. In all cases, insulation systems approved for this purpose must—
 
 (A) Remain effective at all temperatures up to 649 °C (1200 °F); and
 
@@ -181,4 +173,4 @@ Minimum Emergency Vent Capacity
 
 (j) *Approval, inspection and testing.* Approval procedures for UN portable tanks are specified in § 178.273. Inspection and testing requirements are specified in § 180.605 of this subchapter.
 
-[66 FR 33445, June 21, 2001, as amended at 68 FR 32414, May 30, 2003; 69 FR 76185, Dec. 20, 2004; 73 FR 57006, Oct. 1, 2008; 76 FR 3388, Jan. 19, 2011]
+[66 FR 33445, June 21, 2001, as amended at 68 FR 32414, May 30, 2003; 69 FR 76185, Dec. 20, 2004; 73 FR 57006, Oct. 1, 2008; 76 FR 3388, Jan. 19, 2011; 87 FR 44999, July 26, 2022]

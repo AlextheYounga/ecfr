@@ -1,7 +1,5 @@
 ##### § 175.9 Special aircraft operations. #####
 
-Link to an amendment published at 87 FR 44997, July 26, 2022.
-
 (a) This subchapter applies to rotorcraft external load operations transporting hazardous material on board, attached to, or suspended from an aircraft. Operators must have all applicable requirements prescribed in 14 CFR part 133 approved by the FAA Administrator prior to accepting or transporting hazardous material. In addition, rotorcraft external load operations must be approved by the Associate Administrator prior to the initiation of such operations.
 
 (b) *Exceptions.* This subchapter does not apply to the following materials used for special aircraft operations when applicable FAA operator requirements have been met, including training operator personnel on the proper handling and stowage of the hazardous materials carried:
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 44997, July 26, 2022.
 
 (i) The compressed gas used to operate the unit is in an authorized DOT specification cylinder and is marked, labeled, filled, and maintained as prescribed by this subchapter;
 
-(ii) Each battery used is of the nonspillable type;
+(ii) Each type of battery used is either nonspillable, lithium metal, or lithium ion. Lithium metal or lithium ion batteries must meet the provisions of § 173.185(a) of this subchapter. Spare batteries - of any type - must be individually protected to prevent short circuits when not in use;
 
 (iii) The unit is constructed so that valves, fittings, and gauges are protected from damage;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 87 FR 44997, July 26, 2022.
 
 (v) When Division 1.1, 1.2, and 1.3 materials (except detonators and detonator assemblies) and detonators or detonator assemblies are carried for avalanche control, landslide clearance, or ice jam control flights, the explosives must be handled by, and at all times be under the control of, a qualified blaster. When required by a State or local authority, the blaster must be licensed and the State or local authority must be identified in writing to the FAA Principal Operations Inspector assigned to the operator.
 
-[76 FR 3381, Jan. 19, 2011, as amended at 80 FR 1163, Jan. 8, 2015; 81 FR 35543, June 2, 2016]
+[76 FR 3381, Jan. 19, 2011, as amended at 80 FR 1163, Jan. 8, 2015; 81 FR 35543, June 2, 2016; 87 FR 44997, July 26, 2022]

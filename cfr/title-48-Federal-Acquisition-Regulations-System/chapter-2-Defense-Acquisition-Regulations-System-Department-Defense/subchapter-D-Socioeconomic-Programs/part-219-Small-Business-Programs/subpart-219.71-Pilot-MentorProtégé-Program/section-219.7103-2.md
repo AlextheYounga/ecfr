@@ -1,5 +1,7 @@
 ##### 219.7103-2 Contracting officer responsibilities. #####
 
+Link to an amendment published at 87 FR 52349, Aug. 25, 2022.
+
 Contracting officers must -
 
 (a) Negotiate an advance agreement on the treatment of developmental assistance costs for either credit or reimbursement if the mentor firm proposes such an agreement, or delegate authority to negotiate to the administrative contracting officer (see FAR 31.109).

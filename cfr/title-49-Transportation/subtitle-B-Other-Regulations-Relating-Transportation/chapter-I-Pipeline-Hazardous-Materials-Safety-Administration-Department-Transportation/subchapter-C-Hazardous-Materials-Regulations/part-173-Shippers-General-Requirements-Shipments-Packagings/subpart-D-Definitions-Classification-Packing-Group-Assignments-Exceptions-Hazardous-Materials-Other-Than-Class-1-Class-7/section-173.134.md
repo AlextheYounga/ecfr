@@ -1,14 +1,12 @@
-##### § 173.134 Class 6, Division 6.2 - Definitions and exceptions. #####
-
-Link to an amendment published at 87 FR 44992, July 26, 2022.
+##### § 173.134 Class 6, Division 6.2—Definitions and exceptions. #####
 
 (a) *Definitions and classification criteria.* For the purposes of this subchapter, the following definitions and classification criteria apply to Division 6.2 materials.
 
-(1) *Division 6.2 (Infectious substance)* means a material known or reasonably expected to contain a pathogen. A pathogen is a microorganism (including bacteria, viruses, rickettsiae, parasites, fungi) or other agent, such as a proteinaceous infectious particle (prion), that can cause disease in humans or animals. An infectious substance must be assigned the identification number UN 2814, UN 2900, UN 3373, or UN 3291 as appropriate, and must be assigned to one of the following categories:
+(1) *Division 6.2 (Infectious substance)* means a material known or reasonably expected to contain a pathogen. A pathogen is a microorganism (including bacteria, viruses, parasites, and fungi) or other agent, such as a proteinaceous infectious particle (prion) that can cause disease in humans or animals. An infectious substance must be assigned the identification number UN2814, UN2900, UN3291, UN3373, or UN3549 as appropriate, and must be assigned to one of the following categories:
 
-(i) *Category A:* An infectious substance in a form capable of causing permanent disability or life-threatening or fatal disease in otherwise healthy humans or animals when exposure to it occurs. An exposure occurs when an infectious substance is released outside of its protective packaging, resulting in physical contact with humans or animals. A Category A infectious substance must be assigned to identification number UN 2814 or UN 2900, as appropriate. Assignment to UN 2814 or UN 2900 must be based on the known medical history or symptoms of the source patient or animal, endemic local conditions, or professional judgment concerning the individual circumstances of the source human or animal.
+(i) *Category A:* An infectious substance in a form capable of causing permanent disability or life-threatening or fatal disease in otherwise healthy humans or animals when exposure to it occurs. An exposure occurs when an infectious substance is released outside of its protective packaging, resulting in physical contact with humans or animals. A Category A infectious substance must be assigned to identification number UN2814, UN2900, or UN3549, as appropriate. Assignment to UN2814, UN2900, or UN3549 must be based on the known medical history or symptoms of the source patient or animal, endemic local conditions, or professional judgment concerning the individual circumstances of the source human or animal.
 
-(ii) *Category B:* An infectious substance that is not in a form generally capable of causing permanent disability or life-threatening or fatal disease in otherwise healthy humans or animals when exposure to it occurs. This includes Category B infectious substances transported for diagnostic or investigational purposes. A Category B infectious substance must be described as “Biological substance, Category B” and assigned identification number UN 3373. This does not include regulated medical waste, which must be assigned identification number UN 3291.
+(ii) *Category B:* An infectious substance that is not in a form generally capable of causing permanent disability or life-threatening or fatal disease in otherwise healthy humans or animals when exposure to it occurs. This includes Category B infectious substances transported for diagnostic or investigational purposes. A Category B infectious substance must be described as “Biological substance, Category B” and assigned identification number UN3373. This does not include regulated medical waste, which must be assigned identification number UN3291.
 
 (2) *Biological product* means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent arsenic compound) applicable to the prevention, treatment, or cure of a disease or condition of human beings or animals. A *biological product* includes a material subject to regulation under 42 U.S.C. 262 or 21 U.S.C. 151-159. Unless otherwise excepted, a *biological product* known or reasonably expected to contain a pathogen that meets the definition of a Category A or B infectious substance must be assigned the identification number UN 2814, UN 2900, or UN 3373, as appropriate.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 44992, July 26, 2022.
 
 (4) *Patient specimens* means those collected directly from humans or animals and transported for research, diagnosis, investigational activities, or disease treatment or prevention. *Patient specimens* includes excreta, secreta, blood and its components, tissue and tissue swabs, body parts, and specimens in transport media (*e.g.,* transwabs, culture media, and blood culture bottles).
 
-(5) *Regulated medical waste or clinical waste or (bio) medical waste* means a waste or reusable material derived from the medical treatment of an animal or human, which includes diagnosis and immunization, or from biomedical research, which includes the production and testing of biological products. Regulated medical waste or clinical waste or (bio) medical waste containing a Category A infectious substance must be classed as an infectious substance, and assigned to UN2814 or UN2900, as appropriate.
+(5) *Regulated medical waste or clinical waste or (bio) medical waste* means a waste or reusable material derived from the medical treatment of an animal or human, which includes diagnosis and immunization, or from biomedical research, which includes the production and testing of biological products. Regulated medical waste or clinical waste or (bio) medical waste containing a Category A infectious substance must be classed as an infectious substance, and assigned to UN2814, UN2900, or UN3549, as appropriate.
 
 (6) *Sharps* means any object contaminated with a pathogen or that may become contaminated with a pathogen through handling or during transportation and also capable of cutting or penetrating skin or a packaging material. *Sharps* includes needles, syringes, scalpels, broken glass, culture slides, culture dishes, broken capillary tubes, broken rigid plastic, and exposed ends of dental wires.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 87 FR 44992, July 26, 2022.
 
 (D) Each person who offers or transports a used health care product under the provisions of this paragraph must know about the requirements of this paragraph.
 
-(13) Any waste or recyclable material, other than regulated medical waste, including -
+(13) Any waste or recyclable material, other than regulated medical waste, including—
 
 (i) Household waste as defined in § 171.8, when transported in accordance with applicable state, local, or tribal requirements.
 
@@ -76,7 +74,7 @@ Link to an amendment published at 87 FR 44992, July 26, 2022.
 
 (14) Corpses, remains, and anatomical parts intended for interment, cremation, or medical research at a college, hospital, or laboratory.
 
-(15) Forensic material transported on behalf of a U.S. Government, state, local or Indian tribal government agency, except that -
+(15) Forensic material transported on behalf of a U.S. Government, state, local or Indian tribal government agency, except that—
 
 (i) Forensic material known or suspected to contain a Category B infectious substance must be shipped in a packaging conforming to the provisions of § 173.24.
 
@@ -86,7 +84,7 @@ Link to an amendment published at 87 FR 44992, July 26, 2022.
 
 (c) *Exceptions for regulated medical waste.* The following provisions apply to the transportation of regulated medical waste:
 
-(1) A regulated medical waste transported by a private or contract carrier is excepted from -
+(1) A regulated medical waste transported by a private or contract carrier is excepted from—
 
 (i) The requirement for an “INFECTIOUS SUBSTANCE” label if the outer packaging is marked with a “BIOHAZARD” marking in accordance with 29 CFR 1910.1030; and
 
@@ -118,4 +116,4 @@ Link to an amendment published at 87 FR 44992, July 26, 2022.
 
 (e) *Transitional provisions.* The authorization for continued use of the criteria for packing group assignments in effect on December 31, 2006 ended on January 1, 2012.
 
-[67 FR 53138, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 70 FR 56098, Sept. 23, 2005; 71 FR 32258, June 2, 2006; 71 FR 78631, Dec. 29, 2006; 72 FR 55692, Oct. 1, 2007; 73 FR 4718, Jan. 28, 2008; 74 FR 2257, Jan. 14, 2009; 76 FR 43530, July 20, 2011; 77 FR 60942, Oct. 5, 2012; 78 FR 15327, Mar. 11, 2013; 85 FR 27880, May 11, 2020; 85 FR 83397, Dec. 21, 2020]
+[67 FR 53138, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 70 FR 56098, Sept. 23, 2005; 71 FR 32258, June 2, 2006; 71 FR 78631, Dec. 29, 2006; 72 FR 55692, Oct. 1, 2007; 73 FR 4718, Jan. 28, 2008; 74 FR 2257, Jan. 14, 2009; 76 FR 43530, July 20, 2011; 77 FR 60942, Oct. 5, 2012; 78 FR 15327, Mar. 11, 2013; 85 FR 27880, May 11, 2020; 85 FR 83397, Dec. 21, 2020; 87 FR 44992, July 26, 2022]

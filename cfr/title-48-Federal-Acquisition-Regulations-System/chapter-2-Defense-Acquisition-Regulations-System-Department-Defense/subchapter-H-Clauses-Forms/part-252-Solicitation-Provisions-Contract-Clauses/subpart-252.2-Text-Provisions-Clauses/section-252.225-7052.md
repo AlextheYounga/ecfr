@@ -1,6 +1,8 @@
 ##### 252.225-7052 Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten. #####
 
-Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Oct 2020)
+As prescribed in 225.7018-5, use the following clause:
+
+Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Aug 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -40,7 +42,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Oct 2
 
 (2) Neodymium-iron-boron magnets;
 
-(3) Tantalum metal and alloys;
+(3) Tantalum metals and alloys;
 
 (4) Tungsten metal powder; and
 
@@ -68,7 +70,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Oct 2
 
 (ii) The restriction on melting and producing of samarium-cobalt magnets is in addition to any applicable restrictions on melting of specialty metals if the clause at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals, is included in the contract.
 
-(3) For production of tantalum metal and alloys, this restriction includes the reduction of tantalum chemicals such as oxides, chlorides, or potassium salts, to metal powder and all subsequent phases of production of tantalum metal and alloys, such as consolidation of metal powders.
+(3) For production of tantalum metals of any kind and alloys, this restriction includes the reduction or melting of any form of tantalum to create tantalum metal including unwrought, powder, mill products, and alloys. The restriction also covers all subsequent phases of production of tantalum metals and alloys.
 
 (4) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes -
 
@@ -82,7 +84,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Oct 2
 
 (c) *Exceptions.* This clause does not apply -
 
-(1) To an end item that is -
+(1) To an end item containing a covered material that is -
 
 (i) A commercially available off-the-shelf item, other than -
 
@@ -102,4 +104,4 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Oct 2
 
 (d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in subcontracts and other contractual instruments that are for items containing a covered material, including subcontracts and other contractual instruments for commercial items, unless an exception in paragraph (c) of this clause applies. The Contractor shall not alter this clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]
+(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022]

@@ -1,7 +1,5 @@
 ##### § 173.306 Limited quantities of compressed gases. #####
 
-Link to an amendment published at 87 FR 44997, July 26, 2022.
-
 (a) Limited quantities of compressed gases for which exceptions are permitted as noted by reference to this section in § 172.101 of this subchapter are excepted from labeling, except when offered for transportation or transported by air, and, unless required as a condition of the exception, specification packaging requirements of this subchapter when packaged in accordance with the following paragraphs. For transportation by aircraft, the package must conform to the applicable requirements of § 173.27 and only packages of hazardous materials authorized aboard passenger-carrying aircraft may be transported as a limited quantity. In addition, shipments are not subject to subpart F (Placarding) of part 172 of this subchapter, to part 174 of this subchapter except § 174.24, and to part 177 of this subchapter except § 177.817. Except as otherwise provided in this section, each package may not exceed 30 kg (66 lbs.) gross weight.
 
 (1) When in containers of not more than 4 fluid ounces capacity (7.22 cubic inches or less) except cigarette lighters. Additional exceptions for certain compressed gases in limited quantities and the ORM-D hazard class are provided in paragraph (i) of this section.
@@ -168,7 +166,7 @@ Authorized Aerosol Containers for Foodstuffs and Soaps
 
 (2) Accumulators charged with limited quantities of compressed gas to not more than 200 psig at 70 °F are excepted from labeling (except when offered for transportation by air) and the specification packaging requirements of this subchapter when shipped under the following conditions. In addition, shipments are not subject to subpart F (placarding) of part 172 of this subchapter, to part 174 of this subchapter except § 174.24 and to part 177 of this subchapter except § 177.817.
 
-(i) Each accumulator must be shipped as an inside packaging;
+(i) Each accumulator must be shipped as an inside packaging. Robust accumulators may be transported unpackaged, in crates, or in appropriate overpacks, when the hazardous materials are afforded equivalent protection by the article in which they are contained;
 
 (ii) Each accumulator may not have a gas space exceeding 2,500 cubic inches under stored pressure; and
 
@@ -194,7 +192,7 @@ Authorized Aerosol Containers for Foodstuffs and Soaps
 
 (C) If accumulators fail either test, an additional four (4) sets of accumulators from the lot may be tested. If any additional accumulators fail, the lot must be rejected;
 
-(iv) Accumulators must be packaged in strong outer packaging.
+(iv) Accumulators must be packaged in strong outer packaging. Robust accumulators may be transported unpackaged, in crates, or in appropriate overpacks, when the hazardous materials are afforded equivalent protection by the article in which they are contained.
 
 (4) Accumulators intended to function as shock absorbers, struts, gas springs, pneumatic springs or other impact or energy-absorbing devices are not subject to the requirements of this subchapter provided each:
 
@@ -269,5 +267,27 @@ S = Pd/2tWhere:S = wall stress in psi;P = prescribed pressure for the tank is at
 (l) For additional exceptions, *see* § 173.307.
 
 (m) *Reverse logistics.* Hazardous materials meeting the definition of “reverse logistics” under § 171.8 of this subchapter and in compliance with this section may be offered for transport and transported in highway transportation in accordance with § 173.157. For the purposes of this paragraph a cylinder or aerosol container may be assumed to meet the definition of a Division 2.1 or 2.2 material, respectively, even if the exact pressure is unknown.
+
+(n) *Receptacles, small, containing gas or gas cartridges for recycling or disposal.* Receptacles, small, containing gas *or* gas cartridges not exceeding 1.0 L (0.3 gallons) capacity may be offered for transportation for the purposes of recycling or disposal. Receptacles, small, containing gas *or* gas cartridges are not required to be protected against shifting and inadvertent discharge if measures to prevent dangerous build-up of pressure and dangerous atmospheres are addressed and are excepted from the specification packaging requirements of this subchapter when packaged and offered in accordance with this paragraph (n).
+
+(1) Receptacles, small, containing gas *or* gas cartridges for recycling or disposal, other than those that are leaking or severely deformed, must be packaged as follows:
+
+(i) The receptacles, small, containing gas *or* gas cartridges must be packaged in a strong outer packaging. The strong outer packaging and its contents must not exceed a gross weight of 55 kg (121 pounds) for fiberboard packagings or 125 kg (275 pounds) for other packagings; and
+
+(ii) Packagings must be adequately ventilated to prevent the creation of dangerous atmospheres and build-up of pressure.
+
+(2) Rigid large packagings are authorized conforming to the packing group II performance level made of:
+
+(i) Steel (50A); Aluminum (50B); Metal other than steel or aluminum (50N); Rigid plastics (50H); Natural wood (50C); Plywood (50D); Reconstituted wood (50F); Rigid fiberboard (50G).
+
+(ii) Large packagings must be designed and constructed to prevent dangerous shifting and inadvertent discharge during normal conditions of transport;
+
+(iii) Large packagings must be adequately ventilated to prevent the creation of dangerous atmospheres and the build-up of pressure; and
+
+(iv) Leaking or severely deformed containers must be transported in salvage cylinders or salvage packagings provided adequate measures are taken to prevent a dangerous build-up of pressure.
+
+(3) Receptacles, small, containing gas *or* gas cartridges for recycling or disposal must not be transported in closed freight containers.
+
+(4) Receptacles, small, containing gas *or* gas cartridges for recycling or disposal that were filled with Division 2.2 gases and have been pierced are not subject to the requirements of this subchapter.
 
 [Amdt. 173-94, 41 FR 16079, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 173.306, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

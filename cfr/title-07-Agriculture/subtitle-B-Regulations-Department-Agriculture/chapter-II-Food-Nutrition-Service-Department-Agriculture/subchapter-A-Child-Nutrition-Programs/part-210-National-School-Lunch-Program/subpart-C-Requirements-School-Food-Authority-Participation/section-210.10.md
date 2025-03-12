@@ -1,6 +1,6 @@
 ##### § 210.10 Meal requirements for lunches and requirements for afterschool snacks. #####
 
-(a) *General requirements* - (1) *General nutrition requirements.* Schools must offer nutritious, well-balanced, and age-appropriate meals to all the children they serve to improve their diets and safeguard their health.
+(a) *General requirements*—(1) *General nutrition requirements.* Schools must offer nutritious, well-balanced, and age-appropriate meals to all the children they serve to improve their diets and safeguard their health.
 
 (i) *Requirements for lunch.* School lunches offered to children age 5 or older must meet, at a minimum, the meal requirements in paragraph (b) of this section. Schools must follow a food-based menu planning approach and produce enough food to offer each child the quantities specified in the meal pattern established in paragraph (c) of this section for each age/grade group served in the school. In addition, school lunches must meet the dietary specifications in paragraph (f) of this section. Schools offering lunches to children ages 1 through 4 and infants must meet the meal pattern requirements in paragraphs (p) and (q), as applicable, of this section. Schools must make potable water available and accessible without restriction to children at no charge in the place(s) where lunches are served during the meal service.
 
@@ -29,6 +29,8 @@
 (iii) Average sodium content of the meals offered to each age/grade group must not exceed the maximum level specified in paragraph (f) of this section.
 
 (c) *Meal pattern for school lunches.* Schools must offer the food components and quantities required in the lunch meal pattern established in the following table:
+
+Table 1 to Paragraph (c) Introductory Text—Lunch Meal Pattern
 
 |                                                                        |                                       Lunch meal pattern                                        |           |         |
 |------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------|---------|
@@ -103,7 +105,7 @@
 
 (E) *Other vegetables.* This subgroup includes all other fresh, frozen, and canned vegetables, cooked or raw, such as artichokes, asparagus, avocado, bean sprouts, beets, Brussels sprouts, cabbage, cauliflower, celery, cucumbers, eggplant, green beans, green peppers, iceberg lettuce, mushrooms, okra, onions, parsnips, turnips, wax beans, and zucchini.
 
-(iv) *Grains component -*  (A) *Enriched and whole grains.* All grains must be made with enriched and whole grain meal or flour, in accordance with the most recent grains FNS guidance. Whole grain-rich products must contain at least 50 percent whole grains and the remaining grains in the product must be enriched. The whole grain-rich criteria included in FNS guidance may be updated to reflect additional information provided by industry on the food label or a whole grains definition by the Food and Drug Administration.
+(iv) *Grains component—* (A) *Enriched and whole grains.* All grains must be made with enriched and whole grain meal or flour, in accordance with the most recent grains FNS guidance. Whole grain-rich products must contain at least 50 percent whole grains and the remaining grains in the product must be enriched. The whole grain-rich criteria included in FNS guidance may be updated to reflect additional information provided by industry on the food label or a whole grains definition by the Food and Drug Administration.
 
 (B) *Daily and weekly servings.* The grains component is based on minimum daily servings plus total servings over a 5-day school week. Schools serving lunch 6 or 7 days per week must increase the weekly grains quantity by approximately 20 percent (1/5) for each additional day. When schools operate less than 5 days per week, they may decrease the weekly quantity by approximately 20 percent (1/5) for each day less than 5. The servings for biscuits, rolls, muffins, and other grain/bread varieties are specified in FNS guidance. Eighty (80) percent of grains offered weekly must meet the whole grain-rich criteria specified in FNS guidance, and the remaining grain items offered must be enriched.
 
@@ -121,7 +123,7 @@
 
 (7) *Menu substitutions.* Schools should always try to substitute nutritionally similar foods.
 
-(d) *Fluid milk requirement* - (1) *Types of fluid milk.* (i) Schools must offer students a variety (at least two different options) of fluid milk. All milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk with higher fat content is not allowed. Low-fat or fat-free lactose-free and reduced-lactose fluid milk may also be offered. Milk may be unflavored or flavored, provided that unflavored milk is offered at each meal service.
+(d) *Fluid milk requirement*—(1) *Types of fluid milk.* (i) Schools must offer students a variety (at least two different options) of fluid milk. All milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk with higher fat content is not allowed. Low-fat or fat-free lactose-free and reduced-lactose fluid milk may also be offered. Milk may be unflavored or flavored, provided that unflavored milk is offered at each meal service.
 
 (ii) All fluid milk served in the Program must be pasteurized fluid milk which meets State and local standards for such milk. All fluid milk must have vitamins A and D at levels specified by the Food and Drug Administration and must be consistent with State and local standards for such milk.
 
@@ -149,7 +151,7 @@
 
 (e) *Offer versus serve for grades K through 12.* School lunches must offer daily the five food components specified in the meal pattern in paragraph (c) of this section. Under offer versus serve, students must be allowed to decline two components at lunch, *except that* the students must select at least1/2 cup of either the fruit or vegetable component. Senior high schools (as defined by the State educational agency) must participate in offer versus serve. Schools below the senior high level may participate in offer versus serve at the discretion of the school food authority.
 
-(f) *Dietary specifications* - (1) *Calories.* School lunches offered to each age/grade group must meet, on average over the school week, the minimum and maximum calorie levels specified in the following table:
+(f) *Dietary specifications*—(1) *Calories.* School lunches offered to each age/grade group must meet, on average over the school week, the minimum and maximum calorie levels specified in the following table:
 
 |                                    |Calorie ranges for lunch|           |       |
 |------------------------------------|------------------------|-----------|-------|
@@ -164,7 +166,7 @@
 
 (3) *Sodium.* School lunches offered to each age/grade group must meet, on average over the school week, the levels of sodium specified in the following table within the established deadlines:
 
-Table 4 to Paragraph (f)(3) - National School Lunch Program Sodium Timeline & Limits
+Table 4 to Paragraph (f)(3)—National School Lunch Program Sodium Timeline & Limits
 
 |Age/grade group|Target 1:  <br/>effective July 1, 2022  <br/>(mg)|Interim target 1A:  <br/>effective July 1, 2023  <br/>(mg)|
 |---------------|-------------------------------------------------|----------------------------------------------------------|
@@ -176,17 +178,17 @@ Table 4 to Paragraph (f)(3) - National School Lunch Program Sodium Timeline & Li
 
 (g) *Compliance assistance.* The State agency and school food authority must provide technical assistance and training to assist schools in planning lunches that meet the meal pattern in paragraph (c) of this section; the calorie, saturated fat, sodium, and *trans* fat specifications established in paragraph (f) of this section; and the meal pattern requirements in paragraphs (o), (p), and (q) of this section as applicable. Compliance assistance may be offered during trainings, onsite visits, and/or administrative reviews.
 
-(h) *Monitoring dietary specifications.* - (1) *Calories, saturated fat and sodium.* When required by the administrative review process set forth in § 210.18, the State agency must conduct a weighted nutrient analysis to evaluate the average levels of calories, saturated fat, and sodium of the lunches offered to students in grades K and above during one week of the review period. The nutrient analysis must be conducted in accordance with the procedures established in paragraph (i)(3) of this section. If the results of the nutrient analysis indicate that the school lunches are not meeting the specifications for calories, saturated fat, and sodium specified in paragraph (f) of this section, the State agency or school food authority must provide technical assistance and require the reviewed school to take corrective action to meet the requirements.
+(h) *Monitoring dietary specifications.*—(1) *Calories, saturated fat and sodium.* When required by the administrative review process set forth in § 210.18, the State agency must conduct a weighted nutrient analysis to evaluate the average levels of calories, saturated fat, and sodium of the lunches offered to students in grades K and above during one week of the review period. The nutrient analysis must be conducted in accordance with the procedures established in paragraph (i)(3) of this section. If the results of the nutrient analysis indicate that the school lunches are not meeting the specifications for calories, saturated fat, and sodium specified in paragraph (f) of this section, the State agency or school food authority must provide technical assistance and require the reviewed school to take corrective action to meet the requirements.
 
 (2) *Trans fat.* State agencies must review product labels or manufacturer specifications to verify that the food products or ingredients used by the reviewed school(s) contain zero grams of *trans* fat (less than 0.5 grams) per serving.
 
-(i) *Nutrient analyses of school meals* - (1) *Conducting the nutrient analysis.* Any nutrient analysis, whether conducted by the State agency under § 210.18 or by the school food authority, must be performed in accordance with the procedures established in paragraph (i)(3) of this section. The purpose of the nutrient analysis is to determine the average levels of calories, saturated fat, and sodium in the meals offered to each age grade group over a school week. The weighted nutrient analysis must be performed as required by FNS guidance.
+(i) *Nutrient analyses of school meals*—(1) *Conducting the nutrient analysis.* Any nutrient analysis, whether conducted by the State agency under § 210.18 or by the school food authority, must be performed in accordance with the procedures established in paragraph (i)(3) of this section. The purpose of the nutrient analysis is to determine the average levels of calories, saturated fat, and sodium in the meals offered to each age grade group over a school week. The weighted nutrient analysis must be performed as required by FNS guidance.
 
-(2) *Software elements* - (i) *The Child Nutrition Database.* The nutrient analysis is based on the USDA Child Nutrition Database. This database is part of the software used to do a nutrient analysis. Software companies or others developing systems for schools may contact FNS for more information about the database.
+(2) *Software elements*—(i) *The Child Nutrition Database.* The nutrient analysis is based on the USDA Child Nutrition Database. This database is part of the software used to do a nutrient analysis. Software companies or others developing systems for schools may contact FNS for more information about the database.
 
 (ii) *Software evaluation.* FNS or an FNS designee evaluates any nutrient analysis software before it may be used in schools. FNS or its designee determines if the software, as submitted, meets the minimum requirements. The approval of software does not mean that FNS or USDA endorses it. The software must be able to perform a weighted average analysis after the basic data is entered. The combined analysis of the lunch and breakfast programs is not allowed.
 
-(3) *Nutrient analysis procedures* - (i) *Weighted averages.* The nutrient analysis must include all foods offered as part of the reimbursable meals during one week within the review period. Foods items are included based on the portion sizes and serving amounts. They are also weighted based on their proportionate contribution to the meals offered. This means that food items offered more frequently are weighted more heavily than those not offered as frequently. The weighted nutrient analysis must be performed as required by FNS guidance.
+(3) *Nutrient analysis procedures*—(i) *Weighted averages.* The nutrient analysis must include all foods offered as part of the reimbursable meals during one week within the review period. Foods items are included based on the portion sizes and serving amounts. They are also weighted based on their proportionate contribution to the meals offered. This means that food items offered more frequently are weighted more heavily than those not offered as frequently. The weighted nutrient analysis must be performed as required by FNS guidance.
 
 (ii) *Analyzed nutrients.* The analysis determines the average levels of calories, saturated fat, and sodium in the meals offered over a school week. It includes all food items offered by the reviewed school over a one-week period.
 
@@ -194,15 +196,15 @@ Table 4 to Paragraph (f)(3) - National School Lunch Program Sodium Timeline & Li
 
 (j) *Responsibility for monitoring meal requirements.* Compliance with the meal requirements in paragraph (b) of this section, including dietary specifications for calories, saturated fat, sodium and *trans* fat, and paragraphs (o), (p), and (q) of this section, as applicable, will be monitored by the State agency through administrative reviews authorized in § 210.18.
 
-(k) *Menu choices at lunch* - (1) *Availability of choices.* Schools may offer children a selection of nutritious foods within a reimbursable lunch to encourage the consumption of a variety of foods. Children who are eligible for free or reduced price lunches must be allowed to take any reimbursable lunch or any choices offered as part of a reimbursable lunch. Schools may establish different unit prices for each reimbursable lunch offered provided that the benefits made available to children eligible for free or reduced price lunches are not affected.
+(k) *Menu choices at lunch*—(1) *Availability of choices.* Schools may offer children a selection of nutritious foods within a reimbursable lunch to encourage the consumption of a variety of foods. Children who are eligible for free or reduced price lunches must be allowed to take any reimbursable lunch or any choices offered as part of a reimbursable lunch. Schools may establish different unit prices for each reimbursable lunch offered provided that the benefits made available to children eligible for free or reduced price lunches are not affected.
 
 (2) *Opportunity to select.* Schools that choose to offer a variety of reimbursable lunches, or provide multiple serving lines, must make all required food components available to all students, on every lunch line, in at least the minimum required amounts.
 
-(l) *Requirements for lunch periods* - (1) *Timing.* Schools must offer lunches meeting the requirements of this section during the period the school has designated as the lunch period. Schools must offer lunches between 10 a.m. and 2 p.m. Schools may request an exemption from these times from the State agency. With State agency approval, schools may serve lunches to children under age 5 over two service periods. Schools may divide quantities and food items offered each time any way they wish.
+(l) *Requirements for lunch periods*—(1) *Timing.* Schools must offer lunches meeting the requirements of this section during the period the school has designated as the lunch period. Schools must offer lunches between 10 a.m. and 2 p.m. Schools may request an exemption from these times from the State agency. With State agency approval, schools may serve lunches to children under age 5 over two service periods. Schools may divide quantities and food items offered each time any way they wish.
 
 (2) *Adequate lunch periods.* FNS encourages schools to provide sufficient lunch periods that are long enough to give all students adequate time to be served and to eat their lunches.
 
-(m) *Exceptions and variations allowed in reimbursable meals* - (1) *Exceptions for disability reasons.* Schools must make substitutions in lunches and afterschool snacks for students who are considered to have a disability under 7 CFR 15b.3 and whose disability restricts their diet. Substitutions must be made on a case by case basis only when supported by a written statement of the need for substitution(s) that includes recommended alternate foods, unless otherwise exempted by FNS. Such statement must be signed by a licensed physician.
+(m) *Exceptions and variations allowed in reimbursable meals*—(1) *Exceptions for disability reasons.* Schools must make substitutions in lunches and afterschool snacks for students who are considered to have a disability under 7 CFR 15b.3 and whose disability restricts their diet. Substitutions must be made on a case by case basis only when supported by a written statement of the need for substitution(s) that includes recommended alternate foods, unless otherwise exempted by FNS. Such statement must be signed by a licensed physician.
 
 (2) *Exceptions for non-disability reasons.* Schools may make substitutions for students without disabilities who cannot consume the regular lunch or afterschool snack because of medical or other special dietary needs. Substitutions must be made on a case by case basis only when supported by a written statement of the need for substitutions that includes recommended alternate foods, unless otherwise exempted by FNS. Except with respect to substitutions for fluid milk, such a statement must be signed by a recognized medical authority.
 
@@ -242,11 +244,11 @@ Table 4 to Paragraph (f)(3) - National School Lunch Program Sodium Timeline & Li
 
 (iv) A serving of whole-grain or enriched bread; or an equivalent serving of a bread product, such as cornbread, biscuits, rolls, or muffins made with whole-grain or enriched meal or flour; or a serving of cooked whole-grain or enriched pasta or noodle products such as macaroni, or cereal grains such as enriched rice, bulgur, or enriched corn grits; or an equivalent quantity of any combination of these foods.
 
-(3) *Afterschool snack requirements for preschoolers* - (i) *Snacks served to preschoolers.* Schools serving afterschool snack to children ages 1 through 4 must serve the food components and quantities required in the snack meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (c)(3), and (d) of this chapter. In addition, schools serving afterschool snacks to this age group must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (d)(2) through (4), (g), and (m) of this section.
+(3) *Afterschool snack requirements for preschoolers*—(i) *Snacks served to preschoolers.* Schools serving afterschool snack to children ages 1 through 4 must serve the food components and quantities required in the snack meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (c)(3), and (d) of this chapter. In addition, schools serving afterschool snacks to this age group must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (d)(2) through (4), (g), and (m) of this section.
 
 (ii) *Preschooler snack meal pattern table.* The minimum amounts of food components to be served at snack are as follows:
 
-Table 5 to Paragraph (o)(3)(ii) - Preschool Snack Meal Pattern
+Table 5 to Paragraph (o)(3)(ii)—Preschool Snack Meal Pattern
 
 |               Food components and food items 1               | Minimum quantities |                     |
 |--------------------------------------------------------------|--------------------|---------------------|
@@ -283,11 +285,11 @@ Endnotes:
 
 <sup>8</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
-(4) *Afterschool snack requirements for infants* - (i) *Snacks served to infants.* Schools serving afterschool snacks to infants ages birth through 11 months must serve the food components and quantities required in the snack meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving afterschool snacks to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (g), and (m) of this section.
+(4) *Afterschool snack requirements for infants*—(i) *Snacks served to infants.* Schools serving afterschool snacks to infants ages birth through 11 months must serve the food components and quantities required in the snack meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving afterschool snacks to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (g), and (m) of this section.
 
 (ii) *Infant snack meal pattern table.* The minimum amounts of food components to be served at snack are as follows:
 
-Table 6 to Paragraph (o)(4)(ii) - Infant Snack Meal Pattern
+Table 6 to Paragraph (o)(4)(ii)—Infant Snack Meal Pattern
 
 |                    Birth through 5 months                    |                                           6 through 11 months                                           |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -314,11 +316,11 @@ Table 6 to Paragraph (o)(4)(ii) - Infant Snack Meal Pattern
 
 (5) *Monitoring afterschool snacks.* Compliance with the requirements of this paragraph is monitored by the State agency as part of the administrative review conducted under § 210.18. If the snacks offered do not meet the requirements of this paragraph, the State agency or school food authority must provide technical assistance and require corrective action. In addition, the State agency must take fiscal action, as authorized in §§ 210.18(l) and 210.19(c).
 
-(p) *Lunch requirements for preschoolers* - (1) *Lunches served to preschoolers.* Schools serving lunches to children ages 1 through 4 under the National School Lunch Program must serve the food components and quantities required in the lunch meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (c)(2), and (d) of this chapter. In addition, schools serving lunches to this age group must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (d)(2) through (4), (g), (k), (l), and (m) of this section.
+(p) *Lunch requirements for preschoolers*—(1) *Lunches served to preschoolers.* Schools serving lunches to children ages 1 through 4 under the National School Lunch Program must serve the food components and quantities required in the lunch meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (c)(2), and (d) of this chapter. In addition, schools serving lunches to this age group must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (d)(2) through (4), (g), (k), (l), and (m) of this section.
 
 (2) *Preschooler lunch meal pattern table.* The minimum amounts of food components to be served at lunch are as follows:
 
-Table 7 to Paragraph (p)(2) - Preschool Lunch Meal Pattern
+Table 7 to Paragraph (p)(2)—Preschool Lunch Meal Pattern
 
 |                                                                                                                                  Food components and food items 1                                                                                                                                  | Minimum quantities |                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------|
@@ -357,11 +359,11 @@ Endnotes:
 
 <sup>9</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
-(q) *Lunch requirements for infants* - (1) *Lunches served to infants.* Schools serving lunches to infants ages birth through 11 months under the National School Lunch Program must serve the food components and quantities required in the lunch meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving lunches to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (g), (l), and (m) of this section.
+(q) *Lunch requirements for infants*—(1) *Lunches served to infants.* Schools serving lunches to infants ages birth through 11 months under the National School Lunch Program must serve the food components and quantities required in the lunch meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving lunches to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (g), (l), and (m) of this section.
 
 (2) *Infant lunch meal pattern table.* The minimum amounts of food components to be served at lunch are as follows:
 
-Table 8 to Paragraph (q)(2) - Infant Lunch Meal Pattern
+Table 8 to Paragraph (q)(2)—Infant Lunch Meal Pattern
 
 |                    Birth through 5 months                    |                                   6 through 11 months                                    |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -385,4 +387,4 @@ Table 8 to Paragraph (q)(2) - Infant Lunch Meal Pattern
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021; 87 FR 4126, Jan. 27, 2022; 87 FR 7005, Feb. 7, 2022; 87 FR 47331, Aug. 3, 2022]
+[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021; 87 FR 4126, Jan. 27, 2022; 87 FR 7005, Feb. 7, 2022; 87 FR 47331, Aug. 3, 2022; 87 FR 52329, Aug. 25, 2022]

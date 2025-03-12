@@ -10,7 +10,7 @@
 
 (2) The restriction on melting and producing of samarium-cobalt magnets is in addition to any applicable restrictions on melting of specialty metals at 225.7003 and the clause at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals.
 
-(c) For production of tantalum metal and alloys, this restriction includes the reduction of tantalum chemicals such as oxides, chlorides, or potassium salts, to metal powder and all subsequent phases of production of tantalum metal and alloys, such as consolidation of metal powders.
+(c) For production of tantalum metals of any kind and alloys, this restriction includes the reduction or melting of any form of tantalum to create tantalum metal including unwrought, powder, mill products, and alloys. The restriction also covers all subsequent phases of production of tantalum metals and alloys.
 
 (d) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes -
 
@@ -22,4 +22,4 @@
 
 (4) All subsequent phases of production of tungsten metal powder, tungsten heavy alloy, or any finished or semi-finished component containing tungsten heavy alloy.
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022]

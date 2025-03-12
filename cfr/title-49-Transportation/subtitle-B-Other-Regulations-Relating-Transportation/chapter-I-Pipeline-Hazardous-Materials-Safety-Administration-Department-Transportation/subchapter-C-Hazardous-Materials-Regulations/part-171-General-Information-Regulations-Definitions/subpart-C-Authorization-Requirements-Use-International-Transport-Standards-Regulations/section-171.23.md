@@ -1,12 +1,10 @@
 ##### § 171.23 Requirements for specific materials and packagings transported under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations. #####
 
-Link to an amendment published at 87 FR 44982, July 26, 2022.
-
 All shipments offered for transportation or transported in the United States under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations (IBR, see § 171.7) must conform to the requirements of this section, as applicable.
 
-(a) *Conditions and requirements for cylinders and pressure receptacles* - (1) *Applicability.* Except as provided in this paragraph (a), a filled cylinder (pressure receptacle) manufactured to other than a DOT specification or a UN standard in accordance with part 178 of this subchapter, a DOT exemption or special permit cylinder, a TC, CTC, CRC, or BTC cylinder authorized under § 171.12, or a cylinder used as a fire extinguisher in conformance with § 173.309(a) of this subchapter, may not be transported to, from, or within the United States.
+(a) *Conditions and requirements for cylinders and pressure receptacles*—(1) *Applicability.* Except as provided in this paragraph (a), a filled cylinder (pressure receptacle) manufactured to other than a DOT specification or a UN standard in accordance with part 178 of this subchapter, a DOT exemption or special permit cylinder, a TC, CTC, CRC, or BTC cylinder authorized under § 171.12, or a cylinder used as a fire extinguisher in conformance with § 173.309(a) of this subchapter, may not be transported to, from, or within the United States.
 
-(2) *Conditions.* Cylinders (including UN pressure receptacles) transported to, from, or within the United States must conform to the applicable requirements of this subchapter. Unless otherwise excepted in this subchapter, a cylinder must not be transported unless -
+(2) *Conditions.* Cylinders (including UN pressure receptacles) transported to, from, or within the United States must conform to the applicable requirements of this subchapter. Unless otherwise excepted in this subchapter, a cylinder must not be transported unless—
 
 (i) The cylinder is manufactured, inspected and tested in accordance with a DOT specification or a UN standard prescribed in part 178 of this subchapter, or a TC, CTC, CRC, or BTC specification set out in the Transport Canada TDG Regulations (IBR, see § 171.7), except that cylinders not conforming to these requirements must meet the requirements in paragraph (a)(3), (4), or (5) of this section;
 
@@ -16,7 +14,7 @@ All shipments offered for transportation or transported in the United States und
 
 (iv) A UN pressure receptacle is marked with “USA” as a country of approval in conformance with §§ 178.69 and 178.70 of this subchapter, or “CAN” for Canada.
 
-(3) *Pi-marked pressure receptacles.* Pressure receptacles that are marked with a pi mark in accordance with the European Directive 2010/35/EU (IBR, see § 171.7) on transportable pressure equipment (TPED) and that comply with the requirements of Packing Instruction P200 or P208 and 6.2 of ECE/TRANS/257 (Vol. I), the Agreement Concerning the International Carriage of Dangerous Goods by Road (ADR) (IBR, see § 171.7) concerning pressure relief device use, test period, filling ratios, test pressure, maximum working pressure, and material compatibility for the lading contained or gas being filled, are authorized as follows:
+(3) *Pi-marked pressure receptacles.* Pressure receptacles that are marked with a pi mark in accordance with the European Directive 2010/35/EU (IBR, *see* § 171.7) on transportable pressure equipment (TPED) and that comply with the requirements of Packing Instruction P200 or P208 and 6.2 of the ADR (IBR, *see* § 171.7) concerning pressure relief device use, test period, filling ratios, test pressure, maximum working pressure, and material compatibility for the lading contained or gas being filled, are authorized as follows:
 
 (i) Filled pressure receptacles imported for intermediate storage, transport to point of use, discharge, and export without further filling; and
 
@@ -24,7 +22,7 @@ All shipments offered for transportation or transported in the United States und
 
 (iii) The bill of lading or other shipping paper must identify the cylinder and include the following certification: “This cylinder (These cylinders) conform(s) to the requirements for pi-marked cylinders found in 171.23(a)(3).”
 
-(4) *Importation of cylinders for discharge within a single port area.* Except as provided in § 171.23(a)(3), a cylinder manufactured to other than a DOT specification or UN standard in accordance with part 178 of this subchapter, or a TC, CTC, BTC, or CRC specification cylinder set out in the Transport Canada TDG Regulations (IBR, see § 171.7), and certified as being in conformance with the transportation regulations of another country may be authorized, upon written request to and approval by the Associate Administrator, for transportation within a single port area, provided -
+(4) *Importation of cylinders for discharge within a single port area.* Except as provided in § 171.23(a)(3), a cylinder manufactured to other than a DOT specification or UN standard in accordance with part 178 of this subchapter, or a TC, CTC, BTC, or CRC specification cylinder set out in the Transport Canada TDG Regulations (IBR, see § 171.7), and certified as being in conformance with the transportation regulations of another country may be authorized, upon written request to and approval by the Associate Administrator, for transportation within a single port area, provided—
 
 (i) The cylinder is transported in a closed freight container;
 
@@ -48,7 +46,7 @@ All shipments offered for transportation or transported in the United States und
 
 (iii) The emergency response information provided with the shipment and available from the emergency response telephone contact person must indicate that the pressure receptacles are not fitted with pressure relief devices and provide appropriate guidance for exposure to fire.
 
-(b) *Conditions and requirements specific to certain materials* - (1) *Aerosols.* Except for a limited quantity of a compressed gas in a container of not more than 4 fluid ounces capacity meeting the requirements in § 173.306(a)(1) of this subchapter, the proper shipping name “Aerosol,” UN1950, may be used only for a non-refillable receptacle containing a gas compressed, liquefied, or dissolved under pressure the sole purpose of which is to expel a nonpoisonous (other than Division 6.1, Packing Group III material) liquid, paste, or powder and fitted with a self-closing release device (see § 171.8). In addition, an aerosol must be in a metal packaging when the packaging exceeds 7.22 cubic inches.
+(b) *Conditions and requirements specific to certain materials*—(1) *Aerosols.* Except for a limited quantity of a compressed gas in a container of not more than 4 fluid ounces capacity meeting the requirements in § 173.306(a)(1) of this subchapter, the proper shipping name “Aerosol,” UN1950, may be used only for a non-refillable receptacle containing a gas compressed, liquefied, or dissolved under pressure the sole purpose of which is to expel a nonpoisonous (other than Division 6.1, Packing Group III material) liquid, paste, or powder and fitted with a self-closing release device (see § 171.8). In addition, an aerosol must be in a metal packaging when the packaging exceeds 7.22 cubic inches.
 
 (2) *Safety devices for vehicles, vessels or aircraft, e.g.**air bag inflators, air bag modules, seat-belt pretensioners, and pyromechanical devices.* For each safety device, the shipping paper description must conform to the requirements in § 173.166(c) of this subchapter.
 
@@ -112,4 +110,4 @@ All shipments offered for transportation or transported in the United States und
 
 (12) *Self-reactive materials.* Self-reactive materials not identified by technical name in the Self-reactive Materials Table in § 173.224(b) of this subchapter must be approved by the Associate Administrator in accordance with § 173.124(a)(2)(iii) of this subchapter.
 
-[72 FR 25172, May 3, 2007, as amended at 72 FR 55684, Oct. 1, 2007; 73 FR 57004, Oct. 1, 2008; 76 FR 3345, Jan. 19, 2011; 76 FR 56311, Sept. 13, 2011; 78 FR 60751, Oct. 2, 2013; 78 FR 65468, Oct. 31, 2013; 80 FR 1116, Jan. 8, 2015; 80 FR 72920, Nov. 23, 2015; 81 FR 35513, June 2, 2016; 82 FR 15837, Mar. 30, 2017; 85 FR 75705, Nov. 25, 2020; 85 FR 85416, Dec. 28, 2020]
+[72 FR 25172, May 3, 2007, as amended at 72 FR 55684, Oct. 1, 2007; 73 FR 57004, Oct. 1, 2008; 76 FR 3345, Jan. 19, 2011; 76 FR 56311, Sept. 13, 2011; 78 FR 60751, Oct. 2, 2013; 78 FR 65468, Oct. 31, 2013; 80 FR 1116, Jan. 8, 2015; 80 FR 72920, Nov. 23, 2015; 81 FR 35513, June 2, 2016; 82 FR 15837, Mar. 30, 2017; 85 FR 75705, Nov. 25, 2020; 85 FR 85416, Dec. 28, 2020; 87 FR 44982, July 26, 2022]

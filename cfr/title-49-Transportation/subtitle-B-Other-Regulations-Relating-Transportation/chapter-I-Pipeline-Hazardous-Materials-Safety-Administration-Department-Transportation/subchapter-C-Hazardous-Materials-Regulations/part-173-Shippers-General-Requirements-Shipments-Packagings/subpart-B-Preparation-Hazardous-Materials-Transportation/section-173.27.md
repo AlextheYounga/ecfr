@@ -1,7 +1,5 @@
 ##### § 173.27 General requirements for transportation by aircraft. #####
 
-Link to an amendment published at 87 FR 44991, July 26, 2022.Link to a correction published at 87 FR 50273, Aug. 16, 2022.
-
 (a) The requirements of this section are in addition to requirements prescribed elsewhere under this part and apply to packages offered or intended for transportation aboard aircraft. Except for materials not subject to performance packaging requirements in subpart E of this part, a packaging containing a Packing Group III material with a primary or subsidiary risk of Division 4.1, 4.2, 4.3, 5.1, or Class 8 must meet the Packing Group II performance level when offered for transportation by aircraft.
 
 (b) *Packages authorized onboard aircraft.* (1) When Column 9a of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard passenger-carrying aircraft.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.Link to a correctio
 
 (c) *Pressure requirements.* (1) Packagings must be designed and constructed to prevent leakage that may be caused by changes in altitude and temperature during transportation aboard aircraft.
 
-(2) Packagings for which retention of liquid is a basic function must be capable of withstanding without leakage the greater of -
+(2) Except for packagings used for material transported as “UN3082, Environmentally hazardous substance, liquid, n.o.s.,” packagings for which retention of liquid is a basic function must be capable of withstanding without leakage the greater of -
 
 (i) An internal pressure which produces a gauge pressure of not less than 75 kPa (11 psig) for liquids in Packing Group III of Class 3 or Division 6.1; or 95 kPa (14 psig) for other liquids; or
 
@@ -44,7 +42,9 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.Link to a correctio
 
 (2) Absorbent material must not react dangerously with the liquid (see §§ 173.24 and 173.24a.).
 
-(f) *Combination packagings* - (1) *Excepted quantities.* For authorized materials and inner and outer package quantity limits for combination packages of *excepted quantities* intended for transportation by aircraft, *see* § 173.4a of this part. Unless otherwise specified in this part, or in Subpart C of part 171 of this subchapter, when combination packagings are intended for transportation aboard an aircraft, inner packagings must conform to the quantity limitations set forth in table 1 of this paragraph for transport aboard passenger-carrying aircraft and table 2 of this paragraph for transport aboard cargo-only aircraft.
+(f) *Combination packagings.* Unless otherwise specified in this part, or in subpart C of part 171 of this subchapter, when combination packagings are intended for transportation aboard an aircraft, inner packagings must conform to the quantity limitations set forth in Table 1 of this paragraph for transport aboard passenger-carrying aircraft and Table 2 of this paragraph for transport aboard cargo-only aircraft. For materials that are authorized to exceed 220 L (58 gallons) or 200 kg (441 pounds) in accordance with columns (9A) and (9B) of the § 172.101 Hazardous Materials Table, there is no limitation on the maximum authorized net capacity of each inner packaging.
+
+(1) *Excepted quantities.* For authorized materials and inner and outer package quantity limits for combination packages of excepted quantities intended for transportation by aircraft, *see* § 173.4a of this part.
 
 (2) *Limited quantities.* (i) Unless otherwise specified in this part, or in subpart C of part 171 of this subchapter, when a limited quantity of hazardous material packaged in a combination packaging is intended for transportation aboard an aircraft, the inner and outer packagings must conform to the quantity limitations set forth in Table 3 of this paragraph (f). Materials and articles must be authorized for transportation aboard a passenger-carrying aircraft (see Column (9A) of the § 172.101 Hazardous Materials Table of this subchapter). Not all unauthorized materials or articles may be indicated in this table. For mixed content packages of limited quantity material, the total net quantity must not exceed the lowest permitted maximum net quantity (for each of the hazard classes or divisions represented in the package) per outer package set forth in Table 3 of this paragraph (f). The permitted maximum net quantity must be calculated in kilograms for a package that contains both a solid and a liquid. Unless otherwise excepted, packages must be marked and labeled in accordance with this section and any additional requirements in subparts D and E, respectively, of part 172 of this subchapter. Materials or articles not authorized as limited quantity by aircraft are:
 
@@ -76,42 +76,42 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.Link to a correctio
 
 (3) The tables are as follows:
 
-Table 1 - Maximum Net Capacity of Inner Packaging for Transportation on Passenger-Carrying Aircraft
+Table 1 to Paragraph (f) - Maximum Net Capacity of Inner Packaging for Transportation on Passenger-Carrying Aircraft
 
-|Maximum net quantity per package from Column 9a of the § 172.101 table|Maximum authorized net capacity of each inner packaging|         |
-|----------------------------------------------------------------------|-------------------------------------------------------|---------|
-|             Glass, earthenware or fiber inner packagings             |           Metal or plastic inner packagings           |         |
-|                               Liquids:                               |                                                       |         |
-|                        Not greater than 0.5L                         |                         0.5L                          |  0.5L.  |
-|                Greater than 0.5L. not greater than lL                |                         0.5L                          |   lL.   |
-|                 Greater than 1L, not greater than 5L                 |                          1L                           |   5L.   |
-|                Greater than 5L, not greater than 60L                 |                         2.5L                          |  10L.   |
-|               Greater than 60L, not greater than 220L                |                          5L                           |  25L.   |
-|                          Greater than 220L                           |                       No limit                        |No limit.|
-|                               Solids:                                |                                                       |         |
-|                        Not greater than 5 kg                         |                        0.5 kg                         |  1 kg.  |
-|              Greater than 5 kg, not greater than 25 kg               |                         1 kg                          | 2.5 kg. |
-|             Greater than 25 kg, not greater than 200 kg              |                         5 kg                          | 10 kg.  |
-|                         Greater than 200 kg                          |                       No limit                        |No limit.|
+|     Maximum net quantity per package from Column 9a  <br/>of the § 172.101 table      |Maximum authorized net capacity of each inner packaging|                           |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
+|                     Glass, earthenware or fiber inner packagings                      |        Metal or plastic inner  <br/>packagings        |                           |
+|                                       Liquids:                                        |                                                       |                           |
+|                                Not greater than 0.5 L                                 |                         0.5 L                         |          0.5 L.           |
+|                       Greater than 0.5 L, not greater than 1 L                        |                         0.5 L                         |           1 L.            |
+|                        Greater than 1 L, not greater than 5 L                         |                          1 L                          |           5 L.            |
+|                        Greater than 5 L, not greater than 60 L                        |                         2.5 L                         |           10 L.           |
+|                       Greater than 60 L, not greater than 220 L                       |                          5 L                          |           25 L.           |
+|                Class 9: UN1941, UN1990, UN2315, UN3082, UN3151, UN3334                |                         10 L                          |Plastic: 30 L; Metal: 40 L.|
+|                                        Solids:                                        |                                                       |                           |
+|                                 Not greater than 5 kg                                 |                        0.5 kg                         |           1 kg.           |
+|                       Greater than 5 kg. not greater than 25 kg                       |                         1 kg                          |          2.5 kg.          |
+|                      Greater than 25 kg, not greater than 200 kg                      |                         5 kg                          |          10 kg.           |
+|Class 9: UN1841, UN1931, UN2071, UN2216, UN2590, UN2969, UN3077, UN3152, UN3335, UN3432|       Glass or earthenware: 10 kg; Fiber: 50 kg       |          50 kg.           |
 
-Table 2 - Maximum Net Capacity of Inner Packaging for Transportation on Cargo Aircraft
+Table 2 to Paragraph (f) - Maximum Net Capacity of Inner Packaging for Transportation on Cargo Aircraft
 
-|Maximum net quantity per package from Column 9b of the § 172.101 table|Maximum authorized net capacity of each inner packaging|         |
-|----------------------------------------------------------------------|-------------------------------------------------------|---------|
-|             Glass, earthenware or fiber inner packagings             |           Metal or plastic inner packagings           |         |
-|                               Liquids:                               |                                                       |         |
-|                        Not greater than 2.5L                         |                          1L                           |   1L.   |
-|               Greater than 2.5L, not greater than 30L                |                         2.5L                          |  2.5L.  |
-|                Greater than 30L, not greater than 60L                |                          5L                           |  10L.   |
-|               Greater than 60L, not greater than 220L                |                          5L                           |  25L.   |
-|                          Greater than 220L                           |                       No limit                        |No limit.|
-|                               Solids:                                |                                                       |         |
-|                        Not greater than 15 kg                        |                         1 kg                          | 2.5 kg. |
-|              Greater than 15 kg, not greater than 50 kg              |                        2.5 kg                         |  5 kg.  |
-|             Greater than 50 kg, not greater than 200 kg              |                         5 kg                          | 10 kg.  |
-|                         Greater than 200 kg                          |                       No limit                        |No limit.|
+|     Maximum net quantity per package from Column 9b  <br/>of the § 172.101 table      |Maximum authorized net capacity of each inner packaging|                           |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
+|                     Glass, earthenware or fiber inner packagings                      |        Metal or plastic inner  <br/>packagings        |                           |
+|                                       Liquids:                                        |                                                       |                           |
+|                                 Not greater than 2.5L                                 |                          1 L                          |           1 L.            |
+|                        Greater than 2.5L, not greater than 30L                        |                         2.5 L                         |          2.5 L.           |
+|                        Greater than 30L, not greater than 60L                         |                          5 L                          |           10 L.           |
+|                        Greater than 60L, not greater than 220L                        |                          5 L                          |           25 L.           |
+|                Class 9: UN1941, UN1990, UN2315, UN3082, UN3151, UN3334                |                         10 L                          |Plastic: 30 L; Metal: 40 L.|
+|                                        Solids:                                        |                                                       |                           |
+|                                Not greater than 15 kg                                 |                         1 kg                          |           1 kg.           |
+|                      Greater than 15 kg. not greater than 50 kg                       |                        2.5 kg                         |           5 kg.           |
+|                      Greater than 50 kg, not greater than 200 kg                      |                         5 kg                          |          10 kg.           |
+|Class 9: UN1841, UN1931, UN2071, UN2216, UN2590, UN2969, UN3077, UN3152, UN3335, UN3432|       Glass or earthenware: 10 kg; Fiber: 50 kg       |          50 kg.           |
 
-Table 3 - Maximum Net Quantity of Each Inner and Outer Packaging for Materials Authorized for Transportation as Limited Quantity by Aircraft
+Table 3 to Paragraph (f) - Maximum Net Quantity of Each Inner and Outer Packaging for Materials Authorized for Transportation as Limited Quantity by Aircraft
 
 |            Hazard class or  <br/>division            |                   Maximum authorized net quantity of each inner packaging                    |                    Maximum authorized net quantity of each outer package                     |                              Notes                               |                                                                                                                                                                                                                                                                                                                                                                                                          |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -159,4 +159,4 @@ Table 3 - Maximum Net Quantity of Each Inner and Outer Packaging for Materials A
 
 (i) Each person who offers a hazardous material for transportation by aircraft must include the certification statement specified in § 172.204(c)(3) of this subchapter.
 
-[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990, as amended at 56 FR 66266, Dec. 20, 1991; Amdt. 173-138, 59 FR 49133, Sept. 26, 1994; 65 FR 58629, Sept. 29, 2000; 66 FR 45380, Aug. 28, 2001; 68 FR 45032, July 31, 2003; 69 FR 76155, Dec. 20, 2004; 71 FR 14602, Mar. 22, 2006; 73 FR 57006, Oct. 1, 2008; 75 FR 53597, Sept. 1, 2010; 76 FR 3368, Jan. 19, 2011; 76 FR 82175, Dec. 30, 2011; 77 FR 22509, Apr. 16, 2012; 78 FR 65479, Oct. 31, 2013; 81 FR 35541, June 2, 2016; 85 FR 83382, Dec. 21, 2020]
+[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.27, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

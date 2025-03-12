@@ -1,14 +1,12 @@
 ##### § 172.322 Marine pollutants. #####
 
-Link to an amendment published at 87 FR 44990, July 26, 2022.
+(a) For vessel transportation of each non-bulk packaging that contains a marine pollutant—
 
-(a) For vessel transportation of each non-bulk packaging that contains a marine pollutant -
-
-(1) If the proper shipping name for a material which is a marine pollutant does not identify by name the component which makes the material a marine pollutant, the name of that component must be marked on the package in parentheses in association with the marked proper shipping name. Where two or more components which make a material a marine pollutant are present, the names of at least two of the components most predominantly contributing to the marine pollutant designation must appear in parentheses in association with the marked proper shipping name; and
+(1) For a proper shipping name used to describe a hazardous material that is a marine pollutant and assigned the letter “G” in column (1) of the § 172.101 hazardous materials table or that contains the text “n.o.s.,” the name of the component which makes the material a marine pollutant must be marked on the package in parentheses in association with the marked proper shipping name unless the proper shipping name identifies by name the component which makes the material a marine pollutant. Where two or more components that make a material a marine pollutant are present, the names of at least two of the components most predominantly contributing to the marine pollutant designation must appear in parentheses in association with the marked proper shipping name. For materials described using “UN3077, Environmentally hazardous substance, solid, n.o.s.” and “UN3082, Environmentally hazardous substance, liquid, n.o.s.,” *see* § 172.102(c)(1), special provision 441 for additional provisions; and
 
 (2) Except as otherwise provided in this subchapter, the MARINE POLLUTANT mark shall be placed in association with the hazard warning labels required by subpart E of this part or, in the absence of any labels, in association with the marked proper shipping name.
 
-(b) Except as otherwise provided in this subchapter, a bulk packaging that contains a marine pollutant must -
+(b) Except as otherwise provided in this subchapter, a bulk packaging that contains a marine pollutant must—
 
 (1) Be marked with the MARINE POLLUTANT mark on at least two opposing sides or two ends other than the bottom if the packaging has a capacity of less than 3,785 L (1,000 gallons). The mark must be visible from the direction it faces. The mark may be displayed in black lettering on a square-on-point configuration having the same outside dimensions as a placard; or
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 (c) A transport vehicle or freight container that contains a package subject to the marking requirements of paragraph (a) or (b) of this section must be marked with the MARINE POLLUTANT mark. The mark must appear on each side and each end of the transport vehicle or freight container, and must be visible from the direction it faces. This requirement may be met by the marking displayed on a freight container or portable tank loaded on a motor vehicle or rail car. This mark may be displayed in black lettering on a white square-on-point configuration having the same outside dimensions as a placard.
 
-(d) The MARINE POLLUTANT mark is not required -
+(d) The MARINE POLLUTANT mark is not required—
 
 (1) On single packagings or combination packagings where each single package or each inner packaging of combination packagings has:
 
@@ -40,7 +38,7 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 ![](/graphics/er14ja09.000.gif)Symbol (fish and tree): Black on white or suitable contrasting background.
 
-(2) The marking must be in the form of a square-on-point. The symbol and border must be black on a white or suitable contrasting background. The width of the border forming the square-on-point marking must be at least 2 mm. Each side of the mark must be -
+(2) The marking must be in the form of a square-on-point. The symbol and border must be black on a white or suitable contrasting background. The width of the border forming the square-on-point marking must be at least 2 mm. Each side of the mark must be—
 
 (i) At least 100 mm (3.9 inches) as measured from the outside of the lines forming the border for marks applied to:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 (f) *Exceptions.* See § 171.4(c).
 
-[Amdt. 172-127, 57 FR 52938, Nov. 5, 1992, as amended by Amdt. 172-136, 59 FR 38064, July 26, 1994; Amdt. 172-145, 60 FR 49110, Sept. 21, 1995; 66 FR 45379, Aug. 28, 2001; 70 FR 56098, Sept. 23, 2005; 74 FR 2252, Jan. 14, 2009; 76 FR 3367, Jan. 19, 2011; 80 FR 1150, Jan. 8, 2015; 85 FR 83380, Dec. 21, 2020]
+[Amdt. 172-127, 57 FR 52938, Nov. 5, 1992, as amended by Amdt. 172-136, 59 FR 38064, July 26, 1994; Amdt. 172-145, 60 FR 49110, Sept. 21, 1995; 66 FR 45379, Aug. 28, 2001; 70 FR 56098, Sept. 23, 2005; 74 FR 2252, Jan. 14, 2009; 76 FR 3367, Jan. 19, 2011; 80 FR 1150, Jan. 8, 2015; 85 FR 83380, Dec. 21, 2020; 87 FR 44990, July 26, 2022]

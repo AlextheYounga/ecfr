@@ -1,7 +1,5 @@
 ##### § 178.3 Marking of packagings. #####
 
-Link to an amendment published at 87 FR 44277, July 26, 2022.
-
 (a) Each packaging represented as manufactured to a DOT specification or a UN standard must be marked on a non-removable component of the packaging with specification markings conforming to the applicable specification, and with the following:
 
 (1) In an unobstructed area, with letters, and numerals identifying the standards or specification (e.g. UN 1A1, DOT 4B240ET, etc.).
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 44277, July 26, 2022.
 
 (3) The markings must be stamped, embossed, burned, printed or otherwise marked on the packaging to provide adequate accessibility, permanency, contrast, and legibility so as to be readily apparent and understood.
 
-(4) Unless otherwise specified, letters and numerals must be at least 12.0 mm (0.47 inches) in height except that for packagings of less than or equal to 30 L (7.9 gallons) capacity for liquids or 30 kg (66 pounds) capacity for solids the height must be at least 6.0 mm (0.2 inches). For packagings having a capacity of 5 L (1 gallon) or 5 kg (11 pounds) or less, letters and numerals must be of an appropriate size.
+(4) Unless otherwise specified, letters and numerals must be at least 12.0 mm (0.47 inches) in height except for packagings of less than or equal to 30 L (7.9 gallons) capacity for liquids or 30 kg (66 pounds) maximum net mass for solids the height must be at least 6.0 mm (0.2 inches). For packagings having a capacity of 5 L (1.3 gallons) or less or of 5 kg (11 pounds) maximum net mass, letters and numerals must be of an appropriate size.
 
 (5) For packages with a gross mass of more than 30 kg (66 pounds), the markings or a duplicate thereof must appear on the top or on a side of the packaging.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 87 FR 44277, July 26, 2022.
 
 (d) No person may mark or otherwise certify a packaging or container as meeting the requirements of a manufacturing special permit unless that person is the holder of or a party to that special permit, an agent of the holder or party for the purpose of marking or certification, or a third party tester.
 
-[Amdt. 178-97, 55 FR 52716, Dec. 21, 1990; 56 FR 66284, Dec. 20, 1991, as amended by Amdt. 178-106, 59 FR 67519, Dec. 29, 1994; Amdt. 178-113, 61 FR 21102, May 9, 1996; 65 FR 50462, Aug. 18, 2000; 66 FR 45386, Aug. 28, 2001; 67 FR 61015, Sept. 27, 2002; 68 FR 75748, Dec. 31, 2003; 70 FR 73166, Dec. 9, 2005; 78 FR 14714, Mar. 7, 2013]
+[Amdt. 178-97, 55 FR 52716, Dec. 21, 1990; 56 FR 66284, Dec. 20, 1991, as amended by Amdt. 178-106, 59 FR 67519, Dec. 29, 1994; Amdt. 178-113, 61 FR 21102, May 9, 1996; 65 FR 50462, Aug. 18, 2000; 66 FR 45386, Aug. 28, 2001; 67 FR 61015, Sept. 27, 2002; 68 FR 75748, Dec. 31, 2003; 70 FR 73166, Dec. 9, 2005; 78 FR 14714, Mar. 7, 2013; 87 FR 44999, July 26, 2022]

@@ -1,7 +1,5 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
-Link to an amendment published at 87 FR 44982, July 26, 2022.
-
 In this subchapter,
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration.
@@ -653,11 +651,11 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Reverse logistics* means the process of offering for transport or transporting by motor vehicle goods from a retail store for return to its manufacturer, supplier, or distribution facility for the purpose of capturing value (e.g., to receive manufacturer's credit), recall, replacement, recycling, or similar reason. This definition does not include materials that meet the definition of a hazardous waste as defined in this section.
 
-*SADT* means self-accelerated decomposition temperature. See § 173.21(f) of this subchapter.
+*SADT* means self-accelerated decomposition temperature and is the lowest temperature at which self-accelerating decomposition may occur in a substance in the packaging, IBC, or portable tank offered for transport. *See* also § 173.21(f) of this subchapter.
 
 *Salvage packaging* means a special packaging conforming to § 173.3 of this subchapter into which damaged, defective, leaking, or non-conforming hazardous materials packages, or hazardous materials that have spilled or leaked, are placed for purposes of transport for recovery or disposal.
 
-*SAPT* means self-accelerated polymerization temperature. See § 173.21(f) of this subchapter. This definition will be effective until January 2, 2019.
+*SAPT* means self-accelerated polymerization temperature and is the lowest temperature at which self-accelerating polymerization may occur with a substance in the packaging, IBC, or portable tank as offered for transport. *See* also § 173.21(f) of this subchapter. This definition will be effective until January 2, 2023.
 
 *SCF* (standard cubic foot) means one cubic foot of gas measured at 60 °F. and 14.7 psia.
 

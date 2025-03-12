@@ -18,7 +18,7 @@ As used in this section -
 
 (2) Neodymium-iron-boron magnets;
 
-(3) Tantalum metal and alloys;
+(3) Tantalum metals and alloys;
 
 (4) Tungsten metal powder; and
 
@@ -32,4 +32,4 @@ As used in this section -
 
 (2) Contains at least 90 percent tungsten in a matrix of other metals (such as nickel-iron or nickel-copper) and has density of at least 16.5 g/cm3).
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022]

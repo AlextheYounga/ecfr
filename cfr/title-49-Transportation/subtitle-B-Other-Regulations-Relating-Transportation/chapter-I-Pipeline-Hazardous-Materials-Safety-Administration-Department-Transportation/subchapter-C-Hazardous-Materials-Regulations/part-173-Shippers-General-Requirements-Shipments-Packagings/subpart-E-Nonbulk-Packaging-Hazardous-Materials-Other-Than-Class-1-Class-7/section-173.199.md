@@ -1,7 +1,5 @@
 ##### § 173.199 Category B infectious substances. #####
 
-Link to an amendment published at 87 FR 44994, July 26, 2022.
-
 (a) *Category B infectious substances.* Except as provided in this paragraph (a), Category B infectious substances are excepted from all other requirements of this subchapter when offered for transportation or transported in accordance with this section. Category B infectious substances offered for transportation or transported under the provisions of this section are subject to the incident reporting requirements in §§ 171.15 and 171.16 of this subchapter and to the requirements in § 175.75(b) of this subchapter concerning cargo location. Except as provided in paragraph (a)(9) of this section, a Category B infectious substance meeting the definition of a hazard class other than Division 6.2 must be offered for transportation or transported in accordance with applicable requirements of this subchapter.
 
 (1) A Category B infectious substance must be packaged in a triple packaging consisting of a primary receptacle, a secondary packaging, and a rigid outer packaging.
@@ -12,11 +10,11 @@ Link to an amendment published at 87 FR 44994, July 26, 2022.
 
 (4) The completed package must be designed, constructed, maintained, filled, its contents limited, and closed so that under conditions normally encountered in transportation, including removal from a pallet or overpack for subsequent handling, there will be no release of hazardous material into the environment. Package effectiveness must not be substantially reduced for minimum and maximum temperatures, changes in humidity and pressure, and shocks, loadings and vibrations normally encountered during transportation. The packaging must be capable of successfully passing the drop test in § 178.609(d) of this subchapter at a drop height of at least 1.2 meters (3.9 feet). Following the drop test, there must be no leakage from the primary receptacle, which must remain protected by absorbent material, when required, in the secondary packaging. At least one surface of the outer packaging must have a minimum dimension of 100 mm by 100 mm (3.9 inches).
 
-(5) The following square-on-point mark must be displayed on the outer packaging on a background of contrasting color. The width of the line forming the border must be at least 2 mm (0.08 inches) and the letters and numbers must be at least 6 mm (0.24 inches) high. The size of the mark must be such that no side of the diamond is less than 50 mm (1.97 inches) in length as measured from the outside of the lines forming the border. The proper shipping name “Biological substances, Category B” must be marked on the outer packaging adjacent to the diamond-shaped mark in letters that are at least 6 mm (0.24 inches) high.
+(5) The following square-on-point mark must be displayed on the outer packaging on a background of contrasting color. The width of the line forming the border must be at least 2 mm (0.08 inches) and the letters and numbers must be at least 6 mm (0.24 inches) high. The size of the mark must be such that no side of the diamond is less than 50 mm (1.97 inches) in length as measured from the outside of the lines forming the border. For transportation by aircraft, the entire mark must appear on one side of the package. The proper shipping name “Biological substances, Category B” must be marked on the outer packaging adjacent to the diamond-shaped mark in letters that are at least 6 mm (0.24 inches) high.
 
 ![](/graphics/er23no15.001.gif)
 
-(i) Transitional exception - A marking in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue to be used until December 31, 2016.
+(i) Transitional exception—A marking in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue to be used until December 31, 2016.
 
 (ii) For domestic transportation, a packaging marked prior to January 1, 2017 and in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue in service until the end of its useful life.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 44994, July 26, 2022.
 
 (8) For transportation by aircraft, each package, overpack, pallet, or unit load device containing a Category B infectious substance must be inspected for leakage when it is unloaded from the aircraft. If evidence of leakage is found, the cargo compartment in which the package, overpack, pallet, or unit load device was transported must be disinfected. Disinfection may be by any means that will make the material released ineffective at transmitting disease.
 
-(9) A packaging containing inner packagings of Category B infectious substances may not contain other hazardous materials except -
+(9) A packaging containing inner packagings of Category B infectious substances may not contain other hazardous materials except—
 
 (i) Refrigerants, such as dry ice or liquid nitrogen, as authorized under paragraph (d) of this section;
 
@@ -68,4 +66,4 @@ Link to an amendment published at 87 FR 44994, July 26, 2022.
 
 (e) *Training.* Each person who offers or transports a Category B infectious substance under the provisions of this section must know about the requirements of this section.
 
-[67 FR 53142, Aug. 14, 2002, as amended at 71 FR 32261, June 2, 2006; 72 FR 55693, Oct. 1, 2007; 78 FR 1088, Jan. 7, 2013; 80 FR 1160, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 81 FR 35542, June 2, 2016; 85 FR 83399, Dec. 21, 2020]
+[67 FR 53142, Aug. 14, 2002, as amended at 71 FR 32261, June 2, 2006; 72 FR 55693, Oct. 1, 2007; 78 FR 1088, Jan. 7, 2013; 80 FR 1160, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 81 FR 35542, June 2, 2016; 85 FR 83399, Dec. 21, 2020; 87 FR 44994, July 26, 2022]

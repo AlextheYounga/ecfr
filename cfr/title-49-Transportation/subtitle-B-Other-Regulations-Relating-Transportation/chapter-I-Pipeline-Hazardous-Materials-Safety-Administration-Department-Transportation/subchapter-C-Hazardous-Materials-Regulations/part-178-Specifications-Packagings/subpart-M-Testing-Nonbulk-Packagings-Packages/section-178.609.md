@@ -1,14 +1,12 @@
 ##### § 178.609 Test requirements for packagings for infectious substances. #####
 
-Link to an amendment published at 87 FR 45000, July 26, 2022.
-
 (a) Samples of each packaging must be prepared for testing as described in paragraph (b) of this section and then subjected to the tests in paragraphs (d) through (i) of this section.
 
 (b) Samples of each packaging must be prepared as for transport except that a liquid or solid infectious substance should be replaced by water or, where conditioning at −18 °C (0 °F) is specified, by water/antifreeze. Each primary receptacle must be filled to 98 percent capacity. Packagings for live animals should be tested with the live animal being replaced by an appropriate dummy of similar mass.
 
 (c) Packagings prepared as for transport must be subjected to the tests in Table I of this paragraph (c), which, for test purposes, categorizes packagings according to their material characteristics. For outer packagings, the headings in Table I relate to fiberboard or similar materials whose performance may be rapidly affected by moisture; plastics that may embrittle at low temperature; and other materials, such as metal, for which performance is not significantly affected by moisture or temperature. Where a primary receptacle and a secondary packaging of an inner packaging are made of different materials, the material of the primary receptacle determines the appropriate test. In instances where a primary receptacle is made of more than one material, the material most likely to be damaged determines the appropriate test.
 
-Table I - Tests Required
+Table I—Tests Required
 
 |  Material of  |Tests required |                  |                  |     |   |   |   |                    |   |
 |---------------|---------------|------------------|------------------|-----|---|---|---|--------------------|---|
@@ -53,7 +51,7 @@ The drops must be performed as follows:
 
 (f) The sample must be conditioned in an atmosphere of −18 °C (0 °F) or less for a period of at least 24 hours and within 15 minutes of removal from that atmosphere be subjected to the test described in paragraph (d) of this section. Where the sample contains dry ice, the conditioning period may be reduced to 4 hours.
 
-(g) Where packaging is intended to contain dry ice, a test additional to that specified in paragraph (d) or (e) or (f) of this section must be carried out. One sample must be stored so that all the dry ice dissipates and then be subjected to the test described in paragraph (d) of this section.
+(g) Where packaging is intended to contain dry ice, an additional drop test to that specified in paragraph (d), and when appropriate, paragraph (e) or (f) of this section must be performed on one sample in one of the orientations described in paragraph (d)(1) or (2) of this section, as appropriate, which is most likely to result in failure of the packaging. The sample must be stored so that all the dry ice dissipates prior to being subjected to the drop test.
 
 (h) Packagings with a gross mass of 7 kg (15 pounds) or less should be subjected to the tests described in paragraph (h)(1) of this section and packagings with a gross mass exceeding 7 kg (15 pounds) to the tests in paragraph (h)(2) of this section.
 
@@ -93,4 +91,4 @@ The drops must be performed as follows:
 
 (vii) In addition, the marking required in § 178.503(f) of this subchapter must be followed by the letter “U”.
 
-[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended by Amdt. 178-111, 60 FR 48787, Sept. 20, 1995; 67 FR 53143, Aug. 14, 2002; 69 FR 54046, Sept. 7, 2004]
+[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended by Amdt. 178-111, 60 FR 48787, Sept. 20, 1995; 67 FR 53143, Aug. 14, 2002; 69 FR 54046, Sept. 7, 2004; 87 FR 45000, July 26, 2022]

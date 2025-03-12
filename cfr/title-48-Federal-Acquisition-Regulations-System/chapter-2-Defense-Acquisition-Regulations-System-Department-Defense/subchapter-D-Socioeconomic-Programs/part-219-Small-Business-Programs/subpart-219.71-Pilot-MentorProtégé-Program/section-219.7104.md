@@ -1,5 +1,7 @@
 ##### 219.7104 Developmental assistance costs eligible for reimbursement or credit. #####
 
+Link to an amendment published at 87 FR 52350, Aug. 25, 2022.
+
 (a) Developmental assistance provided under an approved mentor-protégé agreement is distinct from, and must not duplicate, any effort that is the normal and expected product of the award and administration of the mentor firm's subcontracts. The mentor firm must accumulate and charge costs associated with the latter in accordance with its approved accounting practices. Mentor firm costs that are eligible for reimbursement are set forth in appendix I.
 
 (b) Before incurring any costs under the Program, mentor firms must establish the accounting treatment of developmental assistance costs eligible for reimbursement or credit. To be eligible for reimbursement under the Program, the mentor firm must incur the costs not later than September 30, 2021.

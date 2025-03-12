@@ -1,20 +1,18 @@
-##### § 173.115 Class 2, Divisions 2.1, 2.2, and 2.3 - Definitions. #####
+##### § 173.115 Class 2, Divisions 2.1, 2.2, and 2.3—Definitions. #####
 
-Link to an amendment published at 87 FR 44992, July 26, 2022.
-
-(a) *Division 2.1 (Flammable gas).* For the purpose of this subchapter, a *flammable gas* (Division 2.1) means any material which is a gas at 20 °C (68 °F) or less and 101.3 kPa (14.7 psia) of pressure (a material which has a boiling point of 20 °C (68 °F) or less at 101.3 kPa (14.7 psia)) which -
+(a) *Division 2.1 (Flammable gas).* For the purpose of this subchapter, a *flammable gas* (Division 2.1) means any material which is a gas at 20 °C (68 °F) or less and 101.3 kPa (14.7 psia) of pressure (a material which has a boiling point of 20 °C (68 °F) or less at 101.3 kPa (14.7 psia)) which—
 
 (1) Is ignitable at 101.3 kPa (14.7 psia) when in a mixture of 13 percent or less by volume with air; or
 
 (2) Has a flammable range at 101.3 kPa (14.7 psia) with air of at least 12 percent regardless of the lower limit. Except for aerosols, the limits specified in paragraphs (a)(1) and (a)(2) of this section shall be determined at 101.3 kPa (14.7 psia) of pressure and a temperature of 20 °C (68 °F) in accordance with the ASTM E681-85, Standard Test Method for Concentration Limits of Flammability of Chemicals or other equivalent method approved by the Associate Administrator. The flammability of aerosols is determined by the tests specified in paragraph (l) of this section.
 
-(b) Division 2.2 (*non-flammable, nonpoisonous compressed gas - including compressed gas, liquefied gas, pressurized cryogenic gas, compressed gas in solution, asphyxiant gas and oxidizing gas*). For the purpose of this subchapter, a non-flammable, nonpoisonous compressed gas (Division 2.2) means any material (or mixture) which -
+(b) Division 2.2 (*non-flammable, nonpoisonous compressed gas—including compressed gas, liquefied gas, pressurized cryogenic gas, compressed gas in solution, asphyxiant gas and oxidizing gas*). For the purpose of this subchapter, a non-flammable, nonpoisonous compressed gas (Division 2.2) means any material (or mixture) which—
 
 (1) Exerts in the packaging a gauge pressure of 200 kPa (29.0 psig/43.8 psia) or greater at 20 °C (68 °F), is a liquefied gas or is a cryogenic liquid, and
 
 (2) Does not meet the definition of Division 2.1 or 2.3.
 
-(c) *Division 2.3 (Gas poisonous by inhalation).* For the purpose of this subchapter, a *gas poisonous by inhalation* (Division 2.3) means a material which is a gas at 20 °C (68 °F) or less and a pressure of 101.3 kPa (14.7 psia) (a material which has a boiling point of 20 °C (68 °F) or less at 101.3 kPa (14.7 psia)) and which -
+(c) *Division 2.3 (Gas poisonous by inhalation).* For the purpose of this subchapter, a *gas poisonous by inhalation* (Division 2.3) means a material which is a gas at 20 °C (68 °F) or less and a pressure of 101.3 kPa (14.7 psia) (a material which has a boiling point of 20 °C (68 °F) or less at 101.3 kPa (14.7 psia)) and which—
 
 (1) Is known to be so toxic to humans as to pose a hazard to health during transportation, or
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 44992, July 26, 2022.
 
 (j) *Refrigerant gas or Dispersant gas.* The terms *Refrigerant gas* and *Dispersant gas* apply to all nonpoisonous refrigerant gases; dispersant gases (fluorocarbons) listed in § 172.101 of this subchapter and §§ 173.304, 173.314(c), 173.315(a), and 173.315(h) and mixtures thereof; and any other compressed gas having a vapor pressure not exceeding 260 psia at 54 °C(130 °F), used only as a refrigerant, dispersant, or blowing agent.
 
-(k) For Division 2.2 gases, the oxidizing ability shall be determined by tests or by calculation in accordance with ISO 10156 (including Technical Corrigendum 1) (IBR, see § 171.7 of this subchapter).
+(k) For Division 2.2 gases, the oxidizing ability shall be determined by tests or by calculation in accordance with ISO 10156:2017(E) (IBR, *see* § 171.7 of this subchapter).
 
 (l) The following applies to aerosols (see § 171.8 of this subchapter):
 

@@ -1,7 +1,5 @@
 ##### § 173.4a Excepted quantities. #####
 
-Link to an amendment published at 87 FR 44991, July 26, 2022.
-
 (a) Excepted quantities of materials, other than articles (e.g., aerosols), are not subject to requirements of this subchapter except for:
 
 (1) The shipper's responsibilities to properly class their material in accordance with § 173.22 of this subchapter;
@@ -120,7 +118,9 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.
 
 (ii) For domestic transportation, a packaging marked prior to January 1, 2017 and in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue in service until the end of its useful life.
 
-(3) When packages of excepted quantities are contained in an overpack, and the package marking required by this section is not visible inside the overpack, the excepted quantities marking must also be placed on the overpack. Additionally, an overpack containing packages of excepted quantities is not required to be marked with the word “OVERPACK.”
+(3) For transportation by aircraft, the entire mark must appear on one side of the package.
+
+(4) When packages of excepted quantities are contained in an overpack, and the package marking required by this section is not visible inside the overpack, the excepted quantities marking must also be placed on the overpack. Additionally, an overpack containing packages of excepted quantities is not required to be marked with the word “OVERPACK.”
 
 (h) *Documentation.* (1) For transportation by highway or rail, no shipping paper is required.
 
@@ -132,4 +132,4 @@ Link to an amendment published at 87 FR 44991, July 26, 2022.
 
 (j) *Restrictions.* Hazardous material packaged in accordance with this section may not be carried in checked or carry-on baggage.
 
-[74 FR 2254, Jan. 14, 2009, as amended at 75 FR 72, Jan. 4, 2010; 76 FR 3368, Jan. 19, 2011; 80 FR 1152, Jan. 8, 2015; 81 FR 35541, June 2, 2016; 82 FR 15874, Mar. 30, 2017]
+[74 FR 2254, Jan. 14, 2009, as amended at 75 FR 72, Jan. 4, 2010; 76 FR 3368, Jan. 19, 2011; 80 FR 1152, Jan. 8, 2015; 81 FR 35541, June 2, 2016; 82 FR 15874, Mar. 30, 2017; 87 FR 44991, July 26, 2022]

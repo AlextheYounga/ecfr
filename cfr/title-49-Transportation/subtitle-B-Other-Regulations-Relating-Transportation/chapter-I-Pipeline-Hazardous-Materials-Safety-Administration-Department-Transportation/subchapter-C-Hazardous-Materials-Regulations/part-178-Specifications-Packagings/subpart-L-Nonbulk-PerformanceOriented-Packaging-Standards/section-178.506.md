@@ -1,7 +1,5 @@
 ##### § 178.506 Standards for metal drums other than steel or aluminum. #####
 
-Link to an amendment published at 87 FR 45000, July 26, 2022.
-
 (a) The following are the identification codes for metal drums other than steel or aluminum:
 
 (1) 1N1 for a non-removable head metal drum; and
@@ -20,8 +18,10 @@ Link to an amendment published at 87 FR 45000, July 26, 2022.
 
 (5) Closure devices for removable head drums must be so designed and applied that they remain secure and drums remain leakproof under normal conditions of transport. Gaskets or other sealing elements must be used with all removable heads.
 
-(6) Maximum capacity of drum: 450 L (119 gallons).
+(6) If materials used for body, heads, closures, and fittings are not compatible with the contents to be transported, suitable internal protective coatings or treatments must be applied. These coatings or treatments must retain their protective properties under normal conditions of transport.
 
-(7) Maximum net mass: 400 kg (882 pounds).
+(7) Maximum capacity of drum: 450 L (119 gallons).
 
-[Amdt. 178-97, 55 FR 52717, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; Amdt. 178-102, 59 FR 28494, June 2, 1994]
+(8) Maximum net mass: 400 kg (882 pounds).
+
+[Amdt. 178-97, 55 FR 52717, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; Amdt. 178-102, 59 FR 28494, June 2, 1994; 87 FR 45000, July 26, 2022]

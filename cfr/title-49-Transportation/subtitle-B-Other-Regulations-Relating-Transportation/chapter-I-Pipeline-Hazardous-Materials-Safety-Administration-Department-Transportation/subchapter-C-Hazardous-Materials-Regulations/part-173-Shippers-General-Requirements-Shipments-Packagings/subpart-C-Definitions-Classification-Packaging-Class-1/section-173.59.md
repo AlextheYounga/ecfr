@@ -1,10 +1,8 @@
 ##### § 173.59 Description of terms for explosives. #####
 
-Link to an amendment published at 87 FR 44992, July 26, 2022.
-
 For the purpose of this subchapter, a description of the following terms is provided for information only. They must not be used for purposes of classification or to replace proper shipping names prescribed in § 172.101 of this subchapter.
 
-*Ammonium-nitrate - fuel oil mixture (ANFO).* A blasting explosive containing no essential ingredients other than prilled ammonium nitrate and fuel oil.
+*Ammonium-nitrate—fuel oil mixture (ANFO).* A blasting explosive containing no essential ingredients other than prilled ammonium nitrate and fuel oil.
 
 *Ammunition.* Generic term related mainly to articles of military application consisting of all types of bombs, grenades, rockets, mines, projectiles and other similar devices or contrivances.
 
@@ -96,7 +94,9 @@ For the purpose of this subchapter, a description of the following terms is prov
 
 *Detonator assemblies, non-electric, for blasting.* Non-electric detonators assembled with and activated by such means as safety fuse, shock tube, flash tube, or detonating cord. They may be of instantaneous design or incorporate delay elements. Detonating relays incorporating detonating cord are included. Other detonating relays are included in Detonators, nonelectric.
 
-*Detonators.* Articles consisting of a small metal or plastic tube containing explosives such as lead azide, PETN, or combinations of explosives. They are designed to start a detonation train. They may be constructed to detonate instantaneously, or may contain a delay element. They may contain no more than 10 g of total explosives weight, excluding ignition and delay charges, per unit. The term includes: detonators for ammunition; detonators for blasting, both electric and non-electric; and detonating relays without flexible detonating cord.
+*Detonators.* Articles consisting of a small metal or plastic tube containing explosives such as lead azide, PETN, or combinations of explosives. They are designed to start a detonation train. They may be constructed to detonate instantaneously or may contain a delay element. They may contain no more than 10 g of total explosives weight, excluding ignition and delay charges, per unit. The term includes: detonators for ammunition; detonators for blasting (electric, electronic, and non-electric); and detonating relays without flexible detonating cord.
+
+*Detonators, electronic programmable for blasting.* Detonators using electronic components, such as an integrated circuit and/or micro processing technology to provide communications, energy control and storage capability, timing delay information, and validated commands to send a firing signal to the initiating charge.
 
 *Dynamite.* A detonating explosive containing a liquid explosive ingredient (generally nitroglycerin, similar organic nitrate esters, or both) that is uniformly mixed with an absorbent material, such as wood pulp, and usually contains materials such as nitrocellulose, sodium and ammonium nitrate.
 
@@ -202,4 +202,4 @@ For the purpose of this subchapter, a description of the following terms is prov
 
 *Warheads.* Articles containing detonating explosives, designed to be fitted to a rocket, guided missile, or torpedo. They may contain a burster or expelling charge or bursting charge. The term includes: warhead rocket with bursting charge; and warheads, torpedo, with bursting charge.
 
-[Amdt. 173-224, 55 FR 52617 Dec. 21, 1990, as amended at 56 FR 66267, Dec. 20, 1991; Amdt. 173-241, 59 FR 67492, Dec. 29, 1994; 64 FR 10777, Mar. 5, 1999; 66 FR 45379, Aug. 28, 2001; 76 FR 3371, Jan. 19, 2011; 78 FR 1074, Jan. 7, 2013; 78 FR 42477, July 16, 2013; 85 FR 75713, Nov. 25, 2020]
+[Amdt. 173-224, 55 FR 52617 Dec. 21, 1990, as amended at 56 FR 66267, Dec. 20, 1991; Amdt. 173-241, 59 FR 67492, Dec. 29, 1994; 64 FR 10777, Mar. 5, 1999; 66 FR 45379, Aug. 28, 2001; 76 FR 3371, Jan. 19, 2011; 78 FR 1074, Jan. 7, 2013; 78 FR 42477, July 16, 2013; 85 FR 75713, Nov. 25, 2020; 87 FR 44992, July 26, 2022]

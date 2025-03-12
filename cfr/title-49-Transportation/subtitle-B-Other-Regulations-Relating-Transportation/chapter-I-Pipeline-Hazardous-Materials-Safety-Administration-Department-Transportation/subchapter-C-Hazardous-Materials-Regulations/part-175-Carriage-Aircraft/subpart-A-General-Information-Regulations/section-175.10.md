@@ -1,14 +1,14 @@
 ##### § 175.10 Exceptions for passengers, crewmembers, and air operators. #####
 
-Link to an amendment published at 87 FR 44998, July 26, 2022.
-
 (a) This subchapter does not apply to the following hazardous materials when carried by aircraft passengers or crewmembers provided the requirements of §§ 171.15 and 171.16 (see paragraph (c) of this section) and the requirements of this section are met:
 
 (1)(i) Non-radioactive medicinal and toilet articles for personal use (including aerosols) carried in carry-on and checked baggage. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release;
 
-(ii) Other aerosols in Div. 2.2 (nonflammable gas) with no subsidiary risk carried in checked baggage only. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release; and
+(ii) Other aerosols in Division 2.2 (nonflammable gas) with no subsidiary risk carried in carry-on or checked baggage. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release;
 
-(iii) The aggregate quantity of these hazardous materials carried by each person may not exceed 2 kg (70 ounces) by mass or 2 L (68 fluid ounces) by volume and the capacity of each container may not exceed 0.5 kg (18 ounces) by mass or 500 ml (17 fluid ounces) by volume.
+(iii) The aggregate quantity of these hazardous materials carried by each person may not exceed 2 kg (70 ounces) by mass or 2 L (68 fluid ounces) by volume and the capacity of each container may not exceed 0.5 kg (18 ounces) by mass or 500 ml (17 fluid ounces) by volume; and
+
+(iv) The release of gas must not cause extreme annoyance or discomfort to crew members so as to prevent the correct performance of assigned duties.
 
 (2) One packet of safety matches or a lighter intended for use by an individual when carried on one's person or in carry-on baggage only. Lighter fuel, lighter refills, and lighters containing unabsorbed liquid fuel (other than liquefied gas) are not permitted on one's person or in carry-on or checked baggage. For lighters powered by lithium batteries (*e.g.,* laser plasma lighters, tesla coil lighters, flux lighters, arc lighters and double arc lighters), each battery must be of a type which meets the requirements of each test in the UN Manual of Tests and Criteria, Part III, Subsection 38.3 (IBR, *see* § 171.7 of this subchapter). The lighters must be equipped with a safety cap or similar means of protection to prevent unintentional activation of the heating element while on board the aircraft. Recharging of the devices and/or the batteries on board the aircraft is not permitted. Each battery must not exceed the following:
 
@@ -40,7 +40,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (ii) When carried in checked baggage, each package is marked “DRY ICE” or “CARBON DIOXIDE, SOLID,” and marked with the net weight of dry ice or an indication the net weight is 2.5 kg (5.5 pounds) or less.
 
-(11) A single self-inflating personal safety device such as a life jacket or vest fitted with no more than two small gas cartridges (containing no hazardous material other than a Div. 2.2 gas) for inflation purposes plus no more than two spare cartridges. The personal safety device and spare cartridges may be carried in carry-on or checked baggage, with the approval of the aircraft operator, and must be packed in such a manner that it cannot be accidently activated.
+(11) No more than two self-inflating personal safety devices, intended to be worn by a person such as a life jacket or vest, fitted with no more than two small gas cartridges per device (containing no hazardous material other than a Division 2.2 gas) for inflation purposes plus no more than two spare cartridges per device. The personal safety device(s) and spare cartridges may be carried in carry-on or checked baggage, with the approval of the aircraft operator, and must be packed in such a manner that they cannot be accidently activated.
 
 (12) Small compressed gas cylinders of Division 2.2 (containing no hazardous material other than a Division 2.2 gas) worn by the passenger for the operation of mechanical limbs and, in carry-on and checked baggage, spare cylinders of a similar size for the same purpose in sufficient quantities to ensure an adequate supply for the duration of the journey.
 
@@ -52,7 +52,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (ii) For a lithium ion battery, the Watt-hour rating must not exceed 100 Wh.
 
-(15) A wheelchair or other battery-powered mobility aid equipped with a non-spillable battery or a dry sealed battery when carried as checked baggage, provided -
+(15) A wheelchair or other battery-powered mobility aid equipped with a non-spillable battery or a dry sealed battery when carried as checked baggage, provided—
 
 (i) The battery conforms to the requirements of § 173.159a(d) of this subchapter for non-spillable batteries;
 
@@ -62,7 +62,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (iv) The battery is disconnected and the battery terminals are protected to prevent short circuits, unless the wheelchair or mobility aid design provides an effective means of preventing unintentional activation;
 
-(v) The non-spillable battery is -
+(v) The non-spillable battery is—
 
 (A) Securely attached to the wheelchair or mobility aid;
 
@@ -70,7 +70,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (C) Is handled in accordance with paragraph (a)(16)(iv) of this section; and
 
-(vi) The dry sealed battery is -
+(vi) The dry sealed battery is—
 
 (A) Securely attached to the wheelchair or mobility aid; or
 
@@ -78,7 +78,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (vii) A maximum of one spare battery that conforms to the requirements in (a)(15)(i) or (ii) may be carried per passenger if handled in accordance with paragraph (a)(15)(v) or (vi) of this section, as applicable.
 
-(16) A wheelchair or other battery-powered mobility aid equipped with a spillable battery, when carried as checked baggage, provided -
+(16) A wheelchair or other battery-powered mobility aid equipped with a spillable battery, when carried as checked baggage, provided—
 
 (i) Visual inspection including removal of the battery, where necessary, reveals no obvious defects (however, removal of the battery from the housing should be performed by qualified airline personnel only);
 
@@ -94,7 +94,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (C) The packaging must be labeled with a CORROSIVE label, marked to indicate proper orientation, and marked with the words “Battery, wet, with wheelchair.”
 
-(17) A wheelchair or other mobility aid equipped with a lithium ion battery, when carried as checked baggage, provided -
+(17) A wheelchair or other mobility aid equipped with a lithium ion battery, when carried as checked baggage, provided—
 
 (i) The lithium ion battery must be of a type that successfully passed each test in the UN Manual of Tests and Criteria (IBR; see § 171.7 of this subchapter), as specified in § 173.185 of this subchapter, unless approved by the Associate Administrator;
 
@@ -176,7 +176,7 @@ Link to an amendment published at 87 FR 44998, July 26, 2022.
 
 (21) Permeation devices for calibrating air quality monitoring equipment when carried in checked baggage provided the devices are constructed and packaged in accordance with § 173.175.
 
-(22) An internal combustion or fuel cell engine or a machine or apparatus containing an internal combustion or fuel cell engine when carried as checked baggage, provided -
+(22) An internal combustion or fuel cell engine or a machine or apparatus containing an internal combustion or fuel cell engine when carried as checked baggage, provided—
 
 (i) The engine contains no liquid or gaseous fuel. An engine may be considered as not containing fuel when the engine components and any fuel lines have been completed drained, sufficiently cleaned of residue, and purged of vapors to remove any potential hazard and the engine when held in any orientation will not release any liquid fuel;
 

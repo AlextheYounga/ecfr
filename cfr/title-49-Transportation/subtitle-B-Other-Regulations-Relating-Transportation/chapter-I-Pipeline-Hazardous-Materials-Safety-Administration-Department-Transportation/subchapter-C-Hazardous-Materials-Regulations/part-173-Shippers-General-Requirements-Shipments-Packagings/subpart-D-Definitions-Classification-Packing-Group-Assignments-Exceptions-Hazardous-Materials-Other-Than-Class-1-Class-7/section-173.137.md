@@ -1,14 +1,12 @@
-##### § 173.137 Class 8 - Assignment of packing group. #####
+##### § 173.137 Class 8—Assignment of packing group. #####
 
-Link to an amendment published at 87 FR 44993, July 26, 2022.
-
-The packing group of a Class 8 material is indicated in Column 5 of the § 172.101 Table. When the § 172.101 Table provides more than one packing group for a Class 8 material, the packing group must be determined using data obtained from tests conducted in accordance with the OECD Guidelines for the Testing of Chemicals, Number 435, “*In Vitro* Membrane Barrier Test Method for Skin Corrosion” (IBR, *see* § 171.7 of this subchapter) or Number 404, “Acute Dermal Irritation/Corrosion” (IBR, *see* § 171.7 of this subchapter). A material that is determined not to be corrosive in accordance with OECD Guideline for the Testing of Chemicals, Number 430, “*In Vitro* Skin Corrosion: Transcutaneous Electrical Resistance Test (TER)” (IBR, *see* § 171.7 of this subchapter) or Number 431, “*In Vitro* Skin Corrosion: Reconstructed Human Epidermis (RHE) Test Method” (IBR, *see* § 171.7 of this subchapter) may be considered not to be corrosive to human skin for the purposes of this subchapter without further testing. However, a material determined to be corrosive in accordance with Number 430 or Number 431 must be further tested using Number 435 or Number 404. The packing group assignment using data obtained from tests conducted in accordance with OECD Guideline Number 404 or Number 435 must be as follows:
+The packing group of a Class 8 material is indicated in Column 5 of the § 172.101 Table. When the § 172.101 Table provides more than one packing group for a Class 8 material, the packing group must be determined using data obtained from tests conducted in accordance with the OECD Guidelines for the Testing of Chemicals, Test No. 435, “*In Vitro* Membrane Barrier Test Method for Skin Corrosion” (IBR, *see* § 171.7 of this subchapter) or Test No. 404, “Acute Dermal Irritation/Corrosion” (IBR, *see* § 171.7 of this subchapter). A material that is determined not to be corrosive in accordance with OECD Guideline for the Testing of Chemicals, Test No. 430, “*In Vitro* Skin Corrosion: Transcutaneous Electrical Resistance Test (TER)” (IBR, *see* § 171.7 of this subchapter) or Test No. 431, “*In Vitro* Skin Corrosion: Reconstructed Human Epidermis (RHE) Test Method” (IBR, *see* § 171.7 of this subchapter) may be considered not to be corrosive to human skin for the purposes of this subchapter without further testing. However, a material determined to be corrosive in accordance with Test No. 430 must be further tested using Test No. 435 or Test No. 404. If the in vitro test results indicate that the substance or mixture is corrosive, but the test method does not clearly distinguish between assignment of packing groups II and III, the material may be considered to be in packing group II without further testing. The packing group assignment using data obtained from tests conducted in accordance with OECD Guideline Test No. 404 or Test No. 435 must be as follows:
 
 (a) *Packing Group I.* Materials that cause irreversible damage to intact skin tissue within an observation period of up to 60 minutes, starting after the exposure time of three minutes or less.
 
 (b) *Packing Group II.* Materials, other than those meeting Packing Group I criteria, that cause irreversible damage to intact skin tissue within an observation period of up to 14 days, starting after the exposure time of more than three minutes but not more than 60 minutes.
 
-(c) *Packing Group III.* Materials, other than those meeting Packing Group I or II criteria -
+(c) *Packing Group III.* Materials, other than those meeting Packing Group I or II criteria—
 
 (1) That cause irreversible damage to intact skin tissue within an observation period of up to 14 days, starting after the exposure time of more than 60 minutes but not more than 4 hours; or
 
@@ -54,4 +52,4 @@ The packing group of a Class 8 material is indicated in Column 5 of the § 172.1
 
 When an initial test on either a steel or aluminum surface indicates the material being tested is corrosive, the follow up test on the other surface is not required.
 
-[85 FR 27880, May 11, 2020]
+[85 FR 27880, May 11, 2020, as amended at 87 FR 44993, July 26, 2022]

@@ -1,7 +1,5 @@
 ##### § 172.203 Additional description requirements. #####
 
-Link to an amendment published at 87 FR 44990, July 26, 2022.
-
 (a) *Special permits.* Except as provided in § 173.23 of this subchapter, each shipping paper issued in connection with a shipment made under a special permit must bear the notation “DOT-SP” followed by the special permit number assigned and located so that the notation is clearly associated with the description to which the special permit applies. Each shipping paper issued in connection with a shipment made under an exemption or special permit issued prior to October 1, 2007, may bear the notation “DOT-E” followed by the number assigned and so located that the notation is clearly associated with the description to which it applies.
 
 (b) *Limited quantities.* When a shipping paper is required by this subchapter, the description for a material offered for transportation as “limited quantity,” as authorized by this subchapter, must include the words “Limited Quantity” or “Ltd Qty” following the basic description.
@@ -70,9 +68,11 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 (1) The name of the shipper.
 
-(2) Minimum flashpoint if 60 °C (140 °F) or below (in °C closed cup (c.c.)) in association with the basic description. For lab packs packaged in conformance with § 173.12(b) of this subchapter, an indication that the lowest flashpoint of all hazardous materials contained in the lab pack is below 23 °C or that the flash point is not less than 23 °C but not more than 60 °C must be identified on the shipping paper in lieu of the minimum flashpoint.
+(2) A minimum flashpoint, if 60 °C (140 °F) or below (in °C closed cup (c.c.)), in association with the basic description, for Class 3 flammable liquid materials (as a primary or subsidiary hazard). For lab packs packaged in conformance with § 173.12(b) of this subchapter, an indication that the lowest flashpoint of all hazardous materials contained in the lab pack is below 23 °C or that the flash point is not less than 23 °C but not more than 60 °C must be identified on the shipping paper in lieu of the minimum flashpoint.
 
 (3) For a hazardous material consigned under an “n.o.s.” entry not included in the segregation groups listed in section 3.1.4 of the IMDG Code (IBR see § 171.7 of this subchapter) but belonging, in the opinion of the consignor, to one of these groups, the appropriate segregation group must be shown in association with the basic description (for example, IMDG Code segregation group - 1 Acids). When no segregation group is applicable, there is no requirement to indicate that condition.
+
+(4) For lithium cells or batteries transported in accordance with § 173.185(f), “DAMAGED/DEFECTIVE”; and for lithium cells or batteries transported for purposes of disposal or recycling, “LITHIUM BATTERIES FOR DISPOSAL” or “LITHIUM BATTERIES FOR RECYCLING”, as appropriate.
 
 (j) [Reserved]
 
@@ -90,7 +90,7 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 (iv) If the n.o.s. description for the material (which is a mixture of hazardous materials of different classes meeting the definition of more than one hazard class) contains the name of the chemical element or group responsible for the material meeting the definition of one of these classes. In such cases, only the technical name of the component that is not appropriately identified in the n.o.s. description shall be entered in parentheses.
 
-(l) *Marine pollutants.* (1) If the proper shipping name for a material which is a marine pollutant does not identify by name the component which makes the material a marine pollutant, the name of that component must appear in parentheses in association with the basic description. Where two or more components which make a material a marine pollutant are present, the names of at least two of the components most predominantly contributing to the marine pollutant designation must appear in parentheses in association with the basic description.
+(l) *Marine pollutants.* (1) For a proper shipping name used to describe a hazardous material that is a marine pollutant, either assigned the letter “G” in column (1) of the § 172.101 hazardous materials table, or that contains the text “n.o.s.”, the name of the component that makes the material a marine pollutant must appear in parentheses in association with the basic description. Where two or more components that make the material a marine pollutant are present, the names of at least two of the components most predominantly contributing to the marine pollutant designation must appear in parentheses in association with the basic description. For material described using “UN3077, Environmentally hazardous substance, solid, n.o.s.” and “UN3082, Environmentally hazardous substance, liquid, n.o.s.,” *see* § 172.102(c)(1), special provision 441 for additional provisions.
 
 (2) The words “Marine Pollutant” shall be entered in association with the basic description for a material which is a marine pollutant.
 
@@ -111,5 +111,7 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 (3) The word “SAMPLE” must be included in association with the basic description when a sample of a Division 4.1 (self-reactive) material (see § 173.224(c)(3) of this subchapter) or Division 5.2 (organic peroxide) material (see § 173.225(b)(2) of this subchapter) is offered for transportation.
 
 (p) *Liquefied petroleum gas (LPG).* The word “non-odorized” or “not-odorized” must be included in association with the proper shipping description on a shipping paper when non-odorized liquefied petroleum gas is offered for transportation.
+
+(q) *Holding time.* The date at which the actual holding time ends, as calculated in accordance with § 178.338-9, must be provided on the shipping paper in association with the basic description for refrigerated liquefied gases transported in a portable tank.
 
 [Amdt. 172-29A, 41 FR 40677, Sept. 20, 1976]Editorial Note:For Federal Register citations affecting § 172.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

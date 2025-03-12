@@ -28,10 +28,12 @@
 
 (c) *Meal pattern for school breakfasts for grades K through 12.* A school must offer the food components and quantities required in the breakfast meal pattern established in the following table:
 
+Table 1 to Paragraph (c) Introductory Text—Breakfast Meal Pattern
+
 |                                                                        |                                     Breakfast meal pattern                                      |           |        |
 |------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------|--------|
 |                               Grades K-5                               |                                           Grades 6-8                                            |Grades 9-12|        |
-|                             Food components                            |                               Amount of Food<sup>a</sup> per Week                               |           |        |
+|                            Food Components                             |                               Amount of Food<sup>a</sup> per Week                               |           |        |
 |                                                                        |                                        (minimum per day)                                        |           |        |
 |                 Fruits (cups)<sup>b</sup><sup>c</sup>                  |                                              5 (1)                                              |   5 (1)   | 5 (1)  |
 |               Vegetables (cups)<sup>b</sup><sup>c</sup>                |                                                0                                                |     0     |   0    |
@@ -40,7 +42,7 @@
 |                        Beans and peas (legumes)                        |                                                0                                                |     0     |   0    |
 |                                Starchy                                 |                                                0                                                |     0     |   0    |
 |                                 Other                                  |                                                0                                                |     0     |   0    |
-|                       Grains (oz eq)<sup>d</sup>                       |                                            7-10 (1)                                             | 8-10 (1)  |9-10 (2)|
+|                       Grains (oz eq)<sup>d</sup>                       |                                            7-10 (1)                                             | 8-10 (1)  |9-10 (1)|
 |               Meats/Meat Alternates (oz eq)<sup>e</sup>                |                                                0                                                |     0     |   0    |
 |                     Fluid milk (cups)<sup>f</sup>                      |                                              5 (1)                                              |   5 (1)   | 5 (1)  |
 |Other Specifications: Daily Amount Based on the Average for a 5-Day Week|                                                                                                 |           |        |
@@ -99,7 +101,7 @@
 
 (f) *Dietary specifications.* (1) *Calories.* Schools breakfasts offered to each age/grade group must meet, on average over the school week, the minimum and maximum calorie levels specified in the following table:
 
-Calorie Ranges for Breakfast - Effective SY 2013-2014
+Calorie Ranges for Breakfast—Effective SY 2013-2014
 
 |                                             |Grades K-5|Grades 6-8|Grades 9-12|
 |---------------------------------------------|----------|----------|-----------|
@@ -113,7 +115,7 @@ Calorie Ranges for Breakfast - Effective SY 2013-2014
 
 (3) *Sodium.* School breakfasts offered to each age/grade group must meet, on average over the school week, the levels of sodium specified in the following table:
 
-Table 3 to Paragraph (f)(3) - School Breakfast Program Sodium Limits
+Table 3 to Paragraph (f)(3)—School Breakfast Program Sodium Limits
 
 |Age/grade group|Target 1  <br/>(mg)|
 |---------------|-------------------|
@@ -125,7 +127,7 @@ Table 3 to Paragraph (f)(3) - School Breakfast Program Sodium Limits
 
 (g) *Compliance assistance.* The State agency and school food authority must provide technical assistance and training to assist schools in planning breakfasts that meet the meal pattern in paragraph (c) of this section, the dietary specifications for calorie, saturated fat, sodium, and *trans* fat established in paragraph (f) of this section, and the meal pattern in paragraphs (o) and (p) of this section, as applicable. Compliance assistance may be offered during training, onsite visits, and/or administrative reviews.
 
-(h) *State agency responsibilities for monitoring dietary specifications* - (1) *Calories, saturated fat, and sodium.* When required by the administrative review process set forth in § 210.18, the State agency must conduct a weighted nutrient analysis to evaluate the average levels of calories, saturated fat, and sodium of the breakfasts offered during one week within the review period. The nutrient analysis must be conducted in accordance with the procedures established in § 210.10(i) of this chapter. If the results of the review indicate that the school breakfasts are not meeting the standards for calories, saturated fat, or sodium specified in paragraph (f) of this section, the State agency or school food authority must provide technical assistance and require the reviewed school to take corrective action to meet the requirements.
+(h) *State agency responsibilities for monitoring dietary specifications*—(1) *Calories, saturated fat, and sodium.* When required by the administrative review process set forth in § 210.18, the State agency must conduct a weighted nutrient analysis to evaluate the average levels of calories, saturated fat, and sodium of the breakfasts offered during one week within the review period. The nutrient analysis must be conducted in accordance with the procedures established in § 210.10(i) of this chapter. If the results of the review indicate that the school breakfasts are not meeting the standards for calories, saturated fat, or sodium specified in paragraph (f) of this section, the State agency or school food authority must provide technical assistance and require the reviewed school to take corrective action to meet the requirements.
 
 (2) *Trans fat.* State agencies conducting an administrative review must review product labels of manufacturer specifications to verify that the food products or ingredients used by the reviewed school(s) contain zero grams of *trans* fat (less than 0.5 grams) per serving.
 
@@ -143,11 +145,11 @@ Table 3 to Paragraph (f)(3) - School Breakfast Program Sodium Limits
 
 (n) *Nutrition disclosure.* The requirements in § 210.10(n) of this chapter also apply to this Program.
 
-(o) *Breakfast requirements for preschoolers* - (1) *Breakfasts served to preschoolers.* Schools serving breakfast to children ages 1 through 4 under the School Breakfast Program must serve the meal components and quantities required in the breakfast meal pattern established for the Child and Adult Care Food Program under § 226.20(a), (c)(1), and (d) of this chapter. In addition, schools serving breakfasts to this age group must comply with the requirements set forth in paragraphs (a), (c)(3), (g), (k), (l), and (m) of this section as applicable.
+(o) *Breakfast requirements for preschoolers*—(1) *Breakfasts served to preschoolers.* Schools serving breakfast to children ages 1 through 4 under the School Breakfast Program must serve the meal components and quantities required in the breakfast meal pattern established for the Child and Adult Care Food Program under § 226.20(a), (c)(1), and (d) of this chapter. In addition, schools serving breakfasts to this age group must comply with the requirements set forth in paragraphs (a), (c)(3), (g), (k), (l), and (m) of this section as applicable.
 
 (2) *Preschooler breakfast meal pattern table.* The minimum amounts of food components to be served at breakfast are as follows:
 
-Table 4 to Paragraph (o)(2) - Preschool Breakfast Meal Pattern
+Table 4 to Paragraph (o)(2)—Preschool Breakfast Meal Pattern
 
 |         Food components and food items 1          | Minimum quantities |                     |
 |---------------------------------------------------|--------------------|---------------------|
@@ -172,11 +174,11 @@ Endnotes:
 
 <sup>7</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
-(p) *Breakfast requirements for infants* - (1) *Breakfasts served to infants.* Schools serving breakfasts to infants ages birth through 11 months under the School Breakfast Program must serve the food components and quantities required in the breakfast meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving breakfasts to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (g), (k), (l), and (m) of this section as applicable.
+(p) *Breakfast requirements for infants*—(1) *Breakfasts served to infants.* Schools serving breakfasts to infants ages birth through 11 months under the School Breakfast Program must serve the food components and quantities required in the breakfast meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving breakfasts to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (g), (k), (l), and (m) of this section as applicable.
 
 (2) *Infant breakfast meal pattern table.* The minimum amounts of food components to be served at breakfast are as follows:
 
-Table 5 to Paragraph (p)(2) - Infant Breakfast Meal Pattern
+Table 5 to Paragraph (p)(2)—Infant Breakfast Meal Pattern
 
 |                    Birth through 5 months                    |                                   6 through 11 months                                    |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -200,4 +202,4 @@ Table 5 to Paragraph (p)(2) - Infant Breakfast Meal Pattern
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020; 86 FR 57546, Oct. 18, 2021; 87 FR 7006, Feb. 7, 2022; 87 FR 47332, Aug. 3, 2022]
+[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020; 86 FR 57546, Oct. 18, 2021; 87 FR 7006, Feb. 7, 2022; 87 FR 47332, Aug. 3, 2022; 87 FR 52329, Aug. 25, 2022]

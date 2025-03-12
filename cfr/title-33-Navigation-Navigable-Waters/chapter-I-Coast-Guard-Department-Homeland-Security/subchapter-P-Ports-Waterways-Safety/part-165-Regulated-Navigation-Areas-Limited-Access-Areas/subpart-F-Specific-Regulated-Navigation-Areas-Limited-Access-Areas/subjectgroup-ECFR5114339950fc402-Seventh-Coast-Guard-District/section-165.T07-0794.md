@@ -1,5 +1,7 @@
 ##### § 165.T07-0794 Safety Zone; M/V GOLDEN RAY; Saint Simons Sound, GA. #####
 
+Link to an amendment published at 87 FR 52337, Aug. 25, 2022.
+
 (a) *Regulated area.* The following areas are established as safety zones: All navigable waters within a 150-yard radius surrounding the M/V GOLDEN RAY, which is, grounded in position 31°07′39.66 North, 081°24′10.58 West, between Saint Simons lighthouse and the north end of Jekyll Island, in the vicinity of green buoy #19. All coordinates are North American Datum 1983 (NAD 83).
 
 (b) *Definition.* As used in this section, “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels or aircraft, and federal, state, and local officers designated by or assisting the Captain of the Port (COTP) Savannah in the enforcement of the regulated areas.

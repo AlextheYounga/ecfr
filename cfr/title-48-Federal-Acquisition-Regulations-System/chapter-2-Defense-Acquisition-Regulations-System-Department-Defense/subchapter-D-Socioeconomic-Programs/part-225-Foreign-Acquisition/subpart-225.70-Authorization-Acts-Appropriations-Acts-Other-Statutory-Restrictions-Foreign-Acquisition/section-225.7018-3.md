@@ -1,14 +1,14 @@
 ##### 225.7018-3 Exceptions. #####
 
-The restriction in section 225.7018-2 does not apply to an acquisition -
+The restriction in section 225.7018-2 does not apply to an acquisition—
 
 (a) At or below the simplified acquisition threshold;
 
 (b) Outside the United States of an item for use outside the United States; or
 
-(c) Of an end item that is -
+(c) Of an end item containing a covered material that is—
 
-(1) A commercially available off-the-shelf item (but see PGI 225.7018-3(c)(1)(i) with regard to commercially available samarium-cobalt magnets), other than -
+(1) A commercially available off-the-shelf item (but see PGI 225.7018-3(c)(1) with regard to commercially available samarium-cobalt magnets), other than—
 
 (i) A commercially available off-the-shelf item that is 50 percent or more tungsten by weight; or
 
@@ -24,4 +24,4 @@ The restriction in section 225.7018-2 does not apply to an acquisition -
 
 (2) For samarium-cobalt magnets or neodymium-iron-boron magnets, the term “required form” refers to the form and properties of the magnets.
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022]

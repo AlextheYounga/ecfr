@@ -1,8 +1,6 @@
 ##### § 172.301 General marking requirements for non-bulk packagings. #####
 
-Link to an amendment published at 87 FR 44990, July 26, 2022.
-
-(a) *Proper shipping name and identification number.* (1) Except as otherwise provided by this subchapter, each person who offers a hazardous material for transportation in a non-bulk packaging must mark the package with the proper shipping name and identification number (preceded by “UN”, “NA” or “ID,” as appropriate) for the material as shown in the § 172.101 Hazardous Materials Table. The identification number marking preceded by “UN”, “NA”, or “ID” as appropriate must be marked in characters at least 12 mm (0.47 inches) high. Packages with a maximum capacity of 30 liters (8 gallons) or less, 30 kg (66 pounds) maximum net mass, or cylinders with a water capacity of 60 liters (16 gallons) or less must be marked with characters at least 6 mm (0.24 inches) high. Packages with a maximum capacity of 5 liters (1.32 gallons) or 5 kg (11 pounds) or less must be marked in a size appropriate for the size of the package.
+(a) *Proper shipping name and identification number.* (1) Except as otherwise provided by this subchapter, each person who offers a hazardous material for transportation in a non-bulk packaging must mark the package with the proper shipping name and identification number (preceded by “UN”, “NA” or “ID,” as appropriate), as shown in the § 172.101 Hazardous Materials Table. The identification number marking preceded by “UN”, “NA”, or “ID” as appropriate must be marked in characters at least 12 mm (0.47 inches) high. Packages with a maximum capacity of 30 liters (8 gallons) or less, 30 kg (66 pounds) maximum net mass, or cylinders with a water capacity of 60 liters (16 gallons) or less must be marked with characters at least 6 mm (0.24 inches) high. Packages with a maximum capacity of 5 liters (1.32 gallons) or less or 5 kg maximum net mass (11 pounds) or less must be marked in a size appropriate for the size of the package.
 
 (i) *Transitional exception.* For domestic transportation, until January 1, 2017, the identification number markings are not subject to the minimum size requirements specified in this paragraph (a)(1).
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 (c) *Special permit packagings.* Except as provided in § 173.23 of this subchapter, the outside of each package authorized by a special permit must be plainly and durably marked “DOT-SP” followed by the special permit number assigned. Packages authorized by an exemption issued prior to October 1, 2007, may be plainly and durably marked “DOT-E” in lieu of “DOT-SP” followed by the number assigned as specified in the most recent version of that exemption.
 
-(d) *Consignee's or consignor's name and address.* Each person who offers for transportation a hazardous material in a non-bulk package shall mark that package with the name and address of the consignor or consignee except when the package is -
+(d) *Consignee's or consignor's name and address.* Each person who offers for transportation a hazardous material in a non-bulk package shall mark that package with the name and address of the consignor or consignee except when the package is—
 
 (1) Transported by highway only and will not be transferred from one motor carrier to another; or
 
@@ -36,4 +34,4 @@ Link to an amendment published at 87 FR 44990, July 26, 2022.
 
 (f) *NON-ODORIZED marking on cylinders containing LPG.* No person may offer for transportation or transport a specification cylinder, except a Specification 2P or 2Q container or a Specification 39 cylinder, containing unodorized liquefied petroleum gas (LPG) unless it is legibly marked NON-ODORIZED or NOT ODORIZED in letters not less than 6.3 mm (0.25 inches) in height near the marked proper shipping name required by paragraph (a) of this section. The NON-ODORIZED or NOT ODORIZED marking may appear on a cylinder used for both unodorized and odorized LPG.
 
-[Amdt. 172-123, 55 FR 52590, Dec. 21, 1990, as amended by Amdt. 172-151, 62 FR 1227, Jan. 8, 1997; 62 FR 39404, July 22, 1997; 63 FR 16075, Apr. 1, 1998; 66 FR 45182, Aug. 28, 2001; 68 FR 45030, July 31, 2003; 69 FR 64471, Nov. 4, 2004; 70 FR 73164, Dec. 9, 2005; 71 FR 32258, June 2, 2006; 76 FR 3365, Jan. 19, 2011; 76 FR 56314, Sept. 13, 2011; 78 FR 1072, Jan. 7, 2013; 78 FR 65478, Oct. 31, 2013; 81 FR 35540, June 2, 2016]
+[Amdt. 172-123, 55 FR 52590, Dec. 21, 1990, as amended by Amdt. 172-151, 62 FR 1227, Jan. 8, 1997; 62 FR 39404, July 22, 1997; 63 FR 16075, Apr. 1, 1998; 66 FR 45182, Aug. 28, 2001; 68 FR 45030, July 31, 2003; 69 FR 64471, Nov. 4, 2004; 70 FR 73164, Dec. 9, 2005; 71 FR 32258, June 2, 2006; 76 FR 3365, Jan. 19, 2011; 76 FR 56314, Sept. 13, 2011; 78 FR 1072, Jan. 7, 2013; 78 FR 65478, Oct. 31, 2013; 81 FR 35540, June 2, 2016; 87 FR 44990, July 26, 2022]

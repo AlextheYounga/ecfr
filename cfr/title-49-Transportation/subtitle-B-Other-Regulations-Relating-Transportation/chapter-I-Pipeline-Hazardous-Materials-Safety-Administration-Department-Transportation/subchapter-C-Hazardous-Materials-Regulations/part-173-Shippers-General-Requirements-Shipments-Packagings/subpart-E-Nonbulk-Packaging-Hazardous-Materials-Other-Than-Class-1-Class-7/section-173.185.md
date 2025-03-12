@@ -1,7 +1,5 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
-Link to an amendment published at 87 FR 44993, July 26, 2022.
-
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 (a) *Classification.* (1) Each lithium cell or battery must be of the type proven to meet the criteria in part III, sub-section 38.3 of the UN Manual of Tests and Criteria (IBR; see § 171.7 of this subchapter). Lithium cells and batteries are subject to these tests regardless of whether the cells used to construct the battery are of a tested type. A single cell battery as defined in part III, sub-section 38.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be offered for transportation in accordance with the requirements for cells.
@@ -130,9 +128,9 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (i) The mark must indicate the UN number: “UN3090” for lithium metal cells or batteries; or “UN3480” for lithium ion cells or batteries. Where the lithium cells or batteries are contained in, or packed with, equipment, the UN number “UN3091” or “UN3481,” as appropriate, must be indicated. Where a package contains lithium cells or batteries assigned to different UN numbers, all applicable UN numbers must be indicated on one or more marks. The package must be of such size that there is adequate space to affix the mark on one side without the mark being folded.
 
-![](/graphics/er11my20.002.gif)
+![](/graphics/er26jy22.152.gif)
 
-(A) The mark must be in the form of a rectangle with hatched edging. The mark must be not less than 120 mm (4.7 inches) wide by 110 mm (4.3 inches) high and the minimum width of the hatching must be 5 mm (0.2 inches), except marks of 105 mm (4.1 inches) wide by 74 mm (2.9 inches) high may be used on a package containing lithium batteries when the package is too small for the larger mark;
+(A) The mark must be in the form of a rectangle or a square with hatched edging. The mark must be not less than 100 mm (3.9 inches) wide by 100 mm (3.9 inches) high and the minimum width of the hatching must be 5 mm (0.2 inches), except marks of 100 mm (3.9 inches) wide by 70 mm (2.8 inches) high may be used on a package containing lithium batteries when the package is too small for the larger mark;
 
 (B) The symbols and letters must be black on white or suitable contrasting background and the hatching must be red;
 
@@ -235,4 +233,4 @@ Table 1 to Paragraph (c)(4)(i)
 
 (h) *Approval.* A lithium cell or battery that does not conform to the provisions of this subchapter may be transported only under conditions approved by the Associate Administrator.
 
-[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020]
+[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022]
