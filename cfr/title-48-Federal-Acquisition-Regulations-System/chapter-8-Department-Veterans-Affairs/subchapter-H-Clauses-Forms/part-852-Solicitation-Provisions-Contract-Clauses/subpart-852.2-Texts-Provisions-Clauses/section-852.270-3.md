@@ -1,5 +1,7 @@
 ##### 852.270-3 Purchase of shellfish. #####
 
+Link to an amendment published at 83 FR 48263, Sept. 24, 2018.
+
 As prescribed in 870.111-3, insert the following clause:
 
 Purchase of Shellfish (APR 1984)

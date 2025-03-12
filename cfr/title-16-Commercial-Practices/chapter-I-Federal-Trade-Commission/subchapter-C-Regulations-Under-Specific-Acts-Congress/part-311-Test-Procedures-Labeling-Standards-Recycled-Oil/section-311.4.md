@@ -1,5 +1,7 @@
 ##### § 311.4 Testing. #####
 
+Link to an amendment published at 83 FR 48216, Sept. 24, 2018.
+
 To determine the substantial equivalency of processed used oil with new oil for use as engine oil, manufacturers or their designees must use the test procedures that were reported to the Commission by the National Institutes of Standards and Technology (“NIST”) on July 27, 1995, entitled “Engine Oil Licensing and Certification System,” American Petroleum Institute (“API”), Publication 1509, Thirteenth Edition, January 1995. API Publication 1509, Thirteenth Edition has been updated to API Publication 1509, Fifteenth Edition, April 2002. API Publication 1509, Fifteenth Edition, April 2002, is incorporated by reference. This incorporation by reference is approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the materials incorporated by reference may be obtained from: API, 1220 L Street, NW., Washington, DC 20005. Copies may be inspected at the Federal Trade Commission, Consumer Response Center, Room 130, 600 Pennsylvania Avenue, NW., Washington, DC 20580, or at the National Archives and Records Administration (“NARA”). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 [72 FR 14413, Mar. 28, 2007]

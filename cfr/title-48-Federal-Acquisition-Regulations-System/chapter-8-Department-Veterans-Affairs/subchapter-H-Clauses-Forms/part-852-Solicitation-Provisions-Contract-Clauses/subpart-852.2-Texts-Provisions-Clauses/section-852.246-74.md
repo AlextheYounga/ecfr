@@ -1,5 +1,7 @@
 ##### 852.246-74 Special warranties. #####
 
+Link to an amendment published at 83 FR 48262, Sept. 24, 2018.
+
 As prescribed in 846.710-70, insert the following clause:
 
 Special Warranties (JAN 2008)

@@ -1,5 +1,7 @@
 ##### § 74.1 What definitions are important for VetBiz Vendor Information Pages (VIP) Verification Program? #####
 
+Link to an amendment published at 83 FR 48229, Sept. 24, 2018.
+
 For the purposes of part 74, the following definitions apply.
 
 *Center for Veterans Enterprise* (CVE) is an office within the U.S. Department of Veterans Affairs (VA) and is a subdivision of VA's Office of Small and Disadvantaged Business Utilization. The CVE helps veterans interested in forming or expanding their own small businesses. It also helps VA contracting offices identify veteran-owned small businesses and works with the Small Business Administration's Veterans Business Development Officers and Small Business Development Centers nationwide regarding veterans' business financing, management, and technical assistance needs.

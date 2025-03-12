@@ -1,5 +1,7 @@
 ##### § 93.321 Transfer and termination of allocations. #####
 
+Link to an amendment published at 83 FR 48213, Sept. 24, 2018.
+
 (a) Allocations are not a property interest; they are an operating privilege subject to absolute FAA control.
 
 (b) Allocations are subject to the following conditions:

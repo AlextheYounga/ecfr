@@ -1,5 +1,7 @@
 ##### § 74.12 What must a concern submit to apply for VetBiz VIP Verification Program? #####
 
+Link to an amendment published at 83 FR 48231, Sept. 24, 2018.
+
 Each VetBiz VIP Verification applicant must submit the electronic forms and attachments CVE requires. All electronic forms are available on the VetBiz.gov Vendor Information Pages database Web pages. At the time the applicant dispatches the electronic forms, the applicant must also retain on file at the principal place of business a completed copy of the electronic forms supplemented by manual records that will be used in verification examinations. These forms and attachments will include, but not be limited to, financial statements, Federal personal and business tax returns, payroll records and personal history statements. An applicant must also retain in the application file IRS Form 4506, Request for Copy or Transcript of Tax Form. These materials shall be filed together to maximize efficiency of verification examination visits. Together with the electronic documents, these manual records will provide the CVE verification examiner with sufficient information to establish the management, control and operating status of the business on the date of submission.
 
 (The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0675)

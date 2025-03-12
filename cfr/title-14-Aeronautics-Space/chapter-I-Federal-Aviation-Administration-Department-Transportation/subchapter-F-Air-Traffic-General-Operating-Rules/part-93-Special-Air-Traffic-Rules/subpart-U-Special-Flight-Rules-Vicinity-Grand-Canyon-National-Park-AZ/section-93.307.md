@@ -1,5 +1,7 @@
 ##### § 93.307 Minimum flight altitudes. #####
 
+Link to an amendment published at 83 FR 48212, Sept. 24, 2018.
+
 Except in an emergency, or if otherwise necessary for safety of flight, or unless otherwise authorized by the Flight Standards District Office for a purpose listed in 93.309, no person may operate an aircraft in the Special Flight Rules Area at an altitude lower than the following:
 
 (a) *Minimum sector altitudes* - (1) *Commercial air tours* - (i) *Marble Canyon Sector.* Lees Ferry to Boundary Ridge: 6,000 feet MSL.

@@ -1,5 +1,7 @@
 ##### § 265.6 Responses to requests. #####
 
+Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
+
 (a) *Grants of requests.* Once a component makes a determination to grant a request in whole or in part, it shall notify the requester in writing and include a statement alerting the requester of his or her right to seek assistance from the FOIA Public Liaison. The component also shall inform the requester of any fees charged under § 265.9 and shall disclose the requested records to the requester promptly upon payment of any applicable fees.
 
 (b) *Adverse determinations of requests.* A component making an adverse determination denying a request in any respect shall notify the requester of that determination in writing. Adverse determinations, or denials of requests, include decisions that: the requested record is exempt, in whole or in part; the request does not reasonably describe the records sought; the information requested is not a record subject to the FOIA; the requested record does not exist, cannot be located, or has been destroyed; or the requested record is not readily reproducible in the form or format sought by the requester. Adverse determinations also include denials involving fees or fee waiver matters or denials of requests for expedited processing.

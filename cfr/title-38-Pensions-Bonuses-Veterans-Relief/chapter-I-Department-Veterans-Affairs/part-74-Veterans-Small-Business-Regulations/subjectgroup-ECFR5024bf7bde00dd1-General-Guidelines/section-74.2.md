@@ -1,5 +1,7 @@
 ##### § 74.2 What are the eligibility requirements a concern must meet for VetBiz VIP Verification Program? #####
 
+Link to an amendment published at 83 FR 48229, Sept. 24, 2018.
+
 (a) *Ownership and control.* A small business concern must be unconditionally owned and controlled by one or more eligible veterans, service-disabled veterans or surviving spouses, have completed the online Vendor Information Pages database forms at *http://www.VetBiz.gov,* and has been examined by VA's Center for Veterans Enterprise. Such businesses appear in the VIP database as “verified.”
 
 (b) *Good character.* Veterans, service-disabled veterans and surviving spouses with ownership interests in VetBiz verified businesses must have good character. Debarred or suspended concerns or concerns owned or controlled by debarred or suspended persons are ineligible for VetBiz VIP Verification.

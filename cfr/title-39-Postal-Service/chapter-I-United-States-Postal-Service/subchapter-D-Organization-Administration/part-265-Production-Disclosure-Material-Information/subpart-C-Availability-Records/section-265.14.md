@@ -1,5 +1,7 @@
 ##### § 265.14 Rules concerning specific categories of records. #####
 
+Link to an amendment published at 83 FR 48236, Sept. 24, 2018.
+
 (a) *Records available to the public on request.* Except as otherwise proscribed by law or regulations, including but not limited to paragraphs (b) and (c) of this section, § 265.2 and § 265.11-§ 265.13, Postal Service records will be made available to any person in accordance with the procedures provided in § 265.3.
 
 (b) *Records not subject to mandatory public disclosure.* Certain classes of records are exempt from mandatory disclosure under exemptions contained in the Freedom of Information Act and in 39 U.S.C. 410(c). The Postal Service will exercise its discretion, in accordance with the policy stated in § 265.1(c), as implemented by instructions issued by the Records Office with the approval of the General Counsel in determining whether the public interest is served by the inspection or copying of records that are:

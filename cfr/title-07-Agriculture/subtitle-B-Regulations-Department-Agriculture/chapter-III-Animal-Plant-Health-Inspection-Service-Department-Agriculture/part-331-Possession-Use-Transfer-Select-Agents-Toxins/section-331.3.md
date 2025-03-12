@@ -4,7 +4,7 @@
 
 (b) PPQ select agents and toxins:
 
-*Peronosclerospora philippinensis* (*Peronosclerospora sacchari*);*Phoma glycinicola* (formerly *Pyrenochaeta glycines*);*Ralstonia solanacearum;**Rathayibacter toxicus;j**Sclerophthora rayssiae;**Synchytrium endobioticum;**Xanthomonas oryzae.*
+*Coniothyrium glycines,* (formerly *Phoma glycinicola, Pyrenochaeta glycines*);*Peronosclerospora philippinensis* (*Peronosclerospora sacchari*);*Ralstonia solanacearum;**Rathayibacter toxicus;j**Sclerophthora rayssiae;**Synchytrium endobioticum;**Xanthomonas oryzae.*
 
 (c) Genetic elements, recombinant and/or synthetic nucleic acids, and recombinant and/or synthetic organisms:
 
@@ -56,4 +56,4 @@
 
 (4) The Federal law enforcement agency reports the final disposition of the select agent or toxin to APHIS or CDC by submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for 3 years.
 
-[70 FR 13278, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61075, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6204, Jan. 19. 2017]
+[70 FR 13278, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61075, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6204, Jan. 19. 2017;83 FR 48201, Sept. 24, 2018]

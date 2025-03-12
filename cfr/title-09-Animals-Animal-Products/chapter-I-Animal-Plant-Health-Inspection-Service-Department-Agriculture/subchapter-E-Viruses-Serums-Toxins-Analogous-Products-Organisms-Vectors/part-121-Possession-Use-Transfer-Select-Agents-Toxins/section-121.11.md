@@ -120,8 +120,8 @@
 
 (iv) Transport vehicle with GPS tracking designed to serve as a containment vehicle.
 
-(g) In developing a security plan, an individual or entity should consider the document entitled, “Security Guidance for Select Agent or Toxin Facilities.” This document is available on the National Select Agent Registry at *http://www.selectagents.gov/.*
+(g) In developing a security plan, an individual or entity should consider the document entitled, “Security Plan Guidance.” This document is available on the National Select Agent Registry at *http://www.selectagents.gov/.*
 
 (h) The plan must be reviewed annually and revised as necessary. Drills or exercises must be conducted at least annually to test and evaluate the effectiveness of the plan. The plan must be reviewed and revised, as necessary, after any drill or exercise and after any incident. Drills or exercises must be documented to include how the drill or exercise tested and evaluated the plan, any problems that were identified and corrective action(s) taken, and the names of registered entity personal participants.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61079, Oct. 5, 2012; 79 FR 26831, May 12, 2014; 82 FR 6209, Jan. 19, 2017]
+[70 FR 13284, Mar. 18, 2005, as amended at 77 FR 61079, Oct. 5, 2012; 79 FR 26831, May 12, 2014; 82 FR 6209, Jan. 19, 2017; 83 FR 48202, Sept. 24, 2018]

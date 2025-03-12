@@ -1,5 +1,7 @@
 ##### § 74.11 How does CVE process applications for VetBiz VIP Verification Program? #####
 
+Link to an amendment published at 83 FR 48230, Sept. 24, 2018.
+
 (a) The Director, Center for Veterans Enterprise, is authorized to approve or deny applications for VetBiz VIP Verification. The CVE will receive, review and evaluate all VetBiz VIP Verification applications. CVE will advise each applicant within 30 days, when practicable, after the receipt of an application whether the application is complete and suitable for evaluation and, if not, what additional information or clarification is required to complete the application. CVE will process an application for VetBiz VIP Verification status within 60 days, when practicable, of receipt of a complete application package. Incomplete application packages will not be processed.
 
 (b) CVE, in its sole discretion, may request clarification of information contained in the application at any time in the eligibility determination process. CVE will take into account any clarifications made by an applicant in response to a request for such by CVE.

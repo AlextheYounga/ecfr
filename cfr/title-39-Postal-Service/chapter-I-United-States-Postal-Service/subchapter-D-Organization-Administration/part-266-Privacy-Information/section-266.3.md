@@ -1,5 +1,7 @@
 ##### § 266.3 Collection and disclosure of information about individuals. #####
 
+Link to an amendment published at 83 FR 48237, Sept. 24, 2018.
+
 (a) This section governs the collection of information about individuals, as defined in the Privacy Act of 1974, throughout Postal Service operations;
 
 (1) The Postal Service will:

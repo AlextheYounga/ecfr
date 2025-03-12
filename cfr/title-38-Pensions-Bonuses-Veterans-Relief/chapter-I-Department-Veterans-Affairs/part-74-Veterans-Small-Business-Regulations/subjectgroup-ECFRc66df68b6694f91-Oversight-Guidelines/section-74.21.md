@@ -1,5 +1,7 @@
 ##### § 74.21 What are the ways a business may exit VetBiz VIP Verification Program status? #####
 
+Link to an amendment published at 83 FR 48232, Sept. 24, 2018.
+
 A participant may:
 
 (a) Voluntarily cancel its status by submitting a written request to CVE requesting that the “verified” status button be removed from the Vendor Information Pages database; or

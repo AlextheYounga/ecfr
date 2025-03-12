@@ -40,7 +40,7 @@
 
 (8) Waste generated during the delivery of patient care by health care professionals from a patient diagnosed with an illness or condition associated with a select agent, where that waste is decontaminated or transferred for destruction by complying with State and Federal regulations within 7 calendar days of the conclusion of patient care.
 
-(9) Any low pathogenic strains of avian influenza virus, avian paramyxovirus serotype-1 (APMV-1) viruses which do not meet the criteria for Newcastle disease virus,4 including those identified as pigeon paramyxovirus-125 isolated from a non-poultry species, all subspecies *Mycoplasma capricolum* except subspecies *capripneumoniae* (contagious caprine pleuropneumonia), and all subspecies *Mycoplasma mycoides* except subspecies *mycoides* small colony (*Mmm* SC) (contagious bovine pleuropneumonia), provided that the individual or entity can identify that the agent is within the exclusion category.
+(9) Any low pathogenic strains of avian influenza virus, avian paramyxovirus serotype-1 (APMV-1) viruses which do not meet the criteria for Newcastle disease virus,4 including those identified as pigeon paramyxovirus-15 isolated from a non-poultry species, all subspecies *Mycoplasma capricolum* except subspecies *capripneumoniae* (contagious caprine pleuropneumonia), and all subspecies *Mycoplasma mycoides* except subspecies *mycoides* small colony (*Mmm* SC) (contagious bovine pleuropneumonia), provided that the individual or entity can identify that the agent is within the exclusion category.
 
 4 An APMV-1 virus isolated from poultry which has an intracerebral pathogenicity index in day-old chicks (*Gallus gallus*) of 0.7 or greater or has an amino acid sequence at the fusion (F) protein cleavage site that is consistent with virulent strains of Newcastle disease virus. A failure to detect a cleavage site that is consistent with virulent strains does not confirm the absence of a virulent virus.
 
@@ -62,7 +62,7 @@
 
 (3) The Federal law enforcement agency reports the seizure of the select agent or toxin to APHIS or CDC.
 
-(i) The seizure of any of the following VS select agents and toxins must be reported within 24 hours by telephone, facsimile, or e-mail: African horse sickness virus, African swine fever virus, avian influenza virus (highly pathogenic), bovine spongiform encephalopathy agent, classical swine fever virus, foot-and-mouth disease virus, virulent Newcastle disease virus, rinderpest virus, and swine vesicular disease virus. This report must be followed by submission of APHIS/CDC Form 4 within 7 calendar days after seizure of the select agent or toxin.
+(i) The seizure of any of the following VS select agents and toxins must be reported within 24 hours by telephone, facsimile, or e-mail: African horse sickness virus, African swine fever virus, avian influenza virus (highly pathogenic), classical swine fever virus, foot-and-mouth disease virus, virulent Newcastle disease virus, rinderpest virus, and swine vesicular disease virus. This report must be followed by submission of APHIS/CDC Form 4 within 7 calendar days after seizure of the select agent or toxin.
 
 (ii) For all other VS select agents or toxins, APHIS/CDC Form 4 must be submitted within 7 calendar days after seizure of the agent or toxin.
 
@@ -70,4 +70,4 @@
 
 (4) The Federal law enforcement agency reports the final disposition of the select agent or toxin by submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for 3 years.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61077, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6207, Jan. 19, 2017]
+[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61077, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6207, Jan. 19, 2017; 83 FR 48202, Sept. 24, 2018]

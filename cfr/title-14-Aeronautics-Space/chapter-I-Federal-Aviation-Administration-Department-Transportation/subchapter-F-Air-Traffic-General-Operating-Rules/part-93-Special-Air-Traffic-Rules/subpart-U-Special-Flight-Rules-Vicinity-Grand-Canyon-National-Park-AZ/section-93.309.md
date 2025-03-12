@@ -1,5 +1,7 @@
 ##### § 93.309 General operating procedures. #####
 
+Link to an amendment published at 83 FR 48212, Sept. 24, 2018.
+
 Except in an emergency, no person may operate an aircraft in the Special Flight Rules Area unless the operation is conducted in accordance with the following procedures. (Note: The following procedures do not relieve the pilot from see-and-avoid responsibility or compliance with the minimum safe altitude requirements specified in § 91.119 of this chapter.):
 
 (a) Unless necessary to maintain a safe distance from other aircraft or terrain remain clear of the flight-free zones described in § 93.305;

@@ -1,5 +1,7 @@
 ##### 852.246-75 Warranty for construction - guarantee period services. #####
 
+Link to an amendment published at 83 FR 48262, Sept. 24, 2018.
+
 As prescribed in 846.710-71, insert the following clause:
 
 Warranty for Construction - Guarantee Period Services (JAN 2008)

@@ -1,5 +1,7 @@
 ##### 852.229-70 Sales or use taxes. #####
 
+Link to an amendment published at 83 FR 48262, Sept. 24, 2018.
+
 As prescribed in 829.302-70, insert the following provision:
 
 Sales or Use Taxes (JAN 2008)

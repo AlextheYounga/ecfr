@@ -1,5 +1,7 @@
 ##### § 74.15 What length of time may a business participate in VetBiz VIP Verification Program? #####
 
+Link to an amendment published at 83 FR 48231, Sept. 24, 2018.
+
 (a) A participant receives an eligibility term of 3 years from the date of CVE's approval letter establishing verified status. The participant must maintain its eligibility during its tenure and must inform CVE of any changes that would adversely affect its eligibility. The eligibility term may be shortened by cancellation by CVE or voluntary withdrawal by the participant (*i.e.*, no longer eligible as a small business concern), as provided for in this subpart.
 
 (b) When at least 50 percent of the assets of a concern are the same as those of an affiliated business, the concern will not be eligible for verification.

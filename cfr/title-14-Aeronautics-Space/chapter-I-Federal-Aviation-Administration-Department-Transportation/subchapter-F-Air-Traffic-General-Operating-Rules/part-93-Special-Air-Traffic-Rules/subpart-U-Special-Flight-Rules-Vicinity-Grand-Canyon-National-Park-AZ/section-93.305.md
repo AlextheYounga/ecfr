@@ -1,5 +1,7 @@
 ##### § 93.305 Flight-free zones and flight corridors. #####
 
+Link to an amendment published at 83 FR 48212, Sept. 24, 2018.
+
 Except in an emergency or if otherwise necessary for safety of flight, or unless otherwise authorized by the Flight Standards District Office for a purpose listed in 93.309, no person may operate an aircraft in the Special Flight Rules Area within the following flight-free zones:
 
 (a) *Desert View Flight-free Zone.* That airspace extending from the surface up to but not including 14,500 feet MSL within an area bounded by a line beginning at Lat. 35°59′58″ N., Long. 111°52′47″ W.; thence east to Lat. 36°00′00″ N., Long. 111°51′04″ W.; thence north to 36°00′24″ N., Long. 111°51′04″ W.; thence east to 36°00′24″ N., Long. 111°45′44″ W.; thence north along the GCNP boundary to Lat. 36°14′05″ N., Long. 111°48′34″ W.; thence southwest to Lat. 36°12′06″ N., Long. 111°51′14″ W.; to the point of origin; but not including the airspace at and above 10,500 feet MSL within 1 nautical mile of the western boundary of the zone. The corridor to the west between the Desert View and Bright Angel Flight-free Zones, is designated the “Zuni Point Corridor.” This corridor is 2 nautical miles wide for commercial air tour flights and 4 nautical miles wide for transient and general aviation operations.

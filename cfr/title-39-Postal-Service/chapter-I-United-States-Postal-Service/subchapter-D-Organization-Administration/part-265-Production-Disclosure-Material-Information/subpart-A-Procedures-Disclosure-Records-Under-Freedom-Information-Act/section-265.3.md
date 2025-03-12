@@ -1,5 +1,7 @@
 ##### § 265.3 Procedure for submitting a FOIA request. #####
 
+Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
+
 (a) *To whom submitted.* A request must be submitted to the appropriate FOIA Requester Service Center (RSC). Descriptions of, and contact information for, the various FOIA RSCs can be found at *http://about.usps.com/who-we-are/foia/welcome.htm.* For assistance in determining the appropriate FOIA RSC, requesters may contact the USPS HQ FOIA Requester Service Center, Privacy and Records Office, U.S. Postal Service, 475 L'Enfant Plaza SW., Washington, DC 20260, telephone (202) 268-2608. Requests for listings of postal employee names should also be sent to the USPS HQ FOIA Requester Service Center.
 
 (b) *Form of request.* A request to inspect or to obtain a copy of an identifiable Postal Service record must be in writing and bear the caption “Freedom of Information Act Request” or otherwise be clearly and prominently identified as a request for records pursuant to the Freedom of Information Act, both on the letter and on the envelope or other cover. Requests for records that are labeled incorrectly may be delayed in reaching the appropriate FOIA RSC. A requester must provide his or her full name and mailing address. A requester may also provide a daytime telephone number or email address to facilitate communication regarding his or her request.

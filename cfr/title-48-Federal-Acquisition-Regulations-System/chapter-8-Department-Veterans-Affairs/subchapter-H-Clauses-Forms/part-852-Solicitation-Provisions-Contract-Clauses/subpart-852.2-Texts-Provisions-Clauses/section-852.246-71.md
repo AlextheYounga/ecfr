@@ -1,5 +1,7 @@
 ##### 852.246-71 Inspection. #####
 
+Link to an amendment published at 83 FR 48262, Sept. 24, 2018.
+
 As prescribed in 846.302-71(a), insert the following clause:
 
 Inspection (JAN 2008)

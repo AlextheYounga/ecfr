@@ -1,5 +1,7 @@
 ##### 852.246-70 Guarantee. #####
 
+Link to an amendment published at 83 FR 48262, Sept. 24, 2018.
+
 As prescribed in 846.302-70, insert the following clause:
 
 Guarantee (JAN 2008)

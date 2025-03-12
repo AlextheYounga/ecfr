@@ -1,5 +1,7 @@
 ##### § 93.303 Definitions. #####
 
+Link to an amendment published at 83 FR 48212, Sept. 24, 2018.
+
 For the purposes of this subpart:
 
 *Allocation* means authorization to conduct a commercial air tour in the Grand Canyon National Park (GCNP) Special Flight Rules Area (SFRA).

@@ -1,5 +1,7 @@
 ##### § 74.22 What are the procedures for cancellation? #####
 
+Link to an amendment published at 83 FR 48232, Sept. 24, 2018.
+
 (a) *General.* When CVE believes that a participant's verified status should be cancelled prior to the expiration of its eligibility term, CVE will notify the participant in writing. The Notice of Proposed Cancellation Letter will set forth the specific facts and reasons for CVE's findings, and will notify the participant that it has 30 days from the date it receives the letter to submit a written response to CVE explaining why the proposed ground(s) should not justify cancellation.
 
 (b) *Recommendation and decision.* Following the 30-day response period, the Director, CVE, will consider any information submitted by the participant. Upon determining that cancellation is not warranted, the Director, CVE, will notify the participant in writing. If cancellation appears warranted, the Director, CVE, will make a decision whether to cancel the participant's verified status.

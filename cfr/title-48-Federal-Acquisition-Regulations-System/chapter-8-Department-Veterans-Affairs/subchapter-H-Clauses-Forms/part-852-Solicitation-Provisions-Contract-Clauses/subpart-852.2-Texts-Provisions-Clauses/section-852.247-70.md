@@ -1,5 +1,7 @@
 ##### 852.247-70 Determining transportation costs for bid evaluation. #####
 
+Link to an amendment published at 83 FR 48262, Sept. 24, 2018.
+
 As prescribed in 847.305-70, insert the following provision:
 
 Determining Transportation Costs for Bid Evaluation (APR 1984)
