@@ -1,3 +1,3 @@
 ##### § 205.242 xxx #####
 
-Link to an amendment published at 82 FR 7092, Jan. 19, 2017.This amendment was delayed until May 19, 2017, at 82 FR 9967, Feb. 9, 2017.This amendment was further delayed until Nov. 14, 2017, at 82 FR 21677, May 10, 2017.
+ Link to an amendment published at 82 FR 7092, Jan. 19, 2017.This amendment was delayed until May 19, 2017, at 82 FR 9967, Feb. 9, 2017.This amendment was further delayed until Nov. 14, 2017, at 82 FR 21677, May 10, 2017.This amendment was further delayed until May 14, 2018, at 82 FR 52643, Nov. 14, 2017.

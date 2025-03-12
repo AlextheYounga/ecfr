@@ -1,5 +1,7 @@
 ##### § 1.492 National stage fees. #####
 
+Link to an amendment published at 82 FR 52816, November 14, 2017.
+
 The following fees and charges are established for international applications entering the national stage under 35 U.S.C. 371:
 
 (a) The basic national fee for an international application entering the national stage under 35 U.S.C. 371:

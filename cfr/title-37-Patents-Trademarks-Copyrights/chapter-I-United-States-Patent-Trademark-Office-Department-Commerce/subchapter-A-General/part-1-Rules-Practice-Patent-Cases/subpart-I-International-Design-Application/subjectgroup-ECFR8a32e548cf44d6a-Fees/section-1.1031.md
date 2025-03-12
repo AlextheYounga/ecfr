@@ -1,5 +1,7 @@
 ##### § 1.1031 International design application fees. #####
 
+Link to an amendment published at 82 FR 52816, November 14, 2017.
+
 (a) International design applications filed through the Office as an office of indirect filing are subject to payment of a transmittal fee (35 U.S.C. 382(b) and Article 4(2)) in the amount of $120.
 
 (b) The Schedule of Fees annexed to the Regulations (Rule 27(1)), a list of individual designation fee amounts, and a fee calculator may be viewed on the Web site of the World Intellectual Property Organization, currently available at *http://www.wipo.int/hague.*

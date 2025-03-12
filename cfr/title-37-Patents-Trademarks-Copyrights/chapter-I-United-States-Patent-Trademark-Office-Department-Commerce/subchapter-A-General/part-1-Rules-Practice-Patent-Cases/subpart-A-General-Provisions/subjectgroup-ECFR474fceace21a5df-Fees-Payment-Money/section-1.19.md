@@ -1,5 +1,7 @@
 ##### § 1.19 Document supply fees. #####
 
+Link to an amendment published at 82 FR 52814, November 14, 2017.
+
 The United States Patent and Trademark Office will supply copies of the following patent-related documents upon payment of the fees indicated. Paper copies will be in black and white unless the original document is in color, a color copy is requested and the fee for a color copy is paid.
 
 (a) Uncertified copies of patent application publications and patents:

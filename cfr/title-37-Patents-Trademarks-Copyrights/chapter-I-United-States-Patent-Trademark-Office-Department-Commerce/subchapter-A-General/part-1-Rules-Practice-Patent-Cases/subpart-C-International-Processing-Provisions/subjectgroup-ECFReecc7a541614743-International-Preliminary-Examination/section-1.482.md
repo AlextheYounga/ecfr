@@ -1,5 +1,7 @@
 ##### § 1.482 International preliminary examination fees. #####
 
+Link to an amendment published at 82 FR 52816, November 14, 2017.
+
 (a) The following fees and charges for international preliminary examination are established by the Director under the authority of 35 U.S.C. 376:
 
 (1) The following preliminary examination fee is due on filing the Demand:

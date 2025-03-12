@@ -1,5 +1,7 @@
 ##### § 1.16 National application filing, search, and examination fees. #####
 
+Link to an amendment published at 82 FR 52813, November 14, 2017.
+
 (a) Basic fee for filing each application under 35 U.S.C. 111 for an original patent, except design, plant, or provisional applications:
 
 |                                                    By a micro entity (§ 1.29)                                                     |$70.00|
