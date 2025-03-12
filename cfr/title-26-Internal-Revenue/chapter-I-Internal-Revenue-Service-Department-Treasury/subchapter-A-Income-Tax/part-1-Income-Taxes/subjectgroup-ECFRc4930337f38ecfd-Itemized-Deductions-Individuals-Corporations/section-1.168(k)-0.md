@@ -1,5 +1,7 @@
 ##### § 1.168(k)-0 Table of contents. #####
 
+Link to an amendment published at 85 FR 71752, Nov. 10, 2020.
+
 This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k)-2.
 
 § 1.168(k)-1 Additional first year depreciation deduction.

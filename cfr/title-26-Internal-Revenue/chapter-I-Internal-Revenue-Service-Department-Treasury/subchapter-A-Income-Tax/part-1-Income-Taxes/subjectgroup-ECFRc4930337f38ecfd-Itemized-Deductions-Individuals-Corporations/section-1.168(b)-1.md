@@ -1,5 +1,7 @@
 ##### § 1.168(b)-1 Definitions. #####
 
+Link to an amendment published at 85 FR 71752, Nov. 10, 2020.
+
 (a) *Definitions.* For purposes of section 168 and the regulations under section 168, the following definitions apply:
 
 (1) *Depreciable property* is property that is of a character subject to the allowance for depreciation as determined under section 167 and the regulations under section 167.

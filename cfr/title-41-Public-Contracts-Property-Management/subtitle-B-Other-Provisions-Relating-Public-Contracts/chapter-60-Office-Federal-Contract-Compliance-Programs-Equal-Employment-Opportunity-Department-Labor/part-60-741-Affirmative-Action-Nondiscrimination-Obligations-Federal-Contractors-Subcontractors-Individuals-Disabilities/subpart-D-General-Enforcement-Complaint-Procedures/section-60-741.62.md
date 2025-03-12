@@ -1,5 +1,7 @@
 ##### § 60-741.62 Conciliation agreements. #####
 
+Link to an amendment published at 85 FR 71574, Nov. 10, 2020.
+
 (a) If a compliance evaluation, complaint investigation, or other review by OFCCP finds a material violation of the act or this part, and if the contractor is willing to correct the violations and/or deficiencies, and if OFCCP determines that settlement on that basis (rather than referral for consideration of formal enforcement) is appropriate, a written conciliation agreement will be required. The agreement shall provide for such remedial action as may be necessary to correct the violations and/or deficiencies noted, including, where appropriate (but not necessarily limited to) such make whole remedies as back pay and retroactive seniority. The agreement shall also specify the time period for completion of the remedial action; the period shall be no longer than the minimum period necessary to complete the action.
 
 (b) *Remedial benchmarks.* The remedial action referenced in paragraph (a) of this section may include the establishment of benchmarks for the contractor's outreach, recruitment, hiring, or other employment activities. The purpose of such benchmarks is to create a quantifiable method by which the contractor's progress in correcting identified violations and/or deficiencies can be measured.

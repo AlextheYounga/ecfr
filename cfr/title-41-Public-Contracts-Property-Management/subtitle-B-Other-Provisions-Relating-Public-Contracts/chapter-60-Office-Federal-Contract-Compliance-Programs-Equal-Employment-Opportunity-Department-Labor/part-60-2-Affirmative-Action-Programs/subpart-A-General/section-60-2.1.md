@@ -1,5 +1,7 @@
 ##### § 60-2.1 Scope and application. #####
 
+Link to an amendment published at 85 FR 71572, Nov. 10, 2020.
+
 (a) *General.* The requirements of this part apply to nonconstruction (supply and service) contractors. The regulations prescribe the contents of affirmative action programs, standards and procedures for evaluating the compliance of affirmative action programs implemented pursuant to this part, and related matters.
 
 (b) *Who must develop affirmative action programs.* (1) Each nonconstruction contractor must develop and maintain a written affirmative action program for each of its establishments if it has 50 or more employees and:

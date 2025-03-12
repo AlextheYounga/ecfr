@@ -14,7 +14,7 @@ Radiation Symbol
 
 (b) *Radiation areas.* Each radiation area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol and the words:
 
-Caution2
+Caution2/\>
 
 2 Or “Danger”.
 
@@ -46,7 +46,7 @@ Caution2Radioactive Materials
 
 (2) Each container in which natural uranium or thorium is transported, stored, or used in a quantity greater than 10 times the quantity specified in appendix C to 10 CFR part 20 shall bear a durable, clearly visible label bearing the radiation caution symbol and the words:
 
-Caution2
+Caution2/\>
 
 2 Or “Danger”.
 
