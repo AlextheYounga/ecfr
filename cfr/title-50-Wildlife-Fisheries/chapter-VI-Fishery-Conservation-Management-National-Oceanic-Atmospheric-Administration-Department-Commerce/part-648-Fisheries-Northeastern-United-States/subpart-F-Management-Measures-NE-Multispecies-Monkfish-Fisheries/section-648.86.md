@@ -114,7 +114,21 @@ Herring GB Haddock Accountability Measure Area
 
 (iv) *Application of mesh size.* Counting from the terminus of the net, the mesh size restrictions specified in paragraphs (d)(1)(i) through (iii) of this section are only applicable to the first 100 meshes (200 bars in the case of square mesh) for vessels greater than 60 ft (18.3 m) in length, and to the first 50 meshes (100 bars in the case of square mesh) for vessels 60 ft (18.3 m) or less in length. Notwithstanding any other provision of this section, the restrictions and conditions pertaining to mesh size do not apply to nets or pieces of net smaller than 3 ft by 3 ft (0.9 m by 0.9 m), (9 sq ft (0.81 sq m)).
 
-(v) [Reserved]
+(v) *Possession of southern red hake while under a rebuilding plan.* When the southern red hake stock, defined as statistical areas 525-526, 533-534, 541-543, 537-539, 562, 611-616, 621-623, 625-628, 631-634, 635-638, is under a rebuilding plan, the year-round possession limit for southern red hake shall be the following:
+
+(A) *Vessels possessing on board or using nets of mesh size smaller than 5.5 in (13.97 cm).* Owners and operators of vessels may possess and land no more than 600 lb (272 kg) of southern red hake per trip when:
+
+(*1*) Using trawls with diamond or square mesh size less than 5.5 in (13.97 cm); and/or
+
+(*2*) A vessel is in possession of a net with mesh size smaller than 5.5 in (13.97 cm), unless it is properly stowed and not available for immediate use in accordance with § 648.2 and not used on that trip.
+
+(B) *Vessels using nets of mesh size greater than or equal to 5.5 in (13.97 cm), using small-mesh selective trawls, or gear other than trawl.* Owners and operators may possess and land no more than 1,000 lb (453 kg) of southern red hake per trip when:
+
+(*1*) Using trawls with diamond or square mesh size 5.5 in (13.97 cm) or larger;
+
+(*2*) Using small-mesh selective gear, including raised-footrope trawls as defined in § 648.80(a)(9)(ii), large-mesh belly panel trawls as defined in § 648.84(f), rope separator trawls as defined in § 648.84(e), and other selective gears deemed by the Regional Administrator to adequately reduce the catch of red hake; or
+
+(*3*) When using gears other than trawls.
 
 (2) *Possession limit for vessels participating in the northern shrimp fishery.* Owners and operators of vessels participating in the Small-Mesh Northern Shrimp Fishery Exemption Area, as described in § 648.80(a)(3), with a vessel issued a valid Federal NE multispecies permit specified under § 648.4(a)(1), may possess and land silver hake and offshore hake, combined, up to an amount equal to the weight of shrimp on board, not to exceed 3,500 lb (1,588 kg). Silver hake and offshore hake on board a vessel subject to this possession limit must be separated from other species of fish and stored so as to be readily available for inspection.
 

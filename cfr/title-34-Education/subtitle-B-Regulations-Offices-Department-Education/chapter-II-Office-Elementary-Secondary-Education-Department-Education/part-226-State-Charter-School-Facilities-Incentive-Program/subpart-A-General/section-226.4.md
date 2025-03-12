@@ -1,6 +1,6 @@
 ##### § 226.4 What definitions apply to the State Charter School Facilities Incentive program? #####
 
-(a) *Definitions in the statute.* The following term used in this part is defined in section 5210 of the Elementary and Secondary Education Act of 1965, as amended (ESEA):
+(a) *Definitions in the statute.* The following term used in this part is defined in section 4310 of the Elementary and Secondary Education Act of 1965, as amended (ESEA):
 
 Charter school
 
@@ -10,7 +10,7 @@ ApplicantApplicationAwardDepartmentEDGARFacilitiesGrantGranteeProjectPublicSecre
 
 (c) *Other definition.* The following definition also applies to this part:
 
-*Construction* means -
+*Construction* means—
 
 (1) Preparing drawings and specifications for school facilities projects;
 
@@ -22,4 +22,4 @@ ApplicantApplicationAwardDepartmentEDGARFacilitiesGrantGranteeProjectPublicSecre
 
 (5) Inspections or supervision related to school facilities.
 
-(Authority: 20 U.S.C. 7221d(b); 7221i(1))
+(Authority: 20 U.S.C. 7221d(b); 7221i(1))[70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]

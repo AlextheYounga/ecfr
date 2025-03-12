@@ -367,7 +367,7 @@ Raised Footrope Trawl Whiting Fishery Exemption Area
 
 (E) Raised footrope trawl gear is required and must be configured as specified in paragraphs (a)(9)(ii)(A) through (D) of this section.
 
-(F) Fishing may only occur from September 1 through November 20 of each fishing year, except that it may occur in the eastern portion only of the Raised Footrope Trawl Whiting Fishery Exemption Area from November 21 through December 31 of each fishing year.
+(F) Fishing may only occur from September 1 through November 20 of each fishing year, except that it may continue to occur in the eastern portion only of the Raised Footrope Trawl Whiting Fishery Exemption Area, which remains open through December 31 of each fishing year.
 
 (G) A vessel enrolled in the Raised Footrope Trawl Whiting Fishery may fish for small-mesh multispecies in exempted fisheries outside of the Raised Footrope Trawl Whiting Fishery exemption area, provided that the vessel complies with the more restrictive gear, possession limit and other requirements specified in the regulations of that exempted fishery for the entire participation period specified on the vessel's letter of authorization. For example, a vessel may fish in both the Raised Footrope Trawl Whiting Fishery and the Cultivator Shoal Whiting Fishery Exemption Area, and would be restricted to a minimum mesh size of 3 inches (7.6 cm), as required in the Cultivator Shoal Whiting Fishery Exemption Area; the use of the raised footrope trawl; and the catch and bycatch restrictions of the Raised Footrope Trawl Whiting Fishery, except for scup.
 

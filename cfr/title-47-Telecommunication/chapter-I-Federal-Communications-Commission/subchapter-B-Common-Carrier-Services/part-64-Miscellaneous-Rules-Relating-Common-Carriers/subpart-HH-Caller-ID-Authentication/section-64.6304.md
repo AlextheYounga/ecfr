@@ -1,5 +1,7 @@
 ##### § 64.6304 Extension of implementation deadline. #####
 
+Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
+
 (a) *Small voice service providers.* (1) Small voice service providers are exempt from the requirements of § 64.6301 through June 30, 2023.
 
 (2) For purposes of this paragraph (a), “small voice service provider” means a provider that has 100,000 or fewer voice service subscriber lines (counting the total of all business and residential fixed subscriber lines and mobile phones and aggregated over all of the provider's affiliates).
