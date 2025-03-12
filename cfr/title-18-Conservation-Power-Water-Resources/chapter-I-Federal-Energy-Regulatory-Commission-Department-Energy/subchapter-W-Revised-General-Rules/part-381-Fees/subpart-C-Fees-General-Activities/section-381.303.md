@@ -1,5 +1,7 @@
 ##### § 381.303 Review of a Department of Energy remedial order. #####
 
+Link to an amendment published at 83 FR 469, Jan. 4, 2018.
+
 (a) Except as provided in § 381.303(b), the fee established for an answer to a Department of Energy remedial order under subpart I of the Commission's Rules of Practice and Procedure, 18 CFR part 385, subpart I (1983), is $37,430. The fee must be submitted in accordance with subpart A of this part.
 
 (b) If the amount in controversy is below $30,000, then the fee to file a petition for review of a DOE remedial order is reduced as follows:

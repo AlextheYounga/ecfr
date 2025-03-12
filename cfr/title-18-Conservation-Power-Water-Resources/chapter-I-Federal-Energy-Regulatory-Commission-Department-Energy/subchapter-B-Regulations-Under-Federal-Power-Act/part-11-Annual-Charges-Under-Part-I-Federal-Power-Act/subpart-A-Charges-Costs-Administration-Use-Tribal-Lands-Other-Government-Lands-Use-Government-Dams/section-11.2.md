@@ -1,7 +1,5 @@
 ##### § 11.2 Use of government lands. #####
 
-Link to an amendment published at 83 FR 7, Jan. 2, 2018.
-
 (a) Reasonable annual charges for recompensing the United States for the use, occupancy, and enjoyment of its lands (other than lands adjoining or pertaining to Government dams or other structures owned by the United States Government) or its other property, will be fixed by the Commission.
 
 (b) *General rule.* Annual charges for the use of government lands will be payable in advance, and will be set on the basis of an annual schedule of per-acre rental fees, as set forth in Appendix A of this part. The Executive Director will publish the updated fee schedule in the Federal Register.
