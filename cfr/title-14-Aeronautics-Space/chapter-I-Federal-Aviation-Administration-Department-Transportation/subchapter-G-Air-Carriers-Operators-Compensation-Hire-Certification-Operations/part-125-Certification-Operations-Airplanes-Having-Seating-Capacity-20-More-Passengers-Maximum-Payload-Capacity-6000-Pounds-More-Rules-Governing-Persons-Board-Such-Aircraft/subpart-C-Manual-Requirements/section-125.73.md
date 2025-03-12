@@ -1,5 +1,7 @@
 ##### § 125.73 Contents. #####
 
+Link to an amendment published at 88 FR 34443, May 30, 2023.
+
 Each manual shall have the date of the last revision and revision number on each revised page. The manual must include—
 
 (a) The name of each management person who is authorized to act for the certificate holder, the person's assigned area of responsibility, and the person's duties, responsibilities, and authority;

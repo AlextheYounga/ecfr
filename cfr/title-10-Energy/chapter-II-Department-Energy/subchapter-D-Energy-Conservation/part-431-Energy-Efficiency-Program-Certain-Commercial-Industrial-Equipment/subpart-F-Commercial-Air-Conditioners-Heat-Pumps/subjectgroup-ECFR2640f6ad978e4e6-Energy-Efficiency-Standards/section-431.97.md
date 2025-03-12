@@ -1,7 +1,5 @@
 ##### § 431.97 Energy efficiency standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 18982, Mar. 30, 2023.
-
 (a) All basic models of commercial package air-conditioning and heating equipment must be tested for performance using the applicable DOE test procedure in § 431.96, be compliant with the applicable standards set forth in paragraphs (b) through (f) of this section, and be certified to the Department under 10 CFR part 429.
 
 (b) Each commercial air conditioner or heat pump (not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, and variable refrigerant flow systems) manufactured starting on the compliance date listed in the corresponding table must meet the applicable minimum energy efficiency standard level(s) set forth in Tables 1 through 6 of this section.
@@ -227,37 +225,54 @@ Table 12 to § 431.97—Minimum Efficiency Standards for Computer Room Air Condi
 |                                                                    |                              ≥240,000 Btu/h and \<760,000 Btu/h                               |           2.10           |                          1.99                           |                        October 29, 2013.                        |
 |Computer Room Air Conditioner, Glycol-Cooled with a Fluid Economizer|\<65,000 Btu/h  <br/>≥65,000 Btu/h and \<240,000 Btu/h  <br/>≥240,000 Btu/h and \<760,000 Btu/h|2.45  <br/>2.10  <br/>2.05|               2.34  <br/>1.99  <br/>1.94                |October 29, 2012.  <br/>October 29, 2013.  <br/>October 29, 2013.|
 
-(f) Each variable refrigerant flow air conditioner or heat pump manufactured on or after the compliance date listed in this table must meet the applicable minimum energy efficiency standard level(s) set forth in this section.
+(f)(1) Each variable refrigerant flow air conditioner or heat pump manufactured on or after the compliance date listed in table 13 of this section and prior to January 1, 2024, must meet the applicable minimum energy efficiency standard level(s) set forth in table 13 of this section.
 
-Table 13 to § 431.97—Minimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps
+Table 13 to Paragraph (F)(1) to § 431.97—Minimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps
 
-|                    Equipment type                     |                   Cooling capacity                   |             Heating type<sup>1</sup>              |    Efficiency level    |Compliance date: Products manufactured on and after . . .|
-|-------------------------------------------------------|------------------------------------------------------|---------------------------------------------------|------------------------|---------------------------------------------------------|
-|     VRF Multi-Split Air Conditioners (Air-Cooled)     |\<65,000 Btu/h  <br/>≥65,000 Btu/h and \<135,000 Btu/h|All  <br/>No Heating or Electric Resistance Heating|13.0 SEER  <br/>11.2 EER|          June 16, 2008.  <br/>January 1, 2010.          |
-|                                                       |                                                      |            All Other Types of Heating             |        11.0 EER        |                    January 1, 2010.                     |
-|                                                       |          ≥135,000 Btu/h and \<240,000 Btu/h          |     No Heating or Electric Resistance Heating     |        11.0 EER        |                    January 1, 2010.                     |
-|                                                       |                                                      |            All Other Types of Heating             |        10.8 EER        |                    January 1, 2010.                     |
-|                                                       |          ≥240,000 Btu/h and \<760,000 Btu/h          |     No Heating or Electric Resistance Heating     |        10.0 EER        |                    January 1, 2010.                     |
-|                                                       |                                                      |            All Other Types of Heating             |        9.8 EER         |                    January 1, 2010.                     |
-|     VRF Multi-Split Heat Pumps  <br/>(Air-Cooled)     |                    \<65,000 Btu/h                    |                        All                        |13.0 SEER  <br/>7.7 HSPF|                     June 16, 2008.                      |
-|                                                       |          ≥65,000 Btu/h and \<135,000 Btu/h           |     No Heating or Electric Resistance Heating     | 11.0 EER  <br/>3.3 COP |                    January 1, 2010.                     |
-|                                                       |                                                      |            All Other Types of Heating             | 10.8 EER  <br/>3.3 COP |                    January 1, 2010.                     |
-|                                                       |          ≥135,000 Btu/h and \<240,000 Btu/h          |     No Heating or Electric Resistance Heating     | 10.6 EER  <br/>3.2 COP |                    January 1, 2010.                     |
-|                                                       |                                                      |            All Other Types of Heating             | 10.4 EER  <br/>3.2 COP |                    January 1, 2010.                     |
-|                                                       |          ≥240,000 Btu/h and \<760,000 Btu/h          |     No Heating or Electric Resistance Heating     | 9.5 EER  <br/>3.2 COP  |                    January 1, 2010.                     |
-|                                                       |                                                      |            All Other Types of Heating             | 9.3 EER  <br/>3.2 COP  |                    January 1, 2010.                     |
-|VRF Multi-Split Heat Pumps  <br/>(Water-Source)\* \* \*|                    \<17,000 Btu/h                    |               Without heat recovery               | 12.0 EER  <br/>4.2 COP |        October 29, 2012.  <br/>October 29, 2003.        |
-|                                                       |                                                      |                With heat recovery                 | 11.8 EER  <br/>4.2 COP |        October 29, 2012.  <br/>October 29, 2003.        |
-|                                                       |           ≥17,000 Btu/h and \<65,000 Btu/h           |                        All                        | 12.0 EER  <br/>4.2 COP |                    October 29, 2003.                    |
-|                                                       |          ≥65,000 Btu/h and \<135,000 Btu/h           |                        All                        | 12.0 EER  <br/>4.2 COP |                    October 29, 2003.                    |
-|                                                       |          ≥135,000 Btu/h and \<760,000 Btu/h          |               Without heat recovery               | 10.0 EER  <br/>3.9 COP |                    October 29, 2013.                    |
-|                                                       |                                                      |                With heat recovery                 | 9.8 EER  <br/>3.9 COP  |                    October 29, 2013                     |
+|               Equipment type                |                   Cooling capacity                   |             Heating type<sup>1</sup>              |             Efficiency level              |Compliance date:  <br/>equipment  <br/>manufactured on and after . . .|
+|---------------------------------------------|------------------------------------------------------|---------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------|
+|VRF Multi-Split Air Conditioners (Air-Cooled)|\<65,000 Btu/h  <br/>≥65,000 Btu/h and \<135,000 Btu/h|All  <br/>No Heating or Electric Resistance Heating|         13.0 SEER  <br/>11.2 EER          |                June 16, 2008.  <br/>January 1, 2010.                 |
+|                                             |                                                      |            All Other Types of Heating             |                 11.0 EER                  |                           January 1, 2010.                           |
+|                                             |          ≥135,000 Btu/h and \<240,000 Btu/h          |     No Heating or Electric Resistance Heating     |                 11.0 EER                  |                           January 1, 2010.                           |
+|                                             |                                                      |            All Other Types of Heating             |                 10.8 EER                  |                           January 1, 2010.                           |
+|                                             |          ≥240,000 Btu/h and \<760,000 Btu/h          |     No Heating or Electric Resistance Heating     |                 10.0 EER                  |                           January 1, 2010.                           |
+|                                             |                                                      |            All Other Types of Heating             |                  9.8 EER                  |                           January 1, 2010.                           |
+|   VRF Multi-Split Heat Pumps (Air-Cooled)   |\<65,000 Btu/h  <br/>≥65,000 Btu/h and \<135,000 Btu/h|All  <br/>No Heating or Electric Resistance Heating|13.0 SEER, 7.7 HSPF  <br/>11.0 EER, 3.3 COP|                June 16, 2008.  <br/>January 1, 2010.                 |
+|                                             |                                                      |            All Other Types of Heating             |             10.8 EER, 3.3 COP             |                           January 1, 2010.                           |
+|                                             |          ≥135,000 Btu/h and \<240,000 Btu/h          |     No Heating or Electric Resistance Heating     |             10.6 EER, 3.2 COP             |                           January 1, 2010.                           |
+|                                             |                                                      |            All Other Types of Heating             |             10.4 EER, 3.2 COP             |                           January 1, 2010.                           |
+|                                             |          ≥240,000 Btu/h and \<760,000 Btu/h          |     No Heating or Electric Resistance Heating     |             9.5 EER, 3.2 COP              |                           January 1, 2010.                           |
+|                                             |                                                      |            All Other Types of Heating             |             9.3 EER, 3.2 COP              |                           January 1, 2010.                           |
+|  VRF Multi-Split Heat Pumps (Water-Source)  |                    \<17,000 Btu/h                    |               Without Heat Recovery               |             12.0 EER, 4.2 COP             |                 October 29, 2012. October 29, 2003.                  |
+|                                             |                                                      |                With Heat Recovery                 |             11.8 EER, 4.2 COP             |                 October 29, 2012. October 29, 2003.                  |
+|                                             |           ≥17,000 Btu/h and \<65,000 Btu/h           |                        All                        |             12.0 EER, 4.2 COP             |                          October 29, 2003.                           |
+|                                             |          ≥65,000 Btu/h and \<135,000 Btu/h           |                        All                        |             12.0 EER, 4.2 COP             |                          October 29, 2003.                           |
+|                                             |          ≥135,000 Btu/h and \<760,000 Btu/h          |               Without Heat Recovery               |             10.0 EER, 3.9 COP             |                          October 29, 2013.                           |
+|                                             |                                                      |                With Heat Recovery                 |             9.8 EER, 3.9 COP              |                          October 29, 2013.                           |
 
-<sup>1</sup> VRF Multi-Split Heat Pumps (Air-Cooled) with heat recovery fall under the category of “All Other Types of Heating” unless they also have electric resistance heating, in which case it falls under the category for “No Heating or Electric Resistance Heating.”
+<sup>1</sup> VRF multi-split heat pumps (air-cooled) with heat recovery fall under the category of “All Other Types of Heating” unless they also have electric resistance heating, in which case it falls under the category for “No Heating or Electric Resistance Heating.”
+
+(2) Each variable refrigerant flow air conditioner or heat pump (except air-cooled systems with cooling capacity less than 65,000 Btu/h) manufactured on or after January 1, 2024, must meet the applicable minimum energy efficiency standard level(s) set forth in table 14 of this section.
+
+Table 14 to Paragraph (F)(2) to § 431.97—Updated Minimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps
+
+|               Equipment type                |          Size category           |                           Heating type                           |             Minimum efficiency              |
+|---------------------------------------------|----------------------------------|------------------------------------------------------------------|---------------------------------------------|
+|VRF Multi-Split Air Conditioners (Air-Cooled)|   ≥65,000 and \<135,000 Btu/h    |                               All                                |                 15.5 IEER.                  |
+|                                             |   ≥135,000 and \<240,000 Btu/h   |                               All                                |                 14.9 IEER.                  |
+|                                             |≥240,000 Btu/h and \<760,000 Btu/h|                               All                                |                 13.9 IEER.                  |
+|   VRF Multi-Split Heat Pumps (Air-Cooled)   |   ≥65,000 and \<135,000 Btu/h    |                 Heat Pump without Heat Recovery                  |             14.6 IEER, 3.3 COP.             |
+|                                             |                                  |                   Heat Pump with Heat Recovery                   |             14.4 IEER, 3.3 COP.             |
+|                                             |   ≥135,000 and \<240,000 Btu/h   |Heat Pump without Heat Recovery  <br/>Heat Pump with Heat Recovery|13.9 IEER, 3.2 COP.  <br/>13.7 IEER, 3.2 COP.|
+|                                             |≥240,000 Btu/h and \<760,000 Btu/h|Heat Pump without Heat Recovery  <br/>Heat Pump with Heat Recovery|12.7 IEER, 3.2 COP.  <br/>12.5 IEER, 3.2 COP.|
+|  VRF Multi-Split Heat Pumps (Water-Source)  |          \<65,000 Btu/h          |Heat Pump without Heat Recovery  <br/>Heat Pump with Heat Recovery|16.0 IEER, 4.3 COP.  <br/>15.8 IEER, 4.3 COP.|
+|                                             |   ≥65,000 and \<135,000 Btu/h    |Heat Pump without Heat Recovery  <br/>Heat Pump with Heat Recovery|16.0 IEER, 4.3 COP.  <br/>15.8 IEER, 4.3 COP.|
+|                                             |   ≥135,000 and \<240,000 Btu/h   |Heat Pump without Heat Recovery  <br/>Heat Pump with Heat Recovery|14.0 IEER, 4.0 COP.  <br/>13.8 IEER, 4.0 COP.|
+|                                             |≥240,000 Btu/h and \<760,000 Btu/h|Heat Pump without Heat Recovery  <br/>Heat Pump with Heat Recovery|12.0 IEER, 3.9 COP.  <br/>11.8 IEER, 3.9 COP.|
 
 (g) Each direct expansion-dedicated outdoor air system manufactured on or after the compliance date listed in table 14 to this section must meet the applicable minimum energy efficiency standard level(s) set forth in this section.
 
-Table 14 to § 431.97—Minimum Efficiency Standards for Direct Expansion-Dedicated Outdoor Air Systems
+Table 15 to § 431.97—Minimum Efficiency Standards for Direct Expansion-Dedicated Outdoor Air Systems
 
 |                Equipment type                |                                 Subcategory                                  |        Efficiency level        |Compliance date: equipment manufactured starting on . . .|
 |----------------------------------------------|------------------------------------------------------------------------------|--------------------------------|---------------------------------------------------------|
@@ -270,4 +285,4 @@ Table 14 to § 431.97—Minimum Efficiency Standards for Direct Expansion-Dedica
 |                                              |  (WSHP)—Water-source heat pumps without ventilation energy recovery systems  |ISMRE2 = 3.8  <br/>ISCOP2 = 2.13|                      May 1, 2024.                       |
 |                                              |(WSHP w/VERS)—Water-source heat pumps with ventilation energy recovery systems|ISMRE2 = 4.6  <br/>ISCOP2 = 4.04|                      May 1, 2024.                       |
 
-[77 FR 28991, May 16, 2012, as amended at 77 FR 76830, Dec. 31, 2012; 80 FR 42664, July 17, 2015; 80 FR 43212, July 21, 2015; 80 FR 56895, Sept. 21, 2015; 80 FR 57500, Sept. 23, 2015; 81 FR 2529, Jan. 15, 2016; 81 FR 53907, Aug. 15, 2016; 87 FR 65668, Nov. 1, 2022]
+[77 FR 28991, May 16, 2012, as amended at 77 FR 76830, Dec. 31, 2012; 80 FR 42664, July 17, 2015; 80 FR 43212, July 21, 2015; 80 FR 56895, Sept. 21, 2015; 80 FR 57500, Sept. 23, 2015; 81 FR 2529, Jan. 15, 2016; 81 FR 53907, Aug. 15, 2016; 87 FR 65668, Nov. 1, 2022; 88 FR 18992, Mar. 30, 2023]

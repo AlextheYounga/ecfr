@@ -1,14 +1,12 @@
 ##### § 128.402 When may a joint venture submit an offer on a VOSB or SDVOSB contract? #####
 
-Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
-
 (a) *General.* A certified VOSB or SDVOSB may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a VOSB or SDVOSB contract. The joint venture itself need not be a certified VOSB or SDVOSB. Where this section references the requirements of a VOSB or SDVOSB joint venture partner, the VOSB or SDVOSB status of that joint venture partner must correspond with the type of award (*e.g.,* to be eligible for a SDVOSB contract, a SDVOSB joint venture partner must be the managing venturer of the joint venture).
 
 (1) The VOSB or SDVOSB joint venture partner must be certified in accordance with this part;
 
 (2) The joint venture agreement must comply with the requirements set forth in this part; and
 
-(3) A VOSB or SDVOSB cannot be a joint venture partner on more than one joint venture that submits an offer for a specific contract set-aside or reserved for VOSBs or SDVOSBs.
+(3) A VOSB or SDVOSB cannot be a joint venture partner on more than one joint venture that submits an offer for a specific contract or order set-aside or reserved for VOSBs or SDVOSBs.
 
 (b) *Size.* (1) A joint venture of at least one certified VOSB or SDVOSB and one or more other business concerns may submit an offer as a small business for a competitive VOSB or SDVOSB procurement or sale, or be awarded a sole source VOSB or SDVOSB contract, so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.
 
@@ -91,3 +89,5 @@ Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
 (2) Failure to perform a contract in accordance with the joint venture agreement or limitations on subcontracting requirements in paragraph (b)(3) of this section; or
 
 (3) Failure to submit the certification required by paragraph (b)(4) of this section or comply with paragraph (b)(7) of this section.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]

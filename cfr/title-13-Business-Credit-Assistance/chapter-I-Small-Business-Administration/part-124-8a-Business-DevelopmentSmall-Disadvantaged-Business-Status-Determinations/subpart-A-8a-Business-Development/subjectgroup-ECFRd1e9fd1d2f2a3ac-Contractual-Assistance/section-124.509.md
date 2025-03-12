@@ -1,7 +1,5 @@
 ##### § 124.509 What are non-8(a) business activity targets? #####
 
-Link to an amendment published at 88 FR 26208, Apr. 27, 2023.Link to an amendment published at 88 FR 28985, May 5, 2023.
-
 (a) *General.* (1) To ensure that Participants do not develop an unreasonable reliance on 8(a) awards, and to ease their transition into the competitive marketplace after graduating from the 8(a) BD program, Participants must make good faith efforts to obtain business outside the 8(a) BD program. Work performed by an 8(a) Participant for any Federal department or agency other than through an 8(a) contract, including work performed on orders under the General Services Administration Multiple Award Schedule program, and work performed as a subcontractor, including work performed as a subcontractor to another 8(a) Participant on an 8(a) contract, qualifies as work performed outside the 8(a) BD program.
 
 (2) During both the developmental and transitional stages of the 8(a) BD program, a Participant must make good faith efforts, including following a reasonable marketing strategy, to attain the targeted dollar levels of non-8(a) revenue established in its business plan. It must attempt to use the 8(a) BD program as a resource to strengthen the firm for economic viability when program benefits are no longer available.
@@ -9,8 +7,6 @@ Link to an amendment published at 88 FR 26208, Apr. 27, 2023.Link to an amendmen
 (b) *Required non-8(a) business activity targets during transitional stage*—(1) *General.* During the transitional stage of the 8(a) BD program, a Participant must achieve certain targets of non-8(a) contract revenue (i.e., revenue from other than sole source or competitive 8(a) contracts). These targets are called non-8(a) business activity targets and are expressed as a percentage of total revenue. The targets call for an increase in non-8(a) revenue over time.
 
 (2) *Non-8(a) business activity targets*—(i) During their transitional stage of program participation, Participants must meet the following non-8(a) business activity targets each year:
-
-Table 1 to Paragraph (b)(2)(i)
 
 |Participant's year in the transitional stage|Non-8(a) business activity targets  <br/>(required minimum  <br/>non-8(a) revenue  <br/>as a percentage of  <br/>total revenue)|
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -26,15 +22,23 @@ Table 1 to Paragraph (b)(2)(i)
 
 (4) *Certification of compliance.* A Participant must certify as part of its offer that it complies with the applicable non-8(a) business activity target or with the measures imposed by SBA under paragraph (d) of this section before it can receive any 8(a) contract during the transitional stage of the 8(a) BD program.
 
-(c) *Reporting and verification of business activity.* (1) Once admitted to the 8(a) BD program, a Participant must provide to SBA as part of its annual review:
+(c) *Reporting and verification of business activity.* (1) As part of its annual review after being admitted to the 8(a) BD program, a Participant must provide to SBA within 30 days from the end of its program year:
 
 (i) Annual financial statements with a breakdown of 8(a) and non-8(a) revenue in accord with § 124.602; and
 
-(ii) An annual report within 30 days from the end of the program year of all non-8(a) contracts, options, and modifications affecting price executed during the program year.
+(ii) An estimate of 8(a) and non-8(a) revenue derived during the program year, which may be obtained from monthly, quarterly or semi-annual interim financial statements or otherwise.
 
 (2) At the end of each year of participation in the transitional stage, the BOS assigned to work with the Participant will review the Participant's total revenues to determine whether the non-8(a) revenues have met the applicable target. In determining compliance, SBA will compare all 8(a) revenues received during the year, including those from options and modifications, to all non-8(a) revenues received during the year.
 
 (d) *Consequences of not meeting competitive business mix targets.* (1) Beginning at the end of the first year in the transitional stage (the fifth year of participation in the 8(a) BD program), any firm that does not meet its applicable competitive business mix target for the just completed program year must demonstrate to SBA the specific efforts it made during that year to obtain non-8(a) revenue.
+
+(i) SBA will determine whether the Participant made good faith efforts to attain the targeted non-8(a) revenues during the just completed program year. A Participant may establish that it made good faith efforts by demonstrating to SBA that:
+
+(A) It submitted offers for one or more non-8(a) procurements which, if awarded to the Participant during its just completed program year, would have given the Participant sufficient revenues to achieve the applicable non-8(a) business activity target during that same program year. In such a case, the Participant must provide copies of offers submitted in response to solicitations and documentary evidence of its projected revenues under these missed contract opportunities; or
+
+(B) Individual extenuating circumstances adversely impacted its efforts to obtain non-8(a) revenues, including but not limited to a reduction in government funding, continuing resolutions and budget uncertainties, increased competition driving prices down, or having one or more prime contractors award less work to the Participant than originally contemplated. Where available, supporting information and documentation must be included to show how such extenuating circumstances specifically prevented the Participant from attaining its targeted non-8(a) revenues during the just completed program year.
+
+(ii) The Participant bears the burden of establishing that it made good faith efforts to meet its non-8(a) business activity target. SBA's determination as to whether a Participant made good faith efforts is final and no appeal may be taken with respect to that decision.
 
 (2) If SBA determines that an 8(a) Participant has failed to meet its applicable competitive business mix target during any program year in the transitional stage of program participation, SBA will increase its monitoring of the Participant's contracting activity during the ensuing program year.
 
@@ -64,4 +68,4 @@ Example 1 to paragraph (d)(4). Firm A had $10 million in total revenue during ye
 
 (4) A waiver generally applies to a specific sole source opportunity. If SBA grants a waiver with respect to a specific procurement, the firm will be able to self-market its capabilities to the applicable procuring activity with respect to that procurement. If the Participant seeks an additional sole source opportunity, it must request a waiver with respect to that specific opportunity. Where, however, a Participant can demonstrate that the same extenuating circumstances beyond its control affect its ability to receive specific multiple 8(a) contracts, one waiver can apply to those multiple contract opportunities.
 
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45754, Sept. 4, 2009; 76 FR 8261, Feb. 11, 2011; 85 FR 66189, Oct. 16, 2020; 86 FR 2533, Jan. 13, 2021; 86 FR 38538, July 22, 2021]
+[63 FR 35739, June 30, 1998, as amended at 74 FR 45754, Sept. 4, 2009; 76 FR 8261, Feb. 11, 2011; 85 FR 66189, Oct. 16, 2020; 86 FR 2533, Jan. 13, 2021; 86 FR 38538, July 22, 2021; 88 FR 26208, Apr. 27, 2023]

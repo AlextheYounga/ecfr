@@ -1,5 +1,7 @@
 ##### § 91.1025 Program operating manual contents. #####
 
+Link to an amendment published at 88 FR 34443, May 30, 2023.
+
 Each program operating manual must have the date of the last revision on each revised page. Unless otherwise authorized by the Administrator, the manual must include the following:
 
 (a) Procedures for ensuring compliance with aircraft weight and balance limitations;

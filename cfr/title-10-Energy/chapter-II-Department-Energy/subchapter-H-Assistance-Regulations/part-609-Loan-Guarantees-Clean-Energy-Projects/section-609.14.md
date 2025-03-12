@@ -1,0 +1,3 @@
+##### § 609.14 Full faith and credit and incontestability. #####
+
+The full faith and credit of the United States is pledged to the payment of principal and interest of Guaranteed Obligations pursuant to Guarantees issued in accordance with Title XVII and this part. The issuance by DOE of a Guarantee shall be conclusive evidence that it has been properly obtained; that the underlying loan qualified for such Guarantee; and that, but for fraud or material misrepresentation by the Holder, except when the Holder is the Federal Financing Bank, such Guarantee shall be legal, valid, binding, and enforceable against DOE in accordance with its terms.

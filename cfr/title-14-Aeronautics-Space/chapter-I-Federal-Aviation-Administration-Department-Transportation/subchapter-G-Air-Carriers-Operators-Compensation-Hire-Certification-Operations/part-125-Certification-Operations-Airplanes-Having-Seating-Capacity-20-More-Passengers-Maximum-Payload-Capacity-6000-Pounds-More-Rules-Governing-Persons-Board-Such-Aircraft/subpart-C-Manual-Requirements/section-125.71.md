@@ -1,5 +1,7 @@
 ##### § 125.71 Preparation. #####
 
+Link to an amendment published at 88 FR 34443, May 30, 2023.
+
 (a) Each certificate holder shall prepare and keep current a manual setting forth the certificate holder's procedures and policies acceptable to the Administrator. This manual must be used by the certificate holder's flight, ground, and maintenance personnel in conducting its operations. However, the Administrator may authorize a deviation from this paragraph if the Administrator finds that, because of the limited size of the operation, all or part of the manual is not necessary for guidance of flight, ground, or maintenance personnel.
 
 (b) Each certificate holder shall maintain at least one copy of the manual at its principal operations base.

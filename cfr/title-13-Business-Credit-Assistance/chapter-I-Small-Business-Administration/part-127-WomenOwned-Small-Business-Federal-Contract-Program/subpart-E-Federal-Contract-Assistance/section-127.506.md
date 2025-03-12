@@ -1,12 +1,12 @@
 ##### § 127.506 May a joint venture submit an offer on an EDWOSB or WOSB requirement? #####
 
-Link to an amendment published at 88 FR 26215, Apr. 27, 2023.
-
 A joint venture, including those between a protégé and a mentor under § 125.9 of this chapter (or, if also an 8(a) BD Participant, under § 124.520 of this chapter), may submit an offer on a WOSB Program contract if the joint venture meets all of the following requirements:
 
 (a)(1) A joint venture of at least one WOSB or EDWOSB and one or more other business concerns may submit an offer as a small business for a WOSB Program procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.
 
 (2) A joint venture between a protégé firm and its SBA-approved mentor (*see* § 125.9 and § 124.520 of this chapter) will be deemed small provided the protégé qualifies as small for the size standard corresponding to the NAICS code assigned to the WOSB Program procurement or sale.
+
+(3) A WOSB or EDWOSB cannot be a joint venture partner on more than one joint venture that submits an offer for a specific contract or order set-aside or reserved for WOSBs or EDWOSBs.
 
 (b) The EDWOSB or WOSB participant of the joint venture must be designated in SAM (or any successor system)as an EDWOSB or WOSB;
 
@@ -80,4 +80,4 @@ A joint venture, including those between a protégé and a mentor under § 125.9
 
 (l) Any person with information concerning a joint venture's compliance with the performance of work requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 78 FR 61147, Oct. 2, 2013; 81 FR 34265, May 31, 2016; 81 FR 48593, July 25, 2016; 81 FR 94942, Dec. 27, 2016; 85 FR 66199, Oct. 16, 2020; 86 FR 2960, Jan. 14, 2021]
+[75 FR 62282, Oct. 7, 2010, as amended at 78 FR 61147, Oct. 2, 2013; 81 FR 34265, May 31, 2016; 81 FR 48593, July 25, 2016; 81 FR 94942, Dec. 27, 2016; 85 FR 66199, Oct. 16, 2020; 86 FR 2960, Jan. 14, 2021; 88 FR 26215, Apr. 27, 2023]

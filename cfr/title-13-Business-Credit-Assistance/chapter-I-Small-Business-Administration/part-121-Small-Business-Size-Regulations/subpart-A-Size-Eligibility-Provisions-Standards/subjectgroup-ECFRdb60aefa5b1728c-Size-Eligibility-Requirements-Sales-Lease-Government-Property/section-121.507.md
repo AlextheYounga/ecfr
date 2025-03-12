@@ -1,7 +1,5 @@
 ##### § 121.507 What are the size standards and other requirements for the purchase of Government-owned timber (other than Special Salvage Timber)? #####
 
-Link to an amendment published at 88 FR 26201, Apr. 27, 2023.
-
 (a) To be small for purposes of the sale of Government-owned timber (other than Special Salvage Timber) a concern must:
 
 (1) Be primarily engaged in the logging or forest products industry;
@@ -29,3 +27,9 @@ Link to an amendment published at 88 FR 26201, Apr. 27, 2023.
 (2) The species, grades and volumes of sawlogs sold.
 
 (c) For a period of three years following the date upon which a concern purchases timber, it must by contract require all small business repurchasers of the sawlogs or timber it purchased under the small business set-aside to maintain the records described in paragraph (b) of this section.
+
+(d) The Director of Government Contracting may waive one or more of the requirements set forth in paragraphs (a)(3) and (a)(4) of this section in limited circumstances where conditions make the requirement(s) impractical or prohibitive. A request for waiver must be made to the Director of Government Contracting and contain facts, arguments, and any appropriate supporting documentation as to why a waiver should be granted.
+
+(e) Sawtimber volume from Integrated Resource Timber Contracts shall be included in the Computation of Market Share and set-aside trigger.
+
+[61 FR 3286, Jan. 31, 1996, as amended at 88 FR 26201, Apr. 27, 2023]

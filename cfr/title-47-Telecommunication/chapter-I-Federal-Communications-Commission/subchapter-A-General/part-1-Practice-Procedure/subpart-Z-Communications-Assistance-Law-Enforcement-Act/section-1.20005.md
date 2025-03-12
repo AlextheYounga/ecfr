@@ -1,5 +1,7 @@
 ##### § 1.20005 Submission of policies and procedures and Commission review. #####
 
+Link to an amendment published at 88 FR 34454, May 30, 2023.
+
 (a) Each telecommunications carrier shall file with the Commission the policies and procedures it uses to comply with the requirements of this subchapter. These policies and procedures shall be filed with the Federal Communications Commission within 90 days of the effective date of these rules, and thereafter, within 90 days of a carrier's merger or divestiture or a carrier's amendment of its existing policies and procedures.
 
 (b) The Commission shall review each telecommunications carrier's policies and procedures to determine whether they comply with the requirements of §§ 1.20003 and 1.20004.

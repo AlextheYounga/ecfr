@@ -1,7 +1,5 @@
 ##### § 124.303 What is termination? #####
 
-Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
-
 (a) SBA may terminate the participation of a concern in the 8(a) BD program prior to the expiration of the concern's Program Term for good cause. Examples of good cause include, but are not limited to, the following:
 
 (1) Submission of false information in the concern's 8(a) BD application, regardless of whether correct information would have caused the concern to be denied admission to the program, and regardless of whether correct information was given to SBA in accompanying documents or by other means.
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
 
 (14) Unauthorized use of SBA direct or guaranteed loan proceeds or violation of an SBA loan agreement.
 
-(15) Submission by or on behalf of a Participant of false information to SBA, including false certification of compliance with non-8(a) business activity targets under § 124.507 or failure to report changes that adversely affect the program eligibility of an applicant or program participant under § 124.204 and § 124.112, where responsible officials of the 8(a) BD Participant knew or should have known the submission to be false.
+(15) Submission by or on behalf of a Participant of false information to SBA, including false certification of compliance with non-8(a) business activity targets under § 124.509 or failure to report changes that adversely affect the program eligibility of an applicant or program participant under § 124.204 and § 124.112, where responsible officials of the 8(a) BD Participant knew or should have known the submission to be false.
 
 (16) Debarment, suspension, voluntary exclusion, or ineligibility of the concern or its principals pursuant to 2 CFR parts 180 and 2700 or FAR subpart 9.4 (48 CFR part 9, subpart 9.4). \* \* \*
 
@@ -46,4 +44,4 @@ Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
 
 (b) The examples of good cause listed in paragraph (a) of this section are intended to be illustrative only. Other grounds for terminating a Participant from the 8(a) BD program for cause may exist and may be used by SBA.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8258, Feb. 11, 2011]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8258, Feb. 11, 2011; 88 FR 26205, Apr. 27, 2023]

@@ -1,7 +1,5 @@
 ##### § 121.1001 Who may initiate a size protest or request a formal size determination? #####
 
-Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
-
 (a) *Size Status Protests.* (1) For SBA's Small Business Set-Aside Program, including the Property Sales Program, or any instance in which a procurement or order has been restricted to or reserved for small businesses or a particular group of small businesses (including a partial set-aside), the following entities may file a size protest in connection with a particular procurement, sale or order:
 
 (i) Any offeror that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
@@ -50,7 +48,7 @@ Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
 
 (6) For SBA's HUBZone program, the following entities may protest in connection with a particular HUBZone procurement:
 
-(i) Any concern that submits an offer for a specific HUBZone set-aside procurement that the contracting officer has not eliminated for reasons unrelated to size;
+(i) Any offeror for a specific HUBZone set-aside contract that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
 
 (ii) Any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given acertified HUBZone small business concern;
 
@@ -68,7 +66,7 @@ Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
 
 (8) For SBA's Service Disabled Veteran-Owned Small Business Concern program, the following entities may protest in connection with a particular service-disabled veteran-owned procurement:
 
-(i) Any concern that submits an offer for a specific service-disabled veteran-owned small business set-aside contract;
+(i) Any offeror for a specific service-disabled veteran-owned small business set-aside contract that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
 
 (ii) The contracting officer;
 
@@ -78,7 +76,7 @@ Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
 
 (9) For SBA's WOSB Federal Contracting Program, the following entities may protest:
 
-(i) Any concern that submits an offer for a specific requirement set aside for WOSBs or WOSBs owned by one or more women who are economically disadvantaged (EDWOSB) pursuant to part 127 of this chapter;
+(i) Any offeror for a specific contract set aside for WOSBs or WOSBs owned by one or more women who are economically disadvantaged (EDWOSB) that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
 
 (ii) The contracting officer;
 
@@ -102,13 +100,13 @@ Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
 
 (B) The Director of the Division of Program Certification and Eligibility or the Associate Administrator for Business Development.
 
-(ii) Concerning individual sole source 8(a) contract awards, the following entities may request a formal size determination:
+(ii) Concerning individual sole source and competitive 8(a) contract awards where SBA cannot verify the eligibility of the apparent successful offeror because SBA finds the concern to be other than small, the following entities may request a formal size determination:
 
-(A) The Participant nominated for award of the particular sole source contract;
+(A) The Participant nominated for award of the particular sole source contract, or found to be ineligible for a competitive 8(a) contract due to its size;
 
 (B) The SBA program official with authority to execute the 8(a) contract or, where applicable, the procuring activity contracting officer who has been delegated SBA's 8(a) contract execution functions; or
 
-(C) The SBA District Director in the district office that services the Participant, or the Associate Administrator for Business Development.
+(C) The SBA District Director in the district office that services the Participant, the Associate Administrator for Business Development, or the Associate General Counsel for Procurement Law.
 
 (3) For SBA's Certificate of Competency Program, the following entities may request a formal size determination:
 
@@ -156,4 +154,4 @@ Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
 
 (13) The SBA Inspector General may request a formal size determination with respect to any of the programs identified in paragraph (b) of this section.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 85 FR 66182, Oct. 16, 2020]
+[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023]

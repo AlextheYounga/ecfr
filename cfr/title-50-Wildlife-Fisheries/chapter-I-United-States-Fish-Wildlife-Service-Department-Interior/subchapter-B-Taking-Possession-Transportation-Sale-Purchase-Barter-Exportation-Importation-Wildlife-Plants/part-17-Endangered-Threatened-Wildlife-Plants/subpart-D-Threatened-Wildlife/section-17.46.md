@@ -1,7 +1,5 @@
 ##### § 17.46 Special rules—crustaceans. #####
 
-Link to an amendment published at 88 FR 25538, Apr. 27, 2023.
-
 (a) Madison Cave isopod (*Antrolana lira*). (1) All provisions of § 17.31 (a) and (b) apply to this species except that it may be taken for scientific purposes without Federal permits issued pursuant to these regulations: *Provided,* that all other Federal, State, or local laws, regulations, ordinances or other restrictions or limitations have been complied with.
 
 (b) Panama City crayfish (*Procambarus econfinae*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Panama City crayfish. Except as provided under paragraph (b)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
@@ -60,4 +58,52 @@ Link to an amendment published at 88 FR 25538, Apr. 27, 2023.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[47 FR 43701, Oct. 4, 1982, as amended at 87 FR 576, Jan. 5, 2022]
+(c) Big Creek crayfish (*Faxonius peruncus*) and St. Francis River crayfish (*Faxonius quadruncus*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Big Creek crayfish and the St. Francis River crayfish. Except as provided under paragraph (c)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife. Activities that could result in take are those that:
+
+(A) Impact crayfish habitat, riparian areas adjacent to crayfish sites, or habitat between connecting sites such that the species' reproduction or survival will be impacted or the effects of woodland crayfish invasion will be exacerbated. Such activities include, but are not limited to:
+
+(*1*) Construction of instream low-water crossings;
+
+(*2*) Destruction of riparian habitat that results in excessive sedimentation;
+
+(*3*) Bridge construction; and
+
+(*4*) Gravel mining.
+
+(B) Lead to the introduction of heavy metals into streams. Such activities include, but are not limited to, heavy metal mining.
+
+(C) Appreciably negatively affect water quality, chemistry, or quantity such that the species' reproduction or survival will be impacted. Such activities may include, but are not limited to, the release of wastewater effluent and agricultural runoff.
+
+(D) Impact hydrological flows such that the species' reproduction or survival will be impacted. Such activities include, but are not limited to, construction of dams, modification of stream channels, and surface and groundwater withdrawals.
+
+(E) Facilitate the spread of woodland crayfish or introduce additional woodland crayfish in occupied Big Creek crayfish or St. Francis River crayfish stream reaches. Such activities may include, but are not limited to, bait bucket dumping.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Restoration activities or other activities that will result in an overall benefit to one or both of the species or their habitat that are completed in coordination with the Missouri Ecological Services Field Office. Such activities include, but are not limited to, stream bank stabilization, habitat restoration, heavy metal remediation, and replacement of low water crossings that obstruct movement of aquatic organisms with crossings that facilitate the movement of aquatic species (aquatic organism passages).
+
+(B) A person conducting research or education under a valid Missouri Department of Conservation Wildlife Collector's permit.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+[47 FR 43701, Oct. 4, 1982, as amended at 87 FR 576, Jan. 5, 2022; 88 FR 25538, Apr. 27, 2023]

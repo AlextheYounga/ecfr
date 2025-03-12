@@ -1,7 +1,5 @@
 ##### § 126.200 What requirements must a concern meet to be eligible as a certified HUBZone small business concern? #####
 
-Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
-
 (a) *Ownership.* In order to be eligible for HUBZone certification and to remain certified, a small business concern must be owned in accordance with this paragraph. The concern must be:
 
 (1) At least 51% owned and controlled by one or more individuals who are United States citizens;
@@ -16,9 +14,9 @@ Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
 
 (6) At least 51% owned by one or more NHOs, or by a corporation that is wholly owned by one or more NHOs.
 
-(b) *Size.* (1) An applicant concern, together with its affiliates, must qualify as a small business concern under the size standard corresponding to its primary industry classification as defined in part 121 of this chapter.
+(b) *Size.* (1) In order to be eligible for HUBZone certification and remain eligible as a certified HUBZone small business concern, a concern, together with its affiliates, must qualify as a small business concern as defined in part 121 of this chapter under the size standard corresponding to any NAICS code listed in its profile in the System for Award Management (*SAM.gov*).
 
-(2) In order to remain eligible as a certified HUBZone small business concern, a concern must qualify as small under the size standard corresponding to one or more NAICS codes in which it does business.
+(2) In order to be eligible for a HUBZone contract, a certified HUBZone small business concern must qualify as small under the size standard corresponding to the NAICS code assigned to the HUBZone contract.
 
 (3) If the concern is a small agricultural cooperative, in determining size, the small agricultural cooperative is treated as a “business concern” and its member shareholders are not considered affiliated with the cooperative by virtue of their membership in the cooperative.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
 
 (g) *Suspension and Debarment.* In order to be eligible for HUBZone certification and to remain certified, the concern and any of its owners must not have an active exclusion in the System for Award Management, available at *www.SAM.gov,* at the time of application.
 
-[84 FR 65242, Nov. 26, 2019, as amended at 86 FR 61673, Nov. 8, 2021]
+[84 FR 65242, Nov. 26, 2019, as amended at 86 FR 61673, Nov. 8, 2021; 88 FR 26212, Apr. 27, 2023]

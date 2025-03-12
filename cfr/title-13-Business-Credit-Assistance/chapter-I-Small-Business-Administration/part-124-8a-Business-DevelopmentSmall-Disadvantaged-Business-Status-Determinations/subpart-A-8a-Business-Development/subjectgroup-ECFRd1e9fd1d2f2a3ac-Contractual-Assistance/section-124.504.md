@@ -1,7 +1,5 @@
 ##### § 124.504 What circumstances limit SBA's ability to accept a procurement for award as an 8(a) contract, and when can a requirement be released from the 8(a) BD program? #####
 
-Link to an amendment published at 88 FR 26207, Apr. 27, 2023.
-
 SBA will not accept a procurement for award as an 8(a) contract if the circumstances identified in paragraphs (a) through (d) of this section exist.
 
 (a) *Prior intent to award as a small business set-aside, or use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs.* The procuring activity issued a solicitation for or otherwise expressed publicly a clear intent to award the contract as a small business set-aside, or to use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs prior to offering the requirement to SBA for award as an 8(a) contract. However, the AA/BD may permit the acceptance of the requirement under extraordinary circumstances.
@@ -36,7 +34,7 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (4) SBA does not typically consider the value of a bridge contract when determining whether an offered procurement is a new requirement. A bridge contract is meant to be a temporary stop-gap measure intended to ensure the continuation of service while an agency finalizes a long-term procurement approach.
 
-(d) *Release for non-8(a) or limited 8(a) competition.* (1) Except as set forth in paragraph (d)(4) of this section, where a procurement is awarded as an 8(a) contract, its follow-on requirement must remain in the 8(a) BD program unless SBA agrees to release it for non-8(a) competition. Where a procurement will contain work currently performed under one or more 8(a) contracts, and the procuring agency determines that the procurement should not be considered a follow-on requirement to the 8(a) contract(s), the procuring agency must notify SBA that it intends to procure such specified work outside the 8(a) BD program through a requirement that it considers to be new. Additionally, a procuring agency must notify SBA where it seeks to reprocure a follow-on requirement through a pre-existing limited contracting vehicle which is not available to all 8(a) BD Program Participants and the previous/current 8(a) award was not so limited. If a procuring agency would like to fulfill a follow-on requirement outside of the 8(a) BD program, it must make a written request to and receive the concurrence of the AA/BD to do so. In determining whether to release a requirement from the 8(a) BD program, SBA will consider:
+(d) *Release for non-8(a) or limited 8(a) competition.* (1) Except as set forth in paragraph (d)(4) of this section, where a procurement is awarded as an 8(a) contract, its follow-on requirement must remain in the 8(a) BD program unless SBA agrees to release it for non-8(a) competition. Where a procurement will contain work currently performed under one or more 8(a) contracts, and the procuring agency determines that the procurement should not be considered a follow-on requirement to the 8(a) contract(s), the procuring agency must coordinate with the SBA District Office servicing the 8(a) incumbent firm and the SBA Procurement Center Representative assigned to the contracting activity initiating a non-8(a) procurement action that it intends to procure such specified work outside the 8(a) BD program through a requirement that it considers to be new. Such notification must identify the scope and dollar value of any work previously performed through another 8(a) contract and the scope and dollar value of the contract determined to be new. Additionally, a procuring agency must coordinate with SBA where it seeks to reprocure a follow-on requirement through a pre-existing limited contracting vehicle which is not available to all 8(a) BD Program Participants and the previous/current 8(a) award was not so limited. If a procuring agency would like to fulfill a follow-on requirement outside of the 8(a) BD program, it must make a written request to and receive the concurrence of the AA/BD to do so. In determining whether to release a requirement from the 8(a) BD program, SBA will consider:
 
 (i) Whether the agency has achieved its SDB goal;
 
@@ -56,7 +54,7 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (ii) In considering release under paragraph (2), SBA will balance the importance of the requirement to the concern's business development needs against the business development needs of other Participants that are qualified to perform the requirement. This determination will include consideration of whether rejection of the requirement would seriously reduce the pool of similar types of contracts available for award as 8(a) contracts. SBA will also seek the views of the procuring agency.
 
-(3) SBA will release a requirement under this paragraph only where the procuring activity agrees to procure the requirement as a small business, HUBZone, SDVO small business, or WOSB set-aside.
+(3) SBA may release a requirement under this paragraph only where the procuring activity agrees to procure the requirement as a small business, HUBZone, SDVO small business, or WOSB set-aside or otherwise identifies a procurement strategy that would emphasize or target small business participation.
 
 (4) The requirement that a follow-on procurement must be released from the 8(a) BD program in order for it to be fulfilled outside the 8(a) BD program does not apply:
 
@@ -64,4 +62,4 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (ii) Where a procuring agency will use a mandatory source (*see* FAR Subparts 8.6 and 8.7(48 CFR subparts 8.6 and 8.7)). In such a case, the procuring agency should notify SBA at least 30 days prior to the end of the contract or order.
 
-[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8259, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 34260, May 31, 2016; 81 FR 48582, July 25, 2016; 85 FR 66188, Oct. 16, 2020]
+[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8259, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 34260, May 31, 2016; 81 FR 48582, July 25, 2016; 85 FR 66188, Oct. 16, 2020; 88 FR 26207, Apr. 27, 2023]

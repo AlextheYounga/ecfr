@@ -1,7 +1,5 @@
 ##### § 124.521 What are the requirements for representing 8(a) status, and what are the penalties for misrepresentation? #####
 
-Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
-
 (a) *Presumption of Loss Based on the Total Amount Expended.* In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to 8(a) Participants, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than an 8(a) Participant willfully sought and received the award by misrepresentation.
 
 (b) *Deemed Certifications.* The following actions shall be deemed affirmative, willful and intentional certifications of 8(a) status:
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
 
 (iii) Where an 8(a) Participant receives a non-8(a) contract, and that Participant acquires, is acquired by, or merges with another concern and contract novation is not required, the concern must, within 30 days of the transaction becoming final, recertify its SDB status to the procuring agency, or inform the procuring agency that it no longer qualifies as an SDB. If the contractor is no longer a current 8(a) Participant, the contractor is not eligible for orders limited to 8(a) awardees. If the contractor is not an SDB, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDB goals. The agency and the contractor must immediately revise all applicable Federal contract databases for which they directly certify information to reflect the new status.
 
-(2) For the purposes of 8(a) contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must verify in DSBS whether a business concern continues to be an eligible 8(a) Participant no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option. Where a concern fails to qualify as an eligible 8(a) Participant during the 120 days prior to the end of the fifth year of the contract, the option shall not be exercised.
+(2) For the purposes of 8(a) contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must verify in *SAM.gov* (or successor system) whether a business concern continues to be an eligible 8(a) Participant no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option thereafter. Where a concern fails to qualify or will no longer qualify as an eligible 8(a) Participant at any point during the 120 days prior to the end of the fifth year of the contract, the option shall not be exercised.
 
 (3) Recertification does not change the terms and conditions of the contract. The limitations on subcontracting, nonmanufacturer and subcontracting plan requirements in effect at the time of contract award remain in effect throughout the life of the contract.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
 
 (5) A concern's status will be determined at the time of a response to a solicitation for a basic ordering agreement (BOA), basic agreement (BA), or blanket purchase agreement (BPA) and each order issued pursuant to the BOA, BA, or BPA.
 
-[78 FR 38818, June 28, 2013, as amended at 84 FR 65661, Nov. 29, 2019; 85 FR 66191, Oct. 16, 2020]
+[78 FR 38818, June 28, 2013, as amended at 84 FR 65661, Nov. 29, 2019; 85 FR 66191, Oct. 16, 2020; 88 FR 26209, Apr. 27, 2023]

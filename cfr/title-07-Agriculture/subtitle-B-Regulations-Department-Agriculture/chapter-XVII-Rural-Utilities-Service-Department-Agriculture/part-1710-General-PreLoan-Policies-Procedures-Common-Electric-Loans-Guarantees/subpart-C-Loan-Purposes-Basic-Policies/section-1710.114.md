@@ -1,10 +1,8 @@
 ##### § 1710.114 TIER, DSC, OTIER and ODSC requirements. #####
 
-Link to an amendment published at 88 FR 12810, Mar. 1, 2023.
+(a) *General.* Requirements for coverage ratios are set forth in the borrower's mortgage, loan contract, or other contractual agreements with RUS. Nothing in this section, however, shall limit the Administrator's ability to contractually agree to a different ratio provided in this section when doing so would advance or protect the interests of the government.
 
-(a) *General.* Requirements for coverage ratios are set forth in the borrower's mortgage, loan contract, or other contractual agreements with RUS. The requirements set forth in this section apply to borrowers that receive a loan approved by RUS on or after February 10, 1992. Nothing in this section, however, shall reduce the coverage ratio requirements of a borrower that has contractually agreed with RUS to a higher requirement.
-
-(b) *Coverage ratios.* (1) Distribution borrowers. The minimum coverage ratios required of distribution borrowers whether applied on an annual or average basis, are a TIER of 1.25, DSC of 1.25, OTIER of 1.1, and ODSC of 1.1. OTIER and ODSC shall apply to distribution borrowers that receive a loan approved on or after January 29, 1996.
+(b) *Coverage ratios.* (1) The minimum coverage ratios required of distribution borrowers whether applied on an annual or average basis of the 2 best years out of the 3 most recent calendar years, are a TIER of 1.25, DSC of 1.25. Further, the minimum coverage ratios required of distribution borrowers whether applied on an annual or average basis of the 2 best years out of the 3 most recent calendar years are an OTIER and ODSC of 1.1 or an MTIER and MDSC of 1.1.
 
 (2) The minimum coverage ratios required of power supply borrowers, whether applied on an annual or average basis, are a TIER of 1.05 and DSC of 1.00.
 
@@ -22,6 +20,6 @@ Link to an amendment published at 88 FR 12810, Mar. 1, 2023.
 
 (e) *Requirements for advance of funds.* (1) If a borrower applying for a loan has failed to achieve the coverage ratios required by paragraph (b) of this section during the latest 12 month period immediately preceding approval of the loan, or if any of the borrower's average coverage ratios for the 2 best years out of the most recent 3 calendar years were below the levels required in paragraph (b) of this section, RUS may withhold the advance of loan funds until the borrower has adopted an annual financial plan and operating budget satisfactory to RUS and taken such other action as RUS may require to demonstrate that the required coverage ratios will be maintained in the future and that the loan will be repaid with interest within the time agreed. Such other action may include, for example, increasing system operating efficiency and reducing costs or adopting a rate design that will achieve the required coverage ratios, and either placing such rates into effect or taking action to obtain regulatory authority approval of such rates. If failure to achieve the coverage ratios is due to unusual events beyond the control of the borrower, such as unusual weather, system outage due to a storm or regulatory delay in approving rate increases, then the Administrator may waive the requirement that the borrower take the remedial actions set forth in this paragraph, provided that such waiver will not threaten loan feasibility.
 
-(2) With respect to any outstanding loan approved by RUS on or after February 10, 1992, if, based on actual or projected financial performance of the borrower, RUS determines that the borrower may not achieve its required coverage ratios in the current or future years, RUS may withhold the advance of loan funds until the borrower has taken remedial action satisfactory to RUS.
+(2) With respect to any outstanding loan approved by RUS if, based on actual or projected financial performance of the borrower, RUS determines that the borrower may not achieve its required coverage ratios in the current or future years, RUS may withhold the advance of loan funds until the borrower has taken remedial action satisfactory to RUS.
 
-[60 FR 67404, Dec. 29, 1995, as amended at 61 FR 66871, Dec. 19, 1996; 65 FR 51748, Aug. 25, 2000]
+[60 FR 67404, Dec. 29, 1995, as amended at 61 FR 66871, Dec. 19, 1996; 65 FR 51748, Aug. 25, 2000; 88 FR 12810, Mar. 1, 2023]

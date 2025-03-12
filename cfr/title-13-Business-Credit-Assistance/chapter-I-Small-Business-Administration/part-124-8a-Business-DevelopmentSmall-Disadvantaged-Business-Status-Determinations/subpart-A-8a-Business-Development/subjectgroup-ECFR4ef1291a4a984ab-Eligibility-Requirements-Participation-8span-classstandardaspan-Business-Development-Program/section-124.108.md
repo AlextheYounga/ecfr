@@ -1,7 +1,5 @@
 ##### § 124.108 What other eligibility requirements apply for individuals or businesses? #####
 
-Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
-
 (a) *Good character.* The applicant or Participant and all its principals must have good character.
 
 (1) If during the processing of an application, SBA receives adverse information from the applicant or a credible source regarding possible criminal conduct by the applicant or any of its principals, SBA may suspend further processing of the application and refer it to SBA's Office of Inspector General (OIG) for review. If the SBA suspends the application, but does not hear back from OIG within 45 days, SBA may proceed with application processing. The AA/BD will consider any findings of the OIG when evaluating the application.
@@ -34,6 +32,6 @@ Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
 
 (d) *Brokers.* Brokers are ineligible to participate in the 8(a) BD program. A broker is a concern that adds no material value to an item being supplied to a procuring activity or which does not take ownership or possession of or handle the item being procured with its own equipment or facilities.
 
-(e) *Federal financial obligations.* Neither a firm nor any of its principals that fails to pay significant financial obligations owed to the Federal Government, including unresolved tax liens and defaults on Federal loans or other Federally assisted financing, is eligible for admission to or participation in the 8(a) BD program.
+(e) *Federal financial obligations.* Neither a firm nor any of its principals that fails to pay significant financial obligations owed to the Federal Government, including unresolved tax liens and defaults on Federal loans or other Federally assisted financing, is eligible for admission to or participation in the 8(a) BD program. However, a firm will not be ineligible to participate in the 8(a) BD program if the firm or the affected principals can demonstrate that the financial obligations owed have been settled and discharged/forgiven by the Federal Government.
 
-[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8255, Feb. 11, 2011; 81 FR 48580, July 25, 2016]
+[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8255, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 88 FR 26204, Apr. 27, 2023]

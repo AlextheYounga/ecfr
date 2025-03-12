@@ -1,7 +1,5 @@
 ##### § 124.109 Do Indian tribes and Alaska Native Corporations have any special rules for applying to and remaining eligible for the 8(a) BD program? #####
 
-Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
-
 (a) *Special rules for ANCs.* Small business concerns owned and controlled by ANCs are eligible for participation in the 8(a) program and must meet the eligibility criteria set forth in § 124.112 to the extent the criteria are not inconsistent with this section. ANC-owned concerns are subject to the same conditions that apply to tribally-owned concerns, as described in paragraphs (b) and (c) of this section, except that the following provisions and exceptions apply only to ANC-owned concerns:
 
 (1) Alaska Natives and descendants of Natives must own a majority of both the total equity of the ANC and the total voting powers to elect directors of the ANC through their holdings of settlement common stock. Settlement common stock means stock of an ANC issued pursuant to 43 U.S.C. 1606(g)(1), which is subject to the rights and restrictions listed in 43 U.S.C. 1606(h)(1).
@@ -50,7 +48,7 @@ Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
 
 (c) *Business eligibility.* In order to be eligible to participate in the 8(a) BD program, a concern which is owned by an eligible Indian tribe (or wholly owned business entities of such tribe) must meet the conditions set forth in paragraphs (c)(1) through (c)(7) of this section.
 
-(1) *Legal business entity organized for profit and susceptible to suit.* The applicant or participating concern must be a separate and distinct legal entity organized or chartered by the tribe, or Federal or state authorities. The concern's articles of incorporation, partnership agreement or limited liability company articles of organization must contain express sovereign immunity waiver language, or a “sue and be sued” clause which designates United States Federal Courts to be among the courts of competent jurisdiction for all matters relating to SBA's programs including, but not limited to, 8(a) BD program participation, loans, and contract performance. Also, the concern must be organized for profit, and the tribe must possess economic development powers in the tribe's governing documents.
+(1) *Legal business entity organized for profit and susceptible to suit.* The applicant or participating concern must be a separate and distinct legal entity organized or chartered by the tribe, or Federal or state authorities. Where an applicant or participating concern is owned by a federally recognized tribe, the concern's articles of incorporation, partnership agreement, limited liability company articles of organization, or other similar incorporating documents for tribally incorporated applicants must contain express sovereign immunity waiver language, or a “sue and be sued” clause which designates United States Federal Courts to be among the courts of competent jurisdiction for all matters relating to SBA's programs including, but not limited to, 8(a) BD program participation, loans, and contract performance. Also, the concern must be organized for profit, and the tribe must possess economic development powers in the tribe's governing documents.
 
 (2) *Size.* (i) A tribally-owned applicant concern must qualify as a small business concern as defined for purposes of Federal Government procurement in part 121 of this title. The particular size standard to be applied is based on the primary industry classification of the applicant concern.
 
@@ -98,7 +96,7 @@ Example 1 to paragraph (c)(3)(ii)(B).Tribe X owns 100% of 8(a) Participant A. A 
 
 (6) *Potential for success.* A Tribally-owned applicant concern must possess reasonable prospects for success in competing in the private sector if admitted to the 8(a) BD program. A Tribally-owned applicant may establish potential for success by demonstrating that:
 
-(i) It has been in business for at least two years, as evidenced by income tax returns (individual or consolidated) for each of the two previous tax years showing operating revenues in the primary industry in which the applicant is seeking 8(a) BD certification; or
+(i) It has been in business for at least two years, as evidenced by income tax returns (individual or consolidated) or financial statements (either audited, reviewed or in-house as set-forth in § 124.602) for each of the two previous tax years showing operating revenues in the primary industry in which the applicant seeks 8(a) BD certification; or
 
 (ii) The individual(s) who will manage and control the daily business operations of the firm have substantial technical and management experience, the applicant has a record of successful performance on contracts from governmental or nongovernmental sources in its primary industry category, and the applicant has adequate capital to sustain its operations and carry out its business plan as a Participant; or
 
@@ -112,4 +110,4 @@ Example 1 to paragraph (c)(3)(ii)(B).Tribe X owns 100% of 8(a) Participant A. A 
 
 (ii) The officers, directors, and all shareholders owning an interest of 20% or more (other than the tribe itself) of a tribally-owned applicant or Participant must demonstrate good character (*see* § 124.108(a)) and cannot fail to pay significant Federal obligations owed to the Federal Government (*see* § 124.108(e)).
 
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8255, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 85 FR 66184, Oct. 16, 2020]
+[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8255, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 85 FR 66184, Oct. 16, 2020; 88 FR 26204, Apr. 27, 2023]

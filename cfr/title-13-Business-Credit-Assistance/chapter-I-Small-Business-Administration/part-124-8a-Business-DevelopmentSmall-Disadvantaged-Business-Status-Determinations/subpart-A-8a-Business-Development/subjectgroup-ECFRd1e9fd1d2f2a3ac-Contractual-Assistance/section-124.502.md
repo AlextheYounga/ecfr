@@ -1,8 +1,10 @@
 ##### § 124.502 How does an agency offer a procurement to SBA for award through the 8(a) BD program? #####
 
-Link to an amendment published at 88 FR 26206, Apr. 27, 2023.
+(a) A procuring activity contracting officer indicates his or her formal intent to award a procurement requirement as an 8(a) contract by submitting a written offering letter to SBA.
 
-(a) A procuring activity contracting officer indicates his or her formal intent to award a procurement requirement as an 8(a) contract by submitting a written offering letter to SBA. The procuring activity may transmit the offering letter to SBA by electronic mail, if available, or by facsimile transmission, as well as by mail or commercial delivery service.
+(1) Except as set forth in § 124.503(a)(4)(ii) and § 124.503(i)(1)(ii), a procuring activity contracting officer must submit an offering letter for each intended 8(a) procurement, including follow-on 8(a) contracts, competitive 8(a) orders issued under non-8(a) multiple award contracts, and sole source 8(a) orders issued under 8(a) multiple award contracts.
+
+(2) The procuring activity may transmit the offering letter to SBA by electronic mail, if available, or by facsimile transmission, as well as by mail or commercial delivery service.
 
 (b) Contracting officers must submit offering letters to the following locations:
 
@@ -54,4 +56,4 @@ Link to an amendment published at 88 FR 26206, Apr. 27, 2023.
 
 (18) Any other information that the procuring activity deems relevant or which SBA requests.
 
-[63 FR 35739, June 30, 1998, as amended at 81 FR 48582, July 25, 2016; 86 FR 61672, Nov. 8, 2021]
+[63 FR 35739, June 30, 1998, as amended at 81 FR 48582, July 25, 2016; 86 FR 61672, Nov. 8, 2021; 88 FR 26206, Apr. 27, 2023]

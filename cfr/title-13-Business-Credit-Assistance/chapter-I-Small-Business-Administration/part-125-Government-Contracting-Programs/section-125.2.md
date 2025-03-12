@@ -1,7 +1,5 @@
 ##### § 125.2 What are SBA's and the procuring agency's responsibilities when providing contracting assistance to small businesses? #####
 
-Link to an amendment published at 88 FR 26210, Apr. 27, 2023.
-
 (a)(1) *General.* The objective of the SBA's contracting programs is to assist small business concerns, including 8(a) BD Participants, HUBZone small business concerns, Service-Disabled Veteran-Owned Small Business Concerns, Women-Owned Small Businesses and Economically Disadvantaged Women-Owned Small Businesses, in obtaining a fair share of Federal Government prime contracts, subcontracts, orders, and property sales. Therefore, these regulations apply to all types of Federal Government contracts, including Multiple Award Contracts, and contracts for architectural and engineering services, research, development, test and evaluation. Small business concerns must receive any award (including orders, and orders placed against Multiple Award Contracts) or contract, part of any such award or contract, any contract for the sale of Government property, or any contract resulting from a reverse auction, regardless of the place of performance, which SBA and the procuring or disposal agency determine to be in the interest of:
 
 (i) Maintaining or mobilizing the Nation's full productive capacity;
@@ -177,7 +175,7 @@ At the SBA's discretion, PCRs may review any acquisition to determine whether a 
 
 (2) *Limitation on the Use of Contract Bundling.*(i) When the procuring activity intends to proceed with an acquisition involving bundled or substantially bundled procurement requirements, it must document the acquisition strategy to include a determination that the bundling is necessary and justified, when compared to the benefits that could be derived from meeting the agency's requirements through separate smaller contracts.
 
-(ii) A bundled requirement is necessary and justified if, as compared to the benefits that the procuring activity would derive from contracting to meet those requirements if not bundled, it would derive measurably substantial benefits. The procuring activity must quantify the identified benefits and explain how their impact would be measurably substantial. The benefits may include cost savings and/or price reduction, quality improvements that will save time or improve or enhance performance or efficiency, reduction in acquisition cycle times, better terms and conditions, and any other benefits that individually, in combination, or in the aggregate would lead to:
+(ii) A bundled requirement is necessary and justified if, as compared to the benefits that the procuring activity would derive from contracting to meet those requirements if not bundled, it would derive measurably substantial benefits. The procuring activity must quantify the identified benefits and explain how their impact would be measurably substantial. This analysis must include quantification of the reduction or increase in price of the proposed bundled strategy as compared to the cumulative value of the separate contracts. The benefits may include cost savings and/or price reduction, quality improvements that will save time or improve or enhance performance or efficiency, reduction in acquisition cycle times, better terms and conditions, and any other benefits that individually, in combination, or in the aggregate would lead to:
 
 (A) Benefits equivalent to 10 percent of the contract or order value (including options), where the contract or order value is $94 million or less; or
 
@@ -197,7 +195,7 @@ At the SBA's discretion, PCRs may review any acquisition to determine whether a 
 
 (3) *Limitations on the Use of Substantial Bundling.* Where a proposed procurement strategy involves a Substantial Bundling of contract requirements, the procuring agency must, in the documentation of that strategy, include a determination that the anticipated benefits of the proposed bundled contract justify its use, and must include, at a minimum:
 
-(i) The analysis for bundled requirements set forth in paragraph (d)(2)(i) of this section;
+(i) The analysis for bundled requirements set forth in paragraphs (d)(2)(i) and (ii) of this section;
 
 (ii) An assessment of the specific impediments to participation by small business concerns as prime contractors that will result from the substantial bundling;
 
@@ -333,4 +331,4 @@ At the SBA's discretion, PCRs may review any acquisition to determine whether a 
 
 (g) *Capabilities, past performance, and experience.* When an offer of a small business prime contractor includes a proposed team of small business subcontractors and specifically identifies the first-tier subcontractor(s) in the proposal, the head of the agency must consider the capabilities, past performance, and experience of each first tier subcontractor that is part of the team as the capabilities, past performance, and experience of the small business prime contractor if the capabilities, past performance, and experience of the small business prime does not independently demonstrate capabilities and past performance necessary for award.
 
-[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 84 FR 65662, Nov. 29, 2019; 85 FR 66191, Oct. 16, 2020]
+[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 84 FR 65662, Nov. 29, 2019; 85 FR 66191, Oct. 16, 2020; 88 FR 26210, Apr. 27, 2023]

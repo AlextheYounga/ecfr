@@ -1,7 +1,5 @@
 ##### § 128.401 What requirements must a VOSB or SDVOSB meet to submit an offer on a contract? #####
 
-Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
-
 (a) *Certification requirement.* In order for a concern to submit an offer and be eligible for the award of a VOSB or SDVOSB set-aside or sole source contract, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract and be a certified VOSB or SDVOSB. Any small business concern that submits a complete certification application with to SBA on or before December 31, 2023, shall be eligible to self-certify for SDVOSB sole source or set-aside contracts (other than VA contracts) until SBA declines or approves the concern's application. Any small business concern that does not submit to SBA a complete SDVOSB certification application to SBA on or before December 31, 2023, will no longer be eligible to self-certify for SDVOSB sole source or set-aside contracts effective January 1, 2024.
 
 (b) *Joint ventures.* A joint venture may submit an offer for a VOSB or SDVOSB contract if the joint venture meets the requirements set forth in § 128.402.
@@ -52,6 +50,10 @@ Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
 
 (1) When the subcontractor qualifies as small for the size standard assigned to the procurement, this issue may be grounds for a VOSB or SDVOSB status protest, as described in § 134.1003(c) of this chapter. When the subcontractor is alleged to be other than small for the size standard assigned to the procurement, this issue may be grounds for a size protest under the ostensible subcontractor rule, as described at § 121.103(h)(2) of this chapter.
 
-(2) SBA will find that a prime VOSB or SDVOSB contractor is performing the primary and vital requirements of a contract or order, and is not unduly reliant on one or more subcontractors that are not certified VOSBs or SDVOSBs, where the prime contractor can demonstrate that it, together with any subcontractors that are certified VOSBs or SDVOSBs, will meet the limitations on subcontracting provisions set forth in § 125.6 of this chapter.
+(2) In the case of a contract or order for services, specialty trade construction or supplies, SBA will find that a prime VOSB or SDVOSB contractor is performing the primary and vital requirements of the contract or order, and is not unduly reliant on one or more subcontractors that are not certified VOSBs or SDVOSBs, where the prime contractor can demonstrate that it, together with any subcontractors that are certified VOSBs or SDVOSBs, will meet the limitations on subcontracting provisions set forth in § 125.6 of this chapter.
+
+(3) In a general construction contract, the primary and vital requirements of the contract are the management, supervision and oversight of the project, including coordinating the work of various subcontractors, not the actual construction work performed.
 
 (h) *Two-step procurements.* For purposes of architect-engineering, design-build or two-step sealed bidding procurements, a concern must be certified as a VOSB or SDVOSB as of the date that it submits its initial bid or proposal (which may or may not include price) during phase one.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]

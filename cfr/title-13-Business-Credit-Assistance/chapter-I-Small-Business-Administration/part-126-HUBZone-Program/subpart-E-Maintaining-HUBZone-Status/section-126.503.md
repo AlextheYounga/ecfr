@@ -1,7 +1,5 @@
 ##### § 126.503 What happens if SBA is unable to verify a HUBZone small business concern's eligibility or determines that a concern is no longer eligible for the program? #####
 
-Link to an amendment published at 88 FR 26212, Apr. 27, 2023.
-
 (a) *Proposed decertification*—(1) *General.* If SBA is unable to verify a certified HUBZone small business concern's eligibility or has information indicating that a concern was not eligible for the program at the time of certification or recertification, SBA may propose decertification of the concern. In addition, if during the one-year period of time after certification or recertification SBA believes that a HUBZone small business concern that is performing one or more HUBZone contracts no longer has at least 20% of its employees living in a HUBZone, SBA will propose the concern for decertification based on the concern's failure to attempt to maintain compliance with the HUBZone residency requirement.
 
 (i) *Notice of proposed decertification.* SBA will notify the HUBZone small business concern in writing that SBA is proposing to decertify it and state the reasons for the proposed decertification. The notice of proposed decertification will notify the concern that it has 30 days from the date it receives the letter to submit a written response to SBA explaining why the proposed ground(s) should not justify decertification. SBA will consider that written notice was provided if SBA sends the notice of proposed decertification to the concern at a mailing address, email address, or fax number provided in the concern's profile in the System for Award Management (*SAM.gov*) or the Dynamic Small Business Search (DSBS) (or successor systems).
@@ -10,8 +8,16 @@ Link to an amendment published at 88 FR 26212, Apr. 27, 2023.
 
 (iii) *Adverse inference.* If a HUBZone small business concern fails to cooperate with SBA or fails to provide the information requested, the D/HUB may draw an adverse inference and assume that the information that the concern failed to provide would demonstrate ineligibility.
 
-(2) *SBA's decision.* SBA will determine whether the HUBZone small business concern remains eligible for the program within 90 calendar days after receiving all requested information, when practicable. The D/HUB will provide written notice to the concern stating the basis for the determination. If SBA finds that the concern is not eligible, the D/HUB will decertify the concern and remove its designation as a certified HUBZone small business concern in DSBS (or successor system). If SBA finds that the concern is eligible, the concern will continue to be designated as a certified HUBZone small business concern in DSBS (or successor system).
+(2) *SBA's decision.* SBA will determine whether the HUBZone small business concern remains eligible for the program within 90 calendar days after receiving all requested information, when practicable. The D/HUB will provide written notice to the concern stating the basis for the determination.
+
+(i) If SBA finds that the concern is not eligible, the D/HUB will decertify the concern and remove its designation as a certified HUBZone small business concern in DSBS and the System for Award Management (or successor system) within four business days of the determination.
+
+(ii) If SBA finds that the concern is eligible, the concern will continue to be designated as a certified HUBZone small business concern in DSBS (or successor system).
 
 (b) *Decertification pursuant to a protest.* The procedures described in paragraph (a) of this section do not apply to HUBZone status protests. If the D/HUB sustains a protest pursuant to § 126.803, SBA will decertify the HUBZone small business concern immediately and change the concern's status in DSBS (or successor system) to reflect that it no longer qualifies as a certified HUBZone small business concern without first proposing it for decertification.
 
-[84 FR 65246, Nov. 26, 2019]
+(c) *Decertification due to submission of false information.* If SBA discovers that a certified HUBZone small business concern or its representative knowingly submitted false information, SBA will propose the firm for decertification. In addition, SBA will refer the matter to the SBA Office of Inspector General for review and may request that Government-wide debarment or suspension proceedings be initiated by the agency.
+
+(d) *Effect of decertification.* Once SBA has decertified a concern, the concern cannot submit an offer or quote as a HUBZone small business concern. If a concern does so, it may be in violation of criminal laws, including section 16(d) of the Small Business Act, 15 U.S.C. 645(d). If the concern has already certified as a HUBZone small business on a pending procurement, the concern must immediately inform the contracting officer for the procuring agency of the adverse eligibility determination. A contracting officer shall not award a HUBZone contract to a concern that the D/HUB has determined is not an eligible HUBZone small business concern for the procurement in question.
+
+[84 FR 65246, Nov. 26, 2019, as amended at 88 FR 26212, Apr. 27, 2023]

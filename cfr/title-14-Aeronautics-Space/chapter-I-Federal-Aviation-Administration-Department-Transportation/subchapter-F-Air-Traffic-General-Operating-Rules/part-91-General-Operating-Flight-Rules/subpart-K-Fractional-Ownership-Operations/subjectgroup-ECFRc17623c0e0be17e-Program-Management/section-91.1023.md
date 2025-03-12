@@ -1,5 +1,7 @@
 ##### § 91.1023 Program operating manual requirements. #####
 
+Link to an amendment published at 88 FR 34443, May 30, 2023.
+
 (a) Each program manager must prepare and keep current a program operating manual setting forth procedures and policies acceptable to the Administrator. The program manager's management, flight, ground, and maintenance personnel must use this manual to conduct operations under this subpart. However, the Administrator may authorize a deviation from this paragraph if the Administrator finds that, because of the limited size of the operation, part of the manual is not necessary for guidance of management, flight, ground, or maintenance personnel.
 
 (b) Each program manager must maintain at least one copy of the manual at its principal base of operations.

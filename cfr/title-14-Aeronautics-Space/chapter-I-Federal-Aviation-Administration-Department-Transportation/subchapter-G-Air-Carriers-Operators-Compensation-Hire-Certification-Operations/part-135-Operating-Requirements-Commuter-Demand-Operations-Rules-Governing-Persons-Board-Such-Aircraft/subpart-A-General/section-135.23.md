@@ -1,5 +1,7 @@
 ##### § 135.23 Manual contents. #####
 
+Link to an amendment published at 88 FR 34443, May 30, 2023.
+
 Each manual shall have the date of the last revision on each revised page. The manual must include—
 
 (a) The name of each management person required under § 119.69(a) of this chapter who is authorized to act for the certificate holder, the person's assigned area of responsibility, the person's duties, responsibilities, and authority, and the name and title of each person authorized to exercise operational control under § 135.77;

@@ -1,16 +1,18 @@
 ##### § 125.1 What definitions are important to SBA's Government Contracting Programs? #####
 
-Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
-
 *Chief Acquisition Officer* means the employee of a Federal agency designated as such pursuant to section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a)).
 
 *Commercial off-the-shelf item* has the same definition as set forth in 41 U.S.C. 101 (as renumbered) and Federal Acquisition Regulation (FAR) 2.101 (48 U.S.C. 2.101).
 
-*Consolidation of contract requirements, consolidated contract, or consolidated requirement* means a solicitation for a single contract or a Multiple Award Contract to: (1) Satisfy two or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under two or more separate contracts each of which was lower in cost than the total cost of the contract for which the offers are solicited, the total cost of which exceeds $2 million (including options); or (2) Satisfy requirements of the Federal agency for construction projects to be performed at two or more discrete sites.
+*Consolidation of contract requirements, consolidated contract, or consolidated requirement* means a solicitation for a single contract, a Multiple Award Contract, or Blanket Purchase Agreement to:
+
+(1) Satisfy two or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under two or more separate contracts each of which was lower in cost than the total cost of the contract or agreement for which the offers are solicited, the total cost of which exceeds $2 million (including options), regardless of whether new work is added to the solicitation for the contract or agreement; or
+
+(2) Satisfy requirements of the Federal agency for construction projects to be performed at two or more discrete sites.
 
 *Contract,* unless otherwise noted, has the same definition as set forth in FAR 2.101 (48 U.S.C. 2.101) and includes orders issued against Multiple Award Contracts and orders competed under agreements where the execution of the order is the contract (*e.g.,* a Blanket Purchase Agreement (BPA), a Basic Agreement (BA), or a Basic Ordering Agreement (BOA)).
 
-*Contract bundling, bundled requirement, bundled contract, or bundling* means the consolidation of two or more procurement requirements for goods or services previously provided or performed under separate smaller contracts into a solicitation of offers for a single contract or a Multiple Award Contract that is likely to be unsuitable for award to a small business concern (but may be suitable for award to a small business with a Small Business Teaming Arrangement) due to:
+*Contract bundling, bundled requirement, bundled contract, or bundling* means the consolidation of two or more procurement requirements for goods or services previously provided or performed under separate smaller contracts into a solicitation of offers for a single contract, a Multiple Award Contract, or Blanket Purchase Agreement that is likely to be unsuitable for award to a small business concern (but may be suitable for award to a small business with a Small Business Teaming Arrangement), regardless of whether new work is added to the solicitation for the contract or agreement, due to:
 
 (1) The diversity, size, or specialized nature of the elements of the performance specified;
 
@@ -18,9 +20,9 @@ Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
 
 (3) The geographical dispersion of the contract performance sites; or
 
-(4) Any combination of the factors described in paragraphs (e)(1), (2), and (3) of this section.
+(4) Any combination of the factors described in paragraphs (1), (2), and (3) of this definition.
 
-*Cost of materials* means costs of the items purchased, handling and associated shipping costs for the purchased items (which includes raw materials), commercial off-the-shelf items (and similar common supply items or commercial items that require additional manufacturing, modification or integration to become end items), special tooling, special testing equipment, and construction equipment purchased for and required to perform on the contract. In the case of a supply contract, cost of materials includes the acquisition of services or products from outside sources following normal commercial practices within the industry.
+*Cost of materials* means costs of the items purchased, handling and associated shipping costs for the purchased items (which includes raw materials), commercial off-the-shelf items (and similar common supply items or commercial products that require additional manufacturing, modification or integration to become end items), special tooling, special testing equipment, and construction equipment purchased for and required to perform on the contract. In the case of a supply contract, cost of materials includes the acquisition of services or products from outside sources following normal commercial practices within the industry.
 
 *Covered territory business* means a small business concern that has its principal office located in one of the following:
 
@@ -70,9 +72,21 @@ Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
 
 *Single contract* means any contract or order (including those placed against a GSA Schedule Contract or an indefinite delivery, indefinite quantity contract) resulting in one or more awardee(s).
 
+*Small business concern owned and controlled by socially and economically disadvantaged individuals* means, for both SBA's subcontracting assistance program in 15 U.S.C. 637(d) and for the goals described in 15 U.S.C. 644(g), a small business concern unconditionally and directly owned by and controlled by one or more socially and economically disadvantaged individuals.
+
+*Socially and economically disadvantaged individuals,* for both SBA's subcontracting assistance program in 15 U.S.C. 637(d) and for the goals described in 15 U.S.C. 644(g), means:
+
+(1) Individuals who meet the criteria for social disadvantage in § 124.103(a) through (c) of this chapter and the criteria for economic disadvantage in § 124.104(a) and (c) of this chapter;
+
+(2) Indian tribes and Alaska Native Corporations that satisfy the ownership, control, and disadvantage criteria in § 124.109 of this chapter;
+
+(3) Native Hawaiian Organizations that satisfy the ownership, control, and disadvantage criteria in § 124.110 of this chapter; or
+
+(4) Community Development Corporations that satisfy the ownership and control criteria in § 124.111 of this chapter.
+
 *Subcontract or subcontracting* means, except for purposes of § 125.3, that portion of the contract performed by a business concern, other than the business concern awarded the contract, under a second contract, purchase order, or agreement for any parts, supplies, components, or subassemblies which are not available commercial off-the-shelf items, and which are manufactured in accordance with drawings, specifications, or designs furnished by the contractor, or by the government as a portion of the solicitation. Raw castings, forgings, and moldings are considered as materials, not as subcontracting costs. Where the prime contractor has been directed by the Government as part of the contract to use any specific source for parts, supplies, or components subassemblies, the costs associated with those purchases will be considered as part of the cost of materials, not subcontracting costs.
 
-*Substantial bundling* means any bundling that meets or exceeds the following dollar amounts (if the acquisition strategy contemplates Multiple Award Contracts or multiple award orders issued against a GSA Schedule Contract or a task or delivery order contract awarded by another agency, these thresholds apply to the cumulative estimated value of the Multiple Award Contracts or orders, including options):
+*Substantial bundling* means any bundling that meets or exceeds the following dollar amounts (if the acquisition strategy contemplates multiple award contracts, orders placed under unrestricted multiple award contracts, or a Blanket Purchase Agreement issued against a GSA Schedule contract or a task or delivery order contract awarded by another agency, these thresholds apply to the cumulative estimated value of the Multiple Award Contracts, orders, or Blanket Purchase Agreement, including options):
 
 (1) $8.0 million or more for the Department of Defense;
 
@@ -80,4 +94,4 @@ Link to an amendment published at 88 FR 26209, Apr. 27, 2023.
 
 (3) $2.5 million or more for all other agencies.
 
-[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022]
+[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022; 88 FR 26209, Apr. 27, 2023]

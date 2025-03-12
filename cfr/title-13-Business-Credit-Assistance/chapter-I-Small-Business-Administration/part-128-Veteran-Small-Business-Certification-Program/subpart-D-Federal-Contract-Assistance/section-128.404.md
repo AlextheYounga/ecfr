@@ -1,7 +1,5 @@
 ##### § 128.404 When may a contracting officer set aside a procurement for VOSBs or SDVOSBs? #####
 
-Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
-
 (a) *VA procurements.* For VA procurements, a contracting officer may set aside a contract for a VOSB or SDVOSB as set forth in the VAAR. For non-VA procurements, the contracting officer first must review a requirement to determine whether it is excluded from SDVOSB contracting pursuant to § 128.403.
 
 (b) *Contracting among small business programs*—(1) *Acquisitions valued at or below the simplified acquisition threshold.* For VA procurements, a contracting officer may award at or below the simplified acquisition threshold as set forth in the VAAR. For non-VA procurements, the contracting officer shall set aside any acquisition with an anticipated dollar value exceeding the micro-purchase threshold but not exceeding the simplified acquisition threshold (defined in the FAR at 48 CFR 2.101) for small business concerns, regardless of the place of performance, when there is a reasonable expectation that offers will be obtained from at least two small business concerns that are competitive in terms of quality and delivery and award will be made at fair market prices. The requirement in this paragraph (b)(1) does not preclude a contracting officer from making an award to a small business under the 8(a) BD, Historically Underutilized Business Zone (HUBZone), SDVOSB, or WOSB Programs.
@@ -16,4 +14,6 @@ Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
 
 (2) Determine that the award can be made at fair market price.
 
-(d) *Prohibition on combined set-asides.* A procuring activity cannot restrict an SDVOSB competition (for either a contract or order) to require certifications other than SDVOSB certification (*i.e.,* a competition cannot be limited only to business concerns that are both SDVOSB and 8(a), SDVOSB and HUBZone, or SDVOSB and WOSB).
+(d) *Prohibition on competitions requiring or favoring additional socioeconomic certifications.* A procuring activity cannot restrict an SDVOSB competition (for either a contract or order) to require certifications other than SDVOSB certification (*i.e.,* a competition cannot be limited only to business concerns that are both SDVOSB and 8(a), SDVOSB and HUBZone, or SDVOSB and WOSB) or give evaluation preferences to firms having one or more other certifications.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]

@@ -1,5 +1,7 @@
 ##### § 121.135 Manual contents. #####
 
+Link to an amendment published at 88 FR 34443, May 30, 2023.
+
 (a) Each manual required by § 121.133 must—
 
 (1) Include instructions and information necessary to allow the personnel concerned to perform their duties and responsibilities with a high degree of safety;

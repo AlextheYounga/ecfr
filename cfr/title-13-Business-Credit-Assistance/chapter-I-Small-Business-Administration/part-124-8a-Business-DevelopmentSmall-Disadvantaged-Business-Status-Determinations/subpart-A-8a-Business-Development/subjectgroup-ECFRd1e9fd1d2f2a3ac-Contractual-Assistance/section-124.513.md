@@ -1,10 +1,12 @@
 ##### § 124.513 Under what circumstances can a joint venture be awarded an 8(a) contract? #####
 
-Link to an amendment published at 88 FR 26208, Apr. 27, 2023.
-
-(a) *General.*(1) A Participant may enter into a joint venture agreement with one or more other small business concerns, whether or not 8(a) Participants, for the purpose of performing one or more specific 8(a) contracts.
+(a) *General.* (1) A Participant may enter into a joint venture agreement with one or more other small business concerns, whether or not 8(a) Participants, for the purpose of performing one or more specific 8(a) contracts.
 
 (2) A joint venture agreement is permissible only where an 8(a) concern lacks the necessary capacity to perform the contract on its own, and the agreement is fair and equitable and will be of substantial benefit to the 8(a) concern. However, where SBA concludes that an 8(a) Participant brings very little to the joint venture relationship in terms of resources and expertise other than its 8(a) status, SBA will not approve the joint venture to receive an 8(a) sole source contract award and will find the joint venture to be ineligible for a competitive 8(a) award if it is determined to be the apparent successful offeror.
+
+(3) As long as a joint venture qualifies as small under the size standard corresponding to the NAICS code assigned to a specific contract or order (*see* § 124.513(b)), it will be eligible for award based on the status of its 8(a) managing venturer.
+
+(4) A Program Participant cannot be a joint venture partner on more than one joint venture that submits an offer for a specific 8(a) contract or for an 8(a) order under a multiple award contract that is not itself an 8(a) contract.
 
 (b) *Size of concerns to an 8(a) joint venture.* (1) A joint venture of at least one 8(a) Participant and one or more other business concerns may submit an offer as a small business for a competitive 8(a) procurement, or be awarded a sole source 8(a) procurement, so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement.
 
@@ -87,4 +89,4 @@ All payments due the joint venture for performance on an 8(a) contract will be d
 
 (3) Failure to submit the certification required by paragraph (e) of this section or comply with paragraph (i) of this section.
 
-[63 FR 35739, June 30, 1998, as amended at 69 FR 29208, May 21, 2004; 76 FR 8261, Feb. 11, 2011; 77 FR 28238, May 14, 2012; 81 FR 34261, May 31, 2016; 81 FR 48582, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66190, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021]
+[63 FR 35739, June 30, 1998, as amended at 69 FR 29208, May 21, 2004; 76 FR 8261, Feb. 11, 2011; 77 FR 28238, May 14, 2012; 81 FR 34261, May 31, 2016; 81 FR 48582, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66190, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021; 88 FR 26208, Apr. 27, 2023]

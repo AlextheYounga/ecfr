@@ -1,8 +1,6 @@
 ##### § 124.107 What is potential for success? #####
 
-Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
-
-The applicant concern must possess reasonable prospects for success in competing in the private sector if admitted to the 8(a) BD program. To do so, it must be in business in its primary industry classification for at least two full years immediately prior to the date of its 8(a) BD application, unless a waiver for this requirement is granted pursuant to paragraph (b) of this section.
+SBA must determine that with contract, financial, technical, and management support from the 8(a) BD program, the applicant concern is able to perform 8(a) contracts and possess reasonable prospects for success in competing in the private sector. To do so, the applicant concern must show that it has operated and received contracts (either in the private sector, at the state or local government level, or with the Federal Government) in its primary industry classification for at least two full years immediately prior to the date of its 8(a) BD application, unless a waiver for this requirement is granted pursuant to paragraph (b) of this section.
 
 (a) Income tax returns for each of the two previous tax years must show operating revenues in the primary industry in which the applicant is seeking 8(a) BD certification.
 
@@ -31,3 +29,5 @@ The applicant concern must possess reasonable prospects for success in competing
 (1) The Government has not previously procured and is unlikely to procure the types of products or services offered by the concern; or
 
 (2) The purchase of such products or services by the Federal Government will not be in quantities sufficient to support the developmental needs of the applicant and other Participants providing the same or similar items or services.
+
+[63 FR 35739, June 30, 1998, as amended at 88 FR 26204, Apr. 27, 2023]

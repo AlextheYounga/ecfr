@@ -1,7 +1,5 @@
 ##### § 102-39.65 What conditions apply to the exchange/sale of personal property? #####
 
-Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
-
 You may use the exchange/sale authority only if you meet all of the following conditions:
 
 (a) The property exchanged or sold is similar to the property acquired;
@@ -10,9 +8,11 @@ You may use the exchange/sale authority only if you meet all of the following co
 
 (c) The property exchanged or sold was not acquired for the principal purpose of exchange or sale;
 
-(d) When replacing personal property, the exchange allowance or sales proceeds from the disposition of that property may only be used to offset the cost of the replacement property, not services; and
+(d) When replacing personal property, the exchange allowance or sales proceeds from the disposition of that property may only be used to offset the cost of the replacement property, not services;
 
-(e) Except for transactions involving books and periodicals in your libraries, you document the basic facts associated with each exchange/sale transaction. At a minimum, the documentation must include:
+(e) Your agency documents at the time of exchange or sale (or at the time of acquiring the replacement property if acquisition precedes the exchange or sale) that the exchange allowance or sale proceeds will be applied to the acquisition of replacement property; and
+
+(f) Except for transactions involving books and periodicals in your libraries, you document the basic facts associated with each exchange/sale transaction. At a minimum, the documentation must include:
 
 (1) The FSC Group of the items exchanged or sold, and the items acquired;
 
@@ -30,4 +30,4 @@ Note to § 102-39.65:
 
 In acquiring items for historical preservation or display at Federal museums, you may exchange historic items in the museum property account without regard to the FSC group, provided the exchange transaction is documented and certified by the head of your agency to be in the best interests of the Government and all other provisions of this part are met. The documentation must contain a determination that the item exchanged and the item acquired are historic items.
 
-[73 FR 50881, Aug. 29, 2008]
+[73 FR 50881, Aug. 29, 2008, as amended at 88 FR 25511, Apr. 27, 2023]

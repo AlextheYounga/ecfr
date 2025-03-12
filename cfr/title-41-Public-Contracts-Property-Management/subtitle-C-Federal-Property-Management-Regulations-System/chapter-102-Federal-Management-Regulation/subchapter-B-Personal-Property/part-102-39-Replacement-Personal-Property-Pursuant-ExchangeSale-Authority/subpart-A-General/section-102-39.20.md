@@ -1,7 +1,5 @@
 ##### § 102-39.20 What definitions apply to this part? #####
 
-Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
-
 The following definitions apply to this part:
 
 *Acquire* means to procure or otherwise obtain personal property, including by lease (sometimes known as rent).
@@ -36,8 +34,12 @@ The following definitions apply to this part:
 
 (3) Are parts or containers for similar end items; or
 
-(4) Are designed or constructed for the same purpose (includes any and all forms of property regardless of the FSC Group to which they are assigned).
+(4) Are designed or constructed for the same general purpose (includes any and all forms of property regardless of the FSC Group to which they are assigned).
+
+Note 1 to the definition of “similar”:
+
+Only one of the criteria in this definition needs to be met for the property to be considered “similar” for an exchange/sale transaction.
 
 *Surplus property* means excess personal property not required for the needs of any Federal agency, as determined by GSA under part 102-37 of this chapter.
 
-[66 FR 48614, Sept. 21, 2001, as amended at 73 FR 50880, Aug. 29, 2008]
+[66 FR 48614, Sept. 21, 2001, as amended at 73 FR 50880, Aug. 29, 2008; 88 FR 25511, Apr. 27, 2023]

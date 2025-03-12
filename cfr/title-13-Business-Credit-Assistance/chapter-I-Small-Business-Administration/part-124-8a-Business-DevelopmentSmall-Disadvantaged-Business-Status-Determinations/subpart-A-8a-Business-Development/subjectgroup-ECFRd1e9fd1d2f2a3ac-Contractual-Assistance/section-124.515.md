@@ -1,14 +1,8 @@
 ##### § 124.515 Can a Participant change its ownership or control and continue to perform an 8(a) contract, and can it transfer performance to another firm? #####
 
-Link to an amendment published at 88 FR 26208, Apr. 27, 2023.
-
 (a) An 8(a) contract (or 8(a) order where the underlying contract is not an 8(a) contract) must be performed by the Participant that initially received it unless a waiver is granted under paragraph (b) of this section.
 
-(1) An 8(a) contract or order, whether in the base or an option year, must be terminated for the convenience of the Government if:
-
-(i) One or more of the individuals upon whom eligibility for the 8(a) BD program was based relinquishes or enters into any agreement to relinquish ownership or control of the Participant such that the Participant would no longer be controlled or at least 51% owned by disadvantaged individuals; or
-
-(ii) The contract is transferred or novated for any reason to another firm.
+(1) An 8(a) contract or order, whether in the base or an option year, must be terminated for the convenience of the Government if one or more of the individuals upon whom eligibility for the 8(a) BD program was based relinquishes or enters into any agreement to relinquish ownership or control of the Participant such that the Participant would no longer be controlled or at least 51% owned by disadvantaged individuals.
 
 (2) The procuring activity may not assess repurchase costs or other damages against the Participant due solely to the provisions of this section.
 
@@ -30,9 +24,17 @@ Link to an amendment published at 88 FR 26208, Apr. 27, 2023.
 
 (iii) The disadvantaged owners will maintain control of the daily business operations of the concern.
 
-(c) The 8(a) contractor must request a waiver in writing prior to the change of ownership and control except in the case of death or incapacity. A request for waiver due to incapacity or death must be submitted within 60 days after such occurrence. The Participant seeking to change ownership or control must specify the grounds upon which it requests a waiver, and must demonstrate that the proposed transaction would meet such grounds.
+(c) The 8(a) contractor must request a waiver in writing prior to the change of ownership and control except in the case of death or incapacity. A request for waiver due to incapacity or death must be submitted within 60 calendar days after such occurrence.
 
-(d) SBA determines the eligibility of an acquiring Participant under paragraph (b)(2) of this section by referring to the items identified in § 124.501(g) and deciding whether at the time of the request for waiver (and prior to the transaction) the acquiring Participant is an eligible concern with respect to each contract for which a waiver is sought. As part of the waiver request, the acquiring concern must certify that it is a small business for the size standard corresponding to the NAICS code assigned to each contract for which a waiver is sought. SBA will not grant a waiver for any contract if the work to be performed under the contract is not similar to the type of work previously performed by the acquiring concern.
+(1) A request for a waiver to the termination for convenience requirement must be sent to the AA/BD.
+
+(2) The Participant seeking to change ownership or control must specify the grounds upon which it requests a waiver and must demonstrate that the proposed transaction would meet such grounds.
+
+(3) If a Participant seeks a waiver based on the impairment of the agency's objectives under paragraph (b)(4) of this section, it must identify and provide a certification from the procuring agency relating to each 8(a) contract for which a waiver is sought.
+
+(4) SBA will process a request for waiver within 90 days of receipt of a complete waiver package by the AA/BD.
+
+(d) SBA determines the eligibility of an acquiring Participant under paragraph (b)(2) of this section by referring to the items identified in § 124.501(g) and deciding whether at the time of the request for waiver (and prior to the transaction) the acquiring Participant is an eligible concern with respect to each contract for which a waiver is sought. As part of the waiver request, the acquiring concern must certify that it is a small business for the size standard corresponding to the NAICS code assigned to each contract for which a waiver is sought.
 
 (e) Anyone other than a procuring agency head who submits a certification regarding the impairment of the agency's objectives under paragraph (b)(4) of this section, must also certify delegated authority to make the certification.
 
@@ -48,4 +50,4 @@ Link to an amendment published at 88 FR 26208, Apr. 27, 2023.
 
 (i) The 8(a) contractor may appeal SBA's denial of a waiver request by filing a petition with OHA pursuant to part 134 of this chapter within 45 days after the contractor receives the Administrator's decision.
 
-[63 FR 35739, June 30, 1998, as amended at 67 FR 47246, July 18, 2002; 81 FR 48584, July 25, 2016; 85 FR 66191, Oct. 16, 2020]
+[63 FR 35739, June 30, 1998, as amended at 67 FR 47246, July 18, 2002; 81 FR 48584, July 25, 2016; 85 FR 66191, Oct. 16, 2020; 88 FR 26208, Apr. 27, 2023]

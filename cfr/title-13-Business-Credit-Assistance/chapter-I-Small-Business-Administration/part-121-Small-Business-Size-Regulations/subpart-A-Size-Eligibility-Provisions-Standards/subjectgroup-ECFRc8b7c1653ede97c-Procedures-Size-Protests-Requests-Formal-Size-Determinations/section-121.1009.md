@@ -1,12 +1,22 @@
 ##### § 121.1009 What are the procedures for making the size determination? #####
 
-Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
+(a) *Time frame for making size determination.* (1) After receipt of a protest or a request for a formal size determination, if no protest is pending under FAR subpart 33.1, the SBA Area Office will issue a formal size determination within 15 business days, if possible;
 
-(a) *Time frame for making size determination.* (1) After receipt of a protest or a request for a formal size determination, the SBA Area Office will issue a formal size determination within 15 business days, if possible.
+(2) If a protest is pending under FAR subpart 33.1, the SBA Area Office will suspend processing a valid, timely and specific size protest. Once the procuring agency, GAO or the Court of Federal Claims issues a decision under FAR subpart 33.1, the SBA Area Office will recommence the size determination process.
 
-(2) The contracting officer may award a contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (g) of this section apply to the procurement in question.
+(i) If the FAR subpart 33.1 decision denies the protest, SBA will issue a formal size determination within 15 business days of the decision, if possible.
 
-(3) If SBA does not issue its determination within 15 business days (or request an extension that is granted), the contracting officer may award the contract if he or she determines in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the Government. Notwithstanding such a determination, the provisions of paragraph (g) of this section apply to the procurement in question.
+(ii) If the decision results in a cancellation of the award or change of the apparent successful offeror, SBA will dismiss the size protest as moot.
+
+(iii) If the decision requires re-evaluation of offers or other corrective action but the award is not cancelled, SBA will continue to suspend processing the protest.
+
+(A) If after re-evaluation or other corrective action occurs the protested concern remains the apparent successful offeror, SBA will issue a formal size determination within 15 business days after notification of the apparent successful offeror, if possible.
+
+(B) If after re-evaluation or other corrective action occurs a different apparent successful offeror is identified, SBA will dismiss the size protest as moot. Interested parties may file a timely size protest with respect to the newly identified apparent successful offeror after the notification of award.
+
+(3) The contracting officer may award a contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (g) of this section apply to the procurement in question.
+
+(4) If SBA does not issue its determination in accordance with paragraph (a)(1) of this section (or request an extension that is granted), the contracting officer may award the contract if he or she determines in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the Government. Notwithstanding such a determination, the provisions of paragraph (g) of this section apply to the procurement in question.
 
 (b) *Basis for determination.* The size determination will be based primarily on the information supplied by the protestor or the entity requesting the size determination and that provided by the concern whose size status is at issue. The determination, however, may also be based on grounds not raised in the protest or request for size determination. SBA may use other information and may make requests for additional information to the protestor, the concern whose size status is at issue and any alleged affiliates, or other parties.
 
@@ -32,8 +42,12 @@ Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
 
 (4) Once SBA has determined that a concern is other than small for purposes of a particular procurement, the concern cannot later become eligible for the procurement by reducing its size.
 
-(5) A concern determined to be other than small under a particular size standard is ineligible for any procurement or any assistance authorized by the Small Business Act or the Small Business Investment Act of 1958 which requires the same or a lower size standard, unless SBA recertifies the concern to be small pursuant to § 121.1010 or OHA reverses the adverse size determination. After an adverse size determination, a concern cannot self-certify as small under the same or lower size standard unless it is first recertified as small by SBA. If a concern does so, it may be in violation of criminal laws, including section 16(d) of the Small Business Act, 15 U.S.C. 645(d). If the concern has already certified itself as small on a pending procurement or on an application for SBA assistance, the concern must immediately inform the officials responsible for the pending procurement or requested assistance of the adverse size determination.
+(5) A concern determined to be other than small under a particular size standard is ineligible for any procurement or any assistance authorized by the Small Business Act or the Small Business Investment Act of 1958 which requires the same or a lower size standard, unless SBA recertifies the concern to be small pursuant to § 121.1010 or OHA reverses the adverse size determination. After an adverse size determination, a concern cannot self-certify as small under the same or lower size standard unless it is first recertified as small by SBA. If a concern does so, it may be in violation of criminal laws, including section 16(d) of the Small Business Act, 15 U.S.C. 645(d). If the concern has already certified itself as small under the same or a smaller size standard on a pending procurement or on an application for SBA assistance, the concern must immediately inform the contracting officer or responsible official of the adverse size determination.
+
+(i) Not later than two days after the date on which SBA issues a final size determination finding a business concern to be other than small, such concern must update its size status in the System for Award Management (or any successor system).
+
+(ii) If a business concern fails to update its size status in the System for Award Management (or any successor system) in response to an adverse size determination, SBA will make such update within two days of the business's failure to do so.
 
 (h) *Limited reopening of size determinations.* SBA may, in its sole discretion, reopen a formal size determination to correct an error or mistake, provided it is within the appeal period and no appeal has been filed with OHA. Once the agency has issued a final decision (either a formal size determination that is not timely appealed or an appellate decision), SBA cannot re-open the size determination.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 67 FR 47245, July 18, 2002; 69 FR 29207, May 21, 2004; 76 FR 5683, Feb. 2, 2011; 78 FR 38818, June 28, 2013]
+[61 FR 3286, Jan. 31, 1996, as amended at 67 FR 47245, July 18, 2002; 69 FR 29207, May 21, 2004; 76 FR 5683, Feb. 2, 2011; 78 FR 38818, June 28, 2013; 88 FR 26202, Apr. 27, 2023]

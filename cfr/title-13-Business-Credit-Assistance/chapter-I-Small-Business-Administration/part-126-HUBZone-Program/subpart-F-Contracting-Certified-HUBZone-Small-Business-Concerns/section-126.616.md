@@ -1,8 +1,10 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer and be eligible to perform on a HUBZone contract? #####
 
-Link to an amendment published at 88 FR 26212, Apr. 27, 2023.
+(a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an SBA-approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a HUBZone contract.
 
-(a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be a certified HUBZone small business concern.
+(1) The joint venture itself need not be a certified HUBZone small business concern, but the joint venture should be designated as a HUBZone joint venture in SAM (or successor system) with the HUBZone-certified joint venture partner identified.
+
+(2) A certified HUBZone small business concern cannot be a joint venture partner on more than one joint venture that submits an offer for a specific contract or order set-aside or reserved for certified HUBZone small business concerns.
 
 (b) *Size.* (1) A joint venture of at least one certified HUBZone small business concern and one or more other business concerns may submit an offer as a small business for a HUBZone procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.
 
@@ -86,4 +88,4 @@ Link to an amendment published at 88 FR 26212, Apr. 27, 2023.
 
 (k) Any person with information concerning a joint venture's compliance with the limitations on subcontracting requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021]
+[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021; 88 FR 26212, Apr. 27, 2023]

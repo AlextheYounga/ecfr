@@ -1,10 +1,10 @@
 ##### § 124.304 What are the procedures for early graduation and termination? #####
 
-Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
-
 (a) *General.* The same procedures apply to both early graduation and termination of Participants from the 8(a) BD program.
 
-(b) *Letter of Intent to Terminate or Graduate Early.* When SBA believes that a Participant should be terminated or graduated prior to the expiration of its program term, SBA will notify the concern in writing. The Letter of Intent to Terminate or Graduate Early will set forth the specific facts and reasons for SBA's findings, and will notify the concern that it has 30 days from the date it receives the letter to submit a written response to SBA explaining why the proposed ground(s) should not justify termination or early graduation.
+(b) *Letter of Intent to Terminate or Graduate Early.* (1) Except as set forth in paragraph (b)(2) of this section, when SBA believes that a Participant should be terminated or graduated prior to the expiration of its program term, SBA will notify the concern in writing. The Letter of Intent to Terminate or Graduate Early will set forth the specific facts and reasons for SBA's findings and will notify the concern that it has 30 days from the date it receives the letter to submit a written response to SBA explaining why the proposed ground(s) should not justify termination or early graduation.
+
+(2) Where SBA obtains evidence that a Participant has ceased its operations, the AA/BD may immediately terminate a concern's participation in the 8(a) BD program by notifying the concern of its termination and right to appeal that decision to OHA.
 
 (c) *Recommendation and decision.* Following the 30-day response period, the Assistant Administrator for DPCE (AA/DPCE) or designee will consider the proposed early graduation or termination and any information submitted in response by the concern. Upon determining that early graduation or termination is not warranted, the AA/DPCE or designee will notify the Participant in writing. If early graduation or termination appears warranted, the AA/DPCE will make such a recommendation to the AA/BD, who will then make a decision whether to early graduate or terminate the concern. SBA will act in a timely manner in processing early graduation and termination actions.
 
@@ -23,6 +23,6 @@ Once the AA/BD issues a decision to early graduate or terminate a Participant, t
 
 (iii) Where applicable, the circumstances that have changed since the early graduation or termination or that do not prevent it from qualifying as an SDB.
 
-(3) Where a concern certifies that it qualifies as an SDB pursuant to paragraph (f)(2) of the section, the procuring activity contracting officer may protest the SDB status of the firm to SBA pursuant to § 124.1010 where questions regarding the firm's SDB status remain.
+(3) Where a concern certifies that it qualifies as an SDB pursuant to paragraph (f)(2) of the section, the procuring activity contracting officer may protest the SDB status of the firm to SBA pursuant to § 124.1002 where questions regarding the firm's SDB status remain.
 
-[63 FR 35739, June 30, 1998, as amended at 67 FR 47246, July 18, 2002; 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011; 85 FR 66186, Oct. 16, 2020]
+[63 FR 35739, June 30, 1998, as amended at 67 FR 47246, July 18, 2002; 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011; 85 FR 66186, Oct. 16, 2020; 88 FR 26205, Apr. 27, 2023]

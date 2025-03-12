@@ -1,3 +1,5 @@
-##### § 102-39.90 xxx #####
+##### § 102-39.90 Where do I obtain additional information? #####
 
-Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
+Additional information is provided at the GSA websites *www.gsa.gov/bulletin* and *www.gsa.gov/exchangesale.*
+
+[88 FR 25511, Apr. 27, 2023]

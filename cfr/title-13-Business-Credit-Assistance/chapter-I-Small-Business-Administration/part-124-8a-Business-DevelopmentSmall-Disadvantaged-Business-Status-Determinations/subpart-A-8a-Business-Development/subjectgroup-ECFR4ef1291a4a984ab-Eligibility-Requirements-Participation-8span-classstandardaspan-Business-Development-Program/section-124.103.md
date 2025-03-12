@@ -1,7 +1,5 @@
 ##### § 124.103 Who is socially disadvantaged? #####
 
-Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
-
 (a) *General.* Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias within American society because of their identities as members of groups and without regard to their individual qualities. The social disadvantage must stem from circumstances beyond their control.
 
 (b) *Members of designated groups.* (1) There is a rebuttable presumption that the following individuals are socially disadvantaged: Black Americans; Hispanic Americans; Native Americans (Alaska Natives, Native Hawaiians, or enrolled members of a Federally or State recognized Indian Tribe); Asian Pacific Americans (persons with origins from Burma, Thailand, Malaysia, Indonesia, Singapore, Brunei, Japan, China (including Hong Kong), Taiwan, Laos, Cambodia (Kampuchea), Vietnam, Korea, The Philippines, U.S. Trust Territory of the Pacific Islands (Republic of Palau), Republic of the Marshall Islands, Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, Guam, Samoa, Macao, Fiji, Tonga, Kiribati, Tuvalu, or Nauru); Subcontinent Asian Americans (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands or Nepal); and members of other groups designated from time to time by SBA according to procedures set forth at paragraph (d) of this section. Being born in a country does not, by itself, suffice to make the birth country an individual's country of origin for purposes of being included within a designated group.
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
 
 (2) Evidence of individual social disadvantage must include the following elements:
 
-(i) At least one objective distinguishing feature that has contributed to social disadvantage, such as race, ethnic origin, gender, physical handicap, long-term residence in an environment isolated from the mainstream of American society, or other similar causes not common to individuals who are not socially disadvantaged;
+(i) At least one objective distinguishing feature that has contributed to social disadvantage, such as race, ethnic origin, gender, identifiable disability, long-term residence in an environment isolated from the mainstream of American society, or other similar causes not common to individuals who are not socially disadvantaged;
 
 (ii) The individual's social disadvantage must be rooted in treatment which he or she has experienced in American society, not in other countries;
 
@@ -66,4 +64,4 @@ Example to paragraph (*c*)(3)(*iii*).A woman who is not a member of a designated
 
 (4) *Decision.* In making a final decision that a group should be considered presumptively disadvantaged, SBA must find that a preponderance of the evidence demonstrates that the group has met the standards set forth in paragraph (d)(2) of this section based on SBA's consideration of the group petition, the comments from the public, and any independent research it performs. SBA will advise the petitioners of its final decision in writing, and publish its conclusion as a notice in the Federal Register. If appropriate, SBA will amend paragraph (b)(1) of this section to include a new group.
 
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8254, Feb. 11, 2011; 81 FR 48579, July 25, 2016]
+[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8254, Feb. 11, 2011; 81 FR 48579, July 25, 2016; 88 FR 26204, Apr. 27, 2023]

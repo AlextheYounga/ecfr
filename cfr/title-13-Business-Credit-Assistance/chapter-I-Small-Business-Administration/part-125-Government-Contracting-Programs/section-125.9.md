@@ -1,7 +1,5 @@
 ##### § 125.9 What are the rules governing SBA's small business mentor-protégé program? #####
 
-Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
-
 (a) *General.* The small business mentor-protégé program is designed to enhance the capabilities of protégé firms by requiring approved mentors to provide business development assistance to protégé firms and to improve the protégé firms' ability to successfully compete for federal contracts. This assistance may include technical and/or management assistance; financial assistance in the form of equity investments and/or loans; subcontracts (either from the mentor to the protégé or from the protégé to the mentor); trade education; and/or assistance in performing prime contracts with the Government through joint venture arrangements. Mentors are encouraged to provide assistance relating to the performance of contracts set aside or reserved for small business so that protégé firms may more fully develop their capabilities.
 
 (b) *Mentors.* Any concern that demonstrates a commitment and the ability to assist small business concerns may act as a mentor and receive benefits as set forth in this section. This includes other than small businesses.
@@ -20,7 +18,11 @@ Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
 
 (i) A mentor that has more than one protégé cannot submit competing offers in response to a solicitation for a specific procurement through separate joint ventures with different protégés.
 
-(ii) A mentor generally cannot have more than three protégés at one time. However, the first two mentor-protégé relationships approved by SBA between a specific mentor and a covered territory business, or a specific mentor and a small business that has its principal office located in the Commonwealth of Puerto Rico, do not count against the limit of three proteges that a mentor can have at one time.
+(ii) A mentor (including in the aggregate a parent company and all of its subsidiaries) generally cannot have more than three protégés at one time.
+
+(A) The first two mentor-protégé relationships approved by SBA between a specific mentor and a small business that has its principal office located in the Commonwealth of Puerto Rico do not count against the limit of three proteges that a mentor can have at one time.
+
+(B) Where a mentor purchases another business entity that is also an SBA-approved mentor of one or more protégé small business concerns and the purchasing mentor commits to honoring the obligations under the seller's mentor-protégé agreement(s), that entity may have more than three protégés (*i.e.,* those of the purchased concern in addition to those of its own). In such a case, the entity could not add another protégé until it fell below three in total.
 
 (c) *Protégés.* (1) In order to initially qualify as a protégé firm, a concern must qualify as small for the size standard corresponding to its primary NAICS code or identify that it is seeking business development assistance with respect to a secondary NAICS code and qualify as small for the size standard corresponding to that NAICS code.
 
@@ -66,9 +68,11 @@ Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
 
 (i) Specifically identify the business development assistance to be provided and address how the assistance will help the protégé enhance its growth and/or foster or acquire needed capabilities;
 
-(ii) Establish a single point of contact in the mentor concern who is responsible for managing and implementing the mentor-protégé agreement; and
+(ii) Identify the specific entity or entities that will provide assistance to or participate in joint ventures with the protégé where the mentor is a parent or subsidiary concern;
 
-(iii) Provide that the mentor will provide such assistance to the protégé firm for at least one year.
+(iii) Establish a single point of contact in the mentor concern who is responsible for managing and implementing the mentor-protégé agreement; and
+
+(iv) Provide that the mentor will provide such assistance to the protégé firm for at least one year.
 
 (2) A firm seeking SBA's approval to be a protégé must identify any other mentor-protégé relationship it has through another federal agency or SBA and provide a copy of each such mentor-protégé agreement to SBA.
 
@@ -89,6 +93,8 @@ Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
 (ii) If a mentor-protégé agreement is terminated within 18 months from the date SBA approved the agreement, that mentor-protégé relationship will generally not count as one of the two mentor-protégé relationships that a small business may enter as a protégé. However, where a specific small business protégé appears to enter into many short-term mentor-protégé relationships as a means of extending its program eligibility as a protégé, SBA may determine that the business concern has exhausted its participation in the mentor-protégé program and not approve an additional mentor-protégé relationship.
 
 (iii) If during the evaluation of the mentor-protégé relationship pursuant to paragraphs (g) and (h) of this section SBA determines that a mentor has not provided the business development assistance set forth in its mentor-protégé agreement or that the quality of the assistance provided was not satisfactory, SBA may allow the protégé to substitute another mentor for the time remaining in the mentor-protégé agreement without counting against the two-mentor limit.
+
+(iv) Instead of having a six-year mentor-protégé relationship with two separate mentors, a protégé may elect to extend or renew a mentor-protégé relationship with the same mentor for a second six-year term. In order for SBA to approve an extension or renewal of a mentor-protégé relationship with the same mentor, the mentor must commit to providing additional business development assistance to the protégé.
 
 (7) SBA must approve all changes to a mentor-protégé agreement in advance, and any changes made to the agreement must be provided in writing. If the parties to the mentor-protégé relationship change the mentor-protégé agreement without prior approval by SBA, SBA shall terminate the mentor-protégé relationship and may also propose suspension or debarment of one or both of the firms pursuant to paragraph (h) of this section where appropriate.
 
@@ -140,4 +146,4 @@ Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
 
 (2) Where a protégé does not report the results of a mentor-protégé relationship upon its completion, SBA will not approve a second mentor-protégé relationship either under this section or under § 124.520 of this chapter.
 
-[81 FR 48585, July 25, 2016, as amended at 85 FR 66194, Oct. 16, 2020; 87 FR 50927, Aug. 19, 2022]
+[81 FR 48585, July 25, 2016, as amended at 85 FR 66194, Oct. 16, 2020; 87 FR 50927, Aug. 19, 2022; 88 FR 26211, Apr. 27, 2023]

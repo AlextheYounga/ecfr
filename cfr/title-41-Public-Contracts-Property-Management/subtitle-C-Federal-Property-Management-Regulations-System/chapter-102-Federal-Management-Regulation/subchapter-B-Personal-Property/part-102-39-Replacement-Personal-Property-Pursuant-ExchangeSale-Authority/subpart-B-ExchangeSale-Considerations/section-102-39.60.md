@@ -1,30 +1,22 @@
 ##### § 102-39.60 What restrictions and prohibitions apply to the exchange/sale of personal property? #####
 
-Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
-
 Unless a deviation is requested of and approved by GSA as addressed in part 102-2 of this chapter and the provisions of §§ 102-39.25 and 102-39.30, you must not use the exchange/sale authority for:
 
-(a) The following FSC groups of personal property:
+(a) The following FSC Groups of personal property:
 
-10 Weapons.
+(1) 10 Weapons.
 
-11 Nuclear ordnance.
+(2) 11 Nuclear ordinance.
 
-42 Firefighting, rescue, and safety equipment.
+(3) 44 Furnace, Steam Plant, and Drying Equipment; and Nuclear Reactors (FSC Class 4470, Nuclear Reactors only).
 
-44 Nuclear reactors (FSC Class 4470 only).
+(4) 68 Chemical and chemical products.
 
-51 Hand tools.
+(5) 84 Clothing, individual equipment, and insignia.
 
-54 Prefabricated structure and scaffolding (FSC Class 5410 Prefabricated and Portable Buildings, FSC Class 5411 Rigid Wall Shelters, and FSC Class 5419 Collective Modular Support System only).
+Note 1 to paragraph (a):
 
-68 Chemicals and chemical products, except medicinal chemicals.
-
-84 Clothing, individual equipment, and insignia.
-
-Note to § 102-39.60(a):
-
-Under no circumstances will deviations be granted for FSC Class 1005, Guns through 30mm. Deviations are not required for Department of Defense (DoD) property in FSC Groups 10 (for classes other than FSC Class 1005), 12 and 14 for which the applicable DoD demilitarization requirements, and any other applicable regulations and statutes are met.
+Under no circumstances will deviations be granted for FSC Class 1005, Guns through 30mm. Deviations are not required for Department of Defense (DoD) property in FSC Groups 10 (for classes other than FSC Class 1005), or any other FSC Group, for which the applicable DoD demilitarization requirements, and any other applicable regulations and statutes are met.
 
 (b) Materials in the National Defense Stockpile (50 U.S.C. 98-98h) or the Defense Production Act inventory (50 U.S.C. App. 2093).
 
@@ -62,4 +54,4 @@ Under no circumstances will deviations be granted for FSC Class 1005, Guns throu
 
 (m) Aircraft and aircraft parts, unless there is full compliance with all exchange/sale provisions in part 102-33 of this chapter (41 CFR part 102-33).
 
-[66 FR 48614, Sept. 21, 2001; 66 FR 51095, Oct. 5, 2001, as amended at 69 FR 11539, Mar. 11, 2004; 71 FR 20900, Apr. 24, 2006. Redesignated at 73 FR 50880, Aug. 29, 2008; 75 FR 24820, May 6, 2010; 76 FR 67372, Nov. 1, 2011]
+[66 FR 48614, Sept. 21, 2001; 66 FR 51095, Oct. 5, 2001, as amended at 69 FR 11539, Mar. 11, 2004; 71 FR 20900, Apr. 24, 2006. Redesignated at 73 FR 50880, Aug. 29, 2008; 75 FR 24820, May 6, 2010; 76 FR 67372, Nov. 1, 2011; 88 FR 25511, Apr. 27, 2023]
