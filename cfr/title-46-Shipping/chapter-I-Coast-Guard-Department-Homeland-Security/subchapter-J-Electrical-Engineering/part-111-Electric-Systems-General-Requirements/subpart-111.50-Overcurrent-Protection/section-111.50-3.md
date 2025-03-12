@@ -1,5 +1,7 @@
 ##### § 111.50-3 Protection of conductors. #####
 
+Link to an amendment published at 88 FR 16362, Mar. 16, 2023.
+
 (a) *Purpose.* The purpose of overcurrent protection for conductors is to open the electric circuit if the current reaches a value that will cause an excessive or dangerous temperature in the conductor or conductor insulation. A grounded conductor is protected from overcurrent if a protective device of a suitable rating or setting is in each ungrounded conductor of the same circuit.
 
 (b) *Overcurrent protection of conductors.* Each conductor must be protected in accordance with its current carrying capacity, except a conductor for the following circuits which must meet the following listed subparts of this chapter:

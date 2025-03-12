@@ -1,5 +1,7 @@
 ##### § 110.56 Noroton Harbor, Darien, Conn. #####
 
+Link to an amendment published at 88 FR 16188, Mar. 16, 2023.
+
 (a) Beginning at a point on the southwesterly side of Long Neck Point at latitude 41°02′10″, longitude 73°28′44″; thence northwesterly to latitude 41°02′17″, longitude 73°29′11″; thence in a north-northwesterly direction to the southeast side of Pratt Island at latitude 41°02′28″, longitude 73°29′17″; thence following the shoreline around the easterly and northerly sides of Pratt Island, the westerly and northerly sides of Pratt Cove, and the westerly side of the Darien River to the causeway and dam at Gorham Pond on the north; thence along the downstream side of the causeway and dam to the easterly side of the Darien River, thence along the easterly shoreline to the point of beginning.
 
 Note:

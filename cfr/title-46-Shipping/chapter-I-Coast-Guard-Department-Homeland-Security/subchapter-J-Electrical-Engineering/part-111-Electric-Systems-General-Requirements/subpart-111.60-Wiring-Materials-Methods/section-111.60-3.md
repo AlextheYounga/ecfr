@@ -1,5 +1,7 @@
 ##### § 111.60-3 Cable application. #####
 
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
 (a)(1) Cable constructed according to IEEE 1580 must meet the provisions for cable application of section 24 of IEEE 45-2002 (both incorporated by reference; see 46 CFR 110.10-1).
 
 (2) Cable constructed according to IEC 60092-353 or UL 1309 (both incorporated by reference; see 46 CFR 110.10-1) must meet section 24 of IEEE 45-2002, except 24.6.1, 24.6.7, and 24.8.

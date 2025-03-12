@@ -1,5 +1,7 @@
 ##### § 110.59 Eastern Long Island, NY. #####
 
+Link to an amendment published at 88 FR 16188, Mar. 16, 2023.
+
 (a) *Huntington Harbor.* Beginning on the shoreline at latitude 40°54′19.5″, longitude 73°26′07.9″; thence to latitude 40°54′19.5″, longitude 73°26′02.4″; thence along the eastern shoreline to the Mill Dam Road Bridge; thence along the downstream side of the bridge to the westerly side of Huntington Harbor; thence along the western shoreline to the point of beginning.
 
 (b) *Centerport Harbor.* Beginning at the shoreline at latitude 40°54′00″ , longitude 73°22′55.3″; thence to latitude 40°54′03.8″, longitude 73°22′52.1″; thence along the eastern shoreline to the Mill Dam Bridge; thence along the downstream side of the bridge to the westerly side of Centerport Harbor; thence along the western shoreline to the point of beginning.

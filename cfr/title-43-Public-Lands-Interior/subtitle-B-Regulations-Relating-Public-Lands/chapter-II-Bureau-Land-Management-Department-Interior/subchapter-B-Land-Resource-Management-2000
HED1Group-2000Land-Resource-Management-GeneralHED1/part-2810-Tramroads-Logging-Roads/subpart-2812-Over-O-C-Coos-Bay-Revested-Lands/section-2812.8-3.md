@@ -1,0 +1,3 @@
+##### § 2812.8-3 Disposition of property on termination of permit. #####
+
+Upon the expiration or other termination of the permittee's rights, in the absence of an agreement to the contrary, the permittee will be allowed 6 months in which to remove or otherwise dispose of all property or improvements, other than the road and usable improvements to the road, placed by him on the right-of-way, but if not removed within this period, all such property and improvements shall become the property of the United States.

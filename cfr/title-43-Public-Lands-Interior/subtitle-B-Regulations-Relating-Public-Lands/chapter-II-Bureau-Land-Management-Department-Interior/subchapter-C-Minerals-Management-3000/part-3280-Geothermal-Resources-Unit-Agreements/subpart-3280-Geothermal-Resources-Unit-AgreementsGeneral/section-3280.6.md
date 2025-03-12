@@ -1,0 +1,3 @@
+##### § 3280.6 When may BLM require a unit operator to modify the rate of exploration, development, or production? #####
+
+BLM may require a unit agreement applying to lands owned by the United States to contain a provision under which BLM or an entity designated in the unit agreement may alter or modify, from time-to-time, the rate of resource exploration or development, or production quantity or rate, under the unit agreement.

@@ -1,12 +1,10 @@
-##### § 4.22 Documents. #####
-
-Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
+##### § 4.22 Documents; filing and service. #####
 
 (a) *Filing of documents.* A document is filed in the office where the filing is required only when the document is received in that office during its regular business hours and by a person authorized to receive it. A document received after the office's regular business hours is considered filed on the next business day.
 
 (b) *Service generally.* A copy of each document filed in a proceeding before the Office of Hearings and Appeals must be served by the filing party on the other party or parties in the case, except as otherwise provided by § 4.31. In all cases where a party is represented by an attorney, such attorney will be recognized as fully controlling the case on behalf of his/her client, and service of any document relating to the proceeding shall be made upon such attorney in addition to any other service specifically required by law or by order of a presiding official or an appeals board. Where a party is represented by more than one attorney, service upon one of the attorneys shall be sufficient.
 
-(c) *Retention of documents.* All documents, books, records, papers, etc., received in evidence in a hearing or submitted for the record in any proceeding before the Office of Hearings and Appeals will be retained with the official record of the proceedings. However, the withdrawal of original documents may be permitted while the case is pending upon the submission of true copies in lieu thereof. When a decision has become final, an appeals board in its discretion may, upon request and after notice to the other party or parties, permit the withdrawal of original exhibits or any part thereof by the party entitled thereto. The substitution of true copies of exhibits or any part thereof may be required by the Board in its discretion as a condition of granting permission for such withdrawal. Transcripts of testimony and/or documents received or reviewed pursuant to § 4.31 of these rules shall be sealed against disclosure to unauthorized persons and retained with the official record, subject to the withdrawal and substitution provisions hereof.
+(c) *Retention of documents.* All documents, books, records, etc., received in evidence in a hearing or submitted for the record in any proceeding before the Office of Hearings and Appeals will be retained with the official record of the proceedings. However, the withdrawal of original documents may be permitted while the case is pending upon the submission of true copies in lieu thereof. When a decision has become final, an appeals board in its discretion may, upon request and after notice to the other party or parties, permit the withdrawal of original exhibits or any part thereof by the party entitled thereto. The substitution of true copies of exhibits or any part thereof may be required by the Board in its discretion as a condition of granting permission for such withdrawal. Transcripts of testimony and/or documents received or reviewed pursuant to § 4.31 of these rules shall be sealed against disclosure to unauthorized persons and retained with the official record, subject to the withdrawal and substitution provisions hereof.
 
 (d) *Record address.* Every person who files a document for the record in connection with any proceeding before the Office of Hearings and Appeals shall at the time of his initial filing in the matter state his address. Thereafter he must promptly inform the office in which the matter is pending of any change in address, giving the docket or other appropriate numbers of all matters in which he has made such a filing. The successors of such person shall likewise promptly inform such office of their interest in the matters and state their addresses. If a person fails to furnish a record address as required herein, he will not be entitled to notice in connection with the proceedings.
 
@@ -16,4 +14,10 @@ Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
 
 (2) A request for an extension of time must be filed within the time allowed for the filing or serving of the document and must be filed in the same office in which the document in connection with which the extension is requested must be filed.
 
-[36 FR 7186, Apr. 15, 1971, as amended at 53 FR 49660, Dec. 9, 1988; 75 FR 64663, Oct. 20, 2010]
+(g) *Electronic transmission of documents.* A document may be electronically transmitted under the terms of specified in the OHA Standing Orders on Electronic Transmission issued by the Director. When done in accordance with the Standing Orders, a document may be:
+
+(1) Filed by electronic transmission; and
+
+(2) Served on or transmitted to a person or party by electronic transmission, if that person or party has consented to such means.
+
+[36 FR 7186, Apr. 15, 1971, as amended at 53 FR 49660, Dec. 9, 1988; 75 FR 64663, Oct. 20, 2010; 88 FR 5792, Jan. 30, 2023]

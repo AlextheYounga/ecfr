@@ -1,0 +1,3 @@
+##### § 2203.0-6 Policy. #####
+
+When determining whether a fee exchange of the Federal coal deposits is in the public interest, it is the policy of the Department of the Interior to consider whether the exchange will create or maintain a situation inconsistent with the Federal anti-trust laws. The Bureau of Land Management, in making the determination of public interest, shall consider the advice of the Attorney General of the United States concerning whether the exchange will create or maintain a situation inconsistent with the Federal antitrust laws.

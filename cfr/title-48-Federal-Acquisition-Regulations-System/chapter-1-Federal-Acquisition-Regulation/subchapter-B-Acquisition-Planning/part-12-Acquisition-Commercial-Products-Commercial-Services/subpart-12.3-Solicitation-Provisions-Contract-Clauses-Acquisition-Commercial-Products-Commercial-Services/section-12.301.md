@@ -1,8 +1,6 @@
 ##### 12.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
-
-(a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial products or commercial services shall, to the maximum extent practicable, include only those clauses -
+(a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial products or commercial services shall, to the maximum extent practicable, include only those clauses—
 
 (1) Required to implement provisions of law or executive orders applicable to the acquisition of commercial products or commercial services; or
 
@@ -10,13 +8,13 @@ Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
 
 (b) Insert the following provisions in solicitations for the acquisition of commercial products or commercial services, and clauses in solicitations and contracts for the acquisition of commercial products or commercial services:
 
-(1) *The provision at 52.212-1, Instructions to Offerors* - *Commercial Products and Commercial Services.* This provision provides a single, streamlined set of instructions to be used when soliciting offers for commercial products or commercial services and is incorporated in the solicitation by reference (see Block 27a, SF 1449). The contracting officer may tailor these instructions or provide additional instructions tailored to the specific acquisition in accordance with 12.302.
+(1) *The provision at 52.212-1, Instructions to Offerors*—*Commercial Products and Commercial Services.* This provision provides a single, streamlined set of instructions to be used when soliciting offers for commercial products or commercial services and is incorporated in the solicitation by reference (see Block 27a, SF 1449). The contracting officer may tailor these instructions or provide additional instructions tailored to the specific acquisition in accordance with 12.302.
 
-(2) *The provision at 52.212-3, Offeror Representations and Certifications* - *Commercial Products and Commercial Services* This provision provides a single, consolidated list of representations and certifications for the acquisition of commercial products or commercial services and is attached to the solicitation for offerors to complete. This provision may not be tailored except in accordance with subpart 1.4. Use the provision with its Alternate I in solicitations issued by DoD, NASA, or the Coast Guard.
+(2) *The provision at 52.212-3, Offeror Representations and Certifications*—*Commercial Products and Commercial Services* This provision provides a single, consolidated list of representations and certifications for the acquisition of commercial products or commercial services and is attached to the solicitation for offerors to complete. This provision may not be tailored except in accordance with subpart 1.4. Use the provision with its Alternate I in solicitations issued by DoD, NASA, or the Coast Guard.
 
-(3) *The clause at 52.212-4, Contract Terms and Conditions - Commercial Products and Commercial Services* This clause includes terms and conditions which are, to the maximum extent practicable, consistent with customary commercial practices and is incorporated in the solicitation and contract by reference (see Block 27, SF 1449). Use this clause with its Alternate I when a time-and-materials or labor-hour contract will be awarded. The contracting officer may tailor this clause in accordance with 12.302.
+(3) *The clause at 52.212-4, Contract Terms and Conditions— Commercial Products and Commercial Services* This clause includes terms and conditions which are, to the maximum extent practicable, consistent with customary commercial practices and is incorporated in the solicitation and contract by reference (see Block 27, SF 1449). Use this clause with its Alternate I when a time-and-materials or labor-hour contract will be awarded. The contracting officer may tailor this clause in accordance with 12.302.
 
-(4) *The clause at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Products and Commercial Services* This clause incorporates by reference only those clauses required to implement provisions of law or Executive orders applicable to the acquisition of commercial products or commercial services. The contracting officer shall attach this clause to the solicitation and contract and, using the appropriate clause prescriptions, indicate which, if any, of the additional clauses cited in 52.212-5(b) or (c) are applicable to the specific acquisition. Some of the clauses require fill-in; the fill-in language should be inserted as directed by 52.104(d). When cost information is obtained pursuant to part 15 to establish the reasonableness of prices for commercial products or commercial services, the contracting officer shall insert the clauses prescribed for this purpose in an addendum to the solicitation and contract. This clause may not be tailored.
+(4) *The clause at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders— Commercial Products and Commercial Services* This clause incorporates by reference only those clauses required to implement provisions of law or Executive orders applicable to the acquisition of commercial products or commercial services. The contracting officer shall attach this clause to the solicitation and contract and, using the appropriate clause prescriptions, indicate which, if any, of the additional clauses cited in 52.212-5(b) or (c) are applicable to the specific acquisition. Some of the clauses require fill-in; the fill-in language should be inserted as directed by 52.104(d). When cost information is obtained pursuant to part 15 to establish the reasonableness of prices for commercial products or commercial services, the contracting officer shall insert the clauses prescribed for this purpose in an addendum to the solicitation and contract. This clause may not be tailored.
 
 (i) Use the clause with its Alternate I when the head of the agency has waived the examination of records by the Comptroller General in accordance with 25.1001.
 
@@ -28,9 +26,9 @@ Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
 
 (C) The contracting officer may not use Alternate I when Alternate II applies.
 
-(c) When the use of evaluation factors is appropriate, the contracting officer may -
+(c) When the use of evaluation factors is appropriate, the contracting officer may—
 
-(1) Insert the provision at 52.212-2, Evaluation - Commercial Services, in solicitations for commercial products or commercial services (see 12.602); or
+(1) Insert the provision at 52.212-2, Evaluation—Commercial Services, in solicitations for commercial products or commercial services (see 12.602); or
 
 (2) Include a similar provision containing all evaluation factors required by section 13.106, subpart 14.2 or subpart 15.3, as an addendum (see 12.302(d)).
 
@@ -58,13 +56,11 @@ Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
 
 (11) Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4.
 
-(12) Insert the provision at 52.229-11, Tax on Certain Foreign Procurements - Notice and Representation, in solicitations as prescribed in 29.402-3(a). The representation in the provision at 52.229-11 is not in the System for Award Management.
+(12) Insert the provision at 52.229-11, Tax on Certain Foreign Procurements—Notice and Representation, in solicitations as prescribed in 29.402-3(a). The representation in the provision at 52.229-11 is not in the System for Award Management.
 
-(13) Insert the clause at 52.229-13, Taxes - Foreign Contracts in Afghanistan, as prescribed in 29.402-4(a).
+(13) Insert the clause at 52.229-13, Taxes—Foreign Contracts in Afghanistan, as prescribed in 29.402-4(a).
 
-(14) Insert the clause at 52.229-14, Taxes - Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement), as prescribed in 29.402-4(b).
-
-(15) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
+(14) Insert the clause at 52.229-14, Taxes—Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement), as prescribed in 29.402-4(b).
 
 (e) *Discretionary use of FAR provisions and clauses.* The contracting officer may include in solicitations and contracts by addendum other FAR provisions and clauses when their use is consistent with the limitations contained in 12.302. For example:
 

@@ -1,10 +1,8 @@
-##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
-
-Link to an amendment published at 88 FR 9734, Feb. 14, 2023.
+##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (DEC 2022)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (MAR 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -24,9 +22,11 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (vii) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-(viii) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(viii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
 
-(ix) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77, 108-78 (19 U.S.C. 3805 note).
+(ix) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(x) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77 and 108-78 (19 U.S.C. 3805 note)).
 
 (2) Listed below are additional clauses that apply:
 
@@ -40,13 +40,11 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (v) 52.232-39, Unenforceability of Unauthorized Obligations (JUN 2013).
 
-(vi) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (NOV 2021).
+(vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.233-1, Disputes (MAY 2014).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (MAR 2023).
 
-(viii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (DEC 2022).
-
-(ix) 52.253-1, Computer Generated Forms (JAN 1991).
+(viii) 52.253-1, Computer Generated Forms (JAN 1991).
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 
@@ -54,7 +52,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
 
-(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
+(ii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
 
 (iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
@@ -80,7 +78,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (xiii) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
 
-(xiv) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be -
+(xiv) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be—
 
 (A) Delivered;
 
@@ -94,7 +92,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii)(A) 52.225-1, Buy American - Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in 2.101 on the date of award of this contract, and the acquisition -
+(xvii)(A) 52.225-1, Buy American—Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in 2.101 on the date of award of this contract, and the acquisition—
 
 (*1*) Is set aside for small business concerns; or
 
@@ -106,9 +104,9 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792) (Applies to contracts greater than the threshold specified in FAR 26.404 on the date of award of this contract, that provide for the provision, the service, or the sale of food in the United States).
 
-(xix) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
+(xix) 52.232-33, Payment by Electronic Funds Transfer—System for Award Management (OCT 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
 
-(xx) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
+(xx) 52.232-34, Payment by Electronic Funds Transfer—Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 
 (xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
 
@@ -128,7 +126,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 [*Insert one or more Internet addresses*]
 
-(d) *Inspection/Acceptance.* The Contractor shall tender for acceptance only those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. The Government must exercise its postacceptance rights -
+(d) *Inspection/Acceptance.* The Contractor shall tender for acceptance only those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. The Government must exercise its postacceptance rights—
 
 (1) Within a reasonable period of time after the defect was discovered or should have been discovered; and
 

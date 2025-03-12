@@ -1,0 +1,3 @@
+##### § 2885.10 When is a grant or TUP effective? #####
+
+A grant or TUP is effective after both you and BLM sign it. You must accept its terms and conditions in writing and pay any necessary rent and monitoring fees as set out in §§ 2885.19 and 2885.23 of this subpart. Your written acceptance constitutes an agreement between you and the United States that your right to use the Federal lands, as specified in the grant or TUP, is subject to the terms and conditions of the grant or TUP and applicable laws and regulations.

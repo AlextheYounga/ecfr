@@ -1,5 +1,7 @@
 ##### § 111.05-3 Design, construction, and installation; general. #####
 
+Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
+
 (a) An electric apparatus must be designed, constructed, and installed to prevent any person from accidentally contacting energized parts.
 
 (b) Exposed, noncurrent-carrying metal parts of fixed equipment that may become energized because of any condition must be grounded.

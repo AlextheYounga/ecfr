@@ -1,0 +1,3 @@
+##### § 2569.403 How do I obtain a copy of the application form? #####
+
+The BLM will mail you an application form if you are determined to be an Eligible Individual under § 2569.301. If you do not receive an application in the mail, you can also obtain the form at the BIA, a Realty Service Provider's office, the BLM Public Room, or on the internet at *https://www.blm.gov/alaska/2019AKNativeVetsLand.*

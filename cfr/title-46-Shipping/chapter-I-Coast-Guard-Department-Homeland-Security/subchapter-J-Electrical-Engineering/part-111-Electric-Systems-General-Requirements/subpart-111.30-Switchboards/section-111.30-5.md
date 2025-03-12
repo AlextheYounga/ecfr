@@ -1,6 +1,8 @@
 ##### § 111.30-5 Construction. #####
 
-(a) All low voltage and medium voltage switchboards (as low and medium are determined within the standard used) must meet -
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
+(a) All low voltage and medium voltage switchboards (as low and medium are determined within the standard used) must meet—
 
 (1) For low voltages, either section 8.3 of IEEE 45-2002 or IEC 60092-302 (both incorporated by reference; see 46 CFR 110.10-1), as appropriate.
 

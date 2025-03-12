@@ -1,6 +1,8 @@
 ##### § 111.33-3 Nameplate data. #####
 
-(a) Each semiconductor rectifier system must have a nameplate of durable material affixed to the unit that meets the requirements of -
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
+(a) Each semiconductor rectifier system must have a nameplate of durable material affixed to the unit that meets the requirements of—
 
 (1) Section 10.20.12 of IEEE 45-2002 (incorporated by reference; see 46 CFR 110.10-1); or
 

@@ -1,0 +1,3 @@
+##### § 2569.301 How will the BLM let me know if I am an Eligible Individual? #####
+
+The Bureau of Land Management (BLM), in consultation with the Department of Defense (DoD), the Department of Veterans Affairs (VA), and the Bureau of Indian Affairs (BIA), has identified individuals whom it believes to be Eligible Individuals. If the BLM identifies you as a presumed Eligible Individual, it will inform you by letter at your last address of record with the BIA or the VA. Even if you are identified as presumptively eligible, you still must certify in the application that you do meet the criteria of the Dingell Act.

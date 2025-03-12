@@ -1,0 +1,7 @@
+##### § 2623.3 States not permitted to dispose of lands except with reservation of minerals. #####
+
+(a) Subsection (b) of section 1 of the Act of January 25, 1927, provides:
+
+That the additional grant made by this Act is upon the express condition that all sales, grants, deeds, or patents for any of the lands so granted shall be subject to and contain a reservation to the State of all the coal and other minerals in the lands so sold, granted, deeded, or patented, together with the right to prospect for, mine, and remove the same. The coal and other mineral deposits in such lands shall be subject to lease by the State as the State legislature may direct, the proceeds of rentals and royalties therefrom to be utilized for the support or in aid of the common or public schools: *Provided,* That any lands or minerals disposed of contrary to the provisions of this Act shall be forfeited to the United States by appropriate proceedings instituted by the Attorney General for that purpose in the United States district court for the district in which the property or some part thereof is located.
+
+(b) The lands granted to the States by the Act of January 25, 1927, and the mineral deposits therein are to be disposed of by the States in the manner prescribed in subsection (b) thereof, provision being made for judicial forfeiture in case of disposal of any of the lands or minerals contrary to the provisions of the act.

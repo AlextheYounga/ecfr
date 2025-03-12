@@ -1,8 +1,6 @@
 ##### § 4.24 Basis of decision. #####
 
-Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
-
-(a) *Record.* (1) The record of a hearing shall consist of the transcript of testimony or summary of testimony and exhibits together with all papers and requests filed in the hearing.
+(a) *Record.* (1) The record of a hearing shall consist of the transcript of testimony or summary of testimony and exhibits together with all documents and requests filed in the hearing.
 
 (2) If a hearing has been held on an appeal pursuant to instructions of an Appeals Board, this record shall be the sole basis for decision insofar as the referred issues of fact are involved except to the extent that official notice may be taken of a fact as provided in paragraph (b) of this section.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
 
 (b) *Official notice.* Official notice may be taken of the public records of the Department of the Interior and of any matter of which the courts may take judicial notice.
 
-[36 FR 7186, Apr. 15, 1971, as amended at 53 FR 49660, Dec. 9, 1988]
+[36 FR 7186, Apr. 15, 1971, as amended at 53 FR 49660, Dec. 9, 1988; 88 FR 5792, Jan. 30, 2023]

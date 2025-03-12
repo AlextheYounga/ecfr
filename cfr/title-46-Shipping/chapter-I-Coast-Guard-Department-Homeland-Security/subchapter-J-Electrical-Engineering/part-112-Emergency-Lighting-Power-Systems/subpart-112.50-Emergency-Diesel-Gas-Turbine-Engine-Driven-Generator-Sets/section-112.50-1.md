@@ -1,5 +1,7 @@
 ##### § 112.50-1 General. #####
 
+Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
+
 (a) The prime mover of a generator set must have:
 
 (1) All accessories necessary for operation and protection of the prime mover; and

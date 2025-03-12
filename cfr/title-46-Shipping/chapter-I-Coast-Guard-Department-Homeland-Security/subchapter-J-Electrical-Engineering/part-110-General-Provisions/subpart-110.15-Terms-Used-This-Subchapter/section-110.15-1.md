@@ -1,16 +1,18 @@
 ##### § 110.15-1 Definitions. #####
 
-As used in this subchapter -
+Link to an amendment published at 88 FR 16358, Mar. 16, 2023.
+
+As used in this subchapter—
 
 (a) The electrical and electronic terms are defined in IEEE 100 or IEC 60092-101 (both incorporated by reference; see 46 CFR 110.10-1).
 
-(b) In addition to the definitions in paragraph (a) of this section -
+(b) In addition to the definitions in paragraph (a) of this section—
 
 *Coastwise Vessel* means a vessel that normally navigates the waters of any ocean or the Gulf of Mexico 20 nautical miles or less offshore and is certificated for coastwise navigation by the Coast Guard.
 
 *Commandant* means the Commandant of the Coast Guard.
 
-*Constructed* means the date -
+*Constructed* means the date—
 
 (1) The vessel's keel was laid; or
 
@@ -38,7 +40,7 @@ As used in this subchapter -
 
 *Integral tank* means a tank that is a structural part of the vessel's hull and is influenced in the same manner and by the same loads that stress the adjacent hull structure.
 
-*Location not requiring an exceptional degree of protection* means a location which is not exposed to the environmental conditions outlined in the definition for locations requiring exceptional degrees of protection. This location requires the degree of protection of § 111.01-9 (c) or (d) of this chapter. These locations include -
+*Location not requiring an exceptional degree of protection* means a location which is not exposed to the environmental conditions outlined in the definition for locations requiring exceptional degrees of protection. This location requires the degree of protection of § 111.01-9 (c) or (d) of this chapter. These locations include—
 
 (1) An accommodation space;
 
@@ -52,7 +54,7 @@ As used in this subchapter -
 
 (6) A location with similar environmental conditions.
 
-*Location requiring an exceptional degree of protection* means a location exposed to weather, seas, splashing, pressure-directed liquids, or similar moisture conditions. These locations include -
+*Location requiring an exceptional degree of protection* means a location exposed to weather, seas, splashing, pressure-directed liquids, or similar moisture conditions. These locations include—
 
 (1) On deck;
 

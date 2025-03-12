@@ -1,0 +1,3 @@
+##### § 5511.3-6 Permits to governmental units. #####
+
+A free-use permit may be issued to a Federal or State agency, unit, or subdivision, including a municipality, only if the applicant makes a satisfactory showing to the authorized officer that such timber will be used for a public project. The right to remove timber under the permit is not revoked or terminated by (a) any subsequent claim or entry of the lands, (b) by any mining claim located prior to the issuance of the permit if such location was subsequent to July 23, 1955, nor (c) by any other mining claim as to which the Government's right to manage the surface resources has been established in accordance with Group 3800 of this chapter, or other proceedings.

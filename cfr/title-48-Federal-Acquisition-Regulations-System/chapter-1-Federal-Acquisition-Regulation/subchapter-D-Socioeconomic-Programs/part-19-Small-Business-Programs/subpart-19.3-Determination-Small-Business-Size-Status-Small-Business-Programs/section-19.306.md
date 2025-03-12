@@ -1,8 +1,6 @@
 ##### 19.306 Protesting a firm's status as a HUBZone small business concern. #####
 
-Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
-
-(a) *Definition.* As used in this section -
+(a) *Definition.* As used in this section—
 
 *Interested party* has the meaning given in 13 CFR 126.103.
 
@@ -20,9 +18,11 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (ii) Why the joint venture did not meet the requirements at 13 CFR 126.616 at the time of submission of its offer for a HUBZone contract.
 
-(e) *Submission of a protest.* (1) An interested party shall submit its writtten protest to the contracting officer -
+(3) SBA will consider protests for HUBZone set-aside or sole-source service contracts or orders, if a HUBZone prime contractor is unduly reliant on a small entity subcontractor that is not a similarly-situated entity as defined in 13 CFR 125.1, or if such subcontractor performs the primary and vital requirements of the contract. For allegations that the prime contractor is unduly reliant on an other-than-small subcontractor, see size protests at 19.302, and 13 CFR 121.103(h)(2), which treats the pair as joint venturers for size determination purposes (the “ostensible subcontractor rule”).
 
-(i) For sealed bids -
+(e) *Submission of a protest.* (1) An interested party shall submit its writtten protest to the contracting officer—
+
+(i) For sealed bids—
 
 (A) By the close of business on the fifth business day after bid opening; or
 
@@ -32,7 +32,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (2) Any protest received after the designated time limits is untimely, unless it is from the contracting officer or SBA.
 
-(f) The contracting officer shall forward all protests with a referral letter to the Director of SBA's Office of the HUBZone Program, by email to *hzprotests@sba.gov.* The referral letter shall include the following -
+(f) The contracting officer shall forward all protests with a referral letter to the Director of SBA's Office of the HUBZone Program, by email to *hzprotests@sba.gov.* The referral letter shall include the following—
 
 (1) The solicitation number;
 
@@ -60,11 +60,11 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (g) SBA will notify the protester and the contracting officer of the date SBA received the protest.
 
-(h) *Before SBA decision.* (1) After receiving a protest involving the apparent successful offeror's status as a HUBZone small business concern, the contracting officer shall either -
+(h) *Before SBA decision.* (1) After receiving a protest involving the apparent successful offeror's status as a HUBZone small business concern, the contracting officer shall either—
 
 (i) Withhold award of the contract until SBA determines the status of the protested concern; or
 
-(ii) Award the contract if -
+(ii) Award the contract if—
 
 (A) SBA does not issue its decision within 15 business days after receipt of the protest; and
 
@@ -78,9 +78,9 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (2) If the contracting officer has withheld award and the HUBZone Program Director has determined that the protested concern is ineligible, and a timely AA/GC&BD appeal has not been filed, then the contracting officer shall not award the contract to the protested concern.
 
-(3) If the contracting officer has made a written determination in accordance with (h)(1)(ii)(B) of this section, awarded the contract, and the Director of SBA's Office of the HUBZone Program's ruling sustaining the protest is received after award -
+(3) If the contracting officer has made a written determination in accordance with (h)(1)(ii)(B) of this section, awarded the contract, and the Director of SBA's Office of the HUBZone Program's ruling sustaining the protest is received after award—
 
-(i) The contracting officer shall either -
+(i) The contracting officer shall either—
 
 (A) Terminate the contract; or
 
@@ -94,9 +94,9 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (4) If the contracting officer has made a written determination in accordance with (h)(1)(ii)(B) of this section, awarded the contract, SBA has sustained the protest and determined that the concern is not a HUBZone small business, and a timely (AA/GC&BD) appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an (AA/GC&BD) decision is rendered.
 
-(5) If the AA/GC&BD affirms the decision of the HUBZone Program Director, finding the protested concern is ineligible, and contract award has occurred -
+(5) If the AA/GC&BD affirms the decision of the HUBZone Program Director, finding the protested concern is ineligible, and contract award has occurred—
 
-(i) The contracting officer shall either -
+(i) The contracting officer shall either—
 
 (A) Terminate the contract; or
 
@@ -114,7 +114,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (k) *The appeal must be in writing.* The appeal must identify the protest determination being appealed and must set forth a full and specific statement as to why the decision is erroneous or what significant fact the HUBZone Program Director failed to consider.
 
-(l)(1) The party appealing the decision must provide notice of the appeal to -
+(l)(1) The party appealing the decision must provide notice of the appeal to—
 
 (i) The contracting officer; and
 
@@ -124,4 +124,4 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (m) The AA/GC&BD will make its decision within 5 business days of the receipt of the appeal, if practicable, and will base its decision only on the information and documentation in the protest record as supplemented by the appeal. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested HUBZone small business concern. The SBA decision, if received before award, will apply to the pending acquisition. The AA/GC&BD's decision is the final decision.
 
-[63 FR 70269, Dec. 18, 1998, as amended at 64 FR 51831, Sept. 24, 1999; 75 FR 77729, Dec. 13, 2010; 79 FR 43584, July 25, 2014; 87 FR 58235, Sept. 23, 2022]
+[63 FR 70269, Dec. 18, 1998, as amended at 64 FR 51831, Sept. 24, 1999; 75 FR 77729, Dec. 13, 2010; 79 FR 43584, July 25, 2014; 87 FR 58235, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023]

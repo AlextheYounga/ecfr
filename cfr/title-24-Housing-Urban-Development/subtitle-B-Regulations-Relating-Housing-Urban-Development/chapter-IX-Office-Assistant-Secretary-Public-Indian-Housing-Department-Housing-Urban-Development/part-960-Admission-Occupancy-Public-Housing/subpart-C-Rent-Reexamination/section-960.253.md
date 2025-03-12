@@ -1,10 +1,10 @@
 ##### § 960.253 Choice of rent. #####
 
-Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
-
-(a) *Rent options* - (1) *Annual choice by family.* Once a year, the PHA must give each family the opportunity to choose between the two methods for determining the amount of tenant rent payable monthly by the family. The family may choose to pay as tenant rent either a flat rent as determined in accordance with paragraph (b) of this section, or an income-based rent as determined in accordance with paragraph (c) of this section. Except for financial hardship cases as provided in paragraph (d) of this section, the family may not be offered this choice more than once a year.
+(a) *Rent options*—(1) *Annual choice by family.* Once a year, the PHA must give each family the opportunity to choose between the two methods for determining the amount of tenant rent payable monthly by the family. The family may choose to pay as tenant rent either a flat rent as determined in accordance with paragraph (b) of this section, or an income-based rent as determined in accordance with paragraph (c) of this section. Except for financial hardship cases as provided in paragraph (d) of this section, the family may not be offered this choice more than once a year.
 
 (2) *Relation to minimum rent.* Regardless of whether the family chooses to pay a flat rent or income-based rent, the family must pay at least the minimum rent as determined in accordance with § 5.630 of this title.
+
+(3) *Relation to non-public housing over-income families.* Non-public housing over-income families must pay the alternative non-public housing rent, as applicable, as determined in accordance with § 960.102.
 
 (b) *Flat rent*. The flat rent is determined annually, based on the market rental value of the unit as determined by this paragraph (b).
 
@@ -48,7 +48,7 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (f) *Choice between flat and income-based rents.* Families must be offered the choice between a flat rental amount and a previously calculated income-based rent according to the following:
 
-(1) For a family that chooses the flat rent option, the PHA must conduct a reexamination of family income and composition at least once every three years.
+(1) For a family that chooses the flat rent option, the PHA must conduct a reexamination of family income and composition at least once every three years, except for families a PHA determines exceed the over-income limit described in § 960.507(b). Once a PHA determines that a family has an income exceeding the over-income limit, the PHA must follow the income examination and notification requirements under § 960.507(c).
 
 (2) At initial occupancy, or in any year in which a participating family is paying the income-based rent, the PHA must:
 
@@ -82,4 +82,4 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (iii) Such other situations determined by the PHA to be appropriate.
 
-[65 FR 16726, Mar. 29, 2000, as amended at 80 FR 53712, Sept. 8, 2015; 81 FR 12372, Mar. 8, 2016]
+[65 FR 16726, Mar. 29, 2000, as amended at 80 FR 53712, Sept. 8, 2015; 81 FR 12372, Mar. 8, 2016; 88 FR 9670, Feb. 14, 2023]

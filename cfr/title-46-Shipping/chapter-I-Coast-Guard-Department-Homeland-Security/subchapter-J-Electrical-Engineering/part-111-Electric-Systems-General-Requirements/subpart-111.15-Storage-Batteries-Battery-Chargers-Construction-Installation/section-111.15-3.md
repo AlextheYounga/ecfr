@@ -1,5 +1,7 @@
 ##### § 111.15-3 Battery categories. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) A battery installation is classified as one of three types, based upon power output of the battery charger, as follows:
 
 (1) *Large.* A large battery installation is one connected to a battery charger that has an output of more than 2 kw computed from the highest possible charging current and the rated voltage of the battery installation.

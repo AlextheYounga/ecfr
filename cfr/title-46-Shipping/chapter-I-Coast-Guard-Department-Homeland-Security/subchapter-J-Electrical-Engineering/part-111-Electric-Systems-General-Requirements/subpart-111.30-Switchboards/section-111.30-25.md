@@ -1,5 +1,7 @@
 ##### § 111.30-25 Alternating-current ship's service switchboards. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) Except as allowed in paragraph (g) of this section, each alternating-current ship's service switchboard must have the equipment required by paragraphs (b) through (f) of this section.
 
 (b) For each connected generator, each switchboard must have the following:

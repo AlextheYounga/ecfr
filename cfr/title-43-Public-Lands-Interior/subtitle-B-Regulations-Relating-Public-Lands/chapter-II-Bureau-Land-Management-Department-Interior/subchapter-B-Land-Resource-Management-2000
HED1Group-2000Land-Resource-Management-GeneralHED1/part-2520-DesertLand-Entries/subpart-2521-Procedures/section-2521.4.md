@@ -1,0 +1,11 @@
+##### § 2521.4 When lands may be sold, taxed, or mortgaged. #####
+
+(a) After final proof and payment have been made the land may be sold and conveyed to another person without the approval of the Bureau of Land Management, but all such conveyances are nevertheless subject to the superior rights of the United States, and the title so contained would fall if it should be finally determined that the entry was illegal or that the entryman had failed to comply with the law.
+
+(b) Lands embraced in unperfected desert-land entries are not subject to taxation by the State authorities, nor to levy and sale under execution to satisfy judgments against the entrymen, except as hereinafter set forth in this section.
+
+(c) Lands embraced in desert-land entries within an irrigation district which the Secretary of the Interior has approved under the Act of August 11, 1916 (39 Stat. 506; 43 U.S.C. 621-630), may be taxed and otherwise dealt with as provided by said act, and lands in desert-land entries within irrigation projects constructed under the Reclamation Act may be taxed as provided for by the Act of June 13, 1930 (46 Stat. 581; 43 U.S.C. 455, 455a-455c).
+
+(d) A desert-land entryman may, however, mortgage his interest in the entered land if, by the laws of the State in which the land is situated, a mortgage of land is regarded as merely creating a lien thereon and not as a conveyance thereof. The purchaser at a sale had for the foreclosure of such mortgage may be recognized as assignee upon furnishing proof of his qualifications to take a desert-land entry by assignment. Transferees, after final proof, mortgagees, or other encumbrancers may file in the proper office written notice stating the nature of their claims, and they will there upon become entitled to receive notice of any action taken by the Bureau of Land Management with reference to the entry.
+
+(e) The filing of all notices of recordation of claim by transferees, mortgagees or other encumbrancer under this section must be accompanied by a service charge of $10 which will not be returnable.

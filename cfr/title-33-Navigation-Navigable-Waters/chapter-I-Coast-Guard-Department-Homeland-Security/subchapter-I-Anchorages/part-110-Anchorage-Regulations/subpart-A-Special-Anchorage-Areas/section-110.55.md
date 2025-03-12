@@ -1,5 +1,7 @@
 ##### § 110.55 Connecticut River, Conn. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *West of Calves Island at Old Saybrook.* Beginning at a point bearing 254°09′16″, 153 yards, from Calves Island 20 Light; thence 157°, 1,037 yards; thence 175°, 150 yards; thence 265°, 250 yards; thence 350°, 660 yards; thence 337°, 460 yards; and thence approximately 67°, 135 yards, to the point of beginning.
 
 (a-1) *Area No. 1, at Essex.* Beginning at a point on the shore on the west side of Haydens Point bearing approximately 211°, 270 yards, from Haydens Point Light; thence 270°, 160 yards; thence due north, 140 yards; thence 300°, 190 yards; thence 330°, 400 yards; thence 90°, 60 yards; thence 150°, 350 yards; thence 120°, about 434 yards to a point on the shore; thence along the shore southwesterly to the point of beginning.
@@ -16,7 +18,7 @@ Note:
 
 This area is principally for vessels used for a recreational purpose. A mooring buoy is permitted. Fixed mooring piles or stakes are prohibited.
 
-(d) *Upper Bay* - (1) *Anchorage No. 20-A.* (i) All waters bound by the following points: latitude 40°42′06.9″ N., longitude 074°02′18.0″ W.; thence to latitude 40°42′05.4″ N., longitude 074°01′56.9″ W.; thence to latitude 40°41′54.9″ N., longitude 074°01′57.7″ W.; thence to latitude 40°41′54.0″ N., longitude 074°02′12.0″ W.; thence to latitude 40°41′54.4″ N., longitude 074°02′11.7″ W.; thence to latitude 40°41′57.5″ N., longitude 074°02′07.5″ W.; thence to latitude 40°42′06.1″ N., longitude 074°02′19.1″ W.; thence to the point of origin (NAD 83).
+(d) *Upper Bay*—(1) *Anchorage No. 20-A.* (i) All waters bound by the following points: latitude 40°42′06.9″ N., longitude 074°02′18.0″ W.; thence to latitude 40°42′05.4″ N., longitude 074°01′56.9″ W.; thence to latitude 40°41′54.9″ N., longitude 074°01′57.7″ W.; thence to latitude 40°41′54.0″ N., longitude 074°02′12.0″ W.; thence to latitude 40°41′54.4″ N., longitude 074°02′11.7″ W.; thence to latitude 40°41′57.5″ N., longitude 074°02′07.5″ W.; thence to latitude 40°42′06.1″ N., longitude 074°02′19.1″ W.; thence to the point of origin (NAD 83).
 
 (ii) See 33 CFR 110.155(d)(6), (d)(16), and (l).
 

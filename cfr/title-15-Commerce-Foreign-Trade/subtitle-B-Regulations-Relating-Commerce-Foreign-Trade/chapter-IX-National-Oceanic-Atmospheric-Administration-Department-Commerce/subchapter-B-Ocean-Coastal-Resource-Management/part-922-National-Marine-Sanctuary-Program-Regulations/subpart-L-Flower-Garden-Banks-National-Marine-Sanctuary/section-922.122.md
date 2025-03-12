@@ -1,6 +1,6 @@
 ##### § 922.122 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 9393, Feb. 14, 2023.
+Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) Except as specified in paragraphs (c) through (h) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
@@ -42,7 +42,7 @@ Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment p
 
 (11) Possessing, except for valid law enforcement purposes, or using explosives or releasing electrical charges within the Sanctuary.
 
-(b) If any valid regulation issued by any Federal authority of competent jurisdiction, regardless of when issued, conflicts with a Sanctuary regulation, the regulation deemed by the Director as more protective of Sanctuary resources and qualities shall govern.
+(b) [Reserved]
 
 (c) The prohibitions in paragraphs (a)(2)(i), (a)(4), and (a)(11) of this section do not apply to necessary activities conducted in areas of the Sanctuary outside the no-activity zones and incidental to exploration for, development of, or production of oil or gas in those areas.
 
@@ -58,4 +58,4 @@ Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment p
 
 (h) Notwithstanding paragraphs (f) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit under § 922.48 and § 922.123 or a Special Use permit under section 10 of the Act authorizing, or otherwise approve, the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone. Any leases, permits, approvals, or other authorizations authorizing the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone and issued after the January 18, 1994 shall be invalid.
 
-[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021]
+[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021; 88 FR 9393, Feb. 14, 2023]

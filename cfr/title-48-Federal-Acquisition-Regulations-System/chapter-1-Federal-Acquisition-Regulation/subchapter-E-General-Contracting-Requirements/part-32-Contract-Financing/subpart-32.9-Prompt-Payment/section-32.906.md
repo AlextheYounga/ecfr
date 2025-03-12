@@ -1,14 +1,12 @@
 ##### 32.906 Making payments. #####
 
-Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
-
-(a) *General.* The Government will not make invoice payments earlier than 7 days prior to the due dates specified in the contract unless the agency head determines -
+(a) *General.* The Government will not make invoice payments earlier than 7 days prior to the due dates specified in the contract unless the agency head determines—
 
 (1) To make earlier payment on a case-by-case basis; or
 
-(2) That the use of accelerated payment methods are necessary (see 32.903(a)(5)).
+(2) That the use of accelerated payment methods is necessary. See 32.903(a)(5), but see 32.009-1(a).
 
-(b) *Payment office.* The designated payment office -
+(b) *Payment office.* The designated payment office—
 
 (1) Will mail checks on the same day they are dated;
 
@@ -25,3 +23,5 @@ Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
 (d) *Contractor identifier.* Each payment or remittance advice will use the contractor invoice number in addition to any Government or contract information in describing any payment made.
 
 (e) *Discounts.* When a discount for prompt payment is taken, the designated payment office will make payment to the contractor as close as possible to, but not later than, the end of the discount period. The discount period is specified by the contractor and is calculated from the date of the contractor's proper invoice. If the contractor has not placed a date on the invoice, the due date is calculated from the date the designated billing office receives a proper invoice, provided the agency annotates such invoice with the date of receipt at the time of receipt. When the discount date falls on a Saturday, Sunday, or legal holiday when Government offices are closed, the designated payment office may make payment on the following working day and take a discount. Payment terms are specified in the clause at 52.232-8, Discounts for Prompt Payment.
+
+[66 FR 65355, Dec. 18, 2001, as amended at 88 FR 9733, Feb. 14, 2023]

@@ -1,5 +1,7 @@
 ##### § 110.8 Lake Champlain, N.Y. and Vt. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Ticonderoga, N.Y.* An area shoreward of a line bearing 312° from Ticonderoga Light to the southeast corner of the New York State Boat Launching Ramp.
 
 (b) *Essex, N.Y.* A small cove at the westerly side of Lake Champlain, shoreward of a line connecting the offshore ends of two promontories located at Essex.

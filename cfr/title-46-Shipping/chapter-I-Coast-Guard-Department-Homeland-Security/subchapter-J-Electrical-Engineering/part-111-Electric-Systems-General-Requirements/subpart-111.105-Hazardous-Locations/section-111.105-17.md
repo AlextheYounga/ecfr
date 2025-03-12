@@ -1,5 +1,7 @@
 ##### § 111.105-17 Wiring methods for hazardous locations. #####
 
+Link to an amendment published at 88 FR 16366, Mar. 16, 2023.
+
 (a) Through runs of marine shipboard cable meeting subpart 111.60 of this part are required for all hazardous locations. Armored cable may be used to enhance ground detection capabilities. Additionally, Type MC cable may be used subject to the restrictions in § 111.60-23.
 
 (b) Where conduit is installed, the applicable requirements of either NFPA NEC 2002 (incorporated by reference; see 46 CFR 110.10-1) or the IEC 60079 series (as defined in § 111.105-1 and incorporated by reference; see 46 CFR 110.10-1) must be followed.

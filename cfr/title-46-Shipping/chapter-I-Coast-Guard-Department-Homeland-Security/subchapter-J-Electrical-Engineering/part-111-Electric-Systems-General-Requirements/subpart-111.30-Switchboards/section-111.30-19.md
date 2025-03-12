@@ -1,12 +1,14 @@
 ##### § 111.30-19 Buses and wiring. #####
 
-(a) *General.* Each bus must meet the requirements of either -
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
+(a) *General.* Each bus must meet the requirements of either—
 
 (1) Section 7.10 of IEEE 45-1998 (incorporated by reference; see 46 CFR 110.10-1); or
 
 (2) IEC 60092-302 (clause 7) (incorporated by reference; see 46 CFR 110.10-1).
 
-(b) *Wiring.* Instrumentation and control wiring must be -
+(b) *Wiring.* Instrumentation and control wiring must be—
 
 (1) Suitable for installation within in a switchboard enclosure and be rated at 90 °C or higher;
 

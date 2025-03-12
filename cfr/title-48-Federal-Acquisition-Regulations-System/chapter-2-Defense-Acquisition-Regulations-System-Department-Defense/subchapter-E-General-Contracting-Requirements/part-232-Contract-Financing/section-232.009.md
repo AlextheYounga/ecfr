@@ -1,3 +1,3 @@
-##### 232.009 Providing accelerated payments to small business subcontractors. #####
+##### 232.009 Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern. #####
 
-Link to an amendment published at 88 FR 12863, Mar. 1, 2023.
+[88 FR 12863, Mar. 1, 2023]

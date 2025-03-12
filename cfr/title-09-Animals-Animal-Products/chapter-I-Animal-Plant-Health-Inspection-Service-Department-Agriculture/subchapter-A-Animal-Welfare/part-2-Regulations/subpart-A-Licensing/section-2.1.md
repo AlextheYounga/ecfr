@@ -1,6 +1,6 @@
 ##### § 2.1 Requirements and application. #####
 
-Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
+Link to an amendment published at 88 FR 10713, Feb. 21, 2023.Link to a correction published at 88 FR 16173, Mar. 16, 2023.
 
 (a)(1) No person shall operate as a dealer, exhibitor, or operator of an auction sale, without a valid license, except persons who are exempt from the licensing requirements under paragraph (a)(3) of this section. A person must be 18 years of age or older to obtain a license. A person seeking a license shall apply on a form which will be furnished by the Deputy Administrator. The applicant shall provide the information requested on the application form, including, but not limited to:
 

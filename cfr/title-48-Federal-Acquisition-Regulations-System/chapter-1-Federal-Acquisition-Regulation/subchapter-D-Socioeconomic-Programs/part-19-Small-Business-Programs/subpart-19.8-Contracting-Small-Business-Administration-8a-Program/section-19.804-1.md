@@ -1,14 +1,14 @@
 ##### 19.804-1 Agency evaluation. #####
 
-Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+In determining the extent to which a requirement should be offered in support of the 8(a) program, the agency should evaluate—
 
-In determining the extent to which a requirement should be offered in support of the 8(a) program, the agency should evaluate -
+(a) Current and future plans to acquire the specific items or work that 8(a) participants are seeking to provide, identified in terms of—
 
-(a) Current and future plans to acquire the specific items or work that 8(a) participants are seeking to provide, identified in terms of -
+(1) Estimated quantities of the supplies or services required or the estimated number of construction projects planned;
 
-(1) Estimated quantities of the supplies or services required or the estimated number of construction projects planned; and
+(2) Length of contract, including option periods (see 19.812(d)); and
 
-(2) Performance or delivery requirements, including -
+(3) Performance or delivery requirements, including—
 
 (i) Required monthly production rates, when applicable; and
 
@@ -22,4 +22,4 @@ In determining the extent to which a requirement should be offered in support of
 
 (e) Any other pertinent information about known 8(a) participants, the items, or the work. This includes any information concerning the participants' products or capabilities. When necessary, the contracting agency shall make an independent review of the factors in 19.803(a) and other aspects of the participants' capabilities which would ensure the satisfactory performance of the requirement being considered for commitment to the 8(a) program.
 
-[82 FR 4727, Jan. 13, 2017]
+[82 FR 4727, Jan. 13, 2017, as amended at 88 FR 9738, Feb. 14, 2023]

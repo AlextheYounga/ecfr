@@ -1,5 +1,7 @@
 ##### § 111.60-13 Flexible electric cord and cables. #####
 
+Link to an amendment published at 88 FR 16364, Mar. 16, 2023.
+
 (a) *Construction and testing.* Each flexible cord and cable must meet the requirements in section 24.6.1 of IEEE 45-2002, Article 400 of NFPA NEC 2002, NEMA WC-3, NEMA WC-70, or UL 62 (all five standards incorporated by reference; see 46 CFR 110.10-1).
 
 (b) *Application.* No flexible cord may be used except:

@@ -1,6 +1,8 @@
 ##### § 111.105-7 Approved equipment. #####
 
-When this subpart or NFPA NEC 2002 (incorporated by reference; see 46 CFR 110.10-1) states that an item of electrical equipment must be approved, or when IEC 60079-0 (incorporated by reference; see 46 CFR 110.10-1) states that an item of electrical equipment must be tested or approved in order to comply with the IEC 60079 series (as defined in § 111.105-1 and incorporated by reference; see 46 CFR 110.10-1), that item must be -
+Link to an amendment published at 88 FR 16366, Mar. 16, 2023.
+
+When this subpart or NFPA NEC 2002 (incorporated by reference; see 46 CFR 110.10-1) states that an item of electrical equipment must be approved, or when IEC 60079-0 (incorporated by reference; see 46 CFR 110.10-1) states that an item of electrical equipment must be tested or approved in order to comply with the IEC 60079 series (as defined in § 111.105-1 and incorporated by reference; see 46 CFR 110.10-1), that item must be—
 
 (a) Listed or certified by an independent laboratory as approved for use in the hazardous locations in which it is installed; or
 

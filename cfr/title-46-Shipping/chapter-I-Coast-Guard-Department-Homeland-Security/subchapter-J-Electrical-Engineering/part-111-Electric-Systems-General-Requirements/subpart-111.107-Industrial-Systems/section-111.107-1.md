@@ -1,6 +1,8 @@
 ##### § 111.107-1 Industrial systems. #####
 
-(a) For the purpose of this subpart, an industrial system is a system that -
+Link to an amendment published at 88 FR 16368, Mar. 16, 2023.
+
+(a) For the purpose of this subpart, an industrial system is a system that—
 
 (1) Is not a ship's service load, as defined in § 111.10-1;
 
@@ -14,17 +16,17 @@
 
 (1) The switchgear standards in part 110, subpart 110.10, of this chapter.
 
-(2) Part 110, subpart 110.25, of this chapter - Plan Submittal.
+(2) Part 110, subpart 110.25, of this chapter—Plan Submittal.
 
-(3) Subpart 111.01 of this part - General.
+(3) Subpart 111.01 of this part—General.
 
-(4) Subpart 111.05 of this part - Equipment Ground, Ground Detection, and Grounded Systems.
+(4) Subpart 111.05 of this part—Equipment Ground, Ground Detection, and Grounded Systems.
 
-(5) Sections 111.12-1(b) and 111.12-1(c) - Prime movers.
+(5) Sections 111.12-1(b) and 111.12-1(c)—Prime movers.
 
-(6) Subpart 111.105 of this part - Hazardous Locations.
+(6) Subpart 111.105 of this part—Hazardous Locations.
 
-(c) Cables that penetrate a watertight or fire boundary deck or bulkhead must -
+(c) Cables that penetrate a watertight or fire boundary deck or bulkhead must—
 
 (1) Be installed in accordance with 46 CFR 111.60-5 and meet the flammability-test requirements of either IEEE 1202 or Category A of IEC 60332-3-22 (both incorporated by reference; see 46 CFR 110.10-1); or
 

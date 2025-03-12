@@ -1,5 +1,7 @@
 ##### § 111.60-1 Construction and testing of cable. #####
 
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
 (a) Each marine shipboard cable must meet all the requirements for construction and identification of either IEEE 1580, UL 1309, IEC 60092-353, or NPFC MIL-C-24640A or NPFC MIL-C-24643A (all five standards incorporated by reference; see 46 CFR 110.10-1), including the respective flammability tests contained therein, and must be of a copper-stranded type.
 
 (b) Each cable constructed to IEC 60092-353 must meet the flammability requirements of Category A of IEC 60332-3-22 (incorporated by reference; see 46 CFR 110.10-1).

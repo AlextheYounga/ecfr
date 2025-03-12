@@ -1,12 +1,14 @@
 ##### § 111.30-27 Direct current ship's service switchboards. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) Each direct current ship's service switchboard must have the equipment required by paragraphs (b) through (f) of this section.
 
 (b) For each connected generator, each switchboard must have the following:
 
 (1) A circuit breaker that meets § 111.12-11 and § 111.50-5.
 
-(2) A disconnect switch or link for each generator conductor, except a switchboard having a draw-out or plug-in type generator circuit breaker that disconnects -
+(2) A disconnect switch or link for each generator conductor, except a switchboard having a draw-out or plug-in type generator circuit breaker that disconnects—
 
 (i) Each conductor; or
 

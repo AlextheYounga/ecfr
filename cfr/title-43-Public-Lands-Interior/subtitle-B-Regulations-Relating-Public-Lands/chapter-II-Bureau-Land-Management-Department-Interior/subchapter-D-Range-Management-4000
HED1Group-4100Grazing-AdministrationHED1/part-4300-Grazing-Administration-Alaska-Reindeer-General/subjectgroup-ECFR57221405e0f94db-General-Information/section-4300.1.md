@@ -1,0 +1,3 @@
+##### § 4300.1 What is a reindeer? #####
+
+Reindeer, *Rangifer tarandus,* are a semi-domesticated member of the deer family, Cervidae. They are essentially the same animal as their wild cousins, the caribou, but tend to be smaller than caribou. Reindeer and caribou are different subspecies of the same family, genus, and species. The term “reindeer” includes caribou that have been introduced into animal husbandry or have joined reindeer herds, the offspring of these caribou, and the offspring of reindeer.

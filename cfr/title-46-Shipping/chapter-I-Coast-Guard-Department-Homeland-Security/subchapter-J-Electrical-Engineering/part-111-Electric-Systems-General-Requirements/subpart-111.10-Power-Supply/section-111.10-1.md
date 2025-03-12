@@ -1,5 +1,7 @@
 ##### § 111.10-1 Definitions. #####
 
+Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
+
 As used in this Subpart:
 
 (a) *Ship's service loads* mean electrical equipment for all auxiliary services necessary for maintaining the vessel in a normal, operational and habitable condition. Ship's service loads include, but are not limited to, all safety, lighting, ventilation, navigational, communications, habitability, and propulsion auxiliary loads. Electrical propulsion motor, bow thruster motor, cargo transfer, drilling, cargo refrigeration for other than Class 5.2 organic peroxides and Class 4.1 self-reactive substances, and other industrial type loads are not included.

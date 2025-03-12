@@ -1,0 +1,9 @@
+##### § 3809.551 What are my choices for providing BLM with a financial guarantee? #####
+
+You must provide BLM with a financial guarantee using any of the 3 options in the following table:
+
+|                                                                 If—                                                                  |                                                                                                     Then—                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) You have only one notice or plan of operations, or wish to provide a financial guarantee for a single notice or plan of operations|You may provide an individual financial guarantee that covers only the cost of reclaiming areas disturbed under the single notice or plan of operations. See §§ 3809.552 through 3809.556 for more information.|
+|                           (b) You are currently operating under more than one notice or plan of operations                           |                                        You may provide a blanket financial guarantee covering statewide or nationwide operations. See § 3809.560 for more information.                                        |
+|                          (c) You do not choose one of the options in paragraphs (a) and (b) of this section                          |                              You may provide evidence of an existing financial guarantee under State law or regulations. See §§ 3809.570 through 3809.573 for more information.                               |

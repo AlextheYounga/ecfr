@@ -1,0 +1,3 @@
+##### § 2650.0-1 Purpose. #####
+
+The purpose of the regulations in this part is to provide procedures for orderly and timely implementation of those provisions of the Alaska Native Claims Settlement Act of December 18, 1971 (43 U.S.C. 1601) which pertain to selections of lands and interests in lands in satisfaction of the land selections conferred by said Act upon Alaska Natives and Alaska Native corporations.

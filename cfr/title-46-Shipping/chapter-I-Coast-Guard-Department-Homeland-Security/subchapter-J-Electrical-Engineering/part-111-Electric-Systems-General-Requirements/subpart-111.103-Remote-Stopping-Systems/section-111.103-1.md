@@ -1,5 +1,7 @@
 ##### § 111.103-1 Power ventilation systems except machinery space ventilation systems. #####
 
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
 Each power ventilation system must have:
 
 (a) A control to stop the ventilation that is:

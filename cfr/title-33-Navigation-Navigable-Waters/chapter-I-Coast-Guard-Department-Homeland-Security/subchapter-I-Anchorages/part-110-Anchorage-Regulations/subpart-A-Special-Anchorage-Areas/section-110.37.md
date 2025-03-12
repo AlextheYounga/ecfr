@@ -1,5 +1,7 @@
 ##### § 110.37 Sesuit Harbor, Dennis, Mass. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 All the waters of Sesuit Harbor southerly of a line extending between the outer end of the jetties on each side of the entrance to the Harbor.
 
 Note:

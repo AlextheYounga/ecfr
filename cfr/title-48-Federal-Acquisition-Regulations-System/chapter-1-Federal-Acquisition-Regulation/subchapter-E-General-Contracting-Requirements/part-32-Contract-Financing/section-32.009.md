@@ -1,3 +1,1 @@
-##### 32.009 Providing accelerated payments to small business subcontractors. #####
-
-Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
+##### 32.009 Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern. #####

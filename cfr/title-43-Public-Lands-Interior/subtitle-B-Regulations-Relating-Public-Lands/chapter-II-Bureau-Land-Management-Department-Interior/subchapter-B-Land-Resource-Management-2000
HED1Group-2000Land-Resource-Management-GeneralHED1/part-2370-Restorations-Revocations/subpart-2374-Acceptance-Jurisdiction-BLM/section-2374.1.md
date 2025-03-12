@@ -1,0 +1,9 @@
+##### § 2374.1 Property determinations. #####
+
+(a) When the authorized officer of the Bureau of Land Management determines that the holding agency has complied with the regulations of this part and that the lands or interests in lands other than minerals are not suitable for return to the public domain for disposition under the general public land laws, because the lands are substantially changed in character by improvements or otherwise, he will request the appropriate officer of the General Services Administration, or its delegate, to concur in his determination.
+
+(b) When the authorized officer of the Bureau of Land Management determines that minerals in lands subject to the provisions of paragraph (a) of this section are not suitable for disposition under the public land mining or mineral leasing laws, he will notify the appropriate officer of the General Services Administration or its delegate of this determination.
+
+(c) Upon receipt of the concurrence specified in paragraph (a) of this section, the authorized officer of the Bureau of Land Management will notify the holding agency to report as excess property the lands and improvements therein, or interests in lands to the General Services Administration pursuant to the regulations of that Administration. The authorized officer of the Bureau of Land Management will request the holding agency to include minerals in its report to the General Services Administration only when the provisions of paragraph (b) of this section apply. He will also submit to the holding agency, for transmittal with its report to the General Services Administration, information of record in the Bureau of Land Management on the claims, if any, by agencies other than the holding agency of primary, joint, or secondary jurisdiction over the lands and on any encumbrances under the public land laws.
+
+[35 FR 9559, June 13, 1970]

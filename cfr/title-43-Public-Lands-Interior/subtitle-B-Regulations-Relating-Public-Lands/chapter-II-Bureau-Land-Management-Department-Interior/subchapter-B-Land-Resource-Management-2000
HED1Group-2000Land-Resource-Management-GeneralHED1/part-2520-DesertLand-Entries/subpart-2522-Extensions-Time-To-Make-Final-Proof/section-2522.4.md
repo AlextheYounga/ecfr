@@ -1,0 +1,5 @@
+##### § 2522.4 Act of April 30, 1912. #####
+
+(a) Under the provisions of the Act of April 30, 1912 (37 Stat. 106; 43 U.S.C. 334), a further extension of time may be granted for submitting final proof, not exceeding 3 years, where it is shown that, because of some unavoidable delay in the construction of irrigation works intended to convey water to the land embraced in his entry, the claimant is, without fault on his part, unable to make proof of the reclamation and cultivation of said lands within the time limited therefor, but such further extension cannot be granted for a period of more than 3 years nor affect contests initiated for a valid existing reason.
+
+(b) An entryman who has complied with the law as to annual expenditures and proof thereof and who desires to make application for extension of time under the provisions of the Act of March 28, 1908, should file with the authorizing officer a statement setting forth fully the facts, showing how and why he has been prevented from making final proof of reclamation and cultivation within the regular period. This statement must be corroborated by two witnesses who have personal knowledge of the facts.

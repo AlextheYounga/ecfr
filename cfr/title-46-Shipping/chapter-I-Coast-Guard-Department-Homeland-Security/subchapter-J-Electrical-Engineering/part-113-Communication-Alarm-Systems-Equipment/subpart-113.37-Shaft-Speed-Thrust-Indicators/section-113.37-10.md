@@ -1,5 +1,7 @@
 ##### § 113.37-10 Detailed requirements. #####
 
+Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
+
 (a) Each indicator must be independent of the propulsion control system. A failure of the propulsion control system must not affect the operation of the indicators.
 
 (b) Each electric component or its enclosure must meet Type 4 or 4X of NEMA 250 or IP 56 of IEC 60529 (both incorporated by reference; see 46 CFR 110.10-1) requirements.

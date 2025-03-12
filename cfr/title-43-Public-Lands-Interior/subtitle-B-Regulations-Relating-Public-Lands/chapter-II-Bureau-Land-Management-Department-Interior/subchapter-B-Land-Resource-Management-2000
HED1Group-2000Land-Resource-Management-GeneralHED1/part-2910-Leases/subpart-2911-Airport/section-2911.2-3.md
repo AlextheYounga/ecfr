@@ -1,0 +1,7 @@
+##### § 2911.2-3 Report by Administrator; Notice of Realty Action. #####
+
+(a) Upon receipt of the application, the authorized officer shall send 1 copy to the Administrator for a determination concerning what fuel facilities, lights, and other furnishings are necessary to meet the rating set by that agency. After receiving the report of the Administrator, and before making a determination to issue a lease, the authorized officer shall publish a Notice of Realty Action in the Federal Register and in a newspaper of general circulation in the area of the lands to be leased. The notice shall provide 45 days from the date of publication in the Federal Register for comments by the public. Comments shall be sent to the office issuing the notice. The notice shall not be published until the authorized officer has received the filing fee from the applicant and is satisfied that all statutory and regulatory requirements have been met.
+
+(b) The notice of realty action may segregate the lands or interests in lands to be conveyed to the extent that they will not be subject to appropriation under the public land laws, including the mining laws. The segregative effect of the notice of realty action shall terminate either upon issuance of a document of conveyance or 1 year from the date of publication in the Federal Register, whichever occurs first.
+
+[51 FR 40809, Nov. 10, 1986; 51 FR 45986, Dec. 23, 1986]

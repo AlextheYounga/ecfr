@@ -1,10 +1,12 @@
 ##### § 111.60-2 Specialty cable for communication and RF applications. #####
 
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
 Specialty cable such as certain coaxial cable that cannot pass the flammability test contained in IEEE 1580, test VW-1 of UL 1581, or Category A of IEC 60332-3-22 (all three standards incorporated by reference; see 46 CFR 110.10-1) because of unique properties of construction, must:
 
 (a) Be installed physically separate from all other cable; and
 
-(b) Have fire stops installed -
+(b) Have fire stops installed—
 
 (1) At least every 7 meters (21.5 feet) vertically, up to a maximum of 2 deck heights;
 

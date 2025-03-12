@@ -1,5 +1,7 @@
 ##### § 110.31 Hull Bay and Allerton Harbor at Hull, Mass. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Area No. 1 in Allerton Harbor.* That area north of Hog Island beginning at latitude 42°18′15″, longitude 70°53′46″; thence due east to latitude 42°18′15″, longitude 70°53′29.5″; thence due south to latitude 42°18′07.5″, longitude 70°53′29.5″; thence due west to latitude 42°18′07.5″, longitude 70°53′46″; thence due north to the point of beginning.
 
 (b) *Area No. 2 in Hull Bay.* That area south of Hog Island beginning at latitude 42°17′50.5″, longitude 70°54′07″; thence due east to latitude 42°17′50.5″, longitude 70°53′29.5″; thence due south to latitude 42°17′30″, longitude 70°53′29.5″; thence due west to latitude 42°17′30″, longitude 70°54′07″; thence due north to the point of beginning.

@@ -1,5 +1,7 @@
 ##### § 110.51 Groton, Conn. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 The waters between an unnamed cove and Pine Island.
 
 (a) Beginning at a point on the shoreline of Avery Point at latitude 41°19′01.4″, longitude 072°03′42.8″; thence to a point in the cove at latitude 41°19′02.5″, longitude 72°03′36.2″; thence southeasterly to a point at latitude 41°18′56.2″, longitude 072°03′34.2″; thence northeasterly to latitude 41°19′02.5″, longitude 072°03′19.2″ thence terminating at the tip of Jupiter Point at latitude 41°19′04.4″, longitude 072°03′19.7″. DATUM: NAD 83

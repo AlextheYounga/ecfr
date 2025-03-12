@@ -1,0 +1,5 @@
+##### § 2655.1 Lands subject to determination. #####
+
+(a) Holding agency lands located within areas withdrawn by sections 11(a)(1), 16(a), or 16(d) of the Act and subsequently selected by a village or regional corporation under sections 12 or 16, or selected by the regional corporation under sections 12 or 16, or selected by the regional corporation for southeast Alaska in accordance with section 14(h)(8)(B) are subject to a determination made under this subpart.
+
+(b) Lands in the National Park System, lands withdrawn or reserved for national defense purposes and those former Indian reserves elected under section 19 of the Act are not subject to a determination under section 3(e)(1) of the Act or this subpart. Lands withdrawn under section 11(a)(3) or 14(h), except 14(h)(8)(B), of the Act do not include lands withdrawn or otherwise appropriated by a Federal agency and, therefore, are not subject to a determination under section 3(e)(1) of the Act or this subpart.

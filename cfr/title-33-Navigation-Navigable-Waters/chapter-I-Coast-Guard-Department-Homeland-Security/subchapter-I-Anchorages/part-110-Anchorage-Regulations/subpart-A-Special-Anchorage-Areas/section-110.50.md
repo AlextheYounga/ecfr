@@ -1,5 +1,7 @@
 ##### § 110.50 Stonington Harbor, Conn. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Area No. 1.* Beginning at the southeastern tip of Wamphassuc Point; thence to the northwesterly end of Stonington Inner Breakwater; thence along the breakwater to longitude 71°54′50.5″; thence to latitude 41°20′25.3″, longitude 71°54′50.5″; thence to a point on the shoreline at latitude 41°20′32″, longitude 71°54′54.8″; thence along the shoreline to the point of beginning.
 
 (b) *Area No. 2.* Beginning at a point on the shoreline at latitude 41°19′55.8″, longitude 71°54′28.9″; thence to latitude 41°19′55.8″, longitude 71°54′37.1″; thence to latitude 41°20′01.6″, longitude 71°54′38.8″; thence to a point on the shoreline at latitude 41°20′02″, longitude 71°54′34.3″; thence along the shoreline to the point of beginning.

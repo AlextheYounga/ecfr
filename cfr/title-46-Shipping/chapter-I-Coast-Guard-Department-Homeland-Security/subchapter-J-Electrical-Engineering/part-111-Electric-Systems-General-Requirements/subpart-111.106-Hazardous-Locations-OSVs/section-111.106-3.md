@@ -1,5 +1,7 @@
 ##### § 111.106-3 General requirements. #####
 
+Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
+
 (a) Electrical installations in hazardous locations, where necessary for operational purposes, must be located in the least hazardous location practicable.
 
 (b) Electrical installations in hazardous locations must comply with the standards listed in paragraphs (b)(1), (2), or (3) of this section.
@@ -40,7 +42,7 @@ Note to § 111.106-3(b): System components that are listed or certified under pa
 
 (d) Equipment listed or certified to ANSI/ISA 60079-18 or IEC 60079-18:2009, respectively, (incorporated by reference, see § 110.10-1) is not permitted in Class I Special Division 1 or Zone 0 hazardous location, unless the encapsulating compound of Ex “ma” protected equipment is not exposed to, or has been determined to be compatible with, the liquid or cargo in the storage tank.
 
-(e) Lighting circuits serving flameproof or explosion-proof lighting fixtures in an enclosed hazardous space or room must -
+(e) Lighting circuits serving flameproof or explosion-proof lighting fixtures in an enclosed hazardous space or room must—
 
 (1) Have at least two lighting branch circuits;
 

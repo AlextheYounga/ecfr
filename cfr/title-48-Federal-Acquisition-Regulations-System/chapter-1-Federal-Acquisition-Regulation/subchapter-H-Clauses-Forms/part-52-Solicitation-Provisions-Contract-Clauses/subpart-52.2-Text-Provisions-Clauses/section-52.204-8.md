@@ -1,16 +1,14 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (DEC 2022)
+Annual Representations and Certifications (MAR 2023)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
 (2) The small business size standard is \_\_\_\_\_\_\_ [*insert size standard*].
 
-(3) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees if the acquisition -
+(3) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
 (i) Is set aside for small business and has a value above the simplified acquisition threshold;
 
@@ -28,7 +26,7 @@ Annual Representations and Certifications (DEC 2022)
 
 (c)(1) The following representations or certifications in SAM are applicable to this solicitation as indicated:
 
-(i) 52.203-2, Certificate of Independent Price Determination. This provision applies to solicitations when a firm-fixed-price contract or fixed-price contract with economic price adjustment is contemplated, unless -
+(i) 52.203-2, Certificate of Independent Price Determination. This provision applies to solicitations when a firm-fixed-price contract or fixed-price contract with economic price adjustment is contemplated, unless—
 
 (A) The acquisition is to be made under the simplified acquisition procedures in Part 13;
 
@@ -38,11 +36,11 @@ Annual Representations and Certifications (DEC 2022)
 
 (ii) 52.203-11, Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions. This provision applies to solicitations expected to exceed $150,000.
 
-(iii) 52.203-18, Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements - Representation. This provision applies to all solicitations.
+(iii) 52.203-18, Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements—Representation. This provision applies to all solicitations.
 
 (iv) 52.204-3, Taxpayer Identification. This provision applies to solicitations that do not include provision at 52.204-7, System for Award Management.
 
-(v) 52.204-5, Women-Owned Business (Other Than Small Business). This provision applies to solicitations that -
+(v) 52.204-5, Women-Owned Business (Other Than Small Business). This provision applies to solicitations that—
 
 (A) Are not set aside for small business concerns;
 
@@ -50,15 +48,15 @@ Annual Representations and Certifications (DEC 2022)
 
 (C) Are for contracts that will be performed in the United States or its outlying areas.
 
-(vi) 52.204-26, Covered Telecommunications Equipment or Services - Representation. This provision applies to all solicitations.
+(vi) 52.204-26, Covered Telecommunications Equipment or Services—Representation. This provision applies to all solicitations.
 
-(vii) 52.209-2, Prohibition on Contracting with Inverted Domestic Corporations - Representation.
+(vii) 52.209-2, Prohibition on Contracting with Inverted Domestic Corporations—Representation.
 
 (viii) 52.209-5, Certification Regarding Responsibility Matters. This provision applies to solicitations where the contract value is expected to exceed the simplified acquisition threshold.
 
 (ix) 52.209-11, Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law. This provision applies to all solicitations.
 
-(x) 52.214-14, Place of Performance - Sealed Bidding. This provision applies to invitations for bids except those in which the place of performance is specified by the Government.
+(x) 52.214-14, Place of Performance—Sealed Bidding. This provision applies to invitations for bids except those in which the place of performance is specified by the Government.
 
 (xi) 52.215-6, Place of Performance. This provision applies to solicitations unless the place of performance is specified by the Government.
 
@@ -82,7 +80,7 @@ Annual Representations and Certifications (DEC 2022)
 
 (xviii) 52.223-4, Recovered Material Certification. This provision applies to solicitations that are for, or specify the use of, EPA-designated items.
 
-(xix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation. This provision applies to solicitations that include the clause at 52.204-7.)
+(xix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. This provision applies to solicitations that include the clause at 52.204-7.)
 
 (xx) 52.225-2, Buy American Certificate. This provision applies to solicitations containing the clause at 52.225-1.
 
@@ -96,9 +94,9 @@ Annual Representations and Certifications (DEC 2022)
 
 (xxii) 52.225-6, Trade Agreements Certificate. This provision applies to solicitations containing the clause at 52.225-5.
 
-(xxiii) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan - Certification. This provision applies to all solicitations.
+(xxiii) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan—Certification. This provision applies to all solicitations.
 
-(xxiv) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran - Representation and Certifications. This provision applies to all solicitations.
+(xxiv) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran—Representation and Certifications. This provision applies to all solicitations.
 
 (xxv) 52.226-2, Historically Black College or University and Minority Institution Representation. This provision applies to solicitations for research, studies, supplies, or services of the type normally acquired from higher educational institutions.
 
@@ -112,9 +110,9 @@ Annual Representations and Certifications (DEC 2022)
 
 \_\_ (iii) 52.222-18, Certification Regarding Knowledge of Child Labor for Listed End Products.
 
-\_\_ (iv) 52.222-48, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Certification.
+\_\_ (iv) 52.222-48, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Certification.
 
-\_\_ (v) 52.222-52, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Certification.
+\_\_ (v) 52.222-52, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Certification.
 
 \_\_ (vi) 52.223-9, with its Alternate I, Estimate of Percentage of Recovered Material Content for EPA-Designated Products (Alternate I only).
 
@@ -130,7 +128,7 @@ Annual Representations and Certifications (DEC 2022)
 
 (End of provision)
 
-*Alternate I* (SEP 2021). As prescribed in 4.1202(a), substitute the following paragraph (a) for paragraph (a) of the basic provision:
+*Alternate I* (MAR 2023). As prescribed in 4.1202(a), substitute the following paragraph (a) for paragraph (a) of the basic provision:
 
 (a)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
 
@@ -142,7 +140,7 @@ Annual Representations and Certifications (DEC 2022)
 
 [*Contracting Officer to insert NAICS codes and size standards*].
 
-(2) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce, (*i.e.,* nonmanufacturer), is 500 employees if the acquisition -
+(2) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce, (*i.e.,* nonmanufacturer), is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
 (i) Is set aside for small business and has a value above the simplified acquisition threshold;
 

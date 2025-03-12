@@ -1,0 +1,3 @@
+##### § 2631.2 Publication of notice. #####
+
+The authorizing officer shall direct the publication of notice of the application. The notice will be published at the carrier's expense in a newspaper of general circulation in the vicinity of the land. If a daily newspaper be designated, the notice should be published in the Wednesday issue for five consecutive weeks; if weekly, for five consecutive issues; and if semiweekly, in either issue for five consecutive weeks. The carrier must furnish evidence of such publication in due course. Notice need not be published, in case of amendment of a pending application, where publication has already been had.

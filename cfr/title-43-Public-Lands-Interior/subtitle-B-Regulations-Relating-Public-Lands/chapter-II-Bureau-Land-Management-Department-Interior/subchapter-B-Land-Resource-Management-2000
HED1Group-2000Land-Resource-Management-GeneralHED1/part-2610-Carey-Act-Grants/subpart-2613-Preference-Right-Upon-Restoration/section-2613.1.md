@@ -1,0 +1,7 @@
+##### § 2613.1 Allowance of filing of applications. #####
+
+(a) *Status of lands under State laws.* Prior to the restoration of lands segregated under the Carey Act, the Bureau of Land Management shall ascertain from the proper State officials whether any entries have been allowed under the State Carey Act laws on any such lands, and if any such entries have been allowed, the status thereof and action taken by the State with reference thereto.
+
+(b) *No entries under State laws.* If it is shown with reasonable certainty, either from the report of the State officers or by other available information, that there are no entries under State law, then the Act of February 14, 1920, shall not be considered applicable to the restoration of the lands. Lands shall be restored as provided in a notice published in the Federal Register.
+
+(c) *Entries under State laws.* If it appears from the report of the State officials or otherwise that there are entries under the State law which may properly be the basis for preference rights under this act, in the order restoring the lands the authorized officer may, in his discretion, allow only the filing of applications to obtain a preference right under the Act of February 14, 1920.

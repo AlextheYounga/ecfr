@@ -1,0 +1,9 @@
+##### § 3809.503 When must I provide a financial guarantee for my notice-level operations? #####
+
+To see how this subpart applies to your notice, follow this table:
+
+|                                                                        If—                                                                        |                                                                                        Then—                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                             (a) Your notice was on file with BLM on January 20, 2001                                              |                                 You do not need to provide a financial guarantee unless you modify the notice or extend the notice under § 3809.333.                                 |
+|(b) Your notice was on file with BLM before January 20, 2001 and you choose to modify your notice as required by this subpart on or after that date|You must provide a financial guarantee before you can begin operations under the modified notice. If you modify your notice, you must post a finacial guarantee for the entire notice.|
+|                                              (c) You file a new notice on or after January 20, 2001                                               |                                               You must provide a financial guarantee before you can begin operations under the notice.                                               |

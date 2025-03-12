@@ -1,6 +1,8 @@
 ##### § 111.60-5 Cable installation. #####
 
-(a) Each cable installation must meet -
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
+(a) Each cable installation must meet—
 
 (1) Sections 25, except 25.11, of IEEE 45-2002 (incorporated by reference; see 46 CFR 110.10-1); or
 
@@ -8,7 +10,7 @@
 
 (b) Each cable installation made in accordance with clause 8 of IEC 60092-352 must utilize the conductor ampacity values of Table I of IEC 60092-352.
 
-(c) No cable may be located in any tank unless -
+(c) No cable may be located in any tank unless—
 
 (1) The purpose of the cable is to supply equipment or instruments especially designed for and compatible with service in the tank and whose function requires the installation of the cable in the tank;
 

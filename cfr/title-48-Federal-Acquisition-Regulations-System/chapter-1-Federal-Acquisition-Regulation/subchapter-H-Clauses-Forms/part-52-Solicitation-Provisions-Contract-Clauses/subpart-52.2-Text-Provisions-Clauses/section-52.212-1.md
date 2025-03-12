@@ -1,12 +1,10 @@
-##### 52.212-1 Instructions to Offerors - Commercial Products and Commercial Services. #####
-
-Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+##### 52.212-1 Instructions to Offerors—Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Products and Commercial Services (NOV 2021)
+Instructions to Offerors—Commercial Products and Commercial Services (MAR 2023)
 
-(a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees if the acquisition -
+(a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
 (1) Is set aside for small business and has a value above the simplified acquisition threshold;
 
@@ -14,7 +12,7 @@ Instructions to Offerors - Commercial Products and Commercial Services (NOV 2021
 
 (3) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
-(b) *Submission of offers.* Submit signed and dated offers to the office specified in this solicitation at or before the exact time specified in this solicitation. Offers may be submitted on the SF 1449, letterhead stationery, or as otherwise specified in the solicitation. As a minimum, offers must show -
+(b) *Submission of offers.* Submit signed and dated offers to the office specified in this solicitation at or before the exact time specified in this solicitation. Offers may be submitted on the SF 1449, letterhead stationery, or as otherwise specified in the solicitation. As a minimum, offers must show—
 
 (1) The solicitation number;
 
@@ -46,7 +44,7 @@ Instructions to Offerors - Commercial Products and Commercial Services (NOV 2021
 
 (f) *Late submissions, modifications, revisions, and withdrawals of offers.* (1) Offerors are responsible for submitting offers, and any modifications, revisions, or withdrawals, so as to reach the Government office designated in the solicitation by the time specified in the solicitation. If no time is specified in the solicitation, the time for receipt is 4:30 p.m., local time, for the designated Government office on the date that offers or revisions are due.
 
-(2)(i) Any offer, modification, revision, or withdrawal of an offer received at the Government office designated in the solicitation after the exact time specified for receipt of offers is “late” and will not be considered unless it is received before award is made, the Contracting Officer determines that accepting the late offer would not unduly delay the acquisition; and -
+(2)(i) Any offer, modification, revision, or withdrawal of an offer received at the Government office designated in the solicitation after the exact time specified for receipt of offers is “late” and will not be considered unless it is received before award is made, the Contracting Officer determines that accepting the late offer would not unduly delay the acquisition; and—
 
 (A) If it was transmitted through an electronic commerce method authorized by the solicitation, it was received at the initial point of entry to the Government infrastructure not later than 5:00 p.m. one working day prior to the date specified for receipt of offers; or
 
@@ -66,7 +64,7 @@ Instructions to Offerors - Commercial Products and Commercial Services (NOV 2021
 
 (h) *Multiple awards.* The Government may accept any item or group of items of an offer, unless the offeror qualifies the offer by specific limitations. Unless otherwise provided in the Schedule, offers may not be submitted for quantities less than those specified. The Government reserves the right to make an award on any item for a quantity less than the quantity offered, at the unit prices offered, unless the offeror specifies otherwise in the offer.
 
-(i) *Availability of requirements documents cited in the solicitation.* (1)(i) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, and copies of specifications, standards, and commercial item descriptions cited in this solicitation may be obtained for a fee by submitting a request to - GSA Federal Supply Service Specifications Section, Suite 8100, 470 East L'Enfant Plaza, SW, Washington, DC 20407, Telephone (202) 619-8925, Facsimile (202) 619-8978.
+(i) *Availability of requirements documents cited in the solicitation.* (1)(i) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, and copies of specifications, standards, and commercial item descriptions cited in this solicitation may be obtained for a fee by submitting a request to—GSA Federal Supply Service Specifications Section, Suite 8100, 470 East L'Enfant Plaza, SW, Washington, DC 20407, Telephone (202) 619-8925, Facsimile (202) 619-8978.
 
 (ii) If the General Services Administration, Department of Agriculture, or Department of Veterans Affairs issued this solicitation, a single copy of specifications, standards, and commercial item descriptions cited in this solicitation may be obtained free of charge by submitting a request to the addressee in paragraph (i)(1)(i) of this provision. Additional copies will be issued for a fee.
 
@@ -76,7 +74,7 @@ Instructions to Offerors - Commercial Products and Commercial Services (NOV 2021
 
 (ii) Quick Search (*http://quicksearch.dla.mil/*).
 
-(3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by -
+(3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by—
 
 (i) Using the ASSIST Shopping Wizard (*https://assist.dla.mil/wizard/index.cfm*);
 

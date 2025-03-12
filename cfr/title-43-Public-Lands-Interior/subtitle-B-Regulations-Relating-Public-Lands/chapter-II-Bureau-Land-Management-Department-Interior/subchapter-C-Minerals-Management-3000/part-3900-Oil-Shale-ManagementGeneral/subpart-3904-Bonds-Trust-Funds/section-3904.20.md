@@ -1,0 +1,5 @@
+##### § 3904.20 Default. #####
+
+(a) The BLM will demand payment from the lease bond to cover nonpayment of any rental or royalty owed or the reclamation or exploration license bond for any reclamation obligations that are not met. The BLM will reduce the bond amount by the amount of the payment made to cover the default.
+
+(b) After any default, the BLM will provide notification of the amount required to restore the bond to the required level. A new bond or an increase in the existing bond to its pre-default level must be provided to the proper BLM office within 6 months of the BLM's written notification that the bond is below its required level. The BLM may accept separate or substitute bonds for each exploration license or lease. The BLM may take action to cancel the lease or exploration license covered by the bond if sufficient additional bond is not provided within the six month time period.

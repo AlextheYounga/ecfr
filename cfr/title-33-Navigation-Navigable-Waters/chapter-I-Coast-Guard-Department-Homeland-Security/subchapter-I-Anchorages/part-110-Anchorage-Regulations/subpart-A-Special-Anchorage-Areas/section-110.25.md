@@ -1,5 +1,7 @@
 ##### § 110.25 Salem Sound, Mass. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Beverly Harbor, north of Salem Neck, Salem, MA.* A line extending from the northerly end of the Salem Willows Yacht Club House 360 yards bearing 281° true to position latitude 42°32′14.3″ N., longitude 70°52′24.17″ W.; thence north 275 yards to Monument Bar Beacon thence 540 yards bearing 080° to position latitude 42°32′25.3″ N., longitude 70°52′2.1″ W., thence 365 yards bearing 175° to position latitude 42°32′14.3″ N., longitude 70°52′1.1″ W.; thence 237° to the shore. [NAD83]
 
 (b) *Bass River.* All of the area upstream of the highway bridge (Popes Bridge) outside of the dredged channel.

@@ -1,0 +1,3 @@
+##### § 2916.1-1 Commencement of operations; stocking lands. #####
+
+The lessee shall, within one year from the date of issuance of the lease, commence operations by taking possession of the leased area, and by placing thereon within that period such improvements as may be needed for such operations and as will show good faith, and shall thereafter develop the fur-farming enterprise on the leased area with reasonable diligence. The lessee shall stock the leased area with the minimum of fur-bearing animals required by the lease within the periods specified in the lease.

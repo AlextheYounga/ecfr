@@ -1,7 +1,5 @@
 ##### § 960.206 Waiting list: Local preferences in admission to public housing program. #####
 
-Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
-
 (a) *Establishment of PHA local preferences.* (1) The PHA may adopt a system of local preferences for selection of families admitted to the PHA's public housing program. The PHA system of selection preferences must be based on local housing needs and priorities as determined by the PHA. In determining such needs and priorities, the PHA shall use generally accepted data sources. Such sources include public comment on the PHA plan (as received pursuant to § 903.17 of this chapter), and on the consolidated plan for the relevant jurisdiction (as received pursuant to part 91 of this title).
 
 (2) The PHA may limit the number of applicants that qualify for any local preference.
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (4) The PHA must inform all applicants about available preferences and must give applicants an opportunity to show that they qualify for available preferences.
 
-(b) *Particular local preferences* - (1) *Residency requirements or preferences.* (i) Residency requirements are prohibited. Although a PHA is not prohibited from adopting a residency preference, the PHA may only adopt or implement residency preferences in accordance with non-discrimination and equal opportunity requirements listed at § 5.105(a) of this title.
+(b) *Particular local preferences*—(1) *Residency requirements or preferences.* (i) Residency requirements are prohibited. Although a PHA is not prohibited from adopting a residency preference, the PHA may only adopt or implement residency preferences in accordance with non-discrimination and equal opportunity requirements listed at § 5.105(a) of this title.
 
 (ii) A residency preference is a preference for admission of persons who reside in a specified geographic area (“residency preference area”). A county or municipality may be used as a residency preference area. An area smaller than a county or municipality may not be used as a residency preference area.
 
@@ -28,6 +26,8 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (5) *Preference for single persons who are elderly, displaced, homeless or a person with disabilities.* The PHA may adopt a preference for admission of single persons who are age 62 or older, displaced, homeless, or persons with disabilities over other single persons.
 
+(6) *Preference for non-public housing over-income families.* The PHA may adopt a preference for admission of non-public housing over-income families paying the alternative non-public housing rent and are on a NPHOI lease who become an income-eligible low-income family as defined in § 5.603(b) of this title and are eligible for admission to the public housing program.
+
 (c) *Selection for particular unit.* In selecting a family to occupy a particular unit, the PHA may match characteristics of the family with the type of unit available, for example, number of bedrooms. In selection of families to occupy units with special accessibility features for persons with disabilities, the PHA must first offer such units to families which include persons with disabilities who require such accessibility features (see §§ 8.27 and 100.202 of this title).
 
 (d) *Housing assistance limitation for single persons.* A single person who is not an elderly or displaced person, or a person with disabilities, or the remaining member of a resident family may not be provided a housing unit with two or more bedrooms.
@@ -40,4 +40,4 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (2) The method for selecting applicants must leave a clear audit trail that can be used to verify that each applicant has been selected in accordance with the method specified in the PHA plan.
 
-[66 FR 28799, May 24, 2001, as amended at 81 FR 80815, Nov. 16, 2016]
+[66 FR 28799, May 24, 2001, as amended at 81 FR 80815, Nov. 16, 2016; 88 FR 9670, Feb. 14, 2023]

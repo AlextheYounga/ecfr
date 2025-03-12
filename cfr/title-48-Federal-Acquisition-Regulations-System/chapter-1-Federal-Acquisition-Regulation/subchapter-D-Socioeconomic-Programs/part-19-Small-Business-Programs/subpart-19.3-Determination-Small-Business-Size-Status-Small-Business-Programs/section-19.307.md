@@ -1,7 +1,5 @@
 ##### 19.307 Protesting a firm's status as a service-disabled veteran-owned small business concern. #####
 
-Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
-
 (a) [Reserved]
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the apparently successful offeror's service-disabled veteran-owned small business status. For all other acquisitions, any interested party may protest the apparently successful offeror's service-disabled veteran-owned small business status.
@@ -12,15 +10,17 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (d) All protests must be in writing and must state all specific grounds for the protest.
 
-(1) SBA will consider protests challenging the service disabled veteran-owned status or the ownership and control of a concern if -
+(1) SBA will consider protests challenging the service-disabled veteran-owned status or the ownership and control of a concern if—
 
-(i) For status protests, the protester presents evidence supporting the contention that the owner(s) cannot provide documentation from the Department of Veterans Affairs, Department of Defense determinations, or the U.S. National Archives and Records Administration to show that they meet the definition of “service-disabled veteran” or “service disabled veteran with a permanent and severe disability” as set forth in 13 CFR 125.8; or
+(i) For status protests, the protester presents evidence supporting the contention that the owner(s) cannot provide documentation from the Department of Veterans Affairs, Department of Defense determinations, or the U.S. National Archives and Records Administration to show that they meet the definition of “service-disabled veteran” or “service disabled veteran with a permanent and severe disability” as set forth in 13 CFR 125.12; or
 
-(ii) For ownership and control protests, the protester presents evidence that the concern is not 51 percent owned and controlled by one or more service-disabled veterans. In the case of a veteran with a permanent and severe disability, the protester presents evidence that the concern is not controlled by the veteran, spouse, or permanent caregiver of such veteran.
+(ii) For ownership and control protests, the protester presents evidence that the concern is not 51 percent owned and controlled by one or more service-disabled veterans. In the case of a veteran with a permanent and severe disability, the protester presents evidence that the concern is not controlled by the veteran, spouse, or permanent caregiver of such veteran; or
+
+(iii) For set-aside or sole-source service contract or order ostensible subcontractor protests, the protester presents credible evidence of the alleged undue reliance on a small entity subcontractor that is not a similarly-situated entity as defined in 13 CFR 125.1, or credible evidence that the small non-similarly situated entity is performing the primary and vital requirements of the contract. For allegations that the prime contractor is unduly reliant on an other-than-small subcontractor, see size protests at 19.302, and 13 CFR 121.103(h)(2), which treats the pair as joint venturers for size determination purposes (the “ostensible subcontractor rule”).
 
 (2) Assertions that a protested concern is not a service-disabled veteran-owned small business concern, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 125.25(b)).
 
-(e) *Protest by an interested party.* (1) An offeror shall submit its protest to the contracting officer -
+(e) *Protest by an interested party.* (1) An offeror shall submit its protest to the contracting officer—
 
 (i) To be received by close of business on the fifth business day after bid opening (in sealed bid acquisitions); or
 
@@ -56,7 +56,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (g) SBA will notify the protester and the contracting officer of the date SBA received the protest.
 
-(h) *Before SBA decision.* (1) After receiving a protest involving the apparent successful offeror's status as a service-disabled veteran-owned small business concern, the contracting officer shall either -
+(h) *Before SBA decision.* (1) After receiving a protest involving the apparent successful offeror's status as a service-disabled veteran-owned small business concern, the contracting officer shall either—
 
 (i) Withhold award of the contract until SBA determines the status of the protested concern; or
 
@@ -72,7 +72,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (2) If the contracting officer has withheld contract award, SBA has sustained the protest and determined that the concern is not an SDVOSB, and no OHA appeal has been filed, then the contracting officer shall not award the contract to the protested concern.
 
-(3) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, the contract has been awarded, and SBA's ruling sustaining the protest is received after award -
+(3) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, the contract has been awarded, and SBA's ruling sustaining the protest is received after award—
 
 (i) The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government. However, the contracting officer shall not exercise any options or award further task or delivery orders;
 
@@ -82,7 +82,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (4) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section and awarded the contract to the protested firm, SBA has sustained the protest and determined that the concern is not a SDVOSB, and a timely OHA appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an OHA decision is rendered.
 
-(5) If OHA affirms the SBA Director for Government Contracting's determination finding the protested concern is ineligible -
+(5) If OHA affirms the SBA Director for Government Contracting's determination finding the protested concern is ineligible—
 
 (i) The contracting officer shall terminate the contract unless the contracting officer has made a written determination that it is not in the best interest of the Government. However, the contracting officer shall not exercise any options or award further task or delivery orders;
 
@@ -96,7 +96,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (k) *The appeal must be in writing.* The appeal must identify the protest determination being appealed and must set forth a full and specific statement as to why the SDVOSB protest determination is alleged to be based on a clear error of fact or law, together with an argument supporting such allegation.
 
-(l) The party appealing the decision must provide notice of the appeal to -
+(l) The party appealing the decision must provide notice of the appeal to—
 
 (1) The contracting officer;
 
@@ -108,4 +108,4 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested SDVOSB small business concern. The OHA decision regarding the status of the concern is final and is binding on the parties.
 
-[79 FR 43586, July 25, 2014, as amended at 79 FR 46375, Aug. 8, 2014; 85 FR 11760, Feb. 27, 2020]
+[79 FR 43586, July 25, 2014, as amended at 79 FR 46375, Aug. 8, 2014; 85 FR 11760, Feb. 27, 2020; 88 FR 9737, Feb. 14, 2023]

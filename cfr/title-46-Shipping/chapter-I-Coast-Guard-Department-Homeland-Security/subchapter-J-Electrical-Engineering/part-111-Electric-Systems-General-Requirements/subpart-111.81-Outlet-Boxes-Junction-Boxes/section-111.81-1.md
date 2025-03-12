@@ -1,5 +1,7 @@
 ##### § 111.81-1 Outlet boxes and junction boxes; general. #####
 
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
 (a) The requirements of this subpart apply to each outlet box used with a lighting fixture, wiring device, or similar item, including each separately installed connection and junction box.
 
 (b) An outlet box must be at each outlet, switch, receptacle, or junction point.

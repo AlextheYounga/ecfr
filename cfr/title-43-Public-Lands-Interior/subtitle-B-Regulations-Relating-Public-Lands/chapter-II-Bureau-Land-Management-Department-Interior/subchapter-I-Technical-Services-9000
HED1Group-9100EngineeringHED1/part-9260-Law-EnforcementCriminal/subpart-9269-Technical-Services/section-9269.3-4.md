@@ -1,0 +1,15 @@
+##### § 9269.3-4 Range management. #####
+
+(a) *Grazing administration—exclusive of Alaska*—(1) *Unlawful enclosures or occupancy.* Section 1 of the Act of February 25, 1885 (43 U.S.C. 1061), declares any enclosure of public lands made or maintained by any party, association, or corporation who “had no claim or color of title made or acquired in good faith, or an asserted right thereto, by or under claim, made in good faith with a view to entry thereof at the proper land office under the general laws of the United States at the time any such enclosure was or shall be made” to be unlawful and prohibts the maintenance or erection thereof. (See § 9269.3-4(a)(2) of this title).
+
+(2) *Penalties.* Under section 4 of the Act of February 25, 1885 (43 U.S.C. 1064), any person violating any of the provisions of this Act, whether as owner, part owner, or agent, or who shall aid, abet, counsel, advise, or assist in any violation hereof, shall be deemed guilty of a misdemeanor and fined a sum not exceeding $1,000, or be imprisoned not exceeding one year, or both, for each offense.
+
+(b) *Grazing administration; Alaska; livestock.* (1) Grazing livestock upon, allowing livestock to drift and graze on, or driving livestock across lands that are subject to lease or permit under the provisions of part 9230 of this title or within a stock driveway, without a lease or other authorization from the Bureau of Land Management, is prohibited and constitutes trespass. Trespassers will be liable in damages to the United States for forage consumed and for injury to Federal property, and may be subject to criminal prosecution for such unlawful acts. A lessee who grazes livestock in violation of the terms and conditions of his lease by exceeding numbers specified, or by allowing the livestock to be on Federal land in an area or at a time different from that designated in his lease shall be in default and shall be subject to the provisions of § 4220.7 (g) and (h) of this title.
+
+(2) *Penalties.* Under section 2 of the Taylor Grazing Act, any person who willfully grazes livestock in such areas without such authority shall, upon conviction, be punished by a fine of not more than $500.
+
+(c) *Grazing administration; Alaska; reindeer.* (1) Any use of the Federal lands for reindeer grazing purposes, unless authorized by a valid permit issued in accordance with the regulations in part 4300 of this title, is unlawful and is prohibited.
+
+(2) *Penalties.* Any person who willfully violates any of the rules and regulations in part 4300 of this title shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be punishable by imprisonment for not more than one year, or by a fine of not more than $500.
+
+(d) *Wild free-roaming horse and burro protection, management, and control.* [Reserved]

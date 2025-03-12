@@ -1,5 +1,7 @@
 ##### § 112.05-5 Emergency power source. #####
 
+Link to an amendment published at 88 FR 16368, Mar. 16, 2023.
+
 (a) The emergency power source must meet table 112.05-5(a) and have the capacity to supply all loads that are simultaneously connected to it, except a load on a bus-tie to the main switchboard or non-required loads that are connected in accordance with § 112.05-1(c).
 
 Table 112.05-5(a)

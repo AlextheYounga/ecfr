@@ -1,0 +1,3 @@
+##### § 2524.6 Desert-land entryman may proceed independently of Government irrigation. #####
+
+Special attention is called to the fact that nothing contained in the Act of June 27, 1906 (34 Stat. 520; 43 U.S.C. 448), shall be construed to mean that a desert-land entryman who owns a water right and reclaims the land embraced in his entry must accept the conditions of the reclamation law, but he may proceed independently of the Government's plan of irrigation and acquire title to the land embraced in his desert-land entry by means of his own system of irrigation.

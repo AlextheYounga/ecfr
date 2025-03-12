@@ -1,5 +1,7 @@
 ##### § 111.12-11 Generator protection. #####
 
+Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
+
 (a) *Applicability.* This section applies to each generator except a propulsion generator.
 
 (b) *General.* Each ship's service generator and emergency generator must be protected by an individual, tripfree, air circuit breaker whose tripping characteristics can be set or adjusted to closely match the generator capabilities and meet the coordination requirements of Subpart 111.51. Each circuit breaker must contain the trips required by this section.

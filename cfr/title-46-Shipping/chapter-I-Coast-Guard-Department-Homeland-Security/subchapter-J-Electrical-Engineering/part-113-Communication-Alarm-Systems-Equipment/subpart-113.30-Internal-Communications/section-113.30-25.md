@@ -1,5 +1,7 @@
 ##### § 113.30-25 Detailed requirements. #####
 
+Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
+
 (a) Multiple stations must be able to communicate at the same time.
 
 (b) The loss of one component of the system must not disable the rest of the system.

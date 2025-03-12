@@ -1,5 +1,7 @@
 ##### § 111.105-45 Vessels carrying agricultural products. #####
 
+Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
+
 (a) The following areas are Class II, Division 1, (Zone 10 or Z) locations on vessels carrying bulk agricultural products that may produce dust explosion hazards:
 
 (1) The interior of each cargo hold or bin.

@@ -1,0 +1,5 @@
+##### § 2807.18 How will I know that BLM intends to suspend or terminate my grant? #####
+
+(a) Before BLM suspends or terminates your grant under § 2807.17(a) of this subpart, it will send you a written notice stating that it intends to suspend or terminate your grant and giving the grounds for such action. The notice will give you a reasonable opportunity to correct any noncompliance or start or resume use of the right-of-way, as appropriate.
+
+(b) To suspend or terminate a grant issued as an easement, BLM must give you written notice and refer the matter to the Office of Hearings and Appeals for a hearing before an ALJ under 5 U.S.C. 554. No hearing is required if the grant provided by its terms for termination on the occurrence of a fixed or agreed upon condition, event, or time. If the ALJ determines that grounds for suspension or termination exist and such action is justified, BLM will suspend or terminate the grant.

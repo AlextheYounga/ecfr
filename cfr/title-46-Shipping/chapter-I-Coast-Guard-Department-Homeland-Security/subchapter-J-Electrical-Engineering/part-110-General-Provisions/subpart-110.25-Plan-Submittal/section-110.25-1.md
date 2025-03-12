@@ -1,12 +1,14 @@
 ##### § 110.25-1 Plans and information required for new construction. #####
 
+Link to an amendment published at 88 FR 16359, Mar. 16, 2023.
+
 The following plans, if applicable to the particular vessel, must be submitted for Coast Guard review in accordance with § 110.25-3:
 
 Note:
 
 A Navigation and Vessel Inspection Circular on the Subject of “Coast Guard Review of Merchant Vessel Plans and Specifications” is available from the offices listed in § 110.25-3. The Circular recommends practices and procedures for plan submittals.
 
-(a) Elementary one-line wiring diagram of the power system, supported, by cable lists, panelboard summaries, and other information including -
+(a) Elementary one-line wiring diagram of the power system, supported, by cable lists, panelboard summaries, and other information including—
 
 (1) Type and size of generators and prime movers;
 
@@ -24,7 +26,7 @@ A Navigation and Vessel Inspection Circular on the Subject of “Coast Guard Rev
 
 (b) Electrical plant load analysis including connected loads and computed operating loads for each condition of operation.
 
-(c) Elementary and isometric or deck wiring plans, including the location of each cable splice, a list of symbols, and the manufacturer's name and identification of each item of electrical equipment, of each -
+(c) Elementary and isometric or deck wiring plans, including the location of each cable splice, a list of symbols, and the manufacturer's name and identification of each item of electrical equipment, of each—
 
 (1) Steering gear circuit and steering motor controller;
 
@@ -66,7 +68,7 @@ A Navigation and Vessel Inspection Circular on the Subject of “Coast Guard Rev
 
 (h) Description of operation of propulsion control and bus transfer switchgear.
 
-(i) For vessels with hazardous locations for which part 111, subpart 111.105, is applicable, plans showing the extent and classification of all hazardous locations, including information on -
+(i) For vessels with hazardous locations for which part 111, subpart 111.105, is applicable, plans showing the extent and classification of all hazardous locations, including information on—
 
 (1) Equipment identification by manufacturer's name and model number;
 
@@ -100,7 +102,7 @@ This equipment evaluation is generally performed by the Commanding Officer, Mari
 
 (o) Detailed analysis showing compliance with the MC cable requirements in § 111.60-23(b) of this chapter.
 
-(p) For an OSV with hazardous locations to which subpart 111.106 of this part applies, plans showing the extent and classification of all hazardous locations, including information on -
+(p) For an OSV with hazardous locations to which subpart 111.106 of this part applies, plans showing the extent and classification of all hazardous locations, including information on—
 
 (1) Equipment identification by manufacturer's name and model number;
 
@@ -114,7 +116,7 @@ This equipment evaluation is generally performed by the Commanding Officer, Mari
 
 (6) A certificate of testing, and listing or certification, by an independent laboratory, as defined by 46 CFR 159.001-3, or an IECEx Certificate of Conformity under the IECEx System, where required by the respective standard in § 111.106-3(b)(1), (2), or (3) of this subchapter.
 
-(q) For vessels with hazardous locations to which subpart 111.108 of this chapter applies, plans showing the extent and classification of all hazardous locations, including information on -
+(q) For vessels with hazardous locations to which subpart 111.108 of this chapter applies, plans showing the extent and classification of all hazardous locations, including information on—
 
 (1) Equipment identification by manufacturer's name and model number;
 

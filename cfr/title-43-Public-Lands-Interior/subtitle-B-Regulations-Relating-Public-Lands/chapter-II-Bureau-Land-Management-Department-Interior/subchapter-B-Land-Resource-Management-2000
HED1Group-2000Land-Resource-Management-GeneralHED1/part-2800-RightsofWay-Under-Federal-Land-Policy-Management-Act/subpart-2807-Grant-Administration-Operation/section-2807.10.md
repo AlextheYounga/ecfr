@@ -1,0 +1,3 @@
+##### § 2807.10 When can I start activities under my grant? #####
+
+When you can start depends on the terms of your grant. You can start activities when you receive the grant you and BLM signed, unless the grant includes a requirement for BLM to provide a written Notice to Proceed. If your grant contains a Notice to Proceed requirement, you may not initiate construction, operation, maintenance, or termination until BLM issues you a Notice to Proceed.

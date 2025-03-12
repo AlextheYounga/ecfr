@@ -1,10 +1,8 @@
-##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
-
-Link to an amendment published at 88 FR 9734, Feb. 14, 2023.Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (DEC 2022)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (MAR 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -16,9 +14,11 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (4) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
 
-(5) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(5) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
 
-(6) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Public Laws 108-77 and 108-78 (19 U.S.C. 3805 note)).
+(6) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(7) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Public Laws 108-77 and 108-78 (19 U.S.C. 3805 note)).
 
 (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services: [*Contracting Officer check as appropriate.*]
 
@@ -74,11 +74,11 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (19) 52.219-14, Limitations on Subcontracting (OCT 2022) (15 U.S.C. 657s).
 
-\_\_ (20) 52.219-16, Liquidated Damages - Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)(F)(i)).
+\_\_ (20) 52.219-16, Liquidated Damages—Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)(F)(i)).
 
 \_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2022) (15 U.S.C. 657f).
 
-\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (OCT 2022) (15 U.S.C. 632(a)(2)).
+\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (MAR 2023) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
@@ -92,7 +92,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (27) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (28) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126).
+\_\_ (28) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126).
 
 \_\_ (29) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -150,11 +150,11 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (JAN 2017) of 52.224-3.
 
-\_\_ (48)(i) 52.225-1, Buy American - Supplies (OCT 2022)) (41 U.S.C. chapter 83).
+\_\_ (48)(i) 52.225-1, Buy American—Supplies (OCT 2022)) (41 U.S.C. chapter 83).
 
 \_\_ (ii) Alternate I (OCT 2022) of 52.225-1.
 
-\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (DEC 2022) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_ (49)(i) 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act (DEC 2022) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
 \_\_ (ii) Alternate I [Reserved].
 
@@ -180,9 +180,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (57) 52.232-30, Installment Payments for Commercial Products and Commercial Services (NOV 2021) (41 U.S.C. 4505, 10 U.S.C. 3805).
 
-\_\_ (58) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (31 U.S.C. 3332).
+\_\_ (58) 52.232-33, Payment by Electronic Funds Transfer—System for Award Management (OCT 2018) (31 U.S.C. 3332).
 
-\_\_ (59) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
+\_\_ (59) 52.232-34, Payment by Electronic Funds Transfer—Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
 
 \_\_ (60) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
 
@@ -204,11 +204,11 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (3) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment (Multiple Year and Option Contracts) (AUG 2018) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
-\_\_ (4) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
+\_\_ (4) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
 
-\_\_ (5) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (5) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_ (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
 \_\_ (7) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
@@ -216,7 +216,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (9) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792).
 
-(d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, as defined in FAR 2.101, on the date of award of this contract, and does not contain the clause at 52.215-2, Audit and Records - Negotiation.
+(d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, as defined in FAR 2.101, on the date of award of this contract, and does not contain the clause at 52.215-2, Audit and Records—Negotiation.
 
 (1) The Comptroller General of the United States, or an authorized representative of the Comptroller General, shall have access to and right to examine any of the Contractor's directly pertinent records involving transactions related to this contract.
 
@@ -224,7 +224,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (3) As used in this clause, records include books, documents, accounting procedures and practices, and other data, regardless of type and regardless of form. This does not require the Contractor to create or maintain any record that the Contractor does not maintain in the ordinary course of business or pursuant to a provision of law.
 
-(e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1), in a subcontract for commercial products or commercial services. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause -
+(e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1), in a subcontract for commercial products or commercial services. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause—
 
 (i) 52.203-13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509).
 
@@ -254,9 +254,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-(xiv) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(xiv) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xv) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(xv) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
 (xvi) 52.222-54, Employment Eligibility Verification (MAY 2022) (E. O. 12989).
 
@@ -272,7 +272,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xxi) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
-(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xxii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801). Flow down required in accordance with paragraph (c) of 52.232-40.
+
+(xxiii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor may include in its subcontracts for commercial products and commercial services a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
@@ -280,23 +282,23 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (DEC 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (MAR 2023). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
-(d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
+(d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to—
 
 (i) Examine any of the Contractor's or any subcontractors' records that pertain to, and involve transactions relating to, this contract; and
 
 (ii) Interview any officer or employee regarding such transactions.
 
-(e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), and (c), of this clause, the Contractor is not required to flow down any FAR clause in a subcontract for commercial products or commercial services, other than -
+(e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), and (c), of this clause, the Contractor is not required to flow down any FAR clause in a subcontract for commercial products or commercial services, other than—
 
 (i) *Paragraph (d) of this clause.* This paragraph flows down to all subcontracts, except the authority of the Inspector General under paragraph (d)(1)(ii) does not flow down; and
 
-(ii) *Those clauses listed in this paragraph (e)(1).* Unless otherwise indicated below, the extent of the flow down shall be as required by the clause -
+(ii) *Those clauses listed in this paragraph (e)(1).* Unless otherwise indicated below, the extent of the flow down shall be as required by the clause—
 
 (A) 52.203-13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509).
 
-(B) 52.203 - 15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5).
+(B) 52.203—15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5).
 
 (C) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (NOV 2021) (Section 1634 of Pub. L. 115-91).
 
@@ -320,9 +322,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (*2*) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-(M) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(M) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(N) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(N) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
 (O) 52.222-54, Employment Eligibility Verification (MAY 2022) (Executive Order 12989).
 
@@ -338,6 +340,8 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (T) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
-(U) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(U) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801). Flow down required in accordance with paragraph (c) of 52.232-40.
+
+(V) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 [60 FR 48255, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

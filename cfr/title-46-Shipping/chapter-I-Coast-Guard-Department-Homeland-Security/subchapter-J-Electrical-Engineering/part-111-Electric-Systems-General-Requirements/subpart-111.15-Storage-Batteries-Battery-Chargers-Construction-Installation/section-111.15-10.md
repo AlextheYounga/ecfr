@@ -1,5 +1,7 @@
 ##### § 111.15-10 Ventilation. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) *General.* Each room, locker, and box for storage batteries must be arranged or ventilated to prevent accumulation of flammable gas.
 
 (b) *Power ventilation.* If power ventilation is required, the following must be met:

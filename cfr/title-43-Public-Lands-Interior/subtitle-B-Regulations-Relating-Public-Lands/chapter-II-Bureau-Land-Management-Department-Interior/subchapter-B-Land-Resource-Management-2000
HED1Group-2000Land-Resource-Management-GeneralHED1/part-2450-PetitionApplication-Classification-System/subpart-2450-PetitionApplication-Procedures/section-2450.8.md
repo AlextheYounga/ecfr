@@ -1,0 +1,3 @@
+##### § 2450.8 Preference right of petitioner-applicant. #####
+
+Where public land is classified for entry under section 7 of the Taylor Grazing Act or under the Small Tract Act pursuant to a petition-application filed under this part, the petitioner-applicant is entitled to a preference right of entry, if qualified. If, however, it should be necessary thereafter for any reason to reject the application of the preference right claimant, the next petitioner-applicant in order of filing shall succeed to the preference right. If there is no other petitioner-applicant the land may be opened to application by all qualified individuals on an equal-opportunity basis after public notice or the classification may be revoked by the authorized officer.

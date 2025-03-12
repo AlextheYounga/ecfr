@@ -1,0 +1,3 @@
+##### § 4.812 Form. #####
+
+Documents filed pursuant to a proceeding herein shall show the docket description and title of the proceeding, the party or amicus submitting the document, the dates signed, and the title, if any, and address of the signatory. The original will be signed in ink by the party representing the party or amicus. Copies need not be signed, but the name of the person signing the original shall be reproduced.

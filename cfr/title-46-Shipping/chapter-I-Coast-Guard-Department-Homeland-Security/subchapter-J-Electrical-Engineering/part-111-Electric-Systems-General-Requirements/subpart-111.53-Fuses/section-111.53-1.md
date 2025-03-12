@@ -1,6 +1,8 @@
 ##### § 111.53-1 General. #####
 
-(a) Each fuse must -
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
+(a) Each fuse must—
 
 (1) Meet the general provisions of Article 240 of NFPA NEC 2002 or IEC 60092-202 (both incorporated by reference; see 46 CFR 110.10-1) as appropriate.
 

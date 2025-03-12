@@ -1,0 +1,3 @@
+##### § 2569.602 How will the BLM certify that the land is free of known contaminants? #####
+
+The BLM will review land for contamination by using current contaminated site database information in the Alaska Department of Environmental Conservation database, the U.S. Army Corps of Engineers Formerly Used Defense Sites database, the U.S. Air Force database, and the Federal Aviation Administration database, or any equivalent databases if any of these databases are no longer available. Any land found to have possible contamination based on these searches will not be available for selection.

@@ -1,7 +1,5 @@
 ##### § 4.201 Definitions. #####
 
-Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
-
 *Administrative law judge (ALJ)* means an administrative law judge with OHA appointed under the Administrative Procedure Act, 5 U.S.C. 3105.
 
 *Agency means:*
@@ -58,6 +56,8 @@ Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
 
 *LTRO* means the Land Titles and Records Office within BIA.
 
+*OHA* means Office of Hearings and Appeals, Department of the Interior.
+
 *Probate* means the legal process by which applicable tribal, Federal, or State law that affects the distribution of a decedent's estate is applied in order to:
 
 (1) Determine the heirs;
@@ -78,4 +78,4 @@ Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
 
 *Will* means a written testamentary document that was executed by the decedent and attested to by two disinterested adult witnesses, and that states who will receive the decedent's trust or restricted property.
 
-[73 FR 67287, Nov. 13, 2008]
+[73 FR 67287, Nov. 13, 2008, as amended at 88 FR 5793, Jan. 30, 2023]

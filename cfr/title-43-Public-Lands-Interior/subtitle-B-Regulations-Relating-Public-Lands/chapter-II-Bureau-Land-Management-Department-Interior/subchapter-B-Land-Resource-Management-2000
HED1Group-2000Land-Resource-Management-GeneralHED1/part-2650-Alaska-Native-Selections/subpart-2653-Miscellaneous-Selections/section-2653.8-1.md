@@ -1,0 +1,3 @@
+##### § 2653.8-1 Acreage to be conveyed. #####
+
+A Native may secure title to the surface estate of only a single tract not to exceed 160 acres under the provisions of this subpart, and shall be limited to the acreage actually occupied and used. An application for title under this subpart shall be accompanied by a certification by the applicant that he will not receive title to any other tract of land pursuant to sections 14 (c)(2), (h)(2), or 18 of the Act.

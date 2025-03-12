@@ -1,7 +1,5 @@
 ##### § 4.903 What definitions apply to this subpart? #####
 
-Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
-
 For the purposes of this subpart only:
 
 *Assessment* means any fee or charge levied or imposed by the Secretary or a delegated State other than:
@@ -54,6 +52,8 @@ For the purposes of this subpart only:
 
 (ii) Make a lease-related payment, refund, offset, or credit, including royalty, minimum royalty, rental, bonus, net profit share, proceeds of sale, or interest.
 
+*OHA* means Office of Hearings and Appeals, Department of the Interior.
+
 *Order* means any document or portion of a document issued by ONRR or a delegated State that contains mandatory or ordering language regarding any monetary or nonmonetary obligation under any Federal oil and gas lease or leases.
 
 (1) Order includes:
@@ -84,4 +84,4 @@ For the purposes of this subpart only:
 
 *Payor* means any person responsible for reporting and paying royalties for Federal oil and gas leases.
 
-[64 FR 26259, May 13, 1999, as amended at 79 FR 62051, 62052, Oct. 16, 2014]
+[64 FR 26259, May 13, 1999, as amended at 79 FR 62051, 62052, Oct. 16, 2014; 88 FR 5794, Jan. 30, 2023]

@@ -1,0 +1,11 @@
+##### § 2523.1 Collection of purchase money and fees; issuance of final certificate. #####
+
+(a) At the time of making final proof the claimant must pay to the authorizing officer the sum of $1 per acre for each acre of land upon which proof is made. This, together with the 25 cents per acre paid at the time of making the original entry, will amount to $1.25 per acre, which is the price to be paid for all lands entered under the desert land law.
+
+(b) If the entryman is dead and proof is made by anyone for the heirs, no will being suggested in the record, the final certificate should issue to the heirs generally, without naming them; if by anyone for the heirs or devisees, final certificate should issue in like manner to the heirs or devisees.
+
+(c) When final proof is made on an entry made prior to the Act of March 28, 1908 (35 Stat. 52; 43 U.S.C. 324, 326, 333), for unsurveyed land, if the land is still unsurveyed and such proof is satisfactory, the authorizing officer will approve same without collecting the final payment of $1 an acre and without issuing final certificate. Fees for reducing the final-proof testimony to writing should be collected and receipt issued therefor if the proof is taken before the authorizing officer. As soon as the plat or plats of any township or townships previously unsurveyed are filed in the proper office the authorizing office will examine his records for the purpose of determining, if possible, whether or not, prior to the passage of the Act of March 28, 1908, any desert-land entry of unsurveyed land was allowed in the locality covered by the said plats; and if any such entries are found intact, he will call upon the claimants thereof to file a statement of adjustment, corroborated by two witnesses, giving the correct description, in accordance with the survey of the lands embraced in their respective entries.
+
+(d) If the final proof has been made upon any desert-land entry so adjusted and the records show that such proof has been found satisfactory and no conflicts or other objections are apparent, the manager will allow claimant 60 days within which to make final payment for the land.
+
+[35 FR 9588, June 13, 1970]

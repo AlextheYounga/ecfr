@@ -1,5 +1,7 @@
 ##### § 111.10-9 Ship's service supply transformers; two required. #####
 
+Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
+
 If transformers are used to supply the ship's service distribution system required by this subpart for ships and mobile offshore drilling units, there must be at least two installed, independent power transformers. With the largest transformer out of service, the capacity of the remaining units must be sufficient to supply the ship service loads.
 
 Note to § 111.10-9:

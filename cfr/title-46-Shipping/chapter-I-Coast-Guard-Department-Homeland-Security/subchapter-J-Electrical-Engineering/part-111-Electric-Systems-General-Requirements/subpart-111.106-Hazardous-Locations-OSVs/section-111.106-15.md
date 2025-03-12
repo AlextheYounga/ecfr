@@ -1,10 +1,12 @@
 ##### § 111.106-15 Ventilation of hazardous locations. #####
 
+Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
+
 (a) The ventilation design principles must comply with Clauses 8.1.3, 8.2, and 8.3 of IEC 60092-502 (incorporated by reference, see § 110.10-1).
 
 Note to § 111.106-15(a): The word “mechanical,” as used in this section, is interchangeable with the word “artificial” used in IEC 60092-502.
 
-(b) A ventilation system must -
+(b) A ventilation system must—
 
 (1) Be positioned so as not to recycle vapors from ventilation discharges;
 

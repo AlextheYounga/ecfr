@@ -1,7 +1,5 @@
 ##### 19.308 Protesting a firm's status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program. #####
 
-Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
-
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 127.102.
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the offeror's status as an economically disadvantaged women-owned small business (EDWOSB) concern or as a WOSB concern eligible under the WOSB Program. For all other acquisitions, an interested party (see 13 CFR 127.102) may protest the apparent successful offeror's EDWOSB or WOSB status.
@@ -12,15 +10,17 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (d) All protests shall be in writing and must state all specific grounds for the protest.
 
-(1) SBA will consider protests challenging the status of a concern if -
+(1) SBA will consider protests challenging the status of a concern if—
 
-(i) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more women who are United States citizens; or
+(i) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more women who are United States citizens;
 
-(ii) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more economically disadvantaged women who are United States citizens, when it is in connection with an EDWOSB contract.
+(ii) The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more economically disadvantaged women who are United States citizens, when it is in connection with an EDWOSB contract; or
+
+(iii) For WOSB or EDWOSB set-aside or sole-source service contracts or orders, the protest presents evidence that the prime contractor is unduly reliant on a small entity subcontractor that is not a similarly-situated entity as defined in 13 CFR 125.1, or a protest alleging that such subcontractor is performing the primary and vital requirements of a set-aside or sole-source WOSB or EDWOSB contract. For allegations that the prime contractor is unduly reliant on an other-than-small subcontractor, see size protests at 19.302, and 13 CFR 121.103(h)(2), which treats the pair as joint venturers for size determination purposes (the “ostensible subcontractor rule”).
 
 (2) Assertions that a protested concern is not an EDWOSB or WOSB concern eligible under the WOSB Program, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 127.603(a)).
 
-(e) *Protest by an interested party.* (1) An offeror shall submit its protest to the contracting officer -
+(e) *Protest by an interested party.* (1) An offeror shall submit its protest to the contracting officer—
 
 (i) To be received by the close of business by the fifth business day after bid opening (in sealed bid acquisitions); or
 
@@ -54,7 +54,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (g) SBA will notify the protester and the contracting officer of the date SBA received the protest.
 
-(h) *Before SBA decision.* (1) After receiving a protest involving the apparent successful offeror's status as an EDWOSB or WOSB concern eligible under the WOSB Program, the contracting officer shall either -
+(h) *Before SBA decision.* (1) After receiving a protest involving the apparent successful offeror's status as an EDWOSB or WOSB concern eligible under the WOSB Program, the contracting officer shall either—
 
 (i) Withhold award of the contract until SBA determines the status of the protested concern; or
 
@@ -70,7 +70,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (2) If the contracting officer has withheld contract award, SBA has sustained the protest and determined that the concern is not eligible under the WOSB Program, and no OHA appeal has been filed, then the contracting officer shall not award the contract to the protested concern.
 
-(3) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, awarded the contract, and SBA's ruling is received after award, and no OHA appeal has been filed, then -
+(3) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, awarded the contract, and SBA's ruling is received after award, and no OHA appeal has been filed, then—
 
 (i) The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government. However, the contracting officer shall not exercise any options or award further task or delivery orders;
 
@@ -80,7 +80,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (4) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, contract award has occurred, SBA has sustained the protest and determined that the concern is not eligible under the WOSB Program, and a timely OHA appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an OHA decision is rendered.
 
-(5) If OHA affirms the SBA Director for Government Contracting's determination finding the protested concern is ineligible, then -
+(5) If OHA affirms the SBA Director for Government Contracting's determination finding the protested concern is ineligible, then—
 
 (i) The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government. However, the contracting officer shall not exercise any options or award further task or delivery orders;
 
@@ -96,7 +96,7 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (k) *The appeal must be in writing.* The appeal must identify the protest determination being appealed and must set forth a full and specific statement as to why the EDWOSB concern or WOSB concern eligible under the WOSB program protest determination is alleged to be based on a clear error of fact or law, together with an argument supporting such allegation.
 
-(l) The party appealing the decision must provide notice of the appeal to -
+(l) The party appealing the decision must provide notice of the appeal to—
 
 (1) The contracting officer;
 
@@ -108,4 +108,4 @@ Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program. The OHA decision is the final agency decision and is binding on the parties.
 
-[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022]
+[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023]

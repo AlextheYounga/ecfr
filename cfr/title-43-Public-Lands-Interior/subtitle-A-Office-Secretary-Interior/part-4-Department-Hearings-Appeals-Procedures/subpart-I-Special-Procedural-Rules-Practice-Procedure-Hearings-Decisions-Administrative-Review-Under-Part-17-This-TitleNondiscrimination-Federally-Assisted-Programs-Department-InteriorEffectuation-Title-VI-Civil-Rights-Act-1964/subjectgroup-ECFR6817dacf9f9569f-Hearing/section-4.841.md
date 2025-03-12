@@ -1,0 +1,3 @@
+##### § 4.841 Official transcript. #####
+
+An official reporter will be designated for all hearings. The official transcripts of testimony and argument taken, together with any exhibits, briefs, or memoranda of law filed therewith, shall be filed with the administrative law judge. Transcripts may be obtained by the parties and the public from the official reporter at rates not to exceed the applicable rates fixed by the contract with the reporter. Upon notice to all parties, the administrative law judge may authorize such corrections to the transcript as are necessary to accurately reflect the testimony.

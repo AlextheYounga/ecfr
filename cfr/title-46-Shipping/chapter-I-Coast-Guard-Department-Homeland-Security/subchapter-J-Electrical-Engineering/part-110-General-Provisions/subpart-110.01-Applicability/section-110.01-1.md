@@ -1,5 +1,7 @@
 ##### § 110.01-1 General. #####
 
+Link to an amendment published at 88 FR 16354, Mar. 16, 2023.
+
 (a) This subchapter applies to all electrical installations on vessels subject to subchapters D, H, I, I-A, K, L, O, Q, R, T, U, and W of this chapter whenever those subchapters require an electrical installation to be in accordance with this subchapter.
 
 (b) This subchapter applies only to electrical installations contracted for after September 30, 1996.

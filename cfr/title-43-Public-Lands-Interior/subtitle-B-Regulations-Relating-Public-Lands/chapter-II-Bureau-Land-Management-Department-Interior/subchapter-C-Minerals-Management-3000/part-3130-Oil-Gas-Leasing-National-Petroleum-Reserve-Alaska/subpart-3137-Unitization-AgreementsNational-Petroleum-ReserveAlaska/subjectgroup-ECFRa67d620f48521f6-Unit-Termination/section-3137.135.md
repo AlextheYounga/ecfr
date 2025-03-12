@@ -1,0 +1,3 @@
+##### § 3137.135 What are the unit operator's obligations after unit termination? #####
+
+Within three months after unit termination, the unit operator must submit to BLM for approval a plan and schedule for mitigating the impacts resulting from unit operations. The plan must describe in detail planned plugging and abandonment and surface restoration operations. The unit operator must then comply with the BLM-approved plan and schedule.

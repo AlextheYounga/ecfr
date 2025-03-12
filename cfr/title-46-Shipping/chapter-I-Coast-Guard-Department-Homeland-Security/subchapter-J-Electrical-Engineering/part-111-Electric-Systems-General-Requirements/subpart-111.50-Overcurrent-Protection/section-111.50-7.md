@@ -1,5 +1,7 @@
 ##### § 111.50-7 Enclosures. #####
 
+Link to an amendment published at 88 FR 16362, Mar. 16, 2023.
+
 (a) Each enclosure of an overcurrent protective device must meet Sections 240-30 and 240-33 of NFPA NEC 2002 (incorporated by reference; see 46 CFR 110.10-1).
 
 (b) No enclosure may be exposed to the weather unless accepted by the Commandant.

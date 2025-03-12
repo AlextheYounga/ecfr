@@ -1,5 +1,7 @@
 ##### § 112.15-1 Temporary emergency loads. #####
 
+Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
+
 On vessels required by § 112.05-5(a) to have a temporary emergency power source, the following emergency lighting and power loads must be arranged so that they can be energized from the temporary emergency power source:
 
 (a) Navigation lights.

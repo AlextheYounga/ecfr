@@ -1,5 +1,7 @@
 ##### § 111.50-5 Location of overcurrent protective devices. #####
 
+Link to an amendment published at 88 FR 16362, Mar. 16, 2023.
+
 (a) *Location in circuit.* Overcurrent devices must be at the point where the conductor to be protected receives its supply, except as follows:
 
 (1) The generator overcurrent protective device must be on the ship's service generator switchboard. (See § 111.12-11(g) for additional requirements.)

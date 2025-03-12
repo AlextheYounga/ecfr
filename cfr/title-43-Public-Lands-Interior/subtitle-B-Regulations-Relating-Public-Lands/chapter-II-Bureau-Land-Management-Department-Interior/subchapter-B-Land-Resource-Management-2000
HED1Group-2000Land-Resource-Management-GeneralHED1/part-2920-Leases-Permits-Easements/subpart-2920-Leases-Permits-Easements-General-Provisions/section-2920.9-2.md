@@ -1,0 +1,3 @@
+##### § 2920.9-2 Operation and maintenance. #####
+
+The authorized officer shall inspect and monitor the operation and maintenance of the land use authorization area, its facilities and improvements to assure compliance with the plan of management and protection of the resources, the environment and the public health, safety and welfare, and the holder of the land use authorization shall take corrective action as required by the authorized officer.

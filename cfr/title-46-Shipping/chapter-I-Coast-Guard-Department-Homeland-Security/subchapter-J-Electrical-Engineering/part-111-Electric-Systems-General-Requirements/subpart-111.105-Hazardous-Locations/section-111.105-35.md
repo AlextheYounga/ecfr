@@ -1,5 +1,7 @@
 ##### § 111.105-35 Vessels carrying coal. #####
 
+Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
+
 (a) The following are Class II, Division 1, (Zone 10 or Z) locations on a vessel that carries coal:
 
 (1) The interior of each coal bin and hold.

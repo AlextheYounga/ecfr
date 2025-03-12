@@ -1,0 +1,3 @@
+##### § 3280.3 What is BLM's general policy regarding the formation of unit agreements? #####
+
+For the purpose of more properly conserving the natural resources of any geothermal reservoir, field, or like area, or any part thereof, lessees and their representatives may unite with each other, or jointly or separately with others, in collectively adopting and operating under a unit agreement for the reservoir, field, or like area, or any part thereof, including direct use resources, if BLM determines and certifies this to be necessary or advisable in the public interest.

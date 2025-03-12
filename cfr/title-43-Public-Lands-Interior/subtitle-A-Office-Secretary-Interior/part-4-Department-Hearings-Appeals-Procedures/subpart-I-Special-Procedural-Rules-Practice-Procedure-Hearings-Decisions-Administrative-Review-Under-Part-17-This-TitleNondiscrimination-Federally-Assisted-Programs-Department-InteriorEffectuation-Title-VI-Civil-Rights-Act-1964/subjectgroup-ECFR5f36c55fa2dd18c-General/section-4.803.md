@@ -1,0 +1,3 @@
+##### § 4.803 Computation of time. #####
+
+Except as otherwise provided by law, in computing any period of time under these rules or in any order issued hereunder, the time begins with the day following the act or event, and includes the last day of the period, unless it is a Saturday, Sunday, or Federal legal holiday, or other nonbusiness day, in which event it includes the next following day which is not a Saturday, Sunday, Federal legal holiday, or other nonbusiness day. When the period of time prescribed or allowed is 7 days or less, intermediate Saturdays, Sundays, Federal legal holidays and other nonbusiness days shall be excluded in the computation.

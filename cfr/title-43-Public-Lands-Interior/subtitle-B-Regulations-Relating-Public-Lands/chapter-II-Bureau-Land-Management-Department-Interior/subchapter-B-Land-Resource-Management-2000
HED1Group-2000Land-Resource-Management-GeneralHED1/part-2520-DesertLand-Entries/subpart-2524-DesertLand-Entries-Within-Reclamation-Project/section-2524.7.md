@@ -1,0 +1,3 @@
+##### § 2524.7 Disposal of lands in excess of 160 acres. #####
+
+Desert-land entrymen within exterior boundaries of a reclamation project who expect to secure water from the Government must relinquish or assign all of the lands embraced in their entries in excess of one farm unit in not less than 2 years after notice through the land office, must reclaim one-half of the irrigable area covered by their water right in the same manner as private owners of land irrigated under a reclamation project, and also comply with the regulations of the Department applicable to the remainder of the irrigable land of the project.

@@ -1,0 +1,3 @@
+##### § 2886.11 Who regulates activities within my right-of-way or TUP area? #####
+
+After BLM has issued the grant or TUP, the head of the agency having administrative jurisdiction over the Federal lands involved will regulate your grant or TUP activities in conformance with the Act, appropriate regulations, and the terms and conditions of the grant or TUP. BLM and the other agency head may reach another agreement under 30 U.S.C. 185(c).

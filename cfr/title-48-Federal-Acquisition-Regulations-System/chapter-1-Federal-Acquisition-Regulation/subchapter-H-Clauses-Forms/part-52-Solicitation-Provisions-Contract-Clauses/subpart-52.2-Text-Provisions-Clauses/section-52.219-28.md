@@ -1,16 +1,14 @@
 ##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
 
-Link to an amendment published at 88 FR 9739, Feb. 14, 2023.
-
 As prescribed in 19.309(c)(1), insert the following clause:
 
-Post-Award Small Business Program Rerepresentation (OCT 2022)
+Post-Award Small Business Program Rerepresentation (MAR 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Long-term contract* means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.
 
-*Small business concern* -
+*Small business concern*—
 
 (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (d) of this clause.
 
@@ -22,7 +20,7 @@ Post-Award Small Business Program Rerepresentation (OCT 2022)
 
 (2) Within 30 days after a merger or acquisition that does not require a novation or within 30 days after modification of the contract to include this clause, if the merger or acquisition occurred prior to inclusion of this clause in the contract.
 
-(3) For long-term contracts -
+(3) For long-term contracts—
 
 (i) Within 60 to 120 days prior to the end of the fifth year of the contract; and
 
@@ -32,7 +30,7 @@ Post-Award Small Business Program Rerepresentation (OCT 2022)
 
 (d) The Contractor shall rerepresent its size status in accordance with the size standard in effect at the time of this rerepresentation that corresponds to the North American Industry Classification System (NAICS) code(s) assigned to this contract. The small business size standard corresponding to this NAICS code(s) can be found at *https://www.sba.gov/document/support--table-size-standards*.
 
-(e) The small business size standard for a Contractor providing an end item that it does not manufacture, process, or produce itself, for a contract other than a construction or service contract, is 500 employees if the acquisition -
+(e) The small business size standard for a Contractor providing an end item that it does not manufacture, process, or produce itself, for a contract other than a construction or service contract, is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
 (1) Was set aside for small business and has a value above the simplified acquisition threshold;
 
@@ -60,7 +58,7 @@ Post-Award Small Business Program Rerepresentation (OCT 2022)
 
 (7) [*Complete only if the Contractor represented itself as a veteran-owned small business concern in paragraph (h)(6) of this clause*.] The Contractor represents that it □ is, □ is not a service-disabled veteran-owned small business concern.
 
-(8) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause*.] The Contractor represents that -
+(8) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause*.] The Contractor represents that—
 
 (i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, on the List of Qualified HUBZone Small Business Concerns maintained by the Small Business Administration, and no material changes in ownership and control, principal office, or HUBZone employee percentage have occurred since it was certified in accordance with 13 CFR part 126; and
 
@@ -82,4 +80,4 @@ Post-Award Small Business Program Rerepresentation (OCT 2022)
 
 [Contracting Officer to insert NAICS codes.]
 
-[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022]
+[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022; 88 FR 9739, Feb. 14, 2023]

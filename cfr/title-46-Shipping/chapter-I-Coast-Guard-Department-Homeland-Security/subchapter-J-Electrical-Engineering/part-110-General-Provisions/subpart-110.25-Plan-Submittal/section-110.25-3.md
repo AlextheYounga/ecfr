@@ -1,5 +1,7 @@
 ##### § 110.25-3 Procedure for submitting plans. #####
 
+Link to an amendment published at 88 FR 16359, Mar. 16, 2023.
+
 (a) The plans required by § 110.25-1 must be submitted to one of the following Coast Guard offices:
 
 (1) By visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*

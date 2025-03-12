@@ -1,5 +1,7 @@
 ##### § 111.12-7 Voltage regulation and parallel operation. #####
 
+Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
+
 Voltage regulation and parallel operation must meet:
 
 (a) For AC systems: sections 4-2-3/7.5.2, 4-2-4/7.5.2, 4-8-3/3.13.2, and 4-8-3/3.13.3 of the ABS Steel Vessel Rules (incorporated by reference; see 46 CFR 110.10-1);

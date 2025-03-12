@@ -1,0 +1,3 @@
+##### § 2611.3 Rights-of-way over other public lands. #####
+
+When the canals, ditches, pipelines, reservoirs or other facilities required by the plan of development will be located on public lands not applied for by the State under the Carey Act, an application for right-of-way over such lands under Title V of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761 *et seq.*), shall be filed separately by the proposed constructor. Rights-of-way shall be approved simultaneously with the approval of the plan, but shall be conditioned on approval of the contract.

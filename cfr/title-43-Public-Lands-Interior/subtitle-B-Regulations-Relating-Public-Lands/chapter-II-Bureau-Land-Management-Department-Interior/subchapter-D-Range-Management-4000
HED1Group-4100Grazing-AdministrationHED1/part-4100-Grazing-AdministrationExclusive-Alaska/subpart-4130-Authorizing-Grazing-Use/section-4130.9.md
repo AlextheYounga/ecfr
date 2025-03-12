@@ -1,0 +1,5 @@
+##### § 4130.9 Pledge of permits or leases as security for loans. #####
+
+Grazing permits or leases that have been pledged as security for loans from lending agencies shall be renewed by the authorized officer under the provisions of these regulations for a period of not to exceed 10 years if the loan is for the purpose of furthering the permittee's or lessee's livestock operation, *Provided,* That the permittee or lessee has complied with the rules and regulations of this part and that such renewal will be in accordance with other applicable laws and regulations. While grazing permits or leases may be pledged as security for loans from lending agencies, this does not exempt these permits or leases from the provisions of these regulations.
+
+[43 FR 29067, July 5, 1978. Redesignated at 49 FR 6454, Feb. 21, 1984. Further redesignated at 60 FR 9965, Feb. 22, 1995]

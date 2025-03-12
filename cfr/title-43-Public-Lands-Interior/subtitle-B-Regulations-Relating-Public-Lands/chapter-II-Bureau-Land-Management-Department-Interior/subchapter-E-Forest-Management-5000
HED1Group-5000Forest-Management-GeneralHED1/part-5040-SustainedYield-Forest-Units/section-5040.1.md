@@ -1,0 +1,3 @@
+##### § 5040.1 Under what authority does BLM establish sustained-yield forest units? #####
+
+BLM is authorized, under the O. and C. Lands Act (43 U.S.C. 1181a *et seq.*) and the Federal Land Policy and Management Act, to divide the lands it manages in western Oregon into sustained-yield forest units. These lands are hereafter referred to as “the O. and C. lands.” BLM establishes units that contain enough forest land to provide, insofar as practicable, a permanent source of raw materials to support local communities and industries, giving due consideration to established forest products operations.

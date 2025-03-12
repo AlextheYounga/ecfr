@@ -1,6 +1,8 @@
 ##### § 111.105-31 Flammable or combustible cargo with a flashpoint below 60 °C (140 °F), carriers of liquid-sulphur or inorganic acid. #####
 
-(a) *Applicability.* Each vessel that carries combustible or flammable cargo with a closed-cup flashpoint lower than 60 degrees C (140 degrees F) or liquid sulphur cargo, or inorganic acid cargo must meet the requirements of this section, except -
+Link to an amendment published at 88 FR 16366, Mar. 16, 2023.
+
+(a) *Applicability.* Each vessel that carries combustible or flammable cargo with a closed-cup flashpoint lower than 60 degrees C (140 degrees F) or liquid sulphur cargo, or inorganic acid cargo must meet the requirements of this section, except—
 
 (1) A vessel carrying bulk liquefied flammable gases as a cargo, cargo residue, or vapor which must meet the requirements of § 111.105-32; and
 
@@ -68,7 +70,7 @@
 
 (k) *Cargo piping in a space.* A space that has cargo piping must not have any electrical equipment except explosionproof lighting fixtures and through runs of marine shipboard cable.
 
-(l) *Weather locations.* The following locations in the weather are Class I, Division 1 (Zone 1) locations (except the open deck area on an inorganic acid carrier which is considered a non-hazardous location) and may have only approved intrinsically safe, explosionproof, or purged and pressurized electrical equipment, and through runs of marine shipboard cable if the location is -
+(l) *Weather locations.* The following locations in the weather are Class I, Division 1 (Zone 1) locations (except the open deck area on an inorganic acid carrier which is considered a non-hazardous location) and may have only approved intrinsically safe, explosionproof, or purged and pressurized electrical equipment, and through runs of marine shipboard cable if the location is—
 
 (1) Within 10 feet (3 m) of:
 

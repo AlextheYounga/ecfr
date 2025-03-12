@@ -1,12 +1,10 @@
 ##### § 4.1203 Application for temporary relief from alleged discriminatory acts. #####
 
-Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
-
 (a) On or after 10 days from the filing of an application for review under this part, any party may file an application for temporary relief from alleged discriminatory acts.
 
-(b) The application shall be filed in the Hearings Division, OHA, Arlington, Va.
+(b) The application shall be filed in the Hearings Division, OHA.
 
-(c) The application shall include -
+(c) The application shall include—
 
 (1) A detailed written statement setting forth the reasons why relief should be granted;
 
@@ -23,3 +21,5 @@ Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
 (f) The administrative law judge shall expeditiously issue an order or decision granting or denying such relief.
 
 (g) If all parties consent, before or after the commencement of any hearing on the application for temporary relief, the administrative law judge may order the hearing on the application for review of alleged discriminatory - acts to be advanced and consolidated with the hearing on the application for temporary relief.
+
+[36 FR 7186, Apr. 15, 1971, as amended at 88 FR 5795, Jan. 30, 2023]

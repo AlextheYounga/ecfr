@@ -1,5 +1,7 @@
 ##### § 111.105-39 Additional requirements for vessels carrying vehicles with fuel in their tanks. #####
 
+Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
+
 Each vessel that carries a vehicle with fuel in its tank must meet the requirements of ABS Steel Vessel Rules (incorporated by reference; see 46 CFR 110.10-1), section 5-10-4/3, except as follows:
 
 (a) If the ventilation requirements of ABS Steel Vessel Rules section 5-10-4/3 are not met, all installed electrical equipment must be suitable for a Class I, Division 1; Zone 0; or Zone 1 hazardous location.

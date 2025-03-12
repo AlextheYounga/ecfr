@@ -1,5 +1,7 @@
 ##### § 111.87-3 General requirements. #####
 
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
 (a) Each electric heater must meet applicable UL 484 or UL 1042 construction standards (both incorporated by reference; see 46 CFR 110.10-1) or equivalent standards under § 110.20-1 of this chapter
 
 (b) Each heater element must be an enclosed type. The heater element case or jacket must be of a corrosion-resistant material.

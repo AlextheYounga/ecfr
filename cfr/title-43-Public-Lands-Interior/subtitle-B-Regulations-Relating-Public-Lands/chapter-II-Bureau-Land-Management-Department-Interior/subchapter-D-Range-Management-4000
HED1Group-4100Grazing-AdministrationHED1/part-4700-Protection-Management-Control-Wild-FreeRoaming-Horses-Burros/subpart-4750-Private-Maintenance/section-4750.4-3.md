@@ -1,0 +1,3 @@
+##### § 4750.4-3 Request to terminate Private Maintenance and Care Agreement. #####
+
+An adopter may request to terminate his/her responsibility for an adopted animal by submitting a written relinquishment of the Private Maintenance and Care Agreement for that animal. The authorized officer shall arrange to transfer the animal to another qualified applicant or take possession of the animal at a location specified by the authorized officer within 30 days of receipt of the written request for relinquishment.

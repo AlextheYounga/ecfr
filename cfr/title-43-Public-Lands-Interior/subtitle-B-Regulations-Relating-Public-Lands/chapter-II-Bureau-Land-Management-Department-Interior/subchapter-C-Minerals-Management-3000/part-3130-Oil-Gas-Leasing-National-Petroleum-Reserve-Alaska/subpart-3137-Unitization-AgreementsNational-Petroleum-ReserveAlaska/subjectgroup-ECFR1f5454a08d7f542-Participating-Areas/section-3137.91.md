@@ -1,0 +1,3 @@
+##### § 3137.91 When will BLM allow a well previously determined to be a non-unit well to be used in establishing or modifying a PA? #####
+
+If you, as the unit operator, complete sufficient work so that a well BLM previously determined to be a non-unit well now meets the productivity criteria, you must demonstrate this to BLM within 60 calendar days after you determine that the well meets the productivity criteria. You must then modify an existing participating area or establish a new participating area (see § 3137.84 of this subpart).

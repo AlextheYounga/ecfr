@@ -1,8 +1,10 @@
 ##### § 111.60-7 Demand loads. #####
 
+Link to an amendment published at 88 FR 16364, Mar. 16, 2023.
+
 Generator, feeder, and bus-tie cables must be selected on the basis of a computed load of not less than the demand load given in Table 111.60-7.
 
-Table 111.60-7 - Demand Loads
+Table 111.60-7—Demand Loads
 
 |                              Type of circuit                              |                                                                                                                                                   Demand load                                                                                                                                                    |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

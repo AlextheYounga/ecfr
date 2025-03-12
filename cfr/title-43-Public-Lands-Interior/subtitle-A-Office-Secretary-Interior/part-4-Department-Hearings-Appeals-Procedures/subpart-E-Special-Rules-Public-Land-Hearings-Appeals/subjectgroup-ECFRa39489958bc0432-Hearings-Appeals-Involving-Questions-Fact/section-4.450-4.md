@@ -1,7 +1,5 @@
 ##### § 4.450-4 Complaints. #####
 
-Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
-
 (a) *Contents of complaint.* The complaint shall contain the following information, under oath:
 
 (1) The name and address of each party interested;
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
 
 (7) A request that the contestant be allowed to prove his allegations and that the adverse interest be invalidated;
 
-(8) The office in which the complaint is filed and the address to which papers shall be sent for service on the contestant; and
+(8) The office in which the complaint is filed and the address to which documents shall be sent for service on the contestant; and
 
 (9) A notice that unless the contestee files an answer to the complaint in such office within 30 days after service of the notice, the allegations of the complaint will be taken as confessed.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
 (d) *Filing fee.* Each complaint must be accompanied by a filing fee of $10 and a deposit of $20 toward reporter's fees. Any complaint which is not accompanied by the required fee and deposit will not be accepted for filing.
 
 (e) *Waiver of issues.* Any issue not raised by a private contestant in accordance with the provisions of paragraph (b) of this section, which was known to him, or could have been known to him by the exercise of reasonable diligence, shall be deemed to have been waived by him, and he shall thereafter be forever barred from raising such issue.
+
+[36 FR 7186, Apr. 15, 1971, as amended at 88 FR 5794, Jan. 30, 2023]

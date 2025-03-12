@@ -1,5 +1,7 @@
 ##### § 111.30-29 Emergency switchboards. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) Each emergency generator must have an emergency switchboard.
 
 (b) There must be a test switch at the emergency switchboard to simulate a failure of the normal power source and cause the emergency loads to be supplied from the emergency power source.

@@ -1,0 +1,3 @@
+##### § 3137.88 What happens when a well outside a participating area does not meet the productivity criteria? #####
+
+If a well outside any of the established participating area(s) does not meet the productivity criteria, all operations on that well are non-unit operations and we will not revise the participating area. You must notify BLM within 60 calendar days after you determine a well does not meet the productivity criteria. You must conduct non-unit operations under the terms of the underlying lease or other federally-approved cooperative oil and gas agreements.

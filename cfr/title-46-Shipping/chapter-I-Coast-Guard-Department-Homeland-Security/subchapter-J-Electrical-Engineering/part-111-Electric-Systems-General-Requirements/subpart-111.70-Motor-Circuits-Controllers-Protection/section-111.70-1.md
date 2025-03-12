@@ -1,5 +1,7 @@
 ##### § 111.70-1 General. #####
 
+Link to an amendment published at 88 FR 16364, Mar. 16, 2023.
+
 (a) Each motor circuit, controller, and protection must meet the requirements of ABS Steel Vessel Rules, sections 4-8-2/9.17, 4-8-3/5.7.3, 4-8-4/9.5, and 4-8-3/5; ABS MODU Rules, Part 4, Chapter 3, sections 4/7.11 and 4/7.17; or IEC 60092-301 (all three standards incorporated by reference; see 46 CFR 110.10-1), as appropriate, except for the following circuits:
 
 (1) Each steering gear motor circuit and protection must meet part 58, subpart 58.25, of this chapter.

@@ -1,5 +1,7 @@
 ##### § 111.75-17 Navigation lights. #####
 
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
 Each navigation light system must meet the following:
 
 (a) *Feeders.* On vessels required to have a final emergency power source by § 112.05-5(a) of this chapter, each navigation light panel must be supplied by a feeder from the emergency switchboard (see § 112.43-13). The feeder must be protected by overcurrent devices rated or set at a value of at least twice that of the navigation light panel main fuses.

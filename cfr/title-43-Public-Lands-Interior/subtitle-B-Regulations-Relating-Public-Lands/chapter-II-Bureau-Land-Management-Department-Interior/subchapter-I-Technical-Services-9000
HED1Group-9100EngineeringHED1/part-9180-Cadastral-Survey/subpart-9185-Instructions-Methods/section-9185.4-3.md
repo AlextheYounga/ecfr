@@ -1,0 +1,5 @@
+##### § 9185.4-3 Three-fourths of land owners. #####
+
+The owners of three-fourths of the privately owned lands within the township are required to join in the application, and all petitioners in whom ownership is vested, either individuals, the State, or corporations such as railroad companies whose interests are involved, are further required to supply, following their respective signatures, an accurate description by legal subdivision, section, township, and range of the lands to which title is claimed. Moreover, it must appear that notice of the proposed resurvey has been served upon all owners who have for any reason failed to join in the petition, and, in addition, it is highly desirable that all record entrymen who, under the terms of the act are not required to become parties to the petition, be similarly informed to the end that their objections, if any, may be heard and subsequent protest based upon the plea of ignorance may, insofar as possible, be avoided.
+
+Group 9200—Protection

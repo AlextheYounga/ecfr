@@ -1,5 +1,7 @@
 ##### § 111.75-20 Lighting fixtures. #####
 
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
 (a) The construction of each lighting fixture for a non-hazardous location must meet UL 1598A or IEC 60092-306 (both incorporated by reference; see 46 CFR 110.10-1).
 
 (b) Each fixture globe, lens, or diffuser must have a high strength guard or be made of high strength material, except in an accommodation space, navigating bridge, gyro room, radio room, galley, or similar space where it is not subject to damage.

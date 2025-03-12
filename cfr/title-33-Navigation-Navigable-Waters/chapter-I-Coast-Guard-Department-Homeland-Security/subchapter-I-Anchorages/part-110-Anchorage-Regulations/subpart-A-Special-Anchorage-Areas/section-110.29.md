@@ -1,5 +1,7 @@
 ##### § 110.29 Boston Inner Harbor, Mass. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Vicinity of Pleasant Park Yacht Club, Winthrop.* Southerly of a line bearing 276° from a point on the west side of Pleasant Street, Winthrop, 360 feet from the southwest corner of its intersection with Main Street; westerly of a line bearing 186° from a point on the south side of Main Street 140 feet from the southwest corner of its intersection with Pleasant Street; northerly of a line bearing 256° from a point on the west side of Pleasant Street 550 feet from the southwest corner of its intersection with Main Street and easterly of a line bearing 182° from a point on the south side of Main Street 640 feet from the southwest corner of its intersection with Pleasant Street.
 
 (b) *Mystic River, east side of Tobin Bridge.* Beginning at a line running from a point on the Tobin Bridge at latitude 42°23′08.5″ N. 071°02′48.2″ W. to a point at latitude 42°23′06.4″ N. 071°02′43.7″ W.; thence northwest to a point at latitude 42°23′09.1″ N. 071°02′43.2″ W. along the shoreline to the western side of Tobin Bridge, thence to the point of origin.

@@ -1,5 +1,7 @@
 ##### § 112.43-13 Navigation light indicator panel supply. #####
 
+Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
+
 Each navigation light indicator panel must be supplied:
 
 (a) Directly from the emergency switchboard; or

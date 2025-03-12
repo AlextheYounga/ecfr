@@ -1,5 +1,7 @@
 ##### § 111.108-3 General requirements. #####
 
+Link to an amendment published at 88 FR 16368, Mar. 16, 2023.
+
 (a) Electrical installations in hazardous locations, where necessary for operational purposes, must be located in the least hazardous location practicable.
 
 (b) Electrical installations in hazardous locations must comply with paragraphs (b)(1), (2), or (3) of this section.

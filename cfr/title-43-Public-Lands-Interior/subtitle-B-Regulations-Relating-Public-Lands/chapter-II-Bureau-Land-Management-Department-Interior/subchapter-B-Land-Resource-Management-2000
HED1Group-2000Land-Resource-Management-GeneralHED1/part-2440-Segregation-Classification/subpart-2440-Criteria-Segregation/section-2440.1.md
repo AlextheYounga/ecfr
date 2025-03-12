@@ -1,0 +1,3 @@
+##### § 2440.1 Use of criteria. #####
+
+The following criteria will govern the determination of the extent to which classifications and proposed classifications will segregate the affected lands from settlement, location, sale, selection, entry, lease, or other forms of disposal under the public land laws, including the mining and mineral leasing laws. The segregative effect of each classification or proposed classification will be governed by applicable laws and regulations, and will be stated in the classification notice or decision.

@@ -1,6 +1,8 @@
 ##### § 111.33-5 Installation. #####
 
-Each semiconductor rectifier system must meet the installation requirements, as appropriate, of -
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
+Each semiconductor rectifier system must meet the installation requirements, as appropriate, of—
 
 (a) Sections 10.20.2, 10.20.7, and 10.20.8 of IEEE 45-2002 (incorporated by reference; see 46 CFR 110.10-1); or
 

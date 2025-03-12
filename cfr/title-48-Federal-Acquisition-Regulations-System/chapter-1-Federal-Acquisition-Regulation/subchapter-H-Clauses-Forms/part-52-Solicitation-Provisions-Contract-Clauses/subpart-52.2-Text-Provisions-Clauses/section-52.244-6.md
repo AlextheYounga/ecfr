@@ -1,12 +1,10 @@
 ##### 52.244-6 Subcontracts for Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 9734, Feb. 14, 2023.
-
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Products and Commercial Services (DEC 2022)
+Subcontracts for Commercial Products and Commercial Services (MAR 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Commercial product, commercial service,* and *commercially available off-the-shelf item* have the meanings contained in Federal Acquisition Regulation (FAR) 2.101.
 
@@ -56,7 +54,7 @@ Subcontracts for Commercial Products and Commercial Services (DEC 2022)
 
 (xviii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. Subtitle A, Part V, Subpart G Note).
 
-(xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (NOV 2021), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
+(xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 
 (xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
 

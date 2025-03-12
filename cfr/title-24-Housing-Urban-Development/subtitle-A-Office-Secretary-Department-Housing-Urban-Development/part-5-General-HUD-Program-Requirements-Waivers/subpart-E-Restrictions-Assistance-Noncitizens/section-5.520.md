@@ -1,10 +1,8 @@
 ##### § 5.520 Proration of assistance. #####
 
-Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
-
 (a) *Applicability.* This section applies to a mixed family other than a family receiving continued assistance, or other than a family who is eligible for and requests and receives temporary deferral of termination of assistance. An eligible mixed family who requests prorated assistance must be provided prorated assistance.
 
-(b) *Method of prorating assistance for Housing covered programs* - (1) *Proration under Rent Supplement Program.* If the household participates in the Rent Supplement Program, the rent supplement paid on the household's behalf shall be the rent supplement the household would otherwise be entitled to, multiplied by a fraction, the denominator of which is the number of people in the household and the numerator of which is the number of eligible persons in the household;
+(b) *Method of prorating assistance for Housing covered programs*—(1) *Proration under Rent Supplement Program.* If the household participates in the Rent Supplement Program, the rent supplement paid on the household's behalf shall be the rent supplement the household would otherwise be entitled to, multiplied by a fraction, the denominator of which is the number of people in the household and the numerator of which is the number of eligible persons in the household;
 
 (2) *Proration under Section 235 Program.* If the household participates in the Section 235 Program, the interest reduction payments paid on the household's behalf shall be the payments the household would otherwise be entitled to, multiplied by a fraction the denominator of which is the number of people in the household and the numerator of which is the number of eligible persons in the household;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
 
 (ii) An amount equal to the rent supplement, housing assistance payment or rental assistance payment the household would otherwise be entitled to multiplied by a fraction, the denominator of which is the number of people in the household and the numerator of which is the number of ineligible persons in the household.
 
-(c) *Method of prorating assistance for Section 8 covered programs* - (1) *Section 8 assistance other than assistance provided for a tenancy under the Section 8 Housing Choice Voucher Program.* For Section 8 assistance other than assistance for a tenancy under the voucher program, the PHA must prorate the family's assistance as follows:
+(c) *Method of prorating assistance for Section 8 covered programs*—(1) *Section 8 assistance other than assistance provided for a tenancy under the Section 8 Housing Choice Voucher Program.* For Section 8 assistance other than assistance for a tenancy under the voucher program, the PHA must prorate the family's assistance as follows:
 
 (i) *Step 1.* Determine gross rent for the unit. (Gross rent is contract rent plus any allowance for tenant paid utilities).
 
@@ -48,7 +46,7 @@ Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
 
 (iv) *No effect on rent to owner.* Proration of the housing assistance payment does not affect rent to owner. The family must pay the portion of rent to owner not covered by the prorated housing assistance payment.
 
-(d) *Method of prorating assistance for Public Housing covered programs.* (1) The PHA must prorate the family's assistance as follows:
+(d) *Method of prorating assistance for Public Housing covered programs.* (1) The PHA must prorate the family's assistance ;, except as provided in § 960.507 of this title, as follows:
 
 (i) *Step 1.* Determine the total tenant payment in accordance with section 5.628. (Annual income includes income of all family members, including any family member who has not established eligible immigration status.)
 
@@ -62,4 +60,4 @@ Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
 
 (e) *Method of prorating assistance when the mixed family's total tenant payment (TTP) is greater than the public housing flat rent.* When the mixed family's TTP is greater than the flat rent, the PHA must use the TTP as the mixed family TTP. The PHA subtracts from the mixed family TTP any established utility allowance, and the sum becomes the mixed family rent.
 
-[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 64 FR 13056, Mar. 16, 1999; 81 FR 12370, Mar. 8, 2016]
+[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 64 FR 13056, Mar. 16, 1999; 81 FR 12370, Mar. 8, 2016; 88 FR 9655, Feb. 14, 2023]

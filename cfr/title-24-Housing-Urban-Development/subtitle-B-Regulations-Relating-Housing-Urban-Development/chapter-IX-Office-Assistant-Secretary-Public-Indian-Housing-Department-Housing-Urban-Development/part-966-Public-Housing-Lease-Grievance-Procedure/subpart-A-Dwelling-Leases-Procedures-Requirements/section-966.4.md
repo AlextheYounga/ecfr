@@ -1,7 +1,5 @@
 ##### § 966.4 Lease requirements. #####
 
-Link to an amendment published at 88 FR 9675, Feb. 14, 2023.
-
 A lease shall be entered into between the PHA and each tenant of a dwelling unit which shall contain the provisions described hereinafter.
 
 (a) *Parties, dwelling unit and term.* (1) The lease shall state:
@@ -22,11 +20,13 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (ii) The PHA may not renew the lease if the family has violated the requirement for resident performance of community service or participation in an economic self-sufficiency program in accordance with part 960, subpart F of this chapter.
 
-(iii) At any time, the PHA may terminate the tenancy in accordance with § 966.4(l).
+(iii) The lease shall convert to a month-to-month term for families determined to be over-income whose tenancy will be terminated in accordance with § 960.507(d)(2) of this chapter as of the date of the notice provided under § 960.507(c)(3) of this chapter. PHAs must charge these families, who continue to be public housing program participants, the family's choice of income-based, flat rent, or prorated rent for mixed families during the period before termination.
+
+(iv) At any time, the PHA may terminate the tenancy in accordance with paragraph (l) of this section.
 
 (3) *Execution and modification.* The lease must be executed by the tenant and the PHA, except for automatic renewals of a lease. The lease may modified at any time by written agreement of the tenant and the PHA.
 
-(b) *Payments due under the lease* - (1) *Tenant rent.* (i) The tenant shall pay the amount of the monthly tenant rent determined by the PHA in accordance with HUD regulations and other requirements. The amount of the tenant rent is subject to change in accordance with HUD requirements.
+(b) *Payments due under the lease*—(1) *Tenant rent.* (i) The tenant shall pay the amount of the monthly tenant rent determined by the PHA in accordance with HUD regulations and other requirements. The amount of the tenant rent is subject to change in accordance with HUD requirements.
 
 (ii) The lease shall specify the initial amount of the tenant rent at the beginning of the initial lease term. The PHA shall give the tenant written notice stating any change in the amount of tenant rent, and when the change is effective.
 
@@ -165,7 +165,7 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (2) If the tenant is visually impaired, all notices must be in an accessible format.
 
-(l) *Termination of tenancy and eviction* - (1) *Procedures.* The lease shall state the procedures to be followed by the PHA and by the tenant to terminate the tenancy.
+(l) *Termination of tenancy and eviction*—(1) *Procedures.* The lease shall state the procedures to be followed by the PHA and by the tenant to terminate the tenancy.
 
 (2) *Grounds for termination of tenancy.* The PHA may terminate the tenancy only for:
 
@@ -175,9 +175,11 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (B) Failure to fulfill household obligations, as described in paragraph (f) of this section;
 
-(ii) Being over the income limit for the program, as provided in 24 CFR 960.261.
+(ii) Being over the income limit for the program, as provided in 24 CFR 960.507.
 
-(iii) Other good cause. Other good cause includes, but is not limited to, the following:
+(iii) No longer meeting the restrictions on net assets and property ownership as provided in § 5.618 of this title.
+
+(iv) Other good cause. Other good cause includes, but is not limited to, the following:
 
 (A) Criminal activity or alcohol abuse as provided in paragraph (1)(5) of this section;
 
@@ -185,7 +187,7 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (C) Discovery of material false statements or fraud by the tenant in connection with an application for assistance or with reexamination of income;
 
-(D) Failure of a family member to comply with service requirement provisions of part 960, subpart F, of this chapter - as grounds only for non-renewal of the lease and termination of tenancy at the end of the twelve-month lease term; and
+(D) Failure of a family member to comply with service requirement provisions of part 960, subpart F, of this chapter—as grounds only for non-renewal of the lease and termination of tenancy at the end of the twelve-month lease term; and
 
 (E) Failure to accept the PHA's offer of a lease revision to an existing lease: that is on a form adopted by the PHA in accordance with § 966.3; with written notice of the offer of the revision at least 60 calendar days before the lease revision is scheduled to take effect; and with the offer specifying a reasonable time limit within that period for acceptance by the family.
 
@@ -223,7 +225,7 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (ii) By bringing an administrative action if law of the jurisdiction permits eviction by administrative action, after a due process administrative hearing, and without a court determination of the rights and liabilities of the parties. In order to evict without bringing a court action, the PHA must afford the tenant the opportunity for a pre-eviction hearing in accordance with the PHA grievance procedure.
 
-(5) *PHA termination of tenancy for criminal activity or alcohol abuse* - (i) *Evicting drug criminals.* (A) *Methamphetamine conviction.* The PHA must immediately terminate the tenancy if the PHA determines that any member of the household has ever been convicted of drug-related criminal activity for manufacture or production of methamphetamine on the premises of federally assisted housing.
+(5) *PHA termination of tenancy for criminal activity or alcohol abuse*—(i) *Evicting drug criminals.* (A) *Methamphetamine conviction.* The PHA must immediately terminate the tenancy if the PHA determines that any member of the household has ever been convicted of drug-related criminal activity for manufacture or production of methamphetamine on the premises of federally assisted housing.
 
 (B) *Drug crime on or off the premises.* The lease must provide that drug-related criminal activity engaged in on or off the premises by any tenant, member of the tenant's household or guest, and any such activity engaged in on the premises by any other person under the tenant's control, is grounds for the PHA to terminate tenancy. In addition, the lease must provide that a PHA may evict a family when the PHA determines that a household member is illegally using a drug or when the PHA determines that a pattern of illegal use of a drug interferes with the health, safety, or right to peaceful enjoyment of the premises by other residents.
 
@@ -267,4 +269,4 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (p) *Signature clause.* The lease shall provide a signature clause attesting that the lease has been executed by the parties.
 
-[56 FR 51576, Oct. 11, 1991, as amended at 61 FR 13273, Mar. 26, 1996; 65 FR 16730, Mar. 29, 2000; 66 FR 28802, May 24, 2001; 66 FR 32875, June 18, 2001; 66 FR 33134, June 20, 2001; 69 FR 68791, Nov. 26, 2004; 75 FR 66262, Oct. 27, 2010; 81 FR 12374, Mar. 8, 2016; 81 FR 80815, Nov. 16, 2016; 81 FR 87444, Dec. 5, 2016]
+[56 FR 51576, Oct. 11, 1991, as amended at 61 FR 13273, Mar. 26, 1996; 65 FR 16730, Mar. 29, 2000; 66 FR 28802, May 24, 2001; 66 FR 32875, June 18, 2001; 66 FR 33134, June 20, 2001; 69 FR 68791, Nov. 26, 2004; 75 FR 66262, Oct. 27, 2010; 81 FR 12374, Mar. 8, 2016; 81 FR 80815, Nov. 16, 2016; 81 FR 87444, Dec. 5, 2016; 88 FR 9675, Feb. 14, 2023]

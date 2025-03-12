@@ -1,0 +1,5 @@
+##### § 2920.5-4 Competitive or non-competitive bids. #####
+
+(a) *Competitive.* Land use authorizations may be offered on a competitive basis if, in the judgment of the authorized officer, a competitive interest exists or if no equities, such as prior use of the lands, warrant non-competitive land use authorization. Land use authorizations shall be awarded on the basis of the public benefit to be provided, the financial and technical capability of the bidder to undertake the project and the bid offered. A bid at less than fair market value shall not be considered. Each bidder shall submit information required by the notice of realty action.
+
+(b) *Non-competitive.* Land use authorizations may be offered on a negotiated, non-competitive basis, when, in the judgement of the authorized officer equities, such as prior use of the lands, exist, no competitive interest exists or where competitive bidding would represent unfair competitive and economic disadvantage to the originator of the unique land use concept. The non-competitive bid shall not be for less than fair market value.

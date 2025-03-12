@@ -1,6 +1,8 @@
 ##### § 111.60-4 Minimum cable conductor size. #####
 
-Each cable conductor must be #18 AWG (0.82 mm2) or larger except -
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
+Each cable conductor must be #18 AWG (0.82 mm2) or larger except—
 
 (a) Each power and lighting cable conductor must be #14 AWG (2.10 mm2) or larger; and
 

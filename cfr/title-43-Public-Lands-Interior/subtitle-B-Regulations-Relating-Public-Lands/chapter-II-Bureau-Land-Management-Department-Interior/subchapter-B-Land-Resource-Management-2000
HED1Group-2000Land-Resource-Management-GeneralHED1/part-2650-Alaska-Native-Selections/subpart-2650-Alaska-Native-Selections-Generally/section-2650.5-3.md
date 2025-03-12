@@ -1,0 +1,3 @@
+##### § 2650.5-3 Regional surveys. #####
+
+Lands to be conveyed to a regional corporation, when selected in contiguous units, shall be grouped together for the purpose of survey and surveyed as one tract, with monuments being established on the exterior boundary at angle points and at intervals of approximately 2 miles on straight lines. If requested by the grantee, the Secretary may survey, insofar as practicable, the individual selections that comprise the total tract.

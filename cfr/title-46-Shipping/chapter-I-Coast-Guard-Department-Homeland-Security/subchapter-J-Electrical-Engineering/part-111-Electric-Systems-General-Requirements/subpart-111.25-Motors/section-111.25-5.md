@@ -1,5 +1,7 @@
 ##### § 111.25-5 Marking. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) Each motor must have a marking or nameplate that meets either Section 430.7 of NFPA NEC 2002 or clause 16 of IEC 60092-301 (both incorporated by reference; see 46 CFR 110.10-1).
 
 (b) The marking or nameplate for each motor that is in a corrosive location must be corrosion-resistant.

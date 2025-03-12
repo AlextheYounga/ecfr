@@ -1,5 +1,7 @@
 ##### § 110.5 Casco Bay, Maine. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Beals Cove, West side of Orrs Island, Harpswell.* The entire cove as defined by the shoreline and a line across the entrace bearing 215° and tangent to the shore on the north side.
 
 (a-1) *Merriconeag Sound, Harpswell.* The area comprises that portion of the Sound beginning at a point on the shoreline about 1,000 feet northeasterly from the southwesterly extremity of Orrs Island at latitude 43°45′09″, longitude 69°59′14″, thence extending 290° to a point at latitude 43°45′10″, longitude 69°59′20″, thence extending 20° to a point at latitude 43°45′34″, longitude 69°59′05″, thence extending 110° to a point on the shoreline at latitude 43°45′33″, longitude 69°58′58″, thence along the shoreline to the point of beginning.
@@ -28,7 +30,7 @@ Note:
 
 This area is reserved for yachts and other small recreational craft. Fore and aft moorings will be allowed in this area. Temporary floats or buoys for marking anchors or moorings in place will be allowed. Fixed mooring piles or stakes are prohibited. All moorings shall be so placed that no vessel when anchored shall at any time extend into the thoroughfare. All anchoring in the area shall be under the supervision of the local harbor master or such other authority as may be designated by the authorities of the Town of Freeport, Maine.
 
-(f) Yarmouth Harbor and adjacent waters - (1) Littlejohn Island/Doyle Point Cousins Island Special Anchorage. All of the waters enclosed by a line connecting the following points: Starting from the northernmost point of Littlejohn Island at latitude 43°45′51.6″ N, longitude 70°06′57.0″ W; thence to latitude 43°45′46.8″ N, longitude 70°06′53.4″ W; thence to latitude 43°45′25.8″ N, longitude 70°07′22.8″ W; thence to latitude 43°45′16.8″ N, longitude 70°07′40.8″ W; thence to latitude 43°44′57.0″ N, longitude 70°08′27.0″ W; thence to latitude 43°44′59.9″ N, longitude 70°08′30.0″ W. DATUM: NAD 83.
+(f) Yarmouth Harbor and adjacent waters—(1) Littlejohn Island/Doyle Point Cousins Island Special Anchorage. All of the waters enclosed by a line connecting the following points: Starting from the northernmost point of Littlejohn Island at latitude 43°45′51.6″ N, longitude 70°06′57.0″ W; thence to latitude 43°45′46.8″ N, longitude 70°06′53.4″ W; thence to latitude 43°45′25.8″ N, longitude 70°07′22.8″ W; thence to latitude 43°45′16.8″ N, longitude 70°07′40.8″ W; thence to latitude 43°44′57.0″ N, longitude 70°08′27.0″ W; thence to latitude 43°44′59.9″ N, longitude 70°08′30.0″ W. DATUM: NAD 83.
 
 (2) Madeleine and Sandy Point Special Anchorage. All of the waters enclosed by a line connecting the following points: Starting from a point northeast of Birch Point on Cousins Island at latitude 43°45′15.1″ N, longitude 70°09′16.8″ W; thence to latitude 43°45′21.0″ N, longitude 70°09′30.0″ W; thence to latitude 43°45′37.8″ N, longitude 70°09′10.8″ W; thence to latitude 43°45′57.0″ N, longitude 70°08′58.8″ W; thence to latitude 43°46′01.3″ N, longitude 70°08′45.0″ W. DATUM: NAD 83.
 

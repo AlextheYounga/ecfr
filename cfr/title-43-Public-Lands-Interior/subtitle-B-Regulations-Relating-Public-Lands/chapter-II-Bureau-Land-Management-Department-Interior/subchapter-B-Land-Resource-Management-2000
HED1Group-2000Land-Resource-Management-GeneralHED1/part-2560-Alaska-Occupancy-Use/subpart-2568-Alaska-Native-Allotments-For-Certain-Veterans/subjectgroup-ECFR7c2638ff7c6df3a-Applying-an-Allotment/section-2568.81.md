@@ -1,0 +1,3 @@
+##### § 2568.81 If BLM finds errors in my application, will BLM give me a chance to correct them? #####
+
+Yes. If you file your application during the 18-month filing period and BLM finds correctable errors, it will consider the application as having been filed on time once you correct them. BLM will send you a notice advising you of any correctable errors and give you at least 60 days to correct them. You must make corrections within the specified time or BLM will reject your application.

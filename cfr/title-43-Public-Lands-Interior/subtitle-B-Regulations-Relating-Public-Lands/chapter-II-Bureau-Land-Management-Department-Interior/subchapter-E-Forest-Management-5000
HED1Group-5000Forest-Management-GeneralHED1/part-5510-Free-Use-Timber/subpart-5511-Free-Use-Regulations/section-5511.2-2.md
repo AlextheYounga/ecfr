@@ -1,0 +1,3 @@
+##### § 5511.2-2 Free use of timber for Government purposes. #####
+
+Persons contracting with Government officials to furnish firewood or timber for United States Army posts or for other authorized Government purposes may procure it from the vacant and unreserved public lands in Alaska free of charge, provided the contracts do not include any charge for the value of the firewood or timber. Where it is desired to procure timber for such use, an application for permit in duplicate on a form approved by the Director must be filed, as in other cases, and a copy of the contract must be attached to the application.

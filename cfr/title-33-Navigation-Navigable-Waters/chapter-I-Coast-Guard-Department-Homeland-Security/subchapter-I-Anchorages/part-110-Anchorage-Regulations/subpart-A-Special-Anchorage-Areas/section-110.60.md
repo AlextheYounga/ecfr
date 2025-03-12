@@ -1,5 +1,7 @@
 ##### § 110.60 Captain of the Port, New York. #####
 
+Link to an amendment published at 88 FR 16188, Mar. 16, 2023.
+
 (a) *Western Long Island Sound.* (1) *Glen Island.* All waters surrounding Glen Island bound by the following points: 40°52′53.1″ N, 073°46′58.9″ W; thence to 40°52′46.6″ N, 073°47′02.7″ W; thence to 40°53′01.3″ N, 073°47′22.6″ W; thence to a line drawn from 40°53′24.4″ N, 073°46′56.7″ W to 40°53′20.6″ N, 073°46′51.2″ W, excluding all waters within 25 feet of the 50-foot channel west and south of Glen Island.
 
 (2) *Echo Bay.* All waters northwest of a line drawn from 40°54′10.0″ N, 073°45′52.9″ W to 40°54′25.0″ N, 073°45′38.4″ W.
@@ -96,7 +98,7 @@ The areas designated by paragraphs (c)(5) and (c)(6) are limited to vessels no g
 
 (ii) [Reserved]
 
-(d) *New York Harbor* - (1) *Newark Bay, Southeast.* All waters bound by the following points: 40°39′27.9″ N, 074°08′07.1″ W; thence to 40°39′31.7″ N, 074°08′13.4″ W; thence to 40°39′31.4″ N, 074°08′24.6″ W; thence to 40°39′52.4″ N, 074°08′11.7″ W; thence to 40°39′47.8″ N, 074°07′59.4″ W; thence along the shoreline to the point of origin.
+(d) *New York Harbor*—(1) *Newark Bay, Southeast.* All waters bound by the following points: 40°39′27.9″ N, 074°08′07.1″ W; thence to 40°39′31.7″ N, 074°08′13.4″ W; thence to 40°39′31.4″ N, 074°08′24.6″ W; thence to 40°39′52.4″ N, 074°08′11.7″ W; thence to 40°39′47.8″ N, 074°07′59.4″ W; thence along the shoreline to the point of origin.
 
 (2) *Great Kills Harbor.* All waters northeast of a line connecting the following points: 40°32′06.4″ N, 074°08′24.5″ W; thence to 40°32′06.9″ N, 074°08′25.8″ W; thence to 40°32′19.0″ N, 074°08′21.1″ W; thence to 40°32′28.1″ N, 074°08′24.3″ W; thence to 40°32′40.3″ N, 074°08′08.4″ W; thence to 40°32′45.2″ N, 074°08′11.4″ W; thence along the northern and eastern shoreline to the point of origin.
 

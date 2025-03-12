@@ -1,0 +1,7 @@
+##### § 2524.1 Conditions excusing entrymen from compliance with the desert-land laws. #####
+
+(a) By section 5 of the Act of June 27, 1906 (34 Stat. 520, 43 U.S.C. 448), it is provided that any desert-land entryman who has been or may be directly or indirectly hindered or prevented from making improvements on or from reclaiming the lands embraced in his entry, by reason of the fact that such lands have been embraced within the exterior limits of any withdrawal under the Reclamation Act of June 17, 1902 (32 Stat. 388; 43 U.S.C. 372 *et seq.*) will be excused during the continuance of such hindrance from complying with the provisions of the desert-land laws.
+
+(b) *Persons excused from compliance with the desert-land laws.* Section 5 of the Act of June 27, 1906, applies only to persons who have been, directly or indirectly, delayed or prevented, by the creation of any reclamation project, or by any withdrawal of public lands under the reclamation law, from improving or reclaiming the lands covered by their entries.
+
+(c) *Statement required to warrant excuse.* No entryman will be excused under this act from a compliance with all of the requirements of the desert-land law until he has filed in the proper office for the district in which his lands are situated a statement showing in detail all of the facts upon which he claims the right to be excused. This statement must show when the hindrance began, the nature, character, and extent of the same, and it must be corroborated by two disinterested persons, who can testify from their own personal knowledge.

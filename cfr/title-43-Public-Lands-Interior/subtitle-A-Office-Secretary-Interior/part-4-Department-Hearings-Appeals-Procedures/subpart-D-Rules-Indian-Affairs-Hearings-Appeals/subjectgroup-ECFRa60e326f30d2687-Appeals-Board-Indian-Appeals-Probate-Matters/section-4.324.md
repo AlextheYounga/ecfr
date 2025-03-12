@@ -1,7 +1,5 @@
 ##### § 4.324 How is the record on appeal prepared? #####
 
-Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
-
 (a) On receiving a copy of the notice of appeal, the judge whose decision is being appealed must notify:
 
 (1) The agency concerned; and
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
 
 (3) Certify that the record is complete;
 
-(4) Forward the certified original record, together with the table of contents, to the Board by certified mail or other service with delivery confirmation; and
+(4) Forward the certified original record, together with the table of contents, to the Board by certified mail, electronic transmission in accordance with § 4.310(f), or other service with delivery confirmation; and
 
 (5) Send one copy of the complete record to the agency.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
 
 (3) An appeal from a decision under § 30.124 determining that a person for whom a probate proceeding is sought to be opened is not deceased.
 
-[76 FR 7505, Feb. 10, 2011]
+[76 FR 7505, Feb. 10, 2011, as amended at 88 FR 5793, Jan. 30, 2023]

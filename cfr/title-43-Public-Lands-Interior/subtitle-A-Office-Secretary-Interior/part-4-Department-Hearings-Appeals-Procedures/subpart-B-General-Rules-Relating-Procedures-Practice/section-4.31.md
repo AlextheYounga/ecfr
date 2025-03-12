@@ -1,7 +1,5 @@
 ##### § 4.31 Request for limiting disclosure of confidential information. #####
 
-Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
-
 (a) If any person submitting a document in a proceeding under this part claims that some or all of the information contained in that document is exempt from the mandatory public disclosure requirements of the Freedom of Information Act (5 U.S.C. 552), is information referred to in section 1905 of title 18 of the United States Code (disclosure of confidential information), or is otherwise exempt by law from public disclosure, the person:
 
 (1) Must indicate in the document that it is exempt, or contains information which is exempt, from disclosure;
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
 
 (1) Not to use or disclose the information except in the context of the proceeding conducted pursuant to this part; and
 
-(2) To return all copies of the information at the conclusion of the proceeding to the person submitting the information under paragraph (a) of this section.
+(2) Not to retain in any format, and to return all physical copies of the information at the conclusion of the proceeding to the person submitting the information under paragraph (a) of this section.
 
 (d) If any person submitting a document in a proceeding under this Part other than a hearing conducted pursuant to 5 U.S.C. 554 claims that a disclosure of information in that document to another party to the proceeding is prohibited by law, notwithstanding the protection provided under paragraph (c) of this section, such person:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
 
 (f) Where a decision by a presiding officer or appeals board is based in whole or in part on evidence not included in the public record or disclosed to all parties, the decision shall so state, specifying the nature of the evidence and the provision of law under which disclosure was denied, and the evidence so considered shall be retained under seal as part of the official record.
 
-[53 FR 49661, Dec. 9, 1988]
+[53 FR 49661, Dec. 9, 1988, as amended at 88 FR 5792, Jan. 30, 2023]

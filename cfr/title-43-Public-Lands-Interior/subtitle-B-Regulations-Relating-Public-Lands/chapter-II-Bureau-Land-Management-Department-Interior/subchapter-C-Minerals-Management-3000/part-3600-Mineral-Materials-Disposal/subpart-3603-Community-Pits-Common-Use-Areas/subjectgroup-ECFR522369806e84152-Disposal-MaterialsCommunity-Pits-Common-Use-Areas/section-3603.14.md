@@ -1,0 +1,3 @@
+##### § 3603.14 What plans do I need to prepare to mine or remove mineral materials from a community pit or common use area? #####
+
+BLM generally will not require a mining or reclamation plan before you mine or remove mineral materials from a community pit or common use area. We may require such a plan if we find that circumstances warrant it. In all cases, you must comply with the terms of the contract or permit to protect health, safety, and the environment.

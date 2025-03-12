@@ -1,0 +1,5 @@
+##### § 2651.6 Airport and air navigation facilities. #####
+
+(a) Every airport and air navigation facility owned and operated by the United States which the Secretary determines is actually used in connection with the administration of a Federal program will be deemed a *Federal installation* under the provisions of section 3(e) of the Act, and the Secretary will determine the smallest practicable tract which shall enclose such Federal installations. Such Federal installations are not public lands as defined in the act and are therefore not *lands available for selection* under the provisions of these regulations.
+
+(b) The surface of all other lands of existing airport sites, airway beacons, or other navigation aids, together with such additional acreage or easements as are necessary to provide related services and to insure safe approaches to airport runways, shall be conveyed by the village corporation to the State of Alaska, and the Secretary will include in the conveyance to any village corporation any and all covenants which he deems necessary to insure the fulfillment of this obligation.

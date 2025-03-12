@@ -1,0 +1,3 @@
+##### § 9239.2-2 Duty of district attorney. #####
+
+Section 2 of the Act of February 25, 1885 (23 Stat. 321; 43 U.S.C. 1062, 28 U.S.C. 41, Par. 21), provides that it shall be the duty of the district attorney of the United States for the proper district on affidavit filed with him by any citizen of the United States that such unlawful enclosure is being made or maintained, showing the description of the lands enclosed with reasonable certainty so that the enclosure may be identified, to institute a civil suit in the proper United States district or circuit court or territorial district court in the name of the United States and against the parties named or described who shall be in charge of or controlling the enclosure complained of.

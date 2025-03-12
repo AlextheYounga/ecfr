@@ -1,0 +1,3 @@
+##### § 2932.44 What bonds does BLM require for a Special Recreation Permit? #####
+
+BLM may require you to submit a payment bond, a cash or surety deposit, or other financial guarantee in an amount sufficient to cover your fees or defray the costs of restoration and rehabilitation of the lands affected by the permitted use. We will return the bonds and financial guarantees when you have complied with all permit stipulations. BLM may waive the bonding requirement if we find that your activity will not cause appreciable environmental degradation or risk to human health and safety.

@@ -1,0 +1,3 @@
+##### § 2568.114 How do I apply for an alternative allotment if the CSU manager determines my application is inconsistent with a CSU? #####
+
+You should contact the appropriate CSU manager as quickly as possible to discuss resource concerns, potential constraints, and impacts on existing management plans. After you do this you must file a request for an alternative allotment with the BLM Alaska State Office as stated in section 2568.71 and follow all the requirements of the original allotment application. If the alternative allotment land is also in the CSU, the CSU manager will evaluate it to determine if conveyance of an allotment there would be inconsistent with the CSU as well.

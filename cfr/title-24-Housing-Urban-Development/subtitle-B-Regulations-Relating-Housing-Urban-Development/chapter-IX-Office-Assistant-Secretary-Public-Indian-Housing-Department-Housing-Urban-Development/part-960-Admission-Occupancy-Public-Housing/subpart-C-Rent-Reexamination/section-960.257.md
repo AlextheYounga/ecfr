@@ -10,11 +10,13 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (4) The PHA may use the results of these reexaminations to require the family to move to an appropriate size unit.
 
+(5) For all non-public housing over-income families, the PHA may not conduct an annual reexamination of family income.
+
 (b) *Interim reexaminations.* (1) A family may request an interim reexamination of family income or composition because of any changes since the last determination.
 
 (2) The PHA must make the interim reexamination within a reasonable time after the family request. The PHA must adopt policies prescribing when and under what conditions the family must report a change in family income or composition.
 
-(c) *Streamlined income determination* - (1) *General.* A PHA may elect to apply a streamlined income determination to families receiving fixed income, as described in paragraph (c)(3) of this section.
+(c) *Streamlined income determination*—(1) *General.* A PHA may elect to apply a streamlined income determination to families receiving fixed income, as described in paragraph (c)(3) of this section.
 
 (2) *Definition of “fixed income”.* For purposes of this section, “fixed income” means periodic payments at reasonably predictable levels from one or more of the following sources:
 
@@ -36,6 +38,6 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (5) *Triennial verification.* For any income determined pursuant to a streamlined income determination, a PHA must obtain third-party verification of all income amounts every 3 years.
 
-(d) *PHA reexamination policies.* The PHA must adopt admission and occupancy policies concerning conduct of annual and interim reexaminations in accordance with this section, and shall conduct reexaminations in accordance with such policies. The PHA reexamination policies must be in accordance with the PHA plan.
+(d) *PHA reexamination policies.* The PHA must adopt admission and continued occupancy policies concerning conduct of annual and interim reexaminations in accordance with this section, and shall conduct reexaminations in accordance with such policies. The PHA reexamination policies must be in accordance with the PHA plan.
 
-[65 FR 16726, Mar. 29, 2000, as amended at 81 FR 12373, Mar. 8, 2016; 82 FR 58340, Dec. 12, 2017; 85 FR 27139, May 7, 2020]
+[65 FR 16726, Mar. 29, 2000, as amended at 81 FR 12373, Mar. 8, 2016; 82 FR 58340, Dec. 12, 2017; 85 FR 27139, May 7, 2020; 88 FR 9670, Feb. 14, 2023]

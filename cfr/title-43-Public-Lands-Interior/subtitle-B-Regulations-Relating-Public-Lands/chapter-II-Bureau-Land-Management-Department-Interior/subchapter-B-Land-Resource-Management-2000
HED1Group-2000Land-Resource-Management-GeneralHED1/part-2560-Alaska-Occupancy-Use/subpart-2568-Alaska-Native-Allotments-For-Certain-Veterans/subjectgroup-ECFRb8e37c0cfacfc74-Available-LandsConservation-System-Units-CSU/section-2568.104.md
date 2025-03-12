@@ -1,0 +1,3 @@
+##### § 2568.104 How will a CSU manager determine if my allotment is consistent with the CSU? #####
+
+The CSU manager will decide this on a case-by-case basis by considering the law or withdrawal order which created the CSU. The law or withdrawal order explains the purposes for which the CSU was created. The manager would also consider the mission of the CSU managing agency as established in law and policy. The manager will also consider how the cumulative impacts of the various activities that could take place on the allotment might affect the CSU.

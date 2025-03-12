@@ -1,0 +1,3 @@
+##### § 9239.2-4 Filing of charges or complaints. #####
+
+All charges or complaints against unlawful enclosures or obstructions upon the public lands should be filed with the proper State Director. Such charges or complaints, when possible, should give the name and address of the party or parties making or maintaining such enclosure or obstruction and should describe the land enclosed in such a way that it may be readily identified. The section, township, and range numbers should be given, if possible.

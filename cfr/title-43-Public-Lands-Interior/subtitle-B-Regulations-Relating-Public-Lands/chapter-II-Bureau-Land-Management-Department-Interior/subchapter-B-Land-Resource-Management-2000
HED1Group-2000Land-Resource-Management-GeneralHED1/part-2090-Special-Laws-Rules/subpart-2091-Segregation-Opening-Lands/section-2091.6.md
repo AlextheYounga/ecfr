@@ -1,0 +1,3 @@
+##### § 2091.6 Opening of withdrawn lands: General. #####
+
+The term of a withdrawal ends upon expiration under its own terms, or upon revocation or termination by the Secretary by publication in the Federal Register of a Public Land Order. Lands included in a withdrawal that is revoked, terminates or expires do not automatically become open, but are opened through publication in the Federal Register of an opening order. An opening order may be incorporated in a Public Land Order that revokes or terminates a withdrawal or may be published in the Federal Register as a separate document. In each case, the opening order specifies the time, date and specific conditions under which the lands are opened. (See subpart 2310.)

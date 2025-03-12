@@ -1,0 +1,3 @@
+##### § 4.842 Proposed findings of fact and conclusions of law. #####
+
+Within 30 days after the close of the hearing each party may file, or the administrative law judge may request, proposed findings of fact and conclusions of law together with supporting briefs. Such proposals and briefs shall be served on all parties and amici. Reply briefs may be submitted within 15 days after receipt of the initial proposals and briefs. Reply briefs should be filed and served on all parties and amici.

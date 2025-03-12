@@ -1,5 +1,7 @@
 ##### § 110.52 Thames River, New London, Conn. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Area No. 1.* An area in the westerly part of Greens Harbor bounded as follows: Beginning at a point on the shore 100 yards southeasterly of the southerly side of Thames Street extended; thence 84°, 420 yards; thence 156°, 425 yards; thence 240°, 210 yards, to the shore; and thence northwesterly along the shore to the point of beginning.
 
 (b) *Area No. 2.* An area in the westerly part of Greens Harbor bounded as follows: Beginning at a point on the shore 15 yards southeasterly of the southerly side of Converse Place extended; thence 54°, 170 yards; thence 114°30′, 550 yards; thence 266°30′, 250 yards; thence 234°, 230 yards, to the shore; and thence northwesterly along the shore to the point of beginning.

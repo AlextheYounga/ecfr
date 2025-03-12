@@ -1,0 +1,3 @@
+##### § 4.822 Disposition of motions. #####
+
+The administrative law judge may not grant a written motion or petition prior to expiration of the time for filing responses thereto, but may overrule or deny such motion or petition without awaiting response: *Provided, however,* That prehearing conferences, hearings, and decisions need not be delayed pending disposition of motions or petitions. Oral motions and petitions may be ruled on immediately.

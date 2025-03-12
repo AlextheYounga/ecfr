@@ -1,6 +1,9 @@
 ##### § 111.95-1 Applicability. #####
 
-(a) The electric installation of each electric power-operated boat winch must meet the requirements in this subpart, except that limit switches must be adapted to the installation if there are no gravity davits.
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
+(a) The electric installation of each electric power
+-operated boat winch must meet the requirements in this subpart, except that limit switches must be adapted to the installation if there are no gravity davits.
 
 (b) The provisions of this subpart supplement the requirements for boat winches in other parts of this chapter under which vessels are certificated and in subchapter Q, Equipment approvals.
 

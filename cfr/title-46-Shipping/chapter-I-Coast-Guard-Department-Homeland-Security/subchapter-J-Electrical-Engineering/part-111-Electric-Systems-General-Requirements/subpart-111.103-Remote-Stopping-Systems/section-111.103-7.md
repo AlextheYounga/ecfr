@@ -1,5 +1,7 @@
 ##### § 111.103-7 Ventilation stop stations. #####
 
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
 Each ventilation stop station must:
 
 (a) Be protected by an enclosure with a glass-paneled door on the front;

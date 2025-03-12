@@ -1,5 +1,7 @@
 ##### § 111.60-11 Wire. #####
 
+Link to an amendment published at 88 FR 16364, Mar. 16, 2023.
+
 (a) Wire must be in an enclosure.
 
 (b) Wire must be component insulated.

@@ -1,6 +1,8 @@
 ##### § 111.54-1 Circuit breakers. #####
 
-(a) Each Circuit breaker must -
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
+(a) Each Circuit breaker must—
 
 (1) Meet the general provision of Article 240 of NFPA NEC 2002 or IEC 60092-202 (both incorporated by reference; see 46 CFR 110.10-1) as appropriate;
 

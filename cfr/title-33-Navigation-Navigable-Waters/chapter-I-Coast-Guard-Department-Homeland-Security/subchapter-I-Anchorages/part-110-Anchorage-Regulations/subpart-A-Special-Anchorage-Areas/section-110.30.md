@@ -1,5 +1,7 @@
 ##### § 110.30 Boston Harbor, Mass. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Vicinity of South Boston Yacht Club, South Boston.* Northerly of a line bearing 96° from the stack of the heating plant of the Boston Housing Authority in South Boston; easterly of a line bearing 5° from the west shaft of the tunnel of the Boston Main Drainage Pumping Station; southerly of the shoreline; and westerly of a line bearing 158° from the northeast corner of the iron fence marking the east boundary of the South Boston Yacht Club property.
 
 (b) *Dorchester Bay, in vicinity of Savin Hill Yacht Club.* Northerly of a line bearing 64° from the stack of the old power plant of the Boston Elevated Railway on Freeport Street in Dorchester; westerly of a line bearing 163° from the stack of the Boston Main Drainage Pumping Station on the Cow Pasture in Dorchester; and southerly and easterly of the shoreline.

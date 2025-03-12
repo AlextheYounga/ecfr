@@ -1,0 +1,5 @@
+##### § 2569.303 Who may apply for an allotment under this subpart on behalf of another person? #####
+
+(a) A personal representative of the estate of an Eligible Individual may apply for an allotment for the benefit of the estate. The personal representative must be appointed in an appropriate Alaska State court by either a judge in the formal probate process or the registrar in the informal probate process. The Certificate of Allotment will be issued in the name of the heirs, devisees, and/or assigns of the deceased Eligible Individual.
+
+(b) An attorney-in-fact, a court-appointed guardian, or a court-appointed conservator of an Eligible Individual may apply for an allotment for the benefit of the Eligible Individual. The Certificate of Allotment will be issued in the name of the Eligible Individual.

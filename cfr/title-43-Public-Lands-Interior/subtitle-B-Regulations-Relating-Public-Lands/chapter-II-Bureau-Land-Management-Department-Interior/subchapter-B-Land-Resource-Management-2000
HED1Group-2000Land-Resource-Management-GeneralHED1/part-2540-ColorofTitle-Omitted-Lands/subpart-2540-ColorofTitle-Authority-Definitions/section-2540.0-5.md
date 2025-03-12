@@ -1,0 +1,7 @@
+##### § 2540.0-5 Definition. #####
+
+(a) *The act,* when used in this section means the Act of December 22, 1928 (45 Stat. 1069; 43 U.S.C. 1068, 1068a), as amended by the Act of July 28, 1953 (67 Stat. 227, 43 U.S.C. 1068a).
+
+(b) The claims recognized by the Act will be referred to in this part as claims of class 1, and claim of class 2. A claim of class 1 is one which has been held in good faith and in peaceful adverse possession by a claimant, his ancestors or grantors, under claim or color of title for more than 20 years, on which valuable improvements have been placed, or on which some part of the land has been reduced to cultivation. A claim of class 2 is one which has been held in good faith and in peaceful, adverse possession by a claimant, his ancestors or grantors, under claim or color of title for the period commencing not later than January 1, 1901, to the date of application, during which time they have paid taxes levied on the land by State and local governmental units. A claim is not held in good faith where held with knowledge that the land is owned by the United States. A claim is not held in peaceful, adverse possession where it was initiated while the land was withdrawn or reserved for Federal purposes.
+
+[35 FR 9592, June 13, 1970]

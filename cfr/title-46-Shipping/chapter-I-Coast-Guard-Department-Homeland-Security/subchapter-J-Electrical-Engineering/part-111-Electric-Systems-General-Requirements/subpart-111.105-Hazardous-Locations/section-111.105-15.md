@@ -1,6 +1,8 @@
 ##### § 111.105-15 Additional methods of protection. #####
 
-Each item of electrical equipment that is -
+Link to an amendment published at 88 FR 16366, Mar. 16, 2023.
+
+Each item of electrical equipment that is—
 
 (a) A powder-filled apparatus must meet IEC 60079-5 (incorporated by reference; see 46 CFR 110.10-1);
 

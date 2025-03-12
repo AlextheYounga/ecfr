@@ -1,5 +1,7 @@
 ##### § 111.01-15 Temperature ratings. #####
 
+Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
+
 (a) In this subchapter, an ambient temperature of 40 °C (104 °F) is assumed except as otherwise stated.
 
 (b) A 50 °C (122 °F) ambient temperature is assumed for all rotating electrical machinery in boiler rooms, engine rooms, auxiliary machinery rooms, and weather decks, unless it can be shown that a 45 °C (113 °F) ambient temperature will not be exceeded in these spaces.

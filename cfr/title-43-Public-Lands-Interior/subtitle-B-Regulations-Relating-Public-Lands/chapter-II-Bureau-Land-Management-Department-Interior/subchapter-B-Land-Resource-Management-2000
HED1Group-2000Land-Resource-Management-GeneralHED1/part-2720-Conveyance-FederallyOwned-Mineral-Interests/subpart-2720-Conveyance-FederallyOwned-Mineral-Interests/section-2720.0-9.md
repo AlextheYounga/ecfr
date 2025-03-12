@@ -1,0 +1,7 @@
+##### § 2720.0-9 Information collection. #####
+
+(a) The Office of Management and Budget has approved under 44 U.S.C. 3507 the information collection requirements contained in part 2720 and assigned clearance number 1004-0153. The Bureau of Land Management is collecting the information to permit the authorized officer to determine whether the Bureau of Land Management should dispose of Federally-owned mineral interests. The Bureau of Land Management will use the information collected to make these determinations. A response is required to obtain a benefit.
+
+(b) The Bureau of Land Management estimates the public reporting burden for this information to average 8 hours per response, including the time for reviewing regulations, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer (783), Bureau of Land Management, Washington, D.C. 20240, and the Office of Management and Budget, Paperwork Reduction Project, 1004-0153, Washington, D.C. 20503.
+
+[60 FR 12711, Mar. 8, 1995]

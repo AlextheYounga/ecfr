@@ -1,0 +1,17 @@
+##### § 2650.7 Publication. #####
+
+In order to determine whether there are any adverse claimants to the land, the applicant should publish notice of his application. If the applicant decides to avail himself of the privilege of publishing a notice to all adverse claimants and requests it, the authorized officer will prepare a notice for publication. The publication will be in accordance with the following procedure:
+
+(a) The applicant will have the notice published allowing all persons claiming the land adversely to file in the appropriate land office their objections to the issuance of any conveyance. The notice shall be published once a week for 4 consecutive weeks in a newspaper of general circulation.
+
+(b) The applicant shall file a statement of the publisher, accompanied by a copy of the published notice, showing that publication has been had for 4 consecutive weeks. The applicant must pay the cost of publication.
+
+(c) Any adverse claimant must serve on the applicant a copy of his objections and furnish evidence of service thereof to the appropriate land office.
+
+(d) For all land selections made under the Act, in order to give actual notice of the decision of the Bureau of Land Management proposing to convey lands, the decision shall be served on all known parties of record who claim to have a property interest or other valid existing right in land affected by such decision, the appropriate regional corporation, and any Federal agency of record. In order to give constructive notice of the decision to any unknown parties, or to known parties who cannot be located after reasonable efforts have been expended to locate, who claim a property interest or other valid existing right in land affected by the decision, notice of the decision shall be published once in the Federal Register and, once a week, for four (4) consecutive weeks, in one or more newspapers of general circulation in the State of Alaska nearest the locality where the land affected by the decision is situated, if possible. Any decision or notice actually served on parties or constructively served on parties in accord with this subsection shall state that any party claiming a property interest in land affected by the decision may appeal the decision to the Board of Land Appeals. The decision or notice of decision shall also state that:
+
+(1) Any party receiving actual notice of the decision shall have 30 days from the receipt of actual notice to file an appeal; and,
+
+(2) That any unknown parties, any parties unable to be located after reasonable efforts have been expended to locate, and any parties who failed or refused to sign a receipt for actual notice, shall have 30 days from the date of publication in the Federal Register to file an appeal. Furthermore, the decision or notice of decision shall inform readers where further information on the manner of, and requirements for, filing appeal may be obtained, and shall also state that any party known or unknown who may claim a property interest which is adversely affected by the decision shall be deemed to have waived their rights which were adversely affected unless an appeal is filed in accordance with the requirements stated in the decisions or notices provided for in this subsection and the regulation governing such appeals set out in 43 CFR part 4, subpart E.
+
+[38 FR 14218, May 30, 1973, as amended at 41 FR 14737, Apr. 7, 1976; 41 FR 17909, Apr. 29, 1976; 49 FR 6373, Feb. 21, 1984]

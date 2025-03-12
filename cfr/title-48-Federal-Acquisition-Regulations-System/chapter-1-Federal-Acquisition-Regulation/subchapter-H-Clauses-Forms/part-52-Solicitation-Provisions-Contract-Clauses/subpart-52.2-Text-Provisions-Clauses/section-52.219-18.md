@@ -1,14 +1,12 @@
 ##### 52.219-18 Notification of Competition Limited to Eligible 8(a) Participants. #####
 
-Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
-
 As prescribed in 19.811-3(d), insert the following clause:
 
 Notification of Competition Limited to Eligible 8(a) Participants (OCT 2022)
 
-(a) Offers are solicited only from -
+(a) Offers are solicited only from—
 
-(1) Small business concerns expressly certified by the Small Business Administration (SBA) for participation in SBA's 8(a) program and which meet the following criteria at the time of submission of offer -
+(1) Small business concerns expressly certified by the Small Business Administration (SBA) for participation in SBA's 8(a) program and which meet the following criteria at the time of submission of offer—
 
 (i) The Offeror is in conformance with the 8(a) support limitation set forth in its approved business plan; and
 
@@ -16,7 +14,7 @@ Notification of Competition Limited to Eligible 8(a) Participants (OCT 2022)
 
 (2) A joint venture, in which at least one of the 8(a) program participants that is a party to the joint venture complies with the criteria set forth in paragraph (a)(1) of this clause, that complies with 13 CFR 124.513(c); or
 
-(3) A joint venture -
+(3) A joint venture—
 
 (i) That is comprised of a mentor and an 8(a) protégé with an approved mentor-protégé agreement under the 8(a) program;
 
@@ -32,8 +30,8 @@ Notification of Competition Limited to Eligible 8(a) Participants (OCT 2022)
 
 (End of clause)
 
-*Alternate I* (OCT 2022). If the competition is to be limited to 8(a) participants within one or more specific SBA regions or districts, add the following paragraph (a)(1)(iii) to paragraph (a) of the clause:
+*Alternate I* (MAR 2023). If the competition is to be limited to 8(a) participants within one or more specific SBA regions or districts, add the following paragraph (a)(1)(iii) to paragraph (a) of the clause:
 
-(iii) The offeror's approved business plan is on the file and serviced by \_\_[*Contracting Officer completes by inserting the appropriate SBA District and/or Regional Office(s) as identified by the SBA*].
+(iii) The offeror's approved business plan is on the file and serviced by \_\_[*Contracting Officer completes by inserting the appropriate SBA District and/or Area Office(s) as identified by the SBA*].
 
-[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989, as amended at 55 FR 3889, Feb. 5, 1990; 55 FR 25532, June 21, 1990; 55 FR 38518, Sept. 18, 1990; 60 FR 48267, Sept. 18, 1995; 61 FR 39209, July 26, 1996; 61 FR 67422, Dec. 20, 1996; 62 FR 238, Jan. 2, 1997; 62 FR 12720, Mar. 17, 1997; 64 FR 32745, June 17, 1999; 64 FR 51850, Sept. 24, 1999; 68 FR 28085, May 22, 2003; 70 FR 18959, Apr. 11, 2005; 82 FR 4731, Jan. 13, 2017; 85 FR 11771, Feb. 27, 2020; 87 FR 58226, Sept. 23, 2022]
+[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989]Editorial Note:For Federal Register citations affecting 52.219-18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

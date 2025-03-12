@@ -1,6 +1,8 @@
 ##### § 111.99-3 Definitions. #####
 
-As used in this subpart -
+Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+
+As used in this subpart—
 
 *Central control panel* means a manually-operated device on the navigating bridge or in the fire control room for releasing one or more fire doors.
 

@@ -1,7 +1,5 @@
 ##### § 4.602 What definitions apply to this subpart? #####
 
-Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
-
 As used in this subpart:
 
 *Act* means section 203(a)(1) of the Equal Access to Justice Act, Public Law 96-481, 5 U.S.C. 504, as amended.
@@ -12,11 +10,9 @@ As used in this subpart:
 
 (1) An adjudication under 5 U.S.C. 554 in which the position of the Department or other agency is presented by an attorney or other representative who enters an appearance and participates in the proceeding;
 
-(2) An appeal of a decision of a contracting officer made pursuant to section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605) before the Interior Board of Contract Appeals pursuant to section 8 of that Act (41 U.S.C. 607);
+(2) Any hearing conducted under section 6103(a) of the Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801 *et seq.*); or
 
-(3) Any hearing conducted under section 6103(a) of the Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801 *et seq.*); or
-
-(4) Any hearing or appeal involving the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb *et seq.*).
+(3) Any hearing or appeal involving the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb *et seq.*).
 
 *Affiliate* means:
 
@@ -51,3 +47,5 @@ As used in this subpart:
 *Proceeding* means an adversary adjudication as defined in this section.
 
 *You* means a party to an adversary adjudication.
+
+[36 FR 7186, Apr. 15, 1971, as amended at 88 FR 5794, Jan. 30, 2023]

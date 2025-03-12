@@ -1,5 +1,7 @@
 ##### § 111.60-23 Metal-clad (Type MC) cable. #####
 
+Link to an amendment published at 88 FR 16364, Mar. 16, 2023.
+
 (a) Metal-clad (Type MC) cable permitted on board a vessel must be continuous corrugated metal-clad cable.
 
 (b) The cable must have a corrugated gas-tight, vapor-tight, and watertight sheath of aluminum or other suitable metal that is close-fitting around the conductors and fillers and that has an overall jacket of an impervious PVC or thermoset material.

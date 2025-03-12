@@ -1,5 +1,7 @@
 ##### § 111.15-2 Battery construction. #####
 
+Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+
 (a) A battery cell, when inclined at 40 degrees from the vertical, must not spill electrolyte.
 
 (b) Each fully charged lead-acid battery must have a specific gravity that meets section 22 of IEEE 45-2002 (incorporated by reference; see 46 CFR 110.10-1).

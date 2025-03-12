@@ -1,0 +1,7 @@
+##### § 2650.6 Selection limitations. #####
+
+(a) Notwithstanding any other provisions of the act, no village or regional corporation may select lands which are within 2 miles from the boundary of any home rule or first-class city (excluding boroughs) as the boundaries existed and the cities were classified on December 18, 1971, or which are within 6 miles from the boundary of Ketchikan, except that a village corporation organized by Natives of a community which is itself a first class or home-rule city is not prohibited from making selections within 2 miles from the boundary of that first class or home-rule city, unless such selections fall within 2 miles from the boundary of another first class or home-rule city which is not itself a Native village or within 6 miles from the boundary of Ketchikan.
+
+(b) Determination as to which cities were classified as home rule or first class as of December 18, 1971, and their boundaries as of that date will be made in accordance with the laws of the State of Alaska.
+
+(c) If any village corporation whose land withdrawals encompass Dutch Harbor is found eligible under this act, it may select lands pursuant to subpart 2651 of this chapter and receive a conveyance under the terms of section 14(a) of the Act.

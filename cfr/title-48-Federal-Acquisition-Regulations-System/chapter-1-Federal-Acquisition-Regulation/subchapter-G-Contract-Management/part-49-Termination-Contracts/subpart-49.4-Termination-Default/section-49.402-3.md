@@ -1,7 +1,5 @@
 ##### 49.402-3 Procedure for default. #####
 
-Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
-
 (a) When a default termination is being considered, the Government shall decide which type of termination action to take (i.e., default, convenience, or no-cost cancellation) only after review by contracting and technical personnel, and by counsel, to ensure the propriety of the proposed action.
 
 (b) The administrative contracting officer shall not issue a show cause notice or cure notice without the prior approval of the contracting office, which should be obtained by the most expeditious means.
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
 
 (3) If requested by the surety, and agreed to by the contractor and any assignees, arrangements may be made to have future checks mailed to the contractor in care of the surety. In this case, the contractor must forward a written request to the designated disbursing officer specifically directing a change in address for mailing checks.
 
-(4) If the contractor is a small business firm, the contracting officer shall immediately provide a copy of any cure notice or show cause notice to the contracting office's small business specialist and the Small Business Administration Regional Office nearest the contractor. The contracting officer should, whenever practicable, consult with the small business specialist before proceeding with a default termination (see also 49.402-4).
+(4) If the contractor is a small business firm, the contracting officer shall immediately provide a copy of any cure notice or show cause notice to the contracting office's small business specialist and the Small Business Administration Area Office nearest the contractor. The contracting officer should, whenever practicable, consult with the small business specialist before proceeding with a default termination (see also 49.402-4).
 
 (f) The contracting officer shall consider the following factors in determining whether to terminate a contract for default:
 
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
 
 (7) Any other pertinent facts and circumstances.
 
-(g) If, after compliance with the procedures in paragraphs (a) through (f) of this 49.402-3, the contracting officer determines that a termination for default is proper, the contracting officer shall issue a notice of termination stating -
+(g) If, after compliance with the procedures in paragraphs (a) through (f) of this 49.402-3, the contracting officer determines that a termination for default is proper, the contracting officer shall issue a notice of termination stating—
 
 (1) The contract number and date;
 
@@ -58,4 +56,4 @@ Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
 
 (k) If the contracting officer has not been able to determine, before issuance of the notice of termination whether the contractor's failure to perform is excusable, the contracting officer shall make a written decision on that point as soon as practicable after issuance of the notice of termination. The decision shall be delivered promptly to the contractor with a notification that the contractor has the right to appeal as specified in the Disputes clause.
 
-[48 FR 42447, Sept. 19, 1983, as amended at 54 FR 48990, Nov. 28, 1989]
+[48 FR 42447, Sept. 19, 1983, as amended at 54 FR 48990, Nov. 28, 1989; 88 FR 9738, Feb. 14, 2023]

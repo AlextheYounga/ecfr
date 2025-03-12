@@ -1,5 +1,7 @@
 ##### § 110.32 Hingham Harbor, Hingham, Mass. #####
 
+Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
+
 (a) *Area 1.* Beginning at latitude 42°15′39″, longitude 70°53′24″; thence to latitude 42°15′53.5″, longitude 70°53′32″; thence to latitude 42°15′56″, longitude 70°53′23″; thence to latitude 42°15′42″, longitude 70°53′15″; thence to point of beginning.
 
 (b) *Area 2.* Beginning at latitude 42°15′30″, longitude 70°53′02.5″; thence to latitude 42°15′30″, longitude 70°53′13.5″; thence to latitude 42°15′27.5″, longitude 70°53′18″; thence to latitude 42°15′28.5″, longitude 70°53′31″; thence to latitude 42°15′35″, longitude 70°53′34″; thence to latitude 42°15′36″, longitude 70°53′36.5″; thence to latitude 42°15′41″, longitude 70°53′34.5″; thence to latitude 42°15′31″, longitude 70°53′28″; thence to latitude 42°15′31.5″, longitude 70°53′03″; thence to point of beginning.

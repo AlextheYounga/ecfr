@@ -1,5 +1,7 @@
 ##### § 111.55-1 General. #####
 
+Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
+
 (a) Each switch must meet Article 404 of NFPA NEC 2002 (incorporated by reference; see 46 CFR 110.10-1).
 
 (b) Each switch that is in the weather must be in a watertight enclosure and be externally operable.
