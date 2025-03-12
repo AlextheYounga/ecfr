@@ -117,7 +117,7 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (3) *Determination of aggregate assessment credit awards to all eligible institutions.* The FDIC shall award an aggregate amount of assessment credits equal to the product of the *fraction of quarterly regular deposit insurance assessments paid by credit accruing institutions* during the credit calculation period and the amount by which the *DIF increase,* as determined under paragraph (c)(3)(ii) or (iii) of this section, exceeds total surcharges imposed under paragraph (b) of this section; provided, however, that the aggregate amount of assessment credits cannot exceed the aggregate amount of quarterly deposit insurance assessments paid by credit accruing institutions during the credit calculation period.
 
-(i) *Fraction of quarterly regular deposit insurance assessments paid by credit accruing institutions.* The fraction of assessments paid by credit accruing institutions shall equal quarterly deposit insurance assessments, as determined under § 327.9, paid by such institutions for each assessment period during the credit calculation period, divided by the total amount of quarterly deposit insurance assessments paid by all insured depository institutions during the credit calculation period, excluding the aggregate amount of surcharges imposed under paragraph (b) of this section.
+(i) *Fraction of quarterly regular deposit insurance assessments paid by credit accruing institutions.* The fraction of assessments paid by credit accruing institutions shall equal quarterly deposit insurance assessments, as determined under §§ 327.9 and 327.16, paid by such institutions for each assessment period during the credit calculation period, divided by the total amount of quarterly deposit insurance assessments paid by all insured depository institutions during the credit calculation period, excluding the aggregate amount of surcharges imposed under paragraph (b) of this section.
 
 (ii) *DIF increase if the DIF reserve ratio has reached 1.35 percent by December 31, 2018.* If the DIF reserve ratio has reached 1.35 percent by December 31, 2018, the DIF increase shall equal 0.2 percent of estimated insured deposits as of the date that the DIF reserve ratio first reaches or exceeds 1.35 percent.
 
@@ -145,7 +145,7 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (10) *Mergers and consolidation include only legal mergers and consolidation.* For the purposes of this paragraph (c), a merger or consolidation does not include transactions in which an insured depository institution either directly or indirectly acquires the assets of, or assumes liability to pay any deposits made in, any other insured depository institution, but there is not a legal merger or consolidation of the two insured depository institutions.
 
-(11) *Use of credits.* (i) The FDIC shall apply assessment credits awarded under paragraph (c) of this section to an institution's deposit insurance assessments, as calculated under § 327.9, only for assessment periods in which the reserve ratio of the DIF exceeds 1.38 percent.
+(11) *Use of credits.* (i) The FDIC shall apply assessment credits awarded under paragraph (c) of this section to an institution's deposit insurance assessments, as calculated under §§ 327.9 and 327.16, only for assessment periods in which the reserve ratio of the DIF is at least 1.38 percent.
 
 (ii) The FDIC shall apply assessment credits to reduce an institution's quarterly deposit insurance assessments by each institution's remaining credits. The assessment credit applied to each institution's deposit insurance assessment for any assessment period shall not exceed the institution's total deposit insurance assessment for that assessment period.
 
@@ -173,4 +173,4 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (5) *Adjustments to assessment credits.* Once the Director of the Division of Finance, or the Assessment Appeals Committee, as appropriate, has notified the requesting bank of its final determination, the FDIC will make appropriate adjustments to assessment credit amounts consistent with that determination. Adjustments to an insured depository institution's assessment credit amounts will not be applied retroactively to reduce or increase the quarterly deposit insurance assessment for a prior assessment period.
 
-[81 FR 16069, Mar. 25, 2016]
+[81 FR 16069, Mar. 25, 2016, as amended at 83 FR 14568, Apr. 5, 2018]

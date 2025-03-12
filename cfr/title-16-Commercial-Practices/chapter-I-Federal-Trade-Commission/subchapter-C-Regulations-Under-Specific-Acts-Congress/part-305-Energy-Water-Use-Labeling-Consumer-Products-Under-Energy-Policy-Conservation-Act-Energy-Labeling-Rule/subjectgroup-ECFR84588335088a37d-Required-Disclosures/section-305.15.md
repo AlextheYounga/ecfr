@@ -8,6 +8,62 @@
 
 (b) *General service lamps.* Except as provided in paragraph (f) of this section, any covered product that is a general service lamp shall be labeled as follows:
 
+(1) *Principal display panel content.* The principal display panel of the product package shall be labeled clearly and conspicuously with the following information:
+
+(i) The light output of each lamp included in the package, expressed as “Brightness” in average initial lumens rounded to the nearest five; and
+
+(ii) The estimated annual energy cost of each lamp included in the package, expressed as “Estimated Energy Cost” in dollars and based on usage of 3 hours per day and 11 cents ($0.11) per kWh.
+
+(2) *Principal display panel format.* The light output (brightness) and energy cost shall appear in that order and with equal clarity and conspicuousness on the principal display panel of the product package. The format, terms, specifications, and minimum sizes shall follow the specifications and minimum sizes displayed in Prototype Label 5 in appendix L of this part.
+
+(3) *Lighting Facts label content.* The side or rear display panel of the product package shall be labeled clearly and conspicuously with a Lighting Facts label that contains the following information in the following order:
+
+(i) The light output of each lamp included in the package, expressed as “Brightness” in average initial lumens rounded to the nearest five;
+
+(ii) The estimated annual energy cost of each lamp included in the package based on the average initial wattage, a usage rate of 3 hours per day and 11 cents ($0.11) per kWh and explanatory text as illustrated in Prototype Label 6 in appendix L of this part;
+
+(iii) The life, as defined in § 305.2(w), of each lamp included in the package, expressed in years rounded to the nearest tenth (based on 3 hours operation per day);
+
+(iv) The correlated color temperature of each lamp included in the package, as measured in degrees Kelvin and expressed as “Light Appearance” and by a number and a marker in the form of a scale as illustrated in Prototype Label 6 to appendix L of this part placed proportionately on the scale where the left end equals 2,600 K and the right end equals 6,600 K;
+
+(v) The wattage, as defined in § 305.2(hh), for each lamp included in the package, expressed as energy used in average initial wattage;
+
+(vi) The ENERGY STAR logo as illustrated in Prototype Label 6 to appendix L of this part for certified products, if desired by the manufacturer or private labeler. Only manufacturers or private labelers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on certified covered products; such manufacturers or private labelers may add the ENERGY STAR logo to labels only on those products that are covered by the Memorandum of Understanding;
+
+(vii) The design voltage of each lamp included in the package, if other than 120 volts;
+
+(viii) For any general service lamp containing mercury, the following statement: “Contains Mercury For more on clean up and safe disposal, visit *epa.gov/cfl.”* The manufacturer may also print an “Hg[Encircled]” symbol on the label after the term “Contains Mercury”; and
+
+(ix) No marks or information other than that specified in this part shall appear on the Lighting Facts label.
+
+(4) *Standard Lighting Facts label format.* Except as provided in paragraph (b)(5) of this section, information specified in paragraph (b)(3) of this section shall be presented on covered lamp packages in the format, terms, explanatory text, specifications, and minimum sizes as shown in Prototype Labels 6 in appendix L of this part and consistent in format and orientation with Sample Labels 10, 11, or 12 in appendix L. The text and lines shall be all black or one color type, printed on a white or other neutral contrasting background whenever practical.
+
+(i) The Lighting Facts information shall be set off in a box by use of hairlines and shall be all black or one color type, printed on a white or other neutral contrasting background whenever practical.
+
+(ii) All information within the Lighting Facts label shall utilize:
+
+(A) Arial or an equivalent type style;
+
+(B) Upper and lower case letters;
+
+(C) Leading as indicated in Prototype Label 6 in appendix L of this part;
+
+(D) Letters that never touch;
+
+(E) The box and hairlines separating information as illustrated in Prototype Labels 6 in appendix L of this part; and
+
+(F) The minimum font sizes and line thicknesses as illustrated in Prototype Label 6 in appendix L of this part.
+
+(5) *Lighting Facts format for small packages.* If the total surface area of the product package available for labeling is less than 24 square inches and the package shape or size cannot accommodate the standard label required by paragraph (b)(4) of this section, manufacturers may provide the information specified in paragraph (b)(3) of this section using a smaller, linear label following the format, terms, explanatory text, specifications, and minimum sizes illustrated in Prototype Label 7 in appendix L of this part.
+
+(6) *Bilingual labels.* The information required by paragraphs (b)(1) through (5) of this section may be presented in a second language either by using separate labels for each language or in a bilingual label with the English text in the format required by this section immediately followed by the text in the second language. Sample Label 13 in appendix L of this part provides an example of a bilingual Lighting Facts label. All required information must be included in both languages. Numeric characters that are identical in both languages need not be repeated.
+
+(7) *Product labeling.* Any general service lamp shall be labeled legibly on the product with the following information:
+
+(i) The lamp's average initial lumens, expressed as a number rounded to the nearest five, adjacent to the word “lumens,” both provided in minimum 8 point font; and
+
+(ii) For general service lamps containing mercury, the following statement: “Mercury disposal: *epa.gov/cfl”* in minimum 8 point font.
+
 (c) *Specialty consumer lamps.* (1) Any specialty consumer lamp that is a vibration-service lamp as defined at 42 U.S.C. 6291, rough service lamp as defined at 42 U.S.C. 6291(30), appliance lamp as defined at 42 U.S.C. 6291(30); or shatter resistant lamp (including a shatter proof lamp and a shatter protected lamp) must be labeled pursuant to the requirements in paragraphs (b)(1) through (7) of this section.
 
 (2) *Specialty consumer lamp Lighting Facts label content.* All specialty consumer lamps not covered by paragraph (c)(1) of this section shall be labeled pursuant to the requirements of paragraphs (b)(1) through (7) of this section or as follows:
@@ -100,4 +156,4 @@ These lamps comply with Federal energy efficiency labeling requirements.
 
 (3) *Package labeling.* For purposes of labeling under this section, packaging for metal halide lamp fixtures consists of the plastic sheeting, or “shrink-wrap,” covering pallet loads of metal halide lamp fixtures as well as any containers in which such metal halide lamp fixtures are marketed individually or in small numbers. The encircled capital letter “E” on packages containing metal halide lamp fixtures must appear conspicuously, in color-contrasting ink, on the surface of the package on which printing or a label normally appears. If the package contains printing on more than one surface, the label must appear on the surface on which the product inside the package is described. The encircled capital letter “E” may be printed on the surface of the package, printed on a label containing other information, printed on a separate label, or indelibly stamped on the surface of the package. In the case of pallet loads containing metal halide lamp fixtures, the encircled capital letter “E” must appear conspicuously, in color-contrasting ink, on the plastic sheeting, unless clear plastic sheeting is used and the encircled capital letter “E” is legible underneath this packaging.
 
-[72 FR 49971, Aug. 29, 2007, as amended at 73 FR 63068, Oct. 23, 2008; 75 FR 41714, July 19, 2010; 76 FR 20236, Apr. 12, 2011; 78 FR 2209, Jan. 10, 2013; 82 FR 67299, Nov. 2, 2017]
+[72 FR 49971, Aug. 29, 2007, as amended at 73 FR 63068, Oct. 23, 2008; 75 FR 41714, July 19, 2010; 76 FR 20236, Apr. 12, 2011; 78 FR 2209, Jan. 10, 2013; 82 FR 67299, Nov. 2, 2017; 83 FR 14583, Apr. 5, 2018]

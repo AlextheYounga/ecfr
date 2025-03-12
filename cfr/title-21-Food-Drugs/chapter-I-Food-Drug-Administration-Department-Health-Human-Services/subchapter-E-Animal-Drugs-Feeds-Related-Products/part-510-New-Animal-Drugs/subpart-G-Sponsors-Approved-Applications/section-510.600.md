@@ -89,8 +89,7 @@ Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
 |                       Purina Animal Nutrition LLC, 1080 County Road F West, Shoreview, MN 55126-2910                       |     017800      |
 |                               Putney, Inc., One Monument Sq., suite 400, Portland, ME 04101                                |     026637      |
 |                              Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349                               |     076475      |
-|               Ridley Block Operations Inc., 424 North Riverfront Dr., P.O. Box 8500, Mankato, MN 56002-8500                |     068287      |
-|                Ridley U.S. Holdings, Inc., 424 North Riverfront Dr., P.O. Box 8500, Mankato, MN 56002-8500                 |     067949      |
+|                              Ridley USA, Inc., 111 W Cherry St., Suite 500, Mankato, MN 56001                              |     067949      |
 |                                  RSR Laboratories, Inc., 501 Fifth St., Bristol, TN 37620                                  |     058670      |
 |                          Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138                           |     021091      |
 |                          Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215                           |     058005      |
@@ -198,8 +197,7 @@ Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
 |     066794      |                       Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017.                        |
 |     066916      |                                    ECO LLC, 344 Nassau St., Princeton, NJ 08540.                                     |
 |     067188      |                                B.L. Mitchell, Inc., 103 Hwy. 82 E., Leland, MS 38756.                                |
-|     067949      |              Ridley U.S. Holdings, Inc., 424 N. Riverfront Dr., P.O. Box 8500, Mankato, MN 56002-8500.               |
-|     068287      |            Ridley Block Operations Inc., 424 North Riverfront Dr., P.O. Box 8500, Mankato, MN 56002-8500.            |
+|     067949      |                          Ridley USA, Inc., 111 W Cherry St., Suite 500, Mankato, MN 56001.                           |
 |     068330      |                            Cephazone Pharma, LLC, 250 East Bonita Ave., Pomona, CA 91767.                            |
 |     068504      |       Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia.        |
 |     069043      |                    Cronus Pharma LLC, 2 Tower Center Blvd., suite 1101, East Brunswick, NJ 08816.                    |

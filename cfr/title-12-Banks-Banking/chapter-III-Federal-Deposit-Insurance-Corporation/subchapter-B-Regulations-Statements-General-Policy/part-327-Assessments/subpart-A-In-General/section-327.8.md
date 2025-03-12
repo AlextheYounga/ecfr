@@ -80,4 +80,6 @@ For the purpose of this part 327:
 
 (y) *Reserve ratio of the DIF.* The reserve ratio as defined in 12 U.S.C. 1813(y)(3).
 
-[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9551, Mar. 4, 2009; 76 FR 10707, Feb. 25, 2011; 81 FR 32201, May 20, 2016]
+(z) *Well capitalized, adequately capitalized and undercapitalized.* For any insured depository institution other than an insured branch of a foreign bank, Well Capitalized, Adequately Capitalized and Undercapitalized have the same meaning as in: 12 CFR 6.4 (for national banks and federal savings associations), as either may be amended from time to time, except that 12 CFR 6.4(c)(1)(v) and (e), as they may be amended from time to time, shall not apply; 12 CFR 208.43 (for state member institutions), as either may be amended from time to time, except that 12 CFR 208.43(b)(1)(v) and (c), as they may be amended from time to time, shall not apply; and 12 CFR 324.403 (for state nonmember institutions and state savings associations), as either may be amended from time to time, except that 12 CFR 324.403(b)(1)(v) and (d), as they may be amended from time to time, shall not apply.
+
+[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9551, Mar. 4, 2009; 76 FR 10707, Feb. 25, 2011; 81 FR 32201, May 20, 2016; 83 FR 14568, Apr. 5, 2018]

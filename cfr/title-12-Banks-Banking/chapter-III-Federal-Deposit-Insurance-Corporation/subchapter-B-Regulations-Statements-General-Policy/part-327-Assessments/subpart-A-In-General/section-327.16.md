@@ -90,20 +90,19 @@ Definitions of Measures Used in the Financial Ratios Method
 
 Loan Mix Index Categories and Weighted Charge-Off Rate Percentages
 
-|                           |Weighted  <br/>charge-off  <br/>rate  <br/>percent|
-|---------------------------|--------------------------------------------------|
-|Construction & Development |                    4.4965840                     |
-|  Commercial & Industrial  |                    1.5984506                     |
-|          Leases           |                    1.4974551                     |
-|      Other Consumer       |                    1.4559717                     |
-|Loans to Foreign Government|                    1.33384093                    |
-|Real Estate Loans Residual |                    1.0169338                     |
-|  Multifamily Residential  |                    0.8847597                     |
-|  Nonfarm Nonresidential   |                     .7289274                     |
-|  I-4 Family Residential   |                    0.6973778                     |
-| Loans to Depository banks |                    0.5760532                     |
-| Agricultural Real Estate  |                    0.2376712                     |
-|        Agriculture        |                    0.2432737                     |
+|                          |Weighted  <br/>charge-off  <br/>rate  <br/>(percent)|
+|--------------------------|----------------------------------------------------|
+|Construction & Development|                     4.4965840                      |
+| Commercial & Industrial  |                     1.5984506                      |
+|          Leases          |                     1.4974551                      |
+|      Other Consumer      |                     1.4559717                      |
+|Real Estate Loans Residual|                     1.0169338                      |
+| Multifamily Residential  |                     0.8847597                      |
+|  Nonfarm Nonresidential  |                     0.7289274                      |
+|  I-4 Family Residential  |                     0.6973778                      |
+|Loans to Depository Banks |                     0.5760532                      |
+| Agricultural Real Estate |                     0.2376712                      |
+|       Agriculture        |                     0.2432737                      |
 
 (iii) *Implementation of CAMELS rating changes* - (A) *Composite rating change.* If, during an assessment period, a CAMELS composite rating change occurs in a way that changes the institution's initial base assessment rate, then the institution's initial base assessment rate for the portion of the assessment period prior to the change shall be determined using the assessment schedule for the appropriate CAMELS composite rating in effect before the change, including any minimum or maximum initial base assessment rates, and subject to adjustment pursuant to paragraphs (e)(1) and (2) of this section, as appropriate, and adjusted for actual assessment rates set by the Board under § 327.10(f). For the portion of the assessment period after the CAMELS composite rating change, the institution's initial base assessment rate shall be determined using the assessment schedule for the applicable CAMELS composite rating in effect, including any minimum or maximum initial base assessment rates, and subject to adjustment pursuant to paragraphs (e)(1) and (2) of this section, as appropriate, and adjusted for actual assessment rates set by the Board under § 327.10(f).
 
@@ -338,13 +337,7 @@ Cutoff Values for Loss Severity Measure
 
 (iv) *Risk category IV.* New small institutions in Supervisory Group C that are Undercapitalized will be assigned to Risk Category IV.
 
-(2) *Capital evaluations.* Each new small institution will receive one of the following three capital evaluations on the basis of data reported in the institution's Consolidated Reports of Condition and Income or Thrift Financial Report (or successor report, as appropriate) dated as of March 31 for the assessment period beginning the preceding January 1; dated as of June 30 for the assessment period beginning the preceding April 1; dated as of September 30 for the assessment period beginning the preceding July 1; and dated as of December 31 for the assessment period beginning the preceding October 1.
-
-(i) *Well capitalized.* A Well Capitalized institution is one that satisfies each of the following capital ratio standards: Total risk-based capital ratio, 10.0 percent or greater; tier 1 risk-based capital ratio, 8.0 percent or greater; leverage ratio, 5.0 percent or greater; and common equity tier 1 capital ratio, 6.5 percent or greater, and after January 1, 2018, if the institution is an insured depository institution subject to the enhanced supplementary leverage ratio standards under 12 CFR 6.4(c)(1)(iv)(B), 12 CFR 208.43(c)(1)(iv)(B), or 12 CFR 324.403(b)(1)(vi), as each may be amended from time to time, a supplementary leverage ratio of 6.0 percent or greater.
-
-(ii) *Adequately capitalized.* An Adequately Capitalized institution is one that does not satisfy the standards of Well Capitalized in paragraph (c)(2)(i) of this section but satisfies each of the following capital ratio standards: Total risk-based capital ratio, 8.0 percent or greater; tier 1 risk-based capital ratio, 6.0 percent or greater; leverage ratio, 4.0 percent or greater; and common equity tier 1 capital ratio, 4.5 percent or greater, and after January 1, 2018, if the institution is an insured depository institution subject to the advanced approaches risk-based capital rules under 12 CFR 6.4(c)(2)(iv)(B), 12 CFR 208.43(c)(2)(iv)(B), or 12 CFR 324.403(b)(2)(vi), as each may be amended from time to time, a supplementary leverage ratio of 3.0 percent or greater.
-
-(iii) *Undercapitalized.* An undercapitalized institution is one that does not qualify as either Well Capitalized or Adequately Capitalized under paragraphs (c)(2)(i) and (ii) of this section.
+(2) *Capital evaluations.* Each new small institution will receive one of the following three capital evaluations on the basis of data reported in the institution's Consolidated Reports of Condition and Income or Thrift Financial Report (or successor report, as appropriate) dated as of the last day of each assessment period: Well Capitalized, Adequately Capitalized, or Undercapitalized as defined in § 327.8(z) of this chapter.
 
 (3) *Supervisory evaluations.* Each new small institution will be assigned to one of three Supervisory Groups based on the Corporation's consideration of supervisory evaluations provided by the institution's primary federal regulator. The supervisory evaluations include the results of examination findings by the primary federal regulator, as well as other information that the primary federal regulator determines to be relevant. In addition, the Corporation will take into consideration such other information (such as state examination findings, as appropriate) as it determines to be relevant to the institution's financial condition and the risk posed to the Deposit Insurance Fund. The three Supervisory Groups are:
 
@@ -448,4 +441,4 @@ Cutoff Values for Loss Severity Measure
 
 (h) *Assessment rates for bridge depository institutions and conservatorships.* Institutions that are bridge depository institutions under 12 U.S.C. 1821(n) and institutions for which the Corporation has been appointed or serves as conservator shall, in all cases, be assessed at the minimum initial base assessment rate applicable to established small institutions, which shall not be subject to adjustment under paragraph (b)(3) or (e)(1), (2), or (3) of this section.
 
-[81 FR 32207, May 20, 2016]
+[81 FR 32207, May 20, 2016, as amended at 83 FR 14568, Apr. 5, 2018]
