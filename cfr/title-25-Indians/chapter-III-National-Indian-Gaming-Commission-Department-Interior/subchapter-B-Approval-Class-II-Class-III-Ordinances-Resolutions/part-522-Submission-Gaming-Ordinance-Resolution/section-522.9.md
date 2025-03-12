@@ -1,3 +1,3 @@
-##### § 522.9 Substitute approval. #####
+##### § 522.9 Publication of class III ordinance and approval. #####
 
-If the Chairman fails to approve or disapprove an ordinance or resolution submitted under § 522.2 of this part within 90 days after the date of submission to the Chairman, a tribal ordinance or resolution shall be considered to have been approved by the Chairman but only to the extent that such ordinance or resolution is consistent with the provisions of the Act and this chapter.
+The Chair shall publish notice of approval of class III tribal gaming ordinances or resolutions in the Federal Register, along with the Chair's approval thereof.

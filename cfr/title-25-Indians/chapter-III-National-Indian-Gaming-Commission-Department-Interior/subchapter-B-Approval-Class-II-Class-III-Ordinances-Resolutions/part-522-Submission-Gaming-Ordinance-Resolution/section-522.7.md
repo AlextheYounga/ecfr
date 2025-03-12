@@ -1,11 +1,9 @@
-##### § 522.7 Disapproval of a class III ordinance. #####
+##### § 522.7 Approval requirements for class III ordinances. #####
 
-(a) Notwithstanding compliance with the requirements of § 522.6 of this part and no later than 90 days after a submission under § 522.2 of this part, the Chairman shall disapprove an ordinance or resolution and notify a tribe of its right of appeal under part 582 of this chapter if the Chairman determines that -
+No later than 90 days after the submission to the Chair under § 522.2, the Chair shall approve the class III ordinance or resolution if:
 
-(1) A tribal governing body did not adopt the ordinance or resolution in compliance with the governing documents of a tribe; or
+(a) A tribe meets the submission requirements contained in § 522.2;
 
-(2) A tribal governing body was significantly and unduly influenced in the adoption of the ordinance or resolution by a person having a direct or indirect financial interest in a management contract, a person having management responsibility for a management contract, or their agents.
+(b) The ordinance or resolution meets the requirements contained in § 522.5(b)(2) through (7); and
 
-(b) A disapproval shall be effective immediately unless appealed under part 582 of this chapter.
-
-[58 FR 5810, Jan. 22, 1993, as amended at 80 FR 31994, June 5, 2015]
+(c) The tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation unless it elects to allow individually owned gaming under § 522.11.

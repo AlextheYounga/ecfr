@@ -1,7 +1,5 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 87 FR 57789, Sept. 21, 2022.
-
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
 (b) The CPSC has published the requirements for accreditation for third party conformity assessment bodies to assess conformity for the following CPSC rules or test methods:
@@ -219,6 +217,10 @@ Link to an amendment published at 87 FR 57789, Sept. 21, 2022.
 (49) 16 CFR part 1239, Safety Standard for Gates and Enclosures.
 
 (50) 16 CFR part 1241, Safety Standard for Crib Mattresses.
+
+(51) [Reserved]
+
+(52) 16 CFR part 1262, Safety Standard for Magnets.
 
 (c) The Director of the Federal Register approves the incorporations by reference in paragraph (b) of this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect a copy of the standards incorporated in this section at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

@@ -1,5 +1,7 @@
 ##### § 622.385 Commercial trip limits. #####
 
+Link to an amendment published at 87 FR 63966, Oct. 21, 2022.
+
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. Except for Atlantic migratory group Spanish mackerel harvested by gillnet, as specified in § 622.377(b)(2)(vi), a species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
 (a) *King mackerel* - (1) *Atlantic migratory group.* The following trip limits apply to vessels for which commercial permits for king mackerel have been issued, as required under § 622.370(a)(1):

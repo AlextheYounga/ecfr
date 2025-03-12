@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 87 FR 62198, Oct. 13, 2022.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -40,11 +38,11 @@ Link to an amendment published at 87 FR 62198, Oct. 13, 2022.
 
 (iii) TSU, under the provisions of § 740.13(a) and (c).
 
-(9) The item is identified in paragraph (a)(9)(i) of this section, being exported, reexported, or transferred (in-country) to or within the People's Republic of China (PRC), and the license exception is other than: RPL (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.10, including § 740.10(a)(3)(v), which prohibits exports and reexports of replacement parts to countries in Country Group E:1 (see supplement no. 1 to this part)); GOV, restricted to eligibility under the provisions of § 740.11(b)(2)(ii); or TSU (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.13(a) and (c). Items restricted to eligibility only for the foregoing license exceptions are:
+(9) The item is identified in paragraphs (a)(9)(i) and (ii) of this section, being exported, reexported, or transferred (in-country) to or within the People's Republic of China (PRC), and the license exception is other than: RPL (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.10, including § 740.10(a)(3)(v), which prohibits exports and reexports of replacement parts to countries in Country Group E:1 (see supplement no. 1 to this part)); GOV, restricted to eligibility under the provisions of § 740.11(b)(2)(ii); or TSU (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.13(a) and (c). Items restricted to eligibility only for the foregoing license exceptions are:
 
-(i) Controlled under ECCNs 3B090, or associated software and technology in 3D001, or 3E001; or
+(i) Controlled under ECCNs 3A090, 3B090, 4A090, or associated software and technology in 3D001, 3E001, 4D090, and 4E001; or
 
-(ii) [Reserved]
+(ii) A computer, integrated circuit, “electronic assembly” or “component” specified elsewhere on the CCL which meets or exceeds the performance parameters of ECCN 3A090 or 4A090.
 
 (10) The commodity being exported or reexported is subject to the license requirements of § 742.11 of the EAR.
 

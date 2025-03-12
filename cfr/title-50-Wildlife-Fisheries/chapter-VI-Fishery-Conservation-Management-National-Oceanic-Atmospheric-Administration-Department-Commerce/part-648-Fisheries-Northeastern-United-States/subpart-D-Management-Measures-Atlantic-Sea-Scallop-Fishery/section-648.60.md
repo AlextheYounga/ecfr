@@ -1,8 +1,8 @@
 ##### § 648.60 Sea Scallop Rotational Areas. #####
 
-(a) {Reserved]
+(a) [Reserved]
 
-(b) *Closed Area II Scallop Rotational Area* - (1) *Closed Area II Scallop Rotational Area boundaries.* The Closed Area II Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
+(b) *Closed Area II Scallop Rotational Area*—(1) *Closed Area II Scallop Rotational Area boundaries.* The Closed Area II Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 1 to Paragraph (b)(1)
 

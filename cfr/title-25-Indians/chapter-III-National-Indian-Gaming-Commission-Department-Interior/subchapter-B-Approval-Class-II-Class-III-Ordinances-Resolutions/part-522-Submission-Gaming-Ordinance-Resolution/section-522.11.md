@@ -1,3 +1,15 @@
-##### § 522.11 Individually owned class II gaming operations operating on September 1, 1986. #####
+##### § 522.11 Individually owned class II and class III gaming operations other than those operating on September 1, 1986. #####
 
-For licensing of individually owned gaming operations operating on September 1, 1986, under § 502.3(e) of this chapter, a tribal ordinance shall contain the same requirements as those in § 522.10(a)-(d) of this part.
+For licensing of individually owned gaming operations other than those operating on September 1, 1986 (addressed under § 522.12), a tribal ordinance shall require:
+
+(a) That the gaming operation be licensed and regulated under an ordinance or resolution approved by the Chair;
+
+(b) That income to the tribe from an individually owned gaming operation be used only for the purposes listed in § 522.4(b)(2);
+
+(c) That not less than 60 percent of the net revenues be income to the tribe;
+
+(d) That the owner pay an assessment to the Commission under § 514.1 of this chapter;
+
+(e) Licensing standards that are at least as restrictive as those established by State law governing similar gaming within the jurisdiction of the surrounding State; and
+
+(f) Denial of a license for any person or entity that would not be eligible to receive a State license to conduct the same activity within the jurisdiction of the surrounding State. State law standards shall apply with respect to purpose, entity, pot limits, and hours of operation.

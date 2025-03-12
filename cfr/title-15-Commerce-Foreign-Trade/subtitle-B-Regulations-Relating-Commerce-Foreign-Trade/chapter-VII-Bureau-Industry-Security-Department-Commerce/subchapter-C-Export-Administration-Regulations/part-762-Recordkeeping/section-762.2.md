@@ -1,7 +1,5 @@
 ##### § 762.2 Records to be retained. #####
 
-Link to an amendment published at 87 FR 62207, Oct. 13, 2022.
-
 (a) *Records required to be retained.* The records required to be retained under this part 762 include the following:
 
 (1) Export control documents as defined in part 772 of the EAR, except parties submitting documents electronically to BIS via the SNAP-R system are not required to retain copies of documents so submitted;
@@ -34,63 +32,65 @@ Link to an amendment published at 87 FR 62207, Oct. 13, 2022.
 
 (2) § 734.4(g), *de minimis* calculation (method);
 
-(3) Part 736, General Prohibitions;
+(3) Section 734.9(h), Foreign Direct Product (FDP) supply chain certification;
 
-(4) § 740.1, Introduction (to License Exceptions);
+(4) Part 736, General Prohibitions;
 
-(5) § 740.9(a)(3)(i)(B), Tools of trade: Temporary exports, reexports, and transfers (in country) of technology by U.S. persons (TMP);
+(5) § 740.1, Introduction (to License Exceptions);
 
-(6) § 740.10(c), Servicing and replacement of parts and equipment (RPL);
+(6) § 740.9(a)(3)(i)(B), Tools of trade: Temporary exports, reexports, and transfers (in country) of technology by U.S. persons (TMP);
 
-(7) § 740.11(b)(2)(iii) and (iv), Exports, reexports and transfers (in-country) made for or on behalf of a department or agency of the U.S. Government and Items exported at the direction of the U.S. Department of Defense (GOV);
+(7) § 740.10(c), Servicing and replacement of parts and equipment (RPL);
 
-(8) § 740.12, Humanitarian donations (GFT);
+(8) § 740.11(b)(2)(iii) and (iv), Exports, reexports and transfers (in-country) made for or on behalf of a department or agency of the U.S. Government and Items exported at the direction of the U.S. Department of Defense (GOV);
 
-(9) § 740.13(h), Technology and software - unrestricted (TSU);
+(9) § 740.12, Humanitarian donations (GFT);
 
-(10) § 740.20(g), Responses to License Exception STA eligibility requests for “600 series” end items (STA);
+(10) § 740.13(h), Technology and software—unrestricted (TSU);
 
-(11) § 743.1, Wassenaar reports;
+(11) § 740.20(g), Responses to License Exception STA eligibility requests for “600 series” end items (STA);
 
-(12) § 743.2, High Performance Computers;
+(12) § 743.1, Wassenaar reports;
 
-(13) § 743.4(c)(1) and (c)(2), Conventional arms reporting;
+(13) § 743.2, High Performance Computers;
 
-(14) § 745.1, Annual reports;
+(14) § 743.4(c)(1) and (c)(2), Conventional arms reporting;
 
-(15) § 745.2, End-use certificates;
+(15) § 745.1, Annual reports;
 
-(16) § 746.3 Iraq;
+(16) § 745.2, End-use certificates;
 
-(17) [Reserved]
+(17) § 746.3 Iraq;
 
-(18) § 748.1(d)(2), Procedure for requesting authorization to file paper applications, notifications, or requests;
+(18) [Reserved]
 
-(19) § 748.4(b), Disclosure of parties on license applications and the power of attorney;
+(19) § 748.1(d)(2), Procedure for requesting authorization to file paper applications, notifications, or requests;
 
-(20) § 748.6, General instructions for license applications;
+(20) § 748.4(b), Disclosure of parties on license applications and the power of attorney;
 
-(21) § 748.9, Support documents for license applications;
+(21) § 748.6, General instructions for license applications;
 
-(22) § 748.10, PRC End-User Statement;
+(22) § 748.9, Support documents for license applications;
 
-(23) § 748.11, Statement by Ultimate Consignee and Purchaser;
+(23) § 748.10, PRC End-User Statement;
 
-(24) § 748.12, Firearms Convention (FC) Import Certificate;
+(24) § 748.11, Statement by Ultimate Consignee and Purchaser;
 
-(25) [Reserved]
+(25) § 748.12, Firearms Convention (FC) Import Certificate;
 
-(26) Supplement No. 2 to Part 748 paragraph (c)(2), Security Safeguard Plan requirement*;*
+(26) [Reserved]
 
-(27) § 750.7, Issuance of license and acknowledgment of conditions;
+(27) Supplement No. 2 to Part 748 paragraph (c)(2), Security Safeguard Plan requirement*;*
 
-(28) § 750.8, Revocation or suspension of license;
+(28) § 750.7, Issuance of license and acknowledgment of conditions;
 
-(29) § 750.9, Duplicate licenses;
+(29) § 750.8, Revocation or suspension of license;
 
-(30) § 750.10, Transfer of licenses for export;
+(30) § 750.9, Duplicate licenses;
 
-(31)-(39) [Reserved]
+(31) § 750.10, Transfer of licenses for export;
+
+(32)-(39) [Reserved]
 
 (40) § 754.4, Unprocessed western red cedar;
 
@@ -122,7 +122,7 @@ Link to an amendment published at 87 FR 62207, Oct. 13, 2022.
 
 (54) § 748.13, Certain Hong Kong import and export licenses.
 
-(c) *Special recordkeeping requirement* - (1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
+(c) *Special recordkeeping requirement*—(1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
 
 (i) Date of export or reexport and related details (including means of transport);
 

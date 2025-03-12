@@ -1,7 +1,5 @@
 ##### § 772.1 Definitions of terms as used in the Export Administration Regulations (EAR). #####
 
-Link to an amendment published at 87 FR 62208, Oct. 13, 2022.
-
 The following are definitions of terms as used in the Export Administration Regulations (EAR). In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. Those terms in quotation marks refer to terms used on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR). Parenthetical references following the terms in quotation marks (i.e., (Cat 5)) refer to the CCL category in which that term is found. If a term is used in only one Export Control Classification Number (ECCN) on the CCL, then that term will *not* appear in this part, but will be defined in the Related Definitions paragraph in the List of Items Controlled Section of that ECCN.
 
 *600 series.* ECCNs in the “xY6zz” format on the Commerce Control List (CCL) that control items on the CCL that were previously controlled on the U.S. Munitions List or that are covered by the Wassenaar Arrangement Munitions List (WAML). The “6” indicates the entry is a munitions entry on the CCL. The “x” represents the CCL category and “Y” the CCL product group. The “600 series” constitutes the munitions ECCNs within the larger CCL.
@@ -1221,6 +1219,16 @@ Note:
 *Super High Power Laser.* (SHPL) (Cat 6) - A “laser” capable of delivering (the total or any portion of) the output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
 
 *Superalloy.* (Cat 2 and 9) Nickel, cobalt, or iron base alloys having a stress rupture life greater than 1,000 hours at 400 MPa and an ultimate tensile strength greater than 850 MPa, at 922 K (649 °C) or higher.
+
+*Supercomputer.* (734, 744) A computing “system” having a collective maximum theoretical compute capacity of 100 or more double-precision (64-bit) petaflops or 200 or more single-precision (32-bit) petaflops within a 41,600 ft3 or smaller envelope.
+
+Note 1 to “Supercomputer”:
+
+The 41,600 ft3 envelope corresponds, for example, to a 4x4x6.5 ft rack size and therefore 6,400 ft2 of floor space. The envelope may include empty floor space between racks as well as adjacent floors for multi-floor systems.
+
+Note 2 to “Supercomputer”:
+
+Typically, a 'supercomputer' is a high-performance multi-rack system having thousands of closely coupled compute cores connected in parallel with networking technology and having a high peak power capacity requiring cooling elements. They are used for computationally intensive tasks including scientific and engineering work. Supercomputers may include shared memory, distributed memory, or a combination of both.
 
 *Superconductive.* (Cat 1, 3, 5P1, 6, and 8) - Materials, i.e., metals, alloys, or compounds that can lose all electrical resistance, i.e., that can attain infinite electrical conductivity and carry very large electrical currents without Joule heating.
 

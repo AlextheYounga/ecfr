@@ -14,7 +14,7 @@ In addition to definitions contained in the MMPA, and unless the context otherwi
 
 *Albacore tuna* means the species *Thunnus alalunga.*
 
-*Article of handicraft* means items made by an Indian, Aleut or Eskimo from the nonedible byproducts of fur seals taken for personal or family consumption which -
+*Article of handicraft* means items made by an Indian, Aleut or Eskimo from the nonedible byproducts of fur seals taken for personal or family consumption which—
 
 (1) Were commonly produced by Alaskan Natives on or before October 14, 1983;
 
@@ -76,9 +76,7 @@ In addition to definitions contained in the MMPA, and unless the context otherwi
 
 (3) Where reliable information has not been provided by the harvesting nation on the frequency of incidental mortality and serious injury of marine mammals caused by the commercial fishing operation, the Assistant Administrator may determine whether the likelihood of incidental mortality and serious injury is “remote” by evaluating information concerning factors such as fishing techniques, gear used, methods used to deter marine mammals, target species, seasons and areas fished, qualitative data from logbooks or fisher reports, stranding data, the species and distribution of marine mammals in the area, or other factors at the discretion of the Assistant Administrator. A foreign fishery will not be classified as an exempt fishery unless the Assistant Administrator has reliable information from the harvesting nation, or other information to support such a finding.
 
-*Exemption period* means the one-time, six-year period that commences January 1, 2017 and ends December 31, 2022, during which commercial fishing operations that are the source of exports of commercial fish and fish products to the United States will be exempt from the prohibitions of § 216.24(h)(1).
-
-*Export fishery* means a foreign commercial fishing operation determined by the Assistant Administrator to be the source of exports of commercial fish and fish products to the United States and to have more than a remote likelihood of incidental mortality and serious injury of marine mammals (as defined in the definition of an “exempt fishery”) in the course of its commercial fishing operations. Where reliable information has not been provided by the harvesting nation on the frequency of incidental mortality and serious injury of marine mammals caused by the commercial fishing operation, the Assistant Administrator may determine whether the likelihood of incidental mortality and serious injury is more than “remote” by evaluating information concerning factors such as fishing techniques, gear used, methods used to deter marine mammals, target species, seasons and areas fished, qualitative data from logbooks or fisher reports, stranding data, and the species and distribution of marine mammals in the area, or other factors at the discretion of the Assistant Administrator that may inform whether the likelihood of incidental mortality and serious injury of marine mammals caused by the commercial fishing operation is more than “remote.” Commercial fishing operations not specifically identified in the current List of Foreign Fisheries as either exempt or export fisheries are deemed to be export fisheries until the next List of Foreign Fisheries is published unless the Assistant Administrator has reliable information from the harvesting nation to properly classify the foreign commercial fishing operation. Additionally, the Assistant Administrator, may request additional information from the harvesting nation and may consider other relevant information as set forth in § 216.24(h)(3) about such commercial fishing operations and the frequency of incidental mortality and serious injury of marine mammals, to properly classify the foreign commercial fishing operation.
+*Exemption period* means the period during which commercial fishing operations that are the source of exports of commercial fish and fish products to the United States will be exempt from the prohibitions of § 216.24(h)(1). The exemption period extends through December 31, 2023.
 
 *Facility* means, in the context specific to captive marine mammals,: (1) One or more permanent primary enclosures used to hold marine mammals captive (i.e., pools, lagoons) and associated infrastructure (i.e., equipment and supplies necessary for the care and maintenance of marine mammals) where these enclosures are either located within the boundaries of a single contiguous parcel of land and water, or are grouped together within the same general area within which enclosure-to-enclosure transport is expected to be completed in less than one hour; or
 
@@ -186,11 +184,11 @@ In addition to definitions contained in the MMPA, and unless the context otherwi
 
 *Subsistence* means the use of marine mammals taken by Alaskan Natives for food, clothing, shelter, heating, transportation, and other uses necessary to maintain the life of the taker or those who depend upon the taker to provide them with such subsistence.
 
-*Subsistence uses* means the customary and traditional uses of fur seals taken by Pribilovians for direct personal or family consumption as food, shelter, fuel, clothing, tools or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fur seals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this definition -
+*Subsistence uses* means the customary and traditional uses of fur seals taken by Pribilovians for direct personal or family consumption as food, shelter, fuel, clothing, tools or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fur seals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this definition—
 
 (1) *Family* means all persons related by blood, marriage, or adoption, or any person living within a household on a permanent basis.
 
-(2) *Barter* means the exchange of fur seals or their parts, taken for subsistence uses -
+(2) *Barter* means the exchange of fur seals or their parts, taken for subsistence uses—
 
 (i) For other wildlife or fish or their parts, or
 
