@@ -1,7 +1,5 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
-Link to an amendment published at 85 FR 850, Jan. 8, 2020.
-
 (a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except for the following:
 
 (i) All or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (b) *Gear* - (1) *IFQ Fisheries.* Authorized fishing gear to harvest IFQ halibut and IFQ sablefish is defined in § 679.2.
 
-(i) *IFQ halibut.* IFQ halibut must not be harvested with trawl gear in any IFQ regulatory area, or with pot gear in any IFQ regulatory area in the BSAI.
+(i) *IFQ halibut.* IFQ halibut must not be harvested with trawl gear in any IFQ regulatory area.
 
 (ii) *IFQ sablefish.* IFQ sablefish must not be harvested with trawl gear in any IFQ regulatory area, or with pot-and-line gear in the GOA. A vessel operator using longline pot gear in the GOA to fish for IFQ sablefish must comply with the GOA sablefish longline pot gear requirements in paragraph (l) of this section.
 
@@ -274,17 +272,9 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (10) Paragraphs (j)(1) and (j)(9) of this section do not apply to any QS assigned to vessel category B, C, or D received by transfer after February 12, 2010, by an entity described in paragraph (j)(1) except a hired master may be used to harvest IFQ derived from QS that were consolidated under § 679.41(e)(2) or (e)(3) after February 12, 2010, and before December 1, 2014.
 
-(k) *Sablefish vessel clearance requirements* - (1) *Bering Sea or Aleutian Islands.* (i) *General.* Any vessel operator who fishes for IFQ sablefish in the Bering Sea or Aleutian Islands must possess a transmitting VMS transmitter while fishing for IFQ sablefish.
+(k) *Sablefish vessel clearance requirements* - (1) *Bering Sea or Aleutian Islands.* Any vessel operator who fishes for IFQ sablefish in the Bering Sea or Aleutian Islands must possess a transmitting VMS transmitter while fishing for IFQ sablefish. The operator of the vessel must comply with VMS requirements at § 679.28(f)(3) through (5).
 
-(ii) *VMS requirements.* (A) The operator of the vessel must comply with VMS requirements at § 679.28(f)(3), (f)(4), and (f)(5); and
-
-(B) The operator of the vessel must contact NMFS at 800-304-4846 (option 1) between 0600 and 0000 A.l.t. and receive a VMS confirmation number at least 72 hours prior to fishing for IFQ sablefish in the Bering Sea or Aleutian Islands.
-
-(2) *Gulf of Alaska.* (i) *General.* A vessel operator using longline pot gear to fish for IFQ sablefish in the Gulf of Alaska must possess a transmitting VMS transmitter while fishing for sablefish.
-
-(ii) *VMS requirements.* (A) The operator of the vessel must comply with VMS requirements at § 679.28(f)(3), (f)(4), and (f)(5); and
-
-(B) The operator of the vessel must contact NMFS at 800-304-4846 (option 1) between 0600 and 0000 A.l.t. and receive a VMS confirmation number at least 72 hours prior to using longline pot gear to fish for IFQ sablefish in the Gulf of Alaska.
+(2) *Gulf of Alaska.* A vessel operator using longline pot gear to fish for IFQ sablefish in the Gulf of Alaska must possess a transmitting VMS transmitter while fishing for sablefish. The operator of the vessel must comply with VMS requirements at § 679.28(f)(3) through (5).
 
 (l) *GOA sablefish longline pot gear requirements.* Additional regulations that implement specific requirements for any vessel operator who fishes for IFQ sablefish in the GOA using longline pot gear are set out under: § 300.61 Definitions, § 679.2 Definitions, § 679.5 Recordkeeping and reporting (R&R), § 679.7 Prohibitions, § 679.20 General limitations, § 679.23 Seasons, § 679.24 Gear limitations, and § 679.51 Observer requirements for vessels and plants.
 
@@ -381,5 +371,29 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 (i) Complete a longline and pot gear Daily Fishing Logbook (DFL) or Daily Cumulative Production Logbook (DCPL) as specified in § 679.5(c); and
 
 (ii) Comply with Vessel Monitoring System (VMS) requirements specified in paragraph (k)(2) of this section.
+
+(m) *BSAI halibut and sablefish pot gear requirements.* Additional regulations that implement specific requirements for any vessel operator who fishes for IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI using pot gear are set out under § 300.61 of this title and §§ 679.2, 679.5, 679.7, 679.20, 679.22, 679.24, 679.25, 679.28, 679.42, and 679.51.
+
+(1) *Applicability.* Any vessel operator who fishes for IFQ or CDQ halibut or IFQ or CDQ sablefish with pot gear in the BSAI must comply with the requirements of paragraph (m) of this section. The IFQ regulatory areas in the BSAI include 4B, 4C, 4D, and 4E and the portion of Area 4A in the Bering Sea Aleutian Islands west of 170°00′ W long.
+
+(2) *General.* To use pot gear to fish for IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI, a vessel operator must:
+
+(i) Retain IFQ or CDQ halibut caught in pot gear if sufficient halibut IFQ or CDQ is held by persons on board the vessel as specified in paragraph (m)(3) of this section; and
+
+(ii) Comply with other requirements as specified in paragraph (m)(4) of this section.
+
+(3) *Retention of halibut.* A vessel operator who fishes for IFQ or CDQ halibut or IFQ or CDQ sablefish using pot gear must retain IFQ or CDQ halibut if:
+
+(i) The IFQ or CDQ halibut is caught in any IFQ regulatory area in the BSAI in accordance with paragraph (m) of this section; and
+
+(ii) An IFQ or CDQ permit holder on board the vessel has unused halibut IFQ or CDQ for the IFQ regulatory area fished and IFQ vessel category.
+
+(4) *Other requirements.* A vessel operator who fishes for IFQ or CDQ halibut or IFQ or CDQ sablefish using pot gear in the BSAI must:
+
+(i) Complete a longline and pot gear Daily Fishing Logbook (DFL) or Daily Cumulative Production Logbook (DCPL) as specified in § 679.5(c); and
+
+(ii) Possess a transmitting VMS transmitter and comply with the VMS requirements at § 679.28(f)(3) through (5).
+
+(iii) Report pot gear information required when submitting a PNOL as described in § 679.5.
 
 [61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

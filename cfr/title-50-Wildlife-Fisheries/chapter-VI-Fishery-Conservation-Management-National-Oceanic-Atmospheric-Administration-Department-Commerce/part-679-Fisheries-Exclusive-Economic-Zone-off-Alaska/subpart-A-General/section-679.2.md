@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 85 FR 849, Jan. 8, 2020.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -272,6 +270,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (iv) For halibut harvested from any GOA reporting area, all longline pot gear, if the vessel operator is fishing for IFQ sablefish in accordance with § 679.42(l).
 
+(v) For halibut harvested from any IFQ regulatory area in the BSAI, all pot gear, if the vessel operator is fishing for IFQ or CDQ halibut in accordance with § 679.42.
+
 (5) *Hand troll gear* means one or more lines, with lures or hooks attached, drawn through the water behind a moving vessel, and retrieved by hand or hand-cranked reels or gurdies and not by any electrically, hydraulically, or mechanically powered device or attachment.
 
 (6) *Handline gear* means a hand-held line, with one or more hooks attached, that may only be operated manually.
@@ -321,6 +321,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 (i) *Biodegradable panel.* Each pot used to fish for groundfish must be equipped with a biodegradable panel at least 18 inches (45.72 cm) in length that is parallel to, and within 6 inches (15.24 cm) of, the bottom of the pot, and that is sewn up with untreated cotton thread of no larger size than No. 30.
 
 (ii) *Tunnel opening.* Each pot used to fish for groundfish must be equipped with rigid tunnel openings that are no wider than 9 inches (22.86 cm) and no higher than 9 inches (22.86 cm), or soft tunnel openings with dimensions that are no wider than 9 inches (22.86 cm).
+
+(iii) *Halibut retention exception.* If required to retain halibut when harvesting halibut from any IFQ regulatory area in the BSAI, vessel operators are exempt from requirements to comply with a tunnel opening for pots when fishing for IFQ or CDQ halibut or IFQ or CDQ sablefish in accordance with § 679.42(m).
 
 (16) *Pot-and-line gear* means a stationary, buoyed line with a single pot attached, or the taking of fish by means of such a device.
 

@@ -1,5 +1,7 @@
 ##### § 660.713 Drift gillnet fishery. #####
 
+Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
+
 (a) *Take Reduction Plan gear restrictions.* Gear restrictions resulting from the Pacific Offshore Cetacean Take Reduction Plan established under the authority of the Marine Mammal Protection Act of 1972 can be found at 50 CFR 229.31.
 
 (b) *Other gear restrictions.* (1) The maximum length of a drift gillnet on board a vessel shall not exceed 6,000 ft (1828 m).

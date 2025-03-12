@@ -1,7 +1,5 @@
 ##### § 300.61 Definitions. #####
 
-Link to an amendment published at 85 FR 848, Jan. 8, 2020.
-
 In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply.
 
 *Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part.
@@ -64,9 +62,11 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Fishing* means the taking, harvesting, or catching of fish, or any activity that can reasonably be expected to result in the taking, harvesting, or catching of fish, including:
 
-(1) The deployment of any amount or component part of setline gear anywhere in the maritime area; or
+(1) The deployment of any amount or component part of setline gear anywhere in the maritime area;
 
-(2) The deployment of longline pot gear as defined in § 679.2 of this title, or component part of that gear in Commission regulatory areas 2C, 3A, 3B, and that portion of Area 4A in the Gulf of Alaska west of Area 3B and east of 170°00′ W. long.
+(2) The deployment of longline pot gear as defined in § 679.2 of this title, or component part of that gear in Commission regulatory areas 2C, 3A, 3B, and that portion of Area 4A in the Gulf of Alaska west of Area 3B and east of 170°00′ W. long; or
+
+(3) The deployment of pot gear as defined in § 679.2 of this title in Commission regulatory areas 4B, 4C, 4D, and 4E and the portion of Area 4A in the Bering Sea Aleutian Islands west of 170°00′ W long.
 
 *Fishing week,* for purposes of § 300.65(d), means a time period that begins at 0001 hours, A.l.t., Monday morning and ends at 2400 hours, A.l.t., the following Sunday night.
 

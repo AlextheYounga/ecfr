@@ -1,7 +1,5 @@
 ##### § 679.22 Closures. #####
 
-Link to an amendment published at 85 FR 849, Jan. 8, 2020.
-
 (a) *BSAI* - (1) *Zone 1 (512) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 512 of Zone 1 in the Bering Sea subarea.
 
 (2) *Zone 1 (516) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 516 of Zone 1 in the Bering Sea Subarea during the period March 15 through June 15.
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 849, Jan. 8, 2020.
 
 (ii) *Catcher/processor restrictions.* A catcher/processor vessel authorized to fish for BSAI pollock under § 679.4 is prohibited from conducting directed fishing for pollock in the CVOA during the B pollock season defined at § 679.23(e)(2)(ii), unless it is directed fishing for Pollock CDQ.
 
-(6) *Pribilof Islands Habitat Conservation Zone.* Directed fishing for groundfish using trawl gear and directed fishing for Pacific cod using pot gear is prohibited at all times in the area defined in Figure 10 to this part as the Pribilof Islands Habitat Conservation Zone.
+(6) *Pribilof Islands Habitat Conservation Zone.* Directed fishing for groundfish using trawl gear or pot gear, or fishing for halibut using pot gear, is prohibited at all times in the area defined in Figure 10 to this part as the Pribilof Islands Habitat Conservation Zone.
 
 (7) *Steller sea lion protection areas, Bering Sea reporting areas.* (A) *Boundaries.* The Bogoslof area consists of all waters of area 518 as described in Figure 1 of this part south of a straight line connecting 55°00′ N lat./170°00′ W long., and 55°00′ N lat./168°11′4.75′ W long.;
 

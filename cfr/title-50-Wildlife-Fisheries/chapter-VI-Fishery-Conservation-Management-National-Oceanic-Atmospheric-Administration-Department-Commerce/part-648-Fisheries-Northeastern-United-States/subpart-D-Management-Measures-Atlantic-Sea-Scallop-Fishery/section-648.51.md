@@ -1,6 +1,6 @@
 ##### § 648.51 Gear and crew restrictions. #####
 
-Link to an amendment published at 85 FR 2324, Jan. 15, 2020.
+Link to an amendment published at 85 FR 2324, Jan. 15, 2020.Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 (a) *Trawl vessel gear restrictions.* Trawl vessels issued a limited access scallop permit under § 648.4(a)(2) while fishing under or subject to the DAS allocation program for scallops and authorized to fish with or possess on board trawl nets pursuant to § 648.51(f), any trawl vessels in possession of more than 40 lb (18.14 kg) of shucked, or 5 bu (176.2 L) of in-shell scallops in or from the EEZ, and any trawl vessels fishing for scallops in the EEZ, must comply with the following:
 

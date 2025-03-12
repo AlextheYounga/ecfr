@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 85 FR 849, Jan. 8, 2020.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -100,9 +98,9 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (20) *Anchoring in a habitat protection area.* Anchor any federally permitted vessel in any habitat protection area described in Tables 22, 23, and 26 of this part.
 
-(21) *VMS on vessels in the Aleutian Islands subarea.* Operate a federally permitted vessel in the Aleutian Islands subarea without an operable VMS and without complying with the requirements at § 679.28.
+(21) *VMS on vessels in the Aleutian Islands subarea.* Operate a federally permitted vessel in the Aleutian Islands subarea without an operable VMS and without complying with the requirements at § 679.28(f).
 
-(22) *VMS for non-pelagic trawl and dredge gear vessels in the GOA.* Operate a federally permitted vessel in the GOA with non-pelagic trawl or dredge gear onboard without an operable VMS and without complying with the requirements at § 679.28.
+(22) *VMS for non-pelagic trawl and dredge gear vessels in the GOA.* Operate a federally permitted vessel in the GOA with non-pelagic trawl or dredge gear onboard without an operable VMS and without complying with the requirements at § 679.28(f).
 
 (b) *Prohibitions specific to the GOA* - (1) *Southeast outside trawl closure.* Use trawl gear in the GOA east of 140° W long.
 
@@ -312,9 +310,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (6) *Landing.* (i) IFQ permit or IFQ hired master permit. Make an IFQ landing without an IFQ permit or IFQ hired master permit, as appropriate, in the name of the individual making the landing.
 
-(ii) Hired master, CDQ. Make a CDQ halibut landing without a CDQ hired master permit listing the name of the hired master.
-
-(iii) *Hired master, CDQ halibut.* Make a CDQ halibut landing without a CDQ hired master permit listing the name of the hired master.
+(ii) *Hired master, CDQ halibut.* Make a CDQ halibut landing without a CDQ hired master permit listing the name of the hired master.
 
 (7) Possess on a vessel or land IFQ sablefish concurrently with non-IFQ sablefish, except that CDQ sablefish may be possessed on a vessel and landed concurrently with IFQ sablefish.
 
@@ -386,6 +382,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 (24) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within seven days of deploying the gear to fish IFQ sablefish in the Western GOA regulatory area.
 
 (25) Operate a catcher vessel or a catcher/processor using longline pot gear to fish IFQ sablefish or IFQ halibut in the GOA and fail to use functioning VMS equipment as required in § 679.42(k)(2).
+
+(26) Operate a catcher vessel or a catcher/processor using pot gear to fish for IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI and fail to use functioning VMS equipment as required in § 679.42(m).
 
 (g) *North Pacific Observer Program - Observers.* (1) Forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with an observer.
 

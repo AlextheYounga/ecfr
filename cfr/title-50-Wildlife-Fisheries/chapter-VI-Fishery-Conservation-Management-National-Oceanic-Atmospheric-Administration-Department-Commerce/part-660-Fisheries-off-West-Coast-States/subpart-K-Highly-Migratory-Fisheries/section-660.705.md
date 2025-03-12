@@ -1,5 +1,7 @@
 ##### § 660.705 Prohibitions. #####
 
+Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Fish for HMS in the U.S. EEZ off the Pacific coast without a permit issued under § 660.707 for the use of authorized fishing gear.

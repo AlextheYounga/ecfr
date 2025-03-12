@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 85 FR 849, Jan. 8, 2020.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -37,7 +35,7 @@ Link to an amendment published at 85 FR 849, Jan. 8, 2020.
 
 (iv) Transfer information, including fish transferred out of the facility or off the vessel.
 
-(4) *Exemptions* - (i) *Catcher vessels less than 60 ft (18.3 m) LOA.* Except for vessels using longline pot gear as described in paragraph (c)(3)(i)(B)(*1*) of this section and the vessel activity report described at paragraph (k) of this section, the owner or operator of a catcher vessel less than 60 ft (18.3 m) LOA is not required to comply with the R&R requirements of this section.
+(4) *Exemptions* - (i) *Catcher vessels less than 60 ft (18.3 m) LOA.* Except for vessels using pot gear as described in paragraph (c)(3)(i)(B)(*1*) of this section and the vessel activity report described at paragraph (k) of this section, the owner or operator of a catcher vessel less than 60 ft (18.3 m) LOA is not required to comply with the R&R requirements of this section.
 
 (ii) *Catcher vessels that take groundfish in crab pot gear for use as crab bait on that vessel.* (A) Owners or operators of catcher vessels who, when crab is open anywhere or in the same area as an open crab season, take groundfish in crab pot gear for use as crab bait onboard their same vessels, and the bait is neither transferred nor sold, are not required to comply with R&R requirements of this section.
 
@@ -132,11 +130,11 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (*2*) Except as described in paragraph (f)(1)(ii) of this section, the operator of a catcher/processor that is required to have an FFP under § 679.4(b) and that is using longline or pot gear to harvest groundfish must use a combination of catcher/processor longline and pot gear DCPL and eLandings to record and report daily processor identification information, catch-by-set information, groundfish production data, and groundfish and prohibited species discard or disposition data.
 
-(B) *IFQ halibut, CDQ halibut, and IFQ sablefish fisheries.* (*1*) The operator of a catcher vessel less than 60 ft (18.3 m) LOA, using longline pot gear to harvest IFQ sablefish or IFQ halibut in the GOA must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section.
+(B) *IFQ or CDQ halibut, or IFQ or CDQ sablefish fisheries.* (*1*) The operator of a catcher vessel less than 60 ft (18.3 m) LOA, using longline pot gear to harvest IFQ sablefish or IFQ halibut in the GOA, or using pot gear to harvest IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI, must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section.
 
 (*2*) Except as described in paragraph (f)(1)(i) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA in the GOA must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section, when using longline gear or longline pot gear to harvest IFQ sablefish and when using gear composed of lines with hooks attached, setline gear (IPHC), or longline pot gear to harvest IFQ halibut.
 
-(*3*) Except as described in paragraph (f)(1)(i) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA in the BSAI must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section, when using hook-and-line gear or pot gear to harvest IFQ sablefish, and when using gear composed of lines with hooks attached or setline gear (IPHC) to harvest IFQ halibut or CDQ halibut.
+(*3*) Except as described in paragraph (f)(1)(i) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA in the BSAI must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section, when using hook-and-line gear or pot gear to harvest IFQ or CDQ sablefish, and when using pot gear or gear composed of lines with hooks attached or setline gear (IPHC) to harvest IFQ halibut or CDQ halibut.
 
 (*4*) Except as described in paragraph (f)(1)(ii) of this section, the operator of a catcher/processor in the GOA must use a combination of a catcher/processor longline and pot gear DCPL and eLandings according to paragraph (c)(3)(iv)(B)(*2*) of this section, when using longline gear or longline pot gear to harvest IFQ sablefish and when using gear composed of lines with hooks attached, setline gear (IPHC), or longline pot gear to harvest IFQ halibut.
 
@@ -1176,7 +1174,7 @@ CR Crab Regional Designations
 
 (H) Gear type used to harvest the IFQ sablefish or IFQ halibut (see Table 15 to this part); and
 
-(I) If using longline pot gear in the GOA, report the number of pots set, the number of pots lost, and the number of pots left deployed on the fishing grounds.
+(I) If using longline pot gear in the GOA or pot gear in the BSAI, report the number of pots set, the number of pots lost, and the number of pots left deployed on the fishing grounds.
 
 (iv) *Exemption* - (A) *Halibut.* An IFQ landing of halibut of 500 lb or less of IFQ weight determined pursuant to § 679.40(h) and concurrent with a legal landing of salmon harvested using hand troll gear or power troll gear is exempt from the PNOL required by this section.
 

@@ -1,8 +1,6 @@
 ##### § 679.51 Observer and Electronic Monitoring System requirements for vessels and plants. #####
 
-Link to an amendment published at 85 FR 850, Jan. 8, 2020.
-
-(a) *Observer requirements for vessels* - (1) *Groundfish and halibut fishery partial coverage category* - (i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut with hook-and-line gear or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
+(a) *Observer requirements for vessels*—(1) *Groundfish and halibut fishery partial coverage category*—(i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) A catcher vessel designated on an FFP under § 679.4(b)(1);
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iii) *Release from observer coverage.* The Observer Program may release a selected trip per paragraph (a)(1)(ii)(C) of this section or a selected vessel per paragraph (a)(1)(ii)(D) of this section, from observer coverage on a case-by-case basis.
 
-(2) *Groundfish and halibut fishery full observer coverage category* - (i) *Vessel classes in the full coverage category.* The following classes of vessels are in the full observer coverage category when harvesting halibut or when harvesting, receiving, or processing groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
+(2) *Groundfish and halibut fishery full observer coverage category*—(i) *Vessel classes in the full coverage category.* The following classes of vessels are in the full observer coverage category when harvesting halibut or when harvesting, receiving, or processing groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) Catcher/processors, except a catcher/processor placed in the partial observer coverage category under paragraph (a)(3) of this section;
 
@@ -68,7 +66,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (v) [Reserved]
 
-(vi) *Additional observer requirements* - (A) *CDQ fisheries.* The owner or operator of a vessel must comply with the following requirements each day that the vessel is used to catch, process, deliver, or receive CDQ groundfish.
+(vi) *Additional observer requirements*—(A) *CDQ fisheries.* The owner or operator of a vessel must comply with the following requirements each day that the vessel is used to catch, process, deliver, or receive CDQ groundfish.
 
 (*1*) *Catcher/processors using trawl gear and directed fishing for pollock CDQ in the BSAI and motherships taking deliveries from catcher vessels directed fishing for pollock CDQ in the BSAI.* See paragraph (a)(2)(vi)(B)(*2*) of this section.
 
@@ -80,7 +78,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (*5*) *Motherships.* A mothership that receives unsorted codends from catcher vessels groundfish CDQ fishing must have at least two observers aboard the mothership, at least one of whom must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
-(B) *BSAI pollock fisheries* - (*1*) *Listed AFA catcher/processors, catcher/processors designated on listed AFA catcher/processor permits, and AFA motherships.* The owner or operator of a listed AFA catcher/processor, a catcher/processor designated on a listed AFA catcher/processor permit, or an AFA mothership must have aboard at least two observers, at least one of whom must be endorsed as a lead level 2 observer, for each day that the vessel is used to catch, process, or receive groundfish. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
+(B) *BSAI pollock fisheries*—(*1*) *Listed AFA catcher/processors, catcher/processors designated on listed AFA catcher/processor permits, and AFA motherships.* The owner or operator of a listed AFA catcher/processor, a catcher/processor designated on a listed AFA catcher/processor permit, or an AFA mothership must have aboard at least two observers, at least one of whom must be endorsed as a lead level 2 observer, for each day that the vessel is used to catch, process, or receive groundfish. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
 (*2*) *Pollock CDQ catcher/processors and motherships.* The owner or operator of a catcher/processor or mothership used to catch, process, or receive pollock CDQ must comply with the observer coverage requirements in paragraph (a)(2)(vi)(B)(*1*) of this section for each day that the vessel is used to catch, process, or receive pollock CDQ.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (C) *Amendment 80 vessels and catcher/processors not listed in § 679.4(1)(2)(i) and using trawl gear in the BSAI.* All Amendment 80 vessels using any gear but dredge gear while directed fishing for scallops and catcher/processors not listed in § 679.4(1)(2)(i) and using trawl gear in the BSAI must have aboard at least two observers for each day that the vessel is used to catch, process, or receive groundfish harvested in a federally managed or parallel groundfish fishery. At least one observer must be endorsed as a lead level 2 observer. More than two observers are required if the observer workload restriction would otherwise preclude sampling as required.
 
-(D) *Catcher/processors participating in the Rockfish Program* - (*1*) *Rockfish cooperative.* A catcher/processor that is named on an LLP license that is assigned to a rockfish cooperative and is fishing under a CQ permit must have at least two observers aboard for each day that the vessel is used to catch or process fish in the Central GOA from May 1 through the earlier of November 15 or the effective date and time of an approved rockfish cooperative termination of fishing declaration. At least one observer must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
+(D) *Catcher/processors participating in the Rockfish Program*—(*1*) *Rockfish cooperative.* A catcher/processor that is named on an LLP license that is assigned to a rockfish cooperative and is fishing under a CQ permit must have at least two observers aboard for each day that the vessel is used to catch or process fish in the Central GOA from May 1 through the earlier of November 15 or the effective date and time of an approved rockfish cooperative termination of fishing declaration. At least one observer must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
 (*2*) *Rockfish sideboard fishery for catcher/processors in a rockfish cooperative.* A catcher/processor that is subject to a sideboard limit as described under § 679.82(e) must have at least two observers aboard for each day that the vessel is used to harvest or process fish in the West Yakutat District, Central GOA, or Western GOA management areas from July 1 through July 31. At least one observer must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
@@ -102,7 +100,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (F) *Halibut deck sorting.* Vessels subject to § 679.120 must have at least two observers aboard at all times when halibut deck sorting may occur; one observer must be endorsed as a lead level 2 observer. More than two observers are required if the observer workload restriction would otherwise preclude sampling as required.
 
-(3) *Catcher/processor placement in the partial observer coverage category for a year* - (i) *Definitions.* For purposes of this paragraph (a)(3), these terms are defined as follows:
+(3) *Catcher/processor placement in the partial observer coverage category for a year*—(i) *Definitions.* For purposes of this paragraph (a)(3), these terms are defined as follows:
 
 (A) *Average weekly groundfish production* means the annual groundfish round weight production estimate for a catcher/processor, divided by the number of separate weeks during which production occurred, as determined by production reports, excluding any groundfish caught using trawl gear.
 
@@ -136,7 +134,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (vii) *Appeal.* If the owner of a catcher/processor wishes to appeal NMFS' denial of a request to place a catcher/processor in the partial observer coverage category, the owner may appeal the determination under the appeals procedure set out at 15 CFR part 906.
 
-(4) *BSAI trawl catcher vessel placement in the full observer coverage category for one year* - (i) *Applicability.* The owner of a catcher vessel in the partial observer coverage category under paragraph (a)(1)(i) of this section may request to be placed in the full observer coverage category for all directed fishing for groundfish using trawl gear in the BSAI for a calendar year.
+(4) *BSAI trawl catcher vessel placement in the full observer coverage category for one year*—(i) *Applicability.* The owner of a catcher vessel in the partial observer coverage category under paragraph (a)(1)(i) of this section may request to be placed in the full observer coverage category for all directed fishing for groundfish using trawl gear in the BSAI for a calendar year.
 
 (ii) *How to request full observer coverage for one year.* A trawl catcher vessel owner must complete a full observer coverage request and submit it to NMFS using ODDS. ODDS is described in paragraph (a)(1)(ii) of this section.
 
@@ -148,7 +146,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (vi) *Appeal.* If the owner of a trawl catcher vessel wishes to appeal NMFS' denial of a request to place a trawl catcher vessel in the full observer coverage category, the owner may appeal the determination under the appeals procedure set out at 15 CFR part 906.
 
-(b) *Observer requirements for shoreside processors and stationary floating processors* - (1) *Shoreside processor and stationary floating processor partial observer coverage category.* (i) Unless otherwise specified in paragraph (b)(2) of this section, a shoreside processor or a stationary floating processor designated or required to be designated on an FPP under § 679.4(f)(1) is in the partial observer coverage category when receiving or processing groundfish harvested in federally managed or parallel groundfish fisheries, as defined at § 679.2.
+(b) *Observer requirements for shoreside processors and stationary floating processors*—(1) *Shoreside processor and stationary floating processor partial observer coverage category.* (i) Unless otherwise specified in paragraph (b)(2) of this section, a shoreside processor or a stationary floating processor designated or required to be designated on an FPP under § 679.4(f)(1) is in the partial observer coverage category when receiving or processing groundfish harvested in federally managed or parallel groundfish fisheries, as defined at § 679.2.
 
 (ii) *Coverage.* The manager of a shoreside processor or stationary floating processor must provide observers access to unsorted and sorted catch any time an observer is present at the facility.
 
@@ -166,13 +164,13 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (3) Vessel, shoreside processor, and stationary floating processor owners and operators, as well as observers and observer providers, may contact NMFS in writing to request assistance in improving observer data quality and resolving observer sampling issues. Requests may be submitted to: NMFS Observer Program, 7600 Sand Point Way NE., Seattle, WA 98115-0070 or transmitted by facsimile to 206-526-4066.
 
-(d) *Procurement of observer services* - (1) *Full coverage category.* (i) The owner of a vessel, shoreside processor, or stationary floating processor required to have full observer coverage under paragraphs (a)(2) and (b)(2) of this section must arrange and pay for observer services from a permitted observer provider.
+(d) *Procurement of observer services*—(1) *Full coverage category.* (i) The owner of a vessel, shoreside processor, or stationary floating processor required to have full observer coverage under paragraphs (a)(2) and (b)(2) of this section must arrange and pay for observer services from a permitted observer provider.
 
 (ii) The owner of a vessel, shoreside processor, or stationary floating processor is required to arrange and pay for observer services directly from NMFS when the agency has determined and notified them under paragraph (c) of this section that the vessel, shoreside processor, or stationary floating processor shall use a NMFS employee or individual authorized by NMFS in lieu of, or in addition to, an observer provided through a permitted observer provider to satisfy requirements under paragraphs (a)(2) and (b)(2) of this section or for other conservation and management purposes.
 
 (2) *Partial coverage category.* The owner of a vessel in the partial observer coverage category per paragraph (a)(1) of this section must comply with instructions provided by ODDS to procure observer coverage for the required duration.
 
-(e) *Responsibilities* - (1) *Vessel responsibilities.* An operator of a vessel required to carry one or more observers must:
+(e) *Responsibilities*—(1) *Vessel responsibilities.* An operator of a vessel required to carry one or more observers must:
 
 (i) *Accommodations and food.* Provide, at no cost to observers or the United States, accommodations and food on the vessel for the observer or observers that are equivalent to those provided for officers, engineers, foremen, deck-bosses, or other management level personnel of the vessel.
 
@@ -186,7 +184,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (*3*) A valid certificate of inspection pursuant to 46 U.S.C. 3311.
 
-(iii) *Communications and observer data entry* - (A) *Observer use of equipment.* Allow an observer to use the vessel's communications equipment and personnel, on request, for the confidential entry, transmission, and receipt of work-related messages, at no cost to the observer or the United States.
+(iii) *Communications and observer data entry*—(A) *Observer use of equipment.* Allow an observer to use the vessel's communications equipment and personnel, on request, for the confidential entry, transmission, and receipt of work-related messages, at no cost to the observer or the United States.
 
 (B) The operator of a catcher/processor (except for a catcher/processor placed in the partial observer coverage category under paragraph (a)(3) of this section), mothership, or catcher vessel 125 ft LOA or longer (except for a catcher vessel fishing for groundfish with pot gear) must provide the following equipment, software and data transmission capabilities:
 
@@ -242,7 +240,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (A) *Observer use of equipment.* Allowing observers to use the shoreside processor's or stationary floating processor's communication equipment and personnel, on request, for the entry, transmission, and receipt of work-related messages, at no cost to the observers or the United States.
 
-(B) *Communication equipment requirements* - (*1*) *Observer access to computer.* Making a computer available for use by the observer. This computer must be connected to a communication device that provides a point-to-point connection to the NMFS host computer.
+(B) *Communication equipment requirements*—(*1*) *Observer access to computer.* Making a computer available for use by the observer. This computer must be connected to a communication device that provides a point-to-point connection to the NMFS host computer.
 
 (*2*) *NMFS-supplied software.* Ensuring that the shoreside or stationary floating processor specified in paragraph (e)(2) of this section has installed the most recent release of NMFS data entry software provided by the Regional Administrator, or other approved software.
 
@@ -262,7 +260,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (f) *Electronic monitoring system requirements for vessels that use nontrawl gear.* Vessels that use nontrawl gear in the partial coverage category in paragraph (a)(1)(i) of this section may be eligible for EM coverage instead of observer coverage.
 
-(1) *Vessel placement in the EM selection pool* - (i) *Applicability.* The owner or operator of a vessel that uses nontrawl gear in the partial coverage category under paragraph (a)(1)(i) of this section may request to be placed in the EM selection pool.
+(1) *Vessel placement in the EM selection pool*—(i) *Applicability.* The owner or operator of a vessel that uses nontrawl gear in the partial coverage category under paragraph (a)(1)(i) of this section may request to be placed in the EM selection pool.
 
 (ii) *How to request placement in the EM selection pool.* A vessel owner or operator must complete an EM request and submit it to NMFS using ODDS. Access to ODDS is available through the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.* ODDS is described in paragraph (a)(1)(ii) of this section.
 
@@ -278,7 +276,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (vii) *Appeal.* If the vessel owner wishes to appeal NMFS' denial of a request to place the vessel in the EM selection pool, the owner may appeal the determination under the appeals procedure set out at 15 CFR part 906.
 
-(viii) *Duration.* Once NMFS approves a vessel for the EM selection pool, that vessel will remain in the EM selection pool until -
+(viii) *Duration.* Once NMFS approves a vessel for the EM selection pool, that vessel will remain in the EM selection pool until—
 
 (A) NMFS disapproves the VMP under paragraph (f)(4) of this section;
 
@@ -290,7 +288,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (x) *Deadline to submit a request to leave the EM selection pool.* A vessel owner or operator must submit a request to leave the EM selection pool by November 1 of the year prior to the calendar year in which the vessel would be placed in observer coverage.
 
-(2) *Notification of EM selection* - (i) Prior to embarking on each fishing trip, the operator of a vessel in the EM selection pool with a NMFS-approved VMP must register the anticipated trip with ODDS.
+(2) *Notification of EM selection*—(i) Prior to embarking on each fishing trip, the operator of a vessel in the EM selection pool with a NMFS-approved VMP must register the anticipated trip with ODDS.
 
 (ii) ODDS will notify the vessel operator whether the trip is selected for EM coverage and provide a receipt number corresponding to this notification. Trip registration is complete when the vessel operator receives the receipt number.
 
@@ -364,4 +362,4 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iv) If an EM system malfunction occurs during a fishing trip that does not allow the recording of retrieval location information and imagery of catch as described in the vessel's VMP, the vessel operator must cease fishing and contact OLE immediately.
 
-[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019]
+[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020]

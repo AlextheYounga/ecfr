@@ -1,6 +1,6 @@
 ##### § 648.80 NE Multispecies regulated mesh areas and restrictions on gear and methods of fishing. #####
 
-Link to an amendment published at 85 FR 2324, Jan. 15, 2020.
+Link to an amendment published at 85 FR 2324, Jan. 15, 2020.Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 Except as provided in § 648.17, all vessels must comply with the following minimum mesh size, gear and methods of fishing requirements, unless otherwise exempted or prohibited.
 

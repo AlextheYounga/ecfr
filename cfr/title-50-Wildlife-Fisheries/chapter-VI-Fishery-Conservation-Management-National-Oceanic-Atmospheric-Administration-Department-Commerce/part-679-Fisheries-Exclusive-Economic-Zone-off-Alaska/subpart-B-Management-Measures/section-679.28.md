@@ -1,7 +1,5 @@
 ##### § 679.28 Equipment and operational requirements. #####
 
-Link to an amendment published at 85 FR 850, Jan. 8, 2020.
-
 (a) *Applicability.* This section contains the operational requirements for scales, observer sampling stations, vessel monitoring system hardware, catch monitoring and control plans, catcher vessel electronic logbook software, and video monitoring systems. The operator or manager must retain a copy of all records described in this section (§ 679.28) as indicated at § 679.5(a)(5) and (6) and make available the records upon request of NMFS observers and authorized officers as indicated at § 679.5(a)(5).
 
 (b) *Scales used to weigh catch at sea.* In order to be approved by NMFS a scale used to weigh catch at sea must meet the type evaluation requirements set forth in paragraph (b)(1) of this section and the initial inspection and annual reinspection requirements set forth in paragraph (b)(2) of this section. Once a scale is installed on a vessel and approved by NMFS for use to weigh catch at sea, it must be reinspected annually and must be tested daily and meet the maximum permissible error (MPE) requirements described in paragraph (b)(3) of this section.
@@ -54,7 +52,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (D) The scale, when installed, meets all of the requirements set forth in paragraph 3 of appendix A to this part, except those requirements set forth in paragraph 3.2.1.1.
 
-(2) *Inspection of at-sea scales* - (i) *What is an inspection?* An inspection is a visual assessment and test of a scale after it is installed on the vessel and while the vessel is tied up at a dock and not under power at sea to determine if the scale meets all of the applicable performance and technical requirements in paragraph (b)(2) of this section and in appendix A to this part. A scale will be approved by the inspector if it meets all of the applicable performance and technical requirements in paragraph (b)(2) of this section and appendix A to this part.
+(2) *Inspection of at-sea scales*—(i) *What is an inspection?* An inspection is a visual assessment and test of a scale after it is installed on the vessel and while the vessel is tied up at a dock and not under power at sea to determine if the scale meets all of the applicable performance and technical requirements in paragraph (b)(2) of this section and in appendix A to this part. A scale will be approved by the inspector if it meets all of the applicable performance and technical requirements in paragraph (b)(2) of this section and appendix A to this part.
 
 (ii) *How often must a scale be inspected?* Each scale must be inspected and approved before the vessel may participate in any fishery requiring the weighing of catch at sea with an approved scale. Each scale must be reinspected within 12 months of the date of the most recent inspection.
 
@@ -255,9 +253,9 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (D) Be accurate within plus or minus 0.5 percent when tested at 10 kg, 25 kg, and 50 kg by NMFS staff or an observer.
 
-(d) *Observer sampling station* - (1) *Accessibility.* All the equipment required for an observer sampling station must be available to the observer at all times while a sampling station is required and the observer is aboard the vessel, except that the observer sampling scale may be used by vessel personnel to conduct material tests of the scale used to weigh catch under paragraph (b)(3) of this section, as long as the use of the observer's sampling scale by others does not interfere with the observer's sampling duties.
+(d) *Observer sampling station*—(1) *Accessibility.* All the equipment required for an observer sampling station must be available to the observer at all times while a sampling station is required and the observer is aboard the vessel, except that the observer sampling scale may be used by vessel personnel to conduct material tests of the scale used to weigh catch under paragraph (b)(3) of this section, as long as the use of the observer's sampling scale by others does not interfere with the observer's sampling duties.
 
-(2) *Location* - (i) *Motherships and catcher/processors or catcher vessels using trawl gear.* The observer sampling station must be located within 4 m of the location from which the observer collects unsorted catch. Clear, unobstructed passage must be provided between the observer sampling station and the location where the observer collects unsorted catch. When standing where unsorted catch is sampled, the observer must be able to see that no fish have been removed between the bin and the scale used to weigh total catch.
+(2) *Location*—(i) *Motherships and catcher/processors or catcher vessels using trawl gear.* The observer sampling station must be located within 4 m of the location from which the observer collects unsorted catch. Clear, unobstructed passage must be provided between the observer sampling station and the location where the observer collects unsorted catch. When standing where unsorted catch is sampled, the observer must be able to see that no fish have been removed between the bin and the scale used to weigh total catch.
 
 (ii) *Vessels using nontrawl gear.* The observer sampling station must be located within 5 m of the collection area, described at § 679.28(d)(8)(ii)(B) of this section, unless any location within this distance is unsafe for the observer. Clear, unobstructed passage must be provided between the observer sampling station and the collection area. Access must be provided to the tally station, described at § 679.28(d)(8)(ii)(A) of this section. NMFS may approve an alternative location if the vessel owner submits a written proposal describing the alternative location and the reasons why a location within 5 m of where fish are brought on board the vessel is unsafe, and the proposed observer sampling station meets all other applicable requirements of this section.
 
@@ -279,7 +277,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iii) The salmon storage container must be at least 1.5 cubic meters.
 
-(8) *Requirements for sampling catch* - (i) *Motherships and catcher/processors using trawl gear.* The conveyor belt conveying unsorted catch must have a removable board to allow fish to be diverted from the belt directly into the observer's sampling baskets. The diverter board must be located downstream of the scale used to weigh total catch so that the observer can use this scale to weigh large samples. At least 1 m of accessible belt space, located downstream of the scale used to weigh total catch, must be available for the observer's use when sampling a haul.
+(8) *Requirements for sampling catch*—(i) *Motherships and catcher/processors using trawl gear.* The conveyor belt conveying unsorted catch must have a removable board to allow fish to be diverted from the belt directly into the observer's sampling baskets. The diverter board must be located downstream of the scale used to weigh total catch so that the observer can use this scale to weigh large samples. At least 1 m of accessible belt space, located downstream of the scale used to weigh total catch, must be available for the observer's use when sampling a haul.
 
 (ii) *Catcher/processors using non-trawl gear.* In addition to the sampling station, vessels using non-trawl gear must provide:
 
@@ -295,7 +293,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iii) *Work space.* The observer must be able to stand upright in front of the table.
 
-(iv) *Table* - (A) *Size.* The observer deck sampling station must include a table at least 0.6 m deep, 1.2 m wide, and 0.9 m high, and no more than 1.1 m high. The entire surface area of the table must be available for use by the observer. The table must be secured to the deck when halibut deck sorting. The table must be constructed to prevent fish from sliding off.
+(iv) *Table*—(A) *Size.* The observer deck sampling station must include a table at least 0.6 m deep, 1.2 m wide, and 0.9 m high, and no more than 1.1 m high. The entire surface area of the table must be available for use by the observer. The table must be secured to the deck when halibut deck sorting. The table must be constructed to prevent fish from sliding off.
 
 (B) *Length measuring device.* The table must have a NMFS-approved length measuring device secured to the surface of the table.
 
@@ -313,7 +311,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (B) [Reserved].
 
-(e) *Video Monitoring System Requirements* - (1) *What requirements must a vessel owner and operator comply with for a video monitoring system?* (i) The system must have sufficient data storage capacity to store all video data from an entire trip. Each frame of stored video data must record a time/date stamp in Alaska local time (A.l.t.).
+(e) *Video Monitoring System Requirements*—(1) *What requirements must a vessel owner and operator comply with for a video monitoring system?* (i) The system must have sufficient data storage capacity to store all video data from an entire trip. Each frame of stored video data must record a time/date stamp in Alaska local time (A.l.t.).
 
 (ii) The system must include at least one external USB port or other removable storage device approved by NMFS.
 
@@ -351,7 +349,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (7) *How does a vessel owner make a change to the video monitoring system?* Any change to the video monitoring system that would affect the system's functionality must be submitted by a vessel owner to, and be approved by, the Regional Administrator in writing before that change is made.
 
-(f) *Vessel Monitoring System (VMS) Requirements* - (1) *What is a VMS?* A VMS consists of a NMFS-approved VMS transmitter that automatically determines the vessels position and transmits it to a NMFS-approved communications service provider. The communications service provider receives the transmission and relays it to NMFS.
+(f) *Vessel Monitoring System (VMS) Requirements*—(1) *What is a VMS?* A VMS consists of a NMFS-approved VMS transmitter that automatically determines the vessels position and transmits it to a NMFS-approved communications service provider. The communications service provider receives the transmission and relays it to NMFS.
 
 (2) *How are VMS transmitters and communications service providers approved by NMFS?* (i) NMFS publishes type approval specifications for VMS components in the Federal Register.
 
@@ -383,7 +381,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (i) Register the vessel's VMS unit with an appropriate service provider;
 
-(ii) Use VMS check-in report to contact OLE by fax at 907-586-7703 and provide the date (mm/dd/yyyy), vessel name, USCG documentation number, FFP number or Federal crab vessel permit number, name and telephone number of contact person, and VMS transmitter ID or serial number; and
+(ii) [Reserved]
 
 (iii) Call OLE at 907-586-7225, Monday through Friday, between the hours of 0800 hours, A.l.t., and 1630 hours, A.l.t., at least 72 hours before leaving port and receive confirmation that the transmissions are being received.
 
@@ -397,13 +395,21 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iii) You operate a vessel required to be Federally permitted with non-pelagic trawl or dredge gear onboard in reporting areas located in the GOA or operate a federally permitted vessel with non-pelagic trawl or dredge gear onboard in adjacent State waters;
 
-(iv) When that vessel is required to use functioning VMS equipment in the Rockfish Program as described in § 679.7(n)(3); or
+(iv) When that vessel is required to use functioning VMS equipment in the Rockfish Program as described in § 679.7(n)(3);
 
-(v) You operate a vessel in federal reporting areas 610, 620, or 630, and receive and process groundfish from other vessels.
+(v) You operate a vessel in federal reporting areas 610, 620, or 630, and receive and process groundfish from other vessels;
+
+(vi) You operate an Amendment 80 catcher/processor (see § 679.5(s));
+
+(vii) You are fishing for IFQ sablefish in the Bering Sea or Aleutian Islands (see § 679.42(k));
+
+(viii) You are fishing for IFQ sablefish in the GOA using longline pot gear (see § 679.42(l)) or fishing for IFQ or CDQ halibut or CDQ sablefish in the BSAI using pot gear (see § 679.42(m)); or
+
+(ix) You are required under the Crab Rationalization Program regulations at 50 CFR 680.23(d).
 
 (7) *What additional requirements does an operator have if trawling in the Aleutian Islands reporting areas?* Operators of vessels named on a Federal Fisheries Permit under § 679.4(b), and that are using trawl gear in the Aleutian Islands reporting areas to harvest groundfish that is required to be deducted from a Federal TAC specified at § 679.20, must set their VMS to transmit the vessel location at least 10 times per hour.
 
-(g) *Catch monitoring and control plan requirements (CMCP)* - (1) *What is a CMCP?* A CMCP is a plan submitted by the owner and manager of a processing plant, and approved by NMFS, detailing how the processing plant will meet the catch monitoring and control standards detailed in paragraph (g)(7) of this section.
+(g) *Catch monitoring and control plan requirements (CMCP)*—(1) *What is a CMCP?* A CMCP is a plan submitted by the owner and manager of a processing plant, and approved by NMFS, detailing how the processing plant will meet the catch monitoring and control standards detailed in paragraph (g)(7) of this section.
 
 (2) *Who is required to prepare and submit a CMCP for approval?* The owner and manager of shoreside or stationary floating processors receiving fish harvested in the following fisheries must prepare, submit, and have approved a CMCP prior to the receipt of fish harvested in these fisheries:
 
@@ -433,7 +439,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iii) A complete description of the proposed CMCP change.
 
-(7) *Catch monitoring and control standards* - (i) *Catch sorting and weighing requirements.* All groundfish delivered to the plant must be sorted and weighed by species. The CMCP must detail the amount and location of space for sorting catch, the number of staff assigned to catch sorting and the maximum rate that catch will flow through the sorting area.
+(7) *Catch monitoring and control standards*—(i) *Catch sorting and weighing requirements.* All groundfish delivered to the plant must be sorted and weighed by species. The CMCP must detail the amount and location of space for sorting catch, the number of staff assigned to catch sorting and the maximum rate that catch will flow through the sorting area.
 
 (ii) *Scales used for weighing groundfish.* The CMCP must identify by serial number each scale used to weigh groundfish and describe the rational for its use.
 
@@ -499,7 +505,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (xi) *CMCP specialist notification.* For shoreside processors receiving deliveries of groundfish harvested under the authority of a rockfish CQ permit, describe how the CMCP specialist will be notified of deliveries of groundfish harvested under the authority of a rockfish CQ permit.
 
-(h) *ELB software* - (1) *How do I get my ELB software approved by NMFS?* - (i) *Specifications.* NMFS will provide specifications for ELB software upon request. Interested parties may contact NMFS by mail at NMFS Alaska Region, Sustainable Fisheries Division, Catch Accounting/Data Quality, P.O. Box 21668, Juneau, AK 99802-1668; by telephone at 907-586-7228. The four types of ELB software are:
+(h) *ELB software*—(1) *How do I get my ELB software approved by NMFS?*—(i) *Specifications.* NMFS will provide specifications for ELB software upon request. Interested parties may contact NMFS by mail at NMFS Alaska Region, Sustainable Fisheries Division, Catch Accounting/Data Quality, P.O. Box 21668, Juneau, AK 99802-1668; by telephone at 907-586-7228. The four types of ELB software are:
 
 (A) Catcher vessel longline or pot gear (see § 679.5(c)(3));
 
@@ -541,7 +547,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (H) The software must include sufficient data validation capability to prevent a submitter from accidentally transmitting a data file or printing an ELB logsheet that is incomplete or contains clearly erroneous data.
 
-(2) *What if I need to make changes to NMFS-approved ELB software?* - (i) *NMFS-instigated changes.* NMFS will provide the developer with information that affects the ELB software as soon as it is available for distribution, e.g., changes in species codes or product codes.
+(2) *What if I need to make changes to NMFS-approved ELB software?*—(i) *NMFS-instigated changes.* NMFS will provide the developer with information that affects the ELB software as soon as it is available for distribution, e.g., changes in species codes or product codes.
 
 (ii) *Developer-instigated changes.* The developer must submit a copy of the changed software along with documentation describing the need for the change to NMFS for review and approval as described in paragraph (h)(1)(ii) of this section. NMFS will review and approve the new version according to the guidelines set forth in paragraph (h)(1)(iii) of this section.
 
@@ -553,9 +559,9 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (C) Ensure that the ELB users are provided with a revised copy within 15 days of notification.
 
-(i) *Bin monitoring* - (1) *Bin monitoring standards.* The vessel owner or operator must comply with the requirements specified in paragraph (i)(1)(i) of this section unless the vessel owner or operator has requested, and NMFS has approved, the video monitoring option described at paragraph (i)(1)(ii) of this section.
+(i) *Bin monitoring*—(1) *Bin monitoring standards.* The vessel owner or operator must comply with the requirements specified in paragraph (i)(1)(i) of this section unless the vessel owner or operator has requested, and NMFS has approved, the video monitoring option described at paragraph (i)(1)(ii) of this section.
 
-(i) *Option 1 - No crew in bin or tank.* No crew may enter any bin or tank preceding the point where the observer samples unsorted catch, unless:
+(i) *Option 1—No crew in bin or tank.* No crew may enter any bin or tank preceding the point where the observer samples unsorted catch, unless:
 
 (A) The flow of fish has been stopped between the tank and the location where the observer samples unsorted catch;
 
@@ -567,7 +573,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (E) The observer informs the vessel operator, or his designee, that all sampling has been completed for a given haul, in which case crew may enter a tank containing fish from that haul without stopping the flow of fish or clearing catch between the tank and the observer sampling station.
 
-(ii) *Option 2 - Video monitoring system option.* A vessel owner and operator must provide and maintain a NMFS-approved video monitoring system as specified in paragraph (e) of this section. Additionally, the vessel owner and operator must ensure that the system:
+(ii) *Option 2—Video monitoring system option.* A vessel owner and operator must provide and maintain a NMFS-approved video monitoring system as specified in paragraph (e) of this section. Additionally, the vessel owner and operator must ensure that the system:
 
 (A) Records and retains all video for all periods when fish are inside the bin; and
 
@@ -581,7 +587,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (5) *Bin monitoring option inspection report.* A bin monitoring option inspection report will be issued to the vessel owner if the bin monitoring option meets the requirements of paragraph (i)(1)(ii) of this section. The vessel owner must maintain a current bin option inspection report on board the vessel at all times the vessel is required to provide an approved bin monitoring option under this paragraph (i)(5). The bin monitoring option inspection report must be made available to the observer, NMFS personnel, or to an authorized officer upon request.
 
-(j) *Video monitoring on catcher/processors and motherships in the BS pollock fishery, including pollock CDQ.* The owner and operator of a catcher/processor or a mothership must provide and maintain a video monitoring system approved under paragraph (e) of this section. These video monitoring system requirements must be met when the catcher/processor is directed fishing for pollock in the BS, including pollock CDQ, and when the mothership is taking deliveries from catcher vessels directed fishing for pollock in the BS, including pollock CDQ. Additionally, the system must -
+(j) *Video monitoring on catcher/processors and motherships in the BS pollock fishery, including pollock CDQ.* The owner and operator of a catcher/processor or a mothership must provide and maintain a video monitoring system approved under paragraph (e) of this section. These video monitoring system requirements must be met when the catcher/processor is directed fishing for pollock in the BS, including pollock CDQ, and when the mothership is taking deliveries from catcher vessels directed fishing for pollock in the BS, including pollock CDQ. Additionally, the system must—
 
 (1) Record and retain video for all periods when fish are flowing past the sorting area or salmon are in the storage container.
 
@@ -593,7 +599,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (2) Provide sufficient resolution and field of view to monitor all areas where Pacific cod are sorted from the catch, all fish passing over the motion-compensated scale, and all crew actions in these areas.
 
-(l) *Video monitoring for halibut deck sorting.* The owner and operator of a mothership or catcher/processor subject to § 679.120 must provide and maintain a video monitoring system approved under paragraph (e) of this section when the vessel is halibut deck sorting. Additionally, the system must -
+(l) *Video monitoring for halibut deck sorting.* The owner and operator of a mothership or catcher/processor subject to § 679.120 must provide and maintain a video monitoring system approved under paragraph (e) of this section when the vessel is halibut deck sorting. Additionally, the system must—
 
 (1) Record and retain video for an entire trip when halibut deck sorting may occur; and
 

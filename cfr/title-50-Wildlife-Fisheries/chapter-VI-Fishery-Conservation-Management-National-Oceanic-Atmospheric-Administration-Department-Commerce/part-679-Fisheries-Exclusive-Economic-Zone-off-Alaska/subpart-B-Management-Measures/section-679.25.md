@@ -1,8 +1,6 @@
 ##### § 679.25 Inseason adjustments. #####
 
-Link to an amendment published at 85 FR 850, Jan. 8, 2020.
-
-(a) *General* - (1) *Types of adjustments.* Inseason adjustments issued by NMFS under this section include:
+(a) *General*—(1) *Types of adjustments.* Inseason adjustments for directed fishing for groundfish or fishing for IFQ or CDQ halibut issued by NMFS under this section include:
 
 (i) Closure, extension, or opening of a season in all or part of a management area.
 
@@ -12,7 +10,9 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iv) Interim closures of statistical areas, or portions thereof, to directed fishing for specified groundfish species.
 
-(2) *Determinations.* (i) Any inseason adjustment taken under paragraphs (a)(1)(i), (ii), or (iii) of this section must be based on a determination that such adjustments are necessary to prevent:
+(v) Inseason closures of an area, district, or portions thereof, of harvest of specified halibut fisheries.
+
+(2) *Determinations.* (i) Any inseason adjustment taken under paragraph (a)(1)(i), (ii), (iii), or (iv) of this section must be based on a determination that such adjustments are necessary to prevent:
 
 (A) Overfishing of any species or stock of fish or shellfish;
 
@@ -36,7 +36,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (B) An inseason adjustment that would allow other fisheries to continue in noncritical areas and time periods;
 
-(C) Closure of a management area and season to all groundfish fishing; or
+(C) Closure of a management area or portion thereof, or gear type, or season to all groundfish or halibut fishing; or
 
 (D) Reopening of a management area or season to achieve the TAC or gear share of a TAC for any of the target species.
 
@@ -62,7 +62,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (8) Any other factor relevant to the conservation and management of groundfish species or any incidentally caught species that are designated as prohibited species or for which a PSC limit has been specified.
 
-(c) *Procedure.* (1) No inseason adjustment issued under this section will take effect until -
+(c) *Procedure.* (1) No inseason adjustment issued under this section will take effect until—
 
 (i) NMFS has filed the proposed adjustment for public inspection with the Office of the Federal Register; and
 
@@ -72,7 +72,7 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (3) During any such 15-day period, the Regional Administrator will make available for public inspection, during business hours, the aggregate data upon which an adjustment was based.
 
-(4) If written comments are received during any such 15-day period that oppose or protest an inseason adjustment issued under this section, NMFS will reconsider the necessity for the adjustment and, as soon as practicable after that reconsideration, will either -
+(4) If written comments are received during any such 15-day period that oppose or protest an inseason adjustment issued under this section, NMFS will reconsider the necessity for the adjustment and, as soon as practicable after that reconsideration, will either—
 
 (i) Publish in the Federal Register notification of continued effectiveness of the adjustment, responding to comments received; or
 
@@ -86,4 +86,4 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (iii) The effective date and any termination date of such adjustment. If no termination date is specified, the adjustment will terminate on the last day of the fishing year.
 
-[61 FR 31230, June 19, 1996, as amended at 75 FR 61642, Oct. 6, 2010; 81 FR 24733, Apr. 27, 2016]
+[61 FR 31230, June 19, 1996, as amended at 75 FR 61642, Oct. 6, 2010; 81 FR 24733, Apr. 27, 2016; 85 FR 850, Jan. 8, 2020]

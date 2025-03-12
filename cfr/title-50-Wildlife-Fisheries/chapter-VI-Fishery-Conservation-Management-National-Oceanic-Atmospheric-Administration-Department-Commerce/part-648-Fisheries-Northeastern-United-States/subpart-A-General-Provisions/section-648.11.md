@@ -1,5 +1,7 @@
 ##### § 648.11 At-sea sea sampler/observer coverage. #####
 
+Link to an amendment published at 85 FR 7431, Feb. 7, 2020.
+
 (a) The Regional Administrator may request any vessel holding a permit for Atlantic sea scallops, NE multispecies, monkfish, skates, Atlantic mackerel, squid, butterfish, scup, black sea bass, bluefish, spiny dogfish, Atlantic herring, tilefish, Atlantic surfclam, ocean quahog, or Atlantic deep-sea red crab; or a moratorium permit for summer flounder; to carry a NMFS-certified fisheries observer. A vessel holding a permit for Atlantic sea scallops is subject to the additional requirements specific in paragraph (g) of this section. Also, any vessel or vessel owner/operator that fishes for, catches or lands hagfish, or intends to fish for, catch, or land hagfish in or from the exclusive economic zone must carry a NMFS-certified fisheries observer when requested by the Regional Administrator in accordance with the requirements of this section.
 
 (b) If requested by the Regional Administrator to carry an observer or sea sampler, it is the responsibility of the vessel owner to arrange for and facilitate observer or sea sampler placement. Owners of vessels selected for sea sampler/observer coverage must notify the appropriate Regional or Science and Research Director, as specified by the Regional Administrator, before commencing any fishing trip that may result in the harvest of resources of the respective fishery. Notification procedures will be specified in selection letters to vessel owners.
