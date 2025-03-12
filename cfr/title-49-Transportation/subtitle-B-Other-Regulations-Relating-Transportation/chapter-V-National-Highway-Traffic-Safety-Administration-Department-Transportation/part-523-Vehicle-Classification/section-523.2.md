@@ -1,5 +1,7 @@
 ##### § 523.2 Definitions. #####
 
+Link to an amendment published at 85 FR 25272, Apr. 30, 2020.
+
 As used in this part:
 
 *Ambulance* has the meaning given in 40 CFR 86.1803.

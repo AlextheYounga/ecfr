@@ -1,5 +1,7 @@
 ##### § 537.5 General requirements for reports. #####
 
+Link to an amendment published at 85 FR 25276, Apr. 30, 2020.
+
 (a) For each current model year, each manufacturer shall submit a pre-model year report, a mid-model year report, and, as required by § 537.8, supplementary reports.
 
 (b)(1) The pre-model year report required by this part for each current model year must be submitted during the month of December (e.g., the pre-model year report for the 1983 model year must be submitted during December, 1982).

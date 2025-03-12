@@ -22,9 +22,9 @@
 
 (1) The transaction value is $1,000,000 or more; or
 
-(2) The transaction is complex, involves a residential real estate transaction, $250,000 or more of the transaction value is not insured or guaranteed by a United States government agency or United States government-sponsored agency, and the transaction does not meet the criteria in paragraph (f) of this section.
+(2) The transaction is complex, involves a residential real estate transaction, and $400,000 or more of the transaction value is not insured or guaranteed by a United States government agency or United States government sponsored agency.
 
-(c) *Real estate-related financial transactions requiring an appraisal by either a state-certified or state-licensed appraiser.* (1) An appraisal performed by a state-certified appraiser or a state-licensed appraiser is required for any real estate-related financial transaction not exempt under paragraph (a) of this section in which the transaction is not complex, involves a residential real estate transaction, $250,000 or more of the transaction value is not insured or guaranteed by a United States government agency or United States government-sponsored agency, and the transaction does not meet the criteria in paragraph (f) of this section.
+(c) *Real estate-related financial transactions requiring an appraisal by either a state-certified or state-licensed appraiser.* (1) An appraisal performed by a state-certified appraiser or a state-licensed appraiser is required for any real estate-related financial transaction not exempt under paragraph (a) of this section in which the transaction is not complex, involves a residential real estate transaction, and $400,000 or more of the transaction value is not insured or guaranteed by a United States government agency or United States government sponsored agency.
 
 (2) If, during the course of an appraisal of a residential real estate transaction performed by a state-licensed appraiser, factors are identified that result in the transaction meeting the definition of complex, then the credit union may either:
 
@@ -50,39 +50,7 @@
 
 (e) *Appraisals to address safety and soundness concerns.* The NCUA reserves the right to require an appraisal under this subpart whenever the agency believes it is necessary to address safety and soundness concerns.
 
-(f) *Exemption from appraisals of real estate located in rural areas.* (1) Notwithstanding any other provision of law, an appraisal in connection with a federally related transaction involving real estate or an interest in real estate is not required if:
-
-(i) The real estate or interest in real estate is located in a rural area, as described in 12 CFR 1026.35(b)(2)(iv)(A);
-
-(ii) The transaction value is less than $400,000;
-
-(iii) Any party involved in the transaction that meets the definition of mortgage originator must be subject to oversight by a Federal financial institutions regulatory agency; and
-
-(iv) Not later than three days after the date on which the Closing Disclosure Form, made in accordance with 12 CFR parts 1024 and 1026, relating to the federally related transaction is given to the consumer, the credit union (or other party involved in the transaction that acts as the mortgage originator) or its agent, directly or indirectly:
-
-(A) Has contacted not fewer than three state-certified appraisers or state-licensed appraisers, as applicable, on the credit union's (or other party involved in the transaction that acts as the mortgage originator) approved appraiser list in the market area in accordance with 12 CFR part 226; and
-
-(B) Has documented that no state-certified appraiser or state-licensed appraiser, as applicable, was available within five business days beyond customary and reasonable fee and timeliness standards for comparable appraisal assignments, as documented by the credit union (or other party involved in the transaction that acts as the mortgage originator) or its agent.
-
-(2) A credit union (or other party involved in the transaction that acts as the mortgage originator) that makes a loan without an appraisal under the terms of paragraph (f)(1) of this section shall not sell, assign, or otherwise transfer legal title to the loan unless:
-
-(i) The loan is sold, assigned, or otherwise transferred to another party by reason of the credit union's (or mortgage originator's) bankruptcy or insolvency;
-
-(ii) The loan is sold, assigned, or otherwise transferred to another party regulated by a Federal financial institutions regulatory agency, so long as the loan is retained in portfolio by the other party;
-
-(iii) The sale, assignment, or transfer is pursuant to a merger of the credit union (or mortgage originator) with another party or the acquisition of the credit union (or mortgage originator) by another party or of another party by the credit union (or mortgage originator); or
-
-(iv) The sale, loan, or transfer is to a wholly owned subsidiary of the credit union (or mortgage originator), provided that, after the sale, assignment, or transfer, the loan is considered to be an asset of the credit union (or mortgage originator) under generally accepted accounting principles.
-
-(3)(i) For purposes of this paragraph (f), the term *transaction value* means the amount of a loan or extension of credit, including a loan or extension of credit that is part of a pool of loans or extensions of credit; and
-
-(ii) The term *mortgage originator* has the meaning given the term in section 103 of the Truth in Lending Act (15 U.S.C. 1602).
-
-(4) This paragraph (f) does not apply if:
-
-(i) The NCUA requires an appraisal under paragraph (e) of this section; or
-
-(ii) The loan is a high-cost mortgage, as defined in section 103 of the Truth in Lending Act (15 U.S.C. 1602).
+(f) [Reserved]
 
 (g) *Deferrals of appraisals and written estimates of market value for certain residential and commercial transactions* - (1) *120-day grace period.* The completion of appraisals and written estimate of market value required under paragraphs (b), (c), and (d) of this section may be deferred up to 120 days from the date of closing.
 
@@ -90,4 +58,4 @@
 
 (3) *Sunset.* The appraisal and written estimate of market value deferrals authorized by this paragraph (g) will expire for transactions closing after December 31, 2020.
 
-[84 FR 35537, July 24, 2019, as amended at 85 FR 22017, Apr. 21, 2020]Effective Date Note:At 85 FR 22017, Apr. 21, 2020, § 722.3 was amended by adding paragraph (g), effective until Dec. 31, 2020.
+[84 FR 35537, July 24, 2019, as amended at 85 FR 22017, Apr. 21, 2020; 85 FR 23917, Apr. 30, 2020]Effective Date Note:At 85 FR 22017, Apr. 21, 2020, § 722.3 was amended by adding paragraph (g), effective until Dec. 31, 2020.

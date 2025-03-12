@@ -1,5 +1,7 @@
 ##### § 1209.2 Adjustment of status of alien granted asylum. #####
 
+Link to an amendment published at 85 FR 23904, Apr. 30, 2020.
+
 The provisions of this section shall be the sole and exclusive procedure for adjustment of status by an asylee admitted under section 208 of the Act whose application is based on his or her asylee status.
 
 (a) *Eligibility.* (1) Except as provided in paragraph (a)(2) or (a)(3) of this section, the status of any alien who has been granted asylum in the United States may be adjusted to that of an alien lawfully admitted for permanent residence, provided the alien:

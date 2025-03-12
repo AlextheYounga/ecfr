@@ -1,5 +1,7 @@
 ##### § 533.5 Requirements. #####
 
+Link to an amendment published at 85 FR 25273, Apr. 30, 2020.
+
 (a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year specified as applicable:
 
 Table I

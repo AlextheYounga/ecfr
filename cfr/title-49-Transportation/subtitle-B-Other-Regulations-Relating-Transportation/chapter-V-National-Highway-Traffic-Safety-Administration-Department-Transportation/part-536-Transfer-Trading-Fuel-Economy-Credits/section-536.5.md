@@ -1,5 +1,7 @@
 ##### § 536.5 Trading infrastructure. #####
 
+Link to an amendment published at 85 FR 25275, Apr. 30, 2020.
+
 (a) *Accounts.* NHTSA maintains “accounts” for each credit holder. The account consists of a balance of credits in each compliance category and vintage held by the holder.
 
 (b) *Who may hold credits.* Every manufacturer subject to fuel economy standards under 49 CFR parts 531 or 533 is automatically an account holder. If the manufacturer earns credits pursuant to this regulation, or receives credits from another party, so that the manufacturer's account has a non-zero balance, then the manufacturer is also a credit holder. Any party designated as a recipient of credits by a current credit holder will receive an account from NHTSA and become a credit holder, subject to the following conditions:

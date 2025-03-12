@@ -1,5 +1,7 @@
 ##### § 537.7 Pre-model year and mid-model year reports. #####
 
+Link to an amendment published at 85 FR 25277, Apr. 30, 2020.
+
 (a)(1) Provide the information required by paragraphs (b) and (c) of this section for the manufacturer's passenger automobiles for the current model year.
 
 (2) After providing the information required by paragraph (a)(1) of this section provide the information required by paragraphs (b) and (c) for this section of each class, as specified in part 533 of this chapter, of the manufacturer's light trucks for the current model year.

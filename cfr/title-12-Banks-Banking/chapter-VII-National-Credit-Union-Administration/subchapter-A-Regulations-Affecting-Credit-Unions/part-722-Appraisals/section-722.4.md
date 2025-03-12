@@ -6,10 +6,12 @@ For federally related transactions, all appraisals shall, at a minimum:
 
 (b) Be written and contain sufficient information and analysis to support the institution's decision to engage in the transaction;
 
-(c) Analyze and report appropriate deductions and discounts for proposed construction or renovation, partially leased buildings, non-market lease terms, and tract developments with unsold units;
+(c) Be subject to appropriate review for compliance with the Uniform Standards of Professional Appraisal Practice.
 
-(d) Be based upon the definition of market value as set forth in § 722.2(f); and
+(d) Analyze and report appropriate deductions and discounts for proposed construction or renovation, partially leased buildings, non-market lease terms, and tract developments with unsold units;
 
-(e) Be performed by State licensed or certified appraisers in accordance with requirements set forth in this subpart.
+(e) Be based upon the definition of market value as set forth in § 722.2; and
 
-[60 FR 51894, Oct. 4, 1995]
+(f) Be performed by State licensed or certified appraisers in accordance with requirements set forth in this subpart.
+
+[60 FR 51894, Oct. 4, 1995, as amended at 85 FR 23917, Apr. 30, 2020]

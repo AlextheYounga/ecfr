@@ -1,5 +1,7 @@
 ##### § 536.4 Credits. #####
 
+Link to an amendment published at 85 FR 25275, Apr. 30, 2020.
+
 (a) *Type and vintage.* All credits are identified and distinguished in the accounts by originating manufacturer, compliance category, and model year of origin (vintage).
 
 (b) *Application of credits.* All credits earned and applied are calculated, per 49 U.S.C. 32903(c), in tenths of a mile per gallon by which the average fuel economy of vehicles in a particular compliance category manufactured by a manufacturer in the model year in which the credits are earned exceeds the applicable average fuel economy standard, multiplied by the number of vehicles sold in that compliance category. However, credits that have been traded between credit holders or transferred between compliance categories are valued for compliance purposes using the adjustment factor specified in paragraph (c) of this section, pursuant to the “total oil savings” requirement of 49 U.S.C. 32903(f)(1).
