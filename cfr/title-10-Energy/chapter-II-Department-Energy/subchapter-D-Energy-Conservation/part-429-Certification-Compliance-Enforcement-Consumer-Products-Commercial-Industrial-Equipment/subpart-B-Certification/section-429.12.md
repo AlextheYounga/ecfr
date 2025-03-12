@@ -1,7 +1,5 @@
 ##### § 429.12 General requirements applicable to certification reports. #####
 
-Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
-
 (a) *Certification.* Each manufacturer, before distributing in commerce any basic model of a covered product or covered equipment subject to an applicable energy conservation standard set forth in parts 430 or 431, and annually thereafter on or before the dates provided in paragraph (d) of this section, shall submit a certification report to DOE certifying that each basic model meets the applicable energy conservation standard(s). The certification report(s) must be submitted to DOE in accordance with the submission procedures of paragraph (h) of this section.
 
 (b) *Certification report.* A certification report shall include a compliance statement (see paragraph (c) of this section), and for each basic model, the information listed in this paragraph (b).
@@ -20,7 +18,13 @@ Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
 
 (7) Whether the submission is for a new model, a discontinued model, a correction to a previously submitted model, data on a carryover model, or a model that has been found in violation of a voluntary industry certification program;
 
-(8) The test sample size (*i.e.,* number of units tested for the basic model, or in the case of single-split system or single-package central air conditioners and central air conditioning heat pumps, or multi-split, multi-circuit, or multi-head mini-split systems other than the “tested combination,” for each individual combination or individual model). Enter “0” if an AEDM was used in lieu of testing (and in the case of central air conditioners and central air conditioning heat pumps, this must be indicated separately for each metric);
+(8) The test sample size as follows:
+
+(i) The number of units tested for the basic model; or
+
+(ii) In the case of single-split system or single-package central air conditioners and central air conditioning heat pumps; air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h; air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h; or multi-split, multi-circuit, or multi-head mini-split systems other than the “tested combination,” the number of units tested for each individual combination or individual model; or
+
+(iii) If an AEDM was used in lieu of testing, enter “0” (and in the case of central air conditioners and central air conditioning heat pumps, this must be indicated separately for each metric);
 
 (9) The certifying party's U.S. Customs and Border Protection (CBP) importer identification numbers assigned by CBP pursuant to 19 CFR 24.5, if applicable;
 
@@ -43,8 +47,6 @@ Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
 (4) The manufacturer is aware of the penalties associated with violations of the Act, the regulations thereunder, and 18 U.S.C. 1001 which prohibits knowingly making false statements to the Federal Government.
 
 (d) *Annual filing.* All data required by paragraphs (a) through (c) of this section shall be submitted to DOE annually, on or before the following dates:
-
-Table 1 to Paragraph (d)
 
 |                                                                                                                                                         Product category                                                                                                                                                         |Deadline for data submission|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
@@ -79,4 +81,4 @@ Table 1 to Paragraph (d)
 
 (5) Small, large, or very large air-cooled, water-cooled, evaporatively-cooled, and water-source commercial air conditioning and heating equipment, single package vertical units, computer room air conditioners, commercial packaged boilers with input capacities greater than 2.5 million Btu/h, and all other types of commercial refrigeration equipment except those specified in paragraph (i)(3) of this section, July 1, 2015.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 76 FR 65365, Oct. 21, 2011; 77 FR 76830, Dec. 31, 2012; 78 FR 79593, Dec. 31, 2013; 79 FR 25500, May 5, 2014; 79 FR 38208, July 3, 2014; 81 FR 4430, Jan. 26, 2016; 81 FR 37049, June 8, 2016; 81 FR 43425, July 1, 2016; 81 FR 46789, July 18, 2016; 81 FR 59415, Aug. 29, 2016; 81 FR 95798, Dec. 28, 2016; 85 FR 1446, 1591, Jan. 10, 2020; 87 FR 43976, July 22, 2022; 87 FR 53637, Aug. 31, 2022]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 76 FR 65365, Oct. 21, 2011; 77 FR 76830, Dec. 31, 2012; 78 FR 79593, Dec. 31, 2013; 79 FR 25500, May 5, 2014; 79 FR 38208, July 3, 2014; 81 FR 4430, Jan. 26, 2016; 81 FR 37049, June 8, 2016; 81 FR 43425, July 1, 2016; 81 FR 46789, July 18, 2016; 81 FR 59415, Aug. 29, 2016; 81 FR 95798, Dec. 28, 2016; 85 FR 1446, 1591, Jan. 10, 2020; 87 FR 43976, July 22, 2022; 87 FR 53637, Aug. 31, 2022; 87 FR 77317, Dec. 16, 2022]

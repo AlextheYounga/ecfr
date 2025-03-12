@@ -1,7 +1,5 @@
 ##### § 131.200 Yogurt. #####
 
-Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
-
 (a) *Description.* Yogurt is the food produced by culturing one or more of the basic dairy ingredients specified in paragraph (b) of this section and any of the optional dairy ingredients specified in paragraph (c) of this section with a characterizing bacterial culture that contains the lactic acid-producing bacteria, *Lactobacillus delbrueckii* subsp. *bulgaricus* and *Streptococcus thermophilus.* The ingredients specified in paragraphs (b) and (c) of this section may be homogenized and must be pasteurized or ultra-pasteurized before the addition of the characterizing bacterial culture. One or more of the other optional ingredients specified in paragraph (d) of this section may also be added. Yogurt, before the addition of bulky flavoring ingredients, contains not less than 3.25 percent milkfat and not less than 8.25 percent milk solids not fat and has either a titratable acidity of not less than 0.7 percent, expressed as lactic acid, or a pH of 4.6 or lower. To extend the shelf life of the food, yogurt may be treated after culturing to inactivate viable microorganisms.
 
 (b) *Basic dairy ingredients.* Cream, milk, partially skimmed milk, skim milk, or the reconstituted versions of these ingredients may be used alone or in combination.
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
 
 (1) Cultures, in addition to the characterizing bacterial culture specified in paragraph (a) of this section.
 
-(2) Nutritive carbohydrate sweeteners.
+(2) Sweeteners.
 
 (3) Flavoring ingredients.
 
@@ -28,9 +26,9 @@ Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
 
 (i) If added, vitamin A must be present in such quantity that the food contains not less than 10 percent Daily Value per Reference Amount Commonly Consumed (RACC) thereof, within limits of current good manufacturing practice.
 
-(ii) If added, vitamin D must be present in such quantity that the food contains not less than 25 percent Daily Value per Reference Amount Commonly Consumed (RACC) thereof, within limits of current good manufacturing practices.
+(ii) If added, vitamin D must be present in such quantity that the food contains not less than 10 percent Daily Value per Reference Amount Commonly Consumed (RACC) thereof, within limits of current good manufacturing practices.
 
-(e) *Methods of analysis* - (1) *Milk* - (i) *Milkfat content.* As determined by the method prescribed in section 33.2.26, AOAC Official Method 989.05, Fat in Milk Modified Mojonnier Ether Extraction Method.
+(e) *Methods of analysis*—(1) *Milk*—(i) *Milkfat content.* As determined by the method prescribed in section 33.2.26, AOAC Official Method 989.05, Fat in Milk Modified Mojonnier Ether Extraction Method.
 
 (ii) *Milk solids not fat.* Calculated by subtracting the milkfat content from the total solids content using the method prescribed in section 33.2.45, AOAC Official Method 990.21, Solids-Not-Fat in Milk by Difference between Total Solids and Fat Contents.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
 
 (2) *pH.* As determined by the potentiometric method described in § 114.90(a) of this chapter.
 
-(3) *Live and active cultures.* As determined by the method described in ISO 7889:2003(E)/IDF 117:2003(E), Yogurt - Enumeration of Characteristic Microorganisms - Colony-Count Technique at 37 °C.
+(3) *Live and active cultures.* As determined by the method described in ISO 7889:2003(E)/IDF 117:2003(E), Yogurt—Enumeration of Characteristic Microorganisms—Colony-Count Technique at 37 °C.
 
 (f) *Nomenclature.* The name of the food is “yogurt.” The name of the food must be accompanied by a declaration indicating the presence of any characterizing flavoring as specified in § 101.22 of this chapter.
 
@@ -54,9 +52,19 @@ Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
 
 (3) The term “homogenized” may appear on the label if the dairy ingredients used are homogenized.
 
-(g) *Label declaration.* Each of the ingredients used in the food must be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+(g) *Yogurt containing less than 3.25 percent milkfat.* (1) Yogurt may contain less than 3.25 percent milkfat and at least 2.44 percent milkfat. If the milkfat content is below 2.44 percent, the product is considered a modified food and is covered under § 130.10 of this chapter.
 
-(h) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, FDA must publish a document in the Federal Register, and the material must be available to the public. All approved material is available for inspection at the Food and Drug Administration's Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, and is available from the sources indicated in this paragraph (h). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(2) Yogurt with milkfat content less than 3.25 percent and at least 2.44 percent milkfat, must be labeled with the following two phrases in the statement of identity, which must appear together:
+
+(i) The word “yogurt” in type of the same size and style.
+
+(ii) The statement “\_\_ percent milkfat,” the blank being filled in with the nearest half percent to the actual milkfat content of the product. This statement of milkfat content must appear in letters not less than one-half of the height of the letters in the phrase specified in paragraph (g)(2)(i) of this section, but in no case less than one-eighth of an inch in height.
+
+(3) Yogurt with milkfat less than 3.25 percent and at least 2.44 percent milkfat must comply with this standard, except that it may deviate as described in § 130.10 (b), (c), and (d) of this chapter.
+
+(h) *Label declaration.* Each of the ingredients used in the food must be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+
+(i) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, FDA must publish a document in the Federal Register, and the material must be available to the public. All approved material is available for inspection at the Food and Drug Administration's Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, and is available from the sources indicated in this paragraph (i). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) AOAC INTERNATIONAL, 2275 Research Blvd., Suite 300, Rockville, MD 20850-3250:
 
@@ -68,7 +76,7 @@ Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
 
 (2) ISO, ISO Central Secretariat, Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland.
 
-(i) ISO 7889:2003(E), Yogurt - Enumeration of Characteristic Microorganisms - Colony-Count Technique at 37 °C, First edition, 2003-02-01.
+(i) ISO 7889:2003(E), Yogurt—Enumeration of Characteristic Microorganisms—Colony-Count Technique at 37 °C, First edition, 2003-02-01.
 
 Note 1 to paragraph (h)(2)(i):
 
@@ -76,4 +84,4 @@ ISO 7889:2003(E) is co-published as IDF 117:2003(E).
 
 (ii) [Reserved]
 
-[86 FR 31137, June 11, 2021]Effective Date Note:At 87 FR 16394, Mar. 23, 2022, § 131.200(a), (b), (c), (d)(2), and (d)(8)(ii) were stayed indefinitely.
+[86 FR 31137, June 11, 2021, as amended at 87 FR 76568, Dec. 15, 2022]

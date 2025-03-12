@@ -1,20 +1,16 @@
-##### § 660.111 Trawl fishery - definitions. #####
-
-Link to an amendment published at 87 FR 77005, Dec. 16, 2022.
+##### § 660.111 Trawl fishery—definitions. #####
 
 These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11.
 
 *Accumulation limits* mean the maximum extent of permissible ownership, control or use of a privilege within the trawl rationalization program, and include the following:
 
-(1) *Shorebased IFQ Program* - (i) *Control limits* means the maximum amount of QS or IBQ that a person may own or control, as described at § 660.140(d)(4).
+(1) *Shorebased IFQ Program*—(i) *Control limits* means the maximum amount of QS or IBQ that a person may own or control, as described at § 660.140(d)(4).
 
 (ii) *Vessel limits* means the maximum amount of QP a vessel can hold, acquire, and/or use during a calendar year, and specify the maximum amount of QP that may be registered to a single vessel during the year (QP Vessel Limit) and, for some species, the maximum amount of unused QP registered to a vessel account at any one time (Unused QP Vessel Limit), as described at § 660.140(e)(4). Compliance with the QP vessel limit (annual limit) is calculated as all QPs transferred in minus all QPs transferred out of the vessel account.
 
-(2) *MS Coop Program.* (i) MS permit usage limit means the maximum amount of the annual mothership sector Pacific whiting allocation that a person owning an MS permit may cumulatively process, no more than 45 percent, as described at § 660.150(f)(3)(i).
+(2) *MS Coop Program.* (i) MS/CV permit ownership limit means the maximum amount of catch history assignment that a person may own, no more than 20 percent of the MS sector's allocation of Pacific whiting, as described at § 660.150(g)(3)(i).
 
-(ii) MS/CV permit ownership limit means the maximum amount of catch history assignment that a person may own, no more than 20 percent of the MS sector's allocation of Pacific whiting, as described at § 660.150(g)(3)(i).
-
-(iii) Catcher vessel usage limit means the maximum amount of the annual mothership sector Pacific whiting allocation that a vessel may catch, no more than 30 percent, as described at § 660.150(g)(3)(ii).
+(ii) Catcher vessel usage limit means the maximum amount of the annual mothership sector Pacific whiting allocation that a vessel may catch, no more than 30 percent, as described at § 660.150(g)(3)(ii).
 
 *Block area closures* or *BACs* are a type of groundfish conservation area, defined at § 660.11, bounded on the north and south by commonly used geographic coordinates, defined at § 660.11, and on the east and west by the EEZ, and boundary lines approximating depth contours, defined with latitude and longitude coordinates at §§ 660.71 through 660.74 (10 fm through 250 fm), and § 660.76 (700 fm). BACs may be implemented or modified as routine management measures, per regulations at § 660.60(c). BACs may be implemented in the EEZ seaward of Washington, Oregon and California for vessels using limited entry bottom trawl and/or midwater trawl gear. BACs may be implemented within tribal Usual and Accustomed fishing areas but may only apply to non-tribal vessels. BACs may close areas to specific trawl gear types (e.g., closed for midwater trawl, bottom trawl, or bottom trawl unless using selective flatfish trawl) and/or specific programs within the trawl fishery (e.g., Pacific whiting fishery or MS Coop Program). BACs may vary in their geographic boundaries and duration. Their geographic boundaries, applicable gear type(s) and/or specific trawl fishery program, and effective dates will be announced in the Federal Register. BACs may have a specific termination date as described in the Federal Register*,* or may be in effect until modified. BACs that are in effect until modified by Council recommendation and subsequent NMFS action are set out in Tables 1 (North) and 1 (South) of this subpart.
 
@@ -42,9 +38,9 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 (1) For the Shorebased IFQ Program, the value of all groundfish species (as defined in § 660.11) from IFQ landings.
 
-(2) For the MS Coop Program, the value of all groundfish species (as defined in § 660.11) delivered by a catcher vessel to an MS-permitted vessel.
+(2) For the MS Co-op Program, the value of Pacific whiting delivered by a catcher vessel to an MS-permitted vessel.
 
-(3) For the C/P Coop Program, the value as determined by the aggregate pounds of all groundfish species catch (as defined in § 660.11) retained on board, by the vessel registered to a C/P-endorsed limited entry trawl permit, multiplied by the MS Coop Program average price per pound as announced pursuant to § 660.115(b)(2).
+(3) For the C/P Co-op Program, the value as determined by the aggregate pounds of Pacific whiting retained on board by the vessel registered to a C/P-endorsed limited entry trawl permit, multiplied by the MS Co-op Program average price per pound as announced pursuant to § 660.115(b)(2).
 
 *Fish buyer* means, for the purposes of the cost recovery program specified at § 660.115,
 
@@ -84,8 +80,6 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 *Mothership (MS) Coop Program or MS sector* refers to the fishery described at § 660.150, subpart D, and includes both the coop and non-coop fisheries. The MS Coop Program is composed of motherships with MS permits and catcher vessels registered to a limited entry permit with an MS/CV endorsement and a valid declaration for limited entry, midwater trawl, Pacific whiting mothership sector. The MS Coop Program also includes vessels registered to a limited entry permit without an MS/CV endorsement if the vessel is authorized to harvest the MS sector's allocation and has a valid declaration for limited entry, midwater trawl, Pacific whiting mothership sector.
 
-*Mutual agreement exception* means, for the purpose of § 660.150, subpart D, an agreement that allows the owner of an MS/CV-endorsed limited entry permit to withdraw the permit's obligation of its catch history assignment to a permitted mothership processor, when mutually agreed to with the mothership processor, and to obligate to a different permitted mothership processor.
-
 *Net ex-vessel value* means, for the purposes of the cost recovery program specified at § 660.115, the ex-vessel value minus the cost recovery fee.
 
 *Pacific halibut set-aside* means an amount of Pacific halibut annually set aside for the at-sea whiting fisheries (mothership and C/P sectors) and which is based on the trawl allocation of Pacific whiting.
@@ -95,8 +89,6 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 *Pacific whiting IFQ fishery* is composed of vessels on Pacific whiting IFQ trips.
 
 *Pacific whiting IFQ trip* means a trip in which a vessel uses midwater groundfish trawl gear during the dates of the Pacific whiting primary season to target Pacific whiting, and Pacific whiting constitutes 50 percent or more of the catch by weight at landing as reported on the state landing receipt. Vessels on Pacific whiting IFQ trips must have a valid declaration for limited entry midwater trawl, Pacific whiting shorebased IFQ.
-
-*Processor obligation* means an annual requirement for an MS/CV-endorsed limited entry permit to assign the amount of catch available from the permit's catch history assignment to a particular MS permit.
 
 *Quota pounds (QP)* means the quotas, expressed in round weight of fish, that are issued annually to each QS permit owner in the Shorebased IFQ Program based on the amount of QS they own and the amount of fish allocated to the Shorebased IFQ Program. QP have the same species/species group and area designations as the QS from which they are issued.
 
@@ -110,4 +102,4 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 *Vessel account* means an account held by the vessel owner where QP and IBQ pounds are registered for use by a vessel in the Shorebased IFQ Program.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78383, Dec. 15, 2010; 76 FR 74739, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 77271, Dec. 14, 2015; 84 FR 63986, Nov. 19, 2019; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77026, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78383, Dec. 15, 2010; 76 FR 74739, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 77271, Dec. 14, 2015; 84 FR 63986, Nov. 19, 2019; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77026, Dec. 16, 2022; 87 FR 77005, Dec. 16, 2022]

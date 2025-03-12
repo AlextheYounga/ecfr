@@ -1,7 +1,5 @@
 ##### § 130.10 Requirements for foods named by use of a nutrient content claim and a standardized term. #####
 
-Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
-
 (a) *Description.* The foods prescribed by this general definition and standard of identity are those foods that substitute (see § 101.13(d) of this chapter) for a standardized food defined in parts 131 through 169 of this chapter and that use the name of that standardized food in their statement of identity but that do not comply with the standard of identity because of a deviation that is described by an expressed nutrient content claim that has been defined by FDA regulation. The nutrient content claim shall comply with the requirements of § 101.13 of this chapter and with the requirements of the regulations in part 101 of this chapter that define the particular nutrient content claim that is used. The food shall comply with the relevant standard in all other respects except as provided in paragraphs (b), (c), and (d) of this section.
 
 (b) *Nutrient addition.* (1) Nutrients shall be added to the food to restore nutrient levels so that the product is not nutritionally inferior, as defined in § 101.3(e)(4) of this chapter, to the standardized food as defined in parts 131 through 169 of this chapter. The addition of nutrients shall be reflected in the ingredient statement.
@@ -20,10 +18,12 @@ Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
 
 (5) Water and fat analogs may be added to replace fat and calories in accordance with § 130.10(c), (d)(1), and (d)(2).
 
-(e) *Nomenclature.* The name of a substitute food that complies with all parts of this regulation is the appropriate expressed nutrient content claim and the applicable standardized term.
+(e) *Yogurt with modified milkfat and fat-containing flavoring ingredients.* Fat-containing flavoring ingredients may be added to yogurt for which the milkfat content has been modified in accordance with the expressed nutrient content claim regulations in § 101.62(b) of this chapter. The name of the food includes the term “\_\_ yogurt,” the blank being filled in with the nutrient content claim in § 101.62(b)(1)(i), (b)(2)(i), or (b)(4)(i) of this chapter corresponding to the milkfat content, and a descriptor of the fat-containing flavoring ingredient(s).
 
-(f) *Label declaration.* (1) Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of part 101 of this chapter and part 130.
+(f) *Nomenclature.* The name of a substitute food that complies with all parts of this regulation is the appropriate expressed nutrient content claim and the applicable standardized term.
+
+(g) *Label declaration.* (1) Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of part 101 of this chapter and part 130.
 
 (2) Ingredients not provided for, and ingredients used in excess of those levels provided for, by the standard as defined in parts 131 through 169 of this chapter, shall be identified as such with an asterisk in the ingredient statement, except that ingredients added to restore nutrients to the product as required in paragraph (b) of this section shall not be identified with an asterisk. The statement “\*Ingredient(s) not in regular \_\_\_\_\_\_” (fill in name of the traditional standardized food) or “\*Ingredient(s) in excess of amount permitted in regular \_\_\_\_\_\_” (fill in name of the traditional standardized food) or both as appropriate shall immediately follow the ingredient statement in the same type size.
 
-[58 FR 2446, Jan. 6, 1993, as amended at 86 FR 31137, June 11, 2021]
+[58 FR 2446, Jan. 6, 1993, as amended at 86 FR 31137, June 11, 2021; 87 FR 76568, Dec. 15, 2022]

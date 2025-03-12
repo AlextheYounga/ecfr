@@ -1,6 +1,4 @@
-##### § 660.113 Trawl fishery - recordkeeping and reporting. #####
-
-Link to an amendment published at 87 FR 77005, Dec. 16, 2022.
+##### § 660.113 Trawl fishery—recordkeeping and reporting. #####
 
 General groundfish recordkeeping and reporting requirements are defined at § 660.13, subpart C. The following recordkeeping and reporting requirements are in addition to those and are specific to the limited entry trawl fisheries.
 
@@ -8,7 +6,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (2) All records used in the preparation of records or reports specified in this section or corrections to these reports must be maintained for a period of not less than three years after the date of landing and must be immediately available upon request for inspection by NMFS or authorized officers or others as specifically authorized by NMFS. Records used in the preparation of required reports specified in this section or corrections to these reports that are required to be kept include, but are not limited to, any written, recorded, graphic, electronic, or digital materials as well as other information stored in or accessible through a computer or other information retrieval system; worksheets; weight slips; preliminary, interim, and final tally sheets; receipts; checks; ledgers; notebooks; diaries; spreadsheets; diagrams; graphs; charts; tapes; disks; or computer printouts. All relevant records used in the preparation of electronic fish ticket reports or corrections to these reports, including dock tickets, must be maintained for a period of not less than three years after the date of landing and must be immediately available upon request for inspection by NMFS or authorized officers or others as specifically authorized by NMFS.
 
-(b) *Shorebased IFQ Program* - (1) *Economic data collection (EDC) program.* The following persons are required to submit an EDC form as specified at § 660.114:
+(b) *Shorebased IFQ Program*—(1) *Economic data collection (EDC) program.* The following persons are required to submit an EDC form as specified at § 660.114:
 
 (i) All owners, lessees, and charterers of a catcher vessel registered to a limited entry trawl endorsed permit.
 
@@ -124,19 +122,19 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*5*) The dates and amounts of disbursements to the fish buyer, or other parties, of interest earned on deposits.
 
-(c) *MS Coop Program (coop and non-coop fisheries)* - (1) *Economic data collection (EDC) program.* The following persons are required to submit a complete economic data collection form as specified at § 660.114.
+(c) *MS Coop Program (coop and non-coop fisheries)*—(1) *Economic data collection (EDC) program.* The following persons are required to submit a complete economic data collection form as specified at § 660.114.
 
 (i) All owners, lessees, and charterers of a catcher vessel registered to a limited entry trawl MS/CV-endorsed permit.
 
 (ii) All owners, lessees, and charterers of a vessel registered to an MS permit.
 
-(2) *NMFS-approved scale* - (i) *Scale test report form.* Mothership vessel operators are responsible for conducting scale tests and for recording the scale test information on the scale test report form as specified at § 660.15(b), for mothership vessels.
+(2) *NMFS-approved scale*—(i) *Scale test report form.* Mothership vessel operators are responsible for conducting scale tests and for recording the scale test information on the scale test report form as specified at § 660.15(b), for mothership vessels.
 
 (ii) *Printed scale reports.* Requirements pertaining to printed scale reports and scale weight printouts are specified at § 660.15(b), for mothership vessels.
 
 (iii) *Retention of scale records and reports.* Vessels must maintain scale test report forms on board until the end of the fishing year during which the tests were conducted, and make the report forms available to observers, NMFS staff, or authorized officers. In addition, the scale test report forms must be maintained for 3 years after the end of the fishing year during which the tests were performed. All scale test report forms must be signed by the operator.
 
-(3) *Annual coop report.* The designated coop manager for the mothership coop must submit an annual report to NMFS and the Council by March 31 each year, before a coop permit is issued for that year. The annual coop report will contain information about the previous year's fishery, including:
+(3) *Annual co-op report.* The designated co-op manager for the mothership co-op must submit an annual report to NMFS and the Council by March 17 each year, before a co-op permit is issued for that year. The annual co-op report will contain information about the previous year's fishery, including:
 
 (i) The mothership sector's annual allocation of Pacific whiting and the permitted mothership coop allocation;
 
@@ -152,7 +150,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (5) *Cost recovery program.* In addition to the requirements at paragraph (a) of this section, the fish buyer, as defined at § 660.111 for the MS Coop Program, is required to comply with the following recordkeeping and reporting requirements:
 
-(i) *Reporting* - (A) *Cost recovery form.* The fish buyer must submit a cost recovery form at the time cost recovery fees are paid to NMFS as specified at § 660.115. The cost recovery form requires providing information that includes, but is not limited to, fish buyer's name, address, phone number, MS permit number, vessel name, USCG vessel documentation number, month and year of deliveries, weight of deliveries, ex-vessel value, and fee due.
+(i) *Reporting*—(A) *Cost recovery form.* The fish buyer must submit a cost recovery form at the time cost recovery fees are paid to NMFS as specified at § 660.115. The cost recovery form requires providing information that includes, but is not limited to, fish buyer's name, address, phone number, MS permit number, vessel name, USCG vessel documentation number, month and year of deliveries, weight of deliveries, ex-vessel value, and fee due.
 
 (B) *Annual report.* By March 31 each year, each fish buyer must submit to NMFS a report containing the following information from the preceding calendar year for all groundfish each fish buyer purchases from fish sellers:
 
@@ -168,25 +166,25 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (ii) *Recordkeeping.* The fish buyer must maintain the following records:
 
-(A) For all deliveries of groundfish that the fish buyer buys from each fish seller:
+(A) For all deliveries of Pacific whiting that the fish buyer buys from each fish seller:
 
 (*1*) The date of delivery,
 
 (*2*) The fish seller's identity,
 
-(*3*) The weight of each species of groundfish delivered,
+(*3*) The weight of Pacific whiting delivered;
 
 (*4*) Information sufficient to specifically identify the fishing vessel which delivered the groundfish,
 
-(*5*) The ex-vessel value of each species of groundfish,
+(*5*) The ex-vessel value of Pacific whiting;
 
-(*6*) The net ex-vessel value of each species of groundfish,
+(*6*) The net ex-vessel value of Pacific whiting;
 
 (*7*) The identity of the payee to whom the net ex-vessel value is paid, if different than the fish seller,
 
 (*8*) The date the net ex-vessel value was paid,
 
-(*9*) The total fee amount collected as a result of all groundfish.
+(*9*) The total fee amount collected as a result of all Pacific whiting.
 
 (B) For all fee collection deposits to and disbursements from the deposit account:
 
@@ -200,15 +198,15 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*5*) The dates and amounts of disbursements to the fish buyer, or other parties, of interest earned on deposits.
 
-(d) *C/P Coop Program* - (1) *Economic data collection (EDC) program.* All owners, lessees, and charterers of a vessel registered to a C/P-endorsed limited entry trawl permit are required to submit a complete economic data collection form as specified at § 660.114.
+(d) *C/P Coop Program*—(1) *Economic data collection (EDC) program.* All owners, lessees, and charterers of a vessel registered to a C/P-endorsed limited entry trawl permit are required to submit a complete economic data collection form as specified at § 660.114.
 
-(2) *NMFS-approved scales* - (i) *Scale test report form.* Catcher/processor vessel operators are responsible for conducting scale tests and for recording the scale test information on the scale test report form as specified at § 660.15(b), for catcher/processor vessels.
+(2) *NMFS-approved scales*—(i) *Scale test report form.* Catcher/processor vessel operators are responsible for conducting scale tests and for recording the scale test information on the scale test report form as specified at § 660.15(b), for catcher/processor vessels.
 
 (ii) *Printed scale reports.* Specific requirements pertaining to printed scale reports and scale weight printouts are specified at § 660.15(b), for catcher/processor vessels.
 
 (iii) *Retention of scale records and reports.* The vessel must maintain the scale test report form on board until the end of the fishing year during which the tests were conducted, and make the report forms available to observers, NMFS staff, or authorized officers. In addition, the scale test report forms must be maintained for 3 years after the end of the fishing year during which the tests were performed. All scale test report forms must be signed by the operator.
 
-(3) *Annual coop report.* The designated coop manager for the C/P coop must submit an annual report to NMFS and the Council by March 31 each year, before a coop permit is issued for that year. The annual coop report will contain information about the previous year's fishery, including:
+(3) *Annual co-op report.* The designated co-op manager for the C/P co-op must submit an annual report to NMFS and the Council by March 17 each year, before a co-op permit is issued for that year. The annual co-op report will contain information about the previous year's fishery, including:
 
 (i) The C/P sector's annual allocation of Pacific whiting;
 
@@ -228,19 +226,19 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (ii) *Recordkeeping.* The fish buyer must maintain the following records:
 
-(A) For all groundfish:
+(A) For all Pacific whiting:
 
 (*1*) The date of harvest,
 
-(*2*) The weight of each species of groundfish retained on board,
+(*2*) The weight of Pacific whiting retained on board;
 
 (*3*) Information sufficient to specifically identify the fishing vessel which harvested the groundfish,
 
-(*4*) The ex-vessel value of each species of groundfish retained on board,
+(*4*) The ex-vessel value of Pacific whiting retained on board;
 
-(*5*) The net ex-vessel value of each species of groundfish retained on board,
+(*5*) The net ex-vessel value of Pacific whiting retained on board; and
 
-(*6*) The total fee amount collected as a result of all groundfish.
+(*6*) The total fee amount collected as a result of all Pacific whiting.
 
 (B) For all disbursements to NMFS:
 
@@ -252,7 +250,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (1) *Applicability of further measures to manage salmon bycatch.* Routine management measures to minimize Chinook salmon bycatch as described in § 660.60(i) may be implemented for vessels with an approved SMP.
 
-(2) *SMP contents.* The SMP must contain, at a minimum, the following -
+(2) *SMP contents.* The SMP must contain, at a minimum, the following—
 
 (i) *SMP name.* The name of the SMP.
 
@@ -278,11 +276,11 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (C) How the SMP is expected to promote reductions in Chinook salmon bycatch relative to what would have occurred in absence of the SMP.
 
-(3) *Deadline for proposed SMP.* A proposed SMP must be submitted between February 1 and March 31 of the year in which it intends to be in effect to NMFS at: NMFS, West Coast Region, ATTN: Fisheries Permit Office, Bldg. 1, 7600 Sand Point Way NE, Seattle, WA 98115. In 2021, NMFS may consider proposals received after March 31. In 2021, NMFS will announce any changes to the SMP submission deadline via public notice. In 2022 and beyond, NMFS will not consider any proposals received after March 31.
+(3) *Deadline for proposed SMP.* A proposed SMP must be submitted between February 1 and March 17 of the year in which it intends to be in effect to NMFS at: NMFS, West Coast Region, ATTN: Fisheries Permit Office, Bldg. 1, 7600 Sand Point Way NE, Seattle, WA 98115.
 
 (4) *Duration.* Once approved, the SMP expires on December 31 of the year in which it was approved. An SMP may not expire mid-year. No party may join or leave an SMP once it is approved, except as allowed in paragraph (e)(5)(iii) of this section.
 
-(5) *NMFS review of a proposed SMP* - (i) *Approval.* The Assistant Regional Administrator will provide written notification of approval to the designated SMP representative if the SMP meets the following requirements:
+(5) *NMFS review of a proposed SMP*—(i) *Approval.* The Assistant Regional Administrator will provide written notification of approval to the designated SMP representative if the SMP meets the following requirements:
 
 (A) Contains the information required in paragraph (e)(2) of this section;
 
@@ -300,7 +298,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (C) As determined by NMFS, is reasonably expected to reduce Chinook salmon bycatch.
 
-(iv) *Disapproval* - (A) *NMFS Disapproval.* NMFS will disapprove a proposed SMP or a proposed amendment to an SMP for any of the following reasons:
+(iv) *Disapproval*—(A) *NMFS Disapproval.* NMFS will disapprove a proposed SMP or a proposed amendment to an SMP for any of the following reasons:
 
 (*1*) If the proposed SMP fails to meet any of the requirements of paragraphs (e)(2) through (4) of this section,
 
@@ -316,7 +314,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (6) *SMP postseason report.* The designated SMP representative for an approved SMP must submit a written postseason report to NMFS and the Council for the year in which the SMP was approved.
 
-(i) *Submission deadline.* The SMP postseason report must be received by NMFS and the Council no later than March 31 of the year following that in which the SMP was approved.
+(i) *Submission deadline.* The SMP postseason report must be received by NMFS and the Council no later than March 17 of the year following that in which the SMP was approved.
 
 (ii) *Information requirements.* The SMP postseason report must contain, at a minimum, the following information:
 
@@ -328,4 +326,4 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (D) A description of any amendments to the terms of the SMP that were approved by NMFS during the fishing year in which the SMP was approved and the reasons the amendments to the SMP were made.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77005, Dec. 16, 2022]

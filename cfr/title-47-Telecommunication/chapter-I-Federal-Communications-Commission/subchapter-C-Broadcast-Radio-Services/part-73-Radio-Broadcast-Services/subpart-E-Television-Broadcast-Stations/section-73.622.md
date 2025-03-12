@@ -519,7 +519,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |       Lowell       |                        \*S                        |   |
 |    Marlborough     |                        27                         |   |
 |    New Bedford     |                       24, S                       |   |
-|      Norwell       |                        10                         |   |
+|      Norwell       |                        36                         |   |
 |     Pittsfield     |                         7                         |   |
 |    Springfield     |                   11, \*13, 26                    |   |
 |       Woburn       |                         S                         |   |
@@ -869,7 +869,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |     Knoxville      |              7, 10, 15, 26, \*29, 34              |   |
 |      Lebanon       |                        25                         |   |
 |     Lexington      |                       \*27                        |   |
-|      Memphis       |          5, 13, 23, 25, 28, \*29, 31, 33          |   |
+|      Memphis       |         13, 23, 25, 28, \*29, 30, 31, 33          |   |
 |    Murfreesboro    |                        16                         |   |
 |     Nashville      |            \*7, 10, 20, 21, 27, 30, 36            |   |
 |     Sneedville     |                       \*24                        |   |

@@ -5598,7 +5598,47 @@ NOTE:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.186.gif)Family Polygonaceae: *Oxytheca parishii* var. *goodmaniana* (Cushenbury oxytheca)
+![](/graphics/ec01jn91.186.gif)Family Polygonaceae: *Eriogonum tiehmii* (Tiehm's buckwheat)
+
+(1) The critical habitat unit is depicted for Esmeralda County, Nevada, on the map in this entry.
+
+(2) Within this area, the physical or biological features essential to the conservation of Tiehm's buckwheat consist of the following:
+
+(i) *Plant community.* A plant community that supports all life stages of Tiehm's buckwheat includes:
+
+(A) Open to sparsely vegetated areas with low native plant cover and stature.
+
+(B) An intact, native vegetation assemblage that can include, but is not limited to, shadscale saltbush (*Atriplex confertifolia*), black sagebrush (*Artemisia nova*), Nevada mormon tea (*Ephedra nevadensis*), James' galleta (*Hilaria jamesii* (formerly *Pleuraphis jamesii*)), and alkali sacaton (*Sporobolus airoides*) to maintain plant-plant interactions and ecosystem resiliency and provide the habitats needed by Tiehm's buckwheat's insect visitors and pollinators.
+
+(C) A diversity of native plants whose blooming times overlap to provide insect visitors and pollinator species with flowers for foraging throughout the seasons and to provide nesting and egg-laying sites; appropriate nest materials; and sheltered, undisturbed habitat for hibernation and overwintering of pollinator species and insect visitors.
+
+(ii) *Pollinators and insect visitors.* Sufficient pollinators and insect visitors, particularly bees, wasps, beetles, and flies, are present for the species' successful reproduction and seed production.
+
+(iii) *Hydrology.* Hydrology that is suitable for Tiehm's buckwheat consists of dry, open, relatively barren, upland sites subject to occasional precipitation from rain and/or snow for seed germination.
+
+(iv) *Suitable soils.* Soils that are suitable for Tiehm's buckwheat consist of:
+
+(A) Soils with a high percentage (70-95 percent) of surface fragments that is classified as clayey, smectitic, calcareous, mesic Lithic Torriorthents; clayey-skeletal, smectitic, mesic Typic Calcicargids; and clayey, smectitic, mesic Lithic Haplargids.
+
+(B) Soils that have a thin (0-5.5 inch (in) (0-14 centimeter (cm)) A horizon; B horizons that are present as Bt (containing illuvial layer of lattice clays) or Bw (weathered); C horizons that are not always present; and soil depths to bedrock that range from 3.5 to 20 in (9 to 51 cm).
+
+(C) Soils characterized by a variety of textures and that include gravelly clay loam, sand, clay, very gravelly silty clay, and gravelly loam.
+
+(D) Soils with pH greater than 7.6 (*i.e.,* alkaline) in all soil horizons.
+
+(E) Soils that commonly have on average boron and bicarbonates present at higher levels and potassium, zinc, sulfur, and magnesium present at lower levels.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on January 17, 2023.
+
+(4) Data layers defining the map unit were created by the Service, and the critical habitat unit was then mapped using Universal Transverse Mercator Zone 11N coordinates. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R8-ES-2020-0017 and at the field office responsible for this designation. You may obtain field office location information by contacting the Service regional office, the address of which is listed at 50 CFR 2.2.
+
+(5) Rhyolite Ridge Unit, Esmeralda County, Nevada.
+
+(i) The Rhyolite Ridge Unit consists of approximately 910 acres (368 hectares) of occupied habitat in the Rhyolite Ridge area of the Silver Peak Range in Esmeralda County, Nevada. All lands within this unit are under Federal ownership (Bureau of Land Management).
+
+(ii) Map of the Rhyolite Ridge Unit follows:
+
+Figure 1 to *Eriogonum tiehmii* (Tiehm's buckwheat) paragraph (5)(ii)![](/graphics/er16de22.019.gif)Family Polygonaceae: *Oxytheca parishii* var. *goodmaniana* (Cushenbury oxytheca)
 
 (1) Critical habitat units are depicted for San Bernardino County, California, on the map below. The map provided is for informational purposes only.
 

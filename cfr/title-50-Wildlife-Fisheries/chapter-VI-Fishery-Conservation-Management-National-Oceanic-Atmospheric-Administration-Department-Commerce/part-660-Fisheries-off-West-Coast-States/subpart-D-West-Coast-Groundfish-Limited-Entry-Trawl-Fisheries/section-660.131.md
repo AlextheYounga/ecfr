@@ -1,10 +1,8 @@
 ##### § 660.131 Pacific whiting fishery management measures. #####
 
-Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
-
 (a) *General.* This section applies to the MS sector, the C/P sector, the Pacific whiting IFQ fishery, and Shorebased IFQ vessels targeting Pacific whiting under trip limits outside the Pacific whiting primary season.
 
-(b) *Pacific whiting primary seasons and Pacific whiting trip limits* - (1) *Pacific whiting fishery primary seasons.* (i) For the Pacific whiting IFQ fishery, the primary season is the period(s) of the large-scale Pacific whiting target fishery conducted after the primary season start date.
+(b) *Pacific whiting primary seasons and Pacific whiting trip limits*—(1) *Pacific whiting fishery primary seasons.* (i) For the Pacific whiting IFQ fishery, the primary season is the period(s) of the large-scale Pacific whiting target fishery conducted after the primary season start date.
 
 (ii) For the C/P sector, the primary season is the period(s) when catching and at-sea processing are allowed (after the season closes, at-sea processing of any fish already on board the processing vessel is allowed to continue).
 
@@ -14,19 +12,19 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (i) *Procedures.* The Pacific whiting primary seasons north of 40°30′ N. lat. generally will be established according to the procedures of the PCGFMP for developing and implementing harvest specifications and apportionments. The season opening dates remain in effect unless changed.
 
-(ii) *Criteria.* The start of a Pacific whiting primary season may be changed based on a recommendation from the Council and consideration of the following factors, if applicable: Size of the harvest guidelines for whiting and bycatch species; age/size structure of the whiting population; expected harvest of bycatch and prohibited species; availability and stock status of prohibited species; expected participation by catchers and processors; the period between when catcher vessels make annual processor obligations and the start of the fishery; environmental conditions; timing of alternate or competing fisheries; industry agreement; fishing or processing rates; and other relevant information.
+(ii) *Criteria.* The start of a Pacific whiting primary season may be changed based on a recommendation from the Council and consideration of the following factors, if applicable: Size of the harvest guidelines for whiting and bycatch species; age/size structure of the whiting population; expected harvest of bycatch and prohibited species; availability and stock status of prohibited species; expected participation by catchers and processors; environmental conditions; timing of alternate or competing fisheries; industry agreement; fishing or processing rates; and other relevant information.
 
 (iii) *Primary whiting season start dates and duration.* After the start of a primary season for a sector of the Pacific whiting fishery, the primary season remains open for that sector until the sector allocation of whiting or non-whiting groundfish (with allocations) is reached or projected to be reached and the primary season for that sector is closed by NMFS. The starting dates for the primary seasons are as follows:
 
-(A) Catcher/processor sector - May 15.
+(A) Catcher/processor sector—May 1.
 
-(B) Mothership sector - May 15.
+(B) Mothership sector—May 1.
 
 (C) *Shorebased IFQ Program.* The start of the Shorebased IFQ Program primary whiting season is:
 
-(*1*) North of 40°30′ N. lat. - May 15;
+(*1*) North of 40°30′ N lat.—May 1; and
 
-(*2*) South of 40°30′ N. lat. - April 15.
+(*2*) South of 40°30′ N. lat.—April 15.
 
 (3) *Pacific whiting trip limits.* For Shorebased IFQ Program vessels targeting Pacific whiting outside the primary season, the “per trip” limit for whiting is announced in Table 1 of this subpart. The per-trip limit is a routine management measure under § 660.60(c). This trip limit includes any whiting caught shoreward of 100 fm (183 m) in the Eureka management-area. The per-trip limit for other groundfish species are announced in Table 1 (North) and Table 1 (South) of this subpart and apply as follows:
 
@@ -76,4 +74,4 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019; 87 FR 77006, Dec. 16, 2022]

@@ -1,8 +1,6 @@
 ##### § 810.800 Prohibited acts. #####
 
-Link to an amendment published at 88 FR 2217, Jan. 13, 2023.
-
-(a) *Discrimination.* (1) It is unlawful to intimidate, threaten, restrain, coerce, blacklist, discharge, or in any other manner discriminate against any person because the person has -
+(a) *Discrimination.* (1) It is unlawful to intimidate, threaten, restrain, coerce, blacklist, discharge, or in any other manner discriminate against any person because the person has—
 
 (i) Disclosed information to a federal agency or to any person relating to a verification of the producer's compliance with the LVC requirements, or
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 2217, Jan. 13, 2023.
 
 (3) The Administrator's determination shall:
 
-(i) Set forth the determination of the Administrator and the reason or reasons therefore, and in the case of a finding of violation(s), prescribe any remedies, including monetary relief, injunctive relief, civil money penalties of up to $53,111 per violation, and/or any other remedies assessed.
+(i) Set forth the determination of the Administrator and the reason or reasons therefore, and in the case of a finding of violation(s), prescribe any remedies, including monetary relief, injunctive relief, civil money penalties of up to $57,224 per violation, and/or any other remedies assessed.
 
 (ii) Inform the interested parties that they may request a hearing pursuant to paragraph (d) of this section.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 88 FR 2217, Jan. 13, 2023.
 
 (f) *Review of an order of the Administrative Review Board.* An order of the Administrative Review Board under this subpart is subject to discretionary review by the Secretary of Labor (as provided in Secretary of Labor's Order 01-2020 or any successor to that order).
 
-[85 FR 39810, July 1, 2020, as amended at 87 FR 2335, Jan. 14, 2022]
+[85 FR 39810, July 1, 2020, as amended at 87 FR 2335, Jan. 14, 2022; 88 FR 2217, Jan. 1 3, 2023]

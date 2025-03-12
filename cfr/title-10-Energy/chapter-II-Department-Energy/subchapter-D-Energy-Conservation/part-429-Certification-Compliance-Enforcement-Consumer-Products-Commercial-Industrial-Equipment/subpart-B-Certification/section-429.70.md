@@ -1,12 +1,10 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 87 FR 77321, Dec. 16, 2022.
-
 (a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.65 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
 
-(c) *Alternative efficiency determination method (AEDM) for commercial HVAC (includes commercial warm air furnaces and commercial packaged boilers), WH, and refrigeration equipment* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
+(c) *Alternative efficiency determination method (AEDM) for commercial HVAC & WH products (excluding air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 Btu/h cooling capacity), and commercial refrigerators, freezers, and refrigerator-freezers* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 
@@ -46,51 +44,52 @@ Link to an amendment published at 87 FR 77321, Dec. 16, 2022.
 
 (iv) *Validation classes.*
 
-|                                                                            Validation class                                                                             |Minimum number of  <br/>distinct models that  <br/>must be tested per AEDM|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|                      Air-Cooled, Split and Packaged Air Conditioners (ACs) and Heat Pumps (HPs) less than 65,000 Btu/h Cooling Capacity (3-Phase)                       |                             2 Basic Models.                              |
-|                                                                 (A) Commercial HVAC Validation Classes                                                                  |                                                                          |
-|             Air-Cooled, Split and Packaged ACs and HPs greater than or equal to 65,000 Btu/h Cooling Capacity and Less than 760,000 Btu/h Cooling Capacity              |                             2 Basic Models.                              |
-|                                                  Water-Cooled, Split and Packaged ACs and HPs, All Cooling Capacities                                                   |                             2 Basic Models.                              |
-|                                                  Evaporatively-Cooled, Split and Packaged ACs and HPs, All Capacities                                                   |                             2 Basic Models.                              |
-|                                                                    Water-Source HPs, All Capacities                                                                     |                             2 Basic Models.                              |
-|                                                                   Single Package Vertical ACs and HPs                                                                   |                             2 Basic Models.                              |
-|                                                                      Packaged Terminal ACs and HPs                                                                      |                             2 Basic Models.                              |
-|                                                            Air-Cooled, Variable Refrigerant Flow ACs and HPs                                                            |                             2 Basic Models.                              |
-|                                                           Water-Cooled, Variable Refrigerant Flow ACs and HPs                                                           |                             2 Basic Models.                              |
-|                                                               Computer Room Air Conditioners, Air Cooled                                                                |                             2 Basic Models.                              |
-|                                                              Computer Room Air Conditioners, Water-Cooled                                                               |                             2 Basic Models.                              |
-|                     Direct Expansion-Dedicated Outdoor Air Systems, Air-cooled or Air-source Heat Pump, Without Ventilation Energy Recovery Systems                     |                             2 Basic Models.                              |
-|                      Direct Expansion-Dedicated Outdoor Air Systems, Air-cooled or Air-source Heat Pump, With Ventilation Energy Recovery Systems                       |                             2 Basic Models.                              |
-|Direct Expansion-Dedicated Outdoor Air Systems, Water-cooled, Water-source Heat Pump, or Ground Source Closed-loop Heat Pump, Without Ventilation Energy Recovery Systems|                             2 Basic Models.                              |
-| Direct Expansion-Dedicated Outdoor Air Systems, Water-cooled, Water-source Heat Pump, or Ground Source Closed-loop Heat Pump, With Ventilation Energy Recovery Systems  |                             2 Basic Models.                              |
-|                                                             (B) Commercial Water Heater Validation Classes                                                              |                                                                          |
-|                                                Gas-fired Water Heaters and Hot Water Supply Boilers Less than 10 Gallons                                                |                             2 Basic Models.                              |
-|                                        Gas-fired Water Heaters and Hot Water Supply Boilers Greater than or Equal to 10 Gallons                                         |                             2 Basic Models.                              |
-|                                                Oil-fired Water Heaters and Hot Water Supply Boilers Less than 10 Gallons                                                |                             2 Basic Models.                              |
-|                                        Oil-fired Water Heaters and Hot Water Supply Boilers Greater than or Equal to 10 Gallons                                         |                             2 Basic Models.                              |
-|                                                                         Electric Water Heaters                                                                          |                             2 Basic Models.                              |
-|                                                                         Heat Pump Water Heaters                                                                         |                             2 Basic Models.                              |
-|                                                                     Unfired Hot Water Storage Tanks                                                                     |                             2 Basic Models.                              |
-|                                                           (C) Commercial Packaged Boilers Validation Classes                                                            |                                                                          |
-|                                                          Gas-fired, Hot Water Only Commercial Packaged Boilers                                                          |                             2 Basic Models.                              |
-|                                                            Gas-fired, Steam Only Commercial Packaged Boilers                                                            |                             2 Basic Models.                              |
-|                                                          Gas-fired Hot Water/Steam Commercial Packaged Boilers                                                          |                             2 Basic Models.                              |
-|                                                          Oil-fired, Hot Water Only Commercial Packaged Boilers                                                          |                             2 Basic Models.                              |
-|                                                            Oil-fired, Steam Only Commercial Packaged Boilers                                                            |                             2 Basic Models.                              |
-|                                                          Oil-fired Hot Water/Steam Commercial Packaged Boilers                                                          |                             2 Basic Models.                              |
-|                                                                (D) Commercial Furnace Validation Classes                                                                |                                                                          |
-|                                                                           Gas-fired Furnaces                                                                            |                             2 Basic Models.                              |
-|                                                                           Oil-fired Furnaces                                                                            |                             2 Basic Models.                              |
-|                                                       (E) Commercial Refrigeration Equipment Validation Classes1                                                        |                                                                          |
-|                                                                    Self-Contained Open Refrigerators                                                                    |                             2 Basic Models.                              |
-|                                                                      Self-Contained Open Freezers                                                                       |                             2 Basic Models.                              |
-|                                                                  Remote Condensing Open Refrigerators                                                                   |                             2 Basic Models.                              |
-|                                                                     Remote Condensing Open Freezers                                                                     |                             2 Basic Models.                              |
-|                                                                   Self-Contained Closed Refrigerators                                                                   |                             2 Basic Models.                              |
-|                                                                     Self-Contained Closed Freezers                                                                      |                             2 Basic Models.                              |
-|                                                                 Remote Condensing Closed Refrigerators                                                                  |                             2 Basic Models.                              |
-|                                                                    Remote Condensing Closed Freezers                                                                    |                             2 Basic Models.                              |
+Table 1 to Paragraph (c)(2)(iv)
+
+|                                                                            Validation class                                                                             |Minimum number of distinct models that must be tested per AEDM|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+|                                                                 (A) Commercial HVAC validation classes                                                                  |                                                              |
+|             Air-Cooled, Split and Packaged ACs and HPs Greater than or Equal to 65,000 Btu/h Cooling Capacity and Less than 760,000 Btu/h Cooling Capacity              |                       2 Basic Models.                        |
+|                                                  Water-Cooled, Split and Packaged ACs and HPs, All Cooling Capacities                                                   |                       2 Basic Models.                        |
+|                                                  Evaporatively-Cooled, Split and Packaged ACs and HPs, All Capacities                                                   |                       2 Basic Models.                        |
+|                                                                    Water-Source HPs, All Capacities                                                                     |                       2 Basic Models.                        |
+|                                                                   Single Package Vertical ACs and HPs                                                                   |                       2 Basic Models.                        |
+|                                                                      Packaged Terminal ACs and HPs                                                                      |                       2 Basic Models.                        |
+|                                Air-Cooled, Variable Refrigerant Flow ACs and HPs Greater than or Equal to 65,000 Btu/h Cooling Capacity                                 |                       2 Basic Models.                        |
+|                                                           Water-Cooled, Variable Refrigerant Flow ACs and HPs                                                           |                       2 Basic Models.                        |
+|                                                               Computer Room Air Conditioners, Air Cooled                                                                |                       2 Basic Models.                        |
+|                                                              Computer Room Air Conditioners, Water-Cooled                                                               |                       2 Basic Models.                        |
+|                     Direct Expansion-Dedicated Outdoor Air Systems, Air-cooled or Air-source Heat Pump, Without Ventilation Energy Recovery Systems                     |                       2 Basic Models.                        |
+|                      Direct Expansion-Dedicated Outdoor Air Systems, Air-cooled or Air-source Heat Pump, With Ventilation Energy Recovery Systems                       |                       2 Basic Models.                        |
+|Direct Expansion-Dedicated Outdoor Air Systems, Water-cooled, Water-source Heat Pump, or Ground Source Closed-loop Heat Pump, Without Ventilation Energy Recovery Systems|                       2 Basic Models.                        |
+| Direct Expansion-Dedicated Outdoor Air Systems, Water-cooled, Water-source Heat Pump, or Ground Source Closed-loop Heat Pump, With Ventilation Energy Recovery Systems  |                       2 Basic Models.                        |
+|                                                             (B) Commercial water heater validation classes                                                              |                                                              |
+|                                                Gas-fired Water Heaters and Hot Water Supply Boilers Less than 10 Gallons                                                |                       2 Basic Models.                        |
+|                                        Gas-fired Water Heaters and Hot Water Supply Boilers Greater than or Equal to 10 Gallons                                         |                       2 Basic Models.                        |
+|                                                Oil-fired Water Heaters and Hot Water Supply Boilers Less than 10 Gallons                                                |                       2 Basic Models.                        |
+|                                        Oil-fired Water Heaters and Hot Water Supply Boilers Greater than or Equal to 10 Gallons                                         |                       2 Basic Models.                        |
+|                                                                         Electric Water Heaters                                                                          |                       2 Basic Models.                        |
+|                                                                         Heat Pump Water Heaters                                                                         |                       2 Basic Models.                        |
+|                                                                     Unfired Hot Water Storage Tanks                                                                     |                       2 Basic Models.                        |
+|                                                           (C) Commercial packaged boilers validation classes                                                            |                                                              |
+|                                                          Gas-fired, Hot Water Only Commercial Packaged Boilers                                                          |                       2 Basic Models.                        |
+|                                                            Gas-fired, Steam Only Commercial Packaged Boilers                                                            |                       2 Basic Models.                        |
+|                                                          Gas-fired Hot Water/Steam Commercial Packaged Boilers                                                          |                       2 Basic Models.                        |
+|                                                          Oil-fired, Hot Water Only Commercial Packaged Boilers                                                          |                       2 Basic Models.                        |
+|                                                            Oil-fired, Steam Only Commercial Packaged Boilers                                                            |                       2 Basic Models.                        |
+|                                                          Oil-fired Hot Water/Steam Commercial Packaged Boilers                                                          |                       2 Basic Models.                        |
+|                                                                (D) Commercial furnace validation classes                                                                |                                                              |
+|                                                                           Gas-fired Furnaces                                                                            |                       2 Basic Models.                        |
+|                                                                           Oil-fired Furnaces                                                                            |                       2 Basic Models.                        |
+|                                                        (E) Commercial refrigeration equipment validation classes                                                        |                                                              |
+|                                                                    Self-Contained Open Refrigerators                                                                    |                       2 Basic Models.                        |
+|                                                                      Self-Contained Open Freezers                                                                       |                       2 Basic Models.                        |
+|                                                                  Remote Condensing Open Refrigerators                                                                   |                       2 Basic Models.                        |
+|                                                                     Remote Condensing Open Freezers                                                                     |                       2 Basic Models.                        |
+|                                                                   Self-Contained Closed Refrigerators                                                                   |                       2 Basic Models.                        |
+|                                                                     Self-Contained Closed Freezers                                                                      |                       2 Basic Models.                        |
+|                                                                 Remote Condensing Closed Refrigerators                                                                  |                       2 Basic Models.                        |
+|                                                                    Remote Condensing Closed Freezers                                                                    |                       2 Basic Models.                        |
 
 <sup>1</sup> The minimum number of tests indicated above must be comprised of a transparent model, a solid model, a vertical model, a semi-vertical model, a horizontal model, and a service-over-the counter model, as applicable based on the equipment offering. However, manufacturers do not need to include all types of these models if it will increase the minimum number of tests that need to be conducted.
 
@@ -160,23 +159,24 @@ Link to an amendment published at 87 FR 77321, Dec. 16, 2022.
 
 (B) For efficiency metrics, the result from a DOE verification test must be greater than or equal to the certified rating × (1 − the applicable tolerance).
 
-|                                                                  Equipment                                                                   |                                                 Metric                                                 | Applicable  <br/>tolerance  <br/>(%) |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------|
-|                                                         Commercial Packaged Boilers                                                          |                             Combustion Efficiency  <br/>Thermal Efficiency                             |       5 (0.05)  <br/>5 (0.05)        |
-|                                             Commercial Water Heaters or Hot Water Supply Boilers                                             |                                 Thermal Efficiency  <br/>Standby Loss                                  |       5 (0.05)  <br/>10 (0.1)        |
-|                                                            Unfired Storage Tanks                                                             |                                                R-Value                                                 |               10 (0.1)               |
-|                         Air-Cooled, Split and Packaged ACs and HPs less than 65,000 Btu/h Cooling Capacity (3-Phase)                         | Seasonal Energy-Efficiency Ratio  <br/>Heating Season Performance Factor  <br/>Energy Efficiency Ratio |5 (0.05)  <br/>5 (0.05)  <br/>10 (0.1)|
-|Air-Cooled, Split and Packaged ACs and HPs greater than or equal to 65,000 Btu/h Cooling Capacity and Less than 760,000 Btu/h Cooling Capacity|   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5 (0.05)  <br/>5 (0.05)  <br/>10 (0.1)|
-|                                     Water-Cooled, Split and Packaged ACs and HPs, All Cooling Capacities                                     |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5 (0.05)  <br/>5 (0.05)  <br/>10 (0.1)|
-|                                     Evaporatively-Cooled, Split and Packaged ACs and HPs, All Capacities                                     |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5 (0.05)  <br/>5 (0.05)  <br/>10 (0.1)|
-|                                                       Water-Source HPs, All Capacities                                                       |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5 (0.05)  <br/>5 (0.05)  <br/>10 (0.1)|
-|                                                     Single Package Vertical ACs and HPs                                                      |                        Energy Efficiency Ratio  <br/>Coefficient of Performance                        |       5 (0.05)  <br/>5 (0.05)        |
-|                                                        Packaged Terminal ACs and HPs                                                         |                        Energy Efficiency Ratio  <br/>Coefficient of Performance                        |       5 (0.05)  <br/>5 (0.05)        |
-|                                                    Variable Refrigerant Flow ACs and HPs                                                     |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5 (0.05)  <br/>5 (0.05)  <br/>10 (0.1)|
-|                                                        Computer Room Air Conditioners                                                        |                                Net Sensible Coefficient of Performance                                 |               5 (0.05)               |
-|                                                Direct Expansion-Dedicated Outdoor Air Systems                                                |Integrated Seasonal Coefficient of Performance 2  <br/>Integrated Seasonal Moisture Removal Efficiency 2|       10 (0.1)  <br/>10 (0.1)        |
-|                                                         Commercial Warm-Air Furnaces                                                         |                                           Thermal Efficiency                                           |               5 (0.05)               |
-|                                                      Commercial Refrigeration Equipment                                                      |                                        Daily Energy Consumption                                        |               5 (0.05)               |
+Table 2 to Paragraph (c)(5)(vi)(B)
+
+|                                                                  Equipment                                                                   |                                                 Metric                                                 |       Applicable  <br/>tolerance        |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|
+|                                                         Commercial Packaged Boilers                                                          |                             Combustion Efficiency  <br/>Thermal Efficiency                             |        5% (0.05)  <br/>5% (0.05)        |
+|                                             Commercial Water Heaters or Hot Water Supply Boilers                                             |                                 Thermal Efficiency  <br/>Standby Loss                                  |        5% (0.05)  <br/>10% (0.1)        |
+|                                                            Unfired Storage Tanks                                                             |                                                R-Value                                                 |                10% (0.1)                |
+|Air-Cooled, Split and Packaged ACs and HPs Greater than or Equal to 65,000 Btu/h Cooling Capacity and Less than 760,000 Btu/h Cooling Capacity|   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5% (0.05)  <br/>5% (0.05)  <br/>10% (0.1)|
+|                                     Water-Cooled, Split and Packaged ACs and HPs, All Cooling Capacities                                     |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5% (0.05)  <br/>5% (0.05)  <br/>10% (0.1)|
+|                                     Evaporatively-Cooled, Split and Packaged ACs and HPs, All Capacities                                     |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5% (0.05)  <br/>5% (0.05)  <br/>10% (0.1)|
+|                                                       Water-Source HPs, All Capacities                                                       |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5% (0.05)  <br/>5% (0.05)  <br/>10% (0.1)|
+|                                                     Single Package Vertical ACs and HPs                                                      |                        Energy Efficiency Ratio  <br/>Coefficient of Performance                        |        5% (0.05)  <br/>5% (0.05)        |
+|                                                        Packaged Terminal ACs and HPs                                                         |                        Energy Efficiency Ratio  <br/>Coefficient of Performance                        |        5% (0.05)  <br/>5% (0.05)        |
+|            Variable Refrigerant Flow ACs and HPs (Excluding Air-Cooled, Three-phase with Less than 65,000 Btu/h Cooling Capacity)            |   Energy Efficiency Ratio  <br/>Coefficient of Performance  <br/>Integrated Energy Efficiency Ratio    |5% (0.05)  <br/>5% (0.05)  <br/>10% (0.1)|
+|                                                        Computer Room Air Conditioners                                                        |                                  Sensible Coefficient of Performance                                   |                5% (0.05)                |
+|                                                Direct Expansion-Dedicated Outdoor Air Systems                                                |Integrated Seasonal Coefficient of Performance 2  <br/>Integrated Seasonal Moisture Removal Efficiency 2|        10% (0.1)  <br/>10% (0.1)        |
+|                                                         Commercial Warm-Air Furnaces                                                         |                                           Thermal Efficiency                                           |                5% (0.05)                |
+|                                                      Commercial Refrigeration Equipment                                                      |                                        Daily Energy Consumption                                        |                5% (0.05)                |
 
 (vii) *Invalid rating.* If, following discussions with the manufacturer and a retest where applicable, DOE determines that the verification testing was conducted appropriately in accordance with the DOE test procedure, DOE will issue a determination that the rating for the model is invalid. The manufacturer must elect, within 15 days, one of the following to be completed in a time frame specified by DOE, which is never to exceed 180 days:
 
@@ -598,4 +598,80 @@ Link to an amendment published at 87 FR 77321, Dec. 16, 2022.
 
 (D) A combination of the foregoing.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022]
+(l) *Alternate Efficiency Determination Method (AEDM) for air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 Btu/h cooling capacity* - (1) *Applicability.* (i) For air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h subject to standards in terms of seasonal energy efficiency ratio (SEER) and heating seasonal performance factor (HSPF), representations with respect to the energy use or efficiency, including compliance certifications, are subject to the requirements in § 429.70(c) of this title as it appeared in the 10 CFR parts 200-499 edition revised as of January 1, 2021.
+
+(ii) For air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h subject to standards in terms of seasonal energy efficiency ratio 2 (SEER2) and heating seasonal performance factor 2 (HSPF2) metrics, representations with respect to the energy use or efficiency, including compliance certifications, are subject to the requirements in this section. If manufacturers choose to certify compliance with any standards in terms of SEER2 and HSPF2 prior to the applicable compliance date for those standards, the requirements of this section must be followed.
+
+(2) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to an individual model/combination to determine its represented values (SEER2 and HSPF2, as applicable) pursuant to this section unless authorized pursuant to § 429.67(e) and:
+
+(i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the individual model or combination (SEER2 and HSPF2, as applicable) as measured by the applicable DOE test procedure; and
+
+(ii) The manufacturer has validated the AEDM in accordance with paragraph (i)(3) of this section.
+
+(3) *Validation of an AEDM.* For manufacturers whose models of air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h or air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h are otherwise identical to their central air conditioner and heat pump models (meaning differing only in phase or voltage of the electrical system and the phase or voltage of power input for which the motors and compressors are designed) and who have validated an AEDM for the otherwise identical central air conditioners and heat pumps under § 429.70(e)(2), no additional validation is required. For manufacturers whose models of air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h or air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h who have not validated an AEDM for otherwise identical central air conditioners and heat pumps under § 429.70(e)(2) must, before using an AEDM, validate the AEDM's accuracy and reliability as follows:
+
+(i) *Minimum testing.* The manufacturer must test a single unit each of two basic models in accordance with paragraph (i)(3)(iii) of this section. Using the AEDM, calculate the energy use or efficiency for each of the tested individual models/combinations within each basic model. Compare the represented value based on testing and the AEDM energy use or efficiency output according to paragraph (i)(3)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and reliability of the AEDM and that their representations are appropriate and the models being distributed in commerce meet the applicable standards, regardless of the amount of testing required in this paragraph.
+
+(ii) *Individual model/combination tolerances.* This paragraph (i)(3)(ii) provides the tolerances applicable to individual models/combinations rated using an AEDM.
+
+(A) The predicted represented values for each individual model/combination calculated by applying the AEDM may not be more than four percent greater (for measures of efficiency) or less (for measures of consumption) than the values determined from the corresponding test of the individual model/combination.
+
+(B) The predicted energy efficiency or consumption for each individual model/combination calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
+
+(iii) *Additional test unit requirements.* (A) Each AEDM must be supported by test data obtained from physical tests of current individual models/combinations; and
+
+(B) Test results used to validate the AEDM must meet or exceed current, applicable Federal standards as specified in part 431 of this chapter; and
+
+(C) Each test must have been performed in accordance with the applicable DOE test procedure with which compliance is required at the time the individual models/combinations used for validation are distributed in commerce.
+
+(4) *AEDM records retention requirements.* If a manufacturer has used an AEDM to determine representative values pursuant to this section, the manufacturer must have available upon request for inspection by the Department records showing:
+
+(i) The AEDM, including the mathematical model, the engineering or statistical analysis, and/or computer simulation or modeling that is the basis of the AEDM;
+
+(ii) Product information, complete test data, AEDM calculations, and the statistical comparisons from the units tested that were used to validate the AEDM pursuant to paragraph (i)(3) of this section; and
+
+(iii) Product information and AEDM calculations for each individual model/combination to which the AEDM has been applied.
+
+(5) *Additional AEDM requirements.* If requested by the Department, the manufacturer must:
+
+(i) Conduct simulations before representatives of the Department to predict the performance of particular individual models/combinations;
+
+(ii) Provide analyses of previous simulations conducted by the manufacturer; and/or
+
+(iii) Conduct certification testing of individual models or combinations selected by the Department.
+
+(6) *AEDM verification testing.* DOE may use the test data for a given individual model/combination generated pursuant to § 429.104 to verify the represented value determined by an AEDM as long as the following process is followed:
+
+(i) *Selection of units.* DOE will obtain one or more units for test from retail, if available. If units cannot be obtained from retail, DOE will request that a unit be provided by the manufacturer;
+
+(ii) *Lab requirements.* DOE will conduct testing at an independent, third-party testing facility of its choosing. In cases where no third-party laboratory is capable of testing the equipment, testing may be conducted at a manufacturer's facility upon DOE's request.
+
+(iii) *Testing.* At no time during verification testing may the lab and the manufacturer communicate without DOE authorization. If, during test set-up or testing, the lab indicates to DOE that it needs additional information regarding a given individual model or combination in order to test in accordance with the applicable DOE test procedure, DOE may organize a meeting between DOE, the manufacturer, and the lab to provide such information.
+
+(iv) *Failure to meet certified value.* If an individual model/combination tests worse than its certified value (*i.e.,* lower than the certified efficiency value or higher than the certified consumption value) by more than 5 percent, or the test results in cooling capacity that is lower than its certified cooling capacity, DOE will notify the manufacturer. DOE will provide the manufacturer with all documentation related to the test set up, test conditions, and test results for the unit. Within the timeframe allotted by DOE, the manufacturer may present any and all claims regarding testing validity.
+
+(v) *Tolerances.* This paragraph specifies the tolerances DOE will permit when conducting verification testing.
+
+(A) For consumption metrics, the result from a DOE verification test must be less than or equal to 1.05 multiplied by the certified represented value.
+
+(B) For efficiency metrics, the result from a DOE verification test must be greater than or equal to 0.95 multiplied by the certified represented value.
+
+(vi) *Invalid represented value.* If, following discussions with the manufacturer and a retest where applicable, DOE determines that the verification testing was conducted appropriately in accordance with the DOE test procedure, DOE will issue a determination that the represented values for the basic model are invalid. The manufacturer must conduct additional testing and re-rate and re-certify the individual models/combinations within the basic model that were rated using the AEDM based on all test data collected, including DOE's test data.
+
+(vii) *AEDM use.* This paragraph (i)(6)(vii) specifies when a manufacturer's use of an AEDM may be restricted due to prior invalid represented values.
+
+(A) If DOE has determined that a manufacturer made invalid represented values on individual models/combinations within two or more basic models rated using the manufacturer's AEDM within a 24-month period, the manufacturer must test the least efficient and most efficient individual model/combination within each basic model in addition to the individual model/combination specified in § 429.16(b)(2). The 24-month period begins with a DOE determination that a represented value is invalid through the process outlined in paragraphs (i)(6)(i) through (vi) of this section.
+
+(B) If DOE has determined that a manufacturer made invalid represented values on more than four basic models rated using the manufacturer's AEDM within a 24-month period, the manufacturer may no longer use an AEDM.
+
+(C) If a manufacturer has lost the privilege of using an AEDM, the manufacturer may regain the ability to use an AEDM by:
+
+(*1*) Investigating and identifying cause(s) for failures;
+
+(*2*) Taking corrective action to address cause(s);
+
+(*3*) Performing six new tests per basic model, a minimum of two of which must be performed by an independent, third-party laboratory from units obtained from retail to validate the AEDM; and
+
+(*4*) Obtaining DOE authorization to resume use of an AEDM.
+
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022]

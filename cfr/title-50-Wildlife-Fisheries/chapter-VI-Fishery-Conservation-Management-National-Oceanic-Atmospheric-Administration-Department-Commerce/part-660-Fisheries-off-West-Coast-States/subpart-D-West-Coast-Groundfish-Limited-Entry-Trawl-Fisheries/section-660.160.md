@@ -1,7 +1,5 @@
 ##### § 660.160 Catcher/processor (C/P) Coop Program. #####
 
-Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
-
 (a) *General.* The C/P Coop Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary coop. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Coop Program is subject to the following groundfish regulations:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
@@ -14,13 +12,11 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (5) The C/P Coop Program may be restricted or closed as a result of projected overages within the MS Coop Program, the C/P Coop Program, or the Shorebased IFQ Program. As determined necessary by the Regional Administrator, area restrictions, season closures, or other measures will be used to prevent the trawl sectors in aggregate or the individual trawl sector (Shorebased IFQ, MS Coop, or C/P Coop) from exceeding an ACL, ACT, or formal allocation specified in the PCGFMP or regulation at § 660.55, subpart C, or §§ 660.140, 660.150, or 660.160, subpart D.
 
-(b) *Participation requirements and responsibilities* - (1) *C/P vessels* - (i) *C/P vessel participation requirements.* A vessel is eligible to fish as a catcher/processor in the C/P Coop Program if:
+(b) *Participation requirements and responsibilities*—(1) *C/P vessels*—(i) *C/P vessel participation requirements.* A vessel is eligible to fish as a catcher/processor in the C/P Coop Program if:
 
 (A) The vessel is registered to a C/P-endorsed limited entry trawl permit.
 
 (B) The vessel is not used to harvest fish as a catcher vessel in the mothership coop program in the same calendar year.
-
-(C) The vessel is not used to fish as a mothership in the MS Coop Program in the same calendar year.
 
 (ii) *Catcher/processor vessel responsibilities.* The owner and operator of a catcher/processor vessel must:
 
@@ -36,7 +32,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (D) *Cost recovery program.* Collect and remit to NMFS cost recovery program fees, as specified at § 660.115.
 
-(2) *C/P coops* - (i) *C/P coop participation requirements.* For a C/P coop to participate in the catcher/processor sector of the Pacific whiting fishery, the C/P coop must:
+(2) *C/P coops*—(i) *C/P coop participation requirements.* For a C/P coop to participate in the catcher/processor sector of the Pacific whiting fishery, the C/P coop must:
 
 (A) Be issued a C/P coop permit;
 
@@ -74,7 +70,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (iii) *C/P coop compliance and joint/several liability.* A C/P coop must comply with the provisions of this section. The C/P coop, member limited entry permit owners, and owners and operators of vessels registered to member limited entry permits, are jointly and severally responsible for compliance with the provisions of this section. Pursuant to 15 CFR part 904, each C/P coop, member permit owner, and owner and operator of a vessel registered to a coop member permit may be charged jointly and severally for violations of the provisions of this section. For purposes of enforcement, a C/P coop is a legal entity that can be subject to NOAA enforcement action for violations of the provisions of this section.
 
-(c) *C/P Coop Program species and allocations* - (1) *C/P Coop Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Coop Programs.
+(c) *C/P Coop Program species and allocations*—(1) *C/P Coop Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Coop Programs.
 
 (i) Species with formal allocations to the C/P Coop Program: Pacific whiting.
 
@@ -86,7 +82,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (ii) In years where the Pacific whiting harvest specification is not known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), NMFS will issue Pacific whiting allocations in two parts. Before the start of the primary whiting season, NMFS will allocate Pacific whiting based on the C/P Coop Program allocation percent multiplied by the lower end of the range of potential harvest specifications for Pacific whiting for that year. After the final Pacific whiting harvest specifications are established, NMFS will allocate any additional amounts of Pacific whiting to the C/P Coop Program.
 
-(3) *Non-whiting groundfish species* - (i) At-sea sector set-asides of non-whiting groundfish species will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken. Set asides may be adjusted through the biennial specifications and management measures process as necessary.
+(3) *Non-whiting groundfish species*—(i) At-sea sector set-asides of non-whiting groundfish species will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken. Set asides may be adjusted through the biennial specifications and management measures process as necessary.
 
 (ii) Groundfish species not addressed in paragraph (c)(3)(i) of this section, will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken.
 
@@ -98,9 +94,9 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (7) *Announcements.* The Regional Administrator will announce in the Federal Register when the catcher/processor sector allocation of Pacific whiting is reached, or is projected to be reached, and specify the appropriate action. In order to prevent exceeding an allocation and to avoid underutilizing the resource, prohibitions against further taking and retaining, receiving, or at-sea processing of Pacific whiting may be made effective immediately by actual notice to fishers and processors, by email, internet, phone, fax, letter, press release, and/or USCG Notice to Mariners (monitor channel 16 VHF), followed by publication in the Federal Register, in which instance public comment will be sought for a reasonable period of time thereafter.
 
-(d) *C/P coop permit and agreement* - (1) *Eligibility and registration* - (i) *Eligibility.* To be an eligible coop entity a group of C/P-endorsed permit owners (coop members) must be a recognized entity under the laws of the United States or the laws of a State and that represents all of the coop members.
+(d) *C/P coop permit and agreement*—(1) *Eligibility and registration*—(i) *Eligibility.* To be an eligible coop entity a group of C/P-endorsed permit owners (coop members) must be a recognized entity under the laws of the United States or the laws of a State and that represents all of the coop members.
 
-(ii) *Annual registration and deadline.* Each year, the coop entity must submit a complete application to NMFS for a C/P coop permit. The application must be submitted to NMFS by between February 1 and March 31 of the year in which it intends to participate. NMFS will not consider any applications received after March 31. A C/P coop permit expires on December 31 of the year in which it was issued.
+(ii) *Annual registration and deadline.* Each year, the co-op entity must submit a complete application to NMFS for a C/P co-op permit. The application must be submitted to NMFS by between January 17 and March 17 of the year in which it intends to participate. NMFS will not consider any applications received after March 17. A C/P co-op permit expires on December 31 of the year in which it was issued.
 
 (iii) *Application for a C/P coop permit.* The designated coop manager, on behalf of the coop entity, must submit a complete application form and include each of the items listed in paragraph (d)(1)(iii)(A) of this section. Only complete applications will be considered for issuance of a C/P coop permit. An application will not be considered complete if any required application fees and annual coop reports have not been received by NMFS. NMFS may request additional supplemental documentation as necessary to make a determination of whether to approve or disapprove the application. Application forms and instruction are available on the NMFS NWR Web site (*http://www.nwr.noaa.gov*) or by request from NMFS. The designated coop manager must sign the application acknowledging the responsibilities of a designated coop manager defined in paragraph (b)(2) of this section.
 
@@ -126,7 +122,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (*2*) [Reserved]
 
-(B) *Acceptance of a coop agreement* - (*1*) If NMFS does not accept the coop agreement, the coop permit application will be returned to the applicant with a letter stating the reasons the coop agreement was not accepted by NMFS.
+(B) *Acceptance of a coop agreement*—(*1*) If NMFS does not accept the coop agreement, the coop permit application will be returned to the applicant with a letter stating the reasons the coop agreement was not accepted by NMFS.
 
 (*2*) Coop agreements that are not accepted may be resubmitted for review by sufficiently addressing the deficiencies identified in the NMFS letter and resubmitting the entire coop permit application by the date specified in the NMFS letter.
 
@@ -150,17 +146,17 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (4) *Fees.* The Regional Administrator is authorized to charge fees for administrative costs associated with the issuance of a C/P coop permit consistent with the provisions given at § 660.25(f), subpart C.
 
-(e) *C/P-endorsed permit* - (1) *General.* Any vessel participating in the C/P sector of the non-tribal primary Pacific whiting fishery-must be registered to a valid limited entry permit with a C/P endorsement - subject to the limited entry permit provisions given at § 660.25(b).
+(e) *C/P-endorsed permit*—(1) *General.* Any vessel participating in the C/P sector of the non-tribal primary Pacific whiting fishery-must be registered to a valid limited entry permit with a C/P endorsement—subject to the limited entry permit provisions given at § 660.25(b).
 
 (i) *Non-severable.* A C/P endorsement is not severable from the limited entry trawl permit, and therefore, the endorsement may not be registered to another permit owner or to another vessel separately from the limited entry trawl permit.
 
 (ii) *Restriction on C/P vessel operating as a catcher vessel in the mothership sector.* A vessel registered to a C/P-endorsed permit cannot operate as a catcher vessel delivering unprocessed Pacific whiting to a mothership processor during the same calendar year it participates in the C/P sector.
 
-(iii) *Restriction on C/P vessel operating as mothership.* A vessel registered to a C/P-endorsed permit cannot operate as a mothership during the same calendar year it participates in the C/P sector.
+(iii) *Restriction on C/P vessel operating as mothership.* A vessel registered to a C/P-endorsed permit may operate as a mothership during the same calendar year it participates in the C/P sector but not on the same trip.
 
 (iv) *Trawl identification of ownership interest form.* Any person that is applying for or renewing a C/P-endorsed permit shall document those persons that have an ownership interest in the permit greater than or equal to 2 percent. This ownership interest must be documented with the SFD via the Trawl Identification of Ownership Interest Form. SFD will not issue a C/P-endorsed permit unless the Trawl Identification of Ownership Interest Form has been completed.
 
-(2) *Renewal, change in permit ownership, vessel registration, or combination* - (i) *Renewal.* A C/P-endorsed permit must be renewed annually consistent with the limited entry permit regulations given at § 660.25(b)(4). If a vessel registered to the C/P-endorsed permit will operate as a mothership in the year for which the permit is renewed, the permit owner must make a declaration as part of the permit renewal that while participating in the whiting fishery they will operate solely as a mothership during the calendar year to which its limited entry permit applies. Any such declaration is binding on the vessel for the calendar year, even if the permit is registered to a different permit owner during the year, unless it is rescinded in response to a written request from the permit owner. Any request to rescind a declaration must be made by the permit owner and granted in writing by the Regional Administrator before any unprocessed whiting has been taken on board the vessel that calendar year.
+(2) *Renewal, change in permit ownership, vessel registration, or combination*—(i) *Renewal.* A C/P-endorsed permit must be renewed annually consistent with the limited entry permit regulations given at § 660.25(b)(4).
 
 (ii) *Change of permit ownership.* A C/P-endorsed permit is subject to the limited entry permit change in permit ownership regulations given at § 660.25(b)(4), subpart C.
 
@@ -176,7 +172,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (f) *Retention requirements.* [Reserved]
 
-(g) *Observer requirements* - (1) *Observer coverage requirements* - (i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS. Any vessel registered to a C/P-endorsed limited entry trawl permit that is 125 ft (38.1 m) LOA or longer must carry two certified observers, and any vessel registered to a C/P-endorsed limited entry trawl permit that is shorter than 125 ft (38.1 m) LOA must carry one certified observer, each day that the vessel is used to take, retain, receive, land, process, or transport groundfish.
+(g) *Observer requirements*—(1) *Observer coverage requirements*—(i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS. Any vessel registered to a C/P-endorsed limited entry trawl permit that is 125 ft (38.1 m) LOA or longer must carry two certified observers, and any vessel registered to a C/P-endorsed limited entry trawl permit that is shorter than 125 ft (38.1 m) LOA must carry one certified observer, each day that the vessel is used to take, retain, receive, land, process, or transport groundfish.
 
 (ii) *Observer workload.* The time required for the observer to complete sampling duties must not exceed 12 consecutive hours in each 24-hour period.
 
@@ -190,7 +186,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (i) *Accommodations and food.* Provide accommodations and food that are equivalent to those provided for officers, engineers, foremen, deck-bosses or other management level personnel of the vessel.
 
-(ii) *Safe conditions* - (A) Maintain safe conditions on the vessel for the protection of observers including adherence to all U.S. Coast Guard and other applicable rules, regulations, or statutes pertaining to safe operation of the vessel, including but not limited to, rules of the road, vessel stability, emergency drills, emergency equipment, vessel maintenance, vessel general condition, and port bar crossings. An observer may refuse boarding or reboarding a vessel and may request a vessel to return to port if operated in an unsafe manner or if unsafe conditions are identified.
+(ii) *Safe conditions*—(A) Maintain safe conditions on the vessel for the protection of observers including adherence to all U.S. Coast Guard and other applicable rules, regulations, or statutes pertaining to safe operation of the vessel, including but not limited to, rules of the road, vessel stability, emergency drills, emergency equipment, vessel maintenance, vessel general condition, and port bar crossings. An observer may refuse boarding or reboarding a vessel and may request a vessel to return to port if operated in an unsafe manner or if unsafe conditions are identified.
 
 (B) Have on board a valid Commercial Fishing Vessel Safety Decal that certifies compliance with regulations found in 33 CFR chapter I and 46 CFR chapter I, a certificate of compliance issued pursuant to 46 CFR 28.710 or a valid certificate of inspection pursuant to 46 U.S.C. 3311. Maintain safe conditions on the vessel for the protection of observer(s) including adherence to all USCG and other applicable rules, regulations, or statutes pertaining to safe operation of the vessel, and provisions at §§ 600.725 and 600.746 of this chapter.
 
@@ -262,7 +258,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (ii) Vessels are required to procure observer services directly from the Observer Program and an observer provider when NMFS has determined and given notification that the vessel must carry NMFS staff and/or individuals authorized by NMFS, in addition to an observer provided by an observer provider.
 
-(4) *Observer provider responsibilities* - (i) *Provide qualified candidates to serve as observers.* Observer providers must provide qualified candidates to serve as observers. To be qualified, a candidate must have:
+(4) *Observer provider responsibilities*—(i) *Provide qualified candidates to serve as observers.* Observer providers must provide qualified candidates to serve as observers. To be qualified, a candidate must have:
 
 (A) A Bachelor's degree or higher from an accredited college or university with a major in one of the natural sciences;
 
@@ -396,11 +392,11 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (xvi) *Refusal to deploy an observer.* Observer providers may refuse to deploy an observer on a requesting vessel if the observer provider has determined that the requesting vessel is inadequate or unsafe pursuant to those regulations described at § 600.746 of this chapter or U.S. Coast Guard and other applicable rules, regulations, statutes, or guidelines pertaining to safe operation of the vessel.
 
-(5) *Observer certification and responsibilities* - (i) *Applicability.* Observer certification authorizes an individual to fulfill duties as specified in writing by the Observer Program Office while under the employ of an observer provider and according to certification endorsements as designated under paragraph (g)(5)(iii) of this section.
+(5) *Observer certification and responsibilities*—(i) *Applicability.* Observer certification authorizes an individual to fulfill duties as specified in writing by the Observer Program Office while under the employ of an observer provider and according to certification endorsements as designated under paragraph (g)(5)(iii) of this section.
 
 (ii) *Observer certification official.* The Regional Administrator will designate a NMFS observer certification official who will make decisions for the Observer Program Office on whether to issue or deny observer certifications and endorsements.
 
-(iii) *Certification requirements* - (A) *Initial certification.* NMFS may certify individuals who, in addition to any other relevant considerations:
+(iii) *Certification requirements*—(A) *Initial certification.* NMFS may certify individuals who, in addition to any other relevant considerations:
 
 (*1*) Are employed by an observer provider company holding a valid North Pacific Groundfish Observer Program permit at the time of the issuance of the certification to the observer;
 
@@ -478,7 +474,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (C) Not disclose collected data and observations made on board the vessel to any person except the owner or operator of the observed vessel, an authorized officer, or NMFS.
 
-(ix) *Suspension and decertification* - (A) *Suspension and decertification review official.* The Regional Administrator (or a designee) will designate an observer suspension and decertification review official(s), who will have the authority to review observer certifications and issue IADs of observer certification suspension and/or decertification.
+(ix) *Suspension and decertification*— (A) *Suspension and decertification review official.* The Regional Administrator (or a designee) will designate an observer suspension and decertification review official(s), who will have the authority to review observer certifications and issue IADs of observer certification suspension and/or decertification.
 
 (B) *Causes for suspension or decertification.* The suspension/decertification official may initiate suspension or decertification proceedings against an observer:
 
@@ -490,7 +486,7 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (D) *Appeals.* A certified observer who receives an IAD that suspends or revokes the observer certification may appeal the determination within 30 calendar days after the date on the IAD to the Office of Administrative Appeals pursuant to § 660.19.
 
-(h) *C/P coop failure* - (1) *Conditions for determination of coop failure.* The Regional Administrator will determine that a permitted C/P coop has failed if any one of the following occurs:
+(h) *C/P coop failure*—(1) *Conditions for determination of coop failure.* The Regional Administrator will determine that a permitted C/P coop has failed if any one of the following occurs:
 
 (i) Any current C/P-endorsed limited entry trawl permit is not identified as a C/P coop member in the coop agreement submitted to NMFS during the C/P coop permit application process;
 
@@ -540,4 +536,4 @@ Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022]

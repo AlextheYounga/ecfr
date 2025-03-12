@@ -100,6 +100,8 @@ The requirement that a veteran agree to pay the copayment would be met by submit
 
 (18) An outpatient care visit solely for education on the use of opioid antagonists to reverse the effects of overdoses of specific medications or substances.
 
+(19) Emergent suicide care as authorized under 38 CFR 17.1200-17.1230.
+
 (f) *Additional care not subject to outpatient copayment.* Outpatient care is not subject to the outpatient copayment requirements under this section when provided to a veteran during a day for which the veteran is required to make a copayment for extended care services that were provided either directly by VA or obtained for VA by contract.
 
-[66 FR 63448, Dec. 6, 2001, as amended at 68 FR 60854, Oct. 24, 2003; 70 FR 22596, May 2, 2005; 73 FR 20532, Apr. 16, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 77 FR 13198, Mar. 6, 2012; 78 FR 28143, May 14, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65584, Nov. 5, 2014; 79 FR 70939, Nov. 28, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26017, 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021]
+[66 FR 63448, Dec. 6, 2001, as amended at 68 FR 60854, Oct. 24, 2003; 70 FR 22596, May 2, 2005; 73 FR 20532, Apr. 16, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 77 FR 13198, Mar. 6, 2012; 78 FR 28143, May 14, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65584, Nov. 5, 2014; 79 FR 70939, Nov. 28, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26017, 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021; 88 FR 2536, Jan. 17, 2023]

@@ -1,10 +1,8 @@
-##### § 660.112 Trawl fishery - prohibitions. #####
-
-Link to an amendment published at 87 FR 77005, Dec. 16, 2022.
+##### § 660.112 Trawl fishery—prohibitions. #####
 
 In addition to the general prohibitions specified in § 660.12 and § 600.725 of this chapter, it is unlawful for any person or vessel to:
 
-(a) *General* - (1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
+(a) *General*—(1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
 
 (i) The vessel is in continuous transit from outside the fishery management area to a port in Washington, Oregon, or California;
 
@@ -66,7 +64,7 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (iv) Test experimental gear, or any other gear not currently approved for groundfish fishing.
 
-(b) *Shorebased IFQ Program* - (1) *General.* (i) Own or control by any means whatsoever an amount of QS or IBQ that exceeds the Shorebased IFQ Program accumulation limits.
+(b) *Shorebased IFQ Program*—(1) *General.* (i) Own or control by any means whatsoever an amount of QS or IBQ that exceeds the Shorebased IFQ Program accumulation limits.
 
 (ii) Fish in the Shorebased IFQ Program with a vessel that does not have a valid vessel account or that has a vessel account with a deficit (negative balance) for any species/species group.
 
@@ -146,52 +144,46 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (2) Receive catch, process catch, or otherwise fish as a mothership vessel if it is not registered to a current MS permit.
 
-(3) Fish with a vessel in the mothership sector, if that vessel was used to fish in the C/P fishery in the same calendar year.
+(3) Catch, take, or harvest fish in the MS Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting mothership sector, as specified at § 660.13(d)(5)(iv)(A), subpart C.
 
-(4) Catch, take, or harvest fish in the MS Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting mothership sector, as specified at § 660.13(d)(5)(iv)(A), subpart C.
+(4) Transfer catch to a vessel that is not registered to an MS permit. (*i.e.*, a tender vessel).
 
-(5) Transfer catch to a vessel that is not registered to an MS permit. (*i.e.*, a tender vessel).
+(5) Use a vessel registered to a limited entry permit with a trawl endorsement (with or without an MS/CV endorsement) to catch more than 30 percent of the Pacific whiting allocation for the mothership sector.
 
-(6) Use a vessel registered to a limited entry permit with a trawl endorsement (with or without an MS/CV endorsement) to catch more than 30 percent of the Pacific whiting allocation for the mothership sector.
+(6) Catch, take, or harvest fish before all catch from any previous haul has been transferred to a single vessel registered to an MS permit.
 
-(7) Process more than 45 percent of the annual mothership sector's Pacific whiting allocation.
+(7) Transfer catch from a single haul to more than one permitted MS vessel.
 
-(8) Catch, take, or harvest fish before all catch from any previous haul has been transferred to a single vessel registered to an MS permit.
+(8) Catch, take, or harvest fish for a MS coop with a vessel that has not been identified by the coop as a vessel authorized to harvest that coop's allocation.
 
-(9) Transfer catch from a single haul to more than one permitted MS vessel.
+(9) Catch, take, or harvest fish in the non-coop fishery with a vessel registered to an MS/CV-endorsed permit in the same year the MS/CV-endorsed permit was registered to a vessel that fished as a member of a coop in the MS Coop Program.
 
-(10) Catch, take, or harvest fish for a MS coop with a vessel that has not been identified by the coop as a vessel authorized to harvest that coop's allocation.
+(10) Sort or discard any portion of the catch taken by a catcher vessel in the MS Coop Program before the catcher vessel observer completes sampling of the catch, except for minor operational amounts of catch lost by a catcher vessel provided the observer has accounted for the discard (*i.e.,* a maximized retention fishery).
 
-(11) Catch, take, or harvest fish in the non-coop fishery with a vessel registered to an MS/CV-endorsed permit in the same year the MS/CV-endorsed permit was registered to a vessel that fished as a member of a coop in the MS Coop Program.
+(11) Mix catch from more than one haul before the observer completes their collection of catch for sampling.
 
-(12) Sort or discard any portion of the catch taken by a catcher vessel in the MS Coop Program before the catcher vessel observer completes sampling of the catch, except for minor operational amounts of catch lost by a catcher vessel provided the observer has accounted for the discard (*i.e.,* a maximized retention fishery).
+(12) Take deliveries without a valid scale inspection report signed by an authorized scale inspector on board the MS vessel.
 
-(13) Mix catch from more than one haul before the observer completes their collection of catch for sampling.
+(13) Sort, process, or discard catch delivered to MS vessels before the catch is weighed on a scale that meets the requirements of § 660.15(b), including the daily test requirements.
 
-(14) Take deliveries without a valid scale inspection report signed by an authorized scale inspector on board the MS vessel.
-
-(15) Sort, process, or discard catch delivered to MS vessels before the catch is weighed on a scale that meets the requirements of § 660.15(b), including the daily test requirements.
-
-(16) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
+(14) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
 (e) *C/P Coop Program.* (1) Fish with a vessel in the catcher/processor sector that is not registered to a current C/P-endorsed limited entry trawl permit.
 
 (2) Fish as a catcher/processor vessel in the same year that the vessel fishes as a catcher vessel in the mothership fishery.
 
-(3) Fish as a catcher/processor vessel in the same year that the vessel operates as a mothership in the mothership fishery.
+(3) Fish in the C/P Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting catcher/processor sector, as specified at § 660.13(d)(4)(iv)(A).
 
-(4) Fish in the C/P Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting catcher/processor sector, as specified at § 660.13(d)(4)(iv)(A).
+(4) Fish in the C/P Coop Program with a vessel that is not identified in the C/P coop agreement.
 
-(5) Fish in the C/P Coop Program with a vessel that is not identified in the C/P coop agreement.
+(5) Fish in the C/P Coop Program without a valid scale inspection report signed by an authorized scale inspector on board the vessel.
 
-(6) Fish in the C/P Coop Program without a valid scale inspection report signed by an authorized scale inspector on board the vessel.
+(6) Sort, process, or discard catch before the catch is weighed on a scale that meets the requirements of § 660.15(b), including the daily test requirements.
 
-(7) Sort, process, or discard catch before the catch is weighed on a scale that meets the requirements of § 660.15(b), including the daily test requirements.
+(7) Discard any catch from the codend or net (*i.e.*, bleeding) before the observer has completed their data collection.
 
-(8) Discard any catch from the codend or net (*i.e.*, bleeding) before the observer has completed their data collection.
+(8) Mix catch from more than one haul before the observer completes their collection of catch for sampling.
 
-(9) Mix catch from more than one haul before the observer completes their collection of catch for sampling.
+(9) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
-(10) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
-
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 11599, Mar. 2, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 11599, Mar. 2, 2022; 87 FR 77005, Dec. 16, 2022]

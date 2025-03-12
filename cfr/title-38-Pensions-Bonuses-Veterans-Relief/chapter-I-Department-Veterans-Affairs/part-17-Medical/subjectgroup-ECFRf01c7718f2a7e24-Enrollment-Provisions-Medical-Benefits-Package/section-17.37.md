@@ -24,4 +24,6 @@ Even if not enrolled in the VA healthcare system:
 
 (k) A veteran may receive care for psychosis or mental illness other than psychosis pursuant to 38 CFR 17.109.
 
-(Authority: 38 U.S.C. 101, 501, 1701, 1705, 1710, 1721, 1722)[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 78 FR 28142, May 14, 2013; 87 FR 8742, Feb. 16, 2022]
+(l) An individual may receive emergent suicide care pursuant to 38 U.S.C. 1720J and 38 CFR 17.1200-17.1230.
+
+[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 78 FR 28142, May 14, 2013; 87 FR 8742, Feb. 16, 2022; 88 FR 2536, Jan. 17, 2022]
