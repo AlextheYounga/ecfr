@@ -60,4 +60,4 @@
 
 (f) *Effective date.* Regulated institutions are required to use state certified or licensed appraisers as set forth in this section no later than December 31, 1992, unless otherwise required by law.
 
-[55 FR 33888, Aug. 20, 1990, as amended at 57 FR 9050, Mar. 16, 1992; 59 FR 29501, June 7, 1994; 80 FR 32684, June 9, 2015; 83 FR 15036, Apr. 9, 2018; 84 FR 53598, Oct. 8, 2019; 84 FR 53598, Oct. 8, 2019]
+[55 FR 33888, Aug. 20, 1990, as amended at 57 FR 9050, Mar. 16, 1992; 59 FR 29501, June 7, 1994; 80 FR 32684, June 9, 2015; 83 FR 15036, Apr. 9, 2018; 84 FR 53598, Oct. 8, 2019]

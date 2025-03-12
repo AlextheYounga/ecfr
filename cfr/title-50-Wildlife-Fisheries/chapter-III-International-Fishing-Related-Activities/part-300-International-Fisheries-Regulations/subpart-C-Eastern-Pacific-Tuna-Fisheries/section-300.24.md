@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 84 FR 70048, Dec. 20, 2019.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -14,9 +12,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (e) Fail to retain any bigeye, skipjack, or yellowfin tuna caught by a fishing vessel of the United States of class size 4-6 using purse seine gear in the Convention Area as required under § 300.27(a).
 
-(f) When using purse seine gear to fish for tuna in the Convention Area, fail to release any non-tuna species as soon as practicable after being identified on board the vessel during the brailing operation as required in § 300.27(b).
+(f) When using purse seine gear to fish for tuna in the Convention Area, fail to release any fish species (excluding mobulid rays, tuna, tuna-like species, and those being retained for consumption aboard the vessel) as soon as practicable after being identified on board the vessel during the brailing operation as required in § 300.27(b).
 
-(g) Land any non-tuna fish species taken in a purse seine set in the Convention Area.
+(g) [Reserved]
 
 (h) Fail to use the sea turtle handling, release, and resuscitation procedures in § 300.27(c).
 

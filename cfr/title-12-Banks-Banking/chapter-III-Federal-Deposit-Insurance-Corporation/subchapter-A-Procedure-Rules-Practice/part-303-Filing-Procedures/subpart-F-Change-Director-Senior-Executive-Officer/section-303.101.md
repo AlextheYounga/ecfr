@@ -1,5 +1,7 @@
 ##### § 303.101 Definitions. #####
 
+Link to an amendment published at 85 FR 3244, Jan. 21, 2020.
+
 For purposes of this subpart:
 
 (a) *Director* means a person who serves on the board of directors or board of trustees of an insured state nonmember bank, except that this term does not include an advisory director who:

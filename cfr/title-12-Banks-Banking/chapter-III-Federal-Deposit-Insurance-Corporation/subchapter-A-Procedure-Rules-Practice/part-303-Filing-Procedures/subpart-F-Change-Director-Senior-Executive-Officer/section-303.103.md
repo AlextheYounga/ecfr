@@ -1,5 +1,7 @@
 ##### § 303.103 Processing. #####
 
+Link to an amendment published at 85 FR 3245, Jan. 21, 2020.
+
 (a) *Processing.* The 30-day notice period specified in § 303.102(a) shall begin on the date substantially all information required to be submitted by the notificant pursuant to § 303.102(c)(1) is received by the appropriate FDIC office. The FDIC shall notify the bank submitting the notice of the date on which the notice is accepted for processing and of the date on which the 30-day notice period will expire. If processing cannot be completed within 30 days, the notificant will be advised in writing, prior to expiration of the 30-day period, of the reason for the delay in processing and of the additional time period, not to exceed 60 days, in which processing will be completed.
 
 (b) *Commencement of service* - (1) *At expiration of period.* A proposed director or senior executive officer may begin service after the end of the 30-day period or any other additional period as provided under paragraph (a) of this section, unless the FDIC disapproves the notice before the end of the period.

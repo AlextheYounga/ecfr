@@ -1,5 +1,7 @@
 ##### § 303.64 Processing. #####
 
+Link to an amendment published at 85 FR 3244, Jan. 21, 2020.
+
 (a) *Expedited processing for eligible depository institutions* - (1) *General.* An application filed under this subpart by an eligible depository institution as defined in § 303.2(r) and which meets the additional criteria in paragraph (a)(4) of this section will be acknowledged by the FDIC in writing and will receive expedited processing, unless the applicant is notified in writing to the contrary and provided with the basis for that decision. The FDIC may remove an application from expedited processing for any of the reasons set forth in § 303.11(c)(2).
 
 (2) Under expedited processing, the FDIC will take action on an application by the date that is the latest of:

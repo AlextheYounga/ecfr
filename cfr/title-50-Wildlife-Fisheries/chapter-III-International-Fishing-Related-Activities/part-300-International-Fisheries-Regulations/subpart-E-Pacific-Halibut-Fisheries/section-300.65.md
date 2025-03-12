@@ -4,7 +4,7 @@
 
 (b) The catch sharing plan for Commission regulatory area 4 allocates the annual commercial catch limit among Areas 4C, 4D, and 4E and will be adopted by the Commission as annual management measures and published in the Federal Register as required in § 300.62.
 
-(c) *Catch sharing plan (CSP) for Commission Regulatory Areas 2C and 3A* - (1) *General.* The catch sharing plan for Commission regulatory areas 2C and 3A:
+(c) *Catch sharing plan (CSP) for Commission Regulatory Areas 2C and 3A*—(1) *General.* The catch sharing plan for Commission regulatory areas 2C and 3A:
 
 (i) Allocates the annual combined catch limit for Commission regulatory areas 2C and 3A in order to establish the annual commercial catch limit and the annual guided sport catch limit for the halibut commercial fishing and sport fishing seasons, pursuant to paragraphs (c)(3) and (4) of this section; and
 
@@ -36,7 +36,7 @@
 
 (C) NMFS will return unharvested GAF to the IFQ permit holder's account from which the GAF were derived on or after fifteen calendar days prior to the closing of the commercial halibut fishing season each year, subject to paragraph (c)(5)(ii) of this section and underage provisions at § 679.40(e) of this title.
 
-(ii) *Transfer Between IFQ and GAF* - (A) *General.* A transfer between IFQ and GAF means any transaction in which halibut IFQ passes between an IFQ permit holder and a GAF permit holder as:
+(ii) *Transfer Between IFQ and GAF*—(A) *General.* A transfer between IFQ and GAF means any transaction in which halibut IFQ passes between an IFQ permit holder and a GAF permit holder as:
 
 (*1*) A transfer of IFQ to GAF, in which halibut IFQ equivalent pounds, as defined in § 679.2 of this title, are transferred from a Commission regulatory area 2C or 3A IFQ permit account, converted to number(s) of GAF as specified in paragraph (c)(5)(ii)(E) of this section, and assigned to a GAF permit holder's account in the same management area;
 
@@ -44,7 +44,7 @@
 
 (*3*) The return of unharvested GAF by NMFS to the IFQ permit holder's account from which it was derived, on or after 15 calendar days prior to the closing of the commercial halibut fishing season.
 
-(B) *Transfer procedure* - (*1*) *Application for Transfer Between IFQ and GAF.* A transfer between IFQ and GAF requires Regional Administrator review and approval of a complete Application for Transfer Between IFQ and GAF. Both the transferor and the transferee are required to complete and sign the application. Transfers will be conducted via methods approved by NMFS. The Regional Administrator shall provide an Application for Transfer Between IFQ and GAF on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov/ram/default.htm.* An Application for Transfer Between IFQ and GAF is not required for the return of unharvested GAF by NMFS to the IFQ permit holder's account from which it was derived, 15 calendar days prior to the closing of the commercial halibut fishing season for that year.
+(B) *Transfer procedure*—(*1*) *Application for Transfer Between IFQ and GAF.* A transfer between IFQ and GAF requires Regional Administrator review and approval of a complete Application for Transfer Between IFQ and GAF. Both the transferor and the transferee are required to complete and sign the application. Transfers will be conducted via methods approved by NMFS. The Regional Administrator shall provide an Application for Transfer Between IFQ and GAF on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov/ram/default.htm.* An Application for Transfer Between IFQ and GAF is not required for the return of unharvested GAF by NMFS to the IFQ permit holder's account from which it was derived, 15 calendar days prior to the closing of the commercial halibut fishing season for that year.
 
 (*2*) *Application timing.* The Regional Administrator will not approve any Application for Transfer Between IFQ and GAF before annual IFQ is issued for each year or after one month prior to the closing of the commercial fishing season for that year. Applications to transfer GAF to IFQ will be accepted from August 1 through August 31 only.
 
@@ -98,7 +98,7 @@
 
 (*iv*) The CQE applying to transfer between IFQ and GAF has submitted a complete annual report(s) as required by § 679.5(t) of this title.
 
-(E) *Conversion between IFQ and GAF* - (*1*) *General.* An annual conversion factor will be calculated to convert between net pounds (whole number, no decimal points) of halibut IFQ and number(s) of GAF (whole number, no decimal points) for Area 2C and Area 3A. This conversion factor will be posted on the NMFS Alaska Region Web site before the beginning of each commercial halibut fishing season.
+(E) *Conversion between IFQ and GAF*—(*1*) *General.* An annual conversion factor will be calculated to convert between net pounds (whole number, no decimal points) of halibut IFQ and number(s) of GAF (whole number, no decimal points) for Area 2C and Area 3A. This conversion factor will be posted on the NMFS Alaska Region Web site before the beginning of each commercial halibut fishing season.
 
 (*2*) *Conversion calculation.* The net pounds of IFQ transferred to or from an IFQ permit holder in Commission regulatory area 2C or 3A will be equal to the number(s) of GAF transferred to or from the GAF account of a GAF permit holder in the corresponding area, multiplied by the estimated average net weight determined as follows. For the first calendar year after the effective date of this rule, the average net weight will be estimated for all halibut harvested by charter vessel anglers during the most recent year without a size limit in effect. After the first calendar year after the effective date of this rule, the average net weight will be estimated from the average length of GAF retained in that area during the previous year as reported to RAM via the GAF electronic reporting system. If no GAF were harvested in a year, the conversion factor will be calculated using the same method as for the first calendar year after the effective date of this rule. NMFS will round up to the nearest whole number (no decimals) when transferring IFQ to GAF and when transferring GAF to IFQ. Expressed algebraically, the conversion formula is:
 
@@ -106,7 +106,7 @@ IFQ net pounds = (number of GAF × average net weight).
 
 (*3*) The total number of net pounds converted from unharvested GAF and transferred to the IFQ permit holder's account from which it derived cannot exceed the total number of net pounds NMFS transferred from the IFQ permit holder's account to the GAF permit holder's account for that area in the current year.
 
-(iii) *Guided Angler Fish (GAF) permit* - (A) *General.* (*1*) A GAF permit authorizes a charter vessel angler to catch and retain GAF in the specified Commission regulatory area, subject to the limits in paragraphs (c)(5)(iv)(A) through (K) of this section, during a charter vessel fishing trip authorized by the charter halibut permit, community charter halibut permit, or military charter halibut permit that is designated on the GAF permit.
+(iii) *Guided Angler Fish (GAF) permit*—(A) *General.* (*1*) A GAF permit authorizes a charter vessel angler to catch and retain GAF in the specified Commission regulatory area, subject to the limits in paragraphs (c)(5)(iv)(A) through (K) of this section, during a charter vessel fishing trip authorized by the charter halibut permit, community charter halibut permit, or military charter halibut permit that is designated on the GAF permit.
 
 (*2*) A GAF permit authorizes a charter vessel angler to catch and retain GAF in the specified Commission regulatory area from the time of permit issuance until any of the following occurs:
 
@@ -166,7 +166,7 @@ IFQ net pounds = (number of GAF × average net weight).
 
 (*3*) A CQE transfers IFQ as GAF to a GAF permit that is assigned to a charter halibut permit held by an eligible community resident (as defined at § 679.2) of that CQE community, as defined for purposes of the Catch Sharing Plan for Commission regulatory areas 2C and 3A in § 679.2 of this title, holding one or more charter halibut permits.
 
-(d) *Charter vessels in Commission regulatory area 2C and 3A* - (1) *General requirements* - (i) *Logbook submission.* For a charter vessel fishing trip during which halibut were caught and retained on or after the first Monday in April and on or before December 31, Alaska Department of Fish and Game (ADF&G) Saltwater Sport Fishing Charter Trip Logbook data sheets must be submitted to the ADF&G and postmarked or received no later than 14 calendar days after the Monday of the fishing week (as defined in 50 CFR 300.61) in which the halibut were caught and retained. Logbook sheets for a charter vessel fishing trip during which halibut were caught and retained on January 1 through the first Sunday in April, must be submitted to the ADF&G and postmarked or received no later than the second Monday in April.
+(d) *Charter vessels in Commission regulatory area 2C and 3A*—(1) *General requirements*—(i) *Logbook submission.* For a charter vessel fishing trip during which halibut were caught and retained on or after the first Monday in April and on or before December 31, Alaska Department of Fish and Game (ADF&G) Saltwater Sport Fishing Charter Trip Logbook data sheets must be submitted to the ADF&G and postmarked or received no later than 14 calendar days after the Monday of the fishing week (as defined in 50 CFR 300.61) in which the halibut were caught and retained. Logbook sheets for a charter vessel fishing trip during which halibut were caught and retained on January 1 through the first Sunday in April, must be submitted to the ADF&G and postmarked or received no later than the second Monday in April.
 
 (ii) The charter vessel guide is responsible for complying with the reporting requirements of this paragraph (d). The person whose business was assigned an Alaska Department of Fish and Game Saltwater Sport Fishing Charter Trip Logbook is responsible for ensuring that the charter vessel guide complies with the reporting requirements of this paragraph (d).
 
@@ -178,9 +178,9 @@ IFQ net pounds = (number of GAF × average net weight).
 
 (3) *Charter vessel guide and crew restriction in Commission regulatory areas 2C and 3A.* A charter vessel guide, charter vessel operator, or crew member may not catch and retain halibut during a charter vessel fishing trip in Commission regulatory area 2C or 3A, except that charter vessel operators who are charter vessel anglers may catch and retain halibut during a charter vessel fishing trip if the charter vessel guide is on a separate charter vessel.
 
-(4) *Recordkeeping and reporting requirements in Commission regulatory area 2C and 3A* - (i) *General requirements.* Each charter vessel angler and charter vessel guide in Commission regulatory area 2C or 3A must comply with the following recordkeeping and reporting requirements, except as specified in paragraph (d)(4)(iii)(C) of this section, by the end of the calendar day or by the end of the charter vessel fishing trip, whichever comes first, unless otherwise specified.
+(4) *Recordkeeping and reporting requirements in Commission regulatory area 2C and 3A*—(i) *General requirements.* Each charter vessel angler and charter vessel guide in Commission regulatory area 2C or 3A must comply with the following recordkeeping and reporting requirements, except as specified in paragraph (d)(4)(iii)(C) of this section, by the end of the calendar day or by the end of the charter vessel fishing trip, whichever comes first, unless otherwise specified.
 
-(ii) *Logbook reporting requirements* - (A) *Charter vessel angler signature requirement.* Each charter vessel angler who retains halibut caught in Commission regulatory area 2C or 3A must acknowledge that his or her name, license number (if required), and number of halibut retained (kept) are recorded correctly by signing the Alaska Department of Fish and Game Saltwater Charter Logbook data sheet on the line that corresponds to the angler's information.
+(ii) *Logbook reporting requirements*—(A) *Charter vessel angler signature requirement.* Each charter vessel angler who retains halibut caught in Commission regulatory area 2C or 3A must acknowledge that his or her name, license number (if required), and number of halibut retained (kept) are recorded correctly by signing the Alaska Department of Fish and Game Saltwater Charter Logbook data sheet on the line that corresponds to the angler's information.
 
 (B) *Charter vessel guide requirements.* If halibut were caught and retained in Commission regulatory area 2C or 3A, the charter vessel guide must record the following information (see paragraphs (d)(4)(ii)(B)(*1*) through (*10*) of this section) in the Alaska Department of Fish and Game Saltwater Charter Logbook:
 
@@ -204,7 +204,7 @@ IFQ net pounds = (number of GAF × average net weight).
 
 (*10*) *Angler signature.* The charter vessel guide is responsible for ensuring that charter vessel anglers that retain halibut comply with the signature requirements at paragraph (d)(4)(ii)(A) of this section.
 
-(iii) *GAF reporting requirements* - (A) *General.* (*1*) Upon retention of a GAF halibut, the charter vessel guide must immediately record on the GAF permit log (on the back of the GAF permit) the date that the fish was caught and retained and the total length of that fish as described in paragraphs (d)(4)(iii)(D)(*5*) and (*7*) of this section. If GAF halibut are retained on a charter vessel without a charter vessel guide on board, the charter vessel guide must also comply with the reporting requirements in paragraph (d)(4)(iii)(A)(*5*) of this section.
+(iii) *GAF reporting requirements*—(A) *General.* (*1*) Upon retention of a GAF halibut, the charter vessel guide must immediately record on the GAF permit log (on the back of the GAF permit) the date that the fish was caught and retained and the total length of that fish as described in paragraphs (d)(4)(iii)(D)(*5*) and (*7*) of this section. If GAF halibut are retained on a charter vessel without a charter vessel guide on board, the charter vessel guide must also comply with the reporting requirements in paragraph (d)(4)(iii)(A)(*5*) of this section.
 
 (*2*) In addition to the recordkeeping and reporting requirements in paragraphs (d)(4)(i) and (ii) of this section, a GAF permit holder must use the NMFS-approved electronic reporting system on the Alaska Region Web site at *http://alaskafisheries.noaa.gov/* to submit a GAF landings report.
 
@@ -316,8 +316,6 @@ IFQ net pounds = (number of GAF × average net weight).
 
 (1) A person is eligible to harvest subsistence halibut if he or she is a rural resident of a community with customary and traditional uses of halibut listed in the following table:
 
-Halibut Regulatory Area 2C
-
 |Rural Community|   Organized Entity    |
 |---------------|-----------------------|
 |    Angoon     |     Municipality      |
@@ -351,8 +349,6 @@ Halibut Regulatory Area 2C
 |  Whale Pass   |Census Designated Place|
 |   Wrangell    |     Municipality      |
 
-Halibut Regulatory Area 3A
-
 |Rural Community|   Organized Entity    |
 |---------------|-----------------------|
 |    Akhiok     |     Municipality      |
@@ -370,8 +366,6 @@ Halibut Regulatory Area 3A
 |   Tatitlek    |Census Designated Place|
 |    Yakutat    |     Municipality      |
 
-Halibut Regulatory Area 3B
-
 |Rural Community|   Organized Entity    |
 |---------------|-----------------------|
 |  Chignik Bay  |     Municipality      |
@@ -385,37 +379,27 @@ Halibut Regulatory Area 3B
 |  Perryville   |Census Designated Place|
 |  Sand Point   |     Municipality      |
 
-Halibut Regulatory Area 4A
-
 |Rural Community|   Organized Entity    |
 |---------------|-----------------------|
 |    Akutan     |     Municipality      |
 |   Nikolski    |Census Designated Place|
 |   Unalaska    |     Municipality      |
 
-Halibut Regulatory Area 4B
-
 |Rural Community|   Organized Entity    |
 |---------------|-----------------------|
 |     Adak      |Census Designated Place|
 |     Atka      |     Municipality      |
-
-Halibut Regulatory Area 4C
 
 |Rural Community|Organized Entity|
 |---------------|----------------|
 |  St. George   |  Municipality  |
 |   St. Paul    |  Municipality  |
 
-Halibut Regulatory Area 4D
-
 |Rural Community |Organized Entity|
 |----------------|----------------|
 |    Gambell     |  Municipality  |
 |    Savoonga    |  Municipality  |
 |Diomede (Inalik)|  Municipality  |
-
-Halibut Regulatory Area 4E
 
 |     Rural Community      |   Organized Entity    |
 |--------------------------|-----------------------|
@@ -476,8 +460,6 @@ Halibut Regulatory Area 4E
 
 (2) A person is eligible to harvest subsistence halibut if he or she is a member of an Alaska Native tribe with customary and traditional uses of halibut listed in the following table:
 
-Halibut Regulatory Area 2C
-
 |Place with Tribal Headquarters|                                             Organized Tribal Entity                                              |
 |------------------------------|------------------------------------------------------------------------------------------------------------------|
 |            Angoon            |                                           Angoon Community Association                                           |
@@ -497,8 +479,6 @@ Halibut Regulatory Area 2C
 |            Sitka             |                                              Sitka Tribe of Alaska                                               |
 |           Skagway            |                                                 Skagway Village                                                  |
 |           Wrangell           |                                         Wrangell Cooperative Association                                         |
-
-Halibut Regulatory Area 3A
 
 |Place with Tribal Headquarters|                                  Organized Tribal Entity                                   |
 |------------------------------|--------------------------------------------------------------------------------------------|
@@ -520,8 +500,6 @@ Halibut Regulatory Area 3A
 |           Wasilla            |                                     Village of Kanatak                                     |
 |           Yakutat            |                                   Yakutat Tlingit Tribe                                    |
 
-Halibut Regulatory Area 3B
-
 |Place with Tribal Headquarters|                                       Organized Tribal Entity                                        |
 |------------------------------|------------------------------------------------------------------------------------------------------|
 |         Chignik Bay          |                                      Native Village of Chignik                                       |
@@ -534,36 +512,26 @@ Halibut Regulatory Area 3B
 |          Perryville          |                                     Native Village of Perryville                                     |
 |          Sand Point          |Pauloff Harbor Village  <br/>Native Village of Unga  <br/>Qagan Tayagungin Tribe of Sand Point Village|
 
-Halibut Regulatory Area 4A
-
 |Place with Tribal Headquarters|  Organized Tribal Entity   |
 |------------------------------|----------------------------|
 |            Akutan            |  Native Village of Akutan  |
 |           Nikolski           | Native Village of Nikolski |
 |           Unalaska           |Qawalingin Tribe of Unalaska|
 
-Halibut Regulatory Area 4B
-
 |Place with Tribal Headquarters|Organized Tribal Entity|
 |------------------------------|-----------------------|
 |             Atka             |Native Village of Atka |
-
-Halibut Regulatory Area 4C
 
 |Place with Tribal Headquarters|                          Organized Tribal Entity                          |
 |------------------------------|---------------------------------------------------------------------------|
 |                              |                                                                           |
 |  St. George  <br/>St. Paul   |Pribilof Islands Aleut Communities of St. Paul Island and St. George Island|
 
-Halibut Regulatory Area 4D
-
 |Place with Tribal Headquarters|     Organized Tribal Entity      |
 |------------------------------|----------------------------------|
 |           Gambell            |    Native Village of Gambell     |
 |           Savoonga           |    Native Village of Savoonga    |
 |       Diomede (Inalik)       |Native Village of Diomede (Inalik)|
-
-Halibut Regulatory Area 4E
 
 |Place with Tribal Headquarters|                                  Organized Tribal Entity                                  |
 |------------------------------|-------------------------------------------------------------------------------------------|
@@ -652,37 +620,37 @@ Halibut Regulatory Area 4E
 
 (i) Subsistence fishing gear set or retrieved from a vessel while engaged in subsistence fishing for halibut must not have more than the allowable number of hooks per vessel, or per person registered in accordance with paragraph (i) of this section and aboard the vessel, whichever is less, according to the regulatory area and permit type indicated in the following table:
 
-|                                        Regulatory Area                                         |      Permit Type       |                          Gear Restrictions                          |
-|------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------|
-|      2C--Except Sitka Sound, and Ketchikan and Juneau non-subsistence marine waters areas      |         SHARC          |                         30 hooks per vessel                         |
-|                                                                                                |   Ceremonial Permit    |                         30 hooks per vessel                         |
-|                                                                                                |   Educational Permit   |                         30 hooks per vessel                         |
-|                                                                                                |Community Harvest Permit|        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                        2C--Sitka Sound                                         |         SHARC          |           September 1 through May 31: 30 hooks per vessel           |
-|                                                                                                |                        |   June 1 through August 31: 15 hooks per vessel; no power hauling   |
-|                                                                                                |   Ceremonial Permit    |           September 1 through May 31: 30 hooks per vessel           |
-|                                                                                                |                        |June 1 through August 31: fishing under Ceremonial Permit not allowed|
-|                                                                                                |   Educational Permit   |                         30 hooks per vessel                         |
-|                                                                                                |Community Harvest Permit|         fishing under Community Harvest Permit not allowed          |
-|                  2C--Ketchikan and Juneau non-subsistence marine waters areas                  |         SHARC          |           general subsistence halibut fishing not allowed           |
-|                                                                                                |   Ceremonial Permit    |                         30 hooks per vessel                         |
-|                                                                                                |   Educational Permit   |                         30 hooks per vessel                         |
-|                                                                                                |Community Harvest Permit|         fishing under Community Harvest Permit not allowed          |
-|3A--Except Chiniak Bay, and Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas|         SHARC          |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |   Ceremonial Permit    |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |   Educational Permit   |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |Community Harvest Permit|        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                        3A--Chiniak Bay                                         |         SHARC          |        30 hooks per person onboard up to 60 hooks per vessel        |
-|                                                                                                |   Ceremonial Permit    |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |   Educational Permit   |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |Community Harvest Permit|        30 hooks per person onboard up to 90 hooks per vessel        |
-|            3A--Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas            |         SHARC          |           general subsistence halibut fishing not allowed           |
-|                                                                                                |   Ceremonial Permit    |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |   Educational Permit   |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                                                                                |Community Harvest Permit|         fishing under Community Harvest Permit not allowed          |
-|                                               3B                                               |         SHARC          |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                           4A and 4B                                            |         SHARC          |        30 hooks per person onboard up to 90 hooks per vessel        |
-|                                         4C, 4D, and 4E                                         |         SHARC          |                            no hook limit                            |
+|                                        Regulatory Area                                        |      Permit Type       |                          Gear Restrictions                          |
+|-----------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------|
+|      2C—Except Sitka Sound, and Ketchikan and Juneau non-subsistence marine waters areas      |         SHARC          |                         30 hooks per vessel                         |
+|                                                                                               |   Ceremonial Permit    |                         30 hooks per vessel                         |
+|                                                                                               |   Educational Permit   |                         30 hooks per vessel                         |
+|                                                                                               |Community Harvest Permit|        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                        2C—Sitka Sound                                         |         SHARC          |           September 1 through May 31: 30 hooks per vessel           |
+|                                                                                               |                        |   June 1 through August 31: 15 hooks per vessel; no power hauling   |
+|                                                                                               |   Ceremonial Permit    |           September 1 through May 31: 30 hooks per vessel           |
+|                                                                                               |                        |June 1 through August 31: fishing under Ceremonial Permit not allowed|
+|                                                                                               |   Educational Permit   |                         30 hooks per vessel                         |
+|                                                                                               |Community Harvest Permit|         fishing under Community Harvest Permit not allowed          |
+|                  2C—Ketchikan and Juneau non-subsistence marine waters areas                  |         SHARC          |           general subsistence halibut fishing not allowed           |
+|                                                                                               |   Ceremonial Permit    |                         30 hooks per vessel                         |
+|                                                                                               |   Educational Permit   |                         30 hooks per vessel                         |
+|                                                                                               |Community Harvest Permit|         fishing under Community Harvest Permit not allowed          |
+|3A—Except Chiniak Bay, and Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas|         SHARC          |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |   Ceremonial Permit    |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |   Educational Permit   |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |Community Harvest Permit|        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                        3A—Chiniak Bay                                         |         SHARC          |        30 hooks per person onboard up to 60 hooks per vessel        |
+|                                                                                               |   Ceremonial Permit    |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |   Educational Permit   |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |Community Harvest Permit|        30 hooks per person onboard up to 90 hooks per vessel        |
+|            3A—Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas            |         SHARC          |           general subsistence halibut fishing not allowed           |
+|                                                                                               |   Ceremonial Permit    |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |   Educational Permit   |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                                                                               |Community Harvest Permit|         fishing under Community Harvest Permit not allowed          |
+|                                              3B                                               |         SHARC          |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                           4A and 4B                                           |         SHARC          |        30 hooks per person onboard up to 90 hooks per vessel        |
+|                                        4C, 4D, and 4E                                         |         SHARC          |                            no hook limit                            |
 
 (ii) All setline gear marker buoys carried on board or used by any vessel regulated under this section shall be marked with the following: first initial, last name, and address (street, city, and state), followed by the letter “S” to indicate that it is used to harvest subsistence halibut.
 
@@ -690,33 +658,33 @@ Halibut Regulatory Area 4E
 
 (2) The retention of subsistence halibut is limited per person eligible to conduct subsistence fishing for halibut and onboard the vessel according to the following table:
 
-|                                               Regulatory Area                                               |      Permit Type       |                             Retention Limits                              |
-|-------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------|
-|            2C--Except Sitka Sound, and Ketchikan and Juneau non-subsistence marine waters areas             |         SHARC          |              20 halibut per day per vessel and in possession              |
-|                                                                                                             |   Ceremonial Permit    |                           25 halibut per permit                           |
-|                                                                                                             |   Educational Permit   |                           25 halibut per permit                           |
-|                                                                                                             |Community Harvest Permit|                       no daily or possession limit                        |
-|                                               2C--Sitka Sound                                               |         SHARC          |September 1 through May 31: 10 halibut per day per vessel and in possession|
-|                                                                                                             |                        | June 1 through August 31: 5 halibut per day per vessel and in possession  |
-|                                                                                                             |   Ceremonial Permit    |             September 1 through May 31: 25 halibut per permit             |
-|                                                                                                             |                        |   June 1 through August 31: fishing under Ceremonial Permit not allowed   |
-|                                                                                                             |   Educational Permit   |                           25 halibut per permit                           |
-|                                                                                                             |Community Harvest Permit|            fishing under Community Harvest Permit not allowed             |
-|                        2C--Ketchikan and Juneau non-subsistence marine waters areas                         |         SHARC          |              general subsistence halibut fishing not allowed              |
-|                                                                                                             |   Ceremonial Permit    |                           25 halibut per permit                           |
-|                                                                                                             |   Educational Permit   |                           25 halibut per permit                           |
-|                                                                                                             |Community Harvest Permit|            fishing under Community Harvest Permit not allowed             |
-|3A--Including Chiniak Bay, but excluding Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas|         SHARC          |              20 halibut per person per day and in possession              |
-|                                                                                                             |   Ceremonial Permit    |                           25 halibut per permit                           |
-|                                                                                                             |   Educational Permit   |                           25 halibut per permit                           |
-|                                                                                                             |Community Harvest Permit|                       no daily or possession limit                        |
-|                  3A--Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas                   |         SHARC          |              general subsistence halibut fishing not allowed              |
-|                                                                                                             |   Ceremonial Permit    |                           25 halibut per permit                           |
-|                                                                                                             |   Educational Permit   |                           25 halibut per permit                           |
-|                                                                                                             |Community Harvest Permit|            fishing under Community Harvest Permit not allowed             |
-|                                                     3B                                                      |         SHARC          |              20 halibut per person per day and in possession              |
-|                                                  4A and 4B                                                  |         SHARC          |            20 halibut per person per day; no possession limit             |
-|                                               4C, 4D, and 4E                                                |         SHARC          |                       no daily or possession limit                        |
+|                                              Regulatory Area                                               |      Permit Type       |                             Retention Limits                              |
+|------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------|
+|            2C—Except Sitka Sound, and Ketchikan and Juneau non-subsistence marine waters areas             |         SHARC          |              20 halibut per day per vessel and in possession              |
+|                                                                                                            |   Ceremonial Permit    |                           25 halibut per permit                           |
+|                                                                                                            |   Educational Permit   |                           25 halibut per permit                           |
+|                                                                                                            |Community Harvest Permit|                       no daily or possession limit                        |
+|                                               2C—Sitka Sound                                               |         SHARC          |September 1 through May 31: 10 halibut per day per vessel and in possession|
+|                                                                                                            |                        | June 1 through August 31: 5 halibut per day per vessel and in possession  |
+|                                                                                                            |   Ceremonial Permit    |             September 1 through May 31: 25 halibut per permit             |
+|                                                                                                            |                        |   June 1 through August 31: fishing under Ceremonial Permit not allowed   |
+|                                                                                                            |   Educational Permit   |                           25 halibut per permit                           |
+|                                                                                                            |Community Harvest Permit|            fishing under Community Harvest Permit not allowed             |
+|                        2C—Ketchikan and Juneau non-subsistence marine waters areas                         |         SHARC          |              general subsistence halibut fishing not allowed              |
+|                                                                                                            |   Ceremonial Permit    |                           25 halibut per permit                           |
+|                                                                                                            |   Educational Permit   |                           25 halibut per permit                           |
+|                                                                                                            |Community Harvest Permit|            fishing under Community Harvest Permit not allowed             |
+|3A—Including Chiniak Bay, but excluding Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas|         SHARC          |              20 halibut per person per day and in possession              |
+|                                                                                                            |   Ceremonial Permit    |                           25 halibut per permit                           |
+|                                                                                                            |   Educational Permit   |                           25 halibut per permit                           |
+|                                                                                                            |Community Harvest Permit|                       no daily or possession limit                        |
+|                  3A—Anchorage-Matsu-Kenai and Valdez non-subsistence marine waters areas                   |         SHARC          |              general subsistence halibut fishing not allowed              |
+|                                                                                                            |   Ceremonial Permit    |                           25 halibut per permit                           |
+|                                                                                                            |   Educational Permit   |                           25 halibut per permit                           |
+|                                                                                                            |Community Harvest Permit|            fishing under Community Harvest Permit not allowed             |
+|                                                     3B                                                     |         SHARC          |              20 halibut per person per day and in possession              |
+|                                                 4A and 4B                                                  |         SHARC          |            20 halibut per person per day; no possession limit             |
+|                                               4C, 4D, and 4E                                               |         SHARC          |                       no daily or possession limit                        |
 
 (3) Subsistence fishing may be conducted in any waters in and off Alaska except in the four non-subsistence marine waters areas defined as follows:
 

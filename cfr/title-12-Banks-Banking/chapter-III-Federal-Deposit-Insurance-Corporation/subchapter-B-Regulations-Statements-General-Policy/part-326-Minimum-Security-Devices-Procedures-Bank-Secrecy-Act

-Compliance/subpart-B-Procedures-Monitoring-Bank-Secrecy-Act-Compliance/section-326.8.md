@@ -1,5 +1,7 @@
 ##### § 326.8 Bank Security Act compliance. #####
 
+Link to an amendment published at 85 FR 3246, Jan. 21, 2020.
+
 (a) *Purpose.* This subpart is issued to assure that all insured nonmember banks as defined in 12 CFR 326.1 establish and maintain procedures reasonably designed to assure and monitor their compliance with the requirements of subchapter II of chapter 53 of title 31, United States Code, and the implementing regulations promulgated thereunder by the Department of Treasury at 31 CFR Chapter X.
 
 (b) *Compliance procedures* - (1) *Program requirement.* Each bank shall develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with recordkeeping and reporting requirements set forth in subchapter II of chapter 53 of title 31, United States Code, and the implementing regulations issued by the Department of Treasury at 31 CFR Chapter X. The compliance program shall be written, approved by the bank's board of directors, and noted in the minutes.

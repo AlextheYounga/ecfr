@@ -1,7 +1,5 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 84 FR 70044, Dec. 20, 2019.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
 *Active FAD* means a FAD whose location is being tracked by the vessel owner or operator using tracking equipment, such as radio or satellite buoys. A FAD shall be considered an Active FAD unless/until the vessel is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is no longer active (*i.e.,* deactivated).
@@ -32,7 +30,7 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Force majeure* means, for the purpose of § 300.25, a situation in which a vessel at sea, except while transiting between ports on a trip during which no fishing operations occur, is disabled by mechanical and/or structural failure, fire or explosion.
 
-*Highly Migratory Species (HMS) Branch* means the Chief of the HMS Branch of the Sustainable Fisheries Division, National Marine Fisheries Service West Coast Region, Suite 4200, 501 W. Ocean Blvd., Long Beach, CA 90802.
+*Highly Migratory Species (HMS) Branch* means the Chief of the HMS Branch of the Sustainable Fisheries Division, National Marine Fisheries Service West Coast Region, Suite 4200, 501 W Ocean Blvd., Long Beach, CA 90802, and *wcr.hms@noaa.gov.*
 
 *Incidental catch* or *incidental species* means species caught while fishing with the primary purpose of catching a different species. An incidental catch is expressed as a percentage of the weight of the total fish on board.
 
@@ -74,9 +72,7 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 |Skipjack tuna |Katsuwonus pelamis.|
 |Yellowfin tuna|Thunnus albacares. |
 
-*Tuna* means any fish of the genus Thunnus and the species *Euthynnus (Katsuwonus) pelamis.*
-
-*Vessel monitoring system (VMS)* means an automated, remote system that provides information about a vessel's identity, location and activity, for the purposes of routine monitoring, control, surveillance and enforcement of area and time restrictions and other fishery management measures.
+*Tuna* means any fish of the genus Thunnus and the species *Katsuwonus pelamis.*
 
 *VMS unit,* sometimes known as a “mobile transmitting unit,” means a transceiver or communications device, including all hardware and software that is carried and operated on a vessel as part of a VMS.
 

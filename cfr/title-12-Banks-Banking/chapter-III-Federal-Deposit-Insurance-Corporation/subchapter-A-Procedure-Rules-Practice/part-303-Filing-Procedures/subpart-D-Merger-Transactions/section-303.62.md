@@ -1,5 +1,7 @@
 ##### § 303.62 Transactions requiring prior approval. #####
 
+Link to an amendment published at 85 FR 3243, Jan. 21, 2020.
+
 (a) *Merger transactions.* The following merger transactions require the prior written approval of the FDIC under this subpart:
 
 (1) Any merger transaction, including any corporate reorganization, interim merger transaction, or optional conversion, in which the resulting institution is to be an insured state nonmember bank; and

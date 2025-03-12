@@ -1,5 +1,7 @@
 ##### § 303.200 Scope. #####
 
+Link to an amendment published at 85 FR 3245, Jan. 21, 2020.
+
 (a) *General.* (1) This subpart covers applications filed pursuant to section 38 of the FDI Act (12 U.S.C. 1831*o*), which requires insured depository institutions that are not adequately capitalized to receive approval prior to engaging in certain activities. Section 38 restricts or prohibits certain activities and requires an insured depository institution to submit a capital restoration plan when it becomes undercapitalized. The restrictions and prohibitions become more severe as an institution's capital level declines.
 
 (2) Definitions of the capital categories referenced in this Prompt Corrective Action subpart may be found in subpart H of part 324 of this chapter.

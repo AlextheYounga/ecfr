@@ -1,5 +1,7 @@
 ##### § 303.2 Definitions. #####
 
+Link to an amendment published at 85 FR 3243, Jan. 21, 2020.
+
 Except as modified or otherwise defined in this part, terms used in this part that are defined in the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*) have the meanings provided in the Federal Deposit Insurance Act. Additional definitions of terms used in this part are as follows:
 
 (a) *Act* or *FDI Act* means the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*).

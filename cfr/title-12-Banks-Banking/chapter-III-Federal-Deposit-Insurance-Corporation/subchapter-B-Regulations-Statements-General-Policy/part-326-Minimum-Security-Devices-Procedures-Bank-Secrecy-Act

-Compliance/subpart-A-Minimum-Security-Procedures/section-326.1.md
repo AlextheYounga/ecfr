@@ -1,5 +1,7 @@
 ##### § 326.1 Definitions. #####
 
+Link to an amendment published at 85 FR 3246, Jan. 21, 2020.
+
 For the purposes of this part -
 
 (a) The term *FDIC-supervised insured depository institution* or *institution* means any insured depository institution for which the Federal Deposit Insurance Corporation is the appropriate Federal banking agency pursuant to section 3(q)(2) of the Federal Deposit Insurance Act, 12 U.S.C. 1813(q)(2).

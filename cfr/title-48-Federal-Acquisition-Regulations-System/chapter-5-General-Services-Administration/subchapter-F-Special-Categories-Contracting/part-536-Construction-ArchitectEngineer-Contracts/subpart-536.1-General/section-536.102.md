@@ -1,3 +1,5 @@
-##### 536.102 xxx #####
+##### 536.102 Definitions. #####
 
-Link to an amendment published at 84 FR 69632, Dec. 19, 2019.
+*Construction-Manager-as-Constructor (CMc)* means the project delivery method where design and construction are contracted concurrently through two separate contracts and two separate contractors. Unlike the traditional design-bid-build delivery method, under the CMc delivery method, the Government awards a separate contract to a designer (*i.e.,* architect-engineer contractor) and to a construction contractor (*i.e.,* CMc contractor) prior to the completion of the design documents. The Government retains the CMc contractor during design to work with the architect-engineer contractor to provide constructability reviews and cost estimating validation. The CMc contract includes design phase services at a firm-fixed-price and an option for construction at a guaranteed maximum price.
+
+[84 FR 69632, Dec. 19, 2019]

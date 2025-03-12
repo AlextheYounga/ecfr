@@ -1,6 +1,6 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 84 FR 70071, Dec. 20, 2019.Link to an amendment published at 85 FR 849, Jan. 8, 2020.
+Link to an amendment published at 85 FR 849, Jan. 8, 2020.
 
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
@@ -443,6 +443,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (11) *Prohibitions specific to the BSAI Trawl Limited Access Sector yellowfin sole directed fishery.* Deliver yellowfin sole harvested with trawl gear in the BSAI Trawl Limited Access Sector yellowfin sole directed fishery to a mothership without a legible copy of a valid groundfish LLP license with a BSAI Trawl Limited Access Sector yellowfin sole directed fishery endorsement, except as provided in § 679.4(k)(2).
 
+(12) *Prohibitions specific to directed fishing in the BSAI non-CDQ Pacific cod trawl catcher vessel fishery as specified at § 679.20(a)(7)(ii)(A).* Use a catcher/processor to receive and process Pacific cod harvested and delivered by a catcher vessel directed fishing in the BSAI non-CDQ Pacific cod trawl catcher vessel fishery without a legible copy on board of a valid groundfish LLP license with Bering Sea or Aleutian Islands area, catcher/processor operation, and BSAI Pacific cod trawl mothership endorsements.
+
 (j) *North Pacific Observer Program - EM Systems.* (1) Fish without an EM system when a vessel is required to carry an EM system under § 679.51(f).
 
 (2) Fish with an EM system without a copy of a valid NMFS-approved VMP on board when directed fishing in a fishery subject to EM coverage.
@@ -666,6 +668,12 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 (iii) Hold an Amendment 80 QS permit assigned to an Amendment 80 vessel if that Amendment 80 vessel has suffered an actual total loss, constructive total loss, or is permanently ineligible to receive a fishery endorsement under 46 U.S.C. 12108 after October 15 in the calendar year following the date of that actual total loss, constructive total loss, or permanent ineligibility to receive a fishery endorsement under 46 U.S.C. 12108.
 
 (iv) Fish in an Amendment 80 fishery without an Amendment 80 QS permit or Amendment 80 LLP/QS license assigned to that vessel.
+
+(v) Use an Amendment 80 catcher/processor, as defined at § 679.2, to receive and process Pacific cod harvested by vessels directed fishing for Pacific cod in the BSAI or GOA, if that catcher/processor is not designated on:
+
+(A) An Amendment 80 QS permit and an Amendment 80 LLP license; or
+
+(B) An Amendment 80 LLP/QS license.
 
 (4) *Amendment 80 cooperatives.* (i) Use an Amendment 80 vessel, Amendment 80 LLP license, or Amendment 80 QS permit not assigned to an Amendment 80 cooperative for a calendar year to catch any Amendment 80 species, crab PSC, or halibut PSC assigned to that Amendment 80 cooperative during that calendar year;
 

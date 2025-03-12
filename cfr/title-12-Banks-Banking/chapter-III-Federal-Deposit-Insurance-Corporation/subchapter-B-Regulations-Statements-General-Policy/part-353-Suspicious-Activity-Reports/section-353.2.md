@@ -1,5 +1,7 @@
 ##### § 353.2 Definitions. #####
 
+Link to an amendment published at 85 FR 3247, Jan. 21, 2020.
+
 For the purposes of this part:
 
 (a) *FinCEN* means the Financial Crimes Enforcement Network of the Department of the Treasury.

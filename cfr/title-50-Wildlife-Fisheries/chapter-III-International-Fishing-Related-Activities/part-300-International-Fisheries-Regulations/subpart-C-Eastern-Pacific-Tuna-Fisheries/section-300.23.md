@@ -1,6 +1,4 @@
-##### § 300.23 Eastern Pacific fisheries - Persons and vessels exempted. #####
-
-Link to an amendment published at 84 FR 70048, Dec. 20, 2019.
+##### § 300.23 Persons and vessels exempted. #####
 
 This subpart does not apply to:
 

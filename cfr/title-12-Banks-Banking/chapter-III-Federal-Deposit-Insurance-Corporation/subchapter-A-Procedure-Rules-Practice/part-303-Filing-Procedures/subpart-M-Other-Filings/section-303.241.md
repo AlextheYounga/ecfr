@@ -1,5 +1,7 @@
 ##### § 303.241 Reduce or retire capital stock or capital debt instruments. #####
 
+Link to an amendment published at 85 FR 3245, Jan. 21, 2020.
+
 (a) *Scope.* This section contains the procedures to be followed by an insured state nonmember bank to seek the prior approval of the FDIC to reduce the amount or retire any part of its common or preferred stock, or to retire any part of its capital notes or debentures pursuant to section 18(i)(1) of the Act (12 U.S.C. 1828(i)(1)).
 
 (b) *Where to file.* Applicants shall submit a letter application to the appropriate FDIC office.

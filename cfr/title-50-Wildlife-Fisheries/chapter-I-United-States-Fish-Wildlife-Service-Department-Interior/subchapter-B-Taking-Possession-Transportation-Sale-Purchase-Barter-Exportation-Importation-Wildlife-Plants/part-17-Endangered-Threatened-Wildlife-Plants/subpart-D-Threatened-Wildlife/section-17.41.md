@@ -1,7 +1,5 @@
 ##### § 17.41 Special rules - birds. #####
 
-Link to an amendment published at 84 FR 69946, Dec. 19, 2019.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*). (1) *Which populations of the streaked horned lark are covered by this special rule?* The components of this special rule that apply to airport management and noxious weed control cover the rangewide distribution of this bird; the agricultural component applies only to the Willamette Valley in Oregon.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3), (4), and (5) of this section, all prohibitions of § 17.31 apply to the streaked horned lark.
@@ -92,7 +90,63 @@ Link to an amendment published at 84 FR 69946, Dec. 19, 2019.
 
 (3) *Interstate commerce.* Except where use after import is restricted under § 23.55 of this chapter, you may deliver, receive, carry, transport, or ship in interstate commerce and in the course of a commercial activity, or sell or offer to sell, in interstate commerce the species listed in this paragraph (c) without a permit under the Act.
 
-(d) [Reserved]
+(d) Hawaiian goose (*Branta sandvicensis*) (nene). (1) *Definitions*. For the purposes of this paragraph (d):
+
+(i) *Nene* means the Hawaiian goose (*Branta sandvicensis*).
+
+(ii) *Intentional harassment* means an intentional act that creates the likelihood of injury to wildlife by annoying it to such an extent as to significantly disrupt normal behavior patterns, which include, but are not limited to, breeding, feeding, or sheltering. Intentional harassment may include prior purposeful actions to attract, track, wait for, or search out nene, or purposeful actions to deter nene.
+
+(iii) *Person* means a person as defined by section 3(13) of the Act.
+
+(iv) *Qualified biologist* means an individual with a combination of academic training in the area of wildlife biology or related discipline and demonstrated field experience in the identification and life history of nene.
+
+(2) *Prohibitions.* The following prohibitions apply to the nene except as provided under paragraph (d)(3) of this section and §§ 17.4 through 17.6:
+
+(i) Import or export as provided in § 17.21(b).
+
+(ii) Take as provided in § 17.21(c)(1).
+
+(iii) Possession and other acts with unlawfully taken specimens as provided in § 17.21(d)(1).
+
+(iv) Interstate or foreign commerce in the course of commercial activity as provided in § 17.21(e).
+
+(v) Sale or offer for sale as provided in § 17.21(f).
+
+(vi) Attempt to commit, solicit another to commit, or to cause to be committed, any of the acts described in paragraphs (d)(2)(i) through (v) of this section.
+
+(3) *Exceptions from prohibitions.* The following exceptions from prohibitions apply to the nene:
+
+(i) Authorization provided under § 17.32.
+
+(ii) Take as provided in § 17.21(c)(2) through (7). However, § 17.21(c)(5)(i) through (iv) does not apply.
+
+(iii) Take incidental to an otherwise lawful activity caused by:
+
+(A) *Intentional harassment of nene that is not likely to cause direct injury or mortality.* A person may harass nene on lands they own, rent, or lease, if the action is not likely to cause direct injury or mortality of nene. Techniques for such harassment may include the use of predator effigies (including raptor kites, predator replicas, etc.), commercial chemical bird repellents, ultrasonic repellers, audio deterrents (noisemakers, pyrotechnics, etc.), herding or harassing with trained or tethered dogs, or access control (including netting, fencing, etc.). Nene may also be harassed in the course of surveys that benefit and further the recovery of nene. Such harassment techniques must avoid causing direct injury or mortality to nene. Before implementation of any such intentional harassment activities during the nene breeding season (September through April), a qualified biologist knowledgeable about the nesting behavior of nene must survey in and around the area to determine whether a nest or goslings are present. If a nest is discovered, the Service and authorized State wildlife officials must be notified within 72 hours (see paragraph (d)(4) of this section for contact information) and the following measures implemented to avoid disturbance of nests and broods:
+
+(*1*) No disruptive activities may occur within a 100-foot (30-meter) buffer around all active nests and broods until the goslings have fledged;
+
+(*2*) Brooding adults (*i.e.,* adults with an active nest or goslings) or adults in molt may not be subject to intentional harassment at any time; and
+
+(*3*) The landowner must arrange follow-up surveys of the property by qualified biologists to assess the status of birds present.
+
+(B) *Nonnative predator control or habitat management activities.* A person may incidentally take nene in the course of carrying out nonnative predator control or habitat management activities for nene conservation purposes if reasonable care is practiced to minimize effects to the nene.
+
+(*1*) Nonnative predator control activities for the conservation of nene include use of fencing, trapping, shooting, and toxicants to control predators, and related activities such as performing efficacy surveys, trap checks, and maintenance duties. Reasonable care for predator control activities may include, but is not limited to, procuring and implementing technical assistance from a qualified biologist on predator control methods and protocols prior to application of methods; compliance with all State and Federal regulations and guidelines for application of predator control methods; and judicious use of methods and tool adaptations to reduce the likelihood of nene ingesting bait, interacting with mechanical devices, or being injured or dying from interaction with mechanical devices.
+
+(*2*) Habitat management activities for the conservation of nene include: Mowing, weeding, fertilizing, herbicide application, and irrigating existing pasture areas for conservation purposes; planting native food resources; providing watering areas, such as water units or ponds or catchments, designed to be safe for goslings and flightless/molting adults; providing temporary supplemental feeding and watering stations when appropriate, such as under poor quality forage or extreme conditions (e.g., drought or fire); if mechanical mowing of pastures for conservation management purposes is not feasible, alternate methods of keeping grass short, such as grazing; and large-scale restoration of native habitat (e.g., feral ungulate control, fencing). Reasonable care for habitat management may include, but is not limited to, procuring and implementing technical assistance from a qualified biologist on habitat management activities, and best efforts to minimize nene exposure to hazards (e.g., predation, habituation to feeding, entanglement, and vehicle collisions).
+
+(C) *Actions carried out by law enforcement officers in the course of official law enforcement duties.* When acting in the course of their official duties, State and local government law enforcement officers, working in conjunction with authorized wildlife biologists and wildlife rehabilitators in the State of Hawaii, may take nene for the following purposes:
+
+(*1*) Aiding or euthanizing sick, injured, or orphaned nene;
+
+(*2*) Disposing of a dead specimen; or
+
+(*3*) Salvaging a dead specimen that may be used for scientific study; or
+
+(*4*) Possession and other acts with unlawfully taken specimens as provided in § 17.21(d)(2) through (4)).
+
+(4) *Reporting and disposal requirements.* Any injury or mortality of nene associated with the actions excepted under paragraphs (d)(3)(iii)(A) through (C) of this section must be reported to the Service and authorized State wildlife officials within 72 hours, and specimens may be disposed of only in accordance with directions from the Service. Reports should be made to the Service's Office of Law Enforcement at (808) 861-8525, or the Service's Pacific Islands Fish and Wildlife Office at (808) 792-9400. The State of Hawaii Department of Land and Natural Resources, Division of Forestry and Wildlife may be contacted at (808) 587-0166. The Service may allow additional reasonable time for reporting if access to these offices is limited due to closure.
 
 (e) Elfin-woods warbler (*Setophaga angelae*). (1) *Prohibitions.* Except as noted in paragraph (e)(2) of this section, all prohibitions and provisions of 50 CFR 17.31 and 17.32 apply to the elfin-woods warbler.
 
@@ -104,4 +158,4 @@ Link to an amendment published at 84 FR 69946, Dec. 19, 2019.
 
 (iii) Reforestation and forested habitat enhancement projects within secondary forests (*i.e.,* young and mature) that promote the establishment or improvement of habitat conditions for the species by the planting of native trees, selective removal of native and exotic trees, seasonal pruning of native and exotic trees, or a combination of these.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019]

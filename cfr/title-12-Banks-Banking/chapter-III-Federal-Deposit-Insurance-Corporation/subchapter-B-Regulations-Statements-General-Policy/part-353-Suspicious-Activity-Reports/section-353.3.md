@@ -1,5 +1,7 @@
 ##### § 353.3 Reports and records. #####
 
+Link to an amendment published at 85 FR 3247, Jan. 21, 2020.
+
 (a) *Suspicious activity reports required.* A bank shall file a suspicious activity report with the appropriate federal law enforcement agencies and the Department of the Treasury, in accordance with the form's instructions, by sending a completed suspicious activity report to FinCEN in the following circumstances:
 
 (1) *Insider abuse involving any amount.* Whenever the bank detects any known or suspected federal criminal violation, or pattern of criminal violations, committed or attempted against the bank or involving a transaction or transactions conducted through the bank, where the bank believes it was either an actual or potential victim of a criminal violation, or series of criminal violations, or that the bank was used to facilitate a criminal transaction, and the bank has a substantial basis for identifying one of the bank's directors, officers, employees, agents, or other institution-affiliated parties as having committed or aided in the commission of the criminal violation, regardless of the amount involved in the violation;

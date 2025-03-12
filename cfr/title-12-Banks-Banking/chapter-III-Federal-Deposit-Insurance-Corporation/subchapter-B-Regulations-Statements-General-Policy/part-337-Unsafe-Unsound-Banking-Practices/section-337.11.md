@@ -1,3 +1,5 @@
 ##### § 337.11 Effect on other banking practices. #####
 
+Link to an amendment published at 85 FR 3247, Jan. 21, 2020.
+
 Nothing in this part shall be construed as restricting in any manner the Corporation's authority to deal with any banking practice which is deemed to be unsafe or unsound or otherwise not in accordance with law, rule, or regulation; or which violates any condition imposed in writing by the Corporation in connection with the granting of any application or other request by an insured State nonmember bank, or any written agreement entered into by such bank with the Corporation. Compliance with the provisions of this part shall not relieve an insured State nonmember bank from its duty to conduct its operations in a safe and sound manner nor prevent the Corporation from taking whatever action it deems necessary and desirable to deal with specific acts or practices which, although they do not violate the provisions of this part, are considered detrimental to the safety and sound operation of the bank engaged therein.

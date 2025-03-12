@@ -1,5 +1,7 @@
 ##### § 303.102 Filing procedures and waiver of prior notice. #####
 
+Link to an amendment published at 85 FR 3245, Jan. 21, 2020.
+
 (a) *Insured state nonmember banks.* An insured state nonmember bank shall give the FDIC written notice, as specified in paragraph (c)(1) of this section, at least 30 days prior to adding or replacing any member of its board of directors, employing any person as a senior executive officer of the bank, or changing the responsibilities of any senior executive officer so that the person would assume a different senior executive officer position, if:
 
 (1) The bank is not in compliance with all minimum capital requirements applicable to the bank as determined on the basis of the bank's most recent report of condition or report of examination;
