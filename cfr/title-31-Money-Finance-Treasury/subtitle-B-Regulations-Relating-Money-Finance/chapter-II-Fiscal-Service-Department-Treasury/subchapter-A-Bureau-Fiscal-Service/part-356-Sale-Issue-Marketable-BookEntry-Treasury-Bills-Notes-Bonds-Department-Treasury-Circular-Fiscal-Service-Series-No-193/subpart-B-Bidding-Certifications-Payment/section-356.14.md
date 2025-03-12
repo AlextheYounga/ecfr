@@ -1,5 +1,7 @@
 ##### § 356.14 What are the requirements for submitting bids for customers? #####
 
+Link to an amendment published at 87 FR 40439, July 7, 2022.
+
 (a) *Institutions that may submit bids for customers.* Only depository institutions or dealers may submit bids for customers (see definitions at § 356.2), or for customers of intermediaries, under the requirements set out in this section.
 
 (b) *Payment.* Submitters must remit payment for bids they submit on behalf of customers, including customers of intermediaries, that result in awards of securities in the auction.

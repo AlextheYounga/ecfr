@@ -1,5 +1,7 @@
 ##### § 356.25 How does the settlement process work? #####
 
+Link to an amendment published at 87 FR 40440, July 7, 2022.
+
 Securities bought in the auction must be paid for by the issue date. The payment amount for awarded securities will be the settlement amount as defined in § 356.2. (See formulas in appendix B.) There are several ways to pay for securities:
 
 (a) *Payment by debit entry to a deposit account.* If you are paying by debit entry to a deposit account as provided for in § 356.17 (b) and (c), we will charge the settlement amount to the specified account on the issue date.

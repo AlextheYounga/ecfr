@@ -1,5 +1,7 @@
 ##### § 356.11 How are bids submitted in an auction? #####
 
+Link to an amendment published at 87 FR 40439, July 7, 2022.
+
 (a) *General.* (1) All bids must be submitted using an approved method, which depends on whether you are requesting us to issue the awarded securities in the commercial book-entry system, in TreasuryDirect ®, or in Legacy Treasury Direct ® (See § 356.4). The approved submission methods for these respective systems are explained in this section. A bidder must provide its assigned bidder identification numbers if it has been assigned one. We have the option of accepting or rejecting incomplete bids.
 
 (2) We must receive competitive and noncompetitive bids prior to their respective closing times, which are stated in the auction announcement. We will not include late bids in the auction. For bids other than those submitted on paper forms, our computer time stamp will establish the receipt time. You are bound by your bids after the closing time.

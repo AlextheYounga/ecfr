@@ -1,5 +1,7 @@
 ##### § 356.12 What are the different types of bids and do they have specific requirements or restrictions? #####
 
+Link to an amendment published at 87 FR 40439, July 7, 2022.
+
 (a) *General.* All bids must state the par amount of securities bid for and must equal or exceed the minimum to bid amount stated in the auction announcement. Bids in larger amounts must be in the multiple stated in the auction announcement.
 
 (b) *Noncompetitive bids* - (1) *Maximum bid.* You may not bid noncompetitively for more than $5 million. The maximum bid limitation does not apply if you are bidding solely through either a TreasuryDirect ® or a Legacy Treasury Direct ® reinvestment request. A request for reinvestment of securities maturing in either TreasuryDirect or Legacy Treasury Direct is a noncompetitive bid.

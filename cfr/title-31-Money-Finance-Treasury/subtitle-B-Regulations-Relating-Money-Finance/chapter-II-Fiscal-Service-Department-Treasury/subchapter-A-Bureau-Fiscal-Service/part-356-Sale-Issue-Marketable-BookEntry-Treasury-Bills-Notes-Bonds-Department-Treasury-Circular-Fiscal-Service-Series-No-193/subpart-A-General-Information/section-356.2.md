@@ -1,5 +1,7 @@
 ##### § 356.2 What definitions do I need to know to understand this part? #####
 
+Link to an amendment published at 87 FR 40439, July 7, 2022.
+
 *13-week bill* means a Treasury bill where the security description is “13-Week Bill” as referenced on the Treasury auction announcement.
 
 *Accrued interest* means an amount that bidders must pay to us for interest income as part of the settlement amount. Accrued interest compensates us up front for interest that bidders will be paid but did not earn because it is attributable to a period of time prior to the issue date. (See appendix B, section I, paragraph D of this part for additional explanation and examples.)

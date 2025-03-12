@@ -1,5 +1,7 @@
 ##### § 356.5 What types of securities does the Treasury auction? #####
 
+Link to an amendment published at 87 FR 40439, July 7, 2022.
+
 We offer securities under this part exclusively in book-entry form and as direct obligations of the United States issued under Chapter 31 of Title 31 of the United States Code. The securities are subject to the terms and conditions in this part, the regulations in 31 CFR part 363 (for securities held in TreasuryDirect), the regulations in 31 CFR part 357 (for securities held in the commercial book-entry system and Legacy Treasury Direct), and the auction announcements. When we issue additional securities with the same CUSIP number as outstanding securities, we consider them to be the same securities as the outstanding securities.
 
 (a) *Treasury bills.* (1) Are issued at a discount or at par, depending upon the auction results;

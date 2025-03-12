@@ -1,5 +1,7 @@
 ##### § 356.30 When does the Treasury pay principal and interest on securities? #####
 
+Link to an amendment published at 87 FR 40440, July 7, 2022.
+
 (a) *General.* We will pay principal on bills, notes, and bonds on the maturity date as specified in the auction announcement. Interest on bills consists of the difference between the discounted amount paid by the investor at original issue and the par value we pay to the investor at maturity. Interest on notes and bonds accrues from the dated date. Interest is payable on a semiannual or quarterly basis on the interest payment dates specified in the auction announcement through the maturity date. If any principal or interest payment date is a Saturday, Sunday, or other day on which the Federal Reserve System is not open for business, we will make the payment (without additional interest) on the next business day. If a bond is callable, we will pay the principal prior to maturity if we call it under its terms, which include providing appropriate public notice.
 
 (b) *Treasury inflation-protected securities.* (1) This table explains the amount that we will pay to holders of inflation-protected securities at maturity.

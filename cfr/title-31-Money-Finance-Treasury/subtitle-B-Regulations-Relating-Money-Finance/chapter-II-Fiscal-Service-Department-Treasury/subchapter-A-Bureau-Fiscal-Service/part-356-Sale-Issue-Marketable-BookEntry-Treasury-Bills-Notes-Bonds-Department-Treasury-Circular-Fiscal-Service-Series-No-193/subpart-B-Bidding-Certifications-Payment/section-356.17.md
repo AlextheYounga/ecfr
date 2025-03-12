@@ -1,5 +1,7 @@
 ##### § 356.17 How and when do I pay for securities awarded in an auction? #####
 
+Link to an amendment published at 87 FR 40440, July 7, 2022.
+
 (a) *General.* By bidding in an auction, you agree to pay the settlement amount for any securities awarded to you. (See § 356.25.) For notes and bonds, the settlement amount may include a premium amount, accrued interest, and, for inflation-protected securities, an inflation adjustment.
 
 (b) *TreasuryDirect* ®. You must pay for your awarded securities by a debit entry to a deposit account that you are authorized to debit or by using the redemption proceeds of your certificate of indebtedness held in your TreasuryDirect account. Payment by debit entry occurs on the settlement date for the actual settlement amount due. (See § 356.25.)
