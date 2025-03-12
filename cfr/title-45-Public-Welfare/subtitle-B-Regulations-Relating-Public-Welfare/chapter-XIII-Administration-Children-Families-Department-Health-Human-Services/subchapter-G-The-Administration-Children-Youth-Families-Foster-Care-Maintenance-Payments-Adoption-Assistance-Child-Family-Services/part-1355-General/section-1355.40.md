@@ -1,8 +1,8 @@
 ##### § 1355.40 Foster care and adoption data collection. #####
 
-Link to an amendment published at 81 FR 90569, Dec. 14, 2016.
+Link to an amendment published at 81 FR 90569, Dec. 14, 2016.This amendment was delayed until Oct. 1, 2020, at 83 FR 42225, Aug. 21, 2018.
 
-(a) *Scope.* State and tribal title IV-E agencies must follow the requirements of this section and Appendices A through E of part 1355 until September 30, 2019. As of October 1, 2019, state and tribal title IV-E agencies must comply with §§ 1355.41 through 1355.47.
+(a) *Scope.* State and tribal title IV-E agencies must follow the requirements of this section and appendices A through E of this part until September 30, 2020. As of October 1, 2020, state and tribal title IV-E agencies must comply with §§ 1355.41 through 1355.47.
 
 (b) *Scope of the data collection system.* (1) Each title IV-E agency which administers or supervises the administration of titles IV-B and IV-E must implement a system to collect data. The data reporting system must meet the requirements of § 1355.40(c) and electronically report certain data regarding children in foster care and adoption. The foster care data elements are listed and defined in Appendix A to this part and the adoption data elements are listed and defined in Appendix B to this part.
 
@@ -28,4 +28,4 @@ Link to an amendment published at 81 FR 90569, Dec. 14, 2016.
 
 (f) *Substantial noncompliance.* Failure by a title IV-E agency to meet any of the standards described in paragraphs (b) through (e) of this section is considered a substantial failure to meet the requirements of the title IV-E plan.
 
-(This requirement has been approved by the Office of Management and Budget under OMB Control Number 0980-0267. In accordance with the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.)[58 FR 67924, Dec. 22, 1993, as amended at 60 FR 40507, Aug. 9, 1995; 65 FR 4084, Jan. 25, 2000; 66 FR 58676, Nov. 23, 2001; 77 FR 932, Jan. 6, 2012; 81 FR 90569, Dec. 14, 2016]
+(This requirement has been approved by the Office of Management and Budget under OMB Control Number 0980-0267. In accordance with the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.)[58 FR 67924, Dec. 22, 1993, as amended at 60 FR 40507, Aug. 9, 1995; 65 FR 4084, Jan. 25, 2000; 66 FR 58676, Nov. 23, 2001; 77 FR 932, Jan. 6, 2012; 81 FR 90569, Dec. 14, 2016; 83 FR 42227, Aug. 21, 2018]
