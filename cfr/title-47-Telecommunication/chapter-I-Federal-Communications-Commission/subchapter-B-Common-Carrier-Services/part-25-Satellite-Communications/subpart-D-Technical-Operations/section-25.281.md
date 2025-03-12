@@ -1,5 +1,7 @@
 ##### § 25.281 Transmitter identification requirements for video uplink transmissions. #####
 
+Link to an amendment published at 82 FR 40494, Aug. 25, 2017.
+
 (a) Earth-to-space transmissions carrying video information with analog modulation must be identified through use of an Automatic Transmitter Identification System (ATIS) with an analog identifier or a direct sequence spread spectrum signal.
 
 (1) Use of an analog identifier must be in accordance with the following requirements:

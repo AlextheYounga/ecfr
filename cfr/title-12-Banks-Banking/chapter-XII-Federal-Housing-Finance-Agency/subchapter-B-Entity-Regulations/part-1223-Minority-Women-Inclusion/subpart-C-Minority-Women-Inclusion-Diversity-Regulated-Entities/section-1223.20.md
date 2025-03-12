@@ -1,0 +1,9 @@
+##### § 1223.20 Office of Minority and Women Inclusion. #####
+
+(a) *Establishment.* Each regulated entity shall establish and maintain an Office of Minority and Women Inclusion, or designate and maintain an office to perform the responsibilities of this part, under the direction of an officer of the regulated entity who reports directly to either the Chief Executive Officer or the Chief Operating Officer, or the equivalent. Each regulated entity shall notify the Director within thirty (30) days after any change in the designation of the office performing the responsibilities of this part.
+
+(b) *Adequate resources.* The board of directors of each regulated entity will ensure that the Office of Minority and Women Inclusion, or office designated to lead the regulated entity in performing the responsibilities of this part, is provided relevant resources including, but not limited to, human, technological, and financial resources sufficient to fulfill the requirements of this part. The regulated entity will also ensure that any officer(s) designated to direct and oversee its D&I programs has the necessary knowledge, skills, competencies, and abilities to effectively implement the minimum standards and requirements found in this part.
+
+(c) *Responsibilities.* Each Office of Minority and Women Inclusion, or the office designated to perform the responsibilities of this part, is responsible for leading the regulated entity's board-approved strategies, for fulfilling the requirements of this part, 12 U.S.C. 1833e(b) and 4520, and such standards and requirements as the Director may issue hereunder.
+
+[75 FR 81402, Dec. 28, 2010, as amended at 82 FR 34395, July 25, 2017]
