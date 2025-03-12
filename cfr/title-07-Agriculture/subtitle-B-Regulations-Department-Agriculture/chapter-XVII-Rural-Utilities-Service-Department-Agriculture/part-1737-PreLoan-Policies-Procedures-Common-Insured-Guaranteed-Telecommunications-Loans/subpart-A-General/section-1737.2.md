@@ -40,7 +40,7 @@ As used in this part:
 
 *Reserves* means loan or nonloan funds that have not been encumbered. Funds are encumbered when they have been set aside for by RUS for a particular loan purpose.
 
-*Rural area* means any area of the United States, its territories and possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States. If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
+*Rural area* means any area of the United States, its territories and possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). The population figure is obtained from the most recent decennial Census of the United States. If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
 
 *RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act bearing an interest rate as determined under 7 CFR 1735.31(c).
 
@@ -60,4 +60,4 @@ As used in this part:
 
 *Times Interest Earned Ratio* (TIER) means the ratio of a borrower's net income (after taxes) plus interest expense, all divided by interest expense. For the purpose of this calculation, all amounts will be annual figures and interest expense will include only interest on debt with a maturity greater than one year.
 
-[54 FR 13356, Apr. 3, 1989. Redesignated at 55 FR 39396, Sept. 27, 1990, as amended at 56 FR 26598, June 10, 1991; 58 FR 66256, Dec. 20, 1993; 80 FR 9861, Feb. 24, 2015; 84 FR 59922, Nov. 7, 2019]
+[54 FR 13356, Apr. 3, 1989. Redesignated at 55 FR 39396, Sept. 27, 1990, as amended at 56 FR 26598, June 10, 1991; 58 FR 66256, Dec. 20, 1993; 80 FR 9861, Feb. 24, 2015; 84 FR 59922, Nov. 7, 2019; 87 FR 38642, June 29, 2022]

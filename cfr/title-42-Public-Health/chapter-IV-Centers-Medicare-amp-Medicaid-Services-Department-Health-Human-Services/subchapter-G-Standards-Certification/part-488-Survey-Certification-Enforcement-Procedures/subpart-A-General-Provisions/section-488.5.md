@@ -80,8 +80,6 @@
 
 (20) A statement acknowledging that, as a condition for CMS's approval of an accreditation program, the organization will agree to permit its surveyors to serve as witnesses in a legal proceeding if CMS takes an adverse action against a provider or supplier on the basis of the organization's accreditation survey findings, and will cooperate with CMS to make surveyors and other staff available when needed.
 
-(21) A statement acknowledging that the organization agrees to make all Medicare cited deficiencies, both standard and condition level, immediate jeopardy situations, and dates of correction, for final accreditation survey reports publicly available on the organization's Web site within 90 days after the survey report is made available to those facilities for the most recent 3 years, on an ongoing basis in a manner specified by CMS. This acknowledgement includes all initial, triennial, full, follow-up, focused, and complaint surveys.
-
 (b) *Additional information needed.* If CMS determines that additional information is necessary to make a determination for approval or denial of the organization's initial application or re-application for CMS's approval of an accreditation program, CMS will notify the organization and afford it an opportunity to provide the additional information.
 
 (c)(1) *Withdrawing an application.* An accrediting organization may withdraw its initial application for CMS's-approval of its accreditation program at any time before CMS publishes the final notice described in paragraph (e)(2) of this section.
@@ -184,7 +182,7 @@
 
 (iii) Failure to comply with the timeframe requirements specified in § 488.8(g) will place the provider or supplier under the SA's authority for continued participation in Medicare and on-going monitoring.
 
-(10) *Requirements for continuation of accreditation for non-certified suppliers when CMS withdraws the existing approval of the transferred accreditation program(s).* If CMS withdraws its existing approval from a transferred non-certified accreditation program for Advanced Diagnostic Imaging (ADI) suppliers; Home Infusion Therapy (HIT) suppliers; or Diabetic Self-Management Training (DSMT) entities, because a change of ownership transaction was completed without notice to or the approval of CMS, such affected non-certified supplier's deemed status would continue in effect for 1 year after the removal of the existing CMS accreditation approval, if such non-certified supplier take the steps specified paragraphs (f)(10)(i) and (ii) of this section -
+(10) *Requirements for continuation of accreditation for non-certified suppliers when CMS withdraws the existing approval of the transferred accreditation program(s).* If CMS withdraws its existing approval from a transferred non-certified accreditation program for Advanced Diagnostic Imaging (ADI) suppliers; Home Infusion Therapy (HIT) suppliers; or Diabetic Self-Management Training (DSMT) entities, because a change of ownership transaction was completed without notice to or the approval of CMS, such affected non-certified supplier's deemed status would continue in effect for 1 year after the removal of the existing CMS accreditation approval, if such non-certified supplier take the steps specified paragraphs (f)(10)(i) and (ii) of this section—
 
 (i) The non-certified supplier must submit an application to another CMS-approved accreditation program within 60 calendar days from the date of publication of the removal notice in the Federal Register; and
 

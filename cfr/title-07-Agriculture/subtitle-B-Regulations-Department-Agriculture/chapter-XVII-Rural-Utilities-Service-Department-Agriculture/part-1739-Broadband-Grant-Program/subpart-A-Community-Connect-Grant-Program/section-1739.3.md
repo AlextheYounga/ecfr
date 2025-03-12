@@ -30,6 +30,6 @@ As used in this subpart:
 
 (1) A city, town, or incorporated area that has a population of greater than 20,000 inhabitants; or
 
-(2) An urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants. For purposes of the definition of rural area, an urbanized area means a densely populated territory as defined in the most recent decennial Census.
+(2) An urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). For purposes of the definition of rural area, an urbanized area means a densely populated territory as defined in the most recent decennial Census.
 
-[78 FR 25791, June 3, 2013, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018; 85 FR 14408, Mar. 12, 2020]
+[78 FR 25791, June 3, 2013, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018; 85 FR 14408, Mar. 12, 2020; 87 FR 38642, June 29, 2022]

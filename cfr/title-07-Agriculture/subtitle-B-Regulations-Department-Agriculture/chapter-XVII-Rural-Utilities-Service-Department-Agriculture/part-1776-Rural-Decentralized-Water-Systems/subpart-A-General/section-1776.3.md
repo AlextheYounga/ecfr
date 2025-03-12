@@ -28,7 +28,7 @@
 
 *Revolving loan fund* means the loan fund established by the grant recipient to carry out the purposes of this part, such fund comprising the proceeds of a DWS grant and other related assets.
 
-*Rural area* means any area other than a city or town that has a population of greater than 50,000 inhabitants; and the urbanized area contiguous and adjacent to such city or town.
+*Rural area* means any area other than a city or town that has a population of greater than 50,000 inhabitants, the urbanized area contiguous and adjacent to such city or town, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
 
 *RUS* means the Rural Utilities Service, a Federal agency delivering the United States Department of Agriculture's Rural Development Utilities Program.
 
@@ -40,4 +40,4 @@
 
 *USDA* means the United States Department of Agriculture.
 
-[70 FR 28788, May 19, 2005, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018; 85 FR 23211, Apr. 27, 2020]
+[70 FR 28788, May 19, 2005, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018; 85 FR 23211, Apr. 27, 2020; 87 FR 38643, June 29, 2022]

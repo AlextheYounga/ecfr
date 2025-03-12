@@ -64,7 +64,8 @@
 
 *Rural Microloan Revolving Fund (RMRF).* An exclusive account on which the Agency will hold a first lien and from which microloans will be made by the MDO. All payments from microborrowers and reimbursements from the LLRF will be deposited into the RMRF account. Loan payments will be made to the Agency by the microlender from the RMRF.
 
-*Rural or rural area.* Any area of a State not in a city or town, that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H), according to the latest decennial census of the United States and not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants. In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
+*Rural or rural area.* Any area of a State not in a city or town that has a population of more than 50,000 inhabitants, not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and excluding certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
+In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
 
 (i) Any area in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants that is attached to the urbanized area of a city or town with more than 50,000 inhabitants by a contiguous area of urbanized census blocks that is not more than two census blocks wide. Applicants from such an area should work with their Rural Development State Office to request a determination of whether their project is located in a rural area under this provision.
 
@@ -82,16 +83,18 @@
 
 (b) *Abbreviations.* The following abbreviations apply to the terms used in this subpart.
 
-*FTE* - Full-time employee.
+*FTE*—Full-time employee.
 
-*FY* - Fiscal year.
+*FY*—Fiscal year.
 
-*LLRF* - Loan loss reserve fund.
+*LLRF*—Loan loss reserve fund.
 
-*MDO* - Microenterprise Development Organization.
+*MDO*—Microenterprise Development Organization.
 
-*RMAP* - Rural Microentrepreneur Assistance Program.
+*RMAP*—Rural Microentrepreneur Assistance Program.
 
-*RMRF* - Rural microloan revolving fund.
+*RMRF*—Rural microloan revolving fund.
 
-*TA* - Technical assistance.
+*TA*—Technical assistance.
+
+[86 FR 26353, May 14, 2021, as amended at 87 FR 38644, June 29, 2022]

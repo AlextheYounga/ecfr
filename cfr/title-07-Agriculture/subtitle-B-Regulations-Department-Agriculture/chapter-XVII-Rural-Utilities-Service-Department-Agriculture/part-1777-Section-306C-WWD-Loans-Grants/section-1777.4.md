@@ -8,8 +8,8 @@
 
 *Individual.* Recipient of a loan or grant through the applicant to facilitate use of the applicant's water and/or waste disposal system.
 
-*Rural areas.* Includes unincorporated areas and any city or town with a population not in excess of 10,000 inhabitants located in any of the 50 States, the Commonwealth of Puerto Rico, the Western Pacific Territories, Marshall Islands, Federated States of Micronesia, Republic of Palau, and the U.S. Virgin Islands. The population figure is obtained from the most recent decennial Census of the United States. If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
+*Rural areas.* Includes unincorporated areas and any city or town with a population not in excess of 10,000 inhabitants located in any of the 50 States, the Commonwealth of Puerto Rico, the Western Pacific Territories, Marshall Islands, Federated States of Micronesia, Republic of Palau, and the U.S. Virgin Islands, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). The population figure is obtained from the most recent decennial Census of the United States. If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
 
 *Statewide Nonmetropolitan Median Household Income (SNMHI).* Median household income of the State's nonmetropolitan counties and portions of metropolitan counties outside of cities, towns or places of 50,000 or more population.
 
-[62 FR 33473, June 19, 1997, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9862, Feb. 24, 2015]
+[62 FR 33473, June 19, 1997, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9862, Feb. 24, 2015; 87 FR 38643, June 29, 2022]

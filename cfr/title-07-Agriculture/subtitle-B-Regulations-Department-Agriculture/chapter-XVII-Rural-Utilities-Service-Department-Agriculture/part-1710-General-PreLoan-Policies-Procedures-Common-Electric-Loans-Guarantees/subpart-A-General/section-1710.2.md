@@ -124,9 +124,11 @@
 
 *Rural area* means -
 
-(i) Any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Marshall Islands, and the Republic of Palau) other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants; and
+(i) Any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Marshall Islands, and the Republic of Palau) other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants;
 
-(ii) Any area within a service area of a borrower for which a borrower has an outstanding loan as of June 18, 2008, made under titles I through V of the Rural Electrification Act of 1936 (7 U.S.C. 901-950bb). For initial loans to a borrower made after June 18, 2008, the “rural” character of an area is determined at the time of the initial loan to furnish or improve service in the area.
+(ii) Any area within a service area of a borrower for which a borrower has an outstanding loan as of June 18, 2008, made under titles I through V of the Rural Electrification Act of 1936 (7 U.S.C. 901-950bb). For initial loans to a borrower made after June 18, 2008, the “rural” character of an area is determined at the time of the initial loan to furnish or improve service in the area; and
+
+(iii) Which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
 
 *RUS* means the Rural Utilities Service, an agency of the United States Department of Agriculture established pursuant to Section 232 of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 (Pub. L. 103-354, 108 Stat. 3178), successor to REA with respect to administering certain electric and telephone programs. See 7 CFR 1700.1.
 
@@ -150,4 +152,4 @@
 
 (b) *Rules of Construction.* Unless the context otherwise indicates, “includes” and “including” are not limiting, and “or” is not exclusive. The terms defined in paragraph (a) of this part include the plural as well as the singular, and the singular as well as the plural.
 
-[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 58 FR 66263, Dec. 20, 1993; 59 FR 495, Jan. 4, 1994; 59 FR 66440, Dec. 27, 1994; 60 FR 3730, Jan. 19, 1995; 60 FR 67400, Dec. 29, 1995; 65 FR 14786, Mar. 20, 2000; 68 FR 37953, June 26, 2003; 74 FR 56543, Nov. 2, 2009; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019]
+[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 58 FR 66263, Dec. 20, 1993; 59 FR 495, Jan. 4, 1994; 59 FR 66440, Dec. 27, 1994; 60 FR 3730, Jan. 19, 1995; 60 FR 67400, Dec. 29, 1995; 65 FR 14786, Mar. 20, 2000; 68 FR 37953, June 26, 2003; 74 FR 56543, Nov. 2, 2009; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019; 87 FR 38642, June 29, 2022]

@@ -44,11 +44,13 @@ The following definitions are applicable to this subpart:
 
 *Revolving Loan Fund Plan.* A plan developed by the Intermediary and approved by Rural Development that governs the use of the Revolving Loan Fund. The plan must at least include a detailed explanation of the Intermediary's Fund administration policies and procedures and planned Fund use after the funds in the Revolving Loan Fund have revolved. Fund administration policies and procedures must at least include information regarding the review and approval of loans from the Fund.
 
-*Rural Area.* This information will be taken from the most recent census data. Any area other than:
+*Rural area.* This information will be taken from the most recent census data. Any area other than:
 
-(1) A city or town that has a population of greater than 50,000 inhabitants; and
+(1) A city or town that has a population of greater than 50,000 inhabitants;
 
-(2) The urbanized area contiguous and adjacent to such a city or town.
+(2) The urbanized area contiguous and adjacent to such a city or town; and
+
+(3) Which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
 
 *Rural Business-Cooperative Service (RBS).* The Rural Business-Cooperative Service, an agency within the Rural Development mission area of the USDA.
 
@@ -72,4 +74,4 @@ The following definitions are applicable to this subpart:
 
 *Zero-Interest Loan.* A loan made by the Intermediary to the Ultimate Recipient with no interest and which will be repaid to the Intermediary by the Ultimate Recipient.
 
-[72 FR 29843, May 30, 2007, as amended at 79 FR 76015, Dec. 19, 2014; 80 FR 9913, Feb. 24, 2015; 80 FR 15885, Mar. 26, 2015]
+[72 FR 29843, May 30, 2007, as amended at 79 FR 76015, Dec. 19, 2014; 80 FR 9913, Feb. 24, 2015; 80 FR 15885, Mar. 26, 2015; 87 FR 38644, June 29, 2022]

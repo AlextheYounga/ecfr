@@ -38,7 +38,7 @@
 
 (7) Any Secondary Relative of any Person described in paragraphs (1), (2), (4), and (5) of this definition.
 
-(8) Any concern in which -
+(8) Any concern in which—
 
 (i) Any person described in paragraphs (1) through (6) of this definition is an officer; general partner, or managing member; or
 
@@ -76,7 +76,7 @@
 
 (2) Any Person serving as a general partner (in the case of a partnership), an officer or director (in the case of a corporation), or a manager (in the case of a limited liability company) of any entity that controls a RBIC, either directly or through an intervening entity;
 
-(3) Any Person that -
+(3) Any Person that—
 
 (i) Controls or owns, directly or through an intervening entity, at least 10 percent of a Partnership RBIC, a LLC RBIC, or any entity described in paragraphs (1) or (2) of this definition; and
 
@@ -224,7 +224,7 @@
 
 *Retained Earnings Available for Distribution* means Undistributed Net Realized Earnings less any Unrealized Depreciation on Loans and Investments (as reported on SBA Form 468 or other USDA-approved form(s)), and represents the amount that a RBIC may distribute to investors as a profit Distribution, or transfer to Private Capital.
 
-*Rural Area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, according to the most recent decennial Census of the United States (decennial Census), or in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and any area that has been determined to be “rural in character” by the Under Agency for Rural Development, or as otherwise identified in this definition.
+*Rural area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants according to the most recent decennial Census of the United States (decennial Census), not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I), as well as any area that has been determined to be “rural in character” by the Under Secretary for Rural Development, or as otherwise identified in this definition.
 
 (1) An area that is attached to the urbanized area of a city or town with more than 50,000 inhabitants by a contiguous area of urbanized census blocks that is not more than 2 census blocks wide. Applicants from such an area should work with their Rural Development State Office to request a determination of whether their project is located in a rural area under this provision.
 
@@ -264,15 +264,15 @@
 
 *Small Business Investment Company* or *SBIC* means a Licensee, as that term is defined in 13 CFR 107.50.
 
-*Smaller Enterprise* means any Rural Business Concern that, together with its Affiliates and by itself -
+*Smaller Enterprise* means any Rural Business Concern that, together with its Affiliates and by itself—
 
 (1) Meets the size standard established by SBA in 13 CFR 121.201, corresponding to each type of economic activity or industry described in the NAICS Manual for the industry in which it is primarily engaged on the date on which the Financing is made (the term “primarily engaged” for purposes of this definition is defined in 13 CFR 121.107); or
 
-(2) Has -
+(2) Has—
 
 (i) A net financial worth of not more than $6,000,000 as of the date on which the Financing is made; and
 
-(ii) An average net income for the two year period preceding the date on which the Financing is made of not more than $2,000,000, after Federal income taxes (excluding any carryover losses), except that, for purposes of this clause, if the Rural Business Concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the Rural Business Concern, its net income is determined by allowing a deduction in an amount equal to the total of -
+(ii) An average net income for the two year period preceding the date on which the Financing is made of not more than $2,000,000, after Federal income taxes (excluding any carryover losses), except that, for purposes of this clause, if the Rural Business Concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the Rural Business Concern, its net income is determined by allowing a deduction in an amount equal to the total of—
 
 (A) If it is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this paragraph (2)(ii)(A)) multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the Rural Business Concern were a corporation; and
 
@@ -308,4 +308,4 @@
 
 *USDA* means the U.S. Department of Agriculture, a department of the Federal government headquartered at 1400 Independence Avenue, SW., Washington, DC 20250.
 
-[69 FR 32204, June 8, 2004, as amended at 76 FR 80221, Dec. 23, 2011; 79 FR 76018, Dec. 19, 2014; 80 FR 9914, Feb. 24, 2015; 85 FR 16522, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80221, Dec. 23, 2011; 79 FR 76018, Dec. 19, 2014; 80 FR 9914, Feb. 24, 2015; 85 FR 16522, Mar. 24, 2020; 87 FR 38645, June 29, 2022]

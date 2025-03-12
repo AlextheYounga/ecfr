@@ -156,7 +156,8 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Retrofitting.* A modification to an existing building or installed equipment that incorporates a function or feature(s)not included in the original design when built or for the replacement of existing components with components that improve the original design and does not impact original warranty if the warranty is still in existence.
 
-*Rural and rural area.* Any area of a State not in a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H), according to the latest decennial census of the United States and not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants. In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
+*Rural or rural area.* Any area of a State not in a city or town that has a population of more than 50,000 inhabitants, not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and excluding certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
+In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
 
 (1) Any area in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants that has been determined to be “rural in character” as follows:
 
@@ -245,3 +246,5 @@ The following definitions are applicable to the capitalized terms used in this p
 *Useful life* means estimated durations of utility placed on a variety of assets, including buildings, machinery, equipment, vehicles, electronics, and furniture. Useful life estimations terminate at the point when assets are expected to become obsolete, require major repairs, or cease to deliver economical results.
 
 *Veteran.* A veteran is a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable as defined in title 38 U.S.C. 101(2).
+
+[86 FR 22309, Apr. 27, 2021, as amended at 87 FR 38644, June 29, 2022]

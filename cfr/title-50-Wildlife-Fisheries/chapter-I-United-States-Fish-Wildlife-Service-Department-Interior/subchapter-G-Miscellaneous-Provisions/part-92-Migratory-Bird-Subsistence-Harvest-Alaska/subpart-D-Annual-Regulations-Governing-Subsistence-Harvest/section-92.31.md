@@ -104,7 +104,7 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: June 1-30.
 
-(2) Prince William Sound Area East (Harvest area: Game Management Units 6[B]and [C] - Barrier Islands between Strawberry Channel and Softtuk Bar), (Eligible Chugach communities: Cordova, Tatitlek, and Chenega Bay):
+(2) Prince William Sound Area East (Harvest area: Game Management Units 6[B]and [C]—Barrier Islands between Strawberry Channel and Softtuk Bar), (Eligible Chugach communities: Cordova, Tatitlek, and Chenega Bay):
 
 (i) Season: April 2-April 30 (hunting); May 1-May 31 (gull egg gathering).
 
@@ -116,7 +116,7 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (v) Special Registration: All hunters or egg gatherers must possess an annual permit, which is available from the Cordova offices of the Native Village of Eyak and the U.S. Forest Service.
 
-(3) Kachemak Bay Area (Harvest area: Game Management Unit 15[C] South of a line connecting the tip of Homer Spit to the mouth of Fox River) (Eligible Chugach Communities: Port Graham, Nanwalek):
+(3) Kachemak Bay Area (Harvest area: That portion of Game Management Unit [Unit] 15[C] west and south of a line beginning at the northern boundary of Unit 15[C] and mouth of the Kasilof River at 60°23′19″ N; 151°18′37″ W, extending south along the coastline of Cook Inlet to Bluff Point [59°40′00″ N], then south along longitude line 151°41′48″ W to latitude 59°35′56″ N, then east to the tip of Homer Spit [excluding any land of the Homer Spit], then northeast to the north bank of the Fox River [59°48′57″ N; 150°58′44″ W], and then east to the eastern boundary of Unit 15[C] at 150°19′59″ W) (Eligible Chugach Communities: Port Graham, Nanwalek):
 
 (i) Season: April 2-May 31 and July 1-August 31.
 
@@ -124,7 +124,7 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (k) *Cook Inlet* (Harvest area: portions of Game Management Unit 16[B] as specified below) (Eligible communities: Tyonek only):
 
-(1) Season: April 2-May 31 - That portion of Game Management Unit 16(B) south of the Skwentna River and west of the Yentna River, and August 1-31 - That portion of Game Management Unit 16(B) south of the Beluga River, Beluga Lake, and the Triumvirate Glacier.
+(1) Season: April 2-May 31—That portion of Game Management Unit 16(B) west of the east bank of the Yentna River, south of the north bank of the Skwentna River, and south of the north bank of Portage Creek to the boundary of Game Management Unit 16(B) at Portage Pass; and August 1-31—That portion of Game Management Unit 16(B) west of longitude line 150°56′ W, south of the north banks of the Beluga River and Beluga Lake, then south of latitude line 61°26′08″ N.
 
 (2) Closure: June 1-July 31.
 
@@ -146,4 +146,4 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: July 1-August 31.
 
-[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020; 85 FR 73233, Nov. 17, 2020; 86 FR 20319, Apr. 19, 2021; 86 FR 22361, Apr. 28, 2021]
+[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020; 85 FR 73233, Nov. 17, 2020; 86 FR 20319, Apr. 19, 2021; 86 FR 22361, Apr. 28, 2021; 87 FR 38673, June 29, 2022]

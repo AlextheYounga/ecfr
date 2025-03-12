@@ -211,7 +211,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Locally or regionally produced agricultural food product* means any agricultural food product that is raised, produced, and distributed in the locality or region in which the final product is marketed, so that the distance the product is transported is less than 400 miles from the origin of the product, or within the State in which the product is produced. Food products could be raw, cooked, or a processed edible substance, beverage, or ingredient used or intended for use or for sale in whole or in part for human consumption.
 
-*Market value* means the most probable price that an asset should bring in a competitive and open market under all conditions requisite to a fair sale, the buyer and seller, each acting prudently, knowledgeably, and assuming the price is not affected by undue stimulus. Implicit in this definition is the consummation of a sale as of a specified date and the passing of title from seller to buyer under conditions whereby -
+*Market value* means the most probable price that an asset should bring in a competitive and open market under all conditions requisite to a fair sale, the buyer and seller, each acting prudently, knowledgeably, and assuming the price is not affected by undue stimulus. Implicit in this definition is the consummation of a sale as of a specified date and the passing of title from seller to buyer under conditions whereby—
 
 (1) Buyer and seller are typically motivated;
 
@@ -287,9 +287,9 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Regulated lending entity* means a lending entity that is subject to supervision and examination by an agency of the United States or a State; or a lending entity created specifically by State statute and operating under the direct supervision of a State government authority.
 
-*Renewable biomass* means -
+*Renewable biomass* means—
 
-(1) Materials, pre-commercial thinning, or invasive species from National Forest System land or public lands (as defined in Section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702)) that -
+(1) Materials, pre-commercial thinning, or invasive species from National Forest System land or public lands (as defined in Section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702)) that—
 
 (i) Are by-products of preventive treatments that are removed to reduce hazardous fuels; to reduce or contain disease or insect infestation; or to restore ecosystem health;
 
@@ -303,7 +303,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 (ii) Waste material (including crop residue, other vegetative waste material (including wood waste and wood residues), animal waste and byproducts (including fats, oils, greases, and manure), and food and yard waste).
 
-*Renewable energy* means energy derived from -
+*Renewable energy* means energy derived from—
 
 (1) A wind, solar, renewable biomass, ocean (including tidal, wave, current, and thermal), geothermal or hydroelectric source; or
 
@@ -321,7 +321,8 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Retrofitting* means a modification to an existing building or installed equipment that incorporates a function or feature(s) not included in the original design when built or for the replacement of existing components with components that improve the original design and does not affect original warranty if the warranty is still in existence.
 
-*Rural* and *rural area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H), according to the latest decennial census of the United States and not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants. In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
+*Rural* and *rural area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
+In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
 
 (1) Any area in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants that has been determined to be “rural in character” as follows:
 
@@ -427,4 +428,4 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Working Capital* means current assets available to support a business' operations and growth. Working capital is calculated as current assets less current liabilities.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021; 87 FR 38645, June 29, 2022]

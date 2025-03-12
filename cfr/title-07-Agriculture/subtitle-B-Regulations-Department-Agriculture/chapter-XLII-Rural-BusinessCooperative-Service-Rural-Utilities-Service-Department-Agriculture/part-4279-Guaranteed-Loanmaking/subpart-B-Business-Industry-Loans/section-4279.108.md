@@ -6,7 +6,7 @@
 
 (c) *Rural area.* The business financed with a guaranteed loan under this subpart must be located in a rural area, except for cooperative organizations financed in accordance with § 4279.113(j)(2) and local foods projects financed in accordance with § 4279.113(y)(2). Loans to borrowers with facilities located in both rural and non-rural areas will be limited to the amount necessary to finance the facility located in the eligible rural area, except for those cooperative organizations financed in accordance with § 4279.113(j)(2) and those local foods projects financed in accordance with § 4279.113(y)(2).
 
-(1) Rural areas are any area of a State other than a city or town that has a population of greater than 50,000 inhabitants and any urbanized area contiguous and adjacent to such a city or town. In making this determination, the Agency will use the latest decennial census of the United States.
+(1) Rural areas are any area of a State other than a city or town that has a population of greater than 50,000 inhabitants and any urbanized area contiguous and adjacent to such a city or town, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). In making this determination, the Agency will use the latest decennial census of the United States.
 
 (2) For the purposes of this definition, cities and towns are incorporated population centers with definite boundaries, local self government, and legal powers set forth in a charter granted by the State.
 
@@ -27,3 +27,5 @@
 (d) *Other credit.* All applications for assistance will be accepted and processed without regard to the availability of credit from any other source.
 
 (e) *Prohibition under Agency programs.* No loans guaranteed by the Agency will be conditioned on any requirement that the recipients of such assistance accept or receive electric or other services from any particular utility, supplier, or cooperative.
+
+[81 FR 36005, June 3, 2016, as amended at 87 FR 38644, June 29, 2022]

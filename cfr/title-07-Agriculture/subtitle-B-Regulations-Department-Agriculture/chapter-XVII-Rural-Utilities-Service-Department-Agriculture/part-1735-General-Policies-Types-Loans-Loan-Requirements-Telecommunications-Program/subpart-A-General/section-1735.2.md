@@ -72,15 +72,14 @@ As used in this part:
 
 *Net worth* means the sum of the balances of the following accounts of the borrower:
 
-|        Account names         |Number|
-|------------------------------|------|
-|      (1) Capital stock       | 4510 |
-|(2) Additional paid-in capital| 4520 |
-|      (3) Treasury stock      | 4530 |
-|      (4) Other capital       | 4540 |
-|    (5) Retained earnings     | 4550 |
-
-Note: For nonprofit organizations, owners' equity is shown in subaccounts of 4540 and 4550. All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32).
+|                                                                                       Account names                                                                                        |Number|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+|                                                                                     (1) Capital stock                                                                                      | 4510 |
+|                                                                               (2) Additional paid-in capital                                                                               | 4520 |
+|                                                                                     (3) Treasury stock                                                                                     | 4530 |
+|                                                                                     (4) Other capital                                                                                      | 4540 |
+|                                                                                   (5) Retained earnings                                                                                    | 4550 |
+|Note: For nonprofit organizations, owners' equity is shown in subaccounts of 4540 and 4550. All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32).|      |
 
 *Public switched network* means any common carrier switched network, whether by wire or radio, including local exchange carriers, interexchange carriers, and mobile telecommunications service providers, that use the North American Numbering Plan in connection with the provision of switched services.
 
@@ -88,7 +87,7 @@ Note: For nonprofit organizations, owners' equity is shown in subaccounts of 454
 
 *Retail broadband service* means any technology identified by the Administrator as having the capacity to provide transmission facilities that enable the subscriber to receive a minimum level of service equal to at least a downstream transmission capacity of 25 megabits per second (Mbps) and an upstream transmission capacity of 3 Mbps. The agency may change the minimum transmission capacity by way of notice in the Federal Register. The minimum transmission capacity may be higher than 25 Mbps downstream and 3 Mbps upstream but cannot be lower.
 
-*Rural area* means any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
+*Rural area* means any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
 
 *RUS* means the Rural Utilities Service, an agency of the United States Department of Agriculture, successor to the Rural Electrification Administration.
 
@@ -118,14 +117,13 @@ Note: For nonprofit organizations, owners' equity is shown in subaccounts of 454
 
 *Total assets* means the sum of the balances of the following accounts of the borrower:
 
-|          Account names           |       Number       |
-|----------------------------------|--------------------|
-|        (1) Current assets        |1100s through 1300s.|
-|      (2) Noncurrent Assets       |1400s through 1500s.|
-|(3) Total telecommunications plant| 2001 through 2007. |
-|(4) Less: Accumulated depreciation|3100 through 3300s. |
-|(5) Less: Accumulated amortization|3400 through 3600s. |
+|                                            Account names                                             |       Number       |
+|------------------------------------------------------------------------------------------------------|--------------------|
+|                                          (1) Current assets                                          |1100s through 1300s.|
+|                                        (2) Noncurrent Assets                                         |1400s through 1500s.|
+|                                  (3) Total telecommunications plant                                  | 2001 through 2007. |
+|                                  (4) Less: Accumulated depreciation                                  |3100 through 3300s. |
+|                                  (5) Less: Accumulated amortization                                  |3400 through 3600s. |
+|Note: All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32).|                    |
 
-Note: All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32).
-
-[54 FR 13351, Apr. 3, 1989; 54 FR 16194, Apr. 21, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26596, June 10, 1991; 58 FR 66253, Dec. 20, 1993; 62 FR 46869, Sept. 5, 1997; 65 FR 42619, July 11, 2000; 65 FR 54402, Sept. 8, 2000; 80 FR 9861, Feb. 24, 2015; 84 FR 59920, Nov. 7, 2019; 86 FR 50608, Sept. 10, 2021]
+[54 FR 13351, Apr. 3, 1989; 54 FR 16194, Apr. 21, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26596, June 10, 1991; 58 FR 66253, Dec. 20, 1993; 62 FR 46869, Sept. 5, 1997; 65 FR 42619, July 11, 2000; 65 FR 54402, Sept. 8, 2000; 80 FR 9861, Feb. 24, 2015; 84 FR 59920, Nov. 7, 2019; 86 FR 50608, Sept. 10, 2021; 87 FR 38642, June 29, 2022]

@@ -42,7 +42,7 @@
 
 *RHS.* The Rural Housing Service, an agency of the United States Department of Agriculture, or a successor agency.
 
-*Rural and rural area.* For fiscal year 1999, the terms “rural” and “rural area” include a city or town with a population of 20,000 or less inhabitants. There is no limitation placed on population in open rural areas. After fiscal year 1999, the terms “rural” and “rural area” include a city, town, or unincorporated area that has a population of 50,000 inhabitants or less, other than an urbanized area immediately adjacent to a city, town, or unincorporated area that has a population in excess of 50,000 inhabitants. The population figures are obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figures cannot be obtained from the most recent decennial Census, RD will determine the applicable population figures based on available population data.
+*Rural and rural area.* The terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of 20,000 inhabitants or less and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). The population figures are obtained from the most recent decennial Census of the United States (decennial Census).
 
 *Rural Development.* A mission area within USDA which includes Rural Housing Service, Rural Utilities Service, and Rural Business-Cooperative Service.
 
@@ -58,4 +58,4 @@
 
 *State strategic plan.* A plan developed by each State for Rural Development initiatives and the type of assistance required. Plans shall identify goals, methods, and benchmarks for measuring success.
 
-[64 FR 32388, June 17, 1999, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9912, Feb. 24, 2015]
+[64 FR 32388, June 17, 1999, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9912, Feb. 24, 2015; 87 FR 38644, June 29, 2022]

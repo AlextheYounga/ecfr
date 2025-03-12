@@ -26,10 +26,10 @@
 
 *RFP loan* means a loan from a grant recipient using the direct or indirect proceeds of an RFP grant awarded under this part.
 
-*Rural and rural area* means a city, town or unincorporated area that has a population of no more than 10,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
+*Rural and rural area* means a city, town or unincorporated area that has a population of no more than 10,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). The population figure is obtained from the most recent decennial Census of the United States (decennial Census).
 
 *RUS* means the Rural Utilities Service, a Federal agency delivering the USDA's Rural Development Utilities Program.
 
 *USDA* means the United States Department of Agriculture.
 
-[69 FR 59772, Oct. 6, 2004, as amended at 80 FR 9864, Feb. 24, 2015; 83 FR 45034, Sept. 5, 2018]
+[69 FR 59772, Oct. 6, 2004, as amended at 80 FR 9864, Feb. 24, 2015; 83 FR 45034, Sept. 5, 2018; 87 FR 38643, June 29, 2022]

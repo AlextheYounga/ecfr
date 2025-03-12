@@ -216,7 +216,7 @@ Terms used in this subpart are defined in this section. Terms used in this subpa
 
 *Rural Development.* The mission area of USDA that is comprised of the Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service and is under the policy direction and operational oversight of the Under Secretary for Rural Development.
 
-*Rural or rural area.* See 7 U.S.C. 1991(a)(13)(A) and (D) *et seq.*
+*Rural or rural area.* As described in 7 U.S.C. 1991(a)(13)(A), (D), (H) and (I).
 
 *Secretary.* The Secretary of the Department of the Agriculture.
 
@@ -240,4 +240,4 @@ Terms used in this subpart are defined in this section. Terms used in this subpa
 
 *Working capital.* Current assets available to support a business's operations. Working Capital is calculated as current assets less current liabilities.
 
-[80 FR 36425, June 24, 2015, as amended at 85 FR 29595, May 18, 2020]
+[80 FR 36425, June 24, 2015, as amended at 85 FR 29595, May 18, 2020; 87 FR 38644, June 29, 2022]

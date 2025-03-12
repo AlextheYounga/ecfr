@@ -98,7 +98,7 @@
 
 (ii) An urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants. For purposes of this definition, an urbanized area means a densely populated territory as defined in the latest decennial census of the U.S. Census Bureau; and
 
-(iii) Which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13), or as otherwise provided by law.
+(iii) Which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
 
 *RUS Borrower* or *RUS Grantee* means any recipient of a loan or grant administered by the RUS Telecommunications Program that has a loan outstanding, or a grant which still has unadvanced funds available.
 
@@ -115,3 +115,5 @@
 *Total project cost* means all eligible costs associated with the project that are laid out in the application budget schedule, including RUS loan and grant funding and non-RUS funds, as approved by the Agency.
 
 (b) Accounting terms not otherwise defined in this part shall have the commonly-accepted meaning under GAAP and shall be recorded using the Agency's system of accounts.
+
+[85 FR 14398, Mar. 12, 2020, as amended at 87 FR 38642, June 29, 2022]

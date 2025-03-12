@@ -20,7 +20,7 @@
 
 *Protective advances* are payments made by a lender for items such as insurance or taxes in order to preserve and protect the security or the lien or priority of the lien securing the loan.
 
-*Rural and rural areas* means any area not in a city or town with a population in excess of 10,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
+*Rural and rural areas* mean any area not in a city or town with a population in excess of 10,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
 
 *Rural Development* means the mission area of the Under Secretary for Rural Development. Rural Development State and local offices will administer this water and waste program on behalf of the Rural Utilities Service.
 
@@ -40,4 +40,4 @@
 
 (b) *Rules of grammatical construction.* Unless the context otherwise indicates, “includes” and “including” are not limiting, and “or” is not exclusive. The terms defined in paragraph (a) of this section include the plural as well as the singular, and the singular as well as the plural.
 
-[62 FR 33478, June 19, 1997, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9863, Feb. 24, 2015; 81 FR 7697, Feb. 16, 2016; 85 FR 72913, Nov. 16, 2020]
+[62 FR 33478, June 19, 1997, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9863, Feb. 24, 2015; 81 FR 7697, Feb. 16, 2016; 85 FR 72913, Nov. 16, 2020; 87 FR 38643, June 29, 2022]

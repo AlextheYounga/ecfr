@@ -54,7 +54,8 @@ The following definitions are applicable to the terms used in this subpart.
 
 *Revolved funds.* The cash portion of an IRP revolving loan fund that includes fees, principal, and interest payments received from ultimate recipients and is not composed of any Agency IRP loan funds.
 
-*Rural or rural area.* Any area of a State not in a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H), according to the latest decennial census of the United States and not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants. In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
+*Rural or rural area.* Any area of a State not in a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I), according to the latest decennial census of the United States and not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants.
+In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
 
 (1) Any area in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants that has been determined to be “rural in character” as follows:
 
@@ -93,3 +94,5 @@ The following definitions are applicable to the terms used in this subpart.
 (3) Is aggregated and marketed as a locally produced agricultural food product.
 
 *Work plan.* A narrative provided by the intermediary that demonstrates the feasibility of the intermediary and its lending program to meet the objectives of the IRP program, including a set of goals, strategies, anticipated outcomes, and well-developed targeting criteria for assisting eligible ultimate recipients.
+
+[86 FR 72156, Dec. 21, 2021, as amended at 87 FR 38644, June 29, 2022]

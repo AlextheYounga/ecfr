@@ -16,7 +16,7 @@ The following definitions apply to subparts A through D of this part.
 
 *Regional.* A multi-State area or any multi-jurisdictional area within a State.
 
-*Rural area.* Any area not in a city or town with a population in excess of 10,000, according to the most recent decennial Census of the United States. If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
+*Rural area.* Any area not in a city or town with a population in excess of 10,000, according to the most recent decennial Census of the United States, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
 
 *RUS.* The Rural Utilities Service, an Agency of the United States Department of Agriculture.
 
@@ -26,4 +26,4 @@ The following definitions apply to subparts A through D of this part.
 
 *Technical Assistance.* Supervision, oversight, or training by an organization for the practical solution of a problem or need of an association as defined in this section.
 
-[70 FR 70878, Jan. 7, 2004, as amended at 80 FR 9862, Feb. 24, 2015]
+[70 FR 70878, Jan. 7, 2004, as amended at 80 FR 9862, Feb. 24, 2015; 87 FR 38643, June 29, 2022]

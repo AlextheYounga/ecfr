@@ -68,7 +68,13 @@
 
 *RE Act* means the “Rural Electrification Act of 1936,” as amended (7 U.S.C. 901 *et seq.*).
 
-*Rural area* means any area that is not located within: (1) A city, town, or incorporated area that has a population of greater than 20,000 inhabitants; or (2) an urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants as defined in the Agency mapping tool.
+*Rural area* means any area that is not located within:
+
+(i)(A) A city, town, or incorporated area that has a population of greater than 20,000 inhabitants; or
+
+(B) An urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants as defined in the Agency mapping tool.
+
+(ii) In determining a rural area, all areas shall exclude certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
 
 *RUS Accounting Requirements* shall mean compliance with GAAP, acceptable to RUS, the system of accounting prescribed by RUS Bulletin 1770B-1 and the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, found at 2 CFR part 200. For all Awardees the term “grant recipient” in 2 CFR 200 shall also be read to encompass “loan recipient” and “loan/grant recipient”, such that 2 CFR 200 shall be applicable to all Awardees under this part.
 
@@ -77,3 +83,5 @@
 *TIER* means times interest earned ratio. TIER is the ratio of an Applicant's net income (after taxes) plus interest expense, all divided by interest expense and with all financial terms defined by GAAP.
 
 (b) Unless otherwise provided in the award documents, all financial terms not defined herein shall have the meaning as defined by GAAP.
+
+[86 FR 11609, Feb. 26, 2021, as amended at 87 FR 38642, June 29, 2022]
