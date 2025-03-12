@@ -1,6 +1,6 @@
 ##### § 134.102 Jurisdiction of OHA. #####
 
-Link to an amendment published at 83 FR , Mar. 30, 2018.
+Link to an amendment published at 83 FR 13629, Mar. 30, 2018.
 
 OHA has authority to conduct proceedings in the following cases:
 
