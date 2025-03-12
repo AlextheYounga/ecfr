@@ -130,4 +130,50 @@
 
 (6) If the Secretary receives an application under paragraph (c)(4) or (5) of this section to have a branch campus certified to participate in the title IV, HEA programs as a branch campus, the Secretary notifies the institution whether that branch campus is certified to participate and the date that the branch campus is eligible to begin participation.
 
-[85 FR 54810, Sept. 2, 2020]
+(f) *Disbursement rules related to applications.* (1)(i) Except as provided under paragraph (f)(1)(ii) of this section and 34 CFR 668.26, if an institution submits an application under paragraph (b)(2)(i) of this section because its participation period is scheduled to expire, after that expiration date the institution may not disburse title IV, HEA program funds to students attending that institution until the institution receives the Secretary's notification that the institution is again eligible to participate in those programs.
+
+(ii) An institution described in paragraph (f)(1)(i) of this section may disburse title IV, HEA program funds to its students if the institution submits to the Secretary a materially complete renewal application in accordance with the provisions of 34 CFR 668.13(b)(2), and has not received a final decision from the Department on that application.
+
+(2)(i) Except as provided under paragraph (f)(2)(ii) of this section and 34 CFR 668.26, if a private nonprofit, private for-profit, or public institution submits an application under paragraph (b)(2)(ii) or (iii) of this section because it has undergone or will undergo a change in ownership that results in a change of control or a change in status, the institution may not disburse title IV, HEA program funds to students attending that institution after the change of ownership or status until the institution receives the Secretary's notification that the institution is eligible to participate in those programs.
+
+(ii) An institution described in paragraph (f)(2)(i) of this section may disburse title IV, HEA program funds to its students if the Secretary issues a provisional extension of certification under paragraph (g) of this section.
+
+(3) If an institution must apply to the Secretary under paragraphs (c)(1) through (4) of this section, the institution may not disburse title IV, HEA program funds to students attending the subject location, program, or branch until the institution receives the Secretary's notification that the location, program, or branch is eligible to participate in the title IV, HEA programs.
+
+(4) If an institution applies to the Secretary under paragraph (c)(5) of this section to convert an eligible location to a branch campus, the institution may continue to disburse title IV, HEA program funds to students attending that eligible location.
+
+(5) If an institution does not apply to the Secretary to obtain the Secretary's approval of a new location, program, increased level of program offering, or branch, and the location, program, or branch does not qualify as an eligible location, program, or branch of that institution under this part and 34 CFR part 668, the institution is liable for all title IV, HEA program funds it disburses to students enrolled at that location or branch or in that program.
+
+(g) *Application for provisional extension of certification.* (1) If a private nonprofit institution, a private for-profit institution, or a public institution participating in the title IV, HEA programs undergoes a change in ownership that results in a change of control as described in § 600.31, the Secretary may continue the institution's participation in those programs on a provisional basis, if the institution under the new ownership submits a “materially complete application” that is received by the Secretary no later than 10 business days after the day the change occurs.
+
+(2) For purposes of this section, a private nonprofit institution, a private for-profit institution, or a public institution submits a materially complete application if it submits a fully completed application form designated by the Secretary supported by -
+
+(i) A copy of the institution's State license or equivalent document that - as of the day before the change in ownership - authorized or will authorize the institution to provide a program of postsecondary education in the State in which it is physically located;
+
+(ii) A copy of the document from the institution's accrediting association that - as of the day before the change in ownership - granted or will grant the institution accreditation status, including approval of any non-degree programs it offers;
+
+(iii) Audited financial statements of the institution's two most recently completed fiscal years that are prepared and audited in accordance with the requirements of 34 CFR 668.23; and
+
+(iv) Audited financial statements of the institution's new owner's two most recently completed fiscal years that are prepared and audited in accordance with the requirements of 34 CFR 668.23, or equivalent information for that owner that is acceptable to the Secretary.
+
+(h) *Terms of the extension.* (1) If the Secretary approves the institution's materially complete application, the Secretary provides the institution with a provisional Program Participation Agreement (PPA). The provisional PPA extends the terms and conditions of the program participation agreement that were in effect for the institution before its change of ownership.
+
+(2) The provisional PPA expires on the earlier of -
+
+(i) The date on which the Secretary signs a new program participation agreement;
+
+(ii) The date on which the Secretary notifies the institution that its application is denied; or
+
+(iii) The last day of the month following the month in which the change of ownership occurred, unless the provisions of paragraph (h)(3) of this section apply.
+
+(3) If the provisional PPA will expire under the provisions of paragraph (h)(2)(iii) of this section, the Secretary extends the provisional PPA on a month-to-month basis after the expiration date described in paragraph (h)(2)(iii) of this section if, prior to that expiration date, the institution provides the Secretary with -
+
+(i) A “same day” balance sheet showing the financial position of the institution, as of the date of the ownership change, that is prepared in accordance with Generally Accepted Accounting Principles (GAAP) published by the Financial Accounting Standards Board and audited in accordance with Generally Accepted Government Auditing Standards (GAGAS) published by the U.S. General Accounting Office;
+
+(ii) If not already provided, approval of the change of ownership from the State in which the institution is located by the agency that authorizes the institution to legally provide postsecondary education in that State;
+
+(iii) If not already provided, approval of the change of ownership from the institution's accrediting agency; and
+
+(iv) A default management plan unless the institution is exempt from providing that plan under 34 CFR 668.14(b)(15).
+
+(Approved by the Office of Management and Budget under control number 1845-0012)[85 FR 54810, Sept. 2, 2020, as amended at 86 FR 49479, Sept. 3, 2021]

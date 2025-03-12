@@ -1,5 +1,7 @@
 ##### § 25.148 Licensing provisions for the Direct Broadcast Satellite Service. #####
 
+Link to an amendment published at 86 FR 49489, Sept. 3, 2021.
+
 (a) *License terms.* License terms for DBS facilities are specified in § 25.121(a).
 
 (b) *Due diligence.* (1) All persons granted DBS authorizations shall proceed with due diligence in constructing DBS systems. Permittees shall be required to complete contracting for construction of the satellite station(s) within one year of the grant of the authorization. The satellite stations shall also be required to be in operation within six years of the authorization grant.

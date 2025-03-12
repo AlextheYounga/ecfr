@@ -2,11 +2,11 @@
 
 (a) A tribal employer that intends to purchase FEHB for its tribal employees shall notify OPM by email or telephone.
 
-(1) A tribal employer must purchase FEHB for at least one billing unit carrying out programs or activities under the tribal employer's ISDEAA or IHCIA contract.
+(1) A tribal employer must purchase FEHB for at least one billing unit carrying out programs or activities under the tribal employer's ISDEAA or IHCIA contract or TCSA grant.
 
-(2) For so long as a tribal employer continues to purchase FEHB for at least one billing unit carrying out programs or activities under a tribal employer's ISDEAA or IHCIA contract, the tribal employer may purchase FEHB for one or more billing units without regard to whether they are carrying out programs or activities under the tribal employer's ISDEAA or IHCIA contract.
+(2) For so long as a tribal employer continues to purchase FEHB for at least one billing unit carrying out programs or activities under a tribal employer's ISDEAA or IHCIA contract or TCSA grant, the tribal employer may purchase FEHB for one or more billing units without regard to whether they are carrying out programs or activities under the tribal employer's ISDEAA or IHCIA contract or TCSA grant.
 
-(b) A tribal employer must enter into an agreement with OPM to purchase FEHB. This agreement will include -
+(b) A tribal employer must enter into an agreement with OPM to purchase FEHB. This agreement will include—
 
 (1) The name, job title, and contact information of the individual responsible for health insurance coverage decisions for the tribal employer;
 
@@ -16,7 +16,7 @@
 
 (4) A certification that the eligible tribal employees within the enrolling billing unit will not have alternate tribal employer-sponsored health insurance coverage available concurrent with FEHB;
 
-(5) A certification and documentation demonstrating that the tribal employer is entitled to purchase FEHB as either: An Indian tribe or tribal organization carrying out at least one program under the Indian Self-Determination and Education Assistance Act; or an urban Indian organization carrying out at least one program under title V of the Indian Health Care Improvement Act;
+(5) A certification and documentation demonstrating that the tribal employer is entitled to purchase FEHB as either: An Indian tribe or tribal organization carrying out at least one program under the Indian Self-Determination and Education Assistance Act or Tribally Controlled Schools Act of 1988; or an urban Indian organization carrying out at least one program under Title V of the Indian Health Care Improvement Act;
 
 (6) Agreement by the tribal employer that its purchase of FEHB makes the tribal employer responsible for administering the program in accordance with this subpart, subject to Federal Government audit with respect to such purchase and administration, and subject to OPM authority to direct the administration of the program, including but not limited to the correction of errors;
 
@@ -24,7 +24,7 @@
 
 (8) A certification that the tribal employer will supply necessary enrollment information and payment to the paymaster;
 
-(9) Agreement to provide notice to OPM in the event that the tribal employer is no longer carrying out at least one program under the ISDEAA or title V of IHCIA; and
+(9) Agreement to provide notice to OPM in the event that the tribal employer is no longer carrying out at least one program under the ISDEAA or title V of IHCIA or the Tribally Controlled Schools Act of 1988; and
 
 (10) Other terms and conditions as appropriate.
 
@@ -32,10 +32,12 @@
 
 (d) If a tribal employer revokes the initial election, OPM must be given 60 days notice. The tribal employer may not re-elect to purchase FEHB until the first annual open season that falls at least twelve months after the revocation. If the tribal employer revokes an election to participate a second time, the tribal employer may not re-elect to purchase FEHB until the first open season that falls at least twenty-four months after the second revocation.
 
-(e) OPM maintains final authority, in consultation with the United States Department of the Interior and the United States Department of Health and Human Services, to determine whether a tribal employer is entitled to purchase FEHB as either -
+(e) OPM maintains final authority, in consultation with the United States Department of the Interior and the United States Department of Health and Human Services, to determine whether a tribal employer is entitled to purchase FEHB as either—
 
-(1) An Indian tribe or tribal organization carrying out at least one program under the Indian Self-Determination and Education Assistance Act; or
+(1) An Indian tribe or tribal organization carrying out at least one program under the Indian Self-Determination and Education Assistance Act or under the Tribally Controlled Schools Act of 1988; or
 
 (2) An urban Indian organization carrying out at least one program under title V of the Indian Health Care Improvement Act.
 
 (f) If a tribe, tribal organization or urban Indian organization believes it has been improperly denied the entitlement to purchase FEHB, it may appeal the denial to OPM. The appeal will be given an independent level of review within OPM and the decision on review will be final.
+
+[81 FR 95405, Dec. 28, 2016, as amended at 86 FR 49466, Sept. 3, 2021]

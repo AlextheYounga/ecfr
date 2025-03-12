@@ -1,5 +1,7 @@
 ##### § 25.110 Filing of applications, fees, and number of copies. #####
 
+Link to an amendment published at 86 FR 49488, Sept. 3, 2021.
+
 (a) Applications may be filed by going online at licensing.fcc.gov/myibfs and submitting the application through the International Bureau Filing System (IBFS).
 
 (b) *Submitting your application.* (1) All earth station license applications must be filed electronically on FCC Form 312 in accordance with the applicable provisions of part 1, subpart Y of this chapter.

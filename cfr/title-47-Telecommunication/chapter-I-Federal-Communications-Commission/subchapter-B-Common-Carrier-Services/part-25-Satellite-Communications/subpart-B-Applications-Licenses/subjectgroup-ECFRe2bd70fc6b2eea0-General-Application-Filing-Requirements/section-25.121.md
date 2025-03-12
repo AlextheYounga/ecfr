@@ -1,6 +1,6 @@
 ##### § 25.121 License term and renewals. #####
 
-Link to an amendment published at 85 FR 52451, Aug. 25, 2020.
+Link to an amendment published at 85 FR 52451, Aug. 25, 2020.Link to an amendment published at 86 FR 49489, Sept. 3, 2021.
 
 (a) *License Term.* (1) Except for licenses for DBS space stations, SDARS space stations and terrestrial repeaters, 17/24 GHz BSS space stations licensed as broadcast facilities, and licenses for which the application was filed pursuant to §§ 25.122 and 25.123, licenses for facilities governed by this part will be issued for a period of 15 years.
 
