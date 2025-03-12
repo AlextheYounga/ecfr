@@ -1,20 +1,14 @@
 ##### § 375.401 Must I estimate charges? #####
 
-Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
+(a) You must conduct a physical survey of the household goods to be transported and provide the prospective individual shipper with a written estimate, based on the physical survey, of the charges for the transportation and all related services. An individual shipper may elect to waive a physical survey. The waiver agreement is subject to the following requirements:
 
-(a) You must conduct a physical survey of the household goods to be transported and provide the prospective individual shipper with a written estimate, based on the physical survey, of the charges for the transportation and all related services. There are *two exceptions* to the requirement to conduct a physical survey:
+(1) It must be in writing;
 
-(1) If the household goods are located beyond a 50-mile radius of the location of the household goods motor carrier's agent preparing the estimate, the requirement to base the estimate on a physical survey does not apply.
+(2) It must be signed by the shipper before the shipment is loaded; and
 
-(2) An individual shipper may elect to waive the physical survey. The waiver agreement is subject to the following requirements:
+(3) You must retain a copy of the waiver agreement as an addendum to the bill of lading with the understanding that the waiver agreement will be subject to the same record retention requirements that apply to bills of lading, as provided in § 375.505(d).
 
-(i) It must be in writing;
-
-(ii) It must be signed by the shipper before the shipment is loaded; and
-
-(iii) The household goods motor carrier must retain a copy of the waiver agreement as an addendum to the bill of lading with the understanding that the waiver agreement will be subject to the same record retention requirements that apply to bills of lading, as provided in § 375.505(d).
-
-(b) Before you execute an order for service for a shipment of household goods for an individual shipper, you must provide a written estimate of the total charges and *indicate whether it is a binding or a non-binding estimate*, as follows:
+(b) Before you execute a bill of lading for a shipment of household goods for an individual shipper, you must provide a written estimate of the total charges and indicate whether it is a binding or a non-binding estimate, as follows:
 
 (1) *A binding estimate* is an agreement made in advance with your individual shipper. It guarantees the total cost of the move based upon the quantities and services shown on your estimate, which shall be based on the physical survey of the household goods, if required. You may impose a charge for providing a written binding estimate. The binding estimate must indicate that you and the shipper are bound by the charges.
 
@@ -26,7 +20,7 @@ Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
 
 (e) If you provide a shipper with an estimate based on volume that will later be converted to a weight-based rate, you must provide the shipper an explanation in writing of the formula used to calculate the conversion to weight. You must specify the final charges will be based on actual weight and services subject to the 110 percent rule at delivery.
 
-(f) You must determine charges for any accessorial services such as elevators, long carries, etc., before preparing the order for service and the bill of lading for binding or non-binding estimates. If you fail to ask the shipper about such charges and fail to determine such charges before preparing the order for service and the bill of lading, you must deliver the goods and bill the shipper after 30 days for the additional charges.
+(f) You must determine charges for any accessorial services such as elevators, long carries, etc., before preparing the bill of lading for binding or non-binding estimates. If you fail to ask the shipper about such charges and fail to determine such charges before preparing the bill of lading, you must deliver the goods and bill the shipper after 30 days for the additional charges.
 
 (g) You must include as a part of your estimate the liability election notice provided in the Surface Transportation Board's released rates order. Contact the STB for a copy of the Released Rates of Motor Carrier Shipments of Household Goods.
 
@@ -34,4 +28,4 @@ Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
 
 (i) Before loading a household goods shipment, and upon mutual agreement of both you and the individual shipper, you may amend an estimate of charges. You may not amend the estimate after loading the shipment.
 
-[68 FR 35091, June 11, 2003, as amended at 72 FR 36772, July 5, 2007; 77 FR 25373, Apr. 30, 2012]
+[68 FR 35091, June 11, 2003, as amended at 72 FR 36772, July 5, 2007; 77 FR 25373, Apr. 30, 2012; 87 FR 24447, Apr. 26, 2022]

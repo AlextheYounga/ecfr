@@ -1,10 +1,8 @@
 ##### § 375.217 How must I collect charges upon delivery? #####
 
-Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
-
 (a) You must specify the form of payment when you prepare the estimate. You and your agents must honor the form of payment at delivery, except when a shipper agrees to a change in writing.
 
-(b) You must specify the same form of payment provided in paragraph (a) of this section when you prepare the order for service and the bill of lading.
+(b) You must specify the same form of payment provided in paragraph (a) of this section when you prepare the bill of lading.
 
 (c) Charge or credit card payments:
 
@@ -16,4 +14,4 @@ Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
 
 (e) If an individual shipper pays you at least 110 percent of the approximate costs of a non-binding estimate on a collect-on-delivery shipment, you must relinquish possession of the shipment at the time of delivery.
 
-[68 FR 35091, June 11, 2003, as amended at 69 FR 10575, Mar. 5, 2004]
+[68 FR 35091, June 11, 2003, as amended at 69 FR 10575, Mar. 5, 2004; 87 FR 24447, Apr. 26, 2022]

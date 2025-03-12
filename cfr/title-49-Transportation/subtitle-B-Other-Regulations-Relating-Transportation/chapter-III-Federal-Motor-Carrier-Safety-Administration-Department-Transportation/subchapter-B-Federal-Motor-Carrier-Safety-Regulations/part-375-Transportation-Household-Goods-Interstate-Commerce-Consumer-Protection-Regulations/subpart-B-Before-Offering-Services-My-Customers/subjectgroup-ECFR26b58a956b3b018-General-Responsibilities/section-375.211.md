@@ -1,12 +1,10 @@
 ##### § 375.211 Must I have an arbitration program? #####
 
-Link to an amendment published at 87 FR 24446, Apr. 26, 2022.
-
 (a) You must have an arbitration program for individual shippers to resolve disputes about property loss and damage and disputes about whether carrier charges in addition to those collected at delivery must be paid. You must establish and maintain an arbitration program with the following 11 minimum elements:
 
 (1) You must design your arbitration program to prevent you from having any special advantage in any case where the claimant resides or does business at a place distant from your principal or other place of business.
 
-(2) Before execution of the order for service, you must provide notice to the individual shipper of the availability of neutral arbitration, including all three of the following items:
+(2) Before execution of the bill of lading, you must provide notice to the individual shipper of the availability of neutral arbitration, including all three of the following items:
 
 (i) A summary of the arbitration procedure.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 87 FR 24446, Apr. 26, 2022.
 
 (b) You must produce and distribute a concise, easy-to-read, accurate summary of your arbitration program, including the items in this section.
 
-[68 FR 35091, June 11, 2003, as amended at 69 FR 10575, Mar. 5, 2004; 72 FR 36772, July 5, 2007]
+[68 FR 35091, June 11, 2003, as amended at 69 FR 10575, Mar. 5, 2004; 72 FR 36772, July 5, 2007; 87 FR 24446, Apr. 26, 2022]

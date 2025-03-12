@@ -1,10 +1,10 @@
 ##### § 375.103 What are the definitions of terms used in this part? #####
 
-Link to an amendment published at 87 FR 24446, Apr. 26, 2022.
-
 Terms used in this part are defined as follows. You may find other terms used in these regulations defined in 49 U.S.C. 13102. The definitions contained in this statute control. If terms are used in this part and the terms are neither defined here nor in 49 U.S.C. 13102, the terms will have the ordinary practical meaning of such terms.
 
 *Advertisement* means any communication to the public in connection with an offer or sale of any interstate household goods transportation service. This includes written or electronic database listings of your name, address, and telephone number in an on-line database or displayed on an Internet web site. This excludes listings of your name, address, and telephone number in a telephone directory or similar publication. However, Yellow Pages advertising is included in the definition.
+
+*Bill of lading* means both the receipt and the contract for the transportation of the individual shipper's household goods.
 
 *Cashier's check* means a check that has all four of the following characteristics:
 
@@ -26,7 +26,7 @@ Terms used in this part are defined as follows. You may find other terms used in
 
 *Household goods,* as used in connection with transportation, means the personal effects or property used, or to be used, in a dwelling, when part of the equipment or supplies of the dwelling. Transportation of the household goods must be arranged and paid for by the individual shipper or by another individual on behalf of the shipper. Household goods includes property moving from a factory or store if purchased with the intent to use in a dwelling and transported at the request of the householder, who also pays the transportation charges.
 
-*Household goods motor carrier* means -
+*Household goods motor carrier* means—
 
 (1) In general, a motor carrier that, in the ordinary course of its business of providing transportation of household goods, offers some or all of the following additional services:
 
@@ -44,7 +44,7 @@ Terms used in this part are defined as follows. You may find other terms used in
 
 (4) The term does not include any motor carrier that acts as a service for the delivery of furniture, appliances, or other furnishings between a factory or a store and an individual's household.
 
-*Individual shipper* means any person who -
+*Individual shipper* means any person who—
 
 (1) Is the shipper, consignor, or consignee of a household goods shipment;
 
@@ -58,13 +58,13 @@ Terms used in this part are defined as follows. You may find other terms used in
 
 *Must* means a legal obligation. You must do something.
 
-*Order for service* means a document authorizing you to transport an individual shipper's household goods.
+*Physical survey* means a survey which is conducted on-site or virtually. If the survey is performed virtually, the household goods motor carrier must be able to view the household goods through live or pre-recorded video that allows it to clearly identify the household goods to be transported.
 
-*Reasonable dispatch* means the performance of transportation on the dates, or during the period, agreed upon by you and the individual shipper and shown on the Order For Service/Bill of Lading. For example, if you deliberately withhold any shipment from delivery after an individual shipper offers to pay the binding estimate or 110 percent of a non-binding estimate, you have not transported the goods with reasonable dispatch. The term “reasonable dispatch” excludes transportation provided under your tariff provisions requiring guaranteed service dates. You will have the defenses of force majeure, *i.e.,* superior or irresistible force, as construed by the courts.
+*Reasonable dispatch* means the performance of transportation on the dates, or during the period, agreed upon by you and the individual shipper and shown on the bill of lading. For example, if you deliberately withhold any shipment from delivery after an individual shipper offers to pay the binding estimate or 110 percent of a non-binding estimate, you have not transported the goods with reasonable dispatch. The term *reasonable dispatch* excludes transportation provided under your tariff provisions requiring guaranteed service dates. You will have the defenses of force majeure, *i.e.,* superior or irresistible force, as construed by the courts.
 
 *Should* means a recommendation. We recommend you do something, but it is not a requirement.
 
-*Surface Transportation Board* means an agency within the Department of Transportation. The Surface Transportation Board regulates household goods carrier tariffs among other responsibilities.
+*Surface Transportation Board* means an independent agency of the United States that regulates household goods carrier tariffs, among other economic regulatory responsibilities.
 
 *Tariff* means an issuance (in whole or in part) containing rates, rules, regulations, classifications or other provisions related to a motor carrier's transportation services. The Surface Transportation Board requires a tariff contain specific items under § 1312.3(a) of this title. These specific items include an accurate description of the services offered to the public and the specific applicable rates (or the basis for calculating the specific applicable rates) and service terms. A tariff must be arranged in a way that allows for the determination of the exact rate(s) and service terms applicable to any given shipment.
 
@@ -72,4 +72,4 @@ Terms used in this part are defined as follows. You may find other terms used in
 
 *You* and *your* means a household goods motor carrier engaged in the interstate transportation of household goods and its household goods agents.
 
-[68 FR 35091, June 11, 2003, as amended at 72 FR 36771, July 5, 2007; 77 FR 36934, June 20, 2012; 77 FR 59823, Oct. 1, 2012]
+[68 FR 35091, June 11, 2003, as amended at 72 FR 36771, July 5, 2007; 77 FR 36934, June 20, 2012; 77 FR 59823, Oct. 1, 2012; 87 FR 24446, Apr. 26, 2022]

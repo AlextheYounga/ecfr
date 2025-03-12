@@ -1,5 +1,7 @@
 ##### § 880.612 Reviews during management period. #####
 
+Link to an amendment published at 87 FR 37997, June 27, 2022.
+
 (a) After the effective date of the Contract, the contract administrator will inspect the project and review its operation at least annually to determine whether the owner is in compliance with the Contract and the assisted units are in decent, safe and sanitary condition.
 
 (b) In addition:

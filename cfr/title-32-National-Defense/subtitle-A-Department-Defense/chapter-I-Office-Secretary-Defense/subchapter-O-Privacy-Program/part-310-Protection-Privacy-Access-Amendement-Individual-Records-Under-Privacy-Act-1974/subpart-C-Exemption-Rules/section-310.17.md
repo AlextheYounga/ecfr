@@ -1,5 +1,7 @@
 ##### § 310.17 Exemptions for specific Marine Corps record systems. #####
 
+Link to an amendment published at 87 FR 37999, June 27, 2022.
+
 (a) [Reserved]
 
 (1) *System identifier and name.* MIN00001, Personnel and Security Eligibility and Access Information System.

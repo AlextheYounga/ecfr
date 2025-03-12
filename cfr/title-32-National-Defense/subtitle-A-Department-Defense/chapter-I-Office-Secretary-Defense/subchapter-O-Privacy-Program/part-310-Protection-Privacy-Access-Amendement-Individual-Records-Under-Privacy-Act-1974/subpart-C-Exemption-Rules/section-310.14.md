@@ -1,5 +1,7 @@
 ##### § 310.14 Department of the Air Force exemptions. #####
 
+Link to an amendment published at 87 FR 37999, June 27, 2022.
+
 (a) All systems of records maintained by the Department of the Air Force shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive Order 12958 and that is required by Executive Order to be kept classified in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein, which contain isolated items of properly classified information.
 
 (b) An individual is not entitled to have access to any information compiled in reasonable anticipation of a civil action or proceeding (5 U.S.C. 552a(d)(5)).

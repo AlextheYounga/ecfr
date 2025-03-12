@@ -1,5 +1,7 @@
 ##### § 886.309 Housing assistance payment to owners. #####
 
+Link to an amendment published at 87 FR 37997, June 27, 2022.
+
 (a) *General.* Housing Assistance Payments shall be paid to Owners for units under lease by eligible Families, in accordance with the Contract and as provided in this section. These Housing Assistance Payments will cover the difference between the Contract Rent and the Tenant Rent. Where applicable, the Utility Reimbursement will be paid to the Family as an additional Housing Assistance Payment. The Contract will provide that the Owner will make this payment on behalf of HUD. Funds will be paid to the Owner in trust solely for the purpose of making this additional payment. If the Family and the utility company consent, the Owner may pay the Utility Reimbursement jointly to the Family and the utility company or directly to the utility company.
 
 (b) *No assistance for owners.* No Section 8 assistance may be provided for any unit occupied by an owner. However, cooperatives are considered rental housing rather than owner-occupied housing under this subpart.
