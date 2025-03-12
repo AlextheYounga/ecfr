@@ -1,4 +1,6 @@
-##### § 17.84 Special rules - vertebrates. #####
+##### § 17.84 Special rules—vertebrates. #####
+
+Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (a) [Reserved]
 
@@ -420,7 +422,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (7) It is unlawful for you to attempt to commit, solicit another to commit, or cause to be committed, any offense defined in paragraphs (j)(2) and (j)(6) of this section.
 
-(8) The designated experimental population area of the California condor includes portions of three states - Arizona, Nevada, and Utah. The southern boundary is Interstate Highway 40 in Arizona from its junction with Highway 191 west across Arizona to Kingman; the western boundary starts at Kingman, goes northwest on Highway 93 to Interstate Highway 15, continues northeasterly on Interstate Highway 15 in Nevada and Utah, to Interstate Highway 70 in Utah; where the northern boundary starts and goes across Utah to Highway 191; where the eastern boundary starts and goes south through Utah until Highway 191 meets Interstate Highway 40 in Arizona (See map at end of this paragraph (j)).
+(8) The designated experimental population area of the California condor includes portions of three states—Arizona, Nevada, and Utah. The southern boundary is Interstate Highway 40 in Arizona from its junction with Highway 191 west across Arizona to Kingman; the western boundary starts at Kingman, goes northwest on Highway 93 to Interstate Highway 15, continues northeasterly on Interstate Highway 15 in Nevada and Utah, to Interstate Highway 70 in Utah; where the northern boundary starts and goes across Utah to Highway 191; where the eastern boundary starts and goes south through Utah until Highway 191 meets Interstate Highway 40 in Arizona (See map at end of this paragraph (j)).
 
 (i) All California condors released into the experimental population area, and their offspring, are to be marked and visually identifiable by colored and coded patagial wing markers.
 
@@ -486,7 +488,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 *Initial release* means the release of Mexican wolves to the wild within Zone 1, as defined in this paragraph (k)(3), or in accordance with tribal or private land agreements in Zone 2, as defined in this paragraph (k)(3), that have never been in the wild, or releasing pups that have never been in the wild and are less than 5 months old within Zones 1 or 2. The initial release of pups less than 5 months old into Zone 2 allows for the cross-fostering of pups from the captive population into the wild, as well as enables translocation-eligible adults to be re-released in Zone 2 with pups born in captivity.
 
-*Intentional harassment* means deliberate, preplanned harassment of Mexican wolves, including by less-than-lethal means (such as 12-gauge shotgun rubber-bullets and bean-bag shells) designed to cause physical discomfort and temporary physical injury, but not death. Intentional harassment includes situations where the Mexican wolf or wolves may have been unintentionally attracted - or intentionally tracked, waited for, chased, or searched out - and then harassed. Intentional harassment of Mexican wolves is only allowed under a permit issued by the Service or its designated agency.
+*Intentional harassment* means deliberate, preplanned harassment of Mexican wolves, including by less-than-lethal means (such as 12-gauge shotgun rubber-bullets and bean-bag shells) designed to cause physical discomfort and temporary physical injury, but not death. Intentional harassment includes situations where the Mexican wolf or wolves may have been unintentionally attracted—or intentionally tracked, waited for, chased, or searched out—and then harassed. Intentional harassment of Mexican wolves is only allowed under a permit issued by the Service or its designated agency.
 
 *Livestock* means domestic alpacas, bison, burros (donkeys), cattle, goats, horses, llamas, mules, and sheep, or other domestic animals defined as livestock in Service-approved State and tribal Mexican wolf management plans. Poultry is not considered livestock under this rule.
 
@@ -778,7 +780,7 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 (7) *Will independent scientific information be readily available to the Committee?* The Secretary will appoint two scientific advisors to the Committee as nonvoting members to attend all meetings of the Committee and to provide scientific expertise to the Committee. These scientific advisors will not be employed by Federal agencies involved in grizzly bear recovery. The Secretary will contact the Wildlife Society Chapters in Idaho and Montana and the Universities of Idaho and Montana for nominations and will select one wildlife scientist representing each State and appoint them as advisors to the Committee.
 
-(8) *What is the overall mission of the Committee, and how will it operate?* (i) The mission of the Committee is to facilitate recovery of the grizzly bear in the Bitterroot ecosystem by assisting in implementing the Bitterroot ecosystem chapter of the recovery plan (Bitterroot Ecosystem Recovery Plan Chapter - Supplement to the Grizzly Bear Recovery Plan, U.S. Fish and Wildlife Service, Missoula, Montana, 1996). The Committee will make recommendations to land and wildlife management agencies that it believes will lead to recovery of the grizzly bear. Decisions on, and implementation of, these recommendations are the responsibility of the land and wildlife management agencies.
+(8) *What is the overall mission of the Committee, and how will it operate?* (i) The mission of the Committee is to facilitate recovery of the grizzly bear in the Bitterroot ecosystem by assisting in implementing the Bitterroot ecosystem chapter of the recovery plan (Bitterroot Ecosystem Recovery Plan Chapter—Supplement to the Grizzly Bear Recovery Plan, U.S. Fish and Wildlife Service, Missoula, Montana, 1996). The Committee will make recommendations to land and wildlife management agencies that it believes will lead to recovery of the grizzly bear. Decisions on, and implementation of, these recommendations are the responsibility of the land and wildlife management agencies.
 
 (ii) The Committee will meet a minimum of two times per year. These meetings will be open to the public. Additionally, the committee will provide reasonable public notice of meetings, produce and provide written minutes of meetings to interested persons, and involve the public in its decision-making process. This public participation process will allow members of the public and/or special interest groups to have input to Committee decisions and management actions.
 
@@ -874,7 +876,7 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 ![](/graphics/er17no00.008.gif)
 
-(m) Spotfin chub (=turquoise shiner) (*Erimonax monachus*) - (1) *Where is the spotfin chub designated as a nonessential experimental population (NEP)?* We have designated three populations of this species as NEPs: the Tellico River NEP, the Shoal Creek NEP, and the French Broad River and Holston River NEP. This species is not currently known to exist in the Tellico River or its tributaries, the Shoal Creek or its tributaries, or any of the tributaries to the free-flowing reaches of the French Broad River below Douglas Dam, Knox and Sevier Counties, Tennessee, or of the Holston River below the Cherokee Dam, Knox, Grainger, and Jefferson Counties, Tennessee. Based on its habitat requirements, we do not expect this species to become established outside the NEP areas. However, if individuals move upstream or downstream or into tributaries outside any of the designated NEP areas, we would presume that those individuals came from the closest reintroduced population. We would then amend this regulation and enlarge the boundaries of the NEP area to include the entire range of the expanded population.
+(m) Spotfin chub (=turquoise shiner) (*Erimonax monachus*)—(1) *Where is the spotfin chub designated as a nonessential experimental population (NEP)?* We have designated three populations of this species as NEPs: the Tellico River NEP, the Shoal Creek NEP, and the French Broad River and Holston River NEP. This species is not currently known to exist in the Tellico River or its tributaries, the Shoal Creek or its tributaries, or any of the tributaries to the free-flowing reaches of the French Broad River below Douglas Dam, Knox and Sevier Counties, Tennessee, or of the Holston River below the Cherokee Dam, Knox, Grainger, and Jefferson Counties, Tennessee. Based on its habitat requirements, we do not expect this species to become established outside the NEP areas. However, if individuals move upstream or downstream or into tributaries outside any of the designated NEP areas, we would presume that those individuals came from the closest reintroduced population. We would then amend this regulation and enlarge the boundaries of the NEP area to include the entire range of the expanded population.
 
 (i) The Tellico River NEP area is within the species' probable historic range and is defined as follows: The Tellico River, between the backwaters of the Tellico Reservoir (approximately Tellico River mile 19 (30.4 kilometers (km)) and Tellico River mile 33 (52.8 km), near the Tellico Ranger Station, Monroe County, Tennessee.
 
@@ -1060,7 +1062,7 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 (5) *Note:* Map of the NEP area for the pygmy madtom in the French Broad River and Holston River, Tennessee, appears immediately following paragraph (m)(7) of this section.
 
-(u) Rio Grande silvery minnow (*Hybognathus amarus*) - (1) *Where are populations of this fish designated as nonessential experimental populations (NEP)?*
+(u) Rio Grande silvery minnow (*Hybognathus amarus*)—(1) *Where are populations of this fish designated as nonessential experimental populations (NEP)?*
 
 (i) The NEP area for the Rio Grande silvery minnow is within the species' historical range and is defined as follows: Rio Grande, from Little Box Canyon downstream of Fort Quitman, Hudspeth County, Texas, through Big Bend National Park and the Rio Grande Wild and Scenic River, to Amistad Dam; and on the Pecos River, from its confluence with Independence Creek to its confluence with the Rio Grande.
 
@@ -1130,7 +1132,7 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 ![](/graphics/er05my11.128.gif)
 
-(w) Bull Trout (*Salvelinus confluentus*) - (1) *Where are populations of this fish designated as nonessential experimental populations (NEPs)?*
+(w) Bull Trout (*Salvelinus confluentus*)—(1) *Where are populations of this fish designated as nonessential experimental populations (NEPs)?*
 
 (i) The NEP area for the bull trout is within the species' historical range and is defined as follows: the entire Clackamas River subbasin as well as the mainstem Willamette River, from Willamette Falls to its points of confluence with the Columbia River, including Multnomah Channel.
 

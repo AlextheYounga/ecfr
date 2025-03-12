@@ -1,5 +1,7 @@
 ##### § 440.1 Purpose, authority, and relationship to other requirements. #####
 
+Link to an amendment published at 88 FR 7006, Feb. 2, 2023.
+
 (a) *Purpose.* The purpose of this part is to protect and conserve the water resources of the Delaware River Basin. To effectuate this purpose, this section establishes standards, requirements, conditions, and restrictions to prevent or reduce depletion and degradation of surface and groundwater resources and to promote sound practices of water resource management.
 
 (b) *Authority.* This part implements Sections 3.1, 3.2(a), 3.2 (b), 3.6(b), 3.6(h), 4.1, 5.2, 7.1, 13.1 and 14.2(a) of the Delaware River Basin Compact.

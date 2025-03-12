@@ -1,5 +1,7 @@
 ##### § 440.2 Definitions. #####
 
+Link to an amendment published at 88 FR 7007, Feb. 2, 2023.
+
 For purposes of this part, the following terms and phrases have the meanings provided. Some definitions differ from those provided in regulations of one or more agencies of the Commission's member states and the Federal Government.
 
 *Basin* is the area of drainage into the Delaware River and its tributaries, including Delaware Bay.

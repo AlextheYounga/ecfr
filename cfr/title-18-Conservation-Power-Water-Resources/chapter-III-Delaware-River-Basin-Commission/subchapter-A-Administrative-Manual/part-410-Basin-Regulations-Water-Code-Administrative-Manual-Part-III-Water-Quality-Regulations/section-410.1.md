@@ -1,5 +1,7 @@
 ##### § 410.1 Basin regulations - Water Code and Administrative Manual - Part III Water Quality Regulations. #####
 
+Link to an amendment published at 88 FR 7006, Feb. 2, 2023.
+
 (a) The Water Code of the Delaware River Basin is a codification of regulations of the Delaware River Basin Commission applicable to public and private water projects and programs within the Delaware River Basin. Article I of the water code sets forth general policies of the Commission. Article II concerns the conservation, development and utilization of Delaware River Basin water resources, including during periods of drought. Article III sets forth water quality standards and guidelines for the Delaware River Basin. Article IV contains rules relating to application of water quality standards within the Basin. The Commission's Administrative Manual - Part III, Water Quality Regulations, applies to all public and private entities that discharge waste to waters of the Delaware River Basin.
 
 (b) Article III of the water code consists of Article III of the water quality regulations. Article IV of the water code consists of portions of Article IV of the water quality regulations.
