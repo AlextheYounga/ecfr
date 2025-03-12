@@ -1,5 +1,7 @@
 ##### § 240.15c3-1a Options (Appendix A to 17 CFR 240.15c3-1). #####
 
+Link to an amendment published at 84 FR 44044, Aug. 22, 2019.
+
 (a) *Definitions.* (1) The term *unlisted option* shall mean any option not included in the definition of listed option provided in paragraph (c)(2)(x) of § 240.15c3-1.
 
 (2) The term *option series* refers to listed option contracts of the same type (either a call or a put) and exercise style, covering the same underlying security with the same exercise price, expiration date, and number of underlying units.

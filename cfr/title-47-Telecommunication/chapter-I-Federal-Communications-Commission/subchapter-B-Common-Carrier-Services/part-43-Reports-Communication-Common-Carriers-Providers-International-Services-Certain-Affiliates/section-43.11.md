@@ -1,5 +1,7 @@
 ##### § 43.11 Reports of local exchange competition data. #####
 
+Link to an amendment published at 84 FR 43724, Aug. 22, 2019.
+
 (a) All common carriers and their affiliates (as defined in 47 U.S.C. 153(1)) providing telephone exchange or exchange access service (as defined in 47 U.S.C. 153(16) and (47)), commercial mobile radio service (CMRS) providers offering mobile telephony (as defined in § 20.15(b)(1) of this chapter), and Interconnected Voice over IP service providers (as defined in § 9.3 of this chapter), shall file with the Commission a completed FCC Form 477, in accordance with the Commission's rules and the instructions to the FCC Form 477.
 
 (b) Respondents identified in paragraph (a) of this section shall include in each report a certification signed by an appropriate official of the respondent (as specified in the instructions to FCC Form 477) and shall report the title of their certifying official.

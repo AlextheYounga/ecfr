@@ -1,6 +1,6 @@
 ##### § 240.15c3-1e Deductions for market and credit risk for certain brokers or dealers (Appendix E to 17 CFR 240.15c3-1). #####
 
-Preliminary Note:
+Link to an amendment published at 84 FR 44046, Aug. 22, 2019.Preliminary Note:
 
 Appendices E and G to the net capital rule set forth a program that allows a broker or dealer to use an alternative approach to computing net capital deductions, subject to the conditions described in the Appendices, including supervision of the broker's or dealer's ultimate holding company under the program. The program is designed to reduce the likelihood that financial and operational weakness in the holding company will destabilize the broker or dealer, or the broader financial system. The focus of this supervision of the ultimate holding company is its financial and operational condition and its risk management controls and methodologies.
 

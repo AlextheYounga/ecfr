@@ -1,5 +1,7 @@
 ##### § 1.7001 Scope and content of filed reports. #####
 
+Link to an amendment published at 84 FR 43723, August 22, 2019.
+
 (a) *Definitions.* Terms used in this subpart have the following meanings:
 
 (1) *Facilities-based providers.* Those entities that provide broadband services over their own facilities or over Unbundled Network Elements (UNEs), special access lines, and other leased lines and wireless channels that the entity obtains from a communications service provider and equips as broadband.

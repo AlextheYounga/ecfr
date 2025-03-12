@@ -1,5 +1,7 @@
 ##### § 240.15c3-1b Adjustments to net worth and aggregate indebtedness for certain commodities transactions (appendix B to 17 CFR 240.15c3-1). #####
 
+Link to an amendment published at 84 FR 44044, Aug. 22, 2019.
+
 (a) Every broker or dealer in computing net capital pursuant to 17 CFR 240.15c3-1 shall comply with the following:
 
 (1) Where a broker or dealer has an asset or liability which is treated or defined in paragraph (c) of 17 CFR 240.15c3-1, the inclusion or exclusion of all or part of such asset or liability for the computation of aggregate indebtedness and net capital shall be in accordance with paragraph (c) of 17 CFR 240.15c3-1, except as specifically provided otherwise in this appendix B. Where a commodity related asset or liability is specifically treated or defined in 17 CFR 1.17 and is not generally or specifically treated or defined in 17 CFR 240.15c3-1 or this appendix B, the inclusion or exclusion of all or part of such asset or liability for the computation of aggregate indebtedness and net capital shall be in accordance with 17 CFR 1.17.

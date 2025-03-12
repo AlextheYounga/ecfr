@@ -1,5 +1,7 @@
 ##### § 240.15c3-1d Satisfactory Subordination Agreements (Appendix D to 17 CFR 240.15c3-1). #####
 
+Link to an amendment published at 84 FR 44045, Aug. 22, 2019.
+
 (a) *Introduction.* (1) This appendix sets forth minimum and non-exclusive requirements for satisfactory subordination agreements (hereinafter “subordination agreement”). The Examining Authority may require or the broker or dealer may include such other provisions as deemed necessary or appropriate to the extent such provisions do not cause the subordination agreement to fail to meet the minimum requirements of this Appendix (D).
 
 (2) *Certain definitions.* For purposes of 17 CFR 240.15c3-1 and this Appendix (D):

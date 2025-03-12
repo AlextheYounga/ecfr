@@ -1,5 +1,7 @@
 ##### § 240.15c3-1 Net capital requirements for brokers or dealers. #####
 
+Link to an amendment published at 84 FR 44042, Aug. 22, 2019.
+
 (a) Every broker or dealer must at all times have and maintain net capital no less than the greater of the highest minimum requirement applicable to its ratio requirement under paragraph (a)(1) of this section, or to any of its activities under paragraph (a)(2) of this section, and must otherwise not be “insolvent” as that term is defined in paragraph (c)(16) of this section. In lieu of applying paragraphs (a)(1) and (a)(2) of this section, an OTC derivatives dealer shall maintain net capital pursuant to paragraph (a)(5) of this section. Each broker or dealer also shall comply with the supplemental requirements of paragraphs (a)(4) and (a)(9) of this section, to the extent either paragraph is applicable to its activities. In addition, a broker or dealer shall maintain net capital of not less than its own net capital requirement plus the sum of each broker's or dealer's subsidiary or affiliate minimum net capital requirements, which is consolidated pursuant to appendix C, § 240.15c3-1c.
 
 Ratio RequirementsAggregate Indebtedness Standard

@@ -46,7 +46,7 @@
 
 (5) Disputes of material fact shall be resolved by a preponderance of the evidence, with written recommended findings by the examiner unless the examiner determines, on the record, not to take the controverted matter into account.
 
-(6) The transferee shall be notified of the examiner's recommended findings of fact, and the examiner's recommended determination and reasons therefore, at the conclusion of the hearing. The case shall thereafter be reviewed by the Executive Hearing Examiner pursuant to § 2.23, and the Commission shall make its determination upon a panel recommendation.
+(6) The transferee shall be notified of the examiner's recommended findings of fact, and the examiner's recommended determination and reasons therefore, at the conclusion of the hearing. The case shall thereafter be reviewed by a second hearing examiner, and the Commission shall make its determination upon a panel recommendation.
 
 (i) *Final decision.* (1) The Commission shall render a decision as soon as practicable and without unnecessary delay. Upon review of the examiner panel recommendation, the Commissioner may make the decision by concurring with the panel recommendation. If the Commissioner does not concur, the Commissioner shall refer the case to another Commissioner and the decision shall be made on the concurring votes of two Commissioners. The decision shall set a release date and a period and conditions of supervised release. If the Commission determines that the appropriate release date under 18 U.S.C. 4106A is the full term date of the foreign sentence, the Commission will order the transferee to “continue to expiration.”
 
@@ -86,4 +86,4 @@
 
 (2) If the transferee is released pursuant to a date established by the Bureau of Prisons under 18 U.S.C. 4105(c)(1), then the period of supervised release commences upon the transferee's release from imprisonment.
 
-[54 FR 27840, June 30, 1989, as amended at 55 FR 39269, Sept. 26, 1990; 58 FR 30705, May 27, 1993; 59 FR 26425, May 20, 1994; 60 FR 18354, Apr. 11, 1995; 61 FR 38570, July 25, 1996; 61 FR 54096, 54097, Oct. 17, 1996; 62 FR 40270, July 28, 1997. Redesignated at 63 FR 39176, July 21, 1998, and amended at 67 FR 70694, Nov. 26, 2002; 73 FR 12637, Mar. 10, 2008; 83 FR 58500, Nov. 20, 2018]
+[54 FR 27840, June 30, 1989, as amended at 55 FR 39269, Sept. 26, 1990; 58 FR 30705, May 27, 1993; 59 FR 26425, May 20, 1994; 60 FR 18354, Apr. 11, 1995; 61 FR 38570, July 25, 1996; 61 FR 54096, 54097, Oct. 17, 1996; 62 FR 40270, July 28, 1997. Redesignated at 63 FR 39176, July 21, 1998, and amended at 67 FR 70694, Nov. 26, 2002; 73 FR 12637, Mar. 10, 2008; 83 FR 58500, Nov. 20, 2018; 84 FR 43691, Aug. 22, 2019]
