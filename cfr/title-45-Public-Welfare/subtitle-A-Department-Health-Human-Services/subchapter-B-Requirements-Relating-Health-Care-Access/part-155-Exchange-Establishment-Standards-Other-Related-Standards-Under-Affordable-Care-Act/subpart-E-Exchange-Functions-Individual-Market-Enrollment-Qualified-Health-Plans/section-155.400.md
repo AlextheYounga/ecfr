@@ -1,8 +1,6 @@
 ##### § 155.400 Enrollment of qualified individuals into QHPs. #####
 
-Link to an amendment published at 85 FR 29260, May 14, 2020.
-
-(a) *General requirements.* The Exchange must accept a QHP selection from an applicant who is determined eligible for enrollment in a QHP in accordance with subpart D, and must -
+(a) *General requirements.* The Exchange must accept a QHP selection from an applicant who is determined eligible for enrollment in a QHP in accordance with subpart D, and must—
 
 (1) Notify the issuer of the applicant's selected QHP; and
 
@@ -24,13 +22,11 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (1) In a Federally-facilitated Exchange or State-Based Exchange on the Federal Platform:
 
-(i) For prospective coverage to be effectuated under regular coverage effective dates, as provided for in §§ 155.410(f) and 155.420(b)(1), the binder payment must consist of the first month's premium, and the deadline for making the binder payment must be no earlier than the coverage effective date, and no later than 30 calendar days from the coverage effective date.
+(i) For prospective coverage to be effectuated under regular coverage effective dates, as provided for in § 155.410(f), the binder payment must consist of the first month's premium, and the deadline for making the binder payment must be no earlier than the coverage effective date, and no later than 30 calendar days from the coverage effective date.
 
-(ii) For prospective coverage to be effectuated under special effective dates, as provided for in § 155.420(b)(2), the binder payment must consist of the first month's premium, and the deadline for making the binder payment must be no earlier than the coverage effective date and no later than 30 calendar days from the date the issuer receives the enrollment transaction or the coverage effective date, whichever is later.
+(ii) For prospective coverage to be effectuated under special effective dates, as provided for in § 155.420(b)(2) and (3), the binder payment must consist of the first month's premium, and the deadline for making the binder payment must be no earlier than the coverage effective date and no later than 30 calendar days from the date the issuer receives the enrollment transaction or the coverage effective date, whichever is later.
 
-(iii) For coverage to be effectuated under retroactive effective dates, as provided for in § 155.420(b)(2), the binder payment must consist of the premium due for all months of retroactive coverage through the first prospective month of coverage, and the deadline for making the binder payment must be no earlier than 30 calendar days from the date the issuer receives the enrollment transaction. If only the premium for one month of coverage is paid, only prospective coverage should be effectuated, in accordance with regular effective dates.
-
-(iv) Notwithstanding the requirements in paragraphs (e)(1)(i) through (iii) of this section, for coverage to be effectuated after pended enrollment due to special enrollment period eligibility verification, the binder payment must consist of the premium due for all months of retroactive coverage through the first prospective month of coverage consistent with the coverage effective dates described in § 155.420(b)(1), (2) and (3) or, if elected, § 155.420(b)(5) and the deadline for making the binder payment must be no earlier than 30 calendar days from the date the issuer receives the enrollment transaction.
+(iii) For coverage to be effectuated under retroactive effective dates, as provided for in § 155.420(b)(2), including when retroactive effective dates are due to a delay until after special enrollment period verification, the binder payment must consist of the premium due for all months of retroactive coverage through the first prospective month of coverage, and the deadline for making the binder payment must be no earlier than 30 calendar days from the date the issuer receives the enrollment transaction. If only the premium for 1 month of coverage is paid, only prospective coverage should be effectuated, in accordance with § 155.420(b)(3).
 
 (2) *Premium payment deadline extension.* Exchanges may, and the Federally-facilitated Exchanges and State-Based Exchanges on the Federal Platform will, allow issuers experiencing billing or enrollment problems due to high volume or technical errors to implement a reasonable extension of the binder payment deadlines in paragraph (e)(1) of this section.
 
@@ -46,4 +42,4 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (h) *Requirements.* A State Exchange may rely on HHS to carry out the requirements of this section and other requirements contained within this subpart through a Federal platform agreement.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94177, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94177, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 85 FR 29260, May 14, 2020]

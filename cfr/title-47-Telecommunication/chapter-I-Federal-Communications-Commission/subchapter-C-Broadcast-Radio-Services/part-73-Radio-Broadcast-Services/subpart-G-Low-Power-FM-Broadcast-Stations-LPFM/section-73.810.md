@@ -1,7 +1,5 @@
 ##### § 73.810 Third adjacent channel interference. #####
 
-Link to an amendment published at 85 FR 35573, June 11, 2020.
-
 (a) *LPFM Stations Licensed at Locations That Do Not Satisfy Third-Adjacent Channel Minimum Distance Separations.* An LPFM station licensed at a location that does not satisfy the third-adjacent channel minimum distance separations set forth in § 73.807 is subject to the following provisions:
 
 (1) Such an LPFM station will not be permitted to continue to operate if it causes any actual third-adjacent channel interference to:
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 35573, June 11, 2020.
 
 (ii) The reception of the input signal of any TV translator, TV booster, FM translator or FM booster station; or
 
-(iii) The direct reception by the public of the off-the-air signals of any authorized broadcast station including TV Channel 6 stations, Class D (secondary) noncommercial educational FM stations, and previously authorized and operating LPFM stations, FM translators and FM booster stations. Interference will be considered to occur whenever reception of a regularly used signal on a third-adjacent channel is impaired by the signals radiated by the LPFM station, regardless of the quality of such reception, the strength of the signal so used, or the channel on which the protected signal is transmitted.
+(iii) The direct reception by the public of the off-the-air signals of any full-service station or previously authorized secondary station. Interference will be considered to occur whenever reception of a regularly used signal on a third-adjacent channel is impaired by the signals radiated by the LPFM station, regardless of the quality of such reception, the strength of the signal so used, or the channel on which the protected signal is transmitted.
 
 (2) If third-adjacent channel interference cannot be properly eliminated by the application of suitable techniques, operation of the offending LPFM station shall be suspended and shall not be resumed until the interference has been eliminated. Short test transmissions may be made during the period of suspended operation to check the efficacy of remedial measures. If a complainant refuses to permit the licensee of the offending LPFM station to apply remedial techniques which demonstrably will eliminate the third-adjacent channel interference without impairment to the original reception, the licensee is absolved of further responsibility for that complaint.
 
@@ -50,4 +48,4 @@ On (date of license grant), the Federal Communications Commission granted (LPFM 
 
 (B) cooperate in addressing any third-adjacent channel interference.
 
-[78 FR 2104, Jan. 9, 2013]
+[78 FR 2104, Jan. 9, 2013, as amended at 85 FR 35573, June 11, 2020]

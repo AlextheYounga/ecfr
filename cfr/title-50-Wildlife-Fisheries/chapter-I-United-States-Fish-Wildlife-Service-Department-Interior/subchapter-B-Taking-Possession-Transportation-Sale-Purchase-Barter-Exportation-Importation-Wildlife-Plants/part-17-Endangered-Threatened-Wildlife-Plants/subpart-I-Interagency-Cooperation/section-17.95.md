@@ -13104,15 +13104,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.086.gif)Borax Lake Chub (*Gila boraxobius*)
-
-Oregon. Harney County. Borax Lake and environments associated with the outflow from Borax Lake located within SW1/4 Sec. 11, W1/2 Sec. 14, E3/4 of the SE1/4 Sec. 15, and the SE1/4 of the NE1/4 Sec. 15; T37S; R33E.
-
-Note:
-
-The map provided is for informational purposes only. Map follows:
-
-![](/graphics/ec01jn91.087.gif)Gila Chub (*Gila intermedia*)
+![](/graphics/ec01jn91.086.gif)Gila Chub (*Gila intermedia*)
 
 (1) Critical habitat for the Gila chub in Grant County, New Mexico, and Yavapai, Gila, Greenlee, Graham, Cochise, Pima, Santa Cruz, and Pinal Counties in Arizona is described in detail and depicted on the following maps below.
 

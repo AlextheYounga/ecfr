@@ -1,7 +1,5 @@
 ##### § 660.112 Trawl fishery - prohibitions. #####
 
-Link to an amendment published at 85 FR 35601, June 11, 2020.
-
 In addition to the general prohibitions specified in § 660.12 and § 600.725 of this chapter, it is unlawful for any person or vessel to:
 
 (a) *General* - (1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
@@ -22,7 +20,7 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (iii) Failure to submit a complete EDC form to NMFS as required by § 660.113.
 
-(4) *Observers.* (i) Fish in the Shorebased IFQ Program, the MS Coop Program, or the C/P Coop Program without observer coverage.
+(4) *Observers.* (i) Fish in the Shorebased IFQ Program, the MS Coop Program, or the C/P Coop Program without observer coverage unless exempt from the observer coverage requirement for gear testing activity and have satisfied the declaration and notification requirements, as described in § 660.140(h), § 660.150(j), or § 660.160(g).
 
 (ii) Fish in the Shorebased IFQ Program, the MS Coop Program, or the C/P Coop Program if the vessel is inadequate or unsafe for observer deployment as described at § 660.12(e).
 
@@ -57,6 +55,14 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 (vii) Make any false statement to NMFS, including any NMFS employee, agent or contractor, concerning a matter related to the cost recovery program described in this subpart.
 
 (viii) Obstruct, prevent, or delay, or attempt to obstruct, prevent, or delay, any audit or investigation NMFS employees, agents, or contractors conduct, or attempt to conduct, in connection with any of the matters in the cost recovery program described in this subpart.
+
+(7) *Gear testing.* (i) Retain fish while gear testing.
+
+(ii) Fish with a closed codend, use terminal gear (*i.e.,* hooks), or fish with open pot gear while gear testing.
+
+(iii) Test gear in groundfish conservation areas described in § 660.70, or EFHCAs described in §§ 660.76 through 660.79.
+
+(iv) Test experimental gear, or any other gear not currently approved for groundfish fishing.
 
 (b) *Shorebased IFQ Program* - (1) *General.* (i) Own or control by any means whatsoever an amount of QS or IBQ that exceeds the Shorebased IFQ Program accumulation limits.
 
@@ -93,6 +99,8 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 (xv) Fail to establish a new registered vessel account in the name of the current vessel owner, following a change in ownership of a vessel, prior to fishing in the Shorebased IFQ Program with that vessel.
 
 (xvi) Land groundfish taken and retained during an IFQ trip, from the vessel that harvested the fish, to a first receiver that does not hold a valid first receiver site license for the physical location where the IFQ landing occurred.
+
+(xvii) When declared into the limited entry groundfish non-trawl Shorebased IFQ fishery, retain fish caught with fixed gear in more than one IFQ management area, specified at § 660.140(c)(1), on the same trip.
 
 (2) *IFQ first receivers.* (i) Receive, purchase, or take custody, control, or possession of an IFQ landing from a vessel that harvested the catch while fishing under the Shorebased IFQ Program without a valid first receiver site license.
 
@@ -192,4 +200,4 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (10) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020]Effective Date Note:At 85 FR 37029, June 19, 2020, § 660.112 was amended by adding paragraphs (d)(3)(i) and (ii) and (e)(3)(i) and (ii), effective June 19, 2020, until Dec. 16, 2020.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020]Effective Date Note:At 85 FR 37029, June 19, 2020, § 660.112 was amended by adding paragraphs (d)(3)(i) and (ii) and (e)(3)(i) and (ii), effective June 19, 2020, until Dec. 16, 2020.

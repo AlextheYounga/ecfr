@@ -1,14 +1,12 @@
 ##### § 240.17Ad-22 Standards for clearing agencies. #####
 
-Link to an amendment published at 85 FR 28867, May 14, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Backtesting* means an ex-post comparison of actual outcomes with expected outcomes derived from the use of margin models.
 
 (2) *Central counterparty* means a clearing agency that interposes itself between the counterparties to securities transactions, acting functionally as the buyer to every seller and the seller to every buyer.
 
-(3) *Central securities depository services* means services of a clearing agency that is a securities depository as described in Section 3(a)(23)(A) of the Act (15 U.S.C. 78c(a)(23)(A)).
+(3) *Central securities depository* means a clearing agency that is a securities depository as described in Section 3(a)(23)(A) of the Act (15 U.S.C. 78c(a)(23)(A)).
 
 (4) *Clearing agency involved in activities with a more complex risk profile* means a clearing agency registered with the Commission under Section 17A of the Act (15 U.S.C. 78q-1) that:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 28867, May 14, 2020.
 
 (iii) Is subsequently determined by the Commission to be involved in activities with a more complex risk profile pursuant to § 240.17Ab2-2(b).
 
-(5) *Covered clearing agency* means a designated clearing agency or a clearing agency involved in activities with a more complex risk profile for which the Commodity Futures Trading Commission is not the Supervisory Agency as defined in Section 803(8) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*).
+(5) *Covered clearing agency* means a registered clearing agency that provides the services of a central counterparty or central securities depository.
 
 (6) *Designated clearing agency* means a clearing agency registered with the Commission under Section 17A of the Exchange Act (15 U.S.C. 78q-1) that is designated systemically important by the Financial Stability Oversight Council pursuant to the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*) and for which the Commission is the supervisory agency as defined in Section 803(8) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*).
 
@@ -58,11 +56,13 @@ Link to an amendment published at 85 FR 28867, May 14, 2020.
 
 (16) *Sensitivity analysis* means an analysis that involves analyzing the sensitivity of a model to its assumptions, parameters, and inputs that:
 
-(i) Considers the impact on the model of both moderate and extreme changes in a wide range of inputs, parameters, and assumptions, including correlations of price movements or returns if relevant, which reflect a variety of historical and hypothetical market conditions. Sensitivity analysis must use actual portfolios and, where applicable, hypothetical portfolios that reflect the characteristics of proprietary positions and customer positions;
+(i) Considers the impact on the model of both moderate and extreme changes in a wide range of inputs, parameters, and assumptions, including correlations of price movements or returns if relevant, which reflect a variety of historical and hypothetical market conditions;
 
-(ii) When performed by or on behalf of a covered clearing agency involved in activities with a more complex risk profile, considers the most volatile relevant periods, where practical, that have been experienced by the markets served by the clearing agency; and
+(ii) Uses actual portfolios and, where applicable, hypothetical portfolios that reflect the characteristics of proprietary positions and customer positions;
 
-(iii) Tests the sensitivity of the model to stressed market conditions, including the market conditions that may ensue after the default of a member and other extreme but plausible conditions as defined in a covered clearing agency's risk policies.
+(iii) Considers the most volatile relevant periods, where practical, that have been experienced by the markets served by the clearing agency; and
+
+(iv) Tests the sensitivity of the model to stressed market conditions, including the market conditions that may ensue after the default of a member and other extreme but plausible conditions as defined in a covered clearing agency's risk policies.
 
 (17) *Stress testing* means the estimation of credit or liquidity exposures that would result from the realization of potential stress scenarios, such as extreme price changes, multiple defaults, or changes in other valuation inputs and assumptions.
 
@@ -336,4 +336,4 @@ Link to an amendment published at 85 FR 28867, May 14, 2020.
 
 (f) For purposes of enforcing the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*), a designated clearing agency for which the Commission acts as supervisory agency shall be subject to, and the Commission shall have the authority under, the provisions of paragraphs (b) through (n) of Section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the same extent as if such designated clearing agency were an insured depository institution and the Commission were the appropriate Federal banking agency for such insured depository institution.
 
-[77 FR 66285, Nov. 2, 2012, as amended at 81 FR 70901, Oct. 13, 2016]
+[77 FR 66285, Nov. 2, 2012, as amended at 81 FR 70901, Oct. 13, 2016; 85 FR 28867, May 14, 2020]

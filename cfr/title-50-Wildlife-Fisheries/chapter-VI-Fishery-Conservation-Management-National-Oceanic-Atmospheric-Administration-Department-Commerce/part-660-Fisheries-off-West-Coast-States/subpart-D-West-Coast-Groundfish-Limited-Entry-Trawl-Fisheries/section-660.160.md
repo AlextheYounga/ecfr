@@ -1,7 +1,5 @@
 ##### § 660.160 Catcher/processor (C/P) Coop Program. #####
 
-Link to an amendment published at 85 FR 35601, June 11, 2020.
-
 (a) *General.* The C/P Coop Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary coop. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Coop Program is subject to the following groundfish regulations:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
@@ -197,6 +195,8 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 (ii) *Observer workload.* The time required for the observer to complete sampling duties must not exceed 12 consecutive hours in each 24-hour period.
 
 (iii) *Refusal to board.* Any boarding refusal on the part of the observer or vessel must be reported to the Observer Program and OLE by the observer provider. The observer must be available for an interview with the Observer Program or OLE if necessary.
+
+(iv) *Gear testing exemption.* Vessels exempt from the requirement to maintain observer coverage as specified in this paragraph (g) while gear testing as defined at § 660.11. The vessel operator must submit a valid declaration for gear/equipment testing, as required by § 660.13(d)(4)(iv)(A), and must notify the Observer Program of the gear testing activity at least 48 hours prior to departing on a trip to test gear/equipment.
 
 (2) *Vessel responsibilities.* An operator and/or crew of a vessel required to carry an observer must provide:
 
@@ -552,4 +552,4 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 37029, June 19, 2020]Effective Date Note:At 85 FR 37029, June 19, 2020, § 660.160 was amended by adding paragraphs (b)(1)(i)(D), (b)(1)(ii)(A)(*1*) and (*2*), (e)(1)(iii)(A) and (B), and (e)(2)(i)(A) and (B), effective June 19, 2020, until Dec. 16, 2020.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020]Effective Date Note:At 85 FR 37029, June 19, 2020, § 660.160 was amended by adding paragraphs (b)(1)(i)(D), (b)(1)(ii)(A)(*1*) and (*2*), (e)(1)(iii)(A) and (B), and (e)(2)(i)(A) and (B), effective June 19, 2020, until Dec. 16, 2020.

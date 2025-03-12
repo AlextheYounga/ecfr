@@ -1,7 +1,5 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 85 FR 35600, June 11, 2020.
-
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
@@ -74,7 +72,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (3) *Deep-sea Ecosystem Conservation Area* or *DECA* is the area within the EEZ deeper than 3,500 m (1,914 fm) that is not designated as EFH, defined at § 660.75 with latitude and longitude coordinates. The DECA is closed to bottom contact gear for the reasons described under MSA Section 303(b), and contributes to the protection of deep-water habitats including deep-sea corals. Fishing prohibitions associated with DECAs, at § 660.12, are in addition to those associated with other conservation areas.
 
-*Continuous transiting or transit through* means that a fishing vessel crosses a groundfish conservation area or EFH conservation area on a constant heading, along a continuous straight line course, while making way by means of a source of power at all times, other than drifting by means of the prevailing water current or weather conditions.
+*Continuous transiting or transit through* means that a vessel crosses a groundfish conservation area or EFHCA on a heading as nearly as practicable to a direct route, consistent with navigational safety, while maintaining expeditious headway throughout the transit without loitering or delay.
 
 *Corporation* means a legal, business entity, including incorporated (INC) and limited liability corporations (LLC).
 
@@ -195,6 +193,8 @@ These definitions are specific to the fisheries covered in subparts C through G 
 *Fishing vessel.* (*See* § 600.10 of this chapter)
 
 *Fund* means, for the purposes of subparts C through G of this part, the U.S. Treasury's Limited Access System Administration Fund (LASAF) established by the Magnuson-Stevens Act, 16 U.S.C. 1855(h)(5)(B), specifically the LASAF subaccounts associated with the PCGFMP cost recovery programs.
+
+*Gear testing* means the deployment of lawful gear without retaining fish, for the following purposes, including, but not limited to: Deployment of nets using open codends; calibration of engines and transmission under load (*i.e.,* towing a net with an open codend); deployment of wire and/or doors; testing new electronic equipment associated with deploying fishing gear; and testing and calibration of newly installed propulsion systems (*i.e.,* engine, transmission, shaft, propeller, etc.).
 
 *Grandfathered or first generation,* when referring to a limited entry sablefish-endorsed permit owner, means those permit owners who owned a sablefish-endorsed limited entry permit prior to November 1, 2000, and are, therefore, exempt from certain requirements of the sablefish permit stacking program within the parameters of the regulations at § 660.25(b), subpart C and § 660.231, subpart E.
 
@@ -529,4 +529,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020]

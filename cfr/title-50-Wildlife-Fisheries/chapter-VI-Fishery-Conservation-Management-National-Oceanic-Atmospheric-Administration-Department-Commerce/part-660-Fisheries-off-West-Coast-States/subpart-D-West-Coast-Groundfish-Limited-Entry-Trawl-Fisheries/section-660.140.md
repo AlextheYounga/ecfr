@@ -1,7 +1,5 @@
 ##### § 660.140 Shorebased IFQ Program. #####
 
-Link to an amendment published at 85 FR 35601, June 11, 2020.
-
 (a) *General.* The regulations in this section apply to the Shorebased IFQ Program. The Shorebased IFQ Program includes a system of transferable QS for most groundfish species or species groups, IBQ for Pacific halibut, and trip limits or set-asides for the remaining groundfish species or species groups. NMFS will issue a QS permit to eligible participants and will establish a QS account for each QS permit owner to track the amount of QS or IBQ and QP or IBQ pounds owned by that owner. QS permit owners may own QS or IBQ for IFQ species, expressed as a percent of the allocation to the Shorebased IFQ Program for that species. NMFS will issue QP or IBQ pounds to QS permit owners, expressed in pounds, on an annual basis, to be deposited in the corresponding QS account. NMFS will establish a vessel account for each eligible vessel owner participating in the Shorebased IFQ Program, which is independent of the QS permit and QS account. In order to use QP or IBQ pounds, a QS permit owner must transfer the QP or IBQ pounds from the QS account into the vessel account for the vessel to which the QP or IBQ pounds is to be assigned. Harvests of IFQ species may only be delivered to an IFQ first receiver with a first receiver site license. In addition to the requirements of this section, the Shorebased IFQ Program is subject to the following groundfish regulations of subparts C and D:
 
 (1) Regulations set out in the following sections of subpart C: § 660.11 Definitions, § 660.12 Prohibitions, § 660.13 Recordkeeping and reporting, § 660.14 VMS requirements, § 660.15 Equipment requirements, § 660.16 Groundfish observer program, § 660.20 Vessel and gear identification, § 660.25 Permits, § 660.55 Allocations, § 660.60 Specifications and management measures, § 660.65 Groundfish harvest specifications, and §§ 660.70 through 660.79 Closed areas.
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 
 (iv) Between 34°27′ N lat. and the U.S./Mexico border.
 
-(2) [Reserved]
+(2) *Moving pot or trap gear between multiple IFQ management areas.* A vessel using fixed gear declared into the limited entry groundfish non-trawl Shorebased IFQ fishery may deploy pot or trap gear in multiple IFQ management areas on a trip provided the vessel does not retrieve gear from more than one IFQ management area during a trip.
 
 (3) *IFQ program allocations.* Allocations for the Shorebased IFQ Program are determined for IFQ species as follows:
 
@@ -930,6 +928,8 @@ Pacific Halibut
 (*3*) Is exempt from the requirement to maintain observer coverage as specified in this paragraph (h) while remaining docked in port when the observer makes available to the catch monitor an Observer Program reporting form documenting the weight and number of any overfished species listed under a rebuilding plan at § 660.40 retained during that trip and which documents any discrepancy the vessel operator and observer may have in the weights and number of the overfished species, unless modified inseason under routine management measures at § 660.60(c)(1).
 
 (*4*) Is exempt from the requirement to carry an observer if the vessel has a valid EM Authorization and is fishing with EM under § 660.604 of subpart J.
+
+(*5*) Is exempt from the requirement to maintain observer coverage as specified in this paragraph (h) while gear testing as defined in § 660.11. The vessel operator must submit a valid declaration for gear/equipment testing, as required by § 660.13(d)(4)(iv)(A), and must notify the Observer Program of the gear testing activity at least 48 hours prior to departing on a trip to test gear/equipment.
 
 (B) Any vessel 125 ft (38.1 m) LOA or longer that is engaged in at-sea processing must carry two certified observers, and any vessel shorter than 125 ft (38.1 m) LOA that is engaged in at-sea processing must carry one certified observer, each day that the vessel is used to take, retain, receive, land, process, or transport groundfish.
 

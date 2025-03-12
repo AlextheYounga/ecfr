@@ -1,7 +1,5 @@
 ##### § 156.20 Definitions. #####
 
-Link to an amendment published at 85 FR 29261, May 14, 2020.
-
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Actuarial value (AV)* means the percentage paid by a health plan of the percentage of the total allowed costs of benefits.
@@ -36,8 +34,6 @@ The following definitions apply to this part, unless the context indicates other
 
 *Federally-facilitated SHOP* has the meaning given to the term in § 155.20 of this subchapter.
 
-*Generic* means a drug for which an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) is approved.
-
 *Group health plan* has the meaning given to the term in § 144.103 of this subtitle.
 
 *Health insurance coverage* has the meaning given to the term in § 144.103 of this subtitle.
@@ -64,4 +60,4 @@ The following definitions apply to this part, unless the context indicates other
 
 *Registered user of the enrollee satisfaction survey data warehouse* means enrollee satisfaction survey vendors, QHP issuers, and Exchanges authorized to access CMS's secure data warehouse to submit survey data and to preview survey results prior to public reporting.
 
-[77 FR 18468, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 12865, Feb. 25, 2013; 78 FR 15535, Mar. 11, 2013; 78 FR 54142, Aug. 30, 2013; 78 FR 65096, Oct. 30, 2013; 80 FR 10871, Feb. 27, 2015; 84 FR 17567, Apr. 25, 2019]
+[77 FR 18468, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 12865, Feb. 25, 2013; 78 FR 15535, Mar. 11, 2013; 78 FR 54142, Aug. 30, 2013; 78 FR 65096, Oct. 30, 2013; 80 FR 10871, Feb. 27, 2015; 84 FR 17567, Apr. 25, 2019; 85 FR 29261, May 14, 2020]

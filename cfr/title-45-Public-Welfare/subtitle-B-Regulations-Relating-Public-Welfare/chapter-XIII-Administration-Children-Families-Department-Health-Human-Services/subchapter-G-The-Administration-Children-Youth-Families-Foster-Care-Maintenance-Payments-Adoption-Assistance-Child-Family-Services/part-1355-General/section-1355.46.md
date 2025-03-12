@@ -1,7 +1,5 @@
 ##### § 1355.46 Compliance. #####
 
-Link to an amendment published at 85 FR 28434, May 12, 2020.
-
 (a) *Files subject to compliance.* ACF will evaluate the out-of-home care and adoption and guardianship assistance data files that a title IV-E agency submits to determine whether the data complies with the requirements of § 1355.43 and the data file submission and data quality standards described in paragraphs (c) and (d) of this section. ACF will exempt records related to a child in either data file whose 18th birthday occurred in a prior report period and will exempt records relating to a child in the adoption and guardianship assistance data file who is in a title IV-E guardianship from a compliance determination as described in paragraph (e) of this section.
 
 (b) *Errors.* ACF will utilize the error definitions in paragraphs (b)(1) through (5) of this section to assess a title IV-E agency's out-of-home care and adoption and guardianship assistance data files. This assessment of errors will help ACF to determine if the title IV-E agency's submitted data files meet the data file submission and data quality standards outlined in paragraphs (c) and (d) of this section. ACF will develop and issue error specifications.
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 28434, May 12, 2020.
 
 (1) *Timely submission.* ACF must receive the data files on or before the reporting deadline described in § 1355.43(a).
 
-(2) *Proper format.* The data files must meet the technical standards issued by ACF for data file construction and transmission. In addition, each record subject to compliance standards within the data file must have the data elements described in §§ 1355.44(a)(1) through (4), 1355.44(b)(1) and (b)(2)(i), 1355.45(a), and 1355.45(b)(1) and (2) be 100 percent free of missing data, invalid data and internally inconsistent data (see paragraphs (b)(1) through (3) of this section). ACF will not process a title IV-E agency's data file that does not meet the proper format standard.
+(2) *Proper format.* The data files must meet the technical standards issued by ACF for data file construction and transmission. In addition, each record subject to compliance standards within the data file must have the data elements described in §§ 1355.44(a) and (b)(1) and (2) and 1355.45(a) and (b)(1) and (2) be 100 percent free of missing data, invalid data, and internally inconsistent data (see paragraphs (b)(1) through (3) of this section). ACF will not process a title IV-E agency's data file that does not meet the proper format standard.
 
 (d) *Data quality standards.* (1) To be in compliance with the AFCARS requirements, the title IV-E agency must submit a data file that has no more than 10 percent total of missing, invalid, or internally inconsistent data, or tardy transactions for each data element of applicable records. These standards are in addition to the formatting standards described in paragraph (c)(2) of this section.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 28434, May 12, 2020.
 
 (g) *Other assessments.* ACF may use other monitoring tools or assessment procedures to determine whether the title IV-E agency is meeting all of the requirements of §§ 1355.41 through 1355.45.
 
-[81 FR 90569, Dec. 14, 2016]
+[81 FR 90569, Dec. 14, 2016, as amended at 85 FR 28434, May 12, 2020]

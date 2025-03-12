@@ -1,12 +1,10 @@
 ##### § 155.430 Termination of Exchange enrollment or coverage. #####
 
-Link to an amendment published at 85 FR 29260, May 14, 2020.
-
 (a) *General requirements.* The Exchange must determine the form and manner in which enrollment in a QHP through the Exchange may be terminated.
 
-(b) *Termination events* - (1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.
+(b) *Termination events*—(1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.
 
-(ii) The Exchange must provide an opportunity at the time of plan selection for an enrollee to choose to remain enrolled in a QHP if he or she becomes eligible for other minimum essential coverage and the enrollee does not request termination in accordance with paragraph (b)(1)(i) of this section. If an enrollee does not choose to remain enrolled in a QHP in such a situation, the Exchange must initiate termination of his or her enrollment in the QHP upon completion of the redetermination process specified in § 155.330.
+(ii) The Exchange must provide an opportunity at the time of plan selection for an enrollee to choose to remain enrolled in a QHP if he or she becomes eligible for other minimum essential coverage and the enrollee does not request termination in accordance with paragraph (b)(1)(i) of this section. If an enrollee does not choose to remain enrolled in a QHP in such situation, the Exchange must initiate termination of his or her enrollment in the QHP upon completion of the process specified in § 155.330(e)(2).
 
 (iii) The Exchange must establish a process to permit individuals, including enrollees' authorized representatives, to report the death of an enrollee for purposes of initiating termination of the enrollee's Exchange enrollment. The Exchange may require the reporting party to submit documentation of the death. Any applicable premium refund, or premium due, must be processed by the deceased enrollee's QHP in accordance with State law.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (vii) Any other reason for termination of coverage described in § 147.106 of this subchapter.
 
-(c) *Termination of coverage or enrollment tracking and approval.* The Exchange must -
+(c) *Termination of coverage or enrollment tracking and approval.* The Exchange must—
 
 (1) Establish mandatory procedures for QHP issuers to maintain records of termination of enrollment in a QHP through the Exchange;
 
@@ -48,13 +46,13 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (4) Retain records in order to facilitate audit functions.
 
-(d) *Effective dates for termination of coverage or enrollment.* (1) For purposes of this section -
+(d) *Effective dates for termination of coverage or enrollment.* (1) For purposes of this section—
 
 (i) Reasonable notice is defined as at least fourteen days before the requested effective date of termination; and
 
 (ii) Changes in eligibility for advance payments of the premium tax credit and cost sharing reductions, including terminations, must adhere to the effective dates specified in § 155.330(f).
 
-(2) In the case of a termination in accordance with paragraph (b)(1) of this section, the last day of enrollment through the Exchange is -
+(2) In the case of a termination in accordance with paragraph (b)(1) of this section, the last day of enrollment through the Exchange is—
 
 (i) The termination date specified by the enrollee, if the enrollee provides reasonable notice;
 
@@ -80,7 +78,7 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (8) In cases of retroactive termination dates, the Exchange will ensure that appropriate actions are taken to make necessary adjustments to advance payments of the premium tax credit, cost-sharing reductions, premiums, claims, and user fees.
 
-(9) In case of a retroactive termination in accordance with paragraph (b)(1)(iv)(A) of this section, the termination date will be no sooner than 14 days after the date that the enrollee can demonstrate he or she contacted the Exchange to terminate his or her coverage or enrollment through the Exchange, unless the issuer agrees to an earlier effective date as set forth in paragraph (d)(2)(iii) of this section.
+(9) In case of a retroactive termination in accordance with paragraph (b)(1)(iv)(A) of this section, the termination date will be no sooner than the date that would have applied under paragraph (d)(2) of this section, based on the date that the enrollee can demonstrate he or she contacted the Exchange to terminate his or her coverage or enrollment through the Exchange, had the technical error not occurred.
 
 (10) In case of a retroactive cancellation or termination in accordance with paragraph (b)(1)(iv)(B) or (C) of this section, the cancellation date or termination date will be the original coverage effective date or a later date, as determined appropriate by the Exchange, based on the circumstances of the cancellation or termination.
 
@@ -96,4 +94,4 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (3) *Reinstatement.* A reinstatement is a correction of an erroneous termination or cancellation action and results in restoration of an enrollment with no break in coverage.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018; 85 FR 29260, May 14, 2020]

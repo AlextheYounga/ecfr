@@ -1,7 +1,5 @@
 ##### § 660.13 Recordkeeping and reporting. #####
 
-Link to an amendment published at 85 FR 35600, June 11, 2020.
-
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 
 (1) *Trawl logbook.* In the absence of a state trawl logbook requirement based on the port of landing, the authorized representative of the commercial trawl fishing vessel registered to a limited entry permit with a trawl gear endorsement participating in the Shorebased IFQ Program groundfish trawl fisheries must keep and submit a complete and accurate record of fishing activities in the trawl logbook form. The following requirements apply:
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 35600, June 11, 2020.
 
 (i) Limited entry trawl vessels fishing in the Shorebased IFQ Program must provide NMFS OLE with a new declaration report each time a different groundfish trawl gear (bottom or midwater only) is fished. The declaration may be made from sea and must be made to NMFS before a different type (bottom or midwater only) of groundfish trawl gear is fished.
 
-(ii) [Reserved]
+(ii) Limited entry midwater trawl vessels targeting Pacific whiting may change their declarations while at sea between the Pacific whiting shorebased IFQ sector and the mothership sector as specified at paragraph (d)(4)(iv)(A) of this section. The declaration must be made to NMFS before a different sector is fished.
 
 (2) *Declaration reports for all vessels using non-groundfish trawl gear.* The operator of any vessel that is not registered to a limited entry permit and which uses non-groundfish trawl gear to fish in the EEZ (3-200 nm offshore), must provide NMFS OLE with a declaration report, as specified at paragraph (d)(4)(iv) of this section, before the vessel leaves port to fish in the EEZ.
 
@@ -106,8 +104,10 @@ Link to an amendment published at 85 FR 35600, June 11, 2020.
 
 (*29*) Open access California gillnet complex gear.
 
+(*30*) Gear testing.
+
 (B) [Reserved]
 
 (v) Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Vessel owners or operators are responsible for retaining the confirmation code or receipt to verify that a valid declaration report was filed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020]

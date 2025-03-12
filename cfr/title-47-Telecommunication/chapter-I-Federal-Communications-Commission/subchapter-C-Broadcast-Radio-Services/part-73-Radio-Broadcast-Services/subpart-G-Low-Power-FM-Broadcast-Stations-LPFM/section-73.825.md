@@ -1,6 +1,6 @@
 ##### § 73.825 Protection to reception of TV channel 6. #####
 
-Link to an amendment published at 85 FR 35573, June 11, 2020.
+The following spacing requirements will apply to LPFM applications on Channels 201 through 220 unless the application is accompanied by a written agreement between the LPFM applicant and each affected TV Channel 6 broadcast station concurring with the proposed LPFM facilities.
 
 (a) LPFM stations will be authorized on Channels 201 through 220 only if the pertinent minimum separation distances in the following table are met with respect to all full power TV Channel 6 stations.
 
@@ -52,4 +52,4 @@ Link to an amendment published at 85 FR 35573, June 11, 2020.
 |       219       |              89               |
 |       220       |              89               |
 
-[65 FR 67303, Nov. 9, 2000, as amended at 78 FR 2106, Jan. 9, 2013]
+[65 FR 67303, Nov. 9, 2000, as amended at 78 FR 2106, Jan. 9, 2013; 85 FR 35573, June 11, 2020]

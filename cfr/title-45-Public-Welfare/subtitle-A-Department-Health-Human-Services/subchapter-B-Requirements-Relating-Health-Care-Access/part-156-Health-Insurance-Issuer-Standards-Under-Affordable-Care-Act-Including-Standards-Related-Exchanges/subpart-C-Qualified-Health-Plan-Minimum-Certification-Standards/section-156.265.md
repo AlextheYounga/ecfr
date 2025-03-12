@@ -1,16 +1,14 @@
 ##### § 156.265 Enrollment process for qualified individuals. #####
 
-Link to an amendment published at 85 FR 29261, May 14, 2020.
-
 (a) *General requirement.* A QHP issuer must process enrollment in accordance with this section.
 
-(b) *Enrollment through the Exchange for the individual market.* (1) A QHP issuer must enroll a qualified individual only if the Exchange -
+(b) *Enrollment through the Exchange for the individual market.* (1) A QHP issuer must enroll a qualified individual only if the Exchange—
 
 (i) Notifies the QHP issuer that the individual is a qualified individual; and
 
 (ii) Transmits information to the QHP issuer as provided in § 155.400(a) of this subchapter.
 
-(2) If an applicant initiates enrollment directly with the QHP issuer for enrollment through the Exchange, the QHP issuer must either -
+(2) If an applicant initiates enrollment directly with the QHP issuer for enrollment through the Exchange, the QHP issuer must either—
 
 (i) Direct the individual to file an application with the Exchange in accordance with § 155.310, or
 
@@ -36,8 +34,12 @@ Link to an amendment published at 85 FR 29261, May 14, 2020.
 
 (e) *Enrollment information package.* A QHP issuer must provide new enrollees an enrollment information package that is compliant with accessibility and readability standards established in § 155.230(b).
 
-(f) *Enrollment reconciliation.* A QHP issuer must reconcile enrollment files with the Exchange no less than once a month in accordance with § 155.400(d).
+(f) *Enrollment reconciliation.* A QHP issuer must reconcile enrollment files with the Exchange in a format specified by the Exchange (or, for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform) and resolve assigned updates no less than once a month in accordance with § 155.400(d) of this subchapter, using the most recent enrollment information that is available and that has been verified to the best of the issuer's knowledge or belief.
 
-(g) *Enrollment acknowledgement.* A QHP issuer must acknowledge receipt of enrollment information transmitted from the Exchange in accordance with Exchange standards established in accordance with § 155.400(b)(2) of this subchapter.
+(g) *Timely updates to enrollment records.* A QHP issuer offering plans through an Exchange must, in a format specified by the Exchange (or, for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform), either:
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 30351, May 27, 2014; 80 FR 10874, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016; 81 FR 94181, Dec. 22, 2016]
+(1) Verify to the Exchange (or, for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform) that the information in the enrollment reconciliation file received from the Exchange (or, for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform) accurately reflects its enrollment data for the applicable benefit year in its next enrollment reconciliation file submission to the Exchange (or, for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform), and update its internal enrollment records accordingly; or
+
+(2) Describe to the Exchange (or for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform) within one reconciliation cycle any discrepancy it identifies in the enrollment reconciliation files it received from the Exchange (or for QHP issuers in State Exchanges on the Federal Platform, the Federal Platform).
+
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 30351, May 27, 2014; 80 FR 10874, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016; 81 FR 94181, Dec. 22, 2016; 85 FR 29261, May 14, 2020]

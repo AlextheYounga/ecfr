@@ -1,7 +1,5 @@
 ##### § 3030.523 Calculation of percentage change in rates. #####
 
-Link to an amendment published at 85 FR 35809, June 12, 2020.
-
 (a) *Definitions.* In this section:
 
 (1) *Current rate* - (i) *In general.* Except as provided in paragraphs (a)(1)(ii) and (iii) of this section, the term *current rate* means the rate in effect when the Postal Service files the notice of rate adjustment.
@@ -38,10 +36,12 @@ Percentage change in rates =
 
 (2) A rate incentive may be included in a percentage change in rates calculation if it meets the following criteria:
 
-(i) The rate incentive is in the form of a discount or can be easily translated into a discount;
+(i) The rate incentive is in the form of a discount or can easily be translated into a discount;
 
-(ii) Sufficient billing determinants are available for the rate incentive to be included in the percentage change in rate calculation for the class, which may be adjusted based on known mail characteristics or historical volume data (as opposed to forecasts of mailer behavior); and
+(ii) Sufficient billing determinants are available for the rate incentive to be included in the percentage change in rate calculation for the class, which may be adjusted based on known mail characteristics or historical volume data (as opposed to forecasts of mailer behavior);
 
-(iii) The rate incentive is a rate of general applicability.
+(iii) The rate incentive is a rate of general applicability; and
 
-[79 FR 33833, June 12, 2014, as amended at 83 FR 4591, Feb. 1, 2018; 83 FR 52156, Oct. 16, 2018. Redesignated and amended at 85 FR 9615, 9657, Feb. 19, 2020]
+(iv) The rate incentive is made available to all mailers equally on the same terms and conditions.
+
+[79 FR 33833, June 12, 2014, as amended at 83 FR 4591, Feb. 1, 2018; 83 FR 52156, Oct. 16, 2018. Redesignated and amended at 85 FR 9615, 9657, Feb. 19, 2020; 85 FR 35809, June 12, 2020]

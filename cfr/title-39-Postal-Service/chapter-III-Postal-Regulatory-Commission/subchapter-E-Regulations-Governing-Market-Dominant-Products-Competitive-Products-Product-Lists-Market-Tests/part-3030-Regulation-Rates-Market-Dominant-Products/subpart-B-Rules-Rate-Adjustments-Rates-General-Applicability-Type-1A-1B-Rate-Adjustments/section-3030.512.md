@@ -1,7 +1,5 @@
 ##### § 3030.512 Contents of notice of rate adjustment. #####
 
-Link to an amendment published at 85 FR 35809, June 12, 2020.
-
 (a) A Type 1-A, Type 1-B, or Type 1-C notice of rate adjustment must include the following information:
 
 (1) A schedule of the planned rates;
@@ -32,9 +30,11 @@ Link to an amendment published at 85 FR 35809, June 12, 2020.
 
 (9) For a notice that includes a rate incentive:
 
-(i) If the rate incentive is a rate of general applicability, sufficient information to demonstrate that the rate incentive is a rate of general applicability; and
+(i) Whether the rate incentive is being treated under § 3030.523(e)(2) or under §§ 3030.523(e)(1) and 3030.524.
 
-(ii) Whether the Postal Service has excluded the rate incentive from the calculation of the percentage change in rates under § 3030.523(e) or § 3030.524.
+(ii) If the Postal Service seeks to include the rate incentive in the calculation of the percentage change in rates under § 3030.523(e)(2), whether the rate incentive is available to all mailers equally on the same terms and conditions.
+
+(iii) If the Postal Service seeks to include the rate incentive in the calculation of the percentage change in rates under § 3030.523(e)(2), sufficient information to demonstrate that the rate incentive is a rate of general applicability, which at a minimum includes: The terms and conditions of the rate incentive; the factors that determine eligibility for the rate incentive; a statement that affirms that the rate incentive will not benefit a single mailer; and a statement that affirms that the rate incentive is not only available upon the written agreement of both the Postal Service and a mailer, or group of mailers, or a foreign postal operator.
 
 (10) For a Type 1-C rate adjustment, whether the Postal Service elects to generate unused rate adjustment authority.
 
@@ -60,4 +60,4 @@ Link to an amendment published at 85 FR 35809, June 12, 2020.
 
 (f) All cost, avoided cost, volume, and revenue figures submitted with the notice of rate adjustment shall be developed from the most recent applicable Commission approved analytical principles.
 
-[78 FR 52704, Aug. 26, 2013, as amended at 79 FR 33832, June 12, 2014. Redesignated and amended at 85 FR 9615, 9657, Feb. 19, 2020]
+[78 FR 52704, Aug. 26, 2013, as amended at 79 FR 33832, June 12, 2014. Redesignated and amended at 85 FR 9615, 9657, Feb. 19, 2020; 85 FR 35809, June 12, 2020]

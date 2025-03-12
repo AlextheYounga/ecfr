@@ -1,7 +1,5 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 85 FR 29260, May 14, 2020.
-
 (a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
 (2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
@@ -10,17 +8,21 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (4) *Use of special enrollment periods by enrollees.* (i) If an enrollee has gained a dependent in accordance with paragraph (d)(2)(i) of this section, the Exchange must allow the enrollee to add the dependent to his or her current QHP, or, if the current QHP's business rules do not allow the dependent to enroll, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or, at the option of the enrollee or dependent, enroll the dependent in any separate QHP.
 
-(ii) If an enrollee and his or her dependents become newly eligible for cost-sharing reductions in accordance with paragraph (d)(6)(i) or (ii) of this section and are not enrolled in a silver-level QHP, the Exchange must allow the enrollee and his or her dependents to change to a silver-level QHP if they elect to change their QHP enrollment.
+(ii)(A) If an enrollee and his or her dependents become newly eligible for cost-sharing reductions in accordance with paragraph (d)(6)(i) or (ii) of this section and are not enrolled in a silver-level QHP, the Exchange must allow the enrollee and his or her dependents to change to a silver-level QHP if they elect to change their QHP enrollment; or
 
-(iii) For the other triggering events specified in paragraph (d) of this section, except for paragraphs (d)(2)(i), (d)(4), and (d)(6)(i) and (ii) of this section for becoming newly eligible for cost-sharing reductions, and paragraphs (d)(8), (9), (10), (12), and (14) of this section:
+(B) Beginning January 2022, if an enrollee and his or her dependents become newly ineligible for cost-sharing reductions in accordance with paragraph (d)(6)(i) or (ii) of this section and are enrolled in a silver-level QHP, the Exchange must allow the enrollee and his or her dependents to change to a QHP one metal level higher or lower, if they elect to change their QHP enrollment.
 
-(A) If an enrollee qualifies for a special enrollment period, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter; or
+(iii) For the other triggering events specified in paragraph (d) of this section, except for paragraphs (d)(2)(i), (d)(4), and (d)(6)(i) and (ii) of this section for becoming newly eligible or ineligible for CSRs and paragraphs (d)(8), (9), (10), (12), and (14) of this section:
 
-(B) If a dependent qualifies for a special enrollment period, and an enrollee is adding the dependent to his or her QHP, the Exchange must allow the enrollee to add the dependent to his or her current QHP; or, if the QHP's business rules do not allow the dependent to enroll, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or enroll the new qualified individual in a separate QHP.
+(A) If an enrollee qualifies for a special enrollment period, the Exchange must allow the enrollee and his or her dependents, if applicable, to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter;
+
+(B) If a dependent qualifies for a special enrollment period, and an enrollee who does not also qualify for a special enrollment period is adding the dependent to his or her QHP, the Exchange must allow the enrollee to add the dependent to his or her current QHP; or, if the QHP's business rules do not allow the dependent to enroll, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or enroll the new qualified individual in a separate QHP; or
+
+(C) If a qualified individual who is not an enrollee qualifies for a special enrollment period and has one or more dependents who are enrollees who do not also qualify for a special enrollment period, the Exchange must allow the newly enrolling qualified individual to add himself or herself to a dependent's current QHP; or, if the QHP's business rules do not allow the qualified individual to enroll in the dependent's current QHP, to enroll with his or her dependent(s) in another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or enroll himself or herself in a separate QHP.
 
 (5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) or demonstrate that they had coverage as described in paragraphs (d)(1)(iii) or (iv) of this section for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; are an Indian as defined by section 4 of the Indian Health Care Improvement Act; or lived for 1 or more days during the 60 days preceding the qualifying event or during their most recent preceding enrollment period, as specified in §§ 155.410 and 155.420, in a service area where no qualified health plan was available through the Exchange.
 
-(b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2), (3), and (5) of this section, for a QHP selection received by the Exchange from a qualified individual -
+(b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2) and (3) of this section, for a QHP selection received by the Exchange from a qualified individual -
 
 (i) Between the first and the fifteenth day of any month, the Exchange must ensure a coverage effective date of the first day of the following month; and
 
@@ -38,15 +40,11 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (vi) If a qualified individual, enrollee, or dependent newly gains access to an individual coverage HRA or is newly provided a QSEHRA, each as described in paragraph (d)(14) of this section, and if the plan selection is made before the day of the triggering event, the Exchange must ensure that coverage is effective on the first day of the month following the date of the triggering event or, if the triggering event is on the first day of a month, on the date of the triggering event. If the plan selection is made on or after the day of the triggering event, the Exchange must ensure that coverage is effective on the first day of the month following plan selection.
 
-(3) *Option for earlier effective dates.* Subject to the Exchange demonstrating to HHS that all of its participating QHP issuers agree to effectuate coverage in a timeframe shorter than discussed in paragraph (b)(1) or (b)(2)(ii) of this section, the Exchange may do one or both of the following for all applicable individuals:
+(3) *Option for earlier effective dates.* (i) For a QHP selection received by the Exchange under a special enrollment period for which regular effective dates specified in paragraph (b)(1) of this section would apply, the Exchange may provide a coverage effective date that is earlier than specified in such paragraph, and, beginning January 2022, a Federally-facilitated Exchange or a State Exchange on the Federal platform will ensure that coverage is effective on the first day of the month following plan selection.
 
-(i) For a QHP selection received by the Exchange from a qualified individual in accordance with the dates specified in paragraph (b)(1) or (b)(2)(ii) of this section, the Exchange may provide a coverage effective date for a qualified individual earlier than specified in such paragraphs.
-
-(ii) For a QHP selection received by the Exchange from a qualified individual on a date set by the Exchange after the fifteenth of the month, the Exchange may provide a coverage effective date of the first of the following month.
+(ii) For a QHP selection received by the Exchange under a special enrollment period for which special effective dates specified in paragraph (b)(2)(ii) of this section would apply, the Exchange may provide a coverage effective date that is earlier than specified in such paragraph.
 
 (4) *Advance payments of the premium tax credit and cost-sharing reductions.* Notwithstanding the standards of this section, the Exchange must ensure that advance payments of the premium tax credit and cost-sharing reductions adhere to the effective dates specified in § 155.330(f).
-
-(5) *Option for later coverage effective dates due to prolonged eligibility verification.* At the option of the consumer, the Exchange must provide for a coverage effective date that is no more than 1 month later than the effective date specified in this paragraph (b) if a consumer's enrollment is delayed until after the verification of the consumer's eligibility for a special enrollment period, and the assignment of a coverage effective date consistent with this paragraph (b) would result in the consumer being required to pay 2 or more months of retroactive premium to effectuate coverage or avoid cancellation.
 
 (c) *Availability and length of special enrollment periods* - (1) *General rule.* Unless specifically stated otherwise herein, a qualified individual or enrollee has 60 days from the date of a triggering event to select a QHP.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (i) Loses minimum essential coverage. The date of the loss of coverage is the last day the consumer would have coverage under his or her previous plan or coverage;
 
-(ii) Is enrolled in any non-calendar year group health plan or individual health insurance coverage, even if the qualified individual or his or her dependent has the option to renew such coverage. The date of the loss of coverage is the last day of the plan or policy year;
+(ii) Is enrolled in any non-calendar year group health plan, individual health insurance coverage, or qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of the Internal Revenue Code); even if the qualified individual or his or her dependent has the option to renew or re-enroll in such coverage. The date of the loss of coverage is the last day of the plan year;
 
 (iii) Loses pregnancy-related coverage described under section 1902(a)(10)(A)(i)(IV) and (a)(10)(A)(ii)(IX) of the Act (42 U.S.C. 1396a(a)(10)(A)(i)(IV), (a)(10)(A)(ii)(IX)) or loses access to health care services through coverage provided to a pregnant woman's unborn child, based on the definition of a child in 42 CFR 457.10. The date of the loss of coverage is the last day the qualified individual would have pregnancy-related coverage or access to health care services through the unborn child coverage; or
 
@@ -136,4 +134,4 @@ Link to an amendment published at 85 FR 29260, May 14, 2020.
 
 (2) Situations allowing for a rescission as specified in 45 CFR 147.128.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019; 84 FR 29027, June 20, 2019]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019; 84 FR 29027, June 20, 2019; 85 FR 29260, May 14, 2020]

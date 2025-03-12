@@ -1,7 +1,5 @@
 ##### § 158.150 Activities that improve health care quality. #####
 
-Link to an amendment published at 85 FR 29262, May 14, 2020.
-
 (a) *General requirements.* The report required in § 158.110 of this subpart must include expenditures for activities that improve health care quality, as described in this section.
 
 (b) *Activity requirements.* Activities conducted by an issuer to improve quality must meet the following requirements:
@@ -78,7 +76,9 @@ Link to an amendment published at 85 FR 29262, May 14, 2020.
 
 (*4*) Public health education campaigns that are performed in conjunction with State or local health departments;
 
-(*5*) Actual rewards, incentives, bonuses, reductions in copayments (excluding administration of such programs), that are not already reflected in premiums or claims should be allowed as a quality improvement activity for the group market to the extent permitted by section 2705 of the PHS Act;
+(*5*)(*i*) For MLR reporting years before 2021, actual rewards, incentives, bonuses, and reductions in copayments (excluding administration of such programs) that are not already reflected in premiums or claims should be allowed as a quality improvement activity for the group market to the extent permitted by section 2705 of the PHS Act;
+
+(*ii*) Beginning with the 2021 MLR reporting year, actual rewards, incentives, bonuses, reductions in copayments (excluding administration of such programs) that are not already reflected in premiums or claims, to the extent permitted by section 2705 of the PHS Act;
 
 (*6*) Any quality reporting and related documentation in non-electronic form for wellness and health promotion activities;
 
@@ -120,4 +120,4 @@ Link to an amendment published at 85 FR 29262, May 14, 2020.
 
 (14) Any function or activity not expressly included in paragraph (a) or (b) of this section, unless otherwise approved by and within the discretion of the Secretary, upon adequate showing by the issuer that the activity's costs support the definitions and purposes in this part or otherwise support monitoring, measuring or reporting health care quality improvement.
 
-[75 FR 74921, Dec. 1, 2010, as amended at 76 FR 76592, Dec. 7, 2011; 77 FR 28790, May 16, 2012; 79 FR 30352, May 27, 2014]
+[75 FR 74921, Dec. 1, 2010, as amended at 76 FR 76592, Dec. 7, 2011; 77 FR 28790, May 16, 2012; 79 FR 30352, May 27, 2014; 85 FR 29262, May 14, 2020]

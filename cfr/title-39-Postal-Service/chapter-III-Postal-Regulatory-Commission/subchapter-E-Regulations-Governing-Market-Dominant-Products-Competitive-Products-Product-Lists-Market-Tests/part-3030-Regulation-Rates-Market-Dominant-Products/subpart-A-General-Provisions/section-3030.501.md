@@ -1,7 +1,5 @@
 ##### § 3030.501 Definitions. #####
 
-Link to an amendment published at 85 FR 35809, June 12, 2020.
-
 (a) The definitions in paragraphs (b) through (m) of this section apply in this part.
 
 (b) *Annual limitation* means:
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 35809, June 12, 2020.
 
 (f) *Most recent Type 1-A or Type 1-B notice of rate adjustment,* when used in reference to a notice of rate adjustment for a class, means the most recent Type 1-A or Type 1-B notice of rate adjustment for that class.
 
-(g) *Rate of general applicability* means a rate applicable to all mail meeting standards established by the Mail Classification Schedule, the Domestic Mail Manual, and the International Mail Manual. A rate is not a rate of general applicability if eligibility for the rate is dependent on factors other than the characteristics of the mail to which the rate applies. A rate is not a rate of general applicability if it benefits a single mailer. A rate that is only available upon the written agreement of both the Postal Service and a mailer, a group of mailers, or a foreign postal operator is not a rate of general applicability.
+(g) Rate of general applicability means a rate applicable to all mail meeting standards established by the Mail Classification Schedule, the Domestic Mail Manual, and the International Mail Manual. A rate is not a rate of general applicability if eligibility for the rate is dependent on factors other than the characteristics of the mail to which the rate applies, including the volume of mail sent by a mailer in a past year or years. A rate is not a rate of general applicability if it benefits a single mailer. A rate that is only available upon the written agreement of both the Postal Service and a mailer, a group of mailers, or a foreign postal operator is not a rate of general applicability.
 
 (h) *Type 1-A rate adjustment* means a rate adjustment described in § 3030.504.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 35809, June 12, 2020.
 
 (2) In the case of a Type 1-C rate adjustment, the percentage calculated pursuant to § 3030.527.
 
-[79 FR 33831, June 12, 2014. Redesignated and amended at 85 FR 9615, 9656, Feb. 19, 2020]
+[79 FR 33831, June 12, 2014. Redesignated and amended at 85 FR 9615, 9656, Feb. 19, 2020; 85 FR 35809, June 12, 2020]

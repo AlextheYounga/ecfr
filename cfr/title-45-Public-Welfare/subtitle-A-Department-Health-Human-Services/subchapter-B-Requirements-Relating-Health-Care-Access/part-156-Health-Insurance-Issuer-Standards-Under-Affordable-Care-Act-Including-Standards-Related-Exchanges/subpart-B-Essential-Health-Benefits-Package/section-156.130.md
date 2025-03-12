@@ -1,7 +1,5 @@
 ##### § 156.130 Cost-sharing requirements. #####
 
-Link to an amendment published at 85 FR 29261, May 14, 2020.
-
 (a) *Annual limitation on cost sharing.* (1) For a plan year beginning in the calendar year 2014, cost sharing may not exceed the following:
 
 (i) For self-only coverage - the annual dollar limit as described in section 223(c)(2)(A)(ii)(I) of the Internal Revenue Code of 1986 as amended, for self-only coverage that that is in effect for 2014; or
@@ -30,10 +28,6 @@ Link to an amendment published at 85 FR 29261, May 14, 2020.
 
 (2) If such services are provided out-of-network, cost-sharing must be limited as provided in § 147.138(b)(3) of this subchapter.
 
-(h) *Use of drug manufacturer coupons.* For plan years beginning on or after January 1, 2020:
+(h) *Use of direct support offered by drug manufacturers.* Notwithstanding any other provision of this section, and to the extent consistent with State law, amounts paid toward reducing the cost sharing incurred by an enrollee using any form of direct support offered by drug manufacturers for specific prescription drugs may be, but are not required to be, counted toward the annual limitation on cost sharing, as defined in paragraph (a) of this section.
 
-(1) Notwithstanding any other provision of this section, and to the extent consistent with state law, amounts paid toward cost sharing using any form of direct support offered by drug manufacturers to enrollees to reduce or eliminate immediate out-of-pocket costs for specific prescription brand drugs that have an available and medically appropriate generic equivalent are not required to be counted toward the annual limitation on cost sharing (as defined in paragraph (a) of this section).
-
-(2) [Reserved]
-
-[78 FR 12866, Feb. 25, 2013, as amended at 79 FR 30350, May 27, 2014; 80 FR 10872, Feb. 27, 2015; 84 FR 17567, Apr. 25, 2019]
+[78 FR 12866, Feb. 25, 2013, as amended at 79 FR 30350, May 27, 2014; 80 FR 10872, Feb. 27, 2015; 84 FR 17567, Apr. 25, 2019; 85 FR 29261, May 14, 2020]

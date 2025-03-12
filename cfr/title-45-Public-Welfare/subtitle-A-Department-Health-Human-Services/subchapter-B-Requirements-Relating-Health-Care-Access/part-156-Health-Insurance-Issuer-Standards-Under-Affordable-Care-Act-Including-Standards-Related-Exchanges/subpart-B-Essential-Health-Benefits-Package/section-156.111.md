@@ -1,6 +1,4 @@
-##### § 156.111 State selection of EHB-benchmark plan for plan years beginning on or after January 1, 2020. #####
-
-Link to an amendment published at 85 FR 29261, May 14, 2020.
+##### § 156.111 State selection of EHB-benchmark plan for plan years beginning on or after January 1, 2020, and annual reporting of state-required benefits. #####
 
 (a) Subject to paragraphs (b), (c), (d) and (e) of this section, for plan years beginning on or after January 1, 2020, a State may change its EHB-benchmark plan by:
 
@@ -42,11 +40,11 @@ Link to an amendment published at 85 FR 29261, May 14, 2020.
 
 (c) The State must provide reasonable public notice and an opportunity for public comment on the State's selection of an EHB-benchmark plan that includes posting a notice on its opportunity for public comment with associated information on a relevant State website.
 
-(d) A State must notify HHS of the selection of a new EHB-benchmark plan by a date to be determined by HHS for each applicable plan year.
+(d) A State must notify HHS of the selection of a new EHB-benchmark plan by a date to be determined by HHS for each applicable plan year and, in accordance with paragraph (f) of this section, of any State-required benefits that are in addition to EHB identified under § 155.170(a)(3) of this subchapter.
 
 (1) If the State does not make a selection by the annual selection date, or its benchmark plan selection does not meet the requirements of this section and section 1302 of the PPACA, the State's EHB-benchmark plan for the applicable plan year will be that State's EHB-benchmark plan applicable for the prior year.
 
-(2) [Reserved]
+(2) If the State does not notify HHS of its State-required benefits that are in addition to EHB identified under § 155.170(a)(3) of this subchapter in accordance with paragraph (f) of this section, HHS will identify which benefits are in addition to EHB for the applicable plan year in the State, consistent with § 155.170(a)(2) of this subchapter.
 
 (e) A State changing its EHB-benchmark plan under this section must submit documents in a format and manner specified by HHS by a date determined by HHS. These must include:
 
@@ -62,4 +60,18 @@ Link to an amendment published at 85 FR 29261, May 14, 2020.
 
 (4) Other documentation specified by HHS, which is necessary to operationalize the State's EHB-benchmark plan.
 
-[83 FR 17068, Apr. 17, 2018]
+(f) A State must submit to HHS in a form and manner and by a date specified by HHS, a document that:
+
+(1) Is accurate as of the day that is at least 60 days prior to the annual reporting submission deadline set by HHS and that lists all State benefit requirements applicable to QHPs in the individual and/or small group market under state mandates imposed on or before December 31, 2011, and that were not withdrawn or otherwise no longer effective before December 31, 2011, and any State benefit requirements that were imposed any time after December 31, 2011;
+
+(2) Specifies which of those State-required benefits listed in accordance with paragraph (f)(1) of this section the State has identified as in addition to EHB and subject to defrayal in accordance with § 155.170 of this subchapter;
+
+(3) Specifies which of those State-required benefits listed in accordance with paragraph (f)(1) of this section the State has identified as not in addition to EHB and not subject to defrayal in accordance with § 155.170 of this subchapter, and describes the basis for the state's determination;
+
+(4) Provides other information about those State-required benefits listed in accordance with paragraph (f)(1) of this section that is necessary for HHS oversight, as specified by HHS;
+
+(5) Is signed by a state official with authority to make the submission on behalf of the state certifying the accuracy of the submission; and
+
+(6) Is updated annually, in a form and manner and by a date specified by HHS, to include any new State benefit requirements, and to indicate whether benefit requirements previously reported to HHS under this paragraph (f) have been amended, repealed, or otherwise affected by state regulatory or legislative action.
+
+[83 FR 17068, Apr. 17, 2018, as amended at 85 FR 29261, May 14, 2020]

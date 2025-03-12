@@ -32,6 +32,6 @@
 
 (ii) A brief description of the gift and the circumstances justifying acceptance; and
 
-(iii) The identity of the foregign government and the name and position of the individual who presented the gift.
+(iii) The identity of the foreign government and the name and position of the individual who presented the gift.
 
 (c) The information contained in the statements called for in paragraph (b) of this section is needed to comply with the statutory requirement that, not later than Janaury 31 of each year, the Secretary of State publish in the Federal Register a comprehensive listing of all such statements filed by Federal employees concerning gifts of more than minimal value received by them during the preceding year.

@@ -16,7 +16,7 @@
 
 (3) The veterinarian has completed initial accreditation training, using content provided by APHIS; and
 
-(4) The veterinarian has completed an orientation program approved by the Veterinarian-in-Charge for the State in which the veterinarian wishes to perform accredited duties, and upon completion of the orientation, has signed a written statement listing the date and place of orientation, the subjects covered in the orientation, and any written materials provided to the veterinarian at the orientation. The Veterinarian-in-Charge shall also give the State Animal Health Official an opportunity to review the contents of the orientation, and invite him or her to participate in developing orientation materials and conducting the orientation. The veterinarian applying for accreditation must have completed the orientation program within 3 years prior to submitting the application for accreditation. The orientation program shall include the following topics:
+(4) The veterinarian has completed an orientation program approved by the Veterinary Official for the State in which the veterinarian wishes to perform accredited duties, and upon completion of the orientation, has signed a written statement listing the date and place of orientation, the subjects covered in the orientation, and any written materials provided to the veterinarian at the orientation. The Veterinary Official shall also give the State Animal Health Official an opportunity to review the contents of the orientation, and invite him or her to participate in developing orientation materials and conducting the orientation. The veterinarian applying for accreditation must have completed the orientation program within 3 years prior to submitting the application for accreditation. The orientation program shall include the following topics:
 
 (i) Federal animal health laws, regulations, and rules;
 
@@ -36,7 +36,7 @@
 
 (ix) Animal health procedures, issues, and information resources relevant to the State in which the veterinarian wishes to perform accredited duties.
 
-(f) *Change in accreditation category -*  (1) *Category I to Category II.* A veterinarian who is accredited under Category I may become accredited under Category II if the veterinarian applies for accreditation under Category II by completing an application for accreditation, including certification that the applicant is able to perform the tasks listed in paragraph (g)(2) of this section, and submitting it to APHIS. The veterinarian must also have fulfilled the training requirements in § 161.3(b) that are associated with renewal of accreditation under Category II.
+(f) *Change in accreditation category*—(1) *Category I to Category II.* A veterinarian who is accredited under Category I may become accredited under Category II if the veterinarian applies for accreditation under Category II by completing an application for accreditation, including certification that the applicant is able to perform the tasks listed in paragraph (g)(2) of this section, and submitting it to APHIS. The veterinarian must also have fulfilled the training requirements in § 161.3(b) that are associated with renewal of accreditation under Category II.
 
 (2) *Category II to Category I.* A veterinarian who is accredited under Category II may become accredited under Category I if the veterinarian applies for accreditation under Category I by completing an application for accreditation, including certification that the applicant is able to perform the tasks listed in paragraph (g)(1) of this section, and submitting it to APHIS. The veterinarian must also have fulfilled the training requirements in § 161.3(b) that are associated with renewal of accreditation under Category I.
 
@@ -94,4 +94,4 @@
 
 (h) *Authorization to perform duties.* An accredited veterinarian may not perform accredited duties in a State until after receiving written authorization from APHIS. If a Category I accredited veterinarian completes the necessary training requirements and becomes a Category II accredited veterinarian, the veterinarian may not perform Category II accredited duties in a State until after receiving written authorization from APHIS.
 
-(Approved by the Office of Management and Budget under control number 0579-0297)[57 FR 54912, Nov. 23, 1992, as amended at 74 FR 65010, Dec. 9, 2009; 85 FR 10564, Feb. 25, 2020]
+(Approved by the Office of Management and Budget under control number 0579-0297)[57 FR 54912, Nov. 23, 1992, as amended at 74 FR 65010, Dec. 9, 2009; 85 FR 10564, Feb. 25, 2020; 85 FR 41905, July 13, 2020]

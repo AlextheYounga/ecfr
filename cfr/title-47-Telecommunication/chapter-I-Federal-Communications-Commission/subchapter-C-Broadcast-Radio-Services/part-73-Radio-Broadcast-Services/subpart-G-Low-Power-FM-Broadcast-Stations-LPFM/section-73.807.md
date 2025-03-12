@@ -1,7 +1,5 @@
 ##### § 73.807 Minimum distance separation between stations. #####
 
-Link to an amendment published at 85 FR 35573, June 11, 2020.
-
 Minimum separation requirements for LPFM stations are listed in the following paragraphs. Except as noted below, an LPFM station will not be authorized unless the co-channel, and first- and second-adjacent channel separations are met. An LPFM station need not satisfy the third-adjacent channel separations listed in paragraphs (a) through (c) of this section in order to be authorized. The third-adjacent channel separations are included for use in determining for purposes of § 73.810 which third-adjacent channel interference regime applies to an LPFM station. Minimum distances for co-channel and first-adjacent channel are separated into two columns. The left-hand column lists the required minimum separation to protect other stations and the right-hand column lists (for informational purposes only) the minimum distance necessary for the LPFM station to receive no interference from other stations assumed to be operating at the maximum permitted facilities for the station class. For second-adjacent channel, the required minimum distance separation is sufficient to avoid interference received from other stations.
 
 (a)(1) An LPFM station will not be authorized initially unless the minimum distance separations in the following table are met with respect to authorized FM stations, applications for new and existing FM stations filed prior to the release of the public notice announcing an LPFM window period, authorized LPFM stations, LPFM station applications that were timely-filed within a previous window, and vacant FM allotments. LPFM modification applications must either meet the distance separations in the following table or, if short-spaced, not lessen the spacing to subsequently authorized stations.
@@ -24,12 +22,12 @@ Minimum separation requirements for LPFM stations are listed in the following pa
 
 (b) In addition to meeting or exceeding the minimum separations in paragraph (a) of this section, new LPFM stations will not be autorized in Puerto Rico or the Virgin Islands unless the minimum distance separations in the following tables are met with respect to authorized or proposed FM stations:
 
-|Station class protected by LPFM|               Co-channel minimum separation (km)                |First-adjacent channel  <br/>minimum separation  <br/>(km)|Second and  <br/>third adjacent  <br/>channel  <br/>minimum  <br/>separation  <br/>(km) - required|   |   |
-|-------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------|---|---|
-|           Required            |For no  <br/>interference received from max. class  <br/>facility|                         Required                         |       For no  <br/>interference  <br/>received  <br/>from  <br/>max. class  <br/>facility        |   |   |
-|               A               |                               80                                |                           111                            |                                                70                                                |70 |42 |
-|              B1               |                               95                                |                           128                            |                                                82                                                |82 |53 |
-|               B               |                               138                               |                           179                            |                                               123                                                |123|92 |
+|Station class protected by LPFM|               Co-channel minimum separation (km)                |First-adjacent channel  <br/>minimum separation  <br/>(km)|Second and  <br/>third adjacent  <br/>channel  <br/>minimum  <br/>separation  <br/>(km)—required|   |   |
+|-------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------|---|---|
+|           Required            |For no  <br/>interference received from max. class  <br/>facility|                         Required                         |      For no  <br/>interference  <br/>received  <br/>from  <br/>max. class  <br/>facility       |   |   |
+|               A               |                               80                                |                           111                            |                                               70                                               |70 |42 |
+|              B1               |                               95                                |                           128                            |                                               82                                               |82 |53 |
+|               B               |                               138                               |                           179                            |                                              123                                               |123|92 |
 
 Note to paragraphs (a) and (b):
 
@@ -37,12 +35,12 @@ Minimum distance separations towards “grandfathered” superpowered Reserved B
 
 (c) In addition to meeting the separations specified in paragraphs (a) and (b), LPFM applications must meet the minimum separation requirements in the following table with respect to authorized FM translator stations, cutoff FM translator applications, and FM translator applications filed prior to the release of the Public Notice announcing the LPFM window period.
 
-| Distance to FM translator 60 dBu contour |   Co-channel minimum separation (km)   |First-adjacent channel  <br/>minimum separation (km)|Second and  <br/>third adjacent  <br/>channel  <br/>minimum  <br/>separation  <br/>(km) - required|   |   |
-|------------------------------------------|----------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------|---|---|
-|                 Required                 |For no  <br/>interference  <br/>received|                      Required                      |                             For no  <br/>interference  <br/>received                             |   |   |
-|            13.3 km or greater            |                   39                   |                         67                         |                                                28                                                |35 |21 |
-|Greater than 7.3 km, but less than 13.3 km|                   32                   |                         51                         |                                                21                                                |26 |14 |
-|              7.3 km or less              |                   26                   |                         30                         |                                                15                                                |16 | 8 |
+| Distance to FM translator 60 dBu contour |   Co-channel minimum separation (km)   |First-adjacent channel  <br/>minimum separation (km)|Second and  <br/>third adjacent  <br/>channel  <br/>minimum  <br/>separation  <br/>(km)—required|   |   |
+|------------------------------------------|----------------------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|---|---|
+|                 Required                 |For no  <br/>interference  <br/>received|                      Required                      |                            For no  <br/>interference  <br/>received                            |   |   |
+|            13.3 km or greater            |                   39                   |                         67                         |                                               28                                               |35 |21 |
+|Greater than 7.3 km, but less than 13.3 km|                   32                   |                         51                         |                                               21                                               |26 |14 |
+|              7.3 km or less              |                   26                   |                         30                         |                                               15                                               |16 | 8 |
 
 (d) Existing LPFM stations which do not meet the separations in paragraphs (a) through (c) of this section may be relocated provided that the separation to any short-spaced station is not reduced.
 
@@ -81,4 +79,10 @@ Minimum distance separations towards “grandfathered” superpowered Reserved B
 
 (4) The Commission will initiate international coordination of a LPFM proposal even where the above Canadian and Mexican spacing tables are met, if it appears that such coordination is necessary to maintain compliance with international agreements.
 
-[78 FR 2102, Jan. 9, 2013]
+(5)(i) LPFM stations located within 125 kilometers of the Mexican border are limited to 50 watts (0.05 kW) ERP, a 60 dBu service contour of 8.7 kilometers and a 34 dBu interfering contour of 32 kilometers in the direction of the Mexican border. LPFM stations may operate up to 100 watts in all other directions.
+
+(ii) LPFM stations located between 125 kilometers and 320 kilometers from the Mexican border may operate in excess of 50 watts, up to a maximum ERP of 100 watts. However, in no event shall the location of the 60 dBu contour lie within 116.3 kilometers of the Mexican border.
+
+(iii) Applications for LPFM stations within 320 kilometers of the Canadian border may employ an ERP of up to a maximum of 100 watts. The distance to the 34 dBu interfering contour may not exceed 60 kilometers in any direction.
+
+[78 FR 2102, Jan. 9, 2013, as amended at 85 FR 35573, June 11, 2020]
