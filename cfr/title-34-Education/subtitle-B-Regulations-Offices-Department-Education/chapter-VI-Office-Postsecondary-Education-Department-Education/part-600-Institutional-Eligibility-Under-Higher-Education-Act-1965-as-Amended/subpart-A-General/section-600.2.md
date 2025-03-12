@@ -120,8 +120,10 @@ The following definitions apply to terms used in this part:
 
 *State:* A State of the Union, American Samoa, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau. The latter three are also known as the Freely Associated States.
 
+*State authorization reciprocity agreement:* An agreement between two or more States that authorizes an institution located and legally authorized in a State covered by the agreement to provide postsecondary education through distance education or correspondence courses to students residing in other States covered by the agreement and does not prohibit any State in the agreement from enforcing its own statutes and regulations, whether general or specifically directed at all or a subgroup of educational institutions.
+
 *Teach-out plan:* A written plan developed by an institution that provides for the equitable treatment of students if an institution, or an institutional location that provides 100 percent of at least one program, ceases to operate before all students have completed their program of study, and may include, if required by the institution's accrediting agency, a teach-out agreement between institutions.
 
 *Title IV, HEA program:* Any of the student financial assistance programs listed in 34 CFR 668.1(c).
 
-(Authority: 20 U.S.C. 1001, 1002, 1071, *et seq.*, 1078-2, 1088, 1091, 1094, 1099b, 1099c, 1141; 26 U.S.C. 501(c))[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014]
+(Authority: 20 U.S.C. 1001, 1002, 1071, *et seq.*, 1078-2, 1088, 1091, 1094, 1099b, 1099c, 1141; 26 U.S.C. 501(c))[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016]

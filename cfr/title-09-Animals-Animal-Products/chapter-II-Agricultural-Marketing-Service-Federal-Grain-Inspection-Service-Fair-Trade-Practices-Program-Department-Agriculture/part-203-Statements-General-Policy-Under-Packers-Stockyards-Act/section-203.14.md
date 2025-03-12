@@ -6,7 +6,7 @@ The Guidelines
 
 (Note:
 
-In determining whether a packer has fulfilled its obligations toward its customers, the Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs) will recognize that there may be some exceptions to this general definition of “customer.” For example, the purchaser of distress merchandise would not be considered a “customer” simply on the basis of such purchase. Similarly, a retailer who purchases solely from other retailers or one who makes only sporadic purchases, or one who does not regularly sell the packer's product or who is a type of retail outlet not usually selling such products will not be considered a “customer” of the packer unless the packer has been put on notice that such retailer is selling its product.)
+In determining whether a packer has fulfilled its obligations toward its customers, the PSD will recognize that there may be some exceptions to this general definition of “customer.” For example, the purchaser of distress merchandise would not be considered a “customer” simply on the basis of such purchase. Similarly, a retailer who purchases solely from other retailers or one who makes only sporadic purchases, or one who does not regularly sell the packer's product or who is a type of retail outlet not usually selling such products will not be considered a “customer” of the packer unless the packer has been put on notice that such retailer is selling its product.)
 
 (b) *Competing customers* are all businesses that compete in the resale of the packer's products of like grade and quality at the same functional level of distribution, regardless of whether they purchase direct from the packer or through some intermediary.
 
@@ -76,4 +76,4 @@ Example:A customer subject to the Act should not induce or receive an allowance 
 
 8. *Cost justification.* It is no defense to a charge of unlawful discrimination in the payment of an allowance or the furnishing of a service for a packer to show that such payment or service could be justified through savings in the cost of manufacture, sale, or delivery.
 
-(Approved by the Office of Management and Budget under control number 0580-0015)[58 FR 52886, Oct. 13, 1993; 58 FR 58902, Nov. 4, 1993, as amended at 68 FR 75388, Dec. 31, 2003]
+(Approved by the Office of Management and Budget under control number 0580-0015)[58 FR 52886, Oct. 13, 1993; 58 FR 58902, Nov. 4, 1993, as amended at 68 FR 75388, Dec. 31, 2003; 84 Fr 56678, Oct. 23, 2019]

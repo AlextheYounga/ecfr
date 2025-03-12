@@ -26,6 +26,14 @@
 
 (ii) Awards only religious degrees or certificates including, but not limited to, a certificate of Talmudic studies, an associate of Biblical studies, a bachelor of religious studies, a master of divinity, or a doctor of divinity.
 
-(c) If an institution is offering postsecondary education through distance or correspondence education to students in a State in which it is not physically located or in which it is otherwise subject to State jurisdiction as determined by the State, the institution must meet any State requirements for it to be legally offering postsecondary distance or correspondence education in that State. An institution must be able to document to the Secretary the State's approval upon request.
+(c)(1)(i) If an institution that meets the requirements under paragraph (a)(1) of this section offers postsecondary education through distance education or correspondence courses to students residing in a State in which the institution is not physically located or in which the institution is otherwise subject to that State's jurisdiction as determined by that State, except as provided in paragraph (c)(1)(ii) of this section, the institution must meet any of that State's requirements for it to be legally offering postsecondary distance education or correspondence courses in that State. The institution must, upon request, document the State's approval to the Secretary; or
 
-(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010]
+(ii) If an institution that meets the requirements under paragraph (a)(1) of this section offers postsecondary education through distance education or correspondence courses in a State that participates in a State authorization reciprocity agreement, and the institution is covered by such agreement, the institution is considered to meet State requirements for it to be legally offering postsecondary distance education or correspondence courses in that State, subject to any limitations in that agreement and to any additional requirements of that State. The institution must, upon request, document its coverage under such an agreement to the Secretary.
+
+(2) If an institution that meets the requirements under paragraph (a)(1) of this section offers postsecondary education through distance education or correspondence courses to students residing in a State in which the institution is not physically located, for the institution to be considered legally authorized in that State, the institution must document that there is a State process for review and appropriate action on complaints from any of those enrolled students concerning the institution -
+
+(i) In each State in which the institution's enrolled students reside; or
+
+(ii) Through a State authorization reciprocity agreement which designates for this purpose either the State in which the institution's enrolled students reside or the State in which the institution's main campus is located.
+
+(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016]

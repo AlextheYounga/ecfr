@@ -1,5 +1,7 @@
 ##### § 205.605 Nonagricultural (nonorganic) substances allowed as ingredients in or on processed products labeled as “organic” or “made with organic (specified ingredients or food group(s)).” #####
 
+Link to an amendment published at 84 FR 56677, Oct. 23, 2019.
+
 The following nonagricultural substances may be used as ingredients in or on processed products labeled as “organic” or “made with organic (specified ingredients or food group(s))” only in accordance with any restrictions specified in this section.
 
 (a) *Nonsynthetics allowed:*
