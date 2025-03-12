@@ -1,5 +1,7 @@
 ##### § 1260.312 Remittance to the Cattlemen's Board or Qualified State Beef Council. #####
 
+Link to an amendment published at 84 FR 20771, May 13, 2019.
+
 Each person responsible for the collection and remittance of assessments shall transmit assessments and a report of assessments to the qualified State beef council of the State in which such person resides or if there is no qualified State beef council in such State, then to the Cattlemen's Board as follows:
 
 (a) *Reports.* Each collecting person shall make reports on forms made available or approved by the Cattlemen's Board. Each collecting person shall prepare a separate report for each reporting period. Each report shall be mailed to the qualified State beef council of the State in which the collecting person resides, or its designee, or if there exists no qualified State beef council in such State, to the Cattlemen's Board. Each report shall contain the following information:

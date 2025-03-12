@@ -1,0 +1,3 @@
+##### § 310.4 Access exemptions. #####
+
+DoD may deny an individual access to certain information about the individual that resides in a DoD Component's system of records when an exemption from the Privacy Act is claimed for the system of records and codified in the Code of Federal Regulations as described in § 310.12. When an exemption pursuant to subsection (j) or (k) of the Privacy Act exists, it will be listed in the SORN for the particular system in which the individual's information is located. Records compiled in reasonable anticipation of a civil action or proceeding may be withheld pursuant to subsection (d)(5) of the Privacy Act.

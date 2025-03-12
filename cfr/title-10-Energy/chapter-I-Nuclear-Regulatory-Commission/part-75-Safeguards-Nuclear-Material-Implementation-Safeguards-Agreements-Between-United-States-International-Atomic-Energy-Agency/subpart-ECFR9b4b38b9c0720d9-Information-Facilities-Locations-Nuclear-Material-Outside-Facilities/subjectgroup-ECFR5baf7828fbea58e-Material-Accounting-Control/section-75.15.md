@@ -24,7 +24,7 @@
 
 (c) The NRC will also issue license or certificate amendments, as necessary, for implementing the Initial Protocol to the U.S.-IAEA Safeguards Agreement and the Transitional Facility Attachment (as amended from time to time).
 
-(d) License or certificate amendments will be made under the Commission's rules of practice (part 2 of this chapter). Specifically, if the licensee or certificate holder does not agree to an amendment, an order modifying the license would be issued under § 2.204 of this chapter.
+(d) License or certificate amendments will be made under the NRC's rules of practice (part 2 of this chapter). Specifically, if the licensee or certificate holder does not agree to an amendment, an order modifying the license would be issued under § 2.204 of this chapter.
 
 (e) Subject to constraints imposed by the U.S.-IAEA Safeguards Agreement, the NRC will afford the applicant, licensee, or certificate holder a reasonable opportunity to participate in the development of the Facility Attachment or Transitional Facility Attachment applicable to the facility, and any amendments thereto, and to review and comment upon any instrument before it has been agreed to by the United States. The NRC will provide to the applicant, licensee, or certificate holder a copy of any such instrument that has been completed under the U.S.-IAEA Safeguards Agreement.
 

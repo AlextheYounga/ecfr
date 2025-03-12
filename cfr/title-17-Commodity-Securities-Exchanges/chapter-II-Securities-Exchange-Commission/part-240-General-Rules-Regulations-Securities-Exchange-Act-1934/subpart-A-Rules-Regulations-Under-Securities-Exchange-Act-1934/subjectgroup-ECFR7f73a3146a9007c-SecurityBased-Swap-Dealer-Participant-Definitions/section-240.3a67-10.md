@@ -30,7 +30,7 @@
 
 (ii) Security-based swap positions for which the non-U.S. person's counterparty to the security-based swap has rights of recourse against a U.S. person; for these purposes a counterparty has rights of recourse against the U.S. person if the counterparty has a conditional or unconditional legally enforceable right, in whole or in part, to receive payments from, or otherwise collect from, the U.S. person in connection with the security-based swap.
 
-(c) *Attributed positions* - (1) *In general.* For purposes of calculating a person's status as a major security-based swap participant as defined in section 3(a)(67) of the Act (15 U.S.C. 78c(a)(67)), and the rules and regulations thereunder, a person also shall include the following security-based swap positions:
+(c) *Attributed positions*—(1) *In general.* For purposes of calculating a person's status as a major security-based swap participant as defined in section 3(a)(67) of the Act (15 U.S.C. 78c(a)(67)), and the rules and regulations thereunder, a person also shall include the following security-based swap positions:
 
 (i) If such person is a U.S. person, any security-based swap position of a non-U.S. person for which the non-U.S. person's counterparty to the security-based swap has rights of recourse against that U.S. person.
 

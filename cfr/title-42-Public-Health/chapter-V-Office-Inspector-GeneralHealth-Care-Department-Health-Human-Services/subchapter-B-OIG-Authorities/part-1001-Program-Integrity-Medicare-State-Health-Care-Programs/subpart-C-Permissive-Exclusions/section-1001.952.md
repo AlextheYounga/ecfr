@@ -792,7 +792,7 @@ For purposes of this paragraph, the term “health center” means a Federally Q
 
 (4) For items or services that are of the type that can be used for any patient without regard to payor status, the donor does not restrict, or take any action to limit, the recipient's right or ability to use the items or services for any patient.
 
-(5) Neither the beneficiary nor the recipient's practice (or any affiliated individual or entity) makes the receipt of items or services, or the amount or nature of the items or services, a condition of doing business with the donor.
+(5) Neither the recipient nor the recipient's practice (or any affiliated individual or entity) makes the receipt of items or services, or the amount or nature of the items or services, a condition of doing business with the donor.
 
 (6) Neither the eligibility of a beneficiary for the items or services, nor the amount or nature of the items or services, is determined in a manner that takes into account the volume or value of referrals or other business generated between the parties.
 
@@ -822,19 +822,19 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (3) The donor (or any person on the donor's behalf) does not take any action to limit or restrict the use, compatibility, or interoperability of the items or services with other electronic prescribing or electronic health records systems (including, but not limited to, health information technology applications, products, or services).
 
-(4) Neither the beneficiary nor the recipient's practice (or any affiliated individual or entity) makes the receipt of items or services, or the amount or nature of the items or services, a condition of doing business with the donor.
+(4) Neither the recipient nor the recipient's practice (or any affiliated individual or entity) makes the receipt of items or services, or the amount or nature of the items or services, a condition of doing business with the donor.
 
-(5) Neither the eligibility of a beneficiary for the items or services, nor the amount or nature of the items or services, is determined in a manner that directly takes into account the volume or value of referrals or other business generated between the parties. For the purposes of this paragraph (y)(5), the determination is deemed not to directly take into account the volume or value of referrals or other business generated between the parties if any one of the following conditions is met:
+(5) Neither the eligibility of a recipient for the items or services, nor the amount or nature of the items or services, is determined in a manner that directly takes into account the volume or value of referrals or other business generated between the parties. For the purposes of this paragraph (y)(5), the determination is deemed not to directly take into account the volume or value of referrals or other business generated between the parties if any one of the following conditions is met:
 
 (i) The determination is based on the total number of prescriptions written by the beneficiary (but not the volume or value of prescriptions dispensed or paid by the donor or billed to a Federal health care program);
 
 (ii) The determination is based on the size of the recipient's medical practice (for example, total patients, total patient encounters, or total relative value units);
 
-(iii) The determination is based on the total number of hours that the beneficiary practices medicine;
+(iii) The determination is based on the total number of hours that the recipient practices medicine;
 
 (iv) The determination is based on the recipient's overall use of automated technology in his or her medical practice (without specific reference to the use of technology in connection with referrals made to the donor);
 
-(v) The determination is based on whether the beneficiary is a member of the donor's medical staff, if the donor has a formal medical staff;
+(v) The determination is based on whether the recipient is a member of the donor's medical staff, if the donor has a formal medical staff;
 
 (vi) The determination is based on the level of uncompensated care provided by the recipient; or
 
@@ -856,7 +856,7 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (10) [Reserved]
 
-(11) Before receipt of the items and services, the beneficiary pays 15 percent of the donor's cost for the items and services. The donor (or any affiliated individual or entity) does not finance the recipient's payment or loan funds to be used by the beneficiary to pay for the items and services.
+(11) Before receipt of the items and services, the recipient pays 15 percent of the donor's cost for the items and services. The donor (or any affiliated individual or entity) does not finance the recipient's payment or loan funds to be used by the recipient to pay for the items and services.
 
 (12) The donor does not shift the costs of the items or services to any Federal health care program.
 

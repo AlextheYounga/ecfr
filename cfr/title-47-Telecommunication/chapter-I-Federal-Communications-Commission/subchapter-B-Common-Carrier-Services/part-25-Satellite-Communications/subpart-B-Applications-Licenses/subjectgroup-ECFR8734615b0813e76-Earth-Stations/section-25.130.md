@@ -1,5 +1,7 @@
 ##### § 25.130 Filing requirements for transmitting earth stations. #####
 
+Link to an amendment published at 84 FR 20819, May 13, 2019.
+
 (a) Applications for a new or modified transmitting earth station facility shall be submitted on FCC Form 312, and associated Schedule B, accompanied by any required exhibits, except for those earth station applications filed on FCC Form 312EZ pursuant to § 25.115(a). All such earth station license applications must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter. Additional filing requirements for Earth Stations on Vessels are described in §§ 25.221 and 25.222. Additional filing requirements for Vehicle-Mounted Earth Stations are described in § 25.226. Additional filing requirements for Earth Stations Aboard Aircraft are described in § 25.227. In addition, applicants that are not required to submit applications on Form 312EZ, other than ESV, VMES or ESAA applicants, must submit the following information to be used as an “informative” in the public notice issued under § 25.151 as an attachment to their application:
 
 (1) A detailed description of the service to be provided, including frequency bands and satellites to be used. The applicant must identify either the specific satellite(s) with which it plans to operate, or the eastern and western boundaries of the arc it plans to coordinate.

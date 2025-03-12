@@ -1,5 +1,7 @@
 ##### § 30.205 Federal coordination requirements. #####
 
+Link to an amendment published at 84 FR 20820, May 13, 2019.
+
 (a) Licensees in the 37-38 GHz band located within the zones defined by the coordinates in the tables below must coordinate their operations with Federal Space Research Service (space to Earth) users of the band via the National Telecommunications and Information Administration (NTIA). All licensees operating within the zone defined by the 60 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations. Licensees operating within the area between the zones defined by the 60 dBm and 75 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations if their base station EIRP is greater than 60 dBm/100 MHz or if their antenna height exceeds 100 meters above ground level. Licensees operating outside the zones defined by the 75 dBm/100 MHz EIRP coordinates in the tables below are not required to coordinate their operations with NTIA.
 
 Table 1 to Paragraph (a): Goldstone, California Coordination Zone

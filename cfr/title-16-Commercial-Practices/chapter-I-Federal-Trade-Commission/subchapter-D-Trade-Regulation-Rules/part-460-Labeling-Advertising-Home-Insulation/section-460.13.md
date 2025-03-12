@@ -1,12 +1,10 @@
 ##### § 460.13 Fact sheets. #####
 
-If you are a manufacturer, you must give retailers and installers fact sheets for the insulation products you sell to them. Each sheet must contain what is listed here. You can add any disclosures that are required by federal laws, regulations, rules, or orders. You can add any disclosures that are required by State or local laws, rules, and orders, unless they are inconsistent with the provisions of this regulation. Do not add anything else.
-
-Each fact sheet must contain these items:
+If you are a manufacturer, you must give retailers and installers fact sheets for the insulation products you sell to them. Each sheet must contain what is listed here. You can add any disclosures that are required by federal laws, regulations, rules, or orders. You can add any disclosures that are required by State or local laws, rules, and orders, unless they are inconsistent with the provisions of this regulation. Do not add anything else. Each fact sheet must contain these items:
 
 (a) The name and address of the manufacturer. It can also include a logo or other symbol that the manufacturer uses.
 
-(b) A heading: “This is \_\_\_\_ insulation.” Fill in the blank with the type and form of your insulation.
+(b) A heading: “This is \_\_\_\_\_\_\_\_ insulation.” Fill in the blank with the type and form of your insulation.
 
 (c) The heading must be followed by a chart:
 
@@ -20,14 +18,14 @@ Each fact sheet must contain these items:
 
 (e) After the chart and any statement dealing with the specific type of insulation, ALL fact sheets must carry this statement, boxed, in 12-point type:
 
-Read This Before You Buy
-
-What You Should Know About R-values
+READ THIS BEFORE YOU BUYWhat You Should Know About R-values
 
 The chart shows the R-value of this insulation. R means resistance to heat flow. The higher the R-value, the greater the insulating power. Compare insulation R-values before you buy.
 
-There are other factors to consider. The amount of insulation you need depends mainly on the climate you live in. Also, your fuel savings from insulation will depend upon the climate, the type and size of your house, the amount of insulation already in your house, and your fuel use patterns and family size. If you buy too much insulation, it will cost you more than what you'll save on fuel.
+There are other factors to consider. The amount of insulation you need depends mainly on the climate you live in. Also, your fuel savings from insulation will depend upon the climate, the type and size of your house, the amount of insulation already in your house, your fuel use patterns and family size, proper installation of your insulation, and how tightly your house is sealed against air leaks. If you buy too much insulation, it will cost you more than what you'll save on fuel.
 
 To get the marked R-value, it is essential that this insulation be installed properly.
 
-[44 FR 50242, Aug. 27, 1979, as amended at 45 FR 68928, Oct. 17, 1980; 70 FR 31276, May 31, 2005]
+(f) For R-19 insulation batts, the fact sheet must also disclose the insulation's R-value when installed in wall cavities where the insulation's thickness exceeds the depth of the cavity.
+
+[44 FR 50242, Aug. 27, 1979, as amended at 45 FR 68928, Oct. 17, 1980; 70 FR 31276, May 31, 2005; 84 FR 20789, May 13, 2019]

@@ -1,5 +1,7 @@
 ##### § 1260.181 Qualified State beef councils. #####
 
+Link to an amendment published at 84 FR 20771, May 13, 2019.
+
 (a) Any beef promotion entity that is authorized by State statute or is organized and operating within a State, that receives assessments or contributions from producers and conducts beef promotion, research, consumer information and/or industry information programs may apply for certification of qualification so that producers may receive credit pursuant to § 1260.172(a)(3) for contributions to such organization. The Board shall review such applications for certification and shall make a determination as to certification of such applicant.
 
 (b) In order for the State beef council to be certified by the Board as a qualified State beef council, the council must:

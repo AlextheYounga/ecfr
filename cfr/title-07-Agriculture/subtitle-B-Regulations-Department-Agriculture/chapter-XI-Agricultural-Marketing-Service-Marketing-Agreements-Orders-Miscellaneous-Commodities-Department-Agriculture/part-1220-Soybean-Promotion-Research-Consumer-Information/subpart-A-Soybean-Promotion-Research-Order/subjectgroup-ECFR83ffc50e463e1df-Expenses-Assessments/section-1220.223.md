@@ -1,5 +1,7 @@
 ##### § 1220.223 Assessments. #####
 
+Link to an amendment published at 84 FR 20770, May 13, 2019.
+
 (a)(1) Except as prescribed by regulations approved by the Secretary or as otherwise provided in this section, each first purchaser of soybeans shall collect an assessment from the producer, and each producer shall pay such assessment to the first purchaser, at the rate of one-half of one percent (0.5%) of the net market price of the soybeans purchased. Each first purchaser shall remit such assessment to the Board or to a Qualified State Soybean Board, as provided in paragraph (a)(5) of this section.
 
 (2) Any producer marketing processed soybeans or soybean products of that producer's own production, shall remit to a Qualified State Soybean Board or to the Board, as provided in paragraph (a)(5) of this section, an assessment on such soybeans or soybean products at a rate of one-half of one percent (0.5%) of the net market price of the soybeans involved or the equivalent thereof.

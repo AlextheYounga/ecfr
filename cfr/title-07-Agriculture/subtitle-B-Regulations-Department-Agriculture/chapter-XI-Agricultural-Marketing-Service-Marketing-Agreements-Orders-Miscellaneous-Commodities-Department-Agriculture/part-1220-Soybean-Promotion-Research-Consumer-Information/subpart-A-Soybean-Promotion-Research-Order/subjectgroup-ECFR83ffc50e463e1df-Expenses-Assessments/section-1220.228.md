@@ -1,5 +1,7 @@
 ##### § 1220.228 Qualified State Soybean Boards. #####
 
+Link to an amendment published at 84 FR 20771, May 13, 2019.
+
 (a)(1) Any soybean promotion entity that is authorized by State statute to collect assessments required by State law from soybean producers may notify the Board of its election to be the Qualified State Soybean Board for the State in which it operates so that producers may receive credit pursuant to § 1220.223(a)(3) for contributions to such organization. Only one such entity may make such election or be qualified pursuant to paragraph (a)(2) of this section. Such entity, upon making such election, agrees to the following:
 
 (i) To conduct activities as defined in § 1220.230 that are intended to strengthen the soybean industry's position in the marketplace;

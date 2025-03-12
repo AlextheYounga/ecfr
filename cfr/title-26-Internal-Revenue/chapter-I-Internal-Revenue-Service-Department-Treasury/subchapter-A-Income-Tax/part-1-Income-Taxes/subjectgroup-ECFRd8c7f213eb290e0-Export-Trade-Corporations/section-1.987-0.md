@@ -80,7 +80,7 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (8) Interaction with § 1.988-1(a)(10).
 
-(9) [Reserved]
+(c)(9) Certain disregarded transactions not treated as transfers.
 
 (10) Examples.
 
@@ -89,6 +89,12 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 (1) Marked items.
 
 (2) Historic items.
+
+(e) Effective/applicability date.
+
+(1) In general.
+
+(2) Certain disregarded transactions not treated as transfers.
 
 § 1.987-3 Determination of section 987 taxable income or loss of an owner of a section 987 QBU.
 
@@ -126,7 +132,7 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (1) In general.
 
-(2) [Reserved]
+(c)(2) Coordination with § 1.987-12.
 
 (d) Calculation of unrecognized section 987 gain or loss for a taxable year.
 
@@ -152,9 +158,21 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (2) Translation of balance sheet items into the owner's functional currency.
 
-(f) [Reserved]
+(f) Combinations and separations.
+
+(1) Combinations.
+
+(2) Separations.
+
+(3) Examples.
 
 (g) Examples.
+
+(h) Effective/applicability date.
+
+(1) In general.
+
+(2) Combinations and separations.
 
 § 1.987-5 Recognition of section 987 gain or loss.
 
@@ -286,6 +304,74 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 § 1.987-12 Deferral of section 987 gain or loss.
 
-(a) through (h) [Reserved]
+(a) In general.
 
-[T.D. 9794, 81 FR 88821, Dec. 8, 2016, as amended by T.D. 9795, 81 FR 88867, Dec. 8, 2016]
+(1) Overview.
+
+(2) Scope.
+
+(3) Exceptions.
+
+(b) Gain or loss recognition in connection with a deferral event.
+
+(1) In general.
+
+(2) Deferral event.
+
+(3) Gain or loss recognized under § 1.987-5 in the taxable year of a deferral event.
+
+(4) Successor QBU.
+
+(c) Recognition of deferred section 987 gain or loss in the taxable year of a deferral event and in subsequent taxable years.
+
+(1) In general.
+
+(2) Recognition upon a subsequent remittance.
+
+(3) Recognition of deferred section 987 loss in certain outbound successor QBU terminations.
+
+(4) Special rules regarding successor QBUs.
+
+(d) Loss recognition upon an outbound loss event.
+
+(1) In general.
+
+(2) Outbound loss event.
+
+(3) Loss recognized upon an outbound loss event.
+
+(4) Adjustment of basis of stock received in certain nonrecognition transactions.
+
+(5) Recognition of outbound section 987 loss that is not converted into stock basis.
+
+(e) Source and character.
+
+(1) Deferred section 987 gain or loss and certain outbound section 987 loss.
+
+(2) Outbound section 987 loss reflected in stock basis.
+
+(f) Definitions.
+
+(1) Controlled group.
+
+(2) Qualified successor.
+
+(g) Anti-abuse.
+
+(h) Examples.
+
+(i) Coordination with fresh start transition method.
+
+(1) In general.
+
+(2) Adjustment to deferred section 987 gain or loss.
+
+(3) Adjustments in the case of an outbound loss event.
+
+(j) Effective/applicability date.
+
+(1) In general.
+
+(2) Exceptions.
+
+[T.D. 9794, 81 FR 88821, Dec. 8, 2016, as amended by T.D. 9795, 81 FR 88867, Dec. 8, 2016; T.D. 9857, 84 FR 20794, May 13, 2019]

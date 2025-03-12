@@ -1,7 +1,5 @@
 ##### § 404.2 Records to be made and kept current by registered government securities brokers and dealers; records of non-resident registered government securities brokers and dealers. #####
 
-Link to an amendment published at 83 FR 66616, Dec. 27, 2018.
-
 (a) Every registered government securities broker or dealer shall comply with the requirements of § 240.17a-3 of this title (SEC Rule 17a-3), with the following modifications:
 
 (1) References to “broker or dealer” and “broker or dealer registered pursuant to Section 15 of the Act” include registered government securities brokers or dealers.
@@ -41,6 +39,10 @@ Link to an amendment published at 83 FR 66616, Dec. 27, 2018.
 “(iv) Consolidated and consolidating balance sheets, prepared in accordance with generally accepted accounting principles, which may be unaudited and which shall include the notes to the financial statements, as of quarter-end for the registered government securities broker or dealer and its highest level holding company that is a Material Associated Person;
 
 “(v) Quarterly consolidated and consolidating income statements and consolidated cash flow statements, prepared in accordance with generally accepted accounting principles, which may be unaudited and which shall include the notes to the financial statements, for the registered government securities broker or dealer and its highest level holding company that is a Material Associated Person;
+
+Note 1 to paragraph 240.17h-1T(a)(1)(v).
+
+Statements of comprehensive income (as defined in 17 CFR 210.1-02) must be included in place of income statements, if required by the applicable generally accepted accounting principles.
 
 “(vi) The amount as of quarter-end, and at month-end if greater than quarter-end, of the aggregate long and short securities and commodities positions held by each Material Associated Person, including a separate listing of each single unhedged securities or commodities position, other than U.S. Treasury securities, that exceeds the Materiality Threshold at any month-end;”
 
@@ -104,4 +106,4 @@ Link to an amendment published at 83 FR 66616, Dec. 27, 2018.
 
 (d) *Effective date.* Paragraph (a) of this section shall be effective on October 31, 1987, *except that* registered government securities brokers and dealers are required to maintain the records specified in § 240.17a-3(a) (12), (13), (14) and (15) beginning July 25, 1987.
 
-(Approved by the Office of Management and Budget under control number 1535-0089)[52 FR 27952, July 24, 1987, as amended at 60 FR 11026, Mar. 1, 1995; 60 FR 20399, Apr. 26, 1995]
+(Approved by the Office of Management and Budget under control number 1535-0089)[52 FR 27952, July 24, 1987, as amended at 60 FR 11026, Mar. 1, 1995; 60 FR 20399, Apr. 26, 1995; 83 FR 66616, Dec. 27, 2018]

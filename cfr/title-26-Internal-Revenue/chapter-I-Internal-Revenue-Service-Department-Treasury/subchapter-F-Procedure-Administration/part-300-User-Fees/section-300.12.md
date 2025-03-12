@@ -1,5 +1,7 @@
 ##### § 300.12 Registered tax return preparer competency examination fee. #####
 
+Link to an amendment published at 84 FR 20804, May 13, 2019.
+
 (a) *Applicability.* This section applies to the competency examination to become a registered tax return preparer pursuant to 31 CFR 10.4(c).
 
 (b) *Fee.* The fee for taking the registered tax return preparer competency examination is $27, which is the government cost for overseeing the examination and does not include any fees charged by the administrator of the examination.

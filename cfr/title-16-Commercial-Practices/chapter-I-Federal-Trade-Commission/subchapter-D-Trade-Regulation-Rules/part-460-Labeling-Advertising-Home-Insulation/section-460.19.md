@@ -12,6 +12,6 @@
 
 (f) Keep records of all data on savings claims for at least three years. For the records showing proof for claims, the three years will begin again each time you make the claim. Federal Trade Commission staff members can check these records at any time, but they must give you reasonable notice first.
 
-(g) The affirmative disclosure requirements in § 460.19 do not apply to ads on television or radio.
+(g) The affirmative disclosure requirements in this section do not apply to television or radio advertisements or to space-constrained advertisements. “Space-constrained advertisement” is defined in § 460.18(e).
 
-[44 FR 50242, Aug. 27, 1979, as amended at 51 FR 39651, Oct. 30, 1986; 70 FR 31276, May 31, 2005]
+[44 FR 50242, Aug. 27, 1979, as amended at 51 FR 39651, Oct. 30, 1986; 70 FR 31276, May 31, 2005; 84 FR 20790, May 13, 2019]
