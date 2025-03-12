@@ -1,0 +1,3 @@
+##### § 945.51 Recommendation for regulations. #####
+
+Whenever the committee deems it advisable that the handling of potatoes be regulated pursuant to § 945.52, or § 945.53, or both, it shall recommend to the Secretary grade, size, quality, or maturity regulation, or any combination thereof, or amendment thereto, or modification, suspension, or termination thereof, whenever it finds that such regulation, as provided in such sections, will tend to effectuate the declared policy of the act.

@@ -1,5 +1,7 @@
 ##### § 652.25 Management of ineligible investments and reservation of authority. #####
 
+Link to an amendment published at 83 FR 55098, Nov. 2, 2018.
+
 (a) *Investments ineligible when purchased.* Investments that do not satisfy the eligibility criteria set forth in § 652.20 at the time of purchase are ineligible. You must not purchase ineligible investments. If you determine that you have purchased an ineligible investment, you must notify the OSMO within 15 calendar days after such determination. You must divest of the investment no later than 60 calendar days after the determination unless we approve, in writing, a plan that authorizes you to divest of the investment over a longer period of time.
 
 (b) *Investments that no longer satisfy eligibility criteria.* If you determine that an investment (that satisfied the eligibility criteria set forth in § 652.20 when purchased) no longer satisfies the eligibility criteria, you must notify the OSMO within 15 calendar days of the determination.

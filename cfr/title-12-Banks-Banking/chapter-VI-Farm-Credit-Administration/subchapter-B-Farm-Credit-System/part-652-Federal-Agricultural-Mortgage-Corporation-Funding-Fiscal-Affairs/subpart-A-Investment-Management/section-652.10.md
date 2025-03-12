@@ -1,5 +1,7 @@
 ##### § 652.10 Investment management. #####
 
+Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
+
 (a) *Responsibilities of the board of directors.* Your board of directors must adopt written policies for managing your non-program investment activities. Your board must also ensure that management complies with these policies and that appropriate internal controls are in place to prevent loss. At least annually, your board, or a designated committee of the board, must review the sufficiency of these investment policies. Any changes to the policies must be adopted by the board. You must report any changes to these policies to the OSMO within 10 business days of adoption.
 
 (b) *Investment policies - general requirements.* Your investment policies must address the purposes and objectives of investments, risk tolerance, delegations of authority, internal controls, due diligence, and reporting requirements. Moreover, your investment policies must fully address the extent of pre-purchase analysis that management must perform for various types, classes, and structure of investments. Furthermore, the policies must include reporting requirements and approvals needed for exceptions to the board's policies. Investment policies must be sufficiently detailed, consistent with, and appropriate for the amounts, types, and risk characteristics of your investments. You must document in the Corporation's records any analyses used in formulating your policies or amendments to the policies.

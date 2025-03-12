@@ -1,14 +1,8 @@
 ##### § 4022.24 Benefit increases. #####
 
-Link to an amendment published at 83 FR 49803, Oct. 3, 2018.
+(a) *Scope.* This section applies to all benefit increases, as defined in § 4022.2, that have been in effect for less than five years preceding the termination date.
 
-(a) *Scope.* This section applies:
-
-(1) To all benefit increases, as defined in § 4022.2, payable with respect to a participant other than a substantial owner, which have been in effect for less than five years preceding the termination date; and
-
-(2) To all benefit increases payable with respect to a substantial owner, which have been in effect for less than 30 years preceding the termination date.
-
-(b) *General rule.* Benefit increases described in paragraph (a) of this section shall be guaranteed only to the extent provided in § 4022.25 with respect to a participant other than a substantial owner and in § 4022.26 with respect to a participant who is a substantial owner.
+(b) *General rule.* Benefit increases described in paragraph (a) of this section are guaranteeable only to the extent provided in § 4022.25.
 
 (c) *Computation of guaranteeable benefit increases.* Except as provided in paragraph (d) of this section pertaining to multiple benefit increases, the amount of a guaranteeable benefit increase shall be the amount, if any, by which the monthly benefit calculated pursuant to paragraph (c)(1) of this section (the monthly benefit provided under the terms of the plan as of the termination date, as limited by § 4022.22) exceeds the monthly benefit calculated pursuant to paragraph (c)(4) of this section (the monthly benefit which would have been payable on the termination date if the benefit provided subsequent to the increase were equivalent, as of the date of the increase, to the benefit provided prior to the increase).
 
@@ -30,4 +24,4 @@ Link to an amendment published at 83 FR 49803, Oct. 3, 2018.
 
 (g) *Rollover amounts.* Any portion of a benefit derived from mandatory employee contributions resulting from rollover amounts (as determined under § 4044.12 (c)(4)(i) of this chapter) is disregarded in applying the provisions of §§ 4022.24 through 4022.26. However, any portion of a benefit derived from employer contributions resulting from rollover amounts (as determined under § 4044.12(c)(4)(ii) of this chapter) is combined with any other benefit under the plan in applying the provisions of §§ 4022.24 through 4022.26. In such case, the benefit increase is deemed to be in effect on the date the rollover amounts are received by the plan.
 
-[61 FR 34028, July 1, 1996; 61 FR 36626, July 12, 1996, as amended at 62 FR 67728, Dec. 30, 1997; 76 FR 34603, June 14, 2011; 79 FR 25672, May 6, 2014; 79 FR 70095, Nov. 25, 2014]
+[61 FR 34028, July 1, 1996; 61 FR 36626, July 12, 1996, as amended at 62 FR 67728, Dec. 30, 1997; 76 FR 34603, June 14, 2011; 79 FR 25672, May 6, 2014; 79 FR 70095, Nov. 25, 2014; 83 FR 49803, Oct. 3, 2018]

@@ -1,5 +1,7 @@
 ##### § 652.40 Liquidity reserve requirement and supplemental liquidity. #####
 
+Link to an amendment published at 83 FR 55098, Nov. 2, 2018.
+
 (a) *Unencumbered.* All investments that Farmer Mac holds in its liquidity reserve and as supplemental liquidity in accordance with this section must be unencumbered. For the purposes of this section, an investment is unencumbered if it is free of lien, and it is not explicitly or implicitly pledged to secure, collateralize, or enhance the credit of any transaction. Additionally, an unencumbered investment held in the liquidity reserve cannot be used as a hedge against interest rate risk if liquidation of that particular investment would expose Farmer Mac to a material risk of loss.
 
 (b) *Marketable.* All investments that Farmer Mac holds in its liquidity reserve in accordance with this section must be readily marketable. For purposes of this section, an investment is readily marketable if it:

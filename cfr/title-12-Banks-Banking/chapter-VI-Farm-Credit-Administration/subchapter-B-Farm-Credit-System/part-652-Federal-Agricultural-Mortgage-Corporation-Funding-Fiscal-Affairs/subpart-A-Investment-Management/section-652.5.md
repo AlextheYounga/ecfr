@@ -1,5 +1,7 @@
 ##### § 652.5 Definitions. #####
 
+Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
+
 For purposes of this subpart, the following definitions will apply:
 
 *Affiliate* means any entity established under authority granted to the Corporation under section 8.3(c)(14) of the Farm Credit Act of 1971, as amended.

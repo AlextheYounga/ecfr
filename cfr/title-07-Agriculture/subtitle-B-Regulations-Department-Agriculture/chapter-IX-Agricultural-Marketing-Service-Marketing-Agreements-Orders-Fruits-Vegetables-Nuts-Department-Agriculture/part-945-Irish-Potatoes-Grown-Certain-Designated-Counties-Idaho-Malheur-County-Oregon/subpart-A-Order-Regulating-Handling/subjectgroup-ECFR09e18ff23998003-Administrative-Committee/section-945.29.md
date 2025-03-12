@@ -1,0 +1,3 @@
+##### § 945.29 Alternate members. #####
+
+An alternate member of the committee shall act in the place and stead of the member for whom he is an alternate during such member's absence and may perform such other duties as may be assigned or requested by the committee. In the event of the death, removal, resignation, or disqualification of a member his alternate shall act for him until a successor to such member is selected and has qualified. The committee may request the attendance of one or more alternates at any or all meetings, notwithstanding the expected or actual presence of the respective members.

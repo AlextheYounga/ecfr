@@ -10,7 +10,7 @@ An L-band MSS licensee is permitted to apply for ATC authorization based on a no
 
 (2) ATC operations shall be limited to certain frequencies:
 
-(i) [Resreved]
+(i) [Reserved]
 
 (ii) In the 1626.5-1660.5 MHz/1525-1559 MHz bands (L-band), ATC operations are limited to the frequency assignments authorized and internationally coordinated for the MSS system of the MSS licensee that seeks ATC authority.
 

@@ -145,11 +145,10 @@ Table 6 to § 628.63 - General Disclosure for Counterparty Credit Risk-Related E
 
 <sup>2</sup> This may include interest rate derivative contracts, foreign exchange derivative contracts, equity derivative contracts, credit derivatives, commodity or other derivative contracts, repo-style transactions, and eligible margin loans.
 
-Table 7 to § 628.63 - Credit Risk Mitigation 1 2
+Table 7 to § 628.63 - Credit Risk Mitigation<sup>1 2</sup>
 
-|                        |                                                                                                                                                                                  |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Qualitative Disclosures |                                      (a) The general qualitative disclosure requirement with respect to credit risk mitigation, including:                                       |
+|:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                        |                                                       (1) Policies and processes for collateral valuation and management;                                                        |
 |                        |                                                   (2) A description of the main types of collateral taken by the System bank;                                                    |
 |                        |                                        (3) The main types of guarantors/credit derivative counterparties and their creditworthiness; and                                         |

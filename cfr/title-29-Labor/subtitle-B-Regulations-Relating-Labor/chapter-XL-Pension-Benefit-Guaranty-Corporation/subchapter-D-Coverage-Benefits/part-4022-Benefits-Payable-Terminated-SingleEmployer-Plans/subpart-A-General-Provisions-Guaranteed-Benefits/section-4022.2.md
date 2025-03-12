@@ -1,8 +1,6 @@
 ##### § 4022.2 Definitions. #####
 
-Link to an amendment published at 83 FR 49803, Oct. 3, 2018.
-
-The following terms are defined in § 4001.2 of this chapter: annuity, bankruptcy filing date, Code, employer, ERISA, guaranteed benefit, mandatory employee contributions, nonforfeitable benefit, non-PPA 2006 bankruptcy termination, normal retirement age, notice of intent to terminate, PBGC, person, plan, plan administrator, plan year, PPA 2006 bankruptcy termination, proposed termination date, statutory hybrid plan, substantial owner, and title IV benefit.
+The following terms are defined in § 4001.2 of this chapter: annuity, bankruptcy filing date, Code, employer, ERISA, guaranteed benefit, majority owner, mandatory employee contributions, nonforfeitable benefit, non-PPA 2006 bankruptcy termination, normal retirement age, notice of intent to terminate, PBGC, person, plan, plan administrator, plan year, PPA 2006 bankruptcy termination, proposed termination date, statutory hybrid plan, and title IV benefit.
 
 In addition, for purposes of this part (unless otherwise required by the context):
 
@@ -22,4 +20,4 @@ In addition, for purposes of this part (unless otherwise required by the context
 
 *Unpredictable contingent event benefit (UCEB)* has the same meaning as unpredictable contingent event benefit in section 206(g)(1)(C) of ERISA and Treas. Reg. § 1.436-1(j)(9) (26 CFR 1.436-1(j)(9)). Thus, a UCEB is any benefit or benefit increase to the extent that it would not be payable but for the occurrence of a UCE. A benefit or benefit increase that is conditioned upon the occurrence of a UCE does not cease to be a UCEB as a result of the contingent event having occurred or its occurrence having become reasonably predictable.
 
-[61 FR 34028, July 1, 1996, as amended at 74 FR 59096, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 25672, May 6, 2014; 79 FR 70094, Nov. 25, 2014]
+[61 FR 34028, July 1, 1996, as amended at 74 FR 59096, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 25672, May 6, 2014; 79 FR 70094, Nov. 25, 2014; 83 FR 49803, Oct. 3, 2018]

@@ -1,8 +1,6 @@
 ##### § 4044.2 Definitions. #####
 
-Link to an amendment published at 83 FR 49806, Oct. 3, 2018.
-
-(a) The following terms are defined in § 4001.2 of this chapter: annuity, bankruptcy filing date, basic-type benefit, Code, distribution date, earliest retirement age at valuation date, ERISA, expected retirement age (XRA), fair market value, guaranteed benefit, insurer, IRS, irrevocable commitment, mandatory employee contributions, nonbasic-type benefit, nonforfeitable benefit, non-PPA 2006 bankruptcy termination, normal retirement age, notice of intent to terminate, PBGC, person, plan, plan administrator, single-employer plan, substantial owner, termination date, unreduced retirement age (URA), and voluntary employee contributions.
+(a) The following terms are defined in § 4001.2 of this chapter: annuity, bankruptcy filing date, basic-type benefit, Code, distribution date, earliest retirement age at valuation date, ERISA, expected retirement age (XRA), fair market value, guaranteed benefit, insurer, IRS, irrevocable commitment, majority owner, mandatory employee contributions, nonbasic-type benefit, nonforfeitable benefit, non-PPA 2006 bankruptcy termination, normal retirement age, notice of intent to terminate, PBGC, person, plan, plan administrator, single-employer plan, termination date, unreduced retirement age (URA), and voluntary employee contributions.
 
 (b) For purposes of this part:
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 49806, Oct. 3, 2018.
 
 *Other lump sum benefit* means a benefit in priority category 5 or 6, determined under subpart A of this part, that is payable in a single installment (or substantially so) under the terms of the plan, and that is not derived from an annuity payable under the plan. The benefit may be a severance pay benefit, a death benefit or other single installment benefit.
 
-[61 FR 34059, July 1, 1996, as amended at 67 FR 16959, Apr. 8, 2002; 74 FR 11035, Mar. 16, 2009; 76 FR 34605, June 14, 2011]
+[61 FR 34059, July 1, 1996, as amended at 67 FR 16959, Apr. 8, 2002; 74 FR 11035, Mar. 16, 2009; 76 FR 34605, June 14, 2011; 83 FR 49806, Oct. 3, 2018]

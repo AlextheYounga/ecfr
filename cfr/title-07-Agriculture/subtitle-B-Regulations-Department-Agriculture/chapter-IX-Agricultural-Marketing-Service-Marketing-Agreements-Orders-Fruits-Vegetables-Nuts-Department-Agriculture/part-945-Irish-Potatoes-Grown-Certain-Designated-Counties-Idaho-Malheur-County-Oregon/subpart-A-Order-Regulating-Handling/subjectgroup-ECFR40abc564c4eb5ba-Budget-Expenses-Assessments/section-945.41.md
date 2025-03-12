@@ -1,0 +1,3 @@
+##### § 945.41 Budget. #####
+
+At the beginning of each fiscal period, and as may be necessary thereafter, the committee shall prepare an estimated budget of income and expenditures necessary for the administration of this part. The committee may recommend a rate of assessment calculated to provide adequate funds to defray its proposed expenses as authorized in § 945.40. The committee shall present such budget promptly to the Secretary with an accompanying report showing the basis for its calculations.

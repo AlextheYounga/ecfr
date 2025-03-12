@@ -1,8 +1,6 @@
 ##### § 4043.2 Definitions. #####
 
-Link to an amendment published at 83 FR 49806, Oct. 3, 2018.
-
-The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, ERISA, fair market value, irrevocable commitment, multiemployer plan, PBGC, person, plan, plan administrator, plan year, single-employer plan, and substantial owner.
+The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, ERISA, fair market value, irrevocable commitment, multiemployer plan, PBGC, person, plan, plan administrator, plan year, and single-employer plan.
 
 In addition, for purposes of this part:
 
@@ -50,6 +48,10 @@ In addition, for purposes of this part:
 
 *Public company* means a person subject to the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 or a subsidiary (as defined for purposes of the Securities Exchange Act of 1934) of a person subject to such reporting requirements.
 
+*Substantial owner* means a substantial owner as defined in section 4021(d) of ERISA.
+
 *U.S. entity* means an entity subject to the personal jurisdiction of the U.S. district court.
 
 *Well-funded plan safe harbor* has the meaning described in § 4043.10.
+
+[80 FR 55002, Sept. 11, 2015, as amended at 83 FR 49806, Oct. 3, 2018]

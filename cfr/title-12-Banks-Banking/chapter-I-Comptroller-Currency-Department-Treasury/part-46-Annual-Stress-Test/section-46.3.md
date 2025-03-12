@@ -10,6 +10,6 @@
 
 (d) *Covered institution under bank holding company subject to annual stress test requirements.* (1) Notwithstanding the requirements applicable to a $10 to $50 billion covered institution under this part, a $10 to $50 billion covered institution that is controlled by a bank holding company or savings and loan holding company that is subject to annual stress test requirements pursuant to applicable regulations of the Board of Governors of the Federal Reserve System may elect to conduct its stress test under this part pursuant to the requirements applicable to a $50 billion or over covered institution.
 
-(2) Any $10 to $50 billion covered institution that elects to apply the requirements of a $50 billion or over covered institution under this paragraph shall remain subject to the requirements applicable to an over $50 billion covered institution until otherwise approved by the OCC.
+(2) Any $10 to $50 billion covered institution that elects to apply the requirements of a $50 billion or over covered institution under this paragraph shall remain subject to the requirements applicable to a $50 billion or over covered institution until otherwise approved by the OCC.
 
 [77 FR 61246, Oct. 9, 2012, as amended at 79 FR 71633, Dec. 3, 2014; 83 FR 7953, Feb. 23, 2018]

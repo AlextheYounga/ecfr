@@ -1,5 +1,7 @@
 ##### § 652.20 Eligible non-program investments. #####
 
+Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
+
 (a) You may hold only the types, quantities, and qualities of non-program investments listed in the following Non-Program Investment Eligibility Criteria Table. These investments must be denominated in United States dollars.
 
 Non-Program Investment Eligibility Criteria Table

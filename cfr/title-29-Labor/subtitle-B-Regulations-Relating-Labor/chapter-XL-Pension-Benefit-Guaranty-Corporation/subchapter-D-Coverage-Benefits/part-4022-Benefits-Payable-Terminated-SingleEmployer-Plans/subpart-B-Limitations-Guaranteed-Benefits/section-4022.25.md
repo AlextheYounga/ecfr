@@ -1,8 +1,6 @@
-##### § 4022.25 Five-year phase-in of benefit guarantee for participants other than substantial owners. #####
+##### § 4022.25 Five-year phase-in of benefit guarantee. #####
 
-Link to an amendment published at 83 FR 49804, Oct. 3, 2018.
-
-(a) *Scope.* This section applies to the guarantee of benefit increases which have been in effect for less than five years with respect to participants other than substantial owners.
+(a) *Scope.* This section applies to the guarantee of benefit increases which have been in effect for less than five years.
 
 (b) *Phase-in formula.* The amount of a benefit increase computed pursuant to § 4022.24 shall be guaranteed to the extent provided in the following formula: the number of years the benefit increase has been in effect, not to exceed five, multiplied by the greater of (1) 20 percent of the amount computed pursuant to § 4022.24; or (2) $20 per month.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 83 FR 49804, Oct. 3, 2018.
 
 (f) *PPA 2006 bankruptcy termination.* In a PPA 2006 bankruptcy termination, “bankruptcy filing date” is substituted for “termination date” each place that “termination date” appears in paragraphs (c) and (d) of this section. Example: A plan amendment that was adopted and effective in February 2007 increased a participant's benefit by $300 per month (as computed under § 4022.24). The contributing sponsor of the plan filed a bankruptcy petition in March 2009 and the plan has a termination date in April 2010. PBGC's guarantee of the participant's benefit increase is limited to $120 ($300 × 40%), because the increase was made more than 2 years but less than 3 years before the bankruptcy filing date.
 
-[61 FR 34028, July 1, 1996, as amended at 67 FR 16956, Apr. 8, 2002; 76 FR 34603, June 14, 2011]
+[61 FR 34028, July 1, 1996, as amended at 67 FR 16956, Apr. 8, 2002; 76 FR 34603, June 14, 2011; 83 FR 49804, Oct. 3, 2018]

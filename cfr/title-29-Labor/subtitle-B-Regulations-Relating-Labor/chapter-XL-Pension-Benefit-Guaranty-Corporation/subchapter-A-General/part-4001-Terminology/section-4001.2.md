@@ -1,7 +1,5 @@
 ##### § 4001.2 Definitions. #####
 
-Link to an amendment published at 83 FR 49803, Oct. 3, 2018.
-
 For purposes of this chapter (unless otherwise indicated or required by the context):
 
 *Affected party* means, with respect to a plan -
@@ -78,6 +76,14 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *IRS* means the Internal Revenue Service.
 
+*Majority owner* means, with respect to a contributing sponsor of a single-employer plan, an individual who owns, directly or indirectly (taking into account the constructive ownership rules of section 414(b) and (c) of the Code) -
+
+(1) The entire interest in an unincorporated trade or business;
+
+(2) 50 percent or more of the capital interest or the profits interest in a partnership; or
+
+(3) 50 percent or more of either the voting stock of a corporation or the value of all of the stock of a corporation.
+
 *Mandatory employee contributions* means amounts contributed to the plan by a participant that are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
 *Mass withdrawal* means:
@@ -128,8 +134,6 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Standard termination* means the voluntary termination, in accordance with section 4041(b) of ERISA and part 4041, subpart B, of this chapter, of a single-employer plan that is able to provide for all of its benefit liabilities when plan assets are distributed.
 
-*Substantial owner* means a substantial owner as defined in section 4021(d) of ERISA.
-
 *Sufficient for benefit liabilities* means that there is no amount of unfunded benefit liabilities, as defined in section 4001(a)(18) of ERISA.
 
 *Sufficient for guaranteed benefits* means that there is no amount of unfunded guaranteed benefits, as defined in section 4001(a)(17) of ERISA. In a PPA 2006 bankruptcy termination, the determination whether a plan is sufficient for guaranteed benefits is made taking into account the limitations in sections 4022(g) and 4044(e) of ERISA (and corresponding provisions of these regulations). The determinations of which benefits are guaranteed and which benefits are in priority category 3 under section 4044(a)(3) of ERISA are made by reference to the bankruptcy filing date, but the present values of those benefits are determined as of the proposed termination date and the date of distribution.
@@ -142,4 +146,4 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Voluntary employee contributions* means amounts contributed by an employee to a plan, pursuant to the provisions of the plan, that are not mandatory employee contributions.
 
-[61 FR 34010, July 1, 1996, as amended at 61 FR 63989, Dec. 2, 1996; 62 FR 35342, July 1, 1997; 62 FR 60428, Nov. 7, 1997; 62 FR 67728, Dec. 30, 1997; 73 FR 79635, Dec. 30, 2008; 74 FR 11029, Mar. 16, 2009; 74 FR 27081, June 8, 2009; 74 FR 59095, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 70094, Nov. 25, 2014; 80 FR 55002, Sept. 11, 2015; 82 FR 60817, Dec. 22, 2017]
+[61 FR 34010, July 1, 1996, as amended at 61 FR 63989, Dec. 2, 1996; 62 FR 35342, July 1, 1997; 62 FR 60428, Nov. 7, 1997; 62 FR 67728, Dec. 30, 1997; 73 FR 79635, Dec. 30, 2008; 74 FR 11029, Mar. 16, 2009; 74 FR 27081, June 8, 2009; 74 FR 59095, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 70094, Nov. 25, 2014; 80 FR 55002, Sept. 11, 2015; 82 FR 60817, Dec. 22, 2017; 83 FR 49803, Oct. 3, 2018]
