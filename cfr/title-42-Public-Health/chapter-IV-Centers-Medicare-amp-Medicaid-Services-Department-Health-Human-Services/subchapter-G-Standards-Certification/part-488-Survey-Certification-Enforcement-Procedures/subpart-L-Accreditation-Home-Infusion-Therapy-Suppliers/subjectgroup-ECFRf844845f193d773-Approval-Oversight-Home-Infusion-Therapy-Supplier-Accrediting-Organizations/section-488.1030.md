@@ -1,5 +1,7 @@
 ##### § 488.1030 Ongoing review of home infusion therapy accrediting organizations. #####
 
+Link to an amendment published at 87 FR 25428, Apr. 29, 2022.
+
 (a) *Performance review.* CMS evaluates the performance of each CMS-approved home infusion therapy accreditation program on an ongoing basis. This review includes the review of the following:
 
 (1) The home infusion therapy accrediting organization's survey activity.

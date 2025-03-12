@@ -1,0 +1,3 @@
+##### § 1.216 If I serve a subpoena, must I also submit information in accordance with § 1.214? #####
+
+Yes. A subpoena shall be served in accordance with the Federal Rules of Civil Procedure, Federal Rules of Criminal Procedure, or applicable state procedure, as appropriate. If you serve a subpoena, including a subpoena *duces tecum,* together with the subpoena you must also submit information in accordance with § 1.214. If you serve a subpoena on the Department or a Department employee before submitting information in accordance with § 1.214 of this subpart, the Department may oppose the subpoena on the grounds that you failed to follow the requirements of this subpart.

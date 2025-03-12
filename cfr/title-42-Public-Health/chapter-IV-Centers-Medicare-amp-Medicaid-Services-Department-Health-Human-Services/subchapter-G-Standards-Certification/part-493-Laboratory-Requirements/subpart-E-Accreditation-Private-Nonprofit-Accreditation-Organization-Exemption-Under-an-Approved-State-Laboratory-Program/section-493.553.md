@@ -1,5 +1,7 @@
 ##### § 493.553 Approval process (application and reapplication) for accreditation organizations and State licensure programs. #####
 
+Link to an amendment published at 87 FR 25429, Apr. 29, 2022.
+
 (a) *Information required.* An accreditation organization that applies or reapplies to CMS for deeming authority, or a State licensure program that applies or reapplies to CMS for exemption from CLIA program requirements of licensed or approved laboratories within the State, must provide the following information:
 
 (1) A detailed comparison of the individual accreditation, or licensure or approval requirements with the comparable condition-level requirements; that is, a crosswalk.

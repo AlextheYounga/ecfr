@@ -1,0 +1,3 @@
+##### § 1.213 How can I obtain official information or testimony relating to official information in response to my demand? #####
+
+You must submit a demand in accordance with this subpart (*see United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951)). The appropriate Department official, in consultation with the Office of the General Counsel, will consider your demand in accordance with this subpart. The Counsel to the Inspector General will consider and make any final determinations regarding all demands seeking official information or employee testimony from the Office of Inspector General.

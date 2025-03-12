@@ -1,5 +1,7 @@
 ##### § 660.411 Notification and publication procedures. #####
 
+Link to an amendment published at 87 FR 25430, Apr. 29, 2022.
+
 (a) *Notification and effective dates.* (1) Annual and certain other actions taken under §§ 660.408 and 660.410 will be implemented by an action published in the Federal Register, and will be effective upon filing, unless a later time is specified in the action.
 
 (2) Inseason actions taken under § 660.409 will be by actual notice available from telephone hotlines and USCG broadcasts, as specified annually. Inseason actions will also be published in the Federal Register as soon as practicable. Inseason actions will be effective from the time specified in the actual notice of the action (telephone hotlines and USCG broadcasts), or at the time the inseason action published in the Federal Register is effective, whichever comes first.

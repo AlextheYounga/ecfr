@@ -1,7 +1,5 @@
 ##### § 401.110 Definitions. #####
 
-Link to an amendment published at 87 FR 18524, Mar. 30, 2022.
-
 (a) As used in this chapter:
 
 (1) *Act* means the Great Lakes Pilotage Act of 1960, as amended (Pub. L. 86-555, 74 Stat. 259-262; 46 U.S.C. 216 through 216i).
@@ -43,5 +41,11 @@ Link to an amendment published at 87 FR 18524, Mar. 30, 2022.
 (16) *Association* means any organization that holds or held a Certificate of Authorization issued by the Great Lakes Pilotage Branch (CG-WWM-2) to operate a pilotage pool on the Great Lakes.
 
 (17) *Merchant mariner credential or MMC* means the credential issued by the Coast Guard under 46 CFR part 10. It combines the individual merchant mariner's document, license, and certificate of registry enumerated in 46 U.S.C. subtitle II part E as well as the STCW endorsement into a single credential that serves as the mariner's qualification document, certificate of identification, and certificate of service.
+
+(18) *Apprentice Pilot* means a person approved and certified by the Director who is participating in an approved U.S. Great Lakes pilot training and qualification program. This individual meets all the minimum requirements listed in 46 CFR 401.211. This definition is only applicable to determining which pilots may be included in the operating expenses, estimates, and wage benchmark in §§ 404.2(b)(7), 404.103(b), and 404.104(d) and (e).
+
+(19) *Limited Registration* is an authorization issued by the Director, upon the request of the respective pilots association, to an Apprentice Pilot to provide pilotage service without direct supervision from a fully registered pilot in a specific area or waterway.
+
+(b) [Reserved]
 
 [26 FR 951, Jan. 31, 1961]Editorial Note:For Federal Register citations affecting § 401.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

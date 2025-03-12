@@ -1,5 +1,7 @@
 ##### § 660.408 Annual actions. #####
 
+Link to an amendment published at 87 FR 25430, Apr. 29, 2022.
+
 (a) *General.* NMFS will annually establish specifications and management measures or, as necessary, adjust specifications and management measures for the commercial, recreational, and treaty Indian fisheries by publishing the action in the Federal Register under § 660.411. Management of the Pacific Coast salmon fishery will be conducted consistent with the standards and procedures in the Salmon FMP. The Salmon FMP is available from the Regional Administrator or the Council. Specifications and management measures are described in paragraphs (b) through (o) of this section.
 
 (b) *Annual catch limits.* Annual Specifications will include annual catch limits (ACLs) determined consistent with the standards and procedures in the Salmon FMP.

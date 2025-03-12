@@ -1,5 +1,7 @@
 ##### § 410.142 CMS process for approving national accreditation organizations. #####
 
+Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
+
 (a) *General rule.* CMS may approve and recognize a nonprofit or not-for-profit organization with demonstrated experience in representing the interest of individuals with diabetes to accredit entities to furnish training.
 
 (b) *Required information and materials.* An organization requesting CMS's approval and recognition of its accreditation program must furnish to CMS the following information and materials:

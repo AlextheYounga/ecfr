@@ -1,5 +1,7 @@
 ##### § 414.68 Imaging accreditation. #####
 
+Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
+
 (a) *Scope and purpose.* Section 1834(e) of the Act requires the Secretary to designate and approve independent accreditation organizations for purposes of accrediting suppliers furnishing the technical component (TC) of advanced diagnostic imaging services and establish procedures to ensure that the criteria used by an accreditation organization is specific to each imaging modality. Suppliers of the TC of advanced diagnostic imaging services for which payment is made under the fee schedule established in section 1848(b) of the Act must become accredited by an accreditation organization designated by the Secretary beginning January 1, 2012.
 
 (b) *Definitions.* As used in this section, the following definitions are applicable:
