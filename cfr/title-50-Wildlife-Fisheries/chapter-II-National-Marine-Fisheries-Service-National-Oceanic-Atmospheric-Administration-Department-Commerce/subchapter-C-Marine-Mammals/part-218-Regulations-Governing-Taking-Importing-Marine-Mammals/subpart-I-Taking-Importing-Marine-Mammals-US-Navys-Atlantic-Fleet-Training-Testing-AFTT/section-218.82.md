@@ -6,91 +6,70 @@
 
 Table 1 to § 218.82
 
-|              Species               |                        Stock                         |
-|------------------------------------|------------------------------------------------------|
-| Suborder Mysticeti (baleen whales) |                                                      |
-| Family Balaenidae (right whales):  |                                                      |
-|   North Atlantic right whale \*    |                       Western.                       |
-| Family Balaenopteridae (roquals):  |                                                      |
-|           Blue whale \*            |    Western North Atlantic (Gulf of St. Lawrence)     |
-|           Bryde's whale            |               Northern Gulf of Mexico.               |
-|                                    |                         NSD.                         |
-|            Minke whale             |                 Canadian East Coast.                 |
-|            Fin whale \*            |               Western North Atlantic.                |
-|           Humpback whale           |                    Gulf of Maine.                    |
-|            Sei whale \*            |                     Nova Scotia.                     |
-|Suborder Odontoceti (toothed whales)|                                                      |
-| Family Physeteridae (sperm whale): |                                                      |
-|           Sperm whale \*           |               Gulf of Mexico Oceanic.                |
-|                                    |                   North Atlantic.                    |
-|  Family Kogiidae (sperm whales):   |                                                      |
-|         Dwarf sperm whale          |               Gulf of Mexico Oceanic.                |
-|                                    |               Western North Atlantic.                |
-|         Pygmy sperm whale          |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-| Family Ziphiidae (beaked whales):  |                                                      |
-|     Blainville's beaked whale      |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|       Cuvier's beaked whale        |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|       Gervais' beaked whale        |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|     Northern bottlenose whale      |               Western North Atlantic.                |
-|      Sowersby's beaked whale       |               Western North Atlantic.                |
-|        True's beaked whale         |               Western North Atlantic.                |
-|   Family Delphinidae (dolphins):   |                                                      |
-|      Atlantic spotted dolphin      |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|    Atlantic white-sided dolphin    |               Western North Atlantic.                |
-|         Bottlenose dolphin         |                 Choctawhatchee Bay.                  |
-|                                    |           Gulf of Mexico Eastern Coastal.            |
-|                                    |           Gulf of Mexico Northern Coastal.           |
-|                                    |           Gulf of Mexico Western Coastal.            |
-|                                    |        Indian River Lagoon Estuarine System.         |
-|                                    |            Jacksonville Estuarine System.            |
-|                                    |    Mississippi Sound, Lake Borgne, Bay Boudreau.     |
-|                                    |      Northern Gulf of Mexico Continental Shelf.      |
-|                                    |           Northern Gulf of Mexico Oceanic.           |
-|                                    |      Northern North Carolina Estuarine System.       |
-|                                    |      Southern North Carolina Estuarine System.       |
-|                                    |   Western North Atlantic Northern Florida Coastal.   |
-|                                    |   Western North Atlantic Central Florida Coastal.    |
-|                                    |  Western North Atlantic Northern Migratory Coastal.  |
-|                                    |           Western North Atlantic Offshore.           |
-|                                    |Western North Atlantic South Carolina/Georgia Coastal.|
-|                                    |  Western North Atlantic Southern Migratory Coastal.  |
-|          Clymene dolphin           |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|         False killer whale         |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|          Fraser's dolphin          |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|            Killer whale            |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|      Long-finned pilot whale       |               Western North Atlantic.                |
-|         Melon-headed whale         |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|    Pantropical spotted dolphin     |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|         Pygmy killer whale         |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|          Risso's dolphin           |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|       Rough-toothed dolphin        |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|    Short-beaked common dolphin     |               Western North Atlantic.                |
-|      Short-finned pilot whale      |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|          Spinner dolphin           |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|          Striped dolphin           |               Northern Gulf of Mexico.               |
-|                                    |               Western North Atlantic.                |
-|        White-beaked dolphin        |               Western North Atlantic.                |
-|  Family Phocoenidae (porpoises):   |                                                      |
-|          Harbor porpoise           |             Gulf of Maine/Bay of Fundy.              |
-|        Suborder Pinnipedia         |                                                      |
-|   Family Phocidae (true seals):    |                                                      |
-|             Gray seal              |               Western North Atlantic.                |
-|            Harbor seal             |               Western North Atlantic.                |
-|             Harp seal              |               Western North Atlantic.                |
-|            Hooded seal             |               Western North Atlantic.                |
+|              Species               |                          Stock                          |
+|------------------------------------|---------------------------------------------------------|
+| Suborder Mysticeti (baleen whales) |                                                         |
+| Family Balaenidae (right whales):  |                                                         |
+|   North Atlantic right whale \*    |                        Western.                         |
+| Family Balaenopteridae (roquals):  |                                                         |
+|           Blue whale \*            |      Western North Atlantic (Gulf of St. Lawrence)      |
+|           Bryde's whale            |           Northern Gulf of Mexico.  <br/>NSD.           |
+|            Minke whale             |                  Canadian East Coast.                   |
+|            Fin whale \*            |                 Western North Atlantic.                 |
+|           Humpback whale           |                     Gulf of Maine.                      |
+|            Sei whale \*            |                      Nova Scotia.                       |
+|Suborder Odontoceti (toothed whales)|                                                         |
+| Family Physeteridae (sperm whale): |                                                         |
+|           Sperm whale \*           |      Gulf of Mexico Oceanic  <br/>North Atlantic.       |
+|  Family Kogiidae (sperm whales):   |                                                         |
+|         Dwarf sperm whale          |  Gulf of Mexico Oceanic.  <br/>Western North Atlantic.  |
+|         Pygmy sperm whale          | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+| Family Ziphiidae (beaked whales):  |                                                         |
+|     Blainville's beaked whale      | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|       Cuvier's beaked whale        | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|       Gervais' beaked whale        | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|     Northern bottlenose whale      |                 Western North Atlantic.                 |
+|      Sowersby's beaked whale       |                 Western North Atlantic.                 |
+|        True's beaked whale         |                 Western North Atlantic.                 |
+|   Family Delphinidae (dolphins):   |                                                         |
+|      Atlantic spotted dolphin      | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|    Atlantic white-sided dolphin    |                 Western North Atlantic.                 |
+|         Bottlenose dolphin         |Choctawhatchee Bay.  <br/>Gulf of Mexico Eastern Coastal.|
+|                                    |            Gulf of Mexico Northern Coastal.             |
+|                                    |             Gulf of Mexico Western Coastal.             |
+|                                    |          Indian River Lagoon Estuarine System.          |
+|                                    |             Jacksonville Estuarine System.              |
+|                                    |      Mississippi Sound, Lake Borgne, Bay Boudreau.      |
+|                                    |       Northern Gulf of Mexico Continental Shelf.        |
+|                                    |            Northern Gulf of Mexico Oceanic.             |
+|                                    |        Northern North Carolina Estuarine System.        |
+|                                    |        Southern North Carolina Estuarine System.        |
+|                                    |    Western North Atlantic Northern Florida Coastal.     |
+|                                    |     Western North Atlantic Central Florida Coastal.     |
+|                                    |   Western North Atlantic Northern Migratory Coastal.    |
+|                                    |            Western North Atlantic Offshore.             |
+|                                    | Western North Atlantic South Carolina/Georgia Coastal.  |
+|                                    |   Western North Atlantic Southern Migratory Coastal.    |
+|          Clymene dolphin           | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|         False killer whale         | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|          Fraser's dolphin          | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|            Killer whale            | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|      Long-finned pilot whale       |                 Western North Atlantic.                 |
+|         Melon-headed whale         | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|    Pantropical spotted dolphin     |  Northern Gulf of Mexico  <br/>Western North Atlantic.  |
+|         Pygmy killer whale         | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|          Risso's dolphin           | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|       Rough-toothed dolphin        | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|    Short-beaked common dolphin     |                 Western North Atlantic.                 |
+|      Short-finned pilot whale      |     Northern Gulf of Mexico.Western North Atlantic.     |
+|          Spinner dolphin           | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|          Striped dolphin           | Northern Gulf of Mexico.  <br/>Western North Atlantic.  |
+|        White-beaked dolphin        |                 Western North Atlantic.                 |
+|  Family Phocoenidae (porpoises):   |                                                         |
+|          Harbor porpoise           |               Gulf of Maine/Bay of Fundy.               |
+|        Suborder Pinnipedia         |                                                         |
+|   Family Phocidae (true seals):    |                                                         |
+|             Gray seal              |                 Western North Atlantic.                 |
+|            Harbor seal             |                 Western North Atlantic.                 |
+|             Harp seal              |                 Western North Atlantic.                 |
+|            Hooded seal             |                 Western North Atlantic.                 |

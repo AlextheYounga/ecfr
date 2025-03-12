@@ -1,3 +1,7 @@
-##### § 1486.200 What entities are eligible to participate in the program? #####
+##### § 1486.200 Participation eligibility. #####
 
-To participate in the EMP, U.S. private or government entities must demonstrate a role or interest in the exports of U.S. agricultural commodities or products. Government organizations consist of federal, state, and local agencies. Private entities include non-profit trade associations, universities, agricultural cooperatives, state regional trade groups, and profit-making entities and consulting businesses.
+(a) To participate in the EMP, U.S. private or government entities must demonstrate a role or interest in the exports of U.S. agricultural commodities. Government organizations consist of Federal, state, and local agencies. Private entities include non-profit trade associations, universities, agricultural cooperatives, SRTGs, consulting businesses, research institutions, and profit-making entities. Foreign organizations, whether government or private, may participate as subrecipients in activities carried out by U.S. entities, but are not eligible for direct funding assistance from the program.
+
+(b) Proposals from research and consulting entities will be considered for funding assistance only with evidence of substantial participation in and financial support to the proposed project by U.S. industry. Such support is most credibly demonstrated through actual monetary contributions to the cost of the project.
+
+(c) For-profit entities shall not use program funds to conduct private business, promote private self-interests, or promote their own products or services beyond specific uses approved in a given project. For-profit entities shall not use program funds to supplement the costs of normal day-to-day operations.

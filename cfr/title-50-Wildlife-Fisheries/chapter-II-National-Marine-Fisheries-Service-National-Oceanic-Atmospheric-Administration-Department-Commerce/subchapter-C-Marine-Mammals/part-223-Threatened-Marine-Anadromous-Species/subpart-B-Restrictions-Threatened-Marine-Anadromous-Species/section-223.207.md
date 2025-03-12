@@ -1,5 +1,7 @@
 ##### § 223.207 Approved TEDs. #####
 
+Link to an amendment published at 84 FR 70063, Dec. 20, 2019.
+
 Any netting, webbing, or mesh that may be measured to determine compliance with this section is subject to measurement, regardless of whether it is wet or dry. Any such measurement will be of the stretched mesh size.
 
 (a) *Hard TEDs.* Hard TEDs are TEDs with rigid deflector grids and are categorized as “hooped hard TEDs” and “single-grid hard TEDs” such as the Matagorda and Georgia TED (Figures 3 & 4 to this part). Hard TEDs complying with the following generic design criteria are approved TEDs:

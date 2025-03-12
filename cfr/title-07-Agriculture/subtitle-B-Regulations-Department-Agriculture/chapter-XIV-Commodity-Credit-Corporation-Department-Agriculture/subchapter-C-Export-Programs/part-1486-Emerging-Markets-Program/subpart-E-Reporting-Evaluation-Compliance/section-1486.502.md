@@ -1,3 +1,21 @@
-##### § 1486.502 How is project effectiveness measured? #####
+##### § 1486.502 Compliance reviews and notices. #####
 
-Project evaluations may be carried out by FAS at its option with or without Recipients. FAS may also seek outside expertise to conduct or participate in evaluations.
+(a) *Compliance review process.* (1) USDA staff may conduct compliance reviews of Recipient's activities under the EMP to ensure compliance with this part, applicable Federal laws and regulations, and the terms of the agreements and approval letters. Recipients shall cooperate fully with relevant USDA staff conducting compliance reviews and shall comply with all requests from USDA staff to facilitate the conduct of such reviews. Program funds spent inappropriately or on unapproved activities must be returned to CCC.
+
+(2) Any project or activity funded under the program is subject to review or audit at any time during the course of implementation or after the completion of the project.
+
+(3) Upon conclusion of the compliance review, USDA staff will provide a written compliance report to the Recipient. The compliance report will detail any instances where it appears that the Recipient is not complying with any of the terms or conditions of the agreement, approval letter, or the applicable laws and regulations. The report will also specify if it appears that CCC may be entitled to recover funds from the Recipient and will explain the basis for any recovery of funds from the Recipient. If, as a result of a compliance review, CCC determines that further review is needed in order to ensure compliance with the requirements of the EMP, CCC may require the Recipient to contract for an independent audit.
+
+(4) In addition, CCC may notify a Recipient in writing at any time if CCC determines that CCC may be entitled to recover funds from the Recipient. CCC will explain the basis for any recovery of funds from the Recipient in the written notice. The Recipient shall, within 30 calendar days of the date of the notice, repay CCC the amount owed either by submitting a check payable to CCC or by offsetting its next reimbursement claim. The Recipient shall make such payment in U.S. dollars, unless otherwise approved in advance by CCC. If, however, a Recipient notifies CCC within 30 calendar days of the date of the written notice that the Recipient intends to file an appeal pursuant to the provisions of this part, the amount owed to CCC by the Recipient is not due until the appeal procedures are concluded and CCC has made a final determination as to the amount owed.
+
+(5) The fact that a compliance review has been conducted by USDA staff does not signify that a Recipient is in full compliance with its agreement, approval letter, and/or applicable laws and regulations.
+
+(b) *Recipient response to compliance report.* (1) A Recipient shall, within 60 calendar days of the date of the issuance of a compliance report, submit a written response to CCC. The response may include additional documentation for consideration or a request for reconsideration of any finding along with supporting justification. If the Recipient does not wish to contest the compliance report, the response shall include any money owed to CCC, which may be returned by submitting a check payable to CCC or by offsetting a reimbursement claim. The Recipient shall make any payments in U.S. dollars, unless otherwise approved in advance by CCC. CCC, at its discretion, may extend the period for response.
+
+(2) After reviewing the response, CCC shall determine whether the Recipient owes any funds to CCC and will inform the Recipient in writing of the basis for the determination. CCC may initiate action to collect such amount by providing the Recipient a written demand for payment of the debt pursuant to the debt settlement policies and procedures in 7 CFR part 1403.
+
+(c) *Recipient appeals of CCC determinations.* (1) Within 30 calendar days of the date of the issuance of a determination, the Recipient may appeal the determination by making a request in writing that includes the basis for such reconsideration. The Recipient may also request a hearing.
+
+(2) If the Recipient requests a hearing, CCC will set a date and time for the hearing. The hearing will be an informal proceeding. A transcript will not ordinarily be prepared unless the Recipient bears the cost of a transcript; however, CCC may, at its discretion, have a transcript prepared at CCC's expense.
+
+(3) CCC will base its final determination upon information contained in the administrative record. The Recipient must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by CCC.

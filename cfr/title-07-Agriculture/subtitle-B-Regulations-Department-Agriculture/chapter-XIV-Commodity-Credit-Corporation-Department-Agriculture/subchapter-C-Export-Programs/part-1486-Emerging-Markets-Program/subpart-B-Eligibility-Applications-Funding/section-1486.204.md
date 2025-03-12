@@ -1,3 +1,9 @@
-##### § 1486.204 Are multi-year proposals eligible for funding? #####
+##### § 1486.204 Funding limits. #####
 
-Proposals for projects exceeding 1 year in duration may be considered. If approved, funding for multi-year projects is normally provided 1 year at a time, with commitments beyond the first year subject to interim evaluations intended to assess the progress of the project toward meeting its intended objectives.
+(a) The EMP is a relatively small program intended to develop, maintain, or expand access to qualified emerging markets. Its funds are intended for focused projects with specific activities, rather than expansive concept papers that contain only broad ideas. Large, overly expensive projects (*i.e.,* in excess of $500,000) will not be funded.
+
+(b) CCC will not reimburse 100 percent of the cost of any project undertaken by the private sector. The program is intended to provide appropriate assistance to projects that have significant financial contributions from other sources, especially U.S. private industry.
+
+(c) Proposals for projects exceeding one year in duration may be considered, but proposals for projects that last longer than five years will not be considered. If approved, funding for multi-year projects may be provided one year at a time, with commitments beyond the first-year subject to interim evaluations intended to assess the progress of the project toward meeting its intended objectives.
+
+(d) Funding for continuing and substantially similar projects is generally limited to three calendar years, although FAS will entertain requests to extend an agreement's expiration date up to a maximum of five calendar years. After that time, the project is assumed to have proven its viability and, if necessary, should be continued by the Recipient with its own or with alternative sources of funding. Recipients must submit in writing a valid justification for why an extension is necessary no later than 60 days before the end of the period of performance. If warranted, extensions generally will be granted in one-year increments. Recipients must wait for written approval from FAS before proceeding with the project.

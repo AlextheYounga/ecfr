@@ -1,3 +1,11 @@
-##### § 1486.509 Are Recipients allowed to charge fees for specific activities in approved projects? #####
+##### § 1486.509 Noncompliance with an agreement. #####
 
-Reasonable activity fees or registration fees, if identified as such in a project budget, may be charged for projects approved for program funding. Income or refunds generated from an activity, however, for which the expenditures have been wholly or partially reimbursed, shall be repaid by submitting a check payable to CCC or offsetting the Recipient's reimbursement claim. Any activity fees charged must be used to offset activity expenses. Such fees may not be used as profit or counted as cost-share. The intent to charge a fee must be part of the original proposal, along with an explanation of how such fees are to be used.
+(a) If a Recipient fails to comply with any term in its agreement, approval letter, or this part, CCC may take one or more of the enforcement actions in 2 CFR part 200 and, if appropriate, initiate a claim against the Recipient, following the procedures set forth in this part. CCC may also initiate a claim against a Recipient if program income or CCC-provided funds are lost due to an action or omission of the Recipient. If any Recipient has engaged in fraud with respect to the EMP program, or has otherwise violated program requirements under this part, CCC may:
+
+(1) Hold such Recipient liable for any and all losses to CCC resulting from such fraud or violation;
+
+(2) Require a refund of any assistance provided to such Recipient plus interest as determined by FAS; and
+
+(3) Collect liquidated damages from such Recipient in an amount determined appropriate by FAS.
+
+(b) The provisions of this section shall be without prejudice to any other remedy that is available under any other provision of law.

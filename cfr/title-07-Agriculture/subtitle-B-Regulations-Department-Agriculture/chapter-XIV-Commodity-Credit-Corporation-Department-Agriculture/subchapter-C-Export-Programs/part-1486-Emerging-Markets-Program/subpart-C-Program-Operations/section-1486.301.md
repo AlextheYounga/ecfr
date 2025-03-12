@@ -1,5 +1,11 @@
-##### § 1486.301 How is the working relationship established between CCC and the Recipient of program funding? #####
+##### § 1486.301 Amendments. #####
 
-(a) FAS will send an approval letter followed by a project agreement to each approved applicant. The approval letter and agreement will specify the terms and conditions applicable to the project, including the levels of EMP funding and cost-share contribution requirements. The applicant is authorized to begin implementation of the project as of the date of the approval letter, unless otherwise indicated.
+(a) Recipients may request to modify approved projects if circumstances change in such a way that they would likely affect the progress and ultimate success of a project. Such modification must be made through a written amendment to the agreement. All requests for project modifications must be made in writing to CCC and must include:
 
-(b) An applicant who accepts the terms and conditions contained in the agreement should so indicate by having the appropriate authorizing official sign the agreement and submit it to the Director, Marketing Operations Staff, FAS, USDA. The applicant may not be reimbursed for approved project expenses until the Recipient's authorizing official and CCC have signed the agreement.
+(1) A justification as to why changes to the project as originally designed are needed;
+
+(2) An explanation of the necessary adjustments in approach or strategy; and
+
+(3) A description of necessary changes in the project's time line(s) and/or budget (*e.g.,* shifting of budgetary resources from one-line item to another in order to accommodate the changes).
+
+(b) All requests for project modifications must be reviewed and approved by CCC. Upon approval, CCC will issue an amendment to the agreement, which must be signed by CCC and the Recipient.

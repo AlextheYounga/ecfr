@@ -1,7 +1,5 @@
 ##### § 300.67 Charter halibut limited access program. #####
 
-Link to an amendment published at 84 FR 64026, Nov. 20, 2019.
-
 This section establishes limitations on using a vessel on which charter vessel anglers catch and retain Pacific halibut in International Pacific Halibut Commission (IPHC) regulatory areas 2C and 3A.
 
 (a) *General permit requirements.* (1) In addition to other applicable permit, licensing, or registration requirements, any charter vessel guide of a charter vessel during a charter vessel fishing trip with one or more charter vessel anglers catching and retaining Pacific halibut on board must have on board the vessel an original valid charter halibut permit or permits endorsed for the regulatory area in which the charter vessel is operating and endorsed for at least the number of charter vessel anglers who are catching and retaining Pacific halibut. Each charter halibut permit holder must ensure that the charter vessel operator and charter vessel guide of the charter vessel comply with all requirements of §§ 300.65, 300.66, and 300.67.
@@ -9,6 +7,18 @@ This section establishes limitations on using a vessel on which charter vessel a
 (2) *Area endorsement.* A charter halibut permit is valid only in the International Pacific Halibut Commission regulatory area for which it is endorsed. Regulatory areas are defined in the annual management measures published pursuant to § 300.62.
 
 (3) *Charter vessel angler endorsement.* A charter halibut permit is valid for up to the maximum number of charter vessel anglers on a single charter vessel for which the charter halibut permit is endorsed.
+
+(4) *Annual registration.* A charter halibut permit holder must register a charter halibut permit with NMFS during the calendar year when it will be used to be valid.
+
+(i) *Application and submittal.* An application for a charter halibut permit annual registration will be made available by NMFS. A completed registration application may be submitted using the NMFS-approved electronic reporting system on the Alaska Region website at *https://www.fisheries.noaa.gov/region/alaska*. Completed applications may also be submitted by mail, hand delivery, or facsimile at any time to the address(s) listed on the application.
+
+(ii) *Complete annual registration.* To be complete, a charter halibut permit registration application must have all required fields accurately completed and be signed and dated by the applicant.
+
+(iii) *Denied registration applications.* If NMFS does not approve an annual charter halibut permit registration application, NMFS will inform the applicant of the basis for its disapproval and provide the applicant with a 30-day evidentiary period in which to correct any application deficiencies.
+
+(A) *Initial Administration Determination (IAD).* NMFS will send an IAD to the applicant following the expiration of the 30-day evidentiary period if NMFS determines there is sufficient reason to deny the application. The IAD will indicate the deficiencies in the application and the deficiencies with the information submitted by the applicant in support of its claim.
+
+(B) *Appeal.* An applicant that receives an IAD may appeal to the Office of Administrative Appeals (OAA) pursuant to 15 CFR part 906.
 
 (b) *Qualifications for a charter halibut permit.* A charter halibut permit for IPHC regulatory area 2C must be based on meeting participation requirements in area 2C. A charter halibut permit for IPHC regulatory area 3A must be based on meeting participation requirements in area 3A. Qualifications for a charter halibut permit in each area must be determined separately and must not be combined.
 
@@ -156,7 +166,7 @@ This section establishes limitations on using a vessel on which charter vessel a
 
 (5) *Initial Administration Determination (IAD).* NMFS will send an IAD to the applicant following the expiration of the 30-day evidentiary period if NMFS determines that the applicant has not met its burden of proving that the official charter halibut record is incorrect or that other reasons exist to initially deny the application. The IAD will indicate the deficiencies in the application and the deficiencies with the information submitted by the applicant in support of its claim.
 
-(6) *Appeal.* An applicant that receives an IAD may appeal to the Office of Administrative Appeals (OAA) pursuant to § 679.43 of this title.
+(6) *Appeal.* An applicant that receives an IAD may appeal to the Office of Administrative Appeals (OAA) pursuant to 15 CFR part 906.
 
 (i) If the applicant does not apply for a charter halibut permit within the application period specified in the Federal Register, the applicant will not receive any interim permits pending final agency action on the application.
 
@@ -264,4 +274,4 @@ This section establishes limitations on using a vessel on which charter vessel a
 
 (2) *Application procedure.* An applicant may apply for a military charter halibut permit at any time. To be complete, a military charter halibut permit application must be signed and dated by the applicant, and the applicant must attest that, to the best of the applicants' knowledge, all statements in the application are true and complete. An application for a military charter halibut permit will be made available by NMFS and may be submitted by mail, hand delivery, or facsimile at any time to the address(s) listed on the application. Electronic deliveries other than facsimile will not be accepted.
 
-[75 FR 600, Jan. 5, 2010, as amended at 75 FR 56909, Sept. 17, 2010; 78 FR 33650, June 4, 2013; 78 FR 75890, Dec. 12, 2013; 80 FR 35207, June 19, 2015]
+[75 FR 600, Jan. 5, 2010, as amended at 75 FR 56909, Sept. 17, 2010; 78 FR 33650, June 4, 2013; 78 FR 75890, Dec. 12, 2013; 80 FR 35207, June 19, 2015; 84 FR 64026, Nov. 20, 2019]

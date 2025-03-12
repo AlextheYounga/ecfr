@@ -1,3 +1,3 @@
-##### § 1486.102 Is there a list of eligible emerging market countries? #####
+##### § 1486.102 Regional projects. #####
 
-The World Bank periodically redefines the income limits on upper middle-income economies. Consequently, an absolute list of “emerging market” countries has not been established. However, CCC will provide general guidance on country eligibility in each program announcement.
+Projects that focus on regions, such as the Caribbean Basin, rather than individual countries are eligible for consideration provided such projects target qualifying emerging markets in the specified region. CCC may also consider activities that target qualified emerging markets in a specific region but are conducted in a non-emerging market because of its importance as a central location and ease of access to that region.

@@ -1,49 +1,33 @@
-##### § 1486.101 What special definitions apply to this program? #####
+##### § 1486.101 Definitions. #####
 
-For purposes of this subpart, the following definitions apply:
+For purposes of this part, the following definitions apply:
 
-*Activities* - components of a project which, when implemented collectively, are intended to achieve a specific market development objective.
+*Activities* means components of a project that carries out one or more statutorily-authorized activities, *e.g.,* activities that assess the food and rural business system needs of emerging markets; promote information exchange with such markets; and/or carry out recommendations, projects, and opportunities in emerging markets to enhance the effectiveness of such systems.
 
-*Administrator* - the Administrator of FAS, or designee.
+*Agreement* means a legally binding grant entered into between CCC and an EMP applicant setting forth the terms and conditions of approved activities under the EMP, including any subsequent amendments to such agreement.
 
-*Advisory Committee* - a group of representatives from the private sector appointed by the Secretary of Agriculture whose primary mission is to review proposals requesting funding under the EMP and make recommendations on projects and programs that can enhance exports through the use of program funds.
+*Approval letter* means a document by which CCC informs an applicant that its EMP proposal has been approved for funding. This letter may also approve specific activities and contain terms and conditions in addition to the agreement.
 
-*Agreement* - a written assistance agreement under this part.
+*Attaché/Counselor* means the FAS employee representing United States Department of Agriculture interests in a foreign country.
 
-*Agricultural Commodity* - an agricultural commodity, food, feed, fiber, wood, livestock, or insect, and any product thereof; and fish harvested from a U.S. aquaculture farm or harvested by a vessel as defined in Title 46, United States Code, in waters that are not waters (including the territorial sea) of a foreign country.
+*Cost share* means the portion of project costs not paid by Federal funds (unless otherwise authorized by Federal statute). In terms of the EMP program, cost share is the funds provided by the Recipient, the U.S. industry, or a State agency in support of an approved activity.
 
-*Attache/Counselor* - the Foreign Agricultural Service employee representing United States Department of Agriculture interests in the foreign country in which promotional activities are conducted.
+*Emerging market* means generally any country, foreign territory, customs union, or other economic market that CCC determines is taking steps toward a market-oriented economy through its food, agriculture, or rural business sectors of the economy and has the potential to provide a viable and significant market for U.S. agricultural commodities. CCC has determined that any country that is not designated as a high-income country by the World Bank is an eligible emerging market under this program. The World Bank periodically redefines the income limits for its country classification. Consequently, the list of “emerging market” countries may change over time. CCC will provide guidance on country eligibility in each program announcement.
 
-*CCC* - Commodity Credit Corporation.
+*Generic activities* mean an activity that does not involve or promote the exclusive or predominant use of an individual company name, logo, or brand name, or the brand of a U.S. agricultural cooperative, but rather promotes a U.S. agricultural commodity generally.
 
-*Compliance Review Staff* - the office within the Foreign Agricultural Service responsible for performing reviews of Recipients to ensure compliance under this part.
+*Project* means an approach or undertaking made up of one or more activities that, taken together, carries out one or more statutorily-authorized activities under the EMP (*e.g.,* activities that assess the food and rural business system needs of emerging markets and develop recommendations on measures necessary to enhance the effectiveness of such systems; promote information exchange with such markets; or identify and carry out specific recommendations, opportunities, or projects to enhance the effectiveness of such systems).
 
-*Constraint* - a condition in a particular country or region which inhibits the development, expansion, or maintenance of exports of a specific U.S. agricultural commodity or product.
+*Project funds* means the funds made available to a Recipient by CCC under an agreement and authorized for expenditure in accordance with this part.
 
-*Cost Share/Contribution* - the amount of funding (cash and in-kind) U.S. entities are willing to commit from their own resources in support of an approved project.
+*Proposal* means an application for funding.
 
-*Deputy Administrator* - the Deputy Administrator, Commodity and Marketing Programs, Foreign Agricultural Service, or designee.
+*Recipient* means a U.S. entity receiving financial assistance from CCC to carry out a project under the EMP.
 
-*Emerging Market* - any country or regional grouping that is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of the economy of the country; has the potential to provide a viable and significant market for United States agricultural commodities or products; a population greater than 1 million; and a per capita income level below the level for upper middle-income countries as determined by the World Bank.
+*SRTG* is the acronym for State Regional Trade Group. An STRG is a non-profit association of state-funded agricultural promotion agencies.
 
-*EMP* - Emerging Markets Program.
+*STRE* is the acronym for sales and trade relations expenditures. Expenditures made on breakfast, lunch, dinner, receptions, and refreshments at approved activities; miscellaneous courtesies such as checkroom fees, taxi fares and tips for approved activities; and decorations for a special promotional occasion that is part of an approved activity.
 
-*FAS* - Foreign Agricultural Service.
+*Unified Export Strategy (UES) system* means an online internet system maintained by FAS through which applicants may apply to the EMP and other FAS market development programs. The system is currently accessible at *https://apps.fas.usda.gov/ues/webapp/.* FAS may prescribe a different system through which applicants may apply to EMP and will announce such system in the applicable Notice of Funding Opportunity (NOFO).
 
-*Generic Promotion* - an activity that does not involve or promote the exclusive or predominant use of an individual company name or logo or brand name.
-
-*Project* - an approach or undertaking made up of one or more activities which, taken together, are intended to achieve a specific market development objective.
-
-*Project Funds* - the funds made available to a Recipient by the Commodity Credit Corporation under an agreement, and authorized for expenditure in accordance with this part.
-
-*Proposal* - an application for funding.
-
-*Recipient* - a U.S. entity receiving financial assistance directly from the Commodity Credit Corporation or Foreign Agricultural Service to carry out a project.
-
-*SRTG* - State Regional Trade Group.
-
-*STRE* - sales and trade relations expenses including meals, receptions, refreshments, checkroom fees, tips, and dining decorations.
-
-*UES* - Unified Export Strategy.
-
-*USDA* - United States Department of Agriculture.
+*U.S. agricultural commodity* means any agricultural commodity of U.S. origin, including food, feed, fiber, forestry product, livestock, insects, and fish harvested from a U.S. aquaculture farm or harvested by a vessel (as defined in Title 46 of the United States Code) in waters that are not waters (including the territorial sea) of a foreign country, and any product thereof.

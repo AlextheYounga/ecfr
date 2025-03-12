@@ -1,5 +1,7 @@
 ##### § 300.21 Definitions. #####
 
+Link to an amendment published at 84 FR 70044, Dec. 20, 2019.
+
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
 *Active FAD* means a FAD whose location is being tracked by the vessel owner or operator using tracking equipment, such as radio or satellite buoys. A FAD shall be considered an Active FAD unless/until the vessel is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is no longer active (*i.e.,* deactivated).

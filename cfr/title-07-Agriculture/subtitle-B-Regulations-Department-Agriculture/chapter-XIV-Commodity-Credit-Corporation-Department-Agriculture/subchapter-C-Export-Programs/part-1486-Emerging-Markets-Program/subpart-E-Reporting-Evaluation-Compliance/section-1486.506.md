@@ -1,3 +1,5 @@
-##### § 1486.506 When will a project be reviewed? #####
+##### § 1486.506 Disclosure of program information. #####
 
-Any project or activity funded under the program is subject to review or audit at any time during the course of implementation or after the completion of the project.
+(a) Documents submitted to CCC by Recipients are subject to the provisions of the Freedom of Information Act (FOIA), 5 U.S.C. 552, and 7 CFR part 1, subpart A, including, specifically, 7 CFR 1.11.
+
+(b) Any research conducted by a Recipient pursuant to an agreement and/or approval letter shall be subject to the provisions relating to intangible property in 2 CFR part 200.

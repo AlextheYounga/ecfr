@@ -1,3 +1,5 @@
-##### § 1486.300 How are applicants notified of decisions on their applications? #####
+##### § 1486.300 Applicant notification. #####
 
-FAS will notify each applicant in writing of the final decision on its application. For approvals, letters will contain the notice of approval and any required qualifications or adjustments to the original proposal. For rejections, letters will explain reasons why the proposals were not approved for funding.
+(a) CCC will notify each applicant in writing of the final decision on its application. CCC will send an agreement and an approval letter to each approved applicant. An applicant that accepts the terms and conditions contained in the agreement must so indicate by having the appropriate authorizing official sign the agreement and return it to CCC. The applicant may not begin to implement approved activities until the applicant's authorizing official and CCC have signed the agreement. The applicant is authorized to begin implementation of the project as of the date specified in the approval letter, unless otherwise indicated.
+
+(b) The approval letter and agreement will outline the activities and budgets that are approved and will specify the terms and conditions applicable to the project, including the levels of EMP funding and cost-share requirements.

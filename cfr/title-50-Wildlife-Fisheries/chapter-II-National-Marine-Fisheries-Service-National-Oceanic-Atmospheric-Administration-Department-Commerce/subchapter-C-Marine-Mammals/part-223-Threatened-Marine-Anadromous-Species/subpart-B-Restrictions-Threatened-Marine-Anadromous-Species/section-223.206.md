@@ -1,5 +1,7 @@
 ##### § 223.206 Exceptions to prohibitions relating to sea turtles. #####
 
+Link to an amendment published at 84 FR 70063, Dec. 20, 2019.
+
 (a) *Permits* - (1) *Scientific research, education, zoological exhibition, or species enhancement permits.* The Assistant Administrator may issue permits authorizing activities which would otherwise be prohibited under § 223.205(a) for scientific or educational purposes, for zoological exhibition, or to enhance the propagation or survival of threatened species of sea turtles, in accordance with and subject to the conditions of part 222, subpart C - General Permit Procedures.
 
 (2) *Incidental-take permits.* The Assistant Administrator may issue permits authorizing activities that would otherwise be prohibited under § 223.205(a) in accordance with section 10(a)(1)(B) of the Act (16 U.S.C. 1539(a)(1)(B)), and in accordance with, and subject to, the implementing regulations in part 222 of this chapter. Such permits may be issued for the incidental taking of threatened and endangered species of sea turtles.

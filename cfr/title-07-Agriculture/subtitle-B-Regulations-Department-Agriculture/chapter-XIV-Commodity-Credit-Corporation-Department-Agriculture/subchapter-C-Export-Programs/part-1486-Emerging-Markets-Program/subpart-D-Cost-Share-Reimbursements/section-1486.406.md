@@ -1,0 +1,7 @@
+##### § 1486.406 Advances. #####
+
+(a) *Policy.* In general, CCC operates the EMP on a cost reimbursable basis.
+
+(b) *Exception.* Upon request, CCC may make advance payments to a Recipient against an approved project budget. Up to 40 percent of the approved project budget may be provided as an advance, either at one time or in incremental payments. Advances should be limited to the minimum amounts needed and requested as close as is administratively feasible to the actual time of disbursement by the Recipient. Reimbursement claims will be used to offset advances. Recipients shall deposit and maintain advances in insured, interest-bearing accounts, unless the exceptions in 2 CFR part 200 apply. Interest earned by the Recipient on funds advanced by CCC is not program income. Up to $500 of interest earned per year may be retained by the Recipient for administrative expenses. Any additional interest earned on Federal advance payments shall be remitted annually to the appropriate entity as required in 2 CFR part 200.
+
+(c) *Refunds due CCC.* A Recipient shall fully expend all advances on approved activities within 90 calendar days after the date of disbursement by CCC. By the end of 90 calendar days, the Recipient must submit reimbursement claims to offset the advance and submit a check made payable to CCC for any unexpended balance. The Recipient shall make such payment in U.S. dollars, unless otherwise approved in advance by CCC.

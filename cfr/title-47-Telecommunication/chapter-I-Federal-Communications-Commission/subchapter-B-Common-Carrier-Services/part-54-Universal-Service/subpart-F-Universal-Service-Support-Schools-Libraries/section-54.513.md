@@ -1,5 +1,7 @@
 ##### § 54.513 Resale and transfer of services. #####
 
+Link to a delay published at 84 FR 70037, Dec. 20, 2019.
+
 (a) *Prohibition on resale.* Eligible supported services provided at a discount under this subpart shall not be sold, resold, or transferred in consideration of money or any other thing of value, except as provided in paragraph (b) of this section.
 
 (b) *Disposal of obsolete equipment components of eligible services.* Eligible equipment components of eligible services purchased at a discount under this subpart shall be considered obsolete if the equipment components have has been installed for at least five years. Obsolete equipment components of eligible services may be resold or transferred in consideration of money or any other thing of value, disposed of, donated, or traded.

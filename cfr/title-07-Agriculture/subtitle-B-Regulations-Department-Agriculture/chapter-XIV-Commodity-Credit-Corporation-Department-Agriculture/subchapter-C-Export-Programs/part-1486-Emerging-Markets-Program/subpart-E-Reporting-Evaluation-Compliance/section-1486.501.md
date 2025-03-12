@@ -1,3 +1,3 @@
-##### § 1486.501 What is the rule on notifying field offices of international travel? #####
+##### § 1486.501 Evaluation. #####
 
-The Recipient must advise the Agricultural Counselor(s) or Attache(s) in the country or countries of any planned visits by the Recipient or its consultants or other participants to such country or countries under terms of its agreement. Failure to notify the Counselor/Attache may result in disallowance of the travel expenditures.
+Project evaluations may be carried out by CCC at its option with or without Recipients. CCC may also seek outside expertise to conduct or participate in evaluations.

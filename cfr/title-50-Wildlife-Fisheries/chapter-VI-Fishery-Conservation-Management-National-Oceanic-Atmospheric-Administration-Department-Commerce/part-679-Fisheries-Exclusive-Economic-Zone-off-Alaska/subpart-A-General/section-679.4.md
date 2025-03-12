@@ -1,6 +1,6 @@
 ##### § 679.4 Permits. #####
 
-Link to an amendment published at 84 FR 64027, Nov. 20, 2019.
+Link to an amendment published at 84 FR 70070, Dec. 20, 2019.
 
 (a) *Requirements.* Only persons who are U.S. citizens are authorized to receive or hold permits under this section, with the exception that an IFQ hired master permit or a CDQ hired master permit need not be held by a U.S. citizen.
 
@@ -55,7 +55,7 @@ Link to an amendment published at 84 FR 64027, Nov. 20, 2019.
 |         (G) Federal crab vessel permit         |                                               Specified fishing year                                               |     § 680.4(k) of this chapter     |
 |   (H) Crab harvesting cooperative IFQ permit   |                                               Specified fishing year                                               |    § 680.21(b) of this chapter     |
 |   (xv) Guided sport halibut fishery permits:   |                                                                                                                    |                                    |
-|           (A) Charter halibut permit           |                                                     Indefinite                                                     |      § 300.67 of this title.       |
+|           (A) Charter halibut permit           |                                       Until expiration date shown on permit                                        |      § 300.67 of this title.       |
 |      (B) Community charter halibut permit      |                                                     Indefinite                                                     |      § 300.67 of this title.       |
 |      (C) Military charter halibut permit       |                                                     Indefinite                                                     |      § 300.67 of this title.       |
 |      (D) Guided Angler Fish (GAF) permit       |                                       Until expiration date shown on permit                                        |      § 300.65 of this title.       |

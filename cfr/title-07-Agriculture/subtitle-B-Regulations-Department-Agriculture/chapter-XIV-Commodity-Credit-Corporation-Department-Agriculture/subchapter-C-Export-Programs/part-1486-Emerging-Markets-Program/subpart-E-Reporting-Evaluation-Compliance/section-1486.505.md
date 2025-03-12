@@ -1,7 +1,19 @@
-##### § 1486.505 Can a Recipient appeal the determinations of the Director, CRS? #####
+##### § 1486.505 Audit requirements. #####
 
-(a) A Recipient may appeal the determinations of the Director, CRS, to the Deputy Administrator, CMP. The request must be in writing and be submitted to the Office of the Deputy Administrator, CMP, within 30 days following the date of the original determination. The Recipient may request a hearing.
+(a) Subpart F of 2 CFR part 200 applies to all Recipients and subrecipients under this part other than those that are for-profit entities, foreign public entities, or foreign organizations.
 
-(b) If the Recipient submits its appeal and requests a hearing, the Deputy Administrator, or the Deputy Administrator's designee, will set a date and time, generally within 60 days. The hearing will be an informal proceeding. A transcript will not ordinarily be prepared unless the Recipient bears the cost of the transcript; however, the Deputy Administrator or designee may have a transcript prepared at FAS's expense.
+(b) A Recipient or subrecipient that is a for-profit entity or a subrecipient that is a foreign organization and that expends, during its fiscal year, a total of at least the audit requirement threshold in 2 CFR 200.501 in Federal awards, is required to obtain an audit. Such a Recipient or subrecipient has the following two options to satisfy the requirement in this paragraph (b):
 
-(c) The Deputy Administrator or the Deputy Administrator's designee will base the determination on appeal upon information contained in the administrative record and will endeavor to make a determination within 60 days after submission of the appeal, hearing, or receipt of any transcript, whichever is later. The determination of the Deputy Administrator will be the final determination of FAS. The Recipient must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by the Deputy Administrator.
+(1)(i) A financial audit of the agreement or subaward, in accordance with the Government Auditing Standards issued by the United States Government Accountability Office (GAO), if the Recipient or subrecipient expends Federal awards under only one FAS program during such fiscal year; or
+
+(ii) A financial audit of all Federal awards from FAS, in accordance with GAO's Government Auditing Standards, if the Recipient or subrecipient expends Federal awards under multiple FAS programs during such fiscal year; or
+
+(2) An audit that meets the requirements contained in subpart F of 2 CFR part 200.
+
+(c) A Recipient or subrecipient that is a for-profit entity or a subrecipient that is a foreign organization and that expends, during its fiscal year, a total that is less than the audit requirement threshold in 2 CFR 200.501 in Federal awards, is exempt from requirements under this section for an audit for that year, except as provided in paragraphs (d) and (f) of this section, but it must make records available for review by appropriate officials of Federal agencies.
+
+(d) FAS may require an annual financial audit of an agreement or subaward when the audit requirement threshold in 2 CFR 200.501 is not met. In that case, FAS must provide funds under the agreement for this purpose, and the Recipient or subrecipient, as applicable, must arrange for such audit and submit it to FAS.
+
+(e) When a Recipient or subrecipient that is a for-profit entity or a subrecipient that is a foreign organization is required to obtain a financial audit under this section, it must provide a copy of the audit to FAS within 60 days after the end of its fiscal year.
+
+(f) FAS, the USDA Office of Inspector General, or GAO may conduct or arrange for additional audits of any Recipients or subrecipients, including for-profit entities and foreign organizations. Recipients and subrecipients must promptly comply with all requests related to such audits. If FAS conducts or arranges for an additional audit, such as an audit with respect to a particular agreement, FAS will fund the full cost of such an audit, in accordance with 2 CFR 200.503(d).

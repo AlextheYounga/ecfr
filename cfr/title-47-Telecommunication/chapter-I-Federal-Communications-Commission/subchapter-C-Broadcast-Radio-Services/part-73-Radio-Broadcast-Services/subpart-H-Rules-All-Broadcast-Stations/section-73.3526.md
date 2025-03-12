@@ -1,6 +1,6 @@
 ##### § 73.3526 Local public inspection file of commercial stations. #####
 
-Link to an amendment published at 84 FR 41935, Aug. 16, 2019.
+Link to an amendment published at 84 FR 41935, Aug. 16, 2019.Link to an amendment published at 84 FR 70037, Dec. 20, 2019, announcing the effective date of the above amendment.
 
 (a) *Responsibility to maintain a file.* The following shall maintain for public inspection a file containing the material set forth in this section.
 
