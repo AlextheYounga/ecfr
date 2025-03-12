@@ -1,5 +1,7 @@
 ##### § 3.14 Primary enclosures used to transport live dogs and cats. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 Any person subject to the Animal Welfare regulations (9 CFR parts 1, 2, and 3) must not transport or deliver for transport in commerce a dog or cat unless the following requirements are met:
 
 (a) *Construction of primary enclosures.* The dog or cat must be contained in a primary enclosure such as a compartment, transport cage, carton, or crate. Primary enclosures used to transport dogs and cats must be constructed so that:

@@ -1,5 +1,7 @@
 ##### § 2.11 Denial of initial license application. #####
 
+Link to an amendment published at 85 FR 28797, May 13, 2020.
+
 (a) A license will not be issued to any applicant who:
 
 (1) Has not complied with the requirements of §§ 2.1, 2.2, 2.3, and 2.4 and has not paid the fees indicated in § 2.6;

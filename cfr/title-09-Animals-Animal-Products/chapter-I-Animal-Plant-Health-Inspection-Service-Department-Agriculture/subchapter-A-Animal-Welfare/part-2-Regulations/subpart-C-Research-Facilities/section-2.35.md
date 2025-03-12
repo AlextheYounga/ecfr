@@ -1,5 +1,7 @@
 ##### § 2.35 Recordkeeping requirements. #####
 
+Link to an amendment published at 85 FR 28797, May 13, 2020.
+
 (a) The research facility shall maintain the following IACUC records:
 
 (1) Minutes of IACUC meetings, including records of attendance, activities of the Committee, and Committee deliberations;

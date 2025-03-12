@@ -1,5 +1,7 @@
 ##### § 2.75 Records: Dealers and exhibitors. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a)(1) Each dealer, other than operators of auction sales and brokers to whom animals are consigned, and each exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning each dog or cat purchased or otherwise acquired, owned, held, or otherwise in his or her possession or under his or her control, or which is transported, euthanized, sold, or otherwise disposed of by that dealer or exhibitor. The records shall include any offspring born of any animal while in his or her possession or under his or her control.
 
 (i) The name and address of the person from whom a dog or cat was purchased or otherwise acquired whether or not the person is required to be licensed or registered under the Act;

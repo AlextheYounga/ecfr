@@ -1,5 +1,7 @@
 ##### § 2.126 Access and inspection of records and property; submission of itineraries. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a) Each dealer, exhibitor, intermediate handler, or carrier, shall, during business hours, allow APHIS officials:
 
 (1) To enter its place of business;

@@ -1,5 +1,7 @@
 ##### § 1.1 Definitions. #####
 
+Link to an amendment published at 85 FR 28795, May 13, 2020.
+
 For the purposes of this subchapter, unless the context otherwise requires, the following terms shall have the meanings assigned to them in this section. The singular form shall also signify the plural and the masculine form shall also signify the feminine. Words undefined in the following paragraphs shall have the meaning attributed to them in general usage as reflected by definitions in a standard dictionary.
 
 *AC Regional Director* means a veterinarian or his designee, employed by APHIS, who is assigned by the Administrator to supervise and perform the official work of APHIS in a given State or States. As used in part 2 of this subchapter, the AC Regional Director shall be deemed to be the person in charge of the official work of APHIS in the State in which the dealer, exhibitor, research facility, intermediate handler, carrier, or operator of an auction sale has his principal place of business.

@@ -1,5 +1,7 @@
 ##### § 2.150 Import permit. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a) No person shall import a live dog from any part of the world into the continental United States or Hawaii for purposes of resale, research, or veterinary treatment unless the dog is accompanied by an import permit issued by APHIS and is imported into the continental United States or Hawaii within 30 days after the proposed date of arrival stated in the import permit.
 
 (b) An application for an import permit must be submitted to the Animal and Plant Health Inspection Service, Animal Care, 4700 River Road Unit 84, Riverdale, MD 20737-1234 or though Animal Care's Web site (*http://www.aphis.usda.gov/animal\_welfare/*). Application forms for import permits may be obtained from Animal Care at the address listed above.

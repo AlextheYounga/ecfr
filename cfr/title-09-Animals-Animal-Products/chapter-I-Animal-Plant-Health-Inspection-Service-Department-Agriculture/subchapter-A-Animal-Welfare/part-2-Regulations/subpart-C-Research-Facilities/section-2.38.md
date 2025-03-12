@@ -1,5 +1,7 @@
 ##### § 2.38 Miscellaneous. #####
 
+Link to an amendment published at 85 FR 28797, May 13, 2020.
+
 (a) *Information as to business: furnishing of same by research facilities.* Each research facility shall furnish to any APHIS official any information concerning the business of the research facility which the APHIS official may request in connection with the enforcement of the provisions of the Act, the regulations, and the standards in this subchapter. The information shall be furnished within a reasonable time and as may be specified in the request for information.
 
 (b) *Access and inspection of records and property.* (1) Each research facility shall, during business hours, allow APHIS officials:

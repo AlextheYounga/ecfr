@@ -1,5 +1,7 @@
 ##### § 3.18 Terminal facilities. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 (a) *Placement.* Any person subject to the Animal Welfare regulations (9 CFR parts 1, 2, and 3) must not commingle shipments of dogs or cats with inanimate cargo in animal holding areas of terminal facilities.
 
 (b) *Cleaning, sanitization, and pest control.* All animal holding areas of terminal facilities must be cleaned and sanitized in a manner prescribed in § 3.11(b)(3) of this subpart, as often as necessary to prevent an accumulation of debris or excreta and to minimize vermin infestation and disease hazards. Terminal facilities must follow an effective program in all animal holding areas for the control of insects, ectoparasites, and birds and mammals that are pests to dogs and cats.

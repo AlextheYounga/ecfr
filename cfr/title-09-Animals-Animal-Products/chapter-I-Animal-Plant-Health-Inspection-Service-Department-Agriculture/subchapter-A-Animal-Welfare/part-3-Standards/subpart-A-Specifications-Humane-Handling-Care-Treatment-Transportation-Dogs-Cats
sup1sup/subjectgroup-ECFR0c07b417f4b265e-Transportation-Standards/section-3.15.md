@@ -1,5 +1,7 @@
 ##### § 3.15 Primary conveyances (motor vehicle, rail, air, and marine). #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 (a) The animal cargo space of primary conveyances used to transport dogs and cats must be designed, constructed, and maintained in a manner that at all times protects the health and well-being of the animals transported in them, ensures their safety and comfort, and prevents the entry of engine exhaust from the primary conveyance during transportation.
 
 (b) The animal cargo space must have a supply of air that is sufficient for the normal breathing of all the animals being transported in it.

@@ -1,5 +1,7 @@
 ##### § 2.25 Requirements and procedures. #####
 
+Link to an amendment published at 85 FR 28797, May 13, 2020.
+
 (a) Each carrier and intermediate handler, and each exhibitor not required to be licensed under section 3 of the Act and the regulations of this subchapter, shall register with the Secretary by completing and filing a properly executed form which will be furnished, upon request, by the AC Regional Director. The registration form shall be filed with the AC Regional Director for the State in which the registrant has his or her principal place of business, and shall be updated every 3 years by the completion and filing of a new registration form which will be provided by the AC Regional Director.
 
 (b) A subsidiary of a business corporation, rather than the parent corporation, will be registered as an exhibitor unless the subsidiary is under such direct control of the parent corporation that the Secretary determines that it is necessary that the parent corporation be registered to effectuate the purposes of the Act.

@@ -1,5 +1,7 @@
 ##### § 2.132 Procurement of dogs, cats, and other animals; dealers. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a) A class “B” dealer may obtain live random source dogs and cats only from:
 
 (1) Other dealers who are licensed under the Act and in accordance with the regulations in part 2;

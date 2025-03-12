@@ -1,5 +1,7 @@
 ##### § 3.78 0utdoor housing facilities. #####
 
+Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 (a) *Acclimation.* Only nonhuman primates that are acclimated, as determined by the attending veterinarian, to the prevailing temperature and humidity at the outdoor housing facility during the time of year they are at the facility, and that can tolerate the range of temperatures and climatic conditions known to occur at the facility at that time of year without stress or discomfort, may be kept in outdoor facilities.
 
 (b) *Shelter from the elements.* Outdoor housing facilities for nonhuman primates must provide adequate shelter from the elements at all times. It must provide protection from the sun, rain, snow, wind, and cold, and from any weather conditions that may occur. The shelter must safely provide heat to the nonhuman primates to prevent the ambient temperature from falling below 45 °F (7.2 °C), except as directed by the attending veterinarian and in accordance with generally accepted professional and husbandry practices.

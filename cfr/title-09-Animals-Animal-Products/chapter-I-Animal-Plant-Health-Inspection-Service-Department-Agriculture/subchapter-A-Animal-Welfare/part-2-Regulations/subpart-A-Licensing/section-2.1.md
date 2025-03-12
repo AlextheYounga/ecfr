@@ -1,5 +1,7 @@
 ##### § 2.1 Requirements and application. #####
 
+Link to an amendment published at 85 FR 28795, May 13, 2020.
+
 (a)(1) Any person operating or intending to operate as a dealer, exhibitor, or operator of an auction sale, except persons who are exempted from the licensing requirements under paragraph (a)(3) of this section, must have a valid license. A person must be 18 years of age or older to obtain a license. A person seeking a license shall apply on a form which will be furnished by the AC Regional Director in the State in which that person operates or intends to operate. The applicant shall provide the information requested on the application form, including a valid mailing address through which the licensee or applicant can be reached at all times, and a valid premises address where animals, animal facilities, equipment, and records may be inspected for compliance. The applicant shall file the completed application form with the AC Regional Director.
 
 (2) If an applicant for a license or license renewal operates in more than one State, he or she shall apply in the State in which he or she has his or her principal place of business. All premises, facilities, or sites where such person operates or keeps animals shall be indicated on the application form or on a separate sheet attached to it. The completed application form, along with the application fee indicated in paragraph (c) of this section, and the annual license fee indicated in table 1 or 2 of § 2.6 shall be filed with the AC Regional Director.

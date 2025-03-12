@@ -1,5 +1,7 @@
 ##### § 3.111 Swim-with-the-dolphin programs. #####
 
+Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 Swim-with-the-dolphin programs shall comply with the requirements in this section, as well as with all other applicable requirements of the regulations pertaining to marine mammals.
 
 (a) *Space requirements.* The primary enclosure for SWTD cetaceans shall contain an interactive area, a buffer area, and a sanctuary area. None of these areas shall be made uninviting to the animals. Movement of cetaceans into the buffer or sanctuary area shall not be restricted in any way. Notwithstanding the space requirements set forth in § 3.104, each of the three areas required for SWTD programs shall meet the following space requirements:

@@ -1,5 +1,7 @@
 ##### § 2.151 Certifications. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a) *Required certificates.* Except as provided in paragraph (b) of this section, no person shall import a live dog from any part of the world into the continental United States or Hawaii for purposes of resale, research, or veterinary treatment unless the following conditions are met:
 
 (1) *Health certificate.* Each dog is accompanied by an original health certificate issued in English by a licensed veterinarian with a valid license to practice veterinary medicine in the country of export that:

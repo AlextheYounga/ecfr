@@ -1,5 +1,7 @@
 ##### § 2.5 Duration of license and termination of license. #####
 
+Link to an amendment published at 85 FR 28796, May 13, 2020.
+
 (a) A license issued under this part shall be valid and effective unless:
 
 (1) The license has been revoked or suspended pursuant to section 19 of the Act.

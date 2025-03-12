@@ -1,5 +1,7 @@
 ##### § 2.7 Annual report by licensees. #####
 
+Link to an amendment published at 85 FR 28796, May 13, 2020.
+
 (a) Each year, within 30 days prior to the expiration date of his or her license, a licensee shall file with the AC Regional Director an application for license renewal and annual report upon a form which the AC Regional Director will furnish to him or her upon request.
 
 (b) A person licensed as a dealer shall set forth in his or her license renewal application and annual report the dollar amount of business, from the sale of animals, upon which the license fee is based, directly or through an auction sale, to research facilities, dealers, exhibitors, retail pet stores, and persons for use as pets, by the licensee during the preceding business year (calendar or fiscal), and any other information as may be required thereon.

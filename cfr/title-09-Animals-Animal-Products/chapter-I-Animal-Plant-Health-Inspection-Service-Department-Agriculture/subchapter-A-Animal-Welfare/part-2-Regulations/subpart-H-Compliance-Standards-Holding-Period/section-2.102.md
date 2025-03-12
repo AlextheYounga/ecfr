@@ -1,5 +1,7 @@
 ##### § 2.102 Holding facility. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a) If any dealer or exhibitor obtains the prior approval of the AC Regional Director, he may arrange to have another person hold animals for the required period provided for in paragraph (a) of § 2.101: *Provided,* That:
 
 (1) The other person agrees in writing to comply with the regulations in part 2 and the standards in part 3 of this subchapter and to allow inspection of his premises by an APHIS official during business hours; and

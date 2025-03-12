@@ -1,5 +1,7 @@
 ##### § 3.61 Primary enclosures used to transport live rabbits. #####
 
+Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 No person subject to the Animal Welfare regulations shall offer for transportation or transport in commerce any live rabbit in a primary enclosure that does not conform to the following requirements:
 
 (a) Primary enclosures, such as compartments, transport cages, cartons, or crates, used to transport live rabbits shall be constructed in such a manner that:

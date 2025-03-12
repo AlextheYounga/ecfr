@@ -1,5 +1,7 @@
 ##### § 3.19 Handling. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.Link to an amendment published at 85 FR 28799, May 13, 2020.
+
 (a) Any person subject to the Animal Welfare regulations (9 CFR parts 1, 2, and 3) who moves (including loading and unloading) dogs or cats within, to, or from the animal holding area of a terminal facility or a primary conveyance must do so as quickly and efficiently as possible and must provide the following during movement of the dog or cat:
 
 (1) Shelter from sunlight and extreme heat. Sufficient shade must be provided to protect the dog or cat from the direct rays of the sun. The dog or cat must not be exposed to an ambient air temperature above 85 °F (29.5 °C) for a period of more than 45 minutes while being moved to or from a primary conveyance or a terminal facility. The temperature must be measured in the manner provided in § 3.18(d) of this subpart. The preceding requirements are in addition to, not in place of, all other requirements pertaining to climatic conditions in parts 2 and 3 of this chapter.

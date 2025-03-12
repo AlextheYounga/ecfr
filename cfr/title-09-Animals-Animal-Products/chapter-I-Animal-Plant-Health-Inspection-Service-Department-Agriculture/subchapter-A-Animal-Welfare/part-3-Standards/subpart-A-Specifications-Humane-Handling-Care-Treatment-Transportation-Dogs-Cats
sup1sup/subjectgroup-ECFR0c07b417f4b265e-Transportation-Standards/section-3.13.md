@@ -1,5 +1,7 @@
 ##### § 3.13 Consignments to carriers and intermediate handlers. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 (a) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce more than 4 hours before the scheduled departure time of the primary conveyance on which the animal is to be transported. However, a carrier or intermediate handler may agree with anyone consigning a dog or cat to extend this time by up to 2 hours.
 
 (b) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce unless they are provided with the name, address, and telephone number of the consignee.

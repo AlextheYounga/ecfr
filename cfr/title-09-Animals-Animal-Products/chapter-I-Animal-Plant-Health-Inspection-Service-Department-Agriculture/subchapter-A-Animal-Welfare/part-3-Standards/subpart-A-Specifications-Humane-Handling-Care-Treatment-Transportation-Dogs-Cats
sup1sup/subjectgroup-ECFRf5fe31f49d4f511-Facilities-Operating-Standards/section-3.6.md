@@ -1,5 +1,7 @@
 ##### § 3.6 Primary enclosures. #####
 
+Link to an amendment published at 85 FR 28798, May 13, 2020.
+
 Primary enclosures for dogs and cats must meet the following minimum requirements:
 
 (a) *General requirements.* (1) Primary enclosures must be designed and constructed of suitable materials so that they are structurally sound. The primary enclosures must be kept in good repair.

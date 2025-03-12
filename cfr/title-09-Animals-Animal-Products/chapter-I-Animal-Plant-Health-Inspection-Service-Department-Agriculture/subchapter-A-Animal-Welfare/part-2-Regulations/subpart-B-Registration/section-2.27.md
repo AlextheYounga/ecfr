@@ -1,5 +1,7 @@
 ##### § 2.27 Notification of change of operation. #####
 
+Link to an amendment published at 85 FR 28797, May 13, 2020.
+
 (a) A registrant shall notify the AC Regional Director by certified mail of any change in the name, address, or ownership, or other change in operations affecting its status as an exhibitor, carrier, or intermediate handler, within 10 days after making such change.
 
 (b)(1) A registrant which has not used, handled, or transported animals for a period of at least 2 years may be placed in an inactive status by making a written request to the AC Regional Director a registrant shall notify the AC Regional Director in writing at least 10 days before using, handling, or transporting animals again after being in an inactive status.
