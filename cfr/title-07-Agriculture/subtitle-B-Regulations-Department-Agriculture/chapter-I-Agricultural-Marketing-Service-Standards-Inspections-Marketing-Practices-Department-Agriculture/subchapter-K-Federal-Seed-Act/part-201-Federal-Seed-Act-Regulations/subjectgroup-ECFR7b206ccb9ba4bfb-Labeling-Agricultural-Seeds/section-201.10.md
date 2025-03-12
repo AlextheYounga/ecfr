@@ -1,5 +1,7 @@
 ##### § 201.10 Variety. #####
 
+Link to an amendment published at 85 FR 40579, July 7, 2020.
+
 (a) The following kinds of agricultural seeds are generally labeled as to variety and shall be labeled to show the variety name or the words “Variety Not Stated.”
 
 Alfalfa; Bahiagrass; Barley; Bean, field; Beet, field; Brome, smooth; Broomcorn; Clover, crimson; Clover, red; Clover, white; Corn, field; Corn, pop; Cotton; Cowpea; Crambe; Fescue, tall; Flax; Lespedeza, striate; Millet, foxtail; Millet, pearl; Oat; Pea, field; Peanut; Rice; Rye; Safflower; Sorghum; Sorghum-sudangrass, Soybean; Sudangrass; Sunflower; Tobacco; Trefoil, birdsfoot; Triticale; Wheat, common; Wheat, durum.

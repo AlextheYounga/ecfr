@@ -1,5 +1,7 @@
 ##### § 201.36b Name of kind and variety; designation as hybrid. #####
 
+Link to an amendment published at 85 FR 40580, July 7, 2020.
+
 (a) The representation of the name of a kind or kind and variety of seed in any advertisement subject to the act shall be confined to the name of the kind or kind and variety determined in accordance with § 201.34. The name shall not have associated therewith words or terms that create a misleading impression as to the history or characteristics of the kind or kind and variety. Descriptive terms and firm names may be used in kind or variety names provided the descriptive terms or firm names are a part of the name or variety of seed; for example, Stringless Green Pod, Detroit Dark Red, Black Seeded Simpson and Henderson Bush Lima. Seed shall not be designated as hybrid seed in any advertisement subject to the act unless it comes within the definition of “hybrid” in § 201.2(y).
 
 (b) Terms descriptive as to color, shape, size, habit of growth, disease-resistance, or other characteristics of the kind or variety may be associated with the name of the kind or variety provided it is done in a manner which clearly indicates the descriptive term is not a part of the name of the kind or variety; for example, Oshkosh pepper (yellow), Copenhagen Market (round head) cabbage, and Kentucky Wonder (pole) garden bean.

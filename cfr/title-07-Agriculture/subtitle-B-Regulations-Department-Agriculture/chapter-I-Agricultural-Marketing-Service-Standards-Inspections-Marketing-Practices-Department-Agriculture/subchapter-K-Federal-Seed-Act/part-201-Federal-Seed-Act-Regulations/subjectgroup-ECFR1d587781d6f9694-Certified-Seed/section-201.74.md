@@ -1,5 +1,7 @@
 ##### § 201.74 Labeling of all classes of certified seed. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 (a) All classes of certified seed when offered for sale shall have an official certification label affixed to each container clearly identifying the certifying agency, the lot number or other identification, the variety name (if certified as to variety), and the kind and class of seed.
 
 (b) In the case of seed sold in bulk, the invoice or accompanying document shall identify the certifying agency, the crop kind, variety (if certified as to variety), class of seed, and the lot number or other identification.

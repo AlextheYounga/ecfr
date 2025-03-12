@@ -1,5 +1,7 @@
 ##### § 201.31a Labeling treated seed. #####
 
+Link to an amendment published at 85 FR 40580, July 7, 2020.
+
 (a) *Contents of label.* Any agricultural seed or any mixture thereof or any vegetable seed or any mixture thereof, for seeding purposes, that has been treated shall be labeled in type no smaller than 8 point to indicate that the seed has been treated and to show the name of any substance or a description of any process (other than application of a substance) used in such treatment, in accordance with this section; for example,
 
 Treated with \_\_\_\_\_\_\_\_\_\_ (name of substance or process) or \_\_\_\_\_\_\_\_\_\_ (name of substance or process) treated.

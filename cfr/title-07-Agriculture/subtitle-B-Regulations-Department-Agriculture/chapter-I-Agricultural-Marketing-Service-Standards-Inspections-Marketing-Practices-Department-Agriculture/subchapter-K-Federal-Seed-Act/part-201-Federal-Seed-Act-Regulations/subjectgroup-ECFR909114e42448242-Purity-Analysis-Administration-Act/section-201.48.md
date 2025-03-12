@@ -1,5 +1,7 @@
 ##### § 201.48 Kind or variety considered pure seed. #####
 
+Link to an amendment published at 85 FR 40581, July 7, 2020.
+
 The pure seed shall include all seeds of each kind or each kind and variety under consideration present in excess of 5 percent of the whole. Seeds of kinds or kinds and varieties present to the extent of 5 percent or less of the whole may be considered pure seed if shown on the label as components of a mixture in amounts of 5 percent or less. The following shall be included with the pure seed:
 
 (a) Immature or shriveled seeds and seeds that are cracked or injured. For seeds of legumes (Leguminosae) and crucifers (Cruciferae) with the seed coats entirely removed refer to § 201.51(a)(1);

@@ -1,5 +1,7 @@
 ##### § 201.60 Purity percentages. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 (a)(1) The tolerance for a given percentage of the purity components is the same whether for pure seed, other crop seed, weed seed, or inert matter. Wider tolerances are provided when 33 percent or more of the sample is composed of seed plus empty florets and/or empty spikelets of the following chaffy kinds: bentgrasses, bermudagrasses, bluegrasses, bluestems, bottlebrush- squirreltail, bromes, buffalograss, buffelgrass, carpetgrass, soft chess, dallisgrass, fescues, foxtails, galletagrass, guineagrass, gramas, molassesgrass, tall oatgrass, orchardgrass, redtop, rescuegrass, rhodesgrass, Indian ricegrass, ryegrasses, sweet vernalgrass, vaseygrass, veldtgrass, wheatgrasses, wildryes, and yellow indiangrass. The wider tolerances do not apply to seed devoid of hulls.
 
 (2) To determine the tolerance for any purity percentage found in the administration of the act, the percentage found is averaged (i) with that claimed or shown on a label or (ii) with a specified standard. The tolerance is found from this average. If more than one test is made, all except any test obviously in error shall be averaged and the result treated as a single percentage.

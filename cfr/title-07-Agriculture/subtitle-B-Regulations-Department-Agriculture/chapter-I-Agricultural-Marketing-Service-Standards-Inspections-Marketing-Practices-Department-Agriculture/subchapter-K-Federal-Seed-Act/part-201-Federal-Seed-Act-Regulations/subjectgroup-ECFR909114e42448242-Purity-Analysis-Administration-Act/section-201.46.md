@@ -1,5 +1,7 @@
 ##### § 201.46 Weight of working sample. #####
 
+Link to an amendment published at 85 FR 40580, July 7, 2020.
+
 (a) *Unmixed seed.* The working samples for purity analysis and noxiousweed seed examination of unmixed seed shall be at least the weights set forth in table 1.
 
 (b) *Mixtures consisting of one predominant kind of seed or a group of kinds of similar size.* The weights of the purity and noxious-weed seed working samples in this category shall be determined by the kind or group of kinds which compromise more than 50 percent of the sample.

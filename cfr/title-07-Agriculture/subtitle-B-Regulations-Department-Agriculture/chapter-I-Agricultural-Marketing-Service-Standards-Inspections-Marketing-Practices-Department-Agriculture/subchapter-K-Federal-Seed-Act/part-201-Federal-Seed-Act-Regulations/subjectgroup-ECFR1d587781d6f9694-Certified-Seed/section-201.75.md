@@ -1,5 +1,7 @@
 ##### § 201.75 Interagency certification. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 Interagency certification may be accomplished by participation of more than one official certifying agency in performing the services required to certify a lot of seed.
 
 (a) The certifying agency issuing labels for all classes of certified seed shall require the seed on which the labels are used to meet standards at least equal to the minimum genetic standards for the seed in question as specified in Table 5 of this part.

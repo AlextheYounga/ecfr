@@ -1,5 +1,7 @@
 ##### § 201.68 Eligibility requirements for certification of varieties. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 The certifying agency shall require the originator, developer, or owner of the variety, or agent thereof, to make the following available when eligibility for certification is requested:
 
 (a) The name of the variety.

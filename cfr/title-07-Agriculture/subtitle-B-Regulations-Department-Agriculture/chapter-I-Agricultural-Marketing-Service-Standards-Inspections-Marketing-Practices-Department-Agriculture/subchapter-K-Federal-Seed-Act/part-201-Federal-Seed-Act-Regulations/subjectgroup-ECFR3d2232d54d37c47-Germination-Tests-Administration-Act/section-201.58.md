@@ -1,5 +1,7 @@
 ##### § 201.58 Substrata, temperature, duration of test, and certain other specific directions for testing for germination and hard seed. #####
 
+Link to an amendment published at 85 FR 40582, July 7, 2020.
+
 Specific germination requirements are set forth in table 2 to which the following paragraphs (a), (b), and (c) are applicable.
 
 (a) *Definitions and explainations applicable to table 2* - (1) *Duration of tests.* The following deviations are permitted from the specified duration of tests: Any test may be terminated prior to the number of days listed under “Final count” if the miximum germination of the sample has then been determined. The number of days stated for the first count is approximate and a deviatioon of 1 to 3 days is permitted. If at the time of the prescribed test period the seedlings are not sufficiently developed for positive evaluation, it is possible to extend the time of the test period two additional days. (Also, see paragraph (a)(5) of this section and 201.57.)

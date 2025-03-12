@@ -1,5 +1,7 @@
 ##### § 201.78 Pollen control for hybrids. #####
 
+Link to an amendment published at 85 FR 40584, July 7, 2020.
+
 (a) *Wheat and barley.* Shedders in the seed parent, at any one inspection, are limited to 1:200 heads for Foundation A Line and 1:100 heads for Registered A Line, except that when the A Line is increased outside the area of the anticipated A × R production in order to utilize self-fertility produced by environmental effects, only isolation and genetic purity standards will be in effect. (An A Line is a cytoplasmic male sterile female line used to produce hybrid seed. An R Line is a pollinator line used to pollinate an A Line and to restore fertility in the resulting hybrid seed.)
 
 (b) *Corn.* When 5 percent or more of the seed parent plants have receptive silks, shedding tassels in the seed parent plants shall be limited to 1 percent at any one inspection, or a total of 2 percent at any three inspections on different dates. Shedding tassels are those which have 2 inches or more of the central stem or branches, or any combination thereof, shedding pollen.

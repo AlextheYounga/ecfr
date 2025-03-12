@@ -1,5 +1,7 @@
 ##### § 201.70 Limitations of generations for certified seed. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 The number of generations through which a variety may be multiplied shall be limited to that specified by the originating breeder or owner and shall not exceed two generations beyond the Foundation seed class with the following exceptions which may be made with the permission of the originating or sponsoring plant breeder, institution, or his designee:
 
 (a) Recertification of the Certified class may be permitted when no Foundation seed is being maintained.

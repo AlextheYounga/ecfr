@@ -22,7 +22,7 @@
 
 (i) Determine the number of shares that represent the amount of the contribution to be removed using the share price on the attributable pay date; and
 
-(ii) Multiply the price per share on the date the adjustment is posted by the number of shares calculated in paragraph (c)(2)(i) of this section. If the contribution was erroneously contributed to a Lifecycle fund that is retired on the date the adjustment is posted, the price per share shall equal the retired Lifecycle fund share price on December 31 of the retirement year, multiplied by current L Income Fund share price, divided by the L Income Fund share price on December 31 of the retirement year.
+(ii) Multiply the price per share on the date the adjustment is posted by the number of shares calculated in paragraph (c)(2)(i) of this section. If the contribution was erroneously contributed to a Lifecycle fund that is retired on the date the adjustment is posted, the price per share shall equal the final posted share price of the retired Lifecycle fund, multiplied by the current L Income Fund share price, divided by the L Income Fund share price on the same date that the retired Lifecycle fund posted its final share price.
 
 (d) *Employee contributions.* The following rules apply to negative adjustments involving employee contributions:
 
@@ -50,4 +50,4 @@
 
 (2) If there is insufficient money in the same source of contributions to cover the amount to be removed or the amount of the requested adjustment, the negative adjustment record will be rejected.
 
-[70 FR 32210, June 1, 2005, as amended at 75 FR 74608, Dec. 1, 2010; 77 FR 26425, May 4, 2012]
+[70 FR 32210, June 1, 2005, as amended at 75 FR 74608, Dec. 1, 2010; 77 FR 26425, May 4, 2012; 85 FR 40570, July 7, 2020]

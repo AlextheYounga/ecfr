@@ -1,5 +1,7 @@
 ##### § 201.56 Interpretation. #####
 
+Link to an amendment published at 85 FR 40582, July 7, 2020.
+
 (a) A seed shall be considered to have germinated when it has developed those essential structures which, for the kind of seed under consideration, are indicative of its ability to produce a normal plant under favorable conditions. In general, the following are considered to be essential structures necessary for the continued development of the seedling (although some structures may not be visible in all kinds at the time of seedling evaluation). Seedlings possessing these essential structures are referred to as normal seedlings: Root system (consisting of primary, secondary, seminal, or adventitious roots); hypocotyl; epicotyl; cotyledon(s); terminal bud; primary leaves; and coleoptile and mesocotyl (in the grass family). Abnormal seedlings consist of those with defects to these structures, as described in the abnormal seedling descriptions, and are judged to be incapable of continued growth. The seedling descriptions assume that test conditions were adequate to allow proper assessment of the essential seedling structures.
 
 (b) Sand and/or soil tests may be used as a guide in determining the classification of questionable seedlings and the evaluation of germination tests made on approved artificial media. This is intended to provide a method of checking the reliability of tests made on artificial substrata when there may be doubt as to the proper evaluation of such tests.

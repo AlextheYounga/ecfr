@@ -1,0 +1,3 @@
+##### § 1213.16 Exigent circumstances. #####
+
+In emergency situations or when we are required by statutory deadline, court order, or other exigent circumstances to act more quickly than normal review procedures allow, we notify OIRA as soon as possible and, to the extent practicable, comply with the requirements of this subpart at the earliest opportunity. Whenever practicable, we permit sufficient time to comply with the procedures in this subpart.

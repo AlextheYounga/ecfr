@@ -1,5 +1,7 @@
 ##### § 201.16 Noxious-weed seeds. #####
 
+Link to an amendment published at 85 FR 40579, July 7, 2020.
+
 (a) Except for those kinds of noxious-weed seeds shown in paragraph (b) of this section, the names of the kinds of noxious-weed seeds and the rate of occurrence of each shall be expressed in the label in accordance with, and the rate of occurrence shall not exceed the rate permitted by, the law and regulations of the state into which the seed is offered for transportation or is transported. If in the course of such transportation, or thereafter, the seed is diverted to another State of destination, the person or persons responsible for such diversion shall cause the seed to be relabeled with respect to the noxious-weed seed content, if necessary to conform to the laws and regulations of the State into which the seed is diverted.
 
 (b) Seeds or bulblets of the following plants shall be considered noxious-weed seeds in agricultural and vegetable seeds transported or delivered for transportation in interstate commerce (including Puerto Rico, Guam, and the District of Columbia). Agricultural or vegetable seed containing seeds or bulblets of these kinds shall not be transported or delivered for transportation in interstate commerce. Noxious-weed seeds include the following species on which no tolerance will be applied:

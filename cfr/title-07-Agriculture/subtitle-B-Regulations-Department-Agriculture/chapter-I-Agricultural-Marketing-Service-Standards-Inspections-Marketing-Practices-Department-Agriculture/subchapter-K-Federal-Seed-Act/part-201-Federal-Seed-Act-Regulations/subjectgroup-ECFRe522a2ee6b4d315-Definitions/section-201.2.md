@@ -1,5 +1,7 @@
 ##### § 201.2 Terms defined. #####
 
+Link to an amendment published at 85 FR 40578, July 7, 2020.
+
 When used in the regulations in this part the terms as defined in section 101 of the Act, unless modified in this section as provided in the Act, shall apply with equal force and effect. In addition, as used in this part:
 
 (a) The *Act.* The term “Act” means the FSA approved August 9, 1939 (53 Stat. 1275; 7 U.S.C. 1551-1611 as amended);

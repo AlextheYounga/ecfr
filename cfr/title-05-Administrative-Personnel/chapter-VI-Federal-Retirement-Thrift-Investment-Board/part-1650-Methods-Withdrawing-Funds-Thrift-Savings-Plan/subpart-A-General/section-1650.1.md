@@ -8,8 +8,8 @@
 
 *Post-employment withdrawal* means a withdrawal from the TSP that is available to a participant who is separated from Government service.
 
-*Required beginning date* means April 1 of the year following the year in which the participant reaches 701/2 years of age or separates from Government service, whichever is later.
+*Required beginning date* means the required beginning date as defined in Internal Revenue Code section 401(a)(9) and the regulations and guidance promulgated thereunder.
 
 *Required minimum distribution* means the amount required to be distributed to a participant beginning on the required beginning date and every year thereafter pursuant to Internal Revenue Code section 401(a)(9) and the regulations promulgated thereunder, as applicable.
 
-[68 FR 35503, June 13, 2003, as amended at 70 FR 32215, June 1, 2005; 84 FR 46420, Sept. 4, 2019]
+[68 FR 35503, June 13, 2003, as amended at 70 FR 32215, June 1, 2005; 84 FR 46420, Sept. 4, 2019; 85 FR 40570, July 7, 2020]

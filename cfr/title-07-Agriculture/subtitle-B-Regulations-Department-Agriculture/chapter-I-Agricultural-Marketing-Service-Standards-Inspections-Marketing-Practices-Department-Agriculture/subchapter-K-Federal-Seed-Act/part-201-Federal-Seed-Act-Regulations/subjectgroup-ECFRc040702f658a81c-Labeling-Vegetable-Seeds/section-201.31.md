@@ -1,5 +1,7 @@
 ##### § 201.31 Germination standards for vegetable seeds in interstate commerce. #####
 
+Link to an amendment published at 85 FR 40580, July 7, 2020.
+
 The following germination standards for vegetable seeds in interstate commerce, which shall be construed to include hard seed, are determined and established under section 403(c) of the act:
 
 |                    |Percent|

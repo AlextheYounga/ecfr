@@ -1,5 +1,7 @@
 ##### § 201.61 Fluorescence percentages in ryegrasses. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 Tolerances for 400-seed fluorescence tests shall be those set forth in the following table plus one-half the regular pure-seed tolerance determined in accordance with § 201.60. When only 200 seeds of a component in a mixture are tested, an additional 2 percent shall be added to the fluorescence tolerance.
 
 Percent found fluorescence tolerance

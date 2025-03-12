@@ -1,5 +1,7 @@
 ##### § 201.76 Minimum Land, Isolation, Field, and Seed Standards. #####
 
+Link to an amendment published at 85 FR 40583, July 7, 2020.
+
 In the following Table 5 the figures in the “Land” column indicate the number of years that must elapse between the destruction of a stand of a kind and establishment of a stand of a specified class of a variety of the same kind. A certification agency may grant a variance in the land cropping history in specific circumstances where cultural practices have been proven adequate to maintain genetic purity. The figures in “Isolation” column indicate the distance in feet from any contaminating source. The figures in the “Field” column indicate the minimum number of plants or heads in which one plant or head of another variety is permitted. The figure in the “Seed” column indicate the maximum percentage of seed of other varieties or off-types permitted in the cleaned seed.
 
 Table 5

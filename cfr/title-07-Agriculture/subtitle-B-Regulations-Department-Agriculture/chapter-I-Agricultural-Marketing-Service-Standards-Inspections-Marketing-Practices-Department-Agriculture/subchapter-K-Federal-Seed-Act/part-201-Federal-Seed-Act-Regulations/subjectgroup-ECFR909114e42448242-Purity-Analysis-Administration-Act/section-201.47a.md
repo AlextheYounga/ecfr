@@ -1,5 +1,7 @@
 ##### § 201.47a Seed unit. #####
 
+Link to an amendment published at 85 FR 40581, July 7, 2020.
+
 The seed unit is the structure usually regarded as a seed in planting practices and in commercial channels. The seed unit may consist of one or more of the following structures:
 
 (a) True seeds;

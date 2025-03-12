@@ -1,0 +1,3 @@
+##### § 1213.18 No judicial review or enforceable rights. #####
+
+We intend this part to improve our internal management. As a result, it is for the use of NARA personnel only and we do not intend it to, nor does it, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies or other entities, its officers or employees, or any other person.

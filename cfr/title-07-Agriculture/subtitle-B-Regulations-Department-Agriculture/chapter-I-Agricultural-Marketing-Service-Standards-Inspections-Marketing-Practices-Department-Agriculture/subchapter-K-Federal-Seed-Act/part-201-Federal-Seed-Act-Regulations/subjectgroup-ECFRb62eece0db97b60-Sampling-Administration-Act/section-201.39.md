@@ -1,5 +1,7 @@
 ##### § 201.39 General procedure. #####
 
+Link to an amendment published at 85 FR 40580, July 7, 2020.
+
 (a) In order to secure a representative sample, equal portions shall be taken from evenly distributed parts of the quantity of seed or screenings to be sampled. Access shall be had to all parts of that quantity. When more than one trierful of seed is drawn from a bag, different paths shall be followed. When more than one handful is taken from a bag, the handfuls shall be taken from well-separated points.
 
 (b) For free-flowing seed in bags or bulk, a probe or trier shall be used. For small free-flowing seed in bags a probe or trier long enough to sample all portions of the bag should be used.

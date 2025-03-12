@@ -1,5 +1,7 @@
 ##### § 201.51a Special procedures for purity analysis. #####
 
+Link to an amendment published at 85 FR 40581, July 7, 2020.
+
 (a) The Uniform Blowing Procedure shall be used for the separation of pure seed and inert matter in the following: Kentucky bluegrass, Canada bluegrass, rough bluegrass, Pensacola variety of bahiagrass, orchardgrass, blue grama, and side-oats grama.
 
 (1) When kinds listed in this section appear in mixtures they shall be separated from other kinds before using the Uniform Blowing Procedure.
