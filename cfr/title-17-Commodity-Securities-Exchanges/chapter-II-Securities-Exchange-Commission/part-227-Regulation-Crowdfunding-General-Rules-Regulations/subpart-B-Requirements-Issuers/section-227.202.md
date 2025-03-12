@@ -22,14 +22,4 @@ I, [identify the certifying individual], certify that the financial statements o
 
 (5) The issuer liquidates or dissolves its business in accordance with state law.
 
-(c) *Temporary relief from certain reporting requirements.* (1) An issuer that is not able to meet a filing deadline for any report or form required to be filed by this section (Rule 202), Rule 203(a)(3) (§ 227.203(a)(3)), or Rule 203(b) (§ 227.203(b)), as applicable:
-
-(i) During the period from and including August 25, 2017 to and including October 26, 2017 due to Hurricane Harvey and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before October 27, 2017;
-
-(ii) During the period from and including September 6, 2017 to and including November 7, 2017 due to Hurricane Irma and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before November 8, 2017; or
-
-(ii) During the period from and including September 20, 2017 to and including November 21, 2017 due to Hurricane Maria and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before November 22, 2017.
-
-(2) In any report or form filed pursuant to paragraph (c)(1) of this section, the issuer must disclose that it is relying on this paragraph (c) (Rule 202(c) of Regulation Crowdfunding) and state the reasons why, in good faith, it could not file such report or form on a timely basis.
-
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 45725, Oct. 2, 2017]Effective Date Note:At 82 FR 45725, Oct. 2, 2017, § 227.202 was amended by adding paragraph (c), effective Sept. 28, 2017 through Nov. 22, 2017.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 45725, Oct. 2, 2017]

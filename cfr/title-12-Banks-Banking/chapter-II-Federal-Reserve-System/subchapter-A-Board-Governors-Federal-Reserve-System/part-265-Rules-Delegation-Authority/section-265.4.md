@@ -24,4 +24,6 @@
 
 (2) [Reserved]
 
-[56 FR 25619, June 5, 1991, as amended at 56 FR 67154, Dec. 30, 1991; 62 FR 14793, Mar. 28, 1997]
+(c) *Exigent circumstances.* The Chairman is authorized to determine when an emergency situation exists for purposes of section 2(b)(2) of the Board's Rules of Organization. If the Chairman is unavailable or unable to determine that an emergency situation exists, then the Vice Chairman is authorized to determine when an emergency situation exists.
+
+[56 FR 25619, June 5, 1991, as amended at 56 FR 67154, Dec. 30, 1991; 62 FR 14793, Mar. 28, 1997; 82 FR 55495, Nov. 22, 2017]

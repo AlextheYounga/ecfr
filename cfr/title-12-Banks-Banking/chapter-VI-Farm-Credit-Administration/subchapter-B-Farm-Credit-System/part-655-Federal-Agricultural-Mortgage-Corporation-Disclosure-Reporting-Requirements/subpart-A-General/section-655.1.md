@@ -22,6 +22,6 @@ The following definitions apply to this part:
 
 *SEC* means the Securities and Exchange Commission.
 
-*Securities Act* means the Securities Act of 1933 (15 U.S.C. 77a *et seq.**)* or the Exchange Act of 1934 (15 U.S.C. 78a *et seq.**),* or both, as appropriate to the context of the provision employing the term.
+*Securities Act* means the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) or the Exchange Act of 1934 (15 U.S.C. 78a *et seq.*, or both, as appropriate to the context of the provision employing the term.
 
 *Signed,* when referring to paper form, means a manual signature, and, when referring to electronic form, means marked in a manner that authenticates each signer's identity.

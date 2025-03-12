@@ -48,14 +48,4 @@
 
 (2) Recommence with the report covering the most recent financial period after that included in any effective registration statement or filed Exchange Act report.
 
-(f) *Temporary relief from ongoing reporting requirements.* (1) An issuer that is not able to meet a filing deadline for any report or form required to be filed by Rule 252(f)(2)(i) (§ 230.252(f)(2)(i)) or this section (Rule 257), as applicable:
-
-(i) During the period from and including August 25, 2017 to and including October 26, 2017 due to Hurricane Harvey and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before October 27, 2017;
-
-(ii) During the period from and including September 6, 2017 to and including November 7, 2017 due to Hurricane Irma and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before November 8, 2017; or
-
-(ii) During the period from and including September 20, 2017 to and including November 21, 2017 due to Hurricane Maria and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before November 22, 2017.
-
-(2) In any report or form filed pursuant to paragraph (f)(1) of this section, the issuer must disclose that it is relying on this paragraph (f) (Rule 257(f) of Regulation A) and state the reasons why, in good faith, it could not file such report or form on a timely basis.
-
-[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017]Effective Date Note:At 82 FR 45725, Oct. 2, 2017, § 230.257 was amended by adding paragraph (f), effective Sept. 28, 2017 through Nov. 22, 2017.
+[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017]
