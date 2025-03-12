@@ -1,6 +1,6 @@
 ##### § 414.1380 Scoring. #####
 
-Link to an amendment published at 86 FR 65673, Nov. 19, 2021.
+Link to an amendment published at 86 FR 65673, Nov. 19, 2021.Link to an amendment published at 86 FR 73159, Dec. 27, 2021.
 
 (a) *General.* MIPS eligible clinicians are scored under MIPS based on their performance on measures and activities in four performance categories. MIPS eligible clinicians are scored against performance standards for each performance category and receive a final score, composed of their performance category scores, and calculated according to the final score methodology.
 

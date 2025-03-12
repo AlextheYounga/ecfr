@@ -1,5 +1,7 @@
 ##### § 412.105 Special treatment: Hospitals that incur indirect costs for graduate medical education programs. #####
 
+Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
+
 CMS makes an additional payment to hospitals for indirect medical education costs using the following procedures:
 
 (a) *Basic data.* CMS determines the following for each hospital:

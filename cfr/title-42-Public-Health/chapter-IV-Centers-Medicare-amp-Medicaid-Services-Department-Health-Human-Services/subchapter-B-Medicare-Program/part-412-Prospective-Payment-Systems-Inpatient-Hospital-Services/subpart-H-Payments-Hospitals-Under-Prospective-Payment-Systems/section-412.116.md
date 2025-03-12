@@ -1,5 +1,7 @@
 ##### § 412.116 Method of payment. #####
 
+Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
+
 (a) *General rules.* (1) Unless the provisions of paragraphs (b) and (c) of this section apply, hospitals are paid for hospital inpatient operating costs and capital-related costs for each discharge based on the submission of a discharge bill.
 
 (2) Payments for inpatient hospital services furnished by an excluded psychiatric unit of a hospital (or by an excluded rehabilitation unit of a hospital for cost reporting periods beginning before January 1, 2002) are made as described in §§ 413.64(a), (c), (d), and (e) of this chapter.

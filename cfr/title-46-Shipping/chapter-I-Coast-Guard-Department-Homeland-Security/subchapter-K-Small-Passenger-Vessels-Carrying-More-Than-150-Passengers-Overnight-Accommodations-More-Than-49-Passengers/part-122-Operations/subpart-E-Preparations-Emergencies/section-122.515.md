@@ -1,5 +1,7 @@
 ##### § 122.515 Passenger safety bill. #####
 
+Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
+
 (a) A passenger safety bill must be posted by the master in each passenger cabin or stateroom on a vessel of more than 19.8 meters (65 feet) in length with overnight accommodations for more than 49 passengers.
 
 (b) Each passenger safety bill required by this section must list:

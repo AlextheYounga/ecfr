@@ -1,5 +1,7 @@
 ##### § 413.1 Introduction. #####
 
+Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
+
 (a) *Basis, scope, and applicability* - (1) *Statutory basis* - (i) *Basic provisions.* (A) Section 1815 of the Act requires that the Secretary make interim payments to providers and periodically determine the amount that should be paid under Part A of Medicare to each provider for the services it furnishes.
 
 (B) Section 1814(b) of the Act (for Part A) and section 1833(a) (for Part B) provide for payment on the basis of the lesser of a provider's reasonable costs or customary charges.

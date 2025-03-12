@@ -1,5 +1,7 @@
 ##### § 413.77 Direct GME payments: Determination of per resident amounts. #####
 
+Link to an amendment published at 86 FR 72516, Dec. 22, 2021.Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
+
 (a) *Per resident amount for the base period.* (1) Except as provided in paragraph (d) of this section, the contractor determines a base-period per resident amount for each hospital as follows:
 
 (i) Determine the allowable GME costs for the cost reporting period beginning on or after October 1, 1983 but before October 1, 1984. In determining these costs, GME costs allocated to the nursery cost center, research and other nonreimbursable cost centers, and hospital-based providers that are not participating in Medicare are excluded and GME costs allocated to distinct-part hospital units and hospital-based providers that participate in Medicare are included.

@@ -1,5 +1,7 @@
 ##### § 412.100 Special treatment: Renal transplantation centers. #####
 
+Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
+
 (a) *Adjustments for renal transplantation centers.* (1) CMS adjusts the prospective payment rates for inpatient operating costs determined under subparts D and E of this part for hospitals approved as renal transplantation centers (described at §§ 405.2170 and 405.2171 of this chapter) to remove the estimated net expenses associated with kidney acquisition.
 
 (2) Kidney acquisition costs are treated apart from the prospective payment rate for inpatient operating costs, and payment to the hospital is adjusted in each reporting period to reflect an amount necessary to compensate the hospital for reasonable expenses of kidney acquisition.

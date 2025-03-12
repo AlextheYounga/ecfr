@@ -1,7 +1,5 @@
 ##### § 2.31 Institutional Animal Care and Use Committee (IACUC). #####
 
-Link to an amendment published at 86 FR 66926, Nov. 24, 2021.
-
 (a) The Chief Executive Officer of the research facility shall appoint an Institutional Animal Care and Use Committee (IACUC), qualified through the experience and expertise of its members to assess the research facility's animal program, facilities, and procedures. Except as specifically authorized by law or these regulations, nothing in this part shall be deemed to permit the Committee or IACUC to prescribe methods or set standards for the design, performance, or conduct of actual research or experimentation by a research facility.
 
 (b) *IACUC membership.* (1) The members of each Committee shall be appointed by the Chief Executive Officer of the research facility;
@@ -76,7 +74,7 @@ Link to an amendment published at 86 FR 66926, Nov. 24, 2021.
 
 (4) The IACUC shall notify principal investigators and the research facility in writing of its decision to approve or withhold approval of those activities related to the care and use of animals, or of modifications required to secure IACUC approval. If the IACUC decides to withhold approval of an activity, it shall include in its written notification a statement of the reasons for its decision and give the principal investigator an opportunity to respond in person or in writing. The IACUC may reconsider its decision, with documentation in Committee minutes, in light of the information provided by the principal investigator;
 
-(5) The IACUC shall conduct continuing reviews of activities covered by this subchapter at appropriate intervals as determined by the IACUC, but not less than annually;
+(5) The IACUC shall conduct complete reviews of activities covered by this subchapter at appropriate intervals as determined by the IACUC, but not less than every 3 years. The complete review shall address all requirements related to the care and use of animals under paragraphs (d) and (e) of this section. The IACUC shall be provided a written description of all activities that involve the care and use of animals for review and approval at the end of the term.
 
 (6) The IACUC may suspend an activity that it previously approved if it determines that the activity is not being conducted in accordance with the description of that activity provided by the principal investigator and approved by the Committee. The IACUC may suspend an activity only after review of the matter at a convened meeting of a quorum of the IACUC and with the suspension vote of a majority of the quorum present;
 
@@ -96,4 +94,4 @@ Link to an amendment published at 86 FR 66926, Nov. 24, 2021.
 
 (5) A description of any euthanasia method to be used.
 
-[54 FR 36147, Aug. 31, 1989, as amended at 59 FR 67611, Dec. 30, 1994; 63 FR 62926, Nov. 10, 1998]
+[54 FR 36147, Aug. 31, 1989, as amended at 59 FR 67611, Dec. 30, 1994; 63 FR 62926, Nov. 10, 1998; 86 FR 66926, Nov. 24, 2021]

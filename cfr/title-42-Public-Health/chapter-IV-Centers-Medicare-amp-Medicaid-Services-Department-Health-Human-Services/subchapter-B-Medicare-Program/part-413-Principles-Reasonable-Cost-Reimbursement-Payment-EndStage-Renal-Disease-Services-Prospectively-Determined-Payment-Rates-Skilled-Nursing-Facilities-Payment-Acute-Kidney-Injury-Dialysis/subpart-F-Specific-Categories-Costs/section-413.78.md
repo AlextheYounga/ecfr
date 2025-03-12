@@ -1,5 +1,7 @@
 ##### § 413.78 Direct GME payments: Determination of the total number of FTE residents. #####
 
+Link to an amendment published at 86 FR 73513, Dec. 27, 2021.
+
 Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the provisions of § 413.81, the count of FTE residents is determined as follows:
 
 (a) Residents in an approved program working in all areas of the hospital complex may be counted.

@@ -1,5 +1,7 @@
 ##### § 413.40 Ceiling on the rate of increase in hospital inpatient costs. #####
 
+Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
+
 (a) *Introduction* - (1) *Scope.* This section implements section 1886(b) of the Act, establishing a ceiling on the rate of increase in operating costs per case for hospital inpatient services furnished to Medicare beneficiaries that will be recognized as reasonable for purposes of determining the amount of Medicare payment. This rate-of-increase ceiling applies to hospital cost reporting periods beginning on or after October 1, 1982. This section also sets forth rules governing exemptions from and adjustments to the ceiling.
 
 (2) *Applicability.* (i) This section is not applicable to -

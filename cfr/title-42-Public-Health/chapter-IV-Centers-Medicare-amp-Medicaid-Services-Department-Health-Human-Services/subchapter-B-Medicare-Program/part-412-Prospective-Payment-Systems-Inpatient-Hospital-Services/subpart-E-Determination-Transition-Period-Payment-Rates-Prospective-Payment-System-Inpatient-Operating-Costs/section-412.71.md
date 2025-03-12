@@ -1,5 +1,7 @@
 ##### § 412.71 Determination of base-year inpatient operating costs. #####
 
+Link to an amendment published at 86 FR 73510, Dec. 27, 2021.
+
 (a) *Base-year costs.* (1) For each hospital, the intermediary will estimate the hospital's Medicare Part A allowable inpatient operating costs, as described in § 412.2(c), for the 12-month or longer cost reporting period ending on or after September 30, 1982 and before September 30, 1983.
 
 (2) If the hospital's last cost reporting period ending before September 30, 1983 is for less than 12 months, the base period will be the hospital's most recent 12-month or longer cost reporting period ending before such short reporting period, with an appropriate adjustment for inflation. (The rules applicable to new hospitals are set forth in § 412.74.)

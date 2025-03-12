@@ -1,5 +1,7 @@
 ##### § 118.400 Where required. #####
 
+Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
+
 (a) The following spaces must be equipped with a fixed gas fire extinguishing system, in compliance with § 118.410 of this part, or other fixed fire extinguishing system specifically approved by the Commandant, except as otherwise allowed by paragraph (b) of this section:
 
 (1) A space containing propulsion machinery;

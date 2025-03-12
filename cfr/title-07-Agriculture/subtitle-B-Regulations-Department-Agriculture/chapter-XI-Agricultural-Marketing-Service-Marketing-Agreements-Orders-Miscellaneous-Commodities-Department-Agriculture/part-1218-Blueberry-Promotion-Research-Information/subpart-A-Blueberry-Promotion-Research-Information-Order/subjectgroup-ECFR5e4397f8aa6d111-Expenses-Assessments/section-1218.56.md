@@ -1,0 +1,5 @@
+##### § 1218.56 Patents, copyrights, trademarks, information, publications, and product formulations. #####
+
+Patents, copyrights, trademarks, information, publications, and product formulations developed through the use of funds received by the Council under this subpart shall be the property of the U.S. Government as represented by the Council and shall, along with any rents, royalties, residual payments, or other income from the rental, sales, leasing, franchising, or other uses of such patents, copyrights, trademarks, information, publications, or product formulations, inure to the benefit of the Council; shall be considered income subject to the same fiscal, budget, and audit controls as other funds of the Council; and may be licensed subject to approval by the Secretary. Upon termination of this subpart, § 1218.73 shall apply to determine disposition of all such property.
+
+[65 FR 43963, July 17, 2000, as amended at 66 FR 37119, July 17, 2001]

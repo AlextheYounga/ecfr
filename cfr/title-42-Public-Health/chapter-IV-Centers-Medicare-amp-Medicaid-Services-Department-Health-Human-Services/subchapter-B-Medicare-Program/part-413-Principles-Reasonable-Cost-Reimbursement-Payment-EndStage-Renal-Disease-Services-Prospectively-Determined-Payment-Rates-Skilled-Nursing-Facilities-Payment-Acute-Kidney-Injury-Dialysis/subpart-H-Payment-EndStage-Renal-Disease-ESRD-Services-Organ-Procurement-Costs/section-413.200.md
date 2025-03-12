@@ -1,5 +1,7 @@
 ##### § 413.200 Payment of independent organ procurement organizations and histocompatibility laboratories. #####
 
+Link to an amendment published at 86 FR 73515, Dec. 27, 2021.
+
 (a) *Principle.* Covered services furnished after September 30, 1978 by organ procurement organizations (OPOs) and histocompatibility laboratories in connection with kidney acquisition and transplantation will be reimbursed under the principles for determining reasonable cost contained in this part. Services furnished by freestanding OPOs and histocompatibility laboratories, that have an agreement with the Secretary in accordance with paragraph (c) of this section, will be reimbursed by making an interim payment to the transplant hospitals using these services and by making a retroactive adjustment, directly with the OPO or laboratory, based upon a cost report filed by the OPO or laboratory. (The reasonable costs of services furnished by hospital based OPOs or laboratories will be reimbursed in accordance with the principles contained in §§ 413.60 and 413.64.)
 
 (b) *Definitions.* For purposes of this section:
