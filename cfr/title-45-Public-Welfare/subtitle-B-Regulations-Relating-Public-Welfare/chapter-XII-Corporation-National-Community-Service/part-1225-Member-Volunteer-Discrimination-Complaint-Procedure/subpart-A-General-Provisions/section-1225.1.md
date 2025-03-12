@@ -1,0 +1,3 @@
+##### § 1225.1 Purpose. #####
+
+The purpose of this part is to establish a procedure for the filing, investigation, and administrative determination of allegations of discrimination based on race, color, national origin, religion, age, sex, disability or political affiliation, which arise in connection with the recruitment, selection, placement, service, or termination of AmeriCorps and AmeriCorps Seniors applicants, candidates, Members and Volunteers for part time and full time service, as appropriate.

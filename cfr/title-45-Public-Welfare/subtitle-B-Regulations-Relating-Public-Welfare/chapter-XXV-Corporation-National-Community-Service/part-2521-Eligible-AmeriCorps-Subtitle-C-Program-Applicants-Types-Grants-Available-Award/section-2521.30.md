@@ -10,7 +10,7 @@ In any fiscal year, the Corporation will award AmeriCorps subtitle C program gra
 
 (4) In making subgrants with funds awarded by formula or competition under paragraphs (a)(2) or (3) of this section, a State must ensure that a minimum of 50 percent of funds going to States will be used for programs that operate in the areas of need or on Federal or other public lands, and that place a priority on recruiting participants who are residents in high need areas, or on Federal or other public lands. The Corporation may waive this requirement for an individual State if at least 50 percent of the total amount of assistance to all States will be used for such programs.
 
-(b) *Grants to Applicants other than States.* (1) One percent of available funds will be distributed to the U.S. Territories1/\> that have applications approved by the Corporation according to a population-based formula.2/\>
+(b) *Grants to Applicants other than States.* (1) One percent of available funds will be distributed to the U.S. Territories1 that have applications approved by the Corporation according to a population-based formula.2
 
 1 The United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 

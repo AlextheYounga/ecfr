@@ -1,6 +1,6 @@
 ##### § 1310.12 Exempt chemical mixtures. #####
 
-Link to an amendment published at 86 FR 24708, May 10, 2021.
+Link to an amendment published at 86 FR 24708, May 10, 2021.Link to a correction published at 86 FR 30169, June 7, 2021.
 
 (a) The chemical mixtures meeting the criteria in paragraphs (c) or (d) of this section are exempted by the Administrator from application of sections 302, 303, 310, 1007, 1008, and 1018 of the Act (21 U.S.C. 822, 823, 830, 957, 958, and 971) to the extent described in paragraphs (b) and (c) of this section.
 

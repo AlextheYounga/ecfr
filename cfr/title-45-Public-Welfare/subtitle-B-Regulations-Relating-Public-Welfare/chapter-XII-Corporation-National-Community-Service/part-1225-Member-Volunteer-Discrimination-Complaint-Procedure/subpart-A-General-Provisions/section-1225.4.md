@@ -1,0 +1,5 @@
+##### § 1225.4 Coverage. #####
+
+(a) These procedures apply to all CNCS national service applicants, candidates, members and volunteers throughout their term of service with CNCS, or with recipients and subrecipients of CNCS assistance or resources. When an applicant, candidate, member or volunteer makes a complaint which contains an allegation of illegal discrimination in connection with an action that would be otherwise be processed under a grievance, early termination, or other administrative system of the agency, the allegation of illegal discrimination shall be processed under this part. At the discretion of the EEOP Director, any other issues raised may be consolidated with the discrimination complaint for processing under these regulations. Any issues which are not so consolidated shall continue to be processed under those procedures in which they were originally raised.
+
+(b) The submission of class complaints alleging illegal discrimination as defined above will be handled in accordance with the procedure outlined in subpart C.

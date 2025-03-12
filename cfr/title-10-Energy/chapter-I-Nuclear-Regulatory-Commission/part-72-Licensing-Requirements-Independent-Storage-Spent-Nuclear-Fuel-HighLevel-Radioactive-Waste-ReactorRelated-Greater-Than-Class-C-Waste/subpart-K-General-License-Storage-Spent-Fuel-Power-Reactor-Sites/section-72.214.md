@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 86 FR 15567, Mar. 24, 2021.Link to an amendment published at 86 FR 16295, Mar. 29, 2021.
+Link to an amendment published at 86 FR 16295, Mar. 29, 2021.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -68,7 +68,9 @@ Renewed Amendment Number 15 Effective Date: January 22, 2019.
 
 Renewed Amendment Number 16 Effective Date: September 14, 2020.
 
-SAR Submitted by: Transnuclear, Inc.
+Renewed Amendment Number 17 Effective Date: June 7, 2021.
+
+SAR Submitted by: TN Americas LLC.
 
 SAR Title: Final Safety Analysis Report for the Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel.
 

@@ -1,7 +1,5 @@
 ##### § 27.5 Frequencies. #####
 
-Link to an amendment published at 86 FR 17952, Apr. 7, 2021.
-
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* The following frequencies are available for WCS in the 2305-2320 MHz and 2345-2360 MHz bands:
 
 (1) Two paired channel blocks are available for assignment on a Major Economic Area basis as follows:
@@ -117,5 +115,7 @@ No 125 kHz channels are provided for channels in operation in this service. The 
 ![](/graphics/er23ap20.007.gif)
 
 (n) *900 MHz broadband.* The paired 897.5-900.5 MHz and 936.5-939.5 MHz bands are available for assignment on a geographic basis. For operations in the 897.5-900.5 MHz and 936.5-939.5 MHz bands (designated as Channels 120-360 in section 90.613 of this chapter), no new applications will be accepted in transitioned markets for narrowband systems under part 90, subpart S of this chapter.
+
+(o) *3450-3550 MHz band.* The 3.45 GHz Service is licensed as ten individual 10 megahertz blocks available for assignment in the contiguous United States on a Partial Economic Area basis, *see* § 27.6(n).
 
 [62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

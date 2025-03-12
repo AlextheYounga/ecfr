@@ -1,0 +1,3 @@
+##### § 306.7 Review of allegations of retaliation. #####
+
+(a) An aggrieved party, his or her representative, or a witness who alleges retaliation in connection with the presentation of a complaint under this part, may, if covered by this Part, request in writing that the allegation be reviewed as an act of discrimination subject to the procedures described in subpart B or that the allegation be considered as an issue in the complaint at hand. The determination whether to consider the complaint in the same or a separate proceeding is within the discretion of the OCRD Director.

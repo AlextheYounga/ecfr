@@ -1,0 +1,5 @@
+##### § 1225.20 Claim appeals. #####
+
+(a) If the EEOP Director and claimant do not agree that the claimant is a member of the class, or upon the relief to which the claimant is entitled, the EEOP Director shall refer the claim, with recommendations concerning it, to the CEO or their designee for a Final Agency Decision and shall so notify the claimant. The class member may submit written evidence to the CEO or their designee concerning his or her status as a member of the class. Such evidence must be submitted no later than ten (10) calendar days after receipt of referral.
+
+(b) The CEO or their designee shall decide the issue within thirty (30) days of the date of referral by the EEOP Director. The claimant shall be informed in writing of the decision and its basis and that it will be the Final Agency Decision of the issue.

@@ -1,7 +1,5 @@
 ##### § 27.50 Power limits and duty cycle. #####
 
-Link to an amendment published at 86 FR 17953, Apr. 7, 2021.
-
 (a) The following power limits and related requirements apply to stations transmitting in the 2305-2320 MHz band or the 2345-2360 MHz band.
 
 (1) *Base and fixed stations.* (i) For base and fixed stations transmitting in the 2305-2315 MHz band or the 2350-2360 MHz band:
@@ -160,7 +158,17 @@ Link to an amendment published at 86 FR 17953, Apr. 7, 2021.
 
 (5) Peak transmit power must be measured over any interval of continuous transmission using instrumentation calibrated in terms of an rms-equivalent voltage. The measurement results shall be properly adjusted for any instrument limitations, such as detector response times, limited resolution bandwidth capability when compared to the emission bandwidth, sensitivity, and any other relevant factors, so as to obtain a true peak measurement for the emission in question over the full bandwidth of the channel.
 
-Table 1 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed Stations in the 757-758 and 775-776 MHz Bands and for Base and Fixed Stations in the 600 MHz, 698-757 MHz, 758-763 MHz, 776-787 MHz and 788-793 MHz Bands Transmitting a Signal With an Emission Bandwidth of 1 MHz or Less
+(k) The following power requirements apply to stations transmitting in the 3450-3550 MHz band:
+
+(1) The power of each fixed or base station transmitting in the 3450-3550 MHz band and located in any county with population density of 100 or fewer persons per square mile, based upon the most recently available population statistics from the Bureau of the Census, is limited to an equivalent isotropically radiated power (EIRP) of 3280 Watts/MHz. This limit applies to the aggregate power of all antenna elements in any given sector of a base station.
+
+(2) The power of each fixed or base station transmitting in the 3450-3550 MHz band and situated in any geographic location other than that described in paragraph (k)(1) of this section is limited to an EIRP of 1640 Watts/MHz. This limit applies to the aggregate power of all antenna elements in any given sector of a base station.
+
+(3) Mobile devices are limited to 1Watt (30 dBm) EIRP. Mobile devices operating in these bands must employ a means for limiting power to the minimum necessary for successful communications.
+
+(4) Equipment employed must be authorized in accordance with the provisions of § 27.51. Power measurements for transmissions by stations authorized under this section may be made either in accordance with a Commission-approved average power technique or in compliance with paragraph (k)(5) of this section. In measuring transmissions in this band using an average power technique, the peak-to-average ratio (PAR) of the transmission may not exceed 13 dB.
+
+(5) Peak transmit power must be measured over any interval of continuous transmission using instrumentation calibrated in terms of an rms-equivalent voltage. The measurement results shall be properly adjusted for any instrument limitations, such as detector response times, limited resolution bandwidth capability when compared to the emission bandwidth, sensitivity, and any other relevant factors, so as to obtain a true peak measurement for the emission in question over the full bandwidth of the channel.
 
 |Antenna height (AAT) in  <br/>meters  <br/>(feet)|Effective radiated power (ERP)  <br/>(watts)|
 |-------------------------------------------------|--------------------------------------------|
@@ -174,8 +182,6 @@ Table 1 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed S
 |         Above 305 (1000) To 458 (1500)          |                    600                     |
 |                Up to 305 (1000)                 |                    1000                    |
 
-Table 2 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed Stations in the 600 MHz, 698-757 MHz, 758-763 MHz, 776-787 MHz and 788-793 MHz Bands Transmitting a Signal With an Emission Bandwidth of 1 MHz or Less
-
 |Antenna height (AAT) in  <br/>meters  <br/>(feet)|Effective radiated power (ERP)  <br/>(watts)|
 |-------------------------------------------------|--------------------------------------------|
 |                Above 1372 (4500)                |                    130                     |
@@ -188,8 +194,6 @@ Table 2 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed S
 |         Above 305 (1000) To 458 (1500)          |                    1200                    |
 |                Up to 305 (1000)                 |                    2000                    |
 
-Table 3 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed Stations in the 600 MHz, 698-757 MHz, 758-763 MHz, 776-787 MHz and 788-793 MHz Bands Transmitting a Signal With an Emission Bandwidth Greater than 1 MHz
-
 |Antenna height (AAT) in  <br/>meters  <br/>(feet)|Effective radiated power (ERP) per MHz  <br/>(watts/MHz)|
 |-------------------------------------------------|--------------------------------------------------------|
 |                Above 1372 (4500)                |                           65                           |
@@ -201,8 +205,6 @@ Table 3 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed S
 |         Above 458 (1500) To 610 (2000)          |                          350                           |
 |         Above 305 (1000) To 458 (1500)          |                          600                           |
 |                Up to 305 (1000)                 |                          1000                          |
-
-Table 4 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed Stations in the 600 MHz, 698-757 MHz, 758-763 MHz, 776-787 MHz and 788-793 MHz Bands Transmitting a Signal With an Emission Bandwidth Greater than 1 MHz
 
 |Antenna height (AAT) in  <br/>meters  <br/>(feet)|Effective radiated power (ERP) per MHz  <br/>(watts/MHz)|
 |-------------------------------------------------|--------------------------------------------------------|

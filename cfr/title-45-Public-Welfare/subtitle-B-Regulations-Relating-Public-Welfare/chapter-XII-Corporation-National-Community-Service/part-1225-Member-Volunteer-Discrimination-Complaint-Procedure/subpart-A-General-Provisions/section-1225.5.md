@@ -1,0 +1,7 @@
+##### § 1225.5 Representation. #####
+
+Any aggrieved party may be represented and assisted in all stages of these procedures by an attorney or representative of his or her own choosing. An aggrieved party must immediately inform the agency if counsel is retained. Attorney fees or other appropriate relief may be awarded in the following circumstances;
+
+(a) *Informal adjustment of a complaint.* An informal adjustment of a complaint may include an award of attorney fees or other relief deemed appropriate by the EEOP Director. Where the parties agree on an adjustment of the complaint, but cannot agree on whether attorney fees or costs should be awarded, or on their amount, this issue may be appealed to the CEO, or their designee, in the manner detailed in § 1225.11.
+
+(b) *Final agency decision.* When discrimination is found, the CEO, or their designee, shall advise the complainant that any request for attorney fees or costs must be documented and submitted for review within 20 calendar days after his or her receipt of the final agency decision. The amount of such awards shall be determined under § 1225.11. In the unusual situation in which it is determined not to award attorney fees or other costs to a prevailing complainant, the CEO, or their designee, in his or her final decision shall set forth the specific reasons thereof.

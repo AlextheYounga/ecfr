@@ -1,5 +1,7 @@
 ##### § 5.15 Procedures for issuing guidance documents. #####
 
+Link to an amendment published at 86 FR 30184, June 7, 2021.
+
 (a) *General.* (1) Each guidance document must clearly and prominently state that it does not bind the public, except as authorized by law or as incorporated into a contract. Guidance documents may include the following or similar disclaimer language: The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
 
 (2) Each guidance document must include the following information in the published guidance document:

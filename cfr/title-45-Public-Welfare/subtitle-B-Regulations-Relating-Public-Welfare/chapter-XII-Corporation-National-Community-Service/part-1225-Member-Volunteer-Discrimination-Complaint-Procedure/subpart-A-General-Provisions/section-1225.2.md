@@ -1,0 +1,3 @@
+##### § 1225.2 Policy. #####
+
+It is the policy of the Corporation for National and Community Service (CNCS) to provide equal opportunity in all its national service programs for all persons and to prohibit discrimination based on race, color, national origin, religion, age, sex, disability or political affiliation in the recruitment, selection, placement, service, and termination of AmeriCorps and AmeriCorps Seniors applicants, candidates, Members and Volunteers. It is the policy of CNCS, upon determining that such prohibited discrimination has occurred, to take all necessary corrective action to remedy the discrimination, and to prevent its recurrence.
