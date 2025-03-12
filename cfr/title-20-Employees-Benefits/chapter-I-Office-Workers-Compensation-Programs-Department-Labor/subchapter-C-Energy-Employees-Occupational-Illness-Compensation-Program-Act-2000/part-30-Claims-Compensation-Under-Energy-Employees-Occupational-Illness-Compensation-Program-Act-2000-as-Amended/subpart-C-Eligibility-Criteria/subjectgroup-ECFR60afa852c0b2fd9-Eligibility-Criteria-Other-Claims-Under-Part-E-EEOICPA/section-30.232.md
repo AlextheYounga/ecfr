@@ -2,14 +2,10 @@
 
 (a) To establish that the employee has been diagnosed with a covered illness as required by § 30.230(d), the employee, or his or her survivor(s), must provide the following:
 
-(1) The name and address of any licensed physician who is the source of a diagnosis based upon documented medical information that the employee has or had an illness and that the illness may have resulted from exposure to a toxic substance while the employee was employed at a DOE facility or a RECA section 5 facility, as appropriate, and, to the extent practicable, a copy of the diagnosis and a summary of the information upon which the diagnosis is based; and
+(1) Written medical evidence containing a physician's diagnosis of the employee's covered illness (as that term is defined in § 30.5(s)), and the physician's reasoning for his or her opinion regarding causation; and
 
-(2) A signed medical release, authorizing the release of any diagnosis, medical opinion and medical records documenting the diagnosis or opinion that the employee has or had an illness and that the illness may have resulted from exposure to a toxic substance while the employee was employed at a DOE facility or RECA section 5 facility, as appropriate; and
+(2) Any other evidence OWCP may deem necessary to show that the employee has or had an illness that resulted from an exposure to a toxic substance while working at either a DOE facility or a RECA section 5 facility.
 
-(3) To the extent practicable and appropriate, an occupational history obtained by a physician, an occupational health professional, or a DOE-sponsored Former Worker Program (if such an occupational history is not reasonably available or is inadequate, and such history is deemed by OWCP to be needed for the fair adjudication of the claim, then OWCP may assist the claimant in developing this history); and
+(b) An injury, illness, impairment or disease sustained as a consequence of a covered illness (as defined in § 30.5(s)) must be established with a fully rationalized medical report by a physician that shows the relationship between the injury, illness, impairment or disease and the covered illness. Neither the fact that the injury, illness, impairment or disease manifests itself after a diagnosis of a covered illness, nor the belief of the claimant that the injury, illness, impairment or disease was caused by the covered illness, is sufficient in itself to prove a causal relationship.
 
-(4) Any other information or materials deemed by OWCP to be necessary to provide reasonable evidence that the employee has or had an illness that may have arisen from exposure to a toxic substance while employed at a DOE facility or RECA section 5 facility, as appropriate.
-
-(b) The employee, or his or her survivor(s), may also submit to OWCP other evidence not described in paragraph (a) of this section showing that the employee has or had an illness that resulted from an exposure to a toxic substance during the course of employment at either a DOE facility or a RECA section 5 facility, as appropriate.
-
-(c) An injury, illness, impairment or disease sustained as a consequence of a covered illness (as defined in § 30.5(r)) must be established with a fully rationalized medical report by a physician that shows the relationship between the injury, illness, impairment or disease and the covered illness. Neither the fact that the injury, illness, impairment or disease manifests itself after a diagnosis of a covered illness, nor the belief of the claimant that the injury, illness, impairment or disease was caused by the covered illness, is sufficient in itself to prove a causal relationship.
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3049, Feb. 8, 2019]

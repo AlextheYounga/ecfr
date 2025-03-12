@@ -1,5 +1,7 @@
 ##### § 665.261 Definitions. #####
 
+Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
+
 As used in §§ 665.260 through 665.270:
 
 *Hawaii precious coral management unit species (Hawaii precious coral MUS)* means any coral of the genus *Corallium* in addition to the following species of corals:

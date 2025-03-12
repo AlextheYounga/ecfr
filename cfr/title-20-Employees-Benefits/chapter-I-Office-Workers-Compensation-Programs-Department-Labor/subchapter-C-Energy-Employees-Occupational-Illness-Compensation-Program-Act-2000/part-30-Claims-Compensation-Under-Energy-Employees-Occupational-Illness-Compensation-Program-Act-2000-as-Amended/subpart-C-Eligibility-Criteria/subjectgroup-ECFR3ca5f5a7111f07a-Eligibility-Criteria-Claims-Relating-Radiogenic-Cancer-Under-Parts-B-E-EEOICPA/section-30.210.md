@@ -2,11 +2,7 @@
 
 (a) To establish eligibility for benefits for radiogenic cancer under Part B of EEOICPA, an employee or his or her survivor must show that:
 
-(1) The employee has been diagnosed with one of the forms of cancer specified in § 30.5(ff) of this part; and
-
-(i) Is a member of the Special Exposure Cohort (as described in § 30.214(a) of this subpart) who, as a civilian DOE employee or civilian DOE contractor employee, contracted the specified cancer after beginning employment at a DOE facility; or
-
-(ii) Is a member of the Special Exposure Cohort (as described in § 30.214(a) of this subpart) who, as a civilian atomic weapons employee, contracted the specified cancer after beginning employment at an atomic weapons employer facility (as defined in § 30.5(e)); or
+(1) The employee has been diagnosed with one of the forms of cancer specified in § 30.5(gg); and
 
 (2) The employee has been diagnosed with cancer; and
 
@@ -33,3 +29,5 @@
 (ii) The employee has been diagnosed with an injury, illness, impairment or disease that arose as a consequence of the accepted cancer.
 
 (2) Eligibility for benefits for radiogenic cancer under Part E in a claim that has previously been accepted under Part B pursuant to the Special Exposure Cohort provisions is described in § 30.230(a) of these regulations.
+
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3049, Feb. 8, 2019]

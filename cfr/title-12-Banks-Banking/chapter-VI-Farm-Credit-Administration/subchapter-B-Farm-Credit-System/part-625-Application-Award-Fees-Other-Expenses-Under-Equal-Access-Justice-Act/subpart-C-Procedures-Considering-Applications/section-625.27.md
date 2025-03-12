@@ -1,3 +1,3 @@
-##### § 625.27 xxx #####
+##### § 625.27 Board decision. #####
 
-Link to an amendment published at 83 FR 55098, Nov. 2, 2018.
+Following filing of the recommended decision with the Board, the Board shall render a final decision on the application. The Board maintains full discretion to uphold, reverse, remand, or alter the recommended decision. The Board may order further proceedings (including those set forth in §§ 622.11 and 622.13 through 622.16 of this chapter) upon request by any party to the application proceeding or on its own initiative, but such proceedings may not include discovery or an evidentiary hearing with respect to the issue of whether the agency's position was substantially justified.

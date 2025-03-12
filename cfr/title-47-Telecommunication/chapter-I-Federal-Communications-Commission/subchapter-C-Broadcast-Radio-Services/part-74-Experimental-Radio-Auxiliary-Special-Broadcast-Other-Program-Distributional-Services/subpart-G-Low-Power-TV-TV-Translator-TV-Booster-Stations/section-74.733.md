@@ -16,12 +16,6 @@
 
 (h) Applications for authority to construct and operate a UHF translator signal booster shall be submitted on FCC Form 346A. No construction of facilities or installation of apparatus at the proposed transmitter site shall be made until a construction permit therefor has been issued by the Commission.
 
-(i) The provisions of § 74.765 concerning posting of station license shall apply to a UHF translator signal booster except that the parent UHF translator call sign, followed by the word “Booster”, shall be displayed at the signal booster site.
+(i) The provisions of §§ 74.767 and 74.781 concerning marking and lighting of antenna structures and station records, respectively, apply to UHF translator signal boosters.
 
-(j) The provisions of §§ 74.767 and 74.781 concerning marking and lighting of antenna structures and station records, respectively, apply to UHF translator signal boosters.
-
-Note:
-
-Effective July 11, 1975, no new UHF signal boosters will be authorized. Licensees of such existing boosters may make application for renewal of license or change in facilities on the applicable FCC forms for Television Broadcast Translator Stations (Form 346, for construction permits; 347, for license to cover construction permit; and 303-S, for renewal of license). Report and Order, Docket No. 20372. May 28, 1975.
-
-[28 FR 13722, Dec. 14, 1963, as amended at 40 FR 25022, June 12, 1975; 59 FR 63052, Dec. 7, 1994]
+[28 FR 13722, Dec. 14, 1963, as amended at 40 FR 25022, June 12, 1975; 59 FR 63052, Dec. 7, 1994; 84 FR 2759, Feb. 8, 2019]

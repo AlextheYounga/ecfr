@@ -1,6 +1,6 @@
 ##### § 30.207 How does a claimant prove a diagnosis of a beryllium disease covered under Part B? #####
 
-(a) Written medical documentation is required in all cases to prove that the employee developed a covered beryllium illness. Proof that the employee developed a covered beryllium illness must be made by using the procedures outlined in paragraphs (b), (c), or (d) of this section.
+(a) Written medical documentation is required in all cases to prove that the employee developed a covered beryllium illness. Proof that the employee developed a covered beryllium illness must be made by using the procedures outlined in paragraph (b), (c), (d) or (e) of this section.
 
 (b) Beryllium sensitivity or sensitization is established with an abnormal LPT performed on either blood or lung lavage cells.
 
@@ -30,4 +30,14 @@
 
 (E) Immunologic tests showing beryllium sensitivity (skin patch test or beryllium blood test preferred).
 
-(d) An injury, illness, impairment or disability sustained as a consequence of beryllium sensitivity or established chronic beryllium disease must be established with a fully rationalized medical report by a physician that shows the relationship between the injury, illness, impairment or disability and the beryllium sensitivity or established chronic beryllium disease. Neither the fact that the injury, illness, impairment or disability manifests itself after a diagnosis of beryllium sensitivity or established chronic beryllium disease, nor the belief of the claimant that the injury, illness, impairment or disability was caused by the beryllium sensitivity or established chronic beryllium disease, is sufficient in itself to prove a causal relationship.
+(d) OWCP will use the criteria in either paragraph (c)(1) or (2) of this section to establish that the employee developed chronic beryllium disease as follows:
+
+(1) If the earliest dated medical evidence shows that the employee was either treated for, tested positive for, or diagnosed with a chronic respiratory disorder before January 1, 1993, the criteria set forth in paragraph (c)(2) of this section may be used;
+
+(2) If the earliest dated medical evidence shows that the employee was either treated for, tested positive for, or diagnosed with a chronic respiratory disorder on or after January 1, 1993, the criteria set forth in paragraph (c)(1) of this section must be used; and
+
+(3) If the employee was treated for a chronic respiratory disorder before January 1, 1993 and medical evidence verifies that such treatment was performed before January 1, 1993, but the medical evidence is dated on or after January 1, 1993, the criteria set forth in paragraph (c)(2) of this section may be used.
+
+(e) An injury, illness, impairment or disability sustained as a consequence of beryllium sensitivity or established chronic beryllium disease must be established with a fully rationalized medical report by a physician that shows the relationship between the injury, illness, impairment or disability and the beryllium sensitivity or established chronic beryllium disease. Neither the fact that the injury, illness, impairment or disability manifests itself after a diagnosis of beryllium sensitivity or established chronic beryllium disease, nor the belief of the claimant that the injury, illness, impairment or disability was caused by the beryllium sensitivity or established chronic beryllium disease, is sufficient in itself to prove a causal relationship.
+
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3048, Feb. 8, 2019]

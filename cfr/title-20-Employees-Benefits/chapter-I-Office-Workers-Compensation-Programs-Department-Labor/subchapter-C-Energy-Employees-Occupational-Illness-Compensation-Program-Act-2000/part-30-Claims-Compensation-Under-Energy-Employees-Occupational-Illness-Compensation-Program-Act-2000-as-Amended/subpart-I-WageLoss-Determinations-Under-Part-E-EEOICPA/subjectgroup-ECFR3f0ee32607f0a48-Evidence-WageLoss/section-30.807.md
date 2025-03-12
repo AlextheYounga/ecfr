@@ -1,0 +1,7 @@
+##### § 30.807 What factual evidence does OWCP use to determine a covered Part E employee's average annual wage? #####
+
+(a) OWCP may rely on annual or quarterly wage information reported to the Social Security Administration to establish a covered Part E employee's presumed average annual wage (see § 30.810) and the duration and extent of any years of wage-loss that are compensable under Part E of the Act (see § 30.811). OWCP may also rely on other probative evidence of a covered Part E employee's wages, and may ask the claimant for additional evidence needed to make this determination, if necessary. For the purposes of making these two types of determinations, OWCP will consider all monetary payments that the covered Part E employee received as wages (see § 30.801(g)).
+
+(b) A claimant who disagrees with the evidence OWCP has obtained under paragraph (a) of this section and alleges a different average annual wage for the covered Part E employee, or that there was a greater duration or extent of wage-loss, may submit records that were produced in the ordinary course of business due to the employee's employment to rebut that evidence, to the extent that such records are determined to be authentic by OWCP. The average annual wage and/or wage-loss of the covered Part E employee will then be determined by OWCP in the exercise of its discretion.
+
+[84 FR 3059, Feb. 8, 2019]

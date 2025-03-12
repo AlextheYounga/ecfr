@@ -1,5 +1,7 @@
 ##### § 665.442 Permits. #####
 
+Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
+
 (a) *Applicability.* (1) The owner of any vessel used to fish for lobster in Crustacean Permit Area 5 must have a permit issued for such a vessel.
 
 (2) The owner of any vessel used to fish for deepwater shrimp in Crustacean Permit Area 5 must have a permit issued for that vessel.

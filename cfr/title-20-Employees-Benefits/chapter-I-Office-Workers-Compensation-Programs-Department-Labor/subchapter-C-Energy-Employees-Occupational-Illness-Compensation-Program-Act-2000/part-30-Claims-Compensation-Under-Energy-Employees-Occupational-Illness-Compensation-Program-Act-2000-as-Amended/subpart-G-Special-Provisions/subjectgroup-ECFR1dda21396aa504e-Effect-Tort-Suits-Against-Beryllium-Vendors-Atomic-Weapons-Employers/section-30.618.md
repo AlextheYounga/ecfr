@@ -8,4 +8,6 @@
 
 (1) April 30, 2003; or
 
-(2) The date that is 30 months after the date the claimant or claimants first became aware that an illness of the covered Part B employee may be connected to his or her exposure to beryllium or radiation covered by EEOICPA. For purposes of determining when this 30-month period begins, “the date the claimant or claimants first became aware” will be deemed to be the date they received either a reconstructed dose from HHS, or a diagnosis of a covered beryllium illness, as applicable.
+(2) The date that is 30 months after the date the claimant or claimants first became aware that an illness of the covered Part B employee may be connected to his or her exposure to beryllium or radiation covered by EEOICPA. For purposes of determining when this 30-month period begins, “the date the claimant or claimants first became aware” will be deemed to be the date they received either a reconstructed dose from NIOSH, or a diagnosis of a covered beryllium illness, as applicable.
+
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3053, Feb. 8, 2019]

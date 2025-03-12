@@ -9,4 +9,6 @@
 |(3) EE-3|     Employment History for a Claim Under the Energy Employees Occupational Illness Compensation Program Act.     |
 |(4) EE-4|Employment History Affidavit for a Claim Under the Energy Employees Occupational Illness Compensation Program Act.|
 
-(b) Copies of the forms listed in this section are available for public inspection at the Office of Workers' Compensation Programs, Employment Standards Administration, U.S. Department of Labor, Washington, DC 20210. They may also be obtained from OWCP district offices and on the Internet at *http://www.dol.gov/esa/regs/compliance/owcp/eeoicp/main.htm.*
+(b) Copies of the forms listed in this section are available for public inspection at the U.S. Department of Labor, Office of Workers' Compensation Programs, Washington, DC 20210. They may also be obtained from OWCP district offices and on the internet at *http://www.dol.gov/owcp/energy/index.htm.*
+
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3047, Feb. 8, 2019]

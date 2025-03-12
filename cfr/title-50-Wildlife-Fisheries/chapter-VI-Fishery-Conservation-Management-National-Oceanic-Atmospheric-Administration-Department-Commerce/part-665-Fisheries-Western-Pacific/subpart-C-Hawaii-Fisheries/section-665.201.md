@@ -1,5 +1,7 @@
 ##### § 665.201 Definitions. #####
 
+Link to an amendment published at 84 FR 2771, Feb. 8, 2019.
+
 As used in §§ 665.200 through 665.219:
 
 *Hawaii bottomfish management unit species (Hawaii bottomfish MUS)* means the following species:

@@ -1,5 +1,7 @@
 ##### § 665.225 Prohibitions. #####
 
+Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter and § 665.15 of this part, it is unlawful for any person to do any of the following:
 
 (a) Fish for, take, retain, possess or land any Hawaii coral reef ecosystem MUS in any low-use MPA as defined in § 665.199 unless:

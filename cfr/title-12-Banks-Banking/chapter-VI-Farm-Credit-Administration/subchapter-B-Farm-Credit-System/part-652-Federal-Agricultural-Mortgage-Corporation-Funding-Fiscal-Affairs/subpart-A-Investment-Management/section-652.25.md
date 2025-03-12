@@ -1,13 +1,13 @@
-##### § 652.25 Management of ineligible investments and reservation of authority. #####
+##### § 652.25 Ineligible investments. #####
 
-Link to an amendment published at 83 FR 55098, Nov. 2, 2018.
+(a) *Investments ineligible when purchased.* Non-program investments that do not satisfy the eligibility criteria set forth in § 652.20(a) or have not been approved by the FCA pursuant to § 652.23 at the time of purchase are ineligible. You must not purchase ineligible investments. If you determine that you have purchased an ineligible investment, you must notify us within 15 calendar days after such determination. You must divest of the investment no later than 60 calendar days after you determine that the investment is ineligible unless we approve, in writing, a plan that authorizes you to divest the investment over a longer period of time. Until you divest of the investment, it may not be used to satisfy your liquidity requirement(s) under § 652.40, but must continue to be included in the § 652.15(b) investment portfolio limit calculation.
 
-(a) *Investments ineligible when purchased.* Investments that do not satisfy the eligibility criteria set forth in § 652.20 at the time of purchase are ineligible. You must not purchase ineligible investments. If you determine that you have purchased an ineligible investment, you must notify the OSMO within 15 calendar days after such determination. You must divest of the investment no later than 60 calendar days after the determination unless we approve, in writing, a plan that authorizes you to divest of the investment over a longer period of time.
+(b) *Investments that no longer satisfy eligibility criteria.* If you determine that a non-program investment no longer satisfies the criteria set forth in § 652.20 or no longer satisfies the conditions of approval issued under § 652.23, you must notify us within 15 calendar days after such determination. If approved by the FCA in writing, you may continue to hold the investment, subject to the following and any other conditions we impose:
 
-(b) *Investments that no longer satisfy eligibility criteria.* If you determine that an investment (that satisfied the eligibility criteria set forth in § 652.20 when purchased) no longer satisfies the eligibility criteria, you must notify the OSMO within 15 calendar days of the determination.
+(1) You may not use the investment to satisfy your § 652.40 liquidity requirement(s);
 
-(c) *Requirements for investments that are ineligible or no longer satisfy eligibility criteria* - (1) *Reporting requirements.* Each quarter, you must report to the OSMO and your board on the status of investments identified in paragraph (a) or (b) of this section. Your report must demonstrate the effect that these investments may have on the Corporation's capital, earnings, and liquidity position. Additionally, the report must address how the Corporation plans to reduce its risk exposure from these investments or exit the position(s).
+(2) The investment must continue to be included in your § 652.15 investment portfolio limit calculation; and
 
-(2) *Other requirements.* Investments identified in paragraph (a) or (b) of this section may not be used to satisfy the liquidity requirement(s) in § 652.40. These investments must continue to be included in the investment portfolio limit calculation established in § 652.15(b).
+(3) You must develop a plan to reduce the investment's risk to you.
 
-(d) *Reservation of authority.* FCA retains the authority to require you to divest of any investment at any time for failure to comply with § 652.15(a) or for safety and soundness reasons. The timeframe set by FCA for such required divestiture will consider the expected loss on the transaction (or transactions) and the effect on the Corporation's financial condition and performance.
+[83 FR 55098, Nov. 2, 2018]

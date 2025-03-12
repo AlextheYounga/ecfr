@@ -1,5 +1,7 @@
 ##### § 665.241 Definitions. #####
 
+Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
+
 As used in §§ 665.240 through 665.259:
 
 *Hawaii crustacean management area* is divided into the following areas:

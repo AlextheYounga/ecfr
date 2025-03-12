@@ -1,5 +1,7 @@
 ##### § 665.124 Permits and fees. #####
 
+Link to an amendment published at 84 FR 2770, Feb. 8, 2019.
+
 (a) *Applicability.* Unless otherwise specified in this subpart, § 665.13 applies to coral reef ecosystem permits.
 
 (1) *Special permit.* Any person of the United States fishing for, taking or retaining American Samoa coral reef ecosystem MUS must have a special permit if they, or a vessel which they operate, is used to fish for any:

@@ -1,5 +1,11 @@
-##### § 30.711 When and how are fees reduced? #####
+##### § 30.711 How are payments for outpatient medical services determined? #####
 
-(a) OWCP shall accept a provider's designation of the code to identify a billed procedure or service if the code is consistent with medical reports and other evidence. Where no code is supplied, OWCP may determine the code based on the narrative description of the procedure on the billing form and in associated medical reports. OWCP will pay no more than the maximum allowable fee for that procedure.
+(a) OWCP will pay for outpatient medical services according to Ambulatory Payment Classifications (APC) based on the Outpatient Prospective Payment System devised by CMS.
 
-(b) If the charge submitted for a service supplied to an employee exceeds the maximum amount determined to be reasonable according to the schedule, OWCP shall pay the amount allowed by the schedule for that service and shall notify the provider in writing that payment was reduced for that service in accordance with the schedule. OWCP shall also notify the provider of the method for requesting reconsideration of the balance of the charge. The decision of OWCP to pay less than the charged amount is final when issued and is not subject to the adjudicatory process described in subpart D of this part.
+(b) All outpatient medical services will be classified according to the APC prescribed by CMS for that service in the form of the Outpatient Prospective Payment System Grouper software program. Each payment is derived by multiplying the prospectively established scaled relative weight for the service's clinical APC by a conversion factor to arrive at a national unadjusted payment rate for the APC. The labor portion of the national unadjusted payment rate is further adjusted by the hospital wage index for the area where payment is being made.
+
+(c) If a payable service has no assigned APC, the payment will be derived from the OWCP Medical Fee Schedule.
+
+(d) OWCP shall review the pre-determined outpatient hospital rates at least once a year, and may adjust any or all components when OWCP deems it necessary or appropriate.
+
+[84 FR 3056, Feb. 8, 2019]

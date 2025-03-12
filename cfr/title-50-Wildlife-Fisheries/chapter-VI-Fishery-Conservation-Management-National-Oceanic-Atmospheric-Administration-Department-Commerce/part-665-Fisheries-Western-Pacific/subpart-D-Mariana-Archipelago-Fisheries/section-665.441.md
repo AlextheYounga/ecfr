@@ -1,5 +1,7 @@
 ##### § 665.441 Definitions. #####
 
+Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
+
 As used in §§ 665.440 through 665.459:
 
 *Crustacean Permit Area 5 (Permit Area 5)* means the EEZ around Guam and the EEZ seaward of points 3 nautical miles from the shoreline of the CNMI.

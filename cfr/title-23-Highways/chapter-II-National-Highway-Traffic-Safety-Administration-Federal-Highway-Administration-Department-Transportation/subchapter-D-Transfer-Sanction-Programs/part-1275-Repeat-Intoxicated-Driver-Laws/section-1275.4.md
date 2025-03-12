@@ -1,5 +1,7 @@
 ##### § 1275.4 Compliance criteria. #####
 
+Link to an amendment published at 84 FR 2734, Feb. 8, 2019.
+
 (a) To avoid the reservation of funds specified in § 1275.6, a State must enact and enforce a repeat intoxicated driver law that establishes, as a minimum penalty, that all repeat intoxicated drivers:
 
 (1) Receive, for a period of not less than one year, one or more of the following penalties:

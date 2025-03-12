@@ -1,5 +1,7 @@
 ##### § 665.242 Permits. #####
 
+Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
+
 (a) *Applicability.* (1) The owner of any vessel used to fish for lobster in Permit Area 1 must have a limited access permit issued for such vessel.
 
 (2) The owner of any vessel used to fish for lobster in Permit Area 2 must have a permit issued for such a vessel.

@@ -10,6 +10,6 @@
 
 (4) The licensee shall submit a photograph showing the new monitoring point in relation to nearby permanent landmarks that can be used in locating the point accurately at all times throughout the year. Do not use seasonal or temporary features in either the written descriptions or photographs as landmarks for locating field points.
 
-(b) When the description of the monitoring point as shown on the station license is no longer correct due to road or building construction or other changes, the licensee must prepare and file with the FCC, in Washington, DC, a request for a corrected station license showing the new monitoring point description. The request shall include the information specified in paragraphs (a)(3) and (a)(4) of this section, and a copy of the station's current license. A copy of the description is to be posted with the existing station license.
+(b) When the description of the monitoring point as shown on the station license is no longer correct due to road or building construction or other changes, the licensee must prepare and file with the FCC, in Washington, DC, a request for a corrected station license showing the new monitoring point description. The request shall include the information specified in paragraphs (a)(3) and (4) of this section, and a copy of the station's current license.
 
-[66 FR 20757, Apr. 25, 2001]
+[66 FR 20757, Apr. 25, 2001, as amended at 84 FR 2758, Feb. 8, 2019]

@@ -1,5 +1,7 @@
 ##### § 665.161 Definitions. #####
 
+Link to an amendment published at 84 FR 2771, Feb. 8, 2019.
+
 As used in §§ 665.160 through 665.169:
 
 *American Samoa precious coral management unit species (American Samoa precious coral MUS)* means any coral of the genus *Corallium* in addition to the following species of corals:

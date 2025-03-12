@@ -8,4 +8,6 @@
 
 (1) Any notice requirement contained in this part or EEOICPA is fully satisfied if served on the representative, and has the same force and effect as if sent to the claimant.
 
-(2) A representative does not have authority to sign the Form EN-20, described in § 30.505(c) of these regulations, which collects information necessary for issuance of a compensation payment.
+(2) A representative does not have authority to sign the Form EE-1 (described in § 30.100(a)) or the Form EE-2 (described in § 30.101(a)) for his or her client. A representative also does not have authority to sign the Form EN-20 (described in § 30.505(c)) for his or her client
+
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3053, Feb. 8, 2019]

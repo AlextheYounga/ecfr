@@ -34,6 +34,6 @@
 
 (i) In case of permanent discontinuance of operations of a station licensed under this subpart, the licensee shall cancel the station license using FCC Form 601. For purposes of this section, a station which is not operated for a period of one year is considered to have been permanently discontinued.
 
-(j) The license shall be retained in the licensee's files at the address shown on the authorization, posted at the transmitter, or posted at the control point of the station.
+(j) The license shall be retained in the licensee's files at the address shown on the authorization.
 
-[42 FR 14729, Mar. 16, 1977, as amended at 47 FR 9221, Mar. 4, 1982; 47 FR 21503, May 18, 1982; 47 FR 55938, Dec. 14, 1982; 51 FR 4603, Feb. 6, 1986; 51 FR 9966, Mar. 24, 1986; 52 FR 2535, Jan. 23, 1987; 55 FR 46012, Oct. 31, 1990; 58 FR 19776, Apr. 16, 1993; 68 FR 12772, Mar. 17, 2003; 69 FR 72045, Dec. 10, 2004; 79 FR 40689, July 14, 2014; 80 FR 71729, Nov. 17, 2015; 82 FR 41560, Sept. 1, 2017]
+[42 FR 14729, Mar. 16, 1977, as amended at 47 FR 9221, Mar. 4, 1982; 47 FR 21503, May 18, 1982; 47 FR 55938, Dec. 14, 1982; 51 FR 4603, Feb. 6, 1986; 51 FR 9966, Mar. 24, 1986; 52 FR 2535, Jan. 23, 1987; 55 FR 46012, Oct. 31, 1990; 58 FR 19776, Apr. 16, 1993; 68 FR 12772, Mar. 17, 2003; 69 FR 72045, Dec. 10, 2004; 79 FR 40689, July 14, 2014; 80 FR 71729, Nov. 17, 2015; 82 FR 41560, Sept. 1, 2017; 84 FR 2759, Feb. 8, 2019]

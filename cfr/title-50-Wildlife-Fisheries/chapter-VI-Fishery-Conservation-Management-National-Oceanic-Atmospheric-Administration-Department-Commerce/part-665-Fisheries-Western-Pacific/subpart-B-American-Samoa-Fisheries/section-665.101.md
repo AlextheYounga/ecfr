@@ -1,5 +1,7 @@
 ##### § 665.101 Definitions. #####
 
+Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
+
 As used in §§ 665.100 through 665.119:
 
 *American Samoa bottomfish management unit species (American Samoa bottomfish MUS)* means the following fish:

@@ -1,5 +1,7 @@
 ##### § 679.62 Inshore sector cooperative allocation program. #####
 
+Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
+
 (a) *How will inshore sector cooperative allocations be made?* An inshore catcher vessel cooperative that applies for and receives an AFA inshore cooperative fishing permit under § 679.4(l)(6) will receive a sub-allocation of the annual BS subarea inshore sector directed fishing allowance. Each inshore cooperative's annual allocation amount(s) will be determined using the following procedure:
 
 (1) *Determination of individual vessel catch histories.* The Regional Administrator will calculate an official AFA inshore cooperative catch history for every inshore-sector endorsed AFA catcher vessel according to the following steps:

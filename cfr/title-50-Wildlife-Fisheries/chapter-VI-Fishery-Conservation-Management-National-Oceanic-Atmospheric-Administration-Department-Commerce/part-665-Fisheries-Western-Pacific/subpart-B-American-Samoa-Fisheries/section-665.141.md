@@ -1,5 +1,7 @@
 ##### § 665.141 Definitions. #####
 
+Link to an amendment published at 84 FR 2770, Feb. 8, 2019.
+
 As used in §§ 665.140 through 665.159:
 
 *American Samoa crustacean management unit species* means the following crustaceans:

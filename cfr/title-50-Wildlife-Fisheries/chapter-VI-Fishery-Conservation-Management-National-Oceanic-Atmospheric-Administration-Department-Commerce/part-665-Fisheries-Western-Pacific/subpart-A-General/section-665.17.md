@@ -1,5 +1,7 @@
 ##### § 665.17 Experimental fishing. #####
 
+Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
+
 (a) *General.* The Regional Administrator may authorize, for limited purposes, the direct or incidental harvest of MUS that would otherwise be prohibited by this part. No experimental fishing may be conducted unless authorized by an EFP issued by the Regional Administrator in accordance with the criteria and procedures specified in this section. EFPs will be issued without charge.
 
 (b) *Observers.* No experimental fishing for crustacean MUS may be conducted unless a NMFS observer is aboard the vessel.

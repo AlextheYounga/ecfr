@@ -1,5 +1,7 @@
 ##### § 679.64 Harvesting sideboard limits in other fisheries. #####
 
+Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
+
 (a) *Harvesting sideboards for listed AFA catcher/processors and catcher/processors designated on listed AFA catcher/processor permits.* The Regional Administrator will restrict the ability of listed AFA catcher/processors and a catcher/processor designated on a listed AFA catcher/processor permit to engage in directed fishing for non-pollock groundfish species to protect participants in other groundfish fisheries from adverse effects resulting from the AFA and from fishery cooperatives in the BS subarea directed pollock fishery.
 
 (1) *How will groundfish sideboard limits for AFA listed catcher/processors and catcher/processors designated on listed AFA catcher/processor permits be calculated?* Except for Aleutian Islands pollock and BSAI Pacific cod, the Regional Administrator will establish annual AFA catcher/processor harvest limits for each groundfish species or species group in which a TAC is specified for an area or subarea of the BSAI as follows:

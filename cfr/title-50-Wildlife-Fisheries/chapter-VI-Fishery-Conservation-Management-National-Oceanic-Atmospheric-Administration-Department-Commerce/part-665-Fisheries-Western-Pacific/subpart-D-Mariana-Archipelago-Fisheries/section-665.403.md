@@ -1,5 +1,7 @@
 ##### § 665.403 Bottomfish fishery area management. #####
 
+Link to an amendment published at 84 FR 2774, Feb. 8, 2019.
+
 (a) *Guam large vessel bottomfish prohibited area (Area GU-1).* A large vessel of the United States, as defined in § 665.12, may not be used to fish for Mariana bottomfish MUS in the Guam large vessel bottomfish prohibited area, defined as the U.S. EEZ waters surrounding Guam that are enclosed by straight lines connecting the following coordinates in the order listed:
 
 |Point | N. lat. | E. long. |

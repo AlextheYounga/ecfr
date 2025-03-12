@@ -10,10 +10,10 @@
 
 (2) A statement of reason as to why the interlock will not result in a monopoly or a substantial lessening of competition; and
 
-(3) If the applicant is seeking an exemption set forth in § 348.5 or 348.6 of this chapter, a description of the particular exemption which is being requested and a statement of reasons as to why the exemption is applicable.
+(3) If the applicant is seeking an exemption set forth in § 348.6 of this chapter, a description of the particular exemption which is being requested and a statement of reasons as to why the exemption is applicable.
 
 (d) *Additional information.* The FDIC may request additional information at any time during processing of the filing.
 
 (e) *Processing.* The FDIC will provide the applicant with written notification of the final action when the decision is rendered.
 
-[67 FR 79247, Dec. 27, 2002. Redesignated at 71 FR 20526, Apr. 21, 2006]
+[67 FR 79247, Dec. 27, 2002. Redesignated at 71 FR 20526, Apr. 21, 2006; 84 FR 2706, Feb. 8, 2019]

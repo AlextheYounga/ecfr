@@ -1,5 +1,7 @@
 ##### § 665.427 Allowable gear and gear restrictions. #####
 
+Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
+
 (a) Mariana coral reef ecosystem MUS may be taken only with the following allowable gear and methods:
 
 (1) Hand harvest;

@@ -6,4 +6,6 @@ Years of wage-loss occurring prior to normal retirement age that are the result 
 
 (b) The percentage of his or her average annual wage that the employee was able to earn during the calendar year(s) in question as determined by OWCP in accordance with § 30.811; and
 
-(c) Whether the employee's inability to earn at least as much as his or her average annual wage was due to a covered illness as defined in § 30.5(r).
+(c) Whether the employee's inability to earn at least as much as his or her average annual wage was due to a covered illness as defined in § 30.5(s).
+
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3059, Feb. 8, 2019]

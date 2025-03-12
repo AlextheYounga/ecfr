@@ -1,5 +1,7 @@
 ##### § 665.13 Permits and fees. #####
 
+Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
+
 (a) *Applicability.* The requirements for permits for specific western Pacific fisheries are set forth in subparts B through I of this part.
 
 (b) *Validity.* Each permit is valid for fishing only in the specific fishery management areas identified on the permit.

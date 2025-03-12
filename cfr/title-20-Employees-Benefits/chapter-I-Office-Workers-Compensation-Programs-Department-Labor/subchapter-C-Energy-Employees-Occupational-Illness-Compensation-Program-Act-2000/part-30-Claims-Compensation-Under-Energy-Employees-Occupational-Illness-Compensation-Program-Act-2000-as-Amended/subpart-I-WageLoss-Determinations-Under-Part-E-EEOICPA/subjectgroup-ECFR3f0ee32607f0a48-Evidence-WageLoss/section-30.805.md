@@ -1,5 +1,23 @@
-##### § 30.805 What evidence does OWCP use to determine a covered Part E employee's average annual wage and whether he or she experienced compensable wage-loss under Part E of EEOICPA? #####
+##### § 30.805 What are the criteria for eligibility for wage-loss benefits under Part E? #####
 
-(a) OWCP may rely on quarterly wages information reported to the Social Security Administration to establish a covered Part E employee's presumed average annual wage (see § 30.810) and the duration and extent of any years of wage-loss that are compensable under Part E of the Act (see § 30.811). OWCP may also rely on other probative evidence of a covered Part E employee's wages, and may ask the claimant for additional evidence necessary to make this determination, if necessary. For the purposes of making these two types of determinations, OWCP will consider all monetary payments that the covered Part E employee received in a quarter from employment or services, except for monetary payments that were not taxable as income during that quarter under the Internal Revenue Code, to be “wages.”
+(a) In addition to satisfying the general eligibility requirements applicable to all Part E claims, a claimant seeking benefits for calendar years of qualifying wage-loss has the burden of proof to establish each of the following criteria:
 
-(b) OWCP also requires the submission of rationalized medical evidence of sufficient probative value to establish that the period of wage-loss at issue is causally related to the covered Part E employee's covered illness.
+(1) He or she held a job at which he or she earned wages;
+
+(2) He or she experienced a loss in those wages in a particular month (referred to as the “trigger month” in this section);
+
+(3) The wage-loss in the trigger month was caused by the covered Part E employee's covered illness, *i.e.,* that he or she would have continued to earn wages in the trigger month from that employment *but for the covered illness;*
+
+(4) His or her average annual wage;
+
+(5) His or her normal retirement age and the calendar year in which he or she would reach that age;
+
+(6) Beginning with the calendar year of the trigger month, the percentage of the average annual wage that was earned in each calendar year up to and including the retirement year;
+
+(7) The number of those calendar years in which the covered illness caused the covered Part E employee to earn 50% or less of his or her average annual wage; and
+
+(8) The number of those calendar years in which the covered illness caused him or her to earn more than 50% but not more than 75% of his or her average annual wage.
+
+(b) OWCP will discontinue development of a request for wage-loss benefits, during which the claimant must meet his or her burden of proof to establish each of the criteria listed in paragraph (a) of this section, at any point when the claimant is unable to meet such burden and proceed to issue a recommended decision to deny the request.
+
+[84 FR 3059, Feb. 8, 2019]

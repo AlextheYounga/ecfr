@@ -1,5 +1,7 @@
 ##### § 665.227 Allowable gear and gear restrictions. #####
 
+Link to an amendment published at 84 FR 2773, Feb. 8, 2019.
+
 (a) Hawaii coral reef ecosystem MUS may be taken only with the following allowable gear and methods:
 
 (1) Hand harvest;

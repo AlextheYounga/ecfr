@@ -32,6 +32,8 @@ The prohibitions of § 348.3 do not apply in the case of any one or more of the 
 
 (iii) The notificant failed to furnish all the information required by the FDIC.
 
-(3) The FDIC may require that any interlock permitted under this paragraph (h) be terminated if a change in circumstances occurs with respect to one of the interlocked depository organizations that would have provided a basis for disapproval of the interlock during the notice period; and
+(3) The FDIC may require that any interlock permitted under this paragraph (i) be terminated if a change in circumstances occurs with respect to one of the interlocked depository organizations that would have provided a basis for disapproval of the interlock during the notice period.
 
 (j) Any FDIC-supervised institution which is a State savings association that has issued stock in connection with a qualified stock issuance pursuant to section 10(q) of the Home Owners' Loan Act, except that this paragraph (j) shall apply only with regard to service as a single management official of such State savings association or any subsidiary of such State savings association by a single management official of a savings and loan holding company which purchased the stock issued in connection with such qualified stock issuance, and shall apply only when the FDIC has determined that such service is consistent with the purposes of the Interlocks Act and the Home Owners' Loan Act.
+
+[80 FR 79252, Dec. 21, 2015, as amended at 84 FR 2706, Feb. 8, 2019]

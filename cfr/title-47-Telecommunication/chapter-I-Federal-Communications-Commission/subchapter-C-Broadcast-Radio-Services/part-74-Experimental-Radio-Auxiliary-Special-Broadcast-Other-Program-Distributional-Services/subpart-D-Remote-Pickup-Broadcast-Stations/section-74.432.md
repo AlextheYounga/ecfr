@@ -22,12 +22,8 @@
 
 (i) The location of each remote pickup broadcast base station will be specified in the station or system license and such stations may not be operated at any other location without prior authority of the Commission.
 
-(j) The license shall be retained in the licensee's files at the address shown on the authorization, posted at the transmitter, or posted at the control point of the station.
+(j) The license shall be retained in the licensee's files at the address shown on the authorization.
 
 (k) In case of permanent discontinuance of operations of a station licensed under this subpart, the licensee shall cancel the station license using FCC Form 601. For purposes of this section, a station which is not operated for a period of one year is considered to have been permanently discontinued.
 
-Note:
-
-Licensees of remote pickup broadcast stations licensed prior to August 31, 1976, should not file applications to consolidate individually licensed transmitters under a single system license until the renewal application of the associated broadcast station is filed. Applications filed between August 31, 1976, and the date of filing of the renewal applications to obtain authorization to use additional transmitters or modification of existing stations shall be restricted to a single system application necessary to accomplish the desired change, but may include consolidation of previously-licensed transmitters within the system license. Applications submitted for system licensing prior to the time when renewal applications would normally be filed which are unnecessary for either administrative or operational purposes will be returned as unacceptable for filing.
-
-(Sec. 5, 48 Stat. 1068; 47 U.S.C. 155)[41 FR 29686, July 19, 1976, as amended at 42 FR 2071, Jan. 10, 1977; 47 FR 21496, May 18, 1982; 49 FR 14509, Apr. 12, 1984; 51 FR 4602, Feb. 6, 1986; 58 FR 19775, Apr. 16, 1993; 60 FR 55482, Nov. 1, 1995; 65 FR 30011, May 10, 2000; 68 FR 12764, Mar. 17, 2003]
+(Sec. 5, 48 Stat. 1068; 47 U.S.C. 155)[41 FR 29686, July 19, 1976, as amended at 42 FR 2071, Jan. 10, 1977; 47 FR 21496, May 18, 1982; 49 FR 14509, Apr. 12, 1984; 51 FR 4602, Feb. 6, 1986; 58 FR 19775, Apr. 16, 1993; 60 FR 55482, Nov. 1, 1995; 65 FR 30011, May 10, 2000; 68 FR 12764, Mar. 17, 2003; 84 FR 2759, Feb. 8, 2019]

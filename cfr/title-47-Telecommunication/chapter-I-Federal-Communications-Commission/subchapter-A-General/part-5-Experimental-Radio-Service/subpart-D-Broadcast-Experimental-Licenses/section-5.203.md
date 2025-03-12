@@ -2,7 +2,7 @@
 
 (a) Licensees of broadcast stations (including TV Translator, LPTV, and TV Booster stations) may obtain experimental authorizations to conduct technical experimentation directed toward improvement of the technical phases of operation and service, and for such purposes may use a signal other than the normal broadcast program signal.
 
-(b) Experimental authorizations for licensed broadcast stations may be requested by filing an informal application with the FCC in Washington, DC, describing the nature and purpose of the experimentation to be conducted, the nature of the experimental signal to be transmitted, and the proposed schedule of hours and duration of the experimentation. Experimental authorizations shall be posted with the station license.
+(b) Experimental authorizations for licensed broadcast stations may be requested by filing an informal application with the FCC in Washington, DC, describing the nature and purpose of the experimentation to be conducted, the nature of the experimental signal to be transmitted, and the proposed schedule of hours and duration of the experimentation.
 
 (c) Experimental operations for licensed broadcast stations are subject to the following conditions:
 
@@ -19,3 +19,5 @@
 (6) No charges may be made, either directly or indirectly, for the experimentation; however, normal charges may be made for regularly scheduled programming transmitted concurrently with the experimental transmissions.
 
 (d) The FCC may request a report of the research, experimentation and results at the conclusion of the experimental operation.
+
+[78 FR 25162, Apr. 29, 2013, as amended at 84 FR 2758, Feb. 8, 2019]

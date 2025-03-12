@@ -1,5 +1,7 @@
 ##### § 665.163 Prohibitions. #####
 
+Link to an amendment published at 84 FR 2771, Feb. 8, 2019.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter and in § 665.15, it is unlawful for any person to:
 
 (a) Use any vessel to fish for, take, retain, possess or land precious coral in any precious coral permit area, unless a permit has been issued for that vessel and area as specified in § 665.13 and that permit is on board the vessel.

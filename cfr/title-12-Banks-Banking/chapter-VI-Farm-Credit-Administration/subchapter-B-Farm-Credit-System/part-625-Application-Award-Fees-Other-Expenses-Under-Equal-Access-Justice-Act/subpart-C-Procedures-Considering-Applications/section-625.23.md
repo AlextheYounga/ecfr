@@ -1,3 +1,3 @@
-##### § 625.23 xxx #####
+##### § 625.23 Reply. #####
 
-Link to an amendment published at 83 FR 55098, Nov. 2, 2018.
+Within 15 days after service of an answer, the applicant may file a reply. If the reply is based on any alleged facts not already in the record of the adversary adjudication, the applicant shall include with the reply either supporting affidavits or a request for further proceedings under § 625.25 of this part.

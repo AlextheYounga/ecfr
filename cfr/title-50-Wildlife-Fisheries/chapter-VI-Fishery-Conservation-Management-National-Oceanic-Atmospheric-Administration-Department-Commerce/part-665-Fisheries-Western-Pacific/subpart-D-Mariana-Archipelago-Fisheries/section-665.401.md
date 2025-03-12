@@ -1,5 +1,7 @@
 ##### § 665.401 Definitions. #####
 
+Link to an amendment published at 84 FR 2774, Feb. 8, 2019.
+
 As used in §§ 665.400 through 665.419:
 
 *CNMI commercial bottomfish permit* means the permit required by § 665.404(a)(2) to engage in commercial fishing for Mariana bottomfish MUS in the CNMI management subarea.

@@ -1,5 +1,7 @@
 ##### § 665.221 Definitions. #####
 
+Link to an amendment published at 84 FR 2772, Feb. 8, 2019.
+
 As used in §§ 665.220 through 665.239:
 
 *Hawaii coral reef ecosystem management unit species (Hawaii coral reef ecosystem MUS)* means all of the Currently Harvested Coral Reef Taxa and Potentially Harvested Coral Reef Taxa listed in this section and which spend the majority of their non-pelagic (post-settlement) life stages within waters less than or equal to 50 fathoms in total depth.

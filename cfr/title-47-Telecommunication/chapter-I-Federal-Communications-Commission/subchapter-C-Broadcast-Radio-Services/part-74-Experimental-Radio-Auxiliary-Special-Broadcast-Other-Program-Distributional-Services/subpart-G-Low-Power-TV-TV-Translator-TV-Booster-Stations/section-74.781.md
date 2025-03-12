@@ -10,8 +10,8 @@
 
 (3) The date, time and nature of adjustments, repairs or replacements made.
 
-(c) The station records shall be maintained for inspection at a residence, office, or public building, place of business, or other suitable place, in one of the communities of license of the translator or booster, except that the station records of a booster or translator licensed to the licensee of the primary station may be kept at the same place where the primary station records are kept. The name of the person keeping station records, together with the address of the place where the records are kept, shall be posted in accordance with § 74.765(c) of the rules. The station records shall be made available upon request to any authorized representative of the Commission.
+(c) The station records shall be maintained for inspection at a residence, office, or public building, place of business, or other suitable place, in one of the communities of license of the translator or booster, except that the station records of a booster or translator licensed to the licensee of the primary station may be kept at the same place where the primary station records are kept. The station records shall be made available upon request to any authorized representative of the Commission.
 
 (d) Station logs and records shall be retained for a period of two years.
 
-[48 FR 44806, Sept. 30, 1983, as amended at 52 FR 31405, Aug. 20, 1987]
+[48 FR 44806, Sept. 30, 1983, as amended at 52 FR 31405, Aug. 20, 1987; 84 FR 2759, Feb. 8, 2019]

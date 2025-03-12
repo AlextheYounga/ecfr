@@ -1,3 +1,25 @@
 ##### § 30.717 When are OWCP's exclusion procedures initiated? #####
 
-Upon receipt of information indicating that a physician, hospital or provider of medical services or supplies (hereinafter the provider) has engaged in activities enumerated in paragraphs (c) through (h) of § 30.715, the Regional Director, after completion of inquiries he or she deems appropriate, may initiate procedures to exclude the provider from participation in the EEOICPA program. For the purposes of these procedures, “Regional Director” may include any officer designated to act on his or her behalf.
+(a) Upon receipt of information indicating that a physician, hospital or provider of medical services or supplies (hereinafter the provider) has or may have engaged in activities enumerated in paragraphs (c) through (j) of § 30.715, OWCP will forward that information to the Department of Labor's Office of Inspector General (DOL OIG) for its consideration. If the information was provided directly to DOL OIG, DOL OIG will notify OWCP of its receipt and implement the appropriate action within its authority, unless such notification will or may compromise the identity of confidential sources, or compromise or prejudice an ongoing or potential criminal investigation.
+
+(b) DOL OIG will conduct such action as it deems necessary, and, when appropriate, provide a written report as described in paragraph (c) of this section to OWCP. OWCP will then determine whether to initiate procedures to exclude the provider from participation in the EEOICPA program. If DOL OIG determines not to take any further action, it will promptly notify OWCP of such determination.
+
+(c) If DOL OIG discovers reasonable cause to believe that violations of § 30.715 have occurred, it shall, when appropriate, prepare a written report, *i.e.,* investigative memorandum, and forward the report along with supporting evidence to OWCP. The report shall be in the form of a single memorandum in narrative form with attachments.
+
+(1) The report should contain all of the following elements:
+
+(i) A brief description and explanation of the subject provider or providers;
+
+(ii) A concise statement of the DOL OIG's findings upon which exclusion may be based;
+
+(iii) A summary of the events that make up the DOL OIG's findings;
+
+(iv) A discussion of the documentation supporting DOL OIG's findings;
+
+(v) A discussion of any other information that may have bearing upon the exclusion process; and
+
+(vi) The supporting documentary evidence including any expert opinion rendered in the case.
+
+(2) The attachments to the report should be provided in a manner that they may be easily referenced from the report.
+
+[84 FR 3057, Feb. 8, 2019]

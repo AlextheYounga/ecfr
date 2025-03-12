@@ -1,5 +1,7 @@
 ##### § 665.462 Permits. #####
 
+Link to an amendment published at 84 FR 2775, Feb. 8, 2019.
+
 (a) Any vessel of the United States fishing for, taking, or retaining Mariana precious coral MUS in any Mariana Archipelago precious coral permit area must have a permit issued under § 665.13.
 
 (b) Each permit will be valid for fishing only in the permit area specified on the permit. Precious Coral Permit Areas are defined in § 665.461.

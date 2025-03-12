@@ -1,11 +1,11 @@
 ##### § 30.720 How can an excluded provider request a hearing? #####
 
-A request for a hearing shall be sent to the OWCP representative named pursuant to § 30.718(f) and shall contain:
+A request for a hearing shall be sent to the deciding official and shall contain:
 
 (a) A concise notice of the issues on which the provider desires to give evidence at the hearing;
 
-(b) Any request for a more definite statement by OWCP;
+(b) Any request for the presentation of oral argument or evidence; and
 
-(c) Any request for the presentation of oral argument or evidence; and
+(c) Any request for a certification of questions concerning professional medical standards, medical ethics or medical regulation for an advisory opinion from a competent recognized professional organization or Federal, state or local regulatory body.
 
-(d) Any request for a certification of questions concerning professional medical standards, medical ethics or medical regulation for an advisory opinion from a competent recognized professional organization or federal, state or local regulatory body.
+[84 FR 3057, Feb. 8, 2019]

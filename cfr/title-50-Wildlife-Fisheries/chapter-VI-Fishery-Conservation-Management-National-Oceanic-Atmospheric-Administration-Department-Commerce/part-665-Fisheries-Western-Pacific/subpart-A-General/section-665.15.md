@@ -1,5 +1,7 @@
 ##### § 665.15 Prohibitions. #####
 
+Link to an amendment published at 84 FR 2769, Feb. 8, 2019.
+
 In addition to the prohibitions in § 600.725 of this chapter, it is unlawful for any person to:
 
 (a) Engage in fishing without a valid permit or facsimile of a valid permit on board the vessel and available for inspection by an authorized officer, when a permit is required under §§ 665.13 or 665.17, unless the vessel was at sea when the permit was issued under § 665.13, in which case the permit must be on board the vessel before its next trip.

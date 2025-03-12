@@ -1,16 +1,14 @@
 ##### § 652.10 Investment management. #####
 
-Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
-
 (a) *Responsibilities of the board of directors.* Your board of directors must adopt written policies for managing your non-program investment activities. Your board must also ensure that management complies with these policies and that appropriate internal controls are in place to prevent loss. At least annually, your board, or a designated committee of the board, must review the sufficiency of these investment policies. Any changes to the policies must be adopted by the board. You must report any changes to these policies to the OSMO within 10 business days of adoption.
 
-(b) *Investment policies - general requirements.* Your investment policies must address the purposes and objectives of investments, risk tolerance, delegations of authority, internal controls, due diligence, and reporting requirements. Moreover, your investment policies must fully address the extent of pre-purchase analysis that management must perform for various types, classes, and structure of investments. Furthermore, the policies must include reporting requirements and approvals needed for exceptions to the board's policies. Investment policies must be sufficiently detailed, consistent with, and appropriate for the amounts, types, and risk characteristics of your investments. You must document in the Corporation's records any analyses used in formulating your policies or amendments to the policies.
+(b) *Investment policies—general requirements.* Your investment policies must address the purposes and objectives of investments, risk tolerance, delegations of authority, internal controls, due diligence, and reporting requirements. Moreover, your investment policies must fully address the extent of pre-purchase analysis that management must perform for various types, classes, and structure of investments. Furthermore, the policies must include reporting requirements and approvals needed for exceptions to the board's policies. Investment policies must be sufficiently detailed, consistent with, and appropriate for the amounts, types, and risk characteristics of your investments. You must document in the Corporation's records any analyses used in formulating your policies or amendments to the policies.
 
-(c) *Investment policies - risk tolerance.* Your investment policies must establish risk limits for the various types, classes, and sectors of eligible investments. These policies must include concentration limits to ensure prudent diversification of credit, market, and liquidity risks in the investment portfolio. Risk limits must be based on all relevant factors, including the Corporation's objectives, capital position, earnings, and quality and reliability of risk management systems. Your policies must identify the types and quantity of investments that you will hold to achieve your objectives and control credit, market, liquidity, and operational risks. Your policies must establish risk limits for the following four types of risk:
+(c) *Investment policies—risk tolerance.* Your investment policies must establish risk limits for the various types, classes, and sectors of eligible investments. These policies must include concentration limits to ensure prudent diversification of credit, market, and liquidity risks in the investment portfolio. Risk limits must be based on all relevant factors, including the Corporation's objectives, capital position, earnings, and quality and reliability of risk management systems. Your policies must identify the types and quantity of investments that you will hold to achieve your objectives and control credit, market, liquidity, and operational risks. Your policies must establish risk limits for the following types of risk:
 
 (1) *Credit risk.* Your investment policies must establish:
 
-(i) Credit quality standards, limits on counterparty risk, and risk diversification standards that limit concentrations in a single or related counterparty(ies), geographical areas, industry sectors, and asset classes or obligations with similar characteristics.
+(i) Credit quality standards, limits on counterparty risk, and risk diversification standards that limit concentrations in a single or related counterparty(ies), industry sectors, and asset classes or obligations with similar characteristics.
 
 (ii) Criteria for selecting brokers, dealers, and investment bankers (collectively, securities firms). You must buy and sell eligible investments with more than one securities firm. As part of your review of your investment policies required under paragraph (a) of this section, your board of directors, or a designated committee of the board, must review the criteria for selecting securities firms. Any changes to the criteria must be approved by the board.
 
@@ -21,6 +19,8 @@ Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
 (3) *Liquidity risk.* Your investment policies must describe the liquidity characteristics of eligible investments that you will hold to meet your liquidity needs and the Corporation's other objectives.
 
 (4) *Operational risk.* Investment policies must address operational risks, including delegations of authority and internal controls in accordance with paragraphs (d) and (e) of this section.
+
+(5) *Concentration risk.* Your investment policies must set risk diversification standards. Diversification parameters must be based on the carrying value of investments. You may not invest more than 10 percent of your Regulatory Capital in allowable investments issued by any single entity, issuer, or obligor. Only investments in obligations backed by U.S. Government agencies or GSEs may exceed the 10-percent limit.
 
 (d) *Delegation of authority.* All delegations of authority to specified personnel or committees must state the extent of management's authority and responsibilities for investments.
 
@@ -34,7 +34,7 @@ Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
 
 (4) Implement an effective internal audit program to review, at least annually, your investment management functions, controls, processes, and compliance with FCA regulations. The scope of the annual review must be appropriate for the size, risk, and complexity of the investment portfolio.
 
-(f) *Due diligence* - (1) *Pre-purchase analysis* - (i) *Objective, eligibility, and compliance with investment policies.* Before you purchase an investment, you must conduct sufficient due diligence to determine whether the investment is eligible under § 652.20, is for an authorized purpose under § 652.15(a), and complies with your board-approved investment policies. You must document its eligibility, purpose, and investment policy compliance and your investment objective. Your investment policies must fully address the extent of pre-purchase analysis that management must perform for various types, classes, and structure of investments. Your board must approve your decision to hold an investment that does not comply with your written investment policy requirements.
+(f) *Due diligence*—(1) *Pre-purchase analysis*—(i) *Objective, eligibility, and compliance with investment policies.* Before you purchase an investment, you must conduct sufficient due diligence to determine whether the investment is eligible under § 652.20, is for an authorized purpose under § 652.15(a), and complies with your board-approved investment policies. You must document its eligibility, purpose, and investment policy compliance and your investment objective. Your investment policies must fully address the extent of pre-purchase analysis that management must perform for various types, classes, and structure of investments. Your board must approve your decision to hold an investment that does not comply with your written investment policy requirements.
 
 (ii) *Valuation.* Prior to purchase, you must verify the value of the investment (unless it is a new issue) with a source that is independent of the broker, dealer, counterparty or other intermediary to the transaction.
 
@@ -65,3 +65,5 @@ Link to an amendment published at 83 FR 55097, Nov. 2, 2018.
 (6) How investments affect your capital, earnings, and overall financial condition;
 
 (7) Any deviations from the board's policies. These deviations must be formally approved by the board of directors.
+
+[77 FR 66382, Nov. 5, 2012, as amended at 83 FR 55097, Nov. 2, 2018]

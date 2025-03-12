@@ -1,5 +1,7 @@
-##### § 30.307 To whom is the recommended decision sent? #####
+##### § 30.307 Can one recommended decision address the entitlement of multiple claimants? #####
 
-(a) A copy of the recommended decision will be mailed to the claimant's last known address and to the claimant's designated representative before OWCP, if any. Notification to either the claimant or the representative will be considered notification to both parties.
+(a) When multiple individuals have filed survivor claims under Part B and/or Part E of EEOICPA relating to the same deceased employee, the entitlement of all of those individuals shall be determined in the same recommended decision, except as described in paragraph (b) of this section.
 
-(b) At the same time it issues a recommended decision on a claim, the OWCP district office will forward the record of such claim to the FAB. Any new evidence submitted to the district office following the issuance of the recommended decision will also be forwarded to the FAB for consideration.
+(b) If another individual subsequently files a survivor claim for the same award, the recommended decision on that claim will not address the entitlement of the earlier claimants if the district office recommended that the later survivor claim be denied.
+
+[84 FR 3050, Feb. 8, 2019]

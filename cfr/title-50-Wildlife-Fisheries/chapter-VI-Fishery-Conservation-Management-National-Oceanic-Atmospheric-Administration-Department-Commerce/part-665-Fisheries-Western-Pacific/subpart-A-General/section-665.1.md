@@ -1,5 +1,7 @@
 ##### § 665.1 Purpose and scope. #####
 
+Link to an amendment published at 84 FR 2768, Feb. 8, 2019.
+
 (a) The regulations in this part govern fishing for western Pacific fishery ecosystem MUS by vessels of the United States that operate or are based inside the outer boundary of the U.S. EEZ around American Samoa, Hawaii, Guam, the Northern Mariana Islands, Palmyra Atoll, Kingman Reef, Jarvis Island, Baker Island, Howland Island, Johnston Atoll, and Wake Island.
 
 (b) General regulations governing fishing by all vessels of the United States and by fishing vessels other than vessels of the United States are contained in 50 CFR parts 300 and 600.
