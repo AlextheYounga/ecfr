@@ -1,0 +1,17 @@
+##### § 190.12 Required reports and records. #####
+
+(a) *Notices*—(1) *Means of providing*—(i) *To the Commission.* Unless instructed otherwise by the Commission, all mandatory or discretionary notices to be given to the Commission under this subpart shall be directed by electronic mail to *bankruptcyfilings@cftc.gov.* For purposes of this subpart, notice to the Commission shall be deemed to be given only upon actual receipt.
+
+(ii) *To members.* The trustee, after consultation with the Commission, and unless otherwise instructed by the Commission, will establish and follow procedures reasonably designed for giving adequate notice to members under this subpart and for receiving claims or other notices from members. Such procedures should include, absent good cause otherwise, the use of a prominent website as well as communication to members' electronic addresses that are available in the debtor's books and records.
+
+(2) *Of commencement of a proceeding.* A debtor that files a petition in bankruptcy that is subject to this subpart shall, at or before the time of such filing, and a debtor against which such a petition is filed shall, as soon as possible, but in any event no later than three hours after the receipt of notice of such filing, notify the Commission of the filing date, the court in which the proceeding has been or will be filed, and, as soon as available, the docket number assigned to that proceeding by the court.
+
+(b) *Reports and records to be provided to the trustee and the Commission within three hours.* (1) As soon as practicable following the commencement of a proceeding that is subject to this subpart and in any event no later than three hours following the later of the commencement of such proceeding or the appointment of the trustee, the debtor shall provide to the trustee copies of each of the most recent reports that the debtor was required to file with the Commission under § 39.19(c) of this chapter, including copies of any reports required under § 39.19(c)(2), (3), and (4) of this chapter (including the most up-to-date version of any recovery and wind-down plans of the debtor maintained pursuant to § 39.39(b) of this chapter) that the debtor filed with the Commission during the preceding 12 months.
+
+(2) As soon as practicable following the commencement of a proceeding that is subject to this subpart and in any event no later than three hours following the commencement of such proceeding (or, with respect to the trustee, the appointment of the trustee), the debtor shall provide to the trustee and the Commission copies of the most up-to-date versions of the default management plan and default rules and procedures maintained by the debtor pursuant to § 39.16 and, as applicable, § 39.35 of this chapter.
+
+(c) *Records to be provided to the trustee and the Commission by the next business day.* As soon as practicable following commencement of a proceeding that is subject to this subpart and in any event no later than the next business day, the debtor shall make available to the trustee and the Commission copies of the following records:
+
+(1) All records maintained by the debtor described in § 39.20(a) of this chapter; and
+
+(2) Any opinions of counsel or other legal memoranda provided to the debtor (whether by external or internal counsel) in the five years preceding the commencement of such proceeding relating to the enforceability of the rules and procedures of the debtor in the event of an insolvency proceeding involving the debtor.

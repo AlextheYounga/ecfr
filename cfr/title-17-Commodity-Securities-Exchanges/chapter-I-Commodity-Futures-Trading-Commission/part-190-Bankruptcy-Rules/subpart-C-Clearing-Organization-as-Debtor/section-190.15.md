@@ -1,0 +1,7 @@
+##### § 190.15 Recovery and wind-down plans; default rules and procedures. #####
+
+(a) *Prohibition on avoidance of actions taken pursuant to recovery and wind-down plans.* Subject to the provisions of section 766 of the Bankruptcy Code and §§ 190.13 and 190.18, the trustee shall not avoid or prohibit any action taken by a debtor subject to this subpart that was reasonably within the scope of and was provided for in any recovery and wind-down plans maintained by the debtor and filed with the Commission pursuant to § 39.39 of this chapter.
+
+(b) *Implementation of debtor's default rules and procedures.* In administering a proceeding under this subpart, the trustee shall implement, in consultation with the Commission, the default rules and procedures maintained by the debtor under § 39.16 and, as applicable, § 39.35 of this chapter and any termination, close-out and liquidation provisions included in the rules of the debtor, subject to the reasonable discretion of the trustee and to the extent that implementation of such default rules and procedures is practicable.
+
+(c) *Implementation of recovery and wind-down plans.* In administering a proceeding under this subpart, the trustee shall, in consultation with the Commission, take actions in accordance with any recovery and wind-down plans maintained by the debtor and filed with the Commission pursuant to § 39.39 of this chapter, to the extent reasonable and practicable, and consistent with the protection of customers.

@@ -1,7 +1,5 @@
 ##### § 1.55 Public disclosures by futures commission merchants. #####
 
-Link to an amendment published at 86 FR 19419, Apr. 13, 2021.
-
 (a)(1) Except as provided in 1.65, no futures commission merchant, or in the case of an introduced account no introducing broker, may open a commodity futures account for a customer, other than for a customer specified in paragraph (f) of this section, unless the futures commission merchant or introducing broker first:
 
 (i) Furnishes the customer with a separate written disclosure statement containing only the language set forth in paragraph (b) of this section (except for nonsubstantive additions such as captions) or as otherwise approved under paragraph (c) of this section; *Provided, however,* that the disclosure statement may be attached to other documents as the cover page or the first page of such documents and as the only material on such page; and
@@ -52,21 +50,21 @@ DateSignature of Customer
 
 (c) The Commission may approve for use in lieu of the risk disclosure document required by paragraph (b) of this section a risk disclosure statement approved by one or more foreign regulatory agencies or self-regulatory organizations if the Commission determines that such risk disclosure statement is reasonably calculated to provide the disclosure required by paragraph (b) of this section. Notice of risk disclosure statements that may be used to satisfy Commission disclosure requirements, what requirements such statements meet and the jurisdictions which accept each format will be set forth in appendix A to this section; *Provided, however,* that an FCM also provides a customer with the risk disclosure statement required by paragraph (b) of this section and obtains the customer's acknowledgment that it has read and understands the disclosure document.
 
-(d) Any futures commission merchant, or in the case of an introduced account any introducing broker, may open a commodity futures account for a customer without obtaining the separate acknowledgments of disclosure and elections required by this section and by § 1.33(g), and by §§ 33.7 and 190.06 of this chapter, provided that:
+(d) Any futures commission merchant, or (in the case of an introduced account) any introducing broker, may open a commodity futures account for a customer without obtaining the separate acknowledgments of disclosure and elections required by this section and by §§ 1.33(g) and 33.7 of this chapter, provided that:
 
-(1) Prior to the opening of such account, the futures commission merchant or introducing broker obtains an acknowledgement from the customer, which may consist of a single signature at the end of the futures commission merchant's or introducing broker's customer account agreement, or on a separate page, of the disclosure statements, consents and elections specified in this section and § 1.33(g), and in §§ 33.7, 155.3(b)(2), 155.4(b)(2), and 190.06 of this chapter, and which may include authorization for the transfer of funds from a segregated customer account to another account of such customer, as listed directly above the signature line, provided the customer has acknowledged by check or other indication next to a description of each specified disclosure statement, consent or election that the customer has received and understood such disclosure statement or made such consent or election; and
+(1) Prior to the opening of such account, the futures commission merchant or introducing broker obtains an acknowledgement from the customer, which may consist of a single signature at the end of the futures commission merchant's or introducing broker's customer account agreement, or on a separate page, of the disclosure statements, consents, and elections specified in this section and § 1.33(g), and in §§ 33.7, 155.3(b)(2), and 155.4(b)(2) of this chapter, and which may include authorization for the transfer of funds from a segregated customer account to another account of such customer, as listed directly above the signature line, provided the customer has acknowledged by check or other indication next to a description of each specified disclosure statement, consent, or election that the customer has received and understood such disclosure statement or made such consent or election; and
 
-(2) The acknowledgment referred to in paragraph (d)(1) of this section is accompanied by and executed contemporaneously with delivery of the disclosures and elective provisions required by this section and § 1.33(g), and by §§ 33.7 and 190.06 of this chapter.
+(2) The acknowledgment referred to in paragraph (d)(1) of this section is accompanied by and executed contemporaneously with delivery of the disclosures and elective provisions required by this section and § 1.33(g), and by § 33.7 of this chapter.
 
 (e) The acknowledgment required by paragraph (a) of this section must be retained by the futures commission merchant or introducing broker in accordance with § 1.31.
 
-(f) A futures commission merchant or, in the case of an introduced account, an introducing broker, may open a commodity futures account for an “institutional customer” as defined in § 1.3 without furnishing such institutional customer the disclosure statements or obtaining the acknowledgments required under paragraph (a) of this section §§ 1.33(g) and 1.65(a)(3), and §§ 30.6(a), 33.7(a), 155.3(b)(2), 155.4(b)(2) and 190.10(c) of this chapter.
+(f) A futures commission merchant or, in the case of an introduced account, an introducing broker, may open a commodity futures account for an “institutional customer” as defined in § 1.3 without furnishing such institutional customer the disclosure statements or obtaining the acknowledgments required under paragraph (a) of this section, or §§ 1.33(g), 1.55(p), and 1.65(a)(3), and §§ 30.6(a), 33.7(a), 155.3(b)(2), and 155.4(b)(2) of this chapter.
 
 (g) This section does not relieve a futures commission merchant or introducing broker from any other disclosure obligation it may have under applicable law.
 
 (h) Notwithstanding any other provision of this section or § 1.65, a person registered or required to be registered with the Commission as a futures commission merchant pursuant to sections 4f(a)(1) or 4f(a)(2) of the Commodity Exchange Act and registered or required to be registered with the Securities and Exchange Commission as a broker or dealer pursuant to sections 15(b)(1) or 15(b)(11) of the Securities Exchange Act of 1934 and rules thereunder must provide to a customer or prospective customer, prior to the acceptance of any order for, or otherwise handling any transaction in or in connection with, a security futures product for a customer, the disclosures set forth in § 41.41(b)(1) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 3038-0022)(Secs. 4b, 4c(b), 4g(1), 4*l,* 4*o,* and 8a(5), Commodity Exchange Act, 7 U.S.C. 6b, 6c(b), 6g(1), 6*l,* 6*o,* and 12a(5)(1976), and sec. 217, Commodity Futures Trading Act of 1974, 88 Stat. 1405; secs. 2(a)(1), 4b, 4c, 4d, 4f and 8a, Commodity Exchange Act, as amended (7 U.S.C. 2, 6b, 6c, 6f and 12a))![](/graphics/ec05oc91.028.gif)![](/graphics/ec05oc91.029.gif)[The following language should be printed on a page other than the pages containing the disclosure language above and may be omitted from the required disclosure statement]
+![](/graphics/ec05oc91.028.gif)![](/graphics/ec05oc91.029.gif)[The following language should be printed on a page other than the pages containing the disclosure language above and may be omitted from the required disclosure statement]
 
 This disclosure document meets the risk disclosure requirements in the jurisdictions identified below ONLY for those instruments which are specified.
 
@@ -82,7 +80,7 @@ United States: Commodity futures, options on commodity futures and options on co
 
 (ii) A complete paper copy of the Disclosure Documents shall be provided to an FCM Customer upon request.
 
-(k) *Specific topics.* The futures commission merchant shall provide material information about the following specific topics:
+(k) The futures commission merchant shall provide material information about the following specific topics:
 
 (1) The futures commission merchant's name, address of its principal place of business, phone number, fax number, and email address;
 
@@ -145,5 +143,17 @@ United States: Commodity futures, options on commodity futures and options on co
 (3) Each futures commission merchant must include a statement on its Web site that is available to the public that financial information regarding the futures commission merchant, including how the futures commission merchant invests and holds customer funds, may be obtained from the National Futures Association and include a link to the Web site of the National Futures Association's Basic System where information regarding the futures commission merchant's investment of customer funds is maintained.
 
 (4) Each futures commission merchant must include a statement on its Web site that is available to the public that additional financial information on all futures commission merchants is available from the Commodity Futures Trading Commission, and include a link to the Commodity Futures Trading Commission's Web page for financial data for futures commission merchants.
+
+(p)(1) Except as provided in § 1.65, no commodity broker (other than a clearing organization) may accept property other than cash from or for the account of a customer, other than a customer specified in paragraph (f) of this section, to margin, guarantee, or secure a commodity contract unless the commodity broker first furnishes the customer with the disclosure statement set forth in paragraph (p)(2) of this section in boldface print in at least 10 point type which may be provided as either a separate, written document or incorporated into the customer agreement, or with another statement approved under paragraph (c) of this section and set forth in appendix A to this section which the Commission finds satisfies the requirement of this paragraph (p)(1).
+
+(2) The disclosure statement required by paragraph (p)(1) of this section is as follows:
+
+THIS STATEMENT IS FURNISHED TO YOU BECAUSE REGULATION 1.55(p) OF THE COMMODITY FUTURES TRADING COMMISSION REQUIRES IT FOR REASONS OF FAIR NOTICE UNRELATED TO THIS COMPANY'S CURRENT FINANCIAL CONDITION.
+
+1. YOU SHOULD KNOW THAT IN THE UNLIKELY EVENT OF THIS COMPANY'S BANKRUPTCY, PROPERTY, INCLUDING PROPERTY SPECIFICALLY TRACEABLE TO YOU, WILL BE RETURNED, TRANSFERRED OR DISTRIBUTED TO YOU, OR ON YOUR BEHALF, ONLY TO THE EXTENT OF YOUR PRO RATA SHARE OF ALL PROPERTY AVAILABLE FOR DISTRIBUTION TO CUSTOMERS.
+
+2. THE COMMISSION'S REGULATIONS CONCERNING BANKRUPTCIES OF COMMODITY BROKERS CAN BE FOUND AT 17 CODE OF FEDERAL REGULATIONS PART 190.
+
+(3) The statement contained in paragraph (p)(2) of this section need be furnished only once to each customer to whom it is required to be furnished by this section.
 
 [43 FR 31890, July 24, 1978]Editorial Note:For Federal Register citations affecting § 1.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

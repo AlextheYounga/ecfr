@@ -1,0 +1,11 @@
+##### § 190.16 Delivery. #####
+
+(a) *General.* In the event that a commodity contract, cleared by the derivatives clearing organization, that settles upon expiration or exercise by making or taking delivery of physical delivery property, has moved into delivery position prior to the date and time of the order for relief, or moves into delivery position after that date and time, but before being terminated, liquidated, or transferred, then, in either such event, the trustee must use reasonable efforts to facilitate and cooperate with the completion of delivery on behalf of the clearing member or the clearing member's customer in a manner consistent with § 190.06(a) and the pro rata distribution principle addressed in § 190.00(c)(5).
+
+(b) *Special provisions for delivery accounts.* (1) Consistent with the separation of the physical delivery property account class and the cash delivery account class set forth in § 190.06(b), the trustee shall treat—
+
+(i) Physical delivery property held in delivery accounts as of the filing date, along with the proceeds from any subsequent sale of such physical delivery property in accordance with § 190.06(a)(3) to fulfill a clearing member's or its customer's delivery obligation or any other subsequent sale of such property, as part of the physical delivery account class; and
+
+(ii) Cash delivery property in delivery accounts as of the filing date, along with any physical delivery property for which delivery is subsequently taken on behalf of a clearing member or its customer in accordance with § 190.06(a)(3), as part of the separate cash delivery account class.
+
+(2) If the debtor holds any cash or property in the form of cash equivalents in an account with a bank or other person under a name or in a manner that clearly indicates that the account holds property for the purpose of making payment for taking physical delivery, or receiving payment for making physical delivery, of a commodity under any commodity contracts, such property shall (subject to § 190.19) be considered customer property in the cash delivery account class if held for making payment for taking delivery, or in the physical delivery account class, if held for the purpose of receiving such payment.

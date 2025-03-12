@@ -1,5 +1,7 @@
 ##### § 76.65 Good faith and exclusive retransmission consent complaints. #####
 
+Link to an amendment published at 86 FR 26186, May 13, 2021.
+
 (a) *Duty to negotiate in good faith.* Television broadcast stations and multichannel video programming distributors shall negotiate in good faith the terms and conditions of retransmission consent agreements to fulfill the duties established by section 325(b)(3)(C) of the Act; provided, however, that it shall not be a failure to negotiate in good faith if:
 
 (1) The television broadcast station proposes or enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; or

@@ -1,12 +1,10 @@
-##### § 4.12 Exemption from provisions of part 4. #####
-
-Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
+##### § 4.12 Exemption from provisions of this part. #####
 
 (a) *In general.* (1) The Commission may exempt any person or any class or classes of persons from any provision of this part 4 if it finds that the exemption is not contrary to the public interest and the purposes of the provisions from which the exemption is sought.
 
 (2) The Commission may grant the exemption subject to such terms and conditions as it may find appropriate.
 
-(b) *Exemption from subpart B for certain commodity pool operators based on amount and nature of commodity interest trading* - (1) *Eligibility.* Subject to compliance with the provisions of paragraph (d) of this section, any person who is registered as a commodity pool operator, or has applied for such registration, may claim any or all of the relief available under paragraph (b)(2) of this section if:
+(b) *Exemption from subpart B for certain commodity pool operators based on amount and nature of commodity interest trading*—(1) *Eligibility.* Subject to compliance with the provisions of paragraph (d) of this section, any person who is registered as a commodity pool operator, or has applied for such registration, may claim any or all of the relief available under paragraph (b)(2) of this section if:
 
 (i) The pool for which it makes such claim:
 
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
 
 (B) Will generally and routinely engage in the buying and selling of securities and securities derived instruments;
 
-(C) Will not enter into commodity interest transactions for which the aggregate initial margin and premiums, and required minimum security deposit for retail forex transactions (as defined in § 5.1(m) of this chapter) exceed 10 percent of the fair market value of the pool's assets, after taking into account unrealized profits and unrealized losses on any such contracts it has entered into; *Provided, however,* That in the case of an option that is in-the-money at the time of purchase, the in-the-money amount as defined in § 190.01(x) of this chapter may be excluded in computing such 10 percent; and
+(C) Will not enter into commodity interest transactions for which the aggregate initial margin and premiums, and required minimum security deposit for retail forex transactions (as defined in § 5.1(m) of this chapter) exceed 10 percent of the fair market value of the pool's assets, after taking into account unrealized profits and unrealized losses on any such contracts it has entered into; *Provided, however,* That in the case of an option that is in-the-money at the time of purchase, the in-the-money amount as defined in § 190.01 of this chapter may be excluded in computing such 10 percent; and
 
 (D) Will trade such commodity interests in a manner solely incidental to its securities trading activities.
 
@@ -40,7 +38,7 @@ Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
 
 (iv) In the case of § 4.23(a) (10) and (11), to exempt the pool operator from the requirements of those sections with respect to the pool.
 
-(c) *Exemption from subpart B for certain commodity pool operators based on registration under the Securities Act of 1933 or the Investment Company Act of 1940* - (1) *Eligibility.* Subject to compliance with the provisions of paragraph (d) of this section, any person who is registered as a commodity pool operator, or has applied for such registration, may claim any or all of the relief available under paragraph (c)(2) of this section if, with respect to the pool for which it makes such claim:
+(c) *Exemption from subpart B for certain commodity pool operators based on registration under the Securities Act of 1933 or the Investment Company Act of 1940*—(1) *Eligibility.* Subject to compliance with the provisions of paragraph (d) of this section, any person who is registered as a commodity pool operator, or has applied for such registration, may claim any or all of the relief available under paragraph (c)(2) of this section if, with respect to the pool for which it makes such claim:
 
 (i) The units of participation will be offered and sold pursuant to an effective registration statement under the Securities Act of 1933; or
 
@@ -122,4 +120,4 @@ Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
 
 (ii) The effectiveness of such claim shall not affect the obligations of the commodity pool operator to comply with all other applicable provisions of this part 4, the Act and the Commission's rules and regulations issued thereunder with respect to the pool and any other pool the pool operator operates or intends to operate.
 
-[52 FR 41984, Nov. 2, 1987, as amended at 60 FR 38183, July 25, 1995; 67 FR 77411, Dec. 18, 2002; 72 FR 1663, Jan. 16, 2007; 75 FR 55428, Sept. 10, 2010; 76 FR 28644, May 18, 2011; 78 FR 52333, Aug. 22, 2013]
+[52 FR 41984, Nov. 2, 1987, as amended at 60 FR 38183, July 25, 1995; 67 FR 77411, Dec. 18, 2002; 72 FR 1663, Jan. 16, 2007; 75 FR 55428, Sept. 10, 2010; 76 FR 28644, May 18, 2011; 78 FR 52333, Aug. 22, 2013; 86 FR 19420, Apr. 13, 2021]

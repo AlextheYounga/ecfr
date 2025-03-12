@@ -1,6 +1,6 @@
 ##### § 656.40 Determination of prevailing wage for labor certification purposes. #####
 
-Link to an amendment published at 86 FR 3672, Jan. 14, 2021.Link to an amendment published at 86 FR 13994, Mar. 12, 2021, delaying the above amendment.
+Link to an amendment published at 86 FR 3672, Jan. 14, 2021.Link to an amendment published at 86 FR 13994, Mar. 12, 2021, delaying the above amendment.Link to an amendment published at 86 FR 26177, May 13, 2021, delaying the above amendment.
 
 (a) *Application process.* The employer must request a PWD from the NPC, on a form or in a manner prescribed by OFLC. The NPC shall receive and process prevailing wage determination requests in accordance with these regulations and with Department guidance. The NPC will provide the employer with an appropriate prevailing wage rate. The NPC shall determine the wage in accordance with sec. 212(p) of the INA. Unless the employer chooses to appeal the center's PWD under § 656.41(a), it files the Application for Permanent Employment Certification either electronically or by mail with the processing center of jurisdiction and maintains the PWD in its files. The determination shall be submitted to the CO, if requested.
 

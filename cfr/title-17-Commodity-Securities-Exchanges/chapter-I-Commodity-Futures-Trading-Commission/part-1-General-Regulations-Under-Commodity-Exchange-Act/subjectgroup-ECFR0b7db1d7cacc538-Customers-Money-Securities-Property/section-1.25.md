@@ -1,7 +1,5 @@
 ##### § 1.25 Investment of customer funds. #####
 
-Link to an amendment published at 86 FR 19419, Apr. 13, 2021.
-
 (a) *Permitted investments.* (1) Subject to the terms and conditions set forth in this section, a futures commission merchant or a derivatives clearing organization may invest customer money in the following instruments (permitted investments):
 
 (i) Obligations of the United States and obligations fully guaranteed as to principal and interest by the United States (U.S. government securities);
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 19419, Apr. 13, 2021.
 
 (A) Securities subject to such repurchase agreements must be “highly liquid” as defined in paragraph (b)(1) of this section.
 
-(B) Securities subject to such repurchase agreements must not be “specifically identifiable property” as defined in § 190.01(kk) of this chapter.
+(B) Securities subject to such repurchase agreements must not be “specifically identifiable property” as defined in § 190.01 of this chapter.
 
 (C) The terms and conditions of such an agreement to repurchase must be in accordance with the provisions of paragraph (d) of this section.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 86 FR 19419, Apr. 13, 2021.
 
 (C) The instrument must be fully guaranteed as to principal and interest by the United States for its entire term.
 
-(3) *Concentration* - (i) *Asset-based concentration limits for direct investments.* (A) Investments in U.S. government securities shall not be subject to a concentration limit.
+(3) *Concentration*—(i) *Asset-based concentration limits for direct investments.* (A) Investments in U.S. government securities shall not be subject to a concentration limit.
 
 (B) Investments in U.S. agency obligations may not exceed 50 percent of the total assets held in segregation by the futures commission merchant or derivatives clearing organization.
 
@@ -98,7 +96,7 @@ Link to an amendment published at 86 FR 19419, Apr. 13, 2021.
 
 (E) For purposes of determining compliance with the issuer-based concentration limits set forth in this section, securities issued by entities that are affiliated, as defined in paragraph (b)(5) of this section, shall be aggregated and deemed the securities of a single issuer. An interest in a permitted money market mutual fund is not deemed to be a security issued by its sponsoring entity.
 
-(iii) *Concentration limits for agreements to repurchase* - (A) *Repurchase agreements.* For purposes of determining compliance with the asset-based and issuer-based concentration limits set forth in this section, securities sold by a futures commission merchant or derivatives clearing organization subject to agreements to repurchase shall be combined with securities held by the futures commission merchant or derivatives clearing organization as direct investments.
+(iii) *Concentration limits for agreements to repurchase*—(A) *Repurchase agreements.* For purposes of determining compliance with the asset-based and issuer-based concentration limits set forth in this section, securities sold by a futures commission merchant or derivatives clearing organization subject to agreements to repurchase shall be combined with securities held by the futures commission merchant or derivatives clearing organization as direct investments.
 
 (B) *Reverse repurchase agreements.* For purposes of determining compliance with the asset-based and issuer-based concentration limits set forth in this section, securities purchased by a futures commission merchant or derivatives clearing organization subject to agreements to resell shall be combined with securities held by the futures commission merchant or derivatives clearing organization as direct investments.
 
@@ -200,7 +198,7 @@ Link to an amendment published at 86 FR 19419, Apr. 13, 2021.
 
 (e) *Deposit of firm-owned securities into segregation.* A futures commission merchant may deposit unencumbered securities of the type specified in this section, which it owns for its own account, into a customer account. A futures commission merchant must include such securities, transfers of securities, and disposition of proceeds from the sale or maturity of such securities in the record of investments required to be maintained by § 1.27. All such securities may be segregated in safekeeping only with a bank, trust company, derivatives clearing organization, or other registered futures commission merchant in accordance with the provisions of § 1.20 part. For purposes of this section and §§ 1.27, 1.28, 1.29, and 1.32, securities of the type specified by this section that are owned by the futures commission merchant and deposited into a customer account shall be considered customer funds until such investments are withdrawn from segregation in accordance with the provisions of § 1.23. Investments permitted by § 1.25 that are owned by the futures commission merchant and deposited into a futures customer account pursuant to § 1.26 shall be considered futures customer funds until such investments are withdrawn from segregation in accordance with § 1.23. Investments permitted by § 1.25 that are owned by the futures commission merchant and deposited into a Cleared Swaps Customer Account, as defined in § 22.1 of this chapter, shall be considered Cleared Swaps Customer Collateral, as defined in § 22.1 of this chapter, until such investments are withdrawn from segregation in accordance with § 22.17 of this chapter.
 
-Appendix to § 1.25 - Money Market Mutual Fund Prospectus Provisions Acceptable for Compliance With Section 1.25(c)(5)
+Appendix to § 1.25—Money Market Mutual Fund Prospectus Provisions Acceptable for Compliance With Section 1.25(c)(5)
 
 Upon receipt of a proper redemption request submitted in a timely manner and otherwise in accordance with the redemption procedures set forth in this prospectus, the [Name of Fund] will redeem the requested shares and make a payment to you in satisfaction thereof no later than the business day following the redemption request. The [Name of Fund] may postpone and/or suspend redemption and payment beyond one business day only as follows:
 
@@ -216,4 +214,4 @@ e. For any period that the Securities and Exchange Commission, may by order perm
 
 f. For any period during which the [Name of Fund,] as part of a necessary liquidation of the fund, has properly postponed and/or suspended redemption of shares and payment in accordance with federal securities laws.
 
-[76 FR 78798, Dec. 19, 2011, as amended at 77 FR 66322, Nov. 2, 2012; 78 FR 68633, Nov. 14, 2013]
+[76 FR 78798, Dec. 19, 2011, as amended at 77 FR 66322, Nov. 2, 2012; 78 FR 68633, Nov. 14, 2013; 86 FR 19419, Apr. 13, 2021]

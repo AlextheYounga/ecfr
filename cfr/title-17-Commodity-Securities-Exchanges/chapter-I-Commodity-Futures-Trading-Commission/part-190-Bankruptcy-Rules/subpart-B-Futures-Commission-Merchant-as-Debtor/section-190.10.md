@@ -1,0 +1,3 @@
+##### § 190.10 Current records during business as usual. #####
+
+A person that is a futures commission merchant is required to maintain current records relating to its customers' accounts, including copies of all account agreements and related account documentation, and “know your customer” materials, pursuant to §§ 1.31, 1.35, 1.36, and 1.37 of this chapter, which may be provided to another futures commission merchant to facilitate the transfer of open commodity contracts or other customer property held by such person for or on behalf of its customers to the other futures commission merchant, in the event an order for relief is entered with respect to such person.

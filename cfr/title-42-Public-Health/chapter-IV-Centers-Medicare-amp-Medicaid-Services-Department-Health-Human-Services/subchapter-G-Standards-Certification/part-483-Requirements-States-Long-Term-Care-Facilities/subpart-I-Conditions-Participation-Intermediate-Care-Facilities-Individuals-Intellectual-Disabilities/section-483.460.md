@@ -1,5 +1,7 @@
 ##### § 483.460 Condition of participation: Health care services. #####
 
+Link to an amendment published at 86 FR 26336, May 13, 2021.
+
 (a) *Standard: Physician services.* (1) The facility must ensure the availability of physician services 24 hours a day.
 
 (2) The physician must develop, in coordination with licensed nursing personnel, a medical care plan of treatment for a client if the physician determines that an individual client requires 24-hour licensed nursing care. This plan must be integrated in the individual program plan.

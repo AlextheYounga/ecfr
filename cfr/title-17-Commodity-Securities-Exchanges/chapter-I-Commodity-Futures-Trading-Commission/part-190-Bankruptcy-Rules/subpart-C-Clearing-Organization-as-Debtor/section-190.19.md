@@ -1,0 +1,17 @@
+##### § 190.19 Support of daily settlement. #####
+
+(a) Notwithstanding any other provision of this part, funds received (whether from clearing members' house or customer accounts) by a debtor clearing organization as part of the daily settlement required pursuant to § 39.14 of this chapter shall, upon and after an order for relief, be included as customer property that is reserved for and traceable to, and promptly shall be distributed to, members entitled to payments of such funds with respect to such members' house and customer accounts as part of that same daily settlement. Such funds when received, other than deposits of initial margin described in § 39.14(a)(1)(iii) of this chapter, shall be considered member property and, separately, customer property other than member property, in proportion to the ratio of total gains in member accounts with net gains, and total gains in clearing members' customer accounts with net gains, respectively. Deposits of initial margin described in § 39.14(a)(1)(iii) of this chapter shall be considered member property and, separately, customer property other than member property, to the extent deposited on behalf of, respectively, clearing members' house accounts and customer accounts.
+
+(b) To the extent there is a shortfall in funds received pursuant to paragraph (a) of this section:
+
+(1) Such funds shall be supplemented with the property described in paragraphs (b)(1)(i) through (iv) of this section, as applicable, to the extent necessary to meet the shortfall, in accordance with the derivatives clearing organization's default rules and procedures adopted pursuant to § 39.16 and, as applicable, § 39.35 of this chapter, and (with respect to paragraph (b)(1)(ii) of this section) any recovery and wind-down plans maintained pursuant to § 39.39 of this chapter and submitted pursuant to § 39.19 of this chapter. Such funds shall be included as member property and customer property other than member property in the proportion described in paragraph (a) of this section, and shall be distributed promptly to members' house accounts and members' customer accounts which accounts are entitled to payment of such funds as part of that daily settlement.
+
+(i) Initial margin held for the account of a member, including initial margin segregated for the customers of such member, that has defaulted on payments required pursuant to a daily settlement, but only to the extent that such margin is permitted to be used pursuant to parts 1, 22, and 30 of this chapter.
+
+(ii) Assets of the debtor, to the extent dedicated to such use as part of the debtor's default rules and procedures, and any recovery and wind-down plans, described in this paragraph (b)(1).
+
+(iii) Prefunded guarantee or default funds maintained pursuant to the debtor's default rules and procedures.
+
+(iv) Payments made by members pursuant to assessment powers maintained pursuant to the debtor's default rules and procedures.
+
+(2) If the funds that are included as customer property pursuant to paragraph (a) of this section, supplemented as described in paragraph (b)(1) of this section, are insufficient to pay in full members entitled to payment of such funds as part of daily settlement, then such funds shall be distributed pro rata to such members' house accounts and customer accounts in proportion to the ratio of total gains in member accounts with net gains, and total gains in customer accounts with net gains, respectively.

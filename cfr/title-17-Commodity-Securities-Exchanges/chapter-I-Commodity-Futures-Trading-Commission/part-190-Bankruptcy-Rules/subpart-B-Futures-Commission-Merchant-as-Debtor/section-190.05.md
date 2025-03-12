@@ -1,0 +1,17 @@
+##### § 190.05 Operation of the debtor's estate—general. #####
+
+(a) *Compliance with the Act and regulations in this chapter.* Except as specifically provided otherwise in this part, the trustee shall use reasonable efforts to comply with all of the provisions of the Act and of the regulations in this chapter as if it were the debtor.
+
+(b) *Computation of funded balance.* The trustee shall use reasonable efforts to compute a funded balance for each customer account that contains open commodity contracts or other property as of the close of business each business day subsequent to the order for relief until the date all open commodity contracts and other property in such account have been transferred or liquidated, which shall be as accurate as reasonably practicable under the circumstances, including the reliability and availability of information.
+
+(c) *Records*—(1) *Maintenance.* Except as otherwise ordered by the court or as permitted by the Commission, records required under this chapter to be maintained by the debtor, including records of the computations required by this part, shall be maintained by the trustee until such time as the debtor's case is closed.
+
+(2) *Accessibility.* The records required to be maintained by paragraph (c)(1) of this section shall be available during business hours to the Commission and the U.S. Department of Justice. The trustee shall give the Commission and the U.S. Department of Justice access to all records of the debtor, including records required to be retained in accordance with § 1.31 of this chapter and all other records of the commodity broker, whether or not the Act or this chapter would require such records to be maintained by the commodity broker.
+
+(d) *Customer statements.* The trustee shall use all reasonable efforts to continue to issue account statements with respect to any customer for whose account open commodity contracts or other property is held that has not been liquidated or transferred. With respect to such accounts, the trustee must also issue an account statement reflecting any liquidation or transfer of open commodity contracts or other property promptly after such liquidation or transfer.
+
+(e) *Other matters*—(1) *Disbursements.* With the exception of transfers of customer property made in accordance with § 190.07, the trustee shall make no disbursements to customers except with approval of the court.
+
+(2) *Investment.* The trustee shall promptly invest the proceeds from the liquidation of commodity contracts or specifically identifiable property, and may invest any other customer property, in obligations of the United States and obligations fully guaranteed as to principal and interest by the United States, provided that such obligations are maintained in a depository located in the United States, its territories or possessions.
+
+(f) *Residual interest.* The trustee shall apply the residual interest provisions of § 1.11 of this chapter in a manner appropriate to the context of their responsibilities as a bankruptcy trustee pursuant subchapter IV of chapter 7 of the Bankruptcy Code and this part, and in light of the existence of a surplus or deficit in customer property available to pay customer claims.

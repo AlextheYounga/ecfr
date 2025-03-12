@@ -1,0 +1,5 @@
+##### § 440.3 High volume hydraulic fracturing (HVHF). #####
+
+(a) *Determination.* The Commission has determined that high volume hydraulic fracturing poses significant, immediate and long-term risks to the development, conservation, utilization, management, and preservation of the water resources of the Delaware River Basin and to Special Protection Waters of the Basin, considered by the Commission to have exceptionally high scenic, recreational, ecological, and/or water supply values. Controlling future pollution by prohibiting such activity in the Basin is required to effectuate the Comprehensive Plan, avoid injury to the waters of the Basin as contemplated by the Comprehensive Plan, and protect the public health and preserve the waters of the Basin for uses in accordance with the Comprehensive Plan.
+
+(b) *Prohibition.* High volume hydraulic fracturing in hydrocarbon bearing rock formations is prohibited within the Delaware River Basin.

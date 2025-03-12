@@ -1,6 +1,6 @@
 ##### § 655.731 What is the first LCA requirement, regarding wages? #####
 
-Link to an amendment published at 86 FR 3672, Jan. 14, 2021.Link to an amendment published at 86 FR 13994, Mar. 12, 2021, delaying the above amendment.
+Link to an amendment published at 86 FR 3672, Jan. 14, 2021.Link to an amendment published at 86 FR 13994, Mar. 12, 2021, delaying the above amendment.Link to an amendment published at 86 FR 26177, May 13, 2021, delaying the above amendment.
 
 An employer seeking to employ H-1B nonimmigrants in a specialty occupation or as a fashion model of distinguished merit and ability shall state on Form ETA 9035 or 9035E that it will pay the H-1B nonimmigrant the required wage rate. For the purposes of this section, “H-1B” includes “E-3 and H-1B1” as well.
 

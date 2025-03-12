@@ -1,7 +1,5 @@
 ##### § 1.65 Notice of bulk transfers and disclosure obligations to customers. #####
 
-Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
-
 (a) *Notice and Disclosure to Customers.* (1) Prior to transferring a customer account to another futures commission merchant or introducing broker other than at the request of the customer, a futures commission merchant or introducing broker must obtain the customer's specific consent to the transfer.
 
 (2) If the customer account agreement contains a valid consent by the customer to prospective transfers of the account, the transferor futures commission merchant or introducing broker may transfer the account if the customer is provided with written notice of, and a reasonable opportunity to object to, the transfer and the customer has not asserted an objection to the transfer or given other instructions as to the disposition of the account. The notice to the customer must include:
@@ -16,13 +14,13 @@ Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
 
 (v) A clear statement as to the means by which the customer may object to or otherwise respond to the notice of proposed transfer.
 
-(3) Where customer accounts are transferred to a futures commission merchant or introducing broker, other than at the customer's request, the transferee introducing broker or futures commission merchant must provide each customer whose account is transferred with the risk disclosure statements and acknowledgments required by § 1.55 (domestic futures and foreign futures and options trading), and §§ 33.7 (domestic exchange-traded commodity options) and 190.10(c) (non-cash margin - to be furnished by futures commission merchants only) of this chapter and receive the required acknowledgments within sixty days of the transfer of accounts. This requirement shall not apply:
+(3) Where customer accounts are transferred to a futures commission merchant or introducing broker, other than at the customer's request, the transferee introducing broker or futures commission merchant must provide each customer whose account is transferred with the risk disclosure statements and acknowledgments required by § 1.55 (domestic futures and foreign futures and options trading) and § 33.7 of this chapter (domestic exchange-traded commodity options) and receive the required acknowledgments within sixty days of the transfer of accounts. This paragraph (a)(3) shall not apply:
 
 (i) As to customers owning transferred accounts for which the transferee futures commission merchant or introducing broker has clear written evidence that the customer has received and acknowledged the required disclosure documents; or
 
 (ii) As to customers for which the transferee futures commission merchant or introducing broker has clear evidence that such customer was at the time the account was opened by the transferring futures commission merchant or introducing broker, or is at the time the account is being transferred, a customer listed in § 1.55(f); or
 
-(iii) If the transfer of accounts is made from one introducing broker to another introducing broker guaranteed by the same futures commission merchant pursuant to a guarantee agreement in accordance with the requirements of § 1.10(j) and such futures commission merchant maintains the relevant acknowledgments required by §§ 1.55(a)(1)(ii) and 33.7(a)(1)(ii) of this chapter and can establish compliance with § 190.10(c) of this chapter.
+(iii) If the transfer of accounts is made from one introducing broker to another introducing broker guaranteed by the same futures commission merchant pursuant to a guarantee agreement in accordance with the requirements of § 1.10(j) and such futures commission merchant maintains the relevant acknowledgments required by §§ 1.55(a)(1)(ii) and 33.7(a)(1)(ii) of this chapter and can establish compliance with § 1.55(p).
 
 (b) *Notice to the Commission.* Each futures commission merchant or introducing broker shall file with the Commission, at least ten business days in advance of the transfer, notice of any transfer of customer accounts carried or introduced by such futures commission merchant or introducing broker that is not initiated at the request of the customer, where the transfer involves the lesser of:
 
@@ -52,4 +50,4 @@ Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
 
 (g) If a proposed transfer is not completed in accordance with the notice required to be filed by paragraph (b) of this section, a corrective notice shall be filed within five business days of the date such proposed transfer was to occur explaining why the proposed transfer was not completed.
 
-[58 FR 17504, Apr. 5, 1993, as amended at 60 FR 49334, Sept. 25, 1995; 63 FR 8571, Feb. 20, 1998; 67 FR 62351, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 85 FR 57547, Sept. 15, 2020]
+[58 FR 17504, Apr. 5, 1993, as amended at 60 FR 49334, Sept. 25, 1995; 63 FR 8571, Feb. 20, 1998; 67 FR 62351, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 85 FR 57547, Sept. 15, 2020; 86 FR 19420, Apr. 13, 2021]
