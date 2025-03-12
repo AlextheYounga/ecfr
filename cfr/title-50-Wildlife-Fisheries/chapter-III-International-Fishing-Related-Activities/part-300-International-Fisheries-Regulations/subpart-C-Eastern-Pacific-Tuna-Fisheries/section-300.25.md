@@ -26,7 +26,11 @@
 
 (c) *Transshipments at sea.* No person subject to these regulations may transship purse seine-caught tuna from one vessel to another vessel at sea within the Convention Area.
 
-(d) [Reserved]
+(d) *Observer requirements* - (1) *Purse seine vessels.* (i) The holder of an eastern tropical Pacific Ocean vessel permit, as required by § 216.24(b) of this title, must allow an observer duly authorized by the Administrator, West Coast Region, to accompany the vessel on all fishing trips in the IATTC Convention Area for the purpose of conducting research and observing operations, including collecting information that may be used in civil or criminal penalty proceedings, forfeiture actions, or permit sanctions, pursuant to the requirements in § 216.24(e) of this title. A vessel that fails to carry an observer in accordance with these requirements may not engage in fishing operations unless an exemption has been granted from these requirements as provided for in § 216.24(e)(1)(i) of this title.
+
+(ii) [Reserved]
+
+(2) [Reserved]
 
 (e) *Purse seine closures* - (1) *72-day closure.* A commercial purse seine fishing vessel of the United States that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days in calendar year 2021 during one of the following two periods:
 

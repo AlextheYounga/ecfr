@@ -28,7 +28,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (m) Fail to stow gear as required in § 300.25(a)(4)(iv) or (e)(6).
 
-(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of § 300.25(e)(1), (2), or (5).
+(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of the observer requirements in § 300.25(d) or the purse seine closure period requirements in § 300.25(e)(1), (2), or (5).
 
 (o) Use a U.S. longline or purse seine fishing vessel used to fish for HMS within one nautical mile of an anchored data buoy while the fishing vessel is in the Convention Area in contravention of § 300.25(f)(1).
 
