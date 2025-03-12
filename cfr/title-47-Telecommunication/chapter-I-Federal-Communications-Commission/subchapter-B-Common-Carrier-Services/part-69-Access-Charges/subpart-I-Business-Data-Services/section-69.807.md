@@ -1,10 +1,8 @@
 ##### § 69.807 Regulatory relief. #####
 
-Link to an amendment published at 84 FR 38579, Aug. 7, 2019.
+(a) Price cap local exchange carrier TDM transport, end user channel terminations in markets deemed competitive, and end user channel terminations in grandfathered markets for a price cap local exchange carrier that was granted Phase II pricing flexibility prior to June 2017, are granted the following regulatory relief:
 
-(a) Price cap local exchange carrier transport and end user channel terminations in markets deemed competitive and in grandfathered markets for a price cap carrier that was granted Phase II pricing flexibility prior to June 2017 are granted the following regulatory relief:
-
-(1) Elimination of the rate structure requirements in subpart B of this part;
+(1) Elimination of the rate structure requirements contained in subpart B of this part;
 
 (2) Elimination of price cap regulation; and
 
@@ -23,3 +21,5 @@ Link to an amendment published at 84 FR 38579, Aug. 7, 2019.
 (3) Ability to file tariff revisions on at least one day's notice, notwithstanding the notice requirements for tariff filings specified in § 61.58 of this chapter.
 
 (c) A price cap local exchange carrier that was granted Phase II pricing flexibility prior to June 2017 in a grandfathered market must retain its business data services rates at levels no higher than those in effect as of April 20, 2017, pending the detariffing of those services pursuant to § 61.201 of this chapter.
+
+[82 FR 25711, June 2, 2017, as amended at 84 FR 38579, Aug. 7, 2019]
