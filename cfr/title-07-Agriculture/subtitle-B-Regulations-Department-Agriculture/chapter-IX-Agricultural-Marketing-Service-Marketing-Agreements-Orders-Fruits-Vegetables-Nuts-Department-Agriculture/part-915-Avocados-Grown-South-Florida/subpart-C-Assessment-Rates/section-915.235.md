@@ -1,7 +1,5 @@
 ##### § 915.235 Assessment rate. #####
 
-Link to an amendment published at 86 FR 69161, Dec. 7, 2021.
+On and after April 1, 2021, an assessment rate of $0.45 per 55-pound container or equivalent is established for avocados grown in South Florida.
 
-On and after April 1, 2016, an assessment rate of $0.35 per 55-pound container or equivalent is established for avocados grown in South Florida.
-
-[81 FR 38885, June 15, 2016]
+[86 FR 69161, Dec. 7, 2021]

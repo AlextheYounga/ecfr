@@ -1,7 +1,5 @@
 ##### 22.1503 Procedures for acquiring end products on the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor. #####
 
-Link to an amendment published at 86 FR 74530, Dec. 30, 2021.
-
 (a) When issuing a solicitation for supplies expected to exceed the micro-purchase threshold, the contracting officer must check the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor (the List) (*www.dol.gov/ilab/*) (see 22.1505(a)). Appearance of a product on the List is not a bar to purchase of any such product mined, produced, or manufactured in the identified country, but rather is an alert that there is a reasonable basis to believe that such product may have been mined, produced, or manufactured by forced or indentured child labor.
 
 (b) The requirements of this subpart that result from the appearance of any end product on the List do not apply to a solicitation or contract if the identified country of origin on the List is -
@@ -10,9 +8,9 @@ Link to an amendment published at 86 FR 74530, Dec. 30, 2021.
 
 (2) Israel, and the anticipated value of the acquisition is $50,000 or more (see 25.406);
 
-(3) Mexico, and the anticipated value of the acquisition is $83,099or more (see subpart 25.4); or
+(3) Mexico, and the anticipated value of the acquisition is $92,319 or more (see subpart 25.4); or
 
-(4) Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $182,000 or more (see 25.402(b)).
+(4) Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $183,000 or more (see 25.402(b)).
 
 (c) Except as provided in paragraph (b) of this section, before the contracting officer may make an award for an end product (regardless of country of origin) of a type identified by country of origin on the List the offeror must certify that -
 
