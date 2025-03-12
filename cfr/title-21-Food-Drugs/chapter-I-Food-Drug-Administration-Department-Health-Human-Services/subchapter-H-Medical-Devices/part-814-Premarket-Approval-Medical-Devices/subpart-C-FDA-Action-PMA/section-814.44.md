@@ -1,5 +1,7 @@
 ##### § 814.44 Procedures for review of a PMA. #####
 
+Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
+
 (a) FDA will begin substantive review of a PMA after the PMA is accepted for filing under § 814.42. FDA may refer the PMA to a panel on its own initiative, and will do so upon request of an applicant, unless FDA determines that the application substantially duplicates information previously reviewed by a panel. If FDA refers an application to a panel, FDA will forward the PMA, or relevant portions thereof, to each member of the appropriate FDA panel for review. During the review process, FDA may communicate with the applicant as set forth under § 814.37(b), or with a panel to respond to questions that may be posed by panel members or to provide additional information to the panel. FDA will maintain a record of all communications with the applicant and with the panel.
 
 (b) The advisory committee shall submit a report to FDA which includes the committee's recommendation and the basis for such recommendation on the PMA. Before submission of this report, the committee shall hold a public meeting to review the PMA in accordance with part 14. This meeting may be held by a telephone conference under § 14.22(g). The advisory committee report and recommendation may be in the form of a meeting transcript signed by the chairperson of the committee.

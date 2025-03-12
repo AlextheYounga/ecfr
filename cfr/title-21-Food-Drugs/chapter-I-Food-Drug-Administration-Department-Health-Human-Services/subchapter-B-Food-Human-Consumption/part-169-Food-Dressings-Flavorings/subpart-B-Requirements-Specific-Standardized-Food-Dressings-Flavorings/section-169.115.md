@@ -1,5 +1,7 @@
 ##### § 169.115 French dressing. #####
 
+Link to an amendment published at 87 FR 2042, Jan. 13, 2022.
+
 (a) *Description.* French dressing is the separable liquid food or the emulsified viscous fluid food prepared from vegetable oil(s) and one or both of the acidifying ingredients specified in paragraph (b) of this section. One or more of the ingredients specified in paragraph (c) of this section may also be used. The vegetable oil(s) used may contain an optional crystallization inhibitor as specified in paragraph (c)(11) of this section. All the ingredients from which the food is fabricated shall be safe and suitable. French dressing contains not less than 35 percent by weight of vegetable oil. French dressing may be mixed and packed in an atmosphere in which air is replaced in whole or in part by carbon dioxide or nitrogen.
 
 (b) *Acidifying ingredients.* (1) Any vinegar or any vinegar diluted with water, or any such vinegar or diluted vinegar mixed with an optional acidifying ingredient as specified in paragraph (c)(9) of this section. For the purpose of this paragraph, any blend of two or more vinegars is considered to be a vinegar.

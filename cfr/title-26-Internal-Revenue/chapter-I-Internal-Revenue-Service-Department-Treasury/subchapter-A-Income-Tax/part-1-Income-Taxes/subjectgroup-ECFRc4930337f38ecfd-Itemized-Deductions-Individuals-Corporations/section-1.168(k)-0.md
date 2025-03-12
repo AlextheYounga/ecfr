@@ -528,6 +528,8 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (6) Special rules for 2016 and 2017 returns.
 
+(7) Additional procedural guidance.
+
 (g) Special rules.
 
 (1) Property placed in service and disposed of in the same taxable year.
@@ -604,7 +606,7 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (10) Coordination with section 514(a)(3).
 
-(11) [Reserved]
+(11) Mid-quarter convention.
 
 (h) Applicability dates.
 

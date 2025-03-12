@@ -1,5 +1,7 @@
 ##### § 814.45 Denial of approval of a PMA. #####
 
+Link to an amendment published at 87 FR 2045, Jan. 13, 2022.
+
 (a) FDA may issue an order denying approval of a PMA if the applicant fails to follow the requirements of this part or if, upon the basis of the information submitted in the PMA or any other information before the agency, FDA determines that any of the grounds for denying approval of a PMA specified in section 515(d)(2) (A)-(E) of the act applies. In addition, FDA may deny approval of a PMA for any of the following reasons:
 
 (1) The PMA contains a false statement of material fact;

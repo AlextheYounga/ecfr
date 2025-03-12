@@ -1,8 +1,6 @@
-##### § 17.42 Special rules - reptiles. #####
+##### § 17.42 Special rules—reptiles. #####
 
-Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
-
-(a) American alligator (*Alligator mississippiensis*) - (1) *Definitions.* For purposes of this paragraph (a) the following definitions apply:
+(a) American alligator (*Alligator mississippiensis*)—(1) *Definitions.* For purposes of this paragraph (a) the following definitions apply:
 
 (i) *American alligator* means any specimen of the species *Alligator mississippiensis*, whether alive or dead, including any skin, part, product, egg, or offspring thereof held in captivity or from the wild.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (2) *Permits.* (i) For those activities which come under the jurisdiction of the Service, only permits for scientific purposes, enhancement of propagation or survival, zoological exhibition or educational purposes, are available under § 17.32. Procedures for issuance of permits are found in § 17.32 and, for those activities which come under the jurisdiction of the National Marine Fisheries Service, subpart E of part 220. All the provisions of § 17.32 apply to permits issued by the Service.
 
-(c) *Threatened crocodilians* - (1) *What are the definitions of terms used in this paragraph (c)?*
+(c) *Threatened crocodilians*—(1) *What are the definitions of terms used in this paragraph (c)?*
 
 (i) *Threatened crocodilian* means any live or dead specimen of the following species:
 
@@ -92,7 +90,7 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (iii) We determine, based on information from the CITES Secretariat or other reliable sources, that the country is not effectively implementing the provisions of the Convention.
 
-(5) *Reporting requirements for yacare caiman range countries* - (i) *Biennial reports.* Range countries (Argentina, Bolivia, Brazil, and Paraguay) wishing to export specimens of yacare caiman to the United States for commercial purposes must provide a biennial report containing the most recent information available on the status of the species. The first submission of a status report will be required as of December 31, 2001, and every 2 years thereafter on the anniversary of that date. For each range country, all of the following information must be included in the report.
+(5) *Reporting requirements for yacare caiman range countries*—(i) *Biennial reports.* Range countries (Argentina, Bolivia, Brazil, and Paraguay) wishing to export specimens of yacare caiman to the United States for commercial purposes must provide a biennial report containing the most recent information available on the status of the species. The first submission of a status report will be required as of December 31, 2001, and every 2 years thereafter on the anniversary of that date. For each range country, all of the following information must be included in the report.
 
 (A) Recent distribution and population data, and a description of the methodology used to obtain such estimates.
 
@@ -132,17 +130,17 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (5) Taking of these species for purposes other than those described in paragraph (c)(1) of this section, including taking incidental to carrying out otherwise lawful activities, is prohibited except when permitted under §§ 17.23 and 17.32.
 
-(e) Desert tortoise (*Gopherus agassizii*) - (1) *Definition.* For the purposes of this paragraph (e) “desert tortoise” shall mean any member of the species *Gopherus agassizii,* whether alive or dead, and any part, product, egg, or offspring thereof, found outside of Arizona (south and east of the Colorado River) and Mexico, regardless of natal origin or place of removal from the wild.
+(e) Desert tortoise (*Gopherus agassizii*)—(1) *Definition.* For the purposes of this paragraph (e) “desert tortoise” shall mean any member of the species *Gopherus agassizii,* whether alive or dead, and any part, product, egg, or offspring thereof, found outside of Arizona (south and east of the Colorado River) and Mexico, regardless of natal origin or place of removal from the wild.
 
 (2) *Applicable provisions.* The provisions of § 17.31-17.32 shall apply to any desert tortoise subject to this paragraph (e).
 
-(f) Bog turtle (*Clemmys muhlenbergii*), southern population - (1) *Definitions of terms.* For the purposes of this paragraph (f): *Bog turtle* of the southern population means any member of the species *Clemmys muhlenbergii,* within Georgia, North Carolina, South Carolina, Tennessee and Virginia, regardless of whether in the wild or captivity, and also applies to the progeny of any such turtle.
+(f) Bog turtle (*Glyptemys muhlenbergii*), southern population—(1) *Definitions of terms.* For the purposes of this paragraph (f): *Bog turtle* of the southern population means any member of the species *Clemmys muhlenbergii,* within Georgia, North Carolina, South Carolina, Tennessee and Virginia, regardless of whether in the wild or captivity, and also applies to the progeny of any such turtle.
 
 (2) *Prohibitions.* Except as provided in paragraph (f)(3) of this section, the provisions of Sec. 17.31 (a) and (b) of this part applies to bog turtles of the southern population (see also 50 CFR part 23).
 
 (3) *Take.* Incidental take, that is, take that results from, but is not the purpose of, carrying out an otherwise lawful activity, does not apply to bog turtles of the southern population.
 
-(g) Northern Mexican gartersnake (*Thamnophis eques megalops*) - (1) *Prohibitions.* Except as noted in paragraph (g)(2) of this section, all prohibitions and provisions of §§ 17.31 and 17.32 apply to the northern Mexican gartersnake.
+(g) Northern Mexican gartersnake (*Thamnophis eques megalops*)—(1) *Prohibitions.* Except as noted in paragraph (g)(2) of this section, all prohibitions and provisions of §§ 17.31 and 17.32 apply to the northern Mexican gartersnake.
 
 (2) *Exemptions from prohibitions.* Incidental take of the northern Mexican gartersnake will not be considered a violation of section 9 of the Act if the take occurs on non-Federal land and is incidental to activities pertaining to construction, continued use, and maintenance of stock tanks. A stock tank is an existing or future impoundment in an ephemeral drainage or upland site constructed primarily as a watering site for livestock.
 
@@ -162,7 +160,7 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (B) Those activities causing significant subsurface disturbance, including, but not limited to, shearing, wind-rowing, stumping, disking (except during fire break creation or maintenance), root-raking, and bedding.
 
-(i) Louisiana pinesnake (*Pituophuis ruthveni*) - (1) *Definitions.* The following definitions apply only to terms used in this paragraph (i) for activities affecting the Louisiana pinesnake.
+(i) Louisiana pinesnake (*Pituophuis ruthveni*)—(1) *Definitions.* The following definitions apply only to terms used in this paragraph (i) for activities affecting the Louisiana pinesnake.
 
 (i) *Estimated occupied habitat area (EOHA).* Areas of land where occurrences of Louisiana pinesnakes have been recorded and that are considered by the Service to be occupied by the species. For current information regarding the EOHAs, contact your local Service Ecological Services office. Field office contact information may be obtained from the Service regional offices, the addresses of which are listed in 50 CFR 2.2.
 
@@ -192,7 +190,7 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (v) Take incidental to an otherwise lawful activity caused by:
 
-(A) *Outside any known EOHAs* - Activities that maintain existing forest lands in forest land use and that, when conducted in areas within the range of the Louisiana pinesnake, on preferred or suitable soils, result in the establishment and maintenance of open-canopy pine-dominated forest stands over time across the landscape. These activities include:
+(A) *Outside any known EOHAs*—Activities that maintain existing forest lands in forest land use and that, when conducted in areas within the range of the Louisiana pinesnake, on preferred or suitable soils, result in the establishment and maintenance of open-canopy pine-dominated forest stands over time across the landscape. These activities include:
 
 (*1*) Tree thinning, tree harvest (including clearcutting), and planting and replanting pines (by hand or by machine).
 
@@ -208,7 +206,7 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (*7*) Food plot establishment for game animals, when it does not destroy existing native herbaceous vegetation, avoids Baird's pocket gopher mound complexes, and does not exceed 1 acre in size.
 
-(B) *Within any known EOHAs* where Baird's pocket gopher mounds are present or on lands that have suitable or preferable soils and that are forested, undeveloped, or non-farmed (*i.e.,* not cultivated on an annual basis) and adjacent to forested lands - Activities described in paragraphs (i)(3)(v)(A)(*1*) through (*7*) of this section provided that those activities do not:
+(B) *Within any known EOHAs* where Baird's pocket gopher mounds are present or on lands that have suitable or preferable soils and that are forested, undeveloped, or non-farmed (*i.e.,* not cultivated on an annual basis) and adjacent to forested lands—Activities described in paragraphs (i)(3)(v)(A)(*1*) through (*7*) of this section provided that those activities do not:
 
 (*1*) Cause subsurface disturbance, including, but not limited to, wind-rowing, stumping, disking (except during firebreak creation or maintenance), root-raking, drum chopping (except for single pass with the lightest possible weighted drums and only when the soil is not wet, when used to control hardwoods and woody shrub species detrimental to establishment of pine-forested land), shearing that penetrates the soil surface, ripping (except when restoring pine forest in compacted soil areas such as former pastures), bedding, new road construction, and commercial or residential development. Machine-planting, using the shallowest depth possible, would be allowed in areas where pocket gophers are not present and only for planting pine tree species. In former pastures or highly degraded areas with no herbaceous vegetation and poor planting conditions, subsurface disturbance will be allowed only for activities that contribute to reforestation that is consistent with the conservation of the species.
 
@@ -216,4 +214,4 @@ Link to an amendment published at 86 FR 57376, Oct. 15, 2021.
 
 (*3*) Involve the use of plastic mesh in erosion control and stabilization devices, mats, blankets, or channel protection.
 
-[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020]
+[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020; 86 FR 57376, Oct. 15, 2021]

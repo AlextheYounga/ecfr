@@ -1,5 +1,7 @@
 ##### § 209.1 Authority, purpose, scope, and definitions. #####
 
+Link to an amendment published at 87 FR 2030, Jan. 13, 2022.
+
 (a) *Authority.* This part is issued pursuant to 12 U.S.C. 222, 248, 282, 286-288, 289, 321, 323, 327-328, and 466.
 
 (b) *Purpose.* The purpose of this part is to implement the provisions of the Federal Reserve Act relating to the issuance and cancellation of Federal Reserve Bank stock upon becoming or ceasing to be a member bank, or upon changes in the capital and surplus of a member bank, of the Federal Reserve System. This part also implements the provisions of the Federal Reserve Act relating to the payment of dividends to member banks.
