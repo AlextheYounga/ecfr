@@ -1,5 +1,7 @@
 ##### § 250.414 What must my drilling prognosis include? #####
 
+Link to an amendment published at 84 FR 21973, May 15, 2019.
+
 Your drilling prognosis must include a brief description of the procedures you will follow in drilling the well. This prognosis includes but is not limited to the following:
 
 (a) Projected plans for coring at specified depths;

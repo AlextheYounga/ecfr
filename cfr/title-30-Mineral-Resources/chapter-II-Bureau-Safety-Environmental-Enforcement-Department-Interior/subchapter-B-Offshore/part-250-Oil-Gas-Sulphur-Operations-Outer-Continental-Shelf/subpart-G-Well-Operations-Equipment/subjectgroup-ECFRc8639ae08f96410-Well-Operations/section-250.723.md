@@ -1,5 +1,7 @@
 ##### § 250.723 What additional safety measures must I take when I conduct operations on a platform that has producing wells or has other hydrocarbon flow? #####
 
+Link to an amendment published at 84 FR 21977, May 15, 2019.
+
 You must take the following safety measures when you conduct operations with a rig unit or lift boat on or jacked-up over a platform with producing wells or that has other hydrocarbon flow:
 
 (a) The movement of rig units and related equipment on and off a platform or from well to well on the same platform, including rigging up and rigging down, must be conducted in a safe manner;

@@ -1,5 +1,7 @@
 ##### § 211.24 Approval of offices of foreign banks; procedures for applications; standards for approval; representative office activities and standards for approval; preservation of existing authority. #####
 
+Link to an amendment published at 84 FR 21692, May 15, 2019.
+
 (a) *Board approval of offices of foreign banks* - (1) *Prior Board approval of branches, agencies, commercial lending companies, or representative offices of foreign banks.* (i) Except as otherwise provided in paragraphs (a)(2) and (a)(3) of this section, a foreign bank shall obtain the approval of the Board before it:
 
 (A) Establishes a branch, agency, commercial lending company subsidiary, or representative office in the United States; or

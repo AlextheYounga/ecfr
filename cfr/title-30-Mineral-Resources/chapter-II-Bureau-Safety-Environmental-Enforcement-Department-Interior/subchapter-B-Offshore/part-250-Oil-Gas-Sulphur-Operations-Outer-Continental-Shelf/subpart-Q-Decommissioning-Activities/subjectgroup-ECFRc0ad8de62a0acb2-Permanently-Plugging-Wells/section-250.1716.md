@@ -1,5 +1,7 @@
 ##### § 250.1716 To what depth must I remove wellheads and casings? #####
 
+Link to an amendment published at 84 FR 21985, May 15, 2019.
+
 (a) Unless the District Manager approves an alternate depth under paragraph (b) of this section, you must remove all wellheads and casings to at least 15 feet below the mud line.
 
 (b) The District Manager may approve an alternate removal depth if:

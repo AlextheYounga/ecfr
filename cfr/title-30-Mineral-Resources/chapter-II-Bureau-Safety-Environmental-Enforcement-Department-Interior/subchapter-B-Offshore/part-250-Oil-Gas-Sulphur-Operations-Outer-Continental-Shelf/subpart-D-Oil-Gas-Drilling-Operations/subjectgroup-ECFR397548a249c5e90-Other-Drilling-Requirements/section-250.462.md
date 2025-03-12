@@ -1,5 +1,7 @@
 ##### § 250.462 What are the source control, containment, and collocated equipment requirements? #####
 
+Link to an amendment published at 84 FR 21975, May 15, 2019.
+
 For drilling operations using a subsea BOP or surface BOP on a floating facility, you must have the ability to control or contain a blowout event at the sea floor.
 
 (a) To determine your required source control and containment capabilities you must do the following:

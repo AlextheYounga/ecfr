@@ -1,5 +1,7 @@
 ##### § 250.1706 Coiled tubing and snubbing operations. #####
 
+Link to an amendment published at 84 FR 21985, May 15, 2019.
+
 If you use a BOP for any well abandonment operations, your BOP must meet the following requirements:
 
 (a) For coiled tubing operations with the production tree in place, you must meet the following minimum requirements for the BOP system:

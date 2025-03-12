@@ -1,5 +1,7 @@
 ##### § 208.101 Authority, purpose, and scope. #####
 
+Link to an amendment published at 84 FR 21692, May 15, 2019.
+
 (a) *Authority.* This subpart is issued pursuant to the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110-289, 122 Stat. 2654, 12 U.S.C. 5101 *et seq.*), 12 U.S.C. 248(a), 3106a(1), and 3108(a).
 
 (b) *Purpose.* This subpart implements the S.A.F.E. Act's Federal registration requirement for mortgage loan originators. The S.A.F.E. Act provides that the objectives of this registration include aggregating and improving the flow of information to and between regulators; providing increased accountability and tracking of mortgage loan originators; enhancing consumer protections; supporting anti-fraud measures; and providing consumers with easily accessible information at no charge regarding the employment history of, and publicly adjudicated disciplinary and enforcement actions against, mortgage loan originators.

@@ -1,5 +1,7 @@
 ##### § 250.724 What are the real-time monitoring requirements? #####
 
+Link to an amendment published at 84 FR 21977, May 15, 2019.
+
 (a) No later than April 29, 2019, when conducting well operations with a subsea BOP or with a surface BOP on a floating facility, or when operating in an high pressure high temperature (HPHT) environment, you must gather and monitor real-time well data using an independent, automatic, and continuous monitoring system capable of recording, storing, and transmitting data regarding the following:
 
 (1) The BOP control system;

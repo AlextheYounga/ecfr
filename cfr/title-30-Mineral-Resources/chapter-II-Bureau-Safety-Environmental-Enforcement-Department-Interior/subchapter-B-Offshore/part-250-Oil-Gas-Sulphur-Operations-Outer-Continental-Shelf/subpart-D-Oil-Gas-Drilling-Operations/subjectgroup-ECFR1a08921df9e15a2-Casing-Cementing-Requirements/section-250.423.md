@@ -1,5 +1,7 @@
 ##### § 250.423 What are the requirements for casing and liner installation? #####
 
+Link to an amendment published at 84 FR 21974, May 15, 2019.
+
 You must ensure proper installation of casing in the subsea wellhead or liner in the liner hanger.
 
 (a) You must ensure that the latching mechanisms or lock down mechanisms are engaged upon successfully installing and cementing the casing string. If there is an indication of an inadequate cement job, you must comply with § 250.428(c).

@@ -1,5 +1,7 @@
 ##### § 250.1722 If I install a subsea protective device, what requirements must I meet? #####
 
+Link to an amendment published at 84 FR 21985, May 15, 2019.
+
 If you install a subsea protective device under § 250.1721(f)(3), you must install it in a manner that allows fishing gear to pass over the obstruction without damage to the obstruction, the protective device, or the fishing gear.
 
 (a) Use form BSEE-0124, Application for Permit to Modify to request approval from the appropriate District Manager to install a subsea protective device.

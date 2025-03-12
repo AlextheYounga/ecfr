@@ -1,5 +1,7 @@
 ##### § 250.616 Coiled tubing and snubbing operations. #####
 
+Link to an amendment published at 84 FR 21976, May 15, 2019.
+
 (a) For coiled tubing operations with the production tree in place, you must meet the following minimum requirements for the BOP system:
 
 (1) BOP system components must be in the following order from the top down:

@@ -1,5 +1,7 @@
 ##### § 250.198 Documents incorporated by reference. #####
 
+Link to an amendment published at 84 FR 21969, May 15, 2019.
+
 (a) The BSEE is incorporating by reference the documents listed in paragraphs (e) through (k) of this section. Paragraphs (e) through (k) identify the publishing organization of the documents, the address and phone number where you may obtain these documents, and the documents incorporated by reference. The Director of the Federal Register has approved the incorporations by reference according to 5 U.S.C. 552(a) and 1 CFR part 51.
 
 (1) Incorporation by reference of a document is limited to the edition of the publication that is cited in this section. Future amendments or revisions of the document are not included. The BSEE will publish any changes to a document in the Federal Register and amend this section.

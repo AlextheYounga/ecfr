@@ -1,5 +1,7 @@
 ##### § 250.739 What are the BOP maintenance and inspection requirements? #####
 
+Link to an amendment published at 84 FR 21983, May 15, 2019.
+
 (a) You must maintain and inspect your BOP system to ensure that the equipment functions as designed. The BOP maintenance and inspections must meet or exceed any OEM recommendations, recognized engineering practices, and industry standards incorporated by reference into the regulations of this subpart, including API Standard 53 (incorporated by reference in § 250.198). You must document how you met or exceeded the provisions of API Standard 53, maintain complete records to ensure the traceability of BOP stack equipment beginning at fabrication, and record the results of your BOP inspections and maintenance actions. You must make all records available to BSEE upon request.
 
 (b) A complete breakdown and detailed physical inspection of the BOP and every associated system and component must be performed every 5 years. This complete breakdown and inspection may be performed in phased intervals. You must track and document all system and component inspection dates. These records must be available on the rig. A BAVO is required to be present during each inspection and must compile a detailed report documenting the inspection, including descriptions of any problems and how they were corrected. You must make these reports available to BSEE upon request. This complete breakdown and inspection must be performed every 5 years from the following applicable dates, whichever is later:

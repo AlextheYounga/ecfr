@@ -1,5 +1,7 @@
 ##### § 250.619 Tubing and wellhead equipment. #####
 
+Link to an amendment published at 84 FR 21976, May 15, 2019.
+
 The lessee shall comply with the following requirements during well-workover operations with the tree removed:
 
 (a) No tubing string shall be placed in service or continue to be used unless such tubing string has the necessary strength and pressure integrity and is otherwise suitable for its intended use.

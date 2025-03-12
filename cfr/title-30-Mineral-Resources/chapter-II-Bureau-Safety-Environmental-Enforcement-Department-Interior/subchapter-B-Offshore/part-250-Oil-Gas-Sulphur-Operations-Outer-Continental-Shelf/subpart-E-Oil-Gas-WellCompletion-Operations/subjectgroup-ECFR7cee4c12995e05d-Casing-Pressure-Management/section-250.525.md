@@ -1,5 +1,7 @@
 ##### § 250.525 When am I required to take action from my casing diagnostic test? #####
 
+Link to an amendment published at 84 FR 21976, May 15, 2019.
+
 You must take action if you have any of the following conditions:
 
 (a) Any fixed platform well with a casing pressure exceeding its maximum allowable wellhead operating pressure (MAWOP);

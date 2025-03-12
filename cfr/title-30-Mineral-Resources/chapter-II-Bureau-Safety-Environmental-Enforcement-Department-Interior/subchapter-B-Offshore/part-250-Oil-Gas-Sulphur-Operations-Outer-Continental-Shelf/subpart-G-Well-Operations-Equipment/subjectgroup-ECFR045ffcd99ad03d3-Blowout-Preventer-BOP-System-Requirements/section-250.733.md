@@ -1,5 +1,7 @@
 ##### § 250.733 What are the requirements for a surface BOP stack? #####
 
+Link to an amendment published at 84 FR 21979, May 15, 2019.
+
 (a) When you drill or conduct operations with a surface BOP stack, you must install the BOP system before drilling or conducting operations to deepen the well below the surface casing and after the well is deepened below the surface casing point. The surface BOP stack must include at least four remote-controlled, hydraulically operated BOPs, consisting of one annular BOP, one BOP equipped with blind shear rams, and two BOPs equipped with pipe rams.
 
 (1) The blind shear rams must be capable of shearing at any point along the tubular body of any drill pipe (excluding tool joints, bottom-hole tools, and bottom hole assemblies that include heavy-weight pipe or collars), workstring, tubing provided that the capability to shear tubing with exterior control lines is not required prior to April 30, 2018, and any electric-, wire-, and slick-line that is in the hole and sealing the wellbore after shearing. If your blind shear rams are unable to cut any electric-, wire-, or slick-line under MASP as defined for the operation and seal the wellbore, you must use an alternative cutting device capable of shearing the lines before closing the BOP. This device must be available on the rig floor during operations that require their use.

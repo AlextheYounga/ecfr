@@ -1,5 +1,7 @@
 ##### § 208.103 Registration of mortgage loan originators. #####
 
+Link to an amendment published at 84 FR 21692, May 15, 2019.
+
 (a) *Registration requirement* - (1) *Employee registration.* Each employee of a bank who acts as a mortgage loan originator must register with the Registry, obtain a unique identifier, and maintain this registration in accordance with the requirements of this subpart. Any such employee who is not in compliance with the registration and unique identifier requirements set forth in this subpart is in violation of the S.A.F.E. Act and this subpart.
 
 (2) *Bank requirement* - (i) *In general.* A bank that employs one or more individuals who act as a residential mortgage loan originator must require each such employee to register with the Registry, maintain this registration, and obtain a unique identifier in accordance with the requirements of this subpart.

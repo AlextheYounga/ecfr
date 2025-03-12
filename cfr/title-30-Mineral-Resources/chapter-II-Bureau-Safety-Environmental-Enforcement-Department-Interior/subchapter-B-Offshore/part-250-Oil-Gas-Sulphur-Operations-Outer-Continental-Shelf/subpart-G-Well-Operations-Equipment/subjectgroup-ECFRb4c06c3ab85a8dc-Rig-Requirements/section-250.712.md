@@ -1,5 +1,7 @@
 ##### § 250.712 What rig unit movements must I report? #####
 
+Link to an amendment published at 84 FR 21976, May 15, 2019.
+
 (a) You must report the movement of all rig units on and off locations to the District Manager using Form BSEE-0144, Rig Movement Notification Report. Rig units include MODUs, platform rigs, snubbing units, wire-line units used for non-routine operations, and coiled tubing units. You must inform the District Manager 24 hours before:
 
 (1) The arrival of a rig unit on location;

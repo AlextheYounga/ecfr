@@ -1,5 +1,7 @@
 ##### § 250.735 What associated systems and related equipment must all BOP systems include? #####
 
+Link to an amendment published at 84 FR 21981, May 15, 2019.
+
 All BOP systems must include the following associated systems and related equipment:
 
 (a) An accumulator system (as specified in API Standard 53, and incorporated by reference in § 250.198) that provides the volume of fluid capacity (as specified in API Standard 53, Annex C) necessary to close and hold closed all BOP components against MASP. The system must operate under MASP conditions as defined for the operation. You must be able to operate the BOP functions as defined in API Standard 53, without assistance from a charging system, and still have a minimum pressure of 200 psi remaining on the bottles above the pre-charge pressure. If you supply the accumulator regulators by rig air and do not have a secondary source of pneumatic supply, you must equip the regulators with manual overrides or other devices to ensure capability of hydraulic operations if rig air is lost;

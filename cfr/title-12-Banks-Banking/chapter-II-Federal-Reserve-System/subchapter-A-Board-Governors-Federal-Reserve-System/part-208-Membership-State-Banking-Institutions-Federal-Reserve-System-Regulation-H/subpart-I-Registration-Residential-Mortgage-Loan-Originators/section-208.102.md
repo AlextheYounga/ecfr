@@ -1,5 +1,7 @@
 ##### § 208.102 Definitions. #####
 
+Link to an amendment published at 84 FR 21692, May 15, 2019.
+
 For purposes of this subpart I, the following definitions apply:
 
 (a) *Annual renewal period* means November 1 through December 31 of each year.

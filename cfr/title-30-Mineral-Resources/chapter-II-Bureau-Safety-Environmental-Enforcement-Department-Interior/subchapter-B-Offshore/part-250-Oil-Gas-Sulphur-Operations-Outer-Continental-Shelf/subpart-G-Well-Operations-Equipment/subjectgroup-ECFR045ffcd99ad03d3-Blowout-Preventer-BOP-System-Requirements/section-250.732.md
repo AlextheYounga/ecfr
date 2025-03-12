@@ -1,5 +1,7 @@
 ##### § 250.732 What are the BSEE-approved verification organization (BAVO) requirements for BOP systems and system components? #####
 
+Link to an amendment published at 84 FR 21978, May 15, 2019.
+
 (a) BSEE will maintain a list of BSEE-approved verification organizations (BAVOs) on its public website that you must use to satisfy any provision in this subpart that requires a BAVO certification, verification, report, or review. You must comply with all requirements in this subpart for BAVO certification, verification, or reporting no later than 1 year from the date BSEE publishes a list of BAVOs.
 
 (1) Until such time as you use a BAVO to perform the actions that this subpart requires to be performed by a BAVO, but not after 1 year from the date BSEE publishes a list of BAVOs, you must use an independent third-party meeting the criteria specified in paragraph (a)(2) of this section to prepare certifications, verifications, and reports as required by §§ 250.731(c) and (d), 250.732 (b) and (c), 250.734(b)(1), 250.738(b)(4), and 250.739(b).

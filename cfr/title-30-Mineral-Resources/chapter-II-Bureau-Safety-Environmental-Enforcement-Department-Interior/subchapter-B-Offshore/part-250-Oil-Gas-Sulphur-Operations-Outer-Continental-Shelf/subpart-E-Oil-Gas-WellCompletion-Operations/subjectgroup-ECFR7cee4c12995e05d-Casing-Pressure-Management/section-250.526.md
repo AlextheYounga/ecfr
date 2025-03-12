@@ -1,5 +1,7 @@
 ##### § 250.526 What do I submit if my casing diagnostic test requires action? #####
 
+Link to an amendment published at 84 FR 21976, May 15, 2019.
+
 Within 14 days after you perform a casing diagnostic test requiring action under § 250.524:
 
 |        You must submit either . . .        |                      to the appropriate . . .                      |  and it must include . . .  |                                            You must also . . .                                            |

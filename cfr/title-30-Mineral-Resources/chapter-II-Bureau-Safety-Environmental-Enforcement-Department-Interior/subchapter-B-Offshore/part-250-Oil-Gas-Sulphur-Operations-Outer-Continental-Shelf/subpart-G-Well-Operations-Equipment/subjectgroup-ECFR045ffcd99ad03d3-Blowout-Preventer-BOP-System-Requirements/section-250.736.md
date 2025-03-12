@@ -1,5 +1,7 @@
 ##### § 250.736 What are the requirements for choke manifolds, kelly-type valves inside BOPs, and drill string safety valves? #####
 
+Link to an amendment published at 84 FR 21981, May 15, 2019.
+
 (a) Your BOP system must include a choke manifold that is suitable for the anticipated surface pressures, anticipated methods of well control, the surrounding environment, and the corrosiveness, volume, and abrasiveness of drilling fluids and well fluids that you may encounter.
 
 (b) Choke manifold components must have a RWP at least as great as the RWP of the ram BOPs. If your choke manifold has buffer tanks downstream of choke assemblies, you must install isolation valves on any bleed lines.

@@ -1,5 +1,7 @@
 ##### § 250.428 What must I do in certain cementing and casing situations? #####
 
+Link to an amendment published at 84 FR 21974, May 15, 2019.
+
 The table in this section describes actions that lessees must take when certain situations occur during casing and cementing activities.
 
 |                                                                                                         If you encounter the following situation:                                                                                                          |                                                                                                                                                                                                                                                                                                                              Then you must . . .                                                                                                                                                                                                                                                                                                                              |

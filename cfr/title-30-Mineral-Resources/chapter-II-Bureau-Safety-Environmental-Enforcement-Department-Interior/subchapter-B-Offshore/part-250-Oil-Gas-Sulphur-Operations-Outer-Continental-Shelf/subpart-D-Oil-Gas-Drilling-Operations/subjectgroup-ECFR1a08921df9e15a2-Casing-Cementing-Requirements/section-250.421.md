@@ -1,5 +1,7 @@
 ##### § 250.421 What are the casing and cementing requirements by type of casing string? #####
 
+Link to an amendment published at 84 FR 21974, May 15, 2019.
+
 The table in this section identifies specific design, setting, and cementing requirements for casing strings and liners. For the purposes of subpart D, the casing strings in order of normal installation are as follows: drive or structural, conductor, surface, intermediate, and production casings (including liners). The District Manager may approve or prescribe other casing and cementing requirements where appropriate.
 
 |      Casing type      |                                                                                                                                                                                                                                                              Casing requirements                                                                                                                                                                                                                                                              |                                                                                                                                                                                                    Cementing requirements                                                                                                                                                                                                    |

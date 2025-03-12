@@ -1,7 +1,5 @@
 ##### § 73.3555 Multiple ownership. #####
 
-Link to an amendment published at 84 FR 15128, Apr. 15, 2019.
-
 (a)(1) *Local radio ownership rule.* A person or single entity (or entities under common control) may have a cognizable interest in licenses for AM or FM radio broadcast stations in accordance with the following limits:
 
 (i) In a radio market with 45 or more full-power, commercial and noncommercial radio stations, not more than 8 commercial radio stations in total and not more than 5 commercial stations in the same service (AM or FM);
@@ -114,7 +112,7 @@ Paragraphs (a) and (b) of this section will not be applied so as to require dive
 
 Note 5 to § 73.3555:
 
-Paragraphs (b) and (e) of this section will not be applied to cases involving television stations that are “satellite” operations. Such cases will be considered in accordance with the analysis set forth in the Report and Order in MM Docket No. 87-8, FCC 91-182 (released July 8, 1991), in order to determine whether common ownership, operation, or control of the stations in question would be in the public interest. An authorized and operating “satellite” television station, the digital noise limited service contour of which overlaps that of a commonly owned, operated, or controlled “non-satellite” parent television broadcast station may subsequently become a “non-satellite” station under the circumstances described in the aforementioned Report and Order in MM Docket No. 87-8. However, such commonly owned, operated, or controlled “non-satellite” television stations may not be transferred or assigned to a single person, group, or entity except as provided in Note 4 of this section.
+Paragraphs (b) and (e) of this section will not be applied to cases involving television stations that are “satellite” operations. Such cases will be considered in accordance with the analysis set forth in the Report and Order in MM Docket No. 87-8, FCC 91-182 (released July 8, 1991), as further explained by the Report and Order in MB Docket No. 18-63, FCC 19-17, (released March 12, 2019), in order to determine whether common ownership, operation, or control of the stations in question would be in the public interest. An authorized and operating “satellite” television station, the digital noise limited service contour of which overlaps that of a commonly owned, operated, or controlled “non-satellite” parent television broadcast station may subsequently become a “non-satellite” station under the circumstances described in the aforementioned Report and Order in MM Docket No. 87-8. However, such commonly owned, operated, or controlled “non-satellite” television stations may not be transferred or assigned to a single person, group, or entity except as provided in Note 4 of this section.
 
 Note 6 to § 73.3555:
 
@@ -148,4 +146,4 @@ Note 11 to § 73.3555:
 
 An entity will not be permitted to directly or indirectly own, operate, or control two television stations in the same DMA through the execution of any agreement (or series of agreements) involving stations in the same DMA, or any individual or entity with a cognizable interest in such stations, in which a station (the “new affiliate”) acquires the network affiliation of another station (the “previous affiliate”), if the change in network affiliations would result in the licensee of the new affiliate, or any individual or entity with a cognizable interest in the new affiliate, directly or indirectly owning, operating, or controlling two of the top-four rated television stations in the DMA at the time of the agreement. Parties should also refer to the Second Report and Order in MB Docket No. 14-50, FCC 16-107 (released August 25, 2016).
 
-[73 FR 9487, Feb. 21, 2008, as amended at 73 FR 28369, May 16, 2008; 75 FR 27199, May 14, 2010; 79 FR 29006, May 20, 2014; 81 FR 73041, Oct. 24, 2016; 81 FR 76262, Nov. 1, 2016; 82 FR 21127, May 5, 2017; 83 FR 755, Jan. 8, 2018]
+[73 FR 9487, Feb. 21, 2008, as amended at 73 FR 28369, May 16, 2008; 75 FR 27199, May 14, 2010; 79 FR 29006, May 20, 2014; 81 FR 73041, Oct. 24, 2016; 81 FR 76262, Nov. 1, 2016; 82 FR 21127, May 5, 2017; 83 FR 755, Jan. 8, 2018; 84 FR 15128, Apr. 15, 2019]

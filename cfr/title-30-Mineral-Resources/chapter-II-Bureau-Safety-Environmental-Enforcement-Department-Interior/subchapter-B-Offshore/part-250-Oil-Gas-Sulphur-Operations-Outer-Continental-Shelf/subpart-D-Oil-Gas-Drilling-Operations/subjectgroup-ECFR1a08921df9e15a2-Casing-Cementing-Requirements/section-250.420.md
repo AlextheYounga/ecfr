@@ -1,5 +1,7 @@
 ##### § 250.420 What well casing and cementing requirements must I meet? #####
 
+Link to an amendment published at 84 FR 21973, May 15, 2019.
+
 You must case and cement all wells. Your casing and cementing programs must meet the applicable requirements of this subpart and of subpart G of this part.
 
 (a) *Casing and cementing program requirements.* Your casing and cementing programs must:

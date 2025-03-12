@@ -1,5 +1,7 @@
 ##### § 208.104 Policies and procedures. #####
 
+Link to an amendment published at 84 FR 21692, May 15, 2019.
+
 A bank that employs one or more mortgage loan originators must adopt and follow written policies and procedures designed to assure compliance with this subpart. These policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the bank, and apply only to those employees acting within the scope of their employment at the bank. At a minimum, these policies and procedures must:
 
 (a) Establish a process for identifying which employees of the bank are required to be registered mortgage loan originators;

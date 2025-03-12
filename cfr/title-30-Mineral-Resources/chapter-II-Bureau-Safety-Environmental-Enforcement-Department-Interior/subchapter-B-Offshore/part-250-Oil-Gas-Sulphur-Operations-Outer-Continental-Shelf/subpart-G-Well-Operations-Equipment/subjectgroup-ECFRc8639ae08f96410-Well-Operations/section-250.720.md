@@ -1,5 +1,7 @@
 ##### § 250.720 When and how must I secure a well? #####
 
+Link to an amendment published at 84 FR 21976, May 15, 2019.
+
 (a) Whenever you interrupt operations, you must notify the District Manager. Before moving off the well, you must have two independent barriers installed, at least one of which must be a mechanical barrier, as approved by the District Manager. You must install the barriers at appropriate depths within a properly cemented casing string or liner. Before removing a subsea BOP stack or surface BOP stack on a mudline suspension well, you must conduct a negative pressure test in accordance with § 250.721.
 
 (1) The events that would cause you to interrupt operations and notify the District Manager include, but are not limited to, the following:

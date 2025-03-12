@@ -1,7 +1,5 @@
 ##### § 64.2115 Registration of Intermediate Providers. #####
 
-Link to an amendment published at 84 FR 15123, Apr. 15, 2019.
-
 (a) *Registration.* An intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission shall register with the Commission in accordance with this section. The intermediate provider shall provide the following information in its registration:
 
 (1) The intermediate provider's business name(s) and primary address;
@@ -20,4 +18,4 @@ Link to an amendment published at 84 FR 15123, Apr. 15, 2019.
 
 (c) *Changes in information.* An intermediate provider must update its submission to the intermediate provider registry on the Commission's website within 10 business days of any change to the information it must provide pursuant to paragraph (a) of this section.
 
-[83 FR 47308, Sept. 19, 2018]Effective Date Note:At 83 FR 47309, Sept. 19, 2018, § 64.2115 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[83 FR 47308, Sept. 19, 2018]

@@ -1,5 +1,7 @@
 ##### § 250.722 What are the requirements for prolonged operations in a well? #####
 
+Link to an amendment published at 84 FR 21977, May 15, 2019.
+
 If wellbore operations continue within a casing or liner for more than 30 days from the previous pressure test of the well's casing or liner, you must:
 
 (a) Stop operations as soon as practicable, and evaluate the effects of the prolonged operations on continued operations and the life of the well. At a minimum, you must:
