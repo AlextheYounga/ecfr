@@ -1,5 +1,7 @@
 ##### § 217.10 Minimum capital requirements. #####
 
+Link to an amendment published at 84 FR 4242, Feb. 14, 2019.
+
 (a) *Minimum capital requirements.* A Board-regulated institution must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.

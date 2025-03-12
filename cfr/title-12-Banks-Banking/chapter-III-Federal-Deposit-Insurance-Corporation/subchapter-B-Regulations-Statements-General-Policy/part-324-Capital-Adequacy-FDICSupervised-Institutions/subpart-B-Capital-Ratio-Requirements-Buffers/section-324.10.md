@@ -1,5 +1,7 @@
 ##### § 324.10 Minimum capital requirements. #####
 
+Link to an amendment published at 84 FR 4247, Feb. 14, 2019.
+
 (a) *Minimum capital requirements.* An FDIC-supervised institution must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.

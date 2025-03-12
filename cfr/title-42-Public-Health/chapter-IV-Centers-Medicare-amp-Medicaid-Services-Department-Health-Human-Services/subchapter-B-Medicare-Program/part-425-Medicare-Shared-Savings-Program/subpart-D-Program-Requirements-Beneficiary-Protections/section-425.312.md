@@ -1,15 +1,23 @@
-##### § 425.312 Notification to beneficiaries of participation in shared savings program. #####
+##### § 425.312 Beneficiary notifications. #####
 
-Link to an amendment published at 83 FR 68068, December 31, 2018.
+(a) *Notifications to fee-for-service beneficiaries.* (1) An ACO shall ensure that Medicare fee-for-service beneficiaries are notified about all of the following in the manner set forth in paragraph (a)(2) of this section:
 
-(a) ACO participants must notify beneficiaries at the point of care that their ACO providers/suppliers are participating in the Shared Savings Program and of the opportunity to decline claims data sharing under § 425.708.
+(i) That each ACO participant and its ACO providers/suppliers are participating in the Shared Savings Program.
 
-(1) Notification is carried out when an ACO participant posts signs in its facilities and, in settings in which beneficiaries receive primary care services, by making standardized written notices available upon request.
+(ii) The beneficiary's opportunity to decline claims data sharing under § 425.708.
 
-(2) The ACO must use template language developed by CMS for notifications described in paragraph (a)(1) of this section.
+(iii) Beginning July 1, 2019, the beneficiary's ability to, and the process by which, he or she may identify or change identification of the individual he or she designated for purposes of voluntary alignment (as described in § 425.402(e)).
 
-(b) [Reserved]
+(2) Notification of the information specified in paragraph (a)(1) of this section must be carried out through the following methods:
+
+(i) By an ACO participant posting signs in its facilities and, in settings in which beneficiaries receive primary care services, making standardized written notices available upon request.
+
+(ii) During the performance year beginning on July 1, 2019 and each subsequent performance year, by an ACO or ACO participant providing each beneficiary with a standardized written notice prior to or at the first primary care visit of the performance year in the form and manner specified by CMS.
+
+(b) *Beneficiary incentive program notifications.* (1) Beginning July 1, 2019, an ACO that operates a beneficiary incentive program under § 425.304(c) shall ensure that the ACO or its ACO participants notify assigned beneficiaries of the availability of the beneficiary incentive program, including a description of the qualifying services for which an assigned beneficiary is eligible to receive an incentive payment (as described in § 425.304(c)).
+
+(2) Notification of the information specified in paragraph (b)(1) of this section must be carried out by an ACO or ACO participant during each relevant performance year by providing each assigned beneficiary with a standardized written notice prior to or at the first primary care visit of the performance year in the form and manner specified by CMS.
 
 (c) The beneficiary notifications under this section meet the definition of marketing materials and activities under § 425.20 and therefore must meet all applicable marketing requirements described in § 425.310.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 83 FR 68068, Dec. 31, 2018]

@@ -1,5 +1,7 @@
 ##### § 211.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4241, Feb. 14, 2019.
+
 Unless otherwise specified, for purposes of this subpart:
 
 (a) An *affiliate* of an organization means:

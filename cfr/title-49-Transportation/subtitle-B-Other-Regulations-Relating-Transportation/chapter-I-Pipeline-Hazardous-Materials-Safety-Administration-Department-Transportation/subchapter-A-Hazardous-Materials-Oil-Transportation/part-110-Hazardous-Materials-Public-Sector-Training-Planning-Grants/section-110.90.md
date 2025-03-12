@@ -1,5 +1,7 @@
 ##### § 110.90 Grant monitoring, reports, and records retention. #####
 
+Link to an amendment published at 84 FR 4000, Feb. 14, 2019.
+
 (a) *Grant monitoring.* Project managers are responsible for managing the day-to-day operations of grant, subgrant and contract-supported activities. Project managers must monitor performance of supported activities to assure compliance with applicable Federal requirements and achievement of performance goals. Monitoring must cover each program, function, activity, or task covered by the grant. Monitoring and reporting requirements for planning and training are contained in this part; general grant reporting requirements are specified in 49 CFR 18.40.
 
 (b) *Reports.* (1) The project manager shall submit a performance report at the completion of an activity for which reimbursement is being requested or with a request to amend the grant. The final performance report is due 90 days after the expiration or termination of the grant.

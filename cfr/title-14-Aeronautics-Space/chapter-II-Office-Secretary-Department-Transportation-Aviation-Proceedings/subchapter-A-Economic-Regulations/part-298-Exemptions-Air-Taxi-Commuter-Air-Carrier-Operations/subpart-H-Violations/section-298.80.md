@@ -1,7 +1,25 @@
-##### § 298.80 Enforcement. #####
+##### § 298.80 Disclosures. #####
 
-Link to an amendment published at 83 FR 46877, September 17, 2018.
+(a) Before entering a contract for a specific flight or series of flights with charterers, air taxi operators and commuter air carriers must disclose to the charterer the information in paragraphs (a)(1) and (2) of this section. Before entering a contract for a specific flight or series of flights with charterers, air taxi operators and commuter air carriers must, upon request of the charterer, disclose to the charterer the information in paragraphs (a)(3), (4), and (5) of this section. The disclosures may be accomplished through electronic transmissions.
 
-In case of any violation of the provisions of the Statute, or this part, or any other rule, regulation, or order issued under the Statute, the violator may be subject to a proceeding pursuant to section 46101 of the Statute before the Department, or sections 46106 through 46108 of the Statute before a U.S. District Court, as the case may be, to compel compliance therewith; or to civil penalties pursuant to the provisions of section 46301 of the Statute; or, in the case of a willful violation, to criminal penalties pursuant to the provisions of section 46316 of the Statute; or other lawful sanctions including revocation of operating authority.
+(1) That the flight will be performed by another direct air carrier or direct foreign air carrier if that is the case. The corporate name of the direct air carrier or direct foreign air carrier in operational control of the aircraft on which the air transportation is to be performed and any other names in which that direct carrier holds itself out to the public.
 
-[ER-929, 40 FR 42855, Sept. 17, 1975, as amended at 60 FR 43528, Aug. 22, 1995]
+(2) If the flight is to be performed by another direct air carrier or direct foreign air carrier, the capacity in which the air taxi operator or commuter air carrier is acting in contracting for the air transportation, *i.e.,* as a principal, as an agent of the charterer, or as an agent of the direct air carrier that will be in operational control of the flight.
+
+(3) If the flight is to be performed by another direct air carrier or foreign direct air carrier and the air taxi operator or commuter air carrier is acting as the agent of the charterer, the air taxi operator or commuter air carrier must disclose the existence of any corporate or business relationship, including a preexisting contract, between the air taxi operator or commuter air carrier and the direct carrier that will be in operational control of the flight that may have a bearing on the air taxi operator's or commuter air carrier's selection of the direct carrier that will be in operational control of the flight.
+
+(4) The total cost of the air transportation paid by the charterer to or through the air taxi operator or commuter air carrier, including any carrier-imposed fees or government-imposed taxes and fees. Specific individual fees, taxes, or costs may, but are not required to be itemized.
+
+(5) The existence of any fees and their amounts collected by third parties, if known (or a good faith estimate if not known), including fuel, landing fees, and aircraft parking or hangar fees for which the charterer will be responsible for paying directly.
+
+(b) If any of the information in paragraph (a) of this section that is required to be disclosed to the charterer or requested by the charterer to be disclosed is not known at the time the contract is entered into or changes thereafter, air taxi operators and commuter air carriers must provide the information to the charterer within a reasonable time after such information becomes available to the air taxi operator or commuter air carrier, such that the charterer has enough time to make an informed decision as to whether to accept the additional information or accept the change.
+
+(c) If the information in paragraph (a) of this section that is required to be disclosed to the charterer or requested by the charterer to be disclosed is not provided to the charterer within a reasonable time after such information becomes available to the air taxi operator or commuter air carrier, air taxi operators and commuter air carriers must provide the charterer with the opportunity to cancel the contract for air transportation, including any services in connection with such contract, and receive a full refund of any monies paid for the charter air transportation and services.
+
+(d) Except in exigent circumstances particular to a passenger, air taxi operators and commuter air carriers must disclose prior to the start of the air transportation the information in paragraph (a) of this section that is required or requested to be disclosed.
+
+(e) If the information in paragraph (a) of this section that is required to be disclosed to the charterer or requested by the charterer to be disclosed changes after the air transportation covered by the contract has begun, air taxi operators and commuter air carriers must provide information regarding any such changes to the charterer within a reasonable time after such information becomes available to the air taxi operator or commuter air carrier.
+
+(f) If the changes in information described in paragraph (e) of this section are not provided to the charterer within a reasonable time after becoming available to the air taxi operator or commuter air carrier, air taxi operators and commuter air carriers must provide the charterer with the opportunity to cancel the remaining portion of the contract for charter air transportation, including any services paid for in connection with such contract, and receive a full refund of any monies paid for the charter air transportation and services not yet provided.
+
+[Dockt. No. DOT-OST-2007-27057, 83 FR 46877, Sept. 17, 2018]

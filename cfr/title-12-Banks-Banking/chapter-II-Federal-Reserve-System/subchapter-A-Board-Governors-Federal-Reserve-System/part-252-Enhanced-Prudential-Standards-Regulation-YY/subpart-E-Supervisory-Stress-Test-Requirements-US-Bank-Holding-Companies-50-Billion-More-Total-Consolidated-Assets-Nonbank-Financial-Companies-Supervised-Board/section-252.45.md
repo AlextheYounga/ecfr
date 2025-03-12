@@ -1,5 +1,7 @@
 ##### § 252.45 Data and information required to be submitted in support of the Board's analyses. #####
 
+Link to an amendment published at 84 FR 4245, Feb. 14, 2019.
+
 (a) *Regular submissions.* Each covered company must submit to the Board such data, on a consolidated basis, that the Board determines is necessary in order for the Board to derive the relevant pro forma estimates of the covered company over the planning horizon under the scenarios described in § 252.44(b).
 
 (b) *Additional submissions required by the Board.* The Board may require a covered company to submit any other information on a consolidated basis that the Board deems necessary in order to:

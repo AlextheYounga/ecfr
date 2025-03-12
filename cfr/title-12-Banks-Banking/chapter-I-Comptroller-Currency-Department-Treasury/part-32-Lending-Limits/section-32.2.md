@@ -1,5 +1,7 @@
 ##### § 32.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4240, Feb. 14, 2019.
+
 (a) *Appropriate Federal banking agency* has the same meaning as in 12 U.S.C. 1813(q).
 
 (b) *Borrower* means a person who is named as a borrower or debtor in a loan or extension of credit; a person to whom a national bank or savings association has credit exposure arising from a derivative transaction or a securities financing transaction, entered by the bank or savings association; or any other person, including a drawer, endorser, or guarantor, who is deemed to be a borrower under the “direct benefit” or the “common enterprise” tests set forth in § 32.5.

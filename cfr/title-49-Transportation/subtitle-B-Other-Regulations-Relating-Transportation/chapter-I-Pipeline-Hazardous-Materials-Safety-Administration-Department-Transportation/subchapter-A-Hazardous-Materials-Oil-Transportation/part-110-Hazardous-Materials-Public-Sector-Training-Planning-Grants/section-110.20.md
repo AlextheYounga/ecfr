@@ -1,5 +1,7 @@
 ##### § 110.20 Definitions. #####
 
+Link to an amendment published at 84 FR 3999, Feb. 14, 2019.
+
 Unless defined in this part, all terms defined in 49 U.S.C. 5102 are used in their statutory meaning and all terms defined in 49 CFR part 18 and OMB Circular A-102, with respect to administrative requirements for grants, are used as defined therein. Other terms used in this part are defined as follows:
 
 *Allowable costs* means those costs that are: eligible, reasonable, necessary, and allocable to the project permitted by the appropriate Federal cost principles, and approved in the grant.

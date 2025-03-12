@@ -1,5 +1,7 @@
 ##### § 324.173 Disclosures by certain advanced approaches FDIC-supervised institutions. #####
 
+Link to an amendment published at 84 FR 4247, Feb. 14, 2019.
+
 (a)(1) An advanced approaches FDIC-supervised institution described in § 324.172(b) must make the disclosures described in Tables 1 through 12 to § 324.173.
 
 (2) An advanced approaches FDIC-supervised institution that is required to publicly disclose its supplementary leverage ratio pursuant to § 324.172(d) must make the disclosures required under Table 13 to § 324.173, unless the FDIC-supervised institution is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosures requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.

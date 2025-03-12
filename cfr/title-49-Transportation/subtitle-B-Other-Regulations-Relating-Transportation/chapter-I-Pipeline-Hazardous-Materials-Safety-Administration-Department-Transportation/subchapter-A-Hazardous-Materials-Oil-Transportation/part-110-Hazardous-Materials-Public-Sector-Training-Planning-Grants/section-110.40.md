@@ -1,5 +1,7 @@
 ##### § 110.40 Activities eligible for funding. #####
 
+Link to an amendment published at 84 FR 4000, Feb. 14, 2019.
+
 (a) *Planning.* Eligible State applicants may receive funding for the following activities:
 
 (1) Development, improvement, and implementation of emergency plans required under the Emergency Planning and Community Right-to-Know Act of 1986, as well as exercises which test the emergency plan. Enhancement of emergency plans to include hazard analysis as well as response procedures for emergencies involving transportation of hazardous materials, including radioactive materials.

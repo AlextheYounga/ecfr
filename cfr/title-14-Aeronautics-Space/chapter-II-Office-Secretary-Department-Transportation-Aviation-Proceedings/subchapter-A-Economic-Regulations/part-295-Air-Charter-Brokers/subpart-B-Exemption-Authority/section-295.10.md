@@ -1,0 +1,3 @@
+##### § 295.10 Grant of economic authority; exemption from the statute. #####
+
+To the extent necessary to permit air charter brokers, acting as indirect air carriers or foreign indirect air carriers, to hold out, sell, and undertake to arrange single entity charter air transportation, such air charter brokers are exempted from the following provisions of Subtitle VII of Title 49 of the United States Code, except for the provisions noted, only if and so long as they comply with the provisions and the conditions imposed by this part: 49 U.S.C. 41101-41113, 49 U.S.C. 41301-41313, and 49 U.S.C. 41501-41511. Air charter brokers are not exempt from the following provision: 49 U.S.C. 41310 (nondiscrimination) with respect to foreign air transportation.

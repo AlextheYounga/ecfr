@@ -1,6 +1,6 @@
 ##### § 327.16 Assessment pricing methods - beginning the first assessment period after June 30, 2016, where the reserve ratio of the DIF as of the end of the prior assessment period has reached or exceeded 1.15 percent. #####
 
-Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
+Link to an amendment published at 84 FR 1353, Feb. 4, 2019.Link to an amendment published at 84 FR 4249, Feb. 14, 2019.
 
 (a) *Established small institutions.* Beginning the first assessment period after June 30, 2016, where the reserve ratio of the DIF as of the end of the prior assessment period has reached or exceeded 1.15 percent, and for all subsequent assessment periods, an established small institution shall have its initial base assessment rate determined by using the financial ratios methods set forth in paragraph (a)(1) of this section.
 

@@ -1,5 +1,7 @@
 ##### § 110.30 Grant application. #####
 
+Link to an amendment published at 84 FR 4000, Feb. 14, 2019.
+
 (a) *General.* An applicant for a planning or training grant shall use only the standard application forms approved by the Office of Management and Budget (OMB) (SF-424 and SF-424A) under the Paperwork Reduction Act of 1980 (44 U.S.C. 3502). Applicants are required to submit an original and two copies of the application package to: Grants Manager, Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation, East Building, 1200 New Jersey Avenue, SE., Washington, DC 20590-0001. Applications received on or before January 1st and July 1st of each year will be considered in that cycle of the semi-annual review and award process. An initial round of the review and award process will consider applications received on or before November 15, 1992. Requests and continuation applications must include an original and two copies of the affected pages; previously submitted pages with information that is still current do not have to be resubmitted. The application must include the following:
 
 (1) Application for Federal Assistance for non-construction programs (SF-424) and Budget sheets (SF-424A). A single application may be used for both planning and training if the budgets for each are entered separately on all budget sheets.

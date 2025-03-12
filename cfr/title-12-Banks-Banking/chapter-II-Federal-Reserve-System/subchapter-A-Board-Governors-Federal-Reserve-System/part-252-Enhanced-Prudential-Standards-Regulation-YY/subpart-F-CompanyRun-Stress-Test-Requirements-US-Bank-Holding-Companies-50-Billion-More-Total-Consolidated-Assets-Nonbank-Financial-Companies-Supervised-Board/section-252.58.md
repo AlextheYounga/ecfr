@@ -1,5 +1,7 @@
 ##### § 252.58 Disclosure of stress test results. #####
 
+Link to an amendment published at 84 FR 4246, Feb. 14, 2019.
+
 (a) *Public disclosure of results* - (1) *In general.* (i) A covered company must publicly disclose a summary of the results of the stress test required under § 252.54 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(c) of this part, unless that time is extended by the Board in writing.
 
 (ii) A covered company must publicly disclose a summary of the results of the stress test required under § 252.55. This disclosure must occur in the period beginning on October 5 and ending on November 4 of the calendar year in which the stress test is performed pursuant to § 252.55, unless that time is extended by the Board in writing.

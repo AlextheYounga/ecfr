@@ -1,10 +1,8 @@
 ##### § 425.612 Waivers of payment rules or other Medicare requirements. #####
 
-Link to an amendment published at 83 FR 68080, December 31, 2018.
-
 (a) *General.* CMS may waive certain payment rules or other Medicare requirements as determined necessary to carry out the Shared Savings Program under this part.
 
-(1) *SNF 3-day rule.* For performance year 2017 and subsequent performance years, CMS waives the requirement in section 1861(i) of the Act for a 3-day inpatient hospital stay prior to a Medicare-covered post-hospital extended care service for eligible beneficiaries prospectively assigned to ACOs participating in Track 3, and as provided in paragraph (a)(1)(iv) of this section during a grace period for beneficiaries excluded from prospective assignment to a Track 3 ACO, who receive otherwise covered post-hospital extended care services furnished by an eligible SNF that has entered into a written agreement to partner with the ACO for purposes of this waiver. All other provisions of the statute and regulations regarding Medicare Part A post-hospital extended care services continue to apply.
+(1) *SNF 3-day rule.* For performance year 2017 and subsequent performance years, CMS waives the requirement in section 1861(i) of the Act for a 3-day inpatient hospital stay prior to a Medicare-covered post-hospital extended care service for eligible beneficiaries assigned to ACOs participating in a two-sided model and as provided in paragraph (a)(1)(iv) of this section during a grace period for beneficiaries excluded from prospective assignment to an ACO in a two-sided model, who receive otherwise covered post-hospital extended care services furnished by an eligible SNF that has entered into a written agreement to partner with the ACO for purposes of this waiver. Eligible SNFs include providers furnishing SNF services under swing bed agreements. All other provisions of the statute and regulations regarding Medicare Part A post-hospital extended care services continue to apply. ACOs identified under paragraph (a)(1)(vi) of this section may request to use the SNF 3-day rule waiver for performance years beginning on July 1, 2019, and in subsequent years.
 
 (i) ACOs must submit to CMS supplemental application information sufficient to demonstrate the ACO has the capacity to identify and manage beneficiaries who would be either directly admitted to a SNF or admitted to a SNF after an inpatient hospitalization of fewer than 3-days in the form and manner specified by CMS. Application materials include but are not limited to, the following:
 
@@ -20,23 +18,25 @@ Link to an amendment published at 83 FR 68080, December 31, 2018.
 
 (ii) In order to be eligible to receive covered SNF services under the waiver, a beneficiary must meet the following requirements:
 
-(A) Is prospectively assigned to the ACO for the performance year in which they are admitted to the eligible SNF.
+(A) In the case of a beneficiary who is assigned to an ACO that has selected preliminary prospective assignment with retrospective reconciliation under § 425.400(a)(2), the beneficiary must appear on the list of preliminarily prospectively assigned beneficiaries at the beginning of the performance year or on the first, second, or third quarterly preliminary prospective assignment list for the performance year in which they are admitted to the eligible SNF, and the SNF services must be provided after the beneficiary first appeared on the preliminary prospective assignment list for the performance year.
 
-(B) Does not reside in a SNF or other long-term care setting.
+(B) In the case of a beneficiary who is assigned to an ACO that has selected prospective assignment under § 425.400(a)(3), the beneficiary must be prospectively assigned to the ACO for the performance year in which they are admitted to the eligible SNF.
 
-(C) Is medically stable.
+(C) Does not reside in a SNF or other long-term care setting.
 
-(D) Does not require inpatient or further inpatient hospital evaluation or treatment.
+(D) Is medically stable.
 
-(E) Have certain and confirmed diagnoses.
+(E) Does not require inpatient or further inpatient hospital evaluation or treatment.
 
-(F) Have an identified skilled nursing or rehabilitation need that cannot be provided as an outpatient.
+(F) Have certain and confirmed diagnoses.
 
-(G) Have been evaluated and approved for admission to the SNF within 3 days prior to the SNF admission by an ACO provider/supplier who is a physician, consistent with the ACO's beneficiary evaluation and admission plan.
+(G) Have an identified skilled nursing or rehabilitation need that cannot be provided as an outpatient.
+
+(H) Have been evaluated and approved for admission to the SNF within 3 days prior to the SNF admission by an ACO provider/supplier who is a physician, consistent with the ACO's beneficiary evaluation and admission plan.
 
 (iii) SNFs eligible to partner and enter into written agreements with ACOs for purposes of this waiver must do the following:
 
-(A) Have and maintain an overall rating of 3 or higher under the CMS 5-star Quality Rating System.
+(A) Providers eligible to be included in the CMS 5-star Quality Rating System must have and maintain an overall rating of 3 or higher.
 
 (B) Sign a SNF affiliate agreement with the ACO that includes elements determined by CMS including but not limited to the following:
 
@@ -50,27 +50,37 @@ Link to an amendment published at 83 FR 68080, December 31, 2018.
 
 (*5*) Remedial processes and penalties that will apply for non-compliance.
 
-(iv) For a beneficiary who was included on the prospective assignment list under § 425.400(a)(3) for a performance year for a Track 3 ACO for which a waiver of the SNF 3-day rule has been approved under paragraph (a)(1) of this section, but who was subsequently excluded from the ACO's prospective assignment list, CMS makes payment for SNF services furnished to the beneficiary by a SNF affiliate if the following conditions are met:
+(iv) For a beneficiary who was included on the ACO's prospective assignment list or preliminary prospective assignment list at the beginning of the performance year or on the first, second, or third quarterly preliminary prospective assignment list for the performance year, for an ACO for which a waiver of the SNF 3-day rule has been approved under paragraph (a)(1) of this section, but who was subsequently removed from the assignment list for the performance year, CMS makes payment for SNF services furnished to the beneficiary by a SNF affiliate if the following conditions are met:
 
-(A) The beneficiary was prospectively assigned to the ACO at the beginning of the applicable performance year but was excluded in the most recent quarterly update to the prospective assignment list under § 425.401(b).
+(A)(*1*) The beneficiary was prospectively assigned to an ACO that selected prospective assignment under § 425.400(a)(3) at the beginning of the applicable performance year, but was excluded in the most recent quarterly update to the assignment list under § 425.401(b), and the beneficiary was admitted to a SNF affiliate within 90 days following the date that CMS delivered the quarterly exclusion list to the ACO; or
 
-(B) The SNF services are furnished to a beneficiary who was admitted to a SNF affiliate within 90 days following the date that CMS delivers the quarterly exclusion list to the ACO.
+(*2*) The beneficiary was identified as preliminarily prospectively assigned to an ACO that has selected preliminary prospective assignment with retrospective reconciliation under § 425.400(a)(2) in the report provided under § 425.702(c)(1)(ii)(A) at the beginning of the performance year or for the first, second, or third quarter of the performance year, the SNF services were provided after the beneficiary first appeared on the preliminary prospective assignment list for the performance year, and the beneficiary meets the criteria to be assigned to an ACO under § 425.401(a)(1) and (2).
 
-(C) But for the beneficiary's exclusion from the ACO's prospective assignment list, CMS would have made payment to the SNF affiliate for such services under the waiver under paragraph (a)(1) of this section.
+(B) But for the beneficiary's removal from the ACO's assignment list, CMS would have made payment to the SNF affiliate for such services under the waiver under paragraph (a)(1) of this section.
 
-(v) The following beneficiary protections apply when a beneficiary receives SNF services without a prior 3-day inpatient hospital stay from a SNF affiliate that intended to provide services pursuant to a SNF 3-day rule waiver under paragraph (a)(1) of this section, but the beneficiary was not prospectively assigned to the ACO and was not in the 90 day grace period under paragraph (a)(1)(iv) of this section. The SNF affiliate services must be non-covered only because the SNF affiliate stay was not preceded by a qualifying hospital stay under section 1861(i) of the Act.
+(v) The following beneficiary protections apply when a beneficiary receives SNF services without a prior 3-day inpatient hospital stay from a SNF affiliate that intended to provide services under a SNF 3-day rule waiver under paragraph (a)(1) of this section, the SNF affiliate services were non-covered only because the SNF affiliate stay was not preceded by a qualifying hospital stay under section 1861(i) of the Act, and in the case of a beneficiary where the ACO selected one of the following:
 
-(A) A SNF is presumed to intend to provide services pursuant to the SNF 3-day rule waiver under paragraph (a)(1) of this section if the SNF submitting the claim is a SNF affiliate of an ACO for which such a waiver has been approved.
+(A) Prospective assignment under § 425.400(a)(3), the beneficiary was not prospectively assigned to the ACO for the performance year in which they received the SNF services, or was prospectively assigned but was later excluded and the 90-day grace period, described in paragraph (a)(1)(iv)(A) of this section, has lapsed.
 
-(B) CMS makes no payments for SNF services to a SNF affiliate of an ACO for which a waiver of the SNF 3-day rule has been approved when the SNF affiliate admits a FFS beneficiary who was never prospectively assigned to the ACO or was prospectively assigned but was later excluded and the 90 day grace period under paragraph (a)(1)(iv) of this section has lapsed.
+(B) Preliminary prospective assignment with retrospective reconciliation under § 425.400(a)(2), the beneficiary was not identified as preliminarily prospectively assigned to the ACO for the performance year in the report provided under § 425.702(c)(1)(ii)(A) at the beginning of the performance year or for the first, second, or third quarter of the performance year before the SNF services were provided to the beneficiary.
 
-(C) In the event that CMS makes no payment for SNF services furnished by a SNF affiliate as a result of paragraph (a)(1)(v)(B) of this section and the only reason the claim was non-covered is due to the lack of a qualifying inpatient stay, the following beneficiary protections will apply:
+(C) A SNF is presumed to intend to provide services pursuant to the SNF 3-day rule waiver under paragraph (a)(1) of this section if the SNF submitting the claim is a SNF affiliate of an ACO for which such a waiver has been approved.
+
+(D) CMS makes no payments for SNF services to a SNF affiliate of an ACO for which a waiver of the SNF 3-day rule has been approved when the SNF affiliate admits a FFS beneficiary who was not prospectively or preliminarily prospectively assigned to the ACO prior to the SNF admission or was prospectively assigned but was later excluded and the 90-day grace period under paragraph (a)(1)(iv)(A) of this section has lapsed.
+
+(E) In the event that CMS makes no payment for SNF services furnished by a SNF affiliate as a result of paragraph (a)(1)(v)(B) of this section and the only reason the claim was non-covered is due to the lack of a qualifying inpatient stay, the following beneficiary protections will apply:
 
 (*1*) The SNF must not charge the beneficiary for the expenses incurred for such services; and
 
 (*2*) The SNF must return to the beneficiary any monies collected for such services; and
 
 (*3*) The ACO may be required to submit a corrective action plan under § 425.216(b) for CMS approval. If after being given an opportunity to act upon the corrective action plan the ACO fails to come into compliance with the requirements of paragraph (a)(1), approval for the SNF 3-day rule waiver under this section will be terminated as provided under paragraph (d) of this section.
+
+(vi) The following ACOs may request to use the SNF 3-day rule waiver:
+
+(A) An ACO participating in performance-based risk within the BASIC track under § 425.605.
+
+(B) An ACO participating in the ENHANCED track under § 425.610.
 
 (2) [Reserved]
 
@@ -118,4 +128,12 @@ Link to an amendment published at 83 FR 68080, December 31, 2018.
 
 (3) ACOs must ensure compliance with all claims submission requirements, except those expressly waived under paragraph (a) of this section.
 
-[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016; 82 FR 53371, Nov. 15, 2017]
+(f) *Waiver for payment for telehealth services.* For performance year 2020 and subsequent performance years, CMS waives the originating site requirements in section 1834(m)(4)(C)(i) and (ii) of the Act and makes payment for telehealth services furnished to a beneficiary, if the following conditions are met:
+
+(1) The beneficiary was prospectively assigned to an ACO that is an applicable ACO for purposes of § 425.613 at the beginning of the applicable performance year, but the beneficiary was excluded in the most recent quarterly update to the prospective assignment list under § 425.401(b).
+
+(2) The telehealth services are provided by a physician or practitioner billing under the TIN of an ACO participant in the ACO within 90 days following the date CMS delivers the quarterly exclusion list to the ACO.
+
+(3) But for the beneficiary's exclusion from the ACO's prospective assignment list, CMS would have made payment to the ACO participant for such services under § 425.613.
+
+[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016; 82 FR 53371, Nov. 15, 2017; 83 FR 68080, Dec. 31, 2018]

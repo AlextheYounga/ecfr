@@ -1,7 +1,5 @@
 ##### § 425.204 Content of the application. #####
 
-Link to an amendment published at 83 FR 68063, December 31, 2018.
-
 (a) *Accountability for beneficiaries.* As part of its application and participation agreement, the ACO must certify that the ACO, its ACO participants, and its ACO providers/suppliers have agreed to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) *Disclosure of prior participation.* (1) The ACO must disclose to CMS whether the ACO, its ACO participants, or its ACO providers/suppliers have participated in the Medicare Shared Savings Program under the same or a different name, or is related to or has an affiliation with another Shared Savings Program ACO.
@@ -82,17 +80,73 @@ Link to an amendment published at 83 FR 68063, December 31, 2018.
 
 (f) *Assurance of ability to repay.* (1) An ACO must have the ability to repay all shared losses for which it may be liable under a two-sided model.
 
-(i) As part of the application or participation agreement renewal process, an ACO that is seeking to participate under a two-sided model of the Shared Savings Program must submit for CMS approval documentation that it is capable of repaying shared losses that it may incur during the agreement period.
+(2) An ACO that will participate in a two-sided model must establish one or more of the following repayment mechanisms in an amount and by a deadline specified by CMS in accordance with this section:
 
-(ii) The documentation specified in paragraph (f)(1)(i) of this section must include details supporting the adequacy of the mechanism for repaying shared losses equal to at least 1 percent of the ACO's total per capita Medicare parts A and B fee-for-service expenditures for its assigned beneficiaries based on expenditures used to calculate the benchmark for the applicable agreement period, as estimated by CMS at the time of application or participation agreement renewal.
+(i) An escrow account with an insured institution.
 
-(2) An ACO may demonstrate its ability to repay shared losses by placing funds in escrow, obtaining a surety bond, establishing a line of credit (as evidenced by a letter of credit that the Medicare program can draw upon), or establishing a combination of such repayment mechanisms, that will ensure its ability to repay the Medicare program.
+(ii) A surety bond from a company included on the U.S. Department of Treasury's List of Certified Companies.
 
-(3) An ACO participating under a two-sided model must demonstrate the adequacy of this repayment mechanism prior to the start of each agreement period in which it takes risk, and upon request thereafter. After the repayment mechanism has been used to repay any portion of shared losses owed to CMS, the ACO must replenish the amount of funds available through the repayment mechanism within 90 days.
+(iii) A line of credit at an insured institution (as evidenced by a letter of credit that the Medicare program can draw upon).
 
-(4) The repayment mechanism must be in effect for a sufficient period of time after the conclusion of the agreement period to permit CMS to calculate the amount of shared losses owed and to collect this amount from the ACO.
+(3) An ACO that will participate under a two-sided model of the Shared Savings Program must submit for CMS approval documentation that it is capable of repaying shared losses that it may incur during its agreement period, including details supporting the adequacy of the repayment mechanism.
 
-(g) *Consideration of claims billed under merged and acquired entities' TINs.* An ACO may request that CMS consider, for purposes of beneficiary assignment and establishing the ACO's benchmark under § 425.602, claims billed under the TINs of entities that have been acquired through sale or merger by an ACO participant.
+(i) An ACO participating in Track 2 must demonstrate the adequacy of its repayment mechanism at such times as requested by CMS.
+
+(ii) An ACO entering an agreement period in Levels C, D, or E of the BASIC track or the ENHANCED track must demonstrate the adequacy of its repayment mechanism prior to the start of its agreement period and at such other times as requested by CMS.
+
+(iii) An ACO entering an agreement period in Level A or Level B of the BASIC track must demonstrate the adequacy of its repayment mechanism prior to the start of any performance year in which it either elects to participate in, or is automatically transitioned to a two-sided model, Level C, Level D, or Level E, of the BASIC track, and at such other times as requested by CMS.
+
+(iv) An ACO that has submitted a request to renew its participation agreement must submit as part of the renewal request documentation demonstrating the adequacy of the repayment mechanism that could be used to repay any shared losses incurred for performance years in the next agreement period. The repayment mechanism applicable to the new agreement period may be the same repayment mechanism currently used by the ACO, provided that the ACO submits documentation establishing that the amount and duration of the existing repayment mechanism have been revised to comply with paragraphs (f)(6)(i) and (ii) of this section.
+
+(4) CMS calculates the amount of the repayment mechanism as follows:
+
+(i) For a Track 2 ACO, the repayment mechanism amount must be equal to at least 1 percent of the total per capita Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries, based on expenditures used to calculate the benchmark for the applicable agreement period, as estimated by CMS at the time of application.
+
+(ii) For a BASIC track or ENHANCED track ACO, the repayment mechanism amount must be equal to the lesser of the following:
+
+(A) One percent of the total per capita Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries, based on expenditures for the most recent calendar year for which 12 months of data are available.
+
+(B) Two percent of the total Medicare Parts A and B fee-for-service revenue of its ACO participants, based on revenue for the most recent calendar year for which 12 months of data are available.
+
+(iii) For agreement periods beginning on or after July 1, 2019, CMS recalculates the ACO's repayment mechanism amount before the second and each subsequent performance year in the agreement period in accordance with this section based on the certified ACO participant list for the relevant performance year.
+
+(A) If the recalculated repayment mechanism amount exceeds the existing repayment mechanism amount by at least 50 percent or $1,000,000, whichever is the lesser value, CMS notifies the ACO in writing that the amount of its repayment mechanism must be increased to the recalculated repayment mechanism amount.
+
+(B) Within 90 days after receipt of such written notice from CMS, the ACO must submit for CMS approval documentation that the amount of its repayment mechanism has been increased to the amount specified by CMS.
+
+(iv) In the case of an ACO that has submitted a request to renew its participation agreement and wishes to use its existing repayment mechanism to establish its ability to repay any shared losses incurred for performance years in the new agreement period, the amount of the repayment mechanism must be equal to the greater of the following:
+
+(A) The amount calculated by CMS in accordance with paragraph (f)(4)(ii) of this section.
+
+(B) The repayment mechanism amount that the ACO was required to maintain during the last performance year of the participation agreement it seeks to renew.
+
+(5) After the repayment mechanism has been used to repay any portion of shared losses owed to CMS, the ACO must replenish the amount of funds available through the repayment mechanism within 90 days.
+
+(6) The repayment mechanism must be in effect for the duration of the ACO's participation under a two-sided model plus 12 months following the conclusion of the agreement period, except as otherwise specified in this section.
+
+(i) For an ACO that is establishing a new repayment mechanism to meet this requirement, the repayment mechanism must satisfy one of the following criteria:
+
+(A) The repayment mechanism covers the entire duration of the ACO's participation under a two-sided risk model plus 12 months following the conclusion of the agreement period.
+
+(B) The repayment mechanism covers a term of at least the first two performance years in which the ACO is participating under a two-sided model and provides for automatic, annual 12-month extensions of the repayment mechanism such that the repayment mechanism will eventually remain in effect for the duration of the agreement period plus 12 months following the conclusion of the agreement period.
+
+(ii) For a renewing ACO that wishes to use its existing repayment mechanism to establish its ability to repay any shared losses incurred for performance years in the new agreement period, the existing repayment mechanism must be amended to meet one of the following criteria.
+
+(A) The duration of the existing repayment mechanism is extended by an amount of time that covers the duration of the new agreement period plus 12 months following the conclusion of the new agreement period.
+
+(B) The duration of the existing repayment mechanism is extended, if necessary, to cover a term of at least the first two performance years of the new agreement period and provides for automatic, annual 12-month extensions of the repayment mechanism such that the repayment mechanism will eventually remain in effect for the duration of the new agreement period plus 12 months following the conclusion of the new agreement period.
+
+(iii) CMS may require the ACO to extend the duration of the repayment mechanism if necessary to ensure that the ACO fully repays CMS any shared losses for each of the performance years of the agreement period.
+
+(iv) The repayment mechanism may be terminated at the earliest of the following conditions:
+
+(A) The ACO has fully repaid CMS any shared losses owed for each of the performance years of the agreement period under a two-sided model.
+
+(B) CMS has exhausted the amount reserved by the ACO's repayment mechanism and the arrangement does not need to be maintained to support the ACO's participation under the Shared Savings Program.
+
+(C) CMS determines that the ACO does not owe any shared losses under the Shared Savings Program for any of the performance years of the agreement period.
+
+(g) *Consideration of claims billed under merged and acquired entities' TINs.* An ACO may request that CMS consider, for purposes of beneficiary assignment and establishing the ACO's benchmark under § 425.601, § 425.602, or § 425.603, claims billed under the TINs of entities that have been acquired through sale or merger by an ACO participant.
 
 (1) The ACO may include an acquired entity's TIN on its ACO participant list under the following circumstances:
 
@@ -114,4 +168,4 @@ Link to an amendment published at 83 FR 68063, December 31, 2018.
 
 (ii) Documentation sufficient to demonstrate that the acquired entity's TIN was merged with or purchased by the ACO participant.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018]

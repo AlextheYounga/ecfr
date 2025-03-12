@@ -1,0 +1,3 @@
+##### § 295.1 Purpose. #####
+
+Air charter brokers, defined as an indirect air carrier, foreign indirect air carrier or a bona fide agent, provide indirect air transportation of passengers on single entity charters aboard large and small aircraft. This part grants exemptions to such air charter brokers from certain provisions of Subtitle VII of Title 49 of the United States Code (Transportation), and establishes rules, including consumer protection provisions, for the provision of such air transportation by air charter brokers.

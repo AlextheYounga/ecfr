@@ -1,0 +1,5 @@
+##### § 295.23 Advertising. #####
+
+(a) All solicitation materials and advertisements, including internet web pages, published or caused to be published by air charter brokers shall clearly and conspicuously state that the air charter broker is an air charter broker, and that it is not a direct air carrier or a direct foreign air carrier in operational control of aircraft, and that the air service advertised shall be provided by a properly licensed direct air carrier or direct foreign air carrier.
+
+(b) Air charter brokers may display their name and logo on aircraft provided the name of the direct air carrier is displayed prominently and clearly on the aircraft and consumers are not otherwise misled into thinking that the air charter broker is a direct air carrier or direct foreign air carrier.

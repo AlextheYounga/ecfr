@@ -1,0 +1,3 @@
+##### § 295.52 Enforcement. #####
+
+In case of any violation of any of the provisions of the Statute, or of this part, or any other rule, regulation, or order issued under the Statute, the violator may be subject to a proceeding under 49 U.S.C. 46101 before the Department, or 49 U.S.C. 46106-46108 before a U.S. District Court, as the case may be, to compel compliance. The violator may also be subject to civil penalties under the provisions of 49 U.S.C. 46301, or other lawful sanctions, including revocation of the exemption authority granted in this part. In the case of a willful violation, the violator may be subject to criminal penalties under the provisions of 49 U.S.C. 46316.

@@ -1,7 +1,5 @@
 ##### § 425.400 General. #####
 
-Link to an amendment published at 83 FR 68069, December 31, 2018.
-
 (a)(1) *General.* CMS employs the assignment methodology described in § 425.402 and § 425.404 for purposes of benchmarking, preliminary prospective assignment (including quarterly updates), retrospective reconciliation, and prospective assignment.
 
 (i) A Medicare fee-for-service beneficiary is assigned to an ACO if the -
@@ -12,15 +10,31 @@ Link to an amendment published at 83 FR 68069, December 31, 2018.
 
 (ii) CMS applies a step-wise process based on the beneficiary's utilization of primary care services provided under Title XVIII by a physician who is an ACO professional during each performance year for which shared savings are to be determined and, with respect to ACOs participating in a 6-month performance year during CY 2019, during the entirety of CY 2019 as specified in § 425.609.
 
-(2) *Assignment under Tracks 1 and 2.* (i) Medicare assigns beneficiaries in a preliminary manner at the beginning of a performance year based on most recent data available.
+(2) *Preliminary prospective assignment with retrospective reconciliation.* (i) Medicare assigns beneficiaries in a preliminary manner at the beginning of a performance year based on most recent data available.
 
 (ii) Assignment will be updated quarterly based on the most recent 12 months of data.
 
 (iii) In determining final assignment for a benchmark or performance year, CMS will exclude any services furnished during the benchmark or performance year that are billed through the TIN of an ACO participant that is an ACO participant in more than one ACO.
 
-(3) *Prospective assignment under Track 3.* (i) Medicare fee-for-service beneficiaries are prospectively assigned to an ACO under Track 3 at the beginning of each benchmark or performance year based on the beneficiary's use of primary care services in the most recent 12 months for which data are available, using the assignment methodology described in §§ 425.402 and 425.404.
+(3) *Prospective assignment.*(i) Medicare fee-for-service beneficiaries are prospectively assigned to an ACO at the beginning of each benchmark or performance year based on the beneficiary's use of primary care services in the most recent 12 months for which data are available, using the assignment methodology described in §§ 425.402 and 425.404.
 
 (ii) Beneficiaries that are prospectively assigned to an ACO under paragraph (a)(3)(i) of this section will remain assigned to the ACO at the end of the benchmark or performance year unless they meet any of the exclusion criteria under § 425.401(b).
+
+(4) *Assignment methodology applied to ACO.* (i) For agreement periods beginning before July 1, 2019, the applicable assignment methodology is determined based on track as specified in § 425.600(a).
+
+(A) Preliminary prospective assignment with retrospective reconciliation as described in paragraph (a)(2) of this section applies to Track 1 and Track 2 ACOs.
+
+(B) Prospective assignment as described in paragraph (a)(3) of this section applies to Track 3 ACOs.
+
+(ii) For agreement periods beginning on July 1, 2019 and in subsequent years, an ACO may select the assignment methodology that CMS employs for assignment of beneficiaries under this subpart.
+
+(A) An ACO may select either of the following:
+
+(*1*) Preliminary prospective assignment with retrospective reconciliation, as described in paragraph (a)(2) of this section.
+
+(*2*) Prospective assignment, as described in paragraph (a)(3) of this section.
+
+(B) This selection is made prior to the start of each agreement period, and may be modified prior to the start of each performance year as specified in § 425.226.
 
 (b) Beneficiary assignment to an ACO is for purposes of determining the population of Medicare fee-for-service beneficiaries for whose care the ACO is accountable under subpart F of this part, and for determining whether an ACO has achieved savings under subpart G of this part, and in no way diminishes or restricts the rights of beneficiaries assigned to an ACO to exercise free choice in determining where to receive health care services.
 
@@ -129,4 +143,4 @@ Link to an amendment published at 83 FR 68069, December 31, 2018.
 
 (*7*) G0443 (code for alcohol misuse counseling service).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018]

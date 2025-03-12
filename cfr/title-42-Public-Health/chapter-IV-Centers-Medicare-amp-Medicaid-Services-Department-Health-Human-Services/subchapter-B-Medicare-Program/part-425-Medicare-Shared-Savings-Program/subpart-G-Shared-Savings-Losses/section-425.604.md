@@ -1,8 +1,6 @@
 ##### § 425.604 Calculation of savings under the one-sided model. #####
 
-Link to an amendment published at 83 FR 68074, December 31, 2018.
-
-(a) *Savings determination.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are below the applicable updated benchmark determined under § 425.602.
+(a) *Savings determination.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are below the applicable updated benchmark determined under § 425.602 or § 425.603.
 
 (1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 68074, December 31, 2018.
 
 (ii) If the prospective HCC risk score is lower in the performance year for this population, CMS will adjust the benchmark for changes in severity and case mix in this population using this lower prospective HCC risk score.
 
-(3) Assigned beneficiary changes in demographics and health status are used to adjust benchmark expenditures as described in § 425.602(a). In adjusting the benchmark for health status and demographic changes CMS makes adjustments for separate categories for each of the following populations of beneficiaries:
+(3) Assigned beneficiary changes in demographics and health status are used to adjust benchmark expenditures as described in § 425.602(a) or § 425.603(c). In adjusting the benchmark for health status and demographic changes CMS makes adjustments for separate categories for each of the following populations of beneficiaries:
 
 (i) ESRD.
 
@@ -40,18 +38,7 @@ Link to an amendment published at 83 FR 68074, December 31, 2018.
 
 (b) *Minimum savings rate (MSR).* CMS uses a sliding scale, based on the number of beneficiaries assigned to the ACO under subpart E of this part, to establish the MSR for an ACO participating under the one-sided model. The MSR under the one-sided model for an ACO based on the number of assigned beneficiaries is as follows:
 
-|Number of  <br/>beneficiaries|MSR (low end of assigned beneficiaries) (percent)|MSR  <br/>(high end  <br/>of assigned beneficiaries)  <br/>(percent)|
-|-----------------------------|-------------------------------------------------|--------------------------------------------------------------------|
-|         5,000-5,999         |                       3.9                       |                                3.6                                 |
-|         6,000-6,999         |                       3.6                       |                                3.4                                 |
-|         7,000-7,999         |                       3.4                       |                                3.2                                 |
-|         8,000-8,999         |                       3.2                       |                                3.1                                 |
-|         9,000-9,999         |                       3.1                       |                                3.0                                 |
-|        10,000-14,999        |                       3.0                       |                                2.7                                 |
-|        15,000-19,999        |                       2.7                       |                                2.5                                 |
-|        20,000-49,999        |                       2.5                       |                                2.2                                 |
-|        50,000-59,999        |                       2.2                       |                                2.0                                 |
-|          60,000 +           |                       2.0                       |                                                                    |
+![](/graphics/er31de18.023.gif)
 
 (c) *Qualification for shared savings payment.* In order to qualify for shared savings, an ACO must meet or exceed its minimum savings rate determined under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 
@@ -65,4 +52,4 @@ Link to an amendment published at 83 FR 68074, December 31, 2018.
 
 (g) *January 1, 2019 through June 30, 2019 performance year.* Shared savings for the January 1, 2019 through June 30, 2019 performance year are calculated as described in § 425.609.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018; 83 FR 68074, Dec. 31, 2018]

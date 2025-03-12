@@ -1,5 +1,7 @@
 ##### § 3.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4237, Feb. 14, 2019.
+
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 3.20(c).

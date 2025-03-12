@@ -1,5 +1,7 @@
 ##### § 110.70 Financial administration. #####
 
+Link to an amendment published at 84 FR 4000, Feb. 14, 2019.
+
 (a) A State must expend and account for grant funds in accordance with State laws and procedures for expending and accounting for its own funds. Fiscal control and accounting procedures of the State, as well as its subgrantees and cost-type contractors, must be sufficient to:
 
 (1) Permit the preparation of reports required by 49 CFR part 18 and this part, including the tracing of funds provided for planning to a level of expenditure adequate to establish that at least 75 percent of the funds provided were made available to LEPCs for developing, improving, and implementing emergency plans; and the tracing of funds provided for training to a level of expenditure adequate to establish that at least 75 percent of the funds provided were made available for the purposes of training public sector employees employed or used by political subdivisions.

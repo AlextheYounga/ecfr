@@ -1,7 +1,5 @@
 ##### § 425.402 Basic assignment methodology. #####
 
-Link to an amendment published at 83 FR 68069, December 31, 2018.
-
 (a) For performance years 2012 through 2015, CMS employs the following step-wise methodology to assign Medicare beneficiaries to an ACO after identifying all patients that had at least one primary care service with a physician who is an ACO professional of that ACO:
 
 (1)(i) Identify all primary care services rendered by primary care physicians during one of the following:
@@ -110,8 +108,8 @@ Link to an amendment published at 83 FR 68069, December 31, 2018.
 
 (3) The ACO, ACO participants, ACO providers/suppliers, ACO professionals, and other individuals or entities performing functions and services related to ACO activities are prohibited from providing or offering gifts or other remuneration to Medicare beneficiaries as inducements for influencing a Medicare beneficiary's decision to designate or not to designate an ACO professional under paragraph (e) of this section. The ACO, ACO participants, ACO providers/suppliers, ACO professionals, and other individuals or entities performing functions and services related to ACO activities must not, directly or indirectly, commit any act or omission, nor adopt any policy that coerces or otherwise influences a Medicare beneficiary's decision to designate or not to designate an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section, including but not limited to the following:
 
-(i) Offering anything of value to the Medicare beneficiary as an inducement to influence the Medicare beneficiary's decision to designate or not to designate an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section. Any items or services provided in violation of paragraph (e)(3) will not be considered to have a reasonable connection to the medical care of the beneficiary, as required under § 425.304(a)(2).
+(i) Offering anything of value to the Medicare beneficiary as an inducement to influence the Medicare beneficiary's decision to designate or not to designate an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section. Any items or services provided in violation of paragraph (e)(3) of this section are not considered to have a reasonable connection to the medical care of the beneficiary, as required under § 425.304(b)(1).
 
 (ii) Withholding or threatening to withhold medical services or limiting or threatening to limit access to care.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018]

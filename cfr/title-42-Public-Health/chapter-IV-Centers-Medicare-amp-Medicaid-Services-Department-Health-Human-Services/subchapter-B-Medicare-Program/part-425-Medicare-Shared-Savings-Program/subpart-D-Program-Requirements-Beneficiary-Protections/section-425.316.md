@@ -1,7 +1,5 @@
 ##### § 425.316 Monitoring of ACOs. #####
 
-Link to an amendment published at 83 FR 68069, December 31, 2018.
-
 (a) *General rule.* (1) In order to ensure that the ACO continues to satisfy the eligibility and program requirements under this part, CMS monitors and assesses the performance of ACOs, their ACO participants, and ACO providers/suppliers.
 
 (2) CMS employs a range of methods to monitor and assess the performance of ACOs, ACO participants, and ACO providers/suppliers, including but not limited to any of the following, as appropriate:
@@ -34,4 +32,10 @@ Link to an amendment published at 83 FR 68069, December 31, 2018.
 
 (3) An ACO will not qualify to share in savings in any year it fails to report accurately, completely, and timely on the quality performance measures.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016]
+(d) *Monitoring ACO financial performance.* (1) For performance years beginning on July 1, 2019 and subsequent performance years, CMS determines whether the Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries for the performance year exceed the ACO's updated benchmark by an amount equal to or exceeding either the ACO's negative MSR under a one-sided model, or the ACO's MLR under a two-sided model.
+
+(2) If the Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries for the performance year exceed the ACO's updated benchmark as specified in paragraph (d)(1) of this section, CMS may take any of the pre-termination actions set forth in § 425.216.
+
+(3) If the Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries for the performance year exceed the ACO's updated benchmark as specified in paragraph (d)(1) of this section for another performance year of the agreement period, CMS may immediately or with advance notice terminate the ACO's participation agreement under § 425.218.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018]

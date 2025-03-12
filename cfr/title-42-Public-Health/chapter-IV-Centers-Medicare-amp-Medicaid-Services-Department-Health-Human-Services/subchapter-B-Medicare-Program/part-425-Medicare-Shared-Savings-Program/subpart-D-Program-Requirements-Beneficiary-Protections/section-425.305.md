@@ -1,3 +1,13 @@
-##### § 425.305 xxx #####
+##### § 425.305 Other program safeguards. #####
 
-Link to an amendment published at 83 FR 68067, December 31, 2018.
+(a) *Screening of ACO applicants.* (1) ACOs, ACO participants, and ACO providers/suppliers are reviewed during the Shared Savings Program application process and periodically thereafter with regard to their program integrity history, including any history of Medicare program exclusions or other sanctions and affiliations with individuals or entities that have a history of program integrity issues.
+
+(2) ACOs, ACO participants, or ACO providers/suppliers whose screening reveals a history of program integrity issues or affiliations with individuals or entities that have a history of program integrity issues may be subject to denial of their Shared Savings Program applications or the imposition of additional safeguards or assurances against program integrity risks.
+
+(b) *Prohibition on certain required referrals and cost shifting.* ACOs, ACO participants, and ACO providers/suppliers are prohibited from doing the following:
+
+(1) Conditioning the participation of ACO participants, ACO providers/suppliers, other individuals or entities performing functions or services related to ACO activities in the ACO on referrals of Federal health care program business that the ACO, its ACO participants, or ACO providers/suppliers or other individuals or entities performing functions or services related to ACO activities know or should know is being (or would be) provided to beneficiaries who are not assigned to the ACO.
+
+(2) Requiring that beneficiaries be referred only to ACO participants or ACO providers/suppliers within the ACO or to any other provider or supplier, except that the prohibition does not apply to referrals made by employees or contractors who are operating within the scope of their employment or contractual arrangement to the employer or contracting entity, provided that the employees and contractors remain free to make referrals without restriction or limitation if the beneficiary expresses a preference for a different provider, practitioner, or supplier; the beneficiary's insurer determines the provider, practitioner, or supplier; or the referral is not in the beneficiary's best medical interests in the judgment of the referring party.
+
+[83 FR 68067, Dec. 31, 2018]

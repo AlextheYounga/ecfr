@@ -1,5 +1,7 @@
 ##### § 217.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4241, Feb. 14, 2019.
+
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 217.20(c).

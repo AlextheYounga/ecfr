@@ -1,5 +1,7 @@
 ##### § 347.303 Allocated transfer risk reserve. #####
 
+Link to an amendment published at 84 FR 4249, Feb. 14, 2019.
+
 (a) *Establishment of Allocated Transfer Risk Reserve.* A banking institution shall establish an allocated transfer risk reserve (ATRR) for specified international assets when required by the FDIC in accordance with this section.
 
 (b) *Procedures and standards* - (1) *Joint agency determination.* At least annually, the federal banking agencies shall determine jointly, based on the standards set forth in paragraph (b)(2) of this section, the following:

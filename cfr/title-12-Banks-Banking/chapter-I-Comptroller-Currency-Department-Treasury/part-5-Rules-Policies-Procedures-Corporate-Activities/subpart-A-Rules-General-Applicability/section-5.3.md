@@ -1,5 +1,7 @@
 ##### § 5.3 Definitions. #####
 
+Link to an amendment published at 84 FR 4240, Feb. 14, 2019.
+
 As used in this part:
 
 (a) *Applicant* means a person or entity that submits a notice or application to the OCC under this part.

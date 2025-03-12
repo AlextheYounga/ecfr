@@ -1,5 +1,7 @@
 ##### § 46.8 Publication of disclosures. #####
 
+Link to an amendment published at 84 FR 4240, Feb. 14, 2019.
+
 (a) *Publication date.* (1) *$50 billion or over covered institution.* A $50 billion or over covered institution must publish a summary of the results of its annual stress test in the period starting June 15 and ending July 15 provided:
 
 (i) Unless the OCC determines otherwise, if the $50 billion or over covered institution is a consolidated subsidiary of a bank holding company or savings and loan holding company subject to supervisory stress tests conducted by the Board of Governors of the Federal Reserve System pursuant to 12 CFR part 252, then within the June 15 to July 15 period such covered institution may not publish the required summary of its annual stress test earlier than the date that the Board of Governors of the Federal Reserve System publishes the supervisory stress test results of the covered bank's parent holding company.

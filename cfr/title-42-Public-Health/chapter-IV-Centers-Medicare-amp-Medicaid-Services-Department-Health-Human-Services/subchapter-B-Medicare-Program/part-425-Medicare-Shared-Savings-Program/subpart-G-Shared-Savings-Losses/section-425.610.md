@@ -1,16 +1,22 @@
-##### § 425.610 Calculation of shared savings and losses under Track 3. #####
+##### § 425.610 Calculation of shared savings and losses under the ENHANCED track. #####
 
-Link to an amendment published at 83 FR 68079, December 31, 2018.
+(a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.601, § 425.602 or § 425.603. In order to qualify for a shared savings payment under the ENHANCED track, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
-(a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.602. In order to qualify for a shared savings payment under Track 3, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
+(1) Risk adjustment for ACOs in agreement periods beginning on or before January 1, 2019. CMS does the following to adjust the benchmark each performance year:
 
-(1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.
+(i) *Newly assigned beneficiaries.* CMS uses an ACO's prospective HCC risk score to adjust the benchmark for changes in severity and case mix in this population.
 
-(2) *Continuously assigned beneficiaries.* (i) CMS uses demographic factors to adjust the benchmark for changes in the continuously assigned beneficiary population.
+(ii) *Continuously assigned beneficiaries.* (A) CMS uses demographic factors to adjust the benchmark for changes in the continuously assigned beneficiary population.
 
-(ii) If the prospective HCC risk score is lower in the performance year for this population, CMS adjusts for changes in severity and case mix for this population using this lower prospective HCC risk score.
+(B) If the prospective HCC risk score is lower in the performance year for this population, CMS adjusts the benchmark for changes in severity and case mix for this population using this lower prospective HCC risk score.
 
-(3) Assigned beneficiary changes in demographics and health status are used to adjust benchmark expenditures as described in § 425.602(a). In adjusting the benchmark for health status and demographic changes CMS makes separate adjustments for each of the following populations of beneficiaries:
+(2) Risk adjustment for ACOs in agreement periods beginning on July 1, 2019, and in subsequent years. CMS uses an ACO's prospective HCC risk score to adjust the benchmark for changes in severity and case mix in the assigned beneficiary population between BY3 and the performance year.
+
+(i) Positive adjustments in prospective HCC risk scores are subject to a cap of 3 percent.
+
+(ii) This cap is the maximum increase in risk scores for each agreement period, such that any positive adjustment between BY3 and any performance year in the agreement period cannot be larger than 3 percent.
+
+(3) In risk adjusting the benchmark as described in §§ 425.601(a)(10), 425.602(a)(9) and 425.603(c)(10), CMS makes separate adjustments for each of the following populations of beneficiaries:
 
 (i) ESRD.
 
@@ -44,19 +50,19 @@ Link to an amendment published at 83 FR 68079, December 31, 2018.
 
 (ii) Symmetrical MSR/MLR in a 0.5 percent increment between 0.5-2.0 percent.
 
-(iii) Symmetrical MSR/MLR that varies, based on the number of beneficiaries assigned to the ACO under subpart E of this part. The MSR for an ACO under Track 3 is the same as the MSR that would apply in the one-sided model under § 425.604(b) and is based on the number of assigned beneficiaries. The MLR under Track 3 is equal to the negative MSR.
+(iii) Symmetrical MSR/MLR that varies, based on the number of beneficiaries assigned to the ACO under subpart E of this part. The MSR for an ACO under the ENHANCED track is the same as the MSR that would apply in the one-sided model under either § 425.604(b) (for ACOs entering an agreement period on or before January 1, 2019) or § 425.605(b)(1) (for ACOs entering an agreement period on July 1, 2019, and in subsequent years) and is based on the number of assigned beneficiaries. The MLR under the ENHANCED track is equal to the negative MSR.
 
-(2) To qualify for shared savings under Track 3, an ACO's average per capita Medicare expenditures for the performance year must be below its updated benchmark costs for the year by at least the MSR established for the ACO.
+(2) To qualify for shared savings under the ENHANCED track, an ACO's average per capita Medicare expenditures for the performance year must be below its updated benchmark costs for the year by at least the MSR established for the ACO.
 
 (3) To be responsible for sharing losses with the Medicare program, an ACO's average per capita Medicare expenditures for the performance year must be above its updated benchmark costs for the year by at least the MLR established for the ACO.
 
 (c) *Qualification for shared savings payment.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 
-(d) *Final sharing rate.* An ACO that meets all the requirements for receiving shared savings payments under Track 3 will receive a shared savings payment of up to 75 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (e)(2) of this section).
+(d) *Final sharing rate.* An ACO that meets all the requirements for receiving shared savings payments under the ENHANCED track will receive a shared savings payment of up to 75 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (e)(2) of this section).
 
 (e) *Performance payment.* (1) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate will apply to an ACO's savings on a first dollar basis.
 
-(2) The amount of shared savings an eligible ACO receives under Track 3 may not exceed 20 percent of its updated benchmark.
+(2) The amount of shared savings an eligible ACO receives under the ENHANCED track may not exceed 20 percent of its updated benchmark.
 
 (f) *Shared loss rate.* The shared loss rate -
 
@@ -66,7 +72,7 @@ Link to an amendment published at 83 FR 68079, December 31, 2018.
 
 (3) May not be less than 40 percent.
 
-(g) *Loss recoupment limit.* The amount of shared losses for which an eligible ACO is liable may not exceed 15 percent of its updated benchmark as determined under § 425.602.
+(g) *Loss recoupment limit.* The amount of shared losses for which an eligible ACO is liable may not exceed 15 percent of its updated benchmark as determined under under § 425.601, § 425.602 or § 425.603.
 
 (h) *Notification of savings and losses.* (1) CMS notifies an ACO in writing regarding whether the ACO qualifies for a shared savings payment, and if so, the amount of the payment due.
 
@@ -80,6 +86,10 @@ Link to an amendment published at 83 FR 68079, December 31, 2018.
 
 (2) CMS reduces the amount of the ACO's shared losses by an amount determined by multiplying the shared losses by the percentage of the total months in the performance year affected by an extreme and uncontrollable circumstance, and the percentage of the ACO's assigned beneficiaries who reside in an area affected by an extreme and uncontrollable circumstance.
 
+(i) For an ACO that is liable for a pro-rated share of losses under § 425.221(b)(2)(ii) or (b)(3)(i), the amount of shared losses determined for the performance year during which the termination becomes effective is adjusted according to this paragraph (i)(2).
+
+(ii) [Reserved]
+
 (3) CMS applies determinations made under the Quality Payment Program with respect to -
 
 (i) Whether an extreme and uncontrollable circumstance has occurred; and
@@ -90,4 +100,6 @@ Link to an amendment published at 83 FR 68079, December 31, 2018.
 
 (j) *January 1, 2019 through June 30, 2019 performance year.* Shared savings or shared losses for the January 1, 2019 through June 30, 2019 performance year are calculated as described in § 425.609.
 
-[80 FR 32842, June 9, 2015, as amended at 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60096, Nov. 23, 2018]Editorial Note:At 81 FR 38017, June 10, 2016, in § 425.610, paragraph (a)(2)(ii), the phrase “adjust for changes” was removed, and in its place the phrase “adjust the benchmark for changes” was added, however, the phrase “adjust for changes” does not appear in this paragraph, so the amendment could not be incorporated.
+(k) *July 1, 2019 through December 31, 2019 performance year.* Shared savings or shared losses for the July 1, 2019 through December 31, 2019 performance year are calculated as described in § 425.609.
+
+[80 FR 32842, June 9, 2015, as amended at 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60096, Nov. 23, 2018; 83 FR 68079, Dec. 31, 2018]Editorial Note:At 81 FR 38017, June 10, 2016, in § 425.610, paragraph (a)(2)(ii), the phrase “adjust for changes” was removed, and in its place the phrase “adjust the benchmark for changes” was added, however, the phrase “adjust for changes” does not appear in this paragraph, so the amendment could not be incorporated.

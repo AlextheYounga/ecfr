@@ -1,5 +1,7 @@
 ##### § 107.616 Payment procedures. #####
 
+Link to an amendment published at 84 FR 3999, Feb. 14, 2019.
+
 (a) Each person subject to the requirements of this subpart must mail the registration statement and payment in full to the U.S. Department of Transportation, Hazardous Materials Registration, P.O. Box 530273, Atlanta, GA 30353-0273, or submit the statement and payment electronically through the Department's e-Commerce Internet site. Access to this service is provided at *http://phmsa.dot.gov/hazmat/registration.* A registrant required to file an amended registration statement under § 107.608(c) must mail it to the same address or submit it through the same Internet site.
 
 (b) Payment must be made by certified check, cashier's check, personal check, or money order in U.S. funds and drawn on a U.S. bank, payable to the U.S. Department of Transportation and identified as payment for the “Hazmat Registration Fee,” or by completing an authorization for payment by credit card or other electronic means of payment acceptable to the Department on the registration statement or as part of an Internet registration as provided in paragraph (a) of this section.

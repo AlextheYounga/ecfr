@@ -1,5 +1,7 @@
 ##### § 217.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
+Link to an amendment published at 84 FR 4242, Feb. 14, 2019.
+
 (a) *Regulatory capital components.* A Board-regulated institution's regulatory capital components are:
 
 (1) Common equity tier 1 capital;

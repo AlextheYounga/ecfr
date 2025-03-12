@@ -1,7 +1,5 @@
 ##### § 425.704 Beneficiary-identifiable claims data. #####
 
-Link to an amendment published at 83 FR 68082, December 31, 2018.
-
 Subject to providing the beneficiary with the opportunity to decline data sharing as described in this § 425.708, and subject to having a valid DUA in place, CMS, upon the ACO's request for the data for purposes of evaluating the performance of its ACO participants or its ACO providers/suppliers, conducting quality assessment and improvement activities, and conducting population-based activities relating to improved health, will provide the ACO with beneficiary identifiable claims data for preliminarily prospectively and prospectively assigned beneficiaries and other beneficiaries who receive primary care services from an ACO participant that submits claims for primary care services used to determine the ACO's assigned population under subpart E of this part during the performance year.
 
 (a) If an ACO wishes to receive beneficiary identifiable claims data, it must sign a DUA and it must submit a formal request for data. ACOs may access requested data as often as once per month.
@@ -16,11 +14,11 @@ Subject to providing the beneficiary with the opportunity to decline data sharin
 
 (d) To ensure that beneficiaries have a meaningful opportunity to decline having their claims data shared with the ACO, the ACO may only request claims data about a beneficiary if -
 
-(1) For an ACO participating -
+(1) For an ACO participating under -
 
-(i) In Track 1 or 2, the beneficiary's name appears on the preliminary prospective assignment list provided to the ACO at the beginning of the performance year, during each quarter (and in conjunction with the annual reconciliation) or the beneficiary has received a primary care service from an ACO participant upon whom assignment is based (under subpart E of this part) during the most recent 12-month period.
+(i) Preliminary prospective assignment with retrospective reconciliation as specified under § 425.400(a)(2), the beneficiary's name appears on the preliminary prospective assignment list provided to the ACO at the beginning of the performance year, during each quarter (and in conjunction with the annual reconciliation) or the beneficiary has received a primary care service from an ACO participant upon whom assignment is based (under subpart E of this part) during the most recent 12-month period; or
 
-(ii) In Track 3, the beneficiary's name appears on the prospective assignment list provided to the ACO at the beginning of the performance year.
+(ii) Prospective assignment as specified under § 425.400(a)(3), the beneficiary's name appears on the prospective assignment list provided to the ACO at the beginning of the performance year.
 
 (2) The beneficiary has been notified in compliance with § 425.708 that the ACO has requested access to beneficiary identifiable claims data in order to improve the quality of care that is furnished to the beneficiary and, where applicable, coordinate care offered to the beneficiary; and
 
@@ -30,4 +28,4 @@ Subject to providing the beneficiary with the opportunity to decline data sharin
 
 (f) If an ACO requests beneficiary identifiable information, compliance with the terms of the data use agreement described in § 425.710 is a condition of an ACO's participation in the Shared Savings Program.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32844, June 9, 2015]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32844, June 9, 2015; 83 FR 68082, Dec. 31, 2018]

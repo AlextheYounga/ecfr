@@ -1,5 +1,7 @@
 ##### § 223.3 What are the meanings of the other terms used in sections 23A and 23B and this part? #####
 
+Link to an amendment published at 84 FR 4244, Feb. 14, 2019.
+
 For purposes of this part:
 
 (a) *Aggregate amount of covered transactions* means the amount of the covered transaction about to be engaged in added to the current amount of all outstanding covered transactions.
