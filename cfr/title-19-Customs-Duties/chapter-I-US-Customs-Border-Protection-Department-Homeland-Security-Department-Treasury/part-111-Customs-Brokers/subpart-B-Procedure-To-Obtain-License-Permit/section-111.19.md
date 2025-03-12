@@ -18,7 +18,7 @@
 
 (7) A list of all persons who the applicant knows will be employed in the district, together with the specific employee information prescribed in § 111.28(b)(1)(i) for each of those prospective employees.
 
-(c) *Fees.* Each application for a district permit under paragraph (b) of this section must be accompanied by the $100 and $138 fees specified in §§ 111.96(b) and (c). In the case of an application for a national permit under paragraph (f) of this section, the $100 fee specified in § 111.96(b) and the $138 fee specified in § 111.96(c) must be paid at the port through which the applicant's license was delivered (see § 111.15) prior to submission of the application. The $138 fee specified in § 111.96(c) also must be paid in connection with the issuance of an initial district permit concurrently with the issuance of a license under paragraph (a) of this section.
+(c) *Fees.* Each application for a district permit under paragraph (b) of this section must be accompanied by the fees specified in §§ 111.96(b) and (c). In the case of an application for a national permit under paragraph (f) of this section, the fee specified in § 111.96(b) and the fee specified in § 111.96(c) must be paid at the port through which the applicant's license was delivered (see § 111.15) prior to submission of the application. The fee specified in § 111.96(c) also must be paid in connection with the issuance of an initial district permit concurrently with the issuance of a license under paragraph (a) of this section.
 
 (d) *Responsible supervision and control* - (1) *General.* The applicant for a district permit must have a place of business at the port where the application is filed, or must have made firm arrangements satisfactory to the port director to establish a place of business, and must exercise responsible supervision and control over that place of business once the permit is granted. Except as otherwise provided in paragraph (d)(2) of this section, the applicant must employ in each district for which a permit is granted at least one individual broker to exercise responsible supervision and control over the customs business conducted in the district.
 
@@ -40,4 +40,4 @@
 
 (2) *By the Court of International Trade.* Upon a decision of the Assistant Commissioner affirming the denial of an application for a permit under this section, the applicant may appeal the decision to the Court of International Trade, provided that the appeal action is commenced within 60 calendar days after the date of entry of the Assistant Commissioner's decision.
 
-[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by T.D. 01-14, 66 FR 8767, Feb. 2, 2001; CBP Dec. 03-13, 68 FR 43630, July 24, 2003; 72 FR 3734, Jan. 26, 2007]
+[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by T.D. 01-14, 66 FR 8767, Feb. 2, 2001; CBP Dec. 03-13, 68 FR 43630, July 24, 2003; 72 FR 3734, Jan. 26, 2007; CBP Dec. 17-16, 82 FR 50530, Nov. 1, 2017]

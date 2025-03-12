@@ -1,7 +1,5 @@
 ##### § 271.6 Processing requests. #####
 
-Link to an amendment published at 82 FR 45680, Oct. 2, 2017.
-
 (a) *Receipt of requests.* The date of receipt for any request, including one that is addressed incorrectly or that is referred to the Committee by another agency or by a Federal Reserve Bank, is the date the Secretary of the Committee actually receives the request.
 
 (b) *Priority of responses.* The Committee shall normally process requests in the order they are received. However, in the Secretary's discretion, or upon a court order in a matter to which the Committee is a party, a particular request may be processed out of turn.
@@ -58,6 +56,6 @@ Link to an amendment published at 82 FR 45680, Oct. 2, 2017.
 
 (2) An initial request for records may not be combined in the same letter with an appeal.
 
-(3) The Committee, or such member of the Committee as is delegated the authority, shall make a determination regarding any appeal within 20 working days of actual receipt of the appeal by the Secretary, and the determination letter shall notify the appealing party of the right to seek judicial review of such denial.
+(3) The Committee, or such member of the Committee as is delegated the authority, shall make a determination regarding any appeal within 20 working days of actual receipt of the appeal by the Secretary. If an adverse determination is upheld on appeal, in whole or in part, the determination letter shall notify the appealing party of the right to seek judicial review and of the availability of dispute resolution services from the Office of Government Information Services as a nonexclusive alternative to litigation.
 
-[62 FR 61218, Nov. 17, 1997, as amended at 81 FR 94936, Dec. 27, 2016]
+[62 FR 61218, Nov. 17, 1997, as amended at 81 FR 94936, Dec. 27, 2016; 82 FR 45680, Oct. 2, 2017]
