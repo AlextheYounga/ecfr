@@ -1,5 +1,7 @@
 ##### § 744.21 Restrictions on certain 'Military end uses' in the People's Republic of China (PRC) or for a 'Military end use' or 'Military end user' in Russia or Venezuela. #####
 
+Link to an amendment published at 85 FR 23463, Apr. 28, 2020.
+
 (a)(1) *General prohibition.* In addition to the license requirements for items specified on the Commerce Control List (CCL), you may not export, reexport, or transfer (in-country) any item subject to the EAR listed in supplement no. 2 to part 744 to the PRC, Russia or Venezuela without a license if, at the time of the export, reexport, or transfer (in-country), either:
 
 (i) You have “knowledge,” as defined in § 772.1 of the EAR, that the item is intended, entirely or in part, for a 'military end use,' as defined in paragraph (f) of this section, in the PRC or for a 'military end use' or 'military end user' in Russia or Venezuela; or

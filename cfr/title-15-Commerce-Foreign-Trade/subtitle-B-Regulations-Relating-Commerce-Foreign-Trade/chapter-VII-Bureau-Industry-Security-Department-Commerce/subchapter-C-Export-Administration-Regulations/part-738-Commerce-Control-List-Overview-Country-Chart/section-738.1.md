@@ -1,5 +1,7 @@
 ##### § 738.1 Introduction. #####
 
+Link to an amendment published at 85 FR 23462, Apr. 28, 2020.
+
 (a) *Commerce Control List scope.* (1) In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. The Bureau of Industry and Security (BIS) maintains the Commerce Control List (CCL) within the Export Administration Regulations (EAR), which includes items (i.e., commodities, software, and technology) subject to the export licensing authority of BIS. The CCL does not include those items exclusively controlled for export or reexport by another department or agency of the U.S. Government. In instances where agencies other than the Department of Commerce administer controls over related items, entries in the CCL contain a reference to these controls.
 
 (2) The CCL is contained in supplement no. 1 to part 774 of the EAR. Supplement no. 2 to part 774 of the EAR contains the General Technology and Software Notes relevant to entries contained in the CCL.

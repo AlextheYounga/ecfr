@@ -1,5 +1,7 @@
 ##### § 742.6 Regional stability. #####
 
+Link to an amendment published at 85 FR 23462, Apr. 28, 2020.
+
 (a) *License requirements.* The following controls are maintained in support of U.S. foreign policy to maintain regional stability:
 
 (1) *RS Column 1 license requirements in general.* A license is required for exports and reexports to all destinations, except Canada, for all items in ECCNs on the CCL that include RS Column 1 in the Country Chart column of the “License Requirements” section. Transactions described in paragraphs (a)(2), (a)(3), or (a)(8) of this section are subject to the RS Column 1 license requirements set forth in those paragraphs rather than the license requirements set forth in this paragraph (a)(1).
