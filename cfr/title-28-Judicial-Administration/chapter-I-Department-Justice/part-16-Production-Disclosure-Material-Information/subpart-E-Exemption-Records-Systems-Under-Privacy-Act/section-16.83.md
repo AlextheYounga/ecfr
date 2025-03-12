@@ -1,5 +1,7 @@
 ##### § 16.83 Exemption of the Executive Office for Immigration Review System - limited access. #####
 
+Link to an amendment published at 84 FR 64200, Nov. 21, 2019.
+
 (a) The following system of records is exempt from 5 U.S.C. 552a(d):
 
 (1) The Executive Office for Immigration Review's Records and Management Information System (JUSTICE/EOIR-001).

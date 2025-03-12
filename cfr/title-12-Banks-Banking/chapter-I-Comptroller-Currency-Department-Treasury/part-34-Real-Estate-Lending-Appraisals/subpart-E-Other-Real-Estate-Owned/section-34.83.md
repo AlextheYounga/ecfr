@@ -1,6 +1,6 @@
 ##### § 34.83 Disposition of real estate. #####
 
-Link to an amendment published at 84 FR 56375, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56375, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) *Disposition.* A national bank may comply with its obligation to dispose of real estate under 12 U.S.C. 29 in the following ways:
 

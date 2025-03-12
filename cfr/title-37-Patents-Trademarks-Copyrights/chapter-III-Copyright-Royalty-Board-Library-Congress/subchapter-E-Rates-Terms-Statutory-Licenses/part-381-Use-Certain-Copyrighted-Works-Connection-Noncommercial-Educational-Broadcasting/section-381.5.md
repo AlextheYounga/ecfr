@@ -1,5 +1,7 @@
 ##### § 381.5 Performance of musical compositions by public broadcasting entities licensed to colleges and universities. #####
 
+Link to an amendment published at 84 FR 64206, November 21, 2019.
+
 (a) *Scope.* This section applies to the performance of copyrighted published nondramatic musical compositions by noncommercial radio stations which are licensed to accredited colleges, accredited universities, or other accredited nonprofit educational institutions and which are not affiliated with National Public Radio. For purposes of this section, accreditation of institutions providing post-secondary education shall be determined by a regional or national accrediting agency recognized by the Council for Higher Education Accreditation or the United States Department of Education; and accreditation of institutions providing elementary or secondary education shall be as recognized by the applicable state licensing authority.
 
 (b) *Voluntary license agreements.* Notwithstanding the schedule of rates and terms established in this section, the rates and terms of any license agreements entered into by copyright owners and colleges, universities, and other nonprofit educational institutions concerning the performance of copyrighted musical compositions, including performances by noncommercial radio stations, shall apply in lieu of the rates and terms of this section.

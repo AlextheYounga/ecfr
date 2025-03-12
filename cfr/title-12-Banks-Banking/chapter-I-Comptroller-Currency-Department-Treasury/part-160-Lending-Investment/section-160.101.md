@@ -1,6 +1,6 @@
 ##### § 160.101 Real estate lending standards. #####
 
-Link to an amendment published at 84 FR 56376, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) Each Federal savings association shall adopt and maintain written policies that establish appropriate limits and standards for extensions of credit that are secured by liens on or interests in real estate, or that are made for the purpose of financing permanent improvements to real estate.
 

@@ -1,6 +1,6 @@
 ##### § 6.1 Authority, purpose, scope, other supervisory authority, disclosure of capital categories, and transition procedures. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) *Authority.* This part is issued by the Office of the Comptroller of the Currency (OCC) pursuant to section 38 (section 38) of the Federal Deposit Insurance Act (FDI Act) as added by section 131 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (Pub. L. 102-242, 105 Stat. 2236 (1991)) (12 U.S.C. 1831o).
 

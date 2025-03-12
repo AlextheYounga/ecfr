@@ -1,6 +1,6 @@
 ##### § 46.6 Stress test methodologies and practices. #####
 
-Link to an amendment published at 84 FR 54476, Oct. 10, 2019.Link to an amendment published at 84 FR 56376, Oct. 22, 2019.
+Link to an amendment published at 84 FR 54476, Oct. 10, 2019.Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) *Potential impact on capital.* During each quarter of the planning horizon, a covered institution shall estimate the following for each scenario required to be used:
 

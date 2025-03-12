@@ -1,6 +1,6 @@
 ##### § 6.2 Definitions. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 For purposes of this subpart, except as modified in this section or unless the context otherwise requires, the terms used have the same meanings as set forth in section 38 and section 3 of the FDI Act.
 

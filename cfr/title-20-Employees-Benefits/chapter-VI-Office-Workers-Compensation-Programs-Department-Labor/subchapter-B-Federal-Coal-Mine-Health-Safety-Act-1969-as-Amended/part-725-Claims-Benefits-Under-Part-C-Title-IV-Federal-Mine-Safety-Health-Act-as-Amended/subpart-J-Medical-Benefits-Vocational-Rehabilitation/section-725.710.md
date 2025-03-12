@@ -8,4 +8,6 @@
 
 (c) This section does not apply to services provided by ambulatory surgical centers.
 
-(d) This section applies to outpatient medical services rendered after November 30, 2019.
+(d) This section applies to outpatient medical services rendered after April 26, 2020.
+
+[83 FR 27695, June 14, 2018, as amended at 84 FR 64198, Nov. 21, 2019]

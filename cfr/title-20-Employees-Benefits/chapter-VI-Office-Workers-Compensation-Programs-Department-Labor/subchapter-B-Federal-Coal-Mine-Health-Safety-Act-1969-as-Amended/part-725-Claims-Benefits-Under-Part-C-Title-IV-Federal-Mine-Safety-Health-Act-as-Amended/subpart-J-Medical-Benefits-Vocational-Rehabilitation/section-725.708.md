@@ -8,6 +8,8 @@
 
 (b) Where a professional medical service is not covered by the fee schedule described in paragraph (a) of this section, OWCP may pay for the service based on other fee schedules or pricing formulas utilized by OWCP for professional medical services.
 
-(c) Paragraphs (a) and (b) of this section apply to professional medical services rendered after November 30, 2019.
+(c) Paragraphs (a) and (b) of this section apply to professional medical services rendered after April 26, 2020.
 
 (d) OWCP pays for medical equipment identified by a HCPCS/CPT code based on fee schedules or other pricing formulas utilized by OWCP for such equipment.
+
+[83 FR 27695, June 14, 2018, as amended at 84 FR 64198, Nov. 21, 2019]

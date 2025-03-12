@@ -1,7 +1,5 @@
 ##### § 265.9 Fees. #####
 
-Link to an amendment published at 84 FR 56385, Oct. 22, 2019.
-
 (a) *In general.* The Postal Service shall charge for processing requests under the FOIA in accordance with the provisions of this section and with the OMB Guidelines. In order to resolve any fee issues that arise under this section, a component may contact a requester for additional information. The Postal Service will conduct searches, review, and duplication in the most efficient and the least expensive manner. The Postal Service ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to “U.S. Postal Service.”
 
 (b) *Definitions.* For purposes of this section:
@@ -100,12 +98,12 @@ Link to an amendment published at 84 FR 56385, Oct. 22, 2019.
 
 (3) To determine whether disclosure of the requested information is primarily in the commercial interest of the requester, components shall consider the following factors:
 
-(i) Components shall identify any commercial interest of the requester, as defined in paragraph (b)(1) of this section, that would be furthered by the requested disclosure. Requesters shall be given an opportunity to provide explanatory information regarding this consideration.
+(i) Whether there is a commercial interest, as defined in paragraph (b)(1) of this section, that would be furthered by the requested disclosure. If so, then the requester will be given an opportunity to provide explanatory information regarding this consideration.
 
-(ii) Disclosure to data brokers or others who merely compile and market government information for direct economic return shall not be presumed to primarily serve the public interest.
+(ii) Whether any identified commercial interest of the requester in disclosure outweighs the public interest, as defined in paragraph (j)(1)(i) of this section, in disclosure. If so, then the disclosure is primarily in the commercial interest of the requester. The component ordinarily shall presume that if a news media requester has satisfied the public interest standard, the public interest is the primary interest served by the requested disclosure. Disclosure to data brokers or others who merely compile and market government information for direct economic return shall not be presumed to primarily serve the public interest.
 
 (4) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver shall be granted for those records.
 
 (5) Requests for a waiver or reduction of fees should be made when the request is first submitted to the component and should address the criteria referenced above. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester shall be required to pay any costs incurred up to the date the fee waiver request was received.
 
-[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 2896, Jan. 10, 2017; 82 FR 12921, Mar. 8, 2017; 83 FR 48235, Sept. 24, 2018]
+[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 2896, Jan. 10, 2017; 82 FR 12921, Mar. 8, 2017; 83 FR 48235, Sept. 24, 2018; 84 FR 56385, Oct. 22, 2019]

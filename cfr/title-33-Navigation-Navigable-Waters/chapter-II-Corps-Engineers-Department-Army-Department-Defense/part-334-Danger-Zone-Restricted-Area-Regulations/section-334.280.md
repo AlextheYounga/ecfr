@@ -1,5 +1,7 @@
 ##### § 334.280 James River between the entrance to Skiffes Creek and Mulberry Point, Va.; army training and small craft testing area. #####
 
+Link to an amendment published at 84 FR 64201, Nov. 21, 2019.
+
 (a) *The restricted area.* Beginning on the shore at latitude 37°09′54″ N., longitude 76°36′25″ W.; thence westerly to latitude 37°09′50″ N., longitude 76°37′45.5″ W.; thence southerly to latitude 37°09′00″ N., longitude 76°38′05″ W.; thence southerly to latitude 37°08′22″ N., longitude 76°37′55″ W.; thence due east to the shore at latitude 37°08′22″ N., longitude 76°37′22″ W.; thence northerly along the shore to the point of beginning.
 
 (b) *The regulations.* (1) No vessels other than Department of the Army vessels, and no persons other than persons embarked in such vessels shall remain in or enter the restricted area except as provided in paragraph (b)(2) of this section.

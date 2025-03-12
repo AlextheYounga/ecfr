@@ -1,6 +1,6 @@
 ##### § 161.55 With recourse. #####
 
-Link to an amendment published at 84 FR 56376, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) The term *with recourse* means, in connection with the sale of a loan or a participation interest in a loan, an agreement or arrangement under which the purchaser is to be entitled to receive from the seller a sum of money or thing of value, whether tangible or intangible (including any substitution), upon default in payment of any loan involved or any part thereof or to withhold or to have withheld from the seller a sum of money or anything of value by way of security against default. The recourse liability resulting from a sale with recourse shall be the total book value of any loan sold with recourse less:
 

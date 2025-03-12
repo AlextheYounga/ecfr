@@ -1,6 +1,6 @@
 ##### § 34.85 Appraisal requirements. #####
 
-Link to an amendment published at 84 FR 56375, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56375, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) *General.* (1) Upon transfer to OREO, a national bank shall substantiate the parcel's market value by obtaining either:
 
