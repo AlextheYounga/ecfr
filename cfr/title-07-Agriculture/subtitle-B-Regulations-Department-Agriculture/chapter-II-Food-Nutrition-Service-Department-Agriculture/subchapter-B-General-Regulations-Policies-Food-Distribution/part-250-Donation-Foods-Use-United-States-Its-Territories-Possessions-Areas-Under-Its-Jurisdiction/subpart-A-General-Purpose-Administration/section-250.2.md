@@ -1,5 +1,7 @@
 ##### § 250.2 Definitions. #####
 
+Link to an amendment published at 83 FR 18926, May 1, 2018.
+
 *2 CFR part 200* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The Part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) do not apply to the National School Lunch Program).
 
 *ACL* means the Administration for Community Living, which is the DHHS agency that administers NSIP.

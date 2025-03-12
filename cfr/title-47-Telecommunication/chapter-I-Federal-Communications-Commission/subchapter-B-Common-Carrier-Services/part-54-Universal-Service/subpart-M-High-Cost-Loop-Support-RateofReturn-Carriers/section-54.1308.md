@@ -1,5 +1,7 @@
 ##### § 54.1308 Study Area Total Unseparated Loop Cost. #####
 
+Link to an amendment published at 83 FR 18964, May 1, 2018.
+
 (a) For the purpose of calculating the expense adjustment, the study area total unseparated loop cost equals the sum of the following, however, subject to the limitations set forth in § 54.303:
 
 (1) Return component for net unseparated Exchange Line C&WF subcategory 1.3 investment and Exchange Line CO Circuit Equipment Category 4.13 investment. This amount is calculated by deducting the accumulated depreciation and noncurrent deferred Federal income taxes attributable to C&WF Subcategory 1.3 investment and Exchange Line Category 4.13 circuit investment reported pursuant to § 54.1305(b) from the gross investment in Exchange Line C&WF Subcategory 1.3 and CO Category 4.13 reported pursuant to § 54.1305(a) to obtain the net unseparated C&WF Subcategory 1.3 investment, and CO Category 4.13 investment. The net unseparated C&WF Subcategory 1.3 investment and CO Category 4.13 investment is multiplied by the study area's authorized interstate rate of return.

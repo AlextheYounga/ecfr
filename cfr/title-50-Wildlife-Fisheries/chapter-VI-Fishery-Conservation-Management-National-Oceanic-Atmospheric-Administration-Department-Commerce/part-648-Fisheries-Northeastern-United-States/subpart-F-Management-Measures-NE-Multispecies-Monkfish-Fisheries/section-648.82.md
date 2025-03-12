@@ -359,28 +359,28 @@ SNE/MA Differential DAS Area
 
 (2) *Trimester TAC AM for fishing years 2012 and beyond.* Beginning in fishing year 2012, common pool vessels shall be subject to the following restrictions:
 
-(i) *Trimester TACs* - (A) *Trimester TAC distribution.* Any sub-ACLs specified for common pool vessels pursuant to § 648.90(a)(4) shall be apportioned into trimesters of 4 months in duration, beginning at the start of the fishing year (i.e., Trimester 1: May 1-August 31; Trimester 2: September 1-December 31; Trimester 3: January 1-April 30), as follows):
+(i) *Trimester TACs* - (A) *Trimester TAC distribution.* With the exception of SNE/MA winter flounder, any sub-ACLs specified for common pool vessels pursuant to § 648.90(a)(4) shall be apportioned into 4-month trimesters, beginning at the start of the fishing year (*i.e.,* Trimester 1: May 1-August 31; Trimester 2: September 1-December 31; Trimester 3: January 1-April 30), as follows:
 
 Portion of Common Pool Sub-ACLs Apportioned to Each Stock for Each Trimester
 
 |          Stock           |Trimester 1  <br/>(percent)|Trimester 2  <br/>(percent)|Trimester 3  <br/>(percent)|
 |--------------------------|---------------------------|---------------------------|---------------------------|
-|         GOM cod          |            27             |            36             |            37             |
-|          GB cod          |            25             |            37             |            38             |
-|       GOM haddock        |            27             |            26             |            47             |
+|          GB cod          |            28             |            34             |            38             |
+|         GOM cod          |            49             |            33             |            18             |
 |        GB haddock        |            27             |            33             |            40             |
-|CC/GOM yellowtail flounder|            35             |            35             |            30             |
-|  GB yellowtail flounder  |            19             |            30             |            52             |
-|SNE/MA yellowtail flounder|            21             |            37             |            42             |
+|       GOM haddock        |            27             |            26             |            47             |
+|  GB yellowtail flounder  |            19             |            30             |            51             |
+|SNE/MA yellowtail flounder|            21             |            28             |            51             |
+|CC/GOM yellowtail flounder|            57             |            26             |            17             |
+|     American plaice      |            74             |             8             |            18             |
+|      Witch flounder      |            55             |            20             |            25             |
+|    GB winter flounder    |             8             |            24             |            68             |
 |   GOM winter flounder    |            37             |            38             |            25             |
-|    GB winter flounder    |             8             |            24             |            69             |
-|      Witch flounder      |            27             |            31             |            42             |
-|     American plaice      |            24             |            36             |            40             |
-|         Pollock          |            28             |            35             |            37             |
 |         Redfish          |            25             |            31             |            44             |
 |        White hake        |            38             |            31             |            31             |
+|         Pollock          |            28             |            35             |            37             |
 
-(B) *Trimester TAC adjustment.* The distribution of trimester TACs specified in paragraph (n)(2)(i)(A) of this section may be adjusted pursuant to the biennial adjustment process specified in § 648.90. Future adjustments to the distribution of trimester TACs shall use catch data for the most recent 5-year period prior to the reevaluation of trimester TACs.
+(B) *Trimester TAC adjustment.* For stocks that have experienced early closures (*e.g.,* Trimester 1 or Trimester 2 closures), the Regional Administrator may use the biennial adjustment process specified in § 648.90 to revise the distribution of trimester TACs specified in paragraph (n)(2)(i)(A) of this section. Future adjustments to the distribution of trimester TACs shall use catch data for the most recent 5-year period prior to the reevaluation of trimester TACs.
 
 (ii) *Stock area closures.* Unless otherwise specified in this paragraph (n)(2)(ii), if the Regional Administrator projects that 90 percent of the trimester TACs specified in paragraph (n)(2)(i) of this section will be caught based upon available information, the Regional Administrator shall close the area where 90 percent of the catch for each such stock occurred to all common pool vessels on a NE multispecies DAS using gear capable of catching such stocks for the remainder of that trimester, as specified in paragraphs (n)(2)(ii)(A) through (N) of this section, in a manner consistent with the Administrative Procedure Act. For example, if the Regional Administrator projects that 90 percent of the CC/GOM yellowtail flounder Trimester 1 TAC will be caught, common pool vessels using trawl and gillnet gear shall be prohibited from fishing in the CC/GOM Yellowtail Flounder Closure Area specified in paragraph (n)(2)(ii)(G) of this section until the beginning of Trimester 2 on September 1 of that fishing year. Based upon all available information, the Regional Administrator is authorized to expand or narrow the areas closed under this paragraph (n)(2)(ii) in a manner consistent with the Administrative Procedure Act. If it is not possible to identify an area where only 90 percent of the catch occurred, the Regional Administrator shall close the smallest area possible where greater than 90 percent of the catch occurred. Common pool vessels holding either a Handgear A or B permit and fishing with handgear or tub trawls are exempt from stock area closures for white hake. The Regional Administrator may exempt Handgear A and B permitted vessels from stock area closures for other stocks pursuant to this paragraph (n)(2)(ii) if it is determined that catches of the respective species or stock by these vessels are less than 1 percent of the common pool catch of that species or stock. The Regional Administrator shall make such determination prior to the start of the fishing year through a notice published in the Federal Register, consistent with the Administrative Procedure Act, and any such determination shall remain in effect until modified.
 
@@ -862,6 +862,6 @@ SNE/MA Winter Flounder Trawl Gear AM Area 4
 
 (3) For any inseason differential DAS counting factor implemented in fishing year 2011, the inseason differential DAS counting factor shall be applied in accordance with the DAS accrual provisions specified in paragraph (e)(1)(i) of this section, and, if pursuant to paragraph (n)(1) of this section, in conjunction with a differential DAS counting factor also implemented for the same differential DAS area during fishing year 2011 as an AM. For example, if a differential DAS counting factor of 1.2 was applied to the Inshore GOM Differential DAS Area during fishing year 2011, as an AM due to a 20-percent overage of the GOM cod sub-ACL in fishing year 2010, and during fishing year 2011 the GOM cod sub-ACL was projected to be exceeded by 30 percent, an additional differential DAS factor of 1.3 would be applied to the DAS accrual rate as an inseason action during fishing year 2011. Under this example, the DAS accrual rate after both the AM and the inseason differential DAS rate is applied to FY 2011 in the Inshore GOM Differential DAS Counting Area would be 37.4 hr charged for every 24 hr fished - 1.2 × 1.3 × 24-hr DAS charge.
 
-[69 FR 22969, Apr. 27, 2004]Editorial Notes:1. For Federal Register citations affecting § 648.82, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[69 FR 22969, Apr. 27, 2004]Editorial Notes:1. For Federal Register citations affecting § 648.82, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 75 FR 18319, Apr. 9, 2010, in § 648.82, paragraph (e)(1)(ii) was revised, however no (e)(1)(ii) existed, so it could not be revised.

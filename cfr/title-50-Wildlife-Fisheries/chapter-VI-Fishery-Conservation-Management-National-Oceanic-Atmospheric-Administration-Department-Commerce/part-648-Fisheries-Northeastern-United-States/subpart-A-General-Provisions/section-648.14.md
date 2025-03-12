@@ -874,15 +874,17 @@
 
 (vii) *Atlantic wolffish.* If fishing under the recreational or charter/party regulations, possess Atlantic wolffish.
 
+(viii) *Ocean pout.* If fishing under the recreational or charter/party regulations, possess ocean pout.
+
+(ix) *Windowpane flounder.* If fishing under the recreational or charter/party regulations, possess windowpane flounder.
+
 (17) *Presumptions.* For purposes of this part, the following presumptions apply:
 
 (i) Regulated species possessed for sale that do not meet the minimum sizes specified in § 648.83 are deemed to have been taken or imported in violation of these regulations, unless the preponderance of all submitted evidence demonstrates that such fish were harvested by a vessel not issued a permit under this part and fishing exclusively within state waters, or by a vessel that fished exclusively in the NAFO Regulatory Area. This presumption does not apply to fish being sorted on deck.
 
 (ii) Regulated species possessed for sale that do not meet the minimum sizes specified in § 648.83 are deemed taken from the EEZ or imported in violation of these regulations, unless the preponderance of all submitted evidence demonstrates that such fish were harvested by a vessel not issued a permit under this part and fishing exclusively within state waters, or by a vessel that fished exclusively in the NAFO Regulatory Area. This presumption does not apply to fish being sorted on deck.
 
-(18) *Trimester TAC AM* - (i) *Vessel and operator permit holders.* (A) Fish for, harvest, possess, or land regulated species or ocean pout in or from the closed areas specified in § 648.82(n)(2)(ii) once such areas are closed pursuant to § 648.82(n)(2)(i).
-
-(B)-(D) [Reserved]
+(18) *Trimester TAC AM.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to fish for, harvest, possess, or land regulated species or ocean pout in or from the closed areas specified in § 648.82(n)(2)(ii) once such areas are closed pursuant to § 648.82(n)(2)(i).
 
 (19) *At-sea/electronic monitoring service providers.* It is unlawful for any at-sea/electronic monitoring service provider, including individual at-sea monitors, to do any of the following:
 
@@ -890,7 +892,7 @@
 
 (ii) Provide false or inaccurate information regarding area fished; species identification; or amount of each species kept, discarded, or landed.
 
-(20) *AMs for both stocks of windowpane flounder, ocean pout, Atlantic halibut, Atlantic wolffish, and SNE/MA winter flounder.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to fail to comply with the restrictions on fishing and gear specified in § 648.90(a)(5)(i)(D).
+(20) *AMs for both stocks of windowpane flounder, ocean pout, Atlantic halibut, and Atlantic wolffish.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to fail to comply with the restrictions on fishing and gear specified in § 648.90(a)(5)(i)(D) through (H).
 
 (l) *Small-mesh multispecies.* (1) It is unlawful for any person owning or operating a vessel issued a valid Federal multispecies permit to land, offload, or otherwise transfer; or attempt to land, offload, or otherwise transfer; small-mesh multispecies from one vessel to another in excess of the limits specified in § 648.13.
 

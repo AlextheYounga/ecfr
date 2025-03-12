@@ -1,5 +1,7 @@
 ##### § 250.18 Reporting requirements. #####
 
+Link to an amendment published at 83 FR 18927, May 1, 2018.
+
 (a) *Inventory and distribution of donated foods.* The distributing agency must submit to FNS reports relating to the inventory and distribution of donated foods in this paragraph (a) or in other regulations applicable to specific programs. Such reports must be submitted in accordance with the timeframes established for each respective form. For donated foods received in FDPIR, the distributing agency must submit form FNS-152, *Monthly Distribution of Donated Foods to Family Units.* For donated foods received in TEFAP, NSLP, or other child nutrition programs, the distributing agency must submit form FNS-155, the *Inventory Management Register.*
 
 (b) *Processor performance reports.* Processors must submit monthly performance reports to the distributing agency, in accordance with § 250.30(m). Such reports must include the information listed in § 250.30(m).

@@ -1,14 +1,12 @@
 ##### § 21.1 Filing a protest. #####
 
-Link to an amendment published at 83 FR 13823, Apr. 2, 2018.
-
 (a) An interested party may protest a solicitation or other request by a Federal agency for offers for a contract for the procurement of property or services; the cancellation of such a solicitation or other request; an award or proposed award of such a contract; and a termination of such a contract, if the protest alleges that the termination was based on improprieties in the award of the contract.
 
-(b) Protests must be in writing and addressed as follows: General Counsel, Government Accountability Office, 441 G Street, NW., Washington, DC 20548, Attention: Procurement Law Control Group.
+(b) Protests must be filed through the EPDS.
 
 (c) A protest filed with GAO shall:
 
-(1) Include the name, street address, electronic mail address, and telephone and facsimile numbers of the protester,
+(1) Include the name, street address, email address, and telephone and facsimile numbers of the protester,
 
 (2) Be signed by the protester or its representative,
 
@@ -36,10 +34,10 @@ Link to an amendment published at 83 FR 13823, Apr. 2, 2018.
 
 (f) No formal briefs or other technical forms of pleading or motion are required. Protest submissions should be concise and logically arranged, and should clearly state legally sufficient grounds of protest. Protests of different procurements should be separately filed.
 
-(g) Unless precluded by law, GAO will not withhold material submitted by a protester from any party outside the government after issuing a decision on the protest, in accordance with GAO's rules at 4 CFR part 81. If the protester believes that the protest contains information which should be withheld, a statement advising of this fact must be on the front page of the submission. This information must be identified wherever it appears, and the protester must file a redacted copy of the protest which omits the information with GAO and the agency within 1 day after the filing of its protest with GAO.
+(g) Unless precluded by law, GAO will not withhold material submitted by a protester from any party outside the government after issuing a decision on the protest, in accordance with GAO's rules at 4 CFR part 81. If the protester believes that the protest contains information which should be withheld, a statement advising of this fact must be on the front page of the submission. This information must be identified wherever it appears, and within 1 day after the filing of its protest, the protester must file a final redacted copy of the protest which omits the information.
 
-(h) Parties who intend to file documents containing classified information should notify GAO in advance to obtain advice regarding procedures for filing and handling the information.
+(h) Protests and other documents containing classified information shall not be filed through the EPDS. Parties who intend to file documents containing classified information should notify GAO in advance to obtain advice regarding procedures for filing and handling the information.
 
 (i) A protest may be dismissed for failure to comply with any of the requirements of this section, except for the items in paragraph (d) of this section. In addition, a protest shall not be dismissed for failure to comply with paragraph (e) of this section where the contracting officer has actual knowledge of the basis of protest, or the agency, in the preparation of its report, was not prejudiced by the protester's noncompliance.
 
-[61 FR 39042, July 26, 1996, as amended at 67 FR 79835, Dec. 31, 2002; 73 FR 32430, June 9, 2008]
+[61 FR 39042, July 26, 1996, as amended at 67 FR 79835, Dec. 31, 2002; 73 FR 32430, June 9, 2008; 83 FR 13823, Apr. 2, 2018]

@@ -1,5 +1,7 @@
 ##### 49.107 Audit of prime contract settlement proposals and subcontract settlements. #####
 
+Link to an amendment published at 83 FR 19150, May 1, 2018.
+
 (a) The TCO shall refer each prime contractor settlement proposal of $100,000 or more to the appropriate audit agency for review and recommendations. The TCO may submit settlement proposals of less than $100,000 to the audit agency. Referrals shall indicate any specific information or data that the TCO desires and shall include facts and circumstances that will assist the audit agency in performing its function. The audit agency shall develop requested information and may make any further accounting reviews it considers appropriate. After its review, the audit agency shall submit written comments and recommendations to the TCO. When a formal examination of settlement proposals under $100,000 is not warranted, the TCO will perform or have performed a desk review and include a written summary of the review in the termination case file.
 
 (b) The TCO shall refer subcontract settlements received for approval or ratification to the appropriate audit agency for review and recommendations when (1) the amount exceeds $100,000 or (2) the TCO wants a complete or partial accounting review. The audit agency shall submit written comments and recommendations to the TCO. The review by the audit agency does not relieve the prime contractor or higher tier subcontractor of the responsibility for performing an accounting review.

@@ -1,8 +1,6 @@
 ##### § 21.7 Hearings. #####
 
-Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
-
-(a) At the request of a party or on its own initiative, GAO may conduct a hearing in connection with a protest. The request shall set forth the reasons why a hearing is needed to resolve the protest.
+(a) Upon a request filed by a party or on its own initiative, GAO may conduct a hearing in connection with a protest. The request shall set forth the reasons why a hearing is needed to resolve the protest.
 
 (b) Prior to the hearing, GAO may hold a pre-hearing conference to discuss and resolve matters such as the procedures to be followed, the issues to be considered, and the witnesses who will testify.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
 
 (d) All parties participating in the protest shall be invited to attend the hearing. Others may be permitted to attend as observers and may participate as allowed by GAO's hearing official. In order to prevent the improper disclosure of protected information at the hearing, GAO's hearing official may restrict attendance during all or part of the proceeding.
 
-(e) Hearings shall normally be recorded and/or transcribed. If a recording and/or transcript is made, any party may obtain copies at its own expense.
+(e) GAO does not provide for hearing transcripts. If the parties wish to have a hearing transcribed, they may do so at their own expense, so long as a copy of the transcript is provided to GAO at the parties' expense.
 
 (f) If a witness whose attendance has been requested by GAO fails to attend the hearing or fails to answer a relevant question, GAO may draw an inference unfavorable to the party for whom the witness would have testified.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
 
 (h) In post-hearing comments, the parties should reference all testimony and admissions in the hearing record that they consider relevant, providing specific citations to the testimony and admissions referenced.
 
-[61 FR 39042, July 26, 1996, as amended at 67 FR 79836, Dec. 31, 2002]
+[61 FR 39042, July 26, 1996, as amended at 67 FR 79836, Dec. 31, 2002; 83 FR 13825, Apr. 2, 2018]

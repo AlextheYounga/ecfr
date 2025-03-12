@@ -1,5 +1,7 @@
 ##### 52.222-4 Contract Work Hours and Safety Standards - Overtime Compensation. #####
 
+Link to an amendment published at 83 FR 19149, May 1, 2018.
+
 As prescribed in 22.305, insert the following clause:
 
 Contract Work Hours and Safety Standards - Overtime Compensation (MAY 2014)

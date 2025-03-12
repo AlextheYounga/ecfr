@@ -1,7 +1,5 @@
 ##### § 21.8 Remedies. #####
 
-Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
-
 (a) If GAO determines that a solicitation, cancellation of a solicitation, termination of a contract, proposed award, or award does not comply with statute or regulation, it shall recommend that the agency implement any combination of the following remedies:
 
 (1) Refrain from exercising options under the contract;
@@ -26,12 +24,18 @@ Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
 
 (2) Bid and proposal preparation.
 
-(e) If the agency decides to take corrective action in response to a protest, GAO may recommend that the agency pay the protester the reasonable costs of filing and pursuing the protest, including attorneys' fees and consultant and expert witness fees. The protester shall file any request that GAO recommend that costs be paid within 15 days of the date on which the protester learned (or should have learned, if that is earlier) that GAO had closed the protest based on the agency's decision to take corrective action. The protester shall furnish a copy of its request to the agency, which may file a response within 15 days after receipt of the request, with a copy furnished to the protester.
+(e) *Recommendation for reimbursement of costs.* If the agency decides to take corrective action in response to a protest, GAO may recommend that the agency pay the protester the reasonable costs of filing and pursuing the protest, including attorneys' fees and consultant and expert witness fees. The protester shall file any request that GAO recommend that costs be paid not later than 15 days after the date on which the protester learned (or should have learned, if that is earlier) that GAO had closed the protest based on the agency's decision to take corrective action. The agency shall file a response within 15 days after the request is filed. The protester shall file comments on the agency response within 10 days of receipt of the response. GAO shall dismiss the request unless the protester files comments within the 10-day period, except where GAO has granted an extension or established a shorter period.
 
-(f)(1) If GAO recommends that the agency pay the protester the costs of filing and pursuing the protest and/or of bid or proposal preparation, the protester and the agency shall attempt to reach agreement on the amount of costs. The protester shall file its claim for costs, detailing and certifying the time expended and costs incurred, with the agency within 60 days after receipt of GAO's recommendation that the agency pay the protester its costs. Failure to file the claim within that time may result in forfeiture of the protester's right to recover its costs.
+(f) *Recommendation on the amount of costs.* (1) If GAO recommends that the agency pay the protester the costs of filing and pursuing the protest and/or of bid or proposal preparation, the protester and the agency shall attempt to reach agreement on the amount of costs. The protester shall file its claim for costs, detailing and certifying the time expended and costs incurred, with the agency within 60 days after receipt of GAO's recommendation that the agency pay the protester its costs. Failure to file the claim within that time may result in forfeiture of the protester's right to recover its costs.
 
-(2) The agency shall issue a decision on the claim for costs as soon as practicable after the claim is filed. If the protester and the agency cannot reach agreement within a reasonable time, GAO may, upon request of the protester, recommend the amount of costs the agency should pay in accordance with 31 U.S.C. 3554(c). In such cases, GAO may also recommend that the agency pay the protester the costs of pursuing the claim for costs before GAO.
+(2) The agency shall issue a decision on the claim for costs as soon as practicable after the claim is filed.
 
-(3) The agency shall notify GAO within 60 days after GAO recommends the amount of costs the agency should pay the protester of the action taken by the agency in response to the recommendation.
+(3) If the protester and the agency cannot reach agreement regarding the amount of costs within a reasonable time, the protester may file a request that GAO recommend the amount of costs to be paid, but such request shall be filed within 10 days of when the agency advises the protester that the agency will not participate in further discussions regarding the amount of costs.
 
-[61 FR 39042, July 26, 1996, as amended at 67 FR 79836, Dec. 31, 2002]
+(4) Within 15 days after receipt of the request that GAO recommend the amount of costs to be paid, the agency shall file a response. The protester shall file comments on the agency response within 10 days of receipt of the response. GAO shall dismiss the request unless the protester files comments within the 10-day period, except where GAO has granted an extension or established a shorter period.
+
+(5) In accordance with 31 U.S.C. 3554(c), GAO may recommend the amount of costs the agency should pay. In such cases, GAO may also recommend that the agency pay the protester the costs of pursuing the claim for costs before GAO.
+
+(6) Within 60 days after GAO recommends the amount of costs the agency should pay the protester, the agency shall file a notification of the action the agency took in response to the recommendation.
+
+[61 FR 39042, July 26, 1996, as amended at 67 FR 79836, Dec. 31, 2002; 83 FR 13825, Apr. 2, 2018]

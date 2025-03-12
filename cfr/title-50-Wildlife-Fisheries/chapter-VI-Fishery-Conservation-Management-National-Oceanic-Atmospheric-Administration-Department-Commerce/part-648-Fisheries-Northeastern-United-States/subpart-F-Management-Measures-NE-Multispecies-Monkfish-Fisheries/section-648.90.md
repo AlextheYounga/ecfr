@@ -86,130 +86,135 @@ For the NE multispecies framework specification process described in this sectio
 
 (D) *AMs for both stocks of windowpane flounder, ocean pout, Atlantic halibut, and Atlantic wolffish.* At the end of each fishing year, NMFS shall determine if the overall ACL for northern windowpane flounder, southern windowpane flounder, ocean pout, Atlantic halibut, or Atlantic wolffish was exceeded. If the overall ACL for any of these stocks is exceeded, NMFS shall implement the appropriate AM, as specified in this paragraph (a)(5)(i)(D), in a subsequent fishing year, consistent with the APA. If reliable information is available, the AM shall be implemented in the fishing year immediately following the fishing year in which the overage occurred. Otherwise, the AM shall be implemented in the second fishing year after the fishing year in which the overage occurred. For example, if NMFS determined before the start of fishing year 2013 that the overall ACL for northern windowpane flounder was exceeded by the groundfish fishery in fishing year 2012, the applicable AM would be implemented for fishing year 2013. If NMFS determined after the start of fishing year 2013 that the overall ACL for northern windowpane flounder was exceeded in fishing year 2012, the applicable AM would be implemented for fishing year 2014. If updated catch information becomes available subsequent to the implementation of an AM that indicates that an ACL was not exceeded, the AM will be rescinded, consistent with the Administrative Procedure Act.
 
-(*1*) *Windowpane flounder.* Unless otherwise specified in paragraphs (a)(5)(i)(D)(*1*)(*i*) and (*ii*) of this section, if NMFS determines the total catch exceeds the overall ACL for either stock of windowpane flounder, as described in this paragraph (a)(5)(i)(D)(*1*), by any amount greater than the management uncertainty buffer up to 20 percent greater than the overall ACL, the applicable small AM area for the stock shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section, consistent with the Administrative Procedure Act. If the overall ACL is exceeded by more than 20 percent, the applicable large AM areas(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section, consistent with the Administrative Procedure Act. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Vessels fishing with trawl gear in these areas may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6). If an overage of the overall ACL for southern windowpane flounder is a result of an overage of the sub-ACL allocated to exempted fisheries pursuant to paragraph (a)(4)(iii)(F) of this section, the applicable AM area(s) shall be in effect for any trawl vessel fishing with a codend mesh size of greater than or equal to 5 inches (12.7 cm) in other, non-specified sub-components of the fishery, including, but not limited to, exempted fisheries that occur in Federal waters and fisheries harvesting exempted species specified in § 648.80(b)(3). If an overage of the overall ACL for southern windowpane flounder is a result of an overage of the sub-ACL allocated to the groundfish fishery pursuant to paragraph (a)(4)(iii)(H)(*2*) of this section, the applicable AM area(s) shall be in effect for any limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip. If an overage of the overall ACL for southern windowpane flounder is a result of overages of both the groundfish fishery and exempted fishery sub-ACLs, the applicable AM area(s) shall be in effect for both the groundfish fishery and exempted fisheries. If a sub-ACL for either stock of windowpane flounder is allocated to another fishery, consistent with the process specified at paragraph (a)(4) of this section, and there are AMs for that fishery, the groundfish fishery AM shall only be implemented if the sub-ACL allocated to the groundfish fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to paragraph (a)(5) of this section exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
+(E) *Windowpane flounder.* Unless otherwise specified in paragraphs (a)(5)(i)(E)(*5*) and (*6*) of this section, if NMFS determines the total catch exceeds the overall ACL for either stock of windowpane flounder, as described in this paragraph (a)(5)(i)(E), by any amount greater than the management uncertainty buffer, up to 20 percent greater than the overall ACL, the applicable small AM area for the stock shall be implemented, as specified in paragraph (a)(5)(i)(E) of this section, consistent with the Administrative Procedure Act. If the overall ACL is exceeded by more than 20 percent, the applicable large AM area(s) for the stock shall be implemented, as specified in this paragraph (a)(5)(i)(E), consistent with the Administrative Procedure Act. Vessels fishing with trawl gear in these areas may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6).
 
-|                              Point                              |     N. latitude     | W.  <br/>longitude  |
-|-----------------------------------------------------------------|---------------------|---------------------|
-|    Northern Windowpane Flounder and Ocean Pout Small AM Area    |                     |                     |
-|                                1                                |       41°10′        |       67°40′        |
-|                                2                                |       41°10′        |       67°20′        |
-|                                3                                |       41°00′        |       67°20′        |
-|                                4                                |       41°00′        |       67°00′        |
-|                                5                                |       40°50′        |       67°00′        |
-|                                6                                |       40°50′        |       67°40′        |
-|                                1                                |       41°10′        |       67°40′        |
-|    Northern Windowpane Flounder and Ocean Pout Large AM Area    |                     |                     |
-|                                1                                |       42°10′        |       67°40′        |
-|                                2                                |       42°10′        |       67°20′        |
-|                                3                                |       41°00′        |       67°20′        |
-|                                4                                |       41°00′        |       67°00′        |
-|                                5                                |       40°50′        |       67°00′        |
-|                                6                                |       40°50′        |       67°40′        |
-|                                1                                |       42°10′        |       67°40′        |
-|    Southern Windowpane Flounder and Ocean Pout Small AM Area    |                     |                     |
-|                                1                                |       41°10′        |       71°30′        |
-|                                2                                |       41°10′        |       71°20′        |
-|                                3                                |       40°50′        |       71°20′        |
-|                                4                                |       40°50′        |       71°30′        |
-|                                1                                |       41°10′        |       71°30′        |
-|Southern Windowpane Flounder and Ocean Pout Small Large AM Area 1|                     |                     |
-|                                1                                |       41°10′        |       71°50′        |
-|                                2                                |       41°10′        |       71°10′        |
-|                                3                                |       41°00′        |       71°10′        |
-|                                4                                |       41°00′        |       71°20′        |
-|                                5                                |       40°50′        |       71°20′        |
-|                                6                                |       40°50′        |       71°50′        |
-|                                1                                |       41°10′        |       71°50′        |
-|   Southern Windowpane Flounder and Ocean Pout Large AM Area 2   |                     |                     |
-|                                1                                |   (<sup>1</sup>)    |       73°30′        |
-|                                2                                |       40°30′        |       73°30′        |
-|                                3                                |       40°30′        |       73°50′        |
-|                                4                                |       40°20′        |       73°50′        |
-|                                5                                |       40°20′        |   (<sup>2</sup>)    |
-|                                6                                |   (<sup>3</sup>)    |      73°58.5′       |
-|                                7                                |   (<sup>4</sup>)    |      73°58.5′       |
-|                                8                                |<sup>5</sup> 40°32.6′|<sup>5</sup> 73°56.4′|
-|                                1                                |   (<sup>1</sup>)    |       73°30′        |
+(*1*) *Multispecies Fishery.* If an overage of the overall ACL for southern windowpane flounder is a result of an overage of the sub-ACL allocated to the multispecies fishery pursuant to paragraph (a)(4)(iii)(H)(*2*) of this section, the applicable AM area(s) shall be in effect year-round for any limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip.
 
-<sup>1</sup> The southernmost coastline of Long Island, NY, at 73°30′ W. longitude.
+(*2*) *Exempted Fisheries.* If an overage of the overall ACL for southern windowpane flounder is a result of an overage of the sub-ACL allocated to exempted fisheries pursuant to paragraph (a)(4)(iii)(F) of this section, the applicable AM area(s) shall be in effect for any trawl vessel fishing with a codend mesh size of greater than or equal to 5 inches (12.7 cm) in other, non-specified sub-components of the fishery, including, but not limited to, exempted fisheries that occur in Federal waters and fisheries harvesting exempted species specified in § 648.80(b)(3). If triggered, the Southern Windowpane Flounder Small AM Area will be implemented from September 1 through April 30; the Southern Windowpane Flounder Large AM Areas 2 and 3 will be implemented year-round.
 
-<sup>2</sup> The easternmost coastline of NJ at 40°20′ N. latitude, then northward along the NJ coastline to Point 6.
+(*3*) *Combined Overage.* If an overage of the overall ACL for southern windowpane flounder is a result of overages of both the multispecies fishery and exempted fishery sub-ACLs, the applicable AM area(s) shall be in effect for both the multispecies fishery and exempted fisheries as described in this paragraph (a)(5)(i)(E). If a sub-ACL for either stock of windowpane flounder is allocated to another fishery, consistent with the process specified at paragraph (a)(4) of this section, and there are AMs for that fishery, the multispecies fishery AM shall only be implemented if the sub-ACL allocated to the multispecies fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to paragraph (a)(5) of this section exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
 
-<sup>3</sup> The northernmost coastline of NJ at 73°58.5′ W. longitude.
+(*4*) *Windowpane AM Areas.* The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted.
 
-<sup>4</sup> The southernmost coastline of Long Island, NY, at 73°58.5′ W. longitude.
+|                           Point                           |     N latitude      |     W longitude     |
+|-----------------------------------------------------------|---------------------|---------------------|
+| Northern Windowpane Flounder and Ocean Pout Small AM Area |                     |                     |
+|                             1                             |       41°10′        |       67°40′        |
+|                             2                             |       41°10′        |       67°20′        |
+|                             3                             |       41°00′        |       67°20′        |
+|                             4                             |       41°00′        |       67°00′        |
+|                             5                             |       40°50′        |       67°00′        |
+|                             6                             |       40°50′        |       67°40′        |
+|                             1                             |       41°10′        |       67°40′        |
+| Northern Windowpane Flounder and Ocean Pout Large AM Area |                     |                     |
+|                             1                             |       42°10′        |       67°40′        |
+|                             2                             |       42°10′        |       67°20′        |
+|                             3                             |       41°00′        |       67°20′        |
+|                             4                             |       41°00′        |       67°00′        |
+|                             5                             |       40°50′        |       67°00′        |
+|                             6                             |       40°50′        |       67°40′        |
+|                             1                             |       42°10′        |       67°40′        |
+| Southern Windowpane Flounder and Ocean Pout Small AM Area |                     |                     |
+|                             1                             |       41°10′        |       71°30′        |
+|                             2                             |       41°10′        |       71°20′        |
+|                             3                             |       40°50′        |       71°20′        |
+|                             4                             |       40°50′        |       71°30′        |
+|                             1                             |       41°10′        |       71°30′        |
+|Southern Windowpane Flounder and Ocean Pout Large AM Area 1|                     |                     |
+|                             1                             |       41°10′        |       71°50′        |
+|                             2                             |       41°10′        |       71°10′        |
+|                             3                             |       41°00′        |       71°10′        |
+|                             4                             |       41°00′        |       71°20′        |
+|                             5                             |       40°50′        |       71°20′        |
+|                             6                             |       40°50′        |       71°50′        |
+|                             1                             |       41°10′        |       71°50′        |
+|Southern Windowpane Flounder and Ocean Pout Large AM Area 2|                     |                     |
+|                             1                             |   (<sup>1</sup>)    |       73°30′        |
+|                             2                             |       40°30′        |       73°30′        |
+|                             3                             |       40°30′        |       73°50′        |
+|                             4                             |       40°20′        |       73°50′        |
+|                             5                             |       40°20′        |   (<sup>2</sup>)    |
+|                             6                             |   (<sup>3</sup>)    |      73°58.5′       |
+|                             7                             |   (<sup>4</sup>)    |      73°58.5′       |
+|                             8                             |<sup>5</sup> 40°32.6′|<sup>5</sup> 73°56.4′|
+|                             1                             |   (<sup>1</sup>)    |       73°30′        |
+|       Southern Windowpane Flounder Large AM Area 3        |                     |                     |
+|                             1                             |       41°10′        |       71°30′        |
+|                             2                             |       41°10′        |       71°10′        |
+|                             3                             |       41°00′        |       71°10′        |
+|                             4                             |       41°00′        |       71°20′        |
+|                             5                             |       40°50′        |       71°20′        |
+|                             6                             |       40°50′        |       71°30′        |
+|                             1                             |       41°10′        |       71°30′        |
+
+<sup>1</sup> The southernmost coastline of Long Island, NY, at 73°30′ W longitude.
+
+<sup>2</sup> The easternmost coastline of NJ at 40°20′ N latitude, then northward along the NJ coastline to Point 6.
+
+<sup>3</sup> The northernmost coastline of NJ at 73°58.5′ W longitude.
+
+<sup>4</sup> The southernmost coastline of Long Island, NY, at 73°58.5′ W longitude.
 
 <sup>5</sup> The approximate location of the southwest corner of the Rockaway Peninsula, Queens, NY, then eastward along the southernmost coastline of Long Island, NY (excluding South Oyster Bay), back to Point 1.
 
-(*i*) *Reducing the size of an AM.* If the overall northern or southern windowpane flounder ACL is exceeded by more than 20 percent and NMFS determines that: The stock is rebuilt, and the biomass criterion, as defined by the Council, is greater than the most recent fishing year's catch, then only the respective small AM may be implemented as described in paragraph (a)(5)(i)(D)(*1*) of this section, consistent with the Administrative Procedure Act. This provision only applies to a limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip.
+(*5*) *Reducing the size of an AM.* If the overall northern or southern windowpane flounder ACL is exceeded by more than 20 percent and NMFS determines that the stock is rebuilt, and the biomass criterion, as defined by the Council, is greater than the most recent fishing year's catch, then only the small AM may be implemented as described in paragraph (a)(5)(i)(D)(*1*) of this section, consistent with the Administrative Procedure Act. This provision applies to a limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip, and to all vessels fishing with trawl gear with a codend mesh size equal to or greater than 5 inches (12.7 cm) in other, non-specified sub-components of the fishery, including, but not limited to, exempted fisheries that occur in Federal waters and fisheries harvesting exempted species specified in § 648.80(b)(3).
 
-(*ii*) *Reducing the duration of an AM.* If the northern or southern windowpane flounder AM is implemented in the third fishing year following the year of an overage, as described in paragraph (a)(5)(i)(D) of this section, and NMFS subsequently determines that the applicable windowpane flounder ACL was not exceeded by any amount the year immediately after which the overage occurred (*i.e.,* the second year), on or after September 1 the AM can be removed once year-end data are complete. This reduced duration does not apply if NMFS determines during year 3 that a year 3 overage of the applicable windowpane flounder ACL has occurred. This provision only applies to a limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip.
+(*6*) *Reducing the duration of an AM.* If the northern or southern windowpane flounder AM is implemented in the third fishing year following the year of an overage, as described in paragraph (a)(5)(i)(D) of this section, and NMFS subsequently determines that the applicable windowpane flounder ACL was not exceeded by any amount the year immediately after which the overage occurred (*i.e.,* the second year), on or after September 1 the AM can be removed once year-end data are complete. This reduced duration does not apply if NMFS determines during year 3 that a year 3 overage of the applicable windowpane flounder ACL has occurred. This provision applies to a limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip, and to all vessels fishing with trawl gear with a codend mesh size equal to or greater than 5 inches (12.7 cm) in other, non-specified sub-components of the fishery, including, but not limited to, exempted fisheries that occur in Federal waters and fisheries harvesting exempted species specified in § 648.80(b)(3).
 
-(*2*) *Atlantic halibut.* If NMFS determines the overall ACL for Atlantic halibut is exceeded, as described in this paragraph (a)(5)(i)(D)(*2*), by any amount greater than the management uncertainty buffer, the applicable AM areas shall be implemented and any vessel issued a NE multispecies permit or a limited access monkfish permit and fishing under the monkfish Category C or D permit provisions, may not fish for, possess, or land Atlantic halibut for the fishing year in which the AM is implemented, as specified in paragraph (a)(5)(i)(D) of this section. If the overall ACL is exceeded by more than 20 percent, the applicable AM area(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section, and the Council shall revisit the AM in a future action. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Halibut Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6). When in effect, a limited access NE multispecies permitted vessel with gillnet or longline gear may not fish or be in the Atlantic Halibut Fixed Gear AM Areas, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6). If a sub-ACL for Atlantic halibut is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and there are AMs for that fishery, the groundfish fishery AM shall only be implemented if the sub-ACL allocated to the groundfish fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
+(F) *Atlantic halibut.* If NMFS determines the overall ACL for Atlantic halibut is exceeded, as described in this paragraph (a)(5)(i)(F), by any amount greater than the management uncertainty buffer, the applicable AM areas shall be implemented and any vessel issued a Federal permit for any fishery management plan may not fish for, possess, or land Atlantic halibut for the fishing year in which the AM is implemented, as specified in paragraph (a)(5)(i)(F) of this section. Vessels issued only a charter/party permit, and/or an Atlantic highly migratory species angling permit, and/or an Atlantic highly migratory species charter/headboat permit are exempt from the AM. A vessel issued a permit that is not exempt from the AM in addition to an exempt permit may not fish for, possess, or land Atlantic halibut for the fishing year in which the AM is implemented. If the overall ACL is exceeded by more than 20 percent, the applicable AM area(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(F) of this section, and the Council shall revisit the AM in a future action. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Halibut Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6); except that selective trawl gear is not required in the portion of the Trawl Gear AM Area between 41 degrees 40 minutes and 42 degrees from April 1 through July 31. When in effect, a limited access NE multispecies permitted vessel with gillnet gear may not fish or be in the Atlantic Halibut Fixed Gear AM Area from March 1 through October 31, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6). If a sub-ACL for Atlantic halibut is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and there are AMs for that fishery, the multispecies fishery AM shall only be implemented if the sub-ACL allocated to the multispecies fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
 
 Atlantic Halibut Trawl Gear AM Area
 
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  |  42°00′   |   69°20′   |
-|  2  |  42°00′   |   68°20′   |
-|  3  |  41°30′   |   68°20′   |
-|  4  |  41°30′   |   69°20′   |
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|  1  |  42°00′  |  69°20′   |
+|  2  |  42°00′  |  68°20′   |
+|  3  |  41°30′  |  68°20′   |
+|  4  |  41°30′  |  69°20′   |
 
-Atlantic Halibut Fixed Gear AM Area 1
+Atlantic Halibut Gillnet Gear AM Area
 
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  |  42°30′   |   70°20′   |
-|  2  |  42°30′   |   70°15′   |
-|  3  |  42°20′   |   70°15′   |
-|  4  |  42°20′   |   70°20′   |
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|  1  |  43°10′  |  69°40′   |
+|  2  |  43°10′  |  69°30′   |
+|  3  |  43°00′  |  69°30′   |
+|  4  |  43°00′  |  69°40′   |
 
-Atlantic Halibut Fixed Gear AM Area 2
-
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  |  43°10′   |   69°40′   |
-|  2  |  43°10′   |   69°30′   |
-|  3  |  43°00′   |   69°30′   |
-|  4  |  43°00′   |   69°40′   |
-
-(*3*) *Atlantic wolffish.* If NMFS determines the overall ACL for Atlantic wolffish is exceeded, as described in this paragraph (a)(5)(i)(D)(*3*), by any amount greater than the management uncertainty buffer, the applicable AM areas shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section. If the overall ACL is exceeded by more than 20 percent, the applicable AM area(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section, and the Council shall revisit the AM in a future action. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Wolffish Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6). When in effect, a limited access NE multispecies permitted vessel with gillnet or longline gear may not fish or be in the Atlantic Wolffish Fixed Gear AM Areas, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6). If a sub-ACL for Atlantic wolffish is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and AMs are developed for that fishery, the groundfish fishery AM shall only be implemented if the sub-ACL allocated to the groundfish fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
+(G) *Atlantic wolffish.* If NMFS determines the overall ACL for Atlantic wolffish is exceeded, as described in this paragraph (a)(5)(i)(G), by any amount greater than the management uncertainty buffer, the applicable AM areas shall be implemented, as specified in this paragraph (a)(5)(i)(G). If the overall ACL is exceeded by more than 20 percent, the applicable AM area(s) for the stock shall be implemented, as specified in this paragraph (a)(5)(i)(G), and the Council shall revisit the AM in a future action. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Wolffish Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6). When in effect, a limited access NE multispecies permitted vessel with gillnet or longline gear may not fish or be in the Atlantic Wolffish Fixed Gear AM Areas, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6). If a sub-ACL for Atlantic wolffish is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and AMs are developed for that fishery, the multispecies fishery AM shall only be implemented if the sub-ACL allocated to the multispecies fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
 
 Atlantic Wolffish Trawl Gear AM Area
 
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  |  42°30′   |   70°30′   |
-|  2  |  42°30′   |   70°15′   |
-|  3  |  42°15′   |   70°15′   |
-|  4  |  42°15′   |   70°10′   |
-|  5  |  42°10′   |   70°10′   |
-|  6  |  42°10′   |   70°20′   |
-|  7  |  42°20′   |   70°20′   |
-|  8  |  42°20′   |   70°30′   |
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|  1  |  42°30′  |  70°30′   |
+|  2  |  42°30′  |  70°15′   |
+|  3  |  42°15′  |  70°15′   |
+|  4  |  42°15′  |  70°10′   |
+|  5  |  42°10′  |  70°10′   |
+|  6  |  42°10′  |  70°20′   |
+|  7  |  42°20′  |  70°20′   |
+|  8  |  42°20′  |  70°30′   |
 
 Atlantic Wolffish Fixed Gear AM Area 1
 
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  |  41°40′   |   69°40′   |
-|  2  |  41°40′   |   69°30′   |
-|  3  |  41°30′   |   69°30′   |
-|  4  |  41°30′   |   69°40′   |
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|  1  |  41°40′  |  69°40′   |
+|  2  |  41°40′  |  69°30′   |
+|  3  |  41°30′  |  69°30′   |
+|  4  |  41°30′  |  69°40′   |
 
 Atlantic Wolffish Fixed Gear AM Area 2
 
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  |  42°30′   |   70°20′   |
-|  2  |  42°30′   |   70°15′   |
-|  3  |  42°20′   |   70°15′   |
-|  4  |  42°20′   |   70°20′   |
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|  1  |  42°30′  |  70°20′   |
+|  2  |  42°30′  |  70°15′   |
+|  3  |  42°20′  |  70°15′   |
+|  4  |  42°20′  |  70°20′   |
 
-(*4*) *Ocean pout.* Unless otherwise specified in paragraphs (a)(5)(i)(D)(*1*)(*i*) and (*ii*) of this section, if NMFS determines the total catch exceeds the overall ACL for ocean pout, as described in paragraph (a)(5)(i)(D)(*1*) of this section, by any amount greater than the management uncertainty buffer up to 20 percent greater than the overall ACL, the applicable small AM area for the stock shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section, consistent with the Administrative Procedure Act. If the overall ACL is exceeded by more than 20 percent, large AM area(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(D) of this section, consistent with the Administrative Procedure Act. The AM areas for ocean pout are defined in paragraph (a)(5)(i)(D)(*1*) of this section, connected in the order listed by rhumb lines, unless otherwise noted. Vessels fishing with trawl gear in these areas may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6).
-
-(E) [Reserved]
+(H) *Ocean pout.* Unless otherwise specified in paragraphs (a)(5)(i)(E)(*5*) and (*6*) of this section, if NMFS determines the total catch exceeds the overall ACL for ocean pout, as described in paragraph (a)(5)(i)(E) of this section, by any amount greater than the management uncertainty buffer up to 20 percent greater than the overall ACL, the applicable small AM area for the stock shall be implemented, as specified in paragraph (a)(5)(i)(E) of this section, consistent with the Administrative Procedure Act. If the overall ACL is exceeded by more than 20 percent, large AM area(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(E) of this section, consistent with the Administrative Procedure Act. The AM areas for ocean pout are defined in paragraph (a)(5)(i)(E)(*4*) of this section, connected in the order listed by rhumb lines, unless otherwise noted. Vessels fishing with trawl gear in these areas may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6).
 
 (ii) *AMs if the overall ACL for a regulated species or ocean pout stock is exceeded.* If the catch of any stock of regulated species or ocean pout by vessels fishing outside of the NE multispecies fishery; vessels fishing in state waters outside of the FMP; or vessels fishing in exempted fisheries, as defined in this part, exceeds the sub-component of the ACL for that stock specified for such fisheries pursuant to paragraphs (a)(4)(iii)(A) through (G) of this section, and the overall ACL for that stock is exceeded, then the amount of the overage of the overall ACL for that stock due to catch from vessels fishing outside of the NE multispecies fishery shall be distributed among components of the NE multispecies fishery based upon each component's share of that stock's ACL available to the NE multispecies fishery pursuant to paragraph (a)(4)(iii)(H) of this section. Each component's share of the ACL overage for a particular stock would be then added to the catch of that stock by each component of the NE multispecies fishery to determine if the resulting sum of catch of that stock for each component of the fishery exceeds that individual component's share of that stock's ACL available to the NE multispecies fishery. If the total catch of that stock by any component of the NE multispecies fishery exceeds the amount of the ACL specified for that component of the NE multispecies fishery pursuant to paragraph (a)(4)(iii)(H) of this section, then the AMs specified in paragraphs (a)(5)(i)(A) through (C) of this section shall take effect, as applicable. If the catch of any stock of regulated species or ocean pout by vessels outside of the FMP exceeds the sub-component of the ACL for that stock specified pursuant to paragraphs (a)(4)(iii)(A) through (C) of this section, but the overall ACL for that stock is not exceeded, even after consideration of the catch of that stock by other sub-components of the fishery, then the AMs specified in this paragraph (a)(5)(ii) shall not take effect.
 
@@ -220,6 +225,8 @@ Atlantic Wolffish Fixed Gear AM Area 2
 (A) *Threshold for implementing the Atlantic sea scallop fishery AMs.* If scallop fishery catch exceeds the scallop fishery sub-ACLs for any groundfish stocks in paragraph (a)(4) of this section by 50 percent or more, or if scallop fishery catch exceeds the scallop fishery sub-ACL by any amount and total catch exceeds the overall ACL for a given stock, then the applicable scallop fishery AM will take effect, as specified in § 648.64 of the Atlantic sea scallop regulations.
 
 (B) *2017 and 2018 fishing year threshold for implementing the Atlantic sea scallop fishery AMs for GB yellowtail flounder and Northern windowpane flounder.* For the 2017 and 2018 fishing years only, if scallop fishery catch exceeds either GB yellowtail flounder or northern windowpane flounder sub-ACLs specified in paragraph (a)(4) of this section, and total catch exceeds the overall ACL for that stock, then the applicable scallop fishery AM will take effect, as specified in § 648.64 of the Atlantic sea scallop regulations. For the 2019 fishing year and onward, the threshold for implementing scallop fishery AMs for GB yellowtail flounder and northern windowpane flounder will return to that listed in paragraph (a)(5)(iv)(A) of this section.
+
+(C) *2018 fishing year threshold for implementing the Atlantic sea scallop fishery AM for SNE/MA yellowtail flounder.* For the 2018 fishing year, if the scallop fishery catch exceeds its SNE/MA yellowtail flounder sub-ACL specified in paragraph (a)(4) of this section, and total catch exceeds the overall ACL for that stock, then the applicable scallop fishery AM will take effect, as specified in § 648.64 of the Atlantic sea scallop regulations. Beginning in fishing year 2019, the threshold for implementing scallop fishery AMs for SNE/MA yellowtail flounder listed in paragraph (a)(5)(iv)(A) of this section will be in effect.
 
 (v) *AM if the small-mesh fisheries GB yellowtail flounder sub-ACL is exceeded.* If NMFS determines that the sub-ACL of GB yellowtail flounder allocated to the small-mesh fisheries, pursuant to paragraph (a)(4)(iii)(G) of this section, is exceeded, NMFS shall implement the AM specified in this paragraph consistent with the Administrative Procedures Act. The AM requires that small-mesh fisheries vessels, as defined in paragraph (a)(4)(iii)(G)(*1*) of this section, use one of the following approved selective trawl gear in the GB yellowtail flounder stock area, as defined at § 648.85(b)(6)(v)(H): A haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6). If reliable information is available, the AM shall be implemented in the fishing year immediately following the year in which the overage occurred only if there is sufficient time to do so in a manner consistent with the Administrative Procedures Act. Otherwise, the AM shall be implemented in the second fishing year after the fishing year in which the overage occurred. For example, if NMFS determined after the start of Year 2 that the small-mesh fisheries sub-ACL for GB yellowtail flounder was exceeded in Year 1, the applicable AM would be implemented at the start of Year 3. If updated catch information becomes available subsequent to the implementation of an AM that indicates that an overage of the small-mesh fisheries sub-ACL did not occur, NMFS shall rescind the AM, consistent with the Administrative Procedure Act.
 
@@ -330,4 +337,4 @@ Atlantic Wolffish Fixed Gear AM Area 2
 
 (e) Nothing in this section is meant to derogate from the authority of the Secretary to take emergency action and interim measures under section 305(c) of the Magnuson-Stevens Act.
 
-[69 FR 22984, Apr. 27, 2004]Editorial Note:For Federal Register citations affecting § 648.90, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[69 FR 22984, Apr. 27, 2004]Editorial Note:For Federal Register citations affecting § 648.90, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

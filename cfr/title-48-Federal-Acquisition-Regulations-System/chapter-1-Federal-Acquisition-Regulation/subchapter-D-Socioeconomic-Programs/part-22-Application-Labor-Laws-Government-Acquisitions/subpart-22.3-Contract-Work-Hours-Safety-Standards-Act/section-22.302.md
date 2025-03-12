@@ -1,5 +1,7 @@
 ##### 22.302 Liquidated damages and overtime pay. #####
 
+Link to an amendment published at 83 FR 19149, May 1, 2018.
+
 (a) When an overtime computation discloses underpayments, the responsible contractor or subcontractor must pay the affected employee any unpaid wages and pay liquidated damages to the Government. The contracting officer must assess liquidated damages at the rate of $10 per affected employee for each calendar day on which the employer required or permitted the employee to work in excess of the standard workweek of 40 hours without paying overtime wages required by the statute.
 
 (b) If the contractor or subcontractor fails or refuses to comply with overtime pay requirements of the statute and the funds withheld by Federal agencies for labor standards violations do not cover the unpaid wages due laborers and mechanics and the liquidated damages due the Government, make payments in the following order -
