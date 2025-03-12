@@ -1,7 +1,5 @@
 ##### § 660.511 Catch restrictions. #####
 
-Link to an amendment published at 83 FR 28784, June 21, 2018.
-
 (a) All CPS harvested shoreward of the outer boundary of the EEZ (0-200 nautical miles off shore) will be counted toward the catch limitations specified in this section.
 
 (b) The trip limit for harvesting vessels fishing in the CPS Limited Entry Zone for CPS other than live bait without a limited entry permit is 5 mt tons of all CPS finfish combined.
@@ -22,4 +20,12 @@ Link to an amendment published at 83 FR 28784, June 21, 2018.
 
 (h) On January 1, 35 percent of the initial harvest guideline for Pacific sardine plus the remaining unharvested portion of the September 15 allocation is allocated coastwide within the fishery management area.
 
-[64 FR 69893, Dec. 15, 1999, as amended at 68 FR 52527, Sept. 4, 2003; 71 FR 37001, June 29, 2006; 79 FR 11344, Feb. 28, 2014; 83 FR 6473, Feb. 14, 2018]
+(i) The following harvest specifications apply for Pacific mackerel:
+
+(1) For the Pacific mackerel fishing season July 1, 2017, through June 30, 2018, the harvest guideline is 26,293 mt and the ACT is 25,293 mt;
+
+(2) For the Pacific mackerel fishing season July 1, 2018, through June 30, 2019, the harvest guideline is 23,840 mt and the ACT is 22,840 mt.
+
+(j) When an ACT in paragraph (i) of this section has been reached or is projected to be reached soon, then for the remainder of the Pacific mackerel fishing season, Pacific mackerel may not be targeted and landings of Pacific mackerel may not exceed 45 percent of landings when Pacific mackerel are landed with other CPS (in other words, no more than 45 percent by weight of the CPS landed per trip may be Pacific mackerel), except that up to 3 mt of Pacific mackerel may be landed without landing any other CPS. When a harvest guideline in paragraph (i) of this section has been reached or is projected to be reached soon, no further retention of Pacific mackerel is allowed through the end of the Pacific mackerel fishing season. The Regional Administer shall announce in the Federal Register the date that an ACT or the harvest guideline is reached or is expected to be reached, and the date and time that the restrictions described in this paragraph go into effect.
+
+[64 FR 69893, Dec. 15, 1999, as amended at 68 FR 52527, Sept. 4, 2003; 71 FR 37001, June 29, 2006; 79 FR 11344, Feb. 28, 2014; 83 FR 6473, Feb. 14, 2018; 83 FR 28784, June 21, 2018]Editorial Note:At 83 FR 28784, June 21, 2018, § 660.511 was amended by adding paragraphs (i) and (j), effective July 23, 2018, through June 30, 2019.

@@ -1,5 +1,7 @@
 ##### § 532.3 Definitions. #####
 
+Link to an amendment published at 83 FR 34792, July 23, 2018.
+
 When used in this part,
 
 (a) “NVOCC Negotiated Rate Arrangement” or “NRA” means a written and binding arrangement between an NRA shipper and an eligible NVOCC to provide specific transportation service for a stated cargo quantity, from origin to destination, on and after receipt of the cargo by the carrier or its agent (or the originating carrier in the case of through transportation).

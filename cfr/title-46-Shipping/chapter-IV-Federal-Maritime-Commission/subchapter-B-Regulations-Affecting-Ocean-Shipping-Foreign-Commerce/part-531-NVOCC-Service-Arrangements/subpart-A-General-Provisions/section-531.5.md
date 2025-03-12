@@ -1,5 +1,7 @@
 ##### § 531.5 Duty to file. #####
 
+Link to an amendment published at 83 FR 34792, July 23, 2018.
+
 (a) The duty under this part to file NSAs, amendments and notices, and to publish statements of essential terms, shall be upon the NVOCC acting as carrier party to the NSA.
 
 (b) The Commission shall not order any person to pay the difference between the amount billed and agreed upon in writing with a common carrier or its agent and the amount set forth in an NSA by that common carrier for the transportation service provided.

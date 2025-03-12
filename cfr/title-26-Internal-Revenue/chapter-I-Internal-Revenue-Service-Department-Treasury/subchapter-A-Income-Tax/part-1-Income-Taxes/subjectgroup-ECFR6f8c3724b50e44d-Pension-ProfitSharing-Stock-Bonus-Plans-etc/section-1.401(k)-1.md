@@ -355,4 +355,6 @@ Example 1.Employer T maintains a cash or deferred arrangement for all of its emp
 
 (4) *Applicability of prior regulations.* For any plan year before a plan applies this section and §§ 1.401(k)-2 through 1.401(k)-6 (either the first plan year beginning on or after January 1, 2006, or such earlier year, as provided in paragraph (g)(2) of this section), § 1.401(k)-1 (as it appeared in the April 1, 2004 edition of 26 CFR part 1) applies to the plan to the extent that section, as it so appears, reflects the statutory provisions of section 401(k) as in effect for the relevant year.
 
-[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 9 Jan. 3, 2006; T.D. 9319, 72 FR 16894, Apr. 5, 2007; T.D. 9324, 72 FR 21109, Apr. 30, 2007; T.D. 9447, 74 FR 8207, Feb. 24, 2009]
+(5) *Applicability date for definitions of qualified matching contributions (QMACs) and qualified nonelective contributions (QNECs).* The revisions to the second sentence in the definitions of QMACs and QNECs in § 1.401(k)-6 apply to plan years ending on or after July 20, 2018.
+
+[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 9 Jan. 3, 2006; T.D. 9319, 72 FR 16894, Apr. 5, 2007; T.D. 9324, 72 FR 21109, Apr. 30, 2007; T.D. 9447, 74 FR 8207, Feb. 24, 2009; T.D. 9835 83 FR 34471, July 20, 2018]

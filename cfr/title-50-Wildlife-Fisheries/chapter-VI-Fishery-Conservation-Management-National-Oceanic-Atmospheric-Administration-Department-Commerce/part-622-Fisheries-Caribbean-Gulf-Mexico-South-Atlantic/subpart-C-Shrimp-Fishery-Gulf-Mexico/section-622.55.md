@@ -1,7 +1,5 @@
 ##### § 622.55 Closed areas. #####
 
-Link to an amendment published at 83 FR 29046, June 22, 2018.
-
 (a) *Texas closure.* (1) From 30 minutes after official sunset on May 15 to 30 minutes after official sunset on July 15, trawling, except trawling for royal red shrimp beyond the 100-fathom (183-m) depth contour, is prohibited in the Gulf EEZ off Texas.
 
 (2) In accordance with the procedures and restrictions of the Gulf Shrimp FMP, the RA may adjust the closing and/or opening date of the Texas closure to provide an earlier, later, shorter, or longer closure, but the duration of the closure may not exceed 90 days or be less than 45 days. Notification of the adjustment of the closing or opening date will be published in the Federal Register.
@@ -46,7 +44,7 @@ Table 1 to Paragraph (c)(1)
 
 (ii) Effective from April 11 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point W to point V, both points as specified in paragraph (c)(2)(i) of this section, to point G, as specified in paragraph (c)(1) of this section.
 
-(iii) Effective from May 26 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point F, as specified in paragraph (d)(1) of this section, to point Q at 24°46.7′ N. lat., 81°52.2′ W. long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point U and north to point T, both points as specified in paragraph (c)(2)(i) of this section.
+(iii) Effective from May 26 through July 31, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point F, as specified in paragraph (c)(1) of this section, to point Q at 24°46.7′ N lat., 81°52.2′ W long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point U and north to point T, both points as specified in paragraph (c)(2)(i) of this section.
 
 (d) *Closures of the Gulf shrimp fishery to reduce red snapper bycatch.* During a closure implemented in accordance with this paragraph (d), trawling is prohibited within the specified closed area(s).
 
@@ -157,4 +155,4 @@ Table 1 to Paragraph (e)
 
 (ii) It is unlawful to trawl in that part of Zone V that is in the EEZ from December 1 through March 15, each year.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 60567, Dec. 21, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 60567, Dec. 21, 2017; 83 FR 29046, June 22, 2018]

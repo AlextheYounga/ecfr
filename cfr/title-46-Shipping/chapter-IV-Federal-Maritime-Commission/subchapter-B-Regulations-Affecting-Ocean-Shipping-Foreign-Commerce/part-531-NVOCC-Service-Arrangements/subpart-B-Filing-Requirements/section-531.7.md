@@ -1,5 +1,7 @@
 ##### § 531.7 Notices. #####
 
+Link to an amendment published at 83 FR 34792, July 23, 2018.
+
 Within thirty (30) days of the occurrence of any event listed below, there shall be filed with the Commission, pursuant to the same procedures as those followed for the filing of an amendment pursuant to § 531.5 and Appendix A to this part, a detailed notice of:
 
 (a) Correction;

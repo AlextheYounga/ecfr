@@ -1,5 +1,7 @@
 ##### § 531.4 Confidentiality. #####
 
+Link to an amendment published at 83 FR 34791, July 23, 2018.
+
 (a) All NSAs and amendments to NSAs filed with the Commission shall, to the fullest extent permitted by law, be held in confidence by the Commission.
 
 (b) Nothing contained in this part shall preclude the Commission from providing certain information from or access to NSAs to another agency of the Federal government of the United States.

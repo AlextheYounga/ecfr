@@ -1,5 +1,7 @@
 ##### § 531.3 Definitions. #####
 
+Link to an amendment published at 83 FR 34791, July 23, 2018.
+
 When used in this part:
 
 (a) *Act* means the Shipping Act of 1984 as amended by the Ocean Shipping Reform Act of 1998;

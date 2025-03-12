@@ -1,5 +1,7 @@
 ##### § 532.5 Requirements for NVOCC negotiated rate arrangements. #####
 
+Link to an amendment published at 83 FR 34792, July 23, 2018.
+
 In order to qualify for the exemptions to the general rate publication requirement as set forth in section 532.2, an NRA must:
 
 (a) Be in writing;

@@ -1,5 +1,7 @@
 ##### § 64.1601 Delivery requirements and privacy restrictions. #####
 
+Link to an amendment published at 83 FR 34794, July 23, 2018.
+
 (a) *Delivery.* Except as provided in paragraphs (d) and (e) of this section:
 
 (1) Telecommunications carriers and providers of interconnected Voice over Internet Protocol (VoIP) services, in originating interstate or intrastate traffic on the public switched telephone network (PSTN) or originating interstate or intrastate traffic that is destined for the PSTN (collectively “PSTN Traffic”), are required to transmit for all PSTN Traffic the telephone number received from or assigned to or otherwise associated with the calling party to the next provider in the path from the originating provider to the terminating provider. This provision applies regardless of the voice call signaling and transmission technology used by the carrier or VoIP provider. Entities subject to this provision that use Signaling System 7 (SS7) are required to transmit the calling party number (CPN) associated with all PSTN Traffic in the SS7 ISUP (ISDN User Part) CPN field to interconnecting providers, and are required to transmit the calling party's charge number (CN) in the SS7 ISUP CN field to interconnecting providers for any PSTN Traffic where CN differs from CPN. Entities subject to this provision who use multi-frequency (MF) signaling are required to transmit CPN, or CN if it differs from CPN, associated with all PSTN Traffic in the MF signaling automatic numbering information (ANI) field.

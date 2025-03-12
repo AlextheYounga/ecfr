@@ -1,5 +1,7 @@
 ##### § 531.10 Excepted and exempted commodities. #####
 
+Link to an amendment published at 83 FR 34792, July 23, 2018.
+
 (a) *Statutory exceptions.* NSAs for the movement of the following, as defined in section 3 of the Act (46 U.S.C. 40102) and § 530.3 or § 520.2 of this chapter, are not subject to the conditions of this exemption:
 
 (1) Bulk cargo;

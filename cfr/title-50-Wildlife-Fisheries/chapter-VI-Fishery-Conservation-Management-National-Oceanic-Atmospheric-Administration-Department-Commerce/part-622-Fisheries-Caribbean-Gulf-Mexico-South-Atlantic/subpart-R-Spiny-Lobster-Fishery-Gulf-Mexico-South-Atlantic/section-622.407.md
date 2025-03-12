@@ -1,8 +1,6 @@
 ##### § 622.407 Minimum size limits and other harvest limitations. #####
 
-Link to an amendment published at 83 FR 29047, June 22, 2018.
-
-(a) *Minimum size limits.* (1) Except as provided in paragraph (c) of this section -
+(a) *Minimum size limits.* (1) Except as provided in paragraph (c) of this section—
 
 (i) No person may possess a spiny lobster in or from the EEZ with a carapace length of 3.0 inches (7.62 cm) or less; and
 
@@ -14,8 +12,10 @@ Link to an amendment published at 83 FR 29047, June 22, 2018.
 
 (b) *Berried lobsters.* A berried (egg-bearing) spiny lobster in or from the EEZ must be returned immediately to the water unharmed. If found in a trap in the EEZ, a berried spiny lobster may not be retained in the trap. A berried spiny lobster in or from the EEZ may not be stripped of its eggs or otherwise molested. The possession of a spiny lobster, or part thereof, in or from the EEZ from which eggs, swimmerettes, or pleopods have been removed or stripped is prohibited.
 
-(c) *Undersized attractants.* A live spiny lobster under the minimum size limit specified in paragraph (a)(1) of this section that is harvested in the EEZ by a trap may be retained aboard the harvesting vessel for future use as an attractant in a trap provided it is held in a live well aboard the vessel. No more than fifty undersized spiny lobsters, and one per trap aboard the vessel, whichever is greater, may be retained aboard for use as attractants. The live well must provide a minimum of3/4 gallons (1.7 liters) of seawater per spiny lobster. An undersized spiny lobster so retained must be released to the water alive and unharmed immediately upon leaving the trap lines and prior to one hour after official sunset each day. No more than fifty undersized spiny lobsters and one per trap aboard the vessel, may be retained aboard for use as attractants.
+(c) *Undersized attractants.* A live spiny lobster under the minimum size limit specified in paragraph (a)(1) of this section that is harvested in the EEZ by a trap may be retained aboard the harvesting vessel for future use as an attractant in a trap provided it is held in a live well aboard the vessel. The live well must provide a minimum of3/4 gallons (1.7 liters) of seawater per spiny lobster. An undersized spiny lobster so retained must be released to the water alive and unharmed immediately upon leaving the trap lines and prior to 1 hour after official sunset each day. No more than 50 undersized spiny lobsters plus 1 per trap aboard the vessel may be retained aboard for use as attractants.
 
 (d) *Tail separation.* (1) The possession aboard a fishing vessel of a separated spiny lobster tail in or from the EEZ, is authorized only when the possession is incidental to fishing exclusively in the EEZ on a trip of 48 hours or more and a valid Federal tail-separation permit, and either a valid Federal vessel permit for spiny lobster or a valid Florida Saltwater Products License with a valid Florida Restricted Species Endorsement and a valid Crawfish Endorsement, as specified in § 622.400(a)(2), has been issued to and are on board the vessel.
 
 (2) Spiny lobster must be landed either all whole or all tailed on a single fishing trip.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 83 FR 29047, June 22, 2018]

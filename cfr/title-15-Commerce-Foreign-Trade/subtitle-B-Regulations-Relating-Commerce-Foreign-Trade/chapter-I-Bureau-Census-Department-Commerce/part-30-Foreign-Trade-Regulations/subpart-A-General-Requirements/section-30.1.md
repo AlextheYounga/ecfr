@@ -1,7 +1,5 @@
 ##### § 30.1 Purpose and definitions. #####
 
-Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
-
 (a) This part sets forth the Foreign Trade Regulations (FTR) as required under the provisions of Title 13, United States Code (U.S.C.), Chapter 9, section 301. These regulations are revised pursuant to provisions of the Foreign Relations Authorization Act, Public Law 107-228 (the Act). This Act authorizes the Secretary of Commerce, with the concurrence of the Secretary of State and the Secretary of Homeland Security, to publish regulations mandating that all persons who are required to file export information under Chapter 9 of 13 U.S.C., file such information through the Automated Export System (AES) for all shipments where a Shipper's Export Declaration (SED) was previously required. The law further authorizes the Secretary of Commerce to issue regulations regarding imposition of civil and criminal penalties for violations of the provisions of the Act and these regulations.
 
 (b) Electronic filing through the AES strengthens the U.S. government's ability to prevent the export of certain items to unauthorized destinations and/or end users because the AES aids in targeting, identifying, and when necessary confiscating suspicious or illegal shipments prior to exportation.
@@ -186,6 +184,8 @@ Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
 
 *Issued banknote.* A promissory note intended to circulate as money, usually printed on paper or plastic, issued by a bank with a specific denomination, payable to an individual, entity or the bearer.
 
+*Kimberley Process Certificate (KPC).* A forgery resistant document used to certify the origin of rough diamonds from sources which are free of conflict.
+
 *License applicant.* The person who applies for an export or reexport license. (For example, obtaining a license for commodities, software, or technology that are listed on the CCL.)
 
 *License exception.* An authorization that allows a USPPI or other appropriate party to export or reexport under stated conditions, items subject to the EAR that would otherwise require a license under the EAR. The BIS License Exceptions are currently contained in Part 740 of the EAR (15 CFR part 740).
@@ -290,6 +290,8 @@ Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
 
 *Violation of the FTR.* Failure of the USPPI, FPPI, authorized agent of the USPPI, FPPI, carrier, or other party to the transaction to comply with the requirements set forth in 15 CFR 30, for each export shipment.
 
+*Voided Kimberley Process Certificate.* A Kimberley Process Certificate intended to be used for the exportation of rough diamonds from the United States that has been cancelled for reasons such as loss or error.
+
 *Voluntary Self-Disclosure (VSD).* A narrative account with supporting documentation that sufficiently describes suspected violations of the FTR. A VSD reflects due diligence in detecting, and correcting potential violation(s) when required information was not reported or when incorrect information was provided that violates the FTR.
 
 *Warning message.* An electronic response sent to the filer by the AES when certain incomplete and conflicting data reporting conditions are encountered.
@@ -300,4 +302,4 @@ Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
 
 *Zone admission number.* A unique and sequential number assigned by a FTZ operator or user for shipments admitted to a zone.
 
-[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16373, Mar. 14, 2013; 82 FR 18388, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017]Editorial Note:At 78 FR 16373, Mar. 14, 2013, in § 30.1, the term “Kimberly Process Certificate (KPC)” was added to the definitions; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.
+[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16373, Mar. 14, 2013; 82 FR 18388, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017; 83 FR 17751, Apr. 24, 2018]

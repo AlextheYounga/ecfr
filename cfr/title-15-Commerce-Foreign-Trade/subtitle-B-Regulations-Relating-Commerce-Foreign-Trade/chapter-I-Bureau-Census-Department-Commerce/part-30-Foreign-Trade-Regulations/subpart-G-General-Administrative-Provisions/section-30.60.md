@@ -1,7 +1,5 @@
 ##### § 30.60 Confidentiality of Electronic Export Information. #####
 
-Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
-
 (a) The Electronic Export Information (EEI) collected and accessed by the Census Bureau under 15 CFR Part 30 is confidential, to be used solely for official purposes as authorized by the Secretary of Commerce. The collection of EEI by the Department of Commerce has been approved by the Office of Management and Budget (OMB). The information collected is used by the Census Bureau for statistical purposes. In addition, EEI is used by federal government agencies, such as the Department of State, Immigration and Customs Enforcement, and Customs and Border Protection (CBP) for export control; by other federal government agencies such as the Bureau of Economic Analysis, Bureau of Labor Statistics, and Bureau of Transportation Statistics for statistical purposes; and by other federal agencies as authorized by the Secretary of Commerce or the Census Bureau Director consistent with the agencies' statutory or legal authorities as provided for in paragraph (e) of this section. Absent such authorization, information collected pursuant to this Part shall not be disclosed to anyone by any officer, employee, contractor, agent of the federal government or other parties with access to the EEI other than to the USPPI or the authorized agent of the USPPI. Such disclosure shall be limited to that information provided by each party pursuant to this Part.
 
 (b) *Viewing and using EEI for official purposes.* (1) The EEI may be viewed and used by federal agencies authorized to use export data for official purposes as defined to include, but not limited to:
@@ -40,4 +38,8 @@ Link to an amendment published at 83 FR 17751, Apr. 24, 2018.
 
 (f) *Penalties.* Disclosure of confidential EEI by any officer, employee, contractor, or agent of the federal government, except as provided for in paragraphs (b) and (e) of this section renders such persons subject to the civil penalties.
 
-[79 FR 49660, Aug. 22, 2014]
+Note to § 30.60:
+
+Kimberley Process Certificates (KPCs), including voided KPCs, provided to the Census Bureau pursuant to the Clean Diamond Trade Act, Executive Order 13312, and this part are not considered EEI and are not confidential under Title 13. KPCs and voided KPCs may be protected from public disclosure by the Privacy Act or other applicable nondisclosure statutes.
+
+[79 FR 49660, Aug. 22, 2014, as amended at 83 FR 17751, Apr. 24, 2018]
