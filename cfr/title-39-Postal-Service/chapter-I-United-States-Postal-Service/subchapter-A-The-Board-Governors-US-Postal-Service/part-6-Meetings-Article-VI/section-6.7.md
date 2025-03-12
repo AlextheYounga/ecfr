@@ -1,6 +1,6 @@
 ##### § 6.7 Notation voting. #####
 
-(a) *General.* Notation voting consists of the circulation of written memoranda and voting sheets to each member of the Board simultaneously and the tabulation of submitted responses. Notation voting may be used only for routine, non-controversial, and administrative matters.
+(a) *General.* Notation voting consists of the circulation of physical or electronic written memoranda and voting sheets to each member of the Board simultaneously and the tabulation of submitted responses. Notation voting may be used only for routine, non-controversial, or administrative matters.
 
 (b) *Administrative Responsibility.* The Secretary of the Board is responsible for:
 
@@ -16,4 +16,4 @@
 
 (d) *Disclosure of result.* The Secretary shall maintain all records pertaining to Board actions taken pursuant to the notation voting process, and shall make such records available for public inspection, consistent with the Freedom of Information Act, 5 U.S.C. 552.
 
-[77 FR 17334, Mar. 26, 2012]
+[77 FR 17334, Mar. 26, 2012, as amended at 86 FR 10014, Feb. 18, 2021]

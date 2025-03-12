@@ -1,6 +1,6 @@
 ##### § 61.6 Maximum amounts of coverage available. #####
 
-Link to an amendment published at 85 FR 43958, July 20, 2020.
+Link to an amendment published at 85 FR 43958, July 20, 2020.Link to a correction published at 86 FR 10029, Feb. 18, 2021.
 
 (a) Pursuant to section 1306 of the Act, the following are the limits of coverage available under the emergency program and under the regular program.
 

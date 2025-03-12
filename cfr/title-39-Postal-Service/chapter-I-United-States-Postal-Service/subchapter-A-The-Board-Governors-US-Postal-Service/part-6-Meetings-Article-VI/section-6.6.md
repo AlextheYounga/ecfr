@@ -1,6 +1,6 @@
 ##### § 6.6 Quorum and voting. #####
 
-As provided by 39 U.S.C. 205(c), and except for routine, non-controversial, and administrative matters considered through the notation voting process described in § 6.7, the Board acts by resolution upon a majority vote of those members who attend a meeting in person or by teleconference. No proxies are allowed in any vote of the members of the Board. Any 6 members constitute a quorum for the transaction of business by the Board, except:
+As provided by 39 U.S.C. 205(c), and except for matters considered through the notation voting process described in § 6.7, the Board acts by resolution upon a majority vote of those members who attend a meeting in accordance with § 6.4. No proxies are allowed in any vote of the members of the Board. Any six (6) members constitute a quorum for the transaction of business by the Board, except:
 
 (a) In the appointment or removal of the Postmaster General, and in setting the compensation and benefits of the Postmaster General and Deputy Postmaster General, 39 U.S.C. 205(c)(1) requires a favorable vote of an absolute majority of the Governors in office;
 
@@ -16,4 +16,4 @@ As provided by 39 U.S.C. 205(c), and except for routine, non-controversial, and 
 
 (g) In removing the Inspector General for cause, 39 U.S.C. 202(e) requires the written concurrence of at least 7 Governors.
 
-[73 FR 78983, Dec. 24, 2008, as amended at 77 FR 17334, Mar. 26, 2012]
+[73 FR 78983, Dec. 24, 2008, as amended at 77 FR 17334, Mar. 26, 2012; 86 FR 10014, Feb. 18, 2021]

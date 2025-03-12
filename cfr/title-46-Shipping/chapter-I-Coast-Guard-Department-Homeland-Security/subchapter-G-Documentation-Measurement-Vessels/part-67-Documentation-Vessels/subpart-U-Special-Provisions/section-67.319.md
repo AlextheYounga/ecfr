@@ -1,7 +1,7 @@
 ##### § 67.319 Requirement to report change in vessel status and surrender Certificate of Documentation. #####
 
-Link to an amendment published at 86 FR 5031, Jan. 19, 2021.
+(a) The owner of a vessel must notify the Coast Guard of each change in the information on which the issuance of the Certificate of Documentation for the vessel is based that occurs before the expiration of the certificate under this subsection, by no later than 30 days after such change.
 
-The owner of a documented vessel must immediately report any change in vessel status which causes any Certificate of Documentation to become invalid under subpart L of this part and which must be exchanged, replaced, deleted, or canceled, to the National Vessel Documentation Center. The outstanding Certificate must be surrendered in accordance with the requirements of subparts K and L of this part.
+(b) The Certificate of Documentation for a vessel is terminated upon the expiration of the 30-day period if the owner has not notified the Coast Guard of such change before the end of the period.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31605, June 15, 1995]
+[USCG-2020-0215, 86 FR 5031, Jan. 19, 2021]

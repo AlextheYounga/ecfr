@@ -1,4 +1,4 @@
-##### § 3.8 Information furnished to Board - special reports. #####
+##### § 3.8 Information furnished to Board—special reports. #####
 
 To insure that the Board receives significant information of developments meriting its attention, postal management shall bring to the Board's attention the following matters:
 
@@ -15,3 +15,7 @@ To insure that the Board receives significant information of developments meriti
 (f) Major or significant financial, operational and compliance reports or studies the Postal Service is required by statute or regulation to prepare.
 
 (g) Other matters having important policy implications.
+
+(h) At the reasonable request of the Board, Postal management shall furnish to the Board such other information as the Board deems necessary.
+
+[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10013, Feb. 18, 2021]

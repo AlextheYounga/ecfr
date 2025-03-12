@@ -1,0 +1,5 @@
+##### § 6.8 Delegation of Authority for Continuity of Operations. #####
+
+When, by reason of death, incapacity, or disruption of transportation and communications, a quorum of the Board of Governors cannot reasonably be assembled, or when vacancies on the Board make it impossible for a quorum to assemble, the remaining members of the Board who are able to assemble are constituted a Temporary Emergency Committee of the Board of Governors. The Chairman or Vice Chairman of the Board, or in their absence any available member of the Board, may convene a meeting of such Temporary Emergency Committee for the consideration of such business as may be needed to provide for continuity of operations for the duration of the emergency, or for the duration of the period of time in which vacancies on the Board prevent a quorum from being assembled. The powers reserved to the Board under § 3.3 of these bylaws necessary to provide for continuity of operations are delegated to the Committee, which may exercise such powers until such time as sufficient members of the Board are again available to enable the Board to convene.
+
+[86 FR 10014, Feb. 18, 2021]
