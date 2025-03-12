@@ -30,10 +30,12 @@
 
 (3) The time within which such submissions must be made.
 
-(f) All documents submitted to the Board must be filed with the Administrative Review Board, Room S-4309, U.S. Department of Labor, Washington, D.C. 20210. An original and two copies of all documents must be filed. Documents are not deemed filed with the Board until actually received by the Board. All documents, including documents filed by mail, must be received by the Board either on or before the due date.
+(f) All documents submitted to the Board shall be filed with the Administrative Review Board in accordance with 29 CFR part 26. Documents are not deemed filed with the Board until actually received by the Board. All documents, including documents filed by mail, shall be received by the Board either on or before the due date.
 
 (g) Copies of all documents filed with the Board must be served upon all other parties involved in the proceeding. Service upon the Administrator must be in accordance with § 655.1230(b).
 
 (h) The Board's final decision shall be issued within 180 days from the date of the notice of intent to review. The Board's decision shall be served upon all parties and the administrative law judge.
 
 (i) Upon issuance of the Board's decision, the Board shall transmit the entire record to the Chief Administrative Law Judge for custody in accordance with § 655.1250.
+
+[65 FR 51149, Aug. 22, 2000, as amended at 86 FR 1776, Jan. 11, 2021]

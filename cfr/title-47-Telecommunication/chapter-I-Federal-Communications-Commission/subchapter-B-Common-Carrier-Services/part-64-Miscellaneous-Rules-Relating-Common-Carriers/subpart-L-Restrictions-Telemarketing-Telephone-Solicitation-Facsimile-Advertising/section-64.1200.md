@@ -1,5 +1,7 @@
 ##### § 64.1200 Delivery restrictions. #####
 
+Link to an amendment published at 86 FR 11447, Feb. 25, 2021.Link to an amendment published at 86 FR 11448, Feb. 25, 2021.
+
 (a) No person or entity may:
 
 (1) Except as provided in paragraph (a)(2) of this section, initiate any telephone call (other than a call made for emergency purposes or is made with the prior express consent of the called party) using an automatic telephone dialing system or an artificial or prerecorded voice;

@@ -1,5 +1,7 @@
 ##### § 1.4000 Restrictions impairing reception of television broadcast signals, direct broadcast satellite services or multichannel multipoint distribution services. #####
 
+Link to an amendment published at 86 FR 11442, Feb. 25, 2021.
+
 (a)(1) Any restriction, including but not limited to any state or local law or regulation, including zoning, land-use, or building regulations, or any private covenant, contract provision, lease provision, homeowners' association rule or similar restriction, on property within the exclusive use or control of the antenna user where the user has a direct or indirect ownership or leasehold interest in the property that impairs the installation, maintenance, or use of:
 
 (i) An antenna that is:

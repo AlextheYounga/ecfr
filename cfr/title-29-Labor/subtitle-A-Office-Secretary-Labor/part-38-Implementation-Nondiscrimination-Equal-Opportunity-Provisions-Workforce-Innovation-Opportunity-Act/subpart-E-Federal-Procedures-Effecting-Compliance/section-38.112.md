@@ -1,18 +1,16 @@
 ##### § 38.112 Initial and final decision procedures. #####
 
-Link to an amendment published at 86 FR 1785, Jan. 11, 2021.
+(a) *Initial decision.* After the hearing, the Administrative Law Judge must issue an initial decision and order, containing findings of fact and conclusions of law. The initial decision and order must be served on all parties.
 
-(a) *Initial decision.* After the hearing, the Administrative Law Judge must issue an initial decision and order, containing findings of fact and conclusions of law. The initial decision and order must be served on all parties by certified mail, return receipt requested.
+(b) *Exceptions; Final Decision*—(1) *Final Decision after a hearing.* The initial decision and order becomes the Final Decision and Order of the Department unless exceptions are filed by a party or, in the absence of exceptions, the Administrative Review Board serves notice that it will review the decision.
 
-(b) *Exceptions; Final Decision* - (1) *Final Decision after a hearing.* The initial decision and order becomes the Final Decision and Order of the Department unless exceptions are filed by a party or, in the absence of exceptions, the Administrative Review Board serves notice that it will review the decision.
-
-(i) *Exceptions.* A party dissatisfied with the initial decision and order may, within 45 days of receipt, file with the Administrative Review Board and serve on the other parties to the proceedings and on the Administrative Law Judge, exceptions to the initial decision and order or any part thereof.
+(i) *Exceptions.* A party dissatisfied with the initial decision and order may, within 45 days of receipt, file with the Administrative Review Board and serve on the other parties to the proceedings and on the Administrative Law Judge, exceptions to the initial decision and order or any part thereof, in accordance with 29 CFR part 26.
 
 (ii) *Transmittal of record and initial decision by Administrative Law Judge.* Upon receipt of exceptions, the Administrative Law Judge must index and forward the record and the initial decision and order to the Administrative Review Board within three days of such receipt.
 
 (iii) Specificity required when filing exceptions. A party filing exceptions must specifically identify the finding or conclusion to which exception is taken.
 
-(iv) *Reply.* Within 45 days of the date of filing such exceptions, a reply, which must be limited to the scope of the exceptions, may be filed and served by any other party to the proceeding.
+(iv) *Reply.* Within 45 days of the date of filing such exceptions, a reply, which must be limited to the scope of the exceptions, may be filed and served by any other party to the proceeding in accordance with 29 CFR part 26.
 
 (v) *Requests for extensions.* Requests for extensions for the filing of exceptions or replies must be received by the Administrative Review Board no later than 3 days before the exceptions or replies are due.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 86 FR 1785, Jan. 11, 2021.
 
 (ii) When a Final Determination or Notification of Breach of Conciliation Agreement becomes the Final Decision, the Administrative Review Board may, within 45 days, issue an order terminating or denying the grant or continuation of assistance; or imposing other appropriate sanctions for the grant applicant's, Governor's, or recipient's failure to comply with the required corrective and/or remedial actions, or the Secretary may refer the matter to the Attorney General for further enforcement action.
 
-[81 FR 87211, Dec. 2, 2016, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 30619, May 20, 2020]
+[81 FR 87211, Dec. 2, 2016, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 30619, May 20, 2020; 86 FR 1785, Jan. 11, 2021]

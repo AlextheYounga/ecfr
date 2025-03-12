@@ -1,7 +1,5 @@
 ##### § 22.10 Default upon failure to file an answer. #####
 
-Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
-
 (a) If the defendant does not file an answer within the time prescribed in § 22.9(a), the reviewing official may refer the complaint to the ALJ.
 
 (b) Upon the referral of the complaint, the ALJ shall promptly serve on defendant in the manner prescribed in § 22.8, a notice that an initial decision will be issued under this section.
@@ -16,12 +14,14 @@ Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
 
 (g) A decision of the ALJ denying a defendant's motion under paragraph (e) of this section is not subject to reconsideration under § 22.38.
 
-(h) The defendant may appeal to the authority head the decision denying a motion to reopen by filing a notice of appeal with the authority head within 15 days after the ALJ denies the motion. The timely filing of a notice of appeal shall stay the initial decision until the authority head decides the issue.
+(h) The defendant may appeal to the ARB the decision denying a motion to reopen by filing a notice of appeal with the ARB within 15 days after the ALJ denies the motion. The timely filing of a notice of appeal shall stay the initial decision until the ARB decides the issue.
 
-(i) If the defendant files a timely notice of appeal with the authority head, the ALJ shall forward the record of the proceeding to the authority head.
+(i) If the defendant files a timely notice of appeal with the ARB, the ALJ shall forward the record of the proceeding to the ARB.
 
-(j) The authority head shall decide expeditiously whether extraordinary circumstances excuse the defendant's failure to file a timely answer based solely on the record before the ALJ.
+(j) The ARB shall decide expeditiously whether extraordinary circumstances excuse the defendant's failure to file a timely answer based solely on the record before the ALJ.
 
-(k) If the authority head decides that extraordinary circumstances excused the defendant's failure to file a timely answer, the authority head shall remand the case to the ALJ with instructions to grant the defendant an opportunity to answer.
+(k) If the ARB decides that extraordinary circumstances excused the defendant's failure to file a timely answer, the ARB shall remand the case to the ALJ with instructions to grant the defendant an opportunity to answer.
 
-(l) If the authority head decides that the defendant's failure to file a timely answer is not excused, the authority head shall reinstate the initial decision of the ALJ, which shall become final and binding upon the parties 30 days after the authority head issues such decision.
+(l) If the ARB decides that the defendant's failure to file a timely answer is not excused, the ARB shall reinstate the initial decision of the ALJ, which shall become final and binding upon the parties 30 days after the ARB issues such decision and it becomes final in accordance with Secretary's Order 01-2020 (or any successor to that order).
+
+[52 FR 48492, Dec. 22, 1987, as amended at 86 FR 1781, Jan. 11, 2021]

@@ -1,7 +1,5 @@
 ##### § 655.845 What rules apply to appeal of the decision of the administrative law judge? #####
 
-Link to an amendment published at 86 FR 1778, Jan. 11, 2021.
-
 (a) The Administrator or any interested party desiring review of the decision and order of an administrative law judge, including judicial review, shall petition the Department's Administrative Review Board (Board) to review the decision and order. To be effective, such petition shall be received by the Board within 30 calendar days of the date of the decision and order. Copies of the petition shall be served on all parties and on the administrative law judge.
 
 (b) No particular form is prescribed for any petition for the Board's review permitted by this subpart. However, any such petition shall:
@@ -32,7 +30,7 @@ Link to an amendment published at 86 FR 1778, Jan. 11, 2021.
 
 (3) The time within which such submissions shall be made.
 
-(f) All documents submitted to the Board shall be filed with the Administrative Review Board, Room S-4309, U.S. Department of Labor, Washington, DC 20210. An original and two copies of all documents shall be filed. Documents are not deemed filed with the Board until actually received by the Board. All documents, including documents filed by mail, shall be received by the Board either on or before the due date.
+(f) All documents submitted to the Board shall be filed with the Administrative Review Board in accordance with 29 CFR part 26. Documents are not deemed filed with the Board until actually received by the Board. All documents, including documents filed by mail, shall be received by the Board either on or before the due date.
 
 (g) Copies of all documents filed with the Board shall be served upon all other parties involved in the proceeding. Service upon the Administrator shall be in accordance with § 655.830(b).
 
@@ -40,4 +38,4 @@ Link to an amendment published at 86 FR 1778, Jan. 11, 2021.
 
 (i) After the Board's decision becomes final, the Board shall transmit the entire record to the Chief Administrative Law Judge for custody pursuant to § 655.850.
 
-[65 FR 80237, Dec. 20, 2000, as amended at 85 FR 13029, Mar. 6, 2020; 85 FR 30615, May 20, 2020]
+[65 FR 80237, Dec. 20, 2000, as amended at 85 FR 13029, Mar. 6, 2020; 85 FR 30615, May 20, 2020; 86 FR 1778, Jan. 11, 2021]

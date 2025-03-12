@@ -1,5 +1,5 @@
-##### § 530.409 Final decision of the Secretary. #####
+##### § 530.409 Decision of the Secretary. #####
 
-Link to an amendment published at 86 FR 1787, Jan. 11, 2021.
+The Administrative Review Board's decision shall be served upon all parties and the Administrative Law Judge. The Administrative Review Board's decision is subject to discretionary review by the Secretary as provided in Secretary's Order 01-2020 (or any successor to that order).
 
-The Secretary's final decision shall be served upon all parties and the Administrative Law Judge, in person or by certified mail.
+[86 FR 1787, Jan. 11, 2021]

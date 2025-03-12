@@ -1,10 +1,8 @@
 ##### § 22.31 Determining the amount of penalties and assessments. #####
 
-Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+(a) In determining an appropriate amount of civil penalties and assessments, the ALJ and the ARB, upon appeal, should evaluate any circumstances that mitigate or aggravate the violation and should articulate in their opinions the reasons that support the penalties and assessments they impose. Because of the intangible costs of fraud, the expense of investigating such conduct, and the need to deter others who might be similarly tempted, ordinarily double damages and a significant civil penalty should be imposed.
 
-(a) In determining an appropriate amount of civil penalties and assessments, the ALJ and the authority head, upon appeal, should evaluate any circumstances that mitigate or aggravate the violation and should articulate in their opinions the reasons that support the penalties and assessments they impose. Because of the intangible costs of fraud, the expense of investigating such conduct, and the need to deter others who might be similarly tempted, ordinarily double damages and a significant civil penalty should be imposed.
-
-(b) Although not exhaustive, the following factors are among those that may influence the ALJ and the authority head in determining the amount of penalties and assessments to impose with respect to the misconduct (*i.e.,* the false, fictitious, or fraudulent claims or statements) charged in the complaint:
+(b) Although not exhaustive, the following factors are among those that may influence the ALJ and the ARB in determining the amount of penalties and assessments to impose with respect to the misconduct (*i.e.,* the false, fictitious, or fraudulent claims or statements) charged in the complaint:
 
 (1) The number of false, fictitious, or fraudulent claims or statements;
 
@@ -38,4 +36,6 @@ Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
 
 (16) The need to deter the defendant and others from engaging in the same or similar misconduct.
 
-(c) Nothing in this section shall be construed to limit the ALJ or the authority head from considering any other factors that in any given case may mitigate or aggravate the offense for which penalties and assessments are imposed.
+(c) Nothing in this section shall be construed to limit the ALJ or the ARB from considering any other factors that in any given case may mitigate or aggravate the offense for which penalties and assessments are imposed.
+
+[52 FR 48492, Dec. 22, 1987, as amended at 86 FR 1781, Jan. 11, 2021]

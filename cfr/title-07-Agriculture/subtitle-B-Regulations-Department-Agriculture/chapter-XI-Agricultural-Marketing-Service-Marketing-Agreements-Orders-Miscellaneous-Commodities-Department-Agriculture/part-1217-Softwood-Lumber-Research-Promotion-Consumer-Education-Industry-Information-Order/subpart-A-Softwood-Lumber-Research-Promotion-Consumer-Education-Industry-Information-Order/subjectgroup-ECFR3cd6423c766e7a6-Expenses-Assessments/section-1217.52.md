@@ -1,5 +1,7 @@
 ##### § 1217.52 Assessments. #####
 
+Link to an amendment published at 86 FR 11390, Feb. 25, 2021.
+
 (a) The Board's programs and expenses shall be paid by assessments on manufacturers for the U.S. market, other income of the Board, and other funds available to the Board.
 
 (b) Subject to the exemptions specified in § 1217.53, each manufacturer for the U.S. market shall pay an assessment to the Board at the rate of $0.35 per thousand board feet of softwood lumber except that no person shall pay an assessment on the first 15 million board feet of softwood lumber otherwise subject to assessment in a fiscal year. Domestic manufacturers shall pay assessments based on the volume of softwood lumber shipped within the United States and importers shall pay assessments based on the volume of softwood lumber imported to the United States.

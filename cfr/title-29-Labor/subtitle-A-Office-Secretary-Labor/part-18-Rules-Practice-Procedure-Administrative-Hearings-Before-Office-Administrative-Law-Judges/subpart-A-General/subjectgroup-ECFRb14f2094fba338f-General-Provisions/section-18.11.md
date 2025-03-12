@@ -1,7 +1,5 @@
 ##### § 18.11 Definitions. #####
 
-Link to an amendment published at 86 FR 1804, Jan. 11, 2021.
-
 For purposes of these rules, these definitions supplement the definitions in the Administrative Procedure Act, 5 U.S.C. 551.
 
 *Calendar call* means a meeting in which the judge calls cases awaiting hearings, determines case status, and assigns a hearing date and time.

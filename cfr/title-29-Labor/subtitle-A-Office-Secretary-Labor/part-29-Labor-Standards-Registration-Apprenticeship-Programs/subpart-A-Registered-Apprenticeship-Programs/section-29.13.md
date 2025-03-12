@@ -1,7 +1,5 @@
 ##### § 29.13 Recognition of State Apprenticeship Agencies. #####
 
-Link to an amendment published at 86 FR 1784, Jan. 11, 2021.
-
 (a) *Recognition.* The Department may exercise its authority to grant recognition to a State Apprenticeship Agency. Recognition confers non-exclusive authority to determine whether an apprenticeship program conforms to the published standards and whether the program is, therefore, eligible for those Federal purposes which require such a determination by the Department. Such recognition shall be accorded upon the State's submission of, the Department's approval of, and the State's compliance with the following:
 
 (1) The State Apprenticeship Agency must submit a State apprenticeship law, whether instituted through statute, Executive Order, regulation, or other means, that conforms to the requirements of 29 CFR part 29 subpart A, and part 30;
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 1784, Jan. 11, 2021.
 
 (2) Failure to comply with these requirements will result in rescission of recognition, for Federal Purposes as provided under § 29.14.
 
-(g) *Denial of state apprenticeship agency recognition.* A denial by the Office of Apprenticeship of a State Apprenticeship Agency's application for new or continued recognition must be in writing and must set forth the reasons for denial. The notice must be sent by certified mail, return receipt requested. In addition to the reasons stated for the denial, the notice must specify the remedies which must be undertaken prior to consideration of a resubmitted request, and must state that a request for administrative review of a denial of recognition may be made within 30 calendar days of receipt of the notice of denial from the Department. Such request must be made by mail and addressed to the Chief Administrative Law Judge for the Department. The mailing address is Office of Administrative Law Judges, U.S. Department of Labor, Suite 400 North, 800 K Street, NW., Washington, DC 20001-8002. Within 30 calendar days of the filing of the request for review, the Administrator must prepare an administrative record for submission to the Administrative Law Judge designated by the Chief Administrative Law Judge.
+(g) *Denial of State apprenticeship agency recognition.* A denial by the Office of Apprenticeship of a State Apprenticeship Agency's application for new or continued recognition must be in writing and must set forth the reasons for denial. The notice must be sent by certified mail, return receipt requested. In addition to the reasons stated for the denial, the notice must specify the remedies which must be undertaken prior to consideration of a resubmitted request, and must state that a request for administrative review of a denial of recognition may be made within 30 calendar days of receipt of the notice of denial from the Department. Such request must be filed with the Chief Administrative Law Judge for the Department in accordance with 29 CFR part 18. Within 30 calendar days of the filing of the request for review, the Administrator must prepare an administrative record for submission to the Administrative Law Judge designated by the Chief Administrative Law Judge.
 
 (1) The procedures contained in 29 CFR part 18 will apply to the disposition of the request for review except that:
 
@@ -70,7 +68,7 @@ Link to an amendment published at 86 FR 1784, Jan. 11, 2021.
 
 (2) The Administrative Law Judge should submit proposed findings, a recommended decision, and a certified record of the proceedings to the Administrative Review Board within 90 calendar days after the close of the record.
 
-(3) Within 20 days of the receipt of the recommended decision, any party may file exceptions. Any party may file a response to the exceptions filed by another party within 10 days of receipt of the exceptions. All exceptions and responses must be filed with the Administrative Review Board with copies served on all parties and amici curiae.
+(3) Within 20 days of the receipt of the recommended decision, any party may file exceptions. Any party may file a response to the exceptions filed by another party within 10 days of receipt of the exceptions. All exceptions and responses must be filed with the Administrative Review Board with copies served on all parties and amici curiae in accordance with 29 CFR part 26.
 
 (4) After the close of the period for filing exceptions and responses, the Administrative Review Board may issue a briefing schedule or may decide the matter on the record before it. The Administrative Review Board must decide any case it accepts for review within 180 days of the close of the record. If a decision is not so issued, the Administrative Law Judge's decision constitutes final agency action.
 
@@ -88,4 +86,4 @@ Link to an amendment published at 86 FR 1784, Jan. 11, 2021.
 
 (2) In the event that a State Apprenticeship Agency is not recognized by the Office of Apprenticeship for Federal purposes or that such recognition has been withdrawn, or if no State Apprenticeship Agency exists, registration with the Office of Apprenticeship may be requested. Such registration must be granted if the program is conducted, administered and operated in accordance with the requirements of this part and the equal opportunity regulation in 29 CFR part 30, as amended.
 
-[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020]
+[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020; 86 FR 1784, Jan. 11, 2021]
