@@ -8,7 +8,7 @@
 
 *Service line serving single-family residence* means a gas service line that begins at the fitting that connects the service line to the main and serves only one single-family residence (SFR).
 
-(b) *Installation required.* An EFV installation must comply with the performance standards in § 192.381. After April 14, 2016, each operator must install an EFV on any new or replaced service line serving the following types of services before the line is activated:
+(b) *Installation required.* An EFV installation must comply with the performance standards in § 192.381. After April 14, 2017, each operator must install an EFV on any new or replaced service line serving the following types of services before the line is activated:
 
 (1) A single service line to one SFR;
 
