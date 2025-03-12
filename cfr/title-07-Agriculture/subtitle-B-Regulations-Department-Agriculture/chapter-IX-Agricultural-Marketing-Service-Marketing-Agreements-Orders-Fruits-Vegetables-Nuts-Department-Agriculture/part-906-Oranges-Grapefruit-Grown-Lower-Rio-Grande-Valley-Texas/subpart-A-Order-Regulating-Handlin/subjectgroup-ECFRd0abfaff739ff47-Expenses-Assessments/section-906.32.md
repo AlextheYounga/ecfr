@@ -1,0 +1,3 @@
+##### § 906.32 Expenses. #####
+
+The committee is authorized to incur such expenses as the Secretary may find are reasonable and likely to be incurred during each fiscal period for its maintenance and functioning, and for such purposes as the Secretary, pursuant to this subpart, determines to be appropriate. Each handler's share of such expense shall be proportionate to the ratio between the total quantity of fruit handled by him as the first handler thereof during a fiscal period and the total quantity of fruit handled by all handlers as first handlers thereof during such fiscal period.

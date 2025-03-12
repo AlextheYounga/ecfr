@@ -1,7 +1,5 @@
 ##### § 1235.42 What specifications and standards for transfer apply to audiovisual records, cartographic, and related records? #####
 
-Link to an amendment published at 83 FR 13656, March 30, 2018.
-
 In general the physical types described below comprise the minimum record elements that are needed for future preservation, duplication, and reference for audiovisual records, cartographic records, and related records.
 
 (a) *Motion pictures.* (1) Agency-sponsored or produced motion picture films (e.g., public information films) whether for public or internal use:
@@ -22,7 +20,7 @@ In general the physical types described below comprise the minimum record elemen
 
 (b) *Video recordings.* (1) For videotape, the original or earliest generation videotape and a copy for reference. Agencies must comply with requirements in § 1237.12(d) of this subchapter for original videotapes, although VHS copies can be transferred as reference copies.
 
-(2) For video discs, the premaster videotape used to manufacture the video disc and two copies of the disc. Agencies must consult the National Archives and Records Administration, Special Media Archives Services Division, (NWCS), 8601 Adelphi Road, College Park, MD 20740, phone number (301) 837-2903, before initiating transfers of video discs that depend on interactive software and nonstandard equipment.
+(2) For video discs, the premaster videotape used to manufacture the video disc and two copies of the disc. Agencies must consult NARA, by mail at National Archives and Records Administration; Special Media Records Division (RDS); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *mopix.accessions@nara.gov,* before initiating transfers of video discs that depend on interactive software and nonstandard equipment.
 
 (c) *Still pictures.* (1) For analog black-and-white photographs, an original negative and a captioned print. The captioning information may be maintained in another file such as a database if the file number correlation is clear. If the original negative is nitrate, unstable acetate, or glass based, the agency must also transfer a duplicate negative on a polyester base.
 
@@ -34,7 +32,7 @@ In general the physical types described below comprise the minimum record elemen
 
 (d) *Digital photographic records.* See 36 CFR 1235.48(e) and 1235.50(e) for transfer requirements for digital photographic records.
 
-(e) *Sound recordings* - (1) *Disc recordings.*
+(e) *Sound recordings*—(1) *Disc recordings.*
 
 (i) For electronic recordings, the origination recording regardless of form and two compact discs (CDs) or digital video disks (DVDs).
 
@@ -44,7 +42,7 @@ In general the physical types described below comprise the minimum record elemen
 
 (f) *Finding aids and production documentation.* The following records must be transferred to the National Archives of the United States with the audiovisual records to which they pertain:
 
-(1) Existing finding aids such as data sheets, shot lists, continuities, review sheets, catalogs, indexes, list of captions, and other documentation that are needed or useful to identify or retrieve audiovisual records. Agencies must consult the National Archives and Records Administration, Special Media Archives Services Division (NWCS), 8601 Adelphi Road, College Park, MD 20740, phone number (301) 837-2903, concerning transfer of finding aids that do not meet the requirements of this part for electronic records.
+(1) Existing finding aids such as data sheets, shot lists, continuities, review sheets, catalogs, indexes, list of captions, and other documentation that are needed or useful to identify or retrieve audiovisual records. Agencies must consult NARA, by mail at National Archives and Records Administration; Special Media Records Division (RDS); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *mopix.accessions@nara.gov* (for audiovisual records) and *stillpix.accessions@nara.gov* (for photographic records), about transferring finding aids that do not meet the requirements of this part for electronic records.
 
 (2) Production case files or similar files that include copies of production contracts, scripts, transcripts, and appropriate documentation bearing on the origin, acquisition, release, and ownership of the production.
 
@@ -81,3 +79,5 @@ In general the physical types described below comprise the minimum record elemen
 (5) Related finding aids and specifications to be followed.
 
 (j) *Digital geospatial data records.* See § 1235.48(c) for transfer requirements for digital geospatial data records.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13656, Mar. 30, 2018]

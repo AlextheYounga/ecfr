@@ -1,7 +1,5 @@
 ##### § 1232.16 What documentation must an agency create before it transfers records to a records storage facility? #####
 
-Link to an amendment published at 83 FR 13654, March 30, 2018.
-
 (a) Documentation must include for each individual records series spanning one or more consecutive years transferred to storage:
 
 (1) Creating office;
@@ -28,8 +26,10 @@ Link to an amendment published at 83 FR 13654, March 30, 2018.
 
 (12) Control number or identifier used to track records.
 
-(b) In the case of permanent and unscheduled records, provide copies of such documentation to NARA and advise NARA in writing of the new location whenever the records are moved to a new storage facility. For permanent records, the agency must transmit this documentation to the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1738, no later than 30 days after records are transferred to the agency records center or commercial records storage facility.
+(b) In the case of permanent and unscheduled records, provide copies of such documentation to NARA and advise NARA in writing of the new location whenever the records are moved to a new storage facility. For permanent records, the agency must transmit this documentation to NARA no later than 30 days after transferring records to the agency records center or commercial records storage facility. Transmit documentation by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov.*
 
 (1) Retain temporary records until the expiration of their NARA-approved retention period and no longer, except as provided for in § 1226.18 of this subchapter.
 
 (2) Transfer permanent records to the National Archives of the United States in accordance with 36 CFR part 1235.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13654, Mar. 30, 2018]

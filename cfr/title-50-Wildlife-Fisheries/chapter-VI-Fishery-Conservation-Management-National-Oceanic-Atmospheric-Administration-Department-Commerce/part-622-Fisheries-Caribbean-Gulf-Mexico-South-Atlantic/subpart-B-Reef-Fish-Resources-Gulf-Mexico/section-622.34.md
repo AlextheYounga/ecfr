@@ -1,7 +1,5 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
-Link to an amendment published at 83 FR 13428, Mar. 29, 2018.
-
 (a) *Closure provisions applicable to the Madison and Swanson sites and Steamboat Lumps, and the Edges* - (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
 
 |Point|North lat.|West long.|
@@ -51,7 +49,7 @@ Link to an amendment published at 83 FR 13428, Mar. 29, 2018.
 
 (b) *Seasonal closure of the recreational sector for red snapper.* The recreational sector for red snapper in or from the Gulf EEZ is closed from January 1 through May 31, each year. During the closure, the bag and possession limit for red snapper in or from the Gulf EEZ is zero.
 
-(c) *Seasonal closure of the recreational sector for greater amberjack.* The recreational sector for greater amberjack in or from the Gulf EEZ is closed from January 1 through June 30, each year. During the closure, the bag and possession limits for greater amberjack in or from the Gulf EEZ are zero.
+(c) *Seasonal closure of the recreational sector for greater amberjack.* The recreational sector for greater amberjack in or from the Gulf EEZ is closed from January 1 through April 30, June 1 through July 31, and November 1 through December 31, each year. During the closure, the bag and possession limit for greater amberjack in or from the Gulf EEZ is zero.
 
 (d) *Seasonal closure of the recreational sector for shallow-water grouper (SWG).* The recreational sector for SWG, in or from the Gulf EEZ, is closed each year from February 1 through March 31, in the portion of the Gulf EEZ seaward of rhumb lines connecting, in order, the points in the following table. During the closure, the bag and possession limit for SWG in or from the Gulf EEZ seaward of the following rhumb lines is zero.
 
@@ -96,4 +94,4 @@ Link to an amendment published at 83 FR 13428, Mar. 29, 2018.
 
 (g) *Recreational sector for hogfish in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida.* See § 622.183(b)(4) for the applicable seasonal closures.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018]

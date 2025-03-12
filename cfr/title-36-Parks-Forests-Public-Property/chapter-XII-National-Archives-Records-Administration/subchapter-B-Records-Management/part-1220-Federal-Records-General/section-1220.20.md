@@ -1,23 +1,23 @@
-##### § 1220.20 What NARA acronyms are used throughout Subchapter B? #####
+##### § 1220.20 What NARA acronyms are used throughout this subchapter? #####
 
-Link to an amendment published at 83 FR 13653, March 30, 2018.
+As used in this subchapter—
 
-As used in Subchapter B -
+*AC* means Office of the Chief Records Officer, which includes NARA records management staff nationwide.
+
+*ACRA* means the Records Appraisal and Agency Assistance Division.
+
+*AFO* means the Office of Operations (regional records services).
+
+*B-AD* means the Storage Coordination and Logistics Office.
 
 *NARA* means the National Archives and Records Administration.
 
-*NAS* means the Space and Security Management Division.
+*RDE* means the Electronic Records Division.
 
-*NR* means the Office of Regional Record Services.
+*RDS* means the Special Media Records Division.
 
-*NWCS* means the Special Media Archives Services Division.
+*RX* means Preservation Programs.
 
-*NWM* means Modern Records Programs, which includes NARA records management staff nationwide.
+*WNRC* means the Washington National Records Center.
 
-*NWME* means the Electronic and Special Media Records Services Division.
-
-*NWML* means the Lifecycle Management Division.
-
-*NWMW* means the Washington National Records Center.
-
-*NWT* means Preservation Programs.
+[83 FR 13653, Mar. 30, 2018]

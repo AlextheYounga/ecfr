@@ -1,7 +1,7 @@
 ##### § 1229.12 What are the requirements during a state of war or threatened war? #####
 
-Link to an amendment published at 83 FR 13654, March 30, 2018.
-
 (a) Destruction of records outside the territorial limits of the continental United States is authorized whenever, during a state of war between the United States and any other nation or when hostile action appears imminent, the head of the agency that has custody of the records determines that their retention would be prejudicial to the interest of the United States, or that they occupy space urgently needed for military purposes and are without sufficient administrative, fiscal, legal, historical, or other value to warrant their continued preservation.
 
-(b) Within six months after the destruction of any records under this authorization, the agency official who directed the destruction must submit to the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1738, a written statement explaining the reasons for the destruction and a description of the records and how, when, and where the destruction was accomplished.
+(b) Within six months after the destruction of any records under this authorization, the agency official who directed the destruction must submit to NARA, by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov,* a written statement explaining the reasons for the destruction and a description of the records and how, when, and where the destruction was accomplished.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13654, Mar. 30, 2018]

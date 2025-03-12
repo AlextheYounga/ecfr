@@ -1,7 +1,5 @@
 ##### § 1233.10 How does an agency transfer records to a NARA Federal Records Center? #####
 
-Link to an amendment published at 83 FR 13655, March 30, 2018.
-
 An agency transfers records to a NARA Federal Records Center using the following procedures:
 
 (a) General. NARA will ensure that its records centers meet the facilities standards in 36 CFR part 1234, which meets the agency's obligation in § 1232.14(a) of this subchapter.
@@ -12,4 +10,6 @@ An agency transfers records to a NARA Federal Records Center using the following
 
 (d) A separate SF 135 or electronic equivalent is required for each individual records series having the same disposition authority and disposition date.
 
-(e) For further guidance on transfer of records to a NARA Federal Records Center, consult the NARA Federal Records Centers Program Web site (*http://www.archives.gov/frc/toolkit.html#transfer*), or current NARA publications and bulletins by contacting the National Archives and Records Administration, Office of Regional Records Services (NR), 8601 Adelphi Road, College Park, MD or phone (301) 837-2950, or individual NARA Federal Records Centers *http://www.archives.gov/frc/locations.html.*
+(e) For further guidance on transferring records to a NARA Federal Records Center, consult the NARA Federal Records Centers Program website (*http://www.archives.gov/frc/toolkit.html#transfer*). Request current NARA publications and bulletins by contacting an individual NARA Federal Records Center (contact information at *http://www.archives.gov/frc/locations.html*), or the FRCP by mail at National Archives and Records Administration; Federal Records Centers Program (AF); 8601 Adelphi Road; College Park, MD 20740-6001, or by phone at 301.837.2950.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13655, Mar. 30, 2018]

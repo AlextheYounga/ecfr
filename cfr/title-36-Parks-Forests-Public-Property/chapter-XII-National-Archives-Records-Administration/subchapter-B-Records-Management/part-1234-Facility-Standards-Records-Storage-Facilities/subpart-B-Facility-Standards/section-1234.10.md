@@ -1,12 +1,10 @@
 ##### § 1234.10 What are the facility requirements for all records storage facilities? #####
 
-Link to an amendment published at 83 FR 13655, March 30, 2018.
-
 (a) The facility must be constructed with non-combustible materials and building elements, including walls, columns and floors. There are two exceptions to this requirement:
 
 (1) Roof elements may be constructed with combustible materials if installed in accordance with local building codes and if roof elements are protected by a properly installed, properly maintained wet-pipe automatic sprinkler system, as specified in NFPA 13 (incorporated by reference, see § 1234.3).
 
-(2) An agency may request a waiver of the requirement specified in paragraph (a) from NARA for an existing records storage facility with combustible building elements to continue to operate until October 1, 2009. In its request for a waiver, the agency must provide documentation that the facility has a fire suppression system specifically designed to mitigate this hazard and that the system meets the requirements of § 1234.12(s). Requests must be submitted to the Director, Space and Security Management Division (NAS), National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1867.
+(2) An agency may request a waiver of the requirement specified in paragraph (a) from NARA for an existing records storage facility with combustible building elements to continue to operate until October 1, 2009. In its request for a waiver, the agency must provide documentation that the facility has a fire suppression system specifically designed to mitigate this hazard and that the system meets the requirements of § 1234.12(s). Submit waiver requests to NARA by mail at National Archives and Records Administration; Storage Coordination and Logistics (B-AD); 8601 Adelphi Road; College Park, MD 20740-6001.
 
 (b) A facility with two or more stories must be designed or reviewed by a licensed fire protection engineer and civil/structural engineer to avoid catastrophic failure of the structure due to an uncontrolled fire on one of the intermediate floor levels. For new buildings the seals on the construction drawings serve as proof of this review. For existing buildings, this requirement may be demonstrated by a professional letter of opinion under seal by a licensed fire protection engineer that the fire resistance of the separating floor(s) is/(are) at least four hours, and a professional letter of opinion under seal by a licensed civil/structural engineer that there are no obvious structural weaknesses that would indicate a high potential for structural catastrophic collapse under fire conditions.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 83 FR 13655, March 30, 2018.
 
 (2) Racking systems, steel shelving, or other open-shelf records storage equipment must be braced to prevent collapse under full load. Each racking system or shelving unit must be industrial style shelving rated at least 50 pounds per cubic foot supported by the shelf;
 
-(3) Compact mobile shelving systems (if used) must be designed to permit proper air circulation and fire protection (detailed specifications that meet this requirement can be provided by NARA by writing to Director, Space and Security Management Division (NAS), National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001.), phone number (301) 837-1867).
+(3) Compact mobile shelving systems (if used) must be designed to permit proper air circulation and fire protection. Request detailed specifications that meet this requirement from NARA by mail at National Archives and Records Administration; Storage Coordination and Logistics (B-AD); 8601 Adelphi Road; College Park, MD 20740-6001.
 
 (j) The area occupied by the records storage facility must be equipped with an anti-intrusion alarm system, or equivalent, meeting the requirements of UL 1076 (incorporated by reference, see § 1234.3), level AA, to protect against unlawful entry after hours and to monitor designated interior storage spaces. This intrusion alarm system must be monitored in accordance with UL 611, (incorporated by reference, see § 1234.3).
 
@@ -61,3 +59,5 @@ Link to an amendment published at 83 FR 13655, March 30, 2018.
 (3) A redundant source of primary electric service such as a second primary service feeder should be provided to ensure continuous, dependable service to the facility especially to the HVAC systems, fire alarm and fire protection systems. Manual switching between sources of service is acceptable.
 
 (4) A facility storing permanent records must be kept under positive air pressure, especially in the area of the loading dock. In addition, to prevent fumes from vehicle exhausts from entering the facility, air intake louvers must not be located in the area of the loading dock, adjacent to parking areas, or in any location where a vehicle engine may be running for any period of time. Loading docks must have an air supply and exhaust system that is separate from the remainder of the facility.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13655, Mar. 30, 2018]

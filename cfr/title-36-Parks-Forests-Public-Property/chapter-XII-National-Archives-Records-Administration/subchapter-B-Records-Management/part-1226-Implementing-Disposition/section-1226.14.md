@@ -1,7 +1,5 @@
 ##### § 1226.14 What are the limitations in applying approved records schedules? #####
 
-Link to an amendment published at 83 FR 13653, March 30, 2018.
-
 Agencies must apply the approved records disposition schedules to their agency's records as follows
 
 (a) Records described by items marked “disposition not approved” or “withdrawn” may not be destroyed until a specific disposition has been approved by NARA.
@@ -12,4 +10,6 @@ Agencies must apply the approved records disposition schedules to their agency's
 
 (d) Unless otherwise specified, newly approved disposition authorities apply retroactively to all existing records as described in the schedule.
 
-(e) When required by court order (*i.e.*, order for expungement or destruction), an agency may destroy temporary records before their NARA-authorized disposition date. In accordance with § 1230.14 of this subchapter, an agency must notify the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1738, when permanent or unscheduled records are to be destroyed in response to a court order. If the records have significant historical value, NARA will promptly advise the agency of any concerns over their destruction.
+(e) When required by court order (*i.e.*, order for expungement or destruction), an agency may destroy temporary records before their NARA-authorized disposition date. In accordance with § 1230.14 of this subchapter, an agency must notify NARA, by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov,* when permanent or unscheduled records are to be destroyed in response to a court order. If the records have significant historical value, NARA will promptly advise the agency of any concerns over their destruction.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13653, Mar. 30, 2018]

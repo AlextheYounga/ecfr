@@ -1,0 +1,3 @@
+##### § 216.4 Interim directives. #####
+
+Upon a finding of good cause that an exigency exists, an interim directive may be effective in advance of providing notice and an opportunity for public comment. As described in § 216.3, opportunity will be given for public comment before the interim directive is made final. The basis for the determination that good cause exists for the issuance of an interim directive shall be published at the time the directive is issued.

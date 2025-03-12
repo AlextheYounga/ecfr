@@ -1,10 +1,8 @@
 ##### § 1226.26 How do agencies donate temporary records? #####
 
-Link to an amendment published at 83 FR 13653, March 30, 2018.
-
 (a) Agencies must obtain written approval from NARA before donating records eligible for disposal to an appropriate person, organization, institution, corporation, or government (including a foreign government) that has requested them. Records that are not eligible for disposal cannot be donated.
 
-(b) Agencies request the approval of such a donation by sending a letter to the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1738. The request must include:
+(b) Agencies request the approval of such a donation by sending a letter to NARA, by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov.* The request must include:
 
 (1) The name of the department or agency, and relevant subdivisions, having custody of the records;
 
@@ -35,3 +33,5 @@ Link to an amendment published at 83 FR 13653, March 30, 2018.
 (iii) A foreign government desiring the records has an official interest in them.
 
 (c) NARA will determine whether the donation is in the public interest and notify the requesting agency of its decision in writing. If NARA determines such a proposed donation is contrary to the public interest, the agency must destroy the records in accordance with the appropriate disposition authority.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13653, Mar. 30, 2018]

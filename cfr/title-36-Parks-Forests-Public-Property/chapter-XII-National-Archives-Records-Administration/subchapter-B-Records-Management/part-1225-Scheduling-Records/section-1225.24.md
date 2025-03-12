@@ -1,10 +1,8 @@
 ##### § 1225.24 When can an agency apply previously approved schedules to electronic records? #####
 
-Link to an amendment published at 83 FR 13653, March 30, 2018.
-
 If the conditions specified in § 1225.22(h) do not apply, the following conditions apply:
 
-(a) *Permanent records.* (1) The agency may apply a previously approved schedule for hard copy records to electronic versions of the permanent records when the electronic records system replaces a single series of hard copy permanent records or the electronic records consist of information drawn from multiple previously scheduled permanent series. Agencies must notify the National Archives and Records Administration, Modern Records Programs (NWM), 8601 Adelphi Road, College Park, MD 20740-6001, phone number 301-837-1738, in writing of series of records that have been previously scheduled as permanent in hard copy form, including special media records as described in 36 CFR 1235.52 of this subchapter. An agency should send the notification to the NARA unit that processes its schedules. The notification must be submitted within 90 days of when the electronic recordkeeping system becomes operational and must contain the:
+(a) *Permanent records.* (1) The agency may apply a previously approved schedule for hard copy records to electronic versions of the permanent records when the electronic records system replaces a single series of hard copy permanent records or the electronic records consist of information drawn from multiple previously scheduled permanent series. Agencies must notify NARA, by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov*, in writing of series of records that have been previously scheduled as permanent in hard copy form, including special media records as described in 36 CFR 1235.52 of this subchapter. An agency should send the notification to the NARA unit that processes its schedules. The notification must be submitted within 90 days of when the electronic recordkeeping system becomes operational and must contain the:
 
 (i) Name of agency;
 
@@ -25,3 +23,5 @@ If the conditions specified in § 1225.22(h) do not apply, the following conditi
 (d) *Other temporary records maintained in an electronic format other than scanned images.* (1) For temporary records that are covered by an item in a General Records Schedule (other than those General Records Schedule items that exclude electronic master files and databases) or an agency-specific schedule that pertains to administrative housekeeping activities, apply the previously approved schedule. If the electronic records consist of information drawn from multiple hard copy series, apply the previously approved schedule item with the longest retention period.
 
 (2) For temporary program records covered by a NARA-approved media neutral schedule item (*i.e.*, the item appears on a schedule submitted to NARA for approval before December 17, 2007, that is explicitly stated to be media neutral, or it appears on a schedule submitted to NARA for approval on or after December 17, 2007, that is not explicitly limited to a specific recordkeeping medium), apply the previously approved schedule.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13653, Mar. 30, 2018]

@@ -1,0 +1,3 @@
+##### § 906.9 Grade and size. #####
+
+*Grade* means any one of the established grades of fruit and *size* means any one of the established sizes of fruit as defined and set forth in the applicable U.S. Standards for fruit (§§ 51.680 through 51.714 and §§ 51.620 through 51.653) issued by the United States Department of Agriculture, or amendments thereto, or modifications thereof, or variations based thereon recommended by the committee and approved by the Secretary.

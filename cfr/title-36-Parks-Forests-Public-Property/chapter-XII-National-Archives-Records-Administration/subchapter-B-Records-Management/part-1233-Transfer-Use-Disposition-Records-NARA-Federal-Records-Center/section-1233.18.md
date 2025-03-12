@@ -1,10 +1,8 @@
 ##### § 1233.18 What reference procedures are used in NARA Federal Records Centers? #####
 
-Link to an amendment published at 83 FR 13655, March 30, 2018.
-
 (a) Agency records transferred to a NARA Federal Records Center remain in the legal custody of the agency. NARA acts as the agency's agent in maintaining the records. NARA will not disclose the record except to the agency that maintains the record, or under rules established by that agency which are consistent with existing laws.
 
-(b) For general reference requests agencies may use an FRCP electronic system or, the Optional Form (OF) 11, Reference Request - Federal Records Centers, a form jointly designated by that agency and NARA, or their electronic equivalents.
+(b) For general reference requests agencies may use an FRCP electronic system or, the Optional Form (OF) 11, Reference Request—Federal Records Centers, a form jointly designated by that agency and NARA, or their electronic equivalents.
 
 (c) For civilian personnel records, agencies must use the following forms:
 
@@ -12,7 +10,7 @@ Link to an amendment published at 83 FR 13655, March 30, 2018.
 
 (2) Standard Form 184, Request for Employee Medical Folder (Separated Employee), to request medical folders stored at the National Personnel Records Center. Additional instructions on requesting EMFs are available online at *http://www.archives.gov/st-louis/civilian-personnel/federal-agencies.html.*
 
-(3) Optional Form 11, Reference Request - Federal Records Center to request medical records transferred to other NARA Federal Records Centers prior to September 1, 1984. The request must include the name and address of the agency's designated medical records manager
+(3) Optional Form 11, Reference Request—Federal Records Center to request medical records transferred to other NARA Federal Records Centers prior to September 1, 1984. The request must include the name and address of the agency's designated medical records manager
 
 (d) For military personnel records reference requests, the following forms must be used:
 
@@ -26,4 +24,6 @@ Link to an amendment published at 83 FR 13655, March 30, 2018.
 
 (5) For guidance on requesting original medical treatment records, military hospitals and clinics should consult the “Transactions with the National Personnel Records Center (NPRC), St. Louis, MO” section of the NARA Federal Records Centers Program Web site (*http://www.archives.gov/frc/toolkit.html#transactions*).
 
-(e) For further guidance on requesting records from a NARA Federal Records Center, consult the NARA Federal Records Centers Program Web site (*http://www.archives.gov/frc/toolkit.html#retrieval*), or current NARA publications and bulletins by contacting the Office of Regional Records Services (NR), or individual NARA Federal Records Centers (*http://www.archives.gov/frc/locations.html*), or the Washington National Records Center (NWMW).
+(e) For further guidance on requesting records from a NARA Federal Records Center, consult the NARA Federal Records Centers Program website (*http://www.archives.gov/frc/toolkit.html#retrieval*). Request current NARA publications and bulletins by contacting an individual NARA Federal Records Center (contact information at *http://www.archives.gov/frc/locations.html*), or the FRCP by mail at National Archives and Records Administration; Federal Records Centers Program (AF); 8601 Adelphi Road; College Park, MD 20740-6001, or by phone at 301.837.2950.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13655, Mar. 30, 2018]

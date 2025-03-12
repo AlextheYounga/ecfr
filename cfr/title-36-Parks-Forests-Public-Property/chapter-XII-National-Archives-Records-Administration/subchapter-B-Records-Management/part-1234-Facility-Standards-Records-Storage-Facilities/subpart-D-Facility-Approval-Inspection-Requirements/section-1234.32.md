@@ -1,8 +1,6 @@
 ##### § 1234.32 What does an agency have to do to certify a fire-safety detection and suppression system? #####
 
-Link to an amendment published at 83 FR 13656, March 30, 2018.
-
-(a) *Content of documentation.* The agency must submit documentation to the Director, Space and Security Management Division (NAS), National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001, phone number (301) 837-1867, that describes the space being protected (e.g., the type and stacking height of the storage equipment used, or how the space is designed, controlled, and operated) and the characteristics of the fire-safety detection and suppression system used. The documentation must demonstrate how that system meets the requirement in § 1234.12(s) through:
+(a) *Content of documentation.* The agency must submit documentation to NARA, by mail at National Archives and Records Administration; Storage Coordination and Logistics (B-AD); 8601 Adelphi Road; College Park, MD 20740-6001, that describes the space being protected (e.g., the type and stacking height of the storage equipment used, or how the space is designed, controlled, and operated) and the characteristics of the fire-safety detection and suppression system used. The documentation must demonstrate how that system meets the requirement in § 1234.12(s) through:
 
 (1) A statement that the facility is using a NARA certified system as described in Appendix B to this part;
 
@@ -23,3 +21,5 @@ Link to an amendment published at 83 FR 13656, March 30, 2018.
 (3) If NARA questions whether supporting documentation demonstrates compliance with § 1234.12(s), NARA will consult the appropriate industry standards body or other qualified expert before making a determination. Before any consultation, NARA may ask the agency for additional clarifying information. NARA will notify the requesting agency within 30 calendar days of receipt of the request that consultation is necessary and will provide a final determination within 60 calendar days. If NARA does not approve the system, NARA will furnish a full explanation of the reasons for its decision.
 
 (4) NARA will maintain a list of approved alternative systems.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13656, Mar. 30, 2018]

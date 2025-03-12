@@ -1,12 +1,10 @@
 ##### § 1237.28 What special concerns apply to digital photographs? #####
 
-Link to an amendment published at 83 FR 13657, March 30, 2018.
-
-Digital photographs, either originating in digital form (“born-digital”) or scanned from photographic prints, slides, and negatives, are subject to the provisions of this part and the requirements of 36 CFR part 1236, and NARA guidance for transfer of digital photographs located on the following NARA Web page - *http://www.archives.gov/records-mgmt/initiatives/digital-photo-records.html.* In managing digital photographs, agency and contractor personnel must:
+Digital photographs, either originating in digital form (“born-digital”) or scanned from photographic prints, slides, and negatives, are subject to the provisions of this part and the requirements of 36 CFR part 1236, and NARA guidance for transfer of digital photographs located on the following NARA Web page—*http://www.archives.gov/records-mgmt/initiatives/digital-photo-records.html.* In managing digital photographs, agency and contractor personnel must:
 
 (a) Schedule digital photographs and related databases as soon as possible for the minimum time needed for agency business and transfer the records promptly according to the disposition instructions on their records schedule.
 
-(b) Select image management software and hardware tools that will meet long-term archival requirements, including transfer to the National Archives of the United States, as well as business needs. Additional information and assistance is available from the National Archives and Records Administration, Modern Records Program (NWM), 8601 Adelphi Road, College Park, MD 20740, phone number (301) 837-1738.
+(b) Select image management software and hardware tools that will meet long-term archival requirements, including transfer to the National Archives of the United States, as well as business needs. Request additional information and assistance from NARA, by mail at National Archives and Records Administration; Special Media Records Division (RDS); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *stillpix.accessions@nara.gov.*
 
 (c) When developing digital image storage strategies, build redundancy into storage systems, backing up image files through on-line approaches, off-line, or combinations of the two. (See also electronic storage requirements in § 1236.28 of this subchapter).
 
@@ -37,3 +35,5 @@ Digital photographs, either originating in digital form (“born-digital”) or 
 (i) Provide a unique file name to identify the digital image.
 
 (j) Develop finding aids sufficiently detailed to ensure efficient and accurate retrieval. Ensure that indexes, caption lists, and assignment logs can be used to identify and chronologically cut-off block of images for transfer to the NARA.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13657, Mar. 30, 2018]

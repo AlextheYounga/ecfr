@@ -1,0 +1,3 @@
+##### § 906.39 Recommendations for regulations. #####
+
+The committee, upon complying with the requirements of § 906.38, may recommend regulations to the Secretary whenever it finds that such regulations, as are provided for in this sub-part, will tend to effectuate the declared policy of the act. The committee shall give notice to handlers of any such recommendation at the same time such recommendation is submitted to the Secretary.

@@ -1,7 +1,5 @@
 ##### § 1234.22 How does an agency request a waiver from a requirement in this part? #####
 
-Link to an amendment published at 83 FR 13655, March 30, 2018.
-
 (a) *Types of waivers that may be approved.* NARA may approve exceptions to one or more of the standards in this part for:
 
 (1) Systems, methods, or devices that are demonstrated to have equivalent or superior quality, strength, fire resistance, effectiveness, durability, and safety to those prescribed by this subpart;
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 13655, March 30, 2018.
 
 (3) The application of roof requirements in §§ 1234.10 and 1234.12 to underground storage facilities.
 
-(b) *Where to submit a waiver request.* The agency submits a waiver request, containing the information specified in paragraphs (c), (d), and/or (e) of this section to the Director, Space and Security Management Division (NAS), National Archives and Records Administration, 8601 Adelphi Rd., College Park, MD 20740-6001, phone number (301) 837-1867.
+(b) *Where to submit a waiver request.* The agency submits a waiver request, containing the information specified in paragraphs (c), (d), and/or (e) of this section to NARA by mail at National Archives and Records Administration; Storage Coordination and Logistics (B-AD); 8601 Adelphi Road; College Park, MD 20740-6001.
 
 (c) *Content of request for waivers for equivalent or superior alternatives.* The agency's waiver request must contain:
 
@@ -21,3 +19,5 @@ Link to an amendment published at 83 FR 13655, March 30, 2018.
 (d) *Content of request for waiver for previously compliant agency records center.* The agency's waiver request must identify which requirement(s) the agency records center cannot meet and provide a plan with milestones for bringing the center into compliance.
 
 (e) *Content of request for waiver of roof requirements for underground facility.* The agency's waiver request must identify the location of the facility and whether the facility is a drift entrance facility or a vertical access facility.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13655, Mar. 30, 2018]

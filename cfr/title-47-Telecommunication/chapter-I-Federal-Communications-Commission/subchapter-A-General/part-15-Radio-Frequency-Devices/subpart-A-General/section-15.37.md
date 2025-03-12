@@ -48,6 +48,4 @@
 
 (p) Effective October 20, 2017, the certification under this part of vehicular radars and fixed radar systems used in airport air operations areas that are designed to operate in the 76-77 GHz band shall not be permitted. Vehicular radars and fixed radar systems used in airport air operations areas operating in the 76-77 GHz band that are already installed or in use may continue to operate in accordance with their previously obtained certification. Any future certification, or any change of already issued certification and operations of such equipment, shall be under part 95, subpart M, of this chapter.
 
-[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018]Effective Date Note:
-
-At 82 FR 43870, Sept. 20, 2017, § 15.37(l) was added. This paragraph will not become effective until September 20, 2018.
+[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018]Effective Date Note:At 82 FR 43870, Sept. 20, 2017, § 15.37(l) was added. This paragraph will not become effective until Sept. 20, 2018.

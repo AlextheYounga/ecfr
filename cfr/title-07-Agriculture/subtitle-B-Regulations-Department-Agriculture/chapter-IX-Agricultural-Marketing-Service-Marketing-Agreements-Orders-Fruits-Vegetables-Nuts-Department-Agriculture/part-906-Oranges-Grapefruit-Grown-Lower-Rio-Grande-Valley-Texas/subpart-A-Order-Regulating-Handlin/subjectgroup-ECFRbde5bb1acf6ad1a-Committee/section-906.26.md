@@ -1,0 +1,3 @@
+##### § 906.26 Vacancies. #####
+
+To fill committee vacancies, the Secretary may select such members or alternates from unselected nominees on the current nominee list from the district and group involved, or from nominations made in the manner specified in § 906.23. If the names of nominees to fill any such vacancy are not made available to the Secretary within 30 days after such vacancy occurs, such vacancy may be filled without regard to nominations, which selection shall be made on the basis of representation provided for in §§ 906.20 through 906.22, inclusive.

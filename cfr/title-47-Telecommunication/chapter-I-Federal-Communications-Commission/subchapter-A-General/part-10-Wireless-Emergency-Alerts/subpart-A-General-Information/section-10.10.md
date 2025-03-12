@@ -1,7 +1,5 @@
 ##### § 10.10 Definitions. #####
 
-Link to an amendment published at 83 FR 8623, February 28, 2018.
-
 (a) *Alert Message.* An Alert Message is a message that is intended to provide the recipient information regarding an emergency, and that meets the requirements for transmission by a Participating Commercial Mobile Service Provider under this part.
 
 (b) *Common Alerting Protocol.* The Common Alerting Protocol (CAP) refers to Organization for the Advancement of Structured Information Standards (OASIS) Standard CAP-V1.1, October 2005 (available at *http://www.oasis-open.org/specs/index.php#capv1.1*), or any subsequent version of CAP adopted by OASIS and implemented by the WEA.
@@ -22,4 +20,8 @@ Link to an amendment published at 83 FR 8623, February 28, 2018.
 
 (j) *Mobile Devices.* The subscriber equipment generally offered by CMS providers that supports the distribution of WEA Alert Messages.
 
-[73 FR 43117, July 24, 2008, as amended at 73 FR 54525, Sept. 22, 2008; 78 FR 16807, Mar. 19, 2013]
+(k) *CMS Provider participation “in whole.”* CMS Providers that have agreed to transmit WEA Alert Messages in a manner consistent with the technical standards, protocols, procedures, and other technical requirements implemented by the Commission in the entirety of their geographic service area, and when all mobile devices that the CMS Providers offer at the point of sale are WEA-capable.
+
+(l) *CMS Provider participation “in part.”* CMS Providers that have agreed to transmit WEA Alert Messages in a manner consistent with the technical standards, protocols, procedures, and other technical requirements implemented by the Commission in some, but not in all of their geographic service areas, or CMS Providers that offer mobile devices at the point of sale that are not WEA-capable.
+
+[73 FR 43117, July 24, 2008, as amended at 73 FR 54525, Sept. 22, 2008; 78 FR 16807, Mar. 19, 2013; 83 FR 8623, Feb. 28, 2018]

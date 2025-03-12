@@ -1,7 +1,5 @@
 ##### § 1237.22 What are special considerations in the storage and maintenance of cartographic and related records? #####
 
-Link to an amendment published at 83 FR 13657, March 30, 2018.
-
 Agencies must:
 
 (a) Maintain permanent and unscheduled cartographic, architectural, and engineering records in an environment that does not exceed 70 degrees Fahrenheit and with relative humidity under 50%.
@@ -14,4 +12,7 @@ Agencies must:
 
 (e) Avoid rolling and folding maps and drawings. Store permanent maps and drawings flat in shallow drawer map cases in acid-free folders.
 
-(f) Do not laminate original oversize records. Consult the National Archives and Records Administration, Preservation Programs, (NWT), 8601 Adelphi Road, College Park, MD 20740, phone number (301) 837-1785 for preservation, storage, and treatment options.
+(f) Do not laminate original oversize records. Consult
+NARA for preservation, storage, and treatment options, by mail at National Archives and Records Administration; Preservation Programs (RX); 8601 Adelphi Road; College Park, MD 20740-6001.
+
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13657, Mar. 30, 2018]
