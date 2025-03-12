@@ -2,11 +2,11 @@
 
 (a) *Scope.* This section provides rules for determining whether a foreign corporation is a qualifying insurance corporation for purposes of section 1297(f). Paragraph (b) of this section provides the general rule for determining whether a foreign corporation is a qualifying insurance corporation. Paragraph (c) of this section describes the 25 percent test in section 1297(f)(1)(B). Paragraph (d) of this section contains rules for applying the alternative facts and circumstances test in section 1297(f)(2). Paragraph (e) of this section contains rules limiting the amount of applicable insurance liabilities for purposes of the 25 percent test described in paragraph (c) of this section and the alternative facts and circumstances test described in paragraph (d) of this section. Paragraph (f) of this section provides definitions that apply for purposes of this section. Paragraph (g) of this section provides the applicability date of this section.
 
-(b) *Qualifying insurance corporation.* For purposes of section 1297(b)(2)(B), this section, and §§ 1.1297-5 and 1.1297-6, with respect to a U.S. person, a qualifying insurance corporation (QIC) is a foreign corporation that -
+(b) *Qualifying insurance corporation.* For purposes of section 1297(b)(2)(B), this section, and §§ 1.1297-5 and 1.1297-6, with respect to a U.S. person, a qualifying insurance corporation (QIC) is a foreign corporation that—
 
 (1) Is an insurance company as defined in section 816(a) that would be subject to tax under subchapter L if the corporation were a domestic corporation; and
 
-(2) Satisfies -
+(2) Satisfies—
 
 (i) The 25 percent test described in paragraph (c) of this section; or
 
@@ -14,7 +14,7 @@
 
 (c) *25 percent test.* A foreign corporation satisfies the 25 percent test if the amount of its applicable insurance liabilities exceeds 25 percent of its total assets. This determination is made on the basis of the applicable insurance liabilities and total assets reported on the corporation's applicable financial statement for the applicable reporting period.
 
-(d) *Election to apply the alternative facts and circumstances test* - (1) *In general.* A United States person that owns stock in a foreign corporation that fails to qualify as a QIC solely because of the 25 percent test may elect to treat the stock of the corporation as stock of a QIC if the foreign corporation -
+(d) *Election to apply the alternative facts and circumstances test*—(1) *In general.* A United States person that owns stock in a foreign corporation that fails to qualify as a QIC solely because of the 25 percent test may elect to treat the stock of the corporation as stock of a QIC if the foreign corporation—
 
 (i) Is predominantly engaged in an insurance business as described in paragraph (d)(2) of this section;
 
@@ -22,9 +22,9 @@
 
 (iii) Reports an amount of applicable insurance liabilities that is at least 10 percent of the amount of the total assets on the corporation's applicable financial statement for the applicable reporting period.
 
-(2) *Predominantly engaged in an insurance business* - (i) *In general.* A foreign corporation is not considered predominantly engaged in an insurance business in any taxable year unless more than half of the business of the foreign corporation is the issuing of insurance or annuity contracts or the reinsuring of risks underwritten by insurance companies. This determination is made based on the character of the business actually conducted in the taxable year. The fact that a foreign corporation has been holding itself out as an insurer for a long period is not determinative of whether the foreign corporation is predominantly engaged in an insurance business.
+(2) *Predominantly engaged in an insurance business*—(i) *In general.* A foreign corporation is not considered predominantly engaged in an insurance business in any taxable year unless more than half of the business of the foreign corporation is the issuing of insurance or annuity contracts or the reinsuring of risks underwritten by insurance companies. This determination is made based on the character of the business actually conducted in the taxable year. The fact that a foreign corporation has been holding itself out as an insurer for a long period is not determinative of whether the foreign corporation is predominantly engaged in an insurance business.
 
-(ii) *Facts and circumstances.* Facts and circumstances to consider in determining whether a foreign corporation is predominantly engaged in an insurance business include (but are not limited to) -
+(ii) *Facts and circumstances.* Facts and circumstances to consider in determining whether a foreign corporation is predominantly engaged in an insurance business include (but are not limited to)—
 
 (A) Claims payment patterns for the current year and prior years;
 
@@ -34,7 +34,7 @@
 
 (D) The number and size of insurance contracts issued or taken on through reinsurance by the foreign corporation.
 
-(iii) *Examples of facts indicating a foreign corporation is not predominantly engaged in an insurance business.* Examples of facts that may indicate a foreign corporation is not predominantly engaged in an insurance business include (but are not limited to) -
+(iii) *Examples of facts indicating a foreign corporation is not predominantly engaged in an insurance business.* Examples of facts that may indicate a foreign corporation is not predominantly engaged in an insurance business include (but are not limited to)—
 
 (A) A small overall number of insured risks with low likelihood but large potential costs;
 
@@ -42,7 +42,7 @@
 
 (C) Low loss exposure.
 
-(3) *Runoff-related circumstances.* During the annual reporting period covered by the applicable financial statement, a foreign corporation fails to satisfy the 25 percent test solely due to runoff-related circumstances only if the corporation -
+(3) *Runoff-related circumstances.* During the annual reporting period covered by the applicable financial statement, a foreign corporation fails to satisfy the 25 percent test solely due to runoff-related circumstances only if the corporation—
 
 (i) Was engaged in the process of terminating its pre-existing, active conduct of an insurance business (within the meaning of section 1297(b)(2)(B)) under the supervision of its applicable insurance regulatory body or pursuant to any court-ordered receivership proceeding (liquidation, rehabilitation, or conservation) and fails to satisfy the 25 percent test because the corporation is required to hold additional assets due to its business being in runoff;
 
@@ -50,13 +50,13 @@
 
 (iii) Made payments during the annual reporting period covered by the applicable financial statement as required to satisfy claims under insurance, annuity, or reinsurance contracts.
 
-(4) *Rating-related circumstances.* A foreign corporation fails to satisfy the 25 percent test solely due to rating-related circumstances only if -
+(4) *Rating-related circumstances.* A foreign corporation fails to satisfy the 25 percent test solely due to rating-related circumstances only if—
 
 (i) The 25 percent test is not met due to capital and surplus amounts that a generally recognized credit rating agency considers necessary for the foreign corporation to obtain a public rating with respect to its financial strength, and the foreign corporation maintains such capital and surplus in order to obtain the minimum credit rating necessary for the annual reporting period by the foreign corporation to be able to write the business in its regulatory or board supervised business plan. This paragraph (c)(4)(i) applies only if the foreign corporation is a mortgage insurance company (as defined in paragraph (f)(10) of this section) or if more than half of the foreign corporation's net written premiums for the annual reporting period (or the average of the net written premiums for the foreign corporation's annual reporting period and the two immediately preceding annual reporting periods) are from insurance coverage against the risk of loss from a catastrophic loss event (that is, a low frequency but high severity loss event); or
 
 (ii) The foreign corporation is a financial guaranty insurance company (as defined in paragraph (f)(5) of this section).
 
-(5) *Election* - (i) *In general.* A United States person may make the election under section 1297(f)(2) for its taxable year if the foreign corporation directly provides the United States person a statement, signed by a responsible officer of the foreign corporation or an authorized representative of the foreign corporation, or the foreign corporation (or its foreign parent corporation on its behalf) makes a publicly available statement (such as in a public filing, disclosure statement, or other notice provided to United States persons that are shareholders of the foreign corporation) that it satisfied the requirements of section 1297(f)(2) and paragraph (d)(1) of this section during the foreign corporation's applicable reporting period. However, a United States person may not rely upon any statement by the foreign corporation (or its foreign parent corporation) to make the election under section 1297(f)(2) if the shareholder knows or has reason to know based on reasonably accessible information that the statement made by the foreign corporation (or its foreign parent corporation) was incorrect.
+(5) *Election*—(i) *In general.* A United States person may make the election under section 1297(f)(2) for its taxable year if the foreign corporation directly provides the United States person a statement, signed by a responsible officer of the foreign corporation or an authorized representative of the foreign corporation, or the foreign corporation (or its foreign parent corporation on its behalf) makes a publicly available statement (such as in a public filing, disclosure statement, or other notice provided to United States persons that are shareholders of the foreign corporation) that it satisfied the requirements of section 1297(f)(2) and paragraph (d)(1) of this section during the foreign corporation's applicable reporting period. However, a United States person may not rely upon any statement by the foreign corporation (or its foreign parent corporation) to make the election under section 1297(f)(2) if the shareholder knows or has reason to know based on reasonably accessible information that the statement made by the foreign corporation (or its foreign parent corporation) was incorrect.
 
 (ii) *Information provided by foreign corporation.* In addition to a statement that the foreign corporation satisfied the requirements of section 1297(f)(2) and paragraph (d)(1) of this section, the statement described in paragraph (d)(5)(i) of this section also must include:
 
@@ -66,7 +66,7 @@
 
 (iii) *Time and manner for making the election.* Except as provided in paragraph (d)(5)(iv), the election described in paragraph (d)(1) of this section may be made by a United States person who owns stock in the foreign corporation by completing the appropriate part of Form 8621 (or successor form) for each taxable year of the United States person in which the election applies. A United States person must attach the Form 8621 (or successor form) to its original or amended Federal income tax return for the taxable year of the United States person to which the election relates. A United States person can attach the Form 8621 (or successor form) to an amended return for the taxable year of the United States person to which the election relates if the United States person can demonstrate the reason for not filing the form with its original return was due to reasonable cause.
 
-(iv) *Deemed election for small shareholders in publicly traded companies* - (A) *In general.* A United States person who owns publicly traded stock in a foreign corporation will be deemed to make the election under section 1297(f)(2) with respect to the foreign corporation and its subsidiaries if the following requirements are satisfied:
+(iv) *Deemed election for small shareholders in publicly traded companies*—(A) *In general.* A United States person who owns publicly traded stock in a foreign corporation will be deemed to make the election under section 1297(f)(2) with respect to the foreign corporation and its subsidiaries if the following requirements are satisfied:
 
 (*1*) The stock of the foreign corporation that is owned by the United States person (including stock owned indirectly) has a value of $25,000 or less ($50,000 or less in the case of a joint return) on the last day of the United States person's taxable year and on any day during the taxable year on which the United States person disposes of stock of the foreign corporation; and
 
@@ -78,7 +78,7 @@
 
 (6) *Stock ownership.* For purposes of this section, ownership of stock in a foreign corporation means either direct ownership of such stock or indirect ownership determined using the rules specified in § 1.1291-1(b)(8) (but without regard to the 50 percent ownership requirement of § 1.1291-1(b)(8)(ii)(A)).
 
-(e) *Rules limiting the amount of applicable insurance liabilities* - (1) *In general.* For purposes of determining whether a foreign corporation satisfies the 25 percent test described in paragraph (c) of this section or the 10 percent test described in paragraph (d)(1)(iii) of this section, the rules of this paragraph (e) apply to limit the amount of applicable insurance liabilities of the foreign corporation.
+(e) *Rules limiting the amount of applicable insurance liabilities*—(1) *In general.* For purposes of determining whether a foreign corporation satisfies the 25 percent test described in paragraph (c) of this section or the 10 percent test described in paragraph (d)(1)(iii) of this section, the rules of this paragraph (e) apply to limit the amount of applicable insurance liabilities of the foreign corporation.
 
 (2) *General limitation on applicable insurance liabilities.* The amount of applicable insurance liabilities may not exceed any of the amounts described in paragraphs (e)(2)(i) to (iii) of this section. This paragraph (e)(2) applies after applying paragraph (e)(3) of this section.
 
@@ -96,7 +96,7 @@
 
 (f) *Definitions.* The following definitions apply for purposes of this section.
 
-(1) *Applicable financial statement.* The term *applicable financial statement* means the foreign corporation's financial statement prepared for financial reporting purposes, listed in paragraphs (f)(1)(i) through (iii) of this section, and that has the highest priority. The financial statements are, in order of descending priority -
+(1) *Applicable financial statement.* The term *applicable financial statement* means the foreign corporation's financial statement prepared for financial reporting purposes, listed in paragraphs (f)(1)(i) through (iii) of this section, and that has the highest priority. The financial statements are, in order of descending priority—
 
 (i) *GAAP statements.* A financial statement that is prepared in accordance with GAAP;
 
@@ -106,7 +106,7 @@
 
 (iv) [Reserved]
 
-(2) *Applicable insurance liabilities* - (i) *In general.* The term *applicable insurance liabilities* means, with respect to any life or property and casualty insurance business -
+(2) *Applicable insurance liabilities*—(i) *In general.* The term *applicable insurance liabilities* means, with respect to any life or property and casualty insurance business—
 
 (A) Reported losses (which are expected payments to policyholders for sustained losses related to insured events under an insurance contract that have occurred and have been reported to, but not paid by, the insurer as of the financial statement end date), and incurred but not reported losses (which are expected payments to policyholders for sustained losses relating to insured events under an insurance contract that have occurred but have not been reported to the insurer as of the financial statement end date);
 
@@ -114,7 +114,7 @@
 
 (C) The aggregate amount of reserves (excluding deficiency, contingency, or unearned premium reserves) held as of the financial statement end date to mature or liquidate potential, future claims for death, annuity, or health benefits that may become payable under contracts providing, at the time the reserve is computed, coverage for mortality or morbidity risks;
 
-(D) Provided, however, that -
+(D) Provided, however, that—
 
 (*1*) No item or amount shall be taken into account more than once in determining applicable insurance liabilities;
 
@@ -130,7 +130,7 @@
 
 (5) *Financial guaranty insurance company.* The term *financial guaranty insurance company* means any insurance company whose sole business is to insure or reinsure only the type of business written by, or that would be permitted to be written by, a company licensed under, and compliant with, a U.S. state law, modeled after the Financial Guaranty Insurance Guideline as established by National Association of Insurance Companies, that specifically governs the licensing and regulation of financial guaranty insurance companies.
 
-(6) *Financial statements* - (i) *In general.* The term *financial statement* means a statement prepared for a legal entity for a reporting period in accordance with the rules of a financial accounting or statutory accounting standard that includes a complete balance sheet, statement of income, and a statement of cash flows (or equivalent statements under the applicable reporting standard).
+(6) *Financial statements*—(i) *In general.* The term *financial statement* means a statement prepared for a legal entity for a reporting period in accordance with the rules of a financial accounting or statutory accounting standard that includes a complete balance sheet, statement of income, and a statement of cash flows (or equivalent statements under the applicable reporting standard).
 
 (ii) [Reserved]
 
@@ -150,4 +150,4 @@ financial statement end date.
 
 (g) *Applicability date.* The rules of this section apply to taxable years of shareholders beginning on or after January 14, 2021. A shareholder may choose to apply such rules for any open taxable year beginning after December 31, 2017 and before January 14, 2021, provided that, with respect to a tested foreign corporation, it consistently applies the provisions of this section and § 1.1297-6 for such year and all subsequent years.
 
-[T.D. 9936, 86 FR 4571, Jan. 15, 2021, as amended by T.D. 9936, 86 FR 13648, Mar. 10, 2021]
+[T.D. 9936, 86 FR 4571, Jan. 15, 2021, as amended at 86 FR 13648, Mar. 10, 2021]

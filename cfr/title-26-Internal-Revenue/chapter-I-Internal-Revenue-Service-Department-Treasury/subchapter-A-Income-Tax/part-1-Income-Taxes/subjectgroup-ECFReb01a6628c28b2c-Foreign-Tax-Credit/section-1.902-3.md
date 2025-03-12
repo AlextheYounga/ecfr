@@ -16,9 +16,9 @@
 
 (6) *Dividend.* For the definition of the term “dividend” for purposes of applying section 902 and this section, see section 316 and the regulations thereunder.
 
-(7) *Dividend received.* A dividend shall be considered received for purposes of section 902 and this section when the cash or other property is unqualifiedly made subject to the demands of the distributee. See § 1.301-1(b).
+(7) *Dividend received.* A dividend shall be considered received for purposes of section 902 and this section when the cash or other property is unqualifiedly made subject to the demands of the distributee. See § 1.301-1(c).
 
-(b) *Domestic shareholder owning stock in a first-tier corporation* - (1) *In general.* (i) If a domestic shareholder receives dividends in any taxable year from its first-tier corporation, the credit for foreign income taxes allowed by section 901 includes, subject to the conditions and limitations of this section, the foreign income taxes deemed, in accordance with paragraph (b)(2) of this section, to be paid by such domestic shareholder for such year.
+(b) *Domestic shareholder owning stock in a first-tier corporation*—(1) *In general.* (i) If a domestic shareholder receives dividends in any taxable year from its first-tier corporation, the credit for foreign income taxes allowed by section 901 includes, subject to the conditions and limitations of this section, the foreign income taxes deemed, in accordance with paragraph (b)(2) of this section, to be paid by such domestic shareholder for such year.
 
 (ii) If dividends are received by a domestic shareholder from more than one first-tier corporation, the taxes deemed to be paid by such shareholder under section 902(a) and this paragraph (b) shall be computed separately with respect to the dividends received from each of such first-tier corporations.
 
@@ -36,7 +36,7 @@
 
 (2) *Amount of foreign taxes deemed paid by a domestic shareholder.* To the extent dividends are paid by a first-tier corporation to its domestic shareholder out of accumulated profits, as defined in paragraph (e) of this section, for any taxable year, the domestic shareholder shall be deemed to have paid the same proportion of any foreign income taxes paid, accrued or deemed, in accordance with paragraph (c)(2) of this section, to be paid by such first-tier corporation on or with respect to such accumulated profits for such year which the amount of such dividends (determined without regard to the gross-up under section 78) bears to the amount by which such accumulated profits exceed the amount of such taxes (other than those deemed, under paragraph (c)(2) of this section, to be paid). For determining the amount of foreign income taxes paid or accrued by such first-tier corporation on or with respect to the accumulated profits for the taxable year of such first-tier corporation, see paragraph (f) of this section.
 
-(c) *First-tier corporation owning stock in a second-tier corporation* - (1) *In general.* For purposes of applying section 902(a) and paragraph (b)(2) of this section, if a first-tier corporation receives dividends in any taxable year from its second-tier corporation, the foreign income taxes deemed to be paid by the first-tier corporation on or with respect to its own accumulated profits for such year shall be the amount determined in accordance with paragraph (c)(2) of this section. This paragraph (c) shall not apply unless the product of -
+(c) *First-tier corporation owning stock in a second-tier corporation*—(1) *In general.* For purposes of applying section 902(a) and paragraph (b)(2) of this section, if a first-tier corporation receives dividends in any taxable year from its second-tier corporation, the foreign income taxes deemed to be paid by the first-tier corporation on or with respect to its own accumulated profits for such year shall be the amount determined in accordance with paragraph (c)(2) of this section. This paragraph (c) shall not apply unless the product of—
 
 (i) The percentage of voting stock owned by the domestic shareholder in the first-tier corporation at the time that the domestic shareholder receives dividends from the first-tier corporation in respect of which foreign income taxes are deemed to be paid by the domestic shareholder under paragraph (b)(1) of this section, and
 
@@ -46,7 +46,7 @@ Example.On February 10, 1976, foreign corporation B pays a dividend out of its a
 
 (2) *Amount of foreign taxes deemed paid by a first-tier corporation.* A first-tier corporation which receives dividends in any taxable year from its second-tier corporation shall be deemed to have paid for such year the same proportion of any foreign income taxes paid, accrued, or deemed, in accordance with paragraph (d)(2) of this section, to be paid by its second-tier corporation on or with respect to the accumulated profits, as defined in paragraph (e) of this section, for the taxable year of the second-tier corporation from which such dividends are paid which the amount of such dividends bears to the amount by which such accumulated profits of the second-tier corporation exceed the taxes so paid or accrued. For determining the amount of the foreign income taxes paid or accrued by such second-tier corporation on or with respect to the accumulated profits for the taxable year of such second-tier corporation, see paragraph (f) of this section.
 
-(d) *Second-tier corporation owning stock in a third-tier corporation* - (1) *In general.* For purposes of applying section 902(b)(1) and paragraph (c)(2) of this section, if a second-tier corporation receives dividends in any taxable year from its third-tier corporation, the foreign income taxes deemed to be paid by the second-tier corporation on or with respect to its own accumulated profits for such year shall be the amount determined in accordance with paragraph (d)(2) of this section. This paragraph (d) shall not apply unless the product of -
+(d) *Second-tier corporation owning stock in a third-tier corporation*—(1) *In general.* For purposes of applying section 902(b)(1) and paragraph (c)(2) of this section, if a second-tier corporation receives dividends in any taxable year from its third-tier corporation, the foreign income taxes deemed to be paid by the second-tier corporation on or with respect to its own accumulated profits for such year shall be the amount determined in accordance with paragraph (d)(2) of this section. This paragraph (d) shall not apply unless the product of—
 
 (i) The percentage of voting stock arrived at in applying the 5-percent requirement of paragraph (c)(1) of this section with respect to dividends received by the first-tier corporation from the second-tier corporation, and
 
@@ -56,7 +56,7 @@ Example.On February 27, 1975, foreign corporation C pays a dividend out of its a
 
 (2) *Amount of foreign taxes deemed paid by a second-tier corporation.* For purposes of applying paragraph (c)(2) of this section to a first-tier corporation, a second-tier corporation which receives dividends in its taxable year from its third-tier corporation shall be deemed to have paid for such year the same proportion of any foreign income taxes paid or accrued by its third-tier corporation on or with respect to the accumulated profits, as defined in paragraph (e) of this section, for the taxable year of the third-tier corporation from which such dividends are paid which the amount of such dividends bears to the amount by which such accumulated profits of the third-tier corporation exceed the taxes so paid or accrued. For determining the amount of the foreign income taxes paid or accrued by such third-tier corporation on or with respect to the accumulated profits for the taxable year of such third-tier corporation, see paragraph (f) of this section.
 
-(e) *Determination of accumulated profits of a foreign corporation.* The accumulated profits for any taxable year of a first-tier corporation and the accumulated profits for any taxable year of a second-tier or third-tier corporation, which are taken into account in applying paragraph (c)(2) or (d)(2) of this section with respect to such first-tier corporation, shall be the sum of -
+(e) *Determination of accumulated profits of a foreign corporation.* The accumulated profits for any taxable year of a first-tier corporation and the accumulated profits for any taxable year of a second-tier or third-tier corporation, which are taken into account in applying paragraph (c)(2) or (d)(2) of this section with respect to such first-tier corporation, shall be the sum of—
 
 (1) The earnings and profits of such corporation for such year, and
 
@@ -64,7 +64,7 @@ Example.On February 27, 1975, foreign corporation C pays a dividend out of its a
 
 (f) *Taxes paid on or with respect to accumulated profits of a foreign corporation.* For purposes of this section, the amount of foreign income taxes paid or accrued on or with respect to the accumulated profits of a foreign corporation for any taxable year shall be the entire amount of the foreign income taxes paid or accrued for such year on or with respect to such gains, profits, and income. For purposes of this paragraph (f), the gains, profits, and income of a foreign corporation for any taxable year shall be determined after reduction by any income, war profits, or excess profits taxes imposed on or with respect to such gains, profits, and income by the United States.
 
-(g) *Determination of earning and profits of a foreign corporation* - (1) *Taxable year to which section 963 does not apply.* For purposes of this section, the earnings and profits of a foreign corporation for any taxable year beginning after December 31, 1962, other than a taxable year to which paragraph (g)(2) of this section applies, may, if the domestic shareholder chooses, be determined under the rules provided by § 1.964-1 exclusive of paragraphs (d) and (e) of such section. The translation of amounts so determined into United States dollars or other foreign currency shall be made at the proper exchange rate for the date of distribution with respect to which the determination is made.
+(g) *Determination of earning and profits of a foreign corporation*—(1) *Taxable year to which section 963 does not apply.* For purposes of this section, the earnings and profits of a foreign corporation for any taxable year beginning after December 31, 1962, other than a taxable year to which paragraph (g)(2) of this section applies, may, if the domestic shareholder chooses, be determined under the rules provided by § 1.964-1 exclusive of paragraphs (d) and (e) of such section. The translation of amounts so determined into United States dollars or other foreign currency shall be made at the proper exchange rate for the date of distribution with respect to which the determination is made.
 
 (2) [Reserved]
 
@@ -72,7 +72,7 @@ Example.On February 27, 1975, foreign corporation C pays a dividend out of its a
 
 (4) *Determination by district director.* The district director in whose district is filed the income tax return of the domestic shareholder claiming a credit under section 901 for foreign income taxes deemed, under section 902 and this section, to be paid by such shareholder shall have the power to determine, with respect to a foreign corporation, from the accumulated profits of what taxable year or years the dividends were paid. In making such determination the district director shall, unless it is otherwise established to his satisfaction, treat any dividends which are paid in the first 60 days of any taxable year of such a corporation as having been paid from the accumulated profits of the preceding taxable year or years of such corporation and shall, in other respects, treat any dividends as having been paid from the most recently accumulated profits. For purposes of this paragraph (g)(4), in the case of a foreign corporation the foreign income taxes of which are determined on the basis of an accounting period of less than 1 year, the term “year” shall mean such accounting period. See sections 441 (b)(3) and 443.
 
-(h) *Source of income from first-tier corporation and country to which tax is deemed paid* - (1) *Source of income.* For purposes of section 904(a)(1) (relating to the per-country limitation), in the case of a dividend received by a domestic shareholder from a first-tier corporation there shall be deemed to be derived from sources within the foreign country or possession of the United States under the laws of which the first-tier corporation is created or organized the sum of the amounts which under paragraph (a)(3)(ii) of § 1.861-3 are treated, with respect to such dividend, as income from sources without the United States.
+(h) *Source of income from first-tier corporation and country to which tax is deemed paid*—(1) *Source of income.* For purposes of section 904(a)(1) (relating to the per-country limitation), in the case of a dividend received by a domestic shareholder from a first-tier corporation there shall be deemed to be derived from sources within the foreign country or possession of the United States under the laws of which the first-tier corporation is created or organized the sum of the amounts which under paragraph (a)(3)(ii) of § 1.861-3 are treated, with respect to such dividend, as income from sources without the United States.
 
 (2) *Country to which taxes deemed paid.* For purposes of section 904, all foreign income taxes paid, or deemed under paragraph (c) of this section to be paid, by a first-tier corporation shall be deemed to be paid to the foreign country or possession of the United States under the laws of which such first-tier corporation is created or organized.
 
@@ -85,7 +85,7 @@ Example.On February 27, 1975, foreign corporation C pays a dividend out of its a
 Example 1.Throughout 1978, domestic corporation M owns all the one class of stock of foreign corporation A. Both corporations use the calendar year as the taxable year. Corporation A has accumulated profits, pays foreign income taxes, and pays dividends for 1978 as summarized below. For 1978, M Corporation is deemed, under paragraph (b)(2) of this section, to have paid $20 of the foreign income taxes paid by A Corporation for 1978 and includes such amount in gross income under section 78 as a dividend, determined as follows:
 
 |                             Gains, profits, and income of A Corp.                              |$100|
-|:-----------------------------------------------------------------------------------------------|---:|
+|------------------------------------------------------------------------------------------------|----|
 |         Foreign income taxes imposed on or with respect to gains, profits, and income          | 40 |
 |                                      Accumulated profits                                       |100 |
 |Foreign income taxes paid on or with respect to accumulated profits (total foreign income taxes)| 40 |
@@ -95,10 +95,8 @@ Example 1.Throughout 1978, domestic corporation M owns all the one class of stoc
 
 Example 2.The facts are the same as in example 1, except that M Corporation also owns all the one class of stock of foreign corporation B which also uses the calendar year as the taxable year. Corporation B has accumulated profits, pays foreign income taxes, and pays dividends for 1978 as summarized below. For 1978, M Corporation is deemed under paragraph (b)(2) of this section, to have paid $20 of the foreign income taxes paid by A Corporation for 1978 and to have paid $50 of the foreign income taxes paid by B Corporation for 1978, and includes $70 in gross income as a dividend under section 78, determined as follows:
 
-B Corporation
-
 |                                        Gains, profits and income                                        |$200|
-|:--------------------------------------------------------------------------------------------------------|---:|
+|---------------------------------------------------------------------------------------------------------|----|
 |              Foreign income taxes imposed on or with respect to gains, profits, and income              |100 |
 |                                           Accumulated profits                                           |200 |
 |             Foreign income taxes paid by B Corp. on or with respect to accumulated profits              |100 |
@@ -106,10 +104,8 @@ B Corporation
 |                                        Dividends paid to M Corp                                         | 50 |
 |Foreign income taxes of B Corporation deemed paid by M Corporation under section 902(a) ($100 × $50/$100)| 50 |
 
-M Corporation
-
 |           Foreign income taxes deemed paid under section 902(a):            |   |
-|:----------------------------------------------------------------------------|--:|
+|-----------------------------------------------------------------------------|---|
 |                      Taxes of A Corp. (from example 1)                      |$20|
 |                   Taxes of B Corp. (as determined above)                    |50 |
 |                                    Total                                    |70 |
@@ -121,7 +117,7 @@ M Corporation
 Example 3.For 1978, domestic corporation M owns all the one class of stock of foreign corporation A, which in turn owns all the one class of stock of foreign corporation B. All corporations use the calendar year as the taxable year. For 1978, M Corporation is deemed under paragraph (b)(2) of this section to have paid $50 of the foreign income taxes paid, or deemed under paragraph (c)(2) of this section to be paid, by A Corporation for such year and includes such amount in gross income as a dividend under section 78, determined as follows upon the basis of the facts assumed:
 
 |                                                     B Corp. (second-tier corporation):                                                      |    |
-|:--------------------------------------------------------------------------------------------------------------------------------------------|---:|
+|---------------------------------------------------------------------------------------------------------------------------------------------|----|
 |                                                         Gains, profits, and income                                                          |$300|
 |                                Foreign income taxes imposed on or with respect to gains, profits, and income                                |120 |
 |                                                             Accumulated profits                                                             |300 |
@@ -139,7 +135,7 @@ Example 3.For 1978, domestic corporation M owns all the one class of stock of fo
 |               Foreign income taxes paid by A Corp. on or with respect to its accumulated profits (total foreign income taxes)               | 40 |
 |                                            Accumulated profits in excess of foreign income taxes                                            |250 |
 |Foreign income taxes paid, and deemed to be paid, by A Corp. for 1978 on or with respect to its accumulated profits for such year ($60 + $40)|100 |
-|                                               Dividends paid on Deember. 31, 1978, to M Corp.                                               |125 |
+|                                              Dividends paid on December. 31, 1978, to M Corp.                                               |125 |
 |                                                       M Corp. (domestic shareholder):                                                       |    |
 |                   Foreign income taxes of A Corp. deemed paid by M Corp. for 1978 under section 902(a) ($100 × $125/$250)                   | 50 |
 |                Foreign income taxes included in gross income of M Corp. under section 78 as a dividend received from A Corp.                | 50 |
@@ -147,7 +143,7 @@ Example 3.For 1978, domestic corporation M owns all the one class of stock of fo
 Example 4.Throughout 1978, domestic corporation M owns 50 percent of the voting stock of foreign corporation A, not a less developed country corporation. A Corporation has owned 40 percent of the voting stock of foreign corporation B, since 1970; B Corporation has owned 30 percent of the voting stock of foreign corporation C, since 1972. B Corporation, uses a fiscal year ending on June 30 as its taxable year; all other corporations use the calendar year as the taxable year. On February 1, 1977, B Corporation receives a dividend from C Corporation out of C Corporation's accumulated profits for 1976. On February 15, 1977, A Corporation receives a dividend from B Corporation out of B Corporation's accumulated profits for its fiscal year ending in 1977. On February 15, 1978, M Corporation receives a dividend from A Corporation out of A Corporation's accumulated profits for 1977. For 1978, M Corporation is deemed under paragraph (b)(2) of this section to have paid $81.67 of the foreign income taxes paid, or deemed under paragraph (c)(2) of this section to be paid, by A Corporation on or with respect to its accumulated profits for 1977, and M Corporation includes that amount in gross income as a dividend under section 78, determined as follows upon the basis of the facts assumed:
 
 |                                                            C Corp. (third-tier corporation):                                                             |         |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------|--------:|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 |                                                           Gains, profits, and income for 1976                                                            |$2,000.00|
 |                                    Foreign income taxes imposed on or with respect to such gains, profits, and income                                    | 800.00  |
 |                                                                   Accumulated profits                                                                    |2,000.00 |
@@ -184,4 +180,4 @@ Example 4.Throughout 1978, domestic corporation M owns 50 percent of the voting 
 
 (l) *Effective date.* Except as provided in § 1.902-4, this section applies to any distribution received from a first-tier corporation by its domestic shareholder after December 31, 1964, and before the beginning of the foreign corporation's first taxable year beginning after December 31, 1986. If, however, the first day on which the ownership requirements of section 902(c)(3)(B) and § 1.902-1(a)(1) through (4) are met with respect to the foreign corporation is in a taxable year of the foreign corporation beginning after December 31, 1986, then this section shall apply to all taxable years beginning after December 31, 1964, and before the year in which the ownership requirements are first met. See § 1.902-1(a)(13)(i). For corresponding rules applicable to distributions received by the domestic shareholder prior to January 1, 1965, see § 1.902-5 as contained in the 26 CFR part 1 edition revised April 1, 1976.
 
-[T.D. 7481, 42 FR 20125, Apr. 18, 1977, as amended by T.D. 7490, 42 FR 30497, June 15, 1977; T.D. 7649, 44 FR 60086, Oct. 18, 1979. Redesignated and amended by T.D. 8708, 62 FR 927, 940, Jan. 7, 1997; 62 FR 7155, Feb. 18, 1997; T.D. 9849, 84 FR 9236, Mar. 14, 2019]
+[T.D. 7481, 42 FR 20125, Apr. 18, 1977, as amended by T.D. 7490, 42 FR 30497, June 15, 1977; T.D. 7649, 44 FR 60086, Oct. 18, 1979. Redesignated and amended by T.D. 8708, 62 FR 927, 940, Jan. 7, 1997; 62 FR 7155, Feb. 18, 1997; T.D. 9849, 84 FR 9236, Mar. 14, 2019; T.D. 9954, 86 FR 52614, Sept. 22, 2021]

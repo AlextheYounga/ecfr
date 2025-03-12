@@ -1,6 +1,6 @@
 ##### § 1.1388-1 Definitions and special rules. #####
 
-(a) *Patronage dividend* - (1) *In general.* The term *patronage dividend* means an amount paid to a patron by a cooperative organization subject to the provisions of part I, subchapter T, chapter 1 of the Code, which is paid:
+(a) *Patronage dividend*—(1) *In general.* The term *patronage dividend* means an amount paid to a patron by a cooperative organization subject to the provisions of part I, subchapter T, chapter 1 of the Code, which is paid:
 
 (i) On the basis of quantity or value of business done with or for such patron,
 
@@ -30,7 +30,7 @@ Example 2.Cooperative B, a marketing association operating on a pooling basis, r
 
 (b) *Written notice of allocation.* The term *written notice of allocation* means any capital stock, revolving fund certificate, retain certificate, certificate of indebtedness, letter of advice, or other written notice, which discloses to the patron the stated dollar amount allocated to him on the books of the cooperative organization, and the portion thereof, if any, which constitutes a patronage dividend. Thus, a mere credit to the account of a patron on the books of the organization without disclosure to the patron, is not a written notice of allocation. A written notice of allocation may disclose to the patron the amount of the allocation which constitutes a patronage dividend either as a dollar amount or as a percentage of the stated dollar amount of the written notice of allocation.
 
-(c) *Qualified written notice of allocation* - (1) *In general.* The term *qualified written notice of allocation* means a written notice of allocation:
+(c) *Qualified written notice of allocation*—(1) *In general.* The term *qualified written notice of allocation* means a written notice of allocation:
 
 (i) Which meets the requirements of subparagraphs (2) or (3) of this paragraph, and
 
@@ -66,7 +66,7 @@ Example:(1) The A Cooperative is a cooperative organization filing its income ta
 
 (*e*) *Patron.* The term *patron* includes any person with whom or for whom the cooperative association does business on a cooperative basis, whether a member or a nonmember of the cooperative association, and whether an individual, a trust, estate, partnership, company, corporation, or cooperative association.
 
-(f) *Patronage and nonpatronage sourced items.* - (1) *Directly related use test.* Whether an item of income or deduction is patronage or nonpatronage sourced is determined by applying the directly related use test.
+(f) *Patronage and nonpatronage sourced items*—(1) *Directly related use test.* Whether an item of income or deduction is patronage or nonpatronage sourced is determined by applying the directly related use test.
 
 (2) *Patronage sourced income or deductions.* If the income or deduction is produced by a transaction that actually facilitates the accomplishment of the cooperative's marketing, purchasing, or services activities, the income or deduction is from patronage sources.
 

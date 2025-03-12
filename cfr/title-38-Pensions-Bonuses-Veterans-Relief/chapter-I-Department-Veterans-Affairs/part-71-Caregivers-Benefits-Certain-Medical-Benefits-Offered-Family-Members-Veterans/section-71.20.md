@@ -32,8 +32,8 @@ A veteran or servicemember is eligible for a Family Caregiver under this part if
 
 (7) The individual receives ongoing care from a primary care team or will do so if VA designates a Family Caregiver.
 
-(b) For one year beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy participant.
+(b) For two years beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy participant.
 
-(c) For one year beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy applicant.
+(c) For two years beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy applicant.
 
-[85 FR 46295, July 31, 2020]
+[85 FR 46295, July 31, 2020, as amended at 86 FR 52618, Sept. 22, 2021]

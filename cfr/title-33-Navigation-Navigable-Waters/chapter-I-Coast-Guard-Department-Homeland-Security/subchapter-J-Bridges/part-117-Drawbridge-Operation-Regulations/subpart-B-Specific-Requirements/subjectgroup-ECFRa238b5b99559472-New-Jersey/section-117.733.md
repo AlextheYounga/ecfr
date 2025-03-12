@@ -1,7 +1,5 @@
 ##### § 117.733 New Jersey Intracoastal Waterway. #####
 
-Link to an amendment published at 86 FR 46967, Aug. 23, 2021.
-
 (a) The draw of the Route 35 Bridge, mile 1.1 across Manasquan River at Brielle, shall open on signal except as follows:
 
 (1) From May 15 through September 30:
@@ -70,15 +68,13 @@ Link to an amendment published at 86 FR 46967, Aug. 23, 2021.
 
 (3) From 10 p.m. on December 24 until 6 a.m. on December 26, the draw need open only if at least two hours notice is given.
 
-(i) [Reserved]
+(i)-(j) [Reserved]
 
-(j) The draw of Two-Mile Bridge, mile 112.2, across Middle Thorofare in Wildwood Crest, shall open on signal except:
+(k) The draw of Two-Mile Bridge, mile 112.2, across Middle Thorofare in Wildwood Crest, shall open on signal except:
 
 (1) From 9:15 a.m. to 10:30 a.m. on the fourth Sunday in March of every year, the draw need not open for vessels. If the fourth Sunday falls on a religious holiday, the draw need not open for vessels from 9:15 a.m. to 10:30 a.m. on the third Sunday of March of every year.
 
 (2) From 10:30 p.m. on December 24 until 10:30 p.m. on December 26, the draw need open only if at least two hours notice is given.
-
-(k) [Reserved]
 
 (l) The draw of Cape May Canal Railroad Bridge across Cape May Canal, mile 115.1, at Cape May shall operate as follows:
 
@@ -97,4 +93,4 @@ Link to an amendment published at 86 FR 46967, Aug. 23, 2021.
 (4) Opening of the draw span may be delayed for ten minutes after a signal to open except as provide in (117.31(b). However, if a train is moving toward the bridge and has crossed the home signal for the bridge before the signal requesting opening of the bridge is given, the train may continue across the bridge and must clear the bridge interlocks as soon as possible in order to prevent unnecessary delays in the opening of the draw.
 
 [CGD05-97-003, 63 FR 2311, Jan. 15, 1998, as amended by CGD05-01-007, 66 FR 39445, July 31, 2001; CGD05-06-045, 71 FR 59383, Oct. 10, 2006; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2007-0026, 73 FR 5749, Jan. 31, 2008; USCG-2008-0697, 73 FR 79639, Dec. 30, 2008; 74 FR 17084, Apr. 14, 2009; USCG-2011-0698, 76 FR 79535, Dec. 22, 2011; USCG-2014-0121, 79 FR 18183, Apr. 1, 2014; USCG-2020-0334,
-86 FR 7650, Feb. 1, 2021]
+86 FR 7650, Feb. 1, 2021; USCG-2020-0647, 86 FR 46967, Aug. 23, 2021]Editorial Note:By USCG-2020-0647, 86 FR 46967, Aug. 23, 2021, § 117.733 was amended by redesignating paragraphs (b) through (h) as (d) through (i) and adding new paragraphs (b) and (c); however, these amendments could not be performed due to inaccurate instruction 2.c.
