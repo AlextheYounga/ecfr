@@ -1,5 +1,7 @@
 ##### § 3179.7 Gas capture requirement. #####
 
+Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
+
 (a) Except as provided in § 3179.8, on a monthly basis, each operator must capture for sale or use on site a volume of gas sufficient to meet the “capture percentage” requirement specified in paragraph (b) of this section.
 
 (b) Beginning January 17, 2018, the operator's capture percentage must equal:

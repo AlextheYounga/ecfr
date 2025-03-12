@@ -1,5 +1,7 @@
 ##### § 3179.301 Operator responsibility. #####
 
+Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
+
 (a) The requirements of §§ 3179.301 through 3179.305 of this subpart apply to:
 
 (1) A site and all equipment associated with it used to produce, process, compress, treat, store, or measure natural gas (including oil wells that also produce natural gas) from or allocated to a Federal or Indian lease, unit, or communitized area, where the site is upstream of or contains the approved point of royalty measurement; and

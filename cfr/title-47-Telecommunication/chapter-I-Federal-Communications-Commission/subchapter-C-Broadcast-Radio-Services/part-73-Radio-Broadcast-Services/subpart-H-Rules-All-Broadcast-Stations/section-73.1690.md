@@ -1,5 +1,7 @@
 ##### § 73.1690 Modification of transmission systems. #####
 
+Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
+
 The following procedures and restrictions apply to licensee modifications of authorized broadcast transmission system facilities.
 
 (a) The following changes are prohibited:

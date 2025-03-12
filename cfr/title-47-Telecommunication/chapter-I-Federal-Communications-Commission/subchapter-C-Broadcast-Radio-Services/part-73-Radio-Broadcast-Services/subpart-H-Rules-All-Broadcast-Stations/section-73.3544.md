@@ -1,5 +1,7 @@
 ##### § 73.3544 Application to obtain a modified station license. #####
 
+Link to an amendment published at 82 FR 57884, Dec. 8, 2017.
+
 Where prior authority from the FCC is not required to make certain changes in the station authorization or facilities, but a modified station license must be obtained, the following procedures shall be used to obtain modification of the station license:
 
 (a) The changes specified in § 73.1690(c) may be made by the filing of a license application using the forms listed in § 73.3536(b)(1).

@@ -1,7 +1,7 @@
 ##### § 81.2 Administration. #####
 
-Link to an amendment published at 82 FR 51753, Nov. 8, 2017.
+(a) GAO's Chief Quality Officer administers this part and may promulgate such supplemental rules or regulations as may be necessary.
 
-GAO's Chief Quality Officer administers this part and may promulgate such supplemental rules or regulations as may be necessary.
+(b) Requests for records of GAO's Office of Inspector General (OIG) shall be processed by the Counsel to the Inspector General in accordance with this part. The Inspector General shall decide any administrative appeals of decisions of the Counsel to the Inspector General concerning such requests. However, if any of the requested records of the OIG originated in GAO, the Counsel to the Inspector General shall refer the requester to GAO's Chief Quality Officer for processing of the request for those records in accordance with this part. With regard to any public request to inspect or copy records of the OIG, other than records that originated in GAO, in this part the term “Counsel to the Inspector General” is to be substituted for “Chief Quality Officer” and the term “Inspector General” is to be substituted for “Comptroller General”. All requests to inspect or obtain a copy of an identifiable record of the OIG must be submitted in writing to the Counsel to the Inspector General, U.S. Government Accountability Office, Suite 1808, 441 G Street NW., Washington, DC 20548 or emailed to *OIGRecordsRequest@gao.gov.*
 
-[76 FR 12550, Mar. 8, 2011]
+[76 FR 12550, Mar. 8, 2011, as amended at 82 FR 51753, Nov. 8, 2017]

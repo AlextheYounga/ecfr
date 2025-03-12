@@ -1,5 +1,7 @@
 ##### § 73.14 AM broadcast definitions. #####
 
+Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
+
 *AM broadcast band.* The band of frequencies extending from 535 to 1705 kHz.
 
 *AM broadcast channel.* The band of frequencies occupied by the carrier and the upper and lower sidebands of an AM broadcast signal with the carrier frequency at the center. Channels are designated by their assigned carrier frequencies. The 117 carrier frequencies assigned to AM broadcast stations begin at 540 kHz and progress in 10 kHz steps to 1700 kHz. (See § 73.21 for the classification of AM broadcast channels).

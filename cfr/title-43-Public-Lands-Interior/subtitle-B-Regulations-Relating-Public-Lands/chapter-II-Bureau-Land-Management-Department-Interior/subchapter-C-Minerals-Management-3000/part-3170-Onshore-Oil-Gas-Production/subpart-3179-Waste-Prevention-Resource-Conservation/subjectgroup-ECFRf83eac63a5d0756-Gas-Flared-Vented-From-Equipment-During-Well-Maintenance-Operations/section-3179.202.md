@@ -1,5 +1,7 @@
 ##### § 3179.202 Requirements for pneumatic diaphragm pumps. #####
 
+Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
+
 (a) A pneumatic diaphragm pump is subject to this section if it:
 
 (1) Uses natural gas produced from a Federal or Indian lease, or from a unit or communitized area that includes a Federal or Indian lease; and

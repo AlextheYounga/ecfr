@@ -1,5 +1,7 @@
 ##### § 3179.101 Well drilling. #####
 
+Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
+
 (a) Except as provided in § 3179.6 of this subpart, and unless technically infeasible, gas that reaches the surface as a normal part of drilling operations must be:
 
 (1) Captured and sold;

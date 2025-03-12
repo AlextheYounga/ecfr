@@ -1,7 +1,5 @@
 ##### § 81.6 Records which may be exempt from disclosure. #####
 
-Link to an amendment published at 82 FR 51753, Nov. 8, 2017.
-
 The public disclosure of GAO records contemplated by this part does not apply to records, or parts thereof, within any of the categories listed below. Unless precluded by law, the Chief Quality Officer may nevertheless release records within these categories.
 
 (a) Records relating to work performed in response to a congressional request (unless authorized by the congressional requester), congressional correspondence, and congressional contact memoranda.
@@ -20,7 +18,7 @@ The public disclosure of GAO records contemplated by this part does not apply to
 
 (f) *Personnel and medical files and similar files the disclosure of which could constitute a clearly unwarranted invasion of personal privacy.* This exemption excludes from disclosure all personnel and medical files, and all private or personal information contained in other files, which, if disclosed to the public, would amount to a clearly unwarranted invasion of the privacy of any person. An example of such other files within the exemption would be files compiled to evaluate candidates for security clearance.
 
-(g) Records compiled for law enforcement purposes that originate in another agency, or records provided by GAO to another agency for law enforcement purposes.
+(g) Records compiled for law enforcement purposes that originate in another agency, or records prepared for referral to and/or provided by GAO or the OIG to another agency for law enforcement purposes.
 
 (h) Records having information contained in or related to examination, operation, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions.
 
@@ -34,4 +32,4 @@ The public disclosure of GAO records contemplated by this part does not apply to
 
 (m) *Unsolicited records containing information submitted by any person to GAO in confidence.* Records obtained by the GAO Forensic Audits and Special Investigations (GAO FraudNet) are an example of records that could contain information covered by this exemption.
 
-[68 FR 33832, June 6, 2003, as amended at 72 FR 50644, Sept. 4, 2007; 76 FR 12550, Mar. 8, 2011]
+[68 FR 33832, June 6, 2003, as amended at 72 FR 50644, Sept. 4, 2007; 76 FR 12550, Mar. 8, 2011; 82 FR 51753, Nov. 8, 2017]

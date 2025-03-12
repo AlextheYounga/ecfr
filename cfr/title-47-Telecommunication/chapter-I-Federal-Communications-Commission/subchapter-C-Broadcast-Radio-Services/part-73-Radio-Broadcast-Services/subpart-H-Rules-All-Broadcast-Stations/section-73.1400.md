@@ -1,5 +1,7 @@
 ##### § 73.1400 Transmission system monitoring and control. #####
 
+Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
+
 The licensee of an AM, FM, TV or Class A TV station is responsible for assuring that at all times the station operates within tolerances specified by applicable technical rules contained in this part and in accordance with the terms of the station authorization. Any method of complying with applicable tolerances is permissible. The following are typical methods of transmission system operation:
 
 (a) *Attended operation.* (1) Attended operation consists of ongoing supervision of the transmission facilities by a station employee or other person designated by the licensee. Such supervision may be accomplished by either:

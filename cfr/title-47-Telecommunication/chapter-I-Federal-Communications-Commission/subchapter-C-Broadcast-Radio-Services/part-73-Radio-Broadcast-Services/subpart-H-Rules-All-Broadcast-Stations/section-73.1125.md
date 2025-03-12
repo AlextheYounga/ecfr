@@ -1,5 +1,7 @@
 ##### § 73.1125 Station main studio location. #####
 
+Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
+
 (a) Except for those stations described in paragraph (b) of this section, each AM, FM, and TV broadcast station shall maintain a main studio at one of the following locations:
 
 (1) Within the station's community of license;

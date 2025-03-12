@@ -1,5 +1,7 @@
 ##### § 73.6000 Definitions. #####
 
+Link to an amendment published at 82 FR 57884, Dec. 8, 2017.
+
 *Locally produced programming.* For the purpose of this subpart, locally produced programming is programming:
 
 (1) Produced within the predicted Grade B contour of the station broadcasting the program or within the contiguous predicted Grade B contours of any of the stations in a commonly owned group; or

@@ -1,5 +1,7 @@
 ##### § 3179.201 Equipment requirements for pneumatic controllers. #####
 
+Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
+
 (a) A pneumatic controller that uses natural gas produced from a Federal or Indian lease, or from a unit or communitized area that includes a Federal or Indian lease, is subject to this section if the pneumatic controller:
 
 (1) Has a continuous bleed rate greater than 6 standard cubic feet (scf) per hour; and

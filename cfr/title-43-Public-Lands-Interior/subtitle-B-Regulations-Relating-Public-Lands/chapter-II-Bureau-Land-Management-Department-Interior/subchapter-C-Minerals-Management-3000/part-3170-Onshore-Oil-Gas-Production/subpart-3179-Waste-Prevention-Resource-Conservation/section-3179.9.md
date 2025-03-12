@@ -1,5 +1,7 @@
 ##### § 3179.9 Measuring and reporting volumes of gas vented and flared. #####
 
+Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
+
 (a) The operator must estimate or measure all volumes of gas vented or flared from wells, facilities and equipment on a lease, unit PA, or communitized area and report those volumes under applicable ONRR reporting requirements.
 
 (b) The operator may estimate such volumes, except:

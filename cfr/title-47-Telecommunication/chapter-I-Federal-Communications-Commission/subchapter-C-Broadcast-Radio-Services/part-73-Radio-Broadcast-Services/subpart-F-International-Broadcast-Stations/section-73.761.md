@@ -1,5 +1,7 @@
 ##### § 73.761 Modification of transmission systems. #####
 
+Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
+
 Specific authority, upon filing formal application (FCC Form 309) therefor, is required for any of the following changes:
 
 (a) Change involving an increase or decrease in the power rating of the transmitters.

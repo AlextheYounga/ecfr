@@ -1,5 +1,7 @@
 ##### § 73.3538 Application to make changes in an existing station. #####
 
+Link to an amendment published at 82 FR 57884, Dec. 8, 2017.
+
 Where prior authority is required from the FCC to make changes in an existing station, the following procedures shall be used to request that authority:
 
 (a) An application for construction permit using the forms listed in § 73.3533 must be filed for authority to:

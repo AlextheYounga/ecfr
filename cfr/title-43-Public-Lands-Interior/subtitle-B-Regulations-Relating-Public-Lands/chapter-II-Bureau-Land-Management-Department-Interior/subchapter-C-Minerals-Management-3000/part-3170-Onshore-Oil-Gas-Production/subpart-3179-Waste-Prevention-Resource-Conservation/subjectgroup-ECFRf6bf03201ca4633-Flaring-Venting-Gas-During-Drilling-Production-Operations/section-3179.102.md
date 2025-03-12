@@ -1,5 +1,7 @@
 ##### § 3179.102 Well completion and related operations. #####
 
+Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
+
 (a) Except as provided in § 3179.6, and unless technically infeasible, after a well has been hydraulically fractured or refractured, gas that reaches the surface during well completion, post-completion, and fluid recovery operations must be:
 
 (1) Captured and sold;
