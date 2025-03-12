@@ -1,0 +1,7 @@
+##### § 1912.5 National Advisory Committee on Occupational Safety and Health. #####
+
+(a) Section 7(a) of the Act established a National Advisory Committee on Occupational Safety and Health. The Committee is to advise, consult with, and make recommendations to the Secretary and the Secretary of Health, Education, and Welfare on matters relating to general administration of the Act.
+
+(b) Advisory committees appointed under section 7(b) of the Act, which are the subject of this part, have a more limited role. Such advisory committees are concerned exclusively with assisting the Assistant Secretary in his standards-setting functions under section 6 of the Act.
+
+(c) On the other hand, the Advisory Committee on Construction Safety and Health, established under the Construction Safety Act, provides assistance in both the setting of standards thereunder and policy matters arising in the administration of the Construction Safety Act. To the extent that the Advisory Committee on Construction Safety and Health renders advice to the Assistant Secretary on general policy matters, its activities should be coordinated with those of the National Advisory Committee on Occupational Safety and Health.

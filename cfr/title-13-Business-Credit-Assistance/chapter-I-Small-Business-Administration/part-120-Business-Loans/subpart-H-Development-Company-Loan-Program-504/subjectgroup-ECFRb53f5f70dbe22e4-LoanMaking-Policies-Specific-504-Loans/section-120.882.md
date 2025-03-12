@@ -10,7 +10,7 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (d) Repayment of interim financing including points, fees and interest.
 
-(e) If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost if:
+(e) If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 100 percent of the project cost of the expansion may be refinanced and added to the expansion cost if:
 
 (1) Substantially all (85% or more) of the proceeds of the indebtedness were used to acquire land, including a building situated thereon, to construct a building thereon, or to purchase equipment. The assets acquired must be eligible for financing under the 504 loan program. If the acquisition, construction or purchase of the asset was originally financed through a commercial loan that would have satisfied the “substantially all” requirement and that was subsequently refinanced one or more times, with the current commercial loan being the most recent refinancing, the current commercial loan will be deemed to satisfy this paragraph (e)(1).
 
@@ -36,7 +36,13 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (2) The applicant for the refinancing available under this paragraph (g) has been in operation for all of the 2 year period ending on the date of application;
 
-(3) The cost to the Federal Government of making guarantees under this subsection (g) and under section 503 of the Small Business Investment Act of 1958 (15 U.S.C. 697) during the fiscal year in which the guarantee is made is zero;
+(3) A loan that is subject to a guarantee by a Federal agency or department may be refinanced under the following conditions and requirements:
+
+(i) An existing 504 loan may be refinanced if both the Third Party Loan and the 504 Loan are being refinanced or the Third Party Loan has been paid in full.
+
+(ii) An existing 7(a) loan may be refinanced if the CDC verifies in writing that the present lender is either unwilling or unable to modify the current payment schedule. In the case of same institution debt, if the Third Party Lender or the CDC affiliate as authorized under § 120.820 is the 7(a) lender, the loan will be eligible for 504 refinancing only if the lender is unable to modify the terms of the existing loan because a secondary market investor will not agree to modified terms.
+
+(iii) The refinancing will provide a substantial benefit to the borrower. For purposes of this paragraph (g)(3)(iii), “substantial benefit” means that the portion of the new installment amount attributable to the debt being refinanced must be at least 10 percent less than the existing installment amount(s). Prepayment penalties, financing fees, and other financing costs must be added to the amount being refinanced in calculating the percentage reduction in the new installment payment, but the portion of the new installment amount attributable to Eligible Business Expenses (as described in paragraph (g)(6)(ii) of this section) is not included in this calculation. Exceptions to the 10 percent reduction requirement may be approved by the Director, Office of Financial Assistance (D/FA) or designee for good cause. PCLP CDCs may not use their delegated authority to approve a loan requiring the exception in this paragraph (g)(3)(iii).
 
 (4) In addition to the annual guarantee fee assessed under § 120.971(d)(2), Borrower must pay SBA a supplemental annual guarantee fee to cover the additional cost attributable to the refinancing in an amount established by SBA each fiscal year.
 
@@ -60,7 +66,7 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (10) A CDC must limit the amount of its loans under this paragraph (g) so that, during any Federal fiscal year, the amount of the new loans approved under this paragraph (g) does not exceed 50% of the total dollar amount of the CDC's 504 loans approved (including the loans approved under this paragraph (g)) during the previous fiscal year. This limitation may be waived upon application by the CDC and upon a determination by SBA that the 504 loan is needed for good cause.
 
-(11) The authority to approve the refinancing under this paragraph (g) is not delegated to PCLP CDCs;
+(11) PCLP CDCs may not approve the refinancing of same institution debt under their delegated authority and must submit the application to SBA for approval.
 
 (12) The 504 loans approved under this paragraph (g) must be disbursed within 9 months after loan approval. The Director, Office of Financial Assistance, or his or her designee, may approve a request for extension of the disbursement period for an additional 6 months for good cause.
 
@@ -68,7 +74,19 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (14) The Third Party Lender must certify that it would not refinance the qualified debt except for the assistance provided under this paragraph (g);
 
-(15) *Definitions.* For the purposes of this paragraph (g), the terms below are defined as follows:
+(15) Notwithstanding § 120.860, a debt may be refinanced under this paragraph (g) if it does not meet the job creation or other economic development objectives set forth in § 120.861 or § 120.862. In such case, the 504 loan may not exceed the product obtained by multiplying the number of employees of the Borrower by $75,000. The number of employees of the Borrower is equal to the sum of:
+
+(i) The number of full-time employees of the Borrower on the date of the application; and
+
+(ii) The product obtained by multiplying:
+
+(A) The number of part-time employees of the Borrower on the date of the application; by
+
+(B) The quotient obtained by dividing the average number of hours each part-time employee of the Borrower works each week by 40.
+
+*Example to paragraph (g)(15):* 30 full-time employees and 35 part-time employees working 20 hours per week is calculated as follows: 30 + (35 × (20/40)) = 47.5. The maximum amount of the 504 loan would be 47.5 multiplied by $75,000, or $3,562,500.
+
+(16) For the purposes of this paragraph (g), the terms below are defined as follows:
 
 *Date of application* refers to the date the 504 loan application is received by SBA.
 
@@ -78,23 +96,18 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 *Qualified debt* is a commercial loan:
 
-(i) That was incurred not less than 2 years before the date of the application for the refinancing available under this paragraph (g).
-A commercial loan that was refinanced within the two years prior to the date of application (the most recent loan) may be deemed incurred not less than 2 years before the date of the application provided that the effect of the most recent loan was to extend the maturity date without advancing any additional proceeds (except to cover closing costs) and the collateral for the most recent loan includes, at a minimum, the same Eligible Fixed Asset(s) that served as collateral for the former loan that was refinanced. The loan documents and lien instruments for the most recent loan, as well as the loan documents and lien instruments for the loan that was replaced by the most recent loan, must be submitted to SBA as part of the application.
+(A) That was incurred not less than 6 months before the date of the application for refinancing available under this paragraph (g).
 
-(ii) That is not subject to a guarantee by a Federal agency or department;
+(B) Substantially all (85% or more) of which was for an Eligible Fixed Asset. If the Eligible Fixed Asset was originally financed through a commercial loan that would have satisfied the “substantially all” standard (the “original loan”) and that was subsequently refinanced one or more times, with the current commercial loan being the most recent refinancing, the current commercial loan will be deemed to satisfy this paragraph (B). If the original loan was for the construction of a new building, or the acquisition, renovation, or reconstruction of an existing building, and such loan would not have satisfied the leasing policies set forth in 120.131 and 120.870(b), the current commercial loan will be deemed to satisfy these policies, provided that Borrower demonstrates compliance with 120.131(b) for existing buildings as of the date of application.
 
-(iii) Substantially all (85% or more) of which was for an Eligible Fixed Asset. If the Eligible Fixed Asset was originally financed through a commercial loan that would have satisfied the “substantially all” standard (the “original loan”) and that was subsequently refinanced one or more times, with the current commercial loan being the most recent refinancing, the current commercial loan will be deemed to satisfy this paragraph (iii). If the original loan was for the construction of a new building, or the acquisition, renovation, or reconstruction of an existing building, and such loan would not have satisfied the leasing policies set forth in 13 CFR 120.131 and 13 CFR 120.870(b), the current commercial loan will be deemed to satisfy these policies, provided that Borrower demonstrates compliance with 13 CFR 120.131(b) for existing buildings as of the date of application.
+(C) That was for the benefit of the small business concern;
 
-(iv) That was for the benefit of the small business concern;
+(D) That is collateralized by Eligible Fixed Assets; and
 
-(v) That is collateralized by Eligible Fixed Assets;
-
-(vi) That is not a Third Party Loan that is part of an existing 504 Project; and
-
-(vii) For which the applicant for the refinancing available under this paragraph (g) has been current on all payments due for not less than one year preceding the date of application. For the purposes of this paragraph (vii), “current on all payments due” means that no payment was more than 30 days past due from either the original payment terms or modified payment terms (whether through a modification to an existing Note or through a refinancing that results in a new Note). The modification (or refinancing) must have been agreed to in writing by the Borrower and the lender of the existing debt no less than one year preceding the date of application, except that a modified (or refinanced) loan may be allowed if the purpose of the modification (or refinancing) was to extend the maturity date of the loan, including any balloon payment, and if, during the one year period prior to the date of application (*i.e.,* in the months prior to and after the modification or refinancing), the Borrower was current on all payments due, there have been no deferments of any payments, and no additional proceeds were advanced through the modification or refinancing (except to cover closing costs). Any delinquency in payment on the loan to be refinanced after approval and before debenture funding must be reported to SBA as an adverse change.
+(E) That is not a Third Party Loan that is part of an existing 504 Project, except as allowed under paragraph (g)(3) of this section.
 
 *Refinancing Project* means the fair market value of the Eligible Fixed Asset(s) securing the qualified debt and any other fixed assets acceptable to SBA, except that if the Refinancing Project includes the financing of Eligible Business Expenses, SBA will not accept as collateral any fixed assets other than the Eligible Fixed Asset(s) securing the Qualified Debt.
 
-*Same institution debt* means any debt of the Third Party Lender that is providing funds for the refinancing, or of its affiliates.
+*Same institution debt* means any debt of the CDC or the Third Party Lender, or an affiliate of either, that is providing funds for the refinancing.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 68 FR 57987, Oct. 7, 2003; 74 FR 29591, June 23, 2009; 76 FR 9218, Feb. 17, 2011; 76 FR 63155, Oct. 12, 2011; 79 FR 15650, Mar. 21, 2014; 81 FR 33125, May 25, 2016; 83 FR 19920, May 7, 2018]
+[61 FR 3235, Jan. 31, 1996, as amended at 68 FR 57987, Oct. 7, 2003; 74 FR 29591, June 23, 2009; 76 FR 9218, Feb. 17, 2011; 76 FR 63155, Oct. 12, 2011; 79 FR 15650, Mar. 21, 2014; 81 FR 33125, May 25, 2016; 83 FR 19920, May 7, 2018; 86 FR 40779, July 29, 2021]

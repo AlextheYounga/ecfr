@@ -1,14 +1,12 @@
 ##### § 1112.13 How does a third party conformity assessment body apply for CPSC acceptance? #####
 
-Link to an amendment published at 86 FR 22866, Apr. 30, 2021.
-
 (a) *Baseline Requirements.* Each third party conformity assessment body seeking CPSC acceptance must:
 
 (1) Submit a completed Consumer Product Conformity Assessment Body Registration Form (CPSC Form 223 or Application). In submitting a CPSC Form 223, the third party conformity assessment body must attest to facts and characteristics about its business that will determine whether the third party conformity assessment body is independent, firewalled, or governmental. The third party conformity assessment body also must attest that it has read, understood, and agrees to the regulations in this part. The third party conformity assessment body must update its CPSC Form 223 whenever any information previously supplied on the form changes.
 
 (2) Submit the following documentation.
 
-(i) *Accreditation certificate.* (A) The third party conformity assessment body must be accredited to the ISO/IEC Standard 17025:2005(E), “General requirements for the competence of testing and calibration laboratories.”
+(i) *Accreditation certificate.* (A) The third party conformity assessment body must be accredited to the ISO/IEC 17025, “General requirements for the competence of testing and calibration laboratories.”
 
 (B) The accreditation must be by an accreditation body that is a signatory to the International Laboratory Accreditation Cooperation-Mutual Recognition Arrangement (ILAC-MRA).
 
@@ -106,4 +104,6 @@ Link to an amendment published at 86 FR 22866, Apr. 30, 2021.
 
 (h) *Retraction of application.* A third party conformity assessment body may retract a submitted CPSC Form 223 any time before the CPSC has acted on the submission. A retraction will not end or nullify any enforcement action that the CPSC is otherwise authorized by law to pursue.
 
-(i) The Director of the Federal Register approves this incorporation by reference in paragraph (a)(2)(i) in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of ISO/IEC 17025:2005(E), “General requirements for the competence of testing and calibration laboratories,” Second Edition, May 15, 2005 from the International Organization for Standardization (ISO), 1, ch. de la Voie-Creuse, Case postale 56, CH-1211 Geneva 20, Switzerland; Telephone + 41 22 749 01 11, Fax + 41 22 733 34 30; *http://www.iso.org/iso/home.htm.* You may inspect a copy at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(i) *Incorporation by reference.* The Director of the Federal Register approves the incorporation by reference in paragraph (a)(2)(i) of this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of ISO/IEC 17025:2017(E), “Requirements for the competence of testing and calibration laboratories,” approved November 10, 2021 from the International Organization for Standardization (ISO), ISO Central Secretariat Chemin de Blandonnet 8 CP 401-1214 Vernier, Geneva, Switzerland; Telephone + 41 22 749 01 11, Fax + 41 22 733 34 30; *http://www.iso.org/iso/home.htm.* You may inspect a copy at the Division of the Secretariat, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone (301) 504-7479, email: *cpsc-os@cpsc.gov,* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+
+[78 FR 15859, Mar. 12, 2013, as amended at 86 FR 22866, Apr. 30, 2021]

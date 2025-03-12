@@ -1,7 +1,5 @@
 ##### § 1915.1024 Beryllium. #####
 
-Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
-
 (a) *Scope and application.* (1) This standard applies to occupational exposure to beryllium in all forms, compounds, and mixtures in shipyards, except those articles and materials exempted by paragraphs (a)(2) and (a)(3) of this standard.
 
 (2) This standard does not apply to articles, as defined in the Hazard Communication standard (HCS) (29 CFR 1910.1200(c)), that contain beryllium and that the employer does not process.
@@ -36,11 +34,11 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 *This standard* means this beryllium standard, 29 CFR 1915.1024.
 
-(c) *Permissible Exposure Limits (PELs)* - (1) *Time-weighted average (TWA) PEL.* The employer must ensure that no employee is exposed to an airborne concentration of beryllium in excess of 0.2 µg/m3 calculated as an 8-hour TWA.
+(c) *Permissible Exposure Limits (PELs)*—(1) *Time-weighted average (TWA) PEL.* The employer must ensure that no employee is exposed to an airborne concentration of beryllium in excess of 0.2 µg/m3 calculated as an 8-hour TWA.
 
 (2) *Short-term exposure limit (STEL).* The employer must ensure that no employee is exposed to an airborne concentration of beryllium in excess of 2.0 µg/m3 as determined over a sampling period of 15 minutes.
 
-(d) *Exposure assessment* - (1) *General.* The employer must assess the airborne exposure of each employee who is or may reasonably be expected to be exposed to airborne beryllium in accordance with either the performance option in paragraph (d)(2) or the scheduled monitoring option in paragraph (d)(3) of this standard.
+(d) *Exposure assessment*—(1) *General.* The employer must assess the airborne exposure of each employee who is or may reasonably be expected to be exposed to airborne beryllium in accordance with either the performance option in paragraph (d)(2) or the scheduled monitoring option in paragraph (d)(3) of this standard.
 
 (2) *Performance option.* The employer must assess the 8-hour TWA exposure and the 15-minute short-term exposure for each employee on the basis of any combination of air monitoring data and objective data sufficient to accurately characterize airborne exposure to beryllium.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (iii) The employer must ensure that each observer follows all other applicable safety and health procedures.
 
-(e) *Regulated areas* - (1) *Establishment.* The employer must establish and maintain a regulated area wherever employees are, or can reasonably be expected to be, exposed to airborne beryllium at levels above the TWA PEL or STEL.
+(e) *Regulated areas*—(1) *Establishment.* The employer must establish and maintain a regulated area wherever employees are, or can reasonably be expected to be, exposed to airborne beryllium at levels above the TWA PEL or STEL.
 
 (2) *Demarcation.* The employer must identify each regulated area in accordance with paragraph (m)(2) of this standard.
 
@@ -92,7 +90,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (ii) Personal protective clothing and equipment in accordance with paragraph (h) of this standard.
 
-(f) *Methods of compliance* - (1) *Written exposure control plan.* (i) The employer must establish, implement, and maintain a written exposure control plan, which must contain:
+(f) *Methods of compliance*—(1) *Written exposure control plan.* (i) The employer must establish, implement, and maintain a written exposure control plan, which must contain:
 
 (A) A list of operations and job titles reasonably expected to involve exposure to beryllium;
 
@@ -118,7 +116,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (3) *Prohibition of rotation.* The employer must not rotate employees to different jobs to achieve compliance with the PELs.
 
-(g) *Respiratory protection* - (1) *General.* The employer must provide respiratory protection at no cost to the employee and ensure that each employee uses respiratory protection:
+(g) *Respiratory protection*—(1) *General.* The employer must provide respiratory protection at no cost to the employee and ensure that each employee uses respiratory protection:
 
 (i) During periods necessary to install or implement feasible engineering and work practice controls where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL;
 
@@ -138,7 +136,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (iii) The PAPR provides adequate protection to the employee in accordance with paragraph (g)(2) of this standard.
 
-(h) *Personal protective clothing and equipment* -
+(h) *Personal protective clothing and equipment*—
 (1) *Provision and use.* Where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL, the employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective Equipment standards for shipyards (subpart I of this part).
 
 (2) *Removal of personal protective clothing and equipment.* (i) The employer must ensure that each employee removes all personal protective clothing and equipment required by this standard at the end of the work shift or at the completion of all tasks involving beryllium, whichever comes first.
@@ -163,7 +161,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (5) The employer must ensure that cleaning equipment is handled and maintained in a manner that minimizes the likelihood and level of airborne exposure and the re-entrainment of airborne beryllium in the workplace.
 
-(k) *Medical surveillance* - (1) *General.* (i) The employer must make medical surveillance required by this paragraph available at no cost to the employee, and at a reasonable time and place, to each employee:
+(k) *Medical surveillance*—(1) *General.* (i) The employer must make medical surveillance required by this paragraph available at no cost to the employee, and at a reasonable time and place, to each employee:
 
 (A) Who is or is reasonably expected to be exposed at or above the action level for more than 30 days per year;
 
@@ -259,7 +257,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (B) The employee presenting to the employer a physician's written medical report indicating that the employee has been confirmed positive or diagnosed with CBD, or recommending referral to a CBD diagnostic center.
 
-(ii) The evaluation must include any tests deemed appropriate by the examining physician at the CBD diagnostic center, such as pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. If any of the tests deemed appropriate by the examining physician are not available at the CBD diagnostic center, they may be performed at another location that is mutually agreed upon by the employer and the employee.
+(ii) The employer must ensure that, as part of the evaluation, the employee is offered any tests deemed appropriate by the examining physician at the CBD diagnostic center, such as pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. If any of the tests deemed appropriate by the examining physician are not available at the CBD diagnostic center, they may be performed at another location that is mutually agreed upon by the employer and the employee.
 
 (iii) The employer must ensure that the employee receives a written medical report from the CBD diagnostic center that contains all the information required in paragraph (k)(5)(i), (ii), (iv), and (v) and that the PLHCP explains the results of the examination to the employee within 30 days of the examination.
 
@@ -293,7 +291,7 @@ Link to an amendment published at 86 FR 11119, Feb. 24, 2021.
 
 (4) The employer's obligation to provide medical removal protection benefits to a removed employee shall be reduced to the extent that the employee receives compensation for earnings lost during the period of removal from a publicly or employer-funded compensation program, or receives income from another employer made possible by virtue of the employee's removal.
 
-(m) *Communication of hazards* - (1) *General.* (i) Chemical manufacturers, importers, distributors, and employers must comply with all requirements of the HCS (29 CFR 1910.1200) for beryllium.
+(m) *Communication of hazards*—(1) *General.* (i) Chemical manufacturers, importers, distributors, and employers must comply with all requirements of the HCS (29 CFR 1910.1200) for beryllium.
 
 (ii) Employers must include beryllium in the hazard communication program established to comply with the HCS. Employers must ensure that each employee has access to labels on containers of beryllium and to safety data sheets, and is trained in accordance with the requirements of the HCS (29 CFR 1910.1200) and paragraph (m)(3) of this standard.
 
@@ -335,7 +333,7 @@ DANGERREGULATED AREABERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAUTHORIZED PE
 
 (iv) The employer must make a copy of this standard and its appendices readily available at no cost to each employee and designated employee representative(s).
 
-(n) *Recordkeeping* - (1) *Air monitoring data.* (i) The employer must make and maintain a record of all exposure measurements taken to assess airborne exposure as prescribed in paragraph (d) of this standard.
+(n) *Recordkeeping*—(1) *Air monitoring data.* (i) The employer must make and maintain a record of all exposure measurements taken to assess airborne exposure as prescribed in paragraph (d) of this standard.
 
 (ii) This record must include at least the following information:
 
@@ -389,10 +387,10 @@ DANGERREGULATED AREABERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAUTHORIZED PE
 
 (6) *Transfer of records.* The employer must comply with the requirements involving transfer of records set forth in the Records Access standard (29 CFR 1910.1020).
 
-(o) *Dates* - (1) *Effective date.* This standard shall become effective March 10, 2017.
+(o) *Dates*—(1) *Effective date.* This standard shall become effective March 10, 2017.
 
 (2) *Compliance dates.* (i) All obligations contained in paragraph (c) of this standard commence and become enforceable on March 12, 2018; and
 
 (ii) All other obligations of this standard commence and become enforceable on September 30, 2020.
 
-[82 FR 2744, Jan. 9, 2017, as amended at 84 FR 51399, Sept. 30, 2019; 85 FR 53996, Aug. 31, 2020]
+[82 FR 2744, Jan. 9, 2017, as amended at 84 FR 51399, Sept. 30, 2019; 85 FR 53996, Aug. 31, 2020; 86 FR 11119, Feb. 24, 2021]

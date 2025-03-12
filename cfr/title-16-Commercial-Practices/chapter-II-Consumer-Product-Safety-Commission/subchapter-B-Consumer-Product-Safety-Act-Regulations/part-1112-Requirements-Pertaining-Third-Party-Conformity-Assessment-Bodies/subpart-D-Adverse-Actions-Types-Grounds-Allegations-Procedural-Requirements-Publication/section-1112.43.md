@@ -6,6 +6,8 @@
 
 (2) Submission of false or misleading information concerning a material fact(s) on an application, any materials accompanying an application, or on any other information provided to the CPSC related to a third party conformity assessment body's ability to become or to remain a CPSC-accepted third party conformity assessment body; or
 
-(3) Failure to satisfy necessary requirements described in § 1112.13, such as ISO/IEC 17025:2005(E) accreditation by a ILAC-MRA signatory accreditation body for the CPSC scope for which acceptance of accreditation is being sought.
+(3) Failure to satisfy necessary requirements described in § 1112.13, such as ISO/IEC 17025:2017(E) accreditation by a ILAC-MRA signatory accreditation body for the CPSC scope for which acceptance of accreditation is being sought.
 
 (b) The CPSC's denial of an application will follow the process described in § 1112.51.
+
+[78 FR 15865, Mar. 12, 2013, as amended at 86 FR 22866, Apr. 30, 2021]

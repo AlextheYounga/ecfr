@@ -1,0 +1,3 @@
+##### § 90.1 Applicability. #####
+
+The Environmental Protection Agency adopted emission standards for model year 1997 and later nonroad spark-ignition engines below 19 kW under this part. EPA has migrated regulatory requirements for these engines to 40 CFR part 1054, with additional testing and compliance provisions in 40 CFR parts 1065 and 1068. The Phase 1 and Phase 2 standards originally adopted in this part are identified in 40 CFR part 1054, appendix I. See 40 CFR 1054.1 for information regarding the timing of the transition to 40 CFR part 1054, and for information regarding regulations that continue to apply for engines that manufacturers originally certified or otherwise produced under this part.

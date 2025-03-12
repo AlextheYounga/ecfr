@@ -1,7 +1,5 @@
 ##### § 204.2 Definitions. #####
 
-Link to an amendment published at 86 FR 29938, June 4, 2021.
-
 For purposes of this part, the following definitions apply unless otherwise specified:
 
 (a)(1) *Deposit* means:
@@ -88,7 +86,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (i) Any account that is a time deposit or a savings deposit under this part;
 
-(ii) Any deposit or account on which the depository institution has reserved the right to require at least seven days' written notice prior to withdrawal or transfer of any funds in the account and either -
+(ii) Any deposit or account on which the depository institution has reserved the right to require at least seven days' written notice prior to withdrawal or transfer of any funds in the account and either—
 
 (A) Is subject to check, draft, negotiable order of withdrawal, share draft, or similar item, such as an account authorized by 12 U.S.C. 1832(a) (*NOW account*) and a savings deposit described in § 204.2(d)(2), provided that the depositor is eligible to hold a NOW account; or
 
@@ -100,7 +98,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (c)(1) *Time deposit* means:
 
-(i) A deposit that the depositor does not have a right and is not permitted to make withdrawals from within six days after the date of deposit unless the deposit is subject to an early withdrawal penalty of at least seven days' simple interest on amounts withdrawn within the first six days after deposit.1 A time deposit from which partial early withdrawals are permitted must impose additional early withdrawal penalties of at least seven days' simple interest on amounts withdrawn within six days after each partial withdrawal. If such additional early withdrawal penalties are not imposed, the account ceases to be a time deposit. The account may become a savings deposit if it meets the requirements for a saving deposit; otherwise it becomes a transaction account. *Time deposit* includes funds -
+(i) A deposit that the depositor does not have a right and is not permitted to make withdrawals from within six days after the date of deposit unless the deposit is subject to an early withdrawal penalty of at least seven days' simple interest on amounts withdrawn within the first six days after deposit.1 A time deposit from which partial early withdrawals are permitted must impose additional early withdrawal penalties of at least seven days' simple interest on amounts withdrawn within six days after each partial withdrawal. If such additional early withdrawal penalties are not imposed, the account ceases to be a time deposit. The account may become a savings deposit if it meets the requirements for a saving deposit; otherwise it becomes a transaction account. *Time deposit* includes funds—
 
 1 A time deposit, or a portion thereof, may be paid during the period when an early withdrawal penalty would otherwise be required under this part without imposing an early withdrawal penalty specified by this part:
 
@@ -128,7 +126,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (ii) An *IBF time deposit* meeting the requirements of § 204.8(a)(2); and
 
-(iii) Borrowings, regardless of maturity, represented by a promissory note, an acknowledgment of advance, or similar obligation described in § 204.2(a)(1)(vii) that is issued to, or any bankers' acceptance (other than the type described in 12 U.S.C. 372) of the depository institution held by -
+(iii) Borrowings, regardless of maturity, represented by a promissory note, an acknowledgment of advance, or similar obligation described in § 204.2(a)(1)(vii) that is issued to, or any bankers' acceptance (other than the type described in 12 U.S.C. 372) of the depository institution held by—
 
 (A) Any office located outside the United States of another depository institution or Edge or agreement corporation organized under the laws of the United States;
 
@@ -252,7 +250,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (i) Held at a physical location of the depository institution (including the depository institution's proprietary ATMs) from which the institution's depositors may make cash withdrawals; or
 
-(ii) Held at an alternate physical location if -
+(ii) Held at an alternate physical location if—
 
 (A) The depository institution claiming the currency and coin as vault cash at all times retains full rights of ownership in and to the currency and coin held at the alternate physical location;
 
@@ -312,7 +310,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (v)-(x) [Reserved]
 
-(y) *Eligible institution* means -
+(y) *Eligible institution* means—
 
 (1) Any depository institution as described in § 204.1(c) of this part;
 
@@ -324,7 +322,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (z) *Excess balance* means the average balance maintained in an account at a Federal Reserve Bank by or on behalf of an institution over a reserve maintenance period that exceeds the top of the penalty-free band.
 
-(aa) *Excess balance account* means an account at a Reserve Bank pursuant to § 204.10(d) of this part that is established by one or more eligible institutions through an agent and in which only excess balances of the participating eligible institutions may at any time be maintained. An excess balance account is not a “pass-through account” for purposes of this part.
+(aa) *Excess balance account* means an account at a Reserve Bank pursuant to § 204.10(d) of this chapter that is established by one or more eligible institutions through an agent and in which only balances of the participating eligible institutions may at any time be maintained. An excess balance account is not a “pass-through account” for purposes of this part.
 
 (bb) *Balance maintained to satisfy a reserve balance requirement* means the average balance held in an account at a Federal Reserve Bank by or on behalf of an institution over a reserve maintenance period to satisfy a reserve balance requirement of this part.
 

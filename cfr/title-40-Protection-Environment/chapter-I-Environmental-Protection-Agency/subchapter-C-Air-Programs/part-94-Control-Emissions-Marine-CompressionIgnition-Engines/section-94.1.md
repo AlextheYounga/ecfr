@@ -1,0 +1,3 @@
+##### § 94.1 Applicability. #####
+
+The Environmental Protection Agency adopted emission standards for model year 2004 and later marine compression-ignition engines under this part. EPA has migrated regulatory requirements for these engines to 40 CFR part 1042, with additional testing and compliance provisions in 40 CFR parts 1065 and 1068. The Tier 1 and Tier 2 standards originally adopted in this part are identified in 40 CFR part 1042, appendix I. See 40 CFR 1042.1 for information regarding the timing of the transition to 40 CFR part 1042, and for information regarding regulations that continue to apply for engines that manufacturers originally certified or otherwise produced under this part.
