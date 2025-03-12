@@ -15,3 +15,7 @@
 (g) *Request for an accounting* means a request made under Privacy Act subsection (c)(3).
 
 (h) *Requester* means an individual who makes a request for access, a request for amendment, or a request for an accounting under the Privacy Act.
+
+(i) *PRAC* means the Pandemic Response Accountability Committee established under Section 15010 of the Coronavirus Aid, Relief, and Economic Security Act, Public Law 116-136, 134 Stat. 281.
+
+[81 FR 86563, Dec. 1, 2016, as amended at 86 FR 26649, May 17, 2021]

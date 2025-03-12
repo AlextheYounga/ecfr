@@ -1,3 +1,5 @@
-##### § 536.407 Offshore transactions. #####
+##### § 536.407 Offshore transactions involving blocked property. #####
 
-The prohibitions contained in § 536.201 apply to transactions by U.S. persons in locations outside the United States with respect to property which the U.S. person knows, or has reason to know, is held in the name of a specially designated narcotics trafficker, or in which the U.S. person knows, or has reason to know, a specially designated narcotics trafficker has or has had an interest since the effective date.
+The prohibitions in § 536.201 on transactions or dealings involving blocked property, as defined in § 536.301, apply to transactions by any U.S. person in a location outside the United States.
+
+[86 FR 26665, May 17, 2021]

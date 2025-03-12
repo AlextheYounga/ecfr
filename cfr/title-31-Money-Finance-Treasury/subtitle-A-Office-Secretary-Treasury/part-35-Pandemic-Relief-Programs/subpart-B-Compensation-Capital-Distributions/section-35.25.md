@@ -1,0 +1,3 @@
+##### § 35.25 Exemptive relief. #####
+
+The Department of the Treasury may grant exemptions or waivers from some or all of the restrictions on share buybacks and dividend payments under this part if such exemption or waiver is necessary or appropriate to effectuate the goals of the ECIP or to protect the public interest. Such exemptions or waivers may be subject to such terms and conditions as deemed necessary or appropriate by the Department of the Treasury.

@@ -1,3 +1,7 @@
 ##### § 536.204 Evasions; attempts; conspiracies. #####
 
-Any transaction for the purpose of, or which has the effect of, evading or avoiding, or which facilitates the evasion or avoidance of, any of the prohibitions set forth in this part, is hereby prohibited. Any attempt to violate the prohibitions set forth in this part is hereby prohibited. Any conspiracy formed for the purpose of engaging in a transaction prohibited by this part is hereby prohibited.
+(a) Any transaction on or after the effective date that has the purpose of evading or avoiding, causes a violation of, or attempts to violate any of the prohibitions set forth in this part is prohibited.
+
+(b) Any conspiracy formed to violate the prohibitions set forth in this part is prohibited.
+
+[86 FR 26664, May 17, 2021]

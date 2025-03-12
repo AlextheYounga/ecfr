@@ -1,0 +1,29 @@
+##### § 35.22 Restrictions on compensation. #####
+
+(a) *Restriction on executive compensation.* An ECIP recipient must ensure that the total compensation paid to its senior executive officers is appropriate and not excessive. Unless informed otherwise by the Department of the Treasury, an ECIP recipient is considered to have satisfied the requirements regarding executive compensation in this section if it, and, if applicable, all insured depository institution subsidiaries of the ECIP recipient, maintains compliance with the following (or any successor requirement, as applicable):
+
+(1) For an ECIP recipient or subsidiary of an ECIP recipient that is an insured depository institution, except for federally insured credit unions, the Interagency Guidelines Establishing Standards for Safety and Soundness as issued by the appropriate Federal banking agency for the ECIP recipient or subsidiary (*i.e.,* for national banks and Federal savings associations, 12 CFR part 30, appendix A; state member banks, 12 CFR part 208, appendix D-1; insured state nonmember banks and state savings associations, 12 CFR part 364, appendix A);
+
+(2) For an ECIP recipient that is a bank holding company, the requirements for corporate practices of bank holding companies as issued by the Federal Reserve Board at 12 CFR 225.4;
+
+(3) For an ECIP recipient that is a savings and loan holding company, the requirements regarding safe and sound operations of savings and loan holding companies as issued by the Federal Reserve Board at 12 CFR 238.8; and
+
+(4) For an ECIP recipient that is a federally insured credit union, the requirements on compensation and benefits for federally insured credit unions as issued by the NCUA at 12 CFR 701.19(a); 12 CFR 701.21(c)(8); 12 CFR 702.203(b)(10); and 12 CFR 702.204(b)(10).
+
+(b) *Restriction on severance payments.* An ECIP recipient shall not make excessive severance payments to any senior executive officer. Unless informed otherwise by the Department of the Treasury, an ECIP is considered to have satisfied the requirements regarding severance payments in this section if it maintains compliance with the following (or any successor requirement, as applicable):
+
+(1) For an ECIP recipient that is an insured depository institution, a bank holding company or a savings and loan holding company, the limits and prohibitions to enter into contracts to pay and to make golden parachute and indemnification payments to institution-affiliated parties to the extent applicable to the ECIP recipient, as issued by the FDIC at 12 CFR part 359; and
+
+(2) For an ECIP recipient that is a federally insured credit union, the limits and prohibitions on the ability of federally insured credit unions to enter into contracts to pay and to make golden parachute and indemnification payments to institution-affiliated parties as issued by the NCUA at 12 CFR 750.1.
+
+(c) *Excessive or luxury expenditures.* (1) Ninety days after an ECIP investment date with respect to an ECIP recipient, the board of directors of the ECIP recipient must adopt an excessive or luxury expenditures policy, provide such policy to the Department of the Treasury and the ECIP recipient's appropriate Federal banking agency, and post the text of such policy on its internet website, if the ECIP recipient maintains an internet website.
+
+(2) If, after adopting an excessive or luxury expenditures policy, the board of directors of the ECIP recipient makes any material amendments to such policy, within ninety days of the adoption of the amended policy the board of directors must provide the amended policy to the Department of the Treasury and the ECIP recipient's appropriate Federal banking agency and post the amended policy on its internet website, if the ECIP recipient maintains an internet website.
+
+(3) The ECIP recipient must maintain, and continue the disclosure of any material amendments to, the excessive or luxury expenditures policy during the ECIP period, unless the Department of the Treasury determines that discontinuation of the policy would not be contrary to the public interest.
+
+(d) *Material changes in policies or procedures.* An ECIP recipient must obtain prior approval from the Department of the Treasury before making any material change to the policies or procedures that it maintains for purposes of compliance with paragraph (a), (b), or (c) of this section. A change to the compensation, severance pay, or excessive or luxury expenditures policies or procedures will be considered material for purposes of this section if the change is likely to have a negative effect on the financial condition of the ECIP recipient, limit the ability of the ECIP recipient to make payments under the terms of an ECIP instrument, or otherwise impair the ECIP recipient's ability to meet its obligations to the Department of the Treasury under the ECIP.
+
+(1) A request to make a material change to compensation, severance pay or excessive luxury expenditures policies or procedures, must be submitted by an ECIP recipient in writing and received by the Department of the Treasury at least thirty days prior to the effective date of the policy change. The request should describe the change, reason for the change, and anticipated financial or other impact of the change on the condition of the ECIP recipient.
+
+(2) The request will be deemed approved thirty days after the ECIP recipient has provided a complete request to the Department of the Treasury, unless, prior to the expiration of the thirty-day period, the Department of the Treasury objects to the proposed change or notifies the ECIP recipient that additional time is required in order to complete review of the proposed change to policy or procedures

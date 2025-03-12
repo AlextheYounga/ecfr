@@ -1,19 +1,25 @@
-##### § 536.506 Provision of certain legal services authorized. #####
+##### § 536.506 Provision of certain legal services. #####
 
-(a) The provision to or on behalf of a specially designated narcotics trafficker of the legal services set forth in paragraph (b) of this section is authorized, provided that all receipt of payment therefor must be specifically licensed.
+(a) The provision of the following legal services to or on behalf of specially designated narcotics traffickers is authorized, provided that any receipt of payment of professional fees and reimbursement of incurred expenses must be authorized pursuant to § 536.507 or 536.508, which authorize certain payments for legal services; via specific licenses; or otherwise pursuant to this part:
 
-(b) Specific licenses may be issued, on a case-by-case basis, authorizing receipt of payment of professional fees and reimbursement of incurred expenses for the following legal services by U.S. persons to a specially designated narcotics trafficker:
+(1) Provision of legal advice and counseling on the requirements of and compliance with the laws of the United States or any jurisdiction within the United States, provided that such advice and counseling are not provided to facilitate transactions in violation of this part;
 
-(1) Provision of legal advice and counseling on the requirements of and compliance with the laws of any jurisdiction within the United States, provided that such advice and counseling is not provided to facilitate transactions that would violate any of the prohibitions contained in this part;
+(2) Representation of persons named as defendants in or otherwise made parties to legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency;
 
-(2) Representation of a specially designated narcotics trafficker when named as a defendant in or otherwise made a party to domestic United States legal, arbitration, or administrative proceedings;
+(3) Initiation and conduct of legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency;
 
-(3) Initiation of domestic United States legal, arbitration, or administrative proceedings in defense of property interests subject to U.S. jurisdiction of a specially designated narcotics trafficker;
+(4) Representation of persons before any U.S. federal, state, or local court or agency with respect to the imposition, administration, or enforcement of U.S. sanctions against such persons; and
 
-(4) Representation before any federal or state agency with respect to the imposition, administration, or enforcement of United States sanctions against significant narcotics traffickers centered in Colombia or specially designated narcotics traffickers; and
+(5) Provision of legal services in any other context in which prevailing U.S. law requires access to legal counsel at public expense.
 
-(5) Provision of legal services in any other context in which prevailing United States law requires access to legal counsel at public expense.
+(b) The provision of any other legal services to specially designated narcotics traffickers not otherwise authorized in this part, requires the issuance of a specific license.
 
-(c) The provision of any other legal services to a specially designated narcotics trafficker, not otherwise authorized in or exempted by this part, requires the issuance of a specific license.
+(c) U.S. persons do not need to obtain specific authorization to provide related services, such as making filings and providing other administrative services, that are ordinarily incident to the provision of services authorized by this paragraph. Additionally, U.S. persons who provide services authorized by this section do not need to obtain specific authorization to contract for related services that are ordinarily incident to the provision of those legal services, such as those provided by private investigators or expert witnesses, or to pay for such services. *See* § 536.405.
 
-(d) Entry into a settlement agreement affecting property or interests in property of a specially designated narcotics trafficker or the enforcement of any lien, judgment, arbitral award, decree, or other order through execution, garnishment or other judicial process purporting to transfer or otherwise alter or affect a property interest of a specially designated narcotics trafficker is prohibited unless specifically licensed in accordance with § 536.202(e).
+(d) Entry into a settlement agreement or the enforcement of any lien, judgment, arbitral award, decree, or other order through execution, garnishment, or other judicial process purporting to transfer or otherwise alter or affect property or interests in property blocked pursuant to § 536.201 is prohibited unless licensed pursuant to this part.
+
+Note 1 to § 536.506:
+
+Pursuant to part 501, subpart E, of this chapter, U.S. persons seeking administrative reconsideration or judicial review of their designation or the blocking of their property and interests in property may apply for a specific license from OFAC to authorize the release of certain blocked funds for the payment of professional fees and reimbursement of incurred expenses for the provision of such legal services where alternative funding sources are not available
+
+[86 FR 26665, May 17, 2021]

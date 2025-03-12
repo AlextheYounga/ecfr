@@ -1,3 +1,5 @@
-##### § 598.407 Offshore transactions. #####
+##### § 598.407 Offshore transactions involving blocked property. #####
 
-The prohibitions contained in § 598.203 apply to transactions by any U.S. person in a location outside the United States with respect to property in which the U.S. person knows, or has reason to know, that a specially designated narcotics trafficker has or has had an interest since the effective date.
+The prohibitions in § 598.202 on transactions or dealings involving blocked property, as defined in § 598.301, apply to transactions by any U.S. person in a location outside the United States.
+
+[86 FR 26669, May 17, 2021]

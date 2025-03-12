@@ -1,0 +1,3 @@
+##### § 35.24 Annual certification. #####
+
+On an annual basis an ECIP recipient shall, in accordance with the terms and conditions of its ECIP investment agreement, submit to the Department of the Treasury a certification executed by two senior executive officers (one of which must be either its principal executive officer or principal financial officer) that the ECIP recipient is in compliance with each of the excessive compensation, severance pay, and excessive or luxury expenditures requirements and restrictions on capital distributions set forth in §§ 35.22 and 35.23.
