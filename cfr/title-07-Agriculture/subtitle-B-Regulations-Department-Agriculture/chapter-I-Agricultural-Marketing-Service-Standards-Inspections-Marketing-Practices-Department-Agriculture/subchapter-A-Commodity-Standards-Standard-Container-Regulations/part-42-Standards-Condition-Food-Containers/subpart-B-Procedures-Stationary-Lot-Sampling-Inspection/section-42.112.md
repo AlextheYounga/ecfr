@@ -48,8 +48,8 @@
 |               Swell, springer, or flipper (not applicable to gas or pressure packed product nor frozen products)                |        2         |     |   |
 |                                                    Leaker or blown container                                                    |        3         |     |   |
 |                                                      Frozen products only:                                                      |                  |     |   |
-|                  (a) Bulging ends <sup>3</sup>⁄<sub>16</sub>-inch to <sup>1</sup>⁄<sub>4</sub>-inch beyond lip                  |                  |     |214|
-|                              (b) Bulging ends more than <sup>1</sup>⁄<sub>4</sub>-inch beyond lip                               |                  | 119 |   |
+|                                        (a) Bulging ends 3/16-inch to 1/4-inch beyond lip                                        |                  |     |214|
+|                                         (b) Bulging ends more than 1/4-inch beyond lip                                          |                  | 119 |   |
 |                                   Metal drums: leaking filling seal (bung) swell <sup>1</sup>                                   |        4         | 120 |   |
 |                            <sup>1</sup> Defect classification depends on the severity of the defect.                            |                  |     |   |
 
@@ -86,205 +86,205 @@
 |               (a) Materially affecting appearance but not usability                |                  |     |208|
 |                         (b) Materially affecting usability                         |                  | 111 |   |
 
-|                                     Defects                                     |    Categories    |     |   |
-|---------------------------------------------------------------------------------|------------------|-----|---|
-|                                    Critical                                     |      Major       |Minor|   |
-|          Type or size of container or component parts not as specified          |**None permitted**|     |   |
-|                Closure not sealed, crimped, or fitted properly:                 |                  |     |   |
-|                               (a) Heat processed                                |        1         |     |   |
-|                             (b) Non-heat processed                              |                  | 101 |   |
-|                      Dirty, stained, or smeared container                       |                  |     |201|
-|                                  Chip in glass                                  |                  |     |202|
-|                       Stone (unmelted material) in glass                        |                  |     |203|
-|                            Pits in surface of glass                             |                  |     |204|
-|                                 Sagging surface                                 |                  |     |205|
-|                           Bead (bubble within glass):                           |                  |     |   |
-|(a) <sup>1</sup>⁄<sub>8</sub>-inch to <sup>1</sup>⁄<sub>16</sub>-inch in diameter|                  |     |206|
-|            (b) Exceeding <sup>1</sup>⁄<sub>8</sub>-inch in diameter             |                  | 102 |   |
-|                                     Checked                                     |                  | 103 |   |
-|                               Thin spot in glass                                |                  | 104 |   |
-|                           Blister (structural defect)                           |                  | 105 |   |
-|                  Bird swing (glass appendage inside container)                  |        2         |     |   |
-|                           Broken or leaking container                           |        3         |     |   |
-|                            Cap (nonheat processed):                             |                  |     |   |
-|                               (a) Cross-threaded                                |                  |     |207|
-|                            (b) Loose but not leaking                            |                  |     |208|
-|                                 (c) Pitted rust                                 |                  | 106 |   |
-|                              Cap (heat processed):                              |                  |     |   |
-|                           (a) Cross-threaded or loose                           |        4         |     |   |
-|                                 (b) Pitted rust                                 |                  | 107 |   |
-|                   Sealing tape or cello band (when required):                   |                  |     |   |
-|                              (a) Improperly placed                              |                  |     |209|
-|                   (b) Not covering juncture of cap and glass                    |                  | 108 |   |
-|          (c) Ends overlap by less than <sup>1</sup>⁄<sub>2</sub>-inch           |                  | 109 |   |
-|                           (d) Loose or deteriorating                            |                  | 110 |   |
-|                        Missing or torn outer safety seal                        |                  | 111 |   |
-|                   Inner safety seal—missing, torn, poor seal                    |                  | 112 |   |
+|                           Defects                           |    Categories    |     |   |
+|-------------------------------------------------------------|------------------|-----|---|
+|                          Critical                           |      Major       |Minor|   |
+|Type or size of container or component parts not as specified|**None permitted**|     |   |
+|      Closure not sealed, crimped, or fitted properly:       |                  |     |   |
+|                     (a) Heat processed                      |        1         |     |   |
+|                   (b) Non-heat processed                    |                  | 101 |   |
+|            Dirty, stained, or smeared container             |                  |     |201|
+|                        Chip in glass                        |                  |     |202|
+|             Stone (unmelted material) in glass              |                  |     |203|
+|                  Pits in surface of glass                   |                  |     |204|
+|                       Sagging surface                       |                  |     |205|
+|                 Bead (bubble within glass):                 |                  |     |   |
+|            (a) 1/8-inch to 1/16-inch in diameter            |                  |     |206|
+|             (b) Exceeding 1/8-inch in diameter              |                  | 102 |   |
+|                           Checked                           |                  | 103 |   |
+|                     Thin spot in glass                      |                  | 104 |   |
+|                 Blister (structural defect)                 |                  | 105 |   |
+|        Bird swing (glass appendage inside container)        |        2         |     |   |
+|                 Broken or leaking container                 |        3         |     |   |
+|                  Cap (nonheat processed):                   |                  |     |   |
+|                     (a) Cross-threaded                      |                  |     |207|
+|                  (b) Loose but not leaking                  |                  |     |208|
+|                       (c) Pitted rust                       |                  | 106 |   |
+|                    Cap (heat processed):                    |                  |     |   |
+|                 (a) Cross-threaded or loose                 |        4         |     |   |
+|                       (b) Pitted rust                       |                  | 107 |   |
+|         Sealing tape or cello band (when required):         |                  |     |   |
+|                    (a) Improperly placed                    |                  |     |209|
+|         (b) Not covering juncture of cap and glass          |                  | 108 |   |
+|           (c) Ends overlap by less than 1/2-inch            |                  | 109 |   |
+|                 (d) Loose or deteriorating                  |                  | 110 |   |
+|              Missing or torn outer safety seal              |                  | 111 |   |
+|         Inner safety seal—missing, torn, poor seal          |                  | 112 |   |
 
-|                                     Defects                                     |    Categories    |     |   |
-|---------------------------------------------------------------------------------|------------------|-----|---|
-|                                    Critical                                     |      Major       |Minor|   |
-|          Type or size of container or component parts not as specified          |**None permitted**|     |   |
-|                Closure not sealed, crimped, or fitted properly:                 |                  |     |   |
-|                               (a) Heat processed                                |        1         |     |   |
-|                             (b) Non-heat processed                              |                  | 101 |   |
-|                      Dirty, stained, or smeared container                       |                  |     |201|
-|                                 Chip in plastic                                 |                  |     |202|
-|                            Un-melted gels in plastic                            |                  |     |203|
-|                           Pits in surface of plastic                            |                  |     |204|
-|                                 Sagging surface                                 |                  |     |205|
-|                           Air bubble within plastic:                            |                  |     |   |
-|(a) <sup>1</sup>⁄<sub>8</sub>-inch to <sup>1</sup>⁄<sub>16</sub>-inch in diameter|                  |     |206|
-|            (b) Exceeding <sup>1</sup>⁄<sub>8</sub>-inch in diameter             |                  | 102 |   |
-|                                     Checked                                     |                  | 103 |   |
-|                              Thin spot in plastic                               |                  | 104 |   |
-|                           Blister (structural defect)                           |                  | 105 |   |
-|                           Broken or leaking container                           |        2         |     |   |
-|                            Cap (non-heat processed):                            |                  |     |   |
-|                               (a) Cross-threaded                                |                  |     |207|
-|                            (b) Loose but not leaking                            |                  |     |208|
-|                  Cap (heat processed), cross-threaded or loose                  |        3         |     |   |
-|                                 Security seals:                                 |                  |     |   |
-|                            (a) Closure ring missing                             |                  | 106 |   |
-|                      (b) Missing or torn outer safety seal                      |                  | 107 |   |
-|                (c) Inner safety seal—missing, torn, or poor seal                |                  | 108 |   |
-|                 (d) Sealing tape or cello band (when required):                 |                  |     |   |
-|                              1. Improperly placed                               |                  |     |209|
-|                   2. Not covering juncture of cap and plastic                   |                  | 109 |   |
-|           3. Ends overlap by less than <sup>1</sup>⁄<sub>2</sub>-inch           |                  | 110 |   |
-|                            4. Loose or deteriorating                            |                  | 111 |   |
+|                           Defects                           |    Categories    |     |   |
+|-------------------------------------------------------------|------------------|-----|---|
+|                          Critical                           |      Major       |Minor|   |
+|Type or size of container or component parts not as specified|**None permitted**|     |   |
+|      Closure not sealed, crimped, or fitted properly:       |                  |     |   |
+|                     (a) Heat processed                      |        1         |     |   |
+|                   (b) Non-heat processed                    |                  | 101 |   |
+|            Dirty, stained, or smeared container             |                  |     |201|
+|                       Chip in plastic                       |                  |     |202|
+|                  Un-melted gels in plastic                  |                  |     |203|
+|                 Pits in surface of plastic                  |                  |     |204|
+|                       Sagging surface                       |                  |     |205|
+|                 Air bubble within plastic:                  |                  |     |   |
+|            (a) 1/8-inch to 1/16-inch in diameter            |                  |     |206|
+|             (b) Exceeding 1/8-inch in diameter              |                  | 102 |   |
+|                           Checked                           |                  | 103 |   |
+|                    Thin spot in plastic                     |                  | 104 |   |
+|                 Blister (structural defect)                 |                  | 105 |   |
+|                 Broken or leaking container                 |        2         |     |   |
+|                  Cap (non-heat processed):                  |                  |     |   |
+|                     (a) Cross-threaded                      |                  |     |207|
+|                  (b) Loose but not leaking                  |                  |     |208|
+|        Cap (heat processed), cross-threaded or loose        |        3         |     |   |
+|                       Security seals:                       |                  |     |   |
+|                  (a) Closure ring missing                   |                  | 106 |   |
+|            (b) Missing or torn outer safety seal            |                  | 107 |   |
+|      (c) Inner safety seal—missing, torn, or poor seal      |                  | 108 |   |
+|       (d) Sealing tape or cello band (when required):       |                  |     |   |
+|                    1. Improperly placed                     |                  |     |209|
+|         2. Not covering juncture of cap and plastic         |                  | 109 |   |
+|            3. Ends overlap by less than 1/2-inch            |                  | 110 |   |
+|                  4. Loose or deteriorating                  |                  | 111 |   |
 
-|                                                                                                                                                       Defects                                                                                                                                                       |    Categories    |     |   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|---|
-|                                                                                                                                                      Critical                                                                                                                                                       |      Major       |Minor|   |
-|                                                                                                                            Type or size of container or component parts not as specified                                                                                                                            |**None permitted**|     |   |
-|                                                                                                                                               Component part missing                                                                                                                                                |                  | 101 |   |
-|                                                                                                                                  Closure not sealed, crimped, or fitted properly:                                                                                                                                   |                  |     |   |
-|                                                                                                                                                (a) Primary container                                                                                                                                                |        1         |     |   |
-|                                                                                                                                          (b) Other than primary container                                                                                                                                           |                  |     |201|
-|                                                                                                                                        Dirty, stained, or smeared container                                                                                                                                         |                  |     |202|
-|                                                                                                                                         Wet or damp (excluding ice packs):                                                                                                                                          |                  |     |   |
-|                                                                                                                                (a) Materially affecting appearance but not usability                                                                                                                                |                  |     |203|
-|                                                                                                                                         (b) Materially affecting usability                                                                                                                                          |                  | 102 |   |
-|                                                                                                                                                     Moldy area                                                                                                                                                      |        2         |     |   |
-|                                                                                                                                                Crushed or torn area:                                                                                                                                                |                  |     |   |
-|                                                                                                                                (a) Materially affecting appearance but not usability                                                                                                                                |                  |     |204|
-|                                                                                                                                         (b) Materially affecting usability                                                                                                                                          |                  | 103 |   |
-|                                                                                                                                  Separation of lamination (corrugated fiberboard):                                                                                                                                  |                  |     |   |
-|                                                                                                                                (a) Materially affecting appearance but not usability                                                                                                                                |                  |     |205|
-|                                                                                                                                         (b) Materially affecting usability                                                                                                                                          |                  | 104 |   |
-|                                                                                                                                             Product sifting or leaking                                                                                                                                              |                  | 105 |   |
-|                                                                                                                                          Nails or staples (when required):                                                                                                                                          |                  |     |   |
-|                                                                                                                          (a) Not as required, insufficient number or improperly positioned                                                                                                                          |                  |     |206|
-|                                                                                                                                           (b) Nails or staples protruding                                                                                                                                           |                  | 106 |   |
-|                                                                                       Glue or adhesive (when required); not holding properly, not covering area specified, or not covering sufficient area to hold properly:                                                                                        |                  |     |   |
-|                                                                                                                                                (a) Primary container                                                                                                                                                |                  | 107 |   |
-|                                                                                                                                          (b) Other than primary container                                                                                                                                           |                  |     |207|
-|                                                                                                                                                        Flap:                                                                                                                                                        |                  |     |   |
-|                                                                                                                   (a) Projects beyond edge of container more than <sup>1</sup>⁄<sub>4</sub>-inch                                                                                                                    |                  |     |208|
-|                                                                                                               (b) Does not meet properly, allowing space of more than <sup>1</sup>⁄<sub>4</sub>-inch                                                                                                                |                  |     |209|
-|                                                                                                                                     Sealing tape or strapping (when required):                                                                                                                                      |                  |     |   |
-|                                                                                                                                                     (a) Missing                                                                                                                                                     |                  | 108 |   |
-|                                                                                                                                          (b) Improperly placed or applied                                                                                                                                           |                  |     |210|
-|                                                                                                                                           Missing component (straw, etc.)                                                                                                                                           |                  |     |211|
-|                                                                                                                                             Paperboard Aseptic Cartons:                                                                                                                                             |                  |     |   |
-|                                                                                                                                         (a) Missing re-sealable cap or tab                                                                                                                                          |                  | 109 |   |
-|                                                                                                                               (b) Inner or outer safety seal—missing, torn, poor seal                                                                                                                               |        3         |     |   |
-|                                                                                                                                          Thermostabilized polymeric trays:                                                                                                                                          |                  |     |   |
-|                                                                                                                                                     Tray body:                                                                                                                                                      |                  |     |   |
-|                                                                                                                                                (a) Swollen container                                                                                                                                                |        4         |     |   |
-|                                                                                                          (b) Tear, crack, hole, abrasion through more than one layer of multi-layer laminate for the tray                                                                                                           |        5         |     |   |
-|                                                                                                                               (c) Presence of delamination in multi-layered laminate                                                                                                                                |                  |     |212|
-|                                                                                                      (d) Presence of any permanent deformation, such that deformed area is discolored or roughened in texture                                                                                                       |                  |     |213|
-|                                                                                                                                                    Lid material:                                                                                                                                                    |                  |     |   |
-|                                                                                                                              (a) Closure seal not continuous along tray flange surface                                                                                                                              |        6         |     |   |
-|                                                                                  (b) Foldover wrinkle in seal area extends into the closure seal such that the closure seal is reduced to less than <sup>1</sup>⁄<sub>8</sub>-inch                                                                                  |        7         |     |   |
-|                                                                                                    (c) Any impression or design on the seal surfaces which conceals or impairs visual detection of seal defects                                                                                                     |                  | 110 |   |
-|                                                                                                       (d) Areas of “wave-like” striations or wrinkles along the seal area that spans the entire width of seal                                                                                                       |                  |     |214|
-|                                                                                                                                            (e) Abrasion of lid material:                                                                                                                                            |                  |     |   |
-|                                                                                                      1. Within <sup>1</sup>⁄<sub>16</sub>-inch of food product edge of seal such that barrier layer is exposed                                                                                                      |        8         |     |   |
-|                                                                                                    2. Greater than <sup>1</sup>⁄<sub>16</sub>-inch from food product edge of seal that barrier layer is exposed                                                                                                     |                  |     |215|
-|(f) Presence of entrapped matter within <sup>1</sup>⁄<sub>16</sub>-inch of the food product edge of seal or entrapped moisture or vapor with <sup>1</sup>⁄<sub>16</sub>-inch of the food product edge of seal that results in less than <sup>1</sup>⁄<sub>16</sub>-inch of defect free seal width at the outside edge|        9         |     |   |
-|                                                                            (g) Presence of any seal defect or anomaly (for example, entrapped moisture, gases, etc.) within <sup>1</sup>⁄<sub>16</sub>-inch of food product edge of seal                                                                            |                  | 111 |   |
-|                                                                                                                           (h) Closure seal width less than <sup>1</sup>⁄<sub>8</sub>-inch                                                                                                                           |                  |     |216|
+|                                                                                                                      Defects                                                                                                                      |    Categories    |     |   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|---|
+|                                                                                                                     Critical                                                                                                                      |      Major       |Minor|   |
+|                                                                                           Type or size of container or component parts not as specified                                                                                           |**None permitted**|     |   |
+|                                                                                                              Component part missing                                                                                                               |                  | 101 |   |
+|                                                                                                 Closure not sealed, crimped, or fitted properly:                                                                                                  |                  |     |   |
+|                                                                                                               (a) Primary container                                                                                                               |        1         |     |   |
+|                                                                                                         (b) Other than primary container                                                                                                          |                  |     |201|
+|                                                                                                       Dirty, stained, or smeared container                                                                                                        |                  |     |202|
+|                                                                                                        Wet or damp (excluding ice packs):                                                                                                         |                  |     |   |
+|                                                                                               (a) Materially affecting appearance but not usability                                                                                               |                  |     |203|
+|                                                                                                        (b) Materially affecting usability                                                                                                         |                  | 102 |   |
+|                                                                                                                    Moldy area                                                                                                                     |        2         |     |   |
+|                                                                                                               Crushed or torn area:                                                                                                               |                  |     |   |
+|                                                                                               (a) Materially affecting appearance but not usability                                                                                               |                  |     |204|
+|                                                                                                        (b) Materially affecting usability                                                                                                         |                  | 103 |   |
+|                                                                                                 Separation of lamination (corrugated fiberboard):                                                                                                 |                  |     |   |
+|                                                                                               (a) Materially affecting appearance but not usability                                                                                               |                  |     |205|
+|                                                                                                        (b) Materially affecting usability                                                                                                         |                  | 104 |   |
+|                                                                                                            Product sifting or leaking                                                                                                             |                  | 105 |   |
+|                                                                                                         Nails or staples (when required):                                                                                                         |                  |     |   |
+|                                                                                         (a) Not as required, insufficient number or improperly positioned                                                                                         |                  |     |206|
+|                                                                                                          (b) Nails or staples protruding                                                                                                          |                  | 106 |   |
+|                                                      Glue or adhesive (when required); not holding properly, not covering area specified, or not covering sufficient area to hold properly:                                                       |                  |     |   |
+|                                                                                                               (a) Primary container                                                                                                               |                  | 107 |   |
+|                                                                                                         (b) Other than primary container                                                                                                          |                  |     |207|
+|                                                                                                                       Flap:                                                                                                                       |                  |     |   |
+|                                                                                             (a) Projects beyond edge of container more than 1/4-inch                                                                                              |                  |     |208|
+|                                                                                         (b) Does not meet properly, allowing space of more than 1/4-inch                                                                                          |                  |     |209|
+|                                                                                                    Sealing tape or strapping (when required):                                                                                                     |                  |     |   |
+|                                                                                                                    (a) Missing                                                                                                                    |                  | 108 |   |
+|                                                                                                         (b) Improperly placed or applied                                                                                                          |                  |     |210|
+|                                                                                                          Missing component (straw, etc.)                                                                                                          |                  |     |211|
+|                                                                                                            Paperboard Aseptic Cartons:                                                                                                            |                  |     |   |
+|                                                                                                        (a) Missing re-sealable cap or tab                                                                                                         |                  | 109 |   |
+|                                                                                              (b) Inner or outer safety seal—missing, torn, poor seal                                                                                              |        3         |     |   |
+|                                                                                                         Thermostabilized polymeric trays:                                                                                                         |                  |     |   |
+|                                                                                                                    Tray body:                                                                                                                     |                  |     |   |
+|                                                                                                               (a) Swollen container                                                                                                               |        4         |     |   |
+|                                                                         (b) Tear, crack, hole, abrasion through more than one layer of multi-layer laminate for the tray                                                                          |        5         |     |   |
+|                                                                                              (c) Presence of delamination in multi-layered laminate                                                                                               |                  |     |212|
+|                                                                     (d) Presence of any permanent deformation, such that deformed area is discolored or roughened in texture                                                                      |                  |     |213|
+|                                                                                                                   Lid material:                                                                                                                   |                  |     |   |
+|                                                                                             (a) Closure seal not continuous along tray flange surface                                                                                             |        6         |     |   |
+|                                                            (b) Foldover wrinkle in seal area extends into the closure seal such that the closure seal is reduced to less than 1/8-inch                                                            |        7         |     |   |
+|                                                                   (c) Any impression or design on the seal surfaces which conceals or impairs visual detection of seal defects                                                                    |                  | 110 |   |
+|                                                                      (d) Areas of “wave-like” striations or wrinkles along the seal area that spans the entire width of seal                                                                      |                  |     |214|
+|                                                                                                           (e) Abrasion of lid material:                                                                                                           |                  |     |   |
+|                                                                                1. Within 1/16-inch of food product edge of seal such that barrier layer is exposed                                                                                |        8         |     |   |
+|                                                                              2. Greater than 1/16-inch from food product edge of seal that barrier layer is exposed                                                                               |                  |     |215|
+|(f) Presence of entrapped matter within 1/16-inch of the food product edge of seal or entrapped moisture or vapor with 1/16-inch of the food product edge of seal that results in less than 1/16-inch of defect free seal width at the outside edge|        9         |     |   |
+|                                                      (g) Presence of any seal defect or anomaly (for example, entrapped moisture, gases, etc.) within 1/16-inch of food product edge of seal                                                      |                  | 111 |   |
+|                                                                                                     (h) Closure seal width less than 1/8-inch                                                                                                     |                  |     |216|
 
-|                                                                                                Defects                                                                                                 |    Categories    |     |   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|---|
-|                                                                                                Critical                                                                                                |      Major       |Minor|   |
-|                                                                     Type or size of container or component parts not as specified                                                                      |**None permitted**|     |   |
-|                                                                       Closure not sealed, crimped, stitched, or fitted properly:                                                                       |                  |     |   |
-|                                                                                  (a) Heat processed primary container                                                                                  |        1         |     |   |
-|                                                                                (b) Non-heat processed primary container                                                                                |                  | 101 |   |
-|                                                                                    (c) Other than primary container                                                                                    |                  |     |201|
-|                                                                                  Dirty, stained, or smeared container                                                                                  |                  |     |202|
-|                                                                                        Unmelted gels in plastic                                                                                        |                  |     |203|
-|                                                                            Torn or cut container or abrasion (non-leaker):                                                                             |                  |     |   |
-|                                                                         (a) Materially affecting appearance but not usability                                                                          |                  |     |204|
-|                                                                                   (b) Materially affecting usability                                                                                   |                  | 102 |   |
-|                                                                                               Moldy area                                                                                               |        2         |     |   |
-|                                                            Individual packages sticking together or to shipping case (tear when separated)                                                             |                  | 103 |   |
-|                                                                                       Not fully covering product                                                                                       |                  | 104 |   |
-|                                                                                   Wet or damp (excluding ice packs):                                                                                   |                  |     |   |
-|                                                                         (a) Materially affecting appearance but not usability                                                                          |                  |     |205|
-|                                                                                   (b) Materially affecting usability                                                                                   |                  | 105 |   |
-|                                                                                       Over wrap (when required):                                                                                       |                  |     |   |
-|                                                                                              (a) Missing                                                                                               |                  | 106 |   |
-|                                                                                    (b) Loose, not sealed, or closed                                                                                    |                  |     |206|
-|                                                                                         (c) Improperly applied                                                                                         |                  |     |207|
-|                                                                         Sealing tape, strapping, or adhesives (when required):                                                                         |                  |     |   |
-|                                                                                              (a) Missing                                                                                               |                  | 107 |   |
-|                                                                           (b) Improperly placed, applied, torn, or wrinkled                                                                            |                  |     |208|
-|                                                                           Tape over bottom and top closures (when required):                                                                           |                  |     |   |
-|                                                                                       (a) Not covering stitching                                                                                       |                  | 108 |   |
-|                                                                                     (b) Torn (exposing stitching)                                                                                      |                  | 109 |   |
-|                                                                                   (c) Wrinkled (exposing stitching)                                                                                    |                  | 110 |   |
-|                                                                                        (d) Not adhering to bag:                                                                                        |                  |     |   |
-|                                                                                         1. Exposing stitching                                                                                          |                  | 111 |   |
-|                                                                                       2. Not exposing stitching                                                                                        |                  |     |209|
-|                                                                                         (e) Improper placement                                                                                         |                  |     |210|
-|                                                                                      Product sifting or leaking:                                                                                       |                  |     |   |
-|                                                                                         (a) Non-heat processed                                                                                         |                  | 112 |   |
-|                                                                                           (b) Heat processed                                                                                           |        3         |     |   |
-|                                                                                           Flexible pop-top:                                                                                            |                  |     |   |
-|                                           (a) Poor seal (wrinkle, entrapped matter, etc.) reducing intact seal to less than <sup>1</sup>⁄<sub>16</sub>-inch                                            |        4         |     |   |
-|                                                                          (b) Short pull tab (materially affecting usability)                                                                           |                  |     |212|
-|                                                                                          (c) Missing pull tab                                                                                          |                  | 113 |   |
-|                                                                           (d) Torn pull tab (materially affecting usability)                                                                           |                  |     |213|
-|                                                                                    Missing component (straw, etc.)                                                                                     |                  |     |214|
-|                                                                           Two part container (poly lined box or bag in box):                                                                           |                  |     |   |
-|                                                                                          (a) Outer case torn                                                                                           |                  |     |215|
-|                                                                                            (b) Poly liner:                                                                                             |                  |     |   |
-|                                                                                               1. Missing                                                                                               |        5         |     |   |
-|                                                                                          2. Improper closure                                                                                           |                  | 114 |   |
-|                                                                              Missing “zip lock” (re-sealable containers)                                                                               |                  |     |216|
-|                                                                                   Loss of vacuum (in vacuum-packed)                                                                                    |                  | 115 |   |
-|                                                                                         Pre-formed containers:                                                                                         |                  |     |   |
-|                                                                                       (a) Dented or crushed area                                                                                       |                  |     |217|
-|                                                                                         (b) Deformed container                                                                                         |                  |     |218|
-|                                                                                        Missing re-sealable cap                                                                                         |                  | 116 |   |
-|                                                                          Inner or outer safety seal—missing, torn, poor seal                                                                           |        6         |     |   |
-|                                                                                         Air bubble in plastic                                                                                          |                  | 117 |   |
-|                                                             Thermostabilized products (includes but not limited to tubes, pouches, etc.):                                                              |                  |     |   |
-|                                                                       Foldover wrinkle in seal area (thermostabilized pouches):                                                                        |                  |     |   |
-|                                                (a) Extends through all plies across seal area or reduces seal less than <sup>1</sup>⁄<sub>16</sub>-inch                                                |        7         |     |   |
-|                                                 (b) Does not extend through all plies and effective seal is <sup>1</sup>⁄<sub>16</sub>-inch or greater                                                 |                  |     |219|
-|                                                                               Incomplete seal (thermostabilized pouches)                                                                               |        8         |     |   |
-|                                                                              Non-bonding seal (thermostabilized pouches)                                                                               |        9         |     |   |
-|                                              Laminate separation in body of pouch or in seal within <sup>1</sup>⁄<sub>16</sub>-inch of food product edge:                                              |                  |     |   |
-|                                                                                  (a) If food contact layer is exposed                                                                                  |        10        |     |   |
-|                                              (b) If food contact surface is exposed after manipulation or laminate separation expands after manipulation                                               |                  | 118 |   |
-|(c) If lamination separation is limited to isolated spots that do not propagate with manipulation or is outer ply separation in seal within <sup>1</sup>⁄<sub>16</sub>-inch of food product edge of seal|                  |     |220|
-|                                                                                Flex cracks (cracks in foil layer only)                                                                                 |                  |     |221|
-|                                                                                           Swollen container                                                                                            |        11        |     |   |
-|                                                          Blister (in seal) reducing intact seal to less than <sup>1</sup>⁄<sub>16</sub>-inch                                                           |        12        |     |   |
-|                                     Compressed seal (overheated to bubble or expose inner layer) reducing intact seal to less than <sup>1</sup>⁄<sub>16</sub>-inch                                     |        13        |     |   |
-|                                                                 Stringy seal (excessive plastic threads showing at edge of seal area)                                                                  |                  |     |222|
-|                                                 Contaminated seal (entrapped matter) reducing intact seal to less than <sup>1</sup>⁄<sub>16</sub>-inch                                                 |        14        |     |   |
-|                                          Seal creep (product in pouch “creeping” into seal) reducing intact seal to less than <sup>1</sup>⁄<sub>16</sub> inch                                          |        15        |     |   |
-|                                                      Misaligned or crooked seal reducing intact seal to less than <sup>1</sup>⁄<sub>16</sub>-inch                                                      |        16        |     |   |
-|                                                                Seal formed greater than 1-inch from edge of pouch (unclosed edge flaps)                                                                |                  |     |223|
-|                                                             Waffling (embossing on surface from retort racks; not scorable unless severe)                                                              |                  |     |224|
-|                                                                               Poor or missing tear notch (when required)                                                                               |                  |     |225|
+|                                                                                     Defects                                                                                      |    Categories    |     |   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|---|
+|                                                                                     Critical                                                                                     |      Major       |Minor|   |
+|                                                          Type or size of container or component parts not as specified                                                           |**None permitted**|     |   |
+|                                                            Closure not sealed, crimped, stitched, or fitted properly:                                                            |                  |     |   |
+|                                                                       (a) Heat processed primary container                                                                       |        1         |     |   |
+|                                                                     (b) Non-heat processed primary container                                                                     |                  | 101 |   |
+|                                                                         (c) Other than primary container                                                                         |                  |     |201|
+|                                                                       Dirty, stained, or smeared container                                                                       |                  |     |202|
+|                                                                             Unmelted gels in plastic                                                                             |                  |     |203|
+|                                                                 Torn or cut container or abrasion (non-leaker):                                                                  |                  |     |   |
+|                                                              (a) Materially affecting appearance but not usability                                                               |                  |     |204|
+|                                                                        (b) Materially affecting usability                                                                        |                  | 102 |   |
+|                                                                                    Moldy area                                                                                    |        2         |     |   |
+|                                                 Individual packages sticking together or to shipping case (tear when separated)                                                  |                  | 103 |   |
+|                                                                            Not fully covering product                                                                            |                  | 104 |   |
+|                                                                        Wet or damp (excluding ice packs):                                                                        |                  |     |   |
+|                                                              (a) Materially affecting appearance but not usability                                                               |                  |     |205|
+|                                                                        (b) Materially affecting usability                                                                        |                  | 105 |   |
+|                                                                            Over wrap (when required):                                                                            |                  |     |   |
+|                                                                                   (a) Missing                                                                                    |                  | 106 |   |
+|                                                                         (b) Loose, not sealed, or closed                                                                         |                  |     |206|
+|                                                                              (c) Improperly applied                                                                              |                  |     |207|
+|                                                              Sealing tape, strapping, or adhesives (when required):                                                              |                  |     |   |
+|                                                                                   (a) Missing                                                                                    |                  | 107 |   |
+|                                                                (b) Improperly placed, applied, torn, or wrinkled                                                                 |                  |     |208|
+|                                                                Tape over bottom and top closures (when required):                                                                |                  |     |   |
+|                                                                            (a) Not covering stitching                                                                            |                  | 108 |   |
+|                                                                          (b) Torn (exposing stitching)                                                                           |                  | 109 |   |
+|                                                                        (c) Wrinkled (exposing stitching)                                                                         |                  | 110 |   |
+|                                                                             (d) Not adhering to bag:                                                                             |                  |     |   |
+|                                                                              1. Exposing stitching                                                                               |                  | 111 |   |
+|                                                                            2. Not exposing stitching                                                                             |                  |     |209|
+|                                                                              (e) Improper placement                                                                              |                  |     |210|
+|                                                                           Product sifting or leaking:                                                                            |                  |     |   |
+|                                                                              (a) Non-heat processed                                                                              |                  | 112 |   |
+|                                                                                (b) Heat processed                                                                                |        3         |     |   |
+|                                                                                Flexible pop-top:                                                                                 |                  |     |   |
+|                                           (a) Poor seal (wrinkle, entrapped matter, etc.) reducing intact seal to less than 1/16-inch                                            |        4         |     |   |
+|                                                               (b) Short pull tab (materially affecting usability)                                                                |                  |     |212|
+|                                                                               (c) Missing pull tab                                                                               |                  | 113 |   |
+|                                                                (d) Torn pull tab (materially affecting usability)                                                                |                  |     |213|
+|                                                                         Missing component (straw, etc.)                                                                          |                  |     |214|
+|                                                                Two part container (poly lined box or bag in box):                                                                |                  |     |   |
+|                                                                               (a) Outer case torn                                                                                |                  |     |215|
+|                                                                                 (b) Poly liner:                                                                                  |                  |     |   |
+|                                                                                    1. Missing                                                                                    |        5         |     |   |
+|                                                                               2. Improper closure                                                                                |                  | 114 |   |
+|                                                                   Missing “zip lock” (re-sealable containers)                                                                    |                  |     |216|
+|                                                                        Loss of vacuum (in vacuum-packed)                                                                         |                  | 115 |   |
+|                                                                              Pre-formed containers:                                                                              |                  |     |   |
+|                                                                            (a) Dented or crushed area                                                                            |                  |     |217|
+|                                                                              (b) Deformed container                                                                              |                  |     |218|
+|                                                                             Missing re-sealable cap                                                                              |                  | 116 |   |
+|                                                               Inner or outer safety seal—missing, torn, poor seal                                                                |        6         |     |   |
+|                                                                              Air bubble in plastic                                                                               |                  | 117 |   |
+|                                                  Thermostabilized products (includes but not limited to tubes, pouches, etc.):                                                   |                  |     |   |
+|                                                            Foldover wrinkle in seal area (thermostabilized pouches):                                                             |                  |     |   |
+|                                                (a) Extends through all plies across seal area or reduces seal less than 1/16-inch                                                |        7         |     |   |
+|                                                 (b) Does not extend through all plies and effective seal is 1/16-inch or greater                                                 |                  |     |219|
+|                                                                    Incomplete seal (thermostabilized pouches)                                                                    |        8         |     |   |
+|                                                                   Non-bonding seal (thermostabilized pouches)                                                                    |        9         |     |   |
+|                                              Laminate separation in body of pouch or in seal within 1/16-inch of food product edge:                                              |                  |     |   |
+|                                                                       (a) If food contact layer is exposed                                                                       |        10        |     |   |
+|                                   (b) If food contact surface is exposed after manipulation or laminate separation expands after manipulation                                    |                  | 118 |   |
+|(c) If lamination separation is limited to isolated spots that do not propagate with manipulation or is outer ply separation in seal within 1/16-inch of food product edge of seal|                  |     |220|
+|                                                                     Flex cracks (cracks in foil layer only)                                                                      |                  |     |221|
+|                                                                                Swollen container                                                                                 |        11        |     |   |
+|                                                          Blister (in seal) reducing intact seal to less than 1/16-inch                                                           |        12        |     |   |
+|                                     Compressed seal (overheated to bubble or expose inner layer) reducing intact seal to less than 1/16-inch                                     |        13        |     |   |
+|                                                      Stringy seal (excessive plastic threads showing at edge of seal area)                                                       |                  |     |222|
+|                                                 Contaminated seal (entrapped matter) reducing intact seal to less than 1/16-inch                                                 |        14        |     |   |
+|                                          Seal creep (product in pouch “creeping” into seal) reducing intact seal to less than 1/16 inch                                          |        15        |     |   |
+|                                                      Misaligned or crooked seal reducing intact seal to less than 1/16-inch                                                      |        16        |     |   |
+|                                                     Seal formed greater than 1-inch from edge of pouch (unclosed edge flaps)                                                     |                  |     |223|
+|                                                  Waffling (embossing on surface from retort racks; not scorable unless severe)                                                   |                  |     |224|
+|                                                                    Poor or missing tear notch (when required)                                                                    |                  |     |225|
 
 |                  Defects                   |Categories|   |
 |--------------------------------------------|----------|---|

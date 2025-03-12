@@ -10,8 +10,6 @@ Chattel and EO property may be transferred to eligible or ineligible transferees
 
 (3) The transfer of EM actual loss loans, or EM loans made before September 12, 1975, will be made as provided under paragraph (b) of this section. However, when one or more of the borrowers or jointly obligated partners or joint operators withdraw from the operation and those remaining desire to assume the total indebtedness and continue the operation, a transfer to the remaining borrowers, partners, or joint operators may be made as an eligible transferee.
 
-(4) The requirements found in exhibit M to subpart G of part 1940 of this chapter are met.
-
 (b) *Transfer to ineligibles.* Transfer of the chattel security and EO property to a transferee who is not eligible for the kind of loan being assumed may be approved, provided:
 
 (1) It is in the Agency's financial interest to approve the transfer of security or EO property and assumption of the debts rather than to liquidate the security or EO property immediately.
@@ -30,7 +28,7 @@ Chattel and EO property may be transferred to eligible or ineligible transferees
 
 (d) *Release of transferor from liability.* The borrower and any cosigner may be released from personal liability to Agency when all the chattel security or EO property is transferred to an eligible or ineligible applicant and the total outstanding debt or that portion of the debt equal to the present market value of the security is assumed. However, no such release will be granted to any borrower who was liable for any direct FLP loan which was reduced or terminated in a manner that resulted in a loss to the Government. The appropriate official is authorized to approve releases from liability in accordance with § 1962.34(h) of this subpart. When there will be no release from liability, the transferor and co-signer of a Farm Credit Programs loan must be sent a letter similar to exhibit F of subpart A of part 1955 of this chapter (available in any Agency office).
 
-(e) *Agency actions* - (1) *Transfer to eligible applicant.* The Agency will determine the transferee's eligibility for the type of loan to be assumed.
+(e) *Agency actions*—(1) *Transfer to eligible applicant.* The Agency will determine the transferee's eligibility for the type of loan to be assumed.
 
 (2) *Release from liability.* If the total outstanding debt is not assumed, the Agency must make the following determinations before it releases the transferor from personal liability:
 
@@ -40,4 +38,4 @@ Chattel and EO property may be transferred to eligible or ineligible transferees
 
 (iii) The transferee will assume a portion of the indebtedness at least equal to the present market value of the security.
 
-[50 FR 45783, Nov. 1, 1985]Editorial Note:For Federal Register citations affecting § 1962.34, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 45783, Nov. 1, 1985]Editorial Note:For Federal Register citations affecting § 1962.34, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

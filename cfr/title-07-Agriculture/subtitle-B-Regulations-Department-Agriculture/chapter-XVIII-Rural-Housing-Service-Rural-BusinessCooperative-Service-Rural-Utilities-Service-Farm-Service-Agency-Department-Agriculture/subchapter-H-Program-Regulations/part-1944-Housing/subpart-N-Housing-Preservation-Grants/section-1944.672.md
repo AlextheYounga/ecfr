@@ -20,6 +20,6 @@ Grants made under this subpart must comply with the environmental review require
 
 (f) Proposed use of funds by an applicant to use monies for additions under § 1944.664 (c)(11) of this subpart must be addressed in the statement of activities.
 
-(g) Grantees must contact Rural Development prior to actual usage of funds by the grantees under § 1944.664 (c)(11) of this subpart. Rural Development must complete the appropriate level of environmental review in accordance with subpart G of part 1940 of this chapter.
+(g) Grantees must contact Rural Development prior to actual usage of funds by the grantees under § 1944.664 (c)(11) of this subpart. Rural Development must complete the appropriate level of environmental review in accordance with part 1970 of this chapter.
 
-[58 FR 21894, Apr. 26, 1993, as amended at 62 FR 26210, May 13, 1997; 81 FR 11031, Mar. 2, 2016]
+[58 FR 21894, Apr. 26, 1993, as amended at 62 FR 26210, May 13, 1997; 81 FR 11031, Mar. 2, 2016; 82 FR 19319, Apr. 27, 2017]

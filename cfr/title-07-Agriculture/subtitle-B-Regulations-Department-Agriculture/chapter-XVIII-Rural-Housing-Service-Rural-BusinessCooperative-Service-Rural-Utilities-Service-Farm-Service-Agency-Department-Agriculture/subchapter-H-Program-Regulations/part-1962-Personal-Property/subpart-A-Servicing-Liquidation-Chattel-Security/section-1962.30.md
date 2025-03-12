@@ -16,11 +16,9 @@
 
 (4) The borrower has not been convicted of planting, cultivating, growing, producing, harvesting or storing a controlled substance under Federal or state law. “Borrower” for purposes of this provision, specifically includes an individual or entity borrower and any member stockholder, partner, or joint operator, of an entity borrower and any member, stockholder, partner, or joint operator of an entity borrower. “Controlled substance” is defined at 21 CFR part 1308. The borrower will be ineligible for a subordination for the crop year in which the conviction occurred and the four succeeding crop years. Applicants must attest on the Agency application form that it and its members, if an entity, have not been convicted of such a crime;
 
-(5) The loan funds will not be used in such a way that will contribute to erosion of highly erodible land or conversion of wetlands for the production of an agricultural commodity according to subpart G of part 1940 of this chapter;
+(5) The borrower can document the ability to repay the total amount due under the subordination and pay all other debt payments scheduled for the subject operating cycle; and
 
-(6) The borrower can document the ability to repay the total amount due under the subordination and pay all other debt payments scheduled for the subject operating cycle; and
-
-(7) The Agency loan is still adequately secured after the subordination, or the value of the loan security will be increased by at least the amount of the advances to be made under the terms of the subordination.
+(6) The Agency loan is still adequately secured after the subordination, or the value of the loan security will be increased by at least the amount of the advances to be made under the terms of the subordination.
 
 (c) *Subordination to make a guaranteed loan.* In addition to the requirements of this section, subordinations on chattel security to make a guaranteed loan will be approved in accordance with § 1980.108 of subpart B of part 1980 of this chapter.
 
@@ -30,4 +28,4 @@
 
 (f) *Appraisal.* The Agency will prepare a chattel appraisal report when the existing appraisal report is more than 2 years old or is inadequate to make the determination in this section. The Agency may use an appraisal submitted by the borrower if it is substantially similar to Form RD 440-21, “Appraisal of Chattel Property,” and prepared by a licensed appraiser.
 
-[63 FR 20297, Apr. 24, 1998]
+[63 FR 20297, Apr. 24, 1998, as amended at 82 FR 19320, Apr. 27, 2017]

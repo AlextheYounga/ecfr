@@ -1,3 +1,27 @@
-##### § 54.1015 xxx #####
+##### § 54.1015 Public interest obligations. #####
 
-Link to an amendment published at 82 FR 15450, Mar. 28, 2017.
+(a) *First interim deadline for construction.* A winning bidder authorized to receive Mobility Fund Phase II support shall, no later than 42 months from the first day of the month that follows the month in which the Mobility Fund Phase II auction closes, submit to the entities listed in § 54.1020(c) any required data covering all areas for which they receive support in a state demonstrating mobile transmissions supporting voice and data to and from the network covering at least 40 percent of the square miles associated with the eligible areas and meeting or exceeding the following:
+
+(1) Outdoor median data transmission rates of 1 Mbps upload and 10 Mbps download, with at least 90 percent of the required download speed measurements not less than a certain threshold speed that will be defined prior to the Mobility Fund Phase II auction; and
+
+(2) Transmission latency of 100 ms or less round trip for at least 90 percent of the measurements.
+
+(b) *Second interim deadline for construction.* A winning bidder authorized to receive Mobility Fund Phase II support shall, no later than 54 months from the first day of the month that follows the month in which the Mobility Fund Phase II auction closes, submit to the entities listed in § 54.1020(c) any required data covering all areas for which they receive support in a state demonstrating mobile transmissions supporting voice and data to and from the network covering at least 60 percent of the square miles associated with the eligible areas and meeting or exceeding the thresholds in paragraphs (a)(1) and (2) of this section.
+
+(c) *Third interim deadline for construction.* A winning bidder authorized to receive Mobility Fund Phase II support shall, no later than 66 months from the first day of the month that follows the month in which the Mobility Fund Phase II auction closes, submit to the entities listed in § 54.1020(c) any required data covering all areas for which they receive support in a state demonstrating mobile transmissions supporting voice and data to and from the network covering at least 80 percent of the square miles associated with the eligible areas and meeting or exceeding the thresholds in paragraphs (a)(1) and (2) of this section.
+
+(d) *Final deadline for construction.* A winning bidder authorized to receive Mobility Fund Phase II support shall, no later than 78 months from the first day of the month that follows the month in which the Mobility Fund Phase II auction closes, submit to the entities listed in § 54.1020(c) any required data covering all areas for which they receive support in a state demonstrating mobile transmissions supporting voice and data to and from the network covering at least 85 percent of the square miles associated with the eligible areas and meeting or exceeding the thresholds in paragraphs (a)(1) and (2) of this section. A winning bidder shall also submit representative data demonstrating that its network covers at least 75 percent of every census block group or census tract for which it receives support in a state.
+
+(e) *Coverage data.* Coverage data submitted in compliance with a recipient's public interest obligations shall demonstrate coverage of the square miles designated in the public notice announcing the final list of eligible areas for the competitive bidding that is the basis of the recipient's support. Any data submitted in compliance with a recipient's public interest obligations shall be in compliance with standards set forth in the applicable public notice.
+
+(f) *Collocation obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1019, the recipient shall allow for reasonable collocation by other providers of services that would meet the technological requirements of Mobility Fund Phase II on all towers it owns or manages in the area for which it receives support. In addition, during this period, the recipient may not enter into facilities access arrangements that restrict any party to the arrangement from allowing others to collocate on the facilities.
+
+(g) *Voice and data roaming obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1019, the recipient shall comply with the Commission's voice and data roaming requirements that are currently in effect on networks that are built through Mobility Fund Phase II support.
+
+(h) *Reasonably comparable rates obligations.* Beginning no later than the deadline set forth in paragraph (a) of this section and continuing throughout the remaining period when a recipient shall file annual reports pursuant to § 54.1019, the recipient shall offer service in supported areas at rates that are within a reasonable range of rates for similar service plans offered by mobile wireless providers in urban areas.
+
+(i) *Data allowance obligations.* Beginning no later than the deadline set forth in paragraph (a) of this section and continuing throughout the remaining period when a recipient shall file annual reports pursuant to § 54.1019, recipient shall offer at least one service plan in supported areas that includes a data allowance comparable to mid-level service plans offered by nationwide providers.
+
+(j) *Liability for failing to satisfy public interest obligations.* A Mobility Fund Phase II support recipient's failure to comply with the public interest obligations in this paragraph or any other terms and conditions of the Mobility Fund Phase II support constitutes a performance default.
+
+[82 FR 15450, Mar. 28, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1015 was added. Paragraphs (a) through (e) of this section contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,3 +1,9 @@
-##### § 54.1013 xxx #####
+##### § 54.1013 Provider eligibility. #####
 
-Link to an amendment published at 82 FR 15450, Mar. 28, 2017.
+(a) An applicant shall be an Eligible Telecommunications Carrier in an area in order to receive Mobility Fund Phase II support for that area. An applicant may obtain its designation as an Eligible Telecommunications Carrier after the close of the Mobility Fund Phase II auction, provided that the applicant submits proof of its designation within 180 days of the public notice identifying the applicant as a winning bidder. An applicant shall not receive Mobility Fund Phase II support prior to the submission of proof of its designation as an Eligible Telecommunications Carrier. After such submission, the Eligible Telecommunications Carrier shall receive a balloon payment that will consist of the carrier's monthly Mobility Fund Phase II payment amount multiplied by the number of whole months between the first day of the month after the close of the auction and the issuance of the public notice authorizing the carrier to receive Mobility Fund Phase II support.
+
+(b) An applicant shall have access to spectrum in an area that enables it to satisfy the applicable performance requirements in order to receive Mobility Fund Phase II support for that area. The applicant shall describe its access to spectrum and certify, in a form acceptable to the Commission, that it has such access at the time it applies to participate in competitive bidding and at the time that it applies for support and that it will retain such access for at least ten (10) years after the date on which it is authorized to receive support.
+
+(c) An applicant shall certify that it is financially and technically qualified to provide the services supported by Mobility Fund Phase II within the specified timeframe in the geographic areas for which it seeks support in order to receive such support.
+
+[82 FR 15450, Mar. 28, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1013 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

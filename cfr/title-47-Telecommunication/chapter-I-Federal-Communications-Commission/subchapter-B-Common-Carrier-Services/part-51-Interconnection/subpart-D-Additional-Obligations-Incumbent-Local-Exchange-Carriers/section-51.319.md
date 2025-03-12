@@ -32,7 +32,7 @@
 
 (iii) *Narrowband services.* When a requesting telecommunications carrier seeks access to a hybrid loop for the provision of narrowband services, the incumbent LEC may either:
 
-(A) Provide nondiscriminatory access, on an unbundled basis, to an entire hybrid loop capable of voice-grade service (i.e., equivalent to DS0 capacity), using time division multiplexing technology; or
+(A) Provide nondiscriminatory access, on an unbundled basis, to an entire hybrid loop capable of voice-grade service (*i.e.*, equivalent to DS0 capacity), using time division multiplexing technology; or
 
 (B) Provide nondiscriminatory access to a spare home-run copper loop serving that customer on an unbundled basis.
 

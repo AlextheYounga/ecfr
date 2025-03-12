@@ -16,7 +16,7 @@
 
 (3) That the subscriber designates [insert the name of the submitting carrier] to act as the subscriber's agent for the preferred carrier change;
 
-(4) That the subscriber understands that only one telecommunications carrier may be designated as the subscriber's interstate or interLATA preferred interexchange carrier for any one telephone number. To the extent that a jurisdiction allows the selection of additional preferred carriers (*e.g.*, local exchange, intraLATA toll, interLATA toll, or international interexchange), the letter of agency must contain separate statements regarding those choices, although a separate letter of agency for each choice is not necessary; and
+(4) That the subscriber understands that only one telecommunications carrier may be designated as the subscriber's interstate or interLATA preferred interexchange carrier for any one telephone number. To the extent that a jurisdiction allows the selection of additional preferred carriers (e.g., local exchange, intraLATA toll, interLATA toll, or international interexchange), the letter of agency must contain separate statements regarding those choices, although a separate letter of agency for each choice is not necessary; and
 
 (5) That the subscriber may consult with the carrier as to whether a fee will apply to the change in the subscriber's preferred carrier.
 
