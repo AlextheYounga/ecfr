@@ -1,12 +1,10 @@
-##### § 622.5 Recordkeeping and reporting - general. #####
+##### § 622.5 Recordkeeping and reporting—general. #####
 
-Link to an amendment published at 87 FR 56215, Sept. 13, 2022.
+This section contains recordkeeping and reporting requirements that are broadly applicable, as specified, to most or all fisheries governed by this part. Additional recordkeeping and reporting requirements specific to each fishery are contained in the respective subparts B through U of this part.
 
-This section contains recordkeeping and reporting requirements that are broadly applicable, as specified, to most or all fisheries governed by this part. Additional recordkeeping and reporting requirements specific to each fishery are contained in the respective subparts B through V of this part.
+(a) *Collection of additional data and fish inspection.* In addition to data required to be reported as specified in subparts B through U of this part, as applicable, additional data will be collected by authorized statistical reporting agents and by authorized officers. A person who fishes for or possesses species in or from the EEZ governed in this part is required to make the applicable fish or any part thereof available for inspection by the SRD or an authorized officer on request.
 
-(a) *Collection of additional data and fish inspection.* In addition to data required to be reported as specified in subparts B through V of this part, additional data will be collected by authorized statistical reporting agents and by authorized officers. A person who fishes for or possesses species in or from the EEZ governed in this part is required to make the applicable fish or parts thereof available for inspection by the SRD or an authorized officer on request.
-
-(b) *Commercial vessel, charter vessel, and headboat inventory.* The owner or operator of a commercial vessel, charter vessel, or headboat operating in a fishery governed in this part who is not selected to report by the SRD under the recordkeeping and reporting requirements in subparts B through V of this part must provide the following information when interviewed by the SRD:
+(b) *Commercial vessel, charter vessel, and headboat inventory.* The owner or operator of a commercial vessel, charter vessel, or headboat operating in a fishery governed in this part who is not selected to report by the SRD under the recordkeeping and reporting requirements in subparts B through U of this part, must provide the following information when interviewed by the SRD:
 
 (1) Name and official number of vessel and permit number, if applicable.
 
@@ -22,7 +20,7 @@ This section contains recordkeeping and reporting requirements that are broadly 
 
 (7) Number of full- and part-time fishermen or crew members.
 
-(c) *Dealers* - (1) *Permitted Gulf and South Atlantic dealers.* (i) A person issued a Gulf and South Atlantic dealer permit must submit a detailed electronic report of all fish first received for a commercial purpose within the time period specified in this paragraph via the dealer electronic trip ticket reporting system. These electronic reports must be submitted at weekly intervals via the dealer electronic trip ticket reporting system by 11:59 p.m., local time, the Tuesday following a reporting week. If no fish were received during a reporting week, an electronic report so stating must be submitted for that reporting week. In addition, during the open season, dealers must submit daily reports for Gulf migratory group king mackerel harvested by the run-around gillnet component in the Florida west coast southern subzone via the port agents, telephone, internet, or other similar means determined by NMFS. From the beginning of the open season until the commercial ACL (commercial quota) for the run-around gillnet sector for Gulf migratory group king mackerel is reached, dealers must submit a daily report if no king mackerel were received during the previous day. NMFS will provide written notice to dealers that first receive Gulf king mackerel harvested by the run-around gillnet component prior to the beginning of each fishing year if the reporting methods or deadline change from the previous year.
+(c) *Dealers*—(1) *Permitted Gulf and South Atlantic dealers.* (i) A person issued a Gulf and South Atlantic dealer permit must submit a detailed electronic report of all fish first received for a commercial purpose within the time period specified in this paragraph via the dealer electronic trip ticket reporting system. These electronic reports must be submitted at weekly intervals via the dealer electronic trip ticket reporting system by 11:59 p.m., local time, the Tuesday following a reporting week. If no fish were received during a reporting week, an electronic report so stating must be submitted for that reporting week. In addition, during the open season, dealers must submit daily reports for Gulf migratory group king mackerel harvested by the run-around gillnet component in the Florida west coast southern subzone via the port agents, telephone, internet, or other similar means determined by NMFS. From the beginning of the open season until the commercial ACL (commercial quota) for the run-around gillnet sector for Gulf migratory group king mackerel is reached, dealers must submit a daily report if no king mackerel were received during the previous day. NMFS will provide written notice to dealers that first receive Gulf king mackerel harvested by the run-around gillnet component prior to the beginning of each fishing year if the reporting methods or deadline change from the previous year.
 
 (ii) Dealers must retain either the paper forms or electronic reports for at least 1 year after the submittal date and must provide such records for inspection upon the request of an authorized officer or the SRD.
 
@@ -32,4 +30,4 @@ This section contains recordkeeping and reporting requirements that are broadly 
 
 (2) *Non-permitted dealers.* See § 622.51 for a person who purchases Gulf shrimp from a vessel, or person, that fishes for shrimp in the Gulf EEZ or in adjoining state waters, or that lands shrimp in an adjoining state.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 19493, Apr. 9, 2014; 80 FR 78674, Dec. 17, 2015]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 19493, Apr. 9, 2014; 80 FR 78674, Dec. 17, 2015; 87 FR 56215, Sept. 13, 2022]

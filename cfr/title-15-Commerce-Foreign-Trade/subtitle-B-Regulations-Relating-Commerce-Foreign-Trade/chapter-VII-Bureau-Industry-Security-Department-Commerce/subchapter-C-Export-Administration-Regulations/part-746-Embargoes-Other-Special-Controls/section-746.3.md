@@ -56,10 +56,10 @@ Persons that have been authorized by OFAC to export or reexport items that are s
 
 (v) Date of consumption or destruction, if the items are consumed or destroyed in the normal course of their use in Iraq, or the date of reexport to a third country not requiring further authorization from BIS, or return to the United States.
 
-(f) *License Requirements for certain transfers within Iraq of items subject to the EAR* - (1) *Licensed items.* A license is required for the transfer within Iraq of any item subject to the EAR exported or reexported pursuant to a specific license issued by the Department of the Treasury or a Department of Commerce specific license or License Exception.
+(f) *License Requirements for certain transfers within Iraq of items subject to the EAR*—(1) *Licensed items.* A license is required for the transfer within Iraq of any item subject to the EAR exported or reexported pursuant to a specific license issued by the Department of the Treasury or a Department of Commerce specific license or License Exception.
 
 (2) *Other items.* (i) A license is required for the transfer within Iraq of any item subject to the EAR, if, at the time of the transfer, you know, have reason to know, or are informed by BIS that the item will be used in the design, development, production or use of weapons of mass destruction or the means of their delivery, as set forth in part 744 of the EAR.
 
-(ii) A license is required for the transfer within Iraq to designated terrorists or terrorist organizations, as set forth in §§ 744.12, 744.13, or 744.14 of the EAR.
+(ii) A license is required for the transfer within Iraq to designated terrorists or terrorist organizations, as set forth in § 744.12, § 744.13, or § 744.14 of the EAR.
 
 [69 FR 46077, July 30, 2004, as amended at 71 FR 20886, Apr. 24, 2006; 71 FR 51718, Aug. 31, 2006; 71 FR 67036, Nov. 20, 2006; 73 FR 57509, Oct. 3, 2008; 78 FR 22723, Apr. 16, 2013; 79 FR 32625, June 5, 2014; 85 FR 4177, Jan. 23, 2020]

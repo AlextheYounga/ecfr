@@ -1,5 +1,7 @@
 ##### § 742.6 Regional stability. #####
 
+Link to an amendment published at 87 FR 62199, Oct. 13, 2022.
+
 (a) *License requirements.* The following controls are maintained in support of U.S. foreign policy to maintain regional stability:
 
 (1) *RS Column 1 license requirements in general.* A license is required for exports and reexports to all destinations, except Canada, for all items in ECCNs on the CCL that include RS Column 1 in the Country Chart column of the “License Requirements” section. Transactions described in paragraph (a)(2), (3), or (9) of this section are subject to the RS Column 1 license requirements set forth in those paragraphs rather than the license requirements set forth in this paragraph (a)(1).
@@ -22,7 +24,9 @@
 
 (5) *RS requirements that apply to Iraq.* As indicated on the CCL, a license is required for the export or reexport to Iraq or transfer within Iraq of the following items controlled for RS reasons on the CCL: 0B999, 0D999, 1B999, 1C992, 1C995, 1C997, 1C999 and 6A992. The Commerce Country Chart is not designed to determine RS licensing requirements for these ECCNs.
 
-(6) [Reserved]
+(6) *RS requirement that applies to the People's Republic of China (China) for semiconductor manufacturing items* - (i) *Exports, reexports, transfers (in-country).* A license is required for items specified in ECCN 3B090 and associated software and technology in 3D001 (for 3B090), 3E001 (for 3B090)) being exported, reexported, or transferred (in-country) to or within the China.
+
+(ii) *Deemed exports.* The license requirements in this paragraph (a)(6) do not apply to deemed exports or deemed reexports.
 
 (7) *RS requirement that applies to the People's Republic of China (China), Russia, or Venezuela.* A license is required to export or reexport to China, Russia, or Venezuela any item described in a .y paragraph of a 9x515 or “600 series” ECCN, except for exports or reexports to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS. (See § 740.11(e)(1) of the EAR for a definition of the ISS.)
 
@@ -57,6 +61,8 @@
 (8) *China or Venezuela.* Applications to export or reexport items described in paragraph (a)(7) of this section to China or Venezuela will be reviewed on a case-by-case basis to determine whether the transaction is contrary to the national security or foreign policy interests of the United States, including the foreign policy interest of promoting the observance of human rights throughout the world. Such applications will also be reviewed consistent with United States arms embargo policies in § 126.1 of the ITAR (22 CFR 126.1). When destined to China, items classified under any 9x515.y ECCN will be subject to a policy of denial consistent with paragraph (b)(1) of this section.
 
 (9) *Russia or Belarus.* Applications to export or reexport items described in paragraph (a)(7) of this section will be reviewed pursuant to the licensing policy set forth in § 746.8(b) of the EAR, as well as the foreign policy interest of promoting the observance of human rights throughout the world and consistent with United States arms embargo policies in § 126.1 of the ITAR (22 CFR 126.1).
+
+(10) *Semiconductor manufacturing items when destined to China.* There is a presumption of denial for applications for items specified in paragraph (a)(6) of this section being exported, reexported, or transferred (in-country) to or within the China. See § 744.11(a)(2)(ii) of the EAR for license requirements, license review policy, and license exceptions applicable to specific entities. License applications for semiconductor manufacturing items, such as semiconductor equipment, destined to end users in China that are headquartered in the United States or in a country in Country Group A:5 or A:6 will be considered on a case-by-case basis, taking into account factors including technology level, customers and compliance plans.
 
 (c)(1) *Contract sanctity date:* March 21, 2003. This contract sanctity date applies only to items controlled under ECCNs 2A983, 2D983 and 2E983 destined for countries not listed in Country Group E (supplement 1 to part 740). See parts 742 and 746 for the contract sanctity requirements applicable to exports and reexports to countries listed in Country Group E.
 

@@ -1,6 +1,6 @@
 ##### § 2.62 Procedure for submitting response. #####
 
-Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.
 
 (a) *Deadline.* The applicant's response to an Office action must be received by the USPTO within six months from the issue date.
 

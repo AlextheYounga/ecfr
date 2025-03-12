@@ -1,6 +1,6 @@
 ##### § 2.184 Refusal of renewal. #####
 
-Link to an amendment published at 86 FR 64333, Nov. 17, 2021.
+Link to an amendment published at 86 FR 64333, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.
 
 (a) If the renewal application is not acceptable, the Office will issue a notice stating the reason(s) for refusal.
 

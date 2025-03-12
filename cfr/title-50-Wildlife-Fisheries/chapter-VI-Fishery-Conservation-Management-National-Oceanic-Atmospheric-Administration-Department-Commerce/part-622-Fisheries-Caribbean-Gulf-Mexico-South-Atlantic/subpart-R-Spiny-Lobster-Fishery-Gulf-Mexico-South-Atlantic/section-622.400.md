@@ -1,8 +1,6 @@
 ##### § 622.400 Permits and fees. #####
 
-Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
-
-(a) *Applicability* - (1) *Licenses, certificates, and permits* - (i) *EEZ off Florida and spiny lobster landed in Florida.* For a person to sell, trade, or barter, or attempt to sell, trade, or barter, a spiny lobster harvested or possessed in the EEZ off Florida, or harvested in the EEZ other than off Florida and landed from a fishing vessel in Florida, or for a person to be exempt from the daily bag and possession limit specified in § 622.408(b)(1) for such spiny lobster, such person must have the licenses and certificates specified to be a “commercial harvester,” as defined in Rule 68B-24.002(4), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.413).
+(a) *Applicability*—(1) *Licenses, certificates, and permits*—(i) *EEZ off Florida and spiny lobster landed in Florida.* For a person to sell, trade, or barter, or attempt to sell, trade, or barter, a spiny lobster harvested or possessed in the EEZ off Florida, or harvested in the EEZ other than off Florida and landed from a fishing vessel in Florida, or for a person to be exempt from the daily bag and possession limit specified in § 622.408(b)(1) for such spiny lobster, such person must have the licenses and certificates specified to be a “commercial harvester,” as defined in Rule 68B-24.002(4), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.19).
 
 (ii) *EEZ other than off Florida.* For a person to sell, trade, or barter, or attempt to sell, trade, or barter, a spiny lobster harvested in the EEZ other than off Florida or for a person to be exempt from the daily bag and possession limit specified in § 622.408(b)(1) for such spiny lobster, a Federal vessel permit must be issued to the harvesting vessel and must be on board. However, see paragraph (a)(1)(i) of this section for the licenses and certificates required for a person to possess or land spiny lobster harvested in the EEZ other than off Florida and subsequently possessed in the EEZ off Florida or landed from a fishing vessel in Florida.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
 
 (4) *Operator-qualified permits.* A vessel permit issued upon the qualification of an operator is valid only when that person is the operator of the vessel.
 
-(5) *Dealer permits and conditions* - (i) *Permits.* For a dealer to first receive Gulf or South Atlantic spiny lobster harvested in or from the EEZ, a Gulf and South Atlantic dealer permit must be issued to the dealer.
+(5) *Dealer permits and conditions*—(i) *Permits.* For a dealer to first receive Gulf or South Atlantic spiny lobster harvested in or from the EEZ, a Gulf and South Atlantic dealer permit must be issued to the dealer.
 
 (ii) *State license and facility requirements.* To obtain a dealer permit, the applicant must have a valid state wholesaler's license in the state(s) where the dealer operates, if required by such state(s), and must have a physical facility at a fixed location in such state(s).
 
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
 
 (vii) Documentation supporting the statement of income, if required under paragraph (b)(3) of this section.
 
-(viii) If a tail-separation permit is desired, a sworn statement by the applicant certifying that his or her fishing activity -
+(viii) If a tail-separation permit is desired, a sworn statement by the applicant certifying that his or her fishing activity—
 
 (A) Is routinely conducted in the EEZ on trips of 48 hours or more; and
 
@@ -64,4 +62,4 @@ Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
 
 (k) *Replacement.* A replacement permit may be issued. An application for a replacement permit will not be considered a new application. A fee, the amount of which is stated with the application form, must accompany each request for a replacement permit.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 19497, Apr. 9, 2014; 84 FR 37151, July 31, 2019]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 19497, Apr. 9, 2014; 84 FR 37151, July 31, 2019; 87 FR 56237, Sept. 13, 2022]

@@ -1,0 +1,13 @@
+##### § 622.486 Spiny lobster import prohibitions. #####
+
+(a) *Minimum size limits for imported spiny lobster.* Multiple minimum size limits apply to importation of spiny lobster into the United States—one that applies any place subject to the jurisdiction of the United States other than Puerto Rico or the U.S. Virgin Islands, and more restrictive minimum size limits that apply to Puerto Rico, St Croix, and St. Thomas and St. John, respectively.
+
+(1) No person may import a spiny lobster with less than a 6-ounce (170-gram) tail weight into St. Croix. For the purposes of paragraph (a) of this section, a 6-ounce (170-gram) tail weight is defined as a tail that weighs 5.9-6.4 ounces (167-181 grams). If the documentation accompanying an imported spiny lobster, including but not limited to product packaging, customs entry forms, bills of lading, brokerage forms, or commercial invoices, indicates that the product does not satisfy the minimum tail-weight, the person importing such spiny lobster has the burden to prove that such spiny lobster does satisfy the minimum tail-weight requirement or that such spiny lobster has a tail length of 6.2 inches (15.75 cm) or greater or that such spiny lobster has or had a carapace length of 3.5 inches (8.89 cm) or greater. If the imported product itself does not satisfy the minimum tail-weight requirement, the person importing such spiny lobster has the burden to prove that such spiny lobster has a tail length of 6.2 inches (15.75 cm) or greater or that such spiny lobster has or had a carapace length of 3.5 inches (8.89 cm) or greater. If the burden is satisfied, such spiny lobster will be considered to be in compliance with the minimum 6-ounce (170-gram) tail-weight requirement.
+
+(2) See § 622.409 regarding the minimum size limit that applies to spiny lobster imported into any place subject to the jurisdiction of the United States other than Puerto Rico or the U.S. Virgin Islands.
+
+(3) See subparts S and U of this part for the minimum size limits that apply to spiny lobster imported into Puerto Rico and St. Thomas and St. John, respectively.
+
+(b) *Additional spiny lobster import prohibitions*—(1) *Prohibition related to tail meat.* No person may import into any place subject to the jurisdiction of the United States spiny lobster tail meat that is not in whole tail form with the exoskeleton attached.
+
+(2) *Prohibitions related to egg-bearing spiny lobster.* No person may import into any place subject to the jurisdiction of the United States spiny lobster with eggs attached or spiny lobster from which eggs or pleopods (swimmerets) have been removed or stripped. Pleopods are the first five pairs of abdominal appendages.

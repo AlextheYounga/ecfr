@@ -1,7 +1,5 @@
 ##### § 20.89 Communications with foreign government officials. #####
 
-Link to an amendment published at 87 FR 55914, Sept. 13, 2022.
-
 Communications with foreign government officials shall have the same status as communications with any member of the public, except that:
 
 (a) Investigatory records compiled for law enforcement purposes by foreign government officials who perform counterpart functions to the Food and Drug Administration in a foreign country, and trade secrets and confidential commercial or financial information obtained by such officials, which are voluntarily disclosed to the Food and Drug Administration as part of cooperative law enforcement and regulatory efforts, shall be exempt from public disclosure to the same extent to which the records would be so exempt pursuant to §§ 20.61 and 20.64, as if they had been prepared by or submitted directly to Food and Drug Administration employees, except that investigatory records shall be exempt from disclosure for a longer period of time if the foreign government officials so require as a condition of their furnishing the information to the Food and Drug Administration.
@@ -24,14 +22,14 @@ Communications with foreign government officials shall have the same status as c
 
 (3) Any disclosure under this section of information submitted to the Food and Drug Administration or incorporated into agency-prepared records does not invoke the rule established in § 20.21 that such records shall be made available to all members of the public.
 
-(d)(1) The Senior Associate Commissioner for Policy, Planning, and Legislation, or the Deputy Commissioner for International and Constituent Relations, or any other officer or employee of the Food and Drug Administration whom the Senior Associate Commissioner for Policy, Planning, and Legislation or the Deputy Commissioner for International and Constituent Relations may designate to act on their behalf for the purpose, may authorize the disclosure to, or receipt from, an official of a foreign government agency of nonpublic, predecisional documents concerning the Food and Drug Administration's or the other government agency's regulations or other regulatory requirements, or other nonpublic information relevant to either agency's activities, as part of cooperative efforts to facilitate global harmonization of regulatory requirements, cooperative regulatory activities, or implementation of international agreements, provided that:
+(d)(1) The Commissioner of Food and Drugs (or delegatee) may authorize the disclosure to, or receipt from, an official of a foreign government agency of nonpublic, predecisional documents concerning the Food and Drug Administration's or the other Government agency's regulations or other regulatory requirements, or other nonpublic information relevant to either agency's activities, as part of cooperative efforts to facilitate global harmonization of regulatory requirements, cooperative regulatory activities, or implementation of international agreements, provided that:
 
 (i) The foreign government agency has the authority to protect such nonpublic documents from public disclosure and will not disclose any such documents provided without the written confirmation by the Food and Drug Administration that the documents no longer have nonpublic status; and
 
-(ii) The Senior Associate Commissioner for Policy, Planning, and Legislation or the Deputy Commissioner for International and Constituent Relations or their designee makes the determination that the exchange is reasonably necessary to facilitate global harmonization of regulatory requirements, cooperative regulatory activities, or implementation of international agreements.
+(ii) The Commissioner (or delegatee) makes the determination that the exchange is reasonably necessary to facilitate global harmonization of regulatory requirements, cooperative regulatory activities, or implementation of international agreements.
 
 (2) Any exchange under this section of nonpublic documents does not invoke the rule established in § 20.21 that such records shall be made available to all members of the public.
 
 (e) For purposes of this section, the term “official of a foreign government agency” includes, but is not limited to, employees (whether temporary or permanent) of and agents contracted by the foreign government, or by an international organization established by law, treaty, or other governmental action and having responsibility to facilitate global or regional harmonization of standards and requirements in FDA's areas of responsibility or to promote and coordinate public health efforts. For such officials, the statement and commitment required by paragraph (c)(1)(i) of this section shall be provided on behalf of both the organization and the individual.
 
-[42 FR 15616, Mar. 22, 1977, as amended at 58 FR 61603, Nov. 19, 1993; 60 FR 63382, Dec. 8, 1995; 65 FR 11888, Mar. 7, 2000]
+[42 FR 15616, Mar. 22, 1977, as amended at 58 FR 61603, Nov. 19, 1993; 60 FR 63382, Dec. 8, 1995; 65 FR 11888, Mar. 7, 2000; 87 FR 55914, Sept. 13, 2022]

@@ -1,5 +1,7 @@
 ##### § 1.36B-3 Computing the premium assistance credit amount. #####
 
+Link to an amendment published at 87 FR 62002, Oct. 13, 2022.
+
 (a) *In general.* A taxpayer's premium assistance credit amount for a taxable year is the sum of the premium assistance amounts determined under paragraph (d) of this section for all coverage months for individuals in the taxpayer's family.
 
 (b) *Definitions.* For purposes of this section -

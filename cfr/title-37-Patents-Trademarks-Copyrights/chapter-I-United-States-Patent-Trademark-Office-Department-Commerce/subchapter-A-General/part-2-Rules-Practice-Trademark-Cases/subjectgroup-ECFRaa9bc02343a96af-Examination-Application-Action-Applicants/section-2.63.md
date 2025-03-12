@@ -1,6 +1,6 @@
 ##### § 2.63 Action after response. #####
 
-Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.
 
 (a) *Repeated non-final refusal or requirement.* After response by the applicant, the examining attorney will review all statutory refusals and/or requirement(s) in light of the response.
 

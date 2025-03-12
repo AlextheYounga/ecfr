@@ -1,8 +1,6 @@
 ##### § 20.120 Records available in Food and Drug Administration Public Reading Rooms. #####
 
-Link to an amendment published at 87 FR 55914, Sept. 13, 2022.
-
-(a) The Freedom of Information Staff and the Division of Dockets Management Public Reading Room are located at the same address. Both are located in rm. 1061, 5630 Fishers Lane, Rockville, MD 20852. The telephone number for the Division of Docket Management is 301-827-6860; the telephone number for the Freedom of Information Staff's Public Reading Room is located at the address on the agency's web site at *http://www.fda.gov.* Both public reading rooms are open from 9 a.m. to 4 p.m., Monday through Friday, excluding legal public holidays.
+(a) The Freedom of Information Staff and the Dockets Management Staff Public Reading Room are located at the same address. Both are located in Rm. 1061, 5630 Fishers Lane, Rockville, MD 20852. The telephone number for the Docket Management Staff is 240-402-7500; the telephone number for the Freedom of Information Staff's Public Reading Room is located at the address on the Agency's website at *https://www.fda.gov.* Both public reading rooms are open from 9 a.m. to 4 p.m., Monday through Friday, excluding legal public holidays.
 
 (b) The following records are available at the Division of Freedom of Information Public Reading Room:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 87 FR 55914, Sept. 13, 2022.
 
 (d) The agency will make reading room records created by the Food and Drug Administration on or after November 1, 1996, available electronically through the Internet at the agency's World Wide Web site which can be found at *http://www.fda.gov.* At the agency's discretion, the Food and Drug Administration may also make available through the Internet such additional records and information it believes will be useful to the public.
 
-[68 FR 25287, May 12, 2003; 68 FR 65392, Nov. 20, 2003, as amended at 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014]
+[68 FR 25287, May 12, 2003; 68 FR 65392, Nov. 20, 2003, as amended at 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014; 87 FR 55914, Sept. 13, 2022]

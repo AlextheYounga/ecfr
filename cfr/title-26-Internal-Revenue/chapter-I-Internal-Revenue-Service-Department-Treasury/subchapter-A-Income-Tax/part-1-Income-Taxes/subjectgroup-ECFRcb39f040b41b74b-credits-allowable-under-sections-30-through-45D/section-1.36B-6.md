@@ -1,5 +1,7 @@
 ##### § 1.36B-6 Minimum value. #####
 
+Link to an amendment published at 87 FR 62002, Oct. 13, 2022.
+
 (a) *In general.* An eligible employer-sponsored plan provides minimum value (MV) only if -
 
 (1) The plan's share of the total allowed costs of benefits provided to an employee (the MV percentage) is at least 60 percent; and

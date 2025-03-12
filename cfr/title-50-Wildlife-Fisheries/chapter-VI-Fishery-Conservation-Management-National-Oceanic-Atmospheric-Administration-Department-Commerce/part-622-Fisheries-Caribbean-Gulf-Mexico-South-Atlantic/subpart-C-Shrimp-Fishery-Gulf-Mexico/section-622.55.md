@@ -1,46 +1,35 @@
 ##### § 622.55 Closed areas. #####
 
-Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
-
 (a) *Texas closure.* (1) From 30 minutes after official sunset on May 15 to 30 minutes after official sunset on July 15, trawling, except trawling for royal red shrimp beyond the 100-fathom (183-m) depth contour, is prohibited in the Gulf EEZ off Texas.
 
 (2) In accordance with the procedures and restrictions of the Gulf Shrimp FMP, the RA may adjust the closing and/or opening date of the Texas closure to provide an earlier, later, shorter, or longer closure, but the duration of the closure may not exceed 90 days or be less than 45 days. Notification of the adjustment of the closing or opening date will be published in the Federal Register.
 
 (b) *Southwest Florida seasonal trawl closure.* From January 1 to 1 hour after official sunset on May 20, each year, trawling, including trawling for live bait, is prohibited in that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the following points:
 
-Table 1 to Paragraph (b)
-
-|    Point    |North lat.|West long.|
-|-------------|----------|----------|
-|B<sup>1</sup>| 26°16.0′ | 81°58.5′ |
-|      C      | 26°00.0′ | 82°04.0′ |
-|      D      | 25°09.0′ | 81°47.6′ |
-|      E      | 24°54.5′ | 81°50.5′ |
-|M<sup>1</sup>| 24°49.3′ | 81°46.4′ |
-
-<sup>1</sup> On the seaward limit of Florida's waters.
+|                        Point                         |North lat.|West long.|
+|------------------------------------------------------|----------|----------|
+|                    B<sup>1</sup>                     | 26°16.0′ | 81°58.5′ |
+|                          C                           | 26°00.0′ | 82°04.0′ |
+|                          D                           | 25°09.0′ | 81°47.6′ |
+|                          E                           | 24°54.5′ | 81°50.5′ |
+|                    M<sup>1</sup>                     | 24°49.3′ | 81°46.4′ |
+|<sup>1</sup> On the seaward limit of Florida's waters.|          |          |
 
 (c) *Tortugas shrimp sanctuary.* (1) The Tortugas shrimp sanctuary is closed to trawling. The Tortugas shrimp sanctuary is that part of the EEZ off Florida shoreward of rhumb lines connecting, in order, the following points:
 
-Table 1 to Paragraph (c)(1)
+|                Point                |North lat.|West long.|
+|-------------------------------------|----------|----------|
+|           N <sup>1</sup>            |25°52′54″ |81°37′56″ |
+|                  F                  |24°50′42″ |81°51′18″ |
+|           G <sup>2</sup>            |24°40′00″ |82°26′39″ |
+|           H <sup>3</sup>            |24°34′44″ |82°35′27″ |
+|           P <sup>4</sup>            |24°35′00″ |82°08′00″ |
+|    <sup>1</sup> Coon Key Light.     |          |          |
+|<sup>2</sup> New Ground Shoals Light.|          |          |
+| <sup>3</sup> Rebecca Shoals Light.  |          |          |
+|    <sup>4</sup> Marquesas Keys.     |          |          |
 
-|    Point    |North lat.|West long.|
-|-------------|----------|----------|
-|N<sup>1</sup>|25°52′54″ |81°37′56″ |
-|      F      |24°50′42″ |81°51′18″ |
-|G<sup>2</sup>|24°40′00″ |82°26′39″ |
-|H<sup>3</sup>|24°34′44″ |82°35′27″ |
-|P<sup>4</sup>|24°35′00″ |82°08′00″ |
-
-<sup>1</sup> Coon Key Light.
-
-<sup>2</sup> New Ground Shoals Light.
-
-<sup>3</sup> Rebecca Shoals Light.
-
-<sup>4</sup> Marquesas Keys.
-
-(2) The provisions of paragraph (c)(1) of this section notwithstanding -
+(2) The provisions of paragraph (c)(1) of this section notwithstanding—
 
 (i) Effective from April 11 through September 30, each year, that part of the Tortugas shrimp sanctuary seaward of rhumb lines connecting the following points is open to trawling: From point T at 24°47.8′ N. lat., 82°01.0′ W. long. to point U at 24°43.83′ N. lat., 82°01.0′ W. long. (on the line denoting the seaward limit of Florida's waters); thence along the seaward limit of Florida's waters, as shown on the current edition of NOAA chart 11439, to point V at 24°42.55′ N. lat., 82°15.0′ W. long.; thence north to point W at 24°43.6′ N. lat., 82°15.0′ W. long.
 
@@ -54,8 +43,6 @@ Table 1 to Paragraph (c)(1)
 
 (2) *Eastern zone.* The eastern zone is bounded by rhumb lines connecting, in order, the following points:
 
-Table 1 to Paragraph (d)
-
 |Point|North lat.|West long.|
 |-----|----------|----------|
 |  A  |  29°14′  |  88°57′  |
@@ -68,8 +55,6 @@ Table 1 to Paragraph (d)
 |  A  |  29°14′  |  88°57′  |
 
 (3) *Louisiana zone.* The Louisiana zone is bounded by rhumb lines connecting, in order, the following points:
-
-Table 2 to Paragraph (d)
 
 |Point|North lat.|West long.|
 |-----|----------|----------|
@@ -85,8 +70,6 @@ Table 2 to Paragraph (d)
 |  A  | 29°09.1′ | 93°41.4′ |
 
 (4) *Texas zone.* The Texas zone is bounded by rhumb lines connecting, in order, the following points:
-
-Table 3 to Paragraph (d)
 
 |Point|North lat.|West long.|
 |-----|----------|----------|
@@ -105,43 +88,38 @@ Table 3 to Paragraph (d)
 |  M  | 28°21.7′ | 93°28.4′ |
 |  A  | 29°09.1′ | 93°41.4′ |
 
-(e) *Shrimp/stone crab separation zones.* Five zones are established in the Gulf EEZ and Florida's waters off Citrus and Hernando Counties for the separation of shrimp trawling and stone crab trapping. Although Zone II is entirely within Florida's waters, it is included in this paragraph (e) for the convenience of fishermen. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.413). Geographical coordinates of the points referred to in this paragraph (e) are as follows:
+(e) *Shrimp/stone crab separation zones.* Five zones are established in the Gulf EEZ and Florida's waters off Citrus and Hernando Counties for the separation of shrimp trawling and stone crab trapping. Although Zone II is entirely within Florida's waters, it is included in this paragraph (e) for the convenience of fishermen. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.19). Geographical coordinates of the points referred to in this paragraph (e) are as follows:
 
-Table 1 to Paragraph (e)
-
-|    Point    |North lat.|West long.|
-|-------------|----------|----------|
-|      A      |28°59′30″ |82°45′36″ |
-|      B      |28°59′30″ |83°00′10″ |
-|      C      |28°26′01″ |82°59′47″ |
-|      D      |28°26′01″ |82°56′54″ |
-|      E      |28°41′39″ |82°55′25″ |
-|      F      |28°41′39″ |82°56′09″ |
-|      G      |28°48′56″ |82°56′19″ |
-|      H      |28°53′51″ |82°51′19″ |
-|I<sup>1</sup>|28°54′43″ |82°44′52″ |
-|J<sup>2</sup>|28°51′09″ |82°44′00″ |
-|      K      |28°50′59″ |82°54′16″ |
-|      L      |28°41′39″ |82°53′56″ |
-|M<sup>3</sup>|28°41′39″ |82°38′46″ |
-|      N      |28°41′39″ |82°53′12″ |
-|      O      |28°30′51″ |82°55′11″ |
-|      P      |28°40′00″ |82°53′08″ |
-|      Q      |28°40′00″ |82°47′58″ |
-|      R      |28°35′14″ |82°47′47″ |
-|      S      |28°30′51″ |82°52′55″ |
-|      T      |28°27′46″ |82°55′09″ |
-|      U      |28°30′51″ |82°52′09″ |
-
-<sup>1</sup> Crystal River Entrance Light 1A.
-
-<sup>2</sup> Long Pt. (southwest tip).
-
-<sup>3</sup> Shoreline.
+|                    Point                    |North lat.|West long.|
+|---------------------------------------------|----------|----------|
+|                      A                      |28°59′30″ |82°45′36″ |
+|                      B                      |28°59′30″ |83°00′10″ |
+|                      C                      |28°26′01″ |82°59′47″ |
+|                      D                      |28°26′01″ |82°56′54″ |
+|                      E                      |28°41′39″ |82°55′25″ |
+|                      F                      |28°41′39″ |82°56′09″ |
+|                      G                      |28°48′56″ |82°56′19″ |
+|                      H                      |28°53′51″ |82°51′19″ |
+|               I <sup>1</sup>                |28°54′43″ |82°44′52″ |
+|               J <sup>2</sup>                |28°51′09″ |82°44′00″ |
+|                      K                      |28°50′59″ |82°54′16″ |
+|                      L                      |28°41′39″ |82°53′56″ |
+|               M <sup>3</sup>                |28°41′39″ |82°38′46″ |
+|                      N                      |28°41′39″ |82°53′12″ |
+|                      O                      |28°30′51″ |82°55′11″ |
+|                      P                      |28°40′00″ |82°53′08″ |
+|                      Q                      |28°40′00″ |82°47′58″ |
+|                      R                      |28°35′14″ |82°47′47″ |
+|                      S                      |28°30′51″ |82°52′55″ |
+|                      T                      |28°27′46″ |82°55′09″ |
+|                      U                      |28°30′51″ |82°52′09″ |
+|<sup>1</sup> Crystal River Entrance Light 1A.|          |          |
+|   <sup>2</sup> Long Pt. (southwest tip).    |          |          |
+|           <sup>3</sup> Shoreline.           |          |          |
 
 (1) *Zone I* is enclosed by rhumb lines connecting, in order, points A, B, C, D, T, E, F, G, H, I, and J, plus the shoreline between points A and J. It is unlawful to trawl in that part of Zone I that is in the EEZ from October 5 through May 20, each year.
 
-(2) *Zone II* is enclosed by rhumb lines connecting, in order, points J, I, H, K, L, and M, plus the shoreline between points J and M. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.413).
+(2) *Zone II* is enclosed by rhumb lines connecting, in order, points J, I, H, K, L, and M, plus the shoreline between points J and M. Restrictions that apply to Zone II and those parts of the other zones that are in Florida's waters are contained in Rule 68B-38.001, Florida Administrative Code, in effect as of March 1, 2005 (incorporated by reference, see § 622.19).
 
 (3) *Zone III* is enclosed by rhumb lines connecting, in order, points P, Q, R, U, S, and P. It is unlawful to trawl in that part of Zone III that is in the EEZ from October 5 through May 20, each year.
 
@@ -157,4 +135,4 @@ Table 1 to Paragraph (e)
 
 (ii) It is unlawful to trawl in that part of Zone V that is in the EEZ from December 1 through March 15, each year.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 60567, Dec. 21, 2017; 83 FR 29046, June 22, 2018; 85 FR 6818, Feb. 6, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 60567, Dec. 21, 2017; 83 FR 29046, June 22, 2018; 85 FR 6818, Feb. 6, 2020; 87 FR 56237, Sept. 13, 2022]

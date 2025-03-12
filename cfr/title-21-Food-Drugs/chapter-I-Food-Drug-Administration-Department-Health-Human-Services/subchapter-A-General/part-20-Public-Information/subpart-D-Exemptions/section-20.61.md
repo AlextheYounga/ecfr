@@ -1,7 +1,5 @@
 ##### § 20.61 Trade secrets and commercial or financial information which is privileged or confidential. #####
 
-Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
-
 (a) A trade secret may consist of any commercially valuable plan, formula, process, or device that is used for the making, preparing, compounding, or processing of trade commodities and that can be said to be the end product of either innovation or substantial effort. There must be a direct relationship between the trade secret and the productive process.
 
 (b) Commercial or financial information that is privileged or confidential means valuable data or information which is used in one's business and is of a type customarily held in strict confidence or regarded as privileged and not disclosed to any member of the public by the person to whom it belongs.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
 
 (1) When the Food and Drug Administration receives a request for such records and determines that disclosure may be required, the Food and Drug Administration will make reasonable efforts to notify the submitter about these facts. The notice will include a copy of the request, and it will inform the submitter about the procedures and time limits for submission and consideration of objections to disclosure. If the Food and Drug Administration must notify a large number of submitters, notification may be done by posting or publishing a notice in a place where the submitters are reasonably likely to become aware of it.
 
-(2) The submitter has 5 working days from receipt of the notice to object to disclosure of any part of the records and to state all bases for its objections.
+(2) The submitter has 10 working days from the date of the notice to object to disclosure of any part of the records and to state all bases for its objections. The Division of Freedom of Information may extend this period as appropriate and necessary.
 
 (3) The Food and Drug Administration will give consideration to all bases that have been stated in a timely manner by the submitter. If the Food and Drug Administration decides to disclose the records, the Food and Drug Administration will notify the submitter in writing. This notice will briefly explain why the agency did not sustain the submitter's objections. The Food and Drug Administration will include with the notice a copy of the records about which the submitter objected, as the agency proposes to disclose them. The notice will state that the Food and Drug Administration intends to disclose the records 5 working days after the submitter receives the notice unless a U.S. District Court orders the agency not to release them.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
 
 (5) The designation appears to be obviously frivolous, but in this case the Food and Drug Administration will still give the submitter the written notice required by paragraph (e)(3) of this section (although this notice need not explain our decision or include a copy of the records), and the Food and Drug Administration will notify the requester as described in paragraph (e)(5) of this section.
 
-[42 FR 15616, Mar. 22, 1977, as amended at 59 FR 535, Jan. 5, 1994]
+[42 FR 15616, Mar. 22, 1977, as amended at 59 FR 535, Jan. 5, 1994; 87 FR 55913, Sept. 13, 2022]

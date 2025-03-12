@@ -1,7 +1,5 @@
 ##### § 622.2 Definitions and acronyms. #####
 
-Link to an amendment published at 87 FR 56215, Sept. 13, 2022.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, and the acronyms in § 600.15 of this chapter, the terms and acronyms used in this part have the following meanings:
 
 *Accountability measure* means a management control implemented such that overfishing is prevented, where possible, and mitigated if it occurs.
@@ -50,19 +48,9 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Caribbean* means the Caribbean Sea and Atlantic Ocean seaward of Puerto Rico, the U.S. Virgin Islands, and possessions of the United States in the Caribbean Sea.
 
-*Caribbean coral reef resource* means one or more of the species, or a part thereof, listed in Table 1 in Appendix A of this part, whether living or dead.
-
-*Caribbean prohibited coral* means, in the Caribbean; a gorgonian, that is, a Caribbean coral reef resource of the Class Anthozoa, Subclass Octocorallia, Order Gorgonacea; a live rock; or a stony coral, that is, a Caribbean coral reef resource of the Class Hydrozoa (fire corals and hydrocorals) or of the Class Anthozoa, Subclass Hexacorallia, Orders Scleractinia (stony corals) and Antipatharia (black corals); or a part thereof.
-
-*Caribbean queen conch* or *queen conch* means the species, *Strombus gigas,* or a part thereof.
-
-*Caribbean reef fish* means one or more of the species, or a part thereof, listed in Table 2 in Appendix A of this part.
-
-*Caribbean spiny lobster* or *spiny lobster* means the species *Panulirus argus,* or a part thereof.
-
 *CFMC* means the Caribbean Fishery Management Council.
 
-*Charter vessel* means a vessel less than 100 gross tons (90.8 mt) that is subject to the requirements of the USCG to carry six or fewer passengers for hire and that engages in charter fishing at any time during the calendar year. A charter vessel with a commercial permit, as required under this part, is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than three persons aboard, including operator and crew, except for a charter vessel with a commercial vessel permit for Gulf reef fish or South Atlantic snapper-grouper. A charter vessel that has a charter vessel permit for Gulf reef fish and a commercial vessel permit for Gulf reef fish or a charter vessel permit for South Atlantic snapper-grouper and a commercial permit for South Atlantic snapper-grouper (either a South Atlantic snapper-grouper unlimited permit or a 225-lb (102.1-kg) trip limited permit for South Atlantic snapper-grouper) is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than four persons aboard, including operator and crew. A charter vessel that has a charter vessel permit for Gulf reef fish, a commercial vessel permit for Gulf reef fish, and a valid Certificate of Inspection (COI) issued by the USCG to carry passengers for hire will not be considered to be operating as a charter vessel provided -
+*Charter vessel* means a vessel less than 100 gross tons (90.8 mt) that is subject to the requirements of the USCG to carry six or fewer passengers for hire and that engages in charter fishing at any time during the calendar year. A charter vessel with a commercial permit, as required under this part, is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than three persons aboard, including operator and crew, except for a charter vessel with a commercial vessel permit for Gulf reef fish or South Atlantic snapper-grouper. A charter vessel that has a charter vessel permit for Gulf reef fish and a commercial vessel permit for Gulf reef fish or a charter vessel permit for South Atlantic snapper-grouper and a commercial permit for South Atlantic snapper-grouper (either a South Atlantic snapper-grouper unlimited permit or a 225-lb (102.1-kg) trip limited permit for South Atlantic snapper-grouper) is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than four persons aboard, including operator and crew. A charter vessel that has a charter vessel permit for Gulf reef fish, a commercial vessel permit for Gulf reef fish, and a valid Certificate of Inspection (COI) issued by the USCG to carry passengers for hire will not be considered to be operating as a charter vessel provided—
 
 (1) It is not carrying a passenger who pays a fee; and
 
@@ -96,9 +84,9 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Drift gillnet,* for the purposes of this part, means a gillnet, other than a long gillnet or a run-around gillnet, that is unattached to the ocean bottom, regardless of whether attached to a vessel.
 
-*Fish trap* means -
+*Fish trap* means—
 
-(1) In the Caribbean EEZ, a trap and its component parts (including the lines and buoys), regardless of the construction material, used for or capable of taking finfish.
+(1) In the Caribbean EEZ, a trap and its component parts, including the lines and buoys, regardless of the construction material, used for or capable of taking finfish. This does not include a spiny lobster trap as defined in subparts S, T, and U of this part.
 
 (2) In the Gulf EEZ, a trap and its component parts (including the lines and buoys), regardless of the construction material, used for or capable of taking finfish, except a trap historically used in the directed fishery for crustaceans (that is, blue crab, stone crab, and spiny lobster).
 
@@ -138,7 +126,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Headboat* means a vessel that holds a valid Certificate of Inspection (COI) issued by the USCG to carry more than six passengers for hire.
 
-(1) A headboat with a commercial vessel permit, as required under this part, is considered to be operating as a headboat when it carries a passenger who pays a fee or -
+(1) A headboat with a commercial vessel permit, as required under this part, is considered to be operating as a headboat when it carries a passenger who pays a fee or—
 
 (i) In the case of persons aboard fishing for or possessing South Atlantic snapper-grouper, when there are more persons aboard than the number of crew specified in the vessel's COI; or
 
@@ -158,11 +146,11 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *IFQ* means individual fishing quota.
 
-*Import* means -
+*Import* means—
 
-(1) For the purpose of § 622.1(c) and subpart T of this part only - To land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, Puerto Rico or the U.S. Virgin Islands, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States;
+(1) For the purpose of § 622.1(c) and subparts S, T, and U of this part only—To land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, Puerto Rico or the U.S. Virgin Islands, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States;
 
-(2) For the purpose of § 622.1(d) and subpart R of this part only - To land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States;
+(2) For the purpose of § 622.1(d) and subpart R of this part only—To land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States;
 
 (3) But does not include any activity described in paragraph (1) or (2) of this definition with respect to fish caught in the U.S. exclusive economic zone by a vessel of the United States.
 
@@ -178,7 +166,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Mid-Atlantic* means the Atlantic Ocean off the Atlantic coastal states from the boundary between the New England Fishery Management Council and the MAFMC, as specified in § 600.105(a) of this chapter, to the boundary between the MAFMC and the SAFMC, as specified in § 600.105(b) of this chapter.
 
-*Migratory group, for king mackerel, Spanish mackerel, and cobia,* means a group of fish that may or may not be a separate genetic stock, but that is treated as a separate stock for management purposes. King mackerel, Spanish mackerel, and cobia are divided into migratory groups - the boundaries between these groups are specified in § 622.369.
+*Migratory group, for king mackerel, Spanish mackerel, and cobia,* means a group of fish that may or may not be a separate genetic stock, but that is treated as a separate stock for management purposes. King mackerel, Spanish mackerel, and cobia are divided into migratory groups—the boundaries between these groups are specified in § 622.369.
 
 *MPA* means marine protected area.
 
@@ -278,6 +266,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *South Atlantic snapper-grouper* means one or more of the species, or a part thereof, listed in Table 4 in Appendix A of this part.
 
+*Spiny lobster* means the species *Panulirus argus,* or a part thereof.
+
 *Stab net* means a gillnet, other than a long gillnet, or trammel net whose weight line sinks to the bottom and submerges the float line.
 
 *Tail length* means the lengthwise measurement of the entire tail (segmented portion), not including any protruding muscle tissue, of a spiny lobster along the top middorsal line (middle of the back) to the rearmost extremity. The measurement is made with the tail in a flat, straight position with the tip of the tail closed.
@@ -302,4 +292,4 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Wreckfish* means the species *Polyprion americanus,* or a part thereof, one of the South Atlantic snapper-grouper species.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020; 87 FR 2357, Jan. 14, 2022]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020; 87 FR 2357, Jan. 14, 2022; 87 FR 56215, Sept. 13, 2022]
