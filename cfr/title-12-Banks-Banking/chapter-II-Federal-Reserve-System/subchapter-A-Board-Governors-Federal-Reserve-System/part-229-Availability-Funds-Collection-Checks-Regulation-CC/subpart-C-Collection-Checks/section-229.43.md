@@ -1,5 +1,7 @@
 ##### § 229.43 Checks payable in Guam, American Samoa, and the Northern Mariana Islands. #####
 
+Link to an amendment published at 84 FR 31697, July 3, 2019.
+
 (a) *Definitions.* The definitions in § 229.2 apply to this section, unless otherwise noted. In addition, for the purposes of this section -
 
 (1) *Pacific island bank* means an office of an institution that would be a bank as defined in § 229.2(e) but for the fact that the office is located in Guam, American Samoa, or the Northern Mariana Islands;

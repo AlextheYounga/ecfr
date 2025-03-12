@@ -1,5 +1,7 @@
 ##### § 229.21 Civil liability. #####
 
+Link to an amendment published at 84 FR 31697, July 3, 2019.
+
 (a) *Civil liability.* A bank that fails to comply with any requirement imposed under subpart B, and in connection therewith, subpart A, of this part or any provision of state law that supersedes any provision of subpart B, and in connection therewith, subpart A, with respect to any person is liable to that person in an amount equal to the sum of -
 
 (1) Any actual damage sustained by that person as a result of the failure;

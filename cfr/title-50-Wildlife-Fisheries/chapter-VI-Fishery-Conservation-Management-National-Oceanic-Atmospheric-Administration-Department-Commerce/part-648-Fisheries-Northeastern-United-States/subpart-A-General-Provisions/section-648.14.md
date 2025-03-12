@@ -1055,7 +1055,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (ii) *Possession and landing.* (A) Land black sea bass for sale in any state, or part thereof, north of 35°15.3′ N. lat. after the effective date of a notification published in the Federal Register stating that the commercial annual quota has been harvested and the EEZ is closed to the harvest of black sea bass.
 
-(B) Possess, retain, or land black sea bass harvested in or from the EEZ in excess of the commercial possession limit established at § 648.140.
+(B) [Reserved]
 
 (C) Land black sea bass for sale in any state south of North Carolina.
 

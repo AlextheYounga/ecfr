@@ -1,5 +1,7 @@
 ##### § 229.1 Authority and purpose; organization. #####
 
+Link to an amendment published at 84 FR 31695, July 3, 2019.
+
 (a) *Authority and purpose.* This part is issued by the Board of Governors of the Federal Reserve System (Board) to implement the Expedited Funds Availability Act (12 U.S.C. 4001-4010) (the EFA Act) and the Check Clearing for the 21st Century Act (12 U.S.C. 5001-5018) (the Check 21 Act).
 
 (b) *Organization.* This part is divided into subparts and appendices as follows -

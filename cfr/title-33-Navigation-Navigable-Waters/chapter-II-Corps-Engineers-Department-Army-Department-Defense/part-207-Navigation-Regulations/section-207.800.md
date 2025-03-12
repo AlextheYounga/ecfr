@@ -1,5 +1,7 @@
 ##### § 207.800 Collection of navigation statistics. #####
 
+Link to an amendment published at 84 FR 31497, July 2, 2019.
+
 (a) *Definitions.* For the purpose of this regulation the following terms are defined:
 
 (1) *Navigable waters of the United States* means those waters of the United States that are subject to the ebb and flow of the tide shoreward to the mean high water mark, and/or are presently used, or have been used in the past, or may be susceptible to use to transport interstate or foreign commerce. (See 33 CFR part 329 for a more complete definition of this term.)

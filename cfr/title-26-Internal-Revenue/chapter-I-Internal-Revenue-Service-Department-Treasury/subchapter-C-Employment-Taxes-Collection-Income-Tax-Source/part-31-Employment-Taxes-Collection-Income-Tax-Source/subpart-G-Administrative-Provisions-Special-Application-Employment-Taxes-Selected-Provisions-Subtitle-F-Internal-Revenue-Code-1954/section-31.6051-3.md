@@ -2,7 +2,7 @@
 
 (a) *Statements required from payor.* (1) Every payor of sick pay shall furnish to the employer of the payee of the sick pay a written statement. The written statement must contain the following information:
 
-(i) The name and, if there is withholding from sick pay under section 3402(o) and the regulations thereunder, the social security account number of the payee,
+(i) The name and, if there is withholding from sick pay under section 3402(o) and the regulations in this part under section 3402(o), the social security account number of the payee (the payee's social security number may not be truncated to appear in the form of an IRS truncated taxpayer identification number (TTIN)),
 
 (ii) The total amount of sick pay paid to the payee during the calendar year, and
 
@@ -30,7 +30,7 @@ The statement must be furnished to the employer on or before January 15 of the y
 
 (b) *Information required to be furnished by employer.* Every employer of a payee of sick pay who receives a statement under paragraph (a) from a payor of sick pay shall furnish to each payee of sick pay a written statement, which must be furnished on Form W-2. The written statement must contain the following information:
 
-(1) All of the information required to be furnished under paragraph (a),
+(1) All of the information required to be furnished under paragraph (a) of this section, but the employer may truncate the payee's social security number to appear in the form of a TTIN on copies of Forms W-2 that are furnished to the payee (for provisions relating to the use of TTINs, see § 301.6109-4 of this chapter (Procedure and Administration Regulations)).
 
 (2) The name, the address, and the Employer Identification Number (EIN) of the employer,
 
@@ -46,10 +46,8 @@ The statement must be furnished to the employer on or before January 15 of the y
 
 (2) The provisions of § 1.9101-1 (relating to permission to submit information required by certain returns and statements on magnetic tape) shall be applicable to the information required by this section to be furnished on Form W-2 if the employer properly complies with those provisions.
 
-(3) The provisions of section 6109 (relating to identifying numbers) and the regulations thereunder shall be applicable to Form W-2 and to any payee of sick pay to whom a statement on Form W-2 is required by this section to be furnished. Thus the employer must include the social security account number of the payee on all Forms W-2.
+(3) The provisions of section 6109 (relating to identifying numbers) and the regulations in this part and part 301 under section 6109 shall be applicable to Form W-2 and to any payee of sick pay to whom a statement on Form W-2 is required by this section to be furnished. The employer must include the social security number of the payee on all copies of Forms W-2. The employer may truncate the payee's social security number to appear in the form of a TTIN on copies of Forms W-2 that are furnished to the payee. For provisions relating to the use of TTINs, see § 301.6109-4 of this chapter.
 
-(f) *Effective date.* The provisions of this section shall apply to payments of sick pay made on or after May 1, 1981.
+(f) *Applicability date.* This section is applicable for statements required to be furnished under section 6051 after December 31, 2020.
 
-(g) *Transitional rule.* Payors may report all sick pay paid to a payee after December 31, 1980, and before May 1, 1981, on the same statement required to be furnished under paragraph (a) as is used to report sick pay paid to a payee on or after May 1, 1981. If the payor reports on the statement required to be furnished under paragraph (a), he shall not report sick pay paid after December 31, 1980, and before May 1, 1981, on Form 1099, if otherwise required to do so. If no sick pay is paid on or after May 1, 1981, the payor may report all sick pay paid to a payee after December 31, 1980, and before May 1, 1981, on the statement required to be furnished under paragraph (a). If he reports on the statement required to be furnished under paragraph (a), he shall not report sick pay paid on Form 1099, if otherwise required to do so.
-
-(Secs. 3402(o), 7805, Internal Revenue Code of 1954 (94 Stat. 3495, (26 U.S.C. 3402(o)); 68A Stat. 917 (26 U.S.C. 7805))[T.D. 7814, 47 FR 11277, Mar. 16, 1982]
+(Secs. 3402(o), 7805, Internal Revenue Code of 1954 (94 Stat. 3495, (26 U.S.C. 3402(o)); 68A Stat. 917 (26 U.S.C. 7805))[T.D. 7814, 47 FR 11277, Mar. 16, 1982, as amended by T.D. 9861, 84 FR 31720, July 3, 2019]

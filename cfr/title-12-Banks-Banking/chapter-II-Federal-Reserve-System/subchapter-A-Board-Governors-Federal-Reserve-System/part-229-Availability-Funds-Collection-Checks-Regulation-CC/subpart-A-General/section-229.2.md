@@ -1,5 +1,7 @@
 ##### § 229.2 Definitions. #####
 
+Link to an amendment published at 84 FR 31696, July 3, 2019.
+
 As used in this part, and unless the context requires otherwise, the following terms have the meanings set forth in this section, and the terms not defined in this section have the meanings set forth in the Uniform Commercial Code:
 
 (a) *Account.* (1) Except as provided in paragraphs (a)(2) and (a)(3) of this section, *account* means a deposit as defined in 12 CFR 204.2(a)(1)(i) that is a transaction account as described in 12 CFR 204.2(e). As defined in these sections, *account* generally includes accounts at a bank from which the account holder is permitted to make transfers or withdrawals by negotiable or transferable instrument, payment order of withdrawal, telephone transfer, electronic payment, or other similar means for the purpose of making payments or transfers to third persons or others. *Account* also includes accounts at a bank from which the account holder may make third party payments at an ATM, remote service unit, or other electronic device, including by debit card, but the term does not include savings deposits or accounts described in 12 CFR 204.2(d)(2) even though such accounts permit third party transfers. An account may be in the form of -

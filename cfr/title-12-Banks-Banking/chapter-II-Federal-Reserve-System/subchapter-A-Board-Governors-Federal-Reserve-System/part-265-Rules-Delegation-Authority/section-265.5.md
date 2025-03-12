@@ -28,13 +28,7 @@ The Secretary of the Board (or the Secretary's delegee) is authorized:
 
 (3) *Application approval under section 5(d)(3) of the FDI Act.* To approve applications pursuant to section 5(d)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1815(d)(3)), in those cases in which the appropriate Federal Reserve Bank concludes that, because of unusual considerations, or for other good cause, it should not take action.
 
-(d) *International banking* - (1) *Establishment of foreign branch or foreign agency or of Edge or Agreement Corporations.* To approve, under sections 25 and 25A of the Federal Reserve Act (12 U.S.C. 601 and 604) and Regulation K (12 CFR part 211), the establishment, directly or indirectly, of a foreign branch or agency by a member bank or an Edge or Agreement Corporation if all of the following conditions are met:
-
-(i) The appropriate Reserve Bank and relevant divisions of the Board's staff recommend approval;
-
-(ii) No significant policy issue is raised on which the Board has not expressed its view; and
-
-(iii) The application is not for the applicant's first full-service branch in a foreign country.
+(d) *International banking.* (1) [Reserved]
 
 (2) *Acquisition of foreign company or U.S. company financing exports.* To grant, under sections 25 and 25A of the Federal Reserve Act (12 U.S.C. 601 and 604) and section 4(c)(13) of the Bank Holding Company Act (12 U.S.C. 1843(c)(13)) and the Board's Regulations K and Y (12 CFR parts 211 and 225), specific consent to the acquisition, either directly or indirectly, by a member bank, an Edge or Agreement corporation, or a bank holding company of stock of a company chartered under the laws of a foreign country or a company chartered under the laws of a state of the United States that is organized and operated for the purpose of financing exports from the United States, and to approve any such acquisition that may exceed the limitations of section 25A of the Federal Reserve Act based on the company's capital and surplus, if all of the following conditions are met:
 
@@ -48,11 +42,7 @@ The Secretary of the Board (or the Secretary's delegee) is authorized:
 
 (B) The stock is being acquired from the parent bank or bank holding company, or subsidiary Edge or Agreement corporation, as the case may be, and the selling parent or subsidiary holds the stock with the consent of the Board pursuant to Regulations K and Y (12 CFR parts 211 and 225).
 
-(3) *Investments in Edge and Agreement Corporations.* To approve an application by a member bank to invest more than 10 percent of capital and surplus in Edge and agreement corporation subsidiaries, provided that:
-
-(i) The member bank's total investment, including the retained earnings of the Edge and agreement corporation subsidiaries, does not exceed 20 percent of the bank's capital and surplus or would not exceed that level as a result of the proposal; and
-
-(ii) The proposal raises no significant policy or supervisory issues.
+(3) [Reserved]
 
 (e) *Member banks* - (1) *Waiver of penalty for early withdrawals of time deposits.* To permit depository institutions to waive the penalty for early withdrawal of time deposits under section 19(j) of the Federal Reserve Act (12 U.S.C. 371b) and § 204.2 of Regulation D (12 CFR part 204) if the following conditions are met:
 
@@ -70,4 +60,4 @@ The Secretary of the Board (or the Secretary's delegee) is authorized:
 
 (2) The agreed-upon location does not raise any significant policy issues.
 
-[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 58 FR 26509, May 4, 1993; 62 FR 34617, June 27, 1997; 66 FR 58655, Nov. 23, 2001; 83 FR 9419, Mar. 6, 2018]
+[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 58 FR 26509, May 4, 1993; 62 FR 34617, June 27, 1997; 66 FR 58655, Nov. 23, 2001; 83 FR 9419, Mar. 6, 2018; 84 FR 31705, July 3, 2018]

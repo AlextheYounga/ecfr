@@ -2,7 +2,7 @@
 
 (a) *Individual members.* Any Board member designated by the Chairman is authorized:
 
-(1) *Approval of amendments to notice of charges or cease and desist orders.* To approve (after receiving recommendations of the Director of the Division of Banking Supervision and Regulation and the General Counsel) amendments to any notice, temporary order, or proposed order previously approved by the Board in a specific formal enforcement matter (including a notice of charges or removal notice) or any proposed or temporary cease and desist order previously approved by the Board under 12 U.S.C. 1818 (b) and (c).
+(1) *Approval of amendments to notice of charges or cease and desist orders.* To approve (after receiving recommendations of the Director of the Division of Supervision and Regulation and the General Counsel) amendments to any notice, temporary order, or proposed order previously approved by the Board in a specific formal enforcement matter (including a notice of charges or removal notice) or any proposed or temporary cease and desist order previously approved by the Board under 12 U.S.C. 1818 (b) and (c).
 
 (2) *Requests for permission to appeal rulings.* (i) To act, when requested by the Secretary, upon any request under § 263.10(e) of the Board's Rules of Practice for Hearings (12 CFR part 263) for special permission to appeal from a ruling of the presiding officer on any motion made at a hearing conducted under the rules, and if special permission is granted, the merits of the appeal shall be presented to the Board for decision.
 

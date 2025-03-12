@@ -24,7 +24,7 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (9) *Bank holding company's annual reports.* To grant to a bank holding company a 90-day extension of time in which to file an annual report, and for good cause shown grant an additional extension of time not to exceed 90 days under section 5(c) of the Bank Holding Company Act (12 U.S.C. 1844(c)).
 
-(10) *Regulation K - Divestiture of foreign portfolio investment, joint venture, or subsidiary acquired through debt previously contracted.* To extend the time within which an investor must divest itself of interests in a foreign portfolio investment, joint venture, or subsidiary acquired in satisfaction of a debt previously contracted under Regulation K (12 CFR 211.5(e)).
+(10) *Regulation K; divestiture of impermissible interests.* To extend the time within which an investor, under § 211.8(e) and (f) of Regulation K (12 CFR part 211), must divest of investments in entities engaged in impermissible activities or interests acquired to prevent a loss upon a debt previously contracted in good faith.
 
 (11) *Bank holding company's acquisition of shares, opening new bank, consummating merger.* To extend the time within which a bank holding company may acquire shares, open a new bank to be acquired, or consummante a merger in connection with an application approved by the Board, if no material change relevant to the proposal has occurred since its approval.
 
@@ -40,7 +40,7 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (14) *Federal Reserve Membership.* To extend the time within which Federal Reserve membership must be accomplished, if no material change has occurred in the bank's general condition since the application was approved.
 
-(15) *Enforcement actions; written agreements; cease and desist orders.* With the prior approval of both the Board's Director of the Division of Banking Supervision and Regulation and the Board's General Counsel;
+(15) *Enforcement actions; written agreements; cease and desist orders.* With the prior approval of both the Board's Director of the Division of Supervision and Regulation and the Board's General Counsel;
 
 (i) To enter into a written agreement with a bank holding company or any nonbanking subsidiary thereof, with a state member bank, or with any other person or entity subject to the Board's supervisory jurisdiction under 12 U.S.C. 1818(b) concerning the prevention or correction of an unsafe or unsound practice in conducting the business of the bank holding company, nonbanking subsidiary, or state member bank or other entity, or concerning the correction or prevention of any violation of law, rule, or regulation, or any condition imposed in writing by the Board in connection with the granting of any application or other request by the bank or company or any other appropriate matter;
 
@@ -50,11 +50,13 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (16) *Appointment of assistant Federal Reserve agents.* To approve the appointment of assistant Federal Reserve agents (including representatives or alternate representatives of such agents) under section 4, paragraph 21 of the Federal Reserve Act (12 U.S.C. 306).
 
+(17) *Modification of commitments.* To grant or deny requests for relieving or modifying (including extending the time for performing) a commitment relied upon by the Reserve Bank in taking any action under the Bank Holding Company Act, the Bank Merger Act, the Change in Bank Control Act of 1978, the Federal Reserve Act, the International Banking Act, the Federal Deposit Insurance Act, or the Home Owners' Loan Act, so long as the requests do not raise any significant legal, supervisory, or policy issues. In acting on such requests, the Reserve Bank may take into account changed circumstances and good faith efforts to fulfill the commitments, and shall consult with Board staff as appropriate. The Reserve Bank may not take any action that would be inconsistent with or result in an evasion of the provisions of the original action.
+
 (b) *Availability of Information* - (1) *Availability of Information; Board records.* To make available information of the Board of the nature and in the circumstances described in the Board's Rules Regarding Availability of Information (12 CFR 261.11).
 
 (2) [Reserved]
 
-(c) *Bank holding companies; Change in bank control; Mergers* - (1) *Require reports under oath.* To require reports under oath to determine whether a company is complying with section 5(c) of the Bank Holding Company Act (12 U.S.C. 1844(c)).
+(c) *Holding companies; change in bank control; mergers.* - (1) *Require reports under oath.* To require reports under oath to determine whether a company is complying with section 5(c) of the Bank Holding Company Act (12 U.S.C. 1844(c)).
 
 (2) *Acquisition of going concern - authorization of consummation; early consummation.* (i) To notify a bank holding company that, because the circumstances surrounding the application to acquire a going concern indicate that additional information is required or that the acquisition should be considered by the Board, the acquisition should not be consummated until specifically authorized by the Reserve Bank or by the Board.
 
@@ -90,7 +92,7 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (E) No significant policy issue under the change in Bank Control Act, 12 U.S.C. 1817(j) or § 225.41 of Regulation Y (12 CFR part 225) is raised by the proposal as to which the Board has not expressed its view.
 
-(6) *Failure to comply with publication requirement under change in Bank Control Act.* To waive, dispense with, modify, or excuse the failure to comply with the requirement for publication and solicitation of public comment regarding a notice filed under the Change in Bank Control Act, with the concurrence of the Board's Director of the Division of Banking Supervision and Regulation and the Board's General Counsel, provided that a written finding is made that such disclosure or solicitation would seriously threaten the safety or soundness of a bank holding company or bank under the Change in Bank Control Act (12 U.S.C. 1817(j)(2)).
+(6) *Failure to comply with publication requirement under change in Bank Control Act.* To waive, dispense with, modify, or excuse the failure to comply with the requirement for publication and solicitation of public comment regarding a notice filed under the Change in Bank Control Act, with the concurrence of the Board's Director of the Division of Supervision and Regulation and the Board's General Counsel, provided that a written finding is made that such disclosure or solicitation would seriously threaten the safety or soundness of a bank holding company or bank under the Change in Bank Control Act (12 U.S.C. 1817(j)(2)).
 
 (7) *Grandfathered nonbanking activities.* To determine under section 4(a)(2) of the Bank Holding Company Act (12 U.S.C. 1843(a)(2)) that termination of grandfathered nonbanking activities of a particular bank holding company is not warranted, provided the Reserve Bank is satisfied all of the following conditions are met:
 
@@ -120,51 +122,69 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (iv) The application raises a significant policy issue or legal question on which the Board has not established its position; or
 
-(v) With respect to bank holding company formations, bank acquisitions or mergers, the proposed transaction involves two or more banking organizations that, upon consummation of the proposal, would control over 35 percent of total deposits (including 50 percent of thrift deposits) in banking offices in the relevant geographic market, or would result in an increase of at least 200 points in the Herfindahl-Hirschman Index (HHI) in a highly concentrated market (a market with a post-merger HHI of at least 1800); or
+(v)(A) With respect to holding company formations, acquisitions or mergers of holding companies, or acquisitions or mergers of insured depository institutions, except as set forth in paragraph (c)(11)(v)(B) of this section, upon consummation, the proposal would result in the control by a banking organization of over 35 percent of total deposits in banking offices in the relevant geographic market or an increase of at least 200 points in the Herfindahl-Hirschman Index (HHI) for deposits in a highly concentrated market (a market with a post-merger HHI of at least 1800) when including:
+
+(*1*) All thrift deposits at 50 percent weight, except for deposits of thrifts determined by the Reserve Bank, with the concurrence of the Board's Division of Research and Statistics, to be commercially active, which are included at 100 percent weight; and
+
+(*2*) The deposits of credit unions determined by the Reserve Bank, with the concurrence of the Board's Division of Research and Statistics, to offer consumer banking products, operate street-level branches, and have broad membership criteria in the relevant geographic market, which are included at 50 percent weight; or
+
+(B) With respect to the formation of a savings and loan holding company, the merger of savings and loan holding companies, or the acquisition by a savings and loan holding company of a savings association, upon consummation, the proposal would result in the control by a banking organization of over 35 percent of total deposits in banking offices in the relevant geographic market or an increase of at least 200 points in the HHI for deposits in a highly concentrated market (a market with a post-merger HHI of at least 1800) when including:
+
+(*1*) All thrift deposits at 100 percent weight; and
+
+(*2*) The deposits of credit unions determined by the Reserve Bank, with the concurrence of the Board's Division of Research and Statistics, to offer consumer banking products, operate street-level branches, and have broad membership criteria in the relevant geographic market, which are included at 50 percent weight; or
 
 (vi) With respect to nonbank acquisitions, the nonbanking activities involved do not clearly fall within activities that the Board has designated as permissible for bank holding companies under § 225.25(b) of Regulation Y.
 
-(d) *International banking* - (1) *Application to establish Edge Corporation.* To approve the application by a U.S. banking organization to establish an Edge corporation under section 25 of the Federal Reserve Act (12 U.S.C. 611) and the Board's Regulation K (12 CFR part 211) if all of the following criteria are met:
+(12) *Waivers.* (i) To inform an acquiring bank holding company, in connection with a notice submitted by the bank holding company pursuant to 12 CFR 225.12(d)(2), that an application under 12 CFR 225.11 is required.
+
+(ii) To inform an acquiring savings and loan holding company, in connection with a notice submitted by the savings and loan holding company pursuant to 12 CFR 238.12(d)(1), that an application under 12 CFR 238.11 is required.
+
+(d) *International banking* - (1) *Member bank, Edge or agreement corporation establishing foreign branch.* With regard to a prior notice to establish a branch in a foreign country under § 211.3 of Regulation K (12 CFR part 211) -
+
+(i) To waive the notice period if immediate action is required and there is no significant legal, supervisory, or policy issue;
+
+(ii) To suspend the notice period;
+
+(iii) To determine not to object to the notice, provided that no significant legal, supervisory, or policy issue is raised by the proposal; or
+
+(iv) To require the notificant to file an application for the Board's specific consent.
+
+(2) *Acquisitions by a foreign branch.* To approve, under § 211.4(a)(8) of Regulation K (12 CFR part 211), a proposal by a foreign branch of a member bank to acquire all of the shares of a company that engages solely in activities in which the member bank is permitted to engage or that are incidental to the activities of the foreign branch, provided that no significant legal, supervisory, or policy issue is raised.
+
+(3) *Application to establish Edge corporation.* To approve the application by a U.S. banking organization to establish an Edge corporation under section 25A of the Federal Reserve Act (12 U.S.C. 611) and § 211.5 of the Board's Regulation K (12 CFR part 211) if all of the following criteria are met:
 
 (i) The U.S. banking organization meets the capital adequacy guidelines and is otherwise in satisfactory condition;
 
 (ii) The proposed Edge corporation will be a wholly-owned subsidiary of a single banking organization; and
 
-(iii) No other significant policy issue is raised on which the Board has not previously expressed its view.
+(iii) No significant legal, supervisory, or policy issues are raised by the proposal.
 
-(2) *Issuance of permit to Edge corporation to commence business.* To issue to an Edge corporation under section 25A of the Federal Reserve Act (12 U.S.C. 612) and Regulation K, § 211.4(a) (12 CFR part 211) a final permit to commence business and to approve amendments to the articles of association of any Edge corporation to reflect the following:
+(4) *Issuance of permit to Edge corporation and amendments to articles of association and charter.* To issue to an Edge corporation under section 25A of the Federal Reserve Act (12 U.S.C. 614) and § 211.5 of Regulation K (12 CFR part 211) a permit to commence business and to approve amendments to the articles of association and charter of an Edge corporation.
 
-(i) Any increase in capital stock where all additional shares are to be acquired by existing shareholders;
+(5) *Investments in Edge and agreement corporations.* To approve, pursuant to 211.5(a)(3) of Regulation K (12 CFR part 211) an application by a member bank to invest more than 10 percent of its capital and surplus in the aggregate amount of stock held in in all Edge or agreement corporations; provided that -
 
-(ii) Any change in the location of the home office in the city where the Edge corporation is presently located;
+(i) The member bank's total investment, including retained earnings of the Edge and agreement corporation, does not exceed 20 percent of the bank's capital and surplus and would not exceed that level as a result of the proposal; and
 
-(iii) Any change in the number of members of the board of directors;
+(ii) The proposal raises no significant legal, supervisory, or policy issues.
 
-(iv) Any change in the name; and
+(6) *Foreign ownership of an Edge corporation.* To approve, under § 211.5(d) of Regulation K (12 CFR part 211), a foreign institution's acquisition, directly or indirectly, of a majority of the shares of the capital stock of an Edge corporation, provided that no significant legal, supervisory, or policy issue is raised.
 
-(v) Deletion of the requirements that all directors and shareholders must be U.S. citizens.
+(7) *Change in control of an Edge corporation.* With regard to a notice to acquire, directly or indirectly, 25 percent or more of the voting securities, or to otherwise acquire control, of an Edge corporation, under § 211.5(e) of Regulation K (12 CFR part 211)-
 
-(3) *Edge corporation establishing branch abroad.* To approve, under § 211.3(a) Regulation K (12 CFR part 211), an Edge corporation application to establish a branch abroad, provided that no senior officer or director of the involved parties is also a director of a Reserve Bank or branch and that no significant policy issue is raised by the proposal as to which the Board has not expressed its view.
+(i) to waive the notice period if immediate action is required and no significant legal, supervisory, or policy issue is raised;
 
-(4) *Member bank establishing foreign branch.* To approve under § 211.3(a) of Regulation K (12 CFR part 211) a member bank's establishing, directly or indirectly, a foreign branch where the application is not one for a full-service branch in a foreign country, provided that no senior officer or director of the involved parties is also a director of a Reserve Bank or branch and that no significant policy issue is raised by the proposal as to which the Board has not expressed its view.
+(ii) To extend the notice period;
 
-(5) *Agreement with foreign bank concerning deposits of out-of-home-state branch.* To enter into an agreement or undertaking with a foreign bank that it shall receive only such deposits at its out-of-home-state branch as would be permissible for an Edge corporation under section 5 of the International Banking Act (12 U.S.C. 3103).
+(iii) To determine not to object to the notice if no significant legal, supervisory, or policy issue is raised; or
 
-(6) *Waiver of 30-day prior notification period.* To waive the 30-day prior notification period with respect to a foreign bank's change of home state under § 211.22(c)(1) of Regulation K (12 CFR part 211).
+(iv) To require the notificant to file an application for the Board's specific consent.
 
-(7) *Granting specific consent.* To grant prior specific consent to an investor for an investment in its first subsidiary or its first joint venture, where such investment does not exceed the general consent limitations under 211.5(c) of Regulation K (12 CFR part 211).
+(8) *Granting specific consent.* To grant prior specific consent to an investor for
 
-(8) *Authority under prior-notice procedures.* (i) With regard to a prior notice to make an investment under § 211.9(f) of Regulation K (12 CFR 211.9(f)):
+(i) A long range investment plan, under § 211.9(a)(4) of Regulation K (12 CFR part 211), and
 
-(A) To suspend the notice period; or
-
-(B) To require the notificant to file an application for the Board's specific consent.
-
-(ii) With regard to a prior notice of a foreign bank to establish certain U.S. offices under § 211.24(a)(2)(i) of Regulation K (12 CFR 211.24(a)(2)(i)):
-
-(A) To suspend the notice period; or
-
-(B) To require that the foreign bank file an application for the Board's specific consent.
+(ii) An investment in its first subsidiary or its first joint venture, under § 211.9(a)(5) of Regulation K (12 CFR part 211), where such investment does not exceed the general consent limitations under § 211.9(b) of Regulation K (12 CFR part 211).
 
 (9) *Investment in export trading company.* To issue a notice of intention not to disapprove a proposed investment in an export trading company if all the following criteria are met:
 
@@ -176,15 +196,47 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (iv) No other significant policy issue is raised on which the Board has not previously expressed its view under section 4(c)(14) of the Bank Holding Company Act (12 U.S.C. 1843(c)(14) and Regulation K (12 CFR 211.31-211.34).
 
-(10) *Futures commission merchant activities.* To approve, under § 211.5(d)(17) of Regulation K (12 CFR part 211), applications to engage in futures commission merchant activities on an exchange that requires members to guarantee or otherwise contract to cover losses suffered by the other members, provided that the Board has previously approved the exchange and the application is on the same terms and conditions on which the Board based its approval of the exchange.
+(10) *Authority under prior-notice procedures.* (i) With regard to a prior notice to make an investment under § 211.9(f) of Regulation K (12 CFR part 211) -
 
-(11) *Investments in Edge and agreement Corporation subsidiaries.* To approve an application by a member bank to invest more than 10 percent of capital and surplus in Edge and agreement corporation subsidiaries, provided that:
+(A) To waive the notice period if immediate action is required and there is no significant legal, supervisory, or policy issue raised;
 
-(i) The member bank's total investment, including the retained earnings of the Edge and agreement corporation subsidiaries, does not exceed 20 percent of the bank's capital and surplus or would not exceed that level as a result of the proposal; and
+(B) To suspend the notice period;
 
-(ii) The proposal raises no significant policy or supervisory issues.
+(C) To determine not to object to the notice if there is no significant legal, supervisory, or policy issue raised; or
 
-(12) *Amendments to Edge corporation charters.* To approve amendments to Edge corporation charters.
+(D) To require the notificant to file an application for the Board's specific consent.
+
+(ii) With regard to a prior notice of a foreign bank to establish certain U.S. offices under § 211.24(a)(2)(i) of Regulation K (12 CFR part 211) -
+
+(A) To waive the notice period if immediate action is required and there is no significant legal, supervisory, or policy issue raised;
+
+(B) To suspend the notice period;
+
+(C) To determine not to object to the notice if there is no significant legal, supervisory, or policy issue raised; or
+
+(D) To require the notificant to file an application for the Board's specific consent.
+
+(11) *Activities usual in connection with banking or other financial operations abroad.* (i) To approve a prior notice, under § 211.10(a)(14) of Regulation K (12 CFR part 211), to engage in underwriting and distribution of equity securities outside the United States, provided that the proposal raises no significant legal, supervisory, or policy issue.
+
+(ii) To approve a prior notice, under § 211.10(a)(15) of Regulation K (12 CFR part 211), to engage in dealing in equity securities outside the United States, provided that the proposal raises no significant legal, supervisory, or policy issue.
+
+(iii) To approve a prior notice, under § 211.10(a)(15)(iv)(B) of Regulation K (12 CFR part 211), to use internal hedging models, provided that the proposal raises no significant legal, supervisory, or policy issue.
+
+(iv) To approve a prior notice, under § 211.10(a)(18) of Regulation K (12 CFR part 211), to engage in futures commission merchant activities on an mutual exchange or clearinghouse that requires members to guarantee or otherwise contract to cover losses suffered by the other members, provided that the Board has previously approved the exchange, the application is on the same terms and conditions on which the Board based its approval of the exchange, and no significant legal, supervisory, or policy issue is raised.
+
+(12) *Change in foreign bank home state.* With respect to a foreign bank's change of home state under § 211.22(b) of Regulation K (12 CFR part 211) and provided no significant legal, supervisory, or policy issue is raised -
+
+(i) To waive the notice period; or
+
+(ii) To determine not to object to the notice.
+
+(13) *Waiver of 30-day prior notification period.* To waive the 30-day prior notification period with respect to a foreign bank's change of home state under § 211.22(c)(1) of Regulation K (12 CFR part 211).
+
+(14) *Offices of foreign banks.* (i) To approve the establishment of a branch, agency, commercial lending company, or representative office by a foreign bank in the United States, pursuant to § 211.24(a)(1) of Regulation K (12 CFR part 211), if the Board has already determined that the foreign bank is subject to consolidated comprehensive supervision and provided that the application raises no significant legal, supervisory, or policy issue.
+
+(ii) To allow a foreign bank to establish a temporary office of a branch or agency, pursuant to § 211.24(a)(5) of Regulation K (12 CFR part 211), provided there is no direct public access to such office and no significant legal, supervisory, or policy issue is raised.
+
+(15) *Agreement with foreign bank concerning deposits of out-of-home-state branch.* To enter into an agreement or undertaking with a foreign bank that it shall receive only such deposits at its out-of-home-state branch as would be permissible for an Edge corporation under section 5 of the International Banking Act (12 U.S.C. 3103).
 
 (e) *Member banks* - (1) *Approval of membership applications.* To approve applications for membership in the Federal Reserve System under section 9 of the Federal Reserve Act (12 U.S.C. 321 *et seq.*) and Regulation H (12 CFR part 208) if the Reserve Bank is satisfied that approval is warranted after considering the factors set forth in 12 CFR 208.3(b).
 
@@ -220,11 +272,9 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (11) *Retirement of subordinated debt.* To approve the retirement prior to maturity of capital notes described in § 204.2(a)(1)(vii)(C) of Regulation D (12 CFR part 204) and issued by a state member bank, provided the Reserve Bank is satisfied that the capital position of the bank will be adequate after the proposed redemption.
 
-(12) *Public welfare investments.* To permit a state member bank to make a public welfare investment that meets the conditions of 12 CFR 208.22(b)(1)-(3), (b)(5) and (b)(7), if the Reserve Bank is satisfied that:
+(12) *Public welfare investments.* (i) To permit a state member bank to make a public welfare investment in accordance with paragraph 23 of section 9 of the Federal Reserve Act (12 U.S.C. 338a), provided that the proposal satisfies 12 CFR 208.22(b)(1) and no significant legal, supervisory, or policy issue is raised; and
 
-(i) The state member bank received at least an overall rating of “3” as of its most recent consumer compliance examination; and
-
-(ii) The aggregate of all such investments of the state member bank does not exceed 10 percent of its capital stock and surplus as defined under 12 CFR 208.2(d).
+(ii) To determine, in connection with acting on a proposal pursuant to delegated authority as set forth in paragraph (e)(12)(i) of this section, that the aggregate amount of a state member bank's public welfare investments will not pose a significant risk to the deposit insurance fund in accordance with paragraph 23 of section 9 of the Federal Reserve Act (12 U.S.C. 338a).
 
 (f) *Securities.* To approve applications by a registered lender for termination of the registration under § 221.3(b)(2) of Regulation U (12 CFR 221.3(b)(2)).
 
@@ -232,4 +282,4 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (2) *Depository Institutions Management Interlocks Act.* After consultation with the General Counsel of the Board, to decide not to disapprove notices to establish director interlocks with diversified savings and loan holding companies. (12 U.S.C. 3204(8)).
 
-[56 FR 25619, June 5, 1991, as amended at 56 FR 67154, Dec. 30, 1991; 57 FR 11907, Apr. 8, 1992; 57 FR 40600, Sept. 4, 1992; 58 FR 6363, Jan. 28, 1993; 59 FR 22968, May 4, 1994; 60 FR 22257, May 5, 1995; 63 FR 2839, Jan. 16, 1998; 63 FR 58622, Nov. 2, 1998; 66 FR 54398, Oct. 26, 2001; 66 FR 58656, Nov. 23, 2001]
+[56 FR 25619, June 5, 1991, as amended at 56 FR 67154, Dec. 30, 1991; 57 FR 11907, Apr. 8, 1992; 57 FR 40600, Sept. 4, 1992; 58 FR 6363, Jan. 28, 1993; 59 FR 22968, May 4, 1994; 60 FR 22257, May 5, 1995; 63 FR 2839, Jan. 16, 1998; 63 FR 58622, Nov. 2, 1998; 66 FR 54398, Oct. 26, 2001; 66 FR 58656, Nov. 23, 2001; 84 FR 31705, July 3, 2019]

@@ -1,5 +1,7 @@
 ##### § 1030.7 Payment of interest. #####
 
+Link to an amendment published at 84 FR 31698, July 3, 2019.
+
 (a) *Permissible methods* - (1) *Balance on which interest is calculated.* Institutions shall calculate interest on the full amount of principal in an account for each day by use of either the daily balance method or the average daily balance method. Institutions shall calculate interest by use of a daily rate of at least1/365 of the interest rate. In a leap year a daily rate of1/366 of the interest rate may be used.
 
 (2) *Determination of minimum balance to earn interest.* An institution shall use the same method to determine any minimum balance required to earn interest as it uses to determine the balance on which interest is calculated. An institution may use an additional method that is unequivocally beneficial to the consumer.

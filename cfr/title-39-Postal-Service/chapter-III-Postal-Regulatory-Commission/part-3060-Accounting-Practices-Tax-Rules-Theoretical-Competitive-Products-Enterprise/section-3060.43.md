@@ -1,5 +1,7 @@
 ##### § 3060.43 Annual transfer from competitive products fund to Postal Service fund. #####
 
+Link to an amendment published at 84 FR 31738, July 3, 2019.
+
 (a) The Postal Service must on an annual basis transfer the assumed Federal income tax due on competitive products income from the Competitive Products Fund to the Postal Service Fund.
 
 (b) If the assumed taxable income from competitive products for a given fiscal year is positive, the assumed Federal income tax due, calculated pursuant to § 3060.40, shall be transferred to the Postal Service Fund no later than the January 15 following the close of the relevant fiscal year.

@@ -1,6 +1,6 @@
-##### § 265.7 Functions delegated to Director of Division of Banking Supervision and Regulation. #####
+##### § 265.7 Functions delegated to Director of Division of Supervision and Regulation. #####
 
-The Board's Director of the Division of Banking Supervision and Regulation (or the Director's delegee) is authorized:
+The Board's Director of the Division of Supervision and Regulation (or the Director's delegee) is authorized:
 
 (a) *Procedure* - (1) *Cease and desist orders.* To refuse, with the prior concurrence of the appropriate Reserve Bank and the Board's General Counsel, an application to the Board to stay, modify, terminate, or set aside any effective cease and desist order previously issued by the Board under section 8(b) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)), or any written agreement between the Board or the Reserve Bank and a bank holding company or any nonbanking subsidiary thereof or a state member bank.
 
@@ -30,91 +30,21 @@ The Board's Director of the Division of Banking Supervision and Regulation (or t
 
 (6) *Appraisal not required.* To determine pursuant to 12 CFR 225.63(b)(12) that the services of an appraiser are not necessary in order to protect Federal financial and public policy interests in real estate-related financial transactions or to protect the safety and soundness of an institution.
 
-(d) *International banking* - (1) *Foreign bank reports.* To require submission of a report of condition respecting any foreign bank in which a member bank holds stock acquired under § 211.5(b) of Regulation K (12 CFR part 211) and section 25 of the Federal Reserve Act (12 U.S.C. 602).
+(d) *International banking* - (1) *Foreign bank reports.* To require submission of a report of condition respecting any foreign bank in which a member bank holds stock acquired under § 211.8(b) of Regulation K (12 CFR part 211), pursuant to section 25 of the Federal Reserve Act (12 U.S.C. 602).
 
 (2) *Edge corporation reports.* To require submission and publication of reports by an Edge corporation under section 25A of the Federal Reserve Act (12 U.S.C. 625).
 
-(3) *Capital stock of Edge corporation; articles of association; additional investments in Agreement corporation.* To approve under sections 25 and 25A as of the Federal Reserve Act (12 U.S.C. 601 and 604), increases and decreases in the capital stock of and amendments to the articles of association of an Edge corporation and additional investments by a member bank in the stock of an Agreement corporation.
+(3) With the concurrence of the General Counsel, to approve applications, notices, exemption requests, waivers and suspensions, and other related matters under Regulation K (12 CFR part 211), where such matters do not raise any significant legal, supervisory, or policy issues.
 
-(4) *Authority under general-consent and prior-notice procedures.* (i) With regard to a prior notice to establish a branch in a foreign country under § 211.3 of Regulation K (12 CFR 211.3):
-
-(A) To waive the notice period;
-
-(B) To suspend the notice period;
-
-(C) To determine not to object to the notice; or
-
-(D) To require the notificant to file an application for the Board's specific consent.
-
-(ii) With regard to a prior notice to make an investment under § 211.9(f) of Regulation K (12 CFR 211.9(f)):
-
-(A) To waive the notice period;
-
-(B) To suspend the notice period; or
-
-(C) To require the notificant to file an application for the Board's specific consent.
-
-(iii) With regard to a prior notice of a foreign bank to establish certain U.S. offices under § 211.24(a)(2)(i) of Regulation K (12 CFR 211.24(a)(2)(i)):
-
-(A) To waive the notice period;
-
-(B) To suspend the notice period; or
-
-(C) To require the notificant to file an application for the Board's specific consent.
-
-(iv) To suspend the ability:
-
-(A) Of a foreign banking organization to establish an office under the prior-notice procedures in § 211.24(a)(2)(i) of Regulation K (12 CFR 211.24(a)(2)(i)) or the general-consent procedures in § 211.24(a)(3) of Regulation K (12 CFR 211.24(a)(3));
-
-(B) Of a U.S. banking organization to establish a foreign branch under the prior-notice or general-consent procedures in § 211.3(b) of Regulation K (12 CFR 211.3(b));
-
-(C) Of an investor to make investments under the general-consent or prior-notice procedures in § 211.9 of Regulation K (12 CFR 211.9); and
-
-(D) Of an eligible investor to make an investment in an export trading company under the general-consent procedures in § 211.34(b) of Regulation K (12 CFR 211.34(b)).
-
-(5) *Investment by foreign subsidiaries in U.S. affiliates.* To permit, after consultation with the Board's General Counsel, a foreign subsidiary of a bank holding company to invest in shares of a U.S. affiliate of the bank holding company where the investment is made as part of an internal corporate reorganization or an internal transfer of funds, subject to any conditions and terms the Director and General Counsel deem appropriate and consistent with the purposes of Regulation K (12 CFR part 211).
+(4)-(5) [Reserved]
 
 (6) *Allocated transfer risk reserves.* To determine the need for establishing and the amount of any allocated transfer risk reserve against specific international assets, and notify the banking institutions of the determination and the amount of the reserve and whether the reserve may be reduced under subpart D of Regulation K (12 CFR part 211).
 
-(7) *Underwriting and dealing authority outside the United States; hedging techniques.* To approve, under § 211.5(d)(14) of Regulation K (12 CFR part 211):
-
-(i) Requests for authority to engage in the activities of underwriting, distributing, and dealing in shares outside the United States, provided that the Director has determined that the internal procedures and operations of the organization and the effect of the proposed activities on capital adequacy are consistent with approval.
-
-(ii) Hedging methods authorized under § 211.5(d)(14)(iii)(A) of Regulation K (12 CFR part 211).
+(7) [Reserved]
 
 (8) *Conduct and coordination of examinations.* To authorize the conduct of examinations of the U.S. offices and affiliates of foreign banks as provided in sections 7(c) and 10(c) of the IBA (12 U.S.C. 3105(c), 3107(c)), and, where appropriate, to coordinate those examinations with examinations of the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the state entity that is authorized to supervise or regulate a state branch, state agency, commercial lending company, or representative office.
 
-(9) *Allowing use of general-consent procedures.* To allow an investor that is not well-capitalized and well-managed to make investments under the general-consent procedures in § 211.9 or 211.34(b) of Regulation K (12 CFR 211.9 or 211.34(b)), provided that:
-
-(i) The investor has implemented measures to become well-capitalized and well-managed;
-
-(ii) Granting such authority raises no significant policy or supervisory concerns; and
-
-(iii) Authority granted by the Director under this paragraph (d)(9) expires after one year, but may be renewed.
-
-(10) *Exceeding general-consent investment limits.* To allow an investor to exceed the general-consent investment limits under § 211.9 of Regulation K (12 CFR 211.9), provided that:
-
-(i) The investor demonstrates adequate financial and managerial strength;
-
-(ii) The investor's investment strategy is not unsafe or unsound;
-
-(iii) Granting such authority raises no significant policy or supervisory concerns; and
-
-(iv) Authority granted by the Director under this paragraph (d)(10) expires after one year, but may be renewed.
-
-(11) *Approval of temporary U.S. offices.* To allow a foreign bank to operate a temporary office in the United States, pursuant to § 211.24 of Regulation K (12 CFR 211.24), provided that:
-
-(i) There is no direct public access to such office, with respect to any branch or agency function; and
-
-(ii) The proposal raises no significant policy or supervisory issues.
-
-(12) With the concurrence of the General Counsel, to approve applications, notices, exemption requests, waivers and suspensions, and other related matters under Regulation K (12 CFR part 211), where such matters do not raise any significant policy or supervisory issues.
-
-(13) With the concurrence of the General Counsel, to approve:
-
-(i) The establishment by a bank holding company or member bank of an agreement corporation under section 25 of the Federal Reserve Act; and
-
-(ii) Any initial investment associated with the establishment of such agreement corporation.
+(9)-(13) [Reserved]
 
 (14) With the concurrence of the General Counsel, to determine that an election by a foreign bank to become or to be treated as a financial holding company is effective, provided that:
 
@@ -133,6 +63,10 @@ The Board's Director of the Division of Banking Supervision and Regulation (or t
 (5) *Capital stock reduction; branch applications; declaration of dividends; investment in bank premises.* To exercise the functions described in § 265.11(e)(5), (11), and (12) of this part (reductions in capital, issuance of subordinated debt, and early retirement of subordinated debt) when the conditions specified in those sections preclude a Reserve Bank from acting on a member bank's request for action or when the Reserve Bank concludes that it should not take action, and to exercise the functions in § 265.11(e)(3), (4), and (7) of this part (approving branch applications, declaration of dividends, and investment in bank premises) in cases in which the Reserve Bank concludes that it should not take action.
 
 (6) *Security devices; Regulation P.* To exercise the functions described in § 265.11(e)(8) of this part in those cases in which the appropriate Reserve Bank concludes that it should not take action for good cause.
+
+(7) *Public welfare investments.* (i) To permit a state member bank to make a public welfare investment in accordance with paragraph 23 of section 9 of the Federal Reserve Act (12 U.S.C. 338a) in any case in which the appropriate Reserve Bank does not have delegated authority to act, unless the proposal does not satisfy 12 CFR 208.22(b)(1). In acting on such requests, the Director shall consult with the directors of other interested divisions where appropriate; and
+
+(ii) To determine, in connection with acting on a proposal pursuant to delegated authority as set forth in paragraph (e)(7)(i) of this section, that the aggregate amount of a state member bank's public welfare investments will not pose a significant risk to the deposit insurance fund in accordance with paragraph 23 of section 9 of the Federal Reserve Act (12 U.S.C. 338a).
 
 (f) *Securities* - (1) *Registration statements by member banks.* Under section 12(g) of the Securities Exchange Act (15 U.S.C. 78*l*(g)):
 
@@ -170,4 +104,4 @@ The Board's Director of the Division of Banking Supervision and Regulation (or t
 
 (10) *Lists of OTC and foreign margin stocks.* To approve issuance of the lists of OTC margin stocks and foreign margin stocks and add, omit, or remove any stock in circumstances indicating that such change is necessary or appropriate in the public interest under § 207.6(d) of Regulation G (12 CFR part 207), § 220.17(f) of Regulation T (12 CFR part 220), or § 221.7(d) of Regulation U (12 CFR part 221).
 
-[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 57 FR 13002, Apr. 15, 1992; 58 FR 6363, Jan. 28, 1993; 58 FR 26509, May 4, 1993; 62 FR 64996, Dec. 9, 1997; 63 FR 58621, Nov. 2, 1998; 66 FR 54397, Oct. 26, 2001]
+[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 57 FR 13002, Apr. 15, 1992; 58 FR 6363, Jan. 28, 1993; 58 FR 26509, May 4, 1993; 62 FR 64996, Dec. 9, 1997; 63 FR 58621, Nov. 2, 1998; 66 FR 54397, Oct. 26, 2001; 84 FR 31705, July 3, 2019]
