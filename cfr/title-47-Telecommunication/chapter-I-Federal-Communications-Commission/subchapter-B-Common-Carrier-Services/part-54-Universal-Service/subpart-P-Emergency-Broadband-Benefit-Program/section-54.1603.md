@@ -1,0 +1,7 @@
+##### § 54.1603 Emergency Broadband Benefit Program support amount. #####
+
+(a) The Emergency Broadband Benefit Program support amount for all participating providers shall equal the actual discount provided to an eligible household off of the actual amount charged to such household, which shall be no more than the standard rate for an internet service offering and associated equipment, but not more than $50.00 per month, if that provider certifies that it will pass through the full amount of support to the eligible household, or not more than $75.00 per month, if that provider certifies that it will pass through the full amount of support to the eligible household on Tribal lands, as defined in 47 CFR 54.1600(t).
+
+(b) A participating provider that, in addition to providing the Emergency Broadband Benefit Program to an eligible household, supplies such household with a connected device may be reimbursed up to $100.00 for such connected device, if the charge to such eligible household is more than $10.00 but less than $50.00 for such connected device, except that a participating provider may receive reimbursement for no more than one (1) connected device per eligible household.
+
+(c) If the amount of funding remaining in the Emergency Broadband Connectivity Fund is less than the total amount of valid reimbursement claims in the Emergency Broadband Benefit Program, the support amount for all participating providers submitting valid reimbursement claims for a month may be less than the full support amount permitted under this section.

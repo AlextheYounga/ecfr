@@ -1,11 +1,11 @@
 ##### § 250.2b Carriers to request volunteers for denied boarding. #####
 
-Link to an amendment published at 86 FR 2538, Jan. 13, 2021.
-
 (a) In the event of an oversold flight, every carrier shall request volunteers for denied boarding before using any other boarding priority. A “volunteer” is a person who responds to the carrier's request for volunteers and who willingly accepts the carriers' offer of compensation, in any amount, in exchange for relinquishing the confirmed reserved space. Any other passenger denied boarding is considered for purposes of this part to have been denied boarding involuntarily, even if that passenger accepts the denied boarding compensation.
 
 (b) Every carrier shall advise each passenger solicited to volunteer for denied boarding, no later than the time the carrier solicits that passenger to volunteer, whether he or she is in danger of being involuntarily denied boarding and, if so, the compensation the carrier is obligated to pay if the passenger is involuntarily denied boarding. If an insufficient number of volunteers come forward, the carrier may deny boarding to other passengers in accordance with its boarding priority rules.
 
 (c) If a carrier offers free or reduced rate air transportation as compensation to volunteers, the carrier must disclose all material restrictions, including but not limited to administrative fees, advance purchase or capacity restrictions, and blackout dates applicable to the offer before the passenger decides whether to give up his or her confirmed reserved space on the flight in exchange for the free or reduced rate transportation. If the free or reduced rate air transportation is offered orally to potential volunteers, the carrier shall also orally provide a brief description of the material restrictions on that transportation at the same time that the offer is made.
 
-[ER-1337, 48 FR 29680, June 28, 1983, as amended at 68 FR 52836, Sept. 8, 2003; Doc. No. OST-01-9325, 73 FR 21034, Apr. 18, 2008; Doc. No. DOT-OST-2010-0140, 76 FR 23161, Apr. 25, 2011; Docket No. DOT-OST-2014-0056, 81 FR 76827, Nov. 3, 2016]
+(d) Carriers must proactively offer to pay compensation to a passenger who is voluntarily or involuntarily denied boarding on an oversold flight, rather than waiting until the passenger requests the compensation.
+
+[ER-1337, 48 FR 29680, June 28, 1983, as amended at 68 FR 52836, Sept. 8, 2003; Doc. No. OST-01-9325, 73 FR 21034, Apr. 18, 2008; Doc. No. DOT-OST-2010-0140, 76 FR 23161, Apr. 25, 2011; Docket No. DOT-OST-2014-0056, 81 FR 76827, Nov. 3, 2016; Doc. No. DOT-OST-2020-0251, 86 FR 2538, Jan. 13, 2021]

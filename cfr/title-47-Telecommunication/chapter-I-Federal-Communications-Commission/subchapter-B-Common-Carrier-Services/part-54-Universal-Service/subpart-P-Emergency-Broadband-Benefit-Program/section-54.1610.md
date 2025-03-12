@@ -1,0 +1,9 @@
+##### § 54.1610 Expiration of Emergency Broadband Benefit Program. #####
+
+(a) Prior to the conclusion of the Emergency Broadband Benefit Program, the Administrator will notify participating providers of the projected final service month for which participating providers will be eligible to receive reimbursement for valid reimbursement claims submitted pursuant to 47 CFR 54.1608. In that final month when valid reimbursement claims exceed remaining funds, the amount disbursed for both service and connected device claims to participating providers will be reduced on a pro-rata basis but will be no less than 50% of the total support amount for timely filed claims for service and connected devices provided to households.
+
+(b) Concurrent with release of the notice by the Administrator pursuant to paragraph (a) of this section, no new households shall be enrolled in the Emergency Broadband Benefit Program.
+
+(c) No later than 15 days after the Administrator provides notice pursuant to paragraph (a) of this section, participating providers shall give notice to subscribers receiving the Emergency Broadband Benefit of the last date or service month that the full benefit will apply to the household's bill, the last date or service month that the partial, final-month benefit will apply to their bill, and the expected rate of the broadband service once the benefit expires.
+
+(d) At least 30 days before the end of the Emergency Broadband Benefit Program, as indicated in the notice sent by the Administrator pursuant to paragraph (a) of this section, participating providers must notify households about the upcoming end to the Emergency Broadband Benefit Program and clearly state that the household will be subject to the participating provider's generally applicable terms and conditions at the conclusion of the Emergency Broadband Benefit Program if the household elects to continue receiving broadband service from the participating provider.

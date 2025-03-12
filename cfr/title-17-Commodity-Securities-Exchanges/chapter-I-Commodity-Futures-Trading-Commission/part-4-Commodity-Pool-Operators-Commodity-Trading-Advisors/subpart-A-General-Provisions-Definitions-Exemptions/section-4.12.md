@@ -1,5 +1,7 @@
 ##### § 4.12 Exemption from provisions of part 4. #####
 
+Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
+
 (a) *In general.* (1) The Commission may exempt any person or any class or classes of persons from any provision of this part 4 if it finds that the exemption is not contrary to the public interest and the purposes of the provisions from which the exemption is sought.
 
 (2) The Commission may grant the exemption subject to such terms and conditions as it may find appropriate.

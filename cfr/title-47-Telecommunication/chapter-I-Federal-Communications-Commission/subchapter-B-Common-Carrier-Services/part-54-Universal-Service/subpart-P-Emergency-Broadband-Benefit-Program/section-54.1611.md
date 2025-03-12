@@ -1,0 +1,3 @@
+##### § 54.1611 Recordkeeping requirements. #####
+
+Participating providers must maintain records to document compliance with all Commission requirements governing the Emergency Broadband Benefit Program for the six full preceding calendar years and provide that documentation to the Commission or Administrator upon request. Participating providers must maintain the documentation related to the eligibility determination and reimbursement claims for an Emergency Broadband Benefit Program subscriber for as long as the subscriber receives the Emergency Broadband Benefit discount from that participating provider, but for no less than the six full preceding calendar years.

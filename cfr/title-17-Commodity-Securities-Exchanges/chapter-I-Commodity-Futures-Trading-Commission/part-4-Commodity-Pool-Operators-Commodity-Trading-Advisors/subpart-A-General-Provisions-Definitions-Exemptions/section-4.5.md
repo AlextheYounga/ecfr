@@ -1,5 +1,7 @@
 ##### § 4.5 Exclusion for certain otherwise regulated persons from the definition of the term “commodity pool operator.” #####
 
+Link to an amendment published at 86 FR 19420, Apr. 13, 2021.
+
 (a) Subject to compliance with the provisions of this section, the following persons, and any principal or employee thereof, shall be excluded from the definition of the term “commodity pool operator” with respect to the operation of a qualifying entity specified in paragraph (b) of this section:
 
 (1) An investment adviser registered under the Investment Advisers Act of 1940, as amended;
