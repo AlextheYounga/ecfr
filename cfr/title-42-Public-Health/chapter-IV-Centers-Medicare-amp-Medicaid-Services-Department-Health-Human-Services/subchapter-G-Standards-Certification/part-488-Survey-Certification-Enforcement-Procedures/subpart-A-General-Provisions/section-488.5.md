@@ -1,5 +1,7 @@
 ##### § 488.5 Application and re-application procedures for national accrediting organizations. #####
 
+Link to an amendment published at 83 FR 56631, Nov. 13, 2018.
+
 (a) *Information submitted with application.* A national accrediting organization applying to CMS for approval or re-approval of an accreditation program under § 488.4 must furnish CMS with all of the following information and materials to demonstrate that the program provides reasonable assurance that the entities accredited under the program meet or exceed the applicable Medicare conditions or requirements. This information must include the following:
 
 (1) Documentation that demonstrates the organization meets the definition of a “national accrediting organization” under § 488.1 as it relates to the accreditation program.

@@ -1,5 +1,7 @@
 ##### § 484.230 Methodology used for the calculation of the low-utilization payment adjustment. #####
 
+Link to an amendment published at 83 FR 56629, Nov. 13, 2018.
+
 An episode with four or fewer visits is paid the national per-visit amount by discipline updated annually by the applicable market basket for each visit type. The national per-visit amount is determined by using cost data set forth in § 484.210(a) and adjusting by the appropriate wage index based on the site of service for the beneficiary. For 2008 and subsequent calendar years, an amount will be added to low-utilization payment adjustments for low-utilization episodes that occur as the beneficiary's only episode or initial episode in a sequence of adjacent episodes. For purposes of the home health PPS, a sequence of adjacent episodes for a beneficiary is a series of claims with no more than 60 days without home care between the end of one episode, which is the 60th day (except for episodes that have been PEP-adjusted), and the beginning of the next episode.
 
 [65 FR 41212, July 3, 2000, as amended at 72 FR 69879, Aug. 29, 2007; 80 FR 68717, Nov. 5, 2015]

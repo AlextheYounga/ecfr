@@ -1,5 +1,7 @@
 ##### § 484.240 Methodology used for the calculation of the outlier payment. #####
 
+Link to an amendment published at 83 FR 56630, Nov. 13, 2018.
+
 (a) CMS makes an outlier payment for an episode whose estimated cost exceeds a threshold amount for each case-mix group.
 
 (b) The outlier threshold for each case-mix group is the episode payment amount for that group, or the PEP adjustment amount for the episode, plus a fixed dollar loss amount that is the same for all case-mix groups.

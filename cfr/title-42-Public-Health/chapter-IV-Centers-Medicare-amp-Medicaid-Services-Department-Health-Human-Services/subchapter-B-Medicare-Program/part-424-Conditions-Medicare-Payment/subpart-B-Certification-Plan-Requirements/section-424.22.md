@@ -1,5 +1,7 @@
 ##### § 424.22 Requirements for home health services. #####
 
+Link to an amendment published at 83 FR 56627, November 13, 2018.
+
 Medicare Part A or Part B pays for home health services only if a physician certifies and recertifies the content specified in paragraphs (a)(1) and (b)(2) of this section, as appropriate.
 
 (a) *Certification* - (1) *Content of certification.* As a condition for payment of home health services under Medicare Part A or Medicare Part B, a physician must certify the patient's eligibility for the home health benefit, as outlined in sections 1814(a)(2)(C) and 1835(a)(2)(A) of the Act, as follows in paragraphs (a)(1)(i) through (v) of this section. The patient's medical record, as specified in paragraph (c) of this section, must support the certification of eligibility as outlined in paragraph (a)(1)(i) through (v) of this section.

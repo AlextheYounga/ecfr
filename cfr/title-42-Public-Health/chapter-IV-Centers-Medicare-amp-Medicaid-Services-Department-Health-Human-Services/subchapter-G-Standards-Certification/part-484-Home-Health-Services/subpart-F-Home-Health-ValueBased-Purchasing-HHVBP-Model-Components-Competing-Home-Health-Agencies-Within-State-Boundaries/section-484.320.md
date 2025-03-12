@@ -1,5 +1,7 @@
 ##### § 484.320 Calculation of the Total Performance Score. #####
 
+Link to an amendment published at 83 FR 56630, Nov. 13, 2018.
+
 A competing home health agency's Total Performance Score for a model year is calculated as follows:
 
 (a) CMS will award points to the competing home health agency for performance on each of the applicable measures excluding the New Measures.

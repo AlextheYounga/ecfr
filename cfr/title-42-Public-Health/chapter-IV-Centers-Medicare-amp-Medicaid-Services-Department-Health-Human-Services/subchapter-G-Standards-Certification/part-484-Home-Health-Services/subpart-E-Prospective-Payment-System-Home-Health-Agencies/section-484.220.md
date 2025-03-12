@@ -1,5 +1,7 @@
 ##### § 484.220 Calculation of the adjusted national prospective 60-day episode payment rate for case-mix and area wage levels. #####
 
+Link to an amendment published at 83 FR 56629, Nov. 13, 2018.
+
 CMS adjusts the national prospective 60-day episode payment rate to account for the following:
 
 (a) HHA case-mix using a case-mix index to explain the relative resource utilization of different patients. To address changes to the case-mix that are a result of changes in the coding or classification of different units of service that do not reflect real changes in case-mix, the national prospective 60-day episode payment rate will be adjusted downward as follows:

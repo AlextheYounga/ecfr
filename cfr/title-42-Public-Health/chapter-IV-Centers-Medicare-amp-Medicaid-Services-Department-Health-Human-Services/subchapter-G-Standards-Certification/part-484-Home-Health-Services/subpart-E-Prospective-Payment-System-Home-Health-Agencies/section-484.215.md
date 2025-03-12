@@ -1,5 +1,7 @@
 ##### § 484.215 Initial establishment of the calculation of the national 60-day episode payment. #####
 
+Link to an amendment published at 83 FR 56629, Nov. 13, 2018.
+
 (a) *Determining an HHA's costs.* In calculating the initial unadjusted national 60-day episode payment applicable for a service furnished by an HHA using data on the most recent available audited cost reports, CMS determines each HHA's costs by summing its allowable costs for the period. CMS determines the national mean cost per visit.
 
 (b) *Determining HHA utilization.* In calculating the initial unadjusted national 60-day episode payment, CMS determines the national mean utilization for each of the six disciplines using home health claims data.

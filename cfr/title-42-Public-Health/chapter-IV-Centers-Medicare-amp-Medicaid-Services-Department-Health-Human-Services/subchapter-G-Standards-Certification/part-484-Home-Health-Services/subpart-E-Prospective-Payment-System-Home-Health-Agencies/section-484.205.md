@@ -1,5 +1,7 @@
 ##### § 484.205 Basis of payment. #####
 
+Link to an amendment published at 83 FR 56628, Nov. 13, 2018.
+
 (a) *Method of payment.* An HHA receives a national prospective 60-day episode payment of a predetermined rate for a home health service previously paid on a reasonable cost basis (except the osteoporosis drug defined in section 1861(kk) of the Act) as of August 5, 1997. The national 60-day episode payment is determined in accordance with § 484.215. The national prospective 60-day episode payment is subject to the following adjustments and additional payments:
 
 (1) A low-utilization payment adjustment (LUPA) of a predetermined per-visit rate as specified in § 484.230.

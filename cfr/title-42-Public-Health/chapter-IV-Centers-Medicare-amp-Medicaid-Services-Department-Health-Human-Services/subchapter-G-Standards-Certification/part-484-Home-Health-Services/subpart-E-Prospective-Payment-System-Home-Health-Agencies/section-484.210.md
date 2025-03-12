@@ -1,5 +1,7 @@
 ##### § 484.210 Data used for the calculation of the national prospective 60-day episode payment. #####
 
+Link to an amendment published at 83 FR 56629, Nov. 13, 2018.
+
 To calculate the national prospective 60-day episode payment, CMS uses the following:
 
 (a) Medicare cost data on the most recent audited cost report data available.
