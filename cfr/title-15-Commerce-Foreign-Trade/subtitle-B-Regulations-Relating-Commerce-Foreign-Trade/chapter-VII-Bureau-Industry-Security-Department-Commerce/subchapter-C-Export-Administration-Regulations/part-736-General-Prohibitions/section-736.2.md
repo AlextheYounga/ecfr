@@ -66,7 +66,11 @@
 
 (v) 9x515 and “600 series” foreign-produced direct products of U.S. “technology” or “software” subject to this General Prohibition Three do not require a license for reexport or export from abroad to the new destination unless the same item, if exported from the U.S. to the new destination would have been prohibited or made subject to a license requirement by part 742, 744, 746, or 764 of the EAR.
 
-(vi) *Criteria for prohibition relating to parties on Entity List.* You may not reexport, export from abroad, or transfer (in-country) without a license or license exception any foreign-produced item controlled under footnote 1 of Supplement No. 4 to part 744 (“Entity List”) when there is “knowledge” that the foreign-produced item is destined to any entity with a footnote 1 designation in the license requirement column of the Entity List.
+(vi) *Criteria for prohibition relating to parties on Entity List.* You may not reexport, export from abroad, or transfer (in-country) without a license or license exception any foreign-produced item controlled under footnote 1 of supplement no. 4 to part 744 (“Entity List”) when there is “knowledge” that:
+
+(A) The foreign-produced item will be incorporated into, or will be used in the “production” or “development” of any “part,” “component,” or “equipment” produced, purchased, or ordered by any entity with a footnote 1 designation in the license requirement column of this supplement; or
+
+(B) Any entity with a footnote 1 designation in the license requirement column of this supplement is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
 
 (vii) *License exceptions.* All license exceptions described in part 740 of the EAR are available for foreign-produced items that are subject to the EAR pursuant to paragraphs (b)(3)(i) through (v) of this section if all terms and conditions of the pertinent license exception terms and conditions are met and the restrictions in § 740.2 do not apply. For foreign-produced items that are subject to the EAR pursuant to paragraph (b)(3)(vi) of this section, license exceptions are available only as set forth in part 740 of the EAR pursuant to § 744.11(a), *i.e.,* the license requirement column for the entity, if all terms and conditions of the pertinent license exception are met and the restrictions in § 740.2 do not apply.
 

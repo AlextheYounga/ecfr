@@ -1,5 +1,7 @@
 ##### § 76.970 Commercial leased access rates. #####
 
+Link to an amendment published at 85 FR 51367, Aug. 20, 2020.
+
 (a) Cable operators shall designate channel capacity for commercial use by persons unaffiliated with the operator, and that seek to lease a programming channel on a full-time basis, in accordance with the requirement of 47 U.S.C. 532. For purposes of 47 U.S.C. 532(b)(1)(A) and (B), only those channels that must be carried pursuant to 47 U.S.C. 534 and 535 qualify as channels that are required for use by Federal law or regulation. For cable systems with 100 or fewer channels, channels that cannot be used due to technical and safety regulations of the Federal Government (e.g., aeronautical channels) shall be excluded when calculating the set-aside requirement.
 
 (b) In determining whether an entity is an “affiliate” for purposes of commercial leased access, entities are affiliated if either entity has an attributable interest in the other or if a third party has an attributable interest in both entities.

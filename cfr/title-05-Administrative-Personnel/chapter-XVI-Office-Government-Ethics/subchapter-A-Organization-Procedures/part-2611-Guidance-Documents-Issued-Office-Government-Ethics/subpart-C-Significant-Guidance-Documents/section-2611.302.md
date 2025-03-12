@@ -1,0 +1,7 @@
+##### § 2611.302 Public notice and comment on significant guidance documents. #####
+
+(a) *Public notice and comment.* Except as provided in paragraph (c) of this section, proposed OGE guidance documents that have been deemed significant guidance documents will be published in the Federal Register and interested persons will be invited to provide public comment in the form of written data, views, or arguments for or against the proposed significant guidance document. The comment period on guidance documents will be open for a minimum of 30 days. OGE will also post draft significant guidance documents on its website.
+
+(b) *Responses to comments.* OGE will respond to major concerns raised in public comments received. Responses and comments will be posted to OGE's website, either before or at the time that the final significant guidance documents is issued.
+
+(c) *Exemption for good cause shown.* The requirements of paragraph (a) of this section will not apply to any significant guidance document or categories of significant guidance documents for which OGE finds, in coordination with the Office of Management and Budget, good cause that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest. Significant guidance documents that are issued without public notice and comment under this paragraph shall include the finding of good cause and a brief statement or reasons thereof.

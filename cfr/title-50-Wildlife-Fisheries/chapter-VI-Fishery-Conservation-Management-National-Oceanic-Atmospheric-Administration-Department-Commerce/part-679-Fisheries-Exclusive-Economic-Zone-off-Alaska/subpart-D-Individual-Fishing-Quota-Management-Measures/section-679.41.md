@@ -1,7 +1,5 @@
 ##### § 679.41 Transfer of quota shares and IFQ. #####
 
-Link to an amendment published at 85 FR 44024, July 21, 2020.
-
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, transfer of QS or IFQ means any transaction requiring QS, or the use thereof in the form of IFQ, to pass from one person to another, permanently or for a fixed period of time.
 
 (2) Transactions requiring IFQ permits to be issued in the name of a hired master employed by an individual or a corporation are not transfers of QS or IFQ.
@@ -300,13 +298,13 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (iv) Be in active duty military service as that term is defined at 10 U.S.C. 101(d)(1), be under a call to active service authorized by the President or the Secretary for a period of more than 30 consecutive days under 32 U.S.C. 502(f), or in the case of a member of a reserve component, have been ordered to report for military service beginning on the date of the member's receipt of the order and ending on the date on which the member reports for active duty military service.
 
-(3) *Application.* A QS holder may apply for a temporary military transfer by submitting a temporary military transfer application to the Alaska Region, NMFS. NMFS will transfer, upon approval of the application, the applicable IFQ from the applicant (transferor) to the recipient (transferee). A temporary military transfer application is available at *http://alaskafisheries.noaa.gov* or by calling 1-800-304-4846. A complete application must include all of the following:
+(3) *Application.* A QS holder may apply for a temporary military transfer by submitting an application for temporary transfer of halibut/sablefish IFQ to the Alaska Region, NMFS. NMFS will transfer, upon approval of the application, the applicable IFQ from the applicant (transferor) to the recipient (transferee). An application for temporary transfer of halibut/sablefish IFQ is available at *https://www.fisheries.noaa.gov/region/alaska* or by calling 1-800-304-4846. A complete application must include all of the following:
 
 (i) The transferor's identity including his or her full name, NMFS person ID, date of birth, permanent business mailing address, business telephone and fax numbers, and e-mail address (if any). A temporary mailing address may be provided, if appropriate.
 
 (ii) The transferee's identity including his or her full name, NMFS person ID, date of birth, permanent business mailing address, business telephone and fax numbers, and e-mail address (if any). A temporary mailing address may be provided, if appropriate.
 
-(iii) The identification characteristics of the IFQ including whether the transfer is for halibut or sablefish IFQ, IFQ regulatory area, number of units, range of QS serial numbers for IFQ to be transferred, actual number of IFQ pounds, transferor (seller) IFQ permit number, and fishing year.
+(iii) The identification characteristics of the IFQ including whether the transfer is for halibut or sablefish IFQ, IFQ regulatory area, actual number of IFQ pounds, transferor (seller) IFQ permit number, and fishing year.
 
 (iv) Documentation of active military mobilization or deployment. This documentation must include the following:
 

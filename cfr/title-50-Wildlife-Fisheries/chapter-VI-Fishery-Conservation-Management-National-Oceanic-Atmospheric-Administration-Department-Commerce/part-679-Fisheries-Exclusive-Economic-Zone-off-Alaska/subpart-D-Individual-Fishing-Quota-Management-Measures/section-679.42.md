@@ -1,7 +1,5 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
-Link to an amendment published at 85 FR 44024, July 21, 2020.
-
 (a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except for the following:
 
 (i) All or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
@@ -15,6 +13,10 @@ Link to an amendment published at 85 FR 44024, July 21, 2020.
 (i) As provided in § 679.41(i)(1) of this part (CDQ compensation QS exemption);
 
 (ii) IFQ derived from QS held by a CQE may be used to harvest IFQ species from a vessel of any length, with the exception of IFQ derived from QS in IFQ regulatory areas 3A and 4B that are assigned to vessel category D.
+
+(A) Halibut IFQ derived from QS assigned to vessel category D in Area 3A that is held by a CQE located in Area 3A may be used to harvest IFQ halibut on a vessel less than or equal to 60 ft (18.3 m) LOA from August 15 to the end of the IFQ fishing season.
+
+(B) [Reserved]
 
 (iii) In IFQ regulatory areas 3B, 4B, and 4C, category D QS and associated IFQ authorizes an IFQ permit holder to harvest IFQ halibut on a vessel less than or equal to 60 ft (18.3 m) LOA.
 

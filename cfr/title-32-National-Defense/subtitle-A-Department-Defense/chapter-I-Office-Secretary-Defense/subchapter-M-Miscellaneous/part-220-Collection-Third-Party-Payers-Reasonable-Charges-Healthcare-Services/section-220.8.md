@@ -1,5 +1,7 @@
 ##### § 220.8 Reasonable charges. #####
 
+Link to an amendment published at 85 FR 51351, Aug. 20, 2020.
+
 (a) *In general.* (1) Section 1095(f) and section 1097b(b) both address the issue of computation of rates. Between them, the effect is to authorize the calculation of all third party payer collections on the basis of reasonable charges and the computation of reasonable charges on the basis of per diem rates, all-inclusive per-visit rates, diagnosis related groups rates, rates used by the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) program to reimburse authorized providers, or any other method the Assistant Secretary of Defense (Health Affairs) considers appropriate and establishes in this part. Such rates, representative of costs, are also endorsed by section 1079(a).
 
 (2) The general rule is that reasonable charges under this part are based on the rates used by CHAMPUS under 32 CFR 199.14 to reimburse authorized providers. There are some exceptions to this general rule, as outlined in this section.

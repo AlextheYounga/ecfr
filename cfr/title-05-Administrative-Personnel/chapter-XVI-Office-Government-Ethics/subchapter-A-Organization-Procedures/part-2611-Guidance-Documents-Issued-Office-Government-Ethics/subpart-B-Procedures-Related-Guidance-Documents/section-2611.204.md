@@ -1,0 +1,3 @@
+##### § 2611.204 Use of rescinded, withdrawn, and modified guidance documents. #####
+
+OGE will not cite, use, or rely on guidance documents or portions of guidance documents that are rescinded, withdrawn, or removed through modification, except to establish historical facts or as a matter of comparison to current guidance. Upon petition or its own initiative, OGE may reinstate guidance documents or portions of guidance documents previously rescinded, withdrawn, or modified, in conformity with the procedures in this part.

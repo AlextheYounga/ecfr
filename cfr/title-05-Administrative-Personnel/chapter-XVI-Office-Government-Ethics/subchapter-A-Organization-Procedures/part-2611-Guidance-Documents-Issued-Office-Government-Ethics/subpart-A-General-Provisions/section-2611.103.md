@@ -1,0 +1,3 @@
+##### § 2611.103 No private right of action or right to judicial review. #####
+
+This part is intended to improve the internal management of OGE. As such, it is for the use of OGE personnel only and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies or other entities, its officers or employees, or any other person.
