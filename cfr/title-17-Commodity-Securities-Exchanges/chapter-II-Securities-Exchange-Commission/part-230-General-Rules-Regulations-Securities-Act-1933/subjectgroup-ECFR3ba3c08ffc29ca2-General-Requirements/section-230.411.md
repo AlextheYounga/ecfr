@@ -1,5 +1,7 @@
 ##### § 230.411 Incorporation by reference. #####
 
+Link to an amendment published at 84 FR 12721, Apr. 2, 2019.
+
 (a) *Prospectus.* Except as provided by this section, Item 1100(c) of Regulation AB (§ 229.1100(c) of this chapter) for registered offerings of asset-backed securities, or unless otherwise provided in the appropriate form, information shall not be incorporated by reference in a prospectus. Where a summary or outline of the provisions of any document is required in the prospectus, the summary or outline may incorporate by reference particular items, sections or paragraphs of any exhibit and may be qualified in its entirety by such reference.
 
 (b) *Information not required in a prospectus.* Except for exhibits covered by paragraph (c) of this section, information may be incorporated by reference in answer, or partial answer, to any item that calls for information not required to be included in a prospectus subject to the following provisions:

@@ -20,4 +20,6 @@
 
 (4) Be dated, and signed or initialed by the person who performed the activity documented.
 
-(b) Records required under §§ 112.7(b), 112.30(b)(2), 112.50(b)(2), (4), and (6), 112.60(b)(2), 112.140(b)(1) and (2), and 112.150(b)(1), (4), and (6), must be reviewed, dated, and signed, within a reasonable time after the records are made, by a supervisor or responsible party.
+(b) Records required under §§ 112.7(b), 112.30(b), 112.50(b)(2), (4), and (6), 112.60(b)(2), 112.140(b)(1) and (2), and 112.150(b)(1), (4), and (6), must be reviewed, dated, and signed, within a reasonable time after the records are made, by a supervisor or responsible party.
+
+[80 FR 74547, Nov. 27, 2015, as amended at 84 FR 12491, Apr. 2, 2019]

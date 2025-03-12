@@ -1,5 +1,7 @@
 ##### § 229.502 (Item 502) Inside front and outside back cover pages of prospectus. #####
 
+Link to an amendment published at 84 FR 12718, Apr. 2, 2019.
+
 The registrant must furnish this information in plain English. See § 230.421(d) of Regulation C of this chapter.
 
 (a) *Table of contents.* On either the inside front or outside back cover page of the prospectus, provide a reasonably detailed table of contents. It must show the page number of the various sections or subdivisions of the prospectus. Include a specific listing of the risk factors section required by Item 503 of this Regulation S-K (17 CFR 229.503). You must include the table of contents immediately following the cover page in any prospectus you deliver electronically.

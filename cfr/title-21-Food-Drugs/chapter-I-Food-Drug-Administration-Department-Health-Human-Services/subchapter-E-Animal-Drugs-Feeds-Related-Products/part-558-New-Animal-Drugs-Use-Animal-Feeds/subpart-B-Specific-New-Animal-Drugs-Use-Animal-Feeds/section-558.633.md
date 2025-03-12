@@ -12,8 +12,11 @@
 
 (3) An expiration date of 1 week is required for tylvalosin Type C medicated swine feeds in pelleted or crumbled form.
 
-(e) *Conditions of use in swine* - (1) *Amount.* Administer 38.6 grams tylvalosin per ton of Type C medicated feed (42.5 ppm) as the sole ration for 14 consecutive days.
+(e) *Conditions of use.*
 
-(2) *Indications for use.* For the control of porcine proliferative enteropathy (PPE) associated with *Lawsonia intracellularis* infection in groups of swine in buildings experiencing an outbreak of PPE.
+|Tylvalosin in  <br/>grams/ton|                                                                                 Indications for use                                                                                 |                         Limitations                         |Sponsor|
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------|
+|          (i) 38.6           |Swine: For the control of porcine proliferative enteropathy (PPE) associated with Lawsonia intracellularis infection in groups of swine in buildings experiencing an outbreak of PPE.|Feed continuously as the sole ration for 14 consecutive days.|066916 |
+|       (ii) [Reserved]       |                                                                                                                                                                                     |                                                             |       |
 
-[81 FR 36790, June 8, 2016, as amended at 81 FR 67153, Sept. 30, 2016]
+[81 FR 36790, June 8, 2016, as amended at 81 FR 67153, Sept. 30, 2016; 84 FR 12504, Apr. 2, 2019]

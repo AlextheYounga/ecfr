@@ -8,46 +8,26 @@
 
 (d) *Conditions of use.* It is used in animal feeds as follows:
 
-(1) *Chickens* - (i) *Amount.* Novobiocin, 6-7 mgs. per lb. body weight per day.
+(1) *Chickens*—
 
-(*a*) *Indications for use.* Aid in the treatment of breast blisters associated with staphylococcal infections susceptible to novobiocin.
+|                            Novobiocin amount                             |                                                    Indications for use                                                     |                                                                                        Limitations                                                                                         |Sponsor|
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|(i) To provide 6 to 7 milligrams per pound (mg/lb) of body weight per day.|Chickens: As an aid in the treatment of breast blisters associated with staphylococcal infections susceptible to novobiocin.|Administer feed which contains not less than 200 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying chickens. Withdraw 4 days before slaughter.|054771 |
+|          (ii) To provide 10 to 14 mg/lb of body weight per day.          |Chickens: For the treatment of staphylococcal synovitis and generalized staphylococcal infections susceptible to novobiocin.|Administer feed which contains not less than 350 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying chickens. Withdraw 4 days before slaughter.|054771 |
 
-(*b*) *Limitations.* Administer, as sole ration, feed which contains not less than 200 grams of novobiocin activity per ton of feed; not for laying chickens; feed 5 to 7 days; withdraw 4 days before slaughter.
+(2) *Turkeys*—
 
-(ii) *Amount.* Novobiocin, 10-14 mgs. per lb. body weight per day.
+|                  Novobiocin amount                  |                                                                                                               Indications for use                                                                                                                |                                                                                        Limitations                                                                                        |Sponsor|
+|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| (i) To provide 4 to 5 mg/lb of body weight per day. |                                                           Turkeys: As an aid in the treatment of breast blisters associated with staphylococcal infections susceptible to novobiocin.                                                            |Administer feed which contains not less than 200 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying turkeys. Withdraw 4 days before slaughter.|054771 |
+|(ii) To provide 5 to 8 mg/lb of body weight per day. |               Turkeys: As an aid in the control of recurring outbreaks of fowl cholera caused by strains of Pasteurella multocida susceptible to novobiocin following initial treatment with 7 to 8 mg/lb of body weight per day.                |Administer feed which contains not less than 200 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying turkeys. Withdraw 4 days before slaughter.|054771 |
+|(iii) To provide 7 to 8 mg/lb of body weight per day.|Turkeys: For the treatment of staphylococcal synovitis and generalized staphylococcal infections susceptible to novobiocin; and treatment of acute outbreaks of fowl cholera caused by strains of Pasteurella multocida susceptible to novobiocin.|Administer feed which contains not less than 350 grams of novobiocin activity per ton of feed as the sole ration for 5 to 7 days. Not for laying turkeys. Withdraw 4 days before slaughter.|054771 |
 
-(*a*) *Indications for use.* Treatment of staphylococcal synovitis and generalized staphylococcal infections susceptible to novobiocin.
+(3) *Minor species*—
 
-(*b*) *Limitations.* Administer, as sole ration, feed which contains not less than 350 grams of novobiocin activity per ton of feed; not for laying chickens; feed 5 to 7 days; withdraw 4 days before slaughter.
+|               Novobiocin amount                |                                                                   Indications for use                                                                   |                                                                                               Limitations                                                                                               |Sponsor|
+|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|             (i) 350 grams per ton.             |Ducks: For the control of infectious serositis and fowl cholera in ducks caused by Pasteurella anatipestifer and P. multocida, susceptible to novobiocin.|Administer as the sole ration for 5 to 7 days. Continue medication for 14 days if necessary. Repeat if reinfection occurs. Discontinue use at least 3 days before slaughter. Not for use in laying ducks.|054771 |
+|(ii) To provide 20 mg/lb of body weight per day.|  Mink: For the treatment of generalized infections, abscesses, or urinary infections caused by staphylococcal or other novobiocin sensitive organisms.  |                                      Administer feed which contains not less than 200 grams of novobiocin activity per ton of feed as the sole ration for 7 days.                                       |054771 |
 
-(2) *Turkeys* - (i) *Amount.* Novobiocin, 4-5 mgs. per lb. body weight per day.
-
-(*a*) *Indications for use.* Aid in the treatment of breast blisters associated with staphylococcal infections susceptible to novobiocin.
-
-(*b*) *Limitations.* Administer, as sole ration, feed which contains not less than 200 grams of novobiocin activity per ton of feed; not for laying turkeys; feed 5 to 7 days; withdraw 4 days before slaughter.
-
-(ii) *Amount.* Novobiocin, 5-8 mgs. per lb. body weight per day.
-
-(*a*) *Indications for use.* Aid in the control of recurring outbreaks of fowl cholera caused by strains of *Pasteurella multocida* susceptible to novobiocin following initial treatment with 7-8 mgs. per pound body weight per day.
-
-(*b*) *Limitations.* Administer, as sole ration, feed which contains not less than 200 grams of novobiocin activity per ton of feed; feed 5 to 7 days; not for laying turkeys; withdraw 4 days before slaughter.
-
-(iii) *Amount.* Novobiocin, 7-8 mgs. per lb. body weight per day.
-
-(*a*) *Indications for use.* Treatment of staphylococcal synovitis and generalized staphylococcal infection susceptible to novobiocin; treatment of acute outbreaks of fowl cholera caused by strains of *Pasteurella multocida* susceptible to novobiocin.
-
-(*b*) *Limitations.* Administer, as sole ration, feed which contains not less than 350 grams of novobiocin activity per ton of feed; feed 5 to 7 days; not for laying turkeys; withdraw 4 days before slaughter.
-
-(3) *Mink* - (i) *Amount.* 20 mgs. per lb. body weight per day.
-
-(ii) *Indications for use.* For treatment of generalized infections, abscesses, or urinary infections caused by staphylococcal or other novobiocin sensitive organisms.
-
-(iii) *Limitations.* Administer, as sole ration, feed which contains not less than 200 grams of novobiocin activity per ton of feed; feed for 7 days.
-
-(4) *Ducks* - (i) *Amount.* Novobiocin, 350 grams per ton.
-
-(ii) *Indications for use.* Control of infectious serositis and fowl cholera in ducks caused by *Pasteurella anatipestifer* and *P. multocida,* susceptible to novobiocin.
-
-(iii) *Limitations.* Administer, as sole ration, for 5 to 7 days, continue medication for 14 days if necessary, repeat if reinfection occurs; discontinue use at least 3 days before slaughter; not for use in laying ducks.
-
-[40 FR 13959, Mar. 27, 1975, as amended at 45 FR 42263, June 24, 1980; 51 FR 7399, Mar. 3, 1986; 52 FR 36402, Sept. 29, 1987; 79 FR 13545, Mar. 11, 2014]
+[40 FR 13959, Mar. 27, 1975, as amended at 45 FR 42263, June 24, 1980; 51 FR 7399, Mar. 3, 1986; 52 FR 36402, Sept. 29, 1987; 79 FR 13545, Mar. 11, 2014; 84 FR 12501, Apr. 2, 2019]

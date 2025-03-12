@@ -1,5 +1,7 @@
 ##### § 240.12b-23 Incorporation by reference. #####
 
+Link to an amendment published at 84 FR 12727, Apr. 2, 2019.
+
 (a) Except for information filed as an exhibit which is covered by Rule 12b-32 (17 CFR 240.12b-32), information may be incorporated by reference in answer, or partial answer, to any item of a registration statement or report subject to the following provisions:
 
 (1) Financial statements incorporated by reference shall satisfy the requirements of the form or report in which they are incorporated. Financial statements or other financial data required to be given in comparative form for two or more fiscal years or periods shall not be incorporated by reference unless the material incorporated by reference includes the entire period for which the comparative data is given;

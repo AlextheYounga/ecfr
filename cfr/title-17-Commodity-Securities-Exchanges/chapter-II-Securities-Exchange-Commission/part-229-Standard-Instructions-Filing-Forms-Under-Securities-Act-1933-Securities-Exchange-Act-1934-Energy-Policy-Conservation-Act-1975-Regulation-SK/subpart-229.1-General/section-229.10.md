@@ -1,5 +1,7 @@
 ##### § 229.10 (Item 10) General. #####
 
+Link to an amendment published at 84 FR 12716, Apr. 2, 2019.
+
 (a) *Application of Regulation S-K.* This part (together with the General Rules and Regulations under the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* as amended (*Securities Act*), and the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* as amended (*Exchange Act*) (parts 230 and 240 of this chapter), the Interpretative Releases under these Acts (parts 231 and 241 of this chapter) and the forms under these Acts (parts 239 and 249 of this chapter)) states the requirements applicable to the content of the non-financial statement portions of:
 
 (1) Registration statements under the Securities Act (part 239 of this chapter) to the extent provided in the forms to be used for registration under such Act; and

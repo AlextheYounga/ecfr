@@ -1,5 +1,7 @@
 ##### § 232.312 Accommodation for certain information in filings with respect to asset-backed securities. #####
 
+Link to an amendment published at 84 FR 12722, Apr. 2, 2019.
+
 (a) For filings with respect to asset-backed securities filed on or before June 30, 2012, the information provided in response to Item 1105 of Regulation AB (§ 229.1105 of this chapter) may be provided under the following conditions on an Internet Web site for inclusion in the prospectus for the asset-backed securities, and will be deemed to be included in the prospectus included in the registration statement, in lieu of reproducing the information in the electronically filed version of that document. Terms used in this section have the same meaning as in Item 1101 of Regulation AB (§ 229.1101 of this chapter).
 
 (1) The prospectus in the registration statement at the time of effectiveness shall disclose the intention to provide such information through a Web site and the prospectus to be filed pursuant to § 230.424 of this chapter shall provide the specific Internet address where the information is posted.

@@ -1,5 +1,7 @@
 ##### § 229.405 (Item 405) Compliance with section 16(a) of the Exchange Act. #####
 
+Link to an amendment published at 84 FR 12717, Apr. 2, 2019.
+
 Every registrant having a class of equity securities registered pursuant to section 12 of the Exchange Act (15 U.S.C. 78*l*) and every closed-end investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) shall:
 
 (a) Based solely upon a review of Forms 3 and 4 (17 CFR 249.103 and 249.104) and amendments thereto furnished to the registrant under 17 CFR 240.16a-3(e) during its most recent fiscal year and Forms 5 and amendments thereto (17 CFR 249.105) furnished to the registrant with respect to its most recent fiscal year, and any written representation referred to in paragraph (b)(1) of this section.

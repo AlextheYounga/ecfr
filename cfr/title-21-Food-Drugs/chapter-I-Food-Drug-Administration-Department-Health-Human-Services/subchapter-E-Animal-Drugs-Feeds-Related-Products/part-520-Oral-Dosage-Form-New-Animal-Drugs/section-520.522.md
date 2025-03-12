@@ -4,7 +4,11 @@
 
 (2) Each milliliter of cyclosporine oral solution, USP (MODIFIED) contains 100 mg cyclosporine.
 
-(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter.
+
+(1) No. 058198 for use of products described in paragraph (a) as in paragraph (d) of this section.
+
+(2) No. 026637 for use of product described in paragraph (a)(1) as in paragraph (d)(1) of this section.
 
 (c) [Reserved]
 
@@ -24,4 +28,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[68 FR 54804, Sept. 19, 2003, as amended at 76 FR 78815, Dec. 20, 2011]
+[68 FR 54804, Sept. 19, 2003, as amended at 76 FR 78815, Dec. 20, 2011; 84 FR 12493, Apr. 2, 2019]

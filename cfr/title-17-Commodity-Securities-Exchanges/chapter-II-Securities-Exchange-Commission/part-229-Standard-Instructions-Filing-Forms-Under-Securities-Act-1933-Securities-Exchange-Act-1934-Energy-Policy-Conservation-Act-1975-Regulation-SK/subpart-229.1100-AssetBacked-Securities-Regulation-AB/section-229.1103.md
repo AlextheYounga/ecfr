@@ -1,5 +1,7 @@
 ##### § 229.1103 (Item 1103) Transaction summary and risk factors. #####
 
+Link to an amendment published at 84 FR 12721, Apr. 2, 2019.
+
 (a) *Prospectus summary.* In providing the information required by Item 503(a) of Regulation S-K (§ 229.503(a)), provide the following information in the prospectus summary, as applicable. Present information regarding multiple classes in tables if doing so will aid understanding. Consider using diagrams to illustrate the relationships among the parties, the structure of the securities offered (including, for example, the flow of funds or any subordination features) and any other material features of the transaction.
 
 (1) Identify the participants in the transaction, including the sponsor, depositor, issuing entity, trustee and servicers contemplated by Item 1108(a)(2) of this Regulation AB, and their respective roles. Describe the roles briefly if they are not apparent from the title of the role. Identify any originator contemplated by Item 1110 of this Regulation AB and any significant obligor.

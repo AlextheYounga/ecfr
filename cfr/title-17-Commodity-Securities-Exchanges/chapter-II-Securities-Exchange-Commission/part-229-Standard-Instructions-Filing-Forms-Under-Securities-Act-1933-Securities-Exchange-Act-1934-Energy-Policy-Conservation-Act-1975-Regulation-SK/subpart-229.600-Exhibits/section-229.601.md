@@ -1,5 +1,7 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
+Link to an amendment published at 84 FR 12718, Apr. 2, 2019.
+
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-32 (§ 240.12b-32 of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table shall be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which must appear before the required signatures in the registration statement or report. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. If an exhibit is incorporated by reference, this must be noted in the exhibit index. Each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit that is filed with Form ABS-EE) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR. If a registration statement or report is amended, each amendment must include hyperlinks to the exhibits required with the amendment. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.

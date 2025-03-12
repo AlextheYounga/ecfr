@@ -1,5 +1,7 @@
 ##### § 229.102 (Item 102) Description of property. #####
 
+Link to an amendment published at 84 FR 12716, Apr. 2, 2019.
+
 State briefly the location and general character of the principal plants and other materially important physical properties of the registrant and its subsidiaries. In addition, identify the segment(s), as reported in the financial statements, that use the properties described. If any such property is not held in fee or is held subject to any major encumbrance, so state and describe briefly how held.
 
 *Instruction 1 to Item 102:* What is required is such information as reasonably will inform investors as to the suitability, adequacy, productive capacity and extent of utilization of the facilities by the registrant. Detailed descriptions of the physical characteristics of individual properties or legal descriptions by metes and bounds are not required and shall not be given.

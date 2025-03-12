@@ -14,10 +14,12 @@
 
 (4) The written recall plan as required by § 117.139(a); and
 
-(5) The written procedures for monitoring the implementation of the preventive controls as required by § 117.145(a)(1);
+(5) The written procedures for monitoring the implementation of the preventive controls as required by § 117.145(a);
 
 (6) The written corrective action procedures as required by § 117.150(a)(1); and
 
 (7) The written verification procedures as required by § 117.165(b).
 
 (c) *Records.* The food safety plan required by this section is a record that is subject to the requirements of subpart F of this part.
+
+[80 FR 56145, Sept. 17, 2015, as amended at 84 FR 12491, Apr. 2, 2019]

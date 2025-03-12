@@ -1,5 +1,7 @@
 ##### § 275.0-6 Incorporation by reference in applications. #####
 
+Link to an amendment published at 84 FR 12738, Apr. 2, 2019.
+
 (a) A person filing an application may, subject to the limitations of § 228.10(f) and § 229.10(d) of this chapter, incorporate by reference as an exhibit to such application any document or part thereof, including any financial statement or part thereof, previously or concurrently filed with the Commission pursuant to any act administered by the Commission. The incorporation may be made whether the matter incorporated was filed by such applicant or any other person. If any modification has occurred in the text of any such document since the filing thereof, the applicant shall file with the reference a statement containing the text of any such modification and the date thereof. If the number of copies of any document previously or concurrently filed with the Commission is less than the number required to be filed with the application which incorporates such document, the applicant shall file therewith as many additional copies of the document as may be necessary to meet the requirements of the application.
 
 (b) Notwithstanding paragraph (a) of this section, a certificate of an independent public accountant or accountants previously or concurrently filed may not be incorporated by reference in any application unless the written consent of the accountant or accountants to such incorporation is filed with the application.

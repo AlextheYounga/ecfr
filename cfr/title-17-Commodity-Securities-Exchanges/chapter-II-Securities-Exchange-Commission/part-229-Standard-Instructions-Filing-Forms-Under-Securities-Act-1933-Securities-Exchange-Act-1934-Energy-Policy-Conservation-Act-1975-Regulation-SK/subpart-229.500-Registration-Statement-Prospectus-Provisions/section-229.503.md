@@ -1,5 +1,7 @@
 ##### § 229.503 (Item 503) Prospectus summary and risk factors. #####
 
+Link to an amendment published at 84 FR 12718, Apr. 2, 2019.
+
 The registrant must furnish this information in plain English. See § 230.421(d) of Regulation C of this chapter.
 
 (a) *Prospectus summary.* Provide a summary of the information in the prospectus where the length or complexity of the prospectus makes a summary useful. The summary should be brief. The summary should not contain, and is not required to contain, all of the detailed information in the prospectus. If you provide summary business or financial information, even if you do not caption it as a summary, you still must provide that information in plain English.

@@ -1,5 +1,7 @@
 ##### § 229.401 (Item 401) Directors, executive officers, promoters and control persons. #####
 
+Link to an amendment published at 84 FR 12717, Apr. 2, 2019.
+
 (a) *Identification of directors.* List the names and ages of all directors of the registrant and all persons nominated or chosen to become directors; indicate all positions and offices with the registrant held by each such person; state his term of office as director and any period(s) during which he has served as such; describe briefly any arrangement or understanding between him and any other person(s) (naming such person(s)) pursuant to which he was or is to be selected as a director or nominee.
 
 *Instructions to paragraph (a) of Item 401:* 1. Do not include arrangements or understandings with directors or officers of the registrant acting solely in their capacities as such.

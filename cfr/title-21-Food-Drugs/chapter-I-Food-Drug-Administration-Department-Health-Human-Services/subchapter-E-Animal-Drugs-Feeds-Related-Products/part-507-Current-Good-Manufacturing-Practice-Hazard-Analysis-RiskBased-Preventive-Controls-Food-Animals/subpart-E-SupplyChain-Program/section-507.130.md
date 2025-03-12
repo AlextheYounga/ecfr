@@ -22,7 +22,7 @@
 
 (i) A brief description of the preventive controls that the supplier is implementing to control the applicable hazard in the animal food; or
 
-(ii) A statement that the facility is in compliance with State, local, county, tribal or other applicable non-Federal food safety laws, including relevant laws and regulations of foreign counties.
+(ii) A statement that the facility is in compliance with State, local, county, tribal, or other applicable non-Federal food safety laws, including relevant laws and regulations of foreign countries.
 
 (d) If a supplier is a farm that grows produce and is not a covered farm under part 112 of this chapter in accordance with § 112.4(a), or in accordance with §§ 112.4(b) and 112.5, the receiving facility does not need to comply with paragraphs (a) and (b) of this section for produce that the receiving facility receives from the farm as a raw material or other ingredient if the receiving facility:
 
@@ -45,3 +45,5 @@
 (2) Obtains written assurance, at least every 2 years, that the shell egg producer acknowledges that its food is subject to section 402 of the Federal Food, Drug, and Cosmetic Act (or, when applicable, that its food is subject to relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States).
 
 (f) There must not be any financial conflicts of interest that influence the results of the verification activities listed in § 507.110(b) and payment must not be related to the results of the activity.
+
+[80 FR 56337, Sept. 17, 2015, as amended at 84 FR 12491, Apr. 2, 2019]

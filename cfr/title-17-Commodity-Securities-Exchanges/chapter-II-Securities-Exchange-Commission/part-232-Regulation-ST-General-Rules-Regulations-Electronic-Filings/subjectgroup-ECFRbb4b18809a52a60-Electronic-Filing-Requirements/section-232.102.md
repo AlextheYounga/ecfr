@@ -1,5 +1,7 @@
 ##### § 232.102 Exhibits. #####
 
+Link to an amendment published at 84 FR 12722, Apr. 2, 2019.
+
 (a) Exhibits to an electronic filing that have not previously been filed with the Commission shall be filed in electronic format, absent a hardship exemption. Previously filed exhibits, whether in paper or electronic format, may be incorporated by reference into an electronic filing to the extent permitted by § 229.10(d) of this chapter, Rule 411 under the Securities Act (§ 230.411 of this chapter), Rule 12b-23 or 12b-32 under the Exchange Act (§ 240.12b-23 or § 240.12b-32 of this chapter), Rules 0-4, 8b-23, and 8b-32 under the Investment Company Act (§§ 270.0-4, 270.8b-23 and 270.8b-32 of this chapter) and Rule 303 of Regulation S-T (§ 232.303). An electronic filer may, at its option, restate in electronic format any exhibit incorporated by reference that originally was filed in paper format.
 
 Note to paragraph (a):

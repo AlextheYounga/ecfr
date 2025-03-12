@@ -1,5 +1,7 @@
 ##### § 229.512 (Item 512) Undertakings. #####
 
+Link to an amendment published at 84 FR 12718, Apr. 2, 2019.
+
 Include each of the following undertakings that is applicable to the offering being registered.
 
 (a) *Rule 415 Offering.*1 Include the following if the securities are registered pursuant to Rule 415 under the Securities Act (§ 230.415 of this chapter):
