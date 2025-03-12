@@ -1,7 +1,5 @@
 ##### § 25.115 Applications for earth station authorizations. #####
 
-Link to an amendment published at 82 FR 59984, Dec. 18, 2017.
-
 (a)(1) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications shall be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in § 25.130, except as set forth in paragraph (a)(2) of this section.
 
 (2) Applicants for licenses for transmitting earth stations in the FSS may file on FCC Form 312EZ if all of the following criteria are met:
@@ -26,7 +24,7 @@ Link to an amendment published at 82 FR 59984, Dec. 18, 2017.
 
 (b) Receive-only earth stations. Applications to license or register receive only earth stations shall be filed on FCC Form 312, Main Form and Schedule B, and conform to the provisions of § 25.131.
 
-(c)(1) *Networks of earth stations operating in the 11.7-12.2 GHz and 14.0-14.5 GHz bands with U.S.-licensed or non-U.S.-licensed space stations for domestic or international services.* Applications to license networks of earth stations operating in any portion of the 11.7-12.2 GHz and 14.0-14.5 GHz bands under blanket operating authority may be filed on FCC Form 312 or Form 312EZ, with a Schedule B for each large (5 meters or larger) hub station antenna and each representative type of small antenna (less than 5 meters) operating within the network.
+(c)(1) *GSO FSS earth stations in 10.7-12.2 GHz or 14-14.5 GHz.* A blanket license application for operation in the 10.7-12.2 GHz or 14-14.5 GHz bands may be filed on FCC Form 312 or Form 312EZ, with a Schedule B for each large (5 meters or larger) hub station antenna and each representative type of small antenna (less than 5 meters) operating within the network; however, blanket licensing in the 10.7-11.7 GHz band is on an unprotected basis with respect to the fixed service.
 
 (i) Applications to license networks of earth stations operating in the 11.7-12.2 GHz and 14.0-14.5 GHz bands under blanket operating authority that meet the requirements of § 25.212(c) or § 25.218(e) or (f) will be routinely processed.
 
@@ -86,9 +84,15 @@ Link to an amendment published at 82 FR 59984, Dec. 18, 2017.
 
 (d) Mobile-Satellite Service user transceivers need not be individually licensed. Service vendors may file blanket applications for such transceivers using FCC Form 312, Main Form and Schedule B, specifying the number of units to be covered by the blanket license. A blanket license application for 1.5/1.6 GHz MSS user transceivers must include an explanation of how the applicant will comply with the priority and preemptive access requirements in § 25.287.
 
-(e) License applications for earth station operation in any portion of the 18.3-20.2 GHz and 28.35-30.0 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraph (g) or (j) of this section or by § 25.130. An applicant may request authority for operation of GSO FSS earth stations in the conventional Ka-band, or for operation of NGSO FSS earth stations in the 18.8-19.3 GHz (space-to-Earth) and 28.6-29.1 (Earth-to-space) bands, without specifying the location of user terminals but must specify the geographic area(s) in which they will operate and the location of hub and/or gateway stations.
+(e) *GSO FSS earth stations in 17.8-30 GHz.* (1) An application for a GSO FSS earth station license in the 17.8-19.4 GHz, 19.6-20.2 GHz, 27.5-29.1 GHz, or 29.25-30 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraph (g) or (j) of this section or by § 25.130.
 
-(f) User transceivers in the non-geostationary satellite orbit Fixed-Satellite Service in the 11.7-12.2 GHz, 12.2-12.7 GHz and 14.0-14.5 GHz bands need not be individually licensed. Applications for blanket authority to operate transceiver units may be filed using FCC Form 312, Main Form and Schedule B. Each application for a blanket license under this section shall include the information described in § 25.146. Any earth stations that are not user transceivers, and which transmit in the non-geostationary satellite orbit Fixed-Satellite Service in the 10.7-11.7 GHz, 12.75-13.15 GHz, 13.2125-13.25 GHz, and 13.75-14.0 GHz bands must be individually licensed, pursuant to paragraph (a) of this section.
+(2) An applicant may request authority for operation of GSO FSS earth stations in the 17.8-19.4 GHz, 19.6-20.2 GHz, 28.35-29.1 GHz, and 29.25-30 GHz bands without specifying the location of user terminals but must specify the geographic area(s) in which they will operate and the location of hub and/or gateway stations; however, blanket licensing in the 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to the fixed service.
+
+(f) *NGSO FSS earth stations in 10.7-29.1 GHz.* (1) An application for an NGSO FSS earth station license in the 10.7-29.1 GHz band must include the certification described in § 25.146(a)(2).
+
+(2) Individual or blanket license applications may be filed for operation in the 10.7-12.7 GHz, 14-14.5 GHz, 17.8-18.6 GHz, 18.8-19.4 GHz, 19.6-20.2 GHz, or 28.35-29.1 GHz bands; however, blanket licensing in the 10.7-11.7 GHz, 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to the fixed service.
+
+(3) Individual license applications only may be filed for operation in the 12.75-13.15 GHz, 13.2125-13.25 GHz, 13.75-14 GHz, or 27.5-28.35 GHz bands.
 
 (g) Applications for earth stations that will transmit to GSO space stations in any portion of the 5850-6725 MHz, 13.75-14.5 GHz, 24.75-25.25 GHz, 28.35-28.6 GHz, or 29.25-30.0 GHz bands must include, in addition to the particulars of operation identified on FCC Form 312 and associated Schedule B, the information specified in either paragraph (g)(1) or (g)(2) of this section for each earth station antenna type.
 
@@ -122,4 +126,4 @@ Link to an amendment published at 82 FR 59984, Dec. 18, 2017.
 
 (2) Notwithstanding paragraph (k)(1) of this section, the operator of an earth station that qualifies for routine processing in the conventional Ka-band may not communicate with a space station on the Permitted Space Station List in the 18.3-18.8 GHz or 19.7-20.2 GHz band until the space station operator has completed coordination under Footnote US334 to § 2.106 of this chapter.
 
-[62 FR 5928, Feb. 10, 1997]Editorial Note:For Federal Register citations affecting § 25.115, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 5928, Feb. 10, 1997]Editorial Note:For Federal Register citations affecting § 25.115, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 59984, Dec. 18, 2017, § 25.115 was amended by revising paragraphs (c)(1) introductory text, (e), and (f). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

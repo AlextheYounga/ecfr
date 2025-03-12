@@ -1,14 +1,14 @@
 ##### § 25.157 Consideration of applications for NGSO-like satellite operation. #####
 
-Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
-
 (a) This section specifies the procedures for considering license applications for “NGSO-like” satellite operation, except as provided in paragraph (b) of this section. For purposes of this section, the term “NGSO-like satellite operation” means:
 
 (1) Operation of any NGSO satellite system, and
 
 (2) Operation of a GSO MSS satellite to communicate with earth stations with non-directional antennas.
 
-(b) The procedures prescribed in this section do not apply to an application for authority to launch and operate a replacement space station, or stations, that meet the relevant criteria in § 25.165(e)(1) and (e)(2) and that will be launched before the space station(s) to be replaced are, or is, retired from service or within a reasonable time after loss of a space station during launch or due to premature failure in orbit.
+(b)(1) The procedures in this section do not apply to an application for authority to operate a replacement space station(s) that meets the relevant criteria in § 25.165(e)(1) and (2) and that will be launched before the space station(s) to be replaced is retired from service or within a reasonable time after loss of a space station during launch or due to premature failure in orbit.
+
+(2) Paragraphs (e), (f), and (g) of this section do not apply to an NGSO FSS application granted with a condition to share spectrum pursuant to § 25.261.
 
 (c) Each application for NGSO-like satellite operation that is acceptable for filing under § 25.112, except replacement applications described in paragraph (b) of this section, will be reviewed to determine whether it is a “competing application,” *i.e.,* filed in response to a public notice initiating a processing round, or a “lead application,” *i.e.,* all other applications for NGSO-like satellite operation.
 
@@ -34,4 +34,4 @@ Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
 
 (h) Services offered pursuant to an NGSO-like license in a frequency band granted before the Commission has adopted frequency-band-specific service rules for that band will be subject to the default service rules in § 25.217.
 
-[68 FR 51505, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016]
+[68 FR 51505, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016; 82 FR 59985, Dec. 18, 2017]

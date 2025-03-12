@@ -1,7 +1,5 @@
 ##### § 25.165 Surety bonds. #####
 
-Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
-
 (a) For all space station licenses issued after September 20, 2004, other than licenses for DBS space stations, SDARS space stations, and replacement space stations as defined in paragraph (e) of this section, the licensee must post a bond within 30 days of the grant of its license. Failure to post a bond will render the license null and void automatically.
 
 (1) An NGSO licensee must have on file a surety bond requiring payment in the event of default as defined in paragraph (c) of this section, in an amount, at a minimum, determined according to the following formula, with the resulting dollar amount rounded to the nearest $10,000: A = $1,000,000 + $4,000,000 \* D/2192, where A is the amount to be paid and D is the lesser of 2192 or the number of days that elapsed from the date of license grant until the date when the license was surrendered.
@@ -12,9 +10,9 @@ Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
 
 (b) The licensee must use a surety company deemed acceptable within the meaning of 31 U.S.C. 9304 *et seq.* (*See, e.g.*, Department of Treasury Fiscal Service, Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and As Acceptable Reinsurance Companies, 57 FR 29356, July 1, 1992.) The bond must name the U.S. Treasury as beneficiary in the event of the licensee's default. The licensee must provide the Commission with a copy of the performance bond, including all details and conditions.
 
-(c) A licensee will be considered to be in default with respect to a bond filed pursuant to paragraph (a) of this section if it surrenders the license before meeting all milestone requirements or if it fails to meet any milestone deadline set forth in § 25.164, and, at the time of milestone deadline, the licensee has not provided a sufficient basis for extending the milestone.
+(c) A licensee will be considered to be in default with respect to a bond filed pursuant to paragraph (a) of this section if it surrenders the license before meeting an applicable milestone requirement in § 25.164(a) or (b)(1) or if it fails to satisfy any such milestone.
 
-(d) [Reserved]
+(d) A licensee will be relieved of its bond obligation under paragraph (a) of this section upon a Commission finding that the licensee has satisfied the applicable milestone requirement(s) in § 25.164(a) and (b)(1) for the authorization.
 
 (e) A replacement space station is one that:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
 
 (g) An applicant will be considered to be in default with respect to a bond filed pursuant to paragraph (f) of this section if the applicant fails to submit a complete, acceptable license application pursuant to § 25.110(b)(3)(iii) for the operation proposed in the initial application materials filed pursuant to § 25.110(b)(3)(i) or (b)(3)(ii) within two years of the date of submission of the initial application materials.
 
-[68 FR 51507, Aug. 27, 2003, as amended at 69 FR 51587, Aug. 20, 2004; 81 FR 55335, Aug. 18, 2016]
+[68 FR 51507, Aug. 27, 2003, as amended at 69 FR 51587, Aug. 20, 2004; 81 FR 55335, Aug. 18, 2016; 82 FR 59986, Dec. 18, 2017]

@@ -1,5 +1,7 @@
 ##### § 202.20 Deposit of copies and phonorecords for copyright registration. #####
 
+Link to an amendment published at 83 FR 2372, Jan. 17, 2018.
+
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published and unpublished works for the purpose of copyright registration under section 408 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for the Library of Congress under section 407 of title 17, except as expressly adopted in § 202.19.
 
 (b) *Definitions.* For the purposes of this section:

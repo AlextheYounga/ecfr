@@ -1,48 +1,12 @@
 ##### § 25.202 Frequencies, frequency tolerance, and emission limits. #####
 
-Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
+(a)(1) In addition to the frequency-use restrictions set forth in § 2.106 of this chapter, the following restrictions apply:
 
-(a)(1) *Frequency band.* The following frequencies are available for use by the Fixed-Satellite Service. Precise frequencies and bandwidths of emission shall be assigned on a case-by-case basis. Refer to the U.S. Table of Frequency Allocations, 47 CFR 2.106, including relevant footnotes, for band-specific use restrictions and coordination requirements. Restrictions and coordination conditions not mentioned in the Table of Frequency Allocations are set forth in the annotations to the following list:
+(i) In the 27.5-28.35 GHz band, the FSS (Earth-to-space) is secondary to the Upper Microwave Flexible Use Service authorized pursuant to part 30 of this chapter, except for FSS operations associated with earth stations authorized pursuant to § 25.136.
 
-|Space-to-Earth (GHz) |  Earth-to-space (GHz)  |
-|---------------------|------------------------|
-|      3.6-3.65       |<sup>6</sup> 5.091-5.25 |
-|      3.65-3.7       |       5.85-5.925       |
-|       3.7-4.2       |      5.925-6.425       |
-|       4.5-4.8       |      6.425-6.525       |
-|6.7-7.025<sup>6</sup>|       6.525-6.7        |
-|     7.025-7.075     |       6.7-7.025        |
-|10.7-11.7<sup>6</sup>|      7.025-7.075       |
-|      11.7-12.2      |       12.7-12.75       |
-|      12.2-12.7      |<sup>6</sup> 12.75-13.25|
-|     18.3-18.58      |        13.75-14        |
-|     18.58-18.8      |        14-14.2         |
-|      18.8-19.3      |       14.2-14.5        |
-|      19.3-19.7      |<sup>6</sup> 15.43-15.63|
-|      19.7-20.2      |       17.3-17.8        |
-| 37.5-40<sup>1</sup> |      24.75-25.05       |
-|        40-42        |      25.05-25.25       |
-|                     |<sup>7</sup> 27.5-28.35 |
-|                     |<sup>2</sup> 28.35-28.6 |
-|                     | <sup>3</sup> 28.6-29.1 |
-|                     |<sup>4</sup> 29.1-29.25 |
-|                     |<sup>5</sup> 29.25-29.5 |
-|                     | <sup>2</sup> 29.5-30.0 |
-|                     |       47.2-50.2        |
+(ii) Use of the 37.5-40 GHz band by the FSS (space-to-Earth) is limited to individually licensed earth stations. Earth stations in this band must not be ubiquitously deployed and must not be used to serve individual consumers.
 
-<sup>1</sup> Use of this band by the Fixed-Satellite Service is limited to individually licensed earth stations. Satellite earth station facilities in this band may not be ubiquitously deployed and may not be used to serve individual consumers.
-
-<sup>2</sup> This band is primary for GSO FSS and secondary for NGSO FSS.
-
-<sup>3</sup> This band is primary for NGSO FSS and secondary for GSO FSS.
-
-<sup>4</sup> This band is primary for NGSO MSS feeder links and LMDS hub-to-subscriber transmission.
-
-<sup>5</sup> This band is primary for NGSO MSS feeder links and GSO FSS.
-
-<sup>6</sup> Use of this band by NGSO FSS systems is limited to transmissions to or from gateway earth stations.
-
-<sup>7</sup> The Fixed-Satellite Service is secondary to the Uppefor r Microwave Flexible Use Service authorized pursuant to 47 CFR part 30, except for FSS operations associated with earth stations authorized pursuant to 47 CFR 25.136.
+(iii) The U.S. non-Federal Table of Frequency Allocations, in § 2.106 of this chapter, is applicable between Commission space station licensees relying on a U.S. ITU filing and transmitting to or receiving from anywhere on Earth, including airborne earth stations, in the 17.7-20.2 GHz or 27.5-30 GHz bands.
 
 (2) [Reserved]
 

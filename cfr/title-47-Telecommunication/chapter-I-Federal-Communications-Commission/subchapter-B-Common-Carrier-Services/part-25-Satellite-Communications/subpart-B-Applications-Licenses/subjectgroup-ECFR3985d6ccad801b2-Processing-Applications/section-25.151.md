@@ -1,7 +1,5 @@
 ##### § 25.151 Public notice. #####
 
-Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
-
 (a) At regular intervals, the Commission will issue public notices listing:
 
 (1) The receipt of applications for new station authorizations, except applications for space station licenses filed pursuant to § 25.110(b)(3)(i) or (ii) of this part;
@@ -25,6 +23,8 @@ Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
 (10) The receipt of space station application information filed pursuant to § 25.110(b)(3)(iii); and
 
 (11) The receipt of notifications of non-routine transmission filed pursuant to § 25.140(d).
+
+(12) The receipt of EPFD input data files from an NGSO FSS licensee or market access recipient, submitted pursuant to § 25.111(b) or § 25.146(c)(2).
 
 (b) Special public notices may also be issued at other times under special circumstances involving non-routine matters where speed is of the essence and efficiency of Commission process will be served thereby.
 
@@ -54,4 +54,4 @@ Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
 
 (2) Applications for authority granted pursuant to paragraph (e)(1) of this section shall be placed on public notice pursuant to paragraph (a)(1) of this section. If no comments or petitions are filed within 30 days of the public notice date, the authority granted will be considered a regular temporary fixed earth station authorization as of 30 days after the public notice date. If a comment or petition is filed within 30 days of the public notice date, the applicant must suspend operations immediately pending resolution of the issues raised in that comment or petition.
 
-[56 FR 24016, May 28, 1991, as amended at 58 FR 68061, Dec. 23, 1993; 70 FR 32254, June 2, 2005; 81 FR 55333, Aug. 18, 2016]
+[56 FR 24016, May 28, 1991, as amended at 58 FR 68061, Dec. 23, 1993; 70 FR 32254, June 2, 2005; 81 FR 55333, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017]Editorial Note:At 82 FR 59985, Dec. 18, 2017, § 25.151 was amended by removing “and” from the end of paragraph (b)(10) and by removing the period at the end of paragraph (b)(11) and adding “; and” in its place; however, these amendments could not be incorporated because paragraphs (b)(10) and (b)(11) did not exist.

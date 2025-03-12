@@ -4,8 +4,9 @@ The following fees and charges are established for international applications en
 
 (a) The basic national fee for an international application entering the national stage under 35 U.S.C. 371:
 
+|                                     |      |
+|-------------------------------------|------|
 |     By a micro entity (§ 1.29)      |$75.00|
-|:------------------------------------|-----:|
 |    By a small entity (§ 1.27(a))    |150.00|
 |By other than a small or micro entity|300.00|
 
@@ -20,22 +21,25 @@ The following fees and charges are established for international applications en
 
 (2) If the search fee as set forth in § 1.445(a)(2) has been paid on the international application to the United States Patent and Trademark Office as an International Searching Authority:
 
+|                                     |      |
+|-------------------------------------|------|
 |     By a micro entity (§ 1.29)      |$35.00|
-|:------------------------------------|-----:|
 |    By a small entity (§ 1.27(a))    |70.00 |
 |By other than a small or micro entity|140.00|
 
 (3) If an international search report on the international application has been prepared by an International Searching Authority other than the United States International Searching Authority and is provided, or has been previously communicated by the International Bureau, to the Office:
 
+|                                     |       |
+|-------------------------------------|-------|
 |     By a micro entity (§ 1.29)      |$130.00|
-|:------------------------------------|------:|
 |    By a small entity (§ 1.27(a))    |260.00 |
 |By other than a small or micro entity|520.00 |
 
 (4) In all situations not provided for in paragraph (b)(1), (2), or (3) of this section:
 
+|                                     |       |
+|-------------------------------------|-------|
 |     By a micro entity (§ 1.29)      |$165.00|
-|:------------------------------------|------:|
 |    By a small entity (§ 1.27(a))    |330.00 |
 |By other than a small or micro entity|660.00 |
 
@@ -50,29 +54,33 @@ The following fees and charges are established for international applications en
 
 (2) In all situations not provided for in paragraph (c)(1) of this section:
 
+|                                     |       |
+|-------------------------------------|-------|
 |     By a micro entity (§ 1.29)      |$190.00|
-|:------------------------------------|------:|
 |    By a small entity (§ 1.27(a))    |380.00 |
 |By other than a small or micro entity|760.00 |
 
 (d) In addition to the basic national fee, for filing or on later presentation at any other time of each claim in independent form in excess of 3:
 
+|                                     |       |
+|-------------------------------------|-------|
 |     By a micro entity (§ 1.29)      |$115.00|
-|:------------------------------------|------:|
 |    By a small entity (§ 1.27(a))    |230.00 |
 |By other than a small or micro entity|460.00 |
 
 (e) In addition to the basic national fee, for filing or on later presentation at any other time of each claim (whether dependent or independent) in excess of 20 (note that § 1.75(c) indicates how multiple dependent claims are considered for fee calculation purposes):
 
+|                                     |      |
+|-------------------------------------|------|
 |     By a micro entity (§ 1.29)      |$25.00|
-|:------------------------------------|-----:|
 |    By a small entity (§ 1.27(a))    |50.00 |
 |By other than a small or micro entity|100.00|
 
 (f) In addition to the basic national fee, if the application contains, or is amended to contain, a multiple dependent claim, per application:
 
+|                                     |       |
+|-------------------------------------|-------|
 |     By a micro entity (§ 1.29)      |$205.00|
-|:------------------------------------|------:|
 |    By a small entity (§ 1.27(a))    |410.00 |
 |By other than a small or micro entity|820.00 |
 

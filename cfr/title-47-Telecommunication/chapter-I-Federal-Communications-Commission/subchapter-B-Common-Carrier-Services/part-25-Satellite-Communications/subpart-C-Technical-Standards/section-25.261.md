@@ -1,19 +1,15 @@
-##### § 25.261 Procedures for avoidance of in-line interference events for Non Geostationary Satellite Orbit (NGSO) Satellite Network Operations in the Fixed-Satellite Service (FSS) Bands. #####
+##### § 25.261 Sharing among NGSO FSS space stations. #####
 
-Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
+(a) *Scope.* This section applies to NGSO FSS operation with earth stations with directional antennas anywhere in the world under a Commission license, or in the United States under a grant of U.S. market access.
 
-(a) *Applicable NGSO FSS Bands.* The coordination procedures in this section apply to non-Federal-Government NGSO FSS satellite networks operating in the following assigned frequency bands: The 28.6-29.1 GHz or 18.8-19.3 GHz frequency bands.
+(b) *Coordination.* NGSO FSS operators must coordinate in good faith the use of commonly authorized frequencies.
 
-(b) *Definition of “In-line interference events.”* For purposes of this section, an “in-line interference event” is defined as the interference associated with an occurrence of any physical alignment of space stations of two or more satellite networks with an operating Earth station of one of these networks in such a way that the angular separation between operational links of the two networks is less than 10° as measured at the Earth station.
+(c) *Default procedure.* Absent coordination between two or more satellite systems, whenever the increase in system noise temperature of an earth station receiver, or a space station receiver for a satellite with on-board processing, of either system, ΔT/T, exceeds 6 percent due to interference from emissions originating in the other system in a commonly authorized frequency band, such frequency band will be divided among the affected satellite networks in accordance with the following procedure:
 
-(c) *Default procedure.* If no agreed coordination exists between two or more satellite networks, then the bands will be divided among the affected satellite networks involved in an in-line interference event in accordance with the following procedure:
+(1) Each of n (number of) satellite networks involved must select 1/n of the assigned spectrum available in each of these frequency bands. The selection order for each satellite network will be determined by the date that the first space station in each satellite system is launched and capable of operating in the frequency band under consideration;
 
-(1) Each of n (number of) satellite networks involved in a particular in-line interference event shall select 1/n of the assigned spectrum available in each frequency band for its home base spectrum. The selection order for each satellite network shall be determined by and be in accordance with the date that the first space station in each satellite network is launched and operating;
+(2) The affected station(s) of the respective satellite systems may operate in only the selected (1/n) spectrum associated with its satellite system while the ΔT/T of 6 percent threshold is exceeded;
 
-(2) The affected space station(s) of the respective satellite networks shall only operate in the selected (1/n) spectrum associated with its satellite network, its home base spectrum, for the duration of the in-line interference event;
+(3) All affected station(s) may resume operations throughout the assigned frequency bands once the threshold is no longer exceeded.
 
-(3) All affected space station(s) may resume operations throughout the assigned frequency bands once the angular separation between the affected space stations in the in-line interference event is again greater than 10°.
-
-(d) *Coordination procedure.* Any coordination procedure agreed among the affected operating satellite networks, which allows operations of the satellite networks when each network's respective space stations are within the 10 degree avoidance angle associated with an in-line interference event, shall supersede the default procedure of paragraph (c) of this section. Coordination may be effected using information relating to the space stations and the parameters of one or more typical earth stations. All parties are required to coordinate in good faith.
-
-[68 FR 59129, Oct. 14, 2003, as amended at 78 FR 8430, Feb. 6, 2013]
+[82 FR 59986, Dec. 18, 2017]

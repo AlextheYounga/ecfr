@@ -1,10 +1,8 @@
 ##### § 25.143 Licensing provisions for the 1.6/2.4 GHz Mobile-Satellite Service and 2 GHz Mobile-Satellite Service. #####
 
-Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
-
 (a) Authority to launch and operate a constellation of NGSO satellites will be granted in a single blanket license for operation of a specified number of space stations in specified orbital planes. An individual license will be issued for each GSO satellite, whether it is to be operated in a GSO-only system or in a GSO/NGSO hybrid system.
 
-(b) *Qualification Requirements* - (1) *General Requirements.* Each application for a space station system authorization in the 1.6/2.4 GHz Mobile-Satellite Service or 2 GHz Mobile-Satellite Service must include the information specified in § 25.114. Applications for non-U.S.-licensed systems must comply with the provisions of § 25.137.
+(b) *Qualification Requirements*—(1) *General Requirements.* Each application for a space station system authorization in the 1.6/2.4 GHz Mobile-Satellite Service or 2 GHz Mobile-Satellite Service must include the information specified in § 25.114. Applications for non-U.S.-licensed systems must comply with the provisions of § 25.137.
 
 (2) *Technical qualifications.* In addition to providing the information specified in paragraph (b)(1) of this section, each applicant and petitioner must demonstrate the following:
 
@@ -22,6 +20,4 @@ Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
 
 (2) Licensees offering distress and safety services should coordinate with the appropriate search and rescue organizations responsible for the licensees service area.
 
-(d) Prohibition of certain agreements. No license shall be granted to any applicant for a space station in the Mobile-Satellite Service operating at 1610-1626.5 MHz/2483.5-2500 MHz if that applicant, or any persons or companies controlling or controlled by the applicant, shall acquire or enjoy any right, for the purpose of handling traffic to or from the United States, its territories or possession, to construct or operate space segment or earth stations, or to interchange traffic, which is denied to any other United States company by reason of any concession, contract, understanding, or working arrangement to which the Licensee or any persons or companies controlling or controlled by the Licensee are parties.
-
-[59 FR 53328, Oct. 21, 1994, as amended at 61 FR 9945, Mar. 12, 1996; 62 FR 5930, Feb. 10, 1997; 65 FR 59143, Oct. 4, 2000; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51504, Aug. 27, 2003; 70 FR 59277, Oct. 12, 2005; 78 FR 8267, Feb. 5, 2013; 78 FR 8422, Feb. 6, 2013; 79 FR 8320, Feb. 12, 2014; 81 FR 55333, Aug. 18, 2016]
+[59 FR 53328, Oct. 21, 1994, as amended at 61 FR 9945, Mar. 12, 1996; 62 FR 5930, Feb. 10, 1997; 65 FR 59143, Oct. 4, 2000; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51504, Aug. 27, 2003; 70 FR 59277, Oct. 12, 2005; 78 FR 8267, Feb. 5, 2013; 78 FR 8422, Feb. 6, 2013; 79 FR 8320, Feb. 12, 2014; 81 FR 55333, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017]

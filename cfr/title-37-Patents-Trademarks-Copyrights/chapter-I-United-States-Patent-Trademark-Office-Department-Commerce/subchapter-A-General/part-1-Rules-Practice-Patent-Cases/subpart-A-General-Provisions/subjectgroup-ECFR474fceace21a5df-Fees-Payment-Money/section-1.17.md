@@ -57,15 +57,17 @@
 
 (1) For filing a first request for continued examination pursuant to § 1.114 in an application:
 
+|                                     |        |
+|-------------------------------------|--------|
 |     By a micro entity (§ 1.29)      |$325.00 |
-|:------------------------------------|-------:|
 |    By a small entity (§ 1.27(a))    | 650.00 |
 |By other than a small or micro entity|1,300.00|
 
 (2) For filing a second or subsequent request for continued examination pursuant to § 1.114 in an application:
 
+|                                     |        |
+|-------------------------------------|--------|
 |     By a micro entity (§ 1.29)      |$475.00 |
-|:------------------------------------|-------:|
 |    By a small entity (§ 1.27(a))    | 950.00 |
 |By other than a small or micro entity|1,900.00|
 
@@ -127,8 +129,9 @@
 
 (h) For filing a petition under one of the following sections which refers to this paragraph (h):
 
+|                                     |      |
+|-------------------------------------|------|
 |     By a micro entity (§ 1.29)      |$35.00|
-|:------------------------------------|-----:|
 |    By a small entity (§ 1.27(a))    |70.00 |
 |By other than a small or micro entity|140.00|
 
@@ -197,8 +200,9 @@
 
 (m) For filing a petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, for the extension of the twelve-month (six-month for designs) period for filing a subsequent application (§§ 1.55(c) and (e), 1.78(b), (c), and (e), 1.137, 1.378, and 1.452), or for filing a petition to excuse applicant's failure to act within prescribed time limits in an international design application (§ 1.1051):
 
+|                                     |        |
+|-------------------------------------|--------|
 |     By a micro entity (§ 1.29)      |$500.00 |
-|:------------------------------------|-------:|
 |    By a small entity (§ 1.27(a))    |1,000.00|
 |By other than a small or micro entity|2,000.00|
 
@@ -212,15 +216,12 @@
 
 (p) For an information disclosure statement under § 1.97(c) or (d):
 
-|     By a micro entity (§ 1.29)      |$60.00|
-|:------------------------------------|-----:|
-|    By a small entity (§ 1.27(a))    |120.00|
-|By other than a small or micro entity|240.00|
-
-(q) Processing fee for taking action under one of the following sections which refers to this paragraph
-
-|   |$50.00|
-|:--|-----:|
+|                                                                                                       |      |
+|-------------------------------------------------------------------------------------------------------|------|
+|                                      By a micro entity (§ 1.29)                                       |$60.00|
+|                                     By a small entity (§ 1.27(a))                                     |120.00|
+|                                 By other than a small or micro entity                                 |240.00|
+|(q) Processing fee for taking action under one of the following sections which refers to this paragraph|$50.00|
 
 § 1.41 - to supply the name or names of the inventor or inventors after the filing date without a cover sheet as prescribed by § 1.51(c)(1) in a provisional application.
 
@@ -244,8 +245,9 @@
 
 (t) For filing a petition to convert an international design application to a design application under 35 U.S.C. chapter 16 (§ 1.1052):
 
+|                                     |      |
+|-------------------------------------|------|
 |     By a micro entity (§ 1.29)      |$45.00|
-|:------------------------------------|-----:|
 |    By a small entity (§ 1.27(a))    |90.00 |
 |By other than a small or micro entity|180.00|
 

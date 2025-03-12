@@ -5,8 +5,8 @@
 |                     Date of violation                     |Penalty|
 |-----------------------------------------------------------|-------|
 |Violation occurring between Sept. 29, 1999 and Nov. 2, 2015|$11,000|
-|          Violation occurring after Nov. 2, 2015           |19,246 |
+|          Violation occurring after Nov. 2, 2015           |19,639 |
 
 (b) This remedy shall be in addition to any other remedy available under statutory or common law.
 
-[82 FR 8133, Jan. 24, 2017]
+[83 FR 2330, Jan. 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 25.142 Licensing provisions for the non-voice, non-geostationary Mobile-Satellite Service. #####
 
-Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
-
 (a) *Space station application requirements.* (1) Each application for a space station system authorization in the non-voice, non-geostationary mobile-satellite service shall describe in detail the proposed non-voice, non-geostationary mobile-satellite system, setting forth all pertinent technical and operational aspects of the system, and the technical and legal qualifications of the applicant. In particular, each application shall include the information specified in § 25.114. Applicants must also file information demonstrating compliance with all requirements of this section, and showing, based on existing system information publicly available at the Commission at the time of filing, that they will not cause unacceptable interference to any non-voice, non-geostationary mobile-satellite service system authorized to construct or operate.
 
 (2) Applicants for a non-voice, non-geostationary Mobile-Satellite Service space station license must identify the power flux density produced at the Earth's surface by each space station of their system in the 137-138 MHz and 400.15-401 MHz bands, to allow determination of whether coordination with terrestrial services is required under any applicable footnote to the Table of Frequency Allocations in § 2.106 of this chapter. In addition, applicants must identify the measures they would employ to protect the radio astronomy service in the 150.05-153 MHz and 406.1-410 MHz bands from harmful interference from unwanted emissions.
@@ -30,6 +28,4 @@ Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
 
 (c) [Reserved]
 
-(d) *Prohibition of certain agreements.* No license shall be granted to any applicant for a non-voice, non-geostationary mobile-satellite service system if that applicant, or any companies controlling or controlled by the applicant, shall acquire or enjoy any right, for the purpose of handling traffic to or from the United States, its territories or possessions, to construct or operate space segment or earth stations in the non-voice, non-geosynchronous mobile-satellite service, or to interchange traffic, which is denied to any other United States company by reason of any concession, contract, understanding, or working arrangement to which the licensee or any persons or companies controlling or controlled by the licensee are parties.
-
-[58 FR 68060, Dec. 23, 1993, as amended at 62 FR 5930, Feb. 10, 1997; 62 FR 59295, Nov. 3, 1997; 68 FR 51504, Aug. 27, 2003; 78 FR 8422, Feb. 6, 2013; 79 FR 8320, Feb. 12, 2014; 81 FR 55333, Aug. 18, 2016]
+[58 FR 68060, Dec. 23, 1993, as amended at 62 FR 5930, Feb. 10, 1997; 62 FR 59295, Nov. 3, 1997; 68 FR 51504, Aug. 27, 2003; 78 FR 8422, Feb. 6, 2013; 79 FR 8320, Feb. 12, 2014; 81 FR 55333, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017]
