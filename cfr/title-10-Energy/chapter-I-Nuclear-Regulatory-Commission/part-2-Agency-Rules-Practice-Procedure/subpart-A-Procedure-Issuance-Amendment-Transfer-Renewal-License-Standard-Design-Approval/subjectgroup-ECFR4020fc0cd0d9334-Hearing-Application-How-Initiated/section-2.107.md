@@ -1,6 +1,6 @@
 ##### § 2.107 Withdrawal of application. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) The Commission may permit an applicant to withdraw an application prior to the issuance of a notice of hearing on such terms and conditions as it may prescribe, or may, on receiving a request for withdrawal of an application, deny the application or dismiss it with prejudice. If the application is withdrawn prior to issuance of a notice of hearing, the Commission shall dismiss the proceeding. Withdrawal of an application after the issuance of a notice of hearing shall be on such terms as the presiding officer may prescribe.
 

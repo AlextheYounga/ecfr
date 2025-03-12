@@ -1,6 +1,6 @@
 ##### § 2.110 Filing and administrative action on submittals for standard design approval or early review of site suitability issues. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a)(1) A submittal for a standard design approval under subpart E of part 52 of this chapter shall be subject to §§ 2.101(a) and 2.390 to the same extent as if it were an application for a permit or license.
 

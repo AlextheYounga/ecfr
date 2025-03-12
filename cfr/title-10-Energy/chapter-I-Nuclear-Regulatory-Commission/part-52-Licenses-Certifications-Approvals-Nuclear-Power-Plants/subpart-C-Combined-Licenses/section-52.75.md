@@ -1,6 +1,6 @@
 ##### § 52.75 Filing of applications. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) Any person except one excluded by § 50.38 of this chapter may file an application for a combined license for a nuclear power facility with the Director, Office of New Reactors or Director, Office of Nuclear Reactor Regulation, as appropriate.
 

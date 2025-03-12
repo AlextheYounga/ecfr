@@ -1,6 +1,6 @@
 ##### § 50.70 Inspections. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) Each applicant for or holder of a license, including a construction permit or an early site permit, shall permit inspection, by duly authorized representatives of the Commission, of his records, premises, activities, and of licensed materials in possession or use, related to the license or construction permit or early site permit as may be necessary to effectuate the purposes of the Act, as amended, including Section 105 of the Act, and the Energy Reorganization Act of 1974, as amended.
 

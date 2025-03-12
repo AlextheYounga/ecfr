@@ -1,6 +1,6 @@
 ##### § 73.4 Communications. #####
 
-Link to an amendment published at 84 FR 65646, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 Except where otherwise specified, all communications and reports concerning the regulations in this part and applications filed under them should be sent as follows:
 

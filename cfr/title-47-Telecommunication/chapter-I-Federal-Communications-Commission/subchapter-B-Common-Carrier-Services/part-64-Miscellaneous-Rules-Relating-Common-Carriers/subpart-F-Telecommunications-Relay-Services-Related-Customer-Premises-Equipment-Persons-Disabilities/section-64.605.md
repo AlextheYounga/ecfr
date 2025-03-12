@@ -1,5 +1,7 @@
 ##### § 64.605 Emergency calling requirements. #####
 
+Link to an amendment published at 84 FR 66779, Dec. 5, 2019.
+
 (a) *Additional emergency calling requirements applicable to internet-based TRS providers.* (1) As of December 31, 2008, the requirements of paragraphs (a)(2)(i) and (a)(2)(iv) of this section shall not apply to providers of VRS and IP Relay to which § 64.605(b) applies.
 
 (2) Each provider of Internet-based TRS shall:

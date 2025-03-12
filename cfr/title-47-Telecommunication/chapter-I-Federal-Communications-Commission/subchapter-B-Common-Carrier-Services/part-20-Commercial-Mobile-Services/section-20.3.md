@@ -1,5 +1,7 @@
 ##### § 20.3 Definitions. #####
 
+Link to an amendment published at 84 FR 66779, Dec. 5, 2019.
+
 *Appropriate local emergency authority.* An emergency answering point that has not been officially designated as a Public Safety Answering Point (PSAP), but has the capability of receiving 911 calls and either dispatching emergency services personnel or, if necessary, relaying the call to another emergency service provider. An appropriate local emergency authority may include, but is not limited, to an existing local law enforcement authority, such as the police, county sheriff, local emergency medical services provider, or fire department.
 
 *Automatic Number Identification* (ANI). A system that identifies the billing account for a call. For 911 systems, the ANI identifies the calling party and may be used as a call back number.

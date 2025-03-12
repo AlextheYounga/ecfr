@@ -1,6 +1,6 @@
 ##### § 1.44 Office of New Reactors. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 The Office of New Reactors -
 

@@ -1,5 +1,7 @@
 ##### § 20.2 Other applicable rule parts. #####
 
+Link to an amendment published at 84 FR 66779, Dec. 5, 2019.
+
 Other FCC rule parts applicable to licensees in the commercial mobile radio services include the following:
 
 (a) *Part 1.* This part includes rules of practice and procedure for license applications, adjudicatory proceedings, procedures for reconsideration and review of the Commission's actions; provisions concerning violation notices and forfeiture proceedings; competitive bidding procedures; and the environmental requirements that, together with the procedures specified in § 17.4(c) of this chapter, if applicable, must be complied with prior to the initiation of construction. Subpart F includes the rules for the Wireless Telecommunications Services and the procedures for filing electronically via the ULS.

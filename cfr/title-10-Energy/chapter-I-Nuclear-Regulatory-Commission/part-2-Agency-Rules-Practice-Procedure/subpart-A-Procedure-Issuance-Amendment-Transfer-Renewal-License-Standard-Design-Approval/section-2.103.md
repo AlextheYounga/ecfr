@@ -1,6 +1,6 @@
 ##### § 2.103 Action on applications for byproduct, source, special nuclear material, facility and operator licenses. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) If the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, finds that an application for a byproduct, source, special nuclear material, facility, or operator license complies with the requirements of the Act, the Energy Reorganization Act, and this chapter, he will issue a license. If the license is for a facility, or for receipt of waste radioactive material from other persons for the purpose of commercial disposal by the waste disposal licensee, or for a construction authorization for a HLW repository at a geologic repository operations area under parts 60 or 63 of this chapter, or if it is to receive and possess high-level radioactive waste at a geologic repository operations area under parts 60 or 63 of this chapter, the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, will inform the State, Tribal and local officials specified in § 2.104(c) of the issuance of the license. For notice of issuance requirements for licenses issued under part 61 of this chapter, see § 2.106(d).
 

@@ -1,6 +1,6 @@
 ##### § 51.107 Public hearings in proceedings for issuance of combined licenses; limited work authorizations. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) In addition to complying with the applicable requirements of § 51.104, in a proceeding for the issuance of a combined license for a nuclear power reactor under part 52 of this chapter, the presiding officer will:
 

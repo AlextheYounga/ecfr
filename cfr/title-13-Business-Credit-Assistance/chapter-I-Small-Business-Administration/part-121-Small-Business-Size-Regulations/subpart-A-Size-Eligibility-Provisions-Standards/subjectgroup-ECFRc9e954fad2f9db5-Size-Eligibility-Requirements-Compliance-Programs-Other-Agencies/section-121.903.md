@@ -1,5 +1,7 @@
 ##### § 121.903 How may an agency use size standards for its programs that are different than those established by SBA? #####
 
+Link to an amendment published at 84 FR 66579, Dec. 5, 2019.
+
 (a) Federal agencies or departments promulgating regulations relating to small businesses usually use SBA size criteria. In limited circumstances, if they decide the SBA size standard is not suitable for their programs, then agency heads may establish a more appropriate small business definition for the exclusive use in such programs, but only when:
 
 (1) The size standard will determine:

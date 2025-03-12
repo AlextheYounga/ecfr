@@ -1,6 +1,6 @@
 ##### § 71.95 Reports. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) The licensee, after requesting the certificate holder's input, shall submit a written report to the Commission of -
 

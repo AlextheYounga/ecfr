@@ -1,6 +1,6 @@
 ##### § 2.643 Acceptance and docketing of application for limited work authorization. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) Each part of an application submitted in accordance with § 2.101(a)(9) will be initially treated as a tendered application. If it is determined that any one of the parts as described in § 2.101(a)(9) is incomplete and not acceptable for processing, the Director of New Reactors or the Director of Nuclear Reactor Regulation will inform the applicant of this determination and the respects in which the document is deficient. A determination of completeness will generally be made within a period of 30 days.
 

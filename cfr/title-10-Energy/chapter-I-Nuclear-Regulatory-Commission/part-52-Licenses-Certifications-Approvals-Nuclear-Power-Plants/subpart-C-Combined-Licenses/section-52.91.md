@@ -1,6 +1,6 @@
 ##### § 52.91 Authorization to conduct limited work authorization activities. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) If the application does not reference an early site permit which authorizes the holder to perform the activities under 10 CFR 50.10(d), the applicant may not perform those activities without obtaining the separate authorization required by 10 CFR 50.10(d). Authorization may be granted only after the presiding officer in the proceeding on the application has made the findings and determination required by 10 CFR 50.10(e), and the Director of New Reactors or the Director of Nuclear Reactor Regulation makes the determination required by 10 CFR 50.10(e).
 

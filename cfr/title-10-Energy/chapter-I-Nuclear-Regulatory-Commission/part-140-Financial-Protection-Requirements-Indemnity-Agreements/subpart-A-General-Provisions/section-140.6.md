@@ -1,6 +1,6 @@
 ##### § 140.6 Reports. #####
 
-Link to an amendment published at 84 FR 65646, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) In the event of bodily injury or property damage arising out of or in connection with the possession or use of the radioactive material at the location or in the course of transportation, or in the event any claim is made therefor, written notice containing particulars sufficient to identify the licensee and reasonably obtainable information with respect to the time, place, and circumstances thereof, or to the nature of the claim, shall be furnished by or for the licensee to the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, using an appropriate method listed in § 140.5, but in any case as promptly as practicable. The terms the radioactive material, the location, and in the course of transportation as used in this section shall have the meanings defined in the applicable indemnity agreement between the licensee and the Commission.
 

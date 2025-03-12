@@ -1,6 +1,6 @@
 ##### § 100.4 Communications. #####
 
-Link to an amendment published at 84 FR 65646, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 Except where otherwise specified, all communications and reports concerning the regulations in this part and applications filed under them should be sent by mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Reactor Regulation or Director, Office of New Reactors, as appropriate, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; by hand delivery to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland; or, where practicable, by electronic submission, for example, via Electronic Information Exchange, or CD-ROM. Electronic submissions must be made in a manner that enables the NRC to receive, read, authenticate, distribute, and archive the submission, and process and retrieve it a single page at a time. Detailed guidance on making electronic submissions can be obtained by visiting the NRC's Web site at *http://www.nrc.gov/site-help/e-submittals.html;* by e-mail to *MSHD.Resource@nrc.gov;* or by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The guidance discusses, among other topics, the formats the NRC can accept, the use of electronic signatures, and the treatment of nonpublic information. Copies should be sent to the appropriate Regional Office and Resident Inspector.
 

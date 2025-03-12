@@ -1,6 +1,6 @@
 ##### § 71.101 Quality assurance requirements. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) *Purpose.* This subpart describes quality assurance requirements applying to design, purchase, fabrication, handling, shipping, storing, cleaning, assembly, inspection, testing, operation, maintenance, repair, and modification of components of packaging that are important to safety. As used in this subpart, “quality assurance” comprises all those planned and systematic actions necessary to provide adequate confidence that a system or component will perform satisfactorily in service. Quality assurance includes quality control, which comprises those quality assurance actions related to control of the physical characteristics and quality of the material or component to predetermined requirements. Each certificate holder and applicant for a package approval is responsible for satisfying the quality assurance requirements that apply to design, fabrication, testing, and modification of packaging subject to this subpart. Each licensee is responsible for satisfying the quality assurance requirements that apply to its use of a packaging for the shipment of licensed material subject to this subpart.
 

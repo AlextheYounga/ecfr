@@ -1,6 +1,6 @@
 ##### § 2.108 Denial of application for failure to supply information. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) The Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, may deny an application if an applicant fails to respond to a request for additional information within thirty (30) days from the date of the request, or within such other time as may be specified.
 

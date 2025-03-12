@@ -1,6 +1,6 @@
 ##### § 2.340 Initial decision in certain contested proceedings; immediate effectiveness of initial decisions; issuance of authorizations, permits, and licenses. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) *Initial decision - production or utilization facility operating license.* (1) Matters in controversy; presiding officer consideration of matters not put in controversy by parties. In any initial decision in a contested proceeding on an application for an operating license or renewed license (including an amendment to or renewal of an operating license or renewed license) for a production or utilization facility, the presiding officer shall make findings of fact and conclusions of law on the matters put into controversy by the parties and any matter designated by the Commission to be decided by the presiding officer. The presiding officer shall also make findings of fact and conclusions of law on any matter not put into controversy by the parties, but only to the extent that the presiding officer determines that a serious safety, environmental, or common defense and security matter exists, and the Commission approves of an examination of and decision on the matter upon its referral by the presiding officer under, inter alia, the provisions of §§ 2.323 and 2.341.
 

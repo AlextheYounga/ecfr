@@ -1,6 +1,6 @@
 ##### § 73.46 Fixed site physical protection systems, subsystems, components, and procedures. #####
 
-Link to an amendment published at 84 FR 65646, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) A licensee physical protection system established pursuant to the general performance objective and requirements of § 73.20(a) and the performance capability requirements of § 73.45 shall include, but are not necessarily limited to, the measures specified in paragraphs (b) through (h) of this section. The Commission may require, depending on individual facility and site conditions, alternate or additional measures deemed necessary to meet the general performance objective and requirements of § 73.20. The Commission also may authorize protection measures other than those required by this section if, in its opinion, the overall level of performance meets the general performance objective and requirements of § 73.20 and the performance capability requirements of § 73.45.
 

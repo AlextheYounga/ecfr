@@ -1,5 +1,7 @@
 ##### § 775.6 Planning considerations. #####
 
+Link to an amendment published at 84 FR 66589, Dec. 5, 2019.
+
 (a) An EIS must be prepared for proposed major Federal actions that will have significant impacts on the human environment. The agency decision in the case of an EIS is reflected in a ROD.
 
 (b) Where a proposed major Federal action has the potential for significantly affecting the human environment, but it is not clear whether the impacts of that particular action will in fact be significant, or where the nature of an action precludes use of a categorical exclusion, an EA may be used to assist the agency in determining whether to prepare an EIS. If the agency determination in the case of an EA is that there is no significant impact on the environment, the findings will be reflected in a FONSI. If the EA determines that the proposed action is likely to significantly affect the environment (even after mitigation), then an EIS will be prepared. An EA also may be used where it otherwise will aid compliance with NEPA.

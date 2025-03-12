@@ -1,7 +1,5 @@
 ##### § 1.6002 Definitions. #####
 
-Link to an amendment published at 84 FR 59567, November 5, 2019.
-
 Terms not specifically defined in this section or elsewhere in this subpart have the meanings defined in this part and the Communications Act of 1934, 47 U.S.C. 151 *et seq.* Terms used in this subpart have the following meanings:
 
 (a) *Action* or *to act* on a siting application means a siting authority's grant of a siting application or issuance of a written decision denying a siting application.
@@ -16,7 +14,7 @@ Terms not specifically defined in this section or elsewhere in this subpart have
 
 (f) *Authorization* means any approval that a siting authority must issue under applicable law prior to the deployment of personal wireless service facilities, including, but not limited to, zoning approval and building permit.
 
-(g) *Collocation,* consistent with § 1.1320(d) and the Nationwide Programmatic Agreement (NPA) for the Collocation of Wireless Antennas, appendix B of this part, section I.B, means -
+(g) *Collocation,* consistent with § 1.1320(d) and the Nationwide Programmatic Agreement (NPA) for the Collocation of Wireless Antennas, appendix B of this part, section I.B, means—
 
 (1) Mounting or installing an antenna facility on a pre-existing structure; and/or
 
@@ -32,9 +30,9 @@ Terms not specifically defined in this section or elsewhere in this subpart have
 
 (k) *Siting authority* means a State government, local government, or instrumentality of a State government or local government, including any official or organizational unit thereof, whose authorization is necessary prior to the deployment of personal wireless service facilities.
 
-(l) *Small wireless facilities,* consistent with § 1.1312(e)(2), are facilities that meet each of the following conditions:
+(l) *Small wireless facilities* are facilities that meet each of the following conditions:
 
-(1) The facilities -
+(1) The facilities—
 
 (i) Are mounted on structures 50 feet or less in height including their antennas as defined in § 1.1320(d); or
 
@@ -42,7 +40,7 @@ Terms not specifically defined in this section or elsewhere in this subpart have
 
 (iii) Do not extend existing structures on which they are located to a height of more than 50 feet or by more than 10 percent, whichever is greater;
 
-(2) Each antenna associated with the deployment, excluding associated antenna equipment (as defined in the definition of “antenna” in § 1.1320(d)), is no more than three cubic feet in volume;
+(2) Each antenna associated with the deployment, excluding associated antenna equipment (as defined in the definition of antenna in § 1.1320(d)), is no more than three cubic feet in volume;
 
 (3) All other wireless equipment associated with the structure, including the wireless equipment associated with the antenna and any pre-existing associated equipment on the structure, is no more than 28 cubic feet in volume;
 
@@ -53,3 +51,5 @@ Terms not specifically defined in this section or elsewhere in this subpart have
 (6) The facilities do not result in human exposure to radiofrequency radiation in excess of the applicable safety standards specified in § 1.1307(b).
 
 (m) *Structure* means a pole, tower, base station, or other building, whether or not it has an existing antenna facility, that is used or to be used for the provision of personal wireless service (whether on its own or comingled with other types of services).
+
+[83 FR 51884, Oct. 15, 2018, as amended at 84 FR 59567, Nov. 5, 2019]

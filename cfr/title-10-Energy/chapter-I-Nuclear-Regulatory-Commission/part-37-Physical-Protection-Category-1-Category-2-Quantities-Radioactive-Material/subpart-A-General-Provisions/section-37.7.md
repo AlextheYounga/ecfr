@@ -1,6 +1,6 @@
 ##### § 37.7 Communications. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 Except where otherwise specified or covered under the regional licensing program as provided in § 30.6(b) of this chapter, all communications and reports concerning the regulations in this part may be sent as follows:
 

@@ -1,6 +1,6 @@
 ##### § 1.9020 Spectrum manager leasing arrangements. #####
 
-Link to an amendment published at 84 FR 57363, October 25, 2019.
+Link to an amendment published at 84 FR 57363, October 25, 2019.Link to an amendment published at 84 FR 66760, Dec. 5, 2019.
 
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a spectrum manager leasing arrangement, without the need for prior Commission approval, provided that the licensee retains *de jure* control of the license and *de facto* control, as defined and explained in this subpart, of the leased spectrum. The licensee must notify the Commission of the spectrum leasing arrangement pursuant to the rules set forth in this section. The term of a spectrum manager leasing arrangement may be no longer than the term of the license authorization.
 

@@ -1,6 +1,6 @@
 ##### § 2.802 Petition for rulemaking - requirements for filing. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) *Filing a petition for rulemaking.* Any person may petition the Commission to issue, amend, or rescind any regulation in 10 CFR chapter I. The petition for rulemaking should be addressed to the Secretary, Attention: Rulemakings and Adjudications Staff, and sent by mail addressed to the U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; by email to *Rulemaking.Comments@nrc.gov;* or by hand delivery to 11555 Rockville Pike, Rockville, Maryland 20852, between 7:30 a.m. and 4:15 p.m. (Eastern time) on Federal workdays.
 

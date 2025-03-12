@@ -1,6 +1,6 @@
 ##### § 50.30 Filing of application; oath or affirmation. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) *Serving of applications.* (1) Each filing of an application for a standard design approval or license to construct and/or operate, or manufacture, a production or utilization facility (including an early site permit, combined license, and manufacturing license under part 52 of this chapter), and any amendments to the applications, must be submitted to the U.S. Nuclear Regulatory Commission in accordance with § 50.4 or § 52.3 of this chapter, as applicable.
 

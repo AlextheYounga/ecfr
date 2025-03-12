@@ -1,6 +1,6 @@
 ##### § 2.629 Finality of partial decision on site suitability issues in a combined license proceeding. #####
 
-Link to an amendment published at 84 FR 63567, Nov. 18, 2019.Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 63567, Nov. 18, 2019.Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) The partial decision on site suitability issues in a combined license proceeding shall be incorporated in the decision regarding issuance of a combined license. Except as provided in 10 CFR 2.758, in making the findings required for issuance of a combined license, the Commission shall treat as resolved those matters resolved in connection with the issuance of the partial decision on site suitability issues. If the Commission reaches an adverse decision, the application shall be denied without prejudice for resubmission, provided, however, that in determining whether the resubmitted application is complete and acceptable for docketing under § 2.101(a)(3), the Director of the Office of New Reactors or the Director of the Office of Nuclear Reactor Regulation, as appropriate, shall determine whether the resubmitted application addresses those matters identified as bases for denial of the original application.
 

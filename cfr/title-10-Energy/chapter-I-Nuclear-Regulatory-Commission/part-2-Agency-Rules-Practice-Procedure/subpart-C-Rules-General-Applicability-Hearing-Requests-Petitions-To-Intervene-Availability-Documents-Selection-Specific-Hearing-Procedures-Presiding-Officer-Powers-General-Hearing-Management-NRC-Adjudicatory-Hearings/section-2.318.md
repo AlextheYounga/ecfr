@@ -1,6 +1,6 @@
 ##### § 2.318 Commencement and termination of jurisdiction of presiding officer. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) Unless the Commission orders otherwise, the jurisdiction of the presiding officer designated to conduct a hearing over the proceeding, including motions and procedural matters, commences when the proceeding commences. If a presiding officer has not been designated, the Chief Administrative Judge has jurisdiction or, if he or she is unavailable, another administrative judge or administrative law judge has jurisdiction. A proceeding commences when a notice of hearing or a notice of proposed action under § 2.105 is issued. When a notice of hearing provides that the presiding officer is to be an administrative judge or an administrative law judge, the Chief Administrative Judge will designate by order the administrative judge or administrative law judge, as appropriate, who is to preside. The presiding officer's jurisdiction in each proceeding terminates when the period within which the Commission may direct that the record be certified to it for final decision expires, when the Commission renders a final decision, or when the presiding officer withdraws from the case upon considering himself or herself disqualified, whichever is earliest.
 

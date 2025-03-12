@@ -1,7 +1,5 @@
 ##### § 17.96 Critical habitat - plants. #####
 
-Link to an amendment published at 84 FR 59587, November 5, 2019.
-
 (a) *Flowering plants.*
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
@@ -4510,91 +4508,7 @@ Map follows:
 
 (7) Unit 2: Black Knolls Unit, Mohave County, Arizona. Map of Unit 2 is provided at paragraph (6) of this entry.
 
-Family Onagraceae: *Gaura neomexicana* ssp. *coloradensis* (Colorado butterfly plant)
-
-(1) Critical habitat units are depicted for Laramie and Platte Counties in Wyoming, on the maps below.
-
-(2) The primary constituent elements of critical habitat for *Gaura neomexicana* ssp. *coloradensis* are:
-
-(i) Subirrigated, alluvial soils on level or low-gradient floodplains and drainage bottoms at elevations of 1,524 to 1,951 meters (5,000 to 6,400 feet).
-
-(ii) A mesic moisture regime, intermediate in moisture between wet, streamside communities dominated by sedges, rushes, and cattails, and dry upland shortgrass prairie.
-
-(iii) Early- to mid-succession riparian (streambank or riverbank) plant communities that are open and without dense or overgrown vegetation (including hayed fields, grazed pasture, other agricultural lands that are not plowed or disced regularly, areas that have been restored after past aggregate extraction, areas supporting recreation trails, and urban/wildland interfaces).
-
-(iv) Hydrological and geological conditions that serve to create and maintain stream channels, floodplains, floodplain benches, and wet meadows that support patterns of plant communities associated with *Gaura neomexicana* ssp. *coloradensis.*
-
-(3) Critical habitat does not include man-made structures existing on the effective date of this rule and not containing one or more of the primary constituent elements, such as buildings, aqueducts, airports, and roads, and the land on which such structures are located.
-
-(4) Final critical habitat units are described below. Data layers defining map units were created based on U.S. Geological Survey 7.5″ quadrangle maps (Borie, Bristol Ridge, Bristol Ridge NE, Burns, Cheyenne North, C S Ranch, Double L Ranch, Durham, Farthing Ranch, Hillsdale, Hirsig Ranch, Indian Hill, J H D Ranch, Lewis Ranch, Moffett Ranch, Nimmo Ranch, Pine Bluffs, P O Ranch, Round Top Lake) and corresponding U.S. Fish and Wildlife Service National Wetlands Inventory maps. Critical habitat is based on the most current maps of surveyed subpopulations. Critical habitat also includes adjacent areas, upstream and downstream, containing suitable hydrologic regimes, soils, and vegetation communities to allow for seed dispersal between populations and maintenance of the seed bank. To ease identification of the critical habitat, the boundaries follow section lines and major geographical features where feasible. The outward extent of critical habitat is 91 meters (300 feet) from the center line of the stream edge (as defined by the ordinary high-water mark). This amount of land will support the full range of primary constituent elements essential for persistence of *G. n.* ssp. *coloradensis* populations and should adequately protect the plant and its habitats from secondary impacts of nearby disturbance.
-
-(5) Note: Index Map follows:
-
-![](/graphics/er11ja05.000.gif)
-
-(6) Unit 1: Tepee Ring Creek, Platte County, Wyoming.
-
-(i) This unit consists of 2.4 km (1.5 mi) of Tepee Ring Creek bounded by the western edge of Sec. 2, T21NR68W, extending downstream including S2S2 of Sec. 2; downstream to SW4SW4 Sec. 1, bounded by the southern line of Sec. 1.
-
-(ii) Note: Unit 1 (Map 1) follows:
-
-![](/graphics/er11ja05.001.gif)
-
-(7) Unit 2: Bear Creek East, Laramie County, Wyoming.
-
-(i) This unit consists of 8 km (5 mi) of the South Fork of the Bear Creek. Includes T19N R67W, NW4 Sec. 25; NE4 Sec. 25; downstream into T19N R66W, S2 SW4 Sec. 19; N2 SE4 Sec. 19; NW4 Sec. 20; SE4 SW4 Sec. 17; SE4 Sec. 17; NE4SW4; N2 SE4 Sec. 11; N2 SW4 Sec. 12.
-
-(ii) Note: Unit 2 (Map 2) follows:
-
-![](/graphics/er11ja05.002.gif)
-
-(8) Unit 3: Bear Creek West, Laramie County, Wyoming.
-
-(i) Reach 1 consists of 4.7 km (2.9 mi) of an unnamed south tributary of North Bear Creek in the valley between North Bear Creek and the North Fork of the South Fork Bear Creek. Includes T18N R68W, N2 SW4 Sec. 8; downstream to NW4NW4SE4 Sec. 8; SE4NE4 Sec. 8; NW4NW4 Sec. 9; SE4SW4 Sec. 4; S2 SE4 Sec. 4.
-
-(ii) Reach 2 consists of 4.2 km (2.6 mi) of the North Fork of the South Fork Bear Creek, upstream of Nimmo Reservoir No. 9. Includes T18N R68W, SE4SW4 Sec. 17; downstream to N2SW4SE4 Sec. 17; NW4SE4SE4 Sec. 17; S2NE4SE4 Sec. 17; NW4SW4 Sec. 16; SE4NW4 Sec. 16; S2 NE4 Sec. 16.
-
-(iii) Reach 3 consists of 2.8 km (1.7 mi) of the South Fork Bear Creek. Includes T18NR68W, N2N2SE4 Sec. 21; downstream to S2NW4 Sec. 22; NW4SW4NE4 Sec. 22; SE4NW4NE4 Sec. 22; W2 NE4NE4 Sec. 22.
-
-(iv) Note: Unit 3 (Map 3) follows:
-
-![](/graphics/er11ja05.003.gif)
-
-(9) Unit 4: Little Bear Creek/ Horse Creek, Laramie County, Wyoming.
-
-(i) Reach 1 consists of 16 km (10 mi) of Little Bear Creek, which includes approximately 5 mi (8 km) of the Paulson Branch tributary. Little Bear Creek includes T18NR68W, NW4NW4SW4 Sec. 35; downstream to N2 Sec. 35.T18NR67W, N2SW4 Sec. 32; NE4 Sec. 32; NW4NW4NW4 Sec. 33; S2 Sec. 28; NW4SW4 Sec. 27; S2 SE4NW4 Sec. 27. Paulson Branch includes T18N R68W, N2SW4 Sec. 2; downstream to S2NE4 Sec. 2; N2 Sec. 1; T18N67W, NW4NW4 Sec. 6; SE4SW4 Sec. 31; SE4 Sec. 31.
-
-(ii) Reach 2 consists of 2.7 km (1.7 mi) of an unnamed tributary to Horse Creek on the far eastern end just east of, and parallel to, Indian Hill Road. Includes T17N R66W,W2SW4 Sec. 2; NE4 Sec. 10.
-
-(iii) Note: Unit 4 (Map 4) follows:
-
-![](/graphics/er11ja05.004.gif)
-
-(10) Unit 5: Lodgepole Creek West, Laramie County, Wyoming.
-
-(i) This unit consists of approximately 20.4 km (12.7 mi) west along Lodgepole Creek from State highway 85. Includes T16N R67W, N2 SW4 Sec. 21; W2 SE4 Sec. 21; N2 NE4 Sec. 28; W2 NW4 Sec. 27; N2 S2 Sec. 27; SW4NE4 Sec. 27; S2 Sec. 26; S2 SW4 Sec. 25; N2 NE4 Sec. 36; T16N R66W, N2 Sec. 31; downstream to SW4NW4 Sec. 32; SW4 Sec. 32; S2 SE4 Sec. 32; SW4SW4 Sec. 33; SE4SE4 Sec. 33; S2 SW4 Sec. 34; T15N R66W, N2N2 Sec. 4; downstream to NE4NW4 Sec. 3; N2 NE4 Sec. 3; NW4 Sec. 2; SE4 Sec. 2.
-
-(ii) Note: Unit 5 (Map 5) follows:
-
-![](/graphics/er11ja05.005.gif)
-
-(11) Unit 6: Lodgepole Creek East, Laramie County, Wyoming.
-
-(i) Consists of 8.4 km (5.2 mi) of Lodgepole Creek from approximately 3.2 km (2 mi) northeast of the town of Hillsdale on the west end of the reach, downstream to approximately 0.4 km (0.25 mi) east of State highway 213, approximately 3.2 km (2 mi) north of the town of Burns. Includes T15NR64W, N2SW4 Sec. 29; SE4SE4NW4 Sec. 29; S2NE4 Sec. 29; S2 Sec. 28; S2S2 Sec. 27; N2N2 Sec. 34; N2N2 Sec. 35; S2 SE4SE4 Sec. 26; T15NR62W, N2NW4 SW4 Sec. 32.
-
-(ii) Note: Unit 6 (Map 6) follows:
-
-![](/graphics/er11ja05.006.gif)
-
-(12) Unit 7: Borie, Laramie County, Wyoming.
-
-(i) Reach 1 consists of 10.5 km (6.5 mi) along Diamond Creek west of F.E. Warren Air Force Base and other smaller tributaries merging from the north. Includes T14NR67W, N2 Sec. 33; upstream to NW4SW4 Sec. 33; S2 NE4 Sec. 32; E2 SE4 Sec. 32; SW4 Sec. 32; SE4 Sec. 31; T13N R67W, N2N2NE4 Sec. 5.
-
-(ii) Reach 2 consists of 1.7 km (1.1 mi) of Lone Tree Creek. Includes T13N R67W, NW4 Sec. 31; downstream to NE4SW4 Sec. 31.
-
-(iii) Note: Unit 7 (Map 7) follows:
-
-![](/graphics/er11ja05.007.gif)Family Onagraceae: *Oenothera deltoides* ssp. *howellii* (Antioch Dunes Evening-Primrose).
+Family Onagraceae: *Oenothera deltoides* ssp. *howellii* (Antioch Dunes Evening-Primrose).
 
 California. An area of land, water, and airspace in Contra Costa County with the following components: T. 2 N. R. 2 E. SW1/4 section 17, E2/3 of S1/3 of section 18.
 

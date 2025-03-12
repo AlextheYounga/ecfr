@@ -1,6 +1,6 @@
 ##### § 50.61 Fracture toughness requirements for protection against pressurized thermal shock events. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
 
 (a) *Definitions.* For the purposes of this section:
 
