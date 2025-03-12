@@ -1,5 +1,5 @@
-##### § 1206.117 What interest and penalties apply if I improperly report a transportation allowance? #####
+##### § 1206.117 What reporting adjustments must I make for transportation allowances? #####
 
-(a) If you deduct a transportation allowance on Form ONRR-2014 that exceeds 50 percent of the value of the oil transported, you must pay additional royalties due, plus late payment interest calculated under §§ 1218.54 and 1218.102 of this chapter, on the excess allowance amount taken from the date when that amount is taken to the date when you pay the additional royalties due.
+(a) If your or your affiliate's actual transportation allowance is less than the amount you claimed on form ONRR-2014 for each month during the allowance reporting period, you must pay additional royalties plus interest computed under § 1218.54 of this chapter from the date you took the deduction to the date you repay the difference.
 
-(b) If you improperly net a transportation allowance against the oil instead of reporting the allowance as a separate entry on Form ONRR-2014, ONRR may assess a civil penalty under 30 CFR part 1241.
+(b) If the actual transportation allowance is greater than the amount you claimed on form ONRR-2014 for any month during the allowance form reporting period, you are entitled to a credit plus interest under applicable rules.

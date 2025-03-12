@@ -1,15 +1,13 @@
-##### § 1206.105 How will ONRR determine the value of my oil for royalty purposes? #####
+##### § 1206.105 What records must I keep to support my calculations of value under this subpart? #####
 
-If ONRR decides that we will value your oil for royalty purposes under § 1206.104, or any other provision in this subpart, then we will determine value, for royalty purposes, by considering any information that we deem relevant, which may include, but is not limited to, the following:
+If you determine the value of your oil under this subpart, you must retain all data relevant to the determination of royalty value.
 
-(a) The value of like-quality oil in the same field or nearby fields or areas
+(a) You must be able to show:
 
-(b) The value of like-quality oil from the refinery or area
+(1) How you calculated the value you reported, including all adjustments for location, quality, and transportation, and
 
-(c) Public sources of price or market information that ONRR deems reliable
+(2) How you complied with these rules.
 
-(d) Information available and reported to ONRR, including but not limited to on Form ONRR-2014 and the Oil and Gas Operations Report (Form ONRR-4054)
+(b) Recordkeeping requirements are found at part 1207 of this chapter.
 
-(e) Costs of transportation or processing if ONRR determines that they are applicable
-
-(f) Any information that ONRR deems relevant regarding the particular lease operation or the salability of the oil
+(c) ONRR may review and audit your data, and ONRR will direct you to use a different value if it determines that the reported value is inconsistent with the requirements of this subpart.

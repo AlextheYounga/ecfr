@@ -1,9 +1,9 @@
-##### § 1206.119 How do I determine royalty quantity and quality? #####
+##### § 1206.119 How are royalty quantity and quality determined? #####
 
-(a) You must calculate royalties based on the quantity and quality of oil as measured at the point of royalty settlement that BLM or BSEE approves for onshore leases and OCS leases, respectively.
+(a) Compute royalties based on the quantity and quality of oil as measured at the point of settlement approved by BLM for onshore leases or BSEE for offshore leases.
 
-(b) If you base the value of oil determined under this subpart on a quantity and/or quality that is different from the quantity and/or quality at the point of royalty settlement that BLM or BSEE approves, you must adjust that value for the differences in quantity and/or quality.
+(b) If the value of oil determined under this subpart is based upon a quantity or quality different from the quantity or quality at the point of royalty settlement approved by the BLM for onshore leases or BSEE for offshore leases, adjust the value for those differences in quantity or quality.
 
-(c) You may not make any deductions from the royalty volume or royalty value for actual or theoretical losses. Any actual loss that you sustain before the royalty settlement metering or measurement point is not subject to royalty if BLM or BSEE, whichever is appropriate, determines that such loss was unavoidable.
+(c) Any actual loss that you may incur before the royalty settlement metering or measurement point is not subject to royalty if BLM or BSEE, as appropriate, determines that the loss is unavoidable.
 
-(d) You must pay royalties on 100 percent of the volume measured at the approved point of royalty settlement. You may not claim a reduction in that measured volume for actual losses beyond the approved point of royalty settlement or for theoretical losses that you claim to have taken place either before or after the approved point of royalty settlement.
+(d) Except as provided in paragraph (b) of this section, royalties are due on 100 percent of the volume measured at the approved point of royalty settlement. You may not claim a reduction in that measured volume for actual losses beyond the approved point of royalty settlement or for theoretical losses that are claimed to have taken place either before or after the approved point of royalty settlement.

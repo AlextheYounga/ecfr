@@ -1,7 +1,9 @@
-##### § 1206.155 What are my reporting requirements under an arm's-length transportation contract? #####
+##### § 1206.155 Accounting for comparison. #####
 
-(a) You must use a separate entry on Form ONRR-2014 to notify ONRR of an allowance based on transportation costs that you or your affiliate incur(s).
+(a) Except as provided in paragraph (b) of this section, where the lessee (or a person to whom the lessee has transferred gas pursuant to a non-arm's-length contract or without a contract) processes the lessee's gas and after processing the gas the residue gas is not sold pursuant to an arm's-length contract, the value, for royalty purposes, shall be the greater of:
 
-(b) ONRR may require you or your affiliate to submit arm's-length transportation contracts, production agreements, operating agreements, and related documents.
+(1) The combined value, for royalty purposes, of the residue gas and gas plant products resulting from processing the gas determined pursuant to § 1206.153 of this subpart, plus the value, for royalty purposes, of any condensate recovered downstream of the point of royalty settlement without resorting to processing determined pursuant to § 1206.102 of this subpart; or
 
-(c) You can find recordkeeping requirements in parts 1207 and 1212 of this chapter.
+(2) The value, for royalty purposes, of the gas prior to processing determined in accordance with § 1206.152 of this subpart.
+
+(b) The requirement for accounting for comparison contained in the terms of leases will govern as provided in § 1206.150(b) of this subpart. When accounting for comparison is required by the lease terms, such accounting for comparison shall be determined in accordance with paragraph (a) of this section.

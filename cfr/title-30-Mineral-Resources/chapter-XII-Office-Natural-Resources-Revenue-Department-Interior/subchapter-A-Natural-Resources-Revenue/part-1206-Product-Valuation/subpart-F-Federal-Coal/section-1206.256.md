@@ -1,5 +1,9 @@
-##### § 1206.256 What are my responsibilities to place production into marketable condition and to market production? #####
+##### § 1206.256 Valuation standards for cents-per-ton leases. #####
 
-(a) You must place coal in marketable condition and market the coal for the mutual benefit of the lessee and the lessor at no cost to the Federal Government.
+(a) This section is applicable to coal leases on Federal lands which provide for the determination of royalty on a cents-per-ton (or other quantity) basis.
 
-(b) If you use gross proceeds under an arm's-length contract in order to determine royalty, you must increase those gross proceeds to the extent that the purchaser, or any other person, provides certain services that you normally are responsible to perform in order to place the coal in marketable condition or to market the coal.
+(b) The royalty for coal from leases subject to this section shall be based on the dollar rate per ton prescribed in the lease. That dollar rate shall be applicable to the actual quantity of coal used, sold, or otherwise finally disposed of, including coal which is avoidably lost as determine by BLM pursuant to 43 CFR part 3400.
+
+(c) For leases subject to this section, there shall be no allowances for transportation, removal of impurities, coal washing, or any other processing or preparation of the coal.
+
+(d) When a coal lease is readjusted pursuant to 43 CFR part 3400 and the royalty valuation method changes from a cents-per-ton basis to an ad valorem basis, coal which is produced prior to the effective date of readjustment and sold or used within 30 days of the effective date of readjustment shall be valued pursuant to this section. All coal that is not used, sold, or otherwise finally disposed of within 30 days after the effective date of readjustment shall be valued pursuant to the provisions of § 1206.257 of this subpart, and royalties shall be paid at the royalty rate specified in the readjusted lease.

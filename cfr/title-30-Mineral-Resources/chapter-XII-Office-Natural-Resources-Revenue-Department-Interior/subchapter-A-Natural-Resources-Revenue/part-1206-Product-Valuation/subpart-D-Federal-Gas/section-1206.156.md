@@ -1,11 +1,13 @@
-##### § 1206.156 What are my reporting requirements under a non-arm's-length transportation contract? #####
+##### § 1206.156 Transportation allowances - general. #####
 
-(a) You must use a separate entry on Form ONRR-2014 to notify ONRR of an allowance based on non-arm's-length transportation costs that you or your affiliate incur(s).
+(a) Where the value of gas has been determined pursuant to § 1206.152 or § 1206.153 of this subpart at a point (*e.g.,* sales point or point of value determination) off the lease, ONRR shall allow a deduction for the reasonable actual costs incurred by the lessee to transport unprocessed gas, residue gas, and gas plant products from a lease to a point off the lease including, if appropriate, transportation from the lease to a gas processing plant off the lease and from the plant to a point away from the plant.
 
-(b)(1) For new non-arm's-length transportation facilities or arrangements, you must base your initial deduction on estimates of allowable transportation costs for the applicable period.
+(b) Transportation costs must be allocated among all products produced and transported as provided in § 1206.157.
 
-(2) You must use your or your affiliate's most recently available operations data for the transportation system as your estimate. If such data is not available, you must use estimates based on data for similar transportation systems.
+(c)(1) Except as provided in paragraph (c)(3) of this section, for unprocessed gas valued in accordance with § 1206.152 of this subpart, the transportation allowance deduction on the basis of a sales type code may not exceed 50 percent of the value of the unprocessed gas determined under § 1206.152 of this subpart.
 
-(3) Section 1206.158 applies when you amend your report based on your actual costs.
+(2) Except as provided in paragraph (c)(3) of this section, for gas production valued in accordance with § 1206.153 of this subpart, the transportation allowance deduction on the basis of a sales type code may not exceed 50 percent of the value of the residue gas or gas plant product determined under § 1206.153 of this subpart. For purposes of this section, natural gas liquids will be considered one product.
 
-(c) ONRR may require you or your affiliate to submit all data used to calculate the allowance deduction. You can find recordkeeping requirements in parts 1207 and 1212 of this chapter.
+(3) Upon request of a lessee, ONRR may approve a transportation allowance deduction in excess of the limitations prescribed by paragraphs (c)(1) and (2) of this section. The lessee must demonstrate that the transportation costs incurred in excess of the limitations prescribed in paragraphs (c)(1) and (2) of this section were reasonable, actual, and necessary. An application for exception (using form ONRR-4393, Request to Exceed Regulatory Allowance Limitation) must contain all relevant and supporting documentation necessary for ONRR to make a determination. Under no circumstances may the value for royalty purposes under any sales type code be reduced to zero.
+
+(d) If, after a review or audit, ONRR determines that a lessee has improperly determined a transportation allowance authorized by this subpart, then the lessee must pay any additional royalties, plus interest, determined in accordance with § 1218.54 of this chapter, or will be entitled to a credit, with interest. If the lessee takes a deduction for transportation on form ONRR-2014 by improperly netting the allowance against the sales value of the unprocessed gas, residue gas, and gas plant products instead of reporting the allowance as a separate entry, ONRR may assess a civil penalty under 30 CFR part 1241.

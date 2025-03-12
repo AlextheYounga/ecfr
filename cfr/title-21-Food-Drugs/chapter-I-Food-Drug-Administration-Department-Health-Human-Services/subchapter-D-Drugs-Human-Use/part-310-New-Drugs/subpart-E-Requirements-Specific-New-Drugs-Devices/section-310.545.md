@@ -1,7 +1,5 @@
 ##### § 310.545 Drug products containing certain active ingredients offered over-the-counter (OTC) for certain uses. #####
 
-Link to an amendment published at 81 FR 61129, Sept. 6, 2016.
-
 (a) A number of active ingredients have been present in OTC drug products for various uses, as described below. However, based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients for the specified uses:
 
 (1) *Topical acne drug products.*
@@ -310,6 +308,14 @@ Ammoniated mercuryCalomel (mercurous chloride)Merbromin (mercurochrome)Mercufeno
 
 Para-chloromercuriphenolAny other ingredient containing mercury
 
+(iii) *Consumer antiseptic hand wash drug products.* Approved as of September 6, 2017.
+
+CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate)Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol)Methylbenzethonium chlorideNonylphenoxypoly (ethyleneoxy) ethanoliodinePhenol (greater than 1.5 percent)Phenol (less than 1.5 percent)Poloxamer iodine complexPovidone-iodine (5 to 10 percent)Secondary amyltricresolsSodium oxychloroseneTribromsalanTriclocarbanTriclosanTriple DyeUndecoylium chloride iodine complex
+
+(iv) *Consumer antiseptic body wash drug products.* Approved as of September 6, 2017.
+
+CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (phosphate ester of alkylaryloxy polyethylene glycol)Iodine tinctureMethylbenzethonium chlorideNonylphenoxypoly (ethyleneoxy) ethanoliodinePhenol (greater than 1.5 percent)Phenol (less than 1.5 percent)Poloxamer iodine complexPovidone-iodine (5 to 10 percent)Secondary amyltricresolsSodium oxychloroseneTribromsalanTriclocarbanTriclosanTriple DyeUndecoylium chloride iodine complex
+
 (28) *Vaginal contraceptive drug products* - (i) *Approved as of October 22, 1998.*
 
 Dodecaethylene glycol monolaurate (polyethylene glycol 600 monolaurate)Laureth 10SMethoxypolyoxyethyleneglycol 550 lauratePhenylmercuric acetatePhenylmercuric nitrateAny other ingredient containing mercury
@@ -332,7 +338,7 @@ Claims for “all-day” protection or extended wear claims citing a specific nu
 
 (c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for the OTC uses and containing any active ingredient(s) as specified in paragraph (a) of this section is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
 
-(d) Any OTC drug product that is not in compliance with this section is subject to regulatory action if initially introduced or initially delivered for introduction into interstate commerce after the dates specified in paragraphs (d)(1) through (d)(39) of this section.
+(d) Any OTC drug product that is not in compliance with this section is subject to regulatory action if initially introduced or initially delivered for introduction into interstate commerce after the dates specified in paragraphs (d)(1) through (d)(41) of this section.
 
 (1) May 7, 1991, for products subject to paragraphs (a)(1) through (a)(2)(i), (a)(3)(i), (a)(4)(i), (a)(6)(i)(A), (a)(6)(ii)(A), (a)(7) (except as covered by paragraph (d)(3) of this section), (a)(8)(i), (a)(10)(i) through (a)(10)(iii), (a)(12)(i)(A), (a)(12)(ii) through (a)(12)(iv)(A), (a)(14) through (a)(15)(i), (a)(16) through (a)(18)(i)(A), (a)(18)(ii) (except as covered by paragraph (d)(22) of this section), (a)(18)(iii), (a)(18)(iv), (a)(18)(v)(A), and (a)(18)(vi)(A) of this section.
 
@@ -413,5 +419,7 @@ Claims for “all-day” protection or extended wear claims citing a specific nu
 (39) September 6, 2010, for products subject to paragraph (a)(18)(ii) of this section that contain calcium acetate monohydrate, except as provided in § 347.20(b) of this chapter.
 
 (40) December 17, 2012, for products subject to paragraph (a)(29)(ii) of this section. December 17, 2013, for products with annual sales less than $25,000.
+
+(41) September 6, 2017, for products subject to paragraph (a)(27)(iii) or (iv) of this section.
 
 [55 FR 46919, Nov. 7, 1990]Editorial Note:For Federal Register citations affecting § 310.545, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 61 FR 9571, Mar. 8, 1996, in § 310.545 in paragraph (a)(6)(ii)(B), the entry for “l-desoxyephedrine (topical)” was stayed until further notice.

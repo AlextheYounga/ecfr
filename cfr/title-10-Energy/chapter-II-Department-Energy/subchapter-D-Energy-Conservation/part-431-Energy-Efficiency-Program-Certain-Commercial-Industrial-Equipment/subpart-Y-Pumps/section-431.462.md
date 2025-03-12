@@ -1,22 +1,22 @@
 ##### § 431.462 Definitions. #####
 
-Link to an amendment published at 82 FR 36920, Aug. 7, 2017.
-
-The following definitions are applicable to this subpart, including appendix A. In cases where there is a conflict, the language of the definitions adopted in this section takes precedence over any descriptions or definitions found in the 2014 version of ANSI/HI 1.1-1.2, “American National Standard for Rotodynamic Centrifugal Pumps for Nomenclature and Definitions” (ANSI/HI 1.1-1.2-2014) (incorporated by reference, see § 431.463), or the 2014 version of ANSI/HI 2.1-2.2, “American National Standard for Rotodynamic Vertical Pumps of Radial, Mixed, and Axial Flow Types for Nomenclature and Definitions” (ANSI/HI 2.1-2.2-2014) (incorporated by reference, see § 431.463). In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
+The following definitions are applicable to this subpart, including appendices A and B. In cases where there is a conflict, the language of the definitions adopted in this section takes precedence over any descriptions or definitions found in the 2014 version of ANSI/HI Standard 1.1-1.2, “Rotodynamic (Centrifugal) Pumps For Nomenclature And Definitions” (ANSI/HI 1.1-1.2-2014; incorporated by reference, see § 431.463), or the 2014 version of ANSI/HI Standard 2.1-2.2, “Rotodynamic (Vertical) Pumps For Nomenclature And Definitions” (ANSI/HI 2.1-2.2-2014; incorporated by reference, see § 431.463). In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
 
 *Bare pump* means a pump excluding mechanical equipment, driver, and controls.
 
-*Basic model* means all units of a given class of pump manufactured by one manufacturer, having the same primary energy source, and having essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; except that:
+*Basic model* means all units of a given class of pump manufactured by one manufacturer, having the same primary energy source, and having essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and, in addition, for pumps that are subject to the standards specified in § 431.465(b), the following provisions also apply:
 
-(1) For RSV and ST pumps, all variations in numbers of stages of the bare pump must be considered a single basic model;
+(1) All variations in numbers of stages of bare RSV and ST pumps must be considered a single basic model;
 
 (2) Pump models for which the bare pump differs in impeller diameter, or impeller trim, may be considered a single basic model; and
 
 (3) Pump models for which the bare pump differs in number of stages or impeller diameter and which are sold with motors (or motors and controls) of varying horsepower may only be considered a single basic model if:
 
-(i) for ESCC, ESFM, IL, and RSV pumps, each motor offered in the basic model has a nominal full load motor efficiency rated at the Federal minimum (*see* the current table for NEMA Design B motors at 10 CFR 431.25) or the same number of bands above the Federal minimum for each respective motor horsepower (*see* Table 3 of Appendix A to Subpart Y of Part 431); or
+(i) For ESCC, ESFM, IL, and RSV pumps, each motor offered in the basic model has a nominal full load motor efficiency rated at the Federal minimum (see the current table for NEMA Design B motors at § 431.25) or the same number of bands above the Federal minimum for each respective motor horsepower (see Table 3 of appendix A to subpart Y of this part); or
 
-(ii) for ST pumps, each motor offered in the basic model has a full load motor efficiency at the default nominal full load submersible motor efficiency shown in Table 2 of appendix A to subpart Y of part 431 or the same number of bands above the default nominal full load submersible motor efficiency for each respective motor horsepower (*see* Table 3 of Appendix A to Subpart Y of Part 431).
+(ii) For ST pumps, each motor offered in the basic model has a full load motor efficiency at the default nominal full load submersible motor efficiency shown in Table 2 of appendix A to subpart Y of this part or the same number of bands above the default nominal full load submersible motor efficiency for each respective motor horsepower (see Table 3 of appendix A to subpart Y of this part).
+
+*Basket strainer* means a perforated or otherwise porous receptacle, mounted within a housing on the suction side of a pump, that prevents solid debris from entering a pump. The basket strainer receptacle is capable of passing spherical solids of 1 mm in diameter, and can be removed by hand or using only simple tools (*e.g.,* screwdriver, pliers, open-ended wrench).
 
 *Best efficiency point (BEP)* means the pump hydraulic power operating point (consisting of both flow and head conditions) that results in the maximum efficiency.
 
@@ -29,6 +29,14 @@ The following definitions are applicable to this subpart, including appendix A. 
 *Continuous control* means a control that adjusts the speed of the pump driver continuously over the driver operating speed range in response to incremental changes in the required pump flow, head, or power output.
 
 *Control* means any device that can be used to operate the driver. Examples include, but are not limited to, continuous or non-continuous controls, schedule-based controls, on/off switches, and float switches.
+
+*Dedicated-purpose pool pump* comprises self-priming pool filter pumps, non-self-priming pool filter pumps, waterfall pumps, pressure cleaner booster pumps, integral sand-filter pool pumps, integral-cartridge filter pool pumps, storable electric spa pumps, and rigid electric spa pumps.
+
+*Dedicated-purpose pool pump motor total horsepower* means the product of the dedicated-purpose pool pump nominal motor horsepower and the dedicated-purpose pool pump service factor of a motor used on a dedicated-purpose pool pump based on the maximum continuous duty motor power output rating allowable for the motor's nameplate ambient rating and insulation class. (Dedicated-purpose pool pump motor total horsepower is also referred to in the industry as service factor horsepower or motor capacity.)
+
+*Dedicated-purpose pool pump service factor* means a multiplier applied to the rated horsepower of a pump motor to indicate the percent above nameplate horsepower at which the motor can operate continuously without exceeding its allowable insulation class temperature limit.
+
+*Designed and marketed* means that the equipment is designed to fulfill the indicated application and, when distributed in commerce, is designated and marketed for that application, with the designation on the packaging and any publicly available documents (*e.g.,* product literature, catalogs, and packaging labels).
 
 *Driver* means the machine providing mechanical input to drive a bare pump directly or through the use of mechanical equipment. Examples include, but are not limited to, an electric motor, internal combustion engine, or gas/steam turbine.
 
@@ -46,11 +54,19 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 (2) FM Global (FM) approved under the January 2015 edition of FM Class Number 1319, “Approval Standard for Centrifugal Fire Pumps (Horizontal, End Suction Type),” (incorporated by reference, see § 431.463).
 
+*Freeze protection control* means a pool pump control that, at a certain ambient temperature, turns on the dedicated-purpose pool pump to circulate water for a period of time to prevent the pool and water in plumbing from freezing.
+
 *Full impeller diameter* means the maximum diameter impeller with which a given pump basic model is distributed in commerce.
 
 *Horizontal motor* means a motor that requires the motor shaft to be in a horizontal position to function as designed, as specified in the manufacturer literature.
 
 *In-line (IL) pump* means a pump that is either a twin-head pump or a single-stage, single-axis flow, dry rotor, rotodynamic pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter, in which liquid is discharged through a volute in a plane perpendicular to the shaft. Such pumps do not include pumps that are mechanically coupled or close-coupled, have a pump power output that is less than or equal to 5 hp at BEP at full impeller diameter, and are distributed in commerce with a horizontal motor. Examples of in-line pumps include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH3, OH4, or OH5, as described in ANSI/HI 1.1-1.2-2014.
+
+*Integral* means a part of the device that cannot be removed without compromising the device's function or destroying the physical integrity of the unit.
+
+*Integral cartridge-filter pool pump* means a pump that requires a removable cartridge filter, installed on the suction side of the pump, for operation; and the cartridge filter cannot be bypassed.
+
+*Integral sand-filter pool pump* means a pump distributed in commerce with a sand filter that cannot be bypassed.
 
 *Magnet driven pump* means a pump in which the bare pump is isolated from the motor via a containment shell and torque is transmitted from the motor to the bare pump via magnetic force. The motor shaft is not physically coupled to the impeller or impeller shaft.
 
@@ -58,9 +74,25 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 *Mechanically-coupled pump* means a pump in which the bare pump has its own impeller shaft and bearings and so does not rely on the motor shaft to serve as the impeller shaft.
 
+*Multi-speed dedicated-purpose pool pump* means a dedicated-purpose pool pump that is capable of operating at more than two discrete, pre-determined operating speeds separated by speed increments greater than 100 rpm, where the lowest speed is less than or equal to half of the maximum operating speed and greater than zero, and must be distributed in commerce with an on-board pool pump control (*i.e.,* variable speed drive and user interface or programmable switch) that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times.
+
 *Non-continuous control* means a control that adjusts the speed of a driver to one of a discrete number of non-continuous preset operating speeds, and does not respond to incremental reductions in the required pump flow, head, or power output.
 
+*Non-self-priming pool filter pump* means a pool filter pump that is not certified under NSF/ANSI 50-2015 (incorporated by reference, see § 431.463) to be self-priming and is not capable of re-priming to a vertical lift of at least 5.0 feet with a true priming time less than or equal to 10.0 minutes, when tested in accordance with section F of appendix B or C of this subpart, and is not a waterfall pump.
+
+*Pool filter pump* means an end suction pump that:
+
+(1) Either:
+
+(i) Includes an integrated basket strainer; or
+
+(ii) Does not include an integrated basket strainer, but requires a basket strainer for operation, as stated in manufacturer literature provided with the pump; and
+
+(2) May be distributed in commerce connected to, or packaged with, a sand filter, removable cartridge filter, or other filtration accessory, so long as the filtration accessory are connected with consumer-removable connections that allow the filtration accessory to be bypassed.
+
 *Pool pump timer* means a pool pump control that automatically turns off a dedicated-purpose pool pump after a run-time of no longer than 10 hours.
+
+*Pressure cleaner booster pump* means an end suction, dry rotor pump designed and marketed for pressure-side pool cleaner applications, and which may be UL listed under ANSI/UL 1081-2016 (incorporated by reference, see § 431.463).
 
 *Prime-assist pump* means a pump that:
 
@@ -84,9 +116,23 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 (5) Examples include, but are not limited to, pumps complying with ANSI/HI nomenclature VS8, as described in ANSI/HI 2.1-2.2-2014.
 
+*Removable cartridge filter* means a filter component with fixed dimensions that captures and removes suspended particles from water flowing through the unit. The removable cartridge filter is not capable of passing spherical solids of 1 mm in diameter or greater, and can be removed from the filter housing by hand or using only simple tools (*e.g.,* screwdrivers, pliers, open-ended wrench).
+
+*Rigid electric spa pump* means an end suction pump that does not contain an integrated basket strainer or require a basket strainer for operation as stated in manufacturer literature provided with the pump and that meets the following three criteria:
+
+(1) Is assembled with four through bolts that hold the motor rear endplate, rear bearing, rotor, front bearing, front endplate, and the bare pump together as an integral unit;
+
+(2) Is constructed with buttress threads at the inlet and discharge of the bare pump; and
+
+(3) Uses a casing or volute and connections constructed of a non-metallic material.
+
 *Rotodynamic pump* means a pump in which energy is continuously imparted to the pumped fluid by means of a rotating impeller, propeller, or rotor.
 
-*Self-priming pump* means a pump that:
+*Sand filter* means a device designed to filter water through sand or an alternate sand-type media.
+
+*Self-priming pool filter pump* means a pool filter pump that is certified under NSF/ANSI 50-2015 (incorporated by reference, see § 431.463) to be self-priming or is capable of re-priming to a vertical lift of at least 5.0 feet with a true priming time less than or equal to 10.0 minutes, when tested in accordance with section F of appendix B or C of this subpart, and is not a waterfall pump.
+
+*Self-priming pump* means a pump that either is a self-priming pool filter pump or a pump that:
 
 (1) Is designed to lift liquid that originates below the centerline of the pump inlet;
 
@@ -95,6 +141,16 @@ The following definitions are applicable to this subpart, including appendix A. 
 (3) Requires a manual filling of the pump casing prior to initial start-up, but is able to re-prime after the initial start-up without the use of external vacuum sources, manual filling, or a foot valve.
 
 *Single axis flow pump* means a pump in which the liquid inlet of the bare pump is on the same axis as the liquid discharge of the bare pump.
+
+*Single-speed dedicated-purpose pool pump* means a dedicated-purpose pool pump that is capable of operating at only one speed.
+
+*Storable electric spa pump* means a pump that is distributed in commerce with one or more of the following:
+
+(1) An integral heater; and
+
+(2) An integral air pump.
+
+*Submersible pump* means a pump that is designed to be operated with the motor and bare pump fully submerged in the pumped liquid.
 
 *Submersible turbine (ST) pump* means a single-stage or multi-stage, dry rotor, rotodynamic pump that is designed to be operated with the motor and stage(s) fully submerged in the pumped liquid; that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing; and in which each stage of this pump consists of an impeller and diffuser, and liquid enters and exits each stage of the bare pump in a direction parallel to the impeller shaft. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature VS0, as described in ANSI/HI 2.1-2.2-2014.
 
@@ -110,4 +166,20 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 (5) Discharges liquid through its volute and the common discharge in a plane perpendicular to the impeller shaft.
 
-[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017]
+*Two-speed dedicated-purpose pool pump* means a dedicated-purpose pool pump that is capable of operating at only two different pre-determined operating speeds, where the low operating speed is less than or equal to half of the maximum operating speed and greater than zero, and must be distributed in commerce either:
+
+(1) With a pool pump control (*e.g.,* variable speed drive and user interface or switch) that is capable of changing the speed in response to user preferences; or
+
+(2) Without a pool pump control that has the capability to change speed in response to user preferences, but is unable to operate without the presence of such a pool pump control.
+
+*Variable-speed dedicated-purpose pool pump* means a dedicated-purpose pool pump that is capable of operating at a variety of user-determined speeds, where all the speeds are separated by at most 100 rpm increments over the operating range and the lowest operating speed is less than or equal to one-third of the maximum operating speed and greater than zero. Such a pump must include a variable speed drive and be distributed in commerce either:
+
+(1) With a user interface that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times; or
+
+(2) Without a user interface that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times, but is unable to operate without the presence of a user interface.
+
+*Variable speed drive* means equipment capable of varying the speed of the motor.
+
+*Waterfall pump* means a pool filter pump with a certified maximum head less than or equal to 30.0 feet, and a maximum speed less than or equal to 1,800 rpm.
+
+[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 82 FR 36920, Aug. 7, 2017]

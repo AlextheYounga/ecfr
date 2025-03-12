@@ -1,5 +1,19 @@
-##### § 1206.158 What reporting adjustments must I make for transportation allowances? #####
+##### § 1206.158 Processing allowances - general. #####
 
-(a) If your actual transportation allowance is less than the amount that you claimed on Form ONRR-2014 for each month during the allowance reporting period, you must pay additional royalties due, plus late payment interest calculated under §§ 1218.54 and 1218.102 of this chapter from the date when you took the deduction to the date when you repay the difference.
+(a) Where the value of gas is determined pursuant to § 1206.153 of this subpart, a deduction shall be allowed for the reasonable actual costs of processing.
 
-(b) If the actual transportation allowance is greater than the amount that you claimed on Form ONRR-2014 for any month during the period reported on the allowance form, you are entitled to a credit, plus interest.
+(b) Processing costs must be allocated among the gas plant products. A separate processing allowance must be determined for each gas plant product and processing plant relationship. Natural gas liquids (NGL's) shall be considered as one product.
+
+(c)(1) Except as provided in paragraph (d)(2) of this section, the processing allowance shall not be applied against the value of the residue gas. Where there is no residue gas ONRR may designate an appropriate gas plant product against which no allowance may be applied.
+
+(2) Except as provided in paragraph (c)(3) of this section, the processing allowance deduction on the basis of an individual product shall not exceed 662/3 percent of the value of each gas plant product determined in accordance with § 1206.153 of this subpart (such value to be reduced first for any transportation allowances related to postprocessing transportation authorized by § 1206.156 of this subpart).
+
+(3) Upon request of a lessee, ONRR may approve a processing allowance in excess of the limitation prescribed by paragraph (c)(2) of this section. The lessee must demonstrate that the processing costs incurred in excess of the limitation prescribed in paragraph (c)(2) of this section were reasonable, actual, and necessary. An application for exception (using form ONRR-4393, Request to Exceed Regulatory Allowance Limitation) shall contain all relevant and supporting documentation for ONRR to make a determination. Under no circumstances shall the value for royalty purposes of any gas plant product be reduced to zero.
+
+(d)(1) Except as provided in paragraph (d)(2) of this section, no processing cost deduction shall be allowed for the costs of placing lease products in marketable condition, including dehydration, separation, compression, or storage, even if those functions are performed off the lease or at a processing plant. Where gas is processed for the removal of acid gases, commonly referred to as “sweetening,” no processing cost deduction shall be allowed for such costs unless the acid gases removed are further processed into a gas plant product. In such event, the lessee shall be eligible for a processing allowance as determined in accordance with this subpart. However, ONRR will not grant any processing allowance for processing lease production which is not royalty bearing.
+
+(2)(i) If the lessee incurs extraordinary costs for processing gas production from a gas production operation, it may apply to ONRR for an allowance for those costs which shall be in addition to any other processing allowance to which the lessee is entitled pursuant to this section. Such an allowance may be granted only if the lessee can demonstrate that the costs are, by reference to standard industry conditions and practice, extraordinary, unusual, or unconventional.
+
+(ii) Prior ONRR approval to continue an extraordinary processing cost allowance is not required. However, to retain the authority to deduct the allowance the lessee must report the deduction to ONRR in a form and manner prescribed by ONRR.
+
+(e) If ONRR determines that a lessee has improperly determined a processing allowance authorized by this subpart, then the lessee must pay any additional royalties, plus interest determined under § 1218.54 of this chapter, or will be entitled to a credit with interest. If the lessee takes a deduction for processing on form ONRR-2014 by improperly netting the allowance against the sales value of the gas plant products instead of reporting the allowance as a separate entry, ONRR may assess a civil penalty under 30 CFR part 1241.

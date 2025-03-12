@@ -1,7 +1,5 @@
 ##### § 429.110 Enforcement testing. #####
 
-Link to an amendment published at 82 FR 36918, Aug. 7, 2017.
-
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
 (2) DOE will select and test units pursuant to paragraphs (c) and (e) of this section.
@@ -42,7 +40,7 @@ Link to an amendment published at 82 FR 36918, Aug. 7, 2017.
 
 (e) *Basic model compliance.* DOE will evaluate whether a basic model complies with the applicable energy conservation standard(s) based on testing conducted in accordance with the applicable test procedures specified in parts 430 and 431 of this chapter, and with the following statistical sampling procedures:
 
-(1) For products with applicable energy conservation standard(s) in § 430.32 of this chapter, and commercial prerinse spray valves, illuminated exit signs, traffic signal modules and pedestrian modules, commercial clothes washers, and metal halide lamp ballasts, DOE will use a sample size of not more than 21 units and follow the sampling plans in appendix A of this subpart (Sampling for Enforcement Testing of Covered Consumer Products and Certain High-Volume Commercial Equipment).
+(1) For products with applicable energy conservation standard(s) in § 430.32 of this chapter, and commercial prerinse spray valves, illuminated exit signs, traffic signal modules and pedestrian modules, commercial clothes washers, dedicated-purpose pool pumps, and metal halide lamp ballasts, DOE will use a sample size of not more than 21 units and follow the sampling plans in appendix A of this subpart (Sampling for Enforcement Testing of Covered Consumer Products and Certain High-Volume Commercial Equipment).
 
 (2) For automatic commercial ice makers; commercial refrigerators, freezers, and refrigerator-freezers; refrigerated bottled or canned vending machines; commercial air conditioners and heat pumps; commercial packaged boilers; commercial warm air furnaces; commercial water heating equipment; and walk-in cooler and walk-in freezer refrigeration systems, DOE will use an initial sample size of not more than four units and follow the sampling plans in appendix B of this subpart (Sampling Plan for Enforcement Testing of Covered Equipment and Certain Low-Volume Covered Products).
 
@@ -66,7 +64,7 @@ Link to an amendment published at 82 FR 36918, Aug. 7, 2017.
 
 (B) Up to five of the other units that subsequently become available.
 
-(5) For pumps, DOE will use an initial sample size of not more than four units and will determine compliance based on the arithmetic mean of the sample.
+(5) For pumps subject to the standards specified in § 431.465(a) of this chapter, DOE will use an initial sample size of not more than four units and will determine compliance based on the arithmetic mean of the sample.
 
 (6) For uninterruptible power supplies, if a basic model is certified for compliance to the applicable energy conservation standard(s) in § 430.32 of this chapter according to the sampling plan in § 429.39(a)(2)(iv)(A) of this chapter, DOE will use a sample size of not more than 21 units and follow the sampling plan in appendix A of this subpart (Sampling for Enforcement Testing of Covered Consumer Products and Certain High-Volume Commercial Equipment). If a basic model is certified for compliance to the applicable energy conservation standard(s) in § 430.32 of this chapter according to the sampling plan in § 429.39(a)(2)(iv)(B) of this chapter, DOE will use a sample size of at least one unit and follow the sampling plan in appendix D of this subpart (Sampling for Enforcement Testing of Uninterruptible Power Supplies).
 
@@ -76,4 +74,4 @@ Link to an amendment published at 82 FR 36918, Aug. 7, 2017.
 
 (9) For the purposes of this section, available units are those that are available for distribution in commerce within the United States.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016]
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 36918, Aug. 7, 2017]

@@ -1,7 +1,7 @@
-##### § 1206.265 What interest and penalties apply if I improperly report a transportation allowance? #####
+##### § 1206.265 Value enhancement of marketable coal. #####
 
-(a)(1) If ONRR determines that you took an unauthorized transportation allowance, then you must pay any additional royalties due, plus late payment interest calculated under § 1218.202 of this chapter.
+If, prior to use, sale, or other disposition, the lessee enhances the value of coal after the coal has been placed in marketable condition in accordance with § 1206.257(h) of this subpart, the lessee shall notify ONRR that such processing is occurring or will occur. The value of that production shall be determined as follows:
 
-(2) If you understated your transportation allowance, you may be entitled to a credit without interest.
+(a) A value established for the feedstock coal in marketable condition by application of the provisions of § 1206.257(c)(2)(i) through (iv) of this subpart; or,
 
-(b) If you improperly net a transportation allowance against the sales value of the coal instead of reporting the allowance as a separate entry on Form ONRR-4430, ONRR may assess a civil penalty under 30 CFR part 1241.
+(b) In the event that a value cannot be established in accordance with paragraph (a) of this section, then the value of production will be determined in accordance with § 1206.257(c)(2)(v) of this subpart and the value shall be the lessee's gross proceeds accruing from the disposition of the enhanced product, reduced by ONRR-approved processing costs and procedures including a rate of return on investment equal to two times the Standard and Poor's BBB bond rate applicable under § 1206.259(b)(2)(v) of this subpart.

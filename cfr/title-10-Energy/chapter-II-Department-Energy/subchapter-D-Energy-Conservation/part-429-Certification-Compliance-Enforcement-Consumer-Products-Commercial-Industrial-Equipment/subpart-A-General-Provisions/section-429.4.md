@@ -1,7 +1,5 @@
 ##### § 429.4 Materials incorporated by reference. #####
 
-Link to an amendment published at 82 FR 36917, Aug. 7, 2017.
-
 (a) General. We incorporate by reference the following standards into part 429. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
 
 (b) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street, NW., Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
@@ -16,10 +14,22 @@ Link to an amendment published at 82 FR 36917, Aug. 7, 2017.
 
 (2) AHRI Standard 1500-2015, (“ANSI/AHRI Standard 1500-2015”), “2015 Standard for Performance Rating of Commercial Space Heating Boilers,” ANSI approved November 28, 2014: Figure C9, Suggested Piping Arrangement for Hot Water Boilers; IBR approved for § 429.60.
 
-(d) *ISO.* International Organization for Standardization, ch. de la Voie-Creuse CP 56 CH-1211 Geneva 20 Switzerland, telephone + 41 22 749 01 11, or go to *http://www.iso.org/iso.*
+(d) *HI.* Hydraulic Institute, 6 Campus Drive, First Floor North, Parsippany, NJ 07054-4406, 973-267-9700. *www.Pumps.org*.
+
+(1) HI 40.6-2014, (“HI 40.6-2014-B”), “Methods for Rotodynamic Pump Efficiency Testing,”, (except for sections 40.6.4.1 “Vertically suspended pumps”, 40.6.4.2 “Submersible pumps”,40.6.5.3 “Test report”, 40.6.5.5 “Test conditions”, 40.6.5.5.2 “Speed of rotation during testing”, and 40.6.6.1 “Translation of test results to rated speed of rotation”, and Appendix A “Testing arrangements (normative)”: A.7 “Testing at temperatures exceeding 30 °C (86 °F)”, and Appendix B “Reporting of test results (normative)”), copyright 2014, IBR approved for § 429.134.
+
+(2) [Reserved]
+
+(e) *ISO.* International Organization for Standardization, ch. de la Voie-Creuse CP 56 CH-1211 Geneva 20 Switzerland, telephone + 41 22 749 01 11, or go to *http://www.iso.org/iso.*
 
 (1) International Organization for Standardization (ISO)/International Electrotechnical Commission, (“ISO/IEC 17025:2005(E)”), “General requirements for the competence of testing and calibration laboratories”, Second edition, May 15, 2005, IBR approved for § 429.110.
 
 (2) [Reserved]
 
-[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016]
+(f) *NSF.* NSF International. 789 N. Dixboro Road, Ann Arbor, MI 48105, (743) 769-8010. *www.nsf.org*.
+
+(1) NSF/ANSI 50-2015, “Equipment for Swimming Pools, Spas, Hot Tubs and Other Recreational Water Facilities,” Annex C - “Test methods for the evaluation of centrifugal pumps,” Section C.3, “self-priming capability,” ANSI approved January 26, 2015, IBR approved for §§ 429.59 and 429.134.
+
+(2) [Reserved]
+
+[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017]
