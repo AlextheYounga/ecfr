@@ -4,79 +4,127 @@ The following refuge units have been opened for hunting and/or fishing, and are 
 
 Blackwater National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose and duck on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose and duck on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We require you to obtain a refuge waterfowl hunting permit using the Waterfowl Lottery Application (FWS Form 3-2355) or a signed refuge permit (signed brochure) while hunting on refuge property.
+1. You must obtain a refuge waterfowl hunting permit (signed brochure) by signing the corresponding season's refuge waterfowl hunting brochure in ink. You must abide by the terms and conditions outlined in the brochure (see § 32.2(e) of this chapter). Refuge waterfowl hunting brochures contain seasons, bag limits, methods of hunting, maps depicting areas open to hunting, hunt unit reservation procedures, and the terms and conditions under which we issue hunting permits. They are available at the refuge visitor center, administration office, and on the refuge's Web site.
 
-2. We require you to abide by the terms and conditions of the refuge permit and brochure. Hunters are subject to inspections by law enforcement officials and may have their permits revoked if they are found to be in violation of § 32.2 or other Federal and State laws.
+2. You must reserve your hunt unit in advance for a specific date using the call reservation system. You must be age 18 or older to reserve a hunt unit.
 
-3. We allow only hunters possessing a valid refuge waterfowl hunting permit issued by the refuge to participate in the waterfowl hunt during designated days.
+3. Up to three additional hunters may accompany you on your reserved unit.
 
-4. We require hunters to possess on their person a printed valid Maryland hunting license and all required stamps, a valid form of government-issued photo identification, and a printed valid hunting permit issued by the refuge at all times while on refuge property.
+4. You and those who accompany you must possess on your person a valid Maryland hunting license and all required stamps, a valid form of government-issued photo identification, and a printed valid hunting permit (signed brochure) at all times while on refuge property. We will not accept photocopies or electronic copies of these forms.
 
-5. The use of common reed (*Phragmites australis*) in any manner is prohibited.
+5. We prohibit the use of natural vegetation for camouflaging blind material.
 
-6. You must remove all hunting blind materials and decoys (see § 27.93 of this chapter) at the end of each hunting day.
+6. Other than using motor vehicles on designated roads, you may only access the refuge by foot, except as authorized by the refuge manager.
 
-7. We allow hunters to access hunting areas only by boat, unless otherwise authorized by the refuge manager.
-
-8. We prohibit the use of all-terrain vehicles (ATVs) or amphibious vehicles of any type.
-
-9. We prohibit the use of air boats on the refuge.
-
-10. We allow the use of trained dogs by hunters to retrieve game on designated waterfowl hunt days. We require that hunters have dogs not engaged in retrieving waterfowl under control or confined to a vehicle, boat, kennel, blind area, or other container.
-
-11. We require all hunters and hunt parties to remain within their designated hunt site or unit while hunting.
-
-*B. Upland Game Hunting.* [Reserved]
+7. You may use trained dogs to assist in the retrieval of harvested birds.
 
 *C. Big Game Hunting.* We allow the hunting of white-tailed and sika deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We require you to obtain a deer or turkey hunting permit (Big/Upland Game Hunt Application, FWS Form 3-2356 or Quota Deer Hunt Application FWS Form 3-2354).
+1. General Hunt Regulations.
 
-2. We allow only hunters possessing a valid permit issued by the refuge to hunt/scout during designated days.
+i. Condition A6 applies.
 
-3. We require hunters to possess on their person at all times while on refuge property, a printed valid Maryland hunting license and all required stamps, a valid form of government-issued photo identification, and a printed valid hunting permit issued by the refuge.
+ii. You must obtain a deer or turkey hunting permit (Big/Upland Game Hunt Application, FWS Form 3-2356 or Quota Deer Hunt Application, FWS Form 3-2354). Hunting brochures, hunting application procedures, seasons, bag limits, methods of hunting, maps depicting areas open to hunting, and the terms and conditions under which we issue hunting permits are available at the refuge visitor center, administration office, and on the refuge's Web site.
 
-4. We require hunters to notify and receive permission from a Service law enforcement officer, refuge manager, or designee if they need to enter a refuge closed area to retrieve game.
+iii. You must possess on your person at all times while on refuge property: A valid Maryland hunting license and all required stamps, a valid form of government-issued photo identification, and a printed valid hunting permit (Big/Upland Game Hunt Application, FWS Form 3-2356 or Quota Deer Hunt Application, FWS Form 3-2354) issued by the refuge. We will not accept photocopies or electronic copies of these forms.
 
-5. We prohibit the use of rimfire or centerfire rifles and all handguns, including muzzleloading pistols, for hunting.
+iv. You may not hunt from a permanently constructed tree stand or blind.
 
-6. We prohibit the use of boats, flotation devices, all-terrain vehicles (ATVs), motorized off-road vehicles, and amphibious vehicles to access the refuge unless authorized by the refuge manager for use by disabled hunters.
+v. We prohibit organized deer drives, unless otherwise authorized by the refuge manager on designated hunt days.
 
-7. We prohibit screw-in steps, spikes, or other objects that may damage trees (see § 32.2(i)).
+vi. You must notify and receive permission from a Service law enforcement officer, refuge manager, or designee if you need to retrieve game from a refuge closed area or a hunting area for which you do not possess a valid permit.
 
-8. We prohibit hunting from a permanently constructed tree stand or blind.
+vii. We prohibit shooting a projectile from a firearm, muzzleloader, bow, or crossbow from, down, or across any refuge road. A refuge road is any road that is traveled by vehicular traffic.
 
-9. We allow the use of temporary tree stands and blinds for hunting. All stands and blinds left on refuge property, unoccupied, must be tagged in plain sight with your permit number and the years that are printed on your permit. We require you to remove all stands and blinds by legal sunset of a date established annually by the refuge manager. We are not responsible for damage, theft, or use of the stand by other hunters (see § 27.93 of this chapter).
+viii. We prohibit parking in front of any gate. Parked vehicles may not impede any road traffic (see § 27.31(h) of this chapter).
 
-10. We prohibit organized deer drives, unless otherwise authorized by the refuge manager.
+ix. You must make a reasonable effort to retrieve all wounded or killed game and include it in your daily bag limit. We prohibit leaving deer or turkey entrails or other waste within 50 feet (15.2 meters) of any road, parking area, trail, or refuge structure on the refuge.
 
-11. Hunters may use marking devices, including flagging or tape, but they must remove them by legal sunset of date established annually by the refuge manager (see § 27.93 of this chapter). We prohibit paint or any other permanent marker to mark trails.
+x. We allow the use of temporary tree stands and blinds for hunting. All stands and blinds left on refuge property, unoccupied, must be tagged in plain sight with your permit number and the years that are printed on your permit. You must remove all stands and blinds by legal sunset of a date established annually by the refuge manager.
 
-12. We require all disabled hunters to provide certification of their disability.
+xi. We allow the use of marking devices, including flagging or tape, but you must remove them by legal sunset of a date established annually by the refuge manager. You may not use paint or any other permanent marker to mark trails.
 
-13. Disabled persons may have an assistant during the hunt in designated areas of the refuge. Persons assisting disabled hunters must be at least age 18 and obey all refuge, State, and Federal laws and regulations. Non-hunting assistants assisting disabled hunters must not be afield with a hunting firearm, bow, or other hunting device. Assistants who wish to hunt must abide by the conditions in C1 and C3. Assistants may not enter a designated disabled hunting area unless they are accompanied by a certified disabled hunter. All refuge-provided hunt blinds are reserved for disabled hunters only; however, when a certified disabled hunter and their assistant occupy the same blind, both may take game.
+xii. You must wear fluorescent orange in accordance with State regulations during all designated firearm and muzzleloader deer hunts.
 
-14. Hunters may use bicycles to access hunt areas on designated hunt/scout days. We prohibit hunters taking bicycles off of designated roads and trails while on refuge lands.
+xiii. You must check all deer harvested at the refuge-sponsored check station during hunt days when the refuge-sponsored check station is open. If you fail to check deer during operation hours of the check station, you must notify the hunt coordinator by noon on the day after your kill.
 
-15. We require that you abide by the terms and conditions of the refuge permit and brochure. Hunters are subject to inspection by law enforcement officials and may have their permits revoked if we find them to be in violation of § 32.2 or other Federal and State laws.
+xiv. You must adhere to the bag limits set forth annually in the brochure. Deer harvested on the refuge do not count toward State bag limits but must be recorded and checked with the State. Deer harvested on the refuge must be checked pursuant to the refuge hunt in which they are taken, regardless of the weapon used or corresponding State season.
 
-16. We prohibit shooting a projectile from a firearm, muzzleloader, bow, or crossbow from, down, or across any refuge road.
+xv. The maximum speed limit on all refuge unpaved roads is 15 miles per hour (MPH).
 
-17. We require you to make a reasonable effort to retrieve all wounded or killed game and include it in your daily bag limit. We prohibit leaving deer entrails or other waste within 50 feet (15.2 meters) of any road, trail, or refuge structure on the refuge.
+xvi. We prohibit the use of rimfire or centerfire rifles and all handguns, including muzzleloading pistols, for hunting.
 
-18. We require that all deer harvested be checked in at the refuge-sponsored check station during hunt days when the refuge-sponsored check station is being operated. If you fail to check your deer during the check station business hours, you must report your harvest through the State-sponsored big game check-in system within 24 hours of harvest.
+2. Archery Deer Hunt.
 
-19. We prohibit parking in front of any open or closed gate. Parked vehicles may not impede any road traffic.
+i. We do not allow archery hunters to hunt within areas designated for the youth hunt on designated days.
+
+ii. Archery hunters are not required to wear fluorescent orange during State youth hunt days.
+
+3. Turkey Hunt.
+
+i. We allow you to take one bearded turkey per year; turkeys taken on the refuge count toward the State bag limit.
+
+ii. We allow turkey hunt permit holders to have an assistant, who must remain within sight and normal voice contact.
+
+a. Assistants must not be engaged in hunting; must read the turkey hunting brochure; and must sign, in ink, the permit (Big/Upland Game Hunt Application, FWS Form 3-2356 or Quota Deer Hunt Application, FWS Form 3-2354) of the person they are assisting.
+
+b. Assistants must possess a valid government-issued photo identification on their person while assisting.
+
+c. Assistants who call and/or set up decoys must possess a valid Maryland hunting license.
+
+4. Youth Deer and Turkey Hunt.
+
+i. We allow hunters to hunt on designated areas on designated days (Youth Hunt) if they meet the criteria of a “youth hunter” as defined by State law.
+
+ii. Youth hunters must be accompanied by an assistant consistent with the regulations established by State law.
+
+iii. All youth deer hunters and their assistants must wear fluorescent orange in accordance with State regulations while hunting in designated youth hunt areas.
+
+iv. Assistants must possess a valid refuge hunt brochure, signed in ink, and a valid government-issued photo identification.
+
+v. Deer taken during youth days do not count toward the State bag limit and are in addition to any other deer taken during any other hunts on the refuge.
+
+vi. Deer and turkey taken must be recorded and checked with the State.
+
+5. Designated Disabled Hunt Areas.
+
+i. All disabled hunters must possess a Federal Government Access pass (OMB Control 1024-0252).
+
+ii. Disabled hunters are required to have their Federal Government Access pass (OMB Control 1024-0252) in their possession while hunting in disabled areas. We will not accept photocopies or electronic copies.
+
+iii. Disabled hunters may have an assistant, at least age 18, who must remain within sight and normal voice contact.
+
+a. Non-hunting assistants must not be engaged in hunting and must possess a valid refuge hunt brochure, signed in ink, and a valid government-issued photo identification. Non-hunting assistants must also use fluorescent orange in accordance with condition C.1.xii.
+
+b. Assistants who wish to hunt deer must possess a valid hunt permit (Big/Upland Game Hunt Application, FWS Form 3-2356 or Quota Deer Hunt Application, FWS Form 3-2354) for that day for any hunt area.
+
+c. We do not allow assistants to enter a designated disabled hunting area unless they are accompanied by a certified disabled hunter.
+
+d. All refuge-provided hunt blinds are reserved for disabled hunters only; however, when a disabled hunter and their assistant occupy the same blind, both may take game.
+
+e. We do not require assistants to maintain sight and normal voice contact while retrieving game.
+
+iv. We only allow disabled hunters to operate all-terrain vehicles (ATVs) and off-road vehicles (ORVs); when the disabled hunter is unable to physically do so, the assistant may operate the ATV/ORV.
+
+a. Assistants may not operate an ATV/ORV without being accompanied on the same ATV/ORV by a disabled hunter.
+
+b. ATVs/ORVs must have at least one headlight and one red tail light that are operational between legal sunset and legal sunrise.
+
+c. Anyone who operates or rides on an ATV/ORV must wear protective headgear that meets the standards established in Transportation Article, section 21-1306, Annotated Code of Maryland, and use an eye-protective device or a windscreen that is of a type approved in Transportation Article, section 21-1306, Annotated Code of Maryland.
+
+d. We only allow ATVs/ORVs to be operated on established routes of travel and around field edges.
+
+e. We do not allow ATVs/ORVs to be operated in excess of 15 MPH.
 
 *D. Sport Fishing.* We allow fishing and crabbing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
 1. We allow fishing and crabbing only from April 1 through September 30 during daylight hours in refuge waters, unless otherwise authorized by the refuge manager.
 
-2. We allow fishing and crabbing from boats and from the Key Wallace roadway (bridge) across the Little Blackwater River, unless otherwise authorized by the refuge manager.
+2. We allow only fishing and crabbing from the Key Wallace roadway (bridge) across the Little Blackwater River and by boat, unless otherwise authorized by the refuge manager.
 
-3. We require you to possess a printed valid Maryland sport fishing license, all required stamps, and a valid form of government-issued photo identification while fishing on the refuge. We do not require a refuge permit to fish on the refuge.
+3. You must possess a valid Maryland sport fishing license, all required stamps, and a valid form of government-issued photo identification while fishing on the refuge.
 
 4. We require anglers to attend all fish and crab lines.
 
@@ -92,39 +140,79 @@ Eastern Neck National Wildlife Refuge
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State hunting regulations and subject to the following conditions:
 
-1. We require you to obtain a deer or turkey hunting permit using the Big/Upland Game Hunt Application (FWS Form 3-2356).
+1. General Hunt Regulations.
 
-2. We allow only hunters possessing a valid permit issued by the refuge to hunt/scout during designated days.
+i. You must obtain a deer or turkey hunting permit (Big/Upland Game Hunt Application, FWS Form 3-2356). Hunting brochures contain hunting application procedures, seasons, bag limits, methods of hunting, maps depicting areas open to hunting, and the terms and conditions under which we issue hunting permits. They are available at the refuge visitor center, administration office, and on the refuge's Web site.
 
-3. We require hunters to possess on their person at all times while on refuge property a printed valid Maryland hunting license and all required stamps, and a valid form of government-issued photo identification. On scout days, we require hunters to place their printed refuge permit on the dash of their vehicle in plain view. On hunt days, we require hunters to have a printed valid refuge permit on their person.
+ii. You must possess on your person at all times while on refuge property: A valid Maryland hunting license and all required stamps, a valid form of government-issued photo identification, and a valid hunting permit (Big/Upland Game Hunt Application, FWS Form 3-2356) issued by the refuge. We will not accept photocopies or electronic copies of these documents.
 
-4. We require hunters to notify and receive permission from a Service law enforcement officer, refuge manager, or designee if they need to enter a closed area to retrieve game.
+iii. You must display your refuge hunt parking pass in plain sight, on the dash of your vehicle during hunt and scout days.
 
-5. We prohibit the use of rimfire or centerfire rifles and all handguns, including muzzleloading pistols, for hunting.
+iv. We prohibit hunting from a permanently constructed tree stand or blind.
 
-6. We prohibit the use of boats, flotation devices, all-terrain vehicles (ATVs), motorized off-road vehicles, and amphibious vehicles to access the refuge, unless authorized by the refuge manager for use by disabled hunters.
+v. You must notify and receive permission from a Service law enforcement officer, refuge manager, or designee if you need to retrieve game from a refuge closed area or a hunting area for which you do not possess a valid permit (Big/Upland Game Hunt Application, FWS Form 3-2356).
 
-7. We prohibit screw-in steps, spikes, or other objects that may damage trees (see § 32.2(i)).
+vi. Other than using motor vehicles on designated roads, you may only access the refuge by foot, except as authorized by the refuge manager.
 
-8. We prohibit hunting from a permanently constructed tree stand or blind.
+vii. We prohibit shooting a projectile from a firearm, muzzleloader, bow, or crossbow from, down, or across any refuge road. A refuge road is any road that is traveled by vehicular traffic.
 
-9. We allow the use of temporary tree stand and blinds for hunting. All stands and blinds left on refuge property, unoccupied, must be tagged in plain sight with your permit number and the years that are printed on your permit. We require you to remove all stands and blinds by legal sunset of a date established annually by the refuge manager. We are not responsible for damage, theft, or use of the stand by other hunters (see § 27.93 of this chapter).
+viii. You must park in designated areas. We prohibit parking in front of any gate. Parked vehicles may not impede any road traffic (see § 27.31(h) of this chapter).
 
-10. We allow use of marking devices, including flagging or tape, but hunters must remove them by legal sunset of a date established annually by the refuge manager (see § 27.93 of this chapter). We prohibit paint or any other permanent marker to mark trails.
+ix. You must make a reasonable effort to retrieve all wounded or killed game and include it in your daily bag limit. We prohibit leaving deer entrails or other waste within 50 feet (15.2 meters) of any refuge road, trail, parking area, or structure.
 
-11. We require all disabled hunters to provide certification of their disability.
+x. We allow the use of temporary tree stands and blinds for hunting. All stands and blinds left on refuge property, unoccupied, must be tagged in plain sight with your permit number and the years that are printed on your permit. You must remove all stands and blinds by legal sunset of a date established annually by the refuge manager.
 
-12. Disabled persons may have an assistant during the hunt on designated areas of the refuge. Persons assisting disabled hunters must be at least age 18 and obey all refuge, State, and Federal laws and regulations. Non-hunting assistants assisting disabled hunters must not be afield with a hunting firearm, bow, or other hunting device. Assistants who wish to hunt must abide by the conditions in C1 and C3. Assistants participating in a disabled hunt must be accompanied by a hunter certified by the State as being disabled.
+xi. We allow the use of marking devices, including flagging or tape, but they must be removed by legal sunset of date established annually by the refuge. You may not use paint or any other permanent marker to mark trails.
 
-13. We require that you abide by the terms and conditions of the refuge permit and brochure. Hunters are subject to inspection by law enforcement officials and may have their permits revoked if we find them to be in violation of § 32.2 or other Federal and State laws.
+xii. You must use florescent orange in accordance with State regulations during all designated firearm and muzzleloader deer hunts.
 
-14. We allow parking only in designated parking areas.
+xiii. We prohibit the use of rimfire or centerfire rifles and all handguns, including muzzleloading pistols, for hunting.
 
-15. We prohibit shooting a projectile from a firearm, muzzleloader, bow, or crossbow from, down, or across any refuge road.
+xiv. You must adhere to the bag limits set fourth annually in the brochure. Deer harvested on the refuge do not count toward State bag limits but must be recorded and checked with the State. Deer harvested on the refuge must be checked pursuant to the refuge hunt in which they are taken, regardless of the weapon used or corresponding State season.
 
-16. We require you to make a reasonable effort to retrieve all wounded or killed game and include it in your daily bag limit. We prohibit leaving deer entrails or other waste within 50 feet (15.2 meters) of any road, trail, or refuge structure on the refuge.
+xv. The maximum speed limit on unpaved refuge roads is 15 miles per hour (MPH).
 
-17. We prohibit parking in front of any open or closed gate. Parked vehicles may not impede any road traffic.
+2. Youth Deer Hunt.
+
+i. We allow hunters to hunt on designated areas on designated days (Youth Hunt) if they meet the criteria of a “youth hunter” as defined by State law.
+
+ii. Youth hunters must be accompanied by an assistant consistent with the regulations established by State law.
+
+iii. All youth deer hunters and their assistants must wear fluorescent orange in accordance with State regulations while hunting in designated youth hunt areas.
+
+iv. Assistants must possess a valid refuge hunt brochure, signed in ink, and a valid government-issued photo identification.
+
+v. Deer taken during youth days do not count toward the State bag limit and are in addition to any other deer taken during any other hunts on the refuge.
+
+vi. Deer taken must be recorded and checked with the State.
+
+3. Designated Disabled Hunt.
+
+i. All disabled hunters must possess a Federal Government Access pass (OMB Control 1024-0252). Disabled hunters are required to have their Federal Government Access pass (OMB Control 1024-0252) in their possession while hunting in disabled areas. We will not accept photocopies or electronic copies of the Federal Government Access pass.
+
+ii. Disabled hunters may have an assistant who must be age 18 or older and remain within sight and normal voice contact.
+
+a. Non-hunting assistants must not be engaged in hunting and must possess a valid refuge hunt brochure, signed in ink, and a valid government-issued photo identification. We will not accept photocopies of these documents. Non-hunting assistants must also wear fluorescent orange in accordance with C.1.xii.
+
+b. Assistants who wish to deer hunt must possess a valid refuge hunt permit (Big/Upland Game Hunt Application, FWS Form 3-2356) for that day.
+
+c. We do not allow assistants to enter a designated disabled hunting area unless they are accompanied by a certified disabled hunter.
+
+d. All refuge-provided hunt blinds are reserved for disabled hunters only; however, when a disabled hunter and their assistant occupy the same blind, both may take game.
+
+e. We do not require assistants to maintain sight and normal voice contact while retrieving game.
+
+iii. We allow only disabled hunters to operate all-terrain vehicles (ATVs) and off-road vehicles (ORVs); when the disabled hunter is unable to physically do so, the assistant may operate the ATV/ORV.
+
+a. Assistants may not operate an ATV without being accompanied on the same ATV by a disabled hunter.
+
+b. ATVs/ORVs must have at least one headlight and one red tail light that are operational between legal sunset and legal sunrise.
+
+c. Anyone who operates or rides on a ATV/ORV must wear protective headgear that meets the standards established in Transportation Article, section 21-1306, Annotated Code of Maryland, and must use an eye-protective device or a windscreen of a type approved in Transportation Article, section 21-1306, Annotated Code of Maryland.
+
+d. We only allow ATVs/ORVs to be operated on established routes of travel and around field edges.
+
+e. We do not allow ATVs/ORVs to be operated in excess of 15 miles per hour (MPH).
 
 *D. Sport Fishing.* We allow fishing and crabbing in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -134,7 +222,7 @@ Eastern Neck National Wildlife Refuge
 
 3. We allow fishing from designated shoreline areas located at the Chester River end of Boxes Point and Duck Inn Trails from legal sunrise to legal sunset.
 
-4. We require you to possess a printed valid Maryland sport fishing license and all required stamps, and valid form of government-issued photo identification while fishing on the refuge. We do not require a refuge permit to fish on the refuge.
+4. You must possess a valid Maryland sport fishing license and all required stamps, and valid form of government-issued photo identification while fishing on the refuge.
 
 5. We require anglers to attend all fish and crab lines.
 
@@ -302,4 +390,4 @@ d. Maryland State law requires personal flotation devices and whistle and/or hor
 
 vii. We prohibit boat trailers except by individuals possessing a refuge handicapped permit.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6685, 6693, Feb. 11, 1994; 60 FR 62043, Dec. 4, 1995; 61 FR 46396, Sept. 3, 1996; 63 FR 46917, Sept. 3, 1998; 65 FR 30784, May 12, 2000; 69 FR 54362, 54412, Sept. 8, 2004; 70 FR 54174, Sept. 13, 2005; 73 FR 51160, Aug. 29, 2008; 74 FR 45690, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 3976, Jan. 21, 2011; 76 FR 56075, Sept. 9, 2011; 77 FR 56045, Sept. 11, 2012; 79 FR 14829, Mar. 17, 2014; 80 FR 51907, Aug. 26, 2015; 81 FR 68904, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6685, 6693, Feb. 11, 1994; 60 FR 62043, Dec. 4, 1995; 61 FR 46396, Sept. 3, 1996; 63 FR 46917, Sept. 3, 1998; 65 FR 30784, May 12, 2000; 69 FR 54362, 54412, Sept. 8, 2004; 70 FR 54174, Sept. 13, 2005; 73 FR 51160, Aug. 29, 2008; 74 FR 45690, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 3976, Jan. 21, 2011; 76 FR 56075, Sept. 9, 2011; 77 FR 56045, Sept. 11, 2012; 79 FR 14829, Mar. 17, 2014; 80 FR 51907, Aug. 26, 2015; 81 FR 68904, Oct. 4, 2016; 82 FR 51953, Nov. 8, 2018]

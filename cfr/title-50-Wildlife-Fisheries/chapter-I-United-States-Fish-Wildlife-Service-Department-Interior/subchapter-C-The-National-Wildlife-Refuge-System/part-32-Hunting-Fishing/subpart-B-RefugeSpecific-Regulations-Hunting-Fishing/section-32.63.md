@@ -444,7 +444,7 @@ Hagerman National Wildlife Refuge
 
 9. We allow retriever dogs, but the dogs must be under the control of the handler at all times (see § 26.21(b) of this chapter).
 
-10. We prohibit airboats, hovercraft, and personal watercraft (Jet Skis, wave runner, jet boats, etc.) year-round on refuge waters.
+10. We prohibit airboats, hovercraft, and personal watercraft (such as Jet Skis, wave runners, and jet boats) on refuge waters.
 
 11. We prohibit building or hunting from permanent blinds.
 
@@ -454,13 +454,15 @@ Hagerman National Wildlife Refuge
 
 14. We prohibit glass containers.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and rabbit in the months of February and September on designated areas of the refuge in accordance with State regulations and subject to the following conditions: Conditions A1 through A14 apply.
+15. We prohibit blocking of gates and roads (see § 27.31(h) of this chapter).
+
+*B. Upland Game Hunting.* We allow hunting of squirrel and rabbit in the months of February and September on designated areas of the refuge in accordance with State regulations and subject to the following conditions: Conditions A1 through A15 apply.
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer, feral hog, and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
 1. We require a limited hunt permit (name) for archery deer, feral hog, and spring turkey hunts. In partnership with Texas Parks and Wildlife Department, we allow a special youth hunt as listed on the refuge hunt information sheet. For additional information on how to apply, contact the refuge headquarters at 903-786-2826.
 
-2. Conditions A2, A5 through A7, and A10 through A14 apply.
+2. Conditions A2, A5 through A7, and A10 through A15 apply.
 
 3. We restrict hunt participants for limited hunts to those drawn for and in possession of a limited hunt permit (name). The permits are nontransferable. Hunt dates and application procedures will be available annually at the refuge headquarters.
 
@@ -500,11 +502,11 @@ Hagerman National Wildlife Refuge
 
 1. Lake Texoma and connected streams are open to fishing year-round. We require a valid State of Texas or Lake Texoma fishing license in accordance with State regulations.
 
-2. Conditions A10, and A12 through A14 apply.
+2. Conditions A10, and A12 through A15 apply.
 
 3. You may bank fish on Lake Texoma with pole and line, rod and reel, or hand line year-round.
 
-4. We allow wade fishing in refuge ponds March 15 through October 1 annually from all areas except Refuge Road, Wildlife Drive, Plover Road, Tern Road, and Egret Road.
+4. We allow wade fishing March 15 through October 1 annually from all areas except Refuge Road, Wildlife Drive, Plover Road, Tern Road, and Egret Road.
 
 5. We allow fishing in refuge ponds March 15 through September 30 annually. We require a valid State of Texas or Lake Texoma fishing license in accordance with State regulations.
 
@@ -525,6 +527,14 @@ Hagerman National Wildlife Refuge
 13. We prohibit taking any fish or bait for any purpose from refuge impoundments year-round.
 
 14. We prohibit entry into refuge impoundments and ponds by any means (*i.e.,* foot, boat, other floating device) for any purpose year-round.
+
+15. We prohibit boats and other floating devices on all open waters of Lake Texoma, except Big Mineral Creek from October 1 through March 14 annually.
+
+16. At the point where Big Mineral Creek joins Lake Texoma, Big Mineral Creek becomes a year-round no wake zone to the end of upstream navigable waters.
+
+17. From October 1 through March 14, we allow only nonmotorized boats in Big Mineral Creek from the point where it joins Lake Texoma to the upstream end of navigable waters. You may not have any type of gas or electric motor onboard that is capable of use. You may launch boats from a boat ramp only from L Pad Road or by hand at the Big Mineral Day Use Area.
+
+18. We prohibit discarding fish whole or in part on refuge lands and waters.
 
 Laguna Atascosa National Wildlife Refuge
 
@@ -882,4 +892,4 @@ Trinity River National Wildlife Refuge
 
 5. We limit motors to a maximum of 10 hp. We prohibit fishing or enter within 200 yards (180 m) of an established bird rookery from March through the end of June. Check at refuge headquarters for rookery locations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56408, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54457, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54192, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3993, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 76 FR 59304, Sept. 26, 2011; 77 FR 56062, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51931, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56408, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54457, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54192, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3993, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 76 FR 59304, Sept. 26, 2011; 77 FR 56062, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51931, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016; 82 FR 51959, Nov. 8, 2017]

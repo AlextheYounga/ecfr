@@ -1,10 +1,10 @@
 ##### § 9.1 GAO Senior Executive Service. #####
 
-(a) The Comptroller General may promulgate regulations establishing a Government Accountability Office Senior Executive Service which meets the requirements set forth in section 3131 of title 5, United States Code, which provides -
+(a) The Comptroller General may promulgate regulations establishing a Government Accountability Office Senior Executive Service which meets the requirements set forth in section 3131 of title 5, United States Code, which provides—
 
 § 3131 The GAO Senior Executive Service
 
-The Senior Executive Service shall be administered so as to -
+The Senior Executive Service shall be administered so as to—
 
 (1) Provide for a compensation system, including salaries, benefits, and incentives, and for other conditions of employment, designed to attract and retain highly competent senior executives;
 
@@ -34,7 +34,7 @@ The Senior Executive Service shall be administered so as to -
 
 (14) Appoint career executives to fill Senior Executive Service positions to the extent practicable, consistent with the effective and efficient implementation of agency policies and responsibilities.
 
-(b) Requirements for positions included in the GAO Senior Executive System. The GAO Senior Executive Service may include -
+(b) Requirements for positions included in the GAO Senior Executive System. The GAO Senior Executive Service may include—
 
 (1) The 100 positions authorized by 31 U.S.C. 732(c)(4);
 

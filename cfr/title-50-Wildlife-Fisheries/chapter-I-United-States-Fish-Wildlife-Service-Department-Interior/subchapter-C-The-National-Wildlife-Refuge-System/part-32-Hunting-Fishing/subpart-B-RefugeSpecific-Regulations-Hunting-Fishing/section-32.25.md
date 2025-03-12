@@ -158,18 +158,30 @@ Rocky Mountain Arsenal
 
 *C. Big Game Hunting.* [Reserved]
 
-*D. Sport Fishing.* We allow fishing at designated times and on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow fishing at designated times and on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We require a valid State fishing license and valid refuge fishing permit for all anglers age 16 and older. You must obtain and display a daily refuge fishing badge while fishing.
+1. We allow fishing from the third Saturday in April to the second Sunday in October.
 
-2. We only allow the use of rod and reel with one hook or lure per line.
+2. We allow fishing on Tuesday, Saturday, and Sunday from legal sunrise to sunset.
 
-3. We only allow catch and release fishing.
+3. You must possess a signed refuge fishing permit (signed refuge fishing brochure), when fishing, for all anglers age 16 and older. Refuge brochures are available at the refuge visitor center, fishing fee stations, and on the refuge's Web site (*https://www.fws.gov/refuge/rocky\_mountain\_arsenal/*).
 
-4. We only allow barbless hooks.
+4. You must stop and pay the daily fishing recreation fee for each licensed angler age 16 and older. Payments are made at self-serving fishing fee stations, and you must display a receipt of payment or an annual pass while fishing.
 
-5. We only allow artificial flies or lures.
+5. We allow bank fishing only at Lake Mary and Lake Ladora.
 
-6. We prohibit the use of live bait.
+6. We allow wade fishing only in Lake Ladora after Memorial Day.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6685, Feb. 11, 1994; 60 FR 62041, Dec. 4, 1995; 62 FR 47376, Sept. 9, 1997; 65 FR 30780, May 12, 2000; 69 FR 54362, Sept. 8, 2004; 70 FR 54163, Sept. 13, 2005; 76 FR 56065, Sept. 9, 2011; 79 FR 14825, Mar. 17, 2014; 79 FR 21874, Apr. 18, 2014; 81 FR 68893, Oct. 4, 2016; 81 FR 69717, Oct. 7, 2016]
+7. We only allow the use of one rod and reel or pole and line with one hook per line.
+
+8. We only allow barbless hooks.
+
+9. We only allow artificial lures and flies on Lake Ladora. We allow artificial lures and flies and artificial bait, cut bait, and food products only on Lake Mary.
+
+10. We prohibit the use of live bait on all refuge waters.
+
+11. We only allow catch and release fishing.
+
+12. We prohibit the possession and consumption of alcoholic beverages while fishing.
+
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6685, Feb. 11, 1994; 60 FR 62041, Dec. 4, 1995; 62 FR 47376, Sept. 9, 1997; 65 FR 30780, May 12, 2000; 69 FR 54362, Sept. 8, 2004; 70 FR 54163, Sept. 13, 2005; 76 FR 56065, Sept. 9, 2011; 79 FR 14825, Mar. 17, 2014; 79 FR 21874, Apr. 18, 2014; 81 FR 68893, Oct. 4, 2016; 81 FR 69717, Oct. 7, 2016; 82 FR 51948, Nov. 8, 2017]

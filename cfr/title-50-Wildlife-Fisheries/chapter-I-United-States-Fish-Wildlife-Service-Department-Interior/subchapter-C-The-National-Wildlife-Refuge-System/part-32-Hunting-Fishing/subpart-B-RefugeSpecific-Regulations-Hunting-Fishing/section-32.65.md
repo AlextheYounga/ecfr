@@ -22,17 +22,17 @@ e. We prohibit entering closed areas of the refuge for any reason, except for th
 
 f. Unarmed hunters may scout open hunting areas before a particular season opens but in no case before September 1. We do not require a hunting permit for scouting.
 
-ii. Maquam Shore Area encompasses a 30-acre area along the lakeshore of Maquam Bay and is bounded by private land on the west and a Vermont wildlife management area on the east. a. Conditions A1i(a-f) apply.
+ii. Maquam Shore Area encompasses a 30-acre area along the lakeshore of Maquam Bay and is bounded by private land on the west and a Vermont wildlife management area on the east. In the Maquam Shore Area, conditions A.1.i.a. through A.1.i.f. apply.
 
-iii. Saaxes Pothole/Creek and Shad Island Pothole encompasses Saxes Creek, Saxes Pothole, and Shad Island Pothole. This is a controlled hunting area. We stake and make available five zones (numbered 1-5) to five hunting parties in Saxe's Pothole, zone 6 is staked and available to one hunting party in Shad Island Pothole.
+iii. Saxes Pothole/Creek and Shad Island Pothole encompass Saxes Creek, Saxes Pothole, and Shad Island Pothole. This is a controlled hunting area. We stake and make available five zones (numbered 1 through 5) to five hunting parties in Saxes Pothole; zone 6 is staked and available to one hunting party in Shad Island Pothole.
 
 a. A hunting party consists of the hunter named on the permit and one guest hunter per zone per day. Nonhunters may accompany a hunting party.
 
 b. Each hunting party must possess and carry a permit for the specific zone on the specific day they are hunting in this area. Permits are not transferable.
 
-c. You may obtain permits for the period from the opening day of duck hunting season through the first Sunday of the duck hunting season, and for the second weekend of the duck hunting season through application to a preseason lottery. During the years when the State elects to have a split season, you may also obtain your permits for the second opening day through the following Sunday through application to the preseason lottery. On all other hunt days, you must acquire permits through self-registration at the Mac's Bend Landing no earlier than 2 hours before legal shooting time on the day of the hunt.
+c. You may apply to a preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355) to obtain a permit (Migratory Bird Hunt Report, FWS Form 3-2361) for the opening day of duck hunting season through the first Sunday of the duck hunting season and for the second weekend of the duck hunting season. During the years when the State elects to have a split season, you may also obtain your permit (Migratory Bird Hunt Report, FWS Form 3-2361) for the second opening day through the following Sunday through application to the preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355). On all other hunt days, you must acquire a permit (Migratory Bird Hunt Report, FWS Form 3-2361) through self-registration at the Mac's Bend Landing no earlier than 2 hours before legal shooting time on the day of the hunt.
 
-d. Hunters selected during the preseason lottery must pay a $10 fee. The refuge must receive the fee no earlier than 2 days before the opening of the season or forfeit the permit, which we will then make available to other hunters on a first-come, first-served basis. The fee is paid for any permit assigned before the day of the hunt. There is no fee for any permit obtained on the day of the hunt.
+d. Hunters selected during the preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355) must pay a $10 fee. The refuge must receive the fee no later than 2 days before the opening of the season or the selected hunter forfeits the permit (Migratory Bird Hunt Report, FWS Form 3-2361), which we will then make available to other hunters on a first-come, first-served basis. The fee is paid for any permit (Migratory Bird Hunt Report, FWS Form 3-2361) assigned before the day of the hunt. There is no fee for any permit (Migratory Bird Hunt Report, FWS Form 3-2361) obtained on the day of the hunt.
 
 e. On those days that we draw permits by preseason lottery, hunters must sign in at the Mac's Bend Landing by 7 a.m. before going to the assigned zone. After 7 a.m. other hunters may sign in, self-register, and use unoccupied zones.
 
@@ -52,23 +52,23 @@ l. Unarmed hunters may scout open hunting areas before a particular season opens
 
 iv. Junior Waterfowl Hunting Area encompasses Long Marsh Bay, Patrick Marsh and that portion of Charcoal Creek south of Vermont Route 78. This is a controlled hunting area. We establish 11 blind sites for use by junior waterfowl hunters, blind sites 4-8 in Long Marsh Bay, blind sites C-F in Charcoal Creek, and blind sites A-B in Patrick Marsh.
 
-a. Junior waterfowl hunters (ages 12-15, inclusive, at the time of the hunt) following successful completion of the annual training program (usually held the third or fourth Saturday in August) vie for blind site assignments during a lottery drawing at the conclusion of the training. The 11 blind sites are available exclusively to these junior waterfowl hunters and their mentors the first 4 Saturdays and Sundays of the duck season.
+a. Junior waterfowl hunters (ages 12-17, inclusive, at the time of the hunt), following successful completion of the annual training program (usually held the third or fourth Saturday in August), vie for blind site assignments during a lottery drawing (Waterfowl Lottery Application, FWS Form 3-2355) at the conclusion of the training. The 11 blind sites are available exclusively to these junior waterfowl hunters and their mentors during the first four Saturdays and Sundays of the duck season.
 
-b. As an incentive to the adult volunteers who serve as mentors to junior waterfowl hunters, they will vie for blind site assignments during a lottery drawing at the conclusion of the annual junior waterfowl hunter training for the use of blind sites in the junior hunt area on the first Wednesday following the second weekend of the season. This day is known as Mentor Day. We will collect no fee from mentors for this hunt day. We will make available blinds not assigned because of this lottery to other adult hunters via a preseason lottery.
+b. During a lottery drawing (Waterfowl Lottery Application, FWS Form 3-2355) at the conclusion of the annual junior waterfowl hunter training, adult volunteers who serve as mentors to junior waterfowl hunters will vie for the use of junior hunt area blind sites on the first Wednesday following the second weekend of the season. This is known as Mentor Day, and there is no fee charged to mentors. Any junior hunt area blinds not assigned at the conclusion of the annual junior waterfowl hunter training will be available to other adult hunters via a preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355). Mentors will also be permitted to hunt alongside the junior hunters on the last two Saturdays and Sundays of the junior hunt period.
 
-c. Following the use of the blind sites in this area by junior hunters and junior hunter mentors, all blind sites are then available to all adult hunters by permit awarded via a preseason lottery for the second Wednesday following the second weekend of the duck season; and on weekends following the junior hunt by a first-come, first-served, self-registration, and permitting basis at the refuge headquarters.
+c. Following the use of the blind sites in this area by junior hunters and junior hunter mentors, all blind sites are then available to all adult hunters by permit (Migratory Bird Hunt Report, FWS Form 3-2361) awarded via a preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355) for the second Wednesday following the second weekend of the duck season; and on weekends following the junior hunt by a first-come, first-served basis; hunters must self-register at the Mac's Bend boat launch.
 
-d. Hunters, including junior hunters, with preregistered permits must sign in at refuge headquarters no later than 7 a.m. on the date of their scheduled hunt. After 7 a.m. other hunters may sign in, self-register, and use unoccupied blind sites. Only junior hunters may hunt on the first 4 Saturdays and Sundays of the season.
+d. Hunters, including junior hunters, with preregistered permits (Migratory Bird Hunt Report, FWS Form 3-2361) must sign in at the Mac's Bend boat launch no later than 7 a.m. on the date of their scheduled hunt. After 7 a.m., other hunters may sign in, self-register, and use unoccupied blind sites. Only junior hunters may hunt on the first four Saturdays and Sundays of the season. Adult mentors may hunt alongside their junior hunters for the last two Saturdays and Sundays of the junior hunt period. During this time, there still can only be two hunters per blind site (one junior and one mentor, or two juniors), regardless of the number of mentees.
 
 e. Each junior hunter must possess and carry a free permit for the assigned blind site and day. On Mentor Day, mentors must also possess and carry this free permit for the assigned blind site. Each adult hunting party must possess and carry a permit for the blind site and day they are hunting. Permits are not transferable.
 
 f. The mentor must accompany the junior hunter who completed the training program with him or her. We include the mentor on the permit assigned to the junior hunter. A mentor may simultaneously oversee up to two junior hunters at one blind site.
 
-g. Each adult hunter, except mentors on Mentor Day, must pay $10 for each permit issued because of the preseason lottery. Permits acquired by self-registration are free.
+g. Each adult hunter, except mentors on Mentor Day, must pay $10 for each permit (Migratory Bird Hunt Report, FWS Form 3-2361) issued during the preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355). Permits acquired by self-registration are free.
 
-h. Only junior hunters may discharge a firearm in this area during the junior hunt periods.
+h. Only junior hunters may discharge a firearm in this area during the youth weekend and the first two weekends of the season. Adult mentors may hunt alongside one junior mentee for the remainder of the junior hunt period.
 
-i. We allow and recommend hunting from portable blinds and boat blinds constructed and place by the refuge for the junior waterfowl hunting program at some of the blind sites. Junior hunters, with the approval of the refuge manager, may construct stationary blinds and leave them in place for the duration of the season. Otherwise, we prohibit permanent blinds.
+i. We allow and recommend hunting from portable blinds and boat blinds constructed and placed by the refuge at some of the junior blind sites. Junior hunters are assigned a blind location by a lottery. We prohibit permanent blinds.
 
 j. All hunting must take place within 100 feet (30 m) of the stake marking the blind area. We prohibit jump shooting.
 
@@ -76,13 +76,13 @@ k. This area is available to refuge-trained junior waterfowl hunters during the 
 
 l. Shooting hours are from legal opening time until 11 a.m.
 
-m. Hunters must deposit the Hunt Success Report portion of their permit at refuge headquarters at the end of the hunt.
+m. At the end of each day's hunt, each hunter must complete and deposit at Mac's Bend boat launch that portion of their permit (Migratory Bird Hunt Report, FWS Form 3-2361) that provides the number of birds harvested and number of birds knocked down but not retrieved.
 
 n. A small flat-bottom boat, car-top boat, or canoe is necessary for access to Charcoal Creek and Patrick Marsh blind sites. Access is available at the Charcoal Creek crossing on Vermont Route 78 or from a pulloff on Route 78 about3/4 of a mile (1.2 km) east of the Charcoal Creek access.
 
 o. You may only possess approved nontoxic shot shells (see § 32.2(k)) in quantities of 25 or less per day.
 
-p. A hunting party consists of the hunter named on the permit and one guest hunter per blind site per day. Junior hunters may not invite a guest hunter unless it another refuge-trained junior hunter. Nonhunters may accompany a hunting party.
+p. A hunting party consists of the hunter named on the permit (Migratory Bird Hunt Report, FWS Form 3-2361) and one guest hunter per blind site per day. Junior hunters may not invite a guest hunter unless it is another refuge-trained junior hunter. Nonhunters may accompany a hunting party.
 
 q. You must use at least six decoys.
 
@@ -96,7 +96,7 @@ a. We will limit hunting to Tuesdays, Thursdays, and Saturdays throughout the wa
 
 b. You may obtain permits for the first 5 days of the duck season through application to a preseason lottery. The procedure described in the Saxes Pothole/Creek and Shad Island controlled hunt area apply. Following the first 5 days, hunters may acquire permits on a first-come, first-served basis with self-service permitting and sign in at the Mac's Bend Landing, no more than 2 hours before legal shooting time.
 
-c. Hunters selected during the preseason lottery must pay a $10 fee. The refuge must receive the fee no less than 2 days before the opening of the season or the permit will be forfeited and made available first to standby hunters identified at the time of the drawing, and second to other hunters on a first-come, first-served basis. The fee is paid for any permit assigned before the day of the hunt. There is no fee for any permit obtained on the day of the hunt.
+c. Hunters selected during the preseason lottery (Waterfowl Lottery Application, FWS Form 3-2355) must pay a $10 fee. The refuge must receive the fee no later than 2 days before the opening of the season or the selected hunter forfeits the permit (Migratory Bird Hunt Report, FWS Form 3-2361), which will be made available first to standby hunters identified at the time of the drawing, and second to other hunters on a first-come, first-served basis. You must pay the fee for any permit (Migratory Bird Hunt Report, FWS Form 3-2361) before the day of the hunt. There is no fee for any permit (Migratory Bird Hunt Report, FWS Form 3-2361) obtained on the day of the hunt.
 
 d. On those days that we draw permits by preseason lottery, hunters must sign in at the Mac's Bend Landing by 7 a.m. before going to the assigned zone. After 7 a.m., other hunters may sign in, self-register, and use unoccupied zones.
 
@@ -126,13 +126,7 @@ p. We prohibit entry to closed areas of the refuge for any reason, except for th
 
 q. Unarmed hunters may scout open hunting areas before a particular season opens but in no case before September 1. We do not require a hunting permit for scouting.
 
-vi. Marquam Swamp Area encompasses about 200 acres (80 ha) west of the Central Vermont Railroad and south of Coleman's inholding and is open to migratory bird hunting with the following special requirements:
-
-a. Conditions A1ia and A1ic through A1 if apply.
-
-b. You must use a retrieving dog.
-
-c. We prohibit hunting within the area encompassing the headquarters nature trail. We identify this area with “No Hunting Zone” signs.
+vi. Maquam Swamp Area encompasses about 200 acres (80.9 hectares) west of the Central Vermont Railroad and south of Coleman's inholding and is open to migratory bird hunting with the following special requirements:
 
 2. Other migratory birds (including woodcock and common snipe):
 
@@ -270,4 +264,4 @@ Silvio O. Conte National Fish and Wildlife Refuge
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 60 FR 62047, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 65 FR 30792, May 12, 2000; 65 FR 56409, Sept. 18, 2000; 69 FR 54362, 54462, Sept. 8, 2004; 79 FR 14842, Mar. 17, 2014; 80 FR 51933, Aug. 26, 2015]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 60 FR 62047, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 65 FR 30792, May 12, 2000; 65 FR 56409, Sept. 18, 2000; 69 FR 54362, 54462, Sept. 8, 2004; 79 FR 14842, Mar. 17, 2014; 80 FR 51933, Aug. 26, 2015; 82 FR 51959, Nov. 8, 2017]

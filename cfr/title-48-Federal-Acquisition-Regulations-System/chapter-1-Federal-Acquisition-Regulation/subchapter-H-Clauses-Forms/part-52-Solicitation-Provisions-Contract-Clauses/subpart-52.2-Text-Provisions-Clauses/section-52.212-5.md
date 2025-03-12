@@ -320,6 +320,6 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 [60 FR 48255, Sept. 18, 1995]Editorial Notes:1. For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
 
-2. At 75 FR 34264, June 16, 2010, § 52.212-5 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+2. At 75 FR 34264, June 16, 2010, 52.212-5 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
 
-3. At 79 FR 61752, Oct. 14, 2014, § 52.212-5, was amended, however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+3. At 79 FR 61752, Oct. 14, 2014, 52.212-5 was amended, however, the amendment could not be incorporated due to inaccurate amendatory instruction.

@@ -1,0 +1,5 @@
+##### 1009.7003 Policy. #####
+
+(a) There are various Federal laws and regulations that in aggregate prohibit the Federal Government from entering into a contract with an entity where the awarding agency is aware of an unpaid Federal tax liability (see FAR subpart 9.1) unless the agency has considered suspension or debarment and has made a determination that this further action is not necessary to protect the interests of the Government.
+
+(b) IRS contracting officers shall include a provision in all solicitations regardless of dollar value, which contains a consent to disclosure to be signed and dated by a person authorized to act on behalf of the offeror as defined in 26 CFR 301.6103(c)-1(e)(4). The consent to disclosure will authorize officers and employees of the Department of the Treasury, including the IRS, to disclose the results of the tax check to the authorized representative(s) of the offeror. In the absence of a signed and dated consent to disclosure in an offer, taxpayer return information of the offeror may not be disclosed, which subsequently may remove the offeror from eligibility to receive an award.

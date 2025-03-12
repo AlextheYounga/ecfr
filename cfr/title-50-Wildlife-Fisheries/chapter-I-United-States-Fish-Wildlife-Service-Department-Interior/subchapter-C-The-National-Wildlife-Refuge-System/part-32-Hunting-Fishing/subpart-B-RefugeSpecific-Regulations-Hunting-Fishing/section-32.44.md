@@ -68,6 +68,48 @@ Great River National Wildlife Refuge
 
 Refer to § 32.32 (Illinois) for regulations.
 
+Loess Bluffs National Wildlife Refuge
+
+*A. Migratory Game Bird Hunting.* We allow hunting of light geese on designated areas of the refuge in accordance with State regulations during the spring conservation order season subject to the following conditions:
+
+1. Hunters must remain within direct sight of the guide in the hunt boundary at all times.
+
+2. We allow the guide and hunters into the hunt boundary up to 2 hours prior to legal shooting time.
+
+3. Hunting will stop at 12 p.m. (noon), and hunters must be out of the fields by 2 p.m.
+
+4. We allow hunting dogs, portable blinds, and decoys at the discretion of the guide.
+
+5. We prohibit pit blinds.
+
+6. Hunting dogs must be under the immediate control of their handlers at all times (see § 26.21 of this chapter).
+
+7. We prohibit retrieving crippled geese outside of the hunt boundary, including adjacent private land. This includes retrieval by hunting dogs.
+
+8. We prohibit vehicles beyond the established parking area located adjacent to State Highway 118 (see § 27.31 of this chapter).
+
+9. We prohibit ATV use on the refuge.
+
+10. Both the guide and hunters are responsible for ensuring that all trash, including spent shotgun shells are removed from the hunt area each day (see §§ 27.93 and 27.94 of this chapter).
+
+11. Violations of these rules may result in the revocation of the guide's Special Use Permit as deemed appropriate by the refuge manager.
+
+*B. Upland Game Hunting.* [Reserved]
+
+*C. Big Game Hunting.* Hunting of deer is permitted on designated areas of the refuge subject to the following conditions:
+
+1. Permits are required.
+
+2. Only historic weapon hunting is permitted.
+
+3. Hunters are required to check in and out of the refuge.
+
+4. Stands must be removed from the refuge each day.
+
+5. Hunting is permitted only during the special hunt season established by the State for the refuge.
+
+*D. Sport Fishing.* Fishing is permitted on designated areas of the refuge subject to the following condition: Fish, amphibians, reptiles and crustaceans may only be taken with hand-held pole and line or rod and reel.
+
 Middle Mississippi River National Wildlife Refuge
 
 Refer to § 32.32 (Illinois) for regulations.
@@ -157,48 +199,6 @@ C. *Big Game Hunting.* We allow big game hunting in designated areas of the refu
 8. We only allow the use of trotlines, throwlines, limb lines, bank lines, and jug lines from1/2 hour before legal sunrise until1/2 hour after legal sunset. Anglers must remove all fishing lines (see § 27.93 of this chapter) from the refuge at the end of each day's fishing. Anglers must mark each line with their name, address, and phone number.
 
 9. We allow the take of common snapping turtle and soft-shelled turtle using only pole and line. We require all anglers to immediately release all alligator snapping turtles (see § 27.21 of this chapter).
-
-Squaw Creek National Wildlife Refuge
-
-*A. Migratory Game Bird Hunting.* We allow hunting of light geese on designated areas of the refuge in accordance with State regulations during the spring conservation order season subject to the following conditions:
-
-1. Hunters must remain within direct sight of the guide in the hunt boundary at all times.
-
-2. We allow the guide and hunters into the hunt boundary up to 2 hours prior to legal shooting time.
-
-3. Hunting will stop at 12 p.m. (noon), and hunters must be out of the fields by 2 p.m.
-
-4. We allow hunting dogs, portable blinds, and decoys at the discretion of the guide.
-
-5. We prohibit pit blinds.
-
-6. Hunting dogs must be under the immediate control of their handlers at all times (see § 26.21 of this chapter).
-
-7. We prohibit retrieving crippled geese outside of the hunt boundary, including adjacent private land. This includes retrieval by hunting dogs.
-
-8. We prohibit vehicles beyond the established parking area located adjacent to State Highway 118 (see § 27.31 of this chapter).
-
-9. We prohibit ATV use on the refuge.
-
-10. Both the guide and hunters are responsible for ensuring that all trash, including spent shotgun shells are removed from the hunt area each day (see §§ 27.93 and 27.94 of this chapter).
-
-11. Violations of these rules may result in the revocation of the guide's Special Use Permit as deemed appropriate by the refuge manager.
-
-*B. Upland Game Hunting.* [Reserved]
-
-*C. Big Game Hunting.* Hunting of deer is permitted on designated areas of the refuge subject to the following conditions:
-
-1. Permits are required.
-
-2. Only historic weapon hunting is permitted.
-
-3. Hunters are required to check in and out of the refuge.
-
-4. Stands must be removed from the refuge each day.
-
-5. Hunting is permitted only during the special hunt season established by the State for the refuge.
-
-*D. Sport Fishing.* Fishing is permitted on designated areas of the refuge subject to the following condition: Fish, amphibians, reptiles and crustaceans may only be taken with hand-held pole and line or rod and reel.
 
 Swan Lake National Wildlife Refuge
 
@@ -290,4 +290,4 @@ Two Rivers National Wildlife Refuge
 
 Refer to § 32.32 Illinois for regulations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 61 FR 45367, Aug. 29, 1996; 61 FR 46397, Sept. 3, 1996; 65 FR 30785, May 12, 2000; 65 FR 56404, Sept. 18, 2000; 66 FR 46359, Sept. 4, 2001; 69 FR 54362, 54426 Sept. 8, 2004; 70 FR 54182, Sept. 13, 2005; 70 FR 56376, Sept. 27, 2005; 73 FR 33188, June 11, 2008; 76 FR 3983, Jan. 21, 2011; 76 FR 56079, Sept. 9, 2011; 77 FR 56050, Sept. 11, 2012; 79 FR 14831, Mar. 17, 2014; 80 FR 51921, Aug. 26, 2015; 81 FR 68911, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 61 FR 45367, Aug. 29, 1996; 61 FR 46397, Sept. 3, 1996; 65 FR 30785, May 12, 2000; 65 FR 56404, Sept. 18, 2000; 66 FR 46359, Sept. 4, 2001; 69 FR 54362, 54426 Sept. 8, 2004; 70 FR 54182, Sept. 13, 2005; 70 FR 56376, Sept. 27, 2005; 73 FR 33188, June 11, 2008; 76 FR 3983, Jan. 21, 2011; 76 FR 56079, Sept. 9, 2011; 77 FR 56050, Sept. 11, 2012; 79 FR 14831, Mar. 17, 2014; 80 FR 51921, Aug. 26, 2015; 81 FR 68911, Oct. 4, 2016; 82 FR 51956, Nov. 8, 2017]

@@ -175,7 +175,7 @@ Des Lacs National Wildlife Refuge
 
 10. We prohibit accessing refuge lands from refuge waters.
 
-*C. Big Game Hunting.* We allow deer hunting on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+*C. Big Game Hunting.* We allow deer and moose hunting on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We open the refuge daily from 5 a.m. to 10 p.m.
 
@@ -613,17 +613,17 @@ Upper Souris National Wildlife Refuge
 
 *A. Hunting of Migratory Birds.* [Reserved]
 
-*B. Upland Game Hunting.* We allow hunting of sharp-tailed grouse, Hungarian partridge, and pheasant on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of wild turkey during the spring season, and sharp-tailed grouse, Hungarian partridge, and pheasant on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We allow the use of dogs for hunting and retrieving of upland game birds. Dogs must be under direct control of the hunter (see § 26.21(b) of this chapter).
+1. We allow the use of dogs for hunting and retrieving of upland game birds with the exception of wild turkey. Dogs must be under immediate control of the hunter (see § 26.21(b) of this chapter).
 
-2. We open for hunting on Unit I during the State hunting season. Unit I includes all refuge land north of the township road that runs east of Tolley, across Dam 41 (Carter Dam), and east to State Route 28.
+2. We open for sharp-tailed grouse, Hungarian partridge, and pheasant hunting on Unit I during the State hunting season. Unit I includes all refuge land north of the township road that runs east of Tolley, across Dam 41 (Carter Dam), and east to State Route 28.
 
-3. We open for hunting on Unit II during the State hunting season, except we close from the first day of the regular State waterfowl season through the last day of State deer gun season. Unit II includes refuge land between Lake Darling Dam and Unit I.
+3. We open for sharp-tailed grouse, Hungarian partridge, and pheasant hunting on Unit II during the State hunting season, except we close from the first day of the regular State waterfowl season through the last day of State deer gun season. Unit II includes refuge land between Lake Darling Dam and Unit I.
 
-4. We close land south of Lake Darling Dam to all upland game bird hunting.
+4. We close land south of Lake Darling Dam to sharp-tailed grouse, Hungarian partridge, and pheasant hunting.
 
-5. We prohibit hunting the area around refuge headquarters, buildings, shops, and residences. We post these areas with “Closed to Hunting” signs.
+5. We prohibit sharp-tailed grouse, Hungarian partridge, pheasant, and spring wild turkey hunting in the area around refuge headquarters, buildings, shops, residences, Outlet Fishing Area, and Lake Darling Dam water control structure. We post these areas with “Closed to Hunting” signs.
 
 6. We prohibit remaining on the refuge between the hours of 10 p.m. to 5 a.m.
 
@@ -635,7 +635,7 @@ Upper Souris National Wildlife Refuge
 
 10. Hunters may possess only approved nontoxic shot for all upland game hunting as identified in § 20.21(j) of this chapter.
 
-*C. Big Game Hunting.* We allow deer hunting on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*C. Big Game Hunting.* We allow deer and moose hunting on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We only allow the use of portable tree stands and ground blinds. We prohibit leaving stands and blinds overnight (see § 27.93 of this chapter) on the refuge.
 
@@ -689,4 +689,4 @@ Valley City Wetland Management District
 
 *D. Sport Fishing.* We allow sport fishing on Waterfowl Production Areas throughout the District in accordance with State regulations subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 59 FR 55187, 55191, Nov. 3, 1994; 60 FR 62045, Dec. 4, 1995; 63 FR 46919, Sept. 3, 1998; 65 FR 30788, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54440, Sept. 8, 2004; 70 FR 54185, Sept. 13, 2005; 74 FR 45695, Sept. 3, 2009; 76 FR 3987, Jan. 21, 2011; 76 FR 56083, Sept. 9, 2011; 79 FR 14836, Mar. 17, 2014; 80 FR 51926, Aug. 26, 2015; 81 FR 68913, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 59 FR 55187, 55191, Nov. 3, 1994; 60 FR 62045, Dec. 4, 1995; 63 FR 46919, Sept. 3, 1998; 65 FR 30788, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54440, Sept. 8, 2004; 70 FR 54185, Sept. 13, 2005; 74 FR 45695, Sept. 3, 2009; 76 FR 3987, Jan. 21, 2011; 76 FR 56083, Sept. 9, 2011; 79 FR 14836, Mar. 17, 2014; 80 FR 51926, Aug. 26, 2015; 81 FR 68913, Oct. 4, 2016; 82 FR 51957, Nov. 8, 2017]

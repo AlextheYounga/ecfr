@@ -1,9 +1,9 @@
-##### § 1301.21 Fees. #####
+##### § 1301.21 Purpose and scope. #####
 
-(a) Fees to be charged, if any, to any individual for making copies of his or her record exclude the cost of any search and review of the record. The following fees are applicable:
+(a) The regulations in §§ 1301.21 to 1301.34 implement section 3 of the Privacy Act of 1974, 5 U.S.C. 552a, with respect to systems of records maintained by TVA. They provide procedures by which an individual may exercise the rights granted by the Act to determine whether a TVA system contains a record pertaining to him; to gain access to such records; to have a copy made of all or any portion thereof; and to request administrative correction or amendment of such records. They prescribe fees to be charged for copying records; establish identification requirements; list penalties provided by statute for certain violations of the Act; and establish exemptions from certain requirements of the Act for certain TVA systems or components thereof.
 
-(1) For reproduction of material consisting of sheets no larger than 81/2 by 14 inches, ten cents per page; and
+(b) Nothing in §§ 1301.21 to 1301.34 entitles an individual to any access to any information or record compiled in reasonable anticipation of a civil action or proceeding.
 
-(2) For reproduction of other materials, the direct cost of photostats or other means necessarily used for duplication.
+(c) Certain records of which TVA may have physical possession are the official records of another government agency which exercises dominion and control over the records, their content, and access thereto. In such cases, TVA's maintenance of the records is subject to the direction of the other government agency. Except for a request for a determination of the existence of the record, when TVA receives requests related to these records, TVA will immediately refer the request to the controlling agency for all decisions regarding the request, and will notify the individual making the request of the referral.
 
-(b) [Reserved]
+[40 FR 45313, Oct. 1, 1975. Redesignated at 44 FR 30682, May 29, 1979, and further redesignated and amended at 82 FR 51757, Nov. 8, 2017]

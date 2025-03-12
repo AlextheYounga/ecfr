@@ -70,83 +70,71 @@ v. Parking for nonambulatory visitors is available adjacent to the dock at D Poo
 
 Chincoteague National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of migratory duck, goose, swan, coot, and rail on Thursdays, Fridays, and Saturdays during the State seasons on designated areas of the refuge within Wildcat Marsh, Morris Island, Assawoman Island, and Metompkin Island Divisions in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of waterfowl (as defined by the Virginia Waterfowl Hunting Guide) and rail on designated areas of the refuge within Wildcat Marsh, Morris Island, Assawoman Island, and Metompkin Island Divisions in accordance with State regulations and subject to the following conditions:
 
-1. You must obtain a Migratory Bird Hunting Application (FWS Form 3-2357). Hunting brochures containing hunting application procedures, seasons, bag limits, methods of hunting, maps depicting areas open to hunting, and the terms and conditions under which we issue hunting permits are available at the refuge administration office and on the refuge's Web site.
+1. You must obtain a Refuge Migratory Game Bird Hunt Permit (Migratory Bird Hunt Application, FWS Form 3-2357) and maintain the permit on your person while hunting on the refuge.
 
-2. Each youth hunter (under age 18) must remain within sight and normal voice contact and under direct supervision of an adult age 18 or older. The supervising adult must also possess and carry a State hunting license and a refuge permit.
+2. You may only access hunting areas by boat.
 
-3. You may only access hunting areas by boat.
+3. You may erect portable blinds and deploy decoys; however, during the regular duck seasons, you must remove the blinds and decoys at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from a permanent blind or pit blind.
 
-4. You may only possess approved nontoxic shot (*see* § 32.2(k)) while hunting duck, goose, swan, coot, and rail.
+4. You may use trained dogs to assist in the retrieval of harvested birds.
 
-5. You may erect portable blinds and deploy decoys; however, during the regular duck season, you must remove the blinds and decoys daily (see § 27.93 of this chapter).
+5. We prohibit hunting on Assawoman and Metompkin Islands' beach and dune habitats beginning March 15.
 
-6. You may use trained dogs to assist in the retrieval of harvested birds.
-
-7. You must complete and return a Migratory Bird Hunt Report (FWS Form 3-2361), available at the refuge administration office or on the refuge's Web site, within 15 days of the close of the season.
+6. We do not allow hunting on Sunday.
 
 *B. Upland Game Hunting.* [Reserved]
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and sika in designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*C. Big Game Hunting.* We allow hunting of white-tailed deer and sika in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. General hunt information:
 
-i. You must apply for this hunt by filling out a Big/Upland Game Hunt Application (FWS Form 3-2356). Hunting brochures containing hunting application procedures, seasons, bag limits, methods of hunting, maps depicting areas open to hunting, and the terms and conditions under which we issue hunting permits are available at the refuge administration office and on the refuge's Web site.
+i. You must possess a refuge hunt permit (Quota Deer Hunt Application, FWS Form 3-2354) while hunting.
 
-ii. You must be age 12 or older to hunt on the refuge. An adult age 18 or older must accompany hunters under age 18. The supervising adult must also possess and carry a State hunting license and refuge permit.
+ii. You must certify on your application you have viewed the refuge's hunt orientation.
 
-iii. You must attend a hunt orientation. We conduct orientations beginning at 10 a.m. Sundays and Wednesdays throughout the hunt season. We allow scouting from 11 a.m. to 6 p.m. following each orientation.
+iii. We allow holders of a refuge hunt permit (Quota Deer Hunt Application, FWS Form 3-2354) to access areas of the refuge typically closed to the non-hunting public. All occupants of a vehicle or hunt party must possess a refuge hunt permit and be actively engaged in hunting. We allow an exception to exist for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
 
-iv. You must sign in at the hunter registration station prior to entering your hunt zone and sign out upon exiting your hunt zone. All hunters must sign out no later than 2 hours after the end of the hunt day.
+iv. You must sign in at the hunter registration station prior to entering your hunt zone and sign out upon exiting your hunt zone. All hunters must sign out no later than 2 hours after the end of legal shooting hours.
 
-v. You must check all harvested animals at the refuge's official check station.
+v. You must check all harvested animals at the hunter registration station prior to signing out.
 
-vi. You must make a reasonable effort to recover wounded animals from the field and must notify the check station personnel immediately if you are not able to recover a wounded animal.
+vi. We prohibit the use of a boat, all-terrain vehicle (see § 27.31(f) of this chapter), or saddled animal to access hunt areas or while hunting.
 
-vii. We prohibit crossing water management areas unless you are retrieving a harvested animal.
+vii. We allow the use of portable tree stands, but you must remove stands at the end of each day's hunt (see § 27.93 of this chapter).
 
-viii. We prohibit the use of a boat, all-terrain vehicle (see § 27.31(f) of this chapter), bicycle, or saddled animal within your hunt zone.
+viii. You may not hunt within 100 feet (30.5 meters) of any building.
 
-ix. We allow the use of a portable tree stand.
+ix. We prohibit deer drives. We define a “drive” as four or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
+
+x. We prohibit hunting on Sundays.
 
 2. Archery hunt information:
 
-i. We allow hunting of white-tailed deer and sika with bow and arrow in designated areas of the refuge.
+i. We allow hunting of white-tailed deer and sika with archery tackle, as defined by the State, in designated areas of the refuge.
 
-ii. You may not nock an arrow within 50 feet (15 m) of the centerline of any road.
-
-iii. During the sika archery season, you may take up to five sika daily, of which two may be antlered. In addition, you may take white-tailed deer in accordance with State regulations.
-
-iv. We prohibit deer drives.
-
-v. We reserve Zone 2 for hunters confined to wheelchairs. Hunters confined to wheelchairs must remain on the paved trail or overlook platform on Woodland Trail. Hunters confined to wheelchairs who require assistance retrieving or dressing harvested animals must have a nonhunting assistant available.
+ii. You may not hunt or nock an arrow or crossbow bolt within 50 feet (15.2 meters) of the centerline of any road, whether improved or unimproved, or paved trail.
 
 3. Firearm hunt information:
 
 i. We allow hunting of white-tailed deer and sika with firearms in designated areas of the refuge.
 
-ii. You must wear a minimum of 400 square inches (2,600 cm2) of visible blaze-orange material consisting of a vest and hat or a jacket and hat.
+ii. You may not hunt or discharge a firearm on or within 50 feet (15.2 meters) of the centerline of any road, whether improved or unimproved, or paved trail. You may not shoot across or down any road or paved trail.
 
-iii. When hunting, you may use any firearm allowed by State law in designated areas of the refuge.
+*D. Sport Fishing.* We allow sport fishing, crabbing, and clamming from the shoreline of the refuge in designated areas of Tom's Cove, Swan's Cove, and the Atlantic Ocean in accordance with State regulations and subject to the following conditions:
 
-iv. We prohibit the discharge of a firearm within 50 feet (15m) of the centerline of any road.
-
-v. During the sika firearm season, you may take up to five sika daily, two of which may be antlered. In addition, during designated white-tailed deer hunt periods, you may take white-tailed deer in accordance with State regulations.
-
-vi. You must have a 4-wheel drive vehicle to hunt on Tom's Cove Hook. All over-sand vehicles must carry a shovel, jack, tow rope or chain, board or similar support for the jack, and a low- pressure tire gauge.
-
-vii. We reserve zone 2 for hunters confined to wheelchairs. Those hunters must remain on the paved trail or overlook platform on Woodland Trial. They may use any firearm allowed by State law while hunting from the overlook platform. We restrict other areas of the zone to shotgun and muzzleloading firearms only. Hunters confined to wheelchairs who require assistance retrieving and/or dressing harvested animals must have a nonhunting assistant available.
-
-*D. Sport Fishing.* We allow sport fishing, crabbing, and clamming from the shoreline of the refuge in designated areas of Tom's Cove, Swan's Cove, and the Atlantic Ocean in accordance with State regulations subject to the following conditions:
-
-1. You may not enter any water management areas.
+1. You may not wade or launch a vessel in any water management areas.
 
 2. You must attend minnow traps, crab traps, crab pots, and handlines at all times.
 
-3. You must possess and carry a refuge permit to surf fish after hours while fishing.
+3. We prohibit the use of seine nets and pneumatic (compressed air or otherwise) bait launchers.
 
-4. You must possess and carry a refuge permit (name, address, phone number supplied to refuge manager) to surf fish on Assawoman Island between March 15 and September 1.
+4. The State regulates certain species of finfish, shellfish, and crustacean (crab) using size or possession limits. You may not alter these species, to include cleaning or filleting, in such a way that we cannot determine its species or total length.
+
+5. In order to fish after the refuge closes, anglers must obtain an overnight fishing pass (name/address/phone) issued by the National Park Service. Anglers can obtain a pass in person at the National Park Service Tom's Cove Visitor Center.
+
+6. We allow only three surf fishing poles per licensed angler, and those poles must be attended at all times. This includes persons age 65 or older who are license-exempt in Virginia.
 
 Eastern Shore of Virginia National Wildlife Refuge
 
@@ -160,23 +148,17 @@ Eastern Shore of Virginia National Wildlife Refuge
 
 2. You must possess and carry a refuge hunt permit while hunting.
 
-3. You must be age 12 or older to hunt on the refuge. Hunters, ages 12 through 17, must be accompanied by and directly supervised (within sight and normal voice contact) by an adult age 18 or older. The supervising adult must also be engaged in hunting and possess and carry a State hunting license and refuge permit.
+3. We allow holders of a refuge big game hunt permit (signed brochure) to access areas of the refuge typically closed to the non-hunting public. All occupants of a vehicle or hunt party must possess a refuge hunt permit and be actively engaged in hunting. We allow an exception to exist for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
 
 4. You must sign in before entering the hunt zones and sign out upon leaving the zone.
 
-5. We allow portable tree stands in accordance with §§ 27.93, 27.94, and 32.2(i) of this chapter. You must use safety straps while in tree stands and remove the stand at the end of the day.
+5. We allow the use of portable tree stands, but stands must be removed daily.
 
-6. You must check all harvested animals at the refuge's official check station.
+6. We prohibit deer drives. We define a “drive” as three or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
 
-7. We prohibit deer drives. We define a “drive” as three or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
+7. We prohibit nocked arrows or loaded firearms outside of the designated hunting areas.
 
-8. We prohibit nocked arrows or loaded firearms outside of the designated hunting areas.
-
-9. We only allow shotguns, 20 gauge or larger, loaded with buckshot during the firearm season.
-
-10. During the firearm hunt, you must wear in a visible manner on the head, chest, and back a minimum of 400 square inches (2,600 cm2) of solid-colored-blaze-orange clothing or material.
-
-11. You must make a reasonable effort to recover wounded animals from the field and must notify the check station personnel immediately if you are not able to recover a wounded animal.
+8. We only allow shotguns loaded with buckshot during the firearm season.
 
 *D. Sport Fishing.* [Reserved]
 
@@ -462,22 +444,22 @@ Wallops Island National Wildlife Refuge
 
 *B. Upland Game Hunting.* [Reserved]
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer in designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*C. Big Game Hunting.* We allow hunting of white-tailed deer in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. You must possess and carry a refuge permit. We issue permits based on a computer lottery system. You may obtain permit applications from the refuge administration office during normal business hours. Hunting brochures containing application procedures, seasons, and maps depicting areas open to hunting are available from the refuge administration office. You must provide an unobstructed view of the refuge permit on the vehicle's dashboard while hunting on the refuge.
+1. You must obtain a refuge hunt permit (Big/Upland Game Hunt Application, FWS Form 3-2356) and carry it on your person while hunting.
 
-2. You must be age 12 or older to hunt on the refuge. An adult age 18 or older must accompany and directly supervise hunters under age 18. The supervising adult must also possess and carry a State hunting license and refuge permit.
+2. You must sign in at the hunter registration station prior to entering your hunt zone and sign out upon exiting your hunt zone. All hunters must sign out no later than 2 hours after the end of legal shooting hours.
 
-3. You must sign in at the hunter registration station prior to entering your hunt zone and sign out upon exiting your hunt zone. You must sign out no later than two hours after the end of the hunt day.
+3. You must report all harvested animals on the sign-out sheet at the hunter registration station when signing out.
 
-4. You must wear a minimum of 400 square inches (2,600 cm2) of blaze-orange material consisting of a vest and hat or a jacket and hat.
+4. We allow the use of portable tree stands. You must remove stands by the end of the hunt season (see § 27.93 of this chapter).
 
-5. You may use of portable tree stands.
+5. We prohibit dogs.
 
-6. We prohibit dogs.
+6. You must park your vehicle in designated areas.
 
-7. You must park your vehicle in designated areas (*see* § 27.31 of this chapter).
+7. We prohibit deer drives. We define a “drive” as four or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56409, Sept. 18, 2000; 67 FR 58951, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54465, Sept. 8, 2004; 70 FR 54194, Sept. 13, 2005; 73 FR 33199, June 11, 2008; 74 FR 45698, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 3997, Jan. 21, 2011; 77 FR 56064, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51933, Aug. 26, 2015; 81 FR 68920, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56409, Sept. 18, 2000; 67 FR 58951, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54465, Sept. 8, 2004; 70 FR 54194, Sept. 13, 2005; 73 FR 33199, June 11, 2008; 74 FR 45698, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 3997, Jan. 21, 2011; 77 FR 56064, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51933, Aug. 26, 2015; 81 FR 68920, Oct. 4, 2016; 82 FR 51960, Nov. 8, 2017]

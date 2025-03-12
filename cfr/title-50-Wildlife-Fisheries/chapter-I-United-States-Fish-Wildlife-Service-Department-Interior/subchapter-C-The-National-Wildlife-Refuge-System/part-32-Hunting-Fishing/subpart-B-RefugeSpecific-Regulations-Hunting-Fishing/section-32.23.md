@@ -380,13 +380,13 @@ Dale Bumpers White River National Wildlife Refuge
 
 16. We require hunters born after 1968 to carry a valid hunter-education card. We do not require hunters under age 16 to have a hunter-education card while under direct supervision (within arm's reach) of a holder of a valid hunting license who is at least age 21. Youth hunters under age 16 must remain within sight and normal voice contact of an adult age 21 or older, possessing a valid hunting license. An adult may supervise only one youth for big game hunting but may supervise up to two youths for waterfowl and small game hunting.
 
-16. We require hunters born after 1968 to carry a valid hunter-education card. We do not require hunters under age 16 to have a hunter-education card while under direct supervision (within arm's reach) of a holder of a valid hunting license who is at least age 21. Youth hunters under age 16 must remain within sight and normal voice contact of an adult age 21 or older, possessing a valid hunting license. An adult may supervise only one youth for big game hunting but may supervise up to two youths for waterfowl and small game hunting.
+17. We prohibit the use of decoys that contain moving parts or electrical components, except that you may use manually operated 'jerk strings' to simulate decoy movement.
 
-18. No person, including but not limited to, a guide, guide service, outfitter, club, or other organization, will provide assistance, services, or equipment on the refuge to any other person for compensation unless such guide, guide service, outfitter, club, or organization has obtained a Special Use Permit (FWS Form 3-1383) from the refuge. For purposes of this regulation, we will consider any fees or services rendered to a person for lodging, meals, club membership, or similar services as compensation.
+18. You may not utilize a guide, guide service, outfitter, club, organization, or any other person who provides equipment, services, or assistance on the refuge for compensation.
 
-19. We prohibit hunting, taking, possessing, or attempting to take wildlife with a guide, guide service, outfitter, club, or organization providing assistance, service, or equipment that does not possess and carry the required refuge Special Use Permit (FWS Form 3-1383).
+19. We prohibit commercial guiding for the take of wildlife or fish.
 
-20. We allow camping only in designated sites and areas identified in the refuge user brochure/permit, and we restrict camping to individuals involved in wildlife-dependent activities. Campers may stay no more than 14 days during any 30 consecutive-day period in any campground site or area and must occupy camps daily. We prohibit all disturbances, including use of generators, after 10 p.m.
+20. We allow camping only in designated sites and areas identified in the refuge user brochure/permit (signed brochure), and we restrict camping to individuals involved in wildlife-dependent activities. We limit camping on the refuge to no more than 14 days during any 30 consecutive-day period. Campers must occupy camps daily. We prohibit all disturbances, including use of generators, after 10 p.m.
 
 21. We allow refuge users to leave boats 16 feet (4.8 m) or less in length unattended overnight from March 1 to October 31 as long as the owner clearly and prominently displays his or her complete name and physical address.
 
@@ -424,19 +424,19 @@ Dale Bumpers White River National Wildlife Refuge
 
 1. Conditions A1, A9, A10, A11, A12, and A15 through A25 apply.
 
-2. Archery deer seasons on the North Unit are from the beginning of the State archery season until the end of January except for refuge-wide season closure during quota muzzleloader and quota gun deer hunts. We provide annual season dates and bag limits in the refuge user brochure/permit.
+2. Archery deer seasons on the North Unit are from the beginning of October until the end of January except during quota muzzleloader and quota gun deer hunts, when the archery season is closed. We provide annual season dates and bag limits in the refuge user brochure/permit (signed brochure).
 
-3. Archery deer seasons on the South Unit are from the beginning of the State archery season until the end of December except for refuge-wide season closure during quota muzzleloader and quota gun deer hunts. We provide annual season dates and bag limits in the refuge user brochure/permit.
+3. Archery deer seasons on the South Unit are from the beginning of October until the end of December except during quota muzzleloader and quota gun deer hunts, when the archery season is closed. We provide annual season dates and bag limits in the refuge user brochure/permit (signed brochure).
 
-4. Muzzleloader season for deer will begin in October and will continue for a period of up to 3 days of quota hunting and 4 days of nonquota hunting in the North and/or South Units with annual season dates and bag limits provided in the annual refuge user brochure/permit.
+4. Muzzleloader season for deer will begin in October and will continue for a period of up to 3 days of quota hunting and 4 days of non-quota hunting in the North Unit. We provide annual season dates and bag limits in the refuge user brochure/permit (signed brochure).
 
-5. The gun deer hunt will begin in November and will continue for a period of 3 days of quota hunting in the North and South Units, and 4 days of nonquota hunting in the North and/or South Units with annual season dates, bag limits, and areas provided in the annual refuge user brochure/permit.
+5. The gun deer hunt will begin in November and will continue for a period of 3 days of quota hunting in the North and South Units, and 4 days of non-quota hunting in the North Unit. We provide annual season dates, bag limits, and areas in the refuge user brochure/permit.
 
 6. We restrict hunt participants for quota hunts to those drawn for a quota permit. The permits are nontransferable and nonrefundable. Hunt dates and application procedures will be available at the refuge office in April.
 
 7. We do not open for the bear season on all refuge-owned lands, including out-tracts and refuge lands in the Trusten Holder Wildlife Management Area.
 
-8. If you harvest deer or turkey on the refuge, you must immediately record the zone number (Zone 146 South Unit and Zone 145 North Unit) on your hunting license and later check deer and/or turkey through State phone or online checking system.
+8. If you harvest deer or turkey on the refuge, you must immediately record the zone number (Zone 145 for the South Unit or Zone 146 for the North Unit) on your hunting license and later check deer and/or turkey through the State checking system. Outlying tracts use the same zone number as the surrounding State zone.
 
 9. We close the refuge to all nonquota hunting during refuge-wide quota muzzleloader and quota gun deer hunts.
 
@@ -456,13 +456,17 @@ Dale Bumpers White River National Wildlife Refuge
 
 17. We prohibit target practice or any nonhunting discharge of firearms (see § 27.42 of this chapter).
 
-18. We prohibit hunting on the Kansas Lake Area after November 30.
+18. We close the Kansas Lake Area to all entry on December 1 and reopen it on March 1.
 
 19. We prohibit the possession of buckshot on the refuge.
 
+20. We prohibit the possession and/or use of toxic shot by hunters using shotguns (see § 32.2(k) of this chapter) when hunting.
+
+21. Feral hog regulations are found in the refuge brochure/permit (signed brochure).
+
 *D. Sport Fishing.* We allow fishing, frogging, and crawfishing for personal use on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
-1. Conditions A1, A9, A10, A11, A16, and A21 through A26 apply.
+1. Conditions A1, A9, A10, A11, A15, and A21 through A25 apply.
 
 2. We allow fishing year-round in LaGrue, Essex, Prairie, Scrubgrass and Brooks Bayous, Big Island Chute, Moon and Belknap Lakes next to Arkansas Highway 1, Indian Bay, the Arkansas Post Canal and adjacent drainage ditches; those borrow ditches located adjacent to the west bank of that portion of the White River Levee north of the Graham Burke pumping station; and all refuge-owned North Unit and scattered tract waters. We open all other South Unit refuge waters to sport fishing from March 1 through November 30 unless posted otherwise.
 
@@ -984,4 +988,4 @@ Wapanocca National Wildlife Refuge
 
 7. Anglers must remove all boats daily from the refuge (see § 27.93 of this chapter). We prohibit airboats, personal watercraft, and hovercraft.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 59 FR 6689, Feb. 11, 1994; 59 FR 55184, Nov. 3, 1994; 60 FR 62040, Dec. 4, 1995; 61 FR 45366, Aug. 29, 1996; 61 FR 46393, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 65 FR 30778, May 12, 2000; 65 FR 56400, Sept. 18, 2000; 68 FR 57316, Oct. 2, 2003; 69 FR 54362, 54365, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54160, Sept. 13, 2005; 73 FR 33167, June 11, 2008; 74 FR 45679, Sept. 3, 2009; 76 FR 3946, Jan. 21, 2011; 76 FR 56064, Sept. 9, 2011; 77 FR 56036, Sept. 11, 2012; 80 FR 51887, Aug. 26, 2015; 81 FR 68888, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 59 FR 6689, Feb. 11, 1994; 59 FR 55184, Nov. 3, 1994; 60 FR 62040, Dec. 4, 1995; 61 FR 45366, Aug. 29, 1996; 61 FR 46393, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 65 FR 30778, May 12, 2000; 65 FR 56400, Sept. 18, 2000; 68 FR 57316, Oct. 2, 2003; 69 FR 54362, 54365, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54160, Sept. 13, 2005; 73 FR 33167, June 11, 2008; 74 FR 45679, Sept. 3, 2009; 76 FR 3946, Jan. 21, 2011; 76 FR 56064, Sept. 9, 2011; 77 FR 56036, Sept. 11, 2012; 80 FR 51887, Aug. 26, 2015; 81 FR 68888, Oct. 4, 2016; 82 FR 51947, Nov. 8, 2017]

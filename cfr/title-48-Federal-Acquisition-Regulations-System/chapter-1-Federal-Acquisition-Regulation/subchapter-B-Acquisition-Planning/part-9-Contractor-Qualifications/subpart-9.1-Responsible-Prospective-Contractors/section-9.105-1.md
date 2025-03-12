@@ -30,4 +30,4 @@
 
 (d) Contracting offices and cognizant contract administration offices that become aware of circumstances casting doubt on a contractor's ability to perform contracts successfully shall promptly exchange relevant information.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 51 FR 27119, July 29, 1986; 52 FR 9038, Mar. 20, 1987; 54 FR 19813, May 8, 1989; 60 FR 16718, Mar. 31, 1995; 60 FR 33065, June 26, 1995; 61 FR 39201, July 26, 1996; 69 FR 76349, Dec. 20, 2004; 73 FR 21798, Apr. 22, 2008; 74 FR 31560, July 1, 2009; 75 FR 14066, Mar. 23, 2010; 78 FR 37678, June 21, 2013; 81 FR 11991, Mar. 7, 2016; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51529, Nov. 6, 2017]
+[48 FR 42142, Sept. 19, 1983, as amended at 51 FR 27119, July 29, 1986; 52 FR 9038, Mar. 20, 1987; 54 FR 19813, May 8, 1989; 60 FR 16718, Mar. 31, 1995; 60 FR 33065, June 26, 1995; 61 FR 39201, July 26, 1996; 69 FR 76349, Dec. 20, 2004; 73 FR 21798, Apr. 22, 2008; 74 FR 31560, July 1, 2009; 75 FR 14066, Mar. 23, 2010; 78 FR 37678, June 21, 2013; 81 FR 11991, Mar. 7, 2016; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51530, Nov. 6, 2017]

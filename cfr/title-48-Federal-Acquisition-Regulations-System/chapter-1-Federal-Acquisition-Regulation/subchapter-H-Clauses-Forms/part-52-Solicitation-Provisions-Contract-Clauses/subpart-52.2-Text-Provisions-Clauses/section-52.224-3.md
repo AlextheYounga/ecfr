@@ -6,7 +6,7 @@ Privacy Training (JAN 2017)
 
 (a) *Definition.* As used in this clause, *personally identifiable information* means information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a specific individual. (See Office of Management and Budget (OMB) Circular A-130, Managing Federal Information as a Strategic Resource).
 
-(b) The Contractor shall ensure that initial privacy training, and annual privacy training thereafter, is completed by contractor employees who -
+(b) The Contractor shall ensure that initial privacy training, and annual privacy training thereafter, is completed by contractor employees who—
 
 (1) Have access to a system of records;
 
@@ -14,7 +14,7 @@ Privacy Training (JAN 2017)
 
 (3) Design, develop, maintain, or operate a system of records (see also FAR subpart 24.1 and 39.105).
 
-(c)(1) Privacy training shall address the key elements necessary for ensuring the safeguarding of personally identifiable information or a system of records. The training shall be role-based, provide foundational as well as more advanced levels of training, and have measures in place to test the knowledge level of users. At a minimum, the privacy training shall cover -
+(c)(1) Privacy training shall address the key elements necessary for ensuring the safeguarding of personally identifiable information or a system of records. The training shall be role-based, provide foundational as well as more advanced levels of training, and have measures in place to test the knowledge level of users. At a minimum, the privacy training shall cover—
 
 (i) The provisions of the Privacy Act of 1974 (5 U.S.C. 552a), including penalties for violations of the Act;
 
@@ -34,7 +34,7 @@ Privacy Training (JAN 2017)
 
 (e) The Contractor shall not allow any employee access to a system of records, or permit any employee to create, collect, use, process, store, maintain, disseminate, disclose, dispose or otherwise handle personally identifiable information, or to design, develop, maintain, or operate a system of records unless the employee has completed privacy training, as required by this clause.
 
-(f) The substance of this clause, including this paragraph (f), shall be included in all subcontracts under this contract, when subcontractor employees will -
+(f) The substance of this clause, including this paragraph (f), shall be included in all subcontracts under this contract, when subcontractor employees will—
 
 (1) Have access to a system of records;
 

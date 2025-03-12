@@ -1,5 +1,7 @@
 ##### § 81.6 Records which may be exempt from disclosure. #####
 
+Link to an amendment published at 82 FR 51753, Nov. 8, 2017.
+
 The public disclosure of GAO records contemplated by this part does not apply to records, or parts thereof, within any of the categories listed below. Unless precluded by law, the Chief Quality Officer may nevertheless release records within these categories.
 
 (a) Records relating to work performed in response to a congressional request (unless authorized by the congressional requester), congressional correspondence, and congressional contact memoranda.

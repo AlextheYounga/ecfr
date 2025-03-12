@@ -136,7 +136,7 @@ Stillwater National Wildlife Refuge
 
 4. Persons possessing, transporting or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (§ 27.42 of this chapter and specific refuge regulations in part 32).
 
-5. We prohibit boating outside of the waterfowl and youth waterfowl hunting season except in Willow Lake where we allow nonmotorized boating all year.
+5. We prohibit boating outside of the waterfowl and youth waterfowl hunting season except in Swan Check Lake where we allow non-motorized boating all year.
 
 6. We prohibit boats on Swan Lake, the northeast corner of North Nutgrass Lake, and the north end of Pintail Bay. We allow the use of nonmotorized carts, sleds, floating blinds, and other floating devices in these areas to transport hunting equipment and to conceal hunters, but not to transport hunters.
 
@@ -178,4 +178,4 @@ Stillwater National Wildlife Refuge
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46919, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 65 FR 56405, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58948, Sept. 18, 2002; 69 FR 54362, 54429, Sept. 8, 2004; 74 FR 45693, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 56080, Sept. 9, 2011; 80 FR 51923, Aug. 26, 2015]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46919, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 65 FR 56405, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58948, Sept. 18, 2002; 69 FR 54362, 54429, Sept. 8, 2004; 74 FR 45693, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 56080, Sept. 9, 2011; 80 FR 51923, Aug. 26, 2015; 82 FR 51957, Nov. 8, 2017]

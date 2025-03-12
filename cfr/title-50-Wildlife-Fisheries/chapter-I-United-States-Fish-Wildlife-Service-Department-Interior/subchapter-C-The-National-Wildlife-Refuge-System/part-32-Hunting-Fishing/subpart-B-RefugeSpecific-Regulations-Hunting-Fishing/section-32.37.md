@@ -146,7 +146,7 @@ Bayou Sauvage National Wildlife Refuge
 
 18. We prohibit target shooting on the refuge.
 
-19. We prohibit the use of any type of material used as flagging or trail markers, except bright eyes.
+19. We prohibit the use of any type of material used as flagging or trail markers, except reflective tacks.
 
 20. We close all portions of the refuge outside of the Hurricane Protection Levee to public entry other than waterfowl hunting until 12 p.m. from November 1 through January 31 and during the State teal season.
 
@@ -204,7 +204,7 @@ Bayou Teche National Wildlife Refuge
 
 13. We prohibit horses and ATVs.
 
-14. We prohibit the use of any type of material used as flagging or trail markers except bright eyes.
+14. We prohibit the use of any type of material used as flagging or trail markers, except reflective tacks.
 
 15. We prohibit target shooting on the refuge.
 
@@ -232,15 +232,15 @@ Bayou Teche National Wildlife Refuge
 
 2. We allow archery deer hunting from the start of the State archery season until January 31. Hunters may take deer of either sex in accordance with State-approved archery equipment and regulations. The State season limits apply. The following units are open to archery deer hunting: Centerville, Bayou Sale, North Bend East, North Bend West, and Garden City. We close refuge archery hunting on those days that the refuge deer gun hunts occur.
 
-3. We allow hunting only in the Centerville, Garden City, Bayou Sale, North Bend East, and North Bend West Units. We do not open the Bayou Sale Unit for all big game firearm hunts.
+3. We allow hunting in the Centerville, Garden City, Bayou Sale, North Bend East, and North Bend West Units. We do not allow hunting within 500 feet (152.4 meters) of the Garden City parking area and boardwalk. The Bayou Sale Unit is not open for big game firearm hunts.
 
 4. We allow each hunter to possess only one deer per day, the deer may be a buck or a doe. State season limits apply.
 
-5. You may take no other native or feral wildlife other than white-tailed deer while engaged in big game hunting (see § 27.21 of this chapter).
+5. You may take feral hogs only as incidental take while participating in the refuge deer archery hunt.
 
 6. Hunters may use only portable deer stands. Hunters may erect deer stands one day before the deer archery season and must remove them from the refuge within 1 day after the season closes. Hunters may place only one deer stand on a refuge. Deer stands must have owner's name, address, and phone number clearly printed on the stand. Hunters must place stands in a nonhunting position when not in use (see § 27.93 of this chapter).
 
-7. All hunters (including archery hunters) except waterfowl hunters must wear and display 400 square inches (2,600 cm2) of unbroken hunter orange as the outermost layer of clothing on the chest and back and a hunter-orange cap during deer gun seasons. Deer hunters hunting from concealed ground blinds must display a minimum of 400 square inches of hunter orange above or around their blinds which is visible from 360 degrees.
+7. During deer gun seasons, all hunters, except waterfowl hunters, must wear and display 400 square inches (2,580.6 square centimeters) of unbroken hunter-orange or blaze pink as the outermost layer of clothing on the chest and back and a hunter-orange or blaze pink cap. Deer hunters hunting from concealed ground blinds must display a minimum of 400 square inches (2,580.6 square centimeters) of hunter-orange or blaze pink above or around their blinds; this must be visible from 360 degrees.
 
 8. Conditions A1 through A3, A5 through A8, A13 through A17, B3, and B5 apply.
 
@@ -294,7 +294,7 @@ Big Branch Marsh National Wildlife Refuge
 
 14. We prohibit horses.
 
-15. We prohibit all-terrain vehicles (ATVs) and utility-type vehicles (UTVs).
+15. We prohibit all-terrain vehicles (ATVs) and utility-terrain vehicles (UTVs).
 
 16. We prohibit target shooting on the refuge.
 
@@ -324,9 +324,9 @@ Big Branch Marsh National Wildlife Refuge
 
 4. You may take deer of either sex in accordance with State-approved archery equipment and regulations. The State season limits apply. Longbow, compound bow, and crossbow or any bow drawn, held, or released by mechanical means will be a legal means of take during the deer archery season.
 
-5. Hunters may erect temporary deer stands 1 day prior to the start of deer archery season. Hunters must remove all deer stands within 1 day after the archery deer season closes. Hunters may place only one deer stand on a refuge. Deer stands must have the owner's name, address and phone number clearly printed on the stand. Hunters must place stands in a nonhunting position when not in use (see § 27.93 of this chapter).
+5. You may erect temporary deer stands 2 days prior to the start of deer archery season. You must remove all deer stands within 2 days after the archery deer season closes. You may place only one deer stand on the refuge. Deer stands must have the owner's name, address, and phone number clearly printed on the stand. Hunting stands are not allowed on trees painted with white bands. You must place stands in a non-hunting position when not in use (see § 27.93 of this chapter).
 
-6. Hunters may take hogs only during the refuge deer archery hunt.
+6. You may take hogs only as incidental take while participating in the refuge deer archery hunt.
 
 7. We prohibit possession or distribution of bait while in the field and hunting with the aid of bait, including any grain, salt, minerals, or any nonnaturally occurring food attractant on the refuge (see § 32.2(h)).
 
@@ -346,11 +346,13 @@ Big Branch Marsh National Wildlife Refuge
 
 4. We allow recreational crabbing.
 
-5. We prohibit all commercial finfishing and shellfishing.
+5. We prohibit all commercial finfishing and shellfishing, including guiding, outfitting, lodging, club membership, or participating in a paid guided fishing trip (see § 27.97 of this chapter).
 
-6. Conditions A6, A8, A9, and A13 (angling guides) through A17 apply.
+6. Conditions A6, A8, A9, and A14 through A17 apply.
 
 7. We prohibit the taking of turtle (see § 27.21 of this chapter).
+
+8. You must attend to any fishing, crabbing, and crawfishing equipment at all times.
 
 Black Bayou Lake National Wildlife Refuge
 
@@ -438,17 +440,17 @@ Bogue Chitto National Wildlife Refuge
 
 5. We require possession of a signed refuge hunt permit (signed refuge brochure) while hunting.
 
-6. An adult at least age 21 must supervise youth hunters age 15 or younger during all hunts. One adult may supervise two youths during small game hunts and migratory bird hunts but may supervise only one youth during big game hunts. Youth must remain within normal voice contact of the adult who is supervising them. Parents or adult guardians are responsible for ensuring that hunters under age 16 do not engage in conduct that would constitute a violation of refuge regulations.
+6. An adult at least age 21 must supervise youth hunters during all hunts. State regulations define youth hunter age and hunter-education requirements. One adult may supervise two youths during small game hunts and migratory bird hunts but may supervise only one youth during big game hunts. Youths must remain within normal voice contact of the adult who is supervising them. Parents or adult guardians are responsible for ensuring that youth hunters do not engage in conduct that would constitute a violation of refuge regulations.
 
-7. We prohibit hunting within 150 feet (45 meters) from the centerline of any public road, refuge road, designated or maintained trail, building, residence, designated public facility, or from or across aboveground oil or gas or electric facilities. We prohibit hunting in refuge-designated closed areas, which we post on the refuge and identify in the refuge hunt permits (signed brochure).
+7. We prohibit hunting within 150 feet (45.7 meters) from the centerline of any public road, refuge road, designated or maintained trail, building, residence, designated camping area, or designated public facility, or from or across aboveground oil, gas, or electric facilities. We prohibit hunting in refuge-designated closed areas, which we post on the refuge and identify in the refuge hunt permits.
 
 8. For the purpose of hunting, we prohibit possession of slugs, buckshot, rifle, or pistol ammunition unless otherwise specified.
 
 9. We allow primitive camping within 100 feet (30.5 meters) of designated streams. These include either bank of the Boque Chitto River, Wilson Slough, and West Pearl River south of Wilson Slough, refuge lands along the East Pearl River, and Holmes Bayou. Campers must mark their campsite with the owner's name, address, phone number, and dates of occupancy placed in a conspicuous location in the center of camp.
 
-10. We prohibit any person or group to act as a hunting guide, outfitter, or in any other capacity that any other individual(s) pays or promises to pay directly to indirectly for services rendered to any other person or persons hunting on the refuge, regardless of whether such payment is for guiding, outfitting, lodging, or club membership.
+10. You may not act as a hunting guide, outfitter, or in any other capacity whereby another individual(s) pays or promises to pay directly or indirectly for services rendered. You may not provide payment to any other person or persons for hunting on the refuge, regardless of whether the payment is for guiding, outfitting, lodging, or club membership (see § 27.97 of this chapter).
 
-11. We prohibit horses, trail cameras, all-terrain vehicles (ATVs), and utility-type vehicles (UTVs).
+11. We prohibit horses, trail cameras, all-terrain vehicles (ATVs), and utility-terrain vehicles (UTVs), except UTVs are allowed on designated physically challenged hunt trails for big game. We provide specific size and tire pressure restrictions for UTVs in the refuge hunt permit (signed brochure).
 
 12. You may possess only approved nontoxic shot while hunting on the refuge (see § 32.2(k)).
 
@@ -470,7 +472,7 @@ Bogue Chitto National Wildlife Refuge
 
 3. We prohibit the take of feral hog during any upland game hunts.
 
-4. All hunters in Louisiana (including archery hunters and small game hunters), except waterfowl hunters, must wear and display not less than 400 square inches (2,580.6 square centimeters) of unbroken hunter-orange as the outermost layer of clothing on the chest and back and a hunter-orange cap during deer gun seasons. We require all deer hunters to display a minimum of 400 square inches (2,580.6 square centimeters) of hunter-orange or a hunter-orange cap or hat while walking to and from elevated stands. All hunters in Mississippi must wear not less than 500 square inches (3,225.8 square centimeters) of hunter-orange in place of the 400 square inches (2,580.6 square centimeters) requirement described for Louisiana. All hunters, including archers (while on the ground), except waterfowl hunters, must wear a hunter-orange cap during the dog season for squirrels and rabbits. Deer hunters hunting from concealed blinds must display a minimum of 400 square inches (2,580.6 square centimeters) of hunter-orange above or around their blinds that is visible from 360 degrees.
+4. All hunters in Louisiana (including archery hunters and small game hunters), except waterfowl hunters, must wear and display not less than 400 square inches (2,580.6 square centimeters) of unbroken hunter-orange or blaze pink as the outermost layer of clothing on the chest and back and a hunter-orange cap during deer gun seasons. While walking to and from elevated stands, all deer hunters must display a minimum of 400 square inches (2,580.6 square centimeters) of hunter-orange or blaze pink or a hunter-orange or blaze pink hat. All hunters in Mississippi must wear at least 500 square inches (3,226 square centimeters) of hunter-orange or blaze pink; this replaces the 400 square inches (2,580.6 square centimeters) required in Louisiana. During the dog season for squirrels and rabbits, all hunters, except waterfowl hunters, must wear a hunter-orange or blaze pink hat. Deer hunters hunting from concealed blinds must display at least 400 square inches (2,580.6 square centimeters) of hunter-orange or blaze pink above or around their blinds; this must be visible from 360 degrees.
 
 5. Conditions A5 through A17 apply, except you may use .22- caliber rifles or smaller, and the nontoxic shot in your possession while hunting must be size 4 or smaller (see § 32.2(k)).
 
@@ -480,7 +482,7 @@ Bogue Chitto National Wildlife Refuge
 
 2. You may use only portable deer stands. You may erect deer stands one day before the deer archery season and remove them from the refuge within 1 day after this season closes. Hunters may place only one deer stand on a refuge. Deer stands must have owner's name, address, and phone number clearly printed on the stand. Hunters must place stands in a nonhunting position when not in use (see § 27.93 of this chapter).
 
-3. We allow archery deer and hog hunting during the open State deer archery season. You may take deer of either sex in accordance with State-approved archery equipment and regulations. The State season limits apply.
+3. We allow archery deer hunting during the open State deer archery season. You may take deer of either sex in accordance with State regulations. The State season limits apply.
 
 4. We list specific dates for general gun big game hunts in the refuge hunt brochure.
 
@@ -490,11 +492,15 @@ Bogue Chitto National Wildlife Refuge
 
 7. We prohibit the use of dogs unless noted otherwise.
 
-8. You may take hog as incidental game while participating in the refuge archery, primitive weapon, and general gun deer hunts and where otherwise specified. We list specific dates for the special hog hunts in January, February, and March in the refuge hunt permit (signed brochure). During the special hog hunts in February, you must use trained hog-hunting dogs to aid in the take of hog. During the special hog hunts, you may take hog from1/2 hour before legal sunrise until1/2 hour after legal sunset. You may possess only approved nontoxic shot or pistol or rifle ammunition not larger than .22 caliber rimfire to take the hog after it has been caught by dogs. During the special hog hunt in March, you may use any legal firearm. A8 applies during special hog hunts in February.
+8. You may take hog as incidental game while participating in the refuge archery, primitive weapon, and general gun deer hunts and where otherwise specified. We list specific dates for the special hog hunts in February in the refuge hunt permit (signed brochure). During the special hog hunt in February, you must use trained hog-hunting dogs to aid in the take of hog. During the special hog hunt, you may take hog from1/2 hour before legal sunrise until1/2 hour after legal sunset. You may possess only approved nontoxic shot or pistol or rifle ammunition not larger than .22 caliber rimfire to take the hog after it has been caught by dogs. Condition A8 applies during special hog hunts in February.
 
 9. You must kill all hogs prior to removal from the refuge.
 
 10. We prohibit the use of deer and turkey gobbler decoys.
+
+11. We prohibit using shot larger than BB lead or T steel while hunting during turkey season.
+
+12. We allow physically challenged big game hunters exclusive use of designated physically challenged hunt trails with limited use of UTVs in accordance with specific size and weight specifications. Specific hunt trails will be designated on the refuge hunt permit. Physically challenged hunters must pre-register hunting dates and specific location at the refuge office. An assistant may accompany the physically challenged hunter, but the assistant may not hunt.
 
 *D. Sport Fishing.* We allow recreational fishing year-round in accordance with State regulations subject to the following conditions:
 
@@ -502,7 +508,7 @@ Bogue Chitto National Wildlife Refuge
 
 2. Conditions A9 and A11 apply.
 
-3. We close the fishing ponds at the Pearl River Turnaround to fishing and boating during the months of April, May, and June.
+3. We close the fishing ponds at the Pearl River Turnaround to fishing from April through the first full week of June and to boating during the months of April, May, June, and July.
 
 4. When open, we allow boats in the fishing ponds at the Pearl River Turnaround that do not have gasoline-powered engines attached. Anglers must hand launch these boats into the ponds.
 
@@ -762,7 +768,7 @@ Catahoula National Wildlife Refuge
 
 1. Conditions A5 through A19 apply.
 
-2. At the Headquarters Unit, we only allow squirrel and rabbit hunting from the first day of the State season until October 31.
+2. At the Headquarters Unit, we only allow squirrel and rabbit hunting. We set seasons annually.
 
 3. At the Bushley Unit, we allow squirrel and rabbit hunting in accordance with the State season.
 
@@ -772,7 +778,7 @@ Catahoula National Wildlife Refuge
 
 6. We require hunters participating in the dog season for rabbits to wear a hunter-orange cap.
 
-7. We allow the use of shotguns with nontoxic shot and rifles .22 magnum or smaller when hunting. We prohibit possession of toxic shot when hunting.
+7. You may use shotguns for hunting but only with nontoxic shot and rifles .22 caliber rimfire or smaller. We prohibit possession of toxic shot when hunting.
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
@@ -784,7 +790,7 @@ Catahoula National Wildlife Refuge
 
 4. At the Bushley Unit, we allow archery hunting for deer and feral hog during the State archery season except we close during deer-gun hunt and primitive firearms hunts.
 
-5. We allow hunting of deer with primitive firearms during the first segment of the State season for area 1, weekdays only (Monday through Friday) and the third weekend after Thanksgiving Day.
+5. We allow hunting of deer with primitive firearms during the first segment of the State season for area 1, weekdays only (Monday through Friday) and 2 days in December with these dates set annually. We allow either-sex, deer gun hunting for the Friday, Saturday, and Sunday immediately following Thanksgiving Day and for 2 days in December with these dates to be set annually.
 
 6. We allow the use of portable deer stands. Hunters may place deer stands on the refuge 1 day before the deer archery season and must remove them from the refuge within 1 day after this season closes. Hunters may place only one stand on the refuge. Deer stands must have the owner's name, address, and phone number clearly printed on the stand. Hunters must place stands in a nonhunting position when not in use (see § 27.93 of this chapter).
 
@@ -922,7 +928,7 @@ Delta National Wildlife Refuge
 
 15. We prohibit target shooting on the refuge.
 
-16. We prohibit the use of any type of material used as flagging or trail markers, except bright eyes.
+16. We prohibit the use of any type of material used as flagging or trail markers, except reflective tacks.
 
 *B. Upland Game Hunting.* We allow hunting of rabbit on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
@@ -1292,7 +1298,7 @@ Mandalay National Wildlife Refuge
 
 11. We prohibit horses and ATVs.
 
-12. We prohibit the use of any type of material used as flagging or trail markers except bright eyes (see § 27.94 of this chapter).
+12. We prohibit the use of any type of material used as flagging or trail markers, except reflective tacks.
 
 *B. Upland Game Hunting.* [Reserved]
 
@@ -1650,4 +1656,4 @@ Upper Ouachita National Wildlife Refuge
 
 7. We prohibit the taking of turtle (see § 27.21 of this chapter).
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 59 FR 6692, Feb. 11, 1994; 59 FR 55186, Nov. 3, 1994; 60 FR 5277, Jan. 26, 1995; 60 FR 62042, Dec. 4, 1995; 61 FR 45367, Aug. 29, 1996; 61 FR 46395, Sept. 3, 1996; 62 FR 47378, Sept. 9, 1997; 63 FR 46916, Sept. 3, 1998; 65 FR 30783, May 12, 2000; 65 FR 56402, Sept. 18, 2000; 66 FR 46357, Sept. 4, 2001; 67 FR 58945, Sept. 18, 2002; 68 FR 57316, Oct. 2, 2003; 69 FR 54362, 54394, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54169, Sept. 13, 2005; 70 FR 56376, Sept. 27, 2005; 73 FR 33176, June 11, 2008; 73 FR 51158, Aug. 29, 2008; 74 FR 45684, Sept. 3, 2009; 75 FR 18420, Apr. 12, 2010; 76 FR 3961, Jan. 21, 2011; 76 FR 56070, Sept. 9, 2011; 77 FR 56041, Sept. 11, 2012; 80 FR 51904, Aug. 26, 2015; 81 FR 68899, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 59 FR 6692, Feb. 11, 1994; 59 FR 55186, Nov. 3, 1994; 60 FR 5277, Jan. 26, 1995; 60 FR 62042, Dec. 4, 1995; 61 FR 45367, Aug. 29, 1996; 61 FR 46395, Sept. 3, 1996; 62 FR 47378, Sept. 9, 1997; 63 FR 46916, Sept. 3, 1998; 65 FR 30783, May 12, 2000; 65 FR 56402, Sept. 18, 2000; 66 FR 46357, Sept. 4, 2001; 67 FR 58945, Sept. 18, 2002; 68 FR 57316, Oct. 2, 2003; 69 FR 54362, 54394, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54169, Sept. 13, 2005; 70 FR 56376, Sept. 27, 2005; 73 FR 33176, June 11, 2008; 73 FR 51158, Aug. 29, 2008; 74 FR 45684, Sept. 3, 2009; 75 FR 18420, Apr. 12, 2010; 76 FR 3961, Jan. 21, 2011; 76 FR 56070, Sept. 9, 2011; 77 FR 56041, Sept. 11, 2012; 80 FR 51904, Aug. 26, 2015; 81 FR 68899, Oct. 4, 2016; 82 FR 51952, Nov. 8, 2017]

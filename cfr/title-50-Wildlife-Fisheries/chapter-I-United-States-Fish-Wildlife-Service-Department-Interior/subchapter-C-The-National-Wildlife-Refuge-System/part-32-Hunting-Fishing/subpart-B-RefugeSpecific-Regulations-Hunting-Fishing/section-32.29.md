@@ -470,53 +470,61 @@ Piedmont National Wildlife Refuge
 
 Savannah National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck and coot on designated areas of the refuge north of Georgia Highway 25/South Carolina Highway 170 in accordance with State regulations and subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of waterfowl and mourning dove on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. For all hunters age 16 and older, we require a refuge hunt permit, which must be signed and carried at all times when hunting. We charge a fee for all hunt permits.
+1. All hunters age 16 and older must possess and carry a signed refuge hunt permit (name/address/phone) and a State license. We charge a fee for all hunt permits.
 
-2. To participate in the youth waterfowl hunt, youth hunters must submit the Waterfowl Lottery Application (FWS Form 3-2355). We require an application fee to enter the hunt drawing.
+2. To participate in the youth waterfowl hunt, youth hunters must submit the Waterfowl Lottery Application (FWS Form 3-2355). You must pay an application fee to enter the hunt drawing.
 
-3. We only allow temporary blinds. You must remove decoys and other personal property from the refuge daily (see § 27.93 of this chapter).
+3. We allow temporary blinds only. You must remove decoys and other personal property from the refuge daily (see § 27.93 of this chapter).
 
-4. We prohibit hunting within 100 yards (91.4 meters) of Georgia Highway 25/South Carolina Highway 170.
+4. We allow shotguns for all migratory game bird hunting, but only with nontoxic shot size #2 or smaller.
 
-5. Youth hunters age 15 and under must remain within sight and normal voice contact of an adult age 21 or older, possessing a license. One adult may supervise no more than two youth hunters.
+5. Youth hunters, defined as those age 15 and younger, must remain within sight and normal voice contact of an adult age 21 or older; the adult must possess a valid hunting license for the State in which they are hunting. One adult may supervise no more than two youth hunters.
 
-6. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (§ 27.42 of this chapter and specific refuge regulations in part 32.)
+6. You may take feral hog and coyote during all refuge hunts (migratory bird, upland, and big game) with weapons authorized and legal for those hunts.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+7. You may use retrieving dogs. Dogs must remain under direct and constant control of the hunter.
 
-1. Conditions A1 and A6 apply.
+8. You must comply with all provisions of State and local law when possessing, transporting, or carrying firearms on national wildlife refuges. You may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in part 32.)
 
-2. We only allow rimfire rifles or shotguns with #2 shot or smaller for squirrel hunting.
+*B. Upland Game Hunting.* We allow hunting of squirrel and rabbit on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-3. We prohibit hunting on or within 100 yards (90 m) of U.S. Highway 17, GA Highway 25/SC Highway 170, refuge facilities, road and trails, railroad rights of way, and within areas marked as closed.
+1. Conditions A1, A6, and A8 apply.
 
-4. We prohibit the use of dogs.
+2. For squirrel hunting, we allow rimfire rifles, rimfire pistols, or shotguns with nontoxic shot size #2 shot or smaller. We recommend but do not require solid copper or other nontoxic rimfire bullets. For rabbit hunting, we allow shotguns, but only with nontoxic shot size #2 or smaller.
 
-5. During the period when the squirrel hunt coincides with the refuge gun hunt for deer and hogs, we require hunters to possess a big game license (State) and to wear an outer garment containing a minimum of 500 square inches (3,250 cm2) of hunter-orange material above the waistline.
+3. You may not hunt on or within 100 yards (90 meters) of public roads, refuge facilities, roads and trails, and railroad rights-of-way, or in closed areas.
 
-6. Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, possessing a license. One adult may supervise no more than one youth hunter.
+4. You may not use dogs for upland game hunting.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer, turkey, and feral hog on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+5. During the period when upland game hunting coincides with the refuge gun hunt for deer and hogs, you must wear an outer garment containing a minimum of 500 square inches (3,226 square centimeters) of hunter-orange material above the waistline.
 
-1. Conditions A1, A6, B3, B4, and B6 apply.
+6. Youth hunters, defined as those age 15 and younger, must remain within sight and normal voice contact of an adult age 21 or older; the adult must possess a valid hunting license for the State in which they are hunting. One adult may supervise no more than one youth hunter.
 
-2. To participate in the gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2354). To participate in the Youth Turkey Hunt & Learn Weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2356). We require an application fee to enter these hunt drawings.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer, turkey, feral hog, and coyote on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-3. We allow only bows, in accordance with State regulations, for deer and hog hunting during the refuge archery hunt.
+1. Conditions A1, A6, A8, B3, and B6 apply.
 
-4. We allow only shotguns (20 gauge or larger; slugs only), center-fire rifles (.22 caliber or larger), muzzleloaders, and bows, in accordance with State regulations, for deer and hog hunting during the gun hunts.
+2. To participate in the gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2354). To participate in the Youth Turkey Hunt & Learn Weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2356). You must pay an application fee to enter these hunt drawings.
 
-5. You must remove hunt stands daily (see § 27.93 of this chapter).
+3. To participate in the youth-only deer or turkey hunts, youth hunters must request a free hunt permit from the refuge headquarters.
 
-6. Hunters may take five deer (no more than two antlered). There is no bag limit on feral hog.
+4. You may only use bows, in accordance with State regulations, for deer, hog, and coyote hunting during the archery hunt for these species.
 
-7. Turkey hunters may harvest only three gobblers (male turkey).
+5. You may only use shotguns (20 gauge or larger, slugs only), center-fire rifles, center-fire pistols, muzzleloaders, and bows, in accordance with State regulations, for deer, hog, and coyote hunting during the firearm hunts for these species.
 
-8. We allow shotguns with only #2 shot or smaller and bows, in accordance with State regulations, for turkey hunting. We prohibit the use of slugs or buckshot for turkey hunting.
+6. You must remove hunt stands following each day's hunt (see § 27.93 of this chapter).
 
-9. We prohibit the use of trail or game cameras.
+7. Hunters may take as many as five deer (no more than two antlered). There is no bag limit on feral hog or coyote.
+
+8. Turkey hunters may harvest only three gobblers (male turkey).
+
+9. We allow only shotguns with nontoxic #2 shot or smaller, and bows, in accordance with State regulations, for turkey hunting. We prohibit the use of slugs or buckshot for turkey hunting.
+
+10. We prohibit the use of trail or game cameras. We also prohibit the use of trail marking tacks, bright eyes, reflectors, reflecting tape, and any other markers, including biodegradable markers such as toilet paper and paper tape.
+
+11. We prohibit the use of dogs for big game hunting.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -612,4 +620,4 @@ Wolf Island National Wildlife Refuge
 
 3. We require a Georgia fishing license and Saltwater Information Program (SIP) permit.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6691, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 62 FR 47377, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30781, May 12, 2000; 66 FR 46355, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54382, Sept. 8, 2004; 70 FR 54166, Sept. 13, 2005; 73 FR 33171, June 11, 2008; 74 FR 45683, Sept. 3, 2009; 74 FR 50736, Oct. 1, 2009; 76 FR 3958, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56038, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51897, Aug. 26, 2015]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6691, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 62 FR 47377, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30781, May 12, 2000; 66 FR 46355, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54382, Sept. 8, 2004; 70 FR 54166, Sept. 13, 2005; 73 FR 33171, June 11, 2008; 74 FR 45683, Sept. 3, 2009; 74 FR 50736, Oct. 1, 2009; 76 FR 3958, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56038, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51897, Aug. 26, 2015; 82 FR 51951, Nov. 8, 2017]

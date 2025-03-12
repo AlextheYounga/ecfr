@@ -26,4 +26,4 @@
 
 (d) The contracting officer shall document the contract file for each contract in excess of the simplified acquisition threshold to indicate how the information in FAPIIS was considered in any responsibility determination, as well as the action that was taken as a result of the information. A contracting officer who makes a nonresponsibility determination is required to document that information in FAPIIS in accordance with 9.105-2 (b)(2).
 
-[75 FR 14065, Mar. 23, 2010, as amended at 80 FR 4986, Jan. 29, 2015; 81 FR 11990, Mar. 7, 2016; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51529, Nov. 6, 2017]
+[75 FR 14065, Mar. 23, 2010, as amended at 80 FR 4986, Jan. 29, 2015; 81 FR 11990, Mar. 7, 2016; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51530, Nov. 6, 2017]

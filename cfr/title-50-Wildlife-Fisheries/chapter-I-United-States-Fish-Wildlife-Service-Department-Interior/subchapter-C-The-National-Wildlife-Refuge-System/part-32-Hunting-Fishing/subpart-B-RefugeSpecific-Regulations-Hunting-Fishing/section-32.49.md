@@ -226,7 +226,7 @@ Wallkill River National Wildlife Refuge
 
 *D. Sport Fishing.* We allow fishing in designated sections of the refuge in both New York and New Jersey in accordance with State regulations and subject to the following conditions:
 
-1. We allow fishing in and along the banks of the Wallkill River. We allow shore fishing only in the pond at Owens Station Crossing, Vernon, New Jersey.
+1. We allow fishing in and along the banks of the Wallkill River. We allow shore fishing only in the pond at Owens Station Crossing, Vernon, New Jersey. Fishing at Owens State Crossing is catch and release only.
 
 2. Anglers may fish from legal sunrise to legal sunset.
 
@@ -242,4 +242,4 @@ Wallkill River National Wildlife Refuge
 
 8. We prohibit commercial fishing on the refuge.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 52868, Oct. 11, 1995; 60 FR 62044, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46919, Sept. 3, 1998; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 69 FR 54362, 54432, Sept. 8, 2004; 73 FR 33192, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 76 FR 3984, Jan. 21, 2011; 77 FR 56053, Sept. 11, 2012; 80 FR 51923, Aug. 26, 2015]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 52868, Oct. 11, 1995; 60 FR 62044, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46919, Sept. 3, 1998; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 69 FR 54362, 54432, Sept. 8, 2004; 73 FR 33192, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 76 FR 3984, Jan. 21, 2011; 77 FR 56053, Sept. 11, 2012; 80 FR 51923, Aug. 26, 2015; 82 FR 51957, Nov. 8, 2017]

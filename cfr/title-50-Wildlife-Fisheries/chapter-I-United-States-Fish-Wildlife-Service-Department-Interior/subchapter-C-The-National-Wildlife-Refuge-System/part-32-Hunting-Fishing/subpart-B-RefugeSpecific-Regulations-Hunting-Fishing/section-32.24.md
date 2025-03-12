@@ -36,7 +36,7 @@ Colusa National Wildlife Refuge
 
 2. You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an overnight stay in accordance with A13.
 
-3. Youth hunters must be accompanied by an adult (age 18 or older) at all times while hunting.
+3. Junior hunters age 15 or younger must be accompanied by, and remain within sight and normal voice contact of, an adult (age 18 or older) at all times while hunting.
 
 4. Access to the hunt area is by foot traffic only. We prohibit bicycles and other conveyances. Mobility-impaired hunters should consult with the refuge manager for allowed conveyances.
 
@@ -78,7 +78,7 @@ Delevan National Wildlife Refuge
 
 2. You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an overnight stay in accordance with A14.
 
-3. Youth hunters must be accompanied by an adult (age 18 or older) at all times while hunting.
+3. Junior hunters age 15 or younger must be accompanied by, and remain within sight and normal voice contact of, an adult (age 18 or older) at all times while hunting.
 
 4. Access to the hunt area is by foot traffic only. We prohibit bicycles and other conveyances. Mobility-impaired hunters should consult with the refuge manager for allowed conveyances.
 
@@ -342,7 +342,7 @@ Sacramento National Wildlife Refuge
 
 2. You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an overnight stay in accordance with A14.
 
-3. Youth hunters must be accompanied by an adult (age 18 or older) at all times while hunting.
+3. Junior hunters age 15 or younger must be accompanied by, and remain within sight and normal voice contact of, an adult (age 18 or older) at all times while hunting.
 
 4. Access to the hunt area is by foot traffic only. We prohibit bicycles and other conveyances. Mobility-impaired hunters should consult with the refuge manager for allowed conveyances.
 
@@ -422,7 +422,7 @@ Sacramento River National Wildlife Refuge
 
 2. You may hunt feral hogs from September 1 through March 15.
 
-3. We prohibit dogs while hunting feral hogs.
+3. We prohibit using dogs while hunting feral hogs and black-tailed deer.
 
 4. We prohibit construction or use of permanent blinds, platforms, ladders, or screw-in foot pegs.
 
@@ -688,4 +688,4 @@ ii. The refuge manager may designate up to 3 days per week of afternoon waterfow
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 58 FR 29084, May 18, 1993; 59 FR 6689, Feb. 11, 1994; 59 FR 55184, Nov. 3, 1994; 60 FR 5067, Jan. 25, 1995; 60 FR 62041, Dec. 4, 1995; 61 FR 46393, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30778, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46354, Sept. 4, 2001; 67 FR 58943, Sept. 18, 2002; 69 FR 54362, 54374, Sept. 8, 2004; 70 FR 54161, Sept. 13, 2005; 74 FR 45681, Sept. 3, 2009; 75 FR 18420, Apr. 12, 2010; 75 FR 3956, Jan. 21, 2011; 79 FR 14825, Mar. 17, 2014; 80 FR 51890, Aug. 26, 2015; 81 FR 68891, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 58 FR 29084, May 18, 1993; 59 FR 6689, Feb. 11, 1994; 59 FR 55184, Nov. 3, 1994; 60 FR 5067, Jan. 25, 1995; 60 FR 62041, Dec. 4, 1995; 61 FR 46393, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30778, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46354, Sept. 4, 2001; 67 FR 58943, Sept. 18, 2002; 69 FR 54362, 54374, Sept. 8, 2004; 70 FR 54161, Sept. 13, 2005; 74 FR 45681, Sept. 3, 2009; 75 FR 18420, Apr. 12, 2010; 75 FR 3956, Jan. 21, 2011; 79 FR 14825, Mar. 17, 2014; 80 FR 51890, Aug. 26, 2015; 81 FR 68891, Oct. 4, 2016; 82 FR 51948, Nov. 8, 2017]

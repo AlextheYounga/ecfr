@@ -12,7 +12,7 @@
 
 (5) *Federal workplace* means any place, site, installation, building, room, or facility in which any department or agency conducts official business, including, but not limited to, office buildings, forts, arsenals, navy yards, post offices, vehicles, ships, and aircraft.
 
-(6) *Nonpartisan election* means -
+(6) *Nonpartisan election* means—
 
 (i) An election at which none of the candidates is to be nominated or elected as representing a political party any of whose candidates for presidential elector received votes in the last preceding election at which presidential electors were selected; and
 
@@ -24,7 +24,7 @@
 
 (9) *Political party* means a national political party, a state political party, and an affiliated organization.
 
-(b) All employees are free to engage in political activity to the widest extent consistent with the restrictions imposed by law and this section. Each employee retains the right to -
+(b) All employees are free to engage in political activity to the widest extent consistent with the restrictions imposed by law and this section. Each employee retains the right to—
 
 (1) Register and vote in any election;
 
@@ -58,7 +58,7 @@
 
 (e) An employee may not take an active part in political management or in a political campaign, except as permitted by this section.
 
-(f) Activities prohibited by paragraph (e) of this section include but are not limited to -
+(f) Activities prohibited by paragraph (e) of this section include but are not limited to—
 
 (1) Serving as an officer of a political party, a member of a national, state, or local committee of a political party, an officer or member of a committee of a partisan political club, or being a candidate for any of these positions;
 
@@ -92,7 +92,7 @@
 
 (16) Soliciting, paying, collecting, or receiving a contribution at or in the federal workplace from any employee for any political party, political fund, or other partisan recipient.
 
-(g) Paragraph (f) of this section does not apply to -
+(g) Paragraph (f) of this section does not apply to—
 
 (1) The Comptroller General or the Deputy Comptroller General;
 
@@ -100,7 +100,7 @@
 
 (3) An employee who works on an irregular or occasional basis, on the days that he/she performs no services.
 
-(h) Paragraph (f) of this section does not prohibit activity in political management or in a political campaign by an employee in connection with -
+(h) Paragraph (f) of this section does not prohibit activity in political management or in a political campaign by an employee in connection with—
 
 (1) A nonpartisan election, or
 
@@ -108,7 +108,7 @@
 
 (i) For the purpose of paragraph (h)(2) of this section, the Comptroller General may designate a municipality or political subdivision in Maryland or Virginia in the immediate vicinity of the District of Columbia or a municipality in which the majority of voters are employed by the Government of the United States, when the Comptroller General determines that, because of special or unusual circumstances, it is in the domestic interest of employees to participate in local elections. The following municipalities and political subdivisions have been designated:
 
-In MarylandAnnapolis Anne Arundel County Berwyn Heights Bethesda Bladensburg Bowie Brentwood Capitol HeightsCheverlyChevy Chase, sections 1, 2, 3, and 4 Martin's Additions 1, 2, 3, and 4 to Chevy Chase Chevy Chase View College Park Cottage City District Heights Edmonston Fairmont Heights Forest Heights Garrett Park Glendarden Glen Echo Greenbelt Howard County Hyattsville Kensington Landover Hills Montgomery County Morningside Mount Rainier New Carrollton North Beach North Brentwood North Chevy Chase Northwest Park Prince Georges County Riverdale Rockville Seat Pleasant Somerset Takoma Park University Park Washington Grove In Virginia Alexandria Arlington County Clifton Fairfax County Town of Fairfax Falls Church Herndon Loudoun County Manassas Manassas Park Portsmouth Prince William County Stafford County Vienna Other Municipalities Anchorage, AK Benicia, CA Bremerton, WA Centerville, GA Crane, IN District of Columbia Elmer City, WA Huachuca City, AZ New Johnsonville, TN Norris, TN Port Orchard, WA Sierra Vista, AZ Warner Robins, GA
+In MarylandAnnapolisAnne Arundel CountyBerwyn HeightsBethesdaBladensburgBowieBrentwoodCapitol HeightsCheverlyChevy Chase, sections 1, 2, 3, and 4 Martin's Additions 1, 2, 3, and 4 to Chevy ChaseChevy Chase ViewCollege ParkCottage CityDistrict HeightsEdmonstonFairmont HeightsForest HeightsGarrett ParkGlendardenGlen EchoGreenbeltHoward CountyHyattsvilleKensingtonLandover HillsMontgomery CountyMorningsideMount RainierNew CarrolltonNorth BeachNorth BrentwoodNorth Chevy ChaseNorthwest ParkPrince Georges CountyRiverdaleRockvilleSeat PleasantSomersetTakoma ParkUniversity ParkWashington GroveIn VirginiaAlexandriaArlington CountyCliftonFairfax CountyTown of FairfaxFalls ChurchHerndonLoudoun CountyManassasManassas ParkPortsmouthPrince William CountyStafford CountyViennaOther MunicipalitiesAnchorage, AKBenicia, CABremerton, WACenterville, GACrane, INDistrict of ColumbiaElmer City, WAHuachuca City, AZNew Johnsonville, TNNorris, TNPort Orchard, WASierra Vista, AZWarner Robins, GA
 
 (j) An employee who resides in a municipality or political subdivision listed in paragraph (i) of this section may take an active part in political management and political campaigns in connection with partisan elections for local offices of the municipality or political subdivision, subject to the following limitations:
 

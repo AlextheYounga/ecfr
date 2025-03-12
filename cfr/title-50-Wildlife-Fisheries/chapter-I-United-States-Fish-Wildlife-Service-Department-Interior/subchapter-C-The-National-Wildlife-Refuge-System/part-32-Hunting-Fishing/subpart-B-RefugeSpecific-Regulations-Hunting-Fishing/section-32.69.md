@@ -12,43 +12,43 @@ Fox River National Wildlife Refuge
 
 1. We prohibit the construction or use of permanent blinds, platforms, or ladders.
 
-2. We allow hunting during the State archery, crossbow, muzzleloader, and firearms seasons.
+2. You must remove all stands from the refuge following each day's hunt. We prohibit hunting from any stand left up overnight.
 
-3. You must remove all stands from the refuge following each day's hunt. We prohibit hunting from any stand left up overnight.
+3. You may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours end.
 
-4. Refuge access is from 1 hour before to 1 hour after legal shooting hours.
-
-5. Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange material visible from all directions.
+4. Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange material visible from all directions.
 
 *D. Sport Fishing.* [Reserved]
 
 Horicon National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck and coot on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge in accordance with State regulations and subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt.
 
-1. We require permits.
+*B. Upland Game Hunting.* We allow hunting of wild turkey, ring-necked pheasant, gray partridge, squirrel, and cottontail rabbit on designated areas of the refuge in accordance with State regulations during the State seasons and subject to the following conditions:
 
-2. We allow only participants in the Young Wildfowlers and Special Programs to hunt.
+1. For hunting, you may possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k) of this chapter).
 
-*B. Upland Game Hunting.* We allow hunting of ring-necked pheasant, gray partridge, squirrel, and cottontail rabbit on designated areas of the refuge in accordance with State regulations during the State seasons subject to the following conditions:
+2. We prohibit field possession of upland game species in areas closed to upland game hunting.
 
-1. Shotgun hunters may possess only approved nontoxic shot while hunting upland game species.
+3. We prohibit engaging in hunting in areas closed to upland game hunting.
 
-2. Hunting in the youth/novice pheasant hunt area (Area F) is for youth who are 12-15 years of age, and by permit.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+1. We prohibit the construction or use of permanent blinds, platforms, or ladders.
 
-1. We allow hunting during the State archery, muzzleloader, and State firearms seasons.
+2. You must remove all stands and personal property from the refuge following each day's hunt. We prohibit hunting from any stand left up overnight (see §§ 27.93 and 27.94 of this chapter).
 
-2. We do not allow the construction and use of permanent blinds, platforms, or ladders.
+3. You must possess a refuge permit (Big/Upland Game Hunt Application, FWS Form 3-2356) to hunt in Area E (surrounding the office/visitor center).
 
-3. You must remove all stands from the refuge following each day's hunt. We prohibit hunting from any stand left up overnight.
+4. You may only hunt in Area D (auto tour/hiking trail) during the State 9-day gun season and December antlerless-only hunts. The refuge will post these dates annually.
 
-4. Hunting in the area surrounding the office/visitor center (Area E) is by permit only.
+5. You may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
 
-5. Hunting in the auto tour/hiking trail complex (Area D) is open only during the State firearms deer season.
+6. Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange material visible from all directions.
 
-6. Any ground blind used during any gun deer season must display at least 144 square inches (936 cm2) of solid-blaze-orange material visible from all directions.
+7. We prohibit the field possession of white-tailed deer in areas closed to white-tailed deer hunting.
+
+8. We prohibit engaging in hunting in areas closed to white-tailed deer hunting.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
@@ -74,7 +74,7 @@ Leopold Wetland Management District
 
 2. Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange material visible from all directions.
 
-*D. Sport Fishing.* [Reserved]
+D. *Sport Fishing.* We allow sport fishing on Waterfowl Production Areas throughout the District in accordance with State regulations and subject to the following condition: We prohibit the use of motorized boats.
 
 Necedah National Wildlife Refuge
 
@@ -200,4 +200,4 @@ Whittlesey Creek National Wildlife Refuge
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 59 FR 6700, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30794, May 12, 2000; 65 FR 56411, Sept. 18, 2000; 66 FR 46362, Sept. 4, 2001; 67 FR 58952, Sept. 18, 2002; 69 FR 54362, 54473, Sept. 8, 2004; 70 FR 54197, Sept. 13, 2005; 72 FR 51545, Sept. 7, 2007; 73 FR 33200, June 11, 2008; 73 FR 51161, Aug. 29, 2008; 76 FR 4000, Jan. 21, 2011; 76 FR 56090, Sept. 9, 2011; 79 FR 14844, Mar. 17, 2014; 80 FR 51934, Aug. 26, 2015]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 59 FR 6700, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30794, May 12, 2000; 65 FR 56411, Sept. 18, 2000; 66 FR 46362, Sept. 4, 2001; 67 FR 58952, Sept. 18, 2002; 69 FR 54362, 54473, Sept. 8, 2004; 70 FR 54197, Sept. 13, 2005; 72 FR 51545, Sept. 7, 2007; 73 FR 33200, June 11, 2008; 73 FR 51161, Aug. 29, 2008; 76 FR 4000, Jan. 21, 2011; 76 FR 56090, Sept. 9, 2011; 79 FR 14844, Mar. 17, 2014; 80 FR 51934, Aug. 26, 2015; 82 FR 51961, Nov. 8, 2017]

@@ -32,27 +32,29 @@ Baskett Slough National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of duck and goose on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Only hunters 15 years of age and younger are allowed to participate in the Youth Waterfowl Hunt. Youths must be accompanied by an adult 21 years of age or older.
+1. Only hunters age 17 or younger are allowed to participate in the Youth Waterfowl Hunt. Youths must be accompanied by an adult age 21 or older.
 
-2. Blinds, decoys, and other personal property must be removed at the end of each day's hunt (see § 27.93 of this chapter).
+2. Youth must obtain a refuge waterfowl hunting permit using the Waterfowl Lottery Application (FWS Form 3-2355). All youth hunting waterfowl must do so from designated blinds.
 
-3. Vehicles are restricted to designated public use roads and designated parking areas.
+3. Blinds, decoys, and other personal property must be removed at the end of each day's hunt (see § 27.93 of this chapter).
 
-4. We prohibit dogs on the refuge, except for hunting dogs engaged in authorized hunting activities, and under the immediate control of a licensed hunter (see § 26.21(b) of this chapter).
+4. Vehicles are restricted to designated public use roads and designated parking areas.
 
-5. You may possess only approved nontoxic shells for hunting during the early September Goose Hunt and the Youth Duck Hunt.
+5. We prohibit dogs on the refuge, except for hunting dogs engaged in authorized hunting activities, and under the immediate control of a licensed hunter (see § 26.21(b) of this chapter).
 
-6. Open fires are not allowed.
+6. You may possess only approved nontoxic shells for hunting during the early September Goose Hunt and the Youth Duck Hunt.
 
-7. Waterfowl and goose permit (name only) hunters must check back to the refuge check station prior to leaving the refuge and submit a Migratory Bird Hunt Report (FWS Form 3-2361).
+7. Open fires are not allowed.
 
-8. Goose hunters are required to space themselves no less than 200 yards apart from each other during the early September Goose Hunt.
+8. Waterfowl and goose permit hunters are required to check in and out at the Hunter Check Station (refuge office), which is open from 11/2 hours before legal hunting hours to 8 a.m. and from 11 a.m. to 1 p.m. We prohibit hunting after 12 p.m. (noon).
 
-9. No overnight camping or after-hours parking is allowed on the refuge.
+9. Goose hunters are required to space themselves no less than 200 yards apart from each other during the early September Goose Hunt.
 
-10. No hunting is allowed from refuge structures, observation blinds, boardwalks, or similar structures.
+10. No overnight camping or after-hours parking is allowed on the refuge.
 
-11. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and refuge-specific regulations in this part 32).
+11. No hunting is allowed from refuge structures, observation blinds, boardwalks, or similar structures.
+
+12. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and refuge-specific regulations in this part 32).
 
 *B. Upland Game Hunting.* [Reserved]
 
@@ -366,7 +368,15 @@ Siletz Bay National Wildlife Refuge
 
 *C. Big Game Hunting.* [Reserved]
 
-*D. Sport Fishing.* [Reserved]
+*D. Sport Fishing.* We allow fishing and clamming in accordance with State regulations and subject to the following conditions:
+
+1. We allow recreational bank fishing from the Alder Island Nature Trail.
+
+2. We allow clamming on refuge lands and access across refuge lands to State-managed tidelands for clamming on the west side of U.S. Highway 101.
+
+3. We prohibit pets on refuge trails or other refuge lands. We allow leashed pets only in the parking lot.
+
+4. We allow fishing only from legal sunrise to legal sunset.
 
 Tualatin River National Wildlife Refuge
 
@@ -506,4 +516,4 @@ William L. Finley National Wildlife Refuge
 
 2. We prohibit the use of boats.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6696, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 62046, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47381, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30790, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54447, Sept. 8, 2004; 70 FR 54189, Sept. 13, 2005; 70 FR 56377,Sept. 27, 2005; 73 FR 33195, June 11, 2008; 76 FR 56084, Sept. 9, 2011; 77 FR 56055, Sept. 11, 2012; 79 FR 14837, Mar. 17, 2014; 80 FR 51927, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6696, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 62046, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47381, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30790, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54447, Sept. 8, 2004; 70 FR 54189, Sept. 13, 2005; 70 FR 56377,Sept. 27, 2005; 73 FR 33195, June 11, 2008; 76 FR 56084, Sept. 9, 2011; 77 FR 56055, Sept. 11, 2012; 79 FR 14837, Mar. 17, 2014; 80 FR 51927, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016; ]

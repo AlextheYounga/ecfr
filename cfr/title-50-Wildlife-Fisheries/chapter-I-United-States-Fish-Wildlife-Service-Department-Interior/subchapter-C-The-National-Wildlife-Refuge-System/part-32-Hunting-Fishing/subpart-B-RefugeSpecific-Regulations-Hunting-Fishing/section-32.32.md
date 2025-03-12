@@ -272,6 +272,16 @@ iii. Shooting hours end at 3 p.m. each day.
 
 2. On the Fox Island Division, we only allow bank fishing along any portion of the Fox River from January 1 through October 15.
 
+Kankakee National Wildlife Refuge
+
+*A. Migratory Game Bird Hunting.* [Reserved].
+
+*B. Upland Game Hunting.* We allow hunting of wild turkey on the Kolar Savanna Unit in accordance with State seasons and regulations, and subject to the following condition: For hunting, you may possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+
+*C. Big Game Hunting.* We allow hunting of white-tailed deer on the Kolar Savanna Unit in accordance with State seasons and regulations.
+
+*D. Sport Fishing.* [Reserved].
+
 Meredosia National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* [Reserved]
@@ -420,4 +430,4 @@ Upper Mississippi River National Wildlife and Fish Refuge
 
 Refer to § 32.42 Minnesota for regulations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 59 FR 6685, 6692, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 60 FR 62041, Dec. 4, 1995; 61 FR 45366, Aug. 29, 1996; 61 FR 46394, Sept. 3, 1996; 62 FR 47378, Sept. 9, 1997; 63 FR 46916, Sept. 3, 1998; 65 FR 30782, May 12, 2000; 65 FR 56402, Sept. 18, 2000; 66 FR 46356, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54387, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54166, Sept. 13, 2005; 72 FR 51542, Sept. 7, 2007; 73 FR 33172, June 11, 2008; 76 FR 3959, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56040, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51901, Aug. 26, 2015; 81 FR 68897, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 59 FR 6685, 6692, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 60 FR 62041, Dec. 4, 1995; 61 FR 45366, Aug. 29, 1996; 61 FR 46394, Sept. 3, 1996; 62 FR 47378, Sept. 9, 1997; 63 FR 46916, Sept. 3, 1998; 65 FR 30782, May 12, 2000; 65 FR 56402, Sept. 18, 2000; 66 FR 46356, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54387, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54166, Sept. 13, 2005; 72 FR 51542, Sept. 7, 2007; 73 FR 33172, June 11, 2008; 76 FR 3959, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56040, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51901, Aug. 26, 2015; 81 FR 68897, Oct. 4, 2016; 82 FR 51952, Nov. 8, 2017]

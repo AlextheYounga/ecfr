@@ -18,9 +18,9 @@ Deep Fork National Wildlife Refuge
 
 6. We prohibit off-road vehicle use (see § 27.31 of this chapter).
 
-7. We prohibit horse and mule riding while hunting on the refuge.
+7. We prohibit horse and mule use on the refuge.
 
-8. We provide access for hunters with disabilities. Please contact the refuge office for additional information.
+8. We provide access for hunters with disabilities.
 
 9. Persons possessing, transporting, or carrying firearms on the refuge must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (50 CFR 27.42 and specific refuge regulations in part 32).
 
@@ -38,7 +38,7 @@ Deep Fork National Wildlife Refuge
 
 5. We allow dogs for hunting squirrel, rabbit, and raccoon, but you must remove the dogs from the refuge at the end of the hunt (see § 26.21(b) of this chapter).
 
-6. We offer refuge-controlled turkey hunts. We require hunters to possess a permit and pay a fee for these hunts. You may call the refuge office or the State for information concerning these hunts.
+6. We offer refuge-controlled turkey hunts. You must possess a State-issued controlled hunt letter and pay a fee for these hunts.
 
 7. Turkey hunters must check-in and out at a refuge check station. Refuge staff provide a hunter briefing as part of the check-in.
 
@@ -52,15 +52,15 @@ Deep Fork National Wildlife Refuge
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
-1. You must possess and carry a refuge Special Use Permit (FWS Form 3-1383) for the archery deer hunt only. Hunters must turn in a Big Game Harvest Report (FWS Form 3-2359) by December 31 annually. Failure to submit the report will render the hunter ineligible for the next year's limited season archery deer hunt.
+1. You must possess and carry a signed refuge permit (name only) for the archery deer hunt. Hunters must turn in a Big Game Harvest Report (FWS Form 3-2359) by December 31 annually. Failure to submit the report will render the hunter ineligible for the next year's limited season archery deer hunt.
 
 2. We will offer a limited season archery deer hunt following the controlled deer hunt.
 
-3. You may hunt feral hog during any established refuge hunting season. Refuge permits (either a signed refuge brochure, Special Use Permit, or a State-issued controlled hunt permit) and legal weapons apply for the current hunting season.
+3. You may hunt feral hog during any established refuge hunting season. Refuge permits (either a signed refuge permit or a State-issued controlled hunt letter) and legal weapons apply for the current hunting season.
 
 4. We prohibit scouting when we are conducting controlled deer hunts.
 
-5. We offer refuge-controlled deer hunts (primitive weapon, disabled primitive, youth primitive). We require hunters to possess a permit (a State-issued controlled hunt permit) and pay a fee for these hunts. For information concerning the hunts, contact the refuge office or the State.
+5. We offer refuge-controlled deer hunts (primitive weapon, disabled primitive, and youth primitive). You must possess a permit (a State-issued controlled hunt letter) and pay a fee for these hunts.
 
 6. We prohibit off-road vehicle use (see § 27.31 of this chapter).
 
@@ -226,23 +226,35 @@ Sequoyah National Wildlife Refuge
 
 12. We prohibit alcoholic beverages on all refuge lands.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and rabbit on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of Eastern gray and fox squirrel and swamp and Eastern cottontail rabbit on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Conditions A1, A3, A5, A8, A9, A10, and A12 apply.
+1. Conditions A3, A4, A5, A8, and A12 apply.
 
-2. We only open the refuge to hunting on Saturdays, Sundays, Mondays, and Tuesdays. We generally designate open areas as: Area A - Sandtown Bottom, Area B - Webber Bottom, and Area C - Girty Bottom. We prohibit hunting or shooting within 50 feet (15 meters) of designated roads or parking areas. All hunters must park in designated parking areas.
+2. You must possess and carry a signed refuge brochure; this serves as your Upland Game Hunting Permit. The permit/brochure is available free of charge at the refuge headquarters, at various entry points to the refuge, and on our Web site. You must abide by all rules and regulations listed on the permit (see § 32.2(e) of this chapter).
 
-3. Season lengths and bag limits will be in accordance with State regulations with the exception that all upland game hunting will close on January 31 of each year.
+3. We prohibit hunters entering the Sandtown Bottom Unit prior to 5 a.m. during the hunting season. Hunters must leave the Sandtown Bottom Unit by 1 hour after legal sunset.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+4. We open the refuge to hunting on Saturdays, Sundays, Mondays, and Tuesdays. We generally open the following units: Sandtown Bottom, Webber Bottom, Girty Bottom, Possum Hollow, and Vian Creek.
 
-1. Hunters must possess and carry a refuge-controlled hunt permit, and comply with the designated refuge season, hunting methods, and location guidelines for that year.
+5. Season lengths and bag limits will be in accordance with State regulations with the exception that all upland game hunting will close on January 31 of each year.
 
-2. Hunters must apply to the State-controlled deer hunt drawing administered by the Oklahoma Department of Wildlife Conservation for selection. We require those hunters to attend a prehunt briefing, and they must follow all applicable State regulations.
+6. We only allow legal shotguns and approved nontoxic shot (see § 32.2(k) of this chapter). You must plug hunting shotguns so that they are incapable of holding more than three shells. We also allow .22/.17 rimfire rifles for hunting upland game.
 
-3. We require payment of State and Federal special deer hunting fees.
+7. We prohibit squirrel and rabbit hunting in the Cook, Hi-Saw/Shelby, Delta Islands, and Haskell Management Units.
 
-4. Condition A9 applies.
+8. Incidental take of feral hogs may occur during squirrel and rabbit hunting season.
+
+*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. Conditions A8, A9, and A12 apply.
+
+2. You must possess and carry a hunt permit (State-issued permit), and comply with the designated refuge season, hunting methods, and location guidelines for that year.
+
+3. Hunters must apply to the State-controlled deer hunt drawing administered by the Oklahoma Department of Wildlife Conservation for selection. You must attend a pre-hunt briefing.
+
+4. You must pay State and Federal special deer hunting fees.
+
+5. Incidental take of feral hogs may occur during deer hunting season.
 
 *D. Sport Fishing.* We allow fishing and frogging on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
@@ -374,4 +386,4 @@ Wichita Mountains National Wildlife Refuge
 
 6. Anglers may use motorized boats on Elmer Thomas Lake; however, we enforce a no-wake rule on the lake.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6695, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 61213, Nov. 29, 1995; 60 FR 62046, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46920, Sept. 3, 1998; 65 FR 30789, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54445, Sept. 8, 2004; 70 FR 54188, Sept. 13, 2005; 73 FR 33195, June 11, 2008; 74 FR 45695, Sept. 3, 2009; 76 FR 3988, Jan. 21, 2011; 76 FR 56083, Sept. 9, 2011; 77 FR 56054, Sept. 11, 2012; 80 FR 51927, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6695, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 61213, Nov. 29, 1995; 60 FR 62046, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46920, Sept. 3, 1998; 65 FR 30789, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54445, Sept. 8, 2004; 70 FR 54188, Sept. 13, 2005; 73 FR 33195, June 11, 2008; 74 FR 45695, Sept. 3, 2009; 76 FR 3988, Jan. 21, 2011; 76 FR 56083, Sept. 9, 2011; 77 FR 56054, Sept. 11, 2012; 80 FR 51927, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016; 82 FR 51958, Nov. 8, 2017]

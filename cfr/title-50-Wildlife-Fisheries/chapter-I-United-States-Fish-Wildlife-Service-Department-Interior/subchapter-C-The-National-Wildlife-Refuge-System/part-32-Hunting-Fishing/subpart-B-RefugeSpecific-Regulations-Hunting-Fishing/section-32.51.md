@@ -140,19 +140,21 @@ xi. You must set up in your chosen hunting spot before legal shooting time.
 
 xii. Forfeited reservations become available on a first-come, first-served basis to standby hunters at the Route 89 Hunter Check Station.
 
-xiii. In Tschache Pool, you must use motorless boats to hunt, and we limit hunters to one boat per reservation. We also limit hunters to one motor vehicle in the Tschache Pool area per reservation.
+xiii. If you have a reservation but do not show up to hunt, and do not cancel your reservation 12 hours prior to legal shooting time, then you may be ineligible to hunt the next 3 hunt days. This decision is at the refuge manager's discretion.
 
-xiv. We prohibit shooting from any dike or within 50 feet (15.2 meters) of any dike or road, or from within 500 feet (152.4 meters) of the Tschache Pool observation tower. We do not limit hunting to specific blind sites.
+xiv. In Tschache Pool, you must use motorless boats to hunt, and we limit hunters to one boat per reservation. We also limit hunters to one motor vehicle in the Tschache Pool area per reservation.
 
-xv. We will announce selection procedures for hunting sites on areas other than Tschache Pool annually.
+xv. We prohibit shooting from any dike or within 50 feet (15.2 meters) of any dike or road, or from within 500 feet (152.4 meters) of the Tschache Pool observation tower. We do not limit hunting to specific blind sites.
 
-xvi. You may possess a maximum of 15 nontoxic shot shells for hunting while in the field (see § 32.2(k)); you may not take more than 15 shot shells per hunter into the hunting area.
+xvi. We will announce selection procedures for hunting sites on areas other than Tschache Pool annually.
 
-xvii. You must stop hunting at 12 p.m. (noon), and you must check-out and be out of the hunting area by 1 p.m.
+xvii. Waterfowl hunters may possess a maximum of 15 shot shells on their person or in their means of conveyance.
 
-xviii. We require proof of successful completion of the New York State Waterfowl Identification Course, the Montezuma Nonresident Waterfowl Identification Course, or a suitable nonresident State Waterfowl Identification Course to hunt in the refuge; all hunters must show proof each time they hunt, in addition to showing their valid hunting license and signed Federal Migratory Bird Hunting and Conservation Stamp (Federal Duck Stamp).
+xviii. You must stop hunting at 12 p.m. (noon), and you must check-out and be out of the hunting area by 1 p.m.
 
-xix. You must possess, carry, and present upon request to any law enforcement officer a valid daily hunt permit card (Migratory Bird Hunt Report, FWS Form 3-2361). We also require you to return the daily hunt permit card at the end of hunting. You can obtain a permit at the Hunter Check Station during the check-in process, and you can return it to the Hunter Check Station or at the box located at the north end of the Tschache Pool dike.
+xix. We require proof of successful completion of the New York State Waterfowl Identification Course, the Montezuma Nonresident Waterfowl Identification Course, or a suitable nonresident State Waterfowl Identification Course to hunt in the refuge; all hunters must show proof each time they hunt, in addition to showing their valid hunting license and signed Federal Migratory Bird Hunting and Conservation Stamp (Federal Duck Stamp).
+
+xx. You must possess, carry, and present upon request to any law enforcement officer a valid daily hunt permit card (Migratory Bird Hunt Report, FWS Form 3-2361). You must return the daily hunt permit card at the end of hunting. You may obtain a permit at the Hunter Check Station during the check-in process, and return it to the Hunter Check Station or at the box located at the north end of the Tschache Pool dike.
 
 2. For Canada goose and snow goose hunting:
 
@@ -160,13 +162,13 @@ i. We allow hunting of Canada goose during the New York State September (or “e
 
 ii. Canada goose and snow goose hunting will be permitted 7 days per week during the refuge's set hunting dates. Hunting hours are in accordance with New York State regulations for Canada goose and snow goose seasons.
 
-iii. You must possess, carry, and present upon request to any law enforcement officer a valid daily hunt permit card (Migratory Bird Hunt Report, FWS Form 3-2361). We also require you to return the daily hunt permit card at the end of hunting or at the end of the day. You can obtain a permit at the Hunter Check Station on State Route 89 and return it to the same location; obtaining a permit will be on a first-come, first-served basis each hunt day until the day's permits are all taken.
+iii. You must possess, carry, and present upon request to any Service law enforcement officer a valid daily hunt permit card (Migratory Bird Hunt Report, FWS Form 3-2361). You must return the daily hunt permit card at the end of hunting or at the end of the day. You may obtain a permit at the Hunter Check Station on State Route 89 and return it to the same location; obtaining a permit will be on a first-come, first-served basis each hunt day.
 
 3. We allow hunting with dogs.
 
 *B. Upland Game Hunting.* We allow hunting of wild turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. You must carry and present upon request to any law-enforcement officer a valid daily hunt permit card (Big/Upland Game Hunt Application, FWS Form 3-2356). We also require you to return the daily hunt permit card at the end of hunting or at the end of the day. You can obtain a permit at the Hunter Check Station on State Route 89 and return it to the same location; obtaining a permit during the fall season will be on a first-come, first-served basis each hunt day until the day's permits are all taken.
+1. You must carry and present upon request to any Service law enforcement officer a valid daily hunt permit card (Big/Upland Game Hunt Application, FWS Form 3-2356). You must return the daily hunt permit card at the end of hunting or at the end of the day. You may obtain a permit at the Hunter Check Station on State Route 89 and return it to the same location; obtaining a permit during the fall season will be on a first-come, first-served basis each hunt day.
 
 2. We only allow hunting from legal sunrise to legal sunset during the fall season and from1/2 hour before legal sunrise to noon during the youth hunt weekend. We prohibit night hunting.
 
@@ -212,7 +214,7 @@ iii. You must possess, carry, and present upon request to any law enforcement of
 
 12. Advanced scouting of the refuge, prior to the hunting season, will be allowed during a time set by the refuge manager.
 
-13. We prohibit boats and canoes on refuge pools. We prohibit hunting on the open-water portions of the refuge pools until the pools are frozen; when frozen, we allow access for hunting only to the Main Pool and Tschache Pool at the refuge manager's discretion based on safety factors and habitat conditions.
+13. We prohibit boats and canoes on refuge pools. We prohibit hunting on the open-water portions of the refuge pools until the pools are frozen; when frozen, we allow access for hunting at the refuge manager's discretion.
 
 14. We prohibit use of all-terrain vehicles (ATVs) (see § 27.31(f) of this chapter), dirt bikes, bicycles, snowmobiles, and watercraft for the purpose of white-tailed deer hunting.
 
@@ -430,4 +432,4 @@ Wallkill National Wildlife Refuge
 
 8. We prohibit commercial fishing on the refuge.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6695, Feb. 11, 1994; 60 FR 62045, Dec. 4, 1995; 63 FR 46919, Sept. 3, 1998; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 69 FR 54362, 54434, Sept. 8, 2004; 70 FR 54184, Sept. 13, 2005; 73 FR 33193, June 11, 2008; 74 FR 45694, Sept. 3, 2009; 77 FR 56053, Sept. 11, 2012; 79 FR 14836, Mar. 17, 2014; 80 FR 51924, Aug. 26, 2015; 81 FR 68912, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6695, Feb. 11, 1994; 60 FR 62045, Dec. 4, 1995; 63 FR 46919, Sept. 3, 1998; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 69 FR 54362, 54434, Sept. 8, 2004; 70 FR 54184, Sept. 13, 2005; 73 FR 33193, June 11, 2008; 74 FR 45694, Sept. 3, 2009; 77 FR 56053, Sept. 11, 2012; 79 FR 14836, Mar. 17, 2014; 80 FR 51924, Aug. 26, 2015; 81 FR 68912, Oct. 4, 2016; 82 FR 51957, Nov. 8, 2017]

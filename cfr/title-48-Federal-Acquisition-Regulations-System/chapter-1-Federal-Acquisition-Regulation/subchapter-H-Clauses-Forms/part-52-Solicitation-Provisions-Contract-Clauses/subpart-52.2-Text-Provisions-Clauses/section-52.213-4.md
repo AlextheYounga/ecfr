@@ -130,4 +130,4 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (NO
 
 (h) *Warranty.* The Contractor warrants and implies that the items delivered hereunder are merchantable and fit for use for the particular purpose described in this contract.
 
-(End of clause)[62 FR 64928, Dec. 9, 1997]Editorial Notes:1. For Federal Register citations affecting section 52.213-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(End of clause)[62 FR 64928, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting section 52.213-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

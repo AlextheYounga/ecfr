@@ -46,86 +46,120 @@ Prime Hook National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow the hunting of waterfowl, coot, mourning dove, snipe, and woodcock on designated areas of the refuge during designated seasons in accordance with State regulations and subject to the following conditions:
 
-1. Only hunters aged 16 years and older may apply for or obtain a lottery hunt area permit (Waterfowl Lottery Application; FWS Form 3-2355).
+1. General Hunting Regulations.
 
-2. You must have in your possession a signed and current refuge hunt permit (signed brochure) and government-issued picture identification on the refuge. All permits are non-transferable. Hunting brochures containing hunting application procedures, permits, seasons, scouting times, methods of hunting, maps depicting areas open to hunting, and the terms and conditions under which we issue hunting permits are available at the refuge office and on the refuge's Web site.
+i. Anyone age 16 or older, regardless of license status, must obtain a migratory bird hunting permit (Migratory Bird Hunt Application, FWS Form 3-2357) to hunt or enter hunt areas, except non-hunting assistants assisting disabled hunters in the disabled area. You must print and validate your permit (name/address/phone) with your signature, in ink, and retain it on your person while hunting or scouting.
 
-3. Hunting in violation of any Delaware State law is a violation of refuge hunting regulations.
+ii. You must abide by the terms and conditions outlined in the refuge hunt brochure (see § 32.2(e) of this chapter). Brochures contain information on seasons, bag limits, methods of hunting, maps depicting areas open to hunting, hunt unit reservation procedures, and the terms and conditions under which we issue hunting permits. They are available at the visitor center, at the administration office, and on the refuge's Web site (see § 32.2(f) of this chapter).
 
-4. We prohibit cutting or damaging vegetation for any purpose. We prohibit the use of natural vegetation for camouflaging a blind (see § 27.51 of this chapter).
+iii. You, and those who accompany you who are age 16 or older, must possess and carry the following at all times while on refuge property: A valid Delaware hunting license or document exhibiting your License Exempt Number (LEN), all required State and Federal stamps, a valid form of government-issued photo identification, a signed refuge hunt brochure appropriate for the hunt in question, and a printed valid hunting permit. We will not accept photocopies or electronic copies of these documents.
 
-5. Hunting blinds, stands, steps and equipment must be portable, and you must remove them at the end of each day.
+iv. Youths age 15 or younger must be accompanied by a supervisor age 18 or older who possesses all documents required in A.1.iii, including non-hunting assistants. All supervisors may only be accompanied by one youth. Youths must possess and carry a signed refuge waterfowl hunt brochure and an LEN or license in accordance with State law. The youth must remain within sight and normal voice contact of the supervisor at all times while hunting on the refuge.
 
-6. We prohibit practice or target shooting.
+v. Other than using motor vehicles on designated roads, you may only access the refuge by foot, except as authorized by the refuge manager.
 
-7. We prohibit all public entry in designated safety zones.
+vi. You may use trained dogs to assist in retrieval of harvested game.
 
-8. You may not be on the refuge any earlier than 2 hours before the legal morning shooting time.
+vii. You must notify and receive permission from a Service law enforcement officer, refuge manager, or designee if you need to retrieve game from a closed refuge area or a hunting area for which you do not possess a valid permit (see § 26.21(a) of this chapter).
 
-9. We require all boaters to operate their craft and possess all safety equipment in accordance with Delaware State and U.S. Coast Guard regulations during refuge hunts (see § 27.32 of this chapter). The maximum horsepower (HP) allowed for boat motors is 30 HP. The Slaughter Canal and Headquarters' Canal are slow, no-wake zones. Designated launching sites must be used to launch boats. We prohibit the use of air-thrust and inboard water-thrust boats on all waters within the refuge boundaries.
+viii. You must park in designated areas. We prohibit parking in front of any gate. Parked vehicles may not impede any road traffic (see § 27.31(h) of this chapter).
 
-10. We allow only three individuals per blind site in the lottery hunting areas.
+ix. You may enter the refuge up to 2 hours before legal morning shooting time. You must stop hunting by 3 p.m. and leave the hunting area or unit by 4 p.m., except when snow goose hunting, in the designated snow goose area, during the snow goose conservation order season.
 
-11. We prohibit motor vehicles off of designated routes and parking areas.
+x. You must complete and return a Migratory Bird Hunt Report (FWS Form 3-2361), available at the refuge administration office or on the refuge's Web site, within 15 days of the close of the season.
 
-12. We allow the use of dogs to assist in hunting and retrieval of harvested game in accordance with State law. We prohibit dog training (see § 27.91 of this chapter).
+xi. We prohibit the use of natural vegetation for camouflaging blind material (see § 27.51(a) of this chapter).
 
-13. Only nonambulatory hunters may hunt in the Island Farm Unit, where we have provided nonambulatory hunt blinds to accommodate hunters with this need. All disabled hunters must obtain an Interagency Access Pass to receive a hunting permit for the disabled hunting areas. We require wheelchair hunters to have an assistant in the disabled hunting areas and to hunt from a government-provided blind.
+xii. We prohibit entry to designated safety zones as identified by polygons on the refuge map.
 
-14. We allow up to two individuals assisting a disabled hunter to hunt waterfowl with the disabled hunter.
+xiii. You may access the Lottery Waterfowl hunt area by boat. The maximum horsepower allowed for boat motors is 30 horsepower (HP). You must abide by the slow, no-wake zones on designated portions of refuge waterways as depicted in maps or within the brochure.
 
-15. Waterfowl hunters must stop hunting at 3 p.m. and leave the refuge by 4 p.m. on hunting days except when snow goose hunting during a snow goose conservation order.
+xiv. We allow the use of non-motorized boats within the Walk-in Hunt Area. Boats may be transported to refuge waters by hand or by the use of a cart.
 
-16. We allow the use and possession of only nontoxic shot for hunting (see § 32.2(k)).
+2. General and Disabled Waterfowl Draw Hunt Areas.
 
-*B. Upland Game Hunting.* We allow the hunting of rabbit, quail, pheasant, and red fox on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+i. You must obtain a Daily General or Disabled Waterfowl Draw Area Permit (signed brochure), which reserves your hunt unit/area/site in advance for a specific date using an online system. Only hunters age 16 or older may reserve a hunt unit.
 
-1. We prohibit the hunting of squirrel.
+ii. You must print and validate your Daily Waterfowl Draw Area Permit (signed brochure) with your signature in ink.
 
-2. We allow red fox hunting only while concurrently hunting deer in areas open to deer hunting. We prohibit hunting by chase. We prohibit hunting with rimfire or centerfire rifles.
+iii. You must hunt from your boat or, if applicable, provided blind. You must hunt within 75 feet (22.9 meters) of your designated site.
 
-3. We allow the use and possession of only nontoxic shot for hunting (see § 32.2(k)), except that while hunting red fox concurrently with deer we allow the use of shot approved for deer hunting in accordance with State and refuge regulations.
+iv. We allow you to have up to two additional hunters accompany you on your reserved site.
 
-4. Hunters must leave the hunting area1/2 hour after the legal evening shooting time.
+v. Disabled Waterfowl Draw Area.
 
-5. Conditions A2 through A13 apply.
+a. All disabled hunters must possess and carry a State of Delaware Certified Hunter with Disabilities Card while hunting in disabled areas. We will not accept photocopies or electronic copies of these forms.
 
-*C. Big Game Hunting.* We allow the hunting of white-tailed deer and turkey on designated areas of the refuge during designated seasons in accordance with State regulations and subject to the following conditions:
+b. Disabled hunters may have a non-hunting assistant who is age 18 or older. The assistant must remain within sight and normal voice contact; must not be engaged in hunting; and must possess a valid refuge hunt brochure signed in ink and a valid government-issued photo identification. Any assistant engaged in hunting must possess and carry all documents as specified in A.1.iii.
 
-1. Only hunters aged 16 years and older may apply for or obtain a lottery hunt area permit (Quota Deer Hunt Application, FWS Form 3-2354; Big/Upland Game Hunt Application, FWS Form 3-2356).
+c. We do not allow assistants to enter a designated disabled hunting area unless they are accompanied by a certified disabled hunter.
 
-2. We prohibit access by boat from Slaughter Creek on Cods Road.
+d. We do not require assistants to maintain sight and normal voice contact while retrieving game.
 
-3. We prohibit the driving or pushing of deer by any means.
+*B. Upland Game Hunting.* We allow hunting of rabbit, quail, pheasant, and red fox on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-4. All deer hunters must be out of the hunting areas 11/2 hours after the legal evening shooting time. All turkey hunters must be out of the hunting areas one hour after the legal closing time for turkey hunting.
+1. A.1.i. through A.1.viii. and A.1.xii. apply.
 
-5. We prohibit the use or possession of buckshot while hunting. Only slugs may be used for hunting deer.
+2. We prohibit shooting a projectile from a firearm, muzzleloader, bow, or crossbow from, down, or across any refuge road. A refuge road is any road that is traveled by vehicular traffic.
 
-6. We prohibit assistants for wheelchair hunters from hunting in the disabled hunting area.
+3. You must make a reasonable effort to retrieve all wounded or killed game and include it in your daily bag limit. We prohibit leaving entrails or other waste within 50 feet (15.2 meters) of any road, parking area, trail, or refuge structure on the refuge.
 
-7. Any time the State hunting regulations require that hunters display hunter orange, the material must be solid-colored. We prohibit the use of hunter-orange camouflage materials to meet State minimum hunter orange requirements.
+4. You must use daylight florescent orange in accordance with State regulations (see § 32.2(d) of this chapter).
 
-8. We allow the use and possession of only nontoxic shot for hunting turkey (see § 32.2(k)).
+5. You may enter the refuge no earlier than 1 hour before legal morning shooting time and you must exit the refuge by 1 hour after legal sunset.
 
-9. Conditions A2 through A12, and A14 apply.
+6. We prohibit the use of centerfire and rimfire rifles.
+
+*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. General Hunt Regulations.
+
+i. Conditions A.1.i. through A.1.v., A.1.vii., A.1.viii., A.1.xii., B2, and B3 apply.
+
+ii. We prohibit organized deer drives.
+
+iii. We allow the use of temporary tree stands and blinds for hunting. All stands and blinds left on refuge property unoccupied must be tagged in plain sight with your permit number and the years that are printed on your permit. You must remove all stands and blinds by legal sunset of a date established annually by the refuge manager. We are not responsible for damage, theft, or use of the stand by other hunters.
+
+iv. You may use marking devices, including flagging or tape, but you must remove them by legal sunset on a date established annually by the refuge manager. You may not use paint or any other permanent marker to mark trails.
+
+v. You must use daylight florescent orange in accordance with State regulations during all designated firearm and muzzleloader deer hunts (see § 32.2(d) of this chapter).
+
+2. General and Disabled Deer Draw Hunt Areas.
+
+i. Youth hunters must obtain a hunting permit before applying for a General and Disabled Deer Draw Area Permit (signed brochure). Hunters age 15 or younger must obtain a hunting permit; however, A.1.iv. still applies.
+
+ii. You must obtain a Daily General or Disabled Deer Draw Area Permit (signed brochure), which reserves your hunt unit/area/site in advance for a specific date using an online system.
+
+iii. You must print and sign your Daily Deer Draw Area Permit (signed brochure) in ink.
+
+3. For designated disabled hunt areas, A.2.v. applies.
 
 *D. Sport Fishing.* We allow fishing and crabbing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We require all individuals fishing and/or crabbing on or from the refuge or within refuge waters to possess a signed refuge fishing/crabbing application (FWS Form 3-2358) and a valid form of government-issued photo identification.
+1. Conditions A.1.i. through A.1.iv. apply for those age 17 and older.
 
-2. Anglers using boats on Turkle and Fleetwood Ponds may propel them manually or with electric motors only.
+2. All youth age 16 or younger must be accompanied by a licensed angler age 18 or older who possesses all documents required in D.1.i.
 
-3. We do not allow fishing or crabbing from water control structures.
+3. The refuge is open from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
-4. You may use or possess only nontoxic terminal tackle, weights, sinkers, and/or split shot while fishing or crabbing within refuge boundaries.
+4. Other than using motor vehicles on designated roads, you may only access the refuge by foot, except as authorized by the refuge manager.
 
-5. You may use only hook-and-line tackle when fishing for finfish.
+5. We allow fishing and crabbing from boats and from designated areas of the refuge, on designated days, during designated times, routes of travel, waterways, and launch sites.
 
-6. You may use only hand lines, crab dip nets, hoop crab nets, and/or manually operated crab traps (collapsible traps) for crabbing.
+i. You must remove boats from the water by legal sunset.
 
-7. You must attend to your fishing and/or crabbing lines and gear at all times.
+ii. When on Turkle and Fleetwood Ponds, you may only propel boats manually or with electric motors.
 
-8. We do not allow commercial fishing and/or crabbing.
+iii. We allow a maximum of 30 horsepower (HP) outboard or motor.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 60 FR 62041, Dec. 4, 1995; 65 FR 30781, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46355, Sept. 4, 2001; 69 FR 54362, Sept. 8, 2004; 74 FR 45681, Sept. 3, 2009; 80 FR 51893, Aug. 26, 2015; 81 FR 68893, Oct. 4, 2016]
+iv. You must abide by the slow, no-wake zones on designated portions of refuge waterways as depicted in maps or within the brochure.
+
+6. Fishing tackle and crabbing gear:
+
+i. You must use hook-and-line tackle when fishing for finfish.
+
+ii. You may use only hand lines, crab dip nets, hoop crab nets, and/or manually operated crab traps (collapsible traps) in any combination for crabbing.
+
+iii. You must attend to your crabbing and fishing lines or gear at all times.
+
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 60 FR 62041, Dec. 4, 1995; 65 FR 30781, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46355, Sept. 4, 2001; 69 FR 54362, Sept. 8, 2004; 74 FR 45681, Sept. 3, 2009; 80 FR 51893, Aug. 26, 2015; 81 FR 68893, Oct. 4, 2016; 82 FR 51949, Nov. 8, 2017]

@@ -306,9 +306,9 @@ Lake Woodruff National Wildlife Refuge
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We require Lake Woodruff hunt permits. The permits (signed annual hunt brochure) are free and nontransferable, and anyone on refuge land in possession of hunting equipment must sign, possess, and carry the permit at all times.
+1. You must have a valid signed Lake Woodruff National Wildlife Refuge Big Game Permit (signed brochure). The permits (signed brochure) are free and nontransferable, and anyone on refuge land engaged in hunting must sign and carry the permit at all times.
 
-2. In addition to the valid, paid Lake Woodruff Quota Hunt Permit (Florida Fish and Wildlife Conservation Commission State Permit), which can be purchased through Florida Fish and Wildlife Conservation Commission (FWC), and a signed Lake Woodruff National Wildlife Refuge hunt permit (signed annual hunt brochure), hunters must have on their person all applicable Florida hunting licenses and permits. State requirements for hunter safety apply.
+2. You must obtain a State-issued Lake Woodruff Quota Hunt Permit (Quota Permit), which can be purchased through Florida Fish and Wildlife Conservation Commission (FWC). You must have on your person all applicable Florida hunting licenses and permits. State requirements for hunter safety apply.
 
 3. All hunters must be on stands or in blinds while hunting.
 
@@ -320,7 +320,7 @@ Lake Woodruff National Wildlife Refuge
 
 7. Persons possessing, transporting, or carrying firearms on National Wildlife Refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and refuge-specific regulations in this part 32).
 
-8. We close the hunt areas of the refuge to all public use except to permitted hunters. The refuge is closed between legal sunset and legal sunrise, except permitted hunters may access the refuge 2 hours prior to legal sunrise each hunting day. All hunters must be off the refuge 2 hours after legal sunset.
+8. Hunting areas on the refuge are seasonally closed to all public use except to permitted hunters during the season, and are marked on refuge maps. The refuge is closed between legal sunset and legal sunrise, except permitted hunters may access the refuge 2 hours prior to legal sunrise each hunting day. All hunters must leave the refuge within 2 hours of legal sunset.
 
 9. You may set up stands or blinds 2 days prior to the hunt for which you are permitted, and you must remove them on or before the last day of your permitted hunt. You must clearly mark stands with the hunter's name and address or the Florida Fish and Wildlife Conservation Commission (FWC) customer number found on your hunting license. No more than one stand or blind per person may be on the refuge at any time, unless a permitted hunter is accompanied by a youth hunter. Stands and/or blinds for youth hunters must be placed within sight and normal voice contact of the permitted hunter's stand and marked with the adult permitted hunter's name and address or the FWC customer number and the word “YOUTH.”
 
@@ -336,7 +336,11 @@ Lake Woodruff National Wildlife Refuge
 
 15. Hunters under age 16 do not need a quota permit, but must be accompanied by an adult age 18 or older. Each adult may supervise one youth hunter and must remain within sight and normal voice contact; the pair must share a single bag limit unless hunting during a designated Family or Youth Hunt.
 
-16. Archery hunters must wear a vest or jacket containing back and front panels of at least 500 square inches (3,226 square centimeters) of solid-fluorescent-orange color when moving to and from their vehicle, to their deer stand or their hunting spot, and while tracking or dragging out their deer. We do not require archery hunters to wear solid-colored-fluorescent hunter orange when positioned in their stands to hunt.
+16. Archery hunters must wear a vest or jacket containing back and front panels of at least 500 square inches (3,226 square centimeters) of solid-fluorescent-orange color when moving to and from their vehicle, to their deer stand or their hunting spot, and while tracking or dragging out deer.
+
+17. We prohibit using dogs for tracking unless authorized by a Federal wildlife officer. Dogs must remain on a leash and be equipped with a GPS tracking device.
+
+18. It is unlawful to drive nails, spikes, or other metal objects into any tree, or to hunt from any tree in which a metal object has been driven (see § 32.2(i) of this chapter).
 
 *D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -348,9 +352,7 @@ Lake Woodruff National Wildlife Refuge
 
 4. We prohibit the use of airboats on the refuge.
 
-5. We prohibit commercial fishing and the taking of frogs, turtles, or any other wildlife without permit (see § 27.21 of this chapter).
-
-6. We prohibit the use of snatch hooks in the refuge impoundments.
+5. We prohibit the use of snatch hooks in the refuge impoundments.
 
 Lower Suwannee National Wildlife Refuge
 
@@ -372,17 +374,17 @@ Lower Suwannee National Wildlife Refuge
 
 8. We prohibit construction of permanent blinds or stands.
 
-9. In addition to State hunter education requirements, an adult (parent or guardian) age 21 or older must supervise and must remain within sight of and in normal voice contact of the youth hunter age 15 and under. Parents or adult guardians are responsible for ensuring that hunters under age 16 do not engage in conduct that would constitute a violation of the refuge regulations. An adult may supervise no more than two youths.
+9. In addition to State hunter-education requirements, an adult (parent or guardian) age 21 or older must supervise and must remain within sight of and in normal voice contact of the youth hunter age 15 or younger. Parents or adult guardians are responsible for ensuring that hunters age 15 and younger do not engage in conduct that would constitute a violation of refuge regulations. An adult may not supervise more than two youths.
 
 10. We prohibit guiding or participating in a guided hunt where a fee is charged.
 
 11. We prohibit target practice or any nonhunting discharge of firearms (see § 27.42 of this chapter).
 
-12. We prohibit marking any tree, or other refuge feature, with flagging, litter, paint, or blaze.
+12. We prohibit marking any tree, or other refuge feature, with flagging, litter, paint, tacks, spider eyes, or blaze.
 
 13. We prohibit flagging, reflective markers, paint, litter, or pins for marking in any manner on refuge property, with the exception of the following: Clothes type pins or clips with reflective or colored markings can be used for the temporary marking of vegetation in order to identify a route of travel to or from a tree stand. You must remove these pins at the end of deer season (see §§ 27.93 and 27.94 of this chapter). Each clothes type pin or clip must contain both the name and hunting license number of the hunter.
 
-14. Hunters utilizing the refuge are subject to inspection of licenses, permits, hunting equipment, bag limits, vehicles, and their contents during compliance checks by refuge or State law enforcement officer.
+14. You may leave a temporary tree stand on refuge property starting 1 week before archery season, but you must remove it by the last day of hog season. All tree stands left on the refuge within the hunt season must display the hunter's name and hunting license number legibly written on or attached to the stand. We may seize and dispose of any tree stands not in compliance, according to Federal regulations. You may also use a temporary tree stand during small game season, but you must remove it by the last day of small game season.
 
 15. Hunters must be at their vehicles by 1 hour after legal shooting time.
 
@@ -452,6 +454,8 @@ Lower Suwannee National Wildlife Refuge
 
 3. We prohibit leaving boats on the refuge overnight (see § 27.93 of this chapter).
 
+4. We prohibit the use or possession of alcohol while fishing.
+
 Merritt Island National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of ducks, mergansers, and coots in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
@@ -460,13 +464,13 @@ Merritt Island National Wildlife Refuge
 
 2. You must possess and carry a current, signed Merritt Island National Wildlife Refuge hunt permit (signed brochure, non-transferable) at all times while hunting waterfowl on the refuge.
 
-3. You must carry a valid State-issued Merritt Island Waterfowl Quota Permit (Waterfowl Quota Permit), which can be purchased through the Florida Fish and Wildlife Conservation Commission (FWC) while hunting in areas 1 or 4 from the beginning of the regular waterfowl season through January 31.
+3. You must carry (or hunt within 30 yards of a hunter who possesses) a valid State-issued Merritt Island Waterfowl Quota Permit (Waterfowl Quota Permit), which can be purchased through the Florida Fish and Wildlife Conservation Commission (FWC) while hunting in areas 1 or 4 from the beginning of the regular waterfowl season through the end of January. The Waterfowl Quota Permit can be used for a single party consisting of the permit holder and up to three guests. The permit holder must be present.
 
-4. We allow hunting on Wednesdays, Saturdays, Sundays, and Federal holidays, including Thanksgiving, Christmas, and New Year's Day, that fall within the State's waterfowl season.
+4. During the State's waterfowl season, we allow hunting on Wednesdays, Saturdays, Sundays, and the following Federal holidays: Thanksgiving, Christmas, and New Year's Day.
 
-5. We allow hunting in four designated areas of the refuge as delineated in the refuge hunting regulations map. We prohibit hunters entering the normal or expanded restricted areas of the Kennedy Space Center (KSC).
+5. We allow hunting in four designated areas of the refuge as delineated in the refuge hunting regulations map. We prohibit hunters entering the normal or expanded restricted areas of the Kennedy Space Center (KSC). Merritt Island National Wildlife Refuge and KSC maintain the right to close any portion of the refuge for any length of time. In that case, we will not refund or reissue any permits.
 
-6. We only allow hunting of waterfowl on refuge-established hunt days from1/2 hour before legal sunrise until 12 p.m. (noon). All equipment must be removed by 1 p.m. daily.
+6. We allow hunting of waterfowl on refuge-established hunt days from1/2 hour before legal sunrise until 12 p.m. (noon). Hunters must remove all equipment and check out at the refuge check station prior to 1 p.m. daily.
 
 7. You may enter the refuge no earlier than 4 a.m. for the purpose of waterfowl hunting.
 
@@ -474,15 +478,19 @@ Merritt Island National Wildlife Refuge
 
 9. We require an adult, age 18 or older, to supervise hunters age 15 and younger. The adult must remain within sight and normal voice contact of the youth hunter.
 
+10. We prohibit accessing a hunt area from Black Point Wildlife Drive, Playalinda Beach Road (Beach Road), and Scrub Ridge Trail. We prohibit launching a boat and leaving vehicles parked for hunting purposes on Black Point Wildlife Drive, Playalinda Beach Road (Beach Road), or Scrub Ridge Trail.
+
+11. We prohibit construction of permanent blinds or digging into dikes (see § 27.92 of this chapter).
+
 12. We prohibit hunting or shooting within 25 feet (7.6 meters), or shooting from any portion of, a dike, dirt road, or railroad grade.
 
 13. We prohibit hunting or shooting within 150 yards (135 m) of SR 402, SR 406, any paved road right-of-way, or any road open to vehicle traffic. We prohibit shooting over any dike or roadway.
 
-14. You must stop at posted refuge waterfowl check stations and report statistical hunt information on the Migratory Bird Hunt Report (FWS Form 3-2361) to refuge personnel.
+14. You must leave the refuge by 1 p.m. Prior to that, you must stop at posted refuge waterfowl check stations and report statistical hunt information on the Migratory Bird Hunt Report (FWS Form 3-2361) to refuge personnel.
 
 15. You may not possess more than 25 shells in 1 hunt day.
 
-16. You may only use gasoline, diesel, or electric motors inside the impoundment perimeter ditch.
+16. You may use gasoline or diesel motors only inside the impoundment perimeter ditch. Outside the perimeter ditch, vessels must be propelled by paddling, push pole, or electric trolling motor.
 
 *B. Upland Game Hunting.* [Reserved]
 
@@ -502,7 +510,7 @@ Merritt Island National Wildlife Refuge
 
 7. The refuge is closed between legal sunset and legal sunrise except permitted hunters may access the refuge no earlier than 2 hours before legal sunrise and must leave the refuge no later than 2 hours after legal sunset.
 
-8. You are prohibited from entering the normal or expanded restricted areas of KSC. KSC maintains the right to close any portion of the refuge for any length of time. In that case, we will not refund or reissue any permits.
+8. You are prohibited from entering the normal or expanded restricted areas of KSC. Merritt Island National Wildlife Refuge and KSC maintain the right to close any portion of the refuge for any length of time. In that case, we will not refund or reissue any permits.
 
 9. We prohibit hunting from refuge roads or within 100 yards of roads open to public vehicle traffic or within 200 yards of a building or KSC facility.
 
@@ -516,9 +524,9 @@ Merritt Island National Wildlife Refuge
 
 14. If you use flagging or other trail-marking material, you must print your name or FWC customer number on each piece or marker. You may set out flagging and trail markers up to 2 days prior to the permitted hunt, and you must remove them on the last day of the permitted hunt.
 
-15. We allow legally permitted hunters to scout within their permitted zones up to 7 days prior to their permitted hunts. You must carry your valid Quota Hunt Permit identifying the permitted hunt zone while scouting.
+15. We allow legally permitted hunters to scout within their permitted zones up to 7 days prior to their permitted hunts. You must carry your valid Quota Hunt Permit identifying the permitted hunt zone while scouting. You may not possess hunting weapons while scouting.
 
-16. We allow parking for scouting and/or hunting only along State Road (SR) 3, not within the hunt areas.
+16. We allow parking for scouting and/or hunting only along State Road (SR) 3, but not within the hunt areas or on any road marked as “Area Closed.”
 
 17. You must be on your stand or in your blind while hunting.
 
@@ -534,7 +542,7 @@ Merritt Island National Wildlife Refuge
 
 23. Archery hunters must wear at least 500 square inches (3,226 square centimeters) of solid fluorescent-orange color while moving to and from their vehicles, to their stands or hunting spots, and while tracking or dragging out game.
 
-24. The bag limit and antler requirements for white-tailed deer on the refuge will follow State regulations but will not exceed two deer per hunt. Antlered and antlerless deer are defined per State regulations. It is illegal to take spotted fawns.
+24. The bag limit and antler requirements for white-tailed deer on the refuge will follow State regulations but will not exceed two deer per hunt. We define antlered and antlerless deer according to State regulations.
 
 25. There is no bag limit or size limit for the take of feral hogs.
 
@@ -546,7 +554,7 @@ Merritt Island National Wildlife Refuge
 
 2. We prohibit fishing after legal sunset or before legal sunrise, except that we allow fishing at night from a vessel in the open waters of Mosquito Lagoon, Indian River Lagoon, Banana River, and Haulover Canal.
 
-3. We allow launching of boats for night fishing activities only from Bair's Cove, Beacon 42, and Biolab boat ramps.
+3. You may launch boats for night fishing and boating activities only from Bair's Cove, Beacon 42, and Biolab boat ramps.
 
 4. We prohibit crabbing or fishing from Black Point Wildlife Drive or any side road connected to Black Point Wildlife Drive except from L Pond Road.
 
@@ -558,25 +566,19 @@ Merritt Island National Wildlife Refuge
 
 8. We prohibit use of personal watercraft, kite surfing, kite boarding, wind surfing, sail boarding, use of air thrust boats, and use of hovercraft or any similar non-wildlife oriented watercraft on the refuge or in refuge waters.
 
-9. Vessels must not exceed idle speed in Bairs Cove and KARS Marina.
+9. We prohibit motorized vessels in the Banana River within the posted “No-Motor Zone,” including any vessel having an attached motor or a nonattached motor capable of use (including electric trolling motor).
 
-10. We prohibit motorized vessels in the Banana River within the posted “No-Motor Zone,” including any vessel having an attached motor or a nonattached motor capable of use (including electric trolling motor).
+10. We prohibit fishing within the normal or expanded restricted areas of the KSC, unless those areas are officially designated by KSC as special fishing opportunity sites.
 
-11. We prohibit fishing within the normal or expanded restricted areas of the KSC, unless those areas are officially designated by KSC as special fishing opportunity sites.
+11. We allow vessels drafting 12″ (30 cm) or less (measured while vessel is fully stopped) to be propelled only by poling, paddling, drifting, or electric trolling motors in the established Pole & Troll Zone(s), except in the posted running channels.
 
-12. We allow vessels drafting 12″ (30 cm) or less (measured while vessel is fully stopped) to be propelled only by poling, paddling, drifting, or electric trolling motors in the established Pole & Troll Zone(s), except in the posted running channels.
+12. We prohibit fish cleaning on refuge property.
 
-13. We prohibit fish cleaning on refuge property.
+13. We prohibit fishing from, or in the immediate vicinity of, the Manatee Viewing Deck on the northeast side of Haulover Canal.
 
-14. We prohibit fishing from, or in the immediate vicinity of, the Manatee Viewing Deck on the northeast side of Haulover Canal.
+14. When inside the impoundment perimeter ditch, you may use gasoline or diesel motors. Outside the perimeter ditch, vessels must be propelled by paddling, push pole, or electric trolling motor.
 
-15. We require all commercial fishing guides to purchase, possess, and carry a Special Use Permit (FWS Form 3-1383-C).
-
-16. You may only use gasoline, diesel, or electric motors inside the impoundment perimeter ditch.
-
-17. Persons possessing, transporting, or carrying firearms on National Wildlife Refuges must comply with all provisions of Federal, State, and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and this part 32).
-
-18. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of Federal, State, and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and part 32).
+15. Persons possessing, transporting, or carrying firearms on National Wildlife Refuges must comply with all provisions of Federal, State, and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and this part 32).
 
 Pelican Island National Wildlife Refuge
 
@@ -822,4 +824,4 @@ Ten Thousand Islands National Wildlife Refuge
 
 7. We require all commercial guides operating in the freshwater and brackish marsh area of the refuge to purchase, possess, and carry a refuge Special Use Permit (FWS Form 3-1383).
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6690, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 61 FR 46394, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30781, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46355, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54378, Sept. 8, 2004; 70 FR 54163, Sept. 13, 2005; 73 FR 33168, June 11, 2008; 74 FR 45682, Sept. 3, 2009; 76 FR 3956, Jan. 21, 2011; 76 FR 56066, Sept. 9, 2011; 77 FR 56037, Sept. 11, 2012; 79 FR 14825, Mar. 17, 2014; 80 FR 51894, Aug. 26, 2015; 81 FR 68893, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6690, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 61 FR 46394, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30781, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46355, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54378, Sept. 8, 2004; 70 FR 54163, Sept. 13, 2005; 73 FR 33168, June 11, 2008; 74 FR 45682, Sept. 3, 2009; 76 FR 3956, Jan. 21, 2011; 76 FR 56066, Sept. 9, 2011; 77 FR 56037, Sept. 11, 2012; 79 FR 14825, Mar. 17, 2014; 80 FR 51894, Aug. 26, 2015; 81 FR 68893, Oct. 4, 2016; 82 FR 51950, Nov. 8, 2017]

@@ -1,0 +1,7 @@
+##### § 1301.25 Disclosure of requested information to individuals. #####
+
+(a) All disclosure and examination of records shall normally be made in the presence of a TVA representative. If an individual wishes to be accompanied by a third person of the individual's choosing when the record is disclosed, TVA may require the individual to furnish TVA, in advance of disclosure of the record, a statement signed by the individual authorizing discussion and disclosure of the record in the presence of the accompanying person. If desired by the individual, TVA shall provide copies of any documents reviewed in the record which are requested at the time of review. Fees shall be charged for such copies in accordance with the fee schedule in § 1301.31, and shall be payable prior to delivery of the copies to the individual.
+
+(b) Where permitted by § 1301.24, copies of an individual's record will be made available by mail. A charge for copies will be made in accordance with § 1301.31 of this part. All fees due shall be paid prior to mailing of the materials. However, if TVA is unable to allow in-person review of the record, the first copy will be made available without charge.
+
+[40 FR 45313, Oct. 1, 1975. Redesignated at 44 FR 30682, May 29, 1979, and further redesignated and amended at 82 FR 51757, Nov. 8, 2017]

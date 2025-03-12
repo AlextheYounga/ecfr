@@ -220,7 +220,7 @@ Hillside National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, merganser, coot, and dove on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Each person age 16 and older hunting or fishing must possess a valid T R Complex Annual Public Use Permit card (name/address/phone number).
+1. Each person age 16 and older hunting or fishing must possess a valid Theodore Roosevelt Complex Annual Public Use Permit (name/address/phone number).
 
 2. All youth hunters age 15 and younger must be in the presence and direct supervision of a Mississippi licensed or exempt hunter, age 21 or older. One adult may supervise no more than one youth hunter.
 
@@ -232,7 +232,7 @@ Hillside National Wildlife Refuge
 
 6. It is unlawful to throw, dump, dispose of, or intentionally leave any fish or wildlife, wildlife parts, or waste on the refuge. You must remove all parts from the refuge with the exception of field dressing.
 
-7. We prohibit the use of plastic flagging tape.
+7. We prohibit the use of plastic flagging tape, reflective tacks, and other similar marking devices.
 
 8. Vehicles must be parked in such a manner as not to obstruct roads, gates, turn rows, or fire lanes (see § 27.31(h) of this chapter).
 
@@ -260,7 +260,9 @@ Hillside National Wildlife Refuge
 
 20. There is no early teal season.
 
-21. We allow dove hunting on specified dates and areas within the first and second State seasons. The first two Saturdays of the first season require a Limited Hunt Permit (name/address/phone number) assigned by random computer drawing. At the end of the hunt, you must return the permit with information concerning your hunt. If you fail to return this permit, you will not be eligible for any limited hunts the next year. Contact the refuge headquarters for specific dates and open areas.
+21. Waterfowl hunters are limited to 25 shotshells per person in the field.
+
+22. We allow dove hunting on specified dates and areas within the first and second State seasons. The first two Saturdays of the first season require a Limited Hunt Permit (name/address/phone number) assigned by random computer drawing. At the end of the hunt, you must return the permit with information concerning your hunt. If you fail to return this permit, you will not be eligible for any limited hunts the next year. Contact the refuge headquarters for specific dates and open areas.
 
 *B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -318,7 +320,7 @@ Holt Collier National Wildlife Refuge*A. Migratory Game Bird Hunting.* [Reserved
 
 5. We prohibit possession of alcoholic beverages (see § 32.2(j)).
 
-6. We prohibit the use of plastic flagging tape.
+6. We prohibit the use of plastic flagging tape, reflective tacks, and other similar marking devices.
 
 7. Vehicles should be parked in such a manner as not to obstruct roads, gates, turn rows, or fire lanes (see § 27.31(h) of this chapter).
 
@@ -378,7 +380,7 @@ Holt Collier National Wildlife Refuge*A. Migratory Game Bird Hunting.* [Reserved
 
 6. It is unlawful to throw, dump, dispose of, or intentionally leave any fish or wildlife, wildlife parts, or waste on the refuge. You must remove all parts from the refuge with the exception of field dressing.
 
-7. We prohibit the use of plastic flagging tape.
+7. We prohibit the use of plastic flagging tape, reflective tacks, and other similar marking devices.
 
 8. Vehicles should be parked in such a manner as not to obstruct roads, gates, turn rows, or firelanes (see § 27.31(h) of this chapter).
 
@@ -407,6 +409,8 @@ Holt Collier National Wildlife Refuge*A. Migratory Game Bird Hunting.* [Reserved
 20. We allow hunting during open State season. The first 2 days of the season and all weekends, with the exception of youth weekends, are limited draw hunts. These hunts require a Limited Hunt Permit (name/address/phone number) assigned by random computer drawing. At the end of the hunt, you must return the permit with information concerning your hunt. If you fail to return this permit, you will not be eligible for any limited hunts the next year. Contact refuge headquarters for specific requirements, hunts, and application dates.
 
 21. Beginning the day before duck season opens and ending the last day of duck season, we close refuge waters to all public use from 1 p.m. until 4 a.m.
+
+22. Waterfowl hunters are limited to 25 shotshells per person in the field.
 
 *B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, and raccoon on designated areas in accordance with State regulations and subject to the following conditions:
 
@@ -460,7 +464,7 @@ Morgan Brake National Wildlife Refuge
 
 6. It is unlawful to throw, dump, dispose of, or intentionally leave any fish or wildlife, wildlife parts, or waste on the refuge. You must remove all parts from the refuge with the exception of field dressing.
 
-7. We prohibit the use of plastic flagging tape.
+7. We prohibit the use of plastic flagging tape, reflective tacks, and other similar marking devices.
 
 8. Vehicles should be parked in such a manner as not to obstruct roads, gates, turn rows, or fire lanes (see § 27.31(h) of this chapter).
 
@@ -487,6 +491,8 @@ Morgan Brake National Wildlife Refuge
 19. We allow goose, duck, merganser, and coot hunting beginning 1-2 hour before legal sunrise until 12 p.m. (noon).
 
 20. There is no early teal season.
+
+21. Waterfowl hunters are limited to 25 shotshells per person in the field.
 
 *B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -524,7 +530,7 @@ Morgan Brake National Wildlife Refuge
 
 Panther Swamp National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, merganser, and coot on designated areas of the refuge in accordance with State regulations and subject to the following regulations:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, merganser, coot, and dove on designated areas of the refuge in accordance with State regulations and subject to the following regulations:
 
 1. Each person age 16 and older hunting or fishing must possess a valid T R Complex Annual Public Use Permit (name/address/phone number).
 
@@ -538,7 +544,7 @@ Panther Swamp National Wildlife Refuge
 
 6. It is unlawful to throw, dump, dispose of, or intentionally leave any fish or wildlife, wildlife parts, or waste on the refuge. You must remove all parts from the refuge with the exception of field dressing.
 
-7. We prohibit the use of plastic flagging tape.
+7. We prohibit the use of plastic flagging tape, reflective tacks, and other similar marking devices.
 
 8. Vehicles should be parked in such a manner as not to obstruct roads, gates, turn rows, or fire lanes (see § 27.31(h) of this chapter).
 
@@ -568,6 +574,8 @@ Panther Swamp National Wildlife Refuge
 
 21. During the State Waterfowl season (except early teal season), waterfowl hunting in Unit 1 will be on Monday, Tuesday, and Wednesday. Waterfowl hunting in Unit 2 will be on Friday, Saturday, and Sunday (see refuge brochure for details).
 
+22. Waterfowl hunters are limited to 25 shotshells per person in the field.
+
 *B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. Conditions A1 through A16 and A20 apply.
@@ -595,6 +603,8 @@ Panther Swamp National Wildlife Refuge
 7. We allow only shotguns with approved nontoxic shot (see § 32.2(k)) and archery equipment for turkey hunting.
 
 8. Limited draw hunts require a Limited Hunt Permit (name/address/phone number) assigned by random computer drawing. At the end of the hunt, the permit with information concerning that hunt must be returned to the refuge. Failure to return this permit will disqualify the hunter for any limited hunts the next year.
+
+9. Limited draw hunts for persons with disabilities will be held in November, December, and/or January. We will make hunt dates and permit application procedures (name/address/phone number) available at the Theodore Roosevelt Complex headquarters.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -902,7 +912,7 @@ Yazoo National Wildlife Refuge
 
 6. It is unlawful to throw, dump, dispose or intentionally leave any fish or wildlife, wildlife parts, or waste on the refuge. You must remove all parts from the refuge with the exception of field dressing.
 
-7. We prohibit the use of plastic flagging tape.
+7. We prohibit the use of plastic flagging tape, reflective tacks, and other similar marking devices.
 
 8. Vehicles should be parked in such a manner as not to obstruct roads, gates, turn rows, or fire lanes (see § 27.31(h) of this chapter).
 
@@ -928,7 +938,9 @@ Yazoo National Wildlife Refuge
 
 19. We allow goose, duck, merganser, and coot hunting beginning1/2 hour before legal sunrise until 12 p.m. (noon).
 
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+20. Waterfowl hunters are limited to 25 shotshells per person in the field.
+
+*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. Conditions A1 through A16 apply.
 
@@ -940,7 +952,7 @@ Yazoo National Wildlife Refuge
 
 5. We allow rabbit hunting on the Brown Tract.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. Conditions A1 through A16, and B4 apply.
 
@@ -958,4 +970,4 @@ Yazoo National Wildlife Refuge
 
 8. We allow archery deer hunting on the Brown Tract.
 
-*D. Sport Fishing.* [Reserved][58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6694, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 61 FR 45367, Aug. 29, 1996; 61 FR 46396, Sept. 3, 1996; 62 FR 47379, Sept. 9, 1997; 63 FR 46917, Sept. 3, 1998; 65 FR 30785, May 12, 2000; 66 FR 46358, Sept. 4, 2001; 68 FR 57317, Oct. 2, 2003; 69 FR 54362, 54418, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54182, Sept. 13, 2005; 73 FR 33186, June 11, 2008; 74 FR 45692, Sept. 3, 2009; 75 FR 18421, Apr. 12, 2010; 76 FR 3980, Jan. 21, 2011; 76 FR 56078, Sept. 9, 2011; 77 FR 56047 , Sept. 11, 2012; 80 FR 51914, Aug. 26, 2015; 81 FR 68906, Oct. 4, 2016]
+*D. Sport Fishing.* [Reserved][58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6694, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 61 FR 45367, Aug. 29, 1996; 61 FR 46396, Sept. 3, 1996; 62 FR 47379, Sept. 9, 1997; 63 FR 46917, Sept. 3, 1998; 65 FR 30785, May 12, 2000; 66 FR 46358, Sept. 4, 2001; 68 FR 57317, Oct. 2, 2003; 69 FR 54362, 54418, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54182, Sept. 13, 2005; 73 FR 33186, June 11, 2008; 74 FR 45692, Sept. 3, 2009; 75 FR 18421, Apr. 12, 2010; 76 FR 3980, Jan. 21, 2011; 76 FR 56078, Sept. 9, 2011; 77 FR 56047 , Sept. 11, 2012; 80 FR 51914, Aug. 26, 2015; 81 FR 68906, Oct. 4, 2016; 82 FR 51956, Nov. 8, 2017]

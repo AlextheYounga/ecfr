@@ -4,25 +4,29 @@ The following refuge units have been opened for hunting and/or fishing, and are 
 
 Benton Lake National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, swan, and coot in designated areas of the refuge in accordance with State regulations subject to the following conditions (consult refuge manager prior to hunting to learn of changes or updates):
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, swan, and coot in designated areas of the refuge in accordance with State regulations and subject to the following conditions (consult refuge manager prior to hunting to learn of changes or updates):
 
-1. We prohibit access to refuge hunting areas from other than authorized refuge parking areas. We prohibit hunting on or within 25 yards (22.5 m) of dikes or roads except the marked portion of the dike between Marsh Units 5 and 6. Hunters must have a means of bird retrieval, using a boat, boots, or a trained dog, while hunting on this dike (see § 26.21(b) of this chapter).
+1. We allow hunters to enter and remain in open hunting areas 2 hours before legal sunrise until 2 hours after legal sunset.
 
-2. We allow hunting with the opening of waterfowl season and close November 30.
+2. We prohibit hunting on or within 25 yards (22.5 meters) of dikes or roads except the marked portion of the dike between Marsh Units 5 and 6.
 
-3. We allow hunting during youth waterfowl hunts in accordance with State regulations.
+3. We prohibit access to refuge hunting areas from other than authorized refuge parking areas.
 
-4. Hunters with a documented mobility disability may reserve an accessible blind in advance by contacting a refuge officer or calling the refuge office.
+4. We allow hunting with the opening of waterfowl season and close November 30.
 
-5. We only allow nonmotorized boats on refuge waters.
+5. We allow hunting during youth waterfowl and pheasant hunts in accordance with State regulations.
 
 6. We allow hunting from temporary portable blinds or blinds made from natural vegetation.
 
 7. We prohibit the retrieval of downed game from areas closed to hunting.
 
+8. Hunters must have a means of bird retrieval, using a boat, waders, or a trained dog (see § 26.21(b) of this chapter).
+
+9. You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+
 *B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, and gray partridge in designated areas of the refuge in accordance with State regulations subject to the following conditions (consult refuge manager prior to hunting to learn of changes or updates):
 
-1. Conditions A2 and A7 apply.
+1. Conditions A1 and A8 apply.
 
 2. We prohibit access to refuge hunting areas from other than authorized refuge parking areas.
 
@@ -36,25 +40,13 @@ Benton Lake National Wildlife Refuge
 
 Benton Lake Wetland Management District
 
-*A. Migratory Game Bird Management.* We allow migratory game bird hunting on Waterfowl Production Areas (WPA) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow migratory game bird hunting on Waterfowl Production Areas (WPA) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-1. We prohibit the use of motorboats.
+*B. Upland Game Hunting.* We allow the hunting of coyotes, skunks, red fox, raccoons, hares, rabbits, and tree squirrels on Waterfowl Production Areas (WPAs) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: Hunters may possess only approved nontoxic shot (see § 32.2(k)).
 
-2. You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+*C. Big Game Hunting.* We allow big game hunting on WPAs throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations.
 
-*B. Upland Game Hunting.* We allow the hunting of coyotes, skunks, red fox, raccoons, hares, rabbits, and tree squirrels on Waterfowl Production Areas (WPAs) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following conditions:
-
-1. Hunters may possess only approved nontoxic shot (see § 32.2(k)).
-
-2. We prohibit the use of horses for any purposes.
-
-*C. Big Game Hunting.* We allow big game hunting on WPAs throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: Condition B2 applies.
-
-*D. Sport Fishing.* We allow sport fishing on WPAs throughout the District in accordance with State regulations subject to the following conditions:
-
-1. Condition A1 applies.
-
-2. You must remove boats, fishing equipment, and other personal property at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+*D. Sport Fishing.* We allow sport fishing on WPAs throughout the District in accordance with State regulations subject to the following condition: You must remove boats, fishing equipment, and other personal property at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
 Black Coulee National Wildlife Refuge
 
@@ -598,4 +590,4 @@ War Horse National Wildlife Refuge
 
 *D. Sport Fishing.* Refuge open to sport fishing in accordance with State law, and as specifically designated in refuge publications.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 62 FR 47379, Sept. 9, 1997; 63 FR 46918, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 67 FR 58946, Sept. 18, 2002; 69 FR 54362, 54427, Sept. 8, 2004; 70 FR 54182, Sept. 13, 2005; 73 FR 33189, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 77 FR 56051, Sept. 11, 2012;79 FR 14832, Mar. 17, 2014]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 62 FR 47379, Sept. 9, 1997; 63 FR 46918, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 67 FR 58946, Sept. 18, 2002; 69 FR 54362, 54427, Sept. 8, 2004; 70 FR 54182, Sept. 13, 2005; 73 FR 33189, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 77 FR 56051, Sept. 11, 2012;79 FR 14832, Mar. 17, 2014; 82 FR 51956, Nov. 8, 2017]

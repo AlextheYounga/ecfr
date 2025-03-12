@@ -1,6 +1,6 @@
 ##### 22.000 Scope of Part. #####
 
-This part -
+This part—
 
 (a) Deals with general policies regarding contractor labor relations as they pertain to the acquisition process;
 
