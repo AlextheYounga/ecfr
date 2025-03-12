@@ -1,5 +1,7 @@
 ##### § 319.75-1 Definitions. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 Terms used in the singular form in this subpart shall be construed as the plural, and vice-versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any employee of the United States Department of Agriculture delegated to act in his or her stead.

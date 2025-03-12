@@ -1,6 +1,6 @@
 ##### § 105.405 Format and content of the Facility Security Plan (FSP). #####
 
-Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
+Link to an amendment published at 81 FR 57713, Aug. 23, 2016.Link to an amendment published at 83 FR 12102, Mar. 19, 2018.
 
 (a) A facility owner or operator must ensure that the FSP consists of the individual sections listed in this paragraph (a). If the FSP does not follow the order as it appears in the list, the facility owner or operator must ensure that the FSP contains an index identifying the location of each of the following sections:
 

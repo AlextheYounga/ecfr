@@ -131,7 +131,7 @@
 
 (4) If adjustable quotas are established for treaty Indian fishing, they may be subject to inseason adjustment because of unanticipated Chinook or coho hooking mortality occurring during the season, catches in treaty Indian fisheries inconsistent with those unanticipated under Federal regulations, or a need to redistribute quotas to ensure attainment of an overall quota.
 
-(m) *Yurok and Hoopa Valley tribal fishing rights.* For purposes of section 303 of the Magnuson Act, the federally reserved fishing rights of the Yurok and Hoopa Valley Indian Tribes as set out in a legal opinion2/\> dated October 4, 1993, by the Office of the Solicitor, Department of the Interior, are applicable law. Under section 303 of the Magnuson Act, allowable ocean harvest must be consistent with all applicable laws.
+(m) *Yurok and Hoopa Valley tribal fishing rights.* For purposes of section 303 of the Magnuson Act, the federally reserved fishing rights of the Yurok and Hoopa Valley Indian Tribes as set out in a legal opinion2 dated October 4, 1993, by the Office of the Solicitor, Department of the Interior, are applicable law. Under section 303 of the Magnuson Act, allowable ocean harvest must be consistent with all applicable laws.
 
 2 Copies of the Solicitor's Opinion are available from the Director, Southwest Region, NMFS.
 

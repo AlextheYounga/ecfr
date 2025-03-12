@@ -1,5 +1,7 @@
 ##### § 4.06-3 Requirements for alcohol and drug testing following a serious marine incident. #####
 
+Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
+
 When a marine employer determines that a casualty or incident is, or is likely to become, an SMI, the marine employer must ensure that the following alcohol and drug testing is conducted:
 
 (a) *Alcohol testing.* (1) Alcohol testing must be conducted on each individual engaged or employed on board the vessel who is directly involved in the SMI.

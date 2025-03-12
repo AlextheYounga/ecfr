@@ -1,5 +1,7 @@
 ##### § 319.55 Notice of quarantine. #####
 
+Link to an amendment published at 83 FR 11865, Mar. 19, 2018.
+
 (a) The fact has been determined by the Secretary of Agriculture, and notice is hereby given, (1) that injurious fungous diseases of rice, including downy, mildew (Sclerospora macrospora), leaf smut (Entyloma oryzae), blight (Oospora oryzetorum), and glume blotch (Melanomma glumarum), as well as dangerous insect pests, new to and not heretofore widely prevalent or distributed within and throughout the United States, exist, as to one or more of such diseases and pests, in Europe, Asia, Africa, Central America, South America, and other foreign countries and localities, and may be introduced into this country through importations of seed or paddy rice, rice straw, and rice hulls, and (2) that the unrestricted importation of seed or paddy rice from the Republic of Mexico and of rice straw and rice hulls from all foreign countries and localities may result in the entry into the United States of the injurious plant diseases heretofore enumerated, as well as insect pests.
 
 (b) To prevent the introduction into the United States of the plant pests and diseases indicated above, the Secretary has determined that it is necessary to prohibit the importation into the United States of seed or paddy rice from all foreign locations except the Republic of Mexico and to restrict the importation of seed or paddy rice, rice straw, and rice hulls from the Republic of Mexico and all other foreign locations, except as otherwise provided in this subpart.

@@ -1,5 +1,7 @@
 ##### § 4.05-12 Alcohol or drug use by individuals directly involved in casualties. #####
 
+Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
+
 (a) For each marine casualty required to be reported by § 4.05-10, the marine employer shall determine whether there is any evidence of alcohol or drug use by individuals directly involved in the casualty.
 
 (b) The marine employer shall include in the written report, Form CG-2692, submitted for the casualty information which:

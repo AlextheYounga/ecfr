@@ -1,5 +1,7 @@
 ##### § 319.75 Restrictions on importation of regulated articles; disposal of articles refused importation. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 (a) The Secretary has determined that in order to prevent the entry into the United States of khapra beetle (*Trogoderma granarium* Everts) it is necessary to restrict the importation of certain articles from foreign countries and localities. Accordingly, no person shall import any regulated article unless in conformity with all of the applicable restrictions in this subpart.
 
 (b) Any article refused importation for noncompliance with the requirements of this subpart shall be promptly removed from the United States or abandoned by the importer, and pending such action shall be subject to the immediate application of such safeguards against escape of plant pests as the inspector determines necessary to prevent the introduction into the United States of plant pests. If the article is not promptly safeguarded, removed from the United States, or abandoned by the importer for destruction, it may be seized, destroyed, or otherwise disposed of in accordance with section 414 of the Plant Protection Act (7 U.S.C. 7714).

@@ -1,5 +1,7 @@
 ##### § 319.6 Controlled import permits. #####
 
+Link to an amendment published at 83 FR 11855, Mar. 19, 2018.
+
 (a) *Definitions.*
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any employee of the United States Department of Agriculture delegated to act in his or her stead.

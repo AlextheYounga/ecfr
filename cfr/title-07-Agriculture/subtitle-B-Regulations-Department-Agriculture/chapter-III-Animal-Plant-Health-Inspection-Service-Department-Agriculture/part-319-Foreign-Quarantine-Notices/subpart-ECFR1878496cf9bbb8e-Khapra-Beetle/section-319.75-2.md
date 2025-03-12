@@ -1,5 +1,7 @@
 ##### § 319.75-2 Regulated articles.1 #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 1 The importation of regulated articles may be subject to prohibitions or additional restrictions under other provisions of 7 CFR part 319, such as Subpart - Foreign Cotton and Covers (see § 319.8) and Subpart - Fruits and Vegetables (see § 319.56).
 
 (a) The following articles are regulated articles from all countries designated in accordance with paragraph (c) of this section as infested with khapra beetle and are subject to mandatory treatment in accordance with § 319.75-4:

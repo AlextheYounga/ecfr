@@ -1,5 +1,7 @@
 ##### § 4.06-60 Submission of reports and test results. #####
 
+Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
+
 (a) Whenever an individual engaged or employed on a vessel is identified as being directly involved in a serious marine incident, the marine employer shall complete Form CG-2692B (Report of Required Chemical Drug and Alcohol Testing Following a Serious Marine Incident).
 
 (b) When the serious marine incident requires the submission of Form CG-2692 (Report of Marine Casualty, Injury or Death) to the Coast Guard in accordance with § 4.05-10, the report required by paragraph (a) of this section shall be appended to Form CG-2692.

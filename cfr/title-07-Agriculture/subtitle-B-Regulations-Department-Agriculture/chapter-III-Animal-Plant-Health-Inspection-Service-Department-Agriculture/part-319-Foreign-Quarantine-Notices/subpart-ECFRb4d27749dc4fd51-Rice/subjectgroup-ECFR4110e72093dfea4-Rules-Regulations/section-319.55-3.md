@@ -1,5 +1,7 @@
 ##### § 319.55-3 Ports of entry. #####
 
+Link to an amendment published at 83 FR 11865, Mar. 19, 2018.
+
 (a) For importations of seed or paddy rice from the Republic of Mexico, permits will be issued for entry through Mexican border ports and such other ports as may later be approved by the Plant Protection and Quarantine Programs.
 
 (b) For importations of rice straw and rice hulls from all foreign countries, permits will be issued for entry at New York and Boston and at such other ports as may later be approved by the Plant Protection and Quarantine Programs.

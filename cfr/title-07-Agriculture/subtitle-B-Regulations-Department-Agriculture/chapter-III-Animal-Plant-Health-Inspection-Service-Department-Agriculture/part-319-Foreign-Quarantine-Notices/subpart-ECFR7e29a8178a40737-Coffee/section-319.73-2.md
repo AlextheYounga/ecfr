@@ -1,5 +1,7 @@
 ##### § 319.73-2 Products prohibited importation. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 (a) To prevent the spread of the coffee berry borer *Hypothenemus hampei* (Ferrari) and the fungus *Hemileia vastatrix* (Berkely and Broome), which causes an injurious rust disease, the following articles are prohibited importation into Hawaii and Puerto Rico, except as provided in § 319.73-3 of this subpart:
 
 (1) Unroasted coffee;

@@ -45,11 +45,10 @@ in an Onsite FGIS Laboratory<sup>1</sup>
 
 <sup>5</sup> Tonnage fee is assessed on export grain inspected and/or weighed, excluding land carrier shipments to Canada and Mexico.
 
-Table 2 of Schedule A - Services Performed at Other Than an Applicant's Facility in an FGIS Laboratory 1 2
+Table 2 of Schedule A - Services Performed at Other Than an Applicant's Facility in an FGIS Laboratory<sup>1 2</sup>
 
-|                                                                                                                                                                      |      |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 |                                                       (i) Original Inspection and Weighing (Class X) Services:                                                       |      |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
 |                                                  (A) Sampling only (use hourly rates from Table 1 of this section)                                                   |      |
 |                                                    (B) Stationary lots (sampling, grade/factor, & check loading):                                                    |      |
 |                                                              (1) Truck/trailer/container (per carrier)                                                               |$20.30|
@@ -132,12 +131,12 @@ Table 3 of Schedule A - Miscellaneous Services<sup>1</sup>
 |                                                                        (v) Online customized data service:                                                                         |           |
 |                                                                       (A) One data file per week for 1 year                                                                        |  502.90   |
 |                                                                       (B) One data file per month for 1 year                                                                       |  301.80   |
-|                                                              (v) Samples provided to interested parties (per sample)                                                               |   3.10    |
-|                                                                  (vi) Divided-lot certificates (per certificate)                                                                   |   2.00    |
-|                                                                (vii) Extra copies of certificates (per certificate)                                                                |   2.00    |
-|                                                                              (viii) Faxing (per page)                                                                              |   2.00    |
-|                                                                                (ix) Special mailing                                                                                |Actual Cost|
-|                                   (x) Preparing certificates onsite or during other than normal business hours (use hourly rates from Table 1).                                    |           |
+|                                                              (vi) Samples provided to interested parties (per sample)                                                              |   3.10    |
+|                                                                  (vii) Divided-lot certificates (per certificate)                                                                  |   2.00    |
+|                                                               (viii) Extra copies of certificates (per certificate)                                                                |   2.00    |
+|                                                                               (ix) Faxing (per page)                                                                               |   2.00    |
+|                                                                                (x) Special mailing                                                                                 |Actual Cost|
+|                                   (xi) Preparing certificates onsite or during other than normal business hours (use hourly rates from Table 1).                                   |           |
 
 <sup>1</sup> Any requested service that is not listed will be performed at $64.40 per hour.
 
@@ -175,4 +174,4 @@ Table 3 of Schedule A - Miscellaneous Services<sup>1</sup>
 
 (3) *Scale testing organizations.* If you submit an application to operate as a scale testing organization, you must pay $250.00.
 
-[81 FR 49860, July 29, 2016, as amended at 81 FR 96340, Dec. 30, 2016; 83 FR 6453, Feb. 14, 2018]
+[81 FR 49860, July 29, 2016, as amended at 81 FR 96340, Dec. 30, 2016; 83 FR 6453, Feb. 14, 2018; 83 FR 11633, Mar. 16, 2018]

@@ -6,7 +6,7 @@
 
 Note to paragraph (a)(1):
 
-As of December 21, 2017, IEEPA provides for a maximum civil penalty not to exceed the greater of $289,238 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+IEEPA provides for a maximum civil penalty not to exceed the greater of $295,141 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (2) A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -17,3 +17,5 @@ As of December 21, 2017, IEEPA provides for a maximum civil penalty not to excee
 (c) Pursuant to 18 U.S.C. 1001, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; or makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry shall be fined under title 18, United States Code, imprisoned, or both.
 
 (d) Violations of this part may also be subject to other applicable laws.
+
+[82 FR 60508, Dec. 21, 2017, as amended at 83 FR 11880, Mar. 19, 2018]

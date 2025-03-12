@@ -1,5 +1,7 @@
 ##### § 319.59-4 Karnal bunt. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 (a) *Regulated articles.* The following are regulated articles for Karnal bunt:
 
 (1) Conveyances, including trucks, railroad cars, and other containers used to move host crops from a region listed in paragraph (b)(1) of this section that test positive for Karnal bunt through the presence of bunted kernels;

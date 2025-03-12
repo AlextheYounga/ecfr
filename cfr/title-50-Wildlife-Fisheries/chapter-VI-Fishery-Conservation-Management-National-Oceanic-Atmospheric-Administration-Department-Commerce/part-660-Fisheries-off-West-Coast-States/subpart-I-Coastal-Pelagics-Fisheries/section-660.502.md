@@ -1,7 +1,5 @@
 ##### § 660.502 Definitions. #####
 
-Link to an amendment published at 83 FR 6473, Feb. 14, 2018.
-
 In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:
 
 *Actively managed species* (AMS) means those CPS for which the Secretary has determined that harvest guidelines or quotas are needed by Federal management according to the provisions of the FMP.
@@ -56,7 +54,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of t
 
 *Reduction fishery* means fishing for CPS for the purposes of conversion into fish flour, fish meal, fish scrap, fertilizer, fish oil, other fishery products, or byproducts for purposes other than direct human consumption.
 
-*Regional Administrator* means the Regional Administrator, Southwest Region, NMFS, 501 W. Ocean Boulevard, Suite 4200, Long Beach, CA 90802-4213, or a designee.
+*Regional Administrator* means the Regional Administrator, West Coast Region, NMFS,
+501 W. Ocean Boulevard, Suite 4200, Long Beach, CA 90802-4213, or a designee.
 
 *Reserve* means a portion of the harvest guideline or quota set aside at the beginning of the year for specific purposes, such as for individual harvesting groups to ensure equitable distribution of the resource or to allow for uncertainties in preseason estimates of DAP and JVP.
 
@@ -66,4 +65,4 @@ In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of t
 
 *Trip limit* means the total allowable amount of a CPS species by weight or by percentage of weight of fish on board the vessel that may be taken and retained, possessed, or landed from a single fishing trip by a vessel that harvests CPS.
 
-[64 FR 69893, Dec. 15, 1999, as amended at 68 FR 3822, Jan. 27, 2003; 71 FR 37001, June 29, 2006; 74 FR 33373, July 13, 2009; 76 FR 70363, Nov. 14, 2011]
+[64 FR 69893, Dec. 15, 1999, as amended at 68 FR 3822, Jan. 27, 2003; 71 FR 37001, June 29, 2006; 74 FR 33373, July 13, 2009; 76 FR 70363, Nov. 14, 2011; 83 FR 6473, Feb. 14, 2018]

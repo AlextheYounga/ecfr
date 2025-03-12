@@ -1,5 +1,7 @@
 ##### § 340.4 Permits for the introduction of a regulated article.6 #####
 
+Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
+
 6 See footnote 5 in § 340.3.
 
 (a) *Application for permit.* Two copies of a written application for a permit to introduce a regulated article, which may be obtained from APHIS, shall be submitted by the responsible person to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Biotechnology and Scientific Services, Biotechnology Permits, 4700 River Road, Unit 147, Riverdale, Maryland 20737-1237. If there are portions of the application deemed to contain trade secret or confidential business information (CBI), each page of the application containing such information should be marked “CBI Copy”. In addition, those portions of the application which are deemed “CBI” shall be so designated. The second copy shall have all such CBI deleted and shall be marked on each page of the application where CBI was deleted, “CBI Deleted”. If an application does not contain CBI then the first page of both copies shall be marked “No CBI”.

@@ -1,5 +1,7 @@
 ##### § 319.40-2 General prohibitions and restrictions; relation to other regulations. #####
 
+Link to an amendment published at 83 FR 11865, Mar. 19, 2018.
+
 (a) *Permit required.* Except for regulated articles exempted from this requirement by paragraph (c) of this section or § 319.40-3, no regulated article may be imported unless a specific permit has been issued for importation of the regulated article in accordance with § 319.40-4, and unless the regulated article meets all other applicable requirements of this subpart and any requirements specified by APHIS in the specific permit.
 
 (b) *Importer document; documentation of type, quantity, and origin of regulated articles.* Except for regulated articles exempted from this requirement by paragraph (c) of this section or § 319.40-3, no regulated article may be imported unless it is accompanied by an importer document stating the following information. A certificate that contains this information may be used in lieu of an importer document at the option of the importer:

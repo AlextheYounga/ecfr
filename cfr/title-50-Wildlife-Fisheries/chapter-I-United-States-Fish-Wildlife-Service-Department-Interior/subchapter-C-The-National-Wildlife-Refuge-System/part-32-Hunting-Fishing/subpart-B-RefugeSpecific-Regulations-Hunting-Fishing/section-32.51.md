@@ -288,74 +288,6 @@ Target Rock National Wildlife Refuge
 
 *D. Sport Fishing.* Anglers may fish in Huntington Bay from the refuge shoreline when the refuge is open to visitors. All fishing is in accordance with state regulations.
 
-Wertheim National Wildlife Refuge
-
-*A. Migratory Game Bird Hunting.* [Reserved]
-
-*B. Upland Game Hunting.* [Reserved]
-
-*C. Big Game Hunting.* We allow hunting of white-tailed deer within designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. We allow archery and shotgun hunting of white-tailed deer within portions of the refuge during specific days between October 1 and January 31.
-
-2. We require refuge permits. We limit the number of deer hunters permitted to hunt on the refuge. We will issue permits by random selection.
-
-3. You must take the specified number of antlerless deer as noted in the refuge hunting regulations before taking an antlered deer.
-
-4. You must have all applicable and valid hunting licenses, permits, stamps, and a photographic identification in your possession while hunting on the refuge.
-
-5. You must limit driving to designated access roads and park only in designated areas. We prohibit use of motorized vehicles on the refuge to retrieve white-tailed deer.
-
-6. You must display refuge parking permits face up on the vehicle dashboard while hunting.
-
-7. We allow hunters to enter the refuge 1 hour before legal hunting hours, and they must leave the refuge no later than 1 hour after legal hunting hours.
-
-8. We prohibit the use of dogs to hunt or pursue game. We prohibit driving deer by any means.
-
-9. We prohibit shooting directly into the 500-foot (150-m) “No Hunt Buffer.”
-
-10. We prohibit the killing or crippling of any deer without the hunter making reasonable effort to retrieve the deer and retain it in his or her custody.
-
-11. If assigned to Unit 5, hunters must hunt from portable tree stands and must direct aim away from public roads and private dwellings.
-
-12. We allow only shotgun shells loaded with slugs during the firearms season.
-
-13. Hunters must wear a minimum of 400 square inches (2,600 cm2) of solid-orange clothing, visible on head, chest, and back during the firearms season. Camouflage orange does not qualify because it is not solid.
-
-14. We prohibit construction or use of any type of structure while hunting. We prohibit driving nails, spikes, screws, or other metal objects into any tree or hunting from any tree into which a nail, spike, screw, or other object has been driven (see § 32.2(i)).
-
-15. We allow use of temporary or portable tree stands while hunting deer. You must clearly print your name and address on the stand. You must remove all stands or any blinds at the end of each hunt session (see § 27.93 of this chapter).
-
-16. You must report all serious accidents and injuries to refuge personnel as soon as possible and before leaving the refuge.
-
-17. Failure to comply with Federal, State, or refuge regulations may lead to dismissal from the refuge and elimination of participation in future hunts.
-
-18. Hunters must abide by all rules and regulations listed on the hunting permit.
-
-19. We prohibit the use of any bait, salt, or enticement (see § 32.2(h)).
-
-20. A nonhunting adult possessing a valid New York State hunting license must accompany junior hunters (ages 14 and 15).
-
-21. We prohibit the marking of any tree, trail, or other refuge feature with flagging, paint, reflective material, or any other substance.
-
-22. You must use a safety harness and belt while hunting from a tree stand.
-
-23. We allow scouting of hunting areas on the refuge only during designated times and days. We allow only permitted hunters to scout. We prohibit the use of dogs during scouting.
-
-24. We prohibit the use of electronic calls during any hunting season.
-
-25. We prohibit the trimming or cutting of branches larger than the diameter of a quarter.
-
-*D. Sport Fishing.* Fishing is permitted on designated areas of the refuge subject to the following conditions:
-
-1. Shore and boat fishing is permitted on that portion of the Carmans River between Sunrise and Montauk Highways.
-
-2. Only boat fishing is permitted from Montauk Highway south to the mouth of the Carmans River.
-
-3. Fishing is permitted only during daylight hours.
-
-4. Spearfishing and taking of baitfish and frogs is not permitted.
-
 Wallkill National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of migratory birds on designated areas of the refuge in accordance with State of New York regulations and subject to the following conditions:
@@ -431,5 +363,73 @@ Wallkill National Wildlife Refuge
 7. We prohibit the digging or collecting of bait.
 
 8. We prohibit commercial fishing on the refuge.
+
+Wertheim National Wildlife Refuge
+
+*A. Migratory Game Bird Hunting.* [Reserved]
+
+*B. Upland Game Hunting.* [Reserved]
+
+*C. Big Game Hunting.* We allow hunting of white-tailed deer within designated areas of the refuge in accordance with State regulations subject to the following conditions:
+
+1. We allow archery and shotgun hunting of white-tailed deer within portions of the refuge during specific days between October 1 and January 31.
+
+2. We require refuge permits. We limit the number of deer hunters permitted to hunt on the refuge. We will issue permits by random selection.
+
+3. You must take the specified number of antlerless deer as noted in the refuge hunting regulations before taking an antlered deer.
+
+4. You must have all applicable and valid hunting licenses, permits, stamps, and a photographic identification in your possession while hunting on the refuge.
+
+5. You must limit driving to designated access roads and park only in designated areas. We prohibit use of motorized vehicles on the refuge to retrieve white-tailed deer.
+
+6. You must display refuge parking permits face up on the vehicle dashboard while hunting.
+
+7. We allow hunters to enter the refuge 1 hour before legal hunting hours, and they must leave the refuge no later than 1 hour after legal hunting hours.
+
+8. We prohibit the use of dogs to hunt or pursue game. We prohibit driving deer by any means.
+
+9. We prohibit shooting directly into the 500-foot (150-m) “No Hunt Buffer.”
+
+10. We prohibit the killing or crippling of any deer without the hunter making reasonable effort to retrieve the deer and retain it in his or her custody.
+
+11. If assigned to Unit 5, hunters must hunt from portable tree stands and must direct aim away from public roads and private dwellings.
+
+12. We allow only shotgun shells loaded with slugs during the firearms season.
+
+13. Hunters must wear a minimum of 400 square inches (2,600 cm2) of solid-orange clothing, visible on head, chest, and back during the firearms season. Camouflage orange does not qualify because it is not solid.
+
+14. We prohibit construction or use of any type of structure while hunting. We prohibit driving nails, spikes, screws, or other metal objects into any tree or hunting from any tree into which a nail, spike, screw, or other object has been driven (see § 32.2(i)).
+
+15. We allow use of temporary or portable tree stands while hunting deer. You must clearly print your name and address on the stand. You must remove all stands or any blinds at the end of each hunt session (see § 27.93 of this chapter).
+
+16. You must report all serious accidents and injuries to refuge personnel as soon as possible and before leaving the refuge.
+
+17. Failure to comply with Federal, State, or refuge regulations may lead to dismissal from the refuge and elimination of participation in future hunts.
+
+18. Hunters must abide by all rules and regulations listed on the hunting permit.
+
+19. We prohibit the use of any bait, salt, or enticement (see § 32.2(h)).
+
+20. A nonhunting adult possessing a valid New York State hunting license must accompany junior hunters (ages 14 and 15).
+
+21. We prohibit the marking of any tree, trail, or other refuge feature with flagging, paint, reflective material, or any other substance.
+
+22. You must use a safety harness and belt while hunting from a tree stand.
+
+23. We allow scouting of hunting areas on the refuge only during designated times and days. We allow only permitted hunters to scout. We prohibit the use of dogs during scouting.
+
+24. We prohibit the use of electronic calls during any hunting season.
+
+25. We prohibit the trimming or cutting of branches larger than the diameter of a quarter.
+
+*D. Sport Fishing.* Fishing is permitted on designated areas of the refuge subject to the following conditions:
+
+1. Shore and boat fishing is permitted on that portion of the Carmans River between Sunrise and Montauk Highways.
+
+2. Only boat fishing is permitted from Montauk Highway south to the mouth of the Carmans River.
+
+3. Fishing is permitted only during daylight hours.
+
+4. Spearfishing and taking of baitfish and frogs is not permitted.
 
 [58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6695, Feb. 11, 1994; 60 FR 62045, Dec. 4, 1995; 63 FR 46919, Sept. 3, 1998; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 69 FR 54362, 54434, Sept. 8, 2004; 70 FR 54184, Sept. 13, 2005; 73 FR 33193, June 11, 2008; 74 FR 45694, Sept. 3, 2009; 77 FR 56053, Sept. 11, 2012; 79 FR 14836, Mar. 17, 2014; 80 FR 51924, Aug. 26, 2015; 81 FR 68912, Oct. 4, 2016; 82 FR 51957, Nov. 8, 2017]

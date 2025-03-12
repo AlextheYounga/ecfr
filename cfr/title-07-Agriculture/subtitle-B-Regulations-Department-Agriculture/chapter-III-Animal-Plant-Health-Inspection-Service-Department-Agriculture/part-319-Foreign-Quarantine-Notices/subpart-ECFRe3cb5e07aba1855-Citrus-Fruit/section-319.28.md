@@ -1,5 +1,7 @@
 ##### § 319.28 Notice of quarantine. #####
 
+Link to an amendment published at 83 FR 11856, Mar. 19, 2018.
+
 (a)(1) To prevent the introduction into the United States of citrus canker disease *Xanthomonas campestris* pv. *citri* (Hasse) Dye, the importation of all fruits and peel of all genera, species, and varieties of the subfamilies *Aurantioideae, Rutoideae,* and *Toddalioideae* of the botanical family *Rutaceae* from eastern and southeastern Asia (including India, Myanmar, Sri Lanka, Thailand, Indochina, and the People's Republic of China); the Malay Archipelago; the Philippine Islands; Oceania (except Australia and Tasmania); Japan and adjacent islands; the Republic of Korea; Mauritius; Seychelles; Argentina; Brazil; and Paraguay is prohibited.
 
 (2) To prevent the introduction into the United States of sweet orange scab (*Elsinoe australis* Bitanc. and Jenkins), the importation of fruits and peel of all species and varieties of the genus *Citrus,* including *Citrus aurantifolia* (Christm.) Swingle, *C. aurantium* L., *C. hystrix* DC., *C. limon* (L.) Burm. f., *C. paradisi* Macf., *C. reticulata* Blanco, *C. sinensis* (L.) Osbeck, and *Fortunella margarita* (Lour.) Swingle, from Brazil, Paraguay, and Uruguay is prohibited.

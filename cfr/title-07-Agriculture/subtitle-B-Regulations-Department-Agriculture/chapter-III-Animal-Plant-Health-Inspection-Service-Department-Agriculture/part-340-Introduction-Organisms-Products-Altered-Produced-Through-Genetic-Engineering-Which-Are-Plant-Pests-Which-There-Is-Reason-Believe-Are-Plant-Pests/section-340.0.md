@@ -1,5 +1,7 @@
 ##### § 340.0 Restrictions on the introduction of regulated articles. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 (a) No person shall introduce any regulated article unless the Administrator is:
 
 (1) Notified of the introduction in accordance with § 340.3, or such introduction is authorized by permit in accordance with § 340.4, or such introduction is conditionally exempt from permit requirements under § 340.2(b); and

@@ -1,5 +1,7 @@
 ##### § 4.05-1 Notice of marine casualty. #####
 
+Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
+
 (a) Immediately after the addressing of resultant safety concerns, the owner, agent, master, operator, or person in charge, shall notify the nearest Sector Office, Marine Inspection Office or Coast Guard Group Office whenever a vessel is involved in a marine casualty consisting in -
 
 (1) An unintended grounding, or an unintended strike of (allision with) a bridge;

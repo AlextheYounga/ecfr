@@ -1,5 +1,7 @@
 ##### § 319.59-2 General import prohibitions; exceptions. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 (a) Except as provided in paragraph (b) of this section, importation of *Triticum* spp. plants into the United States from any country except Canada is prohibited. This prohibition does not include seed.
 
 (b) *Triticum* spp. plants, articles listed in § 319.59-3 as prohibited importation pending risk evaluation, and articles regulated for Karnal bunt in § 319.59-4(a) may be imported for experimental, therapeutic, or developmental purposes under a controlled import permit issued in accordance with § 319.6 if:

@@ -10,7 +10,7 @@
 
 Note to paragraph (a)(3):
 
-As of January 15, 2017, the maximum civil penalty is $1,437,153 per violation.
+The maximum civil penalty is $1,466,485 per violation.
 
 (b) *Adjustments to penalty amounts.* (1) The current civil penalty cap may be adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
 
@@ -20,4 +20,4 @@ As of January 15, 2017, the maximum civil penalty is $1,437,153 per violation.
 
 (d) Violations of this part may also be subject to relevant provisions of other applicable laws.
 
-[65 FR 41336, July 5, 2000, as amended at 68 FR 61361, Oct. 28, 2003; 81 FR 43077, July 1, 2016; 82 FR 10439, Feb. 10, 2017]
+[65 FR 41336, July 5, 2000, as amended at 68 FR 61361, Oct. 28, 2003; 81 FR 43077, July 1, 2016; 82 FR 10439, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018]

@@ -1,6 +1,6 @@
 ##### § 105.290 Additional requirements - cruise ship terminals. #####
 
-Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
+Link to an amendment published at 81 FR 57712, Aug. 23, 2016.Link to an amendment published at 83 FR 12102, Mar. 19, 2018.
 
 At all MARSEC Levels, in coordination with a vessel moored at the facility, the facility owner or operator must ensure the following security measures:
 

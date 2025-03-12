@@ -1572,7 +1572,7 @@ Terms of this policy which are specifically designated for the use of written ag
 
 (iii) The dates you and other growers in the area normally plant and harvest the crop, if applicable;
 
-(iv) The name, location of, and approximate distance to the place the crop will be sold or used by you;
+(iv) The name, location of, and approximate distance to the place the crop will be sold or used by you; and
 
 (v) For any irrigated practice, the water source, method of irrigation, and the amount of water needed for an irrigated practice for the crop; and
 
@@ -2156,4 +2156,4 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (h) In lieu of the provisions contained in section 17(f)(1) that specify prevented planting acreage within a field that contains planted acreage will be considered to be acreage of the same practice that is planted in the field, prevented planting acreage will be considered as organic practice acreage if it is identified as certified organic, transitional, or buffer zone acreage in the organic plan.
 
-[56 FR 1351, Jan. 14, 1991]Editorial Note:For Federal Register citations affecting § 457.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[56 FR 1351, Jan. 14, 1991]Editorial Note:For Federal Register citations affecting § 457.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

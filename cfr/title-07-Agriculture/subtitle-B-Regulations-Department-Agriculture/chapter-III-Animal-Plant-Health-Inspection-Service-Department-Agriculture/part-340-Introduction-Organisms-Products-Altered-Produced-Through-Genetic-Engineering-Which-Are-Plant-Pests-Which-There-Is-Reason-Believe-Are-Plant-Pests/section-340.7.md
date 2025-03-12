@@ -1,5 +1,7 @@
 ##### § 340.7 Marking and identity. #####
 
+Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
+
 (a) Any regulated article to be imported other than by mail, shall, at the time of importation into the United States, plainly and correctly bear on the outer container the following information:
 
 (1) General nature and quantity of the contents;

@@ -1,22 +1,28 @@
 ##### § 1301.7 Exempt records. #####
 
-(a) *Records available.* TVA's records will be made available for inspection and copying upon request as provided in this section, except that records are exempt and are not made available if they are:
+(a) TVA's records will be disclosed to any person upon request as provided in this section, except records that are exempt and are not made available if they are:
 
-(1)(i) Specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and
+(1)(i) Specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy, and
 
 (ii) Are in fact properly classified pursuant to such Executive order;
 
-(2) Related solely to the internal personnel rules and practices of TVA;
+(2) Related solely to the internal personnel rules and practices of an agency;
 
-(3) Specifically exempted from disclosure by statute;
+(3) Specifically exempted from disclosure by statute (other than section 552b of this title), if that statute—
 
-(4) Trade secrets and commercial or financial information obtained from any person and privileged or confidential;
+(i)(A) Requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue; or
 
-(5) Inter-agency or intra-agency memorandums or letters which would not be available by law to a private party in litigation with TVA, including without limitation records relating to control and accounting for special nuclear material and to the physical security plans for the protection of TVA's nuclear facilities;
+(B) Establishes particular criteria for withholding or refers to particular types of matters to be withheld; and
 
-(6) Personnel and medical files and similar files, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+(ii) If enacted after the date of enactment of the OPEN FOIA Act of 2009, specifically cites to this paragraph.
 
-(7) Records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information:
+(4) Trade secrets and commercial or financial information obtained from a person and privileged or confidential;
+
+(5) Inter-agency or intra-agency memorandums or letters that would not be available by law to a party other than an agency in litigation with the agency, provided that the deliberative process privilege shall not apply to records created 25 years or more before the date on which the records were requested;
+
+(6) Personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+
+(7) Records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information—
 
 (i) Could reasonably be expected to interfere with enforcement proceedings,
 
@@ -30,8 +36,8 @@
 
 (vi) Could reasonably be expected to endanger the life or physical safety of any individual;
 
-(8) Contained in or related to examination, operation, or condition reports prepared by, on behalf of, or for the use of any agency responsible for the regulation or supervision of financial institution; or
+(8) Contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
 (9) Geological and geophysical information and data, including maps, concerning wells.
 
-(b) The availability of certain classes of nonexempt records is deferred for such time as TVA may determine is reasonably necessary to avoid interference with the accomplishment of its statutory responsibilities. Such records include bids and information concerning the identity and number of bids received prior to bid opening; all nonexempt records relating to bids between the time of bid opening and award; and all nonexempt records relating to negotiations in progress involving contracts or agreements for the acquisition or disposal of real or personal property by TVA prior to the conclusion of such negotiations. Any reasonably segregable portion of an available record shall be provided to any person requesting such record after deletion of the portions which are exempt under this paragraph.
+(b) The availability of certain classes of nonexempt records is deferred for such time as TVA may determine is reasonable necessary to avoid interference with the accomplishment of its statutory responsibilities. Such records include bids and information concerning the identity and number of bids received prior to bid opening and award; and all negotiations in progress involving contracts or agreements for the acquisition or disposal of real or personal property by TVA prior to the conclusion of such negotiations. Any reasonably segregable portion of an available record shall be provided to any person requesting such record after deletion of the portions which are exempt under this paragraph.

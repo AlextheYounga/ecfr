@@ -1,5 +1,7 @@
 ##### § 319.74-1 Definitions. #####
 
+Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
+
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any employee of the United States Department of Agriculture delegated to act in his or her stead.
 
 *Controlled import permit.* A written or electronically transmitted authorization issued by APHIS for the importation into the United States of otherwise prohibited or restricted plant material for experimental, therapeutic, or developmental purposes, under controlled conditions as prescribed by the Administrator in accordance with § 319.6.

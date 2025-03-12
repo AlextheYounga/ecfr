@@ -1,5 +1,7 @@
 ##### § 4.06-30 Specimen collection in incidents involving fatalities. #####
 
+Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
+
 (a) When an individual engaged or employed on board a vessel dies as a result of a serious marine incident, blood and urine specimens must be obtained from the remains of the individual for chemical testing, if practicable to do so. The marine employer shall notify the appropriate local authority, such as the coroner or medical examiner, as soon as possible, of the fatality and of the requirements of this subpart. The marine employer shall provide the specimen collection and shipping kit and request that the local authority assist in obtaining the necessary specimens. When the custodian of the remains is a person other than the local authority, the marine employer shall request the custodian to cooperate in obtaining the specimens required under this part.
 
 (b) If the local authority or custodian of the remains declines to cooperate in obtaining the necessary specimens, the marine employer shall provide an explanation of the circumstances on Form CG-2692B (Report of Required Chemical Drug and Alcohol Testing Following a Serious Marine Incident).

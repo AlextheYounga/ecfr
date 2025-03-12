@@ -1,5 +1,7 @@
 ##### § 104.295 Additional requirements - cruise ships. #####
 
+Link to an amendment published at 83 FR 12102, Mar. 19, 2018.
+
 (a) At all MARSEC Levels, the owner or operator of a cruise ship must ensure the following:
 
 (1) Screen all persons, baggage, and personal effects for dangerous substances and devices;

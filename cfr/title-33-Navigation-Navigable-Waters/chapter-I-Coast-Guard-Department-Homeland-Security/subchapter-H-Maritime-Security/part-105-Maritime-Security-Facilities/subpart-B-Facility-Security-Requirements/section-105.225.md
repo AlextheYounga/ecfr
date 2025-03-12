@@ -1,6 +1,6 @@
 ##### § 105.225 Facility recordkeeping requirements. #####
 
-Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
+Link to an amendment published at 81 FR 57712, Aug. 23, 2016.Link to an amendment published at 83 FR 12102, Mar. 19, 2018.
 
 (a) Unless otherwise specified in this section, the Facility Security Officer (FSO) must keep records of the activities as set out in paragraph (b) of this section for at least 2 years and make them available to the Coast Guard upon request.
 
