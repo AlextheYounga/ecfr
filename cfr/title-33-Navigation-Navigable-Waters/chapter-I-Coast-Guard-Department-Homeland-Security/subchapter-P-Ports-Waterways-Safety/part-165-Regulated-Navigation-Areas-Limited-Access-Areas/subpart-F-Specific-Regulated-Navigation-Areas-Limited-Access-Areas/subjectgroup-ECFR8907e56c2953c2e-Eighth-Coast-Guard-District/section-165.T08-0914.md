@@ -1,5 +1,7 @@
 ##### § 165.T08-0914 Safety Zone; Taylor Bayou Turning Basin, Port Arthur, TX. #####
 
+Link to an amendment published at 87 FR 73257, Nov. 29, 2022.
+
 (a) *Location.* The following area is a safety zone: Navigable waters of Taylor Bayou Turning Basin north of latitude 29°50′57.45′ N. These coordinates are based on WGS 84.
 
 (b) *Definition.* As used in this section, a *designated representative* means a Coast Guard coxswain, officer or petty officer, or a federal, state or local officer designated by or assisting the Captain of the Port Marine Safety Unit Port Arthur (COTP) in the enforcement of the safety zone.

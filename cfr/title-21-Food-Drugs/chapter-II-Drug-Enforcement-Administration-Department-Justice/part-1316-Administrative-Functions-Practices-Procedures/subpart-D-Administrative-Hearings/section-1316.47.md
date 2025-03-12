@@ -1,6 +1,6 @@
 ##### § 1316.47 Request for hearing. #####
 
-Link to an amendment published at 87 FR 68045, Nov. 14, 2022.
+Link to an amendment published at 87 FR 68045, Nov. 14, 2022.Link to a correction published at 87 FR 73246, Nov. 29, 2022.
 
 (a) Any person entitled to a hearing and desiring a hearing shall, within the period permitted for filing, file a request for a hearing and/or an answer that complies with the following format (see the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address):
 

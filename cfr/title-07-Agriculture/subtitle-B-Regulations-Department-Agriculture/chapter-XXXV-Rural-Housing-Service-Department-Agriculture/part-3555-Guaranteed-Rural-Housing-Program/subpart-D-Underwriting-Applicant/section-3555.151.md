@@ -1,7 +1,5 @@
 ##### § 3555.151 Eligibility requirements. #####
 
-Link to an amendment published at 87 FR 53372, Aug. 31, 2022.
-
 (a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable moderate income limit. The lender is responsible for documenting the household's income to determine eligibility for the SFHGLP.
 
 (b) *Citizenship status.* Applicants must provide evidence acceptable to the Agency of their status as United States citizens, U.S. non-citizen nationals, or qualified aliens, as defined in § 3555.10.
@@ -104,6 +102,8 @@ Link to an amendment published at 87 FR 53372, Aug. 31, 2022.
 
 (8) Lenders are encouraged to offer or provide for home ownership counseling. Lenders may require first-time homebuyers to undergo such counseling if it is reasonably available in the local area. When home ownership counseling is provided or sponsored by Rural Development or another Federal agency in the local area, the Lender must require the borrower to successfully complete the course.
 
+(9) Applicants with delinquent child support payments subject to collection by administrative offset are ineligible unless the payments are brought current, the debt is paid in full, or otherwise satisfied.
+
 (j) *Obtaining credit.* The applicant must be unable to obtain traditional conventional mortgage credit, as defined by the Agency, for the subject loan.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 87 FR 6776, Feb. 7, 2022]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 87 FR 6776, Feb. 7, 2022; 87 FR 53372, Aug. 31, 2022]

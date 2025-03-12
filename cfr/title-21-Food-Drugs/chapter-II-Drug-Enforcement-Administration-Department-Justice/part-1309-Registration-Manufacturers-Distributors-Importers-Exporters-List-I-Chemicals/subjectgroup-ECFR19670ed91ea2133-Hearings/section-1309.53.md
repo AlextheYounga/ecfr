@@ -1,6 +1,6 @@
 ##### § 1309.53 Request for hearing or appearance; waiver. #####
 
-Link to an amendment published at 87 FR 68045, Nov. 14, 2022.
+Link to an amendment published at 87 FR 68045, Nov. 14, 2022.Link to a correction published at 87 FR 73246, Nov. 29, 2022.
 
 (a) Any person entitled to a hearing pursuant to §§ 1309.42 and 1309.43 and desiring a hearing shall, within 30 days after the date of receipt of the order to show cause, file with the Administrator a written request for a hearing in the form prescribed in § 1316.47 of this chapter.
 

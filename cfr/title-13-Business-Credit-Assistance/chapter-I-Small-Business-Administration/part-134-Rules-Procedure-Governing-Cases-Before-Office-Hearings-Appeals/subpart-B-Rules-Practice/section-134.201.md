@@ -1,5 +1,7 @@
 ##### § 134.201 Scope of the rules in this subpart. #####
 
+Link to an amendment published at 87 FR 73425, Nov. 29, 2022.
+
 (a) The rules of practice in this subpart apply to all OHA proceedings except:
 
 (1) Where another subpart of this part, pertaining to a specific type of OHA proceeding, provides a different rule; or

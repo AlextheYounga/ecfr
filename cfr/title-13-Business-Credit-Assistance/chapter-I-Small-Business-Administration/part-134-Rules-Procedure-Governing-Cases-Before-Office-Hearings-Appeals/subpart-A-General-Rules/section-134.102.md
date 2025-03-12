@@ -1,5 +1,7 @@
 ##### § 134.102 Jurisdiction of OHA. #####
 
+Link to an amendment published at 87 FR 73425, Nov. 29, 2022.
+
 OHA has authority to conduct proceedings in the following cases:
 
 (a) The revocation or suspension of Small Business Investment Company licenses, cease and desist orders, and the removal or suspension of directors and officers of licensees, under the Investment Act and part 107 of this chapter;

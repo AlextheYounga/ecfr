@@ -1,7 +1,5 @@
 ##### § 3555.51 Lender eligibility. #####
 
-Link to an amendment published at 87 FR 53371, Aug. 31, 2022.
-
 A lender must meet the requirements described in this section to be approved for participation in the SFHGLP.
 
 (a) *Ability to underwrite and service loans.* The lender must have a demonstrated ability to underwrite and service single-family home loans. A lender will be considered to have such a demonstrated ability if it qualifies as one of the following:
@@ -20,21 +18,19 @@ A lender must meet the requirements described in this section to be approved for
 
 (7) A lender participating in other Rural Development or Farm Service Agency guaranteed loan programs that provide documentation of its ability to underwrite and service single family loans. Documentation criteria for other Rural Development or Farm Service Agency guarantee loan programs require an active lender agreement; or
 
-(8) A Federally supervised lender that provides documentation of its ability to originate, underwrite and service single-family loans. Acceptable sources of supervision include:
+(8) A Federally supervised lender that provides documentation of its ability to originate, underwrite, and service single-family loans. Acceptable sources of supervision include:
 
-(i) Being a member of the Federal Reserve System;
+(i) Being a member of the Federal Reserve System.
 
-(ii) The Federal Deposit Insurance Corporation (FDIC);
+(ii) The Federal Deposit Insurance Corporation (FDIC).
 
-(iii) The National Credit Union Administration (NCUA);
+(iii) The National Credit Union Administration (NCUA).
 
-(iv) The Office of Thrift Supervision (OTS);
+(iv) The Office of the Comptroller of the Currency (OCC).
 
-(v) The Office of the Comptroller of the Currency (OCC).
+(v) The Federal Housing Finance Board regulating lenders within the Federal Home-Loan Bank (FHLB) system.
 
-(vi) The Federal Housing Finance Board regulating lenders within the Home Loan Bank FHLB system.
-
-(9) A lender may demonstrate its ability to originate and underwrite loans by submitting appropriate documentation, examples of which include, but are not limited to:
+(9) If lenders cannot meet the requirements under paragraphs (a)(1) through (8) of this section, they may demonstrate its ability to originate and underwrite loans by submitting appropriate documentation, examples of which include, but are not limited to:
 
 (i) A summary of residential mortgage lending activity.
 
@@ -44,11 +40,17 @@ A lender must meet the requirements described in this section to be approved for
 
 (iv) Certification the lender will contract with an Agency-approved lender meeting the criteria to participate in the program as a servicer.
 
-(10) A lender may demonstrate its ability to service loans by submitting appropriate documentation, examples of which include, but are not limited to:
+(10) A lender that proposes to service loans that cannot meet paragraphs (a)(1) through (8) of this section must demonstrate its ability by submitting appropriate documentation, examples of which include but are not limited to:
 
 (i) Evidence of a written plan when contracting for escrow services.
 
 (ii) Evidence the lender has serviced single-family residential mortgage loans in the year prior to request lender approval to participate in the SFHGLP.
+
+(11) The financial requirements for non-supervised lenders not covered in paragraph (a)(8), must have:
+
+(i) A minimum adjusted net worth of $250,000, or $50,000 in working capital plus one percent of the total volume in excess of $25 million in guaranteed loans originated, serviced, or purchased during the lender's prior fiscal year, up to a maximum required adjusted net worth of $2.5 million, and
+
+(ii) One or more lines of credit with a minimum aggregate of one million dollars.
 
 (b) *SFHGLP participation requirements.* Lenders and their agents must comply with the following requirements:
 
@@ -96,4 +98,8 @@ A lender must meet the requirements described in this section to be approved for
 
 (22) Execute a lender's agreement provided by Rural Development.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 84 FR 70886, Dec. 26, 2019]
+(23) Provide documentation as required by the Agency to be reviewed every two years for lender participation and,
+
+(24) Provide evidence that principal officers have a minimum of two years of experience in originating or servicing guaranteed mortgage loans as recommended in OMB Circular A-129.
+
+[78 FR 73941, Dec. 9, 2013, as amended at 84 FR 70886, Dec. 26, 2019; 87 FR 53371, Aug. 31, 2022]

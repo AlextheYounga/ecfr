@@ -1,7 +1,5 @@
 ##### § 3555.105 Combination construction and permanent loans. #####
 
-Link to an amendment published at 87 FR 53372, Aug. 31, 2022.
-
 Guarantees of combination construction and permanent loans are subject to the following conditions:
 
 (a) *Lender requirements.* In addition to other lender requirements of this part, lenders seeking guarantees of combination construction and permanent loans must:
@@ -26,11 +24,7 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (3) Insurance for commercial general liability of at least $500,000;
 
-(4) Acceptable credit histories free of judgments, collections, or liens related to previous projects the contractor was involved with in the past;
-
-(5) No criminal history based on a criminal background check conducted by the lender;
-
-(6) Contractors or builders who are constructing their own residence are ineligible.
+(4) Contractors or builders who are constructing their own residence are ineligible.
 
 (c) *Use of loan funds.* (1) The loan is to finance the purchase of real estate and construction of a single family dwelling or the purchase and required rehabilitation of an existing single family dwelling. Condominiums, including detached condominiums and site condominiums, are ineligible for combination construction and permanent loans.
 
@@ -94,4 +88,4 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (h) *Reservation of funding.* Rural Development reserves the right to limit the number or amount of loans guaranteed under this section based on market conditions and other factors it considers appropriate, such as loan and portfolio performance.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 84 FR 35006, July 22, 2019]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 84 FR 35006, July 22, 2019; 87 FR 53372, Aug. 31, 2022]
