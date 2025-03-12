@@ -1,5 +1,7 @@
 ##### § 3560.302 Accounting, bookkeeping, budgeting, and financial management systems. #####
 
+Link to an amendment published at 82 FR 49285, October 25, 2017.
+
 (a) *General.* Borrowers must establish the accounting, bookkeeping, budgeting and financial management procedures necessary to conduct housing project operations in a financially safe and sound manner. Borrowers must maintain records in a manner suitable for an engagement and must be able to report accurate operational results to the Agency from these accounts and records.
 
 (b) *Acceptable methods of accounting.* (1) Borrowers may use a cash, accrual, or modified accrual method of accounting, bookkeeping, and budget preparations as long as the method is consistent with the statements required by the engagement in accordance with the standards identified in § 3560.308.

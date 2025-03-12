@@ -1,5 +1,7 @@
 ##### § 3560.11 Definitions. #####
 
+Link to an amendment published at 82 FR 49285, October 25, 2017.
+
 Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Administrator.* The head of the Rural Housing Service who reports directly to the Under Secretary for Rural Development in the U.S. Department of Agriculture.

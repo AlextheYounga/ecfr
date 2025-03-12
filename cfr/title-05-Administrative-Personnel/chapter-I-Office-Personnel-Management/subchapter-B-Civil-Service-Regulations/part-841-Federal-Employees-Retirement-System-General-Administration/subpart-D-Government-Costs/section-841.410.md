@@ -1,6 +1,6 @@
-##### § 841.410 Contents of petition for appeal. #####
+##### § 841.410 Contents of petition for appeal of normal cost percentage. #####
 
-(a) To file an appeal, an agency head must, before expiration of the time limit, file with OPM -
+(a) To file an appeal, an agency head must, before expiration of the time limit, file with OPM—
 
 (1) A letter of appeal;
 
@@ -12,12 +12,14 @@
 
 (2) The letter of appeal may contain any argument the agency wishes to make or may simply submit the actuarial report for consideration.
 
-(c) The actuarial report must contain a detailed actuarial analysis of the normal cost of FERS benefits as applied to the employees of that agency in the category of employees for which the agency is appealing the use of the Government-wide rate. The actuarial report must -
+(c) The actuarial report must contain a detailed actuarial analysis of the normal cost of FERS benefits as applied to the employees of that agency in the category of employees for which the agency is appealing. The actuarial report must—
 
 (1) Be signed by an actuary;
 
 (2) Use the economic assumptions under § 841.405; and
 
-(3) Specifically address and consider each of the demographic factors listed in § 841.404. The appealing agency is responsible for developing data relating to the first nine demographic factors as they relate to the category of agency employees for which the appeal is being filed. Government-wide demographic factors (available from OPM) will be presumed to be sufficient and reliable for factors 10 through 13 unless the appealing agency is able to demonstrate, through sufficient and reliable data relating to its employees or former employees, the use of alternative factors is appropriate. The fourteenth factor, administrative expenses, will be supplied by OPM.
+(3) Specifically address and consider each of the demographic factors listed in § 841.404. The appealing agency is responsible for developing data relating to the first nine demographic factors as they relate to the category of agency employees for which the appeal is being filed. OPM's demographic factors (available from OPM) will be presumed to be sufficient and reliable for factors 10 through 13 unless the appealing agency is able to demonstrate, through sufficient and reliable data relating to its employees or former employees, the use of alternative factors is appropriate. The fourteenth factor, administrative expenses, will be supplied by OPM.
 
 (d) The certificate of eligibility is a letter from the agency's director of personnel certifying that the agency has the requisite 1,000 or 500 in the category of employees under consideration.
+
+[51 FR 47187, Dec. 31, 1986, as amended at 82 FR 49280, Oct. 25, 2017]

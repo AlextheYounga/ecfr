@@ -1,5 +1,7 @@
 ##### § 3560.303 Housing project budgets. #####
 
+Link to an amendment published at 82 FR 49286, October 25, 2017.
+
 (a) *General requirements.* (1) Using an Agency-approved format, borrowers must submit to the Agency for approval a proposed annual housing project budget prior to the start of the housing project's fiscal year. The capital budget section of the annual project budget must include anticipated expenditures on the project's long-term capital needs as specified in § 3560.103(c).
 
 (2) Budget projections regarding income, expenses, vacancies, and contingencies must be realistic given the housing project's history, current circumstances, and market conditions.

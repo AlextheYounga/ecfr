@@ -1,6 +1,6 @@
 ##### § 842.602 Definitions. #####
 
-In this subpart -
+In this subpart—
 
 *Current spouse* means a living person who is married to the employee, Member, or retiree at the time of the employee's, Member's, or retiree's death.
 
@@ -28,7 +28,7 @@ In this subpart -
 
 *One-half reduced annuity* means the recurring payments under FERS received by a retiree who has elected one-half of the full reduction in his or her annuity to provide a partial current spouse annuity or a partial former spouse annuity or annuities.
 
-*Present value factor* means the amount of money (earning interest at an assumed rate) required at the time of retirement to fund an annuity that starts out at the rate of $1 a month and is payable in monthly installments for the annuitant's lifetime based on mortality rates for non-disability annuitants under the Civil Service Retirement System; and increases each year at an assumed rate of inflation. Interest, mortality, and inflation rates used in computing the present value are those used by the Board of Actuaries of the Civil Service Retirement System for valuation of the System, based on dynamic assumptions. The present value factors are unisex factors obtained by averaging six distinct present value factors, weighted by the total dollar value of annuities typically paid to new retirees at each age.
+*Present value factor* means the amount of money (earning interest at an assumed rate) required at the time of annuity commencement to fund an annuity that starts at the rate of $1 a month and is payable in monthly installments for the annuitant's lifetime based on mortality rates for annuitants paid from the Civil Service Retirement and Disability Fund; and increases each year at an assumed rate of cost-of-living adjustment. Assumed rates of interest, mortality, and cost-of-living adjustments used in computing the present value are those used by the Board of Actuaries of the Civil Service Retirement System for valuation of the Federal Employees' Retirement System based on dynamic assumptions. The present value factors are unisex factors obtained as a composite of sex-distinct present value factors. Separate present value factors apply for FERS annuities that receive cost-of-living adjustments before the retiree attains age 62, versus FERS annuities that do not receive cost-of-living adjustments before the retiree attains age 62.
 
 *Qualifying court order* means a court order that awards a former spouse annuity and that satisfies the requirements of section 8445 of title 5, United States Code, for awarding a former spouse annuity.
 
@@ -38,4 +38,4 @@ In this subpart -
 
 *Time of retirement* means the effective commencing date for retired employee's or Member's annuity. An employee or Member is unmarried at the time of retirement for all purposes under this subpart only if the employee or Member was unmarried on the date that the annuity begins to accrue.
 
-[52 FR 2061, Jan. 16, 1987, as amended at 56 FR 65419, Dec. 17, 1991; 57 FR 33598, July 29, 1992; 57 FR 54678, Nov. 20, 1992; 58 FR 52883, Oct. 13, 1993]
+[52 FR 2061, Jan. 16, 1987, as amended at 56 FR 65419, Dec. 17, 1991; 57 FR 33598, July 29, 1992; 57 FR 54678, Nov. 20, 1992; 58 FR 52883, Oct. 13, 1993; 82 FR 49281, Oct. 25, 2017]

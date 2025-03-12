@@ -2,7 +2,7 @@
 
 (a) *Periods of civilian service performed before October 1, 1982, for which retirement deductions have not been taken.* Periods of creditable civilian service performed by an employee or Member after July 31, 1920, but before October 1, 1982, for which retirement deductions have not been taken shall be included in determining length of service to compute annuity under subchapter III of chapter 83 of title 5, United States Code; however, if the employee, Member, or survivor does not elect either to complete the deposit describes by section 8334(c) of title 5, United States Code, or to eliminate the service from annuity computation, his or her annuity is reduced by 10 percent of the amount which should have been deposited (plus interest) for the period of noncontributory service.
 
-(b) *Periods of service for which refunded deductions have not been redeposited, and periods of civilian service performed on or after October 1, 1982, for which retirement deductions have not been taken.* Except as provided in paragraph (c) of this section, a period of service for which refunded deductions have not been redeposited, and a period of creditable civilian service performed by an employee or Member on or after October 1, 1982, for which retirement deductions have not been taken, shall be included in determining length of service to compute the annuity under subchapter III of chapter 83 of title 5, United States Code, only if -
+(b) *Periods of service for which refunded deductions have not been redeposited, and periods of civilian service performed on or after October 1, 1982, for which retirement deductions have not been taken.* Except as provided in paragraph (c) of this section, a period of service for which refunded deductions have not been redeposited, and a period of creditable civilian service performed by an employee or Member on or after October 1, 1982, for which retirement deductions have not been taken, shall be included in determining length of service to compute the annuity under subchapter III of chapter 83 of title 5, United States Code, only if—
 
 (1) The employee or Member subsequently becomes eligible for an annuity payable under subchapter III of chapter 83 of title 5, United States Code; and
 
@@ -14,7 +14,7 @@
 
 (2) The beginning monthly rate of annuity payable to a retiree whose annuity includes service credited in accordance with paragraph (c)(1) of this section will be reduced by an amount equal to the redeposit owed, or unpaid balance thereof, divided by the present value factor for the retiree's attained age (in full years) at the time of retirement. The reduced monthly rate will then be rounded down to the next lower dollar amount and becomes the rate of annuity payable.
 
-(3) For the purpose of paragraph (b)(2) of this section, the terms “present value factor” and “time of retirement” have the same meaning as in § 831.2202.
+(3) For the purpose of paragraph (b)(2) of this section, the term “present value factor” has the same meaning as defined in § 831.603 and “time of retirement” has the same meaning as defined in § 831.2202.
 
 (d)(1) *Civilian and military service of an individual affected by an erroneous retirement coverage determination.* An employee or survivor who owed a deposit under section 8411(c)(1)(B) or 8411(f) of title 5, United States Code (FERS rules) for:
 
@@ -28,6 +28,6 @@
 
 (B) The survivor annuity is not reduced if the employee annuity was reduced under paragraph (d)(2)(i) of this section.
 
-(3) For the purpose of paragraph (d)(2) of this section, the terms “present value factor” and “time of retirement” have the same meaning as in § 831.2202 of this chapter.
+(3) For the purpose of paragraph (d)(2) of this section, the term “present value factor” has the same meaning as defined in § 831.603 and “time of retirement” has the same meaning as defined in § 831.2202.
 
-[48 FR 38785, Aug. 26, 1983, as amended at 56 FR 6550, Feb. 19, 1991; 66 FR 15608, Mar. 19, 2001; 79 FR 46618, Aug. 8, 2014]
+[48 FR 38785, Aug. 26, 1983, as amended at 56 FR 6550, Feb. 19, 1991; 66 FR 15608, Mar. 19, 2001; 79 FR 46618, Aug. 8, 2014; 82 FR 49279, Oct. 25, 2017]

@@ -1,8 +1,8 @@
 ##### § 841.402 Definitions. #####
 
-In this subpart -
+In this subpart—
 
-*Actuary* means an associate or fellow in the Society of Actuaries and one who is enrolled under section 3042 of Pub. L. 93-406, the “Employee Retirement Income Security Act of 1974.”
+*Actuary* means a professional who meets the qualification standards to issue a statement of actuarial opinion in regard to defined benefit retirement plans in the United States.
 
 *Administrative expenses* means the normal cost loading applicable to the administration of FERS.
 
@@ -55,3 +55,5 @@ In this subpart -
 *Voluntary retirement rates* means the rate, based on the sex, age, and service of the employee, of regular longevity retirements.
 
 *Withdrawal rates* means the rate at which employees leave FERS-covered service without retiring, including employees who are paid refunds and employees who take deferred retirement. These rates are of two types: “not offset for reentry” and “offset for reentry.” These rates are by age and service.
+
+[51 FR 47187, Dec. 31, 1986, as amended at 82 FR 49280, Oct. 25, 2017]

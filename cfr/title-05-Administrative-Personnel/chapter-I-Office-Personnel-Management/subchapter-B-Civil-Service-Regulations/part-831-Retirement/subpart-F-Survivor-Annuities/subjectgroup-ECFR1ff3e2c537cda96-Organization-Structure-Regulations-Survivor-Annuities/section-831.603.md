@@ -1,6 +1,6 @@
 ##### § 831.603 Definitions. #####
 
-As used in this subpart -
+As used in this subpart—
 
 *CSRS* means subchapter III of chapter 83 of title 5, United States Code.
 
@@ -28,7 +28,7 @@ As used in this subpart -
 
 *Partially reduced annuity* means the recurring payments under CSRS to a retiree who has elected less than the maximum allowable reduction in annuity to provide a current spouse annuity or a former spouse annuity.
 
-*Present value factor* means the amount of money (earning interest at an assumed rate) required at the time of retirement to fund an annuity that starts out at the rate of $1 a month and is payable in monthly installments for the annuitant's lifetime based on mortality rates for non-disability annuitants under the Civil Service Retirement System; and increases each year at an assumed rate of inflation. Interest, mortality, and inflation rates used in computing the present value are those used by the Board of Actuaries of the Civil Service Retirement System for valuation of the System, based on dynamic assumptions. The present value factors are unisex factors obtained by averaging six distinct present value factors, weighted by the total dollar value of annuities typically paid to new retirees at each age.
+*Present value factor* means the amount of money (earning interest at an assumed rate) required at the time of annuity commencement to fund an annuity that starts at the rate of $1 a month and is payable in monthly installments for the annuitant's lifetime based on mortality rates for annuitants paid from the Civil Service Retirement and Disability Fund; and increases each year at an assumed rate of cost of living adjustment. Assumed rates of interest, mortality, and cost-of-living adjustments used in computing the present value are those used by the Board of Actuaries of the Civil Service Retirement System for valuation of the System based on dynamic assumptions. The present value factors are unisex factors obtained as a composite of sex-distinct present value factors.
 
 *Qualifying court order* means a court order that awards a former spouse annuity and that satisfies the requirements of section 8341(h) of title 5, United States Code, for awarding a former spouse annuity.
 
@@ -38,4 +38,4 @@ As used in this subpart -
 
 *Time of retirement* means the effective commencing date for a retired employee's or Member's annuity.
 
-[50 FR 20070, May 13, 1985, as amended at 51 FR 31931, Sept. 8, 1986; 57 FR 33597, July 29, 1992; 58 FR 52880, Oct. 13, 1993]
+[50 FR 20070, May 13, 1985, as amended at 51 FR 31931, Sept. 8, 1986; 57 FR 33597, July 29, 1992; 58 FR 52880, Oct. 13, 1993; 82 FR 49280, Oct. 25, 2017]

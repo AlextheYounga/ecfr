@@ -44,7 +44,7 @@
 
 *OPM* means the Office of Personnel Management.
 
-*Present value factor* has the same meaning as in § 831.2202 or § 842.702 of this chapter, as applicable.
+*Present value factor* has the same meaning in this subpart as defined in § 831.603.
 
 *Previously corrected* means a retirement coverage error that has been properly corrected before March 19, 2001.
 
@@ -71,3 +71,5 @@
 *Survivor* means a person entitled to benefits under chapter 83 or 84 of title 5, United States Code, based on the service of a deceased employee, separated employee, or retiree.
 
 *Thrift Savings Plan or TSP* means the Federal Retirement Thrift Savings Plan established by the Federal Employees' Retirement System Act of 1986, Pub. L. 99-335, 100 Stat. 514, which has been codified, as amended, primarily at 5 U.S.C. 8351 and 8401-8479.
+
+[66 FR 15609, Mar. 19, 2001, as amended at 82 FR 49280, Oct. 25, 2017]

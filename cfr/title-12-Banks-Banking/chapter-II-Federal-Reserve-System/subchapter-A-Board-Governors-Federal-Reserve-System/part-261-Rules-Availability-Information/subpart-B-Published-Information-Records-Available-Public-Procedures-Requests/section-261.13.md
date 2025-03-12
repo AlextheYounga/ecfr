@@ -1,5 +1,7 @@
 ##### § 261.13 Processing requests. #####
 
+Link to an amendment published at 82 FR 49287, Oct. 25, 2017.
+
 (a) *Receipt of requests.* Upon receipt of any request that satisfies § 261.12(b), the Freedom of Information Office shall assign the request to the appropriate processing schedule, pursuant to paragraph (b) of this section. The date of receipt for any request, including one that is addressed incorrectly or that is referred to the Board by another agency or by a Federal Reserve Bank, is the date the Freedom of Information Office actually receives the request.
 
 (b) *Multitrack processing.* (1) The Board provides different levels of processing for categories of requests under this section. Requests for records that are readily identifiable by the Freedom of Information Office and that have already been cleared for public release may qualify for fast-track processing. All other requests shall be handled under normal processing procedures, unless expedited processing has been granted pursuant to paragraph (c)(2) of this section.

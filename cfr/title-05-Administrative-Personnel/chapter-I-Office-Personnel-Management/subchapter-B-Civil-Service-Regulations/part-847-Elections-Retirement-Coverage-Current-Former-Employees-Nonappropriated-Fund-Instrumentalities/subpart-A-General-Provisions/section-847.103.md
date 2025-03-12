@@ -2,9 +2,9 @@
 
 (a) Except as provided in paragraph (b) of this section, the definitions in sections 8331 and 8401 of title 5, United States Code, apply throughout this part.
 
-(b) In this part -
+(b) In this part—
 
-*Actuarial present value* means the amount of money (earning interest at an assumed rate) required at the time of retirement to finance an annuity that is payable in monthly installments for the annuitant's lifetime based on mortality rates for annuitants under CSRS and FERS; and increases each year at an assumed rate of inflation. Interest, mortality, and inflation rates used in computing the present value are those used by the Board of Actuaries of the Civil Service Retirement System for valuation of CSRS and FERS, based on dynamic assumptions.
+*Actuarial present value* means the amount of monthly annuity at time of retirement multiplied by the applicable present value factor.
 
 *Age* means the number of years an individual has been alive as of his or her last birthday.
 
@@ -28,8 +28,10 @@
 
 *NAFI* means a nonappropriated fund instrumentality described in section 2105(c) of title 5, United States Code.
 
+*Present value factor* has the same meaning in this part as defined in § 842.602.
+
 *Retiree* means a former employee who, on the basis of his or her service meets all the requirements for title to a CSRS or FERS annuity and files claim therefor.
 
 *Survivor* means a widow, widower, or former spouse entitled to a CSRS or FERS annuity based on the service of a deceased employee, separated employee, or retiree.
 
-[61 FR 41721, Aug. 9, 1996, as amended at 68 FR 2179, Jan. 16, 2003]
+[61 FR 41721, Aug. 9, 1996, as amended at 68 FR 2179, Jan. 16, 2003; 82 FR 49282, Oct. 25, 2017]
