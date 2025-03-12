@@ -289,18 +289,6 @@ Table 11 to Paragraph (c)(3)(i)
 
 (iii) *Area-specific gear or vessel requirements.* From May 1 through January 31, no person or vessel may fish with or possess trap/pot gear in the Massachusetts Restricted Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, the universal trap/pot gear requirements specified in paragraph (c)(1) of this section, and the area-specific requirements listed in paragraph (c)(2) of this section, or unless the gear is stowed as specified in § 229.2.
 
-(iv) *Massachusetts Restricted Area Emergency Extension.* During the period from February 1, 2023 through April 30, 2023, the Massachusetts Restricted Area defined in paragraph (c)(3)(i) of this section is extended from the Massachusetts state waters boundary at MRAW1 to MRAW2 (also MRA3 in Table 11 to paragraph (c)(3)(i)), then it is bounded by a rhumb line connecting points MRAW2 to MRAW3 (MRA4), and then bounded by a rhumb line connecting points MRAW3 through MRAW4 (MRA5) back to MRAW1, in the order detailed in Table 11a to paragraph (c)(3)(iv); From February 1, 2023 through April 30, 2023, it is prohibited to fish with, set, or possess trap/pot gear in the area in this paragraph (c)(3)(iv) of this section unless it is fished without buoy lines or with buoy lines that are stored on the bottom until remotely released for hauling, or buoy lines that are stowed in accordance with § 229.2. Authorizations for fishing without buoy lines must be obtained if such fishing would not be in accordance with surface marking requirements of §§ 697.21 and 648.84 of this title or other applicable fishery management regulations. The minimum number of trap/trawl gear configuration requirements specified in paragraph (c)(2)(iv) of this section remain in effect unless an exemption to those requirements is authorized.
-
-Table 11a to (c)(3)(iv)
-
-|   Point    |   Lat   |  Long   |
-|------------|---------|---------|
-|   MRAW1    |42°39.77′| 70°30′  |
-|MRAW2 (MRA3)| 42°12′  |70°38.69′|
-|MRAW3 (MRA4)| 42°12′  | 70°30′  |
-|MRAW4 (MRA5)| 42°30′  | 70°30′  |
-|   MRAW1    |42°39.77′| 70°30′  |
-
 (4) *South Island Restricted Area*—(i) *Area.* The South Island Restricted Area is bounded by the following points connected by rhumb lines in the order listed, and bounded on the north by the shoreline of Nantucket, Massachusetts.
 
 Table 12 to Paragraph (c)(4)(i)
@@ -791,4 +779,4 @@ Table 23 to Paragraph (f)(1)
 
 (viii) Similar situations occur.
 
-[86 FR 52011, Sept. 17, 2021, as amended at 87 FR 11979, Mar. 3, 2022; 88 FR 7369, Feb. 3, 2023]Effective Date Note:At 88 FR 7369, Feb. 3, 2023, § 229.32 was amended by adding paragraph (c)(3)(iv), effective until Apr. 30, 2023.
+[86 FR 52011, Sept. 17, 2021, as amended at 87 FR 11979, Mar. 3, 2022]

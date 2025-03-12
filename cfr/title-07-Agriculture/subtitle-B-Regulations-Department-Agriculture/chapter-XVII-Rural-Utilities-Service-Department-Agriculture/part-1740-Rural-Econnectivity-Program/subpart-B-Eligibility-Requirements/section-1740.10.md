@@ -1,10 +1,8 @@
 ##### § 1740.10 Eligible projects. #####
 
-Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
-
 To be eligible for funding assistance under the part, the Applicant must:
 
-(a) Submit a complete application and provide all supporting documentation including unqualified, comparative, audited financial statements for the previous year from the date the application is submitted as detailed in § 1740.63.
+(a) Submit a complete application and provide all supporting documentation including unqualified, audited financial statements from the date the application is submitted as detailed in § 1740.63.
 
 (b) Demonstrate that the project can be completely built out within five years from the date funds are first made available.
 
@@ -19,3 +17,5 @@ To be eligible for funding assistance under the part, the Applicant must:
 (1) Facilities funded with grant funds will provide broadband service proposed in the application for the composite economic life of the facilities, as approved by RUS, or as provided in the Award Documents.
 
 (2) Facilities funded with loan funds must provide broadband service through the amortization period of the loan.
+
+[86 FR 11609, Feb. 26, 2021, as amended at 88 FR 5726, Jan. 30, 2023]

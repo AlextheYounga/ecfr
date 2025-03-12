@@ -1,7 +1,5 @@
 ##### § 1.740 Formal requirements for application for extension of patent term; correction of informalities. #####
 
-Link to an amendment published at 88 FR 13033, Mar. 2, 2023.
-
 (a) An application for extension of patent term must be made in writing to the Director. A formal application for the extension of patent term must include:
 
 (1) A complete identification of the approved product as by appropriate chemical and generic name, physical structure or characteristics;
@@ -78,10 +76,10 @@ Link to an amendment published at 88 FR 13033, Mar. 2, 2023.
 
 (14) The prescribed fee for receiving and acting upon the application for extension (see § 1.20(j)); and
 
-(15) The name, address, and telephone number of the person to whom inquiries and correspondence relating to the application for patent term extension are to be directed.
+(15) The name, address, telephone number, and email address of the person to whom inquiries and correspondence related to the application for patent term extension are to be directed.
 
-(b) The application under this section must be accompanied by two additional copies of such application (for a total of three copies).
+(b) The application under this section, and any related submissions to the Office, must be submitted using the USPTO patent electronic filing system in accordance with the USPTO patent electronic filing system requirements.
 
 (c) If an application for extension of patent term is informal under this section, the Office will so notify the applicant. The applicant has two months from the mail date of the notice, or such time as is set in the notice, within which to correct the informality. Unless the notice indicates otherwise, this time period may be extended under the provisions of § 1.136.
 
-[54 FR 9394, Mar. 24, 1987, as amended at 54 FR 30380, July 20, 1989; 56 FR 65155, Dec. 13, 1991; 65 FR 54679, Sept. 8, 2000; 68 FR 14337, Mar. 25, 2003]
+[54 FR 9394, Mar. 24, 1987, as amended at 54 FR 30380, July 20, 1989; 56 FR 65155, Dec. 13, 1991; 65 FR 54679, Sept. 8, 2000; 68 FR 14337, Mar. 25, 2003; 88 FR 13033, Mar. 2, 2023]

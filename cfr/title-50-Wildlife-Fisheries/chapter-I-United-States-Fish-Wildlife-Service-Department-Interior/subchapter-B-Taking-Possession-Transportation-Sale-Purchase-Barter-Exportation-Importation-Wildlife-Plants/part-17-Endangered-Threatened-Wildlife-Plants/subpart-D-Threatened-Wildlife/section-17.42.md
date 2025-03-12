@@ -214,4 +214,32 @@
 
 (*3*) Involve the use of plastic mesh in erosion control and stabilization devices, mats, blankets, or channel protection.
 
-[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020; 86 FR 57376, Oct. 15, 2021]
+(j)-(k) [Reserved]
+
+(l) Egyptian tortoise (*Testudo kleinmanni,* syn. *Testudo werneri*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Egyptian tortoise. Except as provided under paragraph (l)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth for endangered wildlife at § 17.21(b).
+
+(ii) Take, as set forth for endangered wildlife at § 17.21(c)(1).
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth for endangered wildlife at § 17.21(d)(1).
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth for endangered wildlife at § 17.21(e).
+
+(v) Sale or offer for sale in interstate or foreign commerce, as set forth for endangered wildlife at § 17.21(f).
+
+(2) *Exception*s *from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Sell, offer for sale, deliver, receive, carry, transport, or ship in interstate commerce live Egyptian tortoises from one public institution to another public institution, if such activity is in accordance with 50 CFR part 23. For the purposes of this paragraph, “public institution” means a museum, zoological park, and scientific institution that meets the definition of “public” at 50 CFR 10.12.
+
+(iii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iv) Possess and engage in other acts, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
+
+[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020; 86 FR 57376, Oct. 15, 2021; 88 FR 19017, Mar. 30, 2023]

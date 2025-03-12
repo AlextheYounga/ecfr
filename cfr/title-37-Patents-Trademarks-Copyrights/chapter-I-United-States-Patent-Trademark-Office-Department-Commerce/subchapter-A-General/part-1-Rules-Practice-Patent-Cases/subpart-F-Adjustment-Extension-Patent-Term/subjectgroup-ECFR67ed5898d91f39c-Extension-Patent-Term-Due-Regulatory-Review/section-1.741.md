@@ -1,8 +1,6 @@
 ##### § 1.741 Complete application given a filing date; petition procedure. #####
 
-Link to an amendment published at 88 FR 13033, Mar. 2, 2023.
-
-(a) The filing date of an application for extension of a patent term is the date on which a complete application is received in the Office or filed pursuant to the procedures set forth in § 1.8 or § 1.10. A complete application must include:
+(a) The filing date of an application for extension of a patent term is the date on which a complete application is received in the Office via the USPTO patent electronic filing system or filed pursuant to the procedure set forth in § 1.8(a)(1)(i)(C) and (a)(1)(ii). A complete application must include:
 
 (1) An identification of the approved product;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 88 FR 13033, Mar. 2, 2023.
 
 (b) If an application for extension of patent term is incomplete under this section, the Office will so notify the applicant. If applicant requests review of a notice that an application is incomplete, or review of the filing date accorded an application under this section, applicant must file a petition pursuant to this paragraph accompanied by the fee set forth in § 1.17(f) within two months of the mail date of the notice that the application is incomplete, or the notice according the filing date complained of. Unless the notice indicates otherwise, this time period may be extended under the provisions of § 1.136.
 
-[52 FR 9394, Mar. 24, 1987, as amended at 59 FR 54503, Oct. 22, 1993; 61 FR 64028, Dec. 3, 1996; 65 FR 54680, Sept. 8, 2000; 69 FR 56546, Sept. 21, 2004]
+[52 FR 9394, Mar. 24, 1987, as amended at 59 FR 54503, Oct. 22, 1993; 61 FR 64028, Dec. 3, 1996; 65 FR 54680, Sept. 8, 2000; 69 FR 56546, Sept. 21, 2004; 88 FR 13033, Mar. 2, 2023]

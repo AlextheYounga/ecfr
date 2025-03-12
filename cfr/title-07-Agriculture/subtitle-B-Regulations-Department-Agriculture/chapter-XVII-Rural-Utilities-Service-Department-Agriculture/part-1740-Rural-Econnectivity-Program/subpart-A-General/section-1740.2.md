@@ -1,7 +1,5 @@
 ##### § 1740.2 Definitions. #####
 
-Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
-
 (a) The following definitions apply to this part:
 
 *Administrator* means the Administrator of the Rural Utilities Service, or the Administrator's designee.
@@ -58,7 +56,7 @@ Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
 
 *Loan/grant agreement* means the loan/grant contract and security agreement between RUS and the Awardee securing the loan/grant, including all amendments thereto, available for review on the Agency's web page.
 
-*Non-funded service area (NFSA)* means any area in which the applicant offers broadband service or intends to offer broadband service during the forecast period but is not a part of its proposed funded service area.
+*Non-funded service area (NFSA)* means any area in which the applicant offers telecommunication/broadband service, or intends to offer telecommunication/broadband service, during the forecast period, but which is not part of its Proposed Funded Service Area.
 
 *Pre-application expenses* means any reasonable expenses, as determined by RUS, incurred after the release of a Federal Register notice opening an application window to prepare an Application or to respond to RUS inquiries about the Application.
 
@@ -86,4 +84,4 @@ Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
 
 (b) Unless otherwise provided in the award documents, all financial terms not defined herein shall have the meaning as defined by GAAP.
 
-[86 FR 11609, Feb. 26, 2021, as amended at 87 FR 38642, June 29, 2022]
+[86 FR 11609, Feb. 26, 2021, as amended at 87 FR 38642, June 29, 2022; 88 FR 5726, Jan. 30, 2023]

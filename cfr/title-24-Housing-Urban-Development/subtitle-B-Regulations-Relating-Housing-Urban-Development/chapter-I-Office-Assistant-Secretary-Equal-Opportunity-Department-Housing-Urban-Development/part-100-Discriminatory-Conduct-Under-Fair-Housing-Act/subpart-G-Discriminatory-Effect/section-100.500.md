@@ -1,57 +1,23 @@
 ##### § 100.500 Discriminatory effect prohibited. #####
 
-Link to an amendment published at 88 FR 19500, Mar. 31, 2023.
+Liability may be established under the Fair Housing Act based on a practice's discriminatory effect, as defined in paragraph (a) of this section, even if the practice was not motivated by a discriminatory intent. The practice may still be lawful if supported by a legally sufficient justification, as defined in paragraph (b) of this section. The burdens of proof for establishing a violation under this subpart are set forth in paragraph (c) of this section.
 
-(a) *General.* Liability may be established under the Fair Housing Act based on a specific policy's or practice's discriminatory effect on members of a protected class under the Fair Housing Act even if the specific practice was not motivated by a discriminatory intent.
+(a) *Discriminatory effect.* A practice has a discriminatory effect where it actually or predictably results in a disparate impact on a group of persons or creates, increases, reinforces, or perpetuates segregated housing patterns because of race, color, religion, sex, handicap, familial status, or national origin.
 
-(b) *Pleading stage.* At the pleading stage, to state a discriminatory effects claim based on an allegation that a specific, identifiable policy or practice has a discriminatory effect, a plaintiff or charging party (hereinafter, “plaintiff”) must sufficiently plead facts to support each of the following elements:
+(b) *Legally sufficient justification.* (1) A legally sufficient justification exists where the challenged practice:
 
-(1) That the challenged policy or practice is arbitrary, artificial, and unnecessary to achieve a valid interest or legitimate objective such as a practical business, profit, policy consideration, or requirement of law;
+(i) Is necessary to achieve one or more substantial, legitimate, nondiscriminatory interests of the respondent, with respect to claims brought under 42 U.S.C. 3612, or defendant, with respect to claims brought under 42 U.S.C. 3613 or 3614; and
 
-(2) That the challenged policy or practice has a disproportionately adverse effect on members of a protected class;
+(ii) Those interests could not be served by another practice that has a less discriminatory effect.
 
-(3) That there is a robust causal link between the challenged policy or practice and the adverse effect on members of a protected class, meaning that the specific policy or practice is the direct cause of the discriminatory effect;
+(2) A legally sufficient justification must be supported by evidence and may not be hypothetical or speculative. The burdens of proof for establishing each of the two elements of a legally sufficient justification are set forth in paragraphs (c)(2) and (3) of this section.
 
-(4) That the alleged disparity caused by the policy or practice is significant; and
+(c) *Burdens of proof in discriminatory effects cases.* (1) The charging party, with respect to a claim brought under 42 U.S.C. 3612, or the plaintiff, with respect to a claim brought under 42 U.S.C. 3613 or 3614, has the burden of proving that a challenged practice caused or predictably will cause a discriminatory effect.
 
-(5) That there is a direct relation between the injury asserted and the injurious conduct alleged.
+(2) Once the charging party or plaintiff satisfies the burden of proof set forth in paragraph (c)(1) of this section, the respondent or defendant has the burden of proving that the challenged practice is necessary to achieve one or more substantial, legitimate, nondiscriminatory interests of the respondent or defendant.
 
-(c) *Burdens of proof in discriminatory effect cases.* The burdens of proof to establish that a policy or practice has a discriminatory effect, are as follows:
+(3) If the respondent or defendant satisfies the burden of proof set forth in paragraph (c)(2) of this section, the charging party or plaintiff may still prevail upon proving that the substantial, legitimate, nondiscriminatory interests supporting the challenged practice could be served by another practice that has a less discriminatory effect.
 
-(1) A plaintiff must prove by the preponderance of the evidence each of the elements in paragraphs (b)(2) through (5) of this section.
+(d) *Relationship to discriminatory intent.* A demonstration that a practice is supported by a legally sufficient justification, as defined in paragraph (b) of this section, may not be used as a defense against a claim of intentional discrimination.
 
-(2) A defendant or responding party (hereinafter, “defendant”) may rebut a plaintiff's allegation under (b)(1) of this section that the challenged policy or practice is arbitrary, artificial, and unnecessary by producing evidence showing that the challenged policy or practice advances a valid interest (or interests) and is therefore not arbitrary, artificial, and unnecessary.
-
-(3) If a defendant rebuts a plaintiff's assertion under paragraph (c)(1) of this section, the plaintiff must prove by the preponderance of the evidence either that the interest (or interests) advanced by the defendant are not valid or that a less discriminatory policy or practice exists that would serve the defendant's identified interest (or interests) in an equally effective manner without imposing materially greater costs on, or creating other material burdens for, the defendant.
-
-(d) *Defenses.* The following defenses are available to a defendant in a discriminatory effect case.
-
-(1) *Pleading stage.* The defendant may establish that a plaintiff has failed to sufficiently plead facts to support an element of a prima facie case under paragraph (b) of this section, including by showing that the defendant's policy or practice was reasonably necessary to comply with a third-party requirement, such as a:
-
-(i) Federal, state, or local law;
-
-(ii) Binding or controlling court, arbitral, administrative order or opinion; or
-
-(iii) Binding or controlling regulatory, administrative or government guidance or requirement.
-
-(2) *After the pleading stage.* The defendant may establish that the plaintiff has failed to meet the burden of proof to establish a discriminatory effects claim under paragraph (c) of this section, by demonstrating any of the following:
-
-(i) The policy or practice is intended to predict an occurrence of an outcome, the prediction represents a valid interest, and the outcome predicted by the policy or practice does not or would not have a disparate impact on protected classes compared to similarly situated individuals not part of the protected class, with respect to the allegations under paragraph (b). This is not an adequate defense, however, if the plaintiff demonstrates that an alternative, less discriminatory policy or practice would result in the same outcome of the policy or practice, without imposing materially greater costs on, or creating other material burdens for the defendant.
-
-(ii) The plaintiff has failed to establish that a policy or practice has a discriminatory effect under paragraph (c) of this section.
-
-(iii) The defendant's policy or practice is reasonably necessary to comply with a third party requirement, such as a:
-
-(A) Federal, state, or local law;
-
-(B) Binding or controlling court, arbitral, administrative order or opinion; or
-
-(C) Binding or controlling regulatory, administrative, or government guidance or requirement.
-
-(e) *Business of insurance laws.* Nothing in this section is intended to invalidate, impair, or supersede any law enacted by any state for the purpose of regulating the business of insurance.
-
-(f) *Remedies in discriminatory effect cases.* In cases where liability is based solely on a discriminatory effect theory, remedies should be concentrated on eliminating or reforming the discriminatory practice so as to eliminate disparities between persons in a particular protected class and other persons. In administrative proceedings under 42 U.S.C. 3612(g) based solely on discriminatory effect theory, HUD will seek only equitable remedies, provided that where pecuniary damage is proved, HUD will seek compensatory damages or restitution; and provided further that HUD may pursue civil money penalties in discriminatory effect cases only where the defendant has previously been adjudged, within the last five years, to have committed unlawful housing discrimination under the Fair Housing Act, other than under this section.
-
-(g) *Severability.* The framework of the burdens and defenses provisions are considered to be severable. If any provision is stayed or determined to be invalid or their applicability to any person or circumstances invalid, the remaining provisions shall be construed as to be given the maximum effect permitted by law.
-
-[85 FR 60332, Sept. 24, 2020]
+[88 FR 19500, Mar. 31, 2023]
