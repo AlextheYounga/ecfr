@@ -599,4 +599,4 @@ Link to an amendment published at 85 FR 850, Jan. 8, 2020.
 
 (2) Provide sufficient resolution and field of view to monitor all areas on deck where halibut may be sorted from the catch and discarded, and all crew actions in these areas.
 
-[63 FR 5843, Feb. 4, 1998]Editorial Note:For Federal Register citations affecting § 679.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 84 FR 67183, Dec. 9, 2019, in § 679.28, paragraphs (d)(9) and (10) and (l) were stayed indefinitely, effective Dec. 9, 2019.
+[63 FR 5843, Feb. 4, 1998]Editorial Note:For Federal Register citations affecting § 679.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

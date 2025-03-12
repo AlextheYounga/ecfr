@@ -1,5 +1,7 @@
 ##### § 622.191 Commercial trip limits. #####
 
+Link to an amendment published at 85 FR 4594, Jan. 27, 2020.
+
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
 (a) When a vessel fishes on a trip in the South Atlantic EEZ, the vessel trip limits specified in this paragraph (a) apply, provided persons aboard the vessel are not subject to the bag limits. See § 622.11 and § 622.187(a) for applicability of the bag limits.
@@ -34,11 +36,11 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (iii) See § 622.190(c)(1) for the limitations regarding gag after the quota is reached.
 
-(8) *Black sea bass.* (i) *Hook-and-line component.* (A) From January 1 through April 30, until the applicable quota specified in § 622.190(a)(5) is reached - 300 lb (136 kg), gutted weight; 354 lb (161 kg), round weight.
+(8) *Black sea bass -*  (i) *Hook-and-line component.* (A) From January 1 through April 30, until the applicable quota specified in § 622.190(a)(5) is reached - 300 lb (136 kg), gutted weight; 354 lb (161 kg), round weight.
 
 (B) From May 1 through December 31, until the applicable quota specified in § 622.190(a)(5) is reached - 1,000 lb (454 kg), gutted weight; 1,180 lb (535 kg), round weight.
 
-(ii) Sea bass pot component. Until the applicable quota specified in § 622.190(a)(5) is reached - 1,000 lb (454 kg), gutted weight; 1,180 lb (535 kg), round weight.
+(ii) *Sea bass pot component.* Until the applicable quota specified in § 622.190(a)(5) is reached - 1,000 lb (454 kg), gutted weight; 1,180 lb (535 kg), round weight.
 
 (iii) See § 622.190(c)(1) for the limitations regarding black sea bass after the applicable quota is reached.
 

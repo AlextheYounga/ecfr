@@ -2,7 +2,7 @@
 
 (a) *Applicability.* The owner and operator of a mothership or catcher/processor using trawl gear in the non-pollock groundfish fisheries in the Gulf of Alaska and the Bering Sea and Aleutian Islands Management Area must comply with the requirements of this section when participating in halibut deck sorting as defined at § 679.2.
 
-(b) *Catch monitoring requirements* - (1) *Catch weighing.* When halibut deck sorting, all catch, except halibut sorted on deck, must be weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately, all catch must be made available for sampling by a NMFS-certified observer, and no sorting of catch, except halibut sorted on deck, may take place prior to weighing. When halibut deck sorting, no fish may be weighed on a NMFS-approved scale used to weigh catch at sea unless two observers are available to complete data collection duties, one on deck and one in the factory. A visual signal, specified in paragraph (e)(8) of this section, must be used to indicate when catch may not be weighed.
+(b) *Catch monitoring requirements*—(1) *Catch weighing.* When halibut deck sorting, all catch, except halibut sorted on deck, must be weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately, all catch must be made available for sampling by a NMFS-certified observer, and no sorting of catch, except halibut sorted on deck, may take place prior to weighing. When halibut deck sorting, no fish may be weighed on a NMFS-approved scale used to weigh catch at sea unless two observers are available to complete data collection duties, one on deck and one in the factory. A visual signal, specified in paragraph (e)(8) of this section, must be used to indicate when catch may not be weighed.
 
 (2) *Observer sampling station.* An observer sampling station meeting the requirements at § 679.28(d) must be available at all times.
 
@@ -61,5 +61,3 @@
 (7) *Sorting pace.* Do not pressure or rush the observer to move halibut through the sampling process faster than the observer can handle.
 
 (8) *Visual signal.* Use a visual signal to indicate to vessel crew when catch may not to be weighed on a NMFS-approved scale specified in paragraph (b)(1) of this section. The visual signal must be on the conveyor belt adjacent to the flow scale and visible in the view of a camera required at § 679.28(b)(8).
-
-Effective Date Note:At 84 FR 67183, Dec. 9, 2019, in § 679.120, paragraphs (b), (c), (d), and (e) were stayed indefinitely, effective Dec. 9, 2019.
