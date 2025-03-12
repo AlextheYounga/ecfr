@@ -1,8 +1,10 @@
 ##### § 685.214 Closed school discharge. #####
 
+Link to an amendment published at 87 FR 66060, Nov. 1, 2022.
+
 (a) *General.* (1) The Secretary discharges the borrower's (and any endorser's) obligation to repay a Direct Loan in accordance with the provisions of this section if the borrower (or the student on whose behalf a parent borrowed) did not complete the program of study for which the loan was made because the school at which the borrower (or student) was enrolled closed, as described in paragraph (c) of this section.
 
-(2) For purposes of this section -
+(2) For purposes of this section—
 
 (i) A school's closure date is the date that the school ceases to provide educational instruction in all programs, as determined by the Secretary; and
 
@@ -16,9 +18,9 @@
 
 (4) The Secretary reports the discharge of a loan under this section to all consumer reporting agencies to which the Secretary previously reported the status of the loan, so as to delete all adverse credit history assigned to the loan.
 
-(c) *Borrower qualification for discharge.* (1) For loans first disbursed before July 1, 2020, in order to qualify for discharge of a loan under this section, a borrower must submit to the Secretary a written request and sworn statement, and the factual assertions in the statement must be true. The statement need not be notarized but must be made by the borrower under penalty of perjury. In the statement, the borrower must -
+(c) *Borrower qualification for discharge.* (1) For loans first disbursed before July 1, 2020, in order to qualify for discharge of a loan under this section, a borrower must submit to the Secretary a written request and sworn statement, and the factual assertions in the statement must be true. The statement need not be notarized but must be made by the borrower under penalty of perjury. In the statement, the borrower must—
 
-(i) State that the borrower (or the student on whose behalf a parent borrowed) -
+(i) State that the borrower (or the student on whose behalf a parent borrowed)—
 
 (A) Received the proceeds of a loan, in whole or in part, on or after January 1, 1986 to attend a school;
 
@@ -28,15 +30,15 @@
 
 (ii) State whether the borrower (or student) has made a claim with respect to the school's closing with any third party, such as the holder of a performance bond or a tuition recovery program, and, if so, the amount of any payment received by the borrower (or student) or credited to the borrower's loan obligation; and
 
-(iii) State that the borrower (or student) -
+(iii) State that the borrower (or student)—
 
 (A) Agrees to provide to the Secretary upon request other documentation reasonably available to the borrower that demonstrates that the borrower meets the qualifications for discharge under this section; and
 
 (B) Agrees to cooperate with the Secretary in enforcement actions in accordance with paragraph (d) of this section and to transfer any right to recovery against a third party to the Secretary in accordance with paragraph (e) of this section.
 
-(2) For loans first disbursed on or after July 1, 2020, in order to qualify for discharge of a loan under this section, a borrower must submit to the Secretary a completed application, and the factual assertions in the application must be true and made by the borrower under penalty of perjury. The application explains the procedures and eligibility criteria for obtaining a discharge and requires the borrower to -
+(2) For loans first disbursed on or after July 1, 2020, in order to qualify for discharge of a loan under this section, a borrower must submit to the Secretary a completed application, and the factual assertions in the application must be true and made by the borrower under penalty of perjury. The application explains the procedures and eligibility criteria for obtaining a discharge and requires the borrower to—
 
-(i) Certify that the borrower (or the student on whose behalf a parent borrowed) -
+(i) Certify that the borrower (or the student on whose behalf a parent borrowed)—
 
 (A) Received the proceeds of a loan, in whole or in part, on or after July 1, 2020 to attend a school;
 
@@ -46,13 +48,13 @@
 
 (ii) Certify that the borrower (or the student on whose behalf the parent borrowed) has not accepted the opportunity to complete, or is not continuing in, the program of study or a comparable program through either an institutional teach-out plan performed by the school or a teach-out agreement at another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency.
 
-(3) If the Secretary determines, based on information in the Secretary's possession, that the borrower qualifies for the discharge of a loan under this section, the Secretary -
+(3) If the Secretary determines, based on information in the Secretary's possession, that the borrower qualifies for the discharge of a loan under this section, the Secretary—
 
 (i) May discharge the loan without an application from the borrower; and
 
 (ii) With respect to schools that closed on or after November 1, 2013, and before July 1, 2020, will discharge the loan without an application from the borrower if the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years from the date the school closed.
 
-(d) *Cooperation by borrower in enforcement actions.* (1) In order to obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must -
+(d) *Cooperation by borrower in enforcement actions.* (1) In order to obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must—
 
 (i) Provide testimony regarding any representation made by the borrower to support a request for discharge;
 
@@ -60,7 +62,7 @@
 
 (iii) If required by the Secretary, provide a sworn statement regarding those documents and representations.
 
-(2) The Secretary denies the request for a discharge or revokes the discharge of a borrower who -
+(2) The Secretary denies the request for a discharge or revokes the discharge of a borrower who—
 
 (i) Fails to provide the testimony, documents, or a sworn statement required under paragraph (d)(1) of this section; or
 

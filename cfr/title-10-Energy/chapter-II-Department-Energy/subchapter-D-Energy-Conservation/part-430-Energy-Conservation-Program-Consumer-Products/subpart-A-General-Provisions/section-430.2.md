@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 54129, Sept. 2, 2022.Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
+Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
@@ -308,7 +308,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (1) Of a type specified in section 322 of the Act; or
 
-(2) That is a ceiling fan, ceiling fan light kit, medium base compact fluorescent lamp, dehumidifier, battery charger, external power supply, torchiere, portable air conditioner, or miscellaneous refrigeration product.
+(2) That is an air cleaner, battery charger, ceiling fan, ceiling fan light kit, dehumidifier, external power supply, medium base compact fluorescent lamp, miscellaneous refrigeration product, portable air conditioner, portable electric spa, or torchiere.
 
 *Dealer* means a type of contractor, generally with a relationship with one or more specific manufacturers.
 
@@ -791,6 +791,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Portable dehumidifier* means a dehumidifier designed to operate within the dehumidified space without the attachment of additional ducting, although means may be provided for optional duct attachment.
 
 *Portable electric heater* means an electric heater which is intended to stand unsupported, and can be moved from place to place within a structure. It is connected to electric supply by means of a cord and plug, and transfers heat by radiation and/or convention (either natural or forced).
+
+*Portable electric spa* means a factory-built electric spa or hot tub, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachment.
 
 *Primary electric heater* means an electric heater that is the principal source of heat for a structure and includes baseboard electric heaters, ceiling electric heaters, floor electric heaters, and wall electric heaters.
 

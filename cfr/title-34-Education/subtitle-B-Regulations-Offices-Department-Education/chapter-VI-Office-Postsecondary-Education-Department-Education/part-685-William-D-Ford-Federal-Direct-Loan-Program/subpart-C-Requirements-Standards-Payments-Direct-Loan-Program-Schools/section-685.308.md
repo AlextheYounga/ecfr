@@ -1,6 +1,8 @@
 ##### § 685.308 Remedial actions. #####
 
-(a) *General.* The Secretary may require the repayment of funds and the purchase of loans by the school if the Secretary determines that the school is liable as a result of -
+Link to an amendment published at 87 FR 66068, Nov. 1, 2022.
+
+(a) *General.* The Secretary may require the repayment of funds and the purchase of loans by the school if the Secretary determines that the school is liable as a result of—
 
 (1) The school's violation of a Federal statute or regulation;
 

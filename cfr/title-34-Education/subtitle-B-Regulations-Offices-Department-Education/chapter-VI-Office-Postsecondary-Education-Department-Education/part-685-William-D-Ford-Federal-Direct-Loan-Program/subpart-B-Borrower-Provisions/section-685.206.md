@@ -1,5 +1,7 @@
 ##### § 685.206 Borrower responsibilities and defenses. #####
 
+Link to an amendment published at 87 FR 66055, Nov. 1, 2022.
+
 (a) The borrower must give the school the following information as part of the origination process for a Direct Subsidized, Direct Unsubsidized, or Direct PLUS Loan:
 
 (1) A statement, as described in 34 CFR part 668, that the loan will be used for the cost of the student's attendance.
@@ -22,13 +24,13 @@
 
 (2) The order of objections for defaulted Direct Loans are as described in § 685.222(a)(6). A borrower defense claim under this section must be asserted, and will be resolved, under the procedures in § 685.222(e) to (k).
 
-(3) For an approved borrower defense under this section, except as provided in paragraph (c)(4) of this section, the Secretary may initiate an appropriate proceeding to collect from the school whose act or omission resulted in the borrower defense the amount of relief arising from the borrower defense, within the later of -
+(3) For an approved borrower defense under this section, except as provided in paragraph (c)(4) of this section, the Secretary may initiate an appropriate proceeding to collect from the school whose act or omission resulted in the borrower defense the amount of relief arising from the borrower defense, within the later of—
 
 (i) Three years from the end of the last award year in which the student attended the institution; or
 
 (ii) The limitation period that State law would apply to an action by the borrower to recover on the cause of action on which the borrower defense is based.
 
-(4) The Secretary may initiate a proceeding to collect at any time if the institution received notice of the claim before the end of the later of the periods described in paragraph (c)(3) of this section. For purposes of this paragraph, notice includes receipt of -
+(4) The Secretary may initiate a proceeding to collect at any time if the institution received notice of the claim before the end of the later of the periods described in paragraph (c)(3) of this section. For purposes of this paragraph, notice includes receipt of—
 
 (i) Actual notice from the borrower, from a representative of the borrower, or from the Department;
 
@@ -50,7 +52,7 @@
 
 (B) In the case of a Direct PLUS Loan, any endorsers, and for a Direct PLUS Loan made to a parent, the student on whose behalf the parent borrowed.
 
-(iii) A “borrower defense to repayment” includes -
+(iii) A “borrower defense to repayment” includes—
 
 (A) A defense to repayment of amounts owed to the Secretary on a Direct Loan, or a Direct Consolidation Loan that was used to repay a Direct Loan, FFEL Program Loan, Federal Perkins Loan, Health Professions Student Loan, Loan for Disadvantaged Students under subpart II of part A of title VII of the Public Health Service Act, Health Education Assistance Loan, or Nursing Loan made under part E of the Public Health Service Act; and
 
@@ -60,7 +62,7 @@
 
 (v) The terms “school” and “institution” may be used interchangeably and include an eligible institution, one of its representatives, or any ineligible institution, organization, or person with whom the eligible institution has an agreement to provide educational programs, or to provide marketing, advertising, recruiting, or admissions services.
 
-(2) *Federal standard for loans first disbursed on or after July 1, 2020.* For a Direct Loan or Direct Consolidation Loan first disbursed on or after July 1, 2020, a borrower may assert a defense to repayment under this paragraph (e),if the borrower establishes by a preponderance of the evidence that -
+(2) *Federal standard for loans first disbursed on or after July 1, 2020.* For a Direct Loan or Direct Consolidation Loan first disbursed on or after July 1, 2020, a borrower may assert a defense to repayment under this paragraph (e),if the borrower establishes by a preponderance of the evidence that—
 
 (i) The institution at which the borrower enrolled made a misrepresentation, as defined in § 685.206(e)(3), of material fact upon which the borrower reasonably relied in deciding to obtain a Direct Loan, or a loan repaid by a Direct Consolidation Loan, and that directly and clearly relates to:
 
@@ -104,11 +106,11 @@
 
 (iv) The borrower's inability to complete the program because the institution no longer offers a requirement necessary for completion of the program in which the borrower enrolled and the institution did not provide for an acceptable alternative requirement to enable completion of the program.
 
-(5) *Exclusions.* The Secretary will not accept the following as a basis for a borrower defense to repayment -
+(5) *Exclusions.* The Secretary will not accept the following as a basis for a borrower defense to repayment—
 
 (i) A violation by the institution of a requirement of the Act or the Department's regulations for a borrower defense to repayment under paragraph (c) or (d) of this section or under § 685.222, unless the violation would otherwise constitute the basis for a successful borrower defense to repayment under this paragraph (e); or
 
-(ii) A claim that does not directly and clearly relate to enrollment or continuing enrollment at the institution or the provision of educational services for which the loan was made, including, but not limited to -
+(ii) A claim that does not directly and clearly relate to enrollment or continuing enrollment at the institution or the provision of educational services for which the loan was made, including, but not limited to—
 
 (A) Personal injury;
 
@@ -138,7 +140,7 @@
 
 (ii) A final decision by a duly appointed arbitrator or arbitration panel that establishes that the institution made a misrepresentation, as defined in § 685.206(e)(3).
 
-(8) *Application and Forbearance.* To assert a defense to repayment under this paragraph (e), a borrower must submit an application under penalty of perjury on a form approved by the Secretary and sign a waiver permitting the institution to provide the Department with items from the borrower's education record relevant to the defense to repayment claim. The form will note that pursuant to paragraph (b)(6)(i) of this section, if the borrower is not in default on the loan for which a borrower defense has been asserted, the Secretary will grant forbearance and notify the borrower of the option to decline forbearance. The application requires the borrower to -
+(8) *Application and Forbearance.* To assert a defense to repayment under this paragraph (e), a borrower must submit an application under penalty of perjury on a form approved by the Secretary and sign a waiver permitting the institution to provide the Department with items from the borrower's education record relevant to the defense to repayment claim. The form will note that pursuant to paragraph (b)(6)(i) of this section, if the borrower is not in default on the loan for which a borrower defense has been asserted, the Secretary will grant forbearance and notify the borrower of the option to decline forbearance. The application requires the borrower to—
 
 (i) Certify that the borrower received the proceeds of a loan, in whole or in part, to attend the named institution;
 
@@ -164,7 +166,7 @@
 
 (iv) There will be no other submissions by the borrower or the school to the Secretary, unless the Secretary requests further clarifying information.
 
-(11) *Written decision.* (i) After considering the borrower's application and all applicable evidence, the Secretary issues a written decision -
+(11) *Written decision.* (i) After considering the borrower's application and all applicable evidence, the Secretary issues a written decision—
 
 (A) Notifying the borrower and the school of the decision on the borrower defense to repayment;
 
@@ -184,7 +186,7 @@
 
 (13) *Finality of borrower defense to repayment decisions.* The determination of a borrower's defense to repayment by the Department included in the written decision referenced in paragraph (e)(11) of this section is the final decision of the Department and is not subject to appeal within the Department.
 
-(14) *Cooperation by the borrower.* The Secretary may revoke any relief granted to a borrower under this section who refuses to cooperate with the Secretary in any proceeding under paragraph (e) of this section or under 34 CFR part 668, subpart G. Such cooperation includes, but is not limited to -
+(14) *Cooperation by the borrower.* The Secretary may revoke any relief granted to a borrower under this section who refuses to cooperate with the Secretary in any proceeding under paragraph (e) of this section or under 34 CFR part 668, subpart G. Such cooperation includes, but is not limited to—
 
 (i) Providing testimony regarding any representation made by the borrower to support a successful borrower defense to repayment; and
 

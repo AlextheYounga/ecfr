@@ -1,6 +1,8 @@
 ##### § 685.208 Repayment plans. #####
 
-(a) *General* - (1) *Borrowers who entered repayment before July 1, 2006.* (i) A Direct Subsidized Loan, a Direct Unsubsidized Loan, a Direct Subsidized Consolidation Loan, or a Direct Unsubsidized Consolidation Loan may be repaid under -
+Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
+
+(a) *General*—(1) *Borrowers who entered repayment before July 1, 2006.* (i) A Direct Subsidized Loan, a Direct Unsubsidized Loan, a Direct Subsidized Consolidation Loan, or a Direct Unsubsidized Consolidation Loan may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (b) of this section;
 
@@ -12,7 +14,7 @@
 
 (E) The income-based repayment plan in accordance with paragraph (m) of this section.
 
-(ii) A Direct PLUS Loan or a Direct PLUS Consolidation Loan may be repaid under -
+(ii) A Direct PLUS Loan or a Direct PLUS Consolidation Loan may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (b) of this section;
 
@@ -20,7 +22,7 @@
 
 (C) The graduated repayment plan in accordance with paragraph (f) of this section.
 
-(2) *Borrowers entering repayment on or after July 1, 2006.* (i) A Direct Subsidized Loan, a Direct Unsubsidized Loan, or a Direct PLUS Loan that was made to a graduate or professional student borrower may be repaid under -
+(2) *Borrowers entering repayment on or after July 1, 2006.* (i) A Direct Subsidized Loan, a Direct Unsubsidized Loan, or a Direct PLUS Loan that was made to a graduate or professional student borrower may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (b) of this section;
 
@@ -32,7 +34,7 @@
 
 (E) The income-based repayment plan in accordance with paragraph (m) of this section.
 
-(ii) A Direct PLUS Loan that was made to a parent borrower may be repaid under -
+(ii) A Direct PLUS Loan that was made to a parent borrower may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (b) of this section;
 
@@ -40,7 +42,7 @@
 
 (C) The graduated repayment plan in accordance with paragraph (g) of this section.
 
-(iii) A Direct Consolidation Loan that did not repay a parent Direct PLUS Loan or a parent Federal PLUS Loan may be repaid under -
+(iii) A Direct Consolidation Loan that did not repay a parent Direct PLUS Loan or a parent Federal PLUS Loan may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (c) of this section;
 
@@ -52,7 +54,7 @@
 
 (E) The income-based repayment plan in accordance with paragraph (m) of this section.
 
-(iv) A Direct Consolidation Loan that repaid a parent Direct PLUS Loan or a parent Federal PLUS Loan may be repaid under -
+(iv) A Direct Consolidation Loan that repaid a parent Direct PLUS Loan or a parent Federal PLUS Loan may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (c) of this section;
 
@@ -66,7 +68,7 @@
 
 (3) The Secretary may provide an alternative repayment plan in accordance with paragraph (l) of this section.
 
-(4) All Direct Loans obtained by one borrower must be repaid together under the same repayment plan, except that -
+(4) All Direct Loans obtained by one borrower must be repaid together under the same repayment plan, except that—
 
 (i) A borrower of a Direct PLUS Loan or a Direct Consolidation Loan that is not eligible for repayment under an income-contingent repayment plan or the income-based repayment plan may repay the Direct PLUS Loan or Direct Consolidation Loan separately from other Direct Loans obtained by the borrower; and
 
@@ -112,7 +114,7 @@
 
 (2) A borrower's payments under this repayment plan may be less than $50 per month. No single payment under this plan will be more than three times greater than any other payment.
 
-(i) *Repayment period for the extended and graduated plans described in paragraphs (d) and (f) of this section, respectively.* Under these repayment plans, if the total amount of the borrower's Direct Loans is -
+(i) *Repayment period for the extended and graduated plans described in paragraphs (d) and (f) of this section, respectively.* Under these repayment plans, if the total amount of the borrower's Direct Loans is—
 
 (1) Less than $10,000, the borrower must repay the loans within 12 years of entering repayment;
 
@@ -124,7 +126,7 @@
 
 (5) Greater than or equal to $60,000, the borrower must repay the loans within 30 years of entering repayment.
 
-(j) *Repayment period for the standard and graduated repayment plans described in paragraphs (c) and (h) of this section, respectively.* Under these repayment plans, if the total amount of the Direct Consolidation Loan and the borrower's other student loans, as defined in § 685.220(i), is -
+(j) *Repayment period for the standard and graduated repayment plans described in paragraphs (c) and (h) of this section, respectively.* Under these repayment plans, if the total amount of the Direct Consolidation Loan and the borrower's other student loans, as defined in § 685.220(i), is—
 
 (1) Less than $7,500, the borrower must repay the Consolidation Loan within 10 years of entering repayment;
 
@@ -144,7 +146,7 @@
 
 (3) Under the income-contingent repayment plan described in § 685.209(c), a borrower's required monthly payment is limited to no more than 10 percent of the amount by which the borrower's AGI exceeds 150 percent of the poverty guideline applicable to the borrower's family size, divided by 12, unless the borrower's monthly payment amount is adjusted in accordance with § 685.209(c)(4)(vi)(E).
 
-(4) For the income-contingent repayment plan described in § 685.209(b), the regulations in effect at the time a borrower enters repayment and selects the income-contingent repayment plan or changes into the income-contingent repayment plan from another plan govern the method for determining the borrower's monthly repayment amount for all of the borrower's Direct Loans, unless -
+(4) For the income-contingent repayment plan described in § 685.209(b), the regulations in effect at the time a borrower enters repayment and selects the income-contingent repayment plan or changes into the income-contingent repayment plan from another plan govern the method for determining the borrower's monthly repayment amount for all of the borrower's Direct Loans, unless—
 
 (i) The Secretary amends the regulations relating to a borrower's monthly repayment amount under the income-contingent repayment plan; and
 

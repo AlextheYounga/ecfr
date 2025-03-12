@@ -1,6 +1,8 @@
 ##### § 668.91 Initial and final decisions. #####
 
-(a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to -
+Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
+
+(a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to—
 
 (A) The designated department official who began a proceeding against an institution or third-party servicer;
 
@@ -22,19 +24,19 @@
 
 (ii) In a borrower defense and recovery proceeding conducted in two phases under § 668.87(a)(1)(iv)(B), the hearing official's initial decision determines whether the institution is liable for the act or omission described in the notice of intent to recover, and the hearing official issues an initial decision on liability only.
 
-(3) Notwithstanding the provisions of paragraph (a)(2) of this section -
+(3) Notwithstanding the provisions of paragraph (a)(2) of this section—
 
 (i) If, in a termination action against an institution, the hearing official finds that the institution has violated the provisions of § 668.14(b)(18), the hearing official also finds that termination of the institution's participation is warranted;
 
 (ii) If, in a termination action against a third-party servicer, the hearing official finds that the servicer has violated the provisions of § 668.14(b)(18), the hearing official also finds that termination of the institution's participation or servicer's eligibility is warranted;
 
-(iii) In an action brought against an institution or third-party servicer that involves its failure to provide a letter of credit, or other financial protection under § 668.15 or § 668.171(c) or (d), the hearing official finds that the amount of the letter of credit or other financial protection established by the Secretary under § 668.175 is appropriate, unless the institution demonstrates that the amount was not warranted because -
+(iii) In an action brought against an institution or third-party servicer that involves its failure to provide a letter of credit, or other financial protection under § 668.15 or § 668.171(c) or (d), the hearing official finds that the amount of the letter of credit or other financial protection established by the Secretary under § 668.175 is appropriate, unless the institution demonstrates that the amount was not warranted because—
 
 (A) For financial protection demanded based on events or conditions described in § 668.171(c) or (d), the events or conditions no longer exist, have been resolved, or the institution demonstrates that it has insurance that will cover all potential debts and liabilities that arise from the triggering event or condition. The institution can demonstrate it has insurance that covers risk by presenting the Department with a copy of the insurance policy that makes clear the institution's coverage;
 
 (B) For financial protection demanded based on the grounds identified in § 668.171(d), the action or event does not and will not have a material adverse effect on the financial condition, business, or results of operations of the institution;
 
-(C) The institution has proffered alternative financial protection that provides students and the Department adequate protection against losses resulting from the risks identified by the Secretary. Adequate protection may consist of one or more of the following -
+(C) The institution has proffered alternative financial protection that provides students and the Department adequate protection against losses resulting from the risks identified by the Secretary. Adequate protection may consist of one or more of the following—
 
 (*1*) An agreement with the Secretary that a portion of the funds due to the institution under a reimbursement or heightened cash monitoring funding arrangement will be temporarily withheld in such amounts as will meet, no later than the end of a six to 12 month period, the amount of the required financial protection demanded; or
 
@@ -44,7 +46,7 @@
 
 (v)(A) In a termination action against an institution based on the grounds that the institution is not financially responsible under § 668.15(c)(1), the hearing official finds that the termination is warranted unless the institution demonstrates that all applicable conditions described in § 668.15(d)(4) have been met; and
 
-(B) In a termination or limitation action against an institution based on the grounds that the institution is not financially responsible -
+(B) In a termination or limitation action against an institution based on the grounds that the institution is not financially responsible—
 
 (*1*) Upon proof of the conditions in § 668.174(a), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all the conditions in § 668.175(h)(2) have been met; and
 
@@ -54,7 +56,7 @@
 
 (b)(1) In a suspension proceeding, the Secretary reviews the hearing official's initial decision and issues a final decision within 20 days after the initial decision. The Secretary adopts the initial decision unless it is clearly unsupported by the evidence presented at the hearing.
 
-(2) The Secretary notifies the institution or servicer and, in the case of a suspension proceeding against a third-party servicer, each institution that contracts with the servicer of the final decision. If the Secretary suspends the institution's participation or servicer's eligibility, the suspension takes effect on the later of -
+(2) The Secretary notifies the institution or servicer and, in the case of a suspension proceeding against a third-party servicer, each institution that contracts with the servicer of the final decision. If the Secretary suspends the institution's participation or servicer's eligibility, the suspension takes effect on the later of—
 
 (i) The day that the institution or servicer receives the notice; or
 
@@ -70,7 +72,7 @@
 
 (iii) The opposing party shall submit its brief or other responsive statement to the Secretary, with a copy to the appellant, within 30 days after the opposing party receives the appellant's brief or written statement.
 
-(iv) The appealing party may submit proposed findings of fact or conclusions of law. However, the proposed findings of fact must be supported by -
+(iv) The appealing party may submit proposed findings of fact or conclusions of law. However, the proposed findings of fact must be supported by—
 
 (A) The evidence introduced into the record at the hearing;
 

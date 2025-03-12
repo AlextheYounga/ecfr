@@ -1,6 +1,8 @@
 ##### § 685.202 Charges for which Direct Loan Program borrowers are responsible. #####
 
-(a) *Interest* - (1) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans first disbursed before July 1, 1995.* During all periods, the interest rate during any twelve-month period beginning on July 1 and ending on June 30 is determined on the June 1 immediately preceding that period. The interest rate is equal to the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to that June 1 plus 3.1 percentage points, but does not exceed 8.25 percent.
+Link to an amendment published at 87 FR 66055, Nov. 1, 2022.
+
+(a) *Interest*—(1) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans first disbursed before July 1, 1995.* During all periods, the interest rate during any twelve-month period beginning on July 1 and ending on June 30 is determined on the June 1 immediately preceding that period. The interest rate is equal to the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to that June 1 plus 3.1 percentage points, but does not exceed 8.25 percent.
 
 (2) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans first disbursed on or after July 1, 1995, and before July 1, 1998.* (i) *During the in-school, grace, and deferment periods.* The interest rate during any twelve-month period beginning on July 1 and ending on June 30 is determined on the June 1 immediately preceding that period. The interest rate is equal to the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to that June 1 plus 2.5 percentage points, but does not exceed 8.25 percent.
 
@@ -26,13 +28,13 @@
 
 (6) *Interest rate for Direct Unsubsidized Loans first disbursed on or after July 1, 2006, and before July 1, 2013.* The interest rate is 6.8 percent.
 
-(7) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans made to undergraduate students for which the first disbursement is made on or after July 1, 2013.* The interest rate for loans first disbursed during any 12-month period beginning on July 1 and ending on June 30 is determined on the June 1 preceding that period and is a fixed rate for the life of the loan. The interest rate is the lesser of -
+(7) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans made to undergraduate students for which the first disbursement is made on or after July 1, 2013.* The interest rate for loans first disbursed during any 12-month period beginning on July 1 and ending on June 30 is determined on the June 1 preceding that period and is a fixed rate for the life of the loan. The interest rate is the lesser of—
 
 (i) A rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to the June 1 preceding the 12-month period, plus 2.05 percentage points, or
 
 (ii) 8.25 percent.
 
-(8) *Interest rate for Direct Unsubsidized Loans made to graduate or professional students for which the first disbursement is made on or after July 1, 2013.* The interest rate for loans first disbursed during any 12-month period beginning on July 1 and ending on June 30 is determined on the June 1 preceding that period and is a fixed rate for the life of the loan. The interest rate is the lesser of -
+(8) *Interest rate for Direct Unsubsidized Loans made to graduate or professional students for which the first disbursement is made on or after July 1, 2013.* The interest rate for loans first disbursed during any 12-month period beginning on July 1 and ending on June 30 is determined on the June 1 preceding that period and is a fixed rate for the life of the loan. The interest rate is the lesser of—
 
 (i) A rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to the June 1 preceding the 12-month period, plus 3.6 percentage points, or
 
@@ -46,13 +48,13 @@
 
 (iii) *Direct PLUS Loans first disbursed on or after July 1, 2006, and before July 1, 2013.* The interest rate is 7.9 percent.
 
-(iv) *Direct PLUS Loans first disbursed on or after July 1, 2013.* The interest rate for loans first disbursed during any 12-month period beginning on July 1 and ending on June 30 is determined on the June 1 preceding that period and is a fixed rate for the life of the loan. The interest rate is the lesser of -
+(iv) *Direct PLUS Loans first disbursed on or after July 1, 2013.* The interest rate for loans first disbursed during any 12-month period beginning on July 1 and ending on June 30 is determined on the June 1 preceding that period and is a fixed rate for the life of the loan. The interest rate is the lesser of—
 
 (A) A rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to the June 1 preceding the 12-month period, plus 4.6 percentage points, or
 
 (B) 10.5 percent.
 
-(10) *Interest rate for Direct Consolidation Loans* - (i) *Interest rate for Direct Subsidized Consolidation Loans and Direct Unsubsidized Consolidation Loans.* (A) *Loans first disbursed before July 1, 1995.* The interest rate is the rate established for Direct Subsidized Loans and Direct Unsubsidized Loans in paragraph (a)(1) of this section.
+(10) *Interest rate for Direct Consolidation Loans*—(i) *Interest rate for Direct Subsidized Consolidation Loans and Direct Unsubsidized Consolidation Loans.* (A) *Loans first disbursed before July 1, 1995.* The interest rate is the rate established for Direct Subsidized Loans and Direct Unsubsidized Loans in paragraph (a)(1) of this section.
 
 (B) *Loans first disbursed on or after July 1, 1995, and before July 1, 1998.* The interest rate is the rate established for Direct Subsidized Loans and Direct Unsubsidized Loans in paragraph (a)(2) of this section.
 
@@ -72,9 +74,9 @@
 
 (D) *Loans for which the consolidation application is received by the Secretary on or after February 1, 1999, and before July 1, 2006.* During all periods, the interest rate is based on the weighted average of the interest rates on the loans being consolidated, rounded to the nearest higher one-eighth of one percent, but does not exceed 8.25 percent.
 
-(11) *Applicability of the Servicemembers Civil Relief Act (SCRA)(50 U.S.C. 527, App. sec. 207).* Notwithstanding paragraphs (a)(1) through (10) of this section, upon the Secretary's receipt of evidence of the borrower's military service, the maximum interest rate under 50 U.S.C. 527, App. section 207(a), on Direct Loan Program loans made prior to the borrower entering military service status is six percent while the borrower is in military service. For purposes of this paragraph, the interest rate includes any other charges or fees applied to the loan. For purposes of this paragraph (a)(11), the term “military service” means -
+(11) *Applicability of the Servicemembers Civil Relief Act (SCRA)(50 U.S.C. 527, App. sec. 207).* Notwithstanding paragraphs (a)(1) through (10) of this section, upon the Secretary's receipt of evidence of the borrower's military service, the maximum interest rate under 50 U.S.C. 527, App. section 207(a), on Direct Loan Program loans made prior to the borrower entering military service status is six percent while the borrower is in military service. For purposes of this paragraph, the interest rate includes any other charges or fees applied to the loan. For purposes of this paragraph (a)(11), the term “military service” means—
 
-(i) In the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard -
+(i) In the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard—
 
 (A) Active duty, meaning full-time duty in the active military service of the United States. Such term includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Such term does not include full-time National Guard duty.
 
@@ -94,7 +96,7 @@
 
 (5) The Secretary may capitalize unpaid interest when the borrower defaults on the loan.
 
-(c) *Loan fee for Direct Subsidized, Direct Unsubsidized, and Direct PLUS Loans.* The Secretary -
+(c) *Loan fee for Direct Subsidized, Direct Unsubsidized, and Direct PLUS Loans.* The Secretary—
 
 (1)(i) For a Direct Subsidized or Direct Unsubsidized loan first disbursed prior to February 8, 2006, charges a borrower a loan fee not to exceed 4 percent of the principal amount of the loan;
 
@@ -114,9 +116,9 @@
 
 (3) In the case of a loan disbursed in multiple installments, deducts a pro rated portion of the fee from each disbursement; and
 
-(4) Applies to a borrower's loan balance the portion of the loan fee previously deducted from the loan that is attributable to any portion of the loan that is -
+(4) Applies to a borrower's loan balance the portion of the loan fee previously deducted from the loan that is attributable to any portion of the loan that is—
 
-(i) Repaid or returned within 120 days of disbursement, unless -
+(i) Repaid or returned within 120 days of disbursement, unless—
 
 (A) The borrower has no Direct Loans in repayment status and has requested, in writing, that the repaid or returned funds be used for a different purpose; or
 

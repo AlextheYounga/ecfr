@@ -1,12 +1,14 @@
 ##### § 600.41 Termination and emergency action proceedings. #####
 
-(a) If the Secretary believes that a previously designated eligible institution as a whole, or at one or more of its locations, does not satisfy the statutory or regulatory requirements that define that institution as an eligible institution, the Secretary may -
+Link to an amendment published at 87 FR 66039, Nov. 1, 2022.
 
-(1) Terminate the institution's eligibility designation in whole or as to a particular location -
+(a) If the Secretary believes that a previously designated eligible institution as a whole, or at one or more of its locations, does not satisfy the statutory or regulatory requirements that define that institution as an eligible institution, the Secretary may—
+
+(1) Terminate the institution's eligibility designation in whole or as to a particular location—
 
 (i) Under the procedural provisions applicable to terminations contained in 34 CFR 668.81, 668.83, 668.86, 668.87, 668.88, 668.89, 668.90 (a)(1), (a)(4), and (c) through (f), and 668.91; or
 
-(ii) Under a show-cause hearing, if the institution's loss of eligibility results from -
+(ii) Under a show-cause hearing, if the institution's loss of eligibility results from—
 
 (A) Its previously qualifying as an eligible vocational school;
 
@@ -24,7 +26,7 @@
 
 (3) Initiate an emergency action under the provisions contained in 34 CFR 668.83 with regard to the institution's participation in one or more title IV, HEA programs.
 
-(b) If the Secretary believes that an educational program offered by an institution that was previously designated by the Secretary as an eligible institution under the HEA does not satisfy relevant statutory or regulatory requirements that define that educational program as part of an eligible institution, the Secretary may in accordance with the procedural provisions described in paragraph (a) of this section -
+(b) If the Secretary believes that an educational program offered by an institution that was previously designated by the Secretary as an eligible institution under the HEA does not satisfy relevant statutory or regulatory requirements that define that educational program as part of an eligible institution, the Secretary may in accordance with the procedural provisions described in paragraph (a) of this section—
 
 (1) Undertake to terminate that educational program's eligibility under one or more of the title IV, HEA programs under the procedural provisions applicable to terminations described in paragraph (a) of this section;
 
@@ -34,19 +36,19 @@
 
 (c)(1) An action to terminate and limit the eligibility of an institution as a whole or as to any of its locations or educational programs is initiated in accordance with 34 CFR 668.86(b) and becomes final 20 days after the Secretary notifies the institution of the proposed action, unless the designated department official receives by that date a request for a hearing or written material that demonstrates that the termination and limitation should not take place.
 
-(2) Once a termination under this section becomes final, the termination is effective with respect to any commitment, delivery, or disbursement of funds provided under an applicable title IV, HEA program by the institution -
+(2) Once a termination under this section becomes final, the termination is effective with respect to any commitment, delivery, or disbursement of funds provided under an applicable title IV, HEA program by the institution—
 
 (i) Made to students enrolled in the ineligible institution, location, or educational program; and
 
 (ii) Made on or after the date of the act or omission that caused the loss of eligibility as to the institution, location, or educational program.
 
-(3) Once a limitation under this section becomes final, the limitation is effective with regard to any commitment, delivery, or disbursement of funds under the applicable title IV, HEA program by the institution -
+(3) Once a limitation under this section becomes final, the limitation is effective with regard to any commitment, delivery, or disbursement of funds under the applicable title IV, HEA program by the institution—
 
 (i) Made after the date on which the limitation became final; and
 
 (ii) Made to students enrolled in the ineligible institution, location, or educational program.
 
-(d) After a termination under this section of the eligibility of an institution as a whole or as to a location or educational program becomes final, the institution may not originate applications for, make awards of or commitments for, deliver, or disburse funds under the applicable title IV, HEA program, except -
+(d) After a termination under this section of the eligibility of an institution as a whole or as to a location or educational program becomes final, the institution may not originate applications for, make awards of or commitments for, deliver, or disburse funds under the applicable title IV, HEA program, except—
 
 (1) In accordance with the requirements of 34 CFR 668.26(c) with respect to students enrolled in the ineligible institution, location, or educational program; and
 

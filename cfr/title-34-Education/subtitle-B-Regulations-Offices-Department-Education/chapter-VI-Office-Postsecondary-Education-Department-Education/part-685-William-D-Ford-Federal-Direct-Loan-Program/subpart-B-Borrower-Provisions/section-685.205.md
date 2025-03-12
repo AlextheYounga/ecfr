@@ -1,6 +1,8 @@
 ##### § 685.205 Forbearance. #####
 
-(a) *General.* “Forbearance” means permitting the temporary cessation of payments, allowing an extension of time for making payments, or temporarily accepting smaller payments than previously scheduled. The borrower has the option to choose the form of forbearance. Except as provided in paragraph (b)(9) of this section, if payments of interest are forborne, they are capitalized. The Secretary grants forbearance if the borrower or endorser intends to repay the loan but requests forbearance and provides sufficient documentation to support this request, and -
+Link to an amendment published at 87 FR 66055, Nov. 1, 2022.
+
+(a) *General.* “Forbearance” means permitting the temporary cessation of payments, allowing an extension of time for making payments, or temporarily accepting smaller payments than previously scheduled. The borrower has the option to choose the form of forbearance. Except as provided in paragraph (b)(9) of this section, if payments of interest are forborne, they are capitalized. The Secretary grants forbearance if the borrower or endorser intends to repay the loan but requests forbearance and provides sufficient documentation to support this request, and—
 
 (1) The Secretary determines that, due to poor health or other acceptable reasons, the borrower or endorser is currently unable to make scheduled payments;
 
@@ -12,7 +14,7 @@
 
 (5)(i) The borrower is performing the type of service that would qualify the borrower for loan forgiveness under the requirements of the teacher loan forgiveness program in § 685.217.
 
-(ii) Before a forbearance is granted under § 685.205(a)(5)(i), the borrower must -
+(ii) Before a forbearance is granted under § 685.205(a)(5)(i), the borrower must—
 
 (A) Submit documentation for the period of the annual forbearance request showing the beginning and ending dates that the borrower is expected to perform, for that year, the type of service described in § 685.217(c); and
 
@@ -20,13 +22,13 @@
 
 (iii) The Secretary grants forbearance under paragraph (a)(5) of this section only if the Secretary believes, at the time of the borrower's annual request, that the expected forgiveness amount under § 685.217(d) will satisfy the anticipated remaining outstanding balance on the borrower's loan at the time of the expected forgiveness;
 
-(6) For not more than three years during which the borrower or endorser -
+(6) For not more than three years during which the borrower or endorser—
 
 (i) Is currently obligated to make payments on loans under title IV of the Act; and
 
 (ii) The sum of these payments each month (or a proportional share if the payments are due less frequently than monthly) is equal to or greater than 20 percent of the borrower's or endorser's total monthly gross income.
 
-(7) The borrower is a member of the National Guard who qualifies for a post-active duty student deferment, but does not qualify for a military service or other deferment, and is engaged in active State duty for a period of more than 30 consecutive days, beginning -
+(7) The borrower is a member of the National Guard who qualifies for a post-active duty student deferment, but does not qualify for a military service or other deferment, and is engaged in active State duty for a period of more than 30 consecutive days, beginning—
 
 (i) On the day after the grace period expires for a Direct Subsidized Loan or Direct Unsubsidized Loan that has not entered repayment; or
 
@@ -34,7 +36,7 @@
 
 (8)(i) The Secretary may grant a forbearance to permit a borrower or endorser to resume honoring the agreement to repay the debt after default. The terms of the forbearance agreement in this situation must include a new agreement to repay the debt signed by the borrower or endorser or a written or oral affirmation of the borrower's or endorser's obligation to repay the debt.
 
-(ii) If the forbearance is based on the borrower's or endorser's oral affirmation of the obligation to repay the debt, the forbearance period is limited to 120 days, such a forbearance is not granted consecutively, and the Secretary will -
+(ii) If the forbearance is based on the borrower's or endorser's oral affirmation of the obligation to repay the debt, the forbearance period is limited to 120 days, such a forbearance is not granted consecutively, and the Secretary will—
 
 (A) Orally review with the borrower the terms and conditions of the forbearance, including the consequences of interest capitalization, and all other repayment options available to the borrower;
 
@@ -42,7 +44,7 @@
 
 (C) Retain a record of the terms of the forbearance and affirmation in the borrower's or endorser's file.
 
-(iii) For purposes of this section, an “affirmation” means an acknowledgement of the loan by the borrower or endorser in a legally binding manner. The form of the affirmation may include, but is not limited to, the borrower's or endorser's -
+(iii) For purposes of this section, an “affirmation” means an acknowledgement of the loan by the borrower or endorser in a legally binding manner. The form of the affirmation may include, but is not limited to, the borrower's or endorser's—
 
 (A) New signed repayment agreement or schedule, or another form of signed agreement to repay the debt;
 
@@ -54,7 +56,7 @@
 
 (ii) To receive a forbearance under this paragraph, the borrower must submit documentation showing the time period during which the Department of Defense considers the borrower to be eligible for a partial repayment of his or her loan under a student loan repayment program.
 
-(b) *Administrative forbearance.* In certain circumstances, the Secretary grants forbearance without requiring documentation from the borrower. These circumstances include but are not limited to -
+(b) *Administrative forbearance.* In certain circumstances, the Secretary grants forbearance without requiring documentation from the borrower. These circumstances include but are not limited to—
 
 (1) A properly granted period of deferment for which the Secretary learns the borrower did not qualify;
 
@@ -66,7 +68,7 @@
 
 (5) A period after the Secretary receives reliable information indicating that the borrower (or the student in the case of a Direct PLUS Loan obtained by a parent borrower) has died, or the borrower has become totally and permanently disabled, until the Secretary receives documentation of death or total and permanent disability;
 
-(6) Periods necessary for the Secretary to determine the borrower's eligibility for discharge -
+(6) Periods necessary for the Secretary to determine the borrower's eligibility for discharge—
 
 (i) Under 685.206(c), (d) and (e);
 

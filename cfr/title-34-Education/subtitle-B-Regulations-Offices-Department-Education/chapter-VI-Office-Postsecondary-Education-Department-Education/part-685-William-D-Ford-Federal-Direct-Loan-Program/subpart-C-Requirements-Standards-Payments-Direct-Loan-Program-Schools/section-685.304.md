@@ -1,10 +1,12 @@
 ##### § 685.304 Counseling borrowers. #####
 
+Link to an amendment published at 87 FR 66068, Nov. 1, 2022.
+
 (a) *Entrance counseling.* (1) Except as provided in paragraph (a)(8) of this section, a school must ensure that entrance counseling is conducted with each Direct Subsidized Loan or Direct Unsubsidized Loan student borrower prior to making the first disbursement of the proceeds of a loan to a student borrower unless the student borrower has received a prior Direct Subsidized Loan, Direct Unsubsidized Loan, Subsidized or Unsubsidized Federal Stafford Loan, or Federal SLS Loan.
 
 (2) Except as provided in paragraph (a)(8) of this section, a school must ensure that entrance counseling is conducted with each graduate or professional student Direct PLUS Loan borrower prior to making the first disbursement of the loan unless the student borrower has received a prior student Direct PLUS Loan or student Federal PLUS Loan.
 
-(3) Entrance counseling for Direct Subsidized Loan, Direct Unsubsidized Loan, and graduate or professional student Direct PLUS Loan borrowers must provide the borrower with comprehensive information on the terms and conditions of the loan and on the responsibilities of the borrower with respect to the loan. This information may be provided to the borrower -
+(3) Entrance counseling for Direct Subsidized Loan, Direct Unsubsidized Loan, and graduate or professional student Direct PLUS Loan borrowers must provide the borrower with comprehensive information on the terms and conditions of the loan and on the responsibilities of the borrower with respect to the loan. This information may be provided to the borrower—
 
 (i) During an entrance counseling session, conducted in person;
 
@@ -24,7 +26,7 @@
 
 (5) A school must ensure that an individual with expertise in the title IV programs is reasonably available shortly after the counseling to answer the student borrower's questions. As an alternative, in the case of a student borrower enrolled in a correspondence, distance education, or study-abroad program approved for credit at the home institution, the student borrower may be provided with written counseling materials before the loan proceeds are disbursed.
 
-(6) Entrance counseling for Direct Subsidized Loan and Direct Unsubsidized Loan borrowers must -
+(6) Entrance counseling for Direct Subsidized Loan and Direct Unsubsidized Loan borrowers must—
 
 (i) Explain the use of a Master Promissory Note (MPN);
 
@@ -34,7 +36,7 @@
 
 (iv) Emphasize that the student borrower is obligated to repay the full amount of the loan even if the student borrower does not complete the program, does not complete the program within the regular time for program completion, is unable to obtain employment upon completion, or is otherwise dissatisfied with or does not receive the educational or other services that the student borrower purchased from the school;
 
-(v) Inform the student borrower of sample monthly repayment amounts based on -
+(v) Inform the student borrower of sample monthly repayment amounts based on—
 
 (A) A range of student levels of indebtedness of Direct Subsidized Loan and Direct Unsubsidized Loan borrowers, or student borrowers with Direct Subsidized, Direct Unsubsidized, and Direct PLUS Loans depending on the types of loans the borrower has obtained; or
 
@@ -60,9 +62,9 @@
 
 (xv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to sign a class-action waiver, as defined in § 668.41(h)(2)(i) and (ii) of this chapter, the school must explain how and when the waiver applies, alternative processes the borrower may pursue to seek redress, and who to contact if the borrower has any questions.
 
-(7) Entrance counseling for graduate or professional student Direct PLUS Loan borrowers must -
+(7) Entrance counseling for graduate or professional student Direct PLUS Loan borrowers must—
 
-(i) Inform the student borrower of sample monthly repayment amounts based on -
+(i) Inform the student borrower of sample monthly repayment amounts based on—
 
 (A) A range of student levels or indebtedness of graduate or professional student PLUS loan borrowers, of student borrowers with Direct PLUS Loans and Direct Subsidized Loans or Direct Unsubsidized Loans, depending on the types of loans the borrower has obtained; or
 
@@ -74,7 +76,7 @@
 
 (iv) For a graduate or professional student Direct PLUS Loan borrower who has not received a prior Direct Subsidized Loan, Direct Unsubsidized Loan, Subsidized Federal Stafford Loan, or Unsubsidized Federal Stafford Loan, provide the information specified in paragraph (a)(6)(i) through paragraph (a)(6)(xii) of this section.
 
-(8) A school may adopt an alternative approach for entrance counseling as part of the school's quality assurance plan described in § 685.300(b)(9). If a school adopts an alternative approach, it is not required to meet the requirements of paragraphs (a)(1) through (a)(7) of this section unless the Secretary determines that the alternative approach is not adequate for the school. The alternative approach must -
+(8) A school may adopt an alternative approach for entrance counseling as part of the school's quality assurance plan described in § 685.300(b)(9). If a school adopts an alternative approach, it is not required to meet the requirements of paragraphs (a)(1) through (a)(7) of this section unless the Secretary determines that the alternative approach is not adequate for the school. The alternative approach must—
 
 (i) Ensure that each student borrower subject to entrance counseling under paragraph (a)(1) or (a)(2) of this section is provided written counseling materials that contain the information described in paragraphs (a)(6)(i) through (a)(6)(v) of this section;
 
@@ -90,7 +92,7 @@
 
 (3) If a student borrower withdraws from school without the school's prior knowledge or fails to complete the exit counseling as required, exit counseling must, within 30 days after the school learns that the student borrower has withdrawn from school or failed to complete the exit counseling as required, be provided either through interactive electronic means, by mailing written counseling materials to the student borrower at the student borrower's last known address, or by sending written counseling materials to an email address provided by the student borrower that is not an email address associated with the school sending the counseling materials.
 
-(4) The exit counseling must -
+(4) The exit counseling must—
 
 (i) Inform the student borrower of the average anticipated monthly repayment amount based on the student borrower's indebtedness or on the average indebtedness of student borrowers who have obtained Direct Subsidized Loans and Direct Unsubsidized Loans, student borrowers who have obtained only Direct PLUS Loans, or student borrowers who have obtained Direct Subsidized, Direct Unsubsidized, and Direct PLUS Loans, depending on the types of loans the student borrower has obtained, for attendance at the same school or in the same program of study at the same school;
 
@@ -98,7 +100,7 @@
 
 (iii) Explain to the borrower the options to prepay each loan, to pay each loan on a shorter schedule, and to change repayment plans;
 
-(iv) Provide information on the effects of loan consolidation including, at a minimum -
+(iv) Provide information on the effects of loan consolidation including, at a minimum—
 
 (A) The effects of consolidation on total interest to be paid, fees to be paid, and length of repayment;
 
@@ -116,7 +118,7 @@
 
 (viii) Describe the likely consequences of default, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation;
 
-(ix) Provide -
+(ix) Provide—
 
 (A) A general description of the terms and conditions under which a borrower may obtain full or partial forgiveness or discharge of principal and interest, defer repayment of principal or interest, or be granted forbearance on a title IV loan; and
 

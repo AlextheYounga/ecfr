@@ -1,6 +1,6 @@
 ##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment. #####
 
-Link to an amendment published at 87 FR 63892, Oct. 20, 2022.
+Link to an amendment published at 87 FR 63892, Oct. 20, 2022.Link to an amendment published at 87 FR 65667, Nov. 1, 2022.
 
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of commercial HVAC equipment either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 

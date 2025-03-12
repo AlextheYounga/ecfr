@@ -1,8 +1,10 @@
 ##### § 668.87 Borrower defense and recovery proceedings. #####
 
-(a) *Procedures.* (1) A designated department official begins a borrower defense and recovery proceeding against an institution by sending the institution a notice by certified mail, return receipt requested. This notice -
+Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
-(i) Informs the institution of the Secretary's intent -
+(a) *Procedures.* (1) A designated department official begins a borrower defense and recovery proceeding against an institution by sending the institution a notice by certified mail, return receipt requested. This notice—
+
+(i) Informs the institution of the Secretary's intent—
 
 (A) To determine the validity of borrower defense claims on behalf of a group under § 685.222(h), to demonstrate the validity of borrower defense claims already approved, or both, as applicable; and
 
@@ -12,11 +14,11 @@
 
 (iii) Specifies the date on which the Secretary intends to take action to recover the amount of losses arising from the granting of such relief, which date will be at least 20 days from mailing of the notice of intent and informs the institution that the Secretary will not take action to recover the amount of such loss on the date specified if the designated department official receives, by that date, a written response from the institution indicating why the Secretary should not recover. The notice shall also inform the institution that if it wishes to request a hearing pursuant to this subpart, the institution must include such a request with its written response; and
 
-(iv) Informs the institution whether the designated Department official intends to proceed with -
+(iv) Informs the institution whether the designated Department official intends to proceed with—
 
 (A) A single action; or
 
-(B) An action in two phases -
+(B) An action in two phases—
 
 (*1*) The determination whether the institution's act or omission gave rise to valid borrower defense claims; and
 

@@ -1,5 +1,7 @@
 ##### § 668.89 Hearing. #####
 
+Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
+
 (a) A hearing is an orderly presentation of arguments and evidence conducted by a hearing official. At the discretion of the hearing official, any right to a hearing may be satisfied by one or more of the following: Summary disposition pursuant to § 668.88(e), with or without oral argument; an oral evidentiary hearing conducted in person, by telephone, by video conference, or any combination thereof; or a review limited to written evidence.
 
 (b)(1) Notwithstanding any provision to the contrary, the hearing official sets the procedures to be used in the hearing, and may take steps to expedite the proceeding as appropriate.

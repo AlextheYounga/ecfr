@@ -1,5 +1,7 @@
 ##### § 685.213 Total and permanent disability discharge. #####
 
+Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
+
 (a) *General.* (1) A borrower's Direct Loan is discharged if the borrower becomes totally and permanently disabled, as defined in § 685.102(b), and satisfies the eligibility requirements in this section.
 
 (2) For a borrower who becomes totally and permanently disabled as described in paragraph (1) of the definition of that term in § 685.102(b), the borrower's loan discharge application is processed in accordance with paragraph (b) of this section.
@@ -8,7 +10,7 @@
 
 (4) For purposes of this section, a borrower's representative or a veteran's representative is a member of the borrower's family, the borrower's attorney, or another individual authorized to act on behalf of the borrower in connection with the borrower's total and permanent disability discharge application. References to a “borrower” or a “veteran” include, if applicable, the borrower's representative or the veteran's representative for purposes of applying for a total and permanent disability discharge, providing notifications or information to the Secretary, and receiving notifications from the Secretary.
 
-(b) *Discharge application process for a borrower who is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 685.102(b)* - (1) *Borrower application for discharge.* Except as provided in paragraph (d)(2) of this section, to qualify for a discharge of a Direct Loan based on a total and permanent disability, a borrower must submit a discharge application to the Secretary on a form approved by the Secretary. If the borrower notifies the Secretary that the borrower claims to be totally and permanent disabled prior to submitting a total and permanent disability discharge application, the Secretary -
+(b) *Discharge application process for a borrower who is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 685.102(b)*—(1) *Borrower application for discharge.* Except as provided in paragraph (d)(2) of this section, to qualify for a discharge of a Direct Loan based on a total and permanent disability, a borrower must submit a discharge application to the Secretary on a form approved by the Secretary. If the borrower notifies the Secretary that the borrower claims to be totally and permanent disabled prior to submitting a total and permanent disability discharge application, the Secretary—
 
 (i) Provides the borrower with information needed for the borrower to apply for a total and permanent disability discharge;
 
@@ -16,13 +18,13 @@
 
 (iii) Informs the borrower that the suspension of collection activity will end after 120 days and collection will resume on the loans if the borrower does not submit a total and permanent disability discharge application to the Secretary within that time.
 
-(2) *Physician certification or Social Security Administration (SSA) disability notice of award.* The application must contain -
+(2) *Physician certification or Social Security Administration (SSA) disability notice of award.* The application must contain—
 
 (i) A certification by a physician, who is a doctor of medicine or osteopathy legally authorized to practice in a State, that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 685.102(b); or
 
 (ii) An SSA notice of award for Social Security Disability Insurance (SSDI) or Supplemental Security Income (SSI) benefits indicating that the borrower's next scheduled disability review will be within five to seven years.
 
-(3) *Deadline for application submission.* The borrower must submit the application described in paragraph (b)(1) of this section to the Secretary within 90 days of the date the physician certifies the application, if applicable. Upon receipt of the borrower's application, the Secretary -
+(3) *Deadline for application submission.* The borrower must submit the application described in paragraph (b)(1) of this section to the Secretary within 90 days of the date the physician certifies the application, if applicable. Upon receipt of the borrower's application, the Secretary—
 
 (i) Identifies all title IV loans owed by the borrower, notifies the lenders that the Secretary has received a total and permanent disability discharge application from the borrower and directs the lenders to suspend collection activity or maintain the suspension of collection activity on the borrower's title IV loans;
 
@@ -32,7 +34,7 @@
 
 (iv) Explains the process for the Secretary's review of total and permanent disability discharge applications.
 
-(4) *Determination of eligibility.* (i) If, after reviewing the borrower's completed application, the Secretary determines that the physician's certification or the SSA notice of award for SSDI or SSI benefits supports the conclusion that the borrower meets the criteria for a total and permanent disability discharge, as described in paragraph (1) of the definition of that term in § 685.102(b), the borrower is considered totally and permanently disabled -
+(4) *Determination of eligibility.* (i) If, after reviewing the borrower's completed application, the Secretary determines that the physician's certification or the SSA notice of award for SSDI or SSI benefits supports the conclusion that the borrower meets the criteria for a total and permanent disability discharge, as described in paragraph (1) of the definition of that term in § 685.102(b), the borrower is considered totally and permanently disabled—
 
 (A) As of the date the physician certified the borrower's application; or
 
@@ -42,7 +44,7 @@
 
 (iii) After determining that the borrower is totally and permanently disabled, as described in paragraph (1) of the definition of that term in § 685.102(b), the Secretary discharges the borrower's obligation to make any further payments on the loan, notifies the borrower that the loan has been discharged, and returns to the person who made the payments on the loan any payments received after the date the physician certified the borrower's loan discharge application or the date the Secretary received the SSA notice of award for SSDI or SSI benefits. The notification to the borrower explains the terms and conditions under which the borrower's obligation to repay the loan will be reinstated, as specified in paragraph (b)(7)(i) of this section.
 
-(iv) If the Secretary determines that the physician's certification or the SSA notice of award for SSDI or SSI benefits provided by the borrower does not support the conclusion that the borrower is totally and permanently disabled, as described in paragraph (1) of the definition of that term in § 685.102(b), the Secretary notifies the borrower that the application for a disability discharge has been denied. The notification to the borrower includes -
+(iv) If the Secretary determines that the physician's certification or the SSA notice of award for SSDI or SSI benefits provided by the borrower does not support the conclusion that the borrower is totally and permanently disabled, as described in paragraph (1) of the definition of that term in § 685.102(b), the Secretary notifies the borrower that the application for a disability discharge has been denied. The notification to the borrower includes—
 
 (A) The reason or reasons for the denial;
 
@@ -60,7 +62,7 @@
 
 (6) *Receipt of new title IV loans or TEACH Grants after the date of the physician's certification or after the date the Secretary received the SSA notice of award for SSDI or SSI benefits.* If a borrower receives a disbursement of a new title IV loan or receives a new TEACH Grant made on or after the date the physician certified the borrower's discharge application or on or after the date the Secretary received the SSA notice of award for SSDI or SSI benefits and before the date the Secretary grants a discharge under this section, the Secretary denies the borrower's discharge request and resumes collection on the borrower's loan.
 
-(7) *Conditions for reinstatement of a loan after a total and permanent disability discharge.* (i) The Secretary reinstates a borrower's obligation to repay a loan that was discharged in accordance with paragraph (b)(4)(iii) of this section if, within three years after the date the Secretary granted the discharge, the borrower -
+(7) *Conditions for reinstatement of a loan after a total and permanent disability discharge.* (i) The Secretary reinstates a borrower's obligation to repay a loan that was discharged in accordance with paragraph (b)(4)(iii) of this section if, within three years after the date the Secretary granted the discharge, the borrower—
 
 (A) Has annual earnings from employment that exceed 100 percent of the poverty guideline for a family of two, as published annually by the United States Department of Health and Human Services pursuant to 42 U.S.C. 9902(2);
 
@@ -70,7 +72,7 @@
 
 (D) Receives a notice from the SSA indicating that the borrower is no longer disabled or that the borrower's continuing disability review will no longer be the five- to seven-year period indicated in the SSA notice of award for SSDI or SSI benefits.
 
-(ii) If the borrower's obligation to repay the loan is reinstated, the Secretary -
+(ii) If the borrower's obligation to repay the loan is reinstated, the Secretary—
 
 (A) Notifies the borrower that the borrower's obligation to repay the loan has been reinstated;
 
@@ -78,7 +80,7 @@
 
 (C) Does not require the borrower to pay interest on the loan for the period from the date the loan was discharged until the date the borrower's obligation to repay the loan was reinstated.
 
-(iii) The Secretary's notification under paragraph (b)(7)(ii)(A) of this section will include -
+(iii) The Secretary's notification under paragraph (b)(7)(ii)(A) of this section will include—
 
 (A) The reason or reasons for the reinstatement;
 
@@ -86,7 +88,7 @@
 
 (C) Information on how the borrower may contact the Secretary if the borrower has questions about the reinstatement or believes that the obligation to repay the loan was reinstated based on incorrect information.
 
-(8) *Borrower's responsibilities after a total and permanent disability discharge.* During the three-year period described in paragraph (b)(7)(i) of this section, the borrower must -
+(8) *Borrower's responsibilities after a total and permanent disability discharge.* During the three-year period described in paragraph (b)(7)(i) of this section, the borrower must—
 
 (i) Promptly notify the Secretary of any changes in the borrower's address or phone number;
 
@@ -96,7 +98,7 @@
 
 (iv) Promptly notify the Secretary if the borrower receives a notice from the SSA indicating that the borrower is no longer disabled or that the borrower's continuing disability review will no longer be the five- to seven-year period indicated in the SSA notice of award for SSDI or SSI benefits.
 
-(c) *Discharge application process for veterans who are totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b)* - (1) *Veteran's application for discharge.* Except as provided in paragraph (d)(1) of this section, to qualify for a discharge of a Direct Loan based on a total and permanent disability as described in paragraph (2) of the definition of that term in § 685.102(b), a veteran must submit a discharge application to the Secretary on a form approved by the Secretary. The application must be accompanied by documentation from the Department of Veterans Affairs showing that the Department of Veterans Affairs has determined that the veteran is unemployable due to a service-connected disability. The Secretary does not require the veteran to provide any additional documentation related to the veteran's disability. Upon receipt of the veteran's application, the Secretary -
+(c) *Discharge application process for veterans who are totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b)*—(1) *Veteran's application for discharge.* Except as provided in paragraph (d)(1) of this section, to qualify for a discharge of a Direct Loan based on a total and permanent disability as described in paragraph (2) of the definition of that term in § 685.102(b), a veteran must submit a discharge application to the Secretary on a form approved by the Secretary. The application must be accompanied by documentation from the Department of Veterans Affairs showing that the Department of Veterans Affairs has determined that the veteran is unemployable due to a service-connected disability. The Secretary does not require the veteran to provide any additional documentation related to the veteran's disability. Upon receipt of the veteran's application, the Secretary—
 
 (i) Identifies all title IV loans owed by the veteran and notifies the lenders that the Secretary has received a total and permanent disability discharge application from the borrower;
 
@@ -108,7 +110,7 @@
 
 (2) *Determination of eligibility.* (i) If the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), the Secretary discharges the veteran's obligation to make any further payments on the loan and returns to the person who made the payments on the loan any payments received on or after the effective date of the determination by the Department of Veterans Affairs that the veteran is unemployable due to a service-connected disability.
 
-(ii) If the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is not totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), the Secretary notifies the veteran that the application for a disability discharge has been denied. The notification to the veteran includes -
+(ii) If the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is not totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), the Secretary notifies the veteran that the application for a disability discharge has been denied. The notification to the veteran includes—
 
 (A) The reason or reasons for the denial;
 
@@ -120,7 +122,7 @@
 
 (E) Information on how the veteran may reapply for a total and permanent disability discharge in accordance with the procedures described in paragraph (b) of this section if the documentation from the Department of Veterans Affairs does not indicate that the veteran is totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), but indicates that the veteran may be totally and permanently disabled as described in paragraph (1) of the definition of that term.
 
-(d) *Discharge without an application.* (1) The Secretary may discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary -
+(d) *Discharge without an application.* (1) The Secretary may discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary—
 
 (i) Obtains data from the Department of Veterans Affairs showing that the borrower is unemployable due to a service-connected disability; or
 
@@ -130,7 +132,7 @@
 
 (e) *Notification to the borrower.* (1) After determining that a borrower qualifies for a total and permanent disability discharge under paragraph (d) of this section, the Secretary sends a notification to the borrower informing the borrower that the Secretary will discharge the borrower's title IV loans unless the borrower notifies the Secretary, by a date specified in the Secretary's notification, that the borrower does not wish to receive the loan discharge.
 
-(2) Unless the borrower notifies the Secretary that the borrower does not wish to receive the discharge the Secretary discharges the loan -
+(2) Unless the borrower notifies the Secretary that the borrower does not wish to receive the discharge the Secretary discharges the loan—
 
 (i) In accordance with paragraph (b)(4)(iii) of this section for a discharge based on data from the SSA; or
 

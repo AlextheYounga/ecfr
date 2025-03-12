@@ -1,5 +1,7 @@
 ##### § 685.219 Public Service Loan Forgiveness Program. #####
 
+Link to an amendment published at 87 FR 66063, Nov. 1, 2022.
+
 (a) *General.* The Public Service Loan Forgiveness Program is intended to encourage individuals to enter and continue in full-time public service employment by forgiving the remaining balance of their Direct loans after they satisfy the public service and loan payment requirements of this section.
 
 (b) *Definitions.* The following definitions apply to this section:
@@ -10,7 +12,7 @@
 
 *Employee or employed* means an individual who is hired and paid by a public service organization.
 
-*Full-time* (1) means working in qualifying employment in one or more jobs for the greater of -
+*Full-time* (1) means working in qualifying employment in one or more jobs for the greater of—
 
 (i)(A) An annual average of at least 30 hours per week, or
 
@@ -44,11 +46,11 @@
 
 (B) Is not a business organized for profit, a labor union, or a partisan political organization.
 
-(c) *Borrower eligibility.* (1) A borrower may obtain loan forgiveness under this program if he or she -
+(c) *Borrower eligibility.* (1) A borrower may obtain loan forgiveness under this program if he or she—
 
 (i) Is not in default on the loan for which forgiveness is requested;
 
-(ii) Is employed full-time by a public service organization or serving in a full-time AmeriCorps or Peace Corps position -
+(ii) Is employed full-time by a public service organization or serving in a full-time AmeriCorps or Peace Corps position—
 
 (A) When the borrower makes the 120 monthly payments described under paragraph (c)(1)(iii) of this section;
 
@@ -58,7 +60,7 @@
 
 (iii) Makes 120 separate monthly payments after October 1, 2007, on eligible Direct loans for which forgiveness is sought. Except as provided in paragraph (c)(2) of this section for a borrower in an AmeriCorps or Peace Corps position or who qualifies for partial repayment of his or her loans under the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense,, the borrower must make the monthly payments within 15 days of the scheduled due date for the full scheduled installment amount; and
 
-(iv) Makes the required 120 monthly payments under one or more of the following repayment plans -
+(iv) Makes the required 120 monthly payments under one or more of the following repayment plans—
 
 (A) Except for a parent PLUS borrower, an income-based repayment plan, as determined in accordance with § 685.221;
 
@@ -68,7 +70,7 @@
 
 (D) Except for the alternative repayment plan, any other repayment plan if the monthly payment amount is not less than what would have been paid under the Direct Loan standard repayment plan described in § 685.208(b).
 
-(2) If a borrower makes a lump sum payment on an eligible loan for which the borrower is seeking forgiveness by using all or part of a Segal Education Award received after a year of AmeriCorps service, or by using all or part of a Peace Corps transition payment if the lump sum payment is made no later than six months after leaving the Peace Corps or if a lump sum payment is made on behalf of the borrower through the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense,, the Secretary will consider the borrower to have made qualifying payments equal to the lesser of -
+(2) If a borrower makes a lump sum payment on an eligible loan for which the borrower is seeking forgiveness by using all or part of a Segal Education Award received after a year of AmeriCorps service, or by using all or part of a Peace Corps transition payment if the lump sum payment is made no later than six months after leaving the Peace Corps or if a lump sum payment is made on behalf of the borrower through the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense,, the Secretary will consider the borrower to have made qualifying payments equal to the lesser of—
 
 (i) The number of payments resulting after dividing the amount of the lump sum payment by the monthly payment amount the borrower would have made under paragraph (c)(1)(iv) of this section; or
 
@@ -80,7 +82,7 @@
 
 (e) *Application.* (1) After making the 120 monthly qualifying payments on the eligible loans for which loan forgiveness is requested, a borrower may request loan forgiveness on a form provided by the Secretary.
 
-(2) If the Secretary determines that the borrower meets the eligibility requirements for loan forgiveness under this section, the Secretary -
+(2) If the Secretary determines that the borrower meets the eligibility requirements for loan forgiveness under this section, the Secretary—
 
 (i) Notifies the borrower of this determination; and
 

@@ -1,8 +1,10 @@
 ##### § 682.414 Records, reports, and inspection requirements for guaranty agency programs. #####
 
+Link to an amendment published at 87 FR 66054, Nov. 1, 2022.
+
 (a) *Records.* (1)(i) The guaranty agency shall maintain current, complete, and accurate records of each loan that it holds, including, but not limited to, the records described in paragraph (a)(1)(ii) of this section. The records must be maintained in a system that allows ready identification of each loan's current status, updated at least once every 10 business days. Any reference to a guaranty agency under this section includes a third-party servicer that administers any aspect of the FFEL programs under a contract with the guaranty agency, if applicable.
 
-(ii) The agency shall maintain -
+(ii) The agency shall maintain—
 
 (A) All documentation supporting the claim filed by the lender;
 
@@ -24,7 +26,7 @@
 
 (4)(i) The guaranty agency shall require a participating lender to maintain current, complete, and accurate records of each loan that it holds, including, but not limited to, the records described in paragraph (a)(4)(ii) of this section. The records must be maintained in a system that allows ready identification of each loan's current status.
 
-(ii) The lender shall keep -
+(ii) The lender shall keep—
 
 (A) A copy of the loan application if a separate application was provided to the lender;
 
@@ -62,13 +64,13 @@
 
 (iv) If a lender made a loan based on an electronically signed MPN, the holder of the original electronically signed MPN must retain that original MPN for at least 3 years after all the loans made on the MPN have been satisfied.
 
-(6)(i) Upon the Secretary's request with respect to a particular loan or loans assigned to the Secretary and evidenced by an electronically signed promissory note, the guaranty agency and the lender that created the original electronically signed promissory note must cooperate with the Secretary in all activities necessary to enforce the loan or loans. The guaranty agency or lender must provide -
+(6)(i) Upon the Secretary's request with respect to a particular loan or loans assigned to the Secretary and evidenced by an electronically signed promissory note, the guaranty agency and the lender that created the original electronically signed promissory note must cooperate with the Secretary in all activities necessary to enforce the loan or loans. The guaranty agency or lender must provide—
 
 (A) An affidavit or certification regarding the creation and maintenance of the electronic records of the loan or loans in a form appropriate to ensure admissibility of the loan records in a legal proceeding. This affidavit or certification may be executed in a single record for multiple loans provided that this record is reliably associated with the specific loans to which it pertains; and
 
 (B) Testimony by an authorized official or employee of the guaranty agency or lender, if necessary to ensure admission of the electronic records of the loan or loans in the litigation or legal proceeding to enforce the loan or loans.
 
-(ii) The affidavit or certification described in paragraph (a)(6)(i)(A) of this section must include, if requested by the Secretary -
+(ii) The affidavit or certification described in paragraph (a)(6)(i)(A) of this section must include, if requested by the Secretary—
 
 (A) A description of the steps followed by a borrower to execute the promissory note (such as a flow chart);
 
@@ -98,7 +100,7 @@
 
 (iii) All other types of lenders.
 
-(3) By July 1 of each year, a report on -
+(3) By July 1 of each year, a report on—
 
 (i) Its eligibility criteria for lenders;
 

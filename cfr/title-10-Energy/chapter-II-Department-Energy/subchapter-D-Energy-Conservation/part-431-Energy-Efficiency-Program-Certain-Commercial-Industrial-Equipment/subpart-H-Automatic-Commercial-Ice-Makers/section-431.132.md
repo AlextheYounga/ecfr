@@ -1,5 +1,7 @@
 ##### § 431.132 Definitions concerning automatic commercial ice makers. #####
 
+Link to an amendment published at 87 FR 65899, Nov. 1, 2022.
+
 *Automatic commercial ice maker* means a factory-made assembly (not necessarily shipped in 1 package) that -
 
 (1) Consists of a condensing unit and ice-making section operating as an integrated unit, with means for making and harvesting ice; and

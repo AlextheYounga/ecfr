@@ -1,5 +1,7 @@
 ##### § 674.33 Repayment. #####
 
+Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
+
 (a) *Repayment Plan.* (1) The institution shall establish a repayment plan before the student ceases to be at least a half-time regular student.
 
 (2) If the last scheduled payment would be $25 or less the institution may combine it with the next-to-last repayment.
@@ -16,7 +18,7 @@
 
 (iv) Principal.
 
-(b) *Minimum monthly repayment* - (1) *Minimum monthly repayment option.* (i) An institution may require a borrower to pay a minimum monthly repayment if -
+(b) *Minimum monthly repayment*—(1) *Minimum monthly repayment option.* (i) An institution may require a borrower to pay a minimum monthly repayment if—
 
 (A) The promissory note includes a minimum monthly repayment provision specifying the amount of the minimum monthly repayment; and
 
@@ -36,13 +38,13 @@
 
 (4) *Minimum monthly repayment of loans with differing grace periods and deferments.* If the borrower has received loans with different grace periods and deferments, the institution shall treat each note separately, and the borrower shall pay the applicable minimum monthly payment for a loan that is not in the grace or deferment period.
 
-(5) *Hardship.* The institution may reduce the borrower's scheduled repayments for a period of not more than one year at a time if -
+(5) *Hardship.* The institution may reduce the borrower's scheduled repayments for a period of not more than one year at a time if—
 
 (i) It determines that the borrower is unable to make the scheduled repayments due to hardship (see § 674.33(c)); and
 
 (ii) The borrower's scheduled repayment is the minimum monthly repayment described in paragraph (b) of this section.
 
-(6) *Minimum monthly repayment rates.* For the purposes of this section, the minimum monthly repayment rate is -
+(6) *Minimum monthly repayment rates.* For the purposes of this section, the minimum monthly repayment rate is—
 
 (i) $15 for a Defense loan;
 
@@ -52,7 +54,7 @@
 
 (7) The institution shall determine the minimum repayment amount under paragraph (b) of this section for loans with repayment installment intervals greater than one month by multiplying the amounts in paragraph (b) of this section by the number of months in the installment interval.
 
-(c) *Extension of repayment period* - (1) *Hardship.* The institution may extend a borrower's repayment period due to prolonged illness or unemployment.
+(c) *Extension of repayment period*—(1) *Hardship.* The institution may extend a borrower's repayment period due to prolonged illness or unemployment.
 
 (2) *Low-income individual.* (i) For Federal Perkins loans and NDSLs made on or after October 1, 1980, the institution may extend the borrower's repayment period up to 10 additional years beyond the 10-year maximum repayment period if the institution determines during the course of the repayment period that the borrower is a “low-income individual.” The borrower qualifies for an extension of the repayment period on the basis of low-income status only during the period in which the borrower meets the criteria described in paragraph (c)(2)(i) (A) or (B) of this section. The term *low-income individual* means the following:
 
@@ -76,7 +78,7 @@
 
 (4) In granting a forbearance under this section, an institution shall grant a temporary cessation of payments, unless the borrower chooses another form of forbearance subject to paragraph (d)(1) of this section.
 
-(5) An institution shall grant forbearance if -
+(5) An institution shall grant forbearance if—
 
 (i) The amount of the payments the borrower is obligated to make on title IV loans each month (or a proportional share if the payments are due less frequently than monthly) is collectively equal to or greater than 20 percent of the borrower's total monthly gross income;
 
@@ -94,11 +96,11 @@
 
 (8) The institution may not include the periods of forbearance described in this paragraph in determining the 10-year repayment period.
 
-(e) *Compromise of repayment.* (1) An institution may compromise on the repayment of a defaulted loan if -
+(e) *Compromise of repayment.* (1) An institution may compromise on the repayment of a defaulted loan if—
 
 (i) The institution has fully complied with all due diligence requirements specified in subpart C of this part; and
 
-(ii) The student borrower pays in a single lump-sum payment -
+(ii) The student borrower pays in a single lump-sum payment—
 
 (A) 90 percent of the outstanding principal balance on the loan under this part;
 
@@ -120,9 +122,9 @@
 
 (ii) An institution may not use Federal funds, including Federal funds from the student loan fund, or institutional funds from the student loan fund to pay for any repayment incentive authorized by this section.
 
-(g) *Closed school discharge* - (1) *General.* (i) The holder of an NDSL or a Federal Perkins Loan discharges the borrower's (and any endorser's) obligation to repay the loan if the borrower did not complete the program of study for which the loan was made because the school at which the borrower was enrolled closed.
+(g) *Closed school discharge*—(1) *General.* (i) The holder of an NDSL or a Federal Perkins Loan discharges the borrower's (and any endorser's) obligation to repay the loan if the borrower did not complete the program of study for which the loan was made because the school at which the borrower was enrolled closed.
 
-(ii) For the purposes of this section -
+(ii) For the purposes of this section—
 
 (A) A school's closure date is the date that the school ceases to provide educational instruction in all programs, as determined by the Secretary;
 
@@ -138,7 +140,7 @@
 
 (iv) The Secretary or the school, if the school holds the loan, reports the discharge of a loan under this section to all credit bureaus to which the status of the loan was previously reported.
 
-(3) *Determination of borrower qualification for discharge by the Secretary.* (i) The Secretary may discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application if the Secretary determines that -
+(3) *Determination of borrower qualification for discharge by the Secretary.* (i) The Secretary may discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application if the Secretary determines that—
 
 (A) The borrower qualified for and received a discharge on a loan pursuant to 34 CFR 682.402(d) (Federal Family Education Loan Program) or 34 CFR 685.214 (Federal Direct Loan Program), and was unable to receive a discharge on an NDSL or Federal Perkins Loan because the Secretary lacked the statutory authority to discharge the loan; or
 
@@ -146,9 +148,9 @@
 
 (ii) With respect to schools that closed on or after November 1, 2013, the Secretary will discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application from the borrower if the Secretary determines that the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years from the date the school closed.
 
-(4) *Borrower qualification for discharge.* Except as provided in paragraph (g)(3) of this section, in order to qualify for discharge of an NDSL or Federal Perkins Loan, a borrower must submit to the holder of the loan a written request and sworn statement, and the factual assertions in the statement must be true. The statement need not be notarized but must be made by the borrower under penalty of perjury. In the statement the borrower must -
+(4) *Borrower qualification for discharge.* Except as provided in paragraph (g)(3) of this section, in order to qualify for discharge of an NDSL or Federal Perkins Loan, a borrower must submit to the holder of the loan a written request and sworn statement, and the factual assertions in the statement must be true. The statement need not be notarized but must be made by the borrower under penalty of perjury. In the statement the borrower must—
 
-(i) State that the borrower -
+(i) State that the borrower—
 
 (A) Received the proceeds of a loan to attend a school;
 
@@ -158,7 +160,7 @@
 
 (ii) State whether the borrower has made a claim with respect to the school's closing with any third party, such as the holder of a performance bond or a tuition recovery program, and, if so, the amount of any payment received by the borrower or credited to the borrower's loan obligation; and
 
-(iii) State that the borrower -
+(iii) State that the borrower—
 
 (A) Agrees to provide to the holder of the loan upon request other documentation reasonably available to the borrower that demonstrates that the borrower meets the qualifications for discharge under this section; and
 
@@ -166,7 +168,7 @@
 
 (5) *Fraudulently obtained loans.* A borrower who secured a loan through fraudulent means, as determined by the ruling of a court or an administrative tribunal of competent jurisdiction, is ineligible for a discharge under this section.
 
-(6) *Cooperation by borrower in enforcement actions.* (i) In order to obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must -
+(6) *Cooperation by borrower in enforcement actions.* (i) In order to obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must—
 
 (A) Provide testimony regarding any representation made by the borrower to support a request for discharge;
 
@@ -174,7 +176,7 @@
 
 (C) If required by the Secretary, provide a sworn statement regarding those documents and representations.
 
-(ii) The holder denies the request for a discharge or revokes the discharge of a borrower who -
+(ii) The holder denies the request for a discharge or revokes the discharge of a borrower who—
 
 (A) Fails to provide the testimony, documents, or a sworn statement required under paragraph (g)(6)(i) of this section; or
 

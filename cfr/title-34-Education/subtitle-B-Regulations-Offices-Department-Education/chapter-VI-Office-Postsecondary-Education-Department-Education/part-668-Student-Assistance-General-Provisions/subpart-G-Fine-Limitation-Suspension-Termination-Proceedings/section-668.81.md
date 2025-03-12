@@ -1,5 +1,7 @@
 ##### § 668.81 Scope and special definitions. #####
 
+Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
+
 (a) This subpart establishes regulations for the following actions with respect to a participating institution or third-party servicer:
 
 (1) An emergency action.
@@ -10,7 +12,7 @@
 
 (4) The limitation, suspension, or termination of the eligibility of the servicer to contract with any institution to administer any aspect of the institution's participation in a Title IV, HEA program.
 
-(5) The determination of -
+(5) The determination of—
 
 (i) Borrower defense to repayment claims that are brought by the Department against an institution under § 685.206 or § 685.222; and
 
@@ -18,7 +20,7 @@
 
 (b) This subpart applies to an institution or a third-party servicer that violates any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, or any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA.
 
-(c) This subpart does not apply to a determination that -
+(c) This subpart does not apply to a determination that—
 
 (1) An institution or any of its locations or educational programs fails to qualify for initial designation as an eligible institution, location, or educational program because the institution, location, or educational program fails to satisfy the statutory and regulatory provisions that define an eligible institution or educational program with respect to the Title IV, HEA program for which a designation of eligibility is sought;
 

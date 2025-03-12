@@ -1,14 +1,16 @@
 ##### § 685.215 Discharge for false certification of student eligibility or unauthorized payment. #####
 
-(a) *Basis for discharge* - (1) *False certification.* For loans first disbursed before July 1, 2020, the Secretary discharges a borrower's (and any endorser's) obligation to repay a Direct Loan in accordance with the provisions of this section if a school falsely certifies the eligibility of the borrower (or the student on whose behalf a parent borrowed) to receive the proceeds of a Direct Loan. The Secretary considers a student's eligibility to borrow to have been falsely certified by the school if the school -
+Link to an amendment published at 87 FR 66062, Nov. 1, 2022.
 
-(i) Certified the eligibility of a student who -
+(a) *Basis for discharge*—(1) *False certification.* For loans first disbursed before July 1, 2020, the Secretary discharges a borrower's (and any endorser's) obligation to repay a Direct Loan in accordance with the provisions of this section if a school falsely certifies the eligibility of the borrower (or the student on whose behalf a parent borrowed) to receive the proceeds of a Direct Loan. The Secretary considers a student's eligibility to borrow to have been falsely certified by the school if the school—
+
+(i) Certified the eligibility of a student who—
 
 (A) Reported not having a high school diploma or its equivalent; and
 
 (B) Did not satisfy the alternative to graduation from high school requirements under section 484(d) of the Act that were in effect at the time of certification;
 
-(ii) For loans first disbursed before July 1, 2020, certified the eligibility of a student who is not a high school graduate based on -
+(ii) For loans first disbursed before July 1, 2020, certified the eligibility of a student who is not a high school graduate based on—
 
 (A) A high school graduation status falsified by the school; or
 
@@ -36,25 +38,25 @@
 
 (c) *Borrower qualification for discharge.* This paragraph (c) applies to loans first disbursed before July 1, 2020. To qualify for discharge under this paragraph, the borrower must submit to the Secretary an application for discharge on a form approved by the Secretary. The application need not be notarized but must be made by the borrower under penalty of perjury; and in the application, the borrower's responses must demonstrate to the satisfaction of the Secretary that the requirements in paragraph (c)(1) through (7) of this section have been met. If the Secretary determines the application does not meet the requirements, the Secretary notifies the applicant and explains why the application does not meet the requirements.
 
-(1) *High school diploma or equivalent.* In the case of a borrower requesting a discharge based on not having had a high school diploma and not having met the alternative to graduation from high school eligibility requirements under section 484(d) of the Act applicable at the time the loan was originated, and the school or a third party to which the school referred the borrower falsified the student's high school diploma, the borrower must state in the application that the borrower (or the student on whose behalf a parent received a PLUS loan) -
+(1) *High school diploma or equivalent.* In the case of a borrower requesting a discharge based on not having had a high school diploma and not having met the alternative to graduation from high school eligibility requirements under section 484(d) of the Act applicable at the time the loan was originated, and the school or a third party to which the school referred the borrower falsified the student's high school diploma, the borrower must state in the application that the borrower (or the student on whose behalf a parent received a PLUS loan)—
 
 (i) Reported not having a valid high school diploma or its equivalent at the time the loan was certified; and
 
 (ii) Did not satisfy the alternative to graduation from high school statutory or regulatory eligibility requirements identified on the application form and applicable at the time the institution certified the loan.
 
-(2) *Disqualifying condition.* In the case of a borrower requesting a discharge based on a condition that would disqualify the borrower from employment in the occupation that the training program for which the borrower received the loan was intended, the borrower must state in the application that the borrower (or student for whom a parent received a PLUS loan) -
+(2) *Disqualifying condition.* In the case of a borrower requesting a discharge based on a condition that would disqualify the borrower from employment in the occupation that the training program for which the borrower received the loan was intended, the borrower must state in the application that the borrower (or student for whom a parent received a PLUS loan)—
 
 (i) Did not meet State requirements for employment (in the student's State of residence) in the occupation that the training program for which the borrower received the loan was intended because of a physical or mental condition, age, criminal record, or other reason accepted by the Secretary.
 
 (ii) [Reserved]
 
-(3) *Unauthorized loan.* In the case of a borrower requesting a discharge because the school signed the borrower's name on the loan application or promissory note without the borrower's authorization, the borrower must -
+(3) *Unauthorized loan.* In the case of a borrower requesting a discharge because the school signed the borrower's name on the loan application or promissory note without the borrower's authorization, the borrower must—
 
 (i) State that he or she did not sign the document in question or authorize the school to do so; and
 
 (ii) Provide five different specimens of his or her signature, two of which must be within one year before or after the date of the contested signature.
 
-(4) *Unauthorized payment.* In the case of a borrower requesting a discharge because the school, without the borrower's authorization, endorsed the borrower's loan check or signed the borrower's authorization for electronic funds transfer, the borrower must -
+(4) *Unauthorized payment.* In the case of a borrower requesting a discharge because the school, without the borrower's authorization, endorsed the borrower's loan check or signed the borrower's authorization for electronic funds transfer, the borrower must—
 
 (i) State that he or she did not endorse the loan check or sign the authorization for electronic funds transfer or authorize the school to do so;
 
@@ -62,7 +64,7 @@
 
 (iii) State that the proceeds of the contested disbursement were not delivered to the student or applied to charges owed by the student to the school.
 
-(5) *Identity theft.* (i) In the case of an individual whose eligibility to borrow was falsely certified because he or she was a victim of the crime of identity theft and is requesting a discharge, the individual must -
+(5) *Identity theft.* (i) In the case of an individual whose eligibility to borrow was falsely certified because he or she was a victim of the crime of identity theft and is requesting a discharge, the individual must—
 
 (A) Certify that the individual did not sign the promissory note, or that any other means of identification used to obtain the loan was used without the authorization of the individual claiming relief;
 
@@ -70,7 +72,7 @@
 
 (C) Provide a copy of a local, State, or Federal court verdict or judgment that conclusively determines that the individual who is named as the borrower of the loan was the victim of a crime of identity theft; and
 
-(D) If the judicial determination of the crime does not expressly state that the loan was obtained as a result of the crime of identity theft, provide -
+(D) If the judicial determination of the crime does not expressly state that the loan was obtained as a result of the crime of identity theft, provide—
 
 (*1*) Authentic specimens of the signature of the individual, as provided in paragraph (c)(2)(ii) of this section, or of other means of identification of the individual, as applicable, corresponding to the means of identification falsely used to obtain the loan; and
 
@@ -78,7 +80,7 @@
 
 (ii)(A) For purposes of this section, identity theft is defined as the unauthorized use of the identifying information of another individual that is punishable under 18 U.S.C. 1028, 1028A, 1029, or 1030, or substantially comparable State or local law.
 
-(B) Identifying information includes, but is not limited to -
+(B) Identifying information includes, but is not limited to—
 
 (*1*) Name, Social Security number, date of birth, official State or government issued driver's license or identification number, alien registration number, government passport number, and employer or taxpayer identification number;
 
@@ -90,7 +92,7 @@
 
 (6) *Claim to third party.* The borrower must state whether the borrower (or student) has made a claim with respect to the school's false certification or unauthorized payment with any third party, such as the holder of a performance bond or a tuition recovery program, and, if so, the amount of any payment received by the borrower (or student) or credited to the borrower's loan obligation.
 
-(7) *Cooperation with Secretary.* The borrower must state that the borrower (or student) -
+(7) *Cooperation with Secretary.* The borrower must state that the borrower (or student)—
 
 (i) Agrees to provide to the Secretary upon request other documentation reasonably available to the borrower that demonstrates that the borrower meets the qualifications for discharge under this section; and
 
@@ -112,25 +114,25 @@
 
 (e) *Borrower qualification for discharge.* This paragraph (e) applies to loans first disbursed on or after July 1, 2020. In order to qualify for discharge under this paragraph, the borrower must submit to the Secretary an application for discharge on a form approved by the Secretary, and the factual assertions in the application must be true and made under penalty of perjury. In the application, the borrower must demonstrate to the satisfaction of the Secretary that the requirements in paragraphs (e)(1) through (6) of this section have been met.
 
-(1) *High School diploma or equivalent.* (i) In the case of a borrower requesting a discharge based on not having had a high school diploma and not having met the alternative eligibility requirements, the borrower must certify that the borrower (or the student on whose behalf a parent borrowed) -
+(1) *High School diploma or equivalent.* (i) In the case of a borrower requesting a discharge based on not having had a high school diploma and not having met the alternative eligibility requirements, the borrower must certify that the borrower (or the student on whose behalf a parent borrowed)—
 
 (A) Received a disbursement of a loan, in whole or in part, on or after January 1, 1986, to attend a school; and
 
 (B) Received a Direct Loan at that school and did not have a high school diploma or its recognized equivalent and did not meet the alternative to graduation from high school eligibility requirements described in 34 CFR part 668 and section 484(d) of the Act applicable at the time of disbursement.
 
-(ii) A borrower does not qualify for a false certification discharge under this paragraph (e)(1) if -
+(ii) A borrower does not qualify for a false certification discharge under this paragraph (e)(1) if—
 
 (A) The borrower was unable to provide the school with an official transcript or an official copy of the borrower's high school diploma or the borrower was home schooled and has no official transcript or high school diploma; and
 
 (B) As an alternative to an official transcript or official copy of the borrower's high school diploma, the borrower submitted to the school a written attestation, under penalty of perjury, that the borrower had a high school diploma.
 
-(2) *Unauthorized loan.* In the case of a borrower requesting a discharge because the school signed the borrower's name on the loan application or promissory note without the borrower's authorization, the borrower must -
+(2) *Unauthorized loan.* In the case of a borrower requesting a discharge because the school signed the borrower's name on the loan application or promissory note without the borrower's authorization, the borrower must—
 
 (i) State that he or she did not sign the document in question or authorize the school to do so; and
 
 (ii) Provide five different specimens of his or her signature, two of which must be within one year before or after the date of the contested signature.
 
-(3) *Unauthorized payment.* In the case of a borrower requesting a discharge because the school, without the borrower's authorization, endorsed the borrower's loan check or signed the borrower's authorization for electronic funds transfer, the borrower must -
+(3) *Unauthorized payment.* In the case of a borrower requesting a discharge because the school, without the borrower's authorization, endorsed the borrower's loan check or signed the borrower's authorization for electronic funds transfer, the borrower must—
 
 (i) State that he or she did not endorse the loan check or sign the authorization for electronic funds transfer or authorize the school to do so;
 
@@ -138,7 +140,7 @@
 
 (iii) State that the proceeds of the contested disbursement were not delivered to the student or applied to charges owed by the student to the school.
 
-(4) *Identity theft.* (i) In the case of an individual whose eligibility to borrow was falsely certified because he or she was a victim of the crime of identity theft and is requesting a discharge, the individual must -
+(4) *Identity theft.* (i) In the case of an individual whose eligibility to borrow was falsely certified because he or she was a victim of the crime of identity theft and is requesting a discharge, the individual must—
 
 (A) Certify that the individual did not sign the promissory note, or that any other means of identification used to obtain the loan was used without the authorization of the individual claiming relief;
 
@@ -146,7 +148,7 @@
 
 (C) Provide a copy of a local, State, or Federal court verdict or judgment that conclusively determines that the individual who is named as the borrower of the loan was the victim of a crime of identity theft; and
 
-(D) If the judicial determination of the crime does not expressly state that the loan was obtained as a result of the crime of identity theft, provide -
+(D) If the judicial determination of the crime does not expressly state that the loan was obtained as a result of the crime of identity theft, provide—
 
 (*1*) Authentic specimens of the signature of the individual, as provided in paragraph (e)(2)(ii) of this section, or of other means of identification of the individual, as applicable, corresponding to the means of identification falsely used to obtain the loan; and
 
@@ -154,7 +156,7 @@
 
 (ii)(A) For purposes of this section, identity theft is defined as the unauthorized use of the identifying information of another individual that is punishable under 18 U.S.C. 1028, 1028A, 1029, or 1030, or substantially comparable State or local law.
 
-(B) Identifying information includes, but is not limited to -
+(B) Identifying information includes, but is not limited to—
 
 (*1*) Name, Social Security number, date of birth, official State or government issued driver's license or identification number, alien registration number, government passport number, and employer or taxpayer identification number;
 
@@ -166,7 +168,7 @@
 
 (5) *Claim to third party.* The borrower must state whether the borrower (or student) has made a claim with respect to the school's false certification or unauthorized payment with any third party, such as the holder of a performance bond or a tuition recovery program, and, if so, the amount of any payment received by the borrower (or student) or credited to the borrower's loan obligation.
 
-(6) *Cooperation with Secretary.* The borrower must state that the borrower (or student) -
+(6) *Cooperation with Secretary.* The borrower must state that the borrower (or student)—
 
 (i) Agrees to provide to the Secretary upon request other documentation reasonably available to the borrower that demonstrates that the borrower meets the qualifications for discharge under this section; and
 

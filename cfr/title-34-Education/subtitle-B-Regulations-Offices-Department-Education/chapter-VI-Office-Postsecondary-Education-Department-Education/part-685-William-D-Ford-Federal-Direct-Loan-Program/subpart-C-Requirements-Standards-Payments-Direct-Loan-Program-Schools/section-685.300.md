@@ -1,12 +1,14 @@
 ##### § 685.300 Agreements between an eligible school and the Secretary for participation in the Direct Loan Program. #####
 
-(a) *General.* Participation of a school in the Direct Loan Program means that eligible students at the school may receive Direct Loans. To participate in the Direct Loan Program, a school must -
+Link to an amendment published at 87 FR 66066, Nov. 1, 2022.
+
+(a) *General.* Participation of a school in the Direct Loan Program means that eligible students at the school may receive Direct Loans. To participate in the Direct Loan Program, a school must—
 
 (1) Demonstrate to the satisfaction of the Secretary that the school meets the requirements for eligibility under the Act and applicable regulations; and
 
 (2) Enter into a written program participation agreement with the Secretary.
 
-(b) *Program participation agreement.* In the program participation agreement, the school must promise to comply with the Act and applicable regulations and must agree to -
+(b) *Program participation agreement.* In the program participation agreement, the school must promise to comply with the Act and applicable regulations and must agree to—
 
 (1) Identify eligible students who seek student financial assistance at the institution in accordance with section 484 of the Act;
 
@@ -18,7 +20,7 @@
 
 (5) On a monthly basis, reconcile institutional records with Direct Loan funds received from the Secretary and Direct Loan disbursement records submitted to and accepted by the Secretary;
 
-(6) Provide timely and accurate information to the Secretary for the servicing and collecting of loans -
+(6) Provide timely and accurate information to the Secretary for the servicing and collecting of loans—
 
 (i) Concerning the status of student borrowers (and students on whose behalf parents borrow) while these students are in attendance at the school;
 
