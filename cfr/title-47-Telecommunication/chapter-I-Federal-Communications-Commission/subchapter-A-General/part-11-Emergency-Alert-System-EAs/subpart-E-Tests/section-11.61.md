@@ -1,5 +1,7 @@
 ##### § 11.61 Tests of EAS procedures. #####
 
+Link to an amendment published at 83 FR 39621, August 10, 2018.
+
 (a) EAS Participants shall conduct tests at regular intervals, as specified in paragraphs (a)(1) and (a)(2) of this section. Additional tests may be performed anytime. EAS activations and special tests may be performed in lieu of required tests as specified in paragraph (a)(4) of this section.
 
 (1) Required Monthly Tests of the EAS header codes, Attention Signal, Test Script and EOM code.

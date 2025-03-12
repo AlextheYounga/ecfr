@@ -1,10 +1,12 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
-Link to an amendment published at 83 FR 26863, June 11, 2018.
-
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
-(b) A licensed optometrist may perform so much of the medical examination as pertains to visual acuity, field of vision, and the ability to recognize colors as specified in paragraph (10) of § 391.41(b).
+(b) Exceptions:
+
+(1) A licensed optometrist may perform so much of the medical examination as pertains to visual acuity, field of vision, and the ability to recognize colors as specified in paragraph (10) of § 391.41(b).
+
+(2) A certified VA medical examiner must only perform medical examinations of veteran operators.
 
 (c) Medical examiners shall:
 
@@ -44,4 +46,4 @@ Link to an amendment published at 83 FR 26863, June 11, 2018.
 
 (i) Each original (paper or electronic) completed Medical Examination Report and a copy or electronic version of each medical examiner's certificate must be retained on file at the office of the medical examiner for at least 3 years from the date of examination. The medical examiner must make all records and information in these files available to an authorized representative of FMCSA or an authorized Federal, State, or local enforcement agency representative, within 48 hours after the request is made.
 
-[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.43, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.43, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -4,6 +4,8 @@
 
 (b) As used in this subpart, *component* means any office, division, bureau or other unit of the Department listed in Appendix A to this part (except that a regional office of a larger office or other unit does not constitute a separate component).
 
-(c) The Office of Government Information Services (OGIS) within the National Archives and Records Administration offers mediation services to resolve disputes between requesters and agencies as a non-exclusive alternative to litigation. Requesters with concerns about the handling of their requests may contact OGIS.
+(c) The Department has a FOIA Requester Service Center with at least one FOIA Public Liaison. Each Department component may have a FOIA Requester Service Center with at least one FOIA Public Liaison. FOIA Public Liaisons are responsible for: Working with requesters that have any concerns about the service received from a FOIA component, reducing delays in the processing of FOIA requests, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes. Contact information for the relevant component FOIA Requester Service Centers, FOIA Public Liaisons, and component FOIA offices and contacts is available at *http://www.osec.doc.gov/opog/contacts.html*.
 
-[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62557, Oct. 20, 2014]
+(d) The Office of Government Information Services (OGIS) within the National Archives and Records Administration offers mediation services to resolve disputes between requesters and agencies as a non-exclusive alternative to litigation. Requesters with concerns about the handling of their requests may contact OGIS.
+
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62557, Oct. 20, 2014; 83 FR 39589, Aug. 10, 2018]

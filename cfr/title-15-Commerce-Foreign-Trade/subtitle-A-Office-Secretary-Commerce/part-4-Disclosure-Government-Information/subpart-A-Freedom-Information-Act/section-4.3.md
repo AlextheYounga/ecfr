@@ -6,6 +6,6 @@
 
 (c) Department officials may, upon request, create and provide new records to the public pursuant to statutes that authorize the creation and provision of new records for a fee, such as the first paragraph of 15 U.S.C. 1525, or in accordance with authority otherwise provided by law. Such creation and provision of records is outside the scope of the FOIA.
 
-(d) Components shall preserve all correspondence pertaining to the requests they receive under this subpart, as well as copies of all requested records, until disposition or destruction is authorized by Title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 14. Components shall not dispose of records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.
+(d) Components shall preserve all correspondence pertaining to the requests they receive under this subpart, as well as copies of all requested records, until disposition or destruction is authorized by Title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 4.2, Information Access and Protection Records. Components shall not dispose of records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.
 
-[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62558, Oct. 20, 2014]
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62558, Oct. 20, 2014; 83 FR 39589, Aug. 10, 2018]

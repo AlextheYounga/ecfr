@@ -1,5 +1,7 @@
 ##### § 11.33 EAS Decoder. #####
 
+Link to an amendment published at 83 FR 39620, August 10, 2018.
+
 (a) An EAS Decoder must at a minimum be capable of providing the EAS monitoring functions described in § 11.52, decoding EAS messages formatted in accordance with the EAS Protocol described in § 11.31, and converting Common Alerting Protocol (CAP)-formatted EAS messages into EAS alert messages that comply with the EAS Protocol, in accordance with § 11.56(a)(2), with the exception that the CAP-related monitoring and conversion requirements set forth in §§ 11.52(d)(2) and 11.56(a)(2) can be satisfied via an Intermediary Device, as specified in § 11.56(b), provided that all other requirements set forth in this part are met. An EAS Decoder also must be capable of the following minimum specifications:
 
 (1) *Inputs.* Decoders must have the capability to receive at least two audio inputs from EAS monitoring assignments, and at least one data input. The data input(s) may be used to monitor other communications modes such as Radio Broadcast Data System (RBDS), NWR, satellite, public switched telephone network, or any other source that uses the EAS protocol.

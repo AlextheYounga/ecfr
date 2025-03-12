@@ -1,7 +1,5 @@
 ##### § 390.5 Definitions. #####
 
-Link to an amendment published at 83 FR 26860, June 11, 2018.
-
 Unless specifically defined elsewhere, in this subchapter:
 
 *Accident* means -
@@ -25,6 +23,8 @@ Unless specifically defined elsewhere, in this subchapter:
 *Bus* means any motor vehicle designed, constructed, and/or used for the transportation of passengers, including taxicabs.
 
 *Business district* means the territory contiguous to and including a highway when within any 600 feet along such highway there are buildings in use for business or industrial purposes, including but not limited to hotels, banks, or office buildings which occupy at least 300 feet of frontage on one side or 300 feet collectively on both sides of the highway.
+
+*Certified VA medical examiner* means a qualified VA examiner who has fulfilled the requirements for and is listed on the National Registry of Certified Medical Examiners.
 
 *Charter transportation of passengers* means transportation, using a bus, of a group of persons who pursuant to a common purpose, under a single contract, at a fixed charge for the motor vehicle, have acquired the exclusive use of the motor vehicle to travel together under an itinerary either specified in advance or modified after having left the place of origin.
 
@@ -238,6 +238,8 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Private motor carrier of passengers (nonbusiness)* means private motor carrier involved in the interstate transportation of passengers that does not otherwise meet the definition of a private motor carrier of passengers (business).
 
+*Qualified VA examiner* means an advanced practice nurse, doctor of chiropractic, doctor of medicine, doctor of osteopathy, physician assistant, or other medical professional who is employed in the Department of Veterans Affairs; is licensed, certified, or registered in a State to perform physical examinations; is familiar with the standards for, and physical requirements of, an operator certified pursuant to 49 U.S.C. 31149; and has never, with respect to such section, been found to have acted fraudulently, including by fraudulently awarding a medical certificate.
+
 *Radar detector* means any device or mechanism to detect the emission of radio microwaves, laser beams or any other future speed measurement technology employed by enforcement personnel to measure the speed of commercial motor vehicles upon public roads and highways for enforcement purposes. Excluded from this definition are radar detection devices that meet both of the following requirements:
 
 (1) Transported outside the driver's compartment of the commercial motor vehicle. For this purpose, the *driver's* compartment of a passenger-carrying CMV shall include all space designed to accommodate both the driver and the passengers; and
@@ -299,6 +301,8 @@ Unless specifically defined elsewhere, in this subchapter:
 (3) Reaching for a mobile telephone in a manner that requires a driver to maneuver so that he or she is no longer in a seated driving position, restrained by a seat belt that is installed in accordance with 49 CFR 393.93 and adjusted in accordance with the vehicle manufacturer's instructions.
 
 *United States* means the 50 States and the District of Columbia.
+
+*Veteran operator* means an operator of a commercial motor vehicle who is a veteran enrolled in the health care system established under 38 U.S.C. 1705(a).
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
