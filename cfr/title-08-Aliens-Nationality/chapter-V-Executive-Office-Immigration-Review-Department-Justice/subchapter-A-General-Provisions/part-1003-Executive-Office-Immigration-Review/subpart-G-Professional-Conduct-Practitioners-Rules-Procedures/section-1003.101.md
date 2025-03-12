@@ -1,5 +1,7 @@
 ##### § 1003.101 General provisions. #####
 
+Link to an amendment published at 87 FR 56259, Sept. 14, 2022.
+
 (a) *Authority to sanction.* An adjudicating official or the Board of Immigration Appeals (the Board) may impose disciplinary sanctions against any practitioner if it finds it to be in the public interest to do so. It will be in the public interest to impose disciplinary sanctions against a practitioner who is authorized to practice before the Board and the Immigration Courts when such person has engaged in criminal, unethical, or unprofessional conduct, or in frivolous behavior, as set forth in § 1003.102. In accordance with the disciplinary proceedings set forth in this subpart and outlined below, an adjudicating official or the Board may impose any of the following disciplinary sanctions:
 
 (1) Disbarment, which is permanent, from practice before the Board and the Immigration Courts or the DHS, or before all three authorities;

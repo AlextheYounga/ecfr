@@ -19,8 +19,7 @@ Table 1 to § 1.1152
 |                (b) New, Renew/Mod (Electronic Filing) (FCC 601 & 159)                 |     25.00     |
 |                           (c) Renewal Only (FCC 601 & 159)                            |     25.00     |
 |                 (d) Renewal Only (Electronic Filing) (FCC 601 & 159)                  |     25.00     |
-|                                3. Shared Use Services:                                |               |
-|               Land Mobile (Frequencies Below 470 MHz - except 220 MHz):               |               |
+| 3. Shared Use Services  <br/>Land Mobile (Frequencies Below 470 MHz—except 220 MHz):  |               |
 |                          (a) New, Renew/Mod (FCC 601 & 159)                           |     10.00     |
 |                (b) New, Renew/Mod (Electronic Filing) (FCC 601 & 159)                 |     10.00     |
 |                           (c) Renewal Only (FCC 601 & 159)                            |     10.00     |
@@ -28,33 +27,33 @@ Table 1 to § 1.1152
 |                             Rural Radio (47 CFR part 22):                             |               |
 |   (a) New, Additional Facility, Major Renew/Mod (Electronic Filing) (FCC 601 & 159)   |     10.00     |
 |                   (b) Renewal, Minor Renew/Mod (Electronic Filing)                    |     10.00     |
-|                                     Marine Coast:                                     |               |
+|                                   4. Marine Coast:                                    |               |
 |                          (a) New Renewal/Mod (FCC 601 & 159)                          |     40.00     |
 |               (b) New, Renewal/Mod (Electronic Filing) (FCC 601 & 159)                |     40.00     |
 |                           (c) Renewal Only (FCC 601 & 159)                            |     40.00     |
 |                 (d) Renewal Only (Electronic Filing) (FCC 601 & 159)                  |     40.00     |
-|                                   Aviation Ground:                                    |               |
+|                                  5. Aviation Ground:                                  |               |
 |                         (a) New, Renewal/Mod (FCC 601 & 159)                          |     20.00     |
 |               (b) New, Renewal/Mod (Electronic Filing) (FCC 601 & 159)                |     20.00     |
 |                           (c) Renewal Only (FCC 601 & 159)                            |     20.00     |
 |                  (d) Renewal Only (Electronic Only) (FCC 601 & 159)                   |     20.00     |
-|                                     Marine Ship:                                      |               |
+|                                    6. Marine Ship:                                    |               |
 |                         (a) New, Renewal/Mod (FCC 605 & 159)                          |     15.00     |
 |               (b) New, Renewal/Mod (Electronic Filing) (FCC 605 & 159)                |     15.00     |
 |                           (c) Renewal Only (FCC 605 & 159)                            |     15.00     |
 |                 (d) Renewal Only (Electronic Filing) (FCC 605 & 159)                  |     15.00     |
-|                                  Aviation Aircraft:                                   |               |
+|                                 7. Aviation Aircraft:                                 |               |
 |                          (a) New, Renew/Mod (FCC 605 & 159)                           |     10.00     |
 |                (b) New, Renew/Mod (Electronic Filing) (FCC 605 & 159)                 |     10.00     |
 |                           (c) Renewal Only (FCC 605 & 159)                            |     10.00     |
 |                 (d) Renewal Only (Electronic Filing) (FCC 605 & 159)                  |     10.00     |
-|                 4. CMRS Cellular/Mobile Services (per unit) (FCC 159)                 |<sup>1</sup>.15|
-|                    5. CMRS Messaging Services (per unit) (FCC 159)                    |<sup>2</sup>.08|
-|                  6. Broadband Radio Service (formerly MMDS and MDS)                   |      605      |
-|                       7. Local Multipoint Distribution Service                        |      605      |
+|                 8. CMRS Cellular/Mobile Services (per unit) (FCC 159)                 |<sup>1</sup>.14|
+|                    9. CMRS Messaging Services (per unit) (FCC 159)                    |<sup>2</sup>.08|
+|                  10. Broadband Radio Service (formerly MMDS and MDS)                  |      590      |
+|                       11. Local Multipoint Distribution Service                       |      590      |
 
 <sup>1</sup> These are standard fees that are to be paid in accordance with § 1.1157(b) of this chapter.
 
 <sup>2</sup> These are standard fees that are to be paid in accordance with § 1.1157(b) of this chapter.
 
-[86 FR 52786, Sept. 22, 2021]
+[87 FR 56554, Sept. 14, 2022]

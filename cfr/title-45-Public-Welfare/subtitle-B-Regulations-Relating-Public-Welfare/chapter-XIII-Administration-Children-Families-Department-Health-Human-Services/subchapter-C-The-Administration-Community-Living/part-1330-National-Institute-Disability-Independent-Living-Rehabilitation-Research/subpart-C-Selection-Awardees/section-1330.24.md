@@ -1,7 +1,5 @@
 ##### § 1330.24 Selection criteria. #####
 
-Link to an amendment published at 87 FR 50003, Aug. 15, 2022.
-
 In addition to criteria established under § 1330.23(a)(1), the Director may select one or more of the following criteria in evaluating an application:
 
 (a) *Importance of the problem.* In determining the importance of the problem, the Director considers one or more of the following factors:
@@ -52,6 +50,8 @@ In addition to criteria established under § 1330.23(a)(1), the Director may sel
 
 (4) The extent to which the stage of research is identified and justified in the description of the research project(s) being proposed.
 
+(5) The extent to which research activities use appropriate engineering knowledge and techniques to collect, analyze, or synthesize research data.
+
 (d) *Design of development activities.* In determining the extent to which the project design is likely to be effective in accomplishing project objectives, the Director considers one or more of the following factors:
 
 (1) The extent to which the proposed project identifies a significant need and a well-defined target population for the new or improved product;
@@ -71,6 +71,8 @@ In addition to criteria established under § 1330.23(a)(1), the Director may sel
 (vi) The applicant identifies and justifies the stage(s) of development for the proposed project; and activities associated with each stage.
 
 (3) The new product will be developed and tested in an appropriate environment.
+
+(4) The extent to which development activities apply appropriate engineering knowledge and techniques to achieve development objectives.
 
 (e) *Design of demonstration activities.* In determining the extent to which the design of demonstration activities is likely to be effective in accomplishing the objectives of the project, the Director considers one or more of the following factors:
 
@@ -184,17 +186,21 @@ In addition to criteria established under § 1330.23(a)(1), the Director may sel
 
 (ii) Are objective, and quantifiable or qualitative, as appropriate.
 
-(n) *Project staff.* In determining the quality of the project staff, the Director considers the extent to which the applicant encourages applications for employment from persons who are members of groups that have traditionally been underrepresented based on race, color, national origin, gender, age, or disability. In addition, the Director considers one or more of the following:
+(n) *Project staff.* In determining the quality of the applicant's project staff, the Director considers one or more of the following factors:
 
-(1) The extent to which the key personnel and other key staff have appropriate training and experience in disciplines required to conduct all proposed activities.
+(1) The extent to which the applicant encourages applications for employment from people with disabilities, who may include but are not limited to people with disabilities who have the greatest support needs.
 
-(2) The extent to which the commitment of staff time is adequate to accomplish all the proposed activities of the project.
+(2) The extent to which the applicant encourages applications for employment from people who are members of other groups that have traditionally been underrepresented in research professions based on race, ethnicity, national origin, sex (including sexual orientation and gender identity), or age.
 
-(3) The extent to which the key personnel are knowledgeable about the methodology and literature of pertinent subject areas.
+(3) The extent to which the key personnel and other key staff have appropriate training and experience in disciplines required to conduct all proposed activities.
 
-(4) The extent to which the project staff includes outstanding scientists in the field.
+(4) The extent to which the commitment of staff time is adequate to accomplish all the proposed activities of the project.
 
-(5) The extent to which key personnel have up-to-date knowledge from research or effective practice in the subject area covered in the priority.
+(5) The extent to which the key personnel are knowledgeable about the methodology and literature of pertinent subject areas.
+
+(6) The extent to which the project staff includes outstanding scientists in the field.
+
+(7) The extent to which key personnel have up-to-date knowledge from research or effective practice in the subject area covered in the priority.
 
 (o) *Adequacy and accessibility of resources.* In determining the adequacy and accessibility of the applicant's resources to implement the proposed project, the Director considers one or more of the following factors:
 
@@ -223,3 +229,5 @@ In addition to criteria established under § 1330.23(a)(1), the Director may sel
 (7) The extent to which the design of the proposed project reflects up-to-date knowledge from research and effective practice.
 
 (8) The extent to which the proposed project represents an exceptional approach to the priority or priorities established for the competition.
+
+[81 FR 29159, May 11, 2016, as amended at 87 FR 50003, Aug. 15, 2022]

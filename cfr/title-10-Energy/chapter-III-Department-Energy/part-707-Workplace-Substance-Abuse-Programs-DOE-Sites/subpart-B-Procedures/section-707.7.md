@@ -1,10 +1,8 @@
 ##### § 707.7 Random drug testing requirements and identification of testing designated positions. #####
 
-Link to an amendment published at 87 FR 49978, Aug. 15, 2022.
-
 (a)(1) Each workplace substance abuse program will provide for random testing for evidence of the use of illegal drugs of employees in testing designated positions identified in this section.
 
-(2) Programs developed under this part for positions identified in paragraph (b)(3) of this section shall provide for random tests at a rate equal to 30 percent of the total number of employees in testing designated positions for each 12 month period. Employees in the positions identified in paragraphs (b)(1), (b)(2), and (c) of this section will be subject to random testing at a rate equal to 100 percent of the total number of employees identified, and those identified in paragraphs (b)(1) and (b)(2) of this section may be subject to additional drug tests.
+(2) Programs developed under this part for positions identified in paragraphs (b)(2) and (3) of this section shall provide for random tests at a rate equal to 30 percent of the total number of employees in testing designated positions for each 12-month period. Employees in the positions identified in paragraph (b)(1) of this section and individuals identified in paragraph (c) of this section will be subject to random testing at a rate equal to 100 percent of the total number of employees or individuals, as applicable, identified, and those identified in paragraphs (b)(1) and (c) may be subject to additional drug tests.
 
 (b) The testing designated positions subject to random drug testing are:
 
@@ -16,11 +14,13 @@ Link to an amendment published at 87 FR 49978, Aug. 15, 2022.
 
 (ii) Firefighters;
 
-(iii) Protective force personnel, exclusive of those covered in paragraphs (b)(1) or (b)(2) of this section, in positions involving use of firearms where the duties also require potential contact with, or proximity to, the public at large;
+(iii) Protective force personnel, exclusive of those covered in paragraph (b)(1) and (c) of this section, in positions involving use of firearms where the duties also require potential contact with, or proximity to, the public at large;
 
-(iv) Personnel directly engaged in construction, maintenance, or operation of nuclear reactors; or
+(iv) Personnel directly engaged in construction, maintenance, or operation of nuclear reactors;
 
-(v) Personnel directly engaged in production, use, storage, transportation, or disposal of hazardous materials sufficient to cause significant harm to the environment or public health and safety.
+(v) Personnel directly engaged in production, use, storage, transportation, or disposal of hazardous materials sufficient to cause significant harm to the environment or public health and safety; or
+
+(vi) All other personnel in positions that require an access authorization (security clearance), other than those identified in paragraphs (b)(1) and (c) of this section.
 
 (3) Other positions determined by the DOE, after consultation with the contractor, to have the potential to significantly affect the environment, public health and safety, or national security.
 
@@ -28,4 +28,4 @@ Link to an amendment published at 87 FR 49978, Aug. 15, 2022.
 
 (d) A position otherwise subject to testing under this part may be exempted from such testing if it is within the scope of another comparable Federal drug testing program, as determined by DOE, after consultation with the contractor, to avoid unnecessary multiple tests.
 
-[57 FR 32656, July 22, 1992, as amended at 73 FR 3863, Jan. 23, 2008; 80 FR 5008, Jan. 30, 2015]
+[57 FR 32656, July 22, 1992, as amended at 73 FR 3863, Jan. 23, 2008; 80 FR 5008, Jan. 30, 2015; 87 FR 49978, Aug. 15, 2022]

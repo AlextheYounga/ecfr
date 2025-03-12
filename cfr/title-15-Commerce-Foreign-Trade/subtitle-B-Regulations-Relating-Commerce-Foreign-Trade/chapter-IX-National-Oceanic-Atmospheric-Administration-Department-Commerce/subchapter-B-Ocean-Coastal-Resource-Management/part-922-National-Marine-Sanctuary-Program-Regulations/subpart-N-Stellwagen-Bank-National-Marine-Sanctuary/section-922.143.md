@@ -1,6 +1,6 @@
 ##### § 922.143 Permit procedures and criteria. #####
 
-Link to an amendment published at 87 FR 29636, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
+Link to an amendment published at 87 FR 29636, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
 
 (a) A person may conduct an activity prohibited by § 922.142 (a) (1) and (3) through (7) if conducted in accordance with scope, purpose, manner, terms and conditions of a permit issued under this section and § 922.48.
 

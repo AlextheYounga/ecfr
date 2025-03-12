@@ -1,7 +1,5 @@
 ##### § 1330.23 Evaluation process. #####
 
-Link to an amendment published at 87 FR 50003, Aug. 15, 2022.
-
 (a) The Director selects one or more of the selection criteria to evaluate an application:
 
 (1) The Director establishes selection criteria based on statutory provisions that apply to the Program which may include, but are not limited to:
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 50003, Aug. 15, 2022.
 
 (3) For Field-Initiated Projects, the Director does not consider § 1330.24(b) (Responsiveness to the Absolute or Competitive Priority) in evaluating an application.
 
-(b) In considering selection criteria in § 1330.24, the Director selects one or more of the factors listed in the criteria, but always considers the factor in § 1330.24(n) regarding members of groups that have traditionally been underrepresented based on race, color, national origin, gender, age, or disability.
+(b) In considering selection criteria in § 1330.24, the Director selects one or more of the factors listed in the criteria, but always considers the factors in § 1330.24(n) regarding people with disabilities, and members of groups that have traditionally been underrepresented based on race, ethnicity, national origin, sex (including sexual orientation and gender identity), or age.
 
 (c) The maximum possible score for an application is 100 points.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 87 FR 50003, Aug. 15, 2022.
 (2) The factors selected for considering the selection criteria and if points are assigned to each factor, the maximum possible score for each factor under each criterion. If no points are assigned to each factor, the Director evaluates each factor equally.
 
 (e) For all instances in which the Director chooses to allow field-initiated research and development, the selection criteria in § 1330.25 will apply, including the requirement that the applicant must achieve a score of 85 percent or more of maximum possible points.
+
+[81 FR 29159, May 11, 2016, as amended at 87 FR 50003, Aug. 15, 2022]

@@ -1,5 +1,7 @@
 ##### § 1003.2 Reopening or reconsideration before the Board of Immigration Appeals. #####
 
+Link to an amendment published at 87 FR 56257, Sept. 14, 2022.
+
 (a) *General.* The Board may at any time reopen or reconsider a case in which it has rendered a decision on its own motion solely in order to correct a ministerial mistake or typographical error in that decision or to reissue the decision to correct a defect in service. In all other cases, the Board may only reopen or reconsider any case in which it has rendered a decision solely pursuant to a motion filed by one or both parties. A request to reopen or reconsider any case in which a decision has been made by the Board, which request is made by the Service, or by the party affected by the decision, must be in the form of a written motion to the Board. The decision to grant or deny a motion to reopen or reconsider is within the discretion of the Board, subject to the restrictions of this section. The Board has discretion to deny a motion to reopen even if the party moving has made out a *prima facie* case for relief.
 
 (b) *Motion to reconsider.* (1) A motion to reconsider shall state the reasons for the motion by specifying the errors of fact or law in the prior Board decision and shall be supported by pertinent authority.

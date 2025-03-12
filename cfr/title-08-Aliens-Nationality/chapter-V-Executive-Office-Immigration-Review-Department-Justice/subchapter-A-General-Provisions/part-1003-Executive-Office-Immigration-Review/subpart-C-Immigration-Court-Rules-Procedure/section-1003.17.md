@@ -1,5 +1,7 @@
 ##### § 1003.17 Appearances. #####
 
+Link to an amendment published at 87 FR 56258, Sept. 14, 2022.
+
 (a) In any proceeding before an immigration judge in which the alien is represented, the attorney or representative shall file a Notice of Entry of Appearance on Form EOIR-28 with the immigration court, and shall serve a copy of the Notice of Entry of Appearance on DHS as required by § 1003.32. The entry of appearance of an attorney or representative in a custody or bond proceeding shall be separate and apart from an entry of appearance in any other proceeding before the immigration court. An attorney or representative may file a Form EOIR-28 indicating whether the entry of appearance is for custody or bond proceedings only, any other proceedings only, or for all proceedings. Such Notice of Entry of Appearance must be filed and served even if a separate Notice of Entry of Appearance(s) has previously been filed with DHS for appearance(s) before DHS.
 
 (b) Withdrawal or substitution of an attorney or representative may be permitted by an Immigration Judge during proceedings only upon oral or written motion submitted without fee.

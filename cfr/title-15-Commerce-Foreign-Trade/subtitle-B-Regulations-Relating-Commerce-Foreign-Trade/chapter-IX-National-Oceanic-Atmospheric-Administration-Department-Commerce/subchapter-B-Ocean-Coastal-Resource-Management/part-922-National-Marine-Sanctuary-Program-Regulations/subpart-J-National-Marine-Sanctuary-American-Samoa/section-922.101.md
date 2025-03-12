@@ -1,6 +1,6 @@
 ##### § 922.101 Boundary. #####
 
-Link to an amendment published at 87 FR 29633, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
+Link to an amendment published at 87 FR 29633, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
 
 The Sanctuary is comprised of six distinct units, forming a network of marine protected areas around the islands of the Territory of American Samoa. Tables containing the exact coordinates of each point described below can be found in Appendix to Subpart J - National Marine Sanctuary of American Samoa Boundary Coordinates.
 

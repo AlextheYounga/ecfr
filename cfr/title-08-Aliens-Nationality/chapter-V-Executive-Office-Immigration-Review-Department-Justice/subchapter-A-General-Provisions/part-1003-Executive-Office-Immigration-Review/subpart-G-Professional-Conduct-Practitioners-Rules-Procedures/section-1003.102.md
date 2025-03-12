@@ -1,5 +1,7 @@
 ##### § 1003.102 Grounds. #####
 
+Link to an amendment published at 87 FR 56259, Sept. 14, 2022.
+
 It is deemed to be in the public interest for an adjudicating official or the Board to impose disciplinary sanctions against any practitioner who falls within one or more of the categories enumerated in this section, but these categories do not constitute the exclusive grounds for which disciplinary sanctions may be imposed in the public interest. Nothing in this regulation should be read to denigrate the practitioner's duty to represent zealously his or her client within the bounds of the law. A practitioner who falls within one of the following categories shall be subject to disciplinary sanctions in the public interest if he or she:
 
 (a) Charges or receives, either directly or indirectly:

@@ -1,6 +1,6 @@
 ##### § 922.166 Permits other than for access to the Tortugas Ecological Reserve - application procedures and issuance criteria. #####
 
-Link to an amendment published at 87 FR 29638, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.
+Link to an amendment published at 87 FR 29638, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
 
 (a) *National Marine Sanctuary General Permit.* (1) A person may conduct an activity prohibited by §§ 922.163 or 922.164, other than an activity involving the survey/inventory, research/recovery, or deaccession/transfer of Sanctuary historical resources, if such activity is specifically authorized by, and provided such activity is conducted in accordance with the scope, purpose, terms and conditions of, a National Marine Sanctuary General permit issued under this paragraph (a).
 
