@@ -1,5 +1,7 @@
 ##### § 240.119 Criteria for consideration of data on substance abuse disorders and alcohol/drug rules compliance. #####
 
+Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) *Fitness requirement.* (1) A person who has an active substance abuse disorder shall not be currently certified as a locomotive engineer.

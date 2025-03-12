@@ -1,5 +1,7 @@
 ##### § 240.107 Criteria for designation of classes of service. #####
 
+Link to an amendment published at 85 FR 81309, Dec. 15, 2020.
+
 (a) Each railroad's program shall state which of the three classes of service, provided for in paragraph (b) of this section, that it will cover.
 
 (b) A railroad may issue certificates for any or all of the following classes of service:

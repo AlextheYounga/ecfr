@@ -1,7 +1,5 @@
 ##### § 438.7 Rate certification submission. #####
 
-Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
-
 (a) *CMS review and approval of the rate certification.* States must submit to CMS for review and approval, all MCO, PIHP, and PAHP rate certifications concurrent with the review and approval process for contracts as specified in § 438.3(a).
 
 (b) *Documentation.* The rate certification must contain the following information:
@@ -62,6 +60,20 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (2) If the State determines that a retroactive adjustment to the capitation rate is necessary, the retroactive adjustment must be supported by a rationale for the adjustment and the data, assumptions and methodologies used to develop the magnitude of the adjustment must be adequately described with enough detail to allow CMS or an actuary to determine the reasonableness of the adjustment. These retroactive adjustments must be certified by an actuary in a revised rate certification and submitted as a contract amendment to be approved by CMS. All such adjustments are also subject to Federal timely claim filing requirements.
 
-(3) The State may increase or decrease the capitation rate per rate cell, as required in paragraph (c) of this section and § 438.4(b)(4), up to 1.5 percent without submitting a revised rate certification, as required under paragraph (a) of this section. Such changes of the capitation rate within the permissible 1.5 percent range must be consistent with a modification of the contract as required in § 438.3(c).
+(3) The State may increase or decrease the capitation rate per rate cell, as required in paragraph (c) of this section and § 438.4(b)(4), up to 1.5 percent during the rating period without submitting a revised rate certification, as required under paragraph (a) of this section. However, any changes of the capitation rate within the permissible range must be consistent with a modification of the contract as required in § 438.3(c) and are subject to the requirements at § 438.4(b)(1). Notwithstanding the provisions in paragraph (c) of this section, CMS may require a State to provide documentation that modifications to the capitation rate comply with the requirements in §§ 438.3(c) and (e) and 438.4(b)(1).
 
 (d) *Provision of additional information.* The State must, upon CMS' request, provide additional information, whether part of the rate certification or additional supplemental materials, if CMS determines that information is pertinent to the approval of the certification under this part. The State must identify whether the information provided in addition to the rate certification is proffered by the State, the actuary, or another party.
+
+(e) *Provision of additional guidance.* CMS will issue guidance, at least annually, which includes all of the following:
+
+(1) The Federal standards for capitation rate development.
+
+(2) The documentation required to determine that the capitation rates are projected to provide for all reasonable, appropriate, and attainable costs that are required under the terms.
+
+(3) The documentation required to determine that the capitation rates have been developed in accordance with the requirements of this part.
+
+(4) Any updates or developments in the rate review process to reduce State burden and facilitate prompt actuarial reviews.
+
+(5) The documentation necessary to demonstrate that capitation rates competitively bid through a procurement process have been established consistent with the requirements of §§ 438.4 through 438.8.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72839, Nov. 13, 2020]

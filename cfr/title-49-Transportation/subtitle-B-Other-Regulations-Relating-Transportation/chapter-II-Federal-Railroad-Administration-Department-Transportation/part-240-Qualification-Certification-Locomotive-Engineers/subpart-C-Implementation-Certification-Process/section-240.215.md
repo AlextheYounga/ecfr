@@ -1,5 +1,7 @@
 ##### § 240.215 Retaining information supporting determinations. #####
 
+Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
+
 (a) A railroad that issues, denies, or revokes a certificate after making the determinations required under § 240.203 shall maintain a record for each certified engineer or applicant for certification that contains the information the railroad relied on in making the determinations.
 
 (b) The information concerning eligibility that the railroad shall retain includes:

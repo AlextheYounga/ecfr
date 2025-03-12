@@ -6,7 +6,7 @@ Link to an amendment published at 85 FR 72837, Nov. 13, 2020.
 
 (b) *CMS review and approval of actuarially sound capitation rates.* Capitation rates for MCOs, PIHPs, and PAHPs must be reviewed and approved by CMS as actuarially sound. To be approved by CMS, capitation rates must:
 
-(1) Have been developed in accordance with standards specified in § 438.5 and generally accepted actuarial principles and practices. Any proposed differences among capitation rates according to covered populations must be based on valid rate development standards and not based on the rate of Federal financial participation associated with the covered populations.
+(1) Have been developed in accordance with the standards specified in § 438.5 and generally accepted actuarial principles and practices. Any differences in the assumptions, methodologies, or factors used to develop capitation rates for covered populations must be based on valid rate development standards that represent actual cost differences in providing covered services to the covered populations. Any differences in the assumptions, methodologies, or factors used to develop capitation rates must not vary with the rate of Federal financial participation (FFP) associated with the covered populations in a manner that increases Federal costs. The determination that differences in the assumptions, methodologies, or factors used to develop capitation rates for MCOs, PIHPs, and PAHPs increase Federal costs and vary with the rate of FFP associated with the covered populations must be evaluated for the entire managed care program and include all managed care contracts for all covered populations. CMS may require a State to provide written documentation and justification that any differences in the assumptions, methodologies, or factors used to develop capitation rates for covered populations or contracts represent actual cost differences based on the characteristics and mix of the covered services or the covered populations.
 
 (2) Be appropriate for the populations to be covered and the services to be furnished under the contract.
 
@@ -23,3 +23,5 @@ Link to an amendment published at 85 FR 72837, Nov. 13, 2020.
 (8) Be provided to CMS in a format and within a timeframe that meets requirements in § 438.7.
 
 (9) Be developed in such a way that the MCO, PIHP, or PAHP would reasonably achieve a medical loss ratio standard, as calculated under § 438.8, of at least 85 percent for the rate year. The capitation rates may be developed in such a way that the MCO, PIHP, or PAHP would reasonably achieve a medical loss ratio standard greater than 85 percent, as calculated under § 438.8, as long as the capitation rates are adequate for reasonable, appropriate, and attainable non-benefit costs.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72837, Nov. 13, 2020]

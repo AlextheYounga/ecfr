@@ -1,6 +1,6 @@
 ##### § 438.400 Statutory basis, definitions, and applicability. #####
 
-Link to an amendment published at 84 FR 15844, Apr. 16, 2019.Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+Link to an amendment published at 84 FR 15844, Apr. 16, 2019.
 
 (a) *Statutory basis.* This subpart is based on the following statutory sections:
 
@@ -18,7 +18,7 @@ Link to an amendment published at 84 FR 15844, Apr. 16, 2019.Link to an amendmen
 
 (2) The reduction, suspension, or termination of a previously authorized service.
 
-(3) The denial, in whole or in part, of payment for a service.
+(3) The denial, in whole or in part, of payment for a service. A denial, in whole or in part, of a payment for a service solely because the claim does not meet the definition of a “clean claim” at § 447.45(b) of this chapter is not an adverse benefit determination.
 
 (4) The failure to provide services in a timely manner, as defined by the State.
 
@@ -37,3 +37,5 @@ Link to an amendment published at 84 FR 15844, Apr. 16, 2019.Link to an amendmen
 *State fair hearing* means the process set forth in subpart E of part 431 of this chapter.
 
 (c) *Applicability.* This subpart applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2017. Until that applicability date, states, MCOs, PIHPs, and PAHPs are required to continue to comply with subpart F contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72842, Nov. 13, 2020]

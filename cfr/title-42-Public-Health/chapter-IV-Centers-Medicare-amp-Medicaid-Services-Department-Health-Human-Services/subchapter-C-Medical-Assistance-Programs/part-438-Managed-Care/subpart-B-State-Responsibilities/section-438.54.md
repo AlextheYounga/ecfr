@@ -1,7 +1,5 @@
 ##### § 438.54 Managed care enrollment. #####
 
-Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
-
 (a) *Applicability.* The provisions of this section apply to all Medicaid managed care programs which operate under any authority in the Act.
 
 (b) *General rule.* The State must have an enrollment system for its managed care programs, voluntary and mandatory, as appropriate.
@@ -9,6 +7,8 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 (1) Voluntary managed care programs are those where one or more groups of beneficiaries as enumerated in section of 1905(a) of the Act have the option to either enroll in a MCO, PIHP, PAHP, PCCM or PCCM entity, or remain enrolled in FFS to receive Medicaid covered benefits.
 
 (2) Mandatory managed care programs are those where one or more groups of beneficiaries as enumerated in section 1905(a) of the Act must enroll in a MCO, PIHP, PAHP, PCCM or PCCM entity to receive covered Medicaid benefits.
+
+(3) States must provide the demographic information listed in § 438.340(b)(6) for each Medicaid enrollee to the individual's MCO, PIHP, PAHP, or PCCM entity at the time of enrollment.
 
 (c) *Voluntary managed care programs.* (1) States that have a voluntary managed care program must have an enrollment system that:
 
@@ -111,3 +111,5 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 (i) The State may not arbitrarily exclude any MCO, PIHP, PAHP, PCCM or PCCM entity from being considered; and
 
 (ii) The State may consider additional criteria to conduct the default enrollment process, including the enrollment preferences of family members, previous plan assignment of the beneficiary, quality assurance and improvement performance, procurement evaluation elements, accessibility of provider offices for people with disabilities (when appropriate), and other reasonable criteria related to a beneficiary's experience with the Medicaid program.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72840, Nov. 13, 2020]

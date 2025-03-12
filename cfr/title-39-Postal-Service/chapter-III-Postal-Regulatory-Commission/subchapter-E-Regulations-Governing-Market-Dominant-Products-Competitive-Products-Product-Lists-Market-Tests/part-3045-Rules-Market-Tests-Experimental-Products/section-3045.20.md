@@ -1,5 +1,7 @@
 ##### § 3045.20 Data collection and reporting requirements. #####
 
+Link to an amendment published at 85 FR 81139, Dec. 15, 2020.
+
 (a) A notice of a market test shall include a data collection plan for the market test as required by § 3045.3(a)(2)(vi). Data collection plans shall include, at a minimum:
 
 (1) The revenue by fiscal quarter received to date by the Postal Service from the market test;

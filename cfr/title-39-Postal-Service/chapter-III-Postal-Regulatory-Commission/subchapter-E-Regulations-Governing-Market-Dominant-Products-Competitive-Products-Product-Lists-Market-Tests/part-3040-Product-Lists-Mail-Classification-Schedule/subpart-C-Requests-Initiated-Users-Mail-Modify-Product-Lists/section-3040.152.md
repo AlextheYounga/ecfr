@@ -1,5 +1,7 @@
 ##### § 3040.152 Supporting justification. #####
 
+Link to an amendment published at 85 FR 81138, Dec. 15, 2020.
+
 Supporting justification shall be in the form of a statement from a knowledgeable proponent of the request who attests to the accuracy of the information contained within the statement. The justification shall:
 
 (a) Demonstrate why the change is in accordance with the policies and the applicable criteria of chapter 36 of 39 U.S.C.;

@@ -1,7 +1,5 @@
 ##### § 438.56 Disenrollment: Requirements and limitations. #####
 
-Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
-
 (a) *Applicability.* The provisions of this section apply to all managed care programs whether enrollment is mandatory or voluntary and whether the contract is with an MCO, PIHP, PAHP, PCCM, or PCCM entity.
 
 (b) *Disenrollment requested by the MCO, PIHP, PAHP, PCCM, or PCCM entity.* All MCO, PIHP, PAHP, PCCM and PCCM entity contracts must:
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (iv) When the State imposes the intermediate sanction specified in § 438.702(a)(4).
 
-(d) *Procedures for disenrollment* - (1) *Request for disenrollment.* The beneficiary (or his or her representative) must submit an oral or written request, as required by the State -
+(d) *Procedures for disenrollment*—(1) *Request for disenrollment.* The beneficiary (or his or her representative) must submit an oral or written request, as required by the State—
 
 (i) To the State (or its agent); or
 
@@ -56,11 +54,11 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (iii) Any of the reasons specified in paragraph (d)(2) of this section.
 
-(5) *Use of the MCO's, PIHP's, PAHP's, PCCM's, or PCCMs entity's grievance procedures.* (i) The State agency may require that the enrollee seek redress through the MCO's, PIHP's, PAHP's, PCCM's, or PCCM entity's grievance system before making a determination on the enrollee's request.
+(5) *Use of the MCO's, PIHP's, PAHP's grievance procedures.* (i) The State agency may require that the enrollee seek redress through the MCO's, PHIP's, or PAHP's grievance system before making a determination on the enrollee's request.
 
 (ii) The grievance process, if used, must be completed in time to permit the disenrollment (if approved) to be effective in accordance with the timeframe specified in paragraph (e)(1) of this section.
 
-(iii) If, as a result of the grievance process, the MCO, PIHP, PAHP, PCCM, or PCCM entity approves the disenrollment, the State agency is not required to make a determination in accordance with paragraph (d)(4) of this section.
+(iii) If, as a result of the grievance process, the MCO, PIHP, or PAHP approves the disenrollment, the State agency is not required to make a determination in accordance with paragraph (d)(4) of this section.
 
 (e) *Timeframe for disenrollment determinations.* (1) Regardless of the procedures followed, the effective date of an approved disenrollment must be no later than the first day of the second month following the month in which the enrollee requests disenrollment or the MCO, PIHP, PAHP, PCCM, or PCCM entity refers the request to the State.
 
@@ -73,3 +71,5 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 (2) Ensure timely access to State fair hearing for any enrollee dissatisfied with a State agency determination that there is not good cause for disenrollment.
 
 (g) *Automatic reenrollment: Contract requirement.* If the State plan so specifies, the contract must provide for automatic reenrollment of a beneficiary who is disenrolled solely because he or she loses Medicaid eligibility for a period of 2 months or less.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72840, Nov. 13, 2020]

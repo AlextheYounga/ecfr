@@ -1,5 +1,7 @@
 ##### § 240.121 Criteria for vision and hearing acuity data. #####
 
+Link to an amendment published at 85 FR 81312, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures implementing this section.
 
 (b) *Fitness requirement.* In order to be currently certified as a locomotive engineer, except as permitted by paragraph (e) of this section, a person's vision and hearing shall meet or exceed the standards prescribed in this section and appendix F to this part. It is recommended that each test conducted pursuant to this section should be performed according to any directions supplied by the manufacturer of such test and any American National Standards Institute (ANSI) standards that are applicable.

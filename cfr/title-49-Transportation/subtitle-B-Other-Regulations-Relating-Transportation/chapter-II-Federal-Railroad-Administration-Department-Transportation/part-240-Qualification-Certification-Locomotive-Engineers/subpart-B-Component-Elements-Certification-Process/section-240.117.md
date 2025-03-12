@@ -1,5 +1,7 @@
 ##### § 240.117 Criteria for consideration of operating rules compliance data. #####
 
+Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) A person who has demonstrated a failure to comply, as described in paragraph (e) of this section, with railroad rules and practices for the safe operation of trains shall not be currently certified as a locomotive engineer.

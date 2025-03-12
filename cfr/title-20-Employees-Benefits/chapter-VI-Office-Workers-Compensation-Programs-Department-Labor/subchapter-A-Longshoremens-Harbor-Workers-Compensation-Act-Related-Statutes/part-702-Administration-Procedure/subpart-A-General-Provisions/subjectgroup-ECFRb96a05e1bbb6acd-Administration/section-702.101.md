@@ -1,5 +1,7 @@
 ##### § 702.101 Exchange of documents and information. #####
 
+Link to an amendment published at 85 FR 80611, Dec. 14, 2020.
+
 (a) Except as otherwise required by the regulations in this subchapter, all documents and information sent to OWCP under this subchapter must be submitted -
 
 (1) In hard copy by postal mail, commercial delivery service (such as Federal Express or United Parcel Service), or hand delivery;

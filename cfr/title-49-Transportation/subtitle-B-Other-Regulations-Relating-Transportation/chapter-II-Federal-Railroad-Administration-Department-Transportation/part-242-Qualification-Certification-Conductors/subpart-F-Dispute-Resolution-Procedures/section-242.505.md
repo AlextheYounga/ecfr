@@ -1,5 +1,7 @@
 ##### § 242.505 Processing certification review petitions. #####
 
+Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
+
 (a) Each petition shall be acknowledged in writing by FRA. The acknowledgment shall contain the docket number assigned to the petition and a statement of FRA's intention that the Board will attempt to render a decision on this petition within 180 days from the date that the railroad's response is received or from the date upon which the railroad's response period has lapsed pursuant to paragraph (c) of this section.
 
 (b) Upon receipt of the petition, FRA will notify the railroad that it has received the petition and where the petition may be accessed.

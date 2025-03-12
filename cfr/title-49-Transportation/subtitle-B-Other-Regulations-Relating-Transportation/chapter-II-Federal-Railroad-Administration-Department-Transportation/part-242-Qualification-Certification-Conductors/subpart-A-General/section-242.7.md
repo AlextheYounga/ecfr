@@ -1,5 +1,7 @@
 ##### § 242.7 Definitions. #####
 
+Link to an amendment published at 85 FR 81324, Dec. 15, 2020.
+
 As used in this part -
 
 *Administrator* means the Administrator of the FRA or the Administrator's delegate.

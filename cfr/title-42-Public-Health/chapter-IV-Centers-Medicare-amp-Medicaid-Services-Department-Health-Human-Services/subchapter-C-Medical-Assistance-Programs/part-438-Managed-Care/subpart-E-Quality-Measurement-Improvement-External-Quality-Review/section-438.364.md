@@ -1,7 +1,5 @@
 ##### § 438.364 External quality review results. #####
 
-Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
-
 (a) *Information that must be produced.* The State must ensure that the EQR results in an annual detailed technical report that summarizes findings on access and quality of care, including:
 
 (1) A description of the manner in which the data from all activities conducted in accordance with § 438.358 were aggregated and analyzed, and conclusions were drawn as to the quality, timeliness, and access to the care furnished by the MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)).
@@ -24,11 +22,13 @@ Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
 
 (6) An assessment of the degree to which each MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) has addressed effectively the recommendations for quality improvement made by the EQRO during the previous year's EQR.
 
+(7) The names of the MCOs exempt from external quality review by the State, including the beginning date of the current exemption period, or that no MCOs are exempt, as appropriate.
+
 (b) *Revision.* States may not substantively revise the content of the final EQR technical report without evidence of error or omission.
 
 (c) *Availability of information.* (1) The State must contract with a qualified EQRO to produce and submit to the State an annual EQR technical report in accordance with paragraph (a) of this section. The State must finalize the annual technical report by April 30th of each year.
 
-(2) The State must -
+(2) The State must—
 
 (i) Post the most recent copy of the annual EQR technical report on the Web site required under § 438.10(c)(3) by April 30th of each year.
 
@@ -36,4 +36,6 @@ Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
 
 (3) The State must make the information specified in paragraph (a) of this section available in alternative formats for persons with disabilities, when requested.
 
-(d) *Safeguarding patient identity.* The information released under paragraph (b) of this section may not disclose the identity or other protected health information of any patient.
+(d) *Safeguarding patient identity.* The information released under paragraph (c) of this section may not disclose the identity or other protected health information of any patient.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72842, Nov. 13, 2020]

@@ -1,7 +1,5 @@
 ##### § 438.8 Medical loss ratio (MLR) standards. #####
 
-Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
-
 (a) *Basic rule.* The State must ensure, through its contracts starting on or after July 1, 2017, that each MCO, PIHP, and PAHP calculate and report a MLR in accordance with this section. For multi-year contracts that do not start in 2017, the State must require the MCO, PIHP, or PAHP to calculate and report a MLR for the rating period that begins in 2017.
 
 (b) *Definitions.* As used in this section, the following terms have the indicated meanings:
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (d) *Calculation of the MLR.* The MLR experienced for each MCO, PIHP, or PAHP in a MLR reporting year is the ratio of the numerator (as defined in paragraph (e) of this section) to the denominator (as defined in paragraph (f) of this section). A MLR may be increased by a credibility adjustment, in accordance with paragraph (h) of this section.
 
-(e) *Numerator* - (1) *Required elements.* The numerator of an MCO's, PIHP's, or PAHP's MLR for a MLR reporting year is the sum of the MCO's, PIHP's, or PAHP's incurred claims (as defined in (e)(2) of this section); the MCO's, PIHP's, or PAHP's expenditures for activities that improve health care quality (as defined in paragraph (e)(3) of this section); and fraud prevention activities (as defined in paragraph (e)(4) of this section).
+(e) *Numerator*—(1) *Required elements.* The numerator of an MCO's, PIHP's, or PAHP's MLR for a MLR reporting year is the sum of the MCO's, PIHP's, or PAHP's incurred claims (as defined in (e)(2) of this section); the MCO's, PIHP's, or PAHP's expenditures for activities that improve health care quality (as defined in paragraph (e)(3) of this section); and fraud prevention activities (as defined in paragraph (e)(4) of this section).
 
 (2) *Incurred claims.* (i) Incurred claims must include the following:
 
@@ -84,9 +82,9 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (iii) Any MCO, PIHP, or PAHP expenditure that is related to Health Information Technology and meaningful use, meets the requirements placed on issuers found in 45 CFR 158.151, and is not considered incurred claims, as defined in paragraph (e)(2) of this section.
 
-(4) *Fraud prevention activities.* MCO, PIHP, or PAHP expenditures on activities related to fraud prevention as adopted for the private market at 45 CFR part 158. Expenditures under this paragraph must not include expenses for fraud reduction efforts in paragraph (e)(2)(iii)(B) of this section.
+(4) *Fraud prevention activities.* MCO, PIHP, or PAHP expenditures on activities related to fraud prevention consistent with regulations adopted for the private market at 45 CFR part 158. Expenditures under this paragraph must not include expenses for fraud reduction efforts in paragraph (e)(2)(iii)(B) of this section.
 
-(f) *Denominator* - (1) *Required elements.* The denominator of an MCO's, PIHP's, or PAHP's MLR for a MLR reporting year must equal the adjusted premium revenue. The adjusted premium revenue is the MCO's, PIHP's, or PAHP's premium revenue (as defined in paragraph (f)(2) of this section) minus the MCO's, PIHP's, or PAHP's Federal, State, and local taxes and licensing and regulatory fees (as defined in paragraph (f)(3) of this section) and is aggregated in accordance with paragraph (i) of this section.
+(f) *Denominator*—(1) *Required elements.* The denominator of an MCO's, PIHP's, or PAHP's MLR for a MLR reporting year must equal the adjusted premium revenue. The adjusted premium revenue is the MCO's, PIHP's, or PAHP's premium revenue (as defined in paragraph (f)(2) of this section) minus the MCO's, PIHP's, or PAHP's Federal, State, and local taxes and licensing and regulatory fees (as defined in paragraph (f)(3) of this section) and is aggregated in accordance with paragraph (i) of this section.
 
 (2) *Premium revenue.* Premium revenue includes the following for the MLR reporting year:
 
@@ -130,7 +128,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (4) *Denominator when MCO, PIHP, or PAHP is assumed.* The total amount of the denominator for a MCO, PIHP, or PAHP which is later assumed by another entity must be reported by the assuming MCO, PIHP, or PAHP for the entire MLR reporting year and no amount under this paragraph for that year may be reported by the ceding MCO, PIHP, or PAHP.
 
-(g) *Allocation of expense* - (1) *General requirements.* (i) Each expense must be included under only one type of expense, unless a portion of the expense fits under the definition of, or criteria for, one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses.
+(g) *Allocation of expense*—(1) *General requirements.* (i) Each expense must be included under only one type of expense, unless a portion of the expense fits under the definition of, or criteria for, one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses.
 
 (ii) Expenditures that benefit multiple contracts or populations, or contracts other than those being reported, must be reported on a pro rata basis.
 
@@ -170,7 +168,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (ii) Expenditures on quality improving activities.
 
-(iii) Expenditures related to activities compliant with § 438.608(a)(1) through (5), (7), (8) and (b).
+(iii) Fraud prevention activities as defined in paragraph (e)(4) of this section.
 
 (iv) Non-claims costs.
 
@@ -202,4 +200,4 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (n) *Attestation.* MCOs, PIHPs, and PAHPs must attest to the accuracy of the calculation of the MLR in accordance with requirements of this section when submitting the report required under paragraph (k) of this section.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020]

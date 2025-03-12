@@ -1,5 +1,7 @@
 ##### § 240.407 Request for a hearing. #####
 
+Link to an amendment published at 85 FR 81319, Dec. 15, 2020.
+
 (a) If adversely affected by the Locomotive Engineer Review Board decision, either the petitioner before the Board or the railroad involved shall have a right to an administrative proceeding as prescribed by § 240.409.
 
 (b) To exercise that right, the adversely affected party shall, within 20 days of service of the Board's decision on that party, file a written request with the U.S. Department of Transportation, Docket Operations (M-30), West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590. The form of such request may be in written or electronic form consistent with the standards and requirements established by the Federal Docket Management System and posted on its web site at *http://www.regulations.gov.*

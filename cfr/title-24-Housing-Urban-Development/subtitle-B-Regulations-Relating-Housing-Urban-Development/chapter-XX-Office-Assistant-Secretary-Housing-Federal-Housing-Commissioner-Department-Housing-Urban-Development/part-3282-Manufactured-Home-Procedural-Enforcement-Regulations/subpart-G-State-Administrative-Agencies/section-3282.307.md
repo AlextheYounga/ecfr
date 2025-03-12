@@ -1,14 +1,12 @@
 ##### § 3282.307 Monitoring inspection fee establishment and distribution. #####
 
-Link to an amendment published at 85 FR 71834, Nov. 12, 2020.
-
 (a) Each approved State shall establish a monitoring inspection fee in an amount required by the Secretary. This fee shall be an amount paid by each manufactured home manufacturer in the State for each transportable section of each manufactured housing unit produced by the manufacturer in that State. In non-approved and conditionally-approved States, the fee shall be set by the Secretary.
 
-(b) The monitoring inspection fee shall be paid by the manufacturer to the Secretary or to the Secretary's Agent, who shall distribute a portion of the fees collected from all manufactured home manufacturers among the approved and conditionally-approved States in accordance with an agreement between the Secretary and the States and based upon the following formula:
+(b) The monitoring inspection fee shall be paid by the manufacturer to the Secretary or to the Secretary's Agent, who shall distribute a portion of the fees collected from all manufactured home manufacturers among the approved and conditionally-approved States in accordance with an agreement between the Secretary and the States and based upon the following formula subject to the availability of appropriations:
 
-(1) $9.00 of the monitoring inspection fee collected for each transportable section of each new manufactured housing unit that, after leaving the manufacturing plant, is first located on the premises of a retailer, distributor, or purchaser in that State; plus
+(1) $9.00 of the monitoring inspection fee collected for each transportable section of each new manufactured housing unit that is first located on the premises of a retailer, distributor, or purchaser in that State; plus
 
-(2) $2.50 of the monitoring inspection fee collected for each transportable section of each new manufactured housing unit produced in a manufacturing plant in that State.
+(2) $14.00 of the monitoring inspection fee collected for each transportable section of each new manufactured housing unit produced in a manufacturing plant in that State.
 
 (c) A portion of the monitoring inspection fee collected also shall be distributed by the Secretary or the Secretary's Agent based on the extent of participation of the State in the Joint Team Monitoring Program set out in § 3282.308.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 71834, Nov. 12, 2020.
 
 (f) The Secretary may at any time revise the amount of the fees established under paragraph (a) or (e) of this section by placing a notice of the amount of the revised fee in the Federal Register.
 
-[50 FR 28398, July 12, 1985, as amended at 56 FR 65186, Dec. 16, 1991]
+[50 FR 28398, July 12, 1985, as amended at 56 FR 65186, Dec. 16, 1991; 85 FR 71834, Nov. 12, 2020]

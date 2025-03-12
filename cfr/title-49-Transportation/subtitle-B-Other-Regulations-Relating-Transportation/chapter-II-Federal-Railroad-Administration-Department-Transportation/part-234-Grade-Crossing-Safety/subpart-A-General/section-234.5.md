@@ -1,5 +1,7 @@
 ##### § 234.5 Definitions. #####
 
+Link to an amendment published at 85 FR 80659, Dec. 14, 2020.
+
 As used in this part:
 
 *Activation failure* means the failure of an active highway-rail grade crossing warning system to indicate the approach of a train at least 20 seconds prior to the train's arrival at the crossing, or to indicate the presence of a train occupying the crossing, unless the crossing is provided with an alternative means of active warning to highway users of approaching trains. (This failure indicates to the motorist that it is safe to proceed across the railroad tracks when, in fact, it is not safe to do so.) A grade crossing signal system does not indicate the approach of a train within the meaning of this paragraph if - more than 50% of the flashing lights (not gate arm lights) on any approach lane to the crossing are not functioning as intended, or in the case of an approach lane for which two or more pairs of flashing lights are provided, there is not at least one flashing light pair operating as intended. Back lights on the far side of the crossing are not considered in making these determinations.

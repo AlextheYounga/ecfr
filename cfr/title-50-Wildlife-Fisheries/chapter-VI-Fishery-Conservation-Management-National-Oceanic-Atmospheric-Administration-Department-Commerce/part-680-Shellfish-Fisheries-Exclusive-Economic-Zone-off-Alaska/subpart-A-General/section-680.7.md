@@ -1,7 +1,5 @@
 ##### § 680.7 Prohibitions. #####
 
-Link to an amendment published at 85 FR 72583, Nov. 13, 2020.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Receiving and processing CR crab.* (1) Process any CR crab that has not been weighed by an RCR on:
@@ -38,15 +36,13 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (2) Remove any CR crab processed at sea from any vessel before completing a landing report, as defined at § 680.5(c), for all such CR crab onboard.
 
-(3) Resume fishing for CR crab or take CR crab on board a vessel once a landing has commenced and until all CR crab are landed, unless fishing in the Western Aleutian Islands golden king crab fishery.
+(3) Fail to remove all processed crab harvested under a CPO or a CPC IFQ permit to an onshore location within the United States, accessible by road or regularly scheduled air service, and to weigh that crab product on a scale approved by the State in which the crab is weighed.
 
-(4) Fail to remove all processed crab harvested under a CPO or a CPC IFQ permit to an onshore location within the United States, accessible by road or regularly scheduled air service, and to weigh that crab product on a scale approved by the State in which the crab is weighed.
+(4) Make an IFQ crab landing except by an individual who holds either a crab IFQ permit or a crab IFQ hired master permit issued under § 680.4 in his or her name.
 
-(5) Make an IFQ crab landing except by an individual who holds either a crab IFQ permit or a crab IFQ hired master permit issued under § 680.4 in his or her name.
+(5) Make an IFQ crab landing without the following on board: a copy of the crab IFQ permit to be debited for the landing; and, if applicable, a copy of the crab IFQ hired master permit issued under § 680.4 in the name of the person making the landing.
 
-(6) Make an IFQ crab landing without the following on board: a copy of the crab IFQ permit to be debited for the landing; and, if applicable, a copy of the crab IFQ hired master permit issued under § 680.4 in the name of the person making the landing.
-
-(7) For a Crab IFQ hired master to make an IFQ crab landing on any vessel other than the vessel named on the Crab IFQ hired master permit.
+(6) For a Crab IFQ hired master to make an IFQ crab landing on any vessel other than the vessel named on the Crab IFQ hired master permit.
 
 (c) *Harvest crab.* (1) Harvest any CR crab with any vessel not named on a valid Federal crab vessel permit.
 
@@ -82,4 +78,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (h) *Inseason action.* Conduct any fishing contrary to notification of inseason action closure, or adjustment issued under § 680.22.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 73 FR 29982, May 23, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 25457, May 28, 2009; 74 FR 41095, Aug. 14, 2009; 76 FR 35786, June 20, 2011; 78 FR 28531, May 15, 2013; 81 FR 24518, Apr. 26, 2016]
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 73 FR 29982, May 23, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 25457, May 28, 2009; 74 FR 41095, Aug. 14, 2009; 76 FR 35786, June 20, 2011; 78 FR 28531, May 15, 2013; 81 FR 24518, Apr. 26, 2016; 85 FR 72583, Nov. 13, 2020]

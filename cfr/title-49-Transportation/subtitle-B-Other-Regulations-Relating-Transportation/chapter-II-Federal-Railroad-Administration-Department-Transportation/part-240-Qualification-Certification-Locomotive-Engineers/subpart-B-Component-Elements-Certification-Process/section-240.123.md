@@ -1,5 +1,7 @@
 ##### § 240.123 Criteria for initial and continuing education. #####
 
+Link to an amendment published at 85 FR 81312, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) A railroad shall provide for the continuing education of certified locomotive engineers to ensure that each engineer maintains the necessary knowledge, skill and ability concerning personal safety, operating rules and practices, mechanical condition of equipment, methods of safe train handling (including familiarity with physical characteristics as determined by a qualified Designated Supervisor of Locomotive Engineers), and relevant Federal safety rules.

@@ -1,5 +1,7 @@
 ##### § 242.403 Criteria for revoking certification. #####
 
+Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
+
 (a) Each railroad shall adopt and comply with a program which meets the requirements of this section. When any person including, but not limited to, each railroad, railroad officer, supervisor, and employee violates any requirement of a program which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (b) It shall be unlawful to fail to comply with any of the railroad rules and practices described in paragraph (e) of this section.

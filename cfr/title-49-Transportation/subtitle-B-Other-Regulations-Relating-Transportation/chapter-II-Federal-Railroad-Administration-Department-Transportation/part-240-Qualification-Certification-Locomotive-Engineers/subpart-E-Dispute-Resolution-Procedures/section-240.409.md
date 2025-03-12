@@ -1,5 +1,7 @@
 ##### § 240.409 Hearings. #####
 
+Link to an amendment published at 85 FR 81319, Dec. 15, 2020.
+
 (a) An administrative hearing for a locomotive engineer qualification petition shall be conducted by a presiding officer, who can be any person authorized by the Administrator, including an administrative law judge.
 
 (b) The presiding officer may exercise the powers of the Administrator to regulate the conduct of the hearing for the purpose of achieving a prompt and fair determination of all material issues in controversy.

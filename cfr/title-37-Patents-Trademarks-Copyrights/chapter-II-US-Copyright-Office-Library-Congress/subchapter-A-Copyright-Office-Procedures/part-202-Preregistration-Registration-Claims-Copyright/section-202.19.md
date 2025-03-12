@@ -1,7 +1,5 @@
 ##### § 202.19 Deposit of published copies or phonorecords for the Library of Congress. #####
 
-Link to an amendment published at 85 FR 71837, Nov. 12, 2020.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published works for the Library of Congress under section 407 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for purposes of copyright registration under section 408 of title 17, except as expressly adopted in § 202.20.
 
 (b) *Definitions.* For the purposes of this section:
@@ -34,7 +32,13 @@ Link to an amendment published at 85 FR 71837, Nov. 12, 2020.
 
 (3) The terms *architectural works*, *copies*, *collective work*, *device*, *fixed*, *literary work*, *machine*, *motion picture, phonorecord*, *publication*, *sound recording*, *useful article*, and their variant forms, have the meanings given to them in 17 U.S.C. 101.
 
-(4) For purposes of paragraph (c)(5) of this section, an *electronic serial* is an electronic work published in the United States and available only online, issued or intended to be issued on an established schedule in successive parts bearing numerical or chronological designations, without subsequent alterations, and intended to be continued indefinitely. This class includes periodicals, newspapers, annuals, and the journals, proceedings, transactions, and other publications of societies.
+(4) For purposes of paragraph (c)(5) of this section:
+
+(i) An *electronic-only serial* is a serial as defined in § 202.3(b)(1)(v) that is published in electronic form in the United States and available only online.
+
+(ii) An *electronic-only book* is an electronic literary work published in one volume or a finite number of volumes published in the United States and available only online. This class excludes literary works distributed solely in phonorecords (e.g., audiobooks), serials (as defined in § 202.3(b)(1)(v)), computer programs, websites, blogs, emails, and short online literary works such as social media posts.
+
+(iii) A work shall be deemed to be *available only online* even if copies have been made available to individual consumers or other end users to print on demand, so long as the work is otherwise available only online. A work also shall be deemed to be available only online even if copies have been loaded onto electronic devices, such as tablets or e-readers, in advance of sale to individual consumers, so long as the work is otherwise available only online.
 
 (5) The term *literary monograph* means a literary work published in one volume or a finite number of volumes. This category does not include serials, nor does it include legal publications that are published in one volume or a finite number of volumes that contain legislative enactments, judicial decisions, or other edicts of government.
 
@@ -48,7 +52,7 @@ Link to an amendment published at 85 FR 71837, Nov. 12, 2020.
 
 (4) Literary, dramatic, and musical works published only as embodied in phonorecords. This category does not exempt the owner of copyright, or of the exclusive right of publication, in a sound recording resulting from the fixation of such works in a phonorecord from the applicable deposit requirements for the sound recording.
 
-(5) Electronic works published in the United States and available only online. This exemption includes electronic serials available only online only until such time as a demand is issued by the Copyright Office under the regulations set forth in § 202.24. This exemption does not apply to works that are published in both online, electronic formats and in physical formats, which remain subject to the appropriate mandatory deposit requirements.
+(5) Electronic works published in the United States and available only online. This exemption includes electronic-only books and electronic serials available only online only until such time as a demand is issued by the Copyright Office under the regulations set forth in § 202.24. This exemption does not apply to works that are published in both online, electronic formats and in physical formats, which remain subject to the appropriate mandatory deposit requirements.
 
 (6) Three-dimensional sculptural works, and any works published only as reproduced in or on jewelry, dolls, toys, games, plaques, floor coverings, wallpaper and similar commercial wall coverings, textiles and other fabrics, packaging material, or any useful article. Globes, relief models, and similar cartographic representations of area are not within this category and are subject to the applicable deposit requirements.
 
@@ -136,4 +140,4 @@ Link to an amendment published at 85 FR 71837, Nov. 12, 2020.
 
 (3) Upon request by the depositor made at the time of the deposit, the Copyright Office will issue a certificate of receipt for the deposit of copies or phonorecords of a work under this section. Certificates of receipt will be issued in response to requests made after the date of deposit only if the requesting party is identified in the records of the Copyright Office as having made the deposit. In either case, requests for a certificate of receipt must be in writing and accompanied by the appropriate fee, as required in § 201.3(c). A certificate of receipt will include identification of the depositor, the work deposited, and the nature and format of the copy or phonorecord deposited, together with the date of receipt.
 
-[51 FR 6403, Feb. 24, 1986, as amended at 54 FR 42299, Oct. 16, 1989; 56 FR 47403, Sept. 19, 1991; 56 FR 59885, Nov. 26, 1991; 57 FR 45310, Oct. 1, 1992; 60 FR 34168, June 30, 1995; 64 FR 29522, June 1, 1999; 64 FR 62978, Nov. 18, 1999; 66 FR 34373, June 28, 2001; 73 FR 37839, July 2, 2008; 75 FR 3869, Jan. 25, 2010; 82 FR 9360, Feb. 6, 2017; 83 FR 2372, Jan. 17, 2018; 83 FR 4147, Jan. 30, 2018; 83 FR 25375, June 1, 2018; 83 FR 61550, Nov. 30, 2018]
+[51 FR 6403, Feb. 24, 1986, as amended at 54 FR 42299, Oct. 16, 1989; 56 FR 47403, Sept. 19, 1991; 56 FR 59885, Nov. 26, 1991; 57 FR 45310, Oct. 1, 1992; 60 FR 34168, June 30, 1995; 64 FR 29522, June 1, 1999; 64 FR 62978, Nov. 18, 1999; 66 FR 34373, June 28, 2001; 73 FR 37839, July 2, 2008; 75 FR 3869, Jan. 25, 2010; 82 FR 9360, Feb. 6, 2017; 83 FR 2372, Jan. 17, 2018; 83 FR 4147, Jan. 30, 2018; 83 FR 25375, June 1, 2018; 83 FR 61550, Nov. 30, 2018; 85 FR 71837, Nov. 12, 2020]

@@ -1,5 +1,7 @@
 ##### § 103.1 Key definitions. #####
 
+Link to an amendment published at 85 FR 80587, Dec. 14, 2020.
+
 (a) *Agent* means an authorized representative, including an attorney, accountant, consultant, packager, lender service provider, or any other individual or entity representing an Applicant or Participant by conducting business with SBA. For purposes of SBA's business loan programs, the term Agent includes but is not limited to:
 
 (1) *Lender Service Provider:* an Agent who assists the Lender with originating, disbursing, servicing, liquidating, or litigating SBA loans. The Lender bears full responsibility for all aspects of its SBA loan operation, including, but not limited to, approvals, closings, disbursements, servicing actions, and due diligence. Lender Service Providers may only receive compensation from the Lender and such compensation may not be passed on to the Applicant or paid out of SBA-guaranteed loan proceeds.

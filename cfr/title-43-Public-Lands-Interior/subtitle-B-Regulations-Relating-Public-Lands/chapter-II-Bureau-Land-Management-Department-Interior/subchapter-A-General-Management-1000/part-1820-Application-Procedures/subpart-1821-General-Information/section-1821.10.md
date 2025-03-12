@@ -1,5 +1,7 @@
 ##### § 1821.10 Where are BLM offices located? #####
 
+Link to an amendment published at 85 FR 81142, Dec. 15, 2020.
+
 (a) In addition to the Headquarters Office in Washington, D.C. and seven national level support and service centers, BLM operates 12 State Offices each having several subsidiary offices called Field Offices. The addresses of the State Offices and their respective geographical areas of jurisdiction are as follows:
 
 State Offices and Areas of JurisdictionAlaska State Office, 222 West 7th Avenue, #13, Anchorage, Alaska 99513-7599 - Alaska.Arizona State Office, One North Central Avenue, Phoenix, Arizona 85004-2203 - Arizona.California State Office, 2800 Cottage Way, Room W-1834, Sacramento, California 95825-1886 - California.Colorado State Office, 2850 Youngfield Street, Lakewood, Colorado 80215-7093-Colorado.

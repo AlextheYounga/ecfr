@@ -1,5 +1,7 @@
 ##### § 120.352 Use of proceeds. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 Loan proceeds may be used for:
 
 (a) *Qualified employee trust.* A qualified employee trust may use loan proceeds for two purposes:

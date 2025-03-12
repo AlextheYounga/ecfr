@@ -1,6 +1,6 @@
 ##### § 438.6 Special contract provisions related to payment. #####
 
-Link to an amendment published at 85 FR 72838, Nov. 13, 2020.Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
+Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (a) *Definitions.* As used in this part, the following terms have the indicated meanings:
 
@@ -12,9 +12,13 @@ Link to an amendment published at 85 FR 72838, Nov. 13, 2020.Link to an amendmen
 
 *Risk corridor* means a risk sharing mechanism in which States and MCOs, PIHPs, or PAHPs may share in profits and losses under the contract outside of a predetermined threshold amount.
 
+*State plan approved rates* means amounts calculated for specific services identifiable as having been provided to an individual beneficiary described under CMS approved rate methodologies in the Medicaid State plan. Supplemental payments contained in a State plan are not, and do not constitute, State plan approved rates.
+
+*Supplemental payments* means amounts paid by the State in its FFS Medicaid delivery system to providers that are described and approved in the State plan or under a demonstration or waiver thereof and are in addition to State plan approved rates. Disproportionate share hospital (DSH) and graduate medical education (GME) payments are not, and do not constitute, supplemental payments.
+
 *Withhold arrangement* means any payment mechanism under which a portion of a capitation rate is withheld from an MCO, PIHP, or PAHP and a portion of or all of the withheld amount will be paid to the MCO, PIHP, or PAHP for meeting targets specified in the contract. The targets for a withhold arrangement are distinct from general operational requirements under the contract. Arrangements that withhold a portion of a capitation rate for noncompliance with general operational requirements are a penalty and not a withhold arrangement.
 
-(b) *Basic requirements.* (1) If used in the payment arrangement between the State and the MCO, PIHP, or PAHP, all applicable risk-sharing mechanisms, such as reinsurance, risk corridors, or stop-loss limits, must be described in the contract, and must be developed in accordance with § 438.4, the rate development standards in § 438.5, and generally accepted actuarial principles and practices.
+(b) *Basic requirements.* (1) If used in the payment arrangement between the State and the MCO, PIHP, or PAHP, all applicable risk-sharing mechanisms, such as reinsurance, risk corridors, or stop-loss limits, must be documented in the contract and rate certification documents for the rating period prior to the start of the rating period, and must be developed in accordance with § 438.4, the rate development standards in § 438.5, and generally accepted actuarial principles and practices. Risk-sharing mechanisms may not be added or modified after the start of the rating period.
 
 (2) Contracts with incentive arrangements may not provide for payment in excess of 105 percent of the approved capitation payments attributable to the enrollees or services covered by the incentive arrangement, since such total payments will not be considered to be actuarially sound. For all incentive arrangements, the contract must provide that the arrangement is -
 
@@ -46,13 +50,51 @@ Link to an amendment published at 85 FR 72838, Nov. 13, 2020.Link to an amendmen
 
 (ii) The State may require MCOs, PIHPs, or PAHPs to participate in a multi-payer or Medicaid-specific delivery system reform or performance improvement initiative.
 
-(iii) The State may require the MCO, PIHP or PAHP to:
+(iii) The State may require the MCO, PIHP, or PAHP to:
 
-(A) Adopt a minimum fee schedule for network providers that provide a particular service under the contract; or
+(A) Adopt a minimum fee schedule for network providers that provide a particular service under the contract using State plan approved rates as defined in paragraph (a) of this section.
 
-(B) Provide a uniform dollar or percentage increase for network providers that provide a particular service under the contract.
+(B) Adopt a minimum fee schedule for network providers that provide a particular service under the contract using rates other than the State plan approved rates defined in paragraph (a) of this section.
 
-(C) Adopt a maximum fee schedule for network providers that provide a particular service under the contract, so long as the MCO, PIHP, or PAHP retains the ability to reasonably manage risk and has discretion in accomplishing the goals of the contract.
+(C) Provide a uniform dollar or percentage increase for network providers that provide a particular service under the contract.
+
+(D) Adopt a maximum fee schedule for network providers that provide a particular service under the contract, so long as the MCO, PIHP, or PAHP retains the ability to reasonably manage risk and has discretion in accomplishing the goals of the contract.
+
+(2) *Process for approval.* (i) All contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraphs (c)(1)(i) through (iii) of this section must be developed in accordance with § 438.4, the standards specified in § 438.5, and generally accepted actuarial principles and practices.
+
+(ii) Contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraphs (c)(1)(i) and (ii) and (c)(1)(iii)(B) through (D) of this section must have written approval prior to implementation. Contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraph (c)(1)(iii)(A) of this section do not require written approval prior to implementation but are required to meet the criteria in paragraphs (c)(2)(ii)(A) through (F) of this section. To obtain written approval, a State must demonstrate, in writing, that the arrangement -
+
+(A) Is based on the utilization and delivery of services;
+
+(B) Directs expenditures equally, and using the same terms of performance, for a class of providers providing the service under the contract;
+
+(C) Expects to advance at least one of the goals and objectives in the quality strategy in § 438.340;
+
+(D) Has an evaluation plan that measures the degree to which the arrangement advances at least one of the goals and objectives in the quality strategy in § 438.340;
+
+(E) Does not condition provider participation in contract arrangements under paragraphs (c)(1)(i) through (iii) of this section on the provider entering into or adhering to intergovernmental transfer agreements; and
+
+(F) May not be renewed automatically.
+
+(iii) Any contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraph (c)(1)(i) or (ii) of this section must also demonstrate, in writing, that the arrangement -
+
+(A) Must make participation in the value-based purchasing initiative, delivery system reform or performance improvement initiative available, using the same terms of performance, to a class of providers providing services under the contract related to the reform or improvement initiative;
+
+(B) Must use a common set of performance measures across all of the payers and providers;
+
+(C) May not set the amount or frequency of the expenditures; and
+
+(D) Does not allow the State to recoup any unspent funds allocated for these arrangements from the MCO, PIHP, or PAHP.
+
+(3) *Approval timeframes.* (i) Approval of a payment arrangement under paragraphs (c)(1)(i) and (ii) of this section is for one rating period unless a multi-year approval is requested and meets all of the following criteria:
+
+(A) The State has explicitly identified and described the payment arrangement in the contract as a multi-year payment arrangement, including a description of the payment arrangement by year, if the payment arrangement varies by year.
+
+(B) The State has developed and described its plan for implementing a multi-year payment arrangement, including the State's plan for multi-year evaluation, and the impact of a multi-year payment arrangement on the State's goals and objectives in the State's quality strategy in § 438.340.
+
+(C) The State has affirmed that it will not make any changes to the payment methodology, or magnitude of the payment, described in the contract for all years of the multi-year payment arrangement without CMS prior approval. If the State determines that changes to the payment methodology, or magnitude of the payment, are necessary, the State must obtain prior approval of such changes under paragraph (c)(2) of this section.
+
+(ii) Approval of a payment arrangement under paragraph (c)(1)(iii) of this section is for one rating period.
 
 (2) *Process for approval.* (i) All contract arrangements that direct the MCO's, PIHP's or PAHP's expenditures under paragraphs (c)(1)(i) through (iii) of this section must be developed in accordance with § 438.4, the standards specified in § 438.5, generally accepted actuarial principles and practices, and have written approval prior to implementation. To obtain written approval, a state must demonstrate, in writing, that the arrangement -
 
@@ -124,4 +166,4 @@ Link to an amendment published at 85 FR 72838, Nov. 13, 2020.Link to an amendmen
 
 (e) *Payments to MCOs and PIHPs for enrollees that are a patient in an institution for mental disease.* The State may make a monthly capitation payment to an MCO or PIHP for an enrollee aged 21-64 receiving inpatient treatment in an Institution for Mental Diseases, as defined in § 435.1010 of this chapter, so long as the facility is a hospital providing psychiatric or substance use disorder inpatient care or a sub-acute facility providing psychiatric or substance use disorder crisis residential services, and length of stay in the IMD is for a short term stay of no more than 15 days during the period of the monthly capitation payment. The provision of inpatient psychiatric or substance use disorder treatment in an IMD must meet the requirements for in lieu of services at § 438.3(e)(2)(i) through (iii). For purposes of rate setting, the state may use the utilization of services provided to an enrollee under this section when developing the inpatient psychiatric or substance use disorder component of the capitation rate, but must price utilization at the cost of the same services through providers included under the State plan.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 5428, Jan. 18, 2017]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 5428, Jan. 18, 2017; 85 FR 72837, Nov. 13, 2020]

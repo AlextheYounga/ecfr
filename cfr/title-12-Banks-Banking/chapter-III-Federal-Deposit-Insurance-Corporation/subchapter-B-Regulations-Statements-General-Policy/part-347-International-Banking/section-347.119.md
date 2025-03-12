@@ -1,7 +1,5 @@
 ##### § 347.119 Specific consent. #####
 
-Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
-
 General consent and expedited processing under this subpart do not apply in the following circumstances:
 
 (a) *Limitation on access to supervisory information in foreign country.* (1) Applicable law or practice in the foreign country where the foreign organization or foreign branch would be located would limit the FDIC's access to information for supervisory purposes; and
@@ -10,8 +8,8 @@ General consent and expedited processing under this subpart do not apply in the 
 
 (ii) A bank would be establishing a foreign branch.
 
-(b) *World Heritage site.* A foreign branch of a bank would be located on a site on the World Heritage List or on the foreign country's equivalent of the National Register of Historic Places, in accordance with section 403 of the National Historic Preservation Act Amendments of 1980 (16 U.S.C. 470a-2).
+(b) *Modification or suspension of general consent or expedited processing.* The FDIC at any time notifies the bank that the FDIC is modifying or suspending its general consent or expedited processing procedure.
 
-(c) *Modification or suspension of general consent or expedited processing.* The FDIC at any time notifies the bank that the FDIC is modifying or suspending its general consent or expedited processing procedure.
+(c) *Specific consent.* Direct or indirect investments in or activities of foreign organizations by banks, the establishment of foreign branches or issues regarding the types or amounts of activity that can be engaged in by foreign branches, which are not authorized under §§ 347.117 or 347.118 require prior review and specific consent of the FDIC.
 
-(d) *Specific consent.* Direct or indirect investments in or activities of foreign organizations by banks, the establishment of foreign branches or issues regarding the types or amounts of activity that can be engaged in by foreign branches, which are not authorized under §§ 347.117 or 347.118 require prior review and specific consent of the FDIC.
+[70 FR 17560, Apr. 6, 2005, as amended at 85 FR 72555, Nov. 13, 2020]

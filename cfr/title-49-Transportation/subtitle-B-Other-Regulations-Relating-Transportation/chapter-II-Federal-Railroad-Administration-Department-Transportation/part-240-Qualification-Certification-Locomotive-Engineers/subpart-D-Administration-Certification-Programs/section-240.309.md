@@ -1,5 +1,7 @@
 ##### § 240.309 Railroad oversight responsibilities. #####
 
+Link to an amendment published at 85 FR 81317, Dec. 15, 2020.
+
 (a) No later than March 31 of each year, each Class I railroad (including the National Railroad Passenger Corporation and a railroad providing commuter service) and Class II railroad shall conduct a formal annual review and analysis concerning the administration of its program for responding to detected instances of poor safety conduct by certified locomotive engineers during the prior calendar year.
 
 (b) Each review and analysis shall involve:

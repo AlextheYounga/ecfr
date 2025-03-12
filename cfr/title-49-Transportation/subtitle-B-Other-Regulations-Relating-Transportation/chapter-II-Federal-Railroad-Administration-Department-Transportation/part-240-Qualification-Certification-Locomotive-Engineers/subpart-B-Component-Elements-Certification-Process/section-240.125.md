@@ -1,5 +1,7 @@
 ##### § 240.125 Criteria for testing knowledge. #####
 
+Link to an amendment published at 85 FR 81313, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) A railroad shall have procedures for testing a person being evaluated for qualification as a locomotive engineer in either train or locomotive service to determine that the person has sufficient knowledge of the railroad's rules and practices for the safe operation of trains.

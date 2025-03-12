@@ -1,5 +1,7 @@
 ##### § 240.217 Time limitations for making determinations. #####
 
+Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
+
 (a) A railroad shall not certify or recertify a person as a qualified locomotive engineer in any class of train or engine service, if the railroad is making:
 
 (1) A determination concerning eligibility and the eligibility data being relied on were furnished more than 366 days before the date of the railroad's certification decision;

@@ -1,5 +1,7 @@
 ##### § 240.303 Operational monitoring requirements. #####
 
+Link to an amendment published at 85 FR 81316, Dec. 15, 2020.
+
 (a) Each railroad to which this part applies shall, prior to FRA approval of its program in accordance with § 240.201, have a program to monitor the conduct of its certified locomotive engineers by performing both operational monitoring observations and by conducting unannounced operating rules compliance tests.
 
 (b) The program shall be conducted so that each locomotive engineer shall be given at least one operational monitoring observation by a qualified supervisor of locomotive engineers in each calendar year.

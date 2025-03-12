@@ -1,7 +1,5 @@
 ##### § 438.10 Information requirements. #####
 
-Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
-
 (a) *Definitions.* As used in this section, the following terms have the indicated meanings:
 
 *Limited English proficient (LEP)* means potential enrollees and enrollees who do not speak English as their primary language and who have a limited ability to read, write, speak, or understand English may be LEP and may be eligible to receive language assistance for a particular type of service, benefit, or encounter.
@@ -44,13 +42,13 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (1) Establish a methodology for identifying the prevalent non-English languages spoken by enrollees and potential enrollees throughout the State, and in each MCO, PIHP, PAHP, or PCCM entity service area.
 
-(2) Make oral interpretation available in all languages and written translation available in each prevalent non-English language. All written materials for potential enrollees must include taglines in the prevalent non-English languages in the State, as well as large print, explaining the availability of written translations or oral interpretation to understand the information provided and the toll-free telephone number of the entity providing choice counseling services as required by § 438.71(a). Large print means printed in a font size no smaller than 18 point.
+(2) Make oral interpretation available in all languages and written translation available in each prevalent non-English language. Written materials that are critical to obtaining services for potential enrollees must include taglines in the prevalent non-English languages in the State, explaining the availability of written translations or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and the toll-free telephone number of the entity providing choice counseling services as required by § 438.71(a). Taglines for written materials critical to obtaining services must be printed in a conspicuously-visible font size.
 
-(3) Require each MCO, PIHP, PAHP, and PCCM entity to make its written materials that are critical to obtaining services, including, at a minimum, provider directories, enrollee handbooks, appeal and grievance notices, and denial and termination notices, available in the prevalent non-English languages in its particular service area. Written materials must also be made available in alternative formats upon request of the potential enrollee or enrollee at no cost. Auxiliary aids and services must also be made available upon request of the potential enrollee or enrollee at no cost. Written materials must include taglines in the prevalent non-English languages in the state, as well as large print, explaining the availability of written translation or oral interpretation to understand the information provided and the toll-free and TTY/TDY telephone number of the MCO's, PIHP's, PAHP's or PCCM entity's member/customer service unit. Large print means printed in a font size no smaller than 18 point.
+(3) Require each MCO, PIHP, PAHP, and PCCM entity to make its written materials that are critical to obtaining services, including, at a minimum, provider directories, enrollee handbooks, appeal and grievance notices, and denial and termination notices, available in the prevalent non-English languages in its particular service area. Written materials that are critical to obtaining services must also be made available in alternative formats upon request of the potential enrollee or enrollee at no cost, include taglines in the prevalent non-English languages in the State and in a conspicuously visible font size explaining the availability of written translation or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and include the toll-free and TTY/TDY telephone number of the MCO's, PIHP's, PAHP's, or PCCM entity's member/customer service unit. Auxiliary aids and services must also be made available upon request of the potential enrollee or enrollee at no cost.
 
 (4) Make interpretation services available to each potential enrollee and require each MCO, PIHP, PAHP, and PCCM entity to make those services available free of charge to each enrollee. This includes oral interpretation and the use of auxiliary aids such as TTY/TDY and American Sign Language. Oral interpretation requirements apply to all non-English languages, not just those that the State identifies as prevalent.
 
-(5) Notify potential enrollees, and require each MCO, PIHP, PAHP, and PCCM entity to notify its enrollees -
+(5) Notify potential enrollees, and require each MCO, PIHP, PAHP, and PCCM entity to notify its enrollees—
 
 (i) That oral interpretation is available for any language and written translation is available in prevalent languages;
 
@@ -65,8 +63,6 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 (ii) Use a font size no smaller than 12 point.
 
 (iii) Be available in alternative formats and through the provision of auxiliary aids and services in an appropriate manner that takes into consideration the special needs of enrollees or potential enrollees with disabilities or limited English proficiency.
-
-(iv) Include a large print tagline and information on how to request auxiliary aids and services, including the provision of the materials in alternative formats. Large print means printed in a font size no smaller than 18 point.
 
 (e) *Information for potential enrollees.* (1) The State or its contracted representative must provide the information specified in paragraph (e)(2) of this section to each potential enrollee, either in paper or electronic form as follows:
 
@@ -102,13 +98,13 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (x) To the extent available, quality and performance indicators for each MCO, PIHP, PAHP and PCCM entity, including enrollee satisfaction.
 
-(f) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: General requirements.* (1) The MCO, PIHP, PAHP and, when appropriate, the PCCM entity, must make a good faith effort to give written notice of termination of a contracted provider, within 15 calendar days after receipt or issuance of the termination notice, to each enrollee who received his or her primary care from, or was seen on a regular basis by, the terminated provider.
+(f) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: General requirements.* (1) The MCO, PIHP, PAHP, and, when appropriate, the PCCM entity, must make a good faith effort to give written notice of termination of a contracted provider to each enrollee who received his or her primary care from, or was seen on a regular basis by, the terminated provider. Notice to the enrollee must be provided by the later of 30 calendar days prior to the effective date of the termination, or 15 calendar days after receipt or issuance of the termination notice.
 
 (2) The State must notify all enrollees of their right to disenroll consistent with the requirements of § 438.56 at least annually. Such notification must clearly explain the process for exercising this disenrollment right, as well as the alternatives available to the enrollee based on their specific circumstance. For States that choose to restrict disenrollment for periods of 90 days or more, States must send the notice no less than 60 calendar days before the start of each enrollment period.
 
 (3) The MCO, PIHP, PAHP and, when appropriate, the PCCM entity must make available, upon request, any physician incentive plans in place as set forth in § 438.3(i).
 
-(g) *Information for enrollees of MCOs, PIHPs, PAHPs and PCCM entities - Enrollee handbook.* (1) Each MCO, PIHP, PAHP and PCCM entity must provide each enrollee an enrollee handbook, within a reasonable time after receiving notice of the beneficiary's enrollment, which serves a similar function as the summary of benefits and coverage described in 45 CFR 147.200(a).
+(g) *Information for enrollees of MCOs, PIHPs, PAHPs and PCCM entities—Enrollee handbook.* (1) Each MCO, PIHP, PAHP and PCCM entity must provide each enrollee an enrollee handbook, within a reasonable time after receiving notice of the beneficiary's enrollment, which serves a similar function as the summary of benefits and coverage described in 45 CFR 147.200(a).
 
 (2) The content of the enrollee handbook must include information that enables the enrollee to understand how to effectively use the managed care program. This information must include at a minimum:
 
@@ -118,7 +114,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (A) In the case of a counseling or referral service that the MCO, PIHP, PAHP, or PCCM entity does not cover because of moral or religious objections, the MCO, PIHP, PAHP, or PCCM entity must inform enrollees that the service is not covered by the MCO, PIHP, PAHP, or PCCM entity.
 
-(B) The MCO, PIHP, PAHP, or PCCM entity must inform enrollees how they can obtain information from the State about how to access the services described in paragraph (g)(2)(i)(A) of this section.
+(B) The MCO, PIHP, PAHP, or PCCM entity must inform enrollees how they can obtain information from the State about how to access the services described in paragraph (g)(2)(ii)(A) of this section.
 
 (iii) The amount, duration, and scope of benefits available under the contract in sufficient detail to ensure that enrollees understand the benefits to which they are entitled.
 
@@ -176,7 +172,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (4) The MCO, PIHP, PAHP, or PCCM entity must give each enrollee notice of any change that the State defines as significant in the information specified in this paragraph (g), at least 30 days before the intended effective date of the change.
 
-(h) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities - Provider Directory.* (1) Each MCO, PIHP, PAHP, and when appropriate, the PCCM entity, must make available in paper form upon request and electronic form, the following information about its network providers:
+(h) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities—Provider Directory.* (1) Each MCO, PIHP, PAHP, and when appropriate, the PCCM entity, must make available in paper form upon request and electronic form, the following information about its network providers:
 
 (i) The provider's name as well as any group affiliation.
 
@@ -190,7 +186,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (vi) Whether the provider will accept new enrollees.
 
-(vii) The provider's cultural and linguistic capabilities, including languages (including American Sign Language) offered by the provider or a skilled medical interpreter at the provider's office, and whether the provider has completed cultural competence training.
+(vii) The provider's cultural and linguistic capabilities, including languages (including American Sign Language) offered by the provider or a skilled medical interpreter at the provider's office.
 
 (viii) Whether the provider's office/facility has accommodations for people with physical disabilities, including offices, exam room(s) and equipment.
 
@@ -206,7 +202,15 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (v) LTSS providers, as appropriate.
 
-(3) Information included in a paper provider directory must be updated at least monthly and electronic provider directories must be updated no later than 30 calendar days after the MCO, PIHP, PAHP or PCCM entity receives updated provider information.
+(3) Information included in—
+
+(i) A paper provider directory must be updated at least—
+
+(A) Monthly, if the MCO, PIHP, PAHP, or PCCM entity does not have a mobile-enabled, electronic directory; or
+
+(B) Quarterly, if the MCO, PIHP, PAHP, or PCCM entity has a mobile-enabled, electronic provider directory.
+
+(ii) An electronic provider directory must be updated no later than 30 calendar days after the MCO, PIHP, PAHP, or PCCM entity receives updated provider information.
 
 (4) Provider directories must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary.
 
@@ -220,4 +224,4 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (j) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.10 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020]

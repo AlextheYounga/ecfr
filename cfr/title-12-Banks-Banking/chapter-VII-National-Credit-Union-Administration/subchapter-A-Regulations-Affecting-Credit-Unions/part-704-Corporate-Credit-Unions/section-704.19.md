@@ -1,8 +1,6 @@
 ##### § 704.19 Disclosure of executive compensation. #####
 
-Link to an amendment published at 85 FR 71827, Nov. 12, 2020.
-
-(a) *Annual disclosure.* A corporate credit union must annually prepare and maintain a disclosure of the dollar amount of compensation paid to its most highly compensated employees, including compensation from any corporate CUSO in which the corporate credit union has invested or made a loan, in accordance with the following schedule:
+(a) *Annual disclosure.* A corporate credit union must annually prepare and maintain a disclosure of the dollar amount of compensation paid to its most highly compensated employees, including compensation from any CUSO in which the corporate credit union has invested or made a loan, in accordance with the following schedule:
 
 (1) For corporate credit unions with forty-one or more full time employees, disclosure is required of the compensation paid to the five most highly compensated employees;
 
@@ -22,4 +20,4 @@ Link to an amendment published at 85 FR 71827, Nov. 12, 2020.
 
 (2) In the case of any federally chartered corporate credit union, describe the compensation arrangement in the materials provided to the membership of the merging credit union before the member vote on approving the merger.
 
-[75 FR 64844, Oct. 20, 2010, as amended at 76 FR 23871, Apr. 29, 2011; 76 FR 79534, Dec. 22, 2011; 85 FR 62211, Oct. 2, 2020]
+[75 FR 64844, Oct. 20, 2010, as amended at 76 FR 23871, Apr. 29, 2011; 76 FR 79534, Dec. 22, 2011; 85 FR 62211, Oct. 2, 2020; 85 FR 71827, Nov. 12, 2020]

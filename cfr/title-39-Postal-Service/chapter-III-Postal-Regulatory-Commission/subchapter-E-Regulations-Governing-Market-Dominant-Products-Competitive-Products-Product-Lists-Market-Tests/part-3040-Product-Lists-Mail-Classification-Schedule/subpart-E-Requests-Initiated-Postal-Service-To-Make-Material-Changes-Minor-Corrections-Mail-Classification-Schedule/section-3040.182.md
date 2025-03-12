@@ -1,5 +1,7 @@
 ##### § 3040.182 Docket and notice of material changes to product descriptions. #####
 
+Link to an amendment published at 85 FR 81138, Dec. 15, 2020.
+
 (a) The Commission shall take the actions identified in paragraphs (b) through (e) of this section.
 
 (b) Establish a docket for each request to change a product description in the Mail Classification Schedule;

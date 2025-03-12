@@ -1,5 +1,7 @@
 ##### § 120.440 How does a 7(a) Lender obtain delegated authority? #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) In making its decision to grant or renew a delegated authority, SBA considers whether the Lender, as determined by SBA in its discretion:
 
 (1) Has the continuing ability to evaluate, process, close, disburse, service, liquidate and litigate SBA loans. This includes the ability to develop and analyze complete loan packages. SBA may consider the experience and capability of Lender's management and staff.

@@ -1,5 +1,7 @@
 ##### § 240.11 Penalties and consequences for noncompliance. #####
 
+Link to an amendment published at 85 FR 81308, Dec. 15, 2020.
+
 (a) A person who violates any requirement of this part or causes the violation of any such requirement is subject to a civil penalty of at least $892 and not more than $29,192 per violation, except that: Penalties may be assessed against individuals only for willful violations, and, where a grossly negligent violation or a pattern of repeated violations has created an imminent hazard of death or injury to persons, or has caused death or injury, a penalty not to exceed $116,766 per violation may be assessed. Each day a violation continues shall constitute a separate offense. See FRA's website at *www.fra.dot.gov* for a statement of agency civil penalty policy.
 
 (b) A person who violates any requirement of this part or causes the violation of any such requirement may be subject to disqualification from all safety-sensitive service in accordance with part 209 of this chapter.

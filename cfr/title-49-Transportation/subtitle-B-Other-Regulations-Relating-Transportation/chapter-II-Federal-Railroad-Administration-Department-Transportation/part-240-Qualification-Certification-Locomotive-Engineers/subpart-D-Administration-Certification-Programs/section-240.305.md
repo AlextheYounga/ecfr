@@ -1,5 +1,7 @@
 ##### § 240.305 Prohibited conduct. #####
 
+Link to an amendment published at 85 FR 81316, Dec. 15, 2020.
+
 (a) It shall be unlawful to:
 
 (1) Operate a locomotive or train past a signal indication, excluding a hand or a radio signal indication or a switch, that requires a complete stop before passing it; or

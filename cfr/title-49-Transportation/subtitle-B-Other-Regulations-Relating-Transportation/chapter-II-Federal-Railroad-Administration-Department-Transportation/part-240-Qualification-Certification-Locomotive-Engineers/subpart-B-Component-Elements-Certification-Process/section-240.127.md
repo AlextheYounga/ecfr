@@ -1,5 +1,7 @@
 ##### § 240.127 Criteria for examining skill performance. #####
 
+Link to an amendment published at 85 FR 81313, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) A railroad shall have procedures for examining the performance skills of a person being evaluated for qualification as a locomotive engineer in either train or locomotive service to determine whether the person has the skills to safely operate locomotives and/or trains, including the proper application of the railroad's rules and practices for the safe operation of locomotives or trains, in the most demanding class or type of service that the person will be permitted to perform.

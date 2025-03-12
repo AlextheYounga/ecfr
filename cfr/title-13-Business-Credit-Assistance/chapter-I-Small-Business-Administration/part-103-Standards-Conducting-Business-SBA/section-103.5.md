@@ -1,5 +1,7 @@
 ##### § 103.5 How does SBA regulate an Agent's fees and provision of service? #####
 
+Link to an amendment published at 85 FR 80587, Dec. 14, 2020.
+
 (a) Any Applicant, Agent, or Packager must execute and provide to SBA a compensation agreement, and any Lender Service Provider must execute and provide to SBA a Lender Service Provider agreement. Each agreement governs the compensation charged for services rendered or to be rendered to the Applicant or lender in any matter involving SBA assistance. SBA provides the form of compensation agreement and a suggested form of Lender Service Provider agreement to be used by Agents.
 
 (b) Total compensation charged by an Agent or Agents to an Applicant for services rendered in connection with obtaining an SBA-guaranteed loan must be reasonable. In cases where an Agent or Agents charge any fee to an Applicant in excess of those specified in this part, the Agent(s) must reduce the charge and refund to the Applicant any amount in excess of the fee permitted by SBA. SBA considers the following amounts to be reasonable for the total compensation that an Applicant can be charged by one or more Agents:

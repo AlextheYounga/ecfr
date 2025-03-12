@@ -1,5 +1,7 @@
 ##### § 120.445 Terms and conditions of SBA Express and Export Express loans. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 SBA Express and Export Express loans are subject to the same terms and conditions as other 7(a) loans except as set forth in this section:
 
 (a) *Maximum loan amount and maximum aggregate loan amount* - (1) *SBA Express.* The maximum loan amount for an SBA Express loan is set forth in section 7(a)(31) of the Small Business Act. The aggregate amount of all outstanding SBA Express loans to a single Borrower, including the Borrower's affiliates as defined in § 121.301(f) of this chapter, must not exceed the statutory maximum.

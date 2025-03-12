@@ -1,5 +1,7 @@
 ##### § 242.117 Vision and hearing acuity. #####
 
+Link to an amendment published at 85 FR 81324, Dec. 15, 2020.
+
 (a) Each railroad shall adopt and comply with a program which complies with the requirements of this section. When any person including, but not limited to, each railroad, railroad officer, supervisor, and employee violates any requirement of a program which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (b) After the pertinent date specified in § 242.105(d) or (e), each railroad, prior to initially certifying or recertifying any person as a conductor for any class of service, shall determine that the person meets the standards for visual acuity and hearing acuity prescribed in this section.

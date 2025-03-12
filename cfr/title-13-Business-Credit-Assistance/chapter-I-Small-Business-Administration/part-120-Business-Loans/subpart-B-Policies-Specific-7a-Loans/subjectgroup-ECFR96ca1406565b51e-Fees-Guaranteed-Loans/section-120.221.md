@@ -1,5 +1,7 @@
 ##### § 120.221 Fees and expenses that the Lender may collect from an Applicant or Borrower. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 Unless otherwise allowed by SBA Loan Program Requirements, the Lender may charge and collect from the applicant or Borrower only the following fees and expenses:
 
 (a) *Fees that can be collected from the Applicant for assistance in obtaining a loan.* The Lender may collect a fee from an Applicant (as defined in § 103.1 of this chapter) for assistance with obtaining an SBA-guaranteed loan. The fee may not exceed $3,000 for a loan up to and including $350,000 and may not exceed $5,000 for a loan over $350,000. The Lender must advise the Applicant in writing that the Applicant is not required to obtain or pay for unwanted services. In cases where the Lender charges any fees to the Applicant in excess of those specified in this part, the Lender must reduce the charge and refund to the Applicant any amount in excess of the permitted fee. If the Lender charges the Applicant a fee for assistance with obtaining an SBA-guaranteed loan, the fee must be disclosed to SBA in accordance with § 103.5 of this chapter and documented in accordance with Loan Program Requirements.

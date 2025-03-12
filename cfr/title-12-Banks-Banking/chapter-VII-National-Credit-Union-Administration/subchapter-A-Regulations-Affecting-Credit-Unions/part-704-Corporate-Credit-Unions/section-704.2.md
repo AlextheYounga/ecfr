@@ -1,7 +1,5 @@
 ##### § 704.2 Definitions. #####
 
-Link to an amendment published at 85 FR 71825, Nov. 12, 2020.
-
 *As used in this part:*
 
 *Adjusted trading* means any method or transaction whereby a corporate credit union sells a security to a vendor at a price above its current market price and simultaneously purchases or commits to purchase from the vendor another security at a price above its current market price.
@@ -14,7 +12,13 @@ Link to an amendment published at 85 FR 71825, Nov. 12, 2020.
 
 *CLF-related bridge loan* means interim financing, extending up to ten business days, that a corporate credit union provides for a natural person credit union from the time the CLF approves a loan to the natural person credit union until the CLF funds the loan. To repay a CLF-related bridge loan, the borrowing natural person credit union assigns the proceeds of the CLF advance to the corporate credit union making the CLF-related bridge loan for the duration of the bridge loan.
 
-*Collateralized debt obligation* (CDO) means a debt security collateralized by mortgage-backed securities, asset-backed securities, or corporate obligations in the form of loans or debt. Senior tranches of Re-REMIC's consisting of senior mortgage- and asset-backed securities are excluded from this definition.
+*Collateralized Debt Obligation or Collateralized Loan Obligation* means a debt security collateralized by mortgage-backed securities, other asset-backed securities, or corporate obligations in the form of nonmortgage loans or debt. For purposes of this part, the term collateralized debt obligation or collateralized loan obligation does not include:
+
+(1) Senior tranches of Re-REMIC's consisting of senior mortgage-and asset-backed securities;
+
+(2) Any security that is fully guaranteed as to principal and interest by the U.S. Government or its agencies or its sponsored enterprises; or
+
+(3) Any security collateralized by other securities where all the underlying securities are fully guaranteed as to principal and interest by the U.S. Government or its agencies or its sponsored enterprises.
 
 *Collateralized mortgage obligation* (CMO) means a multi-class mortgage-backed security.
 
@@ -22,7 +26,7 @@ Link to an amendment published at 85 FR 71825, Nov. 12, 2020.
 
 *Compensation* means all salaries, fees, wages, bonuses, severance payments, current year contributions to employee benefit plans (for example, medical, dental, life insurance, and disability), current year contributions to deferred compensation plans and future severance payments, including payments in connection with a merger or similar combination (whether or not funded; whether or not vested; and whether or not the deferred compensation plan is a qualified plan under Section 401(a) of the IRS Code). Compensation also includes expense accounts and other allowances (for example, the value of the personal use of housing, automobiles or other assets owned by the corporate credit union; expense allowances or reimbursements that recipients must report as income on their separate income tax return; payments made under indemnification arrangements; and payments made for the benefit of friends or relatives). In calculating required compensation disclosures, reasonable estimates may be used if precise cost figures are not readily available.
 
-*Consolidated Credit Union Service Organization* (Consolidated CUSO) means any corporation, partnership, business trust, joint venture, association or similar organization in which a corporate credit union directly or indirectly holds an ownership interest (as permitted by § 704.11 of this part) and the assets of which are consolidated with those of the corporate credit union for purposes of reporting under Generally Accepted Accounting Principles (GAAP). Generally, consolidated CUSOs are majority-owned CUSOs.
+*Consolidated Credit Union Service Organization* (Consolidated CUSO) means any CUSO the assets of which are consolidated with those of the corporate credit union for purposes of reporting under Generally Accepted Accounting Principles (GAAP). Generally, consolidated CUSOs are majority-owned CUSOs.
 
 *Contributed capital* means either perpetual or nonperpetual capital.
 
@@ -39,6 +43,18 @@ Link to an amendment published at 85 FR 71825, Nov. 12, 2020.
 (5) Limits natural person members to the minimum required by state or federal law to charter and operate the credit union; and
 
 (6) Does not condition the eligibility of any credit union to become a member on that credit union's membership in any other organization.
+
+*Corporate CUSO* means a CUSO, as defined in part 712 of this chapter, that:
+
+(1) Is a consolidated CUSO;
+
+(2) A corporate credit union has the power, directly or indirectly, to direct the CUSO's management or policies;
+
+(3) A corporate credit union owns 25 percent or more of the CUSO's contributed equity, stock, or membership interests; or
+
+(4) The aggregate corporate credit union ownership meets or exceeds 50 percent of the CUSO's contributed equity, stock, or membership interests.
+
+*Credit union service organization (CUSO)* means both a CUSO under part 712 of this chapter and a corporate CUSO under this part.
 
 *Critical accounting policies* means those policies that are most important to the portrayal of a corporate credit union's financial condition and results and that require management's most difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain.
 
@@ -206,4 +222,4 @@ Link to an amendment published at 85 FR 71825, Nov. 12, 2020.
 
 *When-issued trading* means the buying and selling of securities in the period between the announcement of an offering and the issuance and payment date of the securities.
 
-[75 FR 64829, Oct. 20, 2010, as amended at 76 FR 23867, Apr. 29, 2011; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 78 FR 32544, May 31, 2013; 80 FR 25936, May 6, 2015; 80 FR 57284, Sept. 23, 2015; 82 FR 55499, Nov. 22, 2017]
+[75 FR 64829, Oct. 20, 2010, as amended at 76 FR 23867, Apr. 29, 2011; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 78 FR 32544, May 31, 2013; 80 FR 25936, May 6, 2015; 80 FR 57284, Sept. 23, 2015; 82 FR 55499, Nov. 22, 2017; 85 FR 71825, Nov. 12, 2020]

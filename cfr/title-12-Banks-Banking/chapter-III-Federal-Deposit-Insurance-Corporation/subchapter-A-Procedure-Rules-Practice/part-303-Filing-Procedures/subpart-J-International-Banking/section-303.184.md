@@ -1,7 +1,5 @@
 ##### § 303.184 Moving an insured branch of a foreign bank. #####
 
-Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
-
 (a) *Filing procedures* - (1) *Where and when to file.* An application by an insured branch of a foreign bank seeking the FDIC's consent to move from one location to another, as required by section 18(d)(1) of the FDI Act (12 U.S.C. 1828(d)(1)), shall be submitted in writing to the appropriate FDIC office on the date the notice required by paragraph (c) of this section is published, or within 5 days after the date of the last required publication.
 
 (2) *Content of filing.* A complete letter application shall include the following information:
@@ -44,7 +42,7 @@ Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
 
 (iii) Any financial arrangements which have been made in connection with the proposed relocation and which involve the applicant's directors, officers, major shareholders, or their interests are fair and reasonable in comparison to similar arrangements that could have been made with independent third parties;
 
-(iv) Compliance with the CRA, the NEPA, the NHPA and any applicable related regulations, including 12 CFR part 345, has been considered and favorably resolved;
+(iv) Compliance with the CRA and any applicable related regulations, including 12 CFR part 345, has been considered and favorably resolved;
 
 (v) No CRA protest as defined in § 303.2(l) has been filed which remains unresolved or, where such a protest has been filed and remains unresolved, the Director or designee concurs that approval is consistent with the purposes of the CRA and the applicant agrees in writing to any conditions imposed regarding the CRA; and
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
 
 (ii) Obtain any required regulatory approvals from the appropriate state licensing authority of the state to which the insured branch proposes to relocate before relocating the existing branch operations and surrendering its existing license to the appropriate state licensing authority of the state from which the branch is relocating.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 70 FR 17559, Apr. 6, 2005; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018]
+[67 FR 79247, Dec. 27, 2002, as amended at 70 FR 17559, Apr. 6, 2005; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018; 85 FR 72555, Nov. 13, 2020]Editorial Note:At 85 FR 72555, Nov. 13, 2020, § 303.184 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

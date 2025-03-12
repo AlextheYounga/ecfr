@@ -1,5 +1,7 @@
 ##### § 240.1 Purpose and scope. #####
 
+Link to an amendment published at 85 FR 81307, Dec. 15, 2020.
+
 (a) The purpose of this part is to ensure that only qualified persons operate a locomotive or train.
 
 (b) This part prescribes minimum Federal safety standards for the eligibility, training, testing, certification and monitoring of all locomotive engineers to whom it applies. This part does not restrict a railroad from adopting and enforcing additional or more stringent requirements not inconsistent with this part.

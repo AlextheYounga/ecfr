@@ -1,5 +1,7 @@
 ##### § 120.444 Eligible uses of SBA Express and Export Express loan proceeds. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) *SBA Express.* (1) SBA Express loan proceeds must be used exclusively for eligible business-related purposes, as described in §§ 120.120 and 120.130.
 
 (2) Revolving lines of credit are eligible for SBA Express, provided they comply with official SBA policy and procedures.

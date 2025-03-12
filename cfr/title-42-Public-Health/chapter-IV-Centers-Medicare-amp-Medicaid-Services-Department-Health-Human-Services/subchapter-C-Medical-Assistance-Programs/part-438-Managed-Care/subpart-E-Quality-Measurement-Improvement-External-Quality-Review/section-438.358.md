@@ -1,7 +1,5 @@
 ##### § 438.358 Activities related to external quality review. #####
 
-Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
-
 (a) *General rule.* (1) The State, its agent that is not an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)), or an EQRO may perform the mandatory and optional EQR-related activities in this section.
 
 (2) The data obtained from the mandatory and optional EQR-related activities in this section must be used for the annual EQR in § 438.350 and must include, at a minimum, the elements in § 438.364(a)(2)(i) through (iv).
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
 
 (ii) Validation of MCO, PIHP, or PAHP performance measures required in accordance with § 438.330(b)(2) or MCO, PIHP, or PAHP performance measures calculated by the State during the preceding 12 months.
 
-(iii) A review, conducted within the previous 3-year period, to determine the MCO's, PIHP's, or PAHP's compliance with the standards set forth in subpart D of this part and the quality assessment and performance improvement requirements described in § 438.330.
+(iii) A review, conducted within the previous 3-year period, to determine the MCO's, PIHP's, or PAHP's compliance with the standards set forth in subpart D of this part, the disenrollment requirements and limitations described in § 438.56, the enrollee rights requirements described in § 438.100, the emergency and post-stabilization services requirements described in § 438.114, and the quality assessment and performance improvement requirements described in § 438.330.
 
 (iv) Validation of MCO, PIHP, or PAHP network adequacy during the preceding 12 months to comply with requirements set forth in § 438.68 and, if the State enrolls Indians in the MCO, PIHP, or PAHP, § 438.14(b)(1).
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
 
 (d) *Technical assistance.* The EQRO may, at the State's direction, provide technical guidance to groups of MCOs, PIHPs, PAHPs, or PCCM entities (described in § 438.310(c)(2)) to assist them in conducting activities related to the mandatory and optional activities described in this section that provide information for the EQR and the resulting EQR technical report.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 12510, Mar. 6, 2017]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 12510, Mar. 6, 2017; 85 FR 72841, Nov. 13, 2020]

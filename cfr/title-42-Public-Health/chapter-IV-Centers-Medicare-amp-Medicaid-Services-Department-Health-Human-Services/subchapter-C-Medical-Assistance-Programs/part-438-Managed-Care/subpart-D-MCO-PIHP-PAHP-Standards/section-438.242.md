@@ -1,7 +1,5 @@
 ##### § 438.242 Health information systems. #####
 
-Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
-
 (a) *General rule.* The State must ensure, through its contracts that each MCO, PIHP, and PAHP maintains a health information system that collects, analyzes, integrates, and reports data and can achieve the objectives of this part. The systems must provide information on areas including, but not limited to, utilization, claims, grievances and appeals, and disenrollments for other than loss of Medicaid eligibility.
 
 (b) *Basic elements of a health information system.* The State must require, at a minimum, that each MCO, PIHP, and PAHP comply with the following:
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
 
 (2) Collect data on enrollee and provider characteristics as specified by the State, and on all services furnished to enrollees through an encounter data system or other methods as may be specified by the State.
 
-(3) Ensure that data received from providers is accurate and complete by -
+(3) Ensure that data received from providers is accurate and complete by—
 
 (i) Verifying the accuracy and timeliness of reported data, including data from network providers the MCO, PIHP, or PAHP is compensating on the basis of capitation payments.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
 
 (4) Make all collected data available to the State and upon request to CMS.
 
-(5) Implement an Application Programming Interface (API) as specified in § 431.60 of this chapter as if such requirements applied directly to the MCO, PIHP, or PAHP and include -
+(5) Implement an Application Programming Interface (API) as specified in § 431.60 of this chapter as if such requirements applied directly to the MCO, PIHP, or PAHP and include—
 
 (i) All encounter data, including encounter data from any network providers the MCO, PIHP, or PAHP is compensating on the basis of capitation payments and adjudicated claims and encounter data from any subcontractors.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
 
 (2) Submission of enrollee encounter data to the State at a frequency and level of detail to be specified by CMS and the State, based on program administration, oversight, and program integrity needs.
 
-(3) Submission of all enrollee encounter data that the State is required to report to CMS under § 438.818.
+(3) Submission of all enrollee encounter data, including allowed amount and paid amount, that the State is required to report to CMS under § 438.818.
 
 (4) Specifications for submitting encounter data to the State in standardized ASC X12N 837 and NCPDP formats, and the ASC X12N 835 format as appropriate.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
 
 (e) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, PAHPs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.242 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 25635, May 1, 2020]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 25635, May 1, 2020; 85 FR 72841, Nov. 13, 2020]

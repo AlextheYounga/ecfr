@@ -1,5 +1,7 @@
 ##### § 234.11 State highway-rail grade crossing action plans. #####
 
+Link to an amendment published at 85 FR 80659, Dec. 14, 2020.
+
 (a) *Purpose.* The purpose of this section is to reduce collisions at highway-rail grade crossings in the ten States that have had the most highway-rail grade crossing collisions, on average, during the calendar years 2006, 2007, and 2008. This section does not restrict any other State, or other entity, from adopting a highway-rail grade crossing action plan. This section also does not restrict any of the States required to develop action plans under this section from adopting a highway-rail grade crossing action plan with additional or more stringent requirements not inconsistent with this section.
 
 (b) *Application.* This section applies to the ten States that have had the most highway-rail grade crossing collisions, on average, during the calendar years 2006, 2007, and 2008.

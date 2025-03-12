@@ -1,6 +1,6 @@
 ##### § 2.6 Trademark fees. #####
 
-Link to an amendment published at 85 FR 73215, Nov. 17, 2020.
+Link to an amendment published at 85 FR 73215, Nov. 17, 2020.Link to a partial extension of the above amendment published at 85 FR 81123, Dec. 15, 2020.
 
 (a) Trademark process fees.
 

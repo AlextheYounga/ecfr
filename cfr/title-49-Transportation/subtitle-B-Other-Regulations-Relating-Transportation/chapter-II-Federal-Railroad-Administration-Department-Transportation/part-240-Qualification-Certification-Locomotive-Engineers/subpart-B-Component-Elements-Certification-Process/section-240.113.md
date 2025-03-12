@@ -1,5 +1,7 @@
 ##### § 240.113 Individual's duty to furnish data on prior safety conduct as an employee of a different railroad. #####
 
+Link to an amendment published at 85 FR 81310, Dec. 15, 2020.
+
 (a) Except for persons covered by § 240.109(h), each person seeking certification under this part shall, within 366 days preceding the date of the railroad's decision on certification or recertification:
 
 (1) Take the actions required by paragraph (b) of this section to make information concerning his or her prior railroad service record available to the railroad that is considering such certification or recertification; and

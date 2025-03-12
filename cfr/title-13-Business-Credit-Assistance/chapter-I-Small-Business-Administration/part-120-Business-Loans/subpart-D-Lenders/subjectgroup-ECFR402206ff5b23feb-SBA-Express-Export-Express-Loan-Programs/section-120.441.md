@@ -1,5 +1,7 @@
 ##### § 120.441 SBA Express and Export Express Loan Programs. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) *SBA Express.* Under the SBA Express Loan Program (SBA Express), designated Lenders (SBA Express Lenders) process, close, service, and liquidate SBA-guaranteed 7(a) loans using their own loan analyses, procedures, and documentation to the maximum extent practicable, with reduced requirements for submitting documentation to, and prior approval by, SBA. These loan analyses, procedures, and documentation must meet prudent lending standards; be consistent with those an SBA Express Lender uses for its similarly-sized, non-SBA guaranteed commercial loans; and conform to all requirements imposed upon Lenders generally and SBA Express Lenders in particular by Loan Program Requirements, as such requirements are issued and revised by SBA from time to time, unless specifically identified by SBA as inapplicable to SBA Express loans. In return for the expanded authority and autonomy provided by the program, SBA Express Lenders agree to accept a maximum SBA guaranty of 50 percent of the SBA Express loan amount.
 
 (b) *Export Express.* The Export Express Loan Program (Export Express) is designed to help current and prospective small exporters. It is subject to the same loan processing, making, closing, servicing, and liquidation requirements, as well as the same interest rates and applicable fees, as SBA Express, except as otherwise provided in Loan Program Requirements.

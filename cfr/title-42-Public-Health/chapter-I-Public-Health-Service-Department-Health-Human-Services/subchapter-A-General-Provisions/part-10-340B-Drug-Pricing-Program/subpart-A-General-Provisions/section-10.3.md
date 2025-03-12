@@ -1,5 +1,7 @@
 ##### § 10.3 Definitions. #####
 
+Link to an amendment published at 85 FR 80644, Dec. 14, 2020.
+
 For the purposes of this part, the following definitions apply:
 
 *Average Manufacturer Price (AMP)* has the meaning set forth in section 1927(k)(1) of the Social Security Act, as implemented in 42 CFR 447.504.

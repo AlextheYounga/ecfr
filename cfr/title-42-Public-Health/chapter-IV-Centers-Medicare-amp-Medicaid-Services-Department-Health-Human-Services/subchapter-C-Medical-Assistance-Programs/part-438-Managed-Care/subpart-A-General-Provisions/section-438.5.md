@@ -1,7 +1,5 @@
 ##### § 438.5 Rate development standards. #####
 
-Link to an amendment published at 85 FR 72838, Nov. 13, 2020.
-
 (a) *Definitions.* As used in this section and § 438.7(b), the following terms have the indicated meanings:
 
 *Budget neutral* means a standard for any risk sharing mechanism that recognizes both higher and lower expected costs among contracted MCOs, PIHPs, or PAHPs under a managed care program and does not create a net aggregate gain or loss across all payments under that managed care program.
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 72838, Nov. 13, 2020.
 
 (3) *Exception.* (i) States that are unable to base their rates on data meeting the qualifications in paragraph (c)(2) of this section that the basis of the data be no older than from the 3 most recent and complete years prior to the rating period may request approval for an exception; the request must describe why an exception is necessary and describe the actions the state intends to take to come into compliance with those requirements.
 
-(ii) States that request an exception from the base data standards established in this section must set forth a corrective action plan to come into compliance with the base data standards no later than 2 years from the rating period for which the deficiency was identified.
+(ii) States that request an exception from the base data standards established in this section must set forth a corrective action plan to come into compliance with the base data standards no later than 2 years after the last day of the rating period for which the deficiency was identified.
 
 (d) *Trend.* Each trend must be reasonable and developed in accordance with generally accepted actuarial principles and practices. Trend must be developed primarily from actual experience of the Medicaid population or from a similar population.
 
@@ -41,3 +39,5 @@ Link to an amendment published at 85 FR 72838, Nov. 13, 2020.
 (f) *Adjustments.* Each adjustment must reasonably support the development of an accurate base data set for purposes of rate setting, address appropriate programmatic changes, reflect the health status of the enrolled population, or reflect non-benefit costs, and be developed in accordance with generally accepted actuarial principles and practices.
 
 (g) *Risk adjustment.* Prospective or retrospective risk adjustment methodologies must be developed in a budget neutral manner consistent with generally accepted actuarial principles and practices.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72837, Nov. 13, 2020]

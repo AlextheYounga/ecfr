@@ -1,5 +1,7 @@
 ##### § 240.209 Procedures for making the determination on knowledge. #####
 
+Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
+
 (a) Each railroad, prior to initially certifying or recertifying any person as an engineer for any class of train or locomotive service, shall determine that the person has, in accordance with the requirements of § 240.125 of this part, demonstrated sufficient knowledge of the railroad's rules and practices for the safe operation of trains.
 
 (b) In order to make the determination required by paragraph (a) a railroad shall have written documentation showing that the person either

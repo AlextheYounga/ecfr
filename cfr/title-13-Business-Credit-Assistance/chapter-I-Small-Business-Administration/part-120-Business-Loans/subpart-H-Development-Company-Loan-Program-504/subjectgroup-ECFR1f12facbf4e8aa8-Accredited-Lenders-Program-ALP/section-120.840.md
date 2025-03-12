@@ -1,5 +1,7 @@
 ##### § 120.840 Accredited Lenders Program (ALP). #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) *General.* Under the ALP program, SBA designates qualified CDCs as ALP CDCs, gives them increased authority to process, close, and service 504 loans, and provides expedited processing of loan approval and servicing actions.
 
 (b) *Application.* A CDC must apply for ALP status by submitting an application in accordance with SBA's Standard Operating Procedure 50 10, available at *http://www.sba.gov.* A final decision will be made by the appropriate SBA official in accordance with Delegations of Authority.

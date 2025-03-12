@@ -1,5 +1,7 @@
 ##### § 120.443 SBA Express and Export Express loan processing requirements. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) SBA Express and Export Express loans are subject to all of the requirements set forth in subparts A and B of this part, unless such requirements are specifically identified by SBA as inapplicable.
 
 (b) In addition to the eligibility criteria applicable to all 7(a) loans, an Export Express Applicant must have been in business for at least 12 full months at the time of application, but not necessarily in the exporting business, unless the Lender determines that the Applicant's key personnel have clearly demonstrated export expertise and substantial previous successful business experience and the Lender processes the Export Express loan using conventional commercial loan underwriting procedures and does not rely solely on credit scoring or credit matrices to approve the loan.

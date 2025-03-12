@@ -1,5 +1,7 @@
 ##### § 120.446 SBA Express and Export Express loan closing, servicing, liquidation, and litigation requirements. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) *Closing.* Except as set forth in this paragraph (a), SBA Express and Export Express Lenders must close their SBA Express and Export Express loans using the same documentation and procedures that they use for their similarly-sized, non-SBA guaranteed commercial loans. Such documentation and procedures must comply with law, prudent lending practices, and Loan Program Requirements. When closing an SBA Express or Export Express loan, the Lender must require the Borrower to execute a promissory note that is legally enforceable and assignable. Before the first disbursement of any SBA Express or Export Express loan proceeds, the Lender must obtain all required collateral, including obtaining valid and enforceable security interests in such collateral, and also must meet all other required pre-closing loan conditions as set forth in official SBA policy and procedures.
 
 (b) *Servicing, liquidation, and litigation.* Servicing, liquidation, and litigation responsibilities for SBA Express and Export Express Lenders are set forth in subpart E of this part.

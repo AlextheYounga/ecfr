@@ -1,5 +1,7 @@
 ##### § 240.221 Identification of qualified persons. #####
 
+Link to an amendment published at 85 FR 81315, Dec. 15, 2020.
+
 (a) A railroad shall maintain a written record identifying each person designated by it as a supervisor of locomotive engineers.
 
 (b) A railroad shall maintain a written record identifying each person designated as a certified locomotive engineer. That listing of certified engineers shall indicate the class of service the railroad determines each person is qualified to perform and date of the railroad's certification decision.

@@ -1,5 +1,7 @@
 ##### § 240.207 Procedures for making the determination on vision and hearing acuity. #####
 
+Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
+
 (a) Each railroad, prior to initially certifying or recertifying any person as an engineer for any class of service, shall determine that the person meets the standards for visual acuity and hearing acuity prescribed in § 240.121.
 
 (b) In order to make the determination required under paragraph (a), a railroad shall have on file either:

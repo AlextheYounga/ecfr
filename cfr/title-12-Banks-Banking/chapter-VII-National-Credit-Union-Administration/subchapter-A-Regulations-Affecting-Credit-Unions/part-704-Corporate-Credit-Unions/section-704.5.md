@@ -1,7 +1,5 @@
 ##### § 704.5 Investments. #####
 
-Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
-
 (a) *Policies.* A corporate credit union must operate according to an investment policy that is consistent with its other risk management policies, including, but not limited to, those related to credit risk management, asset and liability management, and liquidity management. The policy must address, at a minimum:
 
 (1) Appropriate tests and criteria for evaluating investments and investment transactions before purchase; and
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
 
 (2) Deposits in, the sale of federal funds to, and debt obligations of corporate credit unions, Section 107(8) institutions, and state banks, trust companies, and mutual savings banks not domiciled in the state in which the corporate credit union does business;
 
-(3) Corporate CUSOs, as defined in and subject to the limitations of § 704.11;
+(3) CUSOs, subject to the limitations of § 704.11;
 
 (4) Marketable debt obligations of corporations chartered in the United States. This authority does not apply to debt obligations that are convertible into the stock of the corporation; and
 
@@ -58,7 +56,7 @@ Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
 
 (5) Purchasing net interest margin securities;
 
-(6) Purchasing collateralized debt obligations;
+(6) Purchasing collateralized debt obligations or collateralized loan obligations;
 
 (7) Purchasing private label residential mortgage-backed securities;
 
@@ -82,4 +80,4 @@ Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
 
 (j) *Grandfathering.* A corporate credit union's authority to hold an investment is governed by the regulation in effect at the time of purchase. However, all grandfathered investments are subject to the other requirements of this part.
 
-[75 FR 64839, Oct. 20, 2010, as amended at 80 FR 25937, May 6, 2015; 85 FR 62211, Oct. 2, 2020]
+[75 FR 64839, Oct. 20, 2010, as amended at 80 FR 25937, May 6, 2015; 85 FR 62211, Oct. 2, 2020; 85 FR 71826, Nov. 12, 2020]

@@ -1,5 +1,7 @@
 ##### § 240.307 Revocation of certification. #####
 
+Link to an amendment published at 85 FR 81316, Dec. 15, 2020.
+
 (a) Except as provided for in § 240.119(e), a railroad that certifies or recertifies a person as a qualified locomotive engineer and, during the period that certification is valid, acquires information regarding violations of § 240.117(e) or § 240.119(c) of this chapter, which convinces the railroad that the person no longer meets the qualification requirements of this part, shall revoke the person's certificate as a qualified locomotive engineer.
 
 (b) Pending a revocation determination under this section, the railroad shall:

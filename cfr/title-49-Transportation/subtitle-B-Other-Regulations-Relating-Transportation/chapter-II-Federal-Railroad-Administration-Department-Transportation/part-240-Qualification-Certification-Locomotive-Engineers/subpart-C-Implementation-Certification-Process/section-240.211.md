@@ -1,5 +1,7 @@
 ##### § 240.211 Procedures for making the determination on performance skills. #####
 
+Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
+
 (a) Each railroad, prior to initially certifying or recertifying any person as an engineer for any class of train or locomotive service, shall determine that the person has demonstrated, in accordance with the requirements of § 240.127 of this part, the skills to safely operate locomotives or locomotives and trains, including the proper application of the railroad's rules and practices for the safe operation of locomotives or trains, in the most demanding class or type of service that the person will be permitted to perform.
 
 (b) In order to make this determination, a railroad shall have written documentation showing the person either

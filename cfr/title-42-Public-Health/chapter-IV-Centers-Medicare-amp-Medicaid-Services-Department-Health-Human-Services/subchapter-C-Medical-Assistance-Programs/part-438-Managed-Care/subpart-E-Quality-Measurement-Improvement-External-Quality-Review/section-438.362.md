@@ -1,7 +1,5 @@
 ##### § 438.362 Exemption from external quality review. #####
 
-Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
-
 (a) *Basis for exemption.* The State may exempt an MCO from EQR if the following conditions are met:
 
 (1) The MCO has a current Medicare contract under part C of Title XVIII or under section 1876 of the Act, and a current Medicaid contract under section 1903(m) of the Act.
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
 
 (b) *Information on exempted MCOs.* When the State exercises this option, the State must obtain either of the following:
 
-(1) *Information on Medicare review findings.* Each year, the State must obtain from each MCO that it exempts from EQR the most recent Medicare review findings reported on the MCO including -
+(1) *Information on Medicare review findings.* Each year, the State must obtain from each MCO that it exempts from EQR the most recent Medicare review findings reported on the MCO including—
 
 (i) All data, correspondence, information, and findings pertaining to the MCO's compliance with Medicare standards for access, quality assessment and performance improvement, health services, or delegation of these activities.
 
@@ -27,3 +25,7 @@ Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
 (B) To deem compliance with Medicare requirements, as provided in § 422.156 of this chapter.
 
 (ii) These findings must include, but need not be limited to, accreditation review results of evaluation of compliance with individual accreditation standards, noted deficiencies, corrective action plans, and summaries of unmet accreditation requirements.
+
+(c) *Identification of exempted MCOs.* The State must annually identify, on the website required under § 438.10(c)(3) and in the same location where the EQR technical reports are posted in accordance with § 438.364(c)(2)(i), the names of the MCOs exempt from external quality review by the State, including the beginning date of the current exemption period, or that no MCOs are exempt, as appropriate.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72842, Nov. 13, 2020]

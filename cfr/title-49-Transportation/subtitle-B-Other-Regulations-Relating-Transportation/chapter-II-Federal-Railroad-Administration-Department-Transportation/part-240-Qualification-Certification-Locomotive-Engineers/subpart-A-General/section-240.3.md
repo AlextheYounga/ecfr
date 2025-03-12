@@ -1,5 +1,7 @@
 ##### § 240.3 Application and responsibility for compliance. #####
 
+Link to an amendment published at 85 FR 81307, Dec. 15, 2020.
+
 (a) Except as provided in paragraph (b) of this section, this part applies to all railroads.
 
 (b) This part does not apply to -

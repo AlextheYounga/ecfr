@@ -1,5 +1,7 @@
 ##### § 234.301 Definitions. #####
 
+Link to an amendment published at 85 FR 80660, Dec. 14, 2020.
+
 As used in this subpart -
 
 *Answering machine* means either a device or a voicemail system that allows a telephone caller to leave a recorded message to report an unsafe condition at a highway-rail or pathway grade crossing, as described in § 234.303(c) and (d), and the railroad is able to retrieve the recorded message either remotely or on-site.

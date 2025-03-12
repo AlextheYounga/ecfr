@@ -1,5 +1,7 @@
 ##### § 240.115 Criteria for consideration of prior safety conduct as a motor vehicle operator. #####
 
+Link to an amendment published at 85 FR 81310, Dec. 15, 2020.
+
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) When evaluating a person's motor vehicle driving record, a railroad shall not consider information concerning motor vehicle driving incidents that occurred more than 36 months before the month in which the railroad is making its certification decision and shall only consider information concerning the following types of motor vehicle incidents:

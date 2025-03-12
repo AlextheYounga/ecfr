@@ -1,5 +1,7 @@
 ##### § 120.10 Definitions. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 The following terms have the same meaning wherever they are used in this part. Defined terms are capitalized wherever they appear.
 
 *Acceptable Risk Rating* is an SBA-assigned Risk Rating, currently defined by SBA as “1”, “2” or “3” on a scale of 1 to 5, which represents an acceptable level of risk as determined by SBA, and which may be revised by SBA from time to time as published in the Federal Register through notice and comment.

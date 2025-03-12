@@ -1,5 +1,7 @@
 ##### § 219.1003 Referral program conditions. #####
 
+Link to an amendment published at 85 FR 81307, Dec. 15, 2020.
+
 (a) *General.* A referral program must specify the allowances, conditions, and procedures under which a self-referral, co-worker referral, and, if adopted, a non-peer referral, can occur, as follows:
 
 (1) For a self-referral, a railroad must identify one or more designated DAC contacts (including telephone number and email (if available)) and any expectations regarding when the referral is allowed to take place (such as during non-duty hours, or while the employee is unimpaired, or both, as § 219.1005 permits);

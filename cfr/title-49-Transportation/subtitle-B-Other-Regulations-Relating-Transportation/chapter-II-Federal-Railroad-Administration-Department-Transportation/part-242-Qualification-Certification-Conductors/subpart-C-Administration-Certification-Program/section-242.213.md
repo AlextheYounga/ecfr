@@ -1,5 +1,7 @@
 ##### § 242.213 Multiple certifications. #####
 
+Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
+
 (a) A person may hold certification for multiple types of conductor service.
 
 (b) A person may hold both conductor and locomotive engineer certification.

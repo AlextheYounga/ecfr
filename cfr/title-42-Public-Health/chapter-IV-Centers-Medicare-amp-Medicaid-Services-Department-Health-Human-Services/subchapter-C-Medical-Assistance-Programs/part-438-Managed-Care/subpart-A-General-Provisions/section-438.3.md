@@ -1,7 +1,5 @@
 ##### § 438.3 Standard contract requirements. #####
 
-Link to an amendment published at 85 FR 72837, Nov. 13, 2020.
-
 (a) *CMS review.* The CMS must review and approve all MCO, PIHP, and PAHP contracts, including those risk and nonrisk contracts that, on the basis of their value, are not subject to the prior approval requirement in § 438.806. Proposed final contracts must be submitted in the form and manner established by CMS. For States seeking approval of contracts prior to a specific effective date, proposed final contracts must be submitted to CMS for review no later than 90 days prior to the effective date of the contract.
 
 (b) *Entities eligible for comprehensive risk contracts.* A State may enter into a comprehensive risk contract only with the following:
@@ -116,10 +114,10 @@ Link to an amendment published at 85 FR 72837, Nov. 13, 2020.
 
 (6) The MCO, PIHP or PAHP must conduct a prior authorization program that complies with the requirements of section 1927(d)(5) of the Act, as if such requirements applied to the MCO, PIHP, or PAHP instead of the State.
 
-(t) *Requirements for MCOs, PIHPs, or PAHPs responsible for coordinating benefits for dually eligible individuals.* In a State that enters into a Coordination of Benefits Agreement with Medicare for FFS, an MCO, PIHP, or PAHP contract that includes responsibility for coordination of benefits for individuals dually eligible for Medicaid and Medicare must require the MCO, PIHP, or PAHP to enter into a Coordination of Benefits Agreement with Medicare and participate in the automated claims crossover process.
+(t) *Requirements for MCOs, PIHPs, or PAHPs responsible for coordinating benefits for dually eligible individuals.* In a State that enters into a Coordination of Benefits Agreement (COBA) with Medicare for Medicaid, an MCO, PIHP, or PAHP contract that includes responsibility for coordination of benefits for individuals dually eligible for Medicaid and Medicare must specify the methodology by which the State ensures that the appropriate MCO, PIHP, or PAHP receives all applicable crossover claims for which the MCO, PIHP, or PAHP is responsible. If the State elects to use a methodology other than requiring the MCO, PIHP, or PAHP to enter into a COBA with Medicare, that methodology must ensure that the submitting provider is promptly informed on the State's remittance advice that the State has not denied payment and that the claim has been sent to the MCO, PIHP, or PAHP for payment consideration.
 
 (u) *Recordkeeping requirements.* MCOs, PIHPs, and PAHPs must retain, and require subcontractors to retain, as applicable, the following information: enrollee grievance and appeal records in § 438.416, base data in § 438.5(c), MLR reports in § 438.8(k), and the data, information, and documentation specified in §§ 438.604, 438.606, 438.608, and 438.610 for a period of no less than 10 years.
 
 (v) *Applicability date.* Sections 438.3(h) and (q) apply to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.6(g) and (k) contained in the 42 CFR, parts 430 to 481, edition revised as of October 1, 2015.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020]

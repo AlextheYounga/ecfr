@@ -1,7 +1,5 @@
 ##### § 303.2 Definitions. #####
 
-Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
-
 Except as modified or otherwise defined in this part, terms used in this part that are defined in the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*) have the meanings provided in the Federal Deposit Insurance Act. Additional definitions of terms used in this part are as follows:
 
 (a) *Act* or *FDI Act* means the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*).
@@ -62,21 +60,17 @@ Except as modified or otherwise defined in this part, terms used in this part th
 
 (v) *Institution-affiliated party* shall have the same meaning as provided in section 3(u) of the Act (12 U.S.C. 1813(u)).
 
-(w) *NEPA* means the National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*).
+(w) *Notice* means a submission notifying the FDIC that a depository institution intends to engage in or has commenced certain corporate activities or transactions.
 
-(x) *NHPA* means the National Historic Preservation Act of 1966 (16 U.S.C. 470 *et seq.*).
+(x) *Notice to primary regulator* means the notice described in section 8(a)(2)(A) of the Act concerning termination of deposit insurance (12 U.S.C. 1818(a)(2)(A)).
 
-(y) *Notice* means a submission notifying the FDIC that a depository institution intends to engage in or has commenced certain corporate activities or transactions.
+(y) *Regional counsel* means a regional counsel of the Legal Division or, in the event the title becomes obsolete, any official of equivalent authority within the Legal Division.
 
-(z) *Notice to primary regulator* means the notice described in section 8(a)(2)(A) of the Act concerning termination of deposit insurance (12 U.S.C. 1818(a)(2)(A)).
+(z) *Regional director* means any regional director in the Division of Supervision and Consumer Protection (DSC), or in the event such title become obsolete, any official of equivalent authority within the division.
 
-(aa) *Regional counsel* means a regional counsel of the Legal Division or, in the event the title becomes obsolete, any official of equivalent authority within the Legal Division.
+(aa) [Reserved]
 
-(bb) *Regional director* means any regional director in the Division of Supervision and Consumer Protection (DSC), or in the event such title become obsolete, any official of equivalent authority within the division.
-
-(cc) [Reserved]
-
-(dd) *Standard conditions* means the conditions that the FDIC may impose as a routine matter when approving a filing, whether or not the applicant has agreed to their inclusion. The following conditions, or variations thereof, are standard conditions:
+(bb) *Standard conditions* means the conditions that the FDIC may impose as a routine matter when approving a filing, whether or not the applicant has agreed to their inclusion. The following conditions, or variations thereof, are standard conditions:
 
 (1) That the applicant has obtained all necessary and final approvals from the appropriate federal or state authority or other appropriate authority;
 
@@ -86,10 +80,10 @@ Except as modified or otherwise defined in this part, terms used in this part th
 
 (4) In the case of a merger transaction (as defined in ¶ 303.61(a) of this part), including a corporate reorganization, that the proposed transaction not be consummated before the 30th calendar day (or shorter time period as may be prescribed by the FDIC with the concurrence of the Attorney General) after the date of the order approving the merger transaction.
 
-(ee) *Tier 1 capital* shall have the same meaning as provided in § 324.2 of this chapter.
+(cc) *Tier 1 capital* shall have the same meaning as provided in § 324.2 of this chapter.
 
-(ff) *Total assets* shall have the same meaning as provided in § 324.401(g) of this chapter.
+(dd) *Total assets* shall have the same meaning as provided in § 324.401(g) of this chapter.
 
-(gg) *FDIC-supervised institution* means any entity for which the FDIC is the appropriate Federal banking agency pursuant to section 3(q) of the FDI Act, 12 U.S.C. 1813(q).
+(ee) *FDIC-supervised institution* means any entity for which the FDIC is the appropriate Federal banking agency pursuant to section 3(q) of the FDI Act, 12 U.S.C. 1813(q).
 
-[67 FR 79247, Dec. 27, 2002, as amended at 68 FR 50459, Aug. 21, 2003; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018; 85 FR 3243, Jan. 21, 2020]
+[67 FR 79247, Dec. 27, 2002, as amended at 68 FR 50459, Aug. 21, 2003; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018; 85 FR 3243, Jan. 21, 2020; 85 FR 72555, Nov. 13, 2020]

@@ -1,5 +1,7 @@
 ##### § 120.442 Process to obtain or renew SBA Express or Export Express authority. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 The decision to grant or renew SBA Express or Export Express authority will be made by the appropriate SBA official in accordance with Delegations of Authority and is final. If SBA Express or Export Express authority is approved or renewed, the Lender must execute a supplemental guarantee agreement before the Lender's SBA Express or Export Express authority will become effective.
 
 (a) *Criteria and process for initial approval of SBA Express or Export Express authority.* A Lender that wishes to participate in SBA Express or Export Express must submit a written request to SBA.

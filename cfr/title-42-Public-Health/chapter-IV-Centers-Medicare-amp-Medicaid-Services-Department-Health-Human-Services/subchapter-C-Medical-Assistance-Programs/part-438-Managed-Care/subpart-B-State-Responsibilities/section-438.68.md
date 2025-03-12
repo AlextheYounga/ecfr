@@ -1,10 +1,8 @@
 ##### § 438.68 Network adequacy standards. #####
 
-Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
-
 (a) *General rule.* A State that contracts with an MCO, PIHP or PAHP to deliver Medicaid services must develop and enforce network adequacy standards consistent with this section.
 
-(b) *Provider-specific network adequacy standards.* (1) At a minimum, a State must develop time and distance standards for the following provider types, if covered under the contract:
+(b) *Provider-specific network adequacy standards.*-(1) *Provider types.* At a minimum, a State must develop a quantitative network adequacy standard for the following provider types, if covered under the contract:
 
 (i) Primary care, adult and pediatric.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (iii) Behavioral health (mental health and substance use disorder), adult and pediatric.
 
-(iv) Specialist, adult and pediatric.
+(iv) Specialist (as designated by the State), adult, and pediatric.
 
 (v) Hospital.
 
@@ -20,9 +18,7 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 
 (vii) Pediatric dental.
 
-(viii) Additional provider types when it promotes the objectives of the Medicaid program, as determined by CMS, for the provider type to be subject to time and distance access standards.
-
-(2) *LTSS.* States with MCO, PIHP or PAHP contracts which cover LTSS must develop:
+(2) *LTSS.* States with MCO, PIHP, or PAHP contracts which cover LTSS must develop a quantitative network adequacy standard for LTSS provider types.
 
 (i) Time and distance standards for LTSS provider types in which an enrollee must travel to the provider to receive services; and
 
@@ -69,3 +65,5 @@ Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
 (2) States that grant an exception in accordance with paragraph (d)(1) of this section to a MCO, PIHP or PAHP must monitor enrollee access to that provider type on an ongoing basis and include the findings to CMS in the managed care program assessment report required under § 438.66.
 
 (e) *Publication of network adequacy standards.* States must publish the standards developed in accordance with paragraphs (b)(1) and (2) of this section on the Web site required by § 438.10. Upon request, network adequacy standards must also be made available at no cost to enrollees with disabilities in alternate formats or through the provision of auxiliary aids and services.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72840, Nov. 13, 2020]

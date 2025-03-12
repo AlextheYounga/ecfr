@@ -1,5 +1,7 @@
 ##### § 240.403 Petition requirements. #####
 
+Link to an amendment published at 85 FR 81318, Dec. 15, 2020.
+
 (a) To obtain review of a railroad's decision to deny certification, deny recertification, or revoke certification, a person shall file a petition for review that complies with this section.
 
 (b) Each petition shall:

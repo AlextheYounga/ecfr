@@ -1,12 +1,10 @@
 ##### § 704.14 Representation. #####
 
-Link to an amendment published at 85 FR 71827, Nov. 12, 2020.
-
 (a) *Board representation.* The board will be determined as stipulated in its bylaws governing election procedures, provided that:
 
 (1) At least a majority of directors, including the chair of the board, must serve on the board as representatives of member credit unions;
 
-(2) Only an individual who currently holds the position of chief executive officer, chief financial officer, chief operating officer, or treasurer/manager at a member credit union, and will hold that position at the time he or she is seated on the corporate credit union board if elected, may seek election or re-election to the corporate credit union board;
+(2) Only an individual who currently holds a senior staff position (e.g., position of chief executive officer, chief financial officer, chief operating officer, chief information officer, chief risk officer, treasurer/manager, etc.) at a member credit union, and will hold that position at the time he or she is seated on the corporate credit union board if elected, may seek election or re-election to the corporate credit union board;
 
 (3) No individual may be elected or appointed to serve on the board if, after such election or appointment, the individual would be a director at more than one corporate credit union;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 85 FR 71827, Nov. 12, 2020.
 
 (2) The provisions of § 701.14 of this chapter apply to corporate credit unions, except that where “Regional Director” is used, read “Director of the Office of National Examinations and Supervision.”
 
-[62 FR 12938, Mar. 19, 1997, as amended at 67 FR 65657, Oct. 25, 2002; 75 FR 64844, Oct. 20, 2010; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020]
+[62 FR 12938, Mar. 19, 1997, as amended at 67 FR 65657, Oct. 25, 2002; 75 FR 64844, Oct. 20, 2010; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020; 85 FR 71827, Nov. 12, 2020]

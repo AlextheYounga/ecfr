@@ -1,5 +1,7 @@
 ##### § 702.241 Definitions and supplementary information. #####
 
+Link to an amendment published at 85 FR 80612, Dec. 14, 2020.
+
 (a) As used hereinafter, the term *adjudicator* shall mean district director or administrative law judge (ALJ).
 
 (b) If a settlement application is submitted to an adjudicator and the case is pending at the Office of Administrative Law Judges, the Benefits Review Board, or any Federal circuit court of appeals, the parties may request that the case be remanded to the adjudicator for consideration of the application. The thirty day period as described in paragraph (f) of this section begins when the remanded case is received by the adjudicator.

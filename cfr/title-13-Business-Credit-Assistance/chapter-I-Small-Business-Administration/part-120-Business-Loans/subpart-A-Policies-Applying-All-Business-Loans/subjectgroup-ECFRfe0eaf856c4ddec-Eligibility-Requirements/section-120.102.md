@@ -1,5 +1,7 @@
 ##### § 120.102 Funds not available from alternative sources, including the personal resources of owners. #####
 
+Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+
 (a) An Applicant for a business loan must show that the desired funds are not available from the resources of any individual or entity owning 20 percent or more of the Applicant. SBA will require the use of liquid assets from any such owner as an injection to reduce the SBA loan amount when that owner's liquid assets exceed the amounts specified in paragraphs (a)(1) through (3) of this section. SBA will reexamine the thresholds periodically and, if adjustments are necessary based on nationally-recognized economic indicators, SBA may modify the thresholds from time to time through rulemaking. When the total financing package (*i.e.,* any SBA loans and any other financing, including loans from any other source, requested by the Applicant business at or about the same time, as defined in Loan Program Requirements (see *§ 120.10)*):
 
 (1) Is $350,000 or less, each 20 percent owner of the Applicant must inject any liquid assets that are in excess of two times the total financing package, or $500,000, whichever is greater;

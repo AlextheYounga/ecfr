@@ -1,5 +1,7 @@
 ##### § 240.401 Review board established. #####
 
+Link to an amendment published at 85 FR 81318, Dec. 15, 2020.
+
 (a) Any person who has been denied certification, denied recertification, or has had his or her certification revoked and believes that a railroad incorrectly determined that he or she failed to meet the qualification requirements of this regulation when making the decision to deny or revoke certification, may petition the Federal Railroad Administrator to review the railroad's decision.
 
 (b) The Federal Railroad Administrator has delegated initial responsibility for adjudicating such disputes to the Locomotive Engineer Review Board.

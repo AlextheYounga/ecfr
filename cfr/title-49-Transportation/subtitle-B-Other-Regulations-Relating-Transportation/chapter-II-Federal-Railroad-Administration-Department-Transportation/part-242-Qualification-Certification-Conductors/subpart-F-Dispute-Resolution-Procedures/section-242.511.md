@@ -1,5 +1,7 @@
 ##### § 242.511 Appeals. #####
 
+Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
+
 (a) Any party aggrieved by the presiding officer's decision may file an appeal. The appeal must be filed within 35 days of issuance of the decision with the Federal Railroad Administrator, 1200 New Jersey Avenue SE., Washington, DC 20590 and with the Docket Clerk, U.S. Department of Transportation, Docket Operations (M-30), West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590. A copy of the appeal shall be served on each party. The appeal shall set forth objections to the presiding officer's decision, supported by reference to applicable laws and regulations and with specific reference to the record. If no appeal is timely filed, the presiding officer's decision constitutes final agency action.
 
 (b) A party may file a reply to the appeal within 25 days of service of the appeal. The reply shall be supported by reference to applicable laws and regulations and with specific reference to the record, if the party relies on evidence contained in the record.

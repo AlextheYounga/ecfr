@@ -1,7 +1,5 @@
 ##### § 704.8 Asset and liability management. #####
 
-Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
-
 (a) *Policies.* A corporate credit union must operate according to a written asset and liability management policy which addresses, at a minimum:
 
 (1) The purpose and objectives of the corporate credit union's asset and liability activities;
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
 
 (iii) Adjustments to volatility assumptions to consider the impact that changing volatilities have on embedded option values.
 
-(e) *Net interest income modeling.* A corporate credit union must perform net interest income (NII) modeling to project earnings in multiple interest rate environments for a period of no less than 2 years. NII modeling must, at minimum, be performed at least quarterly, including once on the last day of the calendar quarter.
+(e) *Net interest income modeling.* A corporate credit union must perform net interest income (NII) modeling to project earnings in multiple interest rate environments for a period of no less than 1 year. NII modeling must, at minimum, be performed at least quarterly, including once on the last day of the calendar quarter.
 
 (f) *Weighted average asset life.* The weighted average life (WAL) of a corporate credit union's financial assets, consisting of cash, investments, and loans, but excluding derivative contracts and equity investments, may not exceed 2 years. A corporate credit union must test its financial assets at least quarterly, including once on the last day of the calendar quarter, for compliance with this WAL limitation. When calculating its WAL, a corporate credit union must assume that no issuer or market options will be exercised. If the WAL of a corporate credit union's assets exceeds 2 years on the testing date, this test must be calculated at least monthly, including once on the last day of the month, until the WAL is below 2 years.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
 
 (k) *Overall limit on business generated from individual credit unions.* On or after April 22, 2013, a corporate credit union is prohibited from accepting from any member, or any nonmember credit union, any investment, including shares, loans, PCC, or NCAs if, following that investment, the aggregate of all investments from that entity in the corporate credit union would exceed 15 percent of the corporate credit union's moving daily average net assets.
 
-[75 FR 64842, Oct. 20, 2010, as amended at 76 FR 79533, Dec. 22, 2011; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020]
+[75 FR 64842, Oct. 20, 2010, as amended at 76 FR 79533, Dec. 22, 2011; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020; 85 FR 71826, Nov. 12, 2020]
