@@ -48,15 +48,15 @@
 
 (iii) An obligation owed by any of the following:
 
-(A) A member of the expanded affiliated group, unless the holder of the obligation immediately before the domestic entity acquisition and any related transaction (or its successor) is a member of the expanded affiliated group after the domestic entity acquisition and all related transactions.
+(A) A member of the expanded affiliated group, unless the holder of the obligation immediately before the domestic entity acquisition and any related transaction (or its successor) is a member of the expanded affiliated group after the domestic entity acquisition and all related transactions. See *Example 6* of paragraph (j) of this section for an illustration of this paragraph (i)(2)(iii)(A).
 
 (B) A former domestic entity shareholder or former domestic entity partner of the domestic entity that owns (applying the attribution rules of section 318(a) with the modifications described in section 304(c)(3)(B)) at least five percent (by vote or value) of the stock of, or partnership interests in, the domestic entity before the domestic entity acquisition.
 
-(C) A person that, before or after the domestic entity acquisition, either owns (applying the attribution rules of section 318(a) with the modifications described in section 304(c)(3)(B)) at least five percent (by vote or value) of the stock of (or partnership interests in) or is related (within the meaning of section 267 or 707(b)) to -
+(C) A person, other than a member of the expanded affiliated group, that, before or after the domestic entity acquisition, either owns (applying the attribution rules of section 318(a) with the modifications described in section 304(c)(3)(B)) at least five percent (by vote or value) of the stock of (or partnership interests in) or is related (within the meaning of section 267 or 707(b)) to -
 
 (*1*) A member of the expanded affiliated group; or
 
-(*2*) A person described in paragraph (i)(2)(iii)(B) of this section. See *Example 6* of paragraph (j) of this section for an illustration of this paragraph (i)(2)(iii)(C)(*2*).
+(*2*) A person described in paragraph (i)(2)(iii)(B) of this section.
 
 (iv) Any other property acquired with a principal purpose of avoiding the purposes of section 7874, regardless of whether the transaction involves an indirect transfer of property described in paragraph (i)(2)(i), (ii), or (iii) of this section. See *Example 2* and *Example 3* of paragraph (j) of this section for illustrations of the application of this paragraph (i)(2)(iv).
 
@@ -150,4 +150,4 @@ Example 10.*Stock issued in lieu of assuming associated obligation* - (i) *Facts
 
 (3) *Election for domestic entity acquisitions completed on or after September 17, 2009, and before January 13, 2017.* If, pursuant to paragraph (k)(1) or (2) of this section, a paragraph of this section would not otherwise apply to a domestic entity acquisition completed on or after September 17, 2009, and before January 13, 2017 (transition period), a taxpayer may elect to apply the paragraph if the taxpayer applies the paragraph consistently to all acquisitions completed during the transition period. The election is made by applying the paragraph to all such acquisitions on a timely filed original return (including extensions) or an amended return filed no later than six months after January 13, 2017. A separate statement or form evidencing the election need not be filed.
 
-[T.D. 9812, 82 FR 5394, Jan. 18, 2017]
+[T.D. 9812, 82 FR 5394, Jan. 18, 2017; 82 FR 42233, Sept. 7, 2017]

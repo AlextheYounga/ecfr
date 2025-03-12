@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 82 FR 37001, Aug. 8, 2017.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -546,6 +544,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *eLandings* means the Internet data entry system or desktop client components of the Interagency Electronic Reporting System (IERS) for reporting commercial fishery landings and production from waters off Alaska.
 
+*Electronic Monitoring system or EM system* means a network of equipment that uses a software operating system connected to one or more technology components, including, but not limited to, cameras and recording devices to collect data on catch and vessel operations.
+
 *Eligible applicant* means (for purposes of the LLP program) a qualified person who submitted an application during the application period announced by NMFS and:
 
 (1) For a groundfish license or crab species license, who owned a vessel on June 17, 1995, from which the minimum number of documented harvests of license limitation groundfish or crab species were made in the relevant areas during the qualifying periods specified in § 679.4(k)(4) and (k)(5), unless the fishing history of that vessel was transferred in conformance with the provisions in paragraph (2) of this definition; or
@@ -602,6 +602,10 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (iii) Begins or ends every charter vessel fishing trip, as defined in § 300.61 of this title, authorized by the charter halibut permit issued to that person, and on which halibut are retained, at a location(s) within the boundaries of the community represented by the CQE from which the GAF were received. The geographic boundaries of the eligible community will be those defined by the United States Census Bureau.
 
+*EM selection pool* means the defined group of vessels from which NMFS will randomly select the vessels required to use an EM system under § 679.51(f).
+
+*EM service provider* means any person, including their employees or agents, that NMFS contracts with to provide EM services, or to review, interpret, or analyze EM data, as required under § 679.51(f).
+
 *Endorsement.* (1) (See *area endorsement* for purposes of the groundfish LLP permits);
 
 (2) (See *area/species endorsement* for purposes of the crab LLP permits);
@@ -644,13 +648,15 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (2) *IFQ program.* With respect to the IFQ program, the period beginning when a vessel operator commences harvesting IFQ species and ending when the vessel operator lands any species.
 
-(3) *Groundfish and Halibut Observer Program.* With respect to subpart E of this part, one of the following periods:
+(3) *North Pacific Observer Program.* With respect to subpart E of this part, one of the following periods:
 
 (i) For a catcher vessel delivering to a shoreside processor or stationary floating processor, the period of time that begins when a catcher vessel departs a port to harvest fish until the offload or transfer of all fish from that vessel.
 
 (ii) For a catcher vessel delivering to a tender vessel, the period of time that begins when a catcher vessel departs from port to harvest fish until the vessel returns to a port in which a shoreside processor or stationary floating processor with a valid FPP is located.
 
 (iii) For a catcher/processor in the partial observer coverage category, the period of time that begins when the vessel departs a port to harvest fish until the vessel returns to port and offloads all processed product.
+
+(iv) *For a vessel in the EM selection pool of the partial coverage category,* the period of time that begins when the vessel leaves a shore-based port or tender vessel with an empty hold until the vessel returns to a shore-based port or tender vessel and all fish are delivered.
 
 (4) *For purposes of § 679.7(n)(7)*, the period beginning when a vessel operator commences harvesting any Rockfish Program species and ending when the vessel operator offloads or transfers any processed or unprocessed Rockfish Program species from that vessel.
 
@@ -1255,6 +1261,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Vessel Activity Report (VAR)* (see § 679.4(k)).
 
 *Vessel length category* means the length category of a vessel, based on the assigned MLOA, used to determine eligibility.
+
+*Vessel Monitoring Plan (VMP)* means the document that describes how fishing operations on the vessel will be conducted and how the EM system and associated equipment will be configured to meet the data collection objectives and purpose of the EM program. VMPs are required under § 679.51(f).
 
 *Vessel operations category* (see § 679.5(b)(3)).
 

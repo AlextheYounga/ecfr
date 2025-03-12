@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 82 FR 37002, Aug. 8, 2017.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -280,7 +278,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) *Sablefish.* Retain sablefish caught with fixed gear without a valid IFQ permit, and if using a hired master, without an IFQ hired master permit in the name of an individual aboard, unless fishing on behalf of a CDQ group.
 
-(4) Except as provided in § 679.40(d), retain IFQ or CDQ halibut or IFQ or CDQ sablefish on a vessel in excess of the total amount of unharvested IFQ or CDQ, applicable to the vessel category and IFQ or CDQ regulatory area(s) in which the vessel is deploying fixed gear, and that is currently held by all IFQ or CDQ permit holders aboard the vessel, unless the vessel has an observer aboard under subpart E of this part and maintains the applicable daily fishing log prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of this title and § 679.5.
+(4) Except as provided in § 679.40(d), retain IFQ or CDQ halibut or IFQ or CDQ sablefish on a vessel in excess of the total amount of unharvested IFQ or CDQ, applicable to the vessel category and IFQ or CDQ regulatory area(s) in which the vessel is deploying fixed gear, and that is currently held by all IFQ or CDQ permit holders aboard the vessel, unless the vessel has an observer aboard under subpart E of this part or the vessel participates in the EM selection pool and complies with the requirements at § 679.51(f), and maintains the applicable daily fishing log prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of this title and § 679.5.
 
 (5) Possess, buy, sell, or transport IFQ or CDQ halibut or IFQ sablefish harvested or landed in violation of any provision of this part.
 
@@ -361,7 +359,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (25) Operate a catcher vessel or a catcher/processor using longline pot gear to fish IFQ sablefish or IFQ halibut in the GOA and fail to use functioning VMS equipment as required in § 679.42(k)(2).
 
-(g) *Groundfish and Halibut Observer Program.* (1) Forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with an observer.
+(g) *North Pacific Observer Program - Observers.* (1) Forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with an observer.
 
 (2) Interfere with or bias the sampling procedure employed by an observer, including physical, mechanical, or other sorting or discarding of catch before sampling.
 
@@ -415,13 +413,29 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (10) Operate a vessel under the authority of an LLP license issued to a CQE to directed fish for Pacific cod in the GOA if the person specified for that groundfish license in the annual CQE authorization letter, or any subsequent amendment to that authorization letter, is not onboard the vessel.
 
-(j) *Prohibitions specific to the GOA* (applicable through December 31, 2002) - (1) *Southeast Outside trawl closure.* Use any gear other than non-trawl gear in the GOA east of 140° W long.
+(j) *North Pacific Observer Program - EM Systems.* (1) Fish without an EM system when a vessel is required to carry an EM system under § 679.51(f).
 
-(2) *Catcher vessel trip limit for pollock.* Retain on board a catcher vessel at any time during a trip, more than 300,000 lb (136 mt) of unprocessed pollock.
+(2) Fish with an EM system without a copy of a valid NMFS-approved VMP on board when directed fishing in a fishery subject to EM coverage.
 
-(3) *Tender vessel restrictions for pollock.* (i) Operate as a tender vessel east of 157°00′ W long. for pollock harvested in the GOA.
+(3) Fail to comply with a NMFS-approved VMP.
 
-(ii) Operate as a tender vessel west of 157°00′ W long. while retaining on board at any time more than 600,000 lb (272 mt) of unprocessed pollock.
+(4) Fail to conduct a function test prior to departing port on a fishing trip as required at § 679.51(f)(5)(vi)(A).
+
+(5) Depart on a fishing trip selected for EM coverage without a functional EM system, unless procedures at § 679.51(f)(5)(vi)(A)(*1*) and § 679.51(f)(5)(vi)(A)(*2*) have been followed.
+
+(6) Fail to follow procedures at § 679.51(f)(5)(vi)(B) prior to each set on a fishing trip selected for EM coverage.
+
+(7) Fail to make the EM system, associated equipment, logbooks, and other records available for inspection upon request by NMFS, OLE, or other NMFS-authorized officer.
+
+(8) Fail to submit a video data storage device as specified under § 679.51(f)(5)(vii).
+
+(9) Tamper with, bias, disconnect, damage, destroy, alter, or in any other way distort, render useless, inoperative, ineffective, or inaccurate any component of the EM system, associated equipment, or data recorded by the EM system when the vessel is directed fishing in a fishery subject to EM coverage, unless the vessel operator is directed to make changes to the EM system by NMFS, the EM service provider, or as directed in the troubleshooting guide of the VMP.
+
+(10) Assault, impede, intimidate, harass, sexually harass, bribe, or interfere with an EM service provider.
+
+(11) Interfere or bias the sampling procedure employed in the EM selection pool, including either mechanically or manually sorting or discarding catch outside of the camera view or inconsistent with the NMFS-approved VMP.
+
+(12) Fail to meet vessel owner and operator responsibilities specified at § 679.51(f)(5).
 
 (k) *Prohibitions specific to the AFA.* It is unlawful for any person to do any of the following:
 

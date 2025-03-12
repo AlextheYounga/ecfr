@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 82 FR 37001, Aug. 8, 2017.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -472,7 +470,7 @@ Link to an amendment published at 82 FR 37001, Aug. 8, 2017.
 |                                           679.43                                           |               \-0272, -0318, -0334, -0401, -0545, -0565, -0569, and -0711                |
 |                                           679.45                                           |                                 \-0272, -0592, and -0711                                 |
 |                                         679.50(a)                                          |                                 \-0206, -0269, and -0272                                 |
-|                                           679.51                                           |              \-0206, -0269, -0272, -0318, -0401, -0513, -0545, -0565, -0731              |
+|                                           679.51                                           |               \-0206, -0269, -0272, -0318, -0401, -0513, -0545, and -0565                |
 |                                           679.52                                           |                                          \-0318                                          |
 |                                           679.53                                           |                                          \-0318                                          |
 |                                           679.54                                           |                                          \-0318                                          |

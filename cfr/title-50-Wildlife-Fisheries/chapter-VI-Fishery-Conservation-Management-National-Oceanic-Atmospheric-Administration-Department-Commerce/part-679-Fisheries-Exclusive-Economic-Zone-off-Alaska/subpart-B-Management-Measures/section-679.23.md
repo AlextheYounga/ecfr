@@ -1,7 +1,5 @@
 ##### § 679.23 Seasons. #####
 
-Link to an amendment published at 82 FR 37002, Aug. 8, 2017.
-
 (a) *Groundfish, general.* Fishing for groundfish in the GOA and BSAI is authorized from 0001 hours, A.l.t., January 1, through 2400 hours, A.l.t., December 31, subject to the other provisions of this part, except as provided in paragraph (c) of this section.
 
 (b) *Time of groundfish openings and closures.* The time of all openings and closures of fishing seasons, other than the beginning and end of the calendar fishing year, is 1200 hours, A.l.t.
@@ -37,10 +35,6 @@ Link to an amendment published at 82 FR 37002, Aug. 8, 2017.
 (A) *A season.* From 0001 hours, A.l.t., January 1 through 1200 hours, A.l.t., June 10 or when the jig A season allocation is reached, whichever occurs first;
 
 (B) *B season.* From 1200 hours, A.l.t., June 10 through 2400 hours, A.l.t., December 31 or when the jig B season allocation is reached, whichever occurs first.
-
-(4) [Reserved]
-
-(5) *Directed fishing for Pacific cod.* Directed fishing for Pacific cod in the Western and Central Regulatory Areas is prohibited.
 
 (e) *BSAI groundfish seasons* - (1) *Directed fishing for arrowtooth flounder, Kamchatka flounder, and Greenland turbot.* Directed fishing for arrowtooth flounder, Kamchatka flounder, and Greenland turbot in the BSAI is authorized from 1200 hours, A.l.t., May 1 through 2400 hours, A.l.t., December 31, subject to the other provisions of this part.
 
@@ -110,4 +104,4 @@ Link to an amendment published at 82 FR 37002, Aug. 8, 2017.
 
 (i) *Catcher vessel exclusive fishing seasons for pollock.* Catcher vessels are prohibited from participating in directed fishing for pollock under the following conditions. Vessels less than 125 ft (38.1 m) LOA are exempt from this restriction when fishing east of 157°00′ W long. GOA and BSAI seasons are specified at § 679.23(d)(2) and § 679.23(e)(2).
 
-![](/graphics/er02ja03.006.gif)[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/er02ja03.006.gif)[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

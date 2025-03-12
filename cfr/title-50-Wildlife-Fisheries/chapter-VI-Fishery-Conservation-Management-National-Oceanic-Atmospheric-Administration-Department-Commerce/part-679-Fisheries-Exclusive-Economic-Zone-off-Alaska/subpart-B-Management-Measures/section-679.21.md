@@ -1,16 +1,14 @@
 ##### § 679.21 Prohibited species bycatch management. #####
 
-Link to an amendment published at 82 FR 37002, Aug. 8, 2017.
-
 (a) *General.* (1) See § 679.2 and Table 2b to this part for definition of prohibited species.
 
 (2) *Prohibited species catch restrictions.* The operator of each vessel engaged in directed fishing for groundfish in the GOA or BSAI must:
 
 (i) Minimize its catch of prohibited species.
 
-(ii) After allowing for sampling by an observer, if an observer is aboard, sort its catch immediately after retrieval of the gear and, except for salmon prohibited species catch in the BS pollock fisheries and GOA groundfish fisheries under paragraphs (c), (h), or (i) of this section, or any prohibited species catch as provided (in permits issued) under the PSD program at § 679.26, return all prohibited species, or parts thereof, to the sea immediately, with a minimum of injury, regardless of its condition.
+(ii) After allowing for sampling by an observer, if an observer is aboard, sort its catch immediately after retrieval of the gear and, except for salmon prohibited species catch in the BS pollock fisheries and GOA groundfish fisheries under paragraph (f) or (h) of this section, or any prohibited species catch as provided (in permits issued) under the PSD program at § 679.26, return all prohibited species, or parts thereof, to the sea immediately, with a minimum of injury, regardless of its condition.
 
-(3) *Rebuttable presumption.* Except as provided under paragraph (c) and (h) of this section and § 679.26, there will be a rebuttable presumption that any prohibited species retained on board a fishing vessel regulated under this part was caught and retained in violation of this section.
+(3) *Rebuttable presumption.* Except as provided under paragraphs (f) and (h) of this section and § 679.26, there will be a rebuttable presumption that any prohibited species retained on board a fishing vessel regulated under this part was caught and retained in violation of this section.
 
 (4) *Prohibited species taken seaward of the EEZ off Alaska.* No vessel fishing for groundfish in the GOA or BSAI may have on board any species listed in this paragraph (a) that was taken in waters seaward of these management areas, regardless of whether retention of such species was authorized by other applicable laws.
 
@@ -833,4 +831,4 @@ Link to an amendment published at 82 FR 37002, Aug. 8, 2017.
 
 (iii) Vessels in the Trawl catcher/processor sector defined in paragraph (h)(3)(i) of this section will reach the seasonal Chinook salmon PSC limit specified at paragraph (h)(4)(ii)(A) of this section prior to June 1, NMFS will publish notification in the Federal Register closing directed fishing for all groundfish species, other than pollock, with trawl gear in the Western and Central reporting areas of the GOA for all vessels in the Trawl catcher/processor sector until June 1. Directed fishing for groundfish species, other than pollock will reopen on June 1 for the Trawl catcher/processor sector defined in paragraph (h)(3)(i) of this section with the Chinook salmon PSC limit determined at paragraph (h)(4)(ii)(B) of this section unless NMFS determines that the amount of Chinook salmon PSC available to the sector is insufficient to allow the sector to fish and not exceed its annual Chinook salmon PSC limit.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
