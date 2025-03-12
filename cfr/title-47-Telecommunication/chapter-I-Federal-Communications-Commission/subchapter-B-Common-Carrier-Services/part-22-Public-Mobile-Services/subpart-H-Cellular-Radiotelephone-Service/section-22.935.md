@@ -1,5 +1,7 @@
 ##### § 22.935 Procedures for comparative renewal proceedings. #####
 
+Link to an amendment published at 82 FR 17583, Apr. 12, 2017.
+
 The procedures in this section apply to comparative renewal proceedings in the Cellular Radiotelephone Service.
 
 (a) If one or more of the applications competing with an application for renewal of a cellular authorization are filed, the renewal applicant must file with the Commission its original renewal expectancy showing electronically via the ULS. This filing must be submitted no later than 60 days after the date of the Public Notice listing as acceptable for filing the renewal application and the competing applications.

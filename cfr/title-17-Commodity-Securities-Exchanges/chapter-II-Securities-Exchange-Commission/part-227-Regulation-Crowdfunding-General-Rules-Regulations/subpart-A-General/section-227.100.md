@@ -2,13 +2,13 @@
 
 (a) *Exemption.* An issuer may offer or sell securities in reliance on section 4(a)(6) of the Securities Act of 1933 (the “Securities Act”) (15 U.S.C. 77d(a)(6)), provided that:
 
-(1) The aggregate amount of securities sold to all investors by the issuer in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) during the 12-month period preceding the date of such offer or sale, including the securities offered in such transaction, shall not exceed $1,000,000;
+(1) The aggregate amount of securities sold to all investors by the issuer in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) during the 12-month period preceding the date of such offer or sale, including the securities offered in such transaction, shall not exceed $1,070,000;
 
 (2) The aggregate amount of securities sold to any investor across all issuers in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) during the 12-month period preceding the date of such transaction, including the securities sold to such investor in such transaction, shall not exceed:
 
-(i) The greater of $2,000 or 5 percent of the lesser of the investor's annual income or net worth if either the investor's annual income or net worth is less than $100,000; or
+(i) The greater of $2,200 or 5 percent of the lesser of the investor's annual income or net worth if either the investor's annual income or net worth is less than $107,000; or
 
-(ii) 10 percent of the lesser of the investor's annual income or net worth, not to exceed an amount sold of $100,000, if both the investor's annual income and net worth are equal to or more than $100,000;
+(ii) 10 percent of the lesser of the investor's annual income or net worth, not to exceed an amount sold of $107,000, if both the investor's annual income and net worth are equal to or more than $107,000;
 
 *Instruction 1 to paragraph (a)(2).* To determine the investment limit for a natural person, the person's annual income and net worth shall be calculated as those values are calculated for purposes of determining accredited investor status in accordance with § 230.501 of this chapter.
 
@@ -43,3 +43,5 @@
 *Instruction to paragraph (c).* The term *control* means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of the entity, whether through the ownership of voting securities, by contract or otherwise.
 
 (d) *Investor.* For purposes of this part, *investor* means any investor or any potential investor, as the context requires.
+
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017]

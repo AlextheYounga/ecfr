@@ -1,5 +1,7 @@
 ##### § 22.917 Emission limitations for cellular equipment. #####
 
+Link to an amendment published at 82 FR 17583, Apr. 12, 2017.
+
 The rules in this section govern the spectral characteristics of emissions in the Cellular Radiotelephone Service.
 
 (a) *Out of band emissions.* The power of any emission outside of the authorized operating frequency ranges must be attenuated below the transmitting power (P) by a factor of at least 43 + 10 log(P) dB.

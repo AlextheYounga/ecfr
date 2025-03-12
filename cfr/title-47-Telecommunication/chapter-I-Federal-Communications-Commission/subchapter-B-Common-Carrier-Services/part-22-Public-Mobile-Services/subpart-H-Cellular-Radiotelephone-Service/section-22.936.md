@@ -1,5 +1,7 @@
 ##### § 22.936 Dismissal of applications in cellular renewal proceedings. #####
 
+Link to an amendment published at 82 FR 17583, Apr. 12, 2017.
+
 Any applicant that has filed an application in the Cellular Radiotelephone Service that is mutually exclusive with an application for renewal of a cellular authorization (competing application), and seeks to resolve the mutual exclusivity by requesting dismissal of its application, must obtain the approval of the FCC.
 
 (a) If a competing applicant seeks to dismiss its application prior to the Initial Decision stage of the hearing on its application, it must submit to the Commission a request for approval of the dismissal of its application. This request for approval of the dismissal of its application must be submitted and must also include a copy of any agreement related to the withdrawal or dismissal, and an affidavit setting forth:

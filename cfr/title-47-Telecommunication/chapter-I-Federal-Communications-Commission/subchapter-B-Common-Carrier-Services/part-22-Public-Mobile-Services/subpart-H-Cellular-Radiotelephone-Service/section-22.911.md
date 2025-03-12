@@ -1,5 +1,7 @@
 ##### § 22.911 Cellular geographic service area. #####
 
+Link to an amendment published at 82 FR 17582, Apr. 12, 2017.
+
 The Cellular Geographic Service Area (CGSA) of a cellular system is the geographic area considered by the FCC to be served by the cellular system. The CGSA is the area within which cellular systems are entitled to protection and within which adverse effects for the purpose of determining whether a petitioner has standing are recognized.
 
 (a) *CGSA determination.* The CGSA is the composite of the service areas of all of the cells in the system, excluding any Unserved Area (even if it is served on a secondary basis) or area within the CGSA of another Cellular system. The service area of a cell is the area within its service area boundary (SAB). The distance to the SAB is calculated as a function of effective radiated power (ERP) and antenna center of radiation height above average terrain (HAAT), height above sea level (HASL), or height above mean sea level (HAMSL).

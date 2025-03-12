@@ -1,5 +1,7 @@
 ##### § 22.99 Definitions. #####
 
+Link to an amendment published at 82 FR 17581, Apr. 12, 2017.
+
 Terms used in this part have the following meanings:
 
 *Air-Ground Radiotelephone Service.* A radio service in which licensees are authorized to offer and provide radio telecommunications service for hire to subscribers in aircraft.

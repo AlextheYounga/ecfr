@@ -38,6 +38,18 @@ Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494
 
 *Electronic filing.* The term *electronic filing* means a document under the federal securities laws that is transmitted or delivered to the Commission in electronic format.
 
+*Emerging growth company.* (1) The term *emerging growth company* means an issuer that had total annual gross revenues of less than $1,070,000,000 during its most recently completed fiscal year.
+
+(2) An issuer that is an emerging growth company as of the first day of that fiscal year shall continue to be deemed an emerging growth company until the earliest of:
+
+(i) The last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,070,000,000 or more;
+
+(ii) The last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933;
+
+(iii) The date on which such issuer has, during the previous three year period, issued more than $1,000,000,000 in non-convertible debt; or
+
+(iv) The date on which such issuer is deemed to be a large accelerated filer, as defined in Rule 12b-2 of the Exchange Act (§ 240.12b-2 of this chapter).
+
 *Employee.* The term *employee* does not include a director, trustee, or officer.
 
 *Employee benefit plan.* The term *employee benefit plan* means any written purchase, savings, option, bonus, appreciation, profit sharing, thrift, incentive, pension or similar plan or written compensation contract solely for employees, directors, general partners, trustees (where the registrant is a business trust), officers, or consultants or advisors. However, consultants or advisors may participate in an employee benefit plan only if:

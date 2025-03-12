@@ -58,6 +58,18 @@ The aggregate worldwide market value of the issuer's outstanding voting and non-
 
 *Depositary share.* The term “depositary share” means a security, evidenced by an American Depositary Receipt, that represents a foreign security or a multiple of or fraction thereof deposited with a depositary.
 
+*Emerging growth company.* (1) The term *emerging growth company* means an issuer that had total annual gross revenues of less than $1,070,000,000 during its most recently completed fiscal year.
+
+(2) An issuer that is an emerging growth company as of the first day of that fiscal year shall continue to be deemed an emerging growth company until the earliest of:
+
+(i) The last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,070,000,000 or more;
+
+(ii) The last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933;
+
+(iii) The date on which such issuer has, during the previous three year period, issued more than $1,000,000,000 in non-convertible debt; or
+
+(iv) The date on which such issuer is deemed to be a large accelerated filer, as defined in Rule 12b-2 (§ 240.12b-2 of this chapter).
+
 *Employee.* The term “employee” does not include a director, trustee, or officer.
 
 *Fiscal year.* The term “fiscal year” means the annual accounting period or, if no closing date has been adopted, the calendar year ending on December 31.

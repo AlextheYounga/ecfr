@@ -1,5 +1,7 @@
 ##### § 22.940 Criteria for comparative cellular renewal proceedings. #####
 
+Link to an amendment published at 82 FR 17583, Apr. 12, 2017.
+
 This section sets forth criteria to be used in comparative cellular renewal proceedings. The ultimate issue in comparative renewal proceedings will be to determine, in light of the evidence adduced in the proceeding, what disposition of the applications would best serve the public interest, convenience and necessity.
 
 (a) *Renewal expectancies.* The most important comparative factor to be considered in a comparative cellular renewal proceeding is a major preference, commonly referred to as a “renewal expectancy.”

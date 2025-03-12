@@ -1,5 +1,7 @@
 ##### § 22.953 Content and form of applications for Cellular Unserved Area authorizations. #####
 
+Link to an amendment published at 82 FR 17584, Apr. 12, 2017.
+
 Applications for authority to operate a new Cellular system or to modify an existing Cellular system must comply with the specifications in this section.
 
 (a) *New Systems.* In addition to information required by subpart B of this part and by FCC Form 601, applications for an Unserved Area authorization to operate a Cellular system must comply with all applicable requirements set forth in part 1 of this chapter, including the requirements specified in §§ 1.913, 1.923, and 1.924, and must include the information listed below. Geographical coordinates must be correct to ±1 second using the NAD 83 datum.

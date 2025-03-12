@@ -10,7 +10,7 @@
 
 (4) If the registrant is an accelerated filer or a large accelerated filer (as defined in § 240.12b-2 of this chapter), or otherwise includes in its annual report a registered public accounting firm's attestation report on internal control over financial reporting, a statement that the registered public accounting firm that audited the financial statements included in the annual report containing the disclosure required by this Item has issued an attestation report on the registrant's internal control over financial reporting.
 
-(b) *Attestation report of the registered public accounting firm.* If the registrant is an accelerated filer or a large accelerated filer (as defined in § 240.12b-2 of this chapter), provide the registered public accounting firm's attestation report on the registrant's internal control over financial reporting in the registrant's annual report containing the disclosure required by this Item.
+(b) *Attestation report of the registered public accounting firm.* If the registrant, other than a registrant that is an emerging growth company, as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter), is an accelerated filer or a large accelerated filer (as defined in § 240.12b-2 of this chapter), provide the registered public accounting firm's attestation report on the registrant's internal control over financial reporting in the registrant's annual report containing the disclosure required by this Item.
 
 (c) *Changes in internal control over financial reporting.* Disclose any change in the registrant's internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of § 240.13a-15 or 240.15d-15 of this chapter that occurred during the registrant's last fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting.
 
@@ -18,4 +18,4 @@
 
 2. The registrant must maintain evidential matter, including documentation, to provide reasonable support for management's assessment of the effectiveness of the registrant's internal control over financial reporting.
 
-[68 FR 36663, June 18, 2003, as amended at 70 FR 1594, Jan. 7, 2005; 71 FR 76595, Dec. 21, 2006; 72 FR 35321, June 27, 2007; 75 FR 57387, Sept. 21, 2010]
+[68 FR 36663, June 18, 2003, as amended at 70 FR 1594, Jan. 7, 2005; 71 FR 76595, Dec. 21, 2006; 72 FR 35321, June 27, 2007; 75 FR 57387, Sept. 21, 2010; 82 FR 17552, Apr. 12, 2017]

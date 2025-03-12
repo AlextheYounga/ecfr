@@ -8,6 +8,12 @@ Furnish in comparative columnar form the selected financial data for the registr
 
 (c) *Smaller reporting companies.* A registrant that qualifies as a smaller reporting company, as defined by § 229.10(f)(1), is not required to provide the information required by this Item.
 
+(d) *Emerging growth company.* An emerging growth company, as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter), that is providing the information called for by this Item in:
+
+(1) A Securities Act registration statement, need not present selected financial data for any period prior to the earliest audited financial statements presented in connection with the registrant's initial public offering of its common equity securities; or
+
+(2) A registration statement, periodic report, or other report filed under the Exchange Act, need not present selected financial data for any period prior to the earliest audited financial statements presented in connection with its first registration statement that became effective under the Exchange Act or the Securities Act.
+
 *Instructions to Item 301:* 1. The purpose of the selected financial data shall be to supply in a convenient and readable format selected financial data which highlight certain significant trends in the registrant's financial condition and results of operations.
 
 2. Subject to appropriate variation to conform to the nature of the registrant's business, the following items shall be included in the table of financial data: net sales or operating revenues; income (loss) from continuing operations; income (loss) from continuing operations per common share; total assets; long-term obligations and redeemable preferred stock (including long-term debt, capital leases, and redeemable preferred stock as defined in § 210.5-02.27(a) of Regulation S-X [17 CFR 210]; and cash dividends declared per common share. Registrants may include additional items which they believe would enhance an understanding of and would highlight other trends in their financial condition and results of operations.
@@ -30,4 +36,4 @@ C. If equity securities are being registered, a five year summary of dividends p
 
 7. For purposes of this rule, the rate of exchange means the noon buying rate in New York City for cable transfers in foreign currencies as certified for customs purposes by the Federal Reserve Bank of New York. The average rate means the average of the exchange rates on the last day of each month during a year.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 47 FR 54768, Dec. 6, 1982; 52 FR 30919, Aug. 18, 1987; 73 FR 958, Jan. 4, 2008; 74 FR 18617, Apr. 23, 2009]
+[47 FR 11401, Mar. 16, 1982, as amended at 47 FR 54768, Dec. 6, 1982; 52 FR 30919, Aug. 18, 1987; 73 FR 958, Jan. 4, 2008; 74 FR 18617, Apr. 23, 2009; 82 FR 17552, Apr. 12, 2017]

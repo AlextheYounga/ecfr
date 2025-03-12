@@ -1,5 +1,7 @@
 ##### § 22.913 Effective radiated power limits. #####
 
+Link to an amendment published at 82 FR 17582, Apr. 12, 2017.
+
 The effective radiated power (ERP) of transmitters in the Cellular Radiotelephone Service must not exceed the limits in this section.
 
 (a) *Maximum ERP.* In general, the effective radiated power (ERP) of base transmitters and cellular repeaters must not exceed 500 Watts. However, for those systems operating in areas more than 72 km (45 miles) from international borders that:
