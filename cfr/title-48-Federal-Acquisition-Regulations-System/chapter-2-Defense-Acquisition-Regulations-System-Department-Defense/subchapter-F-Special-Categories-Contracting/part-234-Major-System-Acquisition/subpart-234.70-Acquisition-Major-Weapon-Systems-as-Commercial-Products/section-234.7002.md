@@ -1,8 +1,8 @@
 ##### 234.7002 Policy. #####
 
-(a) *Major weapon systems.* (1) A DoD major weapon system may be treated as a commercial product, or acquired under procedures established for the acquisition of commercial products, only if -
+(a) *Major weapon systems.* (1) A DoD major weapon system may be treated as a commercial product, or acquired under procedures established for the acquisition of commercial products, only if—
 
-(i) The Secretary of Defense determines that -
+(i) The Secretary of Defense determines that—
 
 (A) The major weapon system is a commercial product as defined in FAR 2.101; and
 
@@ -12,19 +12,19 @@
 
 (2) The authority of the Secretary of Defense to make a determination under paragraph (a)(1) of this section may not be delegated below the level of the Deputy Secretary of Defense.
 
-(b) *Subsystems.* A subsystem of a major weapon system (other than a commercially available off-the-shelf item) shall be treated as a commercial product and acquired under procedures established for the acquisition of commercial products if -
+(b) *Subsystems.* A subsystem of a major weapon system (other than a commercially available off-the-shelf item) shall be treated as a commercial product and acquired under procedures established for the acquisition of commercial products if—
 
 (1) The subsystem is intended for a major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial products in accordance with paragraph (a) of this section; or
 
 (2) The contracting officer determines in writing that the subsystem is a commercial product.
 
-(c) *Components and spare parts.* (1) A component or spare part for a major weapon system (other than a commercially available off-the-shelf item) may be treated as a commercial product if -
+(c) *Components and spare parts.* (1) A component or spare part for a major weapon system (other than a commercially available off-the-shelf item) may be treated as a commercial product if—
 
-(i) The component or spare part is intended for -
+(i) The component or spare part is intended for—
 
 (A) A major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial products in accordance with paragraph (a) of this section; or
 
-(B) A subsystem of a major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial items in accordance with paragraph (b) of this section; or
+(B) A subsystem of a major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial products in accordance with paragraph (b) of this section; or
 
 (ii) The contracting officer determines in writing that the component or spare part is a commercial product.
 
@@ -34,7 +34,7 @@
 
 (1) To the extent necessary to make a determination of price reasonableness, the contracting officer shall require the offeror to submit prices paid for the same or similar commercial products under comparable terms and conditions by both Government and commercial customers.
 
-(2) If the contracting officer determines that the offeror cannot provide sufficient information described in paragraph (d)(1) of this section to determine the reasonableness of price, the contracting officer shall request the offeror to submit information on -
+(2) If the contracting officer determines that the offeror cannot provide sufficient information described in paragraph (d)(1) of this section to determine the reasonableness of price, the contracting officer shall request the offeror to submit information on—
 
 (i) Prices paid for the same or similar items under different terms and conditions;
 
