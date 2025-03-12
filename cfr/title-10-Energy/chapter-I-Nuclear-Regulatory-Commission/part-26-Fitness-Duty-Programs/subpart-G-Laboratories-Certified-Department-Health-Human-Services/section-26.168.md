@@ -1,5 +1,7 @@
 ##### § 26.168 Blind performance testing. #####
 
+Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
+
 (a) Each licensee and other entity shall submit blind performance test samples to the HHS-certified laboratory.
 
 (1) During the initial 90-day period of any contract with an HHS-certified laboratory (not including rewritten or renewed contracts), each licensee or other entity shall submit blind performance test samples to each HHS-certified laboratory with whom it contracts in the amount of at least 20 percent of the total number of specimens submitted (up to a maximum of 100 blind performance test samples) or 30 blind performance test samples, whichever is greater.

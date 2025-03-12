@@ -6,7 +6,7 @@ VA Notice of Total Set-Aside for Verified Veteran-Owned Small Businesses (NOV 20
 
 (a) *Definition.* For the Department of Veterans Affairs, “*Veteran-owned small business or VOSB”:*
 
-(1) Means a small business concern -
+(1) Means a small business concern—
 
 (i) Not less than 51 percent of which is owned by one or more Veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more Veteran(s);
 
@@ -58,8 +58,8 @@ VA Notice of Total Set-Aside for Verified Veteran-Owned Small Businesses (NOV 20
 
 (f) *Joint ventures.* A joint venture may be considered eligible as a VOSB if the joint venture is listed in VIP and complies with the requirements in 13 CFR 125.18(b), provided that any requirement therein that applies to an SDVO SBC is to be construed to also apply to a VIP-listed VOSB. A joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (d) of this clause will be performed by the aggregate of the joint venture participants.
 
-(g) *Precedence.* The VA Veterans First Contracting Program, as defined in VAAR 802.10, subpart 819.70, and this clause, takes precedence over any inconsistencies between the requirements of the SBA Program for SDVO SBCs and the VA Veterans First Contracting Program.
+(g) *Precedence.* The VA Veterans First Contracting Program, as defined in VAAR 802.101, subpart 819.70, and this clause, takes precedence over any inconsistencies between the requirements of the SBA Program for SDVO SBCs and the VA Veterans First Contracting Program.
 
 (h) *Misrepresentation.* Pursuant to 38 U.S.C. 8127(g), any business concern, including all its principals, that is determined by VA to have willfully and intentionally misrepresented a company's VOSB status is subject to debarment from contracting with the Department for a period of not less than five years (see VAAR 809.406-2, Causes for Debarment).
 
-(End of clause)[87 FR 63013, Oct. 18, 2022]
+(End of clause)[87 FR 63013, Oct. 18, 2022; 87 FR 71262, Nov. 22, 2022]

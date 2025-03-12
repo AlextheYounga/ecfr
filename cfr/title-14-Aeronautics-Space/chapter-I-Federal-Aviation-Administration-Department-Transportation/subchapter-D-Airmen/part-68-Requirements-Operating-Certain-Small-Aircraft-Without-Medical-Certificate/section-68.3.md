@@ -1,5 +1,7 @@
 ##### § 68.3 Medical education course requirements. #####
 
+Link to an amendment published at 87 FR 71238, Nov. 22, 2022.
+
 (a) The medical education course required to act as pilot in command in an operation under § 61.113(i) of this chapter must -
 
 (1) Educate pilots on conducting medical self-assessments;

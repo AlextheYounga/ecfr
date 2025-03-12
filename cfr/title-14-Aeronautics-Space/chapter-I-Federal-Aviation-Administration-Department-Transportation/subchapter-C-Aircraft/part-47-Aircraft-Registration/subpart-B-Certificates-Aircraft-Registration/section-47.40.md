@@ -1,5 +1,7 @@
 ##### § 47.40 Registration expiration and renewal. #####
 
+Link to an amendment published at 87 FR 71218, Nov. 22, 2022.
+
 (a) *Re-registration.* Each aircraft registered under this part before October 1, 2010, must be re-registered in accordance with this paragraph (a).
 
 (1) A Certificate of Aircraft Registration issued before October 1, 2010, expires on the expiration date identified in the following schedule that corresponds with the month in which the certificate was issued.

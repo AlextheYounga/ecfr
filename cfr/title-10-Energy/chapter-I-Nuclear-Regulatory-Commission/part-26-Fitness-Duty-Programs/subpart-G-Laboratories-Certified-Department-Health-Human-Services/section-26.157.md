@@ -1,5 +1,7 @@
 ##### § 26.157 Procedures. #####
 
+Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
+
 (a) HHS-certified laboratories shall develop, implement, and maintain clear and well-documented procedures for accession, receipt, shipment, and testing of urine specimens.
 
 (b) Written chain-of-custody procedures must describe the methods to be used to maintain control and accountability of specimens from receipt through completion of testing and reporting of results, during storage and shipping to another HHS-certified laboratory, if required, and continuing until final disposition of specimens.

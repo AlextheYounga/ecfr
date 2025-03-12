@@ -1,5 +1,7 @@
 ##### § 26.109 Urine specimen quantity. #####
 
+Link to an amendment published at 87 FR 71458, Nov. 22, 2022.
+
 (a) Licensees and other entities who are subject to this subpart shall establish a predetermined quantity of urine that donors are requested to provide when submitting a specimen. At a minimum, the predetermined quantity must include 30 milliliters (mL) to ensure that a sufficient quantity of urine is available for initial and confirmatory validity and drug tests at an HHS-certified laboratory, and for retesting of an aliquot of the specimen if requested by the donor under § 26.165(b). The licensee's or other entity's predetermined quantity may include more than 30 mL, if the testing program follows split specimen procedures, tests for additional drugs, or performs initial testing at a licensee testing facility. Where collected specimens are to be split under the provisions of this subpart, the predetermined quantity must include an additional 15 mL.
 
 (b) If the quantity of urine in the first specimen provided by the donor is less than 30 mL, the collector shall take the following steps:

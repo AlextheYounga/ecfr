@@ -1,5 +1,7 @@
 ##### § 26.405 Drug and alcohol testing. #####
 
+Link to an amendment published at 87 FR 71463, Nov. 22, 2022.
+
 (a) To provide means to deter and detect substance abuse, licensees and other entities who implement an FFD program under this subpart shall perform drug and alcohol testing that complies with the requirements of this section.
 
 (b) If the licensee or other entity elects to impose random testing for drugs and alcohol on the individuals identified in § 26.4(f), random testing must -

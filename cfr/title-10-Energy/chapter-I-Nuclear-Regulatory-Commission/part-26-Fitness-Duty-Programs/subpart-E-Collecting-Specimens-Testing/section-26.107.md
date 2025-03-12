@@ -1,5 +1,7 @@
 ##### § 26.107 Collecting a urine specimen. #####
 
+Link to an amendment published at 87 FR 71457, Nov. 22, 2022.
+
 (a) The collector shall direct the donor to go into the room or stall used for urination, provide a specimen of the quantity that has been predetermined by the licensee or other entity, as defined in § 26.109(a), not flush the toilet, and return with the specimen as soon as the donor has completed the void.
 
 (1) The donor shall provide his or her urine specimen in the privacy of a room, stall, or otherwise partitioned area (private area) that allows for individual privacy, except if a directly observed collection is required, as described in § 26.115;

@@ -1,5 +1,7 @@
 ##### § 68.9 Special Issuance process. #####
 
+Link to an amendment published at 87 FR 71238, Nov. 22, 2022.
+
 (a) *General.* An individual who has met the qualifications to operate an aircraft under § 61.113(i) of this chapter and is seeking to serve as a pilot in command under that section must have completed the process for obtaining an Authorization for Special Issuance of a Medical Certificate for each of the following:
 
 (1) A mental health disorder, limited to an established medical history or clinical diagnosis of -

@@ -1,5 +1,7 @@
 ##### § 26.4 FFD program applicability to categories of individuals. #####
 
+Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
+
 (a) All persons who are granted unescorted access to nuclear power reactor protected areas by the licensees in § 26.3(a) and, as applicable, (c) and perform the following duties shall be subject to an FFD program that meets all of the requirements of this part, except subpart K of this part:
 
 (1) Operating or onsite directing of the operation of systems and components that a risk-informed evaluation process has shown to be significant to public health and safety;

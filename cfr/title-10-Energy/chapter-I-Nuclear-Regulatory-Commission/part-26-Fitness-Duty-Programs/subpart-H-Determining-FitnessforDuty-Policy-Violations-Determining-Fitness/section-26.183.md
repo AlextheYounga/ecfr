@@ -1,5 +1,7 @@
 ##### § 26.183 Medical review officer. #####
 
+Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
+
 (a) *Qualifications.* The MRO shall be knowledgeable of this part and of the FFD policies of the licensees and other entities for whom the MRO provides services. The MRO shall be a physician holding either a Doctor of Medicine or Doctor of Osteopathy degree who is licensed to practice medicine by any State or Territory of the United States, the District of Columbia, or the Commonwealth of Puerto Rico. The MRO shall have passed an examination administered by a nationally-recognized MRO certification board or subspecialty board for medical practitioners in the field of medical review of Federally mandated drug tests.
 
 (b) *Relationships.* The MRO may be an employee of the licensee or other entity or a contractor. However, the MRO may not be an employee or agent of, or have any financial interest in, an HHS-certified laboratory or a contracted operator of a licensee testing facility for whom the MRO reviews drug test results. Additionally, the MRO may not derive any financial benefit by having the licensee or other entity use a specific drug testing laboratory or licensee testing facility operating contractor and may not have any agreement with such parties that may be construed as a potential conflict of interest. Examples of relationships between laboratories and MROs that create conflicts of interest, or the appearance of such conflicts, include, but are not limited to -

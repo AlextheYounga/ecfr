@@ -1,5 +1,7 @@
 ##### § 26.163 Cutoff levels for drugs and drug metabolites. #####
 
+Link to an amendment published at 87 FR 71460, Nov. 22, 2022.
+
 (a) *Initial drug testing.* (1) HHS-certified laboratories shall apply the following cutoff levels for initial testing of specimens to determine whether they are negative for the indicated drugs and drug metabolites, except if validity testing indicates that the specimen is dilute or the licensee or other entity has established more stringent cutoff levels:
 
 Initial Test Cutoff Levels for Drugs and Drug Metabolites

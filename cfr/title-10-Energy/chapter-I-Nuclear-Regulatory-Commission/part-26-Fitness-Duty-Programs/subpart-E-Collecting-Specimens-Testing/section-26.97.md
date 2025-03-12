@@ -1,5 +1,7 @@
 ##### § 26.97 Conducting an initial test for alcohol using a specimen of oral fluids. #####
 
+Link to an amendment published at 87 FR 71457, Nov. 22, 2022.
+
 (a) To perform the initial test, the collector shall -
 
 (1) Check the expiration date on the device and show it to the donor (the device may not be used after its expiration date);

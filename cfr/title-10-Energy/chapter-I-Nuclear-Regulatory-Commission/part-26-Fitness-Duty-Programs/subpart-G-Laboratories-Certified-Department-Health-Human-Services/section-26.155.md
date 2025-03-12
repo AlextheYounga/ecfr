@@ -1,5 +1,7 @@
 ##### § 26.155 Laboratory personnel. #####
 
+Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
+
 (a) *Day-to-day management of the HHS-certified laboratory.* HHS-certified laboratories shall have a responsible person to assume professional, organizational, educational, and administrative responsibility for the laboratory's drug testing facilities.
 
 (1) This individual shall have documented scientific qualifications in analytical forensic toxicology. Minimum qualifications are as follows:

@@ -6,9 +6,9 @@ VA Notice Of Total set-Aside For Verified Service-Disabled Veteran-Owned Small B
 
 (a) *Definition.* for the Department of Veterans Affairs, “*Service-disabled Veteran-owned small business concern or SDVOSB”:*
 
-(1) Means a small business concern -
+(1) Means a small business concern—
 
-(i) Not less than 51 percent of which is owned by one or more service-disabled Veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled Veterans or eligible surviving spouses (see VAAR 802.201, Surviving Spouse definition);
+(i) Not less than 51 percent of which is owned by one or more service-disabled Veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled Veterans or eligible surviving spouses (see VAAR802.101, Surviving Spouse definition);
 
 (ii) The management and daily business operations of which are controlled by one or more service-disabled Veterans (or eligible surviving spouses) or, in the case of a service-disabled Veteran with permanent and severe disability, the spouse or permanent caregiver of such Veteran;
 
@@ -60,4 +60,4 @@ VA Notice Of Total set-Aside For Verified Service-Disabled Veteran-Owned Small B
 
 (h) *Misrepresentation.* Pursuant to 38 U.S.C. 8127(g), any business concern, including all its principals, that is determined by VA to have willfully and intentionally misrepresented a company's SDVOSB status is subject to debarment from contracting with the Department for a period of not less than five years (see VAAR 809.406-2 Causes for Debarment).
 
-(End of clause)[87 FR 63012, Oct. 18, 2022]
+(End of clause)[87 FR 63012, Oct. 18, 2022; 87 FR 71262, Nov. 22, 2022]

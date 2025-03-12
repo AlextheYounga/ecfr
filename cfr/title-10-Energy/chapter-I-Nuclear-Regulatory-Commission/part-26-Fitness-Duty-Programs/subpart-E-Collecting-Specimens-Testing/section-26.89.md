@@ -1,5 +1,7 @@
 ##### § 26.89 Preparing to collect specimens for testing. #####
 
+Link to an amendment published at 87 FR 71457, Nov. 22, 2022.
+
 (a) When an individual has been notified of a requirement for testing and does not appear at the collection site within the time period specified by FFD program procedures, the collector shall inform FFD program management that the individual has not reported for testing. FFD program management shall ensure that the necessary steps are taken to determine whether the individual's undue tardiness or failure to appear for testing constitutes a violation of the licensee's or other entity's FFD policy. If FFD program management determines that the undue tardiness or failure to report for testing represents an attempt to subvert the testing process, the licensee or other entity shall impose on the individual the sanctions in § 26.75(b). If FFD program management determines that the undue tardiness or failure to report does not represent a subversion attempt, the licensee or other entity may not impose sanctions but shall ensure that the individual is tested at the earliest reasonable and practical opportunity after locating the individual.
 
 (b) Donors shall provide acceptable identification before testing.

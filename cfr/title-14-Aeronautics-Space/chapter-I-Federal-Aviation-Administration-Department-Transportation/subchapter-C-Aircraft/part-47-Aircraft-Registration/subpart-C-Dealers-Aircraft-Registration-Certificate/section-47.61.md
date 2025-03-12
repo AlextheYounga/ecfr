@@ -1,5 +1,7 @@
 ##### § 47.61 Dealer's Aircraft Registration Certificates. #####
 
+Link to an amendment published at 87 FR 71218, Nov. 22, 2022.
+
 (a) The FAA issues a Dealer's Aircraft Registration Certificate, AC Form 8050-6, to U.S. manufacturers and dealers to -
 
 (1) Allow manufacturers to make any required flight tests of aircraft.

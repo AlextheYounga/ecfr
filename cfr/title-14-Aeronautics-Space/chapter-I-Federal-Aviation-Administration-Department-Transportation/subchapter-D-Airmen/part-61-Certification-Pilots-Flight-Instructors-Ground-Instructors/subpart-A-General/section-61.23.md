@@ -1,5 +1,7 @@
 ##### § 61.23 Medical certificates: Requirement and duration. #####
 
+Link to an amendment published at 87 FR 71236, Nov. 22, 2022.Link to an amendment published at 87 FR 71237, Nov. 22, 2022.
+
 (a) *Operations requiring a medical certificate.* Except as provided in paragraphs (b) and (c) of this section, a person -
 
 (1) Must hold a first-class medical certificate:

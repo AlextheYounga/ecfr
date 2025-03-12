@@ -1,5 +1,7 @@
 ##### § 26.167 Quality assurance and quality control. #####
 
+Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
+
 (a) *Quality assurance program.* Each HHS-certified laboratory shall have a quality assurance program that encompasses all aspects of the testing process, including, but not limited to, specimen accessioning, chain of custody, security and reporting of results, initial and confirmatory testing, certification of calibrators and controls, and validation of analytical procedures. The performance characteristics (e.g., accuracy, precision, LOD, limit of quantitation (LOQ), specificity) of each test must be validated and documented for each test. Validation of procedures must document that carryover does not affect the donor's specimen results. Periodic re-verification of analytical procedures is required. Quality assurance procedures must be designed, implemented, and reviewed to monitor the conduct of each step of the testing process.
 
 (b) *Calibrators and controls required.* Each analytical run of specimens for which an initial or confirmatory validity test, or an initial or confirmatory drug test, is being performed must include the appropriate calibrators and controls.

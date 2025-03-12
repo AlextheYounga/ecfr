@@ -1,5 +1,7 @@
 ##### § 26.717 Fitness-for-duty program performance data. #####
 
+Link to an amendment published at 87 FR 71463, Nov. 22, 2022.
+
 (a) Licensees and other entities shall collect and compile FFD program performance data for each FFD program that is subject to this subpart.
 
 (b) The FFD program performance data must include the following information:

@@ -1,5 +1,7 @@
 ##### § 26.153 Using certified laboratories for testing urine specimens. #####
 
+Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
+
 (a) Licensees and other entities who are subject to this part shall use only laboratories certified under the Department of Health and Human Services (HHS) Mandatory Guidelines for Federal Workplace Drug Testing Programs [published in the Federal Register on April 11, 1988 (53 FR 11970), and as amended, June 9, 1994 (59 FR 29908), November 13,1998 (63 FR 63483), and April 13, 2004 (69 FR 19643)] for specimen validity and drug testing, except as permitted under § 26.31(d)(3)(ii). Information concerning the current certification status of laboratories is available from the Division of Workplace Programs, Center for Substance Abuse Prevention, Substance Abuse and Mental Health Services Administration, Room 815, 5600 Fishers Lane, Rockwall 2 Bldg., Rockville, Maryland 20857.
 
 (b) HHS-certified laboratories shall have the capability, at the same premises, to perform both initial and confirmatory tests for specimen validity and for each drug and drug metabolite for which the HHS-certified laboratory provides services to the licensee or other entity.

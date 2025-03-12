@@ -150,7 +150,9 @@ Note to paragraph (e):
 
 (o) *Cambodia.* It is the policy of the United States to deny licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, except that a license or other approval may be issued, on a case-by-case basis, for defense articles and defense services in furtherance of conventional weapons destruction or humanitarian mine action activities.
 
-(p)-(r) [Reserved]
+(p)-(q) [Reserved]
+
+(r) *Cyprus.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Cyprus, except that a license or other approval may be issued, on a case-by-case basis, for the United Nations Forces in Cyprus (UNFICYP) or for civilian end-users. This policy of denial, and the status of Cyprus as a proscribed destination, is suspended from October 1, 2022, through September 30, 2023.
 
 (s) *Zimbabwe.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Zimbabwe, except that a license or other approval may be issued, on a case-by-case basis, for the temporary export of firearms and ammunition for personal use by individuals (not for resale or retransfer, including to the Government of Zimbabwe).
 

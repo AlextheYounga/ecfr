@@ -1,5 +1,7 @@
 ##### § 47.17 Fees. #####
 
+Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
+
 (a) The fees for applications under this part are as follows:
 
 |            (1) Certificate of Aircraft Registration (each aircraft)             |$5.00|

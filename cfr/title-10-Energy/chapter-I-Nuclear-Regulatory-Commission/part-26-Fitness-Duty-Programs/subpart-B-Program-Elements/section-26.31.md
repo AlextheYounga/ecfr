@@ -1,5 +1,7 @@
 ##### § 26.31 Drug and alcohol testing. #####
 
+Link to an amendment published at 87 FR 71456, Nov. 22, 2022.
+
 (a) *General.* To provide a means to deter and detect substance abuse, licensees and other entities who are subject to this part shall implement drug and alcohol testing programs for individuals who are subject to this subpart.
 
 (b) *Assuring the honesty and integrity of FFD program personnel.* (1) Licensees and other entities who are subject to this subpart shall carefully select and monitor FFD program personnel, as defined in § 26.4(g), based on the highest standards of honesty and integrity, and shall implement measures to ensure that these standards are maintained. The measures must ensure that the honesty and integrity of these individuals are not compromised and that FFD program personnel are not subject to influence attempts attributable to personal relationships with any individuals who are subject to testing, an undetected or untreated substance abuse problem, or other factors. At a minimum, these measures must include the following considerations:

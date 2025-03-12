@@ -1,5 +1,7 @@
 ##### § 26.85 Collector qualifications and responsibilities. #####
 
+Link to an amendment published at 87 FR 71456, Nov. 22, 2022.
+
 (a) *Urine collector qualifications.* Urine collectors shall be knowledgeable of the requirements of this part and the FFD policy and procedures of the licensee or other entity for whom collections are performed, and shall keep current on any changes to urine collection procedures. Collectors shall receive qualification training that meets the requirements of this paragraph and demonstrate proficiency in applying the requirements of this paragraph before serving as a collector. At a minimum, qualification training must provide instruction on the following subjects:
 
 (1) All steps necessary to complete a collection correctly and the proper completion and transmission of the custody-and-control form;

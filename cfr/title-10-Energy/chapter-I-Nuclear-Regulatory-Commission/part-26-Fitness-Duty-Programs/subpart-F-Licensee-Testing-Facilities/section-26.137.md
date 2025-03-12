@@ -1,5 +1,7 @@
 ##### § 26.137 Quality assurance and quality control. #####
 
+Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
+
 (a) *Quality assurance program.* Each licensee testing facility shall have a quality assurance program that encompasses all aspects of the testing process including, but not limited to, specimen acquisition, chain of custody, security and reporting of results, validity screening (if validity screening tests are performed), initial validity and drug testing, and validation of analytical procedures. Quality assurance procedures must be designed, implemented, and reviewed to monitor the conduct of each step of the process of validity testing and testing for drugs and drug metabolites.
 
 (b) *Performance testing and quality control requirements for validity screening tests.* (1) Licensee testing facilities may rely on validity screening tests to determine the need for initial tests of specimen validity either at the licensee testing facility or HHS-certified laboratory. Licensees and other entities shall ensure that the HHS-certified laboratory is capable of conducting confirmatory testing for any adulterant for which the licensee testing facility conducts validity screening tests. Licensee testing facilities shall use only validity screening tests that meet the following criteria:

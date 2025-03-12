@@ -1,5 +1,7 @@
 ##### § 47.15 Registration number. #####
 
+Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
+
 (a) *Number required.* An applicant for aircraft registration must place a U.S. registration number (registration mark) on the Aircraft Registration Application, AC Form 8050-1, and on any evidence submitted with the application. There is no charge for the assignment of numbers provided in this paragraph. This paragraph does not apply to an aircraft manufacturer who applies for a group of U.S. registration numbers under paragraph (c) of this section; a person who applies for a special registration number under paragraphs (d) through (f) of this section; or a holder of a Dealer's Aircraft Registration Certificate, AC Form 8050-6, who applies for a temporary registration number under § 47.16.
 
 (1) *Aircraft not previously registered anywhere.* The applicant must obtain the U.S. registration number from the Registry by request in writing describing the aircraft by make, type, model, and serial number (or, if it is amateur-built, as provided in § 47.33(b)) and stating that the aircraft has not previously been registered anywhere. If the aircraft was brought into the United States from a foreign country, the applicant must submit evidence that the aircraft has never been registered in a foreign country.

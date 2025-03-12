@@ -1,5 +1,7 @@
 ##### § 26.129 Assuring specimen security, chain of custody, and preservation. #####
 
+Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
+
 (a) Each licensee testing facility must be secure at all times. Each licensee or other entity shall have sufficient security measures in place to control access to the licensee testing facility and to ensure that no unauthorized personnel handle specimens or gain access to the licensee testing facility's processes or areas where records are stored. Access to these secured areas must be limited to specifically authorized individuals whose authorization is documented. All authorized visitors and maintenance and service personnel shall be escorted at all times while in the licensee testing facility.
 
 (b) When specimens are received, licensee testing facility personnel shall inspect each package for evidence of possible tampering and shall compare information on the specimen containers within each package to the information on the accompanying custody-and-control forms. Licensee testing facility personnel shall attempt to resolve any discrepancies identified in the information on specimen bottles or on the accompanying custody-and-control forms. When resolving any discrepancies, licensee testing facility personnel shall obtain a memorandum for the record from the specimen collector involved in the discrepancy to document correction of the discrepancy. This memorandum must accompany the specimen(s) and custody-and-control forms to the HHS-certified laboratory if the specimen(s) must be transferred.

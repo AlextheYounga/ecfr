@@ -1,5 +1,7 @@
 ##### § 26.185 Determining a fitness-for-duty policy violation. #####
 
+Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
+
 (a) *MRO review required.* A positive, adulterated, substituted, dilute, or invalid drug test result does not automatically identify an individual as having used drugs in violation of the NRC's regulations, or the licensee's or other entity's FFD policy, or as having attempted to subvert the testing process. An individual who has a detailed knowledge of possible alternate medical explanations is essential to the review of the results. The MRO shall review all positive, adulterated, substituted, and invalid test results from the HHS-certified laboratory to determine whether the donor has violated the FFD policy before reporting the results to the licensee's or other entity's designated representative.
 
 (b) *Reporting of initial test results prohibited.* Neither the MRO nor MRO staff may report positive, adulterated, substituted, dilute, or invalid initial test results that are received from the HHS-certified laboratory to the licensee or other entity.

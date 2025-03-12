@@ -1,5 +1,7 @@
 ##### § 47.31 Application. #####
 
+Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
+
 (a) Each applicant for a Certificate of Aircraft Registration, AC Form 8050-3 must submit the following to the Registry -
 
 (1) An Aircraft Registration Application, AC Form 8050-1, signed by the applicant in the manner prescribed by § 47.13;

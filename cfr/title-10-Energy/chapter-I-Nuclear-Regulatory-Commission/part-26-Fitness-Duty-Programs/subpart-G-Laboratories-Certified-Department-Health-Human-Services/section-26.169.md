@@ -1,5 +1,7 @@
 ##### § 26.169 Reporting Results. #####
 
+Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
+
 (a) The HHS-certified laboratory shall report test results to the licensee's or other entity's MRO within 5 business days after receiving the specimen from the licensee or other entity. Before reporting any test result to the MRO, the laboratory's certifying scientist shall certify the result as correct. The report must identify the substances for which testing was performed; the results of the validity and drug tests; the cutoff levels for each; any indications of tampering, adulteration, or substitution that may be present; the specimen identification number assigned by the licensee or other entity; and the specimen identification number assigned by the laboratory.
 
 (b) If licensees or other entities specify cutoff levels for drugs or drug metabolites that are more stringent than those specified in this part, the laboratory need only conduct the more stringent tests and shall report the results of the initial and confirmatory tests only for the more stringent cutoff levels.

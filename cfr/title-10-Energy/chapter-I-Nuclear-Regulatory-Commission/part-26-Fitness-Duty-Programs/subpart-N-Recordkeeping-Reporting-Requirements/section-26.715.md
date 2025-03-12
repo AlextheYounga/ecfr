@@ -1,5 +1,7 @@
 ##### § 26.715 Recordkeeping requirements for collection sites, licensee testing facilities, and laboratories certified by the Department of Health and Human Services. #####
 
+Link to an amendment published at 87 FR 71463, Nov. 22, 2022.
+
 (a) Collection sites providing services to licensees and other entities who are subject to this subpart, licensee testing facilities, and HHS-certified laboratories shall maintain and make available documentation of all aspects of the testing process for at least 2 years or until the completion of all legal proceedings related to a determination of an FFD violation, whichever is later. This 2-year period may be extended on written notification by the NRC or by any licensee or other entity for whom services are being provided.
 
 (b) Documentation that must be retained includes, but is not limited to, the following:

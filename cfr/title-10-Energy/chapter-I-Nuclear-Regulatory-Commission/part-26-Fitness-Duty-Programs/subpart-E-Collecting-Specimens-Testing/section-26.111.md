@@ -1,5 +1,7 @@
 ##### § 26.111 Checking the acceptability of the urine specimen. #####
 
+Link to an amendment published at 87 FR 71458, Nov. 22, 2022.
+
 (a) Immediately after the donor provides the urine specimen to the collector, including specimens of less than 30 mL but greater than 15 mL, the collector shall measure the temperature of the specimen. The temperature-measuring device used must accurately reflect the temperature of the specimen and not contaminate the specimen. The time from urination to temperature measurement may not exceed 4 minutes. If the temperature of a urine specimen is outside the range of 90 °F to 100 °F (32 °C to 38 °C), that is a reason to believe the donor may have altered or substituted the specimen.
 
 (b) Immediately after the donor provides a urine specimen, including specimens of less than 30 mL but equal to or greater than 15 mL, the collector shall also inspect the specimen to determine its color and clarity and look for any signs of contaminants or adulteration. The collector shall note any unusual findings on the custody-and-control form.

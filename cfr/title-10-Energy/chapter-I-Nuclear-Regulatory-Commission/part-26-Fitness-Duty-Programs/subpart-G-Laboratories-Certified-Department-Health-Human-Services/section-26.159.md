@@ -1,5 +1,7 @@
 ##### § 26.159 Assuring specimen security, chain of custody, and preservation. #####
 
+Link to an amendment published at 87 FR 71460, Nov. 22, 2022.
+
 (a) The HHS-certified laboratories performing services for licensees and other entities under this part shall be secure at all times. Each laboratory shall have in place sufficient security measures to control access to the premises and to ensure that no unauthorized personnel handle specimens or gain access to the laboratory processes or areas where records are stored. Access to these secured areas must be limited to specially authorized individuals whose authorization is documented. All authorized visitors, and maintenance and service personnel, shall be escorted at all times in the laboratory, except personnel who are authorized to conduct inspections and audits on behalf of licensees, other entities, the NRC, or the HHS Secretary, and emergency personnel (including but not limited to firefighters and medical rescue teams).
 
 (b) When a shipment of specimens is received, laboratory personnel shall inspect each package for evidence of possible tampering and shall compare information on specimen bottles within each package to the information on the accompanying custody-and-control forms.

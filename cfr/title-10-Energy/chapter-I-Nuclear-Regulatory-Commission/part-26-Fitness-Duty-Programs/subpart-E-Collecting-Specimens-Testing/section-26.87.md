@@ -1,5 +1,7 @@
 ##### § 26.87 Collection sites. #####
 
+Link to an amendment published at 87 FR 71457, Nov. 22, 2022.
+
 (a) Each FFD program must have one or more designated collection sites that have all necessary personnel, materials, equipment, facilities, and supervision to collect specimens for drug testing and to perform alcohol testing. Each collection site must provide for the collection, security, temporary storage, and shipping or transportation of urine specimens to a drug testing laboratory; the collection of oral fluids or breath specimens; and the security of alcohol testing devices and test results. A properly equipped mobile facility that meets the requirements of this section is an acceptable collection site.
 
 (b) The collection site must provide for the donor's visual privacy while the donor and collector are viewing the results of an alcohol test, and for individual privacy while the donor is submitting a urine specimen, except if a directly observed urine specimen collection is required. Unauthorized personnel may not be present for the specimen collection.

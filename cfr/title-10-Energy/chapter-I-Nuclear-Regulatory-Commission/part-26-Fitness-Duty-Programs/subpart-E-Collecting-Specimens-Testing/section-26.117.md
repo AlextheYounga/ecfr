@@ -1,5 +1,7 @@
 ##### § 26.117 Preparing urine specimens for storage and shipping. #####
 
+Link to an amendment published at 87 FR 71458, Nov. 22, 2022.
+
 (a) Both the donor and the collector shall keep the donor's urine specimen(s) in view at all times before the specimen(s) are sealed and labeled. If any specimen or aliquot is transferred to another container, the collector shall ask the donor to observe the transfer and sealing of the container with a tamper-evident seal.
 
 (b) Both the collector and the donor shall be present (at the same time) during the procedures outlined in this section.

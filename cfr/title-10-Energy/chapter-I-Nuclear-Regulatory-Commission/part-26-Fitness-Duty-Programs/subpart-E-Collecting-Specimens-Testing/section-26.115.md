@@ -1,5 +1,7 @@
 ##### § 26.115 Collecting a urine specimen under direct observation. #####
 
+Link to an amendment published at 87 FR 71458, Nov. 22, 2022.
+
 (a) Procedures for collecting urine specimens must provide for the donor's privacy unless directed by this subpart or the MRO or FFD program manager determines that a directly observed collection is warranted. The following circumstances constitute the exclusive grounds for performing a directly observed collection:
 
 (1) The donor has presented, at this or a previous collection, a urine specimen that the HHS-certified laboratory reported as being substituted, adulterated, or invalid to the MRO and the MRO reported to the licensee or other entity that there is no adequate medical explanation for the result;

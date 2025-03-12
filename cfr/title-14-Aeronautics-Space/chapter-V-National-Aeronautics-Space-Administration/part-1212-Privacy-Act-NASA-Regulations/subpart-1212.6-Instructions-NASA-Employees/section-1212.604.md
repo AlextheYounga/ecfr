@@ -1,5 +1,7 @@
 ##### § 1212.604 Social security numbers. #####
 
+Link to an amendment published at 87 FR 71240, Nov. 22, 2022.
+
 (a) It is unlawful for NASA to deny to individuals any rights, benefits, or privileges provided by law because of the individuals' refusal to disclose their social security numbers, except where:
 
 (1) The disclosure is required by law; or

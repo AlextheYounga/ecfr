@@ -1,5 +1,7 @@
 ##### § 26.5 Definitions. #####
 
+Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
+
 *Acute fatigue* means fatigue from causes (e.g., restricted sleep, sustained wakefulness, task demands) occurring within the past 24 hours.
 
 *Adulterated specimen* means a urine specimen that has been altered, as evidenced by test results showing either a substance that is not a normal constituent of urine or showing an abnormal concentration of an endogenous substance.
