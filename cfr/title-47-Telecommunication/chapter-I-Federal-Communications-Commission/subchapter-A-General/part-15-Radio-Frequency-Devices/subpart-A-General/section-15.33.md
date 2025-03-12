@@ -1,5 +1,7 @@
 ##### § 15.33 Frequency range of radiated measurements. #####
 
+Link to an amendment published at 84 FR 25691, June 4, 2019.
+
 (a) For an intentional radiator, the spectrum shall be investigated from the lowest radio frequency signal generated in the device, without going below 9 kHz, up to at least the frequency shown in this paragraph:
 
 (1) If the intentional radiator operates below 10 GHz: to the tenth harmonic of the highest fundamental frequency or to 40 GHz, whichever is lower.

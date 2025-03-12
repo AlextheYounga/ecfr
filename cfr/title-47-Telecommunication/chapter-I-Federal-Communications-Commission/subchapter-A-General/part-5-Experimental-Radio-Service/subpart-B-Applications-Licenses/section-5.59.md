@@ -1,5 +1,7 @@
 ##### § 5.59 Forms to be used. #####
 
+Link to an amendment published at 84 FR 25690, June 4, 2019.
+
 (a) *Application for conventional, program, medical, and compliance testing experimental radio licenses.* (1) *Application for new authorization or modification of existing authorization.* Entities must submit FCC Form 442.
 
 (2) *Application for renewal of experimental authorization.* Application for renewal of station license shall be submitted on FCC Form 405. Unless otherwise directed by the Commission, each application for renewal of license shall be filed at least 60 days prior to the expiration date of the license to be renewed.

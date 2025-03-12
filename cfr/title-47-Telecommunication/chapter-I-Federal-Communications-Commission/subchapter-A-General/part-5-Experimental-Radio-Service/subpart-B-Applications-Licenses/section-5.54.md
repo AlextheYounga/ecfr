@@ -1,5 +1,7 @@
 ##### § 5.54 Types of authorizations available. #####
 
+Link to an amendment published at 84 FR 25690, June 4, 2019.
+
 The Commission issues the following types of experimental authorizations:
 
 (a)(1) *Conventional experimental radio license.* This type of license is issued for a specific research or experimentation project (or a series of closely-related research or experimentation projects), a product development trial, or a market trial. Widely divergent and unrelated experiments must be conducted under separate licenses.

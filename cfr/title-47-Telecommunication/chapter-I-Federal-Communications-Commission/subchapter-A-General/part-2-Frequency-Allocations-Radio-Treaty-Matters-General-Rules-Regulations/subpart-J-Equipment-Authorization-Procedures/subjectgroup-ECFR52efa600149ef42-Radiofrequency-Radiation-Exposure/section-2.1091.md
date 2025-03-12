@@ -1,5 +1,7 @@
 ##### § 2.1091 Radiofrequency radiation exposure evaluation: mobile devices. #####
 
+Link to an amendment published at 84 FR 25689, June 4, 2019.
+
 (a) Requirements of this section are a consequence of Commission responsibilities under the National Environmental Policy Act to evaluate the environmental significance of its actions. See subpart I of part 1 of this chapter, in particular § 1.1307(b).
 
 (b) For purposes of this section, a mobile device is defined as a transmitting device designed to be used in other than fixed locations and to generally be used in such a way that a separation distance of at least 20 centimeters is normally maintained between the transmitter's radiating structure(s) and the body of the user or nearby persons. In this context, the term “fixed location” means that the device is physically secured at one location and is not able to be easily moved to another location. Transmitting devices designed to be used by consumers or workers that can be easily re-located, such as wireless devices associated with a personal computer, are considered to be mobile devices if they meet the 20 centimeter separation requirement.

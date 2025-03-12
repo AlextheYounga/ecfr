@@ -1,5 +1,7 @@
 ##### § 64.2103 Retention of call attempt records. #####
 
+Link to an amendment published at 84 FR 25706, June 4, 2019.
+
 (a) Except as described in § 64.2107, each covered provider shall record and retain information about each call attempt to a rural OCN from subscriber lines for which the covered provider makes the initial long-distance call path choice in a readily retrievable form for a period that includes the six most recent complete calendar months.
 
 (b) Affiliated covered providers may record and retain the information required by this rule individually or in the aggregate.

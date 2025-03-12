@@ -1,5 +1,7 @@
 ##### § 15.205 Restricted bands of operation. #####
 
+Link to an amendment published at 84 FR 25691, June 4, 2019.
+
 (a) Except as shown in paragraph (d) of this section, only spurious emissions are permitted in any of the frequency bands listed below:
 
 |          MHz           |        MHz        |     MHz     |     GHz      |

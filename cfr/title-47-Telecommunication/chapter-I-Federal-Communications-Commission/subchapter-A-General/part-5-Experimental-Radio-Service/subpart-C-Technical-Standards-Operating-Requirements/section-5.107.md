@@ -1,5 +1,7 @@
 ##### § 5.107 Transmitter control requirements. #####
 
+Link to an amendment published at 84 FR 25690, June 4, 2019.
+
 Each licensee shall be responsible for maintaining control of the transmitter authorized under its station authorization, including the ability to terminate transmissions should interference occur.
 
 (a) *Conventional experimental radio stations.* The licensee shall ensure that transmissions are in conformance with the operating characteristics prescribed in the station authorization and that the station is operated only by persons duly authorized by the licensee.

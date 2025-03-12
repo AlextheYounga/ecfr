@@ -94,7 +94,7 @@
 
 (*5*) South of 34°27′ N lat. (Southern Management Area), recreational fishing for the RCG Complex is open from March 1 through December 31 (*i.e.,* it's closed from January 1 through the last day in February).
 
-(B) *Bag limits, hook limits.* In times and areas when the recreational season for the RCG Complex is open, there is a limit of 2 hooks and 1 line when fishing for the RCG complex and lingcod. The bag limit is 10 RCG Complex fish per day coastwide. Retention of yelloweye rockfish, bronzespotted rockfish, and cowcod is prohibited. Within the 10 RCG Complex fish per day limit, no more than 3 may be black rockfish, no more than 3 may be cabezon, and no more than 2 may be canary rockfish. Multi-day limits are authorized by a valid permit issued by California and must not exceed the daily limit multiplied by the number of days in the fishing trip.
+(B) *Bag limits, hook limits.* In times and areas when the recreational season for the RCG Complex is open, there is a limit of 2 hooks and 1 line when fishing for the RCG complex and lingcod. The bag limit is 10 RCG Complex fish per day coastwide. Retention of yelloweye rockfish, bronzespotted rockfish, and cowcod is prohibited. Within the 10 RCG Complex fish per day limit, no more than 4 may be black rockfish, no more than 3 may be cabezon, and no more than 3 may be canary rockfish. Multi-day limits are authorized by a valid permit issued by California and must not exceed the daily limit multiplied by the number of days in the fishing trip.
 
 (C) *Size limits.* The following size limits apply: cabezon may be no smaller than 15 in (38 cm) total length; and kelp and other greenling may be no smaller than 12 in (30 cm) total length.
 
@@ -116,7 +116,7 @@
 
 (*1*) The bag limit between 42° N lat. (California/Oregon border) and 40°10′ N lat. (Northern Management Area) is 2 lingcod per day.
 
-(*2*) The bag limit between 40°10′ N lat. and the U.S. border with Mexico (Mendocino Management Area, San Francisco Management Area, Central Management Area, and Southern Management Area) is 1 lingcod per day.
+(*2*) The bag limit between 40°10′ N lat. and the U.S. border with Mexico (Mendocino Management Area, San Francisco Management Area, Central Management Area, and Southern Management Area) is 2 lingcod per day.
 
 (C) *Size limits.* Lingcod may be no smaller than 22 in (56 cm) total length.
 
@@ -144,4 +144,4 @@
 
 (d) *Salmon bycatch.* Recreational fisheries that are not accounted for within pre-season salmon modeling may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60995, Oct. 1, 2010, as amended at 76 FR 11392, Mar. 2, 2011; 76 FR 27559, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 76 FR 79133, Dec. 21, 2011; 77 FR 12504, Mar. 1, 2012; 77 FR 55158, Sept. 7, 2012; 77 FR 63761, Oct. 17, 2012; 78 FR 642, Jan. 3, 2013; 78 FR 26279, May 6, 2013; 80 FR 12601, Mar. 10, 2015; 80 FR 61766, Oct. 14, 2015; 82 FR 9668, Feb. 7, 2017; 82 FR 21951, May 11, 2017; 82 FR 48666, Oct. 19, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 13431, Mar. 29, 2018; 83 FR 16008, Apr. 13, 2018; 83 FR 48728, Sept. 27, 2018; 83 FR 64014, Dec. 12, 2018]
+[75 FR 60995, Oct. 1, 2010, as amended at 76 FR 11392, Mar. 2, 2011; 76 FR 27559, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 76 FR 79133, Dec. 21, 2011; 77 FR 12504, Mar. 1, 2012; 77 FR 55158, Sept. 7, 2012; 77 FR 63761, Oct. 17, 2012; 78 FR 642, Jan. 3, 2013; 78 FR 26279, May 6, 2013; 80 FR 12601, Mar. 10, 2015; 80 FR 61766, Oct. 14, 2015; 82 FR 9668, Feb. 7, 2017; 82 FR 21951, May 11, 2017; 82 FR 48666, Oct. 19, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 13431, Mar. 29, 2018; 83 FR 16008, Apr. 13, 2018; 83 FR 48728, Sept. 27, 2018; 83 FR 64014, Dec. 12, 2018; 84 FR 25720, June 4, 2019]

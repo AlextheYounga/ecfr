@@ -1,5 +1,7 @@
 ##### § 5.55 Filing of applications. #####
 
+Link to an amendment published at 84 FR 25690, June 4, 2019.
+
 (a) To assure that necessary information is supplied in a consistent manner by applicants, standard forms must be used, except for applications for special temporary authorization (STA) and reports submitted for Commission consideration. Standard numbered forms for the Experimental Radio Service are described in § 5.59.
 
 (b) Applications requiring fees as set forth in part 1, subpart G of this chapter must be filed in accordance with § 0.401(b) of this chapter.

@@ -1,5 +1,7 @@
 ##### § 64.2107 Reduced recording and retention requirements for qualifying providers under the Safe Harbor. #####
 
+Link to an amendment published at 84 FR 25706, June 4, 2019.
+
 (a)(1) A covered provider may reduce its recording and retention requirements under § 64.2103 if it files one of the following certifications, signed by an officer or director of the covered provider regarding the accuracy and completeness of the information provided, in WC Docket No. 13-39.
 
 I \_\_\_ (name), \_\_\_ (title), an officer of \_\_\_ (entity), certify that\_\_\_ (entity) uses no intermediate providers;

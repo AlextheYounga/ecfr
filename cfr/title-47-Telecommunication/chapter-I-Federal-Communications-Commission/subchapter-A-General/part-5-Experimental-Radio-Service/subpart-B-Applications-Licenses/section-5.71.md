@@ -1,5 +1,7 @@
 ##### § 5.71 License period. #####
 
+Link to an amendment published at 84 FR 25690, June 4, 2019.
+
 (a) *Conventional experimental radio licenses.* (1) The regular license term is 2 years. An applicant may request a license term up to 5 years, but must provide justification for a license of that duration.
 
 (2) A license may be renewed for an additional term not exceeding 5 years, upon an adequate showing of need to complete the experiment.

@@ -1,5 +1,7 @@
 ##### § 5.77 Change in equipment and emission characteristics. #####
 
+Link to an amendment published at 84 FR 25690, June 4, 2019.
+
 (a) The licensee of a conventional or broadcast experimental radio station may make any changes in equipment that are deemed desirable or necessary provided:
 
 (1) That the operating frequency is not permitted to deviate more than the allowed tolerance;
