@@ -1,28 +1,42 @@
 ##### § 402.14 Formal consultation. #####
 
-Link to an amendment published at 84 FR 45016, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019 at 84 FR 50333, Sept. 25, 2019.
-
 (a) *Requirement for formal consultation.* Each Federal agency shall review its actions at the earliest possible time to determine whether any action may affect listed species or critical habitat. If such a determination is made, formal consultation is required, except as noted in paragraph (b) of this section. The Director may request a Federal agency to enter into consultation if he identifies any action of that agency that may affect listed species or critical habitat and for which there has been no consultation. When such a request is made, the Director shall forward to the Federal agency a written explanation of the basis for the request.
 
 (b) *Exceptions.* (1) A Federal agency need not initiate formal consultation if, as a result of the preparation of a biological assessment under § 402.12 or as a result of informal consultation with the Service under § 402.13, the Federal agency determines, with the written concurrence of the Director, that the proposed action is not likely to adversely affect any listed species or critical habitat.
 
 (2) A Federal agency need not initiate formal consultation if a preliminary biological opinion, issued after early consultation under § 402.11, is confirmed as the final biological opinion.
 
-(c) *Initiation of formal consultation.* A written request to initiate formal consultation shall be submitted to the Director and shall include:
+(c) *Initiation of formal consultation.* (1) A written request to initiate formal consultation shall be submitted to the Director and shall include:
 
-(1) A description of the action to be considered;
+(i) A description of the proposed action, including any measures intended to avoid, minimize, or offset effects of the action. Consistent with the nature and scope of the proposed action, the description shall provide sufficient detail to assess the effects of the action on listed species and critical habitat, including:
 
-(2) A description of the specific area that may be affected by the action;
+(A) The purpose of the action;
 
-(3) A description of any listed species or critical habitat that may be affected by the action;
+(B) The duration and timing of the action;
 
-(4) A description of the manner in which the action may affect any listed species or critical habitat and an analysis of any cumulative effects;
+(C) The location of the action;
 
-(5) Relevant reports, including any environmental impact statement, environmental assessment, or biological assessment prepared; and
+(D) The specific components of the action and how they will be carried out;
 
-(6) Any other relevant available information on the action, the affected listed species, or critical habitat.
+(E) Maps, drawings, blueprints, or similar schematics of the action; and
 
-Formal consultation shall not be initiated by the Federal agency until any required biological assessment has been completed and submitted to the Director in accordance with § 402.12. Any request for formal consultation may encompass, subject to the approval of the Director, a number of similar individual actions within a given geographical area or a segment of a comprehensive plan. This does not relieve the Federal agency of the requirements for considering the effects of the action as a whole.
+(F) Any other available information related to the nature and scope of the proposed action relevant to its effects on listed species or designated critical habitat.
+
+(ii) A map or description of all areas to be affected directly or indirectly by the Federal action, and not merely the immediate area involved in the action (*i.e.,* the action area as defined at § 402.02).
+
+(iii) Information obtained by or in the possession of the Federal agency and any applicant on the listed species and designated critical habitat in the action area (as required by paragraph (c)(1)(ii) of this section), including available information such as the presence, abundance, density, or periodic occurrence of listed species and the condition and location of the species' habitat, including any critical habitat.
+
+(iv) A description of the effects of the action and an analysis of any cumulative effects.
+
+(v) A summary of any relevant information provided by the applicant, if available.
+
+(vi) Any other relevant available information on the effects of the proposed action on listed species or designated critical habitat, including any relevant reports such as environmental impact statements and environmental assessments.
+
+(2) A Federal agency may submit existing documents prepared for the proposed action such as NEPA analyses or other reports in substitution for the initiation package outlined in this paragraph (c). However, any such substitution shall be accompanied by a written summary specifying the location of the information that satisfies the elements above in the submitted document(s).
+
+(3) Formal consultation shall not be initiated by the Federal agency until any required biological assessment has been completed and submitted to the Director in accordance with § 402.12.
+
+(4) Any request for formal consultation may encompass, subject to the approval of the Director, a number of similar individual actions within a given geographical area, a programmatic consultation, or a segment of a comprehensive plan. The provision in this paragraph (c)(4) does not relieve the Federal agency of the requirements for considering the effects of the action or actions as a whole.
 
 (d) *Responsibility to provide best scientific and commercial data available.* The Federal agency requesting formal consultation shall provide the Service with the best scientific and commercial data available or which can be obtained during the consultation for an adequate review of the effects that an action may have upon listed species or critical habitat. This information may include the results of studies or surveys conducted by the Federal agency or the designated non-Federal representative. The Federal agency shall provide any applicant with the opportunity to submit information for consideration during the consultation.
 
@@ -41,11 +55,11 @@ A consultation involving an applicant cannot be extended for more than 60 days w
 
 (1) Review all relevant information provided by the Federal agency or otherwise available. Such review may include an on-site inspection of the action area with representatives of the Federal agency and the applicant.
 
-(2) Evaluate the current status of the listed species or critical habitat.
+(2) Evaluate the current status and environmental baseline of the listed species or critical habitat.
 
 (3) Evaluate the effects of the action and cumulative effects on the listed species or critical habitat.
 
-(4) Formulate its biological opinion as to whether the action, taken together with cumulative effects, is likely to jeopardize the continued existence of listed species or result in the destruction or adverse modification of critical habitat.
+(4) Add the effects of the action and cumulative effects to the environmental baseline and in light of the status of the species and critical habitat, formulate the Service's opinion as to whether the action is likely to jeopardize the continued existence of listed species or result in the destruction or adverse modification of critical habitat.
 
 (5) Discuss with the Federal agency and any applicant the Service's review and evaluation conducted under paragraphs (g)(1) through (3) of this section, the basis for any finding in the biological opinion, and the availability of reasonable and prudent alternatives (if a jeopardy opinion is to be issued) that the agency and the applicant can take to avoid violation of section 7(a)(2). The Service will utilize the expertise of the Federal agency and any applicant in identifying these alternatives. If requested, the Service shall make available to the Federal agency the draft biological opinion for the purpose of analyzing the reasonable and prudent alternatives. The 45-day period in which the biological opinion must be delivered will not be suspended unless the Federal agency secures the written consent of the applicant to an extension to a specific date. The applicant may request a copy of the draft opinion from the Federal agency. All comments on the draft biological opinion must be submitted to the Service through the Federal agency, although the applicant may send a copy of its comments directly to the Service. The Service will not issue its biological opinion prior to the 45-day or extended deadline while the draft is under review by the Federal agency. However, if the Federal agency submits comments to the Service regarding the draft biological opinion within 10 days of the deadline for issuing the opinion, the Service is entitled to an automatic 10-day extension on the deadline.
 
@@ -53,15 +67,31 @@ A consultation involving an applicant cannot be extended for more than 60 days w
 
 (7) Formulate a statement concerning incidental take, if such take is reasonably certain to occur.
 
-(8) In formulating its biological opinion, any reasonable and prudent alternatives, and any reasonable and prudent measures, the Service will use the best scientific and commercial data available and will give appropriate consideration to any beneficial actions taken by the Federal agency or applicant, including any actions taken prior to the initiation of consultation.
+(8) In formulating its biological opinion, any reasonable and prudent alternatives, and any reasonable and prudent measures, the Service will use the best scientific and commercial data available and will give appropriate consideration to any beneficial actions as proposed or taken by the Federal agency or applicant, including any actions taken prior to the initiation of consultation. Measures included in the proposed action or a reasonable and prudent alternative that are intended to avoid, minimize, or offset the effects of an action are considered like other portions of the action and do not require any additional demonstration of binding plans.
 
-(h) *Biological opinions.* The biological opinion shall include:
+(h) *Biological opinions.* (1) The biological opinion shall include:
 
-(1) A summary of the information on which the opinion is based;
+(i) A summary of the information on which the opinion is based;
 
-(2) A detailed discussion of the effects of the action on listed species or critical habitat; and
+(ii) A detailed discussion of the environmental baseline of the listed species and critical habitat;
 
-(3) The Service's opinion on whether the action is likely to jeopardize the continued existence of a listed species or result in the destruction or adverse modification of critical habitat (a “jeopardy biological opinion”); or, the action is not likely to jeopardize the continued existence of a listed species or result in the destruction or adverse modification of critical habitat (a “no jeopardy” biological opinion). A “jeopardy” biological opinion shall include reasonable and prudent alternatives, if any. If the Service is unable to develop such alternatives, it will indicate that to the best of its knowledge there are no reasonable and prudent alternatives.
+(iii) A detailed discussion of the effects of the action on listed species or critical habitat; and
+
+(iv) The Service's opinion on whether the action is:
+
+(A) Likely to jeopardize the continued existence of a listed species or result in the destruction or adverse modification of critical habitat (a “jeopardy” biological opinion); or
+
+(B) Not likely to jeopardize the continued existence of a listed species or result in the destruction or adverse modification of critical habitat (a “no jeopardy” biological opinion).
+
+(2) A “jeopardy” biological opinion shall include reasonable and prudent alternatives, if any. If the Service is unable to develop such alternatives, the Service will indicate that to the best of its knowledge there are no reasonable and prudent alternatives.
+
+(3) The Service may adopt all or part of:
+
+(i) A Federal agency's initiation package; or
+
+(ii) The Service's analysis required to issue a permit under section 10(a) of the Act in its biological opinion.
+
+(4) A Federal agency and the Service may agree to follow an optional collaborative process that would further the ability of the Service to adopt the information and analysis provided by the Federal agency during consultation in the development of the Service's biological opinion to improve efficiency in the consultation process and reduce duplicative efforts. The Federal agency and the Service shall consider the nature, size, and scope of the action or its anticipated effects on listed species or critical habitat, and other relevant factors to determine whether an action or a class of actions is appropriate for this process. The Federal agency and the Service may develop coordination procedures that would facilitate adoption of the initiation package with any necessary supplementary analyses and incidental take statement to be added by the Service, if appropriate, as the Service's biological opinion in fulfillment of section 7(b) of the Act.
 
 (i) *Incidental take.* (1) In those cases where the Service concludes that an action (or the implementation of any reasonable and prudent alternatives) and the resultant incidental take of listed species will not violate section 7(a)(2), and, in the case of marine mammals, where the taking is authorized pursuant to section 101(a)(5) of the Marine Mammal Protection Act of 1972, the Service will provide with the biological opinion a statement concerning incidental take that:
 
@@ -99,10 +129,22 @@ A consultation involving an applicant cannot be extended for more than 60 days w
 
 (5) There is a reasonable likelihood that the entire action will not violate section 7(a)(2) of the Act.
 
-(l) *Termination of consultation.* (1) Formal consultation is terminated with the issuance of the biological opinion.
+(l) *Expedited consultations.* Expedited consultation is an optional formal consultation process that a Federal agency and the Service may enter into upon mutual agreement. To determine whether an action or a class of actions is appropriate for this type of consultation, the Federal agency and the Service shall consider the nature, size, and scope of the action or its anticipated effects on listed species or critical habitat and other relevant factors. Conservation actions whose primary purpose is to have beneficial effects on listed species will likely be considered appropriate for expedited consultation.
+
+(1) *Expedited timelines.* Upon agreement to use this expedited consultation process, the Federal agency and the Service shall establish the expedited timelines for the completion of this consultation process.
+
+(2) *Federal agency responsibilities.* To request initiation of expedited consultation, the Federal agency shall provide all the information required to initiate consultation under paragraph (c) of this section. To maximize efficiency and ensure that it develops the appropriate level of information, the Federal agency is encouraged to develop its initiation package in coordination with the Service.
+
+(3) *Service responsibilities.* In addition to the Service's responsibilities under the provisions of this section, the Service will:
+
+(i) Provide relevant species information to the Federal agency and guidance to assist the Federal agency in completing its effects analysis in the initiation package; and
+
+(ii) Conclude the consultation and issue a biological opinion within the agreed-upon timeframes.
+
+(m) *Termination of consultation.* (1) Formal consultation is terminated with the issuance of the biological opinion.
 
 (2) If during any stage of consultation a Federal agency determines that its proposed action is not likely to occur, the consultation may be terminated by written notice to the Service.
 
 (3) If during any stage of consultation a Federal agency determines, with the concurrence of the Director, that its proposed action is not likely to adversely affect any listed species or critical habitat, the consultation is terminated.
 
-[51 FR 19957, June 3, 1986, as amended at 54 FR 40350, Sept. 29, 1989; 73 FR 76287, Dec. 16, 2008; 74 FR 20423, May 4, 2009; 80 FR 26844, May 11, 2015]
+[51 FR 19957, June 3, 1986, as amended at 54 FR 40350, Sept. 29, 1989; 73 FR 76287, Dec. 16, 2008; 74 FR 20423, May 4, 2009; 80 FR 26844, May 11, 2015; 84 FR 45016, Aug. 27, 2019]

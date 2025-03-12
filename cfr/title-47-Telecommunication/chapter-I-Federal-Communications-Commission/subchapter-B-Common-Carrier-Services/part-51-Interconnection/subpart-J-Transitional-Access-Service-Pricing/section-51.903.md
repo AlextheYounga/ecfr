@@ -1,5 +1,7 @@
 ##### § 51.903 Definitions. #####
 
+Link to an amendment published at 84 FR 57650, Oct. 28, 2019.
+
 For the purposes of this subpart:
 
 (a) *Competitive Local Exchange Carrier.* A *Competitive Local Exchange Carrier* is any local exchange carrier, as defined in § 51.5, that is not an incumbent local exchange carrier .

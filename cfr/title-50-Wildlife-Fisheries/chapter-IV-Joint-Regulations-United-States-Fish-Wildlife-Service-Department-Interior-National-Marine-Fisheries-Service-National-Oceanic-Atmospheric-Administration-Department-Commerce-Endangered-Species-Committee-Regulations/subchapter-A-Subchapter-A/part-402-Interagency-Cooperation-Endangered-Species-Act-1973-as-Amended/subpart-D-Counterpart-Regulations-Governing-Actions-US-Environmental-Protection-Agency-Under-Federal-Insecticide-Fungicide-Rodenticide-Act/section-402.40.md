@@ -1,12 +1,10 @@
 ##### § 402.40 Definitions. #####
 
-Link to an amendment published at 84 FR 45018, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019 at 84 FR 50333, Sept. 25, 2019.
-
 The definitions in § 402.02 are applicable to this subpart. In addition, the following definitions are applicable only to this subpart.
 
 (a) *Alternative consultation agreement* is the agreement described in § 402.45.
 
-(b) *Effects determination* is a written determination by the U.S. Environmental Protection Agency (EPA) addressing the effects of a FIFRA action on listed species or critical habitat. The contents of an effects determination will depend on the nature of the action. An effects determination submitted under § 402.46 or § 402.47 shall contain the information described in § 402.14(c)(1)-(6) and a summary of the information on which the determination is based, detailing how the FIFRA action affects the listed species or critical habitat. EPA may consider the following additional sections for inclusion in an effects determination:
+(b) *Effects determination* is a written determination by the U.S. Environmental Protection Agency (EPA) addressing the effects of a FIFRA action on listed species or critical habitat. The contents of an effects determination will depend on the nature of the action. An effects determination submitted under § 402.46 or § 402.47 shall contain the information described in § 402.14(c) and a summary of the information on which the determination is based, detailing how the FIFRA action affects the listed species or critical habitat. EPA may consider the following additional sections for inclusion in an effects determination:
 
 (1) A conclusion whether or not the FIFRA action is likely to jeopardize the continued existence of any listed species or result in the destruction or adverse modification of critical habitat and a description of any reasonable and prudent alternatives that may be available;
 
@@ -23,3 +21,5 @@ The definitions in § 402.02 are applicable to this subpart. In addition, the fo
 (f) *Service Director* refers to the Director of the U.S. Fish and Wildlife Service or the Assistant Administrator for Fisheries for the National Oceanic and Atmospheric Administration.
 
 (g) *Service Representative* is the person or persons designated to participate in advance coordination as provided in this subpart.
+
+[69 FR 47759, Aug. 5, 2004, as amended at 84 FR 45018, Aug. 27, 2019]

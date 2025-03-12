@@ -1,5 +1,7 @@
 ##### § 69.3 Filing of access service tariffs. #####
 
+Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
+
 (a) Except as provided in paragraphs (g) and (h) of this section, a tariff for access service shall be filed with this Commission for a two-year period. Such tariffs shall be filed with a scheduled effective date of July 1. Such tariff filings shall be limited to rate level changes.
 
 (b) The requirements imposed by paragraph (a) of this section shall not preclude the filing of revisions to those annual tariffs that will become effective on dates other than July 1.

@@ -1,5 +1,7 @@
 ##### § 101.8 Vending machines. #####
 
+Link to an amendment published at 84 FR 57610, Oct. 28, 2019.
+
 (a) *Definitions.* The definitions of terms in section 201 of the Federal Food, Drug, and Cosmetic Act apply to such terms when used in this section. In addition, for the purposes of this section:
 
 *Authorized official of a vending machine operator* means an owner, operator, agent in charge, or any other person authorized by a vending machine operator who is not otherwise subject to section 403(q)(5)(H)(viii) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343(q)(5)(H)(viii)), to register the vending machine operator with the Food and Drug Administration (“FDA”) for purposes of paragraph (d) of this section.

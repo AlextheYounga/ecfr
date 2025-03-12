@@ -1,5 +1,7 @@
 ##### § 69.5 Persons to be assessed. #####
 
+Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
+
 (a) End user charges shall be computed and assessed upon public end users, and upon providers of public telephones, as defined in this subpart, and as provided in subpart B of this part.
 
 (b) Carrier's carrier charges shall be computed and assessed upon all interexchange carriers that use local exchange switching facilities for the provision of interstate or foreign telecommunications services.

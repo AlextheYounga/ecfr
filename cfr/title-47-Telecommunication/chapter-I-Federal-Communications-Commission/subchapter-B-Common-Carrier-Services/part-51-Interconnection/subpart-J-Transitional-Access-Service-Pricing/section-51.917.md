@@ -1,5 +1,7 @@
 ##### § 51.917 Revenue recovery for Rate-of-Return Carriers. #####
 
+Link to an amendment published at 84 FR 57651, Oct. 28, 2019.
+
 (a) *Scope.* This section sets forth the extent to which Rate-of-Return Carriers may recover, through the recovery mechanism outlined in paragraphs (d) through (f) of this section, a portion of revenues lost due to rate reductions required by § 20.11(b) of this chapter, and §§ 51.705 and 51.909.
 
 (b) *Definitions.*

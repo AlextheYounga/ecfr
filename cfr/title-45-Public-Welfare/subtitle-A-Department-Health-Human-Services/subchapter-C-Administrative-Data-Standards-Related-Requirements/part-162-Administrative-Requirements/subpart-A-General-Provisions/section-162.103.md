@@ -1,5 +1,7 @@
 ##### § 162.103 Definitions. #####
 
+Link to an amendment published at 84 FR 57629, Oct. 28, 2019.
+
 For purposes of this part, the following definitions apply:
 
 *Code set* means any set of codes used to encode data elements, such as tables of terms, medical concepts, medical diagnostic codes, or medical procedure codes. A code set includes the codes and the descriptors of the codes.

@@ -1,5 +1,7 @@
 ##### § 61.26 Tariffing of competitive interstate switched exchange access services. #####
 
+Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
+
 (a) *Definitions.* For purposes of this section, the following definitions shall apply:
 
 (1) *CLEC* shall mean a local exchange carrier that provides some or all of the interstate exchange access services used to send traffic to or from an end user and does not fall within the definition of “incumbent local exchange carrier” in 47 U.S.C. 251(h).

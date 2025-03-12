@@ -1,5 +1,7 @@
 ##### § 61.3 Definitions. #####
 
+Link to an amendment published at 84 FR 57651, Oct. 28, 2019.
+
 (a) *Act.* The Communications Act of 1934 (48 Stat. 1004; 47 U.S.C. chapter 5), as amended.
 
 (b) *Actual Price Index* (API). An index of the level of aggregate rate element rates in a basket, which index is calculated pursunt to § 61.46.
