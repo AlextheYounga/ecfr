@@ -1,0 +1,7 @@
+##### § 5.521 Verification of credential or endorsement. #####
+
+(a) The Administrative Law Judge shall require the respondent to produce and present at the opening of the hearing, and on each day the hearing is in session thereafter, all valid credentials issued by the Coast Guard to the respondent. In the event that the respondent alleges that credential has been lost, misplaced, stolen, destroyed, or is otherwise beyond his ability to produce, the respondent shall execute a lost document affidavit (Form CG-4363). The Administrative Law Judge shall warn the respondent that a willful misstatement of any material item in such affidavit is punishable as a violation of a Federal criminal statute. (See 18 U.S.C. 1001).
+
+(b) When a hearing is continued or delayed, the Administrative Law Judge returns the credential to the respondent: unless a prima facie case has been established that the respondent committed an act or offense which shows that the respondent's service on a vessel would constitute a definite danger to public health, interest or safety at sea.
+
+[CGD 82-002, 50 FR 32184, Aug. 9, 1985, as amended by CGD 97-057, 62 FR 51042, Sept. 30, 1997; USCG-2006-24371, 74 FR 11215, Mar. 16, 2009]

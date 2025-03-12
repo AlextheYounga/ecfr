@@ -1,0 +1,3 @@
+##### § 60.1605 What if I do not meet an increment of progress? #####
+
+If you fail to meet an increment of progress, you must submit a notification to the Administrator postmarked within 10 business days after the specified date in table 1 of this subpart for achieving that increment of progress. The notification must inform the Administrator that you did not meet the increment. You must include in the notification an explanation of why the increment of progress was not met and your plan for meeting the increment as expeditiously as possible. You must continue to submit reports each subsequent month until the increment of progress is met.

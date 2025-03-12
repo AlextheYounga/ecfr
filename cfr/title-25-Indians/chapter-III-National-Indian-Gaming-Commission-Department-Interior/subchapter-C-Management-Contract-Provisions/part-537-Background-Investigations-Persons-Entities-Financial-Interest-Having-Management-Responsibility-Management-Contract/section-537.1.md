@@ -2,15 +2,15 @@
 
 (a) For each management contract for class II gaming, the Chairman shall conduct or cause to be conducted a background investigation of:
 
-(1) All persons who have 10 percent or more or indirect financial interest in a management contract;
+(1) Each person with management responsibility for a management contract;
 
-(2) All entities with 10 percent or more financial interest in a management contract; and
+(2) Each person who is a director of a corporation that is a party to a management contract;
 
-(3) Any other person or entity with a direct or indirect financial interest in a management contract otherwise designated by the Commission.
+(3) All persons who have 10 percent or more or indirect financial interest in a management contract;
 
-(4) Any entity with a financial interest in a management contract (in the case of any tribe, a wholly owned tribal entity, national bank, or institutional investor that is federally regulated or is required to undergo a background investigation and licensure by a state or tribe pursuant to a tribal-state compact, the Chair may exercise discretion and reduce the scope of the information to be furnished and the background investigation to be conducted); and
+(4) All entities with 10 percent or more financial interest in a management contract; and
 
-(5) Any other person with a direct or indirect financial interest in a management contract otherwise designated by the Commission.
+(5) Any other person or entity with a direct or indirect financial interest in a management contract otherwise designated by the Commission.
 
 (b) For each natural person identified in paragraph (a) of this section, the management contractor shall provide to the Commission the following information:
 
@@ -100,4 +100,4 @@ A false statement knowingly and willfully provided in any of the information pur
 
 (4) Institutional investor that is federally regulated or is required to undergo a background investigation and licensure by a State or Tribe pursuant to a Tribal-State compact.
 
-[74 FR 36937, July 27, 2009, as amended at 77 FR 47516, Aug. 9, 2012; 87 FR 68048, Nov. 14, 2022]
+[74 FR 36937, July 27, 2009, as amended at 77 FR 47516, Aug. 9, 2012; 87 FR 68048, Nov. 14, 2022; 88 FR 18393, Mar. 29, 2023]

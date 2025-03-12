@@ -1,0 +1,3 @@
+##### § 1008.203 The Bureau's establishment of loan originator licensing system. #####
+
+If the Bureau determines, in accordance with § 1008.115(e), that a state has not established a licensing and registration system in compliance with the minimum standards of the S.A.F.E. Act, the Bureau shall apply to individuals in that state the minimum standards of the S.A.F.E. Act, as specified in subpart B, which provides the minimum requirements that a state must meet to be in compliance with the S.A.F.E. Act, and as may be further specified in this part.

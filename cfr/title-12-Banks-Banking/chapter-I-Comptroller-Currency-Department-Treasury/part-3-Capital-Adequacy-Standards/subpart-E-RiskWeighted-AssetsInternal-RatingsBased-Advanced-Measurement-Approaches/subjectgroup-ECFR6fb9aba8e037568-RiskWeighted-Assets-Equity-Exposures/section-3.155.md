@@ -1,0 +1,5 @@
+##### § 3.155 Equity derivative contracts. #####
+
+(a) Under the IMA, in addition to holding risk-based capital against an equity derivative contract under this part, a national bank or Federal savings association must hold risk-based capital against the counterparty credit risk in the equity derivative contract by also treating the equity derivative contract as a wholesale exposure and computing a supplemental risk-weighted asset amount for the contract under § 3.132.
+
+(b) Under the SRWA, a national bank or Federal savings association may choose not to hold risk-based capital against the counterparty credit risk of equity derivative contracts, as long as it does so for all such contracts. Where the equity derivative contracts are subject to a qualified master netting agreement, a national bank or Federal savings association using the SRWA must either include all or exclude all of the contracts from any measure used to determine counterparty credit risk exposure.

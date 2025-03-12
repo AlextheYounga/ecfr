@@ -1,0 +1,3 @@
+##### § 60.1800 May I deviate from the 13-month testing schedule if unforeseen circumstances arise? #####
+
+You may not deviate from the 13-month testing schedules specified in §§ 60.1785(b) and 60.1795(b)(1) unless you apply to the Administrator for an alternative schedule, and the Administrator approves your request for alternate scheduling prior to the date on which you would otherwise have been required to conduct the next stack test.

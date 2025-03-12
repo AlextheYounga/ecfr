@@ -1,0 +1,9 @@
+##### § 5.715 Stay of effect of Decision of the Commandant on Appeal: Temporary credential and/or endorsement pending appeal to National Transportation Safety Board. #####
+
+(a) A Decision of the Commandant on Appeal affirming an order of revocation, except a revocation resulting from an offense enumerated under § 5.59 or suspension that is not placed entirely on probation, which is appealed to the National Transportation Safety Board, may be stayed if, in the Commandant's opinion, the service of the appellant on board a vessel at that time or for the indefinite future would be compatible with the requirements of safety at sea and consistent with applicable laws. If one of the offenses enumerated in § 5.61(a) has been found proved, the continued service of the appellant will be presumed not compatible with safety at sea, subject to rebuttal by the appellant; in cases of offenses under § 5.61(a), a temporary credential and/or endorsement may be denied for that reason alone.
+
+(b) A stay of the effect of the Decision of the Commandant on Appeal may be granted by the Commandant upon application by the respondent filed with the notice served on the Commandant under 49 CFR 825.5(b).
+
+(c) An Officer in Charge, Marine Inspection, on presentation of an original stay order, issues a temporary credential and/or endorsement as specified in the stay order. This credential and/or endorsement is effective for not more than six months, renewable until such time as the National Transportation Safety Board has completed its review.
+
+[CGD 82-002, 50 FR 32184, Aug. 9, 1985, as amended by USCG-2006-24371, 74 FR 11215, Mar. 16, 2009]

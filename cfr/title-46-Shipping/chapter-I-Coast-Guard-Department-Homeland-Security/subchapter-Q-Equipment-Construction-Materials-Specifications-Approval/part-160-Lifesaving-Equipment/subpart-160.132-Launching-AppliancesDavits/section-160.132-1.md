@@ -1,0 +1,3 @@
+##### § 160.132-1 Scope. #####
+
+This subpart prescribes standards, tests, and procedures for seeking Coast Guard approval of a davit used in conjunction with a winch approved under subpart 160.115 of this part for lifeboats approved under subpart 160.135 of this part, liferafts approved under subparts 160.051 or 160.151 of this part, and rescue boats approved under subparts 160.056 or 160.156 of this part.

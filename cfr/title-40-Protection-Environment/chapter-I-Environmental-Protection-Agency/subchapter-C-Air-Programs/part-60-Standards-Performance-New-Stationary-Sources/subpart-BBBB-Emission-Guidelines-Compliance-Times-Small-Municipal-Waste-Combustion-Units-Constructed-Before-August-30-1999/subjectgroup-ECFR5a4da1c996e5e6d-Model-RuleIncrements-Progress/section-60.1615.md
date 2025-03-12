@@ -1,0 +1,3 @@
+##### § 60.1615 How do I comply with the increment of progress for awarding contracts? #####
+
+You must submit a signed copy of the contracts awarded to initiate onsite construction, initiate onsite installation of emission control equipment, and incorporate process changes. Submit the copy of the contracts with the notification that the increment of progress has been achieved. You do not need to include documents incorporated by reference or the attachments to the contracts.

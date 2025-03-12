@@ -1,0 +1,23 @@
+##### § 63.1163 Notification requirements. #####
+
+(a) *Initial notifications.* As required by § 63.9(b) of subpart A of this part, the owner or operator shall submit the following written notifications to the Administrator:
+
+(1) The owner or operator of an area source that subsequently becomes subject to the requirements of the standard shall provide notification to the applicable permitting authority as required by § 63.9(b)(1) of subpart A of this part.
+
+(2) As required by § 63.9(b)(2) of subpart A of this part, the owner or operator of an affected source that has an initial startup before June 22, 1999, shall notify the Administrator that the source is subject to the requirements of the standard. The notification shall be submitted not later than October 20, 1999 (or within 120 calendar days after the source becomes subject to this standard), and shall contain the information specified in §§ 63.9(b)(2)(i) through 63.9(b)(2)(v) of subpart A of this part.
+
+(3) As required by § 63.9(b)(3) of subpart A of this part, the owner or operator of a new or reconstructed affected source, or a source that has been reconstructed such that it is an affected source, that has an initial startup after the effective date and for which an application for approval of construction or reconstruction is not required under § 63.5(d) of subpart A of this part, shall notify the Administrator in writing that the source is subject to the standards no later than 120 days after initial startup, or no later than 120 days after the source becomes subject to this subpart, whichever is later. The notification shall contain the information specified in §§ 63.9(b)(2)(i) through (v) of subpart A of this part, delivered or postmarked with the notification required in § 63.9(b)(5) of subpart A of this part.
+
+(4) As required by § 63.9(b)(4) of subpart A of this part, the owner or operator of a new or reconstructed major affected source that has an initial startup after June 22, 1999, and for which an application for approval of construction or reconstruction is required under § 63.5(d) of subpart A of this part shall provide the information specified in §§ 63.9(b)(4)(i) through 63.9(b)(4)(v) of subpart A of this part.
+
+(5) As required by § 63.9(b)(5) of subpart A of this part, the owner or operator who, after June 22, 1999, intends to construct a new affected source or reconstruct an affected source subject to this standard, or reconstruct a source such that it becomes an affected source subject to this standard, shall notify the Administrator, in writing, of the intended construction or reconstruction.
+
+(b) *Request for extension of compliance.* As required by § 63.9(c) of subpart A of this part, if the owner or operator of an affected source cannot comply with this standard by the applicable compliance date for that source, or if the owner or operator has installed BACT or technology to meet LAER consistent with § 63.6(i)(5) of subpart A of this part, he/she may submit to the Administrator (or the State with an approved permit program) a request for an extension of compliance as specified in §§ 63.6(i)(4) through 63.6(i)(6) of subpart A of this part.
+
+(c) *Notification that source is subject to special compliance requirements.* As required by § 63.9(d) of subpart A of this part, an owner or operator of a new source that is subject to special compliance requirements as specified in §§ 63.6(b)(3) and 63.6(b)(4) of subpart A of this part shall notify the Administrator of his/her compliance obligations not later than the notification dates established in § 63.9(b) of subpart A of this part for new sources that are not subject to the special provisions.
+
+(d) *Notification of performance test.* As required by § 63.9(e) of subpart A of this part, the owner or operator of an affected source shall notify the Administrator in writing of his or her intention to conduct a performance test at least 60 calendar days before the performance test is scheduled to begin, to allow the Administrator to review and approve the site-specific test plan required under § 63.7(c) of subpart A of this part and, if requested by the Administrator, to have an observer present during the test.
+
+(e) *Notification of compliance status.* The owner or operator of an affected source shall submit a notification of compliance status as required by § 63.9(h) of subpart A of this part when the source becomes subject to this standard.
+
+[64 FR 33218, June 22, 1999, as amended at 85 FR 73897, Nov. 19, 2020]

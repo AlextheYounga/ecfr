@@ -1,0 +1,9 @@
+##### § 3.123 Ongoing qualification. #####
+
+(a) *Changes to advanced systems.* A national bank or Federal savings association must meet all the qualification requirements in § 3.122 on an ongoing basis. A national bank or Federal savings association must notify the OCC when the national bank or Federal savings association makes any change to an advanced system that would result in a material change in the national bank's or Federal savings association's advanced approaches total risk-weighted asset amount for an exposure type or when the national bank or Federal savings association makes any significant change to its modeling assumptions.
+
+(b) *Failure to comply with qualification requirements.* (1) If the OCC determines that a national bank or Federal savings association that uses this subpart and that has conducted a satisfactory parallel run fails to comply with the qualification requirements in § 3.122, the OCC will notify the national bank or Federal savings association in writing of the national bank's or Federal savings association's failure to comply.
+
+(2) The national bank or Federal savings association must establish and submit a plan satisfactory to the OCC to return to compliance with the qualification requirements.
+
+(3) In addition, if the OCC determines that the national bank's or Federal savings association's advanced approaches total risk-weighted assets are not commensurate with the national bank's or Federal savings association's credit, market, operational, or other risks, the OCC may require such a national bank or Federal savings association to calculate its advanced approaches total risk-weighted assets with any modifications provided by the OCC.

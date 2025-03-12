@@ -1,0 +1,3 @@
+##### § 84.005 Will the Secretary approve contracts or agreements even where such approval is not required under this part? #####
+
+No, the Secretary will not approve contracts or agreements that do not encumber tribal lands for a period of seven or more years. Within thirty days after receipt of final, executed documents, the Secretary will return such contracts and agreements with a statement explaining why Secretarial approval is not required. The provisions of the Act will not apply to those contracts or agreements the Secretary determines are not covered by the Act.

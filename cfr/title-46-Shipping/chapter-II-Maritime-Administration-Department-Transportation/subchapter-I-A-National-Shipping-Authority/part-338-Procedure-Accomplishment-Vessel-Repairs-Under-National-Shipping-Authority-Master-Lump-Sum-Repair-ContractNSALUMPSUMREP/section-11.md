@@ -1,0 +1,15 @@
+##### Sec. 11 Guarantee obligations. #####
+
+(a) Under the provisions of Article 10 of the NSA-LUMPSUMREP Contract the Contractor's guarantee liability extends to defects and deficiencies in the Contractor's work developing within sixty (60) days from the date of the acceptance of all the work and the accepted redelivery of the vessel to the Authority.
+
+(b) Notice of such defects and deficiencies must be given to the Contractor not later than ninety (90) days after the acceptance of the work.
+
+(c) As soon as practicable, after the acceptance of work performed under a job order, and the supplemental job orders thereto, the office awarding the job order shall furnish to the General Agent two copies of the specifications, job order and supplemental job orders, together with a statement of the date of the expiration of the Contractor's guarantee responsibility with respect to some work.
+
+(d) The General Agent shall during the period of the Contractor's guarantee responsibility screen all deficiencies and defects and repair items and list separately against the respective specifications, all items which represent defects or deficiencies in the Contractor's work.
+
+(e) In order that the Contractor may be notified of such defects and deficiencies prior to the expiration of the 90-day notice period, the General Agent, particularly with respect to vessels in foreign ports or vessels which may be at sea, shall instruct the Master of the respective vessel to forward the information with respect to defects and deficiencies in the Contractor's work to the General Agent's home office by the most expeditious manner of communication.
+
+(f) In connection with all deficiencies and defects, referred to in paragraph (d) of this section, the General Agent shall immediately notify the Contractor and the local Ship Repair and Maintenance Office Head in the vessel's port of call with copies of such notification to the Chief, Division of Ship Repair and Maintenance in Washington, DC, in all cases and to the Chairman, Trial and Guarantee Survey Boards, if the total contract price is equal to or in excess of $100,000. If practicable, the local Ship Repair and Maintenance Office Head shall arrange to view the defective or deficient work in question and, if possible, shall secure the correction of such defects or deficiencies by the Contractor in question.
+
+(g) The General Agent, and the representative of the local Ship Repair and Maintenance staff, who acted under the provisions of paragraph (e) of this section promptly shall file with the Chief, Division of Ship Repair and Maintenance in Washington, DC, and also with the Chairman, Trial and Guarantee Survey Boards, if the total contract price equals or exceeds $100,000, separate or concurring reports setting out the defects and deficiencies, describing the actual conditions found, causes of failure, and the disposition of each defect or deficiency item.

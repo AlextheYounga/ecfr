@@ -1,0 +1,9 @@
+##### § 63.1010 Pumps, valves, connectors, and agitators in heavy liquid service; pressure relief devices in liquid service; and instrumentation systems standards. #####
+
+(a) *Compliance schedule.* The owner or operator shall comply with this section no later than the compliance dates specified in the referencing subpart.
+
+(b) *Leak detection*—(1) *Monitoring method.* Unless otherwise specified in § 63.1002(b), or § 63.1016, the owner or operator shall comply with paragraphs (b)(1) and (b)(2) of this section. Pumps, valves, connectors, and agitators in heavy liquid service; pressure relief devices in light liquid or heavy liquid service; and instrumentation systems shall be monitored within 5 calendar days by the method specified in § 63.1004(b) if evidence of a potential leak to the atmosphere is found by visual, audible, olfactory, or any other detection method. If such a potential leak is repaired as required in paragraph (c) of this section, it is not necessary to monitor the system for leaks by the method specified in § 63.1004(b).
+
+(2) *Instrument reading that defines a leak.* For systems monitored by the method specified in § 63.1004(b), if an instrument reading of 10,000 parts per million or greater is measured, a leak is detected. If a leak is detected, it shall be identified pursuant to § 63.1004(e) and repaired pursuant to § 63.1005.
+
+(c) *Leak repair.* If a leak is determined pursuant to this section, then the leak shall be repaired using the procedures in § 63.1005, as applicable. For equipment identified in paragraph (b) of this section that is not monitored by the method specified in § 63.1004(b), repaired shall mean that the visual, audible, olfactory, or other indications of a leak to the atmosphere have been eliminated; that no bubbles are observed at potential leak sites during a leak check using soap solution; or that the system will hold a test pressure.

@@ -1,0 +1,3 @@
+##### § 141.544 What if my system uses chloramines, ozone, or chlorine dioxide for primary disinfection? #####
+
+If your system uses chloramines, ozone or chlorine dioxide for primary disinfection your system must calculate the disinfection benchmark from the data your system collected for viruses to develop the disinfection profile in addition to the *Giardia lamblia* disinfection benchmark calculated under § 141.543. This viral benchmark must be calculated in the same manner used to calculate the *Giardia lamblia* disinfection benchmark in § 141.543.

@@ -1,0 +1,3 @@
+##### § 49.10521 Identification of plan. #####
+
+This section and §§ 49.10522 through 49.10550 contain the implementation plan for the Puyallup Tribe. This plan consists of a combination of Tribal rules and measures and Federal regulations and measures which apply to trust and restricted lands within the 1873 Survey Area of the Puyallup Reservation (the Puyallup Reservation), consistent with the Puyallup Tribe of Indians Land Claims Settlement Act, ratified by Congress in 1989 (25 U.S.C. 1773).

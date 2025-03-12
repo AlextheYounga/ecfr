@@ -1,0 +1,3 @@
+##### § 141.522 How does the State determine whether my system's watershed control requirements are adequate? #####
+
+During an onsite inspection conducted under the provisions of § 141.71(b)(3), the State must determine whether your watershed control program is adequate to limit potential contamination by *Cryptosporidium* oocysts. The adequacy of the program must be based on the comprehensiveness of the watershed review; the effectiveness of your program to monitor and control detrimental activities occurring in the watershed; and the extent to which your system has maximized land ownership and/or controlled land use within the watershed.

@@ -1,0 +1,3 @@
+##### § 141.536 My system has developed an inactivation ratio; what must we do now? #####
+
+Each log inactivation serves as a data point in your disinfection profile. Your system will have obtained 52 measurements (one for every week of the year). This will allow your system and the State the opportunity to evaluate how microbial inactivation varied over the course of the year by looking at all 52 measurements (your Disinfection Profile). Your system must retain the Disinfection Profile data in graphic form, such as a spreadsheet, which must be available for review by the State as part of a sanitary survey. Your system must use this data to calculate a benchmark if you are considering changes to disinfection practices.

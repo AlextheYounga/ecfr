@@ -1,0 +1,3 @@
+##### § 5.71 Maritime labor disputes. #####
+
+Under no circumstances will the Coast Guard exercise its authority for the purpose of favoring any party to a maritime labor controversy. However, if the situation affecting the safety of the vessel or persons on board is presented, the matter shall be thoroughly investigated and when a violation of existing statutes or regulations is indicated, appropriate action will be taken.

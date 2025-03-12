@@ -1,0 +1,5 @@
+##### § 381.4 Fair and reasonable participation. #####
+
+In order to insure a fair and reasonable participation by U.S.-flag commercial vessels in liner parcel cargoes subject to the Cargo Preference Act of 1954, as required by that Act, the head of each department or agency having responsibility under that Act shall prescribe regulations or formal staff instructions providing for the cargo mix of liner parcel cargoes transported on ocean vessels to be divided between privately owned U.S.-flag vessels and foreign-flag vessels in such a manner as to yield to the U.S.-flag vessels freight revenue per long ton at least equal to the freight revenue per long ton afforded the foreign-flag vessels participating in the same grant, loan, or purchase transaction. A copy of the regulations or staff instructions prescribed by each department or agency shall be furnished to the Secretary, Maritime Administration, no later than June 30, 1971, for approval.
+
+[G.O. 103, Amdt. 1, 36 FR 10739, June 2, 1971]

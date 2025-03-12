@@ -1,0 +1,3 @@
+##### § 63.1060 Applicability. #####
+
+The provisions of this subpart apply to the control of air emissions from storage vessels for which another subpart references the use of this subpart for such air emission control. These air emission standards for storage vessels are placed here for administrative convenience and only apply to those owners and operators of facilities subject to a referencing subpart. The provisions of subpart A (General Provisions) of this part do not apply to this subpart except as noted in the referencing subpart.

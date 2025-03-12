@@ -1,0 +1,13 @@
+##### § 42.09-1 Assignment of load lines. #####
+
+(a) The assignment of load lines is conditioned upon the structural efficiency and satisfactory stability of the vessel, and upon the provisions provided on the vessel for her effective protection and that of the crew. Certain vessels, such as vessels carrying all their cargo as deck cargo, or vessels where design or service require special conditions to be applicable, shall have certain stability limitations imposed on them, as may be necessary. When stability limitations for a vessel are prescribed, the assigning authority shall furnish the master the vessel's maximum draft permitted and other conditions, including reference to Commandant approved operating stability features, which may be applicable.
+
+(1) No load line assignment shall be made under this part to a vessel proceeding on a foreign voyage, or where the load line assignment is related to the flooded stability provisions and the vessel is proceeding on a domestic voyage, until the applicable light ship characteristics are established and incorporated into the vessel's stability data approved by the Commandant and furnished to the master of the vessel.
+
+(2) If load line assignments are made to vessels for coastwise voyages before the results of the required stability characteristics are determined and incorporated into the vessel's stability data approved by the Commandant, then such load line assignments shall be regarded as conditional and shall be subject to verification or modification for removal of the conditional status. Any vessel with a conditional load line assignment shall not be loaded beyond a conservative safe draft. Where the Commandant deems it unnecessary, the requirement for furnishing stability information to the masters of coastwise vessels assigned load lines not related to flooded stability may be omitted and the assigning authority and others concerned will be so notified.
+
+(b) Each vessel subject to load line requirements shall carry on board a valid certificate attesting to compliance with such requirements. (See §§ 42.07-35 and 42.07-40 for additional data furnished to the vessel.)
+
+(c) The master of the vessel for which a load line certificate has been issued shall be responsible for the maintenance of such certificate on board such vessel and for compliance with its terms and conditions. Additionally, the master shall be responsible for having the current load line survey report on board the vessel. This report shall be made available to surveyors when carrying out subsequent load line surveys.
+
+[CGFR 68-60, 33 FR 10055, July 12, 1968, as amended by CGFR 68-126, 34 FR 9012, June 5, 1969]

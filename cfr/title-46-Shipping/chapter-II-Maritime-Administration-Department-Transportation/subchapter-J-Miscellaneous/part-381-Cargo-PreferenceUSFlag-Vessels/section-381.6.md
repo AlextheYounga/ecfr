@@ -1,0 +1,9 @@
+##### § 381.6 Informal grievance procedure. #####
+
+(a) Whenever any person has a question, problem, complaint, grievance, or controversy pertaining to the terms and conditions of any tenders, charter party terms, or other matter involving the administration of the Cargo Preference Act of 1954, such person may request the Maritime Administration to afford him an opportunity to discuss the matter informally with representatives of the Maritime Administration and, if other U.S. Government agencies or foreign missions, embassies, or agencies acting on behalf of a foreign government are involved with them or persons authorized to speak for them.
+
+(b) In such cases, a request may be made by telephone or letter to the Chief, Office of Market Development, Maritime Administration, Washington, DC 20590, (202) 366-4610. When such a request has been received, the Maritime Administrator, Department of Transportation or his designated representative will promptly consider the matter on its merits and provide assistance if possible. If the matter cannot be resolved satisfactorily by the Maritime Administration, the Maritime Administrator, Department of Transportation or his designated representative will then arrange for a meeting at a time and place satisfactory to all interested parties so that the matter may be freely discussed and resolved.
+
+(c) At such meetings, the Maritime Administrator, Department of Transportation or his designated representative may request any U.S. Government agency, foreign mission, embassy, or agency acting on behalf of a foreign government, or others having an interest in the matter to attend such a conference, or to send representatives authorized to speak for them. All such meetings and conferences will be conducted in an informal manner.
+
+[G.O. 103, Amdt. 3, 37 FR 3641, Feb. 18, 1972, as amended at 57 FR 13047, Apr. 15, 1992]

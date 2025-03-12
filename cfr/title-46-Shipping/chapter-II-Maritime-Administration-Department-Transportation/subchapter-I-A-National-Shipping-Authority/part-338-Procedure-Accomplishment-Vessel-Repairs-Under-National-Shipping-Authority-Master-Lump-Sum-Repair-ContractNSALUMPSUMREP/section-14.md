@@ -1,0 +1,17 @@
+##### Sec. 14 Anti-Kickback and Davis-Bacon Acts. #####
+
+(a) All work awarded under the NSA-LUMPSUMREP Contract is subject to the provisions of the Anti-Kickback Act, and is also subject to the provisions of the Davis-Bacon Act (except in those cases where the Invitations for Bids or job order state that the work covered thereby is not subject to the Davis-Bacon Act). Article 24 of the NSA-LUMPSUMREP Contract requires the compliance of Contractor and its subcontractors with the applicable provisions of said acts. In this respect the Contractor agrees in the NSA-LUMPSUMREP Contract to comply with the regulations of the Secretary of Labor made pursuant to the Anti-Kickback Act.
+
+(b) The Contractor shall, as provided in Article 24(a) of the NSA-LUMPSUMREP Contract, post at the site of the work the wage determination decision of the Secretary of Labor as provided in said Article 24(a).
+
+(c) It shall be the responsibility of the representative of the Authority awarding the work to determine that the Contractor has made the postings required by Article 24(a) of the NSA-LUMPSUMREP Contract.
+
+(d) In lieu of submitting weekly certified copies of all payrolls to the Authority, as provided in Article 24(d) of the Master LUMPSUMREP Contract the Contractor shall maintain his weekly payrolls for a period of three years and submit weekly an affidavit that the payrolls of the Contractor for the preceding week are correct and complete, that the wage rates contained therein are not less than those determined by the Secretary of Labor and that the classifications set forth for each labor mechanic conforms with the work he performed. The Contractor shall also submit, and shall be responsible for the submission by its subcontractors of the Anti-Kickback Act affidavits as provided in Article 24(f) of the Master LUMPSUMREP Contract. The Contractor shall submit one copy of each of the weekly payroll and Anti-Kickback Act affidavits to the Records Administration Section, Maritime Administration, Washington 25, DC.
+
+(e) The representative of the Authority shall require Contractors, pursuant to the provisions of Article 24(d) of the NSA-LUMPSUMREP Contract, to classify or reclassify any class of laborers or mechanics employed on National Shipping Authority contract work and not listed in the Secretary of Labor's decision (schedule of wages). A report of such cases shall be forwarded to the District Ship Repair and Maintenance office for transmittal to the Office of Maritime Labor Policy.
+
+(f) The representatives of the Authority shall be responsible for establishing procedures insuring that Contractors are complying with the Davis-Bacon Act and in cases of non-compliance withhold payment of contractors' invoices.
+
+(g) The following certification shall be inserted by all contractors on all invoices rendered covering work awarded under the Master Repair Contract subject to the Anti-Kickback and Davis-Bacon Acts.
+
+I hereby certify that in performing the work for which the invoice was rendered that all applicable terms and conditions of the Anti-Kickback and Davis-Bacon Acts as provided in the Master Repair Contract and regulations of the Department of Labor have been complied with.

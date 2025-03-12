@@ -1,0 +1,3 @@
+##### § 63.10420 How do I demonstrate continuous compliance with the management practice requirements? #####
+
+For each sterilization unit not equipped with an air pollution control device, you must demonstrate continuous compliance with the management practice standard in § 63.10390 by recording the date and time of each sterilization cycle, whether each sterilization cycle contains a full load of items, and if not, a statement from a hospital central services staff, a hospital administrator, or a physician that it was medically necessary.
