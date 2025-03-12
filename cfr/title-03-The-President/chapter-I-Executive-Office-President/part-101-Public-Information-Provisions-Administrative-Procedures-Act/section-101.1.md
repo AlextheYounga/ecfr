@@ -1,0 +1,3 @@
+##### § 101.1 Executive Office of the President. #####
+
+Until further regulations are promulgated, the remainder of the entities within the Executive Office of the President, to the extent that 5 U.S.C. 552 is applicable, shall follow the procedures set forth in the regulations applicable to the Office of Management and Budget (5 CFR Ch. III). Requests for information from these other entities should be submitted directly to such entity.
