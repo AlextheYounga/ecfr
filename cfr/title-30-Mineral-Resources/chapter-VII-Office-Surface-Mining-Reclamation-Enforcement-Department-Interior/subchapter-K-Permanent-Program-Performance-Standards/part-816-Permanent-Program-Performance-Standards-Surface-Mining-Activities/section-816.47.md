@@ -1,3 +1,3 @@
-##### § 816.47 Hydrologic balance: Discharge structures. #####
+##### § 816.47 What requirements apply to discharge structures for impoundments? #####
 
-Discharge from sedimentation ponds, permanent and temporary impoundments, coal processing waste dams and embankments, and diversions shall be controlled, by energy dissipators, riprap channels, and other devices, where necessary, to reduce erosion, to prevent deepening or enlargement of stream channels, and to minimize disturbance of the hydrologic balance. Discharge structures shall be designed according to standard engineering-design procedures.
+You must control discharges from sedimentation ponds, permanent and temporary impoundments, coal mine waste impounding structures, and diversions by energy dissipators, riprap channels, and other devices when necessary to reduce erosion, to control meander migration, to prevent deepening or enlargement of stream channels, or to minimize disturbance of the hydrologic balance. You must design discharge structures according to standard engineering design procedures.

@@ -1,5 +1,7 @@
 ##### § 404.1592f How do we determine reinstated benefits? #####
 
+Link to an amendment published at 82 FR 7648, Jan. 23, 2017.
+
 (a) If you meet the requirements for reinstatement under § 404.1592c(a), we will then consider in which month to reinstate your entitlement. We will reinstate your entitlement with the earliest month, in the 12-month period that ends with the month before you filed your request for reinstatement, that you would have met all of the requirements under § 404.1592c(a) if you had filed your request for reinstatement in that month. Otherwise, you will be entitled to reinstated benefits beginning with the month in which you filed your request for such benefits. We cannot reinstate your entitlement for any month prior to January 2001.
 
 (b) When your entitlement is reinstated, you are also entitled to Medicare benefits under the provisions of 42 CFR part 406.

@@ -85,7 +85,7 @@ Example.For the years 1964 through 1967, X, an organization referred to in secti
 
 For the years 1964 through 1967, X received in excess of 331/3 percent of its support from a governmental unit referred to in section 170(c)(1) and from direct and indirect contributions from the general public computed as follows:
 
-|                                                 33<br/>1/3 percent of total support                                                 |$200,000|
+|                                                   331/3 percent of total support                                                    |$200,000|
 |:------------------------------------------------------------------------------------------------------------------------------------|-------:|
 |                                  Support from a governmental unit referred to in section 170(c)(1)                                  | 40,000 |
 |                                    Indirect contributions from the general public (United Fund)                                     | 40,000 |

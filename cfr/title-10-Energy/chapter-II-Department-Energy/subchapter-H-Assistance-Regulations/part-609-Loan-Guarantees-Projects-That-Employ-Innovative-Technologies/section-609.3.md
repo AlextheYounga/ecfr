@@ -1,19 +1,21 @@
 ##### § 609.3 Solicitations. #####
 
-(a) DOE may issue solicitations to invite the submission of Pre-Applications or Applications for loan guarantees for Eligible Projects. DOE must issue a solicitation before proceeding with other steps in the loan guarantee process including issuance of a loan guarantee. A Project Sponsor or Applicant may only submit one Pre-Application or Application for one project using a particular technology. A Project Sponsor or Applicant, in other words, may not submit a Pre-Application or Application for multiple projects using the same technology.
+(a) DOE may invite the submission of Applications for loan guarantees for Eligible Projects pursuant to a Solicitation.
 
-(b) Each solicitation must include, at a minimum, the following information:
+(b) Each Solicitation must include, at a minimum, the following information:
 
-(1) The dollar amount of loan guarantee authority potentially being made available by DOE in that solicitation;
+(1) The dollar amount of loan guarantee authority potentially being made available by DOE in that Solicitation;
 
-(2) The place and time for response submission;
+(2) The place and deadline for submission of Applications;
 
-(3) The name and address of the DOE representative whom a potential Project Sponsor may contact to receive further information and a copy of the solicitation;
+(3) The name and address of the DOE representative whom a potential Applicant may contact to receive further information and a copy of the Solicitation;
 
-(4) The form, format, and page limits applicable to the response submission;
+(4) The form, format, and page limits applicable to the Application;
 
-(5) The amount of the application fee (First Fee), if any, that will be required;
+(5) The amount of the Application Fee and any other fees that will be required;
 
-(6) The programmatic, technical, financial and other factors the Secretary will use to evaluate response submissions, including the loan guarantee percentage requested by the Applicant and the relative weightings that DOE will use when evaluating those factors; and
+(6) The programmatic, technical, financial and other factors that DOE will use to evaluate response submissions, and their relative weightings in that evaluation; and
 
 (7) Such other information as DOE may deem appropriate.
+
+(c) Using procedures as may be announced by DOE a potential Applicant may request a meeting with DOE to discuss its potential Application. At its discretion, DOE may meet with a potential Applicant, either in person or electronically, to discuss its potential Application. DOE may provide a potential Applicant with a preliminary response regarding whether its proposed Application may constitute an Eligible Project. DOE's responses to questions from potential Applicants and DOE's statements to potential Applicants are pre-decisional and preliminary in nature. Any such responses and statements are subject in their entirety to any final action by DOE with respect to an Application submitted in accordance with § 609.4.

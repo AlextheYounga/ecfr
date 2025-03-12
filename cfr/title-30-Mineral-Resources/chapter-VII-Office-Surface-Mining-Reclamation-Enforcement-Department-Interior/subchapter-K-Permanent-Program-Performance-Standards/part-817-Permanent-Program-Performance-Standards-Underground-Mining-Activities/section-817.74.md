@@ -1,35 +1,39 @@
-##### § 817.74 Disposal of excess spoil: Preexisting benches. #####
+##### § 817.74 What special requirements apply to disposal of excess spoil on a preexisting bench? #####
 
-(a) The regulatory authority may approve the disposal of excess spoil through placement on a preexisting bench if the affected portion of the preexisting bench is permitted and the standards set forth in § 817.102 (c), (e) through (h), and (j), and the requirements of this section are met.
+(a) *General requirements.* The regulatory authority may approve the disposal of excess spoil through placement on a preexisting bench on a previously mined area or a bond forfeiture site if -
 
-(b) All vegetation and organic materials shall be removed from the affected portion of the preexisting bench prior to placement of the excess spoil. Any available topsoil on the bench shall be removed, stored and redistributed in accordance with § 817.22 of this part. Substitute or supplemental materials may be used in accordance with § 817.22(b) of this part.
+(1) The proposed permit area includes the portion of the preexisting bench on which the spoil will be placed;
 
-(c) The fill shall be designed and constructed using current, prudent engineering practices. The design will be certified by a registered professional engineer. The spoil shall be placed on the solid portion of the bench in a controlled manner and concurrently compacted as necessary to attain a long term static safety factor of 1.3 for all portions of the fill. Any spoil deposited on any fill portion of the bench will be treated as excess spoil fill under § 817.71.
+(2) The proposed operation will comply with the applicable requirements of § 817.102 of this part; and
 
-(d) The preexisting bench shall be backfilled and graded to -
+(3) The requirements of this section are met.
 
-(1) Achieve the most moderate slope possible which does not exceed the angle of repose;
+(b) *Requirements for removal and disposition of vegetation, other organic matter, and soil materials.* You must remove all vegetation, other organic matter, topsoil, and subsoil from the disposal area prior to placement of the excess spoil and store, redistribute, or otherwise use those materials in accordance with § 817.22 of this part. You may use soil substitutes and supplements if approved in the permit in accordance with § 784.12(e) of this chapter.
 
-(2) Eliminate the highwall to the maximum extent technically practical;
+(c)(1) The fill must be designed and constructed using current, prudent engineering practices.
 
-(3) Minimize erosion and water pollution both on and off the site; and
+(2) The design must be certified by a registered professional engineer.
 
-(4) If the disposal area contains springs, natural or manmade water courses, or wet weather seeps, the fill design shall include diversions and underdrains as necessary to control erosion, prevent water infiltration into the fill, and ensure stability.
+(3) If the disposal area contains springs, natural or manmade water courses, or wet weather seeps, the fill design must include underdrains and temporary diversions as necessary to control erosion, prevent water infiltration into the fill, and ensure stability. Underdrains must comply with the requirements of § 817.71(f)(3) of this part.
 
-(e) All disturbed areas, including diversion channels that are not riprapped or otherwise protected, shall be revegetated upon completion of construction.
+(d)(1) The spoil must be placed on the solid portion of the bench in a controlled manner and concurrently compacted as necessary to attain a long-term static safety factor of 1.3 for all portions of the fill.
 
-(f) Permanent impoundments may not be constructed on preexisting benches backfilled with excess spoil under this regulation.
+(2) Any spoil deposited on any fill portion of the bench must be treated as an excess spoil fill under § 817.71 of this part.
 
-(g) Final configuration of the backfill must be compatible with the natural drainage patterns and the surrounding area, and support the approved postmining land use.
+(e) You must grade the spoil placed on the preexisting bench to -
 
-(h) Disposal of excess spoil from an upper actively mined bench to a lower preexisting bench by means of gravity transport may be approved by the regulatory authority provided that -
+(1) Achieve a stable slope that does not exceed the angle of repose.
 
-(1) The gravity transport courses are determined on a site-specific basis by the operator as part of the permit application and approved by the regulatory authority to minimize hazards to health and safety and to ensure that damage will be minimized between the benches, outside the set course, and downslope of the lower bench should excess spoil accidentally move;
+(2) Eliminate the preexisting highwall to the maximum extent technically practical, using all reasonably available spoil, as that term is defined in § 701.5 of this chapter.
 
-(2) All gravity transported excess spoil, including that excess spoil immediately below the gravity transport courses and any preexisting spoil that is disturbed, is rehandled and placed in horizontal lifts in a controlled manner, concurrently compacted as necessary to ensure mass stability and to prevent mass movement, and graded to allow surface and subsurface drainage to be compatible with the natural surroundings and to ensure a minimum long-term static safety factor of 1.3. Excess spoil on the bench prior to the current mining operation that is not disturbed need not be rehandled except where necessary to ensure stability of the fill;
+(3) Minimize erosion and water pollution both on and off the site.
 
-(3) A safety berm is constructed on the solid portion of the lower bench prior to gravity transport of the excess spoil. Where there is insufficient material on the lower bench to construct a safety berm, only that amount of excess spoil necessary for the construction of the berm may be gravity transported to the lower bench prior to construction of the berm;
+(f) All disturbed areas, including diversion channels that are not riprapped or otherwise protected, must be revegetated upon completion of construction.
 
-(4) Excess spoil shall not be allowed on the downslope below the upper bench except on designated gravity transport courses properly prepared according to § 817.22. Upon completion of the fill, no excess spoil shall be allowed to remain on the designated gravity transport course between the two benches and each transport course shall be reclaimed in accordance with the requirements of this part.
+(g) You may not construct permanent impoundments on preexisting benches on which excess spoil is placed under this section.
 
-[48 FR 32929, July 19, 1983, as amended at 48 FR 44781, Sept. 30, 1983; 56 FR 65636, Dec. 17, 1991]
+(h) The final configuration of the fill on the preexisting bench must -
+
+(1) Be compatible with natural drainage patterns and the surrounding area.
+
+(2) Support the approved postmining land use.

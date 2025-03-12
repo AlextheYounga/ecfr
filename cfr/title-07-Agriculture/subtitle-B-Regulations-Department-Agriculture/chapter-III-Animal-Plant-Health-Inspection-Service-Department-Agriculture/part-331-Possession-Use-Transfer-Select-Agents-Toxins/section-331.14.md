@@ -1,5 +1,7 @@
 ##### § 331.14 Incident response.5 #####
 
+Link to an amendment published at 82 FR 6206, January 19, 2017.
+
 5 Nothing in this section is meant to supersede or preempt incident response requirements imposed by other statutes or regulations.
 
 (a) An individual or entity required to register under this part must develop and implement a written incident response plan6 based upon a site specific risk assessment. The incident response plan must be coordinated with any entity-wide plans, kept in the workplace, and available to employees for review.

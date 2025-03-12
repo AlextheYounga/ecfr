@@ -1,0 +1,13 @@
+##### § 800.44 Who may file an objection to a bond release application and how must the regulatory authority respond to an objection? #####
+
+(a)(1) Any person with a valid legal interest that might be adversely affected by release of the bond, or the responsible officer or head of any federal, state, tribal, or local governmental agency with jurisdiction by law or special expertise with respect to any environmental, social, or economic impact involved in the operation or which is authorized to develop and enforce environmental standards with respect to those operations, has the right to file written objections to the proposed bond release with the regulatory authority within 30 days after the last publication of the notice required by § 800.40(b)(2) of this part.
+
+(2) If written objections are filed and a hearing is requested, the regulatory authority must inform all interested parties of the time and place of the hearing, and hold a public hearing within 30 days after receipt of the request for the hearing. The regulatory authority must advertise the date, time, and location of the public hearing in a newspaper of general circulation in the locality for two consecutive weeks.
+
+(3) The public hearing must be held in the locality of the surface coal mining operation for which bond release is sought, at the location of the regulatory authority office, or at the state capital, at the option of the objector.
+
+(b)(1) For the purpose of the hearing under paragraph (a) of this section, the regulatory authority has the authority to administer oaths, subpoena witnesses or written or printed material, compel the attendance of witnesses or the production of materials, and take evidence including, but not limited to, inspection of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity.
+
+(2) A verbatim record of each public hearing must be made, and a transcript must be made available on the motion of any party or by order of the regulatory authority.
+
+(c) Without prejudice to the right of an objector or the applicant for bond release, the regulatory authority may hold an informal conference as provided in section 513(b) of the Act, 30 U.S.C. 1263(b), to resolve written objections. The regulatory authority must make a record of the informal conference unless waived by all parties, which must be accessible to all parties. The regulatory authority also must furnish all parties to the informal conference with a written finding based on the informal conference, and the reasons for the finding.

@@ -14,13 +14,13 @@
 
 (2) The election described in paragraph (a)(2) of this section may be made (or changed) not later than the time prescribed by law for filing the return (including extensions thereof) for the taxable year in which the mine with respect to which deductions were allowed under section 617(a) reaches the producing stage.
 
-(c) *Definitions* - (1) *Mine.* The term *mine* includes all quarries, pits, shafts, and wells, and any other excavations or workings for the purpose of extracting any known deposit of ore or other mineral.
+(c) *Definitions*—(1) *Mine.* The term *mine* includes all quarries, pits, shafts, and wells, and any other excavations or workings for the purpose of extracting any known deposit of ore or other mineral.
 
 (2) *Producing stage.* A mine will be considered to have reached the producing stage when (i) the major portion of the mineral production is obtained from workings other than those opened for the purpose of development, or (ii) the principal activity of the mine is the production of developed ores or minerals rather than the development of additional ores or minerals for mining.
 
 (3) *Mining property.* The term *mining property* means any property (as the term is defined in section 614(a) after the application of subsections (c) and (e) thereof) with respect to which any expenditures allowed as deductions under section 617(a) are properly chargeable.
 
-(d) *Adjusted exploration expenditures* - (1) *In general.* The term *adjusted exploration expenditures* means, with respect to any property or mine:
+(d) *Adjusted exploration expenditures*—(1) *In general.* The term *adjusted exploration expenditures* means, with respect to any property or mine:
 
 (i) The aggregate amount of the expenditures allowed as deductions under section 617(a) for the taxable year and all preceding taxable years to the taxpayer or any other person which are properly chargeable to such property or mine and which (but for the election under section 617(a)) would be reflected in the adjusted basis of such property or mine, reduced by
 
@@ -48,7 +48,7 @@ Example 1.On July 14, 1969, A purchased mineral property Z for $10,000. After de
 
 (4) *Partnership distributions.* The adjusted exploration expenditures with respect to any property or mine received by a taxpayer in a distribution with respect to all or part of his interest in a partnership (i) include the adjusted exploration expenditures (not otherwise included under section 617(f)(1)) with respect to such property or mine immediately prior to such distribution and (ii) shall be reduced by the amount of gain to which section 751(b) applies realized by the partnership (as constituted after the distribution) on the distribution of such property or mine. In the case of any property or mine held by a partnership after a distribution to a partner to which section 751(b) applies, the adjusted exploration expenditures with respect to such property or mine shall be reduced by the amount of gain (if any) to which section 751(b) applies realized by such partner with respect to such distribution on account of such property or mine.
 
-(5) *Amount of transferee's adjusted exploration expenditures immediately after certain acquisitions* - (i) *Transactions in which basis is determined by reference to the cost or fair market value of the property transferred. (a*) If on the date a person acquires mining property his basis for the property is determined solely by reference to its cost (within the meaning of section 1012), then on such date the amount of the adjusted exploration expenditures for the mining property in such person's hands is zero.
+(5) *Amount of transferee's adjusted exploration expenditures immediately after certain acquisitions*—(i) *Transactions in which basis is determined by reference to the cost or fair market value of the property transferred.* (*a*) If on the date a person acquires mining property his basis for the property is determined solely by reference to its cost (within the meaning of section 1012), then on such date the amount of the adjusted exploration expenditures for the mining property in such person's hands is zero.
 
 (*b*) If on the date a person acquires mining property his basis for the property is determined solely by reason of the application of section 301(d) (relating to basis of property received in corporate distribution) or section 334(a) (relating to basis of property received in a liquidation in which gain or loss is recognized), then on such date the amount of the adjusted exploration expenditures for the mining property in such person's hands is zero.
 
@@ -56,17 +56,19 @@ Example 1.On July 14, 1969, A purchased mineral property Z for $10,000. After de
 
 (*d*) If on the date a person acquires mining property from a decedent such person's basis is determined, by reason of the application of section 1014(a), solely by reference to the fair market value of the property on the date of the decedent's death or on the applicable date provided in section 2032 (relating to alternate valuation date), then on the date of acquisition the amount of the adjusted exploration expenditures for the mining property in such person's hands is zero.
 
-(ii) *Gifts and certain tax-free transactions. (a*) If mining property is disposed of in a transaction described in (*b*) of this subdivision (ii), then the amount of the adjusted exploration expenditures for the mining property in the hands of a transferee immediately after the disposition shall be an amount equal to:
+(ii) *Gifts and certain tax-free transactions.* (*a*) If mining property is disposed of in a transaction described in (*b*) of this subdivision (ii), then the amount of the adjusted exploration expenditures for the mining property in the hands of a transferee immediately after the disposition shall be an amount equal to:
 
 (*1*) The amount of the adjusted exploration expenditures with respect to the mining property in the hands of the transferor immediately before the disposition, minus
 
 (*2*) The amount of any gain taken into account under section 617(d) by the transferor upon the disposition.
 
-(*b*) The transactions referred to in (*a*) of this subdivision (ii) are:
+(*b*) The transactions referred to in paragraph (d)(5)(ii)(*a*) of this section are:
 
-(*1*) A disposition which is in part a sale or exchange and in part a gift, or
+(*1*) A disposition that is in part a sale or exchange and in part a gift;
 
-(*2*) A disposition which is described in section 617(d) through the incorporation by reference of the provisions of section 1245(b)(3) (relating to certain tax free transactions).
+(*2*) A disposition that is described in section 617(d) through the incorporation by reference of the provisions of section 1245(b)(3) (relating to certain tax free transactions); or
+
+(*3*) A transfer at death where basis of property in the hands of the transferee is determined under section 1022.
 
 (iii) *Property acquired from a decedent.* If mining property is acquired in a transfer at death to which section 617(d) applies through incorporation by reference of the provisions of section 1245(b)(2), the amount of the adjusted exploration expenditures with respect to the mining property in the hands of the transferee immediately after the transfer shall include the amount, if any, of the exploration expenditures deducted by the transferee before the decedent's death, to the extent that the basis of the mining property (determined under section 1014(a)) is required to be reduced under the second sentence of section 1014(b)(9) (relating to adjustments to basis where the property is acquired from a decedent prior to his death).
 
@@ -75,14 +77,14 @@ Example 1.On July 14, 1969, A purchased mineral property Z for $10,000. After de
 Example 1.A owns the working interest in a large tract of land located in the United States. A's interest in the entire tract of land constitutes one property for purposes of section 614. In the northwest corner of this tract is an operating mine, X, producing an ore of beryllium, which is entitled to a percentage depletion rate of 22 percent under section 613(b)(2)(B). During 1971, A conducts an exploration program in the southeast corner of this same tract of land, and he incurs $400,000 of expenditures to which section 617(a)(1) applies in connection with this exploration program. A elects to deduct this amount as expenses under section 617(a). During 1971, A's *gross income from the property* computed under section 613 was $1 million, with respect to the property encompassing mine X and the area in which exploration was conducted. A's *taxable income from the property* computed under section 613, before adjustment to reflect the deductions taken with respect to the property during the year under section 617, was $400,000. The cost depletion deduction allowable and deducted with respect to the property during 1971 was $50,000. The amount of adjusted exploration expenditures chargeable to the exploratory mine (hereinafter referred to as mine Y) at the close of 1971 is $250,000, computed as follows:
 
 |                                        Expenditures allowed as deductions under sec. 617(a)                                        |          |$400,000|
-|:-----------------------------------------------------------------------------------------------------------------------------------|---------:|-------:|
+|------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
 |                                                   Gross income from the property                                                   |$1,000,000|        |
 |                                                         22 percent thereof                                                         | 220,000  |        |
 |            Taxable income from the property, before adjustment to reflect deductions allowed under sec. 617 during year            | 400,000  |        |
-|                                              50 percent thereof - tentative deduction                                              | 200,000  |        |
+|                                               50 percent thereof—tentative deduction                                               | 200,000  |        |
 |Taxable income from the property after adjustment to reflect deductions allowed under sec. 617 during year ($400,000 minus $400,000)|    0     |        |
 |                                                  Cost depletion allowed for year                                                   |  50,000  |        |
 |Amount by which allowance for depletion under sec. 611 was reduced on account of deductions under sec. 617 ($200,000 minus $50,000) |          |150,000 |
 |                                          Adjusted exploration expenditures at end of 1971                                          |          |250,000 |
 
-Example 2.Assume the same facts as in example 1. Assume further that mine Y, with respect to which exploration expenditures were deducted in 1971, enters the producing stage in 1972, and that no deductions were taken under section 617 with respect to that mine after 1971. A does not make an election under section 617(b)(1)(A) during 1972. Assume that the depletion deduction which would be allowable for 1972 with respect to the property (which includes both mines) but for the application of section 617(b)(1)(B) is $100,000. Pursuant to section 617(b)(1)(B), this depletion deduction is disallowed. Therefore, the amount of adjusted exploration expenditures with respect to mine Y at the end of 1972 is $150,000 ($250,000 less $100,000).[T.D. 7192, 37 FR 12945, June 30, 1972]
+Example 2.Assume the same facts as in example 1. Assume further that mine Y, with respect to which exploration expenditures were deducted in 1971, enters the producing stage in 1972, and that no deductions were taken under section 617 with respect to that mine after 1971. A does not make an election under section 617(b)(1)(A) during 1972. Assume that the depletion deduction which would be allowable for 1972 with respect to the property (which includes both mines) but for the application of section 617(b)(1)(B) is $100,000. Pursuant to section 617(b)(1)(B), this depletion deduction is disallowed. Therefore, the amount of adjusted exploration expenditures with respect to mine Y at the end of 1972 is $150,000 ($250,000 less $100,000).[T.D. 7192, 37 FR 12945, June 30, 1972, as amended by T.D. 9811, 82 FR 6238, Jan. 19, 2017]

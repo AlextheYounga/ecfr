@@ -1,5 +1,7 @@
 ##### § 199.225 Alcohol tests required. #####
 
+Link to an amendment published at 82 FR 8001, January 23, 2017.
+
 Each operator shall conduct the following types of alcohol tests for the presence of alcohol:
 
 (a) *Post-accident.* (1) As soon as practicable following an accident, each operator shall test each surviving covered employee for alcohol if that employee's performance of a covered function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. The decision not to administer a test under this section shall be based on the operator's determination, using the best available information at the time of the determination, that the covered employee's performance could not have contributed to the accident.

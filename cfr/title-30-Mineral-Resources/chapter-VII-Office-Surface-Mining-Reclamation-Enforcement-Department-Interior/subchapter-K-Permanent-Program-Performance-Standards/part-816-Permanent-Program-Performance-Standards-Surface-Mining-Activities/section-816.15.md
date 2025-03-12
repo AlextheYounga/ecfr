@@ -1,5 +1,1 @@
-##### § 816.15 Casing and sealing of drilled holes: Permanent. #####
-
-When no longer needed for monitoring or other use approved by the regulatory authority upon a finding of no adverse environmental or health and safety effect, or unless approved for transfer as a water well under § 816.41, each exploration hole, other drilled hole or borehole, well, and other exposed underground opening shall be capped, sealed, backfilled, or otherwise properly managed, as required by the regulatory authority, under § 816.13 and consistent with 30 CFR 75.1711. Permanent closure measures shall be designed to prevent access to the mine workings by people, livestock, fish and wildlife, and machinery, and to keep acid or other toxic drainage from entering ground or surface waters.
-
-[44 FR 15395, Mar. 13, 1979, as amended at 48 FR 43990, Sept. 26, 1983]
+##### § 816.15 [Reserved] #####

@@ -1,5 +1,7 @@
 ##### § 195.120 Passage of internal inspection devices. #####
 
+Link to an amendment published at 82 FR 7999, January 23, 2017.
+
 (a) Except as provided in paragraphs (b) and (c) of this section, each new pipeline and each line section of a pipeline where the line pipe, valve, fitting or other line component is replaced; must be designed and constructed to accommodate the passage of instrumented internal inspection devices.
 
 (b) This section does not apply to:

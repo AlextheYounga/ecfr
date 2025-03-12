@@ -1,6 +1,6 @@
 ##### § 1.336-1 General principles, nomenclature, and definitions for a section 336(e) election. #####
 
-(a) *Overview* - (1) *In general.* Section 336(e) authorizes the promulgation of regulations under which, in certain circumstances, a sale, exchange, or distribution of the stock of a corporation may be treated as an asset sale. This section and §§ 1.336-2 through 1.336-5 provide the rules for and consequences of making such election. This section provides the definitions and nomenclature. Generally, except to the extent inconsistent with section 336(e), the results of section 336(e) should coincide with those of section 338(h)(10). Accordingly, to the extent not inconsistent with section 336(e) or these regulations, the principles of section 338 and the regulations under section 338 apply for purposes of these regulations. For example, § 1.338(h)(10)-1(d)(8), concerning the availability of the section 453 installment method, may apply with respect to section 336(e).
+(a) *Overview*—(1) *In general.* Section 336(e) authorizes the promulgation of regulations under which, in certain circumstances, a sale, exchange, or distribution of the stock of a corporation may be treated as an asset sale. This section and §§ 1.336-2 through 1.336-5 provide the rules for and consequences of making such election. This section provides the definitions and nomenclature. Generally, except to the extent inconsistent with section 336(e), the results of section 336(e) should coincide with those of section 338(h)(10). Accordingly, to the extent not inconsistent with section 336(e) or these regulations, the principles of section 338 and the regulations under section 338 apply for purposes of these regulations. For example, § 1.338(h)(10)-1(d)(8), concerning the availability of the section 453 installment method, may apply with respect to section 336(e).
 
 (2) *Consistency rules.* In general, the principles of § 1.338-8, concerning asset and stock consistency, apply with respect to section 336(e). However, for this purpose, the application of § 1.338-8(b)(1) is modified such that § 1.338-8(b)(1)(iii) applies to an asset if the asset is owned, immediately after its acquisition and on the disposition date, by a person or by a related person (as defined in § 1.336-1(b)(12)) to a person that acquires, by sale, exchange, distribution, or any combination thereof, five percent or more, by value, of the stock of target in the qualified stock disposition.
 
@@ -14,9 +14,9 @@
 
 (4) *S corporation shareholders. S corporation shareholders* are the S corporation target's shareholders. Unless otherwise provided, a reference to S corporation shareholders refers both to S corporation shareholders who dispose of and those who do not dispose of their S corporation target stock.
 
-(5) *Disposed of; disposition* - (i) *In general.* The term *disposed of* refers to a transfer of stock in a disposition. The term *disposition* means any sale, exchange, or distribution of stock, but only if -
+(5) *Disposed of; disposition*—(i) *In general.* The term *disposed of* refers to a transfer of stock in a disposition. The term *disposition* means any sale, exchange, or distribution of stock, but only if—
 
-(A) The basis of the stock in the hands of the purchaser is not determined in whole or in part by reference to the adjusted basis of such stock in the hands of the person from whom the stock is acquired or under section 1014(a) (relating to property acquired from a decedent);
+(A) The basis of the stock in the hands of the purchaser is not determined in whole or in part by reference to the adjusted basis of such stock in the hands of the person from whom the stock is acquired, is not determined under section 1014(a) (relating to property acquired from a decedent), or is not determined under section 1022 (relating to the basis of property acquired from certain decedents who died in 2010);
 
 (B) Except as provided in paragraph (b)(5)(ii) of this section, the stock is not sold, exchanged, or distributed in a transaction to which section 351, 354, 355, or 356 applies and is not sold, exchanged, or distributed in any transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized in the transaction; and
 
@@ -30,9 +30,9 @@
 
 (v) *Disposed of stock reacquired by certain persons.* Stock disposed of by seller to another person under this section that is reacquired by seller or a member of seller's consolidated group during the 12-month disposition period shall not be considered as disposed of. Similarly, stock disposed of by an S corporation shareholder to another person under this section that is reacquired by the S corporation shareholder or by a person related (within the meaning of paragraph (b)(12) of this section) to the S corporation shareholder during the 12-month disposition period shall not be considered as disposed of.
 
-(6) *Qualified stock disposition* - (i) *In general.* The term *qualified stock disposition* means any transaction or series of transactions in which stock meeting the requirements of section 1504(a)(2) of a domestic corporation is either sold, exchanged, or distributed, or any combination thereof, by another domestic corporation or by the S corporation shareholders in a disposition, within the meaning of paragraph (b)(5) of this section, during the 12-month disposition period.
+(6) *Qualified stock disposition*—(i) *In general.* The term *qualified stock disposition* means any transaction or series of transactions in which stock meeting the requirements of section 1504(a)(2) of a domestic corporation is either sold, exchanged, or distributed, or any combination thereof, by another domestic corporation or by the S corporation shareholders in a disposition, within the meaning of paragraph (b)(5) of this section, during the 12-month disposition period.
 
-(ii) *Overlap with qualified stock purchase* - (A) *In general.* Except as provided in paragraph (b)(6)(ii)(B) of this section, a transaction satisfying the definition of a qualified stock disposition under paragraph (b)(6)(i) of this section, which also qualifies as a qualified stock purchase (as defined in section 338(d)(3)), will not be treated as a qualified stock disposition.
+(ii) *Overlap with qualified stock purchase*—(A) *In general.* Except as provided in paragraph (b)(6)(ii)(B) of this section, a transaction satisfying the definition of a qualified stock disposition under paragraph (b)(6)(i) of this section, which also qualifies as a qualified stock purchase (as defined in section 338(d)(3)), will not be treated as a qualified stock disposition.
 
 (B) *Exception.* If, as a result of the deemed sale of old target's assets pursuant to a section 336(e) election, there would be, but for paragraph (b)(6)(ii)(A) of this section, a qualified stock disposition of the stock of a subsidiary of target, then paragraph (b)(6)(ii)(A) shall not apply to the disposition of the stock of the subsidiary.
 
@@ -62,4 +62,4 @@
 
 (c) *Nomenclature.* For purposes of §§ 1.336-1 through 1.336-5, except as otherwise provided, Parent, Seller, Target, Sub, S Corporation Target, and Target Subsidiary are domestic corporations and A, B, C, and D are individuals, none of whom are related to Parent, Seller, Target, Sub, S Corporation Target, Target Subsidiary, or each other.
 
-[T.D. 9619, 78 FR 28474, May 15, 2013]
+[T.D. 9619, 78 FR 28474, May 15, 2013, as amended by T.D. 9811, 82 FR 6237, Jan. 19, 2017]

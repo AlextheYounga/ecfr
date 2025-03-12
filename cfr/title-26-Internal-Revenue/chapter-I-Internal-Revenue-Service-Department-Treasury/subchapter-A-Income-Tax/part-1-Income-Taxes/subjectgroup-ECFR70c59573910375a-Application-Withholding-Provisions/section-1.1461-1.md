@@ -46,7 +46,7 @@
 
 (C) *Coordination with chapter 4 reporting.* See § 1.1474-1(d)(1)(ii)(A) for persons that are defined as recipients of a withholdable payment of U.S. source FDAP income for purposes of chapter 4 in addition to the persons that are recipients under this paragraph (c)(1)(ii).
 
-(2) *Amounts subject to reporting* - (i) *In general.* Subject to the exceptions described in paragraph (c)(2)(ii) of this section, amounts subject to reporting on Form 1042-S are amounts paid to a foreign payee or partner (including persons presumed to be foreign) that are amounts subject to withholding as defined in § 1.1441-2(a) or § 1.1446-4(a) (addressing publicly traded partnerships required to pay withholding tax under section 1446 on distributions of effectively connected income). The reference in the previous sentence to withholding under § 1.1446-4 shall apply to partnership taxable years beginning after May 18, 2005, or such earlier time as the regulations under §§ 1.1446-1 through 1.1446-5 apply by reason of an election under § 1.1446-7. Amounts subject to reporting include amounts subject to withholding even if no amount is deducted and withheld from the payment because of a treaty or Internal Revenue Code exception to taxation or because an amount withheld was reimbursed to the payee under the adjustment procedures of § 1.1461-2. In addition, amounts subject to reporting include any amounts paid to a foreign payee on which a withholding agent withheld an amount (either under chapter 3 of the Internal Revenue Code or section 3406) whether or not the amount is subject to withholding. Amounts subject to reporting include, but are not limited to, the following items -
+(2) *Amounts subject to reporting* - (i) *In general.* Subject to the exceptions described in paragraph (c)(2)(ii) of this section, amounts subject to reporting on Form 1042-S are amounts paid to a foreign payee or partner (including persons presumed to be foreign) that are amounts subject to withholding as defined in § 1.1441-2(a) or § 1.1446-4(a) (addressing publicly traded partnerships required to pay withholding tax under section 1446 on distributions of effectively connected income). The reference in the previous sentence to withholding under § 1.1446-4 shall apply to partnership taxable years beginning after May 18, 2005, or such earlier time as the regulations under §§ 1.1446-1 through 1.1446-5 apply by reason of an election under § 1.1446-7. Amounts subject to reporting include amounts subject to withholding even if no amount is deducted and withheld from the payment because of a treaty or Internal Revenue Code exception to taxation or because an amount withheld was reimbursed to the payee under the adjustment procedures of § 1.1461-2. In addition, amounts subject to reporting include any amounts paid to a foreign payee on which a withholding agent withheld (including under § 1.1441-2(e)(7)) an amount (either under chapter 3 of the Internal Revenue Code or section 3406) whether or not the amount is subject to withholding. Amounts subject to reporting include, but are not limited to, the following items -
 
 (A) The entire amount of a corporate distribution (whether actual or deemed) irrespective of any estimate of the portion of the distribution that represents a taxable dividend;
 
@@ -72,7 +72,7 @@
 
 (L) Dividend equivalents as described in section 871(m) and the regulations thereunder;
 
-(M) Any dividend or any payment that references the payment of a dividend from an underlying security pursuant to a securities lending or sale-repurchase transaction paid to a qualified derivatives dealer even when the withholding agent is not required to withhold on the payment pursuant to § 1.1441-1(b)(4)(xxi), (xxii), or (xxiii);
+(M) Any dividend or any payment that references a dividend from an underlying security pursuant to a securities lending or sale-repurchase transaction paid to a qualified derivatives dealer even when the withholding agent is not required to withhold on the payment pursuant to § 1.1441-1(b)(4)(xxi), (xxii), or (xxiii);
 
 (N) Amounts paid to foreign governments, international organizations, or the Bank for International Settlements, whether or not documentation must be provided; and
 
@@ -98,7 +98,7 @@
 
 (I) Interest on a foreign-targeted bearer obligation (see §§ 1.1441-1(b)(4)(i) and 1.1441-2(a)) issued before March 19, 2012;
 
-(J) Except as provided in § 1.1461-1(c)(2)(i)(M), any payment to a qualified derivatives dealer when the withholding agent is not required to withhold on the payment pursuant to § 1.1441-1(b)(4)(xxi), (xxii), or (xxiii);
+(J) Except as provided in § 1.1461-1(c)(2)(i)(M), any payment to a qualified derivatives dealer when the withholding agent is not required to withhold on the payment pursuant to § 1.1441-1(b)(4)(xxi), (xxii), or (xxiii). This exception does not apply to withholding agents that are qualified derivatives dealers;
 
 (K) Gain described in section 301(c)(3); and
 

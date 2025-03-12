@@ -1,5 +1,7 @@
 ##### § 192.14 Conversion to service subject to this part. #####
 
+Link to an amendment published at 82 FR 7997, January 23, 2017.
+
 (a) A steel pipeline previously used in service not subject to this part qualifies for use under this part if the operator prepares and follows a written procedure to carry out the following requirements:
 
 (1) The design, construction, operation, and maintenance history of the pipeline must be reviewed and, where sufficient historical records are not available, appropriate tests must be performed to determine if the pipeline is in a satisfactory condition for safe operation.

@@ -98,6 +98,6 @@ Example 11.*Indemnification of guarantees.* (i) The facts are the same as in *Ex
 
 (m) *Expiration date* - (1) Paragraphs (a) through (c)(2) and (d) through (l)(3) of this section expire on October 4, 2019.
 
-(2) Paragraphs (c)(3) and (l)(4) of this section expire on October 11, 2019.
+(2) Paragraphs (c)(3) and (l)(4) of this section expire on October 13, 2019.
 
-[T.D. 9788, 81 FR 69288, Oct. 5, 2016, as amended by T.D. 9790, 81 FR 72984, Oct. 21, 2016]
+[T.D. 9788, 81 FR 69288, Oct. 5, 2016, as amended by T.D. 9790, 81 FR 72984, Oct. 21, 2016; 82 FR 8169, Jan. 24, 2107]

@@ -1,33 +1,59 @@
-##### § 816.43 Diversions. #####
+##### § 816.43 How must I construct and maintain diversions? #####
 
-(a) *General requirements.* (1) With the approval of the regulatory authority, any flow from mined areas abandoned before May 3, 1978, and any flow from undisturbed areas or reclaimed areas, after meeting the criteria of § 816.46 for siltation structure removal, may be diverted from disturbed areas by means of temporary or permanent diversions. All diversions shall be designed to minimize adverse impacts to the hydrologic balance within the permit and adjacent areas, to prevent material damage outside the permit area and to assure the safety of the public. Diversions shall not be used to divert water into underground mines without approval of the regulatory authority under § 816.41(i).
+(a) *Classification.* The term *diversion* applies to the following categories of channels that convey surface water flow:
 
-(2) The diversion and its appurtenant structures shall be designed, located, constructed, maintained and used to -
+(1) *Diversion Ditches.* Diversion ditches are channels constructed to convey surface water runoff or other flows from areas not disturbed by mining activities away from or around disturbed areas. Diversion ditches may be temporary or permanent.
 
-(i) Be stable;
+(i) You must remove a temporary diversion ditch as soon as it is no longer needed. You must restore the land disturbed by the removal process in accordance with the approved permit and § 816.55 of this part. Before removing a temporary diversion ditch, you must modify or remove downstream water treatment facilities previously protected by the ditch to prevent overtopping or failure of the facilities. You must continue to maintain water treatment facilities until they are no longer needed.
 
-(ii) Provide protection against flooding and resultant damage to life and property;
+(ii) You may retain a *diversion ditch* as a permanent structure if you demonstrate and the regulatory authority finds that retention of that diversion ditch would -
 
-(iii) Prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow outside the permit area; and
+(A) Be environmentally beneficial;
 
-(iv) Comply with all applicable local, State, and Federal laws and regulations.
+(B) Meet the requirements of the reclamation plan approved under § 780.12 of this chapter; and
 
-(3) Temporary diversions shall be removed promptly when no longer needed to achieve the purpose for which they were authorized. The land disturbed by the removal process shall be restored in accordance with this part. Before diversions are removed, downstream water-treatment facilities previously protected by the diversion shall be modified or removed, as necessary, to prevent overtopping or failure of the facilities. This requirement shall not relieve the operator from maintaining water-treatment facilities as otherwise required. A permanent diversion or a stream channel reclaimed after the removal of a temporary diversion shall be designed and constructed so as to restore or approximate the premining characteristics of the original stream channel including the natural riparian vegetation to promote the recovery and the enhancement of the aquatic habitat.
+(C) Be consistent with the surface drainage pattern restoration requirements of §§ 816.56 and 816.57 of this part.
 
-(4) The regulatory authority may specify design criteria for diversions to meet the requirements of this section.
+(iii) When approved in the permit, you may divert the following flows away from the disturbed area by means of temporary or permanent diversion ditches without treatment:
 
-(b) *Diversion of perennial and intermittent streams.* (1) Diversion of perennial and intermittent streams within the permit area may be approved by the regulatory authority after making the finding relating to stream buffer zones that the diversion will not adversely affect the water quantity and quality and related environmental resources of the stream.
+(A) Any surface runoff or other flows from mined areas abandoned before May 3, 1978.
 
-(2) The design capacity of channels for temporary and permanent stream channel diversions shall be at least equal to the capacity of the unmodified stream channel immediately upstream and downstream from the diversion.
+(B) Any surface runoff or other flows from undisturbed areas.
 
-(3) The requirements of paragraph (a)(2)(ii) of this section shall be met when the temporary and permanent diversions for perennial and intermittent streams are designed so that the combination of channel, bank and flood-plain configuration is adequate to pass safely the peak runoff of a 10-year, 6-hour precipitation event for a temporary diversion and a 100-year, 6-hour precipitation event for a permanent diversion.
+(C) Any surface runoff or other flows from reclaimed areas for which the criteria of § 816.46 of this part for siltation structure removal have been met.
 
-(4) The design and construction of all stream channel diversions of perennial and intermittent streams shall be certified by a qualified registered professional engineer as meeting the performance standards of this part and any design criteria set by the regulatory authority.
+(2) *Stream diversions.* Stream diversions are temporary or permanent relocations of perennial or intermittent streams. Diversions of perennial and intermittent streams must comply with the applicable requirements of this section, § 780.28 of this chapter, and § 816.57 of this part.
 
-(c) *Diversion of miscellaneous flows.* (1) Miscellaneous flows, which consist of all flows except for perennial and intermittent streams, may be diverted away from disturbed areas if required or approved by the regulatory authority. Miscellaneous flows shall include ground-water discharges and ephemeral streams.
+(i) You must remove *temporary stream diversions* after the original stream channel is reconstructed after mining. As set forth in § 780.28(f) of this chapter, different requirements apply to temporary stream diversions depending on whether they will be in existence for less or more than 3 years.
 
-(2) The design, location, construction, maintenance, and removal of diversions of miscellaneous flows shall meet all of the performance standards set forth in paragraph (a) of this section:
+(ii) *Permanent stream diversions* remain in their locations following mining and reclamation.
 
-(3) The requirements of paragraph (a)(2)(ii) of this section shall be met when the temporary and permanent diversions for miscellaneous flows are designed so that the combination of channel, bank and flood-plain configuration is adequate to pass safely the peak runoff of a 2-year, 6-hour precipitation event for a temporary diversion and a 10-year, 6-hour precipitation event for a permanent diversion.
+(3) *Conveyances and channels within the disturbed area.* All other conveyances and channels that are constructed within the disturbed area to transport surface water are also diversions. During mining, these channels or conveyances must deliver all captured surface water flow to siltation structures.
 
-[48 FR 43991, Sept. 26, 1983, as amended at 73 FR 75882, Dec. 12, 2008; 79 FR 76231, Dec. 22, 2014]
+(i) You must remove temporary conveyances or channels when they are no longer needed for their intended purpose.
+
+(ii) When approved in the permit, you may retain conveyances or channels that support or enhance the approved postmining land use.
+
+(b) *Design criteria.* When the permit requires the use of siltation structures for sediment control, you must construct diversions designed to the standards of this section to convey runoff from the disturbed area to the siltation structures unless the topography will naturally direct all surface runoff or other flows to a siltation structure.
+
+(1) You must design all diversions to -
+
+(i) Ensure the safety of the public.
+
+(ii) Minimize adverse impacts to the hydrologic balance, including the biology of perennial and intermittent streams, within the permit and adjacent areas.
+
+(iii) Prevent material damage to the hydrologic balance outside the permit area.
+
+(2) You must design, locate, construct, maintain, and use each diversion and its appurtenant structures to -
+
+(i) Be stable.
+
+(ii) Provide and maintain the capacity to safely pass the peak flow of surface runoff from a 2-year, 6-hour precipitation event for a temporary diversion and a 10-year, 6-hour precipitation event for a permanent diversion. Flow capacity for stream diversions includes both the in-channel capacity and the flood-prone area overbank capacity. Flow capacity for diversion ditches and conveyances or channels includes only in-channel capacity, with adequate freeboard to prevent out-of-channel flow. You must use the appropriate regional Natural Resources Conservation Service synthetic storm distribution to determine peak flows.
+
+(iii) Prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow or runoff outside the permit area.
+
+(iv) Comply with all applicable federal, state, tribal, and local laws and regulations.
+
+(c) *Application to § 816.41.* You may not divert surface runoff or other flows into underground mines without approval of the regulatory authority under § 816.41 of this part.
+
+(d) *Additional requirements.* The regulatory authority may specify additional design criteria for diversions to meet the requirements of this section.

@@ -1,5 +1,7 @@
 ##### § 195.588 What standards apply to direct assessment? #####
 
+Link to an amendment published at 82 FR 8000, January 23, 2017.
+
 (a) If you use direct assessment on an onshore pipeline to evaluate the effects of external corrosion, you must follow the requirements of this section for performing external corrosion direct assessment. This section does not apply to methods associated with direct assessment, such as close interval surveys, voltage gradient surveys, or examination of exposed pipelines, when used separately from the direct assessment process.
 
 (b) The requirements for performing external corrosion direct assessment are as follows:

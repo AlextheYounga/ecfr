@@ -38,14 +38,14 @@ If such percentage is less than 60 percent of the total assets in the case of an
 
 Example.M is a cooperative bank to which section 593 applies. For its taxable year beginning in 1970, 80.4 percent of M's assets (computed as of the close of such year) constitute assets described in section 7701(a)(19)(C). M's assets which are assets described in section 7701(a)(19)(C), when computed on semiannual, quarterly, and monthly bases, constitute 79.8, 79.6, and 79.5 percent, respectively, of its total assets computed on the corresponding bases. M's applicable percentage for 1970 is 56.25 percent, determined as follows:
 
-|                                                                                                                                                                        |Percent|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-|                                          Percentage of total assets specified in (a) of subdivision (i) of this subparagraph                                           | 82.0  |
-|                                           Percentage of total assets constituting assets described in section 7701(a)(19)(C)                                           | 80.4  |
-|                                                                               Difference                                                                               |  1.6  |
-|                                           Applicable percentage determined under table in subparagraph (1) of this paragraph                                           | 57.0  |
-|Reduction of applicable percentage required by (a) of subdivision (i) of this subparagraph (<br/>3/4 of 1 percentage point for each full percentage point of difference)|  .75  |
-|                                                                         Applicable percentage                                                                          | 56.25 |
+|                                                                                                                                                                   |Percent|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|                                        Percentage of total assets specified in (a) of subdivision (i) of this subparagraph                                        | 82.0  |
+|                                        Percentage of total assets constituting assets described in section 7701(a)(19)(C)                                         | 80.4  |
+|                                                                            Difference                                                                             |  1.6  |
+|                                        Applicable percentage determined under table in subparagraph (1) of this paragraph                                         | 57.0  |
+|Reduction of applicable percentage required by (a) of subdivision (i) of this subparagraph (3/4 of 1 percentage point for each full percentage point of difference)|  .75  |
+|                                                                       Applicable percentage                                                                       | 56.25 |
 
 (3) *Reduction for addition to reserve for nonqualifying loans* - (i) *General rule.* Subparagraph (1) of this paragraph provides that, subject to certain limitations, the amount determined under the percentage of taxable income method provided by section 593(b)(2) and this paragraph for the taxable year is an amount equal to the applicable percentage of the taxable income for such year, reduced by the amount determined under this subparagraph. In the case of a thrift institution other than a mutual savings bank, the amount determined under this subparagraph is an amount equal to the amount determined under paragraph (a)(1)(i) of § 1.593-5 to be a reasonable addition for the taxable year to the reserve for losses on nonqualifying loans multiplied by a fraction:
 

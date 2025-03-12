@@ -16,6 +16,8 @@
 
 (4) A transfer described in paragraph (e)(4) of § 1.1250-3 (relating to transaction under section 1081(d)(1)(A)).
 
+(5) A transfer at death where the basis of the property in the hands of the transferee is determined under section 1022.
+
 (d) *Principal residence acquired in certain transactions.* The holding period of a principal residence acquired in a transaction to which section 1034 and paragraph (g)(6) of § 1.1250-3 apply includes the holding period of the principal residence disposed of in such transaction. See section 1250(e)(3). The holding period of a principal residence acquired does not include the period beginning on the day after the date of the disposition and ending on the date of the acquisition.
 
 (e) *Application of transferred basis and principal residence rules.* The determination of holding period under this section shall be made without regard to whether a transaction occurred prior to the effective date of section 1250 and without regard to whether there was any gain upon the transaction. Thus, for example, under paragraph (c) of this section a donee's holding period for property includes his donor's holding period notwithstanding that the gift occurred on or before December 31, 1963, or that there was no additional depreciation in respect of the property at the time of the gift.
@@ -24,4 +26,6 @@
 
 (g) *Cross reference.* If the adjusted basis of the property in the hands of the transferee immediately after a transaction to which paragraph (c) or (d) of this section applies exceeds its adjusted basis in the hands of the transferor immediately before the transaction, the excess is an addition to capital account under paragraph (d)(2)(ii) of § 1.1250-5 (relating to property with two or more elements).
 
-[T.D. 7084, 36 FR 281, Jan. 8, 1971, as amended by T.D. 7400, 41 FR 5103, Feb. 4, 1976]
+(h) *Effective/applicability date.* This section applies on and after January 19, 2017. For rules before January 19, 2017, see § 1.1250-4 as contained in 26 CFR part 1 revised as of April 1, 2016.
+
+[T.D. 7084, 36 FR 281, Jan. 8, 1971, as amended by T.D. 7400, 41 FR 5103, Feb. 4, 1976; T.D. 9811, 82 FR 6241, Jan. 19, 2017]

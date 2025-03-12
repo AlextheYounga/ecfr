@@ -1,6 +1,6 @@
 ##### § 429.110 Enforcement testing. #####
 
-Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95800, Dec. 28, 2016.
 
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
@@ -68,10 +68,12 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (5) For pumps, DOE will use an initial sample size of not more than four units and will determine compliance based on the arithmetic mean of the sample.
 
-(6) Notwithstanding paragraphs (e)(1) through (5) of this section, if testing of the available or subsequently available units of a basic model would be impractical, as for example when a basic model has unusual testing requirements or has limited production, DOE may in its discretion decide to base the determination of compliance on the testing of fewer than the otherwise required number of units.
+(6) For uninterruptible power supplies, if a basic model is certified for compliance to the applicable energy conservation standard(s) in § 430.32 of this chapter according to the sampling plan in § 429.39(a)(2)(iv)(A) of this chapter, DOE will use a sample size of not more than 21 units and follow the sampling plan in appendix A of this subpart (Sampling for Enforcement Testing of Covered Consumer Products and Certain High-Volume Commercial Equipment). If a basic model is certified for compliance to the applicable energy conservation standard(s) in § 430.32 of this chapter according to the sampling plan in § 429.39(a)(2)(iv)(B) of this chapter, DOE will use a sample size of at least one unit and follow the sampling plan in appendix D of this subpart (Sampling for Enforcement Testing of Uninterruptible Power Supplies).
 
-(7) When DOE makes a determination in accordance with paragraph (e)(6) to test less than the number of units specified in paragraphs (e)(1) through (5) of this section, DOE will base the compliance determination on the results of such testing in accordance with appendix B of this subpart (Sampling Plan for Enforcement Testing of Covered Equipment and Certain Low-Volume Covered Products) using a sample size (n1) equal to the number of units tested.
+(7) Notwithstanding paragraphs (e)(1) through (6) of this section, if testing of the available or subsequently available units of a basic model would be impractical, as for example when a basic model has unusual testing requirements or has limited production, DOE may in its discretion decide to base the determination of compliance on the testing of fewer than the otherwise required number of units.
 
-(8) For the purposes of this section, available units are those that are available for distribution in commerce within the United States.
+(8) When DOE makes a determination in accordance with paragraph (e)(7) of this section to test less than the number of units specified in paragraphs (e)(1) through (6) of this section, DOE will base the compliance determination on the results of such testing in accordance with appendix B of this subpart (Sampling Plan for Enforcement Testing of Covered Equipment and Certain Low-Volume Covered Products) using a sample size (n1) equal to the number of units tested.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016]
+(9) For the purposes of this section, available units are those that are available for distribution in commerce within the United States.
+
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016]

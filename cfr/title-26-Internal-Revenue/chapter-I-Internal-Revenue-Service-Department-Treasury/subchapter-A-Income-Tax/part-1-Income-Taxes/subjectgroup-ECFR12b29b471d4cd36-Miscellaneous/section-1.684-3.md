@@ -4,7 +4,9 @@
 
 (b) *Transfers to charitable trusts.* The general rule of gain recognition under § 1.684-1 shall not apply to any transfer of property to a foreign trust that is described in section 501(c)(3) (without regard to the requirements of section 508(a)).
 
-(c) *Certain transfers at death.* The general rule of gain recognition under § 1.684-1 shall not apply to any transfer of property by reason of death of the U.S. transferor if the basis of the property in the hands of the foreign trust is determined under section 1014(a).
+(c) *Certain transfers at death*—(1) *Section 1014 basis.* The general rule of gain recognition under § 1.684-1 shall not apply to any transfer of property to a foreign trust or foreign estate or, in the case of a transfer of property by a U.S. transferor decedent dying in 2010, to a foreign trust, foreign estate, or a nonresident alien, by reason of death of the U.S. transferor, if the basis of the property in the hands of the transferee is determined under section 1014(a).
+
+(2) *Section 1022 basis election.* For U.S. transferor decedents dying in 2010, the general rule of gain recognition under § 1.684-1 shall apply to any transfer of property by reason of death of the U.S. transferor if the basis of the property in the hands of the foreign trust, foreign estate, or the nonresident alien individual is determined under section 1022. The gain on the transfer shall be calculated as set out under § 1.684-1(a), except that adjusted basis will reflect any increases allocated to such property under section 1022.
 
 (d) *Transfers for fair market value to unrelated trusts.* The general rule of gain recognition under § 1.684-1 shall not apply to any transfer of property for fair market value to a foreign trust that is not a related foreign trust as defined in § 1.679-1(c)(5). Section 1.671-2(e)(2)(ii) defines fair market value.
 
@@ -22,4 +24,4 @@ Example 3. Transfer of property at death: Basis not determined under section 101
 
 (ii) *A* dies on July 1, 2004. The fair market value at *A'*s death of all property transferred to *FT* by *A* is 1500X. The basis in the property is 400X. *A* retains no power over *FT,* and *FT'*s basis in the property transferred is not determined under section 1014(a). Under § 1.684-2(e)(1), *A* is treated as having transferred the property to *FT* immediately before his death, and must recognize 1100X of gain at that time under § 1.684-1.
 
-Example 4. Transfer of property for fair market value to an unrelated foreign trust. Asells a house with a fair market value of 1000X to *FT* in exchange for a 30-year note issued by *FT. A* is not related to *FT* as defined in § 1.679-1(c)(5). *FT* is not treated as owned by any person. Pursuant to paragraph (d) of this section, *A* is not required to recognize gain under § 1.684-1.[T.D. 8956, 66 FR 37899, July 20, 2001]
+Example 4. Transfer of property for fair market value to an unrelated foreign trust. Asells a house with a fair market value of 1000X to *FT* in exchange for a 30-year note issued by *FT. A* is not related to *FT* as defined in § 1.679-1(c)(5). *FT* is not treated as owned by any person. Pursuant to paragraph (d) of this section, *A* is not required to recognize gain under § 1.684-1.[T.D. 8956, 66 FR 37899, July 20, 2001, as amended by T.D. 9811, 82 FR 6239, Jan. 19, 2017]

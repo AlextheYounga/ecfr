@@ -124,15 +124,15 @@ both determined without regard to any amounts paid directly or indirectly to the
 
 Example 1.A, an exempt scientific organization described in section 501(c)(3), owns all the stock of B, another exempt scientific organization described in section 501(c)(3). During 1971, A rents space for a laboratory to B for $15,000 a year. A's total deductions for 1971 with respect to the leased property are $3,000: $1,000 for maintenance and $2,000 for depreciation. If B were not an exempt organization, its total taxable income would be $300,000, disregarding rent paid to A. B's unrelated business taxable income, disregarding rent paid to A, is $100,000. Under these circumstances, $4,000 of the rent paid by B will be included by A as net rental income in determining its unrelated business taxable income, computed as follows:
 
-|              B's unrelated business taxable income (disregarding rent paid to A)              |$100,000|
-|:----------------------------------------------------------------------------------------------|-------:|
-|   B's taxable income (computed as though B were not exempt and disregarding rent paid to A)   |300,000 |
-|                                   Ratio ($100,000/$300,000)                                   |  1/3   |
-|                                          Total rent                                           | 15,000 |
-|                                       Total deductions                                        | 3,000  |
-|Rental income treated as gross income from an unrelated trade or business (<br/>1/3 of $15,000)| 5,000  |
-|           Less deductions directly connected with such income (<br/>1/3 of $3,000)            | 1,000  |
-|      Net rental income included by A in computing its unrelated business taxable income       | $4,000 |
+|           B's unrelated business taxable income (disregarding rent paid to A)            |$100,000|
+|:-----------------------------------------------------------------------------------------|-------:|
+|B's taxable income (computed as though B were not exempt and disregarding rent paid to A) |300,000 |
+|                                Ratio ($100,000/$300,000)                                 |  1/3   |
+|                                        Total rent                                        | 15,000 |
+|                                     Total deductions                                     | 3,000  |
+|Rental income treated as gross income from an unrelated trade or business (1/3 of $15,000)| 5,000  |
+|           Less deductions directly connected with such income (1/3 of $3,000)            | 1,000  |
+|    Net rental income included by A in computing its unrelated business taxable income    | $4,000 |
 
 Example 2.Assume the facts as stated in example 1, except that B's taxable income is $90,000 (computed as though B were not an exempt organization, and disregarding rents paid to A). B's unrelated business taxable income ($100,000) is therefore greater than its taxable income ($90,000). Thus, the ratio used to determine the portion of rent received by A which is to be taken into account is one since both the numerator and denominator of such ratio is B's unrelated business taxable income. Consequently, all the rent received by A from B ($15,000), and all the deductions directly connected therewith ($3,000), are included by A in computing its unrelated business taxable income.
 
@@ -150,16 +150,16 @@ both determined without regard to any amount paid directly or indirectly to the 
 
 Example 1.A, an exempt university described in section 501(c)(3), owns all the stock of M, a nonexempt organization. During 1971, M leases a factory and a dormitory from A for a total annual rent of $100,000. During the taxable year, M has $500,000 of taxable income, disregarding the rent paid to A: $150,000 from a dormitory for students of A university, and $350,000 from the operation of a factory which is a business unrelated to A's exempt purpose. A's deductions for 1971 with respect to the leased property are $4,000 for the dormitory and $16,000 for the factory. Under these circumstances, $56,000 of the rent paid by M will be included by A as net rental income in determining its unrelated business taxable income, computed as follows:
 
-|                        M's taxable income (disregarding rent paid to A)                         |$500,000|
-|:------------------------------------------------------------------------------------------------|-------:|
-|                               Less taxable income from dormitory                                |150,000 |
-|                                      Excess taxable income                                      |$350,000|
-|                                    Ratio ($350,000/$500,000)                                    |  7/10  |
-|                                      Total rent paid to A                                       |$100,000|
-|                               Total deductions ($4,000 + $16,000)                               | 20,000 |
-|Rental income treated as gross income from an unrelated trade or business (<br/>7/10 of $100,000)| 70,000 |
-|           Less deductions directly connected with such income (<br/>7/10 of $20,000)            | 14,000 |
-|       Net rental income included by A in computing its unrelated business taxable income        |$56,000 |
+|                      M's taxable income (disregarding rent paid to A)                      |$500,000|
+|:-------------------------------------------------------------------------------------------|-------:|
+|                             Less taxable income from dormitory                             |150,000 |
+|                                   Excess taxable income                                    |$350,000|
+|                                 Ratio ($350,000/$500,000)                                  |  7/10  |
+|                                    Total rent paid to A                                    |$100,000|
+|                            Total deductions ($4,000 + $16,000)                             | 20,000 |
+|Rental income treated as gross income from an unrelated trade or business (7/10 of $100,000)| 70,000 |
+|           Less deductions directly connected with such income (7/10 of $20,000)            | 14,000 |
+|     Net rental income included by A in computing its unrelated business taxable income     |$56,000 |
 
 Example 2.Assume the facts as stated in example 1, except that M's taxable income (disregarding rent paid to A) is $300,000, consisting of $350,000 from the operation of the factory and a $50,000 loss from the operation of the dormitory. Thus, M's *excess taxable income* is also $300,000, since none of M's taxable income would be excluded from the computation of A's unrelated business taxable income if received directly by A. The ratio of M's *excess taxable income* to its taxable income is therefore one ($300,000/$300,000). Thus, all the rent received by A from M ($100,000), and all the deductions directly connected therewith ($20,000), are included in the computation of A's unrelated business taxable income.
 

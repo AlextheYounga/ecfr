@@ -1,33 +1,23 @@
-##### § 816.83 Coal mine waste: Refuse piles. #####
+##### § 816.83 What special requirements apply to coal mine waste refuse piles? #####
 
-Refuse piles shall meet the requirements of § 816.81, the additional requirements of this section, and the requirements of §§ 77.214 and 77.215 of this title.
+(a) *General requirements.* Refuse piles must meet the applicable requirements of § 816.81 of this part, the additional requirements of this section, and the requirements of §§ 77.214 and 77.215 of this title.
 
-(a) *Drainage control.* (1) If the disposal area contains springs, natural or manmade water courses, or wet weather seeps, the design shall include diversions and underdrains as necessary to control erosion, prevent water infiltration into the disposal facility and ensure stability.
+(b) *Surface runoff and drainage control.* (1) If the disposal area contains springs, natural or manmade water courses, or wet weather seeps, you must design and construct the refuse pile with diversions and underdrains as necessary to control erosion, prevent water infiltration into the disposal facility, and ensure stability.
 
-(2) Uncontrolled surface drainage may not be diverted over the outslope of the refuse piles. Runoff from the areas above the refuse pile and runoff from the surface of the refuse pile shall be diverted into stabilized diversion channels designed to meet the requirements of § 816.43 to safely pass the runoff from a 100-year, 6-hour precipitation event. Runoff diverted from undisturbed areas need not be commingled with runoff from the surface of the refuse pile.
+(2) You may not direct or divert uncontrolled surface runoff over the outslope of the refuse pile.
 
-(3) Underdrains shall comply with the requirements of § 816.71(f)(3).
+(3) You must direct runoff from areas above the refuse pile and runoff from the surface of the refuse pile into stabilized channels designed to meet the requirements of § 816.43 of this part and to safely pass the runoff from the 100-year, 6-hour precipitation event. You must use the appropriate regional Natural Resources Conservation Service synthetic storm distribution to determine the peak flow from surface runoff from this event.
 
-(b) *Surface area stabilization.* Slope protection shall be provided to minimize surface erosion at the site. All disturbed areas, including diversion channels that are not riprapped or otherwise protected, shall be revegetated upon completion of construction.
+(4) Runoff diverted from undisturbed areas need not be commingled with runoff from the surface of the refuse pile.
 
-(c) *Placement.* (1) All vegetative and organic materials shall be removed from the disposal area prior to placement of coal mine waste. Topsoil shall be removed, segregated and stored or redistributed in accordance with § 816.22. If approved by the regulatory authority, organic material may be used as mulch, or may be included in the topsoil to control erosion, promote growth of vegetation or increase the moisture retention of the soil.
+(5) Underdrains must comply with the requirements of § 816.71(f) of this part.
 
-(2) The final configuration of the refuse pile shall be suitable for the approved postmining land use. Terraces may be constructed on the outslope of the refuse pile if required for stability, control or erosion, conservation of soil moisture, or facilitation of the approved postmining land use. The grade of the outslope between terrace benches shall not be steeper than 2h:1v (50 percent).
+(c) *Surface area stabilization.* You must provide slope protection to minimize surface erosion at the site. You must revegetate all disturbed areas, including diversion channels that are not riprapped or otherwise protected, upon completion of construction.
 
-(3) No permanent impoundments shall be allowed on the completed refuse pile. Small depressions may be allowed by the regulatory authority if they are needed to retain moisture, minimize erosion, create and enhance wildlife habitat, or assist revegetation, and if they are not incompatible with stability of the refuse pile.
+(d) *Final configuration and cover.* (1) The final configuration of the refuse pile must be suitable for the approved postmining land use. Terraces may be constructed on the outslope of the refuse pile if required for stability, erosion control, conservation of soil moisture, or facilitation of the approved postmining land use. The grade of the outslope between terrace benches may not be steeper than 2h:1v (50 percent).
 
-(4) Following final grading of the refuse pile, the coal mine waste shall be covered with a minimum of 4 feet of the best available, nontoxic and noncombustible material, in a manner that does not impede drainage from the underdrains. The regulatory authority may allow less than 4 feet of cover material based on physical and chemical analyses which show that the requirements of §§ 816.111 through 816.116 will be met.
+(2) No permanent impoundments or depressions are allowed on the completed refuse pile.
 
-(d) *Inspections.* A qualified registered professional engineer, or other qualified professional specialist under the direction of the professional engineer, shall inspect the refuse pile during construction. The professional engineer or specialist shall be experienced in the construction of similar earth and waste structures.
+(3) Following final grading of the refuse pile, you must cover the coal mine waste with a minimum of 4 feet of the best available, nontoxic, and noncombustible material in a manner that does not impede drainage from the underdrains. The regulatory authority may allow less than 4 feet of cover material based on physical and chemical analyses showing that the revegetation requirements of §§ 816.111 and 816.116 of this part will be met.
 
-(1) Such inspections shall be made at least quarterly throughout construction and during critical construction periods. Critical construction periods shall include at a minimum:
-
-(i) Foundation preparation including the removal of all organic material and topsoil; (ii) placement of underdrains and protective filter systems; (iii) installation of final surface drainage systems; and (iv) the final graded and revegetated facility. Regular inspections by the engineer or specialist shall also be conducted during placement and compaction of coal mine waste materials. More frequent inspections shall be conducted if a danger of harm exists to the public health and safety or the environment. Inspections shall continue until the refuse pile has been finally graded and revegetated or until a later time as required by the regulatory authority.
-
-(2) The qualified registered professional engineer shall provide a certified report to the regulatory authority promptly after each inspection that the refuse pile has been constructed and maintained as designed and in accordance with the approved plan and this chapter. The report shall include appearances of instability, structural weakness, and other hazardous conditions.
-
-(3) The certified report on the drainage system and protective filters shall include color photographs taken during and after construction, but before underdrains are covered with coal mine waste. If the underdrain system is constructed in phases, each phase shall be certified separately. The photographs accompanying each certified report shall be taken in adequate size and number with enough terrain or other physical features of the site shown to provide a relative scale to the photographs and to specifically and clearly identify the site.
-
-(4) A copy of each inspection report shall be retained at or near the minesite.
-
-[48 FR 44028, Sept. 26, 1983]
+(e) *Inspections.* You must comply with the inspection and examination requirements of § 816.71(k) of this part.

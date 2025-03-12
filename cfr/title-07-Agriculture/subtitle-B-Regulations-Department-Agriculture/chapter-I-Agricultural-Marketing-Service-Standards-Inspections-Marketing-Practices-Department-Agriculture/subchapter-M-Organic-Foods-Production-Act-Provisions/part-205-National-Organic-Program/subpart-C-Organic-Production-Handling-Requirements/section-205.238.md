@@ -1,5 +1,7 @@
 ##### § 205.238 Livestock health care practice standard. #####
 
+Link to an amendment published at 82 FR 7089, Jan. 19, 2017.
+
 (a) The producer must establish and maintain preventive livestock health care practices, including:
 
 (1) Selection of species and types of livestock with regard to suitability for site-specific conditions and resistance to prevalent diseases and parasites;

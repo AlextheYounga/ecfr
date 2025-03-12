@@ -1,5 +1,7 @@
 ##### § 199.117 Recordkeeping. #####
 
+Link to an amendment published at 82 FR 8001, January 23, 2017.
+
 (a) Each operator shall keep the following records for the periods specified and permit access to the records as provided by paragraph (b) of this section:
 
 (1) Records that demonstrate the collection process conforms to this part must be kept for at least 3 years.

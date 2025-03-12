@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 81 FR 75262, Oct. 28, 2016.Link to an amendment published at 81 FR 90120, Dec. 13, 2016.Link to an amendment published at 82 FR 1857, Jan. 6, 2017.
+Link to an amendment published at 81 FR 75262, Oct. 28, 2016.Link to an amendment published at 82 FR 1857, Jan. 6, 2017.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -274,24 +274,18 @@ av = Total adjusted volume, expressed in Liters.
 
 (v) A boiler that is manufactured to operate without any need for electricity or any electric connection, electric gauges, electric pumps, electric wires, or electric devices is not required to meet the AFUE or design requirements applicable to the boiler requirements of paragraph (e)(2)(ii) of this section, but must meet the requirements of paragraph (e)(2)(i) of this section, as applicable.
 
-(f) *Dishwashers.* (1) The energy factor of dishwashers manufactured on or after May 14, 1994, must not be less than:
+(f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard -
+
+(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle.
+
+(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle.
 
 |                                                                                                                      Product class                                                                                                                       |Energy factor  <br/>(cycles/kWh)|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 |        (i) Compact Dishwasher (capacity less than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1 [Incorporated by reference, see § 430.22] using the test load specified in section 2.7 of appendix C in subpart B)         |              0.62              |
 |(ii) Standard Dishwasher (capacity equal to or greater than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1 [Incorporated by Reference, see § 430.22] using the test load specified in section 2.7 of appendix C in subpart B)|              0.46              |
 
-(2) All dishwashers manufactured on or after January 1, 2010, shall meet the following standard -
-
-(i) Standard size dishwashers shall not exceed 355 kwh/year and 6.5 gallons per cycle.
-
-(ii) Compact size dishwashers shall not exceed 260 kwh/year and 4.5 gallons per cycle.
-
-(3) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard -
-
-(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle.
-
-(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle.
+(2) [Reserved]
 
 (g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2007 shall have a Modified Energy Factor no less than:
 

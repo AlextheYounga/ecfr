@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 81 FR 91445, Dec. 16, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.
+Link to an amendment published at 82 FR 1475, Jan. 5, 2017.Link to an amendment published at 82 FR 6886, Jan. 19, 2017.Link to an amendment published at 82 FR 7321, Jan. 19, 2017.Link to an amendment published at 82 FR 7333, Jan. 19, 2017.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
@@ -228,15 +228,13 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Convection microwave oven* means a microwave oven that incorporates convection features and any other means of cooking in a single compartment.
 
-*Conventional cooking top* means a class of kitchen ranges and ovens which is a household cooking appliance consisting of a horizontal surface containing one or more surface units which include either a gas flame or electric resistance heating.
+*Conventional cooking top* means a category of cooking products which is a household cooking appliance consisting of a horizontal surface containing one or more surface units that utilize a gas flame, electric resistance heating, or electric inductive heating. This includes any conventional cooking top component of a combined cooking product.
 
-*Conventional oven* means a class of kitchen ranges and ovens which is a household cooking appliance consisting of one or more compartments intended for the cooking or heating of food by means of either a gas flame or electric resistance heating. It does not include portable or countertop ovens which use electric resistance heating for the cooking or heating of food and are designed for an electrical supply of approximately 120 volts.
-
-*Conventional range* means a class of kitchen ranges and ovens which is a household cooking appliance consisting of a conventional cooking top and one or more conventional ovens.
+*Conventional oven* means a category of cooking products which is a household cooking appliance consisting of one or more compartments intended for the cooking or heating of food by means of either a gas flame or electric resistance heating. It does not include portable or countertop ovens which use electric resistance heating for the cooking or heating of food and are designed for an electrical supply of approximately 120 volts. This includes any conventional oven(s) component of a combined cooking product.
 
 *Convertible cooking appliance* means any kitchen range and oven which is a household cooking appliance designed by the manufacturer to be changed in service from use with natural gas to use with LP-gas, and vice versa, by incorporating in the appliance convertible orifices for the main gas burners and a convertible gas pressure regulator.
 
-*Cooking products* means consumer products that are used as the major household cooking appliances. They are designed to cook or heat different types of food by one or more of the following sources of heat: gas, electricity, or microwave energy. Each product may consist of a horizontal cooking top containing one or more surface units and/or one or more heating compartments. They must be one of the following classes: conventional ranges, conventional cooking tops, conventional ovens, microwave ovens, microwave/conventional ranges and other cooking products.
+*Cooking products* means consumer products that are used as the major household cooking appliances. They are designed to cook or heat different types of food by one or more of the following sources of heat: Gas, electricity, or microwave energy. Each product may consist of a horizontal cooking top containing one or more surface units and/or one or more heating compartments.
 
 *Cooler* means a cabinet, used with one or more doors, that has a source of refrigeration capable of operating on single-phase, alternating current and is capable of maintaining compartment temperatures either:
 
@@ -606,13 +604,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Medium screw base* means an Edison screw base identified with the prefix E-26 in the “American National Standard for Electric Lamp Bases”, ANSI\_IEC C81.61-2003, published by the American National Standards Institute.
 
-*Microwave/conventional cooking top* means a class of kitchen ranges and ovens that is a household cooking appliance consisting of a microwave oven and a conventional cooking top.
-
-*Microwave/conventional oven* means a class of kitchen ranges and ovens that is a household cooking appliance consisting of a microwave oven and a conventional oven in separate compartments.
-
-*Microwave/conventional range* means a class of kitchen ranges and ovens that is a household cooking appliance consisting of a microwave oven and a conventional oven in separate compartments and a conventional cooking top.
-
-*Microwave oven* means a class of kitchen ranges and ovens comprised of household cooking appliances consisting of a compartment designed to cook or heat food by means of microwave energy, including microwave ovens with or without thermal elements designed for surface browning of food and convection microwave ovens.
+*Microwave oven* means a category of cooking products which is a household cooking appliance consisting of a compartment designed to cook or heat food by means of microwave energy, including microwave ovens with or without thermal elements designed for surface browning of food and convection microwave ovens. This includes any microwave oven(s) component of a combined cooking product.
 
 *Miscellaneous refrigeration product* means a consumer refrigeration product other than a refrigerator, refrigerator-freezer, or freezer, which includes coolers and combination cooler refrigeration products.
 
@@ -646,7 +638,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Other clothes washer* means a class of clothes washer which is not an automatic or semi-automatic clothes washer.
 
-*Other cooking products* means any class of cooking products other than the conventional range, conventional cooking top, conventional oven, microwave oven, and microwave/conventional range classes.
+*Other cooking products* means any category of cooking products other than conventional cooking tops, conventional ovens, and microwave ovens.
 
 *Outdoor furnace or boiler* is a furnace or boiler normally intended for installation out-of-doors or in an unheated space (such as an attic or a crawl space).
 

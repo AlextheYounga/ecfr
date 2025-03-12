@@ -1,5 +1,7 @@
 ##### § 331.9 Responsible official. #####
 
+Link to an amendment published at 82 FR 6205, January 19, 2017.
+
 (a) An individual or entity required to register under this part must designate an individual to be the responsible official. The responsible official must:
 
 (1) Be approved by the Administrator or the HHS Secretary following a security risk assessment by the Attorney General;

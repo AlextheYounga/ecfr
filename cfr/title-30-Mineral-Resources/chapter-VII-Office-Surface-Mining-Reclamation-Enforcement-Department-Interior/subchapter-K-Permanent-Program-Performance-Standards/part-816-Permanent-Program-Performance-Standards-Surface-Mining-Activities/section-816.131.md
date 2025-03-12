@@ -1,5 +1,15 @@
-##### § 816.131 Cessation of operations: Temporary. #####
+##### § 816.131 What actions must I take when I temporarily cease mining operations? #####
 
-(a) Each person who conducts surface mining activities shall effectively secure surface facilities in areas in which there are no current operations, but in which operations are to be resumed under an approved permit. Temporary abandonment shall not relieve a person of their obligation to comply with any provisions of the approved permit.
+(a)(1) Each person who temporarily ceases to conduct surface mining activities at a particular site must effectively secure surface facilities in areas in which there are no current operations, but where operations are to be resumed under an approved permit.
 
-(b) Before temporary cessation of mining and reclamation operations for a period of thirty days or more, or as soon as it is known that a temporary cessation will extend beyond 30 days, persons who conduct surface mining activities shall submit to the regulatory authority a notice of intention to cease or abandon mining and reclamation operations. This notice shall include a statement of the exact number of acres which will have been affected in the permit area, prior to such temporary cessation, the extent and kind of reclamation of those areas which will have been accomplished, and identification of the backfilling, regrading, revegetation, environmental monitoring, and water treatment activities that will continue during the temporary cessation.
+(2) Temporary cessation does not relieve a person of his or her obligation to comply with any provisions of the approved permit.
+
+(b)(1) You must submit a notice of intent to temporarily cease operations to the regulatory authority before ceasing mining and reclamation operations for 30 or more days, or as soon as you know that a temporary cessation will extend beyond 30 days.
+
+(2) The notice of temporary cessation must include a statement of the -
+
+(i) Exact number of surface acres disturbed within the permit area prior to temporary cessation;
+
+(ii) Extent and kind of reclamation accomplished before temporary cessation; and
+
+(iii) Backfilling, regrading, revegetation, environmental monitoring, and water treatment activities that will continue during temporary cessation.

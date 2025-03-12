@@ -1,5 +1,7 @@
 ##### § 195.52 Immediate notice of certain accidents. #####
 
+Link to an amendment published at 82 FR 7999, January 23, 2017.
+
 (a) Notice requirements. At the earliest practicable moment following discovery of a release of the hazardous liquid or carbon dioxide transported resulting in an event described in § 195.50, the operator of the system must give notice, in accordance with paragraph (b) of this section, of any failure that:
 
 (1) Caused a death or a personal injury requiring hospitalization;

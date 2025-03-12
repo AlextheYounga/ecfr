@@ -1,0 +1,3 @@
+##### § 784.38 What information must I provide concerning support facilities? #####
+
+You must submit a description, plans, and drawings for each support facility to be constructed, used, or maintained within the proposed permit area. The plans and drawings must include a map, appropriate cross-sections, design drawings, and specifications sufficient to demonstrate compliance with § 817.181 of this chapter for each facility.

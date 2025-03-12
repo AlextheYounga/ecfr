@@ -1,3 +1,3 @@
-##### § 817.1 Scope. #####
+##### § 817.1 What does this part do? #####
 
-This part sets forth the minimum environmental protection performance standards to be adopted and implemented under regulatory programs for underground mining activities.
+This part sets forth the minimum environmental protection performance standards for underground mining activities under the Act.

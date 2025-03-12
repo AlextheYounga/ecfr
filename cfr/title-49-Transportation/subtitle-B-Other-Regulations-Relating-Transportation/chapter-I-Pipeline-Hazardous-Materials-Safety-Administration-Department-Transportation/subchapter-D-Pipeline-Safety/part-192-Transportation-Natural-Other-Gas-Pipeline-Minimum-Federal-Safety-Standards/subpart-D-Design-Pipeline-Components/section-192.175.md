@@ -1,5 +1,7 @@
 ##### § 192.175 Pipe-type and bottle-type holders. #####
 
+Link to an amendment published at 82 FR 7997, January 23, 2017.
+
 (a) Each pipe-type and bottle-type holder must be designed so as to prevent the accumulation of liquids in the holder, in connecting pipe, or in auxiliary equipment, that might cause corrosion or interfere with the safe operation of the holder.
 
 (b) Each pipe-type or bottle-type holder must have minimum clearance from other holders in accordance with the following formula:

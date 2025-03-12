@@ -1,0 +1,25 @@
+##### § 1.721(c)-4T Acceleration events (temporary). #####
+
+(a) *Scope.* This section provides rules regarding acceleration events for purposes of applying the gain deferral method. Paragraph (b) of this section defines an acceleration event. Paragraph (c) of this section provides the consequences of an acceleration event. Paragraph (d) of this section provides the dates of applicability, and paragraph (e) of this section provides the date of expiration. For definitions that apply for purposes of this section, see § 1.721(c)-1T(b).
+
+(b) *Definition of an acceleration event* - (1) *General rules.* Except as provided in this paragraph (b) and § 1.721(c)-5T (acceleration event exceptions), an acceleration event with respect to section 721(c) property is any event that either would reduce the amount of remaining built-in gain that a U.S. transferor would recognize under the gain deferral method if the event had not occurred or could defer the recognition of the remaining built-in gain. An acceleration event includes a contribution of section 721(c) property to another partnership by a section 721(c) partnership and a contribution of an interest in a section 721(c) partnership to another partnership. This paragraph (b) applies on a property-by-property basis.
+
+(2) *Failure to comply with a requirement of the gain deferral method* - (i) *General rule.* An acceleration event with respect to section 721(c) property occurs when any party fails to comply with a condition of the gain deferral method with respect to the section 721(c) property.
+
+(ii) *Certain failures to comply with procedural and reporting requirements.* Notwithstanding paragraph (b)(2)(i) of this section, an acceleration event will not occur solely as a result of a failure to comply with a requirement of § 1.721(c)-3T(b)(3) that is not willful. See §§ 1.721(c)-6T(f) and 1.6038B-2T(h)(3).
+
+(3) *Lower-tier partnership allocations.* Notwithstanding paragraph (b)(1) of this section, an acceleration event will not occur because of a reduction in remaining built-in gain in an interest in a partnership that is section 721(c) property that occurs as a result of allocations of book items of deduction and loss, or tax items of income and gain.
+
+(4) *Deemed acceleration event.* A U.S. transferor may treat an acceleration event as having occurred with respect to section 721(c) property by both recognizing gain in an amount equal to the remaining built-in gain that would have been allocated to the U.S. transferor if the section 721(c) partnership had sold the section 721(c) property immediately before the deemed acceleration event for fair market value and satisfying the reporting required by § 1.721(c)-6T(b)(3)(iv). In this case, see paragraph (c) of this section regarding basis adjustments.
+
+(c) *Consequences of an acceleration event.* Paragraphs (c)(1) and (2) of this section provide the consequences of an acceleration event with respect to section 721(c) property, a partial acceleration event with respect to section 721(c) property to the extent provided in § 1.721(c)-5T(d)(1), and a transfer described in section 367 of section 721(c) property to the extent provided in § 1.721(c)-5T(e).
+
+(1) *U.S. transferor.* The U.S. transferor must recognize gain in an amount equal to the remaining built-in gain that would have been allocated to the U.S. transferor if the section 721(c) partnership had sold the section 721(c) property immediately before the acceleration event for fair market value. The U.S. transferor will increase its basis in its partnership interest by the amount of gain recognized. If the U.S. transferor is an indirect partner in the section 721(c) partnership through one or more tiered partnerships, appropriate basis adjustments will be made to the interests in the tiered partnerships.
+
+(2) *Section 721(c) partnership.* The section 721(c) partnership will increase its basis in the section 721(c) property by the amount of built-in gain recognized by the U.S. transferor under paragraph (c)(1) of this section. Any tax consequences of the acceleration event will be determined taking into account the increase in the partnership's adjusted tax basis in the section 721(c) property. If the section 721(c) property remains in the partnership after the acceleration event, the increase in basis of the section 721(c) property may be recovered using any applicable recovery period and depreciation (or other cost recovery) method (including first-year conventions) available to the partnership for newly purchased property of the same type placed in service on the date of the acceleration event. The section 721(c) property will no longer be subject to the gain deferral method.
+
+(d) *Applicability dates.* This section applies to contributions occurring on or after August 6, 2015, and to contributions occurring before August 6, 2015, resulting from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after August 6, 2015.
+
+(e) *Expiration date.* The applicability of this section expires on January 17, 2020.
+
+[T.D. 9814, 82 FR 7603, Jan. 19, 2017]

@@ -66,26 +66,38 @@
 
 (6) *Payments other than in U.S. dollars.* For purposes of section 1441, a payment includes amounts paid in a medium other than U.S. dollars. See § 1.1441-3(e) for rules regarding the amount subject to withholding in the case of such payments.
 
-(7) *Payments of dividend equivalents* - (i) *In general.* A payment of a dividend equivalent is not considered to be made until the later of when -
+(7) *Payments of dividend equivalents* - (i) *In general.* Subject to paragraphs (e)(7)(iv), (vi), and (vii) of this section, a payment of a dividend equivalent is not considered to be made until the later of when -
 
 (A) The amount of a dividend equivalent is determined as provided in § 1.871-15(j)(2), and
 
-(B) A payment occurs with respect to the section 871(m) transaction.
+(B) A payment occurs with respect to the section 871(m) transaction after the amount of a dividend equivalent is determined as provided in § 1.871-15(j)(2).
 
-(ii) *Payment.* For purposes of paragraph (e)(8) of this section, a payment occurs with respect to a section 871(m) transaction when -
+(ii) *Payment.* For purposes of paragraph (e)(7) of this section, a payment occurs with respect to a section 871(m) transaction when -
 
-(A) Money or other property is paid to or by the long party;
+(A) Money or other property is paid to or by the long party, unless the section 871(m) transaction is described in § 1.871-15(i)(3), in which case a payment is treated as being made at the end of the applicable calendar quarter;
 
-(B) In the case of a section 871(m) transaction described in § 1.871-15(i)(3), a payment is treated as being made at the end of the applicable calendar quarter; or
+(B) The long party sells, exchanges, transfers, or otherwise disposes of the section 871(m) transaction (including by settlement, offset, termination, expiration, lapse, or maturity); or
 
-(C) The long party sells, exchanges, transfers, or otherwise disposes of the section 871(m) transaction (including by settlement, offset, termination, expiration, lapse, or maturity).
+(C) The section 871(m) transaction is transferred to an account that is not maintained by the withholding agent or the long party terminates the account relationship with the withholding agent.
 
-(iii) *Premiums and other upfront payments.* When a long party pays a premium or other upfront payment to the short party at the time a section 871(m) transaction is issued, the premium or other upfront payment is not treated as a payment for purposes of paragraph (e)(8)(ii)(A) of this section.
+(iii) *Premiums and other upfront payments.* When a long party pays a premium or other upfront payment to the short party at the time a section 871(m) transaction is issued, the premium or other upfront payment is not treated as a payment for purposes of paragraph (e)(7)(ii)(A) of this section.
+
+(iv) *Option to withhold on dividend payment date.* A withholding agent may withhold on the payment date described in paragraph (e)(4) of this section for the applicable dividend on the underlying security (the dividend payment date) if it withholds on that date for all section 871(m) transactions of the same type (securities lending or sale-repurchase transaction, NPC, or ELI) and satisfies the requirements to paragraph (e)(7)(v) of this section.
+
+(v) *Changes to time of withholding.* This paragraph describes how a withholding agent changes the time that it withholds on a dividend equivalent payment to a time described in paragraph (e)(7)(i) or (iv) of this section and these requirements must be satisfied for a withholding agent to change the time it withholds. A withholding agent must apply the change consistently to all transactions of the same type entered into on or after the change. For transactions of the same type entered into before the change, a withholding agent must withhold under the original approach throughout the term of the transaction. When a withholding agent changes the time that it will withhold, the withholding agent must notify each payee in writing that it will withhold using the approach described in paragraph (e)(7)(i) or (iv) of this section, as applicable, before the time for determining the payee's first dividend equivalent payment (as determined under § 1.871-15(j)(2)). With respect to transactions held by an intermediary or foreign flow-through entity, a withholding agent is treated as providing notice to each payee holding that transaction through the entity when it notifies the intermediary or foreign flow-through entity of the time it will withhold, as described in the preceding sentence, provided that the intermediary or foreign flow-through entity agrees to provide the same notice to each payee. The withholding agent must attach a statement to its relevant income tax return (filed by the due date, including extensions) for the year of the change notifying the IRS of the change and when it applies, identifying the types of section 871(m) transaction to which the change applies, and certifying that has notified its payees. For purposes of this paragraph, a withholding agent will be considered to have entered into a transaction on the first date the withholding agent becomes responsible for withholding on the transaction (based on the rule in paragraph (e)(7)(ix) of this section).
+
+(vi) *Withholding by qualified derivatives dealers.* A withholding agent that is acting as a qualified derivatives dealer must withhold with respect to a dividend equivalent payment on the payment date described in paragraph (e)(4) of this section for the applicable dividend on the underlying security and must notify each payee in writing that it will withhold on the dividend payment date before the time for determining the payee's first dividend equivalent payment (as determined under § 1.871-15(j)(2)).
+
+(vii) *Withholding with respect to derivatives that reference partnerships.* To the extent that a withholding agent is required to withhold with respect to a partnership interest described in § 1.871-15(m), the liability for withholding arises on March 15 of the year following the year in which the payment of a dividend equivalent (determined under § 1.871-15(i)) occurs.
+
+(viii) *Notification to holders of withholding timing.* If a withholding agent is required to notify a payee of when it will withhold under paragraph (e)(7)(v) of this section, it may use the reporting methods prescribed in § 1.871-15(p)(3)(i).
+
+(ix) *Withholding agent responsibility.* A withholding agent is only responsible for dividend equivalent amounts determined (as provided in § 1.871-15(j)(2)) during the period the withholding agent is a withholding agent for the section 871(m) transaction.
 
 (8) [Reserved]. For further guidance, see § 1.1441-2T(a)(8).
 
-(f) *Effective/applicability date* - (1) This section applies to payments made after December 31, 2000. Paragraphs (b)(5) and (d)(4) of this section apply to payments made after August 1, 2006. Paragraph (b)(6) of this section applies to payments made on or after January 23, 2012. Paragraph (e)(8) of this section applies to payments made on or after September 18, 2015.
+(f) *Effective/applicability date* - (1) This section applies to payments made after December 31, 2000. Paragraphs (b)(5) and (d)(4) of this section apply to payments made after August 1, 2006. Paragraph (b)(6) of this section applies to payments made on or after January 23, 2012. Except as otherwise provided in this paragraph, paragraph (e)(7) of this section applies to payments made on or after September 18, 2015. Paragraphs (e)(7)(ii)(D) and (e)(7)(iv) through (viii) of this section apply to payments made on or after January 19, 2017.
 
 (2) [Reserved]. For further guidance, see § 1.1441-2T(f)(2).
 
-[T.D. 8734, 62 FR 53444, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72187, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 8881, 65 FR 32186, May 22, 2000; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; 73 FR 45612, Aug. 6, 2008; T.D. 9572, 77 FR 3109, Jan. 23, 2012; T.D. 9648, 78 FR 73081, Dec. 5, 2013; T.D. 9734, 80 FR 56890, Sept. 18, 2015; T.D. 9808, 82 FR 2085, Jan. 6, 2017]
+[T.D. 8734, 62 FR 53444, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72187, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 8881, 65 FR 32186, May 22, 2000; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; 73 FR 45612, Aug. 6, 2008; T.D. 9572, 77 FR 3109, Jan. 23, 2012; T.D. 9648, 78 FR 73081, Dec. 5, 2013; T.D. 9734, 80 FR 56890, Sept. 18, 2015; T.D. 9808, 82 FR 2085, Jan. 6, 2017; T.D. 9815, 82 FR 8164, Jan. 24, 2017]

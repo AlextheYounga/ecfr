@@ -1,9 +1,17 @@
-##### § 609.16 Perfection of liens and preservation of collateral. #####
+##### § 609.16 Deviations. #####
 
-(a) The Loan Guarantee Agreement and other documents related thereto shall provide that:
+(a) To the extent that the requirements under this part are not specified by the Act or other applicable statutes, DOE may authorize deviations from the requirements of this part upon:
 
-(1) The Eligible Lender, or DOE in conjunction with the Federal Financing Bank where the loan is funded by the Federal Financing Bank, or other Holder or other agent or servicer will take those actions necessary or appropriate to perfect and maintain liens, as applicable, on assets which are pledged as collateral for the Guaranteed Obligation; and
+(1) Either receipt from the Applicant, Borrower or Project Sponsor, as applicable, of -
 
-(2) Upon default by the Borrower, the holder of pledged collateral shall take such actions as the Secretary (subject to any applicable Intercreditor Agreement) may reasonably require to provide for the care, preservation, protection, and maintenance of such collateral so as to enable the United States to achieve maximum recovery from the pledged assets. The Secretary shall reimburse the holder of collateral for reasonable and appropriate expenses incurred in taking actions required by the Secretary (unless otherwise provided in applicable agreements). Except as provided in § 609.15, no party may waive or relinquish, without the consent of the Secretary, any collateral securing the Guaranteed Obligation to which the United States would be subrogated upon payment under the Loan Guarantee Agreement.
+(i) A written request that the Secretary deviate from one or more requirements; and
 
-(b) In the event of a default, the Secretary may enter into such contracts as the Secretary (subject to any applicable Intercreditor Agreement) determines are required or appropriate to care for, preserve, protect or maintain the collateral. The cost of such contracts may be charged to the Borrower.
+(ii) A supporting statement briefly describing one or more justifications for such deviation; or
+
+(iii) A determination by the Secretary in his discretion to undertake a deviation;
+
+(2) A finding by the Secretary that such deviation supports program objectives and the special circumstances stated in the request make such deviation clearly in the best interest of the Government; and
+
+(3) If the waiver would constitute a substantial change in the financial terms of the Loan Guarantee Agreement and related documents, consultation by DOE with OMB and the Secretary of the Treasury.
+
+(b) If a deviation under this section results in an increase in the applicable Credit Subsidy Cost, such increase shall be funded either by additional fees paid by or on behalf of the Borrower or, if an appropriation is available by means of an appropriations act. The Secretary has discretion to determine how the cost of a deviation is funded.

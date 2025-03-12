@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 90119, Dec. 13, 2016.Link to an amendment published at 81 FR 91446, Dec. 16, 2016.Link to an amendment published at 81 FR 96237, Dec. 29, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.
+Link to an amendment published at 81 FR 96237, Dec. 29, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -136,103 +136,51 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) When cold water (50 °F) is used,
 
-(A) When using appendix C (see the note at the beginning of appendix C), for dishwashers having a truncated normal cycle as defined in section 1.15 of appendix C to this subpart, EAOC = (De × S) + (De × N × (M−(ED/2))).
+(A) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOC = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))).
 
-(B) When using appendix C1 (see the note at the beginning of appendix C1), for dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOC = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))).
+(B) For dishwashers not having a truncated normal cycle, EAOC = (De × ETLP) + (De × N × (M + MWS + EF)).
 
-(C) When using appendix C (see the note at the beginning of appendix C), for dishwashers not having a truncated normal cycle, EAOC = (De × S) + (De × N × M).
-
-(D) When using appendix C1 (see the note at the beginning of appendix C1), for dishwashers not having a truncated normal cycle, EAOC = (De × ETLP) + (De × N × (M + MWS + EF)).
-
-Where,De = the representative average unit cost of electrical energy, in dollars per kilowatt-hour, as provided by the Secretary,S = the estimated annual standby energy consumption in kilowatt-hours per year and determined according to section 5.6 of appendix C to this subpart,ETLP = the annual combined low-power mode energy consumption in kilowatt-hours per year and determined according to section 5.7 of appendix C1 to this subpart,N = the representative average dishwasher use of 215 cycles per year,M = the machine energy consumption per cycle for the normal cycle, as defined in section 1.6 of appendix C to this subpart, in kilowatt-hours and determined according to section 5.1 of appendix C to this subpart when using appendix C (see the note at the beginning of appendix C); the normal cycle is defined in section 1.12 of appendix C1 to this subpart, and the machine energy consumption per cycle in kilowatt-hours must be determined according to section 5.1.1 of appendix C1 to this subpart for non-soil-sensing dishwashers and section 5.1.2 of appendix C1 to this subpart for soil-sensing dishwashers when using appendix C1 (see the note at the beginning of appendix C1),MWS = the machine energy consumption per cycle for water softener regeneration, in kilowatt-hours and determined according to section 5.1.3 of appendix C1 to this subpart,EF = the fan-only mode energy consumption per cycle, in kilowatt-hours and determined according to section 5.2 of appendix C1 to this subpart, andED = the drying energy consumption, in kilowatt-hours and defined as energy consumed using the power-dry feature after the termination of the last rinse option of the normal cycle; ED is determined according to section 5.2 of appendix C to this subpart when using appendix C (see the note at the beginning of appendix C), and determined according to section 5.3 of appendix C1 to this subpart when using appendix C1 (see the note at the beginning of appendix C1),
-
-(E) Manufacturers calculating EAOC pursuant to paragraph (c)(1)(i)(A) of this section should calculate EAEU pursuant to paragraph (c)(2)(i)(A) of this section. Manufacturers calculating EAOC pursuant to paragraphs (c)(1)(i)(B) of this section should calculate EAEU pursuant to paragraph (c)(2)(i)(B) of this section. Manufacturers calculating EAOC pursuant to paragraph (c)(1)(i)(C) of this section should calculate EAEU pursuant to paragraph (c)(2)(ii)(A) of this section. Manufacturers calculating EAOC pursuant to paragraph (c)(1)(i)(D) of this section should calculate EAEU pursuant to paragraph (c)(2)(ii)(B) of this section.
+Where,De = the representative average unit cost of electrical energy, in dollars per kilowatt-hour, as provided by the Secretary,ETLP = the annual combined low-power mode energy consumption in kilowatt-hours per year and determined according to section 5.7 of appendix C1 to this subpart,N = the representative average dishwasher use of 215 cycles per year,M = the machine energy consumption per cycle for the normal cycle, as defined in section 1.12 of appendix C1 to this subpart, in kilowatt-hours and determined according to section 5.1.1 of appendix C1 to this subpart for non-soil-sensing dishwashers and section 5.1.2 of appendix C1 to this subpart for soil-sensing dishwashers,MWS = the machine energy consumption per cycle for water softener regeneration, in kilowatt-hours and determined according to section 5.1.3 of appendix C1 to this subpart,EF = the fan-only mode energy consumption per cycle, in kilowatt-hours and determined according to section 5.2 of appendix C1 to this subpart, andED = the drying energy consumption, in kilowatt-hours and defined as energy consumed using the power-dry feature after the termination of the last rinse option of the normal cycle; determined according to section 5.3 of appendix C1 to this subpart.
 
 (ii) When electrically-heated water (120 °F or 140 °F) is used,
 
-(A) When using appendix C (see the note at the beginning of appendix C), for dishwashers having a truncated normal cycle as defined in section 1.15 of appendix C to this subpart, EAOC = (De × S) + (De × N × (M−(ED/2))) + (De × N × W).
+(A) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOC = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))) + (De × N × (W + WWS)).
 
-(B) When using appendix C1 (see the note at the beginning of appendix C1), for dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOC = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))) + (De × N × (W + WWS)).
+(B) For dishwashers not having a truncated normal cycle, EAOC = (De × ETLP) + (De × N × (M + MWS + EF)) + (De × N × (W + WWS)).
 
-(C) When using appendix C (see the note at the beginning of appendix C), for dishwashers not having a truncated normal cycle, EAOC = (De × S) + (De × N × M) + (De × N × W).
+Where,De, ETLP, N, M, MWS, EF, and ED, are defined in paragraph (c)(1)(i) of this section,W = the water energy consumption per cycle for the normal cycle, as defined in section 1.12 of appendix C1 to this subpart, in kilowatt-hours and determined according to section 5.5.1.1 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.5.2.1 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F, and
 
-(D) When using appendix C1 (see the note at the beginning of appendix C1), for dishwashers not having a truncated normal cycle, EAOC = (De × ETLP) + (De × N × (M + MWS + EF)) + (De × N × (W + WWS)).
-
-Where,De, S, ETLP, N, M, MWS, EF, and ED, are defined in paragraph (c)(1)(i) of this section,W = the water energy consumption per cycle for the normal cycle as defined in section 1.6 of appendix C to this subpart, in kilowatt-hours and determined according to section 5.4 of appendix C to this subpart when using appendix C (see the note at the beginning of appendix C); when using appendix C1 (see the note at the beginning of appendix C1), the normal cycle is as defined in section 1.12 of appendix C1 to this subpart, and the water energy consumption per cycle in kilowatt-hours is determined according to section 5.5.1.1 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.5.2.1 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F, andWWS = the water softener regeneration water energy consumption per cycle in kilowatt-hours and determined according to section 5.5.1.2 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.5.2.2 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F.
-
-(E) Manufacturers calculating EAOC pursuant to paragraph (c)(1)(ii)(A) of this section should calculate EAEU pursuant to paragraph (c)(2)(i)(A) of this section. Manufacturers calculating EAOC pursuant to paragraphs (c)(1)(ii)(B) of this section should calculate EAEU pursuant to paragraph (c)(2)(i)(B) of this section. Manufacturers calculating EAOC pursuant to paragraph (c)(1)(ii)(C) of this section should calculate EAEU pursuant to paragraph (c)(2)(ii)(A) of this section. Manufacturers calculating EAOC pursuant to paragraph (c)(1)(ii)(D) of this section should calculate EAEU pursuant to paragraph (c)(2)(ii)(B) of this section.
+WWS = the water softener regeneration water energy consumption per cycle in kilowatt-hours and determined according to section 5.5.1.2 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.5.2.2 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F.
 
 (iii) When gas-heated or oil-heated water is used,
 
-(A) When using appendix C (see the note at the beginning of appendix C), for dishwashers having a truncated normal cycle as defined in section 1.15 of appendix C to this subpart, EAOCg = (De × S) + (De × N × (M−(ED/2))) + (Dg × N × Wg).
+(A) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOCg = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))) + (Dg × N × (Wg + WWSg)).
 
-(B) When using appendix C1 (see the note at the beginning of appendix C1), for dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOCg = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))) + (Dg × N × (Wg + WWSg)).
+(B) For dishwashers not having a truncated normal cycle, EAOCg = (De × ETLP) + (De × N × (M + MWS + EF)) + (Dg × N × (Wg + WWSg)).
 
-(C) When using appendix C (see the note at the beginning of appendix C), for dishwashers not having a truncated normal cycle, EAOCg = (De × S) + (De × N × M) + (Dg × N × Wg).
+Where,
 
-(D) When using appendix C1 (see the note at the beginning of appendix C1), for dishwashers not having a truncated normal cycle, EAOCg = (De × ETLP) + (De × N × (M + MWS + EF)) + (Dg × N × (Wg + WWSg)).
+De, ETLP, N, M, MWS, EF, and ED are defined in paragraph (c)(1)(i) of this section,
 
-Where,De, S, ETLP, N, M, MWS, EF, and ED are defined in paragraph (c)(1)(i) of this section,Dg = the representative average unit cost of gas or oil, as appropriate, in dollars per Btu, as provided by the Secretary,Wg = the water energy consumption per cycle for the normal cycle as defined in section 1.6 of appendix C to this subpart, in Btus and determined according to section 5.5 of appendix C to this subpart when using appendix C (see the note at the beginning of appendix C); when using appendix C1 (see the note at the beginning of appendix C1), the normal cycle is as defined in section 1.12 of appendix C1 to this subpart, and the water energy consumption per cycle in Btus is determined according to section 5.6.1.1 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.6.2.1 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F andWWSg = the water softener regeneration energy consumption per cycle in Btu per cycle and determined according to section 5.6.1.2 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.6.2.2 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F.
-
-(E) Manufacturers calculating EAOC pursuant to paragraph (c)(1)(iii)(A) of this section should calculate EAEU pursuant to paragraph (c)(2)(i)(A) of this section. Manufacturers calculating EAOC pursuant to paragraphs (c)(1)(iii)(B) of this section should calculate EAEU pursuant to paragraph (c)(2)(i)(B) of this section. Manufacturers calculating EAOC pursuant to paragraph (c)(1)(iii)(C) of this section should calculate EAEU pursuant to paragraph (c)(2)(ii)(A) of this section. Manufacturers calculating EAOC pursuant to paragraph (c)(1)(iii)(D) of this section should calculate EAEU pursuant to paragraph (c)(2)(ii)(B) of this section.
+Dg = the representative average unit cost of gas or oil, as appropriate, in dollars per Btu, as provided by the Secretary,Wg = the water energy consumption per cycle for the normal cycle, as defined in section 1.12 of appendix C1 to this subpart, in Btus and determined according to section 5.6.1.1 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.6.2.1 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F, andWWSg = the water softener regeneration energy consumption per cycle in Btu per cycle and determined according to section 5.6.1.2 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.6.2.2 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F.
 
 (2) The estimated annual energy use, EAEU, expressed in kilowatt-hours per year must be rounded to the nearest kilowatt-hour per year and is defined as follows:
 
-(i) When using appendix C (see the note at the beginning of appendix C), for dishwashers having a truncated normal cycle as defined in section 1.15 of appendix C to this subpart and when using appendix C1 (see the note at the beginning of appendix C), as defined in section 1.22 of appendix C1 to this subpart,
+(i) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart:
 
-(A) EAEU = (M−(ED/2) + W) × N + S may be used for units manufactured:
+EAEU = (M + MWS + EF−(ED/2) + W + WWS) × N + (ETLP)Where,
 
-(*1*) Before April 29, 2013 to make representations of energy efficiency; and
-
-(*2*) Before the compliance date of any amended standards to demonstrate compliance.
-
-(B) EAEU = (M + MWS + EF−(ED/2) + W + WWS) × N + (ETLP) must be used for units manufactured:
-
-(*1*) On or after April 29, 2013 to make representations of energy efficiency; and
-
-(*2*) On or after the compliance date of any amended standards to demonstrate compliance.
-
-Where,M, MWS, S, ED, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and W and WWS, are defined in paragraph (c)(1)(ii) of this section.
-
-(C) Manufacturers calculating EAEU pursuant to paragraph (c)(2)(i)(A) of this section should calculate EAOC pursuant to paragraph (c)(1)(i)(A), (c)(1)(ii)(A), or (c)(1)(iii)(A) of this section, as appropriate. Manufacturers calculating EAEU pursuant to paragraph (c)(2)(i)(B) of this section should calculate EAOC pursuant to paragraph (c)(1)(i)(B), (c)(1)(ii)(B), or (c)(1)(iii)(B) of this section, as appropriate.
+M, MWS, ED, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and W and WWS are defined in paragraph (c)(1)(ii) of this section.
 
 (ii) For dishwashers not having a truncated normal cycle:
 
-(A) EAEU = (M + W) × N + S may be used for units manufactured:
+EAEU = (M + MWS + EF + W + WWS) × N + ETLPWhere,
 
-(*1*) Before April 29, 2013 to make representations of energy efficiency; and
+M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and W and WWS are defined in paragraph (c)(1)(ii) of this section.
 
-(*2*) Before the compliance date of any amended standards to demonstrate compliance.
+(3) The sum of the water consumption, V, and the water consumption during water softener regeneration, VWS, expressed in gallons per cycle and defined in section 5.4 of appendix C1 to this subpart, must be rounded to one decimal place.
 
-(B) EAEU = (M + MWS + EF + W + WWS) × N + ETLP must be used for units manufactured:
-
-(*1*) On or after April 29, 2013 to make representations of energy efficiency; and
-
-(*2*) On or after the compliance date of any amended standards to demonstrate compliance.
-
-Where,M, MWS, S, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and W and WWS are defined in paragraph (c)(1)(ii) of this section.
-
-(C) Manufacturers calculating EAEU pursuant to paragraph (c)(2)(ii)(A) of this section should calculate EAOC pursuant to paragraph (c)(1)(i)(C), (c)(1)(ii)(C), or (c)(1)(iii)(C) of this section, as appropriate. Manufacturers calculating EAEU pursuant to paragraph (c)(2)(ii)(B) of this section should calculate EAOC pursuant to paragraph (c)(1)(i)(D), (c)(1)(ii)(D), or (c)(1)(iii)(D) of this section, as appropriate.
-
-(3) When using appendix C (see the note at the beginning of appendix C), the water consumption, V, expressed in gallons per cycle and defined in section 5.3 of appendix C to this subpart, and when using appendix C1 (see the note at the beginning of appendix C1), water consumption, V, and the sum of the water consumption, V, and the water consumption during water softener regeneration, VWS, expressed in gallons per cycle and defined in section 5.4 of appendix C1 to this subpart, must be rounded to one decimal place.
-
-(i) Water consumption, V, may be measured for units manufactured:
-
-(A) Before April 29, 2013 to make representations of energy efficiency; and
-
-(B) Before the compliance date of any amended standards to demonstrate compliance.
-
-(ii) Manufacturers calculating water consumption pursuant to paragraph (c)(3)(i) of this section should calculate EAOC as described in paragraph (c)(1)(i)(A), (c)(1)(i)(C), (c)(1)(ii)(A), (c)(1)(ii)(C), (c)(1)(iii)(A), or (c)(1)(iii)(C) of this section, as appropriate. Manufacturers calculating water consumption pursuant to paragraph (c)(3)(i) of this section should calculate EAEU as described in paragraph (c)(2)(i)(A) or (c)(2)(ii)(A) of this section, as appropriate.
-
-(iii) The sum of the water consumption, V, and the water consumption during water softener regeneration, VWS, must be measured for units manufactured:
-
-(A) On or after April 29, 2013 to make representations of energy efficiency; and
-
-(B) On or after the compliance date of any amended standards to demonstrate compliance.
-
-(C) Manufacturers calculating water consumption pursuant to paragraph (c)(3)(iii) of this section should calculate EAOC as described in paragraph (c)(1)(i)(B), (c)(1)(i)(D), (c)(1)(ii)(B), (c)(1)(ii)(D), (c)(1)(iii)(B), or (c)(1)(iii)(D) of this section, as appropriate. Manufacturers calculating water consumption pursuant to paragraph (c)(3)(iii) of this section should calculate EAEU as described in paragraph (c)(2)(i)(B) or (c)(2)(ii)(B) of this section, as appropriate.
-
-(4) Other useful measures of energy consumption for dishwashers are those which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix C and appendix C1 to this subpart.
+(4) Other useful measures of energy consumption for dishwashers are those which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix C1 to this subpart.
 
 (d) *Clothes dryers.* (1) The estimated annual operating cost for clothes dryers shall be -
 
@@ -324,51 +272,37 @@ Where,M, MWS, S, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this sect
 
 (h) *Television sets.* The power consumption of a television set, expressed in watts, including on mode, standby mode, and off mode power consumption values, shall be measured in accordance with sections 7.1, 7.3, and 7.4 of appendix H of this subpart respectively. The annual energy consumption, expressed in kilowatt-hours per year, shall be measured in accordance with section 8 of appendix H of this subpart.
 
-(i) *Kitchen ranges and ovens.* (1) The estimated annual operating cost for conventional ranges, conventional cooking tops, and conventional ovens shall be the sum of the following products:
+(i) *Cooking products.* (1) Determine the integrated annual electrical energy consumption for conventional electric cooking tops, including any integrated annual electrical energy consumption for combined cooking products according to sections 4.1.2.1.2 and 4.2.2.1 of appendix I to this subpart. For conventional gas cooking tops, the integrated annual electrical energy consumption shall be equal to the sum of the conventional cooking top annual electrical energy consumption, ECCE, as defined in section 4.1.2.2.2 or 4.2.2.2 of appendix I to this subpart, and the conventional cooking top annual combined low-power mode energy consumption, ECTSO, as defined in section 4.1.2.2.3 appendix I to this subpart, or the annual combined low-power mode energy consumption for the conventional cooking top component of a combined cooking product, ECCTLP, as defined in section 4.2.2.2 of appendix I to this subpart.
 
-(i) The total integrated annual electrical energy consumption for any electrical energy usage, in kilowatt-hours (kWhs) per year, times the representative average unit cost for electricity, in dollars per kWh, as provided pursuant to section 323(b)(2) of the Act; plus
+(2) Determine the annual gas energy consumption for conventional gas cooking tops according to section 4.1.2.2.1 of appendix I to this subpart.
 
-(ii) The total annual gas energy consumption for any natural gas usage, in British thermal units (Btus) per year, times the representative average unit cost for natural gas, in dollars per Btu, as provided pursuant to section 323(b)(2) of the Act; plus
+(3) Determine the integrated annual energy consumption for conventional cooking tops according to sections 4.1.2.1.2, 4.1.2.2.2, 4.2.2.1, and 4.2.2.2, respectively, of appendix I to this subpart. Round the integrated annual energy consumption to one significant digit.
 
-(iii) The total annual gas energy consumption for any propane usage, in Btus per year, times the representative average unit cost for propane, in dollars per Btu, as provided pursuant to section 323(b)(2) of the Act. The total annual energy consumption for conventional ranges, conventional cooking tops, and conventional ovens shall be as determined according to sections 4.3, 4.2.2, and 4.1.2, respectively, of appendix I to this subpart. For conventional gas cooking tops, total integrated annual electrical energy consumption shall be equal to ECTSO, defined in section 4.2.2.2.4 of appendix I to this subpart. The estimated annual operating cost shall be rounded off to the nearest dollar per year.
+(4) The estimated annual operating cost corresponding to the energy consumption of a conventional cooking top, shall be the sum of the following products:
 
-(2) The cooking efficiency for conventional cooking tops and conventional ovens shall be the ratio of the cooking energy output for the test to the cooking energy input for the test, as determined according to sections 4.2.1 and 4.1.3, respectively, of appendix I to this subpart. The final cooking efficiency values shall be rounded off to three significant digits.
+(i) The integrated annual electrical energy consumption for any electric energy usage, in kilowatt-hours (kWh) per year, as determined in accordance with paragraph (i)(1) of this section, times the representative average unit cost for electricity, in dollars per kWh, as provided pursuant to section 323(b)(2) of the Act; plus
 
-(3) The standby power for microwave ovens shall be determined according to section 3.2.4 of appendix I to this subpart. The standby power shall be rounded off to the nearest 0.1 watt.
+(ii) The total annual gas energy consumption for any natural gas usage, in British thermal units (Btu) per year, as determined in accordance with paragraph (i)(2) of this section, times the representative average unit cost for natural gas, in dollars per Btu, as provided pursuant to section 323(b)(2) of the Act; plus
 
-(4) The energy factor for conventional ranges, conventional cooking tops, and conventional ovens shall be the ratio of the annual useful cooking energy output to the total annual energy input, as determined according to sections 4.3, 4.2.3.1, and 4.1.4.1, respectively, of appendix I to this subpart. The final energy factor values shall be rounded off to three significant digits.
+(iii) The total annual gas energy consumption for any propane usage, in Btu per year, as determined in accordance with paragraph (i)(2) of this section, times the representative average unit cost for propane, in dollars per Btu, as provided pursuant to section 323(b)(2) of the Act.
 
-(5) The integrated energy factor for conventional ranges, conventional cooking tops, and conventional ovens shall be the ratio of the annual useful cooking energy output to the total integrated annual energy input, as determined according to sections 4.3, 4.2.3.2, and 4.1.4.2, respectively, of appendix I to this subpart. The final integrated energy factor values shall be rounded off to three significant digits.
+(5) Determine the standby power for microwave ovens, excluding any microwave oven component of a combined cooking product, according to section 3.2.3 of appendix I to this subpart. Round standby power to the nearest 0.1 watt.
 
-(6) There shall be two estimated annual operating costs, two cooking efficiencies, and two energy factors for convertible cooking appliances -
+(6) For convertible cooking appliances, there shall be -
 
-(i) An estimated annual operating cost, a cooking efficiency, and an energy factor which represent values for those three measures of energy consumption for the operation of the appliance with natural gas; and
+(i) An estimated annual operating cost and an integrated annual energy consumption which represent values for the operation of the appliance with natural gas; and
 
-(ii) An estimated annual operating cost, a cooking efficiency, and an energy factor which represent values for those three measures of energy consumption for the operation of the appliance with LP-gas.
+(ii) An estimated annual operating cost and an integrated annual energy consumption which represent values for the operation of the appliance with LP-gas.
 
-(7) There shall be two integrated energy factors for convertible cooking appliances -
+(7) Determine the estimated annual operating cost for convertible cooking appliances that represents natural gas usage, as described in paragraph (i)(6)(i) of this section, according to paragraph (i)(4) of this section, using the total annual gas energy consumption for natural gas times the representative average unit cost for natural gas.
 
-(i) An integrated energy factor which represents the value for this measure of energy consumption for the operation of the appliance with natural gas; and
+(8) Determine the estimated annual operating cost for convertible cooking appliances that represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, according to paragraph (i)(4) of this section, using the representative average unit cost for propane times the total annual energy consumption of the test gas, either propane or natural gas.
 
-(ii) An integrated energy factor which represents the value for this measure of energy consumption for the operation of the appliance with LP-gas.
+(9) Determine the integrated annual energy consumption for convertible cooking appliances that represents natural gas usage, as described in paragraph (i)(6)(i) of this section, according to paragraph (i)(3) of this section, when the appliance is tested with natural gas.
 
-(8) The estimated annual operating cost for convertible cooking appliances which represents natural gas usage, as described in paragraph (i)(6)(i) of this section, shall be determined according to paragraph (i)(1) of this section using the total annual gas energy consumption for natural gas times the representative average unit cost for natural gas.
+(10) Determine the integrated annual energy consumption for convertible cooking appliances that represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, according to paragraph (i)(3) of this section, when the appliance is tested with either natural gas or propane.
 
-(9) The estimated annual operating cost for convertible cooking appliances which represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, shall be determined according to paragraph (i)(1) of this section using the representative average unit cost for propane times the total annual energy consumption of the test gas, either propane or natural gas.
-
-(10) The cooking efficiency for convertible cooking appliances which represents natural gas usage, as described in paragraph (i)(6)(i) of this section, shall be determined according to paragraph (i)(2) of this section when the appliance is tested with natural gas.
-
-(11) The cooking efficiency for convertible cooking appliances which represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, shall be determined according to paragraph (i)(2) of this section, when the appliance is tested with either natural gas or propane.
-
-(12) The energy factor for convertible cooking appliances which represents natural gas usage, as described in paragraph (i)(6)(i) of this section, shall be determined according to paragraph (i)(4) of this section when the appliance is tested with natural gas.
-
-(13) The integrated energy factor for convertible cooking appliances which represents natural gas usage, as described in paragraph (i)(7)(i) of this section, shall be determined according to paragraph (i)(5) of this section when the appliance is tested with natural gas.
-
-(14) The energy factor for convertible cooking appliances which represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, shall be determined according to paragraph (i)(4) of this section when the appliance is tested with either natural gas or propane.
-
-(15) The integrated energy factor for convertible cooking appliances which represents LP-gas usage, as described in paragraph (i)(7)(ii) of this section, shall be determined according to paragraph (i)(5) of this section when the appliance is tested with natural gas or propane.
-
-(16) Other useful measures of energy consumption for conventional ranges, conventional cooking tops, and conventional ovens shall be those measures of energy consumption which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix I to this subpart.
+(11) Other useful measures of energy consumption for conventional cooking tops shall be the measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions and that are derived from the application of appendix I to this subpart.
 
 (j) *Clothes washers.* (1) The estimated annual operating cost for automatic and semi-automatic clothes washers must be rounded off to the nearest dollar per year and is defined as follows:
 
@@ -540,9 +474,11 @@ Where,M, MWS, S, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this sect
 
 (z) *Dehumidifiers.* When using appendix X, determine the capacity, expressed in pints per day (pints/day), and the energy factor, expressed in liters per kilowatt hour (L/kWh), in accordance with section 4.1 of appendix X of this subpart. When using appendix X1, determine the capacity, expressed in pints/day, according to section 5.2 of appendix X1 to this subpart; determine the integrated energy factor, expressed in L/kWh, according to section 5.4 of appendix X1 to this subpart; and determine the case volume, expressed in cubic feet, for whole-home dehumidifiers in accordance with section 5.7 of appendix X1 of this subpart.
 
-(aa) *Battery Chargers.* (1) Measure the maintenance mode power, standby power, off mode power, battery discharge energy, 24-hour energy consumption and measured duration of the charge and maintenance mode test for a battery charger in accordance with appendix Y to this subpart.
+(aa) *Battery Chargers.* (1) Measure the maintenance mode power, standby power, off mode power, battery discharge energy, 24-hour energy consumption and measured duration of the charge and maintenance mode test for a battery charger other than uninterruptible power supplies in accordance with appendix Y to this subpart.
 
-(2) Calculate the unit energy consumption of a battery charger in accordance with appendix Y to this subpart.
+(2) Calculate the unit energy consumption of a battery charger other than uninterruptible power supplies in accordance with appendix Y to this subpart.
+
+(3) Calculate the average load adjusted efficiency of an uninterruptible power supply in accordance with appendix Y to this subpart.
 
 (bb) *External Power Supplies.* The energy consumption of an external power supply, including active-mode efficiency expressed as a percentage and the no-load, off, and standby mode energy consumption levels expressed in watts, shall be measured in accordance with section 4 of appendix Z of this subpart.
 

@@ -1,27 +1,27 @@
-##### § 817.11 Signs and markers. #####
+##### § 817.11 What signs and markers must I post? #####
 
-(a) *Specifications.* Signs and markers required under this part shall -
+(a) *General specifications.* Signs and markers required under this part must -
 
-(1) Be posted, maintained, and removed by the person who conducts the underground mining activities;
+(1) Be posted and maintained by the person who conducts the underground mining activities;
 
-(2) Be of a uniform design throughout the activities that can be easily seen and read;
+(2) Be of a uniform design throughout the operation;
 
-(3) Be made of durable material; and
+(3) Be easily seen and read;
 
-(4) Conform to local laws and regulations.
+(4) Be made of durable material; and
 
-(b) *Duration of maintenance.* Signs and markers shall be maintained during all activities to which they pertain.
+(5) Conform to local ordinances and codes.
 
-(c) *Mine and permit identification signs.* (1) Identification signs shall be displayed at each point of access from public roads to areas of surface operations and facilities on permit areas for underground mining activities.
+(b) *Duration of maintenance.* You must maintain signs and markers during the conduct of all activities to which they pertain.
 
-(2) Signs will show the name, business address, and telephone number of the person who conducts underground mining activities and the identification number of the current regulatory program permit authorizing underground mining activities.
+(c) *Mine and permit identification signs.* (1) You must display identification signs at each point of access from public roads to areas of surface operations and facilities on permit areas for underground mining activities.
 
-(3) Signs shall be retained and maintained until after the release of all bonds for the permit area.
+(2) The signs must show the name, business address, and telephone number of the person who conducts the underground mining activities and the identification number of the current SMCRA permit authorizing underground mining activities.
 
-(d) *Perimeter markers.* Each person who conducts underground mining activities shall clearly mark the perimeter of all areas affected by surface operations or facilities before beginning mining activities.
+(3) You must retain and maintain the signs until the release of all bonds for the permit area.
 
-(e) *Buffer zone markers.* Buffer zones required by § 817.57 shall be clearly marked to prevent disturbance by surface operations and facilities.
+(d) *Perimeter markers.* You must clearly mark the perimeter of all areas to be disturbed by surface operations or facilities before beginning mining activities on the surface of land within the permit area.
 
-(f) *Topsoil markers.* Where topsoil or other vegetation-supporting material is segregated and stockpiled as required under § 817.22, the stockpiled material shall be clearly marked.
+(e) *Stream buffer zone markers.* You must clearly mark the boundaries of any buffer to be maintained between surface activities and a perennial or intermittent stream in accordance with §§ 784.28 and 817.57 of this chapter to avoid disturbance by surface operations and facilities.
 
-[44 FR 15422, Mar. 13, 1979, as amended at 48 FR 9809, Mar. 8, 1983; 48 FR 44781, Sept. 30, 1983; 73 FR 75884, Dec. 12, 2008; 79 FR 76232, Dec. 22, 2014]
+(f) *Topsoil markers.* You must clearly mark stockpiles of topsoil, subsoil, or other plant growth media segregated and stored as required in the permit in accordance with § 817.22 of this part.

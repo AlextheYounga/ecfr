@@ -1,10 +1,8 @@
 ##### § 319.28 Notice of quarantine. #####
 
-Link to an amendment published at 81 FR 94228, December 23, 2016.
+(a)(1) To prevent the introduction into the United States of citrus canker disease *Xanthomonas campestris* pv. *citri* (Hasse) Dye, the importation of all fruits and peel of all genera, species, and varieties of the subfamilies *Aurantioideae, Rutoideae,* and *Toddalioideae* of the botanical family *Rutaceae* from eastern and southeastern Asia (including India, Myanmar, Sri Lanka, Thailand, Indochina, and the People's Republic of China); the Malay Archipelago; the Philippine Islands; Oceania (except Australia and Tasmania); Japan and adjacent islands; the Republic of Korea; Mauritius; Seychelles; Argentina; Brazil; and Paraguay is prohibited.
 
-(a)(1) To prevent the introduction into the United States of citrus canker disease *Xanthomonas campestris* pv. *citri* (Hasse) Dye, the importation of all fruits and peel of all genera, species, and varieties of the subfamilies *Aurantioideae, Rutoideae,* and *Toddalioideae* of the botanical family *Rutaceae* from eastern and southeastern Asia (including India, Myanmar, Sri Lanka, Thailand, Indochina, and the People's Republic of China); the Malay Archipelago; the Philippine Islands; Oceania (except Australia and Tasmania); Japan and adjacent islands; the Republic of Korea; Mauritius; Seychelles; Argentina (except for the States of Catamarca, Jujuy, Salta, and Tucuman, which are considered free of citrus canker); Brazil; and Paraguay is prohibited.
-
-(2) To prevent the introduction into the United States of sweet orange scab (*Elsinoe australis* Bitanc. and Jenkins), the importation of fruits and peel of all species and varieties of the genus *Citrus,* including *Citrus aurantifolia* (Christm.) Swingle, *C. aurantium* L., *C. hystrix* DC., *C. limon* (L.) Burm. f., *C. paradisi* Macf., *C. reticulata* Blanco, *C. sinensis* (L.) Osbeck, and *Fortunella margarita* (Lour.) Swingle, from Argentina, Brazil, Paraguay, and Uruguay is prohibited.
+(2) To prevent the introduction into the United States of sweet orange scab (*Elsinoe australis* Bitanc. and Jenkins), the importation of fruits and peel of all species and varieties of the genus *Citrus,* including *Citrus aurantifolia* (Christm.) Swingle, *C. aurantium* L., *C. hystrix* DC., *C. limon* (L.) Burm. f., *C. paradisi* Macf., *C. reticulata* Blanco, *C. sinensis* (L.) Osbeck, and *Fortunella margarita* (Lour.) Swingle, from Brazil, Paraguay, and Uruguay is prohibited.
 
 (3) To prevent the introduction into the United States of the bacterial disease “Cancrosis B,” the importation of fruits and peel of all species and varieties of the genus *Citrus,* including those indicated in the previous paragraph, is prohibited from Argentina (except for the States of Catamarca, Jujuy, Salta, and Tucuman, which are considered free of Cancrosis B), Paraguay, and Uruguay.
 
@@ -52,14 +50,16 @@ Link to an amendment published at 81 FR 94228, December 23, 2016.
 
 (d) The prohibition does not apply to sweet oranges (*Citrus sinensis* (L.) Osbeck), lemons (*C. limon* (L.) Burm. f.), mandarins (*C. reticulata* Blanco, *C. clementina* Hort. ex Tanaka, *C. deliciosa* Ten., and *C. unshiu* Marcow), *Citrus* hybrids, *Fortunella japonica* (Thunb.) Swingle, and *F. margarita* (Lour.) Swingle, from Uruguay that meet the requirements of 7 CFR 319.56-59.
 
-(e) This prohibition shall not apply to importations for experimental, therapeutic, or developmental purposes under the conditions specified in a controlled import permit issued in accordance with § 319.6.
+(e) The prohibition does not apply to lemons (*Citrus limon* (L.) Burm. f.) from northwest Argentina that meet the requirements of § 319.56-76.
 
-(f) Further, this prohibition shall not apply to importations into Guam of the fruits and peel designated in paragraph (a)(1) of this section.
+(f) This prohibition shall not apply to importations for experimental, therapeutic, or developmental purposes under the conditions specified in a controlled import permit issued in accordance with § 319.6.
 
-(g) Importations allowed under paragraphs (b) through (e) of this section shall be subject to the permit and other requirements under the regulations in Subpart - Fruits and Vegetables of this part.
+(g) Further, this prohibition shall not apply to importations into Guam of the fruits and peel designated in paragraph (a)(1) of this section.
 
-(h) All salary, travel, and subsistence expenses incident to the assignment of personnel of the U.S. Department of Agriculture to such operations in the country of origin of the Unshu oranges shall be paid by those requesting the service of such personnel.
+(h) Importations allowed under paragraphs (b) through (f) of this section shall be subject to the permit and other requirements under the regulations in Subpart - Fruits and Vegetables of this part.
 
-(i) The term *United States* means the States, District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States.
+(i) All salary, travel, and subsistence expenses incident to the assignment of personnel of the U.S. Department of Agriculture to such operations in the country of origin of the Unshu oranges shall be paid by those requesting the service of such personnel.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0173, 0579-0314, 0579-0418, and 0579-0424)[32 FR 7959, June 2, 1967]Editorial Note:For Federal Register citations affecting § 319.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(j) The term *United States* means the States, District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States.
+
+(Approved by the Office of Management and Budget under control numbers 0579-0173, 0579-0314, 0579-0418, and 0579-0424)[32 FR 7959, June 2, 1967]Editorial Note:For Federal Register citations affecting § 319.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Editorial Note:At 82 FR 8359, Jan. 25, 2017, § 319.28 was amended by adding paragraph (e), however, this paragraph has been stayed until March, 27, 2017.

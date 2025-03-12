@@ -60,72 +60,72 @@ Example 1.A taxpayer on an accrual method reports his taxable income for the tax
 
 Fiscal year ending June 30, 1955
 
-|          July through December 1954           |<sup>1</sup> None|
-|:----------------------------------------------|----------------:|
-|January through June 1955 (<br/>6/12 of $1,600)|      $800       |
-|Deduction for fiscal year ending June 30, 1955 |       800       |
+|          July through December 1954          |<sup>1</sup> None|
+|:---------------------------------------------|----------------:|
+|  January through June 1955 (6/12 of $1,600)  |      $800       |
+|Deduction for fiscal year ending June 30, 1955|       800       |
 
 <sup>1</sup> The taxes for 1954 were deductible in the fiscal year ending June 30, 1954, since such taxes accrued on January 1, 1954.
 
 Fiscal year ending June 30, 1956
 
-|July through December 1955 (<br/>6/12 of $1,600)|$800 |
-|:-----------------------------------------------|----:|
-|January through June 1956 (<br/>6/12 of $1,800) | 900 |
-| Deduction for fiscal year ending June 30, 1956 |1,700|
+| July through December 1955 (6/12 of $1,600)  |$800 |
+|:---------------------------------------------|----:|
+|  January through June 1956 (6/12 of $1,800)  | 900 |
+|Deduction for fiscal year ending June 30, 1956|1,700|
 
 Example 2.A calendar-year taxpayer on an accrual method elects to accrue real property taxes ratably for 1954. In the absence of an election under section 461(c), such taxes would accrue on July 1 and are assessed for the 12-month period beginning on that date. The real property taxes assessed for the year ending June 30, 1954, are $1,200; $1,600 for the year ending June 30, 1955; and $1,800 for the year ending June 30, 1956. Deductions for such taxes for the calendar years 1954 and 1955 are computed as follows:
 
 Year ending December 31, 1954
 
-|           January through June 1954            |<sup>1</sup> None|
-|:-----------------------------------------------|----------------:|
-|July through December 1954 (<br/>6/12 of $1,600)|      $800       |
-|  Deduction for year ending December 31, 1954   |       800       |
+|         January through June 1954         |<sup>1</sup> None|
+|:------------------------------------------|----------------:|
+|July through December 1954 (6/12 of $1,600)|      $800       |
+|Deduction for year ending December 31, 1954|       800       |
 
 <sup>1</sup> The entire tax of $1,200 for the year ended June 30, 1954, was deductible in the return for 1953, since such tax accrued on July 1, 1953.
 
 Year ending December 31, 1955
 
-|January through June 1955 (<br/>6/12 of $1,600) |$800 |
-|:-----------------------------------------------|----:|
-|July through December 1955 (<br/>6/12 of $1,800)| 900 |
-|  Deduction for year ending December 31, 1955   |1,700|
+|January through June 1955 (6/12 of $1,600) |$800 |
+|:------------------------------------------|----:|
+|July through December 1955 (6/12 of $1,800)| 900 |
+|Deduction for year ending December 31, 1955|1,700|
 
 Example 3.A calendar-year taxpayer on an accrual method elects to accrue real property taxes ratably for 1954. In the absence of an election under section 461(c), such taxes, which relate to the calendar year 1954, are accruable on December 1 of the preceding calendar year. No deduction for real property taxes is allowable for the taxable year 1954 since such taxes accrued in the taxable year 1953 under section 23(c) of the Internal Revenue Code of 1939.Example 4.A taxpayer on an accrual method reports his taxable income for the taxable year ending March 31. He elects to accrue real property taxes ratably for the taxable year ending March 31, 1955. In the absence of an election under section 461(c), such taxes are accruable on June 1 of the calendar year to which they relate. The real property taxes are $1,200 for 1954; $1,600 for 1955; and $1,800 for 1956. Deductions for such taxes for the taxable years ending March 31, 1955, and March 31, 1956, are computed as follows:
 
 Fiscal year ending March 31, 1955
 
-|                                         April through December 1954 (<br/>9/12 of $1,200)                                          |$900 |
-|:-----------------------------------------------------------------------------------------------------------------------------------|----:|
-|                                          January through March 1955 (<br/>3/12 of $1,600)                                          | 400 |
-|                                     Taxes accrued ratably in fiscal year ending March 31, 1955                                     |1,800|
-|Tax relating to period January through March 1954, paid in June 1954, and not deductible in prior taxable year (<br/>9/12 of $1,200)| 300 |
-|                                          Deduction for fiscal year ending March 31, 1955                                           |1,600|
+|                                         April through December 1954 (9/12 of $1,200)                                          |$900 |
+|:------------------------------------------------------------------------------------------------------------------------------|----:|
+|                                          January through March 1955 (3/12 of $1,600)                                          | 400 |
+|                                  Taxes accrued ratably in fiscal year ending March 31, 1955                                   |1,800|
+|Tax relating to period January through March 1954, paid in June 1954, and not deductible in prior taxable year (9/12 of $1,200)| 300 |
+|                                        Deduction for fiscal year ending March 31, 1955                                        |1,600|
 
 Fiscal year ending March 31, 1956
 
-|April through December 1955 (<br/>9/12 of $1,600)|$1,200|
-|:------------------------------------------------|-----:|
-|January through March 1956 (<br/>3/12 of $1,800) | 450  |
-| Deduction for fiscal year ending March 31, 1956 |1,650 |
+| April through December 1955 (9/12 of $1,600)  |$1,200|
+|:----------------------------------------------|-----:|
+|  January through March 1956 (3/12 of $1,800)  | 450  |
+|Deduction for fiscal year ending March 31, 1956|1,650 |
 
 Example 5.The facts are the same as in Example 4 except that in June 1955, when the taxpayer pays his $1,600 real property taxes for 1955, he pays $400 of such amount under protest. Deductions for taxes for the taxable years ending March 31, 1955, and March 31, 1956, are computed as follows:
 
 Fiscal year ending March 31, 1955
 
-|                                          April through December 1954 (<br/>9/12 of $1,200)                                          |$900 |
-|:------------------------------------------------------------------------------------------------------------------------------------|----:|
-|January through March 1955 (<br/>3/12 of $1,200, that is, $1,600 minus $400 (the contested portion which is not properly accruable)) | 300 |
-|                                     Taxes accrued ratably in fiscal year ending March 31, 1955                                      |1,200|
-|Tax relating to period January through March 1954, paid in June 1954, and not deductible in prior taxable years (<br/>3/12 of $1,200)| 300 |
-|                                           Deduction for fiscal year ending March 31, 1955                                           |1,500|
+|                                          April through December 1954 (9/12 of $1,200)                                          |$900 |
+|:-------------------------------------------------------------------------------------------------------------------------------|----:|
+|January through March 1955 (3/12 of $1,200, that is, $1,600 minus $400 (the contested portion which is not properly accruable)) | 300 |
+|                                   Taxes accrued ratably in fiscal year ending March 31, 1955                                   |1,200|
+|Tax relating to period January through March 1954, paid in June 1954, and not deductible in prior taxable years (3/12 of $1,200)| 300 |
+|                                        Deduction for fiscal year ending March 31, 1955                                         |1,500|
 
 Fiscal year ending March 31, 1956
 
-|                                                                 April through December 1955 (<br/>9/12 of $1,200)                                                                  |$900 |
+|                                                                    April through December 1955 (9/12 of $1,200)                                                                    |$900 |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----:|
-|                                                                  January through March 1956 (<br/>3/12 of $1,800)                                                                  | 450 |
+|                                                                    January through March 1956 (3/12 of $1,800)                                                                     | 450 |
 |                                                             Taxes accrued ratably in fiscal year ending March 31, 1956                                                             |1,350|
 |Contested portion of tax relating to period January through December 1955, paid in June 1955, and deductible, under section 461(f), for taxpayer's fiscal year ending March 31, 1956| 400 |
 |                                                                  Deduction for fiscal year ending March 31, 1956                                                                   |1,750|

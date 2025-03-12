@@ -1,5 +1,7 @@
 ##### § 331.12 Biocontainment. #####
 
+Link to an amendment published at 82 FR 6205, January 19, 2017.
+
 (a) An individual or entity required to register under this part must develop and implement a written biocontainment plan that is commensurate with the risk of the select agent or toxin, given its intended use.4 The biocontainment plan must contain sufficient information and documentation to describe the containment procedures for the select agent or toxin, including any animals (including anthropods) or plants intentionally or accidentally exposed to or infected with a select agent.
 
 4 Technical assistance and guidance may be obtained by contacting APHIS.

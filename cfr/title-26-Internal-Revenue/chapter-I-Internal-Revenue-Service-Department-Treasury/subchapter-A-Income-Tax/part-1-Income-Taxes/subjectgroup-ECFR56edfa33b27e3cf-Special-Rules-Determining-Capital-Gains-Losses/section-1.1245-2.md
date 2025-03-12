@@ -1,6 +1,6 @@
 ##### § 1.1245-2 Definition of recomputed basis. #####
 
-(a) *General rule* - (1) *Recomputed basis defined.* The term *recomputed basis* means, with respect to any property, an amount equal to the sum of:
+(a) *General rule*—(1) *Recomputed basis defined.* The term *recomputed basis* means, with respect to any property, an amount equal to the sum of:
 
 (i) The adjusted basis of the property, as defined in section 1011, plus
 
@@ -31,7 +31,7 @@ Example:On January 1, 1966, Smith purchases for $1,000, and places in service, a
 Example:On January 1, 1966, Jones purchases machine X for use in his trade or business. The machine, which is section 1245 property, has a basis for depreciation of $10,000. After taking depreciation deductions of $2,000 (the amount allowable), Jones transfers the machine to his son as a gift on January 1, 1968. Since the exception for gifts in section 1245(b)(1) applies, Jones does not recognize gain under section 1245(a)(1). The son's adjusted basis for the machine is $8,000. On January 1, 1969, after taking a depreciation deduction of $1,000 (the amount allowable), the son exchanges machine X for machine Y in a like kind exchange described in section 1031. Since the exception for like kind exchanges in section 1245(b)(4) applies, the son does not recognize gain under section 1245(a)(1). The son's adjusted basis for machine Y is $7,000. In 1969, the son takes a depreciation deduction of $1,000 (the amount allowable) in respect of machine Y. The son sells machine Y on June 30, 1970. No depreciation was allowed or allowable for 1970, the year of the sale. The recomputed basis of machine Y on June 30, 1970, is determined in the following manner:
 
 |                       Adjusted basis                        |$6,000|   |
-|:------------------------------------------------------------|-----:|--:|
+|-------------------------------------------------------------|------|---|
 |        Adjustments reflected in the adjusted basis:         |      |   |
 |Depreciation deducted by Jones for 1966 and 1967 on machine X|2,000 |   |
 |     Depreciation deducted by son for 1968 on machine X      |1,000 |   |
@@ -61,7 +61,7 @@ Example:On January 1, 1966, Jones purchases machine X for use in his trade or bu
 
 (4) In the case of section 1245 property which has an adjusted basis reflecting adjustments for depreciation or amortization taken by the taxpayer with respect to other property, or by another taxpayer with respect to the same or other property, the information described in subparagraphs (1), (2), and (3) of this paragraph with respect to such other property or such other taxpayer.
 
-(c) *Adjustments reflected in adjusted basis immediately after certain acquisitions* - (1) *Zero.* (i) If on the date a person acquires property his basis for the property is determined solely by reference to its cost (within the meaning of section 1012), then on such date the amount of the adjustments reflected in his adjusted basis for the property is zero.
+(c) *Adjustments reflected in adjusted basis immediately after certain acquisitions*—(1) *Zero.* (i) If on the date a person acquires property his basis for the property is determined solely by reference to its cost (within the meaning of section 1012), then on such date the amount of the adjustments reflected in his adjusted basis for the property is zero.
 
 (ii) If on the date a person acquires property his basis for the property is determined solely by reason of the application of section 301(d) (relating to basis of property received in corporate distribution) or section 334(a) (relating to basis of property received in a liquidation in which gain or loss is recognized), then on such date the amount of the adjustments reflected in his adjusted basis for the property is zero.
 
@@ -75,13 +75,15 @@ Example:On January 1, 1966, Jones purchases machine X for use in his trade or bu
 
 (*b*) The amount of any gain taken into account under section 1245(a)(1) by the transferor upon the disposition.
 
-(ii) The transactions referred to in subdivision (i) of this subparagraph are:
+(ii) The transactions referred to in paragraph (c)(2)(i) of this section are:
 
-(*a*) A disposition which is in part a sale or exchange and in part a gift (see paragraph (a)(3) of § 1.1245-4).
+(A) A disposition that is in part a sale or exchange and in part a gift (see § 1.1245-4(a)(3));
 
-(*b*) A disposition (other than a disposition to which section 1245(b)(6)(A) applies) which is described in section 1245(b)(3) (relating to certain tax-free transactions), or
+(B) A disposition (other than a disposition to which section 1245(b)(6)(A) applies) that is described in section 1245(b)(3) (relating to certain tax-free transactions);
 
-(*c*) An exchange described in paragraph (e)(2) of § 1.1245-4 (relating to transfers described in section 1081(d)(1)(A)).
+(C) An exchange described in § 1.1245-4(e)(2) (relating to transfers described in section 1081(d)(1)(A)); or
+
+(D) A transfer at death where the basis of property in the hands of the transferee is determined under section 1022.
 
 (iii) The provisions of this subparagraph may be illustrated by the following example:
 
@@ -123,4 +125,6 @@ Example 1.Smith exchanges machine A for machine B and $1,000 cash in a like kind
 
 (iii) See paragraph (e)(3)(ii) of § 1.1245-1 for the amount of adjustments reflected in the adjusted basis of partnership property in respect of a partner who acquired his partnership interest in certain transactions when an election under section 754 (relating to optional adjustments to basis of partnership property) was in effect.
 
-[T.D. 6832, 30 FR 8578, July 7, 1965, as amended by T.D. 7084, 36 FR 268, Jan. 8, 1971; T.D. 7141, 36 FR 18793, Sept. 22, 1971; 36 FR 19160, Sept. 30, 1971; T.D. 7564, 43 FR 40496, Sept. 12, 1978; T.D. 8121, 52 FR 414, Jan. 6, 1987]
+(d) *Effective/applicability date.* This section applies on and after January 19, 2017. For rules before January 19, 2017, see § 1.1245-2 as contained in 26 CFR part 1 revised as of April 1, 2016.
+
+[T.D. 6832, 30 FR 8578, July 7, 1965, as amended by T.D. 7084, 36 FR 268, Jan. 8, 1971; T.D. 7141, 36 FR 18793, Sept. 22, 1971; 36 FR 19160, Sept. 30, 1971; T.D. 7564, 43 FR 40496, Sept. 12, 1978; T.D. 8121, 52 FR 414, Jan. 6, 1987; T.D. 9811, 82 FR 6241, Jan. 19, 2017]

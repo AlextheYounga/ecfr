@@ -1,5 +1,7 @@
 ##### § 199.105 Drug tests required. #####
 
+Link to an amendment published at 82 FR 8001, January 23, 2017.
+
 Each operator shall conduct the following drug tests for the presence of a prohibited drug:
 
 (a) *Pre-employment testing.* No operator may hire or contract for the use of any person as an employee unless that person passes a drug test or is covered by an anti-drug program that conforms to the requirements of this part.

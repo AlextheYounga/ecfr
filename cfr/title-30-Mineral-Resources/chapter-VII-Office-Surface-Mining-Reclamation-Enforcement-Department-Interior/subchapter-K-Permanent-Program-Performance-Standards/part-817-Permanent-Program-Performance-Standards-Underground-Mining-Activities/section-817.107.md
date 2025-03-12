@@ -1,19 +1,17 @@
-##### § 817.107 Backfilling and grading: Steep slopes. #####
+##### § 817.107 What special provisions for backfilling, grading, and surface configuration apply to operations on steep slopes? #####
 
-(a) Underground mining activities on steep slopes shall be conducted so as to meet the requirements of §§ 817.102-817.106 and the requirements of this section.
+(a) Underground mining activities on steep slopes must comply with this section and the requirements of §§ 817.102 through 817.106 of this part.
 
-(b) The following materials shall not be placed on the downslope:
+(b) You may not place the following materials on the downslope:
 
 (1) Spoil.
 
 (2) Waste materials of any type.
 
-(3) Debris, including that from clearing and grubbing.
+(3) Debris, including debris from clearing and grubbing, except for woody materials used to enhance fish and wildlife habitat.
 
 (4) Abandoned or disabled equipment.
 
-(c) Land above the highwall shall not be disturbed unless the regulatory authority finds that this disturbance will facilitate compliance with the environmental protection standards of this subchapter and the disturbance is limited to that necessary to facilitate compliance.
+(c) You may not disturb land above the highwall unless the regulatory authority finds that disturbance will facilitate compliance with the environmental protection standards of this subchapter and the disturbance is limited to that necessary to facilitate compliance.
 
-(d) Woody materials shall not be buried in the backfilled area unless the regulatory authority determines that the proposed method for placing woody material within the backfill will not deteriorate the stable condition of the backfilled area.
-
-[48 FR 23370, May 24, 1983, as amended at 48 FR 41735, Sept. 16, 1983]
+(d) You must handle woody materials in accordance with § 817.22(f) of this part.

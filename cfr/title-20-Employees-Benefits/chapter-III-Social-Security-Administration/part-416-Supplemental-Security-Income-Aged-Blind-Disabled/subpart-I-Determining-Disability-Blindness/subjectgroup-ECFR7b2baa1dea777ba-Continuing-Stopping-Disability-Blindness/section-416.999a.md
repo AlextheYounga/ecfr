@@ -1,6 +1,6 @@
 ##### § 416.999a Who is eligible for expedited reinstatement? #####
 
-Link to an amendment published at 81 FR 71370, October 17, 2016.
+Link to an amendment published at 81 FR 71370, October 17, 2016.Link to a change to the above amendment published at 82 FR 7648, January 23, 2017.
 
 (a) You can have your eligibility to benefits reinstated under expedited reinstatement if -
 

@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 90119, Dec. 13, 2016.Link to an amendment published at 81 FR 91446, Dec. 16, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.
+Link to an amendment published at 82 FR 1475, Jan. 5, 2017.
 
 (a) *General.* We incorporate by reference the following standards into part 430. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
 
@@ -106,13 +106,19 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (16) ANSI C82.13-2002 (“ANSI C82.13”), American National Standard for Lamp Ballasts - Definitions for Fluorescent Lamps and Ballasts, approved July 23, 2002; IBR approved for appendix Q to subpart B.
 
-(17) ANSI Z21.56-2006, section 2.10 (“ANSI Z21.56”), Standard for Gas-Fired Pool Heaters, approved December 13, 2005, IBR approved for appendix P to subpart B.
+(17) ANSI/NEMA WD 6-2016, *Wiring Devices - Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for Appendix Y to subpart B; as follows:
 
-(18) ANSI Z21.50-2007 (CSA 2.22-2007), (“ANSI Z21.50”), Vented Gas Fireplaces, Fifth Edition, Approved February 22, 2007, IBR approved for § 430.2.
+(i) Figure 1-15 - Plug and Receptacle; and
 
-(19) ANSI Z21.86-2008, (“ANSI Z21.86”), Vented Gas-Fired Space Heating Appliances, Fifth Edition, approved March 28, 2008, IBR approved for appendix O to subpart B.
+(ii) Figure 5-15 - Plug and Receptacle.
 
-(20) ANSI Z21.88-2009 (CSA 2.33-2009), (“ANSI Z21.88”), Vented Gas Fireplace Heaters, Fifth Edition, Approved March 26, 2009, IBR approved for § 430.2.
+(18) ANSI Z21.56-2006, section 2.10 (“ANSI Z21.56”), Standard for Gas-Fired Pool Heaters, approved December 13, 2005, IBR approved for appendix P to subpart B.
+
+(19) ANSI Z21.50-2007 (CSA 2.22-2007), (“ANSI Z21.50”), Vented Gas Fireplaces, Fifth Edition, Approved February 22, 2007, IBR approved for § 430.2.
+
+(20) ANSI Z21.86-2008, (“ANSI Z21.86”), Vented Gas-Fired Space Heating Appliances, Fifth Edition, approved March 28, 2008, IBR approved for appendix O to subpart B.
+
+(21) ANSI Z21.88-2009 (CSA 2.33-2009), (“ANSI Z21.88”), Vented Gas Fireplace Heaters, Fifth Edition, Approved March 26, 2009, IBR approved for § 430.2.
 
 (f) *AS/NZS.* Australian/New Zealand Standard, GPO Box 476, Sydney NSW 2001, (02) 9237-6000 or (12) 0065-4646, or go to *www.standards.org.au/*Standards New Zealand, Level 10 Radio New Zealand House 144 The Terrace Wellington 6001 (Private Bag 2439 Wellington 6020), (04) 498-5990 or (04) 498-5991, or go to *www.standards.co.nz.*
 
@@ -238,21 +244,15 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (1) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B.
 
-(2) ANSI/AHAM DW-1-1992, American National Standard, Household Electric Dishwashers, approved February 6, 1992, IBR approved for appendix C to subpart B and § 430.32.
+(2) ANSI/AHAM DW-1-2010, *Household Electric Dishwashers,* (ANSI approved September 18, 2010), IBR approved for appendix C1 to subpart B.
 
-(3) ANSI/AHAM DW-1-2010, *Household Electric Dishwashers,* (ANSI approved September 18, 2010), IBR approved for appendix C1 to subpart B.
+(3) AHAM HLD-1-2009 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, (2009), IBR approved for appendix D1 and D2 to subpart B.
 
-(4) AHAM HLD-1-2009 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, (2009), IBR approved for appendix D1 and D2 to subpart B.
+(4) AHAM HRF-1-2008, (“HRF-1-2008”), Association of Home Appliance Manufacturers, Energy and Internal Volume of Refrigerating Appliances (2008), including Errata to Energy and Internal Volume of Refrigerating Appliances, Correction Sheet issued November 17, 2009, IBR approved for appendices A and B to subpart B.
 
-(5) AHAM HRF-1-2008, (“HRF-1-2008”), Association of Home Appliance Manufacturers, Energy and Internal Volume of Refrigerating Appliances (2008), including Errata to Energy and Internal Volume of Refrigerating Appliances, Correction Sheet issued November 17, 2009, IBR approved for appendices A and B to subpart B.
+(5) AHAM OV-1-2011, (“AHAM OV-1”), Procedures for the Determination and Expression of the Volume of Household Microwave and Conventional Ovens, (2011), IBR approved for appendix I to subpart B.
 
-(6) AHAM OV-1-2011, (“AHAM OV-1”), Procedures for the Determination and Expression of the Volume of Household Microwave and Conventional Ovens, (2011), IBR approved for appendix I to subpart B.
-
-(7) ANSI/AHAM PAC-1-2015, (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for appendix CC to subpart B.
-
-(8) [Reserved]
-
-(9) ANSI/AHAM RAC-1-2008 (“ANSI/AHAM RAC-1”), Room Air Conditioners, (2008; ANSI approved July 7, 2008), IBR approved for appendix F to subpart B.
+(6) [Reserved]
 
 (j) *ASTM.* American Society for Testing and Materials International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 (*www.astm.org*)
 
@@ -266,13 +266,35 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (2) [Reserved]
 
-(l) *CIE.* Commission Internationale de l'Eclairage (CIE), Central Bureau, Kegelgasse 27, A-1030, Vienna, Austria, 011 + 43 1 714 31 87 0, or go to *http://www.cie.co.at.*
+(l) *CENELEC.* European Committee for Electrotechnical Standardization, 17, Avenue Marnix, B-1000 Brussels, phone: +32 2 519 68 71, available from the HIS Standards Store, *https://www.ihs.com/products/cenelec-standards.html*
+
+(1) EN 60350-2:2013, (“EN 60350-2:2013”), *Household electric cooking appliances Part 2: Hobs - Methods for measuring performance,* (June 3, 2013), IBR approved for appendix I to subpart B, as follows:
+
+(i) Section 5 - General conditions for the measurements, (excluding 5.4);
+
+(ii) Section 6 - Dimensions and mass, Section 6.2 - Cooking zones per hob;
+
+(iii) Section 7 - Cooking zones and cooking areas, Section 7.1 - Energy consumption and heating up time, (excluding 7.1.Z1, 7.1.Z5, 7.1.Z7);
+
+(iv)Annex ZA - Further requirements for measuring the energy consumption and heating up time for cooking areas;
+
+(v) Annex ZB - Aids for measuring the energy consumption;
+
+(vi)Annex ZC - Examples how to select and position a cookware set for measuring the heating up time (7.1.Z5) and energy consumption (7.1.Z6);
+
+(vii) Annex ZD - Example - Multiple zones; and
+
+(viii) Annex ZF - Normative references to international publications with their corresponding European publications.
+
+(2) [Reserved]
+
+(m) *CIE.* Commission Internationale de l'Eclairage (CIE), Central Bureau, Kegelgasse 27, A-1030, Vienna, Austria, 011 + 43 1 714 31 87 0, or go to *http://www.cie.co.at.*
 
 (1) CIE 13.3-1995 (“CIE 13.3”), Technical Report: Method of Measuring and Specifying Colour Rendering Properties of Light Sources, 1995, ISBN 3 900 734 57 7; IBR approved for § 430.2 and appendices R and W to subpart B.
 
 (2) CIE 15:2004 (“CIE 15”), Technical Report: Colorimetry, 3rd edition, 2004, ISBN 978 3 901906 33 6; IBR approved for appendices R and W to subpart B.
 
-(m) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
+(n) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
 
 (1) ENERGY STAR Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1, approved December 9, 2002, IBR approved for appendix U to subpart B.
 
@@ -282,13 +304,13 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (4) Test Methodology for Determining the Energy Performance of Battery Charging Systems, approved December 2005, IBR approved for appendix Y to subpart B.
 
-(n) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
+(o) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
 
 (1) HDMI Specification Informational Version 1.0, *High-Definition Multimedia Interface Specification,* published September 4, 2003; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(o) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
+(p) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
@@ -388,21 +410,41 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (20) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
-(p) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
+(q) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
 
 (1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
 
 (2) IEC Standard 60081, (“IEC 60081”), *Double-capped fluorescent lamps - Performance specifications,* (Amendment 4, Edition 5.0, 2010-02); IBR approved for appendix Q to subpart B.
 
-(3) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
+(3) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendix Y to subpart B, as follows:
 
-(4) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix F, and appendix I to subpart B.
+(i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1 - Conditions for normal mode of operation;
 
-(5) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, X, X1, Y, Z, BB, and CC to subpart B.
+(ii) Clause 5.2.2.k;
 
-(6) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
+(iii) Section 5.3, UPS output specification, Section 5.3.2, Characteristics to be declared by the manufacturer, Clause 5.3.2.d;
 
-(7) IEC 62301 (“IEC 62301-U”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), IBR approved for appendix U to this subpart, as follows:
+(iv) Clause 5.3.2.e;
+
+(v) Section 5.3.4 - Performance classification;
+
+(vi) Section 6.2, Routine test procedure, Section 6.2.2.7 - AC input failure;
+
+(vii) Section 6.4, Type test procedure (electrical), Section 6.4.1 - Input - a.c. supply compatibility (excluding 6.4.1.3, 6.4.1.4, 6.4.1.5, 6.4.1.6, 6.4.1.7, 6.4.1.8, 6.4.1.9 and 6.4.1.10);
+
+(viii) Annex G - Input mains failure - Test method
+
+(ix) Annex J - UPS Efficiency - Methods of measurement.
+
+(4) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
+
+(5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix F, and appendix I to subpart B.
+
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, X, X1, Y, Z, BB, and CC to subpart B.
+
+(7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
+
+(8) IEC 62301 (“IEC 62301-U”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), IBR approved for appendix U to this subpart, as follows:
 
 (i) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.1 - Supply voltage and frequency (first paragraph only),
 
@@ -414,9 +456,9 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (v) Section 5.3 - Measurements: Procedure: Section 5.3.2 - Sampling method (first two paragraphs and Note 1).
 
-(8) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
+(9) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
 
-(q) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
+(r) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
 
 (1) ITU-R BT.470-6, Conventional Television Systems, published November 1998; IBR approved for § 430.2.
 
@@ -424,25 +466,25 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (3) International Efficiency Marking Protocol for External Power Supplies, Version 3.0, September 2013, IBR approved for § 430.32.
 
-(r) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
+(s) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
 
 (1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(s) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
+(t) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
 
 (1) “Computation of Correlated Color Temperature and Distribution Temperature,” A.R. Robertson, Journal of the Optical Society of America, Volume 58, Number 11, November 1968, pages 1528-1535, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(t) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
+(u) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
 
 (1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television - Composite Analog Video Signal - NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(u) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
+(v) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
 
 (1) UL 729-2003 (“UL 729”), Standard for Safety for Oil-Fired Floor Furnaces, Sixth Edition, dated August 29, 2003, including revisions through April 22, 2010, IBR approved for appendix O to subpart B.
 
@@ -450,4 +492,4 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (3) UL 896-1993 (“UL 896”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993, including revisions through May 7, 2010, IBR approved for appendix O to subpart B.
 
-[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Editorial Note:At 81 FR 91446, Dec. 16, 2016, § 430.3 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

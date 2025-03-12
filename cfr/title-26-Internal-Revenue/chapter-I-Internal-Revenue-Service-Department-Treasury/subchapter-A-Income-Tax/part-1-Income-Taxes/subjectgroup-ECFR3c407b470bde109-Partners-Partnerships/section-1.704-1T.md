@@ -8,7 +8,11 @@
 
 (*B*) *Transition rule.* Transition relief is provided herein to partnerships whose agreements were entered into prior to February 14, 2012. In such cases, if there has been no material modification to the partnership agreement on or after February 14, 2012, then, for taxable years beginning on or after January 1, 2012, and before January 1, 2016, and for taxable years that both begin on or after January 1, 2012, and end on or before February 4, 2016, these partnerships may apply the provisions of § 1.704-1(b)(4)(viii)(*c*)(*3*)(*ii*) (see 26 CFR part 1 revised as of April 1, 2011) and § 1.704-1(b)(4)(viii)(*d*)(*3*) (see 26 CFR part 1 revised as of April 1, 2011). For taxable years that both begin on or after January 1, 2016, and end after February 4, 2016, these partnerships may apply the provisions of § 1.704-1(b)(4)(viii)(*d*)(*3*) (see 26 CFR part 1 revised as of April 1, 2011). For purposes of this paragraph (b)(1)(ii)(*b*)(*3*), any change in ownership constitutes a material modification to the partnership agreement. This transition rule does not apply to any taxable year in which persons bearing a relationship to each other that is specified in section 267(b) or section 707(b) collectively have the power to amend the partnership agreement without the consent of any unrelated party (and all subsequent taxable years).
 
-(b)(1)(iii) through (b)(4)(viii)(*a*) [Reserved]. For further guidance, see § 1.704-1(b)(1)(iii) through (b)(4)(viii)(*a*).
+(b)(1)(iii) through (b)(2)(iv)(*f*)(*5*) [Reserved]. For further guidance, see § 1.704-1(b)(1)(iii) through (b)(2)(iv)(*f*)(*5*).
+
+(*6*) Notwithstanding paragraph (b)(2)(iv)(*f*)(*5*) of this section, the revaluation is required under § 1.721(c)-3T(d)(1) as a condition of the application of the gain deferral method (as described in § 1.721(c)-3T(b)) and is pursuant to an event described in this paragraph (b)(2)(iv)(*f*)(*6*). If an interest in a partnership is contributed to a section 721(c) partnership (as defined in § 1.721(c)-1T(b)(14)), the partnership whose interest is contributed may revalue its property in accordance with this section. In this case, the revaluation by the partnership whose interest was contributed must occur immediately before the contribution. If a partnership that revalues its property pursuant to this paragraph owns an interest in another partnership, the partnership in which it owns an interest may also revalue its property in accordance with this section. When multiple partnerships revalue under this paragraph (b)(2)(iv)(*f*)(*6*), the revaluations occur in order from the lowest-tier partnership to the highest-tier partnership.
+
+(b)(2)(iv)(*g*) through (b)(4)(viii)(*a*) introductory text [Reserved]. For further guidance, see § 1.704-1(b)(2)(iv)(*g*) through (b)(4)(viii)(*a*) introductory text.
 
 (*1*) The CFTE is allocated (whether or not pursuant to an express provision in the partnership agreement) to each partner and reported on the partnership return in proportion to the partners' CFTE category shares of income to which the CFTE relates; and
 
@@ -68,6 +72,12 @@ Example 37.(i) Assume that the facts are the same as in paragraph (i) of *Exampl
 
 (c) through (e) [Reserved]. For further guidance, see § 1.704-1(c) through (e).
 
-(f) *Expiration date.* The applicability of this section expires on February 4, 2019.
+(f) *Dates* - (1) *Applicability dates* - (i) *In general.* Except as provided in paragraph (f)(1)(ii) of this section, paragraph (b)(2)(iv)(*f*)(*6*) of this section applies with respect to contributions occurring on or after January 18, 2017, and with respect to contributions occurring before January 18, 2017, resulting from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after January 18, 2017.
 
-[T.D. 9748, 81 FR 5912, Feb. 4, 2016]
+(ii) *Election to apply the provisions described in paragraph (f)(1)(i) of this section retroactively.* Paragraph (b)(2)(iv)(*f*)(*6*) of this section may, by election, be applied with respect to a contribution occurring on or after August 6, 2015, but before January 18, 2017, and with respect to a contribution occurring before August 6, 2015, resulting from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after August 6, 2015. The election is made by applying paragraph (b)(2)(iv)(*f*)(*6*) of this section on a timely filed original return (including extensions) or an amended return filed no later than six months after January 18, 2017.
+
+(2) *Expiration date.* Paragraph (b)(2)(iv)(*f*)(*6*) of this section expires on January 17, 2020.
+
+(g) *Expiration date.* The applicability of this section (other than paragraphs (b)(2)(iv)(*f*)(*6*) and (f) of this section) expires on February 4, 2019.
+
+[T.D. 9748, 81 FR 5912, Feb. 4, 2016, as amended by T.D. 9814, 82 FR 7597, Jan. 19, 2017]

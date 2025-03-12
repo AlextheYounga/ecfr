@@ -1,4 +1,4 @@
-##### § 1.61-5 Allocations by cooperative associations; per-unit retain certificates - tax treatment as to cooperatives and patrons. #####
+##### § 1.61-5 Allocations by cooperative associations; per-unit retain certificates—tax treatment as to cooperatives and patrons. #####
 
 (a) *In general.* Amounts allocated on the basis of the business done with or for a patron by a cooperative association, whether or not entitled to tax treatment under section 522, in cash, merchandise, capital stock, revolving fund certificates, retain certificates, certificates of indebtedness, letters of advice or in some other manner disclosing to the patron the dollar amount allocated, shall be included in the computation of the gross income of such patron for the taxable year in which received to the extent prescribed in paragraph (b) of this section, regardless of whether the allocation is deemed, for the purpose of section 522, to be made at the close of a preceding taxable year of the cooperative association. The determination of the extent of taxability of such amounts is in no way dependent upon the method of accounting employed by the patron or upon the method, cash, accrual, or otherwise, upon which the taxable income of such patron is computed.
 
@@ -24,20 +24,20 @@
 
 Example 1.On July 1, 1959, P, a patron of a cooperative association, purchases a tractor for use in his farming business from such association for $2,200. The tractor has an estimated useful life of five years and an estimated salvage value of $200. P files his income tax returns on a calendar year basis and claims depreciation on the tractor for the year 1959 of $200 pursuant to his use of the straight-line method at the rate of $400 per year. On July 1, 1960, the cooperative association allocates to P with respect to his purchase of the tractor a dividend of $300 in cash. P will reduce his depreciation allowance with respect to the tractor for 1960 (and subsequent taxable years) to $333.33, determined as follows:
 
-|                      Cost of tractor, July 1, 1959                       |$2,200|   |
-|:-------------------------------------------------------------------------|-----:|---|
-|                                  Less:                                   |      |   |
-|                      Depreciation for 1959 (6 mos.)                      | $200 |   |
-|        Adjustment as of Jan. 1, 1960, for cash patronage dividend        | 300  |   |
-|                              Salvage value                               | 200  |   |
-|                                                                          | 700  |   |
-|Basis for depreciation for the remaining 4<br/>1/2 years of estimated life|1,500 |   |
-| Basis for depreciation divided by the 4<br/>1/2 years of remaining life  |333.33|   |
+|                    Cost of tractor, July 1, 1959                    |$2,200|   |
+|---------------------------------------------------------------------|------|---|
+|                                Less:                                |      |   |
+|                   Depreciation for 1959 (6 mos.)                    | $200 |   |
+|     Adjustment as of Jan. 1, 1960, for cash patronage dividend      | 300  |   |
+|                            Salvage value                            | 200  |   |
+|                                                                     | 700  |   |
+|Basis for depreciation for the remaining 41/2 years of estimated life|1,500 |   |
+| Basis for depreciation divided by the 41/2 years of remaining life  |333.33|   |
 
 Example 2.Assume the same facts as in example (1), except that on July 1, 1960, the cooperative association allocates a dividend to P with respect to his purchase of the tractor in the form of a revolving fund certificate having a face amount of $300. The certificate is redeemable in cash at the discretion of the directors of the association and is subject to diminution by any future losses of the association, and has no fair market value when received by P. Since the certificate had no fair market value when received by P, no amount with respect to such certificate was taken into account by him in the year 1960. In 1965, P receives $300 cash from the association in full redemption of the certificate. Prior to 1965, he had recovered through depreciation $2,000 of the cost of the tractor, leaving an unrecovered cost of $200 (the salvage value). For the year 1965, the redemption proceeds of $300 are applied against the unrecovered cost of $200, reducing the basis to zero, and the balance of the redemption proceeds, $100, is includible in the computation of P's gross income.Example 3.Assume the same facts as in example (2), except that the certificate is redeemed in full on July 1, 1962. The full $300 received on redemption of the certificate will be applied against the unrecovered cost of the tractor as of January 1, 1962, computed as follows:
 
 |                                                            Cost of tractor, July 1, 1959                                                            |$2,200|   |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------|-----:|---|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------|---|
 |                                                                        Less:                                                                        |      |   |
 |                                                           Depreciation for 1959 (6 mos.)                                                            | $200 |   |
 |                                                                Depreciation for 1960                                                                | 400  |   |
@@ -59,7 +59,7 @@ Example 4.Assume the same facts as in example (3), except that P sells the tract
 
 (c) *Special rule.* If, for any taxable year ending before December 3, 1959, a taxpayer treated any patronage dividend received in the form of a document described in paragraph (b) (1) (iii) or (iv) of this section in accordance with the regulations then applicable (whether such dividend is subject to paragraph (b) (1) or (3) of this section), such taxpayer is not required to change the treatment of such patronage dividends for any such prior taxable year. On the other hand, the taxpayer may, if he so desires, amend his income tax returns to treat the receipt of such patronage dividend in accordance with the provisions of this section, but no provision in this paragraph shall be construed as extending the period of limitations within which a claim for credit or refund may be filed under section 6511.
 
-(d) *Per-unit retain certificates; tax treatment of cooperative associations; distribution and reinvestment alternative.* (1)(i) In the case of a taxable year to which this paragraph applies to a cooperative association, such association shall, in computing the amount paid or returned to a patron with respect to products marketed for such patron, take into account the stated dollar amount of any per-unit retain certificate (as defined in paragraph (g) of this section) -
+(d) *Per-unit retain certificates; tax treatment of cooperative associations; distribution and reinvestment alternative.* (1)(i) In the case of a taxable year to which this paragraph applies to a cooperative association, such association shall, in computing the amount paid or returned to a patron with respect to products marketed for such patron, take into account the stated dollar amount of any per-unit retain certificate (as defined in paragraph (g) of this section)—
 
 (*a*) Which is issued during the payment period for such year (as defined in subparagraph (3) of this paragraph) with respect to such products,
 
@@ -95,7 +95,7 @@ I agree that, for purposes of determining the amount I have received from this c
 
 (2) The amount of the fair market value of a per-unit retain certificate which is issued to a patron by a cooperative association with respect to a taxable year of the association for which paragraph (d) of this section does not apply shall be included, as ordinary income, in the gross income of the patron for the taxable year in which the certificate is received. Any gain on the redemption, sale, or other disposition of such a per-unit retain certificate shall, to the extent its stated dollar amount exceeds its fair market value at the time of issue, be treated as gain on the redemption, sale, or other disposition of property which is not a capital asset.
 
-(g) *“Per-unit retain certificate” defined.* For purposes of paragraphs (d), (e), and (f), of this section, the term “per-unit retain certificate” means any capital stock, revolving fund certificate, retain certificate, certificate of indebtedness, letter of advice, or other written notice -
+(g) *“Per-unit retain certificate” defined.* For purposes of paragraphs (d), (e), and (f), of this section, the term “per-unit retain certificate” means any capital stock, revolving fund certificate, retain certificate, certificate of indebtedness, letter of advice, or other written notice—
 
 (1) Which is issued to a patron with respect to products marketed for such patron;
 

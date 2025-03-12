@@ -1,18 +1,26 @@
 ##### § 277.4 Funding. #####
 
-Link to an amendment published at 81 FR 92556, Dec. 20, 2016.
+(a) *General.* This section sets allowable cost standards for activities of State agencies in administering the SNAP and Food Distribution Program on Indian Reservations.
 
-(a) *General.* This section sets allowable cost standards for activities of State agencies in administering the Food Stamp Program and Food Distribution Program on Indian Reservations.
-
-(b) *Federal reimbursement rate.* The base percentage for Federal payment shall be 50 percent of State agencies' allowable Food Stamp Program administrative costs. This rate includes reimbursement for food stamp informational activities but not for recruitment activities. Recruitment activities are those activities designed to persuade an individual who has made an informed choice not to apply for food stamps to change his or her decision and apply.
+(b) *Federal reimbursement rate.* The base percentage for Federal payment shall be 50 percent of State agencies' allowable SNAP administrative costs.
 
 (1) Funding of demonstration projects approved by FNS will be at a rate agreed to by FNS in accordance with the requirements outlined in part 282.
 
 (2) The reimbursement of administrative costs to State agencies administering the program on Indian reservations shall be in accordance with the requirements of parts 281 and 283.
 
-(3) the federally funded share of administrative costs, as identified in paragraph (b) of this section may be decreased based upon its payment error rate as described in § 275.23. The rates of Federal funding for the activities identified in paragraphs (b)(1) and (b)(2) of this section shall not be reduced based upon the agency's payment error rate.
+(3) The federally funded share of administrative costs, as identified in paragraph (b) of this section may be decreased based upon its payment error rate as described in § 275.23. The rates of Federal funding for the activities identified in paragraphs (b)(1) and (b)(2) of this section shall not be reduced based upon the agency's payment error rate.
 
 (4) Employment and training program grants, as outlined in § 273.7(d) shall be 100 percent federally-funded.
+
+(5) The Federal reimbursement rate shall include reimbursement for SNAP informational activities, but shall not include the following:
+
+(i) Recruitment activities designed to persuade an individual to apply for SNAP benefits through the use of persuasive practices. Persuasive practices constitute coercing or pressuring an individual to apply, or providing incentives to fill out an application for SNAP benefits. Communicating factual information pertaining to SNAP so that an individual can make an informed choice is not a recruitment activity designed to persuade an individual to apply for SNAP benefits.
+
+(ii) Television, radio or billboard advertisements that are designed to promote SNAP benefits and enrollment, excepting the use of such advertisements for programmatic activities undertaken with respect to benefits provided under § 280.1 of this chapter. This restriction does not apply to radio, television, or billboard advertisements that are not designed to promote SNAP benefits and enrollment and that provide factual information identifying retail food stores where SNAP benefits are accepted.
+
+(iii) Agreements with foreign governments that are designed to promote SNAP benefits and enrollment.
+
+(6) Any entity that receives funding from the programs identified by this section and § 251.4 of this chapter is prohibited from compensating any person for conducting outreach activities relating to participation in, or for recruiting individuals to apply to receive benefits under, the Supplemental Nutrition Assistance Program, if the amount of the compensation would be based on the number of individuals who apply to receive the benefits.
 
 (c) *Matching costs.* State agency costs for Federal matching funds may consist of:
 
@@ -36,10 +44,10 @@ Link to an amendment published at 81 FR 92556, Dec. 20, 2016.
 
 (6) Are in the approved budget.
 
-(e) The value of services rendered by volunteers or the value of goods contributed by third parties, exclusive of the State and Federal agencies, are unallowable for reimbursement purposes under the Food Stamp Program. The value of services rendered by volunteers shall be allowable only to meet any matching administrative costs requirements for the Food Distribution Program on Indian Reservations.
+(e) The value of services rendered by volunteers or the value of goods contributed by third parties, exclusive of the State and Federal agencies, are unallowable for reimbursement purposes under the SNAP. The value of services rendered by volunteers shall be allowable only to meet any matching administrative costs requirements for the Food Distribution Program on Indian Reservations.
 
 (f) The expenses (e.g. travel, lodging, meals) of persons working with volunteer or nonprofit organizations which receive training and assistance pursuant to § 272.4(d)(2) are not allowable.
 
 (g) Investigations of authorized retail or wholesale food concerns when performed in coordination with the USDA Office of Inspector General and FNS shall be funded at the 50 percent Federal reimbursement rate.
 
-[Amdt. 188, 45 FR 85702, Dec. 30, 1980]Editorial Note:For Federal Register citations affecting § 277.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 188, 45 FR 85702, Dec. 30, 1980]Editorial Note:For Federal Register citations affecting § 277.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

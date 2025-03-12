@@ -1,5 +1,7 @@
 ##### § 195.222 Welders and welding operators: Qualification of welders and welding operators. #####
 
+Link to an amendment published at 82 FR 7999, January 23, 2017.
+
 (a) Each welder or welding operator must be qualified in accordance with section 6, section 12 or Appendix A of API Std 1104 (incorporated by reference, *see* § 195.3), or section IX of ASME Boiler and Pressure Vessel Code (BPVC), (incorporated by reference, *see* § 195.3), except that a welder or welding operator qualified under an earlier edition than an edition listed in § 195.3, may weld but may not re-qualify under that earlier edition.
 
 (b) No welder or welding operator may weld with a welding process unless, within the preceding 6 calendar months, the welder or welding operator has -

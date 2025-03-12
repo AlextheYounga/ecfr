@@ -1,5 +1,5 @@
-##### § 817.100 Contemporaneous reclamation. #####
+##### § 817.100 What are the standards for conducting reclamation contemporaneously with mining? #####
 
-Reclamation efforts, including but not limited to backfilling, grading, topsoil replacement, and revegetation, on all areas affected by surface impacts incident to an underground coal mine shall occur as contemporaneously as practicable with mining operations, except when such mining operations are conducted in accordance with a variance for concurrent surface and underground mining activities issued under § 785.18 of this chapter. The regulatory authority may establish schedules that define contemporaneous reclamation.
+(a) You must reclaim all areas disturbed by surface impacts incident to an underground coal mine as contemporaneously as practicable with the mining operations, except when the mining operations are conducted in accordance with a variance for concurrent surface and underground mining activities under § 785.18 of this chapter. Reclamation activities include, but are not limited to, backfilling, grading, soil replacement, revegetation, and stream restoration.
 
-[48 FR 24652, June 1, 1983]
+(b) The regulatory authority may establish schedules that define contemporaneous reclamation.

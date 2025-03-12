@@ -1,4 +1,4 @@
-##### § 1.79-1 Group-term life insurance - general rules. #####
+##### § 1.79-1 Group-term life insurance—general rules. #####
 
 (a) *What is group-term life insurance?* Life insurance is not group-term life insurance for purposes of section 79 unless it meets the following conditions:
 
@@ -10,7 +10,7 @@
 
 (4) The amount of insurance provided to each employee is computed under a formula that precludes individual selection. This formula must be based on factors such as age, years of service, compensation, or position. This condition may be satisfied even if the amount of insurance provided is determined under a limited number of alternative schedules that are based on the amount each employee elects to contribute. However, the amount of insurance provided under each schedule must be computed under a formula that precludes individual selection.
 
-(b) *May group-term life insurance be combined with other benefits?* No part of the life insurance provided under a policy that provides a permanent benefit is group-term life insurance unless -
+(b) *May group-term life insurance be combined with other benefits?* No part of the life insurance provided under a policy that provides a permanent benefit is group-term life insurance unless—
 
 (1) The policy or the employer designates in writing the part of the death benefit provided to each employee that is group-term life insurance; and
 
@@ -44,15 +44,15 @@
 
 (5) For purposes of paragraph (c) (1) and (2) of this section, insurance is considered to be provided to an employee who elects not to receive insurance unless, in order to receive the insurance, the employee is required to contribute to the cost of benefits other than term life insurance. Thus, if an employee could receive term life insurance by contributing to its cost, the employee is taken into account in determining whether the insurance is provided to 10 or more employees even if such employee elects not to receive the insurance. However, an employee who must contribute to the cost of permanent benefits to obtain term life insurance is not taken into account in determining whether the term life insurance is provided to 10 or more employees unless the term life insurance is actually provided to such employee.
 
-(d) *How much must an employee receiving permanent benefits include in income?* - (1) *In general.* If an insurance policy that meets the requirements of this section provides permanent benefits to an employee, the cost of the permanent benefits reduced by the amount paid for permanent benefits by the employee is included in the employee's income. The cost of the permanent benefits is determined under the formula in paragraph (d)(2) of this section.
+(d) *How much must an employee receiving permanent benefits include in income?*—(1) *In general.* If an insurance policy that meets the requirements of this section provides permanent benefits to an employee, the cost of the permanent benefits reduced by the amount paid for permanent benefits by the employee is included in the employee's income. The cost of the permanent benefits is determined under the formula in paragraph (d)(2) of this section.
 
 (2) *Formula for determining cost of the permanent benefits.* In each policy year the cost of the permanent benefits for any particular employee must be no less than:
 
 *X*(DDB2−DDB1)whereDDB2 is the employee's deemed death benefit at the end of the policy year:DDB1 is the employee's deemed death benefit at the end of the preceding policy year; and*X* is the net single premium for insurance (the premium for one dollar of paid-up whole-life insurance) at the employee's attained age at the beginning of the policy year.
 
-(3) *Formula for determining deemed death benefit.* The deemed death benefit (DDB) at the end of any policy year for any particular employee is equal to -
+(3) *Formula for determining deemed death benefit.* The deemed death benefit (DDB) at the end of any policy year for any particular employee is equal to—
 
-R/YWhere -R is the net level premium reserve at the end of that policy year for all benefits provided to the employee by the policy or, if greater, the fair market value of the policy at the end of that policy year; andY is the net single premium for insurance (the premium for one dollar of paid-up, whole life insurance) at the employee's age at the end of that policy year.
+R/YWhere—R is the net level premium reserve at the end of that policy year for all benefits provided to the employee by the policy or, if greater, the fair market value of the policy at the end of that policy year; andY is the net single premium for insurance (the premium for one dollar of paid-up, whole life insurance) at the employee's age at the end of that policy year.
 
 (4) *Mortality tables and interest rates used.* For purposes of paragraph (d) (2) and (3) of this section, the net level premium reserve (*R*) and the net single premium (*X* or *Y*) shall be based on the 1958 CSO Mortality Table and 4 percent interest.
 
@@ -75,8 +75,8 @@ R/YWhere -R is the net level premium reserve at the end of that policy year for 
 Example.An employer provides insurance to employee A under a policy that meets the requirements of this section. Under the policy, A, who is 47 years old, received $70,000 of group-term life insurance and elects to receive a permanent benefit under the policy. A pays $2 for each $1,000 of group-term life insurance through payroll deductions and the employer pays the remainder of the premium for the group-term life insurance. The employer also pays one half of the premium specified in the policy for the permanent benefit. A pays the other half of the premium for the permanent benefit through payroll deductions. The policy specifies that the annual premium paid for the permanent benefit is $300. However, the amount of premium allocated to the permanent benefit by the formula in paragraph (d)(2) of this section is $350. A is a calendar year taxpayer; the policy year begins January 1. In year 2000, $200 is includible in A's income because of insurance provided by the employer. This amount is computed as follows:
 
 |                        (1) Cost of permanent benefits                        |$350|
-|:-----------------------------------------------------------------------------|---:|
-|  (2) Amounts considered paid by A for permanent benefits (<br/>1/2 × $300)   |150 |
+|------------------------------------------------------------------------------|----|
+|     (2) Amounts considered paid by A for permanent benefits (1/2 × $300)     |150 |
 |                         (3) Line (1) minus line (2)                          |200 |
 |  (4) Cost of $70,000 of group-term life insurance under Table I of § 1.79-3  |126 |
 |  (5) Cost of $50,000 of group-term life insurance under Table I of § 1.79-3  | 90 |

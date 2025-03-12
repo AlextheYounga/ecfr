@@ -1,5 +1,7 @@
 ##### § 191.22 National Registry of Pipeline and LNG operators. #####
 
+Link to an amendment published at 82 FR 7997, January 23, 2017.
+
 (a) *OPID request.* Effective January 1, 2012, each operator of a gas pipeline, gas pipeline facility, underground natural gas storage facility, LNG plant or LNG facility must obtain from PHMSA an Operator Identification Number (OPID). An OPID is assigned to an operator for the pipeline or pipeline system for which the operator has primary responsibility. To obtain an OPID, an operator must complete an OPID Assignment Request DOT Form PHMSA F 1000.1 through the National Registry of Pipeline, Underground Natural Gas Storage Facility, and LNG Operators in accordance with § 191.7.
 
 (b) *OPID validation.* An operator who has already been assigned one or more OPID by January 1, 2011, must validate the information associated with each OPID through the National Registry of Pipeline, Underground Natural Gas Storage Facility, and LNG Operators at *http://opsweb.phmsa.dot.gov,* and correct that information as necessary, no later than June 30, 2012.

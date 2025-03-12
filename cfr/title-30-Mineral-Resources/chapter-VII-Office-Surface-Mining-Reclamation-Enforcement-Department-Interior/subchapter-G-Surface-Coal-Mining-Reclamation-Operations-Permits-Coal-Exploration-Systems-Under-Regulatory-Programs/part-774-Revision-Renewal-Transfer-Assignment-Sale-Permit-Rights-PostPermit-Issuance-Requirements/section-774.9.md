@@ -1,0 +1,5 @@
+##### § 774.9 Information collection. #####
+
+In accordance with 44 U.S.C. 3501 *et seq.,* the Office of Management and Budget (OMB) has approved the information collection requirements of this part and assigned it control number 1029-0116. The regulatory authority uses this information to determine if you, the applicant, meet the requirements for permit revision; permit renewal; or the transfer, assignment, or sale of permit rights. The regulatory authority also uses this information to update the Applicant/Violator System. You must respond to obtain a benefit. A federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. Send comments regarding burden estimates or any other aspect of this collection of information, including suggestions for reducing the burden, to the Office of Surface Mining Reclamation and Enforcement, Information Collection Clearance Officer, Room 203-SIB, 1951 Constitution Avenue NW., Washington, DC 20240.
+
+[81 FR 93325, Dec. 20, 2016]

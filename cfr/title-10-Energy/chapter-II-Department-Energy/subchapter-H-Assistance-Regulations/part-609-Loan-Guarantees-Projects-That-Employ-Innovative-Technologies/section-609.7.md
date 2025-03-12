@@ -1,55 +1,29 @@
-##### § 609.7 Programmatic, technical and financial evaluation of Applications. #####
+##### § 609.7 Closing on the loan guarantee agreement. #####
 
-(a) In reviewing completed Applications, and in prioritizing and selecting those to whom a Term Sheet should be offered, DOE will apply the criteria set forth in the Act, the applicable solicitation, and this part. Applications will be considered in a competitive process, *i.e.* each Application will be evaluated against other Applications responsive to the Solicitation. Greater weight will be given to applications that rely upon a smaller guarantee percentage, all else being equal. Concurrent with its review process, DOE will consult with the Secretary of the Treasury regarding the terms and conditions of the potential loan guarantee. Applications will be denied if:
+(a) Subsequent to entering into a Conditional Commitment with an Applicant, DOE, after consultation with the Applicant, will set a closing date for execution of a Loan Guarantee Agreement.
 
-(1) The project will be built or operated outside the United States;
+(b) Prior to or on the closing date of a Loan Guarantee Agreement, DOE will ensure that:
 
-(2) The project is not ready to be employed commercially in the United States, cannot yield a commercially viable product or service in the use proposed in the project, does not have the potential to be employed in other commercial projects in the United States, and is not or will not be available for further commercial use in the United States;
+(1) One of the following has occurred:
 
-(3) The entity or person issuing the loan or other debt obligations subject to the loan guarantee is not an Eligible Lender or other Holder, as defined in § 609.11 of this part;
+(i) An appropriation for the Credit Subsidy Cost has been made;
 
-(4) The project is for demonstration, research, or development.
+(ii) The Secretary has received from the Borrower payment in full for the Credit Subsidy Cost and deposited the payment into the Treasury; or
 
-(5) The project does not avoid, reduce or sequester air pollutants or anthropogenic emissions of greenhouse gases; or
+(iii) A combination of one or more appropriations under paragraph (b)(1)(i) of this section and one or more payments from the Borrower under paragraph (b)(1)(ii) of this section has been made that is equal to the Credit Subsidy Cost;
 
-(6) The Applicant will not provide an equity contribution.
+(2) Pursuant to section 1702(h) of the Act, DOE has received from the Applicant the remainder of the Facility Fee referred to in § 609.11(b);
 
-(b) In evaluating Applications, DOE will consider the following factors:
+(3) OMB has reviewed and approved DOE's calculation of the Credit Subsidy Cost of the Guarantee;
 
-(1) To what measurable extent the project avoids, reduces, or sequesters air pollutants or anthropogenic emissions of greenhouses gases;
+(4) The Department of the Treasury has been consulted as to the terms and conditions of the Loan Guarantee Agreement;
 
-(2) To what extent the new or significantly improved technology to be employed in the project, as compared to Commercial Technology in general use in the United States, is ready to be employed commercially in the United States, can be replicated, yields a commercially viable project or service in the use proposed in the project, has potential to be employed in other commercial projects in the United States, and is or will be available for further commercial use in the United States;
+(5) The Loan Guarantee Agreement and related documents contain all terms and conditions DOE deems reasonable and necessary to protect the interest of the United States;
 
-(3) To what extent the new or significantly improved technology used in the project constitutes an important improvement in technology, as compared to Commercial Technology, used to avoid, reduce or sequester air pollutants or anthropogenic emissions of greenhouse gases, and the Applicant has a plan to advance or assist in the advancement of that technology into the commercial marketplace;
+(6) Each holder of the Guaranteed Obligations is an Eligible Lender, and the servicer of the Guaranteed Obligations meets the servicing performance requirements of § 609.9(b);
 
-(4) The extent to which the requested amount of the loan guarantee, the requested amount of Guaranteed Obligations and, if applicable, the expected amount of any other financing or credit arrangements are reasonable relative to the nature and scope of the project;
+(7) DOE has determined the principal amount of the Guaranteed Obligations expected to be issued in respect of the Eligible Project, as estimated at the time of issuance, will not exceed 80 percent of the Project Costs of the Eligible Project;
 
-(5) The total amount and nature of the Eligible Project Costs and the extent to which Project Costs are funded by Guaranteed Obligations;
+(8) All conditions precedent specified in the Conditional Commitment are either satisfied or waived by the Contracting Officer and all other applicable contractual, statutory, and regulatory requirements have been satisfied or waived by the Contracting Officer. If the counterparty to the Conditional Commitment has not satisfied all such terms and conditions on or prior to the closing date of the Loan Guarantee Agreement, the Secretary may, in his discretion, set a new closing date, or terminate the Conditional Commitment; and
 
-(6) The likelihood that the project will be ready for full commercial operations in the time frame stated in the Application;
-
-(7) The amount of equity commitment to the project by the Applicant and other principals involved in the project;
-
-(8) Whether there is sufficient evidence that the Applicant will diligently pursue the project, including initiating and completing the project in a timely manner;
-
-(9) Whether and to what extent the Applicant will rely upon other Federal and non-Federal governmental assistance such as grants, tax credits, or other loan guarantees to support the financing, construction, and operation of the project and how such assistance will impact the project;
-
-(10) The feasibility of the project and likelihood that the project will produce sufficient revenues to service the project's debt obligations over the life of the loan guarantee and assure timely repayment of Guaranteed Obligations;
-
-(11) The levels of safeguards provided to the Federal government in the event of default through collateral, warranties, and other assurance of repayment described in the Application, including the nature of any anticipated intercreditor arrangements;
-
-(12) The Applicant's capacity and expertise to successfully operate the project, based on factors such as financial soundness, management organization, and the nature and extent of corporate and personal experience;
-
-(13) The ability of the applicant to ensure that the project will comply with all applicable laws and regulations, including all applicable environmental statutes and regulations;
-
-(14) The levels of market, regulatory, legal, financial, technological, and other risks associated with the project and their appropriateness for a loan guarantee provided by DOE;
-
-(15) Whether the Application contains sufficient information, including a detailed description of the nature and scope of the project and the nature, scope, and risk coverage of the loan guarantee sought to enable DOE to perform a thorough assessment of the project; and
-
-(16) Such other criteria that DOE deems relevant in evaluating the merits of an Application.
-
-(c) During the Application review process DOE may raise issues or concerns that were not raised during the Pre-Application review process where a Pre-Application was requested in the applicable solicitation. Any additional information submitted to DOE will be treated as provided in 10 CFR 600.15 and must be marked as provided in 10 CFR 600.15(b).
-
-(d) If DOE determines that a project may be suitable for a loan guarantee, DOE will notify the Applicant and Eligible Lender or other Holder in writing and provide them with a Term Sheet. If DOE reviews an Application and decides not to proceed further with the issuance of a Term Sheet, DOE will inform the Applicant in writing of the reason(s) for denial.
-
-[74 FR 63549, Dec. 4, 2009, as amended at 76 FR 26582, May 9, 2011]
+(9) Where the total Project Costs for an Eligible Project are projected to exceed $25 million, the Applicant must provide a credit rating from a nationally recognized rating agency reflecting the revised Conditional Commitment for the project without a Federal guarantee. Where total Project Costs are projected to be $25 million or less, the Secretary may, on a case-by-case basis, require a credit rating. If a credit rating is required, an updated rating must be provided to the Secretary not later than 30 days prior to closing.

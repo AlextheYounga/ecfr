@@ -1,27 +1,25 @@
-##### § 816.45 Hydrologic balance: Sediment control measures. #####
+##### § 816.45 What sediment control measures must I implement? #####
 
-(a) Appropriate sediment control measures shall be designed, constructed, and maintained using the best technology currently available to:
+(a) You must design, construct, and maintain appropriate sediment control measures, using the best technology currently available to -
 
-(1) Prevent, to the extent possible, additional contributions of sediment to streamflow or to runoff outside the permit area,
+(1) Prevent, to the extent possible, additional contributions of sediment to streamflow or to runoff outside the permit area.
 
-(2) Meet the more stringent of applicable State or Federal effluent limitations,
+(2) Meet the applicable effluent limitations referenced in § 816.42(a) of this part.
 
 (3) Minimize erosion to the extent possible.
 
-(b) Sediment control measures include practices carried out within and adjacent to the disturbed area. The sedimentation storage capacity of practices in and downstream from the disturbed area shall reflect the degree to which successful mining and reclamation techniques are applied to reduce erosion and control sediment. Sediment control measures consist of the utilization of proper mining and reclamation methods and sediment control practices, singly or in combination. Sediment control methods include but are not limited to -
+(b) Sediment control measures include practices carried out within the disturbed area. Sediment control measures consist of the use of proper mining and reclamation methods and sediment control practices, singly or in combination. Sediment control methods include but are not limited to -
 
-(1) Disturbing the smallest practicable area at any one time during the mining operation through progressive backfilling, grading, and prompt revegetation as required in § 816.111(b);
+(1) Disturbing the smallest practicable area at any one time during the mining operation through progressive backfilling, grading, and prompt revegetation.
 
-(2) Stabilizing the backfill material to promote a reduction in the rate and volume of runoff, in accordance with the requirements of § 816.102;
+(2) Shaping and stabilizing the backfilled material to promote a reduction in the rate and volume of runoff.
 
-(3) Retaining sediment within disturbed areas;
+(3) Retaining sediment within disturbed areas.
 
-(4) Diverting runoff away from disturbed areas;
+(4) Diverting surface runoff from undisturbed areas away from disturbed areas.
 
-(5) Diverting runoff using protected channels or pipes through disturbed areas so as not to cause additional erosion;
+(5) Using protected channels or pipes to convey surface runoff from undisturbed areas through disturbed areas so as not to cause additional erosion.
 
-(6) Using straw dikes, riprap, check dams, mulches, vegetative sediment filters, dugout ponds, and other measures that reduce overland flow velocity, reduce runoff volume, or trap sediment; and
+(6) Using straw dikes, riprap, check dams, mulches, vegetative sediment filters, dugout ponds, and other measures that reduce overland flow velocity, reduce runoff volume, or trap sediment.
 
-(7) Treating with chemicals.
-
-[44 FR 15395, Mar. 13, 1979, as amended at 48 FR 44780, Sept. 30, 1983]
+(7) Treating surface runoff collected in sedimentation ponds with flocculants or other chemicals.

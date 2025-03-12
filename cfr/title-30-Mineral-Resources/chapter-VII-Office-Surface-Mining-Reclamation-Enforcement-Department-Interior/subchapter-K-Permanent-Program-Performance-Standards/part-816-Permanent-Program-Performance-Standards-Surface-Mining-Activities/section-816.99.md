@@ -1,5 +1,7 @@
-##### § 816.99 Slides and other damage. #####
+##### § 816.99 What measures must I take to prevent and remediate landslides? #####
 
-(a) An undisturbed natural barrier shall be provided beginning at the elevation of the lowest coal seam to be mined and extending from the outslope for such distance as may be determined by the regulatory authority as is needed to assure stability. The barrier shall be retained in place to prevent slides and erosion.
+(a) You, the permittee or operator, must provide an undisturbed natural barrier beginning at the elevation of the lowest coal seam to be mined and extending from the outslope for the distance that the regulatory authority determines is needed to assure stability. The barrier must be retained in place to prevent slides.
 
-(b) At any time a slide occurs which may have a potential adverse affect on public property, health, safety, or the environment, the person who conducts the surface mining activities shall notify the regulatory authority by the fastest available means and comply with any remedial measures required by the regulatory authority.
+(b)(1) You must notify the regulatory authority by the fastest available means whenever a landslide occurs that has the potential to adversely affect public property, health, safety, or the environment.
+
+(2) You must comply with any remedial measures that the regulatory authority requires in response to the notification provided in paragraph (b)(1) of this section.

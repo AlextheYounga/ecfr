@@ -2,13 +2,15 @@
 
 (a) *Reporting requirements* - (1) *Requirement to report transfers.* A United States person that transfers property to a foreign partnership in a contribution described in section 721 (including section 721(b)) must report that transfer on Form 8865 “Information Return of U.S. Persons With Respect to Certain Foreign Partnerships” pursuant to section 6038B and the rules of this section, if -
 
-(i) Immediately after the transfer, the United States person owns, directly, indirectly, or by attribution, at least a 10-percent interest in the partnership, as defined in section 6038(e)(3)(C) and the regulations thereunder; or
+(i) Immediately after the transfer, the United States person owns, directly, indirectly, or by attribution, at least a 10-percent interest in the partnership, as defined in section 6038(e)(3)(C) and the regulations thereunder;
 
-(ii) The value of the property transferred, when added to the value of any other property transferred in a section 721 contribution by such person (or any related person) to such partnership during the 12-month period ending on the date of the transfer, exceeds $100,000.
+(ii) The value of the property transferred, when added to the value of any other property transferred in a section 721 contribution by such person (or any related person) to the partnership during the 12-month period ending on the date of the transfer, exceeds $100,000; or
+
+(iii) [Reserved]. For further guidance, see § 1.6038B-2T(a)(1)(iii).
 
 (2) *Indirect transfer through a domestic partnership* - For purposes of this section, if a domestic partnership transfers property to a foreign partnership in a section 721 transaction, the domestic partnership's partners shall be considered to have transferred a proportionate share of the property to the foreign partnership. However, if the domestic partnership properly reports all of the information required under this section with respect to the contribution, no partner of the transferor partnership, whether direct or indirect (through tiers of partnerships), is also required to report under this section. For illustrations of this rule, see *Examples 4* and *5* of paragraph (a)(7) of this section.
 
-(3) *Indirect transfer through a foreign partnership.* [Reserved]
+(3) [Reserved]. For further guidance see § 1.6038B-2T(a)(3).
 
 (4) *Requirement to report dispositions* - (i) *In general.* If a United States person was required to report a transfer to a foreign partnership of appreciated property under paragraph (a)(1) or (2) of this section, and the foreign partnership disposes of the property while such United States person remains a direct or indirect partner, that United States person must report the disposition by filing Form 8865. The form must be attached to, and filed by the due date (including extensions) of, the United States person's income tax return for the year in which the disposition occurred.
 
@@ -38,7 +40,7 @@ Example 1.On November 1, 2001, *US,* a United States person that uses the calend
 
 (5) A description of the partnership interest received by the United States person, including a change in partnership interest;
 
-(6) A separate description of each item of contributed property that is appreciated property subject to the allocation rules of section 704(c)(except to the extent that the property is permitted to be aggregated in making allocations under section 704(c)), or is intangible property, including its estimated fair market value and adjusted basis; and
+(6) A separate description of each item of contributed property that is appreciated property subject to the allocation rules of section 704(c) (except to the extent that the property is permitted to be aggregated in making allocations under section 704(c)), or is intangible property, including its estimated fair market value and adjusted basis;
 
 (7) A description of other contributed property, not specified in paragraph (c)(6) of this section, aggregated by the following categories (with, in each case, a brief description of the property) -
 
@@ -50,7 +52,11 @@ Example 1.On November 1, 2001, *US,* a United States person that uses the calend
 
 (iv) Stock, notes receivable and payable, and other securities; and
 
-(v) Other property.
+(v) Other property;
+
+(8) [Reserved]. For further guidance, see § 1.6038B-2T(c)(8); and
+
+(9) [Reserved]. For further guidance, see § 1.6038B-2T(c)(9).
 
 (d) *Information required with respect to dispositions of property.* In respect of dispositions required to be reported under paragraph (a)(4) of this section, the return must contain information in such form or manner as Form 8865 (and its accompanying instructions) prescribes with respect to reportable events, including -
 
@@ -68,7 +74,7 @@ Example 1.On November 1, 2001, *US,* a United States person that uses the calend
 
 (g) *Deemed contributions.* Deemed contributions resulting from IRS-initiated section 482 adjustments are not required to be reported under section 6038B. However, taxpayers must report deemed contributions resulting from taxpayer-initiated adjustments. Such information will be furnished timely if filed by the due date, including extensions, for filing the taxpayer's income tax return for the year in which the adjustment is made.
 
-(h) *Failure to comply with reporting requirements* - (1) *Consequences of failure.* If a United States person is required to file a return under paragraph (a) of this section and fails to comply with the reporting requirements of section 6038B and this section, then such person is subject to the following penalties:
+(h) *Failure to comply with reporting requirements* - (1) *Consequences of a failure.* If a United States person is required to file a return under paragraph (a) of this section and fails to comply with the reporting requirements of section 6038B and this section, or § 1.721(c)-6T, then that person is subject to the following penalties:
 
 (i) The United States person is subject to a penalty equal to 10 percent of the fair market value of the property at the time of the contribution. Such penalty with respect to a particular transfer is limited to $100,000, unless the failure to comply with respect to such transfer was due to intentional disregard.
 
@@ -80,7 +86,7 @@ Example 1.On November 1, 2001, *US,* a United States person that uses the calend
 
 (ii) The provision of false or inaccurate information in purported compliance with the requirements of this section.
 
-(3) *Reasonable cause exception.* Under section 6038B(c)(2) and this section, the provisions of paragraph (h)(1) of this section will not apply if the transferor shows that a failure to comply was due to reasonable cause and not willful neglect. The transferor may attempt to do so by providing a written statement to the district director having jurisdiction of the taxpayer's return for the year of the transfer, setting forth the reasons for the failure to comply. Whether a failure to comply was due to reasonable cause will be determined by the district director under all the facts and circumstances.
+(3) [Reserved]. For further guidance see § 1.6038B-2T(h)(3).
 
 (4) *Statute of limitations.* For exceptions to the limitations on assessment in the event of a failure to provide information under section 6038B, see section 6501(c)(8).
 
@@ -108,4 +114,6 @@ Example 1.On November 1, 2001, *US,* a United States person that uses the calend
 
 (3) *Special rule for transfers made before January 1, 2000.* Even if not reported in accordance with the rules provided in paragraph (a)(5) of this section, or paragraph (j) (1) or (2) of this section, a transfer that occurred before January 1, 2000 will nevertheless be considered timely reported if the transferor reports it on a Form 8865 attached to an amended tax return for the transferor's tax year in which the transfer occurred, provided such amended return is filed no later than September 15, 2000.
 
-[T.D. 8817, 64 FR 5715, Feb. 5, 1999; 64 FR 15686, Apr. 1, 1999; T.D. 8850, 64 FR 72554, Dec. 28, 1999]
+(4) through (5) [Reserved]. For further guidance, see § 1.6038B-2T(j)(4) through (5).
+
+[T.D. 8817, 64 FR 5715, Feb. 5, 1999; 64 FR 15686, Apr. 1, 1999; T.D. 8850, 64 FR 72554, Dec. 28, 1999, as amended by T.D. 9814, 82 FR 7610, Jan. 19, 2017]

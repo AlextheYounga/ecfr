@@ -330,7 +330,7 @@ Example 2.(i) *Facts.* Assume the same facts as in *Example 1,* except that unde
 
 (5) *Exceptions.* The anti-churning rules of this paragraph (h) do not apply to -
 
-(i) The acquisition of a section 197(f)(9) intangible if the acquiring taxpayer's basis in the intangible is determined under section 1014(a); or
+(i) The acquisition of a section 197(f)(9) intangible if the acquiring taxpayer's basis in the intangible is determined under section 1014(a) or 1022; or
 
 (ii) The acquisition of a section 197(f)(9) intangible that was an amortizable section 197 intangible in the hands of the seller (or transferor), but only if the acquisition transaction and the transaction in which the seller (or transferor) acquired the intangible or interest therein are not part of a series of related transactions.
 
@@ -550,7 +550,7 @@ Example 2.(i) *Facts.* Assume the same facts as in *Example 1,* except that unde
 
 (B) *Allocations where the intangible is not amortizable by the contributor.* If a section 197(f)(9) intangible was not an amortizable section 197 intangible in the hands of the contributing partner, a non-contributing partner generally may receive remedial allocations of amortization under section 704(c) that are deductible for Federal income tax purposes. However, such a partner may not receive remedial allocations of amortization under section 704(c) if that partner is related to the partner that contributed the intangible or if, as part of a series of related transactions that includes the contribution of the section 197(f)(9) intangible to the partnership, the contributing partner or related person (other than the partnership) becomes (or remains) a direct user of the contributed intangible. Taxpayers may use any reasonable method to determine amortization of the asset for book purposes, provided that the method used does not contravene the purposes of the anti-churning rules under section 197 and this paragraph (h). A method will be considered to contravene the purposes of the anti-churning rules if the effect of the book adjustments resulting from the method is such that any portion of the tax deduction for amortization attributable to section 704(c) is allocated, directly or indirectly, to a partner who is subject to the anti-churning rules with respect to such adjustment.
 
-(viii) *Operating rule for transfers upon death.* For purposes of this paragraph (h)(12), if the basis of a partner's interest in a partnership is determined under section 1014(a), such partner is treated as acquiring such interest from a person who is not related to such partner, and such interest is treated as having previously been held by a person who is not related to such partner.
+(viii) *Operating rule for transfers upon death.* For purposes of this paragraph (h)(12), if the basis of a partner's interest in a partnership is determined under section 1014(a) or 1022, such partner is treated as acquiring such interest from a person who is not related to such partner, and such interest is treated as having previously been held by a person who is not related to such partner.
 
 (i) [Reserved]
 
@@ -728,4 +728,6 @@ Example 31. Partnership distribution causing section 734(b) basis adjustment to 
 
 (iii) *Automatic change procedures.* A taxpayer changing its method of accounting in accordance with this paragraph (l)(4) must follow the automatic change in accounting method provisions of Rev. Proc. 99-49 (1999-52 IRB 725)(see § 601.601(d)(2) of this chapter) except, for purposes of this paragraph (l)(4), the scope limitations in section 4.02 of Rev. Proc. 99-49 (1999-52 IRB 725) are not applicable. However, if the taxpayer is under examination, before an appeals office, or before a Federal court, the taxpayer must provide a copy of the application to the examining agent(s), appeals officer, or counsel for the government, as appropriate, at the same time that it files the copy of the application with the National Office. The application must contain the name(s) and telephone number(s) of the examining agent(s), appeals officer, or counsel for the government, as appropriate.
 
-[T.D. 8865, 65 FR 3827, Jan. 25, 2000; 65 FR 16318, Mar. 28, 2000; 65 FR 60585, Oct. 12, 2000, as amended by T.D. 8907, 65 FR 69671, Nov. 20, 2000; T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17363, Mar. 30, 2001; 67 FR 22286, May 3, 2002; T.D. 9257, 71 FR 17996, Apr. 10, 2006; 73 FR 3869, Jan. 23, 2008; T.D. 9533, 76 FR 39280, July 6, 2011; T.D. 9637, 78 FR 54745, Sept. 6, 2013]
+(5) *Application of section 1022.* The provisions of § 1.197-2(h)(5)(i) and (h)(12)(viii) relating to section 1022 are effective on and after January 19, 2017.
+
+[T.D. 8865, 65 FR 3827, Jan. 25, 2000; 65 FR 16318, Mar. 28, 2000; 65 FR 60585, Oct. 12, 2000, as amended by T.D. 8907, 65 FR 69671, Nov. 20, 2000; T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17363, Mar. 30, 2001; 67 FR 22286, May 3, 2002; T.D. 9257, 71 FR 17996, Apr. 10, 2006; 73 FR 3869, Jan. 23, 2008; T.D. 9533, 76 FR 39280, July 6, 2011; T.D. 9637, 78 FR 54745, Sept. 6, 2013; T.D. 9811, 82 FR 6237, Jan. 19, 2017]

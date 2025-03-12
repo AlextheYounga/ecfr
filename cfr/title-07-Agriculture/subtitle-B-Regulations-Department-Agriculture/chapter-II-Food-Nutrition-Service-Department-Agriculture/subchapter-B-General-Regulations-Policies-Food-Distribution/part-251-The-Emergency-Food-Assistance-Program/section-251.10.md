@@ -1,7 +1,5 @@
 ##### § 251.10 Miscellaneous provisions. #####
 
-Link to an amendment published at 81 FR 92556, Dec. 20, 2016.
-
 (a) *Records* - (1) *Commodities.* State agencies, subdistributing agencies (as defined in § 250.3 of this chapter), and eligible recipient agencies must maintain records to document the receipt, disposal, and inventory of commodities received under this part that they, in turn, distribute to eligible recipient agencies. Such records must be maintained in accordance with the requirements set forth in § 250.16 of this chapter. Eligible recipient agencies must sign a receipt for program commodities which they receive under this part for distribution to households or for use in preparing meals, and records of all such receipts must be maintained.
 
 (2) *Administrative funds.* In addition to maintaining financial records in accordance with 2 CFR part 200, subpart D, and USDA implementing regulations at 2 CFR part 400, State agencies must maintain records to document the amount of funds received under this part and paid to eligible recipient agencies for allowable administrative costs incurred by such eligible recipient agencies. State agencies must also ensure that eligible recipient agencies maintain such records.
@@ -50,16 +48,6 @@ Link to an amendment published at 81 FR 92556, Dec. 20, 2016.
 
 (h) *Maintenance of effort.* The State may not reduce the expenditure of its own funds to provide commodities or services to organizations receiving funds or services under the Emergency Food Assistance Act of 1983 below the level of such expenditure existing in the fiscal year when the State first began administering TEFAP, or Fiscal Year 1988, which is the fiscal year in which the maintenance-of-effort requirement became effective, whichever is later.
 
-(i) *Data collection related to eligible recipient agencies.* (1) Each State agency must collect data related to eligible recipient agencies that have an agreement with the State agency to participate in the program for each of Federal fiscal years 2006 through 2009, including those eligible recipient agencies that participated only for part of the fiscal year. Such data shall include:
+(i) *Recruitment activities related to the Supplemental Nutrition Assistance Program (SNAP).* Any entity that receives donated foods identified in this section must adhere to regulations set forth under § 277.4(b)(6) of this chapter.
 
-(i) The name of each eligible recipient agency;
-
-(ii) The city in which each participating eligible recipient agency was headquartered and the name of the state;
-
-(iii) The amount of funds provided to the participating organization, i.e., the sum of the amount of federal administrative funds plus the value of the commodities purchased under Section 214 of the Emergency Food Assistance Act of 1983 provided to each participating eligible recipient agency; and
-
-(iv) The type of participating organization, e.g., government agency, educational institution, non-profit organization/secular, non-profit organization/faith-based, and “other.”
-
-(2) On or before August 31, 2007, and each subsequent year through 2010, State agencies must report to FNS data as specified in paragraph (i)(1) of this section for the prior Federal fiscal year. State agencies must submit this data in a format designated by FNS.
-
-(Approved by the Office of Management and Budget under control number 0584-0313)[51 FR 12823, Apr. 16, 1986. Redesignated and amended at 52 FR 17934, May 13, 1987; 53 FR 15357, Apr. 29, 1988; 59 FR 16975, Apr. 11, 1994; 62 FR 53731, Oct. 16, 1997; 64 FR 72907, Dec. 29, 1999; 72 FR 24184, May 2, 2007; 81 FR 23115, Apr. 19, 2016]
+(Approved by the Office of Management and Budget under control number 0584-0313)[51 FR 12823, Apr. 16, 1986. Redesignated and amended at 52 FR 17934, May 13, 1987; 53 FR 15357, Apr. 29, 1988; 59 FR 16975, Apr. 11, 1994; 62 FR 53731, Oct. 16, 1997; 64 FR 72907, Dec. 29, 1999; 72 FR 24184, May 2, 2007; 81 FR 23115, Apr. 19, 2016; 81 FR 92556, Dec. 20, 2016]

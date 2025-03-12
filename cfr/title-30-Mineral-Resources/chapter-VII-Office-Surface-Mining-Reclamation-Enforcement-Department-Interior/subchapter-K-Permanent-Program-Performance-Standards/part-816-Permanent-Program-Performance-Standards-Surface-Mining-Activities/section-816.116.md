@@ -1,43 +1,53 @@
-##### § 816.116 Revegetation: Standards for success. #####
+##### § 816.116 What requirements apply to standards for determining revegetation success? #####
 
-(a) Success of revegetation shall be judged on the effectiveness of the vegetation for the approved postmining land use, the extent of cover compared to the cover occurring in natural vegetation of the area, and the general requirements of § 816.111.
+(a) The regulatory authority must select standards for revegetation success and statistically valid sampling techniques for measuring revegetation success. The standards and techniques must be made available to the public in written form.
 
-(1) Standards for success and statistically valid sampling techniques for measuring success shall be selected by the regulatory authority, described in writing, and made available to the public.
+(b) The standards for success applied to a specific permit must reflect the revegetation plan requirements of § 780.12(g) of this chapter. They must be based upon the following data -
 
-(2) Standards for success shall include criteria representative of unmined lands in the area being reclaimed to evaluate the appropriate vegetation parameters of ground cover, production, or stocking. Ground cover, production, or stocking shall be considered equal to the approved success standard when they are not less than 90 percent of the success standard. The sampling techniques for measuring success shall use a 90-percent statistical confidence interval (i.e., one-sided test with a 0.10 alpha error).
+(1) The plant community and vegetation information required under § 779.19 of this chapter.
 
-(b) Standards for success shall be applied in accordance with the approved postmining land use and, at a minimum, the following conditions:
+(2) The soil type and productivity information required under § 779.21 of this chapter.
 
-(1) For areas developed for use as grazing land or pasture land, the ground cover and production of living plants on the revegetated area shall be at least equal to that of a reference area or such other success standards approved by the regulatory authority.
+(3) The land use capability and productivity information required under § 779.22 of this chapter.
 
-(2) For areas developed for use as cropland, crop production on the revegetated area shall be at least equal to that of a reference area or such other success standards approved by the regulatory authority.
+(4) The postmining land use approved under § 780.24 of this chapter, but only to the extent that the approved postmining land use will be implemented before final bond release under §§ 800.40 through 800.43 of this chapter. Otherwise, the site must be revegetated in a manner that will restore native plant communities and the revegetation success standards for the site must reflect that requirement.
 
-(3) For areas to be developed for fish and wildlife habitat, recreation, undeveloped land, or forest products, success of vegetation shall be determined on the basis of tree and shrub stocking and vegetative ground cover. Such parameters are described as follows:
+(c) Except for the areas identified in § 816.111(a) of this part, standards for success must include -
 
-(i) Minimum stocking and planting arrangements shall be specified by the regulatory authority on the basis of local and regional conditions and after consultation with and approval by the State agencies responsible for the administration of forestry and wildlife programs. Consultation and approval may occur on either a programwide or a permit-specific basis.
+(1) Species diversity.
 
-(ii) Trees and shrubs that will be used in determining the success of stocking and the adequacy of the plant arrangement shall have utility for the approved postmining land use. Trees and shrubs counted in determining such success shall be healthy and have been in place for not less than two growing seasons. At the time of bond release, at least 80 percent of the trees and shrubs used to determine such success shall have been in place for 60 percent of the applicable minimum period of responsibility. The requirements of this section apply to trees and shrubs that have been seeded or transplanted and can be met when records of woody vegetation planted show that no woody plants were planted during the last two growing seasons of the responsibility period and, if any replanting of woody plants took place during the responsibility period, the total number planted during the last 60 percent of that period is less than 20 percent of the total number of woody plants required. Any replanting must be by means of transplants to allow for adequate accounting of plant stocking. This final accounting may include volunteer trees and shrubs of approved species. Volunteer trees and shrubs of approved species shall be deemed equivalent to planted specimens two years of age or older and can be counted towards success. Suckers on shrubby vegetation can be counted as volunteer plants when it is evident the shrub community is vigorous and expanding.
+(2) Areal distribution of species.
 
-(iii) Vegetative ground cover shall not be less than that required to achieve the approved postmining land use.
+(3) Ground cover, except for land actually used for cropland after the completion of regrading and redistribution of soil materials.
 
-(4) For areas to be developed for industrial, commercial, or residential use less than 2 years after regrading is completed, the vegetative ground cover shall not be less than that required to control erosion.
+(4) Production, for land used for cropland, pasture, or grazing land either before permit issuance or after the completion of regrading and redistribution of soil materials.
 
-(5) For areas previously disturbed by mining that were not reclaimed to the requirements of this subchapter and that are remined or otherwise redisturbed by surface coal mining operations, as a minimum, the vegetative ground cover shall be not less than the ground cover existing before redisturbance and shall be adequate to control erosion.
+(5) Stocking, for areas revegetated with woody plants.
 
-(c)(1) The period of extended responsibility for successful revegetation shall begin after the last year of augmented seeding, fertilizing, irrigation, or other work, excluding husbandry practices that are approved by the regulatory authority in accordance with paragraph (c)(4) of this section.
+(d) The ground cover, production, or stocking of the revegetated area will be considered equal to the approved success standard for those parameters when the measured values are not less than 90 percent of the success standard, using a 90-percent statistical confidence interval (*i.e.,* a one-sided test with a 0.10 alpha error).
 
-(2) In areas of more than 26.0 inches of annual average precipitation, the period of responsibility shall continue for a period of not less than:
+(e) For all areas revegetated with woody plants, regardless of the postmining land use, the regulatory authority must specify minimum stocking and planting arrangements on the basis of local and regional conditions and after coordination with and approval by the state agencies responsible for the administration of forestry and wildlife programs. Coordination and approval may occur on either a program-wide basis or a permit-specific basis.
 
-(i) Five full years, except as provided in paragraph (c)(2)(ii) of this section. The vegetation parameters identified in paragraph (b) of this section for grazing land, pasture land, or cropland shall equal or exceed the approved success standard during the growing season of any 2 years of the responsibility period, except the first year. Areas approved for the other uses identified in paragraph (b) of this section shall equal or exceed the applicable success standard during the growing season of the last year of the responsibility period.
+(f)(1) Only those species of trees and shrubs approved in the permit as part of the revegetation plan under § 780.12(g) of this chapter or volunteer trees and shrubs of species that meet the requirements of § 816.111(c) of this part may be counted in determining whether stocking standards have been met.
 
-(ii) Two full years for lands eligible for remining included in a permit for which a finding has been made under § 773.15(m) of this chapter. To the extent that the success standards are established by paragraph (b)(5) of this section, the lands must equal or exceed the standards during the growing season of the last year of the responsibility period.
+(2)(i) At the time of final bond release under §§ 800.40 through 800.43 of this chapter, at least 80 percent of the trees and shrubs used to determine success must have been in place for 60 percent of the applicable minimum period of responsibility under § 816.115 of this part.
 
-(3) In areas of 26.0 inches or less average annual precipitation, the period of responsibility shall continue for a period of not less than:
+(ii) Trees and shrubs counted in determining revegetation success must be healthy and have been in place for not less than two growing seasons. Any replanting must be done by means of transplants to allow for proper accounting of plant stocking.
 
-(i) Ten full years, except as provided in paragraph (c)(3)(ii) in this section. The vegetation parameters identified in paragraph (b) of this section for grazing land, pasture land, or cropland shall equal or exceed the approved success standard during the growing season of any two years after year six of the responsibility period. Areas approved for the other uses identified in paragraph (b) of this section shall equal or exceed the applicable success standard during the growing season of the last year of the responsibility period.
+(iii)(A) For purposes of paragraph (f)(2)(ii) of this section, volunteer trees and shrubs of species that meet the requirements of § 816.111(c) of this part may be deemed equivalent to planted specimens two years of age or older.
 
-(ii) Five full years for lands eligible for remining included in a permit for which a finding has been made under § 773.15(m) of this chapter. To the extent that the success standards are established by paragraph (b)(5) of this section, the lands must equal or exceed the standards during the growing seasons of the last two consecutive years of the responsibility period.
+(B) Suckers on shrubby vegetation can be counted as volunteer plants when it is evident that the shrub community is vigorous and expanding.
 
-(4) The regulatory authority may approve selective husbandry practices, excluding augmented seeding, fertilization, or irrigation, provided it obtains prior approval from the Director in accordance with § 732.17 of this chapter that the practices are normal husbandry practices, without extending the period of responsibility for revegetation success and bond liability, if such practices can be expected to continue as part of the postmining land use or if discontinuance of the practices after the liability period expires will not reduce the probability of permanent revegetation success. Approved practices shall be normal husbandry practices within the region for unmined lands having land uses similar to the approved postmining land use of the disturbed area, including such practices as disease, pest, and vermin control; and any pruning, reseeding, and transplanting specifically necessitated by such actions.
+(iv) The requirements of paragraphs (f)(2)(i) and (ii) of this section will be deemed met when records of woody vegetation planted show that -
 
-[48 FR 40160, Sept. 2, 1983, as amended at 53 FR 34642, Sept. 7, 1988; 60 FR 58492, Nov. 27, 1995; 71 FR 51705, Aug. 30, 2006; 73 FR 67630, Nov. 14, 2008]
+(A) No woody plants were planted during the last two growing seasons of the responsibility period; and
+
+(B) If any replanting of woody plants took place earlier during the responsibility period, the total number planted during the last 60 percent of that period is less than 20 percent of the total number of woody plants required to meet the stocking standard.
+
+(3) Vegetative ground cover on areas planted with trees or shrubs must be of a nature that allows for natural establishment and succession of native plants, including trees and shrubs.
+
+(g) *Special provision for areas that are to be developed within the revegetation responsibility period.* Portions of the permit area that are to be developed for industrial, commercial, or residential use within the revegetation responsibility period need not meet production or stocking standards. For those areas, the vegetative ground cover must not be less than that required to control erosion.
+
+(h) *Special provision for previously mined areas.* Previously mined areas need only meet a vegetative ground cover standard, unless the regulatory authority specifies otherwise. At a minimum, the cover on the revegetated previously mined area must not be less than the ground cover existing before redisturbance and must be adequate to control erosion.
+
+(i) *Special provision for prime farmland.* For prime farmland historically used for cropland, the revegetation success standard provisions of § 823.15 of this chapter apply in lieu of the requirements of paragraphs (b) through (h) of this section.

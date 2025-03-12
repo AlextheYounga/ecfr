@@ -1,0 +1,5 @@
+##### § 817.39 What must I do with exploratory or monitoring wells when I no longer need them? #####
+
+(a) Except as provided in paragraph (b) of this section, you, the permittee, must permanently seal exploratory or monitoring wells in a safe and environmentally sound manner in accordance with § 817.13 of this part before the regulatory authority may approve full release of the bond posted for the land on which the wells are located under §§ 800.40 through 800.43 of this chapter.
+
+(b) With the prior approval of the regulatory authority, you may transfer wells to another party for further use. The conditions of the transfer must comply with state and local laws. You will remain responsible for the proper management of the wells until full release of the bond posted for the land on which the wells are located under §§ 800.40 through 800.43 of this chapter.

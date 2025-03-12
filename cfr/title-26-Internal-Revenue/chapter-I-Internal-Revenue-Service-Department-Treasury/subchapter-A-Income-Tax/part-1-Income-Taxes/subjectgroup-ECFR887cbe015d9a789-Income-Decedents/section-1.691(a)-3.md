@@ -1,6 +1,6 @@
 ##### § 1.691(a)-3 Character of gross income. #####
 
-(a) The right to receive an amount of income in respect of a decedent shall be treated in the hands of the estate, or by the person entitled to receive such amount by bequest, devise, or inheritance from the decedent or by reason of his death, as if it had been acquired in the transaction by which the decedent (or a prior decedent) acquired such right, and shall be considered as having the same character it would have had if the decedent (or a prior decedent) had lived and received such amount. The provisions of section 1014(a), relating to the basis of property acquired from a decedent, do not apply to these amounts in the hands of the estate and such persons. See section 1014(c).
+(a) The right to receive an amount of income in respect of a decedent shall be treated in the hands of the estate, or by the person entitled to receive such amount by bequest, devise, or inheritance from the decedent or by reason of his death, as if it had been acquired in the transaction by which the decedent (or a prior decedent) acquired such right, and shall be considered as having the same character it would have had if the decedent (or a prior decedent) had lived and received such amount. The provisions of section 1014(a), relating to the basis of property acquired from a decedent, and section 1022, relating to the basis of property acquired from certain decedents who died in 2010, do not apply to these amounts in the hands of the estate and such persons. See sections 1014(c) and 1022(f).
 
 (b) The application of paragraph (a) of this section may be illustrated by the following:
 
@@ -12,4 +12,6 @@
 
 (4) The provisions of sections 632 and 1347, relating to the tax attributable to the sale of certain oil or gas property and to certain claims against the United States, apply to any amount included in gross income, the right to which was obtained by the decedent by a sale or claim within the provisions of those sections.
 
-[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6885, 31 FR 7803, June 2, 1966; T.D. 7728, 45 FR 72650, Nov. 3, 1980]
+(c) *Effective/applicability dates.* The last two sentences of paragraph (a) of this section apply on and after January 19, 2017. For rules before January 19, 2017, see § 1.691(a)-3 as contained in 26 CFR part 1 revised as of April 1, 2016.
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6885, 31 FR 7803, June 2, 1966; T.D. 7728, 45 FR 72650, Nov. 3, 1980; T.D. 9811, 82 FR 6239, Jan. 19, 2017]

@@ -1,3 +1,3 @@
-##### § 817.2 Objectives. #####
+##### § 817.2 What is the objective of this part? #####
 
-This part is intended to ensure that all underground mining activities are conducted in a manner which preserves and enhances environmental and other values in accordance with the Act.
+This part is intended to ensure that all underground mining activities are conducted in an environmentally sound manner in accordance with the Act.

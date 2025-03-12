@@ -1,3 +1,5 @@
-##### § 817.99 Slides and other damage. #####
+##### § 817.99 What measures must I take to prevent and remediate landslides? #####
 
-At any time a slide occurs which may have a potential adverse effect on public, property, health, safety, or the environment, the person who conducts the underground mining activities shall notify the regulatory authority by the fastest available means and comply with any remedial measures required by the regulatory authority.
+(a) You must notify the regulatory authority by the fastest available means whenever a landslide occurs that has the potential to adversely affect public property, health, safety, or the environment.
+
+(b) You must comply with any remedial measures that the regulatory authority requires in response to the notification provided in paragraph (a) of this section.

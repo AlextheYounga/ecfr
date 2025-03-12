@@ -1,57 +1,69 @@
-##### § 785.14 Mountaintop removal mining. #####
+##### § 785.14 What special provisions apply to mountaintop removal mining operations? #####
 
-Link to an amendment published at 81 FR 93379, Dec. 20, 2016.
+(a) *Applicability.* This section applies to you if you conduct or intend to conduct mountaintop removal mining, as that term is defined in § 701.5 of this chapter.
 
-(a) This section applies to any person who conducts or intends to conduct surface mining activities by mountaintop removal mining.
+(b) *Application and approval requirements.* The regulatory authority may approve an application for a permit to conduct mountaintop removal mining operations, without regard to the approximate original contour restoration requirements of §§ 816.102 and 816.105 of this chapter, if it first finds, in writing, on the basis of a complete application, that you have met the following requirements:
 
-(b) Mountaintop removal mining means surface mining activities, where the mining operation removes an entire coal seam or seams running through the upper fraction of a mountain, ridge, or hill, except as provided for in 30 CFR 824.11(a)(6), by removing substantially all of the overburden off the bench and creating a level plateau or a gently rolling contour, with no highwalls remaining, and capable of supporting postmining land uses in accordance with the requirements of this section.
+(1) The proposed postmining land use of the lands to be disturbed is an industrial, commercial, agricultural, residential, or public facility (including recreational facilities) use.
 
-(c) The regulatory authority may issue a permit for mountaintop removal mining, without regard to the requirements of §§ 816.102, 816.104, 816.105, and 816.107 of this chapter to restore the lands disturbed by such mining to their approximate original contour, if it first finds, in writing, on the basis of a complete application, that the following requirements are met:
+(2) After consultation with the appropriate land-use planning agencies, if any, the regulatory authority deems that the proposed postmining land use constitutes an equal or better economic or public use of the land compared with the premining use.
 
-(1) The proposed postmining land use of the lands to be affected will be an industrial, commercial, agricultural, residential, or public facility (including recreational facilities) use and, if -
+(3) You have demonstrated compliance with the requirements for alternative postmining land uses in § 780.24(b) of this chapter.
 
-(i) After consultation with the appropriate land-use planning agencies, if any, the proposed land use is deemed by the regulatory authority to constitute an equal or better economic or public use of the affected land compared with the pre-mining use;
+(4) You have presented specific plans for the proposed postmining land use and appropriate assurances that the use will be -
 
-(ii) The applicant demonstrates compliance with the requirements for acceptable alternative postmining land uses of paragraphs (a) through (c) of § 816.133 of this chapter;
+(i) Compatible with adjacent land uses.
 
-(iii) The applicant has presented specific plans for the proposed postmining land use and appropriate assurances that such use will be -
+(ii) Obtainable according to data regarding expected need and market.
 
-(A) Compatible with adjacent land uses;
+(iii) Assured of investment in necessary public facilities.
 
-(B) Obtainable according to data regarding expected need and market;
+(iv) Supported by commitments from public agencies where appropriate.
 
-(C) Assured of investment in necessary public facilities;
+(v) Practicable with respect to private financial capability for completion of the proposed use.
 
-(D) Supported by commitments from public agencies where appropriate;
+(vi) Planned pursuant to a schedule attached to the reclamation plan so as to integrate the mining operation and reclamation with the postmining land use.
 
-(E) Practicable with respect to private financial capability for completion of the proposed use;
+(5) The proposed operation has been designed by a registered engineer in conformance with professional standards established to assure the stability, drainage, and configuration necessary for the intended use of the site.
 
-(F) Planned pursuant to a schedule attached to the reclamation plan so as to integrate the mining operation and reclamation with the postmining land use; and
+(6) The proposed use is consistent with adjacent land uses and with existing state and local land use plans and programs.
 
-(G) Designed by a registered engineer in conformance with professional standards established to assure the stability, drainage, and configuation necessary for the intended use of the site.
+(7) The regulatory authority has provided, in writing, an opportunity of not more than 60 days to review and comment on the proposed use to -
 
-(iv) The proposed use would be consistent with adjacent land use and existing State and local land use plans and programs; and
+(i) The governing body of the unit of general-purpose government in whose jurisdiction the land is located; and
 
-(v) The regulatory authority has provided, in writing, an opportunity of not more than 60 days to review and comment on such proposed use to the governing body of general purpose government in whose jurisdiction the land is located and any State or Federal agency which the regulatory authority, in its discretion, determines to have an interest in the proposed use.
+(ii) Any state or federal agency that the regulatory authority, in its discretion, determines to have an interest in the proposed use.
 
-(2) The applicant demonstrates that in place of restoration of the land to be affected to the approximate original contour under §§ 816.102, 816.104, 816.105, and 816.107 of this chapter, the operation will be conducted in compliance with the requirements of part 824 of this chapter.
+(8) You have demonstrated that the proposed operation has been designed to comply with the requirements of part 824 of this chapter.
 
-(3) The requirements of 30 CFR 824 are made a specific condition of the permit.
+(9) You have demonstrated that the operation will not damage natural watercourses within the proposed permit and adjacent areas. You may meet this requirement by demonstrating that the proposed operation will comply with all of the following requirements:
 
-(4) All other requirements of the Act, this chapter, and the regulatory program are met by the proposed operations.
+(i) The proposed operation will not increase the amount or concentration of parameters of concern in discharges to groundwater and surface water from the proposed permit area, when compared to the discharges that would occur if the operation were designed to adhere to approximate original contour restoration requirements.
 
-(5) The permit is clearly identified as being for mountaintop removal mining.
+(ii) The proposed operation will not result in any greater adverse impact to the aquatic and terrestrial ecology of the proposed permit and adjacent area than would occur if the area to be mined was restored to its approximate original contour.
 
-(d)(1) Any permits incorporating a variance issued under this section shall be reviewed by the regulatory authority to evaluate the progress and development of mining activities to establish that the operator is proceeding in accordance with the terms of the variance -
+(iii) The proposed operation will not result in changes in the size or frequency of peak flows from the proposed permit area that would cause an increase in flooding, when compared to the impacts that would occur if the operation were designed to adhere to approximate original contour restoration requirements.
 
-(i) Within the sixth month preceding the third year from the date of its issuance;
+(iv) The total volume of flow from the proposed permit area, during every season of the year, will not vary in a way that would adversely affect any -
 
-(ii) Before each permit renewal; and
+(A) Designated use of a surface water located outside the proposed permit area under section 303(c) of the Clean Water Act, 33 U.S.C. 1313(c), or, if there are no designated uses, any premining use of a surface water located outside the proposed permit area.
 
-(iii) Not later than the middle of each permit term.
+(B) Premining use of groundwater located outside the proposed permit area.
 
-(2) Any review required under paragraph (d)(1) of this section need not be held if the permittee has demonstrated and the regulatory authority finds, in writing, within three months before the scheduled review, that all operations under the permit are proceeding and will continue to be conducted in accordance with the terms of the permit and requirements of the Act, this chapter, and the regulatory program.
+(v) Any other demonstrations that the regulatory authority finds necessary to determine that no damage will occur to natural watercourses within the proposed permit and adjacent areas.
 
-(3) The terms and conditions of a permit for mountaintop removal mining may be modified at any time by the regulatory authority, if it determines that more stringent measures are necessary to insure that the operation involved is conducted in compliance with the requirements of the Act, this chapter, and the regulatory program.
+(10) The revegetation plan proposed under § 780.12(g) of this chapter requires that those portions of the proposed permit area that are forested at the time of application or that would revert to forest under conditions of natural succession be revegetated using native tree and understory species to the extent that this requirement is not inconsistent with attainment of the proposed postmining land use.
 
-[44 FR 15370, Mar. 13, 1979, as amended at 48 FR 39904, Sept. 1, 1983; 52 FR 39183, Oct. 20, 1987]
+(11) The proposed operation complies with all other requirements of the regulatory program.
+
+(c) *Additional requirements for permit issuance.* (1) The permit must specifically identify the acreage and location of the lands on which mountaintop removal mining operations will occur within the permit area.
+
+(2) The permit must include a condition prohibiting the release of any part of the bond posted for the permit under part 800 of this chapter until substantial implementation of the approved postmining land use is underway. The condition must provide that the prohibition does not apply to any portion of the bond that is in excess of an amount equal to the cost of regrading the site to its approximate original contour and revegetating the regraded land in the event that the approved postmining land use is not implemented.
+
+(3) The regulatory authority must clearly mark the permit issued under this part as including mountaintop removal mining operations.
+
+(d) *Subsequent permit reviews.* (1) The regulatory authority must review each permit issued under this section in accordance with § 774.10(a)(2) of this chapter.
+
+(2) The regulatory authority may modify the terms and conditions of a permit for mountaintop removal mining at any time if it determines that more stringent measures are necessary to insure that the operation is conducted in compliance with the requirements of the regulatory program.
+
+[81 FR 93379, Dec. 20, 2016]

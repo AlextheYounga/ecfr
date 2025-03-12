@@ -1,5 +1,7 @@
 ##### § 331.7 Registration and related security risk assessments. #####
 
+Link to an amendment published at 82 FR 6205, January 19, 2017.
+
 (a) Unless exempted under § 331.5, an individual or entity shall not possess, use, or transfer any select agent or toxin without a certificate of registration issued by the Administrator.
 
 (b) As a condition of registration, each entity must designate an individual to be its responsible official. While most registrants are likely to be entities, in the event that an individual applies for and is granted a certificate of registration, the individual will be considered the responsible official.

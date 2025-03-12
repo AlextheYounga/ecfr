@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
+Link to an amendment published at 81 FR 95800, Dec. 28, 2016.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -172,4 +172,8 @@ Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendmen
 
 (2) [Reserved]
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016]
+(o) *Uninterruptible power supplies.* (1) Determine the UPS architecture by performing the tests specified in the definitions of VI, VFD, and VFI in sections 2.28.1 through 2.28.3 of appendix Y to subpart B of 10 CFR part 430.
+
+(2) [Reserved]
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016]

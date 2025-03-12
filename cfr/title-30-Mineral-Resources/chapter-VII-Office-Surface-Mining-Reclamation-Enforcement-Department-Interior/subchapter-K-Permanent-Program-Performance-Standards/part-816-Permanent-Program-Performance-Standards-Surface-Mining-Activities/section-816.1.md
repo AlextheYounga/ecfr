@@ -1,3 +1,3 @@
-##### § 816.1 Scope. #####
+##### § 816.1 What does this part do? #####
 
-This part sets forth the minimum environmental protection performance standards to be adopted and implemented under regulatory programs for surface mining activities.
+This part sets forth the minimum environmental protection performance standards for surface mining activities under the Act.
