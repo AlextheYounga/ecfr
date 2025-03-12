@@ -1,7 +1,5 @@
 ##### § 154.215 Submission of rate filing justification. #####
 
-Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
-
 (a) A health insurance issuer must submit to CMS and to the applicable State (if the State accepts such submissions) the information specified below on a form and in a manner prescribed by the Secretary.
 
 (1) For all single risk pool products, including new and discontinuing products, the Unified Rate Review Template, as described in paragraph (d) of this section;
@@ -48,10 +46,10 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (1) CMS promptly will make available to the public on its Web site the information contained in Part II of each Rate Filing Justification.
 
-(2) CMS will make available to the public on its Web site the information contained in Parts I and III of each Rate Filing Justification that is not a trade secret or confidential commercial or financial information as defined in HHS's Freedom of Information Act regulations, 45 CFR 5.65.
+(2) CMS will make available to the public on its website the information contained in Parts I and III of each Rate Filing Justification that is not a trade secret or confidential commercial or financial information as defined in HHS's Freedom of Information Act regulations, 45 CFR 5.31(d).
 
 (3) CMS will include a disclaimer on its Web site with the information made available to the public that explains the purpose and role of the Rate Filing Justification.
 
 (4) CMS will include information on its Web site concerning how the public can submit comments on the proposed rate increases that CMS reviews.
 
-[78 FR 13440, Feb. 27, 2013, as amended at 80 FR 10864, Feb. 27, 2015; 81 FR 12335, Mar. 8, 2016]
+[78 FR 13440, Feb. 27, 2013, as amended at 80 FR 10864, Feb. 27, 2015; 81 FR 12335, Mar. 8, 2016; 83 FR 17060, Apr. 17, 2018]

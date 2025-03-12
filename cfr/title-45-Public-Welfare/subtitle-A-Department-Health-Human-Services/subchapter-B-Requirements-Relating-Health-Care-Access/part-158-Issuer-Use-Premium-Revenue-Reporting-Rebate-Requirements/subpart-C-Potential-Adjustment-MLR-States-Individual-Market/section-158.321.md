@@ -1,33 +1,21 @@
 ##### § 158.321 Information regarding the State's individual health insurance market. #####
 
-Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
+(a) Subject to § 158.320, the State must provide, for each issuer who actively offers coverage in the individual market in the State, the following information, in accordance with paragraph (b) of this section, for the preceding calendar year and, at the State's option, for the current year:
 
-(a) *State MLR standard.* The State must describe its current MLR standard for the individual market, if any, and the formula used to assess compliance with such standard.
+(1) Total earned premium and incurred claims;
 
-(b) *State market withdrawal requirements.* The State must describe any requirements it has with respect to withdrawals from the State's individual health insurance market. Such requirements include, but are not limited to, any notice that must be provided and any authority the State regulator may have to approve a withdrawal plan or ensure that enrollees of the exiting issuer have continuing coverage, as well as any penalties or sanctions that may be levied upon exit or limitations on re-entry.
+(2) Total number of enrollees (life-years and covered lives);
 
-(c) *Mechanisms to provide options to consumers.* The State must describe the mechanisms available to the State to provide consumers with options in the event an issuer withdraws from the individual market. Such mechanisms include, but are not limited to, a guaranteed issue requirement, limits on health status rating, an issuer of last resort, or a State-operated high risk pool. A description of each mechanism should include detail on the issuers participating in and products available under such mechanism, as well as any limitations with respect to eligibility, enrollment period, total enrollment, and coverage for pre-existing conditions.
+(3) Total agents' and brokers' commission expenses;
 
-(d) *Issuers in the State's individual market.* Subject to § 158.320 of this subpart, the State must provide:
+(4) Net underwriting gain;
 
-(1) For each issuer who offers coverage in the individual market in the State its number of individual enrollees by product, available individual premium data by product, and individual health insurance market share within the State; and
+(5) Risk-based capital level; and
 
-(2) For each issuer who offers coverage in the individual market in the State to more than 1,000 enrollees, the following additional information:
+(6) Whether the issuer has provided notice to the State's insurance commissioner, superintendent, or comparable State authority that the issuer will cease or begin offering individual market coverage on the Exchange, certain geographic areas, or the entire individual market in the State.
 
-(i) Total earned premium on individual market health insurance products in the State;
+(b) The information required in paragraphs (a)(1) through (4) and (6) of this section must be provided separately for the issuer's individual market plans grouped by the following categories, as applicable: On-Exchange, off-Exchange, grandfathered health plans as defined in § 147.140 of this subchapter, coverage that meets the criteria for transitional policies outlined in applicable guidance, and non-grandfathered single risk pool coverage. The information required in paragraph (a)(5) of this section must be provided at the issuer level.
 
-(ii) Reported MLR pursuant to State law for the individual market business in the State;
+(c) The State must also provide information regarding whether any issuer other than those described in paragraph (a) of this section has provided notice to the State's insurance commissioner, superintendent, or comparable State authority that the issuer will cease or begin offering individual market coverage on the Exchange, certain geographic areas, or the entire individual market in the State.
 
-(iii) Estimated MLR for the individual market business in the State, as determined in accordance with § 158.221 of this part;
-
-(iv) Total agents' and brokers' commission expenses on individual health insurance products;
-
-(v) Estimated rebate for the individual market business in the State, as determined in accordance with §§ 158.221 and 158.240 of this part;
-
-(vi) Net underwriting profit for the individual market business and consolidated business in the State;
-
-(vii) After-tax profit and profit margin for the individual market business and consolidated business in the State;
-
-(viii) Risk-based capital level; and
-
-(ix) Whether the issuer has provided notice of exit to the State's insurance commissioner, superintendent, or comparable State authority.
+[83 FR 17070, Apr. 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 155.605 Eligibility standards for exemptions. #####
 
-Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
-
 (a) *Eligibility for an exemption through the Exchange.* Except as specified in paragraph (g) of this section, the Exchange must determine an applicant eligible for and issue a certificate of exemption for any month if the Exchange determines that he or she meets the requirements for one or more of the categories of exemptions described in this section for at least one day of the month.
 
 (b) *Duration of single exemption.* Except as specified in paragraphs (c)(2) and (d) of this section, the Exchange may provide a certificate of exemption only for the calendar year in which an applicant submitted an application for such exemption.
@@ -38,7 +36,7 @@ Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
 
 (D) In the case of an individual who is eligible to purchase coverage under an eligible employer-sponsored plan as a member of the employee's family, as defined in 26 CFR 1.36B-1(d), the required contribution is the portion of the annual premium that the employee would pay (whether through salary reduction or otherwise) for the lowest cost family coverage that would cover the employee and all other individuals who are included in the employee's family who have not otherwise been granted an exemption through the Exchange.
 
-(iv) For an individual who is ineligible to purchase coverage under an eligible employer-sponsored plan, the Exchange determines the required contribution for coverage in accordance with section 5000A(e)(1)(B)(ii) of the Code, inclusive of all members of the family, as defined in 26 CFR 1.36B-1(d), who have not otherwise been granted an exemption through the Exchange and who are not treated as eligible to purchase coverage under an eligible employer-sponsored plan, in accordance with paragraph (d)(4)(ii) of this section; and
+(iv) For an individual who is ineligible to purchase coverage under an eligible employer-sponsored plan, the Exchange determines the required contribution for coverage in accordance with section 5000A(e)(1)(B)(ii) of the Code, inclusive of all members of the family, as defined in 26 CFR 1.36B-1(d), who have not otherwise been granted an exemption through the Exchange and who are not treated as eligible to purchase coverage under an eligible employer-sponsored plan, in accordance with paragraph (d)(4)(ii) of this section. If there is not a bronze level plan offered through the Exchange in the individual's county, the Exchange must use the annual premium for the lowest cost Exchange metal level plan, excluding catastrophic coverage, available in the individual market through the Exchange in the State in the county in which the individual resides to determine whether coverage exceeds the affordability threshold specified in section 5000A(e)(1) of the Code; and
 
 (v) The applicant applies for this exemption prior to the last date on which he or she could enroll in a QHP through the Exchange for the month or months of a calendar year for which the exemption is requested.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
 
 (4) *Ineligible for Medicaid based on a State's decision not to expand.* The IRS may allow an applicant to claim the exemption specified in HHS Guidance published November 21, 2014, entitled, “Guidance on Hardship Exemptions for Persons Meeting Certain Criteria,” and in IRS Notice 2014-76, section F (see *https://www.cms.gov/cciio/*).
 
-[78 FR 39523, July 1, 2013, as amended at 79 FR 30349, May 27, 2014; 80 FR 10868, Feb. 27, 2015; 81 FR 12345, Mar. 8, 2016]
+[78 FR 39523, July 1, 2013, as amended at 79 FR 30349, May 27, 2014; 80 FR 10868, Feb. 27, 2015; 81 FR 12345, Mar. 8, 2016; 83 FR 17063, Apr. 17, 2018]

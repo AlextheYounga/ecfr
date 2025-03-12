@@ -1,7 +1,5 @@
 ##### § 387.303T Security for the protection of the public: Minimum limits. #####
 
-Link to an amendment published at 83 FR 22877, May 17, 2018.
-
 (a) *Definitions.* (1) *Primary security* means public liability coverage provided by the insurance or surety company responsible for the first dollar of coverage.
 
 (2) *Excess security* means public liability coverage above the primary security, or above any additional underlying security, up to and including the required minimum limits set forth in paragraph (b)(2) of this section.
@@ -42,7 +40,7 @@ Passenger Carriers: Kind of Equipment
 
 (iii) An insurance identification card, binder, or other document issued by an authorized insurer which specifies both the effective date and the expiration date of the insurance coverage.
 
-Notwithstanding the provisions of § 387.301T(a)(1), the filing of evidence of insurance is not required as a condition to the issuance of a certificate of registration. Further, the reference to continuous coverage at § 387.313T(a)(6) and the reference to cancellation notice at § 387.313T(d) are not applicable to these carriers.
+(5) Notwithstanding the provisions of § 387.301T(a)(1), the filing of evidence of insurance is not required as a condition to the issuance of a certificate of registration. Further, the reference to continuous coverage at § 387.313T(a)(6) and the reference to cancellation notice at § 387.313T(d) are not applicable to these carriers.
 
 (c) *Household goods motor carriers: Cargo liability.* Security required to compensate individual shippers for loss or damage to property belonging to them and coming into the possession of household goods motor carriers in connection with their transportation service:
 
@@ -50,4 +48,4 @@ Notwithstanding the provisions of § 387.301T(a)(1), the filing of evidence of i
 
 (2) For loss of or damage to or aggregate of losses or damages of or to household goods occurring at any one time and place - $10,000.
 
-[82 FR 5307, Jan. 17, 2017]
+[82 FR 5307, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018]

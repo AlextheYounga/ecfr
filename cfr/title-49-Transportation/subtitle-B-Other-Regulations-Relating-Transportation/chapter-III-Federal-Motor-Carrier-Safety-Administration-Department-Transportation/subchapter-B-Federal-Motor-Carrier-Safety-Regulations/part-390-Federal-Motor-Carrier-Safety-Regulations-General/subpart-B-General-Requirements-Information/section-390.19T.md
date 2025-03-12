@@ -1,6 +1,4 @@
-##### § 390.19T Motor carrier identification reports for certain Mexico-domiciled motor carriers. #####
-
-Link to an amendment published at 83 FR 22878, May 17, 2018.
+##### § 390.19T Motor carrier, hazardous material safety permit applicant/holder, and intermodal equipment provider identification reports. #####
 
 (a) *Applicability.* Each motor carrier and intermodal equipment provider must file Form MCS-150, Form MCS-150B or Form MCS-150C with FMCSA as follows:
 
@@ -47,9 +45,9 @@ Link to an amendment published at 83 FR 22878, May 17, 2018.
 
 (2) The following applicants must additionally pass a pre-authorization safety audit as described below before being issued a USDOT Number:
 
-(i) A Mexico-domiciled motor carrier seeking to provide transportation of property or passengers in interstate commerce between Mexico and points in the United States beyond the municipalities and commercial zones along the United States-Mexico international border must pass the pre-authorization safety audit under § 365.507T of this subchapter. The Agency will not issue a USDOT Number until expiration of the protest period provided in § 365.115 of this subchapter or - if a protest is received - after FMCSA denies or rejects the protest.
+(i) A Mexico-domiciled motor carrier seeking to provide transportation of property or passengers in interstate commerce between Mexico and points in the United States beyond the municipalities and commercial zones along the United States-Mexico international border must pass the pre-authorization safety audit under § 365.507T of this subchapter. The Agency will not issue a USDOT Number until expiration of the protest period provided in § 365.115 of this subchapter or—if a protest is received—after FMCSA denies or rejects the protest.
 
-(ii) A non-North America-domiciled motor carrier seeking to provide transportation of property or passengers in interstate commerce within the United States must pass the pre-authorization safety audit under § 385.607T(c) of this subchapter. The Agency will not issue a USDOT Number until expiration of the protest period provided in § 365.115 of this subchapter or - if a protest is received - after FMCSA denies or rejects the protest.
+(ii) A non-North America-domiciled motor carrier seeking to provide transportation of property or passengers in interstate commerce within the United States must pass the pre-authorization safety audit under § 385.607T(c) of this subchapter. The Agency will not issue a USDOT Number until expiration of the protest period provided in § 365.115 of this subchapter or—if a protest is received—after FMCSA denies or rejects the protest.
 
 (3) The motor carrier must display the number on each self-propelled CMV, as defined in § 390.5T, along with the additional information required by § 390.21T.
 
@@ -57,4 +55,4 @@ Link to an amendment published at 83 FR 22878, May 17, 2018.
 
 (i) A motor carrier that registers its vehicles in a State that participates in the Performance and Registration Information Systems Management (PRISM) program (authorized under section 4004 of the Transportation Equity Act for the 21st Century [Public Law 105-178, 112 Stat. 107]) is exempt from the requirements of this section, provided it files all the required information with the appropriate State office.
 
-[82 FR 5316, Jan. 17, 2017]
+[82 FR 5316, Jan. 17, 2017, as amended at 83 FR 22878, May 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
-
 (a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
 (2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
@@ -12,9 +10,13 @@ Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
 
 (ii) If an enrollee and his or her dependents become newly eligible for cost-sharing reductions in accordance with paragraph (d)(6)(i) or (ii) of this section and are not enrolled in a silver-level QHP, the Exchange must allow the enrollee and his or her dependents to change to a silver-level QHP if they elect to change their QHP enrollment.
 
-(iii) If an enrollee qualifies for a special enrollment period or is adding a dependent to his or her QHP through a triggering event specified in paragraph (d) of this section other than those described under paragraph (d)(2)(i), (d)(4), (d)(6)(i), (d)(6)(ii), (d)(8), (d)(9), or (d)(10), the Exchange must allow the enrollee and his or her dependents to make changes to his or her enrollment in the same QHP or to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or, at the option of the enrollee or dependent, enroll in any separate QHP.
+(iii) For the other triggering events specified in paragraph (d) of this section, except for paragraphs (d)(2)(i), (d)(4), (d)(6)(i) and (ii) of this section for becoming newly eligible for CSRs, (d)(8), (9), (10) and (12) of this section:
 
-(5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; or that they are an Indian as defined by section 4 of the Indian Health Care Improvement Act.
+(A) If an enrollee qualifies for a special enrollment period, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter; or
+
+(B) If a dependent qualifies for a special enrollment period, and an enrollee is adding the dependent to his or her QHP, the Exchange must allow the enrollee to add the dependent to his or her current QHP; or, if the QHP's business rules do not allow the dependent to enroll, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or enroll the new qualified individual in a separate QHP.
+
+(5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; are an Indian as defined by section 4 of the Indian Health Care Improvement Act; or lived for 1 or more days during the 60 days preceding the qualifying event or during their most recent preceding enrollment period, as specified in §§ 155.410 and 155.420, in a service area where no qualified health plan was available through the Exchange.
 
 (b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2), (3), and (5) of this section, for a QHP selection received by the Exchange from a qualified individual -
 
@@ -22,7 +24,7 @@ Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
 
 (ii) Between the sixteenth and the last day of any month, the Exchange must ensure a coverage effective date of the first day of the second following month.
 
-(2) *Special effective dates.* (i) In the case of birth, adoption, placement for adoption, or placement in foster care as described in paragraph (d)(2)(i) of this section, the Exchange must ensure that coverage is effective for a qualified individual or enrollee on the date of birth, adoption, placement for adoption, or placement in foster care, or it may permit the qualified individual or enrollee to elect a coverage effective date of the first of the month following the date of birth, adoption, placement for adoption, or placement in foster care, or in accordance with paragraph (b)(1) of this section. If the Exchange permits the qualified individual or enrollee to elect a coverage effective date of either the first of the month following the date of birth, adoption, placement for adoption or placement in foster care or in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the qualified individual or enrollee.
+(2) *Special effective dates.* (i) In the case of birth, adoption, placement for adoption, placement in foster care, or child support or other court order as described in paragraph (d)(2)(i) of this section, the Exchange must ensure that coverage is effective for a qualified individual or enrollee on the date of birth, adoption, placement for adoption, placement in foster care, or effective date of court order; or it may permit the qualified individual or enrollee to elect a coverage effective date of the first of the month following plan selection; or in accordance with paragraph (b)(1) of this section. If the Exchange permits the qualified individual or enrollee to elect a coverage effective date of either the first of the month following the date of plan selection or in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the qualified individual or enrollee.
 
 (ii) In the case of marriage as described in paragraph (d)(2) of this section the Exchange must ensure that coverage is effective for a qualified individual or enrollee on the first day of the month following plan selection.
 
@@ -30,9 +32,7 @@ Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
 
 (iv) If a consumer loses coverage as described in paragraph (d)(1) or (d)(6)(iii) of this section, gains access to a new QHP as described in paragraph (d)(7) of this section, becomes newly eligible for enrollment in a QHP through the Exchange in accordance with § 155.305(a)(2) as described in paragraph (d)(3) of this section, or becomes newly eligible for advance payments of the premium tax credit in conjunction with a permanent move as described in paragraph (d)(6)(iv) of this section, if the plan selection is made on or before the day of the triggering event, the Exchange must ensure that the coverage effective date is on the first day of the month following the date of the triggering event. If the plan selection is made after the date of the triggering event, the Exchange must ensure that coverage is effective in accordance with paragraph (b)(1) of this section or on the first day of the following month, at the option of the Exchange.
 
-(v) In the case of a court order as described in paragraph (d)(2)(i) of this section, the Exchange must ensure that coverage is effective for a qualified individual or enrollee on the date the court order is effective, or it may permit the qualified individual or enrollee to elect a coverage effective date in accordance with paragraph (b)(1) of this section. If the Exchange permits the qualified individual or enrollee to elect a coverage effective date in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the qualified individual or enrollee.
-
-(vi) If an enrollee or his or her dependent dies as described in paragraph (d)(2)(ii) of this section, the Exchange must ensure that coverage is effective on the first day of the month following the plan selection, or it may permit the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section. If the Exchange permits the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the enrollee or his or her dependent.
+(v) If an enrollee or his or her dependent dies as described in paragraph (d)(2)(ii) of this section, the Exchange must ensure that coverage is effective on the first day of the month following the plan selection, or it may permit the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section. If the Exchange permits the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the enrollee or his or her dependent.
 
 (3) *Option for earlier effective dates.* Subject to the Exchange demonstrating to HHS that all of its participating QHP issuers agree to effectuate coverage in a timeframe shorter than discussed in paragraph (b)(1) or (b)(2)(ii) of this section, the Exchange may do one or both of the following for all applicable individuals:
 
@@ -58,7 +58,7 @@ Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
 
 (ii) Is enrolled in any non-calendar year group health plan or individual health insurance coverage, even if the qualified individual or his or her dependent has the option to renew such coverage. The date of the loss of coverage is the last day of the plan or policy year;
 
-(iii) Loses pregnancy-related coverage described under section 1902(a)(10)(A)(i)(IV) and (a)(10)(A)(ii)(IX) of the Act (42 U.S.C. 1396a(a)(10)(A)(i)(IV), (a)(10)(A)(ii)(IX)). The date of the loss of coverage is the last day the consumer would have pregnancy-related coverage; or
+(iii) Loses pregnancy-related coverage described under section 1902(a)(10)(A)(i)(IV) and (a)(10)(A)(ii)(IX) of the Act (42 U.S.C. 1396a(a)(10)(A)(i)(IV), (a)(10)(A)(ii)(IX)) or loses access to health care services through coverage provided to a pregnant woman's unborn child, based on the definition of a child in 42 CFR 457.10. The date of the loss of coverage is the last day the qualified individual would have pregnancy-related coverage or access to health care services through the unborn child coverage; or
 
 (iv) Loses medically needy coverage as described under section 1902(a)(10)(C) of the Social Security Act only once per calendar year. The date of the loss of coverage is the last day the consumer would have medically needy coverage.
 
@@ -100,7 +100,7 @@ Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
 
 (10) A qualified individual or enrollee -
 
-(i) Is a victim of domestic abuse or spousal abandonment, as defined by 26 CFR 1.36B-2T, as amended, including a dependent or unmarried victim within a household, is enrolled in minimum essential coverage and seeks to enroll in coverage separate from the perpetrator of the abuse or abandonment; or
+(i) Is a victim of domestic abuse or spousal abandonment as defined by 26 CFR 1.36B-2 or a dependent or unmarried victim within a household, is enrolled in minimum essential coverage, and sought to enroll in coverage separate from the perpetrator of the abuse or abandonment; or
 
 (ii) Is a dependent of a victim of domestic abuse or spousal abandonment, on the same application as the victim, may enroll in coverage at the same time as the victim;
 
@@ -120,4 +120,4 @@ Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
 
 (2) Situations allowing for a rescission as specified in 45 CFR 147.128.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018]

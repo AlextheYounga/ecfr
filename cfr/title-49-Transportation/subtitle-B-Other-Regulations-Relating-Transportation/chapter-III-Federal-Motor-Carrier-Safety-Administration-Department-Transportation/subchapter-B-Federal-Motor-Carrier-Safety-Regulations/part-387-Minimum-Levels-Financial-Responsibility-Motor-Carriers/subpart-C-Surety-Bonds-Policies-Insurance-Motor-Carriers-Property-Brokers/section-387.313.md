@@ -1,7 +1,5 @@
 ##### § 387.313 Forms and procedures. #####
 
-Link to an amendment published at 83 FR 22877, May 17, 2018.
-
 (a) *Forms for endorsements, certificates of insurance and others* - (1) *In form prescribed.* Endorsements for policies of insurance and surety bonds, certificates of insurance, applications to qualify as a self-insurer, or for approval of other securities or agreements, and notices of cancellation must be in the form prescribed and approved by the FMCSA.
 
 (2) *Aggregation of Insurance.\*\** When insurance is provided by more than one insurer in order to aggregate security limits for carriers operating only freight vehicles under 10,000 pounds Gross Vehicle Weight Rating, as defined in § 387.303(b)(1), a separate *Form BMC 90,* with the specific amounts of underlying and limits of coverage shown thereon or appended thereto, and *Form BMC 91X* certificate is required of each insurer.
@@ -18,7 +16,11 @@ For aggregation of insurance for all other carriers to cover security limits und
 
 (5) *Surety bonds.* When surety bonds are used rather than certificates of insurance, *Form BMC 82* is required for the security limits under § 387.303(b)(1) not subject to regulation by the Department of Transportation, and *Form MCS 82,* or any form of similar import prescribed by the Department of Transportation, is used for the security limits subject also to minimum coverage requirements of the Department of Transportation.
 
-(6) *Surety bonds and certificates in effect continuously.* Surety bonds and certificates of insurance shall specify that coverage thereunder will remain in effect continuously until terminated as herein provided, except: (1) When filed expressly to fill prior gaps or lapses in coverage or to cover grants of emergency temporary authority of unusually short duration and the filing clearly so indicates, or (2) in special or unusual circumstances, when special permission is obtained for filing certificates of insurance or surety bonds on terms meeting other particular needs of the situation.
+(6) *Surety bonds and certificates in effect continuously.* Surety bonds and certificates of insurance shall specify that coverage thereunder will remain in effect continuously until terminated as herein provided, except:
+
+(i) When filed expressly to fill prior gaps or lapses in coverage or to cover grants of emergency temporary authority of unusually short duration and the filing clearly so indicates, or
+
+(ii) In special or unusual circumstances, when special permission is obtained for filing certificates of insurance or surety bonds on terms meeting other particular needs of the situation.
 
 (b) *Filing and copies.* Certificates of insurance, surety bonds, and notices of cancellation must be filed with the FMCSA at *http://www.fmcsa.dot.gov.*
 
@@ -30,4 +32,4 @@ For aggregation of insurance for all other carriers to cover security limits und
 
 (f) *Termination of Forms BMC-32 and BMC-34 for motor carriers transporting property other than household goods.* Form BMC-32 endorsements and Form BMC-34 certificates of insurance issued to motor carriers transporting property other than household goods that have been accepted by the FMCSA under these rules will expire on March 21, 2011.
 
-[47 FR 55944, Dec. 14, 1982, as amended at 48 FR 43334, Sept. 23, 1983; 48 FR 51781, Nov. 14, 1983; 50 FR 40030, Oct. 1, 1985; 51 FR 34623, Sept. 30, 1986; 62 FR 49941, Sept. 24, 1997; 75 FR 35328, June 22, 2010; 80 FR 63709, Oct. 21, 2015]Effective Date Note:At 82 FR 5308, Jan. 17, 2017, § 387.313 was suspended, effective Jan. 14, 2017.
+[47 FR 55944, Dec. 14, 1982, as amended at 48 FR 43334, Sept. 23, 1983; 48 FR 51781, Nov. 14, 1983; 50 FR 40030, Oct. 1, 1985; 51 FR 34623, Sept. 30, 1986; 62 FR 49941, Sept. 24, 1997; 75 FR 35328, June 22, 2010; 80 FR 63709, Oct. 21, 2015; 83 FR 22877, May 17, 2018]Effective Date Note:At 82 FR 5308, Jan. 17, 2017, § 387.313 was suspended, effective Jan. 14, 2017.

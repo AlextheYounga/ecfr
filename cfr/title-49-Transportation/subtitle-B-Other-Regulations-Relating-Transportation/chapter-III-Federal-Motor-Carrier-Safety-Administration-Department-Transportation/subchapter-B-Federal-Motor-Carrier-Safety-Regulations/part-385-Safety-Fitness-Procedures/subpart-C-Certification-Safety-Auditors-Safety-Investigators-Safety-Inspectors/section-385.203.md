@@ -1,11 +1,9 @@
 ##### § 385.203 What are the requirements to obtain and maintain certification? #####
 
-Link to an amendment published at 83 FR 22876, May 17, 2018.
-
 (a) After June 17, 2002, a person who is not qualified under § 385.201(a) may not perform a compliance review, safety audit, roadability review, or roadside inspection unless he or she has been certified by FMCSA or a State or local agency applying the FMCSA standards after successfully completing classroom training and examinations on the FMCSRs and HMRs as described in detail on the FMCSA website (*www.fmcsa.dot.gov*). These employees must also comply with the maintenance of certification/qualification requirements of paragraph (b) of this section.
 
 (b) *Maintenance of certification/qualification.* A person may not perform a compliance review, safety audit, roadability review, or roadside inspection unless he or she meets the quality-control and periodic re-training requirements adopted by the FMCSA to ensure the maintenance of high standards and familiarity with amendments to the FMCSRs and HMRs. These maintenance of certification/qualification requirements are described in detail on the FMCSA website (*www.fmcsa.dot.gov*).
 
-(c) The requirements of paragraphs (a) and (b) of this section for training, performance and maintenance of certification/qualification, which are described on the FMCSA website (*www.fmcsa.dot.gov*), are also available in hard copy from the Federal Motor Carrier Safety Administration, Professional Development and Training Division (MC-MHT), 4600 N. Fairfax Drive, Suite 700, Arlington, Virginia 22203.
+(c) The requirements of paragraphs (a) and (b) of this section for training, performance and maintenance of certification/qualification, which are described on the FMCSA website (*www.fmcsa.dot.gov*), are also available in hard copy from the Federal Motor Carrier Safety Administration, Professional Development and Training Division (MC-MHT), 1310 N. Courthouse Road, Suite 600, Arlington, VA 22201.
 
-[67 FR 12779, Mar. 19, 2002, as amended at 72 FR 55701, Oct. 1, 2007; 73 FR 76819, Dec. 17, 2008]
+[67 FR 12779, Mar. 19, 2002, as amended at 72 FR 55701, Oct. 1, 2007; 73 FR 76819, Dec. 17, 2008; 83 FR 22876, May 17, 2018]

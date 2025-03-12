@@ -1,16 +1,14 @@
 ##### § 360.3T Filing fees. #####
 
-Link to an amendment published at 83 FR 22873, May 17, 2018.
-
 (a) *Manner of payment.* (1) Except for the insurance fees described in the next sentence, all filing fees will be payable at the time and place the application, petition, or other document is tendered for filing. The service fee for insurance, surety or self-insurer accepted certificate of insurance, surety bond or other instrument submitted in lieu of a broker surety bond must be charged to an insurance service account established by the Federal Motor Carrier Safety Administration in accordance with paragraph (a)(2) of this section.
 
-(2) *Billing account procedure.* A written request must be submitted to the Office of Enforcement and Compliance, Insurance Compliance Division (MC-ECI) to establish an insurance service fee account.
+(2) *Billing account procedure.* A written request must be submitted to the Office of Registration and Safety Information (MC-RS) to establish an insurance service fee account.
 
 (i) Each account will have a specific billing date within each month and a billing cycle. The billing date is the date that the bill is prepared and printed. The billing cycle is the period between the billing date in one month and the billing date in the next month. A bill for each account which has activity or an unpaid balance during the billing cycle will be sent on the billing date each month. Payment will be due 20 days from the billing date. Payments received before the next billing date are applied to the account. Interest will accrue in accordance with 4 CFR 102.13.
 
 (ii) The Debt Collection Act of 1982, including disclosure to the consumer reporting agencies and the use of collection agencies, as set forth in 4 CFR 102.5 and 102.6 will be utilized to encourage payment where appropriate.
 
-(iii) An account holder who files a petition in bankruptcy or who is the subject of a bankruptcy proceeding must provide the following information to the Office of Enforcement and Compliance, Insurance Division (MC-ECI):
+(iii) An account holder who files a petition in bankruptcy or who is the subject of a bankruptcy proceeding must provide the following information to the Office of Registration and Safety Information (MC-RS):
 
 (A) The filing date of the bankruptcy petition;
 
@@ -40,11 +38,11 @@ Link to an amendment published at 83 FR 22873, May 17, 2018.
 
 (2) In extraordinary situations the Federal Motor Carrier Safety Administration will accept requests for waivers or fee reductions in accordance with the following procedure:
 
-(i) *When to request.* At the time that a filing is submitted to the Federal Motor Carrier Safety Administration the applicant may request a waiver or reduction of the fee prescribed in this part. Such request should be addressed to the Director, Office of Data Analysis and Information Systems.
+(i) *When to request.* At the time that a filing is submitted to the Federal Motor Carrier Safety Administration the applicant may request a waiver or reduction of the fee prescribed in this part. Such request should be addressed to the Director, Office of Registration and Safety Information (MC-RS).
 
 (ii) *Basis.* The applicant must show the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship upon the requestor.
 
-(iii) *Federal Motor Carrier Safety Administration action.* The Director, Office of Data Analysis and Information Systems, will notify the applicant of the decision to grant or deny the request for waiver or reduction.
+(iii) *Federal Motor Carrier Safety Administration action.* The Director, Office of Registration and Safety Information (MC-RS), will notify the applicant of the decision to grant or deny the request for waiver or reduction.
 
 (f) *Schedule of filing fees.*
 
@@ -80,4 +78,4 @@ Link to an amendment published at 83 FR 22873, May 17, 2018.
 
 (2) If a person repeatedly submits dishonored checks to the FMCSA for filing fees, the FMCSA may notify the person that all future filing fees must be submitted in the form of a certified or cashier's check, money order, or credit card.
 
-[82 FR 5297, Jan. 17, 2017]
+[82 FR 5297, Jan. 17, 2017, as amended at 83 FR 22873, May 17, 2018]

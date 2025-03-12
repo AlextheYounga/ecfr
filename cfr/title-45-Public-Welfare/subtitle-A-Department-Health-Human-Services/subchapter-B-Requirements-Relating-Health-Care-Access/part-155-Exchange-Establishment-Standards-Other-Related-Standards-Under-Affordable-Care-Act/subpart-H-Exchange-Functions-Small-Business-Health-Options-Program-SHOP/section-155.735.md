@@ -1,6 +1,4 @@
-##### § 155.735 Termination of SHOP enrollment or coverage. #####
-
-Link to an amendment published at 83 FR 17067, Apr. 17, 2018.
+##### § 155.735 Termination of SHOP enrollment or coverage for plan years beginning prior to January 1, 2018. #####
 
 (a) *General requirements.* The SHOP must determine the timing, form, and manner in which coverage or enrollment in a QHP through the SHOP may be terminated.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 17067, Apr. 17, 2018.
 
 (c) *Termination of employer group health coverage for non-payment of premiums.* (1) The SHOP must establish policies for termination for non-payment of premiums, including but not limited to policies regarding due dates for payment of premiums to the SHOP, grace periods, employer and employee notices, and reinstatement provisions.
 
-(2) In an FF-SHOP, for premium payments other than payments for the first month of coverage -
+(2) In an FF-SHOP, for premium payments other than payments for the first month of coverage—
 
 (i) For a given month of coverage, premium payment is due by the first day of the coverage month.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 83 FR 17067, Apr. 17, 2018.
 
 (e) *Termination of enrollment or coverage tracking and approval.* The SHOP must comply with the standards described in § 155.430(c).
 
-(f) *Applicability date.* The provisions of this section apply to coverage -
+(f) *Applicability date.* The provisions of this section apply to coverage—
 
 (1) Beginning on or after January 1, 2015; and
 
@@ -60,4 +58,6 @@ Link to an amendment published at 83 FR 17067, Apr. 17, 2018.
 
 (4) When a primary subscriber and his or her dependents live at the same address, a separate termination notice need not be sent to each dependent at that address, provided that the notice sent to each primary subscriber at that address contains all required information about the termination for the primary subscriber and his or her dependents at that address.
 
-[78 FR 54141, Aug. 30, 2013, as amended at 80 FR 10870, Feb. 27, 2015; 81 FR 12348, Mar. 8, 2016]
+(h) *Applicability date.* The provisions of this section apply for plan years beginning before January 1, 2018.
+
+[78 FR 54141, Aug. 30, 2013, as amended at 80 FR 10870, Feb. 27, 2015; 81 FR 12348, Mar. 8, 2016; 83 FR 17067, Apr. 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 383.5 Definitions. #####
 
-Link to an amendment published at 83 FR 22875, May 17, 2018.
-
 As used in this part:
 
 *Administrator* means the Federal Motor Carrier Safety Administrator, the chief executive of the Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.
@@ -58,7 +56,7 @@ As used in this part:
 
 *Controlled substance* has the meaning such term has under 21 U.S.C. 802(6) and includes all substances listed on schedules I through V of 21 CFR 1308 (§§ 1308.11 through 1308.15), as they may be amended by the United States Department of Justice.
 
-*Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or prorated.
+*Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or probated.
 
 *Disqualification* means any of the following three actions:
 
@@ -164,4 +162,4 @@ As used in this part:
 
 *Vehicle group* means a class or type of vehicle with certain operating characteristics.
 
-[52 FR 20587, June 1, 1987]Editorial Note:For Federal Register citations affecting § 383.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 20587, June 1, 1987]Editorial Note:For Federal Register citations affecting § 383.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

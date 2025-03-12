@@ -1,6 +1,4 @@
-##### § 155.705 Functions of a SHOP. #####
-
-Link to an amendment published at 83 FR 17064, Apr. 17, 2018.
+##### § 155.705 Functions of a SHOP for plan years beginning prior to January 1, 2018. #####
 
 (a) *Exchange functions that apply to SHOP.* The SHOP must carry out all the required functions of an Exchange described in this subpart and in subparts C, E, K, and M of this part, except:
 
@@ -96,7 +94,7 @@ Link to an amendment published at 83 FR 17064, Apr. 17, 2018.
 
 (5) *QHP Certification.* With respect to certification of QHPs in the small group market, the SHOP must ensure each QHP meets the requirements specified in § 156.285 of this subchapter.
 
-(6) *Rates and rate changes.* The SHOP must -
+(6) *Rates and rate changes.* The SHOP must—
 
 (i) Require all QHP issuers to make any change to rates at a uniform time that is no more frequently than quarterly.
 
@@ -138,4 +136,6 @@ Link to an amendment published at 83 FR 17064, Apr. 17, 2018.
 
 (d) *Duties of Navigators in the SHOP.* In States that have elected to operate only a SHOP pursuant to § 155.100(a)(2), at State option and if State law permits the Navigator duties described in § 155.210(e)(3) and (4) may be fulfilled through referrals to agents and brokers.
 
-[77 FR 18464, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 33239, June 4, 2013; 78 FR 54141, Aug. 30, 2013; 78 FR 79620, Dec. 31, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30349, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10868, Feb. 27, 2015; 81 FR 12346, Mar. 8, 2016]
+(e) *Applicability date.* The provisions of this section apply for plan years beginning prior to January 1, 2018. Section 155.706 is applicable for plan years beginning on or after January 1, 2018.
+
+[77 FR 18464, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 33239, June 4, 2013; 78 FR 54141, Aug. 30, 2013; 78 FR 79620, Dec. 31, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30349, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10868, Feb. 27, 2015; 81 FR 12346, Mar. 8, 2016; 83 FR 17064, Apr. 17, 2018]

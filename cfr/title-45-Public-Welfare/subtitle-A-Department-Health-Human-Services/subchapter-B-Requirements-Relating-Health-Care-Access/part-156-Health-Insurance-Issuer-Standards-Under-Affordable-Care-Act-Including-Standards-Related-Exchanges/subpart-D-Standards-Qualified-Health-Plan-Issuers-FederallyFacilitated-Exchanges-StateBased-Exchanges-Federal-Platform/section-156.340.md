@@ -1,12 +1,10 @@
 ##### § 156.340 Standards for downstream and delegated entities. #####
 
-Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
-
 (a) *General requirement.* Effective October 1, 2013, notwithstanding any relationship(s) that a QHP issuer may have with delegated and downstream entities, a QHP issuer maintains responsibility for its compliance and the compliance of any of its delegated or downstream entities, as applicable, with all applicable standards, including -
 
 (1) Standards of subpart C of part 156 with respect to each of its QHPs on an ongoing basis;
 
-(2) Exchange processes, procedures, and standards in accordance with subparts H and K of part 155 and, in the small group market, § 155.705 of this subchapter;
+(2) Exchange processes, procedures, and standards in accordance with subparts H and K of part 155 and, in the small group market, §§ 155.705 and 155.706 of this subchapter;
 
 (3) Standards of § 155.220 of this subchapter with respect to assisting with enrollment in QHPs; and
 
@@ -23,3 +21,5 @@ Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
 (4) Specify that the delegated or downstream entity must permit access by the Secretary and the OIG or their designees in connection with their right to evaluate through audit, inspection, or other means, to the delegated or downstream entity's books, contracts, computers, or other electronic systems, including medical records and documentation, relating to the QHP issuer's obligations in accordance with Federal standards under paragraph (a) of this section until 10 years from the final date of the agreement period; and
 
 (5) Contain specifications described in paragraph (b) of this section by no later than January 1, 2015, for existing agreements; and no later than the effective date of the agreement for agreements that are newly entered into as of October 1, 2013.
+
+[78 FR 54143, Aug. 30, 2013, as amended at 83 FR 17069, Apr. 17, 2018]

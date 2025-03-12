@@ -1,5 +1,7 @@
 ##### § 173.158 Nitric acid. #####
 
+Link to an amendment published at 83 FR 28168, June 18, 2018.
+
 (a) Nitric acid exceeding 40 percent concentration may not be packaged with any other material.
 
 (b) Nitric acid in any concentration which does not contain sulfuric acid or hydrochloric acid as impurities, when offered for transportation or transported by rail, highway, or water shall be packaged in specification containers as follows:

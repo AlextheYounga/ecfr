@@ -1,25 +1,25 @@
-##### § 155.221 Standards for HHS-approved vendors to perform audits of agents and brokers participating in direct enrollment. #####
+##### § 155.221 Standards for third-parties to perform audits of agents, brokers, and issuers participating in direct enrollment. #####
 
-Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
+(a) An agent, broker, or issuer participating in direct enrollment must engage a third-party entity to conduct an annual review to demonstrate operational readiness in accordance with §§ 155.220(c)(3)(i)(K) and with 156.1230(b)(2) of this subchapter. The third-party entity will be a downstream or delegated entity of the agent, broker or issuer that participates or wishes to participate in direct enrollment.
 
-(a) *Application for approval.* (1) A vendor must be approved by HHS, in a form and manner to be determined by HHS, to have its auditing services recognized for Web-brokers assisting with or facilitating enrollment in individual market or SHOP coverage through the Exchanges consistent with § 155.220.
+(b) An agent, broker, or issuer participating in direct enrollment must satisfy the requirement to demonstrate operational readiness under paragraph (a) of this section by engaging a third-party entity that meets each of the following standards:
 
-(2) HHS will approve vendors on an annual basis for a given plan year, and each vendor must submit an application for each year that approval is sought.
+(1) Has experience conducting audits or similar services, including experience with relevant privacy and security standards;
 
-(b) *Standards.* To be approved by HHS and maintain its status as an approved vendor, a vendor applicant must meet each of the following standards:
+(2) Adheres to HHS specifications for content, format, privacy, and security in the conduct of an operational readiness review, which includes ensuring that agents, brokers, and issuers are in compliance with the applicable privacy and security standards and other applicable requirements;
 
-(1) Submit a complete and accurate application by the deadline established by HHS that demonstrates prior experience successfully conducting auditing or similar services to a large customer base.
+(3) Collects, stores, and shares with HHS all data related to the third-party entity's audit of agents, brokers, and issuers in a manner, format, and frequency specified by HHS until 10 years from the date of creation, and complies with the privacy and security standards HHS adopts for agents, brokers, and issuers as required in accordance with § 155.260;
 
-(2) Adhere to HHS specifications for content, format, privacy and security in the delivery of auditing services, which includes ensuring that Web-brokers are in compliance with the applicable privacy and security standards.
+(4) Discloses to HHS any financial relationships between the entity and individuals who own or are employed by an agent, broker, or issuer for which it is conducting an operational readiness review.
 
-(3) Collect, store, and share with HHS data from Web-broker users of the vendor's auditing services in a manner, format, and frequency specified by HHS, and protect all data from Web-broker users of the vendor's auditing services in accordance with § 155.260.
+(5) Complies with all applicable Federal and State requirements;
 
-(4) Permit any Web-broker registered with the FFEs to access the vendor's auditing services.
+(6) Ensures, on an annual basis, that appropriate staff successfully complete operational readiness review training as established by HHS prior to conducting audits under paragraph (a) of this section;
 
-(c) *Monitoring.* HHS may periodically monitor and audit vendors approved under this subpart, and their records related to the audit services described in this section, to ensure ongoing compliance with the standards in paragraph (b) of this section. If HHS determines that an HHS-approved vendor is not in compliance with paragraph (b) of this section, the vendor may be removed from the approved list described in paragraph (d) of this section and may be required by HHS to cease performing the functions described under this section.
+(7) Permits access by the Secretary and the Office of the Inspector General or their designees in connection with their right to evaluate through audit, inspection, or other means, to the third-party entity's books, contracts, computers, or other electronic systems, relating to the third-party entity's audits of agent's, broker's, or issuer's obligations in accordance with Federal standards under paragraph (a) of this section until 10 years from the date of creation; and
 
-(d) *Approved list.* A list of approved vendors will be published on an HHS Web site.
+(8) Complies with other minimum business criteria as specified in guidance by HHS.
 
-(e) *Appeals.* A vendor that is not approved by HHS after submitting the application described in paragraph (a) of this section, or a vendor whose approval is revoked under paragraph (c) of this section, may appeal HHS's decision by notifying HHS in writing within 15 days from receipt of the notification of not being approved or having its approval revoked and submitting additional documentation demonstrating how the vendor meets the standards in paragraph (b) of this section and (if applicable) the terms of its agreement with HHS. HHS will review the submitted documentation within 30 days from receipt of the additional documentation.
+(c) An agent, broker or issuer may engage multiple third-party entities to conduct the audit under paragraph (a) of this section and each third-party entity must satisfy the standards outlined under paragraph (b) of this section.
 
-[81 FR 94176, Dec. 22, 2016]
+[83 FR 17061, Apr. 17, 2018]

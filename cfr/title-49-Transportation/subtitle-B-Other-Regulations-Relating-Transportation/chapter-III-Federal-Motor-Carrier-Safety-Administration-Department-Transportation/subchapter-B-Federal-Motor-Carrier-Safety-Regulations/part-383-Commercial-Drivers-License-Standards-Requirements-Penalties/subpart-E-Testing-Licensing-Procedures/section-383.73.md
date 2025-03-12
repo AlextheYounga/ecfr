@@ -1,7 +1,5 @@
 ##### § 383.73 State procedures. #####
 
-Link to an amendment published at 83 FR 22876, May 17, 2018.
-
 (a) *Commercial Learner's Permit.* (1) Prior to July 8, 2015. When issuing a CLP to a person prior to July 8, 2015, a State must meet the requirements in § 383.71(a)(1):
 
 (2) *On or after July 8, 2015.* Prior to issuing a CLP to a person on or after July 8, 2015, a State must:
@@ -56,7 +54,7 @@ Link to an amendment published at 83 FR 22876, May 17, 2018.
 
 (7) If not previously done, complete the Social Security Number verification required by paragraph (g) of this section;
 
-(8) For persons applying for a hazardous materials endorsement, require compliance with the standards for such endorsement specified in §§ 383.71(b)(1)(i)§ 383.71(b)(8) and 383.141;
+(8) For persons applying for a hazardous materials endorsement, require compliance with the standards for such endorsement specified in §§ 383.71(b)(8) and 383.141;
 
 (9) Make the CDL valid for no more than 8 years from the date of issuance; and
 
@@ -266,4 +264,4 @@ Link to an amendment published at 83 FR 22876, May 17, 2018.
 
 (p) After February 7, 2020, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017]
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 155.215 Standards applicable to Navigators and Non-Navigator Assistance Personnel carrying out consumer assistance functions under §§ 155.205(d) and (e) and 155.210 in a Federally-facilitated Exchange and to Non-Navigator Assistance Personnel funded through an Exchange Establishment Grant. #####
 
-Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
-
 (a) *Conflict-of-interest standards.* The following conflict-of-interest standards apply in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and to non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act:
 
 (1) *Conflict-of-interest standards for Navigators.* (i) All Navigator entities, including Navigator grant applicants, must submit to the Exchange a written attestation that the Navigator, including the Navigator's staff:
@@ -146,8 +144,8 @@ Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
 
 (3) May revoke at any time the authorization provided the non-Navigator assistance personnel pursuant to paragraph (g)(2) of this section.
 
-(h) *Physical presence.* All non-Navigator entities carrying out consumer assistance functions under § 155.205(d) and (e) in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and all non-Navigator entities funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act must maintain a physical presence in the Exchange service area, so that face-to-face assistance can be provided to applicants and enrollees. In a Federally-facilitated Exchange, no individual or entity shall be ineligible to operate as a non-Navigator entity or as non-Navigator assistance personnel solely because its principal place of business is outside of the Exchange service area.
+(h) *Physical presence.* In a Federally-facilitated Exchange, no individual or entity shall be ineligible to operate as a non-Navigator entity or as non-Navigator assistance personnel solely because its principal place of business is outside of the Exchange service area.
 
 (i) *Prohibition on compensation per enrollment.* Beginning November 15, 2014, Navigators and Non-Navigator assistance personnel carrying out consumer assistance functions under §§ 155.205(d) and (e) and 155.210, if operating in an Exchange operated by HHS during the exercise of its authority under § 155.105(f), are prohibited from providing compensation to individual Navigators or non-Navigator assistance personnel on a per-application, per-individual-assisted, or per-enrollment basis.
 
-[78 FR 42859, July 17, 2013, as amended at 79 FR 30344, May 27, 2014; 80 FR 10865, Feb. 27, 2015; 81 FR 12338, Mar. 8, 2016]
+[78 FR 42859, July 17, 2013, as amended at 79 FR 30344, May 27, 2014; 80 FR 10865, Feb. 27, 2015; 81 FR 12338, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018]

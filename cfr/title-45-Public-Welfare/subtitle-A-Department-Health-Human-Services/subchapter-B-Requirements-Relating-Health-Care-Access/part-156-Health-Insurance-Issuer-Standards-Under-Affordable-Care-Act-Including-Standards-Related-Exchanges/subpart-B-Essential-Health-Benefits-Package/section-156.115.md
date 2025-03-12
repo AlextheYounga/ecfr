@@ -1,7 +1,5 @@
 ##### § 156.115 Provision of EHB. #####
 
-Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
-
 (a) Provision of EHB means that a health plan provides benefits that -
 
 (1) Are substantially equal to the EHB-benchmark plan including:
@@ -28,17 +26,29 @@ Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
 
 (6) For plan years beginning on or after January 1, 2016, for pediatric services that are required under § 156.110(a)(10), provide coverage for enrollees until at least the end of the month in which the enrollee turns 19 years of age.
 
-(b) Unless prohibited by applicable State requirements, an issuer of a plan offering EHB may substitute benefits if the issuer meets the following conditions -
+(b) An issuer of a plan offering EHB may substitute benefits for those provided in the EHB-benchmark plan under the following conditions -
 
-(1) Substitutes a benefit that:
+(1) The issuer substitutes a benefit that:
 
-(i) Is actuarially equivalent to the benefit that is being replaced as determined in paragraph (b)(2) of this section;
+(i) Is actuarially equivalent to the benefit that is being replaced as determined in paragraph (b)(4) of this section; and
 
-(ii) Is made only within the same essential health benefit category; and
+(ii) Is not a prescription drug benefit.
 
-(iii) Is not a prescription drug benefit.
+(2) An issuer may substitute a benefit under this paragraph:
 
-(2) Submits evidence of actuarial equivalence that is:
+(i) Within the same EHB category, unless prohibited by applicable State requirements; and
+
+(ii) For plan years beginning on or after January 1, 2020, between EHB categories, if the State in which the plan will be offered has notified HHS that substitution between EHB categories is permitted in the State.
+
+(3) The plan that includes substituted benefits must:
+
+(i) Continue to comply with the requirements of paragraph (a) of this section, including by providing benefits that are substantially equal to the EHB-benchmark plan;
+
+(ii) Provide an appropriate balance among the EHB categories such that benefits are not unduly weighted toward any category; and
+
+(iii) Provide benefits for diverse segments of the population.
+
+(4) The issuer submits to the State evidence of actuarial equivalence that is:
 
 (i) Certified by a member of the American Academy of Actuaries;
 
@@ -46,10 +56,10 @@ Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
 
 (iii) Based on a standardized plan population; and
 
-(iv) Determined regardless of cost-sharing.
+(iv) Determined without taking cost-sharing into account.
 
 (c) A health plan does not fail to provide EHB solely because it does not offer the services described in § 156.280(d) of this subchapter.
 
 (d) An issuer of a plan offering EHB may not include routine non-pediatric dental services, routine non-pediatric eye exam services, long-term/custodial nursing home care benefits, or non-medically necessary orthodontia as EHB.
 
-[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016]
+[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 83 FR 17069, Apr. 17, 2018]

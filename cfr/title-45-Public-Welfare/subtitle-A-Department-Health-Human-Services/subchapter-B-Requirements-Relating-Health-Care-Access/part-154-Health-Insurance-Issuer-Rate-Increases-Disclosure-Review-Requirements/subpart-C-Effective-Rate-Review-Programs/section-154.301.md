@@ -1,7 +1,5 @@
 ##### § 154.301 CMS's determinations of Effective Rate Review Programs. #####
 
-Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
-
 (a) *Effective Rate Review Program.* In evaluating whether a State has an Effective Rate Review Program, CMS will apply the following criteria for the review of rates for the small group market and the individual market, and also, as applicable depending on State law, the review of rates for different types of products within those markets:
 
 (1) The State receives from issuers data and documentation in connection with rate increases that are sufficient to conduct the examination described in paragraph (a)(3) of this section.
@@ -58,7 +56,7 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (ii) Beginning with rates filed for coverage effective on or after January 1, 2016, for all final rate increases (including those not subject to review), access from its Web site to at least the information contained in Parts I, II, and III of the Rate Filing Justification (as applicable) that CMS makes available on its Web site (or provide CMS's Web address for such information), no later than the first day of the annual open enrollment period in the individual market for the applicable calendar year.
 
-(2) If a State intends to make the information in paragraph (b)(1)(i) of this section available to the public prior to the date specified by the Secretary, or if it intends to make the information in paragraph (b)(1)(ii) of this section available to the public prior to the first day of the annual open enrollment period in the individual market for the applicable calendar year, the State must notify CMS in writing, no later than 30 days prior to the date it intends to make the information public, of its intent to do so and the date it intends to make the information public.
+(2) If a State intends to make the information in paragraph (b)(1)(i) of this section available to the public prior to the date specified by the Secretary, or if it intends to make the information in paragraph (b)(1)(ii) of this section available to the public prior to the first day of the annual open enrollment period in the individual market for the applicable calendar year, the State must notify CMS in writing, no later than five (5) business days prior to the date it intends to make the information public, of its intent to do so and the date it intends to make the information public.
 
 (3) A State with an Effective Rate Review Program must ensure the information in paragraphs (b)(1)(i) and (ii) of this section is made available to the public at a uniform time for all proposed and final rate increases, as applicable, in the relevant market segment and without regard to whether coverage is offered through or outside an Exchange.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (d) CMS reserves the right to evaluate from time to time whether, and to what extent, a State's circumstances have changed such that it has begun to or has ceased to satisfy the criteria set forth in paragraphs (a) and (b) of this section.
 
-[76 FR 29985, May 23, 2011, as amended at 78 FR 13441, Feb. 27, 2013; 80 FR 10864, Feb. 27, 2015]
+[76 FR 29985, May 23, 2011, as amended at 78 FR 13441, Feb. 27, 2013; 80 FR 10864, Feb. 27, 2015; 83 FR 17060, Apr. 17, 2018]

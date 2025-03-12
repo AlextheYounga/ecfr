@@ -1,7 +1,5 @@
 ##### § 155.430 Termination of Exchange enrollment or coverage. #####
 
-Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
-
 (a) *General requirements.* The Exchange must determine the form and manner in which enrollment in a QHP through the Exchange may be terminated.
 
 (b) *Termination events* - (1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.
@@ -58,13 +56,15 @@ Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
 
 (i) The termination date specified by the enrollee, if the enrollee provides reasonable notice;
 
-(ii) Fourteen days after the termination is requested by the enrollee, if the enrollee does not provide reasonable notice; or
+(ii) If the enrollee does not provide reasonable notice, fourteen days after the termination is requested by the enrollee; or
 
-(iii) On a date on or after the date on which the termination is requested by the enrollee, subject to the determination of the enrollee's QHP issuer, if the enrollee's QHP issuer agrees to effectuate termination in fewer than fourteen days, and the enrollee requests an earlier termination effective date.
+(iii) At the option of the Exchange, on the date on which the termination is requested by the enrollee, or on another prospective date selected by the enrollee; or
 
-(iv) If the enrollee is newly eligible for Medicaid, CHIP, or the BHP, if a BHP is operating in the service area of the Exchange, the last day of enrollment in a QHP through the Exchange is the day before the individual is determined eligible for Medicaid, CHIP, or the BHP.
+(iv) If an Exchange does not require an earlier termination date in accordance with paragraph (d)(2)(iii) of this section, at the option of the QHP issuer, on a date on or after the termination is requested by the enrollee that is less than 14 days after the termination is requested by the enrollee, if the enrollee requests an earlier termination date; or
 
-(v) The retroactive termination date requested by the enrollee, if specified by applicable State laws.
+(v) At the option of the Exchange, for an individual who is newly determined eligible for Medicaid, CHIP, or the Basic Health Program, if a Basic Health Program is operating in the service area of the Exchange, the day before the enrollee's date of eligibility for Medicaid, CHIP, or the Basic Health Program.
+
+(vi) The retroactive termination date requested by the enrollee, if specified by applicable State laws.
 
 (3) In the case of a termination in accordance with paragraph (b)(2)(i) of this section, the last day of enrollment in a QHP through the Exchange is the last day of eligibility, as described in § 155.330(f), unless the individual requests an earlier termination effective date per paragraph (b)(1) of this section.
 
@@ -94,4 +94,4 @@ Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
 
 (3) *Reinstatement.* A reinstatement is a correction of an erroneous termination or cancellation action and results in restoration of an enrollment with no break in coverage.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018]

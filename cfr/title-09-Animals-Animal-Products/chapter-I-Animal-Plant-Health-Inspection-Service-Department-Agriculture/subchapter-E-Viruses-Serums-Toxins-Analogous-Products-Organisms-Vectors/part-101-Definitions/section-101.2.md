@@ -1,12 +1,22 @@
 ##### § 101.2 Administrative terminology. #####
 
-Link to an amendment published at 83 FR 22835, May 17, 2018.
-
 The following administrative words and phrases shall mean:
 
 *Adjacent herd.* Adjacent herds are herds physically contiguous to the herd of origin; there are no herds between an adjacent herd and the herd of origin.
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
+
+*Adverse event.* Any observation in animals, whether or not the cause of the event is known, that is unfavorable and unintended, and that occurs after any use (as indicated on the label or any off-label use) of a biological product, including events related to a suspected lack of expected efficacy. For products intended to diagnose disease, adverse events refer to a failure in product performance that hinders an expected discovery of the correct diagnosis.
+
+*Adverse event report.* Direct communication concerning the occurrence of an adverse event from an identifiable first-hand reporter which includes the following information:
+
+(1) An identifiable reporter;
+
+(2) An identifiable animal;
+
+(3) An identifiable biologic product; and
+
+(4) One or more adverse events.
 
 *Animal and Plant Health Inspection Service.* The agency in the Department of Agriculture responsible for administering the Virus-Serum-Toxin Act.
 
@@ -78,4 +88,4 @@ The following administrative words and phrases shall mean:
 
 *U.S. Veterinary Biologics Establishment License.* A document referred to as an establishment license, which is issued pursuant to part 102 of this subchapter, authorizing the use of designated premises for production of biological products specified in one or more unexpired, unsuspended, and unrevoked product license(s).
 
-[38 FR 8426, Apr. 2, 1973; 38 FR 9221, Apr. 12, 1973, as amended at 40 FR 46093, Oct. 6, 1975; 41 FR 44358, Oct. 8, 1976; 49 FR 22624, May 31, 1984; 52 FR 30131, Aug. 13, 1987; 56 FR 66782, 66783, Dec. 26, 1991; 57 FR 38756, Aug. 27, 1992; 62 FR 31328, June 9, 1997; 64 FR 43044, Aug. 9, 1999]
+[38 FR 8426, Apr. 2, 1973; 38 FR 9221, Apr. 12, 1973, as amended at 40 FR 46093, Oct. 6, 1975; 41 FR 44358, Oct. 8, 1976; 49 FR 22624, May 31, 1984; 52 FR 30131, Aug. 13, 1987; 56 FR 66782, 66783, Dec. 26, 1991; 57 FR 38756, Aug. 27, 1992; 62 FR 31328, June 9, 1997; 64 FR 43044, Aug. 9, 1999; 83 FR 22835, May 17, 2018]

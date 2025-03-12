@@ -1,12 +1,10 @@
 ##### § 365.403T Definitions. #####
 
-Link to an amendment published at 83 FR 22873, May 17, 2018.
-
 For the purposes of this part, the following definitions apply:
 
-(a) *Transfer.* Transfers include all transactions (*i.e.,* the sale or lease of interstate operating rights,1 or the merger of two or more carriers or a carrier into a noncarrier) subject to 49 U.S.C. 10926, as well as the sale of property brokers' licenses under 49 U.S.C. 10321.
+(a) *Transfer.* (1) Transfers include all transactions (*i.e.,* the sale or lease of interstate operating rights, or the merger of two or more carriers or a carrier into a noncarrier) subject to 49 U.S.C. 10926, as well as the sale of property brokers' licenses under 49 U.S.C. 10321.
 
-1 The execution of a chattel mortgage, deed of trust, or other similar document does not constitute a transfer or require the FMCSA's approval. However, a foreclosure for the purpose of transferring an operating right to satisfy a judgment or claim against the record holder may not be effected without approval of the FMCSA.
+(2) The execution of a chattel mortgage, deed of trust, or other similar document does not constitute a transfer or require FMCSA's approval. However, a foreclosure for the purpose of transferring an operating right to satisfy a judgment or claim against the record holder may not be effected without approval of FMCSA.
 
 (b) *Operating rights.* Operating rights include:
 
@@ -29,3 +27,5 @@ For the purposes of this part, the following definitions apply:
 (g) *Category 1 transfers.* Transactions in which the person to whom the operating rights would be transferred is not an FMCSA carrier and is not affiliated with any FMCSA carrier.
 
 (h) *Category 2 transfers.* Transactions in which the person to whom the operating rights would be transferred is an FMCSA carrier and/or is affiliated with an FMCSA carrier.
+
+[82 FR 5300, Jan. 17, 2017, as amended at 83 FR 22873, May 17, 2018]

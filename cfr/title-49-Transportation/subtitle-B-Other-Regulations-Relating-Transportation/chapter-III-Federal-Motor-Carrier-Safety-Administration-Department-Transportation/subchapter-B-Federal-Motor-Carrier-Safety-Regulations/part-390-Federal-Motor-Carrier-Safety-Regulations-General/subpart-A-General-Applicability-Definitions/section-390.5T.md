@@ -1,6 +1,6 @@
 ##### § 390.5T Definitions. #####
 
-Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
+Link to an amendment published at 83 FR 26860, June 11, 2018.
 
 Unless specifically defined elsewhere, in this subchapter:
 
@@ -45,7 +45,7 @@ either -
 
 (4) Is used in transporting material found by the Secretary of Transportation to be hazardous under 49 U.S.C. 5103 and transported in a quantity requiring placarding under regulations prescribed by the Secretary under 49 CFR, subtitle B, chapter I, subchapter C.
 
-*Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or prorated.
+*Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or probated.
 
 *Covered farm vehicle* means -
 
@@ -53,7 +53,7 @@ either -
 
 (i) Registered in a State with a license plate or other designation issued by the State of registration that allows law enforcement officials to identify it as a farm vehicle;
 
-(ii) Operated by the owner or operator of a farm or ranch, or an employee or family member of a an owner or operator of a farm or ranch;
+(ii) Operated by the owner or operator of a farm or ranch, or an employee or family member of an owner or operator of a farm or ranch;
 
 (iii) Used to transport agricultural commodities, livestock, machinery or supplies to or from a farm or ranch; and
 
@@ -303,4 +303,4 @@ either -
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 24228, May 25, 2018]
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018]

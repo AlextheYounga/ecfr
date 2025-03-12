@@ -1,7 +1,5 @@
 ##### § 390.3 General applicability. #####
 
-Link to an amendment published at 83 FR 22877, May 17, 2018.
-
 (a) The rules in subchapter B of this chapter are applicable to all employers, employees, and commercial motor vehicles that transport property or passengers in interstate commerce.
 
 (b) The rules in part 383 of this chapter, Commercial Driver's License Standards; Requirements and Penalties, are applicable to every person who operates a commercial motor vehicle, as defined in § 383.5 of this subchapter, in interstate or intrastate commerce and to all employers of such persons.
@@ -62,7 +60,7 @@ Link to an amendment published at 83 FR 22877, May 17, 2018.
 
 (3) Part 387, Minimum Levels of Financial Responsibility for Motor Carriers, to the extent provided in subpart C of that part.
 
-(4) Subpart E of this part, Unified Registration System.
+(4) Section 390.6, prohibiting the coercion of drivers of commercial motor vehicles operating in interstate commerce to violate certain safety regulations, and subpart E of this part, Unified Registration System.
 
 (j) *Freight forwarders.* The rules in the following provisions of this subchapter apply to freight forwarders that are required to register with the Agency pursuant to 49 U.S.C. chapter 139.
 
@@ -70,8 +68,10 @@ Link to an amendment published at 83 FR 22877, May 17, 2018.
 
 (2) Part 387, Minimum Levels of Financial Responsibility for Motor Carriers, to the extent provided in subpart D of that part.
 
-(3) Subpart E of this part, Unified Registration System.
+(3) Section 390.6, prohibiting the coercion of drivers of commercial motor vehicles operating in interstate commerce to violate certain safety regulations, and subpart E of this part, Unified Registration System.
 
 (k) *Cargo tank facilities.* The rules in subpart E of this part, Unified Registration System, apply to each cargo tank and cargo tank motor vehicle manufacturer, assembler, repairer, inspector, tester, and design certifying engineer that is subject to registration requirements under 49 CFR 107.502 and 49 U.S.C. 5108.
 
-[80 FR 63710, Oct. 21, 2015]Effective Date Note:At 82 FR 5310, Jan. 17, 2017, § 390.3 was suspended, effective Jan. 14, 2017.
+(l) *Shippers, receivers, consignees, and transportation intermediaries.* The rules in 49 CFR 386.12(c) and 390.6 prohibiting the coercion of drivers of commercial motor vehicles operating in interstate commerce to violate certain safety regulations are applicable to shippers, receivers, and transportation intermediaries.
+
+[80 FR 63710, Oct. 21, 2015, as amended at 83 FR 22877, May 17, 2018]Effective Date Note:At 82 FR 5310, Jan. 17, 2017, § 390.3 was suspended, effective Jan. 14, 2017.

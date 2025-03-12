@@ -1,22 +1,18 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
-Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
-
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
 
 (1) *Open enrollment periods* - (i) *Group market.* (A) Subject to paragraph (b)(1)(i)(B) of this section, a health insurance issuer in the group market must allow an employer to purchase health insurance coverage for a group health plan at any point during the year.
 
-(B) In the case of a group health plan in the small group market that cannot comply with employer contribution or group participation rules for the offering of health insurance coverage, as allowed under applicable State law and in the case of a QHP offered in the SHOP, as permitted by § 156.285(e) of this subchapter, a health insurance issuer may restrict the availability of coverage to an annual enrollment period that begins November 15 and extends through December 15 of each calendar year.
+(B) In the case of a group health plan in the small group market that cannot comply with employer contribution or group participation rules for the offering of health insurance coverage, as allowed under applicable State law, and in the case of a QHP offered in the SHOP, as permitted by § 156.285(e) or § 156.286(e) of this subchapter, a health insurance issuer may restrict the availability of coverage to an annual enrollment period that begins November 15 and extends through December 15 of each calendar year.
 
-(C) With respect to coverage in the small group market, and in the large group market if such coverage is offered through a Small Business Health Options Program (SHOP) in a State, coverage must become effective consistent with the dates described in § 155.725 of this subchapter, except as provided in paragraph (b)(1)(iii) of this section.
+(C) With respect to coverage in the small group market, and in the large group market if such coverage is offered through a SHOP in a State, for a group enrollment received on the first through the fifteenth day of any month, the coverage effective date must be no later than the first day of the following month. For a group enrollment received on the 16th through last day of any month, the coverage effective date must be no later than the first day of the second following month. In either such case, a small employer may instead opt for a later effective date within a quarter for which small group market rates are available.
 
-(ii) *Individual market.* A health insurance issuer in the individual market must allow an individual to purchase health insurance coverage during the initial and annual open enrollment periods described in § 155.410(b) and (e) of this subchapter. Coverage must become effective consistent with the dates described in § 155.410(c) and (f) of this subchapter, except as provided in paragraph (b)(1)(iii) of this section.
+(ii) *Individual market.* A health insurance issuer in the individual market must allow an individual to purchase health insurance coverage during the initial and annual open enrollment periods described in § 155.410(b) and (e) of this subchapter. Coverage must become effective consistent with the dates described in § 155.410(c) and (f) of this subchapter.
 
-(iii) *Exception in certain effective dates of coverage.* Only with respect to coverage offered outside of an Exchange or SHOP, for a plan selection received by an issuer on or before December 15, 2013, the issuer must ensure a coverage effective date of January 1, 2014, and for a plan selection received by an issuer between the 16th and 31st of the month of December 2013, an issuer generally must ensure a coverage effective date of February 1, 2014. The preceding sentence does not prevent an issuer from aligning the plan selection and coverage effective dates with those required by the Exchange or SHOP, as applicable, in the applicable state, consistent with § 155.410(c) of this subchapter.
-
-(2) *Limited open enrollment periods.* (i) A health insurance issuer in the individual market must provide a limited open enrollment period for the triggering events described in § 155.420(d) of this subchapter, excluding the following:
+(2) *Limited open enrollment periods.* (i) A health insurance issuer in the individual market must provide a limited open enrollment period for the triggering events described in § 155.420(d) of this subchapter, excluding, with respect to coverage offered outside of an Exchange, the following:
 
 (A) Section 155.420(d)(3) of this subchapter (concerning Exchange eligibility standards);
 
@@ -30,7 +26,7 @@ Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
 
 (F) Section 155.420(d)(13) of this subchapter (concerning eligibility for insurance affordability programs or enrollment in the Exchange).
 
-(ii) In applying this paragraph (b)(2), a reference in § 155.420 of this subchapter to a “QHP” is deemed to refer to a plan, a reference to “the Exchange” is deemed to refer to the applicable State authority, and a reference to a “qualified individual” is deemed to refer to an individual in the individual market.
+(ii) In applying this paragraph (b)(2), a reference in § 155.420 (other than in § 155.420(a)(5)) of this subchapter to a “QHP” is deemed to refer to a plan, a reference to “the Exchange” is deemed to refer to the applicable State authority, and a reference to a “qualified individual” is deemed to refer to an individual in the individual market.
 
 (iii) Notwithstanding anything to the contrary in § 155.420(d) of this subchapter, § 155.420(a)(4) of this subchapter does not apply to limited open enrollment periods under paragraph (b)(2) of this section.
 
@@ -84,4 +80,4 @@ Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
 
 (i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 155.106 Election to operate an Exchange after 2014. #####
 
-Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
-
 (a) *Election to operate an Exchange.* Except as provided in paragraph (c) of this section, a State electing to seek approval of its Exchange must:
 
 (1) Comply with the State Exchange approval requirements and process set forth in § 155.105;
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (2) Coordinate with HHS on a transition plan to be developed jointly between HHS and the State.
 
-(c) *Process for State Exchanges that seek to utilize the Federal platform for select functions.* A State seeking approval as a State Exchange utilizing the Federal platform to support select functions through a Federal platform agreement under § 155.200(f) must:
+(c) *Process for State Exchanges that seek to utilize the Federal platform for select functions.* States may seek approval to operate a State Exchange utilizing the Federal platform for only the individual market. A State seeking approval to operate a State Exchange utilizing the Federal platform for the individual market to support select functions through a Federal platform agreement under § 155.200(f) must:
 
 (1) If the State Exchange does not have a conditionally approved Exchange Blueprint application, submit one for HHS approval at least 3 months prior to the date on which the Exchange proposes to begin open enrollment as an SBE-FP;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (5) Coordinate with HHS on a transition plan to be developed jointly between HHS and the State.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 79 FR 13837, Mar. 11, 2014; 81 FR 12336, Mar. 8, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 79 FR 13837, Mar. 11, 2014; 81 FR 12336, Mar. 8, 2016; 83 FR 17060, Apr. 17, 2018]

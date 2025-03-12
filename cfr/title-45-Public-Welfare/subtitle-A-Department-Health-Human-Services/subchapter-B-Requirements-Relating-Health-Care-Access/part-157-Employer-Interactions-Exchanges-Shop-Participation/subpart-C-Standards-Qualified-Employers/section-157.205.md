@@ -1,6 +1,4 @@
-##### § 157.205 Qualified employer participation process in a SHOP. #####
-
-Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
+##### § 157.205 Qualified employer participation process in a SHOP for plan years beginning prior to January 1, 2018. #####
 
 (a) *General requirements.* When joining the SHOP, a qualified employer must comply with the requirements, processes, and timelines set forth by this part and must remain in compliance for the duration of the employer's participation in the SHOP.
 
@@ -24,4 +22,6 @@ Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
 
 (g) *Annual employer election period.* Qualified employers must adhere to the annual employer election period to change their program participation for the next plan year described in § 155.725(c) of this subchapter.
 
-[77 FR 18474, Mar. 27, 2012, as amended at 81 FR 94183, Dec. 22, 2016]
+(h) *Applicability date.* The provisions of this section apply for plan years beginning prior to January 1, 2018. Section 157.206 is applicable for plan years beginning on or after January 1, 2018.
+
+[77 FR 18474, Mar. 27, 2012, as amended at 81 FR 94183, Dec. 22, 2016; 83 FR 17070, Apr. 17, 2018]

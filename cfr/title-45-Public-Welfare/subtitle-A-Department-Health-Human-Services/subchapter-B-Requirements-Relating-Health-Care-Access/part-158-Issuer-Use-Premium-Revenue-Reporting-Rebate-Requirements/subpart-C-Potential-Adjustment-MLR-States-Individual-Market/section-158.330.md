@@ -1,35 +1,15 @@
 ##### § 158.330 Criteria for assessing request for adjustment to the medical loss ratio. #####
 
-Link to an amendment published at 83 FR 17071, Apr. 17, 2018.
+The Secretary may consider the following criteria in assessing whether an adjustment to the 80 percent MLR standard, as calculated in accordance with this subpart, would be reasonably likely to help stabilize the individual market in a State that has requested such adjustment:
 
-The Secretary may consider the following criteria in assessing whether application of an 80 percent MLR, as calculated in accordance with this subpart, may destabilize the individual market in a State that has requested an adjustment to the 80 percent MLR:
+(a) The number and financial performance (based on data provided by a State under § 158.321) of issuers actively offering individual health insurance coverage on- and off-Exchange, grandfathered health plans as defined in § 147.140 of this subchapter, coverage that meets the criteria for transitional policies outlined in applicable guidance, and non-grandfathered single risk pool coverage; the number of issuers reasonably likely to cease or begin offering individual market coverage in the State; and the likelihood that an adjustment to the 80 percent MLR standard could help increase competition in the individual market in the State, including in underserved areas.
 
-(a) The number of issuers reasonably likely to exit the State or to cease offering coverage in the State absent an adjustment to the 80 percent MLR and the resulting impact on competition in the State. In making this determination the Secretary may consider as to each issuer that is reasonably likely to exit the State:
+(b) Whether an adjustment to the 80 percent MLR standard for the individual market may improve consumers' access to agents and brokers.
 
-(1) Each issuer's MLR relative to an 80 percent MLR;
+(c) The capacity of any new issuers or issuers remaining in the individual market to write additional business in the event one or more issuers were to cease offering individual market coverage on the Exchange, in certain geographic areas, or in the entire individual market in the State.
 
-(2) Each issuer's solvency and profitability, as measured by factors such as surplus level, risked-based capital ratio, net income, and operating or underwriting gain;
+(d) The impact on premiums charged, and on benefits and cost sharing provided, to consumers by issuers remaining in or entering the individual market in the event one or more issuers were to cease or begin offering individual market coverage on the Exchange, in certain geographic areas, or in the entire individual market in the State.
 
-(3) The requirements and limitations within the State with respect to market withdrawals; and
+(e) Any other relevant information submitted by the State's insurance commissioner, superintendent, or comparable official in the State's request.
 
-(4) Whether each issuer covers less than 1,000 life-years in the State's individual insurance market.
-
-(b) The number of individual market enrollees covered by issuers that are reasonably likely to exit the State absent an adjustment to the 80 percent MLR.
-
-(c) Whether absent an adjustment to the 80 percent MLR standard consumers may be unable to access agents and brokers.
-
-(d) The alternate coverage options within the State available to individual market enrollees in the event an issuer exits the market, including:
-
-(1) Any requirement that issuers who exit the State's individual market must have their block(s) of business assumed by another issuer;
-
-(2) The issuers that may remain in the State subsequent to the implementation of the 80 percent MLR, as calculated in accordance with this part, and the nature, terms, and price of the products offered by such issuers;
-
-(3) The capacity of remaining issuers to write additional business, as measured by their risk based capital ratios;
-
-(4) The mechanisms, such as guaranteed issue products, an issuer of last resort, or a State high risk pool, available to the State to provide coverage to consumers in the event of an issuer withdrawing from the market, and the affordability of these options compared to the coverage provided by exiting or potentially exiting issuers; and
-
-(5) Any authority the State's insurance commissioner, superintendent, or comparable official may exercise with respect to stabilization of the individual insurance market.
-
-(e) The impact on premiums charged, and on benefits and cost-sharing provided, to consumers by issuers remaining in the market in the event one or more issuers were to withdraw from the market.
-
-(f) Any other relevant information submitted by the State's insurance commissioner, superintendent, or comparable official in the State's request.
+[83 FR 17071, Apr. 17, 2018]

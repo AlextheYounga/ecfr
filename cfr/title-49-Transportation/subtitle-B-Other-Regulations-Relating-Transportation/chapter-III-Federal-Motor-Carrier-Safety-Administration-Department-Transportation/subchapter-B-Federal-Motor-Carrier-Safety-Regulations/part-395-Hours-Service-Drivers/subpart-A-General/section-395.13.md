@@ -1,7 +1,5 @@
 ##### § 395.13 Drivers declared out of service. #####
 
-Link to an amendment published at 83 FR 22878, May 17, 2018.
-
 (a) *Authority to declare drivers out of service.* Every special agent of the Federal Motor Carrier Safety Administration (as defined in appendix B to this subchapter) is authorized to declare a driver out of service and to notify the motor carrier of that declaration, upon finding at the time and place of examination that the driver has violated the out of service criteria as set forth in paragraph (b) of this section.
 
 (b) *Out of service criteria.* (1) No driver shall drive after being on duty in excess of the maximum periods permitted by this part.
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 22878, May 17, 2018.
 
 (ii) Require a driver who has been declared out of service for failure to prepare a record of duty status to operate a commercial motor vehicle until that driver has been off duty for the appropriate number of consecutive hours required by this part and is in compliance with this section. The appropriate consecutive hours off-duty may include sleeper berth time.
 
-(2) A motor carrier shall complete the “Motor Carrier Certification of Action Taken” portion of the form MCS-63 (Driver-Vehicle Examination Report) and deliver the copy of the form either personally or by mail to the Division Administrator or State Director Federal Motor Carrier Safety Administration, at the address specified upon the form within 15 days following the date of examination. If the motor carrier mails the form, delivery is made on the date it is postmarked.
+(2) A motor carrier shall complete the “Motor Carrier Certification of Action Taken” portion of the form “Driver/Vehicle Examination Report” and deliver the copy of the form either personally or by mail to the Division Administrator or State Director Federal Motor Carrier Safety Administration, at the address specified upon the form within 15 days following the date of examination. If the motor carrier mails the form, delivery is made on the date it is postmarked.
 
 (d) *Responsibilities of the driver.* (1) No driver who has been declared out of service shall operate a commercial motor vehicle until that driver may lawfully do so under the rules of this part.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 83 FR 22878, May 17, 2018.
 
 (4) Section 395.13 does not alter the hazardous materials requirements prescribed in § 397.5 pertaining to attendance and surveillance of commercial motor vehicles.
 
-[44 FR 34963, June 18, 1979, as amended at 47 FR 53392, Nov. 26, 1982; 51 FR 12622, Apr. 14, 1986; 53 FR 18058, May 19, 1988; 53 FR 38670, Sept. 30, 1988; 53 FR 47544, Nov. 23, 1988; 60 FR 38748, July 28, 1995; 68 FR 22516, Apr. 28, 2003; 70 FR 50073, Aug. 25, 2005; 75 FR 17245, Apr. 5, 2010; 77 FR 28451, May 14, 2012]
+[44 FR 34963, June 18, 1979, as amended at 47 FR 53392, Nov. 26, 1982; 51 FR 12622, Apr. 14, 1986; 53 FR 18058, May 19, 1988; 53 FR 38670, Sept. 30, 1988; 53 FR 47544, Nov. 23, 1988; 60 FR 38748, July 28, 1995; 66 FR 49874, Oct. 1, 2001; 68 FR 22516, Apr. 28, 2003; 70 FR 50073, Aug. 25, 2005; 75 FR 17245, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 83 FR 22878, May 17, 2018]

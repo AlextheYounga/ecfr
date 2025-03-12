@@ -1,6 +1,4 @@
-##### § 156.285 Additional standards specific to SHOP. #####
-
-Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+##### § 156.285 Additional standards specific to SHOP for plan years beginning prior to January 1, 2018. #####
 
 (a) *SHOP rating and premium payment requirements.* QHP issuers offering a QHP through a SHOP must:
 
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
 
 (7) Enroll all qualified employees consistent with the plan year of the applicable qualified employer.
 
-(8) A QHP issuer must enroll a qualified employee only if the SHOP -
+(8) A QHP issuer must enroll a qualified employee only if the SHOP—
 
 (i) Notifies the QHP issuer that the employee is a qualified employee;
 
@@ -66,4 +64,6 @@ Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
 
 (e) *Participation rules.* QHP issuers offering a QHP through the SHOP may impose group participation rules for the offering of health insurance coverage in connection with a QHP only if and to the extent authorized by the SHOP in accordance with § 155.705 of this subchapter.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 78 FR 33240, June 4, 2013; 78 FR 54143, Aug. 30, 2013; 79 FR 13840, Mar. 11, 2014; 80 FR 10874, Feb. 27, 2015; 80 FR 10875, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016]
+(f) *Applicability date.* The provisions of this section apply for plan years beginning prior to January 1, 2018. Additional standards specific to SHOP for plan years beginning on or after January 1, 2018 are in § 156.286.
+
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 78 FR 33240, June 4, 2013; 78 FR 54143, Aug. 30, 2013; 79 FR 13840, Mar. 11, 2014; 80 FR 10874, Feb. 27, 2015; 80 FR 10875, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016; 83 FR 17069, Apr. 17, 2018]

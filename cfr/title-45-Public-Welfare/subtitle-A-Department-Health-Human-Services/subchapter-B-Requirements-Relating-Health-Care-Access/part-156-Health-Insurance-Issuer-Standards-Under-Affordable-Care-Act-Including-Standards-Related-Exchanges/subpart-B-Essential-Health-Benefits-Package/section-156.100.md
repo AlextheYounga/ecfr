@@ -1,8 +1,6 @@
-##### § 156.100 State selection of benchmark. #####
+##### § 156.100 State selection of benchmark plan for plan years beginning prior to January 1, 2020. #####
 
-Link to an amendment published at 83 FR 17068, Apr. 17, 2018.
-
-Each State may identify a single EHB-benchmark plan according to the selection criteria described below:
+For plan years beginning before January 1, 2020, each State may identify a base-benchmark plan according to the selection criteria described below:
 
 (a) *State selection of base-benchmark plan.* The options from which a base-benchmark plan may be selected by the State are the following:
 
@@ -18,4 +16,6 @@ Each State may identify a single EHB-benchmark plan according to the selection c
 
 (c) *Default base-benchmark plan.* If a State does not make a selection using the process described in this section, the default base-benchmark plan will be the largest plan by enrollment in the largest product by enrollment in the State's small group market.
 
-[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015]
+(d) *Applicability date:* For plan years beginning on or after January 1, 2020, § 156.111 applies in place of this section.
+
+[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 83 FR 17068, Apr. 17, 2018]

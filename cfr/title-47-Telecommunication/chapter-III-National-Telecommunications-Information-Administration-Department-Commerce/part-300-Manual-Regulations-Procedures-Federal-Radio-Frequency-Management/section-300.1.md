@@ -1,7 +1,21 @@
 ##### § 300.1 Incorporation by reference of the Manual of Regulations and Procedures for Federal Radio Frequency Management. #####
 
-(a) The Manual of Regulations and Procedures for Federal Radio Frequency Management (hereinafter referred to as the NTIA Manual) is issued by the Assistant Secretary of Commerce for Communications and Information, and is specifically designed to cover the Assistant Secretary's frequency management responsibilities pursuant to delegated authority under 47 U.S.C. 901 *et seq.* and Executive Order 12046 (March 27, 1978).
+(a) The Manual of Regulations and Procedures for Federal Radio Frequency Management (the NTIA Manual) is issued by the Assistant Secretary of Commerce for Communications and Information, and is specifically designed to cover the Assistant Secretary's frequency management responsibilities pursuant to delegated authority under 47 U.S.C. 901 *et seq.* and Executive Order 12046 (March 27, 1978). Federal agencies must comply with the requirements in the NTIA Manual specified in paragraph (b) of this section.
 
-(b) The Federal agencies shall comply with the requirements set forth in the 2013 edition of the NTIA Manual, as revised through September 2015, which is incorporated by reference with approval of the Director, Office of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The NTIA Manual is available from the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402, by referring to Catalog Number 903-008-00000-8. A reference copy of the NTIA Manual, including all revision in effect, is available in the Office of Spectrum Management, 1401 Constitution Avenue NW., Room 1087, Washington, DC 20230, or call William Mitchell at (202) 482-8124. The NTIA Manual is available online at *https://www.ntia.doc.gov/osmhome/redbook/redbook.html.*
+(b) The NTIA Manual is incorporated by reference into this section with approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at National Telecommunications and Information Administration, Office of Spectrum Management, 1401 Constitution Avenue NW, Room 1087, Washington, DC 20230, Peter Tenhula at (202) 482-9142, and is available from the sources indicated below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material, call 202-741-6030 or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-[58 FR 44136, Aug. 19, 1993, as amended at 69 FR 18803, Apr. 9, 2004; 74 FR 16796, Apr. 13, 2009; 74 FR 31639, July 2, 2009; 75 FR 6819, Feb. 11, 2010; 75 FR 54791, Sept. 9, 2010; 76 FR 18652, Apr. 5, 2011; 76 FR 56985, Sept. 15, 2011; 77 FR 75568, Dec. 21, 2012; 78 FR 52098, Aug. 22, 2013; 79 FR 73487, Dec. 11, 2014; 81 FR 34914, June 1, 2016]
+(1) Commerce Department, National Telecommunications and Information Administration, Office of Spectrum Management, 1401 Constitution Avenue NW, Washington, DC 20230.The NTIA Manual is available online at *https://www.ntia.doc.gov/page/2011/manual-regulations-and-procedures-federal-radio-frequency-management-redbook* and from the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402, by referring to Catalog Number 903-008-00000-8.
+
+(i) Manual of Regulations and Procedures for Federal Radio Frequency Management, 2013 Edition, dated May 2013, as modified by:
+
+(A) May 2014 Revisions, approved June 24, 2014;
+
+(B) September 2015 Revisions, approved March 11, 2016; and
+
+(C) September 2017 Revisions, approved February 5, 2018.
+
+(ii) [Reserved]
+
+(2) [Reserved]
+
+[83 FR 28161, June 18, 2018]

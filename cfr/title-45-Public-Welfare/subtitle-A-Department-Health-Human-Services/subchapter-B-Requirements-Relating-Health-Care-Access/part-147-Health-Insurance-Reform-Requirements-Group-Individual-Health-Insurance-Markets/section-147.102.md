@@ -1,14 +1,12 @@
 ##### § 147.102 Fair health insurance premiums. #####
 
-Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
-
-(a) *In general.* With respect to the premium rate charged by a health insurance issuer in accordance with § 156.80 of this subchapter for health insurance coverage offered in the individual or small group market -
+(a) *In general.* With respect to the premium rate charged by a health insurance issuer in accordance with § 156.80 of this subchapter for health insurance coverage offered in the individual or small group market—
 
 (1) The rate may vary with respect to the particular plan or coverage involved only by determining the following:
 
 (i) Whether the plan or coverage covers an individual or family.
 
-(ii) Rating area, as established in accordance with paragraph (b) of this section. For purposes of this paragraph (a), rating area is determined -
+(ii) Rating area, as established in accordance with paragraph (b) of this section. For purposes of this paragraph (a), rating area is determined—
 
 (A) In the individual market, using the primary policyholder's address.
 
@@ -40,11 +38,11 @@ Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
 
 (2) *Family tiers under community rating.* If a state does not permit any rating variation for the factors described in paragraphs (a)(1)(iii) and (a)(1)(iv) of this section, the state may require that premiums for family coverage be determined by using uniform family tiers and the corresponding multipliers established by the state. If a state does not establish uniform family tiers and the corresponding multipliers, the per-member-rating methodology under paragraph (c)(1) of this section will apply in that state.
 
-(3) *Application to small group market* - (i) In the case of the small group market, the total premium charged to a group health plan is determined by summing the premiums of covered participants and beneficiaries in accordance with paragraph (c)(1) or (2) of this section, as applicable.
+(3) *Application to small group market*—(i) In the case of the small group market, the total premium charged to a group health plan is determined by summing the premiums of covered participants and beneficiaries in accordance with paragraph (c)(1) or (2) of this section, as applicable.
 
 (ii) Subject to paragraph (c)(3)(iii) of this section, nothing in this section prevents a state from requiring issuers to offer to a group health plan, or an issuer from voluntarily offering to a group health plan, premiums that are based on average enrollee premium amounts, provided that the total group premium established at the time of applicable enrollment at the beginning of the plan year is the same total amount derived in accordance with paragraph (c)(1) or (2) of this section, as applicable.
 
-(iii) Effective for plan years beginning on or after January 1, 2015, an issuer that, in connection with a group health plan in the small group market, offers premiums that are based on average enrollee premium amounts under paragraph (c)(3)(ii) of this section must -
+(iii) Effective for plan years beginning on or after January 1, 2015, an issuer that, in connection with a group health plan in the small group market, offers premiums that are based on average enrollee premium amounts under paragraph (c)(3)(ii) of this section must—
 
 (A) Ensure an average enrollee premium amount calculated based on applicable enrollment of participants and beneficiaries at the beginning of the plan year does not vary during the plan year.
 
@@ -52,7 +50,7 @@ Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
 
 (C) Pursuant to applicable state law, ensure that the average enrollee premium amount calculated for any individual covered under the plan does not include any rating variation for tobacco use permitted under paragraph (a)(1)(iv) of this section. The rating variation for tobacco use permitted under paragraph (a)(1)(iv) of this section is determined based on the premium rate that would be applied on a per-member basis with respect to an individual who uses tobacco and then included in the premium charged for that individual.
 
-(D) To the extent permitted by applicable state law and, in the case of coverage offered through a Federally-facilitated SHOP, as permitted by § 156.285(a)(4) of this subchapter, apply this paragraph (c)(3)(iii) uniformly among group health plans enrolling in that product, giving those group health plans the option to pay premiums based on average enrollee premium amounts.
+(D) To the extent permitted by applicable State law and, in the case of coverage offered through a SHOP, as permitted by the SHOP, apply this paragraph (c)(3)(iii) uniformly among group health plans enrolling in that product, giving those group health plans the option to pay premiums based on average enrollee premium amounts.
 
 (d) *Uniform age bands.* The following uniform age bands apply for rating purposes under paragraph (a)(1)(iii) of this section:
 
@@ -76,4 +74,4 @@ Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
 
 (h) *Grandfathered health plans.* This section does not apply to grandfathered health plans in accordance with § 147.140.
 
-[78 FR 13436, Feb. 27, 2013, as amended at 78 FR 54133, Aug. 30, 2013; 79 FR 13834, Mar. 11, 2014; 81 FR 12334, Mar. 8, 2016; 81 FR 94173, Dec. 22, 2016]
+[78 FR 13436, Feb. 27, 2013, as amended at 78 FR 54133, Aug. 30, 2013; 79 FR 13834, Mar. 11, 2014; 81 FR 12334, Mar. 8, 2016; 81 FR 94173, Dec. 22, 2016; 83 FR 17058, Apr. 17, 2018]

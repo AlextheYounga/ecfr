@@ -1,7 +1,5 @@
 ##### § 155.210 Navigator program standards. #####
 
-Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
-
 (a) *General requirements.* The Exchange must establish a Navigator program consistent with this section through which it awards grants to eligible public or private entities or individuals described in paragraph (c) of this section.
 
 (b) *Standards.* The Exchange must develop and publicly disseminate -
@@ -50,7 +48,7 @@ Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
 
 (v) Comply with the privacy and security standards adopted by the Exchange as required in accordance with § 155.260.
 
-(2) The Exchange must include an entity as described in paragraph (c)(2)(i) of this section and an entity from at least one of the other following categories for receipt of a Navigator grant:
+(2) The Exchange must include an entity from at least one of the following categories for receipt of a Navigator grant:
 
 (i) Community and consumer-focused nonprofit groups;
 
@@ -108,7 +106,7 @@ Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
 
 (iii) May revoke at any time the authorization provided the Navigator pursuant to paragraph (e)(6)(ii) of this section; and
 
-(7) Maintain a physical presence in the Exchange service area, so that face-to-face assistance can be provided to applicants and enrollees. In a Federally-facilitated Exchange, no individual or entity shall be ineligible to operate as a Navigator solely because its principal place of business is outside of the Exchange service area;
+(7) In a Federally-facilitated Exchange, no individual or entity shall be ineligible to operate as a Navigator solely because its principal place of business is outside of the Exchange service area;
 
 (8) Provide targeted assistance to serve underserved or vulnerable populations, as identified by the Exchange, within the Exchange service area.
 
@@ -130,4 +128,4 @@ Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
 
 (f) *Funding for Navigator grants.* Funding for Navigator grants may not be from Federal funds received by the State to establish the Exchange.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 79 FR 30344, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12337, Mar. 8, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 79 FR 30344, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12337, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018]

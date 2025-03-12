@@ -1,12 +1,10 @@
-##### § 155.725 Enrollment periods under SHOP. #####
-
-Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
+##### § 155.725 Enrollment periods under SHOP for plan years beginning prior to January 1, 2018. #####
 
 (a) *General requirements.* The SHOP must ensure that enrollment transactions are sent to QHP issuers and that such issuers adhere to coverage effective dates in accordance with this section.
 
 (b) *Rolling enrollment in the SHOP.* The SHOP must permit a qualified employer to purchase coverage for its small group at any point during the year. The employer's plan year must consist of the 12-month period beginning with the qualified employer's effective date of coverage, unless the plan is issued in a State that has elected to merge its individual and small group risk pools under section 1312(c)(3) of the Affordable Care Act, in which case the plan year will end on December 31 of the calendar year in which coverage first became effective.
 
-(c) *Annual employer election period.* The SHOP must provide qualified employers with a standard election period prior to the completion of the employer's plan year and before the annual employee open enrollment period, in which the qualified employer may change its participation in the SHOP for the next plan year, including -
+(c) *Annual employer election period.* The SHOP must provide qualified employers with a standard election period prior to the completion of the employer's plan year and before the annual employee open enrollment period, in which the qualified employer may change its participation in the SHOP for the next plan year, including—
 
 (1) The method by which the qualified employer makes QHPs available to qualified employees pursuant to § 155.705(b)(2) and (3);
 
@@ -48,7 +46,7 @@ Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
 
 (ii) Between the 16th and last day of any month, the Federally-facilitated SHOP must ensure a coverage effective date of the first day of the second following month unless the employer opts for a later effective date within a quarter for which small group market rates are available.
 
-(i) *Renewal of coverage.* (1) If a qualified employee enrolled in a QHP through the SHOP remains eligible for enrollment through the SHOP in coverage offered by the same qualified employer, the SHOP may provide for a process under which the employee will remain in the QHP selected the previous year, unless -
+(i) *Renewal of coverage.* (1) If a qualified employee enrolled in a QHP through the SHOP remains eligible for enrollment through the SHOP in coverage offered by the same qualified employer, the SHOP may provide for a process under which the employee will remain in the QHP selected the previous year, unless—
 
 (i) The qualified employee terminates coverage from such QHP in accordance with standards identified in § 155.430;
 
@@ -92,4 +90,6 @@ Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
 
 (k) *Limitation.* Qualified employees will not be able to enroll unless the employer group meets any applicable minimum participation rate implemented under § 155.705(b)(10).
 
-[77 FR 18464, Mar. 27, 2012, as amended at 78 FR 33239, June 4, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30350, May 27, 2014; 79 FR 42986, July 24, 2014; 80 FR 10869, Feb. 27, 2015; 81 FR 12347, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 82 FR 18382, Apr. 18, 2017]
+(l) *Applicability date.* The provisions of this section apply for plan years beginning prior to January 1, 2018. Section 155.726 is applicable for plan years beginning on or after January 1, 2018.
+
+[77 FR 18464, Mar. 27, 2012, as amended at 78 FR 33239, June 4, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30350, May 27, 2014; 79 FR 42986, July 24, 2014; 80 FR 10869, Feb. 27, 2015; 81 FR 12347, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 82 FR 18382, Apr. 18, 2017; 83 FR 17066, Apr. 17, 2018]

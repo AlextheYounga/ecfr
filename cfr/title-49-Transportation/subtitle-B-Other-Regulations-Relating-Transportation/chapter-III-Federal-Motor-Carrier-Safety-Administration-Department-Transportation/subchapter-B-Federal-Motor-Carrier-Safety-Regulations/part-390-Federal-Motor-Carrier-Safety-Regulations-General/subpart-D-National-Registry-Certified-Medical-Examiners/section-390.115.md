@@ -1,8 +1,8 @@
 ##### § 390.115 Procedure for removal from the National Registry of Certified Medical Examiners. #####
 
-Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
+Link to an amendment published at 83 FR 26860, June 11, 2018.
 
-(a) *Voluntary removal.* To be voluntarily removed from the National Registry of Certified Medical Examiners, a medical examiner must submit a request to the FMCSA Director, Office of Carrier, Driver and Vehicle Safety Standards. Except as provided in paragraph (b) of this section, the Director, Office of Carrier, Driver and Vehicle Safety Standards will accept the request and the removal will become effective immediately. On and after the date of issuance of a notice of proposed removal from the National Registry of Certified Medical Examiners, as described in paragraph (b) of this section, however, the Director, Office of Carrier, Driver and Vehicle Safety Standards will not approve the medical examiner's request for voluntary removal from the National Registry of Certified Medical Examiners.
+(a) *Voluntary removal.* To be voluntarily removed from the National Registry of Certified Medical Examiners, a medical examiner must submit a request to the FMCSA Director, Office of Carrier, Driver and Vehicle Safety Standards, 1200 New Jersey Ave. SE, Washington, DC 20590. On and after the date of issuance of a notice of proposed removal from the National Registry of Certified Medical Examiners, as described in paragraph (b) of this section, however, the Director, Office of Carrier, Driver and Vehicle Safety Standards will not approve the medical examiner's request for voluntary removal from the National Registry of Certified Medical Examiners.
 
 (b) *Notice of proposed removal.* Except as provided by paragraphs (a) and (e) of this section, FMCSA initiates the process for removal of a medical examiner from the National Registry of Certified Medical Examiners by issuing a written notice of proposed removal to the medical examiner, stating the reasons that removal is proposed under § 390.113 and any corrective actions necessary for the medical examiner to remain listed on the National Registry of Certified Medical Examiners.
 
@@ -22,7 +22,7 @@ Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment
 
 (3) At any time before a notice of proposed removal from the National Registry of Certified Medical Examiners becomes final, the recipient of the notice of proposed removal and the Director, Office of Carrier, Driver and Vehicle Safety Standards may resolve the matter by mutual agreement.
 
-(d) *Request for administrative review.* If a person has been removed from the National Registry of Certified Medical Examiners under paragraph (c)(1)(iii), (c)(2)(ii), or (e) of this section, that person may request an administrative review no later than 30 days after the date the removal becomes effective. The request must be submitted in writing to the FMCSA Associate Administrator for Policy and Program Development. The request must explain the error(s) committed in removing the medical examiner from the National Registry of Certified Medical Examiners, and include a list of all factual, legal, and procedural issues in dispute, and any supporting information or documents.
+(d) *Request for administrative review.* If a person has been removed from the National Registry of Certified Medical Examiners under paragraph (c)(1)(iii), (c)(2)(ii), or (e) of this section, that person may request an administrative review no later than 30 days after the date the removal becomes effective. The request must be submitted in writing to the FMCSA Associate Administrator for Policy, 1200 New Jersey Ave. SE, Washington, DC 20590. The request must explain the error(s) committed in removing the medical examiner from the National Registry of Certified Medical Examiners, and include a list of all factual, legal, and procedural issues in dispute, and any supporting information or documents.
 
 (1) *Additional procedures for administrative review.* The Associate Administrator may ask the person to submit additional data or attend a conference to discuss the removal. If the person does not provide the information requested, or does not attend the scheduled conference, the Associate Administrator may dismiss the request for administrative review.
 
@@ -56,4 +56,4 @@ Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment
 
 (g) *Effect of final decision by FMCSA.* If a person is removed from the National Registry of Certified Medical Examiners under paragraph (c) or (e) of this section, the certification credential issued under § 390.109 is no longer valid. However, the removed person's information remains publicly available for 3 years, with an indication that the person is no longer listed on the National Registry of Certified Medical Examiners as of the date of removal.
 
-[77 FR 24127, Apr. 20, 2012, as amended at 80 FR 59074, Oct. 1, 2015]
+[77 FR 24127, Apr. 20, 2012, as amended at 80 FR 59074, Oct. 1, 2015; 83 FR 22878, May 17, 2018]

@@ -1,7 +1,5 @@
 ##### § 155.200 Functions of an Exchange. #####
 
-Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
-
 (a) *General requirements.* An Exchange must perform the functions described in this subpart and in subparts D, E, F, G, H, K, M, and O of this part unless the State is approved to operate only a SHOP by HHS under § 155.100(a)(2), in which case the Exchange operated by the State must perform the functions described in subpart H of this part and all applicable provisions of other subparts referenced in that subpart. In a State that is approved to operate only a SHOP, the individual market Exchange operated by HHS in that State will perform the functions described in this subpart and in subparts D, E, F, G, K, M, and O of this part.
 
 (b) *Certificates of exemption.* The Exchange must issue certificates of exemption consistent with sections 1311(d)(4)(H) and 1411 of the Affordable Care Act.
@@ -18,11 +16,7 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (i) Data submission requirements under § 156.122(d)(2) of this subchapter;
 
-(ii) Network adequacy standards under § 156.230 of this subchapter;
-
-(iii) Essential community providers standards under § 156.235 of this subchapter;
-
-(iv) Meaningful difference standards under § 156.298 of this subchapter;
+(ii) - (iv) [Reserved]
 
 (v) Changes of ownership of issuers requirements under § 156.330 of this subchapter;
 
@@ -32,7 +26,7 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (3) If a State is not substantially enforcing any requirement listed under § 155.200(f)(2) with respect to a QHP issuer or plan in a State-based Exchange on the Federal platform, HHS may enforce that requirement directly against the issuer or plan by means of plan suppression under § 156.815 of this subchapter.
 
-(4) A State Exchange on the Federal platform that utilizes the Federal platform for certain SHOP functions, as set forth in paragraphs (f)(4)(i) through (vii) of this section, must -
+(4) A State Exchange on the Federal platform that utilizes the Federal platform for SHOP functions, for plan years beginning on or after January 1, 2018, must require its QHP issuers to make any changes to rates in accordance with the timeline applicable in a Federally-facilitated SHOP under § 155.706(b)(6)(i)(A). A State Exchange on the Federal platform that utilizes the Federal platform for SHOP functions, as set forth in paragraphs (f)(4)(i) through (vii) of this section, for plan years beginning prior to January 1, 2018, must -
 
 (i) If utilizing the Federal platform for SHOP eligibility, enrollment, or premium aggregation functions, establish standard processes for premium calculation, premium payment, and premium collection that are consistent with the requirements applicable in a Federally-facilitated SHOP under § 155.705(b)(4);
 
@@ -48,4 +42,4 @@ Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
 
 (vii) If utilizing the Federal platform for SHOP eligibility, enrollment, or premium aggregation functions, establish policies for the termination of SHOP coverage or enrollment that are consistent with the requirements applicable in a Federally-facilitated SHOP under § 155.735.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 39523, July 1, 2013; 78 FR 54134, Aug. 30, 2013; 81 FR 12337, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 39523, July 1, 2013; 78 FR 54134, Aug. 30, 2013; 81 FR 12337, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 83 FR 17060, Apr. 17, 2018]

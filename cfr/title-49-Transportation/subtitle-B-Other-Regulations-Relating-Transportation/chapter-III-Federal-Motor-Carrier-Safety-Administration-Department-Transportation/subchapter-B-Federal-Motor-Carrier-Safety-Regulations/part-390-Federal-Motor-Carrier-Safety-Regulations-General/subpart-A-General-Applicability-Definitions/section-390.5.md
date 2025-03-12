@@ -1,6 +1,6 @@
 ##### § 390.5 Definitions. #####
 
-Link to an amendment published at 83 FR 22877, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
+Link to an amendment published at 83 FR 26860, June 11, 2018.
 
 Unless specifically defined elsewhere, in this subchapter:
 
@@ -44,7 +44,7 @@ Unless specifically defined elsewhere, in this subchapter:
 
 (4) Is used in transporting material found by the Secretary of Transportation to be hazardous under 49 U.S.C. 5103 and transported in a quantity requiring placarding under regulations prescribed by the Secretary under 49 CFR, subtitle B, chapter I, subchapter C.
 
-*Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or prorated.
+*Conviction* means an unvacated adjudication of guilt, or a determination that a person has violated or failed to comply with the law in a court of original jurisdiction or by an authorized administrative tribunal, an unvacated forfeiture of bail or collateral deposited to secure the person's appearance in court, a plea of guilty or nolo contendere accepted by the court, the payment of a fine or court cost, or violation of a condition of release without bail, regardless of whether or not the penalty is rebated, suspended, or probated.
 
 *Covered farm vehicle* -
 
@@ -52,7 +52,7 @@ Unless specifically defined elsewhere, in this subchapter:
 
 (i) Registered in a State with a license plate or other designation issued by the State of registration that allows law enforcement officials to identify it as a farm vehicle;
 
-(ii) Operated by the owner or operator of a farm or ranch, or an employee or family member of a an owner or operator of a farm or ranch;
+(ii) Operated by the owner or operator of a farm or ranch, or an employee or family member of an owner or operator of a farm or ranch;
 
 (iii) Used to transport agricultural commodities, livestock, machinery or supplies to or from a farm or ranch; and
 
@@ -124,25 +124,25 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Farm vehicle driver* means a person who drives only a commercial motor vehicle that is -
 
-(a) Controlled and operated by a farmer as a private motor carrier of property;
+(1) Controlled and operated by a farmer as a private motor carrier of property;
 
-(b) Being used to transport either -
+(2) Being used to transport either -
 
-(1) Agricultural products, or
+(i) Agricultural products, or
 
-(2) Farm machinery, farm supplies, or both, to or from a farm;
+(ii) Farm machinery, farm supplies, or both, to or from a farm;
 
-(c) Not being used in the operation of a for-hire motor carrier;
+(3) Not being used in the operation of a for-hire motor carrier;
 
-(d) Not carrying hazardous materials of a type or quantity that requires the commercial motor vehicle to be placarded in accordance with § 177.823 of this subtitle; and
+(4) Not carrying hazardous materials of a type or quantity that requires the commercial motor vehicle to be placarded in accordance with § 177.823 of this subtitle; and
 
-(e) Being used within 150 air-miles of the farmer's farm.
+(5) Being used within 150 air-miles of the farmer's farm.
 
 *Farmer* means any person who operates a farm or is directly involved in the cultivation of land, crops, or livestock which -
 
-(a) Are owned by that person; or
+(1) Are owned by that person; or
 
-(b) Are under the direct control of that person.
+(2) Are under the direct control of that person.
 
 *Fatality* means any injury which results in the death of a person at the time of the motor vehicle accident or within 30 days of the accident.
 

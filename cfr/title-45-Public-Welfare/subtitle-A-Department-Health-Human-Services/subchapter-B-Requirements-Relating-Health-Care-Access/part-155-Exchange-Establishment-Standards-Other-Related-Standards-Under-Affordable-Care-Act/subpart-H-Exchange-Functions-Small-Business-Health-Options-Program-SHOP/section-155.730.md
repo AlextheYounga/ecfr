@@ -1,10 +1,8 @@
-##### § 155.730 Application standards for SHOP. #####
-
-Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
+##### § 155.730 Application standards for SHOP for plan year beginning prior to January 1, 2018. #####
 
 (a) *General requirements.* Application forms used by the SHOP must meet the requirements set forth in this section.
 
-(b) *Single employer application.* The SHOP must use a single application to determine employer eligibility and to collect information necessary for purchasing coverage. Such application must collect the following -
+(b) *Single employer application.* The SHOP must use a single application to determine employer eligibility and to collect information necessary for purchasing coverage. Such application must collect the following—
 
 (1) Employer name and address of employer's locations;
 
@@ -34,4 +32,6 @@ Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
 
 (2) The SHOP is not permitted to collect information on the single employer or single employee application unless that information is necessary to determine SHOP eligibility or effectuate enrollment through the SHOP.
 
-[77 FR 18464, Mar. 27, 2012, as amended at 78 FR 54141, Aug. 30, 2013; 79 FR 13839, Mar. 11, 2014]
+(h) *Applicability date.* The provisions of this section apply for plan years beginning prior to January 1, 2018. Section 155.731 is applicable for plan years beginning on or after January 1, 2018.
+
+[77 FR 18464, Mar. 27, 2012, as amended at 78 FR 54141, Aug. 30, 2013; 79 FR 13839, Mar. 11, 2014; 83 FR 17066, Apr. 17, 2018]
