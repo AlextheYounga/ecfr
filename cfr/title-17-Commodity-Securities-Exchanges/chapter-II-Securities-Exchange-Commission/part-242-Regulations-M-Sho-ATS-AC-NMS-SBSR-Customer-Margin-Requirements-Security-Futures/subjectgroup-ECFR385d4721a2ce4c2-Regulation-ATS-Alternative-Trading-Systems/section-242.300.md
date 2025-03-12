@@ -1,5 +1,7 @@
 ##### § 242.300 Definitions. #####
 
+Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
+
 For purposes of this section, the following definitions shall apply:
 
 (a) *Alternative trading system* means any organization, association, person, group of persons, or system:

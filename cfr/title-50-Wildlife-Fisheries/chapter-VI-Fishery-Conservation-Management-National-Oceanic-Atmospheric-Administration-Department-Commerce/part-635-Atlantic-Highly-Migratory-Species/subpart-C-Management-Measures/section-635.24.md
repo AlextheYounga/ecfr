@@ -1,7 +1,5 @@
 ##### § 635.24 Commercial retention limits for sharks, swordfish, and BAYS tunas. #####
 
-Link to an amendment published at 83 FR 31684, July 9, 2018.
-
 The retention limits in this section are subject to the quotas and closure provisions in §§ 635.27 and 635.28, and the gear operation and deployment restrictions in § 635.21.
 
 (a) *Sharks.* (1) A person who owns or operates a vessel that has been issued a valid shark research permit under § 635.32(f) and who has a NMFS-approved observer on board may retain, possess, or land LCS, including sandbar sharks, in excess of the retention limits in paragraphs (a)(2) through (6) of this section. The amount of LCS that can be landed by such a person will vary as specified on the shark research permit. Only a person who owns or operates a vessel issued a valid shark research permit with a NMFS-approved observer on board may retain, possess, or land sandbar sharks.
@@ -34,7 +32,7 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (ii) The catch rates of the relevant shark species/complexes in the region or sub-region, to date, based on dealer reports;
 
-(iii) Estimated date of fishery closure based on when the landings are projected to reach 80 percent of the quota given the realized catch rates;
+(iii) Estimated date of fishery closure based on when the landings are projected to reach 80 percent of the quota given the realized catch rates and whether they are projected to reach 100 percent before the end of the fishing season;
 
 (iv) Effects of the adjustment on accomplishing the objectives of the 2006 Consolidated HMS FMP and its amendments;
 

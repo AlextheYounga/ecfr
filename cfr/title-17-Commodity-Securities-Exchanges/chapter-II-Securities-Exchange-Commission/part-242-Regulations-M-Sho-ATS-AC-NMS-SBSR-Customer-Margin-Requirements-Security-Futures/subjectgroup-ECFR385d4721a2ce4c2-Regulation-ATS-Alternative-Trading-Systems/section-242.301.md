@@ -1,5 +1,7 @@
 ##### § 242.301 Requirements for alternative trading systems. #####
 
+Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
+
 (a) *Scope of section.* An alternative trading system shall comply with the requirements in paragraph (b) of this section, unless such alternative trading system:
 
 (1) Is registered as an exchange under section 6 of the Act, (15 U.S.C. 78f);

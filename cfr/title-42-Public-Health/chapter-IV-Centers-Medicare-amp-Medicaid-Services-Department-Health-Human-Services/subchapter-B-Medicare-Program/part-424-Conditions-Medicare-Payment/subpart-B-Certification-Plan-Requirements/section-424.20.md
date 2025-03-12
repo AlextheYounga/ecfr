@@ -1,5 +1,7 @@
 ##### § 424.20 Requirements for posthospital SNF care. #####
 
+Link to an amendment published at 83 FR 39290, August 8, 2018.
+
 Medicare Part A pays for posthospital SNF care furnished by an SNF, or a hospital or CAH with a swing-bed approval, only if the certification and recertification for services are consistent with the content of paragraph (a) or (c) of this section, as appropriate.
 
 (a) *Content of certification* - (1) *General requirements.* Posthospital SNF care is or was required because -

@@ -1,5 +1,7 @@
 ##### § 242.303 Record preservation requirements for alternative trading systems. #####
 
+Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
+
 (a) To comply with the condition set forth in paragraph (b)(9) of § 242.301, an alternative trading system shall preserve the following records:
 
 (1) For a period of not less than three years, the first two years in an easily accessible place, an alternative trading system shall preserve:

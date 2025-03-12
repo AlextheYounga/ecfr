@@ -1,5 +1,7 @@
 ##### § 240.3a1-1 Exemption from the definition of “Exchange” under Section 3(a)(1) of the Act. #####
 
+Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
+
 (a) An organization, association, or group of persons shall be exempt from the definition of the term “exchange” under section 3(a)(1) of the Act, (15 U.S.C. 78c(a)(1)), if such organization, association, or group of persons:
 
 (1) Is operated by a national securities association;
