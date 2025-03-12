@@ -1,5 +1,7 @@
 ##### § 21.52 Public health control order for resident Canada geese. #####
 
+Link to an amendment published at 84 FR 28773, June 20, 2019.
+
 (a) *Which Canada geese are covered by this order?* This regulation addresses the control and management of resident Canada geese, as defined in § 21.3.
 
 (b) *What is the public health control order for resident Canada geese, and what is its purpose?* The public health control order for resident Canada geese authorizes States, Tribes, and the District of Columbia, via the State or Tribal wildlife agency, to conduct resident Canada goose control and management activities including direct control strategies such as trapping and relocation, nest and egg destruction, gosling and adult trapping and culling programs, or other lethal and non-lethal wildlife damage-management strategies when resident Canada geese are posing a direct threat to human health.

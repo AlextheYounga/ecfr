@@ -1,5 +1,7 @@
 ##### § 1.36B-2 Eligibility for premium tax credit. #####
 
+Link to an amendment published at 84 FR 28984, June 20, 2019.
+
 (a) *In general.* An applicable taxpayer (within the meaning of paragraph (b) of this section) is allowed a premium assistance amount only for any month that one or more members of the applicable taxpayer's family (the applicable taxpayer or the applicable taxpayer's spouse or dependent) -
 
 (1) Is enrolled in one or more qualified health plans through an Exchange; and

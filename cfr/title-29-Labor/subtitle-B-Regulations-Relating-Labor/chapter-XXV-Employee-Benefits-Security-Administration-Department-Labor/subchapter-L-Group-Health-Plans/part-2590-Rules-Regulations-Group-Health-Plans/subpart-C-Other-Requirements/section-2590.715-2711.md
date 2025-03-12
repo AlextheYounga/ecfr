@@ -1,5 +1,7 @@
 ##### § 2590.715-2711 No lifetime or annual limits. #####
 
+Link to an amendment published at 84 FR 29011, June 20, 2019.
+
 (a) *Prohibition* - (1) *Lifetime limits.* Except as provided in paragraph (b) of this section, a group health plan, or a health insurance issuer offering group health insurance coverage, may not establish any lifetime limit on the dollar amount of essential health benefits for any individual, whether provided in-network or out-of-network.
 
 (2) *Annual limits* - (i) *General rule.* Except as provided in paragraphs (a)(2)(ii) and (b) of this section, a group health plan, or a health insurance issuer offering group health insurance coverage, may not establish any annual limit on the dollar amount of essential health benefits for any individual, whether provided in-network or out-of-network.

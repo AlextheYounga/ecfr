@@ -1,0 +1,5 @@
+##### § 1303.22 Requirement for providing description of the records sought. #####
+
+(a) Requesters must describe the records sought in sufficient detail to enable OMB personnel to locate them with a reasonable amount of effort. To the extent possible, requesters should include specific information that may help the agency identify the requested records, such as the date, title or name, author, recipient, subject matter of the record, case number, file designation, or reference number. Before submitting their requests, requesters may contact the FOIA Officer or FOIA Public Liaison to discuss the records they seek and to receive assistance in describing the records.
+
+(b) If, after receiving a request, OMB determines that the request does not reasonably describe the records sought, OMB will inform the requester what additional information is needed and why the request is otherwise insufficient. Requesters who are attempting to reformulate or modify such a request may discuss their request with the FOIA Officer or the FOIA Public Liaison. If a request does not reasonably describe the records sought, OMB's response to the request may be delayed.

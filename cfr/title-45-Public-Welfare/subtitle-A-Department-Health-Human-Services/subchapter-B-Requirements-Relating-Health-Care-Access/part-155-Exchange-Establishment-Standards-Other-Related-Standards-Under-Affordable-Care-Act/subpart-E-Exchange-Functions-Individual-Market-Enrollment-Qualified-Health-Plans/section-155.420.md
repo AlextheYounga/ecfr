@@ -1,6 +1,6 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 84 FR 17567, Apr. 25, 2019.
+Link to an amendment published at 84 FR 17567, Apr. 25, 2019.Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 

@@ -1,0 +1,21 @@
+##### § 1303.90 Definitions. #####
+
+For the purpose of this part, all definitions set forth in the FOIA apply.
+
+(a) The term “direct costs” means those expenditures that OMB actually incurs in searching for and duplicating (and in the case of commercial requesters, reviewing) documents to respond to a FOIA request. Not included in direct costs are overhead expenses such as costs of space, heating, or lighting the facility in which the records are stored.
+
+(b) The term “search” means the process of looking for and retrieving records or information responsive to a request. It includes page-by-page or line-by-line identification of information within records and also includes reasonable efforts to locate and retrieve information from records maintained in electronic form or format.
+
+(c) The term “duplication” means the making of a copy of a document, or of the information contained in it, that is necessary to respond to a FOIA request. Such copies can be in the form of paper, microform, audio-visual materials, or electronic records (e.g., magnetic tape or disk), among others.
+
+(d) The term “review” refers to the process of examining documents located in response to a request to determine whether any portion of any document located is permitted to be withheld. It also refers to the processing of any documents for disclosure, e.g., doing all that is necessary to excise them and otherwise prepare them for release. Review does not include time spent resolving general legal or policy issues regarding the application of exemptions.
+
+(e) The term “commercial use request” is a request that asks for information for a use or purpose that furthers a commercial, trade, or profit interest, which can include furthering those interests through litigation.
+
+(f) The term “educational institution” is any school that operates a program of teaching or scholarly research. To be eligible for inclusion in this category, requesters must show that the request is being made as authorized by and in connection with the requester's role at a qualifying institution and that the records are not sought for commercial use, but are sought in furtherance of teaching or scholarly research. OMB may seek assurance from the requester that the request is in furtherance of teaching or scholarly research and will advise requesters of their placement in this category.
+
+(g) The term “non-commercial scientific institution” refers to an institution that is not operated on a commercial basis (as that term is referenced in paragraph (e) of this section) and that is operated solely for the purpose of conducting scientific research where the results of the research are not intended to promote any particular product or industry. A requester in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use.
+
+(h) The term “representative of the news media” refers to any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience.
+
+(i) The term “news” means information that is about current events or that would be of current interest to the public. Examples of news media entities include television or radio stations that broadcast “news” to the public at large and publishers of periodicals that disseminate “news” and make their products available through a variety of means to the general public, including news organizations that disseminate solely on the internet. A request for records supporting the news-dissemination function of the requester will not be considered to be for a commercial use. “Freelance” journalists who demonstrate a solid basis for expecting publication through a news media entity will be considered as a representative of the news media. A publishing contract would provide the clearest evidence that publication is expected; however, OMB can also consider a requester's past publication record in making this determination. OMB will advise requesters of their placement in this category.

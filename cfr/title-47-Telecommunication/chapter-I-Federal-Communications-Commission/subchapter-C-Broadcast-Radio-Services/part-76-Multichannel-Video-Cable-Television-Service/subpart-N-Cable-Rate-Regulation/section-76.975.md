@@ -1,5 +1,7 @@
 ##### § 76.975 Commercial leased access dispute resolution. #####
 
+Link to an amendment published at 84 FR 28769, June 20, 2019.
+
 (a) Any person aggrieved by the failure or refusal of a cable operator to make commercial channel capacity available in accordance with the provisions of Title VI of the Communications Act may bring an action in the district court of the United States for the Judicial district in which the cable system is located to compel that such capacity be made available.
 
 (b)(1) Any person aggrieved by the failure or refusal of a cable operator to make commercial channel capacity available or to charge rates for such capacity in accordance with the provisions of Title VI of the Communications Act, or our implementing regulations, §§ 76.970 and 76.971, may file a petition for relief with the Commission. Persons alleging that a cable operator's leased access rate is unreasonable must receive a determination of the cable operator's maximum permitted rate from an independent accountant prior to filing a petition for relief with the Commission.

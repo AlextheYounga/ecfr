@@ -1,5 +1,7 @@
 ##### § 2590.732 Special rules relating to group health plans. #####
 
+Link to an amendment published at 84 FR 29013, June 20, 2019.
+
 (a) *Group health plan* - (1) *Defined.* A group health plan means an employee welfare benefit plan to the extent that the plan provides medical care (including items and services paid for as medical care) to employees (including both current and former employees) or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.
 
 (2) *Determination of number of plans.* [Reserved]

@@ -1,5 +1,7 @@
 ##### § 21.3 Definitions. #####
 
+Link to an amendment published at 84 FR 28773, June 20, 2019.
+
 In addition to definitions contained in part 10 of this chapter, and unless the context requires otherwise, as used in this part:
 
 *Armed Forces* means the Army, Navy, Air Force, Marine Corps, Coast Guard, and the National Guard of any State.

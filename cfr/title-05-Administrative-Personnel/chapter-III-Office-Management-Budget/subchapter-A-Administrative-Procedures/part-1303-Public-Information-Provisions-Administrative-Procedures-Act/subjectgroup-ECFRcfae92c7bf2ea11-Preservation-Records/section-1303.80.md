@@ -1,0 +1,3 @@
+##### § 1303.80 Preservation of records. #####
+
+OMB will preserve all correspondence pertaining to the requests that it receives under this section, as well as copies of all requested records, until disposition or destruction is authorized pursuant to title 44 of the United States Code or NARA's General Records Schedule 4.2. OMB will not dispose of or destroy records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

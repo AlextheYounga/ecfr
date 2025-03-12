@@ -1,5 +1,7 @@
 ##### § 76.971 Commercial leased access terms and conditions. #####
 
+Link to an amendment published at 84 FR 28769, June 20, 2019.
+
 (a)(1) Cable operators shall place leased access programmers that request access to a tier actually used by most subscribers on any tier that has a subscriber penetration of more than 50 percent, unless there are technical or other compelling reasons for denying access to such tiers.
 
 (2) Cable operators shall be permitted to make reasonable selections when placing leased access channels at specific channel locations. The Commission will evaluate disputes involving channel placement on a case-by-case basis and will consider any evidence that an operator has acted unreasonably in this regard.

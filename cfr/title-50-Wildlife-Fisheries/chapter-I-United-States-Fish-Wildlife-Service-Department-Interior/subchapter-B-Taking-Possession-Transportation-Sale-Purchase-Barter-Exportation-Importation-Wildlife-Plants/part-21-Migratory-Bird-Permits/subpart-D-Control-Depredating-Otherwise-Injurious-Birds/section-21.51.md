@@ -1,5 +1,7 @@
 ##### § 21.51 Depredation order for resident Canada geese at agricultural facilities. #####
 
+Link to an amendment published at 84 FR 28773, June 20, 2019.
+
 (a) *Which Canada geese are covered by this order?* This regulation addresses the control and management of resident Canada geese, as defined in § 21.3.
 
 (b) *What is the depredation order for resident Canada geese at agricultural facilities, and what is its purpose?* The depredation order for resident Canada geese at agricultural facilities authorizes States and Tribes, via the State or Tribal wildlife agency, to implement a program to allow landowners, operators, and tenants actively engaged in commercial agriculture (agricultural producers) (or their employees or agents) to conduct direct damage management actions such as nest and egg destruction, gosling and adult trapping and culling programs, or other lethal and non-lethal wildlife-damage management strategies on resident Canada geese when the geese are committing depredations to agricultural crops and when necessary to resolve or prevent injury to agricultural crops or other agricultural interests from resident Canada geese.

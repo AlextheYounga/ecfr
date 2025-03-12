@@ -1,0 +1,11 @@
+##### § 1303.92 Fees to be charged—categories of requesters. #####
+
+There are four categories of FOIA requesters: Commercial use requesters; educational and non-commercial scientific institutions; representatives of the news media; and all other requesters. The specific levels of fees for each of these categories are:
+
+(a) *Commercial use requesters.* When OMB receives a request for documents for commercial use, it will assess charges that recover the full direct costs of searching for, reviewing for release, and duplicating the record sought. Commercial use requesters are not entitled to two hours of free search time nor 100 free pages of reproduction of documents. OMB may recover the cost of searching for and reviewing records even if there is ultimately no disclosure of records (*see* § 1303.93(b)).
+
+(b) *Educational and non-commercial scientific institution requesters.* OMB will provide documents to requesters in this category for the cost of reproduction alone, excluding charges for the first 100 pages. To be eligible for inclusion in this category, a requester must meet the criteria in § 1303.90(g) or (h). OMB may seek evidence from the requester that the request is in furtherance of scholarly research and will advise requesters of their placement in this category.
+
+(c) *Requesters who are representatives of the news media.* OMB will provide documents to requesters in this category for the cost of reproduction alone, excluding charges for the first 100 pages. To be eligible for inclusion in this category, a requester must meet the criteria in § 1303.90(i) and (j) and not make the request for commercial use. A request for records supporting the news dissemination function of the requester is not a commercial use for this category.
+
+(d) *All other requesters.* OMB will charge requesters who do not fit into any of the categories above fees that recover the full reasonable direct cost of searching for and reproducing records that are responsive to the request, except that the first 100 pages of reproduction and the first two hours of search time will be furnished without charge. Moreover, requests for records about the requesters filed in OMB's systems of records will continue to be treated under the fee provisions of the Privacy Act of 1974, which permit fees only for reproduction.

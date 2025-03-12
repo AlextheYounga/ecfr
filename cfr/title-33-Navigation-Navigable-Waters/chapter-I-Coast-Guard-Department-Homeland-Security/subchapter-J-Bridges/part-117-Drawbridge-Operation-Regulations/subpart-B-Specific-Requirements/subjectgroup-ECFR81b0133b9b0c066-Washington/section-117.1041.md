@@ -1,5 +1,7 @@
 ##### § 117.1041 Duwamish Waterway. #####
 
+Link to an amendment published at 84 FR 28732, June 20, 2019.
+
 (a) The draws of each bridge across the Duwamish Waterway shall open on signal, except as follows:
 
 (1) From Monday through Friday, except all Federal holidays but Columbus Day, the draws of the First Avenue South Bridges, mile 2.5, need not be opened for the passage of vessels from 6 a.m. to 9 a.m. and from 3 p.m. to 6 p.m., except: The draws shall open at any time for a vessel of 5000 gross tons and over, a vessel towing a vessel of 5000 gross tons and over, and a vessel proceeding to pick up for towing a vessel of 5000 gross tons and over.

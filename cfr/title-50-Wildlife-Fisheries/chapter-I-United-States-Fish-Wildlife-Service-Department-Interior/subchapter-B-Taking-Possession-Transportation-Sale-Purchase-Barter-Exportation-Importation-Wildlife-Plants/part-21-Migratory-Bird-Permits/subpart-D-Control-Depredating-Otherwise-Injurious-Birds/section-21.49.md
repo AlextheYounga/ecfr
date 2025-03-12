@@ -1,5 +1,7 @@
 ##### § 21.49 Control order for resident Canada geese at airports and military airfields. #####
 
+Link to an amendment published at 84 FR 28773, June 20, 2019.
+
 (a) *Which Canada geese are covered by this order?* This regulation addresses the control and management of resident Canada geese, as defined in § 21.3.
 
 (b) *What is the control order for resident Canada geese at airports, and what is its purpose?* The airport control order authorizes managers at commercial, public, and private airports (airports) (and their employees or their agents) and military air operation facilities (military airfields) (and their employees or their agents) to establish and implement a control and management program when necessary to resolve or prevent threats to public safety from resident Canada geese. Control and management activities include indirect and/or direct control strategies such as trapping and relocation, nest and egg destruction, gosling and adult trapping and culling programs, or other lethal and non-lethal control strategies.

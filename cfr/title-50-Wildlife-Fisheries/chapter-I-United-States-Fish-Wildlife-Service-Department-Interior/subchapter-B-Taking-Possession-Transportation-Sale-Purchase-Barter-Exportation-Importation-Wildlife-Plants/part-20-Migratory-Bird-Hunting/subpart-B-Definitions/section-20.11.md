@@ -1,5 +1,7 @@
 ##### § 20.11 What terms do I need to understand? #####
 
+Link to an amendment published at 84 FR 28773, June 20, 2019.
+
 For the purpose of this part, the following terms shall be construed, respectively, to mean and to include:
 
 (a) *Migratory game birds* means those migratory birds included in the terms of conventions between the United States and any foreign country for the protection of migratory birds, for which open seasons are prescribed in this part and belong to the following families:

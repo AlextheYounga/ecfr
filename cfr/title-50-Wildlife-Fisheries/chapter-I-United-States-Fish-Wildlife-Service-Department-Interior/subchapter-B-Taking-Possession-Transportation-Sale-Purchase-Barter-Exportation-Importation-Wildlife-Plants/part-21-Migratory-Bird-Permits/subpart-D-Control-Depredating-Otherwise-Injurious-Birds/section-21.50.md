@@ -1,5 +1,7 @@
 ##### § 21.50 Depredation order for resident Canada geese nests and eggs. #####
 
+Link to an amendment published at 84 FR 28773, June 20, 2019.
+
 (a) *Which Canada geese are covered by this order?* This regulation addresses the control and management of resident Canada geese, as defined in § 21.3.
 
 (b) *What is the depredation order for resident Canada geese nests and eggs, and what is its purpose?* The nest and egg depredation order for resident Canada geese authorizes private landowners and managers of public lands (landowners); homeowners' associations; and village, town, municipality, and county governments (local governments); and the employees or agents of any of these persons or entities to destroy resident Canada goose nests and eggs on property under their jurisdiction when necessary to resolve or prevent injury to people, property, agricultural crops, or other interests.
