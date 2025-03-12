@@ -1,5 +1,7 @@
 ##### § 5400.0-3 Authority. #####
 
+Link to an amendment published at 85 FR 82373, Dec. 18, 2020.
+
 (a) The Act of August 28, 1937 (43 U.S.C. 1181a) authorizes the sale of timber from the Revested Oregon and California Railroad and Reconveyed Coos Bay Wagon Road Grant Lands and directs that such lands shall be managed for permanent forest production and the timber thereon sold, cut and removed in conformity with the principle of sustained yield for the purpose of providing a permanent source of timber supply, protecting watersheds, regulating streamflow and contributing to the economic stability of local communities and industries, and providing recreational facilities.
 
 (b) The Act of July 31, 1947, as amended (30 U.S.C. 601 *et seq.*) authorizes the disposal of timber and other vegetative resources on public lands of the United States including lands embraced within an unpatented mining claim located after July 23, 1955, if the disposal of such resources is not otherwise expressly authorized by law including, but not limited to, the Act of June 28, 1934, as amended (43 U.S.C. 315 through 315o-1) and the U.S. mining laws; is not expressly prohibited by laws of the United States; and would not be detrimental to the public interest.

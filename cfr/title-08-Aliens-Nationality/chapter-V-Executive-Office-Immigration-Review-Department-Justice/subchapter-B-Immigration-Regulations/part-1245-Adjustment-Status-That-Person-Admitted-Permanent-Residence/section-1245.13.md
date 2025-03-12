@@ -1,5 +1,7 @@
 ##### § 1245.13 Adjustment of status of certain nationals of Nicaragua and Cuba under Public Law 105-100. #####
 
+Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
+
 (a) *Aliens eligible to apply for adjustment.* An alien is eligible to apply for adjustment of status under the provisions of section 202 of Pub. L. 105-100 as amended and without regard to section 241(a)(5) of the Act, if the alien:
 
 (1) Is a national of Nicaragua or Cuba;

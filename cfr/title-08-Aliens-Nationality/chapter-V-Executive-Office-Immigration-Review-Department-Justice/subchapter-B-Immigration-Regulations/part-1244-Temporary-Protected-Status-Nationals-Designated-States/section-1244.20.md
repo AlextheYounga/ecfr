@@ -1,5 +1,7 @@
 ##### § 1244.20 Waiver of fees. #####
 
+Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
+
 (a) Any of the fees prescribed in 8 CFR 103.7(b) which relate to applications to the district director or service center director for Temporary Protected Status may be waived if the applicant establishes that he or she is unable to pay the prescribed fee. The applicant will have established his or her inability to pay when the adjudicating officer concludes, on the basis of the requisite affidavit and of any other information submitted, that it is more probable than not that:
 
 (1) The applicant's gross income from all sources for the three-month period prior to the filing of the fee waiver request, including income received or earned by any dependent in the United States, was equaled or exceeded by essential expenditures for such three-month period; and

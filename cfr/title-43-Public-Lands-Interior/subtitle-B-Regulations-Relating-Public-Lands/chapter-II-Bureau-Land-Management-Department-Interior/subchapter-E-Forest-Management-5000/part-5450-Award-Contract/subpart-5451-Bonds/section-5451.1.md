@@ -1,5 +1,7 @@
 ##### § 5451.1 Minimum performance bond requirements; types. #####
 
+Link to an amendment published at 85 FR 82375, Dec. 18, 2020.
+
 (a) A minimum performance bond of not less than 20 percent of the total contract price shall be required for all contracts of $2,500 or more, but the amount of the bond shall not be in excess of $500,000, except when the purchaser opts to increase the minimum bond as provided in § 5451.2 of this title. A minimum performance bond of not less than $500 will be required for all installment contracts less than $2,500. For cash sales less than $2,500, bond requirements, if any, will be in the discretion of the authorized officer. The performance bond may be:
 
 (1) Bond of a corporate surety shown on the approved list issued by the United States Treasury Department and executed on an approved standard form; or

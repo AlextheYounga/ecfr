@@ -1,5 +1,7 @@
 ##### § 5424.1 Reporting provisions for substitution determination. #####
 
+Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
+
 (a) To determine whether substitution has occurred, the authorized officer may require that information identified in the contract be reported by:
 
 (1) A purchaser who has exported private timber within one year preceding the purchase date of Federal timber, and/or

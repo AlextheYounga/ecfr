@@ -1,5 +1,7 @@
 ##### § 1245.20 Adjustment of status of Syrian asylees under Public Law 106-378. #####
 
+Link to an amendment published at 85 FR 82795, Dec. 18, 2020.
+
 (a) *Eligibility.* An alien is eligible to apply to adjust status under Public Law 106-378 if the alien is:
 
 (1) A Jewish national of Syria;

@@ -1,5 +1,7 @@
 ##### § 5400.0-5 Definitions. #####
 
+Link to an amendment published at 85 FR 82373, Dec. 18, 2020.
+
 Except as the context may otherwise indicate, as the terms are used in parts 5400-5490 of this chapter and in contracts issued thereunder:
 
 *Affiliate* means a business entity including but not limited to an individual, partnership, corporation, or association, which controls or is controlled by a purchaser, or, along with a purchaser, is controlled by a third business entity.

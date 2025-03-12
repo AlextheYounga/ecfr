@@ -1,5 +1,7 @@
 ##### § 5424.0-6 Policy. #####
 
+Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
+
 (a) All timber sales shall be made on contract or permit forms approved by the Director, BLM.
 
 (b) Other than for incidental use, the severance and/or removal of any vegetative resource for personal or commercial use requires a written contract or permit issued by the authorized officer or other person authorized by the United States. All contracts or permits shall contain the following:

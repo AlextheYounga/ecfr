@@ -1,5 +1,7 @@
 ##### § 5473.4 Approval of request. #####
 
+Link to an amendment published at 85 FR 82375, Dec. 18, 2020.
+
 (a) If the purchaser shows that his delay in cutting or removal was due to causes beyond his control and without his fault or negligence, the contracting officer may grant an extension of time, upon written request by the purchaser. Such extension will not exceed one year, and will require an appraisal, if the delay was not imposed by the United States or any State government agency as provided by paragraph (c) of this section. Market fluctuations are not cause for consideration of contract extensions. Additional extensions may be granted upon written request by the purchaser.
 
 (b) Notwithstanding the provisions of paragraph (a) of this section requiring reappraisal if the delay was not imposed by the United States or any State government under paragraph (c) of this section, the contracting officer may grant an extension of time, without reappraisal, not to exceed enough time to provide 30 days of operating time, if the delay was due to causes beyond the purchaser's control and without his fault or negligence. No additional extensions may be granted without reappraisal under the provisions of this paragraph.

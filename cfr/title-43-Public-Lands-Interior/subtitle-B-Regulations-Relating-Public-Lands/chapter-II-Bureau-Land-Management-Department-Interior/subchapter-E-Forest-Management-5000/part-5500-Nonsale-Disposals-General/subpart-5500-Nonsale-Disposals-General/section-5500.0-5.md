@@ -1,5 +1,7 @@
 ##### § 5500.0-5 Definitions. #####
 
+Link to an amendment published at 85 FR 82375, Dec. 18, 2020.
+
 Except as the context may otherwise indicate, as the terms are used in parts 5500 through 5520 of this chapter and in contracts issued thereunder:
 
 (a) *Bureau* means the Bureau of Land Management, Department of the Interior.

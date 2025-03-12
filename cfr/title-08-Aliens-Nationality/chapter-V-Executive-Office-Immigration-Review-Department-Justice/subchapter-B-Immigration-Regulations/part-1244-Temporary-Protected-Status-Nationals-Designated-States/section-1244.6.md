@@ -1,5 +1,7 @@
 ##### § 1244.6 Application. #####
 
+Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
+
 An application for Temporary Protected Status must be made in accordance with § 103.2 of this chapter except as provided in this section. Each application must be filed with the fee, as provided in § 103.7 of this chapter by each individual seeking temporary protected status, except that the filing fee for the Form I-765 will be charged only for those applicants between the ages of 14 and 65 (inclusive) who are requesting employment authorization. Each application must include a completed Form I-821, Application for Temporary Protected Status, Form I-765, Application for Employment Authorization, two identification photographs (11/2″ × 11/2″), and supporting evidence as provided in § 1244.9. Every applicant who is 14 years of age or older must be fingerprinted on Form FD-258, Applicant Card, as prescribed in § 103.2(e) of this chapter.
 
 [64 FR 4781, Feb. 1, 1999]

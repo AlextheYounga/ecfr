@@ -1,5 +1,7 @@
 ##### § 1245.10 Adjustment of status upon payment of additional sum under section 245(i). #####
 
+Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
+
 (a) *Definitions.* As used in this section the term:
 
 (1)(i) *Grandfathered alien* means an alien who is the beneficiary (including a spouse or child of the alien beneficiary if eligible to receive a visa under section 203(d) of the Act) of:

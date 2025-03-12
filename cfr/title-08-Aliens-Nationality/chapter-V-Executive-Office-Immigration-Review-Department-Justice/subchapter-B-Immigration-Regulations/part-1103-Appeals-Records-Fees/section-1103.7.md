@@ -1,6 +1,6 @@
 ##### § 1103.7 Fees. #####
 
-Link to an amendment published at 85 FR 81750, Dec. 16, 2020.
+Link to an amendment published at 85 FR 81750, Dec. 16, 2020.Link to an amendment published at 85 FR 82793, Dec. 18, 2020.
 
 (a) *Remittances - (1) In general.* Fees shall be submitted in connection with any formal appeal, motion, or application prescribed in this chapter in the amount prescribed by law or regulation. Payment of any fee under this section does not constitute filing of the appeal, motion, or application with the Board of Immigration Appeals or with the immigration court.
 

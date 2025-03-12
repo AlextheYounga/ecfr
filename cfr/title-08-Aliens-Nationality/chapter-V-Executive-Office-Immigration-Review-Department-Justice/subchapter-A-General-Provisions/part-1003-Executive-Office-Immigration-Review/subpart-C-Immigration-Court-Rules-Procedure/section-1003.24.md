@@ -1,6 +1,6 @@
 ##### § 1003.24 Fees pertaining to matters within the jurisdiction of an immigration judge. #####
 
-Link to an amendment published at 85 FR 81750, Dec. 16, 2020.
+Link to an amendment published at 85 FR 81750, Dec. 16, 2020.Link to an amendment published at 85 FR 82793, Dec. 18, 2020.
 
 (a) *Generally.* All fees for the filing of motions and applications in connection with proceedings before the immigration judges are paid to the Department of Homeland Security in accordance with 8 CFR 103.7, including fees for applications published by the Executive Office for Immigration Review. The immigration court does not collect fees.
 

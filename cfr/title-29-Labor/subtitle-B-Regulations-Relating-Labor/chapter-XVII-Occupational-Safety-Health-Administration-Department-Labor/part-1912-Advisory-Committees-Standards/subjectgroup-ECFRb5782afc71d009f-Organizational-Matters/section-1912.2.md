@@ -1,4 +1,4 @@
-##### § 1912.2 Types of standards advisory committees. #####
+##### § 1912.285 FR 73423, Nov. 18, 2020 Types of standards advisory committees. #####
 
 The Assistant Secretary establishes two types of advisory committees under section 7(b) of the Act to assist him in his standards-setting duties. These are:
 

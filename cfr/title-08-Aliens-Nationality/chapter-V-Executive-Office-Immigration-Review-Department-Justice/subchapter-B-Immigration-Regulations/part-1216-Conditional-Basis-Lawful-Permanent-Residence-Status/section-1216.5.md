@@ -1,5 +1,7 @@
 ##### § 1216.5 Waiver of requirement to file joint petition to remove conditions by alien spouse. #####
 
+Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
+
 (a) *General.* (1) A conditional resident alien who is unable to meet the requirements under section 216 of the Act for a joint petition for removal of the conditional basis of his or her permanent resident status may file Form I-751, Petition to Remove the Conditions on Residence, if the alien requests a waiver, was not at fault in failing to meet the filing requirement, and the conditional resident alien is able to establish that:
 
 (i) Deportation or removal from the United States would result in extreme hardship;

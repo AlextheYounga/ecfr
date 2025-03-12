@@ -1,5 +1,7 @@
 ##### § 5402.0-6 Policy. #####
 
+Link to an amendment published at 85 FR 82373, Dec. 18, 2020.
+
 (a) When it is determined by the authorized officer to be in the public interest, he may sell at not less than the appraised value, without advertising or calling for bids, timber where the contract is for the sale of less than 250 M board feet.
 
 (b) Timber on the right-of-way of a logging road and danger trees adjacent to the right-of-way on O. and C. lands may be sold at not less than the appraised value without advertising or calling for bids to (1) permittee who constructs a road pursuant to a permit issued under Subpart 2800 of this chapter, or (2) a contractor who is constructing a road with Government funds.

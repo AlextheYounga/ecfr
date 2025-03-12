@@ -1,5 +1,7 @@
 ##### § 37.3 Requirements and procedures for registration. #####
 
+Link to an amendment published at 85 FR 82329, Dec. 18, 2020.
+
 (a) *Requirements for registration.* (1) Any person operating a facility that offers a trading system or platform in which more than one market participant has the ability to execute or trade swaps with more than one other market participant on the system or platform shall register the facility as a swap execution facility under this part or as a designated contract market under part 38 of this chapter.
 
 (2) *Minimum trading functionality.* A swap execution facility shall, at a minimum, offer an Order Book as defined in paragraph (a)(3) of this section.

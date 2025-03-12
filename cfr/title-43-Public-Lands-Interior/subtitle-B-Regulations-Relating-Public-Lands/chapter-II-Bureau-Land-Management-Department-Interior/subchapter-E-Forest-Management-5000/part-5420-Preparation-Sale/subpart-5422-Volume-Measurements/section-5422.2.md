@@ -1,5 +1,7 @@
 ##### § 5422.2 Scale sales. #####
 
+Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
+
 (a) Scaling by the Bureau will be used from time to time for administrative reasons. Such reasons would include but not be limited to the following: To improve cruising standards; check accuracy of cruising practices; for volumetric analysis; and for highly defective timber where it is impossible to determine the tree cruise volume within a reasonable degree of accuracy.
 
 (b) (1) BLM may order third party scaling after determining that all of the following factors exist:

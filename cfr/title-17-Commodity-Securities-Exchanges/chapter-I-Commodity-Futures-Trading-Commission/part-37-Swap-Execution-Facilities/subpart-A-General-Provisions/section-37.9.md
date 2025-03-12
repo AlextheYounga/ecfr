@@ -1,5 +1,7 @@
 ##### § 37.9 Methods of execution for required and permitted transactions. #####
 
+Link to an amendment published at 85 FR 82329, Dec. 18, 2020.
+
 (a) *Execution methods for required transactions.* (1) *Required transaction* means any transaction involving a swap that is subject to the trade execution requirement in section 2(h)(8) of the Act.
 
 (2) *Execution methods.* (i) Each Required Transaction that is not a block trade as defined in § 43.2 of this chapter shall be executed on a swap execution facility in accordance with one of the following methods of execution:
