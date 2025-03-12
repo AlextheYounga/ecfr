@@ -1,6 +1,6 @@
 ##### § 235.6 Referral to immigration judge. #####
 
-Link to an amendment published at 85 FR 80393, Dec. 11, 2020.
+Link to an amendment published at 85 FR 80393, Dec. 11, 2020.Link to an amendment published at 85 FR 84196, Dec. 23, 2020.
 
 (a) *Notice* - (1) *Referral by Form I-862, Notice to Appear.* An immigration officer or asylum officer will sign and deliver a Form I-862 to an alien in the following cases:
 

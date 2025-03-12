@@ -1,7 +1,5 @@
 ##### § 660.604 Vessel and first receiver responsibilities. #####
 
-Link to an amendment published at 85 FR 74614, Nov. 23, 2020.
-
 (a) *General.* This section lays out the requirements for catcher vessels to obtain an exemption to use EM in place of 100-percent observer coverage required by the Shorebased IFQ Program (§ 660.140(h)(1)(i)) and MS Co-op Program (§ 660.150(j)(1)(i)(B)). Requirements are also described for first receivers receiving landings from EM trips.
 
 (b) *Vessel owner responsibilities.* To use EM under this section, vessel owners must:
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 74614, Nov. 23, 2020.
 
 (d) *First receiver responsibilities.* First receivers receiving catch from trips taken under EM must follow special disposition and sorting requirements for prohibited and protected species (*see* § 660.604(u)).
 
-(e) *Electronic Monitoring Authorization.* To obtain an EM Authorization, a vessel owner must submit an initial application to the NMFS West Coast Region Fisheries Permit Office, then a final application that includes an EM system certification and a vessel monitoring plan (VMP). NMFS will only review complete applications. A vessel owner may submit an application at any time. Vessel owners that want to have their Authorizations effective for January 1 of the following calendar year must submit their complete application to NMFS by October 1. Vessel owners that want to have their Authorizations effective for May 15 must submit their complete application to NMFS by February 15 of the same year.
+(e) *Electronic Monitoring Authorization.* To obtain an EM Authorization, a vessel owner must submit an initial application to the NMFS West Coast Region Fisheries Permit Office, then a final application that includes an EM system certification and a vessel monitoring plan (VMP). NMFS will only review complete applications. NMFS has already accepted any EM Authorization application submitted as of the November 23, 2020. NMFS will begin accepting applications for EM Authorizations September 1, 2021. A vessel owner may submit an application at any time. Vessel owners that want to have their EM Authorizations effective for January 1 of the following calendar year must submit their complete application to NMFS by October 1. Vessel owners that want to have their EM Authorizations effective for May 15 must submit their complete application to NMFS by February 15 of the same year.
 
 (1) *Initial application.* To be considered for an EM Authorization, the vessel owner must submit a completed application form provided by NMFS, signed and dated by an authorized representative of the vessel, and meet the following eligibility criteria:
 
@@ -282,4 +280,4 @@ Link to an amendment published at 85 FR 74614, Nov. 23, 2020.
 
 (ii) *Seabirds, marine mammals, and sea turtles.* Albatross must reported to the U.S. Fish and Wildlife Service (541-867-4558 extension 237 or 503-231-6179 as soon as possible and directions for surrendering must be followed. Marine mammals and sea turtles must be reported to NMFS as soon as possible (206-526-6550) and directions for surrendering or disposal must be followed. Whole body specimens must be labeled with the vessel name, electronic fish ticket number, and date of landing. Whole body specimens must be kept frozen or on ice until arrangements for surrendering or disposing are completed. Unless directed otherwise, after reporting is completed, seabirds, marine mammals, and sea turtles may be disposed by incinerating, rendering, composting, or returning the carcasses to sea.
 
-[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019; 84 FR 67680, Dec. 11, 2019]
+[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019, as amended at 84 FR 67680, Dec. 11, 2019; 85 FR 74614, Nov. 23, 2020]

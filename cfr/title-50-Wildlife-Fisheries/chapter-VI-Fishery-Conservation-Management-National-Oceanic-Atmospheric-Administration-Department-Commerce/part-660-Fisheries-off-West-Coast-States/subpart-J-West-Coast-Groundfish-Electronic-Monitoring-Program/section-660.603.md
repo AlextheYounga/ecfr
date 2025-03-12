@@ -1,7 +1,5 @@
 ##### § 660.603 Electronic monitoring provider permits and responsibilities. #####
 
-Link to an amendment published at 85 FR 74614, Nov. 23, 2020.
-
 (a) *General.* This section contains requirements for EM service providers providing EM services, pursuant to contracts with vessel owners whose vessels operate in the Shorebased IFQ Program (§ 660.140) or the MS Co-op Program (§ 660.150) and use EM under this subpart. A person must obtain a permit and endorsement as provided under § 660.603(b) in order to be an EM service provider. An EM service provider must:
 
 (1) Operate under a NMFS-accepted EM Service Plan (*see* § 660.603(b)(3)(vii)).
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 74614, Nov. 23, 2020.
 
 (6) Comply with data integrity and security requirements, including requirements pertaining to hard drives and data files containing EM data, (*see* § 660.603(n)).
 
-(b) *Provider permits.* To be an EM service provider, a person must obtain an EM service provider permit and endorsement by submitting an application to the NMFS West Coast Region Fisheries Permit Office. A person may meet some requirements of this section through a partnership or subcontract with another entity, in which case the application for an EM service provider permit must include information about the partnership. An applicant may submit an application at any time. If a new EM service provider, or an existing EM service provider seeking to deploy a new EMS or software version, submits an application by June 1, NMFS will issue a new permit by January 1 of the following calendar year. Applications submitted after June 1 will be processed as soon as practicable. NMFS will only process complete applications. Additional endorsements to provide observer or catch monitor services may be obtained under § 660.18.
+(b) *Provider permits.* To be an EM service provider, a person must obtain an EM service provider permit and endorsement by submitting an application to the NMFS West Coast Region Fisheries Permit Office. NMFS has already accepted any EM service provider application submitted as of November 23, 2020. NMFS will begin accepting additional applications for EM service providers permits May 1, 2021. A person may meet some requirements of this section through a partnership or subcontract with another entity, in which case the application for an EM service provider permit must include information about the partnership. An applicant may submit an application at any time. If a new EM service provider, or an existing EM service provider seeking to deploy a new EMS or software version, submits an application by June 1, NMFS will issue a new permit by January 1 of the following calendar year. Applications submitted after June 1 will be processed as soon as practicable. NMFS will only process complete applications. Additional endorsements to provide observer or catch monitor services may be obtained under § 660.18.
 
 (1) *Contents of provider application.* To be considered for an EM service provider permit and endorsement, the service provider must submit a complete application that includes the following information. The same information must be included for any partners or subcontractors if the applicant intends to satisfy any of the EM service provider requirements through a partnership or contractual relationship with another entity.
 
@@ -255,3 +253,5 @@ Link to an amendment published at 85 FR 74614, Nov. 23, 2020.
 (2) Must not write to or modify any EM hard drive or other medium that contains EM data before it has been copied and catalogued.
 
 (3) Must not release a vessel's EM data and other records specified in this section (including documents containing such data and observations or summaries thereof) except to NMFS and authorized officers as provided in § 660.603(m)(6), or as authorized by the owner or operator of the vessel.
+
+[84 FR 31160, June 28, 2019, as amended at 85 FR 74614, Nov. 23, 2020]

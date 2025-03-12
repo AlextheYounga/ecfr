@@ -22,7 +22,7 @@
 
 (5) *RS requirements that apply to Iraq.* As indicated on the CCL, a license is required for the export or reexport to Iraq or transfer within Iraq of the following items controlled for RS reasons on the CCL: 0B999, 0D999, 1B999, 1C992, 1C995, 1C997, 1C999 and 6A992. The Commerce Country Chart is not designed to determine RS licensing requirements for these ECCNs.
 
-(6) *RS requirement that applies to Hong Kong.* A license is required to export or reexport to Hong Kong any item controlled in ECCN 6A003.b.4.b
+(6) [Reserved]
 
 (7) *RS requirement that applies to the People's Republic of China (China), Russia, or Venezuela.* A license is required to export or reexport to China, Russia, or Venezuela any item described in a .y paragraph of a 9x515 or “600 series” ECCN, except for exports or reexports to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS. (See § 740.11(e)(1) of the EAR for a definition of the ISS.)
 

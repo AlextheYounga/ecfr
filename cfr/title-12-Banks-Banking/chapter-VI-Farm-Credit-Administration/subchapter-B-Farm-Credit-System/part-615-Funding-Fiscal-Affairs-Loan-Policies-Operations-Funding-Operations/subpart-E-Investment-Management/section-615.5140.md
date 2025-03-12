@@ -1,7 +1,5 @@
 ##### § 615.5140 Eligible investments. #####
 
-Link to an amendment published at 85 FR 62949, Oct. 6, 2020.Link to a correction published at 85 FR 70955, Nov. 6, 2020.
-
 (a) *Farm Credit banks* - (1) *Investment eligibility criteria.* A Farm Credit bank may purchase an investment only if it satisfies the following investment eligibility criteria:
 
 (i) The investment must be purchased and held for one or more investment purposes authorized in § 615.5132.
@@ -36,9 +34,13 @@ Link to an amendment published at 85 FR 62949, Oct. 6, 2020.Link to a correction
 
 (b) *Farm Credit associations* - (1) *Risk management investments.* Each Farm Credit System association, with the approval of its funding bank, may purchase and hold investments to manage risks. Each association must identify and evaluate how the investments that it purchases contributes to management of its risks. Only securities that are issued by, or are unconditionally guaranteed or insured as to the timely payment of principal and interest by, the United States Government or its agencies are investments that associations may acquire for risk management purposes under this paragraph (b).
 
-(2) *Secondary market Government-guaranteed loans.* Loans purchased in the secondary market that are unconditionally guaranteed or insured by the U.S. Government or its agencies as to principal and interest are not eligible risk management investments under this paragraph (b).
+(2) *Secondary market Government-guaranteed loans.* In addition to investing in the securities described in paragraph (b)(1) of this section, each Farm Credit System association may also manage risk by holding those portions of loans that:
 
-(3) *Risk management requirements.* Each association that purchases investments for risk management must document how its investment activities contribute to managing risks as required by paragraph (b)(1) of this section. Such documentation must address and evidence that the association:
+(i) Lenders, which are not Farm Credit System institutions, originate and then sell in the secondary market; and
+
+(ii) The United States Department of Agriculture fully and unconditionally guarantees or insures as to both principal and interest.
+
+(3) *Risk management requirements.* Each association that purchases investments pursuant to paragraphs (b)(1) and (2) of this section must document how its investment activities contribute to managing risks as required by paragraph (b)(1) of this section. Such documentation must address and evidence that the association:
 
 (i) Complies with § 615.5133(a), (b), (c), (d), (e), (h), and (i). These investment management processes must be appropriate for the size, risk and complexity of the association's investment portfolio.
 
@@ -86,4 +88,4 @@ Link to an amendment published at 85 FR 62949, Oct. 6, 2020.Link to a correction
 
 (e) *Other investments approved by FCA.* You may purchase and hold investments that we approve. Your request for our approval must explain the risk characteristics of the investment and your purpose and objectives for making the investment.
 
-[83 FR 27502, June 12, 2018; 83 FR 30833, July 2, 2018]
+[83 FR 27502, June 12, 2018; 83 FR 30833, July 2, 2018, as amended at 85 FR 62949, Oct. 6, 2020; 85 FR 70955, Nov. 6, 2020]
