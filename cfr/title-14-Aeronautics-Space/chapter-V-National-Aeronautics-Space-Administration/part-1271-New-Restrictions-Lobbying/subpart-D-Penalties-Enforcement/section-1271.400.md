@@ -2,7 +2,7 @@
 
 (a) Any person who makes an expenditure prohibited herein shall be subject to a civil penalty of not less than $18,936 and not more than $189,361 for each such expenditure.
 
-(b) Any person who fails to file or amend the disclosure form (see appendix B) to be filed or amended if required herein, shall be subject to a civil penalty of not less than $18,936 and not more than $189,361 for each such failure.
+(b) Any person who fails to file or amend the disclosure form (see appendix B) to be filed or amended if required herein, shall be subject to a civil penalty of not less than $18,936 and not more than $189,361for each such failure.
 
 (c) A filing or amended filing on or after the date on which an administrative action for the imposition of a civil penalty is commenced does not prevent the imposition of such civil penalty for a failure occurring before that date. An administrative action is commenced with respect to a failure when an investigating official determines in writing to commence an investigation of an allegation of such failure.
 

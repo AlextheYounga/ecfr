@@ -1,3 +1,5 @@
-##### § 1001.11 xxx #####
+##### § 1001.11 Other rights and services. #####
 
-Link to an amendment published at 82 FR 34837, July 27, 2017.
+Nothing in this subpart shall be construed to entitle any person, as of right, to any service or to the disclosure of any record to which such person is not entitled under the FOIA.
+
+[82 FR 34837, July 27, 2017]

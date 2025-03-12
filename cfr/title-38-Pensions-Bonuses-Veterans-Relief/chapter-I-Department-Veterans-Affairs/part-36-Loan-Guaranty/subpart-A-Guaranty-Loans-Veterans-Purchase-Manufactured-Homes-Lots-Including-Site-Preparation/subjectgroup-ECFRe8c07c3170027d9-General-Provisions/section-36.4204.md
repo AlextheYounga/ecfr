@@ -152,9 +152,9 @@ Subtract from the manufacturer's invoice cost the manufactuer's invoice cost of 
 
 (Authority: 38 U.S.C. 3712 (a)(1)(G), (a)(5) and (g))
 
-(d) A loan for any of the purposes described in paragraphs (a)(1) through (6) of this section may include an amount determined by the Secretary to be appropriate to cover the cost of necessary preparation of a lot already owned or to be acquired by the veteran, including the costs of installing utility connections and sanitary facilities, of paving, and of constructing a suitable pad for the manufactured home.
+(e) A loan for any of the purposes described in paragraphs (a)(1) through (6) of this section may include an amount determined by the Secretary to be appropriate to cover the cost of necessary preparation of a lot already owned or to be acquired by the veteran, including the costs of installing utility connections and sanitary facilities, of paving, and of constructing a suitable pad for the manufactured home.
 
-(e) The maximum permissible loan terms shall not exceed;
+(f) The maximum permissible loan terms shall not exceed:
 
 (1) 20 years and 32 days in the case of a loan to purchase a single-wide manufactured home or a single-wide manufactured home and lot;
 
@@ -166,10 +166,10 @@ Subtract from the manufacturer's invoice cost the manufactuer's invoice cost of 
 
 (Authority: 38 U.S.C. 3712(a)(1) and (2), (d)(1), (e)(4)(B))
 
-(f) An itemized list of all items included in the manufactured home loan as enumerated in § 36.4232 shall be provided to both the purchaser and the Secretary. At the time of loan origination an independent fee inspection shall be conducted to assure that all items included in the loan amount are accounted for and in place. A similar inspection will be conducted in the event of repossession immediately prior to repossession. The costs of the fee inspections may be included in the loan amount or the claim amount and charged to the borrower pursuant to the provisions of § 36.4232 (a) and (b).
+(g) An itemized list of all items included in the manufactured home loan as enumerated in § 36.4232 shall be provided to both the purchaser and the Secretary. At the time of loan origination an independent fee inspection shall be conducted to assure that all items included in the loan amount are accounted for and in place. A similar inspection will be conducted in the event of repossession immediately prior to repossession. The costs of the fee inspections may be included in the loan amount or the claim amount and charged to the borrower pursuant to the provisions of § 36.4232 (a) and (b).
 
-(The information collection requirements contained in § 36.4204(f) were approved by the Office of Management and Budget under OMB control number 2900-0516)
+(The information collection requirements contained in § 36.4204(g) were approved by the Office of Management and Budget under OMB control number 2900-0516)
 
-(g) The cost of the transaction which cannot be paid from the proceeds of the loan must be paid by the veteran in cash from the veteran's own resources. Except for interest rate reduction refinancing loans pursuant to paragraph (a)(7) of this section or loans to refinance a manufactured home and to buy a lot pursuant to paragraph (a)(8) of this section, closing costs and prepaid items incident to the real estate portion of any manufactured home loan must be paid in cash and may not be included in the loan amount.
+(h) The cost of the transaction which cannot be paid from the proceeds of the loan must be paid by the veteran in cash from the veteran's own resources. Except for interest rate reduction refinancing loans pursuant to paragraph (a)(7) of this section or loans to refinance a manufactured home and to buy a lot pursuant to paragraph (a)(8) of this section, closing costs and prepaid items incident to the real estate portion of any manufactured home loan must be paid in cash and may not be included in the loan amount.
 
-(Authority: 38 U.S.C. 3712 (a)(4), (a)(5), (g))[48 FR 40227, Sept. 6, 1983, as amended at 54 FR 34988, Aug. 23, 1989; 58 FR 37858, July 14, 1993]
+(Authority: 38 U.S.C. 3712 (a)(4), (a)(5), (g))[48 FR 40227, Sept. 6, 1983, as amended at 54 FR 34988, Aug. 23, 1989; 58 FR 37858, July 14, 1993; 82 FR 40700, Aug. 28, 2017]

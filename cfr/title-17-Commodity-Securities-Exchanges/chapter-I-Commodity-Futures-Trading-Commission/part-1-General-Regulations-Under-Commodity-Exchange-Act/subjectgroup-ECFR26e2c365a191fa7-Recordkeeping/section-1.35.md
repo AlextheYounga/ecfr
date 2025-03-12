@@ -1,8 +1,6 @@
 ##### § 1.35 Records of commodity interest and related cash or forward transactions. #####
 
-Link to an amendment published at 82 FR 24487, May 30, 2017.
-
-(a) *Futures commission merchants, retail foreign exchange dealers, introducing brokers, and members of designated contract markets or swap execution facilities* - (1) *Futures commission merchants, retail foreign exchange dealers, and certain introducing brokers.* Each futures commission merchant, retail foreign exchange dealer, and introducing broker that has generated over the preceding three years more than $5 million in aggregate gross revenues from its activities as an introducing broker, shall:
+(a) *Futures commission merchants, retail foreign exchange dealers, introducing brokers, and members of designated contract markets or swap execution facilities*—(1) *Futures commission merchants, retail foreign exchange dealers, and certain introducing brokers.* Each futures commission merchant, retail foreign exchange dealer, and introducing broker that has generated over the preceding three years more than $5 million in aggregate gross revenues from its activities as an introducing broker, shall:
 
 (i) Keep full, complete, and systematic records (including all pertinent data and memoranda) of all transactions relating to its business of dealing in commodity interests and related cash or forward transactions, which shall include all orders (filled, unfilled, or canceled), trading cards, signature cards, street books, journals, ledgers, canceled checks, copies of confirmations, copies of statements of purchase and sale, and all other records, which have been prepared in the course of its business of dealing in commodity interests and related cash or forward transactions (for purposes of this section, all records described in this paragraph (a)(1)(i) are referred to as “*commodity interest and related records*”);
 
@@ -30,11 +28,7 @@ Link to an amendment published at 82 FR 24487, May 30, 2017.
 
 (iii) All oral pre-trade communications that lead to the purchase or sale of any commodity for future delivery, security futures product, swap, or commodity option authorized under section 4c of the Commodity Exchange Act for the account of any person other than such floor broker.
 
-(5) *Form and manner.* All records required to be kept pursuant to paragraphs (a)(1), (2), (3), and (4) of this section shall be kept in a form and manner that:
-
-(i) Permits prompt, accurate, and reliable location, access, and retrieval of any particular record, data, or information; and
-
-(ii) Other than pre-trade communications, allows for identification of a particular transaction.
+(5) *Form and manner.* All records required to be kept pursuant to paragraphs (a)(1), (a)(2), (a)(3), and (a)(4) of this section, other than pre-trade communications, shall be kept in a form and manner that allows for the identification of a particular transaction.
 
 (6) *Unregistered members of designated contract markets or swap execution facilities.* Each member of a designated contract market or swap execution facility that is not registered or required to be registered with the Commission in any capacity, shall keep all transaction records; *provided* that such records need not include transmissions by short message service (SMS) or multimedia messaging service (MMS).
 
@@ -200,10 +194,10 @@ Link to an amendment published at 82 FR 24487, May 30, 2017.
 
 (iv) Was trading for any other type of customer.
 
-(2) The record required by this paragraph (g) shall also show, by appropriate and uniform symbols, any transaction which is made non-competitively in accordance with the provisions of subpart J of part 38 of this chapter, and trades cleared on dates other than the date of execution. Except as otherwise approved by the Commission for good cause shown, the record required by this paragraph (g) shall be maintained in a format and coding structure approved by the Commission -
+(2) The record required by this paragraph (g) shall also show, by appropriate and uniform symbols, any transaction which is made non-competitively in accordance with the provisions of subpart J of part 38 of this chapter, and trades cleared on dates other than the date of execution. Except as otherwise approved by the Commission for good cause shown, the record required by this paragraph (g) shall be maintained in a format and coding structure approved by the Commission—
 
 (i) In hard copy or on microfilm as specified in § 1.31, and
 
 (ii) For 60 days in computer-readable form on compatible magnetic tapes or discs.
 
-[77 FR 66324, Nov. 2, 2012, as amended at 77 FR 75541, Dec. 21, 2012; 80 FR 80255, Dec. 24, 2015]
+[77 FR 66324, Nov. 2, 2012, as amended at 77 FR 75541, Dec. 21, 2012; 80 FR 80255, Dec. 24, 2015; 82 FR 24487, May 30, 2017]

@@ -1,7 +1,5 @@
 ##### § 1003.4 Procedures for public announcement of meetings. #####
 
-Link to an amendment published at 82 FR 34838, July 27, 2017.
-
 (a) Except as otherwise provided in this section, the Board shall make a public announcement at least seven days prior to a meeting. The public announcement shall include:
 
 (1) The time and place of the meeting;
@@ -20,4 +18,12 @@ Link to an amendment published at 82 FR 34838, July 27, 2017.
 
 (2) The public announcement required by this section is made at the earliest practicable time.
 
-(c) If public notice is provided by means other than publication in the Federal Register, notice will be promptly submitted to the Federal Register for publication.
+(c) When a meeting has been called by the Chairman, the notice shall contain such agenda items as the Chairman designates. The notice shall be circulated to Members in advance of publication and Members, by majority vote, may add additional agenda items.
+
+(d) When a meeting is called by a majority of Members, the notice shall contain such agenda items as have been approved by a majority of the Board.
+
+(e) The Executive Director will ensure that the final agenda for the meeting conforms to the notice published in the Federal Register.
+
+(f) If public notice is provided by means other than publication in the Federal Register, notice will be promptly submitted to the Federal Register for publication.
+
+[78 FR 67002, Nov. 8, 2013, as amended at 82 FR 34838, July 27, 2017]

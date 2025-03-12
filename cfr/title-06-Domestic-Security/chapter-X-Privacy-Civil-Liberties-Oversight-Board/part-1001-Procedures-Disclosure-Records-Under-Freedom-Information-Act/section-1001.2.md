@@ -1,14 +1,12 @@
 ##### § 1001.2 Definitions. #####
 
-Link to an amendment published at 82 FR 34835, July 27, 2017.
-
 The following definitions apply to this part:
 
 *Board* means the Privacy and Civil Liberties Oversight Board, established by the Implementing Recommendations of the 9/11 Commission Act of 2007, Public Law 110-53.
 
 *Chairman* means the Chairman of the Board, as appointed by the President and confirmed by the Senate under section 801(a) of the Implementing Recommendations of the 9/11 Commission Act of 2007, Public Law 110-53, or any person to whom the Board has delegated authority for the matter concerned.
 
-*Chief FOIA Officer* means the senior official to whom the Board delegated responsibility for efficient and appropriate compliance with the FOIA, currently delegated to the Chief Administrative Officer.
+*Chief FOIA Officer* means the senior official to whom the Board delegated responsibility for efficient and appropriate compliance with the FOIA.
 
 *Commercial use request* means a FOIA request from or on behalf of a person who seeks information for a use or purpose that furthers his or her commercial, trade, or profit interests, including pursuit of those interests through litigation.
 
@@ -53,3 +51,5 @@ The following definitions apply to this part:
 (2) The need to search for, collect and appropriately examine a voluminous amount of separate and distinct records which are demanded in a single request; or
 
 (3) The need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request.
+
+[78 FR 66997, Nov. 8, 2013, as amended at 82 FR 34835, July 27, 2017]

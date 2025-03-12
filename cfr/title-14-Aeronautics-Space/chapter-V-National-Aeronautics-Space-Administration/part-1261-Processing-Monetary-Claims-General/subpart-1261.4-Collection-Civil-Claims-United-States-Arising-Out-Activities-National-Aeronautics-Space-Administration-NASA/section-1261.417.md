@@ -1,6 +1,4 @@
-##### § 1261.417 Referral to Department of Justice (DJ) or General Accounting Office (GAO). #####
-
-Link to an amendment published at 82 FR 29386, June 29, 2017.
+##### § 1261.417 Referral to Department of Justice or Government Accountability Office. #####
 
 (a) *Prompt referral.* Except as provided in paragraphs (b) and (c) of this section, claims on which aggressive collection action has been taken in accordance with § 1261.406 and which cannot be compromised, or on which collection action cannot be suspended or terminated, in accordance with §§ 1261.414 and 1261.416, shall be promptly referred to the Department of Justice for litigation.
 
@@ -16,9 +14,9 @@ Link to an amendment published at 82 FR 29386, June 29, 2017.
 
 (b) Claims arising from audit exceptions taken by the GAO to payments made by agencies must be referred to the GAO for review and approval prior to referral to the Department of Justice for litigation, unless NASA has been granted an exception by the GAO. Referrals shall comply with instructions, including monetary limitations, contained in the GAO Policy and Procedures Manual for Guidance to Federal Agencies and paragraphs (e) and (f) of this section.
 
-(c) When the merits of the claim, the amount owed on the claim, or the propriety of acceptance of a proposed compromise, suspension, or termination are in doubt, the designated official should refer the matter to the General Accounting Office for resolution and instructions prior to proceeding with collection action and/or referral to the Department of Justice for litigation.
+(c) When the merits of the claim, the amount owed on the claim, or the propriety of acceptance of a proposed compromise, suspension, or termination are in doubt, the designated official should refer the matter to the Government Accountability Office for resolution and instructions prior to proceeding with collection action and/or referral to the Department of Justice for litigation.
 
-(d) Once a claim has been referred to GAO or to the Department of Justice pursuant to this section, NASA shall refrain from having any contact with the debtor about the pending claim and shall direct the debtor to GAO or to the DJ, as appropriate, when questions concerning the claim are raised by the debtor. GAO or the DJ, as appropriate, shall be immediately notified by NASA of any payments which are received from the debtor subsequent to referral of a claim under this section.
+(d) Once a claim has been referred to the Government Accountability Office or to the Department of Justice pursuant to this section, NASA shall refrain from having any contact with the debtor about the pending claim and shall direct the debtor to the Government Accountability Office or to the Department of Justice, as appropriate, when questions concerning the claim are raised by the debtor. The Government Accountability Office or the Department of Justice, as appropriate, shall be immediately notified by NASA of any payments which are received from the debtor subsequent to referral of a claim under this section.
 
 (e) *Claims Collection Litigation Report (CCLR).* Unless an exception has been granted by the Department of Justice in consultation with the General Accounting Office, the Claims Collection Litigation Report (CCLR), which was officially implemented by NASA, effective March 1, 1983, shall be used with all referrals of administratively uncollectible claims. As required by the CCLR, the following information must be included:
 
@@ -51,3 +49,5 @@ Link to an amendment published at 82 FR 29386, June 29, 2017.
 (vi) The status of the debtor is such that credit data is not normally available or cannot reasonably be obtained, for example, a unit of State or local government.
 
 (f) *Preservation of evidence.* Care will be taken to preserve all files, records, and exhibits on claims referred or to be referred to the Department of Justice for litigation. Under no circumstances should original documents be sent to the Department of Justice or the United States Attorney without specific prior approval to do so. Copies of relevant documents should be sent whenever necessary.
+
+[45 FR 48104, July 18, 1980, as amended at 82 FR 29386, June 29, 2017]

@@ -1,10 +1,8 @@
 ##### § 1261.603 Procedures for salary offset. #####
 
-Link to an amendment published at 82 FR 29387, June 29, 2017.
+If NASA determines that a Federal employee is indebted to the United States or is notified of such by the head of another agency (or delegee), the amount of indebtedness may be collected in monthly installments, or regularly established pay intervals, by deduction from the affected employee's pay account. The deductions may be made from basic pay, special pay, incentive pay, retired pay, retainer pay, or in the case of an employee not entitled to basic pay, from other authorized pay. The requirements in paragraphs (a) through (h) of this section must be met before a deduction is made from the current pay account of an employee.
 
-If NASA is both the paying and creditor agency, the following requirements must be met before a deduction is made from the current pay account of an employee.
-
-(a) *Written notice.* The employee must be sent a minimum of 30 days written notice, which specifies:
+(a) *Written notice.* The employee must be sent a minimum of 30 days written notice prior to further offset action, which specifies:
 
 (1) The origin, nature and amount of the indebtedness, and the official to contact within the agency (ordinarily, the designated financial management official for the particular installation);
 
@@ -30,7 +28,7 @@ If NASA is both the paying and creditor agency, the following requirements must 
 
 (1) The employee may petition for a hearing, but such petition must be in writing and received by NASA on or before the 15th day following receipt of the notice, and include a statement of the reasons for such hearing. No particular form is required, and a timely, legible letter request (with the stated reasons) will suffice; however, the employee must sign the petition and include with it, with reasonable specificity, all the supporting facts and evidence, including a list of the witnesses, if any.
 
-(2) The petition should be addressed to the agency counsel designated in the notice, but the hearing will be conducted by an official not under the supervision or control of the NASA Administrator or by appointment of an administrative law judge. Notice of the name and address of the hearing official will be sent to the employee within 10 days of receipt of petition. A hearing official will be designated on a case-by-case basis under reimbursable arrangements or through direct payment as events may warrant.
+(2) The petition should be addressed to the Agency counsel designated in the notice, but the hearing will be conducted by an official not under the supervision or control of the NASA Administrator. The Agency Chief Financial Officer is authorized to appoint an administrative law judge or other Federal executive branch employee or official on a reimbursable or other basis. Notice of the name and address of the hearing official will be sent to the employee within 10 days of receipt of petition.
 
 (3) The timely filing of the petition will stay the commencement of collection; and the final decision on the hearing will be issued at the earliest practicable date, but not later than 60 days after the filing of the petition requesting the hearing unless the employee requests and the hearing official grants a delay in the proceedings.
 
@@ -42,28 +40,16 @@ If NASA is both the paying and creditor agency, the following requirements must 
 
 (iii) Criminal penalties under sections 286, 287, 1001, and 1002 of Title 18, United States Code, or any other applicable statutory authority.
 
-(5) The form and content of the hearing will be determined by the hearing official depending on the nature and complexity of the transaction giving rise to the debt. The hearing is not an adversarial adjudication, and need not take the form of an evidentiary hearing. However, depending on the particular facts and circumstances, the hearing may be analogous to a fact- finding proceeding with oral presentations; or an informal meeting with or interview of the employee; or formal written submissions, with an opportunity for oral presentation, and decision based on the available written record. Ordinarily, hearings may consist of informal conferences before the hearing official in which the employee and agency officials will be given full opportunity to present evidence, witnesses, and argument. The employee may represent himself or herself or be represented by an individual of his or her choice. The hearing official must maintain a summary record of the hearing provided under this subpart. For additional guidance, see 14 CFR 1261.503.
-
-(6) The decision will be in writing and state:
-
-(i) The facts purported to evidence the nature and origin of the alleged debt;
-
-(ii) The respective positions of the agency and of the employee;
-
-(iii) The hearing official's analysis (which address the employee's/agency's grounds, the amount and validity of the alleged debt, and, where applicable, the repayment schedule); and
-
-(iv) The hearing official's findings and conclusions.
-
-(7) The hearing official will notify the employee, the NASA Comptroller or designee, and the designated agency counsel of the decision.
-
-(8) The decision of the hearing official shall constitute the Final Administrative Decision of the agency.
+(5) As for the conduct of any live, telephonic, or video teleconference hearing, for additional guidance see 14 CFR 1261.503.
 
 (d) Petition after time expiration. No petition for a hearing is to be granted if made after the 15-day period prescribed in paragraph (c)(1) of this section, unless the employee can show to the satisfaction of the agency official indicated on the notice that the delay was caused by circumstances beyond his or her control (for example, proven incapacity, illness, or hospitalization), or that the agency did not give notice of the time limit and the employee was otherwise unaware of such limit.
 
-(e) *Limitation on amount and duration of deductions.* Ordinarily, debts must be collected in one lump-sum payment. However, if the employee is financially unable to pay in one lump sum or if the amount of the debt exceeds 15 percent of disposable pay for an officially established pay interval, collection must be made in installments. The size of installment deductions must bear a reasonable relationship to the size of the debt and the employee's ability to pay (see 14 CFR 1261.411), but the amount deducted for any period must not exceed 15 percent of the disposable pay from which the deduction is made (unless the employee has agreed in writing to the deduction of a greater amount). Deduction must commence with the next full pay interval (ordinarily, the next biweekly pay period). Such installment deductions must be made over a period not greater than the anticipated period of active duty or employment, as the case may be, except as provided in paragraph (f) of this section.
+(e) *Limitation on amount and duration of deductions.* Ordinarily, debts are to be collected in one lump-sum payment. However, if the employee is financially unable to pay in one lump sum or if the amount of the debt exceeds 15 percent of disposable pay for an officially established pay interval, collection must be made in installments. The size of installment deductions must bear a reasonable relationship to the size of the debt and the employee's ability to pay (see 14 CFR 1261.411), but the amount deducted for any period must not exceed 15 percent of the disposable pay from which the deduction is made (unless the employee has agreed in writing to the deduction of a greater amount). Deduction must commence with the next full pay interval (ordinarily, the next biweekly pay period). Such installment deductions must be made over a period not greater than the anticipated period of active duty or employment, as the case may be, except as provided in paragraph (f) of this section.
 
 (f) *Determining ability to pay.* An offset may produce an extreme financial hardship for an employee if it prevents the employee from meeting costs necessarily incurred for essential subsistence expenses for food, reasonable housing, clothing, transportation, and medical care. In determining whether an offset would prevent the employee from meeting the essential subsistence expenses, the employee may be required to show income from all sources (including spouse and dependents, if applicable), list all known assets, explain exceptional expenses, and produce any other relevant factors.
 
 (g) *Liquidation from final check; other recovery.* If the employee retires or resigns from Federal service, or if his or her employment or period of active duty ends before collection of the debt is completed, the balance may be deducted from the final salary payment and any remaining balance from the lump-sum leave, if applicable. If the debt is not fully paid by offset from any final payment due the former employee as of the date of separation, offset may be made from later payments of any kind due the former employee from the United States (as provided in 14 CFR part 1261 subpart 1261.5, including offset from the Civil Service Retirement and Disability Fund under 14 CFR 1261.507).
 
 (h) *Interest, penalties, and administrative costs.* Assessment of interest, penalties, and administrative costs, on debts being collected under this subpart, shall be in accordance with 14 CFR 1261.412 which implements 4 CFR 102.13.
+
+[52 FR 19487, May 26, 1987, as amended at 82 FR 29387, June 29, 2017]
