@@ -1,6 +1,6 @@
 ##### § 457.150 Dry bean crop insurance provisions. #####
 
-The Dry Bean Crop Insurance Provisions for the 2017 and succeeding crop years are as follow
+The Dry Bean Crop Insurance Provisions for the 2022 and succeeding crop years are as follow
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesDry Bean Crop Provisions
 
@@ -44,29 +44,53 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 *Swathing or knifing.* Severance of the bean plant from the ground, including the pods and beans, and placing them into windrows.
 
-*Type.* A category of beans identified as a type in the Special Provisions.
+*Type.* A category of beans identified as a type in the Special Provisions or insured by written agreement.
 
-2. Unit Division
+2. Unit Division.
 
 (a) In addition to the definition of basic unit in section 1 of the Basic Provisions, all acreage of contract seed beans qualifies as a separate basic unit. For production based seed bean processor contracts, the basic unit will consist of all the acreage needed to produce the amount of production under contract, based on the actual production history of the acreage. For acreage based seed bean processor contracts, the basic unit will consist of all acreage specified in the contract.
 
-(b) In addition to, or instead of, establishing optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated acreage as provided in the unit division provisions contained in the Basic Provisions, a separate optional unit may be established for each bean type shown in the Special Provisions.
+(b) In addition to enterprise units provided in section 34(a) of the Basic Provisions, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by irrigation practices.
 
-(c) Contract seed beans may qualify for optional units only if the seed bean processor contract specifies the number of acres under contract. Contract seed beans produced under a seed bean processor contract that specifies only an amount of production or a combination of acreage and production, are not eligible for optional units.
+(1) You may elect separate enterprise units by type unless otherwise specified in the Special Provisions. For example, if you have Great Northern and Pinto types, you may elect one enterprise unit for the Great Northern type or one enterprise unit for the Pinto type, or separate enterprise units for both types. Any acreage which is not reported and insured as an enterprise unit will be insured as a basic unit or optional unit if requirements are met. For example, if you only have Great Northern and Pinto types, you may have an enterprise unit for the Great Northern type acreage and basic or optional units for the Pinto type acreage.
+
+(2) You must separately meet the requirements in section 34(a)(4) of the Basic Provisions for each enterprise unit by type.
+
+(3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected enterprise units and such discovery is made:
+
+(i) On or before the acreage reporting date, you may elect to insure:
+
+(A) All types in which elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
+
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and for which you qualify; or
+
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure for all acreage of the crop in the county.
+
+(4) If you elected an enterprise unit for only one type and we discover you do not qualify for an enterprise unit for that type and such discovery is made:
+
+(i) On or before the acreage reporting date, your unit division for all acreage of the crop in the county will be based on basic or optional units, whichever you report on your acreage report and for which you qualify; or
+
+(ii) At any time after the acreage reporting date, we will assign the basic unit structure for all acreage of the crop in the county.
+
+(c) In addition to, or instead of, establishing optional units as provided in section 34(c) in the Basic Provisions, a separate optional unit may be established for each bean type (designated in actuarial documents and including any type insured by written agreement).
+
+(d) Enterprise and optional units by type may be further divided by acreage of contract seed beans if the seed bean processor contract specifies the number of acres under contract. Contract seed beans produced under a seed bean processor contract that specifies only an amount of production or a combination of acreage and production, are not eligible for separate enterprise or optional units.
 
 3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
-(a) In addition to the requirements of section 3(b) (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities) of the Basic Provisions (§ 457.8), you may select only one price election for all the dry beans in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each dry bean type designated in the Special Provisions. The price elections you choose for each type are not required to have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you may also choose 75 percent of the maximum price election for another type.
+(a) In addition to the requirements of section 3(b) of the Basic Provisions (§ 457.8), you may select only one price election for all the dry beans in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each dry bean type designated in the Special Provisions. The price elections you choose for each type are not required to have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you may also choose 75 percent of the maximum price election for another type.
 
 (b) For contract seed beans only, the dollar amount of insurance is obtained by multiplying the production guarantee per acre for each variety in the unit by the insured acreage of that variety, times the applicable base price, and times the price election percentage you selected. The total of these results will be the amount of insurance for contract seed beans in the unit.
 
 4. Contract Changes
 
-In accordance with section 4 (Contract Changes) of the Basic Provisions, the contract change date is November 30 preceding the cancellation date.
+In accordance with section 4 of the Basic Provisions, the contract change date is November 30 preceding the cancellation date.
 
 5. Cancellation and Termination Dates
 
-In accordance with section 2 (Life of Policy, Cancellation, and Termination) of the Basic Provisions (§ 457.8), the cancellation and termination dates are:
+In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are:
 
 |State and county|Cancellation and termination  <br/>dates|
 |----------------|----------------------------------------|
@@ -79,7 +103,7 @@ For contract seed beans only, in addition to the requirements of section 6 (Repo
 
 7. Insured Crop
 
-(a) In accordance with section 8 (Insured Crop) of the Basic Provisions(§ 457.8), the crop insured will be all the beans in the county for which a premium rate is provided by the actuarial documents:
+(a) In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all the beans in the county for which a premium rate is provided by the actuarial documents:
 
 (1) In which you have a share;
 
@@ -117,7 +141,7 @@ For contract seed beans only, in addition to the requirements of section 6 (Repo
 
 8. Insurable Acreage
 
-In addition to the provisions of section 9 (Insurable Acreage) of the Basic Provisions (§ 457.8):
+In addition to the provisions of section 9 of the Basic Provisions (§ 457.8):
 
 (a) We will not insure any acreage that does not meet the rotation requirements contained in the Special Provisions; or
 
@@ -125,7 +149,7 @@ In addition to the provisions of section 9 (Insurable Acreage) of the Basic Prov
 
 9. Insurance Period
 
-In accordance with the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8), the calendar date for the end of the insurance period is the date immediately following planting as follows:
+In accordance with the provisions of section 11 of the Basic Provisions (§ 457.8), the calendar date for the end of the insurance period is the date immediately following planting as follows:
 
 (a) October 15 in Oklahoma, New Mexico, and Texas;
 
@@ -135,7 +159,7 @@ In accordance with the provisions of section 11 (Insurance Period) of the Basic 
 
 10. Causes of Loss
 
-In accordance with the provisions of section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (a) Adverse weather conditions;
 
@@ -155,17 +179,17 @@ In accordance with the provisions of section 12 (Causes of Loss) of the Basic Pr
 
 11. Replanting Payments
 
-(a) In accordance with section 13 (Replanting Payment) of the Basic Provisions (§ 457.8), a replanting payment is allowed if the bean crop is damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent of the production guarantee for the acreage and it is practical to replant.
+(a) In accordance with section 13 of the Basic Provisions (§ 457.8), a replanting payment is allowed if the bean crop is damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent of the production guarantee for the acreage and it is practical to replant.
 
 (b) The maximum amount of the replanting payment per acre will be the lesser of 10 percent of the production guarantee for the type to be replanted or 120 pounds multiplied by your price election for the type to be replanted and by your insured share.
 
 (c) When beans are replanted using a practice that is uninsurable as an original planting, the liability for the unit will be reduced by the amount of the replanting payment. The premium amount will not be reduced.
 
-(d) The guarantee and premium for acreage replanted to a different insurable type will be based on the replanted type and will be calculated in accordance with sections 3 (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities) and 7 (Annual Premium) of the Basic Provisions (§ 457.8) and section 3 of these Crop Provisions.
+(d) The guarantee and premium for acreage replanted to a different insurable type will be based on the replanted type and will be calculated in accordance with sections 3 and 7 of the Basic Provisions (§ 457.8) and section 3 of these Crop Provisions.
 
 12. Duties in the Event of Damage or Loss
 
-In accordance with the requirements of section 14 (Duties in the Event of Damage or Loss) of the Basic Provisions (§ 457.8), representative samples of the unharvested crop must be at least 10 feet wide and extend the entire length of each field in the unit. The samples must not be harvested or destroyed until the earlier of our inspection or 15 days after harvest of the balance of the unit is completed.
+In accordance with the requirements of section 14 of the Basic Provisions (§ 457.8), representative samples of the unharvested crop must be at least 10 feet wide and extend the entire length of each field in the unit. The samples must not be harvested or destroyed until the earlier of our inspection or 15 days after harvest of the balance of the unit is completed.
 
 13. Settlement of Claim
 

@@ -1,7 +1,5 @@
 ##### § 51.907 Transition of price cap carrier access charges. #####
 
-Link to an amendment published at 85 FR 75916, Nov. 27, 2020.
-
 (a) Notwithstanding any other provision of the Commission's rules, on December 29, 2011, a Price Cap Carrier shall cap the rates for all interstate and intrastate rate elements for services contained in the definitions of Interstate End Office Access Services, Tandem Switched Transport Access Services, and Dedicated Transport Access Services. In addition, a Price Cap Carrier shall also cap the rates for any interstate and intrastate rate elements in the traffic sensitive basket” and the “trunking basket” as described in 47 CFR 61.42(d)(2) and (3) to the extent that such rate elements are not contained in the definitions of Interstate End Office Access Services, Tandem Switched Transport Access Services, and Dedicated Transport Access Services. Carriers will remove these services from price cap regulation in their July 1, 2012 annual tariff filing.
 
 (b) *Step 1.* Beginning July 1, 2012, notwithstanding any other provision of the Commission's rules:
@@ -76,4 +74,40 @@ Link to an amendment published at 85 FR 75916, Nov. 27, 2020.
 
 (h) *Step 7.* Beginning July 1, 2018, notwithstanding any other provision of the Commission's rules, each Price Cap carrier shall, in accordance with bill-and-keep, as defined in § 51.713, revise and refile its interstate switched access tariffs and any state tariffs to remove any intercarrier charges applicable to terminating tandem-switched access service traversing a tandem switch that the terminating carrier or its affiliate owns.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 79 FR 28844, May 20, 2014]
+(i) *8YY Transition—Step 1.* Beginning July 1, 2021, and notwithstanding any other provision of the Commission's rules in this chapter, each Price Cap Carrier shall:
+
+(1) Establish separate rate elements for interstate and intrastate toll free originating end office access service and non-toll free originating end office access service. Rate elements reflecting fixed charges associated with originating End Office Access Service shall be treated as non-toll free charges.
+
+(2) Reduce its intrastate toll free originating end office access service rates to its interstate toll free originating end office access service rates as follows:
+
+(i) Calculate total revenue from End Office Access Service, excluding non-usage-based rate elements, at the carrier's interstate access rates in effect on June 30, 2020, using intrastate switched access demand for each rate element for the 12 months ending June 30, 2020.
+
+(ii) Calculate total revenue from End Office Access Service, excluding non-usage based rate elements, at the carrier's intrastate access rates in effect on June 30, 2020, using intrastate switched access demand for each rate element for the 12 months ending June 30, 2020.
+
+(iii) If the value in paragraph (i)(2)(ii) of this section is less than or equal to the value in paragraph (i)(2)(i) of this section, the Price Cap Carrier's intrastate End Office Access Service rates shall remain unchanged.
+
+(iv) If the value in paragraph (i)(2)(ii) of this section is greater than the value in paragraph (i)(2)(i) of this section, the Price Cap Carrier shall reduce intrastate rates for End Office Access Service so that they are equal to the Price Cap Carrier's functionally equivalent interstate rates for End Office Access Rates and shall be subject to the interstate rate structure and all subsequent rate and rate structure modifications.
+
+(v) Except as provided in paragraph (i)(2) of this section, nothing in this section allows a Price Cap Carrier that has intrastate rates lower than its functionally equivalent interstate rates to make any intrastate tariff filing or intrastate tariff revisions to increase such rates. If a Price Cap Carrier has an intrastate rate for an End Office Access Service rate element that is below the comparable interstate rate for that element, the Price Cap Carrier may, if necessary as part of a restructuring to reduce its intrastate rates for End Office Access Service down to parity with functionally equivalent interstate rates, increase the rate for an intrastate rate element that is below the comparable interstate rate for that element to the interstate rate in effect on July 1, 2021.
+
+(3) Establish separate rate elements for interstate and intrastate non-toll free originating transport services for service between an end office switch and the tandem switch and remove its rate for intrastate and interstate originating toll free transport services consistent with a bill-and-keep methodology (as defined in § 51.713).
+
+(4) Establish separate rate elements respectively for interstate and intrastate non-toll free originating tandem switching services.
+
+(5) Establish transitional interstate and intrastate Joint Tandem Switched Transport Access Service rate elements for Toll Free Calls that are respectively no more than $0.001 per minute.
+
+(6) Reduce its interstate and intrastate rates for Toll Free Database Query Charges to no more than $0.004248 per query. Nothing in this section obligates or allows a Price Cap Carrier that has Toll Free Database Query Charges lower than this rate to make any intrastate or interstate tariff filing revision to increase such rates.
+
+(j) *8YY Transition—Step 2.* Beginning July 1, 2022, and notwithstanding any other provision of the Commission's rules in this chapter, each Price Cap Carrier shall:
+
+(1) Reduce its interstate and intrastate rates for all originating End Office Access Service rate elements for Toll Free Calls in each state in which it provides such service by one-half of the maximum rate allowed by paragraph (a) of this section; and
+
+(2) Reduce its rates for intrastate and interstate Toll Free Database Query Charges by one-half of the difference between the rate permitted by paragraph (i)(6) of this section and the transitional rate of $0.0002 per query set forth in paragraph (k)(2) of this section.
+
+(k) *8YY Transition—Step 3.* Beginning July 1, 2023, and notwithstanding any other provision of the Commission's rules in this chapter, each Price Cap Carrier shall:
+
+(1) In accordance with a bill-and-keep methodology, refile its interstate switched access tariff and any state tariff to remove any intercarrier charges for intrastate and interstate originating End Office Access Service for Toll Free Calls; and
+
+(2) Reduce its rates for all intrastate and interstate Toll Free Database Query Charges to a transitional rate of no more than $0.0002 per query.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 79 FR 28844, May 20, 2014; 85 FR 75916, Nov. 27, 2020]

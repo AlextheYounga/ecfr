@@ -1,7 +1,5 @@
 ##### § 51.909 Transition of rate-of-return carrier access charges. #####
 
-Link to an amendment published at 85 FR 75917, Nov. 27, 2020.
-
 (a) Notwithstanding any other provision of the Commission's rules, on December 29, 2011, a Rate-of-Return Carrier shall:
 
 (1) Cap the rates for all rate elements for services contained in the definitions of End Office Access Service, Tandem Switched Transport Access Service, and Dedicated Transport Access Service, as well as all other interstate switched access rate elements, in its interstate switched access tariffs at the rate that was in effect on the December 29, 2011; and
@@ -140,4 +138,42 @@ Link to an amendment published at 85 FR 75917, Nov. 27, 2020.
 
 (k) As set forth in FCC 11-161, states will facilitate implementation of changes to intrastate access rates to ensure compliance with the Order. Nothing in this section shall alter the authority of a state to monitor and oversee filing of intrastate tariffs.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 78 FR 26267, May 6, 2013; 79 FR 28845, May 20, 2014]
+(l) *8YY Transition—Step 1.* As of December 28, 2020, each rate-of-return carrier shall cap the rate for all intrastate originating access charge rate elements for Toll Free Calls, including for Toll Free Database Query Charges.
+
+(m) *8YY Transition—Step 2.* Beginning July 1, 2021, and notwithstanding any other provision of the Commission's rules in this chapter, each Rate-of-Return Carrier shall:
+
+(1) Establish separate rate elements for interstate and intrastate toll free originating end office access service and non-toll free originating end office access service. Rate elements reflecting fixed charges associated with originating End Office Access Service shall be treated as non-toll free charges.
+
+(2) Reduce its intrastate toll free originating end office access service rates to its interstate toll free originating end office access service rates as follows:
+
+(i) Calculate total revenue from End Office Access Service, excluding non-usage-based rate elements, at the carrier's interstate access rates in effect on June 30, 2020, using intrastate switched access demand for each rate element for the 12 months ending June 30, 2020.
+
+(ii) Calculate total revenue from End Office Access Service, excluding non-usage based rate elements, at the carrier's intrastate access rates in effect on June 30, 2020, using intrastate switched access demand for each rate element for the 12 months ending June 30, 2020.
+
+(iii) If the value in paragraph (m)(2)(ii) of this section is less than or equal to the value in paragraph (m)(2)(i) of this section, the Rate-of-Return Carrier's intrastate End Office Access Service rates shall remain unchanged.
+
+(iv) If the value in paragraph (m)(2)(ii) of this section is greater than the value in paragraph (m)(2)(i) of this section, the Rate-of-Return Carrier shall reduce intrastate rates for End Office Access Service so that they are equal to the Rate-of-Return Carrier's functionally equivalent interstate rates for End Office Access Rates and shall be subject to the interstate rate structure and all subsequent rate and rate structure modifications.
+
+(v) Except as provided in paragraph (m)(2) of this section, nothing in this section allows a Rate-of-Return Carrier that has intrastate rates lower than its functionally equivalent interstate rates to make any intrastate tariff filing or intrastate tariff revisions to increase such rates. If a Rate-of-Return Carrier has an intrastate rate for an End Office Access Service rate element that less than the comparable interstate rate for that element, the Rate-of-Return Carrier may, if necessary as part of a restructuring to reduce its intrastate rates for End Office Access Service down to parity with functionally equivalent interstate rates, increase the rate for an intrastate rate element that is below the comparable interstate rate for that element to the interstate rate on July 1, 2021.
+
+(3) Establish separate rate elements for interstate and intrastate non-toll free originating transport services for service between an end office switch and the tandem switch and remove its rate for intrastate and interstate originating toll free transport services consistent with a bill-and-keep methodology (as defined in § 51.713).
+
+(4) Establish separate rate elements respectively for interstate and intrastate non-toll free originating tandem switching services.
+
+(5) Establish transitional interstate and intrastate Joint Tandem Switched Transport Access rate elements for Toll Free Calls that are respectively no more than $0.001 per minute.
+
+(6) Reduce its interstate and intrastate rates for Toll Free Database Query Charges to no more than $0.004248 per query. Nothing in this section obligates or allows a Rate-of-Return carrier that has Toll Free Database Query Charges lower than this rate to make any intrastate or interstate tariff filing revision to increase such rates.
+
+(n) *8YY Transition—Step 3.* Beginning July 1, 2022, and notwithstanding any other provision of the Commission's rules in this chapter, each Rate-of-Return Carrier shall:
+
+(1) Reduce its interstate and intrastate rates for all originating End Office Access Service rate elements for Toll Free Calls in each state in which it provides such service by one-half of the maximum rate allowed by paragraph (a) of this section; and
+
+(2) Reduce its rates for intrastate and interstate Toll Free Database Query Charges by one-half of the difference between the rate permitted by paragraph (m)(6) of this section and the transitional rate of $0.0002 per query set forth in paragraph (o)(2) of this section.
+
+(o) *8YY Transition—Step 4.* Beginning on July 1, 2023, and notwithstanding any other provision of the Commission's rules in this chapter, each Rate-of-Return Carrier shall:
+
+(1) In accordance with a bill-and-keep methodology, refile its interstate switched access tariff and any state tariff to remove any intercarrier charges for all intrastate and interstate originating End Office Access Service for Toll Free Calls; and
+
+(2) Reduce its rates for all intrastate and interstate Toll Free Database Query Charges to a transitional rate of no more than $0.0002 per query.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 78 FR 26267, May 6, 2013; 79 FR 28845, May 20, 2014; 85 FR 75917, Nov. 27, 2020]

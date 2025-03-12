@@ -1,6 +1,6 @@
 ##### § 457.140 Dry pea crop insurance provisions. #####
 
-The Dry Pea Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
+The Dry Pea Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 FCIC policies:
 
@@ -26,7 +26,7 @@ Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Ap
 
 (c) The final planting date for spring-planted acreage in all counties for which the Special Provisions designate both spring-planted and fall-planted types.
 
-*Local market price.* The cash price per pound for the U.S. No. 1 grade of dry peas as determined by us. This price will be considered the prevailing dollar amount buyers are willing to pay for dry peas containing the maximum limits of quality deficiencies allowable for the U.S. No. 1 grade. Moisture content and factors not associated with grading under the United States Standards for Whole Dry Peas, Split Peas, Beans (Chickpeas, Fava or Faba beans), and Lentils will not be considered, unless otherwise specified in the Special Provisions.
+*Local market price.* The cash price per pound for the U.S. No. 1 grade of dry peas as determined by us. This price will be considered the prevailing dollar amount buyers are willing to pay for dry peas containing the maximum limits of quality deficiencies allowable for the U.S. No. 1 grade. Moisture content and factors not associated with grading under the United States Standards for Whole Dry Peas, Beans (Chickpeas, Fava or Faba beans), and Lentils will not be considered, unless otherwise specified in the Special Provisions.
 
 *Nurse crop (companion crop).* A crop planted into the same acreage as another crop to improve the growing conditions for the crop with which it is grown, and that is intended to be harvested separately.
 
@@ -58,9 +58,35 @@ Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Ap
 
 *Windrow.* Dry peas where the plants are cut and placed in a row.
 
-2. Unit Division
+2. Unit Division.
 
-In addition to, or instead of, establishing optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated acreage as provided in the unit division provisions contained in the Basic Provisions, separate optional units may be established for each dry pea type. Contract seed types and dry pea types not grown under a processor/seed company contract may qualify for separate optional units even if they share a common variety provided each dry pea type is grown on separate acreage and the production is kept separate.
+(a) In addition to enterprise units provided in section 34(a) of the Basic Provisions, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by irrigation practices.
+
+(1) You may elect separate enterprise units by type unless otherwise specified in the Special Provisions. For example, if you have Spring Austrian Peas and Spring Desi Chickpea types, you may elect one enterprise unit for the Spring Austrian Peas type or one enterprise unit for the Spring Desi Chickpeas type, or separate enterprise units for both types. Any acreage which is not reported and insured as an enterprise unit will be insured as a basic unit or optional unit if requirements are met. For example, if you only have Spring Austrian Peas and Spring Desi Chickpea types, you may have an enterprise unit for the Spring Austrian Peas type acreage and basic or optional units for the Spring Desi Chickpeas type acreage.
+
+(2) You must separately meet the requirements in section 34(a)(4) of the Basic Provisions for each enterprise unit.
+
+(3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected enterprise unit and such discovery is made:
+
+(i) On or before the acreage reporting date, you may elect to insure:
+
+(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as enterprise unit, whichever you report on your acreage report and for which you qualify;
+
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and for which you qualify; or
+
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure for all acreage of crop in the county.
+
+(4) If you elected an enterprise unit for only one type and we discover you do not qualify for an enterprise unit for that type and such discovery is made:
+
+(i) On or before the acreage reporting date, your unit division for all acreage of the crop in the county will be based on basic or optional units, whichever you report on your acreage report and for which you qualify; or
+
+(ii) At any time after the acreage reporting date, we will assign the basic unit structure for all acreage of the crop in the county.
+
+(b) In addition to, or instead of, establishing optional units as provided in section 34(c) in the Basic Provisions, separate optional units may be established for each dry pea type (designated in actuarial documents and including any type insured by written agreement).
+
+(c) Enterprise and optional units by type may be further divided by acreage of contract seed types and dry pea types not grown under a processor/seed company contract even if they share a common variety provided each dry pea type is grown on separate acreage and the production is kept separate.
 
 3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
@@ -74,9 +100,9 @@ In addition to, or instead of, establishing optional units by section, section e
 
 (c) In addition to the requirements of section 3 of the Basic Provisions, in counties with both a fall and spring sales closing date for the insured crop:
 
-(1) If you do not have any insured fall-planted dry pea acreage covered under the Winter Coverage Option, you may change your coverage level or percentage of price election until the spring sales closing date; or
+(1) If you do not have any insurable fall-planted dry pea acreage covered under the Winter Coverage Option, you may change your coverage level or percentage of price election until the spring sales closing date; or
 
-(2) If you have any insured fall-planted dry pea acreage covered under the Winter Coverage Option, you may not change your coverage level or percentage of price election after the fall sales closing date.
+(2) If you have any insurable fall-planted dry pea acreage covered under the Winter Coverage Option, you may not change your coverage level or percentage of price election after the fall sales closing date.
 
 (d) If a dry pea type is added after the sales closing date, we will assign:
 
@@ -343,7 +369,7 @@ Assume the same facts in example 1. Also assume you have a 100 percent share in 
 
 (2) Production will be eligible for quality adjustment in accordance with the following, unless otherwise specified in the Special Provisions:
 
-(i) Deficiencies in quality, in accordance with the United States Standards for Whole Dry Peas, Split Peas, Beans (Chickpeas, Fava or Faba beans), and Lentils, result in production grading U.S. No. 2 or worse because of defects, color, skinned production (lentils only), odor, material weathering, or distinctly low quality; or
+(i) Deficiencies in quality, in accordance with the United States Standards for Whole Dry Peas, Beans (Chickpeas, Fava or Faba beans), and Lentils, result in production grading U.S. No. 2 or worse because of defects, color, skinned production (lentils only), odor, material weathering, or distinctly low quality; or
 
 (ii) Substances or conditions are present that are identified by the Food and Drug Administration or other public health organizations of the United States as being injurious to human or animal health.
 
@@ -443,4 +469,4 @@ The value will not be reduced for:
 
 (B) Store or market the production in a manner which permits us to verify the amount of spring-planted production separately from any fall-planted production. In the event you are unable to provide records of production that are acceptable to us, the spring-planted acreage will be considered to be a part of the original fall-planted unit.
 
-[62 FR 65744, Dec. 16, 1997, as amended at 63 FR 36157, July 2, 1998; 67 FR 55691, Aug. 30, 2002; 73 FR 51582, Sept. 4, 2008; 75 FR 15888, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 85 FR 38279, June 26, 2020; 85 FR 76428, Nov. 30, 2020; 86 FR 11091, Feb. 24, 2021]
+[62 FR 65744, Dec. 16, 1997, as amended at 63 FR 36157, July 2, 1998; 67 FR 55691, Aug. 30, 2002; 73 FR 51582, Sept. 4, 2008; 75 FR 15888, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 85 FR 38279, June 26, 2020; 85 FR 76428, Nov. 30, 2020; 86 FR 11091, Feb. 24, 2021; 86 FR 33083, June 24, 2021]

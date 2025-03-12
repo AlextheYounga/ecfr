@@ -1,7 +1,5 @@
 ##### § 51.911 Access reciprocal compensation rates for competitive LECs. #####
 
-Link to an amendment published at 85 FR 75917, Nov. 27, 2020.
-
 (a) *Caps on Access Reciprocal Compensation and switched access rates.* Notwithstanding any other provision of the Commission's rules:
 
 (1) In the case of Competitive LECs operating in an area served by a Price Cap Carrier, no such Competitive LEC may increase the rate for any originating or terminating intrastate switched access service above the rate for such service in effect on December 29, 2011.
@@ -28,4 +26,6 @@ Link to an amendment published at 85 FR 75917, Nov. 27, 2020.
 
 (d) *Cap on Database Query Charge.* A Competitive Local Exchange Carrier assessing a tariffed intrastate or interstate Toll Free Database Query Charge shall cap such charge at the rate in effect on December 28, 2020.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 85 FR 75917, Nov. 27, 2020]
+(e) *Transition of cap on Database Query Charge.* Beginning July 1, 2021, notwithstanding any other provision of the Commission's rules in this chapter, a Competitive Local Exchange Carrier assessing a tariffed intrastate or interstate Toll Free Database Query Charge shall revise its tariffs as necessary to ensure that its intrastate and interstate Toll Free Database Query Charges do not exceed the rates charged by the competing incumbent local exchange carrier, as defined in § 61.26(a)(2) of this chapter.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 85 FR 75917, Nov. 27, 2020; 85 FR 75917, Nov. 27, 2020]

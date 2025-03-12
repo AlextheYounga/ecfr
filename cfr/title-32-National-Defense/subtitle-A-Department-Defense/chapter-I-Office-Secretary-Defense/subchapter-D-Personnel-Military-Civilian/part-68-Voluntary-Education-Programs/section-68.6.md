@@ -1,7 +1,5 @@
 ##### § 68.6 Procedures. #####
 
-Link to an amendment published at 86 FR 27976, May 25, 2021.
-
 (a) *TA for Service members participating in education programs.* (1) TA will be available for Service members participating in high school completion and approved courses from accredited undergraduate or graduate education programs or educational institutions. Approved courses are those that are part of an identified course of study leading to a postsecondary certificate or degree and non-degree oriented language courses integral to the Defense Language Transformation Roadmap (available at *http://www.defense.gov/news/Mar2005/d20050330roadmap.pdf*).
 
 (i) Use of TA for non-degree oriented language courses is limited to those published by the Under Secretary of Defense (P&R) on the DoD Strategic Language List.
@@ -254,9 +252,7 @@ Link to an amendment published at 86 FR 27976, May 25, 2021.
 
 (d) *Requirements and procedures for educational institutions seeking access to the DoD installation solely to provide academic counseling or student support services to students.* (1) Educational institutions must meet the criteria in paragraphs (c)(6)(i) through (v) of this section.
 
-(2) Educational institutions must have a DoD installation student population of at least 20 military students, except in overseas locations covered by DoD Instruction 1322.19. For this exception, only contracted educational institutions are permitted on overseas DoD installations. Educational institutions may submit eligible Title IV and GI Bill recipients (military or family member) to supplement military TA recipients in meeting the minimum requirement.
-
-(3) Educational institutions must request access through the responsible education advisor via a written proposal. If a request is received from an educational institution seeking access to a joint DoD installation, the responsible education advisor from the education center will determine the appropriate Military Service to work the request. The request should include as a minimum:
+(2) Educational institutions must request access through the responsible education advisor via a written proposal. If a request is received from an educational institution seeking access to a joint DoD installation, the responsible education advisor from the education center will determine the appropriate Military Service to work the request. The request should include as a minimum:
 
 (i) Educational institution name and intent or purpose of the visit.
 
@@ -266,9 +262,9 @@ Link to an amendment published at 86 FR 27976, May 25, 2021.
 
 (iv) Communication process used to inform students of their availability for counseling.
 
-(4) The responsible education advisor will review and analyze the request on behalf of the installation commander. The installation commander has the final authority to approve, deny, suspend, or withdraw DoD installation access permission from an educational institution, as deemed appropriate.
+(3) The responsible education advisor will review and analyze the request on behalf of the installation commander. The installation commander has the final authority to approve, deny, suspend, or withdraw DoD installation access permission from an educational institution, as deemed appropriate.
 
-(5) If a request is received from an educational institution seeking access to a DoD installation, the responsible education advisor will:
+(4) If a request is received from an educational institution seeking access to a DoD installation, the responsible education advisor will:
 
 (i) Fully consider requests from those educational institutions complying with requirements as stated in paragraphs (d)(1) through (3) of this section and be consistent in treatment of educational institutions in accordance with this part. Also, consider the value to the Service member as it relates to geographic location, accessibility and mission tempo.
 
@@ -276,7 +272,7 @@ Link to an amendment published at 86 FR 27976, May 25, 2021.
 
 (iii) Maintain copies of all correspondence in accordance with the DoD installation records management schedule and disposition, with a minimum time requirement of 2 years.
 
-(6) If a DoD installation grants access to an educational institution to provide guidance to their students, the educational institution and its agents will:
+(5) If a DoD installation grants access to an educational institution to provide guidance to their students, the educational institution and its agents will:
 
 (i) Only advise or counsel students at the education center or at a location approved by the responsible education advisor.
 
@@ -373,3 +369,5 @@ Link to an amendment published at 86 FR 27976, May 25, 2021.
 (D) Generate reports in accordance with guidance from the USD(P&R) and procedures in DTM 12-004, “DoD Internal Information Collections” (available at *http://www.dtic.mil/whs/directives/corres/pdf/DTM-12-004.pdf*) and DoD 8910-1-M, “Department of Defense Procedures for Management of Information Requirements” (available at *http://www.dtic.mil/whs/directives/corres/pdf/891001m.pdf*).
 
 (x) Provide data analyses and generate reports required by DoD and the Interservice Voluntary Education Board as needed.
+
+[79 FR 27737, May 15, 2014, as amended at 86 FR 27976, May 25, 2021]
