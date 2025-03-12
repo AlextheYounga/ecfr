@@ -1,0 +1,3 @@
+##### § 1830.4 Medical records. #####
+
+When a request for access involves medical records that are not otherwise exempt from disclosure, OSC may advise the requesting individual that OSC will only provide the records to a licensed health care professional the individual designates in writing. Upon receipt of the designation, the licensed health care professional will be permitted to review the records or to receive copies by mail upon proper verification of identity.

@@ -1,0 +1,3 @@
+##### § 1830.7 Exemptions. #####
+
+OSC exempts investigatory material from records subject to Privacy Act record requests or requests to amend records. This exemption aims to prevent interference with OSC's inquiries into matters under its jurisdiction, and to protect identities of confidential sources of information. OSC also reserves the right to assert exemptions for records received from another agency that could be properly claimed by that agency. OSC may exempt any information compiled in reasonable anticipation of a legal action or proceeding.

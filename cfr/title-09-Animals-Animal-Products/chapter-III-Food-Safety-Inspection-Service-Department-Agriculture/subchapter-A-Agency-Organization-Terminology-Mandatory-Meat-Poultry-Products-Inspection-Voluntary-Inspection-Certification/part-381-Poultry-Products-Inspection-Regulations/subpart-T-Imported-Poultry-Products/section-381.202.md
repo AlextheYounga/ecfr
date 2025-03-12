@@ -1,5 +1,7 @@
 ##### § 381.202 Poultry products offered for entry; reporting of findings to customs; handling of articles refused entry; appeals, how made; denaturing procedures. #####
 
+Link to an amendment published at 87 FR 63423, Oct. 19, 2022.
+
 (a)(1) Program inspectors shall report their findings as to any product which has been inspected in accordance with this part, to the Director of Customs at the original port of entry.
 
 (2) When product has been identified as “U.S. refused entry,” the inspector shall request the Director of Customs to refuse admission to such product and to direct that it be exported by the owner or consignee within the time specified in this section, unless the owner or consignee, within the specified time, causes it to be destroyed by disposing of it under the supervision of a Program employee so that the product can no longer be used as human food, or by converting it to animal food uses, if permitted by the Food and Drug Administration. The owner or consignee of the refused entry product shall not transfer legal title to such product, except to a foreign consignee for direct and immediate exportation, or an end user, e.g., an animal food manufacturer or a renderer, for destruction for human food purposes. “Refused entry” product must be delivered to and used by the manufacturer or renderer within the 45-day time limit. Even if such title is illegally transferred, the subsequent purchaser will still be required to export the product or have it destroyed as specified in the notice under paragraph (a)(4) of this section.

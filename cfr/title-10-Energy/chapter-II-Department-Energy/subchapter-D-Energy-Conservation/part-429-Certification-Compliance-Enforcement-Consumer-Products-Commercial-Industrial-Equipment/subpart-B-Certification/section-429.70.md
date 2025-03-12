@@ -1,5 +1,7 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
+Link to an amendment published at 87 FR 63649, Oct. 19, 2022.
+
 (a) *General applicability of an AEDM.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.62 may not distribute any basic model of such equipment in commerce unless the manufacturer has determined the energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model, the manufacturer may not knowingly use an AEDM to overrate the efficiency (or underrate the consumption) of the model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.

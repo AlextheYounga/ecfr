@@ -1,8 +1,8 @@
 ##### § 431.462 Definitions. #####
 
-Link to an amendment published at 87 FR 57298, Sept. 19, 2022.
-
 The following definitions are applicable to this subpart, including appendices A and B. In cases where there is a conflict, the language of the definitions adopted in this section takes precedence over any descriptions or definitions found in the 2014 version of ANSI/HI Standard 1.1-1.2, “Rotodynamic (Centrifugal) Pumps For Nomenclature And Definitions” (ANSI/HI 1.1-1.2-2014; incorporated by reference, see § 431.463), or the 2014 version of ANSI/HI Standard 2.1-2.2, “Rotodynamic (Vertical) Pumps For Nomenclature And Definitions” (ANSI/HI 2.1-2.2-2014; incorporated by reference, see § 431.463). In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
+
+*Adaptive pressure control* means a pressure control that senses the head requirements in the system in which it is installed and adjusts the pump control curve accordingly.
 
 *Bare pump* means a pump excluding mechanical equipment, driver, and controls.
 
@@ -24,6 +24,10 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Bowl diameter* means the maximum dimension of an imaginary straight line passing through and in the plane of the circular shape of the intermediate bowl of the bare pump that is perpendicular to the pump shaft and that intersects the outermost circular shape of the intermediate bowl of the bare pump at both of its ends, where the intermediate bowl is as defined in ANSI/HI 2.1-2.2-2014.
 
+*Circulator-less-volute* means a circulator pump distributed in commerce without a volute and for which a paired volute is also distributed in commerce. Whether a paired volute is distributed in commerce will be determined based on published data, marketing literature, and other publicly available information.
+
+*Circulator pump* means is a pump that is either a wet rotor circulator pumps; a dry rotor, two-piece circulator pump; or a dry rotor, three-piece circulator pump. A circulator pump may be distributed in commerce with or without a volute.
+
 *Clean water pump* means a pump that is designed for use in pumping water with a maximum non-absorbent free solid content of 0.016 pounds per cubic foot, and with a maximum dissolved solid content of 3.1 pounds per cubic foot, provided that the total gas content of the water does not exceed the saturation volume, and disregarding any additives necessary to prevent the water from freezing at a minimum of 14 °F.
 
 *Close-coupled pump* means a pump in which the motor shaft also serves as the impeller shaft for the bare pump.
@@ -44,11 +48,37 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Dry rotor pump* means a pump in which the motor rotor is not immersed in the pumped fluid.
 
+*Dry rotor, three-piece circulator pump* means:
+
+(1) A single stage, rotodynamic, single-axis flow, mechanically-coupled, dry rotor pump that:
+
+(i) Has a rated hydraulic power less than or equal to 5 hp at the best efficiency point at full impeller diameter,
+
+(ii) Is distributed in commerce with a horizontal motor, and
+
+(iii) Discharges the pumped liquid through a volute in a plane perpendicular to the shaft.
+
+(2) Examples include, but are not limited to, pumps generally referred to in industry as CP3.
+
+*Dry rotor, two-piece circulator pump* means:
+
+(1) A single stage, rotodynamic, single-axis flow, close-coupled, dry rotor pump that:
+
+(i) Has a rated hydraulic power less than or equal to 5 hp at best efficiency point at full impeller diameter,
+
+(ii) Is distributed in commerce with a horizontal motor, and
+
+(iii) Discharges the pumped liquid through a volute in a plane perpendicular to the shaft.
+
+(2) Examples include, but are not limited to, pumps generally referred to in industry as CP2.
+
 *End suction close-coupled (ESCC) pump* means a close-coupled, dry rotor, end suction pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and that is not a dedicated-purpose pool pump. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH7, as described in ANSI/HI 1.1-1.2-2014.
 
 *End suction frame mounted/own bearings (ESFM) pump* means a mechanically-coupled, dry rotor, end suction pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and that is not a dedicated-purpose pool pump. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH0 and OH1, as described in ANSI/HI 1.1-1.2-2014.
 
 *End suction pump* means a single-stage, rotodynamic pump in which the liquid enters the bare pump in a direction parallel to the impeller shaft and on the side opposite the bare pump's driver-end. The liquid is discharged through a volute in a plane perpendicular to the shaft.
+
+*External input signal control* means a variable speed drive that adjusts the speed of the driver in response to an input signal from an external logic and/or user interface.
 
 *Fire pump* means a pump that is compliant with NFPA 20-2016 (incorporated by reference, see § 431.463), “Standard for the Installation of Stationary Pumps for Fire Protection,” and is either:
 
@@ -60,7 +90,9 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Full impeller diameter* means the maximum diameter impeller with which a given pump basic model is distributed in commerce.
 
-*Horizontal motor* means a motor that requires the motor shaft to be in a horizontal position to function as designed, as specified in the manufacturer literature.
+*Header pump* means a circulator pump distributed in commerce without a volute and for which a paired volute is not distributed in commerce. Whether a paired volute is distributed in commerce will be determined based on published data, marketing literature, and other publicly available information.
+
+*Horizontal motor* means a motor, for which the motor shaft position when functioning under operating conditions specified in manufacturer literature, includes a horizontal position.
 
 *In-line (IL) pump* means a pump that is either a twin-head pump or a single-stage, single-axis flow, dry rotor, rotodynamic pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter, in which liquid is discharged through a volute in a plane perpendicular to the shaft. Such pumps do not include pumps that are mechanically coupled or close-coupled, have a pump power output that is less than or equal to 5 hp at BEP at full impeller diameter, and are distributed in commerce with a horizontal motor. Examples of in-line pumps include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH3, OH4, or OH5, as described in ANSI/HI 1.1-1.2-2014.
 
@@ -72,6 +104,8 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Magnet driven pump* means a pump in which the bare pump is isolated from the motor via a containment shell and torque is transmitted from the motor to the bare pump via magnetic force. The motor shaft is not physically coupled to the impeller or impeller shaft.
 
+*Manual speed control* means a control (variable speed drive and user interface) that adjusts the speed of the driver based on manual user input.
+
 *Mechanical equipment* means any component of a pump that transfers energy from the driver to the bare pump.
 
 *Mechanically-coupled pump* means a pump in which the bare pump has its own impeller shaft and bearings and so does not rely on the motor shaft to serve as the impeller shaft.
@@ -81,6 +115,14 @@ The following definitions are applicable to this subpart, including appendices A
 *Non-continuous control* means a control that adjusts the speed of a driver to one of a discrete number of non-continuous preset operating speeds, and does not respond to incremental reductions in the required pump flow, head, or power output.
 
 *Non-self-priming pool filter pump* means a pool filter pump that is not certified under NSF/ANSI 50-2015 (incorporated by reference, see § 431.463) to be self-priming and is not capable of re-priming to a vertical lift of at least 5.0 feet with a true priming time less than or equal to 10.0 minutes, when tested in accordance with section F of appendix B or C of this subpart, and is not a waterfall pump.
+
+*On-demand circulator pump* means a circulator pump that is distributed in commerce with an integral control that:
+
+(1) Initiates water circulation based on receiving a signal from the action of a user [of a fixture or appliance] or sensing the presence of a user of a fixture and cannot initiate water circulation based on other inputs, such as water temperature or a pre-set schedule.
+
+(2) Automatically terminates water circulation once hot water has reached the pump or desired fixture.
+
+(3) Does not allow the pump to operate when the temperature in the pipe exceeds 104 °F or for more than 5 minutes continuously.
 
 *Pool filter pump* means an end suction pump that:
 
@@ -95,6 +137,8 @@ The following definitions are applicable to this subpart, including appendices A
 *Pool pump timer* means a pool pump control that automatically turns off a dedicated-purpose pool pump after a run-time of no longer than 10 hours.
 
 *Pressure cleaner booster pump* means an end suction, dry rotor pump designed and marketed for pressure-side pool cleaner applications, and which may be UL listed under ANSI/UL 1081-2016 (incorporated by reference, see § 431.463).
+
+*Pressure control* means a control (variable speed drive and integrated logic) that automatically adjusts the speed of the driver in response to pressure.
 
 *Prime-assist pump* means a pump that:
 
@@ -156,6 +200,8 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Submersible turbine (ST) pump* means a single-stage or multi-stage, dry rotor, rotodynamic pump that is designed to be operated with the motor and stage(s) fully submerged in the pumped liquid; that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing; and in which each stage of this pump consists of an impeller and diffuser, and liquid enters and exits each stage of the bare pump in a direction parallel to the impeller shaft. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature VS0, as described in ANSI/HI 2.1-2.2-2014.
 
+*Temperature control* means a control (variable speed drive and integrated logic) that automatically adjusts the speed of the driver continuously over the driver operating speed range in response to temperature.
+
 *Twin head pump* means a dry rotor, single-axis flow, rotodynamic pump that contains two impeller assemblies, which both share a common casing, inlet, and discharge, and each of which
 
 (1) Contains an impeller, impeller shaft (or motor shaft in the case of close-coupled pumps), shaft seal or packing, driver (if present), and mechanical equipment (if present);
@@ -184,4 +230,6 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Waterfall pump* means a pool filter pump with a certified maximum head less than or equal to 30.0 feet, and a maximum speed less than or equal to 1,800 rpm.
 
-[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 82 FR 36920, Aug. 7, 2017]
+*Wet rotor circulator pump* means a single stage, rotodynamic, close-coupled, wet rotor pump. Examples include, but are not limited to, pumps generally referred to in industry as CP1.
+
+[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 82 FR 36920, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022]

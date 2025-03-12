@@ -32,4 +32,4 @@
 
 *Residential loan* means a TSP loan for the purchase or construction of a primary residence.
 
-[68 FR 35515, June 13, 2003, as amended at 70 FR 32217, June 1, 2005; 87 FR 31692, May 24, 2022]Editorial Note:At 87 FR 31692, May 24, 2022, in § 1655.1 a definition of "date of request" was set out; however, the amendment could not be incorporated because no action was given for it.
+[68 FR 35515, June 13, 2003, as amended at 70 FR 32217, June 1, 2005; 87 FR 31692, May 24, 2022]Editorial Note:At 87 FR 31692, May 24, 2022, in § 1655.1 a definition of “date of request” was set out; however, the amendment could not be incorporated because no action was given for it.

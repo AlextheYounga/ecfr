@@ -1,0 +1,3 @@
+##### § 1820.20 Procedure in the event a decision is not made prior to the time a response is required. #####
+
+If a requestor needs a response to a demand or request before the General Counsel makes a determination whether to grant the demand or request, the employee upon whom the demand or request is made, unless otherwise advised by the General Counsel, will appear, if necessary, at the stated time and place, produce a copy of this part, state that the employee has been advised by counsel not to provide the requested testimony or produce documents at this time, and respectfully decline to comply with the demand or request, citing *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

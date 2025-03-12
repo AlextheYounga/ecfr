@@ -1,5 +1,7 @@
 ##### § 500.1 Definitions. #####
 
+Link to an amendment published at 87 FR 63424, Oct. 19, 2022.
+
 (a) A “regulatory control action” is the retention of product, rejection of equipment or facilities, slowing or stopping of lines, or refusal to allow the processing of specifically identified product.
 
 (b) A “withholding action” is the refusal to allow the marks of inspection to be applied to products. A withholding action may affect all product in the establishment or product produced by a particular process.

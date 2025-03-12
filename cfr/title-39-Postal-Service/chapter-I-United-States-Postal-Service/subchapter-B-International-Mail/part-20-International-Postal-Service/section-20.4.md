@@ -2,9 +2,9 @@
 
 (a) The current issue of the IMM is incorporated by reference, see § 20.1.
 
-(b) New issues of the International Mail Manual will be incorporated by reference into this part and will be available at *http://pe.usps.gov.* The text of amendments to the International Mail Manual will be published in the Federal Register and will be available in the Postal Bulletin, copies of which may be accessed at *http://www.usps.com/cpim/ftp/bulletin/pb.htm.* Successive issues of the IMM are listed in Table 1 to this section.
+(b) New issues of the International Mail Manual will be incorporated by reference into this part and will be available at *https://pe.usps.gov.* The text of amendments to the International Mail Manual will be published in the Federal Register and will be available in the Postal Bulletin, copies of which may be accessed at *https://usps.com/cpim/ftp/bulletin/pb.htm.* Successive issues of the IMM are listed in Table 1 to this section.
 
-Table 1 to § 20.4 - International Mail Manual
+Table 1 to § 20.4—International Mail Manual
 
 |International Mail  <br/>Manual| Date of issuance  |
 |-------------------------------|-------------------|
@@ -49,5 +49,6 @@ Table 1 to § 20.4 - International Mail Manual
 |              IMM              |  March 5, 2018.   |
 |              IMM              |  March 4, 2019.   |
 |              IMM              |   July 1, 2020.   |
+|              IMM              |  July 10, 2022.   |
 
-[85 FR 61608, Sept. 30, 2020]
+[85 FR 61608, Sept. 30, 2020, as amended at 87 FR 63425, Oct. 19, 2022]

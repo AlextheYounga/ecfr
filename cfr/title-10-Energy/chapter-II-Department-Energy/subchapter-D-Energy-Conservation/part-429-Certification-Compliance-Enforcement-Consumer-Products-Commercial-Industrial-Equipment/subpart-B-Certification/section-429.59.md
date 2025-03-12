@@ -1,6 +1,6 @@
 ##### § 429.59 Pumps. #####
 
-Link to an amendment published at 87 FR 57297, Sept. 19, 2022.Note 1 to § 429.59:
+Note 1 to § 429.59:
 
 Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.59 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 
@@ -8,23 +8,17 @@ Prior to February 17, 2023, certification reports must be submitted as required 
 
 (1) Units to be tested. The requirements of § 429.11 are applicable to pumps; and for each basic model, a sample of sufficient size shall be randomly selected and tested to ensure that -
 
-(i) Any value of the constant or variable load pump energy index or other measure of energy consumption must be greater than or equal to the higher of:
+(i) Any representation of the constant load pump energy index (PEICL), variable load pump energy index (PEIVL), circulator energy index (CEI), or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
-(A) The mean of the sample, where:
+(A) The mean of the sample,
 
-![](/graphics/er25ja16.025.gif)
-
-and *x* is the sample mean; n is the number of samples; and xi is the maximum of the ith sample;
+where:![](/graphics/er19se22.031.gif)and x is the sample mean, n is the number of samples, and xi is the maximum of the ith sample;
 
 Or,
 
-(B) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.05, where:
+(B) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.05,
 
-![](/graphics/er25ja16.026.gif)
-
-and *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of part 429);
-
-and
+where:![](/graphics/er19se22.032.gif)and x is the sample mean, *s* is the sample standard deviation, n is the number of samples, and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of subpart B of part 429).
 
 (ii) Any representation of weighted energy factor of a basic model must be less than or equal to the lower of:
 
@@ -40,11 +34,19 @@ And x is the sample mean; n is the number of samples; and xi is the maximum of t
 
 And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
-(2) *Other representations* - (i) *Rated hydraulic horsepower.* The representative value of rated hydraulic horsepower of a basic model of dedicated-purpose pool pump must be the mean of the rated hydraulic horsepower for each tested unit.
+(2) *Other representations* - (i) *Rated hydraulic horsepower.* The representative value of rated hydraulic horsepower of a basic model of dedicated-purpose pool pump or circulator pump must be the mean of the rated hydraulic horsepower for each tested unit.
 
 (ii) *Dedicated-purpose pool pump motor total horsepower.* The representative value of dedicated-purpose pool pump motor total horsepower of a basic model of dedicated-purpose pool pump must be the mean of the dedicated-purpose pool pump motor total horsepower for each tested unit.
 
 (iii) *True power factor (PF*i*).* The representative value of true power factor at each load point i of a basic model of dedicated-purpose pool pump must be the mean of the true power factors at that load point for each tested unit of dedicated-purpose pool pump.
+
+(iv) *Input power.* The representative value(s) of input power of a basic model of circulator pump at a load point(s) used in the calculation of CEI must be determined based on the mean of the input power at measured data point(s) for each tested unit.
+
+(v) *Flow at BEP and maximum speed.* The representative value of flow at BEP and maximum speed of a basic model of circulator pump must be determined based on the mean of the flow at BEP and maximum speed for each tested unit.
+
+(vi) *Head at BEP and maximum speed.* The representative value of head at BEP and maximum speed of a basic model of circulator pump must be determined based on the mean of the head at BEP and maximum speed for each tested unit.
+
+(vii) *Other reported values.* The representative value of any other reported value of a basic model of circulator pump must be determined based on the mean of that value for each tested unit.
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to pumps; and
 
@@ -89,4 +91,4 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (2) Or must otherwise provide sufficient information to identify the specific driver model and/or controls model(s) with which a bare pump is distributed.
 
-[81 FR 4144, Jan. 25, 2016, as amended at 81 FR 4430, Jan. 26, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 43979, July 22, 2022]
+[81 FR 4144, Jan. 25, 2016, as amended at 81 FR 4430, Jan. 26, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 43979, July 22, 2022; 87 FR 57297, Sept. 19, 2022]

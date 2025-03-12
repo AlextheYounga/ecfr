@@ -1,7 +1,5 @@
 ##### § 51-4.3 Maintaining qualification. #####
 
-Link to an amendment published at 87 FR 43433, July 21, 2022.
-
 (a) To maintain its qualification under the JWOD Act, each nonprofit agency authorized to furnish a commodity or a service shall continue to comply with the requirements of a “nonprofit agency for other severely handicapped” or a “nonprofit agency for the blind” as defined in § 51-1.3 of this chapter. In addition, each such nonprofit agency must submit to its central nonprofit agency by November 1 of each year, two completed copies of the appropriate Annual Certification (Committee Form 403 or 404) covering the fiscal year ending the preceding September 30.
 
 (b) In addition to paragraph (a) of this section, each nonprofit agency participating in the Ability One Program shall:
@@ -24,6 +22,8 @@ Link to an amendment published at 87 FR 43433, July 21, 2022.
 
 (9) Upon receipt of payment by the Government for commodities or services furnished under the Ability One Program, pay to the central nonprofit agency a fee which meets the requirements of § 51-3.5 of this chapter.
 
+(10) Certify the nonprofit agency will not use wage certificates authorized under section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)) to employees on any contract or subcontract under the AbilityOne Program.
+
 (c) Each nonprofit agency employing persons with severe disabilities participating in the AbilityOne Program shall, in addition to the requirements of paragraphs (a) and (b) of this section, maintain in each individual with a severe disability's file:
 
 (1) A written report signed by a licensed physician, psychiatrist, or qualified psychologist, reflecting the nature and extent of the disability or disabilities that cause such person to qualify as a person with a severe disability, or a certification of the disability or disabilities by a State or local governmental entity.
@@ -39,4 +39,4 @@ Link to an amendment published at 87 FR 43433, July 21, 2022.
 |Committee form 403|   3037-0001   |
 |Committee form 404|   3037-0002   |
 
-The recordkeeping requirements have been assigned OMB control number 3037-0005.[56 FR 48980, Sept. 26, 1991; 56 FR 64002, Dec. 6, 1991, as amended at 59 FR 59343, Nov. 16, 1994; 62 FR 32237, June 13, 1997; 62 FR 66529, Dec. 19, 1997; 68 FR 53685, Sept. 12, 2003; 71 FR 68494, Nov. 27, 2006; 73 FR 28043, May 15, 2008]
+The recordkeeping requirements have been assigned OMB control number 3037-0005.[56 FR 48980, Sept. 26, 1991; 56 FR 64002, Dec. 6, 1991, as amended at 59 FR 59343, Nov. 16, 1994; 62 FR 32237, June 13, 1997; 62 FR 66529, Dec. 19, 1997; 68 FR 53685, Sept. 12, 2003; 71 FR 68494, Nov. 27, 2006; 73 FR 28043, May 15, 2008; 87 FR 43433, July 21, 2022]

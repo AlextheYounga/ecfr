@@ -1,7 +1,5 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 57298, Sept. 19, 2022.
-
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
@@ -204,6 +202,22 @@ Link to an amendment published at 87 FR 57298, Sept. 19, 2022.
 
 (C) If none of the conditions specified in paragraph (i)(2)(iv)(B) of this section are met, including if the DPPP freeze protection control does not initiate water circulation at all during the test, the dedicated-purpose pool pump under test is deemed compliant with the design requirement for freeze protection controls.
 
+(3) *Circulator pumps.* (i) The flow rate at BEP and maximum speed of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.464(c) of this chapter, where the value of flow rate at BEP and maximum speed certified by the manufacturer will be treated as the expected BEP flow rate at maximum speed. The resulting measurement(s) will be compared to the value of flow rate at BEP and maximum speed certified by the manufacturer. The certified flow rate at BEP and maximum speed will be considered valid only if the measurement (either the measured flow rate at BEP and maximum speed for a single unit sample or the average of the measured flow rates for a multiple unit sample) is within 5 percent of the certified flow rate at BEP and maximum speed.
+
+(A) If the representative value of flow rate is found to be valid, the measured flow rate at BEP and maximum speed will be used in subsequent calculations of circulator energy rating (CER) and circulator energy index (CEI) for that basic model.
+
+(B) If the representative value of flow rate at BEP and maximum speed is found to be invalid, the mean of all the measured values of flow rate at BEP and maximum speed determined from the tested unit(s) will serve as the new expected BEP flow rate and the unit(s) will be retested until such time as the measured flow rate at BEP and maximum speed is within 5 percent of the expected BEP flow rate.
+
+(ii) The rated hydraulic horsepower of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.464(c) of this chapter. The resulting measurement will be compared to the rated hydraulic horsepower certified by the manufacturer. The certified rated hydraulic horsepower will be considered valid only if the measurement (either the measured rated hydraulic horsepower for a single unit sample or the average of the measured rated hydraulic horsepower values for a multiple unit sample) is within 5 percent of the certified rated hydraulic horsepower.
+
+(A) If the certified rated hydraulic horsepower is found to be valid, the certified rated hydraulic horsepower will be used as the basis for determining scope of applicability for that model.
+
+(B) If the certified rated hydraulic horsepower is found to be invalid, the arithmetic mean of all the hydraulic horsepower values resulting from DOE's testing will be used as the basis for determining scope of applicability for that model.
+
+(iii) DOE will test each circulator pump unit according to the control setting with which the unit was rated. If no control setting is specified and no controls were available, DOE will test using the full speed test. If no control setting is specified and a variety of controls are available, DOE will test using the test method for any one of the control varieties available on board.
+
+(iv) DOE will test each circulator pump using the description and equation for the control curve with which it was rated, if available.
+
 (j) *Refrigerated bottled or canned beverage vending machines* - (1) *Verification of refrigerated volume.* The refrigerated volume (V) of each tested unit of the basic model will be measured pursuant to the test requirements of 10 CFR 431.296. The results of the measurement(s) will be compared to the representative value of refrigerated volume certified by the manufacturer. The certified refrigerated volume will be considered valid only if the measurement(s) (either the measured refrigerated volume for a single unit sample or the average of the measured refrigerated volumes for a multiple unit sample) is within five percent of the certified refrigerated volume.
 
 (i) If the representative value of refrigerated volume is found to be valid, the certified refrigerated volume will be used as the basis for calculation of maximum daily energy consumption for the basic model.
@@ -337,4 +351,4 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (u) *Battery chargers* - *verification of reported represented value obtained from testing in accordance with appendix Y1 of 10 CFR part 430 subpart B when using an external power supply.* If the battery charger basic model requires the use of an external power supply (“EPS”), and the manufacturer reported EPS is no longer available on the market, then DOE will test the battery charger with any compatible EPS that is minimally compliant with DOE's energy conservation standards for EPSs as prescribed in § 430.32(w) of this subchapter and that meets the battery charger input power criteria.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022]

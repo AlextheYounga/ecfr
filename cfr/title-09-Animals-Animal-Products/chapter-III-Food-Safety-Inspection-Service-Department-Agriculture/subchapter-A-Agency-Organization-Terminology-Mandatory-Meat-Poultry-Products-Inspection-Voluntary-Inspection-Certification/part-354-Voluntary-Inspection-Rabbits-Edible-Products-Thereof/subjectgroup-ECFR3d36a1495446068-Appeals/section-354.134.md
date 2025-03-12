@@ -1,3 +1,5 @@
 ##### § 354.134 Appeal inspections; how made. #####
 
+Link to an amendment published at 87 FR 63423, Oct. 19, 2022.
+
 Any person receiving inspection service may, if dissatisfied with any decision of an inspector relating to any inspection, file an appeal from such decision: *Provided,* That such appeal is filed within 48 hours from the time the decision was made. Any such appeal from a decision of an inspector shall be made to his immediate superior having jurisdiction over the subject matter of the appeal. Review of such appeal findings, when requested, shall be made by the immediate superior of the employee of the Department making the appeal inspection. The cost of any such appeal shall be borne by the applicant if the Administrator determines that the appeal is frivolous. The charges for such frivolous appeal shall be based on the hourly rates as specified in § 354.101(b).

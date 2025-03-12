@@ -1,0 +1,3 @@
+##### § 1810.4 Investigative policy regarding agency liaisons. #####
+
+Agency liaisons facilitate their agency's cooperation with OSC's investigations by ensuring that agencies timely and accurately respond to OSC's requests for information and witness testimony, as well as by assisting with the resolution of complaints. To maintain the integrity of OSC's investigations and to avoid actual or perceived conflicts, agency liaisons should not have current or past involvement in the personnel actions at issue in the assigned case.

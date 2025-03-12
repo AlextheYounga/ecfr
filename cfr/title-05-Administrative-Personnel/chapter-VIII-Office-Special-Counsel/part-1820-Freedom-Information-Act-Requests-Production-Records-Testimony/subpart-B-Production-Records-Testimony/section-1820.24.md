@@ -1,0 +1,3 @@
+##### § 1820.24 Conformity with other laws and regulations; other rights. #####
+
+This regulation is not intended to conflict with 5 U.S.C. 2302(b)(13) or with any statutory or common law privilege against the release of protected information. This part does not create any right, entitlement, or benefit, substantive or procedural, that a party may rely upon in any legal proceeding against the United States.

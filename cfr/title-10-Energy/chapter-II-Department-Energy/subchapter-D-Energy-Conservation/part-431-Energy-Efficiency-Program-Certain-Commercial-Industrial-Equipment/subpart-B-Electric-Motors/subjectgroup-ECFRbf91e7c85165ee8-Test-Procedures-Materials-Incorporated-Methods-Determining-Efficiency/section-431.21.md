@@ -1,5 +1,7 @@
 ##### § 431.21 Procedures for recognition and withdrawal of recognition of accreditation bodies and certification programs. #####
 
+Link to an amendment published at 87 FR 63657, Oct. 19, 2022.
+
 (a) *Filing of petition.* Any petition submitted to the Department pursuant to §§ 431.19(a) or 431.20(a), shall be entitled “Petition for Recognition” (“Petition”) and must be submitted, in triplicate to the Assistant Secretary for Energy Efficiency and Renewable Energy, U.S. Department of Energy, Forrestal Building, 1000 Independence Avenue, SW., Washington, DC 20585-0121. In accordance with the provisions set forth in 10 CFR 1004.11, any request for confidential treatment of any information contained in such a Petition or in supporting documentation must be accompanied by a copy of the Petition or supporting documentation from which the information claimed to be confidential has been deleted.
 
 (b) *Public notice and solicitation of comments.* DOE shall publish in the Federal Register the Petition from which confidential information, as determined by DOE, has been deleted in accordance with 10 CFR 1004.11 and shall solicit comments, data and information on whether the Petition should be granted. The Department shall also make available for inspection and copying the Petition's supporting documentation from which confidential information, as determined by DOE, has been deleted in accordance with 10 CFR 1004.11. Any person submitting written comments to DOE with respect to a Petition shall also send a copy of such comments to the petitioner.

@@ -1,7 +1,5 @@
 ##### § 431.464 Test procedure for the measurement of energy efficiency, energy consumption, and other performance factors of pumps. #####
 
-Link to an amendment published at 87 FR 57299, Sept. 19, 2022.
-
 (a) *General pumps* - (1) *Scope.* This paragraph (a) provides the test procedures for determining the constant and variable load pump energy index for:
 
 (i) The following categories of clean water pumps:
@@ -72,4 +70,8 @@ Link to an amendment published at 87 FR 57299, Sept. 19, 2022.
 
 (2) *Testing and calculations.* Determine the weighted energy factor (WEF) using the test procedure set forth in appendix B or appendix C of this subpart, as applicable.
 
-[82 FR 36923, Aug. 7, 2017]
+(c) *Circulator pumps* - (1) *Scope.* This paragraph (c) provides the test procedures for determining the circulator energy index for circulator pumps that are also clean water pumps, including on-demand circulator pumps and circulators-less-volute, and excluding submersible pumps and header pumps.
+
+(2) *Testing and calculations.* Determine the circulator energy index (CEI) using the test procedure set forth in appendix D of this subpart Y.
+
+[82 FR 36923, Aug. 7, 2017, as amended at 87 FR 57299, Sept. 19, 2022]

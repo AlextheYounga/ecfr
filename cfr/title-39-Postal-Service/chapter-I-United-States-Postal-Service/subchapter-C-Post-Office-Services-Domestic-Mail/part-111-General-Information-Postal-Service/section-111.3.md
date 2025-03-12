@@ -12,7 +12,7 @@
 
 (f) For references to amendments to the Mailing Standards of the United States Postal Service, Domestic Mail Manual adopted under paragraph (b) of this section after issuance of the most recent transmittal letter (termed Summary of Changes in the Mailing Standards of the United States Postal Service, Domestic Mail Manual) listed below, see § 111.3 in the List of CFR Sections affected at the end of this volume.
 
-Table 1 to § 111.3 - Domestic Mail Manual
+Table 1 to § 111.3—Domestic Mail Manual
 
 |Transmittal letter for issue|      Dated       |Federal Register publication|
 |----------------------------|------------------|----------------------------|
@@ -88,5 +88,6 @@ Table 1 to § 111.3 - Domestic Mail Manual
 |            DMM             |  March 5, 2018   |        83 FR 17922.        |
 |            DMM             |  March 4, 2019   |        84 FR 24392.        |
 |            DMM             |   July 1, 2020   |        85 FR 61609.        |
+|            DMM             |  July 10, 2022   |        87 FR 63425.        |
 
 [45 FR 40115, June 13, 1980]Editorial Note:For Federal Register citations affecting § 111.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

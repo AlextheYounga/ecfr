@@ -1,5 +1,7 @@
 ##### § 431.17 Determination of efficiency. #####
 
+Link to an amendment published at 87 FR 63657, Oct. 19, 2022.
+
 When a party determines the energy efficiency of an electric motor in order to comply with an obligation imposed on it by or pursuant to Part C of Title III of EPCA, 42 U.S.C. 6311-6316, this Section applies. This section does not apply to enforcement testing conducted pursuant to § 431.192.
 
 (a) *Provisions applicable to all electric motors* - (1) *General requirements.* The average full load efficiency of each basic model of electric motor must be determined either by testing in accordance with § 431.16 of this subpart, or by application of an alternative efficiency determination method (AEDM) that meets the requirements of paragraphs (a)(2) and (3) of this section, provided, however, that an AEDM may be used to determine the average full load efficiency of one or more of a manufacturer's basic models only if the average full load efficiency of at least five of its other basic models is determined through testing.

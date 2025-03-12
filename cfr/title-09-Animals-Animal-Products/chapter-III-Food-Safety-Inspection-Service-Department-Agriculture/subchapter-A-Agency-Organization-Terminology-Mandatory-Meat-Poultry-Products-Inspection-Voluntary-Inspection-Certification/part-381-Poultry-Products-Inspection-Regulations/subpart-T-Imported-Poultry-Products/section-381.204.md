@@ -1,5 +1,7 @@
 ##### § 381.204 Marking of poultry products offered for entry; official import inspection marks and devices. #####
 
+Link to an amendment published at 87 FR 63423, Oct. 19, 2022.
+
 (a) Except for products offered for entry from Canada, poultry products which upon reinspection are found to be acceptable for entry into the United States shall be marked with the official inspection legend shown in paragraph (b) of this section. Such inspection legend shall be placed upon such products only after completion of official import inspection and product acceptance.
 
 (b) The official mark for marking poultry products offered for entry as “U.S. inspected and passed” shall be in the following form, and any device approved by the Administrator for applying such mark shall be an official device.2

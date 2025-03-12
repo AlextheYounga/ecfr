@@ -1,0 +1,3 @@
+##### § 1820.3 Consultations and referrals. #####
+
+When OSC receives a FOIA request for a record in its possession, it may determine that another Federal agency or entity is better able to decide whether the record is exempt from disclosure under the FOIA. If so, OSC will either respond to the request for the record after consulting with the other Federal agency or entity or refer the responsibility for responding to the request to the other Federal agency or entity deemed better able to determine whether to release it. OSC will ordinarily respond promptly to consultations and referrals from other Federal agencies or entities.

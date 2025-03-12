@@ -1,0 +1,3 @@
+##### § 1850.140 Program accessibility: Discrimination against qualified individuals with disabilities prohibited. #####
+
+Except as otherwise provided in § 1850.150, no qualified individual with disabilities shall, because OSC's facilities are inaccessible to or unusable by individuals with disabilities, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by OSC.

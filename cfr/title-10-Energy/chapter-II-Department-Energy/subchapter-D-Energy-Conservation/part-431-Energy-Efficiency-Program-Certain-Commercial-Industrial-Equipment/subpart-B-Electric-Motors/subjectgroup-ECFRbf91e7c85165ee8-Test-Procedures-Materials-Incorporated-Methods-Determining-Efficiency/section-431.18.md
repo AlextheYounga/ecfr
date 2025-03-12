@@ -1,5 +1,7 @@
 ##### § 431.18 Testing laboratories. #####
 
+Link to an amendment published at 87 FR 63657, Oct. 19, 2022.
+
 (a) Testing pursuant to § 431.17(a)(5)(ii) must be conducted in an accredited laboratory for which the accreditation body was:
 
 (1) The National Institute of Standards and Technology/National Voluntary Laboratory Accreditation Program (NIST/NVLAP); or

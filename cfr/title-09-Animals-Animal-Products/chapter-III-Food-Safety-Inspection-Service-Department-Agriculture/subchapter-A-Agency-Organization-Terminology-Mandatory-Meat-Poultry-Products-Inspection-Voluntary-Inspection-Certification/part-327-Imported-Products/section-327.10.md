@@ -1,5 +1,7 @@
 ##### § 327.10 Samples; inspection of consignments; refusal of entry; marking. #####
 
+Link to an amendment published at 87 FR 63423, Oct. 19, 2022.
+
 (a) Program inspectors may take, without cost to the United States, for laboratory examination, samples of any product which is subject to analysis, from each consignment offered for importation, except that such samples shall not be taken of any product offered for importation under § 327.16.
 
 (b) Except for product offered for entry from Canada, the outside containers of all products offered for entry from any foreign country and accompanied with a foreign inspection certificate as required by this part, which, upon reinspection by import inspectors are found not to be adulterated or misbranded and are otherwise eligible for entry into the United States under this part, or the products themselves if not in containers, shall be marked with the official inspection legend prescribed in § 327.26 of this part. Except for Canadian product, all other products so marked, in compliance with this part, shall be entered into the United States, insofar as such entry is regulated under the Act.

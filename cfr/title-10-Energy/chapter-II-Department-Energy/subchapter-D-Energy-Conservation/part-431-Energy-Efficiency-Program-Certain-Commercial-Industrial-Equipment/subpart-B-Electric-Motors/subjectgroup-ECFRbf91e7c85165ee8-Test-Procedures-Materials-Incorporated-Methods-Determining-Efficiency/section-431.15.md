@@ -1,5 +1,7 @@
 ##### § 431.15 Materials incorporated by reference. #####
 
+Link to an amendment published at 87 FR 63656, Oct. 19, 2022.
+
 (a) *General.* Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Energy must publish a document in the Federal Register and the material must be available to the public. Standards can be obtained from the sources below. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-2945, or go to *http://www1.eere.energy.gov/buildings/appliance\_standards/.* It is also available at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email: *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) *CSA.* Canadian Standards Association, Sales Department, 5060 Spectrum Way, Suite 100, Mississauga, Ontario, L4W 5N6, Canada, 1-800-463-6727, or go to *http://www.shopcsa.ca/onlinestore/welcome.asp.*

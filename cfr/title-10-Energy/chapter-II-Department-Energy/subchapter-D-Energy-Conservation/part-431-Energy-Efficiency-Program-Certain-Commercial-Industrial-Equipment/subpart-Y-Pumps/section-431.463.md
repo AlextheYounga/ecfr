@@ -1,8 +1,6 @@
 ##### § 431.463 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 57299, Sept. 19, 2022.
-
-(a) *General.* DOE incorporates by reference the following standards into subpart Y of this part. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE test procedures unless and until amended by DOE. Material is incorporated as it exists on the date of the approval, and notification of any change in the material will be published in the Federal Register. All approved material can be obtained from the sources listed in this section and is available for inspection at the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards*. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
+(a) *General.* Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs:
 
 (b) *CSA.* Canadian Standards Association, 5060 Spectrum Way, Suite 100, Mississauga, Ontario, L4W 5N6, Canada, (800) 463-6727. *www.csagroup.org*.
 
@@ -33,6 +31,10 @@ Link to an amendment published at 87 FR 57299, Sept. 19, 2022.
 (3) HI 40.6-2014, (“HI 40.6-2014”), “Methods for Rotodynamic Pump Efficiency Testing,” (except section 40.6.5.3, “Test report;” Appendix A, section A.7, “Testing at temperatures exceeding 30 °C (86 °F);” and Appendix B, “Reporting of test results (normative);”) copyright 2014, IBR approved for appendix A to subpart Y of part 431.
 
 (4) HI 40.6-2014, (“HI 40.6-2014-B”), “Methods for Rotodynamic Pump Efficiency Testing” (except sections 40.6.4.1 “Vertically suspended pumps”, 40.6.4.2 “Submersible pumps”, 40.6.5.3 “Test report”, 40.6.5.5 “Test conditions”, 40.6.5.5.2 “Speed of rotation during test”, and 40.6.6.1 “Translation of test results to rated speed of rotation”, Appendix A “Test arrangements (normative)”: A.7 “Testing at temperatures exceeding 30 °C (86 °F)”, and Appendix B, “Reporting of test results (normative)”), copyright 2014, IBR approved for appendices B and C to this subpart.
+
+(5) HI 40.6-2021, *Hydraulic Institute Standard for Methods for Rotodynamic Pump Efficiency Testing,* approved February 17, 2021; IBR approved for appendix D to this subpart.
+
+(6) HI 41.5-2022, *Hydraulic Institute Program Guideline for Circulator Pump Energy Rating Program,* approved June 16, 2022; IBR approved for appendix D to this subpart.
 
 (e) *IEEE.* Institute of Electrical and Electronics Engineers, Inc., 45 Hoes Lane, P.O. Box 1331, Piscataway, NJ 08855-1331, (732) 981-0060. *http://www.ieee.org*.
 
@@ -90,4 +92,4 @@ Link to an amendment published at 87 FR 57299, Sept. 19, 2022.
 
 (2) UL 1081, (“ANSI/UL 1081-2016”), “Standard for Swimming Pool Pumps, Filters, and Chlorinators,” 7th Edition, ANSI approved October 21, 2016, IBR approved for § 431.462.
 
-[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 36920, Aug. 7, 2017]
+[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 36920, Aug. 7, 2017; 87 FR 57299, Sept. 19, 2022]

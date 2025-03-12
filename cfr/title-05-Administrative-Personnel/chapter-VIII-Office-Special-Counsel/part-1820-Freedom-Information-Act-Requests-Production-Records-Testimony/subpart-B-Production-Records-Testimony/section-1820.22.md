@@ -1,0 +1,3 @@
+##### § 1820.22 Final determination. #####
+
+The General Counsel will notify the requestor and, when appropriate, the court or other body of the final determination, the reasons for the response to the request or demand, and any conditions that the General Counsel may impose on the testimony of an OSC employee or the release of OSC records or information. The General Counsel has the sole discretion to make the final determination regarding requests to employees for testimony or production of official records and information in litigation in which OSC is not a party. The General Counsel's decision exhausts administrative remedies for purposes of release of the information.

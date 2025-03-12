@@ -1,0 +1,3 @@
+##### § 1850.130 Employment of qualified individuals with disabilities. #####
+
+OSC shall not subject any qualified individual with a disability, on the basis of such disability, to discrimination in employment under any program or activity OSC conducts. The definitions, requirements, and procedures of Section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), as established by the Equal Employment Opportunity Commission in 29 CFR part 1614, shall apply to employment in federally conducted programs or activities.

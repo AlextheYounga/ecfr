@@ -1,5 +1,7 @@
 ##### § 431.14 Sources for information and guidance. #####
 
+Link to an amendment published at 87 FR 63656, Oct. 19, 2022.
+
 (a) *General.* The standards listed in this paragraph are referred to in the DOE procedures for testing laboratories, and recognition of accreditation bodies and certification programs but are not incorporated by reference. These sources are given here for information and guidance.
 
 (b) *NVLAP.* National Voluntary Laboratory Accreditation Program, National Institute of Standards and Technology, 100 Bureau Drive, M/S 2140, Gaithersburg, MD 20899-2140, 301-975-4016, or go to *http://www.nist.gov/nvlap/.* Also see *http://www.nist.gov/nvlap/nvlap-handbooks.cfm.*
