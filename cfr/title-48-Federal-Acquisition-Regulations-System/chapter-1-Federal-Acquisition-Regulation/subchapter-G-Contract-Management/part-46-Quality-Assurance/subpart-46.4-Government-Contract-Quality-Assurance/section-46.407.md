@@ -1,5 +1,7 @@
 ##### 46.407 Nonconforming supplies or services. #####
 
+Link to an amendment published at 84 FR 64695, Nov. 22, 2019.
+
 (a) The contracting officer should reject supplies or services not conforming in all respects to contract requirements (see 46.102). In those instances where deviation from this policy is found to be in the Government's interest, such supplies or services may be accepted only as authorized in this section.
 
 (b) The contracting officer ordinarily must give the contractor an opportunity to correct or replace nonconforming supplies or services when this can be accomplished within the required delivery schedule. Unless the contract specifies otherwise (as may be the case in some cost-reimbursement contracts), correction or replacement must be without additional cost to the Government. Subparagraph (e)(2) of the clause at 52.246-2, Inspection of Supplies - Fixed-Price, reserves to the Government the right to charge the contractor the cost of Government reinspection and retests because of prior rejection.

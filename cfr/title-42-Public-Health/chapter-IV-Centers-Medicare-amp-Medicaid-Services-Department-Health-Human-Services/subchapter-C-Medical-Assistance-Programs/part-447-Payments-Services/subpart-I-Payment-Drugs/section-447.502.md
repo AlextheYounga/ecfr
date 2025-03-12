@@ -1,5 +1,7 @@
 ##### § 447.502 Definitions. #####
 
+Link to an amendment published at 84 FR 64786, Nov. 25, 2019.
+
 For the purpose of this subpart, the following definitions apply:
 
 *Actual acquisition cost (AAC)* means the agency's determination of the pharmacy providers' actual prices paid to acquire drug products marketed or sold by specific manufacturers.

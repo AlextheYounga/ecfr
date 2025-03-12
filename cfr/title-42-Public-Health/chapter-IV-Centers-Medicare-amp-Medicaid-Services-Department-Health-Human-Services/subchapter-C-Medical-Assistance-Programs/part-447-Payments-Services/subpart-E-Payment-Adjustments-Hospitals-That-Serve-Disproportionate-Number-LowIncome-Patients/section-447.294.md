@@ -1,10 +1,8 @@
-##### § 447.294 Medicaid disproportionate share hospital (DSH) allotment reductions for Federal fiscal year 2014 and Federal fiscal year 2015. #####
+##### § 447.294 Medicaid disproportionate share hospital (DSH) allotment reductions. #####
 
-Link to an amendment published at 84 FR 50332, Sept. 25, 2019.
+(a) *Basis and purpose.* This section sets forth the DSH health reform methodology (DHRM) for calculating State-specific annual DSH allotment reductions as required under section 1923(f) of the Act.
 
-(a) *Basis and purpose.* This section sets forth the DSH health reform methodology (DHRM) for calculating State-specific annual DSH allotment reductions from Federal fiscal year 2014 and Federal fiscal year 2015 as required under section 1923(f) of the Act.
-
-(b) *Definitions.* For purposes of this section -
+(b) *Definitions.* For purposes of this section—
 
 *Aggregate DSH allotment reductions* mean the amounts identified in section 1923(f)(7)(A)(ii) of the Act.
 
@@ -38,6 +36,8 @@ Link to an amendment published at 84 FR 50332, Sept. 25, 2019.
 
 *State-specific DSH allotment reduction* means the amount of annual DSH allotment reduction for a particular State as determined by the DHRM.
 
+*Total hospital cost* has the meaning given the term in § 447.299(c)(20).
+
 *Total Medicaid cost* means the amount for each hospital reported in accordance with § 447.299(c)(10).
 
 *Total population* means the 1-year estimates data of the total non-institutionalized population identified by United States Census Bureau's American Community Survey.
@@ -56,9 +56,9 @@ Link to an amendment published at 84 FR 50332, Sept. 25, 2019.
 
 (c) *Aggregate DSH allotment reduction amounts.* The aggregate DSH allotment reduction amounts are as provided in section 1923(f)(7)(A)(ii) of the Act.
 
-(d) *State data submission requirements.* States are required to submit the mean MIUR, determined in accordance with section 1923(b)(1)(A) of the Act, for all hospitals receiving Medicaid payments in the State and the value of one standard deviation above such mean. States must provide the data for State Plan Rate Year (SPRY) 2008, SPRY 2009, SPRY 2010, and SPRY 2011 by June 30, 2014. States must provide this data for each subsequent SPRY to CMS by June 30 of each year. To determine which SPRY's data the state must submit, subtract 3 years from the calendar year in which the data is due. For example, SPRY 2012 data must be submitted to CMS by June 30, 2015.
+(d) *State data submission requirements.* States are required to submit the mean MIUR, determined in accordance with section 1923(b)(1)(A) of the Act, for all hospitals receiving Medicaid payments in the State and the value of one standard deviation above such mean. The State must provide this data to CMS by June 30 of each year. To determine which state plan rate year's data the state must submit, subtract 3 years from the calendar year in which the data is due.
 
-(e) *DHRM methodology.* Section 1923(f)(7) of the Act requires aggregate annual reduction amounts for FY 2014 and FY 2015 to be reduced through the DHRM. The DHRM is calculated on an annual basis based on the most recent data available to CMS at the time of the calculation. The DHRM is determined as follows:
+(e) *DHRM methodology.* Section 1923(f)(7) of the Act requires aggregate annual reduction amounts as specified in paragraph (f) of this section to be reduced through the DHRM. The DHRM is calculated on an annual basis based on the most recent data available to CMS at the time of the calculation. The DHRM is determined as follows:
 
 (1) *Establishing State groups.* For each FY, CMS will separate low-DSH States and non-low DSH states into distinct State groups.
 
@@ -72,7 +72,7 @@ Link to an amendment published at 84 FR 50332, Sept. 25, 2019.
 
 (3) *Low DSH adjustment factor (LDF) calculation.* CMS will calculate the LDF by the following:
 
-(i) Dividing each State's preliminary unreduced DSH allotment by their respective total Medicaid service expenditures.
+(i) Dividing each State's preliminary unreduced DSH allotment by their respective total estimated Medicaid service expenditures for the applicable fiscal year.
 
 (ii) Calculating for each State group the mean of all values determined in paragraph (e)(3)(i) of this section.
 
@@ -90,11 +90,11 @@ Link to an amendment published at 84 FR 50332, Sept. 25, 2019.
 
 (5) *Reduction factor allocation.* CMS will allocate the aggregate DSH allotment reduction amount to three core factors by multiply the aggregate DSH allotment reduction amount for each State group by the following:
 
-(i) UPF - 33 and1/3 percent.
+(i) UPF—50 percent.
 
-(ii) HMF - 33 and1/3 percent.
+(ii) HMF—25 percent.
 
-(iii) HUF - 33 and1/3 percent.
+(iii) HUF—25 percent.
 
 (6) *Uninsured percentage factor (UPF) calculation.* CMS will calculate the UPF by the following:
 
@@ -140,6 +140,8 @@ Link to an amendment published at 84 FR 50332, Sept. 25, 2019.
 
 (iii) Reducing the amount of paragraph (e)(14)(i) of this section for each State that does not qualify under paragraph (e)(12)(v) of this section based on the proportion of each State's preliminary unreduced DSH allotment compared to the national total of preliminary unreduced DSH allotments so that the sum of paragraph (e)(14)(iii) of this section equals the sum of paragraph (e)(12)(v) of this section.
 
-(f) *Annual DSH allotment reduction application.* For each fiscal year 2014 and fiscal year 2015, CMS will subtract the State-specific DSH allotment amount determined in paragraph (e)(14) of this section from that State's final unreduced DSH allotment. This amount is the State's final DSH allotment for the fiscal year.
+(iv) No state will receive a reduction as calculated in paragraph (e)(14) of this section in excess of 90 percent of its preliminary unreduced DSH allotment for the respective fiscal year. For any state assigned a reduction amount determined under paragraph (e)(14) of this section in excess of 90 percent of its unreduced DSH allotment, the reduction amount that exceeds 90 percent of that state's unreduced DSH allotment will be distributed among the remaining states in the state group that do not exceed the 90 percent reduction cap, based on the proportion of each of these remaining states' allotment reduction amount before any distribution is performed pursuant to this paragraph (e)(14)(iv) to the aggregate allotment reduction amount for the state group. This operation will be performed until all reduction amounts in excess of the 90 percent reduction cap for all states are allocated within each respective state group.
 
-[78 FR 57311, Sept. 18, 2013]
+(f) *Annual DSH allotment reduction application.* For each fiscal year identified in section 1923(f)(7)(A)(ii) of the Act, CMS will subtract the State-specific DSH allotment amount determined in paragraph (e)(14) of this section from that State's final unreduced DSH allotment. This amount is the State's final DSH allotment for the fiscal year.
+
+[78 FR 57311, Sept. 18, 2013, as amended at 84 FR 50332, Sept. 25, 2019]

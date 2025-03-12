@@ -1,5 +1,7 @@
 ##### § 302-17.60 How are the terms “Year 1” and “Year 2” used in the two-year RITA process? #####
 
+Link to an amendment published at 84 FR 64783, Nov. 25, 2019.
+
 (a) Year 1 is the calendar year in which the agency reimburses you for a specific expense, provides an allowance, or pays a vendor directly. If your reimbursements, allowances, and/or direct payments to vendors occur in more than one calendar year, you will have more than one Year 1.
 
 (b) Year 2 is the calendar year in which you submit your RITA claim and your agency pays your RITA to you.

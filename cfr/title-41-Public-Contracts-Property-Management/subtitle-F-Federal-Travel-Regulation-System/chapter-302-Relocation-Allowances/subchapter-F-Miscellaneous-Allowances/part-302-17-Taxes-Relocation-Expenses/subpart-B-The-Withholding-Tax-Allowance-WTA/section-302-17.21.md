@@ -1,5 +1,7 @@
 ##### § 302-17.21 What relocation expenses does the WTA cover? #####
 
+Link to an amendment published at 84 FR 64782, Nov. 25, 2019.
+
 The WTA covers certain allowances, reimbursements, and/or direct payments to vendors, to the extent that each of them is taxable income. It does not cover any allowance, reimbursement, or direct payment to a vendor that is nontaxable; that is, your agency will not give you a WTA for anything that is not considered taxable income to you (see Table 1 in § 302-17.8 for a summary of tax treatment). In particular, the WTA covers:
 
 (a) En route meals and incidental expenses - Reimbursements for meals and incidental expenses while en route are taxable and, therefore, are covered by the WTA.

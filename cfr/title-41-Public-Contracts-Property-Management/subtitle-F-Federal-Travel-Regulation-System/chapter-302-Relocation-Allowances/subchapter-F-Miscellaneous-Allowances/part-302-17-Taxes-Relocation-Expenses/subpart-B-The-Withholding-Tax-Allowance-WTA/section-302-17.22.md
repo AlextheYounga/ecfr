@@ -1,5 +1,7 @@
 ##### § 302-17.22 What relocation expenses does the WTA not cover? #####
 
+Link to an amendment published at 84 FR 64782, Nov. 25, 2019.
+
 The WTA does not cover the following relocation expenses:
 
 (a) Any reimbursement, allowance, or direct payment to a vendor that should not be reported as taxable income when you file your Federal tax return; this includes but is not limited to en route lodging and transportation, HHG transportation, and transportation of POVs.

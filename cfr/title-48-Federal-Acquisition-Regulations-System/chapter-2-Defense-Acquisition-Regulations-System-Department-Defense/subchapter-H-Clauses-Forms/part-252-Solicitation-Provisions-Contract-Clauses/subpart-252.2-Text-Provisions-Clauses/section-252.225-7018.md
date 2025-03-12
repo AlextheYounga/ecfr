@@ -14,7 +14,9 @@ Photovoltaic Devices - Certificate (DEC 2018)
 
 (c) *Country in which a designated country photovoltaic device was wholly manufactured or was substantially transformed.* If the estimated value of the photovoltaic devices to be utilized under a resultant contract exceeds $25,000, the Offeror's certification that such photovoltaic device (e.g., solar panel) is a designated country photovoltaic device shall be consistent with country of origin determinations by the U.S. Customs and Border Protection with regard to importation of the same or similar photovoltaic devices into the United States. If the Offeror is uncertain as to what the country of origin would be determined to be by the U.S. Customs and Border Protection, the Offeror shall request a determination from U.S. Customs and Border Protection. (See *http://www.cbp.gov/trade/rulings*.)
 
-(d) *Certification and identification of country of origin. [The offeror shall check the block and fill in the blank for one of the following paragraphs, based on the estimated value and the country of origin of photovoltaic devices to be utilized in performance of the contract:]*(1) No photovoltaic devices will be utilized in performance of the contract, or such photovoltaic devices have an estimated value that does not exceed the micro-purchase threshold.
+(d) *Certification and identification of country of origin. [The offeror shall check the block and fill in the blank for one of the following paragraphs, based on the estimated value and the country of origin of photovoltaic devices to be utilized in performance of the contract:]*
+
+(1) No photovoltaic devices will be utilized in performance of the contract, or such photovoltaic devices have an estimated value that does not exceed the micro-purchase threshold.
 
 (2) If more than the micro-purchase threshold but less than $25,000 -
 

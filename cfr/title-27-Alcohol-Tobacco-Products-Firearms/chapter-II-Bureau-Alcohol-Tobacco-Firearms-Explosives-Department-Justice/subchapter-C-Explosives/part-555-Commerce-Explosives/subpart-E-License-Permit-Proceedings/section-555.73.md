@@ -1,5 +1,7 @@
 ##### § 555.73 Hearing after initial application is denied. #####
 
+Link to an amendment published at 84 FR 64744, Nov. 25, 2019.
+
 If the applicant for an original license or permit desires a hearing, he shall file a request with the Director, Industry Operations within 15 days after receipt of the notice of denial. The request should include a statement of the reasons for a hearing. On receipt of the request, the Director, Industry Operations shall refer the matter to an administrative law judge who shall set a time and place (see § 555.77) for a hearing and shall serve notice of the hearing upon the applicant and the Director, Industry Operations at least 10 days in advance of the hearing date. The hearing will be conducted in accordance with the hearing procedures prescribed in part 71 of this chapter (see § 555.82). Within a reasonable time after the conclusion of the hearing, and as expeditiously as possible, the administrative law judge shall render his recommended decision. He shall certify to the complete record of the proceedings before him and shall immediately forward the complete certified record, together with four copies of his recommended decision, to the Director, Industry Operations for decision.
 
 [T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

@@ -1,5 +1,7 @@
 ##### § 302-17.62 What information do I put on my tax returns for Year 1 under the two-year process? #####
 
+Link to an amendment published at 84 FR 64783, Nov. 25, 2019.
+
 (a) Your agency provides allowances to you, reimburses you for vouchers that you submit, and pays certain relocation vendors directly, all during the same calendar year, as described in subpart B of this part. Some of these reimbursements, allowances, and direct payments to vendors are taxable income to you, the employee. Your agency computes a WTA and reports that withholding to the IRS for each of these that is taxable. This is Year 1 of the two-year process.
 
 (b) If your agency makes the WTA optional to you and you have chosen not to receive the WTA, then your agency computes withholding tax for each taxable reimbursement, allowance, and direct payment, and reports that withholding to the IRS. See Example 3 to part 302-17 in this section.

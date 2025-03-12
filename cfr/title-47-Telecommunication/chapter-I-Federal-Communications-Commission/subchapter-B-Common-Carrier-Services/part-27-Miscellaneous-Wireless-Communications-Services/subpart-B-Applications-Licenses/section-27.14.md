@@ -1,6 +1,6 @@
 ##### § 27.14 Construction requirements. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 84 FR 64209, Nov. 21, 2019.
+Link to an amendment published at 84 FR 57364, Oct. 25, 2019.
 
 (a) AWS and WCS licensees, with the exception of WCS licensees holding authorizations for the 600 MHz band, Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block E in the 722-728 MHz band, Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands, Block A in the 2305-2310 MHz and 2350-2355 MHz bands, Block B in the 2310-2315 MHz and 2355-2360 MHz bands, Block C in the 2315-2320 MHz band, and Block D in the 2345-2350 MHz band, and with the exception of licensees holding AWS authorizations in the 1915-1920 MHz and 1995-2000 MHz bands, the 2000-2020 MHz and 2180-2200 MHz bands, or 1695-1710 MHz, 1755-1780 MHz and 2155-2180 MHz bands, must, as a performance requirement, make a showing of “substantial service” in their license area within the prescribed license term set forth in § 27.13. “Substantial service” is defined as service which is sound, favorable and substantially above a level of mediocre service which just might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
@@ -195,5 +195,19 @@ Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendmen
 (iv) The extent to which service is provided to qualifying tribal land as defined in § 1.2110(f)(3)(i) of this chapter; and
 
 (v) Any other factors associated with the level of service to the public.
+
+(u) This section enumerates performance requirements for EBS licenses initially issued after October 25, 2019. Licensees shall demonstrate compliance with performance requirements by filing a construction notification with the Commission, within 15 days of the expiration of the applicable benchmark, in accordance with the provisions set forth in § 1.946(d) of this chapter.
+
+(1) All EBS licenses initially issued after October 25, 2019, must demonstrate compliance with the performance requirements described in this paragraph (u). All equipment used to demonstrate compliance must be in use and actually providing service, either for internal use or to unaffiliated customers, as of the interim deadline or final deadline, whichever is applicable.
+
+(2) Except for licensees with licenses applied for in the Tribal Priority Window, licensees providing mobile or point-to-multipoint service must demonstrate reliable signal coverage of 50% of the population of the geographic service area within four years of initial license grant, and 80% of the population of the geographic service area within eight years of initial license grant.
+
+(3) Except for licensees with licenses applied for in the Tribal Priority Window, licensees providing fixed point-to-point service must demonstrate operation of one link for each 50,000 persons in the geographic service area within four years of initial license grant, and one link for each 25,000 persons in the geographic service area within eight years of initial license grant.
+
+(4) Licensees with licenses applied for in the Tribal Priority Window must make an interim showing under paragraph (u)(2) or (3) of this section within two years of initial license grant. Licensees with licenses applied for in the Tribal Priority Window must make a final showing under paragraph (u)(2) or (3) of this section within five years of initial license grant.
+
+(5) If an EBS licensee (other than the licensee of a license issued pursuant to the Tribal Priority Window) fails to meet interim performance requirements described in paragraph (u)(2) or (3) of this section, the deadline for that authorization to meet its final performance requirement will be advanced by two years. If an EBS licensee of a license issued pursuant to the Tribal Priority Window fails to meet interim performance requirements described in paragraph (u)(2) or (3) of this section, the deadline for that authorization to meet its final performance requirement will be advanced by one year. If an EBS licensee fails to meet its final performance requirement, its license shall automatically terminate without specific Commission action.
+
+(v) Paragraph (u) of this section contains new or modified information-collection and recordkeeping requirements. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (v) accordingly.
 
 [62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 41548, Sept. 1, 2017, § 27.14 was amended by removing paragraphs (e), (q)(7), (r)(6), (s)(6), and (t)(6). These paragraphs contain information collection and recordkeeping requirements and the removals will not become effective until approval has been given by the Office of Management and Budget.

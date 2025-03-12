@@ -1,5 +1,7 @@
 ##### § 302-17.8 What limitations and Federal income tax treatments apply to various relocation reimbursements? #####
 
+Link to an amendment published at 84 FR 64782, Nov. 25, 2019.
+
 (a) If you were moving yourself for a new job, with no help from your employer, then you probably would be able to deduct some of your relocation expenses. However, if you are eligible for WTA and RITA under this part, your Federal agency reimburses you or pays directly for many relocation expenses that otherwise would be deductible. Since you could have deducted these expenses if you had paid them yourself, the benefits you receive from your agency for these “deductible” relocation expenses are nontaxable. Therefore, you do not report them as income and you cannot take them as deductions.
 
 (b) However, many other relocation benefits are taxable income to you, the employee, because you could not have deducted them. You also may not deduct the additional taxes you incur, as a result of taxable benefits (except that you may deduct state and local income taxes on your Federal tax return). Your agency will reimburse you for most of these taxable expenses and for substantially all of the additional taxes that you incur as a result of the taxable benefits.

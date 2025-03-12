@@ -20,7 +20,7 @@ As used in these regulations and in all instructions, forms, and documents perta
 
 (i) *Foreign buyer and foreign seller.* A person whose place of doing business with respect to the transaction is outside the United States. Foreign buyer or foreign seller includes a person who maintains a place of doing business outside the United States even though the transaction is concluded in the United States by his agent who has a place of business in the United States or by his employee who does not maintain a place of doing business in the United States. (If such employee maintains a place of doing business in the United States with respect to the transaction, the resulting contract is construed to be a domestic sale.) Notwithstanding the foregoing, all foreign governments, agencies and instrumentalities are considered foreign buyers or foreign sellers even though transactions are concluded by their employees in the United States or they maintain a place of business with respect to the transaction in the United States.
 
-(j) *Marketing year.* The reporting period specified for a commodity in appendix 1.
+(j) *Marketing year.* The reporting period specified for a commodity in appendix A to this part.
 
 (k) *Optional origin contracts.* A transaction involving an export sale contract between a reporting exporter and a foreign buyer under which the reporting exporter has the option of exporting the commodity from the United States or from one or more other exporting countries or an export sale contract under which no origin is specified.
 
@@ -34,4 +34,4 @@ As used in these regulations and in all instructions, forms, and documents perta
 
 (p) *United States.* All of the 50 States, the District of Columbia and Puerto Rico.
 
-[Rev. 2, 40 FR 23839, June 3, 1975, as amended by Amdt. 1, 41 FR 19950, May 14, 1976; Amdt. 3, 45 FR 8562, Feb. 8, 1980; Amdt. 4, 45 FR 24104, Apr. 9, 1980; 68 FR 62214, Nov. 3, 2003; 78 FR 16778, Mar. 19, 2013]
+[Rev. 2, 40 FR 23839, June 3, 1975, as amended by Amdt. 1, 41 FR 19950, May 14, 1976; Amdt. 3, 45 FR 8562, Feb. 8, 1980; Amdt. 4, 45 FR 24104, Apr. 9, 1980; 68 FR 62214, Nov. 3, 2003; 78 FR 16778, Mar. 19, 2013; 84 FR 64704, Nov. 25, 2019]

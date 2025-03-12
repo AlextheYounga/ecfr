@@ -1,5 +1,7 @@
 ##### § 302-17.61 Is the WTA optional under the two-year process? #####
 
+Link to an amendment published at 84 FR 64783, Nov. 25, 2019.
+
 (a) Yes. If your agency makes the WTA optional to you, you may choose to not receive the WTA.
 
 (b) WTA is paid at a rate of 25 percent. When deciding whether or not to receive the WTA, you should consider the following:

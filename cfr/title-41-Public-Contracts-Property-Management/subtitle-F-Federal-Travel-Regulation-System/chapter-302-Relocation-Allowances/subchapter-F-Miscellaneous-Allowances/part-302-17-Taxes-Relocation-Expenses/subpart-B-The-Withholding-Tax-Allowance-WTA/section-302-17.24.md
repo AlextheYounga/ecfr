@@ -1,5 +1,7 @@
 ##### § 302-17.24 How does my agency compute my WTA? #####
 
+Link to an amendment published at 84 FR 64782, Nov. 25, 2019.
+
 (a) Your agency computes your WTA by applying the grossed-up withholding formula below each time your agency incurs a covered, taxable relocation expense, regardless of whether it is a reimbursement, allowance, or direct payment to a vendor.
 
 (b) The law currently provides for a withholding rate of 25 percent for “supplemental wages” that are identified separately from regular wages (This rate has not always been 25 percent and may change in the future; GSA will revise the FTR to reflect any changes as quickly as possible, but users of this part should see IRS Publication 15, Employer's Tax Guide, for the most current rate). Taxable payments for relocation expenses are “supplemental wages,” as defined in IRS Publication 15. However, you owe taxes on the WTA itself because, like most other relocation allowances, it is taxable income. To reimburse you for the taxes on the WTA itself, your agency computes the WTA by multiplying the reimbursement, allowance, or direct payment to a vendor by 0.3333 instead of 0.25. That is:

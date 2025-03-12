@@ -2,7 +2,7 @@
 
 For purposes of this part:
 
-*Case reviews* means the different types of reviews that QIOs are authorized to perform. Such reviews include, but are not limited to -
+*Case reviews* means the different types of reviews that QIOs are authorized to perform. Such reviews include, but are not limited to—
 
 (1) Beneficiary complaint reviews;
 
@@ -44,4 +44,4 @@ For purposes of this part:
 
 *Quality improvement initiative* has the same meaning as provided in § 476.1 of this chapter.
 
-[43 FR 32085, July 24, 1978, as amended at 49 FR 7206, Feb. 27, 1984. Redesignated at 50 FR 15327, Apr. 17, 1985, and amended at 50 FR 15328, Apr. 17, 1985; 51 FR 43197, Dec. 1, 1986. Redesignated at 64 FR 66279, Nov. 24, 1999; 78 FR 75198, Dec. 10, 2013]
+[43 FR 32085, July 24, 1978, as amended at 49 FR 7206, Feb. 27, 1984. Redesignated at 50 FR 15327, Apr. 17, 1985, and amended at 50 FR 15328, Apr. 17, 1985; 51 FR 43197, Dec. 1, 1986. Redesignated at 64 FR 66279, Nov. 24, 1999, as amended at 78 FR 75198, Dec. 10, 2013]

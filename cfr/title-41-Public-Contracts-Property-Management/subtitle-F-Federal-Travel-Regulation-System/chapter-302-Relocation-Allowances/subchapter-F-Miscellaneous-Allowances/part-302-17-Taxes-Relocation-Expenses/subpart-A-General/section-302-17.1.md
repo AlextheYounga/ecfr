@@ -1,5 +1,7 @@
 ##### § 302-17.1 What special terms apply to this part? #####
 
+Link to an amendment published at 84 FR 64781, Nov. 25, 2019.
+
 The following definitions apply to this part:
 
 *Allowance* means*:*

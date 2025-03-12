@@ -1,5 +1,7 @@
 ##### § 302-2.6 May I be reimbursed for relocation expenses if I relocate to a new official station that does not meet the 50-mile distance test? #####
 
+Link to an amendment published at 84 FR 64781, Nov. 25, 2019.
+
 Generally no; you may not be reimbursed for relocation expenses if you relocate to a new official station that does not meet the 50-mile distance test.
 
 (a) The distance test is met when the new official station is at least 50 miles further from the employee's current residence than the old official station is from the same residence. For example, if the old official station is 3 miles from the current residence, then the new official station must be at least 53 miles from that same residence in order to receive relocation expenses for residence transactions. The distance between the official station and residence is the shortest of the commonly traveled routes between them. The distance test does not take into consideration the location of a new residence. This follows the distance guidelines found in *Internal Revenue Service Publication 521, Moving Expenses.*

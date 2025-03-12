@@ -1,5 +1,7 @@
 ##### § 302-17.12 Where can I find additional information and guidance on WTA and RITA? #####
 
+Link to an amendment published at 84 FR 64782, Nov. 25, 2019.
+
 To find additional information and guidance on WTA and RITA, see:
 
 (a) IRS Publication 521, Moving Expenses; and

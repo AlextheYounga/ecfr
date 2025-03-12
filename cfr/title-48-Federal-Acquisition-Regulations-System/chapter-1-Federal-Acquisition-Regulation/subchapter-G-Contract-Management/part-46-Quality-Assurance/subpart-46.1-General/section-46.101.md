@@ -1,5 +1,7 @@
 ##### 46.101 Definitions. #####
 
+Link to an amendment published at 84 FR 64694, Nov. 22, 2019.
+
 As used in this part -
 
 *Acceptance* means the act of an authorized representative of the Government by which the Government, for itself or as agent of another, assumes ownership of existing identified supplies tendered or approves specific services rendered as partial or complete performance of the contract.
