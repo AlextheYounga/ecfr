@@ -1,7 +1,5 @@
 ##### § 2.1 Preservation of natural, cultural and archeological resources. #####
 
-Link to an amendment published at 87 FR 47319, Aug. 2, 2022.
-
 (a) Except as otherwise provided in this chapter, the following is prohibited:
 
 (1) Possessing, destroying, injuring, defacing, removing, digging, or disturbing from its natural state:
@@ -60,8 +58,8 @@ This paragraph does not apply to:
 
 (d) This section shall not be construed as authorizing the taking, use, or possession of fish, wildlife, or plants for ceremonial or religious purposes, except for the gathering and removal of plants or plant parts by enrolled members of an Indian tribe in accordance with § 2.6, or where specifically authorized by federal statutory law, treaty, or in accordance with § 2.2 or § 2.3.
 
-Note:
+Note 1 to § 2.1:
 
-Regulations concerning archeological resources are found in 43 CFR part 3.
+The Secretary's regulations concerning archeological resources are found in 43 CFR part 3. The regulations concerning paleontological resources are found in 43 CFR part 49.
 
-[48 FR 30282, June 30, 1983, as amended at 81 FR 45037, July 12, 2016]
+[48 FR 30282, June 30, 1983, as amended at 81 FR 45037, July 12, 2016; 87 FR 47319, Aug. 2, 2022]

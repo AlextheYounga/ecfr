@@ -1,0 +1,3 @@
+##### § 49.605 How is “commercial value” determined for criminal and civil penalties? #####
+
+In determining a criminal or civil penalty, the commercial value of a paleontological resource will be based on comparable sales information, appraisals, current market value, or other information for comparable resources. If there is no comparable sales information, appraisal, market value, or other information, the Federal land manager will determine the commercial value of the paleontological resource using other values such as scientific value under § 49.600 or the cost of response, restoration, and repair of the paleontological resource and/or paleontological site under § 49.610.

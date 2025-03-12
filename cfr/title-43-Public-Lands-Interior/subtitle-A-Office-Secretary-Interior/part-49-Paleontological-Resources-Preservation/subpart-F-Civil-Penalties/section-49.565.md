@@ -1,0 +1,3 @@
+##### § 49.565 When may a person assessed a civil penalty seek judicial review? #####
+
+A person may file a petition for judicial review in the United States District Court for the District of Columbia or in the district where the violation occurred, within 30 days of the decision of the Ad Hoc Board of Appeals. For purposes of the Act and this part, that decision will be considered a final administrative order. The deadline for payment of the civil penalty will be stayed pending resolution of the judicial review.

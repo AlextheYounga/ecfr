@@ -24,4 +24,4 @@ Link to an amendment published at 87 FR 53379, Aug. 31, 2022.
 
 (f) *Notification.* Coast Guard Sector Northern New England will give notice through the Local Notice to Mariners and Broadcast Notice to Mariners for the purpose of enforcement of temporary safety zone.
 
-Effective Date Note:By USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, § 165.T01-0682 was added, effective Oct. 9, 2018, through Sept. 1, 2022.
+[USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, as amended at 87 FR 53379, Aug. 31, 2022]Effective Date Note:By USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, § 165.T01-0682 was added, effective Oct. 9, 2018, through Sept. 1, 2022.

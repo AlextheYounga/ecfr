@@ -1,7 +1,5 @@
 ##### § 2.5 Research specimens. #####
 
-Link to an amendment published at 87 FR 47319, Aug. 2, 2022.
-
 (a) Taking plants, fish, wildlife, rocks or minerals except in accordance with other regulations of this chapter or pursuant to the terms and conditions of a specimen collection permit, is prohibited.
 
 (b) A specimen collection permit may be issued only to an official representative of a reputable scientific or educational institution or a State or Federal agency for the purpose of research, baseline inventories, monitoring, impact analysis, group study, or museum display when the superintendent determines that the collection is necessary to the stated scientific or resource management goals of the institution or agency and that all applicable Federal and State permits have been acquired, and that the intended use of the specimens and their final disposal is in accordance with applicable law and Federal administrative policies. A permit shall not be issued if removal of the specimen would result in damage to other natural or cultural resources, affect adversely environmental or scenic values, or if the specimen is readily available outside of the park area.
@@ -22,6 +20,8 @@ Link to an amendment published at 87 FR 47319, Aug. 2, 2022.
 
 (h) Violation of the terms and conditions of a permit issued in accordance with this section is prohibited and may result in the suspension or revocation of the permit.
 
-Note:
+Note 1 to § 2.5:
 
-The Secretary's regulations on the preservation, use, and management of fish and wildlife are found in 43 CFR part 24. Regulations concerning archeological resources are found in 43 CFR part 3.
+The Secretary's regulations on the preservation, use, and management of fish and wildlife are found in 43 CFR part 24. The regulations concerning archeological resources are found in 43 CFR part 3. The regulations concerning paleontological resources are found in 43 CFR part 49.
+
+[48 FR 30282, June 30, 1983, as amended at 87 FR 47319, Aug. 2, 2022]

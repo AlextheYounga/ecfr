@@ -1,0 +1,3 @@
+##### § 49.145 Has OMB approved the information collection provisions of this part? #####
+
+BLM, Reclamation, NPS, and FWS use the information collected under this part to manage and protect paleontological resources on and from Federal land. The Office of Management and Budget (OMB) reviewed and approved the information collection requirements contained in this part and assigned OMB Control No. 1093-0008. OMB has approved the information collection requirements for the NPS Research Permit and Reporting System, which includes paleontological permits, and assigned OMB Control No. 1024-0236. A Federal agency may not conduct or sponsor and you are not required to respond to a collection of information unless it displays a currently valid OMB control number.
