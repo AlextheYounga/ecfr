@@ -1,5 +1,7 @@
 ##### § 121.201 What size standards has SBA identified by North American Industry Classification System codes? #####
 
+Link to an amendment published at 82 FR 44894, Sept. 27, 2017.
+
 The size standards described in this section apply to all SBA programs unless otherwise specified in this part. The size standards themselves are expressed either in number of employees or annual receipts in millions of dollars, unless otherwise specified. The number of employees or annual receipts indicates the maximum allowed for a concern and its affiliates to be considered small.
 
 Small Business Size Standards by NAICS Industry

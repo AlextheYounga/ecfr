@@ -1,8 +1,6 @@
 ##### § 648.6 Dealer/processor permits. #####
 
-Link to an amendment published at 82 FR 40732, Aug. 28, 2017.
-
-(a) *General.* (1) All dealers of NE multispecies, monkfish, skates, Atlantic herring, Atlantic sea scallop, Atlantic deep-sea red crab, spiny dogfish, summer flounder, Atlantic surfclam, ocean quahog, Atlantic mackerel, squid, butterfish, scup, bluefish, tilefish, and black sea bass; Atlantic surfclam and ocean quahog processors; Atlantic hagfish dealers and/or processors, and Atlantic herring processors or dealers, as described in § 648.2; must have been issued under this section, and have in their possession, a valid permit or permits for these species.
+(a) *General.* (1) All dealers of NE multispecies, monkfish, skates, Atlantic herring, Atlantic sea scallop, Atlantic deep-sea red crab, spiny dogfish, summer flounder, Atlantic surfclam, ocean quahog, Atlantic mackerel, squid, butterfish, scup, bluefish, tilefish, and black sea bass; Atlantic surfclam and ocean quahog processors; Atlantic hagfish dealers and/or processors, and Atlantic herring processors or dealers, as described in § 648.2; must have been issued under this section, and have in their possession, a valid permit or permits for these species. A dealer of Atlantic chub mackerel or Mid-Atlantic forage species, as defined in § 648.2, harvested in or from the EEZ portion of the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c), must have been issued and have in their possession, a valid dealer permit for any species issued in accordance with this paragraph. The dealer permit requirements specified in this paragraph (a)(1) for dealers purchasing Atlantic chub mackerel are effective through December 31, 2020.
 
 (2) *At-sea processors* - (i) *At-sea mackerel processors.* Notwithstanding the provisions of § 648.4(a)(5), any vessel of the United States must have been issued and carry on board a valid at-sea processor permit issued under this section to receive over the side, possess, and process Atlantic mackerel harvested in or from the EEZ by a lawfully permitted vessel of the United States.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 82 FR 40732, Aug. 28, 2017.
 
 (n) *Sanctions.* Same as § 648.4(m).
 
-[61 FR 34968, July 3, 1996, as amended at 61 FR 43425, Aug. 23, 1996; 61 FR 58465, Nov. 15, 1996; 64 FR 57593, Oct. 26, 1999; 65 FR 45851, July 26, 2000; 65 FR 77465, Dec. 11, 2000; 66 FR 49144, Sept. 26, 2001; 68 FR 49699, Aug. 19, 2003; 69 FR 4864, Feb. 2, 2004; 69 FR 16178, Mar. 29, 2004; 69 FR 30841, June 1, 2004; 72 FR 20038, Apr. 23, 2007; 72 FR 11273, Mar. 12, 2007; 76 FR 60649, Sept. 29, 2011]
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

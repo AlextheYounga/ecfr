@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 82 FR 40731, Aug. 28, 2017.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -15,6 +13,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *At-sea monitor,* with respect to the NE multispecies fishery, means any person responsible for observing, verifying, and reporting area fished, catch, and discards of all species by gear type for sector trips as part of an approved sector at-sea monitoring program.
 
 *Atlantic butterfish* or *butterfish* means *Peprilus triacanthus.*
+
+*Atlantic chub mackerel* means *Scomber colias.*
 
 *Atlantic croaker* means *Micropogonias undulatus.*
 
@@ -237,6 +237,134 @@ Bay scallop - *Aequipecten irradians.*Blood arc clam - *Anadara ovalis.*Blood wo
 *MCSP* means a Mobile Communications Service Provider, which is an operator of a mobile communications service used to provide wireless connectivity between mobile platforms and fixed platforms, and enables location transmission and two-way message exchange between the vessel and NMFS, when using a compatible MTU.
 
 *Menhaden* means Atlantic menhaden, *Brevoortia tyrannus.*
+
+*Mid-Atlantic forage species* means the following species and species groups:
+
+(1) Anchovies (family Engraulidae), including but not limited to the following species*:*
+
+(i) Striped anchovy-*Anchoa hepsetus.*
+
+(ii) Dusky anchovy-*Anchoa lyolepis.*
+
+(iii) Bay anchovy-*Anchoa mitchilli.*
+
+(iv) Silver anchovy-*Engraulis eurystole.*
+
+(2) Argentines (family Argentinidae), including but not limited to the following species:
+
+(i) Striated argentine-*Argentina striata.*
+
+(ii) Pygmy argentine-*Glossanodon pygmaeus.*
+
+(3) Greeneyes (family Chlorophthalmidae), including but not limited to the following species:
+
+(i) Shortnose greeneye-*Chlorophthalmus agassizi.*
+
+(ii) Longnose greeneye-*Parasudis truculenta.*
+
+(4) Halfbeaks (family Hemiramphidae), including but not limited to the following species:
+
+(i) Flying halfbeak-*Euleptorhamphus velox.*
+
+(ii) Balao-*Hemiramphus balao.*
+
+(iii) Ballyhoo-*Hemiramphus brasiliensis.*
+
+(iv) False silverstripe halfbeak/American halfbeak/Meek's halfbeak-*Hyporhamphus meeki.*
+
+(5) Herrings and Sardines (family Clupeidae). With the exception of other herring and sardine species managed under this part, including American shad, Atlantic herring, blueback herring, hickory shad, and river herring/alewife, as defined in this section, the following herring and sardine species are Mid-Atlantic forage species:
+
+(i) Round herring-*Etrumeus teres.*
+
+(ii) Scaled sardine-*Harengula jaguana.*
+
+(iii) Atlantic thread herring-*Opisthonema oglinum.*
+
+(iv) Spanish sardine-*Sardinella aurita.*
+
+(6) Lanternfishes (family Myctophidae), including but not limited to the following species:
+
+(i) Horned lanternfish-*Ceratoscopelus maderensis.*
+
+(ii) Dumril's headlightfish-*Diaphus dumerilii.*
+
+(iii) Crocodile lanternfish-*Lampanyctus crocodilus.*
+
+(iv) Doflein's false headlightfish-*Lobianchia dofleini.*
+
+(v) Spotted lanternfish-*Myctophum punctatum.*
+
+(7) Pearlsides (family Sternoptychidae), including but not limited to the following species:
+
+(i) Atlantic silver hatchetfish-*Argyropelecus aculeatus.*
+
+(ii) Muller's pearlside-*Maurolicus muelleri.*
+
+(iii) Weizman's pearlside-*Maurolicus weitzmani.*
+
+(iv) Slope hatchetfish-*Polyipnus clarus.*
+
+(8) Sand lances (family Ammodytidae), including but not limited to the following species:
+
+(i) American/inshore sand lance-*Ammodytes americanus.*
+
+(ii) Northern/offshore sand lance-*Ammodytes dubius.*
+
+(9) Silversides (family Atherinopsidae), including but not limited to the following species:
+
+(i) Rough silverside-*Membras martinica.*
+
+(ii) Inland silverside-*Menidia beryllina.*
+
+(iii) Atlantic silverside-*Menidia menidia.*
+
+(10) Cusk-eels (order Ophidiiformes), including but not limited to the following species:
+
+(i) Chain pearlfish-*Echiodon dawsoni.*
+
+(ii) Fawn cusk-eel-*Lepophidium profundorum.*
+
+(iii) Striped cusk-eel-*Ophidion marginatum.*
+
+(11) Atlantic saury-*Scomberesox saurus.*
+
+(12) Pelagic mollusks and cephalopods, excluding sharptail shortfin squid (*Illex oxygonius*), but including the following pelagic mollusc species:
+
+(i) Neon flying squid-*Ommastrephes bartramii.*
+
+(ii) European flying squid-*Todarodes sagittatus.*
+
+(iii) Atlantic brief squid-*Lolliguncula brevis.*
+
+(iv) Bobtail squids (family Sepiolidae), including but not limited to the following species:
+
+(A) Odd bobtail squid-*Heteroteuthis dispar.*
+
+(B) Big fin bobtail squid-*Rossia megaptera.*
+
+(C) Warty bobtail squid*-Rossia palpebrosa.*
+
+(D) Lesser bobtail squid-*Semirossia tenera.*
+
+(E) Butterfly bobtail squid*-Stoloteuthis leucoptera.*
+
+(v) Sea angels and sea butterflies (orders Gymnosomata and Thecosomata).
+
+(vi) Tuberculate pelagic octopus-*Ocythoe tuberculata.*
+
+(13) Species under one inch as adults, including but not limited to the following species groups:
+
+(i) Copepods (subclass Copepoda).
+
+(ii) Krill (order Euphausiacea).
+
+(iii) Amphipods (order Amphipoda).
+
+(iv) Ostracods (class Ostracoda).
+
+(v) Isopods (order Isopoda).
+
+(vi) Mysid shrimp (order Mysidacea).
 
 *Midwater trawl gear* means trawl gear that is designed to fish for, is capable of fishing for, or is being used to fish for pelagic species, no portion of which is designed to be or is operated in contact with the bottom at any time. The gear may not include discs, bobbins, or rollers on its footrope, or chafing gear as part of the net.
 

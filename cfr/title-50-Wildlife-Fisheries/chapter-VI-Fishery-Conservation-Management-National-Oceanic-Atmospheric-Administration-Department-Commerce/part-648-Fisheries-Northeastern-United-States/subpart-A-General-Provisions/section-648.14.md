@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 82 FR 40733, Aug. 28, 2017.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -1291,5 +1289,11 @@ Link to an amendment published at 82 FR 40733, Aug. 28, 2017.
 (iv) *SNE Trawl and Gillnet Exemption areas restrictions.* Fail to comply with the restrictions under the SNE Trawl and Gillnet Exemption areas for the NE skate fisheries at §§ 648.80(b)(5)(i)(B) and 648.80(b)(6)(i)(B).
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All skates retained or possessed on a vessel are deemed to have been harvested in or from the Skate Management Unit, unless the preponderance of evidence demonstrates that such skates were harvested by a vessel, that has not been issued a Federal skate permit, fishing exclusively outside of the EEZ portion of the skate management unit or only in state waters.
+
+(w) *Mid-Atlantic forage species and Atlantic chub mackerel.* It is unlawful for any person owning or operating a vessel issued a valid commercial permit under this part to do any of the following:
+
+(1) Fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 1,700 lb (771.11 kg) of all Mid-Atlantic forage species combined per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c). A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
+
+(2) Fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 40,000 lb (18.14 mt) of Atlantic chub mackerel per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c), after the annual Atlantic chub mackerel landing limit has been harvested and notice has been provided to the public consistent with the Administrative Procedure Act. A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished in Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
 
 [74 FR 20535, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
