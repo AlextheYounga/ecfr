@@ -30,7 +30,9 @@
 
 *Designated non-Federal representative* refers to a person designated by the Federal agency as its representative to conduct informal consultation and/or to prepare any biological assessment.
 
-*Destruction or adverse modification* means a direct or indirect alteration that appreciably diminishes the value of critical habitat as a whole for the conservation of a listed species.*Director* refers to the Assistant Administrator for Fisheries for the National Marine Fisheries Service, or his or her authorized representative; or the Director of the U.S. Fish and Wildlife Service, or his or her authorized representative.
+*Destruction or adverse modification* means a direct or indirect alteration that appreciably diminishes the value of critical habitat as a whole for the conservation of a listed species.
+
+*Director* refers to the Assistant Administrator for Fisheries for the National Marine Fisheries Service, or his or her authorized representative; or the Director of the U.S. Fish and Wildlife Service, or his or her authorized representative.
 
 *Early consultation* is a process requested by a Federal agency on behalf of a prospective applicant under section 7(a)(3) of the Act.
 

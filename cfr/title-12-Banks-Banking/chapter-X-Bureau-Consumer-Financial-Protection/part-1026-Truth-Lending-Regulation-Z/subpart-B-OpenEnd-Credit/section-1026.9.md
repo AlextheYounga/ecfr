@@ -1,5 +1,7 @@
 ##### § 1026.9 Subsequent disclosure requirements. #####
 
+Link to an amendment published at 86 FR 69781, Dec. 8, 2021.
+
 (a) *Furnishing statement of billing rights* - (1) *Annual statement.* The creditor shall mail or deliver the billing rights statement required by § 1026.6(a)(5) and (b)(5)(iii) at least once per calendar year, at intervals of not less than 6 months nor more than 18 months, either to all consumers or to each consumer entitled to receive a periodic statement under § 1026.5(b)(2) for any one billing cycle.
 
 (2) *Alternative summary statement.* As an alternative to paragraph (a)(1) of this section, the creditor may mail or deliver, on or with each periodic statement, a statement substantially similar to Model Form G-4 or Model Form G-4(A) in appendix G to this part, as applicable. Creditors offering home-equity plans subject to the requirements of § 1026.40 may use either Model Form, at their option.

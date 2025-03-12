@@ -1,42 +1,41 @@
 ##### § 1220.201 Membership of board. #####
 
-Link to an amendment published at 86 FR 61670, Nov. 8, 2021.
+(a) For the purpose of nominating and appointing producers to the Board, the United States shall be divided into 31 geographic units and the number of Board members from each unit, subject to paragraphs (d) and (e) of this section shall be as follows:
 
-(a) For the purposes of nominating and appointing producers to the Board, the United States shall be divided into 30 geographic units and the number of Board members from each unit, subject to paragraphs (d) and (e) of this section shall be as follows:
-
-|                                                                         Unit                                                                          |Number  <br/>of  <br/>members|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-|                                                                     South Dakota                                                                      |              4              |
-|                                                                         Ohio                                                                          |              4              |
-|                                                                     North Dakota                                                                      |              4              |
-|                                                                       Nebraska                                                                        |              4              |
-|                                                                       Missouri                                                                        |              4              |
-|                                                                       Minnesota                                                                       |              4              |
-|                                                                         Iowa                                                                          |              4              |
-|                                                                        Indiana                                                                        |              4              |
-|                                                                       Illinois                                                                        |              4              |
-|                                                                       Wisconsin                                                                       |              3              |
-|                                                                       Tennessee                                                                       |              3              |
-|                                                                      Mississippi                                                                      |              3              |
-|                                                                       Michigan                                                                        |              3              |
-|                                                                       Kentucky                                                                        |              3              |
-|                                                                        Kansas                                                                         |              3              |
-|                                                                       Arkansas                                                                        |              3              |
-|                                                                       Virginia                                                                        |              2              |
-|                                                                     Pennsylvania                                                                      |              2              |
-|                                                                    North Carolina                                                                     |              2              |
-|                                                                       Maryland                                                                        |              2              |
-|                                                                       Louisiana                                                                       |              2              |
-|                                                                        Alabama                                                                        |              2              |
-|                                                                         Texas                                                                         |              1              |
-|                                                                    South Carolina                                                                     |              1              |
-|                                                                       Oklahoma                                                                        |              1              |
-|                                                                       New York                                                                        |              1              |
-|                                                                      New Jersey                                                                       |              1              |
-|                                                                        Georgia                                                                        |              1              |
-|                                                                       Delaware                                                                        |              1              |
-|Eastern Region (Connecticut, Florida, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont, West Virginia, District of Columbia, and Puerto Rico)|              1              |
-|       Western Region (Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming        |              1              |
+|                                                                      State/unit                                                                       |Number of  <br/>members|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+|                                                                     South Dakota                                                                      |           4           |
+|                                                                         Ohio                                                                          |           4           |
+|                                                                     North Dakota                                                                      |           4           |
+|                                                                       Nebraska                                                                        |           4           |
+|                                                                       Missouri                                                                        |           4           |
+|                                                                       Minnesota                                                                       |           4           |
+|                                                                         Iowa                                                                          |           4           |
+|                                                                        Indiana                                                                        |           4           |
+|                                                                       Illinois                                                                        |           4           |
+|                                                                       Wisconsin                                                                       |           3           |
+|                                                                       Tennessee                                                                       |           3           |
+|                                                                      Mississippi                                                                      |           3           |
+|                                                                       Michigan                                                                        |           3           |
+|                                                                       Kentucky                                                                        |           3           |
+|                                                                        Kansas                                                                         |           3           |
+|                                                                       Arkansas                                                                        |           3           |
+|                                                                       Virginia                                                                        |           2           |
+|                                                                     Pennsylvania                                                                      |           2           |
+|                                                                    North Carolina                                                                     |           2           |
+|                                                                       Maryland                                                                        |           2           |
+|                                                                       Louisiana                                                                       |           2           |
+|                                                                        Alabama                                                                        |           1           |
+|                                                                         Texas                                                                         |           1           |
+|                                                                    South Carolina                                                                     |           1           |
+|                                                                       Oklahoma                                                                        |           1           |
+|                                                                       New York                                                                        |           1           |
+|                                                                      New Jersey                                                                       |           1           |
+|                                                                        Georgia                                                                        |           1           |
+|                                                                       Delaware                                                                        |           1           |
+|                                                                         Unit:                                                                         |                       |
+|Eastern Region (Connecticut, Florida, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont, West Virginia, District of Columbia, and Puerto Rico)|           1           |
+|       Western Region (Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming)       |           1           |
 
 (b) The Board shall be composed of soybean producers appointed by the Secretary from nominations submitted pursuant to § 1220.203. A soybean producer may only be nominated by the unit in which that soybean producer is a resident or producer.
 
@@ -62,4 +61,4 @@ Link to an amendment published at 86 FR 61670, Nov. 8, 2021.
 
 (f) [Reserved]
 
-[56 FR 31049, July 9, 1991, as amended at 60 FR 29962, June 7, 1995; 60 FR 58500, Nov. 28, 1995; 62 FR 37489, July 14, 1997; 62 FR 41485, Aug. 1, 1997; 65 FR 63768, Oct. 25, 2000; 68 FR 57327, Oct. 3, 2003; 71 FR 69430, Dec. 1, 2006; 74 FR 62676, Dec. 1, 2009; 78 FR 2, Jan. 2, 2013; 80 FR 63910, Oct. 22, 2015; 83 FR 53366, Oct. 23, 2018]
+[56 FR 31049, July 9, 1991, as amended at 60 FR 29962, June 7, 1995; 60 FR 58500, Nov. 28, 1995; 62 FR 37489, July 14, 1997; 62 FR 41485, Aug. 1, 1997; 65 FR 63768, Oct. 25, 2000; 68 FR 57327, Oct. 3, 2003; 71 FR 69430, Dec. 1, 2006; 74 FR 62676, Dec. 1, 2009; 78 FR 2, Jan. 2, 2013; 80 FR 63910, Oct. 22, 2015; 83 FR 53366, Oct. 23, 2018; 86 FR 61670, Nov. 8, 2021]

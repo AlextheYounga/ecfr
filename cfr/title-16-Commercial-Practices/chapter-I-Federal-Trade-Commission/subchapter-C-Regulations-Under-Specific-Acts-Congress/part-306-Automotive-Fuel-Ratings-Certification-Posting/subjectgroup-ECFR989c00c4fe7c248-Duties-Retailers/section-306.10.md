@@ -1,6 +1,6 @@
 ##### § 306.10 Automotive fuel rating posting. #####
 
-(a) If you are a retailer, you must post the automotive fuel rating of all automotive fuel you sell to consumers. You must do this by putting at least one label on each face of each dispenser through which you sell automotive fuel. If you are selling two or more kinds of automotive fuel with different automotive fuel ratings from a single dispenser, you must put separate labels for each kind of automotive fuel on each face of the dispenser. Provided, however, that you do not need to post the automotive fuel rating of a mixture of gasoline and ethanol containing more than 10 but not more than 15 percent ethanol if the face of the dispenser is labeled in accordance with 40 CFR 80.1501.
+(a) If you are a retailer, you must post the automotive fuel rating of all automotive fuel you sell to consumers. You must do this by putting at least one label on each face of each dispenser through which you sell automotive fuel. If you are selling two or more kinds of automotive fuel with different automotive fuel ratings from a single dispenser, you must put separate labels for each kind of automotive fuel on each face of the dispenser. Provided, however, that you do not need to post the automotive fuel rating of a mixture of gasoline and ethanol containing more than 10 but not more than 15 percent ethanol if the face of the dispenser is labeled in accordance with 40 CFR 1090.1510.
 
 (b)(1) The label, or labels, must be placed conspicuously on the dispenser so as to be in full view of consumers and as near as reasonably practical to the price per unit of the automotive fuel.
 
@@ -16,15 +16,15 @@
 
 (f) The following examples of automotive fuel rating disclosures for some presently available alternative liquid automotive fuels are meant to serve as illustrations of compliance with this part, but do not limit the Rule's coverage to only the mentioned fuels:
 
-(1) “Methanol/Minimum \_\_% Methanol”
+(1) “Methanol/Minimum \_\_\_\_% Methanol”
 
-(2) “\_\_% Ethanol/Use Only in Flex-Fuel Vehicles/May Harm Other engines”
+(2) “\_\_\_\_% Ethanol/Use Only in Flex-Fuel Vehicles/May Harm Other engines”
 
-(3) “M85/Minimum \_\_% Methanol”
+(3) “M85/Minimum \_\_\_\_% Methanol”
 
-(4) “LPG/Minimum \_\_% Propane” or “LPG/Minimum \_\_% Propane and \_\_% Butane”
+(4) “LPG/Minimum \_\_\_\_% Propane” or “LPG/Minimum \_\_\_\_% Propane and \_\_\_\_% Butane”
 
-(5) “LNG/Minimum \_\_% Methane”
+(5) “LNG/Minimum \_\_\_\_% Methane”
 
 (6) “B20 Biodiesel Blend/contains biomass-based diesel or biodiesel in quantities between 5 percent and 20 percent”
 
@@ -36,4 +36,4 @@
 
 (g) When you receive automotive fuel from a common carrier, you also must receive from the common carrier a certification of the automotive fuel rating of the automotive fuel, either by letter or on the delivery ticket or other paper.
 
-[58 FR 41374, Aug. 3, 1993, as amended at 59 FR 48798, Sept. 23, 1994; 73 FR 40163, July 11, 2008; 81 FR 2063, Jan. 14, 2016; 86 FR 59853, Oct. 29, 2021]
+[58 FR 41374, Aug. 3, 1993, as amended at 59 FR 48798, Sept. 23, 1994; 73 FR 40163, July 11, 2008; 81 FR 2063, Jan. 14, 2016; 86 FR 59853, Oct. 29, 2021; 86 FR 69583, Dec. 8, 2021]

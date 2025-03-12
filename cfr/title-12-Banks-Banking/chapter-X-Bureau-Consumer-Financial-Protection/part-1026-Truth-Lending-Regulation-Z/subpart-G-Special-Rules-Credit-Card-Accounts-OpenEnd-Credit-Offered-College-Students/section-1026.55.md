@@ -1,5 +1,7 @@
 ##### § 1026.55 Limitations on increasing annual percentage rates, fees, and charges. #####
 
+Link to an amendment published at 86 FR 69782, Dec. 8, 2021.
+
 (a) *General rule.* Except as provided in paragraph (b) of this section, a card issuer must not increase an annual percentage rate or a fee or charge required to be disclosed under § 1026.6(b)(2)(ii), (b)(2)(iii), or (b)(2)(xii) on a credit card account under an open-end (not home-secured) consumer credit plan.
 
 (b) *Exceptions.* A card issuer may increase an annual percentage rate or a fee or charge required to be disclosed under § 1026.6(b)(2)(ii), (b)(2)(iii), or (b)(2)(xii) pursuant to an exception set forth in this paragraph even if that increase would not be permitted under a different exception.

@@ -1,7 +1,5 @@
 ##### § 16.76 Exemption of Justice Management Division. #####
 
-Link to an amendment published at 86 FR 61691, Nov. 8, 2021.
-
 (a) The following system of records is exempt from 5 U.S.C. 552a(d):
 
 (1) Controlled Substances Act Nonpublic Records (JUSTICE/JMD-002).
@@ -44,4 +42,16 @@ This exemption applies only to the extent that information in this system is sub
 
 (11) *Subsection (g).* This subsection is inapplicable to the extent that the system is exempt from other specific subsections of the Privacy Act.
 
-[Order No. 645-76, 41 FR 12640, Mar. 26, 1976, as amended by Order No. 688-77, 42 FR 9999, Feb. 18, 1977; Order No. 899-80, 45 FR 43703, June 30, 1980; Order No. 6-86, 51 FR 15476, Apr. 24, 1986; Order No. 246-2001, 66 FR 54663, Oct. 30, 2001; Order No. 297-2002, 67 FR 70163, Nov. 21, 2002; Order No. 019-2005, 71 FR 17, Jan. 3, 2006]
+(e) The following system of records is exempted from 5 U.S.C. 552a(c)(3); (d)(1)-(4); (e)(1), (e)(4)(G), (H), and (I); and (f): Department of Justice Security Monitoring and Analytics Service Records (JUSTICE/JMD-026). The exemptions in this paragraph (e) apply only to the extent that information in this system of records is subject to exemption pursuant to 5 U.S.C. 552a(k)(2). Where DOJ determines compliance would not appear to interfere with or adversely affect the purpose of this system of records to ensure that the Department can track information system access and implement information security protections commensurate with the risk and magnitude of harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of DOJ information and information systems, the applicable exemption may be waived by the DOJ in its sole discretion.
+
+(f) Exemptions from the particular subsections listed in paragraph (e) of this section are justified for the following reasons:
+
+(1) From subsection (c)(3), the requirement that an accounting be made available to the named subject of a record, because this system of records is exempt from the access provisions of subsection (d). Also, because making available to a record subject the accounting of disclosures of records concerning the subject would specifically reveal investigative interests in the records by the DOJ, external Federal agency subscribers, or other entities that are recipients of the disclosures. Revealing this information could compromise sensitive information or interfere with the overall law enforcement process by revealing a pending sensitive cybersecurity investigation. Revealing this information could also permit the record subject to obtain valuable insight concerning the information obtained during any investigation and to take measures to impede the investigation, *e.g.,* destroy evidence or alter techniques to evade discovery.
+
+(2) From subsection (d)(1), (2), (3) and (4), (e)(4)(G) and (H), and (f) because these provisions concern individual access to and amendment of certain law enforcement and sensitive records, compliance of which could alert the subject of an authorized law enforcement activity about that particular activity and the interest of the DOJ, external Federal agency subscribers, and/or other entities that are recipients of the disclosure. Providing access could compromise sensitive information or reveal sensitive cybersecurity investigative techniques; provide information that would allow a subject to avoid detection; or constitute a potential danger to the health or safety of law enforcement personnel or confidential sources.
+
+(3) From subsection (e)(1) because it is not always possible to know in advance what information is relevant and necessary for law enforcement purposes. The relevance and utility of certain information that may have a nexus to cybersecurity threats may not always be fully evident until and unless it is vetted and matched with other information lawfully maintained by the DOJ, external Federal agency subscribers, or other entities.
+
+(4) From subsection (e)(4)(I), to the extent that this subsection is interpreted to require more detail regarding the record sources in this system of records than has been published in the Federal Register. Should the subsection be so interpreted, exemption from this provision is necessary to protect the sources of law enforcement information.
+
+[Order No. 645-76, 41 FR 12640, Mar. 26, 1976, as amended by Order No. 688-77, 42 FR 9999, Feb. 18, 1977; Order No. 899-80, 45 FR 43703, June 30, 1980; Order No. 6-86, 51 FR 15476, Apr. 24, 1986; Order No. 246-2001, 66 FR 54663, Oct. 30, 2001; Order No. 297-2002, 67 FR 70163, Nov. 21, 2002; Order No. 019-2005, 71 FR 17, Jan. 3, 2006; CPCLO Order No. 011-2021, 86 FR 61691, Nov. 8, 2021]
