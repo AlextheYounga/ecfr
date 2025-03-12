@@ -1,7 +1,5 @@
 ##### § 1182.2 Content of applications. #####
 
-Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to a correction published at 83 FR 16786, Apr. 17, 2018.
-
 (a) The application must contain the following information:
 
 (1) Full name, address, and authorized signature of each of the parties to the transaction;
@@ -26,10 +24,12 @@ Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to a correction
 
 (11) If the transaction involves the transfer of operating authority to an individual who will hold the authority in his or her name, that individual must complete the following certification:
 
-I, \_\_\_\_\_, certify under penalty of perjury under the laws of the United States, that I have not been convicted, after September 1, 1989, of any Federal or State offense involving the distribution or possession of a controlled substance, or that I have been so convicted, but I am not ineligible to receive Federal benefits, either by court order or operation of law, pursuant to 21 U.S.C. 853a.
+I, \_\_\_\_\_, certify under penalty of perjury under the laws of the United States, that I have not been convicted, after September 1, 1989, of any Federal or State offense involving the distribution or possession of a controlled substance, or that I have been so convicted, but I am not ineligible to receive Federal benefits, either by court order or operation of law, pursuant to 21 U.S.C. 862.
 
 (b) The application shall contain applicants' entire case in support of the proposed transaction, unless the Board finds, on its own motion or that of a party to the proceeding, that additional evidentiary submissions are required to resolve the issues in a particular case.
 
 (c) Any statements submitted on behalf of an applicant supporting the application shall be verified, as provided in 49 CFR 1182.8(e). Pleadings consisting strictly of legal argument, however, need not be verified.
 
 (d) If an application or supplemental pleading contains false or misleading information, the granted application is void ab initio.
+
+[63 FR 46397, Sept. 1, 1998, as amended at 83 FR 15080, Apr. 9, 2018]

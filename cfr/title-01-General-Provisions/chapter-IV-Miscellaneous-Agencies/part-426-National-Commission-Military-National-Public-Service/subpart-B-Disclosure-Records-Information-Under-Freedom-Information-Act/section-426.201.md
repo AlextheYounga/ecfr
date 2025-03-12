@@ -1,0 +1,3 @@
+##### § 426.201 General. #####
+
+This subpart contains the regulations of the National Commission on Military, National, and Public Service (the “Commission”) implementing the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, as amended. These regulations set forth procedures for requesting access to records maintained by the Commission. These regulations should be read together with the text of the FOIA, and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Guidelines”). Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with the Commission's Privacy Act regulations as well as under this subpart.

@@ -1,7 +1,5 @@
 ##### § 1001.1 Records available from the Board. #####
 
-Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
-
 (a) The following specific files and records in the custody of the Records Officer of the Surface Transportation Board are available to the public and may be inspected at the Board's office upon reasonable request during business hours (between 8:30 a.m. and 5 p.m., Monday through Friday):
 
 (1) Copies of tariffs and railroad transportation contract summaries filed with the Board pursuant to 49 U.S.C. 13702(b) and 10709(d), respectively.
@@ -26,6 +24,6 @@ Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
 
 (c) The Board maintains, and makes available for inspection and copying, indexes of the documents described in paragraph (b) of this section. Final decisions are indexed in the “Surface Transportation Board Daily Releases”, which is issued by the Board every working day. This document also explains how copies of decisions can be purchased. The remaining documents are indexed as they are made available.
 
-(d) Documents described in paragraph (b) of this section that were created on and after November 1, 1996, are indexed by service date or date of issuance and are available for viewing and downloading from the Board's Electronic Reading Room at *www.stb.dot.gov,* the Board's website. Final decisions are maintained in a database that is full text searchable.
+(d) Documents described in paragraph (b) of this section that were created on and after November 1, 1996, are indexed by service date or date of issuance and are available for viewing and downloading from the Board's Electronic Reading Room at *www.stb.gov,* the Board's website. Final decisions are maintained in a database that is full text searchable.
 
-[64 FR 47711, Sept. 1, 1999, as amended at 74 FR 52902, Oct. 15, 2009]
+[64 FR 47711, Sept. 1, 1999, as amended at 74 FR 52902, Oct. 15, 2009; 83 FR 15077, Apr. 9, 2018]

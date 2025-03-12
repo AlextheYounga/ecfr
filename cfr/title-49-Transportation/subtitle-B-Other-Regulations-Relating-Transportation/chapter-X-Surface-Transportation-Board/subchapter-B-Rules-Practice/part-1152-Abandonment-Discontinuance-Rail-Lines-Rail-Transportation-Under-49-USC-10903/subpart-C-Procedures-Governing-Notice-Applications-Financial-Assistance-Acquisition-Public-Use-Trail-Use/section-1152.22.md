@@ -1,7 +1,5 @@
 ##### § 1152.22 Contents of application. #####
 
-Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
-
 Applications for the abandonment of railroad lines or the discontinuance of rail service shall contain the following information, including workpapers and supporting documents, and each paragraph (a) through (j) of this section shall be attested to by a person having personal knowledge of the matters contained therein:
 
 (a) *General.* (1) Exact name of applicant.
@@ -96,9 +94,9 @@ Written comments and protests, including all requests for public use and trail u
 
 The line sought to be abandoned (or discontinued) will be available for subsidy or sale for continued rail use, if the Board decides to permit the abandonment (or discontinuance), in accordance with applicable laws and regulations (49 U.S.C. 10904 and 49 CFR 1152.27). No subsidy arrangement approved under 49 U.S.C. 10904 shall remain in effect for more than 1 year unless otherwise mutually agreed by the parties (49 U.S.C. 10904(f)(4)(B)). Applicant will promptly provide upon request to each interested party an estimate of the subsidy and minimum purchase price required to keep the line in operation. The carrier's representative to whom inquiries may be made concerning sale or subsidy terms is (insert name and business address).
 
-Persons seeking further information concerning abandonment procedures may contact the Surface Transportation Board or refer to the full abandonment or discontinuance regulations at 49 CFR part 1152. Questions concerning environmental issues may be directed to the Board's Section of Environmental Analysis.
+Persons seeking further information concerning abandonment procedures may contact the Surface Transportation Board or refer to the full abandonment or discontinuance regulations at 49 CFR part 1152. Questions concerning environmental issues may be directed to the Board's Office of Environmental Analysis.
 
-An environmental assessment (EA) (or environmental impact statement (EIS), if necessary) prepared by the Section of Environmental Analysis will be served upon all parties of record and upon any agencies or other persons who commented during its preparation. Any other persons who would like to obtain a copy of the EA (or EIS) may contact the Section of Environmental Analysis. EAs in these abandonment proceedings normally will be made available within 33 days of the filing of the application. The deadline for submission of comments on the EA will generally be within 30 days of its service. The comments received will be addressed in the Board's decision. A supplemental EA or EIS may be issued where appropriate.
+An environmental assessment (EA) (or environmental impact statement (EIS), if necessary) prepared by the Office of Environmental Analysis will be served upon all parties of record and upon any agencies or other persons who commented during its preparation. Any other persons who would like to obtain a copy of the EA (or EIS) may contact the Office of Environmental Analysis. EAs in these abandonment proceedings normally will be made available within 33 days of the filing of the application. The deadline for submission of comments on the EA will generally be within 30 days of its service. The comments received will be addressed in the Board's decision. A supplemental EA or EIS may be issued where appropriate.
 
 (j) *Verification.* The original application shall be executed and verified in the form set forth below by an officer of the carrier having knowledge of the facts and matters relied upon.
 
@@ -110,4 +108,4 @@ VerificationState of \_\_\_\_\_\_ ss.County of \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Subscribed and sworn to before me \_\_\_\_\_\_ in and for the State and County above named, this \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_.
 
-My Commission expires[61 FR 67883, Dec. 24, 1996, as amended at 74 FR 52909, Oct. 15, 2009]
+My Commission expires[61 FR 67883, Dec. 24, 1996, as amended at 74 FR 52909, Oct. 15, 2009; 83 FR 15079, Apr. 9, 2018]

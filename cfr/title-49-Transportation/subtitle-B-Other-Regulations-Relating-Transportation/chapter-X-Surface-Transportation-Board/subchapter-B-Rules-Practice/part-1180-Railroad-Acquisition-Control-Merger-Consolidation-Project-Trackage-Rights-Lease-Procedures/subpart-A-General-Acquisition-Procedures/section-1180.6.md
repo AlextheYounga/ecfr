@@ -1,7 +1,5 @@
 ##### § 1180.6 Supporting information. #####
 
-Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
-
 (a) All applications filed under 49 U.S.C. 11323 shall show in the title the names of the applicants and the nature of the proposed transaction. Beneath the title indicate the name, title, business address, and telephone number of the person(s) to whom correspondence with respect to the application should be addressed. The following information shall be included in all applications:
 
 (1) A description of the proposed transaction, including appropriate references to any supporting exhibits and statements contained in the application and discussing the following:
@@ -56,7 +54,7 @@ Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
 
 (vii) State whether any governmental financial assistance is involved in the proposed transaction and, if so, the form, amount, source, and application of such financial assistance.
 
-(8) Environmental data (exhibit 4). Submit information and data with respect to environmental matters prepared in accordance with 49 CFR part 1105. In major and significant transaction, applicants shall, as soon as possible, and no later than the filing of a notice of intent, consult with the Board's Section of Environmental Analysis for the proper format of the environmental report.
+(8) Environmental data (exhibit 4). Submit information and data with respect to environmental matters prepared in accordance with 49 CFR part 1105. In major and significant transaction, applicants shall, as soon as possible, and no later than the filing of a notice of intent, consult with the Board's Office of Environmental Analysis for the proper format of the environmental report.
 
 (b) In a *major* transaction, submit the following information:
 
@@ -104,4 +102,4 @@ Effects on Applicant Carriers' Employees
 
 (c) In a *significant* transaction, submit the information specified in paragraphs (b)(3), (b)(5), (b)(6), (b)(7), and (b)(8) of this section.
 
-[47 FR 9844, Mar. 8, 1982. Redesignated at 47 FR 49592, Nov. 1, 1982, and amended at 50 FR 15751, Apr. 22, 1985; 56 FR 41806, Aug. 3, 1991; 57 FR 28641, June 26, 1992; 58 FR 63104, Nov. 30, 1993; 62 FR 9717, Mar. 4, 1997; 64 FR 53269, Oct. 1, 1999; 66 FR 32587, June 15, 2001]
+[47 FR 9844, Mar. 8, 1982. Redesignated at 47 FR 49592, Nov. 1, 1982, and amended at 50 FR 15751, Apr. 22, 1985; 56 FR 41806, Aug. 3, 1991; 57 FR 28641, June 26, 1992; 58 FR 63104, Nov. 30, 1993; 62 FR 9717, Mar. 4, 1997; 64 FR 53269, Oct. 1, 1999; 66 FR 32587, June 15, 2001; 83 FR 15080, Apr. 9, 2018]

@@ -1,7 +1,5 @@
 ##### § 1152.20 Notice of intent to abandon or discontinue service. #####
 
-Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
-
 (a) *Filing and publication requirements.* An applicant shall give Notice of Intent to file an abandonment or discontinuance application by complying with the following procedures:
 
 (1) *Filing.* Applicant must serve its Notice of Intent on the Board, by certified letter, in the format prescribed in § 1152.21. The Notice shall be filed in accordance with the time requirements of paragraph (b) of this section.
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
 
 (vi) The U.S. Department of Transportation (Federal Railroad Administration);
 
-(vii) Department of Defense (Military Traffic Management Command, Transportation Engineering Agency, Railroads for National Defense Program);
+(vii) Department of Defense (Military Surface Deployment and Distribution Command, Transportation Engineering Agency, Railroads for National Defense Program);
 
 (viii) The U.S. Department of Interior (Recreation Resources Assistance Division, National Park Service);
 
@@ -44,4 +42,4 @@ Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
 
 (c) *Environmental and Historic Reports.* Applicant must also submit the Environmental and Historic Reports described at §§ 1105.7 and 1105.8 at least 20 days prior to filing an application.
 
-[61 FR 67883, Dec. 24, 1996, as amended at 68 FR 67810, Dec. 4, 2003]
+[61 FR 67883, Dec. 24, 1996, as amended at 68 FR 67810, Dec. 4, 2003; 83 FR 15079, Apr. 9, 2018]

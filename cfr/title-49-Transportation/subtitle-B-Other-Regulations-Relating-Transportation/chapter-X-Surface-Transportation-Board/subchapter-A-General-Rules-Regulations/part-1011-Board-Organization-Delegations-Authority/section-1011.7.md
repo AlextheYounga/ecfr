@@ -1,7 +1,5 @@
 ##### § 1011.7 Delegations of authority by the Board to specific offices of the Board. #####
 
-Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
-
 (a) *Office of Proceedings.* (1) The Director of the Office of Proceedings is delegated the authority to determine (in consultation with involved Offices) whether to waive filing fees set forth at 49 CFR 1002.2(f).
 
 (2) In addition to the authority delegated at 49 CFR 1011.6(c)(3), (d), (g), and (h), the Director of the Office of Proceedings shall have authority initially to determine the following:
@@ -34,7 +32,7 @@ Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
 
 (B) Whether to grant waivers from specific provisions of 49 CFR part 1151.
 
-(ix) In exemption proceedings subject to environmental or historic preservation reporting requirements, to issue a decision, under 49 CFR 1105.10(g), making a finding of no significant impact where no environmental or historic preservation issues have been raised by any party or identified by the Board's Section of Environmental Analysis.
+(ix) In exemption proceedings subject to environmental or historic preservation reporting requirements, to issue a decision, under 49 CFR 1105.10(g), making a finding of no significant impact where no environmental or historic preservation issues have been raised by any party or identified by the Board's Office of Environmental Analysis.
 
 (x) Whether to issue notices of exemption under 49 U.S.C. 10502:
 
@@ -78,4 +76,4 @@ Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
 
 (6) Issue, on written request, informal opinions and interpretations which are not binding on the Board. In issuing informal opinions or interpretations, the Director of the Office of Public Assistance, Governmental Affairs, and Compliance shall consult with the Directors of the appropriate Board offices. Such requests must be directed to the Director of the Office of Public Assistance, Governmental Affairs, and Compliance, Surface Transportation Board, Washington, DC.
 
-[75 FR 30711, June 2, 2010, as amended at 78 FR 29079, May 17, 2013; 81 FR 8851, Feb. 23, 2016]
+[75 FR 30711, June 2, 2010, as amended at 78 FR 29079, May 17, 2013; 81 FR 8851, Feb. 23, 2016; 83 FR 15077, Apr. 9, 2018]

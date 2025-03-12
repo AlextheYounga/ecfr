@@ -1,12 +1,10 @@
-##### § 1011.3 The Chairman, Vice Chairman, and Board Member. #####
+##### § 1011.3 The Chairman, Vice Chairman, and Board Members. #####
 
-Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
-
-(a)(1) The Chairman of the Board is appointed by the President as provided by 49 U.S.C. 701(c)(1). The Chairman has authority, duties, and responsibilities assigned under 49 U.S.C. 701(c)(2) and described in this part.
+(a)(1) The Chairman of the Board is appointed by the President as provided by 49 U.S.C. 1301(c)(1). The Chairman has authority, duties, and responsibilities assigned under 49 U.S.C. 1301(c)(2) and described in this part.
 
 (2) The Vice Chairman is elected by the Board for the term of 1 calendar year.
 
-(3) In the Chairman's absence, the Vice Chairman is acting Chairman, and has the authority and responsibilities of the Chairman. In the Vice Chairman's absence, the Chairman, if present, has the authority and responsibilities of the Vice Chairman. In the absence of both the Chairman and Vice Chairman, the remaining Board Member is acting Chairman, and has the authority and responsibilities of the Chairman and Vice Chairman.
+(3) In the Chairman's absence, the Vice Chairman is acting Chairman, and has the authority and responsibilities of the Chairman. In the Vice Chairman's absence, the Chairman, if present, has the authority and responsibilities of the Vice Chairman. In the absence of both the Chairman and the Vice Chairman, the Board may temporarily designate one of its members to act as Chairman and to have the authority and responsibilities of the Chairman and Vice Chairman.
 
 (b)(1) The Chairman is the executive head of the Board and has general responsibilities for:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
 
 (iii) Documents prepared for court cases or for introduction into evidence in a formal proceeding.
 
-[67 FR 60167, Sept. 25, 2002, as amended at 74 FR 52903, Oct. 15, 2009]
+[67 FR 60167, Sept. 25, 2002, as amended at 74 FR 52903, Oct. 15, 2009; 83 FR 15077, Apr. 9, 2018]

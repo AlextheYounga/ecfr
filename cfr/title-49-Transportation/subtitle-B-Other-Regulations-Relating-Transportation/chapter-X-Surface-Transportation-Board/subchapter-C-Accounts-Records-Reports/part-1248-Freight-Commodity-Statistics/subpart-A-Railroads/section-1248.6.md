@@ -1,0 +1,5 @@
+##### § 1248.6 Public inspection—railroad reports. #####
+
+The individual commodity statistics reports of class I railroads, required to be filed, for the year beginning January 1, 1964, or for quarters thereof, and for the quarters of 1965, as the case might be, under the terms of § 123.1, shall not be open to public inspection, and such required commodity statistics reports, to be filed for the years beginning January 1, 1965, and for the quarters of the year beginning January 1, 1966, and later, to the extent that they involve traffic of less than three shippers, reportable in one of the commodity reporting classes, may be excluded from a railroad's regular freight commodity statistics report and filed in a supplemental report which will not be open for public inspection, except that access to supplemental reports may be given upon approval by the Board.
+
+[32 FR 20466, Dec. 20, 1967, as amended at 47 FR 6881, Feb. 17, 1982]

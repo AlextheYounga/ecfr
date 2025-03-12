@@ -1,9 +1,7 @@
 ##### § 1150.1 Introduction. #####
 
-Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
-
 (a) *When an application is required.* This subpart governs applications under 49 U.S.C. 10901 for a certificate of public convenience and necessity authorizing the construction, acquisition or operation of railroad lines. Noncarriers require Board approval under section 10901 to construct, acquire or operate a rail line in interstate commerce. Existing carriers require approval under section 10901 only to construct a new rail line or operate a line owned by a noncarrier, since acquisition by a carrier of an active rail line owned by a carrier is covered by 49 U.S.C. 11323. We have exempted from these requirements the acquisition by a State entity of a rail line that has been approved for abandonment, as well as operations over these lines. See subpart C of this part. In addition, where appropriate, we have granted individual exemptions from these certification requirements. See 49 U.S.C. 10502.
 
-(b) *Content of the application.* Applications filed under this subpart shall include the information set forth in §§ 1150.2 through 1150.9. The applicant must also comply with the Energy and Environmental Regulations at 49 CFR parts 1106 and 1105 (including consulting with the Board's Section of Environmental Analysis at least 6 months prior to filing an application, to begin the scoping process to identify environmental issues and outline procedures for analysis of this aspect of the proposal).
+(b) *Content of the application.* Applications filed under this subpart shall include the information set forth in §§ 1150.2 through 1150.9. The applicant must also comply with the Energy and Environmental Regulations at 49 CFR parts 1106 and 1105 (including consulting with the Board's Office of Environmental Analysis at least 6 months prior to filing an application, to begin the scoping process to identify environmental issues and outline procedures for analysis of this aspect of the proposal).
 
-[47 FR 8199, Feb. 25, 1982, as amended at 64 FR 53268, Oct. 1, 1999; 69 FR 58366, Sept. 30, 2004]
+[47 FR 8199, Feb. 25, 1982, as amended at 64 FR 53268, Oct. 1, 1999; 69 FR 58366, Sept. 30, 2004; 83 FR 15079, Apr. 9, 2018]

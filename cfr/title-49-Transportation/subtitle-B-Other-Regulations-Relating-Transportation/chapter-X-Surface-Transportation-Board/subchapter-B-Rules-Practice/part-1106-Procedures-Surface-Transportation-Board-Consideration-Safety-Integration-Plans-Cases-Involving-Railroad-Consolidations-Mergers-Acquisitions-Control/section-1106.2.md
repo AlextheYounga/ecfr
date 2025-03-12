@@ -1,7 +1,5 @@
 ##### § 1106.2 Definitions. #####
 
-Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
-
 The following definitions apply to this part:
 
 *Act* means the ICC Termination Act of 1995, Pub. L. 104-88, 109 Stat. 803 (1995).
@@ -18,8 +16,10 @@ The following definitions apply to this part:
 
 *Federal Railroad Administration* (“FRA”) means the agency within the Department of Transportation responsible for railroad safety.
 
+*Office of Environmental Analysis* (“OEA”) means the Office that prepares the Board's environmental documents and analyses.
+
 *Safety Integration Plan* (“SIP”) means a comprehensive written plan, prepared in accordance with FRA guidelines or regulations, explaining the process by which Applicants intend to integrate the operation of the properties involved in a manner that would maintain safety at every step of the integration process, in the event the Board approves the transaction that requires a SIP.
 
-*Section of Environmental Analysis* (“SEA”) means the Section that prepares the Board's environmental documents and analyses.
-
 *Transaction* means an application by a Class I railroad that proposes to consolidate with, merge with, or acquire control under 49 U.S.C. 11323(a) of another Class I railroad, or with a Class II railroad where there is a proposed amalgamation of operations, as defined by FRA's regulations at 49 CFR 244.9. “Transaction” also includes a proceeding other than those specified above if the Board concludes that a SIP is necessary in its proper consideration of the application or other request for authority.
+
+[67 FR 11607, Mar. 15, 2002, as amended at 83 FR 15078, Apr. 9, 2018]

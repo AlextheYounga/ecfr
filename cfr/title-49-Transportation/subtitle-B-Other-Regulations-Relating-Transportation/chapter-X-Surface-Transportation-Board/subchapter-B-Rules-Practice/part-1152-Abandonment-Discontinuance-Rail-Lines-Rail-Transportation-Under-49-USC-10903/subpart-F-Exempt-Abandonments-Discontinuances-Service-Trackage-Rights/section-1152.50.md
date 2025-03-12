@@ -1,7 +1,5 @@
 ##### § 1152.50 Exempt abandonments and discontinuances of service and trackage rights. #####
 
-Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
-
 (a)(1) A proposed abandonment or discontinuance of service or trackage rights over a railroad line is exempt from the provisions of 49 U.S.C. 10903 if the criteria in this section are satisfied.
 
 (2) Whenever the Board determines a proposed abandonment to be exempt from the requirements of 49 U.S.C. 10903, whether under this section or on the basis of the merits of an individual petition, the provisions of §§ 1152.27, 1152.28, and 1152.29 as they relate to exemption proceedings shall be applicable.
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
 
 (i) The Public Service Commission (or equivalent agency) in the state(s) where the line will be abandoned or the service or trackage rights discontinued;
 
-(ii) Department of Defense (Military Traffic Management Command, Transportation Engineering Agency, Railroads for National Defense Program);
+(ii) Department of Defense (Military Surface Deployment and Distribution Command, Transportation Engineering Agency, Railroads for National Defense Program);
 
 (iii) The National Park Service, Recreation Resources Assistance Division; and
 
@@ -34,8 +32,8 @@ The notice shall name the railroad, describe the line involved, including United
 
 (5) A notice or decision to all parties will be issued if use of the exemption is made subject to environmental, energy, historic preservation, public use and/or interim trail use and rail banking conditions.
 
-(6) To address whether the standard labor protective conditions set forth in *Oregon Short Line R. Co. - Abandonment - Goshen,* 360 I.C.C. 91 (1979), adequately protect affected employees, a petition for partial revocation of the exemption under 49 U.S.C. 10502(d) must be filed.
+(6) To address whether the standard labor protective conditions set forth in *Oregon Short Line R. Co.—Abandonment—Goshen,* 360 I.C.C. 91 (1979), adequately protect affected employees, a petition for partial revocation of the exemption under 49 U.S.C. 10502(d) must be filed.
 
 (e) *Consummation notice.* As provided in § 1152.29(e)(2), rail carriers that receive authority to abandon a line under § 1152.50 must file with the Board a notice that abandonment has been consummated.
 
-[61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34670, June 27, 1997]
+[61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34670, June 27, 1997; 83 FR 15079, Apr. 9, 2018]

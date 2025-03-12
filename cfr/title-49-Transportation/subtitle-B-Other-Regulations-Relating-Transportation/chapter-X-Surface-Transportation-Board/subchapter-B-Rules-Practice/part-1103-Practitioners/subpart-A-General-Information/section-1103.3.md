@@ -1,6 +1,4 @@
-##### § 1103.3 Persons not attorneys-at-law - qualifications and requirements for practice before the Board. #####
-
-Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+##### § 1103.3 Persons not attorneys-at-law—qualifications and requirements for practice before the Board. #####
 
 (a) *In general.* Any citizen or resident of the United States, not an attorney-at-law, who files an application for admission to practice, accompanied by the payment of the fee prescribed by rule or order of the Board, and who successfully completes the practitioners' examination, and shows that applicant possesses the necessary legal and technical qualifications to enable applicant to render valuable service before the Board and that applicant is competent to advise and assist in the presentation of matters before the Board, may be permitted to practice before the Board.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
 
 (2) *Certification:* All applicants must complete the following certification:
 
-I, \_\_\_\_\_ (Name) \_\_\_\_\_, certify under penalty of perjury under the laws of the United States, that I have not been convicted, after September 1, 1989, of any Federal or State offense involving the distribution or possession of a controlled substance, or that if I have been so convicted, I am not ineligible to receive Federal Benefits, either by court order or operation of law, pursuant to 21 U.S.C. 853a.
+I, \_\_\_\_\_ (Name) \_\_\_\_\_, certify under penalty of perjury under the laws of the United States, that I have not been convicted, after September 1, 1989, of any Federal or State offense involving the distribution or possession of a controlled substance, or that if I have been so convicted, I am not ineligible to receive Federal Benefits, either by court order or operation of law, pursuant to 21 U.S.C. 862.
 
 (d) *Application fee.* Each application filed pursuant to this rule must be accompanied by the non-refundable fee in the amount set forth in 49 CFR 1002.2(f)(99)(i). Payment must be made either by check, money order or credit card payable to the Surface Transportation Board. Cash payment will not be accepted.
 
@@ -48,4 +46,4 @@ I, \_\_\_\_\_ (Name) \_\_\_\_\_, certify under penalty of perjury under the laws
 
 (p) *Applicant's oath.* No applicant shall be admitted to practice before the Board until applicant shall subscribe to an oath or affirmation that applicant will conduct practice uprightly and according to the law, as a practitioner before the Board, and that applicant will support the Constitution of the United States and laws of the United States and will conform to the rules and regulations of the Board.
 
-[47 FR 49549, Nov. 1, 1982, as amended at 49 FR 38614, Oct. 1, 1984; 52 FR 46483, Dec. 8, 1987; 54 FR 48250, Nov. 22, 1989; 56 FR 1374, Jan. 14, 1991; 64 FR 53267, Oct. 1, 1999; 74 FR 52906, Oct. 15, 2009; 81 FR 8853, Feb. 23, 2016]
+[47 FR 49549, Nov. 1, 1982, as amended at 49 FR 38614, Oct. 1, 1984; 52 FR 46483, Dec. 8, 1987; 54 FR 48250, Nov. 22, 1989; 56 FR 1374, Jan. 14, 1991; 64 FR 53267, Oct. 1, 1999; 74 FR 52906, Oct. 15, 2009; 81 FR 8853, Feb. 23, 2016; 83 FR 15078, Apr. 9, 2018]

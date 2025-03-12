@@ -1,6 +1,6 @@
 ##### § 1244.9 Procedures for the release of waybill data. #####
 
-Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
+Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
 
 (a) *General.* The procedures for the release of waybill data identify five classes of users of the STB Waybill Sample, define the waybill information or data that each class of users may obtain, and set forth the applicable requirements for the data's release. They also formalize notice and protest procedures for the possible release of waybill data to other users to protect against the inappropriate release of confidential data. The Director of the Office of Economics shall be responsible for releasing waybill data in accordance with these procedures.
 
@@ -24,7 +24,7 @@ Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to an amendment
 
 (i) The STB Waybill Sample is the only single source of the data or obtaining the data from other sources is burdensome or costly, and the data is relevant to issues pending before the Board.
 
-(ii) The requestor submits to the STB a written waybill request that complies with § 1244.8(e).
+(ii) The requestor submits to the STB a written waybill request that complies with § 1244.9(e).
 
 (iii) All waybill data must be returned to the STB, and the firm must not keep any copies.
 
@@ -122,7 +122,7 @@ Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to an amendment
 
 (1) *Notice of request for confidential waybill data.* Affected railroads and shippers will receive notice by Federal Register Publication. If railroad specific or shipper specific data are requested, those parties will be given written notice of the request.
 
-(2) *Form of notice.* The notice shall identify the parties requesting the data; describe the type of waybill data requested; and state the purpose for which the data is requested. The notice shall include a statement that parties seeking information concerning the filing of objections should refer to Ex Parte No. 385 (Sub-No. 2), 49 CFR 1224.8, or contact the Surface Transportation Board's Office of Economics.
+(2) *Form of notice.* The notice shall identify the parties requesting the data; describe the type of waybill data requested; and state the purpose for which the data is requested. The notice shall include a statement that parties seeking information concerning the filing of objections should refer to Ex Parte No. 385 (Sub-No. 2), 49 CFR 1224.9, or contact the Surface Transportation Board's Office of Economics.
 
 (3) *Objections to release.* (i) Objections to release of the confidential waybill data must be filed by the railroad and/or shipper no later than 14 calendar days from publication of the notice in the Federal Register.
 
@@ -176,6 +176,6 @@ Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to an amendment
 
 (6) Appeals to the Director's determination shall be filed in accordance with paragraph (d)(4)(iii) of this section.
 
-(h) *Munitions shipments.* All waybill requests for munition data at the 3-digit Standard Transportation Commodity Code (STCC) level or greater will be forwarded by the STB to the Department of Defense's Military Traffic Management Command (MTMC). The STB will not release this type of information without MTMC's consent.
+(h) *Munitions shipments.* All waybill requests for munition data at the 3-digit Standard Transportation Commodity Code (STCC) level or greater will be forwarded by the STB to the Department of Defense's Military Surface Deployment and Distribution Command (SDDC) . The STB will not release this type of information without SDDC's consent.
 
-[52 FR 12416, Apr. 16, 1987. Redesignated at 65 FR 37711, June 16, 2000, as amended at 67 FR 57534, Sept. 11, 2002; 81 FR 8856, Feb. 23, 2016]
+[52 FR 12416, Apr. 16, 1987. Redesignated at 65 FR 37711, June 16, 2000, as amended at 67 FR 57534, Sept. 11, 2002; 81 FR 8856, Feb. 23, 2016; 83 FR 15080, Apr. 9, 2018]

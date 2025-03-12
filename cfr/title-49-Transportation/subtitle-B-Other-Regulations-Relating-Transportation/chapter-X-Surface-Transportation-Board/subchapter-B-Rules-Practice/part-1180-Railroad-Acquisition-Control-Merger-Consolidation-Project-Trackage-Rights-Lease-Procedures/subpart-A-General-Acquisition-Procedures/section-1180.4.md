@@ -1,7 +1,5 @@
 ##### § 1180.4 Procedures. #####
 
-Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
-
 (a) *General.* (1) The original and 25 copies of all documents shall be filed in *major* proceedings. The original and 10 copies shall be filed in *significant* and *minor* proceedings.
 
 (2) Each party to a proceeding shall choose a unique acronym of four letters or less for itself. It shall number each document filed in the proceeding consecutively, prefixed by its acronym.
@@ -66,7 +64,7 @@ Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
 
 (i) The Governor (or Executive Officer), Public Service Commission, and the Department of Transportation of each State in which any part of the properties of the applicant carriers involved in the proposed transaction is situated;
 
-(ii) The Secretary of the United States Department of Transportation (Docket Clerk, Office of Chief Counsel, Federal Railroad Administration, Room 5101, 400 Seventh Street, SW., Washington, DC 20590).
+(ii) The Secretary of the United States Department of Transportation (Office of Chief Counsel, Federal Railroad Administration, 1200 New Jersey Avenue SE, Washington, DC 20590.
 
 (iii) The Attorney General of the United States;
 
@@ -252,4 +250,4 @@ The following key identifies the information symbolized in the summary.
 
 (8) AAR compilations of bad order ratios, equipment ownership and repair statistics, and freight car order figures.
 
-[47 FR 9844, Mar. 8, 1982]Editorial Note:For Federal Register citations affecting § 1180.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 9844, Mar. 8, 1982]Editorial Note:For Federal Register citations affecting § 1180.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

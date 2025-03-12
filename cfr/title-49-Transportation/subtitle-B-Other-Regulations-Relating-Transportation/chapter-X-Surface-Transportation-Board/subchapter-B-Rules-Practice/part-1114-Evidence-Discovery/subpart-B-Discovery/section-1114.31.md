@@ -1,7 +1,5 @@
 ##### § 1114.31 Failure to respond to discovery. #####
 
-Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
-
 (a) *Failure to answer.* If a deponent fails to answer or gives an evasive answer or incomplete answer to a question propounded under § 1114.24(a), or a party fails to answer or gives evasive or incomplete answers to written interrogatories served pursuant to § 1114.26(a), the party seeking discovery may apply for an order compelling an answer by motion filed with the Board and served on all parties and deponents. Such motion to compel an answer must be filed with the Board and served on all parties and deponents. Such motion to compel an answer must be filed with the Board within 10 days after the failure to obtain a responsive answer upon deposition, or within 10 days after expiration of the period allowed for submission of answers to interrogatories. On matters relating to a deposition on oral examination, the proponent of the question may complete or adjourn the examination before he applies for an order.
 
 (1) *Reply to motion to compel generally.* Except in rate cases to be considered under the stand-alone cost methodology or simplified standards, the time for filing a reply to a motion to compel is governed by 49 CFR 1104.13.
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
 
 (4) *Ruling on motion to compel in stand-alone cost and simplified standards rate cases.* Within 5 business days after a conference with the parties convened pursuant to paragraph (a)(3) of this section, the Director of the Office of Proceedings will issue a summary ruling on the motion to compel discovery. If no conference is convened, the Director of the Office of Proceedings will issue this summary ruling within 10 days after the filing of the reply to the motion to compel. Appeals of a Director's ruling will proceed under 49 CFR 1115.9, and the Board will attempt to rule on such appeals within 20 days after the filing of the reply to the appeal.
 
-(b) *Failure to comply with order.* (1) If a party or other witness refuses to be sworn or refuses to answer any question after being directed to do so by the Board, such refusal may subject the refusing party or person to action by the Board under 49 U.S.C. 721(c) and (d) to compel appearance and compliance with the Board's order.
+(b) *Failure to comply with order.* (1) If a party or other witness refuses to be sworn or refuses to answer any question after being directed to do so by the Board, such refusal may subject the refusing party or person to action by the Board under 49 U.S.C. 1321(c) and (d) to compel appearance and compliance with the Board's order.
 
 (2) If any party or an officer, director, managing agent, or employee of a party or person refuses to obey an order made under paragraph (a) of this section requiring him to answer designated questions, or an order made under § 1114.30 requiring him to produce any document or other thing for inspection, copying, testing, sampling, or photographing or to permit it to be done, or to permit entry upon land or other property, the Board may make such orders in regard to the refusal as are just, and among others the following:
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
 
 (e) *Expenses against United States.* Expenses and attorney's fees are not to be imposed upon the United States under this rule.
 
-[47 FR 49562, Nov. 1, 1982, as amended at 61 FR 52713, Oct. 8, 1996; 68 FR 17313, Apr. 9, 2003; 69 FR 58366, Sept. 30, 2004; 72 FR 51377, Sept. 7, 2007; 74 FR 52908, Oct. 15, 2009; 82 FR 57381, Dec. 5, 2017]
+[47 FR 49562, Nov. 1, 1982, as amended at 61 FR 52713, Oct. 8, 1996; 68 FR 17313, Apr. 9, 2003; 69 FR 58366, Sept. 30, 2004; 72 FR 51377, Sept. 7, 2007; 74 FR 52908, Oct. 15, 2009; 82 FR 57381, Dec. 5, 2017; 83 FR 15079, Apr. 9, 2018]

@@ -14,4 +14,6 @@ I, [*Name and Title of Witness*], verify under penalty of perjury, under the law
 
 [*Signature and Date*]
 
-(f) If completion of a transaction requires the transfer of operating authorities or registrations from one or more parties to others, the parties shall comply with relevant procedures of the Office of Motor Carriers of the U.S. Department of Transportation, and comply with ministerial requirements of relevant State procedures.
+(f) If completion of a transaction requires the transfer of operating authorities or registrations from one or more parties to others, the parties shall comply with relevant procedures of the Federal Motor Carrier Safety Administration, and comply with ministerial requirements of relevant State procedures.
+
+[63 FR 46397, Sept. 1, 1998, as amended at 83 FR 15080, Apr. 9, 2018]
