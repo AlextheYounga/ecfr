@@ -6,4 +6,4 @@ The Agency will award and administer Energy Audit and REDA grants in accordance 
 
 (b) Form RD 400-1 specified in § 4280.122(c)(6) is not required.
 
-(c) The Power Purchase Agreement specified in § 4280.122(h) is not required.?\>
+(c) The Power Purchase Agreement specified in § 4280.122(h) is not required.

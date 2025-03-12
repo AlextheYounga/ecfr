@@ -16,4 +16,4 @@
 
 (d) *Closing.* Each RBIC may conduct more than one closing to raise the specific amount of Regulatory Capital that the Applicant had projected in its application that it would raise (see § 4290.310(b)). One or more closings may take place subsequent to licensing as an RBIC to raise the difference between the required Regulatory Capital as provided under paragraphs (a) and (b) of this section and the specific amount of Regulatory Capital that the Applicant had projected to raise in its application.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011; 85 FR 16522, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011; 85 FR 16522, Mar. 24, 2020]

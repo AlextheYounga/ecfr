@@ -14,4 +14,4 @@
 
 (3) Your request is for approval of a secured line of credit that would not cause your total outstanding borrowings (not including Leverage) to exceed 50 percent of your Leverageable Capital.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80223, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80223, Dec. 23, 2011]

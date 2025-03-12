@@ -8,4 +8,4 @@
 
 (b) You will not be eligible for a draw if you are not in compliance with this § 4290.1220.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]

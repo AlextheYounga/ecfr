@@ -8,4 +8,4 @@ For each of your Loans and Investments, you must have the documents listed in th
 
 (c) A certification by the Portfolio Concern of the intended use of the proceeds. For securities purchased from an underwriter in a public offering, you may substitute a prospectus indicating the intended use of proceeds.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80223, Dec. 23, 2011; 85 FR 16523, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80223, Dec. 23, 2011; 85 FR 16523, Mar. 24, 2020]

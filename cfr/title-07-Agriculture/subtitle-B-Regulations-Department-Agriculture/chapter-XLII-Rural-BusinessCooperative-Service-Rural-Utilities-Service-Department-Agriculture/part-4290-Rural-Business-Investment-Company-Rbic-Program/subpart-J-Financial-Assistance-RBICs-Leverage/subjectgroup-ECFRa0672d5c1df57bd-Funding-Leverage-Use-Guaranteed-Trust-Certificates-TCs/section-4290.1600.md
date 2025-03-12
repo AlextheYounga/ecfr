@@ -8,4 +8,4 @@
 
 (d) *Formation of a Pool or Trust holding Leverage Securities.* The Agency shall approve the formation of each Pool or Trust. The Agency may, in its discretion, establish the size of the Pools and their composition, the interest rate on the TCs issued against Trusts or Pools, discounts, premiums and other charges made in connection with the Pools, Trusts, and TCs, and any other characteristics of a Pool or Trust it deems appropriate. Notwithstanding § 4290.1130(c), any agent of the Agency may collect a fee for the functions described in 7 U.S.C. 2009cc-5(e)(2) that does not exceed $500.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]

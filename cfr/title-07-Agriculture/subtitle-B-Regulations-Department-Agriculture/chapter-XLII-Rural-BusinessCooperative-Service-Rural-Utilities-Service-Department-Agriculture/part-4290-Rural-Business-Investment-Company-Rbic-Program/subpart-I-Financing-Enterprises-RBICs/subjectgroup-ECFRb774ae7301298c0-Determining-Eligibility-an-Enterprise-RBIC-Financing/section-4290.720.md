@@ -40,7 +40,7 @@
 
 (f) *Public interest.* You are not permitted to finance any business if the proceeds are to be used for purposes contrary to the public interest, including but not limited to or activities which are in violation of law, or inconsistent with free competitive enterprise.
 
-(g) *Foreign investment* - (1) *General rule.* You are not permitted to finance an Enterprise if:
+(g) *Foreign investment*—(1) *General rule.* You are not permitted to finance an Enterprise if:
 
 (i) The funds will be used substantially for a foreign operation; or
 
@@ -66,4 +66,4 @@
 
 (k) *Change in control of an Enterprise.* You are not permitted to Finance a change of more than 50 percent control of an Enterprise unless otherwise approved by the Agency.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011; 85 FR 16523, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011; 85 FR 16523, Mar. 24, 2020]

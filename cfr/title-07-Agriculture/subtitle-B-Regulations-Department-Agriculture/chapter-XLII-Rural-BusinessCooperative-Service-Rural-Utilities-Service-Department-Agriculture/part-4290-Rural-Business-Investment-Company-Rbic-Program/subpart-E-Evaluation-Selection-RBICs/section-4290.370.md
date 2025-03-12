@@ -28,4 +28,4 @@ Of those Applicants whose management team is considered qualified for venture ca
 
 (m) The strength of the Applicant's application compared to applications submitted by other Applicants intending to invest in the same or proximate Rural Areas.
 
-[69 FR 32202, June 8, 2004, as amended at 85 FR 16523, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 85 FR 16523, Mar. 24, 2020]

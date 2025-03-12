@@ -1,5 +1,7 @@
 ##### § 36.4333 Maintenance of records. #####
 
+Link to an amendment published at 86 FR 28708, May 28, 2021.
+
 (a)(1) The holder shall maintain a record of the amounts of payments received on the obligation and disbursements chargeable thereto and the dates thereof, including copies of bills and receipts for such disbursements. These records shall be maintained until the Secretary ceases to be liable as guarantor or insurer of the loan, or, if the Secretary has paid a claim on the guaranty, until 3 years after such claim was paid. For the purpose of any accounting with the Secretary or computation of a claim, any holder who fails to maintain such record and, upon request, make it available to the Secretary for review shall be presumed to have received on the dates due all sums which by the terms of the contract are payable prior to date of claim for default, or to have not made the disbursement for which reimbursement is claimed, and the burden of going forward with evidence and of ultimate proof of the contrary shall be on such holder.
 
 (2) The holder shall maintain records supporting their decision to approve any loss mitigation option for which an incentive is paid in accordance with § 36.4319(a). Such records shall be retained a minimum of 3 years from the date of such incentive payment and shall include, but not be limited to, credit reports, verifications of income, employment, assets, liabilities, and other factors affecting the obligor's credit worthiness, work sheets, and other documents supporting the holder's decision.

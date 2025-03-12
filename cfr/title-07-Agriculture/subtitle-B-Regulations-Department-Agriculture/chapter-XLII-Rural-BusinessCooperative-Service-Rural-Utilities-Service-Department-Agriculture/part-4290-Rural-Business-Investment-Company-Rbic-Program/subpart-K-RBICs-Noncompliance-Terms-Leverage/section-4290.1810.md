@@ -88,4 +88,4 @@
 
 (3) With respect to a Corporate RBIC, Partnership RBIC, or LLC RBIC, to obtain the appointment of the Agency or its designee as your receiver under section 384M of the Act for the purpose of continuing your operations. The appointment of a receiver to liquidate an RBIC is not within such consent, but is governed instead by the relevant provisions of the Act.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]

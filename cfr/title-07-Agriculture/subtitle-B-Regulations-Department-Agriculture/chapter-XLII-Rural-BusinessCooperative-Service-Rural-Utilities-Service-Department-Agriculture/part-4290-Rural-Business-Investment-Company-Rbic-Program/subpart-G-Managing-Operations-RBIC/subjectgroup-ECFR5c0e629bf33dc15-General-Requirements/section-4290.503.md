@@ -20,4 +20,4 @@
 
 (2) The independent public accountant's report on your audited annual financial statements (SBA Form 468 or other USDA-approved form(s)) must include a statement that your valuations were prepared in accordance with your approved valuation policy.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]

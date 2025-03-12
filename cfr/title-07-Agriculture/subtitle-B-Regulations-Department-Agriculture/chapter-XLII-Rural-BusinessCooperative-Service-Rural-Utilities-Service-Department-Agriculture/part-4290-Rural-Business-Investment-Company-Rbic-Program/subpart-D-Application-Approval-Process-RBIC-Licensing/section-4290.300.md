@@ -4,4 +4,4 @@
 
 (b) *Application form.* An Applicant must apply for a RBIC license using an appropriate application packet provided by the Agency. Upon receipt of a completed application packet, the Agency may request clarifying or technical information on the materials submitted as part of the application.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]

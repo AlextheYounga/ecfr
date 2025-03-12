@@ -10,4 +10,4 @@
 
 (b) For the purposes of paragraph (a) of this section, you must measure each outstanding Financing at its original cost plus any amount of the Financing that was previously written off.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]

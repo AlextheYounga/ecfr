@@ -246,6 +246,10 @@
 
 (ii) Units of local government may petition the Under Agency of Rural Development for a “rural in character” designation by submitting a petition to both the appropriate Rural Development State Director and the Rural Business-Cooperative Service Administrator of USDA on behalf of the Under Agency. The petition shall document how the area meets the requirements of paragraph (6)(i)(A) or (B) of this definition and discuss why the petitioner believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, and topography and how the local economy is tied to a rural economic base. Upon receiving a petition, the Under Agency will consult with the applicable Governor or leader in a similar position and request comments to be submitted within 5 business days, unless such comments were submitted with the petition. The Under Agency will release to the public a notice of a petition filed by a unit of local government not later than 30 days after receipt of the petition by way of publication in a local newspaper and posting on the Agency's Web site, and the Under Agency will make a determination not less than 15 days, but no more than 60 days, after the release of the notice. Upon a negative determination, the Under Agency will provide to the petitioner an opportunity to appeal a determination to the Under Agency, and the petitioner will have 10 business days to appeal the determination and provide further information for consideration.
 
+*Rural Business Concern* means an Enterprise that primarily operates in a Rural Area.
+
+*Rural Business Concern Investment* means a Financing in a Rural Business Concern at the time of the initial Financing or if the initial Financing is to facilitate a relocation from a Non-rural Area to a Rural Area after that initial Financing.
+
 *Rural Business Investment Company* or *RBIC* means a corporation organized as required by § 4290.100 (Corporate RBIC), a limited partnership organized as required by §§ 4290.100 and 4290.160 (Partnership RBIC), or a limited liability company organized as required by §§ 4290.100 and 4290.160 (LLC RBIC), that has been licensed as a RBIC pursuant to § 4290.390.
 
 *SBA* means the U.S. Small Business Administration, an agency of the Federal Government headquartered at 409 Third Street, SW, Washington, DC 20416.
@@ -304,4 +308,4 @@
 
 *USDA* means the U.S. Department of Agriculture, a department of the Federal government headquartered at 1400 Independence Avenue, SW., Washington, DC 20250.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80221, Dec. 23, 2011; 79 FR 76018, Dec. 19, 2014; 80 FR 9914, Feb. 24, 2015; 85 FR 16522, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80221, Dec. 23, 2011; 79 FR 76018, Dec. 19, 2014; 80 FR 9914, Feb. 24, 2015; 85 FR 16522, Mar. 24, 2020]

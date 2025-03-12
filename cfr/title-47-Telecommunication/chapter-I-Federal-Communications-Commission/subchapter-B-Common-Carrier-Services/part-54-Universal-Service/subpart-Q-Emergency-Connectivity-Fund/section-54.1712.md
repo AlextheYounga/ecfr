@@ -1,0 +1,3 @@
+##### § 54.1712 Duplicate support. #####
+
+Entities participating in the Emergency Connectivity Fund may not seek Emergency Connectivity Fund support or reimbursement for eligible equipment or services that have been purchased with or reimbursed in full from other Federal pandemic-relief funding, targeted state funding, other external sources of targeted funding or targeted gifts, or eligible for discounts from the schools and libraries universal service support mechanism or other universal service support mechanisms.

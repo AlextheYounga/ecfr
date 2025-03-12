@@ -34,4 +34,4 @@
 
 (6) If any securities that are the source of either Class 1 or Class 2 Appreciation are pledged or encumbered in any way, you must reduce the Adjusted Unrealized Gain computed in paragraph (d)(5) of this section by the amount of the related borrowing or other obligation, up to the amount of the Unrealized Appreciation on the securities.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80225, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80225, Dec. 23, 2011]

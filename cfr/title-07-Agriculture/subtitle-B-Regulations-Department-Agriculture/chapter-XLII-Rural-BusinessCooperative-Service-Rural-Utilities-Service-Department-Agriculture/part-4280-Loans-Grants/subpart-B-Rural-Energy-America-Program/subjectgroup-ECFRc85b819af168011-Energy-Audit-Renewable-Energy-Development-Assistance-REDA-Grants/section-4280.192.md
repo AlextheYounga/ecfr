@@ -10,7 +10,7 @@ The Agency will score each Energy Audit and REDA application using the criteria 
 
 (3) At least 2 years and up to and including 5 years of experience, 10 points will be awarded.
 
-(4) Less than 2 years of experience, no points will be awarded.?\>
+(4) Less than 2 years of experience, no points will be awarded.
 
 (b) *Geographic scope of project in relation to identified need.* A maximum of 20 points can be awarded.
 

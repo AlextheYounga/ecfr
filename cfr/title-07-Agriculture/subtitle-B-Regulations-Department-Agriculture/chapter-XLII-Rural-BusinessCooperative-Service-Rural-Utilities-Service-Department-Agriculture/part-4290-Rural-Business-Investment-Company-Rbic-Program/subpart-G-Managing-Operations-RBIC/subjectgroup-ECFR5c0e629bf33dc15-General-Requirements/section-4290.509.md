@@ -8,4 +8,4 @@
 
 (b) For purposes of this section, “assistance” means financial, contractual, grant, managerial, or other aid, including licensing, certifications, and other eligibility determinations made by USDA or SBA, and any express decision to compromise or defer possible litigation or other adverse action.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]

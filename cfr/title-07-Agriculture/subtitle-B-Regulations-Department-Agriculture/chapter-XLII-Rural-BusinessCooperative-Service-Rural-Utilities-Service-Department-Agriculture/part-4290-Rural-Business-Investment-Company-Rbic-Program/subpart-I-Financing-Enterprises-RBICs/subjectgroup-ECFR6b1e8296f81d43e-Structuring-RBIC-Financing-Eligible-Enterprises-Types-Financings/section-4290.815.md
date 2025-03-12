@@ -10,4 +10,4 @@
 
 (3) The options received are compensation for services as a member of the board of directors of the Enterprise, and such compensation does not exceed that paid to other outside directors. In the absence of such directors, fees must be reasonable when compared with amounts paid to outside directors of similar Enterprises.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]

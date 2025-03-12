@@ -6,4 +6,4 @@
 
 (c) *Accessible office.* You must maintain an office that is convenient to the public and is open for business during normal working hours.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80222, Dec. 23, 2011]

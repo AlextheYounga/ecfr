@@ -4,7 +4,7 @@
 
 (b) *Limitations on amount of draw.* The amount of a draw must be a multiple of $5,000. The Agency, in its discretion, may determine a minimum dollar amount for draws against Leverage commitments. Any such minimum amounts will be published in Notices in the Federal Register from time to time.
 
-(c) *Effect of regulatory violations on RBIC's eligibility for draws* - (1) *General rule.* You are eligible to make a draw against your Leverage commitment only if you are in compliance with all applicable provisions of the Act and this part (*i.e.,* no unresolved statutory or regulatory violations) and your Participation Agreement.
+(c) *Effect of regulatory violations on RBIC's eligibility for draws*—(1) *General rule.* You are eligible to make a draw against your Leverage commitment only if you are in compliance with all applicable provisions of the Act and this part (*i.e.,* no unresolved statutory or regulatory violations) and your Participation Agreement.
 
 (2) *Exception to general rule.* If you are not in compliance, you may still be eligible for draws if:
 
@@ -36,4 +36,4 @@
 
 (3) If you do not comply with this paragraph (e), you will not be eligible for additional draws. The Agency may also determine that you are not in compliance with the terms of your Leverage under § 4290.1810.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32204, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]

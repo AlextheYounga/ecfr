@@ -10,7 +10,7 @@
 
 (2) Funds obtained through the issuance of Leverage.
 
-(3) Funds obtained directly or indirectly from the Federal government or any State (including by a political subdivision, agency or instrumentality of the Federal government or a State), except that the following categories of such funds are not excluded from Private Capital -
+(3) Funds obtained directly or indirectly from the Federal government or any State (including by a political subdivision, agency or instrumentality of the Federal government or a State), except that the following categories of such funds are not excluded from Private Capital—
 
 (i) Funds obtained directly or indirectly from the business revenues (excluding any governmental appropriation) of any federally-chartered or government-sponsored enterprise established prior to May 13, 2002;
 
@@ -30,4 +30,4 @@
 
 (2) The Agency gives its prior written approval of the capital contribution.
 
-[69 FR 32202, June 8, 2004, as amended at 85 FR 16523, Mar. 24, 2020]
+[69 FR 32204, June 8, 2004, as amended at 85 FR 16523, Mar. 24, 2020]

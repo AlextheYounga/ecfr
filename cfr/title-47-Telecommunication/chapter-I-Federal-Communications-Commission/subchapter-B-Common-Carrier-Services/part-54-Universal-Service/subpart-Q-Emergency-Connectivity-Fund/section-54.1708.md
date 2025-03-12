@@ -1,0 +1,24 @@
+##### § 54.1708 Emergency Connectivity Fund cap and requests. #####
+
+(a) *Cap.* (1) The Emergency Connectivity Fund shall have a cap of $7,171,000,000.
+
+(2) $1,000,000 to remain available until September 30, 2030, for the Inspector General of the Commission to conduct oversight of support provided through the Emergency Connectivity Fund.
+
+(3) Not more than 2% of the cap, or approximately $143,420,000, shall be used by the Commission and the Administrator for administration of the Emergency Connectivity Fund.
+
+(b) *Requests.* The Administrator shall implement an initial filing window, covering funding for purchases made between July 1, 2021 and June 30, 2022 for eligible equipment and services provided to students, school staff, and library patrons who would otherwise lack connected devices and/or broadband internet access services sufficient to engage in remote learning. All schools and libraries filing an application within that the initial filing period will have their applications treated as if they were simultaneously received. The initial filing period shall conclude after 45 days. If demand does not exceed available funds for the first filing window, the Wireline Competition Bureau will direct the Administrator to open a second application window for schools and libraries to seek funding for eligible equipment and services schools and libraries previously purchased to address the needs of students, school staff, and library patrons who would otherwise have lacked access to the equipment or services sufficient to engage in these activities during the COVID-19 pandemic. During this second application window, applicants will be able to submit requests for funding for purchases made from March 1, 2020 to June 30, 2021. However, in consideration of the importance of providing support for unconnected students, in the event that demand for prospective support in the first window appears to be far short of meeting current needs, the Commission may consider opening a second prospective window before opening an application window to fund previously purchased eligible equipment and services. If demand does not exceed available funds after the close of the second filing window, the Wireline Competition Bureau may direct the Administrator to open additional filing windows until the funds are exhausted or the emergency period ends, whichever is earlier.
+
+(c) *Rules of distribution.* (1) When the filing window(s) described in paragraph (b) of this section closes, the Administrator shall calculate the total demand for support submitted by applicants during the filing window. If total demand exceeds the total support available, the Administrator shall allocate funds to these requests for support, beginning with the most economically disadvantaged schools and libraries, as determined by the schools and libraries category one discount matrix in § 54.505(c) adjusted to provide a five percent increase for rural schools and libraries, as shown in the following matrix.
+
+|% of students eligible for National School Lunch Program|Emergency connectivity fund prioritization matrix|   |
+|--------------------------------------------------------|-------------------------------------------------|---|
+|                     Discount level                     |                                                 |   |
+|                         Urban                          |                      Rural                      |   |
+|                          \< 1                          |                       20                        |30 |
+|                          1-19                          |                       40                        |55 |
+|                         20-34                          |                       50                        |65 |
+|                         35-49                          |                       60                        |75 |
+|                         50-74                          |                       80                        |85 |
+|                         75-100                         |                       90                        |95 |
+
+(2) Schools and libraries eligible for a 95 percent discount shall receive first priority for the funds. The Administrator shall next allocate funds toward the requests submitted by schools and libraries eligible for an 90 percent discount, then for a 85 percent discount, and shall continue committing funds in the same manner to the applicants at each descending discount level until there are no funds remaining. If the remaining funds are not sufficient to support all of the funding requests within a particular discount level, the Administrator shall allocate funds at that discount level using the percentage of students eligible for the National School Lunch Program.
