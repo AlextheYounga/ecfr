@@ -1,7 +1,5 @@
 ##### § 74.707 Low power TV and TV translator station protection. #####
 
-Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
-
 (a)(1) A low power TV or TV translator will be protected from interference from other low power TV or TV translator stations, or TV booster stations within the following predicted contours:
 
 (i) 62 dBu for stations on Channels 2 through 6;
@@ -10,9 +8,11 @@ Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
 
 (iii) 74 dBu for stations on Channels 14 through 69.
 
-Existing licensees and permittees that did not furnish sufficient data required to calculate the above contours by April 15, 1983 are assigned protected contours having the following radii:Up to 0.001 kW VHF/UHF - 1 mile (1.6 km) from transmitter siteUp to 0.01 kW VHF; up to 0.1 k/W UHF - 2 miles (3.2 km) from transmitter siteUp to 0.1 kW VHF; up to 1 kW UHF - 4 miles (6.4 km) from transmitter siteNew applicants must submit the required information; they cannot rely on this table.
+(A) Existing licensees and permittees that did not furnish sufficient data required to calculate the above contours by April 15, 1983 are assigned protected contours having the following radii:
 
-(2) The low power TV or TV translator station protected contour is calculated from the authorized effective radiated power and antenna height above average terrain, using Figure 9, 10, or 10b of § 73.699 (F(50,50) charts) of Part 73 of this chapter.
+(*1*) Up to 0.001 kW VHF/UHF - 1 mile (1.6 km) from transmitter site(*2*) Up to 0.01 kW VHF; up to 0.1 k/W UHF - 2 miles (3.2 km) from transmitter site(*3*) Up to 0.1 kW VHF; up to 1 kW UHF - 4 miles (6.4 km) from transmitter site
+
+(B) New applicants must submit the required information; they cannot rely on paragraphs (a)(1)(iii)(A)(*1*) through (*3*) of this section.
 
 (b)(1) An application to construct a new low power TV, TV translator, or TV booster station or change the facilities of an existing station will not be accepted if it specifies a site which is within the protected contour of a co-channel or first adjacent channel low power TV, TV translator, or TV booster station, except that a TV booster station may be located within the protected contour of its co-channel primary station.
 
@@ -44,4 +44,4 @@ Existing licensees and permittees that did not furnish sufficient data required 
 
 (e) As an alternative to the preceding paragraphs of § 74.707, an applicant for a low power TV or TV translator station may make full use of terrain shielding and Longley-Rice terrain dependent propagation prediction methods to demonstrate that the proposed facility would not be likely to cause interference to low power TV, TV translator and TV booster stations. Guidance on using the Longley-Rice methodology is provided in *OET Bulletin No. 69* (but also *see* § 74.793(d)). Copies of OET Bulletin No. 69 may be inspected during normal business hours at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a). This document is also available through the Internet on the FCC Home Page at *http://www.fcc.gov.*
 
-[47 FR 21498, May 18, 1982, as amended at 47 FR 35990, Aug. 18, 1982; 48 FR 21487, May 12, 1983; 52 FR 31403, Aug. 20, 1987; 62 FR 26722, May 14, 1997; 65 FR 58467, Sept. 29, 2000; 69 FR 69332, Nov. 29, 2004; 85 FR 64409, Oct. 13, 2020]
+[47 FR 21498, May 18, 1982, as amended at 47 FR 35990, Aug. 18, 1982; 48 FR 21487, May 12, 1983; 52 FR 31403, Aug. 20, 1987; 62 FR 26722, May 14, 1997; 65 FR 58467, Sept. 29, 2000; 69 FR 69332, Nov. 29, 2004; 85 FR 64409, Oct. 13, 2020; 86 FR 66214, Nov. 22, 2021]

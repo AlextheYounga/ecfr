@@ -1,7 +1,5 @@
 ##### § 73.603 Numerical designation of television channels. #####
 
-Link to an amendment published at 86 FR 66195, Nov. 22, 2021.
-
 (a)
 
 |Channel No.|Frequency band (MHz)|
@@ -42,38 +40,6 @@ Link to an amendment published at 86 FR 66195, Nov. 22, 2021.
 |    35     |      596-602       |
 |    36     |      602-608       |
 |    37     |      608-614       |
-|    38     |      614-620       |
-|    39     |      620-626       |
-|    40     |      626-632       |
-|    41     |      632-638       |
-|    42     |      638-644       |
-|    43     |      644-650       |
-|    44     |      650-656       |
-|    45     |      656-662       |
-|    46     |      662-668       |
-|    47     |      668-674       |
-|    48     |      674-680       |
-|    49     |      680-686       |
-|    50     |      686-692       |
-|    51     |      692-698       |
-|    52     |      698-704       |
-|    53     |      704-710       |
-|    54     |      710-716       |
-|    55     |      716-722       |
-|    56     |      722-728       |
-|    57     |      728-734       |
-|    58     |      734-740       |
-|    59     |      740-746       |
-|    60     |      746-752       |
-|    61     |      752-758       |
-|    62     |      758-764       |
-|    63     |      764-770       |
-|    64     |      770-776       |
-|    65     |      776-782       |
-|    66     |      782-788       |
-|    67     |      788-794       |
-|    68     |      794-800       |
-|    69     |      800-806       |
 
 (b) [Reserved]
 
@@ -81,4 +47,4 @@ Link to an amendment published at 86 FR 66195, Nov. 22, 2021.
 
 (d) In Hawaii, the frequency band 488-494 MHz is allocated for non-broadcast use. This frequency band (Channel 17) will not be assigned in Hawaii for use by television broadcast stations.
 
-[28 FR 13660, Dec. 14, 1963, as amended at 35 FR 11179, July 11, 1970; 39 FR 10576, Mar. 21, 1974; 47 FR 16789, Apr. 20, 1982; 47 FR 30068, July 12, 1982; 47 FR 35989, Aug. 18, 1982; 51 FR 18450, May 20, 1986; 70 FR 46676, Aug. 10, 2005]
+[28 FR 13660, Dec. 14, 1963, as amended at 35 FR 11179, July 11, 1970; 39 FR 10576, Mar. 21, 1974; 47 FR 16789, Apr. 20, 1982; 47 FR 30068, July 12, 1982; 47 FR 35989, Aug. 18, 1982; 51 FR 18450, May 20, 1986; 70 FR 46676, Aug. 10, 2005; 86 FR 66195, Nov. 22, 2021]

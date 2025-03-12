@@ -1,7 +1,5 @@
 ##### § 73.681 Definitions. #####
 
-Link to an amendment published at 86 FR 66209, Nov. 22, 2021.
-
 *Amplitude modulation* (*AM*). A system of modulation in which the envelope of the transmitted wave contains a component similar to the wave form of the signal to be transmitted.
 
 *Antenna electrical beam tilt.* The shaping of the radiation pattern in the vertical plane of a transmitting antenna by electrical means so that maximum radiation occurs at an angle below the horizontal plane.
@@ -99,7 +97,7 @@ When a carrier is amplitude modulated by a television signal in accordance with 
 
 *Synchronization.* The maintenance of one operation in step with another.
 
-*Television broadcast band.* The frequencies in the band extending from 54 to 806 megahertz which are assignable to television broadcast stations. These frequencies are 54 to 72 megahertz (channels 2 through 4), 76 to 88 megahertz (channels 5 and 6), 174 to 216 megahertz (channels 7 through 13), and 470 to 806 megahertz (channels 14 through 69).
+*Television broadcast band.* The frequencies in the band extending from 54 to 608 megahertz which are assignable to television broadcast stations. These frequencies are 54 to 72 megahertz (channels 2 through 4), 76 to 88 megahertz (channels 5 and 6), 174 to 216 megahertz (channels 7 through 13), and 470 to 608 megahertz (channels 14 through 36).
 
 *Television broadcast station.* A station in the television broadcast band transmitting simultaneous visual and aural signals intended to be received by the general public.
 
@@ -117,4 +115,4 @@ When a carrier is amplitude modulated by a television signal in accordance with 
 
 *Visual transmitter power.* The peak power output when transmitting a standard television signal.
 
-[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.681, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[28 FR 13660, Dec. 14, 1963; 86 FR 66209, Nov. 22, 2021]Editorial Note:For Federal Register citations affecting § 73.681, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

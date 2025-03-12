@@ -1,5 +1,7 @@
 ##### § 1280.217 Lamb purchases. #####
 
+Link to an amendment published at 86 FR 72515, Dec. 22, 2021.
+
 (a) Except as prescribed by regulations approved by the Secretary, each first handler, or exporter making payment to a producer, seedstock producer, or feeder for lambs purchased from such producer, seedstock producer, or feeder shall collect an assessment from the producer, seedstock producer, or feeder. Each producer, seedstock producer, or feeder shall pay such assessment to the first handler or exporter, at the rate of one-half cent ($.005) per pound of live lambs sold.
 
 (b) Except as otherwise specified in this subpart, a person shall not be considered a producer, seedstock producer, or feeder within the meaning of this subpart if;

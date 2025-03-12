@@ -1,6 +1,6 @@
 ##### § 424.525 Rejection of a provider or supplier's enrollment application for Medicare enrollment. #####
 
-Link to an amendment published at 86 FR 62419, Nov. 9, 2021.
+Link to an amendment published at 86 FR 62419, Nov. 9, 2021.Link to a correction of the above amendment published at 86 FR 72532, Dec. 22, 2021.
 
 (a) *Reasons for rejection.* CMS may reject a provider's or supplier's enrollment application for any of the following reasons:
 

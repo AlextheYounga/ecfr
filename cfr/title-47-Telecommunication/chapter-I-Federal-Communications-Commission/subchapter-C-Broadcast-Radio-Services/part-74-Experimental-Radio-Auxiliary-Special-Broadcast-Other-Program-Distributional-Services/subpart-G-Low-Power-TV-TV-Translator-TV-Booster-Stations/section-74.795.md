@@ -1,7 +1,5 @@
 ##### § 74.795 Digital low power TV and TV translator transmission system facilities. #####
 
-Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
-
 (a) A digital low power TV or TV translator station shall operate with a transmitter that is either certificated for licensing based on the following provisions or has been modified for digital operation pursuant to § 74.796.
 
 (b) The following requirements must be met before digital low power TV and TV translator transmitter will be certificated by the FCC:
@@ -18,10 +16,10 @@ Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
 
 (c) The following additional requirements apply to digital heterodyne translators:
 
-(1) The maximum rated power output (digital average power over a 6 MHz channel) shall not exceed 30 watts for transmitters operating on channels 14-69 and 3 watts for transmitters operating on channels 2-13; and
+(1) The maximum rated power output (digital average power over a 6 MHz channel) shall not exceed 30 watts for transmitters operating on channels 14-51 and 3 watts for transmitters operating on channels 2-13; and
 
 (2) The transmitter shall contain circuits which will maintain the digital average power output constant within 1 dB when the strength of the input signal is varied over a range of 30 dB.
 
 (d) Certification will be granted only upon a satisfactory showing that the transmitter is capable of meeting the requirements of paragraph (b) of this section, pursuant to the procedures described in § 74.750(e).
 
-[69 FR 69336, Nov. 29, 2004]
+[69 FR 69336, Nov. 29, 2004; 86 FR 66214, Nov. 22, 2021]

@@ -1,8 +1,6 @@
 ##### § 73.3700 Post-incentive auction licensing and operation. #####
 
-Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
-
-(a) *Definitions* - (1) *Broadcast television station.* For purposes of this section, broadcast television station means full power television stations and Class A television stations.
+(a) *Definitions*—(1) *Broadcast television station.* For purposes of this section, broadcast television station means full power television stations and Class A television stations.
 
 (2) *Channel reassignment public notice.* For purposes of this section, *Channel Reassignment Public Notice* means the public notice to be released upon the completion of the broadcast television spectrum incentive auction conducted under section 6403 of the *Spectrum* Act specifying the new channel assignments and technical parameters of any broadcast television stations that are reassigned to new channels.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (17) *UHF-to-VHF station.* For purposes of this section, *UHF-to-VHF station* means a television station for which a winning UHF-to-VHF bid, as defined in § 1.2200(l) of this chapter, was submitted.
 
-(b) *Post-auction licensing* - (1) *Construction permit applications.* (i) Licensees of reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations must file a minor change application for a construction permit for the channel specified in the Channel Reassignment Public Notice using FCC Form 2100 Schedule A (for a full power station) or E (for a Class A station) within three months of the release date of the Channel Reassignment Public Notice. Licensees that are unable to meet this filing deadline may request a waiver of the deadline no later than 30 days prior to the deadline.
+(b) *Post-auction licensing*—(1) *Construction permit applications.* (i) Licensees of reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations must file a minor change application for a construction permit for the channel specified in the Channel Reassignment Public Notice using FCC Form 2100 Schedule A (for a full power station) or E (for a Class A station) within three months of the release date of the Channel Reassignment Public Notice. Licensees that are unable to meet this filing deadline may request a waiver of the deadline no later than 30 days prior to the deadline.
 
 (ii) A licensee of a reassigned station that is reassigned from one channel to a different channel within its existing band will be permitted to propose transmission facilities in its construction permit application that will extend its coverage contour, as defined by the technical parameters specified in the Channel Reassignment Public Notice, if such facilities:
 
@@ -74,7 +72,7 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (vii) Channel sharee stations must file a minor change application for a construction permit for the channel on which the channel sharer operates at least sixty (60) days prior to the date by which it must terminate operations on its pre-auction channel pursuant to paragraphs (b)(4)(i) and (ii) of this section. The application must include a copy of the executed channel sharing agreement.
 
-(2) *Applications for alternate channels and expanded facilities* -
+(2) *Applications for alternate channels and expanded facilities*—
 
 (i) *Alternate channels.* The licensee of a reassigned station, a UHF-to-VHF station, or a High-VHF-to-Low-VHF station, or a broadcast television station described in paragraph (b)(1)(iv)(B) of this section will be permitted to file a major change application for a construction permit for an alternate channel on FCC Form 2100 Schedules A (for a full power station) and E (for a Class A station) during a filing window to be announced by the Media Bureau by public notice, provided that:
 
@@ -100,7 +98,7 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (iii) All reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations must cease operating on their pre-auction channel once such station begins operating on its post-auction channel or by the deadline specified in its construction permit for its post-auction channel, whichever occurs earlier, and in no event later than the end of the post-auction transition period as defined in § 27.4 of this chapter.
 
-(5) *Applications for additional time to complete construction* - (i) *Delegation of authority.* Authority is delegated to the Chief, Media Bureau to grant a single extension of time of up to six months to licensees of reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations to complete construction of their post-auction channel upon demonstration by the licensee that failure to meet the construction deadline is due to circumstances that are either unforeseeable or beyond the licensee's control. Licensees needing additional time beyond such a single extension of time to complete construction shall be subject to the tolling provisions in § 73.3598.
+(5) *Applications for additional time to complete construction*—(i) *Delegation of authority.* Authority is delegated to the Chief, Media Bureau to grant a single extension of time of up to six months to licensees of reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations to complete construction of their post-auction channel upon demonstration by the licensee that failure to meet the construction deadline is due to circumstances that are either unforeseeable or beyond the licensee's control. Licensees needing additional time beyond such a single extension of time to complete construction shall be subject to the tolling provisions in § 73.3598.
 
 (ii) Circumstances that may justify an extension of the construction deadline of a licensee of a reassigned station, a UHF-to-VHF station, or a High-VHF-to-Low-VHF station include but are not limited to:
 
@@ -170,7 +168,7 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (v) If a station's anticipated transition date changes due to an unforeseen delay or change in transition plan, the licensee must send a further notice to affected MVPDs informing them of the new anticipated transition date.
 
-(e) *Reimbursement rules* - (1) *Entities eligible for reimbursement.* The Commission will reimburse relocation costs reasonably incurred only by:
+(e) *Reimbursement rules*—(1) *Entities eligible for reimbursement.* The Commission will reimburse relocation costs reasonably incurred only by:
 
 (i) The licensees of full power and Class A broadcast television stations that are reassigned under section 6403(b)(1)(B)(i) of the *Spectrum Act,* including channel sharer stations that are reassigned to a new channel in the Channel Reassignment Public Notice; and
 
@@ -216,15 +214,7 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (7) *Delegation of authority.* The Commission delegates authority to the Chief, Media Bureau, to adopt the necessary policies and procedures relating to allocations, draw downs, payments, obligations, and expenditures of money from the TV Broadcaster Relocation Fund in order to protect against waste, fraud, and abuse and in the event of bankruptcy, to establish a catalog of expenses eligible for reimbursement and predetermined cost estimates, review the estimated cost forms, issue initial allocations for costs reasonably incurred pursuant to section 6403(b)(4) of the Spectrum Act, set filing deadlines and review information and documentation regarding progress reports, final allocations, and final accountings, and issue final allocations to reimburse for costs reasonably incurred pursuant to section 6403(b)(4) of the Spectrum Act.
 
-(f) *Service rule waiver* - (1) *Waiver requests.* (i) A broadcast television station licensee described in paragraph (e)(1)(i) of this section may file a request with the Chief, Media Bureau for a waiver of the Commission's service rules pursuant to section 6403(b)(4)(B) of the *Spectrum Act* during a 30-day window commencing upon the date that the Channel Reassignment Public Notice is released.
-
-(ii) A broadcast television station licensee may request that a waiver be granted on a temporary or permanent basis.
-
-(2) A licensee will have 10 days following a grant of the waiver to notify the Commission whether it accepts the terms of the waiver.
-
-(3) A licensee is required to meet all requirements for receiving payment of relocation costs under section 6403(b)(4) of the Spectrum Act established by the Commission, including the requirements of paragraph (e) of this section, until its waiver request is granted and the licensee accepts the terms of the waiver.
-
-(4) A licensee that is granted and accepts the terms of the waiver or a licensee with a pending waiver application must comply with all filing and notification requirements, construction schedules, and other post-auction transition deadlines set forth in paragraphs (b), (c), and (d) of this section.
+(f) [Reserved]
 
 (g) *Low Power TV and TV translator stations.* (1) Licensees of operating low power TV and TV translator stations that are displaced by a broadcast television station or a wireless service provider or whose channel is reserved as a guard band as a result of the broadcast television spectrum incentive auction conducted under section 6403 of the *Spectrum Act* shall be permitted to submit an application for displacement relief in a restricted filing window to be announced by the Media Bureau by public notice. Except as otherwise indicated in this section, such applications will be subject to the rules governing displacement applications set forth in §§ 73.3572(a)(4) and 74.787(a)(4) of this chapter.
 
@@ -296,7 +286,7 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (7) *Preservation of carriage rights.* A channel sharee station that possessed carriage rights under section 338, 614, or 615 of the Communications Act of 1934 (47 U.S.C. 338; 534; 535) on November 30, 2010, shall have, at its shared location, the carriage rights under such section that would apply to such station at the shared location if it were not sharing a channel.
 
-(i) A broadcast television station licensed in the 600 MHz band, as that band is defined in section 27.5(l) -
+(i) A broadcast television station licensed in the 600 MHz band, as that band is defined in section 27.5(l)—
 
 (1) Shall not be permitted to modify its facilities, except as provided in paragraph (b)(1)(ii) of this section, if such modification will expand its noise limited service contour (in the case of a full power station) or protected contour (in the case of a Class A station) in such a way as to:
 
@@ -312,4 +302,4 @@ Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (ii) Adjacent channel operations are defined as operations of broadcast television stations and wireless services where their assigned channels or frequencies spectrally abut each other or are separated by up to 5 MHz.
 
-[79 FR 48539, Aug. 15, 2014, as amended at 79 FR 76914, Dec. 23, 2014; 80 FR 46846, Aug. 6, 2015; 80 FR 67342, 67346, Nov. 2, 2015; 80 FR 71743, Nov. 17, 2015; 81 FR 4975, Jan. 29, 2016]
+[79 FR 48539, Aug. 15, 2014, as amended at 79 FR 76914, Dec. 23, 2014; 80 FR 46846, Aug. 6, 2015; 80 FR 67342, 67346, Nov. 2, 2015; 80 FR 71743, Nov. 17, 2015; 81 FR 4975, Jan. 29, 2016; 86 FR 66213, Nov. 22, 2021]

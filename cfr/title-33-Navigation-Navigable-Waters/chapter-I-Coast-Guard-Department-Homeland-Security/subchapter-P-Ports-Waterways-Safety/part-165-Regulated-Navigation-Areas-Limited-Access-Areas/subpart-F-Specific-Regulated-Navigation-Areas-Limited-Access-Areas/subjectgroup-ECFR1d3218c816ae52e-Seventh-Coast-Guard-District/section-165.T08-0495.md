@@ -14,4 +14,4 @@
 
 (e) *Information broadcasts.* The COTP or a designated representative will inform the public when the safety zone is being enforced via a Broadcast Notices to Mariners.
 
-[USCG-2021-0495, 86 FR 62729, Nov. 12, 2021]Effective Date Note:By USCG-2021-0495, 86 FR 62729, Nov. 12, 2021, § 165.T08-95 was added, effective Dec. 2, 2021, through Dec. 1, 2022.
+[USCG-2021-0495, 86 FR 62729, Nov. 12, 2021]

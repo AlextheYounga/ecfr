@@ -1,5 +1,7 @@
 ##### § 1280.220 Collections. #####
 
+Link to an amendment published at 86 FR 72515, Dec. 22, 2021.
+
 (a) Each first handler and each exporter responsible for the collection of assessments under this subpart shall remit assessments to the Board by the 15th day of the month following the month in which the lambs were purchased for slaughter or export, as required by regulations recommended by the Board and prescribed by the Secretary, has provided otherwise; or
 
 (b) If a first handler marketed lambs or lamb products directly to consumers, assessments shall be remitted to the Board by the 15th day of the month following the month in which the lambs or lamb products were marketed, as required by regulations recommended by the Board and prescribed by the Secretary, has provided otherwise.

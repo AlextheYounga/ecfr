@@ -1,14 +1,12 @@
 ##### § 73.613 Protection of Class A TV stations. #####
 
-Link to an amendment published at 86 FR 66195, Nov. 22, 2021.
-
 (a) An application for a new TV broadcast station or for changes in the operating facilities of an existing TV broadcast station will not be accepted for filing if it fails to comply with the requirements specified in this section.
 
 Note to § 73.613(a):
 
 Licensees and permittees of TV broadcast stations that were authorized on November 29, 1999 (and applicants for new TV stations that had been cut-off without competing applications or that were the winning bidder in a TV broadcast station auction as of that date, or that were the proposed remaining applicant in a group of mutually exclusive applications for which a settlement agreement was on file as of that date) may continue to operate with facilities that do not protect Class A TV stations. Applications filed on or before November 29, 1999 for a change in the operating facilities of such stations also are not required to protect Class A TV stations under the provisions of this section.
 
-(b) Due to the frequency spacing which exists between TV channels 4 and 5, between channels 6 and 7, and between channels 13 and 14, first-adjacent channel protection standards shall not be applicable to these pairs of channels. Some interference protection requirements of this section only apply to stations transmitting on the UHF TV channels 14 through 51 (See § 73.603(a) of this part).
+(b) Due to the frequency spacing which exists between TV channels 4 and 5, between channels 6 and 7, and between channels 13 and 14, first-adjacent channel protection standards shall not be applicable to these pairs of channels. Some interference protection requirements of this section only apply to stations transmitting on the UHF TV channels 14 through 36 (*see* § 73.603(a)).
 
 (c) A UHF TV broadcast station application will not be accepted if it specifies a site less than 100 kilometers from the transmitter site of a UHF Class A TV station operating on a channel which is the seventh channel above the requested channel. Compliance with this requirement shall be determined based on a distance computation rounded to the nearest kilometer.
 
@@ -42,4 +40,4 @@ Licensees and permittees of TV broadcast stations that were authorized on Novemb
 
 (j) In support of a request for waiver of the interference protection requirements of this section, an applicant for a TV broadcast station may make full use of terrain shielding and Longley-Rice terrain dependent propagation methods to demonstrate that the proposed facility would not be likely to cause interference to Class A TV stations. Guidance on using the Longely-Rice methodology is provided in *OET Bulletin No. 69,* which is available through the Internet at *http://www.fcc.gov/oet/info/documents/bulletins/#69.*
 
-[65 FR 3001, May 10, 2000]
+[65 FR 3001, May 10, 2000; 86 FR 66195, Nov. 22, 2021]

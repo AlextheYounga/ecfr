@@ -1,12 +1,10 @@
 ##### § 73.623 DTV applications and changes to DTV allotments. #####
 
-Link to an amendment published at 86 FR 66209, Nov. 22, 2021.
-
-(a) *General.* This section contains the technical criteria for evaluating applications requesting DTV facilities that do not conform to the provisions of § 73.622 and petitions for rule making to amend the pre-transition DTV Table of Allotments (§ 73.622(b)). Petitions to amend the DTV Table (other than those also expressly requesting amendment of this section) and applications for new DTV broadcast stations or for changes in authorized DTV stations filed pursuant to this section will not be accepted for filing if they fail to comply with the requirements of this section. Petitions for rule making and applications seeking facilities that will operate after the end of the DTV transition must also comply with § 73.616.
+(a) *General.* This section contains the technical criteria for evaluating applications requesting DTV facilities that do not conform to the provisions of § 73.622 and petitions for rulemaking to amend the DTV Table of Allotments (§ 73.622(b)). Petitions to amend the DTV Table (other than those also expressly requesting amendment of this section) and applications for new DTV broadcast stations or for changes in authorized DTV stations filed pursuant to this section will not be accepted for filing if they fail to comply with the requirements of this section. Petitions for rule making and applications seeking facilities that will operate after the end of the DTV transition must also comply with § 73.616.
 
 (b) In considering petitions to amend the DTV Table and applications filed pursuant to this section, the Commission will use geographic coordinates defined in § 73.622(d) as reference points in determining allotment separations and evaluating interference potential.
 
-(c) *Minimum technical criteria for modification of DTV allotments included in the initial DTV Table of Allotments and for applications filed pursuant to this section.* No petition to modify a channel allotment included in the initial DTV Table of Allotments or application for authority to construct or modify a DTV station assigned to such an allotment, filed pursuant to this section, will be accepted unless it shows compliance with the requirements of this paragraph.
+(c) [Reserved]
 
 (1) Requests filed pursuant to this paragraph must demonstrate compliance with the principal community coverage requirements of section 73.625(a).
 
@@ -131,7 +129,7 @@ D/U = 15 + 10log10[1.0/(1.0−10−x/10)]Where x = S/N-15.19 (minimum signal to 
 
 (f) Parties requesting new allotments on channel 6 be added to the DTV Table must submit an engineering study demonstrating that no interference would be caused to existing FM radio stations on FM channels 200-220.
 
-(g) *Negotiated agreements on interference.* Notwithstanding the minimum technical criteria for DTV allotments specified above, DTV stations operating on allotments that are included in the initial DTV Table may: operate with increased ERP and/or antenna HAAT that would result in additional interference to another DTV station or an analog TV station if that station agrees, in writing, to accept the additional interference; and/or implement an exchange of channel allotments between two or more licensees or permittees of TV stations in the same community, the same market, or in adjacent markets provided, however, that the other requirements of this section and of section 73.622 are met with respect to each such application. Such agreements must be submitted with the application for authority to construct or modify the affected DTV station or stations. The larger service area resulting from a negotiated change in ERP and/or antenna HAAT will be protected in accordance with the provisions of paragraph (c) of this section. Negotiated agreements under this paragraph can include the exchange of money or other considerations from one station to another, including payments to and from noncommercial television stations assigned reserved channels. Applications submitted pursuant to the provisions of this paragraph will be granted only if the Commission finds that such action is consistent with the public interest.
+(g) [Reserved]
 
 (h) *DTV application processing.* (1) DTV applications for a construction permit or a modified construction permit pending as of January 18, 2001:
 
@@ -231,4 +229,4 @@ D/U = 15 + 10log10[1.0/(1.0−10−x/10)]Where x = S/N-15.19 (minimum signal to 
 
 (3) DTV applicants, DTV applicants and NTSC applicants, or DTV applicants and DTV rulemaking petitioners that are mutually exclusive pursuant to this section will be notified by Public Notice and provided with a 90-day period of time to resolve their mutual exclusivity via engineering amendment or settlement. Those applications and petitions that remain mutually exclusive upon conclusion of the 90-day settlement period will be dismissed.
 
-[62 FR 26719, May 14, 1997, as amended at 63 FR 13560, Mar. 20, 1998; 64 FR 4327, Jan. 28, 1999; 65 FR 30002, May 10, 2000; 65 FR 58467, Sept. 29, 2000; 66 FR 9984, Feb. 13, 2001; 66 FR 65134, Dec. 18, 2001; 69 FR 31906, June 8, 2004; 73 FR 5683, Jan. 30, 2008; 85 FR 64408, Oct. 13, 2020]
+[62 FR 26719, May 14, 1997, as amended at 63 FR 13560, Mar. 20, 1998; 64 FR 4327, Jan. 28, 1999; 65 FR 30002, May 10, 2000; 65 FR 58467, Sept. 29, 2000; 66 FR 9984, Feb. 13, 2001; 66 FR 65134, Dec. 18, 2001; 69 FR 31906, June 8, 2004; 73 FR 5683, Jan. 30, 2008; 85 FR 64408, Oct. 13, 2020; 86 FR 66209, Nov. 22, 2021]

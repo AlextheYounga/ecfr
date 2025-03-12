@@ -1,5 +1,7 @@
 ##### § 1280.402 Assessments. #####
 
+Link to an amendment published at 86 FR 72516, Dec. 22, 2021.
+
 (a) *Sharing proceeds of sale.* If more than one producer, feeder, or seedstock producer shares the proceeds received for the lamb or lamb products sold, each such producer, feeder, or seedstock producer is obligated to pay that portion of the assessments that is equivalent to that producer's, feeder's, or seedstock producer's proportionate share of the proceeds.
 
 (b) *Market agencies.* A person who is a market agency; *i.e.*, commission merchant, auction market, or livestock market in the business of receiving lambs or lamb products for sale on commission for or on behalf of a producer, feeder, or seedstock producer, will be required to collect an assessment from the producer, feeder, or seedstock producer and pass the collected assessment on to the subsequent purchaser(s) until remitted by a first handler or exporter responsible for submitting assessments under this part.

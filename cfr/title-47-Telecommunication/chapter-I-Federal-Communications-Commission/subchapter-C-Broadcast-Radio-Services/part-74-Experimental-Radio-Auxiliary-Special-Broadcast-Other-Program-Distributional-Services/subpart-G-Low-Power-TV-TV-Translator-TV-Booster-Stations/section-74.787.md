@@ -1,7 +1,5 @@
 ##### § 74.787 Digital licensing. #####
 
-Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
-
 (a) *Applications for digital low power television and television translator stations* - (1) *Applications for digital conversion.* Applications for *digital conversion channels* may be filed at any time. Such applications shall be filed on FCC Form 346 and will be treated as a minor change application. There will be no application fee.
 
 (2) *Applications for companion digital channel.* (i) A public notice will specify a time period or “window” for filing applications for companion digital channels. During this window, only existing low power television or television translator stations or licensees and permittees of Class A TV stations may submit applications for companion digital channels. Applications submitted prior to the initial window identified in the public notice will be returned as premature. At a subsequent time, a public notice will announcement the commencement of a filing procedure in which applications will accepted on a first-come, first-served basis not restricted to existing station licensees and permittees;
@@ -46,6 +44,4 @@ Applicable Rule Sections§ 73.1030 Notifications concerning interference to radi
 
 (2) Other facilities changes will be considered minor including changes made to implement a channel sharing arrangement provided they comply with the other provisions of this section.
 
-(c) Not later than 11:59 pm local time on September 1, 2011, low power television or TV translator stations operating analog (NTSC) or digital facilities above Channel 51, that have not already done so, must file a digital displacement application for a channel below Channel 52 pursuant to the procedures in subsection (a)(4) of this rule. Low power television and TV translator stations operating analog (NTSC) or digital facilities above Channel 51 that have not submitted a digital displacement application by 11:59 pm local time on September 1, 2011 will be required to cease operations altogether by December 31, 2011. These stations' authorization for facilities above Channel 51 shall be cancelled. Any digital displacement application submitted by a low power television or TV translator station operating analog (NTSC) or digital facilities above Channel 51 that is submitted after 11:59 pm local time on September 1, 2011 will be dismissed. In addition, any outstanding construction permit (analog or digital) for an channel above Channel 51 will be rescinded on December 31, 2011, and any pending application (analog or digital) for a channel above Channel 51 will be dismissed on December 31, 2011, if the permittee has not submitted a digital displacement application by 11:59 pm local on September 1, 2011.
-
-[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018; 84 FR 2759, Feb. 8, 2019]
+[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018; 84 FR 2759, Feb. 8, 2019; 86 FR 66214, Nov. 22, 2021]
