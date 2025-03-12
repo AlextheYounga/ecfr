@@ -14,7 +14,7 @@
 
 (ii) Items listed in paragraphs (c)(1) through (c)(5) of supplement no. 2 to part 742 destined to other end-users in Sudan, as well as items to all end-users listed in (c)(6) through (c)(14) and (c)(16) through (c)(44) of supplement no. 2 to part 742 are controlled to Sudan under section 6(a) of the EAA.
 
-(b) *Licensing policy.* (1) Applications for export and reexport to all end-users in Sudan of the following items will generally be denied:
+(b) *Licensing policy.* (1) *General policy of denial.* Applications for export and reexport to all end-users in Sudan of the following items will generally be denied:
 
 (i) Items that are controlled for chemical and biological weapons proliferation reasons to any destination. These are items that contain CB Column 1, CB Column 2, or CB Column 3 in the Country Chart column of the “License Requirements” section of an ECCN on the CCL.
 
@@ -22,7 +22,7 @@
 
 (iii) Items that are controlled for missile proliferation reasons to any destination. These are items that contain a MT Column 1 in the Country Chart column of the “License Requirements” section of an ECCN on the CCL.
 
-(iv) All aircraft (powered and unpowered), helicopters, engines, and related spare parts and components. These are items controlled to any destination for national security reasons and items controlled to Sudan for anti-terrorism reasons. Such items contain an NS Column 1, NS Column 2, or AT Column 1 in the Country Chart column of the “License Requirements” section of an ECCN on the CCL. Note that, consistent with the general rule that applies to computing U.S. parts and components content incorporated in foreign made products, all aircraft-related items that require a license to Sudan will be included as controlled US content for purposes of such license requirements.
+(iv) Except as provided in paragraph (b)(3)(ii) of this section, all aircraft (powered and unpowered), helicopters, engines and related spare parts and components. These are items controlled to any destination for national security reasons and items controlled to Sudan for anti-terrorism reasons. Such items contain an NS Column 1, NS Column 2, or AT Column 1 in the Country Chart column of the “License Requirements” section of an ECCN on the CCL. Note that, consistent with the general rule that applies to computing U.S. parts and components content incorporated in foreign made products, all aircraft-related items that require a license to Sudan will be included as controlled US content for purposes of such license requirements.
 
 (v) Cryptographic, cryptoanalytic, and cryptologic items controlled to any destination. These are items that contain an NS Column 1, NS Column 2, AT Column 1 or AT Column 2 in the Country Chart column of the “License Requirements” section of an ECCN on the CCL.
 
@@ -44,21 +44,33 @@
 
 (xiv) “Technology” (ECCN 2E984) “required” for the “development”, “production” or “use” of concealed object detection equipment controlled by 2A984, or the “development” of “software” controlled by 2D984.
 
-(2) Applications for the export and reexport of all other items described in paragraph (a) of this section, and not described in paragraph (b)(1) of this section, will be denied if the export or reexport is destined to a military end-user or for military end-use. Applications for non-military end-users or for non-military end-uses will be considered on a case-by-case basis.
+(2) *Military end-user and end-use policy.* Applications for the export and reexport of all other items described in paragraph (a) of this section, and not described in paragraph (b)(1) of this section, will be denied if the export or reexport is destined to a military end-user or for military end-use. Applications for non-military end-users or for non-military end-uses will be considered on a case-by-case basis.
 
-(3) Notwithstanding the provisions of paragraphs (b)(1) and (b)(2) of this section, applications for Sudan will be considered on a case-by-case basis in the following four situations.
+(3) *Other licensing policies.* The licensing policies set forth in this paragraph apply notwithstanding the provisions of paragraphs (b)(1) and (b)(2) of this section.
 
-(i) The transaction involves the reexport to Sudan of items where Sudan was not the intended ultimate destination at the time of original export from the United States, provided that the exports from the U.S. occurred prior to the applicable contract sanctity date.
+(i) *Case-by-case review policy.* Applications to export or reexport to Sudan will be considered on a case-by-case basis in the four situations described in paragraphs (b)(3)(i)(A) through (D) of this section.
 
-(ii) The U.S. content of foreign-produced commodities is 20% or less by value.
+(A) The transaction involves the reexport to Sudan of items where Sudan was not the intended ultimate destination at the time of original export from the United States, provided that the export from the United States occurred prior to the applicable contract sanctity date.
 
-(iii) The commodities are medical items.
+(B) The U.S. content of foreign-produced commodities is 20% or less by value.
 
-(iv) The items are telecommunications equipment and associated computers, software and technology for civil end use, including items useful for the development of civil telecommunications network infrastructure.
+(C) The commodities are medical items.
 
-Note to paragraph (b)(3) of this section:
+(D) The items are telecommunications equipment and associated computers, software and technology for civil end use, including items useful for the development of civil telecommunications network infrastructure.
 
-Applicants who wish any of the factors described in paragraph (b)(3) of this section to be considered in reviewing their license applications must submit adequate documentation demonstrating the appropriateness of the factor: *i.e.,* the date of export from the United States, the value of the U.S. content, the specifications and medical use of the equipment, or the specific civil end use of the item and any function the item will have in the development of civil telecommunications network infrastructure, as relevant to the factor for which consideration is sought.
+Note to paragraph (b)(3)(i).
+
+Applicants seeking approval of their license applications pursuant to this paragraph must include with their applications documentation demonstrating how their proposed transaction is consistent with one or more of the four situations described in this paragraph.
+
+(ii) *General policy of approval.* Applications to export or reexport to Sudan the following for civil uses by non-sensitive end-users within Sudan will be reviewed with a general policy of approval.
+
+(A) Parts, components, materials, equipment, and technology that are controlled on the Commerce Control List (supp. no. 1 to part 774 of the EAR) only for anti-terrorism reasons that are intended to ensure the safety of civil aviation or the safe operation of fixed-wing commercial passenger aircraft.
+
+(B) Items controlled on the Commerce Control List (supp. no. 1 to part 774 of the EAR) only for anti-terrorism reasons that will be used to inspect, design, construct, operate, improve, maintain, repair, overhaul or refurbish railroads in Sudan.
+
+Note to paragraph (b)(3)(ii).
+
+Applications will generally be denied for exports or reexports that would substantially benefit a sensitive end user. Sensitive end users include Sudan's military, police, and intelligence services and persons that are owned by or are part of or operated or controlled by those services.
 
 (4) License applications for items reviewed under 6(a) controls will also be reviewed to determine the applicability of 6(j) controls to the transaction. When it is determined that an export or reexport could make a significant contribution to the military potential of Sudan, including its military logistics capability, or could enhance Sudan's ability to support acts of international terrorism, the appropriate committees of the Congress will be notified 30 days before issuance of a license to export or reexport such items.
 
@@ -66,4 +78,4 @@ Applicants who wish any of the factors described in paragraph (b)(3) of this sec
 
 (d) *U.S. controls.* Although the United States seeks cooperation from like-minded countries in maintaining anti-terrorism controls, at this time these controls are maintained only by the United States.
 
-[61 FR 12786, Mar. 25, 1996, as amended at 63 FR 42228, Aug. 7, 1998; 64 FR 27142, May 18, 1999; 64 FR 47667, Sept. 1, 1999; 65 FR 14859, Mar. 20, 2000; 65 FR 34075, May 26, 2000; 66 FR 36682, July 12, 2001; 68 FR 16212, Apr. 3, 2003; 75 FR 14340, Mar. 25, 2010; 78 FR 13469, Feb. 28, 2013; 80 FR 8523, Feb. 18, 2015; 81 FR 64673, Sept. 20, 2016]
+[61 FR 12786, Mar. 25, 1996, as amended at 63 FR 42228, Aug. 7, 1998; 64 FR 27142, May 18, 1999; 64 FR 47667, Sept. 1, 1999; 65 FR 14859, Mar. 20, 2000; 65 FR 34075, May 26, 2000; 66 FR 36682, July 12, 2001; 68 FR 16212, Apr. 3, 2003; 75 FR 14340, Mar. 25, 2010; 78 FR 13469, Feb. 28, 2013; 80 FR 8523, Feb. 18, 2015; 81 FR 64673, Sept. 20, 2016; 82 FR 4783, Jan. 17, 2017]

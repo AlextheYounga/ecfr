@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 80 FR 78131, December 16, 2015.Link to an amendment published at 82 FR 2891, January 10, 2017.
+Link to an amendment published at 80 FR 78131, December 16, 2015.
 
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
@@ -2602,7 +2602,7 @@ Category XV - Spacecraft and Related Articles
 
 \* (1) Are specially designed to mitigate effects (e.g., scintillation) of or for detection of a nuclear detonation;
 
-\* (2) Autonomously track ground, airborne, missile, or space objects in real-time using imaging, infrared, radar, or laser systems;
+\* (2) Autonomously detect and track moving ground, airborne, missile, or space objects other than celestial bodies, in real-time using imaging, infrared, radar, or laser systems;
 
 \* (3) Conduct signals intelligence (SIGINT) or measurement and signatures intelligence (MASINT);
 
@@ -2614,7 +2614,7 @@ Category XV - Spacecraft and Related Articles
 
 \* (7) Have any of the following electro-optical remote sensing capabilities or characteristics:
 
-(i) Electro-optical visible and near infrared (VNIR) (*i.e.,* 400nm to 1,000nm) or infrared (*i.e.,* greater than 1,000nm to 30,000nm) with less than 40 spectral bands and having a clear aperture greater than 0.35 meters;
+(i) Electro-optical visible and near infrared (VNIR) (*i.e.,* 400nm to 1,000nm) or infrared (*i.e.,* greater than 1,000nm to 30,000nm) with less than 40 spectral bands and having a clear aperture greater than 0.50m;
 
 (ii) Electro-optical hyperspectral with 40 spectral bands or more in the VNIR, short-wavelength infrared (SWIR) (*i.e.,* greater than 1,000nm to 2,500nm) or any combination of the aforementioned and having a Ground Sample Distance (GSD) less than 30 meters;
 
@@ -2642,11 +2642,15 @@ Note to paragraph (a)(9):
 
 This paragraph does not control a satellite or spacecraft that provides only a differential correction broadcast for the purposes of positioning, navigation, or timing.
 
-(10) Provide space-based logistics, surveillance, assembly, repair, or servicing of any spacecraft (e.g., refueling) and have integrated propulsion other than that required for attitude control;
+(10) Autonomously perform collision avoidance;
 
-(11) Provide for sub-orbital or in-space human habitation and have integrated propulsion other than that required for attitude control;
+(11) Are sub-orbital, incorporate propulsion systems described in paragraph (e) of this category or Category IV(d)(1)-(6) of this section, and are specially designed for atmospheric entry or re-entry;
 
-(12) That are not commercial communications satellites and that have integrated propulsion other than for attitude control or achieving initial orbit;
+(12) Are specially designed to provide inspection or surveillance of another spacecraft, or service another spacecraft via grappling or docking; or
+
+Note to paragraph (a)(12):
+
+This paragraph does not control spacecraft that dock exclusively via the NASA Docking System (NDS), which are controlled by ECCN 9A515.a.4.
 
 \* (13) Are classified, contain classified software or hardware, are manufactured using classified production data, or are being developed using classified information (e.g., having classified requirements, specifications, functions, or operational characteristics or include classified cryptographic items controlled under USML Category XIII of this subchapter). “Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or international organization.
 
@@ -2660,7 +2664,7 @@ This paragraph does not control (a) the International Space Station (ISS) and it
 
 Note 3 to paragraph (a):
 
-Attitude control is the exercise of control over spacecraft orientation (e.g., pointing) within an orbital plane, which may include orbit maintenance using the attitude control thrusters.
+This paragraph does not control the James Webb Space Telescope, which is subject to the EAR.
 
 (b) Ground control systems or training simulators, specially designed for telemetry, tracking, and control (TT&C) of spacecraft in paragraph (a) of this category.
 
@@ -2682,13 +2686,17 @@ Parts, components, accessories, attachments, equipment, or systems that are comm
 
 (iv) Are for interferometric radar;
 
-(2) Space-qualified optics (*i.e.,* lens or mirror), including optical coating, having active properties (e.g., adaptive, deformable) with a largest lateral clear aperture dimension greater than 0.35 meters;
+(2) Space-qualified optics (*i.e.,* lens, mirror or membrane) having one of the following:
+
+(i) Active properties (*e.g.,* adaptive, deformable) with a largest lateral clear aperture dimension greater than 0.35m; or
+
+(ii) A largest lateral clear aperture dimension greater than 0.50m;
 
 (3) Space-qualified focal plane arrays (FPA) having a peak response in the wavelength range exceeding 900nm and readout integrated circuit (ROIC), whether separate or integrated, specially designed therefor;
 
-(4) Space-qualified mechanical (*i.e.,* active) cryocooler or active cold finger, and associated control electronics specially designed therefor;
+(4) Space-qualified mechanical (*i.e.,* active) cryocooler or active cold finger systems, and associated control electronics specially designed therefor;
 
-(5) Space-qualified active vibration suppression, including active isolation and active dampening, and associated control electronics therefor;
+(5) Space-qualified active vibration suppression systems, including active isolation and active dampening systems, and associated control electronics specially designed therefor;
 
 (6) Optical bench assemblies specially designed to enable spacecraft to meet or exceed the parameters described in paragraph (a) of this category;
 
@@ -2716,9 +2724,9 @@ Parts, components, accessories, attachments, equipment, or systems that are comm
 
 (iii) Nuclear thermal propulsion systems (e.g., solid core, liquid core, gas core fission); or
 
-(iv) Plasma based propulsion systems;
+(iv) Electric (Plasma/Ion) propulsion systems that provide a thrust greater than 300 milli-Newtons and a specific impulse greater than 1,500 sec; or that operate at an input power of more than 15kW;
 
-(12) Thrusters (e.g., rocket engines) that provide greater than 150 lbf (*i.e.,* 667.23 N) vacuum thrust (MT for rocket motors or engines having a total impulse capacity equal to or greater than 8.41x10⁁5 newton seconds);
+(12) Thrusters (*e.g.,* spacecraft or rocket engines) using bi-propellants or mono-propellant that provide greater than 150 lbf (*i.e.,* 667.23 N) vacuum thrust (MT for rocket motors or engines having a total impulse capacity equal to or greater than 8.41 × 10⁁5 newton seconds);
 
 (13) Control moment gyroscope (CMG) specially designed for spacecraft;
 
@@ -2738,9 +2746,9 @@ Note 1 to paragraph (e)(17):
 
 *Primary payload* is that complement of equipment designed from the outset to accomplish the prime mission function of the spacecraft payload mission set. The primary payload may operate independently from the secondary payload(s). *Secondary payload* is that complement of equipment designed from the outset to be fully integrated into the spacecraft payload mission set. The secondary payload may operate separately from the primary payload. *Hosted payload* is a complement of equipment or sensors that uses the available or excess capacity (mass, volume, power, etc.) of a spacecraft to accommodate an additional, independent mission. The hosted payload may share the spacecraft bus support infrastructure. The hosted payload performs an additional, independent mission which does not dictate control or operation of the spacecraft. A hosted payload is not capable of operating as an independent spacecraft. *Spacecraft bus* (distinct from the spacecraft payload), provides the support infrastructure of the spacecraft (e.g., command and data handling, communications and antenna(s), electrical power, propulsion, thermal control, attitude and orbit control, guidance, navigation and control, structure and truss, life support (for crewed mission)) and location (e.g., attachment, interface) for the spacecraft payload. *Spacecraft payload* is that complement of equipment attached to the spacecraft bus that performs a particular mission in space (e.g., communications, observation, science).
 
-Note 2 to paragraph (e)(17):
+Note 2 to paragraph e)(17):
 
-An ECCN 9A004 or ECCN 9A515.a spacecraft remains a spacecraft subject to the EAR even when incorporating a hosted payload performing a function described in paragraph (a) of this category. All spacecraft that incorporate primary or secondary payloads that perform a function described in paragraph (a) of this category are controlled by that paragraph.
+An ECCN 9A004 or ECCN 9A515.a spacecraft remains a spacecraft subject to the EAR even when incorporating a hosted payload performing a function described in paragraph (a) of this category. All spacecraft that incorporate primary or secondary payloads that perform a function described in paragraph (a) of this category are controlled by that paragraph. This paragraph does not control primary or secondary payloads of the James Webb Space Telescope, which are subject to the EAR.
 
 \* (18) Secondary or hosted payload, and specially designed parts and components therefor, developed with Department of Defense-funding;
 
@@ -2758,7 +2766,7 @@ Note to paragraph (e)(19):
 
 “Payload” is the total mass that can be carried or delivered by the specified rocket, SLV, missile, drone, or UAV that is not used to maintain flight. For definition of “range” as it pertains to aircraft systems, *see* note to paragraph (a) of USML Category VIII. For definition of “range” as it pertains to rocket systems, *see* note 1 to paragraph (a) of USML Category IV.
 
-(20) Equipment modules, stages, or compartments that contain propulsion other than that required for attitude control and can be separated or jettisoned from another spacecraft (*see* note 3 to paragraph (a) of this category); or
+(20) Equipment modules, stages, or compartments that incorporate propulsion systems described in paragraph (e) of this category or Category IV(d)(1)-(6) of this section, and can be separated or jettisoned from another spacecraft; or
 
 \* (21) Any part, component, accessory, attachment, equipment, or system that:
 
@@ -2800,7 +2808,7 @@ Activities and technology/technical data directly related to or required for the
 
 Note 3 to paragraph (f):
 
-Neither paragraph (f) nor ECCN 9E515 controls the data transmitted to or from a satellite or spacecraft, whether real or simulated, when limited to information about the health, operational status, or function of, or measurements or raw sensor output from, the spacecraft, spacecraft payload(s), or their associated subsystems or components. Such data or technology is subject to the EAR and is designated EAR99. Examples of such data and technology, which are commonly referred to as “housekeeping data,” include (a) system, hardware, component configuration, and operation status information pertaining to temperatures, pressures, power, currents, voltages, and battery charges; (b) spacecraft or payload orientation or position information, such as state vector or ephemeris information; (c) payload raw mission or science output, such as images, spectra, particle measurements, or field measurements; (d) command responses; (e) accurate timing information; and (f) link budget data. The act of processing such telemetry data - *i.e.,* converting raw data into engineering units or readable products - or encrypting it does not, in and of itself, cause the telemetry data to become subject to the ITAR or to ECCN 9E515. All classified technical data directly related to items controlled in USML Category XV or ECCNs 9A515, and defense services using the classified technical data, remain subject to the ITAR. This note does not affect controls in paragraph (f), ECCN 9D515, or ECCN 9E515 on software source code or commands that control a spacecraft, payload, or associated subsystem.
+Paragraph (f) and ECCNs 9E001, 9E002 and 9E515 do not control the data transmitted to or from a satellite or spacecraft, whether real or simulated, when limited to information about the health, operational status, or measurements or function of, or raw sensor output from, the spacecraft, spacecraft payload(s), or its associated subsystems or components. Such information is not within the scope of information captured within the definition of technology in the EAR for purposes of Category 9 Product Group E. Examples of such information, which are commonly referred to as “housekeeping data,” include (i) system, hardware, component configuration, and operation status information pertaining to temperatures, pressures, power, currents, voltages, and battery charges; (ii) spacecraft or payload orientation or position information, such as state vector or ephemeris information; (iii) payload raw mission or science output, such as images, spectra, particle measurements, or field measurements; (iv) command responses; (v) accurate timing information; and (vi) link budget data. The act of processing such telemetry data - *i.e.,* converting raw data into engineering units or readable products - or encrypting it does not, in and of itself, cause the telemetry data to become subject to the ITAR or to ECCN 9E515 for purposes of 9A515, or to ECCNs 9E001 or 9E002 for purposes of 9A004. All classified technical data directly related to items controlled in USML Category XV or ECCNs 9A515, and defense services using the classified technical data, remains subject to the ITAR. This note does not affect controls in USML XV(f), ECCN 9D515, or ECCN 9E515 on software source code or commands that control a spacecraft, payload, or associated subsystems for purposes of 9A515. This note also does not affect controls in ECCNs 9D001, 9D002, 9E001, or 9E002 on software source code or commands that control a spacecraft, payload, or associated subsystems for purposes of 9A004.
 
 (g)-(w) [Reserved]
 

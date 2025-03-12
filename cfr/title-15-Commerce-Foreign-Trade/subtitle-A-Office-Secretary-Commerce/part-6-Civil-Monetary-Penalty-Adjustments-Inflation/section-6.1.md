@@ -1,6 +1,6 @@
 ##### § 6.1 Definitions. #####
 
-(a) *Commerce Department* means the United States Department of Commerce.
+(a) The *Department of Commerce* means the United States Department of Commerce.
 
 (b) *Civil Monetary Penalty* means any penalty, fine, or other sanction that:
 

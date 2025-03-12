@@ -1,7 +1,5 @@
 ##### § 750.4 Procedures for processing license applications. #####
 
-Link to an amendment published at 82 FR 2881, Jan. 10, 2017.
-
 (a) *Overview.* (1) All license applications will be resolved or referred to the President no later than 90 calendar days from the date of BIS's registration of the license application. Processing times for the purposes of this section are defined in calendar days. The procedures and time limits described in this part apply to all license applications registered on or after February 4, 1996. The procedures and time limits in effect prior to December 6, 1995 will apply to license applications registered prior to February 4, 1996.
 
 (2) Properly completed license applications will be registered promptly upon receipt by BIS. Registration is defined as the point at which the application is entered into BIS's electronic license processing system. If your application contains deficiencies that prevent BIS from registering your application, BIS will attempt to contact you to correct the deficiencies, however, if BIS is unable to contact you, the license application will be returned without being registered. The specific deficiencies requiring return will be enumerated in a notice accompanying the returned license application. If a license application is registered, but BIS is unable to correct deficiencies crucial to processing the license application, it will be returned without action. The notice will identify the deficiencies and the action necessary to correct the deficiencies. If you decide to resubmit the license application, it will be treated as a new license application when calculating license processing time frames.
@@ -50,6 +48,8 @@ Link to an amendment published at 82 FR 2881, Jan. 10, 2017.
 
 (7) *Congressional notification.* Congressional notification, including any consultations prior to notification, prior to the issuance of an authorization to export when notification is required by § 743.5 of the EAR.
 
+(8) *Satellites for launch.* Applicant must obtain approval by the Department of Defense of a technology transfer control plan and the National Security Agency of an encryption technology transfer control plan and must make arrangements with the Department of Defense for monitoring of all launch activities.
+
 (c) *Initial processing.* Within 9 days of license application registration, BIS will, as appropriate:
 
 (1) Contact the applicant if additional information is required, if the license application is improperly completed, or required support documents are missing, to request additional or corrected information;
@@ -72,6 +72,8 @@ Link to an amendment published at 82 FR 2881, Jan. 10, 2017.
 
 (iii) *The Shield.* The Shield, chaired by the Department of State, reviews license applications involving items controlled for chemical and biological weapons reasons. The Shield also reviews license applications involving items not controlled for chemical and biological weapons (CBW) reasons, but destined for a country and/or end-use/end-user of CBW concern.
 
+(iv) *Remote Sensing Interagency Working Group (RSIWG).* The RSIWG, chaired by the State Department, reviews license applications involving remote sensing spacecraft described in ECCN 9A515.a.1, .a.2, .a.3, or .a.4, sensitive remote sensing components described in 9A515.g, or “technology” described in ECCN 9E515.f.
+
 (e) *Recommendations by reviewing agencies.* Reviewing agencies recommending denial of a license application must provide a statement of reasons, consistent with the provisions of the EAA or EAR, and cite both the statutory and the regulatory basis for the recommendation to deny. A reviewing agency that fails to provide a recommendation within 30 days with a statement of reasons supported by the statutory and regulatory basis shall be deemed to have no objection to the final decision of BIS.
 
 (f) *Interagency dispute resolution and escalation procedures* - (1) *Escalation to the Operating Committee (OC).* (i) In any instance where the reviewing agencies are not in agreement on final disposition of a license application, it will be escalated to the OC for resolution. The Chair of the OC will consider the recommendations of the reviewing agencies and any information provided by the applicant in person during an open OC session. Each agency will be informed of the Chair's decision on the license application within 14 days after the deadline for receiving agency recommendations.
@@ -82,4 +84,4 @@ Link to an amendment published at 82 FR 2881, Jan. 10, 2017.
 
 (3) *Escalation to the Export Administration Review Board (EARB).* The EARB will review all relevant information and recommendations, and such other export control matters as may be appropriate. The Secretary of Commerce will inform the reviewing agencies of the majority vote decision of the EARB within 11 days from the date of receipt of the appeal. Within 5 days of the decision, any agency dissenting from the decision of the EARB may appeal the decision to the President. The appeal must be in writing from the head of the dissenting agency. In the absence of a timely appeal, the decision of the EARB will be final.
 
-[61 FR 12829, Mar. 25, 1996, as amended at 62 FR 25463, May 9, 1997; 69 FR 46079, July 30, 2004; 71 FR 20887, Apr. 24, 2006; 71 FR 51719, Aug. 31, 2006; 72 FR 43532, Aug. 6, 2007; 78 FR 22725, Apr. 16, 2013; 80 FR 43319, July 22, 2015]
+[61 FR 12829, Mar. 25, 1996, as amended at 62 FR 25463, May 9, 1997; 69 FR 46079, July 30, 2004; 71 FR 20887, Apr. 24, 2006; 71 FR 51719, Aug. 31, 2006; 72 FR 43532, Aug. 6, 2007; 78 FR 22725, Apr. 16, 2013; 80 FR 43319, July 22, 2015; 82 FR 2881, Jan. 10, 2017]
