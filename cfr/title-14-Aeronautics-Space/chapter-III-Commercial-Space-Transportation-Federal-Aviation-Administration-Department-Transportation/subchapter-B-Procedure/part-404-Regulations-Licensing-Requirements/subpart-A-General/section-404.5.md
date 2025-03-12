@@ -1,5 +1,7 @@
 ##### § 404.5 Action on petitions. #####
 
+Link to an amendment published at 83 FR 28534, June 20, 2018.
+
 (a) *General.* No public hearing, argument or other proceeding is held on a petition before its disposition under this section.
 
 (b) *Grants.* In the case of a petition for a waiver, the Associate Administrator may grant the waiver if the Associate Administrator determines that the waiver is in the public interest and will not jeopardize public health and safety, the safety or property, or any national security or foreign policy interest of the United States. In all other cases, if the Associate Administrator determines that the petition contains adequate justification, the Associate Administrator initiates a rulemaking action under Subpart B of this part.

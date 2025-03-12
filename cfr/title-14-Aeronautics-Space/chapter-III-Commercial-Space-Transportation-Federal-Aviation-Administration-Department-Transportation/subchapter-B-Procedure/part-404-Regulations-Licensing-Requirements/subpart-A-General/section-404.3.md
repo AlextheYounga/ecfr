@@ -1,5 +1,7 @@
 ##### § 404.3 Filing of petitions to the Associate Administrator. #####
 
+Link to an amendment published at 83 FR 28534, June 20, 2018.
+
 (a) Any person may petition the Associate Administrator to:
 
 (1) Issue, amend, or repeal a regulation to eliminate as a requirement for a license or permit any requirement of Federal law applicable to commercial space launch and reentry activities and the operation of launch and reentry sites;

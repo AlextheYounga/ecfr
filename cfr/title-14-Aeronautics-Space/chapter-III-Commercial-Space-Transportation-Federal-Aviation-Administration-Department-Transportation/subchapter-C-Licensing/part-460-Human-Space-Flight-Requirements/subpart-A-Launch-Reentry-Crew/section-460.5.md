@@ -1,5 +1,7 @@
 ##### § 460.5 Crew qualifications and training. #####
 
+Link to an amendment published at 83 FR 28535, June 20, 2018.
+
 (a) Each crew member must -
 
 (1) Complete training on how to carry out his or her role on board or on the ground so that the vehicle will not harm the public; and

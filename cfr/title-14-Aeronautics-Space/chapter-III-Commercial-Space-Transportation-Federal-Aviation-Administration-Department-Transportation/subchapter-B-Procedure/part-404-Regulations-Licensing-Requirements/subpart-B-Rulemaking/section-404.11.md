@@ -1,5 +1,7 @@
 ##### § 404.11 General. #####
 
+Link to an amendment published at 83 FR 28534, June 20, 2018.
+
 (a) Unless the Associate Administrator finds, for good cause, that notice is impractical, unnecessary, or contrary to the public interest, a notice of proposed rulemaking is issued and interested persons are invited to participate in proceedings related to each substantive rule proposed.
 
 (b) Unless the Associate Administrator determines that notice and comment is necessary or desirable, interpretive rules, general statements of policy, and rules relating to organization, procedure, or practice are issued as final rules without notice or other proceedings.

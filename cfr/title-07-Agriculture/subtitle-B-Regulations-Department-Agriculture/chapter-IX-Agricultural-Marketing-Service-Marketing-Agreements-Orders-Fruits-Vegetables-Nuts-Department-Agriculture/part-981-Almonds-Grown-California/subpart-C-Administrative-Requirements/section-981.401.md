@@ -1,5 +1,7 @@
 ##### § 981.401 Adjusted kernel weight. #####
 
+Link to an amendment published at 83 FR 28525, June 20, 2018.
+
 (a) *Definition. Adjusted kernel weight* shall mean the actual gross weight of any lot of almonds: Less weight of containers; less moisture of kernels in excess of five percent; less shells, if applicable; less processing loss of one percent for deliveries with less than 95 percent kernels; less trash or other foreign material. The adjusted kernel weight shall be determined by sampling certified by the inspection agency.
 
 (b) *Computation.* The computation of adjusted kernel weight shall be in the manner shown in the following examples. The examples are based on the analysis of a 1,000 gram sample taken from a lot of almonds weighing 10,000 pounds with less than 95 percent kernels, and a 1,000 gram sample taken from a lot of almonds weighing 10,000 pounds with 95 percent or more kernels. The first computation example is for the lot with less than 95 percent kernels containing the following: Edible kernels, 530 grams; inedible kernels, 120 grams; foreign material, 350 grams, and moisture content of kernels, seven percent. Excess moisture is two percent. The second computation example is for the lot with 95 percent or more kernels containing the following: Edible kernels, 840 grams; inedible kernels, 120 grams; foreign material, 40 grams; and moisture content of kernels, seven percent. Excess moisture is two percent. The example computations are as follows:

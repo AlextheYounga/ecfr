@@ -1,5 +1,7 @@
 ##### § 165.943 Annual events requiring safety zones in the Captain of the Port Duluth zone. #####
 
+Link to an amendment published at 83 FR 28381, June 19, 2018.
+
 (a) *Safety zones.* The following areas are designated safety zones:
 
 (1) *Bridgefest Regatta Fireworks; Houghton, MI* - (i) *Location.* All waters of the Keweenaw Waterway bounded by the arc of a circle with a 300-foot radius from the fireworks launch site with its center in position 47°07′28.35″ N, 088°35′01.78″ W.

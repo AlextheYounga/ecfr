@@ -1,5 +1,7 @@
 ##### § 420.23 Launch site location review - flight corridor. #####
 
+Link to an amendment published at 83 FR 28535, June 20, 2018.
+
 (a) *Guided orbital expendable launch vehicle.* For a guided orbital expendable launch vehicle, an applicant shall define a flight corridor that:
 
 (1) Encompasses an area that the applicant estimates, in accordance with the requirements of this part, to contain debris with a ballistic coefficient of ≥3 pounds per square foot, from any non-nominal flight of a guided orbital expendable launch vehicle from the launch point to a point 5000 nm downrange, or where the IIP leaves the surface of the Earth, whichever is shorter;

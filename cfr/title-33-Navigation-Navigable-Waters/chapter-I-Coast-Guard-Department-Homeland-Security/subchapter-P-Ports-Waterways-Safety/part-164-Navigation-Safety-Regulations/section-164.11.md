@@ -28,7 +28,7 @@ Buoys are aids to navigation placed in approximate positions to alert the marine
 
 (i) Magnetic variation and deviation and gyrocompass errors are known and correctly applied by the person directing the movement of the vessel;
 
-(j) A person whom he has determined is competent to steer the vessel is in the wheelhouse at all times;1/\>
+(j) A person whom he has determined is competent to steer the vessel is in the wheelhouse at all times;1
 
 1 See also 46 U.S.C. 8702(d), which requires an able seaman at the wheel on U.S. vessels of 100 gross tons or more in narrow or crowded waters during low visibility.
 
