@@ -1,6 +1,6 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Division. #####
 
-Link to an amendment published at 82 FR 27427, June 15, 2017.Link to an amendment published at 82 FR 29413, June 29, 2017.
+Link to an amendment published at 82 FR 29413, June 29, 2017.
 
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Division.
 
@@ -33,8 +33,8 @@ Link to an amendment published at 82 FR 27427, June 15, 2017.Link to an amendmen
 |                                        (7) Registration of a claim in a restored copyright (Form GATT)                                         |      85      |
 |                                                (8) Preregistration of certain unpublished works                                                |     140      |
 |                                         (9) Registration of a correction or amplification to a claim:                                          |              |
-|                                                                   (Form CA)                                                                    |     130      |
-|                                                                   (Form DC)                                                                    |     100      |
+|                                       (i) Supplementary registration: Electronic filing or paper filing                                        |     130      |
+|                                               (ii) Correction of a design registration: Form DC                                                |     100      |
 |                                             (10) Registration of a claim in a mask work (Form MW)                                              |     120      |
 |                                          (11) Registration of a claim in a vessel design (Form D/VH)                                           |     400      |
 |                                          (12) Provision of an additional certificate of registration                                           |      40      |

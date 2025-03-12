@@ -1,6 +1,6 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 82 FR 27427, June 15, 2017.Link to an amendment published at 82 FR 29413, June 29, 2017.
+Link to an amendment published at 82 FR 29413, June 29, 2017.
 
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
@@ -236,9 +236,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 4 An *author* includes an employer or other person for whom a work is “made for hire” under 17 U.S.C. 101. This paragraph does not permit an employee or other person working “for hire” under that section to make a later registration in his or her own name. In the case of authors of a joint work, this paragraph does permit a later registration by one author in his or her own name as copyright claimant, where an earlier registration identifies only another author as claimant.
 
-(iii) Where an applicant for registration alleges that an earlier registration for the same version is unauthorized and legally invalid, a registration may be made by that applicant; and
-
-(iv) Supplementary registrations may be made, under the conditions of § 201.5 of these regulations, to correct or amplify the information in a registration made under this section.
+(iii) Where an applicant for registration alleges that an earlier registration for the same version is unauthorized and legally invalid, a registration may be made by that applicant.
 
 (c) *Application for registration.* (1) An application for copyright registration may be submitted by any author or other copyright claimant of a work, or the owner of any exclusive right in a work, or the duly authorized agent of any such author, other claimant, or owner.
 

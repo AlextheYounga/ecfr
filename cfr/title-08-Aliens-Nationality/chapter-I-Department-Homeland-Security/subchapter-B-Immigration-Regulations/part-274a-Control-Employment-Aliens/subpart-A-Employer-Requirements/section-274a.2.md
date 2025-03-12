@@ -94,7 +94,7 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.Portions of this ame
 
 (*1*) A Social Security account number card other than one that specifies on the face that the issuance of the card does not authorize employment in the United States;
 
-(*2*) Certification of Birth issued by the Department of State, Form FS-545;
+(*2*) Certification or report of birth issued by the Department of State, including Forms FS-545, DS-1350, FS-240;
 
 (*3*) Certification of Report of Birth issued by the Department of State, Form DS-1350;
 
@@ -298,4 +298,4 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.Portions of this ame
 
 (i) *Electronic signatures for employer, recruiter or referrer, or representative.* If a Form I-9 is completed electronically, the employer, the recruiter or referrer for a fee, or the representative of the employer or the recruiter or referrer, must attest to the required information in Form I-9. The system used to capture the electronic signature should include a method to acknowledge that the attestation to be signed has been read by the signatory. Any person or entity who has failed to comply with the criteria established by this regulation for electronic signatures, if used, and at the time of inspection does not present a properly completed Form I-9 for the employee, is in violation of section 274A(a)(1)(B) of the Act and 8 CFR 274a.2(b)(2).
 
-[52 FR 16221, May 1, 1987, as amended at 53 FR 8612, Mar. 16, 1988; 55 FR 25932, June 25, 1990; 56 FR 41784, Aug. 23, 1991; 58 FR 48780, Sept. 20, 1993; 61 FR 46537, Sept. 4, 1996; 61 FR 52236, Oct. 7, 1996; 62 FR 51005, Sept. 30, 1997; 64 FR 6189, Feb. 9, 1999; 64 FR 11533, Mar. 9, 1999; 71 FR 34514, June 15, 2006; 73 FR 76511, Dec. 17, 2008; 74 FR 2838, Jan. 16, 2009; 74 FR 7995, Feb. 23, 2009; 74 FR 10455, Mar. 11, 2009; 74 FR 55739, Oct. 28, 2009; 74 FR 62207, Nov. 27, 2009; 75 FR 42578, July 22, 2010; 78 FR 18472, Mar. 27, 2013; 81 FR 82491, Nov. 18, 2016]
+[52 FR 16221, May 1, 1987, as amended at 53 FR 8612, Mar. 16, 1988; 55 FR 25932, June 25, 1990; 56 FR 41784, Aug. 23, 1991; 58 FR 48780, Sept. 20, 1993; 61 FR 46537, Sept. 4, 1996; 61 FR 52236, Oct. 7, 1996; 62 FR 51005, Sept. 30, 1997; 64 FR 6189, Feb. 9, 1999; 64 FR 11533, Mar. 9, 1999; 71 FR 34514, June 15, 2006; 73 FR 76511, Dec. 17, 2008; 74 FR 2838, Jan. 16, 2009; 74 FR 7995, Feb. 23, 2009; 74 FR 10455, Mar. 11, 2009; 74 FR 55739, Oct. 28, 2009; 74 FR 62207, Nov. 27, 2009; 75 FR 42578, July 22, 2010; 78 FR 18472, Mar. 27, 2013; 81 FR 82491, Nov. 18, 2016; 82 FR 5289, Jan. 17, 2017]
