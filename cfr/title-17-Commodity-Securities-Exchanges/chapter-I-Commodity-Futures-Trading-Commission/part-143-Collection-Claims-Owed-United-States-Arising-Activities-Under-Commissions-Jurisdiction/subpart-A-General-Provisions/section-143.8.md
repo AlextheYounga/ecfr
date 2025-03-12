@@ -34,4 +34,4 @@ Table 2 to Paragraph (b)(2)
 
 <sup>1</sup>The term “Registered Entity” is defined in 7 U.S.C. 1a (Section 1a of the Commodity Exchange Act).
 
-[83 FR 9428, Mar. 6, 2018, as amended at 84 FR 3104, Feb. 11, 2019; 85 FR 1749, Jan. 13, 2020; 86 FR 7804, Feb. 2, 2021]
+[83 FR 9428, Mar. 6, 2018, as amended at 86 FR 7804, Feb. 2, 2021]

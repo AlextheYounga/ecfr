@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 86 FR 16476, Mar. 29, 2021.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -214,35 +212,29 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (2) For an individual unit, determine the tested uniform energy factor in accordance with section 6.3.6 or 6.4.3 of appendix E of this subpart, and round the value to the nearest 0.01.
 
-(f) *Room air conditioners.* (1) The estimated annual operating cost for room air conditioners, expressed in dollars per year, shall be determined by multiplying the following three factors:
+(f) *Room air conditioners.* (1) Determine cooling capacity, expressed in British thermal units per hour (Btu/h), as follows:
 
-(i) The combined annual energy consumption for room air conditioners, expressed in kilowatt-hours per year, as determined in accordance with paragraph (f)(4) of this section, and
+(i) For a single-speed room air conditioner, determine the cooling capacity in accordance with section 4.1.2 of appendix F of this subpart.
 
-(ii) A representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary, the resulting product then being rounded off to the nearest dollar per year.
+(ii) For a variable-speed room air conditioner, determine the cooling capacity in accordance with section 4.1.2 of appendix F of this subpart for test condition 1 in Table 1 of appendix F of this subpart.
 
-(2) The energy efficiency ratio for room air conditioners, expressed in Btus per watt-hour, shall be the quotient of:
+(2) Determine electrical power input, expressed in watts (W) as follows:
 
-(i) The cooling capacity in Btus per hour as determined in accordance with 5.1 of appendix F to this subpart divided by:
+(i) For a single-speed room air conditioner, determine the electrical power input in accordance with section 4.1.2 of appendix F of this subpart.
 
-(ii) The electrical input power in watts as determined in accordance with 5.2 of appendix F to this subpart, the resulting quotient then being rounded off to the nearest 0.1 Btu per watt-hour.
+(ii) For a variable-speed room air conditioner, determine the electrical power input in accordance with section 4.1.2 of appendix F of this subpart, for test condition 1 in Table 1 of appendix F of this subpart.
 
-(3) The average annual energy consumption for room air conditioners, expressed in kilowatt-hours per year, shall be determined by multiplying together the following two factors:
+(3) Determine the combined energy efficiency ratio (CEER), expressed in British thermal units per watt-hour (Btu/Wh) and as follows:
 
-(i) Electrical input power in kilowatts as determined in accordance with 5.2 of appendix F to this subpart, and
+(i) For a single-speed room air conditioner, determine the CEER in accordance with section 5.2.2 of appendix F of this subpart.
 
-(ii) The representative average-use cycle of 750 hours of compressor operation per year, the resulting product then being rounded off to the nearest kilowatt-hour per year.
+(ii) For a variable-speed room air conditioner, determine the CEER in accordance with section 5.3.11 of appendix F of this subpart.
 
-(4) The combined annual energy consumption for room air conditioners, expressed in kilowatt-hours per year, shall be the sum of:
+(4) Determine the estimated annual operating cost for a room air conditioner, expressed in dollars per year, by multiplying the following two factors and rounding as directed:
 
-(i) The average annual energy consumption as determined in accordance with paragraph (f)(4) of this section, and
+(i) For single-speed room air conditioners, the sum of AECcool and AECia/om, determined in accordance with section 5.2.1 and section 5.1, respectively, of appendix F of this subpart. For variable-speed room air conditioners, the sum of AECwt and AECia/om, determined in accordance with section 5.3.4 and section 5.1, respectively, of appendix F of this subpart; and
 
-(ii) The standby mode and off mode energy consumption, as determined in accordance with 5.3 of appendix F to this subpart, the resulting sum then being rounded off to the nearest kilowatt-hour per year.
-
-(5) The combined energy efficiency ratio for room air conditioners, expressed in Btu's per watt-hour, shall be the quotient of:
-
-(i) The cooling capacity in Btus per hour as determined in accordance with 5.1 of appendix F to this subpart multiplied by the representative average-use cycle of 750 hours of compressor operation per year, divided by
-
-(ii) The combined annual energy consumption as determined in accordance with paragraph (f)(4) of this section multiplied by a conversion factor of 1,000 to convert kilowatt-hours to watt-hours, the resulting quotient then being rounded off to the nearest 0.1 Btu per watt-hour.
+(ii) A representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary. Round the resulting product to the nearest dollar per year.
 
 (g) *Unvented home heating equipment.* (1) The estimated annual operating cost for primary electric heaters, shall be the product of: (i) The average annual electric energy consumption in kilowatt-hours per year, determined according to section 3.1 of appendix G of this subpart and (ii) the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting product then being rounded off to the nearest dollar per year.
 

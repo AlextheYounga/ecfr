@@ -1,3 +1,11 @@
-##### § 551.310 U.S. financial institution. #####
+##### § 551.310 Licenses; general and specific. #####
 
-The term *U.S. financial institution* means any U.S. entity (including its foreign branches) that is engaged in the business of accepting deposits, making, granting, transferring, holding, or brokering loans or credits, or purchasing or selling foreign exchange, securities, commodity futures or options, or procuring purchasers and sellers thereof, as principal or agent. It includes but is not limited to depository institutions, banks, savings banks, trust companies, securities brokers and dealers, commodity futures and options brokers and dealers, forward contract and foreign exchange merchants, securities and commodities exchanges, clearing corporations, investment companies, employee benefit plans, and U.S. holding companies, U.S. affiliates, or U.S. subsidiaries of any of the foregoing. This term includes those branches, offices and agencies of foreign financial institutions that are located in the United States, but not such institutions' foreign branches, offices, or agencies.
+(a) Except as otherwise provided in this part, the term *license* means any license or authorization contained in or issued pursuant to this part.
+
+(b) The term *general license* means any license or authorization the terms of which are set forth in subpart E of this part or made available on OFAC's website: *www.treasury.gov/ofac.*
+
+(c) The term *specific license* means any license or authorization issued pursuant to this part but not set forth in subpart E of this part or made available on OFAC's website: *www.treasury.gov/ofac.*
+
+Note 1 to § 551.310.
+
+*See* § 501.801 of this chapter on licensing procedures.

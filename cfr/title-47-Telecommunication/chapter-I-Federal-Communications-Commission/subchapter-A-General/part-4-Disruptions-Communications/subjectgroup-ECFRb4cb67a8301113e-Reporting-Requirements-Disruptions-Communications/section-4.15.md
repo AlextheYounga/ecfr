@@ -1,5 +1,7 @@
 ##### § 4.15 Submarine cable outage reporting. #####
 
+Link to an amendment published at 86 FR 22361, Apr. 28, 2021.
+
 (a) *Definitions.* (1) For purposes of this section, “outage” is defined as a failure or significant degradation in the performance of a licensee's cable service regardless of whether the traffic can be re-routed to an alternate path, where:
 
 (i) An outage of a portion of submarine cable system between submarine line terminal equipment (SLTE) at one end of the system and SLTE at another end of the system occurs for 30 minutes or more; or

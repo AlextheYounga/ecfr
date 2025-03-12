@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 86 FR 16476, Mar. 29, 2021.
-
 (a) *General.* We incorporate by reference the following standards into this part. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Energy must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW, Washington, DC 20024, (202) 586-2945, or go to: *www1.eere.energy.gov/buildings/appliance\_\_standards/.* Standards can be obtained from the sources listed in this section. Material is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -142,7 +140,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (g) *ASHRAE.* American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc., Publication Sales, 1791 Tullie Circle, NE., Atlanta, GA 30329, 800-527-4723 or 404-636-8400, or go to *http://www.ashrae.org.*
 
-(1) ANSI/ASHRAE Standard 16-1983 (“ANSI/ASHRAE 16”) (RA 2009), (Reaffirmation of ANSI/ASHRAE Standard 16-1983 [RA 1999]), Method of Testing for Rating Room Air Conditioners and Packaged Terminal Air Conditioners, ASHRAE approved October 18, 1988, and reaffirmed June 20, 2009. ANSI approved October 20, 1998 and reaffirmed June 25, 2009. IBR approved for appendix F to subpart B.
+(1) ANSI/ASHRAE Standard 16-2016 (“ANSI/ASHRAE 16”), Method of Testing for Rating Room Air Conditioners, Packaged Terminal Air Conditioners, and Packaged Terminal Heat Pumps for Cooling and Heating Capacity, ANSI approved November 1, 2016, IBR approved for appendix F to subpart B.
 
 (2) ANSI/ASHRAE 23.1-2010, (“ASHRAE 23.1-2010”), Methods of Testing for Rating the Performance of Positive Displacement Refrigerant Compressors and Condensing Units that Operate at Subcritical Temperatures of the Refrigerant, ANSI approved January 28, 2010, IBR approved for appendices M and M1 to subpart B, as follows:
 
@@ -198,7 +196,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (5) ASHRAE 41.1-1986 (Reaffirmed 2006), Standard Method for Temperature Measurement, approved February 18, 1987, IBR approved for appendices E and AA to subpart B.
 
-(6) ANSI/ASHRAE 41.1-2013 (“ANSI/ASHRAE 41.1”), Standard Method for Temperature Measurement, ANSI approved January 30, 2013; IBR approved for appendix X1 to subpart B.
+(6) ANSI/ASHRAE 41.1-2013 (“ANSI/ASHRAE 41.1”), Standard Method for Temperature Measurement, ANSI approved January 30, 2013; IBR approved for appendices F and X1 to subpart B.
 
 (7) ANSI/ASHRAE Standard 41.1-2013, (“ANSI/ASHRAE 41.1-2013”), Standard Method for Temperature Measurement, ANSI approved January 30, 2013, IBR approved for appendix M to subpart B, as follows:
 
@@ -210,13 +208,19 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (iv) Section 7 - Temperature Test Methods (Informative).
 
-(8) ANSI/ASHRAE Standard 41.2-1987 (RA 1992), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, Section 5 - Section of Airflow-Measuring Equipment and Systems, IBR approved for appendix M to subpart B, as follows:
+(8) ANSI/ASHRAE Standard 41.2-1987 (RA 92), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, IBR approved for appendix F to subpart B.
+
+(9) ANSI/ASHRAE Standard 41.2-1987 (RA 1992), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, Section 5 - Section of Airflow-Measuring Equipment and Systems, IBR approved for appendix M to subpart B, as follows:
 
 (i) Section 5.2 - Test Ducts,, Section 5.2.2 - Mixers, 5.2.2.1 - Performance of Mixers (excluding Figures 11 and 12 and Table 1); and
 
 (ii) Figure 14 - Outlet Chamber Setup for Multiple Nozzles in Chamber.
 
-(9) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix M to subpart B, as follows:
+(10) ANSI/ASHRAE Standard 41.3-2014, (“ASHRAE 41.3-2014”), Standard Methods for Pressure Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
+
+(11) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
+
+(12) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix M to subpart B, as follows:
 
 (i) Section 4 - Classifications;
 
@@ -226,7 +230,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (iv) Section 7 - Humidity Measurement Methods.
 
-(10) ANSI/ASHRAE 41.9-2011, (“ASHRAE 41.9-2011”), Standard Methods for Volatile-Refrigerant Mass Flow Measurements Using Calorimeters, ANSI approved February 3, 2011, IBR approved for appendix M to subpart B, as follows:
+(13) ANSI/ASHRAE 41.9-2011, (“ASHRAE 41.9-2011”), Standard Methods for Volatile-Refrigerant Mass Flow Measurements Using Calorimeters, ANSI approved February 3, 2011, IBR approved for appendix M to subpart B, as follows:
 
 (i) Section 5 - Requirements;
 
@@ -240,13 +244,15 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (vi) Section 11 - Lubrication Circulation Measurements.
 
-(11) ANSI/ASHRAE Standard 103-1993, (“ASHRAE 103-1993”), Methods of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, (with Errata of October 24, 1996), except for sections 7.1, 7.2.2.2, 7.2.2.5, 7.2.3.1, 7.8, 8.2.1.3, 8.3.3.1, 8.4.1.1, 8.4.1.1.2, 8.4.1.2, 8.4.2.1.4, 8.4.2.1.6, 8.6.1.1, 8.7.2, 8.8.3, 9.1.2.2.1, 9.1.2.2.2, 9.5.1.1, 9.5.1.2.1, 9.5.1.2.2, 9.5.2.1, 9.7.1, 9.7.4, 9.7.6, 9.10, 11.5.11.1, 11.5.11.2 and appendices B and C, approved October 4, 1993, IBR approved for § 430.23 and appendix N to subpart B.
+(14) ANSI/ASHRAE Standard 41.11-2014, (“ASHRAE 41.11-2014”), Standard Methods for Power Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
 
-(12) ANSI/ASHRAE Standard 103-2007, (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI approved March 25, 2008, IBR approved for appendices O and AA to subpart B.
+(15) ANSI/ASHRAE Standard 103-1993, (“ASHRAE 103-1993”), Methods of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, (with Errata of October 24, 1996), except for sections 7.1, 7.2.2.2, 7.2.2.5, 7.2.3.1, 7.8, 8.2.1.3, 8.3.3.1, 8.4.1.1, 8.4.1.1.2, 8.4.1.2, 8.4.2.1.4, 8.4.2.1.6, 8.6.1.1, 8.7.2, 8.8.3, 9.1.2.2.1, 9.1.2.2.2, 9.5.1.1, 9.5.1.2.1, 9.5.1.2.2, 9.5.2.1, 9.7.1, 9.7.4, 9.7.6, 9.10, 11.5.11.1, 11.5.11.2 and appendices B and C, approved October 4, 1993, IBR approved for § 430.23 and appendix N to subpart B.
 
-(13) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
+(16) ANSI/ASHRAE Standard 103-2007, (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI approved March 25, 2008, IBR approved for appendices O and AA to subpart B.
 
-(14) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
+(17) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
+
+(18) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
 
 (h) *ASME.* American Society of Mechanical Engineers, Service Center, 22 Law Drive, P.O. Box 2900, Fairfield, NJ 07007, 973-882-1170, or go to *http://www.asme.org.*
 
@@ -266,7 +272,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (5) ANSI/AHAM PAC-1-2015, (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for appendix CC to subpart B of this part.
 
-(6) ANSI/AHAM RAC-1-2008 (“ANSI/AHAM RAC-1”), Room Air Conditioners, (2008; ANSI approved July 7, 2008), IBR approved for appendix F to subpart B of this part.
+(6) AHAM RAC-1-2020 (“AHAM RAC-1”), Energy Measurement Test Procedure for Room Air Conditioners, approved 2020, IBR approved for appendix F to subpart B.
 
 (j) *ASTM.* American Society for Testing and Materials International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 (*www.astm.org*)
 
@@ -330,9 +336,9 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (4) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
 
-(5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix F, and appendix I to subpart B.
+(5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix I to subpart B.
 
-(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, Q, X, X1, Y, Z, BB, and CC to subpart B.
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, F, G, H, I, J2, N, O, P, Q, X, X1, Y, Z, BB, and CC to subpart B.
 
 (7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
 

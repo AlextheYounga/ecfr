@@ -1,3 +1,13 @@
-##### § 551.405 Setoffs prohibited. #####
+##### § 551.405 Provision of services. #####
 
-A setoff against blocked property (including a blocked account), whether by a U.S. bank or other U.S. person, is a prohibited transfer under § 551.201 if effected after the effective date.
+(a) The prohibitions on transactions contained in § 551.201 apply to services performed in the United States or by U.S. persons, wherever located, including by a foreign branch of an entity located in the United States:
+
+(1) On behalf of or for the benefit of a person whose property and interests in property are blocked pursuant to § 551.201; or
+
+(2) With respect to property interests of any person whose property and interests in property are blocked pursuant to § 551.201.
+
+(b) For example, U.S. persons may not, except as authorized by or pursuant to this part, provide legal, accounting, financial, brokering, freight forwarding, transportation, public relations, or other services to a person whose property and interests in property are blocked pursuant to § 551.201.
+
+Note 1 to § 551.405.
+
+*See* §§ 551.507 and 551.509 on licensing policy with regard to the provision of certain legal and emergency medical services.

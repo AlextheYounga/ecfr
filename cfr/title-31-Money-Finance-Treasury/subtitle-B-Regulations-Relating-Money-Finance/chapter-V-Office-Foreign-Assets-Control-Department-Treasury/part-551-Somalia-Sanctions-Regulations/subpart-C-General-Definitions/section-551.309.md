@@ -1,3 +1,3 @@
-##### § 551.309 United States. #####
+##### § 551.309 Interest. #####
 
-The term *United States* means the United States, its territories and possessions, and all areas under the jurisdiction or authority thereof.
+Except as otherwise provided in this part, the term *interest,* when used with respect to property (*e.g.,* “an interest in property”), means an interest of any nature whatsoever, direct or indirect.

@@ -26,4 +26,4 @@
 
 (f) *Request for confidential treatment.* An applicant for registration may request confidential treatment for materials submitted in its application as set forth in §§ 40.8 and 145.9 of this chapter. The applicant shall identify with particularity information in the application that will be subject to a request for confidential treatment.
 
-[76 FR 54575, Sept. 1, 2011, as amended at 85 FR 75657, Nov. 25, 2020
+[76 FR 54575, Sept. 1, 2011, as amended at 85 FR 75657, Nov. 25, 2020]

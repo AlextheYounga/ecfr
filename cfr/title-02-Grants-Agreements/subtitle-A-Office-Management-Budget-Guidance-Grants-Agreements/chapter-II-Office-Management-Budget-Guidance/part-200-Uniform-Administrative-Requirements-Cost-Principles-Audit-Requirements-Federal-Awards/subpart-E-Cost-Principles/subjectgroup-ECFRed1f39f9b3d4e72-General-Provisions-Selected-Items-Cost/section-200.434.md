@@ -2,9 +2,9 @@
 
 (a) Costs of contributions and donations, including cash, property, and services, from the non-Federal entity to other entities, are unallowable.
 
-(b) It is permissible for contingency amounts other than those excluded in paragraph (a) of this section to be explicitly included in budget estimates, to the extent they are necessary to improve the precision of those estimates. Amounts must be estimated using broadly-accepted cost estimating methodologies, specified in the budget documentation of the Federal award, and accepted by the Federal awarding agency. As such, contingency amounts are to be included in the Federal award. In order for actual costs incurred to be allowable, they must comply with the cost principles and other requirements in this part (see also §§ 200.300 and 200.403 of this part); be necessary and reasonable for proper and efficient accomplishment of project or program objectives, and be verifiable from the non-Federal entity's records.
+(b) The value of services and property donated to the non-Federal entity may not be charged to the Federal award either as a direct or indirect (F&A) cost. The value of donated services and property may be used to meet cost sharing or matching requirements (see § 200.306). Depreciation on donated assets is permitted in accordance with § 200.436, as long as the donated property is not counted towards cost sharing or matching requirements.
 
-(c) Payments made by the Federal awarding agency to the non-Federal entity's “contingency reserve” or any similar payment made for events the occurrence of which cannot be foretold with certainty as to the time or intensity, or with an assurance of their happening, are unallowable, except as noted in §§ 200.431 and 200.447.
+(c) Services donated or volunteered to the non-Federal entity may be furnished to a non-Federal entity by professional and technical personnel, consultants, and other skilled and unskilled labor. The value of these services may not be charged to the Federal award either as a direct or indirect cost. However, the value of donated services may be used to meet cost sharing or matching requirements in accordance with the provisions of § 200.306.
 
 (d) To the extent feasible, services donated to the non-Federal entity will be supported by the same methods used to support the allocability of regular personnel services.
 

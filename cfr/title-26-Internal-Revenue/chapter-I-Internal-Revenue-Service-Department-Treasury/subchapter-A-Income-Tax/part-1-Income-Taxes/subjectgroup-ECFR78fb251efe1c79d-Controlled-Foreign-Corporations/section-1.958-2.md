@@ -2,7 +2,7 @@
 
 (a) *In general.* Section 958(b) provides that, for purposes of sections 951(b), 954(d)(3), 956(b)(2), and 957, the rules of section 318(a) as modified by section 958(b) and this section shall apply to the extent that the effect is to treat a United States person as a United States shareholder within the meaning of section 951(b), to treat a person as a related person within the meaning of section 954(d)(3), to treat the stock of a domestic corporation as owned by a United States shareholder of a controlled foreign corporation under section 956(b)(2), or to treat a foreign corporation as a controlled foreign corporation under section 957. The rules contained in this section also apply for purposes of other provisions of the Code and regulations which make express reference to section 958(b).
 
-(b) *Members of family* - (1) *In general.* Except as provided in subparagraph (3) of this paragraph, an individual shall be considered as owning the stock owned, directly or indirectly, by or for -
+(b) *Members of family*—(1) *In general.* Except as provided in subparagraph (3) of this paragraph, an individual shall be considered as owning the stock owned, directly or indirectly, by or for—
 
 (i) His spouse (other than a spouse who is legally separated from the individual under a decree of divorce or separate maintenance); and
 
@@ -12,11 +12,11 @@
 
 (3) *Stock owned by nonresident alien individual.* For purposes of this paragraph, stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered as owned by a United States citizen or a resident alien individual. However, this limitation does not apply for purposes of determining whether the stock of a domestic corporation is owned or considered as owned by a United States shareholder under section 956(b)(2) and § 1.956-2(b)(1)(viii). See section 958(b)(1).
 
-(c) *Attribution from partnerships, estates, trusts, and corporations* - (1) *In general.* Except as provided in subparagraph (2) of this paragraph -
+(c) *Attribution from partnerships, estates, trusts, and corporations*—(1) *In general.* Except as provided in subparagraph (2) of this paragraph—
 
 (i) *From partnerships and estates.* Stock owned, directly or indirectly, by or for a partnership or estate shall be considered as owned proportionately by its partners or beneficiaries.
 
-(ii) *From trusts - (a) To beneficiaries.* Stock owned, directly or indirectly, by or for a trust (other than an employees' trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by its beneficiaries in proportion to the actuarial interest of such beneficiaries in such trust.
+(ii) *From trusts—(a) To beneficiaries.* Stock owned, directly or indirectly, by or for a trust (other than an employees' trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by its beneficiaries in proportion to the actuarial interest of such beneficiaries in such trust.
 
 (*b*) *To owner.* Stock owned, directly or indirectly, by or for any portion of a trust of which a person is considered the owner under sections 671 to 679 (relating to grantors and others treated as substantial owners) shall be considered as owned by such person.
 
@@ -24,11 +24,11 @@
 
 (2) *Rules of application.* For purposes of subparagraph (1) of this paragraph, if a partnership, estate, trust, or corporation owns, directly or indirectly, more than 50 percent of the total combined voting power of all classes of stock entitled to vote in a corporation, it shall be considered as owning all the stock entitled to vote. See section 958(b)(2).
 
-(d) *Attribution to partnerships, estates, trusts, and corporations.* (1) Except as otherwise provided in paragraph (d)(2) of this section and § 1.954-1(f) -
+(d) *Attribution to partnerships, estates, trusts, and corporations.* (1) Except as otherwise provided in paragraph (d)(2) of this section and § 1.954-1(f)—
 
 (i) *To partnerships and estates.* Stock owned, directly or indirectly, by or for a partner or a beneficiary of an estate shall be considered as owned by the partnership or estate.
 
-(ii) *To trusts - (a) From beneficiaries.* Stock owned, directly or indirectly, by or for a beneficiary of a trust (other than an employees' trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by the trust, unless such beneficiary's interest in the trust is a remote contingent interest. For purposes of the preceding sentence, a contingent interest of a beneficiary in a trust shall be considered remote if, under the maximum exercise of discretion by the trustee in favor of such beneficiary, the value of such interest, computed actuarially, is 5 percent or less of the value of the trust property.
+(ii) *To trusts*—(*a*) *From beneficiaries.* Stock owned, directly or indirectly, by or for a beneficiary of a trust (other than an employees' trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by the trust, unless such beneficiary's interest in the trust is a remote contingent interest. For purposes of the preceding sentence, a contingent interest of a beneficiary in a trust shall be considered remote if, under the maximum exercise of discretion by the trustee in favor of such beneficiary, the value of such interest, computed actuarially, is 5 percent or less of the value of the trust property.
 
 (*b*) *From owner.* Stock owned, directly or indirectly, by or for a person who is considered the owner of any portion of a trust under sections 671 to 678 (relating to grantors and others treated as substantial owners) shall be considered as owned by the trust.
 
@@ -38,9 +38,9 @@
 
 (e) *Options.* Except as otherwise provided in § 1.954-1(f), if any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of the preceding sentence, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
-(f) *Rules of application.* For purposes of this section -
+(f) *Rules of application.* For purposes of this section—
 
-(1) *Stock treated as actually owned* - (i) *In general.* Except as provided in subdivisions (ii) and (iii) of this subparagraph, stock constructively owned by a person by reason of the application of paragraphs (b), (c), (d), and (e) of this section shall, for purposes of applying such paragraphs, be considered as actually owned by such person.
+(1) *Stock treated as actually owned*—(i) *In general.* Except as provided in subdivisions (ii) and (iii) of this subparagraph, stock constructively owned by a person by reason of the application of paragraphs (b), (c), (d), and (e) of this section shall, for purposes of applying such paragraphs, be considered as actually owned by such person.
 
 (ii) *Members of family.* Stock constructively owned by an individual by reason of the application of paragraph (b) of this section shall not be considered as owned by him for purposes of again applying such paragraph in order to make another the constructive owner of such stock.
 
@@ -54,12 +54,8 @@ Example 1.(a) United States persons A and B, and domestic corporation M, own 9 p
 
 (b) For purposes of determining whether R Corporation is a controlled foreign corporation, the 1 percent of the stock in R Corporation directly owned by M Corporation and considered as owned by A cannot be counted twice. Therefore, the total amount of stock in R Corporation owned by United States shareholders is 51 percent, determined as follows:
 
-Stock Ownership in R Corporation
-
-[percent]
-
 |      A      | 9 |
-|:------------|--:|
+|-------------|---|
 |      B      |32 |
 |M Corporation|10 |
 |    Total    |51 |

@@ -1,6 +1,6 @@
 ##### § 1.962-1 Limitation of tax for individuals on amounts included in gross income under section 951(a). #####
 
-(a) *In general.* An individual United States shareholder may, in accordance with § 1.962-2, elect to have the provisions of section 962 apply for his taxable year. In such case -
+(a) *In general.* An individual United States shareholder may, in accordance with § 1.962-2, elect to have the provisions of section 962 apply for his taxable year. In such case—
 
 (1) The tax imposed under chapter 1 of the Internal Revenue Code on all amounts which are included in his gross income for such taxable year under section 951(a) shall (in lieu of the tax determined under section 1) be an amount equal to the tax which would be imposed under section 11 if such amounts were received by a domestic corporation (determined in accordance with paragraph (b)(1) of this section), and
 
@@ -8,15 +8,15 @@
 
 (3) Thus, an individual United States shareholder may elect to be subject to tax at corporate rates on amounts included in his gross income under section 951(a) and to have the benefit of a credit for certain foreign taxes paid with respect to the earnings and profits attributable to such amounts. Section 962 also provides rules for the treatment of an actual distribution of earnings and profits previously taxed in accordance with an election of the benefits of this section. See § 1.962-3.
 
-(b) *Rules of application.* For purposes of this section -
+(b) *Rules of application.* For purposes of this section—
 
-(1) *Application of section 11.* For purposes of applying section 11 for a taxable year as provided in paragraph (a)(1) of this section in the case of an electing United States shareholder -
+(1) *Application of section 11.* For purposes of applying section 11 for a taxable year as provided in paragraph (a)(1) of this section in the case of an electing United States shareholder—
 
-(i) *Determination of taxable income.* The term *taxable income* means the excess of -
+(i) *Determination of taxable income.* The term *taxable income* means the excess of—
 
-(A) The sum of -
+(A) The sum of—
 
-(*1*) All amounts required to be included in his gross income under section 951(a) for the taxable year with respect to a foreign corporation of which he is a United States shareholder, including -
+(*1*) All amounts required to be included in his gross income under section 951(a) for the taxable year with respect to a foreign corporation of which he is a United States shareholder, including—
 
 (*i*) His section 965(a) inclusion amounts (as defined in § 1.965-1(f)(38)); and
 
@@ -26,7 +26,7 @@
 
 (*3*) All amounts which would be required to be included in his gross income under section 78 for the taxable year with respect to the amounts referred to in paragraph (b)(1)(i)(A)(*1*) and (*2*) of this section if the shareholder were a domestic corporation; over
 
-(B) The sum of the following deductions, but no other deductions or amounts -
+(B) The sum of the following deductions, but no other deductions or amounts—
 
 (*1*) His section 965(c) deduction amount (as defined in § 1.965-1(f)(42)) for the taxable year;
 
@@ -36,13 +36,13 @@
 
 (ii) [Reserved]
 
-(2) *Allowance of foreign tax credit* - (i) *In general.* Subject to the applicable limitation of section 904 and to the provisions of this paragraph (b)(2), there shall be allowed as a credit against the United States tax on the amounts described in paragraph (b)(1)(i) of this section the foreign income, war profits, and excess profits taxes deemed paid under section 960(a) or section 960(d) by the electing United States shareholder with respect to such amounts.
+(2) *Allowance of foreign tax credit*—(i) *In general.* Subject to the applicable limitation of section 904 and to the provisions of this paragraph (b)(2), there shall be allowed as a credit against the United States tax on the amounts described in paragraph (b)(1)(i) of this section the foreign income, war profits, and excess profits taxes deemed paid under section 960(a) or section 960(d) by the electing United States shareholder with respect to such amounts.
 
 (ii) *Application of sections 960(a) and 960(d).* In applying sections 960(a) and 960(d) for purposes of this paragraph (b)(2) in the case of an electing United States shareholder, the term “domestic corporation” as used in sections 960(a), 960(d), and 78, and the term “corporation” as used in sections 901 and 960(d)(2)(A) and (B), are treated as referring to such shareholder with respect to the amounts described in paragraph (b)(1)(i) of this section.
 
 (iii) *Carryback and carryover of excess tax deemed paid.* For purposes of this paragraph (b)(2), other than with respect to section 951A category income (as defined in § 1.904-4(g)) (including section 951A category income that is reassigned to a separate category for income resourced under a treaty), any amount by which the foreign income, war profits, and excess profits taxes deemed paid by the electing United States shareholder for any taxable year under section 960 exceed the limitation determined under paragraph (b)(2)(iv)(A) of this section is treated as a carryback and carryover of excess tax paid under section 904(c), except that in no case will excess tax paid be deemed paid in another taxable year under section 904(c) if an election under section 962 by the shareholder does not apply for such taxable year. Such carrybacks and carryovers are applied only against the United States tax on amounts described in paragraph (b)(1)(i) of this section.
 
-(iv) *Limitation on credit.* For purposes of determining the limitation under section 904 on the amount of the credit for foreign income, war profits, and excess profits taxes -
+(iv) *Limitation on credit.* For purposes of determining the limitation under section 904 on the amount of the credit for foreign income, war profits, and excess profits taxes—
 
 (A) Deemed paid with respect to amounts described in subparagraph (1)(i) of this paragraph, the electing United States shareholder's taxable income shall be considered to consist only of the amounts described in such subparagraph (1)(i), and
 
@@ -52,7 +52,7 @@
 
 (c) *Example.* The application of this section may be illustrated by the following example.
 
-(1) *Facts* - (i) Individual A is a U.S. resident who owns all of the shares of the one class of stock in CFC, a controlled foreign corporation. A and CFC each use the calendar year as their U.S. and foreign taxable years and the U.S. dollar as their functional currency. A owns no direct or indirect interest in any other controlled foreign corporation.
+(1) *Facts*. (i) Individual A is a U.S. resident who owns all of the shares of the one class of stock in CFC, a controlled foreign corporation. A and CFC each use the calendar year as their U.S. and foreign taxable years and the U.S. dollar as their functional currency. A owns no direct or indirect interest in any other controlled foreign corporation.
 
 (ii) For the 2019 taxable year, CFC has $6,000,000 of pre-foreign tax earnings with respect to which it accrues and pays $1,000,000 of foreign income tax, leaving $5,000,000 of after-tax net income. Of this amount, $3,000,000 is general category tested income as defined in section 951A(c)(2), and $2,000,000 is passive category subpart F income described in sections 952 and 904(d)(1)(C) that is all in a single subpart F income group under §§ 1.954-1(c)(1)(iii) and 1.960-1(d)(2)(ii)(B)(*2*)(*i*). Of the $1,000,000 of foreign income taxes paid or accrued by CFC, $600,000 is allocated and apportioned to its general category tested income group and $400,000 is allocated and apportioned to its passive category subpart F income group under § 1.960-1(d)(3)(ii).
 
@@ -62,7 +62,7 @@
 
 (v) A elects to apply section 962 and chooses to claim credits under section 901 for the 2019 taxable year.
 
-(2) *Analysis with respect to section 962 taxable income* - (i) Section 962(a)(1) and § 1.962-1(a)(1) provide that when an individual United States shareholder elects to apply section 962 for a taxable year, the U.S. tax imposed with respect to amounts that the individual includes under section 951(a) (the “section 951(a) inclusions”) equals the tax that would be imposed under section 11 if the amounts were included by a domestic corporation under section 951(a). For purposes of section 962, an amount included under section 951A is treated as an inclusion under section 951(a). See section 951A(f)(1)(A). Therefore, A has total section 951(a) inclusions of $5,000,000: a $2,000,000 passive category subpart F inclusion and a $3,000,000 GILTI inclusion amount. A is taxed at the corporate rates under section 11 with respect to these inclusions.
+(2) *Analysis with respect to section 962 taxable income*. (i) Section 962(a)(1) and § 1.962-1(a)(1) provide that when an individual United States shareholder elects to apply section 962 for a taxable year, the U.S. tax imposed with respect to amounts that the individual includes under section 951(a) (the “section 951(a) inclusions”) equals the tax that would be imposed under section 11 if the amounts were included by a domestic corporation under section 951(a). For purposes of section 962, an amount included under section 951A is treated as an inclusion under section 951(a). See section 951A(f)(1)(A). Therefore, A has total section 951(a) inclusions of $5,000,000: a $2,000,000 passive category subpart F inclusion and a $3,000,000 GILTI inclusion amount. A is taxed at the corporate rates under section 11 with respect to these inclusions.
 
 (ii) Section 962(a)(2), § 1.962-1(a)(2), and § 1.962-1(b)(2) provide that sections 960(a) and 960(d) apply to the section 951(a) inclusions of an electing individual United States shareholder as though the inclusions were received by a domestic corporation, and the electing individual United States shareholder is allowed a credit against the U.S. tax imposed with respect to the section 951(a) inclusions.
 
@@ -76,11 +76,8 @@
 
 (vii) A's taxable income and pre-credit U.S. tax liability with respect to the section 951(a) inclusions are computed as follows:
 
-Table 1 to Paragraph (c)(2)(vii)
-
-|                                             |           |
-|---------------------------------------------|-----------|
 |Section 951(a) inclusions with respect to CFC|$5,000,000 |
+|---------------------------------------------|-----------|
 |            Section 78 inclusions            | 1,000,000 |
 |         Deduction under section 250         |(1,800,000)|
 |      Taxable income under section 962       | 4,200,000 |
@@ -90,11 +87,8 @@ Table 1 to Paragraph (c)(2)(vii)
 
 (ix) A must compute the limitation on the credit for the foreign income taxes deemed paid under section 960(d) separately with respect to A's taxable income in the separate category described in section 904(d)(1)(A) (the “GILTI category”), namely, taxable income attributable to the GILTI inclusion amount. The limitation is computed using only A's 2019 taxable income under section 962 and the pre-credit U.S. tax of $882,000 on this income. A therefore computes the limitation by multiplying $882,000 by the ratio of A's foreign source GILTI category taxable income under section 962 to A's total taxable income under section 962, as follows:
 
-Table 2 to Paragraph (c)(2)(ix)
-
-|                                                                                                       |            |
-|-------------------------------------------------------------------------------------------------------|------------|
 |                                        GILTI inclusion amount                                         | $3,000,000 |
+|-------------------------------------------------------------------------------------------------------|------------|
 |                                         Section 78 inclusion                                          |  $600,000  |
 |                                         Section 250 deduction                                         |($1,800,000)|
 |                         Total GILTI category taxable income under section 962                         | $1,800,000 |
@@ -103,11 +97,8 @@ Table 2 to Paragraph (c)(2)(ix)
 
 (x) A also must compute the limitation on the credit for the foreign income taxes deemed paid under section 960(a) separately with respect to the foreign source passive category taxable income under section 962, namely, A's taxable income attributable to the subpart F inclusion. A computes the limitation by multiplying A's pre-credit U.S. tax of $882,000 by the ratio of A's foreign source passive category taxable income under section 962 to A's total taxable income under section 962, as follows:
 
-Table 3 to Paragraph (c)(2)(x)
-
-|                                                                                                                         |          |
-|-------------------------------------------------------------------------------------------------------------------------|----------|
 |                                                   Subpart F inclusion                                                   |$2,000,000|
+|-------------------------------------------------------------------------------------------------------------------------|----------|
 |                                                  Section 78 inclusion                                                   | $400,000 |
 |                                  Total foreign source passive category taxable income                                   |$2,400,000|
 |Ratio of foreign source passive category taxable income to total taxable income under section 962 ($2,400,000/$4,200,000)|  57.14%  |
@@ -117,22 +108,16 @@ Table 3 to Paragraph (c)(2)(x)
 
 (3) *Analysis with respect to other income.* (i) A's taxable income and pre-credit U.S. tax liability with respect to A's other income is computed as follows:
 
-Table 4 to Paragraph (c)(3)(i)
-
-|                                               |          |
-|-----------------------------------------------|----------|
 |                 Gross income                  |$4,000,000|
+|-----------------------------------------------|----------|
 |                  Deductions                   |1,000,000 |
 |                Taxable Income                 |3,000,000 |
 |Pre-credit U.S. tax computed under section 1(j)|1,074,988 |
 
 (ii) A must compute a separate limitation on the credit for the foreign withholding taxes paid with respect to A's other foreign source passive category taxable income. Under § 1.962-1(b)(2)(iv)(B), A's section 904 limitation on this income is computed on the basis of A's taxable income other than the amounts taken into account under § 1.962-1(b)(1)(i). Accordingly, $250,000 of A's deductions ($1,000,000 × $1,000,000/$4,000,000) are apportioned to A's $1,000,000 of other foreign source passive category gross income, and $750,000 of deductions ($1,000,000 × $3,000,000/$4,000,000) are apportioned to A's $3,000,000 of U.S. source gross income, resulting in $750,000 of other foreign source passive category taxable income and $2,250,000 of U.S. source taxable income A computes the limitation by multiplying A's pre-credit U.S. tax on A's other income of $1,074,988 by the ratio of A's other foreign source passive category taxable income to A's other total taxable income, as follows:
 
-Table 5 to Paragraph (c)(3)(ii)
-
-|                                                                                                                 |        |
-|-----------------------------------------------------------------------------------------------------------------|--------|
 |                           Total other foreign source passive category taxable income                            |$750,000|
+|-----------------------------------------------------------------------------------------------------------------|--------|
 |Ratio of other foreign source passive category taxable income to total other taxable income ($750,000/$3,000,000)|  25%   |
 |                  Limitation amount (pre-credit U.S. tax of $1,074,988 × ($750,000/$3,000,000))                  |$268,747|
 

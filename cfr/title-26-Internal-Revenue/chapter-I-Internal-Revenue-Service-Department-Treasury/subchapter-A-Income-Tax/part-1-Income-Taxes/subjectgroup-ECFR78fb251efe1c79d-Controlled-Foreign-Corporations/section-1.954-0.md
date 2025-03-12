@@ -1,10 +1,10 @@
 ##### § 1.954-0 Introduction. #####
 
-(a) *Effective dates* - (1) *Final regulations* - (i) *In general.* Except as otherwise specifically provided, the provisions of §§ 1.954-1 and 1.954-2 apply to taxable years of a controlled foreign corporation beginning after November 6, 1995. If any of the rules described in §§ 1.954-1 and 1.954-2 are inconsistent with provisions of other regulations under subpart F, these final regulations are intended to apply instead of such other regulations.
+(a) *Effective dates*—(1) *Final regulations*—(i) *In general.* Except as otherwise specifically provided, the provisions of §§ 1.954-1 and 1.954-2 apply to taxable years of a controlled foreign corporation beginning after November 6, 1995. If any of the rules described in §§ 1.954-1 and 1.954-2 are inconsistent with provisions of other regulations under subpart F, these final regulations are intended to apply instead of such other regulations.
 
-(ii) *Election to apply final regulations retroactively* - (A) *Scope of election.* An election may be made to apply the final regulations retroactively with respect to any taxable year of the controlled foreign corporation beginning on or after January 1, 1987. If such an election is made, these final regulations must be applied in their entirety for such taxable year and all subsequent taxable years. All references to section 11 in the final regulations shall be deemed to include section 15, where applicable.
+(ii) *Election to apply final regulations retroactively*—(A) *Scope of election.* An election may be made to apply the final regulations retroactively with respect to any taxable year of the controlled foreign corporation beginning on or after January 1, 1987. If such an election is made, these final regulations must be applied in their entirety for such taxable year and all subsequent taxable years. All references to section 11 in the final regulations shall be deemed to include section 15, where applicable.
 
-(B) *Manner of making election.* An election under this paragraph (a)(1)(ii) is binding on all United States shareholders of the controlled foreign corporation and must be made -
+(B) *Manner of making election.* An election under this paragraph (a)(1)(ii) is binding on all United States shareholders of the controlled foreign corporation and must be made—
 
 (*1*) By the controlling United States shareholders, as defined in § 1.964-1(c)(5), by attaching a statement to such effect with their original or amended income tax returns for the taxable year of such United States shareholders in which or with which the taxable year of the CFC ends, and including any additional information required by applicable administrative pronouncements, or
 
@@ -20,4 +20,4 @@
 
 (b) [Reserved]
 
-[T.D. 8618, 60 FR 46508, Sept. 7, 1995; T.D. 8618, 60 FR 62024, Dec. 4, 1995; T.D. 8767, 63 FR 14615, Mar. 26, 1998; T.D. 9039, 68 FR 4917, Jan. 31, 2003; T.D. 9883, 84 FR 63803, Nov. 19, 2019. T.D. 9902, 85 FR 44649, July 23, 2020]
+[T.D. 8618, 60 FR 46508, Sept. 7, 1995; T.D. 8618, 60 FR 62024, Dec. 4, 1995; T.D. 8767, 63 FR 14615, Mar. 26, 1998; T.D. 9039, 68 FR 4917, Jan. 31, 2003; T.D. 9883, 84 FR 63803, Nov. 19, 2019; T.D. 9902, 85 FR 44649, July 23, 2020]

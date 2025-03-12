@@ -1,3 +1,3 @@
-##### § 551.304 Interest. #####
+##### § 551.304 Charcoal. #####
 
-Except as otherwise provided in this part, the term *interest,* when used with respect to property (*e.g.,* “an interest in property”), means an interest of any nature whatsoever, direct or indirect.
+The term *charcoal* means any product classifiable in heading 3802 or 4402 of the Harmonized Tariff Schedule of the United States.

@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 86 FR 16476, Mar. 29, 2021.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
 *3-Way incandescent lamp* means an incandescent lamp that -
@@ -753,7 +751,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) Using other comparably effective measures to minimize use with commercial high-power-factor ballasts.
 
-*Room air conditioner* means a consumer product, other than a “packaged terminal air conditioner,” which is powered by a single phase electric current and which is an encased assembly designed as a unit for mounting in a window or through the wall for the purpose of providing delivery of conditioned air to an enclosed space. It includes a prime source of refrigeration and may include a means for ventilating and heating.
+*Room air conditioner* means a window-mounted or through-the-wall-mounted encased assembly, other than a “packaged terminal air conditioner,” that delivers cooled, conditioned air to an enclosed space, and is powered by single-phase electric current. It includes a source of refrigeration and may include additional means for ventilating and heating.
 
 *Rough or vibration service incandescent reflector lamp* means a reflector lamp: in which a C-11 (5 support), C-17 (8 support), or C-22 (16 support) filament is mounted (the number of support excludes lead wires); in which the filament configuration is as shown in Chapter 6 of the 1993 *Illuminating Engineering Society of North America Lighting Handbook,* 8th Edition (see 10 CFR 430.22); and that is designated and marketed specifically for rough or vibration service applications.
 

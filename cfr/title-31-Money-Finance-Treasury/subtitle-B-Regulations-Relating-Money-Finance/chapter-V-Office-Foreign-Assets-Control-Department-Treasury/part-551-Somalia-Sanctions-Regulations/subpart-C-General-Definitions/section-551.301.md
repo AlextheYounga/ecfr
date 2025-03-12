@@ -1,7 +1,3 @@
-##### § 551.301 Blocked account; blocked property. #####
+##### § 551.301 African Union Mission in Somalia; AMISOM #####
 
-The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibitions in § 551.201 held in the name of a person whose property and interests in property are blocked pursuant to § 551.201, or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control expressly authorizing such action.
-
-Note to § 551.301:
-
-*See* § 551.406 concerning the blocked status of property and interests in property of an entity that is 50 percent or more owned by a person whose property and interests in property are blocked pursuant to § 551.201.
+The term *African Union Mission in Somalia* or *AMISOM* means the mission authorized by the United Nations Security Council in Resolution 1744 of February 20, 2007, and reauthorized in subsequent resolutions, and includes its agencies, instrumentalities, and controlled entities.
