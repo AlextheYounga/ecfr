@@ -24,4 +24,4 @@
 
 (o) [Reserved]
 
-[47 FR 28904, July 2, 1982]Editorial Note:For Federal Register citations affecting § 213.3202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 28904, July 2, 1982]Editorial Note:For Federal Register citations affecting § 213.3202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

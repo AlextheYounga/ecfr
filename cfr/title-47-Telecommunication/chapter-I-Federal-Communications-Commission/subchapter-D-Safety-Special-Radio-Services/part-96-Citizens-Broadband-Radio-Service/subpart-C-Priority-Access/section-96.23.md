@@ -1,8 +1,6 @@
 ##### § 96.23 Authorization. #####
 
-Link to an amendment published at 83 FR 63095, Dec. 7, 2018.
-
-(a) Applications for PALs must:
+(a) An applicant must file an application for an initial PAL. Applications for PALs must:
 
 (1) Demonstrate the applicant's qualifications to hold an authorization;
 
@@ -17,3 +15,7 @@ Link to an amendment published at 83 FR 63095, Dec. 7, 2018.
 (b) CBSDs used for Priority Access must register with an SAS and comply with its instructions consistent with § 96.39 and subpart F of this part.
 
 (c) Records pertaining to PALs, including applications and licenses, shall be maintained by the Commission in a publicly accessible system.
+
+(d) Paragraph (a) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (d) accordingly.
+
+[80 FR 36222, June 23, 2015, as amended at 83 FR 63095, Dec. 7, 2018]

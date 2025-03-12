@@ -88,4 +88,4 @@ In this subpart:
 
 *Tour of duty* means the hours of a day (a daily tour of duty) and the days of an administrative workweek (a weekly tour of duty) that constitute an employee's regularly scheduled administrative workweek.
 
-[33 FR 12458, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 550.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[33 FR 12458, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 550.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

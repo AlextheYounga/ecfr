@@ -1,7 +1,5 @@
 ##### § 96.25 Priority access licenses. #####
 
-Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
-
 (a) Priority Access Licensees must operate CBSDs consistent with the technical rules and interference protection requirements set forth in this part.
 
 (b) PALs have the following parameters:
@@ -18,7 +16,15 @@ Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
 
 (ii) [Reserved]
 
-(3) *License term:* Each PAL has a three-year license term. Each PAL must automatically terminate at the end of its three-year term and may not be renewed. However, Priority Access Licensees may reapply for subsequent authorizations in the same License Area, subject to the limitations set forth in § 96.27. Priority Access Licensees may hold consecutive PALs up to the maximum number set forth in § 96.27.
+(3) *License term.* Each PAL has a ten-year license term. Licensees must file a renewal application in accordance with the provisions of § 1.949 of this chapter.
+
+(4) *Performance requirement.* Priority Access Licensees must provide substantial service in their license area by the end of the initial license term. “Substantial” service is defined as service which is sound, favorable, and substantially above the level of mediocre service which might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license without further Commission action, and the licensee will be ineligible to regain it. Licensees shall demonstrate compliance with the performance requirement by filing a construction notification with the Commission in accordance with the provisions set forth in § 1.946(d) of this chapter. The licensee must certify whether it has met the performance requirement, and file supporting documentation, including description and demonstration of the bona fide service provided, electronic maps accurately depicting the boundaries of the license area and where in the license area the licensee provides service that meets the performance requirement, supporting technical documentation, any population-related assumptions or data used in determining the population covered by a service to the extent any were relied upon, and any other information the Wireless Telecommunications Bureau may prescribe by public notice. A licensee's showing of substantial service may not rely on service coverage outside of the PAL Protection Areas of registered CBSDs or on deployments that are not reflected in SAS records of CBSD registrations.
+
+(i) *Safe harbor for mobile or point-to-multipoint service.* A Priority Access Licensee providing a mobile service or point-to-multipoint service may demonstrate substantial service by showing that it provides signal coverage and offers service, either to customers or for internal use, over at least 50 percent of the population in the license area.
+
+(ii) *Safe harbor for fixed point-to-point service.* A Priority Access Licensee providing a fixed point-to-point service may demonstrate substantial service by showing that it has constructed and operates at least four links, either to customers or for internal use, in license areas with 134,000 population or less and in license areas with greater population, a minimum number of links equal to the population of the license area divided by 33,500 and rounded up to the nearest whole number. To satisfy this provision, such links must operate using registered Category B CBSDs.
+
+(5) *Compliance date.* Paragraph (b)(4) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (b)(5) accordingly.
 
 (c) *PAL Protection Areas.* PAL channels shall be made available for assignment by the SAS for General Authorized Access use only in areas outside of PAL Protection Areas consistent with this section and § 96.41(d).
 
@@ -36,4 +42,4 @@ Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
 
 (3) The PAL Protection Area may not extend beyond the boundaries of the Priority Access Licensee's Service Area.
 
-[80 FR 36222, June 23, 2015, as amended at 81 FR 49067, July 26, 2016]
+[80 FR 36222, June 23, 2015, as amended at 81 FR 49067, July 26, 2016; 83 FR 63096, Dec. 7, 2018]

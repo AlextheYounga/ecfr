@@ -1,12 +1,10 @@
 ##### § 531.602 Definitions. #####
 
-Link to an amendment published at 83 FR 63045, Dec. 7, 2018.
-
 In this subpart:
 
-*CSA* means the geographic scope of a Combined Statistical Area, as defined by the Office of Management and Budget (OMB) in OMB Bulletin No. 13-01, plus any areas subsequently added to the CSA by OMB.
+*CSA* means the geographic scope of a Combined Statistical Area, as defined by the Office of Management and Budget (OMB) in OMB Bulletin No. 18-03.
 
-*Employee* means -
+*Employee* means—
 
 (1) An employee in a position to which 5 U.S.C. chapter 53, subchapter III, applies, including a GM employee, and whose official worksite is located in a locality pay area; and
 
@@ -30,7 +28,7 @@ In this subpart:
 
 *Locality rate* means a scheduled annual rate of pay plus an applicable locality payment. An employee's locality rate is computed under § 531.604.
 
-*MSA* means the geographic scope of a Metropolitan Statistical Area, as defined by the Office of Management and Budget (OMB) in OMB Bulletin No. 13-01, plus any areas subsequently added to the MSA by OMB.
+*MSA* means the geographic scope of a Metropolitan Statistical Area, as defined by the Office of Management and Budget (OMB) in OMB Bulletin No. 18-03.
 
 *Official worksite* means the official location of an employee's position of record as determined under § 531.605.
 
@@ -40,7 +38,7 @@ In this subpart:
 
 *Retained rate* means a rate above the maximum rate of the rate range applicable to the employee which is payable under 5 CFR part 536 or similar legal authority.
 
-*Scheduled annual rate of pay* means, as applicable -
+*Scheduled annual rate of pay* means, as applicable—
 
 (1) The annual GS rate payable to an employee;
 
@@ -56,4 +54,4 @@ In this subpart:
 
 *Telework agreement* means a formal oral or written agreement between a supervisor and an employee to permit the employee to work at an alternative worksite (*i.e.*, telework) instead of the location of the employee's assigned organization.
 
-[58 FR 69174, Dec. 30, 1993, as amended at 59 FR 67605, Dec. 30, 1994; 61 FR 3540, Feb. 1, 1996; 62 FR 25425, May 9, 1997; 64 FR 69173, Dec. 10, 1999; 66 FR 67070, Dec. 28, 2001; 68 FR 19708, Apr. 22, 2003; 69 FR 2050, Jan. 13, 2004; 69 FR 75453, Dec. 17, 2004; 70 FR 31302, May 31, 2005; 70 FR 74995, Dec. 19, 2005; 73 FR 66153, Nov. 7, 2008; 76 FR 32862, June 7, 2011; 78 FR 5115, Jan. 24, 2013; 80 FR 65610, Oct. 27, 2015]
+[58 FR 69174, Dec. 30, 1993, as amended at 59 FR 67605, Dec. 30, 1994; 61 FR 3540, Feb. 1, 1996; 62 FR 25425, May 9, 1997; 64 FR 69173, Dec. 10, 1999; 66 FR 67070, Dec. 28, 2001; 68 FR 19708, Apr. 22, 2003; 69 FR 2050, Jan. 13, 2004; 69 FR 75453, Dec. 17, 2004; 70 FR 31302, May 31, 2005; 70 FR 74995, Dec. 19, 2005; 73 FR 66153, Nov. 7, 2008; 76 FR 32862, June 7, 2011; 78 FR 5115, Jan. 24, 2013; 80 FR 65610, Oct. 27, 2015; 83 FR 63045, Dec. 7, 2018]

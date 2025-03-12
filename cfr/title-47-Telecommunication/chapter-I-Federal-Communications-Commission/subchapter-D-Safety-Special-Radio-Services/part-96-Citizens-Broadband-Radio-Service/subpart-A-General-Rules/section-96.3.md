@@ -1,10 +1,10 @@
 ##### § 96.3 Definitions. #####
 
-Link to an amendment published at 83 FR 63095, Dec. 7, 2018.
-
 The definitions in this section apply to this part.
 
-*Census tract.* Statistical subdivisions of a county or equivalent entity that are updated prior to each decennial census as part of the Census Bureau's Participant Statistical Areas Program. Census tracts are defined by the United States Census Bureau and census tract maps can be found at *http://www.census.gov*. For purposes of this part, Census Tracts shall be defined as they were in the 2010 United States Census. The Commission may from time to time update this definition to reflect boundaries used in subsequent decennial Census definitions.
+*Adjacent Channel Leakage Ratio.* The Adjacent Channel Leakage Ratio (ACLR) is the ratio of the filtered mean power over the assigned Aggregated Channel Bandwidth to the filtered mean power over the equivalent adjacent channel bandwidth. The power in the assigned Aggregated Channel Bandwidth and its equivalent adjacent channel bandwidth are measured with rectangular filters with measurement bandwidths equal to the Aggregated Channel Bandwidth.
+
+*Aggregated Channel Bandwidth.* The Aggregated Channel Bandwidth is the bandwidth of a single channel, or in the case of multiple contiguous channels, the bandwidth between the upper and lower limits of the combined contiguous channels.
 
 *Citizens Broadband Radio Service Device (CBSD).* Fixed Stations, or networks of such stations, that operate on a Priority Access or General Authorized Access basis in the Citizens Broadband Radio Service consistent with this rule part. For CBSDs which comprise multiple nodes or networks of nodes, CBSD requirements apply to each node even if network management and communication with the SAS is accomplished via a single network interface. End User Devices are not considered CBSDs.
 
@@ -13,6 +13,8 @@ The definitions in this section apply to this part.
 (2) *Category B CBSD.* A higher power CBSD that meets the general requirements applicable to all CBSDs and the specific requirements for Category B CBSDs set forth in §§ 96.41 and 96.45.
 
 *Coastline.* The mean low water line along the coast of the United States drawn according to the principles, as recognized by the United States, of the Convention on the Territorial Sea and the Contiguous Zone, 15 U.S.T. 1606, and the 1982 United Nations Convention on the Law of the Sea, 21 I.L.M. 1261.
+
+*County.* For purposes of this part, counties shall be defined using the United States Census Bureau's data reflecting county legal boundaries and names valid through January 1, 2017.
 
 *End user device.* A device authorized and controlled by an authorized CBSD. These devices may not be used as intermediate service links or to provide service over the frequencies listed in § 96.11 to other End User Devices or CBSDs.
 
@@ -32,7 +34,7 @@ The definitions in this section apply to this part.
 
 *Incumbent user.* A federal entity authorized to operate on a primary basis in accordance with the table of frequency allocations, fixed satellite service operator, or Grandfathered Wireless Broadband Licensee authorized to operate on a primary basis on frequencies designated in § 96.11.
 
-*License area.* The geographic component of a PAL. Each License Area consists of one Census Tract.
+*License area.* The geographic component of a PAL. A License Area consists of one county.
 
 *Mobile station.* A device intended to be used while in motion or during halts at unspecified points.
 
@@ -58,4 +60,4 @@ The definitions in this section apply to this part.
 
 *Spectrum Access System (SAS) administrator.* An entity authorized by the Commission to operate an SAS in accordance with the rules and procedures set forth in § 96.63.
 
-[80 FR 36222, June 23, 2015, as amended at 81 FR 49066, July 26, 2016]
+[80 FR 36222, June 23, 2015, as amended at 81 FR 49066, July 26, 2016; 83 FR 63095, Dec. 7, 2018]

@@ -1,7 +1,5 @@
 ##### § 1231.3 Golden parachute payments. #####
 
-Link to an amendment published at 83 FR 65290, Dec. 20, 2018.
-
 (a) *Prohibited golden parachute payments.* No regulated entity or the Office of Finance shall make or agree to make any golden parachute payment, except as provided in this part.
 
 (b) *Permissible golden parachute payments.* (1) A regulated entity or the Office of Finance may agree to make or may make a golden parachute payment if and to the extent that:

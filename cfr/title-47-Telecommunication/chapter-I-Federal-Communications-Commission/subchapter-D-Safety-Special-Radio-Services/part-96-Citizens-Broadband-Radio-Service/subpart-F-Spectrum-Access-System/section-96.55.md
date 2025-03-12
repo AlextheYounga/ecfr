@@ -1,14 +1,12 @@
 ##### § 96.55 Information gathering and retention. #####
 
-Link to an amendment published at 83 FR 63097, Dec. 7, 2018.
-
 (a) The SAS shall maintain current information on registered CBSDs, the geographic locations and configuration of protected FSS locations as set forth in § 96.17, and the federal Incumbent User Exclusion Zones and Protection Zones.
 
 (1) For registered CBSDs, such information shall include all information required by §§ 96.39 and 96.45.
 
 (2) SAS Administrators must make all information necessary to effectively coordinate operations between and among CBSDs available to other SAS Administrators.
 
-(3) SAS Administrators must make CBSD registration information available to the general public, but they must obfuscate the identities of the licensees providing the information for any public disclosures.
+(3) Upon request, SAS Administrators must make available to the general public aggregated spectrum usage data for any geographic area. Such information must include the total available spectrum and the maximum available contiguous spectrum in the requested area. SAS Administrators shall not disclose specific CBSD registration information to the general public except where such disclosure is authorized by the registrant.
 
 (4) For non-federal Incumbent Users, the SAS shall maintain a record of the location of protected earth stations as well as the all registration information required by § 96.17.
 
@@ -19,3 +17,5 @@ Link to an amendment published at 83 FR 63097, Dec. 7, 2018.
 (d) The SAS shall be technically capable of directly interfacing with any necessary FCC database containing information required for the proper operation of an SAS.
 
 (e) The SAS shall process and retain acknowledgements by all entities registering CBSDs that they understand the risk of possible interference from federal Incumbent User radar operations in the band.
+
+[80 FR 36222, June 23, 2015, as amended at 83 FR 63097, Dec. 7, 2018]

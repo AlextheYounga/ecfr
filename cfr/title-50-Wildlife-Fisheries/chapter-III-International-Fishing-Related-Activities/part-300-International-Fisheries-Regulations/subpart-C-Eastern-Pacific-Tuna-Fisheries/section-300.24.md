@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 83 FR 62734, Dec. 6, 2018.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -76,7 +74,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (jj) Use a shark line in contravention of § 300.27(l).
 
-(kk) Activate the transmission equipment attached to a FAD in a location other than on a purse seine vessel at sea as required in § 300.28(b).
+(kk) When deploying a FAD, activate the transmission equipment attached to a FAD in a location other than on a purse seine vessel at sea as required in § 300.28(b).
 
 (ll) Fail to turn on the tracking equipment for an Active FAD before deploying at sea as required in § 300.28(b).
 
@@ -90,4 +88,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (qq) Deploy, or have onboard a vessel, a FAD in the IATTC Convention Area that fails to comply with the FAD design requirements in § 300.28(e).
 
-[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -1,7 +1,5 @@
 ##### § 20.19 Hearing aid-compatible mobile handsets. #####
 
-Link to an amendment published at 83 FR 63105, Dec. 7, 2018.
-
 (a) *Scope of section; definitions* - (1) *Service providers.* (i) On or after January 1, 2018 for Tier I carriers and April 1, 2018 for service providers other than Tier I carriers, the hearing aid compatibility requirements of this section apply to providers of digital mobile service in the United States to the extent that they offer terrestrial mobile service that enables two-way real-time voice communications among members of the public or a substantial portion of the public, including both interconnected and non-interconnected VoIP services, and such service is provided over frequencies in the 698 MHz to 6 GHz bands.
 
 (ii) Prior to January 1, 2018 for Tier I carriers and April 1, 2018 for service providers other than Tier I carriers, the hearing aid compatibility requirements of this section apply to providers of digital CMRS in the United States to the extent that they offer real-time, two-way switched voice or data service that is interconnected with the public switched network and utilizes an in-network switching facility that enables the provider to reuse frequencies and accomplish seamless hand-offs of subscriber calls, and such service is provided over frequencies in the 698 MHz to 6 GHz bands.
@@ -88,7 +86,7 @@ Link to an amendment published at 83 FR 63105, Dec. 7, 2018.
 
 (i) *In-store testing.* Each service provider must make available for consumers to test, in each retail store owned or operated by the provider, all of its handset models that comply with paragraph (b)(1) of this section.
 
-(ii) *Offering models with differing levels of functionality.* Each service provider must offer its customers a range of hearing aid-compatible models with differing levels of functionality (*e.g.*, operating capabilities, features offered, prices). Each provider may determine the criteria for determining these differing levels of functionality, and must disclose its methodology to the Commission pursuant to paragraph (i)(3)(vii) of this section.
+(ii) *Offering models with differing levels of functionality.* Each service provider must offer its customers a range of hearing aid-compatible models with differing levels of functionality (*e.g.,* operating capabilities, features offered, prices). Each provider may determine the criteria for determining these differing levels of functionality.
 
 (d) Phase-in of requirements relating to inductive coupling capability. The following applies to each manufacturer and service provider that offers wireless handsets used in the delivery of the services specified in paragraph (a) of this section and that does not fall within the *de minimis* exception set forth in paragraph (e) of this section. However, prior to July 17, 2014 for manufacturers and Tier I carriers and October 17, 2014 for service providers other than Tier I carriers, the requirements of this section do not apply to handset operations over frequency bands and air interfaces for which technical standards are not stated in ANSI C63.19-2007.
 
@@ -150,9 +148,9 @@ Link to an amendment published at 83 FR 63105, Dec. 7, 2018.
 
 (i) *In-store testing.* Each service provider must make available for consumers to test, in each retail store owned or operated by the provider, all of its handset models that comply with paragraph (b)(2) of this section.
 
-(ii) *Offering models with differing levels of functionality.* Each service provider must offer its customers a range of hearing aid-compatible models with differing levels of functionality (*e.g.*, operating capabilities, features offered, prices). Each provider may determine the criteria for determining these differing levels of functionality, and must disclose its methodology to the Commission pursuant to paragraph (i)(3)(vii) of this section.
+(ii) *Offering models with differing levels of functionality.* Each service provider must offer its customers a range of hearing aid-compatible models with differing levels of functionality (*e.g.,* operating capabilities, features offered, prices). Each provider may determine the criteria for determining these differing levels of functionality.
 
-(e) *De minimis exception.* (1)(i) Manufacturers or service providers that offer two or fewer digital wireless handsets in an air interface in the United States are exempt from the requirements of this section in connection with that air interface, except with regard to the reporting requirements in paragraph (i) of this section. Service providers that obtain handsets only from manufacturers that offer two or fewer digital wireless handset models in an air interface in the United States are likewise exempt from the requirements of this section other than paragraph (i) of this section in connection with that air interface.
+(e) *De minimis exception.* (1)(i) Manufacturers or service providers that offer two or fewer digital wireless handsets in an air interface in the United States are exempt from the requirements of this section in connection with that air interface, except with regard to the reporting and certification requirements in paragraph (i) of this section. Service providers that obtain handsets only from manufacturers that offer two or fewer digital wireless handset models in an air interface in the United States are likewise exempt from the requirements of this section other than paragraph (i) of this section in connection with that air interface.
 
 (ii) Notwithstanding paragraph (e)(1)(i) of this section, beginning September 10, 2012, manufacturers that have had more than 750 employees for at least two years and service providers that have had more than 1500 employees for at least two years, and that have been offering handsets over an air interface for at least two years, that offer one or two digital wireless handsets in that air interface in the United States must offer at least one handset model compliant with paragraphs (b)(1) and (b)(2) of this section in that air interface, except as provided in paragraph (e)(1)(iii) of this section. Service providers that obtain handsets only from manufacturers that offer one or two digital wireless handset models in an air interface in the United States, and that have had more than 750 employees for at least two years and have offered handsets over that air interface for at least two years, are required to offer at least one handset model in that air interface compliant with paragraphs (b)(1) and (b)(2) of this section, except as provided in paragraph (e)(1)(iii) of this section. For purposes of this paragraph, employees of a parent, subsidiary, or affiliate company under common ownership or control with a manufacturer or service provider are considered employees of the manufacturer or service provider. Manufacturers and service providers covered by this paragraph must also comply with all other requirements of this section.
 
@@ -188,9 +186,21 @@ This phone has been tested and rated for use with hearing aids for some of the w
 
 (g) *Model designation requirements.* Where a manufacturer has made physical changes to a handset that result in a change in the hearing aid compatibility rating under paragraph (b)(1) or (b)(2) of this section, the altered handset must be given a model designation distinct from that of the handset prior to its alteration.
 
-(h) *Web site requirements.* Beginning January 15, 2009, each manufacturer and service provider subject to this section that operates a publicly-accessible Web site must make available on its Web site a list of all hearing aid-compatible models currently offered, the ratings of those models, and an explanation of the rating system. Each service provider must also specify on its Web site, based on the levels of functionality that the service provider has defined, the level that each hearing aid-compatible model falls under as well as an explanation of how the functionality of the handsets varies at the different levels.
+(h) *Website and record retention requirements.*(1) Each manufacturer and service provider that operates a publicly-accessible website must make available on its website a list of all hearing aid-compatible models currently offered, the ratings of those models, and an explanation of the rating system. Each service provider must also specify on its website, based on the levels of functionality and rating that the service provider has defined, the level that each hearing aid-compatible model falls under, as well as an explanation of how the functionality of the handsets varies at the different levels. Each service provider must also include on its website: A list of all non-hearing aid-compatible models currently offered, including the level of functionality that each of those models falls under, an explanation of how the functionality of the handsets varies at the different levels as well as a link to the current FCC web page containing information about the wireless hearing aid compatibility rules and service providers' obligations. Each service provider must also include the marketing model name/number(s) and FCC ID number of each hearing aid-compatible and non-hearing aid-compatible model currently offered.
 
-(i) *Reporting requirements* - (1) *Reporting dates.* Manufacturers shall submit reports on efforts toward compliance with the requirements of this section on January 15, 2009 and on July 15, 2009, and on an annual basis on July 15 thereafter. Service providers shall submit reports on efforts toward compliance with the requirements of this section on January 15, 2009, and annually thereafter. Information in the reports must be up-to-date as of the last day of the calendar month preceding the due date of the report.
+(2) Service providers must maintain on their website either:
+
+(i) A link to a third-party website as designated by the Commission or Wireless Telecommunications Bureau with information regarding hearing aid-compatible and non-hearing aid-compatible handset models; or
+
+(ii) A clearly marked list of hearing aid-compatible handset models that are no longer offered if the calendar month/year that model was last offered is within 24 months of the current calendar month/year and was last offered in January 2018 or later along with the information listed in paragraph (h)(1) of this section for each hearing aid-compatible handset.
+
+(3) If the Wireless Telecommunications Bureau determines that the third-party website has been eliminated or is not updated in a timely manner, it may select another website or require service providers to comply with paragraph (h)(2)(ii) of this section.
+
+(4) The information on the website must be updated within 30 days of any relevant changes, and any website pages containing information so updated must indicate the day on which the update occurred.
+
+(5) Service providers must maintain internal records including the ratings, if applicable, of all hearing aid-compatible and non-hearing aid-compatible models no longer offered (if the calendar month/year that model was last offered is within 24 months of the current calendar month/year and was last offered in January 2018 or later); for models no longer offered (if the calendar month/year that model was last offered is within 24 months of the current calendar month/year), the calendar months and years each hearing aid-compatible and non-hearing aid-compatible model was first and last offered; and the marketing model name/number(s) and FCC ID number of each hearing aid-compatible and non-hearing aid-compatible model no longer offered (if the calendar month/year that model was last offered is within 24 months of the current calendar month/year and was last offered in January 2018 or later).
+
+(i) *Reporting requirements* - (1) *Reporting and certification dates.* Manufacturers shall submit reports on efforts toward compliance with the requirements of this section on an annual basis on July 15. Service providers shall submit certifications on their compliance with the requirements of this section by January 15 of each year. Information in each report and certification must be up-to-date as of the last day of the calendar month preceding the due date of each report and certification.
 
 (2) *Content of manufacturer reports.* Reports filed by manufacturers must include:
 
@@ -218,33 +228,29 @@ Note to paragraph (i)(2):
 
 For reports due on January 15, 2009, information provided with respect to paragraphs (i)(2)(ii) through(i)(2)(v) and (i)(2)(vii) and (i)(2)(viii) need be provided only for the six-month period from July 1 to December 31, 2008.
 
-(3) *Content of service provider reports.* Reports filed by service providers must include:
+(3) *Content of service provider certifications.* Certifications filed by service providers must include:
 
-(i) Compliant handset models offered to customers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+(i) The name of the signing executive and contact information;
 
-(ii) For each compliant model, the air interface(s) and frequency band(s) over which it operates, the hearing aid compatibility ratings for each frequency band and air interface under ANSI Standard C63.19, and the months in which the model was available since the most recent report;
+(ii) The company(ies) covered by the certification;
 
-(iii) Non-compliant models offered since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+(iii) The FCC Registration Number (FRN);
 
-(iv) For each non-compliant model, the air interface(s) over which it operates and the months in which the model was available since the most recent report;
+(iv) If the service provider is subject to paragraph (h) of this section, the website address of the page(s) containing the required information regarding handset models;
 
-(v) Total numbers of compliant and non-compliant models offered to customers for each air interface over which the service provider offers service as of the time of the report;
+(v) The percentage of handsets offered that are hearing aid-compatible (providers will derive this percentage by determining the number of hearing aid-compatible handsets offered across all air interfaces during the year divided by the total number of handsets offered during the year); and
 
-(vi) Information related to the retail availability of compliant handset models;
+(vi) The following language:
 
-(vii) The levels of functionality into which the compliant handsets fall and an explanation of the service provider's methodology for determining levels of functionality;
+I am a knowledgeable executive [of company x] regarding compliance with the Federal Communications Commission's wireless hearing aid compatibility requirements at a wireless service provider covered by those requirements.
 
-(viii) Status of product labeling;
+I certify that the provider was [(in full compliance/not in full compliance)] [choose one] at all times during the applicable time period with the Commission's wireless hearing aid compatibility deployment benchmarks and all other relevant wireless hearing aid compatibility requirements.
 
-(ix) Outreach efforts; and
+The company represents and warrants, and I certify by this declaration under penalty of perjury pursuant to 47 CFR 1.16 that the above certification is consistent with 47 CFR 1.17, which requires truthful and accurate statements to the Commission. The company also acknowledges that false statements and misrepresentations to the Commission are punishable under Title 18 of the U.S. Code and may subject it to enforcement action pursuant to Sections 501 and 503 of the Act.
 
-(x) If the service provider maintains a public Web site, the Web site address of the page(s) containing the information regarding hearing aid-compatible handset models required by paragraph (h) of this section.
+(vii) If the company selected that it was not in full compliance, an explanation of which wireless hearing aid compatibility requirements it was not in compliance with, when the non-compliance began and (if applicable) ended with respect to each requirement.
 
-Note to paragraph (i)(3):
-
-For reports due on January 15, 2009, information provided with respect to paragraphs (i)(3)(i) through (i)(3)(iv) and (i)(3)(vi) through (i)(3)(viii) need be provided only for the six-month period from July 1 to December 31, 2008.
-
-(4) *Format.* The Wireless Telecommunications Bureau is delegated authority to approve or prescribe formats and methods for submission of these reports. Any format that the Bureau may approve or prescribe shall be made available on the Bureau's Web site.
+(4) *Format.* The Wireless Telecommunications Bureau is delegated authority to approve or prescribe formats and methods for submission of the reports and certifications required by this section. Any format that the Bureau may approve or prescribe shall be made available on the Bureau's website.
 
 (j) *Enforcement.* Enforcement of this section is hereby delegated to those states that adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within six (6) months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set forth in part 68, subpart E of this chapter are to be followed.
 
@@ -262,4 +268,6 @@ For reports due on January 15, 2009, information provided with respect to paragr
 
 (2) [Reserved]
 
-[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018]
+(m) *Compliance date.* Paragraphs (e), (h), and (i) of this section contain new or modified information-collection and recordkeeping requirements adopted in FCC 18-167. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
+
+[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018]

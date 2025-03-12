@@ -1,10 +1,8 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 83 FR 62734, Dec. 6, 2018.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
-*Active FAD* means a FAD that is equipped with gear capable of tracking location, such as radio or satellite buoys. A FAD with this equipment attached shall be considered an Active FAD unless/until the equipment is removed and the vessel owner or operator notifies the IATTC or HMS Branch that the FAD is no longer active (*i.e.,* deactivated).
+*Active FAD* means a FAD whose location is being tracked by the vessel owner or operator using tracking equipment, such as radio or satellite buoys. A FAD shall be considered an Active FAD unless/until the vessel is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is no longer active (*i.e.,* deactivated).
 
 *Commercial* with respect to commercial fishing, means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce through sale, barter or trade.
 
@@ -39,6 +37,8 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 *Land* or *Landing* means to begin transfer of fish from a fishing vessel. Once transfer begins, all fish on board the vessel are counted as part of the landing.
 
 *Longline gear* means a type of fishing gear consisting of a main line that exceeds 1 nautical mile in length, is suspended horizontally in the water column anchored, floating, or attached to a vessel, and from which branch or dropper lines with hooks are attached.
+
+*Mesh size* means the distance between the inside of one knot to the inside of the opposing knot when the mesh is stretched, regardless of twine size.
 
 *Mobulid ray* means any animal in the family Mobulidae, which includes manta rays (*Manta spp.*) and devil rays (*Mobula spp.*).
 
@@ -78,4 +78,4 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *VMS unit,* sometimes known as a “mobile transmitting unit,” means a transceiver or communications device, including all hardware and software that is carried and operated on a vessel as part of a VMS.
 
-[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

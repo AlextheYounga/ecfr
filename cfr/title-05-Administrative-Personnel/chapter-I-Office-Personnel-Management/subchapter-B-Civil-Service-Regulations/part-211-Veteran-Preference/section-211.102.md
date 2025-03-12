@@ -1,7 +1,5 @@
 ##### § 211.102 Definitions. #####
 
-Link to an amendment published at 83 FR 63042, Dec. 7, 2018.
-
 For the purposes of preference in Federal employment, the following definitions apply:
 
 (a) *Veteran* means a person who has been discharged or released from active duty in the armed forces under honorable conditions, or who has a certification as defined in paragraph (h) of this section, if the active duty service was performed:
@@ -48,4 +46,4 @@ For the purposes of preference in Federal employment, the following definitions 
 
 (h) *Certification* means any written document from the armed forces that certifies the service member is expected to be discharged or released from active duty service in the armed forces under honorable conditions not later than 120 days after the date the certification is submitted for consideration in the hiring process, at the time and in the manner prescribed by the applicable job opportunity announcement. Prior to appointment, the service member's character of service and qualifying discharge or release must be verified through a DD form 214 or equivalent documentation.
 
-[81 FR 83109, Nov. 21, 2016, as amended at 81 FR 94909, Dec. 27, 2016]
+[81 FR 83109, Nov. 21, 2016, as amended at 81 FR 94909, Dec. 27, 2016; 83 FR 63042, Dec. 7, 2018]

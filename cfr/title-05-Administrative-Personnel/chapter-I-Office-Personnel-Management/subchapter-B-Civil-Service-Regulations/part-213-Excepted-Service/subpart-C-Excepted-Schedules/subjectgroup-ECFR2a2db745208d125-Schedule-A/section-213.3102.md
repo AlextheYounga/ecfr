@@ -54,7 +54,7 @@
 
 (t) [Reserved]
 
-(u) *Appointment of persons with intellectual disabilities, severe physical disabilities, or psychiatric disabilities* - (1) *Purpose.* An agency may appoint, on a permanent, time-limited, or temporary basis, a person with an intellectual disability, a severe physical disability, or a psychiatric disability according to the provisions described below.
+(u) *Appointment of persons with intellectual disabilities, severe physical disabilities, or psychiatric disabilities*—(1) *Purpose.* An agency may appoint, on a permanent, time-limited, or temporary basis, a person with an intellectual disability, a severe physical disability, or a psychiatric disability according to the provisions described below.
 
 (2) *Definition.* “Intellectual disabilities” means only those disabilities that would have been encompassed by the term “mental retardation” in previous iterations of this regulation and the associated Executive order, Executive Order 12125, dated March 15, 1979.
 
@@ -94,4 +94,4 @@
 
 (ll) Positions as needed of readers for blind employees, interpreters for deaf employees and personal assistants for handicapped employees, filled on a full time, part-time, or intermittent basis.
 
-(5 U.S.C. 3301, 3307, 8337(h); 5 U.S.C. 3301, 3302; E.O. 12364, 47 FR 22931)[47 FR 28902, July 2, 1982]Editorial Note:For Federal Register citations affecting § 213.3102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(5 U.S.C. 3301, 3307, 8337(h); 5 U.S.C. 3301, 3302; E.O. 12364, 47 FR 22931)[47 FR 28902, July 2, 1982]Editorial Note:For Federal Register citations affecting § 213.3102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
