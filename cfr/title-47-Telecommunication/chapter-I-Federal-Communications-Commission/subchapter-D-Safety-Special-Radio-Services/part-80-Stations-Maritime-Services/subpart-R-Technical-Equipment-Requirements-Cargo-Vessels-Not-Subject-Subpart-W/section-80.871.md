@@ -1,5 +1,7 @@
 ##### § 80.871 VHF radiotelephone station. #####
 
+Link to an amendment published at 82 FR 27213, June 14, 2017.
+
 (a) All passenger ships irrespective of size and all cargo ships of 300 gross tons and upwards subject to part II of title III of the Communications Act or to the Safety Convention are required to carry a VHF radiotelephone station complying with this subpart. Ships subject only to the Communications Act may use a VHF radiotelephone installation meeting the technical standards of the Bridge-to-Bridge Act to satisfy the watch requirements of § 80.305(a)(3) if the equipment can transmit and receive on 156.800 MHz.
 
 (b) The VHF radiotelephone station must be installed to insure safe and effective operation of the equipment and facilitate repair. It must be protected against vibration, moisture and temperature.

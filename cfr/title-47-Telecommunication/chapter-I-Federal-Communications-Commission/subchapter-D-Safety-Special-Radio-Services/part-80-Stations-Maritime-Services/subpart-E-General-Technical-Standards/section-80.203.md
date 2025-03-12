@@ -1,5 +1,7 @@
 ##### § 80.203 Authorization of transmitters for licensing. #####
 
+Link to an amendment published at 82 FR 27213, June 14, 2017.
+
 (a) Each transmitter authorized in a station in the maritime services after September 30, 1986, except as indicated in paragraphs (g), (h) and (i) of this section, must be certificated by the Commission for part 80 operations. The procedures for certification are contained in part 2 of this chapter. Transmitters of a model authorized before October 1, 1986 will be considered type accepted for use in ship or coast stations as appropriate.
 
 (b) The external controls, of maritime station transmitters capable of operation in the 156-162 MHz band and manufactured in or imported into the United States after August 1, 1990, or sold or installed after August 1, 1991, must provide for selection of only maritime channels for which the maritime station is authorized. Such transmitters must not be capable of being programmed by station operators using external controls to transmit on channels other than those programmed by the manufacturer, service or maintenance personnel.

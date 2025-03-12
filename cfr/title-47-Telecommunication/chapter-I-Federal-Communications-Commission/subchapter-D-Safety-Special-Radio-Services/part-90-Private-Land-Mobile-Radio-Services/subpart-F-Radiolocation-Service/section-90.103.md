@@ -1,5 +1,7 @@
 ##### § 90.103 Radiolocation Service. #####
 
+Link to an amendment published at 82 FR 27214, June 14, 2017.
+
 (a) *Eligibility.* The following persons are eligible for authorizations in the Radiolocation Service to operate stations to determine distance, direction, speed, or position by means of radiolocation devices, for purposes other than navigation:
 
 (1) Any person engaged in a commercial, industrial, scientific, educational, or local government activity

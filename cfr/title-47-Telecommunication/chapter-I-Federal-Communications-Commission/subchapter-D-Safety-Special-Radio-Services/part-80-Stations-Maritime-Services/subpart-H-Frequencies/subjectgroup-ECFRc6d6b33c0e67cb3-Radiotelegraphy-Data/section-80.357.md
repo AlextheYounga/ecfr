@@ -1,5 +1,7 @@
 ##### § 80.357 Working frequencies for Morse code and data transmission. #####
 
+Link to an amendment published at 82 FR 27213, June 14, 2017.
+
 This section describes the working frequencies assignable to maritime stations for A1A, J2A, J2B (2000-27500 kHz band only), or J2D (2000-27500 kHz band only) radiotelegraphy.
 
 (a) *Ship station frequencies* - (1) *Frequencies in the 100-160 kHz band.* The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station.

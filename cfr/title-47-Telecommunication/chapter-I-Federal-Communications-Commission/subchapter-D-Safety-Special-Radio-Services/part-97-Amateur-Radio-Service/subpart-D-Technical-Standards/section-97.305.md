@@ -1,5 +1,7 @@
 ##### § 97.305 Authorized emission types. #####
 
+Link to an amendment published at 82 FR 27214, June 14, 2017.
+
 (a) Except as specified elsewhere in this part, an amateur station may transmit a CW emission on any frequency authorized to the control operator.
 
 (b) A station may transmit a test emission on any frequency authorized to the control operator for brief periods for experimental purposes, except that no pulse modulation emission may be transmitted on any frequency where pulse is not specifically authorized and no SS modulation emission may be transmitted on any frequency where SS is not specifically authorized.

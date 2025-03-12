@@ -1,5 +1,7 @@
 ##### § 80.373 Private communications frequencies. #####
 
+Link to an amendment published at 82 FR 27213, June 14, 2017.
+
 This section describes the carrier frequencies assignable for ship-to-ship and ship-to-coast private communications.
 
 (a) *Special requirements for private coast stations.* Assignment to private coast stations of radiotelephony frequencies in the 2000-27500 kHz band are subject to the following:

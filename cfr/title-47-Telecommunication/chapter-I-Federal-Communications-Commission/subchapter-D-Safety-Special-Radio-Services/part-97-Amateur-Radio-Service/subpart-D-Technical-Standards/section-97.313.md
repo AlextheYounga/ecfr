@@ -1,5 +1,7 @@
 ##### § 97.313 Transmitter power standards. #####
 
+Link to an amendment published at 82 FR 27216, June 14, 2017.
+
 (a) An amateur station must use the minimum transmitter power necessary to carry out the desired communications.
 
 (b) No station may transmit with a transmitter power exceeding 1.5 kW PEP.

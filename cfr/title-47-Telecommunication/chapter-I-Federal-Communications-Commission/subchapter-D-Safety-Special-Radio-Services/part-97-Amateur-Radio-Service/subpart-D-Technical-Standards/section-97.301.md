@@ -1,5 +1,7 @@
 ##### § 97.301 Authorized frequency bands. #####
 
+Link to an amendment published at 82 FR 27214, June 14, 2017.
+
 The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC.
 
 (a) For a station having a control operator who has been granted a Technician, General, Advanced, or Amateur Extra Class operator license or who holds a CEPT radio-amateur license or IARP of any class:

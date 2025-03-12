@@ -1,5 +1,7 @@
 ##### § 97.3 Definitions. #####
 
+Link to an amendment published at 82 FR 27214, June 14, 2017.
+
 (a) The definitions of terms used in part 97 are:
 
 (1) *Amateur operator.* A person named in an amateur operator/primary license station grant on the ULS consolidated licensee database to be the control operator of an amateur station.

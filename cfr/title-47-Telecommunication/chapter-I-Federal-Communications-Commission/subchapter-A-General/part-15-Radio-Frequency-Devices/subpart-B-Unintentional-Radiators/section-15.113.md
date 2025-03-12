@@ -1,5 +1,7 @@
 ##### § 15.113 Power line carrier systems. #####
 
+Link to an amendment published at 82 FR 27213, June 14, 2017.
+
 Power line carrier systems, as defined in § 15.3(t), are subject only to the following requirements:
 
 (a) A power utility operating a power line carrier system shall submit the details of all existing systems plus any proposed new systems or changes to existing systems to an industry-operated entity as set forth in § 90.35(g) of this chapter. No notification to the FCC is required.

@@ -1,5 +1,7 @@
 ##### § 80.215 Transmitter power. #####
 
+Link to an amendment published at 82 FR 27213, June 14, 2017.
+
 (a) Transmitter power shown on the radio station authorization is the maximum power the licensee is authorized to use. Power is expressed in the following terms:
 
 (1) For single sideband emission: Peak evelope power;

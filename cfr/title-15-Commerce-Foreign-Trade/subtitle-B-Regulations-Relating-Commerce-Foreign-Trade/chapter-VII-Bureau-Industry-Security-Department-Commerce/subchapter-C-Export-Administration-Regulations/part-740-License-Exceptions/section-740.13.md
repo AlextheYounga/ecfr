@@ -1,6 +1,6 @@
 ##### § 740.13 Technology and software - unrestricted (TSU). #####
 
-This license exception authorizes exports and reexports of operation technology and software; sales technology and software; software updates (bug fixes); “mass market” software subject to the General Software Note; and encryption source code (and corresponding object code) that would be considered publicly available under § 734.3(b)(3) of the EAR. Note that encryption software subject to the EAR is not subject to the General Software Note (see paragraph (d)(2) of this section).
+This license exception authorizes exports and reexports of operation technology and software; sales technology and software; software updates (bug fixes); “mass market” software subject to the General Software Note; and release of technology and source code in the United States by U.S. universities to their bona fide and full time regular employees. Note that encryption software subject to the EAR is not subject to the General Software Note (see paragraph (d)(2) of this section).
 
 (a) *Operation technology and software* - (1) *Scope.* The provisions of paragraph (a) permit exports and reexports of operation technology and software. “Operation technology” is the minimum technology necessary for the installation, operation, maintenance (checking), or repair of those commodities or software that are lawfully exported or reexported under a license, a License Exception, or NLR. The “minimum necessary” operation technology does not include technology for development or production and includes use technology only to the extent required to ensure safe and efficient use of the commodity or software. Individual entries in the software and technology subcategories of the CCL may further restrict the export or reexport of operation technology. This paragraph (a) authorizes training, provided the training is limited to the operation, maintenance and repair technology identified in this paragraph.
 
@@ -92,4 +92,4 @@ Neither this section nor its use means that the U.S. Government intends, or is c
 
 (6) The location of the equipment for which the software or technology is intended to be used, including the country of destination.
 
-[61 FR 64283, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996]Editorial Note:For Federal Register citations affecting § 740.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 64283, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996]Editorial Note:For Federal Register citations affecting § 740.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
