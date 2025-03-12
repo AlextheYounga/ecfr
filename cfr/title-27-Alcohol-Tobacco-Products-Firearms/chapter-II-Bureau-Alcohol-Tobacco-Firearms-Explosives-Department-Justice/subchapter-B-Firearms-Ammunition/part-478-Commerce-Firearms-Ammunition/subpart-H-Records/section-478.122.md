@@ -1,5 +1,7 @@
 ##### § 478.122 Records maintained by importers. #####
 
+Link to an amendment published at 87 FR 24743, Apr. 26, 2022.
+
 (a) Each licensed importer shall, within 15 days of the date of importation or other acquisition, record the type, model, caliber or gauge, manufacturer, country of manufacture, and the serial number of each firearm imported or otherwise acquired, and the date such importation or other acquisition was made.
 
 (b) A record of firearms disposed of by a licensed importer to another licensee and a separate record of armor piercing ammunition dispositions to governmental entities, for exportation, or for testing or experimentation authorized under the provisions of § 478.149 shall be maintained by the licensed importer on the licensed premises. For firearms, the record shall show the quantity, type, manufacturer, country of manufacture, caliber or gauge, model, serial number of the firearms so transferred, the name and license number of the licensee to whom the firearms were transferred, and the date of the transaction. For armor piercing ammunition, the record shall show the date of the transaction, manufacturer, caliber or gauge, quantity of projectiles, and the name and address of the purchaser. The information required by this paragraph shall be entered in the proper record book not later than the seventh day following the date of the transaction, and such information shall be recorded under the following formats:
@@ -12,7 +14,7 @@ Importer's Firearms Disposition Record
 
 Importer's Armor Piercing Ammunition Disposition Record
 
-|Date|Manufacturer|Calibur or gauge|Quantity of projectiles|Purchaser - Name and address|
+|Date|Manufacturer|Caliber or gauge|Quantity of projectiles|Purchaser - Name and address|
 |----|------------|----------------|-----------------------|----------------------------|
 |    |            |                |                       |                            |
 

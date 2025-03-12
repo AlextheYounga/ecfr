@@ -1,5 +1,7 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
+Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
+
 As prescribed in 4.1202(a), insert the following provision:
 
 Annual Representations and Certifications (JAN 2022)
@@ -134,11 +136,11 @@ Annual Representations and Certifications (JAN 2022)
 
 (a)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
 
-|    NAICS code    |  Size standard   |
-|------------------|------------------|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+|             NAICS code             |           Size standard            |
+|------------------------------------|------------------------------------|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
 
 [*Contracting Officer to insert NAICS codes and size standards*].
 

@@ -1,5 +1,7 @@
 ##### 4.1103 Procedures. #####
 
+Link to an amendment published at 87 FR 24844, Apr. 26, 2022.
+
 (a) Unless the acquisition is exempt under 4.1102(a), the contracting officer -
 
 (1) Shall verify that the offeror or quoter is registered in SAM (see paragraph (b) of this section) at the time an offer or quotation is submitted;

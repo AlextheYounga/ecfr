@@ -1,5 +1,7 @@
 ##### § 371.111 Must I provide individual shippers with Federal consumer protection information? #####
 
+Link to an amendment published at 87 FR 24446, Apr. 26, 2022.
+
 (a) You must provide potential individual shippers with Federal consumer protection information by one of the following three methods:
 
 (1) Provide a hyperlink on your Internet Web site to the FMCSA Web site containing the information in FMCSA's publications “Ready to Move? - Tips for a Successful Interstate Move” and “Your Rights and Responsibilities When You Move.”

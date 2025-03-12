@@ -1,5 +1,7 @@
 ##### 19.000 Scope of part. #####
 
+Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
+
 (a) This part implements the acquisition-related sections of the Small Business Act (15 U.S.C. 631, *et seq.*), applicable sections of the Armed Services Procurement Act (10 U.S.C. 2302, *et seq.*), 41 U.S.C. 3104, and Executive Order 12138, May 18, 1979. It covers -
 
 (1) The determination that a concern is eligible for participation in the programs identified in this part;

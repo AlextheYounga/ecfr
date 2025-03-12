@@ -1,5 +1,7 @@
 ##### § 478.124 Firearms transaction record. #####
 
+Link to an amendment published at 87 FR 24744, Apr. 26, 2022.
+
 (a) A licensed importer, licensed manufacturer, or licensed dealer shall not sell or otherwise dispose, temporarily or permanently, of any firearm to any person, other than another licensee, unless the licensee records the transaction on a firearms transaction record, Form 4473: *Provided,* That a firearms transaction record, Form 4473, shall not be required to record the disposition made of a firearm delivered to a licensee for the sole purpose of repair or customizing when such firearm or a replacement firearm is returned to the person from whom received.
 
 (b) A licensed manufacturer, licensed importer, or licensed dealer shall retain in alphabetical (by name of purchaser), chronological (by date of disposition), or numerical (by transaction serial number) order, and as a part of the required records, each Form 4473 obtained in the course of transferring custody of the firearms.

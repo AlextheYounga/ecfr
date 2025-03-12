@@ -6,4 +6,4 @@
 
 (c) Each licensee described in this section must have compatible secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees. However, such licensee shall not be considered to be in violation of this requirement if a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee.
 
-[ATF 24P; 87 FR 193, Jan. 4, 2022]
+[ATF 24P, 87 FR 193, Jan. 4, 2022]

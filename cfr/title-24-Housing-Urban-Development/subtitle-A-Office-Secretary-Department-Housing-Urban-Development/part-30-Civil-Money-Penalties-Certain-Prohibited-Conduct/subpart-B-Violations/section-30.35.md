@@ -1,5 +1,7 @@
 ##### § 30.35 Mortgagees and lenders. #####
 
+Link to an amendment published at 87 FR 24420, Apr. 26, 2022.
+
 (a) *General.* The Mortgagee Review Board may initiate a civil money penalty action against any mortgagee or lender who knowingly and materially:
 
 (1) Violates the provisions listed in 12 U.S.C. 1735f-14(b);

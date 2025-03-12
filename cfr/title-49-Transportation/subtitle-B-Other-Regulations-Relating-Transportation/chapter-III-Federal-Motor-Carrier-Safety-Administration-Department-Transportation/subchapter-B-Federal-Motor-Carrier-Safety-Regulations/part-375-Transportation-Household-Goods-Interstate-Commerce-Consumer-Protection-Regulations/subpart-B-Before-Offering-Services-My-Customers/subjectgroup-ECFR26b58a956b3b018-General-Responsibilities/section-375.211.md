@@ -1,5 +1,7 @@
 ##### § 375.211 Must I have an arbitration program? #####
 
+Link to an amendment published at 87 FR 24446, Apr. 26, 2022.
+
 (a) You must have an arbitration program for individual shippers to resolve disputes about property loss and damage and disputes about whether carrier charges in addition to those collected at delivery must be paid. You must establish and maintain an arbitration program with the following 11 minimum elements:
 
 (1) You must design your arbitration program to prevent you from having any special advantage in any case where the claimant resides or does business at a place distant from your principal or other place of business.

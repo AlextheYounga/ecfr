@@ -1,5 +1,7 @@
 ##### 1452.280-3 Subcontracting limitations. #####
 
+Link to an amendment published at 87 FR 20764, Apr. 8, 2022.
+
 A contractor shall not subcontract to other than responsible Indian economic enterprises more than 50 percent of the subcontracted work when the prime contract was awarded under the Buy Indian Act. For this purpose, work to be performed does not include the provision of materials, supplies, or equipment. As prescribed in 1480.601(b), insert the following clause in each written solicitation or contract to provide supplies, services, or covered construction:
 
 Subcontracting Limitations (JUL 2013)

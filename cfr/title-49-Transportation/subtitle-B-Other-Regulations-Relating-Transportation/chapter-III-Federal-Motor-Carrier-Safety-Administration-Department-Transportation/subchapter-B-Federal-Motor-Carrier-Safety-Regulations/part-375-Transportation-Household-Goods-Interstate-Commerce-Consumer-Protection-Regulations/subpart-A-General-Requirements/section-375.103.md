@@ -1,5 +1,7 @@
 ##### § 375.103 What are the definitions of terms used in this part? #####
 
+Link to an amendment published at 87 FR 24446, Apr. 26, 2022.
+
 Terms used in this part are defined as follows. You may find other terms used in these regulations defined in 49 U.S.C. 13102. The definitions contained in this statute control. If terms are used in this part and the terms are neither defined here nor in 49 U.S.C. 13102, the terms will have the ordinary practical meaning of such terms.
 
 *Advertisement* means any communication to the public in connection with an offer or sale of any interstate household goods transportation service. This includes written or electronic database listings of your name, address, and telephone number in an on-line database or displayed on an Internet web site. This excludes listings of your name, address, and telephone number in a telephone directory or similar publication. However, Yellow Pages advertising is included in the definition.

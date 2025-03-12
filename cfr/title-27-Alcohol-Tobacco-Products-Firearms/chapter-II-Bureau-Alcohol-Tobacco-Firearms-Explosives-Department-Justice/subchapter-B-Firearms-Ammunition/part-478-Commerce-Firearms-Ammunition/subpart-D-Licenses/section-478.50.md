@@ -1,5 +1,7 @@
 ##### § 478.50 Locations covered by license. #####
 
+Link to an amendment published at 87 FR 24741, Apr. 26, 2022.
+
 The license covers the class of business or the activity specified in the license at the address specified therein. A separate license must be obtained for each location at which a firearms or ammunition business or activity requiring a license under this part is conducted except:
 
 (a) No license is required to cover a separate warehouse used by the licensee solely for storage of firearms or ammunition if the records required by this part are maintained at the licensed premises served by such warehouse;

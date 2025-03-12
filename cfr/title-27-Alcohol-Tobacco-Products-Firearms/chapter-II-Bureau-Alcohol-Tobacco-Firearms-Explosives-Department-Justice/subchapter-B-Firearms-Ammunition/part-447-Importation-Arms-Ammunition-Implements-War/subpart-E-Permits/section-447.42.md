@@ -1,5 +1,7 @@
 ##### § 447.42 Application for permit. #####
 
+Link to an amendment published at 87 FR 24734, Apr. 26, 2022.
+
 (a)(1) Persons required to obtain a permit as provided in § 447.41 must file a Form 6 - Part I. The application must be signed and dated and must contain the information requested on the form, including:
 
 (i) The name, address, telephone number, license and registration number, if any (including expiration date) of the importer;

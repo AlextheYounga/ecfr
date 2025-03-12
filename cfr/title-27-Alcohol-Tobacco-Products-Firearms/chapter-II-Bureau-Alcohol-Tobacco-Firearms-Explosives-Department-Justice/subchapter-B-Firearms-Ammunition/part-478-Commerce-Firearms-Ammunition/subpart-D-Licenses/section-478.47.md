@@ -1,5 +1,7 @@
 ##### § 478.47 Issuance of license. #####
 
+Link to an amendment published at 87 FR 24741, Apr. 26, 2022.
+
 (a) Upon receipt of a properly executed application for a license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, the Chief, Federal Firearms Licensing Center, shall, upon finding through further inquiry or investigation, or otherwise, that the applicant is qualified, issue the appropriate license. Each license shall bear a serial number and such number may be assigned to the licensee to whom issued for so long as the licensee maintains continuity of renewal in the same location (State).
 
 (b) The Chief, Federal Firearms Licensing Center, shall approve a properly executed application for license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, if:

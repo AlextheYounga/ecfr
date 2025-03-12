@@ -1,5 +1,7 @@
 ##### § 375.401 Must I estimate charges? #####
 
+Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
+
 (a) You must conduct a physical survey of the household goods to be transported and provide the prospective individual shipper with a written estimate, based on the physical survey, of the charges for the transportation and all related services. There are *two exceptions* to the requirement to conduct a physical survey:
 
 (1) If the household goods are located beyond a 50-mile radius of the location of the household goods motor carrier's agent preparing the estimate, the requirement to base the estimate on a physical survey does not apply.

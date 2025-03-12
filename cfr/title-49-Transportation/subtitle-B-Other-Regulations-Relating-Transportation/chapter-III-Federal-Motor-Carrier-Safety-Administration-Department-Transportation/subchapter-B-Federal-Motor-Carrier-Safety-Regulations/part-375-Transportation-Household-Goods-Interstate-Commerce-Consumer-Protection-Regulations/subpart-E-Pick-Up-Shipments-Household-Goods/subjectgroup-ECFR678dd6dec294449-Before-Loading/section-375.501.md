@@ -1,5 +1,7 @@
 ##### § 375.501 Must I write up an order for service? #####
 
+Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
+
 (a) Before you receive a shipment of household goods you will move for an individual shipper, you must prepare an order for service. The order for service must contain the information described in the following 15 items:
 
 (1) Your name and address and the FMCSA U.S. DOT number assigned to the mover who is responsible for performing the service.

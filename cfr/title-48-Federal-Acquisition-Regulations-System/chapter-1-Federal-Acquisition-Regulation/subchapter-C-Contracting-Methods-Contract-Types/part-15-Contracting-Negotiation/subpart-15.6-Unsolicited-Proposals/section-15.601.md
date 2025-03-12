@@ -1,5 +1,7 @@
 ##### 15.601 Definitions. #####
 
+Link to an amendment published at 87 FR 24844, Apr. 26, 2022.
+
 As used in this subpart -
 
 *Advertising material* means material designed to acquaint the Government with a prospective contractor's present products, services, or potential capabilities, or designed to stimulate the Government's interest in buying such products or services.

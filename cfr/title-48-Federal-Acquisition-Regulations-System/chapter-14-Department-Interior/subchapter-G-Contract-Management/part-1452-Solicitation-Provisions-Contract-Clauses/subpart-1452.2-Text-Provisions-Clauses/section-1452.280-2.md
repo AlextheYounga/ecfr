@@ -1,5 +1,7 @@
 ##### 1452.280-2 Notice of Indian economic enterprise set-aside. #####
 
+Link to an amendment published at 87 FR 20764, Apr. 8, 2022.
+
 As prescribed in 1480.503(d)(4) and 1480.504-1(f)(5), insert the following clause in solicitations and contracts involving Indian economic enterprise set-asides. If the solicitation is oral, information substantially identical to that contained in the provision must be given to potential offerors.
 
 Notice of Indian Economic Enterprise Set-aside (JUL 2013)

@@ -1,5 +1,7 @@
 ##### § 375.807 What actions may I take to collect the charges upon my freight bill? #####
 
+Link to an amendment published at 87 FR 24448, Apr. 26, 2022.
+
 (a) You must present a freight bill within 15 days (excluding Saturdays, Sundays, and Federal holidays) of the date of delivery of a shipment at its destination.
 
 (b) The credit period must be seven days (including Saturdays, Sundays, and Federal holidays).

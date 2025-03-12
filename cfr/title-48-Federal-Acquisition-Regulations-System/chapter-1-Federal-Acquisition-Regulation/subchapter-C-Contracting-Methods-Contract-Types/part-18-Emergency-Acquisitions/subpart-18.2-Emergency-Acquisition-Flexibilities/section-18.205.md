@@ -1,5 +1,7 @@
 ##### 18.205 Resources. #####
 
+Link to an amendment published at 87 FR 24844, Apr. 26, 2022.
+
 (a) *National Response Framework.* The National Response Framework (NRF) is a guide to how the Nation conducts all-hazards response. This key document establishes a comprehensive, national, all-hazards approach to domestic incident response. The Framework identifies the key response principles, roles and structures that organize national response. It describes how communities, States, the Federal Government, the private-sector, and nongovernmental partners apply these principles for a coordinated, effective national response. It also describes special circumstances where the Federal Government exercises a larger role, including incidents where Federal interests are involved and catastrophic incidents where a State would require significant support. The NRF is available at *https://www.fema.gov/media-library/assets/documents/117791”*.
 
 (b) *OFPP Guidelines.* The Office of Federal Procurement Policy (OFPP) “Emergency Acquisitions Guide” is available at *https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/procurement\_guides/emergency\_acquisitions\_guide.pdf”.*

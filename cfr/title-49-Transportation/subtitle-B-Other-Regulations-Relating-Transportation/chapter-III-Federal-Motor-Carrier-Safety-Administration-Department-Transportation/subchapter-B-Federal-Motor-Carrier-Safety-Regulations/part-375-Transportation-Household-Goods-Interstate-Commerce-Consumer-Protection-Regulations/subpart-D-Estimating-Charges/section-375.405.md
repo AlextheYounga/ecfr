@@ -1,5 +1,7 @@
 ##### § 375.405 How must I provide a non-binding estimate? #####
 
+Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
+
 (a) If you do not provide a binding estimate to an individual shipper in accordance with § 375.403, you must provide a non-binding written estimate to the individual shipper.
 
 (b) If you provide a non-binding estimate to an individual shipper, you must provide your reasonably accurate estimate of the approximate costs the individual shipper should expect to pay for the transportation and services of the shipment. You must comply with the following ten requirements:

@@ -1,5 +1,7 @@
 ##### § 375.605 How must I notify an individual shipper of any service delays? #####
 
+Link to an amendment published at 87 FR 24448, Apr. 26, 2022.
+
 (a) When you are unable to perform either the pickup or delivery of a shipment on the dates or during the periods specified in the order for service and as soon as the delay becomes apparent to you, you must notify the individual shipper of the delay, at your expense, in one of the following six ways:
 
 (1) By telephone.

@@ -1,5 +1,7 @@
 ##### § 478.92 Identification of firearms and armor piercing ammunition by licensed manufacturers and licensed importers. #####
 
+Link to an amendment published at 87 FR 24741, Apr. 26, 2022.
+
 (a)(1) *Firearms.* You, as a licensed manufacturer or licensed importer of firearms, must legibly identify each firearm manufactured or imported as follows:
 
 (i) By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver thereof an individual serial number. The serial number must be placed in a manner not susceptible of being readily obliterated, altered, or removed, and must not duplicate any serial number placed by you on any other firearm. For firearms manufactured or imported on and after January 30, 2002, the engraving, casting, or stamping (impressing) of the serial number must be to a minimum depth of .003 inch and in a print size no smaller than1/16 inch; and

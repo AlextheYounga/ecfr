@@ -1,5 +1,7 @@
 ##### § 478.125a Personal firearms collection. #####
 
+Link to an amendment published at 87 FR 24746, Apr. 26, 2022.
+
 (a) Notwithstanding any other provision of this subpart, a licensed manufacturer, licensed importer, or licensed dealer is not required to comply with the provisions of § 478.102 or record on a firearms transaction record, Form 4473, the sale or other disposition of a firearm maintained as part of the licensee's personal firearms collection: *Provided,* That
 
 (1) The licensee has maintained the firearm as part of such collection for 1 year from the date the firearm was transferred from the business inventory into the personal collection or otherwise acquired as a personal firearm,

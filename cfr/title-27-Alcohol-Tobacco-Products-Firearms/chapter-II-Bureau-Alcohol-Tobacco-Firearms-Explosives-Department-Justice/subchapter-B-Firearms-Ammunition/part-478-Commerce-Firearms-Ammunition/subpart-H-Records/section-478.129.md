@@ -1,5 +1,7 @@
 ##### § 478.129 Record retention. #####
 
+Link to an amendment published at 87 FR 24746, Apr. 26, 2022.
+
 (a) *Records prior to Act.* Licensed importers and licensed manufacturers may dispose of records of sale or other disposition of firearms prior to December 16, 1968. Licensed dealers and licensed collectors may dispose of all records of firearms transactions that occurred prior to December 16, 1968.
 
 (b) *Firearms transaction record.* Licensees shall retain each Form 4473 and Form 4473(LV) for a period of not less than 20 years after the date of sale or disposition. Where a licensee has initiated a NICS check for a proposed firearms transaction, but the sale, delivery, or transfer of the firearm is not made, the licensee shall record any transaction number on the Form 4473, and retain the Form 4473 for a period of not less than 5 years after the date of the NICS inquiry. Forms 4473 shall be retained in the licensee's records as provided in § 478.124(b): *Provided,* That Forms 4473 with respect to which a sale, delivery or transfer did not take place shall be separately retained in alphabetical (by name of transferee) or chronological (by date of transferee's certification) order.

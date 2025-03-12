@@ -4,4 +4,4 @@
 
 (b) *Issuance of notice.* The notice shall set forth the matters of fact constituting the violations specified, dates, places, and the sections of law and regulations violated. The Director shall afford the licensee 15 days from the date of receipt of the notice in which to request a hearing prior to suspension or revocation of the license, or imposition of a civil fine. If the licensee does not file a timely request for a hearing, the Director shall issue a final notice of suspension or revocation and/or imposition of a civil fine on ATF Form 5300.13, as provided in § 478.74.
 
-[T.D. ATF-415, 63 FR 58278, Oct. 29, 1998, as amended by ATF-27P, 74 FR 1878, Jan. 14, 2009; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF 2008R-15P, 81 FR 32235, May 23, 2016; ATF 24P; 87 FR 193, Jan. 4, 2022]
+[T.D. ATF-415, 63 FR 58278, Oct. 29, 1998, as amended by ATF-27P, 74 FR 1878, Jan. 14, 2009; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF 2008R-15P, 81 FR 32235, May 23, 2016; ATF 24P, 87 FR 193, Jan. 4, 2022]

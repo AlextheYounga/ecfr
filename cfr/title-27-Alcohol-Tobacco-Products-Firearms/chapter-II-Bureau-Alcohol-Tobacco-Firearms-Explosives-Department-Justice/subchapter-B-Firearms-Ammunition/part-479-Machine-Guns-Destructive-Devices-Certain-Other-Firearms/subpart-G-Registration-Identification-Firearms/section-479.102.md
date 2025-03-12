@@ -1,5 +1,7 @@
 ##### § 479.102 How must firearms be identified? #####
 
+Link to an amendment published at 87 FR 24747, Apr. 26, 2022.
+
 (a) You, as a manufacturer, importer, or maker of a firearm, must legibly identify the firearm as follows:
 
 (1) By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver thereof an individual serial number. The serial number must be placed in a manner not susceptible of being readily obliterated, altered, or removed, and must not duplicate any serial number placed by you on any other firearm. For firearms manufactured, imported, or made on and after January 30, 2002, the engraving, casting, or stamping (impressing) of the serial number must be to a minimum depth of .003 inch and in a print size no smaller than1/16 inch; and

@@ -1,5 +1,7 @@
 ##### § 375.217 How must I collect charges upon delivery? #####
 
+Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
+
 (a) You must specify the form of payment when you prepare the estimate. You and your agents must honor the form of payment at delivery, except when a shipper agrees to a change in writing.
 
 (b) You must specify the same form of payment provided in paragraph (a) of this section when you prepare the order for service and the bill of lading.

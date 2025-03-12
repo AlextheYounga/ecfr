@@ -1,5 +1,7 @@
 ##### § 375.403 How must I provide a binding estimate? #####
 
+Link to an amendment published at 87 FR 24447, Apr. 26, 2022.
+
 (a) You may provide a guaranteed binding estimate of the total shipment charges to the individual shipper, so long as it is provided for in your tariff. The individual shipper must pay the amount for the services included in your estimate. You must comply with the following 11 requirements:
 
 (1) You must base the binding estimate on the physical survey unless one of the exceptions provided in § 375.401(a)(1) and (2) applies.

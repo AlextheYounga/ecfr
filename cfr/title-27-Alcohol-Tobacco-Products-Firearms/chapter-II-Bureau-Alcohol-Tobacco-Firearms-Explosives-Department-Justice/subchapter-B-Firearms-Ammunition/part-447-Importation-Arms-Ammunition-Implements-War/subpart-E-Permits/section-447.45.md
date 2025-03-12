@@ -1,5 +1,7 @@
 ##### § 447.45 Importation. #####
 
+Link to an amendment published at 87 FR 24734, Apr. 26, 2022.
+
 (a) Articles subject to the import permit procedures of this subpart imported into the United States may be released from Customs custody to the person authorized to import same upon his showing that he has a permit for the importation of the article or articles to be released. For articles in Categories I and III imported by a registered importer, the importer will also submit to Customs a copy of the export license authorizing the export of the article or articles from the exporting country. If the exporting country does not require issuance of an export license, the importer must submit a certification, under penalty of perjury, to that effect.
 
 (1) In obtaining the release from Customs custody of an article imported pursuant to a permit, the permit holder will prepare and file Form 6A according to its instructions.

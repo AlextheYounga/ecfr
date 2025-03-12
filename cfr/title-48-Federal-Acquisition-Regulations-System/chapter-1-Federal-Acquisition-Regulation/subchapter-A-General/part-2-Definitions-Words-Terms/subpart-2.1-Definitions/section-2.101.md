@@ -1,5 +1,7 @@
 ##### 2.101 Definitions. #####
 
+Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
+
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or

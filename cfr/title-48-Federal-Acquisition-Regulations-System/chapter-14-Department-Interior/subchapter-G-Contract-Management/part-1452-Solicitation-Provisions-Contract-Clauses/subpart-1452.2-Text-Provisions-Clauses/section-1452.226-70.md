@@ -1,5 +1,7 @@
 ##### 1452.226-70 Indian Preference. #####
 
+Link to an amendment published at 87 FR 20764, Apr. 8, 2022.
+
 As prescribed in 1426.7003(a), insert the following clause in solicitations issued and contracts awarded by the Bureau of Indian Affairs except those pursuant to Title I and to Indian Tribes and Indian Organizations under Title II of Public Law 93-638 (25 U.S.C. 450 *et seq.* and 25 U.S.C. 455 *et seq.,* respectively); a contracting activity other than the Bureau of Indian Affairs when the contract is entered into pursuant to an act specifically authorizing contracts with Indian organizations, and a contracting activity other than the Bureau of Indian Affairs when the work to be performed is specifically for the benefit of Indians and is in addition to any incidental benefits which might otherwise accrue to the general public.
 
 Indian Preference - Department of the Interior (APR 1984)

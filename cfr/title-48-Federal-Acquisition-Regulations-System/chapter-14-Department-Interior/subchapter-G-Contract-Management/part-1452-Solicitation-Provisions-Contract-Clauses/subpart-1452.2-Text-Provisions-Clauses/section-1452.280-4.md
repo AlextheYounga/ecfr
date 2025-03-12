@@ -1,5 +1,7 @@
 ##### 1452.280-4 Indian economic enterprise representation. #####
 
+Link to an amendment published at 87 FR 20764, Apr. 8, 2022.
+
 As prescribed in 1480.801(a), insert the following provision in each written solicitation for supplies, services, or covered construction:
 
 Indian Economic Enterprise Representation (JUL 2013)

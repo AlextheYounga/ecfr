@@ -1,5 +1,7 @@
 ##### 1452.226-71 Indian Preference Program. #####
 
+Link to an amendment published at 87 FR 20764, Apr. 8, 2022.
+
 As prescribed in 1426.7003(b), insert the following clause in all solicitations and contracts awarded by the contracting activity that may exceed $50,000, contain the clause at 1452.226-70, and where it is determined by the Contracting Officer, prior to solicitation, that the work under the contract will be performed in whole or in part on or near an Indian reservation(s). The clause may also be included in solicitations issued and contracts awarded by a contracting activity not exceeding $50,000 that contain the clause at 1452.226-70 and which, in the opinion of the Contracting Officer, offer substantial opportunities for Indian employment, training, and subcontracting.
 
 Indian Preference Program - Department of the Interior (APR 1984)
