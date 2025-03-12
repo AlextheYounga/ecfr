@@ -50,7 +50,7 @@ Table 1 to § 217.11 - Calculation of Maximum Payout Amount
 
 (v) *Other limitations on distributions.* Additional limitations on distributions may apply to a Board-regulated institution under 12 CFR 225.4, 12 CFR 225.8, and 12 CFR 263.202.
 
-(b) *Countercyclical capital buffer amount.* (1) *General.* An advanced approaches Board-regulated institution or a Category III Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with this paragraph (b) for purposes of determining its maximum payout ratio under Table 1 to this section.
+(b) *Countercyclical capital buffer amount* - (1) *General.* An advanced approaches Board-regulated institution or a Category III Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with this paragraph (b) for purposes of determining its maximum payout ratio under Table 1 to this section.
 
 (i) *Extension of capital conservation buffer.* The countercyclical capital buffer amount is an extension of the capital conservation buffer as described in paragraph (a) of this section.
 

@@ -14,7 +14,7 @@ The following provisions and clauses apply to the acquisition of supplies and th
 
 (b)(1)(i) Insert the clause at 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act, in solicitations and contracts if -
 
-(A) The acquisition is for supplies, or for services involving the furnishing of supplies, for use within the United States, and the acquisition value is $25,000 or more, but is less than $180,000;
+(A) The acquisition is for supplies, or for services involving the furnishing of supplies, for use within the United States, and the acquisition value is $25,000 or more, but is less than $182,000;
 
 (B) The acquisition is not for information technology that is a commercial item, using fiscal year 2004 or subsequent fiscal year funds; and
 
@@ -22,23 +22,23 @@ The following provisions and clauses apply to the acquisition of supplies and th
 
 (ii) If the acquisition value is $25,000 or more but is less than $50,000, use the clause with its *Alternate I.*
 
-(iii) If the acquisition value is $50,000 or more but is less than $80,317, use the clause with its *Alternate II.*
+(iii) If the acquisition value is $50,000 or more but is less than $83,099, use the clause with its *Alternate II.*
 
-(iv) If the acquisition value is $80,317 or more but is less than $100,000, use the clause with its Alternate III.
+(iv) If the acquisition value is $83,099 or more but is less than $100,000, use the clause with its Alternate III.
 
 (2)(i) Insert the provision at 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate, in solicitations containing the clause at 52.225-3.
 
 (ii) If the acquisition value is $25,000 or more but is less than $50,000, use the provision with its *Alternate I.*
 
-(iii) If the acquisition value is $50,000 or more but is less than $80,317, use the provision with its *Alternate II.*
+(iii) If the acquisition value is $50,000 or more but is less than $83,099, use the provision with its *Alternate II.*
 
-(iv) If the acquisition value is $80,317 or more, but is less than $100,000, use the provision with its Alternate III.
+(iv) If the acquisition value is $83,099 or more, but is less than $100,000, use the provision with its Alternate III.
 
-(c)(1) Insert the clause at 52.225-5, Trade Agreements, in solicitations and contracts valued at $180,000 or more, if the acquisition is covered by the WTO GPA applies (see subpart 25.4) and the agency has determined that the restrictions of the Buy American statute are not applicable to U.S.-made end products. If the agency has not made such a determination, the contracting officer must follow agency procedures.
+(c)(1) Insert the clause at 52.225-5, Trade Agreements, in solicitations and contracts valued at $182,000 or more, if the acquisition is covered by the WTO GPA applies (see subpart 25.4) and the agency has determined that the restrictions of the Buy American statute are not applicable to U.S.-made end products. If the agency has not made such a determination, the contracting officer must follow agency procedures.
 
 (2) Insert the provision at 52.225-6, Trade Agreements Certificate, in solicitations containing the clause at 52.225-5.
 
-(d) Insert the provision at 52.225-7, Waiver of Buy American Statute for Civil Aircraft and Related Articles, in solicitations for civil aircraft and related articles (see 25.407), if the acquisition value is less than $180,000.
+(d) Insert the provision at 52.225-7, Waiver of Buy American Statute for Civil Aircraft and Related Articles, in solicitations for civil aircraft and related articles (see 25.407), if the acquisition value is less than $182,000.
 
 (e) Insert the clause at 52.225-8, Duty-Free Entry, in solicitations and contracts for supplies that may be imported into the United States and for which duty-free entry may be obtained in accordance with 25.903(a), if the value of the acquisition -
 

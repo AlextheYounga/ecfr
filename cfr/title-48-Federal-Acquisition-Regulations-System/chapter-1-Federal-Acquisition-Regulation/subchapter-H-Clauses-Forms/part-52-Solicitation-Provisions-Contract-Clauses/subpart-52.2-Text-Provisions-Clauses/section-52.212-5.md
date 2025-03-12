@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (OCT 2019)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JAN 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -90,7 +90,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (25) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (OCT 2019) (E.O. 13126).
+\_\_ (26) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2020) (E.O. 13126).
 
 \_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 

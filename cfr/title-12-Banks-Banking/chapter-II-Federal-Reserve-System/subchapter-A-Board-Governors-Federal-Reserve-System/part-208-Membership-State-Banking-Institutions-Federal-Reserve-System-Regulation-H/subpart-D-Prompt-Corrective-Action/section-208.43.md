@@ -18,7 +18,7 @@
 
 (2) For a qualifying community banking organization (as defined in § 217.12 of this chapter), that has elected to use the community bank leverage ratio framework (as defined in § 217.12 of this chapter), the leverage ratio calculated in accordance with § 217.12(b) of this chapter is used to determine the well capitalized capital category under paragraph (b)(1)(i)(A) through (D) of this section.
 
-(b) Capital categories. For purposes of section 38 of the FDI Act and this subpart, a member bank is deemed to be:
+(b) *Capital categories.* For purposes of section 38 of the FDI Act and this subpart, a member bank is deemed to be:
 
 (1)(i) “Well capitalized” if:
 

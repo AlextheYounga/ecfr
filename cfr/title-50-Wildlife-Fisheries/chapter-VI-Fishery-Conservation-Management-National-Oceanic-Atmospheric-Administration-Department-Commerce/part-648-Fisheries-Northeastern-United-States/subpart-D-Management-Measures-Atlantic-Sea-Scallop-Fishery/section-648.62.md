@@ -1,5 +1,7 @@
 ##### § 648.62 Northern Gulf of Maine (NGOM) Management Program. #####
 
+Link to an amendment published at 85 FR 2324, Jan. 15, 2020.
+
 (a) The NGOM scallop management area is the area north of 42°20' N. lat. and within the boundaries of the Gulf of Maine Scallop Dredge Exemption Area as specified in § 648.80(a)(11). To fish for or possess scallops in the NGOM scallop management area, a vessel must have been issued a scallop permit as specified in § 648.4(a)(2).
 
 (1) If a vessel has been issued a NGOM scallop permit, the vessel is restricted to fishing for or possessing scallops only in the NGOM scallop management area.
@@ -31,4 +33,4 @@
 
 (d) *Gear restrictions.* Except scallop vessels issued a limited access scallop permit pursuant to § 648.4(a)(2)(i) that have properly declared a NGOM trip under the scallop RSA program, the combined dredge width in use by, or in possession on board, LAGC scallop vessels fishing in the NGOM scallop management area may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
 
-[73 FR 20131, Apr. 14, 2008, as amended at 75 FR 36576, June 28, 2010; 76 FR 43770, 43797, July 21, 2011; 77 FR 20741, Apr. 6, 2012; 78 FR 27108, May 9, 2013; 79 FR 52580, Sept. 4, 2014; 81 FR 26736, May 4, 2016; 81 FR 76529, Nov. 3, 2016; 82 FR 15163, Mar. 27, 2017; 83 FR 12862, Mar. 26, 2018; 84 FR 11445, Apr. 1, 2019]
+[73 FR 20131, Apr. 14, 2008, as amended at 75 FR 36576, June 28, 2010; 76 FR 43770, 43797, July 21, 2011; 77 FR 20741, Apr. 6, 2012; 78 FR 27108, May 9, 2013; 79 FR 52580, Sept. 4, 2014; 81 FR 26786, May 4, 2016; 81 FR 76529, Nov. 3, 2016; 82 FR 15163, Mar. 27, 2017; 83 FR 12862, Mar. 26, 2018; 84 FR 11445, Apr. 1, 2019]

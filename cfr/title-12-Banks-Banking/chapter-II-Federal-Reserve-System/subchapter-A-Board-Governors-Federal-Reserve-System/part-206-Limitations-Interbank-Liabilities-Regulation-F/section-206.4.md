@@ -46,4 +46,4 @@
 
 (ii) An asset is not considered a “quality asset” if any other loans to the primary obligor on the asset have been classified as “substandard,” “doubtful,” or “loss,” or treated as “other loans specially mentioned” in the most recent report of examination or inspection of the bank or an affiliate prepared by either a federal or a state supervisory agency.
 
-[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003]
+[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended at 68 FR 53283, Sept. 10, 2003]

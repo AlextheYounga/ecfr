@@ -1,7 +1,5 @@
 ##### § 814.104 Original applications. #####
 
-Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
-
 (a) *United States applicant or representative.* The applicant or an authorized representative shall sign the HDE. If the applicant does not reside or have a place of business within the United States, the HDE shall be countersigned by an authorized representative residing or maintaining a place of business in the United States and shall identify the representative's name and address.
 
 (b) *Contents.* Unless the applicant justifies an omission in accordance with paragraph (d) of this section, an HDE shall include:
@@ -24,12 +22,12 @@ Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
 
 (c) *Omission of information.* If the applicant believes that certain information required under paragraph (b) of this section is not applicable to the device that is the subject of the HDE, and omits any such information from its HDE, the applicant shall submit a statement that identifies and justifies the omission. The statement shall be submitted as a separate section in the HDE and identified in the table of contents. If the justification for the omission is not accepted by the agency, FDA will so notify the applicant.
 
-(d) *Address for submissions and correspondence.* Copies of all original HDEs amendments and supplements, as well as any correspondence relating to an HDE, must be sent or delivered to the following:
+(d) *Address for submissions and correspondence.* All original HDEs, amendments and supplements, as well as any correspondence relating to an HDE, must be provided in electronic format. These materials must be sent or delivered to one of the following:
 
-(1) For devices regulated by the Center for Devices and Radiological Health, send to Document Mail Center, 10903 New Hampshire Ave., Bldg. 66, rm. G609, Silver Spring, MD 20993-0002.
+(1) For devices regulated by the Center for Devices and Radiological Health, send it to the current address found on the website *https://www.fda.gov/cdrhsubmissionaddress.*
 
-(2) For devices regulated by the Center for Biologics Evaluation and Research, send this information to the Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002.
+(2) For devices regulated by the Center for Biologics Evaluation and Research, send it to the current address displayed on the website *https://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CBER/ucm385240.htm.*
 
 (3) For devices regulated by the Center for Drug Evaluation and Research, send this information to the Central Document Control Room, Center for Drug Evaluation and Research, Food and Drug Administration, 5901-B Ammendale Rd., Beltsville, MD 20705-1266.
 
-[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 75 FR 20915, Apr. 22, 2010; 79 FR 1740, Jan. 10, 2014; 80 FR 18094, Apr. 3, 2015; 83 FR 7388, Feb. 21, 2018]
+[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 75 FR 20915, Apr. 22, 2010; 79 FR 1740, Jan. 10, 2014; 80 FR 18094, Apr. 3, 2015; 83 FR 7388, Feb. 21, 2018; 84 FR 68340, Dec. 16, 2019]

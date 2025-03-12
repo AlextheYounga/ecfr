@@ -22,4 +22,4 @@
 
 (d) *Review by board of directors.* The policies and procedures established under this section shall be reviewed and approved by the bank's board of directors at least annually.
 
-[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003]
+[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended at 68 FR 53283, Sept. 10, 2003]

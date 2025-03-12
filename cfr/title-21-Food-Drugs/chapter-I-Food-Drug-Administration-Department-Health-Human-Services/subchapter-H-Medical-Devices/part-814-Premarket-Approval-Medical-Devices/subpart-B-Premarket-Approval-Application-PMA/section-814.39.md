@@ -1,7 +1,5 @@
 ##### § 814.39 PMA supplements. #####
 
-Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
-
 (a) After FDA's approval of a PMA, an applicant shall submit a PMA supplement for review and approval by FDA before making a change affecting the safety or effectiveness of the device for which the applicant has an approved PMA, unless the change is of a type for which FDA, under paragraph (e) of this section, has advised that an alternate submission is permitted or is of a type which, under section 515(d)(6)(A) of the act and paragraph (f) of this section, does not require a PMA supplement under this paragraph. While the burden for determining whether a supplement is required is primarily on the PMA holder, changes for which an applicant shall submit a PMA supplement include, but are not limited to, the following types of changes if they affect the safety or effectiveness of the device:
 
 (1) New indications for use of the device.
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
 
 (b) An applicant may make a change in a device after FDA's approval of a PMA for the device without submitting a PMA supplement if the change does not affect the device's safety or effectiveness and the change is reported to FDA in postapproval periodic reports required as a condition to approval of the device, e.g., an editorial change in labeling which does not affect the safety or effectiveness of the device.
 
-(c)(1) All procedures and actions that apply to an application under § 814.20 also apply to PMA supplements except that the information required in a supplement is limited to that needed to support the change. A summary under § 814.20(b)(3) is required for only a supplement submitted for new indications for use of the device, significant changes in the performance or design specifications, circuits, components, ingredients, principles of operation, or physical layout of the device, or when otherwise required by FDA. The applicant shall submit three copies of a PMA supplement and shall include information relevant to the proposed changes in the device. A PMA supplement shall include a separate section that identifies each change for which approval is being requested and explains the reason for each such change. The applicant shall submit additional copies and additional information if requested by FDA. The time frames for review of, and FDA action on, a PMA supplement are the same as those provided in § 814.40 for a PMA.
+(c)(1) All procedures and actions that apply to an application under § 814.20 also apply to PMA supplements except that the information required in a supplement is limited to that needed to support the change. A summary under § 814.20(b)(3) is required for only a supplement submitted for new indications for use of the device, significant changes in the performance or design specifications, circuits, components, ingredients, principles of operation, or physical layout of the device, or when otherwise required by FDA. The applicant shall submit a PMA supplement in electronic format and shall include information relevant to the proposed changes in the device. A PMA supplement shall include a separate section that identifies each change for which approval is being requested and explains the reason for each such change. The applicant shall submit additional information, if requested by FDA, in electronic format. The time frames for review of, and FDA action on, a PMA supplement are the same as those provided in § 814.40 for a PMA.
 
 (2) The supplement must include the following information:
 
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
 
 (d)(1) After FDA approves a PMA, any change described in paragraph (d)(2) of this section to reflect newly acquired information that enhances the safety of the device or the safety in the use of the device may be placed into effect by the applicant prior to the receipt under § 814.17 of a written FDA order approving the PMA supplement provided that:
 
-(i) The PMA supplement and its mailing cover are plainly marked “Special PMA Supplement - Changes Being Effected”;
+(i) The PMA supplement and its mailing cover are plainly marked “Special PMA Supplement—Changes Being Effected”;
 
 (ii) The PMA supplement provides a full explanation of the basis for the changes;
 
@@ -60,4 +58,4 @@ Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
 
 (g) The submission and grant of a written request for an exception or alternative under § 801.128 or § 809.11 of this chapter satisfies the requirement in paragraph (a) of this section.
 
-[51 FR 26364, July 22, 1986, as amended at 51 FR 43344, Dec. 2, 1986; 63 FR 54044, Oct. 8, 1998; 67 FR 9587, Mar. 4, 2002; 69 FR 11313, Mar. 10, 2004; 72 FR 73602, Dec. 28, 2007; 73 FR 49610, Aug. 22, 2008; 79 FR 1740, Jan. 10, 2014]
+[51 FR 26364, July 22, 1986, as amended at 51 FR 43344, Dec. 2, 1986; 63 FR 54044, Oct. 8, 1998; 67 FR 9587, Mar. 4, 2002; 69 FR 11313, Mar. 10, 2004; 72 FR 73602, Dec. 28, 2007; 73 FR 49610, Aug. 22, 2008; 79 FR 1740, Jan. 10, 2014; 84 FR 68340, Dec. 16, 2019]

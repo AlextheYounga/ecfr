@@ -1,12 +1,10 @@
 ##### § 778.215 Conditions for exclusion of benefit-plan contributions under section 7(e)(4). #####
 
-Link to an amendment published at 84 FR 68772, Dec. 16, 2019.
-
 (a) *General rules.* In order for an employer's contribution to qualify for exclusion from the regular rate under section 7(e)(4) of the Act the following conditions must be met:
 
 (1) The contributions must be made pursuant to a specific plan or program adopted by the employer, or by contract as a result of collective bargaining, and communicated to the employees. This may be either a company-financed plan or an employer-employee contributory plan.
 
-(2) The primary purpose of the plan must be to provide systematically for the payment of benefits to employees on account of death, disability, advanced age, retirement, illness, medical expenses, hospitalization, and the like.
+(2) The primary purpose of the plan must be to provide systematically for the payment of benefits to employees on account of death, disability, advanced age, retirement, illness, medical expenses, hospitalization, accident, unemployment, legal services, or other events that could cause significant future financial hardship or expense.
 
 (3) In a plan or trust, either:
 
@@ -22,6 +20,6 @@ Link to an amendment published at 84 FR 68772, Dec. 16, 2019.
 
 (5) The plan must not give an employee the right to assign his benefits under the plan nor the option to receive any part of the employer's contributions in cash instead of the benefits under the plan: *Provided, however,* That if a plan otherwise qualified as a bona fide benefit plan under section 7(e)(4) of the Act, it will still be regarded as a bona fide plan even though it provides, as an incidental part thereof, for the payment to an employee in cash of all or a part of the amount standing to his credit (i) at the time of the severance of the employment relation due to causes other than retirement, disability, or death, or (ii) upon proper termination of the plan, or (iii) during the course of his employment under circumstances specified in the plan and not inconsistent with the general purposes of the plan to provide the benefits described in section 7(e)(4) of the Act.
 
-(b) *Plans under section 401(a) of the Internal Revenue Code.* Where the benefit plan or trust has been approved by the Bureau of Internal Revenue as satisfying the requirements of section 401(a) of the Internal Revenue Code in the absence of evidence to the contrary, the plan or trust will be considered to meet the conditions specified in paragraphs (a)(1), (4), and (5) of this section.
+(b) *Plans under sections of the Internal Revenue Code.* In the absence of evidence to the contrary, where the benefit plan or trust has been approved by the Internal Revenue Service as satisfying the requirements of section 401(a), 403(a), or 403(b) of the Internal Revenue Code, is otherwise maintained pursuant to a written document that the plan sponsor reasonably believes satisfies the requirements of section 401(a), 403(a), 403(b), 408(k) or 408(p) of the Internal Revenue Code, or is sponsored by a government employer that reasonably believes the plan satisfies the requirements of section 457(b) of the Internal Revenue Code, the plan or trust will be considered to meet the conditions specified in paragraphs (a)(1), (2), (4), and (5) of this section.
 
-[33 FR 986, Jan. 26, 1968, as amended at 46 FR 7312, Jan. 23, 1981]
+[33 FR 986, Jan. 26, 1968, as amended at 46 FR 7312, Jan. 23, 1981; 84 FR 68772, Dec. 16, 2019]

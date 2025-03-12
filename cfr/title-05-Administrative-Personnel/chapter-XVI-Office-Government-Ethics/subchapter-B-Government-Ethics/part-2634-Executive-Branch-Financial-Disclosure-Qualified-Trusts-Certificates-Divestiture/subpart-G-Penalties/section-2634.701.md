@@ -9,10 +9,10 @@ Table 1 to § 2634.701
 |                     Date of violation                     |Penalty|
 |-----------------------------------------------------------|-------|
 |Violation occurring between Sept. 14, 2007 and Nov. 2, 2015|$50,000|
-|          Violation occurring after Nov. 2, 2015           |60,517 |
+|          Violation occurring after Nov. 2, 2015           |61,585 |
 
 (c) *Criminal action.* An individual may also be prosecuted under criminal statutes for supplying false information on any financial disclosure report.
 
 (d) *Administrative remedies.* The President, the Vice President, the Director of the Office of Government Ethics, the Secretary concerned, the head of each agency, and the Office of Personnel Management may take appropriate personnel or other action in accordance with applicable law or regulation against any individual for failing to file public or confidential reports required by this part, for filing such reports late, or for falsifying or failing to report required information. This may include adverse action under 5 CFR part 752, if applicable.
 
-[83 FR 33981, July 18, 2018, as amended at 84 FR 6054, Feb. 26, 2019]
+[83 FR 33981, July 18, 2018, as amended at 84 FR 6054, Feb. 26, 2019; 85 FR 2280, Jan. 15, 2020]

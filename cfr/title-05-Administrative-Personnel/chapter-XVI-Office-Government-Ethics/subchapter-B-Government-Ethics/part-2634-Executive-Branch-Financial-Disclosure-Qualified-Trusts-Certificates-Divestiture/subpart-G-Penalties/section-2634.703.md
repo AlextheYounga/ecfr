@@ -7,8 +7,8 @@ Table 1 to § 2634.703
 |                     Date of violation                     |Penalty|
 |-----------------------------------------------------------|-------|
 |Violation occurring between Sept. 29, 1999 and Nov. 2, 2015|$11,000|
-|          Violation occurring after Nov. 2, 2015           |20,134 |
+|          Violation occurring after Nov. 2, 2015           |20,489 |
 
 (b) This remedy shall be in addition to any other remedy available under statutory or common law.
 
-[84 FR 6054, Feb. 26, 2019]
+[85 FR 2280, Jan. 15, 2020]

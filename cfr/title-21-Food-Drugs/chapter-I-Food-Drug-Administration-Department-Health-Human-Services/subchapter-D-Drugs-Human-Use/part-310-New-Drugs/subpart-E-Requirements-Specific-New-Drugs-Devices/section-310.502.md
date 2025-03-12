@@ -1,8 +1,6 @@
 ##### § 310.502 Certain drugs accorded new drug status through rulemaking procedures. #####
 
-Link to an amendment published at 84 FR 68334, Dec. 16, 2019.
-
-(a) The drugs listed in this paragraph have been determined by rulemaking procedures to be new drugs within the meaning of section 201(p) of the act. An approved new drug application under section 505 of the act and part 314 of this chapter is required for marketing the following drugs:
+(a) The drugs listed in this paragraph (a) have been determined by rulemaking procedures to be new drugs within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act. An approved new drug application under section 505 of the Federal Food, Drug, and Cosmetic Act and part 314 of this chapter is required for marketing the following drugs:
 
 (1) Aerosol drug products for human use containing 1,1,1-trichloroethane.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 68334, Dec. 16, 2019.
 
 (10) Parenteral drug products in plastic containers.
 
-(11) Sterilization of drugs by irradiation.
+(11) [Reserved]
 
 (12) Sweet spirits of nitre drug products.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 84 FR 68334, Dec. 16, 2019.
 
 (b) [Reserved]
 
-[62 FR 12084, Mar. 14, 1997, as amended at 64 FR 401, Jan. 5, 1999]
+[62 FR 12084, Mar. 14, 1997, as amended at 64 FR 401, Jan. 5, 1999; 84 FR 68334, Dec. 16, 2019]

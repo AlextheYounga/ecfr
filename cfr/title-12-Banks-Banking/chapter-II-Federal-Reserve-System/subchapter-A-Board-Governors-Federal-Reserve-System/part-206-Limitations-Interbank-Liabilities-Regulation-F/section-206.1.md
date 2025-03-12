@@ -4,4 +4,4 @@
 
 (b) *Scope.* This part applies to all depository institutions insured by the Federal Deposit Insurance Corporation.
 
-[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003]
+[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended at 68 FR 53283, Sept. 10, 2003]

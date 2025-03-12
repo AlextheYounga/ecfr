@@ -1,5 +1,7 @@
 ##### § 648.80 NE Multispecies regulated mesh areas and restrictions on gear and methods of fishing. #####
 
+Link to an amendment published at 85 FR 2324, Jan. 15, 2020.
+
 Except as provided in § 648.17, all vessels must comply with the following minimum mesh size, gear and methods of fishing requirements, unless otherwise exempted or prohibited.
 
 (a) *Gulf of Maine (GOM) and GB Regulated Mesh Areas - (1) GOM Regulated Mesh Area.* The GOM Regulated Mesh Area (copies of a map depicting the area are available from the Regional Administrator upon request) is that area:
@@ -796,11 +798,11 @@ SNE Skate Bait Trawl Exemption Area
 
 (ii) A fishing vessel may not use a net capable of catching NE multispecies if the bars entering or exiting the knots twist around each other.
 
-(3) Pair trawl prohibition. No vessel may fish for NE multispecies while pair trawling, or possess or land NE multispecies that have been harvested by means of pair trawling, except as authorized under paragraph (d) of this section.
+(3) *Pair trawl prohibition.* No vessel may fish for NE multispecies while pair trawling, or possess or land NE multispecies that have been harvested by means of pair trawling, except as authorized under paragraph (d) of this section.
 
 (4) *Brush-sweep trawl prohibition.* No vessel may fish for, possess, or land NE multispecies while fishing with, or while in possession of, brush-sweep trawl gear.
 
-(5) *Net strengthener restrictions when fishing for or possessing small-mesh multispecies* - (i) *Nets of mesh size less than 2.5 inches (6.4 cm).* A vessel lawfully fishing for small-mesh multispecies in the GOM/GB, SNE, or MA Regulated Mesh Areas, as defined in paragraphs (a), (b), and (c) of this section, with nets of mesh size smaller than 2.5 inches (6.4-cm), as measured by methods specified in paragraph (f) of this section, may use net strengtheners (covers, as described at § 648.23(d)), provided that the net strengthener for nets of mesh size smaller than 2.5 inches (6.4 cm) complies with the provisions specified under § 648.23(c).
+(5) *Net strengthener restrictions when fishing for or possessing small-mesh multispecies* - (i) *Nets of mesh size less than 2.5 inches (6.4 cm).* A vessel lawfully fishing for small-mesh multispecies in the GOM/GB, SNE, or MA Regulated Mesh Areas, as defined in paragraphs (a), (b), and (c) of this section, with nets of mesh size smaller than 2.5 inches (6.4 cm), as measured by methods specified in paragraph (f) of this section, may use net strengtheners (covers, as described at § 648.23(a)(3)), provided that the net strengthener for nets of mesh size smaller than 2.5 inches (6.4 cm) complies with the provisions specified under § 648.23(a)(3)(iii).
 
 (ii) *Nets of mesh size equal to or greater than 2.5 inches (6.4 cm) but less than 3 inches (7.6 cm).* A vessel lawfully fishing for small-mesh multispecies in the GOM/GB, SNE, or MA Regulated Mesh Areas, as defined in paragraphs (a), (b), and (c) of this section, with nets with mesh size equal to or greater than 2.5 inches (6.4 cm) but less than 3 inches (7.6 cm) (as measured by methods specified in paragraph (f) of this section, and as applied to the part of the net specified in paragraph (d)(1)(iv) of this section) may use a net strengthener (i.e., outside net), provided the net strengthener does not have an effective mesh opening of less than 6 inches (15.2 cm), diamond or square mesh, as measured by methods specified in paragraph (f) of this section. The inside net (as applied to the part of the net specified in paragraph (d)(1)(iv) of this section) must not be more than 2 ft (61 cm) longer than the outside net, must be the same circumference or smaller than the smallest circumference of the outside net, and must be the same mesh configuration (i.e., both square or both diamond mesh) as the outside net.
 

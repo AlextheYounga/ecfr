@@ -32,4 +32,4 @@
 
 (3) For a correspondent that is a foreign bank organized in a country that has not adopted the risk-based framework of the Basel Capital Accord, the ratios shall be calculated in accordance with the provisions of the Basel Capital Accord.
 
-[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003; 84 FR 61796, Nov. 13, 2019]
+[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended at 68 FR 53283, Sept. 10, 2003; 84 FR 61796, Nov. 13, 2019]

@@ -30,4 +30,4 @@ As used in this part, unless the context requires otherwise:
 
 (h) *U.S. depository institution* means a bank, as defined in § 206.2(a) of this part, other than an insured branch of a foreign bank.
 
-[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003; 84 FR 61796, Nov. 13, 2019]
+[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended at 68 FR 53283, Sept. 10, 2003; 84 FR 61796, Nov. 13, 2019]

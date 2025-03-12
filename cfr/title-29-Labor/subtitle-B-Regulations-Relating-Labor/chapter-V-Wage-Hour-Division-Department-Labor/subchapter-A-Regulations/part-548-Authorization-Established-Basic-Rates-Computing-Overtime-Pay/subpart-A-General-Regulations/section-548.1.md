@@ -1,5 +1,5 @@
 ##### § 548.1 Scope and effect of regulations. #####
 
-Link to an amendment published at 84 FR 68769, Dec. 16, 2019.
+The regulations for computing overtime pay under sections 7(g)(1) and 7(g)(2) of the Fair Labor Standards Act of 1938, as amended (“the Act” or “FLSA”), for employees paid on the basis of a piece rate, or at a variety of hourly rates or piece rates, or a combination thereof, are set forth in §§ 778.415 through 778.421.
 
-The regulations in this part set forth the requirements for authorization of established basic rates to be used in the computation of overtime pay in accordance with section 7(g)(3) of the Fair Labor Standards Act of 1938, as amended. Payment of overtime compensation in accordance with other subsections of section 7 of the Act is explained in part 778 of this title (Interpretative Bulletin on Overtime Compensation).
+[20 FR 5679, Aug. 6, 1955, as amended at 84 FR 68769, Dec. 16, 2019]

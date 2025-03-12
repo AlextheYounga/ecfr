@@ -1,12 +1,10 @@
 ##### § 812.20 Application. #####
 
-Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
-
 (a) *Submission.* (1) A sponsor shall submit an application to FDA if the sponsor intends to use a significant risk device in an investigation, intends to conduct an investigation that involves an exception from informed consent under § 50.24 of this chapter, or if FDA notifies the sponsor that an application is required for an investigation.
 
 (2) A sponsor shall not begin an investigation for which FDA's approval of an application is required until FDA has approved the application.
 
-(3) A sponsor shall submit three copies of a signed “Application for an Investigational Device Exemption” (IDE application), together with accompanying materials, by registered mail or by hand to the address in § 812.19. Subsequent correspondence concerning an application or a supplemental application shall be submitted by registered mail or by hand.
+(3) A sponsor shall submit a signed “Application for an Investigational Device Exemption” (IDE application), together with accompanying materials in electronic format, to one of the addresses in § 812.19, and if eCopy by registered mail or by hand. Subsequent correspondence concerning an application or a supplemental application shall be submitted in electronic format and if eCopy by registered mail or by hand.
 
 (4)(i) A sponsor shall submit a separate IDE for any clinical investigation involving an exception from informed consent under § 50.24 of this chapter. Such a clinical investigation is not permitted to proceed without the prior written authorization of FDA. FDA shall provide a written determination 30 days after FDA receives the IDE or earlier.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
 
 (d) *Information previously submitted.* Information previously submitted to the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, or the Center for Drug Evaluation and Research, as applicable, in accordance with this chapter ordinarily need not be resubmitted, but may be incorporated by reference.
 
-[45 FR 3751, Jan. 18, 1980, as amended at 46 FR 8956, Jan. 27, 1981; 50 FR 16669, Apr. 26, 1985; 53 FR 11252, Apr. 6, 1988; 61 FR 51530, Oct. 2, 1996; 62 FR 40600, July 29, 1997; 64 FR 10942, Mar. 8, 1999; 73 FR 49942, Aug. 25, 2008]
+[45 FR 3751, Jan. 18, 1980, as amended at 46 FR 8956, Jan. 27, 1981; 50 FR 16669, Apr. 26, 1985; 53 FR 11252, Apr. 6, 1988; 61 FR 51530, Oct. 2, 1996; 62 FR 40600, July 29, 1997; 64 FR 10942, Mar. 8, 1999; 73 FR 49942, Aug. 25, 2008; 84 FR 68339, Dec. 16, 2019]
