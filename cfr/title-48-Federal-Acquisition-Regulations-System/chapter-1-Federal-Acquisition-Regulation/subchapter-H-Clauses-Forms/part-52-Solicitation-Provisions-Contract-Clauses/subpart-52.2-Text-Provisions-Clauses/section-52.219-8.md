@@ -4,13 +4,13 @@ As prescribed in 19.708(a), insert the following clause:
 
 Utilization of Small Business Concerns (OCT 2022)
 
-(a) *Definitions.* As used in this contract -
+(a) *Definitions.* As used in this contract—
 
 *HUBZone small business concern* means a small business concern that meets the requirements described in 13 CFR 126.200, certified by the Small Business Administration (SBA) and designated by SBA as a HUBZone small business concern in the Dynamic Small Business Search (DSBS) and SAM.
 
-*Service-disabled veteran-owned small business concern* -
+*Service-disabled veteran-owned small business concern*—
 
-(1) Means a small business concern -
+(1) Means a small business concern—
 
 (i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
@@ -18,11 +18,11 @@ Utilization of Small Business Concerns (OCT 2022)
 
 (2) Service-disabled veteran means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
 
-*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation and qualified as a small business under the criteria and size standards in 13 CFR part 121, including the size standard that corresponds to the NAICS code assigned to the contrac t or subcontract.
+*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation and qualified as a small business under the criteria and size standards in 13 CFR part 121, including the size standard that corresponds to the NAICS code assigned to the contract or subcontract.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that -
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that—
 
-(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by -
+(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
 
@@ -30,13 +30,13 @@ Utilization of Small Business Concerns (OCT 2022)
 
 (2) The management and daily business operations of which are controlled (as defined at 13.CFR 124.106) by individuals, who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 
-*Veteran-owned small business concern* means a small business concern -
+*Veteran-owned small business concern* means a small business concern—
 
 (1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
 (2) The management and daily business operations of which are controlled by one or more veterans.
 
-*Women-owned small business concern* means a small business concern -
+*Women-owned small business concern* means a small business concern—
 
 (1) That is at least 51 percent owned by one or more women, or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
@@ -44,13 +44,13 @@ Utilization of Small Business Concerns (OCT 2022)
 
 (b) It is the policy of the United States that small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns shall have the maximum practicable opportunity to participate in performing contracts let by any Federal agency, including contracts and subcontracts for subsystems, assemblies, components, and related services for major systems. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns.
 
-(c)(1) A joint venture qualifies as a small business concern if -
+(c)(1) A joint venture qualifies as a small business concern if—
 
 (i) Each party to the joint venture qualifies as small under the size standard for the solicitation; or
 
 (ii) The protégé is small under the size standard for the solicitation in a joint venture comprised of a mentor and protégé with an approved mentor-protégé agreement under a SBA mentor-protégé program.
 
-(2) A joint venture qualifies as -
+(2) A joint venture qualifies as—
 
 (i) A service-disabled veteran-owned small business concern if it complies with the requirements in 13 CFR part 125; or
 
@@ -60,7 +60,7 @@ Utilization of Small Business Concerns (OCT 2022)
 
 (e)(1) The Contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
 
-(2) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if -
+(2) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (i) The subcontractor is registered in SAM; and
 

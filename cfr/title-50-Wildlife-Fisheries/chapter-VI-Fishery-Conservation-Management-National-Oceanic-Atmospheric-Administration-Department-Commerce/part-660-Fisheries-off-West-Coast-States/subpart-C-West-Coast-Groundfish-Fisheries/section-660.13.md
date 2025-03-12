@@ -1,6 +1,6 @@
 ##### § 660.13 Recordkeeping and reporting. #####
 
-Link to an amendment published at 87 FR 59713, Oct. 3, 2022.Link to an amendment published at 87 FR 59728, Oct. 3, 2022.
+Link to an amendment published at 87 FR 59728, Oct. 3, 2022.
 
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 
@@ -54,64 +54,72 @@ Link to an amendment published at 87 FR 59713, Oct. 3, 2022.Link to an amendment
 
 (*3*) Limited entry groundfish non-trawl, shorebased IFQ, electronic monitoring,
 
-(*4*) Limited entry midwater trawl, non-whiting shorebased IFQ,
+(*4*) Limited entry midwater trawl, non-whiting shorebased IFQ, observer,
 
-(*5*) Limited entry midwater trawl, Pacific whiting shorebased IFQ, observer,
+(*5*) Limited entry midwater trawl, non-whiting shorebased IFQ, electronic monitoring,
 
-(*6*) Limited entry midwater trawl, Pacific whiting shorebased IFQ, electronic monitoring,
+(*6*) Limited entry midwater trawl, Pacific whiting shorebased IFQ, observer,
 
-(*7*) Limited entry midwater trawl, Pacific whiting catcher/processor sector,
+(*7*) Limited entry midwater trawl, Pacific whiting shorebased IFQ, electronic monitoring,
 
-(*8*) Limited entry midwater trawl, Pacific whiting mothership sector (catcher vessel or mothership), observer,
+(*8*) Limited entry midwater trawl, Pacific whiting catcher/processor sector,
 
-(*9*) Limited entry midwater trawl, Pacific whiting mothership sector (catcher vessel), electronic monitoring,
+(*9*) Limited entry midwater trawl, Pacific whiting mothership sector (catcher vessel or mothership), observer,
 
-(*10*) Limited entry bottom trawl, shorebased IFQ, not including demersal trawl or selective flatfish trawl,
+(*10*) Limited entry midwater trawl, Pacific whiting mothership sector (catcher vessel), electronic monitoring,
 
-(*11*) Limited entry demersal trawl, shorebased IFQ,
+(*11*) Limited entry bottom trawl, shorebased IFQ, not including demersal trawl or selective flatfish trawl, observer,
 
-(*12*) Limited entry selective flatfish trawl, shorebased IFQ,
+(*12*) Limited entry bottom trawl, shorebased IFQ, not including demersal trawl or selective flatfish trawl, electronic monitoring,
 
-(*13*) Non-groundfish trawl gear for pink shrimp,
+(*13*) Limited entry demersal trawl, shorebased IFQ, observer
 
-(*14)* Non-groundfish trawl gear for ridgeback prawn,
+(*14*) Limited entry demersal trawl, shorebased IFQ, electronic monitoring,
 
-(*15*) Non-groundfish trawl gear for California halibut,
+(*15*) Limited entry selective flatfish trawl, shorebased IFQ, observer,
 
-(*16*) Non-groundfish trawl gear for sea cucumber,
+(*16*) Limited entry selective flatfish trawl, shorebased IFQ, electronic monitoring,
 
-(*17*) Open access longline gear for groundfish,
+(*17*) Non-groundfish trawl gear for pink shrimp,
 
-(*18*) Open access Pacific halibut longline gear,
+(*18*) Non-groundfish trawl gear for ridgeback prawn,
 
-(*19*) Open access groundfish trap or pot gear,
+(*19*) Non-groundfish trawl gear for California halibut,
 
-(*20*) Open access Dungeness crab trap or pot gear,
+(*20*) Non-groundfish trawl gear for sea cucumber,
 
-(*21*) Open access prawn trap or pot gear,
+(*21*) Open access longline gear for groundfish,
 
-(*22*) Open access sheephead trap or pot gear,
+(*22*) Open access Pacific halibut longline gear,
 
-(*23*) Open access line gear for groundfish,
+(*23*) Open access groundfish trap or pot gear,
 
-(*24*) Open access HMS line gear,
+(*24*) Open access Dungeness crab trap or pot gear,
 
-(*25*) Open access salmon troll gear,
+(*25*) Open access prawn trap or pot gear,
 
-(*26*) Open access California Halibut line gear,
+(*26*) Open access sheephead trap or pot gear,
 
-(*27*) Open access Coastal Pelagic Species net gear,
+(*27*) Open access line gear for groundfish,
 
-(*28*) Other gear,
+(*28*) Open access HMS line gear,
 
-(*29*) Tribal trawl,
+(*29*) Open access salmon troll gear,
 
-(*30*) Open access California gillnet complex gear, or
+(*30*) Open access California Halibut line gear,
 
-(*31*) Gear testing.
+(*31*) Open access Coastal Pelagic Species net gear,
+
+(*32*) Other gear,
+
+(*33*) Tribal trawl,
+
+(*34*) Open access California gillnet complex gear, or
+
+(*35*) Gear testing.
 
 (B) [Reserved]
 
 (v) Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Vessel owners or operators are responsible for retaining the confirmation code or receipt to verify that a valid declaration report was filed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59713, Oct. 3, 2022]

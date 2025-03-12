@@ -142,6 +142,8 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (ii) It □ is, □ is not a small business joint venture that complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.]
 
+(2) *Veteran-owned small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
+
 (3) *Service-disabled veteran-owned small business concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents as part of its offer that -
 
 (i) It □ is, □ is not a service-disabled veteran-owned small business concern; or

@@ -1,7 +1,5 @@
 ##### § 660.604 Vessel and first receiver responsibilities. #####
 
-Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
-
 (a) *General.* This section lays out the requirements for catcher vessels to obtain an exemption to use EM in place of 100-percent observer coverage required by the Shorebased IFQ Program (§ 660.140(h)(1)(i)) and MS Co-op Program (§ 660.150(j)(1)(i)(B)). Requirements are also described for first receivers receiving landings from EM trips.
 
 (b) *Vessel owner responsibilities.* To use EM under this section, vessel owners must:
@@ -40,21 +38,57 @@ Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
 
 (d) *First receiver responsibilities.* First receivers receiving catch from trips taken under EM must follow special disposition and sorting requirements for prohibited and protected species (*see* § 660.604(u)).
 
-(e) *Electronic Monitoring Authorization.* To obtain an EM Authorization, a vessel owner must submit an initial application to the NMFS West Coast Region Fisheries Permit Office, and then a final application that includes an EM system certification and a vessel monitoring plan (VMP). NMFS will only review complete applications. NMFS will issue a public notice at least 90 calendar days prior to when it will begin accepting applications for EM Authorizations for the first year of the Program. Once NMFS begins accepting applications, vessel owners that want to have their EM Authorizations effective for January 1 of the following calendar year must submit their complete application to NMFS by October 1. Vessel owners that want to have their EM Authorizations effective for May 15 must submit their complete application to NMFS by February 15 of the same year.
+(e) *Electronic Monitoring Authorization.* To obtain an EM Authorization, a vessel owner must submit an initial application to the NMFS West Coast Region Fisheries Permit Office, and then a final application that includes an EM system certification and a vessel monitoring plan (VMP). NMFS will only review complete applications. NMFS will issue a public notice at least 90 calendar days prior to when it will begin accepting applications for EM Authorizations for the first year of the Program. Once NMFS begins accepting applications, vessel owners that want to have their EM Authorizations effective for January 1 of the following calendar year must submit their complete application to NMFS by October 1 of the preceding calendar year. Vessel owners that want to have their EM Authorizations effective for May 15 must submit their complete application to NMFS by February 15 of the same year. In lieu of individual EM Authorizations, a group of eligible vessel owners participating in the shorebased IFQ sector may obtain a group EM Authorization through a self-enforcing agreement. This agreement allows a group of eligible vessels to encourage compliance with the requirements of this section through a private, contractual arrangement. To be considered for a group EM Authorization, a group of vessel owners must submit a completed application package to NMFS for review and approval. As part of a group EM Authorization application, participating vessel owners must agree to conduct fishing operations according to the self-enforcement agreement. For a vessel to be deemed eligible to operate under the agreement, its owner(s) and its operator(s) must have executed a copy of the agreement or an adherence agreement under which they agree to be bound by the agreement's terms. The existence of a self-enforcing agreement among EM vessels does not foreclose the possibility of independent enforcement action by NMFS OLE or authorized officers.
 
-(1) *Initial application.* To be considered for an EM Authorization, the vessel owner must submit a completed application form provided by NMFS, signed and dated by an authorized representative of the vessel, and meet the following eligibility criteria:
+(1) *Initial application.* To be considered for an EM Authorization, the vessel owner must:
 
-(i) The applicant owns the vessel proposed to be used;
+(i) Submit a completed application form provided by NMFS, signed and dated by an authorized representative of the vessel;
 
-(ii) The vessel has a valid Pacific Coast Groundfish limited entry, trawl-endorsed permit registered to it;
+(ii) Meet the following eligibility criteria:
 
-(iii) If participating in the mothership sector, the vessel has a valid MS/CV endorsement;
+(A) The applicant owns the vessel proposed to be used;
 
-(iv) The vessel is participating in the Pacific whiting IFQ fishery, mothership sector, or the Shorebased IFQ sector using groundfish non-trawl gear;
+(B) The vessel has a valid Pacific Coast Groundfish limited entry, trawl-endorsed permit registered to it;
 
-(v) The vessel is able to accommodate the EM system, including providing sufficient uninterrupted electrical power, suitable camera mounts, adequate lighting, and fittings for hydraulic lines to enable connection of a pressure transducer;
+(C) The vessel is participating in the Pacific whiting IFQ fishery, mothership sector, or the Shorebased IFQ sector;
 
-(vi) The vessel owner and operator are willing and able to comply with all applicable requirements of this section and to operate under a NMFS-accepted VMP.
+(D) The vessel is able to accommodate the EM system, including providing sufficient uninterrupted electrical power, suitable camera mounts, adequate lighting, and fittings for hydraulic lines to enable connection of a pressure transducer;
+
+(E) The vessel owner and operator are willing and able to comply with all applicable requirements of this section and to operate under a NMFS-accepted VMP; and
+
+(F) The vessel owner and operator are willing and able to comply with the terms and conditions of a self-enforcing agreement that was submitted as part of a group authorization application, if applicable.
+
+(iii) If applying for a group EM Authorization, submit a complete proposed self-enforcing agreement that describes how the group's operations will be conducted to meet the requirements of this section. NMFS will develop EM Program Guidelines containing best practices and templates and make them available on NMFS's website to assist vessel owners in developing a self-enforcing agreement. The self-enforcing agreement must include descriptions of the following:
+
+(A) A list of all participating vessels, owners, operators, and other parties;
+
+(B) The name and contact information of a designated representative who will be responsible for ensuring that each vessel is complying with the terms and conditions of the agreement and the requirements of this section, and who will promptly inform the appropriate parties and NMFS if any vessel fails to comply;
+
+(C) Eligibility criteria for participating vessels, owners, and operators;
+
+(D) The roles and responsibilities of participating vessels, owners, operators, the designated representative, and any other parties to the agreement;
+
+(E) Procedures for communication between participating vessels, owners, operators, the designated representative, and any other parties to the agreement, NMFS or its designated agent, and EM service providers, for the execution of the agreement and the requirements of this section;
+
+(F) Performance standards or requirements for equipment, if applicable;
+
+(G) Reporting requirements, if applicable;
+
+(H) Time and area restrictions, if applicable;
+
+(I) Provisions for the use and protection of confidential data necessary for execution of the agreement;
+
+(J) Provisions to encourage or enforce the compliance of members with the agreement and the requirements of this section;
+
+(K) Procedures for addressing the non-compliance of members with the agreement and the requirements of this section, including procedures for restricting or terminating vessel's participation in the agreement;
+
+(L) Procedures for notifying NMFS when a participating vessel or its owner(s) or operator(s) are not complying with the terms of the agreement or the requirements of this section;
+
+(M) Procedures for participating vessels, owners, operators, the designated representative, or other parties to the agreement, to exit the agreement;
+
+(N) Any other provisions that the applicants deem necessary for the execution of the agreement; and
+
+(O) Procedures for the designated representative to submit an annual report to the Council prior to applying to renew a group EM authorization containing information about the group's performance from the previous year, including a description of any actions taken by the self-enforcing group in response to the non-compliance of members with the agreement.
 
 (2) *Review of initial application.* Based on a complete initial application, if NMFS determines that the applicant meets the eligibility criteria in paragraph (e)(1) of this section, NMFS will notify the applicant in writing that the initial application has been accepted for further consideration. An applicant who receives such notice may install an EM system on his or her vessel and proceed with submission of a final application as provided under paragraph (e)(3) of this section. If an initial application has not been accepted, NMFS will provide the applicant an explanation of the denial in writing. The applicant may appeal NMFS' determination following the process at § 660.25(g).
 
@@ -102,15 +136,13 @@ Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
 
 (iii) Review of the proposed self-enforcing agreement, if applicable.
 
-(5) *Self-enforcing agreement.* In the future, through a proposed and final rulemaking, NMFS may allow for and provide requirements related to the use of voluntary self-enforcing agreements. This agreement would allow a group of eligible vessels to encourage compliance with the requirements of this section through private, contractual arrangements. If such arrangements are used, participating vessel owners must submit the proposed agreement to NMFS for review and acceptance as part of the application process as provided under paragraphs (e)(1) and (3) of this section. The existence of a self-enforcing agreement among EM vessels does not foreclose the possibility of independent enforcement action by NMFS OLE or authorized officers.
+(f) *Changes to a NMFS-accepted VMP or NMFS-approved self-enforcing agreement.* A vessel owner may make changes to a NMFS-accepted VMP by submitting a revised plan or plan addendum to NMFS in writing. A group may make changes to an approved self-enforcing agreement by submitting a revised agreement or agreement addendum to NMFS in writing. NMFS will review and accept the change if it meets all the requirements of this section. A VMP or self-enforcing agreement addendum must contain:
 
-(f) *Changes to a NMFS-accepted VMP.* A vessel owner may make changes to a NMFS-accepted VMP by submitting a revised plan or plan addendum to NMFS in writing. NMFS will review and accept the change if it meets all the requirements of this section. A VMP addendum must contain:
+(1) The date and the name and signature of the vessel owner, or designated representative for a self-enforcing agreement;
 
-(1) The date and the name and signature of the vessel owner;
+(2) Address, telephone number, fax number and email address of the person submitting the revised plan or addendum; and
 
-(2) Address, telephone number, fax number and email address of the person submitting the addendum;
-
-(3) A complete description of the proposed VMP change.
+(3) A complete description of the proposed change.
 
 (g) *Change in ownership of a vessel.* If a vessel changed ownership, the new owner must apply for a new EM Authorization.
 
@@ -120,7 +152,7 @@ Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
 
 (3) A vessel owner holding an expired or invalidated authorization may reapply for a new EM Authorization at any time consistent with paragraph (e) of this section.
 
-(i) *Renewing an EM Authorization.* To maintain a valid EM Authorization, vessel owners must renew annually prior to the permit expiration date. NMFS will mail EM Authorization renewal forms to existing EM Authorization holders each year on or about: September 1 for non-trawl shorebased IFQ vessels and January 1 for Pacific whiting IFQ and MS/CV vessels. Vessel owners who want to have their Authorizations effective for January 1 of the following calendar year must submit their complete renewal form to NMFS by October 15. Vessel owners who want to have their EM Authorizations effective for May 15 of the following calendar year must submit their complete renewal form to NMFS by February 15.
+(i) *Renewing an EM Authorization.* To maintain a valid EM Authorization, vessel owners must renew annually prior to the permit expiration date. NMFS will mail EM Authorization renewal forms to existing EM Authorization holders each year on or about: September 1 for shorebased IFQ vessels, and January 1 for Pacific whiting IFQ and MS/CV vessels. Vessel owners who want to have their Authorizations effective for January 1 of the following calendar year must submit their complete renewal form to NMFS by October 15. Vessel owners who want to have their EM Authorizations effective for May 15 of the following calendar year must submit their complete renewal form to NMFS by February 15.
 
 (j) *EM System Performance Standards.* The specifications (*e.g.,* image resolution, frame rate, user interface) and configuration of an EM system and associated equipment (*e.g.,* number and placement of cameras, lighting) used to meet the requirements of this section must be sufficient to:
 
@@ -158,79 +190,9 @@ Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
 
 (3) *EM system malfunctions.* The operator of a vessel with a valid EM Authorization is prohibited from fishing on an EM trip without a fully functional EM system, unless an alternate arrangement has been specified in the NMFS-accepted VMP. In the event of an EM system malfunction, the vessel operator may voluntarily obtain observer coverage and revise the vessel's declaration following the process at § 660.13(d)(4), in which case the vessel operator is no longer exempt from the observer requirements at §§ 660.140(h) and 660.150(j).
 
-(m) *Declaration reports.* The operator of a vessel with a valid EM Authorization must make a declaration report to NMFS OLE prior to leaving port following the process described at § 660.13(d)(4). A declaration report will be valid until another declaration report revising the existing gear or monitoring declaration is received by NMFS OLE. A vessel operator declaring a limited entry midwater trawl, Pacific whiting shorebased IFQ trip or limited entry midwater trawl, Pacific whiting mothership sector (catcher vessel or mothership) trip may only revise the existing monitoring declaration twice during the same calendar year. NMFS may waive this limitation with prior notice if it is determined to be unnecessary for purposes of planning observer deployments. Additional revisions may be made if the EM system has malfunctioned and the vessel operator has chosen to carry an observer, as allowed under paragraph (m)(3); or subsequently, the EM system has been repaired; and upon expiration or invalidation of the vessel's EM Authorization.
+(m) *Declaration reports.* The operator of a vessel with a valid EM Authorization must make a declaration report to NMFS OLE prior to leaving port following the process described at § 660.13(d)(4). A declaration report will be valid until another declaration report revising the existing gear or monitoring declaration is received by NMFS OLE.
 
-(n) *Observer requirements.* The operator of a vessel with a valid EM Authorization must provide advanced notice to NMFS, at least 48 hours prior to departing port, of the vessel operator's intent to take a trip under EM, including: vessel name, permit number; contact name and telephone number for coordination of observer deployment; date, time, and port of departure; and the vessel's trip plan, including area to be fished and gear type to be used. NMFS may waive this requirement for vessels declared into the Pacific whiting IFQ fishery or mothership sector with prior notice. If NMFS notifies the vessel owner, operator, or manager of any requirement to carry an observer, the vessel may not be used to fish for groundfish without carrying an observer. The vessel operator must comply with the following requirements on a trip that the vessel owner, operator, or manager has been notified is required to carry an observer.
-
-(1) *Notice of departure basic rule.* At least 24 hours (but not more than 36 hours) before departing on a fishing trip, a vessel operator that has been notified by NMFS that his vessel is required to carry an observer, or that is operating in an active sampling unit, must notify NMFS (or its designated agent) of the vessel's intended time of departure. Notice will be given in a form to be specified by NMFS.
-
-(2) *Optional notice - weather delays.* A vessel operator that anticipates a delayed departure due to weather or sea conditions may advise NMFS of the anticipated delay when providing the basic notice described in paragraph (n)(1) of this section. If departure is delayed beyond 36 hours from the time the original notice is given, the vessel operator must provide an additional notice of departure not less than 4 hours prior to departure, in order to enable NMFS to place an observer.
-
-(3) *Optional notice - back-to-back fishing trips.* A vessel operator that intends to make back-to-back fishing trips (*i.e.,* trips with less than 24 hours between offloading from one trip and beginning another), may provide a notice of departure as described in paragraph (n)(1) of this section for both trips, prior to making the first trip. A vessel operator that has given such notice is not required to give additional notice of the second trip.
-
-(4) *Cease fishing report.* Within 24 hours of ceasing the taking and retaining of groundfish, vessel owners, operators, or managers must notify NMFS or its designated agent that fishing has ceased. This requirement applies to any vessel that is required to carry an observer, or that is operating in a segment of the fleet that NMFS has identified as an active sampling unit.
-
-(5) *Waiver.* The West Coast Regional Administrator may provide written notification to the vessel owner stating that a determination has been made to temporarily waive coverage requirements because of circumstances that are deemed to be beyond the vessel's control.
-
-(6) *Accommodations and food.* (i) Accommodations and food for trips less than 24 hours must be equivalent to those provided for the crew.
-
-(ii) Accommodations and food for trips of 24 hours or more must be equivalent to those provided for the crew and must include berthing space, a space that is intended to be used for sleeping and is provided with installed bunks and mattresses. A mattress or futon on the floor or a cot is not acceptable if a regular bunk is provided to any crew member, unless other arrangements are approved in advance by the Regional Administrator or designee.
-
-(7) *Safe conditions.* (i) The vessel operator must maintain safe conditions on the vessel for the protection of observers including adherence to all U.S. Coast Guard and other applicable rules, regulations, statutes, and guidelines pertaining to safe operation of the vessel, including, but not limited to rules of the road, vessel stability, emergency drills, emergency equipment, vessel maintenance, vessel general condition and port bar crossings, and provisions at §§ 600.725 and 600.746 of this chapter. An observer may refuse boarding or reboarding a vessel and may request a vessel to return to port if operated in an unsafe manner or if unsafe conditions are identified.
-
-(ii) The vessel operator must have on board a valid Commercial Fishing Vessel Safety Decal that certifies compliance with regulations found in 33 CFR chapter I and 46 CFR chapter I, a certificate of compliance issued pursuant to 46 CFR 28.710 or a valid certificate of inspection pursuant to 46 U.S.C. 3311.
-
-(8) *Observer communications.* The vessel operator must facilitate observer communications by:
-
-(i) Allowing observer(s) to use the vessel's communication equipment and personnel, on request, for the entry, transmission, and receipt of work related messages, at no cost to the observer(s) or the U.S. or designated agent; and
-
-(ii) Ensuring that the vessel's communications equipment, used by observers to enter and transmit data, is fully functional and operational.
-
-(9) *Vessel position.* The vessel operator must allow observer(s) access to the vessel's navigation equipment and personnel, on request, to determine the vessel's position.
-
-(10) *Access.* The vessel operator must allow observer(s) free and unobstructed access to the vessel's bridge, trawl or working deck, holding bins, sorting areas, cargo hold, and any other space that may be used to hold, process, weigh, or store fish at any time.
-
-(11) *Prior notification.* The vessel operator must notify observer(s) at least 15 minutes before fish are brought on board, or fish and fish products are transferred from the vessel, to allow sampling the catch or observing the transfer.
-
-(12) *Records.* The vessel operator must allow observer(s) to inspect and copy any state or federal logbook maintained voluntarily or as required by regulation.
-
-(13) *Assistance.* The vessel operator must provide all other reasonable assistance to enable observer(s) to carry out their duties, including, but not limited to:
-
-(i) Measuring decks, codends, and holding bins.
-
-(ii) Providing a designated safe working area on deck for the observer(s) to collect, sort and store catch samples.
-
-(iii) Collecting samples of catch.
-
-(iv) Collecting and carrying baskets of fish.
-
-(v) Allowing the observer(s) to collect biological data and samples.
-
-(vi) Providing adequate space for storage of biological samples.
-
-(vii) Providing time between hauls to sample and record all catch.
-
-(viii) Sorting retained and discarded catch into quota pound groupings.
-
-(ix) Stowing all catch from a haul before the next haul is brought aboard.
-
-(14) *Sampling station.* To allow the observer to carry out the required duties, the vessel operator must provide an observer sampling station that meets the following requirements so that the observer can carry out required duties.
-
-(i) The observer sampling station must be available to the observer at all times.
-
-(ii) The observer sampling station must be located within 4 m of the location from which the observer samples unsorted catch. Unobstructed passage must be provided between the observer sampling station and the location where the observer collects sample catch. To the extent possible, the area should be free and clear of hazards including, but not limited to, moving fishing gear, stored fishing gear, inclement weather conditions, and open hatches.
-
-(15) *Transfers at sea.* Observers may be transferred at-sea between a MS vessel and a catcher vessel. Transfers at-sea between catcher vessels is prohibited. For transfers, both vessels must:
-
-(i) Ensure that transfers of observers at sea via small boat under its own power are carried out during daylight hours, under safe conditions, and with the agreement of observers involved.
-
-(ii) Notify observers at least 3 hours before observers are transferred, such that the observers can finish any sampling work, collect personal belongings, equipment, and scientific samples.
-
-(iii) Provide a safe pilot ladder and conduct the transfer to ensure the safety of observers during transfers.
-
-(iv) Provide an experienced crew member to assist observers in the small boat in which any transfer is made.
-
-(16) *Housing on vessel in port.* During all periods an observer is housed on a vessel, the vessel operator must ensure that at least one crew member is aboard.
+(n) *Observer requirements.* The operator of a vessel with a valid EM Authorization must provide advanced notice to NMFS, at least 48 hours prior to departing port, of the vessel operator's intent to take a trip under EM, including: vessel name, permit number; contact name and telephone number for coordination of observer deployment; date, time, and port of departure; and the vessel's trip plan, including area to be fished, gear type to be used, and whether the vessel will use maximized or optimized retention rules for the trip as defined at paragraphs (p)(3) and (4) of this section. NMFS may waive this requirement for vessels declared into the Pacific whiting IFQ fishery or mothership sector with prior notice. If NMFS notifies the vessel owner, operator, or manager of any requirement to carry an observer, the vessel may not be used to fish for groundfish without carrying an observer. The vessel operator must comply with the following requirements on a trip that the vessel owner, operator, or manager has been notified is required to carry an observer.
 
 (o) *Inspection.* The operator of a vessel with a valid EM Authorization must make the EM system and associated equipment available for inspection immediately upon request by NMFS or any authorized officer.
 
@@ -248,21 +210,49 @@ Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
 
 (2) *Non-trawl shorebased IFQ.* A vessel operator on a declared limited entry groundfish non-trawl, shorebased IFQ trip must retain all salmon and must discard Dungeness crab caught seaward of Washington or Oregon, Pacific halibut, green sturgeon, eulachon, sea turtles, and marine mammals. All other catch may be discarded following instructions in the VMP, except as required by the Seabird Avoidance Program at § 660.21(c)(1)(v).
 
-(q) *Changes to retention requirements.* Retention requirements for non-trawl shorebased IFQ vessels have been designated as “routine,” which means that they can be changed after a single Council meeting following the procedures described at § 660.60(c).
+(3) *Maximized retention bottom trawl and non-whiting midwater trawl trips.* A vessel operator on a declared maximized retention trip using bottom trawl gear, or midwater trawl gear in which Pacific whiting constitutes less than 50 percent of the catch by weight at landing, the vessel must not sort catch at sea and must retain all catch until landing, with exceptions listed below in paragraphs (p)(3)(i) through (v) of this section. All discards must be discarded following instructions in the VMP per paragraph (e)(3)(iii) of this section. All discards, regardless of the source, must be reported in a discard logbook, as defined at § 660.604(s)(1), including the species (where possible), estimated weight, and reason for discard. The vessel operator is responsible for ensuring that all catch is handled in a manner that enables the EM system to record it.
+
+(i) Minor operational discards are permitted. Minor operational discards include mutilated fish; fish vented from an overfull codend; and fish removed from the deck and fishing gear during cleaning. Minor operational discards do not include discards that result when more catch is taken than is necessary to fill the hold or catch from a tow that is not delivered.
+
+(ii) Large individual marine organisms (*i.e.,* all marine mammals, sea turtles, and non-ESA-listed seabirds, and fish species longer than 6 ft (1.8 m) in length) may be discarded. For any ESA-listed seabirds that are brought on board, vessel operators must follow any relevant instructions for handling and disposition under § 660.21(c)(1)(v).
+
+(iii) Crabs, starfish, coral, sponges, and other invertebrates may be discarded.
+
+(iv) Trash, mud, rocks, and other inorganic debris may be discarded.
+
+(v) A discard that is the result of an event that is beyond the control of the vessel operator or crew, such as a safety issue or mechanical failure, is permitted.
+
+(4) *Optimized retention bottom trawl and non-whiting midwater trawl trips.* On a declared optimized retention trip using bottom trawl gear, or midwater trawl gear in which Pacific whiting constitutes less than 50 percent of the catch by weight at landing, the vessel owner and operator are responsible for the following:
+
+(i) The vessel must retain IFQ species (as defined at § 660.140(c)), except for Arrowtooth flounder, English sole, Dover sole, deep sea sole, Pacific sanddab, Pacific whiting, lingcod and starry flounder; must retain salmon and eulachon; and must retain the following non-IFQ species: greenland turbot; slender sole; hybrid sole; c-o sole; bigmouth sole; fantail sole; hornyhead turbot; spotted turbot; California halibut; northern rockfish; black rockfish; blue rockfish; shortbelly rockfish; olive rockfish; Puget Sound rockfish; semaphore rockfish; walleye pollock; slender codling; Pacific tom cod; with exceptions listed in paragraphs (p)(4)(i)(A) and (B) of this section.
+
+(A) Mutilated and depredated fish may be discarded.
+
+(B) A discard that is the result of an event that is beyond the control of the vessel operator or crew, such as a safety issue or mechanical failure, is permitted.
+
+(ii) The vessel must discard Pacific halibut, green sturgeon, California halibut (except as allowed by state regulations), and nearshore groundfish species below state commercial minimum size limits, following instructions in the NMFS-accepted VMP.
+
+(iii) Incidentally caught marine mammals, non-ESA-listed seabirds, sea turtles, other ESA-listed fish, and Dungeness crab caught seaward of Washington or Oregon or south of Point Reyes, California, as described at § 660.11 *Prohibited species,* must be discarded following instructions in the NMFS-accepted VMP per paragraph (e)(3)(iii) of this section. For any ESA-listed seabirds that are brought on board, vessel operators must follow any relevant instructions for handling and disposition under § 660.21(c)(1)(v).
+
+(iv) Crabs, starfish, coral, sponges, and other invertebrates may be discarded.
+
+(v) Trash, mud, rocks, and other inorganic debris may be discarded.
+
+(vi) All discards must be discarded following instructions in the VMP per paragraph (e)(3)(iii) of this section. All discards, regardless of the source, must be reported in a discard logbook, as defined at § 660.604(s)(1), including the species (where possible), estimated weight, and reason for discard. The vessel operator is responsible for ensuring that all catch is handled in a manner that enables the EM system to record it.
+
+(q) *Changes to retention requirements.* NMFS may specify alternate retention requirements in a NMFS-accepted VMP through the process described in paragraph (f) of this section, after consultation with the Council and issuance of a public notice notifying the public of the changes. Alternate retention requirements must be sufficient to provide NMFS with the best available information to determine individual accountability for catch, including discards, of IFQ species and compliance with requirements of the Shorebased IFQ Program (§ 660.140) and MS Coop Program (§ 660.150).
 
 (r) *Catch handling.* The vessel operator of a vessel on an EM trip must ensure that all catch is handled in a manner that enables the EM system to record it and that is consistent with the specific catch handling instructions in the NMFS-accepted VMP.
 
 (s) *Reporting requirements* - (1) *Discard logbook.* The operator of a vessel with a valid EM Authorization must complete, submit, and maintain onboard the vessel an accurate federal discard logbook for each EM trip on forms supplied by or approved by NMFS. If authorized in writing by NMFS, a vessel owner or operator may submit reports electronically, for example by using a VMS or other media. A state logbook that contains all the required information may be submitted in place of a federal discard logbook. If operating an MS/CV vessel, the vessel operator must provide logbook information to the mothership observer by transmitting the logbook information via radio or email to the mothership at the completion of each haul.
 
-(2) *Submission of logbooks.* Vessel operators must submit copies of the federal discard logbook and state retained logbook to NMFS or its agent within 24-hours of the end of each EM trip.
+(2) *Submission of logbooks.* Vessel operators must submit copies of the discard logbooks as described at § 660.604(s)(1) and if applicable, the trawl logbook as described at § 660.13 (a)(1), to the vessel owner's contracted EM service provider and to NMFS or its agent within 24 hours of the end of each EM trip.
 
 (3) *Submission of EM data.* Vessel operators must submit EM data to the vessel owner's contracted EM service provider using a method that documents time, date, and location of transmission and receipt. Deadlines for submission are as follows:
 
-(i) *Pacific whiting IFQ vessels.* EM data from an EM trip must be submitted within 10 calendar days of the end of that EM trip.
+(i) *Shorebased IFQ vessels.* EM data from an EM trip must be submitted within 72 hours after the beginning of the offload (and no more than 10 days after the end of the first trip on the hard drive).
 
-(ii) *Mothership catcher vessels.* EM data from an EM trip must be submitted within 24-hours of the catcher vessel's return to port.
-
-(iii) *Non-trawl shorebased IFQ vessels.* EM data from an EM trip must be submitted within 10 calendar days of the end of that EM trip.
+(ii) *Mothership catcher vessels.* EM data from an EM trip must be submitted within 72 hours of the catcher vessel's return to port.
 
 (t) *Retention of records.* The operator of a vessel with a valid EM Authorization must maintain federal discard logbooks onboard the vessel until the end of the fishing year during which the EM trips were conducted, and make the report forms available to observers, NMFS staff, or authorized officers, immediately upon request. The vessel owner must maintain the federal discard logbooks and other records specified in this section, or used in the preparation of records or reports specified in this section or corrections to these reports, for a period of not less than three years after the date of landing from an EM trip. The vessel owner must make such records available for inspection by NMFS staff or authorized officers, immediately upon request.
 
@@ -282,4 +272,4 @@ Link to an amendment published at 87 FR 59714, Oct. 3, 2022.
 
 (ii) *Seabirds, marine mammals, and sea turtles.* Albatross must reported to the U.S. Fish and Wildlife Service (541-867-4558 extension 237 or 503-231-6179 as soon as possible and directions for surrendering must be followed. Marine mammals and sea turtles must be reported to NMFS as soon as possible (206-526-6550) and directions for surrendering or disposal must be followed. Whole body specimens must be labeled with the vessel name, electronic fish ticket number, and date of landing. Whole body specimens must be kept frozen or on ice until arrangements for surrendering or disposing are completed. Unless directed otherwise, after reporting is completed, seabirds, marine mammals, and sea turtles may be disposed by incinerating, rendering, composting, or returning the carcasses to sea.
 
-[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019, as amended at 84 FR 67680, Dec. 11, 2019; 85 FR 74614, Nov. 23, 2020; 86 FR 55527, Oct. 6, 2021]
+[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019, as amended at 84 FR 67680, Dec. 11, 2019; 85 FR 74614, Nov. 23, 2020; 86 FR 55527, Oct. 6, 2021; 87 FR 59714, Oct. 3, 2022]

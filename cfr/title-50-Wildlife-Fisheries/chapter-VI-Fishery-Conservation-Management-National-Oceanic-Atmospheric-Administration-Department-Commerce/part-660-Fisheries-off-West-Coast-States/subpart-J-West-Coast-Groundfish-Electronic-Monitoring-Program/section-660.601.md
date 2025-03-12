@@ -1,7 +1,5 @@
 ##### § 660.601 Definitions. #####
 
-Link to an amendment published at 87 FR 59713, Oct. 3, 2022.
-
 These definitions are specific to this subpart. General groundfish definitions are found at § 660.11, subpart C, and trawl fishery definitions are found at § 660.111, subpart D.
 
 *Active sampling unit* means the portion of the groundfish fleet in which an observer coverage plan is being applied.
@@ -44,6 +42,10 @@ These definitions are specific to this subpart. General groundfish definitions a
 
 *Pacific whiting IFQ trip* means a trip in which a vessel uses midwater groundfish trawl gear during the dates of the Pacific whiting primary season to target Pacific whiting, and Pacific whiting constitutes 50 percent or more of the catch by weight at landing as reported on the state landing receipt. Vessels on Pacific whiting IFQ trips must have a valid declaration for limited entry midwater trawl, Pacific whiting shorebased IFQ.
 
+*Prohibited species* means those species and species groups defined at § 660.11; Dungeness crab caught south of Point Reyes, California; fish in excess of state or Federal limits; fish below a state or Federal minimum size; and species for which the vessel or vessel representative does not have a state or Federal permit.
+
 *Shorebased IFQ Program* or *Shorebased IFQ sector,* refers to the fishery described at § 660.140, subpart D, and includes all vessels on IFQ trips.
 
 *Vessel Monitoring Plan* (*VMP*) means the document that describes how fishing operations on the vessel will be conducted and how the EM system and associated equipment will be configured to meet the performance standards and purpose of the EM Program.
+
+[84 FR 31160, June 28, 2019, as amended at 87 FR 59713, Oct. 3, 2022]
