@@ -1,5 +1,7 @@
 ##### § 1281.15 Housing plans. #####
 
+Link to an amendment published at 85 FR 38052, June 25, 2020.
+
 (a) *Housing plan requirement.* If the Director determines that a Bank has failed to meet any housing goal and that the achievement of the housing goal was feasible, the Director may require the Bank to submit a housing plan for approval by the Director.
 
 (b) *Nature of plan.* If the Director requires a housing plan, the housing plan shall:

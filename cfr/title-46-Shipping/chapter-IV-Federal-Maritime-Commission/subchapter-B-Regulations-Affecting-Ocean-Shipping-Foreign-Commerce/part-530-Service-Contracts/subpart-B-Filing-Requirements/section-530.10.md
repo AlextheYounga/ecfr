@@ -44,6 +44,4 @@
 
 (ii) The cargo previously carried under the contract shall be re-rated according to the otherwise applicable tariff provisions.
 
-(f) If the amendment, correction or cancellation affects an essential term required to be published under § 530.12 of this part, the statement of essential terms shall be changed as soon as possible after the filing of the amendment to accurately reflect the change to the contract terms.
-
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 67 FR 39860, June 11, 2002; 68 FR 43327, July 22, 2003; 70 FR 10330, Mar. 3, 2005; 81 FR 59144, Aug. 29, 2016; 82 FR 16296, Apr. 4, 2017; 83 FR 50294, Oct. 5, 2018]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 67 FR 39860, June 11, 2002; 68 FR 43327, July 22, 2003; 70 FR 10330, Mar. 3, 2005; 81 FR 59144, Aug. 29, 2016; 82 FR 16296, Apr. 4, 2017; 83 FR 50294, Oct. 5, 2018; 85 FR 38089, June 25, 2020]

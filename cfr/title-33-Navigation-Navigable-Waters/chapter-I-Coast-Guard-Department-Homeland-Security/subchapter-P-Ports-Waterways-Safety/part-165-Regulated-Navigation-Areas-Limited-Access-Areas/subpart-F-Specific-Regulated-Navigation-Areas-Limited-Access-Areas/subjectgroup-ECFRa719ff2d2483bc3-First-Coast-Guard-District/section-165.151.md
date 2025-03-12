@@ -1,5 +1,7 @@
 ##### § 165.151 Safety Zones; Fireworks Displays, Air Shows and Swim Events in the Captain of the Port Long Island Sound Zone. #####
 
+Link to an amendment published at 85 FR 38073, June 25, 2020.
+
 (a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays, air shows, and swim events listed in Tables 1 and 2 to § 165.151.
 
 (2) These regulations will be enforced for the duration of each event. Notifications will be made to the local maritime community through all appropriate means such as Local Notice to Mariners or Broadcast Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule or event changes. First Coast Guard District Local Notice to Mariners can be found at *http://www.navcen.uscg.gov/.*

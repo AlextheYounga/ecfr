@@ -1,5 +1,7 @@
 ##### § 1281.12 General counting requirements. #####
 
+Link to an amendment published at 85 FR 38051, June 25, 2020.
+
 (a) *Calculating the numerator and denominator for the housing goals.* Performance under each of the housing goals shall be measured using a fraction that is converted into a percentage. Neither the numerator nor the denominator shall include Bank transactions or activities that are not AMA-approved mortgage purchases as defined by FHFA or that are specifically excluded as ineligible under § 1281.13(b).
 
 (1) *The numerator.* The numerator of each fraction is the number of AMA-approved mortgage purchases of a Bank in a particular year that finance owner-occupied single-family properties that count toward achievement of a particular housing goal.

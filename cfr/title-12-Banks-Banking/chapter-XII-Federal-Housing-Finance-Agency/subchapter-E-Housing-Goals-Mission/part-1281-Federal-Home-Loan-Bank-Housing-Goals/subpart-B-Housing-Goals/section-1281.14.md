@@ -1,5 +1,7 @@
 ##### § 1281.14 Determination of compliance with housing goals; notice of determination. #####
 
+Link to an amendment published at 85 FR 38052, June 25, 2020.
+
 (a) *Determination of compliance with housing goals.* On an annual basis, the Director shall determine whether each Bank has exceeded the volume threshold. For each Bank that has exceeded the volume threshold in a year, the Director shall determine the Bank's performance under each housing goal.
 
 (b) *Failure to meet a housing goal.* If the Director determines that a Bank has failed to meet any housing goal, the Director shall notify the Bank in writing of such preliminary determination. Any notification to a Bank of a preliminary determination under this section shall provide the Bank with an opportunity to respond in writing in accordance with the following procedures:

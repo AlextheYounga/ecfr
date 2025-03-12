@@ -23,3 +23,7 @@
 (3) Participants who are referred to cash payback may incur non-refundable penalty and administrative fees in addition to their total training costs and will incur interest charges starting the day of referral.
 
 (4) The cash payback obligation may only be discharged through bankruptcy if repaying the loan would cause the participant undue hardship as defined in 11 U.S.C. 523(a)(8).
+
+(5) Notwithstanding paragraph (c)(1) of this section, participants who exit or complete a grant-funded training program in Federal fiscal year 2020 (October 1, 2019-September 30, 2020) who do not submit employment verification within 24 months of program exit or completion, and participants with qualifying employment during Federal fiscal year 2020 who do not submit employment verification for a 24-month period, will automatically be referred for a cash payback unless the participant qualifies for a deferral as described in § 263.9.
+
+[80 FR 22412, Apr. 22, 2015, as amended at 85 FR 38079, June 25, 2020]

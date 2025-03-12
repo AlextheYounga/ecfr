@@ -1,5 +1,7 @@
 ##### § 1281.13 Special counting requirements. #####
 
+Link to an amendment published at 85 FR 38052, June 25, 2020.
+
 (a) *General.* FHFA shall determine whether a Bank shall receive full, partial, or no credit toward achievement of any of the housing goals for a transaction that otherwise qualifies under this part.
 
 (b) *Not counted.* The following transactions or activities shall not be counted for purposes of the housing goals and shall not be included in the numerator or the denominator in calculating a Bank's performance under the housing goals, even if the transaction or activity would otherwise be counted under paragraph (c) of this section:
@@ -37,3 +39,5 @@
 (d) *HOEPA mortgages and mortgages with unacceptable terms or conditions.* The purchase by a Bank of HOEPA mortgages and mortgages with unacceptable terms or conditions, as defined in § 1281.1, shall be treated as mortgage purchases for purposes of the housing goals and shall be included in the denominator for each applicable housing goal, but such mortgages shall not be counted in the numerator for any housing goal.
 
 (e) *FHFA review of transactions.* FHFA may determine whether and how any transaction or class of transactions shall be counted for purposes of the housing goals. FHFA will notify each Bank in writing of any determination regarding the treatment of any transaction or class of transactions under the housing goals.
+
+Editorial Note:At 85 FR 38052, June 25, 2020, § 1281.13 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

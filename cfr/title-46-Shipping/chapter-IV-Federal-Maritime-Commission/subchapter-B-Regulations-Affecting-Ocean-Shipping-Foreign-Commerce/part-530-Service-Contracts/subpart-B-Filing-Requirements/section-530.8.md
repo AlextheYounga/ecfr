@@ -48,7 +48,7 @@
 
 (3) Pursuant to § 530.15(c), the carrier party to the service contract must, upon written request by the Commission, provide the Commission with the associated records of the referenced terms. For the purpose of paragraph (c)(2) of this section, the referenced terms will be deemed readily available to the Commission if the carrier party to the service contract provides the Commission with the associated records of the terms within thirty (30) days of the Commission's written request.
 
-(d) *Other requirements.* Every service contract filed with BTCL shall include, as set forth in appendix A to this part by:
+(d) *Other requirements.* Every service contract filed with BTA shall include, as set forth in appendix A to this part:
 
 (1) A unique service contract number of more than one (1) but less than ten (10) alphanumeric characters in length (“SC Number”); and
 
@@ -56,12 +56,10 @@
 
 (3) The filed FMC Agreement Number(s) assigned by the Commission under 46 CFR part 535 (if applicable); and
 
-(4) An indication of the method by which the statement of essential terms will be published.
-
 (e) *Exception in case of malfunction of Commission filing system.* (1) In the event that the Commission's filing systems are not functioning and cannot receive service contract filings for twenty-four (24) continuous hours or more, affected parties will not be subject to the requirements of paragraph (a) of this section and § 530.14(a) that a service contract be filed before cargo is shipped under it.
 
 (2) However, service contracts which go into effect before they are filed, pursuant to paragraph (e)(1) of this section, must be filed within twenty-four (24) hours of the Commission's filing systems' return to service.
 
 (3) Failure to file a service contract that goes into effect before it is filed, pursuant to paragraph (e)(1) of this section, within twenty-four (24) hours of the Commission's filing systems' return to service will be considered a violation of Commission regulations.
 
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 FR 41042, July 29, 1999; 77 FR 13510, Mar. 7, 2012; 82 FR 16296, Apr. 4, 2017]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 FR 41042, July 29, 1999; 77 FR 13510, Mar. 7, 2012; 82 FR 16296, Apr. 4, 2017; 85 FR 38089, June 25, 2020]

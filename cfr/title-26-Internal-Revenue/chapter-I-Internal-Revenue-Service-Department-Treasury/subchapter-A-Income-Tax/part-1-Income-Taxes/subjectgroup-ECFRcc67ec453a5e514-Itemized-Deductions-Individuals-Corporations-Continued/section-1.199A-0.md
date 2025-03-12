@@ -1,5 +1,7 @@
 ##### § 1.199A-0 Table of contents. #####
 
+Link to an amendment published at 85 FR 38065, June 25, 2020.
+
 This section lists the section headings that appear in §§ 1.199A-1 through 1.199A-6.
 
 § 1.199A-1 Operational rules.

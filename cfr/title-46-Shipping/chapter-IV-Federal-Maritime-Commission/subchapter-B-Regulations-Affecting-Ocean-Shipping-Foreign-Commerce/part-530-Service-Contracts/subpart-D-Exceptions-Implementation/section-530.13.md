@@ -16,7 +16,7 @@
 
 (1) *Mail in foreign commerce.* Transportation of mail between the United States and foreign countries.
 
-(2) *Department of Defense cargo.* Transportation of U.S. Department of Defense cargo moving in foreign commerce under terms and conditions negotiated and approved by the Military Transportation Management Command and published in a universal service contract. An exact copy of the universal service contract, including any amendments thereto, shall be filed with the Commission as soon as it becomes available.
+(2) *Department of Defense cargo.* Transportation of U.S. Department of Defense cargo moving in foreign commerce under terms and conditions negotiated and approved by the Surface Deployment and Distribution Command and published in a universal service contract. An exact copy of the universal service contract, including any amendments thereto, shall be filed with the Commission as soon as it becomes available.
 
 (c) *Inclusion of excepted or exempted matter.* (1) The Commission will not accept for filing service contracts which exclusively concern the commodities or services listed in paragraph (a) or (b) of this section.
 
@@ -28,4 +28,4 @@
 
 (d) *Waiver.* Upon filing a service contract pursuant to paragraph (c) of this section, the service contract shall be subject to the same requirements as those for service contracts generally.
 
-[64 FR 23793, May 4, 1999, as amended at 74 FR 50724, Oct. 1, 2009; 85 FR 23229, Apr. 27, 2020]
+[64 FR 23793, May 4, 1999, as amended at 74 FR 50724, Oct. 1, 2009; 85 FR 23229, Apr. 27, 2020; 85 FR 38089, June 25, 2020]

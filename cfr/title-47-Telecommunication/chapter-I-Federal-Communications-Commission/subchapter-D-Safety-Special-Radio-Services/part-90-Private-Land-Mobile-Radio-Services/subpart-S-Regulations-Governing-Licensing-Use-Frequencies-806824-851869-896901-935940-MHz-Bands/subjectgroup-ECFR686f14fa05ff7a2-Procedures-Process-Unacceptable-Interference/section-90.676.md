@@ -1,5 +1,7 @@
 ##### § 90.676 Transition administrator for reconfiguration of the 806-824/851-869 MHz band in order to separate cellular systems from non-cellular systems. #####
 
+Link to an amendment published at 85 FR 38091, June 25, 2020.
+
 The Transition Administrator will be an independent party with no financial interest in any 800 MHz licensee; and will be selected by a committee representative of 800 MHz licensees. The Transition Administrator will serve both a ministerial role and a function similar to a special master in a judicial proceeding.
 
 (a) The duties of the Transition Administrator will include, but not be limited to:

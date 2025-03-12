@@ -1,5 +1,7 @@
 ##### § 1.199A-3 Qualified business income, qualified REIT dividends, and qualified PTP income. #####
 
+Link to an amendment published at 85 FR 38065, June 25, 2020.
+
 (a) *In general.* This section provides rules on the determination of a trade or business's qualified business income (QBI), as well as the determination of qualified real estate investment trust (REIT) dividends and qualified publicly traded partnership (PTP) income. The provisions of this section apply solely for purposes of section 199A of the Internal Revenue Code (Code). Paragraph (b) of this section provides rules for the determination of QBI. Paragraph (c) of this section provides rules for the determination of qualified REIT dividends and qualified PTP income. QBI must be determined and reported for each trade or business by the individual or relevant passthrough entity (RPE) that directly conducts the trade or business before applying the aggregation rules of § 1.199A-4.
 
 (b) *Definition of qualified business income* - (1) *In general.* For purposes of this section, the term *qualified business income* or *QBI* means, for any taxable year, the net amount of qualified items of income, gain, deduction, and loss with respect to any trade or business of the taxpayer as described in paragraph (b)(2) of this section, provided the other requirements of this section and section 199A are satisfied (including, for example, the exclusion of income not effectively connected with a United States trade or business).

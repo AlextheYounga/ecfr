@@ -6,6 +6,8 @@
 
 (2) Penalty. If service contract records are not made available to the Commission as provided in paragraph (c) of this section, the Commission may cancel any carrier's or agreement's right to maintain records outside the United States pursuant to the certification procedure of paragraph (b) of this section.
 
-(c) *Production for audit within 30 days of request.* Every carrier or agreement shall, upon written request of the FMC's Director, Bureau of Enforcement, any Area Representative or the Director, Bureau of Economics and Agreements Analysis, submit copies of requested original service contracts or their associated records within thirty (30) days of the date of the request.
+(c) *Production for audit within 30 days of request.* Every carrier or agreement shall, upon written request of the FMC's Director, Bureau of Enforcement, any Area Representative or the Director, Bureau of Trade Analysis, submit copies of requested original service contracts or their associated records within thirty (30) days of the date of the request.
 
 (d) *Agreement service contracts.* In the case of service contracts made by agreements, the penalties for a failure to maintain records pursuant to this section shall attach jointly and severally on all of the agreement members participating in the service contract in question.
+
+[64 FR 11206, Mar. 8, 1999, as amended at 85 FR 38089, June 25, 2020]

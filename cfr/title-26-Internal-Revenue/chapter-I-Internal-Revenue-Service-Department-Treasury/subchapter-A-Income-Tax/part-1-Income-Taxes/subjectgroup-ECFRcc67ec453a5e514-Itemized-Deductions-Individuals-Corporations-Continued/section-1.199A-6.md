@@ -1,5 +1,7 @@
 ##### § 1.199A-6 Relevant passthrough entities (RPEs), publicly traded partnerships (PTPs), trusts, and estates. #####
 
+Link to an amendment published at 85 FR 38067, June 25, 2020.
+
 (a) *Overview.* This section provides special rules for RPEs, PTPs, trusts, and estates necessary for the computation of the section 199A deduction of their owners or beneficiaries. Paragraph (b) of this section provides computational and reporting rules for RPEs necessary for individuals who own interests in RPEs to calculate their section 199A deduction. Paragraph (c) of this section provides computational and reporting rules for PTPs necessary for individuals who own interests in PTPs to calculate their section 199A deduction. Paragraph (d) of this section provides computational and reporting rules for trusts (other than grantor trusts) and estates necessary for their beneficiaries to calculate their section 199A deduction.
 
 (b) *Computational and reporting rules for RPEs* - (1) *In general.* An RPE must determine and report information attributable to any trades or businesses it is engaged in necessary for its owners to determine their section 199A deduction.

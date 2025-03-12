@@ -1,5 +1,7 @@
 ##### § 1281.1 Definitions. #####
 
+Link to an amendment published at 85 FR 38050, June 25, 2020.
+
 As used in this part:
 
 *Acquired Member Assets (AMA) program* means a program that authorizes a Bank to hold assets acquired from or through Bank members or housing associates by means of either a purchase or funding transaction, subject to the requirements of parts 1268 and 1272 of this chapter.

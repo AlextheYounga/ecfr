@@ -1,5 +1,7 @@
 ##### § 1281.11 Bank housing goals. #####
 
+Link to an amendment published at 85 FR 38051, June 25, 2020.
+
 (a) *Volume threshold.* The housing goals established in this section shall apply to a Bank for a calendar year only if the unpaid principal balance (UPB) of the Bank's purchases of AMA-approved mortgages in that year exceeds $2.5 billion.
 
 (b) *Market-based housing goals.* A Bank that is subject to the housing goals shall be in compliance with a housing goal if its performance under the housing goal meets or exceeds the share of the market that qualifies for the housing goal. The size of the market for each housing goal shall be established annually by FHFA for each Bank district based on data reported pursuant to the Home Mortgage Disclosure Act for a given year. Unless otherwise adjusted by FHFA, the size of the market for each Bank district shall be determined based on the following criteria:

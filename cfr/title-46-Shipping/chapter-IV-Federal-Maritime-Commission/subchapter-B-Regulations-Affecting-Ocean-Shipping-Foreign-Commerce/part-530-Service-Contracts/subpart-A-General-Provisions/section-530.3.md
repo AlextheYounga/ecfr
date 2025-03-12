@@ -8,7 +8,7 @@ When used in this part:
 
 (c) *Authorized person* means a carrier or a duly appointed agent who is authorized to file service contracts on behalf of the carrier party to a service contract and to publish the corresponding statement of essential terms and is registered by the Commission to file under § 530.5(d) and appendix A to this part.
 
-(d) *BTCL* means the Commission's Bureau of Tariffs, Certification and Licensing or its successor bureau.
+(d) *BTA* means the Commission's Bureau of Trade Analysis or its successor bureau.
 
 (e) *Commission* means the Federal Maritime Commission.
 
@@ -42,7 +42,7 @@ When used in this part:
 
 (n) *Ocean common carrier* means a common carrier that operates, for all or part of its common carrier service, a vessel on the high seas or the Great Lakes between a port in the United States and a port in a foreign country, except that the term does not include a common carrier engaged in ocean transportation by ferry boat, ocean tramp, or chemical parcel-tanker.
 
-(o) *OIRM* means the Commission's Office of Information and Resources Management.
+(o) *OIT* means the Commission's Office of Information Technology.
 
 (p) *Non-vessel-operating common carrier (“NVOCC”)* means an ocean transportation intermediary as defined by section 3(17)(B) of the Act (46 U.S.C. 40102(16)).
 
@@ -50,6 +50,4 @@ When used in this part:
 
 (r) *Shipper* means a cargo owner; the person for whose account the ocean transportation is provided; the person to whom delivery is to be made; a shippers' association; or an NVOCC that accepts responsibility for payment of all applicable charges under the service contract.
 
-(s) *Statement of essential terms* means a concise statement of the essential terms of a service contract required to be published under § 530.12 of this part.
-
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23792, May 4, 1999; 64 FR 41042, July 29, 1999; 65 FR 26513, May 8, 2000; 74 FR 50723, Oct. 1, 2009; 82 FR 16296, Apr. 4, 2017]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23792, May 4, 1999; 64 FR 41042, July 29, 1999; 65 FR 26513, May 8, 2000; 74 FR 50723, Oct. 1, 2009; 82 FR 16296, Apr. 4, 2017; 85 FR 38089, June 25, 2020]
