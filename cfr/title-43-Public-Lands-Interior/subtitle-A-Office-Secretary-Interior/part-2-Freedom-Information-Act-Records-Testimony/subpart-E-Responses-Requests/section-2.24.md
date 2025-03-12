@@ -1,5 +1,7 @@
 ##### § 2.24 How will the bureau deny requests? #####
 
+Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
+
 (a)The bureau must notify you in writing of any denial of your request.
 
 (b) The denial notification must include:

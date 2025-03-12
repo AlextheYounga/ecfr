@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 84 FR 55051, Oct. 15, 2019.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -455,6 +453,7 @@ Link to an amendment published at 84 FR 55051, Oct. 15, 2019.
 |                                            679.28(f)                                            |                                     \-0206 and -0445                                     |
 |                                            679.28(h)                                            |                                     \-0213 and -0515                                     |
 |                                        679.28(j) and (k)                                        |                                          \-0515                                          |
+|                                            679.28(l)                                            |                                          \-0330                                          |
 |                                            679.31(c)                                            |                                          \-0269                                          |
 |                                    679.32(c)(1) through (3)                                     |                                          \-0269                                          |
 |                                          679.32(c)(3)                                           |                                     \-0269 and -0318                                     |
@@ -502,6 +501,8 @@ Link to an amendment published at 84 FR 55051, Oct. 15, 2019.
 |                                           679.100(c)                                            |                                          \-0515                                          |
 |                                           679.100(d)                                            |                                          \-0330                                          |
 |                                     679.110(a) through (f)                                      |                               \-0206, -0334, -0564, -0700                                |
+|                                           679.120(b)                                            |                                          \-0330                                          |
+|                                    679.120(c), (d), and (e)                                     |                                          \-0318                                          |
 |                                      680.4(a) through (q)                                       |                                          \-0514                                          |
 |                                  680.5(a) and (h) through (l)                                   |                                          \-0514                                          |
 |                                            680.5(b)                                             |                                          \-0515                                          |

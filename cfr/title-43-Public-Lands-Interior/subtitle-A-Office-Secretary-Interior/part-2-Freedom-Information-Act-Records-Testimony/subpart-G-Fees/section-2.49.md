@@ -1,5 +1,7 @@
 ##### § 2.49 When will you be notified of anticipated fees? #####
 
+Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
+
 (a) The bureau will notify you under this section unless:
 
 (1) The anticipated fee is less than $50 (see § 2.37(g) of this subpart).

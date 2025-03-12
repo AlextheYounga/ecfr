@@ -1,5 +1,7 @@
 ##### § 2.27 When will the bureau notify a submitter of a request for their possibly confidential information? #####
 
+Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
+
 (a) Except as outlined in § 2.29 of this subpart, a bureau must promptly notify a submitter in writing when it receives a FOIA request if:
 
 (1) The requested information has been designated by the submitter as confidential information under § 2.26(a) of this subpart; or

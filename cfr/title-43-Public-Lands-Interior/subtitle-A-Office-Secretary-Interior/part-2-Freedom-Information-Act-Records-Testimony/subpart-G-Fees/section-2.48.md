@@ -1,5 +1,7 @@
 ##### § 2.48 How will the bureau evaluate your fee waiver request? #####
 
+Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
+
 (a) In deciding whether your fee waiver request meets the requirements of § 2.45(a)(1) of this subpart, the bureau will consider the criteria listed in paragraphs (a)(1) through (a)(4) of this section. You must address and meet each of these criteria in order to demonstrate that you are entitled to a fee waiver.
 
 (1) How the records concern the operations or activities of the Federal government.

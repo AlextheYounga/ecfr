@@ -1,5 +1,7 @@
 ##### § 248.2 Definitions. #####
 
+Link to an amendment published at 84 FR 62129, Nov. 14, 2019.
+
 Unless otherwise specified, for purposes of this part:
 
 (a) *Affiliate* has the same meaning as in section 2(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(k)).

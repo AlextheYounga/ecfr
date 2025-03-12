@@ -1,5 +1,7 @@
 ##### § 2.3 Where should you send a FOIA request? #####
 
+Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
+
 (a) The Department does not have a central location for submitting FOIA requests and it does not maintain a central index or database of records in its possession. Instead, the Department's records are decentralized and maintained by various bureaus and offices throughout the country.
 
 (b) To make a request for Department records, you must write directly to the bureau that you believe maintains those records.

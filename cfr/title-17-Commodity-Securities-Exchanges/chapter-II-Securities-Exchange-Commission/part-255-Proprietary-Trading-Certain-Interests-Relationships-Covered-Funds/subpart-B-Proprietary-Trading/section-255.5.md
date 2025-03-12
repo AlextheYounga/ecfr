@@ -1,5 +1,7 @@
 ##### § 255.5 Permitted risk-mitigating hedging activities. #####
 
+Link to an amendment published at 84 FR 62243, Nov. 14, 2019.
+
 (a) *Permitted risk-mitigating hedging activities.* The prohibition contained in § 255.3(a) does not apply to the risk-mitigating hedging activities of a banking entity in connection with and related to individual or aggregated positions, contracts, or other holdings of the banking entity and designed to reduce the specific risks to the banking entity in connection with and related to such positions, contracts, or other holdings.
 
 (b) *Requirements.* The risk-mitigating hedging activities of a banking entity are permitted under paragraph (a) of this section only if:

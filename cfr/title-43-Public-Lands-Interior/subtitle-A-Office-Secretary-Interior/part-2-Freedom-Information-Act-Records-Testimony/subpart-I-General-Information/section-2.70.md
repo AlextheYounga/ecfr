@@ -1,5 +1,7 @@
 ##### § 2.70 What definitions apply to subparts A through I of this part? #####
 
+Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
+
 For the purposes of subparts A through I of this part, the following definitions apply:
 
 *Bureau* means any major component of the Department administering its own FOIA program. A list of these components is available at: *http://www.doi.gov/foia/contacts.*

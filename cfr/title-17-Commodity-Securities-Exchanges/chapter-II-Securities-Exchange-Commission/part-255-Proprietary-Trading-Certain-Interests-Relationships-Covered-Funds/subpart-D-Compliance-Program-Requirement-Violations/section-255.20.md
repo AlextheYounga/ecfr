@@ -1,5 +1,7 @@
 ##### § 255.20 Program for compliance; reporting #####
 
+Link to an amendment published at 84 FR 62245, Nov. 14, 2019.
+
 (a) *Program requirement.* Each banking entity shall develop and provide for the continued administration of a compliance program reasonably designed to ensure and monitor compliance with the prohibitions and restrictions on proprietary trading and covered fund activities and investments set forth in section 13 of the BHC Act and this part. The terms, scope and detail of the compliance program shall be appropriate for the types, size, scope and complexity of activities and business structure of the banking entity.
 
 (b) *Contents of compliance program.* Except as provided in paragraph (f) of this section, the compliance program required by paragraph (a) of this section, at a minimum, shall include:

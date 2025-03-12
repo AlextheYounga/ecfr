@@ -1,5 +1,7 @@
 ##### § 2.66 What are public liaisons? #####
 
+Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
+
 (a) Each bureau has a FOIA Public Liaison who can assist requesters who have concerns about the service they received when seeking records or who are seeking assistance under § 2.3(d) or § 2.37(i) of this part.
 
 (b) FOIA Public Liaisons report to the Department's Chief FOIA Officer and you can raise concerns to them about the service you have received.

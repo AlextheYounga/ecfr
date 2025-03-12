@@ -1,5 +1,7 @@
 ##### § 2.20 When will expedited processing be provided and how will it affect your request? #####
 
+Link to an amendment published at 84 FR 61827, Nov. 14, 2019.
+
 (a) The bureau will provide expedited processing upon request if you demonstrate to the satisfaction of the bureau that there is a compelling need for the records. The following circumstances demonstrate a compelling need:
 
 (1) Where failure to expedite the request could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or

@@ -1,5 +1,7 @@
 ##### § 2.12 What should you know about how bureaus process requests? #####
 
+Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
+
 (a) Except as described in §§ 2.4 and 2.13 of this part, the bureau to which the request is addressed is responsible for responding to the request and for making a reasonable effort to search for responsive records.
 
 (b) In determining which records are responsive to a request, the bureau will include only records in its possession and control on the date that it begins its search.

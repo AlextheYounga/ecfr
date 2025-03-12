@@ -1,5 +1,7 @@
 ##### § 351.3 Prohibition on proprietary trading. #####
 
+Link to an amendment published at 84 FR 62167, Nov. 14, 2019.
+
 (a) *Prohibition.* Except as otherwise provided in this subpart, a banking entity may not engage in proprietary trading. *Proprietary trading* means engaging as principal for the trading account of the banking entity in any purchase or sale of one or more financial instruments.
 
 (b) *Definition of trading account.* (1) Trading account means any account that is used by a banking entity to:

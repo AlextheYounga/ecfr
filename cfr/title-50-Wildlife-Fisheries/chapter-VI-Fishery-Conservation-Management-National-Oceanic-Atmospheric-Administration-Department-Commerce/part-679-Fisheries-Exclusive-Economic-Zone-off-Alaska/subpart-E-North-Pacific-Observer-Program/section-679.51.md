@@ -1,7 +1,5 @@
 ##### § 679.51 Observer and Electronic Monitoring System requirements for vessels and plants. #####
 
-Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
-
 (a) *Observer requirements for vessels* - (1) *Groundfish and halibut fishery partial coverage category* - (i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut with hook-and-line gear or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) A catcher vessel designated on an FFP under § 679.4(b)(1);
@@ -99,6 +97,8 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 (*1*) *Increased observer coverage option.* If the vessel owner selects the increased observer coverage option under § 679.100(b)(1), at least two observers must be aboard the vessel at all times when the vessel is operating in either the BSAI or GOA groundfish fisheries when directed fishing for Pacific cod is open in the BSAI, or while the vessel is groundfish CDQ fishing. At least one of the observers must be endorsed as a lead level 2 observer. More than two observers are required if the observer workload restriction would otherwise preclude sampling as required.
 
 (*2*) *Scales option.* If the vessel owner selects the scales option under § 679.100(b)(2), one lead level 2 observer must be aboard the vessel at all times when the vessel is operating in either the BSAI or GOA groundfish fisheries when directed fishing for Pacific cod is open in the BSAI, or while the vessel is groundfish CDQ fishing.
+
+(F) *Halibut deck sorting.* Vessels subject to § 679.120 must have at least two observers aboard at all times when halibut deck sorting may occur; one observer must be endorsed as a lead level 2 observer. More than two observers are required if the observer workload restriction would otherwise preclude sampling as required.
 
 (3) *Catcher/processor placement in the partial observer coverage category for a year* - (i) *Definitions.* For purposes of this paragraph (a)(3), these terms are defined as follows:
 
@@ -219,6 +219,8 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 (E) Allowing observers to determine the sex of fish when this procedure will not decrease the value of a significant portion of the catch.
 
 (F) Collecting all seabirds that are incidentally taken on the observer-sampled portions of hauls using hook-and-line gear or as requested by an observer during non-sampled portions of hauls.
+
+(G) During halibut deck sorting, providing halibut to the observer on deck.
 
 (ix) *Transfer at sea.* (A) Ensure that transfers of observers at sea are carried out during daylight hours, under safe conditions, and with the agreement of observers involved.
 
@@ -360,4 +362,4 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (iv) If an EM system malfunction occurs during a fishing trip that does not allow the recording of retrieval location information and imagery of catch as described in the vessel's VMP, the vessel operator must cease fishing and contact OLE immediately.
 
-[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018]
+[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019]

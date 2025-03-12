@@ -1,5 +1,7 @@
 ##### § 2.47 How will the bureau notify you if it denies your fee waiver request? #####
 
+Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
+
 If the bureau denies your request for a fee waiver, it will notify you, in writing, of the following:
 
 (a) The basis for the denial, including a full explanation of why the fee waiver request does not meet the Department's fee waiver criteria in § 2.48 of this subpart;

@@ -1,5 +1,7 @@
 ##### § 248.14 Limitations on relationships with a covered fund. #####
 
+Link to an amendment published at 84 FR 62137, Nov. 14, 2019.
+
 (a) *Relationships with a covered fund.* (1) Except as provided for in paragraph (a)(2) of this section, no banking entity that serves, directly or indirectly, as the investment manager, investment adviser, commodity trading advisor, or sponsor to a covered fund, that organizes and offers a covered fund pursuant to § 248.11 of this subpart, or that continues to hold an ownership interest in accordance with § 248.11(b) of this subpart, and no affiliate of such entity, may enter into a transaction with the covered fund, or with any other covered fund that is controlled by such covered fund, that would be a covered transaction as defined in section 23A of the Federal Reserve Act (12 U.S.C. 371c(b)(7)), as if such banking entity and the affiliate thereof were a member bank and the covered fund were an affiliate thereof.
 
 (2) Notwithstanding paragraph (a)(1) of this section, a banking entity may:

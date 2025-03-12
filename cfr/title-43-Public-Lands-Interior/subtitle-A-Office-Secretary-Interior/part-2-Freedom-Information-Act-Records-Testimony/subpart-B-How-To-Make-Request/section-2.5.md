@@ -1,5 +1,7 @@
 ##### § 2.5 How should you describe the records you seek? #####
 
+Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
+
 (a) You must reasonably describe the records sought. A reasonable description contains sufficient detail to enable bureau personnel familiar with the subject matter of the request to locate the records with a reasonable amount of effort.
 
 (b) You should include as much detail as possible about the specific records or types of records that you are seeking. This will assist the bureau in identifying the requested records (for example, time frames involved or specific personnel who may have the requested records). For example, whenever possible, identify:

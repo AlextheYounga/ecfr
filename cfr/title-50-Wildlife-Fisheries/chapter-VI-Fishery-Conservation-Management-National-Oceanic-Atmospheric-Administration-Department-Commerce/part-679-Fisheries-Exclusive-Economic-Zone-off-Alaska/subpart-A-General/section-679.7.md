@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -26,7 +24,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iii) Deployment of jig gear by operators of vessels fishing for salmon during seasons governed by the State of Alaska.
 
-(7) *Inshore/offshore* - (i) Operate a vessel in the “inshore component in the GOA” as defined in § 679.2 without a valid Inshore Processing endorsement on the vessel's FFP or FPP.
+(7) *Inshore/offshore.* (i) Operate a vessel in the “inshore component in the GOA” as defined in § 679.2 without a valid Inshore Processing endorsement on the vessel's FFP or FPP.
 
 (ii) Operate a vessel as a “stationary floating processor” in the “inshore component in the GOA” as defined in § 679.2, and as a catcher/processor in the BSAI during the same fishing year.
 
@@ -116,7 +114,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) Operate as a tender vessel west of 157°00′ W long. while retaining on board at any time more than 600,000 lb (272 mt) of unprocessed pollock.
 
-(4) *Catcher vessel restrictions* - (i) Deliver Pacific cod harvested in the Western GOA or Central GOA regulatory area including Federal reporting areas 610, 620, or 630, to a vessel for processing in a GOA regulatory area other than the area in which the harvest occurred.
+(4) *Catcher vessel restrictions.* (i) Deliver Pacific cod harvested in the Western GOA or Central GOA regulatory area including Federal reporting areas 610, 620, or 630, to a vessel for processing in a GOA regulatory area other than the area in which the harvest occurred.
 
 (ii) Deliver Pacific cod harvested in the Western GOA or Central GOA regulatory area, including Federal reporting areas 610, 620, or 630, to another vessel for processing unless the processing vessel carries an operable NMFS-approved Vessel Monitoring System that complies with the requirements in § 679.28(f).
 
@@ -128,7 +126,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (vi) Eligible catcher/processor LLP license holders electing to add a catcher vessel endorsement for the Western or Central GOA under § 679.4 (k)(10)(vii)(B) and (C) of this part are prohibited from catching and processing Pacific cod onboard a vessel under the authority of that groundfish license in the directed Pacific cod fishery in Federal reporting areas 610, 620, or 630.
 
-(5) *Stationary floating processor restrictions* - (i) Except as provided in paragraph (k)(3)(iv) of this section, to use a stationary floating processor to process Pacific cod at more than one single geographic location in the GOA during a fishing year if the Pacific cod was harvested in a Western or Central GOA directed fishery within Federal reporting areas 610, 620, or 630.
+(5) *Stationary floating processor restrictions.* (i) Except as provided in paragraph (k)(3)(iv) of this section, to use a stationary floating processor to process Pacific cod at more than one single geographic location in the GOA during a fishing year if the Pacific cod was harvested in a Western or Central GOA directed fishery within Federal reporting areas 610, 620, or 630.
 
 (ii) Operate as a stationary floating processor in the GOA and as a catcher/processor in the GOA during the same calendar year.
 
@@ -174,7 +172,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (9) Conduct directed fishing for flatfish, as defined in § 679.2, with a vessel required to be federally permitted in the Central GOA Regulatory Area, as defined in Figure 3 to this part, without meeting the requirements for modified nonpelagic trawl gear specified at § 679.24(f) and illustrated in Figures 25, 26, and 27 to this part.
 
-(c) *Prohibitions specific to BSAI* - (1) For vessel owners and operators subject to § 679.100(a), to use the vessel as a catcher/processor to conduct directed fishing for Pacific cod with hook-and-line gear in the BSAI or to conduct groundfish CDQ fishing.
+(c) *Prohibitions specific to BSAI.* (1) For vessel owners and operators subject to § 679.100(a), to use the vessel as a catcher/processor to conduct directed fishing for Pacific cod with hook-and-line gear in the BSAI or to conduct groundfish CDQ fishing.
 
 (2) *Prohibited species.* Conduct any fishing contrary to a notification issued under § 679.21.
 
@@ -198,7 +196,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (C) A pot or hook-and-line gear type endorsement.
 
-(4) *Parallel fishery closures* - (i) Use a vessel named or required to be named on an FFP to catch and process Pacific cod with pot gear from waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*6*) of this part for pot gear if the BSAI is open to directed fishing for Pacific cod but is not open to directed fishing for Pacific cod by a catcher/processor using pot gear.
+(4) *Parallel fishery closures.* (i) Use a vessel named or required to be named on an FFP to catch and process Pacific cod with pot gear from waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*6*) of this part for pot gear if the BSAI is open to directed fishing for Pacific cod but is not open to directed fishing for Pacific cod by a catcher/processor using pot gear.
 
 (ii) Use a vessel named or required to be named on an FFP, to catch and process Pacific cod with hook-and-line gear from waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*4*) of this part for hook-and-line gear, if the BSAI is open to directed fishing for Pacific cod but is not open to directed fishing for Pacific cod by a catcher/processor using hook-and-line gear.
 
@@ -212,9 +210,9 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (3) For a CDQ group, exceed a CDQ or a halibut PSQ.
 
-(4) *Catch Accounting* - (i) *General* - (A) For the operator of a catcher/processor using trawl gear or a mothership, to harvest or take deliveries of CDQ or PSQ species without a valid scale inspection report signed by an authorized scale inspector under § 679.28(b)(2) on board the vessel.
+(4) *Catch Accounting* - (i) *General.* (A) For the operator of a catcher/processor using trawl gear or a mothership, to harvest or take deliveries of CDQ or PSQ species without a valid scale inspection report signed by an authorized scale inspector under § 679.28(b)(2) on board the vessel.
 
-(B) For the operator of a vessel required to have an observer sampling station described at § 679.28(d), to harvest or take deliveries of CDQ or PSQ species without a valid observer sampling station inspection report issued by NMFS under § 679.28(d)(8) on board the vessel.
+(B) For the operator of a vessel required to have an observer sampling station described at § 679.28(d), to harvest or take deliveries of CDQ or PSQ species without a valid observer sampling station inspection report issued by NMFS under § 679.28(d)(10) on board the vessel.
 
 (C) For the manager of a shoreside processor or stationary floating processor, or the manager or operator of a buying station or tender vessel that is required elsewhere in this part to weigh catch on a scale approved by the State of Alaska under § 679.28(c), to fail to weigh catch on a scale that meets the requirements of § 679.28(c).
 
@@ -268,7 +266,31 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (10) For a CDQ group representative, to remove a vessel from the CDQ vessel registration list under § 679.5(m)(4) without first providing notice to the operator of the registered vessel that the vessel is being removed from the CDQ vessel registration list or when the vessel operator is groundfish CDQ fishing.
 
-(e) [Reserved]
+(e) *Halibut Deck Sorting.* (1) Conduct halibut deck sorting without notifying the observer at least 15 minutes prior to bringing fish onboard as described in § 679.120(e)(2).
+
+(2) For any haul for which the notification at § 679.120(e)(2) is provided, allow fish to be spilled from the codend without an observer being present to monitor halibut deck sorting.
+
+(3) Sort halibut from the catch prior to weighing except in compliance with requirements at § 679.120.
+
+(4) Sort halibut on deck without an observer present to monitor halibut deck sorting.
+
+(5) Discard halibut sorted on deck prior to the observer's completion of data collection for each halibut.
+
+(6) Sort or discard any species other than halibut during halibut deck sorting.
+
+(7) Conduct halibut deck sorting past the time limit set by NMFS in the vessel's Observer Sampling Station Inspection Report.
+
+(8) Conduct halibut deck sorting without complying with the observer deck sampling station requirements at § 679.28(d)(9).
+
+(9) Fail to have an approved Deck Safety Plan before conducting halibut deck sorting.
+
+(10) Fail to notify the Observer Program for purposes of the pre-cruise meeting when required by § 679.120(c).
+
+(11) Weigh catch on a NMFS-approved scale that complies with the requirements at § 679.28(b) when halibut deck sorting unless three or more observers are present on the vessel and an observer has been notified and is available to complete data collection duties in the factory.
+
+(12) Sort halibut without a video monitoring system meeting requirements at § 679.28(l).
+
+(13) Fail to comply with any other requirement or restriction specified in this part or violate any provision of this part.
 
 (f) *IFQ fisheries.* (1) Fail to submit, or submit inaccurate information on, any report, application, or statement required under this part.
 
@@ -286,7 +308,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (5) Possess, buy, sell, or transport IFQ or CDQ halibut or IFQ sablefish harvested or landed in violation of any provision of this part.
 
-(6) *Landing* - (i) IFQ permit or IFQ hired master permit. Make an IFQ landing without an IFQ permit or IFQ hired master permit, as appropriate, in the name of the individual making the landing.
+(6) *Landing.* (i) IFQ permit or IFQ hired master permit. Make an IFQ landing without an IFQ permit or IFQ hired master permit, as appropriate, in the name of the individual making the landing.
 
 (ii) Hired master, CDQ. Make a CDQ halibut landing without a CDQ hired master permit listing the name of the hired master.
 
@@ -487,7 +509,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (v) *Catch weighing.* Process any groundfish that was not weighed on a scale approved by the State of Alaska and meeting the requirements specified in § 679.28(c).
 
-(vi) *Catch monitoring and control plan (CMCP)* - (A) Take deliveries or process groundfish delivered by a vessel engaged in directed fishing for BSAI pollock without following an approved CMCP as described at § 679.28(g). A copy of the CMCP must be maintained on the premises and made available to authorized officers or NMFS-authorized personnel upon request.
+(vi) *Catch monitoring and control plan (CMCP).* (A) Take deliveries or process groundfish delivered by a vessel engaged in directed fishing for BSAI pollock without following an approved CMCP as described at § 679.28(g). A copy of the CMCP must be maintained on the premises and made available to authorized officers or NMFS-authorized personnel upon request.
 
 (B) Allow sorting of fish at any location in the processing plant other than those identified in the CMCP under § 678.28(g)(7).
 
@@ -617,7 +639,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (7) *Use caps.* Exceed the use caps that apply under § 679.82(a).
 
-(8) *Rockfish entry level longline fishery* - (i) Take deliveries of, or process, groundfish caught by a catcher vessel directed fishing in the rockfish entry level longline fishery unless operating as a shoreside processor.
+(8) *Rockfish entry level longline fishery.* (i) Take deliveries of, or process, groundfish caught by a catcher vessel directed fishing in the rockfish entry level longline fishery unless operating as a shoreside processor.
 
 (ii) Deliver groundfish caught by a catcher vessel directed fishing in the rockfish entry level longline fishery to any processor other than a shoreside processor.
 

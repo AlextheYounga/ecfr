@@ -1,5 +1,7 @@
 ##### § 2.19 When may the bureau extend the basic time limit? #####
 
+Link to an amendment published at 84 FR 61827, Nov. 14, 2019.
+
 (a) The bureau may extend the basic time limit, if unusual circumstances exist, by notifying you in writing of:
 
 (1) The unusual circumstances involved; and

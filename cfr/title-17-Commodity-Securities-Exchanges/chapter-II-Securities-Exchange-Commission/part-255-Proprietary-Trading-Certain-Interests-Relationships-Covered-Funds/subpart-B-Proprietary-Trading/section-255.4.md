@@ -1,5 +1,7 @@
 ##### § 255.4 Permitted underwriting and market making-related activities. #####
 
+Link to an amendment published at 84 FR 62241, Nov. 14, 2019.
+
 (a) *Underwriting activities* - (1) *Permitted underwriting activities.* The prohibition contained in § 255.3(a) does not apply to a banking entity's underwriting activities conducted in accordance with this paragraph (a).
 
 (2) *Requirements.* The underwriting activities of a banking entity are permitted under paragraph (a)(1) of this section only if:

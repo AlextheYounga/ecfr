@@ -1,5 +1,7 @@
 ##### § 351.6 Other permitted proprietary trading activities. #####
 
+Link to an amendment published at 84 FR 62172, Nov. 14, 2019.
+
 (a) *Permitted trading in domestic government obligations.* The prohibition contained in § 351.3(a) does not apply to the purchase or sale by a banking entity of a financial instrument that is:
 
 (1) An obligation of, or issued or guaranteed by, the United States;

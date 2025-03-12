@@ -1,5 +1,7 @@
 ##### § 2.23 When will the bureau deny a request or procedural benefits? #####
 
+Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
+
 (a) A bureau denies a request when it makes a decision that:
 
 (1) A requested record is exempt, in full or in part;

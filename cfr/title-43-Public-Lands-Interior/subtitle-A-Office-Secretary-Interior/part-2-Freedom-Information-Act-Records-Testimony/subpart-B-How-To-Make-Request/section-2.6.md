@@ -1,5 +1,7 @@
 ##### § 2.6 How will fee information affect the processing of your request? #####
 
+Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
+
 (a) Your request must explicitly state that you will pay all fees associated with processing the request, that you will pay fees up to a specified amount, and/or that you are seeking a fee waiver.
 
 (b) If the bureau anticipates that the fees for processing the request will exceed the amount you have agreed to pay, or if you did not agree in writing to pay processing fees or request a fee waiver and the bureau anticipates the processing costs will exceed $50 (see § 2.37(g) of this part) or will exceed your entitlements (see § 2.39 of this part), the bureau will notify you:

@@ -1,12 +1,10 @@
 ##### § 679.32 Groundfish and halibut CDQ catch monitoring. #####
 
-Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
-
 (a) *Applicability.* This section contains requirements for CDQ groups, vessel operators, and managers of processors that harvest or process fixed gear sablefish CDQ, pollock CDQ, or groundfish CDQ. Regulations governing the catch accounting of halibut CDQ are at § 679.40(h).
 
 (b) *PSQ catch.* Time and area closures required once a CDQ group has reached its salmon PSQ or crab PSQ are listed in § 679.7(d)(5). The catch of salmon or crab by vessels using other than trawl gear does not accrue to the PSQ for these species. The discard of halibut by vessels using pot gear, jig gear, or hook-and-line gear to harvest sablefish CDQ will not accrue to the halibut PSQ if this bycatch has been exempted from the halibut PSC limit in the annual BSAI specifications published in the Federal Register.
 
-(c) *Fisheries monitoring requirements and catch accounting sources for vessels sablefish, pollock, or groundfish CDQ fishing* - (1) *Sablefish CDQ fishing with fixed gear.*
+(c) *Fisheries monitoring requirements and catch accounting sources for vessels sablefish, pollock, or groundfish CDQ fishing*—(1) *Sablefish CDQ fishing with fixed gear.*
 
 (i) *Observer coverage.* Operators and owners of catcher vessels sablefish CDQ fishing must comply with observer coverage requirements at § 679.51(a)(1). Operators and owners of catcher/processors sablefish CDQ fishing must comply with observer coverage requirements at § 679.51(a)(2).
 
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (B) *Groundfish CDQ.* NMFS will use the catch information submitted under standard reporting requirements in § 679.5 to debit any other groundfish CDQ species caught while sablefish CDQ fishing from applicable groundfish CDQ accounts.
 
-(2) *Pollock CDQ fishing* - (i) *Operational requirements for catcher/processors and motherships.* Operators of catcher/processors directed fishing for pollock CDQ and motherships taking deliveries of codends from catcher vessels directed fishing for pollock must comply with the following:
+(2) *Pollock CDQ fishing*—(i) *Operational requirements for catcher/processors and motherships.* Operators of catcher/processors directed fishing for pollock CDQ and motherships taking deliveries of codends from catcher vessels directed fishing for pollock must comply with the following:
 
 (A) Comply with observer coverage requirements at § 679.51(a)(2).
 
@@ -24,11 +22,11 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (C) Comply with the catch weighing and observer sampling station requirements at § 679.63(a).
 
-(ii) *Data sources used for CDQ catch accounting* - (A) *Catcher/processors and motherships.* NMFS will use observer data as the basis to debit pollock CDQ, groundfish CDQ, and PSQ account balances.
+(ii) *Data sources used for CDQ catch accounting*—(A) *Catcher/processors and motherships.* NMFS will use observer data as the basis to debit pollock CDQ, groundfish CDQ, and PSQ account balances.
 
 (B) *Catcher vessels delivering to shoreside processors.* NMFS will use the catch information submitted under standard reporting requirements in § 679.5 to debit pollock CDQ, other groundfish CDQ species, and PSQ caught while pollock CDQ fishing from applicable CDQ account balances.
 
-(3) *Groundfish CDQ fishing* - (i) *Operational requirements* - (A) *Catcher vessels using trawl gear and delivering sorted catch to a processor.* Operators of vessels in this category must comply with all of the following requirements:
+(3) *Groundfish CDQ fishing*—(i) *Operational requirements*—(A) *Catcher vessels using trawl gear and delivering sorted catch to a processor.* Operators of vessels in this category must comply with all of the following requirements:
 
 (*1*) Comply with the observer coverage requirements at § 679.51(a)(2).
 
@@ -54,7 +52,7 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (*3*) Provide an observer sampling station as described at § 679.28(d).
 
-(*4*) The operator of a mothership taking deliveries of unsorted codends from catcher vessels must weigh all catch on a scale that complies with the requirements of § 679.28(b). Catch must not be sorted before it is weighed, unless a provision for doing so is approved by NMFS for the vessel. Each CDQ haul must be sampled by an observer for species composition and the vessel operator must allow observers to use any scale approved by NMFS to weigh partial CDQ haul samples.
+(*4*) The operator of a mothership taking deliveries of unsorted codends from catcher vessels must weigh all catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.120, on a scale that complies with the requirements of § 679.28(b). Catch must not be sorted before it is weighed, unless a provision for doing so is approved by NMFS for the vessel. Each CDQ haul must be sampled by an observer for species composition and the vessel operator must allow observers to use any scale approved by NMFS to weigh partial CDQ haul samples.
 
 (D) *Observed catcher vessels using nontrawl gear.* This paragraph applies to all observed catcher vessels using nontrawl gear, except those catcher vessels regulated under paragraph (c)(3)(iii) of this section. Operators of vessels in this category must retain all CDQ species until they are delivered to a processor that meets the requirements of paragraph (d) of this section unless retention of groundfish CDQ species is not authorized under § 679.4, discard of the groundfish CDQ or PSQ species is required under subpart B of this part, or, in waters within the State of Alaska, discard is required by laws of the State of Alaska. All of the halibut PSQ must be counted and sampled for length or weight by the observer.
 
@@ -74,13 +72,13 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (B) *Observed catcher vessels using trawl gear.* The estimated weight of halibut and numbers of crab PSQ discarded at sea will be determined by using the observer's sample data. The weight or numbers of all landed groundfish CDQ and salmon PSQ will be derived from the delivery information submitted through the eLandings system, as required at § 679.5(e).
 
-(C) *Catcher/processors and motherships using trawl gear.* The weight and numbers of CDQ and PSQ species will be determined by applying the observer's species composition sampling data for each CDQ haul to the total weight of the CDQ haul as determined by weighing all catch from each CDQ haul on a scale certified under § 679.28(b).
+(C) *Catcher/processors and motherships using trawl gear.* The weight and numbers of CDQ and PSQ species will be determined by applying the observer's sampling data to the total weight of the CDQ haul.
 
 (D) *Observed catcher vessels using nontrawl gear.* This paragraph applies to all observed catcher vessels using nontrawl gear, except those catcher vessels regulated under paragraph (c)(3)(iii) of this section. The weight of halibut PSQ discarded at sea will be determined by using the observer's sample data. The weight or numbers of all landed groundfish CDQ and salmon PSQ will be derived from the delivery information submitted through the eLandings system, as required at § 679.5(e).
 
 (E) *Catcher/processors using nontrawl gear.* The weight of halibut PSQ and all groundfish CDQ species, except sablefish, will be determined by applying the observer's species composition sampling data to the estimate of total catch weight, if any CDQ species are discarded at sea. Sablefish CDQ caught with fixed gear is accounted for as described in paragraph (c)(1) of this section.
 
-(iii) *Groundfish CDQ fishing by catcher vessels less than or equal to 46 ft LOA using hook-and-line gear* - (A) *Applicability.* Regulations in this paragraph apply to the operators of catcher vessels less than or equal to 46 ft (14.0 m) LOA using hook-and-line gear when groundfish CDQ fishing and to the CDQ groups authorizing the operators of these vessels to harvest groundfish CDQ or halibut CDQ.
+(iii) *Groundfish CDQ fishing by catcher vessels less than or equal to 46 ft LOA using hook-and-line gear*—(A) *Applicability.* Regulations in this paragraph apply to the operators of catcher vessels less than or equal to 46 ft (14.0 m) LOA using hook-and-line gear when groundfish CDQ fishing and to the CDQ groups authorizing the operators of these vessels to harvest groundfish CDQ or halibut CDQ.
 
 (B) *Halibut CDQ or halibut IFQ.* If any halibut CDQ or halibut IFQ are retained during a fishing trip on board a vessel described in paragraph (c)(3)(iii)(A) of this section, the following requirements apply:
 
@@ -98,7 +96,7 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (*3*) *Fishery closures.* Directed fishing for groundfish CDQ, except sablefish CDQ managed under paragraph (c)(1) of this section, by catcher vessels less than or equal to 46 ft LOA using hook-and-line gear is prohibited unless the Regional Administrator publishes notification in the Federal Register authorizing such directed fishing. In deciding whether to authorize directed fishing, NMFS will consider whether a CDQ group has sufficient halibut in its small catcher vessel halibut PSC limit to support directed fishing for groundfish CDQ by these catcher vessels. Upon determining that a CDQ group's small catcher vessel halibut PSC limit has been or will be reached, the Regional Administrator will publish notification in the Federal Register prohibiting directed fishing for all groundfish CDQ species, except sablefish CDQ, by catcher vessels less than or equal to 46 ft LOA using hook-and-line gear fishing for that CDQ group. If the estimated halibut PSC by vessels described in paragraph (c)(3)(iii)(A) of this section exceeds the balance of the small catcher vessel halibut PSC limit on December 31 of any year, and if the CDQ group has remaining halibut PSQ on that date, NMFS will transfer an amount of halibut PSQ into the CDQ group's small catcher vessel halibut PSC limit to bring the balance of the small catcher vessel halibut PSC limit to zero. NMFS will make the determination about whether such an administrative transfer is necessary after data from the fishing year is finalized.
 
-(d) *Monitoring requirements for shoreside processors and stationary floating processors* - (1) *Requirements for processors taking deliveries of pollock CDQ* - (i) *Catch weighing.* Managers of shoreside processors or stationary floating processors taking deliveries of pollock CDQ must comply with the requirements at § 679.63(c).
+(d) *Monitoring requirements for shoreside processors and stationary floating processors*—(1) *Requirements for processors taking deliveries of pollock CDQ*—(i) *Catch weighing.* Managers of shoreside processors or stationary floating processors taking deliveries of pollock CDQ must comply with the requirements at § 679.63(c).
 
 (ii) *Catch monitoring and control plan.* Managers of AFA inshore processors or stationary floating processors taking deliveries of pollock CDQ must follow an approved catch monitoring and control plan as described at § 679.28(g).
 
@@ -116,11 +114,11 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (v) *CDQ and PSQ sorting and weighing.* Sorting and weighing of CDQ and PSQ must be monitored by an observer.
 
-(e) *Use of non-CDQ harvest regulations for vessels in voluntary fishing cooperatives* - (1) *Applicability.* If approved by NMFS under this paragraph (e), vessels participating in a voluntary fishing cooperative in a non-CDQ sector are authorized to conduct groundfish CDQ fishing under the same regulations that apply while such vessels are used to directed fish in the non-CDQ fisheries and are not required to comply with the CDQ harvest regulations in paragraph (c)(3)(i) of this section.
+(e) *Use of non-CDQ harvest regulations for vessels in voluntary fishing cooperatives*—(1) *Applicability.* If approved by NMFS under this paragraph (e), vessels participating in a voluntary fishing cooperative in a non-CDQ sector are authorized to conduct groundfish CDQ fishing under the same regulations that apply while such vessels are used to directed fish in the non-CDQ fisheries and are not required to comply with the CDQ harvest regulations in paragraph (c)(3)(i) of this section.
 
 (2) *Who may apply?* A CDQ group representative, a representative of an association representing CDQ groups, or the authorized representative of a voluntary fishing cooperative may submit an application to use alternative CDQ harvest regulations.
 
-(3) *Application process* - (i) *Application documents.* A completed application is comprised of an application form and a copy of the cooperative contract or an affidavit, as described below:
+(3) *Application process*—(i) *Application documents.* A completed application is comprised of an application form and a copy of the cooperative contract or an affidavit, as described below:
 
 (A) *Application form.* The application to use alternative CDQ harvest regulations is available on the NMFS Alaska Region Web site at *www.alaskafisheries.noaa.gov.* All information fields must be accurately completed, including information about the applicant, the voluntary fishing cooperative, and the vessels participating in the voluntary cooperative.
 
@@ -128,7 +126,7 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (ii) *Application submission.* The application for use of non-CDQ harvest regulations must be submitted to the Regional Administrator per the instructions on the application form.
 
-(iii) *Submittal and duration* - (A) *Submittal.* An application requesting approval for the use of non-CDQ harvest regulations may be submitted to NMFS at any time.
+(iii) *Submittal and duration*—(A) *Submittal.* An application requesting approval for the use of non-CDQ harvest regulations may be submitted to NMFS at any time.
 
 (B) *Duration.* Once approved, an application to use alternative CDQ harvest regulations is effective as of the date on which NMFS approves the application. The approval is effective until the requesting entity withdraws its application, or until there is a change in the membership of the voluntary cooperative, whichever occurs first.
 
@@ -138,4 +136,4 @@ Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
 
 (vi) *Amendments.* The entity applied for use of non-CDQ harvest regulations must promptly notify NMFS of any changes in the voluntary fishing cooperative's membership by re-applying in accordance with this paragraph (e). Amendments to an approved application to use alternative CDQ harvest regulations may be submitted to NMFS at any time, and will be reviewed under the requirements of this paragraph (e).
 
-[77 FR 6499, Feb. 8, 2012, as amended at 77 FR 59060, Sept. 26, 2012; 77 FR 70091, Nov. 21, 2012; 81 FR 26744, May 4, 2016; 83 FR 30532, June 29, 2018]
+[77 FR 6499, Feb. 8, 2012, as amended at 77 FR 59060, Sept. 26, 2012; 77 FR 70091, Nov. 21, 2012; 81 FR 26744, May 4, 2016; 83 FR 30532, June 29, 2018; 84 FR 55053, Oct. 15, 2019]

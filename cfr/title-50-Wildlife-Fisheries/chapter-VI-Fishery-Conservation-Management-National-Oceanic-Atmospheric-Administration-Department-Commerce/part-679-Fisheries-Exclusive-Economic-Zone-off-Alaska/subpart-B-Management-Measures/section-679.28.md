@@ -1,7 +1,5 @@
 ##### § 679.28 Equipment and operational requirements. #####
 
-Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
-
 (a) *Applicability.* This section contains the operational requirements for scales, observer sampling stations, vessel monitoring system hardware, catch monitoring and control plans, catcher vessel electronic logbook software, and video monitoring systems. The operator or manager must retain a copy of all records described in this section (§ 679.28) as indicated at § 679.5(a)(5) and (6) and make available the records upon request of NMFS observers and authorized officers as indicated at § 679.5(a)(5).
 
 (b) *Scales used to weigh catch at sea.* In order to be approved by NMFS a scale used to weigh catch at sea must meet the type evaluation requirements set forth in paragraph (b)(1) of this section and the initial inspection and annual reinspection requirements set forth in paragraph (b)(2) of this section. Once a scale is installed on a vessel and approved by NMFS for use to weigh catch at sea, it must be reinspected annually and must be tested daily and meet the maximum permissible error (MPE) requirements described in paragraph (b)(3) of this section.
@@ -158,8 +156,6 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 
 (D) The month, day, year, and time that each fault was resolved to the nearest minute in A.l.t.
 
-(v) *Calibration and log requirements for 2015 only.* The owner and operator of a vessel with a scale used by the vessel crew to weigh catch that was approved after March 1, 2014, and before December 1, 2014, under § 679.28(b)(2) are not required to comply with the calibration log requirements at § 679.28(b)(5)(iii) or the fault log requirements at § 679.28(b)(5)(iv) until that scale is reapproved by a NMFS-authorized scale inspector in 2015.
-
 (6) *Scale installation requirements.* The scale display must be readable from the location where the observer collects unsorted catch unless otherwise authorized by a NMFS-authorized scale inspector.
 
 (7) *Platform scales used as observer sampling scales or to determine the known weight of test materials.* Platform scales used only as observer sampling scales or to determine the known weight of fish for a material test of another scale are required to meet all of the requirements of paragraph (b) of this section and appendix A to this part except sections 4.3.1 and 4.3.1.5 of appendix A to this part (printer) or section 4.3.1.8 (audit trail) of appendix A to this part.
@@ -287,13 +283,31 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 
 (B) *Collection area.* A collection area is a place where the observer, or vessel crew under the observer's guidance, collects fish as they come off the line or are removed from pots. It must be located where the observer can see the gear when it leaves the water. Where exposed to wind or seas, it must be equipped with a railing at least 1.0 m high and grating or other non-slip material.
 
-(9) *Inspection of the observer sampling station.* Each observer sampling station must be inspected and approved by NMFS prior to its use for the first time and then one time each year within 12 months of the date of the most recent inspection with the following exceptions: If the observer sampling station is moved or if the space or equipment available to the observer is reduced or removed when use of the observer sampling station is required, the observer sampling station inspection report issued under this section is no longer valid, and the observer sampling station must be reinspected and approved by NMFS. Inspection of the observer sampling station is in addition to inspection of the at-sea scales by an authorized scale inspector required at paragraph (b)(2) of this section.
+(9) *Observer deck sampling station.* Motherships and catcher/processors subject to § 679.120 must be equipped with a deck sampling station that meets the following requirements:
 
-(i) *How does a vessel owner arrange for an observer sampling station inspection?* The vessel owner must submit an Inspection Request for Observer Sampling Station with all the information fields accurately filled in to NMFS by fax (206-526-4066) or emailing (*station.inspections@noaa.gov*) at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.*
+(i) *Accessibility.* All equipment required for an observer deck sampling station must be available to the observer at all times when halibut deck sorting.
+
+(ii) *Location.* The observer deck sampling station must be located adjacent to the point of discard.
+
+(iii) *Work space.* The observer must be able to stand upright in front of the table.
+
+(iv) *Table* - (A) *Size.* The observer deck sampling station must include a table at least 0.6 m deep, 1.2 m wide, and 0.9 m high, and no more than 1.1 m high. The entire surface area of the table must be available for use by the observer. The table must be secured to the deck when halibut deck sorting. The table must be constructed to prevent fish from sliding off.
+
+(B) *Length measuring device.* The table must have a NMFS-approved length measuring device secured to the surface of the table.
+
+(v) *Single pathway.* There must be a single pathway for halibut to be conveyed to the observer deck sampling station. All halibut sorted on deck must pass over the observer table. There must be a single point of discard after the observer deck sampling station visible to the observer. Halibut too large to be lifted to the table may be measured on deck.
+
+(10) *Inspection of the observer sampling station.* Each observer sampling station must be inspected and approved by NMFS prior to its use for the first time and then once each year within 12 months of the most recent inspection with the following exceptions: If the observer sampling station is moved or if the space or equipment available to the observer is reduced or removed when use of the observer sampling station is required, the Observer Sampling Station Inspection Report issued under this section is no longer valid, and the observer sampling station must be reinspected and approved by NMFS. Inspection of the observer sampling station is in addition to inspection of the at-sea scales by an authorized scale inspector required at paragraph (b)(2) of this section.
+
+(i) *How does a vessel owner arrange for an observer sampling station inspection?* The vessel owner must submit an Inspection Request for Observer Sampling Station with all the information fields accurately filled in to NMFS by fax (206-526-4066) or emailing (*station.inspections@noaa.gov*) at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site at *https://alaskafisheries.noaa.gov.*
 
 (ii) Where will Observer sampling station inspections be conducted? Inspections will be conducted on vessels tied up at docks in Kodiak, Alaska, Dutch Harbor, Alaska, and in the Puget Sound area of Washington State.
 
-(iii) *Observer sampling station inspection report.* An observer sampling station inspection report, valid for 12 months from the date it is signed by NMFS, will be issued to the vessel owner if the observer sampling station meets the requirements in this paragraph (d). The vessel owner must maintain a current observer sampling station inspection report on board the vessel at all times when the vessel is required to provide an observer sampling station approved for use under this paragraph (d). The observer sampling station inspection report must be made available to the observer, NMFS personnel, or to an authorized officer upon request.
+(iii) *Observer Sampling Station Inspection Report.* An Observer Sampling Station Inspection Report will be issued by NMFS to the vessel owner if the observer sampling station meets the requirements in this paragraph (d). The vessel owner must maintain a current Observer Sampling Station Inspection Report on board the vessel at all times when the vessel is required to provide an observer sampling station approved for use under this paragraph (d). The Observer Sampling Station Inspection Report must be made available to the observer, NMFS personnel, or to an authorized officer upon request.
+
+(A) *Deck Sorting.* An Observer Sampling Station Inspection Report issued to the owner of a vessel participating in halibut deck sorting as described at § 679.120 will indicate the time limit for halibut deck sorting activities. Considerations used by NMFS to determine the time limit for halibut deck sorting include, but are not limited to, deck space and configuration, and best available halibut viability information.
+
+(B) [Reserved].
 
 (e) *Video Monitoring System Requirements* - (1) *What requirements must a vessel owner and operator comply with for a video monitoring system?* (i) The system must have sufficient data storage capacity to store all video data from an entire trip. Each frame of stored video data must record a time/date stamp in Alaska local time (A.l.t.).
 
@@ -307,11 +321,11 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 
 (vi) The system must record at a speed of no less than 5 unique frames per second at all times when the use of a video monitoring system is required.
 
-(vii) NMFS employees, or any individual authorized by NMFS, must be able to view any video footage from any point in the trip using a 16-bit or better color monitor that can display all cameras simultaneously and must be assisted by crew knowledgeable in the operation of the system.
+(vii) NMFS employees, or any individual authorized by NMFS, must be able to view any video footage from any point in the trip using a 16-bit or better color monitor that can display all camera views simultaneously and must be assisted by crew knowledgeable in the operation of the system.
 
 (viii) Unless exempted under paragraph (D) below, a 16-bit or better color monitor must be provided within the observer sampling station or at the location where the observer sorts and weighs samples. The monitor:
 
-(A) Must have the capacity to display all cameras simultaneously;
+(A) Must have the capacity to display all camera views simultaneously;
 
 (B) Must be operating when the use of a video monitoring system is required;
 
@@ -319,7 +333,7 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 
 (D) Is not applicable to longline C/Ps subject to § 679.100(b)(2).
 
-(2) *How does a vessel owner or operator arrange for NMFS to conduct a video monitoring system inspection?* The vessel owner or operator must submit an Inspection Request for a Video Monitoring System to NMFS with all information fields accurately filled in at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*).
+(2) *How does a vessel owner or operator arrange for NMFS to conduct a video monitoring system inspection?* The vessel owner or operator must submit an Inspection Request for a Video Monitoring System to NMFS with all information fields accurately filled in at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site (*https://alaskafisheries.noaa.gov*).
 
 (3) *What additional information is required for a video monitoring system inspection?* (i) A diagram drawn to scale showing all sorting locations, the location of the motion-compensated scale, the location of each camera and its coverage area, and the location of any additional video equipment must be submitted with the Inspection Request for a Video Monitoring System form. Diagrams for C/Ps and motherships in the BSAI pollock fishery, including pollock CDQ, must include the location of the salmon storage container.
 
@@ -535,7 +549,7 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 
 (C) Ensure that the ELB users are provided with a revised copy within 15 days of notification.
 
-(i) *Bin monitoring* - (1) *Bin monitoring standards.* The vessel owner or operator must comply with the requirements specified in paragraph (i)(1)(i) of this section unless the vessel owner or operator has requested, and NMFS has approved, one of the monitoring options described at paragraph (i)(1)(ii) or (i)(1)(iii) of this section.
+(i) *Bin monitoring* - (1) *Bin monitoring standards.* The vessel owner or operator must comply with the requirements specified in paragraph (i)(1)(i) of this section unless the vessel owner or operator has requested, and NMFS has approved, the video monitoring option described at paragraph (i)(1)(ii) of this section.
 
 (i) *Option 1 - No crew in bin or tank.* No crew may enter any bin or tank preceding the point where the observer samples unsorted catch, unless:
 
@@ -549,23 +563,23 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 
 (E) The observer informs the vessel operator, or his designee, that all sampling has been completed for a given haul, in which case crew may enter a tank containing fish from that haul without stopping the flow of fish or clearing catch between the tank and the observer sampling station.
 
-(ii) *Option 2 - Line of sight option.* From the observer sampling station, the location where the observer sorts and weighs samples, and the location from which the observer collects unsorted catch, an observer of average height (between 64 and 74 inches (140 and 160 cm)) must be able to see all areas of the bin or tank where crew could be located preceding the point where the observer samples catch. The observer must be able to view the activities of crew in the bin from these locations.
+(ii) *Option 2 - Video monitoring system option.* A vessel owner and operator must provide and maintain a NMFS-approved video monitoring system as specified in paragraph (e) of this section. Additionally, the vessel owner and operator must ensure that the system:
 
-(iii) *Option 3 - Video monitoring system option.* A vessel owner and operator must provide and maintain a NMFS-approved video monitoring system as specified in paragraph (e) of this section. Additionally, the vessel owner and operator must ensure that:
+(A) Records and retains all video for all periods when fish are inside the bin; and
 
-(A) All periods when fish are inside the bin are recorded and stored;
+(B) Provides sufficient resolution and field of view to see crew activities from any location within the tank where crew could be located.
 
-(B) The system provides sufficient resolution and field of view to see and read a text sample written in 130 point type (corresponding to line two of a standard Snellen eye chart) from any location within the tank where crew could be located.
+(iii) [Reserved]
 
 (iv) *Failure of line of sight or video option.* If the observer determines that a monitoring option selected by a vessel owner or operator specified in paragraph (i)(1)(ii) or (i)(1)(iii) of this section fails to provide adequate monitoring of all areas of the bin where crew could be located, then the vessel must use the monitoring option specified in paragraph (i)(1)(i) of this section until the observer determines that adequate monitoring of all areas of the bin where crew could be located is provided by the monitoring option selected by the vessel owner or operator.
 
-(2) *Who must have a bin monitoring option inspection?* A vessel owner or operator choosing to operate under the line of sight option (option 2) in paragraph (i)(1)(ii) of this section or the video option (option 3) in paragraph (i)(1)(iii) of this section must receive an annual bin monitoring option inspection.
+(2) *Who must have a bin monitoring option inspection?* A vessel owner or operator choosing to operate under the video option (option 2) in paragraph (i)(1)(ii) of this section must receive an annual bin monitoring option inspection.
 
-(3) *How does a vessel owner arrange for a bin monitoring option inspection?* The owner must submit an Inspection Request for Bin Monitoring to NMFS with all the information fields filled in at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*).
+(3) *How does a vessel owner arrange for a bin monitoring option inspection?* The owner must submit an Inspection Request for Bin Monitoring to NMFS with all the information fields filled in at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site (*https://alaskafisheries.noaa.gov*).
 
 (4) *Where will bin monitoring option inspections be conducted?* Inspections will be conducted on vessels tied to docks at Dutch Harbor, Alaska, Kodiak, Alaska, and in the Puget Sound area of Washington State.
 
-(5) *Bin monitoring option inspection report.* A bin monitoring option inspection report, valid for 12 months from the date it is signed by NMFS, will be issued to the vessel owner if the bin monitoring option meets the requirements of paragraph (i)(1)(ii) or (i)(1)(iii) of this section. The vessel owner must maintain a current bin option inspection report onboard the vessel at all times the vessel is required to provide an approved bin monitoring option under this paragraph (i)(5). The bin monitoring option inspection report must be made available to the observer, NMFS personnel or to an authorized officer upon request.
+(5) *Bin monitoring option inspection report.* A bin monitoring option inspection report will be issued to the vessel owner if the bin monitoring option meets the requirements of paragraph (i)(1)(ii) of this section. The vessel owner must maintain a current bin option inspection report on board the vessel at all times the vessel is required to provide an approved bin monitoring option under this paragraph (i)(5). The bin monitoring option inspection report must be made available to the observer, NMFS personnel, or to an authorized officer upon request.
 
 (j) *Video monitoring on catcher/processors and motherships in the BS pollock fishery, including pollock CDQ.* The owner and operator of a catcher/processor or a mothership must provide and maintain a video monitoring system approved under paragraph (e) of this section. These video monitoring system requirements must be met when the catcher/processor is directed fishing for pollock in the BS, including pollock CDQ, and when the mothership is taking deliveries from catcher vessels directed fishing for pollock in the BS, including pollock CDQ. Additionally, the system must -
 
@@ -578,5 +592,11 @@ Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
 (1) Record and retain video for all periods when Pacific cod are being sorted and weighed.
 
 (2) Provide sufficient resolution and field of view to monitor all areas where Pacific cod are sorted from the catch, all fish passing over the motion-compensated scale, and all crew actions in these areas.
+
+(l) *Video monitoring for halibut deck sorting.* The owner and operator of a mothership or catcher/processor subject to § 679.120 must provide and maintain a video monitoring system approved under paragraph (e) of this section when the vessel is halibut deck sorting. Additionally, the system must -
+
+(1) Record and retain video for an entire trip when halibut deck sorting may occur; and
+
+(2) Provide sufficient resolution and field of view to monitor all areas on deck where halibut may be sorted from the catch and discarded, and all crew actions in these areas.
 
 [63 FR 5843, Feb. 4, 1998]Editorial Note:For Federal Register citations affecting § 679.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 84 FR 55052, Oct. 15, 2019.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -711,6 +709,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Halibut CDQ fishing* means using fixed gear, retaining halibut CDQ, and not retaining groundfish over the maximum retainable amounts specified in § 679.20(e) and Table 11 to this part.
 
 *Halibut CDQ reserve* means the amount of the halibut catch limit for IPHC regulatory areas 4B, 4C, 4D, and 4E that is reserved for the halibut CDQ program (see § 679.31(a)(2)).
+
+*Halibut Deck Sorting* means the authorized sorting of halibut on deck pursuant to § 679.120.
 
 *Harvesting or to harvest* means the catching and retaining of any fish.
 

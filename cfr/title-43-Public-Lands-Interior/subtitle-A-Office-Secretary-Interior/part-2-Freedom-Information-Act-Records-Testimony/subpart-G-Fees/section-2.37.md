@@ -1,5 +1,7 @@
 ##### § 2.37 What general principles govern fees? #####
 
+Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
+
 (a) The bureau will charge for processing requests under the FOIA in accordance with this subpart and with the OMB Fee Guidelines.
 
 (b) The bureau may contact you for additional information to resolve fee issues.

@@ -1,5 +1,7 @@
 ##### § 44.11 Permitted organizing and offering, underwriting, and market making with respect to a covered fund. #####
 
+Link to an amendment published at 84 FR 62099, Nov. 14, 2019.
+
 (a) *Organizing and offering a covered fund in general.* Notwithstanding § 44.10(a) of this subpart, a banking entity is not prohibited from acquiring or retaining an ownership interest in, or acting as sponsor to, a covered fund in connection with, directly or indirectly, organizing and offering a covered fund, including serving as a general partner, managing member, trustee, or commodity pool operator of the covered fund and in any manner selecting or controlling (or having employees, officers, directors, or agents who constitute) a majority of the directors, trustees, or management of the covered fund, including any necessary expenses for the foregoing, only if:
 
 (1) The banking entity (or an affiliate thereof) provides *bona fide* trust, fiduciary, investment advisory, or commodity trading advisory services;

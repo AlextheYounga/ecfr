@@ -1,5 +1,7 @@
 ##### § 2.4 Does where you send your request affect its processing? #####
 
+Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
+
 (a) A request to a particular bureau component (for example, a request addressed to a regional or field office) will be presumed to seek only records from that particular component.
 
 (b) If you seek records from an entire bureau, submit your request to the bureau FOIA Officer. The bureau FOIA Officer will forward it to the bureau component(s) that he or she believes has or are likely to have responsive records.

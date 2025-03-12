@@ -1,7 +1,5 @@
 ##### § 3565.3 Definitions. #####
 
-Link to an amendment published at 84 FR 55035, Oct. 15, 2019.
-
 *Administrator.* The Administrator of the Rural Housing Service, or his or her designee.
 
 *Agency.* The Rural Housing Service, or a successor agency.
@@ -110,8 +108,6 @@ Link to an amendment published at 84 FR 55035, Oct. 15, 2019.
 
 *Negligent servicing or origination.* Negligent servicing or origination is a failure to perform those services which a reasonably prudent lender would perform in servicing or originating its own portfolio and includes not only the failure to act but also the failure to act in a timely manner.
 
-*NOFA.* A “Notice of Funding Availability” published in the Federal Register to inform interested parties of the availability of assistance and other non-regulatory matters pertinent to the program.
-
 *Non-monetary default.* A default that does not involve the payment of money.
 
 *Note.* Any note, bond, assumption agreement, or other evidence of indebtedness pertaining to a guaranteed loan.
@@ -158,4 +154,4 @@ Link to an amendment published at 84 FR 55035, Oct. 15, 2019.
 
 *USDA.* The United States Department of Agriculture.
 
-[63 FR 39458, July 22, 1998, as amended at 67 FR 16970, Apr. 9, 2002; 70 FR 2930, Jan. 19, 2005; 76 FR 3, Jan. 3, 2011]
+[63 FR 39458, July 22, 1998, as amended at 67 FR 16970, Apr. 9, 2002; 70 FR 2930, Jan. 19, 2005; 76 FR 3, Jan. 3, 2011; 84 FR 55035, Oct. 15, 2019]
