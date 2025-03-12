@@ -32,6 +32,8 @@
 
 (3) Certain hedges.
 
+(4) Exception for certain capital projects.
+
 (f) Definition of issue price.
 
 (1) In general.
@@ -434,7 +436,7 @@
 
 (3) Certain refunding bonds not taken into account.
 
-(d) Pooled financings - treatment of conduit borrowers.
+(d) Pooled financings—treatment of conduit borrowers.
 
 (e) Refunding issues.
 
@@ -598,4 +600,6 @@
 
 (m) Definition of issue price.
 
-[T.D. 8476, 58 FR 33515, June 18, 1993, as amended by T.D. 8538, 59 FR 24041, May 10, 1994; T.D. 8718, 62 FR 25506, May 9, 1997; T.D. 9085, 68 FR 45775, Aug. 4, 2003; T.D. 9097, 68 FR 69022, Dec. 11, 2003; T.D. 9701, 79 FR 67351, Nov. 13, 2014; T.D. 9777, 81 FR 46592, July 18, 2016; T.D. 9801, 81 FR 89003, Dec. 9, 2016]
+(n) Investment-type property.
+
+[T.D. 8476, 58 FR 33515, June 18, 1993, as amended by T.D. 8538, 59 FR 24041, May 10, 1994; T.D. 8718, 62 FR 25506, May 9, 1997; T.D. 9085, 68 FR 45775, Aug. 4, 2003; T.D. 9097, 68 FR 69022, Dec. 11, 2003; T.D. 9701, 79 FR 67351, Nov. 13, 2014; T.D. 9777, 81 FR 46592, July 18, 2016; T.D. 9801, 81 FR 89003, Dec. 9, 2016; T.D. 9854, 84 FR 14007, Apr. 9, 2019]

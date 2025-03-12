@@ -1,0 +1,13 @@
+##### § 301.6103(p)(2)(B)-1 Disclosure of returns and return information by other agencies. #####
+
+(a) *General rule.* Subject to the requirements of paragraphs (b), (c), and (d) of this section, returns or return information that have been obtained by a Federal, state or local agency, or its agents or contractors, in accordance with section 6103 (the first recipient) may be disclosed by the first recipient to another recipient authorized to receive such returns or return information under section 6103 (the second recipient).
+
+(b) *Approval by Commissioner.* A disclosure described in paragraph (a) of this section may be made if the Commissioner of Internal Revenue (the Commissioner) determines, after receiving a written request under this section, that such returns or return information are more readily available from the first recipient than from the Internal Revenue Service (IRS). The disclosure authorization by the Commissioner shall be directed to the head of the first recipient and may contain such conditions or restrictions as the Commissioner may prescribe. The disclosure authorization may be revoked by the Commissioner at any time.
+
+(c) *Requirements and restrictions.* The second recipient may receive only returns or return information as authorized by the provision of section 6103 applicable to such second recipient. Any returns or return information disclosed may be used by the second recipient only for a purpose authorized by and subject to any conditions imposed by section 6103 and the regulations thereunder, including, if applicable, safeguards imposed by section 6103(p)(4).
+
+(d) *Records and reports of disclosure.* The first recipient shall maintain to the satisfaction of the IRS a permanent system of standardized records regarding such disclosure authorization described in paragraph (a) of this section and any disclosure of returns and return information made pursuant to such authorization, and shall provide such information as prescribed by the Commissioner in order to enable the IRS to comply with its obligations under section 6103(p)(3) to keep accountings for disclosures and to make annual reports of disclosures to the Joint Committee on Taxation. The information required for reports to the Joint Committee on Taxation must be provided within 30 days after the close of each calendar year. The requirements of this paragraph do not apply to the disclosure of returns and return information as provided by paragraph (a) of this section which, had such disclosures been made directly by the IRS, would not have been subject to the recordkeeping requirements imposed by section 6103(p)(3)(A).
+
+(e) *Effective date.* This section is applicable on January 21, 2003.
+
+[T.D. 9036, 68 FR 2696, Jan. 21, 2003]

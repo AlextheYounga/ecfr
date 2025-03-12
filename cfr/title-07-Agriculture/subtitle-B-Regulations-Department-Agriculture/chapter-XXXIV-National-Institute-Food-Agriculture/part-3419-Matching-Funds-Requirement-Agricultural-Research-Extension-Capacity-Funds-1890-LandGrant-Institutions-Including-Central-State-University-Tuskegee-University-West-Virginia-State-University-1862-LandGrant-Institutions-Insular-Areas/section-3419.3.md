@@ -14,4 +14,4 @@
 
 (d) Approval or disapproval of the request for a waiver will be based on the application submitted, as defined under § 3419.4.
 
-[83 FR 21849, May 11, 2018]
+[Redesignated and revised at 83 FR 21849, May 11, 2018]

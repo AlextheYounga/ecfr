@@ -10,7 +10,7 @@
 
 *Available amount* means available amount as defined in § 1.148-6(d)(3)(iii).
 
-*Bona fide debt service fund* means a fund, which may include proceeds of an issue, that -
+*Bona fide debt service fund* means a fund, which may include proceeds of an issue, that—
 
 (1) Is used primarily to achieve a proper matching of revenues with principal and interest payments within each bond year; and
 
@@ -32,9 +32,9 @@
 
 *Consistently applied* means applied uniformly within a fiscal period and between fiscal periods to account for gross proceeds of an issue and any amounts that are in a commingled fund.
 
-*De minimis amount* means -
+*De minimis amount* means—
 
-(1) In reference to original issue discount (as defined in section 1273(a)(1)) or premium on an obligation -
+(1) In reference to original issue discount (as defined in section 1273(a)(1)) or premium on an obligation—
 
 (i) An amount that does not exceed 2 percent multiplied by the stated redemption price at maturity; plus
 
@@ -76,7 +76,7 @@
 
 *Payment* means a payment as defined in § 1.148-3(d) for purposes of computing the rebate amount, and a payment as defined in § 1.148-5(b) for purposes of computing the yield on an investment.
 
-*Plain par bond* means a qualified tender bond or a bond -
+*Plain par bond* means a qualified tender bond or a bond—
 
 (1) Issued with not more than a de minimis amount of original issue discount or premium;
 
@@ -86,7 +86,7 @@
 
 (4) That has a lowest stated redemption price that is not less than its outstanding stated principal amount.
 
-*Plain par investment* means an investment that is an obligation -
+*Plain par investment* means an investment that is an obligation—
 
 (1) Issued with not more than a de minimis amount of original issue discount or premium, or, if acquired on a date other than the issue date, acquired with not more than a de minimis amount of market discount or premium;
 
@@ -100,7 +100,7 @@
 
 *Proceeds* means any sale proceeds, investment proceeds, and transferred proceeds of an issue. Proceeds do not include, however, amounts actually or constructively received with respect to a purpose investment that are properly allocable to the immaterially higher yield under § 1.148-2(d) or section 143(g) or to qualified administrative costs recoverable under § 1.148-5(e).
 
-*Program investment* means a purpose investment that is part of a governmental program in which -
+*Program investment* means a purpose investment that is part of a governmental program in which—
 
 (1) The program involves the origination or acquisition of purpose investments;
 
@@ -126,7 +126,7 @@
 
 *Receipt* means a receipt as defined in § 1.148-3(d) for purposes of computing the rebate amount, and a receipt as defined in § 1.148-5(b) for purposes of computing yield on an investment.
 
-*Refunding escrow* means one or more funds established as part of a single transaction or a series of related transactions, containing proceeds of a refunding issue and any other amounts to provide for payment of principal or interest on one or more prior issues. For this purpose, funds are generally not so established solely because of -
+*Refunding escrow* means one or more funds established as part of a single transaction or a series of related transactions, containing proceeds of a refunding issue and any other amounts to provide for payment of principal or interest on one or more prior issues. For this purpose, funds are generally not so established solely because of—
 
 (1) The deposit of proceeds of an issue and replacement proceeds of the prior issue in an escrow more than 6 months apart, or
 
@@ -142,7 +142,7 @@
 
 *Transferred proceeds* means transferred proceeds as defined in § 1.148-9 (or the applicable corresponding provision of prior law).
 
-*Unconditionally payable* means payable under terms in which -
+*Unconditionally payable* means payable under terms in which—
 
 (1) Late payment or nonpayment results in a significant penalty to the borrower or reasonable remedies to the lender, and
 
@@ -158,25 +158,25 @@
 
 *Yield restricted* means required to be invested at a yield that is not materially higher than the yield on the issue under section 148(a) and § 1.148-2.
 
-(c) *Definition of replacement proceeds* - (1) *In general.* Amounts are replacement proceeds of an issue if the amounts have a sufficiently direct nexus to the issue or to the governmental purpose of the issue to conclude that the amounts would have been used for that governmental purpose if the proceeds of the issue were not used or to be used for that governmental purpose. For this purpose, governmental purposes include the expected use of amounts for the payment of debt service on a particular date. The mere availability or preliminary earmarking of amounts for a governmental purpose, however, does not in itself establish a sufficient nexus to cause those amounts to be replacement proceeds. Replacement proceeds include, but are not limited to, sinking funds, pledged funds, and other replacement proceeds described in paragraph (c)(4) of this section, to the extent that those funds or amounts are held by or derived from a substantial beneficiary of the issue. A substantial beneficiary of an issue includes the issuer and any related party to the issuer, and, if the issuer is not a state, the state in which the issuer is located. A person is not a substantial beneficiary of an issue solely because it is a guarantor under a qualified guarantee.
+(c) *Definition of replacement proceeds*—(1) *In general.* Amounts are replacement proceeds of an issue if the amounts have a sufficiently direct nexus to the issue or to the governmental purpose of the issue to conclude that the amounts would have been used for that governmental purpose if the proceeds of the issue were not used or to be used for that governmental purpose. For this purpose, governmental purposes include the expected use of amounts for the payment of debt service on a particular date. The mere availability or preliminary earmarking of amounts for a governmental purpose, however, does not in itself establish a sufficient nexus to cause those amounts to be replacement proceeds. Replacement proceeds include, but are not limited to, sinking funds, pledged funds, and other replacement proceeds described in paragraph (c)(4) of this section, to the extent that those funds or amounts are held by or derived from a substantial beneficiary of the issue. A substantial beneficiary of an issue includes the issuer and any related party to the issuer, and, if the issuer is not a state, the state in which the issuer is located. A person is not a substantial beneficiary of an issue solely because it is a guarantor under a qualified guarantee.
 
 (2) *Sinking fund. Sinking fund* includes a debt service fund, redemption fund, reserve fund, replacement fund, or any similar fund, to the extent reasonably expected to be used directly or indirectly to pay principal or interest on the issue.
 
-(3) *Pledged fund* - (i) *In general.* A *pledged fund* is any amount that is directly or indirectly pledged to pay principal or interest on the issue. A pledge need not be cast in any particular form but, in substance, must provide reasonable assurance that the amount will be available to pay principal or interest on the issue, even if the issuer encounters financial difficulties. A pledge to a guarantor of an issue is an indirect pledge to secure payment of principal or interest on the issue. A pledge of more than 50 percent of the outstanding stock of a corporation that is a conduit borrower of the issue is not treated as a pledge for this purpose, unless the corporation is formed or availed of to avoid the creation of replacement proceeds.
+(3) *Pledged fund*—(i) *In general.* A *pledged fund* is any amount that is directly or indirectly pledged to pay principal or interest on the issue. A pledge need not be cast in any particular form but, in substance, must provide reasonable assurance that the amount will be available to pay principal or interest on the issue, even if the issuer encounters financial difficulties. A pledge to a guarantor of an issue is an indirect pledge to secure payment of principal or interest on the issue. A pledge of more than 50 percent of the outstanding stock of a corporation that is a conduit borrower of the issue is not treated as a pledge for this purpose, unless the corporation is formed or availed of to avoid the creation of replacement proceeds.
 
-(ii) *Negative pledges.* An amount is treated as pledged to pay principal or interest on an issue if it is held under an agreement to maintain the amount at a particular level for the direct or indirect benefit of the bondholders or a guarantor of the bonds. An amount is not treated as pledged under this paragraph (c)(3)(ii), however, if -
+(ii) *Negative pledges.* An amount is treated as pledged to pay principal or interest on an issue if it is held under an agreement to maintain the amount at a particular level for the direct or indirect benefit of the bondholders or a guarantor of the bonds. An amount is not treated as pledged under this paragraph (c)(3)(ii), however, if—
 
 (A) The issuer or a substantial beneficiary may grant rights in the amount that are superior to the rights of the bondholders or the guarantor; or
 
 (B) The amount does not exceed reasonable needs for which it is maintained, the required level is tested no more frequently than every 6 months, and the amount may be spent without any substantial restriction other than a requirement to replenish the amount by the next testing date.
 
-(4) *Other replacement proceeds* - (i) *Bonds outstanding longer than necessary* - (A) *In general.* Replacement proceeds arise to the extent that the issuer reasonably expects as of the issue date that -
+(4) *Other replacement proceeds*—(i) *Bonds outstanding longer than necessary*—(A) *In general.* Replacement proceeds arise to the extent that the issuer reasonably expects as of the issue date that—
 
 (*1*) The term of an issue will be longer than is reasonably necessary for the governmental purposes of the issue, and
 
 (*2*) There will be available amounts during the period that the issue remains outstanding longer than necessary. Whether an issue is outstanding longer than necessary is determined under § 1.148-10. Replacement proceeds are created under this paragraph (c)(4)(i)(A) at the beginning of each fiscal year during which an issue remains outstanding longer than necessary in an amount equal to available amounts of the issuer as of that date.
 
-(B) *Safe harbor against creation of replacement proceeds.* As a safe harbor, replacement proceeds do not arise under paragraph (c)(4)(i)(A) of this section -
+(B) *Safe harbor against creation of replacement proceeds.* As a safe harbor, replacement proceeds do not arise under paragraph (c)(4)(i)(A) of this section—
 
 (*1*) For the portion of an issue that is to be used to finance working capital expenditures, if that portion is not outstanding longer than the temporary period under § 1.148-2(e)(3) for which the proceeds qualify;
 
@@ -210,9 +210,9 @@
 
 (d) *Elections.* Except as otherwise provided, any required elections must be made in writing, and, once made, may not be revoked without the permission of the Commissioner.
 
-(e) *Investment-type property* - (1) *In general.* Investment-type property includes any property, other than property described in section 148(b)(2)(A), (B), (C) or (E), that is held principally as a passive vehicle for the production of income. For this purpose, production of income includes any benefit based on the time value of money.
+(e) *Investment-type property*—(1) *In general.* Except as otherwise provided in this paragraph (e), investment-type property includes any property, other than property described in section 148(b)(2)(A), (B), (C), or (E), that is held principally as a passive vehicle for the production of income. For this purpose, production of income includes any benefit based on the time value of money.
 
-(2) *Prepayments* - (i) *In general* - (A) *Generally.* Except as otherwise provided in this paragraph (e)(2), a prepayment for property or services, including a prepayment for property or services that is made after the date that the contract to buy the property or services is entered into, also gives rise to investment-type property if a principal purpose for prepaying is to receive an investment return from the time the prepayment is made until the time payment otherwise would be made. A prepayment does not give rise to investment-type property if -
+(2) *Prepayments*—(i) *In general*—(A) *Generally.* Except as otherwise provided in this paragraph (e)(2), a prepayment for property or services, including a prepayment for property or services that is made after the date that the contract to buy the property or services is entered into, also gives rise to investment-type property if a principal purpose for prepaying is to receive an investment return from the time the prepayment is made until the time payment otherwise would be made. A prepayment does not give rise to investment-type property if—
 
 (*1*) Prepayments on substantially the same terms are made by a substantial percentage of persons who are similarly situated to the issuer but who are not beneficiaries of tax-exempt financing;
 
@@ -224,9 +224,9 @@
 
 Example. Prepayment after contract is executed.In 1998, City A enters into a ten-year contract with Company Y. Under the contract, Company Y is to provide services to City A over the term of the contract and in return City A will pay Company Y for its services as they are provided. In 2004, City A issues bonds to finance a lump sum payment to Company Y in satisfaction of City A's obligation to pay for Company Y's services to be provided over the remaining term of the contract. The use of bond proceeds to make the lump sum payment constitutes a prepayment for services under paragraph (e)(2)(i) of this section, even though the payment is made after the date that the contract is executed.
 
-(ii) *Customary prepayments.* The determination of whether a prepayment satisfies paragraph (e)(2)(i)(A)(*1*) of this section is generally made based on all the facts and circumstances. In addition, a prepayment is deemed to satisfy paragraph (e)(2)(i)(A)(*1*) of this section if -
+(ii) *Customary prepayments.* The determination of whether a prepayment satisfies paragraph (e)(2)(i)(A)(*1*) of this section is generally made based on all the facts and circumstances. In addition, a prepayment is deemed to satisfy paragraph (e)(2)(i)(A)(*1*) of this section if—
 
-(A) The prepayment is made for -
+(A) The prepayment is made for—
 
 (*1*) Maintenance, repair, or an extended warranty with respect to personal property (for example, automobiles or electronic equipment); or
 
@@ -234,11 +234,11 @@ Example. Prepayment after contract is executed.In 1998, City A enters into a ten
 
 (B) The same maintenance, repair, extended warranty, updates or maintenance or support services, as applicable, are regularly provided to nongovernmental persons on the same terms.
 
-(iii) *Certain prepayments to acquire a supply of natural gas or electricity* - (A) *Natural gas prepayments.* A prepayment meets the requirements of this paragraph (e)(2)(iii)(A) if -
+(iii) *Certain prepayments to acquire a supply of natural gas or electricity*—(A) *Natural gas prepayments.* A prepayment meets the requirements of this paragraph (e)(2)(iii)(A) if—
 
 (*1*) It is made by or for one or more utilities that are owned by a governmental person, as defined in § 1.141-1(b) (each of which is referred to in this paragraph (e)(2)(iii)(A) as the issuing municipal utility), to purchase a supply of natural gas; and
 
-(*2*) At least 90 percent of the prepaid natural gas financed by the issue is used for a qualifying use. Natural gas is used for a qualifying use if it is to be -
+(*2*) At least 90 percent of the prepaid natural gas financed by the issue is used for a qualifying use. Natural gas is used for a qualifying use if it is to be—
 
 (*i*) Furnished to retail gas customers of the issuing municipal utility who are located in the natural gas service area of the issuing municipal utility, provided, however, that gas used to produce electricity for sale shall not be included under this paragraph (e)(2)(iii)(A)(*2*)(*i*);
 
@@ -250,19 +250,19 @@ Example. Prepayment after contract is executed.In 1998, City A enters into a ten
 
 (*v*) Used to fuel the pipeline transportation of the prepaid gas supply acquired in accordance with this paragraph (e)(2)(iii)(A).
 
-(B) *Electricity prepayments.* A prepayment meets the requirements of this paragraph (e)(2)(iii)(B) if -
+(B) *Electricity prepayments.* A prepayment meets the requirements of this paragraph (e)(2)(iii)(B) if—
 
 (*1*) It is made by or for one or more utilities that are owned by a governmental person (each of which is referred to in this paragraph (e)(2)(iii)(B) as the issuing municipal utility) to purchase a supply of electricity; and
 
-(*2*) At least 90 percent of the prepaid electricity financed by the issue is used for a qualifying use. Electricity is used for a qualifying use if it is to be -
+(*2*) At least 90 percent of the prepaid electricity financed by the issue is used for a qualifying use. Electricity is used for a qualifying use if it is to be—
 
 (*i*) Furnished to retail electric customers of the issuing municipal utility who are located in the electricity service area of the issuing municipal utility; or
 
 (*ii*) Sold to a utility that is owned by a governmental person and furnished to retail electric customers of the purchaser who are located in the electricity service area of the purchaser.
 
-(C) *Service area.* For purposes of this paragraph (e)(2)(iii), the service area of a utility owned by a governmental person consists of -
+(C) *Service area.* For purposes of this paragraph (e)(2)(iii), the service area of a utility owned by a governmental person consists of—
 
-(*1*) Any area throughout which the utility provided, at all times during the 5-year period ending on the issue date -
+(*1*) Any area throughout which the utility provided, at all times during the 5-year period ending on the issue date—
 
 (*i*) In the case of a natural gas utility, natural gas transmission or distribution service; and
 
@@ -280,9 +280,11 @@ Example. Prepayment after contract is executed.In 1998, City A enters into a ten
 
 (3) *Certain hedges.* Investment-type property also includes the investment element of a contract that is a hedge (within the meaning of § 1.148-4(h)(2)(i)(A)) and that contains a significant investment element because a payment by the issuer relates to a conditional or unconditional obligation by the hedge provider to make a payment on a later date. See § 1.148-4(h)(2)(ii) relating to hedges with a significant investment element.
 
-(f) *Definition of issue price* - (1) *In general.* Except as otherwise provided in this paragraph (f), “issue price” is defined in sections 1273 and 1274 and the regulations under those sections.
+(4) *Exception for certain capital projects.* Investment-type property does not include real property or tangible personal property (for example, land, buildings, and equipment) that is used in furtherance of the public purposes for which the tax-exempt bonds are issued. For example, investment-type property does not include a courthouse financed with governmental bonds or an eligible exempt facility under section 142, such as a public road, financed with private activity bonds.
 
-(2) *Bonds issued for money* - (i) *General rule.* Except as otherwise provided in this paragraph (f)(2), the issue price of bonds issued for money is the first price at which a substantial amount of the bonds is sold to the public. If a bond is issued for money in a private placement to a single buyer that is not an underwriter or a related party (as defined in § 1.150-1(b)) to an underwriter, the issue price of the bond is the price paid by that buyer. Issue price is not reduced by any issuance costs (as defined in § 1.150-1(b)).
+(f) *Definition of issue price*—(1) *In general.* Except as otherwise provided in this paragraph (f), “issue price” is defined in sections 1273 and 1274 and the regulations under those sections.
+
+(2) *Bonds issued for money*—(i) *General rule.* Except as otherwise provided in this paragraph (f)(2), the issue price of bonds issued for money is the first price at which a substantial amount of the bonds is sold to the public. If a bond is issued for money in a private placement to a single buyer that is not an underwriter or a related party (as defined in § 1.150-1(b)) to an underwriter, the issue price of the bond is the price paid by that buyer. Issue price is not reduced by any issuance costs (as defined in § 1.150-1(b)).
 
 (ii) *Special rule for use of initial offering price to the public.* The issuer may treat the initial offering price to the public as of the sale date as the issue price of the bonds if the requirements of paragraphs (f)(2)(ii)(A) and (B) of this section are met.
 
@@ -326,4 +328,4 @@ Example. Prepayment after contract is executed.In 1998, City A enters into a ten
 
 (iii) *Bonds issued for property.* If a bond is issued for property, the adjusted applicable Federal rate, as determined under section 1288 and § 1.1288-1, is used in lieu of the applicable Federal rate to determine the bond's issue price under section 1274.
 
-[T.D. 8476, 58 FR 33517, June 18, 1993; 58 FR 44452, Aug. 23, 1993, as amended by T.D. 8538, 59 FR 24041, May 10, 1994; T.D. 8718, 62 FR 25507, May 9, 1997; T.D. 9085, 68 FR 45775, Aug. 4, 2003; T.D. 9777, 81 FR 46592, July 18, 2016; T.D. 9801, 81 FR 89003, Dec. 9, 2016]
+[T.D. 8476, 58 FR 33517, June 18, 1993; 58 FR 44452, Aug. 23, 1993, as amended by T.D. 8538, 59 FR 24041, May 10, 1994; T.D. 8718, 62 FR 25507, May 9, 1997; T.D. 9085, 68 FR 45775, Aug. 4, 2003; T.D. 9777, 81 FR 46592, July 18, 2016; T.D. 9801, 81 FR 89003, Dec. 9, 2016; T.D. 9854, 84 FR 14007, Apr. 9, 2019]
