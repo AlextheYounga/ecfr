@@ -1,5 +1,7 @@
 ##### 552.236-15 Schedules for Construction Contracts. #####
 
+Link to an amendment published at 84 FR 69636, Dec. 19, 2019.
+
 As prescribed in 536.515, insert the following clause:
 
 Schedules for Construction Contracts (Mar 2019)

@@ -1,6 +1,6 @@
 ##### § 2.23 Requirements for a TEAS RF application. #####
 
-Link to an amendment published at 84 FR 37094, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
+Link to an amendment published at 84 FR 37094, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
 
 (a) A trademark, service mark, certification mark, collective membership mark, or collective trademark application for registration on the Principal or Supplemental Register under section 1 and/or section 44 of the Act will be entitled to a reduced filing fee under § 2.6(a)(1)(iii) if it is filed through TEAS and includes:
 

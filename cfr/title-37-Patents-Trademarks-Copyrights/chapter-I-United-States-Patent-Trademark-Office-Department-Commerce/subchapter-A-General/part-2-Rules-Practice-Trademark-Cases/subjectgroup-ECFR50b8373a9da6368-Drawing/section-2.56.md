@@ -1,6 +1,6 @@
 ##### § 2.56 Specimens. #####
 
-Link to an amendment published at 84 FR 37095, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
+Link to an amendment published at 84 FR 37095, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
 
 (a) An application under section 1(a) of the Act, an amendment to allege use under § 2.76, and a statement of use under § 2.88 must each include one specimen per class showing the mark as used on or in connection with the goods or services. When requested by the Office as reasonably necessary to proper examination, additional specimens must be provided.
 

@@ -1,6 +1,6 @@
 ##### § 2.17 Recognition for representation. #####
 
-Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
+Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
 
 (a) *Authority to practice in trademark cases.* Only an individual qualified to practice under § 11.14 of this chapter may represent an applicant, registrant, or party to a proceeding before the Office in a trademark case.
 

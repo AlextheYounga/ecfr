@@ -1,6 +1,6 @@
 ##### § 2.24 Designation and revocation of domestic representative by foreign applicant. #####
 
-Link to an amendment published at 84 FR 37094, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
+Link to an amendment published at 84 FR 37094, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
 
 (a)(1) If an applicant is not domiciled in the United States, the applicant may designate a domestic representative (*i.e.*, a person residing in the United States on whom notices or process in proceedings affecting the mark may be served) by either:
 

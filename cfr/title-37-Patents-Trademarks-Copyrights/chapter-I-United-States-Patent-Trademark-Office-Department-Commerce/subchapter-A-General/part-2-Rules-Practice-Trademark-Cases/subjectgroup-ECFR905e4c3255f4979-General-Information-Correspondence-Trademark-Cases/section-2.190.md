@@ -1,6 +1,6 @@
 ##### § 2.190 Addresses for trademark correspondence with the United States Patent and Trademark Office. #####
 
-Link to an amendment published at 84 FR 37096, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
+Link to an amendment published at 84 FR 37096, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.This amendment was further delayed until Feb. 15, 2020 at 84 FR 69330, December 18, 2019.
 
 (a) *Trademark correspondence - in general.* All trademark-related documents filed on paper, except documents sent to the Assignment Recordation Branch for recordation; requests for copies of trademark documents; and certain documents filed under the Madrid Protocol as specified in paragraph (e) of this section, should be addressed to: Commissioner for Trademarks, P.O. Box 1451, Alexandria, VA 22313-1451. All trademark-related documents may be delivered by hand, during the hours the Office is open to receive correspondence, to the Trademark Assistance Center, James Madison Building - East Wing, Concourse Level, 600 Dulany Street, Alexandria, Virginia 22314.
 

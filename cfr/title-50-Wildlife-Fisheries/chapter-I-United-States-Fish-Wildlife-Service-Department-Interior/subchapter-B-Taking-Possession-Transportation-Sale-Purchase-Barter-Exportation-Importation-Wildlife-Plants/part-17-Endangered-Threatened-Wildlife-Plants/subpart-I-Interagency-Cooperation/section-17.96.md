@@ -1,5 +1,7 @@
 ##### § 17.96 Critical habitat - plants. #####
 
+Link to an amendment published at 85 FR 82388, Dec. 18, 2020.
+
 (a) *Flowering plants.*
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
