@@ -1,7 +1,5 @@
 ##### § 483.80 Infection control. #####
 
-Link to an amendment published at 88 FR 36510, June 5, 2023.
-
 The facility must establish and maintain an infection prevention and control program designed to provide a safe, sanitary, and comfortable environment and to help prevent the development and transmission of communicable diseases and infections.
 
 (a) *Infection prevention and control program.* The facility must establish an infection prevention and control program (IPCP) that must include, at a minimum, the following elements:
@@ -134,78 +132,4 @@ The facility must establish and maintain an infection prevention and control pro
 
 (iii) Include any cumulative updates for residents, their representatives, and families at least weekly or by 5 p.m. the next calendar day following the subsequent occurrence of either: Each time a confirmed infection of COVID-19 is identified, or whenever three or more residents or staff with new onset of respiratory symptoms occur within 72 hours of each other.
 
-(h) *COVID-19 Testing.* The LTC facility must test residents and facility staff, including individuals providing services under arrangement and volunteers, for COVID-19. At a minimum, for all residents and facility staff, including individuals providing services under arrangement and volunteers, the LTC facility must:
-
-(1) Conduct testing based on parameters set forth by the Secretary, including but not limited to:
-
-(i) Testing frequency;
-
-(ii) The identification of any individual specified in this paragraph diagnosed with COVID-19 in the facility;
-
-(iii) The identification of any individual specified in this paragraph with symptoms consistent with COVID-19 or with known or suspected exposure to COVID-19;
-
-(iv) The criteria for conducting testing of asymptomatic individuals specified in this paragraph, such as the positivity rate of COVID-19 in a county;
-
-(v) The response time for test results; and
-
-(vi) Other factors specified by the Secretary that help identify and prevent the transmission of COVID-19.
-
-(2) Conduct testing in a manner that is consistent with current standards of practice for conducting COVID-19 tests;
-
-(3) For each instance of testing:
-
-(i) Document that testing was completed and the results of each staff test; and
-
-(ii) Document in the resident records that testing was offered, completed (as appropriate to the resident's testing status), and the results of each test.
-
-(4) Upon the identification of an individual specified in this paragraph with symptoms consistent with COVID-19, or who tests positive for COVID-19, take actions to prevent the transmission of COVID-19.
-
-(5) Have procedures for addressing residents and staff, including individuals providing services under arrangement and volunteers, who refuse testing or are unable to be tested.
-
-(6) When necessary, such as in emergencies due to testing supply shortages, contact state and local health departments to assist in testing efforts, such as obtaining testing supplies or processing test results.
-
-(i) *COVID-19 Vaccination of facility staff.* The facility must develop and implement policies and procedures to ensure that all staff are fully vaccinated for COVID-19. For purposes of this section, staff are considered fully vaccinated if it has been 2 weeks or more since they completed a primary vaccination series for COVID-19. The completion of a primary vaccination series for COVID-19 is defined here as the administration of a single-dose vaccine, or the administration of all required doses of a multi-dose vaccine.
-
-(1) Regardless of clinical responsibility or resident contact, the policies and procedures must apply to the following facility staff, who provide any care, treatment, or other services for the facility and/or its residents:
-
-(i) Facility employees;
-
-(ii) Licensed practitioners;
-
-(iii) Students, trainees, and volunteers; and
-
-(iv) Individuals who provide care, treatment, or other services for the facility and/or its residents, under contract or by other arrangement.
-
-(2) The policies and procedures of this section do not apply to the following facility staff:
-
-(i) Staff who exclusively provide telehealth or telemedicine services outside of the facility setting and who do not have any direct contact with residents and other staff specified in paragraph (i)(1) of this section; and
-
-(ii) Staff who provide support services for the facility that are performed exclusively outside of the facility setting and who do not have any direct contact with residents and other staff specified in paragraph (i)(1) of this section.
-
-(3) The policies and procedures must include, at a minimum, the following components:
-
-(i) A process for ensuring all staff specified in paragraph (i)(1) of this section (except for those staff who have pending requests for, or who have been granted, exemptions to the vaccination requirements of this section, or those staff for whom COVID-19 vaccination must be temporarily delayed, as recommended by the CDC, due to clinical precautions and considerations) have received, at a minimum, a single-dose COVID-19 vaccine, or the first dose of the primary vaccination series for a multi-dose COVID-19 vaccine prior to staff providing any care, treatment, or other services for the facility and/or its residents;
-
-(ii) A process for ensuring that all staff specified in paragraph (i)(1) of this section are fully vaccinated for COVID-19, except for those staff who have been granted exemptions to the vaccination requirements of this section, or those staff for whom COVID-19 vaccination must be temporarily delayed, as recommended by the CDC, due to clinical precautions and considerations;
-
-(iii) A process for ensuring the implementation of additional precautions, intended to mitigate the transmission and spread of COVID-19, for all staff who are not fully vaccinated for COVID-19;
-
-(iv) A process for tracking and securely documenting the COVID-19 vaccination status of all staff specified in paragraph (i)(1) of this section;
-
-(v) A process for tracking and securely documenting the COVID-19 vaccination status of any staff who have obtained any booster doses as recommended by the CDC;
-
-(vi) A process by which staff may request an exemption from the staff COVID-19 vaccination requirements based on an applicable Federal law;
-
-(vii) A process for tracking and securely documenting information provided by those staff who have requested, and for whom the facility has granted, an exemption from the staff COVID-19 vaccination requirements;
-
-(viii) A process for ensuring that all documentation, which confirms recognized clinical contraindications to COVID-19 vaccines and which supports staff requests for medical exemptions from vaccination, has been signed and dated by a licensed practitioner, who is not the individual requesting the exemption, and who is acting within their respective scope of practice as defined by, and in accordance with, all applicable State and local laws, and for further ensuring that such documentation contains:
-
-(A) All information specifying which of the authorized COVID-19 vaccines are clinically contraindicated for the staff member to receive and the recognized clinical reasons for the contraindications; and
-
-(B) A statement by the authenticating practitioner recommending that the staff member be exempted from the facility's COVID-19 vaccination requirements for staff based on the recognized clinical contraindications;
-
-(ix) A process for ensuring the tracking and secure documentation of the vaccination status of staff for whom COVID-19 vaccination must be temporarily delayed, as recommended by the CDC, due to clinical precautions and considerations, including, but not limited to, individuals with acute illness secondary to COVID-19, and individuals who received monoclonal antibodies or convalescent plasma for COVID-19 treatment; and
-
-(x) Contingency plans for staff who are not fully vaccinated for COVID-19.
-
-[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021]
+[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021; 88 FR 36510, June 5, 2023]

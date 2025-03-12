@@ -1,5 +1,7 @@
 ##### § 60-1.33 Resolution procedures. #####
 
+Link to an amendment published at 88 FR 51734, Aug. 4, 2023.
+
 (a) *Predetermination Notice.* If a compliance review or other review by OFCCP indicates evidence sufficient to support a preliminary finding of disparate treatment and/or disparate impact discrimination, OFCCP may issue a Predetermination Notice, subject to the following parameters and the approval of the Director or acting agency head:
 
 (1) For allegations included in a Predetermination Notice involving a disparate treatment theory of liability, OFCCP must:

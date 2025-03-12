@@ -1,5 +1,7 @@
 ##### § 240.15d-11 Current reports on Form 8-K (§ 249.308 of this chapter). #####
 
+Link to an amendment published at 88 FR 51943, Aug. 4, 2023.
+
 (a) Except as provided in paragraph (b) of this section, every registrant subject to § 240.15d-1 shall file a current report on Form 8-K within the period specified in that form unless substantially the same information as that required by Form 8-K has been previously reported by the registrant.
 
 (b) This section shall not apply to foreign governments, foreign private issuers required to make reports on Form 6-K (17 CFR 249.306) pursuant to § 240.15d-16, issuers of American Depositary Receipts for securities of any foreign issuer, or investment companies required to file reports pursuant to § 270.30a-1 of this chapter under the Investment Company Act of 1940, except where such an investment company is required to file:

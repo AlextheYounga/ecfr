@@ -1,5 +1,7 @@
 ##### § 60-300.60 Compliance evaluations. #####
 
+Link to an amendment published at 88 FR 51735, Aug. 4, 2023.
+
 (a) OFCCP may conduct compliance evaluations to determine if the contractor is taking affirmative action to employ, advance in employment and otherwise treat qualified individuals without discrimination based on their status as a protected veteran in all employment practices. A compliance evaluation may consist of any one or any combination of the following investigative procedures:
 
 (1) *Compliance review.* A comprehensive analysis and evaluation of the hiring and employment practices of the contractor, the written affirmative action program, and the results of the affirmative action efforts undertaken by the contractor. A compliance review may proceed in three stages:

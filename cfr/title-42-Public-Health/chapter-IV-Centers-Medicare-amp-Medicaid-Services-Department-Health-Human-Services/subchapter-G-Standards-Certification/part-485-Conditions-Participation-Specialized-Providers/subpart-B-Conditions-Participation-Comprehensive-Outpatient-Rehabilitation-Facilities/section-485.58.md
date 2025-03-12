@@ -1,7 +1,5 @@
 ##### § 485.58 Condition of participation: Comprehensive rehabilitation program. #####
 
-Link to an amendment published at 88 FR 36510, June 5, 2023.
-
 The facility must provide a coordinated rehabilitation program that includes, at a minimum, physicians' services, physical therapy services, and social or psychological services. These services must be furnished by personnel that meet the qualifications set forth in §§ 485.70 and 484.115 of this chapter and must be consistent with the plan of treatment and the results of comprehensive patient assessments.
 
 (a) *Standard: Physician services.* (1) A facility physician must be present in the facility for a sufficient time to—
@@ -52,7 +50,7 @@ The facility must provide a coordinated rehabilitation program that includes, at
 
 (3) The facility must have on its premises the necessary equipment to implement the plan of treatment and sufficient space to allow adequate care.
 
-(4) The services must be furnished by personnel that meet the qualifications of § 485.70 and the number of qualified personnel must be adequate for the volume and diversity of services offered. Personnel that do not meet the qualifications specified in § 485.70(a) through (m) may be used by the facility in assisting qualified staff. When a qualified individual is assisted by these personnel, the qualified individual must be on the premises, and must instruct these personnel in appropriate patient care service techniques and retain responsibility for their activities.
+(4) The services must be furnished by personnel that meet the qualifications of § 485.70 and the number of qualified personnel must be adequate for the volume and diversity of services offered. Personnel that do not meet the qualifications specified in § 485.70(a) through (m) may be used by the facility in assisting qualified staff.
 
 (5) A qualified professional must initiate and coordinate the appropriate portions of the plan of treatment, monitor the patient's progress, and recommend changes, in the plan, if necessary.
 
@@ -74,4 +72,4 @@ The facility must provide a coordinated rehabilitation program that includes, at
 
 (2) If the facility chooses to refer specimens for laboratory testing, the referral laboratory must be certified in the appropriate specialties and subspecialties of services in accordance with the requirements of part 493 of this chapter.
 
-[48 FR 56293, Dec. 15, 1982, as amended at 56 FR 8852, Mar. 1, 1991; 57 FR 7137, Feb. 28, 1992; 73 FR 69941, Nov. 19, 2008; 82 FR 4591, Jan. 13, 2017; 86 FR 61622, Nov. 5, 2021]
+[48 FR 56293, Dec. 15, 1982, as amended at 56 FR 8852, Mar. 1, 1991; 57 FR 7137, Feb. 28, 1992; 73 FR 69941, Nov. 19, 2008; 82 FR 4591, Jan. 13, 2017; 86 FR 61622, Nov. 5, 2021; 88 FR 36510, June 5, 2023]

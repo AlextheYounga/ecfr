@@ -1,7 +1,5 @@
 ##### § 9.30 North Coast. #####
 
-Link to an amendment published at 88 FR 42881, July 5, 2023.
-
 (a) *Name.* The name of the viticultural area described in this section is “North Coast.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the North Coast viticultural area are five U.S.G.S. maps. They are entitled:
@@ -52,11 +50,11 @@ Link to an amendment published at 88 FR 42881, July 5, 2023.
 
 (17) Then northwest in a straight line for approximately 11.4 miles to the peak of Brushy Sky High Mountain (elevation 3196 feet);
 
-(18) Then northwest in a straight line for approximately 5.0 miles to Bally Peak (elevation 2288 feet);
+(18) Then north-northwest in a straight line for approximately 7.6 miles to the 1,851-foot summit of Red Rocks;
 
-(19) Then northwest in a straight line for approximately 6.6 miles to the peak of Round Mountain;
+(19) Then northwest in a straight line for approximately 4.3 miles to the 1,696- foot summit of Chalk Mountain;
 
-(20) Then northwest in a straight line for approximately 5.5 miles to Evans Peak;
+(20) Then northwest in a straight line for approximately 6 miles to the 4,005- foot summit of Evans Peak;
 
 (21) Then northwest in a straight line for approximately 5.0 miles to Pinnacle Rock Lookout;
 
@@ -74,4 +72,4 @@ Link to an amendment published at 88 FR 42881, July 5, 2023.
 
 (28) Then southeast following the Pacific Ocean shoreline to the point of beginning.
 
-[T.D. ATF-145, 48 FR 42977, Sept. 21, 1983, as amended by T.D. TTB-149, 82 FR 57662, Dec. 7, 2017]
+[T.D. ATF-145, 48 FR 42977, Sept. 21, 1983, as amended by T.D. TTB-149, 82 FR 57662, Dec. 7, 2017; T.D. TTB-188, 88 FR 42881, July 5, 2023]

@@ -18,7 +18,7 @@
 
 (3) Fire extinguisher—(2) U.S. Coast Guard-approved Type B:C (motor propelled lifeboats only);
 
-(4) Hatch—(1);
+(4) Hatchet—(1);
 
 (5) Lifeline—(1);
 
@@ -32,4 +32,4 @@
 
 (10) Toolkit (motor propelled lifeboats only).
 
-[USCG-2020-0107, 87 FR 68306, Nov. 14, 2022]
+[USCG-2020-0107, 87 FR 68306, Nov. 14, 2022; 88 FR 51737, Aug. 4, 2023]
