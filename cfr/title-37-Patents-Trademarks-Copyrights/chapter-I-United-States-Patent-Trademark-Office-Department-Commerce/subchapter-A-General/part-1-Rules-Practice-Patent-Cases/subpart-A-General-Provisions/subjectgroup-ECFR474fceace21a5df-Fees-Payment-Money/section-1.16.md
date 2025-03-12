@@ -1,5 +1,3 @@
-​
-
 ##### § 1.16 National application filing, search, and examination fees. #####
 
 Link to an amendment published at 85 FR 46985, Aug. 3, 2020.Link to an amendment published at 86 FR 66193, Nov. 22, 2021.Link to an amendment published at 87 FR 80073, Dec. 29, 2022.Link to an amendment published at 87 FR 80074, Dec. 29, 2022.Link to an amendment published at 88 FR 17154, Mar. 22, 2023.Link to an amendment published at 88 FR 18053, Mar. 27, 2023.

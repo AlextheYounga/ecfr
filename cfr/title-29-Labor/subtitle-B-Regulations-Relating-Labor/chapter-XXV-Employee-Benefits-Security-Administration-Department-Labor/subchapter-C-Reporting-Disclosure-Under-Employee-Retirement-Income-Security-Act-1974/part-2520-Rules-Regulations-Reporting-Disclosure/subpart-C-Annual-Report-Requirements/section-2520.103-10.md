@@ -1,8 +1,6 @@
 ##### § 2520.103-10 Annual report financial schedules. #####
 
-Link to an amendment published at 88 FR 11811, Feb. 24, 2023.
-
-(a) *General.* The administrator of a plan filing an annual report pursuant to § 2520.103-1(a)(2) or the report for a group insurance arrangement pursuant to § 2520.103-2 shall, as provided in the instructions to the Form 5500 “Annual Return/Report of Employee Benefit Plan,” include as part of the annual report the separate financial schedules described in paragraph (b) of this section.
+(a) *General.* The administrator of a plan filing an annual report pursuant to § 2520.103-1(a)(2), the report for a group insurance arrangement pursuant to § 2520.103-2, or the report for a defined contribution group (DCG) reporting arrangement pursuant to § 2520.103-14, shall, as provided in the instructions to the Form 5500 “Annual Return/Report of Employee Benefit Plan,” include as part of the report the separate financial schedules described in paragraph (b) of this section.
 
 (b) *Schedules*—(1) *Assets held for investment.* (i) A schedule of all assets held for investment purposes at the end of the plan year (see § 2520.103-11) with assets aggregated and identified by:
 
@@ -42,6 +40,10 @@ Link to an amendment published at 88 FR 11811, Feb. 24, 2023.
 
 (6) *Reportable transactions.* A schedule of all reportable transactions as defined in § 2520.103-6.
 
-(c) *Format requirements for certain schedules.* See the instructions to the Form 5500 “Annual Return/Report of Employee Benefit Plan” as to the format requirement for the schedules referred to in paragraphs (b)(1), (b)(2) or (b)(6) of this section.
+(c) *Presentation of investment assets in commingled trusts and direct filing entities (DFEs).* (1) Except as provided in the Form 5500 and the instructions thereto or for filings by direct filing entities (including DCG reporting arrangements), in the case of assets or investment interests of two or more plans maintained in one trust, entries on the schedule of assets held for investment purposes at the end of the plan year and the schedule of assets acquired and disposed of during the plan year shall be completed by including the plan's allocable portion of the trust.
 
-[65 FR 21083, Apr. 19, 2000]
+(2) In the case of direct filing entities (including DCG reporting arrangements) required to file a schedule of assets held for investment purposes at the end of the plan year and the schedule of assets acquired and disposed of during the plan year, the entries on the schedules shall be completed by including the assets held by the DFE or held in the DCG reporting arrangement's trust or trusts for the individual plans that report in the DCG, and shall include the number of plans with an allocable interest in each listed investment.
+
+(d) *Format requirements for certain schedules.* See the instructions to the Form 5500 “Annual Return/Report of Employee Benefit Plan” as to the format requirement for the schedules referred to in paragraphs (b)(1), (b)(2) or (b)(6) of this section.
+
+[65 FR 21083, Apr. 19, 2000, as amended at 88 FR 11811, Feb. 24, 2023]

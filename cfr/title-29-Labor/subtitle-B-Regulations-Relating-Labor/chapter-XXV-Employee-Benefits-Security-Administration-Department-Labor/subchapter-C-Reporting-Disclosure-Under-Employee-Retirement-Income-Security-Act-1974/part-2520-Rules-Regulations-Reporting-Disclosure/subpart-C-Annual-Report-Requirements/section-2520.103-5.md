@@ -1,8 +1,6 @@
 ##### § 2520.103-5 Transmittal and certification of information to plan administrator for annual reporting purposes. #####
 
-Link to an amendment published at 88 FR 11811, Feb. 24, 2023.
-
-(a) *General.* In accordance with section 103(a)(2) of the Act, an insurance carrier or other organization which provides benefits under the plan or holds plan assets, a bank or similar institution which holds plan assets, or a plan sponsor shall transmit and certifty such information as needed by the administrator to file the annual report under section 104(a)(1) of the Act and § 2520.104a-5 or § 2520.104a-6:
+(a) *General.* In accordance with section 103(a)(2) of the Act, an insurance carrier or other organization which provides benefits under the plan or holds plan assets, a bank or similar institution which holds plan assets, or a plan sponsor shall transmit and certify such information as needed by the administrator to file the annual report under section 104(a)(1) of the Act and § 2520.104a-5, § 2520.104a-6, or § 2520.104a-9:
 
 (1) Within 9 months after the close of the plan year which begins in 1975 or September 30, 1976, whichever is later, and
 
@@ -88,4 +86,4 @@ Link to an amendment published at 88 FR 11811, Feb. 24, 2023.
 
 (2) *Example of Certification.* The XYZ Bank (Insurance Carrier) hereby certifies that the foregoing statement furnished pursuant to 29 CFR 2520.103-5(c) is complete and accurate.
 
-[43 FR 10140, Mar. 10, 1978, as amended at 65 FR 21082, Apr. 19, 2000]
+[43 FR 10140, Mar. 10, 1978, as amended at 65 FR 21082, Apr. 19, 2000; 88 FR 11811, Feb. 24, 2023]
