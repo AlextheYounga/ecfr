@@ -1,6 +1,6 @@
 ##### § 922.194 Certification of preexisting leases, licenses, permits, approvals, other authorizations, or rights to conduct a prohibited activity. #####
 
-Link to an amendment published at 88 FR 972, Jan. 6, 2023.
+Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) A person may conduct an activity prohibited by § 922.193 (a)(1) through (3) if such activity is specifically authorized by a valid Federal, State, or local lease, permit, license, approval, or other authorization in existence on the effective date of Sanctuary designation, or by any valid right of subsistence use or access in existence on the effective date of Sanctuary designation, *provided that:*
 

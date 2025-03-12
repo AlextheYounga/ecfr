@@ -1,7 +1,5 @@
 ##### § 1011.7 Delegations of authority by the Board to specific offices of the Board. #####
 
-Link to an amendment published at 88 FR 729, Jan. 4, 2023.
-
 (a) *Office of Proceedings.* (1) The Director of the Office of Proceedings is delegated the authority to determine (in consultation with involved Offices) whether to waive filing fees set forth at 49 CFR 1002.2(f).
 
 (2) In addition to the authority delegated at 49 CFR 1011.6(c)(3), (d), (g), and (h), the Director of the Office of Proceedings shall have authority initially to determine the following:
@@ -62,7 +60,7 @@ Link to an amendment published at 88 FR 729, Jan. 4, 2023.
 
 (xviii) To authorize a proceeding to be held in abeyance while mediation procedures are pursued, pursuant to the mutual request of the parties to the matter.
 
-(xix) To order arbitration of program-eligible matters under the Board's regulations at 49 CFR part 1108, or upon the mutual request of parties to a proceeding before the Board.
+(xix) To order arbitration of program-eligible matters under the Board's regulations at 49 CFR part 1108, subpart A, or upon the mutual request of parties to a proceeding before the Board.
 
 (b) *Office of Public Assistance, Governmental Affairs, and Compliance.* The Office of Public Assistance, Governmental Affairs, and Compliance is delegated the authority to:
 
@@ -78,4 +76,6 @@ Link to an amendment published at 88 FR 729, Jan. 4, 2023.
 
 (6) Issue, on written request, informal opinions and interpretations which are not binding on the Board. In issuing informal opinions or interpretations, the Director of the Office of Public Assistance, Governmental Affairs, and Compliance shall consult with the Directors of the appropriate Board offices. Such requests must be directed to the Director of the Office of Public Assistance, Governmental Affairs, and Compliance, Surface Transportation Board, Washington, DC.
 
-[75 FR 30711, June 2, 2010, as amended at 78 FR 29079, May 17, 2013; 81 FR 8851, Feb. 23, 2016; 83 FR 15077, Apr. 9, 2018]
+(7) Perform any arbitration duties specifically assigned to the Office of Public Assistance, Governmental Affairs, and Compliance or its Director in 49 CFR part 1108, subpart B.
+
+[75 FR 30711, June 2, 2010, as amended at 78 FR 29079, May 17, 2013; 81 FR 8851, Feb. 23, 2016; 83 FR 15077, Apr. 9, 2018; 88 FR 729, Jan. 4, 2023]

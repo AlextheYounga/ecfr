@@ -1,6 +1,6 @@
 ##### § 922.195 Permit procedures and criteria. #####
 
-Link to an amendment published at 88 FR 972, Jan. 6, 2023.
+Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) A person may conduct an activity prohibited by § 922.193 (a)(1) through (3), if conducted in accordance with the scope, purpose, terms and conditions of a State Permit *provided that*:
 

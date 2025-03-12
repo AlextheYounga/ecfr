@@ -1,6 +1,6 @@
 ##### § 922.162 Definitions. #####
 
-Link to an amendment published at 88 FR 970, Jan. 6, 2023.
+Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) The following definitions apply to the Florida Keys National Marine Sanctuary regulations. To the extent that a definition appears in § 922.3 and this section, the definition in this section governs.
 
@@ -86,7 +86,7 @@ Link to an amendment published at 88 FR 970, Jan. 6, 2023.
 
 *Stern* means the aftermost part of the vessel.
 
-*Tank vessel* means any vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that -
+*Tank vessel* means any vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
 
 (1) Is a United States flag vessel;
 

@@ -1,6 +1,6 @@
-##### § 922.72 Prohibited or otherwise regulated activities - Sanctuary-wide. #####
+##### § 922.72 Prohibited or otherwise regulated activities—Sanctuary-wide. #####
 
-Link to an amendment published at 88 FR 965, Jan. 6, 2023.
+Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) Except as specified in paragraphs (b) through (e) of this section, the following activities are prohibited and thus unlawful for any person to conduct or cause to be conducted:
 

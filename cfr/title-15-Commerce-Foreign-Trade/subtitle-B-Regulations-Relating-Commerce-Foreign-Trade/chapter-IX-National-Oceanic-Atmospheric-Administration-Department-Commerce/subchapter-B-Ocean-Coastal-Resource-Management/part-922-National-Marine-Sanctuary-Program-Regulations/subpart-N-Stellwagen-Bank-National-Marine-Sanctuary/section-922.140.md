@@ -1,6 +1,6 @@
 ##### § 922.140 Boundary. #####
 
-Link to an amendment published at 88 FR 968, Jan. 6, 2023.
+Link to an amendment published at 88 FR 968, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) The Stellwagen Bank National Marine Sanctuary (Sanctuary) consists of an area of approximately 638 square nautical miles (NM) of Federal marine waters and the submerged lands thereunder, over and around Stellwagen Bank and other submerged features off the coast of Massachusetts. The boundary encompasses the entirety of Stellwagen Bank; Tillies Bank, to the northeast of Stellwagen Bank; and portions of Jeffreys Ledge, to the north of Stellwagen Bank.
 

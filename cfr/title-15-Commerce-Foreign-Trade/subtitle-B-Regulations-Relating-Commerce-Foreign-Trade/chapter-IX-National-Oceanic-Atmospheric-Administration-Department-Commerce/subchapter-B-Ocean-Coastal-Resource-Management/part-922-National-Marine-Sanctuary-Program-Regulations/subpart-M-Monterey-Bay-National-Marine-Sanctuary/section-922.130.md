@@ -1,6 +1,6 @@
 ##### § 922.130 Boundary. #####
 
-Link to an amendment published at 88 FR 967, Jan. 6, 2023.
+Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 The Monterey Bay National Marine Sanctuary (Sanctuary) consists of two separate areas.
 

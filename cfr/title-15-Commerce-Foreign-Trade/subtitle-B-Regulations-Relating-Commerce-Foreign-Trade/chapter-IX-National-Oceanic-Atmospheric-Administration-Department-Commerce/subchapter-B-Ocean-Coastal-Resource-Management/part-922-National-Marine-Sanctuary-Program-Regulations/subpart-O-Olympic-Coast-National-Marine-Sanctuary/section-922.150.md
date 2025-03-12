@@ -1,6 +1,6 @@
 ##### § 922.150 Boundary. #####
 
-Link to an amendment published at 88 FR 969, Jan. 6, 2023.
+Link to an amendment published at 88 FR 969, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) The Olympic Coast National Marine Sanctuary (Sanctuary) consists of an area of approximately 2,408 square nautical miles (nmi) of coastal and ocean waters, and the submerged lands thereunder, off the central and northern coast of the State of Washington.
 

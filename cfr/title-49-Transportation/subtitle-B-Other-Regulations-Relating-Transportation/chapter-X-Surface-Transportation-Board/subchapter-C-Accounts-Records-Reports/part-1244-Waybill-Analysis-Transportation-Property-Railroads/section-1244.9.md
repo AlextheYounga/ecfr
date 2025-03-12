@@ -1,10 +1,8 @@
 ##### § 1244.9 Procedures for the release of waybill data. #####
 
-Link to an amendment published at 88 FR 736, Jan. 4, 2023.
-
 (a) *General.* The procedures for the release of waybill data identify five classes of users of the STB Waybill Sample, define the waybill information or data that each class of users may obtain, and set forth the applicable requirements for the data's release. They also formalize notice and protest procedures for the possible release of waybill data to other users to protect against the inappropriate release of confidential data. The Director of the Office of Economics shall be responsible for releasing waybill data in accordance with these procedures.
 
-(b) *Class of user, available data, and applicable release requirements* - (1) *Railroads.* Each requesting railroad may obtain any waybill record from the STB Waybill Sample covering traffic that originated, terminated, or was bridged by that railroad. The railroad shall not have access to waybill data pertaining to traffic in which it did not participate. Also, it must meet all STB and legal requirements concerning release of shipper information in accordance with 49 U.S.C. 11904(a).
+(b) *Class of user, available data, and applicable release requirements*—(1) *Railroads.* Each requesting railroad may obtain any waybill record from the STB Waybill Sample covering traffic that originated, terminated, or was bridged by that railroad. The railroad shall not have access to waybill data pertaining to traffic in which it did not participate. Also, it must meet all STB and legal requirements concerning release of shipper information in accordance with 49 U.S.C. 11904(a).
 
 (2) *Federal agencies.* Each requesting Federal agency (including quasi-governmental agencies) may obtain any waybill record from the STB Waybill Sample subject to the following requirements:
 
@@ -20,17 +18,19 @@ Link to an amendment published at 88 FR 736, Jan. 4, 2023.
 
 (3) *States.* Each requesting State may obtain any waybill record pertaining to traffic that was originated, terminated, interchanged in, or that passed through its State subject to the same requirements imposed on federal agencies under paragraphs (b)(2)(i) through (v) of this section.
 
-(4) *Transportation practitioners, consulting firms, and law firms* - *specific proceedings.* Transportation practitioners, consulting firms and law firms may use data from the STB Waybill Sample in preparing verified statements to be submitted in formal proceedings before the STB and/or State Boards (Board) subject to the following requirements:
+(4) *Transportation practitioners, consulting firms, and law firms—specific proceedings.* Transportation practitioners, consulting firms, and law firms may use data from the STB Waybill Sample in preparing verified statements to be submitted in formal proceedings before the STB and/or State Boards (Board), or in preparing documents to be submitted in arbitration matters under part 1108, subpart B, of this chapter, subject to the following requirements:
 
-(i) The STB Waybill Sample is the only single source of the data or obtaining the data from other sources is burdensome or costly, and the data is relevant to issues pending before the Board.
+(i) The STB Waybill Sample is the only single source of the data or obtaining the data from other sources is burdensome or costly, and the data is relevant to issues in a pending formal proceeding before the Board or in arbitration matters under part 1108, subpart B, of this chapter (when seeking data beyond the automatic waybill data release under § 1108.27(g) of this chapter).
 
-(ii) The requestor submits to the STB a written waybill request that complies with § 1244.9(e).
+(ii) The requestor submits to the STB a written waybill request that complies with paragraph (e) of this section or is part of the automatic waybill data release under § 1108.27(g) of this chapter for use in arbitrations pursuant to part 1108, subpart B, of this chapter.
 
-(iii) All waybill data must be returned to the STB, and the firm must not keep any copies.
+(iii) All waybill data must be returned to the STB, and the practitioner or firm must not keep any copies.
 
-(iv) A transportation practitioner, consulting firm, or law firm must submit any evidence drawn from the STB Waybill Sample to the Board only unless the evidence is aggregated to the level of at least three shippers and will prevent the identification of an individual railroad. Nonaggregated evidence submitted to the Board will be made part of the public record only if the Board finds that it does not reveal competitively sensitive data. However, evidence found to be sensitive may be provided to counsel or other independent representatives for other parties subject to the usual and customary protective order issued by the Board or appropriate authorized official.
+(iv) A transportation practitioner, consulting firm, or law firm must submit any evidence drawn from the STB Waybill Sample only to the Board or to an arbitration panel impaneled under part 1108, subpart B, of this chapter, unless the evidence is aggregated to the level of at least three shippers and will prevent the identification of an individual railroad. Nonaggregated evidence submitted to the Board will be made part of the public record only if the Board finds that it does not reveal competitively sensitive data. However, evidence found to be sensitive may be provided to counsel or other independent representatives for other parties subject to the usual and customary protective order issued by the Board or appropriate authorized official.
 
-(v) For each Board proceeding, a firm must sign a confidentiality agreement with the STB agreeing to the above restrictions before any data will be released. This agreement will permit use of the released data for a period of one year from the date the agreement is signed by the user. If the data is required for an additional period of time because a proceeding is still pending before the Board, the firm must sign a new confidentiality agreement covering the data needed for each additional year the proceeding is opened.
+(v) When waybill data is provided for use in a formal Board proceeding, a practitioner or firm must sign a confidentiality agreement with the STB agreeing to the restrictions specified in paragraphs (b)(4)(i) through (iv) of this section before any data will be released. This agreement will govern access and use of the released data for a period of one year from the date the agreement is signed by the user. If the data is required for an additional period of time because a proceeding is still pending before the Board or a court, the practitioner or firm must sign a new confidentiality agreement covering the data needed for each additional year the proceeding is opened.
+
+(vi) When waybill data is provided for use in arbitrations pursuant to part 1108, subpart B, of this chapter, the transportation practitioners, consulting firms, or law firms representing parties to the arbitration and each arbitrator must sign a confidentiality agreement with the STB agreeing to the restrictions specified in paragraphs (b)(4)(i) through (iv) of this section before any data will be released. The agreement with practitioners and firms will govern access and use of the released data for a period of one year from the date the agreement is signed by the user. If the data is required for an additional period of time because an arbitration or appeal of an arbitration is still pending before the Board or a court, the practitioner or firm must sign a new confidentiality agreement covering the data needed for each additional year the arbitration or appeal is pending. The agreement with each arbitrator will allow that arbitrator to review any evidence that includes confidential waybill data in a particular arbitration matter.
 
 (5) *Public use.* Nonconfidential waybill data may be obtained from the “Public Use Waybill File”. Reports produced from the Public Use Waybill File may be used, published, or released. The Public Use Waybill File contains the following nonconfidential items:
 
@@ -58,7 +58,7 @@ Link to an amendment published at 88 FR 736, Jan. 4, 2023.
 
 (xii) Hazardous/Bulk Material in Box Car Flag.
 
-(xiii) Commodity Code - Excluding STCC 49/50 (All 5 digit STCC Codes, except STCC 19).
+(xiii) Commodity Code—Excluding STCC 49/50 (All 5 digit STCC Codes, except STCC 19).
 
 (xiv) Billed Weight in Tons.
 
@@ -176,4 +176,4 @@ Link to an amendment published at 88 FR 736, Jan. 4, 2023.
 
 (h) *Munitions shipments.* All waybill requests for munition data at the 3-digit Standard Transportation Commodity Code (STCC) level or greater will be forwarded by the STB to the Department of Defense's Military Surface Deployment and Distribution Command (SDDC). The STB will not release this type of information without SDDC's consent.
 
-[52 FR 12416, Apr. 16, 1987. Redesignated at 65 FR 37711, June 16, 2000, as amended at 67 FR 57534, Sept. 11, 2002; 81 FR 8856, Feb. 23, 2016; 83 FR 15080, Apr. 9, 2018; 83 FR 17300, Apr. 19, 2018; 84 FR 12945, Apr. 3, 2019]
+[52 FR 12416, Apr. 16, 1987. Redesignated at 65 FR 37711, June 16, 2000, as amended at 67 FR 57534, Sept. 11, 2002; 81 FR 8856, Feb. 23, 2016; 83 FR 15080, Apr. 9, 2018; 83 FR 17300, Apr. 19, 2018; 84 FR 12945, Apr. 3, 2019; 88 FR 736, Jan. 4, 2023]

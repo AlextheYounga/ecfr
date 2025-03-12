@@ -1,6 +1,6 @@
 ##### § 922.215 Permit procedures and review criteria. #####
 
-Link to an amendment published at 88 FR 973, Jan. 6, 2023.
+Link to an amendment published at 88 FR 973, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) *Authority to issue general permits.* The Director may allow a person to conduct an activity that would otherwise be prohibited by this subpart, through issuance of a general permit, provided the applicant complies with:
 
@@ -10,11 +10,11 @@ Link to an amendment published at 88 FR 973, Jan. 6, 2023.
 
 (b) *Sanctuary general permit categories.* The Director may issue a sanctuary general permit under this subpart, subject to such terms and conditions as he or she deems appropriate, if the Director finds that the proposed activity falls within one of the following categories:
 
-(1) Research - activities that constitute scientific research on or scientific monitoring of national marine sanctuary resources or qualities;
+(1) Research—activities that constitute scientific research on or scientific monitoring of national marine sanctuary resources or qualities;
 
-(2) Education - activities that enhance public awareness, understanding, or appreciation of a national marine sanctuary or national marine sanctuary resources or qualities; or
+(2) Education—activities that enhance public awareness, understanding, or appreciation of a national marine sanctuary or national marine sanctuary resources or qualities; or
 
-(3) Management - activities that assist in managing a national marine sanctuary.
+(3) Management—activities that assist in managing a national marine sanctuary.
 
 (c) *Review criteria.* The Director shall not issue a permit under this subpart, unless he or she also finds that:
 

@@ -1,6 +1,6 @@
 ##### § 922.80 Boundary. #####
 
-Link to an amendment published at 88 FR 965, Jan. 6, 2023.
+Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) Greater Farallones National Marine Sanctuary (Sanctuary) encompasses an area of approximately 2,488 square nautical miles (3,295 square miles) of coastal and ocean waters, and submerged lands thereunder, surrounding the Farallon Islands and Noonday Rock along the northern coast of California. The precise boundary coordinates are listed in appendix A to this subpart.
 
