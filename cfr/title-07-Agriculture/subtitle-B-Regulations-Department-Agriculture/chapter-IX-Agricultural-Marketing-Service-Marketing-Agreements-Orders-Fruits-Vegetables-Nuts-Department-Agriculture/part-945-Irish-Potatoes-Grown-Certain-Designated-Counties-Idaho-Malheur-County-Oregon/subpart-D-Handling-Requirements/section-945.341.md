@@ -7,7 +7,6 @@ No person shall handle any lot of potatoes unless such potatoes meet the require
 (2) *Size* - (i) *All varieties, except Russet types.* 17/8 inches minimum diameter, unless otherwise specified on the container in connection with the grade.
 
 (ii) *Russet types.* 2 inches minimum diameter, or 4 ounces minimum weight: *Provided,* That at least 40 percent of the potatoes in each lot shall be 5 ounces or heavier.
-.
 
 (iii) *All varieties, U.S. No. 1 grade or better.* (A) Size B (11/2 to 21/4 inches diameter).
 

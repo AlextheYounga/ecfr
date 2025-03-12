@@ -1,7 +1,5 @@
 ##### § 205.603 Synthetic substances allowed for use in organic livestock production. #####
 
-Link to an amendment published at 84 FR 18136, Apr. 30, 2019.
-
 In accordance with restrictions specified in this section the following synthetic substances may be used in organic livestock production:
 
 (a) As disinfectants, sanitizer, and medical treatments as applicable.
@@ -104,23 +102,25 @@ In accordance with restrictions specified in this section the following syntheti
 
 (1) Copper sulfate.
 
-(2) Formic acid (CAS # 64-18-6) - for use as a pesticide solely within honeybee hives.
+(2) Elemental sulfur - for treatment of livestock and livestock housing.
 
-(3) Iodine.
+(3) Formic acid (CAS # 64-18-6) - for use as a pesticide solely within honeybee hives.
 
-(4) Lidocaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
+(4) Iodine.
 
-(5) Lime, hydrated - as an external pest control, not permitted to cauterize physical alterations or deodorize animal wastes.
+(5) Lidocaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
 
-(6) Mineral oil - for topical use and as a lubricant.
+(6) Lime, hydrated - as an external pest control, not permitted to cauterize physical alterations or deodorize animal wastes.
 
-(7) Procaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
+(7) Mineral oil - for topical use and as a lubricant.
 
-(8) Sodium chlorite, acidified - allowed for use on organic livestock as teat dip treatment only.
+(8) Procaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
 
-(9) Sucrose octanoate esters (CAS #s-42922-74-7; 58064-47-4) - in accordance with approved labeling.
+(9) Sodium chlorite, acidified - allowed for use on organic livestock as teat dip treatment only.
 
-(10) Zinc sulfate - for use in hoof and foot treatments only.
+(10) Sucrose octanoate esters (CAS #s-42922-74-7; 58064-47-4) - in accordance with approved labeling.
+
+(11) Zinc sulfate - for use in hoof and foot treatments only.
 
 (c) As feed supplements - None.
 
@@ -142,4 +142,4 @@ In accordance with restrictions specified in this section the following syntheti
 
 (g)-(z) [Reserved]
 
-[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017; 83 FR 66572, Dec. 27, 2018]
+[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017; 83 FR 66572, Dec. 27, 2018; 84 FR 18136, Apr. 30, 2019]

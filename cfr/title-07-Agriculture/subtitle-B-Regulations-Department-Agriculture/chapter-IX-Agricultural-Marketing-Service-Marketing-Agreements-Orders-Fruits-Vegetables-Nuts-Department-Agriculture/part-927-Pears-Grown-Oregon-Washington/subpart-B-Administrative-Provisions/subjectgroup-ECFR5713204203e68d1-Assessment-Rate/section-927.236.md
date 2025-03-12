@@ -1,10 +1,10 @@
 ##### § 927.236 Fresh pear assessment rate. #####
 
-On and after July 1, 2012, the following base rates of assessment for fresh pears are established for the Fresh Pear Committee:
+On and after July 1, 2018, the following base rates of assessment for fresh pears are established for the Fresh Pear Committee:
 
-(a) $0.449 per 44-pound net weight standard box or container equivalent for any or all varieties or subvarieties of fresh pears classified as “summer/fall”;
+(a) $0.463 per 44-pound net weight standard box or container equivalent for any or all varieties or subvarieties of fresh pears classified as “summer/fall”;
 
-(b) $0.449 per 44-pound net weight standard box or container equivalent for any or all varieties or subvarieties of fresh pears classified as “winter”; and
+(b) $0.463 per 44-pound net weight standard box or container equivalent for any or all varieties or subvarieties of fresh pears classified as “winter”; and
 
 (c) $0.000 per 44-pound net weight standard box or container equivalent for any or all varieties or subvarieties of fresh pears classified as “other”.
 
