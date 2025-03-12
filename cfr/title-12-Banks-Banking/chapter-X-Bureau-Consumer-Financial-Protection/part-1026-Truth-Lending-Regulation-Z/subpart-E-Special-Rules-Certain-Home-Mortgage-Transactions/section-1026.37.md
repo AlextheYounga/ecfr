@@ -1,5 +1,7 @@
 ##### § 1026.37 Content of disclosures for certain mortgage transactions (Loan Estimate). #####
 
+Link to an amendment published at 82 FR 37769, Aug. 11, 2017.
+
 For each transaction subject to § 1026.19(e), the creditor shall disclose the information in this section:
 
 (a) *General information* - (1) *Form title.* The title of the form, “Loan Estimate,” using that term.

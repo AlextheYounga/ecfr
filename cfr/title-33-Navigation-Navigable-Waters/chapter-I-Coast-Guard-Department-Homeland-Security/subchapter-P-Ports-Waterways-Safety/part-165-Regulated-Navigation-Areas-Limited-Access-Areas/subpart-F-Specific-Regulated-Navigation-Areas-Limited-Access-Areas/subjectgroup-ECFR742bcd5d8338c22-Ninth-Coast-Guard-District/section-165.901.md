@@ -1,5 +1,7 @@
 ##### § 165.901 Great Lakes - regulated navigation areas. #####
 
+Link to an amendment published at 82 FR 37519, Aug. 11, 2017.
+
 (a) *Lake Huron.* The following are regulated navigation areas:
 
 (1) The waters of Lake Huron known as South Channel between Bois Blanc Island and Cheboygan, Michigan; bounded by a line north from Cheyboygan Crib Light (LL-1340) at 45°39′48″ N, 84°27′36″ W; to Bois Blanc Island at 45°43′42″ N, 84°27′36″ W; and a line north from the mainland at 45°43′00″ N, 84°35′30″ W; to the western tangent of Bois Blanc Island at 45°48′42″ N, 84°35′30″ W.

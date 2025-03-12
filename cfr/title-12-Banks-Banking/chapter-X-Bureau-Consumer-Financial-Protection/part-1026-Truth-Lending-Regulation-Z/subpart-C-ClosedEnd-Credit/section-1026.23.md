@@ -1,5 +1,7 @@
 ##### § 1026.23 Right of rescission. #####
 
+Link to an amendment published at 82 FR 37769, Aug. 11, 2017.
+
 (a) *Consumer's right to rescind.* (1) In a credit transaction in which a security interest is or will be retained or acquired in a consumer's principal dwelling, each consumer whose ownership interest is or will be subject to the security interest shall have the right to rescind the transaction, except for transactions described in paragraph (f) of this section. For purposes of this section, the addition to an existing obligation of a security interest in a consumer's principal dwelling is a transaction. The right of rescission applies only to the addition of the security interest and not the existing obligation. The creditor shall deliver the notice required by paragraph (b) of this section but need not deliver new material disclosures. Delivery of the required notice shall begin the rescission period.
 
 (2) To exercise the right to rescind, the consumer shall notify the creditor of the rescission by mail, telegram or other means of written communication. Notice is considered given when mailed, when filed for telegraphic transmission or, if sent by other means, when delivered to the creditor's designated place of business.

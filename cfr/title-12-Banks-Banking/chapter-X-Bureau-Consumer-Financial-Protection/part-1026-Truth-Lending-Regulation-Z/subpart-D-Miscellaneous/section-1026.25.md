@@ -1,5 +1,7 @@
 ##### § 1026.25 Record retention. #####
 
+Link to an amendment published at 82 FR 37769, Aug. 11, 2017.
+
 (a) *General rule.* A creditor shall retain evidence of compliance with this part (other than advertising requirements under §§ 1026.16 and 1026.24, and other than the requirements under § 1026.19(e) and (f)) for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require creditors under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of the Act.
 
 (b) *Inspection of records.* A creditor shall permit the agency responsible for enforcing this part with respect to that creditor to inspect its relevant records for compliance.

@@ -1,5 +1,7 @@
 ##### § 1026.38 Content of disclosures for certain mortgage transactions (Closing Disclosure). #####
 
+Link to an amendment published at 82 FR 37770, Aug. 11, 2017.
+
 For each transaction subject to § 1026.19(f), the creditor shall disclose the information in this section:
 
 (a) *General information* - (1) *Form title.* The title of the form, “Closing Disclosure,” using that term.
