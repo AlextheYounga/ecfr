@@ -54,7 +54,7 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Condition level deficiency* means noncompliance with one or more condition level requirements.
 
-*Condition level requirements* means any of the requirements identified as “conditions” in subparts G through Q of this part.
+*Condition level requirements* means any of the requirements identified as “conditions” in § 493.41 and subparts G through Q of this part.
 
 *Confirmatory testing* means testing performed by a second analytical procedure that could be used to substantiate or bring into question the result of an initial laboratory test.
 
@@ -158,4 +158,4 @@ Example:Assume the State survey agency, CMS or other CMS agent performs 200 samp
 
 *Waived test* means a test system, assay, or examination that HHS has determined meets the CLIA statutory criteria as specified for waiver under section 353(d)(3) of the Public Health Service Act.
 
-[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014]
+[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020]

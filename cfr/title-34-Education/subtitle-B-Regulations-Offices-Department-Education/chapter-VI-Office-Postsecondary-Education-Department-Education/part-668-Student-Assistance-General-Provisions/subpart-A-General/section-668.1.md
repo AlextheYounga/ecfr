@@ -1,5 +1,7 @@
 ##### § 668.1 Scope. #####
 
+Link to an amendment published at 85 FR 54813, Sept. 2, 2020.
+
 (a) This part establishes general rules that apply to an institution that participates in any student financial assistance program authorized by Title IV of the Higher Education Act of 1965, as amended (Title IV, HEA program). To the extent that an institution contracts with a third-party servicer to administer any aspect of the institution's participation in any Title IV, HEA program, the applicable rules in this part also apply to that servicer. An institution's use of a third-party servicer does not alter the institution's responsibility for compliance with the rules in this part.
 
 (b) As used in this part, an “institution” includes -

@@ -76,7 +76,7 @@
 
 (ii) An unresolved issue with a CMS data system affected the ability of a facility to submit data in accordance with paragraph (d)(1) of this section and CMS was unable to provide the facility with an alternative method of data submission.
 
-(7) A facility that has been granted an exception to the data submission requirements under paragraph (d)(6) of this section may notify CMS that it will continue to submit data under paragraph (d)(1) of this section by sending an email signed by the CEO or another designated contact to the ESRD QIP mailbox at *ESRDQIP@cms.hhs.gov.* Upon receipt of an email under this clause, CMS will notify the facility in writing that CMS is withdrawing the exception it previously granted to the facility.
+(7) With the exception of first and second quarter 2020 ESRD QIP data for which CMS granted an exception under paragraph (d)(6) of this section, a facility that has been granted an exception to the data submission requirements under paragraph (d)(6) of this section may notify CMS that it will continue to submit data under paragraph (d)(1) of this section by sending an email signed by the CEO or another designated contact to the ESRD QIP mailbox at *ESRDQIP@cms.hhs.gov.* Upon receipt of an email under this clause, CMS will notify the facility in writing that CMS is withdrawing the exception it previously granted to the facility. With respect to fourth quarter 2019 ESRD QIP data for which CMS granted an exception under paragraph (d)(6) of this section, a facility is deemed to have met the requirements of this paragraph if the facility actually submitted the data by the March 31, 2020 submission deadline but did not notify CMS that it would do so.
 
 (e) *Performance scoring under the ESRD QIP.* (1) CMS will award points to an ESRD facility based on its performance on each clinical measure for which the ESRD facility reports the applicable minimum number of cases during the performance period for a payment year, and based on the degree to which the ESRD facility submits data and completes other actions specified by CMS for a reporting measure during the performance period for a payment year.
 
@@ -116,4 +116,4 @@
 
 (4) The establishment of the performance standards and the performance period under section 1881(h)(4) of the Act.
 
-[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019]
+[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020]

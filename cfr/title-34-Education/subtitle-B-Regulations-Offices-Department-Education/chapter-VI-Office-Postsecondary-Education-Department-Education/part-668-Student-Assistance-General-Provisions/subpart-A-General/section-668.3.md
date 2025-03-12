@@ -1,5 +1,7 @@
 ##### § 668.3 Academic year. #####
 
+Link to an amendment published at 85 FR 54814, Sept. 2, 2020.
+
 (a) *General.* Except as provided in paragraph (c) of this section, an academic year for a program of study must include -
 
 (1)(i) For a program offered in credit hours, a minimum of 30 weeks of instructional time; or

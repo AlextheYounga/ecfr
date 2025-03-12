@@ -1,5 +1,7 @@
 ##### § 668.34 Satisfactory academic progress. #####
 
+Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
+
 (a) *Satisfactory academic progress policy.* An institution must establish a reasonable satisfactory academic progress policy for determining whether an otherwise eligible student is making satisfactory academic progress in his or her educational program and may receive assistance under the title IV, HEA programs. The Secretary considers the institution's policy to be reasonable if -
 
 (1) The policy is at least as strict as the policy the institution applies to a student who is not receiving assistance under the title IV, HEA programs;

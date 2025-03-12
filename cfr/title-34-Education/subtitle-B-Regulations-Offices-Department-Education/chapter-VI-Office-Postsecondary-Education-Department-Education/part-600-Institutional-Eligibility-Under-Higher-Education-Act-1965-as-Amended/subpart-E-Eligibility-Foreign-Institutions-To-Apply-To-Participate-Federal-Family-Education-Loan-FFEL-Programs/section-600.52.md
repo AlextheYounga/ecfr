@@ -1,5 +1,7 @@
 ##### § 600.52 Definitions. #####
 
+Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
+
 The following definitions apply to this subpart E:
 
 *Associate degree school of nursing:* A school that provides primarily or exclusively a two-year program of postsecondary education in professional nursing leading to a degree equivalent to an associate degree in the United States.

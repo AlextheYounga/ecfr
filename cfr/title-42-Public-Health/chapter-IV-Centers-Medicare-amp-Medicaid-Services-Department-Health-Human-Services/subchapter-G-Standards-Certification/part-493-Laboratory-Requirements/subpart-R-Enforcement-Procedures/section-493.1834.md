@@ -6,7 +6,7 @@
 
 (c) *Basis for imposing a civil money penalty.* CMS may impose a civil money penalty against any laboratory determined to have condition level deficiencies regardless of whether those deficiencies pose immediate jeopardy.
 
-(d) *Amount of penalty* - (1) *Factors considered.* In determining the amount of the penalty, CMS takes into account the following factors:
+(d) *Amount of penalty*—(1) *Factors considered.* In determining the amount of the penalty, CMS takes into account the following factors:
 
 (i) The nature, scope, severity, and duration of the noncompliance.
 
@@ -22,11 +22,13 @@
 
 (ii) For a condition level deficiency that does not pose immediate jeopardy, the range is $50-$3,000 as adjusted annually under 45 CFR part 102 per day of noncompliance or per violation.
 
+(iii) For a condition level deficiency under §§ 493.41 or 493.1100(a), the penalty amount is $1,000 for the first day of noncompliance and $500 for each additional day of noncompliance.
+
 (3) *Decreased penalty amounts.* If the immediate jeopardy is removed, but the deficiency continues, CMS shifts the penalty amount to the lower range.
 
 (4) *Increased penalty amounts.* CMS may, before the hearing, propose to increase the penalty amount for a laboratory that has deficiencies which, after imposition of a lower level penalty amount, become sufficiently serious to pose immediate jeopardy.
 
-(e) *Procedures for imposition of civil money penalty* - (1) *Notice of intent.* (i) CMS sends the laboratory written notice, of CMS's intent to impose a civil money penalty.
+(e) *Procedures for imposition of civil money penalty*—(1) *Notice of intent.* (i) CMS sends the laboratory written notice, of CMS's intent to impose a civil money penalty.
 
 (ii) The notice includes the following information:
 
@@ -46,7 +48,7 @@
 
 (iii) If the laboratory does not request a hearing, CMS may reduce the proposed penalty amount by 35 percent.
 
-(f) *Accrual and duration of penalty* - (1) *Accrual of penalty.* The civil money penalty begins accruing as follows:
+(f) *Accrual and duration of penalty*—(1) *Accrual of penalty.* The civil money penalty begins accruing as follows:
 
 (i) 5 days after notice of intent if there is immediate jeopardy.
 
@@ -60,7 +62,7 @@
 
 (iii) CMS suspends, limits, or revokes the laboratory's certificate of compliance, registration certificate, certificate of accreditation, or certificate for PPM procedures.
 
-(g) *Computation and notice of total penalty amount* - (1) *Computation.* CMS computes the total penalty amount after the laboratory's compliance is verified or CMS suspends, limits, or revokes the laboratory's CLIA certificate but in no event before -
+(g) *Computation and notice of total penalty amount*—(1) *Computation.* CMS computes the total penalty amount after the laboratory's compliance is verified or CMS suspends, limits, or revokes the laboratory's CLIA certificate but in no event before—
 
 (i) The 60 day period for requesting a hearing has expired without a request or the laboratory has explicitly waived its right to a hearing; or
 
@@ -80,10 +82,10 @@
 
 (2) CMS may approve a plan for a laboratory to pay a civil money penalty, plus interest, over a period of up to one year from the original due date.
 
-(i) *Collection and settlement* - (1) *Collection of penalty amounts.* (i) The determined penalty amount may be deducted from any sums then or later owing by the United States to the laboratory subject to the penalty.
+(i) *Collection and settlement*—(1) *Collection of penalty amounts.* (i) The determined penalty amount may be deducted from any sums then or later owing by the United States to the laboratory subject to the penalty.
 
 (ii) Interest accrues on the unpaid balance of the penalty, beginning on the due date. Interest is computed at the rate specified in § 405.378(d) of this chapter.
 
 (2) *Settlement.* CMS has authority to settle any case at any time before the ALJ issues a hearing decision.
 
-[57 FR 7237, Feb. 28, 1992, as amended at 60 FR 20051, Apr. 24, 1995; 61 FR 63749, Dec. 2, 1996; 81 FR 61564, Sept. 6, 2016]
+[57 FR 7237, Feb. 28, 1992, as amended at 60 FR 20051, Apr. 24, 1995; 61 FR 63749, Dec. 2, 1996; 81 FR 61564, Sept. 6, 2016; 85 FR 54874, Sept. 2, 2020]

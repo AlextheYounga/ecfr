@@ -1,5 +1,7 @@
 ##### § 292.207 Procedures for obtaining qualifying status. #####
 
+Link to an amendment published at 85 FR 54732, Sept. 2, 2020.
+
 (a) *Self-certification.* The qualifying facility status of an existing or a proposed facility that meets the requirements of § 292.203 may be self-certified by the owner or operator of the facility or its representative by properly completing a Form No. 556 and filing that form with the Commission, pursuant to § 131.80 of this chapter, and complying with paragraph (c) of this section.
 
 (b) *Optional procedure* - (1) *Application for Commission certification.* In lieu of the self-certification procedures in paragraph (a) of this section, an owner or operator of an existing or a proposed facility, or its representative, may file with the Commission an application for Commission certification that the facility is a qualifying facility. The application must be accompanied by the fee prescribed by part 381 of this chapter, and the applicant for Commission certification must comply with paragraph (c) of this section.

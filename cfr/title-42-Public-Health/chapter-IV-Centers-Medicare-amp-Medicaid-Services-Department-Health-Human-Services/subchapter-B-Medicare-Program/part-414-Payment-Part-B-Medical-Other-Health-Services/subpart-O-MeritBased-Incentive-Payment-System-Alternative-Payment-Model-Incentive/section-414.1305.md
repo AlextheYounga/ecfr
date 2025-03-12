@@ -394,6 +394,22 @@ As used in this section, unless otherwise indicated -
 
 *Performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the MIPS payment adjustment factors.
 
+*Primary care services* for purposes of CMS Web Interface and the CAHPS for MIPS survey beneficiary assignment means the set of services identified by any of the following:
+
+(1) CPT codes:
+
+(i) 99201 through 99215 (codes for office or other outpatient visit for the evaluation and management of a patient); 99304 through 99318 (codes for professional services furnished in a nursing facility, excluding professional services furnished in a SNF for claims identified by place of service (POS) modifier 31); 99319 through 99340 (codes for patient domiciliary, rest home, or custodial care visit); 99341 through 99350 (codes for evaluation and management services furnished in a patient's home for claims identified by POS modifier 12); 99490 (code for chronic care management); and 99495 and 99496 (codes for transitional care management services);
+
+(ii) Beginning with the 2020 MIPS payment year, 99487 and 99489 (codes for chronic care management); and
+
+(iii) For the CY 2020 MIPS performance period and any subsequent performance period that starts during the Public Health Emergency, as defined in § 400.200, 99421, 99422, and 99423 (codes for online digital evaluation and management services (e-visit)); and 99441, 99442, and 99443 (codes for telephone evaluation and management services).
+
+(2) HCPCS codes:
+
+(i) G0402 (code for the Welcome to Medicare visit); and G0438 and G0439 (codes for the annual wellness visits); and
+
+(ii) For the CY 2020 MIPS performance period and any subsequent performance period that starts during the Public Health Emergency, as defined in § 400.200, G2010 (code for remote evaluation of patient video/images); and G2012 (code for virtual check-in).
+
 *QP patient count threshold* means the minimum threshold score specified in § 414.1430(a)(3) and (b)(3) that an eligible clinician must attain through a patient count methodology described in §§ 414.1435(b) and 414.1440(c) to become a QP for a year.
 
 *QP payment amount threshold* means the minimum threshold score specified in § 414.1430(a)(1) and (b)(1) that an eligible clinician must attain through the payment amount methodology described in §§ 414.1435(a) and 414.1440(b) to become a QP for a year.
@@ -436,4 +452,4 @@ As used in this section, unless otherwise indicated -
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020]

@@ -1,7 +1,5 @@
 ##### § 980.1 Import regulations; Irish potatoes. #####
 
-Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
-
 (a) *Findings and determinations with respect to imports of Irish potatoes.* (1) Pursuant to section 8e of the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601-674), it is hereby found that:
 
 (i) Grade, size, quality, and maturity regulations have been issued from time to time pursuant to the following marketing orders: No. 945 (part 945 of this chapter), No. 948 (part 948 of this chapter), No. 947 (part 947 of this chapter), No. 946 (part 946 of this chapter), and No. 953 (part 953 of this chapter).
@@ -34,21 +32,13 @@ Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
 
 (e) *Certified seed.* Certified seed potatoes shall include only those potatoes which are officially certified and tagged as seed potatoes by the Plant Health and Production Division, Plant Products Directorate, Canadian Food Inspection Agency, and which are subsequently used as seed.
 
-(f) *Designation of governmental inspection services.* The Federal or Federal-State Inspection Service, Fruit and Vegetable Programs, Agricultural Marketing Service, U.S. Department of Agriculture and the Food of Plant Origin Division, Plant Products Directorate, Canadian Food Inspection Agency, are hereby designated as governmental inspection services for the purpose of certifying the grade, size, quality, and maturity of Irish potatoes that are imported, or to be imported, into the United States under the provisions of § 608e of the Act.
+(f) *Designation of governmental inspection services.* The Federal or Federal-State Inspection Service, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, and the Food of Plant Origin Division, Plant Products Directorate, Canadian Food Inspection Agency, are hereby designated as governmental inspection services for the purpose of certifying the grade, size, quality, and maturity of Irish potatoes that are imported, or to be imported, into the United States under the provisions of § 608e of the Act.
 
 (g) *Inspection and official inspection certificates.* An official inspection certificate certifying the potatoes meet the United States import requirements for Irish potatoes under section 8e (7 U.S.C. 608e) issued by a designated governmental inspection service applicable to a particular shipment of potatoes is required on all imports of potatoes other than certified seed.
 
-(1)(i) Inspection and certification by the Federal or Federal-State Inspection Service will be available and performed in accordance with the rules and regulations governing certification of fresh fruits, vegetables, and other products (part 51 of this title), and each lot shall be made available and accessible for inspection as provided therein. Cost of inspection and certification shall be borne by the applicant.
+(1)(i) Inspection and certification by the Federal or Federal-State Inspection Service will be available and performed in accordance with the rules and regulations governing certification of fresh fruits, vegetables, and other products (7 CFR part 51), and each lot shall be made available and accessible for inspection as provided therein. Cost of inspection and certification shall be borne by the applicant. For questions about inspection services or for further assistance, contact: Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, Room 1536-S, STOP 0240, Washington, DC 20250-0237; telephone (202) 720-5870; fax (202) 720-0393.
 
-(ii) Since inspectors may not be stationed in the immediate vicinity of a port, or point of entry, an importer of uninspected and uncertified Irish potatoes should make advance arrangements for inspection. Each importer should give at least the specified advance notice to one of the following applicable inspection offices prior to the time the Irish potatoes will be imported.
-
-|         Ports and points          |                                                             Inspection offices                                                              |Advance notice (days)|
-|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-|All Maine ports and points of entry|                                  In-Charge, Post Office Box 1058, Presque Isle, ME 04767 (PH 207-764-2100)                                  |          1          |
-|        Port of Boston, MA         |                  In-Charge, Boston Market Terminal Building, Room 1, 34 Market Street, Everett, MA 02149 (PH 617-389-2480)                  |          1          |
-|       Port of New York, NY        |                              In-Charge, 465B New York City Terminal Market, Bronx, NY 10474 (PH 718-991-7665)                               |          1          |
-|     Port of Philadelphia, PA      |                    In-Charge, 210 Produce Building, 3301 South Galloway Street, Philadelphia, PA 19148 (PH 215-336-0845                     |          1          |
-|All other ports and points of entry|Head, Field Operations Section, Fresh Products Branch, Fruit and Vegetable Programs, AMS, USDA, Washington, DC 20250-0240 (PH 1-800-811-2373)|          3          |
+(ii) If certification is provided by a designated governmental inspection service other than the Federal or Federal-State Inspection Service, in accordance with 980.1(f), an importer shall electronically transmit to USDA, prior to entry, the certificate number and an electronic image of the certificate using the U.S. Customs and Border Protection's Automated Commercial Environment system. If this information is not provided electronically prior to entry, a paper copy of the certificate must accompany the shipment at the time of entry, and a copy of the certificate must be submitted by email or mail to the Marketing Order and Agreement Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, STOP 0237, Washington, DC 20250-0237; telephone (888) 551-3523; or email *8eImports@ams.usda.gov.*
 
 (2) In the event the required inspection is performed prior to the arrival of the potatoes at the port of entry, the inspection certificate that is issued must show that the inspection was performed at the time of loading such potatoes for direct transportation to the United States; and if transportation is by water, the certificate must show that the inspection was performed at the time of loading onto the vessel.
 
@@ -82,4 +72,4 @@ Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
 
 (2) There shall be no size requirements for potatoes that are imported in containers with a net weight of 3 pounds or less, if the potatoes are otherwise U.S. No. 1 grade or better.
 
-[34 FR 8044, May 22, 1969, as amended at 35 FR 8204, May 26, 1970; 36 FR 9634, May 27, 1971; 37 FR 8059, Apr. 25, 1972; 54 FR 22577, May 25, 1989; 57 FR 30382, July 9, 1992; 58 FR 69189, Dec. 30, 1993; 61 FR 13060, Mar. 26, 1996; 67 FR 66531, Nov. 1, 2002; 74 FR 2808, Jan. 16, 2009; 74 FR 65394, Dec. 10, 2009; 79 FR 8256, Feb. 12, 2014; 80 FR 22361, Apr. 22, 2015]
+[34 FR 8044, May 22, 1969, as amended at 35 FR 8204, May 26, 1970; 36 FR 9634, May 27, 1971; 37 FR 8059, Apr. 25, 1972; 54 FR 22577, May 25, 1989; 57 FR 30382, July 9, 1992; 58 FR 69189, Dec. 30, 1993; 61 FR 13060, Mar. 26, 1996; 67 FR 66531, Nov. 1, 2002; 74 FR 2808, Jan. 16, 2009; 74 FR 65394, Dec. 10, 2009; 79 FR 8256, Feb. 12, 2014; 80 FR 22361, Apr. 22, 2015; 85 FR 12295, Mar. 6, 2020]

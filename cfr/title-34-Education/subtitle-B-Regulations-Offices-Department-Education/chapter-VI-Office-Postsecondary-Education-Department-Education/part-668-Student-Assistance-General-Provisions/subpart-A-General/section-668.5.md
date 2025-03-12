@@ -1,5 +1,7 @@
 ##### § 668.5 Written arrangements to provide educational programs. #####
 
+Link to an amendment published at 85 FR 54814, Sept. 2, 2020.
+
 (a) *Written arrangements between eligible institutions.* (1) Except as provided in paragraph (a)(2) of this section, if an eligible institution enters into a written arrangement with another eligible institution, or with a consortium of eligible institutions, under which the other eligible institution or consortium provides part of the educational program to students enrolled in the first institution, the Secretary considers that educational program to be an eligible program if the educational program offered by the institution that grants the degree or certificate otherwise satisfies the requirements of § 668.8.
 
 (2) If the written arrangement is between two or more eligible institutions that are owned or controlled by the same individual, partnership, or corporation, the Secretary considers the educational program to be an eligible program if -

@@ -1,5 +1,7 @@
 ##### § 600.2 Definitions. #####
 
+Link to an amendment published at 85 FR 54808, Sept. 2, 2020.
+
 The following definitions apply to terms used in this part:
 
 *Accredited:* The status of public recognition that a nationally recognized accrediting agency grants to an institution or educational program that meets the agency's established requirements.

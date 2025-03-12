@@ -1,5 +1,7 @@
 ##### § 600.54 Criteria for determining whether a foreign institution is eligible to apply to participate in the Direct Loan Program. #####
 
+Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
+
 The Secretary considers a foreign institution to be comparable to an eligible institution of higher education in the United States and eligible to apply to participate in the Direct Loan Program if the foreign institution meets the following requirements:
 
 (a)(1) Except for a freestanding foreign graduate medical school, foreign veterinary school, or foreign nursing school, the foreign institution is a public or private nonprofit educational institution.

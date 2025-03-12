@@ -68,4 +68,6 @@ The hospital must have active hospital-wide programs for the surveillance, preve
 
 (4) A qualified individual (or individuals) with expertise in infection prevention and control and in antibiotic stewardship has been designated at the hospital as responsible for communicating with the unified infection prevention and control and antibiotic stewardship programs, for implementing and maintaining the policies and procedures governing infection prevention and control and antibiotic stewardship as directed by the unified infection prevention and control and antibiotic stewardship programs, and for providing education and training on the practical applications of infection prevention and control and antibiotic stewardship to hospital staff.
 
-[84 FR 51820, Sept. 30, 2019]
+(e) *COVID-19 Reporting.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the hospital must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary.
+
+[84 FR 51820, Sept. 30, 2019, as amended at 85 FR 54872, Sept. 2, 2020]

@@ -58,4 +58,6 @@ The CAH must have active facility-wide programs, for the surveillance, preventio
 
 (iv) Competency-based training and education of CAH personnel and staff, including medical staff, and, as applicable, personnel providing contracted services in the CAHs, on the practical applications of antibiotic stewardship guidelines, policies, and procedures.
 
-[84 FR 51827, Sept. 30, 2019]
+(d) *COVID-19 Reporting.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary.
+
+[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020]

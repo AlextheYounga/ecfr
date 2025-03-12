@@ -1,5 +1,7 @@
 ##### § 600.20 Notice and application procedures for establishing, reestablishing, maintaining, or expanding institutional eligibility and certification. #####
 
+Link to an amendment published at 85 FR 54810, Sept. 2, 2020.
+
 (a) *Initial eligibility application.* (1) An institution that wishes to establish its eligibility to participate in any HEA program must submit an application to the Secretary for a determination that it qualifies as an eligible institution under this part.
 
 (2) If the institution also wishes to be certified to participate in the title IV, HEA programs, it must indicate that intent on the application, and submit all the documentation indicated on the application to enable the Secretary to determine that it satisfies the relevant certification requirements contained in 34 CFR part 668, subparts B and L.

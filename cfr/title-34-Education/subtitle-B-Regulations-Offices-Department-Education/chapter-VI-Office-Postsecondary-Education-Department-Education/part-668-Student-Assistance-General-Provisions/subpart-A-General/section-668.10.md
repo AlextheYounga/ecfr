@@ -1,5 +1,7 @@
 ##### § 668.10 Direct assessment programs. #####
 
+Link to an amendment published at 85 FR 54815, Sept. 2, 2020.
+
 (a)(1) A *direct assessment program* is an instructional program that, in lieu of credit hours or clock hours as a measure of student learning, utilizes direct assessment of student learning, or recognizes the direct assessment of student learning by others. The assessment must be consistent with the accreditation of the institution or program utilizing the results of the assessment.
 
 (2) Direct assessment of student learning means a measure by the institution of what a student knows and can do in terms of the body of knowledge making up the educational program. These measures provide evidence that a student has command of a specific subject, content area, or skill or that the student demonstrates a specific quality such as creativity, analysis or synthesis associated with the subject matter of the program. Examples of direct measures include projects, papers, examinations, presentations, performances, and portfolios.

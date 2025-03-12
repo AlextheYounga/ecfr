@@ -1,5 +1,7 @@
 ##### § 668.164 Disbursing funds. #####
 
+Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
+
 (a) *Disbursement.* (1) Except as provided under paragraph (a)(2) of this section, a disbursement of title IV, HEA program funds occurs on the date that the institution credits the student's ledger account or pays the student or parent directly with -
 
 (i) Funds received from the Secretary; or

@@ -1,5 +1,7 @@
 ##### § 668.13 Certification procedures. #####
 
+Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
+
 (a) *Requirements for certification.* (1) The Secretary certifies an institution to participate in the title IV, HEA programs if the institution qualifies as an eligible institution under 34 CFR part 600, meets the standards of this subpart and 34 CFR part 668, subpart L, and satisfies the requirements of paragraph (a)(2) of this section.
 
 (2) Except as provided in paragraph (a)(3) of this section, if an institution wishes to participate for the first time in the title IV, HEA programs or has undergone a change in ownership that results in a change in control as described in 34 CFR 600.31, the institution must require the following individuals to complete title IV, HEA program training provided or approved by the Secretary no later than 12 months after the institution executes its program participation agreement under § 668.14:

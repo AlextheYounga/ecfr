@@ -256,6 +256,8 @@
 
 (ii) All affected contracts are eligible for the Reward Factor based on the calculations described in paragraph (i)(8)(i) of this section.
 
+(9) *Special rules for the 2022 Star Ratings only.* For the 2022 Star Ratings only, CMS will not apply the provisions in paragraphs (i)(7) or (8) of this section and CMS will not exclude the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms or from the determination of the performance summary and variance thresholds for the Reward Factor.
+
 (j) *Special rules for 2021 Star Ratings only.* (1) For the 2021 Star Ratings:
 
 (i) The measures calculated based on CAHPS data are calculated based on survey data collected from March through May 2019.
@@ -268,4 +270,4 @@
 
 (2) [Reserved]
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020]
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020]

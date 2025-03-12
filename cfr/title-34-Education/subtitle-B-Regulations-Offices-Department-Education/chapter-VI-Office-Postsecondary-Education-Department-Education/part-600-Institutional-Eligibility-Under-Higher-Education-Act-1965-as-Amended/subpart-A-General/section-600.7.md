@@ -1,5 +1,7 @@
 ##### § 600.7 Conditions of institutional ineligibility. #####
 
+Link to an amendment published at 85 FR 54810, Sept. 2, 2020.
+
 (a) *General rule.* For purposes of title IV of the HEA, an educational institution that otherwise satisfies the requirements contained in §§ 600.4, 600.5, or 600.6 nevertheless does not qualify as an eligible institution under this part if -
 
 (1) For its latest complete award year -

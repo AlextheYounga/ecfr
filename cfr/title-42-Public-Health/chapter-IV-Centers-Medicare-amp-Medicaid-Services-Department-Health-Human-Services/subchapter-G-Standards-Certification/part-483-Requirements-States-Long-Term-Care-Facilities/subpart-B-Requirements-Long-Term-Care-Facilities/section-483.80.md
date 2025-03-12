@@ -102,4 +102,34 @@ The facility must establish and maintain an infection prevention and control pro
 
 (iii) Include any cumulative updates for residents, their representatives, and families at least weekly or by 5 p.m. the next calendar day following the subsequent occurrence of either: Each time a confirmed infection of COVID-19 is identified, or whenever three or more residents or staff with new onset of respiratory symptoms occur within 72 hours of each other.
 
-[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020]
+(h) *COVID-19 Testing.* The LTC facility must test residents and facility staff, including individuals providing services under arrangement and volunteers, for COVID-19. At a minimum, for all residents and facility staff, including individuals providing services under arrangement and volunteers, the LTC facility must:
+
+(1) Conduct testing based on parameters set forth by the Secretary, including but not limited to:
+
+(i) Testing frequency;
+
+(ii) The identification of any individual specified in this paragraph diagnosed with COVID-19 in the facility;
+
+(iii) The identification of any individual specified in this paragraph with symptoms consistent with COVID-19 or with known or suspected exposure to COVID-19;
+
+(iv) The criteria for conducting testing of asymptomatic individuals specified in this paragraph, such as the positivity rate of COVID-19 in a county;
+
+(v) The response time for test results; and
+
+(vi) Other factors specified by the Secretary that help identify and prevent the transmission of COVID-19.
+
+(2) Conduct testing in a manner that is consistent with current standards of practice for conducting COVID-19 tests;
+
+(3) For each instance of testing:
+
+(i) Document that testing was completed and the results of each staff test; and
+
+(ii) Document in the resident records that testing was offered, completed (as appropriate to the resident's testing status), and the results of each test.
+
+(4) Upon the identification of an individual specified in this paragraph with symptoms consistent with COVID-19, or who tests positive for COVID-19, take actions to prevent the transmission of COVID-19.
+
+(5) Have procedures for addressing residents and staff, including individuals providing services under arrangement and volunteers, who refuse testing or are unable to be tested.
+
+(6) When necessary, such as in emergencies due to testing supply shortages, contact state and local health departments to assist in testing efforts, such as obtaining testing supplies or processing test results.
+
+[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020]

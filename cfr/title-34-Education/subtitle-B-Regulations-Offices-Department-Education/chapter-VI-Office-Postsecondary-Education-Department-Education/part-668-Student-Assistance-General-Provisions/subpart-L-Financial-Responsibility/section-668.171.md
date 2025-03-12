@@ -1,5 +1,7 @@
 ##### § 668.171 General. #####
 
+Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
+
 (a) *Purpose.* To begin and to continue to participate in any title IV, HEA program, an institution must demonstrate to the Secretary that it is financially responsible under the standards established in this subpart. As provided under section 498(c)(1) of the HEA, the Secretary determines whether an institution is financially responsible based on the institution's ability to -
 
 (1) Provide the services described in its official publications and statements;

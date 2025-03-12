@@ -1,7 +1,5 @@
 ##### § 999.400 Regulation governing the importation of filberts. #####
 
-Link to an amendment published at 85 FR 12996, Mar. 6, 2020.
-
 (a) *Definitions.* (1) *Filberts* means filberts or hazelnuts.
 
 (2) *Inshell filberts* means filberts, the kernels or edible portions of which are contained in the shell.
@@ -20,9 +18,9 @@ Link to an amendment published at 85 FR 12996, Mar. 6, 2020.
 
 (2) *Shelled filberts.* All shelled filberts shall be of a quality equal to or better than the requirements prescribed in exhibit A of this section.
 
-(c) *Inspection and certification requirements* - (1) *General.* Compliance with the grade and size requirements of paragraph (b) of this section shall be determined on the basis of an inspection and certification by a USDA inspector.
+(c) *Inspection and certification requirements*—(1) *General.* Compliance with the grade and size requirements of paragraph (b) of this section shall be determined on the basis of an inspection and certification by a USDA inspector.
 
-(2) *Inspection.* Inspection shall be performed by USDA inspectors in accordance with the Regulations Governing the Inspection and Certification of Fresh Fruits and Vegetables and Related Products (7 CFR part 51). The cost of each such inspection and related certification shall be borne by the applicant. Whenever filberts are offered for inspection, the applicant shall furnish any labor and pay any costs incurred in moving and opening containers as may be necessary for proper sampling and inspection. The applicant shall also furnish the USDA inspector the entry number and such other identifying information for each lot as he may request. Inspection must be completed prior to the importation of filberts. The applicant should make advance arrangements with the USDA inspection office to avoid delay in scheduling the inspection.
+(2) *Inspection.* Inspection shall be performed by USDA inspectors in accordance with the Regulations Governing the Inspection and Certification of Fresh Fruits and Vegetables and Related Products (7 CFR part 51). The cost of each such inspection and related certification shall be borne by the applicant. Whenever filberts are offered for inspection, the applicant shall furnish any labor and pay any costs incurred in moving and opening containers as may be necessary for proper sampling and inspection. The applicant shall also furnish the USDA inspector the entry number and such other identifying information for each lot as the inspector may request. Inspection must be completed prior to the importation, unless imported by vessel, in which case for filberts, the date of release may be used.
 
 (3) *Certification.* Each lot of filberts inspected in accordance with paragraph (c)(1) of this section shall be covered by an inspection certificate. Each such certificate shall set forth, among other things, the following:
 
@@ -86,4 +84,4 @@ definitions
 
 (v) *Insect injury* means that the insect, frass or web is present, or the kernel or portion of kernel show definite evidence of insect feeding.
 
-[42 FR 64899, Dec. 29, 1977, as amended at 45 FR 63482, Sept. 25, 1980; 47 FR 12612, Mar. 24, 1982; 48 FR 34015, July 27, 1983; 74 FR 2809, Jan. 16, 2009]
+[42 FR 64899, Dec. 29, 1977, as amended at 45 FR 63482, Sept. 25, 1980; 47 FR 12612, Mar. 24, 1982; 48 FR 34015, July 27, 1983; 74 FR 2809, Jan. 16, 2009; 85 FR 12296, Mar. 6, 2020]

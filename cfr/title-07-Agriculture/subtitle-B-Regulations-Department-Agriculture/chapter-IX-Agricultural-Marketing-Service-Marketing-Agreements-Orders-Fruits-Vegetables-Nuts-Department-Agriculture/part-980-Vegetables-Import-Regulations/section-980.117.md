@@ -1,7 +1,5 @@
 ##### § 980.117 Import regulations; onions. #####
 
-Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
-
 (a) *Findings and determinations with respect to onions.* (1) Under section 8e of the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601-674), it is hereby found that:
 
 (i) Grade, size, quality, and maturity regulations have been issued regularly under Marketing Orders No. 958 and 959, both as amended;
@@ -24,26 +22,13 @@ Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
 
 (d) *Plant quarantine.* Provisions of this section shall not supercede the restrictions or prohibitions on onions under the Plant Quarantine Act of 1912.
 
-(e) *Designation of governmental inspection service.* The Federal or Federal-State Inspection Service, Fruit and Vegetable Programs, Agricultural Marketing Service, U.S. Department of Agriculture and the Food of Plant Origin Division, Plant Products Directorate, Canadian Food Inspection Agency, are hereby designated as governmental inspection services for the purpose of certifying the grade, size, quality, and maturity of onions that are imported, or to be imported, into the United States under the provisions of section 8e of the Act.
+(e) *Designation of governmental inspection service.* The Federal or Federal-State Inspection Service, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, and the Food of Plant Origin Division, Plant Products Directorate, Canadian Food Inspection Agency, are hereby designated as governmental inspection services for the purpose of certifying the grade, size, quality, and maturity of onions that are imported, or to be imported, into the United States under the provisions of section 8e of the Act.
 
 (f) *Inspection and official inspection certificates.* (1) An official inspection certificate certifying the onions meet the U.S. import requirements for onions under section 8e (7 U.S.C. 608e-1), issued by a designated governmental inspection service and applicable to a specified lot is required on all imports of onions.
 
-(2) Inspection and certification by the Federal or Federal-State Inspection Service will be available and performed in accordance with the rules and regulations governing certification of fresh fruits, vegetables and other products (7 CFR part 51). Each lot shall be made available and accessible for inspection as provided therein. Cost of inspection and certification shall be borne by the applicant.
+(2) Inspection and certification by the Federal or Federal-State Inspection Service will be available and performed in accordance with the rules and regulations governing certification of fresh fruits, vegetables and other products (7 CFR part 51). Each lot shall be made available and accessible for inspection as provided therein. Cost of inspection and certification shall be borne by the applicant. For questions about inspection services or for further assistance, contact: Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, Room 1536-S, STOP 0240, Washington, DC 20250-0237; telephone (202) 720-5870; fax (202) 720-0393.
 
-(3) Since inspectors may not be stationed in the immediate vicinity of some smaller ports of entry, importers should make advance arrangements for inspection by ascertaining whether or not there is an inspector located at their particular port of entry. For all ports of entry where an inspection office is not located, each importer must give the specified advance notice to the applicable office listed below prior to the time the onions will be imported.
-
-|         Ports          |                                                                    Office                                                                     |Advance notice (days)|
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-|    All Texas points    |                        Officer-in-charge, 1301 West Expressway, Alamo, Tex. 78516. Phone 512-787-4091 or 512-787-6881                         |          1          |
-|   All Arizona points   |                                  Officer-in-charge, P.O. Box 1614, Nogales, Ariz. 85621. Phone 602-287-4783                                   |          1          |
-| All California points  |                      Officer-in-charge, 784 South Central Ave., room 266, Los Angeles, Calif. 90021. Phone 213-688-2489                       |          3          |
-|   All Hawaii points    |                        Officer-in-charge, P.O. Box 22159, Pawaa Substation, Honolulu, Hawaii 96822. Phone 808-941-3071                        |          1          |
-| All Puerto Rico points |                          Officer-in-charge, P.O. Box 9112, Santurce, P.R. 00908. Phone 809-783-2230 or 809-783-4116                           |          2          |
-|   New York City, N.Y   |                    Officer-in-charge, room 28A, Hunts Point Market, Bronx, N.Y. 10474. Phone 212-991-7669 or 212-991-7668                     |          1          |
-|    New Orleans, La     |        Officer-in-charge, 5027 U.S. Postal Service Bldg., 701 Loyola Ave., New Orleans, La. 70113. Phone 504-589-6741 or 504-589-6742         |          1          |
-|       Miami, Fla       |                 Officer-in-charge, 1350 Northwest 12th Ave., room 530, Miami, Fla. 33136. Phone 305-324-6116 or 305-324-6117                  |          1          |
-|All other Florida points|                         Officer-in-charge, P.O. Box 1232, Winter Haven, Fla. 33880. Phone 813-294-3511, extension 33                          |          1          |
-|    All other points    |Chief, Fresh Products Branch, Fruit and Vegetable Quality Division, Food Safety and Quality Service, Washington, D.C. 20250. Phone 202-447-5870|          3          |
+(3) If certification is provided by a designated governmental inspection service other than the Federal or Federal-State Inspection Service, in accordance with 980.117(e), an importer shall electronically transmit to USDA, prior to entry, the certificate number and an electronic image of the certificate using the U.S. Customs and Border Protection's Automated Commercial Environment system. If this information is not provided electronically prior to entry, a paper copy of the certificate must accompany the shipment at the time of entry, and a copy of the certificate must be submitted by email or mail to the Marketing Order and Agreement Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, STOP 0237, Washington, DC 20250-0237; telephone (888) 551-3523; email *8eImports@ams.usda.gov;* or fax (202) 720-5698.
 
 (4) Inspection certificates shall cover only the quantity of onions that is being imported at a particular port of entry by a particular importer.
 
@@ -71,4 +56,4 @@ Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
 
 (i) *Exemptions.* The grade, size, quality and maturity requirements of this section shall not be applicable to onions imported for processing, livestock feed, charity, or relief, and pearl onions, onion sets (plantings), braided red onions, and minimum quantity shipments of 110 pounds, but such onions shall be subject to the safeguard provisions in § 980.501. Processing includes canning, freezing, dehydration, extraction (juice) and pickling in brine. Processing does not include fresh chop, fresh cut, convenience food or other pre-packaged salad operations. Pearl onions must be inspected for size prior to entry into the United States.
 
-[43 FR 5500, Feb. 9, 1978, as amended at 52 FR 8872, Mar. 20, 1987; 52 FR 19281, May 22, 1987; 54 FR 8520, Mar. 1, 1989; 58 FR 69189, Dec. 30, 1993; 59 FR 46912, Sept. 13, 1994; 61 FR 13060, Mar. 26, 1996; 61 FR 25557, May 22, 1996; 69 FR 56671, Sept. 22, 2004; 74 FR 2808, Jan. 16, 2009; 74 FR 65394, Dec. 10, 2009; 75 FR 1269, Jan. 11, 2010]
+[43 FR 5500, Feb. 9, 1978, as amended at 52 FR 8872, Mar. 20, 1987; 52 FR 19281, May 22, 1987; 54 FR 8520, Mar. 1, 1989; 58 FR 69189, Dec. 30, 1993; 59 FR 46912, Sept. 13, 1994; 61 FR 13060, Mar. 26, 1996; 61 FR 25557, May 22, 1996; 69 FR 56671, Sept. 22, 2004; 74 FR 2808, Jan. 16, 2009; 74 FR 65394, Dec. 10, 2009; 75 FR 1269, Jan. 11, 2010; 85 FR 12295, Mar. 6, 2020]

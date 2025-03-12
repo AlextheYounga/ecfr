@@ -1,5 +1,7 @@
 ##### § 602.3 What definitions apply to this part? #####
 
+Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
+
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
 (1) Accredited(2) Additional location(3) Branch campus(4) Correspondence course(5) Direct assessment program(6) Institution of higher education(7) Nationally recognized accrediting agency(8) Preaccreditation(9) Religious mission(10) Secretary(11) State(12) Teach-out(13) Teach-out agreement(14) Teach-out plan

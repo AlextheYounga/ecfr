@@ -1,5 +1,7 @@
 ##### § 292.304 Rates for purchases. #####
 
+Link to an amendment published at 85 FR 54733, Sept. 2, 2020.
+
 (a) *Rates for purchases.* (1) Rates for purchases shall:
 
 (i) Be just and reasonable to the electric consumer of the electric utility and in the public interest; and

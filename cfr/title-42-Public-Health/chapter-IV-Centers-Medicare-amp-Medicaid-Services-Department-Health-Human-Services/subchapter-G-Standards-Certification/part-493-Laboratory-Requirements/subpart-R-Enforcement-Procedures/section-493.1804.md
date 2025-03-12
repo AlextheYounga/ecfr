@@ -16,7 +16,7 @@
 
 (2) CMS imposes one or more of the alternative or principal sanctions specified in §§ 493.1806 and 493.1807 when CMS or CMS's agent finds that a laboratory has condition-level deficiencies.
 
-(c) *Imposition of alternative sanctions.* (1) CMS may impose alternative sanctions in lieu of, or in addition to principal sanctions, (CMS does not impose alternative sanctions on laboratories that have certificates of waiver because those laboratories are not inspected for compliance with condition-level requirements.)
+(c) *Imposition of alternative sanctions.* (1) CMS may impose alternative sanctions in lieu of, or in addition to principal sanctions. (Except for a condition level deficiency under §§ 493.41 or 493.1100(a), CMS does not impose alternative sanctions on laboratories that have certificates of waiver because those laboratories are not routinely inspected for compliance with condition-level requirements.)
 
 (2) CMS may impose alternative sanctions other than a civil money penalty after the laboratory has had an opportunity to respond, but before the hearing specified in § 493.1844.
 
@@ -44,4 +44,4 @@
 
 (f) *Appeal rights.* The appeal rights of laboratories dissatisfied with the imposition of a sanction are set forth in § 493.1844.
 
-[57 FR 7237, Feb. 28, 1992; 57 FR 35761, Aug. 11, 1992, as amended at 60 FR 20051, Apr. 24, 1995]
+[57 FR 7237, Feb. 28, 1992; 57 FR 35761, Aug. 11, 1992, as amended at 60 FR 20051, Apr. 24, 1995; 85 FR 54874, Sept. 2, 2020]

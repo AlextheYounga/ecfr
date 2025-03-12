@@ -8,7 +8,7 @@ CMS's review of an accreditation organization or State licensure program include
 
 (c) The organization's or State's agreement with CMS that requires it to do the following:
 
-(1) Notify CMS within 30 days of the action taken, of any laboratory that has -
+(1) Notify CMS within 30 days of the action taken, of any laboratory that has—
 
 (i) Had its accreditation or licensure suspended, withdrawn, revoked, or limited;
 
@@ -18,7 +18,7 @@ CMS's review of an accreditation organization or State licensure program include
 
 (2) Notify CMS within 10 days of any deficiency identified in an accredited or CLIA-exempt laboratory if the deficiency poses an immediate jeopardy to the laboratory's patients or a hazard to the general public.
 
-(3) Notify CMS, within 30 days, of all newly -
+(3) Notify CMS, within 30 days, of all newly—
 
 (i) Accredited laboratories (or laboratories whose areas of specialty/subspecialty testing have changed); or
 
@@ -27,3 +27,7 @@ CMS's review of an accreditation organization or State licensure program include
 (4) Notify each accredited or licensed laboratory within 10 days of CMS's withdrawal of the organization's deeming authority or State's exemption.
 
 (5) Provide CMS with inspection schedules, as requested, for validation purposes.
+
+(6) Notify CMS within 10 days of any conditional level deficiency under §§ 493.41 or 493.1100(a).
+
+[63 FR 26732, May 14, 1998, as amended at 85 FR 54873, Sept. 2, 2020]

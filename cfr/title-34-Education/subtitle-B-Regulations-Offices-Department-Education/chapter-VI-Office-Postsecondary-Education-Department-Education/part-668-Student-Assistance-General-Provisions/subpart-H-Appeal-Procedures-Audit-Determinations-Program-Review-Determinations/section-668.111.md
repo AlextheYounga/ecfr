@@ -1,5 +1,7 @@
 ##### § 668.111 Scope and purpose. #####
 
+Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
+
 (a) This subpart establishes rules governing the appeal by an institution or third-party servicer from a final audit determination or a final program review determination arising from an audit or program review of the institution's participation in any Title IV, HEA program or of the servicer's administration of any aspect of an institution's participation in any Title IV, HEA program.
 
 (b) This subpart applies to any participating institution or third-party servicer that appeals a final audit determination or final program review determination.

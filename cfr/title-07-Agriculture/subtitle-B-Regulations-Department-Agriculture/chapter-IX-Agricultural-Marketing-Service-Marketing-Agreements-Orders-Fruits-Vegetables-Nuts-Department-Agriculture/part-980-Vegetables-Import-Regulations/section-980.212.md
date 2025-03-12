@@ -1,7 +1,5 @@
 ##### § 980.212 Import regulations; tomatoes. #####
 
-Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
-
 (a) *Findings and determinations with respect to fresh tomatoes.* (1) Under Section 8e of the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601-674), it is hereby found that:
 
 (i) Grade, size, quality and maturity regulations have been issued from time to time under Marketing Order No. 966, as amended;
@@ -14,32 +12,19 @@ Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
 
 (1) From October 10 through June 15 of each season, tomatoes offered for importation shall be at least 29/32 inches in diameter. Not more than 10 percent, by count, in any lot may be smaller than the minimum specified diameter. All lots of tomatoes shall be at least U.S. No. 2 grade. *Provided,* That UglyRipeTM and Vintage RipesTM tomatoes shall be graded and at least meet the requirements specified for U.S. No. 2 under the U.S. Standards for Grades of Fresh Tomatoes, except they are exempt from the requirements that they be reasonably well formed and not more than slightly rough, and *Provided,* Further that the UglyRipeTM and Vintage RipesTM tomatoes meet the requirements of the Identity Preservation program, Fresh Products Branch, Fruit and Vegetable Programs, AMS, USDA.
 
-(2) - (3) [Reserved]
+(2)—(3) [Reserved]
 
 (c) *Minimum quantity exemption.* Any importation which in the aggregate does not exceed 60 pounds may be imported without regard to the provisions of this section.
 
 (d) *Plant quarantine.* Provisions of this section shall not supersede the restrictions or prohibitions on tomatoes under the Plant Quarantine Act of 1912.
 
-(e) *Designation of governmental inspection service.* The Federal or Federal-State Inspection Service, Fruit and Vegetable Programs, Agricultural Marketing Service, U.S. Department of Agriculture and the Food of Plant Origin Division, Plant Products Directorate, Canadian Food Inspection Agency, are hereby designated as governmental inspection services for the purpose of certifying the grade, size, quality, and maturity of tomatoes that are imported, or to be imported, into the United States under the provisions of section 8e of the Act.
+(e) *Designation of governmental inspection service.* The Federal or Federal-State Inspection Service, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, and the Food of Plant Origin Division, Plant Products Directorate, Canadian Food Inspection Agency, are hereby designated as governmental inspection services for the purpose of certifying the grade, size, quality, and maturity of tomatoes that are imported, or to be imported, into the United States under the provisions of section 8e of the Act.
 
 (f) *Inspection and official inspection certificates.* (1) An official inspection certificate certifying the tomatoes meet the United States import requirements for tomatoes under Section 8e (7 U.S.C. 608e-1), issued by a designated governmental inspection service and applicable to a specified lot is required on all imports of fresh tomatoes.
 
-(2) Inspection and certification by the Federal or Federal-State Inspection Service will be available and performed in accordance with the rules and regulations governing certification of fresh fruits, vegetables and other products (7 CFR part 51). Each lot shall be made available and accessible for inspection as provided therein. Cost of inspection and certification shall be borne by the applicant.
+(2) Inspection and certification by the Federal or Federal-State Inspection Service will be available and performed in accordance with the rules and regulations governing certification of fresh fruits, vegetables and other products (7 CFR part 51). Each lot shall be made available and accessible for inspection as provided therein. Cost of inspection and certification shall be borne by the applicant. For questions about inspection services or for further assistance, contact: Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, Room 1536-S, STOP 0240, Washington, DC 20250-0237; telephone (202) 720-5870; fax (202) 720-0393.
 
-(3) Since the inspectors may not be stationed in the immediate vicinity of some smaller ports of entry, importers should make advance arrangements for inspection by ascertaining whether or not there is an inspector located at their particular port of entry. For all ports of entry where an inspection office is not located, each importer must give the specified advance notice to the applicable office listed below prior to the time the tomatoes will be imported.
-
-|         Ports          |                                                                   Office                                                                    |Advance notice (days)|
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-|    All Texas points    |                           Officer-in-charge, 1301 West Expressway, Alamo, Tex. 78516, phone 512-787-4091 or 6881                            |          1          |
-|   All Arizona points   |                                 Officer-in-charge, P.O. Box 1614, Nogales, Ariz. 85621, phone 602-287-2902                                  |          1          |
-| All California points  |                     Officer-in-charge, 784 South Central Ave., room 266, Los Angeles, Calif. 90021, phone 213-688-2489                      |          1          |
-|   All Hawaii points    |                       Officer-in-charge, P.O. Box 22159, Pawaa substation, Honolulu, Hawaii 96822, phone 808-941-3071                       |          1          |
-| All Puerto Rico points |                             Officer-in-charge, P.O. Box 9112, Santurce, P.R. 00908, phone 809-783-2230 or 4116                              |          2          |
-|     New York, N.Y      |                       Officer-in-charge, room 28A, Hunts Point Market, Bronx, N.Y. 10474, phone 212-991-7669 or 7668                        |          1          |
-|    New Orleans, La     |            Officer-in-charge, 5027 U.S. Postal Service Bldg., 701 Loyola Ave., New Orleans La. 70113, phone 504-589-6741 or 6742            |          1          |
-|       Miami, Fla       |                    Officer-in-charge, 1350 Northwest 12th Ave., room 530, Miami, Fla. 33136, phone 305-324-6116 or 6117                     |          1          |
-|All other Florida points|                           Officer-in-charge, P.O. Box 1232, Winter Haven, Fla. 33880, phone 813-294-3511, ext. 33                           |          1          |
-|    All other points    |Chief, Fresh Products Branch, Fruit and Vegetable Quality Division, Food Safety and Quality Service, Washington, DC 20250, phone 202-447-5870|          3          |
+(3) If certification is provided by a designated governmental inspection service other than the Federal or Federal-State Inspection Service, in accordance with 980.212(e), an importer shall electronically transmit to USDA, prior to entry, the certificate number and an electronic image of the certificate using the U.S. Customs and Border Protection's Automated Commercial Environment system. If this information is not provided electronically prior to entry, a paper copy of the certificate must accompany the shipment at the time of entry, and a copy of the certificate must be submitted by email or mail to the Marketing Order and Agreement Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, STOP 0237, Washington, DC 20250-0237; telephone (888) 551-3523; email *8eImports@usda.gov;* or fax (202) 720-5698.
 
 (4) Inspection certificates shall cover only the quantity of tomatoes that is being imported at a particular port of entry by a particular importer.
 
@@ -67,4 +52,4 @@ Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
 
 (i) *Exemptions.* The grade, size, quality and maturity requirements of this section shall not apply to tomatoes for charity, relief, canning or pickling, but such tomatoes shall be subject to the safeguard provisions contained in § 980.501. Processing includes canning and pickling.
 
-[42 FR 55192, Oct. 14, 1977, as amended at 43 FR 3349, Jan. 25, 1978; 57 FR 27352, June 19, 1992; 58 FR 69189, Dec. 30, 1993; 61 FR 13060, Mar. 26, 1996; 63 FR 12401, Mar. 13, 1998; 72 FR 2172, Jan. 18, 2007; 74 FR 2808, Jan. 16, 2009; 74 FR 45736, Sept. 4, 2009; 74 FR 65394, Dec. 10, 2009; 81 FR 87412, Dec. 5, 2016]
+[42 FR 55192, Oct. 14, 1977, as amended at 43 FR 3349, Jan. 25, 1978; 57 FR 27352, June 19, 1992; 58 FR 69189, Dec. 30, 1993; 61 FR 13060, Mar. 26, 1996; 63 FR 12401, Mar. 13, 1998; 72 FR 2172, Jan. 18, 2007; 74 FR 2808, Jan. 16, 2009; 74 FR 45736, Sept. 4, 2009; 74 FR 65394, Dec. 10, 2009; 81 FR 87412, Dec. 5, 2016; 85 FR 12295, Mar. 6, 2020]

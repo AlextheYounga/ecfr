@@ -34,7 +34,7 @@
 
 (3) Prevent investors from making investment commitments with respect to that offering on its platform.
 
-(e) *Temporary requirements.* The following shall apply in lieu of paragraphs (a) and (b) of this section with respect to an offering initiated between May 4, 2020, and August 31, 2020, that is intended to be conducted on an expedited basis due to circumstances relating to COVID-19:
+(e) *Temporary requirements.* The following shall apply in lieu of paragraphs (a) and (b) of this section with respect to an offering initiated between May 4, 2020, and February 28, 2021, that is intended to be conducted on an expedited basis due to circumstances relating to COVID-19:
 
 (1) An investor may cancel an investment commitment for any reason within 48 hours from the time of his or her investment commitment (or such later period as the issuer may designate). After such 48 hour period, an investment commitment may not be cancelled except as provided in paragraph (c) of this section; and
 
@@ -46,4 +46,4 @@
 
 (iii) At the time of the closing of the offering, the issuer continues to meet or exceed the target offering amount.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 85 FR 27132, May 7, 2020]Effective Date Note:At 85 FR 27132, May 7, 2019, § 227.304 was amended by adding paragraph (e), effective May 4, 2020, through Mar. 1, 2021.
+[80 FR 71537, Nov. 16, 2015, as amended at 85 FR 27132, May 7, 2020; 85 FR 54490, Sept. 2, 2020]Effective Date Note:At 85 FR 27132, May 7, 2019, § 227.304 was amended by adding paragraph (e), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.304, paragraph (e) introductory text was amended by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.

@@ -1,5 +1,7 @@
 ##### § 668.28 Non-title IV revenue (90/10). #####
 
+Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
+
 (a) *General* - (1) *Calculating the revenue percentage.* A proprietary institution meets the requirement in § 668.14(b)(16) that at least 10 percent of its revenue is derived from sources other than Title IV, HEA program funds by using the formula in appendix C of this subpart to calculate its revenue percentage for its latest complete fiscal year.
 
 (2) *Cash basis accounting.* Except for institutional loans made to students under paragraph (a)(5)(i) of this section, the institution must use the cash basis of accounting in calculating its revenue percentage.

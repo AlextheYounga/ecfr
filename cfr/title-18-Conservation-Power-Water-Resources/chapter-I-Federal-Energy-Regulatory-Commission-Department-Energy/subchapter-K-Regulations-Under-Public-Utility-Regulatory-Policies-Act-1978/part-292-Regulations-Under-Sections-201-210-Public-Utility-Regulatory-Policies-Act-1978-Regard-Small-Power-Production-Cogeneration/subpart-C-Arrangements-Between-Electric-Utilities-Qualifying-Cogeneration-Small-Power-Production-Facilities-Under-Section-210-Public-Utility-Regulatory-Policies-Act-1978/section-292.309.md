@@ -1,5 +1,7 @@
 ##### § 292.309 Termination of obligation to purchase from qualifying facilities. #####
 
+Link to an amendment published at 85 FR 54735, Sept. 2, 2020.
+
 (a) After August 8, 2005, an electric utility shall not be required, under this part, to enter into a new contract or obligation to purchase electric energy from a qualifying cogeneration facility or a qualifying small power production facility if the Commission finds that the qualifying cogeneration facility or qualifying small power facility production has nondiscriminatory access to:
 
 (1)(i) Independently administered, auction-based day ahead and real time wholesale markets for the sale of electric energy; and

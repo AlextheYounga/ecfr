@@ -1,5 +1,7 @@
 ##### § 292.101 Definitions. #####
 
+Link to an amendment published at 85 FR 54732, Sept. 2, 2020.
+
 (a) *General rule.* Terms defined in the Public Utility Regulatory Policies Act of 1978 (PURPA) shall have the same meaning for purposes of this part as they have under PURPA, unless further defined in this part.
 
 (b) *Definitions.* The following definitions apply for purposes of this part.

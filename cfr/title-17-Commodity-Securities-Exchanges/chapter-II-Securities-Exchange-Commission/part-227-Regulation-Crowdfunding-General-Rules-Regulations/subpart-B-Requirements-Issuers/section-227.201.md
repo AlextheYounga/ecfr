@@ -160,7 +160,7 @@ I, [identify the certifying individual], certify that:
 
 *Instruction to § 227.201.* If disclosure provided pursuant to any paragraph of this section also satisfies the requirements of one or more other paragraphs of this section, it is not necessary to repeat the disclosure. Instead of repeating information, an issuer may include a cross-reference to disclosure contained elsewhere in the offering statement or report, including to information in the financial statements.
 
-(z) Between May 4, 2020, and August 31, 2020, an issuer may initiate an offering intended to be conducted on an expedited basis due to circumstances relating to COVID-19. Such issuer:
+(z) Between May 4, 2020, and February 28, 2021, an issuer may initiate an offering intended to be conducted on an expedited basis due to circumstances relating to COVID-19. Such issuer:
 
 (1) Must prominently provide the following information:
 
@@ -190,4 +190,4 @@ I, [identify the certifying individual], certify that:
 
 (3) May comply with the requirements of paragraph (t)(1) of this section instead of paragraph (t)(2) for an offering or offerings that, together with all other amounts sold under section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) within the preceding 12-month period, have, in the aggregate, a target offering amount of more than $107,000, but not more than $250,000, and financial statements of the issuer that have either been reviewed or audited by a public accountant that is independent of the issuer are unavailable at the time of filing.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020]Effective Date Note:At 85 FR 27131, May 7, 2020, § 227.201 was amended by adding paragraph (z), effective May 4, 2020, through Mar. 1, 2021.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020]Effective Date Note:At 85 FR 27131, May 7, 2020, § 227.201 was amended by adding paragraph (z), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.201 paragraph (z) introductory text was amended by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.

@@ -1,5 +1,7 @@
 ##### § 375.302 Delegations to the Secretary. #####
 
+Link to an amendment published at 85 FR 54736, Sept. 2, 2020.
+
 The Commission authorizes the Secretary, or the Secretary's designee to:
 
 (a) Sign official general correspondence on behalf of the Commission, except as otherwise provided in this section.

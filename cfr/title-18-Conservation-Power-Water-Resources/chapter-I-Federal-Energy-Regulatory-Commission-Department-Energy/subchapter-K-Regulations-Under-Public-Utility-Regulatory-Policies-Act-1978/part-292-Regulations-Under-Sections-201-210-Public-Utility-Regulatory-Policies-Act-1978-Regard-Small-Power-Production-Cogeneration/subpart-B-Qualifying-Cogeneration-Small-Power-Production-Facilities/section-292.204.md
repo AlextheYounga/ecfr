@@ -1,5 +1,7 @@
 ##### § 292.204 Criteria for qualifying small power production facilities. #####
 
+Link to an amendment published at 85 FR 54732, Sept. 2, 2020.
+
 (a) *Size of the facility* - (1) *Maximum size.* Except as provided in paragraph (a)(4) of this section, the power production capacity of a facility for which qualification is sought, together with the power production capacity of any other small power production facilities that use the same energy resource, are owned by the same person(s) or its affiliates, and are located at the same site, may not exceed 80 megawatts.
 
 (2) *Method of calculation.* (i) For purposes of this paragraph, facilities are considered to be located at the same site as the facility for which qualification is sought if they are located within one mile of the facility for which qualification is sought and, for hydroelectric facilities, if they use water from the same impoundment for power generation.
