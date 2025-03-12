@@ -1,7 +1,5 @@
 ##### § 117.681 Old Fort Bayou. #####
 
-Link to an amendment published at 86 FR 7240, Jan. 27, 2021.
+The draw of the bridge, mile 1.6 at Ocean Springs, shall open on signal; except that, from 9 p.m. to 5 a.m., the draw shall open on signal if at least eight hour notice is given; on Thanksgiving Day, Christmas Day and New Year's Day the draw shall open on signal if at least 12 hour notice is given; and the draw need not open to vessels from 6:30 a.m. to 8 a.m. and from 4 p.m. to 6 p.m. Monday through Friday, except federal holidays. The draw shall open anytime at the direction of the District Commander.
 
-The draw of the bridge, mile 1.6 at Ocean Springs, shall open on signal; except that, from 9 p.m. to 5 a.m., the draw shall open on signal if at least eight hours notice is given to the Old Fort Bayou drawtender. During periods of storm or hurricane warnings issued by the National Weather Service, the draw shall open on signal at any time.
-
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984; 49 FR 37382, Sept. 24, 1984]
+[USCG-2018-0968, 86 FR 7240, Jan. 27, 2021]

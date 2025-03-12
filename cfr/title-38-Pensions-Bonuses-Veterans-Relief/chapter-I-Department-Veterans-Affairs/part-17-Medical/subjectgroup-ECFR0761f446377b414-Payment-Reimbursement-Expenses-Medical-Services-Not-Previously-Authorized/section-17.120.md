@@ -1,8 +1,6 @@
 ##### § 17.120 Payment or reimbursement for emergency treatment furnished by non-VA providers to certain veterans with service-connected disabilities. #####
 
-Link to an amendment published at 85 FR 84259, Dec. 28, 2020.Link to a delay published at 86 FR 7351, Jan. 28, 2021.
-
-To the extent allowable, payment or reimbursement of the expenses of emergency treatment, not previously authorized, in a private or public (or Federal) hospital not operated by the Department of Veterans Affairs, or of any emergency treatment not previously authorized including transportation (except prosthetic appliances, similar devices, and repairs) will be paid on the basis of a claim timely filed, under the following circumstances:
+To the extent allowable, payment or reimbursement of the expenses of emergency treatment, not previously authorized, in a private or public (or Federal) hospital not operated by the Department of Veterans Affairs, or of any emergency treatment not previously authorized including transportation will be paid on the basis of a claim timely filed, under the following circumstances:
 
 (a) *For veterans with service connected disabilities.* Emergency treatment not previously authorized was rendered to a veteran in need of such emergency treatment:
 
@@ -20,4 +18,4 @@ To the extent allowable, payment or reimbursement of the expenses of emergency t
 
 (c) *When Federal facilities are unavailable.* VA or other Federal facilities that VA has an agreement with to furnish health care services for veterans were not feasibly available, and an attempt to use them beforehand or obtain prior VA authorization for the services required would not have been reasonable, sound, wise, or practicable, or treatment had been or would have been refused.
 
-(Authority: 38 U.S.C. 1724, 1728, 7304)[39 FR 1844, Jan. 15, 1974, as amended at 49 FR 5616, Feb. 14, 1984; 51 FR 8672, Mar. 13, 1986; 56 FR 3422, Jan. 30, 1991. Redesignated at 61 FR 21966, May 13, 1996; 76 FR 79070, Dec. 21, 2011; 80 FR 79484, Dec. 22, 2015]
+(Authority: 38 U.S.C. 1724, 1728, 7304)[39 FR 1844, Jan. 15, 1974, as amended at 49 FR 5616, Feb. 14, 1984; 51 FR 8672, Mar. 13, 1986; 56 FR 3422, Jan. 30, 1991. Redesignated at 61 FR 21966, May 13, 1996; 76 FR 79070, Dec. 21, 2011; 80 FR 79484, Dec. 22, 2015; 85 FR 84259, Dec. 28, 2020]

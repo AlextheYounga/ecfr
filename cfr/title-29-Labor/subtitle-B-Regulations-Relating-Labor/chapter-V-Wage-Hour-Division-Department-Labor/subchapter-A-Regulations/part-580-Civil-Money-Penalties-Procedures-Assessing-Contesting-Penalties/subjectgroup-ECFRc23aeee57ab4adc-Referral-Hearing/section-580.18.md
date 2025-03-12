@@ -1,6 +1,6 @@
 ##### § 580.18 Collection and recovery of penalty. #####
 
-Link to an amendment published at 85 FR 86792, Dec. 30, 2020.
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
 
 (a) When the determination of the amount of any civil money penalty provided for in this part becomes final under § 580.5 in accordance with the administrative assessment thereof, or pursuant to the decision and order of an Administrative Law Judge in an administrative proceeding as provided in § 580.12, or the decision of the Board pursuant to § 580.16, the amount of the penalty as thus determined is immediately due and payable to the U.S. Department of Labor. The person assessed such penalty shall remit promptly the amount thereof, as finally determined, to the Secretary. Payment shall be made by certified check or money order made payable and delivered or mailed according to the instructions provided by the Department; through the electronic pay portal located at *www.pay.gov* or any successor system; or by any additional payment method deemed acceptable by the Department.
 

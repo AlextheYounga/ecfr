@@ -1,6 +1,6 @@
 ##### § 531.50 Statutory provisions with respect to tipped employees. #####
 
-Link to an amendment published at 85 FR 86789, Dec. 30, 2020.
+Link to an amendment published at 85 FR 86789, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
 
 (a) With respect to tipped employees, section 3(m) provides that, in determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to -
 

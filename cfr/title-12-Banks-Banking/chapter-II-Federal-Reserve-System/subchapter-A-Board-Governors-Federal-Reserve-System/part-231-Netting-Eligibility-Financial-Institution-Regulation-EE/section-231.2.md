@@ -1,5 +1,7 @@
 ##### § 231.2 Definitions. #####
 
+Link to an amendment published at 86 FR 11622, Feb. 26, 2021.
+
 As used in this part, unless the context requires otherwise:
 
 (a) *Act* means the Federal Deposit Insurance Corporation Improvement Act of 1991 (Pub. L. 102-242, 105 Stat. 2236), as amended.

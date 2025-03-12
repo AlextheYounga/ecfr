@@ -1,6 +1,6 @@
 ##### § 107.73 Initial and recurrent knowledge tests. #####
 
-Link to an amendment published at 86 FR 4383, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4383, Jan. 15, 2021.This amendment delayed until 3-16-21 at 86 FR 11623, Feb. 26, 2021.
 
 (a) An initial aeronautical knowledge test covers the following areas of knowledge:
 

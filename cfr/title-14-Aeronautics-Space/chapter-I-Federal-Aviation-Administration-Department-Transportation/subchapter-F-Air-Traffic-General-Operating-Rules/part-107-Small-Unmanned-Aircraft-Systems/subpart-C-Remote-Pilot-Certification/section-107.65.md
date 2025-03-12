@@ -1,6 +1,6 @@
 ##### § 107.65 Aeronautical knowledge recency. #####
 
-Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.This amendment delayed until 3-16-21 at 86 FR 11623, Feb. 26, 2021.Link to a correction published at 86 FR 11624, Feb. 26, 2021.
 
 A person may not operate a small unmanned aircraft system unless that person has completed one of the following, within the previous 24 calendar months:
 

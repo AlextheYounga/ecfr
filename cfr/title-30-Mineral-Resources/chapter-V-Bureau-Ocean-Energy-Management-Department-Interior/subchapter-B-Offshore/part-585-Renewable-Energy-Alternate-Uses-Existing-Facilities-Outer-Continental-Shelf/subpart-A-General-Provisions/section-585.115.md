@@ -16,7 +16,7 @@
 
 (2) You obtain the prior written approval for alternative compliance from the authorized BOEM official.
 
-(d) You may inspect these documents at the Bureau of Ocean Energy Management, 45600 Woodland Road, Sterling, VA 20166, 703-787-1605; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.* You may obtain the documents from the publishing organizations at the addresses given in the following table:
+(d) You may inspect these documents at the Bureau of Ocean Energy Management, 45600 Woodland Road, Sterling, VA 20166, 703-787-1605; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* You may obtain the documents from the publishing organizations at the addresses given in the following table:
 
 |        For . . .        |                                               Write to . . .                                                |
 |-------------------------|-------------------------------------------------------------------------------------------------------------|

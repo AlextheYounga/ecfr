@@ -1,0 +1,5 @@
+##### § 17.3250 Veteran responsibilities. #####
+
+(a) Veterans must use items provided under §§ 17.3230 and 17.3240 as they are prescribed, and consistent with the manufacturer's instructions and any training provided. Failure to do so may result in the item not being replaced under § 17.3230(a)(13).
+
+(b) Except for emergency care under §§ 17.120 through 17.132, §§ 17.1000 through 17.1008, or § 17.4020(c), or urgent care under § 17.4600, veterans obtaining items and services provided under § 17.3230 must obtain prior authorization from VA in order to obtain VA reimbursement for such items and services obtained from a VA-authorized vendor. VA will not be responsible for the cost of items and services provided that are not preauthorized by VA or not covered as emergency care under §§ 17.120 through 17.132, §§ 17.1000 through 17.1008, or § 17.4020(c), or urgent care under § 17.4600.

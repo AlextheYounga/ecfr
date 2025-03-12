@@ -1,6 +1,6 @@
 ##### § 579.2 Definitions. #####
 
-Link to an amendment published at 85 FR 86792, Dec. 30, 2020.
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
 
 As used in this part and part 580 of this chapter:
 

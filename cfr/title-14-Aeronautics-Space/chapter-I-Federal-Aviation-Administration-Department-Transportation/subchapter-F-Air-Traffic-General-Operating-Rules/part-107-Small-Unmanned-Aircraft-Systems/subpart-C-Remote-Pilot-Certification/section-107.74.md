@@ -1,6 +1,6 @@
 ##### § 107.74 Initial and recurrent training courses. #####
 
-Link to an amendment published at 86 FR 4383, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4383, Jan. 15, 2021.This amendment delayed until 3-16-21 at 86 FR 11623, Feb. 26, 2021.
 
 (a) An initial training course covers the following areas of knowledge:
 

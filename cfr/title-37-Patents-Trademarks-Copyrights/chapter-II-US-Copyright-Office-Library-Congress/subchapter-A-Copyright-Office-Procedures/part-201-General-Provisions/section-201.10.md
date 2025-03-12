@@ -1,5 +1,7 @@
 ##### § 201.10 Notices of termination of transfers and licenses. #####
 
+Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
+
 This section covers notices of termination of transfers and licenses under 17 U.S.C. 203, 304(c), and 304(d). A termination under section 304(d) is possible only if no termination was made under section 304(c), and federal copyright was originally secured on or between January 1, 1923, and October 26, 1939.
 
 (a) *Form.* The Copyright Office does not provide printed forms for the use of persons serving notices of termination.

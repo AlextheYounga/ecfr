@@ -1,6 +1,6 @@
 ##### § 531.59 The tip wage credit. #####
 
-Link to an amendment published at 85 FR 86790, Dec. 30, 2020.
+Link to an amendment published at 85 FR 86790, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
 
 (a) In determining compliance with the wage payment requirements of the Act, under the provisions of section 3(m) the amount paid to a tipped employee by an employer is increased on account of tips by an amount equal to the formula set forth in the statute (minimum wage required by section 6(a)(1) of the Act minus $2.13), provided that the employer satisfies all the requirements of section 3(m). This tip credit is in addition to any credit for board, lodging, or other facilities which may be allowable under section 3(m).
 

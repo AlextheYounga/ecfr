@@ -1,7 +1,5 @@
 ##### § 250.1203 Gas measurement. #####
 
-Link to an amendment published at 85 FR 84237, Dec. 28, 2020.
-
 (a) *To which meters do BSEE requirements for gas measurement apply?* BSEE requirements for gas measurements apply to all OCS gas royalty and allocation meters.
 
 (b) *What are the requirements for measuring gas?* You must:
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 84237, Dec. 28, 2020.
 
 (3) Ensure that the measurement components demonstrate consistent levels of accuracy throughout the system.
 
-(4) Equip the meter with a chart or electronic data recorder. If an electronic data recorder is used, you must follow the recommendations in API MPMS.
+(4) Equip the meter with a chart or electronic data recorder. If an electronic data recorder is used, you must follow the recommendations in API MPMS(incorporated by reference as specified in § 250.198).
 
 (5) Take proportional-to-flow or spot samples upstream or downstream of the meter at least once every 6 months.
 
@@ -74,4 +72,4 @@ Link to an amendment published at 85 FR 84237, Dec. 28, 2020.
 
 (5) Upon the request of the Regional Supervisor, you must provide copies of the records.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 18922, Mar. 29, 2012]
+[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 18922, Mar. 29, 2012; 85 FR 84237, Dec. 28, 2020]

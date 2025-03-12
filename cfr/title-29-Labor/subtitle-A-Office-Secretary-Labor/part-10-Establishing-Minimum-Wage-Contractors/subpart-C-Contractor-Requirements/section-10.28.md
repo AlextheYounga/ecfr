@@ -1,6 +1,6 @@
 ##### § 10.28 Tipped employees. #####
 
-Link to an amendment published at 85 FR 86788, Dec. 30, 2020.
+Link to an amendment published at 85 FR 86788, Dec. 30, 2020.Link to a delay of the effective date of the above amendment published at 86 FR 11641, Feb. 26, 2021.
 
 (a) *Payment of wages to tipped employees.* With respect to workers who are tipped employees as defined in § 10.2 and this section, the amount of wages paid to such employee by the employee's employer shall be equal to:
 
