@@ -1,5 +1,7 @@
 ##### § 300.23 Persons and vessels exempted. #####
 
+Link to an amendment published at 87 FR 40736, July 8, 2022.
+
 This subpart does not apply to:
 
 (a) Any person or vessel authorized by the IATTC, the Assistant Administrator, or any state of the United States to engage in fishing for research purposes.

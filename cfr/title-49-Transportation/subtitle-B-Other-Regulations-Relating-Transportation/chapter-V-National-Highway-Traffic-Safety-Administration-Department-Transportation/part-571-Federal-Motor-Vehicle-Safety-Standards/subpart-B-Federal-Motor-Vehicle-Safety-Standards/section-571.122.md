@@ -1,7 +1,5 @@
 ##### § 571.122 Standard No. 122; Motorcycle brake systems. #####
 
-Link to an amendment published at 87 FR 34810, June 8, 2022.
-
 S1. *Scope.* This standard specifies requirements for motorcycle service brake systems and, where applicable, associated parking brake systems.
 
 S2. *Purpose.* The purpose of the standard is to ensure safe motorcycle braking performance under normal and emergency riding conditions.
@@ -194,11 +192,11 @@ S6.1 *General.*
 
 S6.1.1 *Test surfaces.*
 
-S6.1.1.1 *High friction surface.* A high friction surface is used for all dynamic brake tests excluding the ABS tests where a low-friction surface is specified. The high-friction surface test area is a clean, dry and level surface, with a gradient of ≤1 percent. The high-friction surface has a peak braking coefficient (PBC) of 0.9.
+S6.1.1.1 *High friction surface.* A high friction surface is used for all dynamic brake tests excluding the ABS tests where a low-friction surface is specified. The high-friction surface test area is a clean, dry and level surface, with a gradient of ≤1 percent. The high-friction surface has a peak braking coefficient (PBC) of 1.02.
 
-S6.1.1.2 *Low-friction surface.* A low-friction surface is used for ABS tests where a low-friction surface is specified. The low-friction surface test area is a clean and level surface, which may be wet or dry, with a gradient of ≤1 percent. The low-friction surface has a PBC of ≤0.45.
+S6.1.1.2 *Low-friction surface.* A low-friction surface is used for ABS tests where a low-friction surface is specified. The low-friction surface test area is a clean and level surface, which may be wet or dry, with a gradient of ≤1 percent. The low-friction surface has a PBC of ≤0.50.
 
-S6.1.1.3 *Measurement of PBC.* The PBC is measured using the American Society for Testing and Materials (ASTM) E1136-93 (Reapproved 2003) standard reference test tire, in accordance with ASTM Method E1337-90 (Reapproved 2008), at a speed of 64 km/h (both publications incorporated by reference; see § 571.5).
+S6.1.1.3 *Measurement of PBC.* The PBC is measured using the ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19, at a speed of 64 km/h (incorporated by reference; see § 571.5).
 
 S6.1.1.4 *Parking brake system tests.* The specified test slope has a clean and dry surface that does not deform under the weight of the motorcycle.
 
@@ -210,7 +208,7 @@ S6.1.3 *Wind speed.* The wind speed is not more than 5 meters per second (m/s).
 
 S6.1.4 *Test speed tolerance.* The test speed tolerance is ±5 km/h. In the event of the actual test speed deviating from the specified test speed (but within the ±5 km/h tolerance), the actual stopping distance is corrected using the formula in S5.3.1(b).
 
-S6.1.5 *Automatic transmission.* Motorcycles with automatic transmission shall meet all test requirements - whether they are for “engine connected” or “engine disconnected.” If an automatic transmission has a neutral position, the neutral position is selected for tests where “engine disconnected” is specified.
+S6.1.5 *Automatic transmission.* Motorcycles with automatic transmission shall meet all test requirements—whether they are for “engine connected” or “engine disconnected.” If an automatic transmission has a neutral position, the neutral position is selected for tests where “engine disconnected” is specified.
 
 S6.1.6 *Vehicle position and wheel lock.* The vehicle is positioned in the center of the test lane for the beginning of each stop. Stops are made without the vehicle wheels passing outside the applicable test lane and without wheel lock.
 
@@ -262,7 +260,7 @@ S6.2.5.2 *Conditions and procedure.*
 
 (f) For the first stop, accelerate the vehicle to the initial speed and then actuate the brake control under the conditions specified until the final speed is reached. Then reaccelerate to the initial speed and maintain that speed until the brake temperature falls to the specified initial value. When these conditions are met, reapply the brake as specified. Repeat this procedure for the number of specified decelerations. After burnishing, adjust the brakes in accordance with the manufacturer's recommendations.
 
-S6.3 *Dry stop test - single brake control actuated.*
+S6.3 *Dry stop test—single brake control actuated.*
 
 S6.3.1 *Vehicle condition.*
 
@@ -300,7 +298,7 @@ S6.3.2 *Test conditions and procedure.*
 
 S6.3.3 *Performance requirements.* When the brakes are tested in accordance with the test procedure set out in paragraph S6.3.2., the stopping distance shall be as specified in column 2 of Table 2.
 
-S6.4 *Dry stop test - all service brake controls actuated.*
+S6.4 *Dry stop test—all service brake controls actuated.*
 
 S6.4.1 *Vehicle condition.*
 
@@ -380,7 +378,7 @@ S6.6.1 *General information.*
 
 (a) The test is comprised of two parts that are carried out consecutively for each brake system:
 
-(1) A baseline test based on the dry stop test - single brake control actuated (S6.3).
+(1) A baseline test based on the dry stop test—single brake control actuated (S6.3).
 
 (2) A single wet brake stop using the same test parameters as in (1), but with the brake(s) being continuously sprayed with water while the test is conducted in order to measure the brakes' performance in wet conditions.
 
@@ -400,7 +398,7 @@ S6.6.2 *Vehicle condition.*
 
 (d) Each brake is fitted with water spray equipment as shown in Figure 3.
 
-(1) *Disc brakes - sketch of water spray equipment.* The disc brake water spray equipment is installed as follows:
+(1) *Disc brakes—sketch of water spray equipment.* The disc brake water spray equipment is installed as follows:
 
 (i) Water is sprayed onto each brake with a flow rate of 15 liters/hr. The water is equally distributed on each side of the rotor.
 
@@ -416,9 +414,9 @@ S6.6.2 *Vehicle condition.*
 
 (iii) The nozzle position is \>15° from the edge of any opening in the drum back plate.
 
-S6.6.3 *Baseline test - test conditions and procedure.*
+S6.6.3 *Baseline test—test conditions and procedure.*
 
-(a) The test in paragraph S6.3 (dry stop test - single brake control actuated) is carried out for each brake system but with the brake control force that results in a vehicle deceleration of 2.5-3.0 m/s2, and the following is determined:
+(a) The test in paragraph S6.3 (dry stop test—single brake control actuated) is carried out for each brake system but with the brake control force that results in a vehicle deceleration of 2.5-3.0 m/s2, and the following is determined:
 
 (1) The average brake control force measured when the vehicle is traveling between 80 percent and 10 percent of the specified test speed.
 
@@ -428,7 +426,7 @@ S6.6.3 *Baseline test - test conditions and procedure.*
 
 (b) Conduct 3 baseline stops and average the values obtained in (1), (2), and (3).
 
-S6.6.4 *Wet brake test - test conditions and procedure.*
+S6.6.4 *Wet brake test—test conditions and procedure.*
 
 (a) The vehicle is ridden at the test speed used in the baseline test set out in S6.6.3 with the water spray equipment operating on the brake(s) to be tested and with no application of the brake system.
 
@@ -450,11 +448,11 @@ S6.7.1 *General information.*
 
 (a) The test comprises three parts that are carried out consecutively for each brake system:
 
-(1) A baseline test using the dry stop test - single brake control actuated (S6.3).
+(1) A baseline test using the dry stop test—single brake control actuated (S6.3).
 
 (2) A heating procedure which consists of a series of repeated stops in order to heat the brake(s).
 
-(3) A hot brake stop using the dry stop test - single brake control actuated (S6.3), to measure the brake's performance after the heating procedure.
+(3) A hot brake stop using the dry stop test—single brake control actuated (S6.3), to measure the brake's performance after the heating procedure.
 
 (b) The test is applicable to motorcycle categories 3-3, 3-4 and 3-5.
 
@@ -466,9 +464,9 @@ S6.7.1 *General information.*
 
 S6.7.2 *Baseline test.*
 
-S6.7.2.1 *Vehicle condition - baseline test.* Engine disconnected.
+S6.7.2.1 *Vehicle condition—baseline test.* Engine disconnected.
 
-S6.7.2.2 *Test conditions and procedure - baseline test.*
+S6.7.2.2 *Test conditions and procedure—baseline test.*
 
 (a) *Initial brake temperature.* Initial brake temperature is ≥55 °C and ≤100 °C.
 
@@ -490,13 +488,13 @@ S6.7.2.2 *Test conditions and procedure - baseline test.*
 
 S6.7.3 *Heating procedure.*
 
-S6.7.3.1 *Vehicle condition - heating procedure.* Engine transmission:
+S6.7.3.1 *Vehicle condition—heating procedure.* Engine transmission:
 
 (a) From the specified test speed to 50 per cent specified test speed: connected, with the highest appropriate gear selected such that the engine speed remains above the manufacturer's specified idle speed.
 
 (b) From 50 per cent specified test speed to standstill: disconnected.
 
-S6.7.3.2 *Test conditions and procedure - heating procedure.*
+S6.7.3.2 *Test conditions and procedure—heating procedure.*
 
 (a) *Initial brake temperature.* Initial brake temperature is (prior to first stop only) ≥55 °C and ≤100 °C.
 
@@ -512,7 +510,7 @@ S6.7.3.2 *Test conditions and procedure - heating procedure.*
 
 (d) *Brake actuation force.*
 
-(1) For the first stop: The constant control force that achieves a vehicle deceleration rate of 3.0 - 3.5 m/s2 while the vehicle is decelerating between 80 percent and 10 percent of the specified speed.
+(1) For the first stop: The constant control force that achieves a vehicle deceleration rate of 3.0—3.5 m/s2 while the vehicle is decelerating between 80 percent and 10 percent of the specified speed.
 
 (2) For the remaining stops:
 
@@ -524,13 +522,13 @@ S6.7.3.2 *Test conditions and procedure - heating procedure.*
 
 (e) Carry out a stop to the conditions specified in this paragraph and then immediately use maximum acceleration to reach the specified speed and maintain that speed until the next stop is made.
 
-S6.7.4 *Hot brake stop - test conditions and procedure.* Perform a single stop under the conditions used in the baseline test (S6.7.2) for the brake system that has been heated during the procedure in accordance with S6.7.3. This stop is carried out within one minute of the completion of the procedure set out in S6.7.3 with a brake control application force less than or equal to the force used during the test set out in S6.7.2.
+S6.7.4 *Hot brake stop—test conditions and procedure.* Perform a single stop under the conditions used in the baseline test (S6.7.2) for the brake system that has been heated during the procedure in accordance with S6.7.3. This stop is carried out within one minute of the completion of the procedure set out in S6.7.3 with a brake control application force less than or equal to the force used during the test set out in S6.7.2.
 
 S6.7.5 *Performance requirements.* When the brakes are tested in accordance with the test procedure set out in S6.7.4, the stopping distance S2 shall be ≤1.67 S1−0.67 × 0.1V,
 
 Where:S1 = corrected stopping distance in meters achieved in the baseline test set out in S6.7.2.S2 = corrected stopping distance in meters achieved in the hot brake stop set out in S6.7.4.V = specified test speed in km/h.
 
-S6.8 *Parking brake system test - for motorcycles with parking brakes.*
+S6.8 *Parking brake system test—for motorcycles with parking brakes.*
 
 S6.8.1 *Vehicle condition.*
 
@@ -644,7 +642,7 @@ S6.9.5.1 *Test conditions and procedure.*
 
 S6.9.5.2 *Performance requirements.* When the brakes are tested in accordance with the test procedures set out in S6.9.5.1, there shall be no wheel lock beyond that allowed for in paragraph S6.9.1(d), and the vehicle wheels shall stay within the test lane.
 
-S6.9.6 *Wheel lock check - high to low friction surface transition.*
+S6.9.6 *Wheel lock check—high to low friction surface transition.*
 
 S6.9.6.1 *Test conditions and procedure.*
 
@@ -668,11 +666,11 @@ S6.9.6.1 *Test conditions and procedure.*
 
 S6.9.6.2 *Performance requirements.* When the brakes are tested in accordance with the test procedures set out in S6.9.6.1, there shall be no wheel lock beyond that allowed for in paragraph S6.9.1(d), and the vehicle wheels shall stay within the test lane.
 
-S6.9.7 *Wheel lock check - low to high friction surface transition.*
+S6.9.7 *Wheel lock check—low to high friction surface transition.*
 
 S6.9.7.1 *Test conditions and procedure.*
 
-(a) *Test surfaces.* A low friction surface immediately followed by a high friction surface with a PBC ≥0.8.
+(a) *Test surfaces.* A low friction surface immediately followed by a high friction surface with a PBC ≥0.90.
 
 (b) *Initial brake temperature.* Initial brake temperature is ≥55 °C and ≤100 °C.
 
@@ -700,7 +698,7 @@ S6.9.7.2 *Performance requirements.* When the brakes are tested in accordance wi
 
 S6.9.8 *Stops with an ABS electrical failure.*
 
-S6.9.8.1 *Test conditions and procedure.* With the ABS electrical system disabled, carry out the test set out in S6.3 (dry stop test - single brake control actuated) applying the conditions relevant to the brake system and vehicle being tested.
+S6.9.8.1 *Test conditions and procedure.* With the ABS electrical system disabled, carry out the test set out in S6.3 (dry stop test—single brake control actuated) applying the conditions relevant to the brake system and vehicle being tested.
 
 S6.9.8.2 *Performance requirements.* When the brakes are tested in accordance with the test procedure set out in S6.9.8.1:
 
@@ -708,7 +706,7 @@ S6.9.8.2 *Performance requirements.* When the brakes are tested in accordance wi
 
 (b) the minimum requirements for stopping distance shall be as specified in column 2 under the heading “Single brake system, rear wheel(s) braking only” in Table 2.
 
-S6.10 *Partial failure test - for split service brake systems.*
+S6.10 *Partial failure test—for split service brake systems.*
 
 S6.10.1 *General information.*
 
@@ -756,18 +754,16 @@ S6.11.1 *General information.*
 
 (b) The test is to confirm the performance of the service brake system in the event of failure of the power assistance.
 
-S6.11.2 *Test conditions and procedure.* Carry out the test set out in S6.3.3 (dry stop test - single brake control actuated) for each service brake system with the power assistance disabled.
+S6.11.2 *Test conditions and procedure.* Carry out the test set out in S6.3.3 (dry stop test—single brake control actuated) for each service brake system with the power assistance disabled.
 
 S6.11.3 *Performance requirements.* When the brakes are tested in accordance with the test procedure set out in S6.11.2, the stopping distance shall be as specified in column 2 of Table 4. Note that if the power assistance may be activated by more than one control, the above performance shall be achieved when each control is actuated separately.
 
 Tables and Figures to § 571.122
 
-Table 1 - Test Sequence
-
 |                     Test order                      |Paragraph|
 |-----------------------------------------------------|---------|
-|     1. Dry stop - single brake control actuated     |  S6.3   |
-|  2. Dry stop - all service brake controls actuated  |  S6.4   |
+|      1. Dry stop—single brake control actuated      |  S6.3   |
+|   2. Dry stop—all service brake controls actuated   |  S6.4   |
 |                    3. High speed                    |  S6.5   |
 |                    4. Wet brake                     |  S6.6   |
 |                    5. If fitted:                    |         |
@@ -777,53 +773,47 @@ Table 1 - Test Sequence
 |     6.4. Power-assisted braking system failure      |  S6.11  |
 |                    6. Heat fade                     |  S6.7   |
 
-Table 2 - Performance Requirements, Dry Stop Test - Single Brake Control Actuated
+|                                          Column 1                                           |                                                         Column 2                                                         |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|                                  Motorcycle  <br/>category                                  |Stopping Distance(s)  <br/>(where V is the specified test speed in km/h and S is the required stopping distance in meters)|
+|                    **Single brake system, front wheel(s) braking only**                     |                                                                                                                          |
+|                                             3-1                                             |                                            S ≤0.1 V + 0.0111 V <sup>2</sup>.                                             |
+|                                             3-2                                             |                                            S ≤0.1 V + 0.0143 V <sup>2</sup>.                                             |
+|                                             3-3                                             |                                            S ≤0.1 V + 0.0087 V <sup>2</sup>.                                             |
+|                                             3-4                                             |                                            S ≤0.1 V + 0.0105 V <sup>2</sup>.                                             |
+|                                             3-5                                             |                                                     Not applicable.                                                      |
+|                     **Single brake system, rear wheel(s) braking only**                     |                                                                                                                          |
+|                                             3-1                                             |                                            S ≤0.1 V + 0.0143 V <sup>2</sup>.                                             |
+|                                             3-2                                             |                                            S ≤0.1 V + 0.0143 V <sup>2</sup>.                                             |
+|                                             3-3                                             |                                            S ≤0.1 V + 0.0133 V <sup>2</sup>.                                             |
+|                                             3-4                                             |                                            S ≤0.1 V + 0.0105 V <sup>2</sup>.                                             |
+|                                             3-5                                             |                                                     Not applicable.                                                      |
+|**Vehicles with CBS or split service brake systems: For laden and lightly loaded conditions**|                                                                                                                          |
+|                                         3-1 and 3-2                                         |                                            S ≤0.1 V + 0.0087 V <sup>2</sup>.                                             |
+|                                             3-3                                             |                                            S ≤0.1 V + 0.0076 V <sup>2</sup>.                                             |
+|                                             3-4                                             |                                            S ≤0.1 V + 0.0071 V <sup>2</sup>.                                             |
+|                                             3-5                                             |                                            S ≤0.1 V + 0.0077 V <sup>2</sup>.                                             |
+|                    **Vehicles with CBS—secondary service brake system**                     |                                                                                                                          |
+|                                             ALL                                             |                                            S ≤0.1 V + 0.0154 V. <sup>2</sup>                                             |
 
-|                                        Column 1                                         |                                                         Column 2                                                         |
-|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|                                Motorcycle  <br/>category                                |Stopping Distance(s)  <br/>(where V is the specified test speed in km/h and S is the required stopping distance in meters)|
-|                    Single brake system, front wheel(s) braking only                     |                                                                                                                          |
-|                                           3-1                                           |                                             S ≤0.1 V + 0.0111 V<sup>2</sup>.                                             |
-|                                           3-2                                           |                                             S ≤0.1 V + 0.0143 V<sup>2</sup>.                                             |
-|                                           3-3                                           |                                             S ≤0.1 V + 0.0087 V<sup>2</sup>.                                             |
-|                                           3-4                                           |                                             S ≤0.1 V + 0.0105 V<sup>2</sup>.                                             |
-|                                           3-5                                           |                                                     Not applicable.                                                      |
-|                     Single brake system, rear wheel(s) braking only                     |                                                                                                                          |
-|                                           3-1                                           |                                             S ≤0.1 V + 0.0143 V<sup>2</sup>.                                             |
-|                                           3-2                                           |                                             S ≤0.1 V + 0.0143 V<sup>2</sup>.                                             |
-|                                           3-3                                           |                                             S ≤0.1 V + 0.0133 V<sup>2</sup>.                                             |
-|                                           3-4                                           |                                             S ≤0.1 V + 0.0105 V<sup>2</sup>.                                             |
-|                                           3-5                                           |                                                     Not applicable.                                                      |
-|Vehicles with CBS or split service brake systems: For laden and lightly loaded conditions|                                                                                                                          |
-|                                       3-1 and 3-2                                       |                                             S ≤0.1 V + 0.0087 V<sup>2</sup>.                                             |
-|                                           3-3                                           |                                             S ≤0.1 V + 0.0076 V<sup>2</sup>.                                             |
-|                                           3-4                                           |                                             S ≤0.1 V + 0.0071 V<sup>2</sup>.                                             |
-|                                           3-5                                           |                                             S ≤0.1 V + 0.0077 V<sup>2</sup>.                                             |
-|                   Vehicles with CBS - secondary service brake system                    |                                                                                                                          |
-|                                           ALL                                           |                                             S ≤0.1 V + 0.0154 V.<sup>2</sup>                                             |
+|                         ABS Tests                          |Paragraph|
+|------------------------------------------------------------|---------|
+|a. Stops on a high friction surface—as specified in S6.1.1.1| S6.9.3  |
+|b. Stops on a low friction surface—as specified in S6.1.1.2 | S6.9.4  |
+|   c. Wheel lock checks on high and low friction surfaces   | S6.9.5  |
+|d. Wheel lock check—high to low friction surface transition | S6.9.6  |
+|e. Wheel lock check—low to high friction surface transition | S6.9.7  |
+|          f. Stops with an ABS electrical failure           | S6.9.8  |
 
-Table 3 - ABS Tests
+|                      Column 1                      |                                                         Column 2                                                         |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|                  Vehicle category                  |Stopping Distance(s)  <br/>(where V is the specified test speed in km/h and S is the required stopping distance in meters)|
+|              **Single brake system**               |                                                                                                                          |
+|                        3-1                         |                                            S ≤0.1 V + 0.0143 V <sup>2</sup>.                                             |
+|                        3-2                         |                                            S ≤0.1 V + 0.0143 V <sup>2</sup>.                                             |
+|                        3-3                         |                                            S ≤0.1 V + 0.0133 V <sup>2</sup>.                                             |
+|                        3-4                         |                                            S ≤0.1 V + 0.0105 V <sup>2</sup>.                                             |
+|**Vehicles with CBS or split service brake systems**|                                                                                                                          |
+|                        All                         |                                            S ≤0.1 V + 0.0154 V. <sup>2</sup>                                             |
 
-|                          ABS Tests                           |Paragraph|
-|--------------------------------------------------------------|---------|
-|a. Stops on a high friction surface - as specified in S6.1.1.1| S6.9.3  |
-|b. Stops on a low friction surface - as specified in S6.1.1.2 | S6.9.4  |
-|    c. Wheel lock checks on high and low friction surfaces    | S6.9.5  |
-|d. Wheel lock check - high to low friction surface transition | S6.9.6  |
-|e. Wheel lock check - low to high friction surface transition | S6.9.7  |
-|           f. Stops with an ABS electrical failure            | S6.9.8  |
-
-Table 4 - Performance Requirements, Power-Assisted Braking System Failure Test
-
-|                    Column 1                    |                                                         Column 2                                                         |
-|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|                Vehicle category                |Stopping Distance(s)  <br/>(where V is the specified test speed in km/h and S is the required stopping distance in meters)|
-|              Single brake system               |                                                                                                                          |
-|                      3-1                       |                                             S ≤0.1 V + 0.0143 V<sup>2</sup>.                                             |
-|                      3-2                       |                                             S ≤0.1 V + 0.0143 V<sup>2</sup>.                                             |
-|                      3-3                       |                                             S ≤0.1 V + 0.0133 V<sup>2</sup>.                                             |
-|                      3-4                       |                                             S ≤0.1 V + 0.0105 V<sup>2</sup>.                                             |
-|Vehicles with CBS or split service brake systems|                                                                                                                          |
-|                      All                       |                                             S ≤0.1 V + 0.0154 V.<sup>2</sup>                                             |
-
-![](/graphics/er24au12.000.gif)![](/graphics/er24au12.001.gif)![](/graphics/er24au12.002.gif)[77 FR 51671, Aug. 24, 2012, as amended at 86 FR 1298, Jan. 8, 2021]
+![](/graphics/er24au12.000.gif)![](/graphics/er24au12.001.gif)![](/graphics/er24au12.002.gif)[77 FR 51671, Aug. 24, 2012, as amended at 86 FR 1298, Jan. 8, 2021; 87 FR 34810, June 8, 2022]

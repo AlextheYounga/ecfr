@@ -1,7 +1,5 @@
 ##### § 571.136 Standard No. 136; Electronic stability control systems for heavy vehicles. #####
 
-Link to an amendment published at 87 FR 34810, June 8, 2022.
-
 S1 *Scope.* This standard establishes performance and equipment requirements for electronic stability control (ESC) systems on heavy vehicles.
 
 S2 *Purpose.* The purpose of this standard is to reduce crashes caused by rollover or by directional loss-of-control.
@@ -138,7 +136,7 @@ S6.2 *Road Test Surface.*
 
 S6.2.1 The tests are conducted on a dry, uniform, solid-paved surface. Surfaces with irregularities and undulations, such as dips and large cracks, are unsuitable.
 
-S6.2.2 The road test surface produces a peak friction coefficient (PFC) of 0.9 when measured using an American Society for Testing and Materials (ASTM) E1136-93 (Reapproved 2003) standard reference test tire, in accordance with ASTM Method E 1337-90 (Reapproved 2008), at a speed of 64.4 km/h (40 mph), without water delivery (both documents incorporated by reference, see § 571.5).
+S6.2.2 The road test surface produces a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19, at a speed of 64.4 km/h (40 mph), without water delivery (incorporated by reference, see § 571.5).
 
 S6.2.3 The test surface has a consistent slope between 0% and 1%.
 
@@ -276,4 +274,4 @@ S8.2.1 All three-axle truck tractors with a front axle that has a GAWR of 6,622 
 
 S8.2.2 All truck tractors manufactured on or after August 1, 2019 must comply with this standard.
 
-[80 FR 36105, June 23, 2015, as amended at 82 FR 50092, Oct. 30, 2017]
+[80 FR 36105, June 23, 2015, as amended at 82 FR 50092, Oct. 30, 2017; 87 FR 34810, June 8, 2022]

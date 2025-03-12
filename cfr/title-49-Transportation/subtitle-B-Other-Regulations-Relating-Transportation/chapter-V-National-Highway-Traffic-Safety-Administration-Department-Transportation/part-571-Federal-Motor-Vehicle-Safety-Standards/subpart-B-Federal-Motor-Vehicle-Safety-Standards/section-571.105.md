@@ -1,7 +1,5 @@
 ##### § 571.105 Standard No. 105; Hydraulic and electric brake systems. #####
 
-Link to an amendment published at 87 FR 34808, June 8, 2022.
-
 S1. *Scope.* This standard specifies requirements for hydraulic and electric service brake systems, and associated parking brake systems.
 
 S2. *Purpose.* The purpose of this standard is to insure safe braking performance under normal and emergency conditions.
@@ -117,7 +115,7 @@ S5.1.3.2 *Brake power assist units.* The service brakes on a vehicle equipped wi
 
 (b) In a final stop, at an average deceleration that is not lower than 7 FPSPS for passenger cars (equivalent stopping distance 554 feet) or 6 FPSPS for vehicles other than passenger cars (equivalent stopping distance 646 feet), as applicable, when the inoperative unit is depleted of all reserve capacity.
 
-S5.1.3.3 *Brake power units.* The service brakes of a vehicle equipped with one or more brake power units with an accumulator-type reserve system, with any one failure in any one unit shall be capable of stopping the vehicle from 60 mph -
+S5.1.3.3 *Brake power units.* The service brakes of a vehicle equipped with one or more brake power units with an accumulator-type reserve system, with any one failure in any one unit shall be capable of stopping the vehicle from 60 mph—
 
 (a) In 10 consecutive stops at an average deceleration for each stop that is not lower than that specified in column II of table III, when the unit is not initially depleted of all reserve capability; and
 
@@ -139,7 +137,7 @@ S5.1.4.3 (a) Each vehicle with a GVWR of 10,000 pounds or less shall be capable 
 
 (1) A maximum for the first four recovery stops of 150 pounds, and for the fifth stop, of 20 pounds more than the average control force for the baseline check; and
 
-(2) A minimum of -
+(2) A minimum of—
 
 (A) The average control force for the baseline check minus 10 pounds, or
 
@@ -151,7 +149,7 @@ whichever is lower (but in no case lower than 5 pounds).
 
 (1) A maximum for the first four recovery snubs of 150 pounds, and for the fifth snub, of 20 pounds more than the average control force for the baseline check (but in no case more than 100 pounds); and
 
-(2) A minimum of -
+(2) A minimum of—
 
 (A) The average control force for the baseline check minus 10 pounds, or
 
@@ -167,7 +165,7 @@ S5.1.5.2(a) After being driven for 2 minutes at a speed of 5 mph in any combinat
 
 (1) A maximum for the first four recovery stops of 150 pounds, and for the fifth stop, of 45 pounds more than the average control force for the baseline check (but in no case more than 90 pounds, except that the maximum control force for the fifth stop in the case of a vehicle manufactured before September 1, 1976, shall be not more than plus 60 pounds of the average control force for the baseline check (but in no case more than 110 pounds).
 
-(2) A minimum of -
+(2) A minimum of—
 
 (A) The average control force for the baseline check minus 10 pounds, or
 
@@ -179,7 +177,7 @@ whichever is lower (but in no case lower than 5 pounds).
 
 (1) A maximum for the first four recovery stops of 150 pounds, and for the fifth stop, of 60 pounds more than the average control force for the baseline check (but in no case more than 110 pounds); and
 
-(2) A minimum of -
+(2) A minimum of—
 
 (A) The average control force for the baseline check minus 10 pounds, or
 
@@ -191,7 +189,7 @@ S5.1.6 *Spike stops.* Each vehicle with a GVWR of 10,000 lbs. or less shall be c
 
 S5.1.7 Stability and control during braking. When stopped four consecutive times under the conditions specified in S6, each vehicle with a GVWR greater than 10,000 pounds manufactured on or after July 1, 2005 and each vehicle with a GVWR greater than 10,000 pounds manufactured in two or more stages on or after July 1, 2006 shall stop from 30 mph or 75 percent of the maximum drive-through speed, whichever is less, at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway. Stop the vehicle with the vehicle at its lightly loaded vehicle weight, or at the manufacturer's option, at its lightly loaded vehicle weight plus not more than an additional 1000 pounds for a roll bar structure on the vehicle.
 
-S5.2 *Parking Brake System.* Each vehicle shall be manufactured with a parking brake system of a friction type with a solely mechanical means to retain engagement, which shall under the conditions of S6, when tested according to the procedures specified in S7, meet the requirements specified in S5.2.1, S5.2.2, or S5.2.3 as appropriate, with the system engaged -
+S5.2 *Parking Brake System.* Each vehicle shall be manufactured with a parking brake system of a friction type with a solely mechanical means to retain engagement, which shall under the conditions of S6, when tested according to the procedures specified in S7, meet the requirements specified in S5.2.1, S5.2.2, or S5.2.3 as appropriate, with the system engaged—
 
 (a) In the case of a vehicle with a GVWR of 4,536 kilograms (10,000 pounds) or less, with a force applied to the control not to exceed 125 pounds for a foot-operated system and 90 pounds for a hand-operated system; and
 
@@ -275,7 +273,7 @@ S5.4.1 *Master cylinder reservoirs.* A master cylinder shall have a reservoir co
 
 S5.4.2 *Reservoir capacity.* Reservoirs, whether for master cylinders or other type systems, shall have a total minimum capacity equivalent to the fluid displacement resulting when all the wheel cylinders or caliper pistons serviced by the reservoirs move from a new lining, fully retracted position (as adjusted initially to the manufacturer's recommended setting) to a fully worn, fully applied position, as determined in accordance with S7.18(c) of this standard. Reservoirs shall have completely separate compartments for each subsystem except that in reservoir systems utilizing a portion of the reservoir for a common supply to two or more subsystems, individual partial compartments shall each have a minimum volume of fluid equal to at least the volume displaced by the master cylinder piston servicing the subsystem, during a full stroke of the piston. Each brake power unit reservoir servicing only the brake system shall have a minimum capacity equivalent to the fluid displacement required to charge the system piston(s) or accumulator(s) to normal operating pressure plus the displacement resulting when all the wheel cylinders or caliper pistons serviced by the reservoir or accumulator(s) move from a new lining fully retracted position (as adjusted initially to the manufacturer's recommended setting) to a fully worn, fully applied position.
 
-S5.4.3 *Reservoir labeling* - Each vehicle equipped with hydraulic brakes shall have a brake fluid warning statement that reads as follows, in letters at least one-eighth of an inch high: “WARNING, Clean filler cap before removing. Use only \_\_\_\_\_\_ fluid from a sealed container.” (Inserting the recommended type of brake fluid as specified in 49 CFR 571.116, e.g., “DOT 3”). The lettering shall be -
+S5.4.3 *Reservoir labeling*—Each vehicle equipped with hydraulic brakes shall have a brake fluid warning statement that reads as follows, in letters at least one-eighth of an inch high: “WARNING, Clean filler cap before removing. Use only \_\_\_\_\_\_ fluid from a sealed container.” (Inserting the recommended type of brake fluid as specified in 49 CFR 571.116, e.g., “DOT 3”). The lettering shall be—
 
 (a) Permanently affixed, engraved, or embossed;
 
@@ -289,7 +287,7 @@ S5.5.1 Each vehicle with a GVWR greater than 10,000 pounds, except for any vehic
 
 S5.5.2 In the event of any failure (structural or functional) in an antilock or variable proportioning brake system, the vehicle shall be capable of meeting the stopping distance requirements specified in S5.1.2 for service brake system partial failure. For an EV that is equipped with both ABS and RBS that is part of the service brake system, the ABS must control the RBS.
 
-S5.6 *Brake system integrity.* Each vehicle shall be capable of completing all performance requirements of S5 without -
+S5.6 *Brake system integrity.* Each vehicle shall be capable of completing all performance requirements of S5 without—
 
 (a) Detachment or fracture of any component of the braking system, such as brake springs and brake shoe or disc pad facing, other than minor cracks that do not impair attachment of the friction facing. All mechanical components of the braking system shall be intact and functional. Friction facing tearout (complete detachment of lining) shall not exceed 10 percent of the lining on any single frictional element.
 
@@ -341,9 +339,9 @@ S6.9 *Road surface.*
 
 S6.9.1 For vehicles with a GVWR of 10,000 pounds or less, road tests are conducted on a 12-foot-wide, level roadway, having a skid number of 81. Burnish stops are conducted on any surface. The parking brake test surface is clean, dry, smooth, Portland cement concrete.
 
-S6.9.2(a) For vehicles with a GVWR greater than 10,000 pounds, road tests (excluding stability and control during braking tests) are conducted on a 12-foot-wide, level roadway, having a peak friction coefficient of 0.9 when measured using an ASTM E1136-93 (Reapproved 2003) (incorporated by reference, see § 571.5), standard reference test tire, in accordance with ASTM E1337-90 (Reapproved 2008) (incorporated by reference, see § 571.5), at a speed of 40 mph, without water delivery. Burnish stops are conducted on any surface. The parking brake test surface is clean, dry, smooth, Portland cement concrete.
+S6.9.2(a) For vehicles with a GVWR greater than 10,000 pounds, road tests (excluding stability and control during braking tests) are conducted on a 12-foot-wide, level roadway, having a peak friction coefficient of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 40 mph, without water delivery. Burnish stops are conducted on any surface. The parking brake test surface is clean, dry, smooth, Portland cement concrete.
 
-S6.9.2(b) For vehicles with a GVWR greater than 10,000 pounds, stability and control during braking tests are conducted on a 500-foot-radius curved roadway with a wet level surface having a peak friction coefficient of 0.5 when measured on a straight or curved section of the curved roadway using an ASTM E1136-93 (Reapproved 2003) standard reference tire, in accordance with ASTM E1337-90 (Reapproved 2008) at a speed of 40 mph, with water delivery.
+(b) For vehicles with a GVWR greater than 10,000 pounds, stability and control during braking tests are conducted on a 500-foot-radius curved roadway with a wet level surface having a peak friction coefficient of 0.55 when measured on a straight or curved section of the curved roadway using an ASTM F2493 standard reference tire, in accordance with ASTM E1337-19 at a speed of 40 mph, with water delivery.
 
 S6.10 *Vehicle position and wheel lockup restrictions.* The vehicle is aligned in the center of the roadway at the start of each brake application. Stops, other than spike stops, are made without any part of the vehicle leaving the roadway.
 
@@ -391,25 +389,25 @@ S7.1 *Brake warming.* If the initial brake temperature for the first stop in a t
 
 S7.2 *Pretest instrumentation check.* Conduct a general check of instrumentation by making not more than 10 stops from a speed of not more than 30 mph, or 10 snubs from a speed of not more than 40 to 10 mph, at a deceleration of not more than 10 fpsps. If instrument repair, replacement, or adjustment is necessary, make not more than 10 additional stops or snubs after such repair, replacement, or adjustment.
 
-S7.3 *Service brake system - first* (*preburnish*) *effectiveness test.* Make six stops from 30 mph. Then make six stops from 60 mph.
+S7.3 *Service brake system—first* (*preburnish*) *effectiveness test.* Make six stops from 30 mph. Then make six stops from 60 mph.
 
-S7.4 *Service brake system - burnish procedure.*
+S7.4 *Service brake system—burnish procedure.*
 
 S7.4.1 *Vehicles with GVWR of 10,000 lb or less.*
 
 S7.4.1.1 *Burnish.* Burnish the brakes by making 200 stops from 40 mph at 12 fpsps (the 150 lb control force limit does not apply here). The interval from the start of one service brake application to the start of the next shall be either the time necessary to reduce the initial brake temperature to between 230 °F. and 270 °F., or the distance of 1 mile, whichever occurs first. Accelerate to 40 mph after each stop and maintain that speed until making the next stop.
 
-S7.4.1.2 *Brake adjustment - post burnish.* After burnishing, adjust the brakes in accordance with the manufacturer's published recommendations.
+S7.4.1.2 *Brake adjustment—post burnish.* After burnishing, adjust the brakes in accordance with the manufacturer's published recommendations.
 
 S7.4.2 *Vehicles with GVWR greater than 10,000 pounds.*
 
 S7.4.2.1 *Burnish.* Vehicles are burnished according to the following procedures. Make 500 snubs between 40 mph and 20 mph at a deceleration rate of 10 f.p.s.p.s. Except where an adjustment is specified, after each brake application accelerate to 40 mph and maintain that speed until making the next brake application at a point 1 mile from the initial point of the previous brake application. If the vehicle cannot attain a speed of 40 mph in 1 mph, continue to accelerate until the vehicle reaches 40 mph or until the vehicle has traveled 1.5 miles from the initial point of the previous brake application, whichever occurs first. The brakes shall be adjusted three times during the burnish procedure, in accordance with the manufacturer's recommendations, after 125, 250, and 375 snubs.
 
-S7.4.2.2 *Brake adjustment - post burnish.* After burnishing, adjust the brakes in accordance with the manufacturer's published recommendations.
+S7.4.2.2 *Brake adjustment—post burnish.* After burnishing, adjust the brakes in accordance with the manufacturer's published recommendations.
 
 S7.5 (a) Stability and control during braking (vehicles with a GVWR greater than 10,000 pounds). Make four stops in the lightly-loaded weight condition specified in S5.1.7. Use a full brake application for the duration of the stop, with the clutch pedal depressed or the transmission selector control in the neutral position, for the duration of each stop.
 
-(b) Service brake system - second effectiveness test. For vehicles with a GVWR of 10,000 pounds or less, or any school bus, make six stops from 30 mph. Then, for any vehicle, make six stops from 60 mph. Then, for a vehicle with a GVWR of 10,000 pounds or less, make four stops from 80 mph if the speed attainable in 2 miles is not less than 84 mph.
+(b) Service brake system—second effectiveness test. For vehicles with a GVWR of 10,000 pounds or less, or any school bus, make six stops from 30 mph. Then, for any vehicle, make six stops from 60 mph. Then, for a vehicle with a GVWR of 10,000 pounds or less, make four stops from 80 mph if the speed attainable in 2 miles is not less than 84 mph.
 
 S7.6 *First reburnish.* Repeat S7.4, except make 35 burnish stops or snubs. In the case of vehicles burnished in accordance with S7.4.2.1(a) of this section, reburnish the vehicle by making 35 snubs from 60 to 20 mph, but if the hottest brake temperature reaches 500 °F ±50 °F, make the remainder of the brake applications from the highest snub condition listed in Table IV that will maintain the hottest brake temperature at 500 °F ±50 °F. If at a snub condition of 40 to 20 mph, the temperature of the hottest brake exceeds 550 °F, make the remainder of the 35 brake applications from the snub condition without regard to brake temperature.
 
@@ -445,9 +443,9 @@ S7.7.3 *Lightly loaded vehicle.* Repeat S7.7.1 or S7.7.2 as applicable except wi
 
 S7.7.4 *Non-service brake type parking brake systems.* For vehicles with parking brake systems not utilizing the service brake friction elements, burnish the friction elements of such systems prior to parking brake tests according to the manufacturer's published recommendations as furnished to the purchaser. If no recommendations are furnished, run the vehicle in an unburnished condition.
 
-S7.8 *Service brake system test - lightly loaded vehicle (third effectiveness) test.* Make six stops from 60 mph with vehicle at lightly vehicle weight, or at the manufacturer's option for a vehicle with GVWR greater than 10,000 pounds, at lightly loaded vehicle weight plus not more than an additional 1,000 pounds for a roll bar structure on the vehicle. (This test is not applicable to a vehicle which has a GVWR of not less than 7,716 pounds and not greater than 10,000 pounds and is not a school bus.)
+S7.8 *Service brake system test—lightly loaded vehicle (third effectiveness) test.* Make six stops from 60 mph with vehicle at lightly vehicle weight, or at the manufacturer's option for a vehicle with GVWR greater than 10,000 pounds, at lightly loaded vehicle weight plus not more than an additional 1,000 pounds for a roll bar structure on the vehicle. (This test is not applicable to a vehicle which has a GVWR of not less than 7,716 pounds and not greater than 10,000 pounds and is not a school bus.)
 
-S7.9 *Service brake system test - partial failure.*
+S7.9 *Service brake system test—partial failure.*
 
 S7.9.1 With the vehicle at lightly loaded vehicle weight or at the manufacturer's option for a vehicle with a GVWR greater than 10,000 pounds, at lightly loaded vehicle weight plus not more than an additional 1,000 pounds for a roll bar structure on the vehicle, alter the service brake system to produce any one rupture or leakage type of failure, other than a structural failure of a housing that is common to two or more subsystems. Determine the control force, pressure level, or fluid level (as appropriate for the indicator being tested) necessary to activate the brake system indicator lamp. Make four stops if the vehicle is equipped with a split service brake system, or 10 stops if the vehicle is not so equipped, each from 60 mph, by a continuous application of the service brake control. Restore the service brake system to normal at completion of this test.
 
@@ -463,7 +461,7 @@ S7.9.5 For a vehicle in which the brake signal is transmitted electrically betwe
 
 S7.9.6 For an EV with RBS that is part of the service brake system, the tests specified in S7.9.1 through S7.9.3 are conducted with the RBS disconnected and all other systems intact. Determine whether the brake system indicator lamp is activated when the RBS is disconnected.
 
-S7.10 *Service brake system - inoperative brake power unit or brake power assist unit test.* (For vehicles equipped with brake power unit or brake power assist unit.)
+S7.10 *Service brake system—inoperative brake power unit or brake power assist unit test.* (For vehicles equipped with brake power unit or brake power assist unit.)
 
 S7.10.1 *Regular procedure.* (This test need not be run if the option in S7.10.2 is selected.) On vehicles with brake power assist units, render the brake power assist unit inoperative, or one of the brake power assist unit subsystems if two or more subsystems are provided, by disconnecting the relevant power supply. Exhaust any residual brake power reserve capability of the disconnected system. On vehicles with brake power units, disconnect the primary source of power. Make four stops, each from 60 mph by a continuous application of the service brake control. Restore the system to normal at completion of this test. For vehicles equipped with more than one brake power unit or brake power assist unit, conduct tests of each in turn.
 
@@ -485,7 +483,7 @@ S7.10.3 *Electric brakes.*
 
 (b) For EVs with RBS that is part of the service brake system, the tests in S7.10.1 or S7.10.2 are conducted with the RBS discontinued and all other systems intact.
 
-S7.11 *Service brake system - first fade and recovery test.*
+S7.11 *Service brake system—first fade and recovery test.*
 
 S7.11.1 *Baseline check stops or snubs.*
 
@@ -505,15 +503,15 @@ S7.11.3.1 *Vehicles with GVWR of 10,000 lb or less.* Make five stops from 30 mph
 
 S7.11.3.2 *Vehicles with GVWR greater than 10,000 lb.* With transmission in neutral (or declutched) make five snubs from 40 to 20 mph at 10 fpsps for each snub. After each snub, accelerate at maximum rate to 40 mph and maintain that speed until making the next brake application at a point 1.5 mi from the point of the previous brake application. Record the maximum control force for each snub.
 
-S7.12 *Service brake system - second reburnish.* Repeat S7.6.
+S7.12 *Service brake system—second reburnish.* Repeat S7.6.
 
-S7.13 *Service brake system - second fade and recovery test.* Repeat S7.11 except in S7.11.2 run 15 fade stops or 20 snubs instead of 10.
+S7.13 *Service brake system—second fade and recovery test.* Repeat S7.11 except in S7.11.2 run 15 fade stops or 20 snubs instead of 10.
 
 S7.14 *Third reburnish.* Repeat S7.6.
 
-S7.15 *Service brake system - fourth effectiveness test.* Repeat S7.5. Then (for passenger cars) make four stops from either 95 mph if the speed attainable in 2 mi is 99 to (but not including) 104 mph, or 100 mph if the speed attainable in 2 mi is 104 mph or greater.
+S7.15 *Service brake system—fourth effectiveness test.* Repeat S7.5. Then (for passenger cars) make four stops from either 95 mph if the speed attainable in 2 mi is 99 to (but not including) 104 mph, or 100 mph if the speed attainable in 2 mi is 104 mph or greater.
 
-S7.16 *Service brake system - water recovery test.*
+S7.16 *Service brake system—water recovery test.*
 
 S7.16.1 *Baseline check stop.* Make three stops from 30 mph at 10 fpsps for each stop. Control force readings may be terminated when vehicle speed falls to 5 mph. Average the maximum brake control force required for the three stops.
 
@@ -521,7 +519,7 @@ S7.16.2 *Wet brake recovery stops.* With the brakes fully released at all times,
 
 S7.17 *Spike stops.* Make 10 successive spike stops from 30 mph with the transmission in neutral, with no reverse stops. Make spike stops by applying a control force of 200 lb while recording control force versus time. Maintain control force until vehicle has stopped. At completion of 10 spike stops, make six effectiveness stops from 60 mph.
 
-S7.18 *Final inspection.* Inspect -
+S7.18 *Final inspection.* Inspect—
 
 (a) The service brake system for detachment or fracture of any components, such as brake springs and brake shoes or disc pad facing.
 
@@ -537,13 +535,11 @@ Note:
 
 The vehicle used for this test need not be the same vehicle that has been used for the braking tests.
 
-![](/graphics/ec01au91.004.gif)Figure 1 - Typical Plug Thermocouple InstallationsNote:
+![](/graphics/ec01au91.004.gif)Figure 1—Typical Plug Thermocouple InstallationsNote:
 
 The second thermocouple shall be installed at .080 inch depth within 1 inch circumferentially of the thermocouple installed at .040 inch depth.
 
 ![](/graphics/ec01au91.005.gif)
-
-Table I - Brake Test Procedure Sequence and Requirements
 
 |                            Sequence                             |Test load|Test procedure|Requirements|        |
 |-----------------------------------------------------------------|---------|--------------|------------|--------|
@@ -570,24 +566,21 @@ Table I - Brake Test Procedure Sequence and Requirements
 
 ![](/graphics/er07se99.007.gif)
 
-Table III - Inoperative Brake Power Assist and Brake Power Units
-
-|          Stop No.           |Average deceleration, FPSPS|Equivalent stopping distance, feet|                           |                |           |   |           |   |
-|-----------------------------|---------------------------|----------------------------------|---------------------------|----------------|-----------|---|-----------|---|
-|Column 1 - brake power assist|Column 2 - brake power unit|  Column 3 - brake power assist   |Column 4 - brake power unit|                |           |   |           |   |
-|             (a)             |        (b) and (c)        |               (a)                |        (b) and (c)        |      (a)       |(b) and (c)|(a)|(b) and (c)|   |
-|              1              |           16.0            |               14.0               |           16.0            |      13.0      |    242    |277|    242    |298|
-|              2              |           12.0            |               12.0               |           13.0            |      11.0      |    323    |323|    298    |352|
-|              3              |           10.0            |               10.0               |           12.0            |      10.0      |    388    |388|    323    |388|
-|              4              |            9.0            |               8.5                |           11.0            |      9.5       |    431    |456|    352    |409|
-|              5              |            8.0            |               7.5                |           10.0            |      9.0       |    484    |517|    388    |431|
-|              6              |            7.5            |               6.7                |            9.5            |      8.5       |    517    |580|    409    |456|
-|              7              |     <sup>1</sup> 7.0      |         <sup>1</sup> 6.0         |            9.0            |      8.0       |    554    |646|    431    |484|
-|              8              |            NA             |                NA                |            8.5            |      7.5       |    NA     |NA |    456    |517|
-|              9              |            NA             |                NA                |            8.0            |      7.0       |    NA     |NA |    484    |554|
-|             10              |            NA             |                NA                |            7.5            |      6.5       |    NA     |NA |    517    |596|
-|             11              |            NA             |                NA                |     <sup>1</sup> 7.0      |<sup>1</sup> 6.0|    NA     |NA |    554    |646|
-
-<sup>1</sup> Depleted. (a) Passenger cars; (b) vehicles other than passenger cars with GVWR of 10,000 lbs or less; (c) vehicles with GVWR greater than 10,000 lbs; NA = Not applicable.
+|                                                                                       Stop No.                                                                                        |Average deceleration, FPSPS|Equivalent stopping distance, feet|                         |                |           |   |           |   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------------------|-------------------------|----------------|-----------|---|-----------|---|
+|                                                                              Column 1—brake power assist                                                                              | Column 2—brake power unit |   Column 3—brake power assist    |Column 4—brake power unit|                |           |   |           |   |
+|                                                                                          (a)                                                                                          |        (b) and (c)        |               (a)                |       (b) and (c)       |      (a)       |(b) and (c)|(a)|(b) and (c)|   |
+|                                                                                           1                                                                                           |           16.0            |               14.0               |          16.0           |      13.0      |    242    |277|    242    |298|
+|                                                                                           2                                                                                           |           12.0            |               12.0               |          13.0           |      11.0      |    323    |323|    298    |352|
+|                                                                                           3                                                                                           |           10.0            |               10.0               |          12.0           |      10.0      |    388    |388|    323    |388|
+|                                                                                           4                                                                                           |            9.0            |               8.5                |          11.0           |      9.5       |    431    |456|    352    |409|
+|                                                                                           5                                                                                           |            8.0            |               7.5                |          10.0           |      9.0       |    484    |517|    388    |431|
+|                                                                                           6                                                                                           |            7.5            |               6.7                |           9.5           |      8.5       |    517    |580|    409    |456|
+|                                                                                           7                                                                                           |     <sup>1</sup> 7.0      |         <sup>1</sup> 6.0         |           9.0           |      8.0       |    554    |646|    431    |484|
+|                                                                                           8                                                                                           |            NA             |                NA                |           8.5           |      7.5       |    NA     |NA |    456    |517|
+|                                                                                           9                                                                                           |            NA             |                NA                |           8.0           |      7.0       |    NA     |NA |    484    |554|
+|                                                                                          10                                                                                           |            NA             |                NA                |           7.5           |      6.5       |    NA     |NA |    517    |596|
+|                                                                                          11                                                                                           |            NA             |                NA                |    <sup>1</sup> 7.0     |<sup>1</sup> 6.0|    NA     |NA |    554    |646|
+|<sup>1</sup> Depleted. (a) Passenger cars; (b) vehicles other than passenger cars with GVWR of 10,000 lbs or less; (c) vehicles with GVWR greater than 10,000 lbs; NA = Not applicable.|                           |                                  |                         |                |           |   |           |   |
 
 [41 FR 29696, July 19, 1976]Editorial Note:For Federal Register citations affecting § 571.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

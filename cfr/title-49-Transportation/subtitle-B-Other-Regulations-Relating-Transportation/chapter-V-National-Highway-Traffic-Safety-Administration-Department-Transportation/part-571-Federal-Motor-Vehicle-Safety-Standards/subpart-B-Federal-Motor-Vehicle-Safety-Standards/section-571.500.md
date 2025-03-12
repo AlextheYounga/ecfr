@@ -1,7 +1,5 @@
 ##### § 571.500 Standard No. 500; Low-speed vehicles. #####
 
-Link to an amendment published at 87 FR 34810, June 8, 2022.
-
 S1. *Scope.* This standard specifies requirements for low-speed vehicles.
 
 S2. *Purpose.* The purpose of this standard is to ensure that low-speed vehicles operated on the public streets, roads, and highways are equipped with the minimum motor vehicle equipment appropriate for motor vehicle safety.
@@ -50,7 +48,7 @@ S6.1.2. *Wind speed.* The wind speed is not greater than 5 m/s (11.2 mph).
 
 S6.2. *Road test surface.*
 
-S6.2.1. *Pavement friction.* Unless otherwise specified, the road test surface produces a peak friction coefficient (PFC) of 0.9 when measured using a standard reference test tire that meets the specifications of American Society for Testing and Materials (ASTM) E1136, “Standard Specification for A Radial Standard Reference Test Tire,” in accordance with ASTM Method E 1337-90, “Standard Test Method for Determining Longitudinal Peak Braking Coefficient of Paved Surfaces Using a Standard Reference Test Tire,” at a speed of 64.4 km/h (40.0 mph), without water delivery (incorporated by reference; see 49 CFR 571.5).
+S6.2.1. *Pavement friction.* Unless otherwise specified, the road test surface produces a peak friction coefficient (PFC) of 1.02 when measured using a ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19, at a speed of 64.4 km/h (40.0 mph), without water delivery (incorporated by reference; see § 571.5).
 
 S6.2.2. *Gradient.* The test surface has not more than a 1 percent gradient in the direction of testing and not more than a 2 percent gradient perpendicular to the direction of testing.
 
@@ -72,4 +70,4 @@ S6.3.6. *Battery powered vehicles.* Prior to beginning the performance tests, pr
 
 S7. *Test procedure.* Each vehicle must meet the performance limit specified in S5(a) under the following test procedure. The maximum speed performance is determined by measuring the maximum attainable vehicle speed at any point in a distance of 1.6 km (1.0 mile) from a standing start and repeated in the opposite direction within 30 minutes.
 
-[63 FR 33216, June 17, 1998, as amended at 68 FR 43972, July 25, 2003; 79 FR 19249, Apr. 7, 2014; 81 FR 90521, Dec. 14, 2016]
+[63 FR 33216, June 17, 1998, as amended at 68 FR 43972, July 25, 2003; 79 FR 19249, Apr. 7, 2014; 81 FR 90521, Dec. 14, 2016; 87 FR 34810, June 8, 2022]

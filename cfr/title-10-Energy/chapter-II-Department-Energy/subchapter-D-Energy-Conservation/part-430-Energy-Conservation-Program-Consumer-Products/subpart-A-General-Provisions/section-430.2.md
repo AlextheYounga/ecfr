@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 27480, May 9, 2022.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
 *3-Way incandescent lamp* means an incandescent lamp that -
@@ -100,6 +98,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Battery charger* means a device that charges batteries for consumer products, including battery chargers embedded in other consumer products.
 
+*Black light lamp* means a lamp that is designed and marketed as a black light lamp and is an ultraviolet lamp with the highest radiant power peaks in the UV-A band (315 to 400 nm) of the electromagnetic spectrum.
+
 *Blowout action* means a means of flushing a water closet whereby a jet of water directed at the bowl outlet opening pushes the bowl contents into the upleg, over the weir, and into the gravity drainage system.
 
 *Blowout bowl* means a non-siphonic water closet bowl with an integral flushing rim, a trap at the rear of the bowl, and a visible or concealed jet that operates with a blowout action.
@@ -119,6 +119,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *BR incandescent reflector lamp* means a reflector lamp that has a bulged section below the bulb's major diameter and above its approximate base line as shown in Figure 1 (RB) on page 7 of ANSI C79.1-1994. A BR30 lamp has a lamp wattage of 85 or less than 66 and a BR40 lamp has a lamp wattage of 120 or less.
 
 *Btu* means British thermal unit, which is the quantity of heat required to raise the temperature of one pound of water one degree Fahrenheit.
+
+*Bug lamp* means a lamp that is designed and marketed as a bug lamp, has radiant power peaks above 550 nm on the electromagnetic spectrum, and has a visible yellow coating.
 
 *Built-in compact cooler* means any cooler with a total refrigerated volume less than 7.75 cubic feet and no more than 24 inches in depth, excluding doors, handles, and custom front panels, that is designed, intended, and marketed exclusively to be:
 
@@ -188,6 +190,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Cold temperature fluorescent lamp* means a fluorescent lamp specifically designed to start at −20 °F when used with a ballast conforming to the requirements of ANSI C78.81 (incorporated by reference; see § 430.3) and ANSI C78.901 (incorporated by reference; see § 430.3), and is expressly designated as a cold temperature lamp both in markings on the lamp and in marketing materials, including catalogs, sales literature, and promotional material.
 
+*Color Rendering Index or CRI* means the measured degree of color shift objects undergo when illuminated by a light source as compared with the color of those same objects when illuminated by a reference source of comparable color temperature.
+
 *Colored fluorescent lamp* means a fluorescent lamp designated and marketed as a colored lamp and not designed or marketed for general illumination applications with either of the following characteristics:
 
 (1) A CRI less than 40, as determined according to the method set forth in CIE Publication 13.3 (incorporated by reference; *see* § 430.3); or
@@ -200,7 +204,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) A correlated color temperature of less than 2,500K, or greater than 4,600K, where correlated temperature is computed according to the “Computation of Correlated Color Temperature and Distribution Temperature,” Journal of the Optical Society of America, (incorporated by reference; see § 430.3).
 
-*Color Rendering Index or CRI* means the measured degree of color shift objects undergo when illuminated by a light source as compared with the color of those same objects when illuminated by a reference source of comparable color temperature.
+*Colored lamp* means a colored fluorescent lamp, a colored incandescent lamp, or a lamp designed and marketed as a colored lamp with either of the following characteristics (if multiple modes of operation are possible [such as variable CCT], either of the below characteristics must be maintained throughout all modes of operation):
+
+(1) A CRI less than 40, as determined according to the method set forth in CIE 13.3 (incorporated by reference; see § 430.3); or
+
+(2) A CCT less than 2,500 K or greater than 7,000 K.
 
 *Combination cooler refrigeration product* means any cooler-refrigerator, cooler-refrigerator-freezer, or cooler-freezer.
 
@@ -290,7 +298,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (3) 120 V if the lamp is not marked with a voltage or voltage range.
 
-*Designed and marketed* means that the intended application of the lamp or ballast is clearly stated in all publicly available documents (*e.g.,* product literature, catalogs, and packaging labels). This definition is applicable to terms related to the following covered lighting products: Fluorescent lamp ballasts; fluorescent lamps; general service fluorescent lamps; general service incandescent lamps; general service lamps; incandescent lamps; incandescent reflector lamps; medium base compact fluorescent lamps; and specialty application mercury vapor lamp ballasts.
+*Designed and marketed* means exclusively designed to fulfill the indicated application and, when distributed in commerce, designated and marketed solely for that application, with the designation prominently displayed on the packaging and all publicly available documents (*e.g.,* product literature, catalogs, and packaging labels). This definition applies to the following covered lighting products: Fluorescent lamp ballasts; fluorescent lamps; general service fluorescent lamps; general service incandescent lamps; general service lamps; incandescent lamps; incandescent reflector lamps; compact fluorescent lamps (including medium base compact fluorescent lamps); LED lamps; and specialty application mercury vapor lamp ballasts.
 
 *Detachable battery* means a battery that is -
 
@@ -436,7 +444,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (8) Lamps with a Color Rendering Index of 87 or greater.
 
-*General service incandescent lamp* means a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts; however this definition does not apply to the following incandescent lamps -
+*General service incandescent lamp* means a standard incandescent or halogen type lamp that is intended for general service applications; has a medium screw base; has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and is capable of being operated at a voltage range at least partially within 110 and 130 volts; however, this definition does not apply to the following incandescent lamps -
 
 (1) An appliance lamp;
 
@@ -446,43 +454,87 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (4) A colored lamp;
 
-(5) An infrared lamp;
+(5) A G shape lamp with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3);
 
-(6) A left-hand thread lamp;
+(6) An infrared lamp;
 
-(7) A marine lamp;
+(7) A left-hand thread lamp;
 
-(8) A marine signal service lamp;
+(8) A marine lamp;
 
-(9) A mine service lamp;
+(9) A marine signal service lamp;
 
-(10) A plant light lamp;
+(10) A mine service lamp;
 
-(11) A reflector lamp;
+(11) A plant light lamp;
 
-(12) A rough service lamp;
+(12) An R20 short lamp;
 
-(13) A shatter-resistant lamp (including a shatter-proof lamp and a shatter-protected lamp);
+(13) A sign service lamp;
 
-(14) A sign service lamp;
+(14) A silver bowl lamp;
 
-(15) A silver bowl lamp;
+(15) A showcase lamp; and
 
-(16) A showcase lamp;
+(16) A traffic signal lamp.
 
-(17) A 3-way incandescent lamp;
+*General service lamp* means a lamp that has an ANSI base; is able to operate at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts for integrated lamps (as defined in this section), or is able to operate at any voltage for non-integrated lamps (as defined in this section); has an initial lumen output of greater than or equal to 310 lumens (or 232 lumens for modified spectrum general service incandescent lamps) and less than or equal to 3,300 lumens; is not a light fixture; is not an LED downlight retrofit kit; and is used in general lighting applications. General service lamps include, but are not limited to, general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, and general service organic light emitting diode lamps. General service lamps do not include:
 
-(18) A traffic signal lamp;
+(1) Appliance lamps;
 
-(19) A vibration service lamp;
+(2) Black light lamps;
 
-(20) A G shape lamp (as defined in ANSI C78.20) (incorporated by reference; *see* § 430.3) and ANSI C79.1-2002 (incorporated by reference; *see* § 430.3) with a diameter of 5 inches or more;
+(3) Bug lamps;
 
-(21) A T shape lamp (as defined in ANSI C78.20) (incorporated by reference; *see* § 430.3) and ANSI C79.1-2002 (incorporated by reference; *see* § 430.3) and that uses not more than 40 watts or has a length of more than 10 inches; and
+(4) Colored lamps;
 
-(22) A B, BA, CA, F, G16-1/2, G-25, G30, S, or M-14 lamp (as defined in ANSI C79.1-2002) (incorporated by reference; *see* § 430.3) and ANSI C78.20 (incorporated by reference; *see* § 430.3) of 40 watts or less.
+(5) G shape lamps with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3);
 
-*General service lamp* includes general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, organic light-emitting diode lamps, and any other lamps that the Secretary determines are used to satisfy lighting applications traditionally served by general service incandescent lamps; however, this definition does not apply to any lighting application or bulb shape excluded from the “general service incandescent lamp” definition, or any general service fluorescent lamp or incandescent reflector lamp.
+(6) General service fluorescent lamps;
+
+(7) High intensity discharge lamps;
+
+(8) Infrared lamps;
+
+(9) J, JC, JCD, JCS, JCV, JCX, JD, JS, and JT shape lamps that do not have Edison screw bases;
+
+(10) Lamps that have a wedge base or prefocus base;
+
+(11) Left-hand thread lamps;
+
+(12) Marine lamps;
+
+(13) Marine signal service lamps;
+
+(14) Mine service lamps;
+
+(15) MR shape lamps that have a first number symbol equal to 16 (diameter equal to 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), operate at 12 volts, and have a lumen output greater than or equal to 800;
+
+(16) Other fluorescent lamps;
+
+(17) Plant light lamps;
+
+(18) R20 short lamps;
+
+(19) Reflector lamps (as defined in this section) that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3) and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases;
+
+(20) S shape or G shape lamps that have a first number symbol less than or equal to 12.5 (diameter less than or equal to 1.5625 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3);
+
+(21) Sign service lamps;
+
+(22) Silver bowl lamps;
+
+(23) Showcase lamps;
+
+(24) Specialty MR lamps;
+
+(25) T shape lamps that have a first number symbol less than or equal to 8 (diameter less than or equal to 1 inch) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), nominal overall length less than 12 inches, and that are not compact fluorescent lamps (as defined in this section);
+
+(26) Traffic signal lamps.
+
+*General service light-emitting diode (LED) lamp* means an integrated or non-integrated LED lamp designed for use in general lighting applications (as defined in this section) and that uses light-emitting diodes as the primary source of light.
+
+*General service organic light-emitting diode (OLED) lamp* means an integrated or non- integrated OLED lamp designed for use in general lighting applications (as defined in this section) and that uses organic light-emitting diodes as the primary source of light.
 
 *Gravity central furnace* means a gas fueled furnace which depends primarily on natural convection for circulation of heated air and which is designed to be used in conjunction with a system of ducts.
 
@@ -566,7 +618,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (2) If the time recorded in paragraph (1)(v) of this definition is greater than the summation of the time recorded in paragraph (1)(iii) of this definition and five seconds, the EPS cannot operate the application directly and is an indirect operation EPS.
 
+*Infrared lamp* means a lamp that is designed and marketed as an infrared lamp; has its highest radiant power peaks in the infrared region of the electromagnetic spectrum (770 nm to 1 mm); has a rated wattage of 125 watts or greater; and which has a primary purpose of providing heat.
+
 *Installation of a central air conditioner* means the connection of the refrigerant lines and/or electrical systems to make the central air conditioner operational.
+
+*Integrated lamp* means a lamp that contains all components necessary for the starting and stable operation of the lamp, does not include any replaceable or interchangeable parts, and is connected directly to a branch circuit through an ANSI base and corresponding ANSI standard lamp-holder (socket).
 
 *Integrated light-emitting diode lamp* means an integrated LED lamp as defined in ANSI/IES RP-16 (incorporated by reference; see § 430.3).
 
@@ -578,11 +634,17 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Lamps primarily designed to produce radiation in the ultraviolet region of the spectrum* means fluorescent lamps that primarily emit light in the portion of the electromagnetic spectrum where light has a wavelength between 10 and 400 nanometers.
 
+*LED Downlight Retrofit Kit* means a product designed and marketed to install into an existing downlight, replacing the existing light source and related electrical components, typically employing an ANSI standard lamp base, either integrated or connected to the downlight retrofit by wire leads, and is a retrofit kit. LED downlight retrofit kit does not include integrated lamps or non-integrated lamps.
+
+*Left-hand thread lamp* means a lamp with direction of threads on the lamp base oriented in the left-hand direction.
+
 *Lifetime of a compact fluorescent lamp* means the length of operating time between first use and failure of 50 percent of the sample units (as specified in § 429.35(a)(1) of this chapter), determined in accordance with the test procedures described in section 3.3 of appendix W to subpart B of this part.
 
 *Lifetime of an integrated light-emitting diode lamp* means the length of operating time between first use and failure of 50 percent of the sample units (as required by § 429.56(a)(1) of this chapter), when measured in accordance with the test procedures described in section 4 of appendix BB to subpart B of this part.
 
 *Light-emitting diode* or *LED* means a p-n junction solid state device of which the radiated output, either in the infrared region, the visible region, or the ultraviolet region, is a function of the physical construction, material used, and exciting current of the device.
+
+*Light fixture* means a complete lighting unit consisting of light source(s) and ballast(s) or driver(s) (when applicable) together with the parts designed to distribute the light, to position and protect the light source, and to connect the light source(s) to the power supply.
 
 *Low consumption* has the meaning given such a term in ASME A112.19.2-2008. (*see* § 430.3)
 
@@ -597,6 +659,10 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Manufacture* means to manufacture, produce, assemble, or import.
 
 *Manufacturer* means any person who manufactures a consumer product.
+
+*Marine lamp* means a lamp that is designed and marketed for use on boats and can operate at or between 12 volts and 13.5 volts.
+
+*Marine signal service lamp* means a lamp that is designed and marketed for marine signal service applications.
 
 *Medium base compact fluorescent lamp* means an integrally ballasted fluorescent lamp with a medium screw base, a rated input voltage range of 115 to 130 volts and which is designed as a direct replacement for a general service incandescent lamp; however, the term does not include -
 
@@ -616,6 +682,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Microwave oven* means a category of cooking products which is a household cooking appliance consisting of a compartment designed to cook or heat food by means of microwave energy, including microwave ovens with or without thermal elements designed for surface browning of food and convection microwave ovens. This includes any microwave oven(s) component of a combined cooking product.
 
+*Mine service lamp* means a lamp that is designed and marketed for mine service applications.
+
 *Miscellaneous refrigeration product* means a consumer refrigeration product other than a refrigerator, refrigerator-freezer, or freezer, which includes coolers and combination cooler refrigeration products.
 
 *Mobile home furnace* means a direct vent furnace that is designed for use only in mobile homes.
@@ -631,6 +699,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (B) Has a color point with (x,y) chromaticity coordinates on the C.I.E. 1931 chromaticity diagram, figure 2, page 3 of IESNA LM-16 (incorporated by reference; *see* § 430.3) that lies at least 4 MacAdam steps, as referenced in IESNA LM-16, distant from the color point of a clear lamp with the same filament and bulb shape, operated at the same rated voltage and wattage.
 
 *Natural gas* means natural gas as defined by the Federal Power Commission.
+
+*Non-integrated lamp* means a lamp that is not an integrated lamp.
 
 *Off mode* means the condition in which an energy using product -
 
@@ -650,6 +720,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Other cooking products* means any category of cooking products other than conventional cooking tops, conventional ovens, and microwave ovens.
 
+*Other fluorescent lamp* means low pressure mercury electric-discharge sources in which a fluorescing coating transforms some of the ultraviolet energy generated by the mercury discharge into light and include circline lamps and include double-ended lamps with the following characteristics: Lengths from one to eight feet; designed for cold temperature applications; designed for use in reprographic equipment; designed to produce radiation in the ultraviolet region of the spectrum; impact-resistant; reflectorized or aperture; or a CRI of 87 or greater.
+
 *Outdoor furnace or boiler* is a furnace or boiler normally intended for installation out-of-doors or in an unheated space (such as an attic or a crawl space).
 
 *Packaged terminal air conditioner* means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder and intended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability energy.
@@ -658,7 +730,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Person* includes any individual, corporation, company, association, firm, partnership, society, trust, joint venture or joint stock company, the government, and any agency of the United States or any State or political subdivision thereof.
 
+*Pin base lamp* means a lamp that uses a base type designated as a single pin base or multiple pin base system.
+
 *Pin-based* means (1) the base of a fluorescent lamp, that is not integrally ballasted and that has a plug-in lamp base, including multi-tube, multibend, spiral, and circline types, or (2) a socket that holds such a lamp.
+
+*Plant light lamp* means a lamp that is designed to promote plant growth by emitting its highest radiant power peaks in the regions of the electromagnetic spectrum that promote photosynthesis: Blue (440 nm to 490 nm) and/or red (620 to 740 nm), and is designed and marketed for plant growing applications.
 
 *Pool heater* means an appliance designed for heating nonpotable water contained at atmospheric pressure, including heating water in swimming pools, spas, hot tubs and similar applications.
 
@@ -705,6 +781,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (iii) If the lamp is neither listed in one of the ANSI standards referenced in (1)(i) of this definition, nor a residential straight-shaped lamp, the electrical power of a lamp when measured according to the test procedures outlined in appendix R to subpart B of this part.
 
 (2) With respect to general service incandescent lamps and incandescent reflector lamps, the electrical power measured according to the test procedures outlined in appendix R to subpart B of this part.
+
+*Reflector lamp* means a lamp that has an R, PAR, BPAR, BR, ER, MR, or similar bulb shape as defined in ANSI C78.20-2003 (incorporated by reference; see § 430.3) and ANSI C79.1-2002 (incorporated by reference; see § 430.3) and is used to provide directional light.
 
 *Reflectorized or aperture lamp* means a fluorescent lamp that contains an inner reflective coating on the bulb to direct light.
 
@@ -803,7 +881,13 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) Marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
 
+*Showcase lamp* means a lamp that has a T shape as specified in ANSI C78.20-2003 (incorporated by reference; see § 430.3) and ANSI C79.1-2002 (incorporated by reference; see § 430.3), is designed and marketed as a showcase lamp, and has a maximum rated wattage of 75 watts.
+
 *Showerhead* means a component or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, excluding safety shower showerheads.
+
+*Sign service lamp* means a vacuum type or gas-filled lamp that has sufficiently low bulb temperature to permit exposed outdoor use on high-speed flashing circuits, is designed and marketed as a sign service lamp, and has a maximum rated wattage of 15 watts.
+
+*Silver bowl lamp* means a lamp that has an opaque reflective coating applied directly to part of the bulb surface that reflects light toward the lamp base and that is designed and marketed as a silver bowl lamp.
 
 *Single-duct portable air conditioner* means a portable air conditioner that draws all of the condenser inlet air from the conditioned space without the means of a duct, and discharges the condenser outlet air outside the conditioned space through a single duct attached to an adjustable window bracket.
 
@@ -848,6 +932,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (i) Provides that the specialty application mercury vapor lamp ballast is ‘For specialty applications only, not for general illumination’; and
 
 (ii) Specifies the specific applications for which the ballast is designed.
+
+*Specialty MR lamp* means a lamp that has an MR shape as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), a diameter of less than or equal to 2.25 inches, a lifetime of less than or equal to 300 hours, and that is designed and marketed for a specialty application.
 
 *Standby mode* means the condition in which an energy-using product -
 
@@ -902,6 +988,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (5) Has a combined outdoor air exchange area of less than 800 square inches (split systems) or less than 1,210 square inches (single packaged systems) as measured on the surface described in paragraph (4) of this definition.
 
 *Torchiere* means a portable electric lamp with a reflector bowl that directs light upward to give indirect illumination.
+
+*Traffic signal lamp* means a lamp that is designed and marketed for traffic signal applications and has a lifetime of 8,000 hours or greater.
 
 *Trough-type urinal* means a urinal designed for simultaneous use by two or more people.
 

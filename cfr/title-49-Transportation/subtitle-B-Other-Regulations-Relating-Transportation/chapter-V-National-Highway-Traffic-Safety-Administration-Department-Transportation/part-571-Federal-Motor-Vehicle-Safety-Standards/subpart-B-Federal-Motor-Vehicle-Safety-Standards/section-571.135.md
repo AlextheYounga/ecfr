@@ -1,7 +1,5 @@
 ##### § 571.135 Standard No. 135; Light vehicle brake systems. #####
 
-Link to an amendment published at 87 FR 34810, June 8, 2022.
-
 S1. *Scope.* This standard specifies requirements for service brake and associated parking brake systems.
 
 S2. *Purpose.* The purpose of this standard is to ensure safe braking performance under normal and emergency driving conditions.
@@ -146,7 +144,7 @@ S5.5.5. *Labeling.* (a) Each visual indicator shall display a word or words in a
 
 (b) Vehicles manufactured with a split service brake system may use a common brake warning indicator to indicate two or more of the functions described in S5.5.1(a) through S5.5.1(g). If a common indicator is used, it shall display the word “Brake.”
 
-(c) A vehicle manufactured without a split service brake system shall use a separate indicator to indicate the failure condition in S5.5.1(a). This indicator shall display the words “STOP - BRAKE FAILURE” in block capital letters not less than 6.4 mm (1/4 inch) in height.
+(c) A vehicle manufactured without a split service brake system shall use a separate indicator to indicate the failure condition in S5.5.1(a). This indicator shall display the words “STOP—BRAKE FAILURE” in block capital letters not less than 6.4 mm (1/4 inch) in height.
 
 (d) If separate indicators are used for one or more of the conditions described in S5.5.1(a) through S5.5.1(g), the indicators shall display the following wording:
 
@@ -180,7 +178,7 @@ S6.1.2. *Wind speed.* The wind speed is not greater than 5 m/s (11.2 mph).
 
 S6.2. *Road test surface.*
 
-S6.2.1. *Pavement friction.* Unless otherwise specified, the road test surface produces a peak friction coefficient (PFC) of 0.9 when measured using an ASTM E1136-93 (Reapproved 2003) (incorporated by reference, see § 571.5) standard reference test tire, in accordance with ASTM E1337-90 (Reapproved 2008) (incorporated by reference, see § 571.5), at a speed of 64.4 km/h (40 mph), without water delivery.
+S6.2.1. *Pavement friction.* Unless otherwise specified, the road test surface produces a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 64.4 km/h (40 mph), without water delivery.
 
 S6.2.2. *Gradient.* Except for the parking brake gradient holding test, the test surface has no more than a 1% gradient in the direction of testing and no more than a 2% gradient perpendicular to the direction of testing.
 
@@ -292,7 +290,7 @@ S6.5.6. *Initial brake temperature (IBT).* If the lower limit of the specified I
 
 S7. *Road test procedures and performance requirements.* Each vehicle shall meet all the applicable requirements of this section, when tested according to the conditions and procedures set forth below and in S6, in the sequence specified in Table 1:
 
-Table 1 - Road Test Sequence
+Table 1—Road Test Sequence
 
 |        Testing order        |Section No.|
 |-----------------------------|-----------|
@@ -442,7 +440,7 @@ S7.4.3. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 �
 
 (e) Number of runs: With the vehicle at LLVW, run five stops from a speed of 100 km/h (62.1 mph) and five stops from a speed of 50 km/h (31.1 mph), while alternating between the two test speeds after each stop. With the vehicle at GVWR, repeat the five stops at each test speed while alternating between the two test speeds.
 
-(f) Test surface: PFC of at least 0.9.
+(f) Test surface: PFC of at least 1.02.
 
 (g) Data to be recorded. The following information must be automatically recorded in phase continuously throughout each test run such that values of the variables can be cross referenced in real time:
 
@@ -504,7 +502,7 @@ S7.5.2. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 �
 
 (e) Number of runs: 6 stops.
 
-(f) Test surface: PFC of 0.9.
+(f) Test surface: PFC of 1.02.
 
 (g) For each stop, bring the vehicle to test speed and then stop the vehicle in the shortest possible distance under the specified conditions.
 
@@ -528,7 +526,7 @@ S7.6.2. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 �
 
 (e) Number of runs: 6 stops.
 
-(f) Test surface: PFC of 0.9.
+(f) Test surface: PFC of 1.02.
 
 S7.6.3. *Performance requirements.*
 
@@ -556,7 +554,7 @@ S7.7.3. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 �
 
 (e) Number of runs: 6 stops.
 
-(f) Test surface: PFC of 0.9.
+(f) Test surface: PFC of 1.02.
 
 (g) All system reservoirs (brake power and/or assist units) are fully charged and the vehicle's engine is off (not running) at the beginning of each stop.
 
@@ -582,7 +580,7 @@ S7.8.2. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 �
 
 (e) Number of runs: 6 stops.
 
-(f) Test surface: PFC of 0.9.
+(f) Test surface: PFC of 1.02.
 
 (g) Functional failure simulation:
 
@@ -616,7 +614,7 @@ S7.9.2. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 �
 
 (e) Number of runs: 6 stops.
 
-(f) Test surface: PFC of 0.9.
+(f) Test surface: PFC of 1.02.
 
 (g) Functional failure simulation:
 
@@ -650,7 +648,7 @@ S7.10.3. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 
 
 (d) Wheel lockup: No lockup of any wheel for longer than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
-(e) Test surface: PFC of 0.9.
+(e) Test surface: PFC of 1.02.
 
 (f) Alter the service brake system to produce any single failure. For a hydraulic circuit, this may be any single rupture or leakage type failure, other than a structural failure of a housing that is common to two or more subsystems. For a vehicle in which the brake signal is transmitted electrically between the brake pedal and some or all of the foundation brakes, regardless of the means of actuation of the foundation brakes, this may be any single failure in any circuit that electrically transmits the brake signal. For an EV with RBS that is part of the service brake system, this may be any single failure in the RBS.
 
@@ -692,7 +690,7 @@ S7.11.3. *Test conditions and procedures.* (a) IBT: ≤65 °C (149 °F), ≤100 
 
 (e) Number of runs: 6 stops.
 
-(f) Test surface: PFC of 0.9.
+(f) Test surface: PFC of 1.02.
 
 (g) Disconnect the primary source of power for one brake power assist unit or brake power unit, or one of the brake power unit or brake power assist unit subsystems if two or more subsystems are provided.
 
@@ -912,4 +910,4 @@ S7.17. *Final Inspection.* Inspect:
 
 (d) The brake system indicators, for compliance with operation in various key positions, lens color, labeling, and location, in accordance with S5.5.
 
-[60 FR 6434, Feb. 2, 1995, as amended at 60 FR 37847, July 24, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 46917, Sept. 5, 1997; 62 FR 51070, Sept. 30, 1997; 65 FR 6332, Feb. 9, 2000; 70 FR 37713, June 30, 2005; 77 FR 760, Jan. 6, 2012; 86 FR 1300, Jan. 8, 2020]
+[60 FR 6434, Feb. 2, 1995, as amended at 60 FR 37847, July 24, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 46917, Sept. 5, 1997; 62 FR 51070, Sept. 30, 1997; 65 FR 6332, Feb. 9, 2000; 70 FR 37713, June 30, 2005; 77 FR 760, Jan. 6, 2012; 86 FR 1300, Jan. 8, 2020; 87 FR 34810, June 8, 2022]

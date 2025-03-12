@@ -98,17 +98,17 @@ Treadwear 200 Traction AA Temperature A
 
 (vii) Adjust wheel alignment to the midpoint of the manufacturer's specifications, unless adjustment to the midpoint is not recommended by the manufacturer; in that case, adjust the alignment according to the manufacturer's recommended setting. In all cases, the setting is within the tolerance specified by the manufacturer of the alignment machine.
 
-(viii) Drive the convoy on the test roadway for 6,400 miles.
+(viii) Drive the convoy on the test roadway for 16 circuits (approximately 6,400 miles).
 
-(A) After each 400 miles, rotate each vehicle's tires by moving each front tire to the same side of the rear axle and each rear tire to the opposite side of the front axle. Visually inspect each tire for treadwear anomalies.
+(A) After every circuit (approximately 400 miles), rotate each vehicle's tires by moving each front tire to the same side of the rear axle and each rear tire to the opposite side of the front axle. Visually inspect each tire for treadwear anomalies.
 
-(B) After each 800 miles, rotate the vehicles in the convoy by moving the last vehicle to the lead position. Do not rotate driver positions within the convoy. In four-car convoys, vehicle one shall become vehicle two, vehicle two shall become vehicle three, vehicle three shall become vehicle four, and vehicle four shall become vehicle one.
+(B) After every second circuit (approximately 800 miles), rotate the vehicles in the convoy by moving the last vehicle to the lead position. Do not rotate driver positions within the convoy. In four-car convoys, vehicle one shall become vehicle two, vehicle two shall become vehicle three, vehicle three shall become vehicle four, and vehicle four shall become vehicle one.
 
-(C) After each 800 miles, if necessary, adjust wheel alignment to the midpoint of the vehicle manufacturer's specification, unless adjustment to the midpoint is not recommended by the manufacturer; in that case, adjust the alignment to the manufacturer's recommended setting. In all cases, the setting is within the tolerance specified by the manufacturer of the alignment machine.
+(C) After every second circuit (approximately 800 miles), if necessary, adjust wheel alignment to the midpoint of the vehicle manufacturer's specification, unless adjustment to the midpoint is not recommended by the manufacturer; in that case, adjust the alignment to the manufacturer's recommended setting. In all cases, the setting is within the tolerance specified by the manufacturer of the alignment machine.
 
-(D) After each 800 miles, if determining the projected mileage by the 9-point method set forth in (e)(2)(ix)(A)(1), measure the average tread depth of each tire following the procedure set forth in paragraph (e)(2)(vi) of this section.
+(D) After every second circuit (approximately 800 miles), if determining the projected mileage by the 9-point method set forth in paragraph (e)(2)(ix)(A)(*1*) of this section, measure the average tread depth of each tire following the procedure set forth in paragraph (e)(2)(vi) of this section.
 
-(E) After each 1,600 miles, move the complete set of four tires to the following vehicle. Move the tires on the last vehicle to the lead vehicle. In moving the tires, rotate them as set forth in (e)(2)(viii)(A) of this section.
+(E) After every fourth circuit (approximately 1,600 miles), move the complete set of four tires to the following vehicle. Move the tires on the last vehicle to the lead vehicle. In moving the tires, rotate them as set forth in paragraph (e)(2)(viii)(A) of this section.
 
 (F) At the end of the test, measure the tread depth of each tire pursuant to the procedure set forth in paragraph (e)(2)(vi) of this section.
 
@@ -118,9 +118,11 @@ Treadwear 200 Traction AA Temperature A
 
 ![](/graphics/ec01au91.184.gif)Where:y = average tread depth in milsx = miles after break-in,a = y intercept of regression line (reference tread depth) in mils, calculated using the method of least squares; andb = the slope of the regression line in mils of tread depth per 1,000 miles, calculated using the method of least squares. This slope will be negative in value. The tire's wear rate is defined as the absolute value of the slope of the regression line.
 
-(*2*) *Two-Point Arithmetical Method.* For each course monitoring and candidate tire in the convoy, using the average tread depth measurements obtained in accordance with paragraph (e)(2)(vi) and (e)(2)(viii)(F) of this section and the corresponding mileages as data points, determine the slope (m) of the tire's wear in mils of tread depth per 1,000 miles by the following formula:
+(*2*) *Two-point arithmetical method.* (*i*) For each course monitoring and candidate tire in the convoy, using the average tread depth measurements obtained in accordance with paragraphs (e)(2)(vi) and (e)(2)(viii)(F) of this section and the corresponding mileages as data points, determine the slope (m) of the tire's wear in mils of tread depth per 1,000 miles by the following formula:
 
-![](/graphics/ec01au91.185.gif)Where:Yo = average tread depth after break-in, milsY1 = average tread depth at 6,400 miles, milsXo = 0 miles (after break-in).X1 = 6,400 miles of travelThis slope (m) will be negative in value. The tire's wear rate is defined as the slope (m) expressed in mils per 1,000 miles.
+![](/graphics/er08jn22.012.gif)Where:Yo = average tread depth after break-in, mils.Y1 = average tread depth after 16 circuits (approximately 6,400 miles), mils.Xo = 0 miles (after break-in).X1 = Total mileage of travel after 16 circuits (approximately 6,400 miles).
+
+(*ii*) This slope (m) will be negative in value. The tire's wear rate is defined as the slope (m) expressed in mils per 1,000 miles.
 
 (B) Average the wear rates of the four course monitoring tires as determined in accordance with paragraph (e)(2)(ix)(A) of this section.
 
@@ -128,7 +130,7 @@ Treadwear 200 Traction AA Temperature A
 
 Note to paragraph (e)(2)(ix)(C):
 
-The base wear rate for the course monitoring tires will be obtained by the government by running the tire specified in ASTM E 1136 (incorporated by reference, *see* § 575.3) course monitoring tires for 6,400 miles over the San Angelo, Texas, UTQGS test route 4 times per year, then using the average wear rate from the last 4 quarterly CMT tests for the base course wear rate calculation. Each new base course wear rate will be published in the Federal Register. The course monitoring tires used in a test convoy must be no more than one year old at the commencement of the test and must be used within two months after removal from storage.
+The ASTM F2493 standard reference test tire is the course monitoring tire (CMT). The base wear rate for the CMTs will be obtained by the Government by running the course monitoring tires for 16 circuits over the San Angelo, Texas, UTQGS test route 4 times per year, then using the average wear rate from the last 4 quarterly CMT tests for the base course wear rate calculation. Each new base course wear rate will be published in Docket No. NHTSA-2001-9395. The course monitoring tires used in a test convoy must be no more than one-year-old at the commencement of the test and must be used within four months after removal from storage.
 
 (D) Determine the adjusted wear rate for each candidate tire by multiplying its wear rate determined in accordance with paragraph (e)(2)(ix)(A) of this section by the course severity adjustment factor determined in accordance with paragraph (e)(2)(ix)(C) of this section.
 
@@ -142,11 +144,9 @@ The base wear rate for the course monitoring tires will be obtained by the gover
 
 ![](/graphics/er07se99.000.gif)Where:Yo = average tread depth after break-in, milsmc = the adjusted wear rate for the candidate tires as determined in accordance with paragraph (e)(2)(ix)(D) of this section.
 
-(F) Compute the grade (P) of the NHTSA nominal treadwear value for each candidate tire by using the following formula:
+(F) Compute the grade (P) of the of the NHTSA nominal treadwear value for each candidate tire by using the following formula:
 
-P = Projected mileage × base course wear raten/402
-
-Where base course wear raten = new base course wear rate, *i.e.,* average treadwear of the last 4 quarterly course monitoring tire tests conducted by NHTSA.
+![](/graphics/er08jn22.013.gif)Where base course wear raten = new base course wear rate, *i.e.,* average treadwear of the last 4 quarterly course monitoring tire tests conducted by NHTSA.
 
 Round off the percentage to the nearest lower 20-point increment.
 

@@ -1,7 +1,5 @@
 ##### § 571.126 Standard No. 126; Electronic stability control systems for light vehicles. #####
 
-Link to an amendment published at 87 FR 34810, June 8, 2022.
-
 S1. *Scope.* This standard establishes performance and equipment requirements for electronic stability control (ESC) systems.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths and injuries that result from crashes in which the driver loses directional control of the vehicle, including those resulting in vehicle rollover.
@@ -142,7 +140,7 @@ S6.2 *Road test surface.*
 
 S6.2.1 The tests are conducted on a dry, uniform, solid-paved surface. Surfaces with irregularities and undulations, such as dips and large cracks, are unsuitable.
 
-S6.2.2 The road test surface must produce a peak friction coefficient (PFC) of 0.9 when measured using an ASTM E1136-93 (Reapproved 2003) (incorporated by reference, see § 571.5) standard reference test tire, in accordance with ASTM E1337-90 (Reapproved 2008) (incorporated by reference, see § 571.5) at a speed of 64.4 km/h (40 mph), without water delivery.
+S6.2.2 The road test surface must produce a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5) at a speed of 64.4 km/h (40 mph), without water delivery.
 
 S6.2.3 The test surface has a consistent slope between level and 1%.
 
@@ -214,7 +212,7 @@ S7.10.3 As of September 1, 2011, stop the vehicle, deactivate the ignition locki
 
 S7.10.4 Deactivate the ignition locking system to the “Off” or “Lock” position. Restore the ESC system to normal operation, activate the ignition system to the “Start” position and start the engine. Place the vehicle in a forward gear and obtain a vehicle speed of 48 ±8 km/h (30 ±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake. Verify that within two minutes after obtaining this vehicle speed that the ESC malfunction indicator has extinguished.
 
-S7.11 *Post Data Processing - Calculations for Performance Metrics.* Yaw rate and lateral displacement measurements and calculations must be processed utilizing the following techniques:
+S7.11 *Post Data Processing—Calculations for Performance Metrics.* Yaw rate and lateral displacement measurements and calculations must be processed utilizing the following techniques:
 
 S7.11.1 Raw steering wheel angle data is filtered with a 12-pole phaseless Butterworth filter and a cutoff frequency of 10Hz. The filtered data is then zeroed to remove sensor offset utilizing static pretest data.
 
@@ -298,4 +296,4 @@ S8.8 *Final-stage manufacturers and alterers.*
 
 Vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having previously been certified in accordance with part 567 of this chapter are not subject to the requirements of S8.1 through S8.5. Instead, all vehicles produced by these manufacturers on or after September 1, 2012 must comply with this standard.
 
-![](/graphics/er06ap07.006.gif)[72 FR 17310, Apr. 6, 2007, as amended at 72 FR 34410, June 22, 2007; 73 FR 54542, Sept. 22, 2008; 76 FR 55833, Sept. 9, 2011; 77 FR 760, Jan. 6, 2012]
+![](/graphics/er06ap07.006.gif)[72 FR 17310, Apr. 6, 2007, as amended at 72 FR 34410, June 22, 2007; 73 FR 54542, Sept. 22, 2008; 76 FR 55833, Sept. 9, 2011; 77 FR 760, Jan. 6, 2012; 87 FR 34810, June 8, 2022]

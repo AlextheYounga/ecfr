@@ -1,8 +1,8 @@
 ##### § 571.5 Matter incorporated by reference. #####
 
-Link to an amendment published at 87 FR 34808, June 8, 2022.Link to an amendment published at 87 FR 39309, June 30, 2022.
+Link to an amendment published at 87 FR 39309, June 30, 2022.
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at NHTSA, 1200 New Jersey Avenue SE., Washington, DC 20590, and at the National Archives and Records Administration (NARA). For information on the availability of this material at NHTSA, or if you experience difficulty obtaining the standards referenced below, contact NHTSA Office of Technical Information Services, phone number (202) 366-2588. For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at NHTSA and at the National Archives and Records Administration (NARA). Contact NHTSA at: NHTSA, 1200 New Jersey Avenue SE, Washington, DC 20590; Phone: (202) 366-2588; website: *https://www.nhtsa.gov/about-nhtsa/electronic-reading-room.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*. The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *http://www.aatcc.org.*
 
@@ -88,11 +88,11 @@ Link to an amendment published at 87 FR 34808, June 8, 2022.Link to an amendment
 
 (32) ASTM E308-66, “Standard Practice for Spectrophotometry and Description of Color in CIE 1931 System,” reapproved 1981, into § 571.108.
 
-(33) ASTM E1136-93 (Reapproved 2003), “Standard Specification for a Radial Standard Reference Test Tire,” approved March 15, 1993, into §§ 571.105; 571.121; 571.122; 571.126; 571.135; 571.136; 571.139; 571.500.
+(33) [Reserved]
 
-(34) ASTM E1337-90 (Reapproved 2008), “Standard Test Method for Determining Longitudinal Peak Braking Coefficient of Paved Surfaces Using a Standard Reference Test Tire,” approved June 1, 2008, into §§ 571.105; 571.121; 571.122; 571.126; 571.135; 571.136; 571.500.
+(34) ASTM E1337-19, “Standard Test Method for Determining Longitudinal Peak Braking Coefficient (PBC) of Paved Surfaces Using Standard Reference Test Tire,” approved December 1, 2019, into §§ 571.105; 571.121; 571.122; 571.126; 571.135; 571.136; 571.500.
 
-(35) ASTM F1805-00, “Standard Test Method for Single Wheel Driving Traction in a Straight Line on Snow- and Ice-Covered Surfaces,” approved November 10, 2000, into § 571.139.
+(35) ASTM F1805-20, “Standard Test Method for Single Wheel Driving Traction in a Straight Line on Snow- and Ice-Covered Surfaces,” approved May 1, 2020; into § 571.139.
 
 (36) ASTM G23-81, “Standard Practice for Generating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials,” approved March 26, 1981, into § 571.209.
 
@@ -260,4 +260,4 @@ Link to an amendment published at 87 FR 34808, June 8, 2022.Link to an amendment
 
 (2) UNECE Regulation 48 “Uniform Provisions Concerning the Approval of Vehicles With Regard to the Installation of Lighting and Light-Signaling Devices,” E/ECE/324-E/ECE/TRANS/505, Rev.1/Add.47/Rev.1/Corr.2 (February 26, 1996), into § 571.108.
 
-[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016]
+[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022]

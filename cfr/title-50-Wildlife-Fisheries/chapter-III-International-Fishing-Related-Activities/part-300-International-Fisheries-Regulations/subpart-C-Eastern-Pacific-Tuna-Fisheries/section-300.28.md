@@ -1,5 +1,7 @@
 ##### § 300.28 FAD restrictions. #####
 
+Link to an amendment published at 87 FR 40741, July 8, 2022.
+
 (a) *FAD identification requirements for purse seine vessels.* (1) For each FAD deployed or modified on or after January 1, 2017, in the IATTC Convention Area, the vessel owner or operator must either: obtain a unique code from HMS Branch; or use an existing unique identifier associated with the FAD (*e.g.,* the manufacturer identification code for the attached buoy).
 
 (2) U.S. purse seine vessel owners and operators shall ensure the characters of the unique code or unique identifier be marked indelibly at least five centimeters in height on the upper portion of the attached radio or satellite buoy in a location that does not cover the solar cells used to power the equipment. For FADs without attached radio or satellite buoys, the characters shall be on the uppermost or emergent top portion of the FAD. The vessel owner or operator shall ensure the marking is visible at all times during daylight. In circumstances where the on-board observer is unable to view the code, the captain or crew shall assist the observer (*e.g.,* by providing the FAD identification code to the observer).

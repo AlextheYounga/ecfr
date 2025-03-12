@@ -1,5 +1,7 @@
 ##### § 300.24 Prohibitions. #####
 
+Link to an amendment published at 87 FR 40740, July 8, 2022.
+
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.

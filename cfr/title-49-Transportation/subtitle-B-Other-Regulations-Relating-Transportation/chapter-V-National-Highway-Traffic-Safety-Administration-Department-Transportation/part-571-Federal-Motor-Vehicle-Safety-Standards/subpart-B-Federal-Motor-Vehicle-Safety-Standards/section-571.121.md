@@ -1,7 +1,5 @@
 ##### § 571.121 Standard No. 121; Air brake systems. #####
 
-Link to an amendment published at 87 FR 34808, June 8, 2022.
-
 S1. *Scope.* This standard establishes performance and equipment requirements for braking systems on vehicles equipped with air brake systems.
 
 S2. *Purpose.* The purpose of this standard is to insure safe braking performance under normal and emergency conditions.
@@ -172,9 +170,9 @@ S5.2.3.3 *Antilock malfunction indicator.*
 
 (d) The lamp shall be illuminated whenever power is supplied to the antilock brake system and there is a malfunction that affects the generation or transmission of response or control signals in the trailer's antilock brake system. The lamp shall remain illuminated as long as such a malfunction exists and power is supplied to the antilock brake system. Each message about the existence of such a malfunction shall be stored in the antilock brake system whenever power is no longer supplied to the system. The lamp shall be automatically reactivated when power is again supplied to the trailer's antilock brake system. The lamp shall also be activated as a check of lamp function whenever power is first supplied to the antilock brake system and the vehicle is stationary. The lamp shall be deactivated at the end of the check of lamp function, unless there is a malfunction or a message about a malfunction that existed when power was last supplied to the antilock brake system.
 
-S5.3 Service brakes - road tests. The service brake system on each truck tractor shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor shall) manufactured before July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, and S5.3.4 when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006 shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each trailer shall, under the conditions of S6, meet the requirements of S5.3.3, S5.3.4, and S5.3.5 when tested without adjustments other than those specified in this standard. However, a heavy hauler trailer and the truck and trailer portions of an auto transporter need not met the requirements of S5.3.
+S5.3 Service brakes—road tests. The service brake system on each truck tractor shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor shall) manufactured before July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, and S5.3.4 when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006 shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each trailer shall, under the conditions of S6, meet the requirements of S5.3.3, S5.3.4, and S5.3.5 when tested without adjustments other than those specified in this standard. However, a heavy hauler trailer and the truck and trailer portions of an auto transporter need not met the requirements of S5.3.
 
-S5.3.1 *Stopping distance - trucks and buses.* When stopped six times for each combination of vehicle type, weight, and speed specified in S5.3.1.1, in the sequence specified in Table I, each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, shall stop at least once in not more than the distance specified in Table II, measured from the point at which movement of the service brake control begins, without any part of the vehicle leaving the roadway, and with wheel lockup permitted only as follows:
+S5.3.1 *Stopping distance—trucks and buses.* When stopped six times for each combination of vehicle type, weight, and speed specified in S5.3.1.1, in the sequence specified in Table I, each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, shall stop at least once in not more than the distance specified in Table II, measured from the point at which movement of the service brake control begins, without any part of the vehicle leaving the roadway, and with wheel lockup permitted only as follows:
 
 (a) At vehicle speeds above 20 mph, any wheel on a nonsteerable axle other than the two rearmost nonliftable, nonsteerable axles may lock up, for any duration. The wheels on the two rearmost nonliftable, nonsteerable axles may lock up according to S5.3.1(b).
 
@@ -184,7 +182,7 @@ S5.3.1 *Stopping distance - trucks and buses.* When stopped six times for each c
 
 (d) At vehicle speeds of 20 mph or less, any wheel may lock up for any duration.
 
-S5.3.1.1 Stop the vehicle from 60 mph on a surface with a peak friction coefficient of 0.9 with the vehicle loaded as follows:
+S5.3.1.1 Stop the vehicle from 60 mph on a surface with a peak friction coefficient of 1.02 with the vehicle loaded as follows:
 
 (a) Loaded to its GVWR so that the load on each axle, measured at the tire-ground interface, is most nearly proportional to the axles' respective GAWRs, without exceeding the GAWR of any axle.
 
@@ -206,7 +204,7 @@ S5.3.4.1(a) With an initial service brake chamber air pressure of 95 psi, the ai
 
 (b) For vehicles designed to tow another vehicle equipped with air brakes, the pressure in the 50-cubic-inch test reservoir referred to in S5.3.4.1(a) shall, when measured from the first movement of the service brake control, fall to 5 psi in not more than 0.75 seconds in the case of trucks and buses, 1.10 seconds in the case of trailer converter dollies, and 1.00 seconds in the case of trailers other than trailer converter dollies.
 
-S5.3.5 *Control signal pressure differential - converter dollies and trailers designed to tow another vehicle equipped with air brakes.*
+S5.3.5 *Control signal pressure differential—converter dollies and trailers designed to tow another vehicle equipped with air brakes.*
 
 (a) For a trailer designed to tow another vehicle equipped with air brakes, the pressure differential between the control line input coupling and a 50-cubic-inch test reservoir attached to the control line output coupling shall not exceed the values specified in S5.3.5(a) (1), (2), and (3) under the conditions specified in S5.3.5(b) (1) through (4):
 
@@ -216,7 +214,7 @@ S5.3.5 *Control signal pressure differential - converter dollies and trailers de
 
 (3) Not more than a 5-percent differential at any input pressure equal to or greater than 40 psi.
 
-(b) The requirements in S5.3.5(a) shall be met -
+(b) The requirements in S5.3.5(a) shall be met—
 
 (1) When the pressure at the input coupling is steady, increasing or decreasing;
 
@@ -226,9 +224,9 @@ S5.3.5 *Control signal pressure differential - converter dollies and trailers de
 
 (4) Operating the trailer test rig in the same manner and under the same conditions as it is operated during testing to measure brake actuation and release times, as specified in S5.3.3 and S5.3.4, except for the installation of the orifice in the control line to restrict airflow rate.
 
-S5.3.6 Stability and control during braking - trucks and buses. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each truck tractor shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005, and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006, shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway.
+S5.3.6 Stability and control during braking—trucks and buses. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each truck tractor shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005, and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006, shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway.
 
-S5.3.6.1 Using a full-treadle brake application for the duration of the stop, stop the vehicle from 30 mph or 75 percent of the maximum drive-through speed, whichever is less, on a 500-foot radius curved roadway with a wet level surface having a peak friction coefficient of 0.5 when measured on a straight or curved section of the curved roadway using an ASTM E1136-93 (Reapproved 2003) (incorporated by reference, see § 571.5) standard reference tire, in accordance with ASTM E1337-90 (Reapproved 2008) (incorporated by reference, see § 571.5), at a speed of 40 mph, with water delivery.
+S5.3.6.1 Using a full-treadle brake application for the duration of the stop, stop the vehicle from 30 mph or 75 percent of the maximum drive-through speed, whichever is less, on a 500-foot radius curved roadway with a wet level surface having a peak friction coefficient of 0.55 when measured on a straight or curved section of the curved roadway using an ASTM F2493 standard reference tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 40 mph, with water delivery.
 
 S5.3.6.2 Stop the vehicle, with the vehicle:
 
@@ -236,7 +234,7 @@ S5.3.6.2 Stop the vehicle, with the vehicle:
 
 (b) At its unloaded weight plus up to 500 pounds (including driver and instrumentation), or at the manufacturer's option, at its unloaded weight plus up to 500 pounds (including driver and instrumentation) and plus not more than an additional 1000 pounds for a roll bar structure on the vehicle, for a truck, bus, or truck tractor.
 
-S5.4 *Service brake system - dynamometer tests.* When tested without prior road testing, under the conditions of S6.2, each brake assembly shall meet the requirements of S5.4.1, S5.4.2, and S5.4.3 when tested in sequence and without adjustments other than those specified in the standard. For purposes of the requirements of S5.4.2 and S5.4.3, an average deceleration rate is the change in velocity divided by the deceleration time measured from the onset of deceleration.
+S5.4 *Service brake system—dynamometer tests.* When tested without prior road testing, under the conditions of S6.2, each brake assembly shall meet the requirements of S5.4.1, S5.4.2, and S5.4.3 when tested in sequence and without adjustments other than those specified in the standard. For purposes of the requirements of S5.4.2 and S5.4.3, an average deceleration rate is the change in velocity divided by the deceleration time measured from the onset of deceleration.
 
 S5.4.1 *Brake retardation force.* The sum of the retardation forces exerted by the brakes on each vehicle designed to be towed by another vehicle equipped with air brakes shall be such that the quotient sum of the brake retardation forces / sum of GAWR's relative to brake chamber air pressure, and shall have values not less than those shown in Column 1 of Table III. Retardation force shall be determined as follows:
 
@@ -258,7 +256,7 @@ S5.5 *Antilock system.*
 
 S5.5.1 *Antilock system malfunction.* On a truck tractor manufactured on or after March 1, 1997, that is equipped with an antilock brake system and a single unit vehicle manufactured on or after March 1, 1998, that is equipped with an antilock brake system, a malfunction that affects the generation or transmission of response or control signals of any part of the antilock system shall not increase the actuation and release times of the service brakes.
 
-S5.5.2 *Antilock system power - trailers.* On a trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped with an antilock system that requires electrical power for operation, the power shall be obtained from the towing vehicle through one or more electrical circuits which provide continuous power whenever the powered vehicle's ignition (start) switch is in the “on” (“run”) position. The antilock system shall automatically receive power from the stoplamp circuit, if the primary circuit or circuits are not functioning. Each trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped to tow another air-braked vehicle shall be equipped with one or more circuits which provide continuous power to the antilock system on the vehicle(s) it tows. Such circuits shall be adequate to enable the antilock system on each towed vehicle to be fully operable.
+S5.5.2 *Antilock system power—trailers.* On a trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped with an antilock system that requires electrical power for operation, the power shall be obtained from the towing vehicle through one or more electrical circuits which provide continuous power whenever the powered vehicle's ignition (start) switch is in the “on” (“run”) position. The antilock system shall automatically receive power from the stoplamp circuit, if the primary circuit or circuits are not functioning. Each trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped to tow another air-braked vehicle shall be equipped with one or more circuits which provide continuous power to the antilock system on the vehicle(s) it tows. Such circuits shall be adequate to enable the antilock system on each towed vehicle to be fully operable.
 
 S5.6 *Parking brakes.*
 
@@ -294,7 +292,7 @@ S5.6.3.3 For trucks and buses, with an initial reservoir system pressure of 100 
 
 S5.6.3.4 The parking brake chamber pressures for S5.6.3.1 and S5.6.3.2 are determined as follows. For trucks and buses, with an initial reservoir system pressure of 100 psi and, if designed to tow a vehicle equipped with air brakes, with a 50 cubic inch test reservoir connected to the supply line coupling, any single leakage type failure, in any other brake system, of a part designed to contain compressed air or brake fluid (consistent with the parenthetical phrase specified in S5.6.3.1), is introduced in the brake system. The parking brake control is actuated and the pressures in the vehicle's parking brake chambers are measured three seconds after that actuation is initiated. For trailers, with the supply line initially pressurized to 100 psi using the supply line portion of the trailer test rig (Figure 1) and, if designed to tow a vehicle equipped with air brakes, with a 50 cubic inch test reservoir connected to the rear supply line coupling, any single leakage type failure, in any other brake system, of a part designed to contain compressed air or brake fluid (consistent with the parenthetical phrase specified in S5.6.3.1), is introduced in the brake system. The front supply line coupling is vented to the atmosphere and the pressures in the vehicle's parking brake chambers are measured three seconds after that venting is initiated.
 
-S5.6.4 *Parking brake control - trucks and buses.* The parking brake control shall be separate from the service brake control. It shall be operable by a person seated in the normal driving position. The control shall be identified in a manner that specifies the method of control operation. The parking brake control shall control the parking brakes of the vehicle and of any air braked vehicle that it is designed to tow.
+S5.6.4 *Parking brake control—trucks and buses.* The parking brake control shall be separate from the service brake control. It shall be operable by a person seated in the normal driving position. The control shall be identified in a manner that specifies the method of control operation. The parking brake control shall control the parking brakes of the vehicle and of any air braked vehicle that it is designed to tow.
 
 S5.6.5 *Release Performance.* Each parking brake system shall meet the requirements specified in S5.6.5.1 through S5.6.5.4.
 
@@ -340,11 +338,11 @@ S5.6.7.2.3 Using the following procedure, a leakage-type failure of the common d
 
 S5.7 *Emergency brake system for trucks and buses.* Each vehicle shall be equipped with an emergency brake system which, under the conditions of S6.1, conforms to the requirements of S5.7.1 through S5.7.3. However, the truck portion of an auto transporter need not meet the road test requirements of S5.7.1 and S5.7.3.
 
-S5.7.1 *Emergency brake system performance.* When stopped six times for each combination of weight and speed specified in S5.3.1.1, except for a loaded truck tractor with an unbraked control trailer, on a road surface having a PFC of 0.9, with a single failure in the service brake system of a part designed to contain compressed air or brake fluid (except failure of a common valve, manifold, brake fluid housing, or brake chamber housing), the vehicle shall stop at least once in not more than the distance specified in Column 5 of Table II, measured from the point at which movement of the service brake control begins, except that a truck-tractor tested at its unloaded vehicle weight plus up to 1500 pounds shall stop at least once in not more than the distance specified in Column 6 of Table II. The stop shall be made without any part of the vehicle leaving the roadway, and with unlimited wheel lockup permitted at any speed.
+S5.7.1 *Emergency brake system performance.* When stopped six times for each combination of weight and speed specified in S5.3.1.1, except for a loaded truck tractor with an unbraked control trailer, on a road surface having a PFC of 1.02, with a single failure in the service brake system of a part designed to contain compressed air or brake fluid (except failure of a common valve, manifold, brake fluid housing, or brake chamber housing), the vehicle shall stop at least once in not more than the distance specified in Column 5 of Table II, measured from the point at which movement of the service brake control begins, except that a truck-tractor tested at its unloaded vehicle weight plus up to 1,500 pounds shall stop at least once in not more than the distance specified in Column 6 of Table II. The stop shall be made without any part of the vehicle leaving the roadway, and with unlimited wheel lockup permitted at any speed.
 
 S5.7.2 *Emergency brake system operation.* The emergency brake system shall be applied and released, and be capable of modulation, by means of the service brake control.
 
-S5.7.3 *Towing vehicle emergency brake requirements.* In addition to meeting the other requirements of S5.7, a vehicle designed to tow another vehicle equipped with air brakes shall -
+S5.7.3 *Towing vehicle emergency brake requirements.* In addition to meeting the other requirements of S5.7, a vehicle designed to tow another vehicle equipped with air brakes shall—
 
 (a) In the case of a truck-tractor in the unloaded condition and a single unit truck which is capable of towing an airbrake equipped vehicle and is loaded to GVWR, be capable of meeting the requirements of S5.7.1 by operation of the service brake control only, with the trailer air supply line and air control line from the towing vehicle vented to the atmosphere in accordance with S6.1.14;
 
@@ -354,7 +352,7 @@ S5.7.3 *Towing vehicle emergency brake requirements.* In addition to meeting the
 
 S5.8 *Emergency brakes for trailers.* Each trailer shall meet the requirements of S5.8.1 through S5.8.3.
 
-S5.8.1 *Emergency braking capability.* Each trailer other than a trailer converter dolly shall have a parking brake system that conforms to S5.6 and that applies with the force specified in S5.6.1 or S5.6.2 when the air pressure in the supply line is at atmospheric pressure. A trailer converter dolly shall have, at the manufacturer's option -
+S5.8.1 *Emergency braking capability.* Each trailer other than a trailer converter dolly shall have a parking brake system that conforms to S5.6 and that applies with the force specified in S5.6.1 or S5.6.2 when the air pressure in the supply line is at atmospheric pressure. A trailer converter dolly shall have, at the manufacturer's option—
 
 (a) A parking brake system that conforms to S5.6 and that applies with the force specified in S5.6.1 or S5.6.2 when the air pressure in the supply line is at atmospheric pressure, or
 
@@ -384,7 +382,7 @@ S6.1.5 The ambient temperature is between 32 °F. and 100 °F.
 
 S6.1.6 The wind velocity is zero.
 
-S6.1.7 Unless otherwise specified, stopping tests are conducted on a 12-foot wide level, straight roadway having a peak friction coefficient of 0.9. For road tests in S5.3, the vehicle is aligned in the center of the roadway at the beginning of a stop. Peak friction coefficient is measured using an ASTM E1136 standard reference test tire (see ASTM E1136-93 (Reapproved 2003) (incorporated by reference, see § 571.5)) in accordance with ASTM Method E1337-90 (Reapproved 2008) (incorporated by reference, see § 571.5), at a speed of 40 mph, without water delivery for the surface with PFC of 0.9, and with water delivery for the surface with PFC of 0.5.
+S6.1.7 Unless otherwise specified, stopping tests are conducted on a 12-foot wide level, straight roadway having a peak friction coefficient of 1.02. For road tests in S5.3, the vehicle is aligned in the center of the roadway at the beginning of a stop. Peak friction coefficient is measured using an ASTM F2493 standard reference test tire in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 40 mph, without water delivery for the surface with PFC of 1.02, and with water delivery for the surface with PFC of 0.55.
 
 S6.1.8 For vehicles with parking brake systems not utilizing the service brake friction elements, burnish the friction elements of such systems prior to the parking brake test according to the manufacturer's recommendations. For vehicles with parking brake systems utilizing the service brake friction elements, burnish the brakes as follows: With the transmission in the highest gear appropriate for a speed of 40 mph, make 500 snubs between 40 mph and 20 mph at a deceleration rate of 10 f.p.s.p.s., or at the vehicle's maximum deceleration rate if less than 10 f.p.s.p.s. Except where an adjustment is specified, after each brake application accelerate to 40 mph and maintain that speed until making the next brake application at a point 1 mile from the initial point of the previous brake application. If the vehicle cannot attain a speed of 40 mph in 1 mile, continue to accelerate until the vehicle reaches 40 mph or until the vehicle has traveled 1.5 miles from the initial point of the previous brake application, whichever occurs first. Any automatic pressure limiting valve is in use to limit pressure as designed. The brakes may be adjusted up to three times during the burnish procedure, at intervals specified by the vehicle manufacturer, and may be adjusted at the conclusion of the burnishing, in accordance with the vehicle manufacturer's recommendation.
 
@@ -436,72 +434,52 @@ S6.2.7 The brake temperature is increased to a specified level by conducting one
 
 ![](/graphics/ec01au91.051.gif)![](/graphics/ec01au91.053.gif)![](/graphics/ec01au91.054.gif)
 
-Table I - Stopping Sequence
+|                                                     |Truck tractors|Single unit  <br/>trucks and  <br/>buses|
+|-----------------------------------------------------|--------------|----------------------------------------|
+|                  Burnish (S6.1.8)                   |      1       |                   1                    |
+|       Stability and Control at GVWR (S5.3.6)        |      2       |                  N/A                   |
+|       Stability and Control at LLVW (S5.3.6)        |      3       |                   5                    |
+|             Manual Adjustment of Brakes             |      4       |                  N/A                   |
+|     60 mph Service Brake Stops at GVWR (S5.3.1)     |      5       |                   2                    |
+|60 mph Emergency Service Brake Stops at GVWR (S5.7.1)|     N/A      |                   3                    |
+|          Parking Brake Test at GVWR (S5.6)          |      6       |                   4                    |
+|             Manual Adjustment of Brakes             |      7       |                   6                    |
+|     60 mph Service Brake Stops at LLVW (S5.3.1)     |      8       |                   7                    |
+|60 mph Emergency Service Brake Stops at LLVW (S5.7.1)|      9       |                   8                    |
+|          Parking Brake Test at LLVW (S5.6)          |      10      |                   9                    |
+|                  Final Inspection                   |      11      |                   10                   |
 
-|                                                      |Truck tractors|Single unit trucks and buses|
-|------------------------------------------------------|--------------|----------------------------|
-|                       Burnish                        |      1       |             1              |
-|       Stability and Control at GVWR (PFC 0.5)        |      2       |            N/A             |
-|       Stability and Control at LLVW (PFC 0.5)        |      3       |             5              |
-|             Manual Adjustment of Brakes              |      4       |            N/A             |
-|     60 mph Service Brake Stops at GVWR (PFC 0.9)     |      5       |             2              |
-|60 mph Emergency Service Brake Stops at GVWR (PFC 0.9)|     N/A      |             3              |
-|              Parking Brake Test at GVWR              |      6       |             4              |
-|             Manual Adjustment of Brakes              |      7       |             6              |
-|     60 mph Service Brake Stops at LLVW (PFC 0.9)     |      8       |             7              |
-|60 mph Emergency Service Brake Stops at LLVW (PFC 0.9)|      9       |             8              |
-|              Parking Brake Test at LLVW              |      10      |             9              |
-|                   Final Inspection                   |      11      |             10             |
+|                                                                              Vehicle speed in  <br/>miles per hour                                                                              |Service brake|Emergency brake|   |   |   |   |   |   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------|---|---|---|---|---|---|
+|                                                                                               (1)                                                                                               |     (2)     |      (3)      |(4)|(5)|(6)|(7)|(8)|   |
+|                                                                                               30                                                                                                |     70      |      78       |65 |78 |84 |61 |170|186|
+|                                                                                               35                                                                                                |     96      |      106      |89 |106|114|84 |225|250|
+|                                                                                               40                                                                                                |     125     |      138      |114|138|149|108|288|325|
+|                                                                                               45                                                                                                |     158     |      175      |144|175|189|136|358|409|
+|                                                                                               50                                                                                                |     195     |      216      |176|216|233|166|435|504|
+|                                                                                               55                                                                                                |     236     |      261      |212|261|281|199|520|608|
+|                                                                                               60                                                                                                |     280     |      310      |250|310|335|235|613|720|
+|                                                                                            **Note:**                                                                                            |             |               |   |   |   |   |   |   |
+|                                                                                 (1) Loaded and Unloaded Buses.                                                                                  |             |               |   |   |   |   |   |   |
+|                                                                                 (2) Loaded Single-Unit Trucks.                                                                                  |             |               |   |   |   |   |   |   |
+|(3) Loaded Tractors with Two Axles; or with Three Axles and a GVWR of 70,000 lbs. or less; or with Four or More Axles and a GVWR of 85,000 lbs. or less. Tested with an Unbraked Control Trailer.|             |               |   |   |   |   |   |   |
+|        (4) Loaded Tractors with Three Axles and a GVWR greater than 70,000 lbs.; or with Four or More Axles and a GVWR greater than 85,000 lbs. Tested with an Unbraked Control Trailer.        |             |               |   |   |   |   |   |   |
+|                                                                                (5) Unloaded Single-Unit Trucks.                                                                                 |             |               |   |   |   |   |   |   |
+|                                                                                (6) Unloaded Tractors (Bobtail).                                                                                 |             |               |   |   |   |   |   |   |
+|                                                                     (7) All Vehicles except Tractors, Loaded and Unloaded.                                                                      |             |               |   |   |   |   |   |   |
+|                                                                                (8) Unloaded Tractors (Bobtail).                                                                                 |             |               |   |   |   |   |   |   |
 
-Table II - Stopping Distance in Feet
-
-|Vehicle speed in miles per hour|Service brake|Emergency brake|       |       |       |       |       |   |
-|-------------------------------|-------------|---------------|-------|-------|-------|-------|-------|---|
-|            PFC 0.9            |   PFC 0.9   |    PFC 0.9    |PFC 0.9|PFC 0.9|PFC 0.9|PFC 0.9|PFC 0.9|   |
-|                               |     (1)     |      (2)      |  (3)  |  (4)  |  (5)  |  (6)  |  (7)  |(8)|
-|              30               |     70      |      78       |  65   |  78   |  84   |  61   |  170  |186|
-|              35               |     96      |      106      |  89   |  106  |  114  |  84   |  225  |250|
-|              40               |     125     |      138      |  114  |  138  |  149  |  108  |  288  |325|
-|              45               |     158     |      175      |  144  |  175  |  189  |  136  |  358  |409|
-|              50               |     195     |      216      |  176  |  216  |  233  |  166  |  435  |504|
-|              55               |     236     |      261      |  212  |  261  |  281  |  199  |  520  |608|
-|              60               |     280     |      310      |  250  |  310  |  335  |  235  |  613  |720|
-
-Note:
-
-(1) Loaded and Unloaded Buses.
-
-(2) Loaded Single-Unit Trucks.
-
-(3) Loaded Tractors with Two Axles; or with Three Axles and a GVWR of 70,000 lbs. or less; or with Four or More Axles and a GVWR of 85,000 lbs. or less. Tested with an Unbraked Control Trailer.
-
-(4) Loaded Tractors with Three Axles and a GVWR greater than 70,000 lbs.; or with Four or More Axles and a GVWR greater than 85,000 lbs. Tested with an Unbraked Control Trailer.
-
-(5) Unloaded Single-Unit Trucks.
-
-(6) Unloaded Tractors (Bobtail).
-
-(7) All Vehicles except Tractors, Loaded and Unloaded.
-
-(8) Unloaded Tractors (Bobtail).
-
-Table IIa - Stopping Distance in Feet: Optional Requirements for: (1) Three-Axle Tractors With a Front Axle That Has a GAWR of 14,600 Pounds or Less, and With Two Rear Drive Axles That Have a Combined GAWR of 45,000 Pounds or Less, Manufactured Before August 1, 2011; and (2) All Other Tractors Manufactured Before August 1, 2013
-
-|Vehicle speed in miles per hour|Service Brake|Emergency Brake|       |       |       |   |
-|-------------------------------|-------------|---------------|-------|-------|-------|---|
-|            PFC 0.9            |   PFC 0.9   |    PFC 0.9    |PFC 0.9|PFC 0.9|PFC 0.9|   |
-|                               |     (1)     |      (2)      |  (3)  |  (4)  |  (5)  |(6)|
-|              30               |     70      |      78       |  84   |  89   |  170  |186|
-|              35               |     96      |      106      |  114  |  121  |  225  |250|
-|              40               |     125     |      138      |  149  |  158  |  288  |325|
-|              45               |     158     |      175      |  189  |  200  |  358  |409|
-|              50               |     195     |      216      |  233  |  247  |  435  |504|
-|              55               |     236     |      261      |  281  |  299  |  520  |608|
-|              60               |     280     |      310      |  335  |  355  |  613  |720|
-
-Note: (1) Loaded and unloaded buses; (2) Loaded single unit trucks; (3) Unloaded truck tractors and single unit trucks; (4) Loaded truck tractors tested with an unbraked control trailer; (5) All vehicles except truck tractors; (6) Unloaded truck tractors.
-
-Table III - Brake Retardation Force
+|                                                                                                                  Vehicle speed in miles per hour                                                                                                                  |Service brake|Emergency brake|   |   |   |   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------|---|---|---|---|
+|                                                                                                                                (1)                                                                                                                                |     (2)     |      (3)      |(4)|(5)|(6)|   |
+|                                                                                                                                30                                                                                                                                 |     70      |      78       |84 |89 |170|186|
+|                                                                                                                                35                                                                                                                                 |     96      |      106      |114|121|225|250|
+|                                                                                                                                40                                                                                                                                 |     125     |      138      |149|158|288|325|
+|                                                                                                                                45                                                                                                                                 |     158     |      175      |189|200|358|409|
+|                                                                                                                                50                                                                                                                                 |     195     |      216      |233|247|435|504|
+|                                                                                                                                55                                                                                                                                 |     236     |      261      |281|299|520|608|
+|                                                                                                                                60                                                                                                                                 |     280     |      310      |335|355|613|720|
+|**Note:** (1) Loaded and unloaded buses; (2) Loaded single unit trucks; (3) Unloaded truck tractors and single unit trucks; (4) Loaded truck tractors tested with an unbraked control trailer; (5) All vehicles except truck tractors; (6) Unloaded truck tractors.|             |               |   |   |   |   |
 
 |Column 1 brake retardation force/GAWR|Column 2  <br/>brake  <br/>chamber  <br/>pressure, PSI|
 |-------------------------------------|------------------------------------------------------|
@@ -515,8 +493,6 @@ Table III - Brake Retardation Force
 
 Table IV [Reserved]
 
-Table V - Brake Chamber Rated Volumes
-
 |Brake Chamber type  <br/>(nominal area of piston or diaphragm in square inches)|Column 1 full stroke  <br/>(inches)|Column 2  <br/>rated volume  <br/>(cubic inches)|
 |-------------------------------------------------------------------------------|-----------------------------------|------------------------------------------------|
 |                                    Type 9                                     |             1.75/2.10             |                       25                       |
@@ -529,4 +505,4 @@ Table V - Brake Chamber Rated Volumes
 |                                    Type 30                                    |             2.50/3.20             |                       89                       |
 |                                    Type 36                                    |             3.00/3.60             |                      135                       |
 
-[61 FR 27290, May 31, 1996, as amended at 61 FR 49695, Sept. 23, 1996; 61 FR 60636, Nov. 29, 1996; 63 FR 7727, Feb. 17, 1998; 66 FR 64158, Dec. 12, 2001; 67 FR 36820, May 28, 2002; 68 FR 47497, Aug. 11, 2003; 74 FR 9176, Mar. 3, 2009; 74 FR 42785, Aug. 25, 2009; 75 FR 15620, Mar. 30, 2010; 76 FR 44833, July 27, 2011; 77 FR 759, Jan. 6, 2012; 78 FR 9628, Feb. 11, 2013; 78 FR 21853, Apr. 12, 2013]
+[61 FR 27290, May 31, 1996, as amended at 61 FR 49695, Sept. 23, 1996; 61 FR 60636, Nov. 29, 1996; 63 FR 7727, Feb. 17, 1998; 66 FR 64158, Dec. 12, 2001; 67 FR 36820, May 28, 2002; 68 FR 47497, Aug. 11, 2003; 74 FR 9176, Mar. 3, 2009; 74 FR 42785, Aug. 25, 2009; 75 FR 15620, Mar. 30, 2010; 76 FR 44833, July 27, 2011; 77 FR 759, Jan. 6, 2012; 78 FR 9628, Feb. 11, 2013; 78 FR 21853, Apr. 12, 2013; 87 FR 34808, June 8, 2022]
