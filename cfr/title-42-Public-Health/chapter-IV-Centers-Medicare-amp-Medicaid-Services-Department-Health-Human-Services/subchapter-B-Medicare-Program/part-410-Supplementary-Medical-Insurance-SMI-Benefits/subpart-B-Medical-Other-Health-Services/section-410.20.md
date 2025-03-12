@@ -1,5 +1,7 @@
 ##### § 410.20 Physicians' services. #####
 
+Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
+
 (a) *Included services.* Medicare Part B pays for physicians' services, including diagnosis, therapy, surgery, consultations, and home, office, and institutional calls.
 
 (b) *By whom services must be furnished.* Medicare Part B pays for the services specified in paragraph (a) of this section if they are furnished by one of the following professionals who is legally authorized to practice by the State in which he or she performs the functions or actions, and who is acting within the scope of his or her license.

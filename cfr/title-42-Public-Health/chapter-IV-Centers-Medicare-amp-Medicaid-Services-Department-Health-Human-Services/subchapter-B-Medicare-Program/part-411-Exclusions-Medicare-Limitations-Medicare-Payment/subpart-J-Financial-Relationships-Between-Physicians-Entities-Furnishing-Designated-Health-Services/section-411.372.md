@@ -1,5 +1,7 @@
 ##### § 411.372 Procedure for submitting a request. #####
 
+Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
+
 (a) *Format for a request.* A party or parties must submit a request for an advisory opinion to CMS according to the instructions specified on the CMS Web site.
 
 (b) *Information CMS requires with all submissions.* The request must include the following:

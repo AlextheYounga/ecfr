@@ -1,3 +1,7 @@
-##### § 304-3.10 xxx #####
+##### § 304-3.10 Is my agency's acceptance of a waived or discounted registration fee from a non-Federal sponsor of a meeting or similar function considered a payment in kind for the day(s) I am participating as a speaker, panelist, or presenter at the event? #####
 
-Link to an amendment published at 84 FR 55248, Oct. 16, 2019.
+(a) No. Your agency's acceptance of a waived or discounted registration fee from the non-Federal sponsor of the event is not a payment in kind for the day(s) you are participating as a speaker, panelist, or presenter. However, your agency's acceptance of a waived or discounted registration fee is a payment in kind for the days you only attend the event (*i.e.,* on the day(s) you are not participating as a speaker, panelist, or presenter).
+
+(b) Lodging, transportation, meals, event tickets, or other similar items of value provided by a non-Federal source are a payment in kind. If these types of expenses are included in a registration fee that is waived or discounted on the day(s) you are participating as a speaker, panelist, or presenter, you may accept them only with your agency's approval in accordance with this chapter. Specifically, if the registration fee includes meal(s), the meal(s) are a payment in kind. You may accept the meal(s) only if authorized to do so by your agency. If your agency authorizes acceptance of meal(s), you must also deduct the meal(s) from your M&IE per diem on your travel voucher using the deduction amounts listed for the locality at *https://www.gsa.gov/mie* unless you are unable to consume the meal(s) due to an exception provided in § 301-11.18 of this chapter.
+
+[84 FR 55248, Oct. 16, 2019]

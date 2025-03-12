@@ -1,5 +1,7 @@
 ##### § 403.904 Reports of payments or other transfers of value to covered recipients. #####
 
+Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
+
 (a) *General rule.* (1) Direct and indirect payments or other transfers of value provided by an applicable manufacturer to a covered recipient during the preceding calendar year, and direct and indirect payments or other transfers of value provided to a third party at the request of or designated by the applicable manufacturer on behalf of a covered recipient during the preceding calendar year, must be reported by the applicable manufacturer to CMS on an annual basis.
 
 (2) For CY 2013, only payments or other transfers of value made on or after August 1, 2013 must be reported to CMS.

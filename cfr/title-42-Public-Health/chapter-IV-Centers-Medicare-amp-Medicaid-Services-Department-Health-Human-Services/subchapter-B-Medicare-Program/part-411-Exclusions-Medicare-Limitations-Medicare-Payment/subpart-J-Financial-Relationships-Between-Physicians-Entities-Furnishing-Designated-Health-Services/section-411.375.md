@@ -1,5 +1,7 @@
 ##### § 411.375 Fees for the cost of advisory opinions. #####
 
+Link to an amendment published at 84 FR 63192, Nov. 15, 2019.
+
 (a) *Initial payment.* Parties must include with each request for an advisory opinion submitted through December 31, 1998, a check or money order payable to CMS for $250. For requests submitted after this date, parties must include a check or money order in this amount, unless CMS has revised the amount of the initial fee in a program issuance, in which case, the requestor must include the revised amount. This initial payment is nonrefundable.
 
 (b) *How costs are calculated.* Before issuing the advisory opinion, CMS calculates the costs the Department has incurred in responding to the request. The calculation includes the costs of salaries, benefits, and overhead for analysts, attorneys, and others who have worked on the request, as well as administrative and supervisory support for these individuals.

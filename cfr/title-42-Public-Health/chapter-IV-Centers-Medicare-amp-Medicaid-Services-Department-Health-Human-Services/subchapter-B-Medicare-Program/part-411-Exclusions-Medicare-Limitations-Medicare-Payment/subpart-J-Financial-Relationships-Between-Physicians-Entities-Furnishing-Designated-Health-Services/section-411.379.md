@@ -1,5 +1,7 @@
 ##### § 411.379 When CMS accepts a request. #####
 
+Link to an amendment published at 84 FR 63192, Nov. 15, 2019.
+
 (a) Upon receiving a request for an advisory opinion, CMS promptly makes an initial determination of whether the request includes all of the information it will need to process the request.
 
 (b) Within 15 working days of receiving the request, CMS -

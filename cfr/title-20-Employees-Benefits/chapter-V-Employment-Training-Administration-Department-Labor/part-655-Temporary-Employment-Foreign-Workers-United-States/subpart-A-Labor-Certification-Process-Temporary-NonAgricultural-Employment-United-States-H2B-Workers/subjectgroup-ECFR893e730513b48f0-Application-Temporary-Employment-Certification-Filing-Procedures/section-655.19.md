@@ -1,5 +1,7 @@
 ##### § 655.19 Job contractor filing requirements. #####
 
+Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
+
 (a) Provided that a job contractor and any employer-client are joint employers, a job contractor may submit an *Application for Temporary Employment Certification* on behalf of itself and that employer-client.
 
 (b) A job contractor must have separate contracts with each different employer-client. Each contract or agreement may support only one *Application for Temporary Employment Certification* for each employer-client job opportunity within a single area of intended employment.

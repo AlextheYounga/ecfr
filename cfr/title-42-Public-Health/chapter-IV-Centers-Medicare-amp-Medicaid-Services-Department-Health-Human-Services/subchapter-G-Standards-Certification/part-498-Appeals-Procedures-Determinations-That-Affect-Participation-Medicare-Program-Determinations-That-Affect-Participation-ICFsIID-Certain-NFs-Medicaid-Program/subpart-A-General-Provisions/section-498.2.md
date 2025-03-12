@@ -1,5 +1,7 @@
 ##### § 498.2 Definitions. #####
 
+Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
+
 As used in this part -
 
 *Affected party* means a provider, prospective provider, supplier, prospective supplier, or practitioner that is affected by an initial determination or by any subsequent determination or decision issued under this part, and “party” means the affected party or CMS, as appropriate. For provider or supplier enrollment appeals, an affected party includes CMS or a CMS contractor.

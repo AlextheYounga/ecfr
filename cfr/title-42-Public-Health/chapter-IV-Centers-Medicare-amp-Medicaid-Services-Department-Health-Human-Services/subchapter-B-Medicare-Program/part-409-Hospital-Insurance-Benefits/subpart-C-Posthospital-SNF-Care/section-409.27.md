@@ -1,5 +1,7 @@
 ##### § 409.27 Other services generally provided by (or under arrangements made by) SNFs. #####
 
+Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
+
 In addition to those services specified in §§ 409.21 through 409.26, Medicare pays as posthospital SNF care for such other diagnostic and therapeutic services as are generally provided by (or under arrangements made by) SNFs, including -
 
 (a) Medical and other health services as described in subpart B of part 410 of this chapter, subject to any applicable limitations or exclusions contained in that subpart or in § 409.20(b);

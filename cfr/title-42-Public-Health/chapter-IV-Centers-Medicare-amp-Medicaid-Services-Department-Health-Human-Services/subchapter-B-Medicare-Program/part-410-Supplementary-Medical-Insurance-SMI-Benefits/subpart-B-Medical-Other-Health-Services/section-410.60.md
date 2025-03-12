@@ -1,5 +1,7 @@
 ##### § 410.60 Outpatient physical therapy services: Conditions. #####
 
+Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
+
 (a) *Basic rule.* Except as specified in paragraph (a)(3)(iii) of this section, Medicare Part B pays for outpatient physical therapy services only if they are furnished by an individual meeting the qualifications in part 484 of this chapter for a physical therapist or an appropriately supervised physical therapist assistant but only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine, osteopathy, or podiatric medicine.

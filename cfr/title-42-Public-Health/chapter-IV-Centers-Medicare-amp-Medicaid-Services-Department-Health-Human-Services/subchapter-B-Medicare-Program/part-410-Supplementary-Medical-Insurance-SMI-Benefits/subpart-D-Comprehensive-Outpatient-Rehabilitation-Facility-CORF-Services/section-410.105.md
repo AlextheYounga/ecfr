@@ -1,5 +1,7 @@
 ##### § 410.105 Requirements for coverage of CORF services. #####
 
+Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
+
 Services specified in § 410.100 and not excluded under § 410.102 are covered as CORF services if they are furnished by a participating CORF (that is, a CORF that meets the conditions of subpart B of part 485 of this chapter, and has in effect a provider agreement under part 489 of this chapter) and if the following requirements are met:
 
 (a) *Referral and medical history.* The services must be furnished to an individual who is referred by a physician who certifies that the individual needs skilled rehabilitation services, and makes the following information available to the CORF before or at the time treatment is begun:

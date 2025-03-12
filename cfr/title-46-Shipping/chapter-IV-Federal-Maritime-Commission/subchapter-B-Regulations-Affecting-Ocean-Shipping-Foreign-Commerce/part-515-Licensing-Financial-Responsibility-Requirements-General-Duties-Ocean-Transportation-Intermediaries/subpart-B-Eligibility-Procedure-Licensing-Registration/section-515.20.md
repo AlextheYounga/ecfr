@@ -1,5 +1,7 @@
 ##### § 515.20 Changes in organization. #####
 
+Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
+
 (a) *Licenses.* The following changes in an existing licensee's organization require prior approval of the Commission, and application for such status change or license transfer shall be made on Form FMC-18, filed with the Commission's Bureau of Certification and Licensing, and accompanied by the fee required under § 515.5(c):
 
 (1) Transfer of a corporate license to another person;

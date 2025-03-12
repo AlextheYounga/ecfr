@@ -1,5 +1,7 @@
 ##### § 410.76 Clinical nurse specialists' services. #####
 
+Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
+
 (a) *Definition.* As used in this section, the term “physician” means a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act.
 
 (b) *Qualifications.* For Medicare Part B coverage of his or her services, a clinical nurse specialist must -

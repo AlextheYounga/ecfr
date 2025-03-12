@@ -1,5 +1,7 @@
 ##### § 411.384 Disclosing advisory opinions and supporting information. #####
 
+Link to an amendment published at 84 FR 63193, Nov. 15, 2019.
+
 (a) Advisory opinions that CMS issues and releases in accordance with the procedures set forth in this subpart are available to the public.
 
 (b) Promptly after CMS issues an advisory opinion and releases it to the requestor, CMS makes available a copy of the advisory opinion for public inspection during its normal hours of operation and on the CMS Web site.

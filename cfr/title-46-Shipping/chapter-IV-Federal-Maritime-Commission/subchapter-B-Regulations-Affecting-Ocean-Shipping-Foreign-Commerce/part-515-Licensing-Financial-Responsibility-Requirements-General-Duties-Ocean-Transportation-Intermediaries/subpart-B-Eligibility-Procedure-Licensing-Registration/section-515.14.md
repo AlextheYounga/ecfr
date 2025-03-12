@@ -1,5 +1,7 @@
 ##### § 515.14 Issuance, renewal, and use of license. #####
 
+Link to an amendment published at 84 FR 62467, Nov. 15, 2019.
+
 (a) *Qualification necessary for issuance.* The Commission will issue a license if it determines, as a result of its investigation, that the applicant possesses the necessary experience and character to render ocean transportation intermediary services and has filed the required bond, insurance or other surety.
 
 (b) *To whom issued.* The Commission will issue a license only in the name of the applicant, whether the applicant is a sole proprietorship, a partnership, a corporation, or limited liability company. A license issued to a sole proprietor doing business under a trade name shall be in the name of the sole proprietor, indicating the trade name under which the licensee will be conducting business. Only one license shall be issued to any applicant regardless of the number of names under which such applicant may be doing business, and except as otherwise provided in this part, such license is limited exclusively to use by the named licensee and shall not be transferred without prior Commission approval to another person.

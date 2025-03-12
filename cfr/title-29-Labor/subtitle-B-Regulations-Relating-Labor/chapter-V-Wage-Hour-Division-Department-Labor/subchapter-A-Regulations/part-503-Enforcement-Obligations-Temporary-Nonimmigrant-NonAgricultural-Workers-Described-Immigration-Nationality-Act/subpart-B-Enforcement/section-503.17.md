@@ -1,5 +1,7 @@
 ##### § 503.17 Document retention requirements of H-2B employers. #####
 
+Link to an amendment published at 84 FR 62447, Nov. 15, 2019.
+
 (a) *Entities required to retain documents.* All employers filing an *Application for Temporary Employment Certification* requesting H-2B workers are required to retain the documents and records proving compliance with 20 CFR part 655, subpart A and this part, including but not limited to those specified in paragraph (c) of this section.
 
 (b) *Period of required retention.* The employer must retain records and documents for 3 years from the date of certification of the *Application for Temporary Employment Certification* or from the date of adjudication if the *Application for Temporary Employment Certification* is denied or 3 years from the day the Department of Labor receives the letter of withdrawal provided in accordance with 20 CFR 655.62.

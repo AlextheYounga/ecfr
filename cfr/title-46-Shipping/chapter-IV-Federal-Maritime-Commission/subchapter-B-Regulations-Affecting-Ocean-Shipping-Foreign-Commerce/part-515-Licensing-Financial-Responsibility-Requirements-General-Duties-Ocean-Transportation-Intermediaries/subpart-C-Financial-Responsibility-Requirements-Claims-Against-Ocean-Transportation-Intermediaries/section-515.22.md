@@ -1,5 +1,7 @@
 ##### § 515.22 Proof of financial responsibility. #####
 
+Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
+
 Prior to the date it commences furnishing ocean transportation intermediary services, every ocean transportation intermediary shall establish its financial responsibility for the purpose of this part by one of the following methods:
 
 (a) Surety bond, by filing with the Commission a valid bond on Form FMC-48. Bonds must be issued by a surety company found acceptable by the Secretary of the Treasury;

@@ -1,5 +1,7 @@
 ##### § 414.1315 Virtual groups. #####
 
+Link to an amendment published at 84 FR 63195, November 15, 2019.
+
 (a) *Eligibility.* (1) For a MIPS payment year, a solo practitioner or a group of 10 or fewer eligible clinicians may elect to participate in MIPS as a virtual group with at least one other such solo practitioner or group. The election must be made prior to the start of the applicable performance period and cannot be changed during the performance period. A solo practitioner or group may elect to be in no more than one virtual group for a performance period, and, in the case of a group, the election applies to all MIPS eligible clinicians in the group.
 
 (2) Except as provided under § 414.1370(f)(2), each MIPS eligible clinician in the virtual group receives a MIPS payment adjustment factor and, if applicable, an additional MIPS payment adjustment factor based on the virtual group's combined performance assessment.

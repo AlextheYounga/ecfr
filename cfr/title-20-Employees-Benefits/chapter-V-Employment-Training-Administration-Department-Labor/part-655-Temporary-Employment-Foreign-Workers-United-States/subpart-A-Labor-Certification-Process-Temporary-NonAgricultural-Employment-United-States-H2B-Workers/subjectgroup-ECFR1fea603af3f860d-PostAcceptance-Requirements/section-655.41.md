@@ -1,5 +1,7 @@
 ##### § 655.41 Advertising requirements. #####
 
+Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
+
 (a) All recruitment conducted under §§ 655.42 through 655.46 must contain terms and conditions of employment that are not less favorable than those offered to the H-2B workers and, at a minimum, must comply with the assurances applicable to job orders as set forth in § 655.18(a).
 
 (b) All advertising must contain the following information:

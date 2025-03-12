@@ -1,5 +1,7 @@
 ##### § 403.902 Definitions. #####
 
+Link to an amendment published at 84 FR 63185, Nov. 15, 2019.
+
 For purposes of this subpart, the following definitions apply:
 
 *Applicable group purchasing organization* means an entity that:

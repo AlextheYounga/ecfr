@@ -1,5 +1,7 @@
 ##### § 411.370 Advisory opinions relating to physician referrals. #####
 
+Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
+
 (a) *Period during which CMS accepts requests.* The provisions of § 411.370 through § 411.389 apply to requests for advisory opinions that are submitted to CMS during any time period in which CMS is required by law to issue the advisory opinions described in this subpart.
 
 (b) *Matters that qualify for advisory opinions and who may request one.* Any individual or entity may request a written advisory opinion from CMS concerning whether a physician's referral relating to designated health services (other than clinical laboratory services) is prohibited under section 1877 of the Act. In the advisory opinion, CMS determines whether a business arrangement described by the parties to that arrangement appears to constitute a “financial relationship” (as defined in section 1877(a)(2) of the Act) that could potentially restrict a physician's referrals, and whether the arrangement or the designated health services at issue appear to qualify for any of the exceptions to the referral prohibition described in section 1877 of the Act.

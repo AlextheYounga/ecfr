@@ -1,5 +1,7 @@
 ##### § 655.71 CO-ordered assisted recruitment. #####
 
+Link to an amendment published at 84 FR 62447, Nov. 15, 2019.
+
 (a) *Requirement of assisted recruitment.* If, as a result of audit or otherwise, the CO determines that a violation has occurred that does not warrant debarment, the CO may require the employer to engage in assisted recruitment for a defined period of time for any future *Application for Temporary Employment Certification.*
 
 (b) *Notification of assisted recruitment.* The CO will notify the employer (and its attorney or agent, if applicable) in writing of the assisted recruitment that will be required of the employer for a period of up to 2 years from the date the notice is issued. The notification will state the reasons for the imposition of the additional requirements, state that the employer's agreement to accept the conditions will constitute their inclusion as bona fide conditions and terms of an application for temporary employment certification, and offer the employer an opportunity to request an administrative review. If administrative review is requested, the procedures in § 655.61 apply.

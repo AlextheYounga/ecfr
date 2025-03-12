@@ -1,5 +1,7 @@
 ##### § 489.53 Termination by CMS. #####
 
+Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
+
 (a) *Basis for termination of agreement.* CMS may terminate the agreement with any provider if CMS finds that any of the following failings is attributable to that provider, and may, in addition to the applicable requirements in this chapter governing the termination of agreements with suppliers, terminate the agreement with any supplier to which the failings in paragraphs (a)(2), (13) and (18) of this section are attributable:
 
 (1) It is not complying with the provisions of title XVIII and the applicable regulations of this chapter or with the provisions of the agreement.

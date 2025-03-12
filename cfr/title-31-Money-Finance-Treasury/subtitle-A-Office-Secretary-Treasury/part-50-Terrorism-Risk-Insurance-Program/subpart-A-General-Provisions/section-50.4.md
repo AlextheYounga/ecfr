@@ -1,5 +1,7 @@
 ##### § 50.4 Definitions. #####
 
+Link to an amendment published at 84 FR 62452, Nov. 15, 2019.
+
 For purposes of this part:
 
 (a) *Act* means the Terrorism Risk Insurance Act of 2002 (as amended).

@@ -1,8 +1,8 @@
 ##### § 10.34 Standards with respect to tax returns and documents, affidavits and other papers. #####
 
-(a) *Tax returns.* (1) A practitioner may not willfully, recklessly, or through gross incompetence -
+(a) *Tax returns.* (1) A practitioner may not willfully, recklessly, or through gross incompetence—
 
-(i) Sign a tax return or claim for refund that the practitioner knows or reasonably should know contains a position that -
+(i) Sign a tax return or claim for refund that the practitioner knows or reasonably should know contains a position that—
 
 (A) Lacks a reasonable basis;
 
@@ -10,7 +10,7 @@
 
 (C) Is a willful attempted by the practitioner to understate the liability for tax or a reckless or intentional disregard of rules or regulations by the practitioner as described in section 6694(b)(2) of the Code (including the related regulations and other published guidance).
 
-(ii) Advise a client to take a position on a tax return or claim for refund, or prepare a portion off a tax return or claim for refund containing a position, that -
+(ii) Advise a client to take a position on a tax return or claim for refund, or prepare a portion off a tax return or claim for refund containing a position, that—
 
 (A) Lacks a reasonable basis;
 
@@ -20,9 +20,9 @@
 
 (2) A pattern of conduct is a factor that will be taken into account in determining whether a practitioner acted willfully, recklessly, or through gross incompetence.
 
-(b) *Documents, affidavits and other papers* - (1) A practitioner may not advise a client to take a position on a document, affidavit or other paper submitted to the Internal Revenue Service unless the position is not frivolous.
+(b) *Documents, affidavits and other papers.* (1) A practitioner may not advise a client to take a position on a document, affidavit or other paper submitted to the Internal Revenue Service unless the position is not frivolous.
 
-(2) A practitioner may not advise a client to submit a document, affidavit or other paper to the Internal Revenue Service -
+(2) A practitioner may not advise a client to submit a document, affidavit or other paper to the Internal Revenue Service—
 
 (i) The purpose of which is to delay or impede the administration of the Federal tax laws;
 
@@ -30,9 +30,9 @@
 
 (iii) That contains or omits information in a manner that demonstrates an intentional disregard of a rule or regulation unless the practitioner also advises the client to submit a document that evidences a good faith challenge to the rule or regulation.
 
-(c) *Advising clients on potential penalties* - (1) A practitioner must inform a client of any penalties that are reasonably likely to apply to the client with respect to -
+(c) *Advising clients on potential penalties.* (1) A practitioner must inform a client of any penalties that are reasonably likely to apply to the client with respect to—
 
-(i) A position taken on a tax return if -
+(i) A position taken on a tax return if—
 
 (A) The practitioner advised the client with respect to the position; or
 

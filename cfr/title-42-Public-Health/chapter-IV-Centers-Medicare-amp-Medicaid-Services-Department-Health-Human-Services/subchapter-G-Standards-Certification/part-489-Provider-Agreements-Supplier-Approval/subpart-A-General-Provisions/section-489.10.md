@@ -1,5 +1,7 @@
 ##### § 489.10 Basic requirements. #####
 
+Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
+
 (a) Any of the providers specified in § 489.2 may request participation in Medicare. In order to be accepted, it must meet the conditions of participation or requirements (for SNFs) set forth in this section and elsewhere in this chapter. The RNHCIs must meet the conditions for coverage, conditions for participation and the requirements set forth in this section and elsewhere in this chapter.
 
 (b) In order to participate in the Medicare program, the provider must meet the applicable civil rights requirements of:

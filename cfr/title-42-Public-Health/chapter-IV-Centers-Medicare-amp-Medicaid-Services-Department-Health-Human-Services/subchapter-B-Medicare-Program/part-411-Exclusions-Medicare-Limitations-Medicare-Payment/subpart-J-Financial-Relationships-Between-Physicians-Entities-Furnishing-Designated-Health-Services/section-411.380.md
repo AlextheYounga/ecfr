@@ -1,5 +1,7 @@
 ##### § 411.380 When CMS issues a formal advisory opinion. #####
 
+Link to an amendment published at 84 FR 63192, Nov. 15, 2019.
+
 (a) CMS considers an advisory opinion to be issued once it has received payment and once the opinion has been dated, numbered, and signed by an authorized CMS official.
 
 (b) An advisory opinion contains a description of the material facts known to CMS that relate to the arrangement that is the subject of the advisory opinion, and states CMS's opinion about the subject matter of the request based on those facts. If necessary, CMS includes in the advisory opinion material facts that could be considered confidential information or trade secrets within the meaning of 18 U.S.C. 1095.

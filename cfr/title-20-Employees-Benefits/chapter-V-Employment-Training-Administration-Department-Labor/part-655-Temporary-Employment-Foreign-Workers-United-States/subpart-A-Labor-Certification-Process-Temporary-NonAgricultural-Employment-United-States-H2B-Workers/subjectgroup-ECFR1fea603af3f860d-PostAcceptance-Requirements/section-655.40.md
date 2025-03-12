@@ -1,5 +1,7 @@
 ##### § 655.40 Employer-conducted recruitment. #####
 
+Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
+
 (a) *Employer obligations.* Employers must conduct recruitment of U.S. workers to ensure that there are not qualified U.S. workers who will be available for the positions listed in the *Application for Temporary Employment Certification.* U.S. Applicants can be rejected only for lawful job-related reasons.
 
 (b) *Employer-conducted recruitment period.* Unless otherwise instructed by the CO, the employer must conduct the recruitment described in §§ 655.42 through 655.46 within 14 calendar days from the date the Notice of Acceptance is issued. All employer-conducted recruitment must be completed before the employer submits the recruitment report as required in § 655.48.

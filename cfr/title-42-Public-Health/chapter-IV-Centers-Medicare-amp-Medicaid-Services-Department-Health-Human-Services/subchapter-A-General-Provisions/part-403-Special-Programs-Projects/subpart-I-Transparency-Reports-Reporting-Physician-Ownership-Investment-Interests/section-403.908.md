@@ -1,5 +1,7 @@
 ##### § 403.908 Procedures for electronic submission of reports. #####
 
+Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
+
 (a) *File format.* Reports required under this subpart must be electronically submitted to CMS by March 31, 2014, and by the 90th day of each subsequent calendar year.
 
 (b) *General rules.* (1) If an applicable manufacturer made no reportable payments or transfers of value in the previous calendar year, nor had any reportable ownership or investment interests held by a physician or a physician's immediate family member (as defined in § 403.902) during the previous calendar year, the applicable manufacturer is not required to file a report.

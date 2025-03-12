@@ -1,5 +1,7 @@
 ##### § 515.19 Registration of foreign-based unlicensed NVOCC. #####
 
+Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
+
 (a) Any NVOCC whose primary place of business is located outside the United States and does not elect to become licensed by the Commission shall register with the Commission by submitting to the Director of the Bureau of Certification and Licensing (BCL) a completed registration form, Form FMC-65 (Foreign-based Unlicensed NVOCC Registration/Renewal). A notice of each registration shall be published on the Commission's Web site *www.fmc.gov.* It is a violation of the Commission's regulations implementing the Shipping Act for a foreign-based unlicensed non-vessel-operating common carrier to provide NVOCC services in the U.S. foreign trade without a valid registration and an effective tariff.
 
 (b) A registration form which appears, upon submission, to be substantially incomplete may be rejected. If rejected, a notice, together with the reasons therefore, shall be sent to the foreign-based unlicensed NVOCC. Persons who have had a registration rejected may submit a new registration at any time.

@@ -1,5 +1,7 @@
 ##### § 410.41 Requirements for ambulance suppliers. #####
 
+Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
+
 (a) *Vehicle.* A vehicle used as an ambulance must meet the following requirements:
 
 (1) Be specially designed to respond to medical emergencies or provide acute medical care to transport the sick and injured and comply with all State and local laws governing an emergency transportation vehicle.

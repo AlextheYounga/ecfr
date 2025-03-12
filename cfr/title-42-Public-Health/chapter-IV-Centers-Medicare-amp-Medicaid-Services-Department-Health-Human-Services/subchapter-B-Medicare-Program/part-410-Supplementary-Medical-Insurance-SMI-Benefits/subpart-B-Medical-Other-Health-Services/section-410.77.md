@@ -1,5 +1,7 @@
 ##### § 410.77 Certified nurse-midwives' services: Qualifications and conditions. #####
 
+Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
+
 (a) *Qualifications.* For Medicare coverage of his or her services, a certified nurse-midwife must:
 
 (1) Be a registered nurse who is legally authorized to practice as a nurse-midwife in the State where services are performed;

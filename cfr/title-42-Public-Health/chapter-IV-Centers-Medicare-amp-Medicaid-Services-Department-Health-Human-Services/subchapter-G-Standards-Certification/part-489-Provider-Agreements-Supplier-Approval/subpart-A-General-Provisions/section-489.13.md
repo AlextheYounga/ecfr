@@ -1,5 +1,7 @@
 ##### § 489.13 Effective date of agreement or approval. #####
 
+Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
+
 (a) *Applicability* - (1) *General rule.* Except as provided in paragraph (a)(2) of this section, this section applies to Medicare provider agreements with, and supplier approval of, entities that, as a basis for participation in Medicare are subject to a determination by CMS on the basis of -
 
 (i) A survey conducted by the State survey agency or CMS surveyors; or

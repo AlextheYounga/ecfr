@@ -1,6 +1,6 @@
 ##### § 10.25 Practice by former government employees, their partners and their associates. #####
 
-(a) *Definitions. For purposes of this section* -
+(a) *Definitions.* For purposes of this section -
 
 (1) *Assist* means to act in such a way as to advise, furnish information to, or otherwise aid another person, directly, or indirectly.
 

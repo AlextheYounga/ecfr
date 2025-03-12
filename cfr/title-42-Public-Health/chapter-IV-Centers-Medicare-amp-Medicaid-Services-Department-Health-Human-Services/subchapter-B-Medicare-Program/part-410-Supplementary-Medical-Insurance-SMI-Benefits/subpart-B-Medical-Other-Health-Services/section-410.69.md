@@ -1,5 +1,7 @@
 ##### § 410.69 Services of a certified registered nurse anesthetist or an anesthesiologist's assistant: Basic rule and definitions. #####
 
+Link to an amendment published at 84 FR 63190, Nov. 15, 2019.
+
 (a) *Basic rule.* Medicare Part B pays for anesthesia services and related care furnished by a certified registered nurse anesthetist or an anesthesiologist's assistant who is legally authorized to perform the services by the State in which the services are furnished.
 
 (b) *Definitions.* For purposes of this part -

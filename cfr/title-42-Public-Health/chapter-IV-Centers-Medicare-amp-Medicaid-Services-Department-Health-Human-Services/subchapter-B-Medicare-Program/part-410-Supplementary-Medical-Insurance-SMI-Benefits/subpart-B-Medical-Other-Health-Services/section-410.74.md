@@ -1,5 +1,7 @@
 ##### § 410.74 Physician assistants' services. #####
 
+Link to an amendment published at 84 FR 63190, Nov. 15, 2019.
+
 (a) *Basic rule.* Medicare Part B covers physician assistants' services only if the following conditions are met:
 
 (1) The services would be covered as physicians' services if furnished by a physician (a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act).

@@ -1,3 +1,7 @@
-##### § 304-5.7 xxx #####
+##### § 304-5.7 How do we review offers of payments in kind from the non-Federal sponsor or organizer of a meeting or similar function for items such as meals, transportation, and lodging when they are included in a waived or discounted registration fee? #####
 
-Link to an amendment published at 84 FR 55248, Oct. 16, 2019.
+(a) If the non-Federal sponsor or organizer of a meeting or similar function offers to waive or discount the registration fee of an employee who is only attending the event, you are not required to separately authorize acceptance of any items included in the registration fee. If applicable, acceptance of the registration fee must be reported to U.S. Office of Government Ethics (OGE) in accordance with part 304-6 of this chapter.
+
+(b) When a waived or discounted registration fee is not a payment in kind pursuant to § 304-3.10 of this chapter, the employee may only accept items that you authorize separately. If applicable, the value of any payments in kind so accepted should be reported to OGE in accordance with part 304-6 of this chapter. In particular, if a registration fee is waived or discounted on the day(s) an employee is participating as a speaker, panelist, or presenter, and the registration fee includes meal(s), the employee may accept meal(s) as a payment in kind only if you review the offer and authorize acceptance. Review the reporting guidelines at § 304-6.4 of this chapter to see if the aggregated meal amounts (if more than one meal, or meals of both an employee and spouse) will need to be reported to OGE.
+
+[84 FR 55248, Oct. 16, 2019]

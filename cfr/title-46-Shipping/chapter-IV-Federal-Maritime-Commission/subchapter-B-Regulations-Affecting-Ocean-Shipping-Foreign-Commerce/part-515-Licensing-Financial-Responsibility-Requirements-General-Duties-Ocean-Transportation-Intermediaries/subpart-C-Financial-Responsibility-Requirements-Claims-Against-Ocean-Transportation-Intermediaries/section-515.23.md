@@ -1,5 +1,7 @@
 ##### § 515.23 Claims against an ocean transportation intermediary. #####
 
+Link to an amendment published at 84 FR 62468, Nov. 15, 2019.
+
 (a) *Who may seek payment.* Shippers, common carriers, and other affected persons may seek payment from the bond, insurance, or other surety maintained by an ocean transportation intermediary for damages arising out of its ocean transportation-related activities. The Commission may also seek payment of civil penalties assessed under section 13 of the Shipping Act (46 U.S.C. 41107-41109).
 
 (b) *Payment pursuant to a claim.* (1) If a person does not file a complaint with the Commission pursuant to section 11 of the Shipping Act (46 U.S.C. 41301-41302, 41305-41307(a)), but otherwise seeks to pursue a claim against an ocean transportation intermediary bond, insurance, or other surety for damages arising from its transportation-related activities, it shall attempt to resolve its claim with the financial responsibility provider prior to seeking payment on any judgment for damages obtained. When a claimant seeks payment under this section, it simultaneously shall notify both the financial responsibility provider and the ocean transportation intermediary of the claim by mail or courier service. The bond, insurance, or other surety may be available to pay such claim if:

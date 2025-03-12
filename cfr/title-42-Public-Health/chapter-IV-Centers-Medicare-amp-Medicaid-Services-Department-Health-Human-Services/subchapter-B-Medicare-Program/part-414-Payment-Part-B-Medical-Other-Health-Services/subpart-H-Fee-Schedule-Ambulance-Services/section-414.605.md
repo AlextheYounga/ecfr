@@ -1,5 +1,7 @@
 ##### § 414.605 Definitions. #####
 
+Link to an amendment published at 84 FR 63193, November 15, 2019.
+
 As used in this subpart, the following definitions apply to both land and water (hereafter collectively referred to as “ground”) ambulance services and to air ambulance services unless otherwise specified:
 
 *Advanced life support (ALS) assessment* is an assessment performed by an ALS crew as part of an emergency response that was necessary because the patient's reported condition at the time of dispatch was such that only an ALS crew was qualified to perform the assessment. An ALS assessment does not necessarily result in a determination that the patient requires an ALS level of service.
