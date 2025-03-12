@@ -1,5 +1,7 @@
 ##### § 2.117 Suspension of proceedings. #####
 
+Link to an amendment published at 86 FR 64330, Nov. 17, 2021.
+
 (a) Whenever it shall come to the attention of the Trademark Trial and Appeal Board that a party or parties to a pending case are engaged in a civil action or another Board proceeding which may have a bearing on the case, proceedings before the Board may be suspended until termination of the civil action or the other Board proceeding.
 
 (b) Whenever there is pending before the Board both a motion to suspend and a motion which is potentially dispositive of the case, the potentially dispositive motion may be decided before the question of suspension is considered regardless of the order in which the motions were filed.

@@ -1,5 +1,7 @@
 ##### § 2.62 Procedure for submitting response. #####
 
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+
 (a) *Deadline.* The applicant's response to an Office action must be received by the USPTO within six months from the issue date.
 
 (b) *Signature.* The response must be signed by the applicant, someone with legal authority to bind the applicant (*e.g.,* a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the requirements of § 2.193(e)(2).

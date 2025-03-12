@@ -1,5 +1,7 @@
 ##### § 2.65 Abandonment. #####
 
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+
 (a) An application will be abandoned if an applicant fails to respond to an Office action, or to respond completely, within six months from the date of issuance. A timely petition to the Director pursuant to §§ 2.63(a) and (b) and 2.146 or notice of appeal to the Trademark Trial and Appeal Board pursuant to § 2.142, if appropriate, is a response that avoids abandonment (*see* § 2.63(b)(4)).
 
 (1) If all refusals and/or requirements are expressly limited to certain goods and/or services, the application will be abandoned only as to those goods and/or services.

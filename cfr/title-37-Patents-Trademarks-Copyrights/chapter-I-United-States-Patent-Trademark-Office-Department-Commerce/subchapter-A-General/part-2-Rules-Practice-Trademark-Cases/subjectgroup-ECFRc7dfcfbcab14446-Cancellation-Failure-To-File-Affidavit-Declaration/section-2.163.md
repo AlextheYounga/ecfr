@@ -1,5 +1,7 @@
 ##### § 2.163 Acknowledgment of receipt of affidavit or declaration. #####
 
+Link to an amendment published at 86 FR 64332, Nov. 17, 2021.
+
 The Office will issue a notice as to whether an affidavit or declaration is acceptable, or the reasons for refusal.
 
 (a) If the affidavit or declaration is filed within the time periods set forth in section 8 of the Act, deficiencies may be corrected after notification from the Office if the requirements of § 2.164 are met.

@@ -1,5 +1,7 @@
 ##### § 2.11 Requirement for representation. #####
 
+Link to an amendment published at 86 FR 64325, Nov. 17, 2021.
+
 (a) An applicant, registrant, or party to a proceeding whose domicile is not located within the United States or its territories must be represented by an attorney, as defined in § 11.1 of this chapter, who is qualified to practice under § 11.14 of this chapter. The Office cannot aid in the selection of an attorney.
 
 (b) The Office may require an applicant, registrant, or party to a proceeding to furnish such information or declarations as may be reasonably necessary to the proper determination of whether the applicant, registrant, or party is subject to the requirement in paragraph (a) of this section.

@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules - fishes. #####
 
-Link to an amendment published at 86 FR 57609, Oct. 18, 2021.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -485,5 +483,131 @@ A listing of all countries that have not designated either a Management Authorit
 (*7*) *Refuges and stocking.* Take of June suckers as a result of activities undertaken for the long-term maintenance of June suckers at Service-approved facilities outside of Utah Lake and its tributaries or for the production of June suckers for stocking in Utah Lake is allowed.
 
 (vi) Possess and engage in other acts with unlawfully taken endangered wildlife, as set forth at § 17.21(d)(2).
+
+(dd) Humpback chub (*Gila cypha*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to humpback chub. Except as provided under paragraphs (dd)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, unless excepted as outlined in paragraphs (dd)(2)(i) through (v) of this section.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *General exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by an existing permit under § 17.32.
+
+(ii) Conduct activities as authorized by a permit issued prior to November 17, 2021 under § 17.22 for the duration of the permit.
+
+(iii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iv) Take, as set forth at § 17.31(b).
+
+(v) Possess and engage in other acts with unlawfully taken specimens, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(3) *Exceptions from prohibitions for specific types of incidental take.* You may take humpback chub while carrying out the following legally conducted activities in accordance with this paragraph (dd)(3):
+
+(i) *Definitions.* For the purposes of this paragraph (dd)(3):
+
+(A) *Qualified person* means a full-time fish biologist or aquatic resources manager employed by any of the Colorado River Basin State wildlife agencies, Native American Tribes, the Department of the Interior bureaus and offices located within the Colorado River basin, or fish biologist or aquatic resource manager employed by a private consulting firm, provided the firm has received a scientific collecting permit from the appropriate State agency.
+
+(B) *The six core populations* means the following populations of the humpback chub: Desolation and Gray Canyons (Green River, Utah), Dinosaur National Monument (Green and Yampa Rivers, Colorado and Utah), Black Rocks (Colorado River, Colorado), Westwater Canyon (Colorado River, Utah), Cataract Canyon (Colorado River, Utah), and Grand Canyon (Colorado and Little Colorado Rivers, Arizona).
+
+(C) *Reasonable care* means limiting the impacts to humpback chub individuals and populations by complying with all applicable Federal, State, and Tribal regulations for the activity in question; using methods and techniques that result in the least harm, injury, or death, as feasible; undertaking activities at the least impactful times and locations, as feasible; and protecting existing extant wild populations of humpback chub by ensuring minimal impacts from the removal or sampling of individuals, preventing the introduction of disease or parasites, and preserving genetic diversity.
+
+(ii) *Creation and maintenance of refuge populations.* A qualified person may take humpback chub in order to create or maintain a captive or wild refuge population that protects the long-term genetic diversity of humpback chub, provided that reasonable care is practiced to minimize the effects of that taking.
+
+(A) Methods of allowable take under this paragraph (dd)(3)(ii) include, but are not limited to:
+
+(*1*) Removing wild individuals via electrofishing, nets, and seines from the six core populations;
+
+(*2*) Managing captive populations, including handling, rearing, and spawning of captive fish;
+
+(*3*) Sacrificing individuals for hatchery management, such as parasite and disease certification; and
+
+(*4*) Eliminating wild refuge populations if conditions are deemed inadequate for conservation of the species or are deemed detrimental to the six core populations.
+
+(B) Before the establishment of any captive or wild refuge population, the Service must approve, in writing, the designation of the refuge population, and any removal of humpback chub individuals from wild populations. Subsequent to a written approval for the establishment of a refuge population, take associated with the maintenance of the refuge population would not be prohibited under the Act.
+
+(iii) *Translocation and stocking of humpback chub.* A qualified person may take humpback chub in order to introduce individuals into areas outside of the six core populations. Humpback chub individuals may be introduced to new areas by translocating wild individuals to additional locations or by stocking individuals from captivity. All translocations of wild individuals and stocking of individuals from captivity must involve reasonable care to minimize the effects of that taking. Translocations of wild individuals and stocking of individuals from captivity must be undertaken to expand the range of humpback chub or to supplement existing populations.
+
+(A) Methods of allowable take under this paragraph (dd)(3)(iii) include, but are not limited to:
+
+(*1*) Removing wild individuals via electrofishing, nets, and seines;
+
+(*2*) Managing captive populations, including handling, rearing, and spawning;
+
+(*3*) Sacrificing individuals for hatchery management, such as parasite and disease certification; and
+
+(*4*) Removing or eliminating all humpback chub from failed introduction areas via mechanical or chemical methods.
+
+(B) The Service must approve, in advance and in writing:
+
+(*1*) Any translocation program; and
+
+(*2*) Any stocking of humpback chub into any of the six core populations.
+
+(iv) *Nonnative fish removal.* A qualified person may take humpback chub in order to perform nonnative fish removal for conservation purposes if reasonable care is practiced to minimize effects to humpback chub. For this paragraph (dd)(3)(iv), nonnative fish removal for conservation purposes means any action with the primary or secondary purpose of mechanically removing nonnative fishes that compete with, predate, or degrade the habitat of humpback chub.
+
+(A) Methods of allowable take under this paragraph (dd)(3)(iv) include, but are not limited to:
+
+(*1*) Mechanical removal of nonnative fish within occupied humpback chub habitats, including, but not limited to, electrofishing, seining, netting, and angling; and
+
+(*2*) The use of other ecosystem modifications, such as altered flow regimes or habitat modifications.
+
+(B) The Service and all applicable landowners must approve, in advance and in writing, any nonnative fish removal activities under this paragraph (dd)(3)(iv).
+
+(v) *Catch-and-release angling of humpback chub.* States and Tribes may enact Federal, State, and Tribal fishing regulations that address catch-and-release angling.
+
+(A) In the six core populations, angling activities may include nontargeted (incidental) catch and release of humpback chub when targeting other species in accordance with Federal, State, and Tribal fishing regulations.
+
+(B) In areas outside of the six core populations, angling activities may include targeted catch and release of humpback chub in accordance with Federal, State, and Tribal fishing regulations.
+
+(C) Angling activities may cause take via:
+
+(*1*) Handling of humpback chub caught via angling;
+
+(*2*) Injury to humpback chub caught via angling; and
+
+(*3*) Unintentional death to humpback chub caught via angling.
+
+(D) Reasonable consideration by the Federal, State, and Tribal agencies for incidental catch and release of humpback chub in the six core populations include:
+
+(*1*) Regulating tactics to minimize potential injury and death to humpback chub if caught;
+
+(*2*) Communicating the potential for catching humpback chub in these areas; and
+
+(*3*) Promoting the importance of the six core populations.
+
+(E) Reasonable consideration for establishing new recreational angling locations for humpback chub include, but are not limited to:
+
+(*1*) Evaluating each water body's ability to support humpback chub and sustain angling;
+
+(*2*) Ensuring the recreational fishing population does not detrimentally impact the six core populations of humpback chub through such factors as disease or genetic drift; and
+
+(*3*) Monitoring to ensure there are no detrimental effects to the humpback chub population from angling.
+
+(F) The Service and all applicable State, Federal, and Tribal landowners must approve, in advance and in writing, any new recreational fishery for humpback chub.
+
+(vi) *Chemical treatments to support humpback chub.* A qualified person may take humpback chub by performing a chemical treatment in accordance with Federal, State, and Tribal regulations that would support the conservation and recovery of humpback chub, provided that reasonable care is practiced to minimize the effects of such taking.
+
+(A) For treatments upstream of occupied humpback chub habitat:
+
+(*1*) Service approval is not required; and
+
+(*2*) Care should be taken to limit the potential for fish toxicants and piscicides traveling beyond treatment boundaries and impacting humpback chub.
+
+(B) For treatments in known or potentially occupied humpback chub habitat:
+
+(*1*) The Service must approve, in advance and in writing, any treatment;
+
+(*2*) Care should be taken to perform robust salvage efforts to remove any humpback chub that may occur in the treatment area before the treatment is conducted; and
+
+(C) Whenever possible, humpback chub that are salvaged should be moved to a location that supports recovery of the species.
+
+(vii) *Reporting and disposal requirements.* Any mortality of humpback chub associated with the actions authorized under the regulations in this paragraph (dd)(3) must be reported to the Service within 72 hours, and specimens may be disposed of only in accordance with directions from the Service. Reports in the upper basin (upstream of Glen Canyon Dam) must be made to the Service's Mountain-Prairie Region Law Enforcement Office, or the Service's Upper Colorado River Endangered Fish Recovery Office. Reports in the lower basin (downstream Glen Canyon Dam) must be made to the Service's Southwest Region Law Enforcement Office, or the Service's Arizona Fish and Wildlife Conservation Office. Contact information for the Service's regional offices is set forth at 50 CFR 2.2, and the phone numbers of Law Enforcement offices are at 50 CFR 10.22. The Service may allow additional reasonable time for reporting if access to these offices is limited due to office closure or if the activity was conducted in an area without sufficient communication access.
 
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.44, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

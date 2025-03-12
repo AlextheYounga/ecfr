@@ -1,5 +1,7 @@
 ##### § 2.18 Correspondence, with whom held. #####
 
+Link to an amendment published at 86 FR 64325, Nov. 17, 2021.
+
 (a) *Establishing the correspondent.* The Office will send correspondence as follows:
 
 (1) If the applicant, registrant, or party to a proceeding is not represented by an attorney qualified to practice before the Office under § 11.14(a) of this chapter, the Office will send correspondence to the applicant, registrant, or party to the proceeding.

@@ -1,5 +1,7 @@
 ##### § 2.23 Requirement to correspond electronically with the Office and duty to monitor status. #####
 
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+
 (a) Unless stated otherwise in this chapter, all trademark correspondence must be submitted through TEAS.
 
 (b) Applicants, registrants, and parties to a proceeding must provide and maintain a valid email address for correspondence.

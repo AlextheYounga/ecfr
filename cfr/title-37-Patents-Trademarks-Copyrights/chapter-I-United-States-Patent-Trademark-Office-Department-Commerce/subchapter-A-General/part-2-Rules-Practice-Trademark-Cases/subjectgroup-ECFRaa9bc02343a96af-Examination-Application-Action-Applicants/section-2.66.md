@@ -1,5 +1,7 @@
 ##### § 2.66 Revival of applications abandoned in full or in part due to unintentional delay. #####
 
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+
 (a) *Deadline.* The applicant may file a petition to revive an application abandoned in full or in part because the applicant did not timely respond to an Office action or notice of allowance, if the delay was unintentional. The applicant must file the petition by not later than:
 
 (1) Two months after the issue date of the notice of abandonment in full or in part; or

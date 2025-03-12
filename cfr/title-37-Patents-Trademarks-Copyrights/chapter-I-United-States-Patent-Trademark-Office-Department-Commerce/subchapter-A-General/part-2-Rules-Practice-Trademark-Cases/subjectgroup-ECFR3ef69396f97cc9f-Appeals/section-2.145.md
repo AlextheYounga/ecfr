@@ -1,5 +1,7 @@
 ##### § 2.145 Appeal to court and civil action. #####
 
+Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
+
 (a) *For an Appeal to the United States Court of Appeals for the Federal Circuit under section 21(a) of the Act.* (1) An applicant for registration, or any party to an interference, opposition, or cancellation proceeding or any party to an application to register as a concurrent user, hereinafter referred to as inter partes proceedings, who is dissatisfied with the decision of the Trademark Trial and Appeal Board, and any registrant who has filed an affidavit or declaration under section 8 or section 71 of the Act or who has filed an application for renewal and is dissatisfied with the decision of the Director (§§ 2.165, 2.184), may appeal to the United States Court of Appeals for the Federal Circuit. It is unnecessary to request reconsideration by the Board before filing any such appeal; however, a party requesting reconsideration must do so before filing a notice of appeal.
 
 (2) In all appeals under section 21(a), the appellant must take the following steps:

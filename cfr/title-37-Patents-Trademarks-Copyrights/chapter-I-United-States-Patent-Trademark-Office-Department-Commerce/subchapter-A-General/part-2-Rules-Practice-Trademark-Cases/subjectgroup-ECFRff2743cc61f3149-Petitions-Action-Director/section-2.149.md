@@ -1,5 +1,7 @@
 ##### § 2.149 Letters of protest against pending applications. #####
 
+Link to an amendment published at 86 FR 64332, Nov. 17, 2021.
+
 (a) A third party may submit, for consideration and entry in the record of a trademark application, objective evidence relevant to the examination of the application for a ground for refusal of registration if the submission is made in accordance with this section.
 
 (b) A party protesting multiple applications must file a separate submission under this section for each application.

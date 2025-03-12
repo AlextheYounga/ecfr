@@ -1,5 +1,7 @@
 ##### § 2.142 Time and manner of ex parte appeals. #####
 
+Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
+
 (a) Any appeal filed under the provisions of § 2.141 must be filed within six months from the date of the final refusal or the date of the action from which the appeal is taken. An appeal is taken by filing a notice of appeal in written form, as prescribed in § 2.126, and paying the appeal fee.
 
 (b)(1) The brief of appellant shall be filed within sixty days from the date of appeal. If the brief is not filed within the time allowed, the appeal may be dismissed. The examining attorney shall, within sixty days after the brief of appellant is sent to the examining attorney, file with the Trademark Trial and Appeal Board a written brief answering the brief of appellant and shall email or mail a copy of the brief to the appellant. The appellant may file a reply brief within twenty days from the date of mailing of the brief of the examining attorney.

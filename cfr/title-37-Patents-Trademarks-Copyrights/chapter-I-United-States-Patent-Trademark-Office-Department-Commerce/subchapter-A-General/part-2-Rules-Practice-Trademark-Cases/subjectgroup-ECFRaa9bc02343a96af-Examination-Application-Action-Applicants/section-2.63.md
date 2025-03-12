@@ -1,5 +1,7 @@
 ##### § 2.63 Action after response. #####
 
+Link to an amendment published at 86 FR 64326, Nov. 17, 2021.
+
 (a) *Repeated non-final refusal or requirement.* After response by the applicant, the examining attorney will review all statutory refusals and/or requirement(s) in light of the response.
 
 (1) If, after review of the applicant's response, the examining attorney issues a non-final action that maintains any previously issued substantive refusal(s) to register or repeats any requirement(s), the applicant may submit a timely response to the action under § 2.62(a).
