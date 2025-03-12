@@ -1,7 +1,5 @@
 ##### § 76.64 Retransmission consent. #####
 
-Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
-
 (a) No multichannel video programming distributor shall retransmit the signal of any commercial broadcasting station without the express authority of the originating station, except as provided in paragraph (b) of this section.
 
 (b) A commercial broadcast signal may be retransmitted without express authority of the originating station if -
@@ -50,7 +48,29 @@ Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
 
 (g) If one or more franchise areas served by a cable system overlaps with one or more franchise areas served by another cable system, television broadcast stations are required to make the same election for both cable systems.
 
-(h) On or before each must-carry/retransmission consent election deadline, each television broadcast station shall place copies of all of its election statements in the station's public file, and shall send via certified mail to each cable system in the station's defined market a copy of the station's election statement with respect to that operator.
+(h)(1) On or before each must-carry/retransmission consent election deadline, each television broadcast station shall place a copy of its election statement, and copies of any election change notices applying to the upcoming carriage cycle, in the station's public file.
+
+(2) Each cable operator shall, no later than July 31, 2020, provide an up-to-date email address for carriage election notice submissions with respect to its systems and an up-to-date phone number for carriage-related questions. Each cable operator is responsible for the continuing accuracy and completeness of the information furnished. It must respond to questions from broadcasters as soon as is reasonably possible.
+
+(3) A station shall send a notice of its election to a cable operator only if changing its election with respect to one or more of that operator's systems. Such notice shall be sent to the email address provided by the cable system and carbon copied to *ElectionNotices@FCC.gov.* A notice must include, with respect to each station referenced in the notice, the:
+
+(i) Call sign;
+
+(ii) Community of license;
+
+(iii) DMA where the station is located;
+
+(iv) Specific change being made in election status;
+
+(v) Email address for carriage-related questions;
+
+(vi) Phone number for carriage-related questions;
+
+(vii) Name of the appropriate station contact person; and,
+
+(viii) If the station changes its election for some systems of the cable operator but not all, the specific cable systems for which a carriage election applies.
+
+(4) Cable operators must respond via email as soon as is reasonably possible, acknowledging receipt of a television station's election notice.
 
 (i) Notwithstanding a television station's election of must-carry status, if a cable operator proposes to retransmit that station's signal without according the station must-carry rights (*i.e.,* pursuant to § 76.56(e)), the operator must obtain the station's express authority prior to retransmitting its signal.
 
@@ -66,4 +86,4 @@ Note 1 to § 76.64:
 
 Section 76.1608 provides notification requirements for a cable system that changes its technical configuration in such a way as to integrate two formerly separate cable systems.
 
-[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018]
+[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019]

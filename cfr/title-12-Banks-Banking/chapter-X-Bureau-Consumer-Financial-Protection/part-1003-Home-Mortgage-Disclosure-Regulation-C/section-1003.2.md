@@ -1,6 +1,6 @@
 ##### § 1003.2 Definitions. #####
 
-Link to an amendment published at 82 FR 43145, Sept. 13, 2017.
+Link to an amendment published at 82 FR 43145, Sept. 13, 2017.Link to an amendment published at 84 FR 57980, Oct. 29, 2019.Link to an amendment published at 84 FR 58003, Oct. 29, 2019.
 
 In this part:
 

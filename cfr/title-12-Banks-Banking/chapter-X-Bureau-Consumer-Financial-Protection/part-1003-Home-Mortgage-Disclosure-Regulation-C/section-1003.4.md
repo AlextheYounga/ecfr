@@ -1,5 +1,7 @@
 ##### § 1003.4 Compilation of reportable data. #####
 
+Link to an amendment published at 84 FR 57981, Oct. 29, 2019.
+
 (a) *Data format and itemization.* A financial institution shall collect data regarding applications for covered loans that it receives, covered loans that it originates, and covered loans that it purchases for each calendar year. A financial institution shall collect data regarding requests under a preapproval program, as defined in § 1003.2(b)(2), only if the preapproval request is denied, is approved by the financial institution but not accepted by the applicant, or results in the origination of a home purchase loan. The data collected shall include the following items:
 
 (1)(i) A universal loan identifier (ULI) for the covered loan or application that can be used to identify and retrieve the covered loan or application file. Except for a purchased covered loan or application described in paragraphs (a)(1)(i)(D) and (E) of this section, the financial institution shall assign and report a ULI that:

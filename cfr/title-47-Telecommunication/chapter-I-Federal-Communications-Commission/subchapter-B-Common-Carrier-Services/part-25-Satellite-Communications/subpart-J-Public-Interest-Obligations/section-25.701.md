@@ -1,7 +1,5 @@
 ##### § 25.701 Other DBS Public interest obligations. #####
 
-Link to an amendment published at 84 FR 45668, Aug. 30, 2019.
-
 (a) DBS providers are subject to the public interest obligations set forth in paragraphs (b), (c), (d), (e) and (f) of this section. As used in this section, DBS providers are any of the following:
 
 (1) Entities licensed to operate satellites in the 12.2 to 12.7 GHz DBS frequency bands; or
@@ -154,6 +152,8 @@ For purposes of this section, children's programming refers to programs original
 
 (C) A record of entities that have requested capacity, disposition of those requests and reasons for the disposition.
 
+(D) Each satellite carrier shall, no later than July 31, 2020, provide an up-to-date email address for carriage election notice submissions and an up-to-date phone number for carriage-related questions. Each satellite carrier is responsible for the continuing accuracy and completeness of the information furnished. It must respond to questions from broadcasters as soon as is reasonably possible.
+
 (ii) All records required by paragraph (i) of this paragraph shall be placed in the online file hosted by the Commission as soon as possible and shall be retained for a period of two years.
 
 (iii) Each DBS provider must also place in the online file hosted by the Commission the records required to be placed in the public inspection file by § 25.701(e) (commercial limits in children's programs) and by § 25.601 and 47 CFR part 76, subpart E (equal employment opportunity requirements) and retain those records for the period required by those rules.
@@ -162,4 +162,4 @@ For purposes of this section, children's programming refers to programs original
 
 (7) *Effective date.* DBS providers are required to make channel capacity available pursuant to this section upon the effective date. Programming provided pursuant to this rule must be available to the public no later than six months after the effective date.
 
-[69 FR 23157, Apr. 28, 2004, as amended at 72 FR 50033, Aug. 29, 2007; 78 FR 8431, Feb. 6, 2013; 81 FR 10122, Feb. 29, 2016]
+[69 FR 23157, Apr. 28, 2004, as amended at 72 FR 50033, Aug. 29, 2007; 78 FR 8431, Feb. 6, 2013; 81 FR 10122, Feb. 29, 2016; 84 FR 45668, Aug. 30, 2019]

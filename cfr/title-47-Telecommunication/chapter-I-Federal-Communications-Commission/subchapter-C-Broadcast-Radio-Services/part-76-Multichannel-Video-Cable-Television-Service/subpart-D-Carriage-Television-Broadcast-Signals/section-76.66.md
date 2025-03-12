@@ -1,7 +1,5 @@
 ##### § 76.66 Satellite broadcast signal carriage. #####
 
-Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
-
 (a) *Definitions* - (1) *Satellite carrier.* A satellite carrier is an entity that uses the facilities of a satellite or satellite service licensed by the Federal Communications Commission, and operates in the Fixed-Satellite Service under part 25 of title 47 of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations, to establish and operate a channel of communications for point-to-multipoint distribution of television station signals, and that owns or leases a capacity or a service on a satellite in order to provide such point-to-multipoint distribution, except to the extent that such entity provides such distribution pursuant to tariff under the Communications Act of 1934, other than for private home viewing.
 
 (2) *Secondary transmission.* A secondary transmission is the further transmitting of a primary transmission simultaneously with the primary transmission.
@@ -28,35 +26,41 @@ Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
 
 (4) Except as provided in paragraphs (c)(6), (d)(2) and (d)(3) of this section, local commercial television broadcast stations shall make their retransmission consent-mandatory carriage election by October 1st of the year preceding the new cycle for all election cycles after the first election cycle.
 
-(5) A noncommercial television station must request carriage by July 1, 2001 for the first election cycle and must renew its carriage request at the same time a commercial television station must make its retransmission consent-mandatory carriage election for all subsequent cycles.
+(5) [Reserved]
 
 (6) A commercial television broadcast station located in a local market in Alaska or Hawaii shall make its retransmission consent-mandatory carriage election by October 1, 2005, for carriage of its signal that originates as an analog signal for carriage commencing on December 8, 2005, and by April 1, 2007, for its signal that originates as a digital signal for carriage commencing on June 8, 2007 and ending on December 31, 2008. For analog and digital signal carriage cycles commencing after December 31, 2008, such stations shall follow the election cycle in paragraphs (c)(2) and (4). A noncommercial television broadcast station located in a local market in Alaska or Hawaii must request carriage by October 1, 2005, for carriage of its signal that originates as an analog signal for carriage commencing on December 8, 2005, and by April 1, 2007, for its signal that originates as a digital signal for carriage commencing on June 8, 2007 and ending on December 31, 2008.
 
-(d) *Carriage procedures* - (1) *Carriage requests.* (i) An election for mandatory carriage made by a television broadcast station shall be treated as a request for carriage. For purposes of this paragraph concerning carriage procedures, the term election request includes an election of retransmission consent or mandatory carriage.
+(d) *Carriage procedures* - (1) *Carriage requests.* (i) An election for mandatory carriage made by a television broadcast station shall be treated as a request for carriage. For purposes of this paragraph (d), the term election request includes an election of retransmission consent or mandatory carriage.
 
-(ii) An election request made by a television station must be in writing and sent to the satellite carrier's principal place of business, by certified mail, return receipt requested.
+(ii) Each satellite carrier shall, no later than July 31, 2020, provide an up-to-date email address for carriage election notice submissions and an up-to-date phone number for carriage-related questions. Each satellite carrier is responsible for the continuing accuracy and completeness of the information furnished. It must respond to questions from broadcasters as soon as is reasonably possible.
 
-(iii) A television station's written notification shall include the:
+(iii) A station shall send a notice of its election to a satellite carrier only if changing its election with respect to one or more of the markets served by that carrier. Such notice shall be sent to the email address provided by the satellite carrier and carbon copied to *ElectionNotices@FCC.gov.*
 
-(A) Station's call sign;
+(iv) A television station's written notification shall include with respect to each station referenced in the notice, the:
 
-(B) Name of the appropriate station contact person;
+(A) Call sign;
 
-(C) Station's address for purposes of receiving official correspondence;
+(B) Community of license;
 
-(D) Station's community of license;
+(C) DMA where the station is located;
 
-(E) Station's DMA assignment; and
+(D) Specific change being made in election status;
 
-(F) For commercial television stations, its election of mandatory carriage or retransmission consent.
+(E) Email address for carriage-related questions;
 
-(iv) Within 30 days of receiving a television station's carriage request, a satellite carrier shall notify in writing:
+(F) Phone number for carriage-related questions; and
 
-(A) those local television stations it will not carry, along with the reasons for such a decision; and
+(G) Name of the appropriate station contact person.
 
-(B) those local television stations it intends to carry.
+(v) A satellite carrier must respond via email as soon as is reasonably possible, acknowledging receipt of a television station's election notice.
 
-(v) A satellite carrier is not required to carry a television station, for the duration of the election cycle, if the station fails to assert its carriage rights by the deadlines established in this section.
+(vi) Within 30 days of receiving a television station's carriage request, a satellite carrier shall notify in writing:
+
+(A) Those local television stations it will not carry, along with the reasons for such a decision; and
+
+(B) Those local television stations it intends to carry.
+
+(vii) A satellite carrier is not required to carry a television station, for the duration of the election cycle, if the station fails to assert its carriage rights by the deadlines established in this section.
 
 (2) *New local-into-local service.* (i) A new satellite carrier or a satellite carrier providing local service in a market for the first time after July 1, 2001, shall inform each television broadcast station licensee within any local market in which a satellite carrier proposes to commence carriage of signals of stations from that market, not later than 60 days prior to the commencement of such carriage
 
@@ -80,7 +84,7 @@ Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
 
 (3) *New television stations.* (i) A television station providing over-the-air service in a market for the first time on or after July 1, 2001, shall be considered a new television station for satellite carriage purposes.
 
-(ii) A new television station shall make its election request, in writing, sent to the satellite carrier's principal place of business by certified mail, return receipt requested, between 60 days prior to commencing broadcasting and 30 days after commencing broadcasting. This written notification shall include the information required by paragraph (d)(1)(iii) of this section.
+(ii) A new television station shall make its election request, in writing, sent to the satellite carrier's email address provided by the satellite carrier and carbon copied to *ElectionNotices@FCC.gov,* between 60 days prior to commencing broadcasting and 30 days after commencing broadcasting. This written notification shall include the information required by paragraph (d)(1)(iv) of this section.
 
 (iii) A satellite carrier shall commence carriage within 90 days of receiving the request for carriage from the television broadcast station or whenever the new television station provides over-the-air service.
 
@@ -194,4 +198,4 @@ Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
 
 (ii) Continues to qualify for mandatory carriage at the host station's facilities, including (but not limited to) delivering a good quality 1.0 signal to the satellite carrier local receive facility, or agreeing to be responsible for the costs of delivering such 1.0 signal to the satellite carrier.
 
-[66 FR 7430, Jan. 23, 2001, as amended at 66 FR 49135, Sept. 26, 2001; 70 FR 21670, Apr. 27, 2005; 70 FR 51668, Aug. 31, 2005; 70 FR 53079, Sept. 7, 2005; 73 FR 24508, May 5, 2008; 77 FR 30426, May 23, 2012; 80 FR 59664, Oct. 2, 2015; 83 FR 5028, Feb. 2, 2018]
+[66 FR 7430, Jan. 23, 2001, as amended at 66 FR 49135, Sept. 26, 2001; 70 FR 21670, Apr. 27, 2005; 70 FR 51668, Aug. 31, 2005; 70 FR 53079, Sept. 7, 2005; 73 FR 24508, May 5, 2008; 77 FR 30426, May 23, 2012; 80 FR 59664, Oct. 2, 2015; 83 FR 5028, Feb. 2, 2018; 84 FR 45669, Aug. 30, 2019]
