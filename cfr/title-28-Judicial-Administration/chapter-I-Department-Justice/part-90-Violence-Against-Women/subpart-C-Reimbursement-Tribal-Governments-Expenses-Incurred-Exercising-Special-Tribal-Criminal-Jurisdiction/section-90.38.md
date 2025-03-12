@@ -1,0 +1,3 @@
+##### § 90.38 Collection of expenses from offenders. #####
+
+If a participating Tribe recoups expenses related to exercise of STCJ from the convicted offenders prior to receiving reimbursement for such expenses, then the recouped funds shall be used prior to seeking reimbursement through the Tribal Reimbursement Program. If a participating Tribe recoups expenses related to exercise of STCJ from the convicted offenders subsequent to receiving reimbursement for such expenses, such funds must be used toward exercise of STCJ.

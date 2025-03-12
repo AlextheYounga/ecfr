@@ -1,7 +1,5 @@
 ##### § 27.1305 Powerplant instruments. #####
 
-Link to an amendment published at 88 FR 8737, Feb. 10, 2023.
-
 The following are the required powerplant instruments:
 
 (a) A carburetor air temperature indicator, for each engine having a preheater that can provide a heat rise in excess of 60 °F.
@@ -18,7 +16,7 @@ The following are the required powerplant instruments:
 
 (d) A fuel quantity indicator, for each fuel tank.
 
-(e) A manifold pressure indicator, for each altitude engine.
+(e) A means to indicate manifold pressure for each altitude engine.
 
 (f) An oil temperature warning device to indicate when the temperature exceeds a safe value in each main rotor drive gearbox (including any gearboxes essential to rotor phasing) having an oil system independent of the engine oil system.
 
@@ -30,7 +28,7 @@ The following are the required powerplant instruments:
 
 (j) An oil temperature indicator for each engine.
 
-(k) At least one tachometer to indicate the r.p.m. of each engine and, as applicable—
+(k) A means to indicate the r.p.m. of each engine and at least one tachometer, as applicable, for:
 
 (1) The r.p.m. of the single main rotor;
 
@@ -46,9 +44,9 @@ The following are the required powerplant instruments:
 
 (m) Means to indicate to the flightcrew the failure of any fuel pump installed to show compliance with § 27.955.
 
-(n) A gas temperature indicator for each turbine engine.
+(n) A means to indicate the gas temperature for each turbine engine.
 
-(o) Means to enable the pilot to determine the torque of each turboshaft engine, if a torque limitation is established for that engine under § 27.1521(e).
+(o) A means to enable the pilot to determine the torque of each turbine engine, if a torque limitation is established for that engine under § 27.1521(e).
 
 (p) For each turbine engine, an indicator to indicate the functioning of the powerplant ice protection system.
 
@@ -72,4 +70,4 @@ The following are the required powerplant instruments:
 
 (v) Warning or caution devices to signal to the flight crew when ferromagnetic particles are detected by the chip detector required by § 27.1337(e).
 
-[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-9, 39 FR 35462, Oct. 1, 1974; Amdt. 27-23, 53 FR 34214, Sept. 2, 1988; Amdt. 27-29, 59 FR 47767, Sept. 16, 1994; Amdt. 27-37, 64 FR 45095, Aug. 18, 1999; 64 FR 47563, Aug. 31, 1999]
+[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-9, 39 FR 35462, Oct. 1, 1974; Amdt. 27-23, 53 FR 34214, Sept. 2, 1988; Amdt. 27-29, 59 FR 47767, Sept. 16, 1994; Amdt. 27-37, 64 FR 45095, Aug. 18, 1999; 64 FR 47563, Aug. 31, 1999; Amdt. 27-51, 88 FR 8737, Feb. 10, 2023]

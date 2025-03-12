@@ -1,5 +1,7 @@
 ##### § 431.96 Uniform test method for the measurement of energy efficiency of commercial air conditioners and heat pumps. #####
 
+Link to an amendment published at 88 FR 21839, Apr. 11, 2023.
+
 (a) *Scope.* This section contains test procedures for measuring, pursuant to EPCA, the energy efficiency of any small, large, or very large commercial package air-conditioning and heating equipment, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, variable refrigerant flow systems, single package vertical air conditioners and single package vertical heat pumps, and direct expansion-dedicated outdoor air systems.
 
 (b) *Testing and calculations.* (1) Determine the energy efficiency and capacity of each category of covered equipment by conducting the test procedure(s) listed in table 1 to this paragraph (b) along with any additional testing provisions set forth in paragraphs (c) through (g) of this section and appendices A through G1 to this subpart, that apply to the energy efficiency descriptor for that equipment, category, and cooling capacity. The omitted sections of the test procedures listed in table 1 must not be used. For equipment with multiple appendices listed in table 1, consult the notes at the beginning of those appendices to determine the applicable appendix to use for testing.

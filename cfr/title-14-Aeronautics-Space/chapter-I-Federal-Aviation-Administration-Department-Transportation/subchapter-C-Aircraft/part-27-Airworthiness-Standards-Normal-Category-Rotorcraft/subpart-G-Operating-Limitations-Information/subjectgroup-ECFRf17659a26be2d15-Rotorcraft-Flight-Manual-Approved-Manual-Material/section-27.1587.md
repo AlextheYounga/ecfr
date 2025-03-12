@@ -1,10 +1,8 @@
 ##### § 27.1587 Performance information. #####
 
-Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
-
 (a) The Rotorcraft Flight Manual must contain the following information, determined in accordance with §§ 27.49 through 27.87 and 27.143(c) and (d):
 
-(1) Enough information to determine the limiting height-speed envelope.
+(1) Enough information to determine the limiting height-velocity envelope.
 
 (2) Information relative to—
 
@@ -22,4 +20,4 @@ Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
 
 (2) The horizontal takeoff distance determined in accordance with § 27.65(a)(2)(i).
 
-(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-14, 43 FR 2326, Jan. 16, 1978; Amdt. 27-21, 49 FR 44435, Nov. 6, 1984; Amdt. 27-44, 73 FR 11000, Feb. 29, 2008; 73 FR 33876, June 16, 2008]
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-14, 43 FR 2326, Jan. 16, 1978; Amdt. 27-21, 49 FR 44435, Nov. 6, 1984; Amdt. 27-44, 73 FR 11000, Feb. 29, 2008; 73 FR 33876, June 16, 2008; Amdt. 27-51, 88 FR 8739, Feb. 10, 2023]

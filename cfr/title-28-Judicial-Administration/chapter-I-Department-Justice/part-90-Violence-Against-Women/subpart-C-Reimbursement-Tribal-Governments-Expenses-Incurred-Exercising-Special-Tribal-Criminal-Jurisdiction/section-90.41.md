@@ -1,0 +1,3 @@
+##### § 90.41 Denial of specific expenses for reimbursement. #####
+
+If reimbursement of specific expenses is denied, the participating Tribe may request review of the denial via a letter to the OVW Director stating the reason why the denied expense was eligible for reimbursement. OVW must receive the letter within 30 calendar days of the denial. The OVW Director will review the letter and notify the participating Tribe of a final decision within 30 days of receipt of the letter.

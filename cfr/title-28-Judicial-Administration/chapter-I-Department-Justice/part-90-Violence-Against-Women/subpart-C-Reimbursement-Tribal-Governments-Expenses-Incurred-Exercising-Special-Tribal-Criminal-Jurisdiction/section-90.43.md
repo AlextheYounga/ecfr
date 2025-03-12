@@ -1,0 +1,3 @@
+##### § 90.43 Corrective action. #####
+
+Reimbursement requests later found not to meet statutory, regulatory, or other program requirements may result in a corrective action plan and/or recovery/recoupment. Participating Tribes that fail to submit the required summary of eligible expenses under §§ 90.34 and 90.35, respond to requests for information during monitoring or auditing, or follow a corrective action plan or return funds expended on ineligible expenses will be deemed ineligible for additional Tribal Reimbursement Program funds, in the same or another calendar year, until such deficiencies are remedied.

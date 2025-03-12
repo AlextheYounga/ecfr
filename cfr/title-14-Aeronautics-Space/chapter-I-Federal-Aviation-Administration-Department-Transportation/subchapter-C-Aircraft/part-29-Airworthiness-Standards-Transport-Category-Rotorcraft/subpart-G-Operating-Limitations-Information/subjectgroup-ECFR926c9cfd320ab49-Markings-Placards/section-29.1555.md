@@ -1,7 +1,5 @@
 ##### § 29.1555 Control markings. #####
 
-Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
-
 (a) Each cockpit control, other than primary flight controls or control whose function is obvious, must be plainly marked as to its function and method of operation.
 
 (b) For powerplant fuel controls—
@@ -14,7 +12,11 @@ Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
 
 (c) Usable fuel capacity must be marked as follows:
 
-(1) For fuel systems having no selector controls, the usable fuel capacity of the system must be indicated at the fuel quantity indicator.
+(1) For fuel systems having no selector controls, the usable fuel capacity of the system must be indicated at the fuel quantity indicator unless it is:
+
+(i) Provided by another system or equipment readily accessible to the pilot; and
+
+(ii) Contained in the limitations section of the rotorcraft flight manual.
 
 (2) For fuel systems having selector controls, the usable fuel capacity available at each selector control position must be indicated near the selector control.
 
@@ -26,4 +28,4 @@ Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
 
 (e) For rotorcraft incorporating retractable landing gear, the maximum landing gear operating speed must be displayed in clear view of the pilot.
 
-[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-12, 41 FR 55474, Dec. 20, 1976; Amdt. 29-24, 49 FR 44440, Nov. 6, 1984]
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-12, 41 FR 55474, Dec. 20, 1976; Amdt. 29-24, 49 FR 44440, Nov. 6, 1984; Amdt. 29-59, 88 FR 8740, Feb. 10, 2023]

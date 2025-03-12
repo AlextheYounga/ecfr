@@ -1,7 +1,5 @@
 ##### § 29.1587 Performance information. #####
 
-Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
-
 Flight manual performance information which exceeds any operating limitation may be shown only to the extent necessary for presentation clarity or to determine the effects of approved optional equipment or procedures. When data beyond operating limits are shown, the limits must be clearly indicated. The following must be provided:
 
 (a) *Category A.* For each category A rotorcraft, the Rotorcraft Flight Manual must contain a summary of the performance data, including data necessary for the application of any operating rule of this chapter, together with descriptions of the conditions, such as airspeeds, under which this data was determined, and must contain—
@@ -36,7 +34,7 @@ Flight manual performance information which exceeds any operating limitation may
 
 (5) The airspeed calibrations;
 
-(6) The height-speed envelope except for rotorcraft incorporating this as an operating limitation;
+(6) The height-velocity envelope except for rotorcraft incorporating this as an operating limitation;
 
 (7) Glide distance as a function of altitude when autorotating at the speeds and conditions for minimum rate of descent and best glide angle, as determined in § 29.71;
 
@@ -44,4 +42,4 @@ Flight manual performance information which exceeds any operating limitation may
 
 (9) Any additional performance data necessary for the application of any operating rule in this chapter.
 
-[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-21, 48 FR 4392, Jan. 31, 1983; Amdt. 29-24, 49 FR 44440, Nov. 6, 1984; Amdt. 29-39, 61 FR 21901, May 10, 1996; Amdt. 29-40, 61 FR 21908, May 10, 1996; Amdt. 29-44, 64 FR 45338, Aug. 19, 1999; Amdt. 29-51, 73 FR 11001, Feb. 29, 2008]
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-21, 48 FR 4392, Jan. 31, 1983; Amdt. 29-24, 49 FR 44440, Nov. 6, 1984; Amdt. 29-39, 61 FR 21901, May 10, 1996; Amdt. 29-40, 61 FR 21908, May 10, 1996; Amdt. 29-44, 64 FR 45338, Aug. 19, 1999; Amdt. 29-51, 73 FR 11001, Feb. 29, 2008; Amdt. 29-59, 88 FR 8740, Feb. 10, 2023]

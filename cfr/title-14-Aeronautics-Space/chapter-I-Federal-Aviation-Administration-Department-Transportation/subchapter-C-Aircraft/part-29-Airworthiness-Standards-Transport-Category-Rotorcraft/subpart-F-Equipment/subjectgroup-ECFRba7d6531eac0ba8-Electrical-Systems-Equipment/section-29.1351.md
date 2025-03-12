@@ -1,7 +1,5 @@
 ##### § 29.1351 General. #####
 
-Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
-
 (a) *Electrical system capacity.* The required generating capacity and the number and kind of power sources must—
 
 (1) Be determined by an electrical load analysis; and
@@ -40,4 +38,8 @@ Link to an amendment published at 88 FR 8740, Feb. 10, 2023.
 
 (iii) Systems necessary for immediate safety must continue to operate following the loss of the normal electrical power generating system, without the need for flight crew action.
 
-(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-14, 42 FR 36973, July 18, 1977; Amdt. 29-40, 61 FR 21908, May 10, 1996; Amdt. 29-42, 63 FR 43285, Aug. 12, 1998]
+(e) Electrical equipment, controls, and wiring must be installed so that operation of any one unit or system of units will not adversely affect the simultaneous operation of any other electrical unit or system essential to safe operation.
+
+(f) Cables must be grouped, routed, and spaced so that damage to essential circuits will be minimized if there are faults in heavy current-carrying cables.
+
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-14, 42 FR 36973, July 18, 1977; Amdt. 29-40, 61 FR 21908, May 10, 1996; Amdt. 29-42, 63 FR 43285, Aug. 12, 1998; Amdt. 29-59, 88 FR 8740, Feb. 10, 2023]

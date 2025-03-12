@@ -1,7 +1,5 @@
 ##### § 29.1305 Powerplant instruments. #####
 
-Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
-
 The following are required powerplant instruments:
 
 (a) For each rotorcraft—
@@ -18,7 +16,7 @@ The following are required powerplant instruments:
 
 (ii) Be independent of the normal fuel quantity indicating system.
 
-(5) A manifold pressure indicator, for each reciprocating engine of the altitude type;
+(5) A means to indicate manifold pressure for each altitude engine;
 
 (6) An oil pressure indicator for each pressure-lubricated gearbox.
 
@@ -30,9 +28,9 @@ The following are required powerplant instruments:
 
 (10) An oil temperature warning device to indicate unsafe oil temperatures in each main rotor drive gearbox, including gearboxes necessary for rotor phasing;
 
-(11) A gas temperature indicator for each turbine engine;
+(11) A means to indicate the gas temperature for each turbine engine;
 
-(12) A gas producer rotor tachometer for each turbine engine;
+(12) A means to indicate the gas producer speed for each turbine engine;
 
 (13) A tachometer for each engine that, if combined with the applicable instrument required by paragraph (a)(14) of this section, indicates rotor r.p.m. during autorotation.
 
@@ -90,10 +88,12 @@ The following are required powerplant instruments:
 
 (3) Fire warning indicators.
 
+(4) For each Category A rotorcraft for which OEI Training Mode is requested, a means must be provided to indicate to the pilot the simulation of an engine failure, the annunciation of that simulation, and a representation of the OEI power being provided.
+
 (c) For category B rotorcraft—
 
 (1) An individual oil pressure indicator for each engine; and
 
 (2) Fire warning indicators, when fire detection is required.
 
-[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 970, Jan. 26, 1968; Amdt. 29-10, 39 FR 35463, Oct. 1, 1974; Amdt. 29-26, 53 FR 34219, Sept. 2, 1988; Amdt. 29-34, 59 FR 47768, Sept. 16, 1994; Amdt. 29-40, 61 FR 21908, May 10, 1996; 61 FR 43952, Aug. 27, 1996]
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 970, Jan. 26, 1968; Amdt. 29-10, 39 FR 35463, Oct. 1, 1974; Amdt. 29-26, 53 FR 34219, Sept. 2, 1988; Amdt. 29-34, 59 FR 47768, Sept. 16, 1994; Amdt. 29-40, 61 FR 21908, May 10, 1996; 61 FR 43952, Aug. 27, 1996; Amdt. 29-59, 88 FR 8739, Feb. 10, 2023]

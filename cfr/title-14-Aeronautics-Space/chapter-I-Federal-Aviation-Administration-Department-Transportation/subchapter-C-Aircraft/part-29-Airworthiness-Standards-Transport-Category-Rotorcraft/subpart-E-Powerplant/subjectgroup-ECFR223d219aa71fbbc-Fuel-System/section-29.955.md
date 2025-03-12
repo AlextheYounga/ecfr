@@ -1,7 +1,5 @@
 ##### § 29.955 Fuel flow. #####
 
-Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
-
 (a) *General.* The fuel system for each engine must provide the engine with at least 100 percent of the fuel required under all operating and maneuvering conditions to be approved for the rotorcraft, including, as applicable, the fuel required to operate the engines under the test conditions required by § 29.927. Unless equivalent methods are used, compliance must be shown by test during which the following provisions are met, except that combinations of conditions which are shown to be improbable need not be considered.
 
 (1) The fuel pressure, corrected for accelerations (load factors), must be within the limits specified by the engine type certificate data sheet.
@@ -16,10 +14,10 @@ Link to an amendment published at 88 FR 8739, Feb. 10, 2023.
 
 (6) Critical values of fuel properties which adversely affect fuel flow are applied during demonstrations of fuel flow capability.
 
-(7) The fuel filter required by § 29.997 is blocked to the degree necessary to simulate the accumulation of fuel contamination required to activate the indicator required by § 29.1305(a)(17).
+(7) The fuel filter required by § 29.997 is blocked to the degree necessary to simulate the accumulation of fuel contamination required to activate the indicator required by § 29.1305(a)(18).
 
 (b) *Fuel transfer system.* If normal operation of the fuel system requires fuel to be transferred to another tank, the transfer must occur automatically via a system which has been shown to maintain the fuel level in the receiving tank within acceptable limits during flight or surface operation of the rotorcraft.
 
 (c) *Multiple fuel tanks.* If an engine can be supplied with fuel from more than one tank, the fuel system, in addition to having appropriate manual switching capability, must be designed to prevent interruption of fuel flow to that engine, without attention by the flightcrew, when any tank supplying fuel to that engine is depleted of usable fuel during normal operation and any other tank that normally supplies fuel to that engine alone contains usable fuel.
 
-[Amdt. 29-26, 53 FR 34217, Sept. 2, 1988]
+[Amdt. 29-26, 53 FR 34217, Sept. 2, 1988, as amended by Amdt. 29-59, 88 FR 8739, Feb. 10, 2023]

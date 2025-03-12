@@ -1,8 +1,6 @@
-##### § 27.87 Height-speed envelope. #####
+##### § 27.87 Height-velocity envelope. #####
 
-Link to an amendment published at 88 FR 8737, Feb. 10, 2023.
-
-(a) If there is any combination of height and forward speed (including hover) under which a safe landing cannot be made under the applicable power failure condition in paragraph (b) of this section, a limiting height-speed envelope must be established (including all pertinent information) for that condition, throughout the ranges of—
+(a) If there is any combination of height and forward velocity (including hover) under which a safe landing cannot be made under the applicable power failure condition in paragraph (b) of this section, a limiting height-velocity envelope must be established (including all pertinent information) for that condition, throughout the ranges of—
 
 (1) Altitude, from standard sea level conditions to the maximum altitude capability of the rotorcraft, or 7000 feet density altitude, whichever is less; and
 
@@ -16,4 +14,4 @@ Link to an amendment published at 88 FR 8737, Feb. 10, 2023.
 
 (3) For other rotorcraft, conditions appropriate to the type.
 
-(Secs. 313(a), 601, 603, 604, Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424), sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-14, 43 FR 2324, Jan. 16, 1978; Amdt. 27-21, 49 FR 44433, Nov. 6, 1984; Amdt. 27-44, 73 FR 10999, Feb. 29, 2008]
+(Secs. 313(a), 601, 603, 604, Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424), sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-14, 43 FR 2324, Jan. 16, 1978; Amdt. 27-21, 49 FR 44433, Nov. 6, 1984; Amdt. 27-44, 73 FR 10999, Feb. 29, 2008; Amdt. 27-51, 88 FR 8737, Feb. 10, 2023]
