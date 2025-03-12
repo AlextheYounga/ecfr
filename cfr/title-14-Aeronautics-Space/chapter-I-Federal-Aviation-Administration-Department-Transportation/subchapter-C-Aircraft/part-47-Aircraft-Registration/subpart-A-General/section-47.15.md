@@ -1,14 +1,12 @@
 ##### § 47.15 Registration number. #####
 
-Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
-
 (a) *Number required.* An applicant for aircraft registration must place a U.S. registration number (registration mark) on the Aircraft Registration Application, AC Form 8050-1, and on any evidence submitted with the application. There is no charge for the assignment of numbers provided in this paragraph. This paragraph does not apply to an aircraft manufacturer who applies for a group of U.S. registration numbers under paragraph (c) of this section; a person who applies for a special registration number under paragraphs (d) through (f) of this section; or a holder of a Dealer's Aircraft Registration Certificate, AC Form 8050-6, who applies for a temporary registration number under § 47.16.
 
 (1) *Aircraft not previously registered anywhere.* The applicant must obtain the U.S. registration number from the Registry by request in writing describing the aircraft by make, type, model, and serial number (or, if it is amateur-built, as provided in § 47.33(b)) and stating that the aircraft has not previously been registered anywhere. If the aircraft was brought into the United States from a foreign country, the applicant must submit evidence that the aircraft has never been registered in a foreign country.
 
 (2) *Aircraft last previously registered in the United States.* Unless the applicant applies for a different number under paragraphs (d) through (f) of this section, the applicant must place the U.S. registration number that is already assigned to the aircraft on the Aircraft Registration Application, and the supporting evidence. If there is no number assigned, the applicant must obtain a U.S. registration number from the Registry by making a written request that describes the aircraft by make, model, and serial number.
 
-(3) *Aircraft last previously registered in a foreign country.* Whether or not the foreign registration has ended, the applicant must obtain a U.S. registration number from the Registry for an aircraft last previously registered in a foreign country, by request in writing describing the aircraft by make, model, and serial number, accompanied by -
+(3) *Aircraft last previously registered in a foreign country.* Whether or not the foreign registration has ended, the applicant must obtain a U.S. registration number from the Registry for an aircraft last previously registered in a foreign country, by request in writing describing the aircraft by make, model, and serial number, accompanied by—
 
 (i) Evidence of termination of foreign registration in accordance with § 47.37(b) or the applicant's affidavit showing that foreign registration has ended; or
 
@@ -32,13 +30,11 @@ Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
 
 (i) When aircraft registration has ended, as described in § 47.41(a), the assignment of a registration number to an aircraft is no longer authorized for use except as provided in § 47.31(c) and will be cancelled:
 
-(1) Following the date established in § 47.40(a)(1) for any aircraft that has not been re-registered under § 47.40(a);
+(1) Following the expiration date shown on the Certificate of Aircraft Registration for any aircraft whose registration has not been renewed under § 47.40(c);
 
-(2) Following the expiration date shown on the Certificate of Aircraft Registration for any aircraft whose registration has not been renewed under § 47.40(c);
+(2) Following the expiration date shown on the Dealer's Aircraft Registration Certificate, AC Form 8050-6, for any aircraft registered under Subpart C of this part, when the certificate has not been renewed, and the owner has not applied for registration in accordance with § 47.31; or
 
-(3) Following the expiration date shown on the Dealer's Aircraft Registration Certificate, AC Form 8050-6, for any aircraft registered under Subpart C of this part, when the certificate has not been renewed, and the owner has not applied for registration in accordance with § 47.31; or
-
-(4) When ownership has transferred -
+(3) When ownership has transferred—
 
 (i) Six months after first receipt of notice of aircraft sale or evidence of ownership from the last registered owner or successive owners, and an Aircraft Registration Application has not been received.
 
@@ -48,4 +44,4 @@ Link to an amendment published at 87 FR 71217, Nov. 22, 2022.
 
 (j) At the time an assignment of registration number is cancelled, the number may be reserved for one year in the name of the last owner of record if a request has been submitted with the fee required by § 47.17. If the request for reservation and fee are not submitted prior to cancellation, the registration number is unavailable for assignment for a period of five years.
 
-[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-1, 31 FR 13314, Oct. 14, 1966; Amdt. 47-5, 32 FR 13505, Sept. 27, 1967; Amdt. 47-7, 34 FR 2480, Feb. 21, 1969; Amdt. 47-13, 36 FR 16187, Aug. 20, 1971; Amdt. 47-15, 37 FR 21528, Oct. 12, 1972; Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-17, 39 FR 1353, Jan. 8, 1974; Amdt. 47-22, 47 FR 12153, Mar. 22, 1982; Amdt. 47-29, 75 FR 41980, July 20, 2010]
+[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-1, 31 FR 13314, Oct. 14, 1966; Amdt. 47-5, 32 FR 13505, Sept. 27, 1967; Amdt. 47-7, 34 FR 2480, Feb. 21, 1969; Amdt. 47-13, 36 FR 16187, Aug. 20, 1971; Amdt. 47-15, 37 FR 21528, Oct. 12, 1972; Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-17, 39 FR 1353, Jan. 8, 1974; Amdt. 47-22, 47 FR 12153, Mar. 22, 1982; Amdt. 47-29, 75 FR 41980, July 20, 2010; Amdt. No. 47-33, 87 FR 71217, Nov. 22, 2022]

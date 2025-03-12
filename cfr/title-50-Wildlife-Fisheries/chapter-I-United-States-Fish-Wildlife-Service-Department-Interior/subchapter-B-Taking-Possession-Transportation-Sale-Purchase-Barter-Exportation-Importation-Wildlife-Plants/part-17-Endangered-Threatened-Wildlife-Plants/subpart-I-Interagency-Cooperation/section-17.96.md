@@ -1,7 +1,5 @@
 ##### § 17.96 Critical habitat - plants. #####
 
-Link to an amendment published at 87 FR 77400, Dec. 16, 2022.Link to an amendment published at 87 FR 78605, Dec. 22, 2022.
-
 (a) *Flowering plants.*
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
@@ -6308,6 +6306,76 @@ The map provided is for informational purposes only. Map follows:
 
 ![](/graphics/er08fe11.017.gif)
 
-(b) [Reserved]
+(b) *Conifers, ferns and allies, and lichens.* (1) Family Hymenophyllaceae: *Trichomanes punctatum* ssp. *floridanum* (Florida bristle fern).
+
+(i) Critical habitat units are depicted for Miami-Dade and Sumter Counties, Florida, on the maps in this entry.
+
+(ii) Within these areas, the physical or biological features essential to the conservation of Florida bristle fern consist of the following components:
+
+(A) Upland hardwood forest hammock habitats of sufficient quality and size to sustain the necessary microclimate and life processes for Florida bristle fern.
+
+(B) Exposed substrate derived from oolitic limestone, Ocala limestone, or exposed limestone boulders, which provide anchoring and nutritional requirements.
+
+(C) Constantly humid microhabitat consisting of dense canopy cover, moisture, stable high temperature, and stable monthly average humidity of 90 percent or higher, with intact hydrology within hammocks and the surrounding and adjacent wetland communities.
+
+(D) Dense canopy cover of surrounding native vegetation that consists of the upland hardwood forest hammock habitats and provides shade, shelter, and moisture.
+
+(E) Suitable microhabitat conditions, hydrology, and connectivity that can support Florida bristle fern's growth, distribution, and population expansion (including rhizomal growth, spore dispersal, and sporophyte and gametophyte growth and survival).
+
+(F) Plant community of predominantly native vegetation that is minimally disturbed or free from human-related disturbance, with either no competitive nonnative, invasive plant species, or such species in quantities low enough to have minimal effect on Florida bristle fern.
+
+(iii) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on January 23, 2023.
+
+(iv) Data layers defining map units were created using ESRI ArcGIS mapping software along with various spatial data layers. ArcGIS was used to calculate the size of habitat areas. The projection used in mapping and calculating distances and locations within the units was North American Albers Equal Area Conic, NAD 83 Geographic. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* under Docket No. FWS-R4-ES-2019-0068, *https://www.fws.gov/office/florida-ecological-services/library,* and at the Florida Ecological Services Field Office, Vero Beach. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(v) Index map follows:
+
+Figure 1 to Family Hymenophyllaceae: *Trichomanes punctatum* ssp. *floridanum* (Florida bristle fern) paragraph (b)(1)(v)![](/graphics/er22de22.006.gif)
+
+(vi) SF 1 - Matheson Hammock, SF 2 - Snapper Creek Hammock, and SF 3 - Charles Deering Estate Hammock, Miami-Dade County, Florida.
+
+(A) SF 1 consists of approximately 22 hectares (ha) (55 acres (ac)) in Matheson Hammock in and around Matheson Hammock Park. This unit is composed of 20.6 ha (51.1 ac) of County-owned land that is primarily managed cooperatively by Miami-Dade County's Environmentally Endangered Lands (EEL) program and Natural Areas Management division. The remaining 1.5 ha (3.7 ac) are privately owned and managed by the landowners through the County's EEL Covenant Program and/or are protected from development through the County's designation as Natural Forest Communities.
+
+(B) SF 2 consists of approximately 6 ha (15 ac) in Snapper Creek Hammock adjacent to R. Hardy Matheson Preserve. This unit consists of 3.2 ha (8 ac) of State-owned land that is primarily managed cooperatively by Miami-Dade County's EEL program and Natural Areas Management division and 2.8 ha (7 ac) of University of Miami-owned land that is managed in cooperation with Fairchild Tropical Botanical Gardens.
+
+(C) SF 3 consists of approximately 43 ha (106 ac) in Charles Deering Estate. This unit is comprised of State-owned land that is primarily managed by the Miami-Dade County EEL program and Natural Areas Management division.
+
+(D) Map of SF 1, SF 2, and SF 3 follows:
+
+Figure 2 to Family Hymenophyllaceae: *Trichomanes punctatum* ssp. *floridanum* (Florida bristle fern) paragraph (b)(1)(vi)(D)![](/graphics/er22de22.007.gif)
+
+(vii) SF 4 - Castellow and Ross Hammocks, SF 5 - Silver Palm Hammock, SF 6 - Hattie Bauer Hammock, and SF 7 - Fuchs and Meissner Hammocks, Miami-Dade County, Florida.
+
+(A) SF 4 consists of approximately 56 ha (139 ac) in Castellow and Ross Hammocks in and around Castellow Hammock Preserve. This unit consists of 17.5 ha (43.3 ac) of State-owned and 25.6 ha (63.4 ac) of County-owned lands that are primarily managed cooperatively by the Miami-Dade County EEL program and Natural Areas Management division. The remaining 13 ha (32.3 ac) are privately owned and managed by the landowners through the EEL Covenant Program and/or are protected from development through Miami-Dade County's designation as Natural Forest Communities.
+
+(B) SF 5 consists of approximately 4 ha (10 ac) in Silver Palm Hammock. This unit comprises State-owned land that is primarily managed cooperatively by the Miami-Dade County EEL program and Natural Areas Management division.
+
+(C) SF 6 consists of approximately 6 ha (16 ac) in Hattie Bauer Hammock in and around Hattie Bauer Hammock Preserve. This unit consists of 4 ha (10 ac) of County-owned land that is primarily managed cooperatively by the Miami-Dade County EEL program and Natural Areas Management division. The remaining 2 ha (6 ac) are privately owned and managed by the landowners through the EEL Covenant Program and/or are protected from development through Miami-Dade County's designation as Natural Forest Communities.
+
+(D) SF 7 consists of approximately 10 ha (25 ac) in Fuchs and Meissner Hammocks in and around Fuchs and Meissner Hammock Preserves. This unit consists of 2 ha (5 ac) of State-owned and 7.6 ha (19 ac) of County-owned lands that are primarily managed cooperatively by the Miami-Dade County EEL program and Natural Areas Management division. The remaining 0.4 ha (1 ac) are privately owned and managed by the landowners through the EEL Covenant Program and/or are protected from development through Miami-Dade County's designation as Natural Forest Communities.
+
+(E) Map of SF 4, SF 5, SF 6, and SF 7 follows:
+
+Figure 3 to Family Hymenophyllaceae: *Trichomanes punctatum* ssp. *floridanum* (Florida bristle fern) paragraph (b)(1)(vii)(E)![](/graphics/er22de22.008.gif)
+
+(viii) SF 8 - Royal Palm Hammock, Miami-Dade County, Florida.
+
+(A) SF 8 consists of approximately 61 ha (150 ac) in Royal Palm Hammock in Everglades National Park.
+
+(B) Map of SF 8 follows:
+
+Figure 4 to Family Hymenophyllaceae: *Trichomanes punctatum* ssp. *floridanum* (Florida bristle fern) paragraph (b)(1)(viii)(B)![](/graphics/er22de22.009.gif)
+
+(ix) CF 1 and CF 2, Sumter County, Florida.
+
+(A) CF 1 consists of approximately 742 ha (1,834 ac) of State-owned land (726 ha (1,795 ac)) within the Jumper Creek Tract of the Withlacoochee State Forest and of privately owned land (16 ha (39 ac)) directly adjacent to Withlacoochee State Forest. The State-owned land is managed by the Florida Forest Service.
+
+(B) CF 2 consists of approximately 747 ha (1,846 ac) of State-owned land within the Jumper Creek Tract of the Withlacoochee State Forest.
+
+(C) Map of CF 1 and CF 2 follows:
+
+Figure 5 to Family Hymenophyllaceae: *Trichomanes punctatum* ssp. *floridanum* (Florida bristle fern) paragraph (b)(1)(ix)(C)![](/graphics/er22de22.010.gif)
+
+(2) [Reserved]
 
 Editorial Note:For Federal Register citations affecting § 17.96, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 199.14 Provider reimbursement methods. #####
 
-Link to an amendment published at 88 FR 2001, Jan. 12, 2023.
-
 (a) *Hospitals.* The CHAMPUS-determined allowable cost for reimbursement of a hospital shall be determined on the basis of one of the following methodologies.
 
 (1) *CHAMPUS Diagnosis Related Group (DRG)-based payment system.* Under the CHAMPUS DRG-based payment system, payment for the operating costs of inpatient hospital services furnished by hospitals subject to the system is made on the basis of prospectively-determined rates and applied on a per discharge basis using DRGs. Payments under this system will include a differentiation for urban (using large urban and other urban areas) and rural hospitals and an adjustment for area wage differences and indirect medical education costs. Additional payments will be made for capital costs, direct medical education costs, and outlier cases.
@@ -288,6 +286,8 @@ Link to an amendment published at 88 FR 2001, Jan. 12, 2023.
 
 (B) *Hospital Value Based Purchasing.* TRICARE will adopt the Medicare Hospital Value Based Purchasing (HVBP) Program adjustments to DRGs to incentivize hospitals as implemented under 42 CFR 412.160, when determined by the ASD(HA), as practicable. The Director, DHA, shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
 
+(C) *Additional payment for new COVID-19 Treatments.* TRICARE will adopt the Medicare New COVID-19 Treatments Add-On Payments (NCTAP) adjustment to DRGs. New COVID-19 treatments shall be reimbursed the lesser of (1) 65 percent of the operating outlier threshold for the claim or (2) 65 percent of the amount by which the costs of the case exceed the standard DRG payment for an individual treated using new COVID-19 treatments discharged during the Secretary of Health and Human Services' declared public health emergency (PHE) through the end of the FY in which the PHE terminates.
+
 (2) *CHAMPUS mental health per diem payment system.* The CHAMPUS mental health per diem payment system shall be used to reimburse for inpatient mental health hospital care in specialty psychiatric hospitals and units. Payment is made on the basis of prospectively determined rates and paid on a per diem basis. The system uses two sets of per diems. One set of per diems applies to hospitals and units that have a relatively higher number of CHAMPUS discharges. For these hospitals and units, the system uses hospital-specific per diem rates. The other set of per diems applies to hospitals and units with a relatively lower number of CHAMPUS discharges. For these hospitals and units, the system uses regional per diems, and further provides for adjustments for area wage differences and indirect medical education costs and additional pass-through payments for direct medical education costs.
 
 (i) *Applicability of the mental health per diem payment system* - (A) *Hospitals and units covered.* The CHAMPUS mental health per diem payment system applies to services covered (see paragraph (a)(2)(i)(B) of this section) that are provided in Medicare prospective payment system (PPS) exempt psychiatric specialty hospitals and all Medicare PPS exempt psychiatric specialty units of other hospitals. In addition, any psychiatric hospital that does not participate in Medicare, or any other hospital that has a psychiatric specialty unit that has not been so designated for exemption from the Medicare prospective payment system because the hospital does not participate in Medicare, may be designated as a psychiatric hospital or psychiatric specialty unit for purposes of the CHAMPUS mental health per diem payment system upon demonstrating that it meets the same criteria (as determined by the Director, OCHAMPUS) as required for the Medicare exemption. The CHAMPUS mental health per diem payment system does not apply to mental health services provided in other hospitals.
@@ -532,7 +532,43 @@ LTCH admissions that are in response to the COVID-19 declared PHE and occur duri
 
 (4) *Resident assessment data.* SNFs are required to submit the same resident assessment data as is required under the Medicare program. (The residential assessment is addressed in the Medicare regulations at 42 CFR 483.20.) SNFs must submit assessments according to an assessment schedule. This schedule must include performance of patient assessments on the 5th, 14th, and 30th days of SNF care and at each successive 30 day interval of SNF admissions that are longer than 30 days. It must also include such other assessments that are necessary to account for changes in patient care needs. TRICARE pays a default rate for the days of a patient's care for which the SNF has failed to comply with the assessment schedule.
 
-(c) *Reimbursement for Other Than Hospitals and SNFs.* The Director, OCHAMPUS, or a designee, shall establish such other methods of determining allowable cost or charge reimbursement for those institutions, other than hospitals and SNFs, as may be required.
+(c) *Reimbursement of Freestanding End Stage Renal Disease (ESRD) facilities.* (1) This paragraph (c)(1) establishes payment methods for dialysis provided by TRICARE authorized freestanding ESRD facilities. TRICARE shall reimburse a single, flat, per-session fee to TRICARE authorized freestanding ESRD facilities rendering hemodialysis or peritoneal dialysis for treatment of ESRD or AKI. The flat, per-session fee will apply to renal dialysis services furnished in the ESRD facility or in a patient's home. All renal dialysis items and services furnished in the ESRD facility or in a patient's home are included in the flat per-session rate, except for those items and services listed in paragraph (c)(1)(ii) of this section.
+
+(i) Services included in the flat per-session rate must be furnished by an authorized TRICARE ESRD institutional provider:
+
+(A) Institutional charges (e.g., charges for facility use, use or treatment rooms, and general nursing services);
+
+(B) Routine laboratory services related to the dialysis session;
+
+(C) Pharmaceuticals and supplies related to the dialysis;
+
+(D) Home dialysis support services identified at 42 CFR 494.100;
+
+(E) Purchase and delivery of all necessary home dialysis supplies; and
+
+(F) Dialysis training for days 1-120.
+
+(ii) Services which may be billed separately:
+
+(A) Evaluation and management services provided by authorized individual professional providers. These services will continue to be reimbursed using existing reimbursement systems (e.g., CMAC).
+
+(B) Drugs, supplies, and devices listed by Medicare as eligible for Transitional Drug Add-on Payment Adjustment and Transitional Add-on Payment Adjustment for New and Innovative Equipment and Supplies under the Medicare ESRD PPS. These services will continue to be reimbursed using existing reimbursement systems (e.g., CMAC).
+
+(C) Professional services, supplies, and pharmaceuticals unrelated to dialysis care (e.g., if a flu shot is administered at the same time as dialysis treatment). These services will continue to be reimbursed using existing reimbursement systems (e.g., CMAC).
+
+(iii) Establishment of the flat rate:
+
+(A) *Per session rate for treatment days 1-120.* The flat, per-session rate shall be equal to the current Medicare base rate, multiplied by the current Medicare adjustment factor applied to individuals aged 44-69 (7% for CY 22), and further multiplied by the current Medicare adjustment factor for the date of onset (32.7% for CY 2022). The Medicare factors utilized in subsequent years will be based on modifications made under 42 CFR part 413, subpart H, Medicare ESRD PPS.
+
+(B) *Per session rate for treatment day 121 and beyond.* The flat, per-session rate shall be equal to the Medicare base rate, multiplied by the Medicare adjustment factor applied to individuals aged 44-69. The Medicare factors utilized in subsequent years will be based on modifications made under 42 CFR part 413, subpart H, Medicare ESRD PPS.
+
+(C) *Wage adjustment.* The per-session rates in paragraphs (c)(1)(iii)(A) and (B) of this section shall be wage adjusted using the wage adjustment factors and labor-related shares published in the most recent Medicare ESRD Final Rule at the time the annual per-session rates are posted.
+
+(D) *Annual updates.* The per session rates will be updated within 90 days of publication of new Medicare base rates, and published to the TRICARE website at *www.health.mil.*
+
+(E) *Dialysis training.* To account for training services and supplies, dialysis training sessions will receive a home dialysis training add-on payment for day treatment days 121 and after. The training add-on payment will not apply to treatment days 1-120, as the onset adjustment factor of 32.7% is applied to the per-session rate for treatment days 1-120.
+
+(2) The reimbursement methods established in paragraph (c)(1) of this section applies to freestanding ESRD facilities meeting the requirements established for TRICARE authorized freestanding ESRD facilities in § 199.6. For purposes of cost-sharing and copayments, treatment provided by freestanding ESRD facilities are considered outpatient specialty visits. The applicable copayments and cost-shares described in §§ 199.4 and 199.17(k)(2)(iii) shall apply. Hospital-based ESRD facilities are not subject to the provisions of this paragraph, and will continue to be reimbursed utilizing other applicable reimbursement systems (e.g., the Outpatient Prospective Payment System).
 
 (d) *Payment of institutional facility costs for ambulatory surgery* - (1) *In general.* CHAMPUS pays institutional facility costs for ambulatory surgery on the basis of prospectively determined amounts, as provided in this paragraph, with the exception of ambulatory surgery procedures performed in hospital outpatient departments or in CAHs, which are to be reimbursed in accordance with the provisions of paragraph (a)(6)(ii) or (a)(6)(iii) respectively, of this section. This payment method is similar to that used by the Medicare program for ambulatory surgery. This paragraph applies to payment for freestanding ambulatory surgical centers. It does not apply to professional services. A list of ambulatory surgery procedures subject to the payment method set forth in the paragraph shall be published periodically by the Director, TRICARE Management Activity (TMA). Payment to freestanding ambulatory surgery centers is limited to these procedures.
 
