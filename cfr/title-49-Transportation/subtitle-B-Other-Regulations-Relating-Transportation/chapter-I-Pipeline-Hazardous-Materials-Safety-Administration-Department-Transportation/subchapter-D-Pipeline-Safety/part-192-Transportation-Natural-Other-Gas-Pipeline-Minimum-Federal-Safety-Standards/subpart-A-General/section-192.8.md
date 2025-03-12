@@ -1,6 +1,6 @@
 ##### § 192.8 How are onshore gathering lines and regulated onshore gathering lines determined? #####
 
-Link to an amendment published at 86 FR 63295, Nov. 15, 2021.
+Link to an amendment published at 86 FR 63295, Nov. 15, 2021.Link to an amendment published at 87 FR 26299, May 4, 2022.
 
 (a) An operator must use API RP 80 (incorporated by reference, see § 192.7), to determine if an onshore pipeline (or part of a connected series of pipelines) is an onshore gathering line. The determination is subject to the limitations listed below. After making this determination, an operator must determine if the onshore gathering line is a regulated onshore gathering line under paragraph (b) of this section.
 
