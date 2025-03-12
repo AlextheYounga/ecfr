@@ -1,5 +1,7 @@
 ##### § 1.6038-2 Information returns required of United States persons with respect to annual accounting periods of certain foreign corporations. #####
 
+Link to an amendment published at 85 FR 76975, Dec. 1, 2020.
+
 (a) *Requirement of return.* Every U.S. person shall make a separate annual information return with respect to each annual accounting period (described in paragraph (e) of this section) of each foreign corporation which that person controls (as defined in paragraph (b) of this section) at any time during such annual accounting period.
 
 (1) Form 2952, “Information Return with Respect to Controlled Foreign Corporations,” if such taxable year ends before December 31, 1982;

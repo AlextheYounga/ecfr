@@ -1,0 +1,3 @@
+##### § 1631.35 Certification (authentication) of copies of records. #####
+
+The Board may certify that copies of records are true copies in order to facilitate their use as evidence. The records custodian or other qualified individual shall certify copies of books, records, papers, writings, and documents by attaching a written declaration that complies with current Federal Rules of Evidence. No seal or notarization shall be required.

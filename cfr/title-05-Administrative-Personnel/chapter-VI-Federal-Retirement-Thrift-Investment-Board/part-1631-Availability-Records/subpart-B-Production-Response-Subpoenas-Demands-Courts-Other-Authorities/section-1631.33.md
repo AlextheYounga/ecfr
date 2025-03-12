@@ -1,3 +1,23 @@
-##### § 1631.33 Procedure in the event of an adverse ruling. #####
+##### § 1631.33 Factors the General Counsel will consider. #####
 
-If the court or other authority declines to stay the effect of the demand in response to a request made in accordance with § 1631.32(b) pending receipt of instructions from the Executive Director, or his or her designee, or if the court or other authority rules that the demand must be complied with irrespective of the instructions from the Executive Director not to produce the material or disclose the information sought, the employee or former employee upon whom the demand has been made shall respectfully decline to comply with the demand. [*United States ex. rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951)].
+(a) The General Counsel, in his or her sole discretion, may grant an employee permission to testify on matters relating to official information, or produce official records and information, in response to an appropriate demand or request. Among the relevant factors that the General Counsel may consider in making this decision are whether:
+
+(1) Allowing such testimony or production of records would assist or hinder the Board in performing its statutory duties or use Board resources in a way that will interfere with the ability of Board employees to do their regular work;
+
+(2) Allowing such testimony or production of records would be in the best interest of Thrift Savings Plan participants and beneficiaries;
+
+(3) The records or testimony can be obtained from other sources;
+
+(4) The Board has an interest in the decision that may be rendered in the legal proceeding;
+
+(5) The demand improperly seeks to compel a Board employee to serve as an expert witness for a private interest;
+
+(6) The demand improperly seeks to compel a Board employee to testify as to a matter of law;
+
+(7) Disclosure would result in the Board appearing to favor one private litigant over another private litigant;
+
+(8) Disclosure relates to documents that were produced by another government agency; and
+
+(9) The demand or request is unduly burdensome or otherwise inappropriate under the applicable rules of discovery or the rules of procedure governing the case or matter in which the demand or request arose.
+
+(b) The factors listed in paragraph (a) of this section are illustrative and not exhaustive.

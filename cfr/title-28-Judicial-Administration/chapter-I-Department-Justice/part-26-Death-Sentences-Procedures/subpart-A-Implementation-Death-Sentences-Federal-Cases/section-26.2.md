@@ -1,6 +1,6 @@
 ##### § 26.2 Proposed Judgment and Order. #####
 
-Link to an amendment published at 85 FR 75854, Nov. 27, 2020.
+Link to an amendment published at 85 FR 75854, Nov. 27, 2020.Link to a correction published at 85 FR 76978, Dec. 1, 2020.
 
 (a) Whenever this part becomes applicable, the attorney for the government shall promptly file with the sentencing court a proposed Judgment and Order. The proposed Judgment and Order shall state, in addition to any other matters required by law or otherwise appropriate, that:
 

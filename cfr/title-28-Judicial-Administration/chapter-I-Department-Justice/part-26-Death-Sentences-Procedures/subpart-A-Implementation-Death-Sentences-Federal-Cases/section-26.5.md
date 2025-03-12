@@ -1,5 +1,5 @@
 ##### § 26.5 Attendance at or participation in executions by Department of Justice personnel. #####
 
-Link to an amendment published at 85 FR 75854, Nov. 27, 2020.
+Link to an amendment published at 85 FR 75854, Nov. 27, 2020.Link to a correction published at 85 FR 76978, Dec. 1, 2020.
 
 No officer or employee of the Department of Justice shall be required to be in attendance at or to participate in any execution if such attendance or participation is contrary to the moral or religious convictions of the officer or employee, or if the employee is a medical professional who considers such participation or attendance contrary to medical ethics. For purposes of this section, the term “participation” includes personal preparation of the condemned individual and the apparatus used for execution and supervision of the activities of other personnel in carrying out such activities.

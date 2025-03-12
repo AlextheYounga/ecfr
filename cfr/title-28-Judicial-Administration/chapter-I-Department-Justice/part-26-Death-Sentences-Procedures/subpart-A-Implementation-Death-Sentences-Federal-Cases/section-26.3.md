@@ -1,6 +1,6 @@
 ##### § 26.3 Date, time, place, and method of execution. #####
 
-Link to an amendment published at 85 FR 75854, Nov. 27, 2020.
+Link to an amendment published at 85 FR 75854, Nov. 27, 2020.Link to a correction published at 85 FR 76978, Dec. 1, 2020.
 
 (a) Except to the extent a court orders otherwise, a sentence of death shall be executed:
 

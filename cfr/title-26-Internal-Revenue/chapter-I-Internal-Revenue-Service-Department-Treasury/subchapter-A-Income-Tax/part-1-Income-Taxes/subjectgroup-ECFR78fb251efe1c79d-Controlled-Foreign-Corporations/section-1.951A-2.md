@@ -1,6 +1,6 @@
 ##### § 1.951A-2 Tested income and tested loss. #####
 
-Link to an amendment published at 85 FR 72070, Nov. 12, 2020.
+Link to an amendment published at 85 FR 72070, Nov. 12, 2020.Link to an amendment published at 85 FR 76975, Dec. 1, 2020.
 
 (a) *Scope.* This section provides rules for determining the tested income or tested loss of a controlled foreign corporation for purposes of determining a United States shareholder's net CFC tested income under § 1.951A-1(c)(2). Paragraph (b) of this section provides definitions related to tested income and tested loss. Paragraph (c) of this section provides rules for determining the gross tested income of a controlled foreign corporation and the deductions that are properly allocable to gross tested income.
 

@@ -1,9 +1,9 @@
-##### § 1631.30 Purpose and scope. #####
+##### § 1631.30 Applicability. #####
 
-This subpart contains the regulations of the Board concerning procedures to be followed when a subpoena, order, or other demand (hereinafter in this subpart referred to as a “demand”) of a court or other authority is issued for the production or disclosure of:
+This subpart applies to demands and requests to a Board employee for factual or expert testimony relating to official information, or for production of official records or information, in legal proceedings in which neither the Board or nor the Board employee is a named party. However, it does not apply to:
 
-(a) Any material contained in the files of the Board;
+(a) Demands upon, or requests for, a current Board employee to testify as to facts or events that are unrelated to his or her official duties or that are unrelated to the functions of the Board;
 
-(b) Any information relating to materials contained in the files of the Board; or
+(b) Requests for the release of records under the Freedom of Information Act, 5 U.S.C. 552, or the Privacy Act, 5 U.S.C. 552(a); and
 
-(c) Any information or material acquired by an employee of the Board as a part of the performance of his or her official duties or because of his or her official status.
+(c) Congressional demands and requests for testimony of records.
