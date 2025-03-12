@@ -1,5 +1,7 @@
 ##### § 1003.7 Changes following public announcement. #####
 
+Link to an amendment published at 82 FR 34838, July 27, 2017.
+
 (a) The time or place of a meeting may be changed following the public announcement described in § 1003.4. The Board must publicly announce such change at the earliest practicable time.
 
 (b) The subject matter of a meeting or the determination of the Board to open or close a meeting, or a portion thereof, to the public may be changed following public announcement only if:

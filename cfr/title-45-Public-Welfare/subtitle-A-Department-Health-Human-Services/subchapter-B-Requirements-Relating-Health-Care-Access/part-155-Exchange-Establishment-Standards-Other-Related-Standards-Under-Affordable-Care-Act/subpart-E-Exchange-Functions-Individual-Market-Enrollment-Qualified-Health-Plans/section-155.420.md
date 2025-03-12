@@ -54,10 +54,6 @@
 
 (i) Loses minimum essential coverage. The date of the loss of coverage is the last day the consumer would have coverage under his or her previous plan or coverage;
 
-(A) In the case of marriage, at least one spouse must demonstrate having minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of marriage.
-
-(B) [Reserved]
-
 (ii) Is enrolled in any non-calendar year group health plan or individual health insurance coverage, even if the qualified individual or his or her dependent has the option to renew such coverage. The date of the loss of coverage is the last day of the plan or policy year;
 
 (iii) Loses pregnancy-related coverage described under section 1902(a)(10)(A)(i)(IV) and (a)(10)(A)(ii)(IX) of the Act (42 U.S.C. 1396a(a)(10)(A)(i)(IV), (a)(10)(A)(ii)(IX)). The date of the loss of coverage is the last day the consumer would have pregnancy-related coverage; or
@@ -65,6 +61,10 @@
 (iv) Loses medically needy coverage as described under section 1902(a)(10)(C) of the Social Security Act only once per calendar year. The date of the loss of coverage is the last day the consumer would have medically needy coverage.
 
 (2)(i) The qualified individual gains a dependent or becomes a dependent through marriage, birth, adoption, placement for adoption, or placement in foster care, or through a child support order or other court order.
+
+(A) In the case of marriage, at least one spouse must demonstrate having minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of marriage.
+
+(B) [Reserved]
 
 (ii) At the option of the Exchange, the enrollee loses a dependent or is no longer considered a dependent through divorce or legal separation as defined by State law in the State in which the divorce or legal separation occurs, or if the enrollee, or his or her dependent, dies.
 

@@ -1,5 +1,7 @@
 ##### § 1001.10 Fees. #####
 
+Link to an amendment published at 82 FR 34837, July 27, 2017.
+
 (a) We will charge fees that recoup the full allowable direct costs we incur in processing your FOIA request. Fees may be charged for search, review or duplication. As a matter of administrative discretion, the Board may release records without charge or at a reduced rate whenever the Board determines that the interest of the United States government would be served. We will use the most efficient and least costly methods to comply with your request.
 
 (b) With regard to manual searches for records, we will charge the salary rate(s) (calculated as the basic rate of pay plus 16 percent of that basic rate to cover benefits) of the employee(s) performing the search.

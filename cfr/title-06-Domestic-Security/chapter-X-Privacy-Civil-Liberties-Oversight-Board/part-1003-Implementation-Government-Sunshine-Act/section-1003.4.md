@@ -1,5 +1,7 @@
 ##### § 1003.4 Procedures for public announcement of meetings. #####
 
+Link to an amendment published at 82 FR 34838, July 27, 2017.
+
 (a) Except as otherwise provided in this section, the Board shall make a public announcement at least seven days prior to a meeting. The public announcement shall include:
 
 (1) The time and place of the meeting;

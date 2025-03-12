@@ -1,5 +1,7 @@
 ##### § 1001.7 Administrative appeals. #####
 
+Link to an amendment published at 82 FR 34836, July 27, 2017.
+
 (a) You may appeal an adverse determination related to your FOIA request, or the Board's failure to respond to your FOIA request within the prescribed time limits, to the Chief FOIA Officer, Privacy and Civil Liberties Oversight Board, 2100 K Street NW., Suite 500, Washington, DC 20427.
 
 (b) Your appeal must be in writing and received by the Chief FOIA Officer within 60 days of the date of the letter denying your request, in whole or in part. In case of the Board's failure to respond within the statutory time frame, you may submit an administrative appeal at any time until an agency response has been provided. For the most expeditious handling, your appeal letter and envelope should be marked “Freedom of Information Act appeal.”

@@ -36,6 +36,8 @@ For purposes of this part the following definitions apply:
 
 (7) A child who has a pending application for Special Immigrant Juvenile status as described in section 101(a)(27)(J) of the INA (8 U.S.C. 1101(a)(27)(J)).
 
+(8) *Exception.* An individual with deferred action under the Department of Homeland Security's deferred action for childhood arrivals process, as described in the Secretary of Homeland Security's June 15, 2012, memorandum, shall not be considered to be lawfully present with respect to any of the above categories in paragraphs (1) through (7) of this definition.
+
 *Out-of-pocket costs* means the sum of the annual deductible and the other annual out-of-pocket expenses, other than for premiums, required to be paid under the program.
 
 *Pre-Existing condition exclusion* has the meaning given such term in 45 CFR 144.103.
@@ -47,7 +49,5 @@ For purposes of this part the following definitions apply:
 *Service Area* refers to the geographic area encompassing an entire State or States in which PCIP furnishes benefits.
 
 *State* refers each of the 50 States and the District of Columbia.
-
-(8) *Exception.* An individual with deferred action under the Department of Homeland Security's deferred action for childhood arrivals process, as described in the Secretary of Homeland Security's June 15, 2012, memorandum, shall not be considered to be lawfully present with respect to any of the above categories in paragraphs (1) through (7) of this definition.
 
 [75 FR 45029, July 30, 2010, as amended at 77 FR 52616, Aug. 30, 2012]

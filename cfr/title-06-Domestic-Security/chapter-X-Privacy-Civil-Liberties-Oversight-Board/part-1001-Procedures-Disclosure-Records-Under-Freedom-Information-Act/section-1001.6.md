@@ -1,5 +1,7 @@
 ##### § 1001.6 Responsibility for responding to requests. #####
 
+Link to an amendment published at 82 FR 34836, July 27, 2017.
+
 (a) *In general.* The Board delegates authority to grant or deny FOIA requests in whole or in part to the FOIA Officer. When conducting a search for responsive records, the FOIA Officer generally will search for records in existence on the date of the search. If another date is used, the FOIA Officer shall inform the requester of the date used.
 
 (b) *Responses.* The FOIA Officer will notify you of his or her determination to grant or deny your FOIA request in the time frame stated in § 1001.8. The Board will release reasonably segregable non-exempt information. For any adverse determination, including those regarding any disputed fee matter; a denial of a request for a fee waiver; or a determination to withhold a record, in whole or in part, that a record does not exist or cannot be located; or to deny a request for expedited processing; the notice shall include the following information:

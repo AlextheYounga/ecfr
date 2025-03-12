@@ -1,5 +1,7 @@
 ##### § 1001.2 Definitions. #####
 
+Link to an amendment published at 82 FR 34835, July 27, 2017.
+
 The following definitions apply to this part:
 
 *Board* means the Privacy and Civil Liberties Oversight Board, established by the Implementing Recommendations of the 9/11 Commission Act of 2007, Public Law 110-53.

@@ -1,5 +1,7 @@
 ##### § 1001.9 Business information. #####
 
+Link to an amendment published at 82 FR 34836, July 27, 2017.
+
 (a) *Designation of confidential business information.* In the event a FOIA request is made for confidential business information previously submitted to the Government by a commercial entity or on behalf of it (hereinafter `submitter'), the regulations in this section apply. When submitting confidential business information, you must use a good-faith effort to designate, by use of appropriate markings, at the time of submission or at a reasonable time thereafter, any portions of your submission that you consider to be exempt from disclosure under FOIA Exemption 4, 5 U.S.C. 552(b)(4). Your designation will expire ten years after the date of submission unless you request, and provide justification for, a longer designation period.
 
 (b) *Notice to submitters.* Whenever you designate confidential business information as provided in paragraph (a) of this section, or the Board has reason to believe that your submission may contain confidential business information, we will provide you with prompt written notice of a FOIA request that seeks your business information. The notice shall:
