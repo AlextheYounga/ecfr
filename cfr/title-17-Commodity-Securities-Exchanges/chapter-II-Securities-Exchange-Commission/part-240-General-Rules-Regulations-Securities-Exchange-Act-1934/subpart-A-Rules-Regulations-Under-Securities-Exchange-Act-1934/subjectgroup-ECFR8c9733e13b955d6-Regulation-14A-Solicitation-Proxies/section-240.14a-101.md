@@ -1,6 +1,6 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Link to an amendment published at 86 FR 2131, Jan. 11, 2021.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)Payment of Filing Fee (Check the appropriate box): [ ] No fee required [ ] Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11 (1) Title of each class of securities to which transaction applies:(2) Aggregate number of securities to which transaction applies:(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):(4) Proposed maximum aggregate value of transaction:(5) Total fee paid:[ ] Fee paid previously with preliminary materials. [ ] Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. (1) Amount Previously Paid:(2) Form, Schedule or Registration Statement No.:(3) Filing Party:(4) Date Filed:Notes
+Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)Payment of Filing Fee (Check the appropriate box): [ ] No fee required [ ] Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11 (1) Title of each class of securities to which transaction applies:(2) Aggregate number of securities to which transaction applies:(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):(4) Proposed maximum aggregate value of transaction:(5) Total fee paid:[ ] Fee paid previously with preliminary materials. [ ] Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. (1) Amount Previously Paid:(2) Form, Schedule or Registration Statement No.:(3) Filing Party:(4) Date Filed:Notes
 
 Notes: A. Where any item calls for information with respect to any matter to be acted upon and such matter involves other matters with respect to which information is called for by other items of this schedule, the information called for by such other items also shall be given. For example, where a solicitation of security holders is for the purpose of approving the authorization of additional securities which are to be used to acquire another specified company, and the registrants' security holders will not have a separate opportunity to vote upon the transaction, the solicitation to authorize the securities is also a solicitation with respect to the acquisition. Under those facts, information required by Items 11, 13 and 14 shall be furnished.
 
@@ -464,31 +464,7 @@ If, however, the transaction is a going-private transaction (as defined by § 24
 
 (7) *Past contacts, transactions or negotiations.* The information required by Items 1005(b) and 1011(a)(1) of Regulation M-A (§ 229.1005 of this chapter and § 229.1011 of this chapter), for the parties to the transaction and their affiliates during the periods for which financial statements are presented or incorporated by reference under this Item.
 
-(8) *Selected financial data.* The selected financial data required by Item 301 of Regulation S-K (§ 229.301 of this chapter).
-
-(9) *Pro forma selected financial data.* If material, the information required by Item 301 of Regulation S-K (§ 229.301 of this chapter) for the acquiring company, showing the pro forma effect of the transaction.
-
-(10) *Pro forma information.* In a table designed to facilitate comparison, historical and pro forma per share data of the acquiring company and historical and equivalent pro forma per share data of the target company for the following Items:
-
-(i) Book value per share as of the date financial data is presented pursuant to Item 301 of Regulation S-K (§ 229.301 of this chapter);
-
-(ii) Cash dividends declared per share for the periods for which financial data is presented pursuant to Item 301 of Regulation S-K (§ 229.301 of this chapter); and
-
-(iii) Income (loss) per share from continuing operations for the periods for which financial data is presented pursuant to Item 301 of Regulation S-K (§ 229.301 of this chapter).
-
-Instructions to paragraphs (b)(8), (b)(9) and (b)(10):
-
-1. For a business combination, present the financial information required by paragraphs (b)(9) and (b)(10) only for the most recent fiscal year and interim period. For a combination between entities under common control, present the financial information required by paragraphs (b)(9) and (b)(10) (except for information with regard to book value) for the most recent three fiscal years and interim period. For purposes of these paragraphs, book value information need only be provided for the most recent balance sheet date.
-
-2. Calculate the equivalent pro forma per share amounts for one share of the company being acquired by multiplying the exchange ratio times each of:
-
-(i) The pro forma income (loss) per share before non-recurring charges or credits directly attributable to the transaction;
-
-(ii) The pro forma book value per share; and
-
-(iii) The pro forma dividends per share of the acquiring company.
-
-3. Unless registered on a national securities exchange or otherwise required to furnish such information, registered investment companies need not furnish the information required by paragraphs (b)(8) and (b)(9) of this Item.
+(8) - (10) [Reserved]
 
 (11) *Financial information.* If material, financial information required by Article 11 of Regulation S-X (§§ 210.10-01 through 229.11-03 of this chapter) with respect to this transaction.
 
@@ -514,7 +490,7 @@ Instructions to paragraph (b)(11):
 
 (5) Financial statements meeting the requirements of Regulation S-X, including financial information required by Rule 3-05 and Article 11 of Regulation S-X (§ 210.3-05 and § 210.11-01 through § 210.11-03 of this chapter) with respect to transactions other than that as to which action is to be taken as described in this proxy statement;
 
-(6) Information required by Item 301 of Regulation S-K (§ 229.301 of this chapter), selected financial data;
+(6) [Reserved]
 
 (7) Information required by Item 302 of Regulation S-K (§ 229.302 of this chapter), supplementary financial information;
 

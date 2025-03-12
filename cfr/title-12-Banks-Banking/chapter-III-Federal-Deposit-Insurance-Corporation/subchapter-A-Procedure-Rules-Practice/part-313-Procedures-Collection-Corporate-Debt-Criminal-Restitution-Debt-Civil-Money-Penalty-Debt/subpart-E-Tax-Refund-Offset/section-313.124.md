@@ -1,0 +1,5 @@
+##### § 313.124 Pre-offset notice and consideration of evidence. #####
+
+(a) For purposes of § 313.123(c)(2), the FDIC has made a reasonable effort to notify the debtor if it uses the current address information contained in its records related to the debt. The FDIC may, but is not required to, obtain address information from the IRS pursuant to 26 U.S.C. 6103(m)(2), (4), (5).
+
+(b) For purposes of § 313.123(c)(3), if evidence presented by a debtor is considered by an agent of the FDIC, or other entities or persons acting on behalf of the FDIC, the debtor must be accorded at least 30 days from the date the agent or other entity or person determines that all or part of the debt is past-due and legally enforceable to request review by an officer or employee of the FDIC of any unresolved dispute. The FDIC must then notify the debtor of its decision.

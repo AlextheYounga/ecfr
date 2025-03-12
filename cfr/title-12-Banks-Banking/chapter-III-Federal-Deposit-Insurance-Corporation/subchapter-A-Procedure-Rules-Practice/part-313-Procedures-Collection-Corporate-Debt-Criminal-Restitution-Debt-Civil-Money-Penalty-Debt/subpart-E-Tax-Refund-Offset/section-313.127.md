@@ -1,0 +1,5 @@
+##### § 313.127 Correcting and updating referral. #####
+
+If, after referring a past-due legally enforceable debt to FMS as provided in § 313.125, the FDIC determines that an error has been made with respect to the information transmitted to FMS, or if the FDIC receives a payment or credits a payment to the account of the debtor referred to FMS for offset, or if the debt amount is otherwise incorrect, the FDIC shall promptly notify FMS and make the appropriate correction of the FDIC's records. FDIC will provide certification as required under § 313.123 for any increases to amounts owed. In the event FMS rejects an FDIC certification for failure to comply with § 323.123, the FDIC may resubmit the debt with a corrected certification.
+
+[67 FR 48527, July 25, 2002. Redesignated at 71 FR 75661, Dec. 18, 2006]

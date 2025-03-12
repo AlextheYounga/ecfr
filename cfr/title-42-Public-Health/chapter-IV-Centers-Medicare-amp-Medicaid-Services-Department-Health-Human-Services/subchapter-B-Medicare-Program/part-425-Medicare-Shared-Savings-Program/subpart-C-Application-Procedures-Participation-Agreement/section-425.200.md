@@ -1,7 +1,5 @@
 ##### § 425.200 Participation agreement with CMS. #####
 
-Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
-
 (a) *General.* In order to participate in the Shared Savings Program, an ACO must enter into a participation agreement with CMS for a period of not less than the number of years specified in this section.
 
 (b) *Agreement period.*(1) *For 2012.* For applications that are approved to participate in the Shared Savings Program for 2012, the start date for the participation agreement will be one of the following:
@@ -70,7 +68,7 @@ Link to an amendment published at 85 FR 85038, Dec. 28, 2020.
 
 (vi) CMS approves the ACO's renewal, extension, and deferral requests.
 
-(2) An ACO that is approved for renewal, extension, and deferral that terminates its participation agreement before the start of the first performance year of the second agreement period is -
+(2) An ACO that is approved for renewal, extension, and deferral that terminates its participation agreement before the start of the first performance year of the second agreement period is—
 
 (i) Considered to have terminated its participation agreement for the second agreement period under § 425.220; and
 

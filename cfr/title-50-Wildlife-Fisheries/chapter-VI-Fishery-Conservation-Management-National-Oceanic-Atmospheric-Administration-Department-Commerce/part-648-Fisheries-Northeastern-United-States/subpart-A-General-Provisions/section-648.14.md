@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 86 FR 1824, Jan. 11, 2021.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -1124,6 +1122,10 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 (F) Transit the Herring GOM Haddock Accountability Measure Area and/or the Herring GB Haddock Accountability Measure Area, defined in § 648.86(a)(3)(ii)(A)(*1*), with a vessel issued an Atlantic herring permit and that fished with midwater trawl gear, when the 0-lb (0-kg) haddock possession limit in § 648.86(a)(3)(ii)(A)(*1*) is in place for the area being transited, in possession of haddock, unless all haddock on board was caught outside of the applicable Herring GOM Haddock Accountability Measure Area and/or the Herring GB Haddock Accountability Measure Area, and all fishing gear is stowed and not available for immediate use, as defined in § 648.2.
 
 (G) Fish for, possess, or retain herring in any management area during a season that has zero percent of the herring sub-ACL allocated as specified in § 648.201(d).
+
+(H) Use, deploy, or fish with midwater trawl gear within the inshore midwater trawl restricted area as defined in § 648.202(a)(2), unless the vessel is on a declared research set-aside trip and operating as authorized by an exempted fishing permit or the vessel has not been issued a valid, federal permit under this part and fishes exclusively in state waters.
+
+(I) Transit the inshore midwater trawl restricted area, defined in § 648.202(a)(2), with midwater trawl gear onboard unless midwater trawl gear is stowed and not available for immediate use, as defined in § 648.2 or the vessel has not been issued a valid, federal permit under this part and fishes exclusively in state waters.
 
 (vii) *Transit and transport.* (A) Transit or be in an area closed to fishing for Atlantic herring pursuant to § 648.201(a) with more than 2,000 lb (907.2 kg) of herring, unless all fishing gear is not available for immediate use as defined in § 648.2.
 

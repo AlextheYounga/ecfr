@@ -1,7 +1,5 @@
 ##### § 240.14a-3 Information to be furnished to security holders. #####
 
-Link to an amendment published at 86 FR 2131, Jan. 11, 2021.
-
 (a) No solicitation subject to this regulation shall be made unless each person solicited is concurrently furnished or has previously been furnished with:
 
 (1) A publicly-filed preliminary or definitive proxy statement, in the form and manner described in § 240.14a-16, containing the information specified in Schedule 14A (§ 240.14a-101);
@@ -34,7 +32,7 @@ For purposes of complying with § 240.14a-3, if the registrant has changed its f
 
 (4) The report shall contain information concerning changes in and disagreements with accountants on accounting and financial disclosure required by Item 304 of Regulation S-K (§ 229.304 of this chapter).
 
-(5)(i) The report shall contain the selected financial data required by Item 301 of Regulation S-K (§ 229.301 of this chapter).
+(5)(i) [Reserved]
 
 (ii) The report shall contain management's discussion and analysis of financial condition and results of operations required by Item 303 of Regulation S-K (§ 229.303 of this chapter).
 

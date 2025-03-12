@@ -1,7 +1,5 @@
 ##### § 648.206 Framework provisions. #####
 
-Link to an amendment published at 86 FR 1825, Jan. 11, 2021.
-
 (a) *Framework adjustment process.* In response to the triennial review, or at any other time, the Council may initiate action to add or adjust management measures if it finds that action is necessary to meet or be consistent with the goals and objectives of the Atlantic Herring FMP, or to address gear conflicts as defined under § 600.10 of this chapter.
 
 (1) *Adjustment process.* After a management action has been initiated, the Council shall develop and analyze appropriate management measures over the span of at least two Council meetings. The Council may delegate authority to the Herring Oversight Committee to conduct an initial review of the options being considered. The Oversight Committee shall review the options and relevant information, consider public comment, and make a recommendation to the Council.
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 1825, Jan. 11, 2021.
 
 (2) Size, timing, or location of new or existing spawning area closures;
 
-(3) Closed areas other than spawning closures;
+(3) Closed areas, including midwater trawl restricted areas, other than spawning closures;
 
 (4) Restrictions in the amount of fishing time;
 
@@ -102,10 +100,12 @@ Link to an amendment published at 86 FR 1825, Jan. 11, 2021.
 
 (36) River herring and shad catch caps, including species-specific caps, and vessels, permits, trips, gears, and areas to which caps apply;
 
-(37) River herring and shad Catch Cap Areas and Catch Cap Closure Areas; and
+(37) River herring and shad Catch Cap Areas and Catch Cap Closure Areas;
 
-(38) Any other measure currently included in the FMP.
+(38) Modifications to the ABC control rule, including, but not limited to, control rule parameters, if a quantitative stock assessment is not available, if the projections are producing ABCs that are not justified or consistent with available information, or if the stock requires a rebuilding program; and
+
+(39) Any other measure currently included in the FMP.
 
 (c) *Emergency action.* Nothing in this section is meant to derogate from the authority of the Secretary to take emergency action under section 305(e) of the Magnuson-Stevens Act.
 
-[72 FR 11277, Mar. 12, 2007, as amended at 73 FR 4757, Jan. 28, 2008; 76 FR 11380, Mar. 2, 2011; 76 FR 81850, Dec. 29, 2011; 79 FR 8817, Feb. 13, 2014; 79 FR 71972, Dec. 4, 2014; 80 FR 37197, June 30, 2015]
+[72 FR 11277, Mar. 12, 2007, as amended at 73 FR 4757, Jan. 28, 2008; 76 FR 11380, Mar. 2, 2011; 76 FR 81850, Dec. 29, 2011; 79 FR 8817, Feb. 13, 2014; 79 FR 71972, Dec. 4, 2014; 80 FR 37197, June 30, 2015; 86 FR 1825, Jan. 11, 2021]

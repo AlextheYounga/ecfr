@@ -29,7 +29,6 @@
 (vi) *Transition period for digital copper loops and two-wire and four-wire copper loops conditioned to transmit digital signals.* Notwithstanding the remainder of paragraph (a)(1) of this section, an incumbent LEC shall continue to provide a requesting telecommunications carrier with nondiscriminatory access to copper loops as defined in this section for 48 months until February 10, 2025, provided that the incumbent LEC began providing such loop no later than February 8, 2023. Incumbent LECs may raise the rates charged for such loops by no more than 25 percent during months 37 to 48 of this transition period and may charge market-based rates after month 48.
 
 (2) *Hybrid loops.* A hybrid loop is a local loop composed of both fiber optic cable, usually in the feeder plant, and copper wire or cable, usually in the distribution plant.
-
 (i) *Packet switching facilities, features, functions, and capabilities.* An incumbent LEC is not required to provide unbundled access to the packet switched features, functions and capabilities of its hybrid loops. Packet switching capability is the routing or forwarding of packets, frames, cells, or other data units based on address or other routing information contained in the packets, frames, cells or other data units, and the functions that are performed by the digital subscriber line access multiplexers, including but not limited to the ability to terminate an end-user customer's copper loop (which includes both a low-band voice channel and a high-band data channel, or solely a data channel); the ability to forward the voice channels, if present, to a circuit switch or multiple circuit switches; the ability to extract data units from the data channels on the loops; and the ability to combine data units from multiple loops onto one or more trunks connecting to a packet switch or packet switches.
 
 (ii) [Reserved]
@@ -100,9 +99,7 @@
 
 (1) *Definition.* For purposes of this section, dedicated transport includes incumbent LEC transmission facilities between wire centers or switches owned by incumbent LECs, or between wire centers or switches owned by incumbent LECs and switches owned by requesting telecommunications carriers, including, but not limited to, DS1-, DS3-, and OCn-capacity level services, as well as dark fiber, dedicated to a particular customer or carrier.
 
-(2) *Availability.*
-
-(i) *Entrance facilities.* An incumbent LEC is not obligated to provide a requesting carrier with unbundled access to dedicated transport that does not connect a pair of incumbent LEC wire centers.
+(2) *Availability.* (i) *Entrance facilities.* An incumbent LEC is not obligated to provide a requesting carrier with unbundled access to dedicated transport that does not connect a pair of incumbent LEC wire centers.
 
 (ii) *Dedicated DS1 transport.* Dedicated DS1 transport shall be made available to requesting carriers on an unbundled basis as set forth in paragraphs (d)(2)(ii)(A) and (B) of this section. Dedicated DS1 transport consists of incumbent LEC interoffice transmission facilities that have a total digital signal speed of 1.544 megabytes per second and are dedicated to a particular customer or carrier.
 
@@ -134,4 +131,4 @@
 
 (e) *Operations support systems.* An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to operations support systems on an unbundled basis only when it is used to manage other unbundled network elements, local interconnection, or local number portability, in accordance with section 251(c)(3) of the Act and this part. Operations support system functions consist of pre-ordering, ordering, provisioning, maintenance and repair, and billing functions supported by an incumbent LEC's databases and information. An incumbent LEC, as part of its duty to provide access to the pre-ordering function, shall provide the requesting telecommunications carrier with nondiscriminatory access to the same detailed information about the loop that is available to the incumbent LEC.
 
-[68 FR 52295, Sept. 4, 2003, as amended at 68 FR 64000, Nov. 12, 2003; 69 FR 54591, Sept. 9, 2004; 69 FR 77953, Dec. 29, 2004; 70 FR 8953, Feb. 24, 2005:78 FR 5746, Jan. 28, 2013; 86 FR 1673, Jan. 8, 2021]
+[68 FR 52295, Sept. 4, 2003, as amended at 68 FR 64000, Nov. 12, 2003; 69 FR 54591, Sept. 9, 2004; 69 FR 77953, Dec. 29, 2004; 70 FR 8953, Feb. 24, 2005:78 FR 5746, Jan. 28, 2013; 86 FR 1673, Jan. 8, 2021; 86 FR 8872, Feb. 10, 2021]

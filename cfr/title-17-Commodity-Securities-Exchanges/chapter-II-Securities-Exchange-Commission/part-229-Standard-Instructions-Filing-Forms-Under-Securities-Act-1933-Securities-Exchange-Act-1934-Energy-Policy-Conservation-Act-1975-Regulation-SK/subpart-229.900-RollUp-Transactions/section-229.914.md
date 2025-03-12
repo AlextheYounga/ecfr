@@ -1,8 +1,6 @@
 ##### § 229.914 (Item 914) Pro forma financial statements: selected financial data. #####
 
-Link to an amendment published at 86 FR 2128, Jan. 11, 2021.
-
-(a) In addition to the information required by Item 301 of Regulation S-K, Selected Financial Data (§ 229.301), and Item 302 of Regulation S-K, Supplementary Financial Information (§ 229.302), for each partnership proposed to be included in a roll-up transaction provide: Ratio of earnings to fixed charges, cash and cash equivalents, total assets at book value, total assets at the value assigned for purposes of the roll-up transaction (if applicable), total liabilities, general and limited partners' equity, net increase (decrease) in cash and cash equivalents, net cash provided by operating activities, distributions; and per unit data for net income (loss), book value, value assigned for purposes of the roll-up transaction (if applicable), and distributions (separately identifying distributions that represent a return of capital). This information should be provided for the same period(s) for which Selected Financial Data and Supplementary Financial Information are required to be provided. Additional or other information should be provided if material to an understanding of each partnership proposed to be included in a roll-up transaction.
+(a) In addition to the information required by § 229.302 (Item 302 of Regulation S-K), for each partnership proposed to be included in a roll-up transaction provide: cash and cash equivalents, total assets at book value, total assets at the value assigned for purposes of the roll-up transaction (if applicable), total liabilities, general and limited partners' equity, net increase (decrease) in cash and cash equivalents, net cash provided by operating activities, distributions; and per unit data for net income (loss), book value, value assigned for purposes of the roll-up transaction (if applicable), and distributions (separately identifying distributions that represent a return of capital). This information must be provided for the previous two fiscal years. Additional or other information must be provided if material to an understanding of each partnership proposed to be included in a roll-up transaction.
 
 (b) Provide pro forma financial information (including oil and gas reserves and cash flow disclosure, if appropriate), assuming:
 
@@ -23,3 +21,5 @@ Link to an amendment published at 86 FR 2128, Jan. 11, 2021.
 *Instructions to Item 914.* (1) Notwithstanding the provisions of this Item (§ 229.914), any or all of the information required by paragraphs (b) and (c) of this Item (§ 229.914) that is not material for the exercise of prudent judgment in regard to the matter to be acted upon, may be omitted.
 
 (2) If the roll-up transaction is structured to permit participation by portions of partnerships, consideration should be given to the effect of such participation in preparing the pro forma financial statements reflecting a partial roll-up.
+
+[56 FR 57247, Nov. 8, 1991, as amended at 86 FR 2128, Jan. 11, 2021]

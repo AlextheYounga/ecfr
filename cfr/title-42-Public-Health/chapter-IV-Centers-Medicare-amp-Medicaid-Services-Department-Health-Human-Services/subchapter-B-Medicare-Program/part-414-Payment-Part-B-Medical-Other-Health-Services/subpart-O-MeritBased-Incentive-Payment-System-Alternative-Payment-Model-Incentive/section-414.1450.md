@@ -1,7 +1,5 @@
 ##### § 414.1450 APM incentive payment. #####
 
-Link to an amendment published at 85 FR 85035, Dec. 28, 2020.
-
 (a) *In general.* (1) CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.
 
 (2) CMS provides notice of the amount of the APM Incentive Payment to QPs as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.

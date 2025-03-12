@@ -1,7 +1,5 @@
 ##### § 210.2 Definitions. #####
 
-Link to an amendment published at 86 FR 2203, Jan. 11, 2021.
-
 As used in this subpart:
 
 (a) A *Monthly Statement of Account* or *Monthly Statement* is a statement accompanying monthly royalty payments identified in 17 U.S.C. 115(c)(2)(I), and required by that section to be filed under the compulsory license to make and distribute phonorecords of nondramatic musical works, including by means of a digital phonorecord delivery.
@@ -36,14 +34,6 @@ As used in this subpart:
 
 (j) *GAAP* means U.S. Generally Accepted Accounting Principles, except that if the U.S. Securities and Exchange Commission permits or requires entities with securities that are publicly traded in the U.S. to employ International Financial Reporting Standards, as issued by the International Accounting Standards Board, or as accepted by the Securities and Exchange Commission if different from that issued by the International Accounting Standards Board, in lieu of Generally Accepted Accounting Principles, then an entity may employ International Financial Reporting Standards as “GAAP” for purposes of this subpart.
 
-(k) The term *license availability date* shall have the meaning given in 17 U.S.C. 115(e)(15).
+(k) Any terms not otherwise defined in this section shall have the meanings set forth in 17 U.S.C. 115(e).
 
-(l) The term *digital music provider* shall have the meaning given in 17 U.S.C. 115(e)(8).
-
-(m) The term *blanket license* shall have the meaning given in 17 U.S.C. 115(e)(5).
-
-(n) The term *record company* shall have the meaning given in 17 U.S.C. 115(e)(26).
-
-(o) The term *individual download license* shall have the meaning given in 17 U.S.C. 115(e)(12).
-
-[79 FR 56206, Sept. 18, 2014, as amended at 83 FR 63065, Dec. 7, 2018. Redesignated at 85 FR 58143, Sept. 17, 2020]
+[79 FR 56206, Sept. 18, 2014, as amended at 83 FR 63065, Dec. 7, 2018. Redesignated at 85 FR 58143, Sept. 17, 2020. Amended at 86 FR 2203, Jan. 11, 2021]

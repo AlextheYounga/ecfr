@@ -1,7 +1,5 @@
 ##### § 210.1-02 Definitions of terms used in Regulation S-X (17 CFR part 210). #####
 
-Link to an amendment published at 86 FR 2126, Jan. 11, 2021.
-
 Unless the context otherwise requires, terms defined in the general rules and regulations or in the instructions to the applicable form, when used in Regulation S-X (this part 210), shall have the respective meanings given in such instructions or rules. In addition, the following terms shall have the meanings indicated in this section unless the context otherwise requires.
 
 (a)(1) *Accountant's report.* The term *accountant's report,* when used in regard to financial statements, means a document in which an independent public or certified public accountant indicates the scope of the audit (or examination) which he has made and sets forth his opinion regarding the financial statements taken as a whole, or an assertion to the effect that an overall opinion cannot be expressed. When an overall opinion cannot be expressed, the reasons therefor shall be stated.
@@ -114,13 +112,13 @@ Unless the context otherwise requires, terms defined in the general rules and re
 
 (aa) *Wholly owned subsidiary.* The term *wholly owned subsidiary* means a subsidiary substantially all of whose outstanding voting shares are owned by its parent and/or the parent's other wholly owned subsidiaries.
 
-(bb) *Summarized financial information.* (1) Except as provided in paragraph (aa)(2), *summarized financial information* referred to in this regulation shall mean the presentation of summarized information as to the assets, liabilities and results of operations of the entity for which the information is required. Summarized financial information shall include the following disclosures:
+(bb) *Summarized financial information.* (1) Except as provided in paragraph (bb)(2) of this section, *summarized financial information* referred to in this part shall mean the presentation of summarized information as to the assets, liabilities and results of operations of the entity for which the information is required. Summarized financial information shall include the following disclosures, which may be subject to appropriate variation to conform to the nature of the entity's business:
 
 (i) Current assets, noncurrent assets, current liabilities, noncurrent liabilities, and, when applicable, redeemable preferred stocks (see § 210.5-02.27) and noncontrolling interests (for specialized industries in which classified balance sheets are normally not presented, information shall be provided as to the nature and amount of the majority components of assets and liabilities);
 
 (ii) Net sales or gross revenues, gross profit (or, alternatively, costs and expenses applicable to net sales or gross revenues), income or loss from continuing operations, net income or loss, and net income or loss attributable to the entity (for specialized industries, other information may be substituted for sales and related costs and expenses if necessary for a more meaningful presentation); and
 
-(2) Summarized financial information for unconsolidated subsidiaries and 50 percent or less owned persons referred to in and required by § 210.10-01(b) for interim periods shall include the information required by paragraph (aa)(1)(ii) of this section.
+(2) Summarized financial information for unconsolidated subsidiaries and 50 percent or less owned persons referred to in and required by § 210.10-01(b) for interim periods shall include the information required by paragraph (bb)(1)(ii) of this section.
 
 (cc) *Statement(s) of comprehensive income.* The term *statement(s) of comprehensive income* means a financial statement that includes all changes in equity during a period except those resulting from investments by owners and distributions to owners. Comprehensive income comprises all components of net income and all components of other comprehensive income. The statement of comprehensive income may be presented either in a single continuous financial statement or in two separate but consecutive financial statements. A statement(s) of operations or variations thereof may be used in place of a statement(s) of comprehensive income if there was no other comprehensive income during the period(s).
 

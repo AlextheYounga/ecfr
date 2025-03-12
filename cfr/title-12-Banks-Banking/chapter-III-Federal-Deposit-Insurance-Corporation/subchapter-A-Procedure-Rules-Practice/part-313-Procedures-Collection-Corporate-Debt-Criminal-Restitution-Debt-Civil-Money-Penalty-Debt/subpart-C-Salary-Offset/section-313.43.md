@@ -1,0 +1,3 @@
+##### § 313.43 Failure to timely submit request for hearing. #####
+
+If the Director does not receive an employee's request for hearing within the 30-day period set forth in § 313.42(a), the employee shall not be entitled to a hearing. However, the Director may accept an untimely request for hearing if the employee can show that the delay was the result of circumstances beyond his or her control or that he or she failed to receive actual notice of the filing deadline.

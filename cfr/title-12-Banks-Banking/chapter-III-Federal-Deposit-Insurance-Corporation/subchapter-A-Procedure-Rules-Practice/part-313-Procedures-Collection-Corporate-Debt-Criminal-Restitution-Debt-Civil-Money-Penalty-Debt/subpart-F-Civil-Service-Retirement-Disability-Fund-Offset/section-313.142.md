@@ -1,0 +1,3 @@
+##### § 313.142 Request for administrative offset. #####
+
+The Director shall request administrative offset under § 313.140, as soon as practical after completion of the applicable procedures in order to help ensure that offset be initiated prior to expiration of the applicable statute of limitations. At such time as the debtor makes a claim for payments from the Fund, if at least a year has elapsed since the offset request was originally made, the debtor shall be permitted to offer a satisfactory repayment plan in lieu of offset upon establishing that changed financial circumstances would render the offset unjust.

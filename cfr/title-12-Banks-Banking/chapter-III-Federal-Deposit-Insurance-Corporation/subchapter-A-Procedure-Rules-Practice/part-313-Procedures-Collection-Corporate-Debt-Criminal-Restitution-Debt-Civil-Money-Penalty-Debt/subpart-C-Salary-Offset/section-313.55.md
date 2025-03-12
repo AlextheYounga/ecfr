@@ -1,0 +1,3 @@
+##### § 313.55 Salary adjustments. #####
+
+Any negative adjustment to pay arising out of an employee's election of coverage, or a change in coverage, under a federal benefits program requiring periodic deductions from pay shall not be considered collection of a “debt” for the purposes of this section if the amount to be recovered was accumulated over four pay periods or less. In such cases, the FDIC shall not apply this subpart C, but will provide a clear and concise statement in the employee's earnings statement advising the employee of the previous overpayment at the time the adjustment is made.

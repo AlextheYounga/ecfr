@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 86 FR 1823, Jan. 11, 2021.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -589,6 +587,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 *Runaround gillnet or encircling gillnet* means a rectangular net placed upright in the water column in a circular fashion with an opening equal to or less than1/4 the length of the net or with an opening greater than1/4 the length of the net, if the opening is obstructed in any fashion.
 
 *Scallop dredge vessel* means any fishing vessel, other than a combination vessel, that uses or is equipped to use scallop dredge gear.
+
+*Slippage in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying a NMFS-certified observer or monitor prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by a NMFS-certified observer or monitor after the catch is on board. Slippage also means any catch that is discarded during a trip prior to it being sampled portside by a portside sampler on a trip selected for portside sampling coverage by NMFS. Slippage includes releasing catch from a codend or seine prior to the completion of pumping the catch aboard and the release of catch from a codend or seine while the codend or seine is in the water. Fish that cannot be pumped and remain in the codend or seine at the end of pumping operations are not considered slippage. Discards that occur after the catch is brought on board and made available for sampling and inspection by a NMFS-certified observer or monitor are also not considered slippage.
 
 *Scup* means *Stenotomus chrysops.*
 

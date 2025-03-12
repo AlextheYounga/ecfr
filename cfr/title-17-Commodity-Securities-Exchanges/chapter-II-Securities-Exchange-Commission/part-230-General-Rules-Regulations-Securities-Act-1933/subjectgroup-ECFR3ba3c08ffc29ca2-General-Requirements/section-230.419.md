@@ -1,7 +1,5 @@
 ##### § 230.419 Offerings by blank check companies. #####
 
-Link to an amendment published at 86 FR 2129, Jan. 11, 2021.
-
 (a) *Scope of the rule and definitions.* (1) The provisions of this section shall apply to every registration statement filed under the Act relating to an offering by a blank check company.
 
 (2) For purposes of this section, the term “blank check company” shall mean a company that:
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 2129, Jan. 11, 2021.
 
 (3) For purposes of this section, the term “purchaser” shall mean any person acquiring securities directly or indirectly in the offering, for cash or otherwise, including promoters or others receiving securities as compensation in connection with the offering.
 
-(b) *Deposit of securities and proceeds in escrow or trust account* - (1) *General.* (i) Except as otherwise provided in this section or prohibited by other applicable law, all securities issued in connection with an offering by a blank check company and the gross proceeds from the offering shall be deposited promptly into:
+(b) *Deposit of securities and proceeds in escrow or trust account*—(1) *General.* (i) Except as otherwise provided in this section or prohibited by other applicable law, all securities issued in connection with an offering by a blank check company and the gross proceeds from the offering shall be deposited promptly into:
 
 (A) An escrow account maintained by an “insured depository institution,” as that term is defined in section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(C)(2)); or
 
@@ -64,7 +62,7 @@ With respect to a blank check offering subject to both Rule 419 and Exchange Act
 
 (d) *Probable acquisition post-effective amendment requirement.* If, during any period in which offers or sales are being made, a significant acquisition becomes probable, the registrant shall file promptly a post-effective amendment disclosing the information specified by the applicable registration statement form and Industry Guides, including financial statements of the registrant and the company to be acquired as well as pro forma financial information required by the form and applicable rules and regulations. Where warrants, rights or other derivative securities issued in the initial offering are exercisable, there is a continuous offering of the underlying security.
 
-(e) *Release of deposited and funds securities* - (1) *Post-effective amendment for acquisition agreement.* Upon execution of an agreement(s) for the acquisition(s) of a business(es) or assets that will constitute the business (or a line of business) of the registrant and for which the fair value of the business(es) or net assets to be acquired represents at least 80 percent of the maximum offering proceeds, including proceeds received or to be received upon the exercise or conversion of any securities offered, but excluding amounts payable to non-affiliates for underwriting commissions, underwriting expenses, and dealer allowances, the registrant shall file a post-effective amendment that:
+(e) *Release of deposited and funds securities*—(1) *Post-effective amendment for acquisition agreement.* Upon execution of an agreement(s) for the acquisition(s) of a business(es) or assets that will constitute the business (or a line of business) of the registrant and for which the fair value of the business(es) or net assets to be acquired represents at least 80 percent of the maximum offering proceeds, including proceeds received or to be received upon the exercise or conversion of any securities offered, but excluding amounts payable to non-affiliates for underwriting commissions, underwriting expenses, and dealer allowances, the registrant shall file a post-effective amendment that:
 
 (i) Discloses the information specified by the applicable registration statement form and Industry Guides, including financial statements of the registrant and the company acquired or to be acquired and pro forma financial information required by the form and applicable rules and regulations;
 
@@ -102,8 +100,8 @@ Notes to § 230.419(e):
 
 (f) *Financial statements.* The registrant shall:
 
-(1) Furnish to security holders audited financial statements for the first full fiscal year of operations following consummation of an acquisition pursuant to paragraph (e) of this section, together with the information required by Item 303(a) of Regulation S-K (17 CFR 229.303(a)), no later than 90 days after the end of such fiscal year; and
+(1) Furnish to security holders audited financial statements for the first full fiscal year of operations following consummation of an acquisition pursuant to paragraph (e) of this section, together with the information required by § 229.303(b) of this chapter (Item 303(b) of Regulation S-K), no later than 90 days after the end of such fiscal year; and
 
 (2) File the financial statements and additional information with the Commission under cover of Form 8-K (17 CFR 249.308); *provided, however,* that such financial statements and related information need not be filed separately if the registrant is filing reports pursuant to Section 13(a) or 15(d) of the Exchange Act.
 
-[57 FR 18043, Apr. 28, 1992, as amended at 79 FR 47957, Aug. 14, 2014]
+[57 FR 18043, Apr. 28, 1992, as amended at 79 FR 47957, Aug. 14, 2014; 86 FR 2129, Jan. 11, 2021]

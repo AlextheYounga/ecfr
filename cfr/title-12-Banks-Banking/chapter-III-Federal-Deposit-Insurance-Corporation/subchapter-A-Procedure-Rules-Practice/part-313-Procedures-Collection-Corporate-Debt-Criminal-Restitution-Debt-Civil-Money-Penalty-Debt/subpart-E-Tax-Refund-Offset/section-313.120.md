@@ -1,0 +1,3 @@
+##### § 313.120 Scope. #####
+
+The provisions of 26 U.S.C. 6402(d) and 31 U.S.C. 3720A authorize the Secretary of the Treasury to offset a delinquent debt owed to the United States Government from the tax refund due a taxpayer when other collection efforts have failed to recover the amount due. In addition, the FDIC is authorized to collect debts by means of administrative offset under 31 U.S.C. 3716 and, as part of the debt collection process, to notify the Financial Management Service (FMS), a bureau of the Department of the Treasury, of the amount of such debt for collection by tax refund offset.
