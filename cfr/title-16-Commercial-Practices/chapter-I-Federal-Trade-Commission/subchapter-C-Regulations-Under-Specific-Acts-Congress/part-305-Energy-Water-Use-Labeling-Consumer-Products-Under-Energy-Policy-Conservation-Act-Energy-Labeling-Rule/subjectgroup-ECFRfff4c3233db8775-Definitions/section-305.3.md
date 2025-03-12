@@ -1,5 +1,7 @@
 ##### § 305.3 Description of covered products. #####
 
+Link to an amendment published at 84 FR 58028, Oct. 30, 2019.
+
 (a) *Refrigerators and refrigerator-freezers.* (1) *Electric refrigerator* means a cabinet designed for the refrigerated storage of food, designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and having a source of refrigeration requiring single phase, alternating current electric energy input only. An electric refrigerator may include a compartment for the freezing and storage of food at temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C).
 
 (2) *Electric refrigerator-freezer* means a cabinet which consists of two or more compartments with at least one of the compartments designed for the refrigerated storage of food and designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and with at least one of the compartments designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C) which may be adjusted by the user to a temperature of 0 °F (−17.8 °C) or below. The source of refrigeration requires single phase, alternating current electric energy input only.

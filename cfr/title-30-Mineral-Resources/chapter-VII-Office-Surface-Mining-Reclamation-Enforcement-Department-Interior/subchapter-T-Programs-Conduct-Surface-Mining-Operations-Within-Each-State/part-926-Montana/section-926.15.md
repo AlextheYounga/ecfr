@@ -1,6 +1,6 @@
 ##### § 926.15 Approval of Montana regulatory program amendments. #####
 
-Link to an amendment published at 84 FR 56695, Oct. 23, 2019.
+Link to an amendment published at 84 FR 56695, Oct. 23, 2019.Link to an amendment published at 84 FR 58051, Oct. 30, 2019.
 
 The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
 

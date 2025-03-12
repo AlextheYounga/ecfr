@@ -1,5 +1,7 @@
 ##### § 305.17 Television labeling. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.Link to an amendment published at 84 FR 58035, Oct. 30, 2019.Link to an amendment published at 84 FR 58037, Oct. 30, 2019.
+
 (a) *Layout.* All energy labels for televisions shall use one of three shapes: a vertical rectangle, a horizontal rectangle, and a triangle as detailed in Prototype Labels in appendix L. All label size, positioning, spacing, type sizes, positioning of headline, copy, and line widths must be consistent with the prototype and sample labels in appendix L. The minimum label size for the vertical rectangle label is 1.5″ × 5.5″. The minimum size for the horizontal rectangle label is 1.5″ × 5.23″. The minimum size for the triangle label is 4.5″ × 4.5″ (right angle sides).
 
 (b) *Type style and setting.* The Arial series typeface or equivalent shall be used exclusively on the label. Prototype Labels in appendix L contain specific directions for type style and setting and indicate the specific sizes, leading, faces, positioning, and spacing to be used. No hyphenations should be used in setting headline or copy text.

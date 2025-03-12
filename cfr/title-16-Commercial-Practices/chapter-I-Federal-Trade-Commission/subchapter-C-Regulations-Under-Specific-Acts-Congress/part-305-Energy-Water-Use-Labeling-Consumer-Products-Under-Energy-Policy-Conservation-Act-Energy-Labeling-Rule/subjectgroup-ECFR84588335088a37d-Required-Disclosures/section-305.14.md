@@ -1,5 +1,7 @@
 ##### § 305.14 Energy information disclosures for heating and cooling equipment. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.Link to an amendment published at 84 FR 58033, Oct. 30, 2019.
+
 The following provisions apply to any covered central air conditioner, heat pump, or furnace.
 
 (a) *Manufacturer duty to provide labels.* For any covered central air conditioner, heat pump, or furnace model that a manufacturer distributes in commerce, the manufacturer must make a copy of the EnergyGuide label available on a publicly accessible Web site in a manner that allows catalog sellers and consumers to hyperlink to the label or download it for their use. The labels must remain on the Web site for six months after the manufacturer ceases the model's production.

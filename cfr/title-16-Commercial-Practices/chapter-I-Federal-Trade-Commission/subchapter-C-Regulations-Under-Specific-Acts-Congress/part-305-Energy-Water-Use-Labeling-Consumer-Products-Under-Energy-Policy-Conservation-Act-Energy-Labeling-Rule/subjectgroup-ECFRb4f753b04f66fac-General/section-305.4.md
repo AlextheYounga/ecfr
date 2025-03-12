@@ -1,5 +1,7 @@
 ##### § 305.4 Prohibited acts. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.
+
 (a) It shall be unlawful and subject to the enforcement penalties of section 333 of the Act, as adjusted for inflation pursuant to § 1.98 of this chapter, for each unit of any new covered product to which the part applies:
 
 (1) For any manufacturer or private labeler knowingly to distribute in commerce any new covered product unless such covered product is marked and/or labeled in accordance with this part with a marking, label, hang tag, or energy fact sheet which conforms to the provisions of the Act and this part.

@@ -1,5 +1,7 @@
 ##### § 305.5 Determinations of estimated annual energy consumption, estimated annual operating cost, and energy efficiency rating, water use rate, and other required disclosure content. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.Link to an amendment published at 84 FR 58030, Oct. 30, 2019.
+
 (a) Unless otherwise stated in paragraphs (b) and (c) of this section, the content of any disclosures required by this part must be determined in accordance with the testing and sampling provisions required by the Department of Energy as set forth in subpart B to 10 CFR part 430, 10 CFR part 431, and 10 CFR 429.11.
 
 (b) For any representations required by this part but not subject to Department of Energy requirements and not otherwise specified in this section, manufacturers and private labelers of any covered product must possess and rely upon a reasonable basis consisting of competent and reliable scientific tests and procedures substantiating the representation.

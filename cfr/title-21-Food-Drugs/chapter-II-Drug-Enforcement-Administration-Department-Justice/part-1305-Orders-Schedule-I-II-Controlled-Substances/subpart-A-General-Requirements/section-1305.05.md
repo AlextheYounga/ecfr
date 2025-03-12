@@ -1,7 +1,5 @@
 ##### § 1305.05 Power of attorney. #####
 
-Link to an amendment published at 84 FR 51374, Sept. 30, 2019.
-
 (a) A registrant may authorize one or more individuals, whether or not located at his or her registered location, to issue orders for Schedule I and II controlled substances on the registrant's behalf by executing a power of attorney for each such individual, if the power of attorney is retained in the files, with executed Forms 222 where applicable, for the same period as any order bearing the signature of the attorney. The power of attorney must be available for inspection together with other order records.
 
 (b) A registrant may revoke any power of attorney at any time by executing a notice of revocation.
@@ -30,6 +28,16 @@ The foregoing power of attorney is hereby revoked by the undersigned, who is aut
 
 Signed and dated on the \_\_\_\_ day of \_\_\_\_, (year), at \_\_\_\_.
 
-(d) A power of attorney must be executed by the person who signed the most recent application for DEA registration or reregistration; the person to whom the power of attorney is being granted; and two witnesses.
+(d) A power of attorney must be executed by:
+
+(1) The registrant, if an individual; a partner of the registrant, if a partnership; or an officer of the registrant, if a corporation, corporate division, association, trust or other entity;
+
+(2) The person to whom the power of attorney is being granted; and
+
+(3) Two witnesses.
 
 (e) A power of attorney must be revoked by the person who signed the most recent application for DEA registration or reregistration, and two witnesses.
+
+(f) A power of attorney executed under this section may be signed electronically, by any or all of the persons required to sign.
+
+[70 FR 16911, Apr. 1, 2005 , as amended at 84 FR 51374, Sept. 30, 2019]

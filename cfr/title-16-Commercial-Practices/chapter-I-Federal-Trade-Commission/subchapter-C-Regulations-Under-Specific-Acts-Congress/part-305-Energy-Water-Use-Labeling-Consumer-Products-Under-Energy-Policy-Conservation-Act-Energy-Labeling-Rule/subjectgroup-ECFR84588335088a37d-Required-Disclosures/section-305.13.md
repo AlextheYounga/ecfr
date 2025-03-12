@@ -1,5 +1,7 @@
 ##### § 305.13 Labeling for ceiling fans. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.Link to an amendment published at 84 FR 58032, Oct. 30, 2019.
+
 (a) *Ceiling fans* - (1) *Content.* Any covered product that is a ceiling fan, except for large diameter and high-speed small diameter fans as defined in 10 CFR part 430, shall be labeled clearly and conspicuously on the package's principal display panel with the following information on the label consistent with the sample label in appendix L to this part:
 
 (i) Headlines, including the title “EnergyGuide,” and text as illustrated in the sample label in appendix L to this part;

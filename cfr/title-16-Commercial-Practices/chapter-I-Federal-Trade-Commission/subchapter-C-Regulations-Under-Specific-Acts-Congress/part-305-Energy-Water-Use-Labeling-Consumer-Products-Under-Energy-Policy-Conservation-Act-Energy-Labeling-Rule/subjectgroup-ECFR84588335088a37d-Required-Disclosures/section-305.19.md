@@ -1,5 +1,7 @@
 ##### § 305.19 Promotional material displayed or distributed at point of sale. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.Link to an amendment published at 84 FR 58036, Oct. 30, 2019.Link to an amendment published at 84 FR 58037, Oct. 30, 2019.
+
 (a)(1) Any manufacturer, distributor, retailer or private labeler who prepares printed material for display or distribution at point of sale concerning a covered product (except fluorescent lamp ballasts, metal halide lamp fixtures, general service fluorescent lamps, general service lamps, showerheads, faucets, water closets or urinals) shall clearly and conspicuously include in such printed material the following required disclosure:
 
 Before purchasing this appliance, read important information about its estimated annual energy consumption, yearly operating cost, or energy efficiency rating that is available from your retailer.

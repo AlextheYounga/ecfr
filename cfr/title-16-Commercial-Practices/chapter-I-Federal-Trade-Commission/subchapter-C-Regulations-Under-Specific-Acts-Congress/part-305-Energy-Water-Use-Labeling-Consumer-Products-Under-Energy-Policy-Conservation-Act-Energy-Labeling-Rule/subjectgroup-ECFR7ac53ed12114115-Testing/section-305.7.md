@@ -1,5 +1,7 @@
 ##### § 305.7 Determinations of capacity. #####
 
+Link to an amendment published at 84 FR 58029, Oct. 30, 2019.Link to an amendment published at 84 FR 58032, Oct. 30, 2019.
+
 The capacity of covered products shall be determined as follows:
 
 (a) *Refrigerators and refrigerator-freezers.* The capacity shall be the total refrigerated volume (VT) in cubic feet, rounded to the nearest one-tenth of a cubic foot, as determined according to appendix A to 10 CFR part 430, subpart B.

@@ -1,8 +1,8 @@
 ##### § 165.T07-0803 Regulated navigation area; Saint Simons Sound, GA. #####
 
-(a) *Location.* The following area is a regulated navigation area (RNA): All navigable waters of Saint Simons Sound, GA bounded by a line drawn from a point located at 31°07′48.84″ N, 081°23′30.67″ W, thence to 31°07′29.38″ N, 081°23′37.15″ W, thence to 31°07′51.43″ N, 081°16′23.57″ W, thence to 31°08′07.28″ N, 081°24′48.08″ W, thence to 31°07′22.87″ N, 081°24′38.78″ W, thence to 31°07′40″ N, 081°25′01″ W. All coordinates are North American Datum 1983 (NAD 83).
+(a) *Location.* The following area is a regulated navigation area (RNA): All navigable waters of Saint Simons Sound, GA bounded by a line drawn from a point located at 31°07′48″ N, 081°23′30″ W, thence to 31°07′29″ N, 081°23′37″ W, thence to 31°07′38″ N, 081°24′10″ W, thence to 31°07′22″ N, 081°24′38″ W, thence to 31°07′40″ N, 081°25′01″ W, thence to 31°08′07″ N, 081°24′48″ W. All coordinates are North American Datum 1983 (NAD 83).
 
-(b) *Definition.* As used in this section, *designated representative* of the Captain of the Port Savannah (COTP) is any Coast Guard commissioned, warrant or petty officer, or federal, state, local agency, who has been designated by the COTP Savannah to assist in the patrol or enforcement of the regulated area.
+(b) *Definition.* As used in this section, *designated representative* of the Captain of the Port Savannah (COTP) is any Coast Guard commissioned, warrant or petty officer, or Federal, State, local agency, who has been designated by the COTP Savannah to assist in the patrol or enforcement of the regulated area.
 
 (c) *Regulations.* In addition to the general RNA regulations in § 165.13, the regulations in paragraphs (c)(1) through (8) of this section apply to the RNA described in paragraph (a) of this section.
 
@@ -22,4 +22,4 @@
 
 (8) The inland navigation rules in 33 CFR subchapter E remain in effect within the RNA and must be followed at all times.
 
-Effective Date Note:By USCG-2019-0803, 84 FR 57821, Oct. 29, 2019, § 165.T07-0803 was added, effective Oct. 29, 2019 through Jan. 29, 2021.
+Effective Date Note:By USCG-2019-0803, 84 FR 58053, Oct. 30, 2019, § 165.T07-0803 was revised, effective Oct. 30, 2019 through Jan. 29, 2021.
