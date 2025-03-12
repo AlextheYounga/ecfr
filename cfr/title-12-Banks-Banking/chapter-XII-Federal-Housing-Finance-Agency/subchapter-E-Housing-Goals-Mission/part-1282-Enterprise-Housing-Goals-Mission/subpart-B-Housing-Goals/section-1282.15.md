@@ -1,7 +1,5 @@
 ##### § 1282.15 General counting requirements. #####
 
-Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
-
 (a) *Calculating the numerator and denominator for single-family housing goals.* Performance under each of the single-family housing goals shall be measured using a fraction that is converted into a percentage. Neither the numerator nor the denominator shall include Enterprise transactions or activities that are not mortgage purchases as defined by FHFA or that are specifically excluded as ineligible under § 1282.16(b).
 
 (1) *The numerator.* The numerator of each fraction is the number of mortgage purchases of an Enterprise in a particular year that finance owner-occupied single-family properties that count toward achievement of a particular single-family housing goal.
@@ -38,6 +36,4 @@ Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
 
 (h) *Sampling not permitted.* Performance under the housing goals for each year shall be based on a complete tabulation of mortgage purchases (or dwelling units) for that year; a sampling of such purchases (or dwelling units) is not acceptable.
 
-(i) *Newly available data.* When an Enterprise uses data to determine whether a mortgage purchase (or dwelling unit) counts toward achievement of any goal and new data is released after the start of a calendar quarter, the Enterprise need not use the new data until the start of the following quarter.
-
-[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53431, Sept. 3, 2015; 83 FR 5899, Feb. 12, 2018]
+[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53431, Sept. 3, 2015; 83 FR 5899, Feb. 12, 2018; 86 FR 73658, Dec. 28, 2021]

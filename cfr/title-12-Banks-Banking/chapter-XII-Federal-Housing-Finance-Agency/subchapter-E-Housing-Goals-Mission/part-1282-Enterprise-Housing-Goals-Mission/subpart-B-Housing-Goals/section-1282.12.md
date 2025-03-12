@@ -1,7 +1,5 @@
 ##### § 1282.12 Single-family housing goals. #####
 
-Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
-
 (a) *Single-family housing goals.* An Enterprise shall be in compliance with a single-family housing goal if its performance under the housing goal meets or exceeds either:
 
 (1) The share of the market that qualifies for the goal; or
@@ -26,30 +24,44 @@ Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2021 shall be 24 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2022, 2023, and 2024 shall be 28 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
 (d) *Very low-income families housing goal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that consists of mortgages for very low-income families shall meet or exceed either:
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2021 shall be 6 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2022, 2023, and 2024 shall be 7 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
 (e) *Low-income areas housing goal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that consists of mortgages for families in low-income areas shall meet or exceed either:
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) A benchmark level which shall be set annually by FHFA notice based on the benchmark level for the low-income areas housing subgoal, plus an adjustment factor reflecting the additional incremental share of mortgages for moderate-income families in designated disaster areas in the most recent year for which such data is available.
+(2) A benchmark level which shall be set annually by FHFA notice based on the sum of the benchmark levels for the low-income census tracts housing subgoal and the minority census tracts housing subgoal, plus an adjustment factor reflecting the additional incremental share of mortgages for moderate-income families in designated disaster areas in the most recent year for which such data is available.
 
-(f) *Low-income areas housing subgoal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that consists of mortgages for families in low-income census tracts or for moderate-income families in minority census tracts shall meet or exceed either:
+(f) *Low-income census tracts housing subgoal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that—
+
+(1) Consists of:
+
+(i) Mortgages in low-income census tracts that are not minority census tracts; and
+
+(ii) Mortgages for families with incomes in excess of 100 percent of the area median income in low-income census tracts that are also minority census tracts;
+
+(2) Shall meet or exceed either:
+
+(i) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
+
+(ii) The benchmark level, which for 2022, 2023, and 2024 shall be 4 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+
+(g) *Minority census tracts housing subgoal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that consists of mortgages for moderate-income families in minority census tracts shall meet or exceed either:
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2021 shall be 14 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2022, 2023, and 2024 shall be 10 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
-(g) *Refinancing housing goal.* The percentage share of each Enterprise's total purchases of refinancing mortgages on owner-occupied single-family housing that consists of refinancing mortgages for low-income families shall meet or exceed either:
+(h) *Refinancing housing goal.* The percentage share of each Enterprise's total purchases of refinancing mortgages on owner-occupied single-family housing that consists of refinancing mortgages for low-income families shall meet or exceed either:
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2021 shall be 21 percent of the total number of refinancing mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2022, 2023, and 2024 shall be 26 percent of the total number of refinancing mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
-[80 FR 53430, Sept. 3, 2015, as amended at 83 FR 5899, Feb. 12, 2018; 85 FR 82895, Dec. 21, 2020]
+[80 FR 53430, Sept. 3, 2015, as amended at 83 FR 5899, Feb. 12, 2018; 85 FR 82895, Dec. 21, 2020' 86 FR 73658, Dec. 28, 2021]

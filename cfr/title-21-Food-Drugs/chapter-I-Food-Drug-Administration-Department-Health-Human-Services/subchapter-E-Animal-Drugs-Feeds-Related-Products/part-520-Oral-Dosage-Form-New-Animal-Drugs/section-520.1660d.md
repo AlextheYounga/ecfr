@@ -42,7 +42,7 @@
 
 (d) *Conditions of use.* (1) It is used in drinking water as follows:
 
-(i) *Chickens* - (A)(*1*) *Amount.* Administer 200 to 400 milligrams/gallon for 7 to 14 days. Not to be used for more than 14 consecutive days.
+(i) *Chickens*—(A)(*1*) *Amount.* Administer 200 to 400 milligrams/gallon for 7 to 14 days. Not to be used for more than 14 consecutive days.
 
 (*2*) *Indications for use.* Control of infectious synovitis caused by *Mycoplasma synoviae* susceptible to oxytetracycline.
 
@@ -54,7 +54,7 @@
 
 (*3*) Do not use in birds producing eggs for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(ii) *Turkeys* - (A)(*1*) *Amount.* Administer 200 to 400 milligrams/gallon for 7 to 14 days. Not to be used for more than 14 consecutive days.
+(ii) *Turkeys*—(A)(*1*) *Amount.* Administer 200 to 400 milligrams/gallon for 7 to 14 days. Not to be used for more than 14 consecutive days.
 
 (*2*) *Indications for use.* Control of hexamitiasis caused by *Hexamita meleagridis* susceptible to oxytetracycline.
 
@@ -72,19 +72,19 @@
 
 (*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061133 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(iii) *Swine* - (A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Do not use for more than 14 consecutive days.
+(iii) *Swine*—(A) *Amount.* Administer 10 milligrams per pound of body weight daily in drinking water. Administer up to 14 days; do not use for more than 14 consecutive days those products sponsored by Nos. 054771, 061133, and 069254. Administer up to 5 days; do not use for more than 5 consecutive days those products sponsored by Nos. 016592 and 061133.
 
 (B) *Indications for use.* Control and treatment of bacterial enteritis caused by *Escherichia coli* and *Salmonella choleraesuis* and bacterial pneumonia caused by *Pasteurella multocida* susceptible to oxytetracycline. For breeding swine: Control and treatment of leptospirosis (reducing the incidence of abortions and shedding of leptospira) caused by *Leptospira pomona* susceptible to oxytetracycline.
 
-(C) Withdraw zero days prior to slaughter those products sponsored by Nos. 054771, 057561, 061133, and 069254 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(C) *Limitations.* Withdraw zero days prior to slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(iv) *Calves, beef cattle, and nonlactating dairy cattle* - (A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Do not use for more than 14 consecutive days.
+(iv) *Calves, beef cattle, and nonlactating dairy cattle*—(A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Do not use for more than 14 consecutive days.
 
 (B) *Indications for use.* Control and treatment of bacterial enteritis caused by *E. coli* and bacterial pneumonia (shipping fever complex) caused by *P. multocida* susceptible to oxytetracycline.
 
 (C) Withdraw 5 days prior to slaughter. A milk discard period has not been established for this product in lactating dairy cattle. Do not use in female dairy cattle 20 months of age or older. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(v) *Sheep* - (A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Not to be used for more than 14 consecutive days.
+(v) *Sheep*—(A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Not to be used for more than 14 consecutive days.
 
 (B) *Indications for use.* Control and treatment of bacterial enteritis caused by *E. coli* and bacterial pneumonia (shipping fever complex) caused by *P. multocida* susceptible to oxytetracycline.
 

@@ -1,6 +1,6 @@
 ##### § 702.105 Derivative contracts. #####
 
-(a) *OTC interest rate derivative contracts* - (1) *Exposure amount* - (i) *Single OTC interest rate derivative contract.* Except as modified by paragraph (a)(2) of this section, the exposure amount for a single OTC interest rate derivative contract that is not subject to a qualifying master netting agreement is equal to the sum of the credit union's current credit exposure and potential future credit exposure (PFE) on the OTC interest rate derivative contract.
+(a) *OTC interest rate derivative contracts*—(1) *Exposure amount*—(i) *Single OTC interest rate derivative contract.* Except as modified by paragraph (a)(2) of this section, the exposure amount for a single OTC interest rate derivative contract that is not subject to a qualifying master netting agreement is equal to the sum of the credit union's current credit exposure and potential future credit exposure (PFE) on the OTC interest rate derivative contract.
 
 (A) *Current credit exposure.* The current credit exposure for a single OTC interest rate derivative contract is the greater of the fair value of the OTC interest rate derivative contract or zero.
 
@@ -8,17 +8,14 @@
 
 (*2)* A credit union must use an OTC interest rate derivative contract's effective notional principal amount (that is, the apparent or stated notional principal amount multiplied by any multiplier in the OTC interest rate derivative contract) rather than the apparent or stated notional principal amount in calculating PFE.
 
-Table 1 to § 702.105 - Conversion Factor Matrix for Interest Rate Derivative Contracts<sup>2</sup>
-
-|                    Remaining maturity                    |Conversion  <br/>factor|
-|----------------------------------------------------------|-----------------------|
-|                     One year or less                     |         0.00          |
-|Greater than one year and less than or equal to five years|         0.005         |
-|                 Greater than five years                  |         0.015         |
+|                                        Remaining maturity                                         |Conversion  <br/>factor|
+|---------------------------------------------------------------------------------------------------|-----------------------|
+|                                         One year or less                                          |         0.00          |
+|                    Greater than one year and less than or equal to five years                     |         0.005         |
+|                                      Greater than five years                                      |         0.015         |
+|<sup>2</sup> Non-interest rate derivative contracts are addressed in paragraph (d) of this section.|                       |
 
 (ii) *Multiple OTC interest rate derivative contracts subject to a qualifying master netting agreement.* Except as modified by paragraph (a)(2) of this section, the exposure amount for multiple OTC interest rate derivative contracts subject to a qualifying master netting agreement is equal to the sum of the net current credit exposure and the adjusted sum of the PFE amounts for all OTC interest rate derivative contracts subject to the qualifying master netting agreement.
-
-2 Non-interest rate derivative contracts are addressed in paragraph (d) of this section.
 
 (A) *Net current credit exposure.* The net current credit exposure is the greater of the net sum of all positive and negative fair value of the individual OTC interest rate derivative contracts subject to the qualifying master netting agreement or zero.
 
@@ -30,7 +27,7 @@ Table 1 to § 702.105 - Conversion Factor Matrix for Interest Rate Derivative Co
 
 (2) *Recognition of credit risk mitigation of collateralized OTC derivative contracts.* A credit union may recognize credit risk mitigation benefits of financial collateral that secures an OTC derivative contract or multiple OTC derivative contracts subject to a qualifying master netting agreement (netting set) by following the requirements of paragraph (c) of this section.
 
-(b) *Cleared transactions for interest rate derivatives* - (1) *General requirements.* A credit union must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
+(b) *Cleared transactions for interest rate derivatives*—(1) *General requirements.* A credit union must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
 
 (2) *Risk-weighted assets for cleared transactions.* (i) To determine the risk weighted asset amount for a cleared transaction, a credit union must multiply the trade exposure amount for the cleared transaction, calculated in accordance with paragraph (b)(3) of this section, by the risk weight appropriate for the cleared transaction, determined in accordance with paragraph (b)(4) of this section.
 
@@ -54,7 +51,7 @@ Table 1 to § 702.105 - Conversion Factor Matrix for Interest Rate Derivative Co
 
 (2) As an alternative to the simple approach, a credit union may recognize the credit risk mitigation benefits of financial collateral that secures such a contract or netting set if the financial collateral is marked-to-fair value on a daily basis and subject to a daily margin maintenance requirement by applying a risk weight to the exposure as if it were uncollateralized and adjusting the exposure amount calculated under paragraph (a) or (b) of this section using the collateral approach in paragraph (c)(3) of this section. The credit union must substitute the exposure amount calculated under paragraphs (b) or (c) of this section in the equation in paragraph (c)(3) of this section.
 
-(3) *Collateralized transactions* - (i) *General.* A credit union may use the approach in paragraph (c)(3)(ii) of this section to recognize the risk-mitigating effects of financial collateral.
+(3) *Collateralized transactions*—(i) *General.* A credit union may use the approach in paragraph (c)(3)(ii) of this section to recognize the risk-mitigating effects of financial collateral.
 
 (ii) *Simple collateralized derivatives approach.* To qualify for the simple approach, the financial collateral must meet the following requirements:
 
@@ -95,10 +92,6 @@ Table 1 to § 702.105 - Conversion Factor Matrix for Interest Rate Derivative Co
 (D) The sum of current fair value of collateral instruments as of the measurement date.
 
 (E) A credit union must use the standard supervisory haircuts for market price volatility in Table 2 to this section.
-
-Table 2 to § 702.105 - Standard Supervisory Market Price Volatility Haircuts
-
-[Based on a 10 business-day holding period]
 
 |                  Residual maturity                  |Haircut (in percent) assigned based on:|   |
 |-----------------------------------------------------|---------------------------------------|---|

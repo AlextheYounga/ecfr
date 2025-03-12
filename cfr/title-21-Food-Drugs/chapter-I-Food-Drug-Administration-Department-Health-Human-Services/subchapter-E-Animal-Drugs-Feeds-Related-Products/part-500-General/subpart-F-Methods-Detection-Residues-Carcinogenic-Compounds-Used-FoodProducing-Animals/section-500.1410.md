@@ -1,7 +1,21 @@
 ##### § 500.1410 N-methyl-2-pyrrolidone. #####
 
-(a) *Standard for residues.* No residues of *n*-methyl-2-pyrrolidone may be found in the uncooked edible tissues of cattle as determined by a method entitled “Method of Analysis: *N*-methyl-2-pyrrolidone,” September 26, 2011, Center for Veterinary Medicine, Food and Drug Administration, which is incorporated by reference with the approval of the Director of the Federal Register under 5 U.S.C. 522(a) and 1 CFR part 51. To obtain a copy of the analytical method, please submit a Freedom of Information request to: *https://www.accessdata.fda.gov/scripts/foi/FOIRequest/requestinfo.cfm*; or go to: *https://www.fda.gov/about-fda/center-veterinary-medicine/cvm-foia-electronic-reading-room*. You may inspect a copy at the office of the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 301-827-6860, between 9 a.m. and 4 p.m., Monday through Friday or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*.
+(a) *Standard for residues.* No residues of *n*-methyl-2-pyrrolidone may be found in the uncooked edible tissues of cattle and swine as determined by methods in paragraph (b) of this section.
 
-(b) *Related conditions of use.* See §§ 522.814 and 522.955 of this chapter.
+(b) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Food and Drug Administration's Dockets Management Staff (HFA-305), 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday. It may be obtained from the sources indicated elsewhere in paragraph (b) of this section and at: *https://www.fda.gov/about-fda/center-veterinary-medicine/cvm-foia-electronic-reading-room.* It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-[76 FR 72618, Nov. 25, 2011, as amended at 77 FR 9528, Feb. 17, 2012; 85 FR 18117, Apr. 1, 2020]
+(1) Food and Drug Administration, Center for Veterinary Medicine, 7500 Standish Pl., Rockville, MD 20855, 240-402-7002.
+
+(i) “Method of Analysis: *N*-methyl-2-pyrrolidone,” September 26, 2011; the method of analysis for uncooked edible tissues of cattle.
+
+(ii) [Reserved]
+
+(2) Merck Animal Health, 29160 Intervet Lane, Millsboro, DE 19966, 1-800-211-3573.
+
+(i) “Determinative and Confirmatory Procedures for the Analysis of N-Methyl-2-pyrrolidone (NMP) in Swine Liver Tissue using LC-MS/MS,” July 20, 2017; the method of analysis for uncooked edible tissues of swine.
+
+(ii) [Reserved]
+
+(c) *Related conditions of use.* See §§ 522.814 and 522.955 of this chapter.
+
+[87 FR 10966, Feb. 28, 2022]

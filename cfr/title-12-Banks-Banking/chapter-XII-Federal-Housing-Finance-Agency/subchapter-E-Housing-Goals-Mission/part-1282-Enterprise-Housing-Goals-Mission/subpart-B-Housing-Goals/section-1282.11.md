@@ -10,4 +10,4 @@
 
 (b) *Annual goals.* Each housing goal shall be established by regulation no later than December 1 of the preceding year, except that any housing goal may be adjusted by regulation to reflect subsequent available data and market developments.
 
-[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53430, Sept. 3, 2015]
+[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53430, Sept. 3, 2015; 86 FR 73657, Dec. 28, 2021]

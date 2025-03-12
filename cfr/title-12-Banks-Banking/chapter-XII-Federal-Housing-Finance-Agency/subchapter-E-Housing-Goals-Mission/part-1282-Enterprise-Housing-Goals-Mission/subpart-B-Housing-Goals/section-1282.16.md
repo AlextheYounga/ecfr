@@ -1,7 +1,5 @@
 ##### § 1282.16 Special counting requirements. #####
 
-Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
-
 (a) *General.* FHFA shall determine whether an Enterprise shall receive full, partial, or no credit toward achievement of any of the housing goals for a transaction that otherwise qualifies under this part. In this determination, FHFA will consider whether a transaction or activity of the Enterprise is substantially equivalent to a mortgage purchase and either creates a new market or adds liquidity to an existing market, provided however that such mortgage purchase actually fulfills the Enterprise's purposes and is in accordance with its Charter Act.
 
 (b) *Not counted.* The following transactions or activities shall not be counted for purposes of the housing goals and shall not be included in the numerator or the denominator in calculating either Enterprise's performance under the housing goals, even if the transaction or activity would otherwise be counted pursuant to paragraph (c) of this section:
@@ -68,11 +66,7 @@ Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
 
 (8) *Mortgage revenue bonds.* The purchase or guarantee by an Enterprise of a mortgage revenue bond issued by a State or local housing finance agency shall be treated as a purchase of the underlying mortgages for purposes of the housing goals only to the extent the Enterprise has sufficient information to determine whether the underlying mortgages or mortgage-backed securities qualify for inclusion in the numerator for one or more housing goal.
 
-(9) [Reserved]
-
-(10) *Loan modifications.* An Enterprise's permanent modification, in accordance with the Making Home Affordable program announced on March 4, 2009, of a loan that is held in the Enterprise's portfolio or that is in a pool backing a security guaranteed by the Enterprise, shall be treated as a mortgage purchase for purposes of the housing goals. Each such permanent loan modification shall be counted in the same manner as a purchase of a refinancing mortgage.
-
-(11)-(13) [Reserved]
+(9) -(13) [Reserved]
 
 (14) *Seller dissolution option.* (i) Mortgages acquired through transactions involving seller dissolution options shall be treated as mortgage purchases for purposes of the housing goals, only when:
 
@@ -88,4 +82,4 @@ Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
 
 (e) *FHFA review of transactions.* FHFA may determine whether and how any transaction or class of transactions shall be counted for purposes of the housing goals, including treatment of missing data. FHFA will notify each Enterprise in writing of any determination regarding the treatment of any transaction or class of transactions under the housing goals. FHFA will make any such determinations available to the public on FHFA's Web site, *www.fhfa.gov.*
 
-[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53432, Sept. 3, 2015]
+[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53432, Sept. 3, 2015; 86 FR 73658, Dec. 28, 2021]

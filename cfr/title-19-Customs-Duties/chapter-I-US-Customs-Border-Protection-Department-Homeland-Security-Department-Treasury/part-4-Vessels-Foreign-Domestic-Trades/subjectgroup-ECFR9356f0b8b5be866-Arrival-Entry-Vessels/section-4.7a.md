@@ -1,22 +1,14 @@
 ##### § 4.7a Inward manifest; information required; alternative forms. #####
 
-Link to an amendment published at 86 FR 73631, Dec. 28, 2021.
-
 The forms designated by § 4.7(a) as comprising the inward manifest shall be completed as follows:
 
 (a) *Ship's Stores Declaration.* Articles to be retained aboard as sea or ship's stores shall be listed on the Ship's Stores Declaration, CBP Form 1303. Less than whole packages of sea or ship's stores may be described as “sundry small and broken stores.”
 
 (b) *Crew's Effects Declaration. (CBP Form 1304).* (1) The declaration number of the Crew Member's Declaration, CBP Form 5129, prepared and signed by any officer or crewmember who intends to land articles in the United States, or the word “None,” shall be shown in item No. 7 on the Crew's Effects Declaration, CBP Form 1304 opposite the respective crewmember's name.
 
-(2) In lieu of describing the articles on CBP Form 1304, the master may furnish a Crew List, CBP Form I-418, endorsed as follows:
+(2) For requirements concerning the preparation of CBP Form 5129, see subpart G of part 148 of this chapter.
 
-I certify that this list, with its supporting crewmembers' declarations, is a true and complete manifest of all articles on board the vessel acquired abroad by myself and the officers and crewmembers of this vessel, other than articles exclusively for use on the voyage or which have been duly cleared through CBP in the United States.
-
-(Master.)The Crew List on Form I-418 shall show, opposite the crewmember's name, his shipping article number and, in column 5, the declaration number. If the crewmember has nothing to declare, the word “None” shall be placed opposite his name instead of a declaration number.
-
-(3) For requirements concerning the preparation of CBP Form 5129, see subpart G of part 148 of this chapter.
-
-(4) Any articles which are required to be manifested and are not manifested shall be subject to forfeiture and the master shall be subjected to a penalty equal to the value thereof, as provided in section 584, Tariff Act of 1930, as amended.
+(3) Any articles which are required to be manifested and are not manifested shall be subject to forfeiture and the master shall be subjected to a penalty equal to the value thereof, as provided in section 584, Tariff Act of 1930, as amended.
 
 (c) *Cargo Declaration.* (1) The Cargo Declaration (CBP Form 1302 submitted in accordance with paragraph (b)(2) or (b)(4) of this section) must list all the inward foreign cargo on board the vessel regardless of the U.S. port of discharge, and must separately list any other foreign cargo remaining on board (“FROB”). For the purposes of this part, “FROB” means cargo which is laden in a foreign port, is intended for discharge in a foreign port, and remains aboard a vessel during either direct or indirect stops at one or more intervening United States ports. The block designated “Arrival” at the top of the form shall be checked. The name of the shipper shall be set forth in the column calling for such information and on the same line where the bill of lading is listed for that shipper's merchandise. When more than one bill of lading is listed for merchandise from the same shipper, ditto marks or the word “ditto” may be used to indicate the same shipper. The cargo described in column Nos. 6 and 7, and either column No. 8 *or* 9, shall refer to the respective bills of lading. Either column No. 8 *or* column No. 9 shall be used, as appropriate. The gross weight in column No. 8 shall be expressed in either pounds or kilograms. The measurement in column No. 9 shall be expressed according to the unit of measure specified in the Harmonized Tariff Schedule of the United States (HTSUS) (19 U.S.C. 1202).
 
@@ -80,19 +72,13 @@ The information appearing on this declaration relating to the quantity and descr
 
 (xvi) Time of departure from foreign, as reflected in the vessel log (see § 4.7a(c)(4)(xv) for the applicable foreign port and the time frame within which this data element must be reported to CBP).
 
-(d) *Crew List.* The Crew List shall be completed in accordance with the requirements of applicable Department of Homeland Security (DHS) regulations administered by CBP (8 CFR part 251).
+(5) Unaccompanied baggage must be listed on CBP Form 1302, or transmitted via an electronic data interchange system approved by CBP.
 
-(e) *Passenger List.* (1) The Passenger List shall be completed in accordance with § 4.50 and with the requirements of applicable DHS regulations administered by CBP (8 CFR part 231), and the following certification shall be placed on its last page:
+(d) *Crew List.* The Crew List shall be completed in accordance with § 4.7b and with the requirements of applicable Department of Homeland Security (DHS) regulations administered by CBP (8 CFR part 251).
 
-I certify that CBP baggage declaration requirements have been made known to incoming passengers; that any required CBP baggage declarations have been or will simultaneously herewith be filed as required by law and regulation with the proper CBP officer; and that the responsibilities devolving upon this vessel in connection therewith, if any, have been or will be discharged as required by law or regulation before the proper CBP officer. I further certify that there are no steerage passengers on board this vessel (46 U.S.C. 151-163).
+(e) *Passenger List.* (1) The Passenger List must be completed in accordance with §§ 4.7b, 4.50, and with the requirements of applicable DHS regulations administered by CBP (8 CFR part 231).
 
-Master
-
-(2) If the vessel is carrying steerage passengers, the reference to steerage passengers shall be deleted from the certification, and the master shall comply with the requirements of § 4.50.
-
-(3) If there are no steerage passengers aboard upon arrival, the listing of the passengers may be in the form of a vessel “souvenir passenger list,” or similar list, in which the names of the passengers are listed alphabetically and to which the certificate referred to in paragraph (e)(1) of this section is attached.
-
-(4) All baggage on board a vessel not accompanying a passenger and the marks or addresses thereof shall be listed on the last sheet of the passenger list under the caption “Unaccompanied baggage.”
+(2) [Reserved]
 
 (f) *Failure to provide manifest information; penalties/liquidated damages.* Any master who fails to provide manifest information as required by this section, or who presents or transmits electronically any document required by this section that is forged, altered or false, may be liable for civil penalties as provided under 19 U.S.C. 1436, in addition to damages under the international carrier bond of $5,000 for each violation discovered. In addition, if any non-vessel operating common carrier (NVOCC) as defined in § 4.7(b)(3)(ii) elects to transmit cargo declaration information to CBP electronically, and fails to do so as required by this section, or transmits electronically any document required by this section that is forged, altered or false, such NVOCC may be liable for liquidated damages as provided in § 113.64(c) of this chapter of $5,000 for each violation discovered.
 

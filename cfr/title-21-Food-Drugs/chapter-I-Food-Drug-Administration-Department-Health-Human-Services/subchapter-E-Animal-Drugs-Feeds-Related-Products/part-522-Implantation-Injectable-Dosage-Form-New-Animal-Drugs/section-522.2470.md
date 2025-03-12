@@ -2,7 +2,7 @@
 
 (a) *Specifications.* The drug is a sterile powder. Each milliliter of constituted solution contains tiletamine hydrochloride equivalent to 50 milligrams (mg) of tiletamine base and zolazepam hydrochloride equivalent to 50 mg of zolazepam base.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter:
+(b) *Sponsors.* See Nos. 026637, 051311, and 054771 in § 510.600(c) of this chapter.
 
 (1) Nos. 026637 and 054771 for use as in paragraph (c) of this section.
 
@@ -26,4 +26,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16197, Mar. 25, 2014, as amended at 83 FR 14587, Apr. 5, 2018; 86 FR 17064, Apr. 1, 2021]
+[79 FR 16197, Mar. 25, 2014, as amended at 83 FR 14587, Apr. 5, 2018; 86 FR 17064, Apr. 1, 2021; 87 FR 10969, Feb. 28, 2022]

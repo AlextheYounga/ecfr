@@ -1,8 +1,6 @@
 ##### § 414.210 General payment rules. #####
 
-Link to an amendment published at 86 FR 73911, Dec. 28, 2021.Link to a correction of the above amendment published at 87 FR 199, Jan. 4, 2022.
-
-(a) *General rule.* For items furnished on or after January 1, 1989, except as provided in paragraphs (c), (d), and (g) of this section, Medicare pays for durable medical equipment, prosthetics and orthotics, including a separate payment for maintenance and servicing of the items as described in paragraph (e) of this section, on the basis of 80 percent of the lesser of -
+(a) *General rule.* For items furnished on or after January 1, 1989, except as provided in paragraphs (c), (d), and (g) of this section, Medicare pays for durable medical equipment, prosthetics and orthotics, including a separate payment for maintenance and servicing of the items as described in paragraph (e) of this section, on the basis of 80 percent of the lesser of—
 
 (1) The actual charge for the item;
 
@@ -30,7 +28,7 @@ Link to an amendment published at 86 FR 73911, Dec. 28, 2021.Link to a correctio
 
 (d) *Prohibition on special limits.* For items furnished on or after January 1, 1989 and before January 1, 1991, neither CMS nor a carrier may establish a special reasonable charge for items covered under this subpart on the basis of inherent reasonableness as described in § 405.502(g) of this chapter.
 
-(e) *Maintenance and servicing* - (1) *General rule.* Except as provided in paragraph (e)(3) of this section, the carrier pays the reasonable and necessary charges for maintenance and servicing of beneficiary-owned equipment. Reasonable and necessary charges are those made for parts and labor not otherwise covered under a manufacturer's or supplier's warranty. Payment is made for replacement parts in a lump sum based on the carrier's consideration of the item. The carrier establishes a reasonable fee for labor associated with repairing, maintaining, and servicing the item. Payment is not made for maintenance and servicing of a rented item other than the maintenance and servicing fee for oxygen equipment described in paragraph (e)(2) of this section or for other durable medical equipment as described in § 414.229(e).
+(e) *Maintenance and servicing*—(1) *General rule.* Except as provided in paragraph (e)(3) of this section, the carrier pays the reasonable and necessary charges for maintenance and servicing of beneficiary-owned equipment. Reasonable and necessary charges are those made for parts and labor not otherwise covered under a manufacturer's or supplier's warranty. Payment is made for replacement parts in a lump sum based on the carrier's consideration of the item. The carrier establishes a reasonable fee for labor associated with repairing, maintaining, and servicing the item. Payment is not made for maintenance and servicing of a rented item other than the maintenance and servicing fee for oxygen equipment described in paragraph (e)(2) of this section or for other durable medical equipment as described in § 414.229(e).
 
 (2) *Maintenance and servicing payment for certain oxygen equipment furnished after the 36-month rental period from January 1, 2009 through June 30, 2010.* The carrier makes a maintenance and servicing payment for oxygen equipment other than liquid and gaseous equipment (stationary and portable) as follows:
 
@@ -84,13 +82,27 @@ Link to an amendment published at 86 FR 73911, Dec. 28, 2021.Link to a correctio
 
 (iv) The fee schedule amount for all areas within a state that are not defined as rural areas for purposes of this subpart is adjusted to the regional price determined under paragraphs (g)(1)(i) and (iii) of this section.
 
-(v) The fee schedule amount for all areas within a state that are defined as rural areas for the purposes of this subpart is adjusted to 110 percent of the national average price determined under paragraph (g)(1)(ii) of this section.
+(v) For items and services furnished before February 28, 2022, the fee schedule amount for all areas within a state that are defined as rural areas for the purposes of this subpart is adjusted to 110 percent of the national average price determined under paragraph (g)(1)(ii) of this section.
 
-(2) *Payment adjustments for areas outside the contiguous United States using information from competitive bidding programs.* For an item or service subject to the programs under subpart F, the fee schedule amounts for areas outside the contiguous United States are reduced to the greater of -
+(2) Payment adjustments for areas outside the contiguous United States and for items furnished on or after February 28, 2022 in rural areas within the contiguous United States using information from competitive bidding programs.
 
-(i) The average of the single payment amounts for the item or service for CBAs outside the contiguous United States.
+(i) For an item or service subject to the programs under subpart F, the fee schedule amounts for areas outside the contiguous United States (Alaska, Hawaii, and U.S. territories) for items and services furnished from January 1, 2016, through December 31, 2020 are reduced to the greater of—
 
-(ii) 110 percent of the national average price for the item or service determined under paragraph (g)(1)(ii) of this section.
+(A) The average of the single payment amounts for the item or service for CBAs outside the contiguous United States.
+
+(B) 110 percent of the national average price for the item or service determined under paragraph (g)(1)(ii) of this section.
+
+(ii) For an item or service subject to the programs under subpart F of this part, the fee schedule amounts for areas outside the contiguous United States for items and services furnished on or after February 28, 2022, or the date immediately following the duration of the emergency period described in section 1135(g)(1)(B) of the Act (42 U.S.C. 1320b-5(g)(1)(B)), whichever is later, is adjusted to equal the sum of—
+
+(A) Fifty percent of the greater of the average of the single payment amounts for the item or service for CBAs outside the contiguous United States or 110 percent of the national average price for the item or service determined under paragraph (g)(1)(ii) of this section; and
+
+(B) Fifty percent of the fee schedule amount for the area in effect on December 31, 2015, increased for each subsequent year beginning in 2016 by the annual update factors specified in sections 1834(a)(14), 1834(h)(4), and 1842(s)(1)(B) of the Act, respectively, for durable medical equipment and supplies, off-the-shelf orthotics, and enteral nutrients, supplies, and equipment.
+
+(iii) For an item or service subject to the programs under subpart F of this part, the fee schedule amounts for rural areas within the contiguous United States for items and services furnished on or after February 28, 2022, or the date immediately following the duration of the emergency period described in section 1135(g)(1)(B) of the Act (42 U.S.C. 1320b-5(g)(1)(B)), whichever is later, is adjusted to equal the sum of—
+
+(A) Fifty percent of 110 percent of the national average price for the item or service determined under paragraph (g)(1)(ii) of this section; and
+
+(B) Fifty percent of the fee schedule amount for the area in effect on December 31, 2015, increased for each subsequent year beginning in 2016 by the annual update factors specified in sections 1834(a)(14), 1834(h)(4), and 1842(s)(1)(B) of the Act, respectively, for durable medical equipment and supplies, off-the-shelf orthotics, and enteral nutrients, supplies, and equipment.
 
 (3) *Payment adjustments for items and services included in no more than ten competitive bidding programs.* Notwithstanding paragraph (g)(1) of this section, for an item or service that is included in ten or fewer competitive bidding programs as defined at § 414.402, the fee schedule amounts applied for all areas within and outside the contiguous United States are reduced to 110 percent of the un-weighted average of the single payment amounts from the ten or fewer competitive bidding programs for the item or service in the areas where the ten or fewer competitive bidding programs are in place.
 
@@ -100,7 +112,7 @@ Link to an amendment published at 86 FR 73911, Dec. 28, 2021.Link to a correctio
 
 (6) *Adjustments of single payment amounts resulting from price inversions under the DMEPOS Competitive Bidding Program.* (i) In situations where a price inversion defined in § 414.402 occurs under the DMEPOS Competitive Bidding Program in a competitive bidding area (CBA) following a competition for a grouping of similar items identified in paragraph (g)(6)(ii) of this section, prior to adjusting the fee schedule amounts under paragraph (g) of this section the single payment amount for each item in the grouping of similar items in the CBA is adjusted to be equal to the weighted average of the single payment amounts for the items in the grouping of similar items in the CBA.
 
-(ii) The groupings of similar items subject to this rule include -
+(ii) The groupings of similar items subject to this rule include—
 
 (A) Hospital beds (HCPCS codes E0250, E0251, E0255, E0256, E0260, E0261, E0290, E0291, E0292, E0293, E0294, E0295, E0301, E0302, E0303, and E0304).
 
@@ -132,6 +144,8 @@ Link to an amendment published at 86 FR 73911, Dec. 28, 2021.Link to a correctio
 
 (v) For items and services furnished in areas other than rural or noncontiguous areas with dates of service from March 6, 2020, through the remainder of the duration of the emergency period described in section 1135(g)(1)(B) of the Act (42 U.S.C. 1320b-5(g)(1)(B)), based on the fee schedule amount for the area is equal to 75 percent of the adjusted payment amount established under this section and 25 percent of the unadjusted fee schedule amount. For items and services furnished in areas other than rural or noncontiguous areas with dates of service from the expiration date of the emergency period described in section 1135(g)(1)(B) of the Act (42 U.S.C. 1320b-5(g)(1)(B)), through December 31, 2020, based on the fee schedule amount for the area is equal to 100 percent of the adjusted payment amount established under this section.
 
+(vi) For items and services furnished in all areas with dates of service on or after February 28, 2022, or the date immediately following the duration of the emergency period described in section 1135(g)(1)(B) of the Act, whichever is later, based on the fee schedule amount for the area is equal to the adjusted payment amount established under paragraph (g) of this section.
+
 (10) *Payment adjustments for items and services furnished in former competitive bidding areas during temporary gaps in the DMEPOS CBP.* During a temporary gap in the entire DMEPOS CBP and/or National Mail Order CBP, the fee schedule amounts for items and services that were competitively bid and furnished in areas that were competitive bidding areas at the time the program(s) was in effect are adjusted based on the SPAs in effect in the competitive bidding areas on the last day before the CBP contract period of performance ended, increased by the projected percentage change in the Consumer Price Index for all Urban Consumers (CPI-U) for the 12-month period ending on the date after the contract periods ended. If the gap in the CBP lasts for more than 12 months, the fee schedule amounts are increased once every 12 months on the anniversary date of the first day of the gap period based on the projected percentage change in the CPI-U for the 12-month period ending on the anniversary date.
 
-[57 FR 57689, Dec. 7, 1992, as amended at 71 FR 65932, Nov. 9, 2006; 73 FR 69936, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62009, Nov. 25, 2009; 79 FR 66262, Nov. 6, 2013; 81 FR 77965, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57070, Nov. 14, 2018; 85 FR 27623, May 8, 2020]
+[57 FR 57689, Dec. 7, 1992, as amended at 71 FR 65932, Nov. 9, 2006; 73 FR 69936, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62009, Nov. 25, 2009; 79 FR 66262, Nov. 6, 2013; 81 FR 77965, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57070, Nov. 14, 2018; 85 FR 27623, May 8, 2020; 86 FR 73911, Dec. 28, 2021; 87 FR 199, Jan. 4, 2022]

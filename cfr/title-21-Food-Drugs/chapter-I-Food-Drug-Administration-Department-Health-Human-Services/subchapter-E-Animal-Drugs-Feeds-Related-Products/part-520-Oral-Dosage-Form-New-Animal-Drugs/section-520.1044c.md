@@ -14,14 +14,14 @@
 
 (c) *Related tolerances.* See § 556.300 of this chapter.
 
-(d) *Conditions of use in swine* - (1) *Amount.* Administer in drinking water for 3 consecutive days as follows:
+(d) *Conditions of use in swine*—(1) *Amount.* Administer in drinking water for 3 consecutive days as follows:
 
 (i) For colibacillosis: Gentamicin sulfate equivalent to 25 mg of gentamicin per gallon of drinking water to provide 0.5 mg per pound of body weight per day;
 
 (ii) For swine dysentery: Gentamicin sulfate equivalent to 50 mg of gentamicin per gallon of drinking water to provide 1 mg per pound of body weight per day. Treatment may be repeated if dysentery recurs.
 
-(2) *Indications for use.* For control and treatment of colibacillosis in weanling swine caused by strains of *Escherichia coli* sensitive to gentamicin, and for control and treatment of swine dysentery associated with *Treponema hyodysenteriae.*
+(2) *Indications for use.* For control and treatment of colibacillosis in weanling swine caused by strains of *Escherichia coli* sensitive to gentamicin, and for control and treatment of swine dysentery associated with *Brachyspira hyodysenteriae.*
 
 (3) *Limitations.* Withdrawal period: 10 days. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[77 FR 4226, Jan. 27, 2012, as amended at 81 FR 94989, Dec. 27, 2016; 83 FR 48945, Sept. 28, 2018; 84 FR 8972, Mar. 13, 2019]
+[77 FR 4226, Jan. 27, 2012, as amended at 81 FR 94989, Dec. 27, 2016; 83 FR 48945, Sept. 28, 2018; 84 FR 8972, Mar. 13, 2019; 87 FR 10968, Feb. 28, 2022]

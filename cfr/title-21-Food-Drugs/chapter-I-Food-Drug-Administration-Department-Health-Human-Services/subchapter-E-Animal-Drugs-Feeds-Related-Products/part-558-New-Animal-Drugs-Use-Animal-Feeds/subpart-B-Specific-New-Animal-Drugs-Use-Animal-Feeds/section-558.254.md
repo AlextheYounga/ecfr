@@ -10,11 +10,4 @@
 
 (e) *Conditions of use.* It is used in cattle feed as follows:
 
-Table 2 - Size Proxies for SRCs in 2016
-
-|                  Famphur in grams/ton                  |                                         Indications for use                                          |                                                       Limitations                                                        |Sponsor|
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------|
-|(i) 1.1 milligrams per pound (mg/lb) body weight per day|Beef cattle and nonlactating dairy cows: For control of grubs and as an aid in control of sucking lice|Feed for 30 days. Withdraw from dry dairy cows and heifers 21 days prior to freshening. Withdraw 4 days prior to slaughter|000061 |
-|           (ii) 2.3 mg/lb body weight per day           |                    Beef cattle and nonlactating dairy cows: For control of grubs                     |Feed for 10 days. Withdraw from dry dairy cows and heifers 21 days prior to freshening. Withdraw 4 days prior to slaughter|000061 |
-
-[84 FR 39185, Aug. 9, 2019]
+[84 FR 39185, Aug. 9, 2019, as amended at 87 FR 10971, Feb. 28, 2022]
