@@ -1,7 +1,5 @@
 ##### § 4.81 Contents of application. #####
 
-Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
-
 Each application for a preliminary permit must include the following initial statement and numbered exhibits containing the information and documents specified:
 
 (a) *Initial statement:*
@@ -20,7 +18,7 @@ The exact name and business address of each person authorized to act as agent fo
 
 (4) [Name of applicant] is a [citizen, association, citizens, domestic corporation, municipality, or State, as appropriate] and (is/is not) claiming preference under section 7(a) of the Federal Power Act. [If the applicant is a municipality, the applicant must submit copies of applicable state or local laws or a municipal charter or, if such laws or documents are not clear, any other appropriate legal authority, evidencing that the municipality is competent under such laws to engage in the business of development, transmitting, utilizing, or distributing power].
 
-(5) The proposed term of the requested permit is [period not to exceed 36 months].
+(5) The proposed term of the requested permit is [period not to exceed 48 months].
 
 (6) If there is any existing dam or other project facility, the applicant must provide the name and address of the owner of the dam and facility. If the dam is federally owned or operated, provide the name of the agency.
 
@@ -84,4 +82,4 @@ The exact name and business address of each person authorized to act as agent fo
 
 (iii) Designated as wilderness study area.
 
-(Federal Power Act, as amended, 16 U.S.C. 792-828c (1976); Department of Energy Organization Act, 42 U.S.C. 7101-7352 (Supp. IV 1980); E.O. 12009, 3 CFR part 142 (1978); 5 U.S.C. 553 (Supp. IV 1980))[Order 54, 44 FR 61336, Oct. 25, 1979, as amended by Order 123, 46 FR 9029, Jan. 28, 1981; 46 FR 11811, Feb. 11, 1981; Order 225, 47 FR 19056, May 3, 1982; Order 413, 50 FR 11685, Mar. 25, 1985; Order 2002, 68 FR 51120, Aug. 25, 2003; Order 655, 70 FR 33828, June 10, 2005; Order 699, 72 FR 45324, Aug. 14, 2007; Order 756, 77 FR 4894, Feb. 1, 2012]
+(Federal Power Act, as amended, 16 U.S.C. 792-828c (1976); Department of Energy Organization Act, 42 U.S.C. 7101-7352 (Supp. IV 1980); E.O. 12009, 3 CFR part 142 (1978); 5 U.S.C. 553 (Supp. IV 1980))[Order 54, 44 FR 61336, Oct. 25, 1979, as amended by Order 123, 46 FR 9029, Jan. 28, 1981; 46 FR 11811, Feb. 11, 1981; Order 225, 47 FR 19056, May 3, 1982; Order 413, 50 FR 11685, Mar. 25, 1985; Order 2002, 68 FR 51120, Aug. 25, 2003; Order 655, 70 FR 33828, June 10, 2005; Order 699, 72 FR 45324, Aug. 14, 2007; Order 756, 77 FR 4894, Feb. 1, 2012; Order 857, 84 FR 7991, Mar. 6, 2019]

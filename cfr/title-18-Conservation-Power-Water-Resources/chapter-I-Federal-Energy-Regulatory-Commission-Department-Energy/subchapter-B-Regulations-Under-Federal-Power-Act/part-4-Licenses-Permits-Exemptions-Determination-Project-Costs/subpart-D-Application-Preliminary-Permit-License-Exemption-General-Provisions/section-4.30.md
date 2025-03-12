@@ -1,12 +1,10 @@
 ##### § 4.30 Applicability and definitions. #####
 
-Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
-
 (a) (1) This subpart applies to applications for preliminary permit, license, or exemption from licensing.
 
 (2) Any potential applicant for an original license for which prefiling consultation begins on or after July 23, 2005 and which wishes to develop and file its application pursuant to this part, must seek Commission authorization to do so pursuant to the provisions of part 5 of this chapter.
 
-(b) For the purposes of this part -
+(b) For the purposes of this part—
 
 (1)(i) *Competing development application* means any application for a license or exemption from licensing for a proposed water power project that would develop, conserve, and utilize, in whole or in part, the same or mutually exclusive water resources that would be developed, conserved, and utilized by a proposed water power project for which an initial preliminary permit or initial development application has been filed and is pending before the Commission.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (3) *Construction of a dam,* for the purposes of provisions governing application for exemption of a small conduit hydroelectric facility, means any construction, repair, reconstruction, or modification of a dam that creates a new impoundment or increases the normal maximum surface elevation or the normal maximum surface area of an existing impoundment.
 
-(4)(i) *Dam,* for the purposes of provisions governing application for license of a major project - existing dam, means any structure for impounding or diverting water.
+(4)(i) *Dam,* for the purposes of provisions governing application for license of a major project—existing dam, means any structure for impounding or diverting water.
 
 (ii) *Dam,* for the purposes of provisions governing an application for exemption of a small conduit hydroelectric facility or a notice of intent to construct a qualifying conduit hydropower facility, means any structure that impounds water.
 
@@ -28,11 +26,11 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (5) *Development application* means any application for either a license or exemption from licensing for a proposed water power project.
 
-(6)(i) *Existing dam,* for the purposes of provisions governing application for license of a major project - existing dam, means any dam (as defined in paragraph (b)(4)(i) of this section) that has already been constructed and which does not require any construction or enlargement of impoundment structures other than repairs or reconstruction.
+(6)(i) *Existing dam,* for the purposes of provisions governing application for license of a major project—existing dam, means any dam (as defined in paragraph (b)(4)(i) of this section) that has already been constructed and which does not require any construction or enlargement of impoundment structures other than repairs or reconstruction.
 
 (ii) *Existing dam,* for the purposes of provisions governing application for exemption of a small hydroelectric power project, means any dam, the construction of which was completed on or before July 22, 2005, and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project.
 
-(7) *Existing impoundment,* for the purposes of provisions governing application for license of a major project - existing dam, means any body of water that an existing dam impounds.
+(7) *Existing impoundment,* for the purposes of provisions governing application for license of a major project—existing dam, means any body of water that an existing dam impounds.
 
 (8) *Federal lands,* for the purposes of provisions governing an application for exemption of a small conduit hydroelectric facility or a small hydroelectric power project, means any lands to which the United States holds fee title.
 
@@ -50,7 +48,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (13) *Licensed water power project* means a project, as defined in section 3(11) of the Federal Power Act, that is licensed under Part I of the Federal Power Act.
 
-(14) *Major modified project* means any major project - existing dam, as defined in paragraph (b)(16) of this section, that would include:
+(14) *Major modified project* means any major project—existing dam, as defined in paragraph (b)(16) of this section, that would include:
 
 (i) Any repair, modification or reconstruction of an existing dam that would result in a significant change in the normal maximum surface area or the normal maximum surface elevation of an existing impoundment; or
 
@@ -62,7 +60,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (ii) Use the water power potential of a dam and impoundment which, at the time application is filed, have not been constructed.
 
-(16) *Major project - existing dam* means a licensed or unlicensed, existing or proposed water power project that would:
+(16) *Major project—existing dam* means a licensed or unlicensed, existing or proposed water power project that would:
 
 (i) Have a total installed generating capacity or more than 2,000 horsepower (1.5 MW); and
 
@@ -70,7 +68,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (17) *Minor water power project* means any licensed or unlicensed, existing or proposed water power project that would have a total installed generation capacity of 2,000 horsepower (1.5 MW), or less.
 
-(18) *New development,* for the purposes of provisions governing application for license of a major project - existing dam, means any construction, installation, repair, reconstruction, or other change in the existing state of project works or appurtenant facilities, including any dredging and filling in project waters.
+(18) *New development,* for the purposes of provisions governing application for license of a major project—existing dam, means any construction, installation, repair, reconstruction, or other change in the existing state of project works or appurtenant facilities, including any dredging and filling in project waters.
 
 (19) *New license* means any license, except an annual license issued under section 15 of the Federal Power Act, for a water power project that is issued under the Federal Power Act after the initial license for that project.
 
@@ -94,7 +92,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (i) Generates electric power using only the hydroelectric potential of a non-federally owned conduit;
 
-(ii) Has an installed capacity that does not exceed 5 megawatts (MW); and,
+(ii) Has an installed capacity that does not exceed 40 megawatts (MW); and,
 
 (iii) Was not licensed or exempted from the licensing requirements of Part I of the FPA on or before August 9, 2013.
 

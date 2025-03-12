@@ -1,7 +1,5 @@
 ##### § 11.1 Costs of administration. #####
 
-Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
-
 (a) *Authority.* Pursuant to section 10(e) of the Federal Power Act and section 3401 of the Omnibus Budget Reconciliation Act of 1986, the Commission will assess reasonable annual charges against licensees and exemptees to reimburse the United States for the costs of administration of the Commission's hydropower regulatory program.
 
 (b) *Scope.* The annual charges under this section will be charged to and allocated among:
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (4) To enable the Commission to determine such charges annually, each licensee whose authorized installed capacity exceeds 1.5 megawatts must file with the Commission, on or before November 1 of each year, a statement under oath showing the gross amount of power generated (or produced by nonelectrical equipment) and the amount of power used for pumped storage pumping by the project during the preceding fiscal year, expressed in kilowatt hours. If any licensee does not report the gross energy output of its project within the time specified above, the Commission's staff will estimate the energy output and this estimate may be used in lieu of the filings required by this section made by such licensee after November 1.
 
-(5) For unconstructed projects, the assessments begin on the date by which the licensee or exemptee is required to commence project construction, or as that deadline may be extended, but in no case longer than four years after the issuance date of the license or exemption. For constructed projects, the assessments begin on the effective date of the license or exemption, except for any new capacity authorized therein. The assessments for new authorized capacity at licensed or exempted projects begin on the date by which the licensee or exemptee is required to commence construction of the new capacity. In the event that assessments begin during a fiscal year, the charges will be prorated.
+(5) For unconstructed projects, the assessments begin on the date by which the licensee or exemptee is required to commence project construction, or as that deadline may be extended. For constructed projects, the assessments begin on the effective date of the license or exemption, except for any new capacity authorized therein. The assessments for new authorized capacity at licensed or exempted projects begin on the date by which the licensee or exemptee is required to commence construction of the new capacity. In the event that assessments begin during a fiscal year, the charges will be prorated.
 
 (d) *State and municipal licensees and exemptees.* For State or municipal licensees and exemptees:
 
@@ -70,4 +68,4 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 (j) *Transition.* For a license having the capacity of the project for annual charge purposes stated in horsepower, that capacity shall be deemed to be the capacity stated in kilowatts elsewhere in the license, including any amendments thereto.
 
-[60 FR 15047, Mar. 22, 1995, as amended by Order 584, 60 FR 57925, Nov. 24, 1995; Order 815, 80 FR 63671, Oct. 21, 2015]
+[60 FR 15047, Mar. 22, 1995, as amended by Order 584, 60 FR 57925, Nov. 24, 1995; Order 815, 80 FR 63671, Oct. 21, 2015; Order 857, 84 FR 7991, Mar. 6, 2019]

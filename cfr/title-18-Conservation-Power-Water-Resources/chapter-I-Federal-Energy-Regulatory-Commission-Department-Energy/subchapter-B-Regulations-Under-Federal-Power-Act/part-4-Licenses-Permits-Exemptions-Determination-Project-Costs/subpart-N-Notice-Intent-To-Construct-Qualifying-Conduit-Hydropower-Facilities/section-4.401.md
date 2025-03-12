@@ -1,14 +1,12 @@
 ##### § 4.401 Contents of notice of intent to construct a qualifying conduit hydropower facility. #####
 
-Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
-
 (a) A notice of intent to construct a qualifying conduit hydropower facility submitted under this subpart must contain the following:
 
 (1) An introductory statement as described in paragraph (b) of this section;
 
 (2) A statement that the proposed project will use the hydroelectric potential of a non-federally owned conduit as set forth in paragraph (c) of this section;
 
-(3) A statement that the proposed facility has not been licensed or exempted from the licensing requirements of Part I of the FPA, on or before August 9, 2013, the date of enactment of the Hydropower Regulatory Efficiency Act, as set forth in in paragraph (d) of this section;
+(3) A statement that the proposed facility has not been licensed or exempted from the licensing requirements of Part I of the FPA, on or before August 9, 2013, as set forth in in paragraph (d) of this section;
 
 (4) A description of the proposed facility as set forth in paragraph (e) of this section;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
 
 BEFORE THE FEDERAL ENERGY REGULATORY COMMISSIONNOTICE OF INTENT TO CONSTRUCT QUALIFYING CONDUIT HYDROPOWER FACILITY
 
-[Name of applicant] applies to the Federal Energy Regulatory Commission for a determination that the [facility name] is a qualifying conduit hydropower facility, meeting the requirements of section 30(a) of the Federal Power Act, as amended by section 4 of the Hydropower Regulatory Efficiency Act of 2013.
+[Name of applicant] applies to the Federal Energy Regulatory Commission for a determination that the [facility name] is a qualifying conduit hydropower facility, meeting the requirements of section 30(a) of the Federal Power Act, as amended.
 
 The location of the facility is:
 
@@ -95,3 +93,5 @@ Subscribed and sworn to before me, a \_\_\_\_\_\_ [Notary Public, or title of ot
 (2) I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_[date].
 
 (Signature)
+
+[Order 800, 79 FR 59111, Oct. 1, 2014, as amended by Order 857, 84 FR 7991, Mar. 6, 2019]

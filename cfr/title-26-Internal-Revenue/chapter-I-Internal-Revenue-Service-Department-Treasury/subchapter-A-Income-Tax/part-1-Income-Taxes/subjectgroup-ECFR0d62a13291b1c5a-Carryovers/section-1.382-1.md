@@ -1,6 +1,6 @@
 ##### § 1.382-1 Table of contents. #####
 
-This section lists the captions that appear in the regulations for §§ 1.382-2 through 1.382-11.
+This section lists the captions that appear in the regulations for §§ 1.382-2 through 1.382-12.
 
 § 1.382-2 General rules for ownership change.
 
@@ -596,4 +596,4 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 
 (d) Effective/applicability date.
 
-[T.D. 8149, 52 FR 29674, Aug. 11, 1987. Redesignated by T.D. 8440, 57 FR 45711, Oct. 5, 1992, as amended by T.D. 9487, 75 FR 33992, June 16, 2010; T.D. 9763, 81 FR 24483, Apr. 26, 2016]Editorial Note:For Federal Register citations affecting § 1.382-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8149, 52 FR 29674, Aug. 11, 1987. Redesignated by T.D. 8440, 57 FR 45711, Oct. 5, 1992]Editorial Note:For Federal Register citations affecting § 1.382-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
