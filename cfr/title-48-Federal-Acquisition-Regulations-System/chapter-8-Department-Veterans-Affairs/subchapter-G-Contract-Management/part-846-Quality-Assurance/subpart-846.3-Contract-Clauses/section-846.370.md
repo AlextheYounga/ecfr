@@ -1,0 +1,1 @@
+##### 846.370 Clauses for supplies, equipment or perishable goods. #####

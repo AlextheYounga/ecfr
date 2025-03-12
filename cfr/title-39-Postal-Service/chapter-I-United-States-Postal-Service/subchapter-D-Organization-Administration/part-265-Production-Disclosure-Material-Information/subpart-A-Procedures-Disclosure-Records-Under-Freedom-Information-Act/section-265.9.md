@@ -1,7 +1,5 @@
 ##### § 265.9 Fees. #####
 
-Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
-
 (a) *In general.* The Postal Service shall charge for processing requests under the FOIA in accordance with the provisions of this section and with the OMB Guidelines. In order to resolve any fee issues that arise under this section, a component may contact a requester for additional information. The Postal Service will conduct searches, review, and duplication in the most efficient and the least expensive manner. The Postal Service ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to “U.S. Postal Service.”
 
 (b) *Definitions.* For purposes of this section:
@@ -34,7 +32,7 @@ Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
 
 (2) *Duplication.* Duplication fees shall be charged to all requesters, subject to the restrictions of paragraph (d) of this section. A component shall honor a requester's preference for receiving a record in a particular form or format where it is readily reproducible by the component in the form or format requested. Where photocopies are supplied, the component shall provide one copy per request at a cost of fifteen cents per page. For copies of records produced on tapes, disks, or other media, components shall charge the direct costs of producing the copy, including operator time. Where paper documents must be scanned in order to comply with a requester's preference to receive the records in an electronic format, the requester shall pay the direct costs associated with scanning those materials. For other forms of duplication, components shall charge the direct costs.
 
-(3) *Review.* Commercial-use requesters shall be charged review fees. Review fees shall be assessed in connection with the initial review of the record, *i.e.,* the review conducted by a component to determine whether an exemption applies to a particular record or portion of a record. No charge will be made for review at the administrative appeal stage of exemptions applied at the initial review stage. However, if a particular exemption is deemed to no longer apply, any costs associated with a component's re-review of the records in order to consider the use of other exemptions may be assessed as review fees. Review fees shall be charged at the same rates as those charged for a search under paragraph (c)(1)(ii) of this section.
+(3) *Review.* Commercial-use requesters shall be charged review fees at the rate of $21.00 for each half hour by personnel reviewing the records. Review fees shall be assessed in connection with the initial review of the record, *i.e.,* the review conducted by a component to determine whether an exemption applies to a particular record or portion of a record. No charge will be made for review at the administrative appeal stage of exemptions applied at the initial review stage. However, if a particular exemption is deemed to no longer apply, any costs associated with a component's re-review of the records in order to consider the use of other exemptions may be assessed as review fees.
 
 (d) *Restrictions on charging fees.* (1) No search fees will be charged for requests by educational institutions (unless the records are sought for a commercial use), noncommercial scientific institutions, or representatives of the news media.
 
@@ -108,4 +106,4 @@ Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
 
 (5) Requests for a waiver or reduction of fees should be made when the request is first submitted to the component and should address the criteria referenced above. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester shall be required to pay any costs incurred up to the date the fee waiver request was received.
 
-[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 2896, Jan. 10, 2017; 82 FR 12921, Mar. 8, 2017]
+[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 2896, Jan. 10, 2017; 82 FR 12921, Mar. 8, 2017; 83 FR 48235, Sept. 24, 2018]

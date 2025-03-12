@@ -1,6 +1,6 @@
 ##### 846.470 Use of commercial organizations for inspections and grading services. #####
 
-The contracting officer may use a commercial organization for inspection and grading services when the contracting officer determines that all of the following conditions exist:
+The contracting officer may use a commercial organization for inspection and grading services when the contracting officer determines that all of the following exist:
 
 (a) The results of a technical inspection or grading are dependent upon the application of scientific principles or specialized techniques.
 

@@ -1,3 +1,3 @@
-##### 847.306-70 Transportation payment and audit. #####
+##### 847.306-70 Records of claims. #####
 
-Transportation payments are audited by the Traffic Manager to ensure that payment and payment mechanisms for agency transportation are uniform and appropriate in accordance with 41 CFR part 102-118.
+When contracting for transportation, and consistent with FAR 15.304, contracting officers should consider using offerors' record of claims involving loss or damage as an evaluation factor or subfactor.

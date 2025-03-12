@@ -1,9 +1,7 @@
-##### 846.471 Determination authority. #####
+##### 846.471 Food service equipment. #####
 
-The following officials must make the determinations required in 846.470:
+(a) All new food service equipment purchased for Dietetic Service through other than the Defense General Supply Center sources must meet requirements set forth by NSF International (NSF) at *http://www.nsf.org.*
 
-(a) The Director, Office of Construction and Facilities Management, for those items and services for which purchase authority has been assigned to the Office of Construction and Facilities Management.
+(b) The contracting officer will ensure that the following language is placed in the solicitation to assert that the equipment meets NSF standards:
 
-(b) The Director, Veterans Canteen Service, for those items and services purchased, or contracted for, by the Veterans Canteen Service (except those items purchased from VA supply sources).
-
-(c) The DSPE for all other supplies, equipment, and services.
+The Government will accept an affixed NSF label and/or documentation of the NSF Certification from the contractor as evidence that the subject equipment meets NSF Sanitation standards.

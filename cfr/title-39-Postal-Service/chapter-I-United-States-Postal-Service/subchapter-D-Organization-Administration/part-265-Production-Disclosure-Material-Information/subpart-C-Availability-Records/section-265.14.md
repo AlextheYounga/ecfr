@@ -1,44 +1,72 @@
 ##### § 265.14 Rules concerning specific categories of records. #####
 
-Link to an amendment published at 83 FR 48236, Sept. 24, 2018.
-
 (a) *Records available to the public on request.* Except as otherwise proscribed by law or regulations, including but not limited to paragraphs (b) and (c) of this section, § 265.2 and § 265.11-§ 265.13, Postal Service records will be made available to any person in accordance with the procedures provided in § 265.3.
 
-(b) *Records not subject to mandatory public disclosure.* Certain classes of records are exempt from mandatory disclosure under exemptions contained in the Freedom of Information Act and in 39 U.S.C. 410(c). The Postal Service will exercise its discretion, in accordance with the policy stated in § 265.1(c), as implemented by instructions issued by the Records Office with the approval of the General Counsel in determining whether the public interest is served by the inspection or copying of records that are:
+(b) *Information not subject to mandatory public disclosure.* Certain types of information are exempt from mandatory disclosure under exemptions contained in the Freedom of Information Act and in 39 U.S.C. 410(c). The Postal Service will exercise its discretion, in accordance with the policy stated in § 265.1(c), as implemented by instructions issued by the Records Office with the approval of the General Counsel in determining whether the public interest is served by the inspection or copying of records that are:
 
 (1) Related solely to the internal personnel rules and practices of the Postal Service.
 
 (2) Trade secrets, or privileged or confidential commercial or financial information, obtained from any person.
 
-(3) Information of a commercial nature, including trade secrets, whether or not obtained from a person outside the Postal Service, which under good business practice would not be publicly disclosed. This class includes, but is not limited to:
+(3) Information of a commercial nature, including trade secrets, whether or not obtained from a person outside the Postal Service, which under good business practice would not be publicly disclosed. Information is of a commercial nature if it relates to commerce, trade, profit, or the Postal Service's ability to conduct itself in a businesslike manner.
 
-(i) Information pertaining to methods of handling valuable registered mail.
+(i) When assessing whether information is commercial in nature, the Postal Service will consider whether the information:
 
-(ii) Records of money orders, except as provided in R900 of the *Domestic Mail Manual (DMM).*
+(A) Relates to products or services subject to economic competition, including, but not limited to, “competitive” products or services as defined in 39 U.S.C. 3631, an inbound international service, or an outbound international service for which rates or service features are treated as nonpublic;
 
-(iii) Technical information concerning postage meters and prototypes submitted for Postal Service approval prior to leasing to mailers.
+(B) Relates to the Postal Service's activities that are analogous to a private business in the marketplace;
 
-(iv) Reports of market surveys conducted by or under contract in behalf of the Postal Service.
+(C) Would be of potential benefit to individuals or entities in economic competition with the Postal Service, its customers, suppliers, affiliates, or business partners or could be used to cause harm to a commercial interest of the Postal Service, its customers, suppliers, affiliates, or business partners;
 
-(v) Records indicating rural carrier lines of travel.
+(D) Is proprietary or includes conditions or protections on distribution and disclosure, is subject to a nondisclosure agreement, or a third party has otherwise expressed an interest in protecting such information from disclosure;
 
-(vi) Records compiled within the Postal Service which would be of potential benefit to persons or firms in economic competition with the Postal Service.
+(E) Is the result of negotiations, agreements, contracts or business deals between the Postal Service and a business entity; or
 
-(vii) Information which, if publicly disclosed, could materially increase procurement costs.
+(F) Relates primarily to the Postal Service's governmental functions or its activities as a provider of basic public services.
 
-(viii) Information which, if publicly disclosed, could compromise testing or examination materials.
+(ii) No one factor is determinative. Rather, each factor should be considered in conjunction with the other factors and the overall character of the particular information. Some examples of commercial information include, but are not limited to:
 
-(4) Interagency or internal memoranda or letters that would not be available by law to a private party in litigation with the Postal Service.
+(A) Information related to methods of handling valuable registered mail.
 
-(5) Reports and memoranda of consultants or independent contractors, except to the extent they would be required to be disclosed if prepared within the Postal Service.
+(B) Records of money orders except as provided in section 509.3 of the Domestic Mail Manual.
 
-(6) Files personal in nature, including medical and personnel files, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+(C) Technical information concerning postage meters and prototypes submitted for Postal Service approval prior to leasing to mailers.
 
-(7) Information prepared for use in connection with proceedings under chapter 36 of title 39, U.S. Code, relating to rate, classification, and service changes.
+(D) Quantitative data, whether historical or current, reflecting the number of postage meters or PC postage accounts.
 
-(8) Information prepared for use in connection with the negotiation of collective bargaining agreements under chapter 12 of title 39, U.S. Code, or minutes of, or notes kept during, negotiating sessions conducted under such chapter.
+(E) Reports of market surveys conducted by or under contract on behalf of the Postal Service.
 
-(9) Other matter specifically exempted from disclosure by statute.
+(F) Records indicating carrier or delivery lines of travel.
+
+(G) Information which, if publicly disclosed, could materially increase procurement costs.
+
+(H) Information which, if publicly disclosed, could compromise testing or examination materials.
+
+(I) Service performance data on competitive services.
+
+(J) Facility specific volume, revenue, and cost information.
+
+(K) Country-specific international mail volume and revenue data.
+
+(L) Non-public international volume, revenue and cost data.
+
+(M) Pricing and negotiated terms in bilateral arrangements with foreign postal operators.
+
+(N) Information identifying USPS business customers.
+
+(O) Financial information in or the identities of parties to Negotiated Service Agreements or Package Incentive Agreements.
+
+(P) Negotiated terms in contracts.
+
+(Q) Negotiated terms in leases.
+
+(R) Geolocation data.
+
+(S) Proprietary algorithms or software created by the Postal Service.
+
+(T) Sales performance goals, standards, or requirements.
+
+(U) Technical information or specifications concerning mail processing equipment.
 
 (c) *Records or information compiled for law enforcement purposes.* (1) Investigatory files compiled for law enforcement purposes, whether or not considered closed, are exempt by statute from mandatory disclosure except to the extent otherwise available by law to a party other than the Postal Service, 39 U.S.C. 410(c)(6). As a matter of policy, however, the Postal Service will normally make records or information compiled for law enforcement purposes available upon request unless the production of these records:
 
@@ -70,9 +98,13 @@ Link to an amendment published at 83 FR 48236, Sept. 24, 2018.
 
 (d) *Disclosure of names and addresses of specifically identified Postal Service customers.* Upon request, the names and addresses of specifically identified Postal Service customers will be made available only as follows:
 
-(1) *Change of address.* The new address of any specific customer who has filed a permanent or temporary change of address order (by submitting PS Form 3575, a hand-written order, or an electronically communicated order) will be furnished to any person, except that the new address of a specific customer who has indicated on the order that the address change is for an individual or an entire family will be furnished only in those circumstances stated at paragraph (d)(5) of this section. Disclosure will be limited to the address of the specifically identified individual about whom the information is requested (not other family members or individuals whose names may also appear on the change of address order). The Postal Service reserves the right not to disclose the address of an individual for the protection of the individual's personal safety. Other information on PS Form 3575 or copies of the form will not be furnished except in those circumstances stated at paragraphs (d)(5)(i), (d)(5)(iii), or (d)(5)(iv) of this section.
+(1) *Change of address.* The new address of any specific business or organization that has filed a permanent change of address order (by submitting PS Form 3575, a hand written order, or an electronically communicated order) will be furnished to any person upon request. If a domestic violence shelter has filed a letter on official letterhead from a domestic violence coalition stating:
 
-(2) *Name and address of permit holder.* The name and address of the holder of a particular bulk mail permit, permit imprint or similar permit (but not including postage meter licenses), and the name of any person applying for a permit in behalf of a holder will be furnished to any person upon the filing of a proper FOIA request and payment of any applicable fees. For the name and address of a postage meter license holder, see paragraph (d)(3) of this section. (Lists of permit holders may not be disclosed to members of the public. See paragraph (e)(1) of this section.)
+(i) That such domestic violence coalition meets the requirements of 42 U.S.C. 10410; and
+
+(ii) That the organization filing the change of address is a domestic violence shelter, the new address shall not be released except pursuant to applicable routine uses. The new address of any individual or family that has filed a permanent or temporary change of address order will be furnished only in those circumstances stated at paragraph (d)(5) of this section. Disclosure will be limited to the address of the specifically identified individual about whom the information is requested (not other family members or individuals whose names may also appear on the change of address order). The Postal Service reserves the right not to disclose the address of an individual for the protection of the individual's personal safety. Other information on PS Form 3575 or copies of the form will not be furnished except in those circumstances stated at paragraph (d)(5)(i), (d)(5)(iii), or (d)(5)(iv) of this section.
+
+(2) *Name and address of permit holder.* The name and address of the holder of a particular bulk mail permit, permit imprint or similar permit (but not including postage meter licenses), and the name of any person applying for a permit on behalf of a holder will be furnished to any person upon request. For the name and address of a postage meter license holder, see paragraph (d)(3) of this section. (Lists of permit holders may not be disclosed to members of the public. See paragraph (e)(1) of this section.)
 
 (3) *Name and address of postage evidencing user.* The name and address of an authorized user of a postage meter or PC Postage product (postage evidencing systems) printing a specified indicium will be furnished to any person upon the payment of any fees authorized by § 265.9(b), provided the user is using the postage meter or PC Postage product for business purposes. The request for this information must be sent to the manager of Postage Technology Management, Postal Service Headquarters. The request must include the original or a photocopy of the envelope or wrapper on which the postage meter or PC postage indicium in question is printed, and a copy or description of the contents to support that the sender is a business or firm and not an individual. (Lists of authorized users of postage meters or PC Postage products may not be disclosed to members of the public.)
 
@@ -136,4 +168,4 @@ Link to an amendment published at 83 FR 48236, Sept. 24, 2018.
 
 (g) *Disclosure in part of otherwise exempt record.* Any reasonably segregable portion of a record shall be provided after deleting the information which is neither subject to mandatory disclosure nor available as a matter of discretion.
 
-![](/graphics/er06mr18.000.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017; 82 FR 32767, July 18, 2017; 83 FR 9433, Mar. 6, 2018]
+![](/graphics/er06mr18.000.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017; 82 FR 32767, July 18, 2017; 83 FR 9433, Mar. 6, 2018; 83 FR 48236, Sept. 24, 2018]

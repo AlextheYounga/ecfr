@@ -1,8 +1,6 @@
 ##### § 265.1 General provisions. #####
 
-Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
-
-(a) *Policy.* (1) This subpart contains the regulations that implement the Freedom of Information Act (FOIA), 5 U.S.C. 552, insofar as the Act applies to the Postal Service. These rules should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (OMB Guidelines). The Postal Service FOIA Requester's Guide, an easy-to-read guide for making Postal Service FOIA requests, is available at *http://about.usps.com/who-we-are/foia/welcome.htm.*
+(a) *Policy.* (1) This subpart contains the regulations that implement the Freedom of Information Act (FOIA), 5 U.S.C. 552, insofar as the Act applies to the Postal Service. These rules should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Act Fee Schedule and Guidelines published by the Office of Management and Budget (OMB Guidelines). The Postal Service FOIA Requester's Guide, an easy-to-read guide for making Postal Service FOIA requests, is available at *http://about.usps.com/who-we-are/foia/welcome.htm.*
 
 (2) Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed under part 266 of this chapter as well as under this subpart.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
 
 (4) Nothing in this subpart shall be construed to entitle any person, as of right, to any service or to the disclosure of any record to which such person is not entitled under the FOIA.
 
-(b) Definitions - (1) *Record.* (i) For purposes of this part, a *record* is a discrete, distinct, or segregable grouping of information that pertains to a specific topic that is:
+(b) Definitions—(1) *Record.* (i) For purposes of this part, a *record* is a discrete, distinct, or segregable grouping of information that pertains to a specific topic that is:
 
 (A) Recorded, regardless of media, format, or physical characteristics, including electronic data; and
 
@@ -20,4 +18,4 @@ Link to an amendment published at 83 FR 48235, Sept. 24, 2018.
 
 (2) *Component.* For purposes of this subpart, *component* means any department or facility within the Postal Service that maintains records; the Office of Inspector General; and the Postal Inspection Service. Postal Service refers to all such components collectively.
 
-[82 FR 32767, July 18, 2017]
+[82 FR 32767, July 18, 2017, amended at 83 FR 48235, Sept. 24, 2018]

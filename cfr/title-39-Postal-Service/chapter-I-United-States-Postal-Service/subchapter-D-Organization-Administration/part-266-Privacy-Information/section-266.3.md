@@ -1,8 +1,6 @@
 ##### § 266.3 Collection and disclosure of information about individuals. #####
 
-Link to an amendment published at 83 FR 48237, Sept. 24, 2018.
-
-(a) This section governs the collection of information about individuals, as defined in the Privacy Act of 1974, throughout Postal Service operations;
+(a) This section governs the collection of information about individuals, as defined in the Privacy Act of 1974, throughout the United States Postal Service and across its operations;
 
 (1) The Postal Service will:
 
@@ -14,25 +12,25 @@ Link to an amendment published at 83 FR 48237, Sept. 24, 2018.
 
 (2) The Postal Service will not disfavor any individual who fails or refuses to provide personal information unless that information is required or necessary for the conduct of the system or program in which the individual desires to participate.
 
-(3) No information will be collected (or maintained) describing how an individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the individual about whom the information is maintained or unless pertinent to and within the scope of an authorized law enforcement activity.
+(3) The Postal Service will maintain no record describing how an individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the individual about whom the record is maintained or unless pertinent to and within the scope of an authorized law enforcement activity.
 
 (4) The Postal Service will not require an individual to furnish a Social Security number or deny a right, privilege or benefit because of that individual's refusal to furnish the number unless required by Federal law.
 
-(b) *Disclosures* - (1) *Limitations.* The Postal Service will not disseminate information about an individual unless reasonable efforts have been made to assure that the information is accurate, complete, timely and relevant to the extent provided by the Privacy Act and unless:
+(b) *Disclosures*—(1) *Limitations.* The Postal Service will not disclose information about an individual unless reasonable efforts have been made to assure that the information is accurate, complete, timely and relevant to the extent provided by the Privacy Act and unless:
 
-(i) The individual to whom the record pertains has requested in writing that the information be disseminated, unless the individual would not be entitled to access to the record under the Postal Reorganization Act, the Privacy Act, or other law;
+(i) The individual to whom the record pertains has requested in writing, or with the prior written consent of the individual to whom the record pertains, that the information be disclosed, unless the individual would not be entitled to access to the record under the Postal Reorganization Act, the Privacy Act, or other law;
 
 (ii) The requester has obtained the prior written consent of the individual to whom the record pertains, unless the individual would not be entitled to access to the record under the Postal Reorganization Act, the Privacy Act, or other law; or
 
-(iii) The dissemination is in accordance with paragraph (b)(2) of this section.
+(iii) The disclosure is in accordance with paragraph (b)(2) of this section.
 
-(2) *Dissemination.* Dissemination of personal information may be made:
+(2) *Conditions of Disclosure.* Disclosure of personal information maintained in a system of records may be made:
 
 (i) To a person pursuant to a requirement of the Freedom of Information Act (5 U.S.C. 552);
 
 (ii) To those officers and employees of the Postal Service or employees of a Postal Service contractor who have a need for such information in the performance of their Postal Service duties;
 
-(iii) For a routine use as contained in the system notices published in the Federal Register;
+(iii) For a routine use as contained in the system of records notices published in the Federal Register;
 
 (iv) To a recipient who has provided advance adequate written assurance that the information will be used solely as a statistical reporting or research record, and to whom the information is transferred in a form that is not individually identifiable;
 
@@ -48,7 +46,7 @@ Link to an amendment published at 83 FR 48237, Sept. 24, 2018.
 
 (x) To the Comptroller General or any of that officer's authorized representatives in the course of the performance of the duties of the Government Accountability Office; or
 
-(xi) Pursuant to the order of a court of competent jurisdiction.
+(xi) Pursuant to the order of a court of competent jurisdiction. A court of competent jurisdiction is defined in Article III of the United States Constitution including, but not limited to any United States District Court, any United States or Federal Court of Appeals, the United States Court of Federal Claims, and the United States Supreme Court. For purposes of this section, state courts are not courts of competent jurisdiction.
 
 (3) Under 39 U.S.C. 412(a), the Postal Service shall not make a mailing or other list of names or addresses (past or present) of postal patrons or other persons available to the public, unless such action is authorized by law. Consistent with this provision, the Postal Service may make such a list available as follows:
 
@@ -64,7 +62,7 @@ Link to an amendment published at 83 FR 48237, Sept. 24, 2018.
 
 (4) *Employee credit references.* A credit bureau or other commercial firm from which a current or former postal employee is seeking credit may be given the following past or present information upon request: Grade, duty station, dates of employment, job title, and salary. If additional information is desired, the requester must submit the written consent of the employee and an accounting of the disclosure must be kept.
 
-(5) *Employee job references.* Upon request, prospective employers of a current or former postal employee may be furnished with the information in paragraph (b)(4) of this section, in addition to the date and the reason for separation, if applicable. The reason for separation must be limited to one of the following terms: Retired, resigned, or separated. Other terms or variations of these terms (*e.g.,* retired-disability) may not be used. If additional information is desired, the requester must submit the written consent of the employee, and an accounting of the disclosure must be kept.
+(5) *Employment status.* Upon request, prospective employers of a current or former postal employee may be furnished with the information in paragraph (b)(4) of this section, in addition to the date and the reason for separation, if applicable. The reason for separation must be limited to one of the following terms: Retired, resigned, or separated. Other terms or variations of these terms (*e.g.,* retired-disability) may not be used. If additional information is desired, the requester must submit the written consent of the employee, and an accounting of the disclosure must be kept.
 
 (6) *Computer matching purposes.* Records from a Postal Service system of records may be disclosed to another agency for the purpose of conducting a computer matching program or other matching activity as defined in § 262.5(c) and (d), but only after a determination by the Data Integrity Board that the procedural requirements of the Privacy Act, the guidelines issued by the Office of Management and Budget, and these regulations as may be applicable are met. These requirements include:
 
@@ -82,4 +80,4 @@ Link to an amendment published at 83 FR 48237, Sept. 24, 2018.
 
 (3) The accounting will be made available to the individual named in the record upon inquiry, except for disclosures made pursuant to paragraph (b)(2)(viii) of this section relating to law enforcement activities.
 
-[82 FR 47116, Oct. 11, 2017, as amended at 83 FR 3085, Jan. 23, 2018]
+[82 FR 47116, Oct. 11, 2017, as amended at 83 FR 3085, Jan. 23, 2018; 83 FR 48237, Sept. 24, 2018]
