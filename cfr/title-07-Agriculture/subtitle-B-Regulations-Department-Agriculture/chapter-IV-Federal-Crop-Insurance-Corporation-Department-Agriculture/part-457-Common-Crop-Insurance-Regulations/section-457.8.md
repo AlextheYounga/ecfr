@@ -1032,7 +1032,7 @@ Insurance is provided only to protect against unavoidable, naturally occurring e
 
 14. Duties in the Event of Damage, Loss, Abandonment, Destruction, or Alternative Use of Crop or Acreage
 
-Your Duties -
+Your Duties—
 
 (a) In the case of damage or loss of production or revenue to any insured crop, you must protect the crop from further damage by providing sufficient care.
 
@@ -1154,7 +1154,7 @@ Your Duties -
 
 (5) Failure to comply with any requirement contained in section 14(e)(4) will result in denial of the claim and any premium will still be owed, unless the claim denied is for prevented planting.
 
-Our Duties -
+Our Duties—
 
 (f) If you have complied with all the policy provisions, we will pay your loss within 30 days after the later of:
 
@@ -1756,11 +1756,11 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (1) We will make decisions regarding what constitutes a good farming practice and determinations of assigned production for uninsured causes for your failure to use good farming practices.
 
-(i) If you disagree with our decision of what constitutes a good farming practice, you must request a determination from FCIC of what constitutes a good farming practice before filing any suit against FCIC.
+(i) If you disagree with our determination of the amount of assigned production, you must use the arbitration or mediation process contained in this section.
 
-(ii) If you disagree with our determination of the amount of assigned production, you must use the arbitration or mediation process contained in this section.
+(ii) If you disagree with our decision of what constitutes a good farming practice you may request through us that FCIC review our decision. Requests for FCIC review must be made within 30 days of the postmark date on the written notice of the determination regarding good farming practices.
 
-(iii) You may not sue us for our decisions regarding whether good farming practices were used by you.
+(iii) You may not sue us for our decisions regarding whether good farming practices were used by you. You must request a determination from FCIC of what constitutes a good farming practice before filing any suit against FCIC.
 
 (2) FCIC will make determinations regarding what constitutes a good farming practice. If you do not agree with any determination made by FCIC:
 
@@ -1846,7 +1846,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 22. Other Insurance
 
-(a) Other Like Insurance - Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop. If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute. If you can demonstrate that you did not intend to have more than one policy in effect (For example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies), and:
+(a) Other Like Insurance—Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop. If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute. If you can demonstrate that you did not intend to have more than one policy in effect (For example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies), and:
 
 (1) One is an additional coverage policy and the other is a Catastrophic Risk Protection policy:
 
@@ -1912,7 +1912,7 @@ For reinsured policies24. Amounts Due Us
 
 (a) In addition to any other corrections allowed in your policy subject to section 25(b), we may correct:
 
-(1) Within 60 days after the sales closing date, any incorrect information on your application or provided by the sales closing date, including identification numbers for you and any person with an substantial beneficial interest in you, to ensure that the eligibility information is correct and consistent with information reported by you to any USDA agency;
+(1) Within 60 days after the sales closing date, any incorrect information on your application or provided by the sales closing date, including identification numbers for you and any person with a substantial beneficial interest in you, to ensure that the eligibility information is correct and consistent with information reported by you to any USDA agency;
 
 (2) Within 30 days after the acreage reporting date, information reported to reconcile errors in the information with correct information that has been determined by any USDA agency;
 
@@ -2276,7 +2276,7 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (1) Provide us notice and complete a marketing certification by the acreage reporting date when any portion of the crop will be direct marketed, or if acceptable verifiable records are required and will not be available. If your marketing plans change after the acreage reporting date, then you must provide notice no later than 15 days prior to harvest of the crop. The notice may be made by telephone or in person. If a marketing certification is required, it must be completed in writing within 15 days of the initial notice.
 
-(2) If you fail to notify us timely and complete the marketing certification in accordance with these provisions and if you do not have acceptable verifiable production records to support the information you certified on your production report, you will receive an assigned yield in accordance with 3(g).
+(2) If you fail to notify us timely and complete the marketing certification in accordance with these provisions and if you do not have acceptable verifiable production records to support the information you certified on your production report, you will receive an assigned yield in accordance with section 3(g).
 
 (3) We may determine that the marketing certification is not required for your crop based on FCIC procedures.
 

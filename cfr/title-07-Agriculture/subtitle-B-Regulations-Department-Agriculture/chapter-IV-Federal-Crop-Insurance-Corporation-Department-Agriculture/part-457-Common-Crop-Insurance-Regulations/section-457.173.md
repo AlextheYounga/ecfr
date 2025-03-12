@@ -102,7 +102,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibits in
 
 (3) The calendar date for the end of the insurance period, unless otherwise specified in the Special Provisions, is:
 
-(i) The first November 30th after insurance attaches for early varieties of avocados.
+(i) The first November 30th after insurance attaches for early varieties and mid varieties of avocados.
 
 (ii) The second March 31st after insurance attaches for late varieties of avocados.
 
@@ -224,4 +224,4 @@ You have a 100 percent share in 50 acres of early variety A in the unit, with a 
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[75 FR 15607, Mar. 30, 2010, as amended at 87 FR 38899, June 30, 2022]
+[75 FR 15607, Mar. 30, 2010, as amended at 87 FR 38899, June 30, 2022; 87 FR 52854, Aug. 30, 2022]

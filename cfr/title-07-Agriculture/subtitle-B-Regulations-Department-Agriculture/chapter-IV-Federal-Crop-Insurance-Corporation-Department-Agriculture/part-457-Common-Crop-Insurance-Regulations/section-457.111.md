@@ -195,7 +195,7 @@ You have a 100 percent share of a 20-acre pear orchard located in a state other 
 
 (5) $500/ton (100 percent of the price election) × 200-ton production to count = $100,000 value of production to count;
 
-(6) $150,000 value of production guarantee - $100,000 value of production to count = $50,000 loss; and
+(6) $150,000 value of production guarantee—$100,000 value of production to count = $50,000 loss; and
 
 (7) $50,000 × 100 percent share = $50,000 indemnity payment.
 
@@ -243,7 +243,7 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 13. Fresh Pear Quality Adjustment Endorsement
 
-In the event of a conflict between the Pear Crop Insurance Provisions and this option, this option will control. Insured who select this option cannot receive less than the indemnity due under section 11.
+In the event of a conflict between the Pear Crop Insurance Provisions and this option, this option will control. If you select this option, you cannot receive less than the indemnity due under section 11.
 
 (a) This endorsement applies to any crop year, provided:
 
@@ -253,7 +253,7 @@ In the event of a conflict between the Pear Crop Insurance Provisions and this o
 
 (3) You have not elected to insure your pears under the CAT Endorsement;
 
-(4) You elect it on your application or other form approved by us, and did so on or before the sales closing date for the initial crop year for which you wish it to be effective (By doing so, you agree to pay the additional premium designated in the actuarial documents for this optional coverage); and
+(4) You elected it on your application or other form approved by us, and did so on or before the sales closing date for the initial crop year for which you wish it to be effective (By doing so, you agree to pay the additional premium designated in the actuarial documents for this optional coverage); and
 
 (5) You or we do not cancel it in writing on or before the cancellation date. Your election of CAT coverage for any crop year after this endorsement is effective will be considered as notice of cancellation of this endorsement by you.
 
@@ -297,4 +297,4 @@ You have a 100 percent share of a 20-acre pear orchard. You have a production gu
 
 (5) $80,000 value of loss × 100 percent share = $80,000 indemnity payment.
 
-[61 FR 57580, Nov. 7, 1996; 62 FR 2007, Jan. 15, 1997, as amended at 62 FR 65167, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 75 FR 15880, 15881, Mar. 30, 2010; 79 FR 43602, July 28, 2014; 87 FR 38891, June 30, 2022]
+[61 FR 57580, Nov. 7, 1996; 62 FR 2007, Jan. 15, 1997, as amended at 62 FR 65167, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 75 FR 15880, 15881, Mar. 30, 2010; 79 FR 43602, July 28, 2014; 87 FR 38891, June 30, 2022; 87 FR 52853, Aug. 30, 2022]

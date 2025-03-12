@@ -2,7 +2,7 @@
 
 (a) *Licensing Authority.* The Licensing Authority will issue historical, nonhistorical and designated licenses.
 
-(b) *Historical licenses for the 2016 and subsequent quota years (Appendix 1).* A person issued a historical license for the current quota year will be issued a historical license in the same amount for the same article from the same country for the next quota year except that beginning with the 2023 quota year, a person who has surrendered more than 50 percent of such historical license in at least three of the prior 5 quota years will thereafter be issued a license in an amount equal to the average annual quantity entered during those 5 quota years.
+(b) *Historical licenses for the 2016 and subsequent quota years (Appendix 1).* A person issued a historical license for the current quota year will be issued a historical license in the same amount for the same article from the same country for the next quota year except that beginning with the 2024 quota year, a person who has surrendered more than 50 percent of such historical license in at least three of the prior 5 quota years will thereafter be issued a license in an amount equal to the average annual quantity entered during those 5 quota years.
 
 (c) *Nonhistorical licenses (Appendix 2).* The Licensing Authority will allocate nonhistorical licenses on the basis of a rank-order lottery system, which will operate as follows:
 
@@ -44,4 +44,4 @@
 
 (3) If a government of a country which negotiated in the Uruguay Round for the right to designate importers has not done so, but determines to designate importers for the next quota year, it shall indicate its intention to do so directly and in writing to the Licensing Authority not later than July 1 prior to the beginning of such next quota year. Furthermore, if a government that has designated importers for a quota year determines that it will not continue to designate importers for the next quota year, it shall so indicate directly and in writing to the Licensing Authority, not later than July 1 prior to such next quota year.
 
-[80 FR 44254, July 27, 2015]
+[80 FR 44254, July 27, 2015, as amended at 87 FR 52852, Aug. 30, 2022]

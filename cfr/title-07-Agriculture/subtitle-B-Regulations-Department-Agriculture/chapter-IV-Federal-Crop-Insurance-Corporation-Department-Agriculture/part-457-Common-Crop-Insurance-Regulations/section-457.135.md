@@ -32,11 +32,11 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Production guarantee (per acre).* In lieu of the definition contained in section 1 of the Basic Provisions, the production guarantee will be determined by stage as follows:
 
-(a) First stage production guarantee - Forty-five percent (45%) of the final stage production guarantee for direct seeded and transplanted storage and non-storage onions, unless otherwise specified in the Special Provisions.
+(a) First stage production guarantee—Forty-five percent (45%) of the final stage production guarantee for direct seeded and transplanted storage and non-storage onions, unless otherwise specified in the Special Provisions.
 
-(b) Second stage production guarantee - Seventy percent (70%) of the final stage production guarantee for direct seeded storage onions and 60 percent (60%) of the final stage production guarantee for transplanted storage onions and all non-storage onions, unless otherwise specified in the Special Provisions.
+(b) Second stage production guarantee—Seventy percent (70%) of the final stage production guarantee for direct seeded storage onions and 60 percent (60%) of the final stage production guarantee for transplanted storage onions and all non-storage onions, unless otherwise specified in the Special Provisions.
 
-(c) Final stage production guarantee - The quantity of onions (in hundredweight) determined by multiplying the approved yield per acre by the coverage level percentage you elect.
+(c) Final stage production guarantee—The quantity of onions (in hundredweight) determined by multiplying the approved yield per acre by the coverage level percentage you elect.
 
 *Sets.* Onion bulbs that are planted by hand or by machine.
 
@@ -52,7 +52,7 @@ In addition to the requirements of section 34 of the Basic Provisions, optional 
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
-(a) In addition to the requirements of section 3 of the Basic Provisions (§ 457.8), you may select only one price election for all the onions in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each onion type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) In addition to the requirements of section 3 of the Basic Provisions (§ 457.8), you may select only one price election for all the onions in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each onion type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) Your production guarantee progresses, in stages, to the final stage production guarantee. Stages will be determined on an acre basis. At least 75 percent (75%) of the plants on such acreage must be at the same stage to qualify for the first and second stages. The stages are as follows:
 
@@ -281,4 +281,4 @@ You have 100 acres of a unit of transplanted storage onions with a production gu
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your final stage production guarantee for timely planted acreage. Additional prevented planting coverage levels are not available for onions.
 
-[62 FR 28613, May 27, 1997, as amended at 62 FR 65173, Dec. 10, 1997; 64 FR 33385, June 23, 1999; 75 FR 15887, Mar. 30, 2010; 77 FR 13965, Mar. 8, 2012; 81 FR 84399, Nov. 23, 2016; 87 FR 38895, June 30, 2022]
+[62 FR 28613, May 27, 1997, as amended at 62 FR 65173, Dec. 10, 1997; 64 FR 33385, June 23, 1999; 75 FR 15887, Mar. 30, 2010; 77 FR 13965, Mar. 8, 2012; 81 FR 84399, Nov. 23, 2016; 87 FR 38895, June 30, 2022; 87 FR 52853, Aug. 30, 2022]

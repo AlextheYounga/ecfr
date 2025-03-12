@@ -192,7 +192,7 @@ In addition to the requirements of section 14 of the Basic Provisions:
 
 (1) Multiplying the insured acreage by the production guarantee;
 
-(2) Subtracting from the result of section 11(b)(1) the total production to count (see section 11(c);
+(2) Subtracting from the result of section 11(b)(1) the total production to count (see section 11(c));
 
 (3) Multiplying the result in section 11(b)(2) by the price election, by the price election factor, and by your share.
 
@@ -258,4 +258,4 @@ Assume the unit produced 15,000 lbs. Your share is 100 percent.
 
 The indemnity is calculated as follows:
 
-2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022]
+2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022]

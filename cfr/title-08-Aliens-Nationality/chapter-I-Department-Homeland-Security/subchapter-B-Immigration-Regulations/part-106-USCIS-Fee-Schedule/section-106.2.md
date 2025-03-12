@@ -1,5 +1,7 @@
 ##### § 106.2 Fees. #####
 
+Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
+
 (a) *I Forms* - (1) *Application to Replace Permanent Resident Card, Form I-90.* For filing an application for a Permanent Resident Card, Form I-551, to replace an obsolete card or to replace one lost, mutilated, or destroyed, or for a change in name: $415.
 
 (2) *Application for Replacement/Initial Nonimmigrant Arrival-Departure Document, Form I-102.* For filing an application for Arrival/Departure Record, Form I-94, or Crewman's Landing Permit, Form I-95, to replace one lost, mutilated, or destroyed: $485.

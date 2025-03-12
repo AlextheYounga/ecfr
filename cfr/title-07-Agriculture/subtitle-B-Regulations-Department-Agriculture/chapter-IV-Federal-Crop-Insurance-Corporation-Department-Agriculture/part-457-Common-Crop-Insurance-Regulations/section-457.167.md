@@ -40,7 +40,7 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *Pound.* A unit of weight equal to sixteen ounces avoirdupois of in-shell pecans.
 
-*Scion* - Twig or portion of a pecan variety used in top work.
+*Scion*—Twig or portion of a pecan variety used in top work.
 
 *Sequentially thinned.* A method of systematically removing pecan trees for the purpose of improving sunlight penetration and maintaining the proper spacing necessary for continuous production.
 
@@ -110,7 +110,7 @@ In lieu of the provisions contained in section 4 of the Basic Provisions:
 
 (a) We may change the terms of your coverage under this policy for any two-year coverage module. Any change to your policy within a two-year coverage module may only be done in accordance with this policy.
 
-(b) Any changes in policy provisions, amounts of insurance, premium rates, and program dates (except as allowed herein or as specified in section 3) can be viewed on RMA's Web site not later than the contract change date contained in these Crop Provisions. We may revise this information after the contract change date to correct clerical errors.
+(b) Any changes in policy provisions, amounts of insurance, premium rates, and program dates (except as allowed herein or as specified in section 3) can be viewed on RMA's website not later than the contract change date contained in these Crop Provisions. We may revise this information after the contract change date to correct clerical errors.
 
 (c) The contract change date is October 31 preceding the next two-year coverage module.
 
@@ -298,8 +298,6 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (v) Totaling the results of section 13(d)(2)(ii) and (iv).
 
-Pecan Revenue Example
-
 |                   Year                    |Acres|Average pounds per acre|Average gross sales per acre|
 |-------------------------------------------|-----|-----------------------|----------------------------|
 |                     4                     | 100 |          750          |           $1,050           |
@@ -330,4 +328,4 @@ The substitution of yield provisions of the Basic Provisions are not applicable.
 
 Notwithstanding the provisions of section 18 of the Basic Provisions, for counties with actuarial documents for pecans, you must have at least two years of production and gross sales records and for counties without actuarial documents, you must have at least four years of production and gross sales records to qualify for a written agreement.
 
-[69 FR 52163, Aug. 25, 2004; 69 FR 54179, Sept. 7, 2004, as amended at 69 FR 63041, Oct. 29, 2004; 78 FR 13459, Feb. 28, 2013; 78 FR 33691, June 5, 2013; 87 FR 38898, June 30, 2022]
+[69 FR 52163, Aug. 25, 2004; 69 FR 54179, Sept. 7, 2004, as amended at 69 FR 63041, Oct. 29, 2004; 78 FR 13459, Feb. 28, 2013; 78 FR 33691, June 5, 2013; 87 FR 38898, June 30, 2022; 87 FR 52854, Aug. 30, 2022]

@@ -48,7 +48,7 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
-In addition to the requirements of section 3 (Insurance Guarantees, Coverage Levels, and Prices) of the Basic Provisions (§ 457.8):
+In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (a) You may select only one price election for all the tomatoes in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each tomato type designated in the actuarial documents. The price election you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
@@ -77,13 +77,11 @@ In addition to the requirements of section 3 (Insurance Guarantees, Coverage Lev
 
 4. Contract Changes
 
-In accordance with section 4 (Contract Changes) of the Basic Provisions (§ 457.8), the contract change date is September 30 preceding the cancellation date for counties with a January 31 cancellation date and December 31 preceding the cancellation date for all other counties.
+In accordance with section 4 of the Basic Provisions (§ 457.8), the contract change date is September 30 preceding the cancellation date for counties with a January 31 cancellation date and December 31 preceding the cancellation date for all other counties.
 
 5. Cancellation and Termination Dates
 
-In accordance with section 2 (Life of Policy, Cancellation, and Termination) of the Basic Provisions (§ 457.8), the cancellation and termination dates are:
-
-Cancellation and Termination
+In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are:
 
 |                     State                      |   Dates   |
 |------------------------------------------------|-----------|
@@ -92,9 +90,9 @@ Cancellation and Termination
 
 6. Report of Acreage
 
-(a) In addition to the provisions of section 6 (Report of Acreage) of the Basic Provisions (§ 457.8), you must report the row width.
+(a) In addition to the provisions of section 6 of the Basic Provisions (§ 457.8), you must report the row width.
 
-(b) If spring and fall planting periods are allowed in the Special Provisions you must report all the information required by section 6 (Report of Acreage) of the Basic Provisions (§ 457.8) and these Crop Provisions by the acreage reporting date for each planting period.
+(b) If spring and fall planting periods are allowed in the Special Provisions you must report all the information required by section 6 of the Basic Provisions (§ 457.8) and these Crop Provisions by the acreage reporting date for each planting period.
 
 7. Annual Premium
 
@@ -102,7 +100,7 @@ In lieu of provisions contained in the Basic Provisions (§ 457.8), for determin
 
 8. Insured Crop
 
-In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), the crop insured will be all the tomatoes in the county for which a premium rate is provided by the actuarial documents:
+In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all the tomatoes in the county for which a premium rate is provided by the actuarial documents:
 
 (a) In which you have a share;
 
@@ -124,7 +122,7 @@ In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), 
 
 9. Insurable Acreage
 
-(a) In addition to the provisions of section 9 (Insurable Acreage) of the Basic Provisions (§ 457.8):
+(a) In addition to the provisions of section 9 of the Basic Provisions (§ 457.8):
 
 (1) Any acreage of the insured crop damaged before the final planting date, to the extent that the majority of growers in the area would normally not further care for the crop, must be replanted unless we agree that it is not practical to replant. Unavailability of plants will not be considered a valid reason for failure to replant.
 
@@ -140,11 +138,11 @@ In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), 
 
 (iii) On which tomatoes, peppers, eggplants, or tobacco have been grown within the previous two years unless the soil was fumigated or nematicide was applied before planting the tomatoes, except that this limitation does not apply to a first planting in Pennsylvania or if otherwise specified in the Special Provisions; or
 
-(b) In lieu of the provisions of section 9 (Insurable Acreage) of the Basic Provisions (§ 457.8), that prohibit insurance from attaching if a crop has not been planted and harvested in at least one of the three previous calendar years, we will insure newly cleared land or former pasture land planted to fresh market tomatoes.
+(b) In lieu of the provisions of section 9 of the Basic Provisions (§ 457.8), that prohibit insurance from attaching if a crop has not been planted and harvested in at least one of the three previous calendar years, we will insure newly cleared land or former pasture land planted to fresh market tomatoes.
 
 10. Insurance Period
 
-In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8):
+In lieu of the provisions of section 11 of the Basic Provisions (§ 457.8):
 
 (a) Coverage begins on each unit or part of a unit on the later of the date you submit your application or when the tomatoes are planted.
 
@@ -162,11 +160,11 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 (6) Final adjustment of a loss; or
 
-(7) October 15 of the crop year in Delaware, Maryland, New Jersey, North Carolina, and Virginia; October 31 of the crop year in California; November 10 of the crop year in Florida, Georgia, and South Carolina; and September 20 of the crop year in all other States.
+(7) October 15 of the crop year in Delaware, Maryland, New Jersey, North Carolina, and Virginia; October 31 of the crop year in California; November 10 of the crop year in Florida, Georgia, and South Carolina; and September 20 of the crop year in all other states.
 
 11. Causes of Loss
 
-(a) In accordance with the provisions of section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -184,11 +182,11 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 (8) Failure of irrigation water supply, if caused by an insured peril that occurs during the insurance period.
 
-(b) In addition to the causes of loss excluded in section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), we will not insure against damage or loss of production that occurs or becomes evident after the tomatoes have been harvested.
+(b) In addition to the causes of loss excluded in section 12 of the Basic Provisions (§ 457.8), we will not insure against damage or loss of production that occurs or becomes evident after the tomatoes have been harvested.
 
 12. Replanting Payment
 
-(a) In accordance with section 13 (Replanting Payment) of the Basic Provisions (§ 457.8), a replanting payment is allowed if the crop is damaged by an insurable cause of loss and the acreage to be replanted has sustained a loss in excess of 50 percent of the plant stand.
+(a) In accordance with section 13 of the Basic Provisions (§ 457.8), a replanting payment is allowed if the crop is damaged by an insurable cause of loss and the acreage to be replanted has sustained a loss in excess of 50 percent of the plant stand.
 
 (b) The maximum amount of the replanting payment per acre will be:
 
@@ -196,7 +194,7 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 (2) As specified in the Special Provisions for cherry, roma, or plum types.
 
-(c) In lieu of the provisions contained in section 13 (Replanting Payment) of the Basic Provisions (§ 457.8) that permit only one replanting payment each crop year, when both spring and fall planting periods are contained in the Special Provisions, you may be eligible for one replanting payment for acreage planted during each planting period within the crop year.
+(c) In lieu of the provisions contained in section 13 of the Basic Provisions (§ 457.8) that permit only one replanting payment each crop year, when both spring and fall planting periods are contained in the Special Provisions, you may be eligible for one replanting payment for acreage planted during each planting period within the crop year.
 
 13. Settlement of Claim
 
@@ -268,4 +266,4 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 23631, May 1, 1997; 62 FR 33539, June 20, 1997, as amended at 62 FR 65171, Dec. 10, 1997; 63 FR 36157, July 2, 1998; 63 FR 50753, Sept. 23, 1998; 87 FR 38892, June 30, 2022]
+[62 FR 23631, May 1, 1997; 62 FR 33539, June 20, 1997, as amended at 62 FR 65171, Dec. 10, 1997; 63 FR 36157, July 2, 1998; 63 FR 50753, Sept. 23, 1998; 87 FR 38892, June 30, 2022; 87 FR 52853, Aug. 30, 2022]

@@ -14,7 +14,7 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Harvest.* Picking of mature macadamia nuts from the ground.
 
-*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more agricultural commodities are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Peewees.* Mature and immature wet in-shell nuts that are smaller than 16 mm (5/8 inch) in diameter.
 
@@ -210,4 +210,4 @@ You select the 65 percent coverage level and 100 percent of the price election o
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022]
+[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022]
