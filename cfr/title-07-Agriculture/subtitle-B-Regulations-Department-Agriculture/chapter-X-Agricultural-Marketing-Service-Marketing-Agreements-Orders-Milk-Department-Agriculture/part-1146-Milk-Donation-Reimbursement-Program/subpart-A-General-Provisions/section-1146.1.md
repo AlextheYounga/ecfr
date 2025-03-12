@@ -2,13 +2,11 @@
 
 *AMS* means the Agricultural Marketing Service of the United States Department of Agriculture.
 
-*Eligible dairy organization* means a dairy farmer cooperative or a dairy processor that
+*Eligible dairy organization* means a dairy farmer, either individually or as part of a cooperative, or a dairy processor that:
 
-(1) Is regulated under a Federal milk marketing order (FMMO);
+(1) Accounts to a Federal Milk Marketing Order; and
 
-(2) Accounts to the FMMO marketwide pool; and
-
-(3) Incurs qualified expenses described in § 1146.108.
+(2) Incurs a qualified expense described in § 1146.1.
 
 *Eligible distributor* means a public or private non-profit organization that distributes donated eligible milk.
 
@@ -18,8 +16,12 @@
 
 *Fiscal year* means the twelve-month period beginning October 1 of any year and ending September 30 of the following year.
 
-*Participating partnership* means an eligible partnership for which AMS has approved a Milk Donation and Distribution Plan (Plan) for eligible milk under § 1146.104.
+*Participating partnership* means an eligible partnership for which AMS has approved a Dairy Donation and Distribution Plan (Plan) for eligible milk under § 1146.104.
 
 *Program* means the Milk Donation Reimbursement Program established in this part.
 
+*Qualified expense* means the cost incurred to purchase fresh fluid milk product or bulk dairy commodity product for processing into eligible dairy products.
+
 *Secretary* means the Secretary of the United States Department of Agriculture or a representative authorized to act in the Secretary's stead.
+
+[84 FR 46658, Sept. 5, 2019, as amended at 86 FR 48897, Sept. 1, 2021]Effective Date Note:At 86 FR 48897, Sept. 1, 2021, § 1146.1 was amended by revising the term “eligible dairy organization” and adding the term “qualified expense”, effective Sept. 2, 2021 through Sept. 1, 2023.

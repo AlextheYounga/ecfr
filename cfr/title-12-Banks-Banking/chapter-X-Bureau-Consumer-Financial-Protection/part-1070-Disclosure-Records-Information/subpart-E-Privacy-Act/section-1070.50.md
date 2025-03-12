@@ -4,7 +4,7 @@
 
 (b) For purposes of this subpart, the following definitions apply:
 
-(1) The term *Chief Privacy Officer* means the Chief Information Officer of the CFPB or any CFPB employee to whom the Chief Information Officer has delegated authority to act under this part;
+(1) The term *Chief Privacy Officer* means the Senior Agency Official for Privacy of the CFPB or any CFPB employee to whom the Senior Agency Official for Privacy has delegated authority to act under this part;
 
 (2) The term *guardian* means the parent of a minor, or the legal guardian of any individual who has been declared to be incompetent due to physical or mental incapacity or age by a court of competent jurisdiction;
 
@@ -19,3 +19,5 @@
 (7) *System of records* means a group of any records under the control of an agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual; and
 
 (8) *Statistical record* means a record in a system of records maintained for statistical research or reporting purposes only and not used in whole or in part in making any determination about an identifiable individual, except as provided by 13 U.S.C. 8.
+
+[83 FR 46095, Sept. 12, 2018, as amended at 86 FR 48901, Sept. 1, 2021]

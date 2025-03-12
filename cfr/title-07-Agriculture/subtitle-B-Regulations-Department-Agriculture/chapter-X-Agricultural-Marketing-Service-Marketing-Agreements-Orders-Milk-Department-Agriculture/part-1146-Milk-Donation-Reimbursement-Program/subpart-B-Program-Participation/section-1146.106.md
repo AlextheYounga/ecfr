@@ -1,27 +1,25 @@
-##### § 1146.106 Reimbursement claims. #####
+##### § 1146.106 Reimbursement Claims. #####
 
-(a) In order for the eligible dairy organization partner to receive reimbursements for qualified expenses pursuant to § 1146.108, the participating partnership must submit a report and appropriate supporting documentation to AMS.
+(a) In order for the eligible dairy organization to receive reimbursement pursuant to § 1146.108, the eligible partnership must submit a Reimbursement Claim Form and appropriate supporting documentation to AMS.
 
-(1) *For each month* of the fiscal year pertaining to an approved Milk Donation and Distribution Plan (including the months prior to AMS's review and approval of the Plan), the report must include:
+(1) *Required information.* Each Reimbursement Claim Form associated with an approved Dairy Donation and Distribution Plan must include:
 
-(i) The amount of eligible milk donated to the eligible distributor;
+(i) The type and amount of eligible dairy products donated to the eligible distributor;
 
-(ii) The location of the plant where the donated milk was processed;
+(ii) The physical location(s) of the plant(s) that processed the donated dairy products;
 
-(iii) The date the donated milk was shipped from the plant where the milk was processed;
+(iii) The date the eligible dairy products were processed;
 
-(iv) The date the donated milk was received by the eligible distributor; and
+(iv) The date the eligible dairy products were shipped to the eligible distributor;
 
-(v) The applicable announced Federal milk marketing order prices for the month the milk was pooled:
+(v) The respective sell-by, best-by, or use-by date(s) for the donated dairy products; and
 
-(A) The Class I price at the plant location where the milk was processed; and
+(vi) Other information as needed on the Reimbursement Claim Form to calculate reimbursement.
 
-(B) The lowest classified price (either Class III or Class IV).
+(2) *Appropriate verifying documentation.* Each Reimbursement Claim Form must be accompanied by documents verifying that the donation(s) reported in the form were made. Such documentation may include, but is not limited to, copies of processing records, shipping records, bills of lading, warehouse receipts, distribution records, or other documents demonstrating the reported amount of eligible dairy products were processed, donated, and distributed in accordance with the approved Dairy Donation and Distribution Plan and Eligible Distributor Certification Form and as reported on the Reimbursement Claim Form.
 
-(2) Appropriate documentation to support the report required in paragraph (a)(1) of this section may include, but is not limited to, copies of processing records, shipping records, bills of lading, warehouse receipts, distribution records, or other documents that demonstrate the reported amount of eligible milk was processed, donated, and distributed in accordance to the approved Milk Donation and Distribution Plan and as reported in the eligible dairy organization's report.
+(3) *Deadline for funding.* To be considered for reimbursement, eligible dairy products must be donated from January 1, 2020, until program funds are expended.
 
-(b) Reimbursement requests may be submitted to AMS at any time during the fiscal year and for up to 90 days after the close of the fiscal year.
+(b) Incomplete reimbursement requests will be returned to the submitter for revision or completion and resubmission as necessary.
 
-(c) AMS will review and process reimbursement requests on a quarterly basis, including those submitted by the last day of the month following the end of each quarter of the fiscal year.
-
-(d) Incomplete reimbursement requests will be returned to the submitter for revision or completion and resubmission as necessary.
+[86 FR 48898, Sept. 1, 2021]Effective Date Note:At 86 FR 48898, Sept. 1, 2021, § 1146.106 was revised, effective Sept. 2, 2021 through Sept. 1, 2023.

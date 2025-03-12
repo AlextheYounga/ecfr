@@ -1,15 +1,13 @@
-##### § 1146.102 Milk donation and distribution plans. #####
+##### § 1146.102 Dairy donation and distribution plans. #####
 
-New and continuing program participants must submit completed Milk Donation and Distribution Plans to AMS in the form and manner established by AMS prior to the published deadline to be eligible for program consideration. The completed Milk Donation and Distribution Plans must -
+Eligible partnerships must submit a completed Dairy Donation and Distribution Plan to AMS in the form and manner established by AMS to be eligible for program consideration. The completed Dairy Donation and Distribution Plan must include: (a) The physical location(s) of the eligible dairy organization's processing plant(s) and the eligible distributor's distribution site(s);
 
-(a) Include the physical location(s) of the eligible dairy organization's processing plant(s) and the eligible distributor's distribution site(s);
+(b) The entity type and contact information for the eligible dairy organization;
 
-(b) Include an affirmation signed by both eligible partners regarding the partnership's ability to supply, transport, store, and distribute donated milk products consistent with the commodity specifications under § 1146.3;
+(c) Banking information and tax identification number for the eligible dairy organization;
 
-(c) Include an estimate of the quantity of eligible milk that the eligible dairy organization plans to donate each year, based on -
+(d) An affirmation signed by the eligible dairy organization regarding the type(s) of products to be donated and its ability to process and transport eligible dairy products consistent with the commodity specifications under § 1146.3; and
 
-(1) Preplanned donations and
+(e) An Eligible Distributor Certification Form signed by the eligible distributor regarding its ability to store and distribute donated eligible dairy products to recipient individuals and families.
 
-(2) Contingency plans to address unanticipated donations; and
-
-(d) Describe the rate at which the eligible dairy organization will be reimbursed, not to exceed 100 percent of qualified expenses pursuant to § 1146.108.
+[86 FR 48897, Sept. 1, 2021]Effective Date Note:At 86 FR 48897, Sept. 1, 2021, § 1146.102 was revised, effective Sept. 2, 2021 through Sept. 1, 2023.

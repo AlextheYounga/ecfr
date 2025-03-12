@@ -52,6 +52,4 @@
 
 (e) *Integration with other offerings.* To determine whether offers and sales should be integrated, see § 230.152 of this chapter.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, Jan. 14, 2020; 86 FR 3590, Jan. 14, 2021]Effective Date Notes:At 85 FR 27131, May 7, 2020, § 227.100 was amended by adding paragraph (b)(7), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.100, was amended by amending paragraph (b)(7) introductory text by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
-
-2. At 86 FR 3590, Jan. 14, 2021, § 227.100 was amended by revising paragraph (b)(7), effective Jan. 14, 2021 through Mar. 1, 2023.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, Jan. 14, 2020; 86 FR 3590, Jan. 14, 2021]Effective Date Notes:  At 86 FR 3590, Jan. 14, 2021, § 227.100 was amended by revising paragraph (b)(7), effective Jan. 14, 2021 through Mar. 1, 2023.

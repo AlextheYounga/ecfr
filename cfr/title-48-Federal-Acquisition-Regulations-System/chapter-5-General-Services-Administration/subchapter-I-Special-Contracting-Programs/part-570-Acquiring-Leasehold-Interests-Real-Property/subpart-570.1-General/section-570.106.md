@@ -1,5 +1,7 @@
 ##### 570.106 Advertising, publicizing, and notifications to Congress. #####
 
+Link to an amendment published at 86 FR 48915, Sept. 1, 2021.
+
 (a) If a proposed acquisition is not exempt under FAR 5.202 or GSAR 570.106(e), and is for a leasehold interest in real property estimated to exceed 10,000 square feet, then the contracting officer must publicize the proposed acquisition in the Governmentwide Point of Entry (GPE) at *https://beta.sam.gov* or successor system.
 
 (b) For leasehold acquisitions where the solicitation requires the construction of a new building on a preselected site, the contracting officer, in accordance with the timeframes established in FAR 5.203, must publicize the proposed acquisition in the GPE regardless of size or value.

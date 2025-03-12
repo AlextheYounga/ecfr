@@ -24,10 +24,14 @@
 
 (i) A photocopy of two forms of identification, including one form of identification that bears the requester's photograph, and one form of identification that bears the requester's signature;
 
-(ii) A photocopy of a single form of identification that bears both the requester's photograph and signature; or
+(ii) A photocopy of a single form of identification that bears both the requester's photograph and signature;
 
-(iii) A statement swearing or affirming the requester's identity and to the fact that the requester understands the penalties provided in 5 U.S.C. 552a(i)(3).
+(iii) A statement swearing or affirming the requester's identity and to the fact that the requester understands the penalties provided in 5 U.S.C. 552a(i)(3); or
+
+(iv) Successful completion of a third-party's identity verification process, designated by the Bureau, where that process meets the requirements of Identity Assurance Level 2 (IAL2) as described by the National Institute of Standards and Technology.
 
 (2) Notwithstanding paragraph (c)(1) of this section, a designated official may require additional proof of the requester's identity before action will be taken on any request, if such official determines that it is necessary to protect against unauthorized disclosure of information in a particular case. In addition, if a requester seeks records pertaining to an individual in the requester's capacity as that individual's guardian, the requester shall be required to provide adequate proof of the requester's legal relationship before action will be taken on any request.
 
 (d) *Request for accounting of previous disclosures.* An individual may request an accounting of previous disclosures of records pertaining to that individual in a system of records as provided in 5 U.S.C. 552a(c). Such requests should conform to the procedures and form for requests for access to records set forth in paragraphs (a) and (b) of this section.
+
+[83 FR 46095, Sept. 12, 2018, as amended at 86 FR 48901, Sept. 1, 2021]
