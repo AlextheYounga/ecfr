@@ -14,7 +14,7 @@
 
 (B) Can we send an engineer (with knowledge and experience) to the customer site to perform the installation or repair, under the provisions of License Exception TSU for operation technology and software described in § 740.13(a) of the EAR, if it is understood that he is restricted by our normal business practices to performing the work without imparting the knowledge or technology to the customer personnel?
 
-(ii) *Answer 1.* Export of technology includes release of U.S.-origin data in a foreign country, and “release” includes “application to situations abroad of personal knowledge or technical experience acquired in the United States.” As the release of technology in the circumstances described here would exceed that permitted under the License Exception TSU for operation technology and software described in § 740.13(a) of the EAR, a license would be required even though the technician could apply the data without disclosing it to the customer.
+(ii) *Answer 1.* Export of technology includes release of U.S.-origin data in a foreign country as defined in § 734.15 of the EAR. So long as the circumstances described here would not exceed that permitted under the License Exception TSU for operation technology and software, as described in § 740.13(a) of the EAR, this is not a “release” of technology and a license would not be required.
 
 (2)(i) *Question 2.* We plan, according to our normal business practices, to train customer engineers to maintain equipment that we have exported under a license, License Exception, or NLR. The training is contractual in nature, provided for a fee, and is scheduled to take place in part in the customer's facility and in part in the U.S. Can we now proceed with this training at both locations under a License Exception?
 
@@ -22,4 +22,4 @@
 
 (B) Any training beyond that covered under the provisions of License Exception TSU for operation technology and software described in § 740.13(a), but specifically represented in your license application as required for this customer installation, and in fact authorized on the face of the license or a separate technology license, may not be undertaken while the license is suspended or revoked.
 
-[61 FR 12920, Mar. 25, 1996, as amended at 61 FR 64286, Dec. 4, 1996; 62 FR 25470, May 9, 1997; 65 FR 14860, Mar. 20, 2000]
+[61 FR 12920, Mar. 25, 1996, as amended at 61 FR 64286, Dec. 4, 1996; 62 FR 25470, May 9, 1997; 65 FR 14860, Mar. 20, 2000; 86 FR 54813, Oct. 5, 2021]

@@ -1,5 +1,7 @@
 ##### § 860.1 Scope. #####
 
+Link to an amendment published at 86 FR 54846, Oct. 5, 2021.
+
 (a) This part implements sections 513, 514(b), 515(b), and 520(l) of the act with respect to the classification and reclassification of devices intended for human use.
 
 (b) This part prescribes the criteria and procedures to be used by classification panels in making their recommendations and by the Commissioner in making the Commissioner's determinations regarding the class of regulatory control (class I, class II, or class III) appropriate for particular devices. Supplementing the general Food and Drug Administration procedures governing advisory committees (part 14 of this chapter), this part also provides procedures for manufacturers, importers, and other interested persons to participate in proceedings to classify and reclassify devices. This part also describes the kind of data required for determination of the safety and effectiveness of a device, and the circumstances under which information submitted to classification panels or to the Commissioner in connection with classification and reclassification proceedings will be available to the public.

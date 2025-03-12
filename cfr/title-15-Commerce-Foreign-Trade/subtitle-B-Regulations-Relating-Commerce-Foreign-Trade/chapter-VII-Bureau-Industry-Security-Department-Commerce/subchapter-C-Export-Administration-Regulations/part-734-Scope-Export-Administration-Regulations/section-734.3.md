@@ -12,13 +12,13 @@
 
 (ii) In quantities exceeding the *de minimis* levels, as described in § 734.4(c) or § 734.4(d) of this part;
 
-(4) Certain foreign-made direct products of U.S. origin technology or software, as described in § 736.2(b)(3) of the EAR. The term “direct product” means the immediate product (including processes and services) produced directly by the use of technology or software; and
+(4) Certain foreign-produced “direct products” of specified “technology” and “software,” as described in § 736.2(b)(3) of the EAR; and
 
 Note to paragraph (a)(4):
 
 Certain foreign-manufactured items developed or produced from U.S.-origin encryption items exported pursuant to License Exception ENC are subject to the EAR. See § 740.17(a) of the EAR.
 
-(5) Certain commodities produced by any plant or major component of a plant located outside the United States that is a direct product of U.S.-origin technology or software, as described in § 736.2(b)(3) of the EAR.
+(5) Certain foreign-produced “direct products” of a complete plant or any major component of a plant as described in § 736.2(b)(3) of the EAR.
 
 (b) The following are not subject to the EAR:
 

@@ -22,6 +22,8 @@
 
 (2) The following standards are available from the Internet Engineering Task Force (IETF) Secretariat, 5177 Brandin Court, Fremont, CA 94538, 510-492-4080.
 
-(i) The Interoperability Profile for Relay User Equipment, draft-vrs-rue-dispatch-00, July 20, 2016 *https://datatracker.ietf.org/doc/draft-vrs-rue-dispatch/.*
+(i) [Reserved]
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 35633, July 7, 2021]
+(ii) Request for Comments (RFC) 6351, xCard: vCard XML Representation (August 2011) *https://tools.ietf.org/html/rfc6351.*
+
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 35633, July 7, 2021; 86 FR 54871, Oct. 5, 2021]

@@ -10,9 +10,9 @@
 
 (3) BIS assigns each of its commodity classifications a Commodity Classification Automated Tracking System (CCATS) number. Neither the BIS classification nor the CCATS number may be relied upon or cited as evidence that the U.S. Government has determined that the items described in the commodity classification determination are subject to the EAR (See 15 CFR 734.3).
 
-(c) *Advisory opinions.* Advisory opinion requests must be in writing and be submitted to the address listed in § 748.1(d)(2). Both your letter and envelope must be marked “Advisory Opinion.”
+(c) *Advisory opinions.* Advisory opinion requests must be made in writing, and may be delivered to BIS by mail, by email, or through the BIS website. If delivering a request by mail, submit to the address listed in § 748.1(d)(2). Both your letter and envelope must be marked “Advisory Opinion.” If submitting by email, submit to *RPD2@bis.doc.gov* with the subject title “Advisory Opinion.” If submitting through the BIS website, see *http://www.bis.doc.gov.*
 
-(1) Your letter must contain the following information if you are requesting guidance regarding interpretations of the EAR:
+(1) Your submission must contain the following information if you are requesting guidance regarding interpretations of the EAR:
 
 (i) The name, title, and telephone and facsimile numbers of the person to contact,
 
@@ -72,4 +72,4 @@ Note to paragraph (e):
 
 Although these requests for confirmation that an item is not “specially designed” are also reviewed by the Departments of State and Defense, similar to § 748.3(b)(3), the public is reminded that neither the BIS classification nor the CCATS number may be relied upon or cited as evidence that the U.S. Government has determined that the “parts,” “components,” “accessories,” “attachments” and “software” described in the commodity classification determination or a release made from “specially designed” pursuant to § 748.3(e) are subject to the EAR (see § 734.3 of the EAR).
 
-[61 FR 12812, Mar. 25, 1996, as amended at 61 FR 68585, Dec. 30, 1996; 62 FR 25461, May 9, 1997; 65 FR 62609, Oct. 19, 2000; 67 FR 38868, June 6, 2002; 68 FR 35785, June 17, 2003; 70 FR 8249, Feb. 18, 2005; 72 FR 33659, June 19, 2007; 73 FR 49330, Aug. 21, 2008; 75 FR 36499, June 25, 2010; 75 FR 45054, Aug. 2, 2010; 78 FR 22724, Apr. 16, 2013; 78 FR 61745, Oct. 3, 2013; 81 FR 64676, Sept. 20, 2016]
+[61 FR 12812, Mar. 25, 1996, as amended at 61 FR 68585, Dec. 30, 1996; 62 FR 25461, May 9, 1997; 65 FR 62609, Oct. 19, 2000; 67 FR 38868, June 6, 2002; 68 FR 35785, June 17, 2003; 70 FR 8249, Feb. 18, 2005; 72 FR 33659, June 19, 2007; 73 FR 49330, Aug. 21, 2008; 75 FR 36499, June 25, 2010; 75 FR 45054, Aug. 2, 2010; 78 FR 22724, Apr. 16, 2013; 78 FR 61745, Oct. 3, 2013; 81 FR 64676, Sept. 20, 2016; 85 FR 54812, Oct. 5, 2021]

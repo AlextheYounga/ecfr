@@ -1,5 +1,7 @@
 ##### § 860.5 Confidentiality and use of data and information submitted in connection with classification and reclassification. #####
 
+Link to an amendment published at 86 FR 54847, Oct. 5, 2021.
+
 (a) This section governs the availability for public disclosure and the use by the Commissioner of data and information submitted to classification panels or to the Commissioner in connection with the classification or reclassification of devices under this part.
 
 (b) In general, data and information submitted to classification panels in connection with the classification of devices under § 860.84 will be available immediately for public disclosure upon request. However, except as provided by the special rules in paragraph (c) of this section, this provision does not apply to data and information exempt from public disclosure in accordance with part 20 of this chapter: Such data and information will be available only in accordance with part 20.

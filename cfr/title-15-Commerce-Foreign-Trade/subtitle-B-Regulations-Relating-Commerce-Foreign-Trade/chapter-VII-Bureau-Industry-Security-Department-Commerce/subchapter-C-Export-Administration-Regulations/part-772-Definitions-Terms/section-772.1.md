@@ -268,6 +268,8 @@ Modifications of a stored sequence of instructions include replacement of fixed 
 
 *Digital transfer rate.* (Cat 5) - The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
 
+*Direct product.* The immediate product (including processes and services) produced directly by the use of technology or software.
+
 *Directorate of Defense Trade Controls (DDTC).* The office at the Department of State, formerly known as the Office of Defense Trade Controls and before that as the Office of Munitions Control, responsible for reviewing applications to export and reexport items on the U.S. Munitions List. (See 22 CFR parts 120 through 130.)
 
 *Dual use.* Items that have both commercial and military or proliferation applications. While this term is used informally to describe items that are subject to the EAR, purely commercial items and certain munitions items listed on the Wassenaar Arrangement Munitions List (WAML) or the Missile Technology Control Regime Annex are also subject to the EAR (see § 734.2(a) of the EAR).
@@ -1261,7 +1263,7 @@ This definition of “transfer” does not apply to § 750.10 of the EAR or Supp
 
 *Tunable.* (Cat 6) - The ability of a “laser” to produce a continuous output at all wavelengths over a range of several “laser” transitions. A line selectable “laser” produces discrete wavelengths within one “laser” transition and is not considered “tunable”.
 
-*U.S. Person.* (a) For purposes of §§ 740.21(e)(1), 744.6, 744.10, 744.11, 744.12, 744.13, and 744.14 of the EAR, the term U.S. person includes:
+*U.S. Person.* (a) For purposes of §§ 732.3(j), 736.2(b)(7), 740.21(e)(1), 744.6, 744.10, 744.11, 744.12, 744.13, 744.14, and 745.2(a)(1) of the EAR, the term U.S. person includes:
 
 (1) Any individual who is a citizen of the United States, a permanent resident alien of the United States, or a protected individual as defined by 8 U.S.C. 1324b(a)(3);
 

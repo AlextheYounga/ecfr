@@ -44,9 +44,13 @@
 
 (vii) Equipment and materials identified in ECCN 2B352, which can be used in the production of biological agents.
 
-(viii) Dedicated software identified in ECCN 2D351 for the “use” of toxic gas monitoring systems and their dedicated detecting components controlled by ECCN 2B351.
+(viii) Software identified in ECCN 2D351 or 2D352, as follows:
 
-(ix) Technology identified in ECCN 2E001 for the “development” of software controlled by ECCN 2D351.
+(A) Dedicated software identified in ECCN 2D351 for the “use” of toxic gas monitoring systems and their dedicated detecting components controlled by ECCN 2B351;
+
+(B) Software designed for nucleic acid assemblers and synthesizers controlled by 2B352.j that is capable of designing and building functional genetic elements from digital sequence data.
+
+(ix) Technology identified in ECCN 2E001 for the “development” of software controlled by ECCN 2D351 or 2D352.
 
 (x) Technology identified in ECCN 2E001, 2E002, or 2E301 for:
 

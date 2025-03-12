@@ -1,5 +1,7 @@
 ##### § 860.3 Definitions. #####
 
+Link to an amendment published at 86 FR 54846, Oct. 5, 2021.
+
 For the purposes of this part:
 
 (a) *Act* means the Federal Food, Drug, and Cosmetic Act.

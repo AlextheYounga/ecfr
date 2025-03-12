@@ -10,9 +10,21 @@
 
 (2) Year-round from 11 p.m. to 8 a.m., the draw need only open if at least four hours notice is given.
 
-(b) The draw of the County Route 528 Bridge, mile 6.3 across Barnegat Bay at Mantoloking, shall open on signal; except that from Memorial Day through Labor Day on Saturdays, Sundays and Federal holidays from 9 a.m. to 6 p.m., the draw need only open on the hour, twenty minutes after the hour, and forty minutes after the hour.
+(b) The draw of the Route 88 Bridge, mile 3.0, across Point Pleasant Canal at Point Pleasant, shall operate as follows:
 
-(c) The draw of the S37 Bridge across Barnegat Bay, mile 14.1 at Seaside Heights, shall open on signal except as follows:
+(1) From 7 a.m. to 11 p.m. the draw shall open on signal.
+
+(2) From 11:01 p.m. to 6:59 a.m. the draw shall open on signal, if at least four hours advance notice is given.
+
+(c) The draw of the Route 13 Bridge, mile 3.9, across Point Pleasant Canal at Point Pleasant, shall operate as follows:
+
+(1) From 7 a.m. to 11 p.m. the draw shall open on signal.
+
+(2) From 11:01 p.m. to 6:59 a.m. the draw shall open on signal, if at least four hours advance notice is given.
+
+(d) The draw of the County Route 528 Bridge, mile 6.3 across Barnegat Bay at Mantoloking, shall open on signal; except that from Memorial Day through Labor Day on Saturdays, Sundays and Federal holidays from 9 a.m. to 6 p.m., the draw need only open on the hour, twenty minutes after the hour, and forty minutes after the hour.
+
+(e) The draw of the S37 Bridge across Barnegat Bay, mile 14.1 at Seaside Heights, shall open on signal except as follows:
 
 (1) From December 1 through March 31, the draw need only open if at least four hours notice is given.
 
@@ -20,7 +32,7 @@
 
 (3) From Memorial Day through Labor Day from 8 a.m. to 8 p.m., the draw need only open on the hour and half hour.
 
-(d) The draw of the AMTRAK New Jersey Transit Rail Operations (NJTRO) automated railroad swing bridge across Beach Thorofare, mile 68.9 at Atlantic City shall operate as follows:
+(f) The draw of the AMTRAK New Jersey Transit Rail Operations (NJTRO) automated railroad swing bridge across Beach Thorofare, mile 68.9 at Atlantic City shall operate as follows:
 
 (1) Open on signal from 11 p.m. to 6 a.m. From 6 a.m. to 11 p.m., the draw shall open on signal from 20 minutes to 30 minutes after each hour and remain open for all waiting vessels.
 
@@ -34,7 +46,7 @@
 
 (6) When the draw is opening and closing, or is closed, yellow flashing lights located on the ends of the center piers shall be displayed continuously until the bridge is returned to the fully open position.
 
-(e) The draw of the Route 30 Bridge across Beach Thorofare, mile 67.2 at Atlantic City, shall open on signal if at least four hours of notice is given; except that:
+(g) The draw of the Route 30 Bridge across Beach Thorofare, mile 67.2 at Atlantic City, shall open on signal if at least four hours of notice is given; except that:
 
 (1) From April 1 through October 31, from 7 a.m. to 11 p.m. the draw need only open on the hour.
 
@@ -44,7 +56,7 @@
 
 (4) From 8 a.m. on March 3, 2021, through 5 p.m. on March 31, 2021; from 8 a.m. on November 1, 2021, through 5 p.m. on March 31, 2022; and from 8 a.m. on November 1, 2022, through 5 p.m. on March 31, 2023, the drawbridge will be maintained in the closed-to-navigation position. A work platform will reduce the horizontal clearance of the navigation channel to approximately 30 feet and temporary shielding will reduce the vertical clearance of the entire bridge to approximately 19 feet above mean high water in the closed position. Vessels that can safely transit through the bridge in the closed position with the reduced clearances may do so, if at least 30 minutes notice is given, to allow for safe navigation.
 
-(f) The draw of the US40-322 (Albany Avenue) Bridge, mile 70.0 across Inside Thorofare, at Atlantic City, shall open on signal except that:
+(h) The draw of the US40-322 (Albany Avenue) Bridge, mile 70.0 across Inside Thorofare, at Atlantic City, shall open on signal except that:
 
 (1) Year-round, from 11 p.m. to 7 a.m.; and from November 1 through March 31 from 3 p.m. to 11 p.m., the draw need only open if at least four hours notice is given;
 
@@ -58,17 +70,15 @@
 
 (4) On the third or fourth Wednesday of August, the draw will open every two hours on the hour from 10 a.m. until 4 p.m. and need not open from 4 p.m. until 8 p.m. to accommodate the annual Air Show.
 
-(g) The draw of the Dorset Avenue Bridge across Inside Thorofare, mile 72.1 at Ventnor City, shall open on signal except that from June 1 through September 30, from 9:15 a.m. to 9:15 p.m., the draw need only open at 15 and 45 minutes after the hour.
+(i) The draw of the Dorset Avenue Bridge across Inside Thorofare, mile 72.1 at Ventnor City, shall open on signal except that from June 1 through September 30, from 9:15 a.m. to 9:15 p.m., the draw need only open at 15 and 45 minutes after the hour.
 
-(h) The draw of the Stone Harbor Boulevard Bridge, mile 102.0 across Great Channel, at Stone Harbor, shall open on signal except that:
+(j) The draw of the Stone Harbor Boulevard Bridge, mile 102.0 across Great Channel, at Stone Harbor, shall open on signal except that:
 
 (1) From October 1 through March 31 from 10 p.m. to 6 a.m. the draw need only open if at least eight hours notice is given.
 
 (2) From Memorial Day through Labor Day from 6 a.m. to 6 p.m. on Saturdays, Sundays and Federal holidays, the draw need open only on the hour, 20 minutes after the hour, and 20 minutes before the hour.
 
 (3) From 10 p.m. on December 24 until 6 a.m. on December 26, the draw need open only if at least two hours notice is given.
-
-(i)-(j) [Reserved]
 
 (k) The draw of Two-Mile Bridge, mile 112.2, across Middle Thorofare in Wildwood Crest, shall open on signal except:
 
@@ -93,4 +103,4 @@
 (4) Opening of the draw span may be delayed for ten minutes after a signal to open except as provide in (117.31(b). However, if a train is moving toward the bridge and has crossed the home signal for the bridge before the signal requesting opening of the bridge is given, the train may continue across the bridge and must clear the bridge interlocks as soon as possible in order to prevent unnecessary delays in the opening of the draw.
 
 [CGD05-97-003, 63 FR 2311, Jan. 15, 1998, as amended by CGD05-01-007, 66 FR 39445, July 31, 2001; CGD05-06-045, 71 FR 59383, Oct. 10, 2006; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2007-0026, 73 FR 5749, Jan. 31, 2008; USCG-2008-0697, 73 FR 79639, Dec. 30, 2008; 74 FR 17084, Apr. 14, 2009; USCG-2011-0698, 76 FR 79535, Dec. 22, 2011; USCG-2014-0121, 79 FR 18183, Apr. 1, 2014; USCG-2020-0334,
-86 FR 7650, Feb. 1, 2021; USCG-2020-0647, 86 FR 46967, Aug. 23, 2021]Editorial Note:By USCG-2020-0647, 86 FR 46967, Aug. 23, 2021, § 117.733 was amended by redesignating paragraphs (b) through (h) as (d) through (i) and adding new paragraphs (b) and (c); however, these amendments could not be performed due to inaccurate instruction 2.c.
+86 FR 7650, Feb. 1, 2021; USCG-2020-0647, 86 FR 46967, Aug. 23, 2021; 86 FR 54852, Oct. 5, 2021]Effective Date Note:By USCG-2020-0334, 86 FR 7650, Feb. 1, 2021, § 117.733 was amended by adding paragraph (e)(4), effective until Mar. 31, 2023. By USCG-2020-0647, 86 FR 54852, Oct. 5, 2021, paragraph (e) was redesignated as (g).

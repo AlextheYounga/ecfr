@@ -12,7 +12,7 @@
 
 (5) *Conduct.* Conduct such as contracting, financing, and freight forwarding in support of a proliferation project as described in part 744 of the EAR.
 
-(b) *General prohibitions.* The following ten general prohibitions describe certain exports, reexports, and other conduct, subject to the scope of the EAR, in which you may not engage unless you either have a license from the Bureau of Industry and Security (BIS) or qualify under part 740 of the EAR for a License Exception from each applicable general prohibition in this paragraph. The License Exceptions at part 740 of the EAR apply only to General Prohibitions One (Exports and Reexports in the Form Received), Two (Parts and Components Reexports), and Three (Foreign-Produced Direct Product Reexports); however, selected License Exceptions are specifically referenced and authorized in part 746 of the EAR concerning embargo destinations and in § 744.2(c) of the EAR regarding nuclear end-uses.
+(b) *General prohibitions.* The following ten general prohibitions describe certain exports, reexports, and other conduct, subject to the scope of the EAR, in which you may not engage unless you either have a license from the Bureau of Industry and Security (BIS) or qualify under part 740 of the EAR for a License Exception from each applicable general prohibition in this paragraph. The License Exceptions at part 740 of the EAR apply only to General Prohibitions One (Exports and Reexports in the Form Received), Two (Parts and Components Reexports), and Three (Foreign-Produced “Direct Product” Reexports); however, selected License Exceptions are specifically referenced and authorized in part 746 of the EAR concerning embargo destinations and in § 744.2(c) of the EAR regarding nuclear end-uses.
 
 (1) *General Prohibition One - Export and reexport of controlled items to listed countries (Exports and Reexports).* You may not, without a license or License Exception, export any item subject to the EAR to another country or reexport any item of U.S.-origin if each of the following is true:
 
@@ -32,39 +32,39 @@
 
 (ii) Each License Exception described in part 740 of the EAR supersedes General Prohibition Two if all terms and conditions of a given License Exception are met by the exporter or reexporter.
 
-(3) *General Prohibition Three - Foreign-produced direct product of specified “technology” and “software” (Foreign-Produced Direct Product Rule)* - (i) *Country scope of prohibition.* You may not, without a license or license exception, reexport any item subject to the scope of this General Prohibition Three to a destination in Country Group D:1, E:1, or E:2 (See supplement no.1 to part 740 of the EAR). Additionally, you may not, without a license or license exception, reexport or export from abroad any ECCN 0A919 commodities subject to the scope of this General Prohibition Three to a destination in Country Group D:1, D:3, D:4, D:5, E:1, or E:2.
+(3) *General Prohibition Three - Foreign-produced “direct product” of specified “technology” and “software” (Foreign-Produced “Direct Product” Rule)* - (i) *Country scope of prohibition.* You may not, without a license or license exception, reexport any item subject to the scope of this General Prohibition Three to a destination in Country Group D:1, E:1, or E:2 (See supplement no.1 to part 740 of the EAR). Additionally, you may not, without a license or license exception, reexport or export from abroad any ECCN 0A919 commodities subject to the scope of this General Prohibition Three to a destination in Country Group D:1, D:3, D:4, D:5, E:1, or E:2.
 
-(ii) *Product scope of foreign-made items subject to prohibition.* This General Prohibition 3 applies if an item meets either the Conditions defining the direct product of technology or the Conditions defining the direct product of a plant in paragraph (b)(3)(ii)(A) of this section:
+(ii) *Product scope of foreign-made items subject to prohibition.* This General Prohibition 3 applies if an item meets either the Conditions defining the “direct product” of technology or the Conditions defining the “direct product” of a plant in paragraph (b)(3)(ii)(A) of this section:
 
-(A) *Conditions defining direct product of technology.* Foreign-made items are subject to this General Prohibition 3 if they meet both of the following conditions:
+(A) *Conditions defining “direct product” of technology.* Foreign-made items are subject to this General Prohibition 3 if they meet both of the following conditions:
 
-(*1*) They are the direct product of technology or software that requires a written assurance as a supporting document for a license, as defined in paragraph (o)(3)(i) of supplement no. 2 to part 748 of the EAR, or as a precondition for the use of License Exception TSR at § 740.6 of the EAR, and
+(*1*) They are the “direct product” of technology or software that requires a written assurance as a supporting document for a license, as defined in paragraph (o)(3)(i) of supplement no. 2 to part 748 of the EAR, or as a precondition for the use of License Exception TSR at § 740.6 of the EAR, and
 
 (*2*) They are subject to national security controls as designated on the applicable ECCN of the Commerce Control List at part 774 of the EAR.
 
-(B) *Conditions defining direct product of a plant.* Foreign-made items are also subject to this General Prohibition 3 if they are the direct product of a complete plant or any major component of a plant if both of the following conditions are met:
+(B) *Conditions defining “direct product” of a plant.* Foreign-made items are also subject to this General Prohibition 3 if they are the “direct product” of a complete plant or any major component of a plant if both of the following conditions are met:
 
-(*1*) Such plant or component is the direct product of technology that requires a written assurance as a supporting document for a license or as a precondition for the use of License Exception TSR in § 740.6 of the EAR, and
+(*1*) Such plant or component is the “direct product” of technology that requires a written assurance as a supporting document for a license or as a precondition for the use of License Exception TSR in § 740.6 of the EAR, and
 
-(*2*) Such foreign-made direct products of the plant or component are subject to national security controls as designated on the applicable ECCN of the Commerce Control List at part 774 of the EAR.
+(*2*) Such foreign-made “direct products” of the plant or component are subject to national security controls as designated on the applicable ECCN of the Commerce Control List at part 774 of the EAR.
 
 (iii) *Country scope of prohibition for 9x515 or “600 series” items.* You may not, except as provided in paragraphs (b)(3)(v) or (vi) of this section, reexport or export from abroad without a license any “600 series” item subject to the scope of this General Prohibition Three to a destination in Country Groups D:1, D:3, D:4, D:5, E:1, or E:2 (see supplement no. 1 to part 740 of the EAR). You may not, except as provided in paragraphs (b)(3)(v) or (vi) of this section, reexport or export from abroad without a license any 9x515 item subject to the scope of this General Prohibition Three to a destination in Country Groups D:5, E:1, or E:2 (see supplement no. 1 to part 740 of the EAR).
 
 (iv) *Product scope of 9x515 and “600 series” items subject to this prohibition.* This General Prohibition Three applies if a 9x515 or “600 series” item meets either of the following conditions:
 
-(A) *Conditions defining direct product of “technology” or “software” for 9x515 and “600 series” items.* Foreign-made 9x515 and “600 series” items are subject to this General Prohibition Three if the foreign-made items meet both of the following conditions:
+(A) *Conditions defining “direct product” of “technology” or “software” for 9x515 and “600 series” items.* Foreign-made 9x515 and “600 series” items are subject to this General Prohibition Three if the foreign-made items meet both of the following conditions:
 
-(*1*) They are the direct product of “technology” or “software” that is in the 9x515 or “600 series” as designated on the applicable ECCN of the Commerce Control List in supplement no. 1 to part 774 of the EAR; and
+(*1*) They are the “direct product” of “technology” or “software” that is in the 9x515 or “600 series” as designated on the applicable ECCN of the Commerce Control List in supplement no. 1 to part 774 of the EAR; and
 
 (*2*) They are in the 9x515 or “600 series” as designated on the applicable ECCN of the Commerce Control List in part 774 of the EAR.
 
-(B) *Conditions defining direct product of a plant for 9x515 and “600 series” items.* Foreign-made 9x515 and “600 series” items are also subject to this General Prohibition Three if they are the direct product of a complete plant or any major component of a plant if both of the following conditions are met:
+(B) *Conditions defining “direct product” of a plant for 9x515 and “600 series” items.* Foreign-made 9x515 and “600 series” items are also subject to this General Prohibition Three if they are the “direct product” of a complete plant or any major component of a plant if both of the following conditions are met:
 
-(*1*) Such plant or major component is the direct product of 9x515 or “600 series” “technology” as designated on the applicable ECCN of the Commerce Control List in part 774 of the EAR, and
+(*1*) Such plant or major component is the “direct product” of 9x515 or “600 series” “technology” as designated on the applicable ECCN of the Commerce Control List in part 774 of the EAR, and
 
-(*2*) Such foreign-made direct products of the plant or major component are in the 9x515 or “600 series” as designated on the applicable ECCN of the Commerce Control List in part 774 of the EAR.
+(*2*) Such foreign-made “direct products” of the plant or major component are in the 9x515 or “600 series” as designated on the applicable ECCN of the Commerce Control List in part 774 of the EAR.
 
-(v) 9x515 and “600 series” foreign-produced direct products of U.S. “technology” or “software” subject to this General Prohibition Three do not require a license for reexport or export from abroad to the new destination unless the same item, if exported from the U.S. to the new destination would have been prohibited or made subject to a license requirement by part 742, 744, 746, or 764 of the EAR.
+(v) 9x515 and “600 series” foreign-produced “direct products” of U.S. “technology” or “software” subject to this General Prohibition Three do not require a license for reexport or export from abroad to the new destination unless the same item, if exported from the U.S. to the new destination would have been prohibited or made subject to a license requirement by part 742, 744, 746, or 764 of the EAR.
 
 (vi) *Criteria for prohibition relating to parties on Entity List.* You may not reexport, export from abroad, or transfer (in-country) without a license or license exception any foreign-produced item controlled under footnote 1 of supplement no. 4 to part 744 (“Entity List”) when there is “knowledge” that:
 
@@ -100,7 +100,9 @@
 
 (*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
 
-(B) [Reserved]
+(B) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 1 chemical listed in Supplement No. 1 to part 745 without first complying with the provisions of §§ 742.18 and 745.1 of the EAR.
+
+(C) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 3 chemical listed in Supplement No. 1 to part 745 to a destination *not* listed in Supplement No. 2 to part 745 without complying with the End-Use Certificate requirements in § 745.2 of the EAR that apply to Schedule 3 chemicals controlled for CW reasons in ECCN 1C350, ECCN 1C355, and ECCN 1C395.
 
 (ii) [Reserved]
 
