@@ -1,8 +1,6 @@
 ##### § 816.49 What requirements apply to impoundments? #####
 
-(a) *Requirements that apply to both permanent and temporary impoundments.* -
-
-(1) *MSHA requirements.* An impoundment meeting the criteria of § 77.216(a) of this title must comply with the requirements of § 77.216 of this title and this section.
+(a) *Requirements that apply to both permanent and temporary impoundments* - (1) *MSHA requirements.* An impoundment meeting the criteria of § 77.216(a) of this title must comply with the requirements of § 77.216 of this title and this section.
 
 (2) *Stability.* (i) An impoundment that meets the criteria of § 77.216(a) of this title or that includes a dam with a significant or high hazard potential classification under § 780.25(a) of this chapter must have a minimum static safety factor of 1.5 for a normal pool with steady state seepage saturation conditions and a seismic safety factor of at least 1.2.
 
