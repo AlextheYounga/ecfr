@@ -1,5 +1,7 @@
 ##### § 685.210 Choice of repayment plan. #####
 
+Link to an amendment published at 88 FR 43904, July 10, 2023.
+
 (a) *Initial selection of a repayment plan.* (1) Before a Direct Loan enters into repayment, the Secretary provides the borrower a description of the available repayment plans and requests the borrower to select one. A borrower may select a repayment plan before the loan enters repayment by notifying the Secretary of the borrower's selection in writing.
 
 (2) If a borrower does not select a repayment plan, the Secretary designates the standard repayment plan described in § 685.208(b) or (c) for the borrower, as applicable.

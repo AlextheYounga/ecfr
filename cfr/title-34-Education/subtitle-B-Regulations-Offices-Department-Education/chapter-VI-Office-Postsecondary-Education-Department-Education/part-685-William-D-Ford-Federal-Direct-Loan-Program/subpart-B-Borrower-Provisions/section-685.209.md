@@ -1,5 +1,7 @@
 ##### § 685.209 Income-contingent repayment plans. #####
 
+Link to an amendment published at 88 FR 43900, July 10, 2023.
+
 (a) *Pay As You Earn repayment plan:* The Pay As You Earn repayment plan is an income-contingent repayment plan for eligible new borrowers.
 
 (1) *Definitions.* As used in this section, other than as expressly provided for in paragraph (c) of this section—

@@ -1,5 +1,7 @@
 ##### § 685.221 Income-based repayment plan. #####
 
+Link to an amendment published at 88 FR 43905, July 10, 2023.
+
 (a) *Definitions.* As used in this section—
 
 (1) *Adjusted gross income (AGI)* means the borrower's adjusted gross income as reported to the Internal Revenue Service. For a married borrower filing jointly, AGI includes both the borrower's and spouse's income. For a married borrower filing separately, AGI includes only the borrower's income.

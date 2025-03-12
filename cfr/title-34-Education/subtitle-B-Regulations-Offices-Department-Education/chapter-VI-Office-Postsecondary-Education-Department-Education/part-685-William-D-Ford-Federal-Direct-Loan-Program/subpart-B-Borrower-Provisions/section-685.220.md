@@ -1,5 +1,7 @@
 ##### § 685.220 Consolidation. #####
 
+Link to an amendment published at 88 FR 43905, July 10, 2023.
+
 (a) *Direct Consolidation Loans.* A borrower may consolidate education loans made under certain Federal programs into a Direct Consolidation Loan. Loans consolidated into a Direct Consolidation Loan are discharged when the Direct Consolidation Loan is originated.
 
 (b) *Loans eligible for consolidation.* The following loans may be consolidated into a Direct Consolidation Loan:

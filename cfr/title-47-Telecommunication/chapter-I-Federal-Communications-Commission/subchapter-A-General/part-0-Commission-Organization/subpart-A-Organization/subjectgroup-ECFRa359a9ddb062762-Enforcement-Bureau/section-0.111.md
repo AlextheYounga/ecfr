@@ -1,6 +1,6 @@
 ##### § 0.111 Functions of the Bureau. #####
 
-Link to an amendment published at 88 FR 40116, June 21, 2023.
+Link to an amendment published at 88 FR 40116, June 21, 2023.Link to an amendment published at 88 FR 43458, July 10, 2023.
 
 (a) Serve as the primary Commission entity responsible for enforcement of the Communications Act and other communications statutes, the Commission's rules, Commission orders and Commission authorizations, other than matters that are addressed in the context of a pending application for a license or other authorization or in the context of administration, including post-grant administration, of a licensing or other authorization or registration program.
 

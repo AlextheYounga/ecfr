@@ -1,5 +1,7 @@
 ##### § 685.211 Miscellaneous repayment provisions. #####
 
+Link to an amendment published at 88 FR 43905, July 10, 2023.
+
 (a) *Payment application and prepayment.* (1) Except as provided for the income-contingent repayment plan under § 685.209(a)(3) or the income-based repayment plan under § 685.221(c)(1), the Secretary applies any payment first to any accrued charges and collection costs, then to any outstanding interest, and then to outstanding principal.
 
 (2) A borrower may prepay all or part of a loan at any time without penalty. If a borrower pays any amount in excess of the amount due, the excess amount is a prepayment.

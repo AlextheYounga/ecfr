@@ -1,6 +1,6 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 37478, June 8, 2023.Link to an amendment published at 88 FR 39201, June 15, 2023.
+Link to an amendment published at 88 FR 39201, June 15, 2023.
 
 (a) *Greater amberjack*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
@@ -88,9 +88,9 @@ Link to an amendment published at 88 FR 37478, June 8, 2023.Link to an amendment
 
 (A) [Reserved]
 
-(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf EEZ when the Federal charter vessel/headboat component is closed. The component ACT is 2,904,682 lb (1,317,542 kg), round weight.
+(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf when the Federal charter vessel/headboat component is closed. The component ACT is 3,076,322 lb (1,395,396 kg), round weight.
 
-(C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The component ACT is 3,483,234 lb (1,579,968 kg), round weight.
+(C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The component ACT is 3,689,061 lb (1,673,330 kg), round weight.
 
 (r) *Gag*—(1) *Commercial sector.* The IFQ program for groupers and tilefishes in the Gulf of Mexico serves as the accountability measure for commercial gag. The commercial ACL in gutted weight is 258,000 lb (117,027 kg).
 

@@ -1,12 +1,12 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 88 FR 37478, June 8, 2023.Link to an amendment published at 88 FR 39201, June 15, 2023.
+Link to an amendment published at 88 FR 39201, June 15, 2023.
 
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish*—(1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
 
-(i) Commercial quota for red snapper—7,854,000 lb (3,562,514 kg), round weight.
+(i) Commercial quota for red snapper—8,318,100 lb (3,773,027 kg), round weight.
 
 (ii) Deep-water groupers (DWG) have a combined quota, as specified in paragraphs (a)(1)(ii)(A) through (C) of this section. These quotas are specified in gutted weight, that is eviscerated, but otherwise whole.
 
@@ -42,11 +42,11 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) *Recreational quotas.* The following quotas apply to persons who fish for Gulf reef fish other than under commercial vessel permits for Gulf reef fish and the applicable commercial quotas specified in paragraph (a)(1) of this section.
 
-(i) *Recreational quota for red snapper*—(A) *Total recreational.* The total recreational quota is 7,546,000 lb (3,422,808 kg), round weight.
+(i) *Recreational quota for red snapper*—(A) *Total recreational.* The total recreational quota is 7,991,900 lb (3,625,065 kg), round weight.
 
-(B) *Federal charter vessel/headboat component quota.* The Federal charter vessel/headboat component quota applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf EEZ when the Federal charter vessel/headboat component is closed. The Federal charter vessel/headboat component quota is 3,191,958 lb (1,447,848 kg), round weight.
+(B) *Federal charter vessel/headboat component quota.* The Federal charter vessel/headboat component quota applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf when the Federal charter vessel/headboat component is closed. The Federal charter vessel/headboat component quota is 3,380,574 lb (1,533,403 kg), round weight.
 
-(C) *Private angling component quota.* The private angling component quota applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The private angling component quota is 4,354,042 lb (1,974,960 kg), round weight.
+(C) *Private angling component quota.* The private angling component quota applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The private angling component quota is 4,611,326 lb (2,091,662 kg), round weight.
 
 (ii) *Recreational quota for greater amberjack.* (A) For the 2017-2018 fishing year—716,173 lb (324,851 kg).
 

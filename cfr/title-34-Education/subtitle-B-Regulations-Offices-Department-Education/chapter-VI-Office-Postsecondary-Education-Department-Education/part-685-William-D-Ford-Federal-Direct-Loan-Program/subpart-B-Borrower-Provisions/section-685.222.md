@@ -1,5 +1,7 @@
 ##### § 685.222 Borrower defenses and procedures for loans first disbursed on or after July 1, 2017, and before July 1, 2020, and procedures for loans first disbursed prior to July 1, 2017. #####
 
+Link to an amendment published at 88 FR 43905, July 10, 2023.
+
 (a) *General.* (1) For loans first disbursed prior to July 1, 2017, a borrower asserts and the Secretary considers a borrower defense in accordance with the provisions of § 685.206(c), unless otherwise noted in § 685.206(c).
 
 (2) For loans first disbursed on or after July 1, 2017, and before July 1, 2020, a borrower asserts and the Secretary considers a borrower defense in accordance with this section. To establish a borrower defense under this section, a preponderance of the evidence must show that the borrower has a borrower defense that meets the requirements of this section.

@@ -1,5 +1,7 @@
 ##### § 685.403 Individual process for borrower defense. #####
 
+Link to an amendment published at 88 FR 43905, July 10, 2023.
+
 (a) *Individual process, generally.* (1) If § 685.402 does not apply to an individual borrower who has submitted a borrower defense application, the Secretary will initiate a process to determine whether the individual borrower has a borrower defense under this subpart.
 
 (2) If § 685.402 applies to an individual borrower who is covered under a group borrower defense application being considered by the Secretary, that group borrower defense application will toll the timelines under § 685.406 on adjudicating the individual borrower application.

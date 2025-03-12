@@ -1,5 +1,7 @@
 ##### § 685.208 Repayment plans. #####
 
+Link to an amendment published at 88 FR 43900, July 10, 2023.
+
 (a) *General*—(1) *Borrowers who entered repayment before July 1, 2006.* (i) A Direct Subsidized Loan, a Direct Unsubsidized Loan, a Direct Subsidized Consolidation Loan, or a Direct Unsubsidized Consolidation Loan may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (b) of this section;
