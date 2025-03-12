@@ -174,4 +174,4 @@ By \_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_
 
 Dated at Bethesda, MD, the \_\_\_\_\_\_\_ day of \_\_\_\_\_\_, 19\_\_.
 
-[26 FR 3457, Apr. 22, 1961]Editorial Note:For Federal Register citations affecting § 140.92, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 3457, Apr. 22, 1961]Editorial Note:For Federal Register citations affecting § 140.92, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

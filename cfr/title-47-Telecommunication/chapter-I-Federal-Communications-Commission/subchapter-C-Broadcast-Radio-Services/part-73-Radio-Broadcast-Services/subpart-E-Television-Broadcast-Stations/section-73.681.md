@@ -115,4 +115,4 @@ When a carrier is amplitude modulated by a television signal in accordance with 
 
 *Visual transmitter power.* The peak power output when transmitting a standard television signal.
 
-[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.681, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.681, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -268,4 +268,4 @@ Note to § 73.682:
 
 For additional information regarding this requirement, *see* Implementation of the Commercial Advertisement Loudness Mitigation (CALM) Act, FCC 11-182.
 
-(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.682, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.682, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

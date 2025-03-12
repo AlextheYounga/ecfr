@@ -1,0 +1,3 @@
+##### § 1045.160 When the RD, FRD, or TFNI is removed from matter, what action must be taken if the matter still contains NSI? #####
+
+When an appropriate authority removes the RD, FRD, or TFNI from matter and it still contains NSI, the matter must be marked following E.O. 13526 and 32 CFR part 2001 or successor orders and regulations, including portion marking if the matter was not previously portion marked, and the classification authority block of the matter must be changed to contain declassification instructions for the NSI. This does not apply to matter produced as part of the coordination process for declassification or public release reviews.

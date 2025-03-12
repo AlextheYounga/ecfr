@@ -1,0 +1,5 @@
+##### § 1045.35 What acronyms are commonly used in this part? #####
+
+The following acronyms are commonly used throughout this part:
+
+AEA—The Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 *et seq.*)ARDMO—Associate RD Management OfficialC—ConfidentialCD—Compact DiskCFR—Code of Federal RegulationsCUI—Controlled Unclassified InformationDCI—Director of Central IntelligenceDNI—Director of National IntelligenceDoD—Department of DefenseDOE—Department of EnergyE.O.—Executive orderFOIA—Freedom of Information ActFRD—Formerly Restricted DataIC—Intelligence CommunityICD—Intelligence Community DirectiveICPG—Intelligence Community Policy GuidanceISCAP—Interagency Security Classification Appeals PanelMDR—Mandatory Declassification ReviewNNSA—National Nuclear Security AdministrationNRC—Nuclear Regulatory CommissionNSI—National Security InformationPub. L.—Public LawRD—Restricted DataRDMO—RD Management OfficialS—SecretTFNI—Transclassified Foreign Nuclear InformationU.K.—United Kingdom

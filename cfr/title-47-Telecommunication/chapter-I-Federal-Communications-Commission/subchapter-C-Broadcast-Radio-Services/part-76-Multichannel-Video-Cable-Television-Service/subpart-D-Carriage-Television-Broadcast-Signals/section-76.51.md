@@ -210,4 +210,4 @@ Note:
 
 Requests for changes to this list shall be made in the form of a petition for rulemaking pursuant to § 1.401 of this chapter, except that such petitions shall not be subject to the public notice provisions of § 1.403 of this chapter.
 
-[37 FR 3278, Feb. 12, 1972]Editorial Note:For Federal Register citations affecting § 76.51, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[37 FR 3278, Feb. 12, 1972]Editorial Note:For Federal Register citations affecting § 76.51, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

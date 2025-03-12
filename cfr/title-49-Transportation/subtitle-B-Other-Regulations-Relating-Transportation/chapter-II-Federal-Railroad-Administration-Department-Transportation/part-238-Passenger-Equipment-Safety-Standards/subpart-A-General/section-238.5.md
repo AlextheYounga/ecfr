@@ -1,8 +1,6 @@
 ##### § 238.5 Definitions. #####
 
-Link to an amendment published at 83 FR 59218, Nov. 21, 2018.
-
-As used in this part -
+As used in this part—
 
 *AAR* means the Association of American Railroads.
 
@@ -15,6 +13,8 @@ As used in this part -
 *Alerter* means a device or system installed in the locomotive cab to promote continuous, active locomotive engineer attentiveness by monitoring select locomotive engineer-induced control activities. If fluctuation of a monitored locomotive engineer-induced control activity is not detected within a predetermined time, a sequence of audible and visual alarms is activated so as to progressively prompt a response by the locomotive engineer. Failure by the locomotive engineer to institute a change of state in a monitored control, or acknowledge the alerter alarm activity through a manual reset provision, results in a penalty brake application that brings the locomotive or train to a stop.
 
 *Anti-climbing mechanism* means the parts at the ends of adjoining vehicles in a train that are designed to engage when subjected to large buff loads to prevent the override of one vehicle by another.
+
+*Associate Administrator* means Associate Administrator for Railroad Safety and Chief Safety Officer, Associate Administrator for Railroad Safety, Associate Administrator for Safety.
 
 *Bind* means restrict the intended movement of one or more brake system components by obstruction, increased friction, or reduced clearance.
 
@@ -108,11 +108,11 @@ As used in this part -
 
 *Full service application* means a brake application which results in a brake cylinder pressure at the service limiting valve setting or equivalent.
 
-*Glazing, end-facing* means a glazing panel located where a line perpendicular to the exterior surface of the panel makes an angle of 50 degrees or less with the longitudinal center line of the rail vehicle in which the panel is installed. A glazing panel that curves so as to meet the definition for both side-facing and end-facing glazing is considered end-facing glazing.
+*Glazing, end-facing* means any exterior glazing located where a line perpendicular to the plane of the glazing material makes a horizontal angle of 50 degrees or less with the centerline of the vehicle in which the glazing material is installed, except for: The coupled ends of multiple-unit (MU) locomotives or other equipment semi-permanently connected to each other in a train consist; and end doors of passenger cars at locations other than the cab end of a cab car or MU locomotive. Any location which, due to curvature of the glazing material, can meet the criteria for either an end-facing glazing location or a side-facing glazing location shall be considered an end-facing glazing location.
 
 *Glazing, exterior* means a glazing panel that is an integral part of the exterior skin of a rail vehicle and has a surface exposed to the outside environment.
 
-*Glazing, side-facing* means a glazing panel located where a line perpendicular to the exterior surface of the panel makes an angle of more than 50 degrees with the longitudinal center line of the rail vehicle in which the panel is installed.
+*Glazing, side-facing* means any glazing located where a line perpendicular to the plane of the glazing material makes a horizontal angle of more than 50 degrees with the centerline of the vehicle in which the glazing material is installed. Side-facing glazing also means glazing located at the coupled ends of MU locomotives or other equipment semi-permanently connected to each other in a train consist and glazing located at end doors other than at the cab end of a cab car or MU locomotive.
 
 *Handrails* means safety appliances installed on either side of a rail vehicle's exterior doors to assist passengers and crewmembers to safely board and depart the vehicle.
 
@@ -184,9 +184,9 @@ As used in this part -
 
 *Passenger compartment* means an area of a passenger car that consists of a seating area and any vestibule that is connected to the seating area by an open passageway.
 
-*Passenger equipment* - means
+*Passenger equipment*—means
 
-(1) All powered and unpowered passenger cars, locomotives used to haul a passenger car, and any other rail rolling equipment used in a train with one or more passenger cars. Passenger equipment includes -
+(1) All powered and unpowered passenger cars, locomotives used to haul a passenger car, and any other rail rolling equipment used in a train with one or more passenger cars. Passenger equipment includes—
 
 (i) A passenger coach,
 
@@ -230,7 +230,7 @@ As used in this part -
 
 *Qualified person* means a person who has received, as a part of the training, qualification, and designation program required under § 238.109, instruction and training necessary to perform one or more functions required under this part. The railroad is responsible for determining that the person has the knowledge and skills necessary to perform the required function for which the person is assigned responsibility. The railroad determines the qualifications and competencies for employees designated to perform various functions in the manner set forth in this part. Although the rule uses the term “qualified person” to describe a person responsible for performing various functions required under this part, a person may be deemed qualified to perform some functions but not qualified to perform other functions. For example, although a person may be deemed qualified to perform the Class II brake test required by this part, that same person may or may not be qualified to perform the Class IA brake test or authorize the movement of defective equipment under this part. The railroad will determine the required functions for which an individual will be deemed a “qualified person” based upon the instruction and training the individual has received pursuant to § 238.109 on a particular function.
 
-*Railroad* means any form of nonhighway ground transportation that runs on rails or electromagnetic guideways and any entity providing such transportation, including -
+*Railroad* means any form of nonhighway ground transportation that runs on rails or electromagnetic guideways and any entity providing such transportation, including—
 
 (i) Commuter or other short-haul railroad passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and
 
@@ -288,7 +288,9 @@ As used in this part -
 
 *Tier I* means operating at speeds not exceeding 125 mph.
 
-*Tier II* means operating at speeds exceeding 125 mph but not exceeding 150 mph.
+*Tier II* means operating at speeds exceeding 125 mph but not exceeding 160 mph.
+
+*Tier III* means operating in a shared right-of-way at speeds not exceeding 125 mph and in an exclusive right-of-way without grade crossings at speeds exceeding 125 mph but not exceeding 220 mph.
 
 *Tourist, scenic, historic, or excursion operations* means railroad operations that carry passengers, often using antiquated equipment, with the conveyance of the passengers to a particular destination not being the principal purpose. Train movements of new passenger equipment for demonstration purposes are not tourist, scenic, historic, or excursion operations.
 
@@ -308,9 +310,15 @@ As used in this part -
 
 *Train, short-distance intercity passenger* means a passenger train that provides service exclusively on the National Railroad Passenger Corporation's Northeast Corridor or between cities that are not more than 125 miles apart.
 
-*Train, Tier II passenger* means a short-distance or long-distance intercity passenger train providing service at speeds that include those exceeding 125 mph but not exceeding 150 mph.
+*Train, Tier II passenger* means a short-distance or long-distance intercity passenger train providing service at speeds exceeding 125 mph but not exceeding 160 mph.
 
 *Trainset, passenger* means a passenger train.
+
+*Trainset, Tier I alternative passenger* means a trainset consisting of Tier I passenger equipment demonstrating alternative crashworthiness and occupant protection performance under the requirements of appendix G to this part.
+
+*Trainset, Tier III* means an intercity passenger train that provides service in a shared right-of-way at speeds not exceeding 125 mph and in an exclusive right-of-way without grade crossings at speeds exceeding 125 mph but not exceeding 220 mph.
+
+*Trainset unit* means a trainset segment located between connecting arrangements (articulations).
 
 *Transverse* means in a direction perpendicular to the normal direction of travel.
 
@@ -338,4 +346,4 @@ As used in this part -
 
 *Yield strength* means the ability of a structural member to resist a change in length caused by a heavy load. Exceeding the yield strength may cause permanent deformation of the member.
 
-[64 FR 25660, May 12, 1999, as amended at 65 FR 41305, July 3, 2000; 67 FR 19989, Apr. 23, 2002; 71 FR 36916, June 28, 2006; 71 FR 61857, Oct. 19, 2006; 73 FR 6400, Feb. 1, 2008; 78 FR 71812, Nov. 29, 2013; 80 FR 76146, Dec. 7, 2015]
+[64 FR 25660, May 12, 1999, as amended at 65 FR 41305, July 3, 2000; 67 FR 19989, Apr. 23, 2002; 71 FR 36916, June 28, 2006; 71 FR 61857, Oct. 19, 2006; 73 FR 6400, Feb. 1, 2008; 78 FR 71812, Nov. 29, 2013; 80 FR 76146, Dec. 7, 2015; 83 FR 59218, Nov. 21, 2018]

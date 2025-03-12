@@ -1,8 +1,6 @@
 ##### § 543.24 What are the minimum internal control standards for auditing revenue? #####
 
-Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
-
-(a) *Supervision.* Supervision must be provided as needed for bingo operations by an agent(s) with authority equal to or greater than those being supervised.
+(a) *Supervision.* Supervision must be provided as needed for revenue audit by an agent(s) with authority equal to or greater than those being supervised.
 
 (b) *Independence.* Audits must be performed by agent(s) independent of the transactions being audited.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
 
 (iii) At least annually, all computerized player tracking systems must be reviewed by agent(s) independent of the individuals that set up or make changes to the system parameters. The review must be performed to determine that the configuration parameters are accurate and have not been altered without appropriate management authorization Document and maintain the test results.
 
-(5) *Complimentary services or items.* At least monthly, review the reports required in § 543.13(d). These reports must be made available to those entities authorized by the TGRA or by tribal law or ordinance.
+(5) *Complimentary services or items.* At least monthly, review the reports required in § 543.13(c). These reports must be made available to those entities authorized by the TGRA or by tribal law or ordinance.
 
 (6) *Patron deposit accounts.* (i) At least weekly, reconcile patron deposit account liability (deposits ±adjustments−withdrawals = total account balance) to the system record.
 
@@ -103,3 +101,5 @@ Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
 (10) *Inventory.* (i) At least monthly, verify receipt, issuance, and use of controlled inventory, including, but not limited to, bingo cards, pull tabs, playing cards, keys, pre-numbered and/or multi-part forms.
 
 (ii) Periodically perform minimum bankroll calculations to ensure that the gaming operation maintains cash in an amount sufficient to satisfy the gaming operation's obligations.
+
+[77 FR 58712, Sept. 21, 2012, as amended at 83 FR 65509, Dec. 21, 2018]

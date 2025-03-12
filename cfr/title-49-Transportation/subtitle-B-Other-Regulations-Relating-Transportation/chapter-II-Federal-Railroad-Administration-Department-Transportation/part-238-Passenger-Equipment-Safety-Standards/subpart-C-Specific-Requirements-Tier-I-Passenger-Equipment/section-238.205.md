@@ -1,9 +1,7 @@
 ##### § 238.205 Anti-climbing mechanism. #####
 
-Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
-
-(a) Except as provided in paragraph (b) of this section, all passenger equipment placed in service for the first time on or after September 8, 2000, and prior to March 9, 2010, shall have at both the forward and rear ends an anti-climbing mechanism capable of resisting an upward or downward vertical force of 100,000 pounds without failure. All passenger equipment placed in service for the first time on or after March 9, 2010, shall have at both the forward and rear ends an anti-climbing mechanism capable of resisting an upward or downward vertical force of 100,000 pounds without permanent deformation. When coupled together in any combination to join two vehicles, AAR Type H and Type F tight-lock couplers satisfy the requirements of this paragraph (a).
+(a) Except as provided in paragraph (b) of this section, and § 238.201(b), all passenger equipment placed in service for the first time on or after September 8, 2000, and prior to March 9, 2010, shall have at both the forward and rear ends an anti-climbing mechanism capable of resisting an upward or downward vertical force of 100,000 pounds without failure. All passenger equipment placed in service for the first time on or after March 9, 2010, shall have at both the forward and rear ends an anti-climbing mechanism capable of resisting an upward or downward vertical force of 100,000 pounds without permanent deformation. When coupled together in any combination to join two vehicles, AAR Type H and Type F tight-lock couplers satisfy the requirements of this paragraph (a).
 
 (b) Except for a cab car or an MU locomotive, each locomotive ordered on or after September 8, 2000, or placed in service for the first time on or after September 9, 2002, shall have an anti-climbing mechanism at its forward end capable of resisting both an upward and downward vertical force of 200,000 pounds without failure. Locomotives required to be constructed in accordance with subpart D of part 229 of this chapter shall have an anti-climbing mechanism in compliance with § 229.206 of this chapter, in lieu of the requirements of this paragraph.
 
-[75 FR 1227, Jan. 8, 2010]
+[75 FR 1227, Jan. 8, 2010, as amended at 83 FR 59219, Nov. 21, 2018]

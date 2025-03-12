@@ -96,4 +96,4 @@ The following procedures and restrictions apply to licensee modifications of aut
 
 (e) Any electrical and mechanical modification to authorized transmitting equipment that is not otherwise restricted by the preceding provisions of this section, may be made without FCC notification or authorization. Equipment performance measurements must be made within ten days after completing the modifications (See § 73.1590). An informal statement, diagram, etc., describing the modification must be retained at the transmitter site for as long as the equipment is in use.
 
-[47 FR 8590, Mar. 1, 1982]Editorial Note:For Federal Register citations affecting § 73.1690, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 8590, Mar. 1, 1982]Editorial Note:For Federal Register citations affecting § 73.1690, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

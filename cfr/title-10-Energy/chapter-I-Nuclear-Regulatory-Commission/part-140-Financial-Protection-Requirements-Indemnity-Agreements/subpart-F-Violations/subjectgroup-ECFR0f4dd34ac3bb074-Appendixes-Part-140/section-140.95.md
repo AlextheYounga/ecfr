@@ -134,4 +134,4 @@ By \_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_By \_\_\_\_\_
 
 Dated at Bethesda, MD, the \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_.
 
-[27 FR 2887, Mar. 29, 1962]Editorial Note:For Federal Register citations affecting § 140.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[27 FR 2887, Mar. 29, 1962]Editorial Note:For Federal Register citations affecting § 140.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

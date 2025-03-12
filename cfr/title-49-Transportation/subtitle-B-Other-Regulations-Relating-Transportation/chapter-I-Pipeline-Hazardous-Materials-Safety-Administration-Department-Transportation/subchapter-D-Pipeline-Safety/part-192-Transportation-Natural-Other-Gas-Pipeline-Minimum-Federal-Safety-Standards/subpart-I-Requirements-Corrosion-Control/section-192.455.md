@@ -1,8 +1,6 @@
 ##### § 192.455 External corrosion control: Buried or submerged pipelines installed after July 31, 1971. #####
 
-Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
-
-(a) Except as provided in paragraphs (b), (c), and (f) of this section, each buried or submerged pipeline installed after July 31, 1971, must be protected against external corrosion, including the following:
+(a) Except as provided in paragraphs (b), (c), (f), and (g) of this section, each buried or submerged pipeline installed after July 31, 1971, must be protected against external corrosion, including the following:
 
 (1) It must have an external protective coating meeting the requirements of § 192.461.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
 
 (b) An operator need not comply with paragraph (a) of this section, if the operator can demonstrate by tests, investigation, or experience in the area of application, including, as a minimum, soil resistivity measurements and tests for corrosion accelerating bacteria, that a corrosive environment does not exist. However, within 6 months after an installation made pursuant to the preceding sentence, the operator shall conduct tests, including pipe-to-soil potential measurements with respect to either a continuous reference electrode or an electrode using close spacing, not to exceed 20 feet (6 meters), and soil resistivity measurements at potential profile peak locations, to adequately evaluate the potential profile along the entire pipeline. If the tests made indicate that a corrosive condition exists, the pipeline must be cathodically protected in accordance with paragraph (a)(2) of this section.
 
-(c) An operator need not comply with paragraph (a) of this section, if the operator can demonstrate by tests, investigation, or experience that -
+(c) An operator need not comply with paragraph (a) of this section, if the operator can demonstrate by tests, investigation, or experience that—
 
 (1) For a copper pipeline, a corrosive environment does not exist; or
 
@@ -26,4 +24,6 @@ Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
 
 (2) The fitting is designed to prevent leakage caused by localized corrosion pitting.
 
-[Amdt. 192-4, 36 FR 12302, June 30, 1971, as amended at Amdt. 192-28, 42 FR 35654, July 11, 1977; Amdt. 192-39, 47 FR 9844, Mar. 8, 1982; Amdt. 192-78, 61 FR 28785, June 6, 1996; Amdt. 192-85, 63 FR 37504, July 13, 1998]
+(g) Electrically isolated metal alloy fittings installed after January 22, 2019, that do not meet the requirements of paragraph (f) must be cathodically protected, and must be maintained in accordance with the operator's integrity management plan.
+
+[Amdt. 192-4, 36 FR 12302, June 30, 1971, as amended at Amdt. 192-28, 42 FR 35654, July 11, 1977; Amdt. 192-39, 47 FR 9844, Mar. 8, 1982; Amdt. 192-78, 61 FR 28785, June 6, 1996; Amdt. 192-85, 63 FR 37504, July 13, 1998; Amdt. 192-124, 83 FR 58719, Nov. 20, 2018]

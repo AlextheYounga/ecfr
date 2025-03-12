@@ -168,4 +168,4 @@
 
 (d) In accordance with section 121 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10141), the promulgation of technical requirements and criteria that the Commission will apply in approving or disapproving applications under part 60 or 63 of this chapter shall not require an environmental impact statement, an environmental assessment, or any environmental review under subparagraph (E) or (F) of section 102(2) of NEPA.
 
-[49 FR 9381, Mar. 12, 1984]Editorial Note:For Federal Register citations affecting § 51.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[49 FR 9381, Mar. 12, 1984]Editorial Note:For Federal Register citations affecting § 51.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

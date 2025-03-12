@@ -180,4 +180,4 @@ A copy of this application is available for public inspection during our regular
 
 (i) Paragraphs (a) through (h) of this section apply to major amendments to license renewal applications. See § 73.3578(a).
 
-[44 FR 38504, July 2, 1979]Editorial Note:For Federal Register citations affecting § 73.3580, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 38504, July 2, 1979]Editorial Note:For Federal Register citations affecting § 73.3580, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

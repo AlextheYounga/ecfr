@@ -1,7 +1,5 @@
 ##### § 192.3 Definitions. #####
 
-Link to an amendment published at 83 FR 58715, Nov. 20, 2018.
-
 As used in this part:
 
 *Abandoned* means permanently removed from service.
@@ -96,8 +94,10 @@ A large volume customer may receive similar volumes of gas as a distribution cen
 
 (3) A solution-mined salt cavern reservoir, including associated material and equipment used for injection, withdrawal, monitoring, or observation wells, and wellhead equipment, piping, rights-of-way, property, buildings, compressor units, separators, metering equipment, and regulator equipment.
 
+*Weak link* means a device or method used when pulling polyethylene pipe, typically through methods such as horizontal directional drilling, to ensure that damage will not occur to the pipeline by exceeding the maximum tensile stresses allowed.
+
 *Welder* means a person who performs manual or semi-automatic welding.
 
 *Welding operator* means a person who operates machine or automatic welding equipment.
 
-[Amdt. 192-13, 38 FR 9084, Apr. 10, 1973]Editorial Note:For Federal Register citations affecting § 192.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 192-13, 38 FR 9084, Apr. 10, 1973]Editorial Note:For Federal Register citations affecting § 192.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

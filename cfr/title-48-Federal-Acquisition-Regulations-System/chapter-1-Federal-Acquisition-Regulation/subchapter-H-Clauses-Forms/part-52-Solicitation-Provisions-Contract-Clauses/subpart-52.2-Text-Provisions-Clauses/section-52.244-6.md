@@ -1,10 +1,8 @@
 ##### 52.244-6 Subcontracts for Commercial Items. #####
 
-Link to an amendment published at 83 FR 65478, Dec. 20, 2018.
-
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (Oct 2018)
+Subcontracts for Commercial Items (JAN 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -40,7 +38,7 @@ Subcontracts for Commercial Items (Oct 2018)
 
 (xii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496), if flow down is required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(xiii)(A) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
+(xiii)(A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627).
 
 (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
@@ -62,4 +60,4 @@ Subcontracts for Commercial Items (Oct 2018)
 
 (d) The Contractor shall include the terms of this clause, including this paragraph (d), in subcontracts awarded under this contract.
 
-(End of clause)[60 FR 48256, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.244-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(End of clause)[60 FR 48256, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.244-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

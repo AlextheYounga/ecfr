@@ -1,7 +1,5 @@
 ##### § 543.23 What are the minimum internal control standards for audit and accounting? #####
 
-Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
-
 (a) *Conflicts of standards.* When establishing SICS, the gaming operation should review, and consider incorporating, other external standards such as GAAP, GAAS, and standards promulgated by GASB and FASB. In the event of a conflict between the MICS and the incorporated external standards, the external standards prevail.
 
 (b) *Accounting.* Controls must be established and procedures implemented to safeguard assets and ensure each gaming operation:
@@ -52,7 +50,7 @@ Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
 
 (vii) Lines of credit procedures, including establishment of lines of credit policy;
 
-(viii) Drop and count standards, including supervision, count room access, count team, card game drop standards, player interface and financial instrument drop standards, card game count standards, player interface financial instrument count standards, and controlled keys;
+(viii) Drop and count standards, including supervision, count room access, count team, card game drop standards, player interface and financial instrument drop standards, card game count standards, player interface financial instrument count standards, collecting currency cassettes and financial instrument storage components from kiosks, kiosk count standards, and controlled keys;
 
 (ix) Cage, vault, cash and cash equivalent procedures, including supervision, cash and cash equivalents, personal checks, cashier's checks, traveler's checks, payroll checks, and counter checks, cage and vault accountability, kiosks, patron deposited funds, promotional payouts, drawings, and giveaway programs, chip and token standards, and cage and vault access;
 
@@ -103,3 +101,5 @@ Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
 (ii) If the CPA determines that the internal audit procedures performed during the fiscal year have been properly completed, the CPA may rely on the work of the internal audit for the completion of the MICS checklists as they relate to the standards covered by this part.
 
 (4) *Report format.* The SSAEs are applicable to agreed-upon procedures engagements required in this part. All noted instances of noncompliance with the MICS and/or the TICS or SICS, if they provide the same level of controls as the MICS, must be documented in the report with a narrative description, the number of exceptions and sample size tested.
+
+[77 FR 58712, Sept. 21, 2012, as amended at 83 FR 65509, Dec. 21, 2018]

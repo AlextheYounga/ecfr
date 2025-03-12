@@ -1,0 +1,17 @@
+##### § 1045.5 What is the purpose of this part? #####
+
+(a) This part implements sections 141, 142, and 146 of the Atomic Energy Act, as amended (42 U.S.C. 2011 *et seq.*) (AEA) and describes the procedures to be used by the public in questioning or appealing DOE decisions regarding the classification of NSI under E.O. 13526, and 32 CFR part 2001, *Classified National Security Information.* This part is divided into six subparts:
+
+(1) Subpart A—“Introduction” specifies to whom these rules apply, describes how to submit comments or suggestions concerning the policies and procedures in this part, describes how to request an exemption from or an equivalency to a provision in this part; outlines sanctions imposed for violating the policies and procedures in this part; defines key terms; and lists acronyms used in this part.
+
+(2) Subpart B—“Program Management of Restricted Data (RD), Formerly Restricted Data (RD), and Transclassified Foreign Nuclear Information (TFNI) Classification Programs” specifies responsibilities of officials in DOE and other agencies in the role of identifying RD, transclassifying RD to FRD or to TFNI, and returning FRD or TFNI to RD; discusses the systematic declassification review of information/matter containing RD, FRD, or TFNI; and describes the “no comment” policy.
+
+(3) Subpart C—“Determining if Information is RD, FRD, or TFNI” describes how information is initially classified as RD, transclassified as FRD or TFNI, or declassified; lists criteria for evaluating whether RD, FRD, or TFNI should be classified or declassified; describes the prohibitions against classifying information as RD, FRD, or TFNI; lists areas of information that are presumed to be RD or unclassified; specifies how privately generated information may be classified as RD; defines the classification levels; describes how to submit proposals for RD, FRD, and TFNI; describes how to challenge the classification or declassification of RD, FRD, or TFNI; and describes the issuance of classification guides to promulgate classification and declassification determinations.
+
+(4) Subpart D—“Classifying and Declassifying Matter Containing RD, FRD, or TFNI” describes who has the authority to classify and declassify matter containing RD, FRD, or TFNI; the appointment and training of these individuals; discusses the use of classified addendums; describes classification by association or compilation; specifies who must review matter that potentially contains RD, FRD, or TFNI intended for public release; describes what to do if an RD Derivative Classifier or a person trained to classify matter containing TFNI cannot locate classification guidance to make a determination; describes the classification and declassification marking requirements; and states the prohibition against the automatic declassification of matter containing RD, FRD, or TFNI.
+
+(5) Subpart E—“Government-wide Procedures for Handling Freedom of Information Act (FOIA) and Mandatory Declassification Review (MDR) Requests for Matter Marked as or Potentially Containing RD, FRD, or TFNI” describes how agencies process FOIA or MDR requests and appeals for matter marked as or potentially containing RD, FRD, or TFNI.
+
+(6) Subpart F—“DOE Procedures for MDR Requests” describes how DOE FOIA and MDR requests and appeals for matter marked as or potentially containing NSI, RD, FRD, or TFNI are submitted and processed.
+
+(b) [Reserved].

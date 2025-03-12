@@ -61,4 +61,4 @@ Schedule of Facility Fees
 
 <sup>6</sup> Because the Consolidated Appropriations Act, 2018, excludes international activities from the fee-recoverable budget in fiscal year 2018, import and export licensing actions will not be charged fees.
 
-[53 FR 52648, Dec. 29, 1988]Editorial Note:For Federal Register citations affecting § 170.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[53 FR 52648, Dec. 29, 1988]Editorial Note:For Federal Register citations affecting § 170.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

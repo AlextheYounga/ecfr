@@ -66,4 +66,4 @@
 
 (9) As provided in part 76 of this chapter, the regulations of this part establish procedures and criteria for physical security for the issuance of a certificate of compliance or the approval of a compliance plan.
 
-[44 FR 68186, Nov. 28, 1979]Editorial Note:For Federal Register citations affecting § 73.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 68186, Nov. 28, 1979]Editorial Note:For Federal Register citations affecting § 73.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

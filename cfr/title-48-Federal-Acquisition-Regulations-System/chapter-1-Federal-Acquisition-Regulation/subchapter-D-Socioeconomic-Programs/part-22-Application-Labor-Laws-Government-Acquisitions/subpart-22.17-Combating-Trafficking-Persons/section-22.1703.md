@@ -1,7 +1,5 @@
 ##### 22.1703 Policy. #####
 
-Link to an amendment published at 83 FR 65477, Dec. 20, 2018.
-
 The United States Government has adopted a policy prohibiting trafficking in persons, including the trafficking-related activities below. Additional information about trafficking in persons may be found at the Web site for the Department of State's Office to Monitor and Combat Trafficking in Persons at *http://www.state.gov/j/tip*/. Government solicitations and contracts shall -
 
 (a) Prohibit contractors, contractor employees, subcontractors, subcontractor employees, and their agents from -
@@ -14,11 +12,11 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (4) Destroying, concealing, confiscating, or otherwise denying access by an employee to the employee's identity or immigration documents, such as passports or drivers' licenses, regardless of issuing authority;
 
-(5)(i) Using misleading or fraudulent practices during the recruitment of employees or offering of employment, such as failing to disclose, in a format and language accessible to the worker, basic information or making material misrepresentations during the recruitment of employees regarding the key terms and conditions of employment, including wages and fringe benefits, the location of work, the living conditions, housing and associated costs (if employer or agent provided or arranged), any significant costs to be charged to the employee, and, if applicable, the hazardous nature of the work;
+(5)(i) Using misleading or fraudulent practices during the recruitment of employees or offering of employment, such as failing to disclose, in a format and language understood by the employee or potential employee, basic information or making material misrepresentations during the recruitment of employees regarding the key terms and conditions of employment, including wages and fringe benefits, the location of work, the living conditions, housing and associated costs (if employer or agent provided or arranged), any significant costs to be charged to the employee or potential employee, and, if applicable, the hazardous nature of the work;
 
 (ii) Using recruiters that do not comply with local labor laws of the country in which the recruiting takes place;
 
-(6) Charging employees recruitment fees;
+(6) Charging employees or potential employees recruitment fees;
 
 (7)(i)(A) Failing to provide return transportation or pay for the cost of return transportation upon the end of employment, for an employee who is not a national of the country in which the work is taking place and who was brought into that country for the purpose of working on a U.S. Government contract or subcontract, for portions of contracts and subcontracts performed outside the United States; or
 
@@ -90,4 +88,4 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (e) Provide suitable remedies, including termination, to be imposed on contractors that fail to comply with the requirements of paragraphs (a) through (d) of this section.
 
-[72 FR 46341, Aug. 17, 2007, as amended at 74 FR 2744, Jan. 15, 2009; 80 FR 4987, Jan. 29, 2015]
+[72 FR 46341, Aug. 17, 2007, as amended at 74 FR 2744, Jan. 15, 2009; 80 FR 4987, Jan. 29, 2015; 83 FR 65477, Dec. 20, 2018]

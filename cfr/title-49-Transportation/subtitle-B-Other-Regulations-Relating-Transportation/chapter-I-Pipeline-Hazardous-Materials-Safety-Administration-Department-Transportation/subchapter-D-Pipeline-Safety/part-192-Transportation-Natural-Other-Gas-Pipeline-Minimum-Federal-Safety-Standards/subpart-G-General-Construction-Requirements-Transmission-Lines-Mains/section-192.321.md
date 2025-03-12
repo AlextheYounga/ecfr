@@ -1,18 +1,16 @@
 ##### § 192.321 Installation of plastic pipe. #####
 
-Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
-
-(a) Plastic pipe must be installed below ground level except as provided by paragraphs (g) and (h) of this section.
+(a) Plastic pipe must be installed below ground level except as provided in paragraphs (g), (h), and (i) of this section.
 
 (b) Plastic pipe that is installed in a vault or any other below grade enclosure must be completely encased in gas-tight metal pipe and fittings that are adequately protected from corrosion.
 
 (c) Plastic pipe must be installed so as to minimize shear or tensile stresses.
 
-(d) Thermoplastic pipe that is not encased must have a minimum wall thickness of 0.090 inch (2.29 millimeters), except that pipe with an outside diameter of 0.875 inch (22.3 millimeters) or less may have a minimum wall thickness of 0.062 inch (1.58 millimeters).
+(d) Plastic pipe must have a minimum wall thickness in accordance with § 192.121.
 
 (e) Plastic pipe that is not encased must have an electrically conducting wire or other means of locating the pipe while it is underground. Tracer wire may not be wrapped around the pipe and contact with the pipe must be minimized but is not prohibited. Tracer wire or other metallic elements installed for pipe locating purposes must be resistant to corrosion damage, either by use of coated copper wire or by other means.
 
-(f) Plastic pipe that is being encased must be inserted into the casing pipe in a manner that will protect the plastic. The leading end of the plastic must be closed before insertion.
+(f) Plastic pipe that is being encased must be inserted into the casing pipe in a manner that will protect the plastic. Plastic pipe that is being encased must be protected from damage at all entrance and all exit points of the casing. The leading end of the plastic must be closed before insertion.
 
 (g) Uncased plastic pipe may be temporarily installed above ground level under the following conditions:
 
@@ -28,6 +26,14 @@ Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
 
 (2) Protected from ultraviolet radiation; and
 
-(3) Not allowed to exceed the pipe temperature limits specified in § 192.123.
+(3) Not allowed to exceed the pipe temperature limits specified in § 192.121.
 
-[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-78, 61 FR 28784, June 6, 1996; Amdt. 192-85, 63 FR 37503, July 13, 1998; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-94, 69 FR 32895, June 14, 2004]
+(i) Plastic mains may terminate above ground level provided they comply with the following:
+
+(1) The above-ground level part of the plastic main is protected against deterioration and external damage.
+
+(2) The plastic main is not used to support external loads.
+
+(3) Installations of risers at regulator stations must meet the design requirements of § 192.204.
+
+[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-78, 61 FR 28784, June 6, 1996; Amdt. 192-85, 63 FR 37503, July 13, 1998; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-94, 69 FR 32895, June 14, 2004; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018]

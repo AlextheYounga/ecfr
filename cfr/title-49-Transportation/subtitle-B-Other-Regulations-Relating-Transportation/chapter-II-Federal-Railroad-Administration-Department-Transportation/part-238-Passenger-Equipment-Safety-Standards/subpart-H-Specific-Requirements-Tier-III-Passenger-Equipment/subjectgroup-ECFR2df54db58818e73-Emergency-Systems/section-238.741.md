@@ -1,0 +1,9 @@
+##### § 238.741 Emergency window egress and rescue access. #####
+
+(a) *Emergency window egress and rescue access plan.* If a passenger car in a Tier III trainset is not designed to comply with the requirements in § 238.113 or § 238.114, the railroad shall submit to FRA for approval an emergency window egress and rescue access plan during the design review stage. The plan must include, but is not limited to, the elements in this section.
+
+(b) *Ease of operability.* If an emergency window exit in a passenger car requires the use of a tool, other implement (*e.g.,* hammer), or a mechanism to permit removal of the window panel from the inside of the car during an emergency situation, then the plan must demonstrate the use of the device provides a level of safety equivalent to that required by § 238.113(b). In particular, the plan must address the location, design, and signage and instructions for the device. The railroad shall also include a provision in its Tier III ITM program to inspect for the presence of the device at least each day the car is in service.
+
+(c) *Dimensions.* If the dimensions of a window opening in a passenger car do not comply with the requirements in § 238.113 or § 238.114, then the plan must demonstrate that at least an equivalent level of safety is provided.
+
+(d) *Alternative emergency evacuation openings.* If a passenger car employs the use of emergency egress panels or additional door exits instead of emergency window exits or rescue access windows, then the plan must demonstrate that such alternative emergency evacuation openings provide a level of safety at least equivalent to that required by § 238.113 or § 238.114, or both as appropriate. The plan must address the location, design, and signage and instructions for the alternative emergency evacuation openings.

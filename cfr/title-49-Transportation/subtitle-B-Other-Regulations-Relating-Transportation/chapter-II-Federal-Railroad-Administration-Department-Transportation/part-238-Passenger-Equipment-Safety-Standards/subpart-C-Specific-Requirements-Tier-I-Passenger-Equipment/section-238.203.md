@@ -1,8 +1,6 @@
 ##### § 238.203 Static end strength. #####
 
-Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
-
-(a)(1) Except as further specified in this paragraph or in paragraph (d), on or after November 8, 1999 all passenger equipment shall resist a minimum static end load of 800,000 pounds applied on the line of draft without permanent deformation of the body structure.
+(a)(1) Except as further specified in this paragraph (a), paragraph (d) of this section, and § 238.201(b)(2), on or after November 8, 1999, all passenger equipment shall resist a minimum static end load of 800,000 pounds applied on the line of draft without permanent deformation of the body structure.
 
 (2) For a passenger car or a locomotive, the static end strength of unoccupied volumes may be less than 800,000 pounds if:
 
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (c) When overloaded in compression, the body structure of passenger equipment shall be designed, to the maximum extent possible, to fail by buckling or crushing, or both, of structural members rather than by fracture of structural members or failure of structural connections.
 
-(d) *Grandfathering of non-compliant equipment for use on a specified rail line or lines* - (1) *Grandfathering approval is equipment and line specific.* Grandfathering approval of non-compliant equipment under this paragraph is limited to usage of the equipment on a particular rail line or lines. Before grandfathered equipment can be used on another rail line, a railroad must file and secure approval of a grandfathering petition under paragraph (d)(3) of this section.
+(d) *Grandfathering of non-compliant equipment for use on a specified rail line or lines*—(1) *Grandfathering approval is equipment and line specific.* Grandfathering approval of non-compliant equipment under this paragraph is limited to usage of the equipment on a particular rail line or lines. Before grandfathered equipment can be used on another rail line, a railroad must file and secure approval of a grandfathering petition under paragraph (d)(3) of this section.
 
 (2) *Temporary usage of non-compliant equipment.* Any passenger equipment placed in service on a rail line or lines before November 8, 1999 that does not comply with the requirements of paragraph (a)(1) may continue to be operated on that particular line or (those particular lines) if the operator of the equipment files a petition seeking grandfathering approval under paragraph (d)(3) before November 8, 1999. Such usage may continue while the petition is being processed, but in no event later than May 8, 2000, unless the petition is approved.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (4) When FRA grants or denies a petition, or reopens consideration of the petition, written notice is sent to the petitioner and other interested parties.
 
-[64 FR 25660, May 12, 1999, as amended at 64 FR 70196, Dec. 16, 1999; 67 FR 19991, Apr. 23, 2002; 74 FR 25174, May 27, 2009]
+[64 FR 25660, May 12, 1999, as amended at 64 FR 70196, Dec. 16, 1999; 67 FR 19991, Apr. 23, 2002; 74 FR 25174, May 27, 2009; 83 FR 59219, Nov. 21, 2018]

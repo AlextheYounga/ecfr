@@ -1,0 +1,3 @@
+##### § 238.711 End structure integrity of cab end. #####
+
+The cab ends of Tier III trainsets shall comply with the requirements of appendix F to this part to demonstrate the integrity of the end structure. For those units of Tier III trainsets without identifiable corner or collision posts, the requirements of appendix F to this part apply to the end structure at each location specified, regardless of whether the structure is a post.

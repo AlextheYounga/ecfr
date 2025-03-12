@@ -1,8 +1,6 @@
 ##### § 229.5 Definitions. #####
 
-Link to an amendment published at 83 FR 59217, Nov. 21, 2018.
-
-As used in this part -
+As used in this part—
 
 *AAR* means the Association of American Railroads.
 
@@ -46,7 +44,7 @@ As used in this part -
 
 *dB(A)* means the sound pressure level in decibels measured on the A-weighted scale.
 
-*Dead locomotive* means -
+*Dead locomotive* means—
 
 (1) A locomotive, other than a control cab locomotive, that does not have any traction device supplying tractive power; or
 
@@ -62,7 +60,7 @@ As used in this part -
 
 (2) The locomotive is not occupied by operating or deadhead crews outside a single yard area; and
 
-(3) The locomotive is stenciled “Designated Service - DO NOT OCCUPY.”
+(3) The locomotive is stenciled “Designated Service—DO NOT OCCUPY.”
 
 *Design standard* means a criterion adopted by an industry or voluntary consensus standards body, which addresses the design of a locomotive with respect to its crashworthiness and crashworthiness features.
 
@@ -96,7 +94,7 @@ As used in this part -
 
 *Lite locomotive* means a locomotive or a consist of locomotives not attached to any piece of equipment or attached only to a caboose.
 
-*Locomotive* means a piece of on-track equipment other than hi-rail, specialized maintenance, or other similar equipment -
+*Locomotive* means a piece of on-track equipment other than hi-rail, specialized maintenance, or other similar equipment—
 
 (1) With one or more propelling motors designed for moving other equipment;
 
@@ -120,7 +118,7 @@ As used in this part -
 
 *Monocoque design locomotive* means a locomotive design where the shell or skin acts as a single unit with the supporting frame to resist and transmit the loads acting on the locomotive.
 
-*MU locomotive* means a multiple unit operated electric locomotive -
+*MU locomotive* means a multiple unit operated electric locomotive—
 
 (1) With one or more propelling motors designed to carry freight or passenger traffic or both; or
 
@@ -188,7 +186,7 @@ As used in this part -
 
 (2) A value converted from a percentage to a comparable 0 to 8 digital signal.
 
-*Tier II* means operating at speeds exceeding 125 mph but not exceeding 150 mph.
+*Tier II* means operating at speeds exceeding 125 mph but not exceeding 160 mph.
 
 *Time* means either “time-of-day” or “elapsed time” (from an arbitrarily determined event) as determined by the manufacturer. In either case, the recorder must be able to convert to an accurate time-of-day with the time zone stated unless it is Greenwich mean time (UTC).
 
@@ -206,4 +204,4 @@ As used in this part -
 
 *Wide-nose locomotive* means a locomotive with a short hood that spans the full width of the locomotive.
 
-[70 FR 37938, June 30, 2005, as amended at 71 FR 36911, June 28, 2006; 71 FR 47666, Aug. 17, 2006; 71 FR 61857, Oct. 19, 2006; 71 FR 63136, Oct. 27, 2006; 72 FR 59223, Oct. 19, 2007; 77 FR 21342, Apr. 9, 2012]
+[70 FR 37938, June 30, 2005, as amended at 71 FR 36911, June 28, 2006; 71 FR 47666, Aug. 17, 2006; 71 FR 61857, Oct. 19, 2006; 71 FR 63136, Oct. 27, 2006; 72 FR 59223, Oct. 19, 2007; 77 FR 21342, Apr. 9, 2012; 83 FR 59217, Nov. 21, 2018]

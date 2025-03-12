@@ -1,7 +1,5 @@
 ##### § 9.2 Effective date; applications. #####
 
-Link to an amendment published at 83 FR 65528, Dec. 21, 2018.
-
 (a) The effective date of Servicemembers' Group Life Insurance will be in accordance with provisions set forth in 38 U.S.C. 1967.
 
 (b) The effective date of Veterans' Group Life Insurance will be as follows:
@@ -13,6 +11,8 @@ Link to an amendment published at 83 FR 65528, Dec. 21, 2018.
 (3) For members who qualify for coverage under 38 U.S.C. 1967(b), the effective date shall be the 121st day after termination of duty. An application, the initial premium, and proof of disability must be received by the administrative office within 120 days following termination of duty.
 
 (4) For members of the Individual Ready Reserve or the Inactive National Guard, the effective date shall be the date an application and the initial premium are received by the administrative office. The application and initial premium must be received by the administrative office within 120 days of becoming a member of either organization.
+
+(5) Pursuant to 38 U.S.C. 1977(a)(3), former members under the age of 60 can elect to increase their Veterans' Group Life Insurance coverage by $25,000, up to the existing Servicemembers' Group Life Insurance maximum. The insured's first opportunity to elect to increase coverage is on the one-year Veterans' Group Life Insurance coverage anniversary date. Thereafter, the insured could elect to increase coverage on the five-year anniversary date of the first VGLI coverage increase election opportunity and subsequently every five years from the anniversary date of the insured's last VGLI coverage increase election opportunity. Increases of less than $25,000 are only available when existing Veterans' Group Life Insurance coverage is within less than $25,000 of the Servicemembers' Group Life Insurance maximum and any increases of less than $25,000 must be only in the amount needed to bring the insurance coverage up to the statutory maximum allowable amount of Servicemembers' Group Life Insurance. The eligible former members must apply for the increased coverage through the administrative office, within 120 days of invitation prior to the initial one-year anniversary date or within 120 days prior to each subsequent five-year coverage anniversary date from the first VGLI coverage increase election opportunity. The increased coverage will be effective from the anniversary date immediately following the election.
 
 (Authority: 38 U.S.C. 1977)
 
@@ -28,4 +28,4 @@ Link to an amendment published at 83 FR 65528, Dec. 21, 2018.
 
 (3) They are legibly postmarked within the time limit required for receipt by the administrative office.
 
-(Authority: 38 U.S.C. 501, 1967, 1968, 1977)[61 FR 20135, May 6, 1996, as amended at 62 FR 35970, July 3, 1997; 77 FR 66071, Nov. 1, 2012; 79 FR 44299, July 31, 2014]
+(Authority: 38 U.S.C. 501, 1967, 1968, 1977)[61 FR 20135, May 6, 1996, as amended at 62 FR 35970, July 3, 1997; 77 FR 66071, Nov. 1, 2012; 79 FR 44299, July 31, 2014; 83 FR 65528, Dec. 21, 2018]

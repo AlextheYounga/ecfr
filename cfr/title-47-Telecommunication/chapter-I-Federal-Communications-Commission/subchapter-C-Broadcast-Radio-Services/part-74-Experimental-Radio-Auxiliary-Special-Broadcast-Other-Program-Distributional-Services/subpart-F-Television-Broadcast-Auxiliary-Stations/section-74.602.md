@@ -275,4 +275,4 @@ Lower band DRL channels2025.000-2025.025 MHz2025.025-2025.050 MHz2025.050-2025.0
 |         6437.5          |          6487.5          |
 |         6462.5          |          6512.5          |
 
-(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082; 47 U.S.C. 154, 155, 303)[28 FR 13718, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 74.602, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082; 47 U.S.C. 154, 155, 303)[28 FR 13718, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 74.602, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

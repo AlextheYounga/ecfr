@@ -1254,4 +1254,4 @@ Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Poli
 
 For the subscribing companies
 
-ByGeneral ManagerEndorsement No.Countersigned by [25 FR 2948, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.91, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+ByGeneral ManagerEndorsement No.Countersigned by [25 FR 2948, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.91, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

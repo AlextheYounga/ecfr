@@ -28,4 +28,4 @@
 
 (5) Shall comply with all terms and conditions of the specific license issued by an Agreement State except such terms or conditions as are contrary to the requirements of this section.
 
-[35 FR 7725, May 20, 1970]Editorial Note:For Federal Register citations affecting § 150.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[35 FR 7725, May 20, 1970]Editorial Note:For Federal Register citations affecting § 150.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

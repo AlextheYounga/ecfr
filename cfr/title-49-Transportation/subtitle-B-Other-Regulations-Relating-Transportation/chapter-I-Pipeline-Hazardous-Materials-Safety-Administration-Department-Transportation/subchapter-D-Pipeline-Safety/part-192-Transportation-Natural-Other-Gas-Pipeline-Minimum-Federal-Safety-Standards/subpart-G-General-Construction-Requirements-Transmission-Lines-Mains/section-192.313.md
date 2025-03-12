@@ -1,7 +1,5 @@
 ##### § 192.313 Bends and elbows. #####
 
-Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
-
 (a) Each field bend in steel pipe, other than a wrinkle bend made in accordance with § 192.315, must comply with the following:
 
 (1) A bend must not impair the serviceability of the pipe.
@@ -18,4 +16,6 @@ Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
 
 (c) Wrought-steel welding elbows and transverse segments of these elbows may not be used for changes in direction on steel pipe that is 2 inches (51 millimeters) or more in diameter unless the arc length, as measured along the crotch, is at least 1 inch (25 millimeters).
 
-[Amdt. 192-26, 41 FR 26018, June 24, 1976, as amended by Amdt. 192-29, 42 FR 42866, Aug. 25, 1977; Amdt. 192-29, 42 FR 60148, Nov. 25, 1977; Amdt. 192-49, 50 FR 13225, Apr. 3, 1985; Amdt. 192-85, 63 FR 37503, July 13, 1998]
+(d) An operator may not install plastic pipe with a bend radius that is less than the minimum bend radius specified by the manufacturer for the diameter of the pipe being installed.
+
+[Amdt. 192-26, 41 FR 26018, June 24, 1976, as amended by Amdt. 192-29, 42 FR 42866, Aug. 25, 1977; Amdt. 192-29, 42 FR 60148, Nov. 25, 1977; Amdt. 192-49, 50 FR 13225, Apr. 3, 1985; Amdt. 192-85, 63 FR 37503, July 13, 1998; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018]

@@ -1,12 +1,12 @@
 ##### § 192.59 Plastic pipe. #####
 
-Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
-
 (a) New plastic pipe is qualified for use under this part if:
 
-(1) It is manufactured in accordance with a listed specification; and
+(1) It is manufactured in accordance with a listed specification;
 
-(2) It is resistant to chemicals with which contact may be anticipated.
+(2) It is resistant to chemicals with which contact may be anticipated; and
+
+(3) It is free of visible defects.
 
 (b) Used plastic pipe is qualified for use under this part if:
 
@@ -14,7 +14,7 @@ Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
 
 (2) It is resistant to chemicals with which contact may be anticipated;
 
-(3) It has been used only in natural gas service;
+(3) It has been used only in gas service;
 
 (4) Its dimensions are still within the tolerances of the specification to which it was manufactured; and
 
@@ -28,4 +28,4 @@ Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
 
 (d) Rework and/or regrind material is not allowed in plastic pipe produced after March 6, 2015 used under this part.
 
-[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-19, 40 FR 10472, Mar. 6, 1975; Amdt. 192-58, 53 FR 1635, Jan. 21, 1988; Amdt. 192-119, 80 FR 180, Jan. 5, 2015]
+[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-19, 40 FR 10472, Mar. 6, 1975; Amdt. 192-58, 53 FR 1635, Jan. 21, 1988; Amdt. 192-119, 80 FR 180, Jan. 5, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018]

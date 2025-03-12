@@ -1,7 +1,5 @@
 ##### § 192.9 What requirements apply to gathering lines? #####
 
-Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
-
 (a) *Requirements.* An operator of a gathering line must follow the safety requirements of this part as prescribed by this section.
 
 (b) *Offshore lines.* An operator of an offshore gathering line must comply with requirements of this part applicable to transmission lines, except the requirements in § 192.150 and in subpart O of this part.
@@ -14,15 +12,17 @@ Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
 
 (2) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines;
 
-(3) Carry out a damage prevention program under § 192.614;
+(3) If the pipeline contains plastic pipe or components, the operator must comply with all applicable requirements of this part for plastic pipe components;
 
-(4) Establish a public education program under § 192.616;
+(4) Carry out a damage prevention program under § 192.614;
 
-(5) Establish the MAOP of the line under § 192.619; and
+(5) Establish a public education program under § 192.616;
 
-(6) Install and maintain line markers according to the requirements for transmission lines in § 192.707.
+(6) Establish the MAOP of the line under § 192.619;
 
-(7) Conduct leakage surveys in accordance with § 192.706 using leak detection equipment and promptly repair hazardous leaks that are discovered in accordance with § 192.703(c).
+(7) Install and maintain line markers according to the requirements for transmission lines in § 192.707; and
+
+(8) Conduct leakage surveys in accordance with the requirements for transmission lines in § 192.706, using leak-detection equipment, and promptly repair hazardous leaks in accordance with § 192.703(c).
 
 (e) *Compliance deadlines.* An operator of a regulated onshore gathering line must comply with the following deadlines, as applicable.
 
@@ -41,4 +41,4 @@ Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
 
 (3) If, after April 14, 2006, a change in class location or increase in dwelling density causes an onshore gathering line to be a regulated onshore gathering line, the operator has 1 year for Type B lines and 2 years for Type A lines after the line becomes a regulated onshore gathering line to comply with this section.
 
-[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015]
+[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018]

@@ -22,4 +22,4 @@
 
 (3) Any application for a license or license renewal filed under the regulations in this part and all other submissions involving a test and research reactor or non-power reactor facility licensed under 10 CFR part 50 and any related inquiry, communication, information, or report must be submitted to the Office of Nuclear Reactor Regulation, Director of the Division of Policy and Rulemaking at the NRC's headquarters, by an appropriate method listed in paragraph (a) of this section.
 
-[52 FR 9460, Mar. 25, 1987]Editorial Note:For Federal Register citations affecting § 55.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 9460, Mar. 25, 1987]Editorial Note:For Federal Register citations affecting § 55.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

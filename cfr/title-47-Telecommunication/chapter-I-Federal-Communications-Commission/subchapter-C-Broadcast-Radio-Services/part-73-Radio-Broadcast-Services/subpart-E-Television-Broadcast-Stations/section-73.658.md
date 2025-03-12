@@ -30,7 +30,7 @@
 
 Note 1:
 
-Contracts, arrangements, or understandings that are complete under the practices of the industry prior to August 7, 1973, will not be disturbed. Extensions or renewals of such agreements are not permitted because they would in effect be new agreements without competitive bidding. However, such agreements that were based on the broadcaster's advancing “seed money” for the production of a specific program or series that specify two time periods - a tryout period and period thereafter for general exhibition - may be extended or renewed as contemplated in the basic agreement.
+Contracts, arrangements, or understandings that are complete under the practices of the industry prior to August 7, 1973, will not be disturbed. Extensions or renewals of such agreements are not permitted because they would in effect be new agreements without competitive bidding. However, such agreements that were based on the broadcaster's advancing “seed money” for the production of a specific program or series that specify two time periods—a tryout period and period thereafter for general exhibition—may be extended or renewed as contemplated in the basic agreement.
 
 Note 2:
 
@@ -44,4 +44,4 @@ Note 4:
 
 New stations authorized in any community of a hyphenated market listed in § 76.51 of this chapter or in any community of a hyphenated market listed in the ARB Television Market Analysis (for markets below the top-100 markets) are subject to the same rules as previously existing stations therein. New stations authorized in other communities are considered stations in separate markets unless and until § 76.51 is amended by Commission action, or the ARB listing is changed.
 
-(Sec. 5, 48 Stat. 1068 (47 U.S.C. 155))[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.658, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Sec. 5, 48 Stat. 1068 (47 U.S.C. 155))[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.658, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,10 +1,8 @@
 ##### 52.222-50 Combating Trafficking in Persons. #####
 
-Link to an amendment published at 83 FR 65478, Dec. 20, 2018.
-
 As prescribed in 22.1705(a)(1), insert the following clause:
 
-Combating Trafficking in Persons (MAR 2015)
+Combating Trafficking in Persons (JAN 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -50,6 +48,66 @@ Combating Trafficking in Persons (MAR 2015)
 
 (2) The abuse or threatened abuse of the legal process.
 
+*Recruitment fees* means fees of any type, including charges, costs, assessments, or other financial obligations, that are associated with the recruiting process, regardless of the time, manner, or location of imposition or collection of the fee.
+
+(1) Recruitment fees include, but are not limited to, the following fees (when they are associated with the recruiting process) for -
+
+(i) Soliciting, identifying, considering, interviewing, referring, retaining, transferring, selecting, training, providing orientation to, skills testing, recommending, or placing employees or potential employees;
+
+(ii) Advertising;
+
+(iii) Obtaining permanent or temporary labor certification, including any associated fees;
+
+(iv) Processing applications and petitions;
+
+(v) Acquiring visas, including any associated fees;
+
+(vi) Acquiring photographs and identity or immigration documents, such as passports, including any associated fees;
+
+(vii) Accessing the job opportunity, including required medical examinations and immunizations; background, reference, and security clearance checks and examinations; and additional certifications;
+
+(viii) An employer's recruiters, agents or attorneys, or other notary or legal fees;
+
+(ix) Language interpretation or translation, arranging for or accompanying on travel, or providing other advice to employees or potential employees;
+
+(x) Government-mandated fees, such as border crossing fees, levies, or worker welfare funds;
+
+(xi) Transportation and subsistence costs -
+
+(A) While in transit, including, but not limited to, airfare or costs of other modes of transportation, terminal fees, and travel taxes associated with travel from the country of origin to the country of performance and the return journey upon the end of employment; and
+
+(B) From the airport or disembarkation point to the worksite;
+
+(xii) Security deposits, bonds, and insurance; and
+
+(xiii) Equipment charges.
+
+(2) A recruitment fee, as described in the introductory text of this definition, is a recruitment fee, regardless of whether the payment is -
+
+(i) Paid in property or money;
+
+(ii) Deducted from wages;
+
+(iii) Paid back in wage or benefit concessions;
+
+(iv) Paid back as a kickback, bribe, in-kind payment, free labor, tip, or tribute; or
+
+(v) Collected by an employer or a third party, whether licensed or unlicensed, including, but not limited to -
+
+(A) Agents;
+
+(B) Labor brokers;
+
+(C) Recruiters;
+
+(D) Staffing firms (including private employment and placement firms);
+
+(E) Subsidiaries/affiliates of the employer;
+
+(F) Any agent or employee of such entities; and
+
+(G) Subcontractors at all tiers.
+
 *Severe forms of trafficking* in persons means -
 
 (1) Sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age; or
@@ -74,11 +132,11 @@ Combating Trafficking in Persons (MAR 2015)
 
 (4) Destroy, conceal, confiscate, or otherwise deny access by an employee to the employee's identity or immigration documents, such as passports or drivers' licenses, regardless of issuing authority;
 
-(5)(i) Use misleading or fraudulent practices during the recruitment of employees or offering of employment, such as failing to disclose, in a format and language accessible to the worker, basic information or making material misrepresentations during the recruitment of employees regarding the key terms and conditions of employment, including wages and fringe benefits, the location of work, the living conditions, housing and associated costs (if employer or agent provided or arranged), any significant cost to be charged to the employee, and, if applicable, the hazardous nature of the work;
+(5)(i) Use misleading or fraudulent practices during the recruitment of employees or offering of employment, such as failing to disclose, in a format and language understood by the employee or potential employee, basic information or making material misrepresentations during the recruitment of employees regarding the key terms and conditions of employment, including wages and fringe benefits, the location of work, the living conditions, housing and associated costs (if employer or agent provided or arranged), any significant costs to be charged to the employee or potential employee, and, if applicable, the hazardous nature of the work;
 
 (ii) Use recruiters that do not comply with local labor laws of the country in which the recruiting takes place;
 
-(6) Charge employees recruitment fees;
+(6) Charge employees or potential employees recruitment fees;
 
 (7)(i) Fail to provide return transportation or pay for the cost of return transportation upon the end of employment -
 
@@ -178,7 +236,7 @@ Combating Trafficking in Persons (MAR 2015)
 
 (ii) A process for employees to report, without fear of retaliation, activity inconsistent with the policy prohibiting trafficking in persons, including a means to make available to all employees the hotline phone number of the Global Human Trafficking Hotline at 1-844-888-FREE and its email address at *help@befree.org.*
 
-(iii) A recruitment and wage plan that only permits the use of recruitment companies with trained employees, prohibits charging recruitment fees to the employee, and ensures that wages meet applicable host-country legal requirements or explains any variance.
+(iii) A recruitment and wage plan that only permits the use of recruitment companies with trained employees, prohibits charging recruitment fees to the employee or potential employee, and ensures that wages meet applicable host-country legal requirements or explains any variance.
 
 (iv) A housing plan, if the Contractor or subcontractor intends to provide or arrange housing, that ensures that the housing meets host-country housing and safety standards.
 
@@ -221,4 +279,4 @@ Combating Trafficking in Persons (MAR 2015)
 
 [*Contracting Officer shall insert title of directive/notice; indicate the document is attached or provide source (such as website link) for obtaining document; and, indicate the contract performance location outside the United States to which the document applies.*]
 
-[71 FR 20303, Apr. 19, 2006, as amended at 72 FR 46341, Aug. 17, 2007; 74 FR 2745, Jan. 15, 2009; 80 FR 4990, Jan. 29, 2015]
+[71 FR 20303, Apr. 19, 2006, as amended at 72 FR 46341, Aug. 17, 2007; 74 FR 2745, Jan. 15, 2009; 80 FR 4990, Jan. 29, 2015; 83 FR 65478, Dec. 20, 2018]

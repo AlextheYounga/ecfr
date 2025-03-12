@@ -142,4 +142,4 @@ This class of material is sometimes referred to as a Category II quantity of mat
 
 *Worker,* when used in Subpart H of this Part, means an individual who receives an occupational dose as defined in 10 CFR 20.1003.
 
-[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*

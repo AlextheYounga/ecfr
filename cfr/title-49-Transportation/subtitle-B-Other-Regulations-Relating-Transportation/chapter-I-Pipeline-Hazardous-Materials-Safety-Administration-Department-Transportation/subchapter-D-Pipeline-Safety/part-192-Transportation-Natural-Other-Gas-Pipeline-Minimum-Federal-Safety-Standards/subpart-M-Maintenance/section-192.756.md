@@ -1,3 +1,5 @@
-##### § 192.756 xxx #####
+##### § 192.756 Joining plastic pipe by heat fusion; equipment maintenance and calibration. #####
 
-Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
+Each operator must maintain equipment used in joining plastic pipe in accordance with the manufacturer's recommended practices or with written procedures that have been proven by test and experience to produce acceptable joints.
+
+[Amdt. 192-124, 83 FR 58719, Nov. 20, 2018]

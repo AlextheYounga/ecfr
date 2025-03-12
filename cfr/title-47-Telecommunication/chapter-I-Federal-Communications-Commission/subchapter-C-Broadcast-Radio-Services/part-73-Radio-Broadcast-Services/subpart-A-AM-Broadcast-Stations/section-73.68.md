@@ -30,4 +30,4 @@ A public notice dated December 9, 1985 giving additional information on approval
 
 (f) If an existing sampling system is found to be patently of marginal construction, or where the performance of a directional antenna is found to be unsatisfactory, and this deficiency reasonably may be attributed, in whole or in part, to inadequacies in the antenna monitoring system, the FCC may require the reconstruction of the sampling system in accordance with requirements specified above.
 
-[41 FR 7405, Feb. 18, 1976]Editorial Note:For Federal Register citations affecting § 73.68, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[41 FR 7405, Feb. 18, 1976]Editorial Note:For Federal Register citations affecting § 73.68, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

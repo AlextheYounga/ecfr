@@ -1,0 +1,11 @@
+##### § 1045.155 How is matter marked as containing RD, FRD, or TFNI declassified? #####
+
+(a) *Declassification of matter containing RD, FRD, or TFNI.* RD, FRD, and TFNI are never automatically declassified. No date or event for automatic declassification ever applies to RD, FRD, or TFNI, even when commingled with NSI. It takes positive action by an authorized person to declassify matter potentially containing or marked as containing RD, FRD, or TFNI.
+
+(b) *Authority to declassify matter containing RD, FRD, or TFNI.* Only authorized persons within DOE may declassify matter marked as RD or TFNI and only authorized persons within DOE or DoD may declassify matter marked as FRD. Only these same persons may identify the portions of classified matter that contain RD, FRD, or TFNI that must be redacted prior to public release.
+
+(c) *Declassification of matter containing RD or TFNI.* Except as allowed under paragraph (b) of this section, only designated persons in DOE may declassify matter marked as containing RD or TFNI or identify the RD or TFNI portions of matter that must be removed from the matter prior to public release. Such determinations must be based on classification guides.
+
+(d) *Declassification of matter containing FRD.* Except as allowed under paragraph (b) of this section, only designated persons in DOE or appropriate persons in DoD (as specified in DoD Instruction 5210.02 or subsequent instructions) may declassify matter marked as containing FRD or determine the FRD portions of matter that must be removed prior to public release. Such determinations must be based on classification guides.
+
+(e) *Delegation of declassification authority.* The Director, Office of Classification, may delegate declassification authority for matter containing RD and TFNI to other agencies Federal and contractor personnel. The Director, Office of Classification, or an appropriate person in DoD (as specified in DoD Instruction 5210.02 or subsequent instructions) may delegate declassification authority for matter containing FRD to qualified Federal or contractor personnel in other agencies.

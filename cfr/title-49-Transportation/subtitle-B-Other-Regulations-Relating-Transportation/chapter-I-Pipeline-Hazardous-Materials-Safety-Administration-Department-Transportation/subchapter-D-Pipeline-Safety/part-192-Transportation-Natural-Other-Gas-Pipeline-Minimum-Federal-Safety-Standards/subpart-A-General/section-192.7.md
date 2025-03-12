@@ -1,7 +1,5 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 83 FR 58715, Nov. 20, 2018.
-
 (a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
 
 (1) *Availability of standards incorporated by reference.* All of the materials incorporated by reference are available for inspection from several sources, including the following:
@@ -44,19 +42,21 @@ Link to an amendment published at 83 FR 58715, Nov. 20, 2018.
 
 (2) ASME/ANSI B16.5-2003, “Pipe Flanges and Flanged Fittings, “October 2004, (ASME/ANSI B16.5), IBR approved for §§ 192.147(a) and 192.279.
 
-(3) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 192.485(c) and 192.933(a).
+(3) ASME B16.40-2008, “Manually Operated Thermoplastic Gas Shutoffs and Valves in Gas Distribution Systems,” March 18, 2008, approved by ANSI, (ASME B16.40-2008), IBR approved for Item I, Appendix B to Part 192.
 
-(4) ASME/ANSI B31.8-2007, “Gas Transmission and Distribution Piping Systems,” November 30, 2007, (ASME/ANSI B31.8), IBR approved for §§ 192.112(b) and 192.619(a).
+(4) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 192.485(c) and 192.933(a).
 
-(5) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” 2004, (ASME/ANSI B31.8S-2004), IBR approved for §§ 192.903 note to *Potential impact radius;* 192.907 introductory text, (b); 192.911 introductory text, (i), (k), (l), (m); 192.913(a), (b), (c); 192.917 (a), (b), (c), (d), (e); 192.921(a); 192.923(b); 192.925(b); 192.927(b), (c); 192.929(b); 192.933(c), (d); 192.935 (a), (b); 192.937(c); 192.939(a); and 192.945(a).
+(5) ASME/ANSI B31.8-2007, “Gas Transmission and Distribution Piping Systems,” November 30, 2007, (ASME/ANSI B31.8), IBR approved for §§ 192.112(b) and 192.619(a).
 
-(6) ASME Boiler & Pressure Vessel Code, Section I, “Rules for Construction of Power Boilers 2007,” 2007 edition, July 1, 2007, (ASME BPVC, Section I), IBR approved for § 192.153(b).
+(6) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” 2004, (ASME/ANSI B31.8S-2004), IBR approved for §§ 192.903 note to *Potential impact radius;* 192.907 introductory text, (b); 192.911 introductory text, (i), (k), (l), (m); 192.913(a), (b), (c); 192.917 (a), (b), (c), (d), (e); 192.921(a); 192.923(b); 192.925(b); 192.927(b), (c); 192.929(b); 192.933(c), (d); 192.935 (a), (b); 192.937(c); 192.939(a); and 192.945(a).
 
-(7) ASME Boiler & Pressure Vessel Code, Section VIII, Division 1 “Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 1), IBR approved for §§ 192.153(a), (b), (d); and 192.165(b).
+(7) ASME Boiler & Pressure Vessel Code, Section I, “Rules for Construction of Power Boilers 2007,” 2007 edition, July 1, 2007, (ASME BPVC, Section I), IBR approved for § 192.153(b).
 
-(8) ASME Boiler & Pressure Vessel Code, Section VIII, Division 2 “Alternate Rules, Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 2), IBR approved for §§ 192.153(b), (d); and 192.165(b).
+(8) ASME Boiler & Pressure Vessel Code, Section VIII, Division 1 “Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 1), IBR approved for §§ 192.153(a), (b), (d); and 192.165(b).
 
-(9) ASME Boiler & Pressure Vessel Code, Section IX: “Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding and Brazing Operators,” 2007 edition, July 1, 2007, ASME BPVC, Section IX, IBR approved for §§ 192.225(a); 192.227(a); and Item II, Appendix B to Part 192.
+(9) ASME Boiler & Pressure Vessel Code, Section VIII, Division 2 “Alternate Rules, Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 2), IBR approved for §§ 192.153(b), (d); and 192.165(b).
+
+(10) ASME Boiler & Pressure Vessel Code, Section IX: “Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding and Brazing Operators,” 2007 edition, July 1, 2007, ASME BPVC, Section IX, IBR approved for §§ 192.225(a); 192.227(a); and Item II, Appendix B to Part 192.
 
 (d) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428, phone: (610) 832-9585, Web site: *http://www.astm.org/.*
 
@@ -80,15 +80,33 @@ Link to an amendment published at 83 FR 58715, Nov. 20, 2018.
 
 (10) ASTM D638-03, “Standard Test Method for Tensile Properties of Plastics,” 2003, (ASTM D638), IBR approved for § 192.283(a) and (b).
 
-(11) ASTM D2513-87, “Standard Specification for Thermoplastic Gas Pressure Pipe, Tubing, and Fittings,” (ASTM D2513-87), IBR approved for § 192.63(a).
+(11) ASTM D2513-12ae1, “Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings,” April 1, 2012, (ASTM D2513-12ae1), IBR approved for Item I, Appendix B to Part 192.
 
-(12) ASTM D2513-99, “Standard Specification for Thermoplastic Gas Pressure Pipe, Tubing, and Fittings,” (ASTM D 2513-99), IBR approved for §§ 192.191(b); 192.281(b); 192.283(a) and Item 1, Appendix B to Part 192.
+(12) ASTM D2517-00, “Standard Specification for Reinforced Epoxy Resin Gas Pressure Pipe and Fittings,” (ASTM D 2517), IBR approved for §§ 192.191(a); 192.281(d); 192.283(a); and Item I, Appendix B to Part 192.
 
-(13) ASTM D2513-09a, “Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings,” approved December 1, 2009, (ASTM D2513-09a), IBR approved for §§ 192.123(e); 192.191(b); 192.283(a); and Item 1, Appendix B to Part 192.
+(13) ASTM D2564-12, “Standard Specification for Solvent Cements for Poly (Vinyl Chloride) (PVC) Plastic Piping Systems,” Aug. 1, 2012, (ASTM D2564-12), IBR approved for § 192.281(b)(2).
 
-(14) ASTM D2517-00, “Standard Specification for Reinforced Epoxy Resin Gas Pressure Pipe and Fittings,” (ASTM D 2517), IBR approved for §§ 192.191(a); 192.281(d); 192.283(a); and Item I, Appendix B to Part 192.
+(14) ASTM F1055-98 (Reapproved 2006), “Standard Specification for Electrofusion Type Polyethylene Fittings for Outside Diameter Controlled Polyethylene Pipe and Tubing,” March 1, 2006, (ASTM F1055-98 (2006)), IBR approved for § 192.283(a), Item I, Appendix B to Part 192.
 
-(15) ASTM F1055-1998, “Standard Specification for Electrofusion Type Polyethylene Fittings for Outside Diameter Controller Polyethylene Pipe and Tubing,” (ASTM F1055), IBR approved for § 192.283(a).
+(15) ASTM F1924-12, “Standard Specification for Plastic Mechanical Fittings for Use on Outside Diameter Controlled Polyethylene Gas Distribution Pipe and Tubing,” April 1, 2012, (ASTM F1924-12), IBR approved for Item I, Appendix B to Part 192.
+
+(16) ASTM F1948-12, “Standard Specification for Metallic Mechanical Fittings for Use on Outside Diameter Controlled Thermoplastic Gas Distribution Pipe and Tubing,” April 1, 2012, (ASTM F1948-12), IBR approved for Item I, Appendix B to Part 192.
+
+(17) ASTM F1973-13, “Standard Specification for Factory Assembled Anodeless Risers and Transition Fittings in Polyethylene (PE) and Polyamide 11 (PA11) and Polyamide 12 (PA12) Fuel Gas Distribution Systems,” May 1, 2013, (ASTM F1973-13), IBR approved for § 192.204(b); and Item I, Appendix B to Part 192.
+
+(18) ASTM F2145-13, “Standard Specification for Polyamide 11 (PA 11) and Polyamide 12 (PA12) Mechanical Fittings for Use on Outside Diameter Controlled Polyamide 11 and Polyamide 12 Pipe and Tubing,” May 1, 2013, (ASTM F2145-13), IBR approved for Item I, Appendix B to Part 192.
+
+(19) ASTM F 2600-09, “Standard Specification for Electrofusion Type Polyamide-11 Fittings for Outside Diameter Controlled Polyamide-11 Pipe and Tubing,” April 1, 2009, (ASTM F 2600-09), IBR approved for Item I, Appendix B to Part 192.
+
+(20) ASTM F2620-12, “Standard Practice for Heat Fusion Joining of Polyethylene Pipe and Fittings,” Aug. 1, 2012, (ASTM F2620-12), IBR approved for §§ 192.281(c) and 192.285(b)(2)(i).
+
+(21) ASTM F2767-12, “Specification for Electrofusion Type Polyamide-12 Fittings for Outside Diameter Controlled Polyamide-12 Pipe and Tubing for Gas Distribution,” Oct. 15, 2012, (ASTM F2767-12), IBR approved for Item I, Appendix B to Part 192.
+
+(22) ASTM F2785-12, “Standard Specification for Polyamide 12 Gas Pressure Pipe, Tubing, and Fittings,” Aug. 1, 2012, (ASTM F2785-12), IBR approved for Item I, Appendix B to Part 192.
+
+(23) ASTM F2817-10, “Standard Specification for Poly (Vinyl Chloride) (PVC) Gas Pressure Pipe and Fittings for Maintenance or Repair,” Feb. 1, 2010, (ASTM F2817-10), IBR approved for Item I, Appendix B to Part 192.
+
+(24) ASTM F2945-12a “Standard Specification for Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings,” Nov. 27, 2012, (ASTM F2945-12a), IBR approved for Item I, Appendix B to Part 192.
 
 (e) Gas Technology Institute (GTI), formerly the Gas Research Institute (GRI)), 1700 S. Mount Prospect Road, Des Plaines, IL 60018, phone: 847-768-0500, Web site: *www.gastechnology.org.*
 
@@ -126,8 +144,8 @@ Link to an amendment published at 83 FR 58715, Nov. 20, 2018.
 
 (j) Plastics Pipe Institute, Inc. (PPI), 105 Decker Court, Suite 825 Irving TX 75062, phone: 469-499-1044, *http://www.plasticpipe.org/.*
 
-(1) PPI TR-3/2008 HDB/HDS/PDB/SDB/MRS Policies (2008), “Policies and Procedures for Developing Hydrostatic Design Basis (HDB), Pressure Design Basis (PDB), Strength Design Basis (SDB), and Minimum Required Strength (MRS) Ratings for Thermoplastic Piping Materials or Pipe, ” May 2008, IBR approved for § 192.121.
+(1) PPI TR-3/2012, HDB/HDS/PDB/SDB/MRS/CRS, Policies, “Policies and Procedures for Developing Hydrostatic Design Basis (HDB), Hydrostatic Design Stresses (HDS), Pressure Design Basis (PDB), Strength Design Basis (SDB), Minimum Required Strength (MRS) Ratings, and Categorized Required Strength (CRS) for Thermoplastic Piping Materials or Pipe,” updated November 2012, (PPI TR-3/2012), IBR approved for § 192.121.
 
-(2) [Reserved]
+(2) PPI TR-4, HDB/HDS/SDB/MRS, Listed Materials, “PPI Listing of Hydrostatic Design Basis (HDB), Hydrostatic Design Stress (HDS), Strength Design Basis (SDB), Pressure Design Basis (PDB) and Minimum Required Strength (MRS) Rating For Thermoplastic Piping Materials or Pipe,” updated March, 2011, (PPI TR-4/2012), IBR approved for § 192.121.
 
-[35 FR 13257, Aug. 19, 1970]Editorial Note:For Federal Register citations affecting § 192.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[35 FR 13257, Aug. 19, 1970]Editorial Note:For Federal Register citations affecting § 192.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

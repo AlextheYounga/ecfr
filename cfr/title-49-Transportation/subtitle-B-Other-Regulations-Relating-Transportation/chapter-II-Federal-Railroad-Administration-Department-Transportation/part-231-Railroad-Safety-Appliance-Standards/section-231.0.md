@@ -1,7 +1,5 @@
 ##### § 231.0 Applicability and penalties. #####
 
-Link to an amendment published at 83 FR 59217, Nov. 21, 2018.
-
 (a) Except as provided in paragraphs (b) and (c) of this section, this part applies to all standard gage railroads.
 
 (b) This part does not apply to:
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 59217, Nov. 21, 2018.
 
 (5) A locomotive used in hauling a train referred to in paragraph (b)(4) of this section when the locomotive and cars of the train are used only to transport logs.
 
-(c) Except for the provisions governing uncoupling devices, this part does not apply to Tier II passenger equipment as defined in § 238.5 of this chapter (*i.e.,* passenger equipment operating at speeds exceeding 125 mph but not exceeding 150 mph).
+(c) Except for the provisions governing uncoupling devices, this part does not apply to Tier II passenger equipment as defined in § 238.5 of this chapter (*i.e.,* passenger equipment operating at speeds exceeding 125 mph but not exceeding 160 mph).
 
 (d) As used in this part, *carrier* means “railroad,” as that term is defined below.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 83 FR 59217, Nov. 21, 2018.
 
 (g) Except as provided in paragraph (b) of this section, § 231.31 also applies to an operation on a 24-inch, 36-inch, or other narrow gage railroad.
 
-[54 FR 33229, Aug. 14, 1989, as amended at 63 FR 11623, Mar. 10, 1998; 64 FR 25660, May 12, 1999; 66 FR 4192, Jan. 17, 2001; 69 FR 30594, May 28, 2004; 72 FR 51197, Sept. 6, 2007; 73 FR 79703, Dec. 30, 2008; 77 FR 24421, Apr. 24, 2012; 81 FR 43111, July 1, 2016; 82 FR 16134, Apr. 3, 2017; 83 FR 60748, Nov. 27, 2018]
+[54 FR 33229, Aug. 14, 1989, as amended at 63 FR 11623, Mar. 10, 1998; 64 FR 25660, May 12, 1999; 66 FR 4192, Jan. 17, 2001; 69 FR 30594, May 28, 2004; 72 FR 51197, Sept. 6, 2007; 73 FR 79703, Dec. 30, 2008; 77 FR 24421, Apr. 24, 2012; 81 FR 43111, July 1, 2016; 82 FR 16134, Apr. 3, 2017; 83 FR 60748, Nov. 27, 2018; 83 FR 59217, Nov. 21, 2018]

@@ -1,5 +1,7 @@
 ##### § 117.791 Hudson River. #####
 
+Link to an amendment published at 83 FR 66623, Dec. 27, 2018.
+
 (a) The draws of the bridges listed in this section shall open as soon as possible at any time for the passage of the following vessels:
 
 (1) Downbound vessels during a freshet of a height exceeding an elevation determined by the District Commander.

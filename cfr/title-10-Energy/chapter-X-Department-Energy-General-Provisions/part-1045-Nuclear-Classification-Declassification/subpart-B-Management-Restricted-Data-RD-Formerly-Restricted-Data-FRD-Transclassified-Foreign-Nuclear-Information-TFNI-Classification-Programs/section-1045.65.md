@@ -1,0 +1,5 @@
+##### § 1045.65 What are the responsibilities of a person with access to RD, FRD, or TFNI, if they see information in the open literature that they think is RD, FRD, or TFNI? #####
+
+(a) A person with access to RD, FRD, or TFNI, must not confirm or expand upon the classification status or technical accuracy of information in the open literature that is RD, FRD, or TFNI or suspected to be RD, FRD, or TFNI. Commenting on such information can cause greater damage to national security by confirming its location, classified nature, or technical accuracy.
+
+(b) Because the open literature may contain information that is still classified as RD, FRD, or TFNI, a person who has access to RD, FRD, or TFNI who incorporates information from the open literature that is potentially classified as RD, FRD, or TFNI into matter must ensure the matter is reviewed as required under § 1045.125 to ensure the information incorporated is not classified.

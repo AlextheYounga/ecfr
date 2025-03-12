@@ -1,0 +1,3 @@
+##### § 238.701 Scope. #####
+
+This subpart contains specific requirements for railroad passenger equipment operating in a shared right-of-way at speeds not exceeding 125 mph and in an exclusive right-of-way without grade crossings at speeds exceeding 125 mph but not exceeding 220 mph. Passenger seating is permitted in the leading unit of a Tier III trainset if the trainset complies with the crashworthiness and occupant protection requirements of this subpart, and the railroad has an approved right-of-way plan under § 213.361 of this chapter and an approved HSR-125 plan under § 236.1007(c) of this chapter. Demonstration of compliance with the requirements of this subpart is subject to FRA review and approval under § 238.111.

@@ -2153,4 +2153,4 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |  Charlotte Amalie  |                   17, 43, \*44                    |
 |   Christiansted    |                    15, 20, 23                     |
 
-[62 FR 26712, May 14, 1997]Editorial Note:For Federal Register citations affecting § 73.622, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 26712, May 14, 1997]Editorial Note:For Federal Register citations affecting § 73.622, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

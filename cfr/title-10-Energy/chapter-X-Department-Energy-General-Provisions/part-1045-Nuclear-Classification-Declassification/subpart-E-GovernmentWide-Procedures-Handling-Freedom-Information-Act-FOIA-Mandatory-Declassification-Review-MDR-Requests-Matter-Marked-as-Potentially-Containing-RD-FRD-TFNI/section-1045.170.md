@@ -1,0 +1,3 @@
+##### § 1045.170 What is the purpose of this subpart? #####
+
+This subpart contains requirements that apply when Federal agencies other than DOE receive FOIA or MDR requests for matter that is marked as or potentially contains RD, FRD, or TFNI. RD, FRD, and TFNI are classified under the Atomic Energy Act and are not subject to the provisions governing MDR requests under E.O. 13526 or successor orders. To ensure RD, FRD, and TFNI are considered and appropriately reviewed when requested under a FOIA or MDR request, this section describes the process Federal agencies must follow for FOIA and MDR requests for matter that is marked as or potentially contains RD, FRD, or TFNI.

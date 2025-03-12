@@ -1,7 +1,5 @@
 ##### § 543.10 What are the minimum internal control standards for card games? #####
 
-Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
-
 (a) *Supervision.* Supervision must be provided as needed during the card room operations by an agent(s) with authority equal to or greater than those being supervised.
 
 (1) A supervisor may function as a dealer without any other supervision if disputes are resolved by supervisory personnel independent of the transaction or independent of the card games department; or
@@ -26,13 +24,13 @@ Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
 
 (3) The replenishment of shill funds must be documented.
 
-(e) *Standards for reconciliation of card room bank.* Two agents - one of whom must be a supervisory agent - must independently count the table inventory at the opening and closing of the table and record the following information:
+(e) *Standards for reconciliation of card room bank.* Two agents—one of whom must be a supervisory agent—must independently count the main card room bank and table inventory at the end of each shift and record the following information:
 
 (1) Date;
 
 (2) Shift;
 
-(3) Table number;
+(3) Table number (if applicable);
 
 (4) Amount by denomination;
 
@@ -95,3 +93,5 @@ Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
 (iii) At least once a day, the locked container must be removed by two agents, one of whom is independent of the card games department, and transported directly to the cage or other secure room to be counted, recorded, and verified, prior to accepting the funds into cage accountability.
 
 (h) *Variances.* The operation must establish, as approved by the TGRA, the threshold level at which a variance must be reviewed to determine the cause. Any such review must be documented.
+
+[77 FR 58712, Sept. 21, 2012, as amended at 83 FR 65508, Dec. 21, 2018]

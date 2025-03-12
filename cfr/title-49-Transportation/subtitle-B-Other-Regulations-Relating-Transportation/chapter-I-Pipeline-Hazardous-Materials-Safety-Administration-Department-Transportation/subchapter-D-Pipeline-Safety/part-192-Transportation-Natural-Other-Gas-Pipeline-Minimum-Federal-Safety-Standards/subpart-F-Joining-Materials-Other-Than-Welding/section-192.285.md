@@ -1,7 +1,5 @@
 ##### § 192.285 Plastic pipe: Qualifying persons to make joints. #####
 
-Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
-
 (a) No person may make a plastic pipe joint unless that person has been qualified under the applicable joining procedure by:
 
 (1) Appropriate training or experience in the use of the procedure; and
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
 
 (2) In the case of a heat fusion, solvent cement, or adhesive joint:
 
-(i) Tested under any one of the test methods listed under § 192.283(a) applicable to the type of joint and material being tested;
+(i) Tested under any one of the test methods listed under § 192.283(a), or for PE heat fusion joints (except for electrofusion joints) visually inspected and tested in accordance with ASTM F2620-12 (incorporated by reference, *see* § 192.7) applicable to the type of joint and material being tested;
 
 (ii) Examined by ultrasonic inspection and found not to contain flaws that would cause failure; or
 
@@ -28,4 +26,4 @@ Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
 
 (d) Each operator shall establish a method to determine that each person making joints in plastic pipelines in the operator's system is qualified in accordance with this section.
 
-[Amdt. 192-34A, 45 FR 9935, Feb. 14, 1980, as amended by Amdt. 192-34B, 46 FR 39, Jan. 2, 1981; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015]
+[Amdt. 192-34A, 45 FR 9935, Feb. 14, 1980, as amended by Amdt. 192-34B, 46 FR 39, Jan. 2, 1981; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018]

@@ -1,7 +1,5 @@
 ##### § 543.17 What are the minimum internal control standards for drop and count? #####
 
-Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
-
 (a) *Supervision.* Supervision must be provided for drop and count as needed by an agent(s) with authority equal to or greater than those being supervised.
 
 (b) *Count room access.* Controls must be established and procedures implemented to limit physical access to the count room to count team agents, designated staff, and other authorized persons. Such controls must include the following:
@@ -30,11 +28,11 @@ Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
 
 (2) At least two agents must be involved in the removal of the drop box, at least one of whom is independent of the card games department.
 
-(4) Once the drop is started, it must continue until finished.
+(3) Once the drop is started, it must continue until finished.
 
-(5) All drop boxes may be removed only at the time previously designated by the gaming operation and reported to the TGRA. If an emergency drop is required, surveillance must be notified before the drop is conducted and the TGRA must be informed within a timeframe approved by the TGRA.
+(4) All drop boxes may be removed only at the time previously designated by the gaming operation and reported to the TGRA. If an emergency drop is required, surveillance must be notified before the drop is conducted and the TGRA must be informed within a timeframe approved by the TGRA.
 
-(6) At the end of each shift:
+(5) At the end of each shift:
 
 (i) All locked card game drop boxes must be removed from the tables by an agent independent of the card game shift being dropped;
 
@@ -42,9 +40,9 @@ Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
 
 (iii) Card game drop boxes must be transported directly to the count room or other equivalently secure area by a minimum of two agents, at least one of whom is independent of the card game shift being dropped, until the count takes place.
 
-(7) All tables that were not open during a shift and therefore not part of the drop must be documented.
+(6) All tables that were not open during a shift and therefore not part of the drop must be documented.
 
-(8) All card game drop boxes must be posted with a number corresponding to a permanent number on the gaming table and marked to indicate game, table number, and shift, if applicable.
+(7) All card game drop boxes must be posted with a number corresponding to a permanent number on the gaming table and marked to indicate game, table number, and shift, if applicable.
 
 (e) *Player interface and financial instrument storage component drop standards.* (1) Surveillance must be notified when the drop is to begin so that surveillance may monitor the activities.
 
@@ -216,14 +214,58 @@ Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
 
 (4) The kiosk financial instrument storage components and currency cassettes must be individually emptied and counted so as to prevent the commingling of funds between kiosks until the count of the kiosk contents has been recorded.
 
-(i) The count of must be recorded in ink or other permanent form of recordation.
+(i) The count of each box must be recorded in ink or other permanent form of recordation.
 
 (ii) Coupons or other promotional items not included in gross revenue (if any) may be recorded on a supplemental document. All single-use coupons must be cancelled daily by an authorized agent to prevent improper recirculation.
 
 (5) Procedures must be implemented to ensure that any corrections to the count documentation are permanent, identifiable, and the original, corrected information remains legible. Corrections must be verified by two agents.
 
-(j) *Controlled keys.* Controls must be established and procedures implemented to safeguard the use, access, and security of keys for kiosks.
+(j) *Controlled keys.* Controls must be established and procedures implemented to safeguard the use, access, and security of keys in accordance with the following:
+
+(1) Each of the following requires a separate and unique key lock or alternative secure access method:
+
+(i) Drop cabinet;
+
+(ii) Drop box release;
+
+(iii) Drop box content; and
+
+(iv) Storage racks and carts used for the drop.
+
+(2) Access to and return of keys or equivalents must be documented with the date, time, and signature or other unique identifier of the agent accessing or returning the key(s).
+
+(i) For Tier A and B operations, at least two (2) drop team agents are required to be present to access and return keys. For Tier C operations, at least three (3) drop team agents are required to be present to access and return keys.
+
+(ii) For Tier A and B operations, at least two (2) count team agents are required to be present at the time count room and other count keys are issued for the count. For Tier C operations, at least three (two for card game drop box keys in operations with three tables or fewer) count team agents are required to be present at the time count room and other count keys are issued for the count.
+
+(3) Documentation of all keys, including duplicates, must be maintained, including:
+
+(i) Unique identifier for each individual key;
+
+(ii) Key storage location;
+
+(iii) Number of keys made, duplicated, and destroyed; and
+
+(iv) Authorization and access.
+
+(4) Custody of all keys involved in the drop and count must be maintained by a department independent of the count and the drop agents as well as those departments being dropped and counted.
+
+(5) Other than the count team, no agent may have access to the drop box content keys while in possession of storage rack keys and/or release keys.
+
+(6) Other than the count team, only agents authorized to remove drop boxes are allowed access to drop box release keys.
+
+(7) Any use of keys at times other than the scheduled drop and count must be properly authorized and documented.
+
+(8) Emergency manual keys, such as an override key, for computerized, electronic, and alternative key systems must be maintained in accordance with the following:
+
+(i) Access to the emergency manual key(s) used to access the box containing the player interface drop and count keys requires the physical involvement of at least three agents from separate departments, including management. The date, time, and reason for access, must be documented with the signatures of all participating persons signing out/in the emergency manual key(s);
+
+(ii) The custody of the emergency manual keys requires the presence of two agents from separate departments from the time of their issuance until the time of their return; and
+
+(iii) Routine physical maintenance that requires access to the emergency manual key(s), and does not involve accessing the player interface drop and count keys, only requires the presence of two agents from separate departments. The date, time, and reason for access must be documented with the signatures of all participating agents signing out/in the emergency manual key(s).
+
+(9) Controls must be established and procedures implemented to safeguard the use, access, and security of keys for kiosks.
 
 (k) *Variances.* The operation must establish, as approved by the TGRA, the threshold level at which a variance must be reviewed to determine the cause. Any such review must be documented.
 
-[77 FR 58712, Sept. 21, 2012, as amended at 78 FR 63874, Oct. 25, 2013]
+[77 FR 58712, Sept. 21, 2012, as amended at 78 FR 63874, Oct. 25, 2013; 83 FR 65508, Dec. 21, 2018]

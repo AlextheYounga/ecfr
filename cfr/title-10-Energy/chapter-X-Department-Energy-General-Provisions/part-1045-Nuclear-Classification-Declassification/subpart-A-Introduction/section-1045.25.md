@@ -1,0 +1,3 @@
+##### § 1045.25 What actions can be taken against a person who violates the requirements in this part? #####
+
+Any knowing, willful, or negligent action contrary to the requirements of this part that results in the misclassification of information is subject to appropriate sanctions. Such sanctions may range from administrative sanctions (*e.g.,* reprimand, suspension, termination) to civil or criminal penalties, depending on the nature and severity of the action as determined by the appropriate authority in accordance with applicable laws. Other violations of the policies and procedures in this part may be grounds for administrative sanctions as determined by an appropriate authority.

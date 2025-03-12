@@ -1,7 +1,5 @@
 ##### § 117.1059 Snohomish River, Steamboat Slough, and Ebey Slough. #####
 
-Link to an amendment published at 83 FR 65301, Dec. 20, 2018.
-
 (a) Drawtenders of bridges listed in this section shall acknowledge sound signals as follows:
 
 (1) When draw can be opened immediately, two prolonged blasts followed by one short blast or three loud and distinct strokes of a bell.
@@ -18,4 +16,6 @@ Link to an amendment published at 83 FR 65301, Dec. 20, 2018.
 
 (f) The draws of the twin SR 529, highway bridges across Steamboat Slough, miles 1.1 and 1.2, near Marysville, shall open on signal if notice is provided at least four hours in advance. Notice for openings shall be given by marine radio or telephone to the drawtender at the twin, SR 529, Highway Bridges across the Snohomish River, mile 3.6. One signal opens both draws. During freshets, a drawtender shall be in constant attendance, and the draws shall open on signal when so ordered by the District Commander.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD13 84-13, 49 FR 35628, Sept. 11, 1984; CGD13 85-10, 50 FR 25961, June 24, 1985; USCG-2018-0443, 83 FR 30039, June 27, 2018]
+(g) The draw of the Burlington Northern Santa Fe Railroad Bridge across Ebey Slough, mile 1.5, near Marysville, WA, shall open on signal if at least four hours notice is given. The opening signal is one prolonged blast followed by one short blast. During freshets, a draw tender shall be in constant attendance, and the draw shall open on signal when so ordered by the District Commander.
+
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD13 84-13, 49 FR 35628, Sept. 11, 1984; CGD13 85-10, 50 FR 25961, June 24, 1985; USCG-2018-0443, 83 FR 30039, June 27, 2018; USCG-2018-0128, 83 FR 65301, Dec. 20, 2018]

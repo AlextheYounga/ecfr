@@ -39,4 +39,4 @@
 
 (1) Form 398, in electronic form as of January 10, 1999.
 
-[44 FR 38486, July 2, 1979]Editorial Note:For Federal Register citations affecting § 73.3500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 38486, July 2, 1979]Editorial Note:For Federal Register citations affecting § 73.3500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
