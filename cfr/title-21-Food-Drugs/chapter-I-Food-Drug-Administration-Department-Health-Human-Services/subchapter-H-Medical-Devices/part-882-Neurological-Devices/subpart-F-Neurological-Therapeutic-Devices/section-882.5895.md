@@ -2,7 +2,7 @@
 
 (a) *Identification.* A vibratory counter-stimulation device is a prescription device that provides electrically powered mechanical vibration to improve the quality of sleep in patients with primary Restless Legs Syndrome.
 
-(b) *Classification.* Class II (special controls). The special controls for this device are:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 882.9. The special controls for this device are:
 
 (1) Appropriate analysis/testing must demonstrate electromagnetic compatibility (EMC), electrical safety, and thermal safety.
 
@@ -24,4 +24,4 @@
 
 (v) Instructions for end users to contact the device manufacturer and MedWatch in case they experience any adverse events when using this device.
 
-[82 FR 13554, Mar. 14, 2017]
+[82 FR 13554, Mar. 14, 2017, as amended at 84 FR 71815, Dec. 30, 2019]

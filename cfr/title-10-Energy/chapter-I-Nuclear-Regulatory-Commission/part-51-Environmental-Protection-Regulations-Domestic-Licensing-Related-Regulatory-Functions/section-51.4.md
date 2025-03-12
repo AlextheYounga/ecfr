@@ -1,7 +1,5 @@
 ##### § 51.4 Definitions. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919) including any amendments thereto.
@@ -62,4 +60,4 @@ As used in this part:
 
 *NRC Staff Director* means:
 
-Executive Director for Operations;Director, Office of Nuclear Reactor Regulation;Director, Office of New Reactors;Director, Office of Nuclear Material Safety and Safeguards;Director, Office of Nuclear Regulatory Research;Director, Office of Governmental and Public Affairs; andThe designee of any NRC staff director.[49 FR 9381, Mar. 12, 1984, as amended at 51 FR 35999, Oct. 8, 1986; 52 FR 31612, Aug. 21, 1987; 72 FR 57443, Oct. 9, 2007; 73 FR 5723, Jan. 31, 2008; 76 FR 56964, Sept. 15, 2011; 77 FR 46599, Aug. 3, 2012; 79 FR 75740, Dec. 19, 2014]
+Executive Director for Operations;Director, Office of Nuclear Reactor Regulation;Director, Office of Nuclear Material Safety and Safeguards;Director, Office of Nuclear Regulatory Research;Director, Office of Governmental and Public Affairs; andThe designee of any NRC staff director.[49 FR 9381, Mar. 12, 1984, as amended at 51 FR 35999, Oct. 8, 1986; 52 FR 31612, Aug. 21, 1987; 72 FR 57443, Oct. 9, 2007; 73 FR 5723, Jan. 31, 2008; 76 FR 56964, Sept. 15, 2011; 77 FR 46599, Aug. 3, 2012; 79 FR 75740, Dec. 19, 2014; 84 FR 65644, Nov. 29, 2019]

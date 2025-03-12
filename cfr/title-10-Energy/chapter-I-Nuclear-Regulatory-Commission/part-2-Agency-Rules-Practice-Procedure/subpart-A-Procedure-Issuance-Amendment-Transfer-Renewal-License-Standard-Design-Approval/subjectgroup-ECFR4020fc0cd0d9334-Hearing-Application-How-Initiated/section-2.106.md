@@ -1,8 +1,6 @@
 ##### § 2.106 Notice of issuance. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
-(a) The Director, Office of New Reactors, Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, will inform the State and local officials specified in § 2.104(c) and publish a document in the Federal Register announcing the issuance of:
+(a) The Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, will inform the State and local officials specified in § 2.104(c) and publish a document in the Federal Register announcing the issuance of:
 
 (1) A license or an amendment of a license for which a notice of proposed action has been previously published;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correctio
 
 (d) The Office of Nuclear Material Safety and Safeguards will also cause to be published in the Federal Register notice of, and will inform the State and local officials or Tribal governing body specified in § 2.104(c) of any licensing action with respect to a license to receive radioactive waste from other persons for disposal under part 61 of this chapter or the amendment of such a license for which a notice of proposed action has been previously published.
 
-[37 FR 15131, July 28, 1972, as amended at 38 FR 9586, Apr. 18, 1973; 46 FR 13978, Feb. 25, 1981; 47 FR 57478, Dec. 27, 1982; 66 FR 55787, Nov. 2, 2001; 69 FR 2235, Jan. 14, 2004; 72 FR 49473, Aug. 28, 2007; 73 FR 5716, Jan. 31, 2008; 77 FR 46590, Aug. 3, 2012]
+[37 FR 15131, July 28, 1972, as amended at 38 FR 9586, Apr. 18, 1973; 46 FR 13978, Feb. 25, 1981; 47 FR 57478, Dec. 27, 1982; 66 FR 55787, Nov. 2, 2001; 69 FR 2235, Jan. 14, 2004; 72 FR 49473, Aug. 28, 2007; 73 FR 5716, Jan. 31, 2008; 77 FR 46590, Aug. 3, 2012; 84 FR 65643, Nov. 29, 2019]

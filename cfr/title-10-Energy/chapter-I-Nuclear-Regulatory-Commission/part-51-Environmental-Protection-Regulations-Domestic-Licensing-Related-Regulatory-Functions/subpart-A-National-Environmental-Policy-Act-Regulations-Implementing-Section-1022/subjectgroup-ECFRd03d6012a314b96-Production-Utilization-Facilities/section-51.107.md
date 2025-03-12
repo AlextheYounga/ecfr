@@ -1,7 +1,5 @@
 ##### § 51.107 Public hearings in proceedings for issuance of combined licenses; limited work authorizations. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) In addition to complying with the applicable requirements of § 51.104, in a proceeding for the issuance of a combined license for a nuclear power reactor under part 52 of this chapter, the presiding officer will:
 
 (1) Determine whether the requirements of Sections 102(2) (A), (C), and (E) of NEPA and the regulations in this subpart have been met;
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correctio
 
 (4) Determine, in an uncontested proceeding, whether the NEPA review conducted by the NRC staff has been adequate; and
 
-(5) Determine, in a contested proceeding, whether in accordance with the regulations in this subpart, the combined license should be issued as proposed by the NRC's Director, Office of New Reactors or Director, Office of Nuclear Reactor Regulation, as appropriate.
+(5) Determine, in a contested proceeding, whether in accordance with the regulations in this subpart, the combined license should be issued as proposed by the NRC's Director, Office of Nuclear Reactor Regulation.
 
 (b) If a combined license application references an early site permit, then the presiding officer in the combined license hearing shall not admit any contention proffered by any party on environmental issues which have been accorded finality under § 52.39 of this chapter, unless the contention:
 
@@ -34,12 +32,12 @@ Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correctio
 
 (iv) In an uncontested proceeding, determine whether the NEPA review conducted by the NRC staff for the limited work authorization has been adequate; and
 
-(v) In a contested proceeding, determine whether, in accordance with the regulations in this subpart, the limited work authorization should be issued as proposed by the Director of New Reactors or the Director of Nuclear Reactor Regulation, as applicable.
+(v) In a contested proceeding, determine whether, in accordance with the regulations in this subpart, the limited work authorization should be issued as proposed by the Director, Office of Nuclear Reactor Regulation.
 
-(2) If the limited work authorization is for activities to be conducted at a site for which the Commission has previously prepared an environmental impact statement for the construction and operation of a nuclear power plant, and a construction permit was issued but construction of the plant was never completed, then in making the determinations in paragraph (c)(1) of this section, the presiding officer shall be limited to a consideration whether there is, with respect to construction activities encompassed by the environmental impact statement which are analogous to the activities to be conducted under the limited work authorization, new and significant information on the environmental impacts of those activities, so that the limited work authorization should not be issued as proposed by the Director of New Reactors or the Director of Nuclear Reactor Regulation, as applicable.
+(2) If the limited work authorization is for activities to be conducted at a site for which the Commission has previously prepared an environmental impact statement for the construction and operation of a nuclear power plant, and a construction permit was issued but construction of the plant was never completed, then in making the determinations in paragraph (c)(1) of this section, the presiding officer shall be limited to a consideration whether there is, with respect to construction activities encompassed by the environmental impact statement which are analogous to the activities to be conducted under the limited work authorization, new and significant information on the environmental impacts of those activities, so that the limited work authorization should not be issued as proposed by the Director, Office of Nuclear Reactor Regulation.
 
 (3) In making the determination required by this section, the presiding officer may not address or consider the sunk costs associated with the limited work authorization.
 
 (4) The presiding officer's determination in this paragraph shall be made in a partial initial decision to be issued separately from, and in advance of, the presiding officer's decision in paragraph (a) of this section on the combined license.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57446, Oct. 9, 2007; 73 FR 5724, Jan. 31, 2008]
+[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57446, Oct. 9, 2007; 73 FR 5724, Jan. 31, 2008; 84 FR 65645, Nov. 29, 2019]

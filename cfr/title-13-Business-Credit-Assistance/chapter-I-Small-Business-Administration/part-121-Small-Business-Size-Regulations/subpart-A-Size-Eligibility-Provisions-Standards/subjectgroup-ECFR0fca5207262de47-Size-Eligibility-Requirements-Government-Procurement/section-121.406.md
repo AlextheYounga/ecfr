@@ -1,7 +1,5 @@
 ##### § 121.406 How does a small business concern qualify to provide manufactured products or other supply items under a small business set-aside, service-disabled veteran-owned small business, HUBZone, WOSB or EDWOSB, or 8(a) contract? #####
 
-Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
-
 (a) *General.* In order to qualify as a small business concern for a small business set-aside, service-disabled veteran-owned small business set-aside or sole source contract, HUBZone set-aside or sole source contract, WOSB or EDWOSB set-aside or sole source contract, 8(a) set-aside or sole source contract, partial set-aside, or set aside of an order against a multiple award contract to provided manufactured products or other supply items, an offeror must either:
 
 (1) Be the manufacturer or producer of the end item being procured (and the end item must be manufactured or produced in the United States); or
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
 
 (b) *Nonmanufacturers.* (1) A firm may qualify as a small business concern for a requirement to provide manufactured products or other supply items as a nonmanufacturer if it:
 
-(i) Does not exceed 500 employees;
+(i) Does not exceed 500 employees (or 150 employees for the Information Technology Value Added Reseller exception to NAICS Code 541519, which is found at § 121.201, footnote 18);
 
 (ii) Is primarily engaged in the retail or wholesale trade and normally sells the type of item being supplied;
 
@@ -46,18 +44,14 @@ Example 1 to paragraph (b)(4).A procuring agency seeks to acquire computer integ
 
 (7) SBA's waiver of the nonmanufacturer rule means that the firm can supply the product of any size business without regard to the place of manufacture. However, SBA's waiver of the nonmanufacturer rule has no effect on requirements external to the Small Business Act which involve domestic sources of supply, such as the Buy American Act or the Trade Agreements Act.
 
-(c) *Kit assemblers.* (1) Where the manufactured item being acquired is a kit of supplies or other goods provided by an offeror for a special purpose, the offeror cannot exceed 500 employees, and 50 percent of the total value of the components of the kit must be manufactured by business concerns in the United States which are small under the size standards for the NAICS codes of the components being assembled. The offeror need not itself be the manufacturer of any of the items assembled.
+(c) The performance requirements (limitations on subcontracting) and the nonmanufacturer rule do not apply to small business set-aside acquisitions with an estimated value between the micro-purchase threshold and the simplified acquisition threshold (as both terms are defined in the FAR at 48 CFR 2.101).
 
-(2) Where the Government has specified an item for the kit which is not produced by U.S. small business concerns, such item shall be excluded from the calculation of total value in paragraph (c)(1) of this section.
-
-(d) The performance requirements (limitations on subcontracting) and the nonmanufacturer rule do not apply to small business set-aside acquisitions with an estimated value between the micro-purchase threshold and the simplified acquisition threshold (as both terms are defined in the FAR at 48 CFR 2.101).
-
-(e) *Multiple item acquisitions.* (1) If at least 50% of the estimated contract value is composed of items that are manufactured by small business concerns, then a waiver of the nonmanufacturer rule is not required. There is no requirement that each and every item acquired in a multiple-item procurement be manufactured by a small business.
+(d) *Multiple item acquisitions.* (1) If at least 50% of the estimated contract value is composed of items that are manufactured by small business concerns, then a waiver of the nonmanufacturer rule is not required. There is no requirement that each and every item acquired in a multiple-item procurement be manufactured by a small business.
 
 (2) If more than 50% of the estimated contract value is composed of items manufactured by other than small concerns, then a waiver is required. SBA may grant a contract specific waiver for one or more items in order to ensure that at least 50% of the value of the products to be supplied by the nonmanufacturer comes from domestic small business manufacturers or are subject to a waiver.
 
 (3) If a small business is both a manufacturer of item(s) and a nonmanufacturer of other item(s), the manufacturer size standard should be applied.
 
-(f) These requirements do not apply to small business concern subcontractors.
+(e) These requirements do not apply to small business concern subcontractors.
 
-[61 FR 3286, Jan. 31, 1996; 61 FR 7986, Mar. 1, 1996, as amended at 65 FR 30863, May 15, 2000; 69 FR 29205, May 21, 2004; 76 FR 8252, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 4469, Jan. 26, 2016; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 83 FR 12851, Mar. 26, 2018]
+[61 FR 3286, Jan. 31, 1996; 61 FR 7986, Mar. 1, 1996, as amended at 65 FR 30863, May 15, 2000; 69 FR 29205, May 21, 2004; 76 FR 8252, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 4469, Jan. 26, 2016; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 83 FR 12851, Mar. 26, 2018; 84 FR 65661, Nov. 29, 2019]

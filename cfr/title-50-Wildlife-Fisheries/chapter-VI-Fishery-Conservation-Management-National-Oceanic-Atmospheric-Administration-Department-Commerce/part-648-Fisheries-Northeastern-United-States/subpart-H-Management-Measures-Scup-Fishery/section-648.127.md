@@ -1,7 +1,5 @@
 ##### § 648.127 Scup recreational fishing season. #####
 
-Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
+Fishermen and vessels that are not eligible for a scup moratorium permit under § 648.4(a)(6), may possess scup year-round, subject to the possession limit specified in § 648.128(a). The recreational fishing season may be adjusted pursuant to the procedures in § 648.122. Should the recreational fishing season be modified, non-federally scup permitted vessels abiding by state regulations may transit with scup harvested from state waters on board through the Block Island Sound Transit Area following the provisions outlined in § 648.131.
 
-Fishermen and vessels that are not eligible for a moratorium permit under § 648.4(a)(6), may possess scup year-round, subject to the possession limit specified in § 648.128(a). The recreational fishing season may be adjusted pursuant to the procedures in § 648.122.
-
-[78 FR 37480, June 21, 2013]
+[84 FR 65703, Nov. 29, 2019]

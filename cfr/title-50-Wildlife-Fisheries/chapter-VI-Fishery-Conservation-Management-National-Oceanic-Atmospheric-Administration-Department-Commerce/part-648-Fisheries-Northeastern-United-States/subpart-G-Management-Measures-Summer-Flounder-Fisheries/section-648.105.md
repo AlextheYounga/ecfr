@@ -1,7 +1,5 @@
 ##### § 648.105 Summer flounder recreational fishing season. #####
 
-Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
+No person may fish for summer flounder in the EEZ from May 15 through September 15 unless that person is the owner or operator of a fishing vessel issued a commercial summer flounder moratorium permit, or is issued a summer flounder dealer permit, or unless otherwise specified in the conservation equivalency measures at § 648.107. Persons aboard a commercial vessel that is not eligible for a summer flounder moratorium permit are subject to this recreational fishing season. This time period may be adjusted pursuant to the procedures in § 648.102. Possession of summer flounder harvested from state waters during this time is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.111 and abide by state regulations.
 
-Unless otherwise specified pursuant to § 648.107, vessels that are not eligible for a moratorium permit under § 648.4(a)(3), and fishermen subject to the possession limit, may fish for summer flounder from May 15 through September 15. This time period may be adjusted pursuant to the procedures in § 648.102.
-
-[83 FR 24947, May 31, 2018]
+[84 FR 65702, Nov. 29, 2019]

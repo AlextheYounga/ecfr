@@ -2,7 +2,7 @@
 
 (a) *Identification.* A high throughput genomic sequence analyzer for clinical use is an analytical instrument system intended to generate, measure and sort signals in order to analyze nucleic acid sequences in a clinical sample. The device may include a signal reader unit; reagent handling, dedicated instrument control, and other hardware components; raw data storage mechanisms; data acquisition software; and software to process detected signals.
 
-(b) *Classification.* Class II (special controls). The special controls for this device are:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 862.9. The special controls for this device are:
 
 (1) The labeling for the instrument system must reference legally marketed pre-analytical and analytical reagents to be used with the instrument system and include or reference legally marketed analytical software that includes sequence alignment and variant calling functions, to be used with the instrument system.
 
@@ -34,4 +34,4 @@
 
 (ix) The upper and lower limit of input nucleic acid that will achieve the claimed accuracy and reproducibility. Data supporting such claims must also be summarized.
 
-[82 FR 13552, Mar. 14, 2017]
+[82 FR 13552, Mar. 14, 2017, as amended at 84 FR 71797, Dec. 30, 2019]

@@ -1,7 +1,5 @@
 ##### § 50.55a Codes and standards. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) *American Society of Mechanical Engineers* (*ASME),* Three Park Avenue, New York, NY 10016; telephone:
@@ -1051,7 +1049,7 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (i)-(y) [Reserved]
 
-(z) *Alternatives to codes and standards requirements.* Alternatives to the requirements of paragraphs (b) through (h) of this section or portions thereof may be used when authorized by the Director, Office of Nuclear Reactor Regulation, or Director, Office of New Reactors, as appropriate. A proposed alternative must be submitted and authorized prior to implementation. The applicant or licensee must demonstrate that:
+(z) *Alternatives to codes and standards requirements.* Alternatives to the requirements of paragraphs (b) through (h) of this section or portions thereof may be used when authorized by the Director, Office of Nuclear Reactor Regulation. A proposed alternative must be submitted and authorized prior to implementation. The applicant or licensee must demonstrate that:
 
 (1) *Acceptable level of quality and safety.* The proposed alternative would provide an acceptable level of quality and safety; or
 
@@ -1071,4 +1069,4 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 10 For inspections to be conducted once per interval, the inspections must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, except for plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda. For plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda, the inspection must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, of the 1994 Addenda.
 
-[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018]
+[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019]

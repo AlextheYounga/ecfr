@@ -1,7 +1,5 @@
 ##### § 124.507 What procedures apply to competitive 8(a) procurements? #####
 
-Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
-
 (a) *FAR procedures.* Procuring activities will conduct competitions among and evaluate offers received from Participants in accordance with the Federal Acquisition Regulation (48 CFR, chapter 1).
 
 (b) *Eligibility determination by SBA.* In either a negotiated or sealed bid competitive 8(a) acquisition, the procuring activity will request that the SBA district office servicing the apparent successful offeror determine that firm's eligibility for award.
@@ -16,9 +14,11 @@ Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
 
 (iii) In compliance with the continued eligibility reporting requirements set forth in § 124.112(b);
 
-(iv) In the developmental stage of program participation if the solicitation restricts offerors to the developmental stage of participation; and
+(iv) In the developmental stage of program participation if the solicitation restricts offerors to the developmental stage of participation;
 
-(v) A concern with a bona fide place of business in the applicable geographic area if the procurement is for construction.
+(v) A concern with a bona fide place of business in the applicable geographic area if the procurement is for construction; and
+
+(vi) Can demonstrate that it, together with any similarly situated entity, will meet the limitations on subcontracting provisions set forth in § 124.510.
 
 (3) Where the apparent successful offeror is a joint venture and SBA has not approved the joint venture prior to receiving notification of the apparent successful offeror, review of the joint venture will be part of the eligibility determination conducted under this paragraph (b). If SBA cannot approve the joint venture within 5 days of receiving a procuring activity's request for an eligibility determination, and the procuring activity does not grant additional time for review, SBA will be unable to verify the eligibility of the joint venture for award.
 
@@ -54,4 +54,4 @@ Example to paragraph (d)(1).The program term for 8(a) Participant X is scheduled
 
 (2) For a negotiated procurement, a Participant may submit revised offers, including a best and final offer, and be awarded a competitive 8(a) contract if it was eligible as of the initial date specified for the receipt of offers in the solicitation, even though its program term may expire after that date.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8260, Feb. 11, 2011; 81 FR 48582, July 25, 2016]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8260, Feb. 11, 2011; 81 FR 48582, July 25, 2016; 84 FR 65661, Nov. 29, 2019]

@@ -1,7 +1,5 @@
 ##### § 648.146 Black sea bass recreational fishing season. #####
 
-Link to an amendment published at 84 FR 65705, Nov. 29, 2019.
+Vessels that are not eligible for a black sea bass moratorium permit under § 648.4(a)(7), and fishermen subject to the possession limit specified in § 648.145(a), may only possess black sea bass from February 1 through February 28, May 15 through December 31, unless otherwise specified in the conservation equivalent measures described in § 648.1542(d)(2)or unless this time period is adjusted pursuant to the procedures in § 648.142. However, possession of black sea bass harvested from state waters outside of this season is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.151 and abide by state regulations.
 
-Vessels that are not eligible for a moratorium permit under § 648.4(a)(7), and fishermen subject to the possession limit specified in § 648.145(a), may only possess black sea bass from February 1 through February 28, May 15 through December 31, unless this time period is adjusted pursuant to the procedures in § 648.142.
-
-[83 FR 64487, Dec. 17, 2018]
+[84 FR 65705, Nov. 29, 2019]

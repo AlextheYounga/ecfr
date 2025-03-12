@@ -1,8 +1,6 @@
 ##### § 648.128 Scup possession restrictions. #####
 
-Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
-
-(a) *Party/Charter and recreational possession limits.* No person shall possess more than 50 scup in, or harvested from, per trip the EEZ unless that person is the owner or operator of a fishing vessel issued a scup moratorium permit, or is issued a scup dealer permit. Persons aboard a commercial vessel that is not eligible for a scup moratorium permit are subject to this possession limit. The owner, operator, and crew of a charter or party boat issued a scup moratorium permit are subject to the possession limit when carrying passengers for hire or when carrying more than five crew members for a party boat, or more than three crew members for a charter boat. This possession limit may be adjusted pursuant to the procedures in § 648.122.
+(a) *Party/Charter and recreational possession limits.* No person shall possess more than 50 scup in, or harvested from, per trip the EEZ unless that person is the owner or operator of a fishing vessel issued a scup moratorium permit, or is issued a scup dealer permit. Persons aboard a commercial vessel that is not eligible for a scup moratorium permit are subject to this possession limit. The owner, operator, and crew of a charter or party boat issued a scup moratorium permit are subject to the possession limit when carrying passengers for hire or when carrying more than five crew members for a party boat, or more than three crew members for a charter boat. This possession limit may be adjusted pursuant to the procedures in § 648.122. However, possession of scup harvested from state waters above this possession limit is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.131 and abide by state regulations.
 
 (b) If whole scup are processed into fillets, an authorized officer will convert the number of fillets to whole scup at the place of landing by dividing fillet number by 2. If scup are filleted into a single (butterfly) fillet, such fillet shall be deemed to be from one whole scup.
 
@@ -10,4 +8,4 @@ Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
 
 (d) Scup and scup parts harvested by a vessel with a moratorium or charter or party boat scup permit, or in or from the EEZ north of 35°15.3′ N. lat., may not be landed with the skin removed.
 
-[76 FR 60635, Sept. 29, 2011, as amended at 77 FR 30431, May 23, 2012; 78 FR 37480, June 21, 2013; 80 FR 25258, June 19, 2015]
+[76 FR 60635, Sept. 29, 2011, as amended at 77 FR 30431, May 23, 2012; 78 FR 37480, June 21, 2013; 80 FR 35258, June 19, 2015; 84 FR 65703, Nov. 29, 2019]

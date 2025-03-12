@@ -1,21 +1,22 @@
 ##### § 125.2 What are SBA's and the procuring agency's responsibilities when providing contracting assistance to small businesses? #####
 
-Link to an amendment published at 84 FR 65662, Nov. 29, 2019.
+(a)(1) *General.* The objective of the SBA's contracting programs is to assist small business concerns, including 8(a) BD Participants, HUBZone small business concerns, Service-Disabled Veteran-Owned Small Business Concerns, Women-Owned Small Businesses and Economically Disadvantaged Women-Owned Small Businesses, in obtaining a fair share of Federal Government prime contracts, subcontracts, orders, and property sales. Therefore, these regulations apply to all types of Federal Government contracts, including Multiple Award Contracts, and contracts for architectural and engineering services, research, development, test and evaluation. Small business concerns must receive any award (including orders, and orders placed against Multiple Award Contracts) or contract, part of any such award or contract, any contract for the sale of Government property, or any contract resulting from a reverse auction, regardless of the place of performance, which SBA and the procuring or disposal agency determine to be in the interest of:
 
-(a) *General.* The objective of the SBA's contracting programs is to assist small business concerns, including 8(a) BD Participants, HUBZone small business concerns, Service Disabled Veteran-Owned Small Business Concerns, Women-Owned Small Businesses and Economically Disadvantaged Women-Owned Small Businesses, in obtaining a fair share of Federal Government prime contracts, subcontracts, orders, and property sales. Therefore, these regulations apply to all types of Federal Government contracts, including Multiple Award Contracts, and contracts for architectural and engineering services, research, development, test and evaluation.
-Small business concerns must receive any award (including orders, and orders placed against Multiple Award Contracts) or contract, part of any such award or contract, any contract for the sale of Government property, or any contract resulting from a reverse auction, regardless of the place of performance, which SBA and the procuring or disposal agency determine to be in the interest of:
+(i) Maintaining or mobilizing the Nation's full productive capacity;
 
-(1) Maintaining or mobilizing the Nation's full productive capacity;
+(ii) War or national defense programs;
 
-(2) War or national defense programs;
+(iii) Assuring that a fair proportion of the total purchases and contracts for property, services and construction for the Government in each industry category are placed with small business concerns; or
 
-(3) Assuring that a fair proportion of the total purchases and contracts for property, services and construction for the Government in each industry category are placed with small business concerns; or
+(iv) Assuring that a fair proportion of the total sales of Government property is made to small business concerns.
 
-(4) Assuring that a fair proportion of the total sales of Government property is made to small business concerns.
+(2) *One acceptable offer.* If the contracting officer receives only one acceptable offer from a responsible small business concern in response to any small or socioeconomic set-aside, the contracting officer should make an award to that firm.
 
 (b) *SBA's responsibilities in the acquisition planning process* - (1) *SBA Procurement Center Representative (PCR) Responsibilities* -
 
-(i) *PCR Review* - (A) SBA has PCRs who are generally located at Federal agencies and buying activities which have major contracting programs. At the SBA's discretion, PCRs will review all acquisitions that are not totally set aside for small businesses to determine whether a set-aside or sole source award to a small business under one of SBA's programs is appropriate and to identify alternative strategies to maximize the participation of small businesses in the procurement. PCRs also advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements, as defined in § 125.1, and reviewing any justification provided by the agency for consolidation or bundling. This review includes acquisitions that are Multiple Award Contracts where the agency has not set-aside all or part of the acquisition or reserved the acquisition for small businesses. It also includes acquisitions where the agency has not set-aside orders placed against Multiple Award Contracts for small business concerns.
+(i) *PCR Review* - (A) SBA has PCRs who are generally located at Federal agencies and buying activities which have major contracting programs.
+At the SBA's discretion, PCRs may review any acquisition to determine whether a set-aside or sole-source award to a small business under one of SBA's programs is appropriate and to identify alternative strategies to maximize the participation of small businesses in the procurement. PCRs also advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements, as defined in § 125.1, and reviewing any justification provided by the agency for consolidation or bundling. This review includes acquisitions that are Multiple Award Contracts where the agency has not set-aside all or part of the acquisition or reserved the acquisition for small businesses. It also includes acquisitions where the agency has not set-aside orders placed against Multiple Award Contracts for small business concerns.
+Unless the contracting agency requests a review, PCRs will not review an acquisition by or on behalf of the Department of Defense if the acquisition is conducted for a foreign government pursuant to section 22 of the Arms Control Export Act (22 U.S.C. 2762), is humanitarian or civic assistance provided in conjunction with military operations as defined in 10 U.S.C. 401(e), is for a contingency operation as defined in 10 U.S.C. 101(a)(13), is to be awarded pursuant to an agreement with the government of a foreign country in which Armed Forces of the United States are deployed, or where both the place of award and place of performance are entirely outside of the United States and its territories.
 
 (B) PCRs will work with the cognizant Small Business Specialist (SBS) and agency OSDBU or OSBP as early in the acquisition process as practicable to identify proposed solicitations that involve bundling, and with the agency acquisition officials to revise the acquisition strategies for such proposed solicitations, where appropriate, to increase the probability of participation by small businesses, including small business contract teams and Small Business Teaming Arrangements, as prime contractors.
 
@@ -171,6 +172,8 @@ Small business concerns must receive any award (including orders, and orders pla
 
 (iv) If the consolidated requirement is also considered a bundled requirement, then the contracting officer must instead follow the provisions regarding bundling set forth in paragraphs (d)(2) through (7) of this section.
 
+(v) Not later than 7 days after making a determination that an acquisition strategy involving a consolidation of contract requirements is necessary and justified under subparagraph (d)(1)(i) of this section, the Senior Procurement Executive (SPE) or Chief Acquisition Officer (CAO), or designee, shall publish a notice on the Government Point of Entry (GPE) that such determination has been made. Any solicitation for a procurement related to the acquisition strategy shall not be issued earlier than 7 days after such notice is published. Along with the publication of the solicitation, the SPE or CAO (or designee) must publish in the GPE the justification for the determination, which shall include the information in paragraphs (d)(1)(i)(A) through (E) of this section.
+
 (2) *Limitation on the Use of Contract Bundling.*
 
 (i) When the procuring activity intends to proceed with an acquisition involving bundled or substantially bundled procurement requirements, it must document the acquisition strategy to include a determination that the bundling is necessary and justified, when compared to the benefits that could be derived from meeting the agency's requirements through separate smaller contracts.
@@ -219,7 +222,17 @@ Small business concerns must receive any award (including orders, and orders pla
 
 (6) *Notification to Public of Rationale for Bundled Requirement.* The head of a Federal agency must publish on the agency's Web site a list and rationale for any bundled requirement for which the agency solicited offers or issued an award. The notification must be made within 30 days of the agency's data certification regarding the validity and verification of data entered in that Federal Procurement Data Base to the Office of Federal Procurement Policy. However, to foster transparency in Federal procurement, the agency is encouraged to provide such notification before issuance of the solicitation.
 
-(7) *Notification to SBA of Recompeted Bundled or Consolidated Requirement.* For each bundled or consolidated contract that is to be recompeted (even if additional requirements have been added or deleted) the procuring agency must notify SBA's PCR as soon as possible but no later than 30 days prior to issuance of the solicitation of:
+(7) *Notification to public of rationale for substantial bundling.* If the head of a contracting agency determines that an acquisition plan for a procurement involves a substantial bundling of contract requirements, the head of a contracting agency shall publish a notice on the GPE that such determination has been made not later than 7 days after making such determination. Any solicitation for a procurement related to the acquisition plan may not be published earlier than 7 days after such notice is published. Along with the publication of the solicitation, the head of a contracting agency shall publish in the GPE a justification for the determination, which shall include the following information:
+
+(i) The specific benefits anticipated to be derived from the bundling of contract requirements and a determination that such benefits justify the bundling;
+
+(ii) An identification of any alternative contracting approaches that would involve a lesser degree of bundling of contract requirements;
+
+(iii) An assessment of the specific impediments to participation by small business concerns as prime contractors that result from the bundling of contract requirements; and
+
+(iv) The specific actions designed to maximize participation of small business concerns as subcontractors (including suppliers) at various tiers under the contract or contracts that are awarded to meet the requirements.
+
+(8) *Notification to SBA of Recompeted Bundled or Consolidated Requirement.* For each bundled or consolidated contract that is to be recompeted (even if additional requirements have been added or deleted) the procuring agency must notify SBA's PCR as soon as possible but no later than 30 days prior to issuance of the solicitation of:
 
 (i) The amount of savings and benefits achieved under the prior bundling or consolidation of contract requirements;
 
@@ -301,9 +314,9 @@ Small business concerns must receive any award (including orders, and orders pla
 
 (iii) Team members of the Small Business Teaming Arrangement will not be affiliated for the specific solicitation or contract (*see* § 121.103(b)(8)).
 
-(6) *Set-aside of orders against Full and Open Multiple Award Contracts.*
+(6) *Set-aside of orders against Multiple Award Contracts.*
 
-(i) Notwithstanding the fair opportunity requirements set forth in 10 U.S.C. 2304c and 41 U.S.C. 253j, the contracting officer has the authority to set-aside orders against Multiple Award Contracts that were competed on a full and open basis.
+(i) Notwithstanding the fair opportunity requirements set forth in 10 U.S.C. 2304c and 41 U.S.C. 253j, the contracting officer has the authority to set aside orders against Multiple Award Contracts, including contracts that were set aside for small business. This includes order set-asides for 8(a) Participants, HUBZone SBCs, SDVO SBCs, and WOSBs (and where appropriate EDWOSBs).
 
 (ii) The contracting officer may state in the solicitation and resulting contract for the Multiple Award Contract that:
 
@@ -325,4 +338,4 @@ Small business concerns must receive any award (including orders, and orders pla
 
 (ii) SBA believes that Progress in fulfilling the various small business goals, as well as other factors such as the results of market research, programmatic needs specific to the procuring agency, anticipated award price, and the acquisition history, will be considered in making a decision as to which program to use for the acquisition.
 
-[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019]
+[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 84 FR 65662, Nov. 29, 2019]

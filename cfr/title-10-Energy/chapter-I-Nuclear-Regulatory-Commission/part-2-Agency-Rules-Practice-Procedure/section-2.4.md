@@ -1,7 +1,5 @@
 ##### § 2.4 Definitions. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 As used in this part,
 
 *ACRS* means the Advisory Committee on Reactor Safeguards established by the Act.
@@ -26,7 +24,7 @@ As used in this part,
 
 (5) Special assistants (as defined in § 2.322);
 
-(6) The General Counsel, the Solicitor, the Associate General Counsel for Licensing and Regulation, and employees of the Office of the General Counsel under the supervision of the Solicitor;
+(6) The General Counsel, the Solicitor, the Deputy General Counsel for Rulemaking and Policy Support, and employees of the Office of the General Counsel under the supervision of the Solicitor;
 
 (7) The Secretary and employees of the Office of the Secretary; and
 

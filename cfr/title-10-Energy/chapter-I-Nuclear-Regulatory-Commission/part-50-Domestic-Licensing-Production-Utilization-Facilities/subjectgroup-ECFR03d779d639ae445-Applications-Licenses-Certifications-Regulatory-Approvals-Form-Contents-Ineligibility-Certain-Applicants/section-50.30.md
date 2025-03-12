@@ -1,10 +1,8 @@
 ##### § 50.30 Filing of application; oath or affirmation. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) *Serving of applications.* (1) Each filing of an application for a standard design approval or license to construct and/or operate, or manufacture, a production or utilization facility (including an early site permit, combined license, and manufacturing license under part 52 of this chapter), and any amendments to the applications, must be submitted to the U.S. Nuclear Regulatory Commission in accordance with § 50.4 or § 52.3 of this chapter, as applicable.
 
-(2) The applicant shall maintain the capability to generate additional copies of the general information and the safety analysis report, or part thereof or amendment thereto, for subsequent distribution in accordance with the written instructions of the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate.
+(2) The applicant shall maintain the capability to generate additional copies of the general information and the safety analysis report, or part thereof or amendment thereto, for subsequent distribution in accordance with the written instructions of the Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate.
 
 (3) Each applicant for a construction permit under this part, or an early site permit, combined license, or manufacturing license under part 52 of this chapter, shall, upon notification by the Atomic Safety and Licensing Board appointed to conduct the public hearing required by the Atomic Energy Act, update the application and serve the updated copies of the application or parts of it, eliminating all superseded information, together with an index of the updated application, as directed by the Atomic Safety and Licensing Board. Any subsequent amendment to the application must be served on those served copies of the application and must be submitted to the U.S. Nuclear Regulatory Commission as specified in § 50.4 or § 52.3 of this chapter, as applicable.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correctio
 
 (5) At the time of filing an application, the Commission will make available at the NRC Web site, *http://www.nrc.gov*, a copy of the application, subsequent amendments, and other records pertinent to the matter which is the subject of the application for public inspection and copying.
 
-(6) The serving of copies required by this section must not occur until the application has been docketed under § 2.101(a) of this chapter. Copies must be submitted to the Commission, as specified in § 50.4 or § 52.3 of this chapter, as applicable, to enable the Director, Office of New Reactors, or the Director, Office of Nuclear Reactor Regulation, or the Director, Office of Nuclear Material Safety and Safeguards, as appropriate, to determine whether the application is sufficiently complete to permit docketing.
+(6) The serving of copies required by this section must not occur until the application has been docketed under § 2.101(a) of this chapter. Copies must be submitted to the Commission, as specified in § 50.4 or § 52.3 of this chapter, as applicable, to enable the Director, Office of Nuclear Reactor Regulation, or the Director, Office of Nuclear Material Safety and Safeguards, as appropriate, to determine whether the application is sufficiently complete to permit docketing.
 
 (b) *Oath or affirmation.* Each application for a standard design approval or license, including, whenever appropriate, a construction permit or early site permit, or amendment of it, and each amendment of each application must be executed in a signed original by the applicant or duly authorized officer thereof under oath or affirmation.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correctio
 
 (f) *Environmental report.* An application for a construction permit, operating license, early site permit, combined license, or manufacturing license for a nuclear power reactor, testing facility, fuel reprocessing plant, or other production or utilization facility whose construction or operation may be determined by the Commission to have a significant impact in the environment, shall be accompanied by an Environmental Report required under subpart A of part 51 of this chapter.
 
-[23 FR 3115, May 10, 1958, as amended at 33 FR 10924, Aug. 1, 1968; 34 FR 6307, Apr. 3, 1969; 35 FR 19660, Dec. 29, 1970; 37 FR 5749, Mar. 21, 1972; 51 FR 40307, Nov. 6, 1986; 64 FR 48951, Sept. 9, 1999; 68 FR 58809, Oct. 10, 2003; 72 FR 49490, Aug. 28, 2007; 73 FR 5721, Jan. 31, 2008]
+[23 FR 3115, May 10, 1958, as amended at 33 FR 10924, Aug. 1, 1968; 34 FR 6307, Apr. 3, 1969; 35 FR 19660, Dec. 29, 1970; 37 FR 5749, Mar. 21, 1972; 51 FR 40307, Nov. 6, 1986; 64 FR 48951, Sept. 9, 1999; 68 FR 58809, Oct. 10, 2003; 72 FR 49490, Aug. 28, 2007; 73 FR 5721, Jan. 31, 2008; 84 FR 65644, Nov. 29, 2019]

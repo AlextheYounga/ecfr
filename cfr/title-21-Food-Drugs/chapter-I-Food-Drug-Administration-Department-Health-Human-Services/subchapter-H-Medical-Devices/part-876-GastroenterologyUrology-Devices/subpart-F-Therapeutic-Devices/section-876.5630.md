@@ -8,4 +8,6 @@
 
 (4) The source of dialysate may be sterile prepackaged dialysate (for semiautomatic peritoneal dialysate delivery systems or “cycler systems”) or dialysate prepared from dialysate concentrate and sterile purified water (for automatic peritoneal dialysate delivery systems or “reverse osmosis” systems). Prepackaged dialysate intended for use with either of the peritoneal dialysate delivery systems is regulated by FDA as a drug.
 
-(b) *Classification.* Class II (performance standards).
+(b) *Classification.* Class II (special controls). The following accessories are exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 876.9: A catheter finger grip that is non-patient contacting and intended for single use with a peritoneal catheter; a continuous ambulatory peritoneal dialysis (CAPD) belt; and a catheter stand that does not include weigh scales.
+
+[48 FR 53023, Nov. 23, 1983, as amended at 84 FR 71814, Dec. 30, 2019]

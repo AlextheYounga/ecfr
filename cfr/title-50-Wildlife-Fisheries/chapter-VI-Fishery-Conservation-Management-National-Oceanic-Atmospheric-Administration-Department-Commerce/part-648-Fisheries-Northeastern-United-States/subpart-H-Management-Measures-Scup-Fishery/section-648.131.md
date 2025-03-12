@@ -1,3 +1,5 @@
-##### § 648.131 xxx #####
+##### § 648.131 Block Island Sound Transit Area. #####
 
-Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
+Vessels not issued a scup Federal moratorium or party/charter permit, and recreational fishing participants fishing exclusively in state waters may transit with scup harvested from state waters on board through Federal waters of the EEZ within Block Island Sound, north of a line connecting Montauk Light, Montauk Point, NY, and Block Island Southeast Light, Block Island, RI; and west of a line connecting Point Judith Light, Point Judith, RI, and Block Island Southeast Light, Block Island, RI. Within this area, possession of scup is permitted regardless of the minimum size, possession limit, and seasons outlined in §§ 648.126, 648.127, and 648.128, provided no fishing takes place from the vessel while in Federal waters of the EEZ, the vessel complies with state regulations, and is in continuous transit. During such transit through this area, commercial gear must be stowed in accordance with the definition of “not available for immediate use” found at § 648.2, and party/charter vessels and recreational participants must have all bait and hooks removed from fishing rods, and any scup on board must be stored in a cooler or container.
+
+[84 FR 65703, Nov. 29, 2019]

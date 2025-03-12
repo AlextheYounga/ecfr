@@ -1,7 +1,5 @@
 ##### § 648.102 Summer flounder specifications. #####
 
-Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
-
 (a) *Commercial quota, recreational landing limits, research set-asides, and other specification measures.* The Summer Flounder Monitoring Committee shall recommend to the MAFMC, through the specifications process, for use in conjunction with each ACL and ACT, a sector-specific research set-aside, estimates of sector-related discards, recreational harvest limit, and commercial quota, along with other measures, as needed, that are projected to ensure the sector-specific ACL for an upcoming fishing year or years will not be exceeded. The measures to be considered by the Summer Flounder Monitoring Committee are:
 
 (1) Research quota set from a range of 0 to 3 percent of the allowable landings level for both the commercial and recreational sectors.
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
 
 (6) Recreational possession limit set from a range of 0 to 15 summer flounder to achieve the recreational harvest limit, set after reductions for research quota.
 
-(7) Recreational minimum fish size.
+(7) Recreational minimum and/or maximum fish size.
 
 (8) Recreational season.
 
@@ -58,12 +56,12 @@ Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
 
 (i) After review of the recommendations, the Regional Administrator will publish a proposed rule in the Federal Register as soon as possible to implement the overall percent adjustment in recreational landings required for the fishing year, and the ASMFC's recommendation concerning conservation equivalency, the precautionary default measures, and coastwide measures.
 
-(ii) The ASMFC will review conservation equivalency proposals and determine whether or not they achieve the necessary adjustment to recreational landings. The ASMFC will provide the Regional Administrator with the individual state and/or multi-state region conservation measures for the approved state and/or multi-state region proposals and, in the case of disapproved state and/or multi-state region proposals, the precautionary default measures.
+(ii) The ASMFC will review conservation equivalency proposals and determine whether or not they achieve the necessary adjustment to recreational landings. The ASMFC will provide the Regional Administrator with the individual state and/or multi-state region conservation measures for the approved state and/or multi-state region proposals and, in the case of disapproved state and/or multi-state region proposals, the precautionary default measures that should be applied to a state or region. At the request of the ASMFC, precautionary default measures would apply to federally permitted party/charter vessels and other recreational fishing vessels harvesting summer flounder in or from the EEZ when landing in a state that implements measures not approved by the ASMFC.
 
-(iii) The ASMFC may allow states assigned the precautionary default measures to resubmit revised management measures. The ASMFC will detail the procedures by which the state can develop alternate measures. The ASMFC will notify the Regional Administrator of any resubmitted state proposals approved subsequent to publication of the final rule and the Regional Administrator will publish a notice in the Federal Register to notify the public.
+(iii) After considering public comment, the Regional Administrator will publish a final rule in the Federal Register to implement either the state specific conservation equivalency measures or coastwide measures to ensure that the applicable specified target is not exceeded.
 
-(iv) After considering public comment, the Regional Administrator will publish a final rule in the Federal Register to implement either the state specific conservation equivalency measures or coastwide measures to ensure that the applicable specified target is not exceeded.
+(iv) The ASMFC may allow states assigned the precautionary default measures to resubmit revised management measures. The ASMFC will detail the procedures by which the state can develop alternate measures. The ASMFC will notify the Regional Administrator of any resubmitted state proposals approved subsequent to publication of the final rule and the Regional Administrator will publish a document in the Federal Register to notify the public.
 
 (e) *Research quota.* See § 648.22(g).
 
-[76 FR 60626, Sept. 29, 2011, as amended at 76 FR 81849, Dec. 29, 2011; 80 FR 37196, June 30, 2015]
+[76 FR 60626, Sept. 29, 2011, as amended at 76 FR 81849, Dec. 29, 2011; 80 FR 37196, June 30, 2015; 84 FR 65702, Nov. 29, 2019]

@@ -1,0 +1,3 @@
+##### § 225.2 Applicability. #####
+
+This part applies to veterans who are Purple Heart recipients, veterans who are former prisoners of war, veterans who have a Department of Veterans Affairs-documented service-connected disability rating between 0-90 percent, and individuals approved and designated as the caregiver or family caregiver of an eligible veteran under a formalized Department of Veterans Affairs caregiver program (as of January 1, 2020, authorized caregivers are the primary family caregiver of an eligible veteran under the Program of Comprehensive Assistance for Family Caregivers).

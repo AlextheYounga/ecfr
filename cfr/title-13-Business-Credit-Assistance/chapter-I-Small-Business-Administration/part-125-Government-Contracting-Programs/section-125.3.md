@@ -1,7 +1,5 @@
 ##### § 125.3 What types of subcontracting assistance are available to small businesses? #####
 
-Link to an amendment published at 84 FR 65663, Nov. 29, 2019.
-
 (a) *General.* The purpose of the subcontracting assistance program is to provide the maximum practicable subcontracting opportunities for small business concerns, including small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, certified HUBZone small business concerns, certified small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. The subcontracting assistance program implements section 8(d) of the Small Business Act, which includes the requirement that, unless otherwise exempt, other than small business concerns awarded contracts that offer subcontracting possibilities by the Federal Government in excess of $650,000, or in excess of $1,500,000 for construction of a public facility, must submit a subcontracting plan to the appropriate contracting agency. The Federal Acquisition Regulation sets forth the requirements for subcontracting plans in 48 CFR 19.7, and the clause at 48 CFR 52.219-9.
 
 (1) Subcontract under this section means a legally binding agreement between a contractor that is already under contract to another party to perform work and a third party (other than one involving an employer-employee relationship), hereinafter referred to as the subcontractor, for the subcontractor to perform a part or all of the work that the contractor has undertaken.
@@ -56,7 +54,7 @@ Link to an amendment published at 84 FR 65663, Nov. 29, 2019.
 
 (iii) The contractor may not prohibit a subcontractor from discussing any material matter pertaining to payment or utilization with the contracting officer;
 
-(iv) When developing an individual subcontracting plan (also called individual contract plan), the contractor must decide whether to include indirect costs in its subcontracting goals. If indirect costs are included in the goals, these costs must be included in the Individual Subcontract Report (ISR) in *www.esrs.gov* (eSRS) or Subcontract Reports for Individual Contracts (the paper SF-294, if authorized). If indirect costs are excluded from the goals, these costs must be excluded from the ISRs (or SF-294 if authorized); however, these costs must be included on a prorated basis in the Summary Subcontracting Report (SSR) in the eSRS system. A contractor authorized to use a commercial subcontracting plan must include all indirect costs in its SSR;
+(iv) When developing an individual subcontracting plan (also called individual contract plan), the contractor must decide whether to include indirect costs in its subcontracting goals. If indirect costs are included in the goals, these costs must be included in the Individual Subcontract Report (ISR) in *www.esrs.gov* (eSRS) or Subcontract Reports for Individual Contracts (the paper SF-294, if authorized). If indirect costs are excluded from the goals, these costs must be excluded from the ISRs (or SF-294 if authorized); however, these costs must be included on a prorated basis in the Summary Subcontracting Report (SSR) in the eSRS system. A contractor authorized to use a commercial subcontracting plan must include all indirect costs in its subcontracting goals and in its SSR;
 
 (v) The contractor must assign to each subcontract, and to each solicitation, if a solicitation is utilized, the NAICS code and corresponding size standard that best describes the principal purpose of the subcontract (see § 121.410 of this chapter). A formal solicitation is not required for each subcontract, but the contractor must provide some form of written notice of the NAICS code and size standard assigned to potential offerors prior to acceptance and award of the subcontract. The prime contractor (or subcontractor) may rely on a subcontractor's electronic representations and certifications, if the solicitation for the subcontract contains a clause which provides that the subcontractor verifies by submission of the offer that the size or socioeconomic representations and certifications are current, accurate and complete as of the date of the offer for the subcontract. Electronic submission may include any method acceptable to the prime contractor (or subcontractor) including, but not limited to, size or socioeconomic representations and certifications made in SAM (or any successor system). A prime contractor (or subcontractor) may not require the use of SAM (or any successor system) for purposes of representing size or socioeconomic status in connection with a subcontract;
 
@@ -106,13 +104,35 @@ Link to an amendment published at 84 FR 65663, Nov. 29, 2019.
 
 (2) Reviewing all ISRs, and where applicable, SSRs, in eSRS (or any successor system) within 60 days of the report ending date (e.g., by November 30th for a report submitted for the fiscal year ended September 30th) and either accepting or rejecting the reports in accordance with the Federal Acquisition Regulation (FAR) provisions set forth in 48 CFR subpart 19.7, 52.219-9, and the eSRS instructions (*www.esrs.gov*). The authority to acknowledge or reject SSRs for commercial plans resides with the contracting officer who approved the commercial plan. If a report is rejected, the contracting officer must provide an explanation for the rejection to allow prime contractors the opportunity to respond specifically to perceived deficiencies.
 
-(3) Evaluating whether the prime contractor made a good faith effort to comply with its small business subcontracting plan. Evidence that a large business prime contractor has made a good faith effort to comply with its subcontracting plan or other subcontracting responsibilities includes supporting documentation that:
+(3) Evaluating whether the prime contractor made a good faith effort to comply with its small business subcontracting plan.
 
-(i) The contractor performed one or more of the actions described in paragraph (b) of this section, as appropriate for the procurement;
+(i) Evidence that a large business prime contractor has made a good faith effort to comply with its subcontracting plan or other subcontracting responsibilities includes supporting documentation that:
 
-(ii) Although the contractor may have failed to achieve its goal in one socioeconomic category, it over-achieved its goal by an equal or greater amount in one or more of the other categories; or
+(A) The contractor performed one or more of the actions described in paragraph (b) of this section, as appropriate for the procurement;
 
-(iii) The contractor fulfilled all of the requirements of its subcontracting plan.
+(B) Although the contractor may have failed to achieve its goal in one socioeconomic category, it over-achieved its goal by an equal or greater amount in one or more of the other categories; or
+
+(C) The contractor fulfilled all of the requirements of its subcontracting plan.
+
+(ii) Examples of activities reflective of a failure to make a good faith effort to comply with a subcontracting plan include, but are not limited, to:
+
+(A) Failure to submit the acceptable individual or summary subcontracting reports in eSRS by the report due dates or as provided by other agency regulations within prescribed time frames;
+
+(B) Failure to pay small business concern subcontractors in accordance with the terms of the contract with the prime;
+
+(C) Failure to designate and maintain a company official to administer the subcontracting program and monitor and enforce compliance with the plan;
+
+(D) Failure to maintain records or otherwise demonstrate procedures adopted to comply with the plan including subcontracting flow-down requirements;
+
+(E) Adoption of company policies or documented procedures that have as their objectives the frustration of the objectives of the plan;
+
+(F) Failure to correct substantiated findings from federal subcontracting compliance reviews or participate in subcontracting plan management training offered by the government;
+
+(G) Failure to conduct market research identifying potential small business concern subcontractors through all reasonable means including outreach, industry days, or the use of federal database marketing systems such as SBA's Dynamic Small Business Search (DSBS) or SUBNet Systems or any successor federal systems;
+
+(H) Failure to comply with regulations requiring submission of a written explanation to the contracting officer to change small business concern subcontractors that were used in preparing offers; or
+
+(I) Falsifying records of subcontracting awards to SBCs.
 
 (4) Evaluating the prime contractor's written explanation concerning the prime contractor's failure to use a small business concern in performance in the same scope, amount, and quality used in preparing and submitting the bid or proposal, and considering that information when rating the contractor for past performance purposes.
 
@@ -127,6 +147,8 @@ Link to an amendment published at 84 FR 65663, Nov. 29, 2019.
 (9) In his or her discretion, requiring a subcontracting plan if a prime contractor's size status changes from small to other than small as a result of a size recertification.
 
 (10) Where a subcontracting plan is amended in connection with an option, or added as a result of a recertification or modification, the changes to any existing plan are for prospective subcontracting opportunities and do not apply retroactively. However, since achievements must be reported on the ISR (or the SF-294, if applicable) on a cumulative basis from the inception of the contract, the contractor's achievements prior to the modification or option will be factored into its overall achievement on the contract from inception.
+
+(11) Evaluating whether the contractor or subcontractor complied in good faith with the requirement to provide periodic reports and cooperate in any studies or surveys as may be required by the Federal agency or the Administration in order to determine the extent of compliance by the contractor or subcontractor with the subcontracting plan. The contractor or subcontractor's failure to comply with this requirement in good faith shall be a material breach of such contract or subcontract and may be considered in any past performance evaluation of the contractor.
 
 (e) *CMR Responsibilities.* Commercial Market Representatives (CMRs) are SBA's subcontracting specialists. CMRs are responsible for:
 
@@ -152,7 +174,7 @@ Link to an amendment published at 84 FR 65663, Nov. 29, 2019.
 
 (iii) Consideration of whether the prime contractor is monitoring its other than small subcontractors with regard to their subcontracting plans, determining achievement of their proposed subcontracting goals, and reviewing their subcontractors' ISRs (or SF-294s, if applicable).
 
-(3) Upon completion of the review and evaluation of a contractor's performance and efforts to achieve the requirements in its subcontracting plans, the contractor's performance will be assigned one of the following ratings: Outstanding, Highly Successful, Acceptable, Marginal, or Unsatisfactory. The factors listed in paragraph (c) of this section will be taken into consideration, where applicable, in determining the contractor's rating. However, a contractor may be found Unsatisfactory, regardless of other factors, if it cannot substantiate the claimed achievements under its subcontracting plan.
+(3) Upon completion of the review and evaluation of a contractor's performance and efforts to achieve the requirements in its subcontracting plans, the contractor's performance will be assigned one of the following ratings: Exceptional, Very Good, Satisfactory, Marginal or Unsatisfactory. The factors listed in paragraph (c) of this section will be taken into consideration, where applicable, in determining the contractor's rating. However, a contractor may be found Unsatisfactory, regardless of other factors, if it cannot substantiate the claimed achievements under its subcontracting plan.
 
 (4) Any contractor that receives a marginal or unsatisfactory rating must provide a written corrective action plan to SBA, or to both SBA and the agency that conducted the compliance review if the agency conducting the review has an agreement with SBA, within 30 days of its receipt of the official compliance report.
 
@@ -208,4 +230,4 @@ Link to an amendment published at 84 FR 65663, Nov. 29, 2019.
 
 (3) For significant subcontracting opportunities in consolidated contracts, bundled requirements, and substantially bundled requirements, *see* § 125.2(d)(4).
 
-[69 FR 75824, Dec. 20, 2004, as amended at 74 FR 46887, Sept. 14, 2009; 78 FR 42403, July 16, 2013; 78 FR 59798, Sept. 30, 2013; 78 FR 61142, Oct. 2, 2013; 81 FR 34262, May 31, 2016; 81 FR 94250, Dec. 23, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019]
+[69 FR 75824, Dec. 20, 2004, as amended at 74 FR 46887, Sept. 14, 2009; 78 FR 42403, July 16, 2013; 78 FR 59798, Sept. 30, 2013; 78 FR 61142, Oct. 2, 2013; 81 FR 34262, May 31, 2016; 81 FR 94250, Dec. 23, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65663, Nov. 29, 2019]

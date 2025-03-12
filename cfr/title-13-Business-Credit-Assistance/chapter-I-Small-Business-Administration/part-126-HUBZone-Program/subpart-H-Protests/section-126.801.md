@@ -1,8 +1,6 @@
 ##### § 126.801 How does an interested party file a HUBZone status protest? #####
 
-Link to an amendment published at 84 FR 65665, Nov. 29, 2019.
-
-(a) *General.* (1) A HUBZone status protest is the process by which an interested party may challenge the HUBZone status of an apparent successful offeror on a HUBZone contract, including a HUBZone joint venture submitting an offer under § 126.616.
+(a) *General.* (1) A HUBZone status protest is the process by which an interested party may challenge the HUBZone status of an apparent successful offeror on a HUBZone contract, including a HUBZone joint venture submitting an offer under § 126.616. SBA will also consider a protest challenging whether a HUBZone prime contractor is unduly reliant on a small, non-similarly situated entity subcontractor or if such subcontractor performs the primary and vital requirements of the contract.
 
 (2) The protest procedures described in this part are separate from those governing size protests and appeals. All protests relating to whether a certified HUBZone small business concern is other than small for purposes of any Federal program are subject to part 121 of this chapter and must be filed in accordance with that part. If a protester protests both the size of the HUBZone small business concern and whether the concern meets the HUBZone eligibility requirements set forth in § 126.200, SBA will process the protests concurrently, under the procedures set forth in part 121 of this chapter and this part.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 84 FR 65665, Nov. 29, 2019.
 
 (12) Whether a contract has been awarded, and if applicable, the date of contract award and contract number.
 
-[63 FR 31908, June 11, 1998, as amended at 69 FR 29427, May 24, 2004, 84 FR 65250, Nov. 26, 2019]
+[63 FR 31908, June 11, 1998, as amended at 69 FR 29427, May 24, 2004, 84 FR 65250, Nov. 26, 2019; 84 FR 65665, Nov. 29, 2019]

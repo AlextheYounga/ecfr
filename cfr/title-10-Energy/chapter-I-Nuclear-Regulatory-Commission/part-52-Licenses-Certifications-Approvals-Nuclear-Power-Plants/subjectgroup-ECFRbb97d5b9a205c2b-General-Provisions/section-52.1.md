@@ -1,12 +1,10 @@
 ##### § 52.1 Definitions. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.Link to a correction of the above amendment published at 84 FR 68781, Dec. 17, 2019.
-
-(a) As used in this part -
+(a) As used in this part—
 
 *Combined license* means a combined construction permit and operating license with conditions for a nuclear power facility issued under subpart C of this part.
 
-*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits -
+*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits—
 
 (i) Release of the property for unrestricted use and termination of the license; or
 
@@ -22,7 +20,7 @@ Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correctio
 
 *Licensee* means a person who is authorized to conduct activities under a license issued by the Commission.
 
-*Limited work authorization* means the authorization provided by the Director of New Reactors or the Director of Nuclear Reactor Regulation under § 50.10 of this chapter.
+*Limited work authorization* means the authorization provided by the Director of the Office of Nuclear Reactor Regulation under § 50.10 of this chapter.
 
 *Major feature of the emergency plans* means an aspect of those plans necessary to:
 
@@ -48,4 +46,4 @@ Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correctio
 
 (b) All other terms in this part have the meaning set out in 10 CFR 50.2, or Section 11 of the Atomic Energy Act, as applicable.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57446, Oct. 9, 2007; 79 FR 66604, Nov. 10, 2014]
+[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57446, Oct. 9, 2007; 79 FR 66604, Nov. 10, 2014; 84 FR 65645, Nov. 29, 2019; 84 FR 68781, Dec. 17, 2019]

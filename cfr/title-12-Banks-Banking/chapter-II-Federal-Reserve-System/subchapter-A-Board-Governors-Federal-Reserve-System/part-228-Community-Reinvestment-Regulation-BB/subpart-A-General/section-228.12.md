@@ -1,5 +1,7 @@
 ##### § 228.12 Definitions. #####
 
+Link to an amendment published at 84 FR 71740, Dec. 30, 2019.
+
 For purposes of this part, the following definitions apply:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.

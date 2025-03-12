@@ -1,3 +1,7 @@
-##### § 648.111 xxx #####
+##### § 648.111 Block Island Sound Transit Area. #####
 
-Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
+(a) Vessels not issued a summer flounder Federal moratorium or party/charter permit, and recreational fishing participants fishing exclusively in state waters may transit with summer flounder harvested from state waters on board through Federal waters of the EEZ within Block Island Sound, north of a line connecting Montauk Light, Montauk Point, NY, and Block Island Southeast Light, Block Island, RI; and west of a line connecting Point Judith Light, Point Judith, RI, and Block Island Southeast Light, Block Island, RI. Within this area, possession of summer flounder is permitted regardless of the minimum or maximum size (as applicable), possession limit, and seasons outlined in §§ 648.104, 648.105, and 648.106, provided no fishing takes place from the vessel while in Federal waters of the EEZ, the vessel complies with state regulations, and is in continuous transit. During such transit through this area, commercial gear must be stowed in accordance with the definition of “not available for immediate use” found at § 648.2, and party/charter vessels and recreational participants must have all bait and hooks removed from fishing rods, and any summer flounder on board must be stored in a cooler or container.
+
+(b) The requirements of this transit zone are not necessary or applicable for recreational fishery participants during years when conservation equivalency has been adopted under § 648.107 conservation equivalency measures and recreational Federal measures are waived.
+
+[84 FR 65703, Nov. 29, 2019]

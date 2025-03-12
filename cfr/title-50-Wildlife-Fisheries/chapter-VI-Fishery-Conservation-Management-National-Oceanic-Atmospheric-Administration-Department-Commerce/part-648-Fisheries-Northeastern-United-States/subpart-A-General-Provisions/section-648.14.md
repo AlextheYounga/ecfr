@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -945,7 +943,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (n) *Summer flounder* - (1) *All persons.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
 
-(i) *Permit requirement.* Possess summer flounder in or harvested from the EEZ, either in excess of the possession limit specified in § 648.106, or before or after the time period specified in § 648.105, unless the vessel was issued a summer flounder moratorium permit and the moratorium permit is on board the vessel and has not been surrendered, revoked, or suspended.
+(i) *Permit requirement.* Possess summer flounder in or harvested from the EEZ, either in excess of the possession limit specified in § 648.106, or before or after the time period specified in § 648.105, unless the vessel was issued a summer flounder moratorium permit and the moratorium permit is on board the vessel and has not been surrendered, revoked, or suspended. However, possession of summer flounder harvested from state waters is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.111.
 
 (ii) *Transfer and purchase.* (A) Purchase or otherwise receive for a commercial purpose, other than solely for transport on land, summer flounder from the owner or operator of a vessel issued a summer flounder moratorium permit, unless in possession of a valid summer flounder dealer permit.
 
@@ -985,7 +983,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All summer flounder retained or possessed on a vessel issued a permit under § 648.4 are deemed to have been harvested in the EEZ.
 
-(o) *Scup* - (1) *All persons.* Unless participating in a research activity as described in § 648.122(e), it is unlawful for any person to do any of the following:
+(o) *Scup* - (1) *All persons.* Unless a vessel is participating in a research activity as described in § 648.122(e) or unless a vessel has no Federal scup permit, possesses scup caught exclusively in state waters, and is transiting Federal waters within the Block Island Sound Transit Area in accordance with the provisions at § 648.131, it is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Fish for, catch, or retain for sale, barter, or trade scup in or from the EEZ north of 35°15.3′ N. lat. on board a party or charter boat without the vessel having been issued an applicable valid party or charter boat permit pursuant to § 648.4(a)(6), unless the vessel other than a party or charter vessel observes the possession limit restrictions and prohibition against sales specified in § 648.125.
 
@@ -1033,9 +1031,9 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All scup retained or possessed on a vessel issued a permit under § 648.4 are deemed to have been harvested in the EEZ, north of 35°15.3′ N. lat., unless a preponderance of the evidence shows the fish were harvested by a vessel that fished exclusively in state waters.
 
-(p) *Black sea bass* - (1) *All persons.* Unless participating in a research activity as described in § 648.142(d), it is unlawful for any person to do any of the following:
+(p) *Black sea bass* - (1) *All persons.* Unless participating in a research activity as described in § 648.142(e), it is unlawful for any person to do any of the following:
 
-(i) *Permit requirement.* Possess black sea bass in or harvested from the EEZ north of 35°15.3′ N. lat., either in excess of the possession limit established pursuant to § 648.145, or before or after the time period established pursuant to § 648.146, unless the person is operating a vessel issued a moratorium permit under § 648.4 and the moratorium permit is on board the vessel.
+(i) *Permit requirement.* Possess black sea bass in or harvested from the EEZ north of 35°15.3′ N. lat., either in excess of the possession limit established pursuant to § 648.145, or before or after the time period established pursuant to § 648.146, unless the person is operating a vessel issued a moratorium permit under § 648.4 and the moratorium permit is on board the vessel. However, possession of black sea bass harvested from state waters is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.151.
 
 (ii) *Possession and landing.* Fish for, catch, possess, land, or retain black sea bass in or from the EEZ north of 35°15.3′ N. lat. (the latitude of Cape Hatteras Light, NC, to the U.S.-Canadian border) in excess of the amount specified in § 648.144(a)(1)(i), unless the vessel complies with all of the gear restrictions at § 648.144(a).
 
@@ -1043,11 +1041,11 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (iv) *Gear restriction.* Fail to comply with any of the gear restrictions specified in § 648.144.
 
-(v) *Minimum fish size.* Fish for, possess, land, or retain black sea bass in or from the EEZ that does not comply with the minimum fish size specified in § 648.147.
+(v) *Size limits.* Fish for, possess, land, or retain black sea bass in or from the EEZ that does not comply with the minimum or maximum (as applicable) fish size specified in § 648.147.
 
 (vi) *Special management zone.* Fail to comply with any of the restrictions for special management zones specified in § 648.148(b).
 
-(2) *Vessel and operator permit holders.* Unless participating in a research activity as described in § 648.142(d), it is unlawful for any person owning or operating a vessel issued a black sea bass permit (including a moratorium permit) to do any of the following:
+(2) *Vessel and operator permit holders.* Unless participating in a research activity as described in § 648.142(e), it is unlawful for any person owning or operating a vessel issued a black sea bass permit (including a moratorium permit) to do any of the following:
 
 (i) *Permit requirement.* Sell or transfer to another person for a commercial purpose, other than solely for transport on land, any black sea bass from a vessel, unless the transferee has a valid black sea bass dealer permit.
 

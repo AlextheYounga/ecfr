@@ -38,8 +38,8 @@
 
 (18) A fiberoptic nonmetal vaginal speculum is a nonmetal instrument, with fiberoptic light, used to expose and illuminate the interior of the vagina.
 
-(b) *Classification.* (1) Class II (performance standards).
+(b) *Classification.* (1) Class II (special controls). The device, when it is an umbilical clamp with or without a cutter, a uterine tenaculum which is sterile and does not use suction and is intended for single use, a nonmetal vaginal speculum, or a fiberoptic nonmetal vaginal speculum, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 884.9.
 
 (2) Class I for the amniotome, uterine curette, cervical dilator (fixed-size bougies), cerclage needle, IUD remover, uterine sound, and gynecological biopsy forceps. The devices subject to this paragraph (b)(2) are exempt from the premarket notification procedures in subpart E of part 807 of this chapter, subject to the limitations in § 884.9.
 
-[45 FR 12684, Feb. 26, 1980, as amended at 61 FR 1124, Jan. 16, 1996; 66 FR 38809, July 25, 2001]
+[45 FR 12684, Feb. 26, 1980, as amended at 61 FR 1124, Jan. 16, 1996; 66 FR 38809, July 25, 2001; 84 FR 71816, Dec. 30, 2019]

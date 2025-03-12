@@ -1,8 +1,6 @@
 ##### § 71.95 Reports. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
-(a) The licensee, after requesting the certificate holder's input, shall submit a written report to the Commission of -
+(a) The licensee, after requesting the certificate holder's input, shall submit a written report to the Commission of—
 
 (1) Instances in which there is a significant reduction in the effectiveness of any NRC-approved Type B or Type AF packaging during use; or
 
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correctio
 
 (b) The licensee shall submit a written report to the Commission of instances in which the conditions in the certificate of compliance were not followed during a shipment.
 
-(c) Each licensee shall submit, in accordance with § 71.1, a written report required by paragraph (a) or (b) of this section within 60 days of the event or discovery of the event. The licensee shall also provide a copy of each report submitted to the NRC to the applicable certificate holder. Written reports prepared under other regulations may be submitted to fulfill this requirement if the reports contain all the necessary information, and the appropriate distribution is made. Using an appropriate method listed in § 71.1(a), the licensee shall report to: ATTN: Document Control Desk, Director, Division of Spent Fuel Management, Office of Nuclear Material Safety and Safeguards. These written reports must include the following:
+(c) Each licensee shall submit, in accordance with § 71.1, a written report required by paragraph (a) or (b) of this section within 60 days of the event or discovery of the event. The licensee shall also provide a copy of each report submitted to the NRC to the applicable certificate holder. Written reports prepared under other regulations may be submitted to fulfill this requirement if the reports contain all the necessary information, and the appropriate distribution is made. Using an appropriate method listed in § 71.1(a), the licensee shall report to: ATTN: Document Control Desk, Director, Division of Fuel Management, Office of Nuclear Material Safety and Safeguards. These written reports must include the following:
 
 (1) A brief abstract describing the major occurrences during the event, including all component or system failures that contributed to the event and significant corrective action taken or planned to prevent recurrence.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correctio
 
 (d) *Report legibility.* The reports submitted by licensees and/or certificate holders under this section must be of sufficient quality to permit reproduction and micrographic processing.
 
-[69 FR 3796, Jan. 26, 2004, as amended at 75 FR 73945, Nov. 30, 2010; 79 FR 75740, Dec. 19, 2014]
+[69 FR 3796, Jan. 26, 2004, as amended at 75 FR 73945, Nov. 30, 2010; 79 FR 75740, Dec. 19, 2014; 84 FR 65645, Nov. 29, 2019]

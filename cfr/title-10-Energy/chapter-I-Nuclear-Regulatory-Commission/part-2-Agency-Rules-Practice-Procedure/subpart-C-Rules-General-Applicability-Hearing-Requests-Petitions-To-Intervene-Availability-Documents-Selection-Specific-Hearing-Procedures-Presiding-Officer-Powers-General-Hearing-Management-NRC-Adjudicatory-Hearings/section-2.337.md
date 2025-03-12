@@ -1,7 +1,5 @@
 ##### § 2.337 Evidence at a hearing. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) *Admissibility.* Only relevant, material, and reliable evidence which is not unduly repetitious will be admitted. Immaterial or irrelevant parts of an admissible document will be segregated and excluded so far as is practicable.
 
 (b) *Objections.* An objection to evidence must briefly state the grounds of objection. The transcript must include the objection, the grounds, and the ruling. Exception to an adverse ruling is preserved without notation on-the-record.
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correctio
 
 (2) If a decision is stated to rest in whole or in part on official notice of a fact which the parties have not had a prior opportunity to controvert, a party may controvert the fact by filing an appeal from an initial decision or a petition for reconsideration of a final decision. The appeal must clearly and concisely set forth the information relied upon to controvert the fact.
 
-(g) *Proceedings involving applications* - (1) *Facility construction permits*. In a proceeding involving an application for construction permit for a production or utilization facility, the NRC staff shall offer into evidence any report submitted by the ACRS in the proceeding in compliance with section 182(b) of the Act, any safety evaluation prepared by the NRC staff, and any environmental impact statement prepared in the proceeding under subpart A of part 51 of this chapter by the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, or his or her designee.
+(g) *Proceedings involving applications* - (1) *Facility construction permits*. In a proceeding involving an application for construction permit for a production or utilization facility, the NRC staff shall offer into evidence any report submitted by the ACRS in the proceeding in compliance with section 182(b) of the Act, any safety evaluation prepared by the NRC staff, and any environmental impact statement prepared in the proceeding under subpart A of part 51 of this chapter by the Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, or his or her designee.
 
 (2) Other applications where the NRC staff is a party. In a proceeding involving an application for other than a construction permit for a production or utilization facility, the NRC staff shall offer into evidence:
 
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correctio
 
 (iii) Any NRC staff statement of position on the contention or contested matter provided to the presiding officer under § 2.1202(a); and
 
-(iv) Any environmental impact statement or environmental assessment prepared in the proceeding under subpart A of part 51 of this chapter by the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, or his or her designee if there is any, but only if there are admitted contentions or contested matters with respect to the adequacy of the environmental impact statement or environmental assessment.
+(iv) Any environmental impact statement or environmental assessment prepared in the proceeding under subpart A of part 51 of this chapter by the Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, or his or her designee if there is any, but only if there are admitted contentions or contested matters with respect to the adequacy of the environmental impact statement or environmental assessment.
 
 (3) Other applications where the NRC staff is not a party. In a proceeding involving an application for other than a construction permit for a production or utilization facility, the NRC staff shall offer into evidence, and (with the exception of an ACRS report) provide one or more sponsoring witnesses, for:
 
@@ -36,6 +34,6 @@ Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correctio
 
 (iii) Any NRC staff statement of position on the contention or contested matter under § 2.1202(a); and
 
-(iv) Any environmental impact statement or environmental assessment prepared in the proceeding under subpart A of part 51 of this chapter by the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, or his or her designee if there is any, but only if there are admitted contentions or contested matters with respect to the adequacy of the environmental impact statement or environmental assessment.
+(iv) Any environmental impact statement or environmental assessment prepared in the proceeding under subpart A of part 51 of this chapter by the Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, or his or her designee if there is any, but only if there are admitted contentions or contested matters with respect to the adequacy of the environmental impact statement or environmental assessment.
 
-[69 FR 2236, Jan. 14, 2004, as amended at 73 FR 5716, Jan. 31, 2008; 77 FR 46594, Aug. 3, 2012]
+[69 FR 2236, Jan. 14, 2004, as amended at 73 FR 5716, Jan. 31, 2008; 77 FR 46594, Aug. 3, 2012; 84 FR 65643, Nov. 29, 2019]

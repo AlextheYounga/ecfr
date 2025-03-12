@@ -1,7 +1,5 @@
 ##### § 125.18 What requirements must an SDVO SBC meet to submit an offer on a contract? #####
 
-Link to an amendment published at 84 FR 65664, Nov. 29, 2019.
-
 (a) *Representation of SDVO SBC status.* An SDVO SBC must submit the following representations with its initial offer (which includes price) on a specific contract:
 
 (1) It is an SDVO SBC;
@@ -94,9 +92,9 @@ Link to an amendment published at 84 FR 65664, Nov. 29, 2019.
 
 (e) *Recertification.* (1) A concern that represents itself and qualifies as an SDVO SBC at the time of initial offer (or other formal response to a solicitation), which includes price, including a Multiple Award Contract, is considered an SDVO SBC throughout the life of that contract. This means that if an SDVO SBC is qualified at the time of initial offer for a Multiple Award Contract, then it will be considered an SDVO SBC for each order issued against the contract, unless a contracting officer requests a new SDVO SBC certification in connection with a specific order. Where a concern later fails to qualify as an SDVO SBC, the procuring agency may exercise options and still count the award as an award to an SDVO SBC. However, the following exceptions apply to this paragraph (e)(1):
 
-(i) Where an SDVO contract is novated to another business concern, the concern that will continue performance on the contract must certify its status as an SDVO SBC to the procuring agency, or inform the procuring agency that it does not qualify as an SDVO SBC, within 30 days of the novation approval. If the concern is not an SDVO SBC, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDVO goals.
+(i) Where a contract is novated to another business concern, the concern that will continue performance on the contract must certify its status as an SDVO SBC to the procuring agency, or inform the procuring agency that it does not qualify as an SDVO SBC, within 30 days of the novation approval. If the concern is not an SDVO SBC, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDVO goals.
 
-(ii) Where a concern that is performing an SDVO SBC contract acquires, is acquired by, or merges with another concern and contract novation is not required, the concern must, within 30 days of the transaction becoming final, recertify its SDVO SBC status to the procuring agency, or inform the procuring agency that it no longer qualifies as an SDVO SBC. If the contractor is not an SDVO SBC, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDVO goals. The agency and the contractor must immediately revise all applicable Federal contract databases to reflect the new status.
+(ii) Where a concern that is performing a contract acquires, is acquired by, or merges with another concern and contract novation is not required, the concern must, within 30 days of the transaction becoming final, recertify its SDVO SBC status to the procuring agency, or inform the procuring agency that it no longer qualifies as an SDVO SBC. If the contractor is not an SDVO SBC, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDVO goals. The agency and the contractor must immediately revise all applicable Federal contract databases to reflect the new status.
 
 (iii) Where there has been an SDVO SBC status protest on the solicitation or contract, *see* § 125.27(e) for the effect of the status determination on the contract award.
 
@@ -110,4 +108,10 @@ Link to an amendment published at 84 FR 65664, Nov. 29, 2019.
 
 (6) A concern's status may be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018]
+(f) *Ostensible subcontractor.* Where a subcontractor that is not similarly situated performs primary and vital requirements of a set-aside or sole-source service contract or order, or where a prime contractor is unduly reliant on a small business that is not similarly situated to perform the set-aside or sole source service contract or order, the prime contractor is not eligible for award of an SDVO contract.
+
+(1) When the subcontractor is small for the size standard assigned to the procurement, this issue may be grounds for an SDVO status protest, as described in subpart D of this part. When the subcontractor is other than small, or alleged to be other than small for the size standard assigned to the procurement, this issue may be grounds for a size protest subject to the ostensible subcontractor rule, as described at § 121.103(h)(4) of this chapter.
+
+(2) SBA will find that a prime SDVO contractor is performing the primary and vital requirements of a contract or order and is not unduly reliant on one or more non-similarly situated subcontracts where the prime contractor can demonstrate that it, together with any similarly situated entity, will meet the limitations on subcontracting provisions set forth in § 125.6.
+
+[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65664, Nov. 29, 2019]

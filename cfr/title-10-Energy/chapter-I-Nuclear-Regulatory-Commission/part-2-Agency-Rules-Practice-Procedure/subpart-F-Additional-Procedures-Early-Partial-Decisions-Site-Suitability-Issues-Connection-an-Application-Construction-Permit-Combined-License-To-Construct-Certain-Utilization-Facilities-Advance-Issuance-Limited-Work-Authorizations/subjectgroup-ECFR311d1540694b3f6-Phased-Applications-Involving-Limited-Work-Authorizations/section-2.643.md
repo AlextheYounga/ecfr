@@ -1,8 +1,6 @@
 ##### § 2.643 Acceptance and docketing of application for limited work authorization. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
-(a) Each part of an application submitted in accordance with § 2.101(a)(9) will be initially treated as a tendered application. If it is determined that any one of the parts as described in § 2.101(a)(9) is incomplete and not acceptable for processing, the Director of New Reactors or the Director of Nuclear Reactor Regulation will inform the applicant of this determination and the respects in which the document is deficient. A determination of completeness will generally be made within a period of 30 days.
+(a) Each part of an application submitted in accordance with § 2.101(a)(9) will be initially treated as a tendered application. If it is determined that any one of the parts as described in § 2.101(a)(9) is incomplete and not acceptable for processing, the Director of the Office of Nuclear Reactor Regulation will inform the applicant of this determination and the respects in which the document is deficient. A determination of completeness will generally be made within a period of 30 days.
 
 (b) The Director will accept for docketing part one of an application for a construction permit for a utilization facility which is subject to § 51.20(b) of this chapter and is of the type specified in § 50.21(b)(2) or (3) or § 50.22 of this chapter or an application for a combined license where part one of the application as described in § 2.101(a)(9) is complete. Part one will not be considered complete unless it contains the information required by § 50.10(d)(3) of this chapter. Upon assignment of a docket number, the procedures in § 2.101(a)(3) and (4) relating to formal docketing and the submission and distribution of additional copies of the application must be followed.
 
@@ -11,3 +9,5 @@ Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correctio
 (d) Part two of the application will be docketed upon a determination by the Director that it is complete.
 
 (e) If part two of the application is docketed, the Director will cause to be published in the Federal Register and sent to the Governor or other appropriate official of the State in which the site is located, a notice of docketing of part two of the application which states the purpose of the application, states that a notice of hearing will be published, and requests comments on the construction permit or combined license application, as applicable, from Federal, State, and local agencies and interested persons. The notice will state that comments must be submitted to the NRC within 60 days or such other time as may be specified in the notice.
+
+[72 FR 49478, Aug. 28, 2007, as amended at 84 FR 65644, Nov. 29, 2019]

@@ -2,7 +2,7 @@
 
 (a) *Identification.* A vibrator for climax control of premature ejaculation is used for males who suffer from premature ejaculation. It is designed to increase the time between arousal and ejaculation using the stimulating vibratory effects of the device on the penis.
 
-(b) *Classification.* Class II (special controls). The special controls for this device are:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 876.9. The special controls for this device are:
 
 (1) The labeling must include specific instructions regarding the proper placement and use of the device.
 
@@ -12,4 +12,4 @@
 
 (4) Mechanical safety testing must demonstrate that the device will withstand forces encountered during use.
 
-[80 FR 30355, May 28, 2015]
+[80 FR 30355, May 28, 2015, as amended at 84 FR 71814, Dec. 30, 2019]

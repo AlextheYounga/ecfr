@@ -1,7 +1,5 @@
 ##### § 72.44 License conditions. #####
 
-Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) Each license issued under this part shall include license conditions. The license conditions may be derived from the analyses and evaluations included in the Safety Analysis Report and amendments thereto submitted pursuant to § 72.24. License conditions pertain to design, construction and operation. The Commission may also include additional license conditions as it finds appropriate.
 
 (b) Each license issued under this part shall be subject to the following conditions, even if they are not explicitly stated therein;
@@ -62,7 +60,7 @@ Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correctio
 
 (e) The licensee shall make no change that would decrease the effectiveness of the physical security plan prepared pursuant to § 72.180 without the prior approval of the Commission. A licensee desiring to make such a change shall submit an application for an amendment to the license pursuant to § 72.56. A licensee may make changes to the physical security plan without prior Commission approval, provided that such changes do not decrease the effectiveness of the plan. The licensee shall furnish to the Commission a report containing a description of each change within two months after the change is made, and shall maintain records of changes to the plan made without prior Commission approval for a period of 3 years from the date of the change.
 
-(f) A licensee shall follow and maintain in effect an emergency plan that is approved by the Commission. The licensee may make changes to the approved plan without Commission approval only if such changes do not decrease the effectiveness of the plan. Within six months after any change is made, the licensee shall submit, in accordance with § 72.4, a report containing a description of any changes made in the plan addressed to Director, Division of Spent Fuel Management, Office of Nuclear Material Safety and Safeguards, U.S. Nuclear Regulatory Commission, with a copy to the appropriate NRC Regional Office shown in appendix D to part 20 of this chapter. Proposed changes that decrease the effectiveness of the approved emergency plan must not be implemented unless the licensee has received prior approval of such changes from the Commission.
+(f) A licensee shall follow and maintain in effect an emergency plan that is approved by the Commission. The licensee may make changes to the approved plan without Commission approval only if such changes do not decrease the effectiveness of the plan. Within six months after any change is made, the licensee shall submit, in accordance with § 72.4, a report containing a description of any changes made in the plan addressed to Director, Division of Fuel Management, Office of Nuclear Material Safety and Safeguards, U.S. Nuclear Regulatory Commission, with a copy to the appropriate NRC Regional Office shown in appendix D to part 20 of this chapter. Proposed changes that decrease the effectiveness of the approved emergency plan must not be implemented unless the licensee has received prior approval of such changes from the Commission.
 
 (g) A license issued to DOE under this part for an MRS authorized by section 142(b) of NWPA (101 Stat. 1330-232, 42 U.S.C. 10162(b)) must include the following conditions:
 
@@ -76,4 +74,4 @@ Link to an amendment published at 84 FR 65646, Nov. 29, 2019.Link to a correctio
 
 (h) Each licensee shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements of § 73.21 and the requirements of § 73.22 or § 73.23, as applicable.
 
-[53 FR 31658, Aug. 19, 1988, as amended at 64 FR 33183, June 22, 1999; 66 FR 51840, Oct. 11, 2001; 66 FR 55815, Nov. 2, 2001; 67 FR 3586, Jan. 25, 2002; 68 FR 58819, Oct. 10, 2003; 73 FR 63573, Oct. 24, 2008; 75 FR 73945, Nov. 30, 2010; 79 FR 75741, Dec. 19, 2014]
+[53 FR 31658, Aug. 19, 1988, as amended at 64 FR 33183, June 22, 1999; 66 FR 51840, Oct. 11, 2001; 66 FR 55815, Nov. 2, 2001; 67 FR 3586, Jan. 25, 2002; 68 FR 58819, Oct. 10, 2003; 73 FR 63573, Oct. 24, 2008; 75 FR 73945, Nov. 30, 2010; 79 FR 75741, Dec. 19, 2014; 84 FR 65646, Nov. 29, 2019]

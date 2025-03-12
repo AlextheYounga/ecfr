@@ -2,4 +2,6 @@
 
 (a) *Identification.* A surgical drape and drape accessories is a device made of natural or synthetic materials intended to be used as a protective patient covering, such as to isolate a site of surgical incision from microbial and other contamination. The device includes a plastic wound protector that may adhere to the skin around a surgical incision or be placed in a wound to cover its exposed edges, and a latex drape with a self-retaining finger cot that is intended to allow repeated insertion of the surgeon's finger into the rectum during performance of a transurethral prostatectomy.
 
-(b) *Classification.* Class II.
+(b) *Classification.* Class II (special controls). The device, when it is an ear, nose, and throat surgical drape, a latex sheet drape with self-retaining finger cot, a disposable urological drape, a Kelly pad, an ophthalmic patient drape, an ophthalmic microscope drape, an internal drape retention ring (wound protector), or a surgical drape that does not include an antimicrobial agent, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 878.9.
+
+[53 FR 23872, June 24, 1988, as amended at 84 FR 71814, Dec. 30, 2019]

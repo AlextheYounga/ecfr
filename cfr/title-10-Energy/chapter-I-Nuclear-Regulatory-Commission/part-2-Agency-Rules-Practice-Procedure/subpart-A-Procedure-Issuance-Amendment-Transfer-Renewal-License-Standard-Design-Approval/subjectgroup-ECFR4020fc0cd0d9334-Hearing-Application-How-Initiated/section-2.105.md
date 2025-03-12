@@ -1,7 +1,5 @@
 ##### § 2.105 Notice of proposed action. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) If a hearing is not required by the Act or this chapter, and if the Commission has not found that a hearing is in the public interest, it will, before acting thereon, publish in the Federal Register, as applicable, or on the NRC's Web site, *http://www.nrc.gov,* or both, at the Commission's discretion, either a notice of intended operation under § 52.103(a) of this chapter and a proposed finding that inspections, tests, analyses, and acceptance criteria for a combined license under subpart C of part 52 have been or will be met, or a notice of proposed action with respect to an application for:
 
 (1) A license for a facility;
@@ -62,7 +60,7 @@ Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correctio
 
 (2) Any person whose interest may be affected by the proceeding may file a request for a hearing or a petition for leave to intervene if a hearing has already been requested.
 
-(e)(1) If no request for a hearing or petition for leave to intervene is filed within the time prescribed in the notice, the Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, may take the proposed action, inform the appropriate State and local officials, and publish in the Federal Register a notice of issuance of the license or other action.
+(e)(1) If no request for a hearing or petition for leave to intervene is filed within the time prescribed in the notice, the Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, may take the proposed action, inform the appropriate State and local officials, and publish in the Federal Register a notice of issuance of the license or other action.
 
 (2) If a request for a hearing or a petition for leave to intervene is filed within the time prescribed in the notice, the presiding officer who shall be an Atomic Safety and Licensing Board established by the Commission or by the Chief Administrative Judge of the Atomic Safety and Licensing Board Panel, will rule on the request and/or petition, and the Secretary or the presiding officer will issue a notice of hearing or an appropriate order.
 

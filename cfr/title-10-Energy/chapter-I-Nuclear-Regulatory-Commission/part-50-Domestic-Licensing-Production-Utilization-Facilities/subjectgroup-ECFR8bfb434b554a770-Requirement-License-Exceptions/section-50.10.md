@@ -1,7 +1,5 @@
 ##### § 50.10 License required; limited work authorization. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) *Definitions.* As used in this section, *construction* means the activities in paragraph (a)(1) of this section, and does not mean the activities in paragraph (a)(2) of this section.
 
 (1) Activities constituting construction are the driving of piles, subsurface preparation, placement of backfill, concrete, or permanent retaining walls within an excavation, installation of foundations, or in-place assembly, erection, fabrication, or testing, which are for:
@@ -58,7 +56,7 @@ Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correctio
 
 (iii) A plan for redress of activities performed under the limited work authorization, should limited work activities be terminated by the holder or the limited work authorization be revoked by the NRC, or upon effectiveness of the Commission's final decision denying the associated construction permit or combined license application, as applicable.
 
-(e) *Issuance of limited work authorization.* (1) The Director of New Reactors or the Director of Nuclear Reactor Regulation may issue a limited work authorization only after:
+(e) *Issuance of limited work authorization.* (1) The Director of the Office of Nuclear Reactor Regulation may issue a limited work authorization only after:
 
 (i) The NRC staff issues the final environmental impact statement for the limited work authorization in accordance with subpart A of part 51 of this chapter;
 
@@ -74,4 +72,4 @@ Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correctio
 
 (g) *Implementation of redress plan.* If construction is terminated by the holder, the underlying application is withdrawn by the applicant or denied by the NRC, or the limited work authorization is revoked by the NRC, then the holder must begin implementation of the redress plan in a reasonable time. The holder must also complete the redress of the site no later than 18 months after termination of construction, revocation of the limited work authorization, or upon effectiveness of the Commission's final decision denying the associated construction permit application or the underlying combined license application, as applicable.
 
-[72 FR 57441, Oct. 9, 2007]
+[72 FR 57441, Oct. 9, 2007; 84 FR 65644, Nov. 29, 2019]

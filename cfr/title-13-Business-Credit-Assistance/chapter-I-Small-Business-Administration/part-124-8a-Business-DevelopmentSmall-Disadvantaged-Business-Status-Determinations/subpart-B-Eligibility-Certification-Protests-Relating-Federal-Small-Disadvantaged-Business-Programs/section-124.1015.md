@@ -1,7 +1,5 @@
 ##### § 124.1015 What are the requirements for representing SDB status, and what are the penalties for misrepresentation? #####
 
-Link to an amendment published at 84 FR 65662, Nov. 29, 2019.
-
 (a) *Presumption of Loss Based on the Total Amount Expended.* In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to SDB concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a SDB willfully sought and received the award by misrepresentation.
 
 (b) *Deemed Certifications.* The following actions shall be deemed affirmative, willful and intentional certifications of SDB status:
@@ -22,4 +20,20 @@ Link to an amendment published at 84 FR 65662, Nov. 29, 2019.
 
 (3) *Criminal Penalties.* Persons or concerns are subject to severe criminal penalties for knowingly misrepresenting the SDB status of a concern in connection with procurement programs pursuant to section 16(d) of the Small Business Act, 15 U.S.C. 645(d), as amended, 18 U.S.C. 1001, 18 U.S.C. 287, and any other applicable laws. Persons or concerns are subject to criminal penalties for knowingly making false statements or misrepresentations to SBA for the purpose of influencing any actions of SBA pursuant to section 16(a) of the Small Business Act, 15 U.S.C. 645(a), as amended, including failure to correct “continuing representations” that are no longer true.
 
-[78 FR 38818, June 28, 2013, as amended at 81 FR 31491, May 19, 2016]
+(f) *Recertification.* (1) Generally, a concern that represents itself and qualifies as an SDB at the time of initial offer (or other formal response to a solicitation), which includes price, including a Multiple Award Contract, is considered an SDB throughout the life of that contract. For an indefinite delivery indefinite quantity (IDIQ), Multiple Award Contract, where concerns are not required to submit price as part of their offer for the contract, a concern that represents itself and qualifies as an SDB at the time of initial offer, which may not include price, is considered an SDB throughout the life of that contract. This means that if an SDB is qualified at the time of initial offer for a Multiple Award Contract, then it will be considered an SDB for each order issued against the contract, unless a contracting officer requests a new SDB certification in connection with a specific order. Where a concern later fails to qualify as an SDB, the procuring agency may exercise options and still count the award as an award to an SDB. However, the following exceptions apply:
+
+(i) Where a contract is novated to another business concern, the concern that will continue performance on the contract must certify its status as an SDB to the procuring agency, or inform the procuring agency that it does not qualify as an SDB, within 30 days of the novation approval. If the concern is not an SDB, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDB goals.
+
+(ii) Where a concern that is performing a contract acquires, is acquired by, or merges with another concern and contract novation is not required, the concern must, within 30 days of the transaction becoming final, recertify its SDB status to the procuring agency, or inform the procuring agency that it no longer qualifies as an SDB. If the contractor is not an SDB, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDB goals. The agency and the contractor must immediately revise all applicable Federal contract databases for which they directly certify information to reflect the new status.
+
+(2) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its SDB status no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option.
+
+(3) A business concern that did not certify itself as an SDB, either initially or prior to an option being exercised, may recertify itself as an SDB for a subsequent option period if it meets the eligibility requirements at that time.
+
+(4) Recertification does not change the terms and conditions of the contract. The limitations on subcontracting, nonmanufacturer and subcontracting plan requirements in effect at the time of contract award remain in effect throughout the life of the contract.
+
+(5) Where the contracting officer explicitly requires concerns to recertify their status in response to a solicitation for an order, SBA will determine eligibility as of the date the concern submits its self-representation as part of its response to the solicitation for the order.
+
+(6) A concern's status may be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
+
+[78 FR 38818, June 28, 2013, as amended at 81 FR 31491, May 19, 2016; 84 FR 65662, Nov. 29, 2019]

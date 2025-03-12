@@ -1,7 +1,5 @@
 ##### § 50.61 Fracture toughness requirements for protection against pressurized thermal shock events. #####
 
-Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
-
 (a) *Definitions.* For the purposes of this section:
 
 (1) *ASME Code* means the American Society of Mechanical Engineers Boiler and Pressure Vessel Code, Section III, Division I, “Rules for the Construction of Nuclear Power Plant Components,” edition and addenda and any limitations and modifications thereof as specified in § 50.55a.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 65644, Nov. 29, 2019.Link to a correctio
 
 (4) *RT*NDT means the reference temperature for a reactor vessel material, under any conditions. For the reactor vessel beltline materials, RTNDT must account for the effects of neutron radiation.
 
-(5) *RT*NDT(U) means the reference temperature for a reactor vessel material in the pre-service or unirradiated condition, evaluated according to the procedures in the ASME Code, Paragraph NB-2331 or other methods approved by the Director, Office of Nuclear Reactor Regulation or Director, Office of New Reactors, as appropriate.
+(5) *RT*NDT(U) means the reference temperature for a reactor vessel material in the pre-service or unirradiated condition, evaluated according to the procedures in the ASME Code, Paragraph NB-2331 or other methods approved by the Director, Office of Nuclear Reactor Regulation.
 
 (6) *EOL Fluence* means the best-estimate neutron fluence projected for a specific vessel beltline material at the clad-base-metal interface on the inside surface of the vessel at the location where the material receives the highest fluence on the expiration date of the operating license.
 
@@ -96,9 +94,7 @@ Equation 4: RTPTS = RTNDT(U) + M + ΔRTPTS
 
 (iv) The use of results from the plant-specific surveillance program may result in an RTNDT that is higher or lower than those determined in paragraph (c)(1).
 
-(3) Any information that is believed to improve the accuracy of the RTPTS value significantly must be reported to the Director, Office of Nuclear Reactor Regulation or Director, Office of New Reactors, as appropriate. Any value of RTPTS that has been modified using the procedures of paragraph (c)(2) of this section is subject to the approval of the Director, Office of Nuclear Reactor Regulation or Director, Office of New Reactors, as appropriate, when used as provided in this section.
-
-Table 1 - Chemistry Factor for Weld Metals, °F
+(3) Any information that is believed to improve the accuracy of the RTPTS value significantly must be reported to the Director, Office of Nuclear Reactor Regulation. Any value of RTPTS that has been modified using the procedures of paragraph (c)(2) of this section is subject to the approval of the Director, Office of Nuclear Reactor Regulation, when used as provided in this section.
 
 |Copper, wt-%|Nickel, wt-%|    |    |    |    |    |   |
 |------------|------------|----|----|----|----|----|---|
@@ -145,8 +141,6 @@ Table 1 - Chemistry Factor for Weld Metals, °F
 |    0.39    |    171     |185 |203 |227 |254 |285 |317|
 |    0.40    |    175     |189 |207 |231 |257 |288 |320|
 
-Table 2 - Chemistry Factor for Base Metals, °F
-
 |Copper, wt-%|Nickel, wt-%|    |    |    |    |    |   |
 |------------|------------|----|----|----|----|----|---|
 |     0      |    0.20    |0.40|0.60|0.80|1.00|1.20|   |
@@ -192,4 +186,4 @@ Table 2 - Chemistry Factor for Base Metals, °F
 |    0.39    |    171     |185 |203 |227 |254 |285 |317|
 |    0.40    |    175     |189 |207 |231 |257 |288 |320|
 
-[60 FR 65468, Dec. 19, 1995, as amended at 61 FR 39300, July 29, 1996; 72 FR 49500, Aug. 28, 2007; 73 FR 5722, Jan. 31, 2008; 75 FR 23, Jan. 4, 2010]
+[60 FR 65468, Dec. 19, 1995, as amended at 61 FR 39300, July 29, 1996; 72 FR 49500, Aug. 28, 2007; 73 FR 5722, Jan. 31, 2008; 75 FR 23, Jan. 4, 2010; 84 FR 65644, Nov. 29, 2019]
