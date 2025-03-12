@@ -1,5 +1,7 @@
 ##### § 495.40 Demonstration of meaningful use criteria. #####
 
+Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
+
 (a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22 or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
 (1) For CY 2011 - (i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP -

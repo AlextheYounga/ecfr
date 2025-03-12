@@ -56,7 +56,7 @@
 
 (j) *Certain prepayments.* Section 1.148-1(e)(1) and (2) apply to bonds sold on or after October 3, 2003. Issuers may apply § 1.148-1(e)(1) and (2), in whole but not in part, to bonds sold before October 3, 2003, that are subject to § 1.148-1.
 
-(k) *Certain arbitrage guidance updates* - (1) *In general.* Sections 1.148-1(c)(4)(i)(B)(1); 1.148-1(c)(4)(i)(B)(4); 1.148-1(c)(4)(ii); 1.148-2(e)(3)(i); 1.148-3(d)(1)(iv); 1.148-3(d)(4); 1.148-4(a); 1.148-4(b)(3)(i); 1.148-4(h)(2)(ii)(A); 1.148-4(h)(2)(v); 1.148-4(h)(2)(vi); 1.148(h)(4)(i)(C); 1.148-5(c)(3); 1.148-5(d)(2); 1.148-5(d)(3); 1.148-5(d)(6)(i); 1.148-5(d)(6)(iii)(A); 1.148-5(e)(2)(ii)(B); 1.148-6(d)(4); 1.148-7(c)(3)(v); 1.148-7(i)(6)(ii); 1.148-10(a)(4); 1.148-10(e); 1.148-11(d)(1)(i)(B); 1.148-11(d)(1)(i)(D); 1.148-11(d)(1)(i)(F); and 1.148-11(d)(1)(ii) apply to bonds sold on or after October 17, 2016.
+(k) *Certain arbitrage guidance updates* - (1) *In general.* Sections 1.148-1(c)(4)(i)(B)(1); 1.148-1(c)(4)(i)(B)(4); 1.148-1(c)(4)(ii); 1.148-2(e)(3)(i); 1.148-3(d)(1)(iv); 1.148-3(d)(4); 1.148-4(a); 1.148-4(b)(3)(i); 1.148-4(h)(2)(ii)(A); 1.148-4(h)(2)(v); 1.148-4(h)(2)(vi); 1.148(h)(4)(i)(C); 1.148-5(c)(3); 1.148-5(d)(2); 1.148-5(d)(3); 1.148-5(d)(6)(i); 1.148-5(d)(6)(iii)(A); 1.148-5(e)(2)(ii)(B); 1.148-6(d)(3)(iii)(A); 1.148-6(d)(4); 1.148-7(c)(3)(v); 1.148-7(i)(6)(ii); 1.148-10(a)(4); 1.148-10(e); 1.148-11(d)(1)(i)(B); 1.148-11(d)(1)(i)(D); 1.148-11(d)(1)(i)(F); and 1.148-11(d)(1)(ii) apply to bonds sold on or after October 17, 2016.
 
 (2) *Valuation of investments in refunding transactions.* Section 1.148-5(d)(3) also applies to bonds refunded by bonds sold on or after October 17, 2016.
 
@@ -88,4 +88,4 @@
 
 (m) *Definition of issue price.* The definition of issue price in § 1.148-1(b) and (f) applies to bonds that are sold on or after June 7, 2017.
 
-[T.D. 8476, 58 FR 33547, June 18, 1993; 58 FR 44453, Aug. 23, 1993, as amended by T.D. 8538, 59 FR 24046, May 10, 1994; T.D. 8718, 62 FR 25512, May 9, 1997; T.D. 8476, 64 FR 37037, July 9, 1999; T.D. 9085, 68 FR 45777, Aug. 4, 2003; T.D. 9097, 68 FR 69023, Dec. 11, 2003; T.D. 9701, 79 FR 67351, Nov. 13, 2014; T.D. 9777, 81 FR 46597, July 18, 2016; 81 FR 57459, Aug. 23, 2016; T.D. 9801, 81 FR 89004, Dec. 9, 2016]
+[T.D. 8476, 58 FR 33547, June 18, 1993; 58 FR 44453, Aug. 23, 1993, as amended by T.D. 8538, 59 FR 24046, May 10, 1994; T.D. 8718, 62 FR 25512, May 9, 1997; T.D. 8476, 64 FR 37037, July 9, 1999; T.D. 9085, 68 FR 45777, Aug. 4, 2003; T.D. 9097, 68 FR 69023, Dec. 11, 2003; T.D. 9701, 79 FR 67351, Nov. 13, 2014; T.D. 9777, 81 FR 46597, July 18, 2016; 81 FR 57459, Aug. 23, 2016; T.D. 9801, 81 FR 89004, Dec. 9, 2016; 82 FR 37817, Aug. 14, 2017]

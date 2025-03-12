@@ -1,5 +1,7 @@
 ##### § 489.52 Termination by the provider. #####
 
+Link to an amendment published at 82 FR 38516, Aug. 14, 2017.
+
 (a) *Notice to CMS.* (1) A provider that wishes to terminate its agreement, except for a SNF as specified in paragraph (a)(2) of this section, must send CMS written notice of its intention in accordance with paragraph (a)(3) of this section.
 
 (2) A SNF that wishes to terminate its agreement due to closure of the facility must send CMS written notice of its intention at least 60 days prior to the date of closure, as required at § 483.70(l) of this chapter.

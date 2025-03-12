@@ -1,5 +1,7 @@
 ##### § 413.65 Requirements for a determination that a facility or an organization has provider-based status. #####
 
+Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
+
 (a) *Scope and definitions.* (1) *Scope.* (i) This section applies to all facilities for which provider-based status is sought, including remote locations of hospitals, as defined in paragraph (a)(2) of this section and satellite facilities as defined in §§ 412.22(h)(1) and 412.25(e)(1) of this chapter, other than facilities described in paragraph (a)(1)(ii) of this section.
 
 (ii) The determinations of provider-based status for payment purposes described in this section are not made as to whether the following facilities are provider-based:

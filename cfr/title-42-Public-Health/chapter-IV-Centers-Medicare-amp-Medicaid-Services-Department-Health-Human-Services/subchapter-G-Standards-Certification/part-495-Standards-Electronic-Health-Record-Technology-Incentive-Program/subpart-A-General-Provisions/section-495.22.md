@@ -1,5 +1,7 @@
 ##### § 495.22 Meaningful use objectives and measures for EPs, eligible hospitals, and CAHs for 2015 through 2017. #####
 
+Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
+
 (a) *General rules.* (1) Subject to the provisions of paragraph (a)(2) of this section, the criteria specified in this section are applicable for EPs, eligible hospitals, and CAHs for 2015 through 2017.
 
 (2) For 2017 only, EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year have the option to use the criteria specified for 2018 in § 495.24 instead of the criteria specified for 2017 under paragraphs (e) and (f) of this section.

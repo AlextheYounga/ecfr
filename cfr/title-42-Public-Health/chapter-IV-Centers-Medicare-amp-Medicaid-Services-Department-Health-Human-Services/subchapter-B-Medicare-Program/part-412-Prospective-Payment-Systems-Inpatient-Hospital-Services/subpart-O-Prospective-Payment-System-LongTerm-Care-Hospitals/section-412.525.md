@@ -1,5 +1,7 @@
 ##### § 412.525 Adjustments to the Federal prospective payment. #####
 
+Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
+
 (a) *Adjustments for high-cost outliers.* (1) CMS provides for an additional payment to a long-term care hospital if its estimated costs for a patient exceed the applicable long-term care hospital prospective payment system payment plus an applicable fixed-loss amount. For each long-term care hospital prospective payment system payment year, CMS annually establishes a fixed-loss amount that is the maximum loss that a long-term care hospital would incur under the long-term care hospital prospective payment system for a case with unusually high costs before receiving an additional payment.
 
 (2) The fixed-loss amount for discharges from a long-term care hospital described under § 412.522(a)(2) is determined for the long-term care hospital prospective payment system payment year, using the LTC-DRG relative weights that are in effect at the start of the applicable long-term care hospital prospective payment system payment year.

@@ -1,5 +1,7 @@
 ##### § 405.2404 Termination of rural health clinic agreements. #####
 
+Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
+
 (a) *Termination by RHC* - (1) *Notice to Secretary.* If the RHC wishes to terminate its agreement it shall file with the Secretary a written notice stating the intended effective date of termination.
 
 (2) *Action by the Secretary.* (i) The Secretary may approve the date proposed by the RHC, or set a different date no later than 6 months after the date of the RHC's notice.

@@ -1,5 +1,7 @@
 ##### § 412.560 Participation, data submission, and other requirements under the Long-Term Care Hospital Quality Reporting (LTCHQR) Program. #####
 
+Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
+
 (a) *Participation in the LTCHQR Program.* A long-term-care hospital must begin submitting quality data under the LTCHQR Program by no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter.
 
 (b) *Submission of data requirements and payment impact.* (1) Except as provided in paragraph (c) of this section, a long-term care hospital must submit to CMS data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, as applicable, in a form and manner, and at a time, specified by CMS.

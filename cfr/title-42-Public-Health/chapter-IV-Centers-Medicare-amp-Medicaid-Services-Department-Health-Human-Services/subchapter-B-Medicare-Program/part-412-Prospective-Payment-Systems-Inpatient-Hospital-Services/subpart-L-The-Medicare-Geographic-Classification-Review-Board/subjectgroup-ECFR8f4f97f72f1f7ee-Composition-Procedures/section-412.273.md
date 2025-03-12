@@ -1,5 +1,7 @@
 ##### § 412.273 Withdrawing an application, terminating an approved 3-year reclassification, or canceling a previous withdrawal or termination. #####
 
+Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply.
 
 *Termination* refers to the termination of an already existing 3-year MGCRB reclassification where such reclassification has already been in effect for 1 or 2 years, and there are 1 or 2 years remaining on the 3-year reclassification. A termination is effective only for the full fiscal year(s) remaining in the 3-year period at the time the request is received. Requests for terminations for part of a fiscal year are not considered.

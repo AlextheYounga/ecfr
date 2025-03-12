@@ -1,5 +1,7 @@
 ##### § 412.523 Methodology for calculating the Federal prospective payment rates. #####
 
+Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
+
 (a) *Data used.* To calculate the initial prospective payment rates for inpatient hospital services furnished by long-term care hospitals, CMS uses -
 
 (1) The best Medicare data available; and

@@ -1,5 +1,7 @@
 ##### § 405.2442 Notice to the public. #####
 
+Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
+
 (a) When the FQHC voluntarily terminates the agreement and an effective date is set for the termination, the FQHC must notify the public prior to a prospective effective date or on the actual day that business ceases, if no prospective date of termination has been set, through publication in at least one newspaper in general circulation in the area serviced by the FQHC of the -
 
 (1) Effective date of termination of the provision of services; and

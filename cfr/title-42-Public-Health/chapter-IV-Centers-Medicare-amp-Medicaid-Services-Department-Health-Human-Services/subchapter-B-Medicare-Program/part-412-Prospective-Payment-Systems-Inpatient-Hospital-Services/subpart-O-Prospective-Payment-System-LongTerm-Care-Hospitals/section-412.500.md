@@ -1,5 +1,7 @@
 ##### § 412.500 Basis and scope of subpart. #####
 
+Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
+
 (a) *Basis.* This subpart implements the following:
 
 (1) Section 123 of Public Law 106-113, which provides for the implementation of a prospective payment system for long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Act.

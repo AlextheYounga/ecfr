@@ -1,5 +1,7 @@
 ##### § 412.538 Limitation on long-term care hospital admissions from referring hospitals. #####
 
+Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
+
 (a) *Scope.* (1) The provisions of this section apply to all long-term care hospitals excluded from the hospital inpatient prospective payment system under § 412.23(e), except as specified in paragraph (a)(2) of this section, effective for -
 
 (i) Discharges occurring in cost reporting periods beginning on or after October 1, 2016 (for long-term care hospitals that formerly would have been subject to § 412.534); or

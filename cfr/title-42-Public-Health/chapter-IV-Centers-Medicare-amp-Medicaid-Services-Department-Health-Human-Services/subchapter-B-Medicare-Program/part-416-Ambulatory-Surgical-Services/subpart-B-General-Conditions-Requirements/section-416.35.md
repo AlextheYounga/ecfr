@@ -1,5 +1,7 @@
 ##### § 416.35 Termination of agreement. #####
 
+Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
+
 (a) *Termination by the ASC* - (1) *Notice to CMS.* An ASC that wishes to terminate its agreement must send CMS written notice of its intent.
 
 (2) *Date of termination.* The notice may state the intended date of termination which must be the first day of a calendar month.

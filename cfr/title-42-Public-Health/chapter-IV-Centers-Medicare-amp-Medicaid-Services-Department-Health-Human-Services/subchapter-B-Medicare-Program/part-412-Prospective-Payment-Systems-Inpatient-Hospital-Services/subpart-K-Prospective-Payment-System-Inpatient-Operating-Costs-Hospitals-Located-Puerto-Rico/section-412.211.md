@@ -1,5 +1,7 @@
 ##### § 412.211 Puerto Rico rates for Federal fiscal year 2004 and subsequent fiscal years. #####
 
+Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
+
 (a) *General rule.* CMS determines the Puerto Rico adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge occurring in Federal fiscal year 2004 and subsequent fiscal years that involves inpatient hospital services of a hospital in Puerto Rico subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:

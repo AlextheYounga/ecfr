@@ -1,5 +1,7 @@
 ##### § 412.23 Excluded hospitals: Classifications. #####
 
+Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
+
 Hospitals that meet the requirements for the classifications set forth in this section are not reimbursed under the prospective payment systems specified in § 412.1(a)(1):
 
 (a) *Psychiatric hospitals.* A psychiatric hospital must -

@@ -1,0 +1,3 @@
+##### § 710.35 Recordkeeping requirements. #####
+
+Each person who is subject to the notification requirements of this part must retain records that document any information reported to EPA. Records relevant to a Notice of Activity under §§ 710.25(a) and 710.25(b) must be retained for a period of 5 years beginning on the last day of the submission period. Records relevant to a Notice of Activity under § 710.25(c) must be retained for a period of 5 years beginning on the day that the notice was submitted.

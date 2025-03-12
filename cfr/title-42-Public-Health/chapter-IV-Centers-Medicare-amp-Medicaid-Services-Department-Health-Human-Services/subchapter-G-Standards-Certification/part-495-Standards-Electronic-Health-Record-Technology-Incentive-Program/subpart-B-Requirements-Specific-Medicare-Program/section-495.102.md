@@ -1,5 +1,7 @@
 ##### § 495.102 Incentive payments to EPs. #####
 
+Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
+
 (a) *General rules.* (1) Subject to paragraph (b) of this section, in addition to the amount otherwise paid under section 1848 of the Act, there must be paid to a qualifying EP (or to an employer or entity in the cases described in section 1842(b)(6)(A) of the Act) for a payment year an amount equal to 75 percent of the estimated allowed charges for covered professional services furnished by the EP during the payment year.
 
 (2) For purposes of this paragraph (a) of this section, the estimated allowed charges for the qualifying EP's covered professional services during the payment year are determined based on claims submitted no later than 2 months after the end of the payment year, and, in the case of a qualifying EP who furnishes covered professional services in more than one practice, are determined based on claims submitted for the EP's covered professional services across all such practices.

@@ -1,0 +1,9 @@
+##### § 710.25 Persons subject to the notification requirement. #####
+
+The following persons are subject to the requirements of this subpart.
+
+(a) *Who must submit the Notice of Activity Form A?* Any person who manufactured (including imported) a chemical substance subject to commercial activity designation at any time during the lookback period, except as provided in § 710.27, must submit a Notice of Activity Form A as specified under §§ 710.29 and 710.30(a), unless such person has evidence in the form of a CDX receipt, documenting EPA's receipt of a Notice of Activity Form A from another person, for the same chemical substance, or unless the prior manufacturing of such a substance is not known to or reasonably ascertainable by the person. Evidence in the form of a CDX receipt for a Notice of Activity Form A is not a basis for exemption from the requirements of § 710.25(c) if the chemical substance is ultimately designated as inactive due to withdrawal of the Notice of Activity Form A.
+
+(b) *Who else may submit the Notice of Activity Form A?* Any person not required to submit a Notice of Activity Form A under § 710.25(a), who manufactured (including imported) or processed a reportable chemical substance, at any time during the lookback period, may submit a Notice of Activity Form A as specified under §§ 710.29 and 710.30(a).
+
+(c) *Who must submit the Notice of Activity Form B?* Any person who intends to manufacture (including import) or process an inactive substance, except as provided in § 710.27, after the effective date of the Administrator's designation of such chemical substance as an inactive substance, must submit a Notice of Activity Form B as specified under §§ 710.29 and 710.30(b), unless the presence of the inactive substance on the confidential portion of the Inventory is not known to or reasonably ascertainable by the person.

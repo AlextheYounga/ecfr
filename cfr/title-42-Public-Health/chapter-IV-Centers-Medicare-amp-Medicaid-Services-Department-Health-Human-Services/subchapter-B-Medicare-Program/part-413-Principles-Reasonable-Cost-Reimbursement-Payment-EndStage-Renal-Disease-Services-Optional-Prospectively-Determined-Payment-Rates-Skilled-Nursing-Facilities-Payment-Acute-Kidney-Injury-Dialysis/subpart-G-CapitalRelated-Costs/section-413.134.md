@@ -1,5 +1,7 @@
 ##### § 413.134 Depreciation: Allowance for depreciation based on asset costs. #####
 
+Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
+
 (a) *Principle.* An appropriate allowance for depreciation on buildings and equipment used in the provision of patient care is an allowable cost. The depreciation must be -
 
 (1) Identifiable and recorded in the provider's accounting records;

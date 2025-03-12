@@ -1,5 +1,7 @@
 ##### § 495.4 Definitions. #####
 
+Link to an amendment published at 82 FR 38516, Aug. 14, 2017.
+
 In this part, unless otherwise indicated -
 
 *API* stands for application programming interface.

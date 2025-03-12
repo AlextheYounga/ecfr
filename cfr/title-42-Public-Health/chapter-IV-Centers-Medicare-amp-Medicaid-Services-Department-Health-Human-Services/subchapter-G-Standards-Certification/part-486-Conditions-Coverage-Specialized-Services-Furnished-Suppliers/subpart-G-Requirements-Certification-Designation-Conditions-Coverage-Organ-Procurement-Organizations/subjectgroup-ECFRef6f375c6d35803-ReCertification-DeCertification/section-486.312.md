@@ -1,5 +1,7 @@
 ##### § 486.312 De-certification. #####
 
+Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
+
 (a) *Voluntary termination of agreement.* If an OPO wishes to terminate its agreement, the OPO must send CMS written notice of its intention to terminate its agreement and the proposed effective date. CMS may approve the proposed date, set a different date no later than 6 months after the proposed effective date, or set a date less than 6 months after the proposed effective date if it determines that a different date would not disrupt services to the service area. If CMS determines that a designated OPO has ceased to furnish organ procurement services to its service area, the cessation of services is deemed to constitute a voluntary termination by the OPO, effective on a date determined by CMS. CMS will de-certify the OPO as of the effective date of the voluntary termination.
 
 (b) *Involuntary termination of agreement.* During the term of the agreement, CMS may terminate an agreement with an OPO if the OPO no longer meets the requirements for certification at § 486.303. CMS may also terminate an agreement immediately in cases of urgent need, such as the discovery of unsound medical practices. CMS will de-certify the OPO as of the effective date of the involuntary termination.
