@@ -1,0 +1,3 @@
+##### § 205.376 Rates and charges. #####
+
+The applicant and the generating or transmitting systems from which emergency service is requested are encouraged to utilize the rates and charges contained in approved existing rate schedules or to negotiate mutually satisfactory rates for the proposed transactions. In the event that the DOE determines that an emergency exists under section 202(c), and the “entities” are unable to agree on the rates to be charged, the DOE shall prescribe the conditions of service and refer the rate issues to the Federal Energy Regulatory Commission for determination by that agency in accordance with its standards and procedures.

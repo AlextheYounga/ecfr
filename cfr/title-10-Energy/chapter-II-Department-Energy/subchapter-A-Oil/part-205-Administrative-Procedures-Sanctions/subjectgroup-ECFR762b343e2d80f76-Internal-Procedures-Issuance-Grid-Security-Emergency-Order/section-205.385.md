@@ -1,0 +1,5 @@
+##### § 205.385 Clarification or reconsideration. #####
+
+(a) Any entity subject to an emergency order may request clarification or reconsideration of the emergency order. All such requests must be submitted in writing to the Secretary. The Department will post all such requests on the DOE website consistent with 10 CFR part 1004. To the extent the ordered entity believes the grid security emergency order lacks necessary clarity for implementation, or conflicts with the technically feasible operations of the electric grid or existing regulatory requirements, the ordered entity should seek immediate clarification from the Department.
+
+(b) Upon receipt of a request for clarification or reconsideration, the Secretary may, in his or her sole discretion, order a stay of the emergency order for which such clarification or rehearing is sought. The Secretary will act as soon as practicable on each request, with or without further proceedings. Such responsive actions may include granting or denying the request or abrogating or modifying the order, in whole or in part.

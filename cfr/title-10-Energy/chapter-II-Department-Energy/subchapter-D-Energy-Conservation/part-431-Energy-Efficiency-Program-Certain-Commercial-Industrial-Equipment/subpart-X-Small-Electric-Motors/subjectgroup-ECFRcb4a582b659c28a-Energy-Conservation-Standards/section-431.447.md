@@ -1,6 +1,6 @@
 ##### § 431.447 Department of Energy recognition of nationally recognized certification programs. #####
 
-Link to an amendment published at 86 FR 25, Jan. 4, 2021.
+Link to an amendment published at 86 FR 25, Jan. 4, 2021.This amendment was delayed until Mar. 21, 2021, at 86 FR 7798, Feb. 2, 2021.
 
 (a) *Petition.* For a certification program to be classified by the Department of Energy as being nationally recognized in the United States (“nationally recognized”), the organization operating the program must submit a petition to the Department requesting such classification, in accordance with paragraph (c) of this section and § 431.448. The petition must demonstrate that the program meets the criteria in paragraph (b) of this section.
 

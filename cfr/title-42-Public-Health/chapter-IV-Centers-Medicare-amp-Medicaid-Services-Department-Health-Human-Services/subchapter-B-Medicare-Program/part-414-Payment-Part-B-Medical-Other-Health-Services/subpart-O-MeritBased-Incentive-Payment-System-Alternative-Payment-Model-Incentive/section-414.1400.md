@@ -58,7 +58,7 @@
 
 (b) *QCDRs.* - (1) *QCDR self-nomination.* For the 2020 and 2021 MIPS payment years, entities seeking to qualify as a QCDR must self-nominate September 1 until November 1 of the CY preceding the applicable performance period. For the 2022 MIPS payment year and future years, entities seeking to qualify as a QCDR must self-nominate during a 60-day period during the CY preceding the applicable performance period (beginning no earlier than July 1 and ending no later than September 1). Entities seeking to qualify as a QCDR for a performance period must provide all information required by CMS at the time of self-nomination and must provide any additional information requested by CMS during the review process. For the 2021 MIPS payment year and future years, existing QCDRs that are in good standing may attest that certain aspects of their previous year's approved self-nomination have not changed and will be used for the applicable performance period. Beginning with the 2023 payment year, QCDRs are required to attest during the self-nomination process that they can provide performance feedback at least 4 times a year (as specified at paragraph (b)(2)(iv) of this section), and if not, provide sufficient rationale as to why they do not believe they would be able to meet this requirement. Each QCDR would still be required to submit notification to CMS within the reporting period promptly within the month of realization of the impending deficiency in order to be considered for this exception, as discussed at paragraph (b)(2)(iv) of this section.
 
-(2) *QCDR conditions for approval.* In addition to the other requirements in this section, the criteria for an entity to be approved as a QCDR include the following:
+(2) *QCDR conditions for approval.*(i) Beginning with the 2022 MIPS Payment Year, the QCDR must have at least 25 participants by January 1 of the year prior to the applicable performance period.
 
 (ii) If the entity uses an external organization for purposes of data collection, calculation, or transmission, it must have a signed, written agreement with the external organization that specifically details the responsibilities of the entity and the external organization. The written agreement must be effective as of September 1 of the year preceding the applicable performance period.
 
@@ -310,4 +310,4 @@
 
 (3) For the purposes of auditing, CMS may request any records or data retained for the purposes of MIPS for up to 6 years from the end of the MIPS performance period.
 
-[83 FR 60088, Nov. 23, 2018, as amended at 84 FR 63198, Nov. 15, 2019; 85 FR 27623, May 8, 2020; 85 FR 85033, Dec. 28, 2020]
+[83 FR 60088, Nov. 23, 2018, as amended at 84 FR 63198, Nov. 15, 2019; 85 FR 27623, May 8, 2020; 85 FR 85033, Dec. 28, 2020] Editorial Note:At 85 FR 85033, Dec. 28, 2020, § 414.1400 was amended by adding paragraph (b)(2) introductory text; however, the amendment could not be incorporated due to an inaccurate amendatory instruction.

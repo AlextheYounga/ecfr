@@ -1,6 +1,6 @@
 ##### § 486.328 Condition: Reporting of data. #####
 
-Link to an amendment published at 85 FR 77949, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77949, Dec. 2, 2020.This amendment is delayed until March 30, 2021, at 86 FR 7813, Feb. 2, 2021.
 
 (a) An OPO must provide individually-identifiable, hospital-specific organ donation and transplantation data and other information to the Organ Procurement and Transplantation Network, the Scientific Registry of Transplant Beneficiaries, and DHHS, as requested by the Secretary. The data may include, but are not limited to:
 

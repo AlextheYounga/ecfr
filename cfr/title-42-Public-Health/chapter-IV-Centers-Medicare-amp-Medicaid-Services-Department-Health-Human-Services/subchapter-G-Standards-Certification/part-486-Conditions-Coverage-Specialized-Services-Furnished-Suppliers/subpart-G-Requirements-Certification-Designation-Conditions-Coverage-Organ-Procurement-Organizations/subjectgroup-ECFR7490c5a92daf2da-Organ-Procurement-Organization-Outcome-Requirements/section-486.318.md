@@ -1,6 +1,6 @@
 ##### § 486.318 Condition: Outcome measures. #####
 
-Link to an amendment published at 85 FR 77948, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77948, Dec. 2, 2020.This amendment is delayed until March 30, 2021, at 86 FR 7813, Feb. 2, 2021.
 
 (a) With the exception of OPOs operating exclusively in noncontiguous States, Commonwealths, Territories, or possessions, an OPO must meet two out of the three following outcome measures:
 

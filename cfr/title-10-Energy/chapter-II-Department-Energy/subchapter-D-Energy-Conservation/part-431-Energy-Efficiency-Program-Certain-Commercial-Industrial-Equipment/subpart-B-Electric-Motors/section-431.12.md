@@ -1,6 +1,6 @@
 ##### § 431.12 Definitions. #####
 
-Link to an amendment published at 86 FR 21, Jan. 4, 2021.
+Link to an amendment published at 86 FR 21, Jan. 4, 2021.This amendment was delayed until Mar. 21, 2021, at 86 FR 7798, Feb. 2, 2021.
 
 The following definitions apply for purposes of this subpart, and of subparts U and V of this part. Any words or terms not defined in this Section or elsewhere in this part shall be defined as provided in Section 340 of the Act.
 

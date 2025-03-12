@@ -1,0 +1,7 @@
+##### § 205.390 Liability exemptions. #####
+
+(a) To the extent any action or omission taken by an entity that is necessary to comply with an emergency order issued pursuant to section 215A(b)(1) of the Federal Power Act and this Part, including any action or omission taken to voluntarily comply with such order, results in noncompliance with, or causes such entity not to comply with any rule, order, regulation, or provision of or under the Federal Power Act, including any reliability standard approved by the Federal Energy Regulatory Commission pursuant to section 215 of the Federal Power Act, the Department will not consider such action or omission to be a violation of such rule, order, regulation, or provision.
+
+(b) The Department will treat an action or omission by an owner, operator, or user of critical electric infrastructure or of defense critical electric infrastructure to comply with an emergency order issued pursuant to section 215A(b)(1) of the Federal Power Act as the functional equivalent of an action or omission taken to comply with an order issued under section 202(c) of the Federal Power Act for purposes of section 202(c).
+
+(c) The liability exemptions specified in paragraphs (a) and (b) of this section do not apply to an entity that, in the course of complying with an emergency order by taking an action or omission for which the entity would otherwise be liable, takes such action or omission in a grossly negligent manner.

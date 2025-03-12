@@ -1,0 +1,5 @@
+##### § 205.300 Who shall apply. #####
+
+(a) An electric utility or other entity subject to DOE jurisdiction under part II of the Federal Power Act who proposes to transmit any electricity from the United States to a foreign country must submit an application or be a party to an application submitted by another entity. The application shall be submitted to the Office of Utility Systems of the Economic Regulatory Administration (EPA).
+
+(b) In connection with an application under §§ 205.300 through 205.309, attention is directed to the provisions of §§ 205.320 through 205.327, below, concerning applications for Presidential Permits for the construction, connection, operation, or maintenance, at the borders of the United States, of facilities for the transmission of electric energy between the United States and a foreign country in compliance with Executive Order 10485, as amended by Executive Order 12038.

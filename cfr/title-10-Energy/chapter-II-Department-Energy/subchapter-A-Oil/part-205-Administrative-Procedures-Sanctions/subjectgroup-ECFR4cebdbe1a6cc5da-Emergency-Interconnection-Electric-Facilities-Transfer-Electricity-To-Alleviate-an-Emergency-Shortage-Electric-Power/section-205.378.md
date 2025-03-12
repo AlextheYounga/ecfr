@@ -1,0 +1,3 @@
+##### § 205.378 Disconnection of temporary facilities. #####
+
+Upon the termination of any emergency for the mitigation of which the DOE ordered the construction of temporary facilities, such facilities shall be disconnected and any temporary construction removed or otherwise disposed of, unless application is made as provided in § 205.379 for permanent connection for emergency use. This disconnection and removal of temporary facilities shall be accomplished within 30 days of the termination of the emergency unless an extension is granted by the DOE. The DOE shall be notified promptly when such removal of facilities is completed.

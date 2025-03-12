@@ -1,6 +1,6 @@
 ##### § 486.316 Re-certification and competition processes. #####
 
-Link to an amendment published at 85 FR 77947, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77947, Dec. 2, 2020.This amendment is delayed until March 30, 2021, at 86 FR 7813, Feb. 2, 2021.
 
 (a) *Re-Certification of OPOs.* An OPO is re-certified for an additional 4 years and its service area is not opened for competition when the OPO:
 

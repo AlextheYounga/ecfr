@@ -1,5 +1,7 @@
 ##### § 165.752 Sparkman Channel, Tampa, Florida - regulated navigation area. #####
 
+Link to an amendment published at 86 FR 7811, Feb. 2, 2021.
+
 (a) A regulated navigation area is established to protect vessels from limited water depth in Sparkman Channel caused by an underwater pipeline. The regulated navigation area is in Sparkman Channel between the lines connecting the following points (referenced in NAD 83):
 
 |  Latitude   |  Longitude   |   |  Latitude   |  Longitude  |

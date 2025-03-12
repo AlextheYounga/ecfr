@@ -1,6 +1,6 @@
 ##### § 1986.110 Decisions and orders of the Administrative Review Board. #####
 
-Link to an amendment published at 86 FR 1793, Jan. 11, 2021.
+Link to an amendment published at 86 FR 1793, Jan. 11, 2021.Link to a correction published at 86 FR 7808, Feb. 2, 2021.
 
 (a) The Assistant Secretary or any other party desiring to seek review, including judicial review, of a decision of the ALJ must file a written petition for review with the ARB. The parties should identify in their petitions for review the legal conclusions or orders to which they object, or the objections may be deemed waived. A petition must be filed within 14 days of the date of the decision of the ALJ. The date of the postmark, facsimile transmittal, or electronic communication transmittal will be considered to be the date of filing; if the petition is filed in person, by hand delivery or other means, the petition is considered filed upon receipt. The petition must be served on all parties and on the Chief Administrative Law Judge at the time it is filed with the ARB. Copies of the petition for review and all briefs must be served on the Assistant Secretary and, in cases in which the Assistant Secretary is a party, on the Associate Solicitor, Division of Occupational Safety and Health, U.S. Department of Labor.
 

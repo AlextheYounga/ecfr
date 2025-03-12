@@ -1,6 +1,6 @@
 ##### § 486.348 Condition: Quality assessment and performance improvement (QAPI). #####
 
-Link to an amendment published at 85 FR 77949, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77949, Dec. 2, 2020.This amendment is delayed until March 30, 2021, at 86 FR 7813, Feb. 2, 2021.
 
 The OPO must develop, implement, and maintain a comprehensive, data-driven QAPI program designed to monitor and evaluate performance of all donation services, including services provided under contract or arrangement.
 

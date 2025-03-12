@@ -1,0 +1,5 @@
+##### § 205.386 Temporary access to classified and sensitive information. #####
+
+(a) To the extent practicable, and consistent with obligations to protect classified and sensitive information, the Secretary may provide temporary access to classified and sensitive information, at the level necessary in light of the conditions of the incident, related to a grid security emergency for which emergency measures are issued to key personnel of any entity subject to such emergency measures, to the extent the Secretary deems necessary under the circumstances. The purpose of this access, as defined under section 215A(b)(7) of the Federal Power Act, is to enable optimum communication between the entity and the Secretary and other appropriate Federal agencies regarding the grid security emergency.
+
+(b) CEII will be shared, where deemed necessary by the Secretary, in accordance with 10 CFR part 1004.

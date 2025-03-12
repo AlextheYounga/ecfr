@@ -1,6 +1,6 @@
 ##### § 486.302 Definitions. #####
 
-Link to an amendment published at 85 FR 77947, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77947, Dec. 2, 2020.This amendment is delayed until March 30, 2021, at 86 FR 7813, Feb. 2, 2021.
 
 As used in this subpart, the following definitions apply:
 

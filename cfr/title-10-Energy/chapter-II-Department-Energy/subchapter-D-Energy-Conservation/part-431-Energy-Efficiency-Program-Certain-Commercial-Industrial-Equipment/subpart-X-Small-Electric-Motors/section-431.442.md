@@ -1,6 +1,6 @@
 ##### § 431.442 Definitions. #####
 
-Link to an amendment published at 86 FR 23, Jan. 4, 2021.
+Link to an amendment published at 86 FR 23, Jan. 4, 2021.This amendment was delayed until Mar. 21, 2021, at 86 FR 7798, Feb. 2, 2021.
 
 The following definitions are applicable to this subpart:
 

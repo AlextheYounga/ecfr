@@ -8,12 +8,12 @@
 
 (ii) Continue to accrue for each violation identified in the NONC until it is corrected.
 
-(2) The penalty may be up to $1,273 per day for each violation identified in the NONC that you have not corrected.
+(2) The penalty may be up to $1,288 per day for each violation identified in the NONC that you have not corrected.
 
-(b) If you do not correct all of the violations identified in the NONC within 40 days after you are served the NONC, or within 20 days following the expiration of any period longer than 20 days that the NONC specifies for correction, then we may increase the penalty to a maximum of $12,740 per day for each violation identified in the NONC that you have not corrected. The increased penalty will:
+(b) If you do not correct all of the violations identified in the NONC within 40 days after you are served the NONC, or within 20 days following the expiration of any period longer than 20 days that the NONC specifies for correction, then we may increase the penalty to a maximum of $12,891 per day for each violation identified in the NONC that you have not corrected. The increased penalty will:
 
 (1) Begin to run on the 40th day after the date on which you were served the NONC, or on the 20th day after the expiration of any period longer than 20 days that the NONC specifies for correction.
 
 (2) Continue to accrue for each violation identified in the NONC until it is corrected.
 
-[81 FR 50316, Aug. 1, 2016, as amended at 82 FR 18860, Apr. 24, 2017; 83 FR 2909, Jan. 22, 2018; 84 FR 8418, Mar. 8, 2019; 85 FR 7223, Feb. 7, 2020]
+[81 FR 50316, Aug. 1, 2016, as amended at 82 FR 18860, Apr. 24, 2017; 83 FR 2909, Jan. 22, 2018; 84 FR 8418, Mar. 8, 2019; 85 FR 7223, Feb. 7, 2020; 86 FR 7810, Feb. 2, 2021]
