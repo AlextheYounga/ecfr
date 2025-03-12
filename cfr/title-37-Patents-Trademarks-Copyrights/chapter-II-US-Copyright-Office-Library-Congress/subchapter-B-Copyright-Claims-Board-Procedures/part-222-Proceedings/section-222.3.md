@@ -1,8 +1,6 @@
 ##### § 222.3 Initial notice. #####
 
-Link to an amendment published at 87 FR 30077, May 17, 2022.
-
-(a) *Content of initial notice.* The Board shall prepare an *initial notice* for the claimant(s) to serve on each respondent that shall -
+(a) *Content of initial notice.* The Board shall prepare an *initial notice* for the claimant(s) to serve on each respondent that shall—
 
 (1) Include on the first page a caption that provides the parties' names and includes the docket number assigned by the Board;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.
 
 (ii) A claim for a declaration of noninfringement of an exclusive right in a copyrighted work provided under 17 U.S.C. 106; and
 
-(iii) A claim under 17 U.S.C. 512(f) for misrepresentation in connection with -
+(iii) A claim under 17 U.S.C. 512(f) for misrepresentation in connection with—
 
 (A) A notification of claimed infringement; or
 
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.
 
 (9) State that the respondent has the right to opt out of participating in the proceeding, and that the consequence of opting out is that the proceeding shall be dismissed without prejudice and the claimant shall have to determine whether to file a lawsuit in a Federal district court;
 
-(10) State that if the respondent does not opt out within 60 days from the day the respondent received the *initial notice,* the proceeding shall go forward and the respondent shall -
+(10) State that if the respondent does not opt out within 60 days from the day the respondent received the *initial notice,* the proceeding shall go forward and the respondent shall—
 
 (i) Lose the opportunity to have the dispute decided by the Federal court system, created under Article III of the Constitution of the United States; and
 
@@ -46,10 +44,12 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.
 
 (14) Indicate where other pertinent information concerning proceedings before the Board may be found on the Board's website;
 
-(15) Provide direction on how a respondent may opt out of the proceeding, either online or by mail; and
+(15) Provide direction on how a respondent may opt out of the proceeding, either online or by mail;
 
-(16) Include any additional information that the Board may determine should be included.
+(16) In the case of a proceeding in which the claimant has requested under § 222.2(c)(1) that the proceeding be conducted as a smaller claim under 37 CFR part 226, include a statement that the proceeding shall be conducted as a smaller claim and a brief explanation of the differences between smaller claims proceedings and other proceedings before the Board; and
+
+(17) Include any additional information that the Board may determine should be included.
 
 (b) *Service of initial notice.* Following notification from the Board pursuant to 17 U.S.C. 1506(f)(1)(A) to proceed with service of the claim, the claimant shall cause the *initial notice,* the claim, the opt-out notification form, and any other documents required by the direction of the Board to be served with the *initial notice* and the claim, upon each respondent as prescribed in § 222.5(b) and 17 U.S.C. 1506(g). The copy of the claim that is served shall be of the claim that was found to be compliant under 37 CFR 224.1, and is, at the time of service, available on eCCB. The *initial notice,* the claim, the opt-out notification form, and any other document required by the Board shall not be accompanied by any additional substantive communications or materials, including without limitation settlement demands, correspondence purporting to describe the claim or the strength of the claim, or exhibits not filed with the claim, when served by the claimant(s).
 
-[87 FR 17000, Mar. 25, 2022]
+[87 FR 17000, Mar. 25, 2022, as amended at 87 FR 30077, May 17, 2022]

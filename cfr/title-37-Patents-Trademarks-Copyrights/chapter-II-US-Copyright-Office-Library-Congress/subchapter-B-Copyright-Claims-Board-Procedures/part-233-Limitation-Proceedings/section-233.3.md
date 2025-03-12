@@ -1,0 +1,5 @@
+##### § 233.3 Temporary limitations on proceedings. #####
+
+(a) *Moratorium on new claims.* If the Board has determined that the number of pending cases before it has overwhelmed the capacity of the Board, the Board may impose a temporary stay on the filing of claims. The Board shall publish an announcement of that determination on its website, stating the effective date of the stay, and the duration of the stay, not to exceed six months.
+
+(b) *Exception to moratorium.* If a claimant's statute of limitations under 17 U.S.C. 1504(b) is about to expire during the stay issued under paragraph (a) of this section, the claimant may file a claim on or before the statutory deadline accompanied by a declaration under penalty of perjury stating that the statute of limitations will expire during the stay and setting forth facts in support of that conclusion. If the Board determines that the statute of limitations likely will expire during the stay based on the facts set forth in the declaration, the Board shall hold the claim in abeyance and conduct a compliance review following the end of the stay.

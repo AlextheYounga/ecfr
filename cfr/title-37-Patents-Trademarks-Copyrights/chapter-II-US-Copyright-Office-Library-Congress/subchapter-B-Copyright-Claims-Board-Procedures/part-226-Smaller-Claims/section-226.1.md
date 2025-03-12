@@ -1,0 +1,3 @@
+##### § 226.1 General. #####
+
+When total monetary relief sought in a claim does not exceed $5,000 (exclusive of attorneys' fees and costs), the claimant may choose to have the proceeding adjudicated under the procedures set forth in this part. The provisions of 37 CFR parts 220, 221, 223, 224, 227, 228, 229, 230, 231, 232, 233, and 234 and 37 CFR 222.1 through 222.10, 222.17, and 222.19 shall also apply to proceedings adjudicated under this part and no other procedures other than those set forth in this part shall apply, unless the Copyright Claims Board (Board) decides in its discretion that such application or non-application would not be in the interest of justice.

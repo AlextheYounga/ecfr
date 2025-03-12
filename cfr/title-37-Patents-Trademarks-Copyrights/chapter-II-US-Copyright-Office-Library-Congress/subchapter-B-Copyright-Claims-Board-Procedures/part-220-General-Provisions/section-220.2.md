@@ -1,1 +1,3 @@
-##### § 220.2 [Reserved] #####
+##### § 220.2 Authority and functions. #####
+
+The Copyright Claims Board (Board) is an alternative forum to Federal court in which parties may voluntarily seek to resolve certain copyright-related claims regarding any category of copyrighted work, as provided in chapter 15 of title 17 of the United States Code. The Board's proceedings are governed by title 17 of the United States Code and the regulations in this subchapter.

@@ -1,0 +1,3 @@
+##### § 231.3 Response to request for Register's review. #####
+
+A party opposing the request for review may file a response to the request for review within 30 days of the date of service of the request. Such response shall be no more than 12 pages and shall meet the requirements set forth in § 220.5(b) of this subchapter. The request must include the reasons the party believes there was no abuse of discretion in denying the request for reconsideration. No reply filings shall be permitted.

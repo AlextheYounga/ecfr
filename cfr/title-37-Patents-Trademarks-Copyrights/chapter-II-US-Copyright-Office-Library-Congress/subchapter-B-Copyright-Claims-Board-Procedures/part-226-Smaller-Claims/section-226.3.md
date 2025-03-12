@@ -1,0 +1,3 @@
+##### § 226.3 Effect of counterclaims on a smaller claims proceeding. #####
+
+Where a claimant has chosen to proceed via a smaller claims proceeding, a respondent only may assert a counterclaim that seeks total monetary relief of $5,000 or less (exclusive of attorneys' fees or costs). Any permissible counterclaims asserted by a respondent shall be adjudicated under the procedures set forth in this part.

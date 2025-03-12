@@ -1,3 +1,13 @@
-##### § 222.20 xxx #####
+##### § 222.20 Evidence. #####
 
-Link to an amendment published at 87 FR 30077, May 17, 2022.
+(a) *Admissibility.* All evidence that is relevant and not unduly repetitious or privileged shall be admissible. Evidence which has authentication or credibility issues will have its weight discounted accordingly. The Board reserves the right to discount evidence or not admit evidence with serious credibility issues entirely, or to request clarification from a party.
+
+(b) *Examination of witnesses.* All witnesses testifying at a hearing before the Board shall be required to take an oath or affirmation before testifying. At a hearing, any member of the Board may administer oaths and affirmations, ask questions of any witness, and each party shall have the opportunity to ask questions of each witness and the other parties. The Board shall manage the conduct of the hearing and may limit the number of witnesses or scope of questioning.
+
+(c) *Exhibits in hearing*—(1) *Submission.* Unless they are specifically excluded by the Board's own initiative or due to the Board's ruling on an objection raised by a party, all documents submitted by the parties through their statements submitted under § 222.15 shall be deemed admitted and marked as exhibits in the same order as presented through the documentary evidence a party submitted with the party statement. To the extent additional documents are allowed by the Board at a hearing on the merits, such evidence may also be presented as exhibits to all parties and marked by the presenting party starting with the next number after the exhibits attached to the party's document statement.
+
+(2) *Summary exhibits.* The contents of voluminous documentary evidence which cannot be conveniently examined at the hearing may be presented in the form of a chart, summary, or calculation. Absent leave of the Board, evidence supporting the summary exhibit must have been produced to the other parties in discovery and admitted as exhibits, and the summary exhibit must be disclosed to the other parties in the proceeding at least seven days before the hearing.
+
+(d) *New exhibits for use in cross-examination or redirect examination.* Exhibits not submitted as part of written testimony may not be used at a hearing without leave of the Board. Leave to use such exhibits may be requested before or during the hearing. Requests to use an exhibit not submitted as part of written testimony and any responses thereto shall follow the procedures set forth in § 220.5(a)(1) of this subchapter.
+
+[87 FR 30077, May 17, 2022]

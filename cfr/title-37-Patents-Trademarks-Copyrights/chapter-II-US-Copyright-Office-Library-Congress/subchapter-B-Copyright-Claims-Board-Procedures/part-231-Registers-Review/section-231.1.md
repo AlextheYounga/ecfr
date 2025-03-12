@@ -1,0 +1,3 @@
+##### § 231.1 General. #####
+
+This part prescribes rules pertaining to procedures for review by the Register of Copyrights of a *final determination* by the Copyright Claims Board (Board). A party whose request for reconsideration has been denied under § 230.5 of this subchapter may seek review of the *final determination* by the Register of Copyrights not later than 30 days after a request for reconsideration has been denied in whole or in part.

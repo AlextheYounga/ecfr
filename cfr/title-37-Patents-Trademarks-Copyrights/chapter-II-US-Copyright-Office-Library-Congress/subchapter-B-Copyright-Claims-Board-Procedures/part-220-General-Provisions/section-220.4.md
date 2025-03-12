@@ -1,0 +1,3 @@
+##### § 220.4 Timing. #####
+
+When the start or end date for calculating any deadline set forth in this subchapter falls on a weekend or a Federal holiday, the start or end date shall be extended to the next Federal workday. Any document subject to a deadline must be either submitted to the Board's electronic filing system (eCCB) by 11:59 p.m. Eastern Time on the date of the deadline or dispatched by the date of the deadline.

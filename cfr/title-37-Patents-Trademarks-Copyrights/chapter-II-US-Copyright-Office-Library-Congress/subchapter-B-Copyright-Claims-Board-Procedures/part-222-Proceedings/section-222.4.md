@@ -1,8 +1,6 @@
 ##### § 222.4 Second notice. #####
 
-Link to an amendment published at 87 FR 30077, May 17, 2022.
-
-(a) *Content of second notice.* The *second notice* to the respondent shall -
+(a) *Content of second notice.* The *second notice* to the respondent shall—
 
 (1) Include on the first page a caption that provides the parties' names and the docket number;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.
 
 (ii) A claim for a declaration of noninfringement of an exclusive right in a copyrighted work provided under 17 U.S.C. 106; and
 
-(iii) A claim under 17 U.S.C. 512(f) for misrepresentation in connection with -
+(iii) A claim under 17 U.S.C. 512(f) for misrepresentation in connection with—
 
 (A) A notification of claimed infringement; or
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.
 
 (7) State that the respondent has the right to opt out of participating in the proceeding, and that the consequence of opting out is that the proceeding shall be dismissed and the claimant shall have to determine whether to file a lawsuit in a Federal district court;
 
-(8) State that if the respondent does not opt out within 60 days from the day the respondent received the *initial notice,* the consequences are that the proceeding shall go forward and the respondent shall -
+(8) State that if the respondent does not opt out within 60 days from the day the respondent received the *initial notice,* the consequences are that the proceeding shall go forward and the respondent shall—
 
 (i) Lose the opportunity to have the dispute decided by the Federal court system, created under Article III of the Constitution of the United States; and
 
@@ -46,10 +44,12 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.
 
 (14) Provide direction on how a respondent may opt out of the proceeding, either online or by mail;
 
-(15) Be accompanied by the documents described in § 222.3(b); and
+(15) Be accompanied by the documents described in § 222.3(b);
 
-(16) Include any additional information or documents at the Board's direction.
+(16) In the case of a proceeding in which the claimant has requested under § 222.2(c)(1) that the proceeding be conducted as a smaller claim under 37 CFR part 226, include a statement that the proceeding shall be conducted as a smaller claim and a brief explanation of the differences between smaller claims proceedings and other proceedings before the Board; and
+
+(17) Include any additional information or documents at the Board's direction.
 
 (b) *Timing of second notice.* The Board shall issue the *second notice* in the manner prescribed by § 222.5(d)(2) no later than 20 days after the claimant files proof of service or a completed waiver of service with the Board, unless the respondent has already submitted an opt-out notification pursuant to 37 CFR 223.1.
 
-[87 FR 17000, Mar. 25, 2022]
+[87 FR 17000, Mar. 25, 2022, as amended at 87 FR 30077, May 17, 2022]

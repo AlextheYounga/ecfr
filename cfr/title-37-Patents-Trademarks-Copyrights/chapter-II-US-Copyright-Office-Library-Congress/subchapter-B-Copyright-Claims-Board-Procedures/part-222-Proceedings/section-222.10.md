@@ -1,7 +1,5 @@
 ##### § 222.10 Response to counterclaim. #####
 
-Link to an amendment published at 87 FR 30077, May 17, 2022.Link to an amendment published at 87 FR 36060, June 15, 2022.
-
 (a) *Filing a response to a counterclaim.* Within 30 days following the Board's issuance of notification that a counterclaim is compliant under 37 CFR 224.1, a claimant against whom a counterclaim has been asserted (counterclaim respondent) shall file a response to the counterclaim through eCCB using the response form provided by the Board.
 
 (b) *Content of response to a counterclaim.* The response to a counterclaim shall include -
@@ -32,6 +30,6 @@ Link to an amendment published at 87 FR 30077, May 17, 2022.Link to an amendment
 
 (6) Any other exhibits that play a significant role in setting forth the facts of the counterclaim response.
 
-(d) *Failure to file counterclaim response.* A failure to file a counterclaim response within the timeframe required by this section may constitute a default under 17 U.S.C. 1506(u), and the Board may begin default proceedings.
+(d) *Failure to file counterclaim response.* A failure to file a counterclaim response within the timeframe required by this section may constitute a default under 17 U.S.C. 1506(u), and the Board may begin default proceedings under part 227 of this subchapter.
 
-[87 FR 17004, Mar. 25, 2022]
+[87 FR 17004, Mar. 25, 2022, as amended at 87 FR 30077, May 17, 2022; 87 FR 36060, June 15, 2022]

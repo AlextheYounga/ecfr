@@ -1,0 +1,7 @@
+##### § 227.4 Opportunity for respondent or counterclaim respondent to submit evidence. #####
+
+(a) *Response to notice by respondent or counterclaim respondent.* The respondent or counterclaim respondent may submit in writing any evidence or information in opposition to the proposed *default determination* within 30 days of the issuance of the proposed *default determination* absent an extension of that time by the Board. The form of that response shall follow the procedures for written response testimony under § 222.15(b) of this subchapter. If the respondent or counterclaim respondent fails to timely submit evidence but submits a response that indicates an intent to submit evidence in opposition to the proposed *default determination,* the Board shall consider the response and either provide the respondent or counterclaim respondent with additional time to submit evidence or proceed with issuing the *default determination.*
+
+(b) *Response to respondent's or counterclaim respondent's submissions.* If the respondent or counterclaim respondent provides any evidence or other information in response to the notice of the pending *default determination,* the other parties to the proceeding shall be provided an opportunity to address such a submission by following the procedures for written reply testimony under § 222.15(c) of this subchapter within 21 days of the respondent's submission.
+
+(c) *Hearings.* The Board may hold a hearing related to *default determinations* at its discretion.

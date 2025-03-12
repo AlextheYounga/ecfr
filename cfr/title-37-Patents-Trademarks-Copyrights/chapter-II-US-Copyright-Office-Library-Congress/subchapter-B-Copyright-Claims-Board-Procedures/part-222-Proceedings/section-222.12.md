@@ -1,3 +1,17 @@
-##### § 222.12 xxx #####
+##### § 222.12 Amending pleadings. #####
 
-Link to an amendment published at 87 FR 30077, May 17, 2022.
+(a) *Amendments before service.* A claimant who has been notified pursuant to § 224.1(c)(2) of this subchapter that a claim does not comply with the applicable statutory and regulatory requirements may freely amend any part of the claim as part of an amended claim filed under 17 U.S.C. 1506(f)(1)(B). A claimant who has been notified pursuant to § 224.1(c)(1) of this subchapter that a claim has been found to comply with the applicable statutory and regulatory requirements may freely amend the claim once as a matter of course prior to service. Any claim that is amended shall be submitted for compliance review under § 224.1(a) of this subchapter.
+
+(b) *Amendments during the opt-out period.* A claimant may not amend a claim during the opt-out period for any respondent.
+
+(c) *Amendment of counterclaim before response.* A counterclaimant may freely amend its counterclaim once as a matter of course prior to filing of the response to the counterclaim. The filing of any amended counterclaim shall suspend the time for responding to the counterclaim and the counterclaim shall be submitted for compliance review under § 224.1(a) of this subchapter. A counterclaimant who has been notified pursuant to § 224.1(c)(2) of this subchapter that a counterclaim does not comply with the applicable statutory and regulatory requirements may amend any part of the counterclaim as part of an amended counterclaim filed under 17 U.S.C. 1506(f)(2). The counterclaim respondent shall file a response to the amended counterclaim within 30 days following compliance review approval of the amended counterclaim.
+
+(d) *All other amendments.* In all other cases, a party may amend its pleading only with the Board's leave. If the Board grants leave, any amendment shall be submitted for a compliance review under § 224.1(a) of this subchapter.
+
+(1) *Time to respond.* Unless the Board orders otherwise or as otherwise covered by this subchapter, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 30 days after the Board's notification that the amended pleading is compliant, whichever is later.
+
+(2) *Procedure for request for leave to amend.* The party seeking leave to amend must submit a request to the Board setting forth the reasons why an amended pleading is appropriate. Requests for leave to amend and any responses thereto shall follow the procedures set forth in § 220.5(a)(2) of this subchapter.
+
+(3) *Standard for granting leave to amend.* In determining whether to grant leave to amend a pleading, the Board shall grant leave if justice so requires after considering whether any other party will be prejudiced if the amendment is permitted (including the impact the amendment might have on a respondent's right to opt out of the proceeding), whether the proceedings will be unduly delayed if the amendment is permitted, and whether the basis for the amendment reasonably should have been known to the amending party before the pleading was served or during the time period specified in paragraph (a) of this section, along with any other relevant considerations. If leave is granted, it shall only be granted regarding the specific amendments described in the request.
+
+[87 FR 30077, May 17, 2022]
