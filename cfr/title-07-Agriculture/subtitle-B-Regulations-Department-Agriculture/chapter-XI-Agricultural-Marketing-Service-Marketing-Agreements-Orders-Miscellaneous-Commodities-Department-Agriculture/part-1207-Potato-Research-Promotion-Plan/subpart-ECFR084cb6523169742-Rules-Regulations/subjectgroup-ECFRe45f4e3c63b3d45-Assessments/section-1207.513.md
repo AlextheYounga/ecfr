@@ -1,5 +1,7 @@
 ##### § 1207.513 Payment of assessments. #####
 
+Link to an amendment published at 87 FR 22436, Apr. 15, 2022.
+
 (a) *Time of payment.* The assessment on domestically produced potatoes shall become due at the time a determination of assessable potatoes is made in the normal handling process, pursuant to § 1207.511. If no determination is made of the utilization of a lot, assessments shall be due on the entire lot when it enters the current of commerce. The assessment on imported potatoes, potato products, and seed potatoes shall become due at the time of entry, or withdrawal, for consumption into the United States.
 
 (b) *Responsibility for payment.* (1) The designated handler is responsible for payment of the assessment on domestically produced potatoes. He may pay with no reimbursement from the producer. In the alternative, he may collect the assessment from the producer, or deduct such assessment from the proceeds paid to the producer on whose potatoes the assessment is made, provided he furnishes the producer with evidence of such payment. Any such collection or deduction of assessment shall be made not later than the time when the assessment becomes payable by the handler to the Board. Failure of the handler to collect or deduct such assessment does not relieve the handler of his obligation to remit the assessment to the Board.

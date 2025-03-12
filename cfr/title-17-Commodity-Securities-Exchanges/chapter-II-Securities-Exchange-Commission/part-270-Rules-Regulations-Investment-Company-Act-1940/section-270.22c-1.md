@@ -62,7 +62,7 @@
 
 (b) For the purposes of this section,
 
-(1) The current net asset value of any such security shall be computed no less frequently than once daily, Monday through Friday, at the specific time or times during the day that the board of directors of the investment company sets, in accordance with paragraph (e) of this section, except on:
+(1) The current net asset value of any such security shall be computed no less frequently than once daily, Monday through Friday, at the specific time or times during the day that the board of directors of the investment company sets, in accordance with paragraph (d) of this section, except on:
 
 (i) Days on which changes in the value of the investment company's portfolio securities will not materially affect the current net asset value of the investment company's redeemable securities;
 
@@ -70,7 +70,7 @@
 
 (iii) Customary national business holidays described or listed in the prospectus and local and regional business holidays listed in the prospectus; and
 
-(2) A “qualified evaluator” shall mean any evaluator which represents it is in a position to determine, on the basis of an informal evaluation of the eligible trust securities held in the Trust's portfolio, whether -
+(2) A “qualified evaluator” shall mean any evaluator which represents it is in a position to determine, on the basis of an informal evaluation of the eligible trust securities held in the Trust's portfolio, whether—
 
 (i) The current bid price is higher than the offering side evaluation, computed on the last business day of the previous week, and
 
@@ -94,4 +94,4 @@
 
 (d) The board of directors shall initially set the time or times during the day that the current net asset value shall be computed, and shall make and approve such changes as the board deems necessary.
 
-(Secs. 6(c), 22(c) and 38(a), 15 U.S.C. 80a-6(c), 80a-22(c) and 80a-37(a))[44 FR 29647, May 22, 1979, as amended at 44 FR 48660, Aug. 20, 1979; 45 FR 12409, Feb. 26, 1980; 50 FR 7911, Feb. 27, 1985; 50 FR 24763, June 13, 1985; 50 FR 42682, Oct. 22, 1985; 58 FR 49922, Sept. 24, 1993; 81 FR 82137, Nov. 18, 2016]
+(Secs. 6(c), 22(c) and 38(a), 15 U.S.C. 80a-6(c), 80a-22(c) and 80a-37(a))[44 FR 29647, May 22, 1979, as amended at 44 FR 48660, Aug. 20, 1979; 45 FR 12409, Feb. 26, 1980; 50 FR 7911, Feb. 27, 1985; 50 FR 24763, June 13, 1985; 50 FR 42682, Oct. 22, 1985; 58 FR 49922, Sept. 24, 1993; 81 FR 82137, Nov. 18, 2016; 87 FR 22446, Apr. 15, 2022]

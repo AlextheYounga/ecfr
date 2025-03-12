@@ -1,16 +1,14 @@
 ##### § 54.1808 Reimbursement for providing monthly affordable connectivity benefit. #####
 
-Link to an amendment published at 87 FR 8383, Feb. 14, 2022.
-
 (a) Affordable Connectivity Program support for providing a qualifying broadband internet access service shall be provided directly to a participating provider based on the number of actual qualifying low-income households listed in the National Lifeline Accountability Database that the participating provider serves directly as of the first day of the calendar month.
 
 (b) For each eligible household receiving the affordable connectivity benefit on a broadband internet access service, the reimbursement amount shall equal the appropriate support amount as described in § 54.1803. The participating provider's Affordable Connectivity Program reimbursement shall not exceed the actual amount charged by the participating provider.
 
 (c) A participating provider offering a service subject to the affordable connectivity benefit that does not require the participating provider to assess and collect a monthly fee from its subscribers shall not receive support for a subscriber to such service until the subscriber activates the service by whatever means specified by the provider; and
 
-(1) [Reserved]
+(1) After service activation, shall only continue to receive reimbursement for the affordable connectivity benefit on such service provided to subscribers who have used the service within the last 30 days, or who have cured their non-usage as provided for in § 54.1809(c); and
 
-(2) [Reserved]
+(2) Shall certify that every subscriber claimed has used their service subject to the affordable connectivity benefit, as “usage” is defined by § 54.407(c)(2), at least once in the last 30 consecutive days or has cured their non-usage as provided in § 54.1809(c), in order to claim that subscriber for reimbursement for a given service month.
 
 (d) A participating provider that, in addition to providing the affordable connectivity benefit to an eligible household, provides such household with a connected device may be reimbursed in the amount and subject to the conditions specified in §§ 54.1803(b) and 54.1806(e).
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 8383, Feb. 14, 2022.
 
 (5) The amount for which the participating provider is seeking reimbursement from the Affordable Connectivity Fund is not more than the amount charged to the eligible household and the discount has already been passed through to the household;
 
-(6) Each eligible household for which the participating provider is seeking reimbursement for providing an internet service offering discounted by the affordable connectivity benefit -
+(6) Each eligible household for which the participating provider is seeking reimbursement for providing an internet service offering discounted by the affordable connectivity benefit—
 
 (i) Has not been and will not be charged for the amount the provider is seeking for reimbursement;
 
@@ -63,3 +61,5 @@ Link to an amendment published at 87 FR 8383, Feb. 14, 2022.
 (f) In order to receive Affordable Connectivity Program reimbursement, a participating provider shall keep accurate records of the revenues it forgoes in providing Affordable Connectivity Program-supported services. Such records shall be kept in the form directed by the Administrator and provided to the Administrator at intervals as directed by the Administrator or as provided in this subpart.
 
 (g) In order to receive reimbursement, participating providers shall submit certified reimbursement claims through the Lifeline Claims System within six months of the snapshot date in paragraph (a) of this section, or the following business day in the event the 1st is a holiday or falls on a weekend. If the participating provider fails to submit a certified reimbursement claim by the six-month deadline, the reimbursement claim will not be processed.
+
+[87 FR 8373, Feb. 14, 2022, as amended at 87 FR 8383, Feb. 14, 2022]

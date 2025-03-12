@@ -1,5 +1,7 @@
 ##### § 79.4 Definitions. #####
 
+Link to an amendment published at 87 FR 22457, Apr. 15, 2022.
+
 As used for purposes of this part:
 
 (a) *Collection* means material remains that are excavated or removed during a survey, excavation or other study of a prehistoric or historic resource, and associated records that are prepared or assembled in connection with the survey, excavation or other study.

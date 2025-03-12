@@ -1,5 +1,7 @@
 ##### § 79.6 Methods to secure curatorial services. #####
 
+Link to an amendment published at 87 FR 22459, Apr. 15, 2022.
+
 (a) Federal agencies may secure curatorial services using a variety of methods, subject to Federal procurement and property management statutes, regulations, and any agency-specific statutes and regulations on the management of museum collections. Methods that may be used by Federal agencies to secure curatorial services include, but are not limited to:
 
 (1) Placing the collection in a repository that is owned, leased or otherwise operated by the Federal agency;

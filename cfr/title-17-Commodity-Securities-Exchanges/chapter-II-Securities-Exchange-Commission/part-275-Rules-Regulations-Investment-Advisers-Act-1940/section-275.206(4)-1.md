@@ -36,7 +36,7 @@ As a means reasonably designed to prevent fraudulent, deceptive, or manipulative
 
 (2) *Adviser oversight and compliance.* The investment adviser must have:
 
-(i) A reasonable basis for believing that the testimonial or endorsement complies with the requirements of this section, and
+(i) A reasonable basis for believing that the testimonial or endorsement complies with the requirements of this section; and
 
 (ii) A written agreement with any person giving a testimonial or endorsement that describes the scope of the agreed-upon activities and the terms of compensation for those activities.
 
@@ -230,4 +230,4 @@ As a means reasonably designed to prevent fraudulent, deceptive, or manipulative
 
 (18) *Third-party rating* means a rating or ranking of an investment adviser provided by a person who is not a related person (as defined in the Form ADV Glossary of Terms), and such person provides such ratings or rankings in the ordinary course of its business.
 
-[86 FR 17319, Mar. 5, 2021]
+[86 FR 13024, Mar. 5, 2021, as amended at 87 FR 22447, Apr. 15, 2022]

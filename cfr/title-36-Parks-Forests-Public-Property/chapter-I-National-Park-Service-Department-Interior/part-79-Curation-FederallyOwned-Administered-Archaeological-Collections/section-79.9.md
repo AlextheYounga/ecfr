@@ -1,5 +1,7 @@
 ##### § 79.9 Standards to determine when a repository possesses the capability to provide adequate long-term curatorial services. #####
 
+Link to an amendment published at 87 FR 22459, Apr. 15, 2022.
+
 The Federal Agency Official shall determine that a repository has the capability to provide adequate long-term curatorial services when the repository is able to:
 
 (a) Accession, label, catalog, store, maintain, inventory and conserve the particular collection on a long-term basis using professional museum and archival practices; and

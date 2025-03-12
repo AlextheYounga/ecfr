@@ -1,5 +1,7 @@
 ##### § 1707.102 Applicability. #####
 
+Link to an amendment published at 87 FR 22437, Apr. 15, 2022.
+
 This part applies to demands and requests to employees for factual, opinion, or expert testimony relating to official information, or for production of official records or information, in legal proceedings whether or not the United States or the DNFSB is a named party. However, it does not apply to:
 
 (a) Demands upon or requests for a DNFSB employee to testify as to facts or events that are unrelated to his or her official duties or that are unrelated to the functions of DNFSB;

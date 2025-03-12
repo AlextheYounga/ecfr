@@ -1,5 +1,7 @@
 ##### § 79.7 Methods to fund curatorial services. #####
 
+Link to an amendment published at 87 FR 22459, Apr. 15, 2022.
+
 A variety of methods are used by Federal agencies to ensure that sufficient funds are available for adequate, long-term care and maintenance of collections. Those methods include, but are not limited to, the following:
 
 (a) Federal agencies may fund a variety of curatorial activities using monies appropriated annually by the U.S. Congress, subject to any specific statutory authorities or limitations applicable to a particular agency. As appropriate, curatorial activities that may be funded by Federal agencies include, but are not limited to:

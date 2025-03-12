@@ -1,5 +1,7 @@
 ##### § 79.5 Management and preservation of collections. #####
 
+Link to an amendment published at 87 FR 22459, Apr. 15, 2022.
+
 The Federal Agency Official is responsible for the long-term management and preservation of preexisting and new collections subject to this part. Such collections shall be placed in a repository with adequate long-term curatorial capabilities, as set forth in § 79.9 of this part, appropriate to the nature and content of the collections.
 
 (a) *Preexisting collections.* The Federal Agency Official is responsible for ensuring that preexisting collections, meaning those collections that are placed in repositories prior to the effective date of this rule, are being properly managed and preserved. The Federal Agency Official shall identify such repositories, and review and evaluate the curatorial services that are being provided to preexisting collections. When the Federal Agency Official determines that such a repository does not have the capability to provide adequate long-term curatorial services, as set forth in § 79.9 of this part, the Federal Agency Official may either:

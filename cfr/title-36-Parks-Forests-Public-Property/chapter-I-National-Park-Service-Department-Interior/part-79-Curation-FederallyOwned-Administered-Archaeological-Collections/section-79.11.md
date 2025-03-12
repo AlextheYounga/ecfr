@@ -1,5 +1,7 @@
 ##### § 79.11 Conduct of inspections and inventories. #####
 
+Link to an amendment published at 87 FR 22459, Apr. 15, 2022.
+
 (a) The inspections and inventories specified in this section shall be conducted periodically in accordance with the Federal Property and Administrative Services Act (40 U.S.C. 484), its implementing regulation (41 CFR part 101), any agency-specific regulations on the management of Federal property, and any agency-specific statutes and regulations on the management of museum collections.
 
 (b) Consistent with paragraph (a) of this section, the Federal Agency Official shall ensure that the Repository Official:

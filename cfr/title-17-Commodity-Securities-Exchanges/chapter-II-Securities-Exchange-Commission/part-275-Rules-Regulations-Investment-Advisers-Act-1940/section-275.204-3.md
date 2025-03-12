@@ -2,7 +2,7 @@
 
 (a) *General requirements.* If you are registered under the Act as an investment adviser, you must deliver a brochure and one or more brochure supplements to each client or prospective client that contains all information required by Part 2 of Form ADV [17 CFR 279.1].
 
-(b) *Delivery requirements.* Subject to paragraph (g), you (or a supervised person acting on your behalf) must:
+(b) *Delivery requirements.* You (or a supervised person acting on your behalf) must:
 
 (1) Deliver to a client or prospective client your current brochure before or at the time you enter into an investment advisory contract with that client.
 
@@ -58,4 +58,4 @@ A wrap fee program brochure does not take the place of any brochure supplements 
 
 (5) *Wrap fee program* means an advisory program under which a specified fee or fees not based directly upon transactions in a client's account is charged for investment advisory services (which may include portfolio management or advice concerning the selection of other investment advisers) and the execution of client transactions.
 
-[75 FR 49268, Aug. 12, 2010, as amended at 81 FR 60458, Oct. 31, 2016; 84 FR 33630, July 12, 2019]
+[75 FR 49268, Aug. 12, 2010, as amended at 81 FR 60458, Oct. 31, 2016; 84 FR 33630, July 12, 2019; 87 FR 22447, Apr. 15, 2022]

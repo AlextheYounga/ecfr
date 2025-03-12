@@ -30,8 +30,8 @@
 
 (3) *Supervised person* means any of your officers, partners or directors (or other persons occupying a similar status or performing similar functions) or employees, or any other person who provides investment advice on your behalf.
 
-(e) *Transition rule.* (1) Within 30 days after the date by which you are first required by § 275.204-1(b)(3) to electronically file your Form CRS with the Commission, you must deliver to each of your existing clients who is a retail investor your current Form CRS as required by Part 3 of Form ADV.
+(e) *Transition rule.* (1) Within 30 days after the date by which you are first required by § 275.204-1(b) to electronically file your Form CRS with the Commission, you must deliver to each of your existing clients who is a retail investor your current Form CRS as required by Part 3 of Form ADV.
 
 (2) As of the date by which you are first required to electronically file your Form CRS with the Commission, you must begin using your Form CRS as required by Part 3 of Form ADV to comply with the requirements of paragraph (b) of this section.
 
-[84 FR 33631, July 12, 2019]
+[84 FR 33631, July 12, 2019, as amended at 87 FR 22447, Apr. 15, 2022]

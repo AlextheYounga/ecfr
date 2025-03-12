@@ -1,7 +1,5 @@
 ##### § 641.140 What definitions apply to this part? #####
 
-Link to an amendment published at 87 FR 8189, Feb. 14, 2022.
-
 The following definitions apply to this part:
 
 *At risk for homelessness* means an individual is likely to become homeless and the individual lacks the resources and support networks needed to obtain housing.
@@ -58,7 +56,15 @@ The following definitions apply to this part:
 
 *Equitable distribution report* means a report based on the latest available Census or other reliable data, which lists the optimum number of participant positions in each designated area in the State, and the number of authorized participant positions each grantee serves in that area, taking into account the needs of underserved counties and incorporated cities as necessary. This report provides a basis for improving the distribution of SCSEP positions.
 
-*Frail* means an individual 55 years of age or older who is determined to be functionally impaired because the individual -
+*Formerly incarcerated individuals* mean:
+
+(1) Individuals who were incarcerated at any point within the last 5 years; or
+
+(2) Individuals who were under supervision at any point within the last 5 years, following release from prison or jail.
+
+(3) The 5-year period specified in this definition refers to the 5 years preceding the date of first determination of program eligibility, as described in § 641.505, for initial enrollment into the program.
+
+*Frail* means an individual 55 years of age or older who is determined to be functionally impaired because the individual—
 
 (1)(i) Is unable to perform at least two activities of daily living without substantial human assistance, including verbal reminding, physical cueing, or supervision; or
 
@@ -108,7 +114,35 @@ The following definitions apply to this part:
 
 *Low literacy skills* means the individual computes or solves problems, reads, writes, or speaks at or below the 8th grade level or is unable to compute or solve problems, read, write, or speak at a level necessary to function on the job, in the individual's family, or in society.
 
-*Most-in-need* means participants with one or more of the following characteristics: Have a severe disability; are frail; are age 75 or older; are age-eligible but not receiving benefits under title II of the Social Security Act; reside in an area with persistent unemployment and have severely limited employment prospects; have limited English proficiency; have low literacy skills; have a disability; reside in a rural area; are veterans; have low employment prospects; have failed to find employment after using services provided under title I of the Workforce Innovation and Opportunity Act; or are homeless or at risk for homelessness. (OAA sec. 513(b)(1)(F).)
+*Most-in-need* means participants with one or more of the following characteristics (OAA sec. 513(b)(1)(F)):
+
+(1) Have a severe disability;
+
+(2) Are frail;
+
+(3) Are age 75 or older;
+
+(4) Are age-eligible but not receiving benefits under title II of the Social Security Act;
+
+(5) Reside in an area with persistent unemployment and have severely limited employment prospects;
+
+(6) Have limited English proficiency;
+
+(7) Have low literacy skills;
+
+(8) Have a disability;
+
+(9) Reside in a rural area;
+
+(10) Are veterans;
+
+(11) Have low employment prospects;
+
+(12) Have failed to find employment after using services provided under title I of the Workforce Innovation and Opportunity Act;
+
+(13) Are homeless or at risk for homelessness; or
+
+(14) Are “formerly incarcerated” as defined in this section.
 
 *National grantee* means a public or non-profit private agency or organization, or Tribal organization, that receives a grant under title V of the OAA (42 U.S.C. 3056 *et seq.*) to administer a SCSEP project. (*See* OAA § 506(g)(5)).
 
@@ -148,7 +182,7 @@ The following definitions apply to this part:
 
 *Service area* means the geographic area served by a local SCSEP project in accordance with a grant agreement.
 
-*Severe disability* means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that -
+*Severe disability* means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that—
 
 (1) Is likely to continue indefinitely; and
 
@@ -194,4 +228,4 @@ The following definitions apply to this part:
 
 *Workforce Innovation and Opportunity Act (WIOA) regulations* means the regulations in parts 675 through 688 of this chapter, the Wagner-Peyser Act regulations in parts 651 through 654 and part 658 of this chapter, and the regulations implementing WIOA sec. 188 in 29 CFR part 38.
 
-[75 FR 53812, Sept. 1, 2010, as amended at 77 FR 4661, Jan. 31, 2012; 82 FR 56880, Dec. 1, 2017]
+[75 FR 53812, Sept. 1, 2010, as amended at 77 FR 4661, Jan. 31, 2012; 82 FR 56880, Dec. 1, 2017; 87 FR 8189, Feb. 14, 2022]

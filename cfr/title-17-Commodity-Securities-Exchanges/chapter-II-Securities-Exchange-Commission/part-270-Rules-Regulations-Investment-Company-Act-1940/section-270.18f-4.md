@@ -24,7 +24,7 @@
 
 *Designated index* means an unleveraged index that is approved by the derivatives risk manager for purposes of the relative VaR test and that reflects the markets or asset classes in which the fund invests and is not administered by an organization that is an affiliated person of the fund, its investment adviser, or principal underwriter, or created at the request of the fund or its investment adviser, unless the index is widely recognized and used. In the case of a blended index, none of the indexes that compose the blended index may be administered by an organization that is an affiliated person of the fund, its investment adviser, or principal underwriter, or created at the request of the fund or its investment adviser, unless the index is widely recognized and used.
 
-*Designated reference portfolio* means a designated index or the fund's securities portfolio. Notwithstanding paragraph (2) of the definition of *designated index* of this section, if the fund's investment objective is to track the performance (including a leverage multiple or inverse multiple) of an unleveraged index, the fund must use that index as its designated reference portfolio.
+*Designated reference portfolio* means a designated index or the fund's securities portfolio. Notwithstanding the first sentence of the definition of *designated index* of this section, if the fund's investment objective is to track the performance (including a leverage multiple or inverse multiple) of an unleveraged index, the fund must use that index as its designated reference portfolio.
 
 *Fund* means a registered open-end or closed-end company or a business development company, including any separate series thereof, but does not include a registered open-end company that is regulated as a money market fund under § 270.2a-7.
 
@@ -52,7 +52,7 @@
 
 (b) *Derivatives transactions.* If a fund satisfies the conditions of paragraph (c) of this section, the fund may enter into derivatives transactions, notwithstanding the requirements of sections 18(a)(1), 18(c), 18(f)(1), and 61 of the Investment Company Act (15 U.S.C. 80a-18(a)(1), 80a-18(c), 80a-18(f)(1), and 80a-60), and derivatives transactions entered into by the fund in compliance with this section will not be considered for purposes of computing asset coverage, as defined in section 18(h) of the Investment Company Act (15 U.S.C. 80a-18(h)).
 
-(c) *Conditions* - (1) *Derivatives risk management program.* The fund adopts and implements a written derivatives risk management program (“program”), which must include policies and procedures that are reasonably designed to manage the fund's derivatives risks and to reasonably segregate the functions associated with the program from the portfolio management of the fund. The program must include the following elements:
+(c) *Conditions*—(1) *Derivatives risk management program.* The fund adopts and implements a written derivatives risk management program (“program”), which must include policies and procedures that are reasonably designed to manage the fund's derivatives risks and to reasonably segregate the functions associated with the program from the portfolio management of the fund. The program must include the following elements:
 
 (i) *Risk identification and assessment.* The program must provide for the identification and assessment of the fund's derivatives risks. This assessment must take into account the fund's derivatives transactions and other investments.
 
@@ -62,7 +62,7 @@
 
 (iv) *Backtesting.* The program must provide for backtesting to be conducted no less frequently than weekly, of the results of the VaR calculation model used by the fund in connection with the relative VaR test or the absolute VaR test by comparing the fund's gain or loss that occurred on each business day during the backtesting period with the corresponding VaR calculation for that day, estimated over a one-trading day time horizon, and identifying as an exception any instance in which the fund experiences a loss exceeding the corresponding VaR calculation's estimated loss.
 
-(v) *Internal reporting and escalation* - (A) *Internal reporting.* The program must identify the circumstances under which persons responsible for portfolio management will be informed regarding the operation of the program, including exceedances of the guidelines specified in paragraph (c)(1)(ii) of this section and the results of the stress tests specified in paragraph (c)(1)(iii) of this section.
+(v) *Internal reporting and escalation*—(A) *Internal reporting.* The program must identify the circumstances under which persons responsible for portfolio management will be informed regarding the operation of the program, including exceedances of the guidelines specified in paragraph (c)(1)(ii) of this section and the results of the stress tests specified in paragraph (c)(1)(iii) of this section.
 
 (B) *Escalation of material risks.* The derivatives risk manager must inform in a timely manner persons responsible for portfolio management of the fund, and also directly inform the fund's board of directors as appropriate, of material risks arising from the fund's derivatives transactions, including risks identified by the fund's exceedance of a criterion, metric, or threshold provided for in the fund's risk guidelines established under paragraph (c)(1)(ii) of this section or by the stress testing described in paragraph (c)(1)(iii) of this section.
 
@@ -80,7 +80,7 @@
 
 (C) The derivatives risk manager must provide a written report within thirty calendar days of the exceedance to the fund's board of directors explaining how the fund came back into compliance and the results of the analysis and updates required under paragraph (c)(2)(iii)(B) of this section. If the fund remains out of compliance with the applicable VaR test at that time, the derivatives risk manager's written report must update the report previously provided under paragraph (c)(2)(iii)(A) of this section and the derivatives risk manager must update the board of directors on the fund's progress in coming back into compliance at regularly scheduled intervals at a frequency determined by the board.
 
-(3) *Board oversight and reporting* - (i) *Approval of the derivatives risk manager.* A fund's board of directors, including a majority of directors who are not interested persons of the fund, must approve the designation of the derivatives risk manager.
+(3) *Board oversight and reporting*—(i) *Approval of the derivatives risk manager.* A fund's board of directors, including a majority of directors who are not interested persons of the fund, must approve the designation of the derivatives risk manager.
 
 (ii) *Reporting on program implementation and effectiveness.* On or before the implementation of the program, and at least annually thereafter, the derivatives risk manager must provide to the board of directors a written report providing a representation that the program is reasonably designed to manage the fund's derivatives risks and to incorporate the elements provided in paragraphs (c)(1)(i) through (vi) of this section. The representation may be based on the derivatives risk manager's reasonable belief after due inquiry. The written report must include the basis for the representation along with such information as may be reasonably necessary to evaluate the adequacy of the fund's program and, for reports following the program's initial implementation, the effectiveness of its implementation. The written report also must include, as applicable, the derivatives risk manager's basis for the approval of any designated reference portfolio or any change in the designated reference portfolio during the period covered by the report; or an explanation of the basis for the derivatives risk manager's determination that a designated reference portfolio would not provide an appropriate reference portfolio for purposes of the relative VaR test.
 
@@ -106,7 +106,7 @@
 
 (iii) The fund discloses in its prospectus that it is not subject to the limit on fund leverage risk in paragraph (c)(2) of this section.
 
-(6) *Recordkeeping* - (i) *Records to be maintained.* A fund must maintain a written record documenting, as applicable:
+(6) *Recordkeeping*—(i) *Records to be maintained.* A fund must maintain a written record documenting, as applicable:
 
 (A) The fund's written policies and procedures required by paragraph (c)(1) of this section, along with:
 
@@ -144,4 +144,4 @@
 
 (f) *When issued, forward-settling, and non-standard settlement cycle securities transactions.* Notwithstanding the requirements of sections 18(a)(1), 18(c), 18(f)(1), and 61 of the Investment Company Act (15 U.S.C. 80a-18(a)(1), 80a018(c), 80a-18(f)(1), and 80a-60), a fund or registered open-end company that is regulated as a money market fund under § 270.2a-7 may invest in a security on a when-issued or forward-settling basis, or with a non-standard settlement cycle, and the transaction will be deemed not to involve a senior security, provided that: The fund intends to physically settle the transaction; and the transaction will settle within 35 days of its trade date.
 
-[85 FR 83291, Dec. 21, 2020]
+[85 FR 83291, Dec. 21, 2020, as amended at 87 FR 22446, Apr. 15, 2022]

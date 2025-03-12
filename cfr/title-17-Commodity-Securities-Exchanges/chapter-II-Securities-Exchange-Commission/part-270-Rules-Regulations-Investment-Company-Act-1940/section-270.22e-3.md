@@ -2,7 +2,7 @@
 
 (a) *Exemption.* A registered open-end management investment company or series thereof (“fund”) that is regulated as a money market fund under § 270.2a-7 is exempt from the requirements of section 22(e) of the Act (15 U.S.C. 80a-22(e)) if:
 
-(1) The fund, at the end of a business day, has invested less than ten percent of its total assets in weekly liquid assets or, in the case of a fund that is a government money market fund, as defined in § 270.2a-7(a)(16) or a retail money market fund, as defined in § 270.2a-7(a)(25), the fund's price per share as computed for the purpose of distribution, redemption and repurchase, rounded to the nearest one percent, has deviated from the stable price established by the board of directors or the fund's board of directors, including a majority of directors who are not interested persons of the fund, determines that such a deviation is likely to occur;
+(1) The fund, at the end of a business day, has invested less than ten percent of its total assets in weekly liquid assets or, in the case of a fund that is a government money market fund, as defined in § 270.2a-7(a)(14) or a retail money market fund, as defined in § 270.2a-7(a)(21), the fund's price per share as computed for the purpose of distribution, redemption and repurchase, rounded to the nearest one percent, has deviated from the stable price established by the board of directors or the fund's board of directors, including a majority of directors who are not interested persons of the fund, determines that such a deviation is likely to occur;
 
 (2) The fund's board of directors, including a majority of directors who are not interested persons of the fund, irrevocably has approved the liquidation of the fund; and
 
@@ -14,4 +14,4 @@
 
 (d) *Definitions.* Each of the terms *business day, total assets,* and *weekly liquid assets* has the same meaning as defined in § 270.2a-7.
 
-[75 FR 10117, Mar. 4, 2010, as amended at 79 FR 47967, Aug. 14, 2014]
+[75 FR 10117, Mar. 4, 2010, as amended at 79 FR 47967, Aug. 14, 2014; 87 FR 22446, Apr. 15, 2022]

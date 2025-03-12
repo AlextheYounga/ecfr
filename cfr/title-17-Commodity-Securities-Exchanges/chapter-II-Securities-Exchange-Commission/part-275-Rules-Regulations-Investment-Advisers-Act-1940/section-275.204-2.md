@@ -68,7 +68,7 @@
 
 (15)(i) If not included in the advertisement, a record of the disclosures provided to clients or investors pursuant to § 275.206(4)-1(b)(1)(ii) and (iii) of this chapter;
 
-(ii) Documentation substantiating the adviser's reasonable basis for believing that a testimonial or endorsement (as defined in § 275.206(4)-1(e)(17) and (5) of this chapter) complies with § 275.206(4)-1 and that the third-party rating (as defined in § 275.206(4)-1(e)(18) of this chapter) complies with § 275.206(4)-1(c)(1) of this chapter.
+(ii) Documentation substantiating the adviser's reasonable basis for believing that a testimonial or endorsement (as defined in § 275.206(4)-1(e)(17) and (5) of this chapter) complies with § 275.206(4)-1 and that the third-party rating (as defined in § 275.206(4)-1(e)(18) of this chapter) complies with § 275.206(4)-1(c)(1) of this chapter; and
 
 (iii) A record of the names of all persons who are an investment adviser's partners, officers, directors, or employees, or a person that controls, is controlled by, or is under common control with the investment adviser, or is a partner, officer, director or employee of such a person pursuant to § 275.206(4)-1(b)(4)(ii) of this chapter.
 

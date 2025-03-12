@@ -1,5 +1,7 @@
 ##### § 79.3 Applicability. #####
 
+Link to an amendment published at 87 FR 22457, Apr. 15, 2022.
+
 (a) The regulations in this part apply to collections, as defined in § 79.4 of this part, that are excavated or removed under the authority of the Antiquities Act (16 U.S.C. 431-433), the Reservoir Salvage Act (16 U.S.C. 469-469*c*), section 110 of the National Historic Preservation Act (16 U.S.C. 470*h*-2) or the Archaeological Resources Protection Act (16 U.S.C. 470*aa-mm*). Such collections generally include those that are the result of a prehistoric or historic resource survey, excavation or other study conducted in connection with a Federal action, assistance, license or permit.
 
 (1) Material remains, as defined in § 79.4 of this part, that are excavated or removed from a prehistoric or historic resource generally are the property of the landowner.

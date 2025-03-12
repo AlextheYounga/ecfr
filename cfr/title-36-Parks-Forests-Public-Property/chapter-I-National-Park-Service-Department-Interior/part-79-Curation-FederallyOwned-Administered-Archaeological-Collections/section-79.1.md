@@ -1,5 +1,7 @@
 ##### § 79.1 Purpose. #####
 
+Link to an amendment published at 87 FR 22457, Apr. 15, 2022.
+
 (a) The regulations in this part establish definitions, standards, procedures and guidelines to be followed by Federal agencies to preserve collections of prehistoric and historic material remains, and associated records, recovered under the authority of the Antiquities Act (16 U.S.C. 431-433), the Reservoir Salvage Act (16 U.S.C. 469-469*c*), section 110 of the National Historic Preservation Act (16 U.S.C. 470*h*-2) or the Archaeological Resources Protection Act (16 U.S.C. 470*aa-mm*). They establish:
 
 (1) Procedures and guidelines to manage and preserve collections;

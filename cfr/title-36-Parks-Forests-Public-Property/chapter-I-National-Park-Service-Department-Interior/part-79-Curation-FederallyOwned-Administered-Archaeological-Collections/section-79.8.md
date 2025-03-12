@@ -1,5 +1,7 @@
 ##### § 79.8 Terms and conditions to include in contracts, memoranda and agreements for curatorial services. #####
 
+Link to an amendment published at 87 FR 22459, Apr. 15, 2022.
+
 The Federal Agency Official shall ensure that any contract, memorandum, agreement or other appropriate written instrument for curatorial services that is entered into by or on behalf of that Official, a Repository Official and any other appropriate party contains the following:
 
 (a) A statement that identifies the collection or group of collections to be covered and any other U.S. Government-owned personal property to be furnished to the repository;

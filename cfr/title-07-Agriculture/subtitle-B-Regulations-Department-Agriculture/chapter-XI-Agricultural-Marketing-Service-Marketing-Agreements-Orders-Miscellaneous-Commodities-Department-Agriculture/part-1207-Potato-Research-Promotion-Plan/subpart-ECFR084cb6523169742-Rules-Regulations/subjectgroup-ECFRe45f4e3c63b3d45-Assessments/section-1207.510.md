@@ -1,5 +1,7 @@
 ##### § 1207.510 Levy of assessments. #####
 
+Link to an amendment published at 87 FR 22436, Apr. 15, 2022.
+
 (a) *Domestic assessments.* (1) An assessment rate of 3 cents per hundredweight shall be levied on all potatoes produced within the 50 states of the United States.
 
 (2) No assessment shall be levied on potatoes grown in the 50 States of the United States by producers of less than 5 acres of potatoes.

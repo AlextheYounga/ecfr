@@ -1,7 +1,5 @@
 ##### § 641.325 What information must be provided in the State Plan? #####
 
-Link to an amendment published at 87 FR 8189, Feb. 14, 2022.
-
 The Department issues instructions detailing the information that must be provided in the State Plan. At a minimum, the State Plan must include the State's four-year strategy, as described in § 641.302, and information on the following:
 
 (a) The ratio of eligible individuals in each service area to the total eligible population in the State;
@@ -14,9 +12,11 @@ The Department issues instructions detailing the information that must be provid
 
 (3) Eligible individuals who are minorities;
 
-(4) Eligible individuals who are limited English proficient; and
+(4) Eligible individuals who are limited English proficient;
 
-(5) Eligible individuals who have the greatest social need;
+(5) Eligible individuals who have the greatest social need; and
+
+(6) Eligible individuals who are formerly incarcerated individuals as defined in § 641.140;
 
 (c) The current and projected employment opportunities in the State (such as by providing information available under sec. 15 of the Wagner-Peyser Act (29 U.S.C. 49l-2) by occupation), and the types of skills possessed by eligible individuals;
 
@@ -34,4 +34,4 @@ The Department issues instructions detailing the information that must be provid
 
 (j) Such other information as the Department may require in the State Plan instructions. (OAA § 503(a)).
 
-[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56882, Dec. 1, 2017]
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56882, Dec. 1, 2017; 87 FR 8189, Feb. 14, 2022]
