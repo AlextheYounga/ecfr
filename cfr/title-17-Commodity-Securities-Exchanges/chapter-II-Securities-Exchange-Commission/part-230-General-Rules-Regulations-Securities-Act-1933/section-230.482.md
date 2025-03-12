@@ -1,7 +1,5 @@
 ##### § 230.482 Advertising by an investment company as satisfying requirements of section 10. #####
 
-Link to an amendment published at 87 FR 72846, Nov. 25, 2022.
-
 (a) *Scope of rule.* This section applies to an advertisement or other sales material (*advertisement*) with respect to securities of an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) (*1940 Act*), or a business development company, that is selling or proposing to sell its securities pursuant to a registration statement that has been filed under the Act. This section does not apply to an advertisement that is excepted from the definition of prospectus by section 2(a)(10) of the Act (15 U.S.C. 77b(a)(10)), § 230.498(d), or § 230.498A(g) or (j)(2), or to a summary prospectus under § 230.498 or § 230.498A. An advertisement that complies with this section, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Act (15 U.S.C 77j(a)), will be deemed to be a prospectus under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)).
 
 Note 1 to paragraph (a):
@@ -142,4 +140,12 @@ Note to paragraph (h):
 
 These advertisements, unless filed with NASD Regulation, Inc., are required to be filed in accordance with the requirements of § 230.497.
 
-[68 FR 57777, Oct. 6, 2003, as amended at 74 FR 4584, Jan. 26, 2009; 79 FR 47957, Aug. 14, 2014; 85 FR 26093, May 1, 2020]
+(i) *Advertisements including fee or expense figures.* An advertisement that provides fee or expense figures for an investment company must include the following:
+
+(1) The maximum amount of any sales load, or any other nonrecurring fee, and the total annual expenses without any fee waiver or expense reimbursement arrangement, based on the methods of computation prescribed by the investment company's registration statement form under the 1940 Act or under the Act for a prospectus and presented at least as prominently as any other fee or expense figure included in the advertisement; and
+
+(2) The expected termination date of a fee waiver or expense reimbursement arrangement, if the advertisement provides total annual expenses net of fee waiver or expense reimbursement arrangement amounts.
+
+(j) *Timeliness of fee and expense information.* Fee and expense information contained in an advertisement must be as of the date of the investment company's most recent prospectus or, if the company no longer has an effective registration statement under the Act, as of the date of its most recent annual shareholder report, except that a company may provide more current information if available.
+
+[68 FR 57777, Oct. 6, 2003, as amended at 74 FR 4584, Jan. 26, 2009; 79 FR 47957, Aug. 14, 2014; 85 FR 26093, May 1, 2020; 87 FR 72846, Nov. 25, 2022]

@@ -1,0 +1,3 @@
+##### § 1065.1123 General provisions for determining exhaust opacity. #####
+
+The provisions of § 1065.1125 describe system specifications for measuring percent opacity of exhaust for all types of engines. The provisions of § 1065.1127 describe how to use such a system to determine percent opacity of engine exhaust for applications other than locomotives. See 40 CFR 1033.525 for measurement procedures for locomotives.

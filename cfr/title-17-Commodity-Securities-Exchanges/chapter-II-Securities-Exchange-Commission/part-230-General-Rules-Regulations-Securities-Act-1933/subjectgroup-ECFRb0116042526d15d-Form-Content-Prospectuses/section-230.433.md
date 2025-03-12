@@ -1,7 +1,5 @@
 ##### § 230.433 Conditions to permissible post-filing free writing prospectuses. #####
 
-Link to an amendment published at 87 FR 72846, Nov. 25, 2022.
-
 (a) *Scope of section.* This section applies to any free writing prospectus with respect to securities of any issuer (except as set forth in Rule 164 (§ 230.164)) that are the subject of a registration statement that has been filed under the Act. Such a free writing prospectus that satisfies the conditions of this section may include information the substance of which is not included in the registration statement. Such a free writing prospectus that satisfies the conditions of this section will be a prospectus permitted under section 10(b) of the Act for purposes of sections 2(a)(10), 5(b)(1), and 5(b)(2) of the Act and will, for purposes of considering it a prospectus, be deemed to be public, without regard to its method of use or distribution, because it is related to the public offering of securities that are the subject of a filed registration statement.
 
 (b) *Permitted use of free writing prospectus.* Subject to the conditions of this paragraph (b) and satisfaction of the conditions set forth in paragraphs (c) through (g) of this section, a free writing prospectus may be used under this section and Rule 164 in connection with a registered offering of securities:
@@ -45,6 +43,8 @@ Notes to paragraph (b)(2)(i) of Rule 433.
 The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at *www.sec.gov.* Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling toll-free 1-8[xx-xxx-xxxx].
 
 (ii) The legend also may provide an e-mail address at which the documents can be requested and may indicate that the documents also are available by accessing the issuer's Web site and provide the Internet address and the particular location of the documents on the Web site.
+
+(3) A free writing prospectus with respect to securities of a registered closed-end investment company or a business development company that includes fee or expense information must comply with paragraphs (i) and (j) of § 230.482 (Rule 482), as applicable.
 
 (d) *Filing conditions.* (1) Except as provided in paragraphs (d)(3), (d)(4), (d)(5), (d)(6), (d)(7), (d)(8), and (f) of this section, the following shall be filed with the Commission under this section by a means reasonably calculated to result in filing no later than the date of first use. The free writing prospectus filed for purposes of this section will not be filed as part of the registration statement:
 
@@ -142,4 +142,4 @@ Note to § 230.433.
 
 This section does not affect the operation of the provisions of clause (a) of section 2(a)(10) of the Act providing an exception from the definition of “prospectus.”
 
-[70 FR 44815, Aug. 3, 2005, as amended at 71 FR 7413, Feb. 13, 2006; 79 FR 57331, Sept. 24, 2014; 85 FR 33355, June 1, 2020]
+[70 FR 44815, Aug. 3, 2005, as amended at 71 FR 7413, Feb. 13, 2006; 79 FR 57331, Sept. 24, 2014; 85 FR 33355, June 1, 2020; 87 FR 72846, Nov. 25, 2022]
