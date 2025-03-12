@@ -1,7 +1,5 @@
 ##### § 431.92 Definitions concerning commercial air conditioners and heat pumps. #####
 
-Link to an amendment published at 88 FR 36386, June 2, 2023.Link to an amendment published at 88 FR 36424, June 2, 2023.
-
 The following definitions apply for purposes of this subpart, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in 42 U.S.C. 6311. For definitions that reference the application for which the equipment is marketed, DOE will consider any publicly available document published by the manufacturer (*e.g.,* product literature, catalogs, and packaging labels) to determine marketing intent. For definitions in this section that pertain to computer room air conditioners, italicized terms within a definition indicate terms that are separately defined in this section.
 
 *Basic model* includes:
@@ -59,6 +57,8 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 (4) Has a rated cooling capacity greater than or equal to 65,000 Btu/h and up to 300,000 Btu/h.
 
 *Down-flow* means a configuration of *floor-mounted computer room air conditioner* in which return air enters above the top of the evaporator coil and discharge air leaves below the bottom of the evaporator coil.
+
+*Ducted Condenser* means a configuration of *computer room air conditioner* for which the condenser or condensing unit that manufacturer's installation instructions indicate is intended to exhaust condenser air through a duct(s).
 
 *Energy Efficiency Ratio,* or *EER* means the ratio of the produced cooling effect of an air conditioner or heat pump to its net work input, expressed in Btu/watt-hour.
 
@@ -144,6 +144,44 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Small commercial package air-conditioning and heating equipment* means commercial package air-conditioning and heating equipment that is rated below 135,000 Btu per hour (cooling capacity).
 
+*Small-duct, high-velocity commercial package air conditioning and heating equipment* means a basic model of commercial package, split-system air conditioning and heating equipment that:
+
+(1) Has a rated cooling capacity no greater than 65,000 Btu/h;
+
+(2) Is powered by three-phase current;
+
+(3) Is air-cooled; and
+
+(4) Is paired with an indoor unit that:
+
+(i) Includes an indoor blower housed with the coil;
+
+(ii) Is designed for, and produces, at least 1.2 inches of external static pressure when operated at the certified air volume rate of 220-350 CFM per rated ton cooling in the highest default cooling airflow-controls setting; and
+
+(iii) When applied in the field, uses high velocity room outlets generally greater than 1,000 fpm that have less than 6.0 square inches of free area.
+
+*Space-constrained commercial package air conditioning and heating equipment* means a basic model of commercial package air conditioning and heating equipment (packaged or split) that:
+
+(1) Is air-cooled;
+
+(2) Is powered by three-phase current;
+
+(3) Is not a single package vertical air conditioner or a single package vertical heat pump;
+
+(4) Has a rated cooling capacity no greater than 30,000 Btu/h;
+
+(5) Has an outdoor or indoor unit having at least two overall exterior dimensions or an overall displacement that:
+
+(i) Is substantially smaller than those of other units that are:
+
+(A) Currently usually installed in site-built single-family homes; and
+
+(B) Of a similar cooling, and, if a heat pump, heating capacity; and
+
+(ii) If increased, would certainly result in a considerable increase in the usual cost of installation or would certainly result in a significant loss in the utility of the product to the consumer; and
+
+(6) Of a product type that was available for purchase in the United States as of December 1, 2000.
+
 *Split system* means any central air conditioner or central air conditioning heat pump in which one or more of the major assemblies are separate from the others.
 
 *Standard size* means a packaged terminal air conditioner or packaged terminal heat pump with wall sleeve dimensions having an external wall opening of greater than or equal to 16 inches high or greater than or equal to 42 inches wide, and a cross-sectional area greater than or equal to 670 square inches.
@@ -172,4 +210,4 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Water-source heat pump* means a single-phase or three-phase reverse-cycle heat pump that uses a circulating water loop as the heat source for heating and as the heat sink for cooling. The main components are a compressor, refrigerant-to-water heat exchanger, refrigerant-to-air heat exchanger, refrigerant expansion devices, refrigerant reversing valve, and indoor fan. Such equipment includes, but is not limited to, water-to-air water-loop heat pumps.
 
-[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21838, Apr. 11, 2023]
+[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21838, Apr. 11, 2023; 88 FR 36386, 36424, June 2, 2023]

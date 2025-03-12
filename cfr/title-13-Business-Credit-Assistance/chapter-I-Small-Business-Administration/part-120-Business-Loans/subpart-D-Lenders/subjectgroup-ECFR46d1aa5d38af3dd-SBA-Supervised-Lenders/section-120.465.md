@@ -2,7 +2,7 @@
 
 (a) *Obligation to submit required reports by applicable due dates.* SBA Supervised Lenders must submit complete reports by the due dates described in the regulations or as directed in writing by SBA. SBA considers any report that an SBA Supervised Lender sends to SBA by the applicable due date but that is submitted only in part, to have not been submitted by the applicable due date. SBA also considers any report that is postmarked by the due date to be submitted by the due date.
 
-(b) *Amount of civil penalty.* For each day past the due date for such report, the SBA Supervised Lender must pay to SBA a civil penalty of not more than $7,244 per day per report. Such civil penalty continues to accrue until and including the date upon which SBA Supervised Lender submits the complete report. In determining the amount of the civil penalty to be assessed, SBA may consider the financial resources and good faith of the SBA Supervised Lender, the gravity of the violation, the history of previous violations and any such other matters as justice may require.
+(b) *Amount of civil penalty.* For each day past the due date for such report, the SBA Supervised Lender must pay to SBA a civil penalty of not more than $7,805 per day per report. Such civil penalty continues to accrue until and including the date upon which SBA Supervised Lender submits the complete report. In determining the amount of the civil penalty to be assessed, SBA may consider the financial resources and good faith of the SBA Supervised Lender, the gravity of the violation, the history of previous violations and any such other matters as justice may require.
 
 (c) *Notification of amount of civil penalty.* SBA will notify the SBA Supervised Lender in writing of the amount of civil penalties imposed either upon receiving the required complete report or at such other time as SBA determines. The SBA Supervised Lender must pay this amount to SBA within 30 days of the date of SBA's written demand.
 
@@ -36,4 +36,4 @@
 
 (i) *Exception for affiliate of SBLC.* Civil penalties under this section do not apply to any affiliate of an SBLC that procures at least 10% of its annual purchasing requirements from small manufacturers.
 
-[73 FR 75515, Dec. 11, 2008, as amended at 81 FR 31491, May 19, 2016; 82 FR 9969, Feb. 9, 2017; 83 FR 7363, Feb. 21, 2018; 84 FR 12061, Apr. 1, 2019; 85 FR 13727, Mar. 10, 2020; 86 FR 52957, Sept. 24, 2021; 87 FR 28758, May 11, 2022]
+[73 FR 75515, Dec. 11, 2008, as amended at 81 FR 31491, May 19, 2016; 82 FR 9969, Feb. 9, 2017; 83 FR 7363, Feb. 21, 2018; 84 FR 12061, Apr. 1, 2019; 85 FR 13727, Mar. 10, 2020; 86 FR 52957, Sept. 24, 2021; 87 FR 28758, May 11, 2022; 88 FR 50005, Aug. 1, 2023]

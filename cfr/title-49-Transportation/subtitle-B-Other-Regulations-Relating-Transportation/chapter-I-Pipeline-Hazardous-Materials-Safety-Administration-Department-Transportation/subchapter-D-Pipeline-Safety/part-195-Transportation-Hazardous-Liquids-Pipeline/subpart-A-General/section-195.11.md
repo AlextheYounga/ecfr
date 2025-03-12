@@ -18,11 +18,11 @@ Each operator of a regulated rural gathering line, as defined in paragraph (a) o
 
 (1) Identify all segments of pipeline meeting the criteria in paragraph (a) of this section before April 3, 2009.
 
-(2) For steel pipelines contracted, replaced, relocated, or otherwise changed after July 3, 2009:
+(2) For steel pipelines constructed, replaced, relocated, or otherwise changed after July 3, 2009:
 
 (i) Design, install, construct, initially inspect, and initially test the pipeline in compliance with this part, unless the pipeline is converted under § 195.5.
 
-(ii) Except for pipelines subject to § 195.260(e), such pipelines are not subject to the rupture-mitigation valve (RMV) and alternative equivalent technology requirements in §§ 195.258(c) and (d), 195.418, and 195.419.
+(ii) [Reserved]
 
 (3) For non-steel pipelines constructed after July 3, 2009, notify the Administrator according to § 195.8.
 
@@ -50,4 +50,4 @@ Each operator of a regulated rural gathering line, as defined in paragraph (a) o
 
 (2) An operator must maintain the records necessary to demonstrate compliance with each requirement in paragraphs (b)(2) through (b)(9), and (b)(11) of this section according to the record retention requirements of the referenced section or subpart.
 
-[73 FR 31644, June 3, 2008, as amended by Amdt. 195-105, 87 FR 20987, Apr. 8, 2022]
+[73 FR 31644, June 3, 2008, as amended by Amdt. 195-105, 87 FR 20987, Apr. 8, 2022; Amdt. 195-106, 88 FR 50062, Aug. 1, 2023]

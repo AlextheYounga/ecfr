@@ -10,9 +10,37 @@
 
 *Administrator* means the Administrator of the Drug Enforcement Administration. The Administrator has been delegated authority under the Act by the Attorney General (28 CFR 0.100).
 
-*Anabolic steroid* means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes:
+*Anabolic steroid* means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes (but is not limited to) those substances listed in § 1308.13(f) of this chapter.
 
-(1) 3β,17-dihydroxy-5a-androstane(2) 3α,17β-dihydroxy-5a-androstane(3) 5α-androstan-3,17-dione(4) 1-androstenediol (3β,17β-dihydroxy-5α-androst-1-ene)(5) 1-androstenediol (3α,17β-dihydroxy-5α-androst-1-ene)(6) 4-androstenediol (3β,17β-dihydroxy-androst-4-ene)(7) 5-androstenediol (3β,17β-dihydroxy-androst-5-ene)(8) 1-androstenedione ([5α]-androst-1-en-3,17-dione)(9) 4-androstenedione (androst-4-en-3,17-dione)(10) 5-androstenedione (androst-5-en-3,17-dione)(11) bolasterone (7α,17α-dimethyl-17β-hydroxyandrost-4-en-3-one)(12) boldenone (17β-hydroxyandrost-1,4-diene-3-one)(13) boldione (androsta-1,4-diene-3,17-dione)(14) calusterone (7β,17α-dimethyl-17β-hydroxyandrost-4-en-3-one)(15) clostebol (4-chloro-17β-hydroxyandrost-4-en-3-one)(16) dehydrochloromethyltestosterone (4-chloro-17β-hydroxy-17α-methyl-androst-1,4-dien-3-one)(17) desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol) (a.k.a. ‘madol‘)(18) Δ1-dihydrotestosterone (a.k.a.‘1-testosterone‘) (17β-hydroxy-5α-androst-1-en-3-one)(19) 4-dihydrotestosterone (17β-hydroxy-androstan-3-one)(20) drostanolone (17β-hydroxy-2α-methyl-5α-androstan-3-one)(21) ethylestrenol (17α-ethyl-17β-hydroxyestr-4-ene)(22) fluoxymesterone (9-fluoro-17α-methyl-11β,17β-dihydroxyandrost-4-en-3-one)(23) formebolone (2-formyl-17α-methyl-11α,17β-dihydroxyandrost-1,4-dien-3-one)(24) furazabol (17α-methyl-17β-hydroxyandrostano[2,3-c]-furazan)(25) 13β-ethyl-17β-hydroxygon-4-en-3-one(26) 4-hydroxytestosterone (4,17β-dihydroxy-androst-4-en-3-one)(27) 4-hydroxy-19-nortestosterone (4,17β-dihydroxy-estr-4-en-3-one)(28) mestanolone (17α-methyl-17β-hydroxy-5-androstan-3-one)(29) mesterolone (1α-methyl-17β-hydroxy-[5α]-androstan-3-one)(30) methandienone (17α-methyl-17β-hydroxyandrost-1,4-dien-3-one)(31) methandriol (17α-methyl-3β,17β-dihydroxyandrost-5-ene)(32) Methasterone (2α,17α-dimethyl-5α-androstan-17β-ol-3-one)(33) methenolone (1-methyl-17β-hydroxy-5α-androst-1-en-3-one)(34) 17α-methyl-3β,17β-dihydroxy-5a-androstane(35) 17α-methyl-3α,17β-dihydroxy-5a-androstane(36) 17α-methyl-3β,17β-dihydroxyandrost-4-ene(37) 17α-methyl-4-hydroxynandrolone (17α-methyl-4-hydroxy-17β-hydroxyestr-4-en-3-one)(38) methyldienolone (17α-methyl-17β-hydroxyestra-4,9(10)-dien-3-one)(39) methyltrienolone (17α-methyl-17β-hydroxyestra-4,9,11-trien-3-one)(40) methyltestosterone (17α-methyl-17β-hydroxyandrost-4-en-3-one)(41) mibolerone (7α,17α-dimethyl-17β-hydroxyestr-4-en-3-one)(42) 17α-methyl-Δ1-dihydrotestosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one) (a.k.a. ‘17-α-methyl-1-testosterone‘)(43) nandrolone (17β-hydroxyestr-4-en-3-one)(44) 19-nor-4-androstenediol (3β, 17β-dihydroxyestr-4-ene)(45) 19-nor-4-androstenediol (3α, 17β-dihydroxyestr-4-ene)(46) 19-nor-5-androstenediol (3β, 17β-dihydroxyestr-5-ene)(47) 19-nor-5-androstenediol (3α, 17β-dihydroxyestr-5-ene)(48) 19-nor-4,9(10)-androstadienedione (estra-4,9(10)-diene-3,17-dione)(49) 19-nor-4-androstenedione (estr-4-en-3,17-dione)(50) 19-nor-5-androstenedione (estr-5-en-3,17-dione)(51) norbolethone (13β, 17α-diethyl-17β-hydroxygon-4-en-3-one)(52) norclostebol (4-chloro-17β-hydroxyestr-4-en-3-one)(53) norethandrolone (17α-ethyl-17β-hydroxyestr-4-en-3-one)(54) normethandrolone (17α-methyl-17β-hydroxyestr-4-en-3-one)(55) oxandrolone (17α-methyl-17β-hydroxy-2-oxa-[5α]-androstan-3-one)(56) oxymesterone (17α-methyl-4,17β-dihydroxyandrost-4-en-3-one)(57) oxymetholone (17α-methyl-2-hydroxymethylene-17β-hydroxy-[5α]-androstan-3-one)(58) Prostanozol (17β-hydroxy-5α-androstano[3,2-c]pyrazole)(59) stanozolol (17α-methyl-17β-hydroxy-[5α]-androst-2-eno[3,2-c]-pyrazole)(60) stenbolone (17β-hydroxy-2-methyl-[5α]-androst-1-en-3-one)(61) testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone)(62) testosterone (17β-hydroxyandrost-4-en-3-one)(63) tetrahydrogestrinone (13β, 17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one)(64) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one)(65) Any salt, ester, or ether of a drug or substance described in this paragraph. Except such term does not include an anabolic steroid that is expressly intended for administration through implants to cattle or other nonhuman species and that has been approved by the Secretary of Health and Human Services for such administration. If any person prescribes, dispenses, or distributes such steroid for human use, the person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of this paragraph.
+(1)(i) Except as provided in paragraph (1)(ii) of this definition, such term does not include an anabolic steroid that is expressly intended for administration through implants to cattle or other nonhuman species and that has been approved by the Secretary of Health and Human Services for such administration.
+
+(ii) If any person prescribes, dispenses, or distributes such steroid for human use, the person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of this definition.
+
+(2)(i) Subject to paragraph (2)(ii) of this definition, a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in § 1308.13(f) of this chapter and is derived from, or has a chemical structure substantially similar to, one or more anabolic steroids listed in § 1308.13(f) of this chapter shall be considered to be an anabolic steroid for purposes of this chapter if—
+
+(A) The drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
+
+(*1*) Promotes muscle growth; or
+
+(*2*) Otherwise causes a pharmacological effect similar to that of testosterone; or
+
+(B) The drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
+
+(ii) A substance shall not be considered to be a drug or hormonal substance for purposes of this definition if it—
+
+(A) Is—
+
+(*1*) An herb or other botanical;
+
+(*2*) A concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical; or
+
+(*3*) A combination of 2 or more substances described in paragraph (2)(ii)(A)(*1*) or (*2*) of this definition;
+
+(B) Is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 *et seq.*); and
+
+(C) Is not anabolic or androgenic.
+
+(iii) In accordance with 21 U.S.C. 885(a), any person claiming the benefit of an exemption or exception under paragraph (2)(ii) of this definition shall bear the burden of going forward with the evidence with respect to such exemption or exception.
 
 *Automated dispensing system* means a mechanical system that performs operations or activities, other than compounding or administration, relative to the storage, packaging, counting, labeling, and dispensing of medications, and which collects, controls, and maintains all transaction information.
 
@@ -200,4 +228,4 @@
 
 *United States,* when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States, which, in addition to the customs territory of the United States, include but are not limited to the U.S. Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-[62 FR 13941, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 68 FR 37409, June 24, 2003; 68 FR 41228, July 11, 2003; 70 FR 25465, May 13, 2005; 70 FR 74656, Dec. 16, 2005; 71 FR 60427, Oct. 13, 2006; 72 FR 67852, Dec. 3, 2007; 74 FR 63609, Dec. 4, 2009; 77 FR 4230, Jan. 27, 2012; 77 FR 44461, July 30, 2012; 79 FR 53559, Sept. 9, 2014; 81 FR 97018, Dec. 30, 2016; 86 FR 33883, June 28, 2021]
+[62 FR 13941, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 68 FR 37409, June 24, 2003; 68 FR 41228, July 11, 2003; 70 FR 25465, May 13, 2005; 70 FR 74656, Dec. 16, 2005; 71 FR 60427, Oct. 13, 2006; 72 FR 67852, Dec. 3, 2007; 74 FR 63609, Dec. 4, 2009; 77 FR 4230, Jan. 27, 2012; 77 FR 44461, July 30, 2012; 79 FR 53559, Sept. 9, 2014; 81 FR 97018, Dec. 30, 2016; 86 FR 33883, June 28, 2021; 88 FR 50039, Aug. , 2023]

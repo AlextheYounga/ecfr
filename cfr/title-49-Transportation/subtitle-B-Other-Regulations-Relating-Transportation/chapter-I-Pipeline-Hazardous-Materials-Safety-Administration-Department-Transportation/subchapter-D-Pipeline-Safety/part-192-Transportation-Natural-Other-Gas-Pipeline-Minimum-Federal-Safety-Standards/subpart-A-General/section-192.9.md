@@ -2,9 +2,9 @@
 
 (a) *Requirements.* An operator of a gathering line must follow the safety requirements of this part as prescribed by this section.
 
-(b) *Offshore lines.* An operator of an offshore gathering line must comply with requirements of this part applicable to transmission lines, except the requirements in §§ 192.13(d), 192.150, 192.285(e), 192.319(d) through (g), 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c), 192.493, 192.506, 192.607, 192.613(c), 192.619(e), 192.624, 192.710, 192.712, and 192.714 and in subpart O of this part.
+(b) *Offshore lines.* An operator of an offshore gathering line must comply with requirements of this part applicable to transmission lines, except the requirements in §§ 192.13(d), 192.150, 192.285(e), 192.319(d) through (g), 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c), 192.493, 192.506, 192.607, 192.613(c), 192.619(e), 192.624, 192.710, 192.712, and 192.714, and in subpart O of this part. Further, operators of offshore gathering lines are exempt from the requirements of §§ 192.617(b) through (d) and 192.635. Lastly, operators of offshore gathering lines are exempt from the requirements of § 192.615 (but an operator of an offshore gathering line must comply with the requirements of 49 CFR 192.615, effective as of October 4, 2022).
 
-(c) *Type A lines.* An operator of a Type A regulated onshore gathering line must comply with the requirements of this part applicable to transmission lines, except the requirements in §§ 192.13(d), 192.150, 192.285(e), 192.319(d) through (g), 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c) 192.493, 192.506, 192.607, 192.613(c), 192.619(e), 192.624, 192.710, 192.712, and 192.714 and in subpart O of this part. However, an operator of a Type A regulated onshore gathering line in a Class 2 location may demonstrate compliance with subpart N of this part by describing the processes it uses to determine the qualification of persons performing operations and maintenance tasks.
+(c) *Type A lines.* An operator of a Type A regulated onshore gathering line must comply with the requirements of this part applicable to transmission lines, except the requirements in §§ 192.13(d), 192.150, 192.285(e), 192.319(d) through (g), 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c) 192.493, 192.506, 192.607, 192.613(c), 192.619(e), 192.624, 192.710, 192.712, and 192.714, and in subpart O of this part. However, an operator of a Type A regulated onshore gathering line in a Class 2 location may demonstrate compliance with subpart N of this part by describing the processes it uses to determine the qualification of persons performing operations and maintenance tasks. Further, operators of Type A regulated onshore gathering lines are exempt from the requirements of §§ 192.179(e) through (g), 192.610, 192.617(b) through (d), 192.634, 192.635, 192.636, and 192.745(c) through (f). Lastly, operators of Type A regulated onshore gathering lines are exempt from the requirements of § 192.615 (but an operator of a Type A regulated onshore gathering line must comply with the requirements of 49 CFR 192.615, effective as of October 4, 2022).
 
 (d) *Type B lines.* An operator of a Type B regulated onshore gathering line must comply with the following requirements:
 
@@ -34,7 +34,7 @@
 
 (iii) Carry out a damage prevention program under § 192.614;
 
-(iv) Develop and implement procedures for emergency plans in accordance with § 192.615;
+(iv) Develop and implement procedures for emergency plans in accordance with the requirements of 49 CFR 192.615, effective as of October 4, 2022;
 
 (v) Develop and implement a written public awareness program in accordance with § 192.616;
 
@@ -115,4 +115,4 @@
 
 (3) Repairs or replacements using materials authorized under this part do not require notification under this section.
 
-[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018; Amdt. 192-125, 84 FR 52244, Oct. 1, 2019; Amdt. 192-129, 86 FR 63296, Nov. 15, 2021; Amdt. 192-130, 87 FR 20982, Apr. 8, 2022; Amdt. 192-132, 87 FR 52268, Aug. 24, 2022]
+[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018; Amdt. 192-125, 84 FR 52244, Oct. 1, 2019; Amdt. 192-129, 86 FR 63296, Nov. 15, 2021; Amdt. 192-130, 87 FR 20982, Apr. 8, 2022; Amdt. 192-132, 87 FR 52268, Aug. 24, 2022; Amdt. 192-134, 88 FR 50060, Aug. 1, 2023]

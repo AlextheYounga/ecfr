@@ -1,7 +1,5 @@
 ##### § 274a.2 Verification of identity and employment authorization. #####
 
-Link to an amendment published at 88 FR 48022, July 25, 2023.
-
 (a) *General.* This section establishes requirements and procedures for compliance by persons or entities when hiring, or when recruiting or referring for a fee, or when continuing to employ individuals in the United States.
 
 (1) *Recruiters and referrers for a fee.* For purposes of complying with section 274A(b) of the Act and this section, all references to recruiters and referrers for a fee are limited to a person or entity who is either an agricultural association, agricultural employer, or farm labor contractor (as defined in section 3 of the Migrant and Seasonal Agricultural Worker Protection Act, Pub. L. 97-470 (29 U.S.C. 1802)).
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 48022, July 25, 2023.
 
 (ii) Except as provided in paragraph (b)(1)(viii) of this section, an employer, his or her agent, or anyone acting directly or indirectly in the interest thereof, must within three business days of the hire:
 
-(A) Physically examine the documentation presented by the individual establishing identity and employment authorization as set forth in paragraph (b)(1)(v) of this section and ensure that the documents presented appear to be genuine and to relate to the individual; and
+(A) Physically examine (or otherwise examine pursuant to an alternative procedure authorized by the Secretary under paragraph (b)(1)(ix) of this section) the documentation presented by the individual establishing identity and employment authorization as set forth in paragraph (b)(1)(v) of this section and ensure that the documents presented appear to be genuine and to relate to the individual; and
 
 (B) Complete section 2—“Employer Review and Verification”—on the Form I-9 within three business days of the hire and sign the attestation with a handwritten signature or electronic signature in accordance with paragraph (i) of this section.
 
@@ -140,7 +138,7 @@ Link to an amendment published at 88 FR 48022, July 25, 2023.
 
 (*2*) Presents, within 90 days of the hire or, in the case of reverification, the date employment authorization expires, either an unexpired Form I-766, or a social security account number card that contains no employment restrictions and a document described under paragraph (b)(1)(v)(B) of this section.
 
-(vii) If an individual's employment authorization expires, the employer, recruiter or referrer for a fee must reverify on the Form I-9 to reflect that the individual is still authorized to work in the United States; otherwise, the individual may no longer be employed, recruited, or referred. Reverification on the Form I-9 must occur not later than the date work authorization expires. If an Employment Authorization Document (Form I-766) as described in § 274a.13(d) was presented for completion of the Form I-9 in combination with a Notice of Action (Form I-797C), stating that the original Employment Authorization Document has been automatically extended for up to 180 days, reverification applies upon the expiration of the automatically extended validity period under § 274a.13(d) and not upon the expiration date indicated on the face of the individual's Employment Authorization Document. In order to reverify on the Form I-9, the employee or referred individual must present a document that either shows continuing employment eligibility or is a new grant of work authorization. The employer or the recruiter or referrer for a fee must review this document, and if it appears to be genuine and relate to the individual, reverify by noting the document's identification number and expiration date, if any, on the Form I-9 and signing the attestation by a handwritten signature or electronic signature in accordance with paragraph (i) of this section.
+(vii) If an individual's employment authorization expires, the employer, recruiter or referrer for a fee must reverify on the Form I-9 to reflect that the individual is still authorized to work in the United States; otherwise, the individual may no longer be employed, recruited, or referred. Reverification on the Form I-9 must occur not later than the date work authorization expires and must comply with the applicable document presentation and examination procedures in paragraphs (b)(1)(ii)(A) and (b)(1)(ix) of this section, and form instructions. If an Employment Authorization Document (Form I-766) as described in § 274a.13(d) was presented for completion of the Form I-9 in combination with a Notice of Action (Form I-797C), stating that the original Employment Authorization Document has been automatically extended for up to 180 days, reverification applies upon the expiration of the automatically extended validity period under § 274a.13(d) and not upon the expiration date indicated on the face of the individual's Employment Authorization Document. In order to reverify on the Form I-9, the employee or referred individual must present a document that either shows continuing employment eligibility or is a new grant of work authorization. The employer or the recruiter or referrer for a fee must review this document, and if it appears to be genuine and relate to the individual, reverify by noting the document's identification number and expiration date, if any, on the Form I-9 and signing the attestation by a handwritten signature or electronic signature in accordance with paragraph (i) of this section.
 
 (viii) An employer will not be deemed to have hired an individual for employment if the individual is continuing in his or her employment and has a reasonable expectation of employment at all times.
 
@@ -184,6 +182,14 @@ Link to an amendment published at 88 FR 48022, July 25, 2023.
 
 (*7*) The oral and/or written communication between employer, the employer's supervisory employees and the individual in question indicates that it is reasonably likely that the individual in question will resume employment with the employer within a reasonable time in the future.
 
+(ix) As an optional alternative to the physical examination procedure described in paragraph (b)(1)(ii)(A) of this section, the Secretary may, consistent with applicable law and via notice published in the Federal Register, authorize alternative documentation examination procedures with respect to some or all employers. The Secretary may adopt such procedures:
+
+(A) As part of a pilot program;
+
+(B) Upon the Secretary's determination that such procedures offer an equivalent level of security to that of physical examination as indicated by, for instance, observed measures of system integrity (such as error or fraud rates) or the procedure's capacity for confirming certain documents or information; or
+
+(C) As a temporary measure to address a public health emergency declared by the Secretary of Health and Human Services pursuant to Section 319 of the Public Health Service Act, or a national emergency declared by the President pursuant to Sections 201 and 301 of the National Emergencies Act.
+
 (2) *Retention and Inspection of Form I-9.* (i) A paper (with original handwritten signatures), electronic (with acceptable electronic signatures that meet the requirements of paragraphs (h) and (i) of this section or original paper scanned into an electronic format, or a combination of paper and electronic formats that meet the requirements of paragraphs (e), (f), and (g) of this section), or microfilm or microfiche copy of the original signed version of Form I-9 must be retained by an employer or a recruiter or referrer for a fee for the following time periods:
 
 (A) In the case of an employer, three years after the date of the hire or one year after the date the individual's employment is terminated, whichever is later; or
@@ -208,7 +214,7 @@ Link to an amendment published at 88 FR 48022, July 25, 2023.
 
 (i) If upon inspection of the Form I-9, the employer determines that the Form I-9 relates to the individual and that the individual is still eligible to work, that previously executed Form I-9 is sufficient for purposes of section 274A(b) of the Act if the individual is hired within three years of the date of the initial execution of the Form I-9 and the employer updates the Form I-9 to reflect the date of rehire; or
 
-(ii) If upon inspection of the Form I-9, the employer determines that the individual's employment authorization has expired, the employer must reverify on the Form I-9 in accordance with paragraph (b)(1)(vii); otherwise the individual may no longer be employed.
+(ii) If upon inspection of the Form I-9, the employer determines that the individual's employment authorization has expired, the employer must reverify such employment authorization on the Form I-9 in accordance with paragraph (b)(1)(vii) of this section, including complying with the applicable document presentation and examination procedures in paragraphs (b)(1)(ii)(A) and (b)(1)(ix) of this section, and form instructions; otherwise the individual may no longer be employed.
 
 (2) For purposes of retention of the Form I-9 by an employer for a previously employed individual hired pursuant to paragraph (c)(1) of this section, the employer shall retain the Form I-9 for a period of three years commencing from the date of the initial execution of the Form I-9 or one year after the individual's employment is terminated, whichever is later.
 
@@ -296,4 +302,4 @@ Link to an amendment published at 88 FR 48022, July 25, 2023.
 
 (i) *Electronic signatures for employer, recruiter or referrer, or representative.* If a Form I-9 is completed electronically, the employer, the recruiter or referrer for a fee, or the representative of the employer or the recruiter or referrer, must attest to the required information in Form I-9. The system used to capture the electronic signature should include a method to acknowledge that the attestation to be signed has been read by the signatory. Any person or entity who has failed to comply with the criteria established by this regulation for electronic signatures, if used, and at the time of inspection does not present a properly completed Form I-9 for the employee, is in violation of section 274A(a)(1)(B) of the Act and 8 CFR 274a.2(b)(2).
 
-[52 FR 16221, May 1, 1987, as amended at 53 FR 8612, Mar. 16, 1988; 55 FR 25932, June 25, 1990; 56 FR 41784, Aug. 23, 1991; 58 FR 48780, Sept. 20, 1993; 61 FR 46537, Sept. 4, 1996; 61 FR 52236, Oct. 7, 1996; 62 FR 51005, Sept. 30, 1997; 64 FR 6189, Feb. 9, 1999; 64 FR 11533, Mar. 9, 1999; 71 FR 34514, June 15, 2006; 73 FR 76511, Dec. 17, 2008; 74 FR 2838, Jan. 16, 2009; 74 FR 7995, Feb. 23, 2009; 74 FR 10455, Mar. 11, 2009; 74 FR 55739, Oct. 28, 2009; 74 FR 62207, Nov. 27, 2009; 75 FR 42578, July 22, 2010; 78 FR 18472, Mar. 27, 2013; 81 FR 82491, Nov. 18, 2016; 82 FR 5289, Jan. 17, 2017; 85 FR 29317, May 14, 2020]
+[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

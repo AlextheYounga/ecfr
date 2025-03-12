@@ -1,5 +1,7 @@
 ##### § 382.63 What are the requirements for accessible lavatories? #####
 
+Link to an amendment published at 88 FR 50034, Aug. 1, 2023.
+
 (a) As a carrier, you must ensure that aircraft with more than one aisle in which lavatories are provided shall include at least one accessible lavatory.
 
 (1) The accessible lavatory must permit a qualified individual with a disability to enter, maneuver within as necessary to use all lavatory facilities, and leave, by means of the aircraft's on-board wheelchair.

@@ -2,7 +2,7 @@
 
 (a) Each operator shall maintain each valve that is necessary for the safe operation of its pipeline systems in good working order at all times.
 
-(b) Each operator must, at least twice each calendar year, but at intervals not exceeding 71/2 months, inspect each valve to determine that it is functioning properly. Each rupture-mitigation valve (RMV), as defined in § 195.2, or alternative equivalent technology that is installed under § 195.258(c) or § 195.418, must also be partially operated. Operators are not required to close the valve fully during the drill; a minimum 25 percent valve closure is sufficient to demonstrate compliance, unless the operator has operational information that requires an additional closure percentage for maintaining reliability.
+(b) Each operator must, at least twice each calendar year, but at intervals not exceeding 71/2 months, inspect each mainline valve to determine that it is functioning properly. Each rupture-mitigation valve (RMV), as defined in § 195.2 and not contained in a gathering line, or alternative equivalent technology that is installed under § 195.258(c) or § 195.418, must also be partially operated. Operators are not required to close the valve fully during the inspection; a minimum 25 percent valve closure is sufficient to demonstrate compliance, unless the operator has operational information that requires an additional closure percentage for maintaining reliability.
 
 (c) Each operator shall provide protection for each valve from unauthorized operation and from vandalism.
 
@@ -32,4 +32,6 @@
 
 (g) An operator using an ASV as an RMV, in accordance with §§ 195.2, 195.260, 195.418, and 195.419, must document, in accordance with § 195.419(f), and confirm the ASV shut-in pressures on a calendar year basis not to exceed 15 months. ASV shut-in set pressures must be proven and reset individually at each ASV, as required by § 195.419(f), at least each calendar year, but at intervals not to exceed 15 months.
 
-[Amdt. 195-22, 46 FR 38360, July 27, 1981; 47 FR 32721, July 29, 1982, as amended by Amdt. 195-24, 47 FR 46852, Oct. 21, 1982; Amdt. 195-105, 87 FR 20991, Apr. 8, 2022 ]
+(h) The requirements of paragraphs (d) through (g) of this section do not apply to gathering lines.
+
+[Amdt. 195-22, 46 FR 38360, July 27, 1981; 47 FR 32721, July 29, 1982, as amended by Amdt. 195-24, 47 FR 46852, Oct. 21, 1982; Amdt. 195-105, 87 FR 20991, Apr. 8, 2022; Amdt. 195-106, 88 FR 50063, Aug. 1, 2023]

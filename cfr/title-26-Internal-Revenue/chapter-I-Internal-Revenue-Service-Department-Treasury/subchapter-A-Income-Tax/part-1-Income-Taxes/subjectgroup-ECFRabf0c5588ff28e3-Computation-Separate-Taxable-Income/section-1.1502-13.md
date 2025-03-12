@@ -242,6 +242,10 @@ Example 7. Liquidation—no 80% distributee.
 
 (D) *Other amounts.* (*1*) The Commissioner may determine that treating S's intercompany item as excluded from gross income is consistent with the purposes of this section and other applicable provisions of the Internal Revenue Code, regulations, and published guidance, if the following conditions are met, depending on whether the intercompany item is an item of income or an item of gain:
 
+(*i*) In the case of an intercompany item of income, the corresponding item is permanently disallowed; or
+
+(*ii*) If the intercompany item constitutes gain, the conditions described in paragraphs (c)(6)(ii)(C)(*1*)(*iv*) and (c)(6)(ii)(C)(*1*)(*v*) of this section are satisfied.
+
 (*2*) A determination by the Commissioner may be obtained only through a letter ruling request.
 
 (7) *Examples*—(i) *In general.* For purposes of the examples in this section, unless otherwise stated, P is the common parent of the P consolidated group, P owns all of the only class of stock of subsidiaries S and B, X is a person unrelated to any member of the P group, the taxable year of all persons is the calendar year, all persons use the accrual method of accounting, tax liabilities are disregarded, the facts set forth the only corporate activity, no member has any special status, and the transaction is not otherwise subject to recharacterization. If a member acts as both a selling member and a buying member (e.g., with respect to different aspects of a single transaction, or with respect to related transactions), the member is referred to as M, M1, or M2 (rather than as S or B).
@@ -980,4 +984,6 @@ Example 7. Liquidation—no 80% distributee.(a) *Facts.* X has only common stock
 
 (m) *Effective/applicability date.* Paragraphs (f)(5)(ii)(E) and (f)(6)(i)(C)(*2*) of this section apply to any original consolidated Federal income tax return due (without extensions) after June 14, 2007. For original consolidated Federal income tax returns due (without extensions) after May 30, 2006, and on or before June 14, 2007, see § 1.1502-13T as contained in 26 CFR part 1 in effect on April 1, 2007. For original consolidated Federal income tax returns due (without extensions) on or before May 30, 2006, see § 1.1502-13 as contained in 26 CFR part 1 in effect on April 1, 2006. Paragraph (f)(5)(ii)(C) of this section is applicable to any qualified stock disposition (as defined in § 1.336-1(b)(6)) for which the disposition date (as defined in § 1.336-1(b)(8)) is on or after May 15, 2013.
 
-[T.D. 8597, 60 FR 36685, July 18, 1995]Editorial Note:For Federal Register citations affecting § 1.1502-13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:By T.D. 9905, 85 FR 56843, Sept. 14, 2020, § 1.1502-13 was amended in part by redesignating paragraphs (h)(2)(v)(a) and (b) as paragraphs (h)(2)(iv)(A) and (B); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[T.D. 8597, 60 FR 36685, July 18, 1995]Editorial Notes:1. For Federal Register citations affecting § 1.1502-13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. By T.D. 9905, 85 FR 56843, Sept. 14, 2020, § 1.1502-13 was amended in part by redesignating paragraphs (h)(2)(v)(a) and (b) as paragraphs (h)(2)(iv)(A) and (B); however, the amendment could not be incorporated due to inaccurate amendatory instruction.

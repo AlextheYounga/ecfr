@@ -1,4 +1,4 @@
-##### § 65.77 Experience requirements #####
+##### § 65.77 Experience requirements. #####
 
 Each applicant for a mechanic certificate or rating must present either—
 
@@ -10,4 +10,4 @@ Each applicant for a mechanic certificate or rating must present either—
 
 (2) At least 30 months of practical experience concurrently performing the duties appropriate to both the airframe and powerplant ratings.
 
-[Docket No.: FAA-2021-0237; Amdt. No. 65-63, 87 FR 31415, May 24, 2022]
+[Docket No. FAA-2021-0237; Amdt. No. 65-63, 87 FR 31415, May 24, 2022]

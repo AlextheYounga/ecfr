@@ -112,7 +112,15 @@
 
 (ii) MA organizations may determine eligibility for this SEP when the criterion is met, ensuring adequate documentation of the situation, including records indicating the date of the individual's request, the amount of time taken to provide accessible versions of the requested materials and the amount of time it takes for the same information to be provided to an individual who does not request an accessible format.
 
-(18) [Reserved]
+(18) Individuals affected by an emergency or major disaster declared by a Federal, state or local government entity are eligible for a SEP to make a MA enrollment or disenrollment election. The SEP starts as of the date the declaration is made, the incident start date or, if different, the start date identified in the declaration, whichever is earlier, and ends 2 full calendar months following the end date identified in the declaration or, if different, the date the end of the incident is announced, whichever is later. The individual is eligible for this SEP provided the individual—
+
+(i) (A) Resides, or resided at the start of the SEP eligibility period described in this paragraph (b)(18), in an area for which a federal, state or local government entity has declared an emergency or major disaster; or
+
+(B) Does not reside in an affected area but relies on help making healthcare decisions from one or more individuals who reside in an affected area; and
+
+(ii) Was eligible for another election period at the time of the SEP eligibility period described in this paragraph (b)(18); and
+
+(iii) Did not make an election during that other election period due to the emergency or major disaster.
 
 (19) The individual experiences an involuntary loss of creditable prescription drug coverage, including a reduction in the level of coverage so that it is no longer creditable and excluding any loss or reduction of creditable coverage that is due to a failure to pay premiums.
 
@@ -170,4 +178,4 @@
 
 (ii) *Exception.* An individual who elects an MA MSA plan during an annual election period and has never before elected an MA MSA plan may revoke that election, no later than December 15 of that same year, by submitting to the organization that offers the MA MSA plan a signed and dated request in the form and manner prescribed by CMS or by filing the appropriate disenrollment form through other mechanisms as determined by CMS.
 
-[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4717, Jan. 28, 2005; 76 FR 21561, Apr. 15, 2011; 83 FR 16722, Apr. 16, 2018; 85 FR 33901, June 2, 2020; 88 FR 22328, Apr. 12, 2023]
+[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4717, Jan. 28, 2005; 76 FR 21561, Apr. 15, 2011; 83 FR 16722, Apr. 16, 2018; 85 FR 33901, June 2, 2020; 88 FR 22328, Apr. 12, 2023; 88 FR 50044, Aug. 1, 2023]

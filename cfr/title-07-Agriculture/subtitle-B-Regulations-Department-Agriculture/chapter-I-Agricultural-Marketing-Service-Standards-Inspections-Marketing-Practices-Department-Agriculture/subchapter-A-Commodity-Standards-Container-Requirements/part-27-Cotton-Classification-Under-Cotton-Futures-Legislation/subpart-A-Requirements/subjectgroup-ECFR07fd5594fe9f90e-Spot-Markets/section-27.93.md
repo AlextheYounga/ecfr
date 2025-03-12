@@ -32,4 +32,4 @@ San Joaquin Valley
 
 All California counties except those included in the Desert Southwest market.
 
-[53 FR 29326, Aug. 4, 1988, as amended at 78 FR 25182, Apr. 30, 2013]
+[53 FR 29326, Aug. 4, 1988, as amended at 78 FR 25182, Apr. 30, 2013]Editorial Note:At 88 FR 49994, Aug. 1, 2023, § 27.93 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

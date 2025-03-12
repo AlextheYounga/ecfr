@@ -26,4 +26,6 @@ A valve must be installed at each of the following locations:
 
 (h) An operator may submit for PHMSA review, in accordance with § 195.18, a notification requesting site-specific exemption from the valve installation requirements or valve spacing requirements of paragraph (c), (e), or (f) of this section and demonstrating such exemption would not adversely affect safety. An operator may also submit for PHMSA review, in accordance with § 195.18, a notification requesting an extension of the compliance deadline requirements for valve installation and spacing of this section because those compliance deadline requirements would be economically, technically, or operationally infeasible for a particular new construction or pipeline replacement project.
 
-[Amdt. 195-105, 87 FR 20987, Apr. 8, 2022]
+(i) An operator of a gathering line must only comply with the requirements of 49 CFR 195.260 effective as of October 4, 2022, and need not comply with the other requirements of this section.
+
+[Amdt. 195-105, 87 FR 20987, Apr. 8, 2022, as amended by Amdt. 195-106, 88 FR 50062, Aug. 1, 2023]

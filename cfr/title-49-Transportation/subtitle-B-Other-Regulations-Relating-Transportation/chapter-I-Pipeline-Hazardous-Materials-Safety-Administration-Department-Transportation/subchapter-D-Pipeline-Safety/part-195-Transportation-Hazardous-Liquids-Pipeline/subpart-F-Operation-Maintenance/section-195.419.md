@@ -20,4 +20,6 @@
 
 (g) *Pipelines not affecting HCAs.* For pipeline segments that are not in a high-consequence area (HCA) or that could not affect an HCA, an operator submitting a notification pursuant to §§ 195.18 and 195.258 for use of manual valves as an alternative equivalent technology may also request an exemption from the valve operation requirements of § 195.419(b).
 
-[Amdt. 195-105, 87 FR 20989, Apr. 8, 2022]
+(h) *Exception.* The requirements of this section do not apply to gathering lines.
+
+[Amdt. 195-105, 87 FR 20989, Apr. 8, 2022, as amended by Amdt. 195-106, 88 FR 50063, Aug. 1, 2023]

@@ -20,4 +20,6 @@
 
 (g) *Manual valves in non-HCA, Class 1 locations.* For pipeline segments in a Class 1 location that do not meet the definition of a high consequence area (HCA), an operator submitting a notification pursuant to §§ 192.18 and 192.179 for use of manual valves as an alternative equivalent technology may also request an exemption from the requirements of § 192.636(b).
 
-[Amdt. 192-130, 87 FR 20985, Apr. 8, 2022]
+(h) *Manual operation upon identification of a rupture.* Operators using a manual valve as an alternative equivalent technology as authorized pursuant to §§ 192.18, 192.179, and 192.634 and this section must develop and implement operating procedures that appropriately designate and locate nearby personnel to ensure valve shutoff in accordance with this section and § 192.634. Manual operation of valves must include time for the assembly of necessary operating personnel, the acquisition of necessary tools and equipment, driving time under heavy traffic conditions and at the posted speed limit, walking time to access the valve, and time to shut off all valves manually, not to exceed the maximum response time allowed under paragraph (b) or (c) of this section.
+
+[Amdt. 192-130, 87 FR 20985, Apr. 8, 2022, as amended by Amdt. 192-134, 88 FR 50062, Aug. 1, 2023]
