@@ -1,5 +1,7 @@
 ##### § 192.367 Service lines: General requirements for connections to main piping. #####
 
+Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
+
 (a) *Location.* Each service line connection to a main must be located at the top of the main or, if that is not practical, at the side of the main, unless a suitable protective device is installed to minimize the possibility of dust and moisture being carried from the main into the service line.
 
 (b) *Compression-type connection to main.* Each compression-type service line to main connection must:

@@ -1,5 +1,7 @@
 ##### § 192.283 Plastic pipe: Qualifying joining procedures. #####
 
+Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
+
 (a) *Heat fusion, solvent cement, and adhesive joints.* Before any written procedure established under § 192.273(b) is used for making plastic pipe joints by a heat fusion, solvent cement, or adhesive method, the procedure must be qualified by subjecting specimen joints made according to the procedure to the following tests:
 
 (1) The burst test requirements of -

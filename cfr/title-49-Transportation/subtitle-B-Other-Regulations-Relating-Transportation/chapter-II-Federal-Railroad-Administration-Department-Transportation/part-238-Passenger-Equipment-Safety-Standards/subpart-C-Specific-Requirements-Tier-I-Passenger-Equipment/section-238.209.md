@@ -1,5 +1,7 @@
 ##### § 238.209 Forward end structure of locomotives, including cab cars and MU locomotives. #####
 
+Link to an amendment published at 83 FR 59219, November 21, 2018.
+
 (a)(1) The skin covering the forward-facing end of each locomotive, including a cab car and an MU locomotive, shall be:
 
 (i) Equivalent to a1/2-inch steel plate with a yield strength of 25,000 pounds-per-square-inch - material of a higher yield strength may be used to decrease the required thickness of the material provided at least an equivalent level of strength is maintained;

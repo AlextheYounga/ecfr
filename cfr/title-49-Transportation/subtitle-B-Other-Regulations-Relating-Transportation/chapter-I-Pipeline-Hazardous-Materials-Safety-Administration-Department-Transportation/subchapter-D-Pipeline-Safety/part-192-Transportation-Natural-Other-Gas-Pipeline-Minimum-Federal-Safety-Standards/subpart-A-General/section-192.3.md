@@ -1,5 +1,7 @@
 ##### § 192.3 Definitions. #####
 
+Link to an amendment published at 83 FR 58715, Nov. 20, 2018.
+
 As used in this part:
 
 *Abandoned* means permanently removed from service.

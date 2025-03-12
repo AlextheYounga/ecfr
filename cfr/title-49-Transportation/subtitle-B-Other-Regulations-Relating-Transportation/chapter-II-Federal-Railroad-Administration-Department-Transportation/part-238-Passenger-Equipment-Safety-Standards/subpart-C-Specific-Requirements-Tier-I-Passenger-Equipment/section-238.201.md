@@ -1,5 +1,7 @@
 ##### § 238.201 Scope/alternative compliance. #####
 
+Link to an amendment published at 83 FR 59219, November 21, 2018.
+
 (a) *Scope.* (1) This subpart contains requirements for railroad passenger equipment operating at speeds not exceeding 125 miles per hour. As stated in § 238.229, all such passenger equipment remains subject to the safety appliance requirements contained in Federal statute at 49 U.S.C. chapter 203 and in FRA regulations at part 231 and § 232.2 of this chapter. Unless otherwise specified, these requirements only apply to passenger equipment ordered on or after September 8, 2000 or placed in service for the first time on or after September 9, 2002.
 
 (2) The structural standards of this subpart (§ 238.203 - static end strength; § 238.205 - anti-climbing mechanism; § 238.207 - link between coupling mechanism and car body; § 238.209 - forward-facing end structure of locomotives; § 238.211 - collision posts; § 238.213 - corner posts; § 238.215 - rollover strength; § 238.217 - side structure; § 238.219 - truck-to-car-body attachment; and § 238.223 - locomotive fuel tanks) do not apply to passenger equipment if used exclusively on a rail line:

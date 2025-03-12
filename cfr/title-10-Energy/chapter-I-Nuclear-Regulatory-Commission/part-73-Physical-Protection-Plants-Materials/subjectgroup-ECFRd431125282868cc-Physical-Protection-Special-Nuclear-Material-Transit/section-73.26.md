@@ -1,5 +1,7 @@
 ##### § 73.26 Transportation physical protection systems, subsystems, components, and procedures. #####
 
+Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
+
 (a) A transportation physical protection system established pursuant to the general performance objectives and requirements of § 73.20 and performance capability requirements of § 73.25 shall include, but are not necessarily limited to, the measures specified in paragraphs (b) through (l) of this section. The Commission may require, depending on the individual transportation conditions or circumstances, alternate or additional measures deemed necessary to meet the general performance objectives and requirements of § 73.20. The Commission also may authorize protection measures other than those required by this section if, in its opinion, the overall level of performance meets the general performance objectives and requirements of § 73.20 and the performance capability requirements of § 73.25.
 
 (b) *Planning and scheduling.* (1) Shipments shall be scheduled to avoid regular patterns and preplanned to avoid areas of natural disaster or civil disorders, such as strikes or riots. Such shipments shall be planned in order to avoid storage times in excess of 24 hours and to assure that deliveries occur at a time when the receiver at the final delivery point is present to accept the shipment.

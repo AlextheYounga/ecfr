@@ -1,5 +1,7 @@
 ##### § 70.5 Communications. #####
 
+Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
+
 (a) Unless otherwise specified or covered under the regional licensing program as provided in paragraph (b) of this section, any communication or report concerning the regulations in this part and any application filed under these regulations may be submitted to the Commission as follows:
 
 (1) By mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Material Safety and Safeguards or Director, Division of Security Policy, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001.

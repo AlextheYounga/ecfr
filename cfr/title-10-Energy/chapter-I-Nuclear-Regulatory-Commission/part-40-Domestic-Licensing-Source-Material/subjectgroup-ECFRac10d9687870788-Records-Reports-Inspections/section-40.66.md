@@ -1,5 +1,7 @@
 ##### § 40.66 Requirements for advance notice of export shipments of natural uranium. #####
 
+Link to an amendment published at 83 FR 58723, November 21, 2018.
+
 (a) Each licensee authorized to export natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms, shall notify the Director, Division of Security Policy, Office of Nuclear Security and Incident Response, by an appropriate method listed in § 40.5.
 
 The notification must be in writing and must be received at least 10 days before transport of the shipment commences at the shipping facility.

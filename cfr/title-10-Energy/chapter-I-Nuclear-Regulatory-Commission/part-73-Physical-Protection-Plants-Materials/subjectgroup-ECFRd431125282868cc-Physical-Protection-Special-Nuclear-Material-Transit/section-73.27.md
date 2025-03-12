@@ -1,5 +1,7 @@
 ##### § 73.27 Notification requirements. #####
 
+Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
+
 (a)(1) A licensee who delivers formula quantities of strategic special nuclear material to a carrier for transport shall immediately notify the consignee by telephone, telegraph, or teletype, of the time of departure of the shipment, and shall notify or confirm with the consignee the method of transportation, including the names of carriers, and the estimated time of arrival of the shipment at its destination.
 
 (2) In the case of a shipment (f.o.b.) the point where it is delivered to a carrier for transport, a licensee shall, before the shipment is delivered to the carrier, obtain written certification from the licensee who is to take delivery of the shipment at the f.o.b. point that the physical protection arrangements required by §§ 73.25 and 73.26 for licensed shipments have been made. When a contractor exempt from the requirements for a Commission license is the consignee of a shipment, the licensee shall, before the shipment is delivered to the carrier, obtain written certification from the contractor who is to take delivery of the shipment at the f.o.b. point that the physical protection arrangements required by the United States Department of Energy Order Nos. 5632.1 or 5632.2, as appropriate, have been made.

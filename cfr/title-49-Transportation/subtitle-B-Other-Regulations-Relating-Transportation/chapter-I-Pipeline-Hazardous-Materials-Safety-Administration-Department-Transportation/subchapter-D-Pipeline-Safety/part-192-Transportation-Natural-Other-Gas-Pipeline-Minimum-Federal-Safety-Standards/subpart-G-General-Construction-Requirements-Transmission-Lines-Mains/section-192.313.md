@@ -1,5 +1,7 @@
 ##### § 192.313 Bends and elbows. #####
 
+Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
+
 (a) Each field bend in steel pipe, other than a wrinkle bend made in accordance with § 192.315, must comply with the following:
 
 (1) A bend must not impair the serviceability of the pipe.

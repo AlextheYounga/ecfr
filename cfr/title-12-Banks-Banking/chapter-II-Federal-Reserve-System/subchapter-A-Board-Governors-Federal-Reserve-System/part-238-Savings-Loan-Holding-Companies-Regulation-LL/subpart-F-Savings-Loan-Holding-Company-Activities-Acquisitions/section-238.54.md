@@ -1,5 +1,7 @@
 ##### § 238.54 Permissible bank holding company activities of savings and loan holding companies. #####
 
+Link to an amendment published at 83 FR 58734, Nov. 21, 2018.
+
 (a) *General.* For purposes of § 238.51(b)(6)(i), the services and activities permissible for bank holding companies pursuant to regulations that the Board has promulgated pursuant to section 4(c) of the Bank Holding Company Act are permissible for savings and loan holding companies, or subsidiaries thereof that are neither savings associations nor service corporation subsidiaries of subsidiary savings associations: *Provided,* That no savings and loan holding company shall commence any activity described in this paragraph (a) without the prior approval of this Board pursuant to paragraph (b) of this section, unless -
 
 (1) The holding company received a rating of satisfactory or above prior to January 1, 2008, or a composite rating of “1” or “2” thereafter, in its most recent examination, and is not in a troubled condition as defined in § 238.72, and the holding company does not propose to commence the activity by an acquisition (in whole or in part) of a going concern; or

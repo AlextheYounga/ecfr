@@ -1,6 +1,6 @@
 ##### § 26.187 Substance abuse expert. #####
 
-(a) *Implementation.* By March 31, 2010, any SAEs on whom licensees and other entities rely to make determinations of fitness under this part shall meet the requirements of this section. An MRO who meets the requirements of this section may serve as both an MRO and as an SAE.
+(a) *Implementation.* Any SAEs on whom licensees and other entities rely to make determinations of fitness under this part shall meet the requirements of this section. An MRO who meets the requirements of this section may serve as both an MRO and as an SAE.
 
 (b) *Credentials.* An SAE shall have at least one of the following credentials:
 
@@ -71,3 +71,5 @@
 (C) The sole source of therapeutically appropriate treatment under the individual's health insurance program (e.g., the single substance abuse in-patient treatment program made available by the individual's insurance coverage plan); or
 
 (D) The sole source of therapeutically appropriate treatment reasonably available to the individual (e.g., the only treatment facility or education program reasonably located within the general commuting area).
+
+[73 FR 17176, Mar. 31, 2008, as amended at 83 FR 58464, Nov. 20, 2018]

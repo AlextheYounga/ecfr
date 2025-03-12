@@ -1,5 +1,7 @@
 ##### § 192.375 Service lines: Plastic. #####
 
+Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
+
 (a) Each plastic service line outside a building must be installed below ground level, except that -
 
 (1) It may be installed in accordance with § 192.321(g); and

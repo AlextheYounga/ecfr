@@ -1,5 +1,7 @@
 ##### § 238.203 Static end strength. #####
 
+Link to an amendment published at 83 FR 59219, November 21, 2018.
+
 (a)(1) Except as further specified in this paragraph or in paragraph (d), on or after November 8, 1999 all passenger equipment shall resist a minimum static end load of 800,000 pounds applied on the line of draft without permanent deformation of the body structure.
 
 (2) For a passenger car or a locomotive, the static end strength of unoccupied volumes may be less than 800,000 pounds if:

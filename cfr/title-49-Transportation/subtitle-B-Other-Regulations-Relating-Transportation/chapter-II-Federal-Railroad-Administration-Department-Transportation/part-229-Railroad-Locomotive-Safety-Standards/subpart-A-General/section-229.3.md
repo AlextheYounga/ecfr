@@ -1,5 +1,7 @@
 ##### § 229.3 Applicability. #####
 
+Link to an amendment published at 83 FR 59217, November 21, 2018.
+
 (a) Except as provided in paragraphs (b) through (e) of this section, this part applies to all standard gage railroads.
 
 (b) This part does not apply to:

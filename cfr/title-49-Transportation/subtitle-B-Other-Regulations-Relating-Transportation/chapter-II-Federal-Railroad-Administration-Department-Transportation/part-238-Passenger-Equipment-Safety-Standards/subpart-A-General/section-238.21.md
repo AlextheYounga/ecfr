@@ -1,5 +1,7 @@
 ##### § 238.21 Special approval procedure. #####
 
+Link to an amendment published at 83 FR 59218, November 21, 2018.
+
 (a) *General.* The following procedures govern consideration and action upon requests for special approval of alternative standards under § 238.103, § 238.223, § 238.229, § 238.309, § 238.311, § 238.405, or § 238.427; for approval of alternative compliance under § 238.201, § 238.229, or § 238.230; and for special approval of pre-revenue service acceptance testing plans as required by § 238.111. (Requests for approval of programs for the inspection, testing, and maintenance of Tier II passenger equipment are governed by § 238.505.)
 
 (b) *Petitions for special approval of alternative standard.* Each petition for special approval of an alternative standard shall contain -

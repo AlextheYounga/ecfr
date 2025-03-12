@@ -1,5 +1,7 @@
 ##### § 192.455 External corrosion control: Buried or submerged pipelines installed after July 31, 1971. #####
 
+Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
+
 (a) Except as provided in paragraphs (b), (c), and (f) of this section, each buried or submerged pipeline installed after July 31, 1971, must be protected against external corrosion, including the following:
 
 (1) It must have an external protective coating meeting the requirements of § 192.461.

@@ -1,5 +1,7 @@
 ##### § 37.81 Reporting of events. #####
 
+Link to an amendment published at 83 FR 58723, November 21, 2018.
+
 (a) The shipping licensee shall notify the appropriate LLEA and the NRC's Operations Center (301-816-5100) within 1 hour of its determination that a shipment of category 1 quantities of radioactive material is lost or missing. The appropriate LLEA would be the law enforcement agency in the area of the shipment's last confirmed location. During the investigation required by § 37.79(c), the shipping licensee will provide agreed upon updates to the NRC's Operations Center on the status of the investigation.
 
 (b) The shipping licensee shall notify the NRC's Operations Center (301-816-5100) within 4 hours of its determination that a shipment of category 2 quantities of radioactive material is lost or missing. If, after 24 hours of its determination that the shipment is lost or missing, the radioactive material has not been located and secured, the licensee shall immediately notify the NRC's Operations Center.

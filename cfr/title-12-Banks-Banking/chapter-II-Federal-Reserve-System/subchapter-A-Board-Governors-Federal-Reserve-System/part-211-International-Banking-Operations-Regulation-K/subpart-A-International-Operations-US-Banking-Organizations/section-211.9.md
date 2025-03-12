@@ -1,5 +1,7 @@
 ##### § 211.9 Investment procedures. #####
 
+Link to an amendment published at 83 FR 58734, November 21, 2018.
+
 (a) *General provisions.*5 Direct and indirect investments shall be made in accordance with the general consent, limited general consent, prior notice, or specific consent procedures contained in this section.
 
 5 When necessary, the provisions of this section relating to general consent and prior notice constitute the Board's approval under section 25A(8) of the FRA (12 U.S.C. 615) for investments in excess of the limitations therein based on capital and surplus.

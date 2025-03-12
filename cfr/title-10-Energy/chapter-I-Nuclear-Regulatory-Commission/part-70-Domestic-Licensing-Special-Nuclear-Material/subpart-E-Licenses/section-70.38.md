@@ -1,5 +1,7 @@
 ##### § 70.38 Expiration and termination of licenses and decommissioning of sites and separate buildings or outdoor areas. #####
 
+Link to an amendment published at 83 FR 58465, Nov. 20, 2018.
+
 (a) Each specific license expires at the end of the day on the expiration date stated in the license unless the licensee has filed an application for renewal under § 70.33 not less than 30 days before the expiration date stated in the existing license. If an application for renewal has been filed at least 30 days before the expiration date stated in the existing license, the existing license expires at the end of the day on which the Commission makes a final determination to deny the renewal application or, if the determination states an expiration date, the expiration date stated in the determination.
 
 (b) Each specific license revoked by the Commission expires at the end of the day on the date of the Commission's final determination to revoke the license, or on the expiration date stated in the determination, or as otherwise provided by Commission Order.

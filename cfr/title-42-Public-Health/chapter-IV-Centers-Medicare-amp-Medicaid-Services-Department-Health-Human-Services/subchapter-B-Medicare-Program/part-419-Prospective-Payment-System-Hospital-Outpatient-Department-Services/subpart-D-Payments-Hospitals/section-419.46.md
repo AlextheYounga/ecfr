@@ -1,5 +1,7 @@
 ##### § 419.46 Participation, data submission, and validation requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
 
+Link to an amendment published at 83 FR 59179, November 21, 2018.
+
 (a) *Participation in the Hospital OQR Program.* To participate in the Hospital OQR Program, a hospital as defined in section 1886(d)(1)(B) of the Act and is paid under the OPPS must -
 
 (1) Register on the QualityNet website before beginning to report data;

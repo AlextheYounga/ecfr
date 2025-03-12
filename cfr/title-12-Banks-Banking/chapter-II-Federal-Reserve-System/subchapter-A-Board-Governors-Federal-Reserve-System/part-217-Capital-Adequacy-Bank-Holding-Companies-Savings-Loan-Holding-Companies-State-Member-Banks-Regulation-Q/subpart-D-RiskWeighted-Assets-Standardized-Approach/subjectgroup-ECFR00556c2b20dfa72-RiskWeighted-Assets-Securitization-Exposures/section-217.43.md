@@ -40,7 +40,7 @@
 
 ![](/graphics/er11oc13.024.gif)
 
-(e) *Gross-up approach* - (1) *Applicability.* A Board-regulated institution that is not subject to subpart F of this part may apply the gross-up approach set forth in this section instead of the SSFA to determine the risk weight of its securitization exposures, provided that it applies the gross-up approach to all of its securitization exposures, except as otherwise provided for certain securitization exposures in §§ 217.44 and 217.45.
+(e) *Gross-up approach*—(1) *Applicability.* A Board-regulated institution that is not subject to subpart F of this part may apply the gross-up approach set forth in this section instead of the SSFA to determine the risk weight of its securitization exposures, provided that it applies the gross-up approach to all of its securitization exposures, except as otherwise provided for certain securitization exposures in §§ 217.44 and 217.45.
 
 (2) To use the gross-up approach, a Board-regulated institution must calculate the following four inputs:
 

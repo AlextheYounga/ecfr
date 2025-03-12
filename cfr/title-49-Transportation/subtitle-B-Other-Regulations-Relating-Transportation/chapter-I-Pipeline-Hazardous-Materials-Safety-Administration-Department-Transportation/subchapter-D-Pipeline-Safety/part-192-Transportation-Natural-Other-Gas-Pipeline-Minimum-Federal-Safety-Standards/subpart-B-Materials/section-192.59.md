@@ -1,5 +1,7 @@
 ##### § 192.59 Plastic pipe. #####
 
+Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
+
 (a) New plastic pipe is qualified for use under this part if:
 
 (1) It is manufactured in accordance with a listed specification; and

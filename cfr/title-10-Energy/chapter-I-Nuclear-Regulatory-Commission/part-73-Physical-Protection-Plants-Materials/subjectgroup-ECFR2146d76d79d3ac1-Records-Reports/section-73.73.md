@@ -1,5 +1,7 @@
 ##### § 73.73 Requirement for advance notice and protection of export shipments of special nuclear material of low strategic significance. #####
 
+Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
+
 (a) A licensee authorized to export special nuclear material of low strategic significance shall:
 
 (1) Notify in writing the Director, Division of Security Policy, Office of Nuclear Security and Incident Response, using any appropriate method listed in § 73.4;

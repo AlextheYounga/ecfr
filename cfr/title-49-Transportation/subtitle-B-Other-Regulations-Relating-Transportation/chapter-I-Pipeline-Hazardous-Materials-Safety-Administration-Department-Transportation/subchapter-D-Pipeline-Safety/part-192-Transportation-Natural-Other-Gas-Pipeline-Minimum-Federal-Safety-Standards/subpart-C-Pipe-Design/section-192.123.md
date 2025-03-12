@@ -1,5 +1,7 @@
 ##### § 192.123 Design limitations for plastic pipe. #####
 
+Link to an amendment published at 83 FR 58717, Nov. 20, 2018.
+
 (a) Except as provided in paragraph (e) and paragraph (f) of this section, the design pressure may not exceed a gauge pressure of 100 psig (689 kPa) for plastic pipe used in:
 
 (1) Distribution systems; or

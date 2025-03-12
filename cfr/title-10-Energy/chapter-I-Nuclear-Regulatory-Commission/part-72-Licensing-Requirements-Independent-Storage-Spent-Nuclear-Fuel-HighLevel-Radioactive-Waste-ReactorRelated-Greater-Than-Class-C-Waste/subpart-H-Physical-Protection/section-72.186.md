@@ -1,5 +1,7 @@
 ##### § 72.186 Change to physical security and safeguards contingency plans. #####
 
+Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
+
 (a) The licensee shall make no change that would decrease the safeguards effectiveness of the physical security plan, guard training plan or the first four categories of information (Background, Generic Planning Base, Licensee Planning Base, and Responsibility Matrix) contained in the licensee safeguards contingency plan without prior approval of the Commission. A licensee desiring to make a change must submit an application for a license amendment pursuant to § 72.56.
 
 (b) The licensee may, without prior Commission approval, make changes to the physical security plan, guard training plan, or the safeguards contingency plan, if the changes do not decrease the safeguards effectiveness of these plans. The licensee shall maintain records of changes to any such plan made without prior approval for a period of three years from the date of the change, and shall, within two months after the change is made, submit a report addressed to Director, Division of Spent Fuel Management, Office of Nuclear Material Safety and Safeguards, U.S. Nuclear Regulatory Commission, in accordance with § 72.4, containing a description of each change. A copy of the report must be sent to the Regional Administrator of the appropriate NRC Regional Office specified in appendix A to part 73 of this chapter.

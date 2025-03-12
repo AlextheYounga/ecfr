@@ -1,5 +1,7 @@
 ##### § 95.9 Communications. #####
 
+Link to an amendment published at 83 FR 58724, Nov. 21, 2018.
+
 Except where otherwise specified, all communications and reports concerning the regulations in this part should be submitted as follows:
 
 (a) By mail addressed to: ATTN: Document Control Desk, Director, Division of Security Operations, Office of Nuclear Security and Incident Response, U.S Nuclear Regulatory Commission, Washington, DC 20555-0001;

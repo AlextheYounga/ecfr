@@ -1,5 +1,7 @@
 ##### § 192.321 Installation of plastic pipe. #####
 
+Link to an amendment published at 83 FR 58718, Nov. 20, 2018.
+
 (a) Plastic pipe must be installed below ground level except as provided by paragraphs (g) and (h) of this section.
 
 (b) Plastic pipe that is installed in a vault or any other below grade enclosure must be completely encased in gas-tight metal pipe and fittings that are adequately protected from corrosion.

@@ -1,5 +1,7 @@
 ##### § 192.513 Test requirements for plastic pipelines. #####
 
+Link to an amendment published at 83 FR 58719, Nov. 20, 2018.
+
 (a) Each segment of a plastic pipeline must be tested in accordance with this section.
 
 (b) The test procedure must insure discovery of all potentially hazardous leaks in the segment being tested.

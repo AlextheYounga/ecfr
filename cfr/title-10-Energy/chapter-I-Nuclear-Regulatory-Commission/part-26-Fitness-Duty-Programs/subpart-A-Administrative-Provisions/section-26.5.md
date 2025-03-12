@@ -102,7 +102,7 @@
 
 *Oxidizing adulterant* means a substance that acts alone or in combination with other substances to oxidize drugs or drug metabolites to prevent the detection of the drugs or drug metabolites, or a substance that affects the reagents in either the initial or confirmatory drug test. Examples of these agents include, but are not limited to, nitrites, pyridinium chlorochromate, chromium (VI), bleach, iodine/iodide, halogens, peroxidase, and peroxide.
 
-*Positive result* means, for drug testing, the result reported by a licensee testing facility or HHS-certified laboratory when a specimen contains a drug or drug metabolite equal to or greater than the cutoff concentration. A result reported by an HHS-certified laboratory that a specimen contains a drug or drug metabolite below the cutoff concentration is also a positive result when the laboratory has conducted the special analysis permitted in § 26.163(a)(2). For alcohol testing, a positive result means the result reported by a collection site when the BAC indicated by testing a specimen exceeds the cutoff concentrations established in this part.
+*Positive result* means, for drug testing, the result reported by a licensee testing facility or HHS-certified laboratory when a specimen contains a drug or drug metabolite equal to or greater than the cutoff concentration. A result reported by an HHS-certified laboratory that a specimen contains a drug or drug metabolite below the cutoff concentration is also a positive result when the laboratory has conducted the special analysis permitted in § 26.163(a)(2). For alcohol testing, a positive result means the result reported by a collection site when the BAC indicated by testing a specimen is equal to or greater than the cutoff concentrations established in this part.
 
 *Potentially disqualifying FFD information* means information demonstrating that an individual has -
 
@@ -160,4 +160,4 @@
 
 *Validity screening test lot* means a group of validity screening tests that were made from the same starting material.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 81 FR 86909, Dec. 2, 2016]
+[73 FR 17176, Mar. 31, 2008, as amended at 81 FR 86909, Dec. 2, 2016; 83 FR 58464, Nov. 20, 2018]

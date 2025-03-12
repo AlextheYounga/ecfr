@@ -1,5 +1,7 @@
 ##### § 238.211 Collision posts. #####
 
+Link to an amendment published at 83 FR 59219, November 21, 2018.
+
 (a) Except as further specified in this paragraph, paragraphs (b) through (d) of this section, and § 238.209(b) -
 
 (1) All passenger equipment placed in service for the first time on or after September 8, 2000, shall have either:

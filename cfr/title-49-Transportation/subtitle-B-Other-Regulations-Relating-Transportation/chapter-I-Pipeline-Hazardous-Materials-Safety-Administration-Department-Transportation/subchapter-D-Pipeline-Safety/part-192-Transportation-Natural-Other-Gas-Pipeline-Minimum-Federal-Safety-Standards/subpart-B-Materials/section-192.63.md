@@ -1,5 +1,7 @@
 ##### § 192.63 Marking of materials. #####
 
+Link to an amendment published at 83 FR 58716, Nov. 20, 2018.
+
 (a) Except as provided in paragraph (d) of this section, each valve, fitting, length of pipe, and other component must be marked -
 
 (1) As prescribed in the specification or standard to which it was manufactured, except that thermoplastic pipe and fittings made of plastic materials other than polyethylene must be marked in accordance with ASTM D2513-87 (incorporated by reference, *see* § 192.7);
