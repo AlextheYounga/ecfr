@@ -1,5 +1,7 @@
 ##### § 741.204 Maximum public unit and nonmember accounts, and low-income designation. #####
 
+Link to an amendment published at 84 FR 58309, Oct. 31, 2019.
+
 Any credit union that is insured, or that makes application for insurance, pursuant to title II of the Act must:
 
 (a) Adhere to the requirements of § 701.32 of this chapter regarding public unit and nonmember accounts, provided it has the authority to accept such accounts. Requests by federally insured state-chartered credit unions for an exemption from the limitation of § 701.32 of this chapter will be made and reviewed on the same basis as that provided in § 701.32 of this chapter for federal credit unions, provided, however that NCUA will not grant an exemption without the concurrence of the appropriate state regulator.

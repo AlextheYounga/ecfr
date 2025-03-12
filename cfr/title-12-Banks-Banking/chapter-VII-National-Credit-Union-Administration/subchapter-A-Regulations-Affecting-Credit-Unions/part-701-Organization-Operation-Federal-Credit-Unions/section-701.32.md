@@ -1,5 +1,7 @@
 ##### § 701.32 Payment on shares by public units and nonmembers. #####
 
+Link to an amendment published at 84 FR 58309, Oct. 31, 2019.
+
 (a) *Authority.* A Federal credit union may, to the extent permitted under Section 107(6) of the Act and this section, receive payments on shares, (regular shares, share certificates, and share draft accounts) from public units and political subdivisions thereof (as those terms are defined in § 745.1) and nonmember credit unions, and to the extent permitted under the Act, this section and § 701.34, receive payments on shares (regular shares, share certificates, and share draft accounts) from other nonmembers.
 
 (b) *Limitations.* (1) Unless a greater amount has been approved by the Regional Director, the maximum amount of all public unit and nonmember shares shall not, at any given time, exceed 20% of the total shares of the federal credit union or $3 million, whichever is greater.

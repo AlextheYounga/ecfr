@@ -10,7 +10,7 @@
 
 (B) If the contracting officer makes a determination, under paragraphs (b)(1)(A) (*1*) and (*2*) of this section, for a competitive solicitation, 10 U.S.C. 2305(d)(4)(B) requires that the evaluation of items developed at private expense be based on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
-(S-70)(1) In accordance with Section 802(a) of the National Defense Authorization Act for Fiscal Year 2007 (Pub. L. 109-364) and DoD policy requirements, acquisition plans for major weapon systems and subsystems of major weapon systems shall -
+(S-70)(1) In accordance with section 802(a) of the National Defense Authorization Act for Fiscal Year 2007 (Pub. L. 109-364) and DoD policy requirements, acquisition plans for major weapon systems and subsystems of major weapon systems shall -
 
 (i) Assess the long-term technical data and computer software needs of those systems and subsystems; and
 
@@ -24,11 +24,15 @@
 
 (i) Be developed before issuance of a solicitation for the weapon system or subsystem;
 
-(ii) Address the merits of including a priced contract option for the future delivery of technical data and computer software, and associated license rights, that were not acquired upon initial contract award;
+(ii) In accordance with 10 U.S.C. 2443, to emphasize reliability and maintainability in weapon system design, ensure that reliability and maintainability are included in the performance attributes of the key performance parameters on sustainment during the development of capabilities requirements. For additional guidance see PGI 207.105(b)(14)(ii)*(2);*
 
-(iii) Address the potential for changes in the sustainment plan over the life cycle of the weapon system or subsystem; and
+(iii) Address the merits of including a priced contract option for the future delivery of technical data and computer software, and associated license rights, that were not acquired upon initial contract award;
 
-(iv) Apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapon systems and subsystems that are to be supported by other sustainment approaches.
+(iv) Address the potential for changes in the sustainment plan over the life cycle of the weapon system or subsystem; and
+
+(v) Apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapon systems and subsystems that are to be supported by other sustainment approaches.
+
+(ii) In accordance with 10 U.S.C. 2443, to emphasize reliability and maintainability in weapon system design, ensure that reliability and maintainability are included in the performance attributes of the key performance parameters on sustainment during the development of capabilities requirements. For additional guidance see PGI 207.105(b)(14)(ii)*(2);*
 
 (S-71) See 209.570 for policy applicable to acquisition strategies that consider the use of lead system integrators.
 
@@ -70,8 +74,14 @@
 
 (4) Whenever a source-of-repair decision results in a plan to award a contract for the performance of maintenance and sustainment services on a major weapon system, to the maximum extent practicable and consistent with statutory requirements, the acquisition plan shall prescribe that award will be made on a competitive basis after giving full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
 
+(5) In accordance with 10 U.S.C. 2443, acquisition plans for engineering manufacturing and development and production of major systems as defined in 10 U.S.C. 2302 and 2302d and for major defense acquisition programs as defined in 202.101, shall include performance measures that are developed using best practices for responding to the positive or negative performance of a contractor for the engineering and manufacturing development or production of a weapon system, including embedded software. At a minimum the contracting officer shall -
+
+(i) Encourage the use of incentive fees and penalties as appropriate; and
+
+(ii) Allow the program manager or comparable requiring activity official exercising program management responsibilities, to base determinations of a contractor's performance on reliability and maintainability data collected during the program. Such data collection and associated evaluation metrics shall be described in detail in the contract; and to the maximum extent practicable, the data shall be shared with appropriate contractor and Government organizations.
+
 (S-73) In accordance with section 815 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417) and DoD policy requirements, acquisition plans for major weapons systems shall include a plan for the preservation and storage of special tooling associated with the production of hardware for major defense acquisition programs through the end of the service life of the related weapons system. The plan shall include the identification of any contract clauses, facilities, and funding required for the preservation and storage of such tooling. The Undersecretary of Defense for Acquisition, Technology, and Logistics (USD (AT&L)) may waive this requirement if USD (AT&L) determines that it is in the best interest of DoD.
 
 (S-74) When selecting contract type, see 234.004 (section 811 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239)).
 
-[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014]
+[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019]

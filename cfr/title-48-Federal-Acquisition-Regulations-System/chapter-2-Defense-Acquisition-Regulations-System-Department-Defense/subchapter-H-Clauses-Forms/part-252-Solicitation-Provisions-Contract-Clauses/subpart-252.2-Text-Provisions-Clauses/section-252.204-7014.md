@@ -1,6 +1,6 @@
 ##### 252.204-7014 Limitations on the Use or Disclosure of Information by Litigation Support Contractors. #####
 
-As prescribed in 204.7403(b), use the following clause:
+As prescribed in 204.7403(a), use the following clause:
 
 Limitations on the Use or Disclosure of Information by Litigation Support Contractors (MAY 2016)
 
@@ -42,4 +42,4 @@ Limitations on the Use or Disclosure of Information by Litigation Support Contra
 
 (f) *Flowdown.* Include the substance of this clause, including this paragraph (f), in all subcontracts, including subcontracts for commercial items.
 
-(End of clause)[79 FR 11340, Feb. 28, 2014, as amended at 81 FR 28729, May 10, 2016]
+(End of clause)[79 FR 11340, Feb. 28, 2014, as amended at 81 FR 28729, May 10, 2016; 84 FR 58332, Oct. 31, 2019]

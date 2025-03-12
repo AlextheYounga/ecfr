@@ -2,17 +2,17 @@
 
 As prescribed in 239.7103(a), use the following clause:
 
-Protection Against Compromising Emanations (JUN 2004)
+Protection Against Compromising Emanations (OCT 2019)
 
-(a) The Contractor shall provide or use only information technology, as specified by the Government, that has been accredited to meet the appropriate information assurance requirements of -
+(a) The Contractor shall provide or use only information technology, as specified by the Government, that has been accredited to meet the appropriate information assurance requirements of—
 
-(1) The National Security Agency National TEMPEST Standards (NACSEM No. 5100 or NACSEM No. 5100A, Compromising Emanations Laboratory Test Standard, Electromagnetics (U)); or
+(1) The National Security Agency National TEMPEST Standards (NSTISSAM TEMPEST 1-92, Compromising Emanations Laboratory Test Requirements, Electromagnetics (U)); or
 
 (2) Other standards specified by this contract, including the date through which the required accreditation is current or valid for the contract.
 
 (b) Upon request of the Contracting Officer, the Contractor shall provide documentation supporting the accreditation.
 
-(c) The Government may, as part of its inspection and acceptance, conduct additional tests to ensure that information technology delivered under this contract satisfies the information assurance standards specified. The Government may conduct additional tests -
+(c) The Government may, as part of its inspection and acceptance, conduct additional tests to ensure that information technology delivered under this contract satisfies the information assurance standards specified. The Government may conduct additional tests—
 
 (1) At the installation site or contractor's facility; and
 
@@ -26,4 +26,4 @@ Protection Against Compromising Emanations (JUN 2004)
 
 (3) This paragraph (d) applies regardless of f.o.b. point or the point of acceptance of the deficient information technology.
 
-(End of clause)[69 FR 35535, June 25, 2004, as amended at 73 FR 1829, Jan. 10, 2008]
+(End of clause)[69 FR 35535, June 25, 2004, as amended at 73 FR 1829, Jan. 10, 2008; 84 FR 58337, Oct. 31, 2019]

@@ -1,6 +1,6 @@
 ##### 252.204-7015 Notice of Authorized Disclosure of Information for Litigation Support. #####
 
-As prescribed in 204.7403(c), use the following clause:
+As prescribed in 204.7403(b), use the following clause:
 
 Notice of Authorized Disclosure of Information for Litigation Support (MAY 2016)
 
@@ -24,4 +24,4 @@ Notice of Authorized Disclosure of Information for Litigation Support (MAY 2016)
 
 (c) *Flowdown.* Include the substance of this clause, including this paragraph (c), in all subcontracts, including subcontracts for commercial items.
 
-(End of clause)[79 FR 11341, Feb. 28, 2014, as amended at 81 FR 28729, May 10, 2016]
+(End of clause)[79 FR 11341, Feb. 28, 2014, as amended at 81 FR 28729, May 10, 2016; 84 FR 58332, Oct. 31, 2019]

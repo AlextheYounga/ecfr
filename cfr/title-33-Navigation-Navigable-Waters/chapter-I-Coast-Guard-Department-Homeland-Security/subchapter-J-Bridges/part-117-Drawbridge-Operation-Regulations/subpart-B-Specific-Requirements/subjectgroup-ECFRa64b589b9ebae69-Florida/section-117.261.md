@@ -28,11 +28,7 @@ Link to an amendment published at 84 FR 53055, Oct. 4, 2019.
 
 (l) *John F. Kennedy Space Center bridge, mile 885 at Addison Point.* The draw shall open on signal; except that, from 6:30 a.m. to 8 a.m. and 3:30 p.m. to 5 p.m. Monday through Friday, except Federal holidays, the draw need not open.
 
-(m)-(n) [Reserved]
-
-(o) *Jensen Beach (SR 707a) bridge, mile 981.4 at Stuart.* The draw shall open on signal; except that from December 1 through May 1, from 7 a.m. to 6 p.m., Monday through Friday, except federal holidays, the draw need open only on the hour and half-hour.
-
-(p) [Reserved]
+(m)-(p) [Reserved]
 
 (q) *Indiantown Road bridge, mile 1006.2.* The draw shall open on the hour and half-hour.
 

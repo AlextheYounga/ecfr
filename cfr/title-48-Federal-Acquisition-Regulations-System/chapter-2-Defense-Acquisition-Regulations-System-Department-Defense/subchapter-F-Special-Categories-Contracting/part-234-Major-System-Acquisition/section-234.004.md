@@ -30,4 +30,10 @@
 
 (B) Include a copy of such congressional certification in the contract file.
 
-[73 FR 4118, Jan. 24, 2008, as amended at 79 FR 4632, Jan. 29, 2014; 79 FR 23278, Apr. 28, 2014; 79 FR 58694, Sept. 30, 2014]
+(3) The contracting officer shall include in solicitations for contracts for the technical maturation and risk reduction phase, engineering and manufacturing development phase or production phase of a weapon system, including embedded software -
+
+(i) Clearly defined measurable criteria for engineering activities and design specifications for reliability and maintainability provided by the program manager, or the comparable requiring activity official performing program management responsibilities; or
+
+(ii) Ensure a copy of the justification, executed by the program manager or the comparable requiring activity official performing program management responsibilities for the decision that engineering activities and design specifications for reliability and maintainability should not be a requirement, is included in the contract file (10 U.S.C. 2443).
+
+[73 FR 4118, Jan. 24, 2008, as amended at 79 FR 4632, Jan. 29, 2014; 79 FR 23278, Apr. 28, 2014; 79 FR 58694, Sept. 30, 2014; 84 FR 58334, Oct. 31, 2019]

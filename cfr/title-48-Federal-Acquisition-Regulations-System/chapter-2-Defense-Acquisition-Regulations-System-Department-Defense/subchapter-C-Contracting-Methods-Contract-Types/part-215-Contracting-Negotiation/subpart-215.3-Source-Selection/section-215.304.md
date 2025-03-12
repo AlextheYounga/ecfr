@@ -16,4 +16,12 @@
 
 (v) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301. For additional guidance see PGI 215.304(c)(v).
 
-[71 FR 3414, Jan. 23, 2006, as amended at 71 FR 14109, Mar. 21, 2006; 72 FR 49205, Aug. 28, 2007; 76 FR 38051, June 29, 2011; 78 FR 69270, Nov. 18, 2013; 79 FR 61581, Oct. 14, 2014; 80 FR 67251, Oct. 30, 2015]
+(vi) Ensure source selections emphasize sustainment factors and objective reliability and maintainability evaluation criteria in competitive contracts for the -
+
+(A) Technical maturation and risk reduction phase of weapon system design (see guidance at PGI 207.105(b)(14)(ii)(*2*));
+
+(B) Engineering and manufacturing development phase of a weapon system, including embedded software (10 U.S.C. 2443); or
+
+(C) Production and deployment phase of a weapon system, including embedded software (10 U.S.C. 2443).
+
+[71 FR 3414, Jan. 23, 2006, as amended at 71 FR 14109, Mar. 21, 2006; 72 FR 49205, Aug. 28, 2007; 76 FR 38051, June 29, 2011; 78 FR 69270, Nov. 18, 2013; 79 FR 61581, Oct. 14, 2014; 80 FR 67251, Oct. 30, 2015; 84 FR 58333, Oct. 31, 2019]

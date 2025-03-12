@@ -1,7 +1,5 @@
 ##### § 383.5 Definitions. #####
 
-Link to an amendment published at 84 FR 52034, Oct. 1, 2019.
-
 As used in this part:
 
 *Administrator* means the Federal Motor Carrier Safety Administrator, the chief executive of the Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.
@@ -157,6 +155,8 @@ As used in this part:
 *Third party skills test examiner* means a person employed by a third party tester who is authorized by the State to administer the CDL skills tests specified in subparts G and H of this part.
 
 *Third party tester* means a person (including, but not limited to, another State, a motor carrier, a private driver training facility or other private institution, or a department, agency or instrumentality of a local government) authorized by the State to employ skills test examiners to administer the CDL skills tests specified in subparts G and H of this part.
+
+*TWIC* means Transportation Worker Identification Credential as that term is defined in 49 CFR 1570.3, which is the transportation security card issued by TSA under the authority of 46 U.S.C. 70105.
 
 *United States* means the 50 States and the District of Columbia.
 

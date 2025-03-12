@@ -1,7 +1,5 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 84 FR 52038, Oct. 1, 2019.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish* - (1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
@@ -30,9 +28,7 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (*4*) For fishing year 2015 and subsequent fishing years - 0.939 million lb (0.426 million kg).
 
-(C) *Red grouper* - 7,780,000 lb (3,528,949 kg).
-
-(D) *Red grouper* - 3.00 million lb (1.36 million kg).
+(C) *Red grouper* - 3.00 million lb (1.36 million kg).
 
 (iv) Tilefishes (including goldface tilefish, blueline tilefish, and tilefish) - 582,000 lb (263,991 kg), gutted weight, that is, eviscerated but otherwise whole.
 
@@ -64,4 +60,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (c) *Restrictions applicable after a recreational quota closure or recreational component quota closure.* The bag limit for the applicable species for the recreational sector or recreational sector component in or from the Gulf EEZ is zero. When the Federal charter vessel/headboat component is closed or the entire recreational sector is closed, this bag and possession limit applies in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 32181, May 29, 2013; 78 FR 57318, Sept. 18, 2013; 79 FR 6100, Feb. 3, 2014; 79 FR 72556, Dec. 8, 2014; 80 FR 22430, Apr. 22, 2015; 80 FR 24835, May 1, 2015; 80 FR 74001, Nov. 27, 2015; 80 FR 75436, Dec. 2, 2015; 81 FR 25583, Apr. 28, 2016; 81 FR 70368, Oct. 12, 2016; 81 FR 86973, Dec. 2, 2016; 82 FR 26377, June 7, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 84 FR 7830, Mar. 5, 2019]Effective Date Note:At 84 FR 22391, May 17, 2019, § 622.39 was amended by suspending paragraph (a)(1)(iii)(C) and adding paragraph (a)(1)(iii)(D), effective May 17, 2019 through Nov. 13, 2019.
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 32181, May 29, 2013; 78 FR 57318, Sept. 18, 2013; 79 FR 6100, Feb. 3, 2014; 79 FR 72556, Dec. 8, 2014; 80 FR 22430, Apr. 22, 2015; 80 FR 24835, May 1, 2015; 80 FR 74001, Nov. 27, 2015; 80 FR 75436, Dec. 2, 2015; 81 FR 25583, Apr. 28, 2016; 81 FR 86973, Dec. 2, 2016; 82 FR 26377, June 7, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 84 FR 7830, Mar. 5, 2019; 84 FR 52038, Oct. 1, 2019]

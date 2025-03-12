@@ -16,14 +16,12 @@
 
 (2) 252.239-7012, Title to Telecommunication Facilities and Equipment.
 
-(c) Use the following clauses in basic agreements for telecommunications services -
+(c) Use the basic or alternate of the clause at 252.239-7013, Term of Agreement and Continuation of Services, in basic agreements for telecommunications services.
 
-(1) 252.239-7013, Obligation of the Government;
+(1) Use the basic clause in basic agreements that do not supersede an existing basic agreement with the contractor.
 
-(2) 252.239-7014, Term of Agreement, and insert the effective date of the agreement in paragraph (a) of the clause; and
-
-(3) 252.239-7015, Continuation of Communication Service Authorizations, as appropriate, and insert in paragraph (a) of the clause, the name of the contracting office and the basic agreement or contract number which is being superseded.
+(2) Use the alternate I clause in basic agreements that supersede an existing basic agreement with the contractor. Complete paragraph (c)(1) of the clause with the basic agreement number, date, and contacting office that issued the basic agreement being superseded.
 
 (d) Use the clause at 252.239-7016, Telecommunications Security Equipment, Devices, Techniques, and Services, in solicitations and contracts when performance of a contract requires secure telecommunications.
 
-[56 FR 36429, July 31, 1991, as amended at 57 FR 42632, Sept. 15, 1992; 62 FR 40473, July 29, 1997; 70 FR 67919, Nov. 9, 2005; 71 FR 39011, July 11, 2006; 84 FR 48497, 48498, Sept. 13, 2019]
+[56 FR 36429, July 31, 1991, as amended at 57 FR 42632, Sept. 15, 1992; 62 FR 40473, July 29, 1997; 70 FR 67919, Nov. 9, 2005; 71 FR 39011, July 11, 2006; 84 FR 48497, 48498, Sept. 13, 2019; 84 FR 58338, Oct. 31, 2019]
