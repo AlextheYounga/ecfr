@@ -1,5 +1,7 @@
 ##### § 117.911 Atlantic Intracoastal Waterway, Little River to Savannah River. #####
 
+Link to an amendment published at 83 FR 14366, Apr. 4, 2018.
+
 (a) *General.* Public vessels of the United States and tugs with tows, upon proper signal, will be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b) [Reserved]

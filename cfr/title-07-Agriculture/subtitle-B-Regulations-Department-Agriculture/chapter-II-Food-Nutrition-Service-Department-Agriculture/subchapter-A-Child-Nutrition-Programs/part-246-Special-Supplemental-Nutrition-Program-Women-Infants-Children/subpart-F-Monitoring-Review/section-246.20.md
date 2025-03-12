@@ -6,8 +6,8 @@
 
 (3) FNS will determine whether Program deficiencies have been adequately corrected. If additional corrective action is necessary, FNS shall schedule a follow-up review, allowing a reasonable time for such corrective action to be taken.
 
-(b) *State audit responsibilities.* (1) State agencies must obtain annual audits in accordance with part 3052 of this title. In addition, States must require local agencies under their jurisdiction to obtain audits in accordance with 2 CFR part 200, subpart F and Appendix XI, Compliance Supplement and USDA implementing regulations 2 CFR part 400 and part 415.
+(b) *State audit responsibilities.* (1) State agencies must obtain annual audits in accordance with 2 CFR part 200, subpart F, and appendix XI, Compliance Supplement, and USDA implanting regulations 2 CFR parts 400 and 415. In addition, States must require local agencies under their jurisdiction to obtain audits in accordance with 2 CFR part 200, subpart F, and appendix XI, Compliance Supplement, and USDA implementing regulations 2 CFR parts 400 and 415.
 
 (2) Each State agency shall make all State or local agency sponsored audit reports of Program operations under its jurisdiction available for the Department's review upon request. The cost of these audits shall be considered a part of nutrition services and administration costs and may be funded from the State or local agency nutrition services and administration funds, as appropriate. For purposes of determining the Program's pro rata share of indirect costs associated with organization-wide audits, the cost of food shall not be considered in the total dollar amount of the Program.
 
-[50 FR 6121, Feb. 13, 1985, as amended at 71 FR 56731, Sept. 27, 2006; 81 FR 66494, Sept. 28, 2016]
+[50 FR 6121, Feb. 13, 1985, as amended at 71 FR 56731, Sept. 27, 2006; 81 FR 66494, Sept. 28, 2016; 83 FR 14173, Apr. 3, 2018]

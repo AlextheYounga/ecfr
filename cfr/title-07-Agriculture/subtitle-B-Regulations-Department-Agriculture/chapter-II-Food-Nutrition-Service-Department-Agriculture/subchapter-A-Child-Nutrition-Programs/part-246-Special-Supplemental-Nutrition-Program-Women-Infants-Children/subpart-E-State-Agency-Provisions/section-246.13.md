@@ -1,4 +1,4 @@
-##### § 246.13 Financial ma-nagement system. #####
+##### § 246.13 Financial management system. #####
 
 (a) *Disclosure of expenditures.* The State agency shall maintain a financial management system which provides accurate, current and complete disclosure of the financial status of the Program. This shall include an accounting for all property and other assets and all Program funds received and expended each fiscal year.
 

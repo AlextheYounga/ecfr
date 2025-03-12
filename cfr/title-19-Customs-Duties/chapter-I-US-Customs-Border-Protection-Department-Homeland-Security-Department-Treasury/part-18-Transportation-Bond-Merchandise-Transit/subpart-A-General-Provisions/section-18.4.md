@@ -1,6 +1,6 @@
 ##### § 18.4 Sealing conveyances, compartments, and containers. #####
 
-(a) *Requirements, waiver, and TIR carnets* - (1) *Seals required.* Conveyance, compartments, or containers transporting in-bond merchandise must be sealed and the seals must remain intact until the merchandise arrives at the port of destination or the port of exportation. The seals to be used and the method for sealing conveyances, compartments, or containers must meet the requirements of §§ 24.13 and 24.13a of this chapter.
+(a) *Requirements, waiver, and TIR carnets*—(1) *Seals required.* Conveyance, compartments, or containers transporting in-bond merchandise must be sealed and the seals must remain intact until the merchandise arrives at the port of destination or the port of exportation. The seals to be used and the method for sealing conveyances, compartments, or containers must meet the requirements of §§ 24.13 and 24.13a of this chapter.
 
 (2) *Waiver.* (i) CBP may waive the sealing of a conveyance, compartment, or container in which bonded merchandise is transported if CBP determines that the sealing of the conveyance, compartment, or container is unnecessary to protect the revenue or to prevent violations of the customs laws and regulations.
 
@@ -8,11 +8,11 @@
 
 (3) *TIR carnets.* The port director will cause a CBP seal to be affixed to a container or road vehicle that is being used to transport merchandise under cover of a TIR carnet unless the container or road vehicle bears a customs seal (domestic or foreign). The port director will likewise cause a CBP seal or label to be affixed to heavy or bulky goods being so transported. If, however, the port director has reason to believe that there is a discrepancy between the merchandise listed on the Goods Manifest of the carnet and the merchandise that is to be transported, the port director may cause a CBP seal or label to be affixed only when the listing of the merchandise in the carnet and a physical inventory agree.
 
-(b) *Commingled merchandise* - (1) *Transported in a sealed conveyance, compartment, or container.* Merchandise that is not covered by a bond may be transported in a sealed conveyance, compartment, or container that contains bonded merchandise if the merchandise is destined for the same or subsequent port as the bonded merchandise.
+(b) *Commingled merchandise*—(1) *Transported in a sealed conveyance, compartment, or container.* Merchandise that is not covered by a bond may be transported in a sealed conveyance, compartment, or container that contains bonded merchandise if the merchandise is destined for the same or subsequent port as the bonded merchandise.
 
 (2) *Transported in a conveyance, compartment, or container that is not sealed.* Merchandise that is not covered by a bond may be transported with bonded merchandise in a conveyance, compartment, or container that is not sealed, if the in-bond merchandise is corded and sealed, or affixed with a warning label or tag as described in paragraph (b)(3) of this section.
 
-(3) *Warning label or tag* - (i) *Warning label.* The required warning label for in-bond merchandise described in paragraph (b)(2) of this section, must be on bright red paper, not less than 5 by 8 inches in size, unless the size of the package renders the use of a 5 by 8 inch warning label impracticable because of lack of space; then a 3 by 5 inch label may be used. Alternatively, a high visibility, permanently affixed warning label, whether as a continuous series in tape form or otherwise, but not less than 11/2 by 3 inches, and not to be removed until the in-bond movement is completed, may be used on any size package. The warning label must contain the following words in black or white lettering of a conspicuous size:
+(3) *Warning label or tag*—(i) *Warning label.* The required warning label for in-bond merchandise described in paragraph (b)(2) of this section, must be on bright red paper, not less than 5 by 8 inches in size, unless the size of the package renders the use of a 5 by 8 inch warning label impracticable because of lack of space; then a 3 by 5 inch label may be used. Alternatively, a high visibility, permanently affixed warning label, whether as a continuous series in tape form or otherwise, but not less than 11/2 by 3 inches, and not to be removed until the in-bond movement is completed, may be used on any size package. The warning label must contain the following words in black or white lettering of a conspicuous size:
 
 U.S. Customs and Border Protection
 
@@ -26,7 +26,7 @@ Warning. Two years' imprisonment, a fine, or both, is the penalty for unlawful r
 
 (c) *Removal and replacement of seals.* If it becomes necessary at any point in transit to remove seals from a conveyance, compartment, or container containing bonded merchandise for the purpose of transferring its contents to another conveyance, compartment, or container, or to gain access to the shipment because of casualty or for other good reason, such as when required by law enforcement or another government agency, a responsible agent of the carrier may remove the seals, supervise the transfer or handling of the merchandise, and seal the conveyance, compartment, or container in which the shipment goes forward. Updated seal numbers must be transmitted to CBP pursuant to § 18.1(h) and general recordkeeping requirements under 19 CFR part 163 apply.
 
-(d) *Containers or road vehicles accepted for transport under customs seal; requirements.* (1)(i) *Containers covered by the Customs Convention on Containers.* Containers covered by the Customs Convention on Containers will be accepted for transport under customs seal if:
+(d) *Containers or road vehicles accepted for transport under customs seal; requirements*—(1)(i) *Containers covered by the Customs Convention on Containers.* Containers covered by the Customs Convention on Containers will be accepted for transport under customs seal if:
 
 (A) Durably marked with the name and address of the owner, particulars of tare, and identification marks and numbers, and
 

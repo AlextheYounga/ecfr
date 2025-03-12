@@ -1,5 +1,7 @@
 ##### § 69.311 Consumer Broadband-Only Loop investment. #####
 
+Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
+
 (a) Each non-price cap local exchange carrier shall remove consumer broadband-only loop investment assigned to the special access category by §§ 69.301 through 69.310 from the special access category and assign it to the Consumer Broadband-Only Loop category when the tariff charge described in § 69.132 of this part becomes effective.
 
 (b) The consumer broadband-only loop investment to be removed from the special access category shall be determined using the following estimation method.

@@ -1,5 +1,7 @@
 ##### § 69.416 Consumer Broadband-Only Loop expenses. #####
 
+Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
+
 (a) Each non-price cap local exchange carrier shall remove consumer broadband-only loop expenses assigned to the Special Access category by §§ 69.401 through 69.415 from the special access category and assign them to the Consumer Broadband-Only Loop category when the tariff charge described in § 69.132 of this Part becomes effective.
 
 (b) The consumer broadband-only loop expenses to be removed from the special access category shall be determined using the following estimation method.

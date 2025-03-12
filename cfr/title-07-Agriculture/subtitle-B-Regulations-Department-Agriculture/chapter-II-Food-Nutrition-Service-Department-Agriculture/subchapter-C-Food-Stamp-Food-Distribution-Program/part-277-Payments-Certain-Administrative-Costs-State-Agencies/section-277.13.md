@@ -2,7 +2,7 @@
 
 (a) *General.* This section prescribes policies and procedures governing title, use, disposition of real and personal property for which acquisition costs were borne, in whole or in part, as a direct charge to FNS funds, and ownership rights or intangible personal property developed, in whole or in part, with FNS funds. State agencies may follow their own property management policies and procedures provided they observe the requirements of this section. With respect to property covered by this section, FNS may not impose on State agencies any requirement (including property reporting requirements) not authorized by this section unless specifically required by Federal laws.
 
-(b) *Nonexpendable personal property* - (1) *Title.* Title to nonexpendable personal property whose acquisition cost is borne, in whole or in part, by FNS shall vest in the State agency upon acquisition, and shall be subject to the restrictions on use and dispositions set forth in this section.
+(b) *Nonexpendable personal property*—(1) *Title.* Title to nonexpendable personal property whose acquisition cost is borne, in whole or in part, by FNS shall vest in the State agency upon acquisition, and shall be subject to the restrictions on use and dispositions set forth in this section.
 
 (2) *Use.* (i) The State agency shall use the property in the program as long as there is a need for such property to accomplish the purpose of the program.
 
@@ -74,7 +74,7 @@
 
 (5) Proper sales procedures shall be implemented to keep the property in good condition.
 
-(e) *Expendable personal property* - (1) *Title.* Title to expendable personal property, whose acquisition cost was borne in whole or in part by FNS, shall vest in the State agency.
+(e) *Expendable personal property*—(1) *Title.* Title to expendable personal property, whose acquisition cost was borne in whole or in part by FNS, shall vest in the State agency.
 
 (2) *Use.* The State agency shall use the property in the program as long as there is a need for such property to accomplish the purpose of the program.
 
@@ -88,8 +88,8 @@
 
 (4) *Compensation.* FNS must be compensated for its share if the alternative in paragraph (e)(3)(i) of this section is not followed. The amount of compensation shall be computed in the same manner as for nonexpendable personal property.
 
-(f) *Patents and inventions.* If any program activity produced patents, patent rights, processes or inventions in the course of work aided by FNS, such fact shall be promptly and fully reported to FNS. Unless there is prior agreement between the State agency and FNS on disposition of such items, FNS shall determine whether protection on such invention or discovery shall be sought and how the rights in the invention or discovery - including rights under any patent issued thereon - shall be disposed of and administered in order to protect the public interest consistent with “Government Patent Policy” (President's Memorandum for Heads of Excecutive Departments and Agencies, August 23, 1971), and State of Government Patent Policy as printed in title 37 CFR, chapters I and II.
+(f) *Patents and inventions.* If any program activity produced patents, patent rights, processes or inventions in the course of work aided by FNS, such fact shall be promptly and fully reported to FNS. Unless there is prior agreement between the State agency and FNS on disposition of such items, FNS shall determine whether protection on such invention or discovery shall be sought and how the rights in the invention or discovery—including rights under any patent issued thereon—shall be disposed of and administered in order to protect the public interest consistent with “Government Patent Policy” (President's Memorandum for Heads of Executive Departments and Agencies, August 23, 1971), and State of Government Patent Policy as printed in title 37 CFR, chapters I and II.
 
 (g) *Copyrights.* When a program activity results in a book or other copyrightable materials, the author or State agency is free to copyright the work, but FNS reserves a royalty-free, nonexclusive and irrevocable right to reproduce, publish or otherwise use and to authorize others to use the work for government purposes. This includes copyrights on ADP software as specified in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415.
 
-[Amdt. 188, 45 FR 85702, Dec. 30, 1980, as amended at 79 FR 11, Jan. 2, 2014; 81 FR 66499, Sept. 28, 2016]
+[Amdt. 188, 45 FR 85702, Dec. 30, 1980, as amended at 79 FR 11, Jan. 2, 2014; 81 FR 66499, Sept. 28, 2016; 83 FR 14174, Apr. 3, 2018]

@@ -48,7 +48,7 @@ Except where required by law, no additional requirements for audit will be impos
 
 (vii) Were approved in advance, if subject to prior approval in accordance with Financial Management Circular 74-4;
 
-(viii) Were incurred in accordance with competitive purchasing procedures, if covered by2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415; and
+(viii) Were incurred in accordance with competitive purchasing procedures, if covered by 2 CFR part 200, subpart D, and USDA implementing regulations 2 CFR parts 400 and 415; and
 
 (ix) Were allocated equitably to benefiting activities, including non-Federal activities.
 
@@ -102,4 +102,4 @@ Except where required by law, no additional requirements for audit will be impos
 
 (8) Recipients shall require subrecipients that are local governments of Indian tribal governments to adopt the requirements in paragraphs (d) through (f) of this section. The recipient shall ensure that the subrecipient audit reports are received as required, and shall submit the reports to the cognizant agency. The cognizant agency will have the responsibility for those reports described in paragraph (g) of this section.
 
-[Amdt. 188, 45 FR 85702, Dec. 30, 1980, as amended at 81 FR 66499, Sept. 28, 2016]
+[Amdt. 188, 45 FR 85702, Dec. 30, 1980, as amended at 81 FR 66499, Sept. 28, 2016; 83 FR 14174, Apr. 3, 2018]

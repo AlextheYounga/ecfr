@@ -36,4 +36,4 @@ The Commission will designate one or more entities to administer the white space
 
 (q) Establish procedures to allow unlicensed wireless microphone users in the 600 MHz band to register with the database and to provide lists of channels available for wireless microphones at a given location.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016]Effective Date Note: At 81 FR 4975, Jan. 29, 2016, § 15.715(n) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016]

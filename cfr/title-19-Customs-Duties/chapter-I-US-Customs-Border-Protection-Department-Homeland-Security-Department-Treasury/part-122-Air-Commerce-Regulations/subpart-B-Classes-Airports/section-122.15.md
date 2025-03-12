@@ -47,7 +47,6 @@
 |     Rochester, Minnesota      |       Rochester International Airport.       |
 |       Rogers, Arkansas        |   Rogers Executive Airport - Carter Field.   |
 |        Rome, New York         |       Griffiss International Airport.        |
-|    St. Augustine, Florida     |            St. Augustine Airport.            |
 |  San Bernardino, California   |    San Bernardino International Airport.     |
 |      San Antonio, Texas       |              Kelly Field Annex.              |
 |     Santa Ana, California     |             John Wayne Airport.              |
@@ -72,4 +71,4 @@
 
 (2) If any amounts due to be paid to Customs are not paid on a timely basis.
 
-[T.D. 92-90, 57 FR 43397, Sept. 21, 1992]Editorial Note:For Federal Register citations affecting § 122.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 92-90, 57 FR 43397, Sept. 21, 1992]Editorial Note:For Federal Register citations affecting § 122.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

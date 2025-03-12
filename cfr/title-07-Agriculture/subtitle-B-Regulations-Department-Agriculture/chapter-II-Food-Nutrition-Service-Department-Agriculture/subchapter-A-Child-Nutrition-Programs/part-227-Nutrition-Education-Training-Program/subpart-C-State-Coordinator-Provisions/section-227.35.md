@@ -16,7 +16,7 @@ At a minimum, the State Coordinator shall be responsible for:
 
 (g) Coordination of the Program with other nutrition education and training programs conducted with Federal or State funds,
 
-(h) Communication of needs and accomplishments of State nutrition education and training programs to parents and the communty at large,
+(h) Communication of needs and accomplishments of State nutrition education and training programs to parents and the community at large,
 
 (i) Use of Program funds in compliance with all regulations, instructions, or other guidance material provided by FNS,
 
@@ -24,4 +24,4 @@ At a minimum, the State Coordinator shall be responsible for:
 
 (k) Annual evaluation of the effectiveness of the State Plan.
 
-[44 FR 28282, May 15, 1979, as amended at 81 FR 66493, Sept. 28, 2016]
+[44 FR 28282, May 15, 1979, as amended at 81 FR 66493, Sept. 28, 2016; 83 FR 14173, Apr. 3, 2018]
