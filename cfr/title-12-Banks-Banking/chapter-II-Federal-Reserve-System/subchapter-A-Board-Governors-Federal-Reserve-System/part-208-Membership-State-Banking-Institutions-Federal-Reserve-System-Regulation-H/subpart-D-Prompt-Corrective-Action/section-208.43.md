@@ -1,5 +1,7 @@
 ##### § 208.43 Capital measures and capital category definitions. #####
 
+Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
+
 (a) *Capital measures.* For purposes of section 38 and this subpart, the relevant capital measures are:
 
 (1) Total Risk-Based Capital Measure: The total risk-based capital ratio;

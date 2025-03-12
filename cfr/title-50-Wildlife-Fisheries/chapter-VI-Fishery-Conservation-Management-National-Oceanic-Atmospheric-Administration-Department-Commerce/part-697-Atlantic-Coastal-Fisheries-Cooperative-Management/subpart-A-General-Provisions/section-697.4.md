@@ -1,5 +1,7 @@
 ##### § 697.4 Vessel permits and trap tags. #####
 
+Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
+
 (a) *Limited access American lobster permit.* Any vessel of the United States that fishes for, possesses, or lands American lobster in or harvested from the EEZ must have been issued and carry on board a valid Federal limited access lobster permit. This requirement does not apply to: charter, head, and commercial dive vessels that possess six or fewer American lobsters per person aboard the vessel if such lobsters are not intended for, nor used, in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster.
 
 (1) *Eligibility in 1999 and thereafter.* To be eligible for issuance or renewal of a Federal limited access lobster permit for fishing year 1999 and thereafter, a vessel must:

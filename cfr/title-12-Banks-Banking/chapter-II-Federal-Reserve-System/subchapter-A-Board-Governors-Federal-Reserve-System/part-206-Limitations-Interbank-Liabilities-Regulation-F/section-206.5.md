@@ -1,5 +1,7 @@
 ##### § 206.5 Capital levels of correspondents. #####
 
+Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
+
 (a) *Adequately capitalized correspondents.*1 For the purpose of this part, a correspondent is considered adequately capitalized if the correspondent has:
 
 1 As used in this part, the term “adequately capitalized” is similar but not identical to the definition of that term as used for the purposes of the prompt corrective action standards. See, *e.g.* 12 CFR part 208, subpart D.

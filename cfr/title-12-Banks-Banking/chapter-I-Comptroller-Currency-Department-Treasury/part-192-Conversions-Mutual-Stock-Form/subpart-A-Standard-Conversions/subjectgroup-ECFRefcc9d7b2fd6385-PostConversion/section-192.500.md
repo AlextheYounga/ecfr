@@ -1,5 +1,7 @@
 ##### § 192.500 What management stock benefit plans may I implement? #####
 
+Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
+
 (a) During the 12 months after your conversion, you may implement a stock option plan (Option Plan), an employee stock ownership plan or other tax-qualified employee stock benefit plan (collectively, ESOP), and a management recognition plan (MRP), provided you meet all of the following requirements.
 
 (1) You disclose the plans in your proxy statement and offering circular and indicate in your offering circular that there will be a separate shareholder vote on the Option Plan and the MRP at least six months after the conversion. No shareholder vote is required to implement the ESOP. Your ESOP must be tax-qualified.

@@ -1,5 +1,7 @@
 ##### § 225.24 Procedures for other nonbanking proposals. #####
 
+Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
+
 (a) *Notice required for nonbanking activities.* Except as provided in §§ 225.22 and 225.23, a notice for the Board's prior approval under § 225.21(a) to engage in or acquire a company engaged in a nonbanking activity shall be filed by a bank holding company (including a company seeking to become a bank holding company) with the appropriate Reserve Bank in accordance with this section and the Board's Rules of Procedure (12 CFR 262.3).
 
 (1) *Engaging de novo in listed activities.* A bank holding company seeking to commence or to engage *de novo,* either directly or through a subsidiary, in a nonbanking activity listed in § 225.28 shall file a notice containing a description of the activities to be conducted and the identity of the company that will conduct the activity.

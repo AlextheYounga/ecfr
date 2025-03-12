@@ -1,5 +1,7 @@
 ##### § 390.344 Definitions applicable to capital distributions. #####
 
+Link to an amendment published at 84 FR 61804, Nov. 13, 2019.
+
 The following definitions apply to sections 390.342 through 390.348:
 
 *Affiliate* means an affiliate, as defined in regulations governing transactions with affiliates as issued by the Board of Governors of the Federal Reserve System.

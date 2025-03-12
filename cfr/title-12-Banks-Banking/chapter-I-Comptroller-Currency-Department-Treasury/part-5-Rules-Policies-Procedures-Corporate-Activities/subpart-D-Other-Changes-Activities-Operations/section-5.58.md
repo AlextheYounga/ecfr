@@ -1,5 +1,7 @@
 ##### § 5.58 Pass-through investments by a Federal savings association. #####
 
+Link to an amendment published at 84 FR 61794, Nov. 13, 2019.
+
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1828, 5412(b)(2)(B).
 
 (b) *Scope.* Federal savings associations are permitted to make various types of equity investments pursuant to 12 U.S.C. 1464 and other statutes, including pass-through investments authorized under 12 CFR 160.32(a). These investments are in addition to those subject to §§ 5.35, 5.37, 5.38, and 5.59. This section describes the procedure governing the filing of the application or notice that the OCC requires in connection with certain of these investments. The OCC may review other permissible equity investments on a case-by-case basis.

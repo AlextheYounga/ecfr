@@ -1,5 +1,7 @@
 ##### § 215.2 Definitions. #####
 
+Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
+
 For purposes of this part, the following definitions apply unless otherwise specified:
 
 (a) *Affiliate* means any company of which a member bank is a subsidiary or any other subsidiary of that company.

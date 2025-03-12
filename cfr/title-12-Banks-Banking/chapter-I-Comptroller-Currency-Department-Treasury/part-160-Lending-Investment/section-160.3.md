@@ -1,5 +1,7 @@
 ##### § 160.3 Definitions. #####
 
+Link to an amendment published at 84 FR 61795, Nov. 13, 2019.
+
 For purposes of this part and any determination under 12 U.S.C. 1467a(m):
 
 *Consumer loans* include loans for personal, family, or household purposes and loans reasonably incident thereto, and may be made as either open-end or closed-end consumer credit (as defined at 12 CFR 226.2(a)(10) and (20)). Consumer loans do not include credit extended in connection with credit card loans, bona fide overdraft loans, and other loans that the savings association has designated as made under investment or lending authority other than section 5(c)(2)(D) of the HOLA.

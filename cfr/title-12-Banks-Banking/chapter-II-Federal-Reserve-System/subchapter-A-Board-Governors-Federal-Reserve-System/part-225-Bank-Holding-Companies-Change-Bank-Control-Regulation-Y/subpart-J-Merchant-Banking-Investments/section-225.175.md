@@ -1,5 +1,7 @@
 ##### § 225.175 What risk management, record keeping and reporting policies are required to make merchant banking investments? #####
 
+Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
+
 (a) *What internal controls and records are necessary?* - (1) *General.* A financial holding company, including a private equity fund controlled by a financial holding company, that makes investments under this subpart must establish and maintain policies, procedures, records and systems reasonably designed to conduct, monitor and manage such investment activities and the risks associated with such investment activities in a safe and sound manner, including policies, procedures, records and systems reasonably designed to:
 
 (i) Monitor and assess the carrying value, market value and performance of each investment and the aggregate portfolio;

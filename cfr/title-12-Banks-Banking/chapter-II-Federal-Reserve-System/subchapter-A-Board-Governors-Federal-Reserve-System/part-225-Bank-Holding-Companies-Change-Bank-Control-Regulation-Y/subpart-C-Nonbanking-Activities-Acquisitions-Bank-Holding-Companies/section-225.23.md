@@ -1,5 +1,7 @@
 ##### § 225.23 Expedited action for certain nonbanking proposals by well-run bank holding companies. #####
 
+Link to an amendment published at 84 FR 61800, Nov. 13, 2019.
+
 (a) *Filing of notice* - (1) *Information required.* A bank holding company that meets the requirements of paragraph (c) of this section may satisfy the notice requirement of this subpart in connection with the acquisition of voting securities or assets of a company engaged in nonbanking activities that the Board has permitted by order or regulation (other than an insured depository institution),2 or a proposal to engage *de novo,* either directly or indirectly, in a nonbanking activity that the Board has permitted by order or by regulation, by providing the appropriate Reserve Bank with a written notice containing the following:
 
 2 A bank holding company may acquire voting securities or assets of a savings association or other insured depository institution that is not a bank by using the procedures in § 225.14 of subpart B if the bank holding company and the proposal qualify under that section as if the savings association or other institution were a bank for purposes of that section.

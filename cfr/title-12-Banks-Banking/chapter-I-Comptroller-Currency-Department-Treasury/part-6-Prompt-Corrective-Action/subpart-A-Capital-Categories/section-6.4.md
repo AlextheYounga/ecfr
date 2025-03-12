@@ -1,5 +1,7 @@
 ##### § 6.4 Capital measures and capital category definition. #####
 
+Link to an amendment published at 84 FR 61794, Nov. 13, 2019.
+
 (a) *Capital measures* - (1) *Capital measures applicable before January 1, 2015.* On or before December 31, 2014, for purposes of section 38 and this part, the relevant capital measures for all national banks and Federal savings associations are:
 
 (i) Total Risk-Based Capital Measure: the total risk-based capital ratio;

@@ -1,5 +1,7 @@
 ##### § 225.174 What aggregate thresholds apply to merchant banking investments? #####
 
+Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
+
 (a) *In general.* A financial holding company may not, without Board approval, directly or indirectly acquire any additional shares, assets or ownership interests under this subpart or make any additional capital contribution to any company the shares, assets or ownership interests of which are held by the financial holding company under this subpart if the aggregate carrying value of all merchant banking investments held by the financial holding company under this subpart exceeds:
 
 (1) 30 percent of the Tier 1 capital of the financial holding company; or

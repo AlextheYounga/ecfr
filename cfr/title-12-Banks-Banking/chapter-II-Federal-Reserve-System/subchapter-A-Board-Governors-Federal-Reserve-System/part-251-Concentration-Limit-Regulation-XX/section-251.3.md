@@ -1,5 +1,7 @@
 ##### § 251.3 Concentration limit. #####
 
+Link to an amendment published at 84 FR 61802, Nov. 13, 2019.
+
 (a) *In general.* (1) Except as otherwise provided in § 251.4, a company may not consummate a covered acquisition if upon consummation of the transaction, the liabilities of the resulting company would exceed 10 percent of the financial sector liabilities, and the company is or would become a financial company.
 
 (2) *Financial sector liabilities.* (i) Subject to paragraph (a)(2)(ii) of this section, as of July 1 of a given year, financial sector liabilities are equal to the average of the year-end financial sector liabilities figure for the preceding two calendar years. The measure of financial sector liabilities will be in effect until June 30 of the following calendar year.

@@ -1,5 +1,7 @@
 ##### § 238.53 Prescribed services and activities of savings and loan holding companies. #####
 
+Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
+
 (a) *General.* For the purpose of § 238.51(b)(6)(ii), the activities set forth in paragraph (b) of this section are, and were as of March 5, 1987, permissible services and activities for savings and loan holding companies or subsidiaries thereof that are neither savings associations nor service corporation subsidiaries of subsidiary savings associations. Services and activities of service corporation subsidiaries of savings and loan holding company subsidiary savings associations are prescribed by paragraph (d) of this section.
 
 (b) *Prescribed services and activities.* Subject to the provisions of paragraph (c) of this section, a savings and loan holding company subject to restrictions on its activities pursuant to § 238.51(b), or a subsidiary thereof which is neither a savings association nor a service corporation of a subsidiary savings association, may furnish or perform the following services and engage in the following activities to the extent that it has legal power to do so:

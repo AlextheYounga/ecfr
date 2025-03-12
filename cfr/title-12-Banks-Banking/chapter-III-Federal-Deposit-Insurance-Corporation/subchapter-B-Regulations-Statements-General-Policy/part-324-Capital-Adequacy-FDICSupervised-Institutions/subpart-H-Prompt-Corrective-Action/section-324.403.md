@@ -1,5 +1,7 @@
 ##### § 324.403 Capital measures and capital category definitions. #####
 
+Link to an amendment published at 84 FR 61803, Nov. 13, 2019.
+
 (a) *Capital measures.* For purposes of section 38 of the FDI Act and this subpart H, the relevant capital measures shall be:
 
 (1) The total risk-based capital ratio;

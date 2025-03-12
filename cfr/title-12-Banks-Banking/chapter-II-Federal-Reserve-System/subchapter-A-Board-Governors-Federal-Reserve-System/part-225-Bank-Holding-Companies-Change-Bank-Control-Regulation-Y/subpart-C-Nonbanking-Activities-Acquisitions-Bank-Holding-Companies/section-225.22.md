@@ -1,5 +1,7 @@
 ##### § 225.22 Exempt nonbanking activities and acquisitions. #####
 
+Link to an amendment published at 84 FR 61800, Nov. 13, 2019.
+
 (a) *Certain de novo activities.* A bank holding company may, either directly or indirectly, engage *de novo* in any nonbanking activity listed in § 225.28(b) (other than operation of an insured depository institution) without obtaining the Board's prior approval if the bank holding company:
 
 (1) Meets the requirements of paragraphs (c) (1), (2), and (6) of § 225.23;

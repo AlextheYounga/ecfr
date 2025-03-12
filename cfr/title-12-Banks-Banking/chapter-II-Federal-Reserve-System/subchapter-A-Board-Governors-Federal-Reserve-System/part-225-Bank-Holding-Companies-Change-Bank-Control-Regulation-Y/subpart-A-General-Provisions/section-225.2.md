@@ -1,5 +1,7 @@
 ##### § 225.2 Definitions. #####
 
+Link to an amendment published at 84 FR 61799, Nov. 13, 2019.
+
 Except as modified in this regulation or unless the context otherwise requires, the terms used in this regulation have the same meaning as set forth in the relevant statutes.
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with, another company.

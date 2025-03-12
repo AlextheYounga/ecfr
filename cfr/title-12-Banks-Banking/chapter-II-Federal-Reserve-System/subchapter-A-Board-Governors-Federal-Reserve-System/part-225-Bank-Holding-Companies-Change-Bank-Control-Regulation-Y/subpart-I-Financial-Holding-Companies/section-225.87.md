@@ -1,5 +1,7 @@
 ##### § 225.87 Is notice to the Board required after engaging in a financial activity? #####
 
+Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
+
 (a) *Post-transaction notice generally required to engage in a financial activity.* A financial holding company that commences an activity or acquires shares of a company engaged in an activity listed in § 225.86 must notify the appropriate Reserve Bank in writing within 30 calendar days after commencing the activity or consummating the acquisition by using the appropriate form.
 
 (b) *Cases in which notice to the Board is not required* - (1) *Acquisitions that do not involve control of a company.* A notice under paragraph (a) of this section is not required in connection with the acquisition of shares of a company if, following the acquisition, the financial holding company does not control the company.

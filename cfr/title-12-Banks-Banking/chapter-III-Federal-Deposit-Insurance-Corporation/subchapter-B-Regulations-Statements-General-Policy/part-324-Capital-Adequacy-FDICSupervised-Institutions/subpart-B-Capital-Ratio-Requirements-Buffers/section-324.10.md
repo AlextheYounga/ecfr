@@ -1,6 +1,6 @@
 ##### § 324.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 59278, Nov. 1, 2019.
+Link to an amendment published at 84 FR 59278, Nov. 1, 2019.Link to an amendment published at 84 FR 61802, Nov. 13, 2019.
 
 (a) *Minimum capital requirements.* An FDIC-supervised institution must maintain the following minimum capital ratios:
 

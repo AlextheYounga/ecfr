@@ -1,5 +1,7 @@
 ##### § 208.2 Definitions. #####
 
+Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
+
 For the purposes of this part:
 
 (a) *Board of Directors* means the governing board of any institution performing the usual functions of a board of directors.

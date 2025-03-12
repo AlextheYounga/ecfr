@@ -48,4 +48,4 @@
 
 (i) *Medium- and heavy-duty vehicle fuel efficiency.* The maximum civil penalty for a violation of the fuel consumption standards of 49 CFR part 535 is not more than $41,882 per vehicle or engine. The maximum civil penalty for a related series of violations shall be determined by multiplying $41,882 times the vehicle or engine production volume for the model year in question within the regulatory averaging set.
 
-[81 FR 43528, July 5, 2016, as amended at 83 FR 60753, Nov. 27, 2018; 84 FR 37078, July 31, 2019; 84 FR 36034, July 26, 2019]
+[81 FR 43528, July 5, 2016, as amended at 83 FR 60753, Nov. 27, 2018; 84 FR 36034, July 26, 2019; 84 FR 37078, July 31, 2019]

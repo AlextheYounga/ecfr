@@ -1,5 +1,7 @@
 ##### § 206.2 Definitions. #####
 
+Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
+
 As used in this part, unless the context requires otherwise:
 
 (a) *Bank* means an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), and includes an insured national bank, state bank, District bank, or savings association, and an insured branch of a foreign bank.

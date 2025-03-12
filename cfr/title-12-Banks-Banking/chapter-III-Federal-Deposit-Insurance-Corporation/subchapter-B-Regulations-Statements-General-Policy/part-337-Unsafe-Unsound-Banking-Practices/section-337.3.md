@@ -1,5 +1,7 @@
 ##### § 337.3 Limits on extensions of credit to executive officers, directors, and principal shareholders of insured nonmember banks. #####
 
+Link to an amendment published at 84 FR 61804, Nov. 13, 2019.
+
 (a) With the exception of 12 CFR 215.5(b), 215.5(c)(3), 215.5(c)(4), and 215.11, insured nonmember banks are subject to the restrictions contained in subpart A of Federal Reserve Board Regulation O (12 CFR part 215, subpart A) to the same extent and to the same manner as though they were member banks.
 
 (b) For the purposes of compliance with § 215.4(b) of Federal Reserve Board Regulation O, no insured nonmember bank may extend credit or grant a line of credit to any of its executive officers, directors, or principal shareholders or to any related interest of any such person in an amount that, when aggregated with the amount of all other extensions of credit and lines of credit by the bank to that person and to all related interests of that person, exceeds the greater of $25,000 or five percent of the bank's capital and unimpaired surplus,3 or $500,000 unless (1) the extension of credit or line of credit has been approved in advance by a majority of the entire board of directors of that bank and (2) the interested party has abstained from participating directly or indirectly in the voting.

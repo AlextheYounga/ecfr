@@ -1,6 +1,6 @@
 ##### § 217.300 Transitions. #####
 
-Link to an amendment published at 84 FR 35269, July 22, 2019.
+Link to an amendment published at 84 FR 61807, Nov. 13, 2019.Link to an amendment published at 84 FR 35269, July 22, 2019.The effective date of a portion of this amendment was changed to Jan. 1, 2020 at 84 FR 61807, Nov. 13, 2019.
 
 (a) *Capital conservation and countercyclical capital buffer.* (1) From January 1, 2014 through December 31, 2015, a Board-regulated institution is not subject to limits on distributions and discretionary bonus payments under § 217.11 of subpart B of this part notwithstanding the amount of its capital conservation buffer or any applicable countercyclical capital buffer amount.
 
