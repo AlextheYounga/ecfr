@@ -1,8 +1,6 @@
 ##### § 76.612 Cable television frequency separation standards. #####
 
-Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
-
-All cable television systems which operate in the frequency bands 108-137 and 225-400 MHz shall comply with the following frequency separation standards:
+All cable television systems which operate analog NTSC or similar channels in the frequency bands 108-137 MHZ and 225-400 MHz shall comply with the following frequency separation standards for each NTSC or similar channel:
 
 (a) In the aeronautical radiocommunication bands 118-137, 225-328.6 and 335.4-400 MHz, the frequency of all carrier signals or signal components carried at an average power level equal to or greater than 10−4 watts in a 25 kHz bandwidth in any 160 microsecond period must operate at frequencies offset from certain frequencies which may be used by aeronautical radio services operated by Commission licensees or by the United States Government or its Agencies. The aeronautical frequencies from which offsets must be maintained are those frequencies which are within one of the aeronautical bands defined in this subparagraph, and when expressed in MHz and divided by 0.025 yield an integer. The offset must meet one of the following two criteria:
 
@@ -20,4 +18,4 @@ Note:
 
 The HRC system, as described above, will meet this requirement in the 328.6-335.4 MHz navigation glide path band. Those Incrementally Related Carriers (IRC) systems, with comb generator reference frequencies set at certain odd multiples equal to or greater than 3 times the 0.0125 MHz aeronautical communications band offset, e.g. (6n + 1.250 ±0.0375) MHz, may also meet the 25 kHz offset requirement in the navigation glide path band.
 
-[50 FR 29400, July 19, 1985]
+[50 FR 29400, July 19, 1985, as amended at 83 FR 7630, Feb. 22, 2018]

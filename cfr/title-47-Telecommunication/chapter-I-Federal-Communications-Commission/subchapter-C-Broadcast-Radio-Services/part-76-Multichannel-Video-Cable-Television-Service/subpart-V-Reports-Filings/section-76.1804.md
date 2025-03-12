@@ -1,8 +1,6 @@
 ##### § 76.1804 Aeronautical frequencies: leakage monitoring (CLI). #####
 
-Link to an amendment published at 83 FR 7631, Feb. 22, 2018.
-
-An MVPD shall notify the Commission before transmitting any carrier or other signal component with an average power level across a 25 kHz bandwidth in any 160 microsecond time period equal to or greater than 10−4 watts at any point in the cable distribution system on any new frequency or frequencies in the aeronautical radio frequency bands (108-137 and 225-400 MHz). The notification shall be made on FCC Form 321. Such notification shall include:
+An MVPD shall notify the Commission before transmitting any digital signal with average power exceeding 10−5 watts across a 30 kHz bandwidth in a 2.5 millisecond time period, or for other signal types, any carrier of other signal component with an average power level across a 25 kHz bandwidth in any 160 microsecond time period equal to or greater than 10−4 watts at any point in the cable distribution system on any new frequency or frequencies in the aeronautical radio frequency bands (108-137 MHz, 225-400 MHz). The notification shall be made on FCC Form 321. Such notification shall include:
 
 (a) Legal name and local address of the MVPD;
 
@@ -24,4 +22,4 @@ An MVPD shall notify the Commission before transmitting any carrier or other sig
 
 (j) The FCC Registration Number (FRN).
 
-[68 FR 27003, May 19, 2003]
+[68 FR 27003, May 19, 2003, as amended at 83 FR 7631, Feb. 22, 2018]Effective Date Note:At 83 FR 7631, Feb. 22, 2018, § 76.1804 was amended by revising the introductory text. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

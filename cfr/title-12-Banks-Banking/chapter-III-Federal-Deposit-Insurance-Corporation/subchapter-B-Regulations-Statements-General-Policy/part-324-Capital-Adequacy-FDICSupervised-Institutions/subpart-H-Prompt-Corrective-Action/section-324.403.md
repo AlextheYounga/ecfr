@@ -26,7 +26,7 @@
 
 (iv) Has a leverage ratio of 5.0 percent or greater;
 
-(v) Beginning on Jan. 1, 2018 and thereafter, an FDIC-supervised institution that is a subsidiary of a covered BHC will be deemed to be well capitalized if the FDIC-supervised institution satisfies paragraphs (b)(1)(i) through (iv) of this section and has a supplementary leverage ratio of 6.0 percent or greater. For purposes of this paragraph, a covered BHC means a U.S. top-tier bank holding company with more than $700 billion in total assets as reported on the company's most recent Consolidated Financial Statement for Bank Holding Companies (FR Y-9C) or more than $10 trillion in assets under custody as reported on the company's most recent Banking Organization Systemic Risk Report (FR Y-15); and
+(v) Is not subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the FDIC pursuant to section 8 of the FDI Act (12 U.S.C. 1818), the International Lending Supervision Act of 1983 (12 U.S.C. 3907), or the Home Owners' Loan Act (12 U.S.C. 1464(t)(6)(A)(ii)), or section 38 of the FDI Act (12 U.S.C. 1831o), or any regulation thereunder, to meet and maintain a specific capital level for any capital measure; and
 
 (vi) Beginning on January 1, 2018 and thereafter, an FDIC-supervised institution that is a subsidiary of a covered BHC will be deemed to be well capitalized if the FDIC-supervised institution satisfies paragraphs (b)(1)(i) through (v) of this section and has a supplementary leverage ratio of 6.0 percent or greater. For purposes of this paragraph, a covered BHC means a U.S. top-tier bank holding company with more than $700 billion in total assets as reported on the company's most recent Consolidated Financial Statement for Bank Holding Companies (FR Y-9C) or more than $10 trillion in assets under custody as reported on the company's most recent Banking Organization Systemic Risk Report (FR Y-15).
 
@@ -106,4 +106,4 @@
 
 (2) *Unsafe or unsound practice.* The FDIC has determined, after notice and opportunity for hearing pursuant to § 308.202(a) of this chapter, that, in the most recent examination of the FDIC-supervised institution, the FDIC-supervised institution received and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
 
-[81 FR 22173, Apr. 15, 2016, as amended at 79 FR 24541, May 1, 2014]
+[81 FR 22173, Apr. 15, 2016, as amended at 79 FR 24541, May 1, 2014; 83 FR 17617, Apr. 23, 2018]

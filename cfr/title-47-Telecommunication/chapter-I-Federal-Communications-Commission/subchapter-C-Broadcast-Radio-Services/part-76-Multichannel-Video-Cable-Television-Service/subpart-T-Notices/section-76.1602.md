@@ -1,10 +1,8 @@
-##### § 76.1602 Customer service - general information. #####
-
-Link to an amendment published at 83 FR 7631, Feb. 22, 2018.
+##### § 76.1602 Customer service—general information. #####
 
 (a) A cable franchise authority may enforce the customer service standards set forth in paragraph (b) of this section against cable operators. The franchise authority must provide affected cable operators 90 days written notice of its intent to enforce standards.
 
-(b) Effective July 1, 1993, the cable operator shall provide written information on each of the following areas at the time of installation of service, at least annually to all subscribers, and at any time upon request:
+(b) The cable operator shall provide written information on each of the following areas at the time of installation of service, at least annually to all subscribers, and at any time upon request:
 
 (1) Products and services offered;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 83 FR 7631, Feb. 22, 2018.
 
 (c) Subscribers shall be advised of the procedures for resolution of complaints about the quality of the television signal delivered by the cable system operator, including the address of the responsible officer of the local franchising authority.
 
-[65 FR 53617, Sept. 5, 2000, as amended at 76 FR 40279, July 8, 2011]
+[65 FR 53617, Sept. 5, 2000, as amended at 76 FR 40279, July 8, 2011; 83 FR 7631, Feb. 22, 2018]

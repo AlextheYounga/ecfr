@@ -1,5 +1,7 @@
 ##### § 148.1 Scope, purpose, effective date, and compliance dates. #####
 
+Link to an amendment published at 83 FR 17621, Apr. 23, 2018.
+
 (a) *Scope.* This part applies to each financial company that is a records entity and, with respect to § 148.3(a), a top-tier financial company of a corporate group as defined in § 148.2.
 
 (b) *Purpose.* This part establishes recordkeeping requirements with respect to QFCs of records entities in order to assist the Federal Deposit Insurance Corporation (“FDIC”) as receiver for a covered financial company (as defined in 12 U.S.C. 5381(a)(8)) in being able to exercise its rights and fulfill its obligations under 12 U.S.C. 5390(c)(8), (9), or (10).

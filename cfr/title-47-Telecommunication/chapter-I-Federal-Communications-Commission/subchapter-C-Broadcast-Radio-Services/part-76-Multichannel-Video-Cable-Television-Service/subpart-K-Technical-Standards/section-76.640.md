@@ -1,14 +1,12 @@
 ##### § 76.640 Support for unidirectional digital cable products on digital cable systems. #####
 
-Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
-
 (a) The requirements of this section shall apply to digital cable systems. For purposes of this section, digital cable systems shall be defined as a cable system with one or more channels utilizing QAM modulation for transporting programs and services from its headend to receiving devices. Cable systems that only pass through 8 VSB broadcast signals shall not be considered digital cable systems.
 
 (b) No later than July 1, 2004, cable operators shall support unidirectional digital cable products, as defined in § 15.123 of this chapter, through the provisioning of Point of Deployment modules (PODs) and services, as follows:
 
 (1) Digital cable systems with an activated channel capacity of 750 MHz or greater shall comply with the following technical standards and requirements:
 
-(i) SCTE 40 2003 (formerly DVS 313): “Digital Cable Network Interface Standard” (incorporated by reference, *see* § 76.602), provided however that with respect to Table B.11, the Phase Noise requirement shall be −86 dB/Hz, and also provided that the “transit delay for most distant customer” requirement in Table B.3 is not mandatory.
+(i) ANSI/SCTE 40 2016 (incorporated by reference, see § 76.602), provided however that the “transit delay for most distant customer” requirement in Table 4.3 is not mandatory.
 
 (ii) ANSI/SCTE 65 2002 (formerly DVS 234): “Service Information Delivered Out-of-Band for Digital Cable Television” (incorporated by reference, *see* § 76.602), provided however that the referenced Source Name Subtable shall be provided for Profiles 1, 2, and 3.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
 
 (iii) Effective December 1, 2012, ensure that the cable-operator-provided high definition set-top boxes, except unidirectional set-top boxes without recording functionality, shall comply with an open industry standard that provides for audiovisual communications including service discovery, video transport, and remote control command pass-through standards for home networking.
 
-[68 FR 66734, Nov. 28, 2003, as amended at 76 FR 40279, July 8, 2011]
+[68 FR 66734, Nov. 28, 2003, as amended at 76 FR 40279, July 8, 2011; 83 FR 7630, Feb. 22, 2018]

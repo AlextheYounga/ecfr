@@ -1,7 +1,5 @@
 ##### § 76.55 Definitions applicable to the must-carry rules. #####
 
-Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
-
 For purposes of the must-carry rules set forth in this subpart, the following definitions apply:
 
 (a) *Qualified noncommercial educational (NCE) television station.* A qualified NCE television station is any television broadcast station which
@@ -56,7 +54,7 @@ For the purposes of § 76.55(a), “serving the franchise area” will be based 
 
 Note to paragraph (d):
 
-For the purposes of this section, a good quality signal shall mean a signal level of either −45 dBm for UHF signals or −49 dBm for VHF signals at the input terminals of the signal processing equipment, or a baseband video signal.
+For the purposes of this section, for over-the-air broadcast, a good quality signal shall mean a signal level of either −45 dBm for analog VHF signals, −49 dBm for analog UHF signals, or −61 dBm for digital signals (at all channels) at the input terminals of the signal processing equipment.
 
 (e) *Television market.* (1) Until January 1, 2000, a commercial broadcast television station's market, unless amended pursuant to § 76.59, shall be defined as its Area of Dominant Influence (ADI) as determined by Arbitron and published in the Arbitron 1991-1992 Television ADI Market Guide, as noted below, except that for areas outside the contiguous 48 states, the market of a station shall be defined using Nielsen's Designated Market Area (DMA), where applicable, as published in the Nielsen 1991-92 DMA Market and Demographic Rank Report, and that Puerto Rico, the U.S. Virgin Islands, and Guam will each be considered a single market.
 
@@ -80,4 +78,4 @@ For the 1996 must-carry/retransimission consent election, the ADI assignments sp
 
 (f) *Network.* For purposes of the must-carry rules, a commercial television network is an entity that offers programming on a regular basis for 15 or more hours per week to at least 25 affiliates in 10 or more states.
 
-[58 FR 17359, Apr. 2, 1993, as amended at 58 FR 44951, Aug. 25, 1993; 59 FR 62344, Dec. 5, 1994; 61 FR 29313, June 10, 1996; 64 FR 42617, Aug. 5, 1999; 68 FR 17312, Apr. 9, 2003; 73 FR 5685, Jan. 30, 2008]
+[58 FR 17359, Apr. 2, 1993, as amended at 58 FR 44951, Aug. 25, 1993; 59 FR 62344, Dec. 5, 1994; 61 FR 29313, June 10, 1996; 64 FR 42617, Aug. 5, 1999; 68 FR 17312, Apr. 9, 2003; 73 FR 5685, Jan. 30, 2008; 83 FR 7626, Feb. 22, 2018]

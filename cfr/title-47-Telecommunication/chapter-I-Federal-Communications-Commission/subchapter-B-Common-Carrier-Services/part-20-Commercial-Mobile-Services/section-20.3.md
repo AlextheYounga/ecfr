@@ -1,6 +1,6 @@
 ##### § 20.3 Definitions. #####
 
-Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
+Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
 
 *Appropriate local emergency authority.* An emergency answering point that has not been officially designated as a Public Safety Answering Point (PSAP), but has the capability of receiving 911 calls and either dispatching emergency services personnel or, if necessary, relaying the call to another emergency service provider. An appropriate local emergency authority may include, but is not limited, to an existing local law enforcement authority, such as the police, county sheriff, local emergency medical services provider, or fire department.
 
@@ -24,7 +24,7 @@ Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment
 
 (3) Available to the public, or to such classes of eligible users as to be effectively available to a substantial portion of the public; or
 
-(b) The functional equivalent of such a mobile service described in paragraph (a) of this definition, including a mobile broadband Internet access service as defined in § 8.2 of this chapter.
+(b) The functional equivalent of such a mobile service described in paragraph (a) of this definition.
 
 (c) A variety of factors may be evaluated to make a determination whether the mobile service in question is the functional equivalent of a commercial mobile radio service, including: Consumer demand for the service to determine whether the service is closely substitutable for a commercial mobile radio service; whether changes in price for the service under examination, or for the comparable commercial mobile radio service, would prompt customers to change from one service to the other; and market research information identifying the targeted market for the service under review.
 
@@ -48,7 +48,7 @@ Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment
 
 *Interconnected Service.* A service:
 
-(a) That is interconnected with the public switched network, or interconnected with the public switched network through an interconnected service provider, that gives subscribers the capability to communicate to or receive communication from other users on the public switched network; or
+(a) That is interconnected with the public switched network, or interconnected with the public switched network through an interconnected service provider, that gives subscribers the capability to communicate to or receive communication from all other users on the public switched network; or
 
 (b) For which a request for such interconnection is pending pursuant to section 332(c)(1)(B) of the Communications Act, 47 U.S.C. 332(c)(1)(B). A mobile service offers interconnected service even if the service allows subscribers to access the public switched network only during specified hours of the day, or if the service provides general access to points on the public switched network but also restricts access in certain limited ways. Interconnected service does not include any interface between a licensee's facilities and the public switched network exclusively for a licensee's internal control purposes.
 
@@ -86,7 +86,7 @@ Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment
 
 *Public Safety Answering Point.* A point that has been designated to receive 911 calls and route them to emergency service personnel.
 
-*Public Switched Network.* The network that includes any common carrier switched network, whether by wire or radio, including local exchange carriers, interexchange carriers, and mobile service providers, that uses the North American Numbering Plan, or public IP addresses, in connection with the provision of switched services.
+*Public Switched Network.* Any common carrier switched network, whether by wire or radio, including local exchange carriers, interexchange carriers, and mobile service providers, that uses the North American Numbering Plan in connection with the provision of switched services.
 
 *Signal booster.* A device that automatically receives, amplifies, and retransmits on a bi- or unidirectional basis, the signals received from base, fixed, mobile, or portable stations, with no change in frequency or authorized bandwidth.
 
@@ -96,4 +96,4 @@ Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment
 
 *Wideband Consumer Signal Boosters.* Wideband Consumer Signal Boosters may operate on the frequencies and in the market areas of multiple licensees.
 
-[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015; 83 FR 7401, Feb. 21, 2018]
+[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015; 83 FR 7401, Feb. 21, 2018; 83 FR 7922, Feb. 22, 2018]

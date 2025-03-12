@@ -1,12 +1,10 @@
 ##### § 76.56 Signal carriage obligations. #####
 
-Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
-
 (a) *Carriage of qualified noncommercial educational stations.* A cable television system shall carry qualified NCE television stations in accordance with the following provisions:
 
 (1) Each cable operator shall carry on its cable television system any qualified local NCE television station requesting carriage, except that
 
-(i) Systems with 12 or fewer usable activated channels, as defined in § 76.6(oo), shall be required to carry the signal of one such station;
+(i) Systems with 12 or fewer usable activated channels, as defined in § 76.5(oo), shall be required to carry the signal of one such station;
 
 (ii) Systems with 13 to 36 usable activated channels, as defined in § 76.5(oo), shall be required to carry at least one qualified local NCE station, but not more than three such stations; and
 
@@ -26,7 +24,7 @@ For purposes of this paragraph, a station will be deemed to “substantially dup
 
 (5) Notwithstanding the requirements of paragraph (a)(1) of this section, all cable operators shall continue to provide carriage to all qualified local NCE television stations whose signals were carried on their systems as of March 29, 1990. In the case of a cable system that is required to import a distance qualified NCE signal, and such system imported the signal of a qualified NCE station as of March 29, 1990, such cable system shall continue to import such signal until such time as a qualified local NCE signal is available to the cable system. This requirements may be waived with respect to a particular cable operator and a particular NCE station, upon the written consent of the cable operator and the station.
 
-(b) *Carriage of local commercial television stations.* Effective June 2, 1993, a cable television system shall carry local commercial broadcast television stations in accordance with the following provisions:
+(b) *Carriage of local commercial television stations.* A cable television system shall carry local commercial broadcast television stations in accordance with the following provisions:
 
 (1) A cable system with 12 or fewer usable activated channels, as defined in § 76.5(oo), shall carry the signals of at least three qualified local commercial television stations, except that if such system serves 300 or fewer subscribers it shall not be subject to these requirements as long as it does not delete from carriage the signal of a broadcast television station which was carried on that system on October 5, 1992.
 
@@ -78,4 +76,4 @@ Note 3 to § 76.56:
 
 Section 76.1709 provides recordkeeping requirements with regard to a cable operator's list of must-carry signals.
 
-[58 FR 17360, Apr. 2, 1993, as amended at 58 FR 39161, July 22, 1993; 58 FR 40368, July 28, 1993; 59 FR 62344, Dec. 5, 1994; 65 FR 53614, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 73 FR 6054, Feb. 1, 2008; 77 FR 30426, May 23, 2012; 77 FR 36192, June 18, 2012; 83 FR 5028, Feb. 2, 2018]
+[58 FR 17360, Apr. 2, 1993, as amended at 58 FR 39161, July 22, 1993; 58 FR 40368, July 28, 1993; 59 FR 62344, Dec. 5, 1994; 65 FR 53614, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 73 FR 6054, Feb. 1, 2008; 77 FR 30426, May 23, 2012; 77 FR 36192, June 18, 2012; 83 FR 5028, Feb. 2, 2018; 83 FR 7626, Feb. 22, 2018]

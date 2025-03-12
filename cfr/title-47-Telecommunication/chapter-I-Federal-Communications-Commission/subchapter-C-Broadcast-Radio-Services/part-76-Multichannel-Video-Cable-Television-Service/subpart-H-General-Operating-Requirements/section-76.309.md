@@ -1,7 +1,5 @@
 ##### § 76.309 Customer service obligations. #####
 
-Link to an amendment published at 83 FR 7627, Feb. 22, 2018.
-
 (a) A cable franchise authority may enforce the customer service standards set forth in paragraph (c) of this section against cable operators. The franchise authority must provide affected cable operators ninety (90) days written notice of its intent to enforce the standards.
 
 (b) Nothing in this rule should be construed to prevent or prohibit:
@@ -14,9 +12,9 @@ Link to an amendment published at 83 FR 7627, Feb. 22, 2018.
 
 (4) The establishment or enforcement of any State or municipal law or regulation concerning customer service that imposes customer service requirements that exceed, or address matters not addressed by the standards set forth in paragraph (c) of this section.
 
-(c) Effective July 1, 1993, a cable operator shall be subject to the following customer service standards:
+(c) Cable operators are subject to the following customer service standards:
 
-(1) Cable system office hours and telephone availability -
+(1) Cable system office hours and telephone availability—
 
 (i) The cable operator will maintain a local, toll-free or collect call telephone access line which will be available to its subscribers 24 hours a day, seven days a week.
 
@@ -44,26 +42,26 @@ Link to an amendment published at 83 FR 7627, Feb. 22, 2018.
 
 (v) If a cable operator representative is running late for an appointment with a customer and will not be able to keep the appointment as scheduled, the customer will be contacted. The appointment will be rescheduled, as necessary, at a time which is convenient for the customer.
 
-(3) Communications between cable operators and cable subscribers -
+(3) Communications between cable operators and cable subscribers—
 
-(i) Refunds - Refund checks will be issued promptly, but no later than either -
+(i) Refunds—Refund checks will be issued promptly, but no later than either—
 
 (A) The customer's next billing cycle following resolution of the request or thirty (30) days, whichever is earlier, or
 
 (B) The return of the equipment supplied by the cable operator if service is terminated.
 
-(ii) Credits - Credits for service will be issued no later than the customer's next billing cycle following the determination that a credit is warranted.
+(ii) Credits—Credits for service will be issued no later than the customer's next billing cycle following the determination that a credit is warranted.
 
-(4) Definitions -
+(4) Definitions—
 
-(i) *Normal business hours* - The term “normal business hours” means those hours during which most similar businesses in the community are open to serve customers. In all cases, “normal business hours” must include some evening hours at least one night per week and/or some weekend hours.
+(i) *Normal business hours*—The term “normal business hours” means those hours during which most similar businesses in the community are open to serve customers. In all cases, “normal business hours” must include some evening hours at least one night per week and/or some weekend hours.
 
-(ii) *Normal operating conditions* - The term “normal operating conditions” means those service conditions which are within the control of the cable operator. Those conditions which are *not* within the control of the cable operator include, but are not limited to, natural disasters, civil disturbances, power outages, telephone network outages, and severe or unusual weather conditions. Those conditions which *are* ordinarily within the control of the cable operator include, but are not limited to, special promotions, pay-per-view events, rate increases, regular peak or seasonal demand periods, and maintenance or upgrade of the cable system.
+(ii) *Normal operating conditions*—The term “normal operating conditions” means those service conditions which are within the control of the cable operator. Those conditions which are *not* within the control of the cable operator include, but are not limited to, natural disasters, civil disturbances, power outages, telephone network outages, and severe or unusual weather conditions. Those conditions which *are* ordinarily within the control of the cable operator include, but are not limited to, special promotions, pay-per-view events, rate increases, regular peak or seasonal demand periods, and maintenance or upgrade of the cable system.
 
-(iii) *Service interruption* - The term “service interruption” means the loss of picture or sound on one or more cable channels.
+(iii) *Service interruption*—The term “service interruption” means the loss of picture or sound on one or more cable channels.
 
 Note to § 76.309:
 
 Section 76.1602 contains notification requirements for cable operators with regard to operator obligations to subscribers and general information to be provided to customers regarding service. Section 76.1603 contains subscriber notification requirements governing rate and service changes. Section 76.1619 contains notification requirements for cable operators with regard to subscriber bill information and operator response procedures pertaining to bill disputes.
 
-[58 FR 21109, Apr. 19, 1993, as amended at 61 FR 18977, Apr. 30, 1996; 65 FR 53615, Sept. 5, 2000; 67 FR 1650, Jan. 14, 2002]
+[58 FR 21109, Apr. 19, 1993, as amended at 61 FR 18977, Apr. 30, 1996; 65 FR 53615, Sept. 5, 2000; 67 FR 1650, Jan. 14, 2002; 83 FR 7627, Feb. 22, 2018]

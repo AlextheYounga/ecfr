@@ -1,8 +1,6 @@
 ##### § 76.64 Retransmission consent. #####
 
-Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
-
-(a) After 12:01 a.m. on October 6, 1993, no multichannel video programming distributor shall retransmit the signal of any commercial broadcasting station without the express authority of the originating station, except as provided in paragraph (b) of this section.
+(a) No multichannel video programming distributor shall retransmit the signal of any commercial broadcasting station without the express authority of the originating station, except as provided in paragraph (b) of this section.
 
 (b) A commercial broadcast signal may be retransmitted without express authority of the originating station if -
 
@@ -66,4 +64,4 @@ Note 1 to § 76.64:
 
 Section 76.1608 provides notification requirements for a cable system that changes its technical configuration in such a way as to integrate two formerly separate cable systems.
 
-[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015]
+[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018]
