@@ -1,14 +1,12 @@
 ##### § 214.13 SEVIS fee for certain F, J, and M nonimmigrants. #####
 
-Link to an amendment published at 84 FR 23979, May 23, 2019.
+(a) *Applicability.* The aliens in paragraphs (a)(1) through (3) of this section are required to submit a payment in the amount indicated for their status to the Student and Exchange Visitor Program (SEVP) in advance of obtaining nonimmigrant status as an F or M student or J exchange visitor, in addition to any other applicable fees, except as otherwise provided for in this section:
 
-(a) *Applicability.* The following aliens are required to submit a payment in the amount indicated for their status to the Student and Exchange Visitor Program (SEVP) in advance of obtaining nonimmigrant status as an F or M student or J exchange visitor, in addition to any other applicable fees, except as otherwise provided for in this section:
+(1) An alien who applies for F-1 or F-3 status in order to enroll in a program of study at an SEVP-certified institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965, as amended, or in a program of study at any other SEVP-certified academic or language training institution, including private elementary and secondary schools and public secondary schools, the amount of $350;
 
-(1) An alien who applies for F-1 or F-3 status in order to enroll in a program of study at an SEVP-certified institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965, as amended, or in a program of study at any other SEVP-certified academic or language-training institution including private elementary and secondary schools and public secondary schools, the amount of $200;
+(2) An alien who applies for J-1 status in order to commence participation in an exchange visitor program designated by the Department of State, the amount of $220, with a reduced fee for certain exchange visitor categories as provided in paragraphs (b)(1) and (c) of this section; and
 
-(2) An alien who applies for J-1 status in order to commence participation in an exchange visitor program designated by the Department of State (DoS), the amount of $180, with a reduced fee for certain exchange visitor categories as provided in paragraphs (b)(1) and (c) of this section; and
-
-(3) An alien who applies for M-1 or M-3 status in order to enroll in a program of study at an SEVP-certified vocational educational institution, including a flight school, in the amount of $200.
+(3) An alien who applies for M-1 or M-3 status in order to enroll in a program of study at an SEVP-certified vocational educational institution, including a flight school, in the amount of $350.
 
 (b) *Aliens not subject to a fee.* No SEVIS fee is required with respect to:
 
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 23979, May 23, 2019.
 
 (3) A nonimmigrant alien in the United States seeking a change of status to F-1, F-3, J-1, M-1, or M-3 must pay the fee to DHS before the alien is granted the change of nonimmigrant status, except as provided in paragraph (e)(4) of this section.
 
-(4) A J-1 nonimmigrant who is applying for a change of program category within the United Status, in accordance with 22 CFR 62.42, must pay the fee associated with that new category, if any, prior to being granted such a change.
+(4) A J-1 nonimmigrant who is applying for a change of program category within the United States, in accordance with 22 CFR 62.42, must pay the fee associated with that new category, if any, prior to being granted such a change.
 
 (5) A J-1 nonimmigrant initially granted J-1 status to participate in a program sponsored by the Federal government, as defined in paragraph (b)(1) of this section, and transferring in accordance with 22 CFR 62.42 to a program that is not similarly sponsored, must pay the fee associated with the new program prior to completing the transfer.
 
@@ -94,4 +92,4 @@ Link to an amendment published at 84 FR 23979, May 23, 2019.
 
 (2) For purposes of reinstatement to valid J program status, failure to pay the required fee will not be considered a “minor or technical infraction” under 22 CFR 62.45.
 
-[69 FR 39825, July 1, 2004; 69 FR 41388, July 9, 2004, as amended at 73 FR 55704, Sept. 26, 2008]
+[69 FR 39825, July 1, 2004; 69 FR 41388, July 9, 2004, as amended at 73 FR 55704, Sept. 26, 2008; 84 FR 23979, May 23, 2019]

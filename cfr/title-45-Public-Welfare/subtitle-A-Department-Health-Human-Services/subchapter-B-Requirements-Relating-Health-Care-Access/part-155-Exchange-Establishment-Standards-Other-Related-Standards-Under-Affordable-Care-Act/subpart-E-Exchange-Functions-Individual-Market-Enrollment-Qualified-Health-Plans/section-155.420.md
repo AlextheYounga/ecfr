@@ -1,6 +1,6 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 84 FR 17567, Apr. 25, 2019.Link to an amendment published at 84 FR 29027, June 20, 2019.
+Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
@@ -18,7 +18,7 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.Link to an amendmen
 
 (B) If a dependent qualifies for a special enrollment period, and an enrollee is adding the dependent to his or her QHP, the Exchange must allow the enrollee to add the dependent to his or her current QHP; or, if the QHP's business rules do not allow the dependent to enroll, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or enroll the new qualified individual in a separate QHP.
 
-(5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; are an Indian as defined by section 4 of the Indian Health Care Improvement Act; or lived for 1 or more days during the 60 days preceding the qualifying event or during their most recent preceding enrollment period, as specified in §§ 155.410 and 155.420, in a service area where no qualified health plan was available through the Exchange.
+(5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) or demonstrate that they had coverage as described in paragraphs (d)(1)(iii) or (iv) of this section for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; are an Indian as defined by section 4 of the Indian Health Care Improvement Act; or lived for 1 or more days during the 60 days preceding the qualifying event or during their most recent preceding enrollment period, as specified in §§ 155.410 and 155.420, in a service area where no qualified health plan was available through the Exchange.
 
 (b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2), (3), and (5) of this section, for a QHP selection received by the Exchange from a qualified individual -
 
@@ -32,7 +32,7 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.Link to an amendmen
 
 (iii) In the case of a qualified individual or enrollee eligible for a special enrollment period as described in paragraph (d)(4), (5), (9), (11), (12), or (13) of this section, the Exchange must ensure that coverage is effective on an appropriate date based on the circumstances of the special enrollment period.
 
-(iv) If a consumer loses coverage as described in paragraph (d)(1) or (d)(6)(iii) of this section, gains access to a new QHP as described in paragraph (d)(7) of this section, becomes newly eligible for enrollment in a QHP through the Exchange in accordance with § 155.305(a)(2) as described in paragraph (d)(3) of this section, or becomes newly eligible for advance payments of the premium tax credit in conjunction with a permanent move as described in paragraph (d)(6)(iv) of this section, if the plan selection is made on or before the day of the triggering event, the Exchange must ensure that the coverage effective date is on the first day of the month following the date of the triggering event. If the plan selection is made after the date of the triggering event, the Exchange must ensure that coverage is effective in accordance with paragraph (b)(1) of this section or on the first day of the following month, at the option of the Exchange.
+(iv) If a qualified individual, enrollee, or dependent, as applicable, loses coverage as described in paragraph (d)(1) or (d)(6)(iii) of this section, gains access to a new QHP as described in paragraph (d)(7) of this section, becomes newly eligible for enrollment in a QHP through the Exchange in accordance with § 155.305(a)(2) as described in paragraph (d)(3) of this section, or becomes newly eligible for advance payments of the premium tax credit in conjunction with a permanent move as described in paragraph (d)(6)(iv) of this section, and if the plan selection is made on or before the day of the triggering event, the Exchange must ensure that the coverage effective date is the first day of the month following the date of the triggering event. If the plan selection is made after the date of the triggering event, the Exchange must ensure that coverage is effective in accordance with paragraph (b)(1) of this section or on the first day of the following month, at the option of the Exchange.
 
 (v) If an enrollee or his or her dependent dies as described in paragraph (d)(2)(ii) of this section, the Exchange must ensure that coverage is effective on the first day of the month following the plan selection, or it may permit the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section. If the Exchange permits the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the enrollee or his or her dependent.
 
@@ -80,11 +80,19 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.Link to an amendmen
 
 (6) *Newly eligible or ineligible for advance payments of the premium tax credit, or change in eligibility for cost-sharing reductions.* (i) The enrollee is determined newly eligible or newly ineligible for advance payments of the premium tax credit or has a change in eligibility for cost-sharing reductions;
 
-(ii) The enrollee's dependent enrolled in the same QHP is determined newly eligible or newly ineligible for advance payments of the premium tax credit or has a change in eligibility for cost-sharing reductions; or
+(ii) The enrollee's dependent enrolled in the same QHP is determined newly eligible or newly ineligible for advance payments of the premium tax credit or has a change in eligibility for cost-sharing reductions;
 
-(iii) A qualified individual or his or her dependent who is enrolled in an eligible employer-sponsored plan is determined newly eligible for advance payments of the premium tax credit based in part on a finding that such individual is ineligible for qualifying coverage in an eligible-employer sponsored plan in accordance with 26 CFR 1.36B-2(c)(3), including as a result of his or her employer discontinuing or changing available coverage within the next 60 days, provided that such individual is allowed to terminate existing coverage.
+(iii) A qualified individual or his or her dependent who is enrolled in an eligible employer-sponsored plan is determined newly eligible for advance payments of the premium tax credit based in part on a finding that such individual is ineligible for qualifying coverage in an eligible-employer sponsored plan in accordance with 26 CFR 1.36B-2(c)(3), including as a result of his or her employer discontinuing or changing available coverage within the next 60 days, provided that such individual is allowed to terminate existing coverage;
 
-(iv) A qualified individual who was previously ineligible for advance payments of the premium tax credit solely because of a household income below 100 percent of the FPL and who, during the same timeframe, was ineligible for Medicaid because he or she was living in a non-Medicaid expansion State, who either experiences a change in household income or moves to a different State resulting in the qualified individual becoming newly eligible for advance payments of the premium tax credit;
+(iv) A qualified individual who was previously ineligible for advance payments of the premium tax credit solely because of a household income below 100 percent of the FPL and who, during the same timeframe, was ineligible for Medicaid because he or she was living in a non-Medicaid expansion State, who either experiences a change in household income or moves to a different State resulting in the qualified individual becoming newly eligible for advance payments of the premium tax credit; or
+
+(v) At the option of the Exchange, the qualified individual, or his or her dependent -
+
+(A) Experiences a decrease in household income;
+
+(B) Is newly determined eligible by the Exchange for advance payments of the premium tax credit; and
+
+(C) Had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for one or more days during the 60 days preceding the date of the financial change.
 
 (7) The qualified individual or enrollee, or his or her dependent, gains access to new QHPs as a result of a permanent move and -
 
@@ -122,4 +130,4 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.Link to an amendmen
 
 (2) Situations allowing for a rescission as specified in 45 CFR 147.128.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019]

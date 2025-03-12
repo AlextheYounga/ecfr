@@ -1,7 +1,5 @@
 ##### § 153.20 Definitions. #####
 
-Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
-
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Alternate risk adjustment methodology* means a risk adjustment methodology proposed by a State for use instead of a Federally certified risk adjustment methodology that has not yet been certified by HHS.
@@ -18,7 +16,7 @@ The following definitions apply to this part, unless the context indicates other
 
 *Coinsurance rate* means the rate at which the applicable reinsurance entity will reimburse the health insurance issuer for claims costs incurred for an enrolled individual's covered benefits in a benefit year after the attachment point and before the reinsurance cap.
 
-*Contributing entity* means -
+*Contributing entity* means—
 
 (1) A health insurance issuer; or
 
@@ -56,7 +54,7 @@ The following definitions apply to this part, unless the context indicates other
 
 *Reinsurance-eligible plan* means, for the purpose of the reinsurance program, any health insurance coverage offered in the individual market, except for grandfathered plans and health insurance coverage not required to submit reinsurance contributions under § 153.400(a).
 
-*Risk adjustment covered plan* means, for the purpose of the risk adjustment program, any health insurance coverage offered in the individual or small group market with the exception of grandfathered health plans, group health insurance coverage described in § 146.145(c) of this subchapter, individual health insurance coverage described in § 148.220 of this subchapter, and any plan determined not to be a risk adjustment covered plan in the applicable Federally certified risk adjustment methodology.
+*Risk adjustment covered plan* means, for the purpose of the risk adjustment program, any health insurance coverage offered in the individual or small group market with the exception of grandfathered health plans, group health insurance coverage described in § 146.145(b) of this subchapter, individual health insurance coverage described in § 148.220 of this subchapter, and any plan determined not to be a risk adjustment covered plan in the applicable Federally certified risk adjustment methodology.
 
 *Risk adjustment data* means all data that are used in a risk adjustment model, the calculation of plan average actuarial risk, or the calculation of payments and charges, or that are used for validation or audit of such data.
 
@@ -72,4 +70,4 @@ The following definitions apply to this part, unless the context indicates other
 
 *State* has the meaning given to the term in § 155.20 of this subchapter.
 
-[77 FR 17245, Mar. 23, 2012, as amended at 78 FR 15525, Mar. 11, 2013; 78 FR 54133, Aug. 30, 2013; 78 FR 65093, Oct. 30, 2013; 79 FR 13834, Mar. 11, 2014; 79 FR 36432, June 27, 2014; 81 FR 94174, Dec. 22, 2016]
+[77 FR 17245, Mar. 23, 2012, as amended at 78 FR 15525, Mar. 11, 2013; 78 FR 54133, Aug. 30, 2013; 78 FR 65093, Oct. 30, 2013; 79 FR 13834, Mar. 11, 2014; 79 FR 36432, June 27, 2014; 81 FR 94174, Dec. 22, 2016; 84 FR 17561, Apr. 25, 2019]

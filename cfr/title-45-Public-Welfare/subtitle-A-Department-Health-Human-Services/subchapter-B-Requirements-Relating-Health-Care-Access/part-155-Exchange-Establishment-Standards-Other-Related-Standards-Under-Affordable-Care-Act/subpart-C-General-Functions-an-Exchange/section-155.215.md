@@ -1,7 +1,5 @@
 ##### § 155.215 Standards applicable to Navigators and Non-Navigator Assistance Personnel carrying out consumer assistance functions under §§ 155.205(d) and (e) and 155.210 in a Federally-facilitated Exchange and to Non-Navigator Assistance Personnel funded through an Exchange Establishment Grant. #####
 
-Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
-
 (a) *Conflict-of-interest standards.* The following conflict-of-interest standards apply in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and to non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act:
 
 (1) *Conflict-of-interest standards for Navigators.* (i) All Navigator entities, including Navigator grant applicants, must submit to the Exchange a written attestation that the Navigator, including the Navigator's staff:
@@ -26,11 +24,11 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (C) Any existing or anticipated financial, business, or contractual relationships with one or more health insurance issuers or issuers of stop loss insurance, or subsidiaries of health insurance issuers or issuers of stop loss insurance.
 
-(2) *Conflict-of-interest standards for Non-Navigator assistance personnel carrying out consumer assistance functions under § 155.205(d) and (e).* All Non-Navigator entities or individuals authorized to carry out consumer assistance functions under § 155.205(d) and (e) must -
+(2) *Conflict-of-interest standards for Non-Navigator assistance personnel carrying out consumer assistance functions under § 155.205(d) and (e).* All Non-Navigator entities or individuals authorized to carry out consumer assistance functions under § 155.205(d) and (e) must—
 
 (i) Comply with the prohibitions on Navigator conduct set forth at § 155.210(d) and the duties of a Navigator set forth at § 155.210(e)(2).
 
-(ii) Submit to the Exchange a written attestation that the entity or individual -
+(ii) Submit to the Exchange a written attestation that the entity or individual—
 
 (A) Is not a health insurance issuer or issuer of stop loss insurance;
 
@@ -66,37 +64,7 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (v) Be prepared to serve both the individual Exchange and SHOP.
 
-(2) *Training module content standards.* All individuals who carry out the consumer assistance functions under §§ 155.205(d) and (e) and 155.210 must receive training in the following subjects:
-
-(i) QHPs (including the metal levels described at § 156.140(b) of this subchapter), and how they operate, including benefits covered, payment processes, rights and processes for appeals and grievances, and contacting individual plans;
-
-(ii) The range of insurance affordability programs, including Medicaid, the Children's Health Insurance Program (CHIP), and other public programs;
-
-(iii) The tax implications of enrollment decisions;
-
-(iv) Eligibility requirements for premium tax credits and cost-sharing reductions, and the impacts of premium tax credits on the cost of premiums;
-
-(v) Contact information for appropriate federal, state, and local agencies for consumers seeking additional information about specific coverage options not offered through the Exchange;
-
-(vi) Basic concepts about health insurance and the Exchange; the benefits of having health insurance and enrolling through an Exchange; and the individual responsibility to have health insurance;
-
-(vii) Eligibility and enrollment rules and procedures, including how to appeal an eligibility determination;
-
-(viii) Providing culturally and linguistically appropriate services;
-
-(ix) Ensuring physical and other accessibility for people with a full range of disabilities;
-
-(x) Understanding differences among health plans;
-
-(xi) Privacy and security standards applicable under § 155.260 for handling and safeguarding consumers' personally identifiable information;
-
-(xii) Working effectively with individuals with limited English proficiency, people with a full range of disabilities, and vulnerable, rural, and underserved populations;
-
-(xiii) Customer service standards;
-
-(xiv) Outreach and education methods and strategies; and
-
-(xv) Applicable administrative rules, processes and systems related to Exchanges and QHPs.
+(2) *Training module content standards.* All individuals who carry out the consumer assistance functions under §§ 155.205(d) and (e) and 155.210 must receive training consistent with standards established by the Exchange consistent with § 155.210(b)(2).
 
 (c) *Providing Culturally and Linguistically Appropriate Services (CLAS Standards).* The following standards will apply in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and to non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act. To ensure that information provided as part of any consumer assistance functions under § 155.205(d) and (e) or § 155.210 is culturally and linguistically appropriate to the needs of the population being served, including individuals with limited English proficiency as required by §§ 155.205(c)(2) and 155.210(e)(5), any entity or individual carrying out these functions must:
 
@@ -112,7 +80,7 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (6) Implement strategies to recruit, support, and promote a staff that is representative of the demographic characteristics, including primary languages spoken, of the communities in their service area.
 
-(d) *Standards ensuring access by persons with disabilities.* The following standards related to ensuring access by people with disabilities will apply in an Exchange operated by HHS during the exercise of its authority under § 155.105(f), and to non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act. Any entity or individual carrying out any consumer assistance functions under § 155.205(d) and (e) or § 155.210, and in accordance with § 155.205(c), must -
+(d) *Standards ensuring access by persons with disabilities.* The following standards related to ensuring access by people with disabilities will apply in an Exchange operated by HHS during the exercise of its authority under § 155.105(f), and to non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act. Any entity or individual carrying out any consumer assistance functions under § 155.205(d) and (e) or § 155.210, and in accordance with § 155.205(c), must—
 
 (1) Ensure that any consumer education materials, Web sites, or other tools utilized for consumer assistance purposes, are accessible to people with disabilities, including those with sensory impairments, such as visual or hearing impairments, and those with mental illness, addiction, and physical, intellectual, and developmental disabilities;
 
@@ -138,7 +106,7 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (4) Imposing standards that would, as applied or as implemented in a State, prevent the application of Federal requirements applicable to non-Navigator entities or individuals or applicable to the Exchange's implementation of the non-Navigator assistance personnel program.
 
-(g) *Consumer authorization.* All non-Navigator entities or individuals carrying out consumer assistance functions under § 155.205(d) and (e) in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and all non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act must establish procedures to ensure that applicants -
+(g) *Consumer authorization.* All non-Navigator entities or individuals carrying out consumer assistance functions under § 155.205(d) and (e) in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and all non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act must establish procedures to ensure that applicants—
 
 (1) Are informed, prior to receiving assistance, of the functions and responsibilities of non-Navigator assistance personnel, including that non-Navigator assistance personnel are not acting as tax advisers or attorneys when providing assistance as non-Navigator assistance personnel and cannot provide tax or legal advice within their capacity as non-Navigator assistance personnel;
 
@@ -150,4 +118,4 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (i) *Prohibition on compensation per enrollment.* Beginning November 15, 2014, Navigators and Non-Navigator assistance personnel carrying out consumer assistance functions under §§ 155.205(d) and (e) and 155.210, if operating in an Exchange operated by HHS during the exercise of its authority under § 155.105(f), are prohibited from providing compensation to individual Navigators or non-Navigator assistance personnel on a per-application, per-individual-assisted, or per-enrollment basis.
 
-[78 FR 42859, July 17, 2013, as amended at 79 FR 30344, May 27, 2014; 81 FR 12338, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018]
+[78 FR 42859, July 17, 2013, as amended at 79 FR 30344, May 27, 2014; 81 FR 12338, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 84 FR 17563, Apr. 25, 2019]

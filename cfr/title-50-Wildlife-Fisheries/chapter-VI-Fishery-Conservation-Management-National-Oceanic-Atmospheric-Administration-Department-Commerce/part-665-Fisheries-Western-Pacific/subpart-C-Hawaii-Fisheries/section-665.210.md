@@ -1,5 +1,7 @@
 ##### § 665.210 Hawaii restricted bottomfish species. #####
 
+Link to an amendment published at 84 FR 29397, June 24, 2019.
+
 *Hawaii restricted bottomfish species* means the following species:
 
 |Local name|    Common name     |      Scientific name       |

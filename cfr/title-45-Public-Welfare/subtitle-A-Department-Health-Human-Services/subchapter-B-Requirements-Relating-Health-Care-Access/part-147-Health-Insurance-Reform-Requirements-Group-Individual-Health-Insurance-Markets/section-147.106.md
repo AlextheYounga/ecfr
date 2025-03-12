@@ -1,8 +1,6 @@
 ##### § 147.106 Guaranteed renewability of coverage. #####
 
-Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
-
-(a) *General rule.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer offering health insurance coverage in the individual, small group, or large group market is required to renew or continue in force the coverage at the option of the plan sponsor or the individual, as applicable.
+(a) *General rule.* Subject to paragraphs (b) through (e) of this section, a health insurance issuer offering health insurance coverage in the individual, small group, or large group market is required to renew or continue in force the coverage at the option of the plan sponsor or the individual, as applicable.
 
 (b) *Exceptions.* An issuer may nonrenew or discontinue health insurance coverage offered in the group or individual market based only on one or more of the following:
 
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
 
 (3) In exercising the option to discontinue that product and in offering the option of coverage under paragraph (c)(2) of this section, the issuer acts uniformly without regard to the claims experience of those sponsors or individuals, as applicable, or any health status-related factor relating to any participants or beneficiaries covered or new participants or beneficiaries who may become eligible for such coverage.
 
-(d) *Discontinuing all coverage.* (1) An issuer may elect to discontinue offering all health insurance coverage in the individual, small group, or large group market, or all markets, in a State in accordance with applicable State law only if -
+(d) *Discontinuing all coverage.* (1) An issuer may elect to discontinue offering all health insurance coverage in the individual, small group, or large group market, or all markets, in a State in accordance with applicable State law only if—
 
 (i) The issuer provides notice in writing to the applicable state authority and to each plan sponsor or individual, as applicable, (and all participants and beneficiaries covered under the coverage) of the discontinuation at least 180 calendar days prior to the date the coverage will be discontinued; and
 
@@ -38,11 +36,11 @@ Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
 
 (2) An issuer that elects to discontinue offering all health insurance coverage in a market (or markets) in a state as described in this paragraph (d) may not issue coverage in the applicable market (or markets) and state involved during the 5-year period beginning on the date of discontinuation of the last coverage not renewed.
 
-(3) For purposes of this paragraph (d), subject to applicable State law, an issuer will not be considered to have discontinued offering all health insurance coverage in a market in a State if -
+(3) For purposes of this paragraph (d), subject to applicable State law, an issuer will not be considered to have discontinued offering all health insurance coverage in a market in a State if—
 
 (i) The issuer (in this paragraph referred to as the initial issuer) or, if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, offers and makes available in the applicable market in the State at least one product that is considered in accordance with § 144.103 of this subchapter to be the same product as a product the initial issuer had been offering in such market in such State; or
 
-(ii) The issuer -
+(ii) The issuer—
 
 (A) Offers and makes available at least one product (in paragraphs (d)(3)(ii)(A) through (C) of this section referred to as the new product) in the applicable market in the State, even if such product is not considered in accordance with § 144.103 of this subchapter to be the same product as a product the issuer had been offering in the applicable market in the State (in paragraphs (d)(3)(ii)(A) through (C) of this section referred to as the discontinued product);
 
@@ -84,7 +82,7 @@ Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
 
 (2) If an issuer in the small group market is renewing coverage as described in paragraph (a) of this section, or uniformly modifying coverage as described in paragraph (e) of this section, the issuer must provide to each plan sponsor written notice of the renewal at least 60 calendar days before the date of the coverage will be renewed in a form and manner specified by the Secretary.
 
-(g) *Notification of change of ownership.* If an issuer of a QHP, a plan otherwise subject to risk corridors, a risk adjustment covered plan, or a reinsurance-eligible plan experiences a change of ownership, as recognized by the State in which the plan is offered, the issuer must notify HHS in a manner specified by HHS, by the latest of -
+(g) *Notification of change of ownership.* If an issuer of a QHP, a plan otherwise subject to risk corridors, a risk adjustment covered plan, or a reinsurance-eligible plan experiences a change of ownership, as recognized by the State in which the plan is offered, the issuer must notify HHS in a manner specified by HHS, by the latest of—
 
 (1) The date the transaction is entered into; or
 
@@ -100,4 +98,4 @@ Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
 
 (k) *Grandfathered health plans.* This section does not apply to grandfathered health plans in accordance with § 147.140.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 79 FR 30339, May 27, 2014; 79 FR 42985, July 24, 2014; 79 FR 53004, Sept. 5, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 79 FR 30339, May 27, 2014; 79 FR 42985, July 24, 2014; 79 FR 53004, Sept. 5, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 84 FR 17561, Apr. 25, 2019]

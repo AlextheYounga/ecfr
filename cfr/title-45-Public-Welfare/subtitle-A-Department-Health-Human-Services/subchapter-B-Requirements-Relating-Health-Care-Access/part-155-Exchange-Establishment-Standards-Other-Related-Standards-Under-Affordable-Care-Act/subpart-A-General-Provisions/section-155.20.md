@@ -1,7 +1,5 @@
 ##### § 155.20 Definitions. #####
 
-Link to an amendment published at 84 FR 17562, Apr. 25, 2019.
-
 The following definitions apply to this part:
 
 *Advance payments of the premium tax credit* means payment of the tax credit authorized by 26 U.S.C. 36B and its implementing regulations, which are provided on an advance basis to an eligible individual enrolled in a QHP through an Exchange in accordance with section 1412 of the Affordable Care Act.
@@ -37,6 +35,12 @@ The following definitions apply to this part:
 *Cost sharing* means any expenditure required by or on behalf of an enrollee with respect to essential health benefits; such term includes deductibles, coinsurance, copayments, or similar charges, but excludes premiums, balance billing amounts for non-network providers, and spending for non-covered services.
 
 *Cost-sharing reductions* means reductions in cost sharing for an eligible individual enrolled in a silver level plan in the Exchange or for an individual who is an Indian enrolled in a QHP in the Exchange.
+
+*Direct enrollment entity* means an entity that an Exchange permits to assist consumers with direct enrollment in qualified health plans offered through the Exchange in a manner considered to be through the Exchange as authorized by § 155.220(c)(3), § 155.221, or § 156.1230 of this subchapter.
+
+*Direct enrollment entity application assister* means an employee, contractor, or agent of a direct enrollment entity who is not licensed as an agent, broker, or producer under State law and who assists individuals in the individual market with applying for a determination or redetermination of eligibility for coverage through the Exchange or for insurance affordability programs.
+
+*Direct enrollment technology provider* means a type of web-broker business entity that is not a licensed agent, broker, or producer under State law and has been engaged or created by, or is owned by an agent or broker, to provide technology services to facilitate participation in direct enrollment under §§ 155.220(c)(3) and 155.221.
 
 *Educated health care consumer* has the meaning given the term in section 1304(e) of the Affordable Care Act.
 
@@ -118,4 +122,6 @@ The following definitions apply to this part:
 
 *State* means each of the 50 States and the District of Columbia.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15532, Mar. 11, 2013; 78 FR 39523, July 1, 2013; 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12336, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016]
+*Web-broker* means an individual agent or broker, group of agents or brokers, or business entity registered with an Exchange under § 155.220(d)(1) that develops and hosts a non-Exchange website that interfaces with an Exchange to assist consumers with direct enrollment in qualified health plans offered through the Exchange as described in §§ 155.220(c)(3) and 155.221. The term also includes a direct enrollment technology provider.
+
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15532, Mar. 11, 2013; 78 FR 39523, July 1, 2013; 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12336, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 84 FR 17562, Apr. 25, 2019]

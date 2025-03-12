@@ -1,5 +1,7 @@
 ##### § 665.211 Total Allowable Catch (TAC) limit. #####
 
+Link to an amendment published at 84 FR 29397, June 24, 2019.
+
 (a) TAC limits will be set annually for the fishing year by NMFS, as recommended by the Council, based on the best available scientific, commercial, and other information, and taking into account the associated risk of overfishing.
 
 (b) The Regional Administrator shall publish a notice indicating the annual TAC limit in the Federal Register by August 31 of each year, and shall use other means to notify permit holders of the TAC limit for the year.

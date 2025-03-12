@@ -1,7 +1,5 @@
 ##### § 156.1230 Direct enrollment with the QHP issuer in a manner considered to be through the Exchange. #####
 
-Link to an amendment published at 84 FR 17568, Apr. 25, 2019.
-
 (a) A QHP issuer that is directly contacted by a potential applicant may, at the Exchange's option, enroll such applicant in a QHP in a manner that is considered through the Exchange. In order for the enrollment to be made directly with the issuer in a manner that is considered to be through the Exchange, the QHP issuer needs to comply with at least the following requirements:
 
 (1) *QHP issuer general requirements.* (i) The QHP issuer follows the enrollment process for qualified individuals consistent with § 156.265.
@@ -14,20 +12,12 @@ Link to an amendment published at 84 FR 17568, Apr. 25, 2019.
 
 (v) The QHP issuer's Web site allows applicants to select and attest to an advance payment of the premium tax credit amount, if applicable, in accordance with § 155.310(d)(2) of this subchapter.
 
-(2) *QHP issuer application assister eligibility application assistance requirements.* If permitted by the Exchange pursuant to § 155.415 of this subchapter, and to the extent permitted by State law, a QHP issuer may permit its issuer application assisters, as defined at § 155.20, to assist individuals in the individual market with applying for a determination or redetermination of eligibility for coverage through the Exchange and for insurance affordability programs, provided that such issuer ensures that each of its application assisters at least-
-
-(i) Receives training on QHP options and insurance affordability programs, eligibility, and benefits rules and regulations;
-
-(ii) Complies with the Exchange's privacy and security standards adopted consistent with § 155.260 of this subchapter; and
-
-(iii) Complies with applicable State law related to the sale, solicitation, and negotiation of health insurance products, including applicable State law related to agent, broker, and producer licensure; confidentiality; and conflicts of interest.
+(2) [Reserved]
 
 (b) *Direct enrollment in a Federally-facilitated Exchange.* The individual market Federally-facilitated Exchanges will permit issuers of QHPs in each Federally-facilitated Exchange to directly enroll applicants in a manner that is considered to be through the Exchange, pursuant to paragraph (a) of this section, to the extent permitted by applicable State law.
 
-(1) HHS may immediately suspend the QHP issuer's ability to transact information with the Exchange if HHS discovers circumstances that pose unacceptable risk to Exchange operations or Exchange information technology systems until the incident or breach is remedied or sufficiently mitigated to HHS's satisfaction.
+(1) The QHP issuer must comply with applicable requirements in § 155.221 of this subchapter.
 
-(2) The QHP issuer must engage a third-party entity in accordance with § 155.221 of this subchapter to demonstrate operational readiness and compliance with applicable requirements prior to the QHP issuer's internet website being used to complete a QHP selection.
+(2) The QHP issuer must provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment Web site that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, sex, gender identity, or sexual orientation.
 
-(3) The QHP issuer must provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment Web site that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, sex, gender identity, or sexual orientation.
-
-[78 FR 54143, Aug. 30, 2013, as amended at 81 FR 94182, Dec. 22, 2016; 83 FR 17070, Apr. 17, 2018]
+[78 FR 54143, Aug. 30, 2013, as amended at 81 FR 94182, Dec. 22, 2016; 83 FR 17070, Apr. 17, 2018; 84 FR 17568, Apr. 25, 2019]

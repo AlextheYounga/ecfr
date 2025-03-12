@@ -1,5 +1,7 @@
 ##### § 665.12 Definitions. #####
 
+Link to an amendment published at 84 FR 29396, June 24, 2019.
+
 In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this chapter, and subparts B through F of this part, general definitions for western Pacific fisheries have the following meanings:
 
 *American Samoa FEP* means the Fishery Ecosystem Plan for American Samoa, available from the Western Pacific Fishery Management Council or PIRO.

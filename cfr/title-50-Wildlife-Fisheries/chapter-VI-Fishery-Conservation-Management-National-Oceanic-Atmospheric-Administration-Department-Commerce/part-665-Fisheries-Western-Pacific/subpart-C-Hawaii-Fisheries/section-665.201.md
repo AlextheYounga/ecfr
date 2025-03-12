@@ -1,5 +1,7 @@
 ##### § 665.201 Definitions. #####
 
+Link to an amendment published at 84 FR 29396, June 24, 2019.
+
 As used in §§ 665.200 through 665.219:
 
 *Hawaii bottomfish ecosystem component species (Hawaii bottomfish ECS)* means those species that are not listed as Hawaii bottomfish MUS and that are identified as ECS in Table 4 of the Hawaii FEP.

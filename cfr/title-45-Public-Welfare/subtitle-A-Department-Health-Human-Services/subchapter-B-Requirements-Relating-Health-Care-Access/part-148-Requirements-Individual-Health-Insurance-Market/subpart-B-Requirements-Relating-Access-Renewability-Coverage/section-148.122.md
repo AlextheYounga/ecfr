@@ -1,10 +1,8 @@
 ##### § 148.122 Guaranteed renewability of individual health insurance coverage. #####
 
-Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
-
 (a) *Applicability.* This section applies to non-grandfathered and grandfathered health plans (within the meaning of § 147.140 of this subchapter) that are individual health insurance coverage. *See* also § 147.106 of this subchapter for requirements relating to guaranteed renewability of coverage with respect to non-grandfathered health plans.
 
-(b) *General rules.* (1) Except as provided in paragraph (c) of this section, an issuer must renew or continue in force the coverage at the option of the individual.
+(b) *General rules.* (1) Except as provided in paragraphs (c) through (g) of this section, an issuer must renew or continue in force the coverage at the option of the individual.
 
 (2) Medicare entitlement or enrollment is not a basis to nonrenew an individual's health insurance coverage in the individual market under the same policy or contract of insurance.
 
@@ -36,11 +34,11 @@ Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
 
 (3) Acts uniformly without regard to any health status-related factor of covered individuals or dependents of covered individuals who may become eligible for coverage.
 
-(4) For purposes of this paragraph (e), subject to applicable State law, an issuer will not be considered to have discontinued offering all health insurance coverage in a market in a State if -
+(4) For purposes of this paragraph (e), subject to applicable State law, an issuer will not be considered to have discontinued offering all health insurance coverage in a market in a State if—
 
 (i) The issuer (in this paragraph referred to as the initial issuer) or, if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, offers and makes available in the applicable market in the State at least one product that is considered in accordance with § 144.103 of this subchapter to be the same product as a product the initial issuer had been offering in such market in such State; or
 
-(ii) The issuer -
+(ii) The issuer—
 
 (A) Offers and makes available at least one product (in paragraphs (e)(4)(ii)(A) through (C) of this section referred to as the new product) in the applicable market in the State, even if such product is not considered in accordance with § 144.103 of this subchapter to be the same product as a product the issuer had been offering in the applicable market in the State (in paragraphs (e)(4)(ii)(A) through (C) of this section referred to as the discontinued product);
 
@@ -78,4 +76,4 @@ Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
 
 (i) *Notice of renewal of coverage.* If an issuer is renewing grandfathered coverage as described in paragraph (b) of this section, or uniformly modifying grandfathered coverage as described in paragraph (g) of this section, the issuer must provide to each individual written notice of the renewal at least 60 calendar days before the date the coverage will be renewed in a form and manner specified by the Secretary.
 
-(Approved by the Office of Management and Budget under control number 0938-0703)[62 FR 16998, Apr. 8, 1997; 62 FR 31696, June 10, 1997, as amended at 62 FR 35906, July 2, 1997; 79 FR 30340, May 27, 2014; 79 FR 42986, July 24, 2014; 79 FR 53004, Sept. 5, 2014; 81 FR 94174, Dec. 22, 2016]
+(Approved by the Office of Management and Budget under control number 0938-0703)[62 FR 16998, Apr. 8, 1997; 62 FR 31696, June 10, 1997, as amended at 62 FR 35906, July 2, 1997; 79 FR 30340, May 27, 2014; 79 FR 42986, July 24, 2014; 79 FR 53004, Sept. 5, 2014; 81 FR 94174, Dec. 22, 2016; 84 FR 17561, Apr. 25, 2019]

@@ -1,8 +1,10 @@
 ##### § 155.205 Consumer assistance tools and programs of an Exchange. #####
 
-Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
+(a) *Call center.* The Exchange must provide for operation of a toll-free call center that addresses the needs of consumers requesting assistance and meets the requirements outlined in paragraphs (c)(1), (2)(i), and (3) of this section, unless it is an Exchange described in paragraphs (a)(1) or (2) of this section, in which case, the Exchange must provide at a minimum a toll-free telephone hotline that includes the capability to provide information to consumers about eligibility and enrollment processes, and to appropriately direct consumers to the applicable Exchange website and other applicable resources.
 
-(a) *Call center.* The Exchange must provide for operation of a toll-free call center that addresses the needs of consumers requesting assistance and meets the requirements outlined in paragraphs (c)(1), (c)(2)(i), and (c)(3) of this section, unless it enters into a Federal platform agreement through which it relies on HHS to carry out call center functions, in which case the Exchange must provide at a minimum a toll-free telephone hotline to respond to requests for assistance and appropriately directs consumers to Federal platform services to apply for, and enroll in, Exchange coverage.
+(1) An Exchange described in this paragraph is one that enters into a Federal platform agreement through which it relies on HHS to operate its eligibility and enrollment functions, as applicable.
+
+(2) An Exchange described in this paragraph is a SHOP that does not provide for enrollment in SHOP coverage through an online SHOP enrollment platform, but rather provides for enrollment through SHOP issuers or agents and brokers registered with the Exchange.
 
 (b) *Internet Web site.* The Exchange must maintain an up-to-date Internet Web site that meets the requirements outlined in paragraph (c) of this section and:
 
@@ -82,4 +84,4 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (e) *Outreach and education.* The Exchange must conduct outreach and education activities that meet the standards in paragraph (c) of this section to educate consumers about the Exchange and insurance affordability programs to encourage participation.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12337, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12337, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019]

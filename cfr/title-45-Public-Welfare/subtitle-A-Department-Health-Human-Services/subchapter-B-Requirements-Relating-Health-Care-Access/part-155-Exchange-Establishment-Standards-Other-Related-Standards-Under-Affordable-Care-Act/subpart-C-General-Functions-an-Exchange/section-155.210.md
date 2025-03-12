@@ -1,32 +1,20 @@
 ##### § 155.210 Navigator program standards. #####
 
-Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
-
 (a) *General requirements.* The Exchange must establish a Navigator program consistent with this section through which it awards grants to eligible public or private entities or individuals described in paragraph (c) of this section.
 
 (b) *Standards.* The Exchange must develop and publicly disseminate -
 
 (1) A set of standards, to be met by all entities and individuals to be awarded Navigator grants, designed to prevent, minimize and mitigate any conflicts of interest, financial or otherwise, that may exist for an entity or individuals to be awarded a Navigator grant and to ensure that all entities and individuals carrying out Navigator functions have appropriate integrity; and
 
-(2) A set of training standards, to be met by all entities and individuals carrying out Navigator functions under the terms of a Navigator grant, to ensure expertise in:
+(2) A set of training standards, to be met by all entities and individuals carrying out Navigator functions under the terms of a Navigator grant, to ensure the entities and individuals are qualified to engage in Navigator activities, including training standards on the following topics:
 
 (i) The needs of underserved and vulnerable populations;
 
 (ii) Eligibility and enrollment rules and procedures;
 
-(iii) The range of QHP options and insurance affordability programs;
+(iii) The range of QHP options and insurance affordability programs; and
 
-(iv) The privacy and security standards applicable under § 155.260;
-
-(v) In an Exchange that requires Navigators to provide the assistance specified in paragraph (e)(9)(i) of this section, the process of filing Exchange eligibility appeals;
-
-(vi) In an Exchange that requires Navigators to provide the assistance specified in paragraph (e)(9)(ii) of this section, general concepts regarding exemptions from the requirement to maintain minimum essential coverage and from the individual shared responsibility payment, including the application process for exemptions granted through the Exchange, and IRS resources on exemptions;
-
-(vii) In an Exchange that requires Navigators to provide the assistance specified in paragraph (e)(9)(iii) of this section, the Exchange-related components of the premium tax credit reconciliation process and IRS resources on this process;
-
-(viii) In an Exchange that requires Navigators to provide the assistance specified in paragraph (e)(9)(iv) of this section, basic concepts and rights related to health coverage and how to use it; and
-
-(ix) In an Exchange that requires Navigators to provide the assistance specified in paragraph (e)(9)(v) of this section, providing referrals to licensed tax advisers, tax preparers, or other resources for assistance with tax preparation and tax advice related to consumer questions about the Exchange application and enrollment process, exemptions from the requirement to maintain minimum essential coverage and from the individual shared responsibility payment, and premium tax credit reconciliations.
+(iv) The privacy and security standards applicable under § 155.260.
 
 (c) *Entities and individuals eligible to be a Navigator.* (1) To receive a Navigator grant, an entity or individual must -
 
@@ -116,7 +104,7 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (ii) [Reserved]
 
-(9) The Exchange may require or authorize Navigators to provide information and assistance with any of the following topics. In Federally-facilitated Exchanges, Navigators are authorized to provide information and assistance with any of the following topics and will be required to provide information and assistance with all of the following topics under Navigator grants awarded in 2018 or any later year.
+(9) The Exchange may require or authorize Navigators to provide information and assistance with any of the following topics. In Federally-facilitated Exchanges, Navigators are required to provide information and assistance with all of the following topics under Navigator grants awarded in 2018, and will be authorized to provide information and assistance with all of the following topics under Navigator grants awarded in 2019 or any later year.
 
 (i) Understanding the process of filing Exchange eligibility appeals;
 
@@ -130,4 +118,4 @@ Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
 
 (f) *Funding for Navigator grants.* Funding for Navigator grants may not be from Federal funds received by the State to establish the Exchange.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 79 FR 30344, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12337, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 79 FR 30344, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12337, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 84 FR 17563, Apr. 25, 2019]

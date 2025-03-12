@@ -1,5 +1,5 @@
-##### 808.603 Purchase priorities. #####
+##### § 808.603 Purchasing priorities. #####
 
-Contracting officers may purchase supplies and services produced or provided by FPI from eligible service-disabled veteran-owned small businesses and veteran-owned small businesses, in accordance with procedures set forth in subpart 819.70, without seeking a waiver from FPI, in accordance with 38 U.S.C. 8128, Small business concerns owned and controlled by veterans: Contracting priority.
+A waiver from FPI is not needed when comparable supplies and services are procured in accordance with subpart 819.70.
 
-[74 FR 64630, Dec. 8, 2009]
+[84 FR 29391, June 24, 2019]Effective Date Note:At 84 FR 29391, June 24, 2019, § 808.603 was revised, effective June 24, 2019 through July 1, 2021.

@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 84 FR 23978, May 23, 2019.
-
 (a) *Remittances.* (1) Fees shall be submitted with any formal application or petition prescribed in this chapter in the amount prescribed by law or regulation. Except for fees remitted directly to the Board of Immigration Appeals pursuant to the provisions of 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any Department of Justice Executive Office for Immigration Review proceeding shall be paid to, and accepted by, any USCIS office authorized to accept fees. The immigration court does not collect fees. Payment of any fee under this section does not constitute filing of the document with the Board of Immigration Appeals or with the Immigration Court. The Department of Homeland Security shall return to the payer, at the time of payment, a receipt for any fee paid. The USCIS shall also return to the payer any documents, submitted with the fee, relating to any Immigration Court proceeding.
 
 (2) Remittances must be drawn on a bank or other institution located in the United States and be payable in United States currency. Remittances must be made payable in accordance with the guidance specific to the applicable U.S. Government office when submitting to a Department of Homeland Security office located outside of the United States. Remittances to the Board of Immigration Appeals must be made payable to the “United States Department of Justice,” in accordance with 8 CFR 1003.8. If a remittance in payment of a fee or any other matter is not honored by the bank or financial institution on which it is drawn:
@@ -216,7 +214,7 @@ Link to an amendment published at 84 FR 23978, May 23, 2019.
 
 (A) DCL System Costs Fee. For use of a Dedicated Commuter Lane (DCL) located at specific ports-of-entry of the United States by an approved participant in a designated vehicle: $80.00, with the maximum amount of $160.00 payable by a family (husband, wife, and minor children under 18 years of age). Payable following approval of the application but before use of the DCL by each participant. This fee is non-refundable, but may be waived by DHS. If a participant wishes to enroll more than one vehicle for use in the PORTPASS system, he or she will be assessed with an additional fee of: $42 for each additional vehicle enrolled.
 
-(B) *Form I-17.* For filing a petition for school certification: $1,700, plus a site visit fee of $655 for each location listed on the form.
+(B) *Petition for Approval of School for Attendance by Nonimmigrant Student (Form I-17).* For filing a petition for school certification: $3,000, plus a site visit fee of $655 for each location required to be listed on the form. For filing a petition for school recertification: $1,250, plus a site visit fee of $655 for each new location required to be listed on the form.
 
 (C) *Form I-68.* For application for issuance of the Canadian Border Boat Landing Permit under section 235 of the Act: $16.00. The maximum amount payable by a family (husband, wife, unmarried children under 21 years of age, and parents of either husband or wife) shall be $32.00.
 
@@ -228,7 +226,15 @@ Link to an amendment published at 84 FR 23978, May 23, 2019.
 
 (G) *Form I-823.* For application to a PORTPASS program under section 286 of the Act - $25.00, with the maximum amount of $50.00 payable by a family (husband, wife, and minor children under 18 years of age). The application fee may be waived by the district director. If fingerprints are required, the inspector will inform the applicant of the current Federal Bureau of Investigation fee for conducting fingerprint checks prior to accepting the application fee. Both the application fee (if not waived) and the fingerprint fee must be paid to CBP before the application will be processed. The fingerprint fee may not be waived. For replacement of PORTPASS documentation during the participation period: $25.00.
 
-(H) *Form I-901.* For remittance of the I-901 SEVIS fee for F and M students: $200. For remittance of the I-901 SEVIS fee for certain J exchange visitors: $180. For remittance of the I-901 SEVIS fee for J-1 au pairs, camp counselors, and participants in a summer work/travel program: $35. There is no I-901 SEVIS fee remittance obligation for J exchange visitors in federally-funded programs with a program identifier designation prefix that begins with G-1, G-2, G-3 or G-7.
+(H) *Fee Remittance for F, J, and M Nonimmigrants (Form I-901).* The fee for Form I-901 is:
+
+(*1*) For F and M students: $350.
+
+(*2*) For J-1 au pairs, camp counselors, and participants in a summer work or travel program: $35.
+
+(*3*) For all other J exchange visitors (except those participating in a program sponsored by the Federal Government): $220.
+
+(*4*) There is no Form I-901 fee for J exchange visitors in federally funded programs with a program identifier designation prefix that begins with G-1, G-2, G-3, or G-7.
 
 (I) *Special statistical tabulations* - a charge will be made to cover the cost of the work involved: DHS Cost.
 
@@ -241,6 +247,8 @@ Link to an amendment published at 84 FR 23978, May 23, 2019.
 (M) *Global Entry.* For filing an application for Global Entry - $100.
 
 (N) *U.S. Asia-Pacific Economic Cooperation (APEC) Business Travel Card.* For filing an application for the card - $70.
+
+(O) *Notice of Appeal or Motion (Form I-290B) filed with ICE SEVP.* For a Form I-290B filed with the Student and Exchange Visitor Program (SEVP): $675.
 
 (2) *Fees for copies of records.* Fees for production or disclosure of records under 5 U.S.C. 552 shall be charged in accordance with the regulations of the Department of Homeland Security at 6 CFR 5.11.
 

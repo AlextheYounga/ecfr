@@ -1,7 +1,5 @@
 ##### § 155.605 Eligibility standards for exemptions. #####
 
-Link to an amendment published at 84 FR 17567, Apr. 25, 2019.
-
 (a) *Eligibility for an exemption through the Exchange.* Except as specified in paragraph (g) of this section, the Exchange must determine an applicant eligible for and issue a certificate of exemption for any month if the Exchange determines that he or she meets the requirements for one or more of the categories of exemptions described in this section for at least one day of the month.
 
 (b) *Duration of single exemption.* Except as specified in paragraphs (c)(2) and (d) of this section, the Exchange may provide a certificate of exemption only for the calendar year in which an applicant submitted an application for such exemption.
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.
 
 (3) The Exchange must make an exemption in this category available prospectively or retrospectively.
 
-(d) *Hardship* - (1) *General.* The Exchange must grant a hardship exemption to an applicant eligible for an exemption for at least the month before, the month or months during which, and the month after a specific event or circumstance, if the Exchange determines that:
+(d) *Hardship*—(1) *General.* The Exchange must grant a hardship exemption to an applicant eligible for an exemption for at least the month before, the month or months during which, and the month after a specific event or circumstance, if the Exchange determines that:
 
 (i) He or she experienced financial or domestic circumstances, including an unexpected natural or human-caused event, such that he or she had a significant, unexpected increase in essential expenses that prevented him or her from obtaining coverage under a qualified health plan;
 
@@ -22,13 +20,13 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.
 
 (iii) He or she has experienced other circumstances that prevented him or her from obtaining coverage under a qualified health plan.
 
-(2) *Lack of affordable coverage based on projected income.* The Exchange must determine an applicant eligible for an exemption for a month or months during which he or she, or another individual the applicant attests will be included in the applicant's family, as defined in 26 CFR 1.36B-1(d), is unable to afford coverage in accordance with the standards specified in section 5000A(e)(1) of the Code, provided that -
+(2) *Lack of affordable coverage based on projected income.* The Exchange must determine an applicant eligible for an exemption for a month or months during which he or she, or another individual the applicant attests will be included in the applicant's family, as defined in 26 CFR 1.36B-1(d), is unable to afford coverage in accordance with the standards specified in section 5000A(e)(1) of the Code, provided that—
 
 (i) Eligibility for this exemption is based on projected annual household income;
 
 (ii) An eligible employer-sponsored plan is only considered under paragraphs (d)(4)(iii) and (iv) of this section if it meets the minimum value standard described in § 156.145 of this subchapter.
 
-(iii) For an individual who is eligible to purchase coverage under an eligible employer-sponsored plan, the Exchange determines the required contribution for coverage such that -
+(iii) For an individual who is eligible to purchase coverage under an eligible employer-sponsored plan, the Exchange determines the required contribution for coverage such that—
 
 (A) An individual who uses tobacco is treated as not earning any premium incentive related to participation in a wellness program designed to prevent or reduce tobacco use that is offered by an eligible employer-sponsored plan;
 
@@ -48,12 +46,14 @@ Link to an amendment published at 84 FR 17567, Apr. 25, 2019.
 
 (e) *Eligibility for an exemption through the IRS.* Hardship exemptions in this paragraph (e) can be claimed on a Federal income tax return without obtaining an exemption certificate number. The IRS may allow an individual to claim the hardship exemptions described in this paragraph (e) without requiring an exemption certificate number from the Exchange.
 
-(1) *Filing threshold.* The IRS may allow an applicant to claim an exemption specified in HHS Guidance published September 18, 2014, entitled, “Shared Responsibility Guidance - Filing Threshold Hardship Exemption,” and in IRS Notice 2014-76, section B (see *https://www.cms.gov/cciio/*).
+(1) *Filing threshold.* The IRS may allow an applicant to claim an exemption specified in HHS Guidance published September 18, 2014, entitled, “Shared Responsibility Guidance—Filing Threshold Hardship Exemption,” and in IRS Notice 2014-76, section B (see *https://www.cms.gov/cciio/*).
 
 (2) *Self-only coverage in an eligible employer-sponsored plan.* The IRS may allow an applicant to claim an exemption specified in HHS Guidance published November 21, 2014, entitled, “Guidance on Hardship Exemptions for Persons Meeting Certain Criteria,” and in IRS Notice 2014-76, section A (see *https://www.cms.gov/cciio/*).
 
-(3) *Eligible for services through an Indian health care provider.* The IRS may allow an applicant to claim the exemption specified in HHS Guidance published September 18, 2014, entitled, “Shared Responsibility Guidance - Exemption for Individuals Eligible for Services through an Indian Health Care Provider,” and in IRS Notice 2014-76, section E (see *https://www.cms.gov/cciio/*).
+(3) *Eligible for services through an Indian health care provider.* The IRS may allow an applicant to claim the exemption specified in HHS Guidance published September 18, 2014, entitled, “Shared Responsibility Guidance—Exemption for Individuals Eligible for Services through an Indian Health Care Provider,” and in IRS Notice 2014-76, section E (see *https://www.cms.gov/cciio/*).
 
 (4) *Ineligible for Medicaid based on a State's decision not to expand.* The IRS may allow an applicant to claim the exemption specified in HHS Guidance published November 21, 2014, entitled, “Guidance on Hardship Exemptions for Persons Meeting Certain Criteria,” and in IRS Notice 2014-76, section F (see *https://www.cms.gov/cciio/*).
 
-[78 FR 39523, July 1, 2013, as amended at 79 FR 30349, May 27, 2014; 80 FR 10868, Feb. 27, 2015; 81 FR 12345, Mar. 8, 2016; 83 FR 17063, Apr. 17, 2018]
+(5) *General hardship.* The IRS may allow an applicant to claim the exemption specified in HHS Guidance published September 12, 2018, entitled, “Guidance on Claiming a Hardship Exemption through the Internal Revenue Service (IRS)” (see *https://www.cms.gov/CCIIO/Resources/Regulations-and-Guidance/Downloads/Authority-to-Grant-HS-Exemptions-2018-Final-91218.pdf*) and in IRS Notice 2019-05 (see *https://www.irs.gov/pub/irs-drop/n-19-05.pdf*), for the 2018 tax year.
+
+[78 FR 39523, July 1, 2013, as amended at 79 FR 30349, May 27, 2014; 80 FR 10868, Feb. 27, 2015; 81 FR 12345, Mar. 8, 2016; 83 FR 17063, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019]
