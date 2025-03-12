@@ -1,5 +1,7 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
+Link to an amendment published at 83 FR 31464, July 6, 2018.
+
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.

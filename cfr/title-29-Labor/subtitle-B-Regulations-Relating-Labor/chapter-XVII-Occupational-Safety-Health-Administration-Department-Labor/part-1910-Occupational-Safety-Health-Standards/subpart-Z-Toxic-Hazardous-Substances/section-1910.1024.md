@@ -1,7 +1,5 @@
 ##### § 1910.1024 Beryllium. #####
 
-Link to an amendment published at 83 FR 19949, May 7, 2018.
-
 (a) *Scope and application.* (1) This standard applies to occupational exposure to beryllium in all forms, compounds, and mixtures in general industry, except those articles and materials exempted by paragraphs (a)(2) and (a)(3) of this standard.
 
 (2) This standard does not apply to articles, as defined in the Hazard Communication standard (HCS) (§ 1910.1200(c)), that contain beryllium and that the employer does not process.
@@ -18,7 +16,11 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 *Beryllium lymphocyte proliferation test (BeLPT)* means the measurement of blood lymphocyte proliferation in a laboratory test when lymphocytes are challenged with a soluble beryllium salt.
 
-*Beryllium work area* means any work area containing a process or operation that can release beryllium where employees are, or can reasonably be expected to be, exposed to airborne beryllium at any level or where there is the potential for dermal contact with beryllium.
+*Beryllium work area* means any work area:
+
+(i) Containing a process or operation that can release beryllium and that involves material that contains at least 0.1 percent beryllium by weight; and
+
+(ii) Where employees are, or can reasonably be expected to be, exposed to airborne beryllium at any level or where there is the potential for dermal contact with beryllium.
 
 *CBD diagnostic center* means a medical diagnostic center that has an on-site pulmonary specialist and on-site facilities to perform a clinical evaluation for the presence of chronic beryllium disease (CBD). This evaluation must include pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. The CBD diagnostic center must also have the capacity to transfer BAL samples to a laboratory for appropriate diagnostic testing within 24 hours. The on-site pulmonary specialist must be able to interpret the biopsy pathology and the BAL diagnostic test results.
 
@@ -26,9 +28,19 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 *Confirmed positive* means the person tested has beryllium sensitization, as indicated by two abnormal BeLPT test results, an abnormal and a borderline test result, or three borderline test results. It also means the result of a more reliable and accurate test indicating a person has been identified as having beryllium sensitization.
 
+*Contaminated with beryllium and beryllium-contaminated* mean contaminated with dust, fumes, mists, or solutions containing beryllium in concentrations greater than or equal to 0.1 percent by weight.
+
+*Dermal contact with beryllium* means skin exposure to:
+
+(i) Soluble beryllium compounds containing beryllium in concentrations greater than or equal to 0.1 percent by weight;
+
+(ii) Solutions containing beryllium in concentrations greater than or equal to 0.1 percent by weight; or
+
+(iii) Dust, fumes, or mists containing beryllium in concentrations greater than or equal to 0.1 percent by weight.
+
 *Director* means the Director of the National Institute for Occupational Safety and Health (NIOSH), U.S. Department of Health and Human Services, or designee.
 
-*Emergency* means any uncontrolled release of airborne beryllium.
+*Emergency* means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment, which may or does result in an uncontrolled and unintended release of airborne beryllium that presents a significant hazard.
 
 *High-efficiency particulate air (HEPA) filter* means a filter that is at least 99.97 percent efficient in removing particles 0.3 micrometers in diameter.
 
@@ -130,7 +142,9 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 (iii) The employer must make a copy of the written exposure control plan accessible to each employee who is, or can reasonably be expected to be, exposed to airborne beryllium in accordance with OSHA's Access to Employee Exposure and Medical Records (Records Access) standard (§ 1910.1020(e)).
 
-(2) *Engineering and work practice controls.* (i) For each operation in a beryllium work area that releases airborne beryllium, the employer must ensure that at least one of the following is in place to reduce airborne exposure:
+(2) *Engineering and work practice controls.* (i) The employer must use engineering and work practice controls to reduce and maintain employee airborne exposure to beryllium to or below the PEL and STEL, unless the employer can demonstrate that such controls are not feasible. Wherever the employer demonstrates that it is not feasible to reduce airborne exposure to or below the PELs with engineering and work practice controls, the employer must implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls using respiratory protection in accordance with paragraph (g) of this standard.
+
+(ii) For each operation in a beryllium work area that releases airborne beryllium, the employer must ensure that at least one of the following is in place to reduce airborne exposure:
 
 (A) Material and/or process substitution;
 
@@ -140,15 +154,11 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 (D) Process control, such as wet methods and automation.
 
-(ii) An employer is exempt from using the controls listed in paragraph (f)(2)(i) of this standard to the extent that:
+(iii) An employer is exempt from using the controls listed in paragraph (f)(2)(ii) of this standard to the extent that:
 
 (A) The employer can establish that such controls are not feasible; or
 
 (B) The employer can demonstrate that airborne exposure is below the action level, using no fewer than two representative personal breathing zone samples taken at least 7 days apart, for each affected operation.
-
-(iii) If airborne exposure exceeds the TWA PEL or STEL after implementing the control(s) required by paragraph (f)(2)(i) of this standard, the employer must implement additional or enhanced engineering and work practice controls to reduce airborne exposure to or below the exposure limit(s) exceeded.
-
-(iv) Wherever the employer demonstrates that it is not feasible to reduce airborne exposure to or below the PELs by the engineering and work practice controls required by paragraphs (f)(2)(i) and (f)(2)(iii) of this standard, the employer must implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls by using respiratory protection in accordance with paragraph (g) of this standard.
 
 (3) *Prohibition of rotation.* The employer must not rotate employees to different jobs to achieve compliance with the PELs.
 
@@ -192,7 +202,7 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 (3) *Cleaning and replacement.* (i) The employer must ensure that all reusable personal protective clothing and equipment required by this standard is cleaned, laundered, repaired, and replaced as needed to maintain its effectiveness.
 
-(ii) The employer must ensure that beryllium is not removed from personal protective clothing and equipment by blowing, shaking or any other means that disperses beryllium into the air.
+(ii) The employer must ensure that beryllium is not removed from beryllium-contaminated personal protective clothing and equipment by blowing, shaking, or any other means that disperses beryllium into the air.
 
 (iii) The employer must inform in writing the persons or the business entities who launder, clean or repair the personal protective clothing or equipment required by this standard of the potentially harmful effects of airborne exposure to and dermal contact with beryllium and that the personal protective clothing and equipment must be handled in accordance with this standard.
 
@@ -208,31 +218,33 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 (A) Airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL; and
 
-(B) Beryllium can reasonably be expected to contaminate employees' hair or body parts other than hands, face, and neck.
+(B) Employee's hair or body parts other than hands, face, and neck can reasonably be expected to become contaminated with beryllium.
 
 (ii) Employers required to provide showers under paragraph (i)(3)(i) of this standard must ensure that each employee showers at the end of the work shift or work activity if:
 
 (A) The employee reasonably could have had airborne exposure above the TWA PEL or STEL; and
 
-(B) Beryllium could reasonably have contaminated the employee's hair or body parts other than hands, face, and neck.
+(B) The employee's hair or body parts other than hands, face, and neck could reasonably have become contaminated with beryllium.
 
 (4) *Eating and drinking areas.* Wherever the employer allows employees to consume food or beverages at a worksite where beryllium is present, the employer must ensure that:
 
-(i) Surfaces in eating and drinking areas are as free as practicable of beryllium;
+(i) Beryllium-contaminated surfaces in eating and drinking areas are as free as practicable of beryllium;
 
-(ii) No employees enter any eating or drinking area with personal protective clothing or equipment unless, prior to entry, surface beryllium has been removed from the clothing or equipment by methods that do not disperse beryllium into the air or onto an employee's body; and
+(ii) No employees enter any eating or drinking area with beryllium-contaminated personal protective clothing or equipment unless, prior to entry, surface beryllium has been removed from the clothing or equipment by methods that do not disperse beryllium into the air or onto an employee's body; and
 
 (iii) Eating and drinking facilities provided by the employer are in accordance with the Sanitation standard (§ 1910.141).
 
 (5) *Prohibited activities.* The employer must ensure that no employees eat, drink, smoke, chew tobacco or gum, or apply cosmetics in regulated areas.
 
-(j) *Housekeeping* - (1) *General.* (i) The employer must maintain all surfaces in beryllium work areas as free as practicable of beryllium and in accordance with the written exposure control plan required under paragraph (f)(1) and the cleaning methods required under paragraph (j)(2) of this standard; and
+(j) *Housekeeping* - (1) *General.* (i) The employer must maintain all surfaces in beryllium work areas and regulated areas as free as practicable of beryllium and in accordance with the written exposure control plan required under paragraph (f)(1) and the cleaning methods required under paragraph (j)(2) of this standard; and
 
 (ii) The employer must ensure that all spills and emergency releases of beryllium are cleaned up promptly and in accordance with the written exposure control plan required under paragraph (f)(1) and the cleaning methods required under paragraph (j)(2) of this standard.
 
-(2) *Cleaning methods.* (i) The employer must ensure that surfaces in beryllium work areas are cleaned by HEPA-filtered vacuuming or other methods that minimize the likelihood and level of airborne exposure.
+(2) *Cleaning methods.*
 
-(ii) The employer must not allow dry sweeping or brushing for cleaning surfaces in beryllium work areas unless HEPA-filtered vacuuming or other methods that minimize the likelihood and level of airborne exposure are not safe or effective.
+(i) The employer must ensure that surfaces in beryllium work areas and regulated areas are cleaned by HEPA-filtered vacuuming or other methods that minimize the likelihood and level of airborne exposure.
+
+(ii) The employer must not allow dry sweeping or brushing for cleaning surfaces in beryllium work areas or regulated areas unless HEPA-filtered vacuuming or other methods that minimize the likelihood and level of airborne exposure are not safe or effective.
 
 (iii) The employer must not allow the use of compressed air for cleaning beryllium-contaminated surfaces unless the compressed air is used in conjunction with a ventilation system designed to capture the particulates made airborne by the use of compressed air.
 
@@ -240,11 +252,11 @@ Link to an amendment published at 83 FR 19949, May 7, 2018.
 
 (v) The employer must ensure that cleaning equipment is handled and maintained in a manner that minimizes the likelihood and level of airborne exposure and the re-entrainment of airborne beryllium in the workplace.
 
-(3) *Disposal.* The employer must ensure that:
+(3) *Disposal and recycling.* For materials that contain beryllium in concentrations of 0.1 percent by weight or more or are contaminated with beryllium, the employer must ensure that:
 
-(i) Materials designated for disposal that contain or are contaminated with beryllium are disposed of in sealed, impermeable enclosures, such as bags or containers, that are labeled in accordance with paragraph (m)(3) of this standard; and
+(i) Materials designated for disposal are disposed of in sealed, impermeable enclosures, such as bags or containers, that are labeled in accordance with paragraph (m)(3) of this standard; and
 
-(ii) Materials designated for recycling that contain or are contaminated with beryllium are cleaned to be as free as practicable of surface beryllium contamination and labeled in accordance with paragraph (m)(3) of this standard, or placed in sealed, impermeable enclosures, such as bags or containers, that are labeled in accordance with paragraph (m)(3) of this standard.
+(ii) Materials designated for recycling are cleaned to be as free as practicable of surface beryllium contamination and labeled in accordance with paragraph (m)(3) of this standard, or place in sealed, impermeable enclosures, such as bags or containers, that are labeled in accordance with paragraph (m)(3) of this standard.
 
 (k) *Medical surveillance* - (1) *General.* (i) The employer must make medical surveillance required by this paragraph available at no cost to the employee, and at a reasonable time and place, to each employee:
 
@@ -510,4 +522,4 @@ Table A.1 - Exposure Control Recommendations
 
 \* All LEV specifications should be in accordance with the ACGIH® Publication No. 2094, “Industrial Ventilation - A Manual of Recommended Practice” wherever applicable.
 
-[82 FR 2736, Jan. 9, 2017]
+[82 FR 2736, Jan. 9, 2017, as amended at 83 FR 19948, May 7, 2018]

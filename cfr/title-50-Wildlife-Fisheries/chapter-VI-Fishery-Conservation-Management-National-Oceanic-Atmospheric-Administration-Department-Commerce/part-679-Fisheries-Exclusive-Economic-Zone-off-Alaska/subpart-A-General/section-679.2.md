@@ -1,6 +1,6 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 83 FR 30532, June 29, 2018.
+Link to an amendment published at 83 FR 30532, June 29, 2018.Link to an amendment published at 83 FR 31464, July 6, 2018.
 
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 

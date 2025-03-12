@@ -20,4 +20,4 @@
 
 (c) An inspection authorization holder who does not complete one of the activities set forth in § 65.93(a) (1) through (5) of this section by March 31 of the first year of the 2-year inspection authorization period may not exercise inspection authorization privileges after March 31 of the first year. The inspection authorization holder may resume exercising inspection authorization privileges after passing an oral test from an FAA inspector to determine that the applicant's knowledge of the applicable regulations and standards is current. An inspection authorization holder who passes this oral test is deemed to have completed the requirements of § 65.93(a) (1) through (5) by March 31 of the first year.
 
-[Doc. No. FAA-2007-27108, 72 FR 4404, Jan. 30, 2007, as amended by Docket FAA-2018-0119, Amdt. 65-56, 83 FR 9171, Mar. 5, 2018]
+[Doc. No. FAA-2007-27108, 72 FR 4404, Jan. 30, 2007, as amended by Docket FAA-2018-0119, Amdt. 65-57A, 83 FR 9171, Mar. 5, 2018]

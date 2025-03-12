@@ -1,5 +1,8 @@
 ##### § 930.162 Exemptions. #####
 
+Link to an amendment published at 83 FR
+31447, July 6, 2018.
+
 (a) *General.* Tart cherries which are used for the purpose of new product development, for new market development and market expansion, for the development of export markets, for experimental purposes, for export to countries other than Canada, and Mexico, or which are donated to charitable organizations may be granted an exemption by the Board and will be exempt from §§ 930.41, 930.44, 930.51, 930.53, and §§ 930.55 through 930.57, subject to the following terms and conditions. Any information received of a confidential and/or proprietary nature included in this application will be protected from disclosure pursuant to § 930.73 of the order.
 
 (b) *Definitions.* The terms in paragraph (a) of this section shall have the following meaning:

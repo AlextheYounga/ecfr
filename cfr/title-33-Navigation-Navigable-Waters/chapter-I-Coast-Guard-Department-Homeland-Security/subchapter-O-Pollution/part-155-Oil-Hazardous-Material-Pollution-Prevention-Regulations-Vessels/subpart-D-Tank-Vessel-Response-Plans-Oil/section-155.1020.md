@@ -1,7 +1,5 @@
 ##### § 155.1020 Definitions. #####
 
-Link to an amendment published at 83 FR 26220, June 6, 2018.
-
 Except as otherwise defined in this section, the definitions in § 155.110 apply to this subpart and subparts F and G of this part. For the purposes of this subpart only, the term:
 
 *Adverse weather* means the weather conditions that will be considered when identifying response systems and equipment in a response plan for the applicable operating environment. Factors to consider include, but are not limited to, significant wave height, ice, temperature, weather-related visibility, and currents within the Captain of the Port (COTP) zone in which the systems or equipment are intended to function.
@@ -102,9 +100,11 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 (12) San Francisco Bay, San Pablo Bay, Carquinez Strait, and Suisun Bay to Antioch, CA.
 
-(13) Strait of Juan De Fuca at Port Angeles, WA to and including Puget Sound, WA.
+(13) Strait of Juan De Fuca at Cape Flattery to and including Puget Sound, WA.
 
 (14) Prince William Sound, AK.
+
+Note 1 to paragraph (13) of this definition: The western boundary of the Strait of Juan de Fuca higher volume port area in this part differs from that in § 154.1020 of this chapter. The difference stems from section 316(b) of the Coast Guard Authorization Act of 2015 (Pub. L. 114-120), which expands only the definition in this part.
 
 *Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except that in the Gulf of Mexico, it means the area shoreward of the lines of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes.
 
@@ -202,4 +202,4 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 *Worst case discharge* means a discharge in adverse weather conditions of a vessel's entire oil cargo.
 
-[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2000-7641, 66 FR 55572, Nov. 2, 2001; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45026, Aug. 31, 2009; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013]
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2000-7641, 66 FR 55572, Nov. 2, 2001; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45026, Aug. 31, 2009; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013; USCG-2011-0576, 83 FR 26220, June 6, 2018]
