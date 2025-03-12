@@ -1,7 +1,5 @@
 ##### § 80.1 Definitions. #####
 
-Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
-
 The following definitions apply to this part:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -34,7 +32,7 @@ The following definitions apply to this part:
 
 *Official Johne's disease test.* An organism detection test approved by the Administrator and conducted in a laboratory approved by the Administrator.1
 
-1 A list of currently approved laboratories and the requirements for obtaining approval are available from the Diagnostic Bacteriology Laboratory, National Veterinary Services Laboratories, P.O. Box 844, Ames, Iowa 50010. the Administrator will approve laboratories to conduct an official Johne's disease test only after determining that the laboratory meets the check test proficiency requirements prescribed by the National Veterinary Services Laboratories. Approval will continue as long as such check test proficiency requirements are met on an annual basis.
+1 The list of approved laboratories is available on the internet at *https://www.nahln.org* or upon request from the Animal and Plant Health Inspection Service, Veterinary Services, National Veterinary Services Laboratories, P.O. Box 844, Ames, IA 50010-0844.
 
 *Owner-shipper statement.* A statement signed by the owner or shipper of animals, which states: The number of animals to be moved, the official eartag number of each animal, the species of the animals, points of origin and destination, the consignor and consignee, a statement that the animals are positive to an official Johne's disease test, and any additional information required by this part.
 
@@ -56,4 +54,4 @@ The following definitions apply to this part:
 
 *United States.* All of the States.
 
-[65 FR 18878, Apr. 10, 2000, as amended at 69 FR 64650, Nov. 8, 2004; 72 FR 39306, July 18, 2007; 73 FR 54062, Sept. 18, 2008]
+[65 FR 18878, Apr. 10, 2000, as amended at 69 FR 64650, Nov. 8, 2004; 72 FR 39306, July 18, 2007; 73 FR 54062, Sept. 18, 2008; 85 FR 4195, Jan. 24, 2020]

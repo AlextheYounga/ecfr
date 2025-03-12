@@ -1,5 +1,7 @@
 ##### § 4003.34 Form and contents of request for reconsideration. #####
 
+Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
+
 A request for reconsideration shall -
 
 (a) Be in writing;

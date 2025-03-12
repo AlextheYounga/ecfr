@@ -1,7 +1,5 @@
 ##### § 201.10 Notices of termination of transfers and licenses. #####
 
-Link to an amendment published at 85 FR 3855, Jan. 23, 2020.
-
 This section covers notices of termination of transfers and licenses under 17 U.S.C. 203, 304(c), and 304(d). A termination under section 304(d) is possible only if no termination was made under section 304(c), and federal copyright was originally secured on or between January 1, 1923, and October 26, 1939.
 
 (a) *Form.* The Copyright Office does not provide printed forms for the use of persons serving notices of termination.
@@ -74,7 +72,7 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (2) Without prejudice to the general rule provided by paragraph (e)(1) of this section, errors made in giving the date or registration number referred to in paragraph (b)(1)(iii), (b)(2)(iii), or (b)(2)(iv) of this section, or in complying with the provisions of paragraph (b)(1)(vii) or (b)(2)(vii) of this section, or in describing the precise relationships under paragraph (c)(2) or (c)(3) of this section, shall not affect the validity of the notice if the errors were made in good faith and without any intention to deceive, mislead, or conceal relevant information.
 
-(f) *Recordation.* A copy of a notice of termination shall be recorded in the Copyright Office as required by 17 U.S.C. 203(a)(4)(A), 17 U.S.C. 304(c)(4)(A), or 17 U.S.C. 304(d)(1) if it meets the requirements of paragraph (f)(1) of this section, is submitted in compliance with paragraph (f)(2) of this section, and is accompanied by the fee specified in § 201.3(c). The Office may reject any notice submitted for recordation that fails to comply with 17 U.S.C. 203(a), 17 U.S.C. 304(c), 17 U.S.C. 304(d), the requirements of this section, or any relevant instructions or guidance provided by the Office.
+(f) *Recordation.* Except as otherwise provided pursuant to paragraph (f)(6) of this section, a copy of a notice of termination shall be recorded in the Copyright Office as required by 17 U.S.C. 203(a)(4)(A), 17 U.S.C. 304(c)(4)(A), or 17 U.S.C. 304(d)(1) if it meets the requirements of paragraph (f)(1) of this section, is submitted in compliance with paragraph (f)(2) of this section, and is accompanied by the fee specified in § 201.3(c). The Office may reject any notice submitted for recordation that fails to comply with 17 U.S.C. 203(a), 17 U.S.C. 304(c), 17 U.S.C. 304(d), the requirements of this section, or any relevant instructions or guidance provided by the Office.
 
 (1) *Requirements.* The following requirements must be met before a copy of a notice of termination may be recorded in the Copyright Office.
 
@@ -102,4 +100,16 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (5) *Reliance on remitter-provided information.* The Copyright Office will rely on the certifications submitted with a notice and the information provided by the remitter on Form TCS and, if provided, in an accompanying statement of service. The Office will not necessarily confirm the accuracy of such certifications or information against the submitted notice.
 
-(Pub. L. 94-553; 17 U.S.C. 304(c), 702, 708(11))[42 FR 45920, Sept. 13, 1977, as amended at 56 FR 59885, Nov. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 29521, June 1, 1999; 64 FR 36574, July 7, 1999; 66 FR 34372, June 28, 2001; 67 FR 69136, Nov. 15, 2002; 67 FR 78176, Dec. 23, 2002; 68 FR 16959, Apr. 8, 2003; 71 FR 36486, June 27, 2006; 74 FR 12556, Mar. 25, 2009; 76 FR 32320, June 6, 2011; 78 FR 42874, July 18, 2013; 82 FR 9356, Feb. 6, 2017; 82 FR 52220, Nov. 13, 2017]
+(6) *Pilot program for electronic submission.* The Copyright Office is implementing a limited pilot program through which certain types of documents may be electronically submitted for recordation online by certain remitters (“pilot remitters”). This paragraph (f)(6) shall govern such submissions for notices of termination to the extent they are permitted under the pilot program.
+
+(i) *Electronic submission.* Pilot remitters may submit permitted types of notices for recordation using the Copyright Office's electronic system pursuant to this section and special pilot program rules provided to pilot remitters by the Office.
+
+(ii) *Participation.* No remitter may participate in the pilot program without the permission of the Copyright Office. Participation in the pilot program is optional and pilot remitters may continue to submit notices for recordation pursuant to paragraph (f)(2) of this section.
+
+(iii) *Conflicting rules.* To the extent any special pilot program rule conflicts with this section or any other regulation, rule, instruction, or guidance issued by the Copyright Office, such pilot program rule shall govern submissions made pursuant to the pilot program.
+
+(iv) *Reliance on remitter-provided information.* Paragraph (f)(5) of this section shall apply to all certifications and information provided to the Office through the electronic system.
+
+(v) *Date of recordation.* In any situation where the date of recordation for a submission cannot be established or, if established, would ordinarily be changed, if due to an issue with the electronic system, the Office may assign an equitable date as the date of recordation.
+
+(Pub. L. 94-553; 17 U.S.C. 304(c), 702, 708(11))[42 FR 45920, Sept. 13, 1977, as amended at 56 FR 59885, Nov. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 29521, June 1, 1999; 64 FR 36574, July 7, 1999; 66 FR 34372, June 28, 2001; 67 FR 69136, Nov. 15, 2002; 67 FR 78176, Dec. 23, 2002; 68 FR 16959, Apr. 8, 2003; 71 FR 36486, June 27, 2006; 74 FR 12556, Mar. 25, 2009; 76 FR 32320, June 6, 2011; 78 FR 42874, July 18, 2013; 82 FR 9356, Feb. 6, 2017; 82 FR 52220, Nov. 13, 2017; 85 FR 3855, Jan. 23, 2020]

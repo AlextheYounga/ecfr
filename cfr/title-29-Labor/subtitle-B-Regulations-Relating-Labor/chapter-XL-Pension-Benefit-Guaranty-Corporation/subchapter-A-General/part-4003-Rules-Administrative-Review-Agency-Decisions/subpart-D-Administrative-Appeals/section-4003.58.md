@@ -1,5 +1,7 @@
 ##### § 4003.58 Powers of the Appeals Board. #####
 
+Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
+
 (a) In addition to the powers specifically described in this part, the Appeals Board may request the submission of any information or the appearance of any person it considers necessary to resolve a matter before it and to enter any order it considers necessary for or appropriate to the disposition of any matter before it.
 
 (b) The Appeals Board may refer certain appeals to another PBGC department or to Appeals Board staff to provide a response to the appellant. The response from another PBGC department or Board staff shall be in writing and address the matters raised in the appeal. The response may be in the form of an explanation or corrected benefit determination. In either case, the appellant will have 45 calendar-days from the date of the response to file a written request for review by the Appeals Board. If a written request for review is not filed with the Appeals Board within the 45-calendar-day period the determination shall become effective pursuant to § 4003.22(a).

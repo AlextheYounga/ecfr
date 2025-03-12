@@ -1,7 +1,5 @@
 ##### § 93.301 General prohibitions; exceptions. #####
 
-Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
-
 (a) No horse or product subject to the provisions of this part shall be brought into the United States except in accordance with the regulations in this part and part 94 of this subchapter;3 nor shall any such horse or product be handled or moved after physical entry into the United States before final release from quarantine or any other form of governmental detention except in compliance with such regulations; *Provided,* That, the Administrator may upon request in specific cases permit horses to be brought into or through the United States under such conditions as he or she may prescribe, when he or she determines in the specific case that such action will not endanger the livestock or poultry of the United States.
 
 3 Importations of certain animals from various regions are absolutely prohibited under part 94 because of specific diseases.
@@ -114,7 +112,7 @@ Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
 
 (ii) Once in the approved State, the stallions or mares shall be quarantined under State or Federal supervision until the stallions have met the testing and treatment requirements of paragraph (e)(3) of this section and the mares have met the testing and treatment requirements of paragraph (e)(5) of this section.
 
-(iii) All tests and cultures required by paragraphs (e)(3) through (e)(5) of this section shall be conducted at the National Veterinary Services Laboratories, Ames, IA, or at a laboratory approved by the Administrator in accordance with paragraph (i) of this section to conduct CEM cultures and tests.
+(iii) All tests and cultures required by paragraphs (e)(3) through (e)(5) of this section shall be conducted at the National Veterinary Services Laboratories, Ames, IA, or at a laboratory approved by the Administrator in accordance with § 71.22 of this chapter to conduct CEM cultures and tests.
 
 (iv) To be eligible for CEM culture or testing, all specimens collected in accordance with paragraphs (e)(3) through (e)(5) of this section must be received by the National Veterinary Services Laboratories or the approved laboratory within 48 hours of collection and must be accompanied by a statement indicating the date and time of their collection.
 
@@ -144,7 +142,7 @@ Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
 
 (D) The test mare is moved directly to slaughter without unloading en route, is euthanized, or dies.
 
-(5) *Testing and treatment requirements for mares.* (i) Once the mare is in the approved State, a complement fixation test for CEM must be done, and three sets of specimens shall be collected from the mucosal surfaces of the clitoral fossa and clitoral sinuses, with one set of specimens including a specimen from the surfaces of the distal cervix or endometrium in nonpregnant mares. The sets of specimens must be collected on three separate occasions within a 12-day period with no less than 72 hours between each set. An accredited veterinarian shall collect specimens and shall submit each set of specimens to the National Veterinary Services Laboratories in Ames, IA, or to a laboratory approved by the Administrator in accordance with paragraph (i) of this section to conduct CEM cultures and tests.
+(5) *Testing and treatment requirements for mares.* (i) Once the mare is in the approved State, a complement fixation test for CEM must be done, and three sets of specimens shall be collected from the mucosal surfaces of the clitoral fossa and clitoral sinuses, with one set of specimens including a specimen from the surfaces of the distal cervix or endometrium in nonpregnant mares. The sets of specimens must be collected on three separate occasions within a 12-day period with no less than 72 hours between each set. An accredited veterinarian shall collect specimens and shall submit each set of specimens to the National Veterinary Services Laboratories in Ames, IA, or to a laboratory approved by the Administrator in accordance with § 71.22 of this chapter to conduct CEM cultures and tests.
 
 (ii) After the three sets of specimens required by paragraph (e)(5)(i) of this section have been collected, an accredited veterinarian shall manually remove organic debris from the sinuses of each mare and then flush the sinuses with a cerumalytic agent.8
 
@@ -278,33 +276,7 @@ Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
 
 (7) A list of States approved by APHIS to receive mares over 731 days of age imported under paragraph (e) of this section is maintained on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/downloads/states\_app\_conduct\_cem\_testing.pdf.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737.
 
-(i) *Approval of laboratories.* (1) The Administrator will approve a laboratory to conduct CEM cultures and tests only after consulting with the State animal health official in the State in which the laboratory is located and after determining that the laboratory:
-
-(i) Has technical personnel assigned to conduct the CEM culturing and testing who possess the following minimum qualifications:
-
-(A) A bachelor's degree in microbiology;
-
-(B) A minimum of 2 years experience working in a bacteriology laboratory; and
-
-(C) Experience working with the CEM organism, including knowledge of the specific media requirements, atmospheric requirements, and procedures for the isolation and identification of the CEM organism.10
-
-10 When training regarding CEM culturing and testing is necessary, it may be obtained at the National Veterinary Services Laboratories, Ames, IA 50010.
-
-(ii) Follows standard test protocols that will reliably and consistently provide for the isolation and identification of the CEM organism;11 and
-
-11 Standard test protocols recommended by the National Veterinary Services Laboratories and a list of approved laboratories can be obtained from the National Veterinary Services Laboratories, Ames, IA 50010.
-
-(iii) Reports all official test results to the State animal health official and the Veterinarian in Charge.
-
-(2) To retain approval, the laboratory must meet the requirements prescribed in paragraph (i)(1) of this section, and shall test with the CEM organism each lot of media it prepares to ensure that the media will support growth of the laboratory's reference culture. Media that will not support growth of the reference culture must be discarded.
-
-(3) The Administrator may deny or withdraw approval of any laboratory to conduct CEM culturing or testing upon a determination that the laboratory does not meet the criteria for approval or maintenance of approval under paragraphs (i)(1) and (i)(2) of this section.
-
-(i) In the case of a denial of approval, the operator of the laboratory will be informed of the reasons for denial and, upon request, will be afforded an opportunity for a hearing with respect to the merits or validity of the denial in accordance with rules of practice that will be adopted for the hearing.
-
-(ii) In the case of a withdrawal of approval, before such action is taken, the operator of the laboratory will be informed of the reasons for the proposed withdrawal and, upon request, will be afforded an opportunity for a hearing with respect to the merits or validity of the proposed withdrawal in accordance with rules of practice that will be adopted for the hearing. However, the withdrawal will become effective pending a final determination in the hearing when the Administrator determines that such action is necessary to protect the public health, interest, or safety. The withdrawal will be effective upon oral or written notification, whichever is earlier, to the operator of the laboratory. In the event of oral notification, written confirmation will be given as promptly as circumstances allow. The withdrawal will continue in effect pending completion of the hearing and any judicial review of the hearing, unless otherwise ordered by the Administrator.
-
-(iii) Approval for a laboratory to conduct CEM culturing or testing will be automatically withdrawn by the Administrator when the operator of the approved laboratory notifies the National Veterinary Services Laboratories, Ames, IA 50010, in writing, that the laboratory no longer conducts CEM culturing and testing.
+(i) [Reserved]
 
 (j) *Examination and treatment for screwworm.* Horses from regions where APHIS considers screwworm to exist may be imported into the United States only if they meet the requirements in paragraphs (j)(1) through (7) of this section and all other applicable requirements of this part. APHIS will maintain a list of regions where screwworm is considered to exist on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737. APHIS will add a region to the list upon determining that screwworm exists in the region based on reports APHIS receives of detections of the pest from veterinary officials of the exporting country, from the World Organization for Animal Health (OIE), or from other sources the Administrator determines to be reliable. APHIS will remove a region from the list after conducting an evaluation of the region in accordance with § 92.2 of this subchapter and finding that screwworm is not present in the region. In the case of a region formerly not on this list that is added due to a detection, the region may be removed from the list in accordance with the procedures for reestablishment of a region's disease-free status in § 92.4 of this subchapter.
 

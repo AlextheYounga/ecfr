@@ -1,7 +1,5 @@
 ##### § 71.1 Definitions. #####
 
-Link to an amendment published at 85 FR 4194, Jan. 24, 2020.
-
 As used in this part, the following terms shall have the meanings set forth in this section.
 
 *Accredited veterinarian.* A veterinarian who is approved by the Administrator, in accordance with part 161 of this chapter, to perform official animal health work of the Animal and Plant Health Inspection Service specified in subchapters A, B, C, and D of this chapter and to perform work required by cooperative State-Federal disease control and eradication programs.
@@ -13,6 +11,8 @@ As used in this part, the following terms shall have the meanings set forth in t
 *Animal identification number (AIN).* A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal. The AIN consists of 15 digits, with the first 3 being the country code (840 for the United States or a unique country code for any U.S. territory that has such a code and elects to use it in place of the 840 code). The alpha characters USA or the numeric code assigned to the manufacturer of the identification device by the International Committee on Animal Recording may be used as an alternative to the 840 or other prefix representing a U.S territory; however, only the AIN beginning with the 840 or other prefix representing a U.S. territory will be recognized as official for use on AIN tags applied to animals on or after March 11, 2015. The AIN beginning with the 840 prefix may not be applied to animals known to have been born outside the United States.
 
 *APHIS representative.* An individual employed by APHIS who is authorized to perform the function involved.
+
+*Approved laboratory.* A laboratory approved by the Administrator to conduct official testing in accordance with the regulations in § 71.22.
 
 *Approved livestock facility.* A stockyard, livestock market, buying station, concentration point, or any other premises under State or Federal veterinary supervision where livestock are assembled and that has been approved under § 71.20.
 
@@ -56,6 +56,8 @@ As used in this part, the following terms shall have the meanings set forth in t
 
 *Move.* To carry, enter, import, mail, ship, or transport; to aid, abet, cause, or induce carrying, entering, importing, mailing, shipping, or transporting; to offer to carry, enter, import, mail, ship, or transport; to receive in order to carry, enter, import, mail, ship, or transport; or to allow any of these activities.
 
+*National Animal Health Laboratory Network (NAHLN).* The NAHLN is a nationally coordinated network and partnership of primarily Federal, State, and university-associated animal health laboratories that provide animal health diagnostic testing, methods research and development, and expertise for education and extension to detect biological threats to the nation's animal agriculture, thus protecting animal health, public health, and the nation's food supply.
+
 *National Uniform Eartagging System (NUES).* A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal.
 
 *Official Brand Inspection Agency.* The duly constituted body elected, appointed, or delegated or granted authority by a State or governmental subdivision thereof, to administer laws, regulations, ordinances or rules pertaining to the brand identification of livestock.
@@ -81,6 +83,8 @@ As used in this part, the following terms shall have the meanings set forth in t
 (5) Any other numbering system approved by the Administrator for the official identification of animals.
 
 *Official swine tattoo.* A tattoo, conforming to the six-character alpha-numeric National Tattoo System, that provides a unique identification for each herd or lot of swine.
+
+*Official testing.* Testing to determine the disease status of animals for use in State-Federal programs. Tests are approved by the Administrator and conducted by qualified analysts in an approved laboratory.
 
 *Person.* Any individual, corporation, company, association, firm, partnership, society, or joint stock company, or other legal entity.
 

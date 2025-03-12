@@ -1,5 +1,7 @@
 ##### § 4003.2 Definitions. #####
 
+Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
+
 The following terms are defined in § 4001.2 of this chapter: Code, contributing sponsor, controlled group, ERISA, multiemployer plan, PBGC, person, plan administrator, and single-employer plan.
 
 In addition, for purposes of this part:

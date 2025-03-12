@@ -1,5 +1,7 @@
 ##### § 4003.35 Final decision on request for reconsideration. #####
 
+Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
+
 (a) Except as provided in paragraphs (a)(1) or (a)(2), final decisions on requests for reconsideration will be issued by the same department of the PBGC that issued the initial determination, by an official whose level of authority in that department is higher than that of the person who issued the initial determination.
 
 (1) When an initial determination is issued by a Department Director, the Department Director (or an official designated by the Department Director) will issue the final decision on request for reconsideration of a determination other than one described in § 4003.1(b)(3)(ii).

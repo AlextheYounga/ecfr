@@ -1,5 +1,7 @@
 ##### § 4003.57 Appeals affecting third parties. #####
 
+Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
+
 (a) Before the Appeals Board issues a decision granting, in whole or in part, the relief requested in an appeal, it shall make a reasonable effort to notify third persons who will be aggrieved by the decision of the following:
 
 (1) The pendency of the appeal;

@@ -1,5 +1,7 @@
 ##### § 4003.54 Contents of appeal. #####
 
+Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
+
 (a) An appeal shall -
 
 (1) Be in writing;
