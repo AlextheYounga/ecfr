@@ -2,11 +2,11 @@
 
 (a) *Scope.* This section establishes rates and terms for the use of published pictorial, graphic, and sculptural works by public broadcasting entities for the activities described in 17 U.S.C. 118. The rates and terms established in this schedule include the making of the reproductions described in 17 U.S.C. 118(c).
 
-(b) *Royalty rate.* (1) The following schedule of rates shall apply to the use of works within the scope of this section:
+(b) *Royalty rate.* (1) The following schedule of rates shall apply to the use of works within the scope of this section not otherwise licensed by the copyright owner:
 
 (i) For such uses in a PBS-distributed program:
 
-|                                                                                                                                                                                                                                                                                          |2013-2017|
+|                                                                                                                                                                                                                                                                                          |2023-2027|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 |                                                                                                                            (A) For featured display of a work                                                                                                                            | $70.75  |
 |                                                                                                                          (B) For background and montage display                                                                                                                          |  34.50  |
@@ -15,7 +15,7 @@
 
 (ii) For such uses in other than PBS-distributed programs:
 
-|                                                                                                                                                                                                                                                                                          |2013-2017|
+|                                                                                                                                                                                                                                                                                          |2023-2027|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 |                                                                                                                            (A) For featured display of a work                                                                                                                            | $45.82  |
 |                                                                                                                          (B) For background and montage display                                                                                                                          |  23.48  |
@@ -32,7 +32,7 @@
 
 (c) *Payment of royalty rate.* PBS or other public broadcasting entity shall pay the required royalty fees to each copyright owner not later than July 31 of each calendar year for uses during the first six months of that calendar year, and not later than January 31 for uses during the last six months of the preceding calendar year.
 
-(d) *Records of use.* (1) PBS and its stations or other public broadcasting entity shall maintain and furnish either to copyright owners, or to the offices of generally recognized organizations representing the copyright owners of pictorial, graphic and sculptural works, copies of their standard lists containing the pictorial, graphic, and sculptural works displayed on their programs. Such notice shall include the name of the copyright owner, if known, the specific source from which the work was taken, a description of the work used, the title of the program on which the work was used, and the date of the original broadcast of the program.
+(d) *Records of use.* (1) PBS and its stations or other public broadcasting entity shall maintain and, upon request, furnish either to copyright owners, or to the offices of generally recognized organizations representing the copyright owners of pictorial, graphic and sculptural works, copies of their standard lists containing the pictorial, graphic, and sculptural works displayed on their programs. Such notice shall include the name of the copyright owner, if known, the specific source from which the work was taken, a description of the work used, the title of the program on which the work was used, and the date of the original broadcast of the program.
 
 (2) Such listings shall be furnished not later than July 31 of each calendar year for displays during the first six months of the calendar year, and not later than January 31 of each calendar year for displays during the second six months of the preceding calendar year.
 
@@ -40,8 +40,8 @@
 
 (2) Such listings shall be furnished not later than July 31 of each calendar year for displays during the first six months of the calendar year, and not later than January 31 of each calendar year for displays during the second six months of the preceding calendar year.
 
-(f) *Terms of use.* (1) The rates of this schedule are for unlimited use for a period of three years from the date of the first use of the work under this schedule. Succeeding use periods will require the following additional payment: Additional one-year period—25 percent of the initial three-year fee; second three-year period—50 percent of the initial three-year fee; each three-year period thereafter—25 percent of the initial three-year fee; provided that a 100 percent additional payment prior to the expiration of the first three-year period will cover use during all subsequent use periods without limitation. Such succeeding uses which are subsequent to December 31, 2017, shall be subject to the rates established in this schedule.
+(f) *Terms of use.* (1) The rates of this schedule are for unlimited use for a period of three years from the date of the first use of the work under this schedule. Succeeding use periods will require the following additional payment: Additional one-year period—25 percent of the initial three-year fee; second three-year period—50 percent of the initial three-year fee; each three-year period thereafter—25 percent of the initial three-year fee; provided that a 100 percent additional payment prior to the expiration of the first three-year period will cover use during all subsequent use periods without limitation. Such succeeding uses which are subsequent to December 31, 2027, shall be subject to the rates established in this schedule.
 
 (2) Pursuant to the provisions of 17 U.S.C. 118(e), nothing in this schedule shall be construed to permit, beyond the limits of fair use as provided in 17 U.S.C. 107, the production of a transmission program drawn to any substantial extent from a published compilation of pictorial, graphic, or sculptural works.
 
-[72 FR 67647, Nov. 30, 2007, as amended at 77 FR 71108, Nov. 29, 2012]
+[72 FR 67647, Nov. 30, 2007, as amended at 77 FR 71108, Nov. 29, 2012; 88 FR 41833, June 28, 2023]
