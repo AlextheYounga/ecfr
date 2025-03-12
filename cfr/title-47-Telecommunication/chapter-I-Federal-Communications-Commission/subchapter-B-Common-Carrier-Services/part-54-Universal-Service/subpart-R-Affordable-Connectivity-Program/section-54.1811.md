@@ -1,0 +1,3 @@
+##### § 54.1811 Recordkeeping requirements. #####
+
+Participating providers shall maintain records to document compliance with all Commission requirements governing the Affordable Connectivity Program for the six full preceding calendar years and provide that documentation to the Commission or Administrator, or their designee, upon request. Participating providers shall maintain the documentation related to the eligibility determination and reimbursement claims for an Affordable Connectivity Program subscriber for as long as the subscriber receives the Affordable Connectivity Program discount from that participating provider, but for no less than the six full preceding calendar years.

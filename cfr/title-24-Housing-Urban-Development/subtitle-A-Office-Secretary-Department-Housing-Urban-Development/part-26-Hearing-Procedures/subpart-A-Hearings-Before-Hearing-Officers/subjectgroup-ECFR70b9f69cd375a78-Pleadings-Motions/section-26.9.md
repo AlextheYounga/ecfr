@@ -1,10 +1,8 @@
 ##### § 26.9 Form and filing requirements. #####
 
-Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
-
 (a) *Filing.* Unless otherwise provided by statute, rule, or regulation:
 
-(1) Requests for hearings shall be filed with the Office of General Counsel's Docket Clerk, Department of Housing and Urban Development, 451 7th Street, SW., Washington, DC 20410. The OGC Docket Clerk shall assign the docket number and forward the case to HUD's Office of Appeals.
+(1) Requests for hearings shall be filed with the Office of General Counsel's Docket Clerk, Department of Housing and Urban Development, 451 7th Street, SW., Washington, DC 20410. The OGC Docket Clerk shall assign the docket number and forward the case to HUD's Office of Hearings and Appeals.
 
 (2) All other pleadings, submissions, and documents should be filed directly with the appropriate hearing officer.
 
@@ -13,3 +11,5 @@ Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
 (b) *Title.* Documents shall show clearly the title of the action and the docket number assigned by the Docket Clerk.
 
 (c) *Form.* To the fullest extent possible, all documents shall be printed or typewritten in clear, legible form.
+
+[73 FR 76833, Dec. 17, 2008, as amended at 87 FR 8196, Feb. 14, 2022]

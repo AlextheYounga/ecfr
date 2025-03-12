@@ -1,7 +1,5 @@
 ##### § 54.500 Terms and definitions. #####
 
-Link to an amendment published at 87 FR 8210, Feb. 14, 2022.
-
 *Basic maintenance.* A service is eligible for support as a “basic maintenance” service if, but for the maintenance at issue, the internal connection would not function and serve its intended purpose with the degree of reliability ordinarily provided in the marketplace to entities receiving such services. Basic maintenance services do not include services that maintain equipment that is not supported by E-rate or that enhance the utility of equipment beyond the transport of information, or diagnostic services in excess of those necessary to maintain the equipment's ability to transport information.
 
 *Billed entity.* A “billed entity” is the entity that remits payment to service providers for services rendered to eligible schools and libraries.
@@ -20,15 +18,17 @@ Link to an amendment published at 87 FR 8210, Feb. 14, 2022.
 
 (2) A public elementary school or secondary school library;
 
-(3) An academic library;
+(3) A Tribal library;
 
-(4) A research library, which for the purpose of this section means a library that:
+(4) An academic library;
+
+(5) A research library, which for the purpose of this section means a library that:
 
 (i) Makes publicly available library services and materials suitable for scholarly research and not otherwise available to the public; and
 
 (ii) Is not an integral part of an institution of higher education; and
 
-(5) A private library, but only if the state in which such private library is located determines that the library should be considered a library for the purposes of this definition.
+(6) A private library, but only if the state in which such private library is located determines that the library should be considered a library for the purposes of this definition.
 
 *Library consortium.* A “library consortium” is any local, statewide, regional, or interstate cooperative association of libraries that provides for the systematic and effective coordination of the resources of schools, public, academic, and special libraries and information centers, for improving services to the clientele of such libraries. For the purposes of these rules, references to library will also refer to library consortium.
 
@@ -52,4 +52,4 @@ Link to an amendment published at 87 FR 8210, Feb. 14, 2022.
 
 *Wide area network.* For purposes of this subpart, a “wide area network” is a voice or data network that provides connections from one or more computers within an eligible school or library to one or more computers or networks that are external to such eligible school or library. Excluded from this definition is a voice or data network that provides connections between or among instructional buildings of a single school campus or between or among non-administrative buildings of a single library branch.
 
-[63 FR 2128, Jan. 13, 1998, as amended at 68 FR 36942, June 20, 2003; 76 FR 56302, Sept. 13, 2011; 79 FR 49197, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014]
+[63 FR 2128, Jan. 13, 1998, as amended at 68 FR 36942, June 20, 2003; 76 FR 56302, Sept. 13, 2011; 79 FR 49197, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 87 FR 8210, Feb. 14, 2022]

@@ -16,7 +16,7 @@
 
 (c) *Factors in determining amount of penalty.* In determining the amount of a penalty under this section, the Secretary shall consider the factors in 12 U.S.C. 4585(c)(2) including the public interest.
 
-(d) *Procedures* - (1) *Notice of Intent.* The Secretary shall notify the GSE in writing of the Secretary's determination to impose a civil money penalty by issuing a Notice of Intent to Impose Civil Money Penalties (“Notice of Intent”). The Notice of Intent shall provide:
+(d) *Procedures*—(1) *Notice of Intent.* The Secretary shall notify the GSE in writing of the Secretary's determination to impose a civil money penalty by issuing a Notice of Intent to Impose Civil Money Penalties (“Notice of Intent”). The Notice of Intent shall provide:
 
 (i) A concise statement of the facts constituting the alleged misconduct;
 
@@ -30,7 +30,7 @@
 
 (vi) The date the penalty shall be due unless the GSE contests the matter.
 
-(2) To appeal the Secretary's decision to impose a civil money penalty, the GSE shall, within 20 days of service of the Notice of Intent, file a written Answer with the Chief Docket Clerk, Office of Administrative Law Judges, Department of Housing and Urban Development, at the address provided in the Notice of Intent.
+(2) To appeal the Secretary's decision to impose a civil money penalty, the GSE shall, within 20 days of service of the Notice of Intent, file a written Answer with the Chief Docket Clerk, Office of Hearings and Appeals, Department of Housing and Urban Development, at the address provided in the Notice of Intent.
 
 (3) *Administrative law judge.* A HUD ALJ shall preside over any hearing conducted under this section, in accordance with § 81.84 and, to the extent the provisions are not inconsistent with any of the procedures in this part or FHEFSSA, with 24 CFR part 26, subpart B.
 
@@ -42,4 +42,4 @@
 
 (f) *Settlement by Secretary.* The Secretary may compromise, modify, or remit any civil money penalty that may be, or has been, imposed under this section.
 
-[60 FR 61888, Dec. 1, 1995, as amended at 61 FR 50218, Sept. 24, 1996; 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007]
+[60 FR 61888, Dec. 1, 1995, as amended at 61 FR 50218, Sept. 24, 1996; 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 87 FR 8197, Feb. 14, 2022]

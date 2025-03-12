@@ -1,5 +1,7 @@
 ##### § 1240.11 Capital conservation buffer and leverage buffer. #####
 
+Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Capital conservation buffer.* An Enterprise's capital conservation buffer is the amount calculated under paragraph (c)(2) of this section.

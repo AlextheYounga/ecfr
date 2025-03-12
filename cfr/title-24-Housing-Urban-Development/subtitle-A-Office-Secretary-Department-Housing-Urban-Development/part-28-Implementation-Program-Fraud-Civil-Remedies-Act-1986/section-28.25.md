@@ -1,8 +1,6 @@
 ##### § 28.25 Complaint. #####
 
-Link to an amendment published at 87 FR 8197, Feb. 14, 2022.
-
-(a) *General.* Upon obtaining approval from the Department of Justice, the General Counsel or designee may issue a complaint to the respondent. The complaint shall be mailed, by registered or certified mail, or shall be delivered through such other means by which delivery may be confirmed. The complaint shall also be filed simultaneously with the Office of Administrative Law Judges in accordance with § 26.30(a) of this chapter.
+(a) *General.* Upon obtaining approval from the Department of Justice, the General Counsel or designee may issue a complaint to the respondent. The complaint shall be mailed, by registered or certified mail, or shall be delivered through such other means by which delivery may be confirmed. The complaint shall also be filed simultaneously with the Office of Hearings and Appeals in accordance with § 26.30(a) of this chapter.
 
 (b) *Complaint.* The complaint shall include:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 87 FR 8197, Feb. 14, 2022.
 
 (d) *Obligation to preserve documents.* Upon receipt of the complaint, the respondent is required to preserve and maintain all documents and data, including electronically stored data, within their possession or control that may relate to the allegations in the complaint. The Department shall also preserve such documents or data upon the issuance of the complaint.
 
-[73 FR 76832, Dec. 17, 2008]
+[73 FR 76832, Dec. 17, 2008, as amended at 87 FR 8197, Feb. 14, 2022]

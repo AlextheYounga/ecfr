@@ -1,5 +1,7 @@
 ##### § 1240.44 Credit risk transfer approach (CRTA). #####
 
+Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
+
 (a) *General requirements for the CRTA.* To use the CRTA to determine the risk weighted assets for a retained CRT exposure, an Enterprise must have data that enables it to assign accurately the parameters described in paragraph (b) of this section. Data used to assign the parameters described in paragraph (b) of this section must be the most currently available data; if the contracts governing the underlying exposures of the credit risk transfer require payments on a monthly or quarterly basis, the data used to assign the parameters described in paragraph (b) of this section must be no more than 91 calendar days old. An Enterprise that does not have the appropriate data to assign the parameters described in paragraph (b) of this section must assign a risk weight of 1,250 percent to the retained CRT exposure.
 
 (b) *CRTA parameters.* To calculate the risk weighted assets for a retained CRT exposure, an Enterprise must have accurate information on the following ten inputs to the CRTA calculation.

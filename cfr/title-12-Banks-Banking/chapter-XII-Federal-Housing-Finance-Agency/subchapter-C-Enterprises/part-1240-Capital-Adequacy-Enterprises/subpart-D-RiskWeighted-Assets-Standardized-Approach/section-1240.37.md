@@ -1,5 +1,7 @@
 ##### § 1240.37 Cleared transactions. #####
 
+Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
+
 (a) *General requirements* - (1) *Clearing member clients.* An Enterprise that is a clearing member client must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
 
 (2) *Clearing members.* An Enterprise that is a clearing member must use the methodologies described in paragraph (c) of this section to calculate its risk-weighted assets for a cleared transaction and paragraph (d) of this section to calculate its risk-weighted assets for its default fund contribution to a CCP.

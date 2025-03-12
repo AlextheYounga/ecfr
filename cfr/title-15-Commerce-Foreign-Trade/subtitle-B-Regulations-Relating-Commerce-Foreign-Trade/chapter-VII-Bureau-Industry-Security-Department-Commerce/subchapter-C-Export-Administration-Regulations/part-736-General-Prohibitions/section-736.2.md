@@ -46,9 +46,7 @@
 
 (ii) License Exceptions to General Prohibition Six are described in part 746 of the EAR, on Embargoes and Other Special Controls. Unless a License Exception or other authorization is authorized in part 746 of the EAR, the License Exceptions described in part 740 of the EAR are not available to overcome this general prohibition.
 
-(7) General Prohibition Seven - Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities)-
-
-(i) Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).
+(7) *General Prohibition Seven - Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).*(i) Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).
 
 (A) If you are a “U.S. person,” as that term is defined in § 772.1 of the EAR, you may not engage in any activities prohibited by § 744.6(b) or (c) of the EAR, which prohibit, without a license from BIS, the shipment, transmission, or transfer (in-country) of items not subject to the EAR; facilitating such shipment, transmission, or transfer (in-country); or the performance of any contract, service, or employment (including, but not limited to: ordering, buying, removing, concealing, storing, using, selling, loaning, disposing, servicing, financing, or transporting, freight forwarding, or conducting negotiations in furtherance of) that you know or are informed by BIS will support:
 
@@ -62,9 +60,9 @@
 
 (*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Belarus, Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
 
-(B) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 1 chemical listed in Supplement No. 1 to part 745 without first complying with the provisions of §§ 742.18 and 745.1 of the EAR.
+(B) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 1 chemical listed in supplement no. 1 to part 745 without first complying with the provisions of §§ 742.18 and 745.1 of the EAR.
 
-(C) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 3 chemical listed in Supplement No. 1 to part 745 to a destination *not* listed in Supplement No. 2 to part 745 without complying with the End-Use Certificate requirements in § 745.2 of the EAR that apply to Schedule 3 chemicals controlled for CW reasons in ECCN 1C350, ECCN 1C355, and ECCN 1C395.
+(C) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 3 chemical listed in supplement no. 1 to part 745 to a destination *not* listed in supplement no. 2 to part 745 without complying with the End-Use Certificate requirements in § 745.2 of the EAR that apply to Schedule 3 chemicals controlled for CW reasons in ECCN 1C350, ECCN 1C355, and ECCN 1C395.
 
 (ii) [Reserved]
 

@@ -10,7 +10,7 @@
 
 (4) Materials in office investigative files related to charges under: Title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e *et seq.*); the Equal Pay Act (29 U.S.C. 206(d)); the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 *et seq.*); the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 *et seq.*); or the Genetic Information Nondiscrimination Act of 2008 (42 U.S.C. 2000ff *et seq.*).
 
-(b) *Request for other records.* A request for any record which does not fall within the ambit of paragraph (a) of this section, or a request for any record the location of which is unknown to the person making the request, shall be submitted in writing to the Assistant Legal Counsel, FOIA Programs, U.S. Equal Employment Opportunity Commission, by mail to 131 M Street NE., Suite 5NW02E, Washington, DC 20507, by fax to (202) 653-6034, by email to *FOIA@eeoc.gov,* or by Internet to *https://publicportalfoiapal.eeoc.gov/palMain.aspx.*
+(b) *Request for other records.* A request for any record which does not fall within the ambit of paragraph (a) of this section, or a request for any record the location of which is unknown to the person making the request, shall be submitted in writing to the Assistant Legal Counsel, FOIA Programs, U.S. Equal Employment Opportunity Commission, by mail to 131 M Street NE., Suite 5NW02E, Washington, DC 20507, by fax to (202) 827-7545, by email to *FOIA@eeoc.gov,* or by Internet to *https://publicportalfoiapal.eeoc.gov/palMain.aspx.*
 
 (c) *Authority to grant or deny requests.* The Commission has granted this authority to the Legal Counsel. The Legal Counsel is authorized to grant or to deny any requests for records that are maintained by the Commission.
 
@@ -32,4 +32,4 @@
 
 (g) *Agreements regarding consultations and referrals.* The Commission may establish agreements with other agencies to eliminate the need for consultations or referrals with respect to particular types of records.
 
-[81 FR 95872, Dec. 29, 2016]
+[81 FR 95872, Dec. 29, 2016, as amended at 87 FR 14799, Mar. 16, 2022]

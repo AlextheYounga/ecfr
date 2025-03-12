@@ -38,7 +38,7 @@
 
 (ix) Any other information deemed relevant by the Secretary.
 
-(d) *Notice of remedial action(s).* (1) Following the Secretary's decision concerning the appropriate remedial action(s) that the GSE is to be directed to take, the Secretary shall prepare and issue to the GSE and the lender a written notice setting forth the remedial action(s) to be taken and the date such remedial action(s) are to commence. The Notice shall inform the lender of its right to request a hearing on the appropriateness of the proposed remedial action(s), within 20 days of service of the Notice, by filing a request with the Docket Clerk, HUD Office of Administrative Law Judges.
+(d) *Notice of remedial action(s).* (1) Following the Secretary's decision concerning the appropriate remedial action(s) that the GSE is to be directed to take, the Secretary shall prepare and issue to the GSE and the lender a written notice setting forth the remedial action(s) to be taken and the date such remedial action(s) are to commence. The Notice shall inform the lender of its right to request a hearing on the appropriateness of the proposed remedial action(s), within 20 days of service of the Notice, by filing a request with the Docket Clerk, HUD Office of Hearings and Appeals.
 
 (2) Where a lender does not timely request a hearing on a remedial action, the GSE shall take the action in accordance with the Notice.
 
@@ -48,4 +48,4 @@
 
 (3) The GSE shall take the action(s) set forth in a final decision by HUD on remedial action(s) or any dispositive settlement of such a proceeding setting forth remedial action(s) in accordance with such decision or settlement.
 
-[60 FR 61888, Dec. 1, 1995, as amended at 61 FR 50218, Sept. 24, 1996]
+[60 FR 61888, Dec. 1, 1995, as amended at 61 FR 50218, Sept. 24, 1996; 87 FR 8197, Feb. 14, 2022]

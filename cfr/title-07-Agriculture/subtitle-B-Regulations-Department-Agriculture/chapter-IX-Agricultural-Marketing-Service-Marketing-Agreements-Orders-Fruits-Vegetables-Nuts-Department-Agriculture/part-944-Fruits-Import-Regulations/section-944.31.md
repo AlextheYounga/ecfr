@@ -1,8 +1,6 @@
 ##### § 944.31 Avocado import maturity regulation. #####
 
-Link to an amendment published at 87 FR 8143, Feb. 14, 2022.
-
-(a) Pursuant to section 8e [7 U.S.C. 608e-1] of the Agricultural Marketing Agreement Act of 1937, as amended [7 U.S.C 601-674], and Part 944 - Fruits; Import Regulations, the importation into the United States of any avocados, except the Hass, Fuerte, Zutano, and Edranol varieties, is prohibited unless:
+(a) Pursuant to section 8e [7 U.S.C. 608e-1] of the Agricultural Marketing Agreement Act of 1937, as amended [7 U.S.C 601-674], and Part 944—Fruits; Import Regulations, the importation into the United States of any avocados, except the Hass, Fuerte, Zutano, and Edranol varieties, is prohibited unless:
 
 (1) Any portion of the skin of the individual avocados has changed to the color normal for that fruit when mature for those varieties which normally change color to any shade of red or purple when mature, except for the Linda variety; or
 
@@ -80,6 +78,8 @@ Table 1
 
 (3) Avocados which fail to meet the maturity requirements specified in this section must be maintained under the supervision of the Federal or Federal-State Inspection Service using the Positive Lot Identification program, and when presented for reinspection, must meet the maturity requirements which correspond to the date of the original inspection.
 
+(4) The requirements listed in table I of this section are in effect annually from April 16 through April 15 of the following year, with an exception for the requirements for Guatemalan seedling which are in effect annually from June 9 to June 8 of the following year.
+
 (b) The term *diameter* means the greatest dimension measured at a right angle to a straight line from the stem to the blossom end of the fruit.
 
 (c) The term *importation* means release from custody of the United States Customs Service. The term *commercial processing into products* means the manufacture of avocado product which is preserved by any recognized commercial process, including canning, freezing, dehydrating, drying, the addition of chemical substances, or by fermentation.
@@ -92,4 +92,4 @@ Table 1
 
 (g) The maturity requirements of this section shall not be applicable to avocados imported for consumption by charitable institutions, distribution by relief agencies, seed, or commercial processing into products, but such avocados shall be subject to the safeguard provisions contained in § 944.350.
 
-[59 FR 30871, June 16, 1994, as amended at 61 FR 13058, Mar. 26, 1996; 64 FR 53186, Oct. 1, 1999; 73 FR 26945, May 12, 2008; 79 FR 55354, Sept. 16, 2014]
+[59 FR 30871, June 16, 1994, as amended at 61 FR 13058, Mar. 26, 1996; 64 FR 53186, Oct. 1, 1999; 73 FR 26945, May 12, 2008; 79 FR 55354, Sept. 16, 2014; 87 FR 8143, Feb. 14, 2022]

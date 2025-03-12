@@ -38,4 +38,4 @@
 
 (e) *Reporting requirements.* See § 743.1 of the EAR for reporting requirements of certain items under License Exception APP.
 
-[71 FR 20883, Apr. 24, 2006, as amended at 71 FR 51717, Aug. 31, 2006; 71 FR 68439, Nov. 27, 2006; 72 FR 13441, Mar. 22, 2007; 72 FR 60249, Oct. 24, 2007; 73 FR 51218, Sept. 2, 2008; 73 FR 68324, Nov. 18, 2008; 75 FR 31680, June 4, 2010; 75 FR 36514, June 28, 2010; 76 FR 36988, June 24, 2011; 76 FR 54930, Sept. 6, 2011; 76 FR 70339, Nov. 14, 2011; 77 FR 39367, July 2, 2012; 81 FR 64669, Sept. 20, 2016; 82 FR 38773, Aug. 15, 2017; 85 FR 83768, Dec. 23, 2020; 86 FR 4933, Jan. 19, 2021; 86 FR 13176, Mar. 8, 2021]
+[71 FR 20883, Apr. 24, 2006]Editorial Note:For Federal Register citations affecting § 740.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

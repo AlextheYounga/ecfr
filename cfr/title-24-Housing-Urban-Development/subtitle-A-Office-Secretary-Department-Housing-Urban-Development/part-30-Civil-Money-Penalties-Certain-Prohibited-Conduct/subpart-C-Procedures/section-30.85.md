@@ -2,7 +2,7 @@
 
 (a) *General.* Upon the expiration of the period for the respondent to submit a response to the prepenalty notice, the official designated in subpart B of this part, or his or her designee (or the Mortgagee Review Board in actions under § 30.35) shall determine whether to seek a civil money penalty. Such determination shall be based upon a review of the prepenalty notice, the response, if any, and the factors listed at § 30.80. A determination by the Mortgagee Review Board to seek a civil money penalty shall be by a majority vote of the Board.
 
-(b) If a determination is made to seek a civil money penalty, government counsel shall issue a complaint to the respondent on behalf of the officials listed at subpart B of this part or the Mortgagee Review Board for violations under § 30.35. The complaint shall be served upon respondent and simultaneously filed with the Office of Administrative Law Judges, and shall state the following:
+(b) If a determination is made to seek a civil money penalty, government counsel shall issue a complaint to the respondent on behalf of the officials listed at subpart B of this part or the Mortgagee Review Board for violations under § 30.35. The complaint shall be served upon respondent and simultaneously filed with the Office of Hearings and Appeals, and shall state the following:
 
 (1) The factual basis for the decision to seek a penalty;
 

@@ -1,8 +1,6 @@
 ##### § 26.2 Hearing officer, powers, and duties. #####
 
-Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
-
-(a) *Hearing officer.* Proceedings conducted under these rules shall be presided over by a hearing officer who shall be an Administrative Law Judge or Office of Appeals Administrative Judge authorized by the Secretary or designee to conduct proceedings under this part.
+(a) *Hearing officer.* Proceedings conducted under these rules shall be presided over by a hearing officer who shall be an Administrative Law Judge or Administrative Judge authorized by the Secretary or designee to conduct proceedings under this part.
 
 (b) *Time and place of hearing.* The hearing officer shall set the time and place of any hearing and shall give reasonable notice to the parties.
 
@@ -27,3 +25,5 @@ Link to an amendment published at 87 FR 8196, Feb. 14, 2022.
 (9) To make and file determinations; and
 
 (10) To exercise such other authority as is necessary to carry out the responsibilities of the hearing officer under subpart A of this part.
+
+[73 FR 76833, Dec. 17, 2008, as amended at 87 FR 8196, Feb. 14, 2022]

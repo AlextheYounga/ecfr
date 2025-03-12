@@ -1,5 +1,7 @@
 ##### § 1240.33 Single-family mortgage exposures. #####
 
+Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
+
 (a) *Definitions.* Subject to any additional instructions set forth on table 1 to this paragraph (a), for purposes of this section:
 
 *Adjusted MTMLTV* means, with respect to a single-family mortgage exposure and as of a particular time, the amount equal to:

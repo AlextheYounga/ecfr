@@ -1,5 +1,7 @@
 ##### § 1240.2 Definitions. #####
 
+Link to an amendment published at 87 FR 14770, Mar. 16, 2022.
+
 As used in this part:
 
 *Acquired CRT exposure* means, with respect to an Enterprise:

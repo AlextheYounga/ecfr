@@ -1,6 +1,6 @@
 ##### § 1612.7 Public announcement of agency meetings. #####
 
-(a) Public announcement of each meeting by the agency shall be accomplished by recorded telephone message at telephone number 202-663-7100, and by posting such announcements on the Commission's public Web site located at *http://www.eeoc.gov* not later than one week prior to commencement of a meeting or the commencement of the first meeting in a series of meetings, except as otherwise provided in this section, and shall disclose:
+(a) Public announcement of each meeting by the agency shall be accomplished by recorded telephone message at telephone number (202) 921-2750, and by posting such announcements on the Commission's public Web site located at *http://www.eeoc.gov* not later than one week prior to commencement of a meeting or the commencement of the first meeting in a series of meetings, except as otherwise provided in this section, and shall disclose:
 
 (1) The time of the meeting.
 
@@ -38,4 +38,4 @@ In these instances, the agency shall make public announcement at the earliest pr
 
 (5) The name and telephone number of an official designated to respond to requests for information about the meeting.
 
-[42 FR 13830, Mar. 14, 1977, as amended at 55 FR 8140, Mar. 7, 1990; 74 FR 3430, Jan. 21, 2009; 74 FR 42025, Aug. 20, 2009]
+[42 FR 13830, Mar. 14, 1977, as amended at 55 FR 8140, Mar. 7, 1990; 74 FR 3430, Jan. 21, 2009; 74 FR 42025, Aug. 20, 2009; 87 FR 14799, Mar. 16, 2022]
