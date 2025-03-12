@@ -1,5 +1,7 @@
 ##### 3002.101 Definitions. #####
 
+Link to an amendment published at 88 FR 40596, June 21, 2023.
+
 *Chief Information Officer (CIO)* means the Director of the Office of the CIO.
 
 *Chief of the Contracting Office (COCO)* means the individual(s) responsible for managing the contracting office(s) within a Component.

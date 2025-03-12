@@ -1,0 +1,3 @@
+##### § 386.14 Reporting requirements. #####
+
+The borrower will provide annual audited financial statements, a public benefits report, and other reports to the Corps in the form and manner agreed upon in the credit agreement. These other reports may include, but are not limited to, an updated financial model and construction reports. The Corps may conduct periodic financial and compliance reviews or audits of the borrower and its project, as determined necessary by the Corps.

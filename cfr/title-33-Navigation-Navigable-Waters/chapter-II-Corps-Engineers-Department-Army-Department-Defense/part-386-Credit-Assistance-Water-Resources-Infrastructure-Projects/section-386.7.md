@@ -1,0 +1,5 @@
+##### § 386.7 American iron and steel. #####
+
+(a) All projects receiving credit assistance under this part for construction, alteration, maintenance, or repair of a project shall use only iron and steel products produced in the United States, unless waiver of the requirement in this paragraph (a) is granted by an official authorized to do so.
+
+(b) Consistent with 33 U.S.C. 3914(b), “iron and steel products” means the following products made primarily of iron or steel: lined or unlined pipes and fittings, manhole covers and other municipal castings, hydrants, tanks, flanges, pipe clamps and restraints, valves, structural steel, reinforced precast concrete and construction materials. Equipment employed in construction that does not become part of the project is not an “iron and steel product” for the purpose of this section.

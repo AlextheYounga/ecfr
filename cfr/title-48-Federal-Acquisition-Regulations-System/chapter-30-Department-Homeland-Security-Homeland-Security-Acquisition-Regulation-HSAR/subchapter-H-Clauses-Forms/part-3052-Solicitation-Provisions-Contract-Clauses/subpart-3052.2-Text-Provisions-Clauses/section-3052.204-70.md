@@ -1,5 +1,7 @@
 ##### 3052.204-70 Security requirements for unclassified information technology resources. #####
 
+Link to an amendment published at 88 FR 40598, June 21, 2023.
+
 As prescribed in (HSAR) 48 CFR 3004.470-3, insert a clause substantially the same as follows:
 
 Security Requirements for Unclassified Information Technology Resources (JUN 2006)

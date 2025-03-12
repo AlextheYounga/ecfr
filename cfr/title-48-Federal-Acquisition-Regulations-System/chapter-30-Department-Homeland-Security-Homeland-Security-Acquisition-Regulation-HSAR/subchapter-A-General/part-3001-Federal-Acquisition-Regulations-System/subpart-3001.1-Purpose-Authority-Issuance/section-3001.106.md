@@ -1,5 +1,7 @@
 ##### 3001.106 OMB Approval under the Paperwork Reduction Act. #####
 
+Link to an amendment published at 88 FR 40596, June 21, 2023.
+
 (a) The Office of Management and Budget (OMB) has assigned the following control numbers that must appear on the upper right-hand corner of the face page of each solicitation, contract, modification, and order:
 
 OMB Control No. 1600-002 (Contract related forms)OMB Control No. 1600-005 (Offeror submissions)OMB Control No. 1600-003 (Contractor submissions)OMB Control No. 1600-004 (Protests)

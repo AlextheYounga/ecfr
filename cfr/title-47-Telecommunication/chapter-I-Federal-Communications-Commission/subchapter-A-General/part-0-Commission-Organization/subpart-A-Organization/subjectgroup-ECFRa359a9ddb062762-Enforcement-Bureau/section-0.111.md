@@ -1,5 +1,7 @@
 ##### § 0.111 Functions of the Bureau. #####
 
+Link to an amendment published at 88 FR 40116, June 21, 2023.
+
 (a) Serve as the primary Commission entity responsible for enforcement of the Communications Act and other communications statutes, the Commission's rules, Commission orders and Commission authorizations, other than matters that are addressed in the context of a pending application for a license or other authorization or in the context of administration, including post-grant administration, of a licensing or other authorization or registration program.
 
 (1) Resolve complaints, including complaints filed under section 208 of the Communications Act, regarding acts or omissions of common carriers (wireline, wireless and international).

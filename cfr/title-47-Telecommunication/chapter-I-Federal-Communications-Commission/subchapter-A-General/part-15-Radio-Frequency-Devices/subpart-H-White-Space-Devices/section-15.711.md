@@ -1,7 +1,5 @@
 ##### § 15.711 Interference avoidance methods. #####
 
-Link to an amendment published at 88 FR 32692, May 22, 2023.
-
 Except as provided in § 15.717 of this part, channel availability for a white space device is determined based on the geo-location and database access method described in paragraphs (a) through (e) of this section.
 
 (a) *Geolocation required.* White space devices shall rely on a geolocation capability and database access mechanism to protect the following authorized service in accordance with the interference protection requirements of § 15.712: Digital television stations, digital and analog Class A, low power, translator and booster stations; translator receive operations; fixed broadcast auxiliary service links; private land mobile service/commercial radio service (PLMRS/CMRS) operations; offshore radiotelephone service; low power auxiliary services authorized pursuant to §§ 74.801 through 74.882 of this chapter, including licensed wireless microphones; MVPD receive sites; wireless medical telemetry service (WMTS); radio astronomy service (RAS); and 600 MHz service band licensees where they have commenced operations, as defined in § 27.4 of this chapter. In addition, protection shall be provided in border areas near Canada and Mexico in accordance with § 15.712(g).
@@ -50,17 +48,23 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (g) *Identifying information.* Fixed white space devices shall transmit identifying information. The identification signal must conform to a standard established by a recognized industry standards setting organization. The identification signal shall carry sufficient information to identify the device and its geographic coordinates.
 
-(h) *Database re-check requirement.* (1) Fixed and Mode II personal/portable devices, except for narrowband devices, operating in the television bands.
+(h) *Database re-check requirement.* (1) Mobile devices and fixed and Mode II personal/portable devices, excluding narrowband devices, operating in the television bands.
 
 (i) A device that has been in a powered-on state shall access the white space database at least once every 60 minutes to verify that the operating channel(s) and associated maximum power levels continue to be available at its location. Devices shall adjust their channel usage in accordance with the most recent channel availability schedule information provided by the white space database for the two-hour period beginning at the time of the device last accessed the database for a list of available channels.
 
 (ii) If a device fails to successfully contact the white space database, it may continue to operate until no longer than 120 minutes after the last successful contact, at which time it must cease operations until it reestablishes contact with the white space database and re-verifies its list of available channels and associated maximum power levels.
 
-(2) Narrowband devices operating in the television bands and fixed and Mode II personal/portable devices operating outside of the television bands.
+(2) Fixed and Mode II personal/portable devices operating outside of the television bands.
 
 (i) A device that has been in a powered-on state shall access the database at least once a day to verify that the operating channel(s) and associated maximum power levels continue to be available at its location.
 
 (ii) If a device fails to successfully contact the white space database during any given day, it may continue to operate until 11:59 p.m. of the following day at which time it must cease operations until it re-establishes contact with the white space database and re-verifies its list of available channels and corresponding power levels.
+
+(3) Narrowband devices operating in the television bands.
+
+(i) A device that has been in a powered-on state shall access the database at least once each 24-hour period to verify that the operating channel(s) and associated maximum power levels continue to be available at its location.
+
+(ii) A device must cease operating if it fails to successfully access the database once 24 hours from its last successful contact elapses until it re-establishes contact with the white space database and re-verifies its list of available channels and corresponding power levels.
 
 (i) *Push notifications.* Device manufacturers and database administrators may implement a system that pushes updated channel availability information from the database to white space devices. However, the use of such systems is not mandatory, and the requirements for white space devices to validate the operating channel and to cease operation in accordance with paragraph (h) of this section continue to apply if such a system is used.
 
@@ -88,8 +92,8 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (8) A mobile device must re-check its coordinates at least once every 60 seconds while in operation except while in sleep mode, *i.e.,* in a mode in which the device is inactive but is not powered down. It must cease operation if its location is within 1.9 kilometers of the boundary, or outside the boundary, of the geo-fenced area over which the white space database has determined the available channels.
 
-(9) Each mobile white space device shall access the white space database at least once a day to verify that the operating channels within the geo-fenced area continue to remain available. Each mobile white space device must adjust its use of channels in accordance with channel availability schedule information provided by its database for the 48-hour period beginning at the time the device last accessed the database for a list of available channels.
+(9) A mobile white space device shall access the database at least as frequently as specified in paragraph (h) of this section to verify that the operating channel(s) and corresponding power levels continue to remain available.
 
 (10) Operation of mobile white space devices on satellites and aircraft, including unmanned aerial vehicles, is prohibited.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017; 84 FR 34797, July 19, 2019; 86 FR 2292, Jan. 12, 2021; 87 FR 18992, Apr. 1, 2022]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017; 84 FR 34797, July 19, 2019; 86 FR 2292, Jan. 12, 2021; 87 FR 18992, Apr. 1, 2022; 88 FR 32692, May 22, 2023]

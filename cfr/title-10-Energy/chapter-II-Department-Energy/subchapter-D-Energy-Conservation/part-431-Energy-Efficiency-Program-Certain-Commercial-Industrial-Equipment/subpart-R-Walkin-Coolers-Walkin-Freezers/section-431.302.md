@@ -10,7 +10,7 @@
 
 (2) [Reserved]
 
-CO2*unit cooler* means a unit cooler that includes a nameplate listing only CO2 as an approved refrigerant.
+*CO*2*unit cooler* means a unit cooler that includes a nameplate listing only CO2 as an approved refrigerant.
 
 *Dedicated condensing unit* means a positive displacement condensing unit that is part of a refrigeration system (as defined in this section) and is an assembly that
 
