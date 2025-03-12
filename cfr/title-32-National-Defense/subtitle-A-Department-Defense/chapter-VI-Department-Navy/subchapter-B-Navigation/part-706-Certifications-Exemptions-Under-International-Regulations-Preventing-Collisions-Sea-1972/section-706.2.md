@@ -58,6 +58,7 @@ Table One
 |      USS SIOUX CITY      |        LCS 11         |                                            5.98                                             |
 |        USS OMAHA         |        LCS 12         |                                            4.27                                             |
 |      USS MANCHESTER      |        LCS 14         |                                             4.3                                             |
+|        USS TULSA         |        LCS 16         |                                             4.2                                             |
 |        USS OGDEN         |         LPD 5         |                                            4.15                                             |
 |        USS DULUTH        |         LPD 6         |                                             4.4                                             |
 |       USS DUBUQUE        |         LPD 8         |                                             4.2                                             |
@@ -590,6 +591,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 | USS GABRIELLE GIFFORDS | LCS 10 |                                                                                                Upper - 0.16  <br/>Middle - 1.2  <br/>Lower - 1.2                                                                                                |
 |       USS OMAHA        | LCS 12 |                                                                                     Upper - 0.17 meters  <br/>Middle - 1.3 meters  <br/>Lower - 1.3 meters                                                                                      |
 |     USS MANCHESTER     | LCS 14 |                                                                                    Upper - 0.16 meters  <br/>Middle - 1.27 meters  <br/>Lower - 1.24 meters                                                                                     |
+|       USS TULSA        | LCS 16 |                                                                                   Upper - 0.20 meters.  <br/>Middle - 1.32 meters.  <br/>Lower - 1.40 meters.                                                                                   |
 
 <sup>1</sup> On DDG 1000, the ship does not have a traditional mast. To achieve the effect of a “single, all-around light,” multiple sets of task lights are embedded into each of the four faces of the ship's superstructure. Except when viewing the ship from dead ahead, dead astern or broadside, two deckhouse surfaces are visible; consequently, two sets of task lights are visible simultaneously. Because the deckhouse surfaces are sloped, unless the lights are viewed dead-on, the three task lights do not present as being in a vertical line.
 
@@ -667,6 +669,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |                        |                                          |              287 thru 289°               |
 |       USS OMAHA        |                  LCS 12                  |     72 thru 74°  <br/>286 thru 288°      |
 |     USS MANCHESTER     |                  LCS 14                  |     72 thru 74°  <br/>286 thru 288°      |
+|       USS TULSA        |                  LCS 16                  |    72° thru 74°.  <br/>286° thru 288°    |
 |          USV           |11MUCO601, 11MUCO602, 11MUC0603, 11MUC0604|              271 thru 278°               |
 
 17. The second masthead light required by Rule 23(a)(ii) will not be displayed on the PC 1 Class.
@@ -797,6 +800,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |    Vessel    | No.  |Obstruction angle relative ship heading|
 |--------------|------|---------------------------------------|
 |USS MANCHESTER|LCS 14|   47° thru 59°  <br/>301° thru 313°   |
+|  USS TULSA   |LCS 16|  47° thru 59°.  <br/>301° thru 313°   |
 
 Table Five
 
@@ -957,6 +961,7 @@ Table Five
 |     USS SIOUX CITY     |  LCS 11 |                                                                              |                                    X                                    |                                                X                                                |                    23                   |
 |       USS OMAHA        |  LCS 12 |                                                                              |                                    X                                    |                                                X                                                |                   17.3                  |
 |     USS MANCHESTER     |  LCS 14 |                                                                              |                                    X                                    |                                                X                                                |                   14.5                  |
+|       USS TULSA        | LCS 16  |                                                                              |                                    X                                    |                                                X                                                |                  15.0                   |
 |       USS TARAWA       |  LHA 1  |                                                                              |                                    X                                    |                                                X                                                |                    13                   |
 |       USS SAIPAN       |  LHA 2  |                                                                              |                                    X                                    |                                                X                                                |                   10.2                  |
 |    USS BELLEAU WOOD    |  LHA 3  |                                                                              |                                    X                                    |                                                X                                                |                    13                   |

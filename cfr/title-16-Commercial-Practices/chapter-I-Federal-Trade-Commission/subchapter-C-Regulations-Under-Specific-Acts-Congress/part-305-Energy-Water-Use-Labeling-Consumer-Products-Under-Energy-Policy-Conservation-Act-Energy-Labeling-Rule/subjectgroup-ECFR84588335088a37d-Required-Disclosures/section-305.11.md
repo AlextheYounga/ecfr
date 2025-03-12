@@ -1,18 +1,18 @@
 ##### § 305.11 Labeling for refrigerators, refrigerator-freezers, freezers, dishwashers, clothes washers, water heaters, room air conditioners, and pool heaters. #####
 
-Link to an amendment published at 82 FR 29235, June 28, 2017.
-
 (a) *Layout.* All energy labels for refrigerators, refrigerator-freezers, freezers, dishwashers, clothes washers, water heaters, pool heaters, and room air conditioners shall use one size, similar colors, and typefaces with consistent positioning of headline, copy, and charts to maintain uniformity for immediate consumer recognition and readability. Trim size dimensions for all labels shall be as follows: width must be between 51/4 inches and 51/2 inches (13.34 cm. and 13.97 cm.); length must be between 73/8 inches (18.73 cm.) and 75/8 (19.37 cm.). Copy is to be set between 27 picas and 29 picas and copy page should be centered (right to left and top to bottom). Depth is variable but should follow closely the prototype labels appearing at the end of this part illustrating the basis layout. All positioning, spacing, type sizes, and line widths should be similar to and consistent with the prototype and sample labels in appendix L to this part.
 
 (b) *Type style and setting.* The Arial series typeface or equivalent shall be used exclusively on the label. Specific sizes and faces to be used are indicated on the prototype labels. No hyphenation should be used in setting headline or copy text. Positioning and spacing should follow the prototypes closely. Generally, text must be set flush left with two points leading except where otherwise indicated. See the prototype labels for specific directions.
 
 (c) *Colors.* The basic colors of all labels covered by this section shall be process yellow or equivalent and process black. The label shall be printed full bleed process yellow. All type and graphics shall be print process black.
 
-(d) Label types. The labels must be affixed to the product in the form of an adhesive label or a hang tag as follows:
+(d) *Label types.* Except as indicated in paragraph (d)(3) of this section, the labels must be affixed to the product in the form of an adhesive label or a hang tag as follows:
 
 (1) *Adhesive labels.* All adhesive labels should be applied so they can be easily removed without the use of tools or liquids, other than water, but should be applied with an adhesive with an adhesion capacity sufficient to prevent their dislodgment during normal handling throughout the chain of distribution to the retailer or consumer. The paper stock for pressure-sensitive or other adhesive labels shall have a basic weight of not less than 58 pounds per 500 sheets (25″ x 38″) or equivalent, exclusive of the release liner and adhesive. A minimum peel adhesion capacity for the adhesive of 12 ounces per square inch is suggested, but not required if the adhesive can otherwise meet the above standard. In lieu of a label with adhesive backing, manufacturers may adhere the label with adhesive tape, provided the tape is affixed along the entire top and bottom of the label.
 
 (2) *Hang tags.* Labels may be affixed to the product in the form of a hang tag using cable ties or double strings connected through reinforced punch holes, or with attachment and label material of equivalent or greater strength and durability. If paper stock is used for hang tags, it shall have a basic weight of not less than 110 pounds per 500 sheets (251/2″ x 301/2″ index). When materials are used to attach the hang tags to appliance products, the materials shall be of sufficient strength to insure that if gradual pressure is applied to the hang tag by pulling it away from where it is affixed to the product, the hang tag will tear before the material used to affix the hang tag to the product breaks.
+
+(3) *Package labels for certain products.* Labels for electric instantaneous water heaters shall be printed on or affixed to the product's packaging in a conspicuous location.
 
 (e) *Placement* - (1) *Adhesive labels.* Manufacturers shall affix adhesive labels to the covered products in such a position that it is easily read by a consumer examining the product. The label should be generally located on the upper-right-front corner of the product's front exterior. However, some other prominent location may be used as long as the label will not become dislodged during normal handling throughout the chain of distribution to the retailer or consumer. The top of the label should not exceed 74 inches from the base of taller products. The label can be displayed in the form of a flap tag adhered to the top of the appliance and bent (folded at 90°) to hang over the front, as long as this can be done with assurance that it will be readily visible.
 
@@ -36,7 +36,7 @@ Link to an amendment published at 82 FR 29235, June 28, 2017.
 
 (9) Labels must contain a statement as illustrated in the prototype labels in appendix L and specified as follows by product type:
 
-(i) Labels for refrigerators and refrigerator-freezers must contain a statement as illustrated in the prototype labels in appendix L and specified as follows (fill in the blanks with the appropriate year and energy cost figures):
+(i) Labels for refrigerators and refrigerator-freezers must contain a statement as illustrated in the prototype labels in appendix L and specified as follows (fill in the blanks with the appropriate energy cost figure):
 
 Your cost will depend on your utility rates and use.
 
@@ -44,7 +44,7 @@ Both cost ranges based on models of similar size capacity.
 
 [Insert statement required by § 305.11(f)(9)(iii)].
 
-Estimated energy cost is based on a national average electricity cost of \_\_cents per kWh.
+Estimated energy cost based on a national average electricity cost of \_\_ cents per kWh.
 
 *ftc.gov/energy*.
 
@@ -88,13 +88,13 @@ Models with similar features have automatic defrost, bottom-mounted freezer and 
 
 Models with similar features have automatic defrost, side-mounted freezer, and through-the-door ice.
 
-(iv) Labels for freezers must contain a statement as illustrated in the prototype labels in appendix L and specified as follows (fill in the blanks with the appropriate year and energy cost figures):
+(iv) Labels for freezers must contain a statement as illustrated in the prototype labels in appendix L and specified as follows (fill in the blanks with the appropriate energy cost figure):
 
 Your cost will depend on your utility rates and use.
 
-[Insert statement required by § 305.11(f)(10)(v).]
+[Insert statement required by § 305.11(f)(10)(v)].
 
-Estimated energy cost is based on a national average electricity cost of \_\_cents per kWh.
+Estimated energy cost based on a national average electricity cost of \_\_ cents per kWh.
 
 *ftc.gov/energy*.
 
@@ -122,49 +122,49 @@ Estimated annual energy cost is based on a national average electricity cost of 
 
 For more information, visit *www.ftc.gov/energy.*
 
-(vii) For water heaters covered by Appendices D1, D2, and D3, the statement will read as follows (fill in the blanks with the appropriate fuel type, year, and energy cost figures):
+(vii) For water heaters covered by appendices D1, D2, and D3, the statement will read as follows (fill in the blanks with the appropriate fuel type, and energy cost figures):
 
 Your costs will depend on your utility rates and use.
 
-Cost range based only on models fueled by [natural gas, oil, propane, or electricity] with a [very small, low, medium, or large] first hour rating ([fewer than 18 gallons, 18-50.9 gallons, 51-74.9 gallons, or greater than 75 gallons]).
+Cost range based only on models fueled by [natural gas, oil, propane, or electricity] with a [very small, low, medium, or high] first hour rating [fewer than 18 gallons, 18-50.9 gallons, 51-74.9 gallons, or greater than 75 gallons].
 
-Estimated energy cost is based on a national average [electricity, natural gas, propane, or oil] cost of [\_\_cents per kWh or $\_\_per therm or gallon].
+Estimated energy cost is based on a national average [electricity, natural gas, propane, or oil] cost of [\_\_ cents per kWh or $\_\_ per therm or gallon].
 
-Estimated yearly energy use: \_\_[kWh or therms].
+Estimated yearly energy use: \_\_ [kWh or therms].
 
 *ftc.gov/energy*.
 
-(viii) For instantaneous water heaters (Appendix D4), the statement will read as follows (fill in the blanks with the appropriate model type, the operating cost, the year, and the energy cost figures):
+(viii) For instantaneous water heaters (appendices D4 and D5), the statement will read as follows (fill in the blanks with the appropriate model type, and the energy cost figures):
 
 Your costs will depend on your utility rates and use.
 
-Cost range based only on models fueled by natural gas with a [very small, low, medium, or large] gallons per minute rating ([0 to 1.6, 1.7 to 2.7, 2.8 to 4.0, or greater than 4.0]).
+Cost range based only on [electric models or models fueled by natural gas] with a [very small, low, medium, or high] gallons per minute rating [0 to 1.6, 1.7 to 2.7, 2.8 to 4.0, or greater than 4.0].
 
-Estimated energy cost is based on a national average [natural gas, or propane] cost of [\_\_cents per kWh or $\_\_per therm or gallon].
+Estimated energy cost is based on a national average [electricity, natural gas, or propane] cost of [ \_\_ cents per kWh or $\_\_ per therm or gallon].
 
-Estimated yearly energy use: \_\_[kWh or therms].
+Estimated yearly energy use: \_\_ [kWh or therms].
 
-*ftc.gov/energy.*
+*ftc.gov/energy*.
 
-(ix) For dishwashers covered by appendices C1 and C2, the statement will read as follows (fill in the blanks with the appropriate appliance type, the energy cost, the number of loads per week, the year, and the energy cost figures):
-
-Your costs will depend on your utility rates and use.
-
-Cost range based only on [compact/standard] capacity models.
-
-Estimated energy cost is based on 4 washloads a week, and a national average electricity cost of \_\_cents per kWh and natural gas cost of $\_\_per therm.
-
-*ftc.gov/energy.*
-
-(x) For clothes washers covered by appendices F1 and F2, the statement will read as follows (fill in the blanks with the appropriate appliance type, the energy cost, the number of loads per week, the year, and the energy cost figures):
+(ix) For dishwashers covered by appendices C1 and C2, the statement will read as follows (fill in the brackets with the appropriate capacity and the energy cost figures):
 
 Your costs will depend on your utility rates and use.
 
 Cost range based only on [compact/standard] capacity models.
 
-Estimated energy cost is based on six wash loads a week and a national average electricity cost of \_\_cents per kWh and natural gas cost of $\_\_per therm.
+Estimated energy cost is based on four washloads a week, and a national average electricity cost of [\_\_] cents per kWh and natural gas cost of $[\_\_] per therm.
 
-*ftc.gov/energy.*
+For more information, visit *www.ftc.gov/energy*.
+
+(x) For clothes washers covered by appendices F1 and F2, the statement will read as follows (fill in the blanks with the appropriate capacity and energy cost figures):
+
+Your costs will depend on your utility rates and use.
+
+Cost range based only on [compact/standard] capacity models.
+
+Estimated operating cost is based on six wash loads a week and a national average electricity cost of \_\_ cents per kWh and natural gas cost of $ \_\_ per therm.
+
+*ftc.gov/energy*.
 
 (xi) For pool heaters covered under appendices J1 and J2, the statement will read as follows:
 
@@ -172,4 +172,4 @@ Efficiency range based only on models fueled by [natural gas or oil].
 
 For more information, visit *www.ftc.gov/energy.*
 
-[72 FR 49967, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 43981, July 23, 2013; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016]
+[72 FR 49967, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 43981, July 23, 2013; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016; 82 FR 29235, June 28, 2017]
