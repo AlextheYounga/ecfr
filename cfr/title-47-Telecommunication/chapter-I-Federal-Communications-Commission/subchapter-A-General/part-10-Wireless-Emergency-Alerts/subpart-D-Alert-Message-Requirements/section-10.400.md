@@ -1,6 +1,6 @@
 ##### § 10.400 Classification. #####
 
-Link to an amendment published at 81 FR 75726, November 1, 2016.
+Link to an amendment published at 81 FR 75726, Nov. 1, 2016.
 
 A Participating CMS Provider is required to receive and transmit three classes of Alert Messages: Presidential Alert; Imminent Threat Alert; and Child Abduction Emergency/AMBER Alert.
 

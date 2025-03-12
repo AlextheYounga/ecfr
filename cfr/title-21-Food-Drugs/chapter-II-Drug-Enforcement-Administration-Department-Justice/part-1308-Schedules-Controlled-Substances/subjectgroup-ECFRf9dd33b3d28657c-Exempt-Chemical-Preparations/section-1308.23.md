@@ -1,6 +1,6 @@
 ##### § 1308.23 Exemption of certain chemical preparations; application. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.
+Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The Administrator may, by regulation, exempt from the application of all or any part of the Act any chemical preparation or mixture containing one or more controlled substances listed in any schedule, which preparation or mixture is intended for laboratory, industrial, educational, or special research purposes and not for general administration to a human being or other animal, if the preparation or mixture either:
 

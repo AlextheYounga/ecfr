@@ -1,10 +1,14 @@
 ##### § 457.380 Eligibility verification. #####
 
-Link to an amendment published at 81 FR 86466, Nov. 30, 2016.
-
 (a) *General requirements.* Except where law requires other procedures (such as for citizenship and immigration status information), the State may accept attestation of information needed to determine the eligibility of an individual for CHIP (either self-attestation by the individual or attestation by an adult who is in the applicant's household, as defined in § 435.603(f) of this subchapter, or family, as defined in section 36B(d)(1) of the Internal Revenue Code, an authorized representative, or if the individual is a minor or incapacitated, someone acting responsibly for the individual) without requiring further information (including documentation) from the individual.
 
-(b) [Reserved]
+(b) *Status as a citizen, national or a non-citizen.* (1) Except for newborns identified in § 435.406(a)(1)(iii)(E) of this chapter, who are exempt from any requirement to verify citizenship, the agency must—
+
+(i) Verify citizenship or immigration status in accordance with § 435.956(a) of this chapter, except that the reference to § 435.945(k) is read as a reference to paragraph (i) of this section; and
+
+(ii) Provide a reasonable opportunity period to verify such status in accordance with § 435.956(a)(5) and (b) of this chapter and provide benefits during such reasonable opportunity period to individuals determined to be otherwise eligible for CHIP.
+
+(2) [Reserved]
 
 (c) *State residents.* If the State does not accept self-attestation of residency, the State must verify residency in accordance with § 435.956(c) of this chapter.
 
@@ -22,4 +26,4 @@ Link to an amendment published at 81 FR 86466, Nov. 30, 2016.
 
 (j) *Verification plan.* The State must develop, and update as modified, and submit to the Secretary, upon request, a verification plan describing the verification policies and procedures adopted by the State to implement the provisions set forth in this section in a format and manner prescribed by the Secretary.
 
-[77 FR 17216, Mar. 23, 2012]
+[77 FR 17216, Mar. 23, 2012, as amended at 81 FR 86466, Nov. 30, 2016]

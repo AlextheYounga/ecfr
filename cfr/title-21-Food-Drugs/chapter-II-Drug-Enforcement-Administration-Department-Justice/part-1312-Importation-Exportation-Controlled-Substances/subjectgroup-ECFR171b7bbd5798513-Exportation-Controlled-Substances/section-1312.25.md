@@ -1,6 +1,6 @@
 ##### § 1312.25 Expiration date. #####
 
-Link to an amendment published at 81 FR 97032, December 30, 2016.
+Link to an amendment published at 81 FR 97032, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 An export permit shall not be valid after the date specified therein, which date shall conform to the expiration date specified in the supporting import certificate or other documentary evidence upon which the export permit is founded, but in no event shall the date be subsequent to 6 months after the date the permit is issued. Any unused export permit shall be returned by the permittee to the Import/Export Unit for cancellation.
 

@@ -1,7 +1,5 @@
 ##### § 407.42 Buy-in groups available to the 50 States, the District of Columbia, and the Northern Mariana Islands. #####
 
-Link to an amendment published at 81 FR 86447, Nov. 30, 2016.
-
 (a) *Categories included in the buy-in groups.* The buy-in groups that are available to the 50 States, the District of Columbia, and the Northern Mariana Islands are specified in paragraph (b) of this section in terms of the following categories:
 
 (1) *Category A:* Individuals who -
@@ -20,7 +18,7 @@ Link to an amendment published at 81 FR 86447, Nov. 30, 2016.
 
 (4) *Category D:* Individuals who, under the Act or any other provision of Federal law, are treated, for Medicaid eligibility purposes, as though they were receiving AFDC.
 
-(5) *Category E:* Individuals who, in accordance with § 435.114 or § 435.134 of this chapter, are covered under the State's Medicaid plan despite the increase in social security benefits provided by Public Law 92-336.
+(5) *Category E:* Individuals who, in accordance with § 435.134 of this chapter, are covered under the State's Medicaid plan despite the increase in social security benefits provided by Public Law 92-336.
 
 (6) *Category F:* Individuals who are Qualified Medicare Beneficiaries.1
 
@@ -44,4 +42,4 @@ Link to an amendment published at 81 FR 86447, Nov. 30, 2016.
 
 (7) *Group 7:* Categories A and B, and individuals in category E who are included in that category (in accordance with § 435.134 of this chapter) because they received AABD in August 1972 or would have been eligible to receive AABD for that month if they had applied or had not been institutionalized. This option is available only to those States that had an AABD program as of December 31, 1973.
 
-[56 FR 38081, Aug. 12, 1991]
+[56 FR 38081, Aug. 12, 1991, as amended at 81 FR 86447, Nov. 30, 2016]

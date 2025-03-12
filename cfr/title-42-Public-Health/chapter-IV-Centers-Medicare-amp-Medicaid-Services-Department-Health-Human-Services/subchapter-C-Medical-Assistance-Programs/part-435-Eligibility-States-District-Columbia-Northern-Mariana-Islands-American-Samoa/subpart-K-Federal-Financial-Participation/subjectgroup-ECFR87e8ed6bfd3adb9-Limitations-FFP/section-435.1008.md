@@ -1,7 +1,9 @@
-##### § 435.1008 FFP in expenditures for medical assistance for individuals who have declared United States citizenship or nationality under section 1137(d) of the Act and with respect to whom the State has not documented citizenship and identity. #####
+##### § 435.1008 FFP in expenditures for medical assistance for individuals who have declared citizenship or nationality or satisfactory immigration status. #####
 
-Link to an amendment published at 81 FR 86460, Nov. 30, 2016.
+(a) This section implements sections 1137 and 1902(a)(46)(B) of the Act.
 
-Except for individuals described in § 435.406(a)(1)(v), FFP will not be available to a State with respect to expenditures for medical assistance furnished to individuals unless the State has obtained satisfactory documentary evidence of citizenship or national status, as described in § 435.407 that complies with the requirements of section 1903(x) of the Act.
+(b) Except as provided in paragraph (c) of this section, FFP is not available to a State for expenditures for medical assistance furnished to individuals unless the State has verified citizenship or immigration status in accordance with § 435.956.
 
-[72 FR 38694, July 13, 2007]
+(c) FFP is available to States for otherwise eligible individuals whose declaration of U.S. citizenship or satisfactory immigration status in accordance with section 1137(d) of the Act and § 435.406(c) has been verified in accordance with § 435.956, who are exempt from the requirements to verify citizenship under § 435.406(a)(1)(iii), or for whom benefits are provided during a reasonable opportunity period to verify citizenship, nationality, or satisfactory immigration status in accordance with section § 435.956(b), including the time period during which an appeal is pending if the State has elected the option under § 435.956(b)(3).
+
+[81 FR 86460, Nov. 30, 2016]

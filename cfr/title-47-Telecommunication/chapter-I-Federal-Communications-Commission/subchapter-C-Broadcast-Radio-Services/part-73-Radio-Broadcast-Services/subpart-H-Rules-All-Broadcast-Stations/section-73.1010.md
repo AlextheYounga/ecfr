@@ -1,7 +1,5 @@
 ##### § 73.1010 Cross reference to rules in other parts. #####
 
-Link to an amendment published at 81 FR 86613, December 1, 2016.
-
 Certain rules applicable to broadcast services, some of which are also applicable to other services, are set forth in the following Parts of the FCC Rules and Regulations.
 
 (a) Part 1, “Practice and Procedure.”
@@ -22,7 +20,9 @@ Certain rules applicable to broadcast services, some of which are also applicabl
 
 (8) Subpart Q, “Competitive Bidding Proceedings” (§§ 1.2101-1.2112).
 
-(9) Part 1, Subpart W of this chapter, “FCC Registration Number”. (§§ 1.8001-1.8005.)
+(9) Subpart T, “Foreign Ownership of Broadcast, Common Carrier, Aeronautical En Route, and Aeronautical Fixed Radio Station Licensees”. (§§ 1.5000 to 1.5004).
+
+(10) Part 1, Subpart W of this chapter, “FCC Registration Number”. (§§ 1.8001-1.8005).
 
 (b) Part 2, “Frequency Allocations and Radio Treaty Matters, General Rules and Regulations”, including Subparts A, “Terminology”; B, “Allocation, Assignments and Use of Radio Frequencies”; C, “Emissions”; D, “Call Signs and Other Forms of Identifying Radio Transmissions”; and J, “Equipment Authorization Procedures”.
 
@@ -46,4 +46,4 @@ Certain rules applicable to broadcast services, some of which are also applicabl
 
 (7) Subpart L, “FM Broadcast Translator Stations and FM Broadcast Booster Stations”.
 
-[53 FR 2498, Jan. 28, 1988, as amended at 57 FR 48333, Oct. 23, 1992; 60 FR 55480, Nov. 1, 1995; 63 FR 48622, Sept. 11, 1998; 66 FR 47896, Sept. 14, 2001; 69 FR 72043, Dec. 10, 2004; 76 FR 70911, Nov. 16, 2011]
+[53 FR 2498, Jan. 28, 1988, as amended at 57 FR 48333, Oct. 23, 1992; 60 FR 55480, Nov. 1, 1995; 63 FR 48622, Sept. 11, 1998; 66 FR 47896, Sept. 14, 2001; 69 FR 72043, Dec. 10, 2004; 76 FR 70911, Nov. 16, 2011; 81 FR 86613, Dec. 1, 2016]Effective Date Note:At 81 FR 86613, Dec. 1, 2016, § 73.1010 was amended by revising paragraph (a)(9) and adding paragraph (a)(10). These paragraphs contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

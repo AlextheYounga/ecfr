@@ -1,7 +1,5 @@
 ##### § 35.1330 Interim controls. #####
 
-Link to an amendment published at 82 FR 4172, Jan. 13, 2017.
-
 Interim controls of lead-based paint hazards identified in a risk assessment shall be conducted in accordance with the provisions of this section. Interim control measures include paint stabilization of deteriorated paint, treatments for friction and impact surfaces where levels of lead dust are above the levels specified in § 35.1320, dust control, and lead-contaminated soil control. As provided by § 35.155, interim controls may be performed in combination with, or be replaced by, abatement methods.
 
 (a) *General requirements.* (1) Only those interim control methods identified as acceptable methods in a current risk assessment report shall be used to control identified hazards, except that, if only paint stabilization is required in accordance with subparts F, H, K or M of this part, it shall not be necessary to have conducted a risk assessment.
@@ -16,7 +14,7 @@ Interim controls of lead-based paint hazards identified in a risk assessment sha
 
 (ii) A lead-based paint abatement worker course accredited in accordance with 40 CFR 745.225; or
 
-(iii) Another course approved by HUD for this purpose after consultation with the EPA. A current list of approved courses is available on the Internet at *http://www.hud.gov/offices/lead,* or by mail or fax from the HUD Office of Lead Hazard Control and Healthy Homes at (202) 402-7698 (this is not a toll-free number). Persons with hearing or speech impediments may access the above telephone number via phone or TTY by calling the toll-free Federal Relay Service at (800) 877-8339.
+(iii) A renovator course accredited in accordance with 40 CFR 745.225.
 
 (iv) “The Remodeler's and Renovator's Lead-Based Paint Training Program,” prepared by HUD and the National Association of the Remodeling Industry; or
 
@@ -108,4 +106,4 @@ Interim controls of lead-based paint hazards identified in a risk assessment sha
 
 (B) If land use controls are used for a soil area that is subject to erosion, measures shall be taken to contain the soil and control dispersion of lead.
 
-[64 FR 50218, Sept. 15, 1999, as amended at 69 FR 34274, June 21, 2004; 79 FR 35043, June 19, 2014]
+[64 FR 50218, Sept. 15, 1999, as amended at 69 FR 34274, June 21, 2004; 79 FR 35043, June 19, 2014; 82 FR 4172, Jan. 13, 2017]

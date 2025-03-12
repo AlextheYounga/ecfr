@@ -1,7 +1,5 @@
 ##### § 1001.951 Fraud and kickbacks and other prohibited activities. #####
 
-Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
-
 (a) *Circumstance for exclusion.* (1) Except as provided for in paragraph (a)(2)(ii) of this section, the OIG may exclude any individual or entity that it determines has committed an act described in section 1128B(b) of the Act.
 
 (2) With respect to acts described in section 1128B of the Act, the OIG -
@@ -24,14 +22,14 @@ Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
 
 (2) It will be considered a mitigating factor if -
 
-(i) The individual had a documented mental, emotional, or physical condition before or during the commission of the prohibited act(s) that reduced the individual's culpability for the acts in question;
+(i) The individual had a documented mental, emotional, or physical condition before or during the commission of the prohibited act(s) that reduced the individual's culpability for the acts in question; or
 
 (ii) The individual's or entity's cooperation with Federal or State officials resulted in the -
 
 (A) Sanctioning of other individuals or entities, or
 
-(B) Imposition of a civil money penalty against others; or
+(B) Imposition of a civil money penalty against others.
 
-(iii) Alternative sources of the type of health care items or services provided by the individual or entity are not available.
+(c) *Limitations.* The OIG may not impose an exclusion under this section more than 10 years after the date when an act which is described in section 1128B(b) of the Act occurred.
 
-[57 FR 3330, Jan. 29, 1992, as amended at 63 FR 46689, Sept. 2, 1998; 67 FR 11933, Mar. 18, 2002]
+[57 FR 3330, Jan. 29, 1992, as amended at 63 FR 46689, Sept. 2, 1998; 67 FR 11933, Mar. 18, 2002; 82 FR 4114, Jan. 12, 2017]

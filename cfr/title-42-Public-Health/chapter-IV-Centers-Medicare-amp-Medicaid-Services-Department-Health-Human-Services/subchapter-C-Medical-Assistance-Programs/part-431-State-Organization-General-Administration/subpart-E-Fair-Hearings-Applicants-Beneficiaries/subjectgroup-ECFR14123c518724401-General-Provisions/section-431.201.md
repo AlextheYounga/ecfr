@@ -1,10 +1,8 @@
 ##### § 431.201 Definitions. #####
 
-Link to an amendment published at 81 FR 86448, Nov. 30, 2016.
-
 For purposes of this subpart:
 
-*Action* means a termination, suspension, or reduction of Medicaid eligibility or covered services. It also means determinations by skilled nursing facilities and nursing facilities to transfer or discharge residents and adverse determinations made by a State with regard to the preadmission screening and annual resident review requirements of section 1919(e)(7) of the Act.
+*Action* means a termination, suspension of, or reduction in covered benefits or services, or a termination, suspension of, or reduction in Medicaid eligibility or an increase in beneficiary liability, including a determination that a beneficiary must incur a greater amount of medical expenses in order to establish income eligibility in accordance with § 435.121(e)(4) or § 435.831 of this chapter or is subject to an increase in premiums or cost-sharing charges under subpart A of part 447 of this chapter. It also means a determination by a skilled nursing facility or nursing facility to transfer or discharge a resident and an adverse determination by a State with regard to the preadmission screening and resident review requirements of section 1919(e)(7) of the Act.
 
 *Adverse determination* means a determination made in accordance with sections 1919(b)(3)(F) or 1919(e)(7)(B) of the Act that the individual does not require the level of services provided by a nursing facility or that the individual does or does not require specialized services.
 
@@ -14,6 +12,10 @@ For purposes of this subpart:
 
 *Evidentiary hearing* means a hearing conducted so that evidence may be presented.
 
+*Joint fair hearing request* means a request for a Medicaid fair hearing which is included in an appeal request submitted to an Exchange or Exchange appeals entity under 45 CFR 155.520 or other insurance affordability program or appeals entity, in accordance with the signed agreement between the agency and an Exchange or Exchange appeals entity or other program or appeals entity described in § 435.1200(b)(3) of this chapter .
+
+*Local evidentiary hearing* means a hearing held on the local or county level serving a specified portion of the State.
+
 *Notice* means a written statement that meets the requirements of § 431.210.
 
 *Request for a hearing* means a clear expression by the applicant or beneficiary, or his authorized representative, that he wants the opportunity to present his case to a reviewing authority.
@@ -22,4 +24,4 @@ For purposes of this subpart:
 
 *Service authorization request* means a managed care enrollee's request for the provision of a service.
 
-[44 FR 17932, Mar. 29, 1979, as amended at 57 FR 56505, Nov. 30, 1992; 67 FR 41095, June 14, 2002; 78 FR 42301, July 15, 2013]
+[44 FR 17932, Mar. 29, 1979, as amended at 57 FR 56505, Nov. 30, 1992; 67 FR 41095, June 14, 2002; 78 FR 42301, July 15, 2013; 81 FR 86448, Nov. 30, 2016]

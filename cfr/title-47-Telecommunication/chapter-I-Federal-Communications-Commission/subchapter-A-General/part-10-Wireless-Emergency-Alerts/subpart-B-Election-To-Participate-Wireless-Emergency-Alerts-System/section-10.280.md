@@ -1,6 +1,6 @@
 ##### § 10.280 Subscribers' right to opt out of WEA notifications. #####
 
-Link to an amendment published at 81 FR 75725, November 1, 2016.
+Link to an amendment published at 81 FR 75725, Nov. 1, 2016.
 
 (a) CMS providers may provide their subscribers with the option to opt out of both, or either, the “Child Abduction Emergency/AMBER Alert” and “Imminent Threat Alert” classes of Alert Messages.
 

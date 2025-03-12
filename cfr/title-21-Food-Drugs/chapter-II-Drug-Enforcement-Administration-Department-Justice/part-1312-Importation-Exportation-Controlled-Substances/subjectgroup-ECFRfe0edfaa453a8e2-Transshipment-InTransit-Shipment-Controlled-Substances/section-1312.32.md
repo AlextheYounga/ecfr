@@ -1,6 +1,6 @@
 ##### § 1312.32 Schedules II, III, IV: Advance notice. #####
 
-Link to an amendment published at 81 FR 97036, December 30, 2016.
+Link to an amendment published at 81 FR 97036, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) A controlled substance listed in Schedules II, III, or IV may be imported into the United States for transshipment, or may be transferred or transshipped within the United States for immediate exportation, provided that written notice is submitted to the Import/Export Unit, Drug Enforcement Administration, at least 15 days prior to the expected date of importation, transfer or transshipment. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 

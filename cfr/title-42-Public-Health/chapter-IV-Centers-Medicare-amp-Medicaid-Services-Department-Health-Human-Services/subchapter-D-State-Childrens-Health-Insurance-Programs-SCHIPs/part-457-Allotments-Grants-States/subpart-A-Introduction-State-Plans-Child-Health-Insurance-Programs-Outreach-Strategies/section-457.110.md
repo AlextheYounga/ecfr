@@ -1,10 +1,8 @@
 ##### § 457.110 Enrollment assistance and information requirements. #####
 
-Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
+(a) *Information disclosure.* The State must make accurate, easily understood, information available to families of potential applicants, applicants and enrollees, and provide assistance to these families in making informed decisions about their health plans, professionals, and facilities. This information must be provided in plain language and is accessible to individuals with disabilities and persons who are limited English proficient, consistent with § 435.905(b) of this chapter.
 
-(a) *Information disclosure.* The State must make accurate, easily understood, linguistically appropriate information available to families of potential applicants, applicants and enrollees, and provide assistance to these families in making informed decisions about their health plans, professionals, and facilities.
-
-(1) The State may provide individuals with a choice to receive notices and information required under this subpart and subpart K of this part, in electronic format or by regular mail, provided that the State establish safeguards in accordance with § 435.918 of this chapter.
+(1) The State must provide individuals with a choice to receive notices and information required under this subpart and subpart K of this part, in electronic format or by regular mail, provided that the State establish safeguards in accordance with § 435.918 of this chapter.
 
 (2) [Reserved]
 
@@ -22,4 +20,4 @@ Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
 
 (6) Review processes available to applicants and enrollees as described in the State plan pursuant to § 457.1120.
 
-[65 FR 33622, May 24, 2000, as amended at 78 FR 42312, July 15, 2013]
+[65 FR 33622, May 24, 2000, as amended at 78 FR 42312, July 15, 2013; 81 FR 86463, Nov. 30, 2016]

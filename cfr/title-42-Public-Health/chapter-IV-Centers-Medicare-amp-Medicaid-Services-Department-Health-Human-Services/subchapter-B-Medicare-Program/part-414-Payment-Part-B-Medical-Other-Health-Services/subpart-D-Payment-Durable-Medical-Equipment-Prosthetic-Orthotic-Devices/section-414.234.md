@@ -84,4 +84,4 @@
 
 (ii) Posting on the CMS prior authorization Web site.
 
-[80 FR 81706, Dec. 30, 2015}
+[80 FR 81706, Dec. 30, 2015]

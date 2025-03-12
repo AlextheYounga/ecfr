@@ -1,7 +1,5 @@
 ##### § 966.4 Lease requirements. #####
 
-Link to an amendment published at 81 FR 87444, December 5, 2016.
-
 A lease shall be entered into between the PHA and each tenant of a dwelling unit which shall contain the provisions described hereinafter.
 
 (a) *Parties, dwelling unit and term.* (1) The lease shall state:
@@ -116,17 +114,22 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (11) To act, and cause household members or guests to act, in a manner which will not disturb other residents' peaceful enjoyment of their accommodations and will be conducive to maintaining the project in a decent, safe and sanitary condition;
 
-(12) (i) To assure that no tenant, member of the tenant's household, or guest engages in:
+(12)
+(i) To assure that no tenant, member of the tenant's household, or guest engages in:
 
-(A) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents; or
+(A) *Criminal activity.* (*1*) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents;
 
-(B) Any drug-related criminal activity on or off the premises;
+(*2*) Any drug-related criminal activity on or off the premises; or
+
+(B) *Civil activity.* For any units covered by 24 CFR part 965, subpart G, any smoking of prohibited tobacco products in restricted areas, as defined by 24 CFR 965.653(a), or in other outdoor areas that the PHA has designated as smoke-free.
 
 (ii) To assure that no other person under the tenant's control engages in:
 
-(A) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents; or
+(A) *Criminal activity.* (*1*) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents;
 
-(B) Any drug-related criminal activity on the premises;
+(*2*) Any drug-related criminal activity on the premises; or
+
+(B) *Civil activity.* For any units covered by 24 CFR part 965, subpart G, any smoking of prohibited tobacco products in restricted areas, as defined by 24 CFR 965.653(a), or in other outdoor areas that the PHA has designated as smoke-free.
 
 (iii) To assure that no member of the household engages in an abuse or pattern of abuse of alcohol that affects the health, safety, or right to peaceful enjoyment of the premises by other residents.
 
@@ -262,4 +265,4 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (p) *Signature clause.* The lease shall provide a signature clause attesting that the lease has been executed by the parties.
 
-[56 FR 51576, Oct. 11, 1991, as amended at 61 FR 13273, Mar. 26, 1996; 65 FR 16730, Mar. 29, 2000; 66 FR 28802, May 24, 2001; 66 FR 32875, June 18, 2001; 66 FR 33134, June 20, 2001; 69 FR 68791, Nov. 26, 2004; 75 FR 66262, Oct. 27, 2010; 81 FR 12374, Mar. 8, 2016; 81 FR 80815, Nov. 16, 2016]
+[56 FR 51576, Oct. 11, 1991, as amended at 61 FR 13273, Mar. 26, 1996; 65 FR 16730, Mar. 29, 2000; 66 FR 28802, May 24, 2001; 66 FR 32875, June 18, 2001; 66 FR 33134, June 20, 2001; 69 FR 68791, Nov. 26, 2004; 75 FR 66262, Oct. 27, 2010; 81 FR 12374, Mar. 8, 2016; 81 FR 80815, Nov. 16, 2016; 81 FR 87444, Dec. 5, 2016]

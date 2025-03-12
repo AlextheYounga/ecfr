@@ -1,8 +1,6 @@
 ##### § 457.60 Amendments. #####
 
-Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
-
-A State may seek to amend its approved State plan in whole or in part at any time through the submission of an amendment to CMS. When the State plan amendment has a significant impact on the approved budget, the amendment must include an amended budget that describes the State's planned expenditures for a 1-year period. A State must amend its State plan whenever necessary to reflect -
+A State may seek to amend its approved State plan in whole or in part at any time through the submission of an amendment to CMS. The Secretary will periodically specify updated requirements on the format of State plan amendments through a process consistent with the requirements of the Paperwork Reduction Act. When the State plan amendment has a significant impact on the approved budget, the amendment must include an amended budget that describes the State's planned expenditures for a 1-year period. A State must amend its State plan whenever necessary to reflect—
 
 (a) Changes in Federal law, regulations, policy interpretations, or court decisions that affect provisions in the approved State plan;
 
@@ -28,4 +26,4 @@ A State may seek to amend its approved State plan in whole or in part at any tim
 
 (c) Changes in the source of the State share of funding, except for changes in the type of non-health care related revenues used to generate general revenue.
 
-[66 FR 2670, Jan. 11, 2001, as amended at 66 FR 33822, June 25, 2001]
+[66 FR 2670, Jan. 11, 2001, as amended at 66 FR 33822, June 25, 2001; 81 FR 86463, Nov. 30, 2016]

@@ -1,0 +1,3 @@
+##### § 965.651 Applicability. #####
+
+This subpart applies to public housing units, except for dwelling units in a mixed-finance project. Public housing is defined as low-income housing, and all necessary appurtenances (*e.g.,* community facilities, public housing offices, day care centers, and laundry rooms) thereto, assisted under the U.S. Housing Act of 1937 (the 1937 Act), other than assistance under section 8 of the 1937 Act.

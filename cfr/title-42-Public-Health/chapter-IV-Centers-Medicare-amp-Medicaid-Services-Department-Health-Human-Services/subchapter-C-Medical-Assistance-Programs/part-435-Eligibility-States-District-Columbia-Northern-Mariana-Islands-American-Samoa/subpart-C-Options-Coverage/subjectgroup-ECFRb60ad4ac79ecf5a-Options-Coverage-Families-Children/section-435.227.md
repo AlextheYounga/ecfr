@@ -1,27 +1,21 @@
-##### § 435.227 Individuals under age 21 who are under State adoption assistance agreements. #####
+##### § 435.227 Optional eligibility for individuals under age 21 who are under State adoption assistance agreements. #####
 
-Link to an amendment published at 81 FR 86454, Nov. 30, 2016.
+(a) *Basis.* This section implements section 1902(a)(10)(A)(ii)(VIII) of the Act.
 
-(a) The agency may provide Medicaid to individuals under the age of 21 (or, at State option, age 20, 19, or 18) -
+(b) *Eligibility.* The agency may provide Medicaid to individuals under age 21 (or, at State option, under age 20, 19, or 18):
 
-(1) For whom an adoption agreement (other than an agreement under title IV-E) between the State and the adoptive parent(s) is in effect;
+(1) For whom an adoption assistance agreement (other than an agreement under title IV-E of the Act) between a State and the adoptive parent(s) is in effect;
 
-(2) Who, the State agency responsible for adoption assistance, has determined cannot be placed with adoptive parents without Medicaid because the child has special needs for medical or rehabilitative care; and
+(2) Who the State agency which entered into the adoption agreement determined could not be placed for adoption without Medicaid coverage because the child has special needs for medical or rehabilitative care; and
 
-(3) Who meet either of the following:
+(3) Who, prior to the adoption agreement being entered into—
 
-(i) Were eligible for Medicaid under the State plan before the adoption agreement was entered into; or
+(i) Were eligible under the Medicaid State plan of the State with the adoption assistance agreement; or
 
-(ii) Would have been eligible for Medicaid before the adoption agreement was entered into, if the eligibility standards and methodologies of the title IV-E foster care program were used without employing the threshold title IV-A eligibility determination.
+(ii) Had household income at or below the income standard established by the agency in its State plan in accordance with paragraph (c) of this section.
 
-(b) For adoption assistance agreements entered into before April 7, 1986 -
+(c) *Income standard.* The income standard established under this section may not exceed the effective income level (converted to a MAGI-equivalent standard in accordance with guidance issued by the Secretary under section 1902(e)(14)(A) and (E) of the Act) under the State plan or under a demonstration program under section 1115 of the Act as of March 23, 2010 or December 31, 2013, whichever is higher, that was applied by the State to the household income of a child prior to the execution of an adoption assistance agreement for purposes of determining eligibility of children described in paragraphs (b)(1) and (2) of this section.
 
-(1) The agency must deem the requirements of paragraphs (a)(1) and (2) of this section to be met if the State adoption assistance agency determines that -
+(d) *Limit Eligibility* The agency may limit eligibility under this section to children for whom the State, or another State identified in the State plan, has entered into an adoption assistance agreement.
 
-(i) At the time of the adoption placement, the child had special needs for medical or rehabilitative care that made the child difficult to place; and
-
-(ii) There is in effect an adoption assistance agreement between the State and the adoptive parent(s).
-
-(2) The agency must deem the requirements of paragraph (a)(3) of this section to be met if the child was found by the State to be eligible for Medicaid before the adoption assistance agreement was entered into.
-
-[55 FR 48608, Nov. 21, 1990]
+[81 FR 86454, Nov. 30, 2016]

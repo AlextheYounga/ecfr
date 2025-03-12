@@ -1,6 +1,6 @@
 ##### § 1308.33 Exemption of certain anabolic steroid products; application. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.
+Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The Administrator, upon the recommendation of Secretary of Health and Human Services, may, by regulation, exempt from the application of all or any part of the Act any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter, which is intended for administration to a human being or animal, if, because of its concentration, preparation, formulation, or delivery system, it has no significant potential for abuse.
 

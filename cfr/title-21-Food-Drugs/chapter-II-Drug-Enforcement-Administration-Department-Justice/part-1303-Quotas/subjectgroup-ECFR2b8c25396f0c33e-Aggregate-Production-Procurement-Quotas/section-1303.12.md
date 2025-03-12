@@ -1,6 +1,6 @@
 ##### § 1303.12 Procurement quotas. #####
 
-Link to an amendment published at 81 FR 97020, December 30, 2016.
+Link to an amendment published at 81 FR 97020, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) In order to determine the estimated needs for, and to insure an adequate and uninterrupted supply of, basic classes of controlled substances listed in Schedules I and II (except raw opium being imported by the registrant pursuant to an import permit) the Administrator shall issue procurement quotas authorizing persons to procure and use quantities of each basic class of such substances for the purpose of manufacturing such class into dosage forms or into other substances.
 

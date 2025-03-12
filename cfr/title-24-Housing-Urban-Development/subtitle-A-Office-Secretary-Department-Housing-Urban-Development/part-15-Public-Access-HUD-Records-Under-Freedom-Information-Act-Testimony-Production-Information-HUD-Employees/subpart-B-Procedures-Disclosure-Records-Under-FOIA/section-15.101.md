@@ -1,8 +1,6 @@
 ##### § 15.101 Proactive disclosures of department records. #####
 
-Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
-
-(a) *In General.* Records that are required to be made available for public inspection and copying are accessible on the Department's Web site at *http://www.hud.gov/FOIA.* Published agency records, whether or not they are available for purchase, are made available for examination. Each HUD office (headquarters and field) has a FOIA Public Liaison that can assist individuals in locating records. A list of the Department's FOIA Public Liaisons is available at *http://www.hud.gov/FOIA.*
+(a) *In General.* Records that are required to be made available for public inspection in an electronic format are accessible on the Department's Web site at *http://www.hud.gov/FOIA.* Published agency records, whether or not they are available for purchase, are made available for examination. Each HUD office (headquarters and field) has a FOIA Public Liaison that can assist individuals in locating records. A list of the Department's FOIA Public Liaisons is available at *http://www.hud.gov/FOIA.*
 
 (b) *Electronic FOIA reading room.* As required by 5 U.S.C. 552(a)(2), HUD makes records created on or after November 1, 1996, available through its electronic FOIA Reading Room, located on HUD's FOIA Web site at *http://www.hud.gov/FOIA.* These records include:
 
@@ -27,6 +25,20 @@ Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
 (5) HUD's online library.
 
 (6) Fair housing information.
+
+(7) Copies of all records, regardless of form or format that have been released to any person under § 15.105; and
+
+(i) Because of the nature of their subject matter, the agency determines that the records have become or are likely to become the subject of subsequent requests for substantially the same records; or
+
+(ii) Have been requested three or more times.
+
+(8) Report for the preceding fiscal year submitted to the U.S. Attorney General and the Director of the Office of Government Information Services (OGIS) as required by 5 U.S.C. 552(e) and the raw statistical data used in each report. This report will be made available:
+
+(i) Without charge, license, or registration requirement;
+
+(ii) In an aggregated, searchable format; and
+
+(iii) In a format that may be downloaded in bulk.
 
 (c) *Frequently requested materials.* HUD also makes frequently requested materials available on its FOIA Web site at *http://www.hud.gov/FOIA.* These frequently requested materials include information related to:
 
@@ -73,3 +85,5 @@ Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
 (21) Grants.
 
 (22) FOIA request logs.
+
+[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017]

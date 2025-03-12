@@ -1,8 +1,6 @@
-##### § 1001.3005 Reversed or vacated decisions. #####
+##### § 1001.3005 Withdrawal of exclusion for reversed or vacated decisions. #####
 
-Link to an amendment published at 82 FR 4117, Jan. 12, 2017.
-
-(a) An individual or entity will be reinstated into Medicare, Medicaid and other Federal health care programs retroactive to the effective date of the exclusion when such exclusion is based on -
+(a) An exclusion will be withdrawn and an individual or entity will be reinstated into Medicare, Medicaid, and other Federal health care programs retroactive to the effective date of the exclusion when such exclusion is based on—
 
 (1) A conviction that is reversed or vacated on appeal;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 4117, Jan. 12, 2017.
 
 (e) If an action which results in the retroactive reinstatement of an individual or entity is subsequently overturned, the OIG may reimpose the exclusion for the initial period of time, less the period of time that was served prior to the reinstatement of the individual or entity.
 
-[57 FR 3330, Jan. 29, 1992, as amended at 64 FR 39428, July 22, 1999; 67 FR 11935, Mar. 18, 2002]
+[57 FR 3330, Jan. 29, 1992, as amended at 64 FR 39428, July 22, 1999; 67 FR 11935, Mar. 18, 2002; 82 FR 4117, Jan. 12, 2017]

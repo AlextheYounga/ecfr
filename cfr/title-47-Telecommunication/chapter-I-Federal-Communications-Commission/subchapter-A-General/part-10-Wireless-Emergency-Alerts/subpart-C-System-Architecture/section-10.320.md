@@ -1,6 +1,6 @@
 ##### § 10.320 Provider alert gateway requirements. #####
 
-Link to an amendment published at 81 FR 75725, November 1, 2016.
+Link to an amendment published at 81 FR 75725, Nov. 1, 2016.
 
 This section specifies the functions that each Participating Commercial Mobile Service provider is required to support and perform at its CMS provider gateways.
 

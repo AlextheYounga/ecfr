@@ -1,12 +1,10 @@
 ##### § 431.205 Provision of hearing system. #####
 
-Link to an amendment published at 81 FR 86448, Nov. 30, 2016.
-
 (a) The Medicaid agency must be responsible for maintaining a hearing system that meets the requirements of this subpart.
 
-(b) The State's hearing system must provide for -
+(b) The State's hearing system must provide for—
 
-(1) A hearing before -
+(1) A hearing before—
 
 (i) The Medicaid agency; or
 
@@ -18,4 +16,8 @@ Link to an amendment published at 81 FR 86448, Nov. 30, 2016.
 
 (d) The hearing system must meet the due process standards set forth in *Goldberg v. Kelly,* 397 U.S. 254 (1970), and any additional standards specified in this subpart.
 
-[44 FR 17932, Mar. 29, 1979, as amended at 78 FR 42301, July 15, 2013]
+(e) The hearing system must be accessible to persons who are limited English proficient and persons who have disabilities, consistent with § 435.905(b) of this chapter.
+
+(f) The hearing system must comply with the United States Constitution, the Social Security Act, title VI of the Civil Rights Act of 1964, section 504 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990, the Age Discrimination Act of 1975, and section 1557 of the Affordable Care Act and implementing regulations.
+
+[44 FR 17932, Mar. 29, 1979, as amended at 78 FR 42301, July 15, 2013; 81 FR 86448, Nov. 30, 2016]

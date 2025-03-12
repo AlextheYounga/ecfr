@@ -1,6 +1,6 @@
 ##### § 13.1902 Subsistence. #####
 
-Link to an amendment published at 82 FR 3633, Jan. 12, 2017.
+Link to an amendment published at 82 FR 3633, Jan. 12, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10442, Feb. 13, 2017.
 
 (a) *Subsistence resident zone communities.* The following communities and areas are included within the resident zone for Wrangell-St. Elias National Park: Chisana, Chistochina, Chitina, Copper Center, Dot Lake, Gakona, Gakona Junction, Glennallen, Gulkana, Healy Lake, Kenny Lake, Lower Tonsina, McCarthy, Mentasta Lake, Nabesna, Northway/Northway Village/Northway Junction, Slana, Tanacross, Tazlina, Tetlin, Tok, Tonsina, and Yakutat.
 

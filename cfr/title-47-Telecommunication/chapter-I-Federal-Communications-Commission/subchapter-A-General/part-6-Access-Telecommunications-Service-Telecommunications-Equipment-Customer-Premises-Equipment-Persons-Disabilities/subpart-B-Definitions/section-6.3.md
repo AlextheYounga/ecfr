@@ -1,6 +1,6 @@
 ##### § 6.3 Definitions. #####
 
-Link to an amendment published at 82 FR 7706, January 23, 2017.
+Link to an amendment published at 82 FR 7706, Jan. 23, 2017.
 
 (a) The term *accessible* shall mean that:
 

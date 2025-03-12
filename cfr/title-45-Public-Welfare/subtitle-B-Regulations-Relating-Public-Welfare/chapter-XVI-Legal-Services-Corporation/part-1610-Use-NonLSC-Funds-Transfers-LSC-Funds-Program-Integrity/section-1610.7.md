@@ -1,6 +1,6 @@
 ##### § 1610.7 Transfers of LSC funds. #####
 
-Link to an amendment published at 82 FR 10283, February 10, 2017.
+Link to an amendment published at 82 FR 10283, Feb. 10, 2017.
 
 (a) If a recipient transfers LSC funds to another person or entity, the prohibitions and requirements referred to in this part, except as modified by paragraphs (b) and (c) of this section, will apply both to the LSC funds transferred and to the non-LSC funds of the person or entity to whom those funds are transferred.
 

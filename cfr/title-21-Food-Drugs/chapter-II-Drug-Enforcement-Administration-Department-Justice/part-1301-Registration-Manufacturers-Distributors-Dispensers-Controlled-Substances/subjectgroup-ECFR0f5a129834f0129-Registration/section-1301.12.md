@@ -1,6 +1,6 @@
 ##### § 1301.12 Separate registrations for separate locations. #####
 
-Link to an amendment published at 81 FR 97019, December 30, 2016.
+Link to an amendment published at 81 FR 97019, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) A separate registration is required for each principal place of business or professional practice at one general physical location where controlled substances are manufactured, distributed, imported, exported, or dispensed by a person.
 

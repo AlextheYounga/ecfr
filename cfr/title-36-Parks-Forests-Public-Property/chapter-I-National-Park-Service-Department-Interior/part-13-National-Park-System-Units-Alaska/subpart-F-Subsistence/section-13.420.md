@@ -1,6 +1,6 @@
 ##### § 13.420 Definitions. #####
 
-Link to an amendment published at 82 FR 3632, Jan. 12, 2017.
+Link to an amendment published at 82 FR 3632, Jan. 12, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10442, Feb. 13, 2017.
 
 *Local rural resident.* As used in this part with respect to national parks and monuments, the term “local rural resident” shall mean either of the following:
 

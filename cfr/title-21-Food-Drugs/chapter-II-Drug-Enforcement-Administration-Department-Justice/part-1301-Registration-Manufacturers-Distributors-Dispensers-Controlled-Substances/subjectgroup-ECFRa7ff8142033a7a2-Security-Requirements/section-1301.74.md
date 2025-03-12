@@ -1,6 +1,6 @@
 ##### § 1301.74 Other security controls for non-practitioners; narcotic treatment programs and compounders for narcotic treatment programs. #####
 
-Link to an amendment published at 81 FR 97020, December 30, 2016.
+Link to an amendment published at 81 FR 97020, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Before distributing a controlled substance to any person who the registrant does not know to be registered to possess the controlled substance, the registrant shall make a good faith inquiry either with the Administration or with the appropriate State controlled substances registration agency, if any, to determine that the person is registered to possess the controlled substance.
 

@@ -1,18 +1,16 @@
 ##### § 457.616 Application and tracking of payments against the fiscal year allotments. #####
 
-Link to an amendment published at 81 FR 86466, Nov. 30, 2016.
-
 (a) *Categories of payments applied to reduce the State allotments.* In accordance with the principles described in paragraph (c) of this section, the following categories of payments are applied to reduce the State allotments for a fiscal year:
 
 (1) Payments made to the State for expenditures claimed during the fiscal year under its title XIX Medicaid program, to the extent the payments were made on the basis of the enhanced FMAP described in sections 1905(b) and 2105(b) of the Act for expenditures attributable to children described in section 1905(u)(2) of the Act.
 
 (2) Payments made to the State for expenditures claimed during the fiscal year under its title XIX Medicaid program, to the extent the payments were made on the basis of the enhanced FMAP described in sections 1905(b) and 2105(b) of the Act for expenditures attributable to children described in section 1905(u)(3) of the Act.
 
-(3) Payments made to a State under section 1903(a) of the Act for expenditures claimed by the State during a fiscal year that are attributable to the provision of medical assistance to a child during a presumptive eligibility period under section 1920A of the Act.
+(3) [Reserved]
 
 (4) Payments made to a State under its title XXI State Children's Health Insurance Program with respect to section 2105(a) of the Act for expenditures claimed by the State during a fiscal year.
 
-(b) *Application of principles.* CMS applies the principles in paragraph (c) of this section to -
+(b) *Application of principles.* CMS applies the principles in paragraph (c) of this section to—
 
 (1) Coordinate the application of the payments made to a State for the State's expenditures claimed under the Medicaid and State Children's Health Insurance programs against the State allotment for a fiscal year;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 81 FR 86466, Nov. 30, 2016.
 
 (3) Determine the application of payments against multiple State Child Health Insurance Program fiscal year allotments.
 
-(c) *Principles for applying Federal payments against the allotment.* CMS -
+(c) *Principles for applying Federal payments against the allotment.* CMS—
 
 (1) Applies the payments attributable to Medicaid expenditures specified in paragraphs (a)(1) through (a)(3) of this section, against the State child health plan allotment for a fiscal year before State child health plan expenditures specified in paragraph (a)(4) of this section are applied.
 
@@ -41,3 +39,5 @@ Link to an amendment published at 81 FR 86466, Nov. 30, 2016.
 (7) Carries over unexpended amounts of a State's allotment for a fiscal year for use in subsequent fiscal years through the end of the 3-year period of availability. For example, if the amounts of the fiscal year 1998 allotment are not fully expended by the end of fiscal year 1998, these amounts are carried over to fiscal year 1999 and are available to provide FFP for expenditures claimed by the State for that fiscal year.
 
 (d) *Amount of Federal payment for expenditures claimed.* The amount of the Federal payment for expenditures claimed by a State, District of Columbia, or the Commonwealths and Territories is determined by the enhanced FMAP applicable to the fiscal year in which the State paid the expenditure. For example, Federal payment for an expenditure paid by a State in fiscal year 1998 that was carried over to fiscal year 1999 (in accordance with paragraph (c)(6) of this section), because the State exceeded its fiscal year 1998 allotment, is available at the fiscal year 1998 enhanced FMAP rate.
+
+[65 FR 33622, May 24, 2000, as amended at 81 FR 86466, Nov. 30, 2016]

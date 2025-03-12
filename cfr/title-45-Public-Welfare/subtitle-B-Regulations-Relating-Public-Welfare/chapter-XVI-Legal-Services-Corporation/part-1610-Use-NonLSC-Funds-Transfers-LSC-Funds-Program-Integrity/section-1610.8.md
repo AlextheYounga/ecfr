@@ -1,6 +1,6 @@
 ##### § 1610.8 Program integrity of recipient. #####
 
-Link to an amendment published at 82 FR 10283, February 10, 2017.
+Link to an amendment published at 82 FR 10283, Feb. 10, 2017.
 
 (a) A recipient must have objective integrity and independence from any organization that engages in restricted activities. A recipient will be found to have objective integrity and independence from such an organization if:
 

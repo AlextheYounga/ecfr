@@ -1,8 +1,6 @@
 ##### § 15.103 Timing of responses to requests. #####
 
-Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
-
-(a) *In general.* HUD will generally respond to a FOIA request within 20 working days, depending on the size of the request. The 20-day period will begin on the day the request is received by the appropriate component of HUD, but in any event not later than 10 working days after the request is received by any component of HUD designated to receive FOIA requests.
+(a) *In general.* HUD will generally make a determination whether to comply with a FOIA request within 20 working days, depending on the size of the request. The 20-day period will begin on the day the request is received by the appropriate component of HUD, but in any event not later than 10 working days after the request is received by any component of HUD designated to receive FOIA requests.
 
 (b) *Tolling the 20-day time period.* Under the OPEN Government Act of 2007, HUD may toll the 20-day period:
 
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
 
 (2) As many times as necessary to clarify issues regarding fee assessment with the requester. The agency's receipt of the requester's response to the agency's request for information or resolution of all fee assessment issues ends the tolling period.
 
-(c) *Extension of time periods for processing a request.* In unusual circumstances, as defined in this paragraph, HUD may extend the time period for processing a FOIA request. In such circumstances, HUD will provide the requester with written notice setting forth the unusual circumstances for the extension and the date on which a determination is expected to be dispatched. This date will not exceed 10 working days beyond the general time limit established in paragraph (a) of this section. If processing a request would require more than 10 working days beyond the general time limit established in paragraph (a) of this section, HUD will offer the requester an opportunity to limit the scope of the request so that HUD may process it within the extra 10-day working period or arrange an alternative time period within which the FOIA request will be processed. For purposes of this section, unusual circumstances include:
+(c) *Extension of time periods for processing a request.* In unusual circumstances, as defined in this paragraph, HUD may extend the time period for processing a FOIA request. In such circumstances, HUD will provide the requester with written notice setting forth the unusual circumstances for the extension and the date on which a determination is expected to be dispatched. If processing a request would require more than 10 working days beyond the general time limit established in paragraph (a) of this section, HUD will offer the requester an opportunity to limit the scope of the request so that HUD may process it within the extra 10-day working period or arrange an alternative time period within which the FOIA request will be processed. To aid the requester, HUD shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and HUD, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services. For purposes of this section, unusual circumstances include:
 
 (1) The need to search for and collect records not located in the office processing the request;
 
@@ -25,3 +23,5 @@ Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
 (ii) The requests involve clearly related matters.
 
 (2) Aggregation of requests for this purpose will be conducted independent of aggregation of requests for fee purposes under § 15.106(h).
+
+[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017]

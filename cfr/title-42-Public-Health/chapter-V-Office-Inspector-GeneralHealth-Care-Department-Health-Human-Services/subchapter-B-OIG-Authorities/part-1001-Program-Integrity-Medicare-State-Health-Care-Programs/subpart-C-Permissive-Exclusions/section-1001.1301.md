@@ -1,10 +1,8 @@
 ##### § 1001.1301 Failure to grant immediate access. #####
 
-Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
+(a) *Circumstance for exclusion.* (1) The OIG may exclude any individual or entity that fails to grant immediate access upon reasonable request to—
 
-(a) *Circumstance for exclusion.* (1) The OIG may exclude any individual or entity that fails to grant immediate access upon reasonable request to -
-
-(i) The Secretary, a State survey agency or other authorized entity for the purpose of determining, in accordance with section 1864(a) of the Act, whether -
+(i) The Secretary, a State survey agency or other authorized entity for the purpose of determining, in accordance with section 1864(a) of the Act, whether—
 
 (A) An institution is a hospital or skilled nursing facility;
 
@@ -36,11 +34,11 @@ Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
 
 (ii) The Secretary, a State survey agency or other authorized entity to perform the reviews and surveys required under State plans in accordance with sections 1902(a)(26) (relating to inpatient mental hospital services), 1902(a)(31) (relating to intermediate care facilities for individuals with intellectual disabilities), 1919(g) (relating to nursing facilities), 1929(i) (relating to providers of home and community care and community care settings), 1902(a)(33) and 1903(g) of the Act;
 
-(iii) The OIG for the purposes of reviewing records, documents and other data necessary to the performance of the Inspector General's statutory functions; or
+(iii) The OIG for reviewing records, documents, and other material or data in any medium (including electronically stored information and any tangible thing) necessary to the OIG's statutory functions; or
 
 (iv) A State Medicaid fraud control unit for the purpose of conducting its activities.
 
-(2) For purposes of paragraphs (a)(1)(i) and (a)(1)(ii) of this section, the term -
+(2) For purposes of paragraphs (a)(1)(i) and (a)(1)(ii) of this section, the term—
 
 *Failure to grant immediate access* means the failure to grant access at the time of a reasonable request or to provide a compelling reason why access may not be granted.
 
@@ -48,15 +46,15 @@ Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
 
 The request will include a statement of the authority for the request, the rights of the entity in responding to the request, the definition of *reasonable request* and *immediate access,* and the penalties for failure to comply, including when the exclusion will take effect.
 
-(3) For purposes of paragraphs (a)(1)(iii) and (a)(1)(iv) of this section, the term -
+(3) For purposes of paragraphs (a)(1)(iii) and (a)(1)(iv) of this section, the term—
 
-*Failure to grant immediate access* means:
+*Failure to grant immediate access* means—
 
-(i) Except where the OIG or State Medicaid fraud control unit reasonably believes that requested documents are about to be altered or destroyed, the failure to produce or make available for inspection and copying requested records upon reasonable request, or to provide a compelling reason why they cannot be produced, within 24 hours of such request;
+(i) The failure to produce or make available for inspection and copying the requested material upon reasonable request, or to provide a compelling reason why they cannot be produced, within 24 hours of such request, except when the OIG or State Medicaid Fraud Control Unit (MFCU) reasonably believes that the requested material is about to be altered or destroyed, or
 
-(ii) Where the OIG or State Medicaid fraud control unit has reason to believe that requested documents are about to be altered or destroyed, the failure to provide access to requested records at the time the request is made.
+(ii) When the OIG or MFCU has reason to believe that the requested material is about to be altered or destroyed, the failure to provide access to the requested material at the time the request is made.
 
-*Reasonable request* means a written request for documents, signed by a designated representative of the OIG or the State Medicaid fraud control unit, and made by a properly identified agent of the OIG or a State Medicaid fraud control unit during reasonable business hours, where there is information to suggest that the individual or entity has violated statutory or regulatory requirements under titles V, XI, XVIII, XIX or XX of the Act. The request will include a statement of the authority for the request, the rights of the individual or entity in responding to the request, the definition of *reasonable request* and *immediate access,* and the effective date, length, and scope and effect of the exclusion that would be imposed for failure to comply with the request, and the earliest date that a request for reinstatement would be considered.
+*Reasonable request* means a written request, signed by a designated representative of the OIG or MFCU and made by a properly identified agent of the OIG or an MFCU during reasonable business hours, where there is information to suggest that the person has violated statutory or regulatory requirements under Titles V, XI, XVIII, XIX, or XX of the Act. The request will include a statement of the authority for the request, the person's rights in responding to the request, the definition of “reasonable request” and “failure to grant immediate access” under part 1001, and the effective date, length, and scope and effect of the exclusion that would be imposed for failure to comply with the request, and the earliest date that a request for reinstatement would be considered.
 
 (4) Nothing in this section shall in any way limit access otherwise authorized under State or Federal law.
 
@@ -66,7 +64,7 @@ The request will include a statement of the authority for the request, the right
 
 (ii) An additional period of up to 90 days.
 
-(2) The exclusion of an entity may be for a longer period than the period in which immediate access was not granted based on consideration of the following factors -
+(2) The exclusion of an entity may be for a longer period than the period in which immediate access was not granted based on consideration of the following factors—
 
 (i) The impact of the failure to grant the requested immediate access on Medicare or any of the State health care programs, beneficiaries or the public;
 
@@ -80,4 +78,4 @@ The request will include a statement of the authority for the request, the right
 
 (c) The exclusion will be effective as of the date immediate access was not granted.
 
-[57 FR 3330, Jan. 29, 1992, as amended at 58 FR 40753, July 30, 1993; 63 FR 46689, Sept. 2, 1998; 64 FR 39427, July 22, 1999]
+[57 FR 3330, Jan. 29, 1992, as amended at 58 FR 40753, July 30, 1993; 63 FR 46689, Sept. 2, 1998; 64 FR 39427, July 22, 1999; 82 FR 4115, Jan. 12, 2017]

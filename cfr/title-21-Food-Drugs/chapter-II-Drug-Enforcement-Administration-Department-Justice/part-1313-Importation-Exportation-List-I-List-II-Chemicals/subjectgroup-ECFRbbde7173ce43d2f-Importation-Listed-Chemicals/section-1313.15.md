@@ -1,6 +1,6 @@
 ##### § 1313.15 Waiver of 15-day advance notice for regular importers. #####
 
-Link to an amendment published at 81 FR 97037, December 30, 2016.
+Link to an amendment published at 81 FR 97037, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Each regulated person seeking designation as a “regular importer” shall provide, by certified mail return receipt requested, to the Administration such information as is required under § 1313.08 documenting their status as a regular importer.
 

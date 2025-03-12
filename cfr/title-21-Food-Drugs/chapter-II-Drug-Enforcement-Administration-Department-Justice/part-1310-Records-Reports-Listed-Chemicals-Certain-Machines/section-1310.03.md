@@ -1,6 +1,6 @@
 ##### § 1310.03 Persons required to keep records and file reports. #####
 
-Link to an amendment published at 81 FR 97022, December 30, 2016.
+Link to an amendment published at 81 FR 97022, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Each regulated person who engages in a regulated transaction involving a listed chemical, a tableting machine, or an encapsulating machine shall keep a record of the transaction as specified by § 1310.04 and file reports as specified by § 1310.05. However, a non-regulated person who acquires listed chemicals for internal consumption or “end use” and becomes a regulated person by virtue of infrequent or rare distribution of a listed chemical from inventory, shall not be required to maintain receipt records of listed chemicals under this section.
 

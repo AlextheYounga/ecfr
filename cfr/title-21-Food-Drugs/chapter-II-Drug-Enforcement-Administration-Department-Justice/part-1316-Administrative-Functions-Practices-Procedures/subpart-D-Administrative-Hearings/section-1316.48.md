@@ -1,6 +1,6 @@
 ##### § 1316.48 Notice of appearance. #####
 
-Link to an amendment published at 81 FR 97041, December 30, 2016.
+Link to an amendment published at 81 FR 97041, December 30, 2016.Link to a delay published at 82 FR , January 30, 2017.
 
 Any person entitled to a hearing and desiring to appear in any hearing, shall, if he has not filed a request for hearing, file within the time specified in the notice of proposed rulemaking, a written notice of appearance in the following form (see the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address):
 

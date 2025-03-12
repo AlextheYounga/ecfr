@@ -1,6 +1,6 @@
 ##### § 1304.31 Reports from manufacturers importing narcotic raw material. #####
 
-Link to an amendment published at 81 FR 97020, December 30, 2016.
+Link to an amendment published at 81 FR 97020, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Every manufacturer which imports or manufactures from narcotic raw material (opium, poppy straw, and concentrate of poppy straw) shall submit information which accounts for the importation and for all manufacturing operations performed between importation and the production in bulk or finished marketable products, standardized in accordance with the U.S. Pharmacopeia, National Formulary or other recognized medical standards. Reports shall be signed by the authorized official and submitted quarterly on company letterhead to the Drug and Chemical Evaluation Section, Drug Enforcement Administration, on or before the 15th day of the month immediately following the period for which it is submitted. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 

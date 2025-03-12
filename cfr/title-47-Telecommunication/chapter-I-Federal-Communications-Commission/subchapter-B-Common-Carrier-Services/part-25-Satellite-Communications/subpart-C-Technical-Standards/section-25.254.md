@@ -1,5 +1,7 @@
 ##### § 25.254 Special requirements for ancillary terrestrial components operating in the 1610-1626.5 MHz/2483.5-2500 MHz bands. #####
 
+Link to an amendment published at 82 FR 8819, Jan. 31, 2017.
+
 (a) An applicant for an ancillary terrestrial component in these bands must demonstrate that ATC base stations shall:
 
 (1) Not exceed a peak EIRP of 32 dBW in 1.25 MHz;

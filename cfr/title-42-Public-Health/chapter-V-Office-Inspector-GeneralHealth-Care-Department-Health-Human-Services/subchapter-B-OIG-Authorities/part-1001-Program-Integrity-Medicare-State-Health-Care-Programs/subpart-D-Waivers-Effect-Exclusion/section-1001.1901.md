@@ -1,20 +1,24 @@
 ##### § 1001.1901 Scope and effect of exclusion. #####
 
-Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
-
 (a) *Scope of exclusion.* Exclusions of individuals and entities under this title will be from Medicare, Medicaid and any of the other Federal health care programs, as defined in § 1001.2.
 
-(b) *Effect of exclusion on excluded individuals and entities.* (1) Unless and until an individual or entity is reinstated into the Medicare, Medicaid and other Federal health care programs in accordance with subpart F of this part, no payment will be made by Medicare, Medicaid or any of the other Federal health care programs for any item or service furnished, on or after the effective date specified in the notice period, by an excluded individual or entity, or at the medical direction or on the prescription of a physician or other authorized individual who is excluded when the person furnishing such item or service knew or had reason to know of the exclusion. This section applies regardless of whether an individual or entity has obtained a program provider number or equivalent, either as an individual or as a member of a group, prior to being reinstated.
+(b) *Effect of exclusion on excluded individuals and entities.* (1) Unless and until an individual or entity is reinstated into the Medicare, Medicaid, and other Federal health care programs in accordance with subpart F of this part, no payment will be made by Medicare, including Medicare Advantage and Prescription Drug Plans, Medicaid, or any other Federal health care program for any item or service furnished, on or after the effective date specified in the notice—
 
-(2) An excluded individual or entity may not take assignment of an enrollee's claim on or after the effective date of exclusion.
+(i) By an excluded individual or entity; or
 
-(3) An excluded individual or entity that submits, or causes to be submitted, claims for items or services furnished during the exclusion period is subject to civil money penalty liability under section 1128A(a)(1)(D) of the Act, and criminal liability under section 1128B(a)(3) of the Act and other provisions. In addition, submitting claims, or causing claims to be submitted or payments to be made for items or services furnished, ordered or prescribed, including administrative and management services or salary, may serve as the basis for denying reinstatement to the programs.
+(ii) At the medical direction or on the prescription of a physician or an authorized individual who is excluded when the person furnishing such item or service knew, or had reason to know, of the exclusion.
+
+(2) This section applies regardless of whether an individual or entity has obtained a program provider number or equivalent, either as an individual or as a member of a group, prior to being reinstated.
+
+(3) An excluded individual or entity may not take assignment of an enrollee's claim on or after the effective date of exclusion.
+
+(4) An excluded individual or entity that submits, or causes to be submitted, claims for items or services furnished during the exclusion period is subject to civil money penalty liability under section 1128A(a)(1)(D) of the Act and criminal liability under section 1128B(a)(3) of the Act and other provisions. In addition, submitting claims, or causing claims to be submitted or payments to be made, for items or services furnished, ordered, or prescribed, including administrative and management services or salary, may serve as the basis for denying reinstatement to the programs.
 
 (c) *Exceptions to paragraph (b)(1) of this section.* (1) If an enrollee of Part B of Medicare submits an otherwise payable claim for items or services furnished by an excluded individual or entity, or under the medical direction or on the prescription of an excluded physician or other authorized individual after the effective date of exclusion, CMS will pay the first claim submitted by the enrollee and immediately notify the enrollee of the exclusion.
 
 (2) CMS will not pay an enrollee for items or services furnished by an excluded individual or entity, or under the medical direction or on the prescription of an excluded physician or other authorized individual more than 15 days after the date on the notice to the enrollee, or after the effective date of the exclusion, whichever is later.
 
-(3) Unless the Secretary determines that the health and safety of beneficiaries receiving services under Medicare, Medicaid or any of the other Federal health care programs warrants the exclusion taking effect earlier, payment may be made under such program for up to 30 days after the effective date of the exclusion for -
+(3) Unless the Secretary determines that the health and safety of beneficiaries receiving services under Medicare, Medicaid or any of the other Federal health care programs warrants the exclusion taking effect earlier, payment may be made under such program for up to 30 days after the effective date of the exclusion for—
 
 (i) Inpatient institutional services furnished to an individual who was admitted to an excluded institution before the date of the exclusion,
 
@@ -28,4 +32,4 @@ Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
 
 (ii) Notwithstanding paragraph (c)(5)(i) of this section, no claim for emergency items or services will be payable if such items or services were provided by an excluded individual who, through an employment, contractual or any other arrangement, routinely provides emergency health care items or services.
 
-[57 FR 3330, Jan. 29, 1992, as amended at 60 FR 32917, June 26, 1995; 63 FR 46690, Sept. 2, 1998; 64 FR 39427, July 22, 1999]
+[57 FR 3330, Jan. 29, 1992, as amended at 60 FR 32917, June 26, 1995; 63 FR 46690, Sept. 2, 1998; 64 FR 39427, July 22, 1999; 82 FR 4116, Jan. 12, 2017]

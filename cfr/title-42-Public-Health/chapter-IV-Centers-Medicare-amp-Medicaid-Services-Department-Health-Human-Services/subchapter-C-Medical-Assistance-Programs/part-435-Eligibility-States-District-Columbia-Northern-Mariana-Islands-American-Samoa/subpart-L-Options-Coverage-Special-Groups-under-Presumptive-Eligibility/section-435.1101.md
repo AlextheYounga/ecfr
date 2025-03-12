@@ -1,10 +1,10 @@
-##### § 435.1101 Definitions related to presumptive eligibility for children. #####
+##### § 435.1101 Definitions related to presumptive eligibility. #####
 
-Link to an amendment published at 81 FR 86460, Nov. 30, 2016.
+For the purposes of this subpart, the following definitions apply:
 
-*Application form* means at a minimum the form used to apply for Medicaid under the poverty-level-related eligibility groups described in section 1902(l) of the Act or a joint form for children to apply for the State Children's Health Insurance Program and Medicaid.
+*Application* means, consistent with the definition at § 435.4, the single streamlined application adopted by the agency under § 435.907(a); and
 
-*Period of presumptive eligibility* means a period that begins on the date on which a qualified entity determines that a child is presumptively eligible and ends with the earlier of -
+*Period of presumptive eligibility* means a period that begins on the date on which a qualified entity determines that a child is presumptively eligible and ends with the earlier of—
 
 (1) In the case of a child on whose behalf a Medicaid application has been filed, the day on which a decision is made on that application; or
 
@@ -12,7 +12,7 @@ Link to an amendment published at 81 FR 86460, Nov. 30, 2016.
 
 *Presumptive income standard* means the highest income eligibility standard established under the plan that is most likely to be used to establish the regular Medicaid eligibility of a child of the age involved.
 
-*Qualified entity* means an entity that is determined by the State to be capable of making determinations of presumptive eligibility for children, and that -
+*Qualified entity* means an entity that is determined by the State to be capable of making determinations of presumptive eligibility for children, and that—
 
 (1) Furnishes health care items and services covered under the approved plan and is eligible to receive payments under the approved plan;
 
@@ -30,16 +30,18 @@ Link to an amendment published at 81 FR 86460, Nov. 30, 2016.
 
 (8) Is a State or Tribal child support enforcement agency;
 
-(9) Is an organization that -
+(9) Is an organization that—
 
 (i) Provides emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act;
 
 (ii) Is a State or Tribal office or entity involved in enrollment in the program under title XIX, Part A of title IV, or title XXI; or
 
-(iii) Determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437) or under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 *et seq.*); and
+(iii) Determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437) or under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 *et seq.*);
 
-(10) Any other entity the State so deems, as approved by the Secretary.
+(10) Is a health facility operated by the Indian Health Service, a Tribe or Tribal organization under the Indian Self Determination and Education Assistance Act (25 U.S.C. 450 *et seq.*), or an Urban Indian Organization under title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 *et seq.*).
+
+(11) Any other entity the State so deems, as approved by the Secretary.
 
 *Services* means all services covered under the plan including EPSDT (see part 440 of this chapter).
 
-[66 FR 2667, Jan. 11, 2001, as amended at 66 FR 33822, June 25, 2001]
+[66 FR 2667, Jan. 11, 2001, as amended at 66 FR 33822, June 25, 2001; 81 FR 86460, Nov. 30, 2016]

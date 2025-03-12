@@ -1,6 +1,6 @@
 ##### § 1313.32 Requirement of authorization for international transactions. #####
 
-Link to an amendment published at 81 FR 97039, December 30, 2016.
+Link to an amendment published at 81 FR 97039, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) A broker or trader shall notify the Administrator prior to an international transaction involving a listed chemical which meets or exceeds the threshold amount identified in Section 1310.04 of this chapter, in which the broker or trader participates. Notification must be made no later than 15 days before the transaction is to take place. In order to facilitate an international transaction involving listed chemicals and implement the purpose of the Act, regulated persons may wish to provide advance notification to the Administration as far in advance of the 15 days as possible.
 

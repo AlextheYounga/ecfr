@@ -1,7 +1,5 @@
 ##### § 35.110 Definitions. #####
 
-Link to an amendment published at 82 FR 4166, Jan. 13, 2017.
-
 *Abatement* means any set of measures designed to permanently eliminate lead-based paint or lead-based paint hazards (see definition of “permanent”). Abatement includes:
 
 (1) The removal of lead-based paint and dust-lead hazards, the permanent enclosure or encapsulation of lead-based paint, the replacement of components or fixtures painted with lead-based paint, and the removal or permanent covering of soil-lead hazards; and
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 4166, Jan. 13, 2017.
 
 *Bare soil* means soil or sand not covered by grass, sod, other live ground covers, wood chips, gravel, artificial turf, or similar covering.
 
-*Certified* means licensed or certified to perform such activities as risk assessment, lead-based paint inspection, or abatement supervision, either by a State or Indian tribe with a lead-based paint certification program authorized by the Environmental Protection Agency (EPA), or by the EPA, in accordance with 40 CFR part 745, subparts L or Q.
+*Certified* means certified to perform such activities as risk assessment, lead-based paint inspection, abatement supervision, or renovation, either by a State or Indian tribe with a lead-based paint certification program authorized by the Environmental Protection Agency (EPA), in accordance with 40 CFR part 745, subpart Q, or by the EPA, in accordance with 40 CFR part 745, subparts E or L.
 
 *Chewable* surface means an interior or exterior surface painted with lead-based paint that a young child can mouth or chew. A chewable surface is the same as an “accessible surface” as defined in 42 U.S.C. 4851b(2)). Hard metal substrates and other materials that cannot be dented by the bite of a young child are not considered chewable.
 
@@ -40,15 +38,17 @@ Dust-lead hazard means surface dust that contains a dust-lead loading (area conc
 
 (2) Housing unit in a structure that contains more than 1 separate housing unit, and in which each such unit is used or occupied, or intended to be used or occupied, in whole or in part, as the home or separate living quarters of 1 or more persons.
 
+*Elevated blood lead level* means a confirmed concentration of lead in whole blood of a child under age 6 equal to or greater than the concentration in the most recent guidance published by the U.S. Department of Health and Human Services (HHS) on recommending that an environmental intervention be conducted. (When HHS changes the value, HUD will publish a notice in the Federal Register, with the opportunity for public comment, on its intent to apply the changed value to this part, and, after considering comments, publish a notice on its applying the changed value to this part.)
+
 *Encapsulation* means the application of a covering or coating that acts as a barrier between the lead-based paint and the environment and that relies for its durability on adhesion between the encapsulant and the painted surface, and on the integrity of the existing bonds between paint layers and between the paint and the substrate. Encapsulation may be used as a method of abatement if it is designed and performed so as to be permanent (see definition of “permanent”).
 
 *Enclosure* means the use of rigid, durable construction materials that are mechanically fastened to the substrate in order to act as a barrier between lead-based paint and the environment. Enclosure may be used as a method of abatement if it is designed to be permanent (see definition of “permanent”).
 
-*Environmental intervention blood lead level means* a confirmed concentration of lead in whole blood equal to or greater than 20 µg/dL (micrograms of lead per deciliter) for a single test or 15-19 µg/dL in two tests taken at least 3 months apart.
+*Environmental investigation* means the process of determining the source of lead exposure for a child under age 6 with an elevated blood lead level, consisting of administration of a questionnaire, comprehensive environmental sampling, case management, and other measures, in accordance with chapter 16 of the HUD Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing (“Guidelines”).
 
-*Evaluation* means a risk assessment, a lead hazard screen, a lead-based paint inspection, paint testing, or a combination of these to determine the presence of lead-based paint hazards or lead-based paint.
+*Evaluation* means a risk assessment, a lead hazard screen, a lead-based paint inspection, paint testing, or a combination of these to determine the presence of lead-based paint hazards or lead-based paint, or an environmental investigation.
 
-*Expected to reside* means there is actual knowledge that a child will reside in a dwelling unit reserved for the elderly or designated exclusively for persons with disabilities. If a resident woman is known to be pregnant, there is actual knowledge that a child will reside in the dwelling unit.
+*Expected to reside* means there is actual knowledge that a child will reside in a dwelling unit reserved or designated exclusively for the elderly or reserved or designated exclusively for persons with disabilities. If a resident woman is known to be pregnant, there is actual knowledge that a child will reside in the dwelling unit.
 
 *Federal agency* means the United States or any executive department, independent establishment, administrative agency and instrumentality of the United States, including a corporation in which all or a substantial amount of the stock is beneficially owned by the United States or by any of these entities. The term “Federal agency” includes, but is not limited to, Rural Housing Service (formerly Rural Housing and Community Development Service that was formerly Farmer's Home Administration), Resolution Trust Corporation, General Services Administration, Department of Defense, Department of Veterans Affairs, Department of the Interior, and Department of Transportation.
 
@@ -184,4 +184,4 @@ A *visual assessment* alone is not considered an evaluation for the purposes of 
 
 *Zero-bedroom dwelling* means any residential dwelling in which the living areas are not separated from the sleeping area. The term includes efficiencies, studio apartments, dormitory or single room occupancy housing, military barracks, and rentals of individual rooms in residential dwellings (see Single room occupancy (SRO)).
 
-[64 FR 50202, Sept. 15, 1999, as amended at 69 FR 34271, June 21, 2004; 69 FR 40474, July 2, 2004]
+[64 FR 50202, Sept. 15, 1999, as amended at 69 FR 34271, June 21, 2004; 69 FR 40474, July 2, 2004; 82 FR 4166, Jan. 13, 2017]

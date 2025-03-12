@@ -1,7 +1,5 @@
 ##### § 0.251 Authority delegated. #####
 
-Link to an amendment published at 82 FR 4188, January 13, 2017.
-
 (a) The General Counsel is delegated authority to act as the “designated agency ethics official.”
 
 (b) Insofar as authority is not delegated to any other Bureau or Office, and with respect only to matters which are not in hearing status, the General Counsel is delegated authority:
@@ -37,5 +35,7 @@ Link to an amendment published at 82 FR 4188, January 13, 2017.
 Note to paragraph (i):
 
 This delegation does not include waiver authority provided by 31 U.S.C. 3720B.
+
+(j) The General Counsel is delegated authority to act as the Commission's Chief FOIA Officer, as specified in 5 U.S.C. 552(j). In this role, the General Counsel is delegated authority to dismiss FOIA applications for review that are untimely, repetitious, or fail to articulate specific grounds for review.
 
 (Secs. 2, 3, 4, 5, 301, 303, 307, 308, 309, 315, 317, 48 Stat., as amended, 1064, 1065, 1066, 1068, 1081, 1082, 1083, 1084, 1085, 1088, 1089; 47 U.S.C. 152, 153, 154, 155, 301, 303, 307, 308, 309, 315, 317)[28 FR 12402, Nov. 22, 1963]Editorial Note:For Federal Register citations affecting § 0.251, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

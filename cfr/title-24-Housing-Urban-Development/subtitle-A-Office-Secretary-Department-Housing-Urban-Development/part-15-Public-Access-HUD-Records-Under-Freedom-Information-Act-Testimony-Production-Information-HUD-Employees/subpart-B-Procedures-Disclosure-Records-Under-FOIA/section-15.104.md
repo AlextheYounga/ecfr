@@ -1,10 +1,8 @@
 ##### § 15.104 Procedures for processing FOIA requests. #####
 
-Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
-
 (a) *In general.* HUD will ordinarily respond to FOIA requests according to their order of receipt.
 
-(b) *Tracking number.* FOIA requests will be logged in the order that they are received and be assigned a tracking number. A requester should use the tracking number to identify his or her request when contacting FOIA office for any reason.
+(b) *Tracking number.* FOIA requests will be logged in the order that they are received and be assigned a tracking number. A requester should use the tracking number to identify his or her request when contacting the FOIA office for any reason.
 
 (c) *Expedited processing.* (1) Requests and appeals will be taken out of order and given expedited treatment whenever it is determined that they involve:
 
@@ -23,3 +21,5 @@ Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
 (d) *Multitrack processing.* (1) For requests that do not qualify for expedited processing, HUD may use two or more processing tracks by distinguishing between simple and complex FOIA requests based on the following: The time and work necessary to process the FOIA request and the volume of agency records responsive to the FOIA request.
 
 (2) When HUD uses multitrack processing, it may provide requesters in its slower track an opportunity to limit the scope of their requests in order to qualify for faster processing within the specified limits of HUD's faster track. When HUD chooses to provide this option, HUD will contact the requester by telephone, letter, or email, whichever is more efficient in each case.
+
+[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017]

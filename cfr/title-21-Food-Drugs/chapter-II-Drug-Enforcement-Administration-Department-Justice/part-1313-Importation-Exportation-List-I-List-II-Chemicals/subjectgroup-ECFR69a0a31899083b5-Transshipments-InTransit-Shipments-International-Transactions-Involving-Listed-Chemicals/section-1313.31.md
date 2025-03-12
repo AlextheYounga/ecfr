@@ -1,6 +1,6 @@
 ##### § 1313.31 Advance notice of importation for transshipment or transfer. #####
 
-Link to an amendment published at 81 FR 97039, December 30, 2016.
+Link to an amendment published at 81 FR 97039, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) A quantity of a chemical listed in § 1310.02 of this chapter that meets or exceeds the threshold reporting requirements found in § 1310.04(f) of this chapter may be imported into the United States for transshipment, or may be transferred or transshipped within the United States for immediate exportation, provided that advance notice is given to the Administration.
 

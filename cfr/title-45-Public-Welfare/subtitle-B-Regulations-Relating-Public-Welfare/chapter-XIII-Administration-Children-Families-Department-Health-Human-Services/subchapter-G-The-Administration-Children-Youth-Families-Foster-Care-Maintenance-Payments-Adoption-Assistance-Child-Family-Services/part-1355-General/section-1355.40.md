@@ -1,6 +1,6 @@
 ##### § 1355.40 Foster care and adoption data collection. #####
 
-Link to an amendment published at 81 FR 90569, December 14, 2016.
+Link to an amendment published at 81 FR 90569, Dec. 14, 2016.
 
 (a) *Scope.* State and tribal title IV-E agencies must follow the requirements of this section and Appendices A through E of part 1355 until September 30, 2019. As of October 1, 2019, state and tribal title IV-E agencies must comply with §§ 1355.41 through 1355.47.
 

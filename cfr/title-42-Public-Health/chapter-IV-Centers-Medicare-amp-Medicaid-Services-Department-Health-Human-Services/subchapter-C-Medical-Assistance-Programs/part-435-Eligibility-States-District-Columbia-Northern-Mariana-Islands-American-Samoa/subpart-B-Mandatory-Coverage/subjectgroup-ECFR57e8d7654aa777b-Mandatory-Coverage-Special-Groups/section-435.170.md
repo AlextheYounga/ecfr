@@ -1,9 +1,17 @@
-##### § 435.170 Pregnant women eligible for extended coverage. #####
+##### § 435.170 Pregnant women eligible for extended or continuous eligibility. #####
 
-Link to an amendment published at 81 FR 86452, Nov. 30, 2016.
+(a) *Basis.* This section implements sections 1902(e)(5) and 1902(e)(6) of the Act.
 
-(a) The agency must provide categorically needy Medicaid eligibility for an extended period following termination of pregnancy to women who, while pregnant, applied for, were eligible for, and received Medicaid services on the day that their pregnancy ends. This period extends from the last day of pregnancy through the end of the month in which a 60-day period, beginning on the last day of the pregnancy, ends. Eligibility must be provided regardless of changes in the woman's financial circumstances that may occur within this extended period. These women are eligible for the extended period for all services under the plan that are pregnancy-related (as defined in § 440.210(c)(1) of this subchapter).
+(b) *Extended eligibility for pregnant women.* For a pregnant woman who was eligible and enrolled under subpart B, C, or D of this part on the date her pregnancy ends, the agency must provide coverage described in paragraph (d) of this section through the last day of the month in which the 60-day postpartum period ends.
 
-(b) The provisions of paragraph (a) of this section apply to Medicaid furnished on or after April 7, 1986.
+(c) *Continuous eligibility for pregnant women.* For a pregnant woman who was eligible and enrolled under subpart B, C, or D of this part and who, because of a change in household income, will not otherwise remain eligible, the agency must provide coverage described in paragraph (d) of this section through the last day of the month in which the 60-day post-partum period ends.
 
-[55 FR 48608, Nov. 21, 1990]
+(d) *Covered Services.* The coverage described in this paragraph (d) consists of—
+
+(1) Full Medicaid coverage, as described in § 435.116(d)(2); or
+
+(2) Pregnancy-related services described in § 435.116(d)(3), if the agency has elected to establish an income limit under § 435.116(d)(4), above which pregnant women enrolled for coverage under § 435.116 receive pregnancy-related services described in § 435.116(d)(3).
+
+(e) *Presumptive Eligibility.* This section does not apply to pregnant women covered during a presumptive eligibility period under section 1920 of the Act.
+
+[81 FR 86452, Nov. 30, 2016]

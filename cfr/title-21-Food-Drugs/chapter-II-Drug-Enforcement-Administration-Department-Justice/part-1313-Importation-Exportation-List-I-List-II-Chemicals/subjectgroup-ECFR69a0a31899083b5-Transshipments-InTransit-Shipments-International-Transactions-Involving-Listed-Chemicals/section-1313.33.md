@@ -1,6 +1,6 @@
 ##### § 1313.33 Contents of an international transaction declaration. #####
 
-Link to an amendment published at 81 FR 97040, December 30, 2016.
+Link to an amendment published at 81 FR 97040, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) An international transaction involving a chemical listed in § 1310.02 of this chapter which meets the threshold criteria established in § 1310.04 of this chapter may be arranged by a broker or trader if the chemical is needed for medical, commercial, scientific, or other legitimate uses.
 

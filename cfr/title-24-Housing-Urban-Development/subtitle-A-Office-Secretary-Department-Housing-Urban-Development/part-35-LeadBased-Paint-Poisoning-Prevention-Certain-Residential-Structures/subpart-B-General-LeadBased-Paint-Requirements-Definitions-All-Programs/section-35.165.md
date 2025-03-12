@@ -1,7 +1,5 @@
 ##### § 35.165 Prior evaluation or hazard reduction. #####
 
-Link to an amendment published at 82 FR 4167, Jan. 13, 2017.
-
 If an evaluation or hazard reduction was conducted at a residential property or dwelling unit before the property or dwelling unit became subject to the requirements of subparts B, C, D, F through M, and R of this part, such an evaluation, hazard reduction or abatement meets the requirements of subparts B, C, D, F through M, and R of this part and need not be repeated under the following conditions:
 
 (a) *Lead-based paint inspection.* (1) A lead-based paint inspection conducted before March 1, 2000, meets the requirements of this part if:
@@ -18,7 +16,7 @@ If an evaluation or hazard reduction was conducted at a residential property or 
 
 (3) A risk assessment conducted on or after March 1, 2000, must have been conducted by a certified risk assessor.
 
-(4) Paragraph (b) of this section does not apply in a case where a risk assessment is required in response to the identification of a child with an environmental intervention blood lead level. In such a case, the requirements in the applicable subpart for responding to a child with an environmental intervention blood lead level shall apply.
+(4) Paragraph (b) of this section does not apply in a case where a risk assessment is required in response to the identification of a child with an elevated blood lead level. In such a case, the requirements in the applicable subpart for responding to a child with an elevated blood lead level shall apply.
 
 (c) *Interim controls.* If a residential property is under a program of interim controls and ongoing lead-based paint maintenance and reevaluation activities established pursuant to a risk assessment conducted in accordance with paragraph (b) of this section, the interim controls that have been conducted meet the requirements of this part if clearance was achieved after such controls were implemented. In such a case, the program of interim controls and ongoing activities shall be continued in accordance with the requirements of this part.
 
@@ -30,4 +28,4 @@ If an evaluation or hazard reduction was conducted at a residential property or 
 
 (2) An abatement conducted on or after March 1, 2000, must have been conducted under the supervision of a certified lead-based paint abatement supervisor.
 
-[64 FR 50202, Sept. 15, 1999; 65 FR 3387, Jan. 21, 2000, as amended at 69 FR 34272, June 21, 2004]
+[64 FR 50202, Sept. 15, 1999; 65 FR 3387, Jan. 21, 2000, as amended at 69 FR 34272, June 21, 2004; 82 FR 4167, Jan. 13, 2017]

@@ -1,6 +1,6 @@
 ##### § 1302.07 Labeling and packaging requirements for imported and exported substances. #####
 
-Link to an amendment published at 81 FR 97020, December 30, 2016.
+Link to an amendment published at 81 FR 97020, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The symbol requirements of §§ 1302.03-1302.05 apply to every commercial container containing, and to all labeling of, controlled substances imported into the jurisdiction of and/or the customs territory of the United States.
 

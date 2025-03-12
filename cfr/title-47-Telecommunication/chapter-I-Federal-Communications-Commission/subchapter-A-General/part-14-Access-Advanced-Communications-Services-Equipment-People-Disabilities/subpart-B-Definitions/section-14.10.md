@@ -1,6 +1,6 @@
 ##### § 14.10 Definitions. #####
 
-Link to an amendment published at 82 FR 7707, January 23, 2017.
+Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
 
 (a) The term *accessible* shall have the meaning provided in § 14.21(b).
 

@@ -28,10 +28,10 @@
 
 (1) Civil money penalties of not more than $25,000 as adjusted annually under 45 CFR part 102 for each determination made.
 
-(2) With respect to a determination made under § 422.752(a)(4) or (a)(5)(i), not more than $100,000 for each such determination, except with respect to a determination made under § 422.752(a)(5), an assessment of not more than the amount claimed by such plan or MA organization based upon the misrepresentation or falsified information involved.
+(2) With respect to a determination made under § 422.752(a)(4) or (a)(5)(i), not more than $100,000 as adjusted annually under 45 CFR part 102 foreach such determination, except with respect to a determination made under § 422.752(a)(5), an assessment of not more than the amount claimed by such plan or MA organization based upon the misrepresentation or falsified information involved.
 
 (3) Plus with respect to a determination made under § 422.752(a)(2), double the excess amount charged in violation of such paragraph (and the excess amount charged must be deducted from the penalty and returned to the individual concerned).
 
-(4) Plus with respect to a determination made under § 422.752(a)(4), $15,000 for each individual not enrolled as a result of the practice involved.
+(4) Plus with respect to a determination made under § 422.752(a)(4), $15,000 as adjusted annually under 45 CFR part 102 for each individual not enrolled as a result of the practice involved.
 
-[72 FR 68726, Dec. 5, 2007, as amended at 74 FR 1542, Jan. 12, 2009; 79 FR 29960, May 23, 2014]
+[72 FR 68726, Dec. 5, 2007, as amended at 74 FR 1542, Jan. 12, 2009; 79 FR 29960, May 23, 2014; 81 FR 61562, Sept. 8, 2016]

@@ -1,6 +1,6 @@
 ##### § 1312.16 Cancellation of permit; expiration date. #####
 
-Link to an amendment published at 81 FR 97027, December 30, 2016.
+Link to an amendment published at 81 FR 97027, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) A permit may be canceled after being issued, at the request of the importer, provided no shipment has been made thereunder. In the event that a permit is lost, the Administrator may, upon the production by the importer of satisfactory proof, by affidavit or otherwise, issue a duplicate permit. Nothing in this part shall affect the right, hereby reserved by the Administrator, to cancel a permit at any time for proper cause.
 

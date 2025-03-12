@@ -1,10 +1,12 @@
 ##### § 1001.1801 Waivers of exclusions. #####
 
-Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+(a) The OIG has the authority to grant or deny a request from the administrator of a Federal health care program (as defined in section 1128B(f) of the Act) that an exclusion from that program be waived with respect to an individual or entity, except that no waiver may be granted with respect to an exclusion under § 1001.101(b). The request must be in writing and from an individual directly responsible for administering the Federal health care program.
 
-(a) The OIG has the authority to grant or deny a request from a State health care program that an exclusion from that program be waived with respect to an individual or entity, except that no waiver may be granted with respect to an exclusion under § 1001.101(b). The request must be in writing and from an individual directly responsible for administering the State health care program.
+(b) With respect to exclusions under § 1001.101(a), (c), or (d), a request from a Federal health care program for a waiver of the exclusion will be considered only if the Federal health care program administrator determines that—
 
-(b) With respect to exclusions under § 1001.101(a), a request from a State health care program for a waiver of the exclusion will only be considered if the individual or entity is the sole community physician or the sole source of essential specialized services in a community.
+(1) The individual or entity is the sole community physician or the sole source of essential specialized services in a community; and
+
+(2) The exclusion would impose a hardship on beneficiaries (as defined in section 1128A(i)(5) of the Act) of that program.
 
 (c) With respect to exclusions imposed under subpart C of this part, a request for waiver will only be granted if the OIG determines that imposition of the exclusion would not be in the public interest.
 
@@ -14,4 +16,4 @@ Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
 
 (f) The decision to grant, deny or rescind a request for a waiver is not subject to administrative or judicial review.
 
-(g) The Inspector General may waive the exclusion of an individual or entity from participation in the Medicare program in conjunction with granting a waiver requested by a State health care program. If a State program waiver is rescinded, the derivative waiver of the exclusion from Medicare is automatically rescinded.
+[57 FR 3330, Jan. 29, 1992, as amended at 82 FR 4116, Jan. 12, 2017]

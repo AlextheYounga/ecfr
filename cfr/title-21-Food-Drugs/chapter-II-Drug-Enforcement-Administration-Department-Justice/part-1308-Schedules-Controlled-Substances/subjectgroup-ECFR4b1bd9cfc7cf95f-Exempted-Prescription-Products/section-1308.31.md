@@ -1,6 +1,6 @@
 ##### § 1308.31 Application for exemption of a nonnarcotic prescription product. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.
+Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Any person seeking to have any compound, mixture, or preparation containing any nonnarcotic controlled substance listed in § 1308.12(e), or in § 1308.13(b) or (c), or in § 1308.14, or in § 1308.15, exempted from application of all or any part of the Act pursuant to section 201(g)(3)(A), of the Act (21 U.S.C. 811(g)(3)(A)) may apply to the Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 

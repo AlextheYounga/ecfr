@@ -1,7 +1,5 @@
-##### § 435.1100 Basis and scope. #####
+##### § 435.1100 Basis for presumptive eligibility. #####
 
-Link to an amendment published at 81 FR 86460, Nov. 30, 2016.
+This subpart implements sections 1920, 1920A, 1920B, 1920C, and 1902(a)(47)(B) of the Act.
 
-(a) *Statutory basis.* Section 1920A of the Act allows States to provide Medicaid services to children under age 19 during a period of presumptive eligibility, prior to a formal determination of Medicaid eligibility.
-
-(b) Scope. This subpart prescribes the requirements for providing medical assistance to special groups who are not eligible for Medicaid as categorically or medically needy.
+[81 FR 86460, Nov. 30, 2016]

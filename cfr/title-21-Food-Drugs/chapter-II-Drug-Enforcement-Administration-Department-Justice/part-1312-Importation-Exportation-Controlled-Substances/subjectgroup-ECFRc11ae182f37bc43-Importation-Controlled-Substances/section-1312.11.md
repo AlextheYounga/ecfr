@@ -1,6 +1,6 @@
 ##### § 1312.11 Requirement of authorization to import. #####
 
-Link to an amendment published at 81 FR 97026, December 30, 2016.
+Link to an amendment published at 81 FR 97026, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) No person shall import or cause to be imported any controlled substance listed in Schedule I or II or any narcotic controlled substance listed in Schedule III, IV or V or any non-narcotic controlled substance in Schedule III which the Administrator has specifically designated by regulation in § 1312.30 of this part or any non-narcotic controlled substance in Schedule IV or V which is also listed in Schedule I or II of the Convention on Psychotropic Substances unless and until such person is properly registered under the Act (or exempt from registration) and the Administrator has issued him a permit to do so pursuant to § 1312.13 of this part.
 

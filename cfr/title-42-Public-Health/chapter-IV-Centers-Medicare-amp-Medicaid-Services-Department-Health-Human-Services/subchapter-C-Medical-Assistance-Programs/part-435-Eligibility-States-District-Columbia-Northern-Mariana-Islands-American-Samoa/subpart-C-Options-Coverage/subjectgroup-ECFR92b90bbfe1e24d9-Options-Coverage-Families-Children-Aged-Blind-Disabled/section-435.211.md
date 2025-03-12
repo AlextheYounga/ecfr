@@ -1,11 +1,11 @@
-##### § 435.211 Individuals who would be eligible for cash assistance if they were not in medical institutions. #####
+##### § 435.211 Optional eligibility for individuals who would be eligible for cash assistance if they were not in medical institutions. #####
 
-Link to an amendment published at 81 FR 86452, Nov. 30, 2016.
+(a) *Basis.* This section implements section 1902(a)(10)(A)(ii)(IV) of the Act.
 
-The agency may provide Medicaid to any group or groups of individuals specified in § 435.201(a) who are in title XIX reimbursable medical institutions and who:
+(b) *Eligibility.* The agency may provide Medicaid to any group or groups of individuals specified in § 435.201(a)(1) through (3) who are institutionalized in a title XIX reimbursable medical institution and who:
 
-(a) Are ineligible for the cash assistance program appropriate for their status (that is, AFDC or SSI, or optional State supplements in States that provide Medicaid to optional State supplement beneficiaries) because of lower income standards used under the program to determine eligibility for institutionalized individuals; but
+(1) Are ineligible for the SSI or an optional State supplement program in States that provide Medicaid to optional State supplement recipients, because of lower income standards used under the program to determine eligibility for institutionalized individuals; but
 
-(b) Would be eligible for aid or assistance under the State's approved AFDC plan, SSI, or an optional State supplement as specified in §§ 435.232 and 435.234 if they were not institutionalized.
+(2) Would be eligible for aid or assistance under SSI or an optional State supplement program (as specified in § 435.232 or § 435.234) if they were not institutionalized.
 
-[58 FR 4927, Jan. 19, 1993]
+[81 FR 86452, Nov. 30, 2016]

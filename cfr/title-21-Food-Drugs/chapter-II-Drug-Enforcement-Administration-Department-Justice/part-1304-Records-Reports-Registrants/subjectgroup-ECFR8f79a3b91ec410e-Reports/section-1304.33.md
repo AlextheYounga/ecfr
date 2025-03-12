@@ -1,6 +1,6 @@
 ##### § 1304.33 Reports to Automation of Reports and Consolidated Orders System (ARCOS). #####
 
-Link to an amendment published at 81 FR 97020, December 30, 2016.
+Link to an amendment published at 81 FR 97020, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) *Reports generally.* All reports required by this section shall be filed with the ARCOS Unit on DEA Form 333, or on media which contains the data required by DEA Form 333 and which is acceptable to the ARCOS Unit. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 

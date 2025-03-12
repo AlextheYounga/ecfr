@@ -1,6 +1,6 @@
 ##### § 1313.21 Requirement of authorization to export. #####
 
-Link to an amendment published at 81 FR 97038, December 30, 2016.
+Link to an amendment published at 81 FR 97038, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) No person shall export or cause to be exported from the United States any chemical listed in § 1310.02 of this chapter, which meets or exceeds the threshold quantities identified in § 1310.04(f) or is a listed chemical for which no threshold has been established as identified in § 1310.04(g) of this chapter, until such time as the Administrator has been notified. Notification must be made not later than 15 days before the transaction is to take place. In order to facilitate the export of listed chemicals and implement the purpose of the Act, regulated persons may wish to provide notification to the Administration as far in advance of the 15 days as possible.
 

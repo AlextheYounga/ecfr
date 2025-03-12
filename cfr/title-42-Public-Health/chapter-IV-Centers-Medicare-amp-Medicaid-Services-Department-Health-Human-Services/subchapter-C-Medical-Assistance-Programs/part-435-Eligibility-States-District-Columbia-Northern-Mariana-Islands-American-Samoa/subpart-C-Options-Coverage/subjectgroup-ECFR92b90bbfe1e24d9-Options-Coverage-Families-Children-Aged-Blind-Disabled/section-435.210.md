@@ -1,7 +1,7 @@
-##### § 435.210 Individuals who meet the income and resource requirements of the cash assistance programs. #####
+##### § 435.210 Optional eligibility for individuals who meet the income and resource requirements of the cash assistance programs. #####
 
-Link to an amendment published at 81 FR 86452, Nov. 30, 2016.
+(a) *Basis.* This section implements section 1902(a)(10)(A)(ii)(I) of the Act.
 
-The agency may provide Medicaid to any group or groups of individuals specified in § 435.201 (a)(1) through (a)(3) and (a)(5) and (a)(6) who are not mandatory categorically needy, who meet the income and resource requirements of the appropriate cash assistance program for their status (that is, the State's approved AFDC plan or SSI, or optional State supplements in States that provide Medicaid to optional State supplement beneficiaries).
+(b) *Eligibility.* The agency may provide Medicaid to any group or groups of individuals specified in § 435.201(a)(1) through (3) who meet the income and resource requirements of SSI or an optional State supplement program in States that provide Medicaid to optional State supplement recipients.
 
-[58 FR 4927, Jan. 19, 1993]
+[81 FR 86452, Nov. 30, 2016]

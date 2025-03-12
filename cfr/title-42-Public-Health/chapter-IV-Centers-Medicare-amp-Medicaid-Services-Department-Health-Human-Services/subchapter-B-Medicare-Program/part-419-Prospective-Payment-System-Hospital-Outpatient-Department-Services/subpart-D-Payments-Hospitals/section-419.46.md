@@ -26,9 +26,9 @@
 
 (d) *Exemption*. CMS may grant an extension or exemption of one or more data submission deadlines and requirements in the event of extraordinary circumstances beyond the control of the hospital, such as when an act of nature affects an entire region or locale or a systemic problem with one of CMS' data collection systems directly or indirectly affects data submission. CMS may grant an extension or exemption as follows:
 
-(1) Upon request by the hospital. Specific requirements for submission of a request for an extension or exemption are available on the QualityNet Web site.
+(1) *Upon request by the hospital.* Specific requirements for submission of a request for an extension or exemption are available on the QualityNet Web site.
 
-(2) At the discretion of CMS. CMS may grant extensions or exemptions to hospitals that have not requested them when CMS determines that an extraordinary circumstance has occurred.
+(2) *At the discretion of CMS.* CMS may grant extensions or exemptions to hospitals that have not requested them when CMS determines that an extraordinary circumstance has occurred.
 
 (e) *Validation of Hospital OQR Program data*. CMS may validate one or more measures selected under section 1833(t)(17)(C) of the Act by reviewing documentation of patient encounters submitted by selected participating hospitals.
 

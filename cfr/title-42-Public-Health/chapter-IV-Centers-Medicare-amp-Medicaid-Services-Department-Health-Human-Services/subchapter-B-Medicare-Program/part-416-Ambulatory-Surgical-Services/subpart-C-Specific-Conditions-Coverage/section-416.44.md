@@ -1,4 +1,4 @@
-##### § 416.44 Condition for coverage - Environment. #####
+##### § 416.44 Condition for coverage—Environment. #####
 
 The ASC must have a safe and sanitary environment, properly constructed, equipped, and maintained to protect the health and safety of patients.
 
@@ -24,7 +24,7 @@ The ASC must have a safe and sanitary environment, properly constructed, equippe
 
 (6) Beginning July 5, 2017, an ASC must be in compliance with Chapter 21.3.2.1, Doors to hazardous areas.
 
-*(c) Standard: Building Safety.* Except as otherwise provided in this section, the ASC must meet the applicable provisions and must proceed in accordance with the 2012 edition of the Health Care Facilities Code (NFPA 99, and Tentative Interim Amendments TIA 12-2, TIA 12-3, TIA 12-4, TIA 12-5 and TIA 12-6).
+(c) *Standard: Building Safety.* Except as otherwise provided in this section, the ASC must meet the applicable provisions and must proceed in accordance with the 2012 edition of the Health Care Facilities Code (NFPA 99, and Tentative Interim Amendments TIA 12-2, TIA 12-3, TIA 12-4, TIA 12-5 and TIA 12-6).
 
 (1) Chapters 7, 8, 12, and 13 of the adopted Health Care Facilities Code do not apply to an ASC.
 

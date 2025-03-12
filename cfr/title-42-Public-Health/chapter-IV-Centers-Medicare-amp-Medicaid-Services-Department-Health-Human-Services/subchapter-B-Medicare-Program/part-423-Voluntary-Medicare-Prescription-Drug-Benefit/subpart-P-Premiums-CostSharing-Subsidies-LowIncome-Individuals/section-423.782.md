@@ -8,9 +8,9 @@
 
 (i) Except as provided under paragraphs (a)(2)(ii) and (a)(2)(iii) of this section, copayment amounts not to exceed the copayment amounts specified in § 423.104(d)(5)(A). This applies to both:
 
-(A) those full-benefit dual eligible individuals who are not institutionalized and who have income above 100 percent of the Federal poverty line applicable to the individual's family size and
+(A) Those full-benefit dual eligible individuals who are not institutionalized and who have income above 100 percent of the Federal poverty line applicable to the individual's family size and
 
-(B) those individuals who have income under 135 percent of the Federal poverty line applicable to the individual's family size who meet the resources test described at § 423.773(b)(2).
+(B) Those individuals who have income under 135 percent of the Federal poverty line applicable to the individual's family size who meet the resources test described at § 423.773(b)(2).
 
 (ii) Full-benefit dual-eligible individuals who are institutionalized or who are receiving home and community-based services have no cost-sharing for Part D drugs covered under their PDP or MA-PD plans.
 

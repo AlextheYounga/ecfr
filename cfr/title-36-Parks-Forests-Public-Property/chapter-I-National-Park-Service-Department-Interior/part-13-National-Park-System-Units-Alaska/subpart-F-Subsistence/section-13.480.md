@@ -1,6 +1,6 @@
 ##### § 13.480 Subsistence hunting and trapping. #####
 
-Link to an amendment published at 82 FR 3633, Jan. 12, 2017.
+Link to an amendment published at 82 FR 3633, Jan. 12, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10442, Feb. 13, 2017.
 
 Local rural residents may hunt and trap wildlife for subsistence uses in park areas where subsistence uses are allowed in compliance with this chapter and 50 CFR part 100.
 

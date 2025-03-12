@@ -1,7 +1,5 @@
 ##### § 435.831 Income eligibility. #####
 
-Link to an amendment published at 81 FR 86457, Nov. 30, 2016.
-
 The agency must determine income eligibility of medically needy individuals in accordance with this section.
 
 (a) *Budget periods.* (1) The agency must use budget periods of not more than 6 months to compute income. The agency may use more than one budget period.
@@ -10,15 +8,19 @@ The agency must determine income eligibility of medically needy individuals in a
 
 (3) If the agency elects to begin the first budget period for the medically needy in any month of the 3-month period prior to the date of the application in which the applicant received covered services, this election applies to all medically needy groups.
 
-(b) *Determining countable income.* The agency must deduct the following amounts from income to determine the individual's countable income.
+(b) *Determining countable income.* For purposes of determining medically needy eligibility under this part, the agency must determine an individual's countable income as follows:
 
-(1) For individuals under age 21 and caretaker relatives, the agency must deduct amounts that would be deducted in determining eligibility under the State's AFDC plan.
+(1) For individuals under age 21, pregnant women, and parents and other caretaker relatives, the agency may apply—
+
+(i) The AFDC methodologies in effect in the State as of August 16, 1996, consistent with § 435.601 (relating to financial methodologies for non-MAGI eligibility determinations) and § 435.602 (relating to financial responsibility of relatives and other individuals for non-MAGI eligibility determinations); or
+
+(ii) The MAGI-based methodologies defined in § 435.603(b) through (f). If the agency applies the MAGI-based methodologies defined in § 435.603(b) through (f), the agency must comply with the terms of § 435.602, except that in applying § 435.602(a)(2)(ii) to individuals under age 21, the agency may, at State option, include all parents as defined in § 435.603(b) (including stepparents) who are living with the individual in the individual's household for purposes of determining household income and family size, without regard to whether the parent's income and resources would be counted under the State's approved State plan under title IV-A of the Act in effect as of July 16, 1996, if the individual were a dependent child under such State plan.
 
 (2) For aged, blind, or disabled individuals in States covering all SSI beneficiaries, the agency must deduct amounts that would be deducted in determining eligibility under SSI. However, the agency must also deduct the highest amounts from income that would be deducted in determining eligibility for optional State supplements if these supplements are paid to all individuals who are receiving SSI or would be eligible for SSI except for their income.
 
 (3) For aged, blind, or disabled individuals in States using income requirements more restrictive than SSI, the agency must deduct amounts that are no more restrictive than those used under the Medicaid plan on January 1, 1972 and no more liberal than those used in determining eligibility under SSI or an optional State supplement. However, the amounts must be at least the same as those that would be deducted in determining eligibility, under § 435.121, of the categorically needy.
 
-(c) *Eligibility based on countable income.* If countable income determined under paragraph (b) of this section is equal to or less than the applicable income standard under § 435.814, the individual or family is eligible for Medicaid.
+(c) *Eligibility based on countable income.* If countable income determined under paragraph (b) of this section is equal to or less than that applicable income standard under § 435.814, the individual is eligible for Medicaid.
 
 (d) *Deduction of incurred medical expenses.* If countable income exceeds the income standard, the agency must deduct from income medical expenses incurred by the individual or family or financially responsible relatives that are not subject to payment by a third party. An expense is incurred on the date liability for the expense arises. The agency must determine deductible incurred expenses in accordance with paragraphs (e), (f), and (g) of this section and deduct those expenses in accordance with paragraph (h) of this section.
 
@@ -48,7 +50,7 @@ The agency must determine income eligibility of medically needy individuals in a
 
 (ii) Carried over from the preceding budget period or periods because the individual had a spenddown liability in each such preceding period that was met without deducting all such incurred, unpaid expenses.
 
-(g) *Determination of deductible incurred medical expenses: Optional deductions.* In determining incurred medical expenses to be deducted from income, the agency -
+(g) *Determination of deductible incurred medical expenses: Optional deductions.* In determining incurred medical expenses to be deducted from income, the agency—
 
 (1) May include medical institutional expenses (other than expenses in acute care facilities) projected to the end of the budget period at the Medicaid reimbursement rate;
 
@@ -72,7 +74,7 @@ The agency must determine income eligibility of medically needy individuals in a
 
 (3) *Chronological order by bill submission date.* Under this option, the agency deducts expenses in chronological order by the date each bill is submitted to the agency by the individual. If more than one bill is submitted at one time, the agency must deduct the bills from income in the order prescribed in either paragraph (h)(1) or (h)(2) of this section.
 
-(i) *Eligibility based on incurred medical expenses.* (1) Whether a State elects partial or full month coverage, an individual who is expected to contribute a portion of his or her income toward the costs of institutional care or home and community-based services under § 435.725, § 435.726, § 435.733, § 435.735 or § 435.832 is eligible on the first day of the applicable budget (spenddown) period -
+(i) *Eligibility based on incurred medical expenses.* (1) Whether a State elects partial or full month coverage, an individual who is expected to contribute a portion of his or her income toward the costs of institutional care or home and community-based services under § 435.725, § 435.726, § 435.733, § 435.735 or § 435.832 is eligible on the first day of the applicable budget (spenddown) period—
 
 (i) If his or her spenddown liability is met after the first day of the budget period; and
 
@@ -86,4 +88,4 @@ The agency must determine income eligibility of medically needy individuals in a
 
 (5) Expenses used to meet spenddown liability are not reimbursable under Medicaid. To the extent necessary to prevent the transfer of an individual's spenddown liability to the Medicaid program, States must reduce the amount of provider charges that would otherwise be reimbursable under Medicaid.
 
-[59 FR 1672, Jan. 12, 1994, as amended at 77 FR 17208, Mar. 23, 2012]
+[59 FR 1672, Jan. 12, 1994, as amended at 77 FR 17208, Mar. 23, 2012; 81 FR 86457, Nov. 30, 2016]

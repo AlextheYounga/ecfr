@@ -1,8 +1,6 @@
 ##### § 457.320 Other eligibility standards. #####
 
-Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
-
-(a) *Eligibility standards.* To the extent consistent with title XXI of the Act and except as provided in paragraph (b) of this section, the State plan may adopt eligibility standards for one or more groups of children related to -
+(a) *Eligibility standards.* To the extent consistent with title XXI of the Act and except as provided in paragraph (b) of this section, the State plan may adopt eligibility standards for one or more groups of children related to—
 
 (1) Geographic area(s) served by the plan;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
 
 (8) Duration of eligibility, in accordance with paragraph (e) of this section.
 
-(b) *Prohibited eligibility standards.* In establishing eligibility standards and methodologies, a State may *not* -
+(b) *Prohibited eligibility standards.* In establishing eligibility standards and methodologies, a State may *not*—
 
 (1) Cover children with a higher household income without covering children with a lower household income within any defined group of covered targeted low-income children;
 
@@ -36,17 +34,19 @@ Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
 
 (7) Violate any other Federal laws or regulations pertaining to eligibility for a separate child health program under title XXI.
 
-(c) *Self-declaration of citizenship.* In establishing eligibility for coverage under a separate child health plan, a State may accept self-declaration of citizenship (including nationals of the U.S.), provided that the State has implemented effective, fair, and nondiscriminatory procedures for ensuring the integrity of its application process.
+(c) [Reserved]
 
-(d) *Residency.* (1) Residency for a non-institutionalized child who is not a ward of the State must be determined in accordance with § 435.403(i) of this chapter.
+(d) *Citizenship and immigration status.* All individuals seeking coverage under a separate child health plan must make a declaration of United States citizenship or satisfactory immigration status. Such declaration may be made by an adult member of the individual's household, an authorized representative, as defined in § 435.923 of this chapter (referenced at § 457.340), or if the individual is a minor or incapacitated, someone acting responsibly for the individual provided that such individual attests to having knowledge of the individual's status.
+
+(e) *Residency.* (1) Residency for a non-institutionalized child who is not a ward of the State must be determined in accordance with § 435.403(i) of this chapter.
 
 (2) Residency for a targeted low-income pregnant woman defined at 2112 of the Act must be determined in accordance with § 435.403(h) of this chapter.
 
-(3) A State may not -
+(3) A State may not—
 
 (i) Impose a durational residency requirement;
 
-(ii) Preclude the following individuals from declaring residence in a State -
+(ii) Preclude the following individuals from declaring residence in a State—
 
 (A) An institutionalized child who is not a ward of a State, if the State is the State of residence of the child's custodial parent or caretaker at the time of placement; or
 
@@ -54,8 +54,8 @@ Link to an amendment published at 81 FR 86463, Nov. 30, 2016.
 
 (4) In cases of disputed residency, the State must follow the process described in § 435.403(m) of this chapter.
 
-(e) *Duration of eligibility.* (1) The State may not impose a lifetime cap or other time limit on the eligibility of an individual applicant or enrollee, based on the length of time such applicant or enrollee has received benefits under the State's separate child health program.
+(f) *Duration of eligibility.* (1) The State may not impose a lifetime cap or other time limit on the eligibility of an individual applicant or enrollee, based on the length of time such applicant or enrollee has received benefits under the State's separate child health program.
 
 (2) [Reserved]
 
-[66 FR 2675, Jan. 11, 2001, as amended at 66 FR 33823, June 25, 2001, 77 FR 17214, Mar. 23, 2012]
+[66 FR 2675, Jan. 11, 2001, as amended at 66 FR 33823, June 25, 2001, 77 FR 17214, Mar. 23, 2012; 81 FR 86463, Nov. 30, 2016]
