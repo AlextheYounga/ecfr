@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 82 FR 6886, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8806, Jan. 31, 2017.This amendment was further delayed until Sept. 30, 2017 at 82 FR 14427, Mar. 21, 2017.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -645,7 +643,31 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (C) Cases in which safety standards would be violated by the use of the reversible mode.
 
-(2) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 7, 2019, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must -
+(2)(i) Ceiling fans manufactured on or after January 21, 2020 shall meet the requirements shown in the table:
+
+|Product class as defined in Appendix U| Minimum efficiency  <br/>(CFM/W)<sup>1</sup>  |
+|--------------------------------------|-----------------------------------------------|
+|      Very small-diameter (VSD)       |D ≤ 12 in.: 21  <br/>D \> 12 in.: 3.16 D −17.04|
+|               Standard               |                0.65 D + 38.03                 |
+|                Hugger                |                0.29 D + 34.46                 |
+|   High-speed small-diameter (HSSD)   |                 4.16 D + 0.02                 |
+|            Large-diameter            |                 0.91 D−30.00                  |
+
+<sup>1</sup> D is the ceiling fan's blade span, in inches, as determined in Appendix U of this part.
+
+(ii) The provisions in this appendix apply to ceiling fans except:
+
+(A) Ceiling fans where the plane of rotation of a ceiling fan's blades is not less than or equal to 45 degrees from horizontal, or cannot be adjusted based on the manufacturer's specifications to be less than or equal to 45 degrees from horizontal;
+
+(B) Centrifugal ceiling fans, as defined in Appendix U of this part;
+
+(C) Belt-driven ceiling fans, as defined in Appendix U of this part;
+
+(D) Oscillating ceiling fans, as defined in Appendix U of this part; and
+
+(E) Highly-decorative ceiling fans, as defined in Appendix U of this part.
+
+(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 7, 2019, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must -
 
 (i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(2)(ii) of this section:
 
@@ -674,7 +696,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(2)(i) of this section.
 
-(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 7, 2019, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements:
+(4) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 7, 2019, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements:
 
 |                              Factor                               |                      Requirement                       |
 |-------------------------------------------------------------------|--------------------------------------------------------|
@@ -684,9 +706,9 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 |                                                                   |    ≥70 lm/w for all lamps that are \> 24 inches and    |
 |                                                                   |              ≥30 total listed lamp watts.              |
 
-(4) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 7, 2019, with socket types other than those covered in paragraphs (s)(2) or (3) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts.
+(5) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 7, 2019, with socket types other than those covered in paragraphs (s)(2) or (3) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts.
 
-(5) Ceiling fan light kits manufactured on or after January 7, 2019 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK and each basic model of integrated SSL in the CFLK basic model shall meet the requirements shown in the table:
+(6) Ceiling fan light kits manufactured on or after January 7, 2019 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK and each basic model of integrated SSL in the CFLK basic model shall meet the requirements shown in the table:
 
 |Lumens<sup>1</sup>|Minimum required efficacy  <br/>(lm/W)|
 |------------------|--------------------------------------|
