@@ -1,8 +1,6 @@
 ##### § 710.2 Scope. #####
 
-Link to an amendment published at 82 FR 57107, Dec. 4, 2017.
-
-The procedures outlined in this rule require the application of the Adjudicative Guidelines (see § 710.7) in determining eligibility for access authorization for:
+The procedures outlined in this rule apply to determinations of eligibility for access authorization for:
 
 (a) Employees (including consultants) of, and applicants for employment with, contractors and agents of the DOE;
 
@@ -11,3 +9,5 @@ The procedures outlined in this rule require the application of the Adjudicative
 (c) Employees (including consultants) of, and applicants for employment with, the DOE; and
 
 (d) Other persons designated by the Secretary of Energy.
+
+[81 FR 71335, Oct. 17, 2016, as amended at 82 FR 57107, Dec. 4, 2017]

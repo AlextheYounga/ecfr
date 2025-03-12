@@ -1,5 +1,7 @@
 ##### § 2.53 Audit and evaluation. #####
 
+Link to an amendment published at 83 FR 252, Jan. 3, 2018.
+
 (a) *Records not copied or removed.* If patient records are not downloaded, copied or removed from the part 2 program premises or forwarded electronically to another electronic system or device, patient identifying information, as defined in § 2.11, may be disclosed in the course of a review of records on the part 2 program premises to any individual or entity who agrees in writing to comply with the limitations on re-disclosure and use in paragraph (d) of this section and who:
 
 (1) Performs the audit or evaluation on behalf of:

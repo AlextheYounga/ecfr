@@ -1,17 +1,3 @@
-##### § 102.2 Public reading rooms. #####
+##### § 102.2 Proactive disclosure of records. #####
 
-(a) SBA maintains a public reading room in the Headquarters Reference Library at 409 3rd St., SW., Suite 5000, Washington, DC 20416 where you may read and copy the following:
-
-(1) Final SBA opinions and orders issued by the Office of Hearings and Appeals in adjudicating a case,
-
-(2) Official non-privileged policy statements, opinions, or interpretations,
-
-(3) Standard operating procedures affecting members of the public,
-
-(4) Records SBA has released in response to previous FOIA requests which, because of their subject matter, SBA determines are likely to be requested again, and
-
-(5) An index of the records referred to under paragraph (a)(4) of this section.
-
-(b) The records described in paragraph (a) of this section are available in the SBA Online Reading Room at *http://www.sba.gov/library/.*
-
-(c) Reading room records created on or after November 1, 1996 are available electronically.
+Records that are required by the FOIA to be made available for public inspection in an electronic format may be accessed through the SBA's Web site at *https://www.sba.gov/foia.* Each component of SBA is responsible for determining which of its records are required to be made publicly available, as well as for identifying additional records of interest to the public that are appropriate for public disclosure, and for posting and indexing such records. Each component shall ensure that its Web site of posted records and indices is reviewed and updated on an ongoing basis. Each component has a FOIA Public Liaison who can assist individuals in locating records particular to a component. A list of the SBA's FOIA Public Liaisons is available at *https://www.sba.gov/foia.*

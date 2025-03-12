@@ -1,5 +1,7 @@
 ##### § 2.15 Incompetent and deceased patients. #####
 
+Link to an amendment published at 83 FR 251, Jan. 3, 2018.
+
 (a) *Incompetent patients other than minors* - (1) *Adjudication of incompetence.* In the case of a patient who has been adjudicated as lacking the capacity, for any reason other than insufficient age, to their own affairs, any consent which is required under the regulations in this part may be given by the guardian or other individual authorized under state law to act in the patient's behalf.
 
 (2) *No adjudication of incompetency.* In the case of a patient, other than a minor or one who has been adjudicated incompetent, that for any period suffers from a medical condition that prevents knowing or effective action on their own behalf, the part 2 program director may exercise the right of the patient to consent to a disclosure under subpart C of this part for the sole purpose of obtaining payment for services from a third-party payer.

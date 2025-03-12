@@ -1,17 +1,41 @@
-##### § 102.7 Business information. #####
+##### § 102.7 Confidential commercial information. #####
 
-(a) *In general.* Business information provided to SBA from a submitter will only be disclosed in accordance with this section.
+(a) *Definitions.* For purposes of this section:
 
-(b) *Definitions.* For purposes of this section:
+*Confidential commercial information* means commercial or financial information obtained by the SBA from a submitter that may be protected from disclosure under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).
 
-(1) *Business information* is commercial or financial information obtained by SBA from a submitter that may arguably be protected from disclosure under Exemption 4 of the FOIA.
+*Submitter* means any person or entity, including a corporation, State, or foreign government, but not including another Federal Government entity, that provides information, either directly or indirectly to the Federal Government.
 
-(2) *Submitter* is any person or entity who provides business information, directly or indirectly to SBA.
+(b) *Designation of confidential commercial information.* A submitter of confidential commercial information must use good faith efforts to designate by appropriate markings, either at the time of submission or within a reasonable time thereafter, any portion of its submission that it considers to be protected from disclosure under Exemption 4. These designations shall expire 10 years after the date of the submission unless the submitter requests and provides justification for a longer designation period.
 
-(c) *Designation of business information.* Submitters of business information will use reasonable, good-faith efforts to designate, by appropriate markings, either at the time of submission or at a reasonable time thereafter, any portions of their submissions that they consider to be protected from disclosure under Exemption 4 of the FOIA. Designations will expire ten years after the date of the submission unless the submitter requests, and provides justification for, a longer designation period.
+(c) *When notice to submitters is required.* (1) A component shall promptly provide written notice to a submitter of confidential commercial information whenever records containing such information are requested under the FOIA if, after reviewing the request, the responsive records, and any appeal by the requester, the component determines that it may be required to disclose the records, provided:
 
-(d) *Notice to submitters.* SBA will provide a submitter with written notice of a FOIA request or administrative appeal that seeks its business information whenever SBA intends to release that information. The notice will either describe the business information or include copies of the records in the form SBA proposes to release them. SBA will also advise the requester that the submitter is being given the opportunity to object to any proposed disclosure. When notification of a voluminous number of submitters is required, SBA may post or publish such a notice in a place reasonably likely to accomplish notice.
+(i) The requested information has been designated in good faith by the submitter as information considered protected from disclosure under Exemption 4; or
 
-(e) *Opportunity to object to disclosure.* SBA will give the submitter ten working days from the date of the written notice to submit a detailed written statement specifying all grounds upon which disclosure is opposed. A reasonable extension of time may be granted by the correct office upon good cause shown by the submitter. The submitter's statement must demonstrate why it believes information is a trade secret or commercial or financial information that is privileged or confidential. If a submitter fails to timely respond to the notice, such failure will be deemed a waiver by the submitter of any objection to the disclosure of the information. Information provided by a submitter under this paragraph may itself be subject to disclosure under the FOIA.
+(ii) The component has a reason to believe that the requested information may be protected from disclosure under Exemption 4, but has not yet determined whether the information is protected from disclosure under that exemption or any other applicable exemption.
 
-(f) *Notice of intent to disclose.* SBA will consider a submitter's objections and specific grounds for nondisclosure in accordance with paragraph (e) of this section in deciding whether to disclose business information. If SBA decides to disclose business information despite the objection of a submitter, SBA will give the submitter written notice, advising the submitter what will be disclosed, and that such disclosure will occur within 10 working days from the date of the notice.
+(2) The notice shall either describe the commercial information requested or include a copy of the requested records or portions of records containing the information. In cases involving a voluminous number of submitters, notice may be made by posting or publishing the notice in a place or manner reasonably likely to accomplish it.
+
+(d) *Exceptions to submitter notice requirements.* The notice requirements of this section shall not apply if:
+
+(1) The component determines that the information is exempt under the FOIA;
+
+(2) The information has been lawfully published or has been officially made available to the public;
+
+(3) Disclosure of the information is required by a statute other than the FOIA or by a regulation issued in accordance with the requirements of Executive Order 12600 of June 23, 1987; or
+
+(4) The designation made by the submitter under paragraph (b) of this section appears obviously frivolous, except that, in such a case, the component shall give the submitter written notice of any final decision to disclose the information and must provide that notice within a reasonable number of days prior to a specified disclosure date.
+
+(e) *Opportunity to object to disclosure.* (1) A component shall specify a reasonable time period within which the submitter must respond to the notice referenced above. If the submitter has any objections to disclosure, it should provide the component a detailed written statement that specifies all grounds for withholding the particular information under any exemption of the FOIA. In order to rely on Exemption 4 as the basis for nondisclosure, the submitter must explain why the information constitutes a trade secret or commercial or financial information that is privileged or confidential.
+
+(2) A submitter who fails to respond within the time period specified in the notice shall be considered to have no objection to disclosure of the information. Information received by the component after the date of any disclosure decision shall not be considered by the component. Any information provided by a submitter under this subpart may itself be subject to disclosure under the FOIA.
+
+(f) *Analysis of objections.* A component shall consider a submitter's objections and specific grounds for nondisclosure in deciding whether to disclose the requested information.
+
+(g) *Notice of intent to disclose.* Whenever a component decides to disclose information over the objection of a submitter, the component shall provide the submitter written notice, which shall include:
+
+(1) A statement of the reasons why each of the submitter's disclosure objections was not sustained;
+
+(2) A description of the information to be disclosed; and
+
+(3) A specified disclosure date, which shall be a reasonable time subsequent to the notice.

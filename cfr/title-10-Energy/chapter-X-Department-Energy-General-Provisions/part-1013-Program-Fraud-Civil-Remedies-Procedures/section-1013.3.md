@@ -1,7 +1,5 @@
 ##### § 1013.3 Basis for civil penalties and assessments. #####
 
-(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $10,957 for each such claim.
-
 (a) *Claims.* (1) Except as provided in paragraph (c) of this section, any person who makes a claim that the person knows or has reason to know -
 
 (i) Is false, fictitious, or fraudulent;
