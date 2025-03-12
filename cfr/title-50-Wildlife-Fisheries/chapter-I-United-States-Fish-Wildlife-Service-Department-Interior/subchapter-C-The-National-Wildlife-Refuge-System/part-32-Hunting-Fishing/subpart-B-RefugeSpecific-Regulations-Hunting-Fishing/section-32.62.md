@@ -188,33 +188,35 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) The condition set forth at paragraph (e)(1)(v) of this section applies.
 
-(f) *Buffalo Lake National Wildlife Refuge.* (1) [Reserved]
-
-(2) *Upland game hunting.* We allow hunting of ring-necked pheasant on designated areas of the refuge subject to the following conditions:
+(f) *Buffalo Lake National Wildlife Refuge* - (1) *Migratory bird hunting.* We allow hunting of mourning dove, white-winged dove, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
 (i) We require hunters to obtain a Special Use Permit (FWS Form 3-1383-G).
 
 (ii) Hunters age 17 and younger (“youth hunters”) must be under the direct supervision of an adult age 18 or older (“adult supervisor”).
 
-(iii) We limit hunting to 5 days, opening on Saturday as governed by the opening of the State of Texas hunting season, and the subsequent Monday, Wednesday, Friday, and Sunday.
+(iii) We limit hunting to no more than 6 days with a maximum of 12 hunters, during the concurrent pheasant/quail season as governed by the State of Texas hunting season.
 
-(iv) Hunting hours will be from 9 a.m. to the close of legal shooting time as listed in the State of Texas pheasant hunting regulations.
+(iv) Hunting hours will be from 30 minutes before legal sunrise until noon.
 
 (v) All hunters must check in and out at refuge headquarters.
 
-(vi) We allow only shotguns for pheasant hunting.
+(vi) Bag limits will be determined annually for each species, but will never exceed the limits set by Texas Parks and Wildlife Department (TPWD).
+
+(2) *Upland game hunting.* We allow hunting of ring-necked pheasant, northern bobwhite, and scaled quail on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (f)(1)(ii), (iii), and (v) of this section apply.
+
+(ii) Hunting hours will be from 9 a.m. to 4:30 p.m.
+
+(iii) We allow only shotguns for pheasant and quail hunting.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, mule deer, and feral hog on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (f)(2)(ii) of this section applies.
+(i) The condition set forth at paragraph (f)(1)(ii) of this section applies.
 
 (ii) After legal sunset, hunters may be in designated camping areas only. We prohibit hunters in all other areas of the refuge after legal sunset.
 
-(iii) During the youth hunt:
-
-(A) When hunting, each adult supervisor may supervise only one youth hunter. A youth hunter may have up to two adult supervisors.
-
-(B) The condition set forth at paragraph (f)(2)(i) of this section applies.
+(iii) During the youth hunt, each adult supervisor may supervise only one youth hunter. A youth hunter may have up to two adult supervisors.
 
 (4) [Reserved]
 
@@ -306,39 +308,41 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) *Laguna Atascosa National Wildlife Refuge.* (1)-(2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and nilgai antelope on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, nilgai antelope, other exotic ungulates, and American alligator on designated areas of the refuge subject to the following conditions:
 
-(i) We require hunters to obtain a refuge hunt permit (name and address only). We require the hunter to possess and carry a signed and dated refuge hunt permit (tearsheet) in addition to the State hunt permit.
+(i) We allow the incidental take of nilgai antelope, feral hog, and other rarely observed exotic ungulates (such as fallow deer, axis deer, sika deer, Barbary sheep, and black buck) during all refuge hunts, with the exception of American alligator hunts.
 
-(ii) We allow archery and firearm hunting on designated units of the refuge. Units 1, 2, 3, 5, 6, and 8 are open to archery hunting during designated dates. Units 2, 3, 5, and 8 are open to firearm hunting during designated dates.
+(ii) We require hunters to attend refuge hunter orientation before hunting on the refuge. We require each hunter to obtain and carry with them a signed and dated hunt information tearsheet (name only) in addition to the State hunt permit.
 
-(iii) The annual refuge hunt brochure provides the bag limit for deer hunted on the refuge.
+(iii) Bag limits for species hunted on the refuge are provided in the refuge hunt tearsheet annually.
 
-(iv) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
+(iv) Each hunter age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-(v) We allow a scouting period prior to the commencement of the refuge deer hunting season. A permitted hunter and a limit of two non-permitted individuals may enter the hunt units during the scouting period. We allow access to the units during the scouting period from 11/2 hours before legal sunrise to legal sunset. You must clearly display the signed refuge hunt permit (tearsheet) face up on the vehicle dashboard when hunting and scouting.
+(v) We allow a scouting period prior to the commencement of each refuge hunt period. A permitted hunter and a limit of two non-permitted individuals may enter the hunt units during the scouting period, which begins after hunter orientation and ends at legal sunset. Each hunter must clearly display a Vehicle Validation Tag face up on the vehicle dashboard when scouting and hunting.
 
-(vi) We allow hunters to enter the refuge 11/2 hours before legal sunrise during the permitted hunt season. Hunters must leave the hunt unit no later than 1 hour after legal shooting hours.
+(vi) We allow hunters to enter the refuge 11/2 hours before legal sunrise during their permitted hunt periods. Hunters must leave the hunt units no later than 1 hour after State legal shooting hours.
 
-(vii) You may access hunt units only by foot or by bicycle.
+(vii) Hunters may access hunt units only by foot or bicycle.
 
-(viii) We allow hunting from portable stands or by stalking and still hunting. There is a limit of one blind or stand per permitted hunter. You must attach hunter identification (permit number or license number) to the blind or stand. You must remove all blinds and stands at the end of the permitted hunt season (see § 27.93 of this chapter).
+(viii) We allow hunting from portable stands or by stalking and still hunting. There is a limit of one blind or stand per permitted hunter. Hunters must attach hunter identification (permit number or State license number) to the blind or stand. Hunters must remove all blinds and stands at the end of the permitted hunt period (see § 27.93 of this chapter).
 
-(ix) Hunters must field-dress all harvested big game in the field and check the game at the refuge check station before removal from the refuge. You may use a nonmotorized cart to assist with the transportation of harvested game animals.
+(ix) During American alligator hunts, we allow hunters to leave hooks set over only one night period at a time; set lines must be checked daily. Hunters must field dress all harvested big game in the field and check the game at the hunt check station before removal from the refuge. Hunters may use a nonmotorized cart to assist with the transportation of harvested game animals.
 
-(x) We prohibit killing or wounding a deer, hog, or antelope and then intentionally or knowingly failing to make a reasonable effort to retrieve and include it in the hunter's bag limit.
+(x) Hunters must field dress all harvested big game in the field and check the game at the hunt check station before removal from the refuge. Hunters may use a nonmotorized cart to assist with the transportation of harvested game animals.
+
+(xi) We prohibit the killing or wounding of a game animal and then intentionally or knowingly failing to make a reasonable effort to retrieve and include it in the hunter's bag limit.
 
 (4) *Sport fishing.* We allow fishing and crabbing on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow fishing and crabbing year-round from Adoph Thomae Jr. County Park on San Martin Lake of the Bahia Grande Unit, and on the South Padre Island Unit.
+(i) We allow fishing and crabbing year-round only from Adolph Thomae Jr. County Park, on San Martin Lake of the Bahia Grande Unit, and on the South Padre Island Unit.
 
-(ii) We only allow pole and line, rod and reel, hand line, dip net, or cast net for fishing. We prohibit the use of crab traps or pots for crabbing. Anglers must attend all fishing lines, crabbing equipment, or other fishing devices at all times.
+(ii) We allow only pole and line, rod and reel, hand line, dip net, or cast net for fishing. We prohibit the use of crab traps or pots for crabbing. Anglers must attend all fishing lines, crabbing equipment, and other fishing devices at all times.
 
-(iii) We allow the use of boats for sport fishing. We only allow bank and wade fishing on the shoreline of San Martin Lake within the refuge boundary. We only allow access by foot behind posted refuge boundary signs.
+(iii) In the Bahia Grande Unit, inside the refuge boundary on San Martin Lake, we allow only bank and wade fishing within a designated area, which may only be accessed on foot. In other waters of the Bahia Grande Unit, we do not allow boats or fishing inside the refuge boundary.
 
 (j) *Lower Rio Grande Valley National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning, white-winged, and white-tipped dove on designated areas of the refuge subject to the following conditions:
 
-(i) We require hunters to obtain a refuge hunt permit (signed tearsheet) and to possess and carry that permit at all times during your designated hunt period. Hunters must also display the refuge-issued vehicle placard (part of the hunt permit) while participating in the designated hunt period.
+(i) We require hunters to obtain a hunt permit (signed brochure) and to possess and carry that permit at all times during your designated hunt period. Hunters must also display the vehicle placard (part of the hunt permit) while participating in the designated hunt period.
 
 (ii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
@@ -350,23 +354,27 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow the use of dogs to retrieve doves during the hunt.
 
-(2) [Reserved]
-
-(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and nilgai antelope on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of wild turkey on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (j)(1)(i) through (v) of this section apply.
 
-(ii) We allow the use of rattling horns.
+(ii) We allow turkey hunting during the spring season only.
 
-(iii) We allow free-standing blinds or tripods. Hunters may set them up during the scouting days preceding each permitted hunt day and must take them down by the end of each hunt day (see § 27.93 of this chapter). Hunters must mark and tag all stands with their hunting license number during the period of use.
+(iii) You may only harvest one bearded turkey per hunter.
 
-(iv) Hunters must field-dress all harvested big game in the field.
+(iv) We prohibit the killing, wounding, taking, or possession of game animals and then intentionally or knowingly failing to make a reasonable effort to retrieve or keep the edible portions of the animal and include it in your bag limit.
 
-(v) Hunters may use nonmotorized dollies or carts off improved roads or trails to haul carcasses to a parking area.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, nilgai antelope, javelina, and other exotic ungulates (as defined by the State of Texas to include fallow deer, axis deer, sika deer, Barbary sheep, and black buck) on designated areas of the refuge subject to the following conditions:
 
-(vi) We prohibit use of big game decoys.
+(i) The conditions set forth at paragraphs (j)(1)(i) through (v) and (2)(iv) of this section apply.
 
-(vii) We prohibit the killing, wounding, taking, or possession of a deer, hog, or antelope and then intentionally or knowingly failing to make a reasonable effort to retrieve or keep the edible portions of the animal and include it in your bag limit.
+(ii) We allow only free-standing blinds or tripods. Hunters may set them up during the scouting days preceding each permitted hunt day and must take them down by the end of each hunt day (see § 27.93 of this chapter). Hunters must mark and tag all stands with their hunting license number during the period of use.
+
+(iii) Hunters must field-dress all harvested big game in the field.
+
+(iv) Hunters may use nonmotorized dollies or carts off of improved roads or trails to haul carcasses to a parking area.
+
+(v) We prohibit the use of big game decoys.
 
 (4) [Reserved]
 
@@ -517,3 +525,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) We prohibit the harvesting of frog or turtle (see § 27.21 of this chapter).
 
 (iv) We allow fishing from legal sunrise to legal sunset.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54140, Aug. 31, 2020]

@@ -66,7 +66,9 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (7) Kofa National Wildlife Refuge.
 
-(8) San Bernardino National Wildlife Refuge.
+(8) Leslie Canyon National Wildlife Refuge.
+
+(9) San Bernardino National Wildlife Refuge.
 
 (d) *Arkansas.* (1) Bald Knob National Wildlife Refuge.
 
@@ -118,17 +120,19 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (16) Salinas River National Wildlife Refuge.
 
-(17) San Luis National Wildlife Refuge.
+(17) San Diego Bay National Wildlife Refuge.
 
-(18) San Pablo Bay National Wildlife Refuge.
+(18) San Luis National Wildlife Refuge.
 
-(19) Sonny Bono Salton Sea National Wildlife Refuge.
+(19) San Pablo Bay National Wildlife Refuge.
 
-(20) Stone Lakes National Wildlife Refuge.
+(20) Sonny Bono Salton Sea National Wildlife Refuge.
 
-(21) Sutter National Wildlife Refuge.
+(21) Stone Lakes National Wildlife Refuge.
 
-(22) Tule Lake National Wildlife Refuge.
+(22) Sutter National Wildlife Refuge.
+
+(23) Tule Lake National Wildlife Refuge.
 
 (f) *Colorado.* (1) Alamosa National Wildlife Refuge.
 
@@ -158,25 +162,27 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (4) Egmont Key National Wildlife Refuge.
 
-(5) Hobe Sound National Wildlife Refuge.
+(5) Everglades Headwaters National Wildlife Refuge.
 
-(6) J.N. “Ding” Darling National Wildlife Refuge.
+(6) Hobe Sound National Wildlife Refuge.
 
-(7) Lake Woodruff National Wildlife Refuge.
+(7) J.N. “Ding” Darling National Wildlife Refuge.
 
-(8) Lower Suwannee National Wildlife Refuge.
+(8) Lake Woodruff National Wildlife Refuge.
 
-(9) Merritt Island National Wildlife Refuge.
+(9) Lower Suwannee National Wildlife Refuge.
 
-(10) Pelican Island National Wildlife Refuge.
+(10) Merritt Island National Wildlife Refuge.
 
-(11) Pinellas National Wildlife Refuge.
+(11) Pelican Island National Wildlife Refuge.
 
-(12) St. Marks National Wildlife Refuge.
+(12) Pinellas National Wildlife Refuge.
 
-(13) St. Vincent National Wildlife Refuge.
+(13) St. Marks National Wildlife Refuge.
 
-(14) Ten Thousand Islands National Wildlife Refuge.
+(14) St. Vincent National Wildlife Refuge.
+
+(15) Ten Thousand Islands National Wildlife Refuge.
 
 (j) *Georgia.* (1) Banks Lake National Wildlife Refuge.
 
@@ -498,23 +504,27 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (3) Fort Niobrara National Wildlife Refuge.
 
-(4) North Platte National Wildlife Refuge.
+(4) John W. and Louise Seier National Wildlife Refuge.
 
-(5) Rainwater Basin Wetland Management District.
+(5) North Platte National Wildlife Refuge.
 
-(6) Valentine National Wildlife Refuge.
+(6) Rainwater Basin Wetland Management District.
+
+(7) Valentine National Wildlife Refuge.
 
 (bb) *Nevada.* (1) Ash Meadows National Wildlife Refuge.
 
 (2) Desert National Wildlife Refuge.
 
-(3) Pahranagat National Wildlife Refuge.
+(3) Fallon National Wildlife Refuge.
 
-(4) Ruby Lake National Wildlife Refuge.
+(4) Pahranagat National Wildlife Refuge.
 
-(5) Sheldon National Wildlife Refuge.
+(5) Ruby Lake National Wildlife Refuge.
 
-(6) Stillwater National Wildlife Refuge.
+(6) Sheldon National Wildlife Refuge.
+
+(7) Stillwater National Wildlife Refuge.
 
 (cc) *New Hampshire.* (1) Great Bay National Wildlife Refuge.
 
@@ -586,63 +596,139 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (11) Swanquarter National Wildlife Refuge.
 
-(hh) *North Dakota.* (1) Ardoch National Wildlife Refuge.
+(hh) *North Dakota.* (1) Appert Lake National Wildlife Refuge.
 
-(2) Arrowwood National Wildlife Refuge.
+(2) Ardoch National Wildlife Refuge.
 
-(3) Arrowwood Wetland Management District.
+(3) Arrowwood National Wildlife Refuge.
 
-(4) Audubon National Wildlife Refuge.
+(4) Arrowwood Wetland Management District.
 
-(5) Audubon Wetland Management District.
+(5) Audubon National Wildlife Refuge.
 
-(6) Chase Lake National Wildlife Refuge.
+(6) Audubon Wetland Management District.
 
-(7) Chase Lake Wetland Management District.
+(7) Bone Hill National Wildlife Refuge.
 
-(8) Crosby Wetland Management District.
+(8) Brumba National Wildlife Refuge.
 
-(9) Des Lacs National Wildlife Refuge.
+(9) Buffalo Lake National Wildlife Refuge.
 
-(10) Devils Lake Wetland Management District.
+(10) Camp Lake National Wildlife Refuge.
 
-(11) J. Clark Salyer National Wildlife Refuge.
+(11) Canefield Lake National Wildlife Refuge.
 
-(12) J. Clark Salyer Wetland Management District.
+(12) Chase Lake National Wildlife Refuge.
 
-(13) Kulm Wetland Management District.
+(13) Chase Lake Wetland Management District.
 
-(14) Lake Alice National Wildlife Refuge.
+(14) Cottonwood Lake National Wildlife Refuge.
 
-(15) Lake Ilo National Wildlife Refuge.
+(15) Crosby Wetland Management District.
 
-(16) Lake Nettie National Wildlife Refuge.
+(16) Dakota Lake National Wildlife Refuge.
 
-(17) Lake Zahl National Wildlife Refuge.
+(17) Des Lacs National Wildlife Refuge.
 
-(18) Long Lake National Wildlife Refuge.
+(18) Devils Lake Wetland Management District.
 
-(19) Long Lake Wetland Management District.
+(19) Half Way Lake National Wildlife Refuge.
 
-(20) Lostwood National Wildlife Refuge.
+(20) Hiddenwood Lake National Wildlife Refuge.
 
-(21) Lostwood Wetland Management District.
+(21) Hobart Lake National Wildlife Refuge.
 
-(22) Rose Lake National Wildlife Refuge.
+(22) Hutchinson Lake National Wildlife Refuge.
 
-(23) Sibley Lake National Wildlife Refuge.
+(23) J. Clark Salyer National Wildlife Refuge.
 
-(24) Silver Lake National Wildlife Refuge.
+(24) J. Clark Salyer Wetland Management District.
 
-(25) Slade National Wildlife Refuge.
+(25) Johnson Lake National Wildlife Refuge.
 
-(26) Stewart Lake National Wildlife Refuge.
+(26) Kulm Wetland Management District.
 
-(27) Tewaukon National Wildlife Refuge.
+(27) Lake Alice National Wildlife Refuge.
 
-(28) Tewaukon Wetland Management District.
+(28) Lake George National Wildlife Refuge.
 
-(29) Upper Souris National Wildlife Refuge.
+(29) Lake Ilo National Wildlife Refuge.
+
+(30) Lake National Wildlife Refuge.
+
+(31) Lake Nettie National Wildlife Refuge.
+
+(32) Lake Otis National Wildlife Refuge.
+
+(33) Lake Patricia National Wildlife Refuge.
+
+(34) Lake Zahl National Wildlife Refuge.
+
+(35) Lambs Lake National Wildlife Refuge.
+
+(36) Little Goose Lake National Wildlife Refuge.
+
+(37) Long Lake National Wildlife Refuge.
+
+(38) Long Lake Wetland Management District.
+
+(39) Lords Lake National Wildlife Refuge.
+
+(40) Lost Lake National Wildlife Refuge.
+
+(41) Lostwood National Wildlife Refuge.
+
+(42) Lostwood Wetland Management District.
+
+(43) Maple River National Wildlife Refuge.
+
+(44) Pleasant Lake National Wildlife Refuge.
+
+(45) Pretty Rock National Wildlife Refuge.
+
+(46) Rabb Lake National Wildlife Refuge.
+
+(47) Rock Lake National Wildlife Refuge.
+
+(48) Rose Lake National Wildlife Refuge.
+
+(49) School Section National Wildlife Refuge.
+
+(50) Sheyenne Lake National Wildlife Refuge.
+
+(51) Sibley Lake National Wildlife Refuge.
+
+(52) Silver Lake National Wildlife Refuge.
+
+(53) Slade National Wildlife Refuge.
+
+(54) Snyder Lake National Wildlife Refuge.
+
+(55) Springwater National Wildlife Refuge.
+
+(56) Stewart Lake National Wildlife Refuge.
+
+(57) Stoney Slough National Wildlife Refuge.
+
+(58) Storm Lake National Wildlife Refuge.
+
+(59) Sunburst Lake National Wildlife Refuge.
+
+(60) Tewaukon National Wildlife Refuge.
+
+(61) Tewaukon Wetland Management District.
+
+(62) Tomahawk National Wildlife Refuge.
+
+(63) Upper Souris National Wildlife Refuge.
+
+(64) Wild Rice National Wildlife Refuge.
+
+(65) Willow Lake National Wildlife Refuge.
+
+(66) Wintering River National Wildlife Refuge.
+
+(67) Wood Lake National Wildlife Refuge.
 
 (ii) *Ohio.* (1) Cedar Point National Wildlife Refuge.
 
@@ -706,7 +792,9 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (19) Upper Klamath National Wildlife Refuge.
 
-(20) William L. Finley National Wildlife Refuge.
+(20) Wapato Lake National Wildlife Refuge.
+
+(21) William L. Finley National Wildlife Refuge.
 
 (ll) *Pennsylvania.* (1) Cherry Valley National Wildlife Refuge.
 
@@ -718,11 +806,13 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (mm) *Rhode Island.* (1) Block Island National Wildlife Refuge.
 
-(2) Ninigret National Wildlife Refuge.
+(2) John H. Chafee National Wildlife Refuge.
 
-(3) Sachuest Point National Wildlife Refuge.
+(3) Ninigret National Wildlife Refuge.
 
-(4) Trustom Pond National Wildlife Refuge.
+(4) Sachuest Point National Wildlife Refuge.
+
+(5) Trustom Pond National Wildlife Refuge.
 
 (nn) *South Carolina.* (1) Cape Romain National Wildlife Refuge.
 
@@ -884,18 +974,20 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (10) Whittlesey Creek National Wildlife Refuge.
 
-(xx) *Wyoming.* (1) Cokeville Meadows National Wildlife Refuge.
+(xx) *Wyoming.*(1) Bamforth National Wildlife Refuge.
 
-(2) Hutton Lake National Wildlife Refuge.
+(2) Cokeville Meadows National Wildlife Refuge.
 
-(3) National Elk Refuge.
+(3) Hutton Lake National Wildlife Refuge.
 
-(4) Pathfinder National Wildlife Refuge.
+(4) National Elk Refuge.
 
-(5) Seedskadee National Wildlife Refuge.
+(5) Pathfinder National Wildlife Refuge.
+
+(6) Seedskadee National Wildlife Refuge.
 
 (yy) *Guam.* (1) Guam National Wildlife Refuge.
 
 (2) [Reserved]
 
-[84 FR 47671, Sept. 10, 2019]
+[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020]

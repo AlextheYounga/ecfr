@@ -142,7 +142,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We close the waterfowl hunting area to waterfowl hunting on Mondays and Thursdays.
 
-(v) Each hunter must complete the Migratory Bird Hunt Report (FWS Form 3-2361), must set the appropriate blind selector (metal flip tag) before and after hunting, and must record hunting data (hours hunted and birds harvested) on FWS Form 3-2361 before departing the hunting area.
+(v) Each hunter must set the appropriate blind selector (metal flip tag) before and after hunting.
 
 (vi) We prohibit attempting to “reserve” a blind for use later in the day by depositing a vehicle or other equipment on the refuge. A hunter must be physically present in the hunting area in order to use a blind. The exceptions are blinds 2 and 7, which may be reserved for hunters with disabilities.
 
@@ -156,7 +156,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xi) We allow the use of a portable ground blind within the immediate mowed area around field blind #13.
 
-(2) [Reserved]
+(2) *Upland game hunting.* We allow hunting of turkey on designated areas of the refuge.
 
 (3) *Big game hunting.* We allow archery hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
@@ -166,15 +166,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow archery hunting in the waterfowl hunting area in September, except during the youth waterfowl hunt weekend. We will allow archery hunting on Mondays and Thursdays in the waterfowl hunting area during waterfowl hunting season.
 
-(iv) Each hunter must complete the Big Game Harvest Report (FWS Form 3-2359) before departing the hunting area.
+(iv) We allow the use of portable tree stands or ground blinds. You must attach a tag displaying the owner's automated licensing system (ALS) number to each tree stand and/or ground blind you place on the refuge.
 
-(v) We allow the use of portable tree stands or ground blinds. You must attach a tag displaying the owner's automated licensing system (ALS) number to each tree stand and/or ground blind you place on the refuge.
+(v) Hunters may not enter or retrieve deer from closed areas of the refuge without the consent of an authorized official.
 
-(vi) Hunters may not enter or retrieve deer from closed areas of the refuge without the consent of an authorized official.
+(vi) Hunters with a documented mobility disability may access designated locations in the hunting area to hunt from ground blinds. To access these areas, hunters must contact the refuge manager in advance to obtain a Special Use Permit (FWS Form 3-1383-G).
 
-(vii) Hunters with a documented mobility disability may access designated locations in the hunting area to hunt from ground blinds. To access these areas, hunters must contact the refuge manager in advance to obtain a Special Use Permit (FWS Form 3-1383-G).
-
-(viii) We prohibit organized drives. We define a “drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause game to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the game.
+(vii) We prohibit organized drives. We define a “drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause game to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the game.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
@@ -286,13 +284,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) [Reserved]
 
-(3) *Big game hunting.* We allow archery hunting of elk, white-tailed deer, and mule deer on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow archery hunting of bear, elk, white-tailed deer, and mule deer on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of portable blinds and stands.
 
 (ii) We limit each hunter to one stand or blind. The hunter must have their automated licensing system (ALS) number visibly marked on the stand or blind.
 
-(iii) You may install portable stands and blinds no sooner than the first day of the hunting season, and you must remove them by the last day of the hunting season (see § 27.93 of this chapter).
+(iii) You may install portable stands and blinds no sooner than August 1, and you must remove them by December 15 of each year (see § 27.93 of this chapter).
+
+(iv) We prohibit hunting of black bear during the State spring season.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
@@ -317,3 +317,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020]

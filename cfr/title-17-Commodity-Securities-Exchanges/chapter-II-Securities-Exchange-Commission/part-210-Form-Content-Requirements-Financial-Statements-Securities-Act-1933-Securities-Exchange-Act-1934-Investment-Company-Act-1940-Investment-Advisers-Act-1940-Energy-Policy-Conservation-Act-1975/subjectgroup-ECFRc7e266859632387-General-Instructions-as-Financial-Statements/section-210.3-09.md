@@ -1,5 +1,7 @@
 ##### § 210.3-09 Separate financial statements of subsidiaries not consolidated and 50 percent or less owned persons. #####
 
+Link to an amendment published at 85 FR 54062, Aug. 31, 2020.
+
 (a) If any of the conditions set forth in § 210.1-02(w), substituting 20 percent for 10 percent in the tests used therein to determine a significant subsidiary, are met for a majority-owned subsidiary not consolidated by the registrant or by a subsidiary of the registrant, separate financial statements of such subsidiary shall be filed. Similarly, if either the first or third condition set forth in § 210.1-02(w), substituting 20 percent for 10 percent, is met by a 50 percent or less owned person accounted for by the equity method either by the registrant or a subsidiary of the registrant, separate financial statements of such 50 percent or less owned person shall be filed.
 
 (b) Insofar as practicable, the separate financial statements required by this section shall be as of the same dates and for the same periods as the audited consolidated financial statements required by §§ 210.3-01 and 3-02. However, these separate financial statements are required to be audited only for those fiscal years in which either the first or third condition set forth in § 210.1-02(w), substituting 20 percent for 10 percent, is met. For purposes of a filing on Form 10-K (§ 249.310 of this chapter):

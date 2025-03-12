@@ -44,20 +44,6 @@
 
 *Major defense acquisition program* is defined in 10.U.S.C. 2430(a).
 
-*Micro-purchase threshold,* for DoD acquisition of supplies or services funded by DoD appropriations, in lieu of the definition at FAR 2.101, means $5,000 (10 U.S.C. 2338), except -
-
-(1) For DoD acquisition of supplies or services for basic research programs and for activities of the DoD science and technology reinvention laboratories (*https://www.acq.osd.mil/rd/laboratories/labs/list\_strl.html*), it means $10,000 (10 U.S.C. 2339);
-
-(2) For acquisitions of construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction), $2,000;
-
-(3) For acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards, $2,500; and
-
-(4) For acquisitions of supplies or services that, as determined by the head of the contracting activity, are to be used to support a contingency operation; or to facilitate defense against or recovery from cyber, nuclear, biological, chemical or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.;* or to support response to an emergency, or major disaster (42 U.S.C. 5122), as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903) -
-
-(i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
-
-(ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
-
 *Milestone decision authority,* with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 2431a).
 
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.

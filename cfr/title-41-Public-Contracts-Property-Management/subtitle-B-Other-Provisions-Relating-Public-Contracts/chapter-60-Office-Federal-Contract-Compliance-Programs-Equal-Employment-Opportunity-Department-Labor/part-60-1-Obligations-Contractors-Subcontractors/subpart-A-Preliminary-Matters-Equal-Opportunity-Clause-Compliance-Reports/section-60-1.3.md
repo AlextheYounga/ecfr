@@ -1,7 +1,5 @@
 ##### § 60-1.3 Definitions. #####
 
-Link to an amendment published at 85 FR 39846, July 2, 2020.
-
 *Administering agency* means any department, agency and establishment in the executive branch of the Government, including any wholly owned Government corporation, which administers a program involving federally assisted construction contracts.
 
 *Administrative law judge* means an administrative law judge appointed as provided in 5 U.S.C. 3105 and subpart B of part 930 of Title 5 of the Code of Federal Regulations (see 37 FR 16787) and qualified to preside at hearings under 5 U.S.C. 557.
@@ -102,11 +100,19 @@ Link to an amendment published at 85 FR 39846, July 2, 2020.
 
 *Site of construction* means the general physical location of any building, highway, or other change or improvement to real property which is undergoing construction, rehabilitation, alteration, conversion, extension, demolition, or repair and any temporary location or facility at which a contractor, subcontractor, or other participating party meets a demand or performs a function relating to the contract or subcontract.
 
-*Subcontract* means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
+*Subcontract.* (1) Subcontract means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
 
-(1) For the purchase, sale or use of personal property or nonpersonal services which, in whole or in part, is necessary to the performance of any one or more contracts; or
+(i) For the purchase, sale or use of personal property or nonpersonal services which, in whole or in part, is necessary to the performance of any one or more contracts; or
 
-(2) Under which any portion of the contractor's obligation under any one or more contracts is performed, undertaken or assumed.
+(ii) Under which any portion of the contractor's obligation under any one or more contracts is performed, undertaken, or assumed; and
+
+(2) Does not include an agreement between a health care provider and a health organization under which the health care provider agrees to provide health care services or supplies to natural persons who are beneficiaries under TRICARE.
+
+(i) An agreement means a relationship between a health care provider and a health organization under which the health care provider agrees to provide health care services or supplies to natural persons who are beneficiaries under TRICARE.
+
+(ii) A health care provider is a physician, hospital, or other individual or entity that furnishes health care services or supplies.
+
+(iii) A health organization is a voluntary association, corporation, partnership, managed care support contractor, or other nongovernmental organization that is lawfully engaged in providing, paying for, insuring, or reimbursing the cost of health care services or supplies under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, network agreements, health benefits plans duly sponsored or underwritten by an employee organization or association of organizations and health maintenance organizations, or other similar arrangements, in consideration of premiums or other periodic charges or payments payable to the health organization.
 
 *Subcontractor* means any person holding a subcontract and, for the purposes of subpart B of this part, any person who has held a subcontract subject to the order. The term “first-tier subcontractor” refers to a subcontractor holding a subcontract with a prime contractor.
 
@@ -114,4 +120,4 @@ Link to an amendment published at 85 FR 39846, July 2, 2020.
 
 *United States,* as used herein, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
 
-[43 FR 49240, Oct. 20, 1978, as amended at 61 FR 19988, May 3, 1996; 62 FR 44188, Aug. 19, 1997; 62 FR 66971, Dec. 22, 1997; 70 FR 58961, Oct. 7, 2005; 80 FR 54974, Sept. 11, 2015]
+[43 FR 49240, Oct. 20, 1978, as amended at 61 FR 19988, May 3, 1996; 62 FR 44188, Aug. 19, 1997; 62 FR 66971, Dec. 22, 1997; 70 FR 58961, Oct. 7, 2005; 80 FR 54974, Sept. 11, 2015; 85 FR 39846, July 2, 2020]

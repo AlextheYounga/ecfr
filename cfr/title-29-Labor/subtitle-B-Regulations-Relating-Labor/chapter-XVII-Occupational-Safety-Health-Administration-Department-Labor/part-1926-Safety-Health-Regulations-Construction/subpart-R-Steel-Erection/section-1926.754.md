@@ -16,7 +16,7 @@ Federal Highway Administration (FHWA) regulations incorporate by reference a num
 
 (c) *Walking/working surfaces - shear connectors and other similar devices* - (1) *Tripping hazards.* Shear connectors (such as headed steel studs, steel bars or steel lugs), reinforcing bars, deformed anchors or threaded studs shall not be attached to the top flanges of beams, joists or beam attachments so that they project vertically from or horizontally across the top flange of the member until after the metal decking, or other walking/working surface, has been installed.
 
-(2*) Installation of shear connectors on composite floors, roofs and bridge decks.* When shear connectors are used in construction of composite floors, roofs and bridge decks, employees shall lay out and install the shear connectors after the metal decking has been installed, using the metal decking as a working platform. Shear connectors shall not be installed from within a controlled decking zone (CDZ), as specified in § 1926.760(c)(7).
+(2) *Installation of shear connectors on composite floors, roofs and bridge decks.* When shear connectors are used in construction of composite floors, roofs and bridge decks, employees shall lay out and install the shear connectors after the metal decking has been installed, using the metal decking as a working platform. Shear connectors shall not be installed from within a controlled decking zone (CDZ), as specified in § 1926.760(c)(7).
 
 (d) *Plumbing-up.* (1) When deemed necessary by a competent person, plumbing-up equipment shall be installed in conjunction with the steel erection process to ensure the stability of the structure.
 

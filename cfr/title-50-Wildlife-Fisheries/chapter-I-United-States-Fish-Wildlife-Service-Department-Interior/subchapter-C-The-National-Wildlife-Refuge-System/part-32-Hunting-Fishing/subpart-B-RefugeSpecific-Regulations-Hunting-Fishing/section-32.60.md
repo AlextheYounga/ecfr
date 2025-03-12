@@ -10,19 +10,37 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(b) *LaCreek National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of goose, duck, coot, common snipe, sandhill crane, American crow, and mourning dove on designated areas of the refuge.
+(b) *LaCreek National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of goose, duck, coot, common snipe, sandhill crane, crow, and mourning dove on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow the hunting of ring-necked pheasant and sharp-tailed grouse on designated areas of the refuge subject to the following condition: Hunters may remain on the refuge no longer than1/2 hour after legal sunset.
+(i) Hunters may enter the refuge 2 hours before legal sunrise and remain no longer than 2 hours after legal sunset. We allow access from refuge parking areas, adjacent public lands, and adjacent private lands enrolled in public access programs.
+
+(ii) We allow the use of motorized boats for hunting and game retrieval on the Little White River Recreation Area. We allow the use of manual powered boats for hunting and game retrieval on all waters within open hunt areas and the use of boats with electric motors on Pool #10.
+
+(iii) We allow the use of dogs.
+
+(iv) We prohibit shooting from or over refuge roads and parking areas.
+
+(v) We prohibit hunting light geese during the spring conservation order.
+
+(vi) For crow hunting, we prohibit hunting with rifles and hunting during the spring season.
+
+(2) *Upland game hunting.* We allow the hunting of bobcat, coyote, fox, cottontail rabbit, mountain lion, prairie chicken, ring-necked pheasant, and sharp-tailed grouse on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(1)(i), (ii), and (iv) of this section apply.
+
+(ii) We allow access for bobcat, coyote, fox, and mountain lion hunting January 1 through February 15, and hunting hours are from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+
+(iii) We prohibit the use of dogs when hunting bobcat, coyote, fox, and mountain lion. We allow the use of dogs while hunting other upland game.
+
+(iv) Coyotes and all furbearers or their parts, if left in the field, must be left at least 50 yards away from any road, trail, or building. Otherwise, hunters must remove them from the refuge.
 
 (3) *Big game hunting.* We allow hunting of white-tailed and mule deer on designated areas of the refuge subject to the following conditions:
 
-(i) All archery deer hunters must possess and carry a refuge permit (signature required).
+(i) The conditions set forth at paragraphs (b)(1)(i) through (iv) of this section apply.
 
-(ii) Deer hunters may enter the refuge 11/2 hours before legal sunrise and remain no longer than 11/2 hours after legal sunset.
+(ii) Hunters may leave portable tree stands and free-standing elevated platforms on the refuge from August 25 through February 15. Hunters must remove all other personal property by the end of each day's hunt (see § 27.93 of this chapter).
 
-(iii) Hunters may leave portable tree stands and free-standing elevated platforms on the refuge from the first Saturday after August 25 through February 15. Hunters must remove all other personal property by the end of the day's hunt (see § 27.93 of this chapter).
-
-(iv) We close the refuge to archery hunting during refuge firearm seasons.
+(iii) We close the refuge to archery hunting during refuge firearm seasons.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -125,3 +143,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (ii) You must remove portable ground blinds and other personal property by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's fishing activity (see §§ 27.93 and 27.94 of this chapter).
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020]

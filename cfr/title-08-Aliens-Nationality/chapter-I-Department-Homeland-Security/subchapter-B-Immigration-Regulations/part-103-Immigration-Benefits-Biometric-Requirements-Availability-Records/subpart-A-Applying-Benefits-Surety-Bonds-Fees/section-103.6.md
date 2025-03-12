@@ -1,6 +1,4 @@
-##### § 103.6 Surety bonds. #####
-
-Link to an amendment published at 85 FR 45989, July 31, 2020.
+##### § 103.6 Immigration bonds. #####
 
 (a) *Posting of surety bonds* - (1) *Extension agreements; consent of surety; collateral security.* All surety bonds posted in immigration cases must be executed on the forms designated by DHS, a copy of which, and any rider attached thereto, must be furnished to the obligor. DHS is authorized to approve a bond, a formal agreement for the extension of liability of surety, a request for delivery of collateral security to a duly appointed and undischarged administrator or executor of the estate of a deceased depositor, and a power of attorney executed on the form designated by DHS, if any. All other matters relating to bonds, including a power of attorney not executed on the form designated by DHS and a request for delivery of collateral security to other than the depositor or his or her approved attorney in fact, will be forwarded to the appropriate office for approval.
 
@@ -8,7 +6,31 @@ Link to an amendment published at 85 FR 45989, July 31, 2020.
 
 (ii) [Reserved]
 
-(b) *Acceptable sureties.* Either a company holding a certificate from the Secretary of the Treasury under 6 U.S.C. 6-13 as an acceptable surety on Federal bonds, or a surety who deposits cash or U.S. bonds or notes of the class described in 6 U.S.C. 15 and Treasury Department regulations issued pursuant thereto and which are not redeemable within 1 year from the date they are offered for deposit is an acceptable surety.
+(b) *Acceptable sureties* - (1) *Acceptable sureties generally.* Immigration bonds may be posted by a company holding a certificate from the Secretary of the Treasury under 31 U.S.C. 9304-9308 as an acceptable surety on Federal bonds (a Treasury-certified surety). They may also be posted by an entity or individual who deposits cash or cash equivalents, such as postal money orders, certified checks, or cashier's checks, in the face amount of the bond.
+
+(2) *Authority to decline bonds underwritten by Treasury-certified surety.* In its discretion, ICE may decline to accept an immigration bond underwritten by a Treasury-certified surety when -
+
+(i) Ten or more invoices issued to the surety on administratively final breach determinations are past due at the same time;
+
+(ii) The surety owes a cumulative total of $50,000 or more on past-due invoices issued to the surety on administratively final breach determinations, including interest and other fees assessed by law on delinquent debt; or
+
+(iii) The surety has a breach rate of 35 percent or greater in any Federal fiscal year after August 31, 2020.The surety's breach rate will be calculated in the month of January following each Federal fiscal year after the effective date of this rule by dividing the sum of administratively final breach determinations for that surety during the fiscal year by the total of such sum and bond cancellations for that surety during that same year. For example, if 50 bonds posted by a surety company were declared breached from October 1 to September 30, and 50 bonds posted by that same surety were cancelled during the same fiscal year (for a total of 100 bond dispositions), that surety would have a breach rate of 50 percent for that fiscal year.
+
+(iv) Consistent with 31 CFR 223.17(b)(5)(i), ICE may not decline a future bond from a Treasury-certified surety when a court of competent jurisdiction has stayed or enjoined enforcement of a breach determination that would support ICE's decision to decline future bonds. For example, if collection of a past-due invoice has been stayed by a court, it cannot be counted as one of the ten or more invoices under paragraph (b)(1)(i) of this section.
+
+(3) *Definitions.* For purposes of paragraphs (b)(2)(i) and (ii) of this section -
+
+(i) A breach determination is administratively final when the time to file an appeal with the Administrative Appeals Office (AAO) has expired or when the appeal is dismissed or rejected.
+
+(ii) An invoice is past due if it is delinquent, meaning either that it has not been paid or disputed in writing within 30 days of issuance of the invoice; or, if it is a debt upon which the surety has submitted a written dispute within 30 days of issuance of the invoice, ICE has issued a written explanation to the surety of the agency's determination that the debt is valid, and the debt has not been paid within 30 days of issuance of such written explanation that the debt is valid.
+
+(4) *Notice of intention to decline future bonds.* When one or more of the for cause standards provided in paragraph (b)(2) of this section applies to a Treasury-certified surety, ICE may, in its discretion, initiate the process to notify the surety that it will decline future bonds. To initiate this process, ICE will issue written notice to the surety stating ICE's intention to decline bonds underwritten by the surety and the reasons for the proposed non-acceptance of the bonds. This notification will inform the surety of its opportunity to rebut the stated reasons set forth in the notice, and its opportunity to cure the stated reasons, *i.e.,* deficient performance.
+
+(5) *Surety's response.* The Treasury-certified surety must send any response to ICE's notice in writing to the office that sent the notice. The surety's response must be received by the designated office on or before the 30th calendar day following the date the notice was issued. If the surety or agent fails to submit a timely response, the surety will have waived the right to respond, and ICE will decline any future bonds submitted for approval that are underwritten by the surety.
+
+(6) *Written determination.* After considering any timely response submitted by the Treasury-certified surety to the written notice issued by ICE, ICE will issue a written determination stating whether future bonds issued by the surety will be accepted or declined. This written determination constitutes final agency action. If the written determination concludes that future bonds will be declined from the surety, ICE will decline any future bonds submitted for approval that are underwritten by the surety.
+
+(7) *Effect of decision to decline future bonds.* Consistent with 31 CFR 223.17(b)(4), ICE will use best efforts to ensure persons conducting business with the agency are aware that future bonds underwritten by the surety will be declined by ICE. For example, ICE will notify any bonding agents who have served as co-obligors with the surety that ICE will decline future bonds underwritten by the surety.
 
 (c) *Cancellation* - (1) *Public charge bonds.* Special rules for the cancellation of public charge bonds are described in 8 CFR 213.1.
 
@@ -28,4 +50,12 @@ Less than 500 workers - $15 *each*500 to 1,000 workers - $10 *each*1,000 or more
 
 (e) *Breach of bond.* Breach of public charge bonds is governed by 8 CFR 213.1. For other immigration bonds, a bond is breached when there has been a substantial violation of the stipulated conditions. A final determination that a bond has been breached creates a claim in favor of the United States which may not be released by the officer. DHS will determine whether a bond has been breached. If DHS determines that a bond has been breached, it will notify the obligor of the decision, the reasons therefor, and inform the obligor of the right to appeal the decision in accordance with the provisions of this part.
 
-[31 FR 11713, Sept. 7, 1966, as amended at 32 FR 9622, July 4, 1967; 33 FR 5255, Apr. 2, 1968; 33 FR 10504, July 24, 1968; 34 FR 1008, Jan. 23, 1969; 34 FR 14760, Sept. 25, 1969; 39 FR 12334, Apr. 5, 1974; 40 FR 42852, Sept. 17, 1975; 48 FR 51144, Nov. 7, 1983; 49 FR 24011, June 11, 1984; 60 FR 21974, May 4, 1995; 62 FR 10336, Mar. 6, 1997; 76 FR 53781, Aug. 29, 2011; 84 FR 41500, Aug. 14, 2019]
+(f) *Appeals of Breached Bonds Issued by Treasury-Certified Sureties* - (1) *Final agency action.* Consistent with section 10(c) of the Administrative Procedure Act, 5 U.S.C. 704, the AAO's decision on appeal of a breach determination constitutes final agency action. The initial breach determination remains inoperative during the administrative appeal period and while a timely administrative appeal is pending. Dismissal of an appeal is effective upon the date of the AAO decision. Only the granting of a motion to reopen or reconsider by the AAO makes the dismissal decision no longer final.
+
+(2) *Exhaustion of administrative remedies.* The failure by a Treasury-certified surety or its bonding agent to exhaust administrative appellate review before the AAO, or the lapse of time to file an appeal to the AAO without filing an appeal to the AAO, constitutes waiver and forfeiture of all claims, defenses, and arguments involving the bond breach determination. A Treasury-certified surety's or its agent's failure to move to reconsider or to reopen a breach decision does not constitute failure to exhaust administrative remedies.
+
+(3) *Requirement to raise all issues.* A Treasury-certified surety or its bonding agent must raise all issues and present all facts relied upon in the appeal to the AAO. A Treasury-certified surety's or its agent's failure to timely raise any claim, defense, or argument before the AAO in support of reversal or remand of a breach decision waives and forfeits that claim, defense, or argument.
+
+(4) *Failure to file a timely administrative appeal.* If a Treasury-certified surety or its bonding agent does not timely file an appeal with the AAO upon receipt of a breach notice, a claim in favor of ICE is created on the bond breach determination, and ICE may seek to collect the amount due on the breached bond.
+
+[31 FR 11713, Sept. 7, 1966, as amended at 32 FR 9622, July 4, 1967; 33 FR 5255, Apr. 2, 1968; 33 FR 10504, July 24, 1968; 34 FR 1008, Jan. 23, 1969; 34 FR 14760, Sept. 25, 1969; 39 FR 12334, Apr. 5, 1974; 40 FR 42852, Sept. 17, 1975; 48 FR 51144, Nov. 7, 1983; 49 FR 24011, June 11, 1984; 60 FR 21974, May 4, 1995; 62 FR 10336, Mar. 6, 1997; 76 FR 53781, Aug. 29, 2011; 84 FR 41500, Aug. 14, 2019; 85 FR 45989, July 31, 2020]

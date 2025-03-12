@@ -44,13 +44,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) In the Lake Lowell Unit, you may only shoot deer while hunting from an elevated tree stand/platform. We prohibit ground stalking and/or still hunting from the ground. We prohibit shooting a firearm or bow while on the ground, except to kill a downed deer.
 
-(iv) While hunting from a tree stand, you must use a fall-arrest system/full body harness meeting Treestand Manufacturer's Association standards.
-
-(v) Hunters may enter the Lake Lowell Unit no earlier than 2 hours before official shooting hours (1/2 hour before legal sunrise) and must leave the area within 2 hours after official shooting hours (1/2 hour after legal sunset). Successful hunters may extend their departure time only as long as is necessary to retrieve dead deer.
+(iv) Hunters may enter the Lake Lowell Unit no earlier than 2 hours before official shooting hours (1/2 hour before legal sunrise) and must leave the area within 2 hours after official shooting hours (1/2 hour after legal sunset). Successful hunters may extend their departure time only as long as is necessary to retrieve dead deer.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) From October 1 through April 14, we only allow ice fishing within 200 yards (180 meters) of the shoreline in front of both the Lower Dam (Fishing Area A) and the Upper Dam (Fishing Area B) on the Lake Lowell Unit, unless otherwise posted by the Bureau of Reclamation.
+(i) From October 1 through April 14, we allow ice fishing on the Lake Lowell Unit, unless otherwise posted by the Bureau of Reclamation.
 
 (ii) We allow fishing from nonmotorized boats in designated areas of the Lake Lowell Unit from October 1 through April 14, from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
@@ -64,7 +62,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(e) *Kootenai National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(e) *Kootenai National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting only on Tuesdays, Thursdays, Saturdays, and Sundays.
 
@@ -92,7 +91,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We allow bank fishing only.
 
-(f) *Minidoka National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(f) *Minidoka National Wildlife Refuge* - (1)
+(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, snipe, dove, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only hunters and dogs to retrieve game in designated hunting areas.
 
@@ -102,8 +102,10 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) On East Hunting Area (Tule Island), we allow boats during the waterfowl hunting season.
 
-(2) *Upland game hunting.* We allow hunting of pheasant, grouse, partridge, and cottontail rabbit on designated areas of the refuge.
+(2) *Upland game hunting.* We allow hunting of pheasant, grouse, partridge (chukar and gray partridge), cottontail rabbit, and bobcat on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (f)(1)(i) of this section applies.
 
-(3) *Big game hunting.* We allow hunting of elk (archery only) on designated areas of the refuge subject to the following condition: Elk hunters may enter the hunt area from 1 and1/2 hours before legal hunting time to 1 and1/2 hours after legal hunting time.
+(3) *Big game hunting.* We allow hunting of deer and elk on designated areas of the refuge subject to the following condition: Deer and elk hunters may enter the hunt area from 11/2 hours before legal hunting time to 11/2 hours after legal hunting time.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020]

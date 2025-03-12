@@ -34,7 +34,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (b) *Big Stone National Wildlife Refuge* - (1) *Migratory game bird hunting.* We prohibit the hunting of migratory game birds. We allow the unarmed retrieval of waterfowl, legally taken outside the refuge, up to 100 yards (90 meters) inside the refuge boundary.
 
-(2) *Upland game hunting.* We allow hunting of ring-necked pheasant, bobwhite quail, pigeon, mourning dove, crow, cottontail rabbit, gray and fox squirrel, and wild turkey on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of ring-necked pheasant, Hungarian partridge, cottontail and jack rabbit, raccoon, striped skunk, gray and fox squirrel, red and gray fox, and wild turkey on designated areas of the refuge subject to the following conditions:
 
 (i) For wild turkey hunting, you may use or possess only approved nontoxic shot shells (see § 32.2(k)) while in the field.
 
@@ -312,7 +312,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow hunting on the unit located within the Hiawatha Game Refuge in Pipestone County, as governed by applicable State regulations.
 
-(v) We allow migratory game bird hunting on the Spieker tract in Clay County, as governed by applicable State regulations.
+(v) We allow hunting on the Spieker tract in Clay County, as governed by applicable State regulations.
 
 (2) *Upland game hunting.* We allow hunting of wild turkey, ring-necked pheasant, Hungarian partridge, prairie chicken, spruce grouse, ruffed grouse, sharp-tailed grouse, rabbit (cottontail and jack), snowshoe hare, squirrel (fox and gray), raccoon, opossum, fox (red and gray), badger, coyote, bobcat, striped skunk, and crow on designated areas subject to the following conditions:
 
@@ -360,17 +360,37 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit the taking of any turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-(o) *Rydell National Wildlife Refuge.* (1)-(2) [Reserved]
+(o) *Rydell National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, woodcock, and mourning dove on designated areas of the refuge subject to the following conditions:
+
+(i) We only allow hunting of goose, duck, and coot during the special State-administered youth waterfowl season.
+
+(ii) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
+
+(iii) Hunters must dismantle hunting blinds, platforms, and ladders made from natural vegetation at the end of each day.
+
+(iv) We allow nonmotorized boats in areas open to migratory bird hunting during the special State-administered youth waterfowl season.
+
+(v) We prohibit hunting during the Spring Light Goose Conservation Order.
+
+(vi) We allow the use of wheeled, nonmotorized conveyance devices (*e.g.,* bikes, game carts).
+
+(vii) We prohibit entry onto the refuge earlier than 2 hours before legal shooting time, and we require hunters to leave the refuge no later than 2 hours after legal shooting time.
+
+(2) *Upland game hunting.* We allow hunting of ring-necked pheasant, gray (Hungarian) partridge, ruffed grouse, prairie grouse, rabbit (cottontail and jack), snowshoe hare, squirrel (fox and gray), and wild turkey on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (o)(1)(ii), (iii), (vi), and (vii) of this section apply.
+
+(ii) You may use or possess only approved nontoxic shot shells (see § 32.2(k)) in the field while hunting turkey.
+
+(iii) We prohibit the use of centerfire, rimfire, or muzzleloading rifles, and handguns.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters must dismantle hunting blinds, platforms, and ladders made from natural vegetation at the end of each day.
+(i) We prohibit shooting at a big game animal or a decoy of a big game animal on, from, over, across, or within 30 feet (9 meters) of a roadway open to public vehicle transportation.
 
-(ii) You must remove all blind materials, stands, platforms, and other personal property brought onto the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+(ii) We require a State-issued permit to hunt white-tailed deer in the Special Permit Area of the refuge.
 
-(iii) We prohibit shooting on, from, over, across, or within 30 feet (9 meters) of a roadway open to public vehicle transportation at a big game animal or a decoy of a big game animal.
-
-(iv) We require a State-issued permit to hunt white-tailed deer in the Special Permit Area of the refuge.
+(iii) Archery is the only legal weapon for hunting deer, with the exception of during the special State-administered mentored youth hunt and disabled hunt.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -611,3 +631,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (ii) The condition set forth at paragraph (s)(1)(i) of this section applies.
 
 (4) *Sport fishing.* We allow fishing throughout the district subject to the following condition: The condition set forth at paragraph (s)(1)(i) of this section applies.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54119, Aug. 31, 2020]

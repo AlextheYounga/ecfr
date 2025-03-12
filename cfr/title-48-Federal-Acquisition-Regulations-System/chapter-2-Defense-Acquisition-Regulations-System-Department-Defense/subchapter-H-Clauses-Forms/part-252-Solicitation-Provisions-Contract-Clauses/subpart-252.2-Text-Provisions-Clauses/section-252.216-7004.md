@@ -4,11 +4,11 @@ As prescribed in 216.406(e) use the following clause:
 
 Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Government Personnel (SEP 2011)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Covered incident* -
+*Covered incident*—
 
-(i) Means any incident in which the Contractor, through a criminal, civil, or administrative proceeding that results in a disposition listed in paragraph (a)(ii) of this definition -
+(i) Means any incident in which the Contractor, through a criminal, civil, or administrative proceeding that results in a disposition listed in paragraph (a)(ii) of this definition—
 
 (A) Has been determined in the performance of this contract to have caused serious bodily injury or death of any civilian or military personnel of the Government through gross negligence or with reckless disregard for the safety of such personnel; or
 
@@ -20,7 +20,7 @@ Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Governmen
 
 (B) In a civil proceeding, a finding of fault or liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or damage of $5,000 or more.
 
-(C) In an administrative proceeding, a finding of fault and liability that results in -
+(C) In an administrative proceeding, a finding of fault and liability that results in—
 
 (*1*) The payment of a monetary fine or penalty of $5,000 or more; or
 
@@ -36,4 +36,4 @@ Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Governmen
 
 (b) If, in the performance of this contract, the Contractor's or its subcontractor's actions cause serious bodily injury or death of civilian or military Government personnel, the Government may reduce or deny the award fee for the period in which the covered incident occurred, including the recovery of all or part of any award fees paid for any previous period during which the covered incident occurred.
 
-(End of clause)[ 76 FR 57677, Sept. 16, 2011, as amended at 83 FR 49181, Sept. 28, 2018]
+(End of clause)[76 FR 57677, Sept. 16, 2011, as amended at 83 FR 49181, Sept. 28, 2018]

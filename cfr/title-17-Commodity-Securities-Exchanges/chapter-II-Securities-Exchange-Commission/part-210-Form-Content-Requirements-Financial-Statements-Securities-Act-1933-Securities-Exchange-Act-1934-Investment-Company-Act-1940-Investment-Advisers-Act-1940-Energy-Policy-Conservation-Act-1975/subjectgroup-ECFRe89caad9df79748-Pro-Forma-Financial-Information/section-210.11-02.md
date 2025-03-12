@@ -1,5 +1,7 @@
 ##### § 210.11-02 Preparation requirements. #####
 
+Link to an amendment published at 85 FR 54066, Aug. 31, 2020.
+
 (a) *Objective.* Pro forma financial information should provide investors with information about the continuing impact of a particular transaction by showing how it might have affected historical financial statements if the transaction had been consummated at an earlier time. Such statements should assist investors in analyzing the future prospects of the registrant because they illustrate the possible scope of the change in the registrant's historical financial position and results of operations caused by the transaction.
 
 (b) *Form and content.* (1) Pro forma financial information shall consist of a pro forma condensed balance sheet, pro forma condensed statements of comprehensive income, and accompanying explanatory notes. In certain circumstances (*i.e.,* where a limited number of pro forma adjustments are required and those adjustments are easily understood), a narrative description of the pro forma effects of the transaction may be furnished in lieu of the statements described herein.

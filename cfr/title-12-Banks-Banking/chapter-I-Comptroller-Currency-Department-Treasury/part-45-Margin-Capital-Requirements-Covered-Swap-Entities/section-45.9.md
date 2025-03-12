@@ -1,7 +1,5 @@
 ##### § 45.9 Cross-border application of margin requirements. #####
 
-Link to an amendment published at 85 FR 39772, July 1, 2020.
-
 (a) *Transactions to which this rule does not apply.* The requirements of §§ 45.3 through 45.8 and §§ 45.10 through 45.12 shall not apply to any foreign non-cleared swap or foreign non-cleared security-based swap of a foreign covered swap entity.
 
 (b) For purposes of this section, a *foreign non-cleared swap* or *foreign non-cleared security-based swap* is any non-cleared swap or non-cleared security-based swap with respect to which neither the counterparty to the foreign covered swap entity nor any party that provides a guarantee of either party's obligations under the non-cleared swap or non-cleared security-based swap is:
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 39772, July 1, 2020.
 
 (3) An entity that is a subsidiary of an entity that is organized under the laws of the United States or any State.
 
-(d) *Transactions for which substituted compliance determination may apply* - (1) *Determinations and reliance.* For non-cleared swaps and non-cleared security-based swaps entered into by covered swap entities described in paragraph (d)(3) of this section, a covered swap entity may satisfy the provisions of this part by complying with the foreign regulatory framework for non-cleared swaps and non-cleared security-based swaps that the prudential regulators jointly, conditionally or unconditionally, determine by public order satisfy the corresponding requirements of §§ 45.3 through 45.8 and §§ 45.10 through 45.12.
+(d) *Transactions for which substituted compliance determination may apply*—(1) *Determinations and reliance.* For non-cleared swaps and non-cleared security-based swaps entered into by covered swap entities described in paragraph (d)(3) of this section, a covered swap entity may satisfy the provisions of this part by complying with the foreign regulatory framework for non-cleared swaps and non-cleared security-based swaps that the prudential regulators jointly, conditionally or unconditionally, determine by public order satisfy the corresponding requirements of §§ 45.3 through 45.8 and §§ 45.10 through 45.12.
 
 (2) *Standard.* In determining whether to make a determination under paragraph (d)(1) of this section, the prudential regulators will consider whether the requirements of such foreign regulatory framework for non-cleared swaps and non-cleared security-based swaps applicable to such covered swap entities are comparable to the otherwise applicable requirements of this part and appropriate for the safe and sound operation of the covered swap entity, taking into account the risks associated with non-cleared swaps and non-cleared security-based swaps.
 
@@ -93,3 +91,9 @@ Link to an amendment published at 85 FR 39772, July 1, 2020.
 (v) The OCC provides the covered swap entity with prior written approval for the covered swap entity's reliance on this paragraph (f) for the foreign jurisdiction.
 
 (g) *Guarantee* means an arrangement pursuant to which one party to a non-cleared swap or non-cleared security-based swap has rights of recourse against a third-party guarantor, with respect to its counterparty's obligations under the non-cleared swap or non-cleared security-based swap. For these purposes, a party to a non-cleared swap or non-cleared security-based swap has rights of recourse against a guarantor if the party has a conditional or unconditional legally enforceable right to receive or otherwise collect, in whole or in part, payments from the guarantor with respect to its counterparty's obligations under the non-cleared swap or non-cleared security-based swap. In addition, any arrangement pursuant to which the guarantor has a conditional or unconditional legally enforceable right to receive or otherwise collect, in whole or in part, payments from any other third party guarantor with respect to the counterparty's obligations under the non-cleared swap or non-cleared security-based swap, such arrangement will be deemed a guarantee of the counterparty's obligations under the non-cleared swap or non-cleared security-based swap by the other guarantor.
+
+(h)(1) A covered swap entity described in paragraphs (d)(3)(i) and (ii) of this section is not subject to the requirements of § 45.3(a) or § 45.11(a) for any non-cleared swap or non-cleared security-based swap executed with an affiliate of the covered swap entity; and
+
+(2) For purposes of paragraph (h)(1) of this section, “affiliate” has the same meaning provided in § 45.11(d).
+
+[80 FR 74898, Nov. 30, 2015, as amended at 85 FR 39772, July 1, 2020]

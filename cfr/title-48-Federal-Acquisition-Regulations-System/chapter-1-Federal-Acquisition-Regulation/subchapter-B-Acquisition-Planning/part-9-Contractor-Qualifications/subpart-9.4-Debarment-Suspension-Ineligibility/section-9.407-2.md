@@ -24,7 +24,7 @@
 
 (6) Commission of an unfair trade practice as defined in 9.403 (see section 201 of the Defense Production Act (Pub. L. 102-558));
 
-(7) Delinquent Federal taxes in an amount that exceeds $3,500. See the criteria at 9.406-2(b)(1)(v) for determination of when taxes are delinquent;
+(7) Delinquent Federal taxes in an amount that exceeds the threshold at 9.104-5(a)(2). See the criteria at 9.406-2(b)(1)(v) for determination of when taxes are delinquent;
 
 (8) Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor, to timely disclose to the Government, in connection with the award, performance, or closeout of the contract or a subcontract thereunder, credible evidence of -
 
@@ -40,4 +40,4 @@
 
 (c) The suspending official may upon adequate evidence also suspend a contractor for any other cause of so serious or compelling a nature that it affects the present responsibility of a Government contractor or subcontractor.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 55 FR 21707, May 25, 1990; 59 FR 11373, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28081, May 22, 2003; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019]
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 55 FR 21707, May 25, 1990; 59 FR 11373, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28081, May 22, 2003; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019; 85 FR 40067, July 2, 2020]

@@ -104,7 +104,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) All waterfowl hunters must check out at the assigned station prior to leaving the refuge.
 
-(vi) Shooting hours are from1/2 hour before legal sunrise until 12 p.m. (noon). Hunting hours on the first day of the youth hunt are from 1 p.m. until legal sunset.
+(vi) Shooting hours are from1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (vii) We allow the use of dogs when hunting.
 
@@ -113,6 +113,14 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (A) We allow hunting Monday through Saturday during the State season.
 
 (B) The hunter must possess and carry a validated refuge permit (name and address) while hunting.
+
+(ix) Hunting by youth hunters (age 16 and younger) is subject to the following conditions:
+
+(A) Validly licensed adults, age 21 or older, holding applicable permits must accompany and supervise, remaining in sight and voice contact at all times, any youth hunters. Each adult may supervise no more than two youth hunters.
+
+(B) Youth hunters must possess and carry evidence of successful completion of a State-approved hunter education course.
+
+(C) We allow hunting on Tuesdays, Wednesdays, Fridays, and Saturdays during the late and youth waterfowl State seasons.
 
 (2) [Reserved]
 
@@ -277,3 +285,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) We allow hunters to enter and remain in open hunting areas from 1 hour before legal shooting time until 1 hour after legal shooting time.
 
 (2)-(4) [Reserved]
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54129, Aug. 31, 2020]

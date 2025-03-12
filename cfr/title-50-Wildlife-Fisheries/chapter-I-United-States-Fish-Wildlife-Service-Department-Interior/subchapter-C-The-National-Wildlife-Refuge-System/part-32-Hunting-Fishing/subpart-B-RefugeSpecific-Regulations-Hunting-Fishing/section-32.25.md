@@ -2,19 +2,19 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Alamosa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, Eurasian collared-dove, and mourning dove on designated areas of the refuge subject to the following conditions:
+(a) *Alamosa National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, Eurasian collared-dove, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow Eurasian collared-dove hunting only during the mourning dove season.
 
 (ii) The only acceptable methods of take are shotguns, hand-held bows, and hawking/falconry.
 
-(2) *Upland game hunting.* We allow hunting of cottontail rabbit, and black-tailed and whitetailed jackrabbit, on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (a)(1)(ii) of this section applies.
+(2) *Upland game hunting.* We allow hunting of cottontail rabbit, and black-tailed and white-tailed jackrabbit, on designated areas of the refuge subject to the following condition: The only acceptable methods of take are shotgun, rifle firing rimfire cartridges less than .23 caliber, hand-held bow, pellet gun, slingshot, and hawking/falconry.
 
 (3) *Big game hunting.* We allow hunting of elk on designated areas of the refuge.
 
-(4) [Reserved]
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit launching or removing any type of watercraft from the refuge on the Rio Grande or Chicago Ditch.
 
-(b) *Arapaho National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, merganser, Canada goose, snipe, Virginia and Sora rail, and mourning dove on designated areas of the refuge subject to the following conditions:
+(b) *Arapaho National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, coot, merganser, Canada goose, snipe, Virginia and Sora rail, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) All migratory bird hunting closes annually on December 31.
 
@@ -52,7 +52,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We prohibit lead sinkers and live bait for fishing.
 
-(c) *Baca National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of Eurasian collared-dove and mourning dove on designated areas of the refuge subject to the following conditions:
+(c) *Baca National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of Eurasian collared-dove and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow Eurasian collared-dove hunting only during the mourning dove season.
 
@@ -64,21 +64,21 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(d) *Browns Park National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and mourning dove on designated areas of the refuge.
+(d) *Browns Park National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and mourning dove on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow hunting of cottontail rabbit on designated areas of the refuge.
 
-(3) *Big game hunting.* We allow hunting of mule deer and elk on designated areas of the refuge.
+(3) *Big game hunting.* We allow hunting of pronghorn antelope, moose, mule deer, and elk on designated areas of the refuge.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(e) *Monte Vista National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, Eurasian collared-dove, and mourning dove on designated areas of the refuge subject to the following conditions:
+(e) *Monte Vista National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, Eurasian collared-dove, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow Eurasian collared-dove hunting only during the mourning dove season.
 
 (ii) The only acceptable methods of take are shotguns, hand-held bows, and hawking/falconry.
 
-(2) *Upland game hunting.* We allow hunting of cottontail rabbit, and black-tailed and white-tailed jackrabbit, on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (e)(1)(ii) of this section applies.
+(2) *Upland game hunting.* We allow hunting of cottontail rabbit, and black-tailed and white-tailed jackrabbit, on designated areas of the refuge subject to the following condition: The only acceptable methods of take are shotgun, rifle firing rimfire cartridges less than .23 caliber, hand-held bow, pellet gun, slingshot, and hawking/falconry.
 
 (3) *Big game hunting.* We allow hunting of elk on designated areas of the refuge.
 
@@ -111,3 +111,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (xi) We only allow catch-and-release fishing.
 
 (xii) We prohibit the possession and consumption of alcoholic beverages while fishing.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020]

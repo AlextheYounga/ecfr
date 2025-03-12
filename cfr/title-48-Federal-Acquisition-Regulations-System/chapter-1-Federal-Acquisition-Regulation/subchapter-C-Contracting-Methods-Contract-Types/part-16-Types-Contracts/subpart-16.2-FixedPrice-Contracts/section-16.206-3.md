@@ -1,10 +1,8 @@
 ##### 16.206-3 Limitations. #####
 
-Link to an amendment published at 85 FR 40067, July 2, 2020.
+This contract type shall not be used unless—
 
-This contract type shall not be used unless -
-
-(a) The contract is for research and development and the estimated cost is $150,000 or less;
+(a) The contract is for research and development and the estimated cost is the simplified acquisition threshold or less;
 
 (b) The contractor's accounting system is adequate for price redetermination;
 
@@ -12,4 +10,4 @@ This contract type shall not be used unless -
 
 (d) The head of the contracting activity (or a higher-level official, if required by agency procedures) approves its use in writing.
 
-[48 FR 42219, Sept. 19, 1983, as amended at 75 FR 53133, Aug. 30, 2010]
+[48 FR 42219, Sept. 19, 1983, as amended at 75 FR 53133, Aug. 30, 2010; 85 FR 40067, July 2, 2020]

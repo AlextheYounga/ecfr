@@ -1,0 +1,3 @@
+##### § 237.21 Definition of insured depository institution for purposes of section 716 of the Dodd-Frank Act. #####
+
+For purposes of section 716 of the Dodd-Frank Act (15 U.S.C. 8305) and this rule, the term “insured depository institution” includes any insured depository institution as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) and any uninsured U.S. branch or agency of a foreign bank. The terms branch, agency, and foreign bank are defined in section 1 of the International Banking Act of 1978 (12 U.S.C. 3101).

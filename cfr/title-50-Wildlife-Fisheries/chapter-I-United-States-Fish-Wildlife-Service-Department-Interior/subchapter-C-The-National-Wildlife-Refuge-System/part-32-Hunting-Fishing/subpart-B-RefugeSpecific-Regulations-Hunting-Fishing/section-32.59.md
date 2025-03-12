@@ -70,7 +70,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit falconry.
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer, turkey, and feral hog on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer, turkey, coyote, and feral hog on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (b)(1)(i), (iii), and (iv) and (b)(2)(v) of this section apply.
 
@@ -303,3 +303,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (xv) We only allow deer and hog hunting on the uplands of Sandy Island during a special archery-only lottery hunt. Hunters must apply for lottery entry (name/address/phone number) and are chosen by a random selection process. There is a quota on the number of hunters selected for this hunt.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020]

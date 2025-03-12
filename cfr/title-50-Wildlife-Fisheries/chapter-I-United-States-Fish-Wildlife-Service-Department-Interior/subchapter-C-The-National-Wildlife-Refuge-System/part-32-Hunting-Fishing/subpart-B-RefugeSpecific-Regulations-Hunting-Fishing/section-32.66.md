@@ -240,15 +240,27 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(l) *Turnbull National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow hunting during the State youth season.
+(i) We allow hunting during the State youth season in September.
 
-(ii) We allow the use of dogs when hunting.
+(ii) We allow hunting from the beginning of the regular waterfowl seasons through November 30 by youths (younger than age 16) on Saturday and Sunday only. An adult, age 18 or older, must accompany and supervise youth hunters. We allow the supervising adult(s) to hunt.
 
-(iii) Hunters may access the refuge no earlier than 2 hours before legal sunrise and must leave no later than 1 hour after legal sunset.
+(iii) We allow the use of dogs when hunting.
 
-(iv) Hunters must obtain a letter from the refuge manager authorizing them to access the refuge for the purpose of hunting migratory game birds.
+(iv) Hunters may access the refuge no earlier than 2 hours before legal hunting hours and must leave no later than 1 hour after legal hunting hours.
+
+(v) Hunters may hunt only from within 50 yards of posted hunting sites.
+
+(vi) Hunting parties are restricted to a maximum of two youths and two accompanying adults per hunting site.
+
+(vii) We allow the use of nonmotorized boats for hunting.
+
+(viii) We only allow the use of portable blinds and temporary blinds constructed of manmade materials.
+
+(ix) Hunters must remove all blinds, decoys, and other personal equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(x) We allow migratory game bird hunting with shotguns only.
 
 (2) [Reserved]
 
@@ -288,44 +300,34 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (n) *Willapa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We require all hunters to obtain and carry a Migratory Bird Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) prior to entering the hunt area at the Riekkola Unit.
+(i) In the designated goose hunt area in the Riekkola Unit, hunters may take ducks, coots, and snipe only incidental to hunting geese.
 
-(ii) We require all hunters to report waterfowl taken per instructions on the Migratory Bird Hunt Report (FWS Form 3-2361).
+(ii) We open the refuge for hunting access from 11/2 hours before legal sunrise until 11/2 hours after legal sunset.
 
-(iii) In the designated goose hunt area in the Riekkola Unit, hunters may take ducks, coots, and snipe only incidental to hunting geese.
+(iii) We allow the use of dogs when hunting.
 
-(iv) We allow goose hunting on Wednesdays, Saturdays, and Sundays in the designated goose hunt area in the Riekkola Unit.
-
-(v) We open the refuge for hunting access from 11/2 hours before legal sunrise until 11/2 hours after legal sunset.
-
-(vi) We allow the use of dogs when hunting.
-
-(vii) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
+(iv) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow hunting of forest grouse (sooty and ruffed) on designated areas of the refuge subject to the following conditions:
 
-(i) We require all hunters to obtain and carry a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We allow archery hunting only.
 
-(ii) We require all hunters to report game taken, hours hunted, and name/address/date on the Upland/Small Game/Furbearer Report (FWS Form 3-2362).
-
-(iii) We allow archery hunting only.
-
-(iv) The conditions set forth at paragraphs (n)(1)(v) and (vi) of this section apply.
+(ii) The condition set forth at paragraph (n)(1)(ii) of this section applies.
 
 (3) *Big game hunting.* We allow hunting of deer, elk, and bear on designated areas of the refuge subject to the following conditions:
 
-(i) We require all Long Island hunters to obtain and carry a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) At Long Island, we allow only archery hunting; we prohibit hunting firearms.
 
-(ii) We require all hunters to report game taken, hours hunted, and name/address/date on the Big Game Harvest Report (FWS Form 3-2359).
+(ii) We prohibit bear hunting on any portion of the refuge except Long Island.
 
-(iii) At Long Island, we allow only archery hunting; we prohibit hunting firearms.
+(iii) We prohibit the use of centerfire or rimfire rifles within the Lewis, Porter Point, and Riekkola Units.
 
-(iv) We prohibit bear hunting on any portion of the refuge except Long Island.
+(iv) The condition set forth at paragraph (n)(1)(ii) of this section applies.
 
-(v) We prohibit the use of centerfire or rimfire rifles within the Lewis, Porter Point, and Riekkola Units.
+(v) You may leave your tree stand(s) in place for 3 days. You must label your tree stand(s) with your hunting license number and the date you set up the stand. You may set up stands 11/2 hours before legal sunrise. You must remove your tree stand(s) and all other personal property from the refuge by 11/2 hours after legal sunset on the third day (see § 27.93 of this chapter).
 
-(vi) The conditions set forth at paragraphs (n)(1)(v) and (vi) of this section apply.
-
-(vii) You may leave your tree stand(s) in place for 3 days. You must label your tree stand(s) with your hunting license number and the date you set up the stand. You may set up stands 11/2 hours before legal sunrise. You must remove your tree stand(s) and all other personal property from the refuge by 11/2 hours after legal sunset on the third day (see § 27.93 of this chapter).
+(vi) At Leadbetter Point, we allow hunting of elk only during the State early muzzleloader season, and by special permit in consultation with the State.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020]

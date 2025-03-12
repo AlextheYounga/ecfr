@@ -160,7 +160,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing from boats on designated areas of the refuge.
 
-(l) *Merced National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(l) *Merced National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
 
@@ -188,13 +188,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) You must remove all blinds, decoys, shell casings, other personal equipment, and refuse from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-(viii) Hunters must enter and exit the hunting area from the two designated hunt parking lots, which we open 11/2 hours before legal sunrise and close 1 hour after legal sunset each hunt day.
+(viii) Hunters must enter and exit the hunting area from the three designated hunt parking lots, which we open 11/2 hours before legal sunrise and close 1 hour after legal sunset each hunt day.
 
 (ix) We only allow access to the hunt area by foot, bicycle, and nonmotorized cart. We prohibit bicycles in the hunt area during the opening weekend of the hunting season.
 
 (2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following conditions:
 
-(i) We limit hunting to junior hunters, age 15 or younger, possessing a valid State Junior Hunting License and refuge Junior Pheasant Hunt Permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We limit hunting to junior hunters possessing a valid State Junior Hunting License and refuge Junior Pheasant Hunt Permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
 (ii) All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
@@ -280,7 +280,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(q) *San Luis National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(q) *San Diego Bay National Wildlife Refuge.* (1)-(3) [Reserved]
+
+(4) *Sport fishing.* We allow sport fishing from boats and other flotation devices on designated areas of the refuge subject to the following condition: We prohibit shoreline fishing.
+
+(r) *San Luis National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
 
@@ -294,7 +298,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We require State-issued Type A area permits for access on Wednesdays, Saturdays, and Sundays.
 
-(vii) We prohibit the use of motorized boats in the free-roam units with the exception of the Freitas Unit.
+(vii) We prohibit the use of motorized boats and other flotation devices in the free-roam units with the exception of the Freitas Unit.
 
 (viii) We prohibit vehicle trailers of any type or size to be in the refuge hunt areas at any time or to be left unattended at any location on the refuge.
 
@@ -310,7 +314,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We only allow the use of pole and line or rod and reel to take fish, and anglers must attend their equipment at all times.
 
-(r) *San Pablo Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(s) *San Pablo Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) You may only hunt from a boat. We prohibit walk-in hunting on the refuge.
 
@@ -320,13 +324,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You may only hunt on Wednesdays, Saturdays, and Sundays.
 
-(ii) The conditions set forth at paragraphs (r)(1)(ii) and (iii) of this section apply.
+(ii) The conditions set forth at paragraphs (s)(1)(ii) and (iii) of this section apply.
 
 (3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We allow fishing only with a pole and line or rod and reel. We prohibit bow fishing and gigging.
 
-(s) *Sonny Bono Salton Sea National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(t) *Sonny Bono Salton Sea National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters using the Union Tract must use goose decoys.
 
@@ -342,7 +346,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We only allow boat fishing.
 
-(t) *Stone Lakes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(u) *Stone Lakes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting on Sun River Unit only on Wednesdays and Saturdays from1/2 hour before legal sunrise until 12 p.m. (noon).
 
@@ -370,7 +374,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the take of native reptiles and amphibians (see § 27.21 of this chapter).
 
-(u) *Sutter National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(v) *Sutter National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an authorized overnight stay.
 
@@ -392,11 +396,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow turkey hunting during the fall season only.
 
-(ii) The conditions set forth at paragraphs (u)(1)(i) through (viii) of this section apply.
+(ii) The conditions set forth at paragraphs (v)(1)(i) through (viii) of this section apply.
 
 (3)-(4) [Reserved]
 
-(v) *Tule Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(w) *Tule Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass (available electronically or in person at the refuge office) for all hunters age 16 or older.
 
@@ -425,3 +429,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (ii) All hunters age 15 or younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
 (3)-(4) [Reserved]
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020]

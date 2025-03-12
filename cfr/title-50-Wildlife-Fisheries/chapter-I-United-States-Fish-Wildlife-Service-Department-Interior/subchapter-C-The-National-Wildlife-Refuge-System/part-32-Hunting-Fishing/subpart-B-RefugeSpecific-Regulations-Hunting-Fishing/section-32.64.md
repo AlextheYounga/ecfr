@@ -52,6 +52,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (B) You must use a dog to retrieve migratory game birds.
 
+(vii) In all hunting areas, we allow the use of dogs consistent with State regulations.
+
 (2) *Upland game hunting.* We allow hunting of cottontail rabbit, snowshoe hare, ruffed grouse, and gray squirrel on designated areas of the refuge subject to the following conditions:
 
 (i) You must obtain a signed refuge hunt brochure (signed brochure) at refuge headquarters prior to hunting, and you must hold a valid State hunting license.
@@ -61,6 +63,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) We prohibit hunting from the end of snowshoe hare and rabbit season through September 1.
 
 (iv) On the Eagle Point Unit, conditions in paragraphs (a)(2)(i) through (iii) of this section do not apply.
+
+(v) The condition set forth at paragraph (a)(1)(vii) of this section applies.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, moose, bear, and turkey on designated areas of the refuge subject to the following conditions:
 
@@ -80,7 +84,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow sport fishing (including bow fishing) by boat and ice fishing in designated areas with the following exceptions:
 
-(A) We close the following areas from ice-out to July 15: Goose Bay, Saxes Creek and Pothole, Metcalfe Island Pothole, Long Marsh Channel, and Clark Marsh.
+(A) We close the following areas: Goose Bay, Saxes Creek and Pothole, Metcalfe Island Pothole, Long Marsh Channel, and Clark Marsh.
 
 (B) We close the following areas from Labor Day to December 31: Long Marsh Bay and Long Marsh Channel.
 
@@ -90,24 +94,28 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow boat launching from Louie's Landing year-round. We allow boat launching from Mac's Bend boat launch area from September through November (inclusive).
 
-(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, crow, and American woodcock on designated areas of the refuge subject to the following condition: We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
-
-(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, bobcat, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, snowshoe hare, eastern cottontail, and ruffed grouse on designated areas of the refuge subject to the following conditions:
+(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, crow, and American woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-(ii) Shooting from, over, or within 10 feet of the traveled portion of any gravel road is prohibited (see § 25.71 of this chapter).
+(ii) We allow the use of dogs consistent with State regulations.
+
+(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, bobcat, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, snowshoe hare, eastern cottontail, and ruffed grouse on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(1)(i) and (ii) of this section apply.
+
+(ii) Shooting from, over, or within 10 feet of the traveled portion of any gravel road is prohibited.
 
 (iii) We require hunters hunting at night to possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (b)(2)(ii) of this section applies.
+(i) The conditions set forth at paragraphs (b)(1)(i) and (b)(2)(ii) of this section apply.
 
-(ii) We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
+(ii) You may use portable tree stands and/or blinds. You must clearly label your tree stands and/or blinds with your hunting license number.
 
-(iii) You may use portable tree stands and blinds as governed by State regulations guiding their use on State wildlife management areas. You must remove tree stands and blinds by the end of the final deer season (see § 27.93 of this chapter).
-
-(iv) You may retrieve moose at the Nulhegan Basin Division with the use of a commercial moose hauler, if the hauler possesses a Special Use Permit (FWS Form 3-1383-C) issued by the refuge manager.
+(iii) You may retrieve moose at the Nulhegan Basin Division with the use of a commercial moose hauler, if the hauler possesses a Special Use Permit (FWS Form 3-1383-C) issued by the refuge manager.
 
 (4) [Reserved]
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020]

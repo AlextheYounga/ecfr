@@ -6,7 +6,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must access waterfowl hunting areas by boat launched from off-refuge sites only. We prohibit overland access through the refuge.
 
-(ii) We allow the use of dogs for retrieving migratory game birds.
+(ii) We allow the use of dogs consistent with State regulations.
 
 (2) [Reserved]
 
@@ -38,38 +38,30 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, common snipe, and American woodcock on designated areas of the refuge.
+(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, common snipe, and American woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
 
-(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, American crow, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge.
+(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, crow, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following conditions:
-
-(i) We allow portable tree stands and blinds.
-
-(ii) You must label your portable tree stands and/or blinds with your name and State hunting license number. The label must be clearly visible on the stands or blinds.
-
-(iii) You must remove your tree stands or blinds by the end of the season (see § 27.93 of this chapter).
+(3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following condition: We allow tree stands and blinds that are clearly marked with the owner's State hunting license number.
 
 (4) [Reserved]
 
-(c) *Umbagog National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, snipe, coot, crow, and woodcock on designated areas of the refuge subject to the following conditions:
-
-(i) Hunters must remove temporary blinds, boats, and decoys from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
-
-(ii) We allow the use of dogs to assist in the location and retrieval of game species.
+(c) *Umbagog National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, snipe, coot, crow, and woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
 
 (2) *Upland game hunting.* We allow hunting of fox, raccoon, woodchuck, squirrel, porcupine, skunk, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
-(ii) The condition set forth at paragraph (c)(1)(ii) of this section applies.
+(ii) We allow the use of dogs consistent with State regulations.
 
 (3) *Big game hunting.* We allow hunting of bear, white-tailed deer, coyote, wild turkey, and moose on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (c)(1)(ii) and (c)(2)(i) of this section apply.
+(i) We allow the use of dogs consistent with State regulations.
 
-(ii) Hunters must retrieve all species, including coyotes, harvested on the refuge.
+(ii) Hunters must retrieve all species harvested on the refuge.
 
-(iii) We allow temporary blinds and tree stands that are clearly marked with the owner's name and State hunting license number. You may erect temporary blinds and tree stands no earlier than 14 days prior to the hunting season, and you must remove them within 14 days after the hunting season (see § 27.93 of this chapter).
+(iii) We allow temporary blinds and tree stands that are clearly marked with the owner's State hunting license number. You may erect temporary blinds and tree stands no earlier than 14 days prior to the hunting season, and you must remove them within 14 days after the hunting season (see § 27.93 of this chapter).
 
-(4) [Reserved]
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020]

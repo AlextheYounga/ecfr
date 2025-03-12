@@ -1,19 +1,43 @@
 ##### § 45.11 Special rules for affiliates. #####
 
-Link to an amendment published at 85 FR 39772, July 1, 2020.
+(a)(1) A covered swap entity shall calculate on each business day an initial margin collection amount for each counterparty that is a swap entity or financial end user with a material swaps exposure and an affiliate of the covered swap entity.
 
-(a) *Affiliates.* This part applies to a non-cleared swap or non-cleared security-based swap of a covered swap entity with its affiliate, unless the swap or security-based swap is excluded from coverage under § 45.1(d) or as otherwise provided in this section. To the extent of any inconsistency between this section and any other provision of this part, this section will apply.
+(2) If the aggregate of all initial margin collection amounts calculated under paragraph (a)(1) of this section does not exceed 15 percent of the covered swap entity's tier 1 capital, the requirements for a covered swap entity to collect initial margin under § 45.3(a) do not apply with respect to any non-cleared swap or non-cleared security-based swap with a counterparty that is an affiliate.
 
-(b) *Initial margin* - (1) *Posting of initial margin.* The requirement for a covered swap entity to post initial margin under § 45.3(b) does not apply with respect to any non-cleared swap or non-cleared security-based swap with a counterparty that is an affiliate. A covered swap entity shall calculate the amount of initial margin that would be required to be posted to an affiliate that is a financial end user with material swaps exposure pursuant to § 45.3(b) and provide documentation of such amount to each affiliate on a daily basis.
+(3) On each business day that the aggregate of all initial margin collection amounts calculated under paragraph (a)(1) of this section exceeds 15 percent of the covered swap entity's tier 1 capital:
 
-(2) *Initial margin threshold amount.* For purposes of calculating the amount of initial margin to be collected from an affiliate counterparty in accordance with § 45.3(a) or calculating the amount of initial margin that would have been posted to an affiliate counterparty in accordance with paragraph (b)(1) of this section, the initial margin threshold amount is an aggregate credit exposure of $20 million resulting from all non-cleared swaps and non-cleared security-based swaps between the covered swap entity and that affiliate. For purposes of this calculation, an entity shall not count a non-cleared swap or non-cleared security-based swap that is exempt pursuant to § 45.1(d).
+(i) The covered swap entity shall collect initial margin under § 45.3(a) for each additional non-cleared swap and non-cleared security-based swap executed that business day with a counterparty that is a swap entity or financial end user with a material swaps exposure and an affiliate of the covered swap entity, commencing on the day after execution and continuing on a daily basis as required under § 45.3(c), until the earlier of:
 
-(c) *Variation margin.* A covered swap entity shall collect and post variation margin with respect to a non-cleared swap or non-cleared security-based swap with any counterparty that is an affiliate as provided in § 45.4.
+(A) The termination date of such non-cleared swap or non-cleared security-based swap, or
 
-(d) *Custodian for non-cash collateral.* To the extent that a covered swap entity collects initial margin required by § 45.3(a) from an affiliate with respect to any non-cleared swap or non-cleared security-based swap in the form of collateral other than cash collateral, the custodian for such collateral may be the covered swap entity or an affiliate of the covered swap entity.
+(B) The business day on which the aggregate of all initial margin collection amounts calculated under § 45.11(a)(1) falls below 15 percent of the covered swap entity's tier 1 capital;
 
-(e) *Model holding period and netting* - (1) *Model holding period.* For any non-cleared swap or non-cleared security-based swap (or netting portfolio) between a covered swap entity and an affiliate that would be subject to the clearing requirements of section 2(h)(1)(A) of the Commodity Exchange Act of 1936 or section 3C(a)(1) of the Securities Exchange Act of 1934 but for an exemption under section 2(h)(7)(C)(iii) or (D) or section 4(c)(1) of the Commodity Exchange Act of 1936 or regulations of the Commodity Futures Trading Commission or section 3C(g)(4) of the Securities Exchange Act of 1934 or regulations of the U.S. Securities and Exchange Commission, the covered swap entity's initial margin model calculation as described in § 45.8(d)(1) may use a holding period equal to the shorter of five business days or the maturity of the non-cleared swap or non-cleared security-based swap (or netting portfolio).
+(ii) Notwithstanding § 45.7(b), to the extent the covered swap entity collects initial margin pursuant to paragraph (a)(3)(i) of this section in the form of collateral other than cash collateral, the custodian for such collateral may be the covered swap entity or an affiliate of the covered swap entity;
 
-(2) *Netting arrangements.* Any netting portfolio that contains any non-cleared swap or non-cleared security-based swap with a model holding period equal to the shorter of five business days or the maturity of the non-cleared swap or non-cleared security-based swap pursuant to paragraph (e)(1) of this section must be identified and separate from any other netting portfolio for purposes of calculating and complying with the initial margin requirements of this part.
+(4) For purposes of this paragraph (a), “tier 1 capital” means the sum of common equity tier 1 capital as defined in 12 CFR 3.20(b) and additional tier 1 capital as defined in 12 CFR 3.20(c), as reported in the institution's most recent Consolidated Reports of Income and Condition (Call Report); and
 
-(f) *Standardized amounts.* If a covered swap entity's initial margin model does not conform to the requirements of § 45.8, the covered swap entity shall calculate the amount of initial margin required to be collected for one or more non-cleared swaps or non-cleared security-based swaps with a given affiliate counterparty pursuant to section § 45.3 on a daily basis pursuant to appendix A with the gross initial margin multiplied by 0.7.
+(5) If any subsidiary of the covered swap entity (including a subsidiary described in § 45.9(h)) executes any non-cleared swap or non-cleared security-based swap with any counterparty that is a swap entity or financial end user with a material swaps exposure and an affiliate of the covered swap entity:
+
+(i) The covered swap entity shall treat such non-cleared swap or security-based swap as its own for purposes of this paragraph (a); and
+
+(ii) If the subsidiary is itself a covered swap entity, the compliance by its parent covered swap entity with this paragraph (a)(5) shall be deemed to establish the subsidiary's compliance with the requirements of this paragraph (a) and to exempt the subsidiary from the requirements for a covered swap entity to collect initial margin under § 45.3(a) from an affiliate.
+
+(b) The requirement for a covered swap entity to post initial margin under § 45.3(b) does not apply with respect to any non-cleared swap or non-cleared security-based swap with a counterparty that is an affiliate.
+
+(c) Section 45.3(d) shall apply to a counterparty that is an affiliate in the same manner as it applies to any counterparty that is neither a financial end user without a material swap exposure nor a swap entity.
+
+(d) For purposes of this section:
+
+(1) An *affiliate* means:
+
+(i) An affiliate as defined in § 45.2; or
+
+(ii) Any company that controls, is controlled by, or is under common control with the covered swap entity through the direct or indirect exercise of controlling influence over the management or policies of the controlled company.
+
+(2) A *subsidiary* means:
+
+(i) A subsidiary as defined in § 45.2; or
+
+(ii) Any company that is controlled by the covered swap entity through the direct or indirect exercise of controlling influence over the management or policies of the controlled company.
+
+[85 FR 39772, July 1, 2020]

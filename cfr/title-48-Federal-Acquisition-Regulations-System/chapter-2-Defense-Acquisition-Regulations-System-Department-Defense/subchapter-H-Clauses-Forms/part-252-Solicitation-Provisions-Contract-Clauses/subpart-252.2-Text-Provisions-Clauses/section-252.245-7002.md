@@ -1,6 +1,6 @@
 ##### 252.245-7002 Reporting Loss of Government Property. #####
 
-As prescribed in 245.107(3), use the following clause:
+As prescribed in 245.107(4), use the following clause:
 
 Reporting Loss of Government Property (DEC 2017)
 
@@ -40,4 +40,4 @@ Reporting Loss of Government Property (DEC 2017)
 
 (4) This reporting requirement does not change any liability provisions or other reporting requirements that may exist under this contract.
 
-(End of clause)[76 FR 6008, Feb. 2, 2011, as amended at 77 FR 23632, Apr. 20, 2012; 82 FR 61481, Dec. 28, 2017]
+(End of clause)[76 FR 6008, Feb. 2, 2011, as amended at 77 FR 23632, Apr. 20, 2012; 82 FR 61481, Dec. 28, 2017; 85 FR 53683, Aug. 31, 2020]

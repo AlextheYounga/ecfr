@@ -2,29 +2,29 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Clarks River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, woodcock, common snipe, Canada and snow goose, coot, crow, and waterfowl listed at 50 CFR 10.13(c)(1) under DUCK on designated areas of the refuge subject to the following conditions:
+(a) *Clarks River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove, woodcock, common snipe, Canada and snow goose, coot, crow, and waterfowl listed at 50 CFR 10.13(c)(1) under DUCK on designated areas of the refuge subject to the following conditions:
 
 (i) Except for raccoon, opossum, and bullfrog hunting, access to the refuge is from 2 hours before legal sunrise to 2 hours after legal sunset.
 
 (ii) You must possess and carry a signed refuge hunting/fishing permit (signed brochure) while hunting and/or fishing on the refuge.
 
-(iii) We prohibit discharge of firearms on or within 200 feet (90 meters) of any home, the abandoned railroad tracks, graveled roads, and hiking trails.
+(iii) We prohibit hunting within 100 feet (30 meters) of a residence and discharge of firearms within 200 feet (60 meters) of any home, the abandoned railroad tracks, graveled roads, and hiking trails.
 
 (iv) We allow trail cameras. Trail cameras must have the owner's State hunting license number clearly displayed or we may confiscate them.
 
-(v) An adult age 21 or older must supervise all youth hunters age 15 and younger. Youth hunters must remain in sight of and normal voice contact with the adult. On small game hunts, the adult may supervise no more than two youths; on big game hunts, the adult may supervise no more than one youth.
+(v) We allow the use of dogs for waterfowl, quail, snipe, dove, woodcock, squirrel, rabbit, raccoon, opossum, and fall turkey hunting. Dog owners/handlers must have a collar on each dog with the owner's contact information.
 
-(vi) All persons born after January 1, 1975, must possess a valid hunter education card while hunting.
+(vi) We allow waterfowl hunting from legal shooting time until 12 p.m. (noon).
 
-(vii) We allow the use of dogs for waterfowl, small game, and fall turkey hunting. Dog owners/handlers must have a collar on each dog with the owner's contact information.
+(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, opossum, coyote, bobcat, fox, skunk, otter, muskrat, mink, weasel, and beaver on designated areas of the refuge subject to the following conditions:
 
-(viii) We allow waterfowl hunting from legal shooting time until 12 p.m. (noon).
+(i) The conditions set forth at paragraphs (a)(1)(i) through (v) of this section apply.
 
-(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, opossum, and coyote on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) through (vii) of this section apply.
+(ii) We allow coyote hunting under Statewide regulations during daylight hours only.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (a)(1)(i) through (vii) of this section apply.
+(i) The conditions set forth at paragraphs (a)(1)(i) through (v) of this section apply.
 
 (ii) We close squirrel, rabbit, crow, woodcock, snipe, dove, and quail seasons during muzzleloader and modern gun deer hunts.
 
@@ -55,3 +55,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (b) *Ohio River Islands National Wildlife Refuge.* Refer to § 32.67(b) for regulations.
 
 (c) *Reelfoot National Wildlife Refuge.* Refer to § 32.61(f) for regulations.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54113, Aug. 31, 2020]

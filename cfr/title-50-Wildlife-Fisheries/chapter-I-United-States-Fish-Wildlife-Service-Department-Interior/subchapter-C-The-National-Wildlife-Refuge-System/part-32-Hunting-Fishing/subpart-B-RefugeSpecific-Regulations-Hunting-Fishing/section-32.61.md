@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Chickasaw National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(a) *Chickasaw National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions.
 
@@ -38,7 +38,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit taking frog or turtle on the refuge (see § 27.21 of this chapter).
 
-(b) *Cross Creeks National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of Canada goose on designated areas of the refuge subject to the following conditions:
+(b) *Cross Creeks National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of Canada goose on designated areas of the refuge subject to the following conditions:
 
 (i) We require a refuge hunt permit (electronic form) for all hunters age 17 and older. You must carry a valid refuge permit while hunting on the refuge.
 
@@ -76,7 +76,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow bow fishing in refuge impoundments and on Barkley Lake.
 
-(c) *Hatchie National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(c) *Hatchie National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions.
 
@@ -136,7 +136,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow use of a bow and arrow, or a gig, to take nongame fish on refuge waters.
 
-(e) *Lower Hatchie National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(e) *Lower Hatchie National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions.
 
@@ -198,7 +198,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit taking of frog or turtle on the refuge (see § 27.21 of this chapter).
 
-(g) *Tennessee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of Canada goose on designated areas of the refuge subject to the following conditions:
+(g) *Tennessee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of Canada goose, dove, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) We require a refuge hunt permit (name and address) for all hunters age 17 and older. You must carry a valid refuge permit while hunting on the refuge.
 
@@ -208,33 +208,31 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow hunters to access the refuge from 2 hours before legal sunrise to 2 hours after legal sunset, except as provided under paragraph (g)(2)(ii) of this section.
 
-(v) Youth hunters age 16 and younger must remain in sight of and normal voice contact with an adult hunter age 21 or older. One adult hunter may supervise no more than two youth hunters.
+(v) Youth hunters age 16 and younger must be accompanied by an adult 21 years old or older who has a refuge hunting permit on his or her person. The adult must remain in a position to take immediate control of the hunting device.
 
-(vi) We allow the use of dogs to retrieve geese.
+(vi) We allow the use of dogs for migratory bird, squirrel, raccoon, and opossum hunting.
 
 (vii) You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
 (viii) We allow the take of beaver and coyote incidental to legal hunting activities with legal methods of take for those hunts.
 
-(2) *Upland game hunting.* We allow hunting of squirrel, coyote, beaver, and raccoon on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of squirrel, coyote, beaver, raccoon, and opossum on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (g)(1)(i) through (v) and (viii) of this section apply.
+(i) The conditions set forth at paragraphs (g)(1)(i) through (vi) and (viii) of this section apply.
 
-(ii) We allow hunting for raccoon from legal sunset to legal sunrise.
+(ii) We allow hunting for raccoon and opossum from legal sunset to legal sunrise.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (g)(1)(i) through (iv) and (viii) of this section apply.
+(i) The conditions set forth at paragraphs (g)(1)(i) through (v) and (viii) of this section apply.
 
-(ii) Youth hunters age 16 and younger must remain in sight of and normal voice contact with an adult hunter age 21 or older. One adult hunter may supervise no more than one youth hunter.
+(ii) You may participate in the refuge quota deer hunts only with a special quota permit (electronic form) issued through random drawing.
 
-(iii) You may participate in the refuge quota deer hunts only with a special quota permit (electronic form) issued through random drawing.
-
-(iv) We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
+(iii) We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We allow fishing in Swamp Creek, Sulphur Well Bay, and Bennetts Creek from March 16 through November 14. We open the remainder of the refuge portion of Kentucky Lake to fishing year-round. We allow bank fishing year-round along Refuge Lake from the New Johnsonville Pump Station.
+(i) We allow fishing in Swamp Creek, Sulphur Well Bay, and Bennetts Creek from March 16 through November 14. We open the remainder of the refuge portion of Kentucky Lake to fishing year-round. We allow bank fishing year-round along Refuge Lane from the New Johnsonville Pump Station.
 
 (ii) We allow fishing on interior refuge impoundments from1/2 hour before legal sunrise to1/2 hour after legal sunset from March 16 to November 14.
 
@@ -243,3 +241,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iv) We prohibit trotlines, limblines, jugs, and slat baskets in refuge pools and impoundments.
 
 (v) We allow bow fishing in refuge impoundments and on Kentucky Lake.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020]

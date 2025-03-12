@@ -20,4 +20,28 @@
 
 (3) A hospice that is dissatisfied with a decision made by CMS on its reconsideration request may file an appeal with the Provider Reimbursement Review Board under part 405, subpart R of this chapter.
 
-[79 FR 50510, Aug. 22, 2014]
+(i) *Exemptions and extensions requirements.* (1) A hospice may request and CMS may grant exemptions or extensions to the reporting requirements under paragraph (b) of this section for one or more quarters, when there are certain extraordinary circumstances beyond the control of the hospice.
+
+(2) A hospice requesting an exemption or extension must do so within 90 days of the date that the extraordinary circumstances occurred by sending an email to CMS Hospice QRP Reconsiderations at *HospiceQRPReconsiderations@cms.hhs.gov* that contains all of the following information:
+
+(i) Hospice CMS Certification Number (CCN).
+
+(ii) Hospice Business Name.
+
+(iii) Hospice Business Address.
+
+(iv) CEO or CEO-designated personnel contact information including name, title, telephone number, email address, and mailing address (the address must be a physical address, not a post office box).
+
+(v) Hospice's reason for requesting the exemption or extension.
+
+(vi) Evidence of the impact of extraordinary circumstances beyond the hospice's control, including, but not limited to photographs, newspaper, other media articles, or independent sources attesting to the incident that can be reasonably corroborated. Include dates of occurrence and other documentation that may support the rationale for seeking extension or exemption.
+
+(vii) Date when the hospice believes it will be able to again submit data under paragraph (b) of this section and a justification for the proposed date.
+
+(3) CMS may grant exemptions or extensions to hospices without a request if it determines that one or more of the following has occurred:
+
+(i) An extraordinary circumstance, such as an act of nature including a pandemic, affects an entire region or locale.
+
+(ii) A systemic problem with one of CMS' data collection systems directly affect the ability of a hospice to submit data under paragraph (b) of this section.
+
+[79 FR 50510, Aug. 22, 2014, as amended at 85 FR 53680, Aug. 31, 2020]

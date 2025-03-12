@@ -2,13 +2,14 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Atchafalaya National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(a) *Atchafalaya National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of mourning dove, duck, goose, coot, snipe, rail, gallinule, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) You may hunt only as governed by State-issued Sherburne Wildlife Management Area regulations.
 
 (ii) Feral hogs are incidental take species. You may take feral hog during any open hunting season, only with the weapon allowed for that season, and only if you are a hunter with proper licenses and State permits for that season. There is no bag limit on feral hog.
 
-(2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) and (ii) of this section apply.
+(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, and raccoon on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) and (ii) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of feral hog, white-tailed deer, and turkey on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) and (ii) of this section apply.
 
@@ -84,7 +85,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) Hunters must possess and carry a valid refuge hunt permit (signed brochure).
 
-(vi) When hunting migratory game birds, you may only use dogs to locate, point, and retrieve game.
+(vi) Each person age 18 and older must possess a valid Annual Public Use Permit (signed brochure).
 
 (vii) We prohibit hunting within 500 feet (150 meters (m)) of any residence or structure adjacent to the refuge, and we prohibit hunting within 200 feet (60 m) of any road, railroad, levee, water control structure, designated public use trail, designated parking area, or other designated public use facility.
 
@@ -120,6 +121,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow the use of reflective tacks.
 
+(ix) Each person age 18 and older, must possess a valid Annual Public Use Permit (signed brochure).
+
 (2) *Upland game hunting.* We allow hunting of squirrel and rabbit on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow hunting from the start of the State squirrel and rabbit seasons until the last day of State waterfowl season in the Coastal Zone, except that the Centerville Unit will be open until the last day of the State waterfowl season in the East Zone.
@@ -134,7 +137,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow hunting of deer only with firearms (see § 27.42 of this chapter) during 5 specific days during October and November. A youth gun hunt will occur during the last weekend of October. The general gun hunt will occur during the final full weekend in November. The youth gun hunt includes both Saturday and Sunday. The general gun hunt includes the Friday immediately before the weekend.
 
-(ii) We allow archery deer hunting from the start of the State archery season until January 31, except the Centerville Unit is open until February 15. Hunters may take deer of either sex as governed by State-approved archery equipment and regulations. We close refuge archery hunting on those days that the refuge deer gun hunts occur.
+(ii) We allow archery deer hunting according to the State of Louisiana archery season. Hunters may take deer of either sex as governed by State-approved archery equipment and regulations. We close refuge archery hunting during refuge deer gun hunts.
 
 (iii) We do not allow hunting within 500 feet (152.4 meters) of the Garden City parking area and boardwalk.
 
@@ -154,7 +157,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Big Branch Marsh National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, goose, snipe, rail, gallinule, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) We allow waterfowl hunting on Wednesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 12 p.m. (noon), including during the State special teal season and State youth waterfowl hunt.
+(i) We allow waterfowl hunting on Wednesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 12 p.m. (noon), including waterfowl hunting during the State special teal season and State youth waterfowl hunt. We allow snipe, rail, and gallinule hunting on Wednesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 2 p.m.
 
 (ii) We prohibit goose hunting for that part of the season that extends beyond the regular duck season.
 
@@ -162,7 +165,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) Hunters must possess and carry a valid refuge hunt permit (signed brochure).
 
-(v) An adult age 18 or older must supervise youth hunters age 17 and younger during all hunts. Youth hunter age and hunter education requirements are governed by State regulations. One adult may supervise two youths during small game hunts and migratory bird hunts, but is only allowed to supervise one youth during big game hunts. Youths must remain within normal voice contact of the adult who is supervising them. Adult guardians are responsible for ensuring that youth hunters do not violate refuge rules.
+(v) An adult age 18 or older must supervise youth hunters age 17 and younger during all hunts. Youth hunter age and hunter education requirements are governed by State regulations. One adult may supervise two youths during small game hunts and migratory bird hunts, but is only allowed to supervise one youth during big game hunts. Youths must remain within normal voice contact and direct sight of the adult who is supervising them. Adult guardians are responsible for ensuring that youth hunters do not violate refuge rules.
 
 (vi) We prohibit hunting or discharge of firearm (see § 27.42 of this chapter) within 150 feet (45 meters (m)) of any residence or structure adjacent to the refuge, and from the centerline of any road, railroad, designated public use maintained trail, designated parking area, or other designated public use facility.
 
@@ -170,15 +173,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) You may use only reflective tacks as trail markers on the refuge.
 
-(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, and quail on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, raccoon, and quail on designated areas of the refuge subject to the following conditions:
 
 (i) When hunting, you must possess only shot size 4 or smaller, or 0.22 caliber rim-fire rifles or smaller.
 
-(ii) When hunting squirrel and rabbit, we allow the use of dogs only after the close of the State archery deer season. When hunting quail, you may only use dogs to locate, point, and retrieve.
+(ii) When hunting squirrel, rabbit, and raccoon, we allow the use of dogs only after the close of the State archery deer season. When hunting quail, you may only use dogs to locate, point, and retrieve.
 
 (iii) The conditions set forth at paragraphs (e)(1)(iv) through (vii) of this section apply.
 
 (iv) During the dog season for squirrel and rabbit, all hunters, including archers (while on the ground), except waterfowl hunters, must wear a minimum of a cap or hat that is hunter orange, blaze pink, or other such color as governed by State regulations.
+
+(v) We only allow raccoon to be taken during the State rabbit season.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
 
@@ -228,15 +233,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) You may enter the refuge no earlier than 4 a.m. and must exit no later than 1 hour after legal shooting hours end.
 
-(3) *Big game hunting.* We allow archery hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (f)(1)(i), (iv), and (vii) and (f)(2)(iv) of this section apply.
 
 (ii) Hunters may only hunt big game during designated refuge seasons.
 
-(iii) We prohibit gun deer hunting.
-
-(iv) An adult age 21 or older must supervise a youth hunter age 15 or younger during hunts. One adult may supervise only one youth during big game hunts. The youth hunter must remain within normal voice contact of the supervising adult.
+(iii) An adult age 21 or older must supervise a youth hunter age 15 or younger during hunts. One adult may supervise only one youth during big game hunts. The youth hunter must remain within normal voice contact of the supervising adult.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -246,7 +249,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (g) *Bogue Chitto National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting from1/2 hour before legal sunrise until 12 p.m. (noon), including during the State special teal season and State youth waterfowl hunt.
+(i) We allow hunting from1/2 hour before legal sunrise until 12 p.m. (noon), including during the State special teal season, State youth waterfowl hunt, and special light goose conservation season.
 
 (ii) You must remove blinds and decoys by 1 p.m. each day (see § 27.93 of this chapter).
 
@@ -254,57 +257,61 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) When hunting migratory game birds, you may only use dogs to locate, point, and retrieve game.
 
-(v) Hunters must possess and carry a valid refuge hunt permit (signed refuge brochure).
+(v) Each person age 18 and older while hunting or fishing must possess a valid Annual Public Use Permit (signed brochure).
 
-(vi) An adult age 18 or older must supervise youth hunters age 17 and younger during all hunts. Youth hunter age and hunter education requirements are governed by State regulations. One adult may supervise two youths during small game hunts and migratory bird hunts but is only allowed to supervise one youth during big game hunts. Youths must remain within normal voice contact of the adult who is supervising them. Adult guardians are responsible for ensuring that youth hunters do not violate refuge rules.
+(vi) An adult age 18 or older must supervise youth hunters age 17 and younger during all hunts. Youth hunter age and hunter education requirements are governed by State regulations. One adult may supervise two youths during small game hunts and migratory bird hunts, but is only allowed to supervise one youth during big game hunts. Youths must remain within normal voice contact of the adult who is supervising them. Adult guardians are responsible for ensuring that youth hunters do not violate refuge rules.
 
 (vii) We prohibit hunting or discharge of firearms (see § 27.42 of this chapter) within 150 feet (45.7 meters (m)) from the centerline of any public road, refuge road, designated or maintained trail, building, residence, designated camping area, or designated public facility, or from or across aboveground oil, gas, or electric facilities.
 
-(viii) For the purpose of hunting, we prohibit possession of slugs, buckshot, rifle, and pistol ammunition, except during the deer gun and primitive firearm seasons (see § 32.2(k)).
+(viii) For the purpose of hunting, we prohibit possession of slugs, buckshot, and rifle and pistol ammunition, except during the deer gun and primitive firearm seasons (see § 32.2(k)).
 
 (ix) You may use only reflective tacks as trail markers on the refuge.
+
+(x) We allow the incidental take of feral hog during any open refuge hunting season with weapons approved for that season.
 
 (2) *Upland game hunting.* We allow hunting of squirrel, rabbit, raccoon, and opossum on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs for rabbit, squirrel, raccoon, and opossum hunting on specific dates listed in the refuge hunt brochure.
 
-(ii) We prohibit the take of feral hog during any upland game hunts.
+(ii) During any open deer firearm or primitive firearm season on the refuge, all hunters, except waterfowl hunters and nighttime raccoon and opossum hunters, must wear hunter orange, blaze pink, or other such color as governed by State regulations.
 
-(iii) During any open deer firearm or primitive firearm season on the refuge, all hunters, except waterfowl hunters and nighttime raccoon and opossum hunters, must wear hunter orange, blaze pink, or other such color as governed by State regulations.
+(iii) The conditions set forth at paragraphs (g)(1)(v) through (x) of this section apply, except you may use .22-caliber rifles or smaller, and the nontoxic shot in your possession while hunting must be size 4 or smaller (see § 32.2(k)).
 
-(iv) The conditions set forth at paragraphs (g)(1)(v) through (ix) of this section apply.
+(iv) We will close the refuge to hunting (except waterfowl) and camping when the Pearl River reaches 15.5 feet (4.65 meters) on the Pearl River Gauge at Pearl River, Louisiana.
+
+(v) During the dog season for squirrels and rabbits, all hunters, including archery hunters (while on the ground), except waterfowl hunters, must wear a cap or hat that is hunter-orange, blaze pink, or other such color as governed by State regulations.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, turkey, and feral hog on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (g)(1)(v) through (vii) and (g)(2)(ii) and (iii) of this section apply.
+(i) The conditions set forth at paragraphs (g)(1)(v) through (x) and (g)(2)(ii) through (iv) of this section apply.
 
 (ii) Hunters may erect deer stands 48 hours before the deer archery season and must remove them from the refuge within 48 hours after this season closes (see § 27.93 of this chapter). We allow only one deer stand per hunter on the refuge. Deer stands must have the owner's State license/sportsmen's identification number clearly printed on the stand.
 
-(iii) We allow take of feral hog as incidental game while participating in the refuge archery, primitive weapon, and general gun deer hunts, and where otherwise specified using legal methods of take for the hunt.
+(iii) Deer hunters hunting from concealed blinds must display State Wildlife Management Area (WMA) hunter-orange or blaze-pink (as governed by State WMA regulations) above or around their blinds that is visible from 360 degrees.
 
-(iv) We hold a special dog hog hunt in February. During this hunt, the following conditions apply, in addition to other applicable conditions in this paragraph (g)(3):
+(iv) We hold a special dog hog hunt in February. During this hunt, the following conditions apply, in addition to other applicable conditions in paragraph (g)(3) of this section:
 
 (A) You must use trained hog-hunting dogs to aid in the take of hog.
 
 (B) We allow take of hog from1/2 hour before legal sunrise until1/2 hour after legal sunset.
 
-(C) You must possess only approved nontoxic shot or pistol or rifle ammunition not larger than .22 caliber rim-fire to take the hog after it has been caught by dogs.
-
-(D) The condition set forth at paragraph (g)(1)(viii) of this section applies during the special dog hog hunt.
+(C) You must possess only approved nontoxic shot, or pistol or rifle ammunition not larger than .22 caliber rim-fire to take the hog after it has been caught by dogs.
 
 (v) You must kill all hogs prior to removal from the refuge.
 
 (vi) We prohibit the use of deer and turkey gobbler decoys.
 
-(4) *Sport fishing.* We allow recreational fishing year-round on designated areas of the refuge subject to the following conditions:
+(4) *Sport fishing.* We allow only recreational fishing year-round on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow cotton limb lines.
 
 (ii) We close the fishing ponds at the Pearl River Turnaround to fishing from April through the first full week of June and to boating during the months of April, May, June, and July.
 
-(iii) When the Pearl River Turnaround area is open, we allow boats that do not have gasoline-powered engines attached in the fishing ponds at the Pearl River Turnaround. Anglers must hand-launch these boats into the ponds. When open, we only allow hook and line as a legal method of take in the fishing ponds at the Pearl River Turnaround.
+(iii) When the Pearl River Turnaround area is open, we allow boats that do not have gasoline-powered engines attached in the fishing ponds at the Pearl River Turnaround. Anglers must hand-launch these boats into the ponds. When the fishing ponds at the Pearl River Turnaround are open, hook and line is the only legal method of take in those ponds.
 
 (iv) The Pearl River Turnaround area, when open to fishing, is open1/2 hour before legal sunrise to1/2 hour after legal sunset.
+
+(v) The conditions set forth at paragraphs (g)(1)(x) and (g)(2)(iv) of this section apply.
 
 (h) *Breton National Wildlife Refuge.* (1)-(3) [Reserved]
 
@@ -424,7 +431,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit harvest of frog or turtle on the refuge (see § 27.21 of this chapter).
 
-(k) *Catahoula National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(k) *Catahoula National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We allow migratory hunting of duck, goose, and coot on Tuesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 12 p.m. (noon) during the State season.
 
@@ -444,7 +452,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ix) We prohibit parking, walking, or hunting within 150 feet (45 m) of any active oil and gas facility or equipment.
 
-(x) We allow the use of bright eyes or reflective tape for flagging or trail markers.
+(x) We only allow the use of bright eyes or reflective tape for flagging or trail markers.
 
 (xi) We restrict the use of all-terrain vehicles (ATVs) to designated trails. ATVs are allowed from September 1 through the last day of February. We allow ATVs only for hunting, fishing, and other wildlife-related activities.
 
@@ -466,7 +474,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (k)(1)(v) through (xii) of this section apply.
 
-(ii) We allow deer-modern hunting on the area south of the French Fork of the Little River for 2 days in December with these dates being set annually.
+(ii) We allow deer modern firearm hunting on the area south of the French Fork of the Little River for 2 days in December with these dates being set annually.
 
 (iii) We allow hunting of deer with primitive firearms during the first segment of the State season for area 1, weekdays only (Monday through Friday) and 2 days in December with these dates set annually. We allow either-sex, deer gun hunting for the Friday, Saturday, and Sunday immediately following Thanksgiving Day and for 2 days in December with these dates to be set annually.
 
@@ -618,7 +626,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xiii) Hunters must remove all decoys, blinds, and boats from the hunt area by 1 p.m. (see § 27.93 of this chapter).
 
-(xiv) We allow the use of bright eyes or reflective tape for flagging or trail markers.
+(xiv) We only allow the use of bright eyes or reflective tape for flagging or trail markers.
 
 (2) *Upland game hunting.* We allow hunting of rabbit, raccoon, beaver, nutria, and coyote on designated areas of the refuge subject to the following conditions:
 
@@ -648,7 +656,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (n)(1)(xi) through (xiv) of this section apply.
 
-(ii) We allow fishing within the Coulee Des Grues Bayou only from the bank adjacent to Little California Road and only from legal sunrise to legal sunset.
+(ii) We only allow fishing within the Coulee Des Grues Bayou from the bank adjacent to Little California Road.
 
 (iii) Except as provided under paragraph (n)(4)(ii) of this section, we allow fishing from1/2 hour before legal sunrise to legal sunset. Anglers may enter the refuge no earlier than 4 a.m. and must exit no later than 2 hours after legal sunset for that day.
 
@@ -724,7 +732,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We restrict the use of all-terrain vehicles (ATVs) to designated ATV trails. ATVs are allowed from September 1 to the last day of the spring turkey season. We allow ATVs only for hunting, fishing, and other wildlife-related activities.
 
-(vii) We restrict the use of the ATV trails that are designated for physically challenged persons to individuals who possess a State-issued physically challenged program hunter permit or are age 60 or older. Individuals that qualify must obtain a Special Use Permit (FWS Form 3-1383-G) from the refuge office to use these trails.
+(vii) We restrict the use of the ATV trails that are designated for physically challenged persons to individuals who possess a State-issued physically challenged program hunter permit or are age 60 or older.
 
 (viii) We require hunters age 16 and older to purchase and carry a signed refuge special recreational activity permit (electronic form).
 
@@ -734,7 +742,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xi) Hunters and anglers must enter and exit the refuge only at designated parking areas occurring on the refuge. We prohibit accessing adjacent lands from refuge parking areas or any other part of the refuge.
 
-(xii) We allow the use of bright eyes or reflective tape for flagging or trail markers.
+(xii) We only allow the use of bright eyes or reflective tape for flagging or trail markers.
 
 (2) *Upland game hunting.* We allow hunting of squirrel, rabbit, raccoon, beaver, nutria, and coyote on designated areas of the refuge subject to the following conditions:
 
@@ -798,7 +806,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) Prior to hunting, we must assign a refuge hunt unit and issue a refuge lottery waterfowl permit (signed brochure) to any person entering, using, or occupying the refuge for hunting migratory game birds. You may only hunt in your assigned unit.
 
-(iii) When hunting migratory game birds, you may only use dogs to locate, point, and retrieve.
+(iii) Each person age 18 and older must possess a valid Annual Public Use Permit (signed brochure).
 
 (iv) An adult age 18 or older must supervise youth hunters during all hunts. Youth hunter age and hunter education requirements are governed by State regulations. One adult may supervise two youths during small game and migratory game bird hunts. An adult may supervise only one youth during big game hunts. Youth must remain within normal voice contact of the adult who is supervising them. Parents or adult guardians are responsible for ensuring that hunters age 16 and younger do not violate refuge rules.
 
@@ -932,9 +940,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) An adult age 18 or older must supervise youth hunters age 17 and younger during all hunts. One adult may supervise two youths during small game and migratory bird hunts but may supervise only one youth during big game hunts. Youth must remain within normal voice contact of the adult who is supervising them.
 
+(vi) We allow the incidental take of coyote, beaver, raccoon, and opossum when hunting for migratory bird species with firearms and archery equipment authorized for use.
+
 (2) *Upland game hunting.* We allow hunting of raccoon, squirrel, and rabbit on designated areas of the refuge subject to the following conditions:
 
-(i) We allow nighttime raccoon hunting beginning the third Saturday in December and ending January 31. We allow raccoon hunters to hunt from legal sunset to legal sunrise with the aid of dogs, horses, and mules, and with use of lights. We allow such use of lights on the refuge only at the point of kill. We prohibit all other use of lights for hunting on the refuge. Hunters must attempt to take treed raccoons.
+(i) We allow nighttime raccoon hunting in alignment with Big Lake Wildlife Management Area (WMA).
 
 (ii) We allow the use of dogs when squirrel and rabbit hunting subject to the following conditions:
 
@@ -947,6 +957,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) We close squirrel and rabbit hunting during the following gun hunts for deer: Refuge-wide youth hunt, primitive firearms hunt, and modern firearms hunt.
 
 (iv) The conditions set forth at paragraphs (t)(1)(ii) through (v) of this section apply.
+
+(v) We allow the incidental take of coyote, beaver, raccoon, and opossum when hunting for upland game species with firearms and archery equipment authorized for use.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
 
@@ -973,6 +985,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (xi) We prohibit deer hunters leaving deer stands unattended before the opening day of the refuge archery season. Hunters must remove stands by the end of the last day of the refuge archery season (see § 27.93 of this chapter). Hunters must clearly mark stands left unattended on the refuge with the stand owner's State hunting license number. Hunters must remove portable stands from trees each day and place freestanding stands in a nonhunting position when unattended.
 
 (xii) We allow hunting with slugs, rifle, or pistol ammunition larger than .22 caliber rimfire only during the quota hunts for deer. We prohibit use of buckshot when hunting.
+
+(xiii) We allow the incidental take of coyote, beaver, raccoon, and opossum when hunting for big game species with firearms and archery equipment authorized for use.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -1021,3 +1035,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) Recreational fishing using commercial gear (slat traps, etc.) requires a special refuge permit (Special Use Permit (FWS Form 3-1383-G)), which is available at the refuge office. You must possess and carry the special refuge permit while fishing using commercial gear.
 
 (iv) We prohibit the taking of turtle (see § 27.21 of this chapter).
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54113, Aug. 31, 2020]

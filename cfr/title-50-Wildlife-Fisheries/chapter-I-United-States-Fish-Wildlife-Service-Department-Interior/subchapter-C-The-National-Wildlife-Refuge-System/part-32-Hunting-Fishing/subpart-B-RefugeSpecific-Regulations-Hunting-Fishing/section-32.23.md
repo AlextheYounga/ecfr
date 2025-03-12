@@ -182,21 +182,21 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit the take or possession of turtles and/or mollusks (see § 27.21 of this chapter).
 
-(d) *Dale Bumpers White River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
+(d) *Dale Bumpers White River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl (ducks, mergansers, and coots) on designated areas of the refuge subject to the following conditions:
 
 (i) We require an annual public use permit (signed brochure) to hunt and fish.
 
-(ii) We allow duck hunting from legal shooting hours until 12 p.m. (noon).
+(ii) We allow waterfowl hunting from legal shooting hours until 12 p.m. (noon).
 
 (iii) We allow the use of dogs when migratory game bird hunting.
 
 (iv) You must remove blinds, blind material, and decoys from the refuge by 1 p.m. each day (see § 27.93 of this chapter).
 
-(v) Waterfowl hunters may enter the North Unit no earlier than 8 p.m. the day prior to the hunt. Waterfowl hunters may enter the Jack's Bay Hunt Area and Levee Hunt Area no earlier than 4 a.m.
+(v) Waterfowl hunters may enter the North Unit, Jack's Bay Hunt Area, and Levee Hunt Area no earlier than 4 a.m.
 
 (vi) We prohibit boating from November 1 through January 31 in the South Unit Waterfowl Hunt Areas, except from 4 a.m. to 1 p.m. on designated waterfowl hunt days.
 
-(vii) We allow duck hunting on outlying-tracts; paragraph (d)(1)(v) of this section applies.
+(vii) We allow waterfowl hunting on outlying tracts; paragraph (d)(1)(v) of this section applies.
 
 (viii) We only allow all-terrain vehicles (ATVs) for wildlife-dependent hunting and fishing activities. We prohibit the use of ATVs after December 15 each year in designated South Unit areas as shown in refuge user brochure.
 
@@ -382,7 +382,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the take and possession of turtles and/or mollusks (see § 27.21 of this chapter).
 
-(g) *Overflow National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(g) *Overflow National Wildlife Refuge* - (1) (1) *Migratory game bird hunting.* We allow hunting of American woodcock, duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a refuge public use regulations brochure/access permit (signed brochure) while hunting.
 
@@ -559,3 +559,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (v) Anglers may launch boats only in designated areas.
 
 (vi) Anglers must remove all boats from the refuge at the end of each day's fishing activity (see § 27.93 of this chapter). We prohibit airboats, personal watercraft, and hovercraft.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020]

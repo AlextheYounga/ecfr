@@ -24,27 +24,60 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (a)(1)(iii) of this section applies.
 
-(b) *Buenos Aires National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and mourning, white-winged, and Eurasian-collared dove on designated areas of the refuge subject to the following condition: You must remove temporary blinds, boats, and decoys from the refuge following each day's hunt (see § 27.93 of this chapter).
+(b) *Buenos Aires National Wildlife Refuge* - (1) *Migratory game bird hunting.*We allow hunting of goose, duck, coot, merganser, moorhen (gallinule), common snipe, and mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of black-tailed and antelope jackrabbit, cottontail rabbit, coyote, and hog-nosed, hooded, spotted, and striped skunk on designated areas of the refuge subject to the following condition: You must remove temporary blinds, boats, and decoys from the refuge following each day's hunt (see § 27.93 of this chapter).
+(i) We allow portable or temporary blinds and stands, but you must remove them at the end of each day's hunt (see § 27.93 of this chapter).
 
-(3) *Big game hunting.* We allow hunting of mule and white-tailed deer, javelina, and feral hog on designated areas of the refuge subject to the following condition: You must remove temporary blinds, boats, and decoys from the refuge following each day's hunt (see § 27.93 of this chapter).
+(ii) We prohibit falconry.
+
+(iii) We allow dogs only for the retrieval of birds.
+
+(2) *Upland game hunting.* We allow hunting of black-tailed and antelope jackrabbit; cottontail rabbit; badger; bobcat; coati; kit and gray fox; raccoon; ringtail; coyote; and hog-nosed, hooded, spotted, and striped skunk on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(1)(i) through (iii) of this section apply.
+
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+
+(3) *Big game hunting.* We allow hunting of mule and white-tailed deer, javelina, mountain lion, and feral hog on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(1)(i) and (b)(2)(ii) of this section apply.
+
+(ii) We prohibit the use of dogs when hunting big game.
 
 (4) [Reserved]
 
-(c) *Cabeza Prieta National Wildlife Refuge.* (1)-(2) [Reserved]
-
-(3) *Big game hunting.* We allow hunting of desert bighorn sheep on designated areas of the refuge subject to the following conditions:
+(c) *Cabeza Prieta National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We require hunters to obtain a Barry M. Goldwater Range Entry Permit (Department of Defense form/requirement) from the refuge.
 
-(ii) We require Special Use Permits for all hunters (FWS Form 3-1383-G) and guides (FWS Form 3-1383-C).
+(ii) We prohibit falconry.
+
+(iii) We allow dogs only for the pointing and retrieval of birds.
+
+(iv) We allow hunting only during the late season dove hunt.
+
+(2) *Upland game hunting.* We allow hunting of Gambel's quail, Eurasian collared-dove, desert cottontail rabbit, antelope and black-tailed jackrabbit, coyote, bobcat, and fox in designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (c)(1)(i) through (iii) of this section apply.
+
+(ii) We do not allow wheeled carts in designated Wilderness.
+
+(iii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+
+(3) *Big game hunting.* We allow hunting of desert bighorn sheep, mule deer, and mountain lion on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (c)(1)(i) and (c)(2)(ii) of this section apply.
+
+(ii) We require Special Use Permits for all hunters (FWS Form 3-1383-G), guides (FWS Form 3-1383-C), and stock animals (FWS Form 3-1383-G).
+
+(iii) We prohibit the use of dogs when hunting big game.
 
 (4) [Reserved]
 
-(d) *Cibola National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen (gallinule), common snipe, and mourning and white-winged dove on designated areas of the refuge subject to the following conditions:
+(d) *Cibola National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen (gallinule), common snipe, mourning and white-winged dove, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow shotgun, archery, and crossbow.
+(i) We allow only shotgun and archery.
 
 (ii) Hunters may only hunt during designated days and times.
 
@@ -54,15 +87,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of Gambel's quail and cottontail rabbit on designated areas of the refuge subject to the following conditions:
 
-(i) For cottontail rabbit, we allow only shotgun, archery, crossbow, handgun, rifle, muzzleloader, and bow and arrow.
+(i) For cottontail rabbit, we allow only shotgun, archery, handgun, rifle, and muzzleloader.
 
-(ii) For quail, we allow only shotgun, archery, crossbow, and handgun shooting shot.
+(ii) For quail, we allow only shotgun, archery, and handgun shooting shot.
 
 (iii) You may hunt cottontail rabbit from September 1 through the last day of the respective State's quail season.
 
-(3) *Big game hunting.* We allow hunting of mule deer on designated areas of the refuge subject to the following condition: We allow rifle, shotgun, handgun, muzzleloader, crossbow and archery, except for archery only hunts.
+(3) *Big game hunting.* We allow hunting of mule deer on designated areas of the refuge subject to the following condition: We allow rifle, shotgun, handgun, muzzleloader, and archery, except for archery-only hunts.
 
-(4) *Sport fishing.* We allow sport fishing and frogging subject to the following condition: Cibola Lake is open to fishing and frogging from March 15 through Labor Day.
+(4) *Sport fishing.* We allow sport fishing and frogging subject to the following condition: Cibola Lake is open to fishing and frogging from March 15 through September 30.
 
 (e) *Havasu National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, duck, coot, moorhen (gallinule), goose, and common snipe on designated areas of the refuge subject to the following conditions:
 
@@ -138,7 +171,31 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(h) *San Bernardino National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove on designated areas of the refuge subject to the following condition: We allow the use of dogs while hunting.
+(h) *Leslie Canyon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
+
+(i) We prohibit falconry.
+
+(ii) We prohibit the use of dogs.
+
+(iii) We prohibit pneumatic weapons.
+
+(2) *Upland game hunting.* We allow hunting of Gambel's and scaled quail; cottontail; black-tailed jackrabbit; gray fox; coati; badger; striped, hooded, spotted, and hog-nosed skunk; bobcat; raccoon; ring-tailed cat; and coyote on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (h)(1)(i) through (iii) of this section apply.
+
+(ii) We prohibit night hunting.
+
+(iii) We will allow hunting of these upland game species only when the State season dates overlap with a general or archery State deer and/or javelina hunt season.
+
+(3) *Big game hunting.* We allow hunting of mule deer, white-tailed deer, javelina, and black bear on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (h)(2)(i) and (ii) of this section apply.
+
+(ii) We will allow hunting of black bear only when the State season dates overlap with a general or archery State deer and/or javelina hunt season.
+
+(4) [Reserved]
+
+(i) *San Bernardino National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove on designated areas of the refuge subject to the following condition: We allow the use of dogs while hunting.
 
 (2) *Upland game hunting.* We allow hunting of Gambel's, scaled, and Mearns' quail and cottontail rabbit on designated areas of the refuge subject to the following conditions:
 
@@ -149,3 +206,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) Cottontail rabbit season opens on September 1 and closes on the last day of the State quail season.
 
 (3)-(4) [Reserved]
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54104, Aug. 31, 2020]

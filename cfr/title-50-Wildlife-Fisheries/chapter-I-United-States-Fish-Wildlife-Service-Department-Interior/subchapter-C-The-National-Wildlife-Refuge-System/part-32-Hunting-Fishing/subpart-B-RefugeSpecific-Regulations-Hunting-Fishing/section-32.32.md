@@ -46,7 +46,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We only allow archery equipment when hunting deer in the following areas:
 
-(A) In the controlled waterfowl hunting area;
+(A) In the area west of Division Street and east of Blue Heron Marina;
 
 (B) On all refuge lands north of Illinois State Route 13; and
 
@@ -144,7 +144,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit fishing in the waterfowl hunting area during the waterfowl hunting season.
 
-(e) *Great River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl and coot on designated areas of the refuge subject to the following condition: On the Long Island Division, we allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
+(e) *Great River National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: On the Long Island Division, we allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
 
 (2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following conditions:
 
@@ -158,11 +159,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow only portable tree stands from September 1 through January 31 of each year. You must permanently attach your State-generated hunter identification number in a visible location on the stand. We allow only one tree stand per hunter.
 
-(iii) On the Fox Island and Slim Island Divisions, and the Cherry Box and Hickory Creek Units, we only allow archery deer hunting.
+(iii) On the Fox Island Division, Slim Island Division, Cherry Box Division, and Hickory Creek Division, we only allow archery deer hunting during the Statewide archery season. We prohibit archery hunting during the State firearm season.
 
 (iv) On the Delair Division, we only allow deer hunting during special managed hunts. You must possess and carry a refuge permit (hunt letter) when hunting during special managed hunts.
 
-(v) On the Fox Island Division, Cherry Box Unit, and Hickory Creek Unit, we allow turkey hunting during the State spring season, youth season, and fall archery season.
+(v) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -184,9 +185,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (g) *Kankakee National Wildlife Refuge.* (1) [Reserved]
 
-(2) *Upland game hunting.* We allow hunting of wild turkey on designated areas of the refuge subject to the following condition: For hunting, you may possess only approved nontoxic shot shells while in the field (see § 32.2(k)).
+(2) *Upland game hunting.* We allow hunting of wild turkey on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge.
+(i) For hunting, you may possess only approved nontoxic shot shells while in the field (see § 32.2(k)).
+
+(ii) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (g)(2)(ii) of this section applies.
 
 (4) [Reserved]
 
@@ -200,7 +205,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) *Middle Mississippi River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove boats, blinds, blind materials, stands, decoys, and other hunting equipment from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, and bobwhite quail on designated areas of the refuge.
+(2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following condition: We open the refuge divisions for upland game hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas on the refuge subject to the following conditions:
 
@@ -208,9 +213,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-(iii) We prohibit placing temporary tree stands in dead or dying trees.
-
-(iv) We allow only portable tree stands from September 1 through January 31 of each year. You must permanently attach your State-generated hunter identification number in a visible location on the stand. We allow only one tree stand per hunter.
+(iii) We allow only portable tree stands from September 1 through January 31 of each year. You must permanently attach your State-generated hunter identification number in a visible location on the stand. We allow only one tree stand per hunter.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -222,21 +225,29 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (j) *Port Louisa National Wildlife Refuge.* Refer to § 32.34(f) for regulations.
 
-(k) *Two Rivers National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: Hunters must remove boats, decoys, blinds, and blind materials brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(k) *Two Rivers National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+
+(i) Hunters must remove boats, decoys, blinds, blind materials, stands, and platforms brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(ii) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
 (2) *Upland game hunting.* We allow upland game hunting for wild turkey, small game, furbearers, and nonmigratory game birds on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting from legal sunrise to legal sunset.
+(i) The conditions set forth at paragraphs (k)(1)(i) and (ii) of this section apply.
 
-(ii) We restrict turkey hunting to archery only in the fall and shotgun or archery in the spring.
+(ii) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
-(iii) For wild turkey hunting, you may use or possess only approved nontoxic shot shells while in the field (see § 32.2(k)).
+(iii) We prohibit hunters using rifles or handguns with ammunition larger than .22 caliber rimfire, except they may use black powder firearms up to and including .50 caliber.
+
+(iv) We allow the use of .22 and .17 caliber rimfire lead ammunition for the taking of small game and furbearers during open season.
+
+(v) We allow hunting from legal sunrise to legal sunset.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters must remove all portable hunting stands and blinds from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(i) The condition set forth at paragraph (k)(1)(i) of this section applies.
 
-(ii) We restrict white-tailed deer hunting on the Clarksville Island Division to archery only.
+(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -247,3 +258,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) Anglers must remove boats and all other fishing devices at the end of each day's fishing activity (see § 27.93 of this chapter).
 
 (l) *Upper Mississippi River National Wildlife and Fish Refuge.* Refer to § 32.42(r) for regulations.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020]

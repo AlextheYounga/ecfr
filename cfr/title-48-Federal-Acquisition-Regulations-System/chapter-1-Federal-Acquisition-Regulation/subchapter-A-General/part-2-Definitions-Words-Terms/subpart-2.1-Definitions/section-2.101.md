@@ -1,6 +1,5 @@
-##### 2.101 Definitions. #####
-
-Link to an amendment published at 85 FR 40067, July 2, 2020.
+##### 2.101 Definitions.
+= #####
 
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
@@ -560,17 +559,19 @@ Link to an amendment published at 85 FR 40067, July 2, 2020.
 
 *Micro-purchase* means an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.
 
-*Micro-purchase threshold* means $3,500, except it means -
+*Micro-purchase threshold* means $10,000, except it means -
 
 (1) For acquisitions of construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction), $2,000;
 
-(2) For acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards, $2,500; and
+(2) For acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards, $2,500;
 
 (3) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903) -
 
 (i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
-(ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
+(ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States;
+
+(4) For acquisitions of supplies or services from institutions of higher education (20 U.S.C. 1001(a)) or related or affiliated nonprofit entities, or from nonprofit research organizations or independent research institutes -
 
 *Minority Institution* means an institution of higher education meeting the requirements of Section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k), including a Hispanic-serving institution of higher education, as defined in Section 502(a) of the Act (20 U.S.C. 1101a).
 
@@ -798,7 +799,7 @@ Link to an amendment published at 85 FR 40067, July 2, 2020.
 
 *Simplified acquisition procedures* means the methods prescribed in part 13 for making purchases of supplies or services.
 
-*Simplified acquisition threshold* means $150,000, except for -
+*Simplified acquisition threshold* means $250,000, except for -
 
 (1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), (41 U.S.C. 1903), the term means -
 
@@ -806,7 +807,7 @@ Link to an amendment published at 85 FR 40067, July 2, 2020.
 
 (ii) $1.5 million for any contract to be awarded and performed, or purchase to be made, outside the United States; and
 
-(2) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a humanitarian or peacekeeping operation (10 U.S.C. 2302), the term means $300,000 for any contract to be awarded and performed, or purchase to be made, outside the United States.
+(2) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a humanitarian or peacekeeping operation (10 U.S.C. 2302), the term means $500,000 for any contract to be awarded and performed, or purchase to be made, outside the United States.
 
 *Single, Governmentwide point of entry,* means the one point of entry to be designated by the Administrator of OFPP that will allow the private sector to electronically access procurement opportunities Governmentwide.
 

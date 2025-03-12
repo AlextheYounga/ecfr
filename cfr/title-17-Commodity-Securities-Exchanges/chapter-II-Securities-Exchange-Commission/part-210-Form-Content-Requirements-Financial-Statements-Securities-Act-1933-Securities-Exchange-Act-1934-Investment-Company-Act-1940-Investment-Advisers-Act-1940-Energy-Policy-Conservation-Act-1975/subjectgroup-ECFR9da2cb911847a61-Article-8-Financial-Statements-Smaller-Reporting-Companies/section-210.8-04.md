@@ -1,5 +1,7 @@
 ##### § 210.8-04 Financial statements of businesses acquired or to be acquired. #####
 
+Link to an amendment published at 85 FR 54065, Aug. 31, 2020.
+
 (a) If a business combination has occurred or is probable, financial statements of the business acquired or to be acquired shall be furnished for the periods specified in paragraph (c) of this section:
 
 (1) This encompasses the purchase of an interest in a business accounted for by the equity method.

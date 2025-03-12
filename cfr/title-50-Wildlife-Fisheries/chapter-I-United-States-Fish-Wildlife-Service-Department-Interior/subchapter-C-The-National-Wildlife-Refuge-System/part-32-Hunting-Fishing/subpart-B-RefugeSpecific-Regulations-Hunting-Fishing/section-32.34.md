@@ -74,7 +74,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(c) *Iowa Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district subject to the following conditions:
+(c) *Iowa Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district subject to the following conditions:
 
 (i) We prohibit leaving boats, decoys, or other personal property unattended at any time. You must remove all personal property, which includes boats, decoys, and blinds, brought onto the district at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
@@ -94,21 +94,20 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You must remove all ice fishing shelters and other personal property at the end of each day's fishing (see § 27.93 of this chapter).
 
-(d) *Neal Smith National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(d) *Neal Smith National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow the hunting of dove, duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit all hunting February 1 through August 31 due to conflicts with existing appropriate and compatible uses.
+(i) We allow entry into the refuge 1 hour before legal sunrise and require hunters to leave the refuge no later than 1 hour after legal sunset.
 
-(ii) We allow entry into the refuge 1 hour before legal sunrise and require hunters to leave the refuge no later than 1 hour after legal sunset.
+(ii) We prohibit shooting on or over any refuge road within 50 feet (15 meters) from the centerline.
 
-(iii) We prohibit shooting on or over any refuge road within 50 feet (15 meters) from the centerline.
+(iii) You must possess and carry a refuge permit (free brochure available at the refuge visitor center).
 
-(iv) You must possess and carry a refuge permit (free brochure available at the refuge visitor center).
+(iv) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
-(v) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
+(2) *Upland game hunting.* We allow hunting of ring-necked pheasant, bobwhite quail, pigeon, crow, cottontail rabbit, gray and fox squirrel, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of ring-necked pheasant, bobwhite quail, pigeon, mourning dove, crow, cottontail rabbit, gray and fox squirrel, and fall wild turkey on designated areas of the subject to the following conditions:
-
-(i) The conditions set forth at paragraphs (d)(1)(i) through (v) of this section apply.
+(i) The conditions set forth at paragraphs (d)(1)(i) through (iv) of this section apply.
 
 (ii) You may only possess approved nontoxic shot (see § 32.2(k)) when turkey hunting.
 
@@ -120,7 +119,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(e) *Northern Tallgrass Prairie National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, coot, rail (Virginia and sora only), woodcock, snipe, and dove (mourning and Eurasian collared) on designated areas subject to the following conditions:
+(e) *Northern Tallgrass Prairie National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, coot, rail (Virginia and sora only), woodcock, snipe, and dove (mourning and Eurasian collared) on designated areas subject to the following conditions:
 
 (i) For units adjacent to and managed by Neal Smith National Wildlife Refuge, you must follow the refuge-specific regulations provided in this paragraph (e).
 
@@ -150,7 +149,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the taking of any turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-(f) *Port Louisa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove boats, decoys, and portable blinds at the end of each day (see § 27.93 of this chapter).
+(f) *Port Louisa National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove boats, decoys, and portable blinds at the end of each day (see § 27.93 of this chapter).
 
 (2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following conditions:
 
@@ -172,11 +171,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Anglers must remove boats and all other fishing devices at the end of each day's fishing activity (see § 27.93 of this chapter).
 
-(g) *Union Slough National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, rail (Virginia and sora only), woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(g) *Union Slough National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, rail (Virginia and sora only), woodcock, dove, crow, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunters on the refuge from 1 hour before legal sunrise until 1 hour after legal sunset.
 
-(ii) We allow boats or other floating devices. We allow electric motors only. We prohibit the use of gasoline motors. You may not leave boats unattended.
+(ii) We allow boats or other floating devices when hunting. You may not leave boats unattended.
 
 (iii) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -184,15 +183,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We prohibit hunting on road rights-of-way on any portion of the refuge not open to hunting. The road right-of-way extends to the center of the road.
 
-(2) *Upland game hunting.* We allow hunting of pheasant, gray partridge, cottontail rabbit, squirrel (fox and gray), groundhog, raccoon, opossum, fox, coyote, and crow on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of pheasant, gray partridge, cottontail rabbit, squirrel (fox and gray), groundhog, raccoon, opossum, fox, coyote, and skunk on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit possession of shotgun slugs.
 
-(ii) The conditions set forth at paragraphs (g)(1)(i), (iv), and (v) of this section apply.
+(ii) The conditions set forth at paragraphs (g)(1)(i), (ii), (iv), and (v) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of deer and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (g)(1)(i), (iv), and (v) of this section apply.
+(i) The conditions set forth at paragraphs (g)(1)(i), (ii), (iv), and (v) of this section apply.
 
 (ii) We allow portable tree stands, portable blinds, and freestanding elevated platforms to be left on the refuge from 7 days prior to the first deer hunting season; you must remove them prior to 7 days following the last deer hunting season (see § 27.93 of this chapter). Turkey hunters must remove blinds and stands each day (see § 27.93 of this chapter).
 
@@ -215,3 +214,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) We prohibit the use or possession of lead terminal tackle.
 
 (h) *Upper Mississippi River National Wildlife and Fish Refuge.* Refer to § 32.42(r) for regulations.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54111, Aug. 31, 2020]

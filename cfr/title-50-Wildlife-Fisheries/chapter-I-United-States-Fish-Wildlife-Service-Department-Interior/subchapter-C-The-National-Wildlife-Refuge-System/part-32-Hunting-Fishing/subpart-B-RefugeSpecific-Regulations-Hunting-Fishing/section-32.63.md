@@ -8,13 +8,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow airboats only in Refuge Unit 9 and Block C.
 
-(iii) You may possess only 25 shells while hunting on or within 50 feet (15 m) from the center of Unit 1A or 2C dike.
+(iii) We close for the spring and extended season goose hunts.
 
-(iv) We close for the spring and extended season goose hunts.
+(iv) We prohibit archery hunting on the refuge.
 
-(v) We prohibit archery hunting on the refuge.
-
-(vi) You may enter the refuge 2 hours before legal sunrise and must exit the refuge by 2 hours after legal sunset.
+(v) You may enter the refuge 2 hours before legal sunrise and must exit the refuge by 2 hours after legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following condition: We prohibit hunting or taking of pheasants with a shotgun of any description capable of holding more than three shells, unless it is plugged with a one-piece filler incapable of removal without disassembling the gun so that its total capacity does not exceed three shells.
 
@@ -26,21 +24,29 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You may fish only in designated areas west of the Auto Tour Road access gate from legal sunrise to legal sunset.
 
-(b) *Fish Springs National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, and goose on designated areas of the refuge subject to the following conditions:
+(b) *Fish Springs National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of coot, duck, goose, mourning dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) All hunters must register individually at the visitor information station before entering the open hunting area and must check-out at the same location prior to exiting the refuge.
+(i) We allow the use of dogs when hunting.
 
-(ii) We allow the use of dogs when hunting.
+(ii) You may construct temporary blinds. You must remove all blinds constructed out of materials other than vegetation at the end of each day's hunt (see § 27.93 of this chapter).
 
-(iii) You may construct temporary blinds. You must remove all blinds constructed out of materials other than vegetation at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(iii) We allow the use of small boats (15 feet or less) when hunting. We prohibit gasoline motors and air boats.
 
-(iv) We allow the use of small boats (15 feet or less) when hunting. We prohibit gasoline motors and air boats.
+(iv) You may enter the refuge 2 hours prior to legal sunrise and must exit the refuge by 11/2 hours after legal sunset.
 
-(v) You may enter the refuge 2 hours prior to legal sunrise and must exit the refuge by 11/2 hours after legal sunset. You must remove leave decoys, boats, vehicles, and other personal property on the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+(v) You must remove decoys, boats, vehicles, and other personal property from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
 (vi) We have a special blind area for use by disabled hunters. We prohibit trespass for any reason by any individual not registered to use that area.
 
-(2)-(4) [Reserved]
+(2) *Upland game hunting.* We allow hunting of chukar, desert rabbit, and mountain rabbit on designated areas of the refuge subject to the following conditions:
+
+(i) We close to hunting on January 31.
+
+(ii) We allow the use of dogs when hunting.
+
+(3) *Big game hunting.* We allow hunting of mule deer and pronghorn antelope on designated areas of the refuge subject to the following condition: We only allow archery equipment when hunting big game.
+
+(4) [Reserved]
 
 (c) *Ouray National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, and goose on designated areas of the refuge subject to the following condition: During hunting season, the refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset.
 
@@ -65,3 +71,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (i) You may only fish with the aid of a pole, hook, and line. We prohibit trot lines, bow and arrows, spears, spear guns, cross bows, and firearms.
 
 (ii) You must release unharmed any of the following four endangered fish if caught: Razorback sucker, Colorado pikeminnow, humpback chub, and bonytailed chub.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020]

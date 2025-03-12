@@ -18,7 +18,29 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(c) *Pahranagat National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
+(c) *Fallon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, swan, coot, merganser, snipe, and dove on designated areas of the refuge subject to the following conditions:
+
+(i) We allow motorized and nonmotorized boats for hunting.
+
+(ii) We allow the use of dogs when hunting game birds.
+
+(iii) We allow overnight stays while hunting subject to the following conditions:
+
+(A) You may stay overnight only at designated sites within the refuge boundary.
+
+(B) We limit overnight stays to 4 consecutive nights at one location, and to 12 consecutive nights on the refuge.
+
+(2) *Upland game hunting.* We allow hunting of quail, rabbit, turkey, badger, beaver, and coyote on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (c)(1)(ii) and (iii) of this section apply.
+
+(ii) We allow artificial lighting for hunting coyotes.
+
+(3) *Big game hunting.* We allow hunting of mule deer and pronghorn on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (c)(1)(iii) of this section applies.
+
+(4) [Reserved]
+
+(d) *Pahranagat National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting on designated days.
 
@@ -38,7 +60,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We allow fishing year-round, except that we close the North Marsh to all fishing from October 1 through February 1.
 
-(d) *Ruby Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, moorhen, and common snipe on designated areas of the refuge subject to the following conditions:
+(e) *Ruby Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, moorhen, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may access the refuge from 1 hour before legal sunrise until 2 hours after legal sunset.
 
@@ -56,7 +78,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the possession of live or dead bait fish, any amphibians (including frogs), and crayfish on the refuge.
 
-(e) *Sheldon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow only portable blinds and temporary blinds constructed of synthetic material.
+(f) *Sheldon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow only portable blinds and temporary blinds constructed of synthetic material.
 
 (2) *Upland game hunting.* We allow hunting of quail, grouse, and chukar on designated areas of the refuge.
 
@@ -70,10 +92,30 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(f) *Stillwater National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge.
+(g) *Stillwater National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, swan, coot, merganser, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of upland game species on designated areas of the refuge subject to the following condition: We prohibit hunting after legal sunset.
+(i) We allow the use of dogs when hunting game birds.
 
-(3) *Big game hunting.* We allow hunting of mule deer on designated areas of the refuge subject to the following condition: Hunters must only use shotguns, muzzleloading weapons, or bow and arrow for hunting deer.
+(ii) We allow overnight stays while hunting subject to the following conditions:
+
+(A) You may stay overnight only at designated sites within the refuge boundary.
+
+(B) We limit overnight stays to 4 consecutive nights at one location, and to 12 consecutive nights on the refuge.
+
+(2) *Upland game hunting.* We allow hunting of quail, rabbit, turkey, badger, beaver, and coyote on designated areas of the refuge subject to the following conditions:
+
+(i) Approved methods of take include shotgun and federally approved non-lead shot, bow and arrow, and falconry.
+
+(ii) We allow the use of dogs when hunting.
+
+(iii) The condition set forth at paragraph (g)(1)(ii) of this section applies.
+
+(3) *Big game hunting.* We allow hunting of mule deer and pronghorn on designated areas of the refuge subject to the following conditions:
+
+(i) Approved methods of take include shotgun, muzzle-loading rifle, and bow and arrow.
+
+(ii) The condition set forth at paragraph (g)(1)(ii) of this section applies.
 
 (4) [Reserved]
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020]

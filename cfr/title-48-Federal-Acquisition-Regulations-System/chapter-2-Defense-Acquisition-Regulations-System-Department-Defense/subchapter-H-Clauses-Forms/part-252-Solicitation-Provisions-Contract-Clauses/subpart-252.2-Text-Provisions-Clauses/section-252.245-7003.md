@@ -1,10 +1,10 @@
 ##### 252.245-7003 Contractor Property Management System Administration. #####
 
-As prescribed in 245.107(4), insert the following clause:
+As prescribed in 245.107(5), insert the following clause:
 
 Contractor Property Management System Administration (APR 2012)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Acceptable property management system* means a property system that complies with the system criteria in paragraph (c) of this clause.
 
@@ -20,7 +20,7 @@ Contractor Property Management System Administration (APR 2012)
 
 (2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's property management system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
-(3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning -
+(3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
 (i) Remaining significant deficiencies;
 
@@ -32,4 +32,4 @@ Contractor Property Management System Administration (APR 2012)
 
 (f) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's property management system, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(End of clause)[76 FR 28878, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012]
+(End of clause)[76 FR 28878, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 85 FR 53683, Aug. 31, 2020]

@@ -1,6 +1,6 @@
 ##### § 45.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
-Link to an amendment published at 85 FR 39771, July 1, 2020.Link to an amendment published at 85 FR 39468, July 1, 2020.
+Link to an amendment published at 85 FR 39468, July 1, 2020.
 
 (a) *Authority.* This part is issued under the authority of 7 U.S.C. 6s(e), 12 U.S.C. 1 *et seq.,* 93a, 161, 481, 1818, 3907, 3909, 5412(b)(2)(B), and 15 U.S.C. 78o-10(e).
 
@@ -58,9 +58,15 @@ Link to an amendment published at 85 FR 39771, July 1, 2020.Link to an amendment
 
 (iii) In calculating the amounts in paragraphs (e)(5)(i) and (ii) of this section, an entity shall count the average daily aggregate notional amount of a non-cleared swap, a non-cleared security-based swap, a foreign exchange forward or a foreign exchange swap between the entity and an affiliate only one time, and shall not count a swap or security-based swap that is exempt pursuant to paragraph (d) of this section.
 
-(6) September 1, 2020 with respect to the requirements in § 45.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
+(6) September 1, 2020, with respect to requirements in § 45.3 for initial margin for any non-cleared swaps and non-cleared security-based swaps, where both:
 
-(7) For purposes of determining the date on which a non-cleared swap or a non-cleared security-based swap was entered into, a Covered Swap Entity will not take into account amendments to the non-cleared swap or the non-cleared security-based swap that were entered into solely to comply with the requirements of part 47, subpart I of part 252 or part 382 of Title 12, as applicable.
+(i) The covered swap entity combined with all its affiliates; and
+
+(ii) Its counterparty combined with all its affiliates, have an average daily aggregate notional amount of non-cleared swaps, foreign exchange forwards and foreign exchange swaps for March, April, and May 2020 that exceeds $50 billion, where such amounts are calculated only for business days; and
+
+(iii) In calculating the amounts in paragraphs (e)(6)(i) and (ii) of this section, an entity shall count the average daily aggregate notional amount of a non-cleared swap, a non-cleared security-based swap, a foreign exchange forward or a foreign exchange swap between the entity and an affiliate only one time, and shall not count a swap or security-based swap that is exempt pursuant to paragraph (d) of this section.
+
+(7) September 1, 2021, with respect to requirements in § 45.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
 
 (f) Once a covered swap entity must comply with the margin requirements for non-cleared swaps and non-cleared security-based swaps with respect to a particular counterparty based on the compliance dates in paragraph (e) of this section, the covered swap entity shall remain subject to the requirements of this part with respect to that counterparty.
 
@@ -68,9 +74,9 @@ Link to an amendment published at 85 FR 39771, July 1, 2020.Link to an amendment
 
 (2) If a covered swap entity's counterparty changes its status such that a non-cleared swap or non-cleared security-based swap with that counterparty becomes subject to less strict margin requirements under this part (such as if the counterparty's status changes from a financial end user with material swaps exposure to a financial end user without material swaps exposure), then the covered swap entity may comply with the less strict margin requirements for any non-cleared swap or non-cleared security-based swap entered into with that counterparty after the counterparty changes its status as well as for any outstanding non-cleared swap or non-cleared security-based swap entered into after the applicable compliance date in paragraph (e) of this section and before the counterparty changed its status.
 
-(h) *Legacy swaps.* Covered swaps entities are required to comply with the requirements of this part for non-cleared swaps and non-cleared security-based swaps entered into on or after the relevant compliance dates for variation margin and for initial margin established in paragraph (e) of this section. Any non-cleared swap or non-cleared security-based swap entered into before such relevant date shall remain outside the scope of this part if changes are made to it as follows:
+(h) *Legacy swaps.* Covered swaps entities are required to comply with the requirements of this part for non-cleared swaps and non-cleared security-based swaps entered into on or after the relevant compliance dates for variation margin and for initial margin established in paragraph (e) of this section. Any non-cleared swap or non-cleared security-based swap entered into before such relevant date shall remain outside the scope of this part if amendments are made to the non-cleared swap or non-cleared security-based swap by method of adherence to a protocol, other amendment of a contract or confirmation, or execution of a new contract or confirmation in replacement of and immediately upon termination of an existing contract or confirmation, as follows:
 
-(1) [Reserved]
+(1) Amendments to the non-cleared swap or non-cleared security-based swap solely to comply with the requirements of 12 CFR part 47, 12 CFR part 252 subpart I, or 12 CFR part 382, as applicable;
 
 (2) The non-cleared swap or non-cleared security based swap was amended under the following conditions:
 
@@ -94,4 +100,32 @@ Link to an amendment published at 85 FR 39771, July 1, 2020.Link to an amendment
 
 (B) Such other date permitted by transitional provisions under Article 35 of Commission Delegated Regulation (E.U.) No. 2016/2251, as amended.
 
-[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018; 84 FR 9948, Mar. 19, 2019]Editorial Note:At 84 FR 9948, Mar. 19, 2019, § 45.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).
+(3)(i) Amendments to the non-cleared swap or non-cleared security-based swap that are made solely to accommodate the replacement of:
+
+(A) An interbank offered rate (IBOR) including, but not limited to, the London Interbank Offered Rate (LIBOR), the Tokyo Interbank Offered Rate (TIBOR), the Bank Bill Swap Rate (BBSW), the Singapore Interbank Offered Rate (SIBOR), the Canadian Dollar Offered Rate (CDOR), Euro Interbank Offered Rate (EURIBOR), and the Hong Kong Interbank Offered Rate (HIBOR);
+
+(B) Any other interest rate that a covered swap entity reasonably expects to be replaced or discontinued or reasonably determines has lost its relevance as a reliable benchmark due to a significant impairment; or
+
+(C) Any other interest rate that succeeds a rate referenced in paragraph (h)(3)(i)(A) or (B) of this section. An amendment made under this paragraph (h)(3)(i)(C) could be one of multiple amendments made under this paragraph (h)(3)(i)(C). For example, an amendment could replace an IBOR with a temporary interest rate and later replace the temporary interest rate with a permanent interest rate.
+
+(ii) Amendments to accommodate replacement of an interest rate described in paragraph (h)(3)(i) of this section may also incorporate spreads or other adjustments to the replacement interest rate and make other necessary technical changes to operationalize the determination of payments or other exchanges of economic value using the replacement interest rate, including changes to determination dates, calculation agents, and payment dates. The changes may not extend the maturity or increase the total effective notional amount of the non-cleared swap or non-cleared security-based swap beyond what is necessary to accommodate the differences between market conventions for an outgoing interest rate and its replacement.
+
+(iii) Amendments to accommodate replacement of an interest rate described in paragraph (h)(3)(i) of this section may also be effectuated through portfolio compression between or among covered swap entities and their counterparties. Portfolio compression under this paragraph is not subject to the limitations in paragraph (h)(4) of this section but any non-cleared swaps or non-cleared security-based swaps resulting from the portfolio compression may not have a longer maturity or increase the total effective notional amount more than what is necessary to accommodate the differences between market conventions for an outgoing interest rate and its replacement.
+
+(4) Amendments solely to reduce risk or remain risk-neutral through portfolio compression between or among covered swap entities and their counterparties, as long as any non-cleared swaps or non-cleared security-based swaps resulting from the portfolio compression do not:
+
+(i) Exceed the sum of the total effective notional amounts of all of the swaps that were submitted to the compression exercise that had the same or longer remaining maturity as the resulting swap; or
+
+(ii) Exceed the longest remaining maturity of all the swaps submitted to the compression exercise.
+
+(5) The non-cleared swap or non-cleared security-based swap was amended solely for one of the following reasons:
+
+(i) To reflect technical changes, such as addresses, identities of parties for delivery of formal notices, and other administrative or operational provisions as long as they do not alter the non-cleared swap's or non-cleared security-based swap's underlying asset or reference, the remaining maturity, or the total effective notional amount; or
+
+(ii) To reduce the notional amount, so long as:
+
+(A) All payment obligations attached to the total effective notional amount being eliminated as a result of the amendment are fully terminated; or
+
+(B) All payment obligations attached to the total effective notional amount being eliminated as a result of the amendment are fully novated to a third party, who complies with applicable margin rules for the novated portion upon the transfer.
+
+[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018; 84 FR 9948, Mar. 19, 2019; 85 FR 39771, July 1, 2020]Editorial Note:At 84 FR 9948, Mar. 19, 2019, § 45.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).

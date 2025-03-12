@@ -6,7 +6,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We restrict hunting in the Middle Tract to the following times:
 
-(A) You may hunt only on Tuesdays, Thursdays, and Saturdays during the period when the State seasons that apply to the Middle Tract area are open simultaneously for hunting all of the species allowed.
+(A) You may hunt only on Tuesdays, Thursdays, and Saturdays during the period when the State seasons that apply to the Middle Tract area are open.
 
 (B) You may hunt only until 1 p.m. on each hunt day.
 
@@ -16,11 +16,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the use of dogs when hunting.
 
-(2) *Upland game hunting.* We allow hunting of pheasant, quail (scaled, Gambel's, bobwhite, and Montezuma), Eurasian-collared dove, cottontail, and jack rabbit on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of pheasant, quail (scaled, Gambel's, northern bobwhite, and Montezuma), Eurasian collared-dove, desert cottontail, and black-tailed jackrabbit on designated areas of the refuge subject to the following conditions:
 
 (i) We allow rabbit hunting on the North Tract only during the season that is concurrently open for quail hunting within the State.
 
 (ii) The conditions set forth at paragraphs (a)(1)(i) and (ii) of this section apply.
+
+(iii) We allow Eurasian collared-dove hunting on the North Tract only during the season that is concurrently open for dove hunting within the State.
 
 (3) *Big game hunting.* We allow hunting of mule deer, white-tailed deer, and feral hog on designated areas of the refuge subject to the following conditions:
 
@@ -30,25 +32,33 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Bosque del Apache National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove and light goose on designated areas of the refuge subject to the following conditions:
+(b) *Bosque del Apache National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, white-winged dove, and light goose on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting of light goose on dates to be determined by refuge staff. Hunters must possess a permit available through a lottery drawing (Waterfowl Lottery Application, FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We allow hunting of light goose in the North Special Hunt Area on dates to be determined by refuge staff. Hunters must possess a permit available through a lottery drawing (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
-(ii) You must remove all waterfowl decoys, spent shells, all temporary blinds/stands, and all other personal equipment at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(ii) Hunting hours for mourning and white-winged dove are from1/2 hour before legal sunrise to legal sunset. Hunting hours for light goose are from1/2 hour before legal sunrise to 12:00 p.m. (noon) Mountain Time.
 
-(iii) We allow the use of dogs when hunting.
+(iii) You must remove all spent shells and all other personal equipment at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(iv) We prohibit falconry on the refuge.
+(iv) We allow the use of dogs when hunting.
 
-(2) *Upland game hunting.* We allow hunting of scaled, Gambel's, bobwhite, and Montezuma quail and cottontail rabbit on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(ii) through (iv) of this section apply.
+(v) We prohibit falconry on the refuge.
 
-(3) *Big game hunting.* We allow hunting of mule deer, oryx, and bearded Rio Grande turkey on designated areas of the refuge subject to the following conditions:
+(vi) We allow the use of horses and pack stock in support of hunting in the East Hunt Unit only.
 
-(i) The condition set forth at paragraph (b)(1)(ii) of this section applies.
+(2) *Upland game hunting.* We allow hunting of scaled, Gambel's, northern bobwhite, and Montezuma quail; cottontail rabbit; black-tailed jackrabbit; and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
-(ii) You may hunt on the east side of the Rio Grande only by foot, horseback, or bicycle. Bicycles must stay on designated roads.
+(i) The conditions set forth at paragraphs (b)(1)(iv) through (vi) of this section apply.
 
-(iii) We allow hunting of bearded Rio Grande turkey for youth hunters on weekends April through May. All hunters must fill out FWS Form 3-2439 (Hunt Application - National Wildlife Refuge System) and pay a fee. The permit is available through a lottery drawing. If selected, you must carry your refuge hunt permit (FWS Form 3-2349) at all times during the hunt.
+(ii) Hunting hours are from1/2 hour before legal sunrise to1/2 after legal sunset.
+
+(3) *Big game hunting.* We allow hunting of mule deer, javelina, oryx, and bearded Rio Grande turkey on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(1)(vi) and (b)(2)(ii) of this section apply.
+
+(ii) We allow hunting of bearded Rio Grande turkey for youth hunters in the North Special Hunt Area and South Special Hunt Area during the State-established youth hunt and on weekends April through May during the State-established general spring turkey hunt. All hunters must fill out FWS Form 3-2439 (Hunt Application - National Wildlife Refuge System) and pay a fee. The permit is available through a lottery drawing. If selected, you must carry your refuge hunt permit (FWS Form 3-2439) at all times during the hunt.
+
+(iii) We allow incidental take of feral hog by those legally licensed for, and participating in, other big game hunting activities. You may take feral hog only with a method allowed within each refuge hunt unit. We prohibit the use of dogs for this activity.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -113,3 +123,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iv) We open to Eurasian collared-dove hunting only during the State South Zone mourning and white-winged dove season.
 
 (3)-(4) [Reserved]
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54127, Aug. 31, 2020]

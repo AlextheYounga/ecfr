@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Boyer Chute National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(a) *Boyer Chute National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may access the refuge from 2 hours before legal sunrise until 2 hours after legal sunset along the immediate shoreline and including the high bank of the Missouri River. You may access the hunting area by water or, if by land, only within the public use area of the Island Unit.
 
@@ -34,112 +34,164 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) Anglers may use no more than two lines and two hooks per line.
 
-(b) *Crescent Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl and coot on designated areas of the refuge subject to the following conditions:
+(b) *Crescent Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, dove, duck, goose, merganser, rail, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters may enter the designated hunting area 2 hours before legal sunrise and must be back to their vehicle in the process of leaving the refuge 2 hours after legal sunset. Official shooting hours are from1/2 hour before legal sunrise until1/2 hour after legal sunset for deer, coyote, and furbearer hunters; and from1/2 hour before legal sunrise until legal sunset for all other hunters.
+(i) Hunters may access the refuge from 2 hours before legal sunrise until 2 hours after legal sunset.
 
-(ii) When hunting migratory game birds and upland game, you may only use dogs to locate, point, and retrieve.
+(ii) We allow the use of dogs.
 
-(iii) We open the refuge to hunting from September 1 through January 31.
+(iii) We open the refuge to hunting from September 1 through March 15.
 
 (iv) We prohibit publicly organized hunts unless authorized under a Special Use Permit (FWS Form 3-1383-C).
 
-(v) We only allow floating blinds on Island Lake.
-
-(2) *Upland game hunting.* We allow hunting of cottontail rabbit, jack rabbit, furbearer, coyote, ring-necked pheasant, and prairie grouse on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of cottontail and jack rabbit, coyote, porcupine, prairie dog, State-defined furbearers, ring-necked pheasant, and prairie grouse on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (b)(1)(i) through (iv) of this section apply.
 
 (ii) We allow electronic calls for coyote and furbearer hunting.
 
-(iii) Coyotes and all furbearers or their parts, if left in the field, must be left at least 50 yards away from any road, trail, or building. Otherwise, hunters must remove them from the refuge (see §§ 27.93 and 27.94 of this chapter).
+(iii) Coyotes and all furbearers or their parts, if left in the field, must be left at least 50 yards away from any road, trail, or building. Otherwise, hunters must remove them from the refuge.
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer and mule deer on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(i) and (iv) of this section apply.
+(iv) Shooting hours are from1/2 hour before legal sunrise until1/2 hour after legal sunset.
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer, mule deer, and pronghorn antelope on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(i), (iii), and (iv) of this section apply.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
 (i) Anglers may enter the refuge 1 hour before legal sunrise and remain until 1 hour after legal sunset.
 
-(ii) We open Island Lake to fishing year-round and open Smith and Crane Lakes to fishing seasonally from November 1 through February 15. We close all other refuge lakes to fishing.
+(ii) We open Blue, Smith, Crane, and Island Lake to fishing year-round. We close all other refuge lakes to fishing.
 
 (iii) We prohibit leaving temporary shelters used for fishing overnight on the refuge.
 
-(c) *Fort Niobrara National Wildlife Refuge.* (1)-(2) [Reserved]
+(c) *Fort Niobrara National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, dark goose, dove, duck, light goose, rail, snipe, teal, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of deer and elk on designated areas of the refuge subject to the following conditions:
+(i) Hunters and anglers may access the refuge from 2 hours before legal sunrise until 2 hours after legal sunset.
 
-(i) We require the submission of a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). You must possess and carry a signed refuge hunt permit (signed brochure) when hunting. We require hunters to complete a Big Game Harvest Report (FWS Form 3-2359) and return it to the refuge at the conclusion of the hunting season.
+(ii) We allow access from designated areas of the refuge.
 
-(ii) We allow hunting with muzzleloader and archery equipment. We prohibit hunting with firearms capable of firing cartridge ammunition.
+(iii) You must remove all blinds and decoys at the conclusion of each day's hunt (see § 27.93 of this chapter).
 
-(iii) We allow hunter access from 2 hours before legal sunrise until 2 hours after legal sunset.
+(iv) We allow the use of dogs when hunting August 1 through April 30.
 
-(iv) We allow horses within the wilderness area. We limit horse use to three groups at a time and no more than five horses per group. We limit horse access to the wilderness area via the wilderness overlook or the refuge corrals and buffalo bridge.
+(2) *Upland game hunting.* We allow hunting of badger, bobcat, coyote, fox, long-tailed weasel, mink, opossum, prairie dog, porcupine, rabbit, hare, raccoon, skunk, squirrel, woodchuck, State-defined furbearers, greater prairie chicken, grouse, partridge, pheasant, quail, and turkey on designated areas of the refuge subject to the following conditions:
 
-(v) We prohibit leaving tree stands and ground blinds in the same location for more than 7 consecutive days. You may put up tree stands, elevated platforms, and ground blinds, but no earlier than opening day of deer season; you must remove them by the last day of deer season (see § 27.93 of this chapter).
+(i) The conditions set forth at paragraphs (c)(1)(i), (ii), and (iv) of this section apply.
 
-(vi) We prohibit hunting during the Nebraska November Firearm Deer Season.
+(ii) We allow hunting with muzzleloader, archery, shotgun, and falconry.
 
-(4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
+(iii) You may only possess nontoxic shot when hunting turkey (see § 32.2(k)).
 
-(i) We prohibit the use of limb or set lines.
+(iv) Shooting hours for coyote, prairie dog, porcupine, woodchuck, and State-defined furbearers are1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
-(ii) We prohibit the take of baitfish, reptiles, and amphibians (see § 27.21 of this chapter).
+(3) *Big game hunting.* We allow hunting of deer, elk, and pronghorn antelope on designated areas of the refuge subject to the following conditions:
 
-(iii) We prohibit use or possession of alcoholic beverages while fishing on refuge lands and waters.
+(i) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
 
-(d) *North Platte National Wildlife Refuge.* (1) [Reserved]
+(ii) We allow hunting only with muzzleloader and archery equipment.
 
-(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, pheasant, furbearers (as governed by State definitions), and coyote on designated areas of the refuge subject to the following conditions:
+(iii) We allow portable tree stands and ground blinds to be used from August 16 through January 31.
 
-(i) We close the Lake Alice Unit to all public entry from October 15 through January 14.
+(iv) We allow muzzleloader deer hunting subject to the following condition: Hunters must possess a refuge hunt permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) and comply with all of its terms and conditions.
+
+(4) *Sport fishing.* We allow fishing on Minnechaduza Creek and on the Niobrara River, downstream from the Cornell Dam, subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
+
+(ii) We prohibit the use of limb or set lines.
+
+(iii) We prohibit the take of baitfish, reptiles, and amphibians.
+
+(iv) We prohibit use or possession of alcoholic beverages while fishing on refuge lands and waters.
+
+(d) *John W. and Louise Seier National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, dark goose, dove, duck, light goose, merganser, rail, snipe, teal, and woodcock on designated areas of the refuge subject to the following conditions:
+
+(i) Hunters may access the refuge from 2 hours before legal sunrise until 2 hours after legal sunset.
+
+(ii) You must remove all blinds and decoys at the conclusion of each day's hunt (see § 27.93 of this chapter).
+
+(iii) We allow the use of dogs August 1 through April 31.
+
+(2) *Upland game hunting.* We allow hunting of badger, bobcat, coyote, fox, long-tailed weasel, mink, opossum, prairie dog, porcupine, rabbit, hare, raccoon, skunk, squirrel, woodchuck, State-defined furbearers, greater prairie chicken, grouse, partridge, pheasant, quail, and turkey on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (d)(1)(i) and (iii) of this section apply.
+
+(ii) You may only possess nontoxic shot when hunting turkey (see § 32.2(k)).
+
+(iii) Shooting hours for coyote, prairie dog, porcupine, woodchuck, and State-defined furbearers are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+
+(3) *Big game hunting.* We allow hunting of deer, elk, and pronghorn antelope on designated areas of the refuge subject to the following conditions:
+
+(i) The condition set forth at paragraph (d)(1)(i) of this section applies.
+
+(ii) We allow portable tree stands and ground blinds to be used from August 16 through January 31.
+
+(4) [Reserved]
+
+(e) *North Platte National Wildlife Refuge.* (1) [Reserved]
+
+(2) *Upland game hunting.* We allow youth hunting of pheasant, porcupine, prairie dog, rabbit, State-defined furbearers, squirrel, turkey, and coyote on designated areas of the refuge subject to the following conditions:
+
+(i) We close the Lake Alice Unit to all public entry from November 1 through January 14, and we close the Minatare and Winters Creek Units to all public entry from October 15 through January 14.
 
 (ii) Hunters must be 15 years of age or younger (“youth hunters”). A licensed hunter 19 years of age or older (“adult guide”) must accompany youth hunters. Adult guides must not hunt or carry firearms.
 
-(iii) We close the refuge to public use from legal sunset to legal sunrise. However, youth hunters and their adult guides may enter the designated hunting area 1 hour prior to legal sunrise.
+(iii) We close the refuge to public use from legal sunset to legal sunrise. Youth hunters and adult guides may enter the designated hunting area 1 hour prior to legal sunrise.
 
-(iv) We only allow the use of dogs for pheasant hunting on the refuge.
+(iv) We allow the use of dogs for hunting upland game.
 
 (3) *Big game hunting.* We allow archery hunting of mule deer and white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (d)(2)(i) of this section applies.
+(i) The condition set forth at paragraph (e)(2)(i) of this section applies.
 
 (ii) We close the refuge to public use from legal sunset to legal sunrise. However, archery deer hunters may enter the designated hunting area 1 hour prior to legal sunrise and remain until 1 hour after legal sunset.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(e) *Rainwater Basin Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following conditions:
+(f) *Rainwater Basin Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following conditions:
 
 (i) We allow the use of dogs when hunting, except that we prohibit hunting with dogs from May 1 to July 31.
 
 (ii) We prohibit exercising, running, or training dogs from May 1 to July 31.
 
-(2) *Upland game hunting.* We allow upland game hunting on designated areas of the district subject to the following condition: The conditions set forth at paragraphs (e)(1)(i) and (ii) of this section apply.
+(2) *Upland game hunting.* We allow upland game hunting on designated areas of the district subject to the following condition: The conditions set forth at paragraphs (f)(1)(i) and (ii) of this section apply.
 
-(3) *Big game hunting.* We allow big game hunting on designated areas of the district subject to the following condition: The conditions set forth at paragraphs (e)(1)(i) and (ii) of this section apply.
+(3) *Big game hunting.* We allow big game hunting on designated areas of the district subject to the following condition: The conditions set forth at paragraphs (f)(1)(i) and (ii) of this section apply.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district.
 
-(f) *Valentine National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl and coot on designated areas of the refuge subject to the following conditions:
+(g) *Valentine National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, dove, dark goose, duck, light goose, merganser, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunter access from 2 hours before legal sunrise to 2 hours after legal sunset.
 
-(ii) When hunting migratory game birds, you may only use dogs to locate, point, and retrieve.
+(ii) We allow the use of dogs.
 
-(2) *Upland game hunting.* We allow hunting of sharp-tailed grouse, prairie chicken, ring-necked pheasant, dove, and coyote on designated areas of the refuge subject to the following conditions:
+(iii) We prohibit shooting from a motor vehicle or across any refuge roadway or right-of-way.
 
-(i) The condition set forth at paragraph (f)(1)(i) of this section applies.
+(iv) You must remove all blinds and decoys at the conclusion of each day's hunt (see § 27.93 of this chapter).
 
-(ii) We allow coyote hunting from September 1 to March 31. Shooting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(2) *Upland game hunting.* We allow hunting of cottontail rabbit, coyote, partridge, prairie chicken, quail, ring-neck pheasant, State-defined furbearers, sharp-tailed grouse, squirrel, and turkey on designated areas of the refuge subject to the following conditions:
 
-(iii) When hunting upland game, you may only use dogs to locate, point, and retrieve, except that we prohibit the use of dogs to hunt coyotes.
+(i) The conditions set forth at paragraphs (g)(1)(i) through (iv) of this section apply.
+
+(ii) We allow coyote and State-defined furbearer hunting from September 1 to March 31. Shooting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+
+(iii) We prohibit the use of dogs to hunt coyotes.
 
 (iv) We prohibit the use of bait to hunt coyotes.
 
-(3) *Big game hunting.* We allow hunting of white-tailed and mule deer on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (f)(1)(i) of this section applies.
+(v) You may only possess nontoxic shot when hunting turkey (see § 32.2(k)).
+
+(3) *Big game hunting.* We allow hunting of elk, white-tailed deer, mule deer, and pronghorn antelope on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (g)(1)(i) and (iii) of this section apply.
+
+(ii) We allow portable tree stands and ground blinds to be used from August 16 through January 31.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
 (i) Anglers may enter the refuge 1 hour before legal sunrise and remain 11/2 hours after legal sunset.
 
 (ii) We prohibit the take of reptiles, amphibians, and minnows (see § 27.21 of this chapter), with the exception that you may take bullfrogs on refuge lakes open to fishing.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020]

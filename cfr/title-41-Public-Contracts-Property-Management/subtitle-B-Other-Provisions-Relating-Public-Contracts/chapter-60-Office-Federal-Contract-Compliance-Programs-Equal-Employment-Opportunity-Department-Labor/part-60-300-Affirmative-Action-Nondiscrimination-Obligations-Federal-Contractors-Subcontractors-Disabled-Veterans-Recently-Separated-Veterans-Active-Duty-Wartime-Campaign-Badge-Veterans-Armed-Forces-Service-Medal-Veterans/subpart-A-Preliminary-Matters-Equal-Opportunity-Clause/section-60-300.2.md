@@ -1,7 +1,5 @@
 ##### § 60-300.2 Definitions. #####
 
-Link to an amendment published at 85 FR 39846, July 2, 2020.
-
 For the purpose of this part:
 
 (a) *Act* means the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended, 38 U.S.C. 4212, also referred to throughout this regulation as “VEVRAA.”
@@ -144,11 +142,19 @@ For the purpose of this part:
 
 (w) *Secretary* means the Secretary of Labor, United States Department of Labor, or his or her designee.
 
-(x) *Subcontract* means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
+(x) *Subcontract.* (1) Subcontract means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
 
-(1) For the purchase, sale or use of personal property or nonpersonal services (including construction) which, in whole or in part, is necessary to the performance of any one or more contracts; or
+(i) For the purchase, sale or use of personal property or nonpersonal services which, in whole or in part, is necessary to the performance of any one or more contracts; or
 
-(2) Under which any portion of the contractor's obligation under any one or more contracts is performed, undertaken, or assumed.
+(ii) Under which any portion of the contractor's obligation under any one or more contracts is performed, undertaken, or assumed; and
+
+(2) Does not include an agreement between a health care provider and a health organization under which the health care provider agrees to provide health care services or supplies to natural persons who are beneficiaries under TRICARE.
+
+(i) An agreement means a relationship between a health care provider and a health organization under which the health care provider agrees to provide health care services or supplies to natural persons who are beneficiaries under TRICARE.
+
+(ii) A health care provider is a physician, hospital, or other individual or entity that furnishes health care services or supplies.
+
+(iii) A health organization is a voluntary association, corporation, partnership, managed care support contractor, or other nongovernmental organization that is lawfully engaged in providing, paying for, insuring, or reimbursing the cost of health care services or supplies under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, network agreements, health benefits plans duly sponsored or underwritten by an employee organization or association of organizations and health maintenance organizations, or other similar arrangements, in consideration of premiums or other periodic charges or payments payable to the health organization.
 
 (y) *Subcontractor* means any person holding a subcontract of $100,000 or more and, for the purposes of subpart D of this part, “General Enforcement and Complaint Procedures,” any person who has held a subcontract subject to the Act.
 
@@ -171,3 +177,5 @@ For the purpose of this part:
 (bb) *United States,* as used in this part, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
 
 (cc) *Veteran* means a person who served in the active military, naval, or air service of the United States, and who was discharged or released therefrom under conditions other than dishonorable.
+
+[78 FR 58662, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020]

@@ -1,5 +1,7 @@
 ##### § 210.5-01 Application of §§ 210.5-01 to 210.5-04. #####
 
+Link to an amendment published at 85 FR 54064, Aug. 31, 2020.
+
 Sections 210.5-01 to 210.5-04 shall be applicable to financial statements filed for all persons except -
 
 (a) Registered investment companies (see §§ 210.6-01 to 210.6-10).

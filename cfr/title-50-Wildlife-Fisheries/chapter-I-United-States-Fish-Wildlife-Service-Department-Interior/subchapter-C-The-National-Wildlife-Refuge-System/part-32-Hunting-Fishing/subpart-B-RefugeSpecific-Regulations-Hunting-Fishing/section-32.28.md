@@ -4,55 +4,99 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (a) *Arthur R. Marshall Loxahatchee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge waterfowl hunt permit (signed brochure) while hunting.
+(i) You must possess and carry a signed current refuge hunt permit (signed brochure) while hunting. You must have on your person all applicable licenses and permits.
 
-(ii) We do not open to hunting on Mondays, Tuesdays, and Christmas Day.
+(ii) We prohibit hunting from all refuge structures, canals, and levees; within1/2 mile of canoe trails, campsites, and boat ramps; and in areas posted as closed. We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130. We allow nonmotorized vessels in the Refuge Interior. We allow only one motorized vessel per party.
 
-(iii) We allow hunting on the refuge from1/2 hour before legal sunrise to 1 p.m. Hunters may enter the refuge no earlier than 4 a.m. and must be off the refuge by 3 p.m.
+(iii) Hunters may only enter and leave the refuge at designated entrances.
 
-(iv) Hunters may only enter and leave the refuge at the Headquarters Area (Boynton Beach) and the Hillsboro Area (Boca Raton).
+(iv) We allow only temporary blinds of native vegetation.
 
-(v) We allow only temporary blinds of native vegetation.
+(v) Hunters must remove decoys and other personal property from the hunting area at the end of each day's hunt (see § 27.93 of this chapter).
 
-(vi) Hunters must remove decoys and other personal property from the hunting area at the end of each day's hunt (see § 27.93 of this chapter).
+(vi) Hunters may only use boats equipped with factory-manufactured, water-cooled outboard motors; boats with electric motors; and nonmotorized boats. We prohibit boats with air-cooled engines, fan boats, hovercraft, and personal watercraft (jet skis, jet boats, wave runners, etc.). We allow airboats by permit only (Special Use Permit (FWS Form 3-1383-G)). We will issue airboat permits through a separate lottery. There is a 35 miles per hour (mph) speed limit in all waters of the refuge. A 500-foot (150-meter) “idle speed zone” is at each of the refuge's three boat ramps.
 
-(vii) Hunters must complete a Migratory Bird Hunt Report (FWS Form 3-2361) and place it in an entrance fee canister each day prior to exiting the refuge.
+(vii) Hunters operating boats in the Refuge Interior, outside of the perimeter canal, are required to display a 10-inches by 12-inches (25-centimeters by 30-centimeters) orange flag 10 feet (3 meters) above the vessel's waterline.
 
-(viii) All youth hunters age 15 and younger must be supervised by a licensed and permitted adult age 21 or older, and must remain with the adult while hunting. Youth hunters must have completed a hunter education course.
+(viii) We will allow the use of airboats for a limited number of duck and coot hunters by permit (Special Use Permit (FWS Form 3-1383-G)) during Phase 2 of the State duck and coot season only. We will issue airboat permits through a separate lottery. Contact the Refuge headquarters for airboat permitting information.
+
+(ix) Motorized vessels used while hunting must be stopped and shut off for 15 minutes prior to shooting. Permitted motorized vessels must be in place 1 hour before legal sunrise and not move until 1 hour after legal sunrise.
+
+(x) All hunters must leave the hunt area once their bag/tag limit has been reached.
+
+(xi) We prohibit unrestricted airboat travel not associated with hunting.
+
+(xii) All hunters younger than age 18 must be supervised by a licensed and permitted adult age 21 or older, and must remain with the adult while hunting. Hunters younger than age 18 must have completed a hunter education course.
+
+(xiii) No entry and/or limited activity buffer zones or closures may be created to protect endangered or threatened species and other species.
+
+(xiv) Licenses, permits, equipment, and effects and vehicles, vessels, and other conveyances are subject to inspection by law enforcement officers.
 
 (2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of alligator on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of alligator, white-tailed deer, and feral hog on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge alligator hunt permit (signed brochure) while hunting.
+(i) The conditions set forth at paragraphs (a)(1)(i) and (iii), (v) through (vii), and (x) and (xi) of this section apply.
 
-(ii) We allow hunting on the refuge 1 hour before sunset on Friday night through 1 hour after sunrise Saturday morning, and 1 hour before sunset on Saturday night through 1 hour after sunrise Sunday morning. We allow alligator hunting the first 2 weekends during Harvest Period 1 (August) and the first 2 weekends during Harvest Period 2 (September). Following the close of Harvest Period 2, the remaining weekends in October will be open for alligator harvest permittees who possess unused CITES tags (OMB Control No. 1018-0093). We provide specific dates for the alligator hunt on the harvest permit.
+(ii) We prohibit hunting from all refuge structures and levees; within1/2 mile of canoe trails, campsites, and boat ramps; and in areas posted as closed. We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130. We allow alligator hunting in the Motorized Zone and perimeter canal south of latitude line 26°27.130. We allow nonmotorized vessels in the Refuge Interior. We allow only one motorized vessel per party.
 
-(iii) Youth age 17 and younger may not hunt, but may only accompany an adult age 21 or older who possesses an Alligator Trapping Agent License (state-issued).
+(iii) We allow alligator hunting on the refuge 1 hour before legal sunset on Friday night through 1 hour after legal sunrise Saturday morning, and 1 hour before legal sunset on Saturday night through 1 hour after legal sunrise Sunday morning. We allow alligator hunting the first two weekends during Harvest Period 1 (August) and the first two weekends during Harvest Period 2 (September). Following the close of Harvest Period 2, the remaining weekends in October will be open for alligator harvest permittees who possess unused CITES tags (OMB Control No. 1018-0093). Specific dates for the alligator hunt are on the harvest permit issued by the State.
 
-(iv) Hunters may only enter and leave the refuge at the Hillsboro Area (Loxahatchee Road, Boca Raton).
+(iv) Alligator hunters age 18 and older must be in possession of all necessary State and Federal licenses, permits, and CITES tags, as well as a signed refuge hunt permit (signed brochure) while hunting on the refuge. They must possess an Alligator Trapping License with CITES tag or an Alligator Trapping Agent License (State-issued), if applicable.
 
-(v) You may take alligators using hand-held snares, harpoons, gigs, snatch hooks, artificial lures, manually operated spears, spear guns, and crossbows. We prohibit the taking of alligators using baited hooks, baited wooden pegs, or firearms. We allow the use of bang sticks (a hand-held pole with a pistol or shotgun cartridge on the end in a very short barrel) with approved nontoxic ammunition (see § 32.2(k)) only for taking alligators attached to a restraining line. Once an alligator is captured, it must be killed immediately. We prohibit catch-and-release of alligators. Once the alligator is dead, you must lock a CITES tag through the skin of the carcass within 6 inches (15.2 centimeters) of the tip of the tail. The tag must remain attached to the alligator at all times.
+(v) Persons younger than age 18 may not hunt but may only accompany an adult age 21 or older who possesses an Alligator Trapping Agent License (State-issued).
 
-(vi) Hunters must remove all personal property from the hunting area at the end of each day's hunt (see § 27.93 of this chapter).
+(vi) You may take alligators using hand-held snare, harpoon, gig, snatch hook, artificial lure, manually operated spear, spear gun, or crossbow. We prohibit the taking of alligators using baited hook, baited wooden peg, or firearm. We allow the use of bang sticks (a hand-held pole with a pistol or shotgun cartridge on the end in a very short barrel) with approved nontoxic ammunition (see § 32.2(k)) only for taking alligators attached to a restraining line. Once an alligator is captured, it must be killed immediately. We prohibit catch-and-release of alligators. Once the alligator is dead, you must lock a CITES tag through the skin of the carcass within 6 inches (15.2 centimeters) of the tip of the tail. The tag must remain attached to the alligator at all times.
 
-(vii) We allow only one vessel per hunting group or party.
+(vii) We allow the use of airboats for a limited number of alligator hunters by permit (Special Use Permit (FWS Form 3-1383-G)). Airboat permits will be issued through a separate lottery. Contact the refuge headquarters for airboat permitting information.
 
-(viii) We allow only temporary blinds of native vegetation.
+(viii) Alligators must remain in whole condition while on refuge lands.
+
+(ix) We allow a limited quota permit for the taking of white-tailed deer and incidental take of feral hog in the Refuge Interior, by airboat (requires Special Use Permit (FWS Form 3-1383-G)) and nonmotorized vessels only. Airboat access will be for deer hunt permit holders only.
+
+(x) White-tailed deer and feral hog hunters age 18 and older must be in possession of all necessary State and Federal licenses, permits, as well as a current refuge hunt permit (signed brochure) while hunting on the refuge.
+
+(xi) We have limited quota and specialty hunts for the taking of white-tailed deer, and incidental take of feral hogs during the deer hunts on the Strazzulla Marsh and the Cypress Swamp.
+
+(xii) Motorized vessels used while deer hunting must be stopped and shut off for 15 minutes prior to shooting. Permitted motorized vessels must be in place 1 hour before legal sunrise and not move until 1 hour after legal sunrise.
+
+(xiii) We close the Refuge Interior to all other uses during the limited quota white-tailed deer hunt in the Refuge Interior.
+
+(xiv) White-tailed deer hunters younger than age 18 must be supervised by a licensed and permitted adult age 21 or older, and must remain with the adult while hunting. Hunters younger than age 18 must have completed a hunter education course.
+
+(xv) We prohibit the use of dogs for the take or attempt to take of white-tailed deer and feral hogs. We allow the use of dogs for blood trailing only.
+
+(xvi) We require nontoxic ammunition (see § 32.2(k)) when deer hunting on the refuge.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow the use of rods and reels and poles and lines, and anglers must attend them at all times.
+(i) We allow fishing on all areas of the refuge, except those areas posted as closed to fishing or closed to the public.
 
-(ii) We prohibit the taking of frogs and turtles (see § 27.21 of this chapter).
+(ii) Anglers may only use boats equipped with factory-manufactured-water-cooled outboard motors, boats with electric motors, and nonmotorized boats. We prohibit boats with air-cooled engines, fan boats, hovercraft, and personal watercraft (jet skis, jet boats, wave runners, etc.). We allow the use of airboats by permit only (Special Use Permit (FWS Form 3-1383-G)). Airboat permits will be issued through a separate lottery. Contact the refuge headquarters for airboat permitting information.
 
-(iii) We allow 12 fishing tournaments a year by Special Use Permit only (General Activities - Special Use Permit Application, FWS Form 3-1383-G).
+(iii) We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130, and perimeter canal. We allow only nonmotorized vessels in the Non Motorized Watercraft Zone, northern portion of Refuge Interior.
 
-(iv) We prohibit the possession or use of cast nets, seines, trot lines, jugs, gigs, and other fishing devices.
+(iv) Anglers operating boats in the Refuge Interior, outside of the perimeter canal, are required to display a 10-inches by 12-inches (25 cm x 30 cm) orange flag 10-feet (3 meters) above the vessel's waterline.
 
-(v) Anglers may only launch boats at the Headquarters Area (Boynton Beach), the Hillsboro Area (Boca Raton), and 20 Mile Bend (West Palm Beach).
+(v) We only allow the use of rods and reels and poles and lines, and anglers must attend them at all times. We prohibit the possession or use of cast nets, seines, trot lines, jugs, and other fishing devices.
 
-(vi) All youth anglers age 15 and younger must be supervised by a licensed and permitted adult age 21 or older, and must remain with the adult while fishing.
+(vi) We allow frog gigging, bow fishing, and fish gigging in all areas open to sport fishing, except in the A, B, and C Impoundments and Strazzulla Marsh.
+
+(vii) We prohibit frog gigging, bow fishing, and fish gigging from structures and from within1/2 mile of refuge boat ramps, campsites, and canoe trails, and in areas posted as closed.
+
+(viii) We allow the taking of frogs from July 16 through March 15 of each year.
+
+(ix) The daily bag limit for frogs is 50 frogs per vessel or party.
+
+(x) Fish and frogs must remain in whole condition while on refuge lands.
+
+(xi) Frogs may only be taken by gig, blowgun, or hook and line, or by hand.
+
+(xii) We limit frogging or fishing by airboat to nonhunting airboat permittees only.
+
+(xiii) We prohibit commercial fishing, including unpermitted commercial guiding, and the taking of turtles and other wildlife (see § 27.21 of this chapter).
+
+(xiv) We allow 17 fishing tournaments a year by Special Use Permit only (General Activities - Special Use Permit Application, FWS Form 3-1383-G).
 
 (b) *Cedar Keys National Wildlife Refuge.* (1)-(3) [Reserved]
 
@@ -110,7 +154,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing year-round on designated areas of the refuge subject to the following condition: Anglers may only use two poles per angler and must attend both poles at all times.
 
-(e) *Hobe Sound National Wildlife Refuge.* (1)-(3) [Reserved]
+(e) *Everglades Headwaters National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
+
+(2) *Upland game hunting.* We allow upland game hunting on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
+
+(3) *Big game hunting.* We allow big game hunting on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
+
+(f) *Hobe Sound National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -122,7 +174,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow only two poles per angler, and anglers must attend those poles at all times in conjunction with the Martin County, Florida, two-pole ordinance.
 
-(f) *J. N. “Ding” Darling National Wildlife Refuge.* (1)-(3) [Reserved]
+(g) *J. N. “Ding” Darling National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing and crabbing in designated areas of the refuge subject to the following conditions:
 
@@ -138,7 +190,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit the use of bows and spears from Wildlife Drive or any trail or structure affixed to Wildlife Drive.
 
-(g) *Lake Woodruff National Wildlife Refuge.* (1)-(2) [Reserved]
+(h) *Lake Woodruff National Wildlife Refuge.* (1)-(2) [Reserved]
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and turkey on designated areas of the refuge subject to the following conditions:
 
@@ -170,7 +222,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit the use of snatch hooks in the refuge impoundments.
 
-(h) *Lower Suwannee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
+(i) *Lower Suwannee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We require all hunters, age 16 or older, to purchase and possess a general refuge hunting permit through the Florida Fish and Wildlife Conservation Commission to hunt during all refuge hunts, unless otherwise exempt. We do not require youth hunters age 15 and younger to possess a general refuge hunting permit.
 
@@ -190,7 +242,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of feral hog, gray squirrel, armadillo, opossum, rabbit, raccoon, coyote, and beaver on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (h)(1)(i) through (viii) of this section apply.
+(i) The conditions set forth at paragraphs (i)(1)(i) through (viii) of this section apply.
 
 (ii) Hunters may only hunt during designated days and times. The refuge prints dates for all the refuge hunting seasons in the annual refuge hunt brochure (signed brochure).
 
@@ -198,7 +250,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (h)(1)(i) through (viii) of this section apply.
+(i) The conditions set forth at paragraphs (i)(1)(i) through (viii) of this section apply.
 
 (ii) During the refuge archery season, hunters may only use archery equipment, including crossbows, as governed by State archery regulations.
 
@@ -222,11 +274,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the use or possession of alcohol while fishing on the refuge.
 
-(i) *Merritt Island National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, merganser, and coot in designated areas of the refuge subject to the following conditions:
+(j) *Merritt Island National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, merganser, and coot in designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a current, signed Merritt Island National Wildlife Refuge hunt permit (signed brochure, non-transferable) at all times while hunting waterfowl on the refuge.
 
-(ii) You must carry (or hunt within 30 yards of a hunter who possesses) a valid State-issued Merritt Island Waterfowl Quota Permit, while hunting in areas 1 or 4 from the beginning of the regular waterfowl season through the end of January. The Waterfowl Quota Permit can be used for a single party consisting of the permit holder and up to three guests. The permit holder must be present.
+(ii) You must carry (or hunt within 30 yards of a hunter who possesses) a valid State-issued Merritt Island Waterfowl Quota Permit, while hunting in areas 1 or 4 during the State's regular waterfowl season. The Waterfowl Quota Permit can be used for a single party consisting of the permit holder and up to three guests. The permit holder must be present. The Waterfowl Quota Permit is a limited entry quota permit, is zone-specific, and is nontransferable.
 
 (iii) During the State's waterfowl season, we allow hunting on Wednesdays, Saturdays, Sundays, and the following Federal holidays: Thanksgiving, Christmas, and New Year's Day.
 
@@ -242,7 +294,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ix) We prohibit hunting or shooting within 150 yards (135 meters) of SR 402, SR 406, or any paved road right-of-way. We prohibit shooting over any dike or roadway.
 
-(x) You must leave the refuge by 1 p.m. Prior to that, you must stop at a posted refuge waterfowl check station and report statistical hunt information on the Migratory Bird Hunt Report (FWS Form 3-2361) to refuge personnel.
+(x) You must stop at a posted refuge waterfowl check station and report statistical hunt information on the Migratory Bird Hunt Report (FWS Form 3-2361) to refuge personnel.
+
+(xi) When inside the impoundment perimeter ditch, you may use gasoline or diesel motors. Outside the perimeter ditch, you must propel vessels by paddling, push pole, or electric trolling motor.
 
 (2) [Reserved]
 
@@ -254,19 +308,19 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit hunters entering the normal or expanded restricted areas of the Kennedy Space Center (KSC).
 
-(iv) We allow hunting during a 3-day weekend within the State's deer season. Legal shooting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(iv) We allow hunting within the State's deer season on specific days as defined by the refuge hunt brochure. Each hunt will be a 3-day weekend. Legal shooting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
-(v) Hunters possessing a valid permit may access the refuge no earlier than 2 hours before legal sunrise and must leave the refuge no later than 2 hours after legal sunset.
+(v) Hunters possessing a valid permit (State-issued permit) may access the refuge no earlier than 4 a.m. and must leave the refuge no later than 2 hours after legal sunset. If you wish to track wounded game beyond 2 hours after legal sunset, you must gain consent from a Federal Wildlife Officer to do so.
 
-(vi) We prohibit hunting from refuge roads or within 100 yards of roads open to public vehicle traffic or within 200 yards of a building or KSC facility.
+(vi) We prohibit hunting from refuge roads or within 150 yards of roads open to public vehicle traffic or within 200 yards of a building or Kennedy Space Center facility.
 
-(vii) Each permitted hunter may have one adult guest and one youth hunter. All guests must remain within sight and normal voice contact. The party must share a single bag limit. Each adult may supervise one youth hunter and must remain within sight and normal voice contact. The pair must share a single bag limit unless hunting during a designated youth or family hunt.
+(vii) Each permitted hunter may have one adult guest and one youth hunter per adult. All guests must remain within 30 yards of the permitted hunter. The party must share a single bag limit. Each adult may supervise one youth hunter and must remain within sight and normal voice contact.
 
-(viii) You may set up stands or blinds up to 2 days prior to the permitted hunt; you must remove them on the last day of your permitted hunt. You must clearly mark stands and blinds with your Florida State customer identification (ID) number found on your hunting license. You may have no more than one stand or blind per person on the refuge at any time. You must place a stand or blind for a youth hunter within sight and normal voice contact of the supervisory hunter's stand and mark it with the supervisory hunter's Florida State customer ID number and the word “YOUTH.”
+(viii) You may set up stands or blinds up to 7 days prior to the permitted hunt; you must remove them on the last day of your permitted hunt. You must clearly mark stands and blinds with your Florida State customer identification (ID) number found on your hunting license. You may have no more than one stand or blind per person on the refuge at any time. You must place a stand or blind for a youth hunter within sight and normal voice contact of the supervisory hunter's stand and mark it with the supervisory hunter's Florida State customer ID number and the word “YOUTH.”
 
 (ix) We prohibit all scouting in the hunt area during the quota hunt.
 
-(x) If you use flagging or other trail-marking material, you must print your Florida State customer ID number on each piece or marker. You may set out flagging and trail markers up to 2 days prior to the permitted hunt, and you must remove them on the last day of the permitted hunt.
+(x) If you use flagging or other trail-marking material, you must print your Florida State customer ID number on each piece or marker. You may set out flagging and trail markers up to 7 days prior to the permitted hunt, and you must remove them on the last day of the permitted hunt.
 
 (xi) We allow hunters possessing a valid permit to scout within their permitted zones up to 7 days prior to their permitted hunts. You must carry your valid Quota Hunt Permit identifying the permitted hunt zone while scouting.
 
@@ -274,17 +328,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xiii) We prohibit stalking or moving through the hunt area while hunting.
 
-(xiv) You must be at your vehicle within 1 hour after legal shooting time. If you wish to track wounded game beyond 1 hour after legal sunset, you must gain consent from a Federal Wildlife Officer to do so.
+(xiv) We prohibit using dogs for tracking unless authorized by a Federal Wildlife Officer. Dogs must remain on a leash and be equipped with a GPS tracking device.
 
-(xv) We prohibit using dogs for tracking unless authorized by a Federal Wildlife Officer. Dogs must remain on a leash and be equipped with a GPS tracking device.
+(xv) You may field dress game; however, we prohibit cleaning game within 150 yards of any public area, road, game-check station, or gate. We prohibit dumping game carcasses on the refuge.
 
-(xvi) You may field dress game; however, we prohibit cleaning game within 1,000 feet of any public area, road, game-check station, or gate. We prohibit dumping game carcasses on the refuge.
+(xvi) Archery hunters must wear at least 500 square inches (3,226 square centimeters) of solid fluorescent-orange color while moving to and from their vehicles, while moving to their stands or hunting spots, and while tracking or dragging out game.
 
-(xvii) Archery hunters must wear at least 500 square inches (3,226 square centimeters) of solid fluorescent-orange color while moving to and from their vehicles, while moving to their stands or hunting spots, and while tracking or dragging out game.
+(xvii) There is no bag limit or size limit for the take of feral hogs.
 
-(xviii) There is no bag limit or size limit for the take of feral hogs.
-
-(xix) You must report all hunting activities, including successful and non-successful hunts, at one of the two check stations prior to leaving the refuge.
+(xviii) You must stop at one of two check stations and report statistical hunt information on the Self-Clearing Check-In/Out Permit (FWS Form 3-2405).
 
 (4) *Sport fishing.* We allow recreational fishing, crabbing, clamming, and shrimping on designated areas of the refuge subject to the following conditions:
 
@@ -316,7 +368,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xiv) When inside the impoundment perimeter ditch, you may use gasoline or diesel motors. Outside the perimeter ditch, you must propel vessels by paddling, push pole, or electric trolling motor.
 
-(j) *Pelican Island National Wildlife Refuge.* (1)-(3) [Reserved]
+(k) *Pelican Island National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -324,11 +376,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow bank fishing from spoil islands during daylight hours only.
 
-(k) *Pinellas National Wildlife Refuge.* (1)-(3) [Reserved]
+(l) *Pinellas National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing year-round on designated areas of the refuge subject to the following condition: We allow fishing only from vessels in the waters surrounding Tarpon Key.
 
-(l) *St. Marks National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
+(m) *St. Marks National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove blinds at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -342,7 +394,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) All hunters must wear 500 square inches (3,250 square centimeters) of fluorescent orange above the waistline while in a designated hunting unit during a refuge hunt.
 
-(iii) You may only use .22 caliber or smaller rim-fire rifles, shotguns (#4 bird shot or smaller) (see § 32.2(k)), or muzzleloaders to harvest squirrel, rabbit, and raccoon. In addition, you may use shotgun slugs, buckshot, archery equipment, or pistols to take feral hogs. We prohibit the use of other weapons.
+(iii) You may only use .22 caliber or smaller rim-fire rifles, shotguns (#4 bird shot or smaller) (see § 32.2(k)), or muzzleloaders to harvest squirrel, rabbit, and raccoon. In addition, you may use shotgun slugs, buckshot, archery equipment including crossbows, center fire weapons, or pistols to take feral hogs.
 
 (iv) We allow the use of leashed dogs for trailing injured or harvested game.
 
@@ -350,17 +402,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit cleaning of game within 1,000 feet (300 meters) of any residence, developed public recreation area, or game check station.
 
-(vii) You must check out all game taken at a game check station.
+(vii) You must check out all game taken at a game check station. You must use the State harvest recording system to check out all white-tail deer harvested on the refuge.
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and turkey subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and turkey in areas and during seasons designated in the hunting brochure subject to the following conditions:
 
-(i) We require refuge permits (hunters apply through State for license, and the State charges a fee). Permits are nontransferable. Each hunter must possess and carry a signed permit when participating in a hunt. Prior to hunting each day, you must check-in at a hunt check station as specified in the refuge hunt brochure. You must check out at the end of each hunting day.
+(i) We require State-issued refuge permits. Permits are nontransferable. Each hunter must possess and carry a signed permit when participating in a hunt.
 
-(ii) The conditions set forth at paragraphs (l)(2)(ii) and (iv) through (vii) of this section apply.
+(ii) The conditions set forth at paragraphs (m)(2)(ii) and (iv) through (vii) of this section apply.
 
 (iii) We allow feral hog to be taken during any refuge hunt. There is no limit on the size or number of feral hogs that hunters may take.
 
-(iv) There is a two deer limit per hunt, as specified at paragraph (l)(3)(vi) of this section, except during the youth hunt, when the limit is as specified at paragraph (l)(3)(vii) of this section. The limit for turkey is one per hunt.
+(iv) There is a two deer limit per hunt, as specified at paragraph (m)(3)(vi) of this section, except during the youth hunt, when the limit is as specified at paragraph (m)(3)(vii) of this section. The limit for turkey is one per hunt.
 
 (v) We prohibit the use of deer decoys.
 
@@ -374,9 +426,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (B) *Youth turkey hunt harvest limit.* The limit is one bearded turkey per youth hunter.
 
-(viii) Mobility-impaired hunters may have an assistant accompany them. You may transfer permits issued to assistants. We limit those hunt teams to harvesting white-tailed deer and feral hog within the limits provided at paragraph (l)(3)(vi) of this section.
+(viii) Mobility-impaired hunters may have an assistant accompany them. You may transfer permits (State-issued permit) issued to assistants. We limit those hunt teams to harvesting white-tailed deer and feral hog within the limits provided at paragraph (m)(3)(vi) of this section.
 
-(ix) You may harvest one bearded turkey per hunt. You may only use shotguns or archery equipment to harvest turkey. We prohibit hunting after 1 p.m.
+(ix) You may harvest one bearded turkey per hunt. You may only use shotguns or archery equipment, including crossbows, to harvest turkey. We prohibit hunting after 1 p.m.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -396,7 +448,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) The interior ponds and lakes on the Panacea Unit are open year-round for bank fishing. We open vehicle access to these areas from March 15 through May 15 each year. Ponds and lakes that anglers access from County Road 372 are open year-round for fishing and boating.
 
-(m) *St. Vincent National Wildlife Refuge.* (1)-(2) [Reserved]
+(n) *St. Vincent National Wildlife Refuge.* (1)-(2) [Reserved]
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, sambar deer, raccoon, and feral hog on designated areas of the refuge subject to the following conditions:
 
@@ -412,7 +464,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) You may retrieve game from the closed areas only if accompanied by a refuge staff member or a Federal Wildlife Officer.
 
-(vii) We limit weapons to primitive weapons (bow and arrow, and muzzleloader) on the primitive weapons sambar deer hunt and the primitive weapons white-tailed deer hunt. We limit the archery hunt to bow and arrow. We prohibit crossbows during the white-tailed deer archery hunt except with a State disabled persons permit. You may take feral hog and raccoon only with the weapons allowed for that period.
+(vii) We limit weapons to primitive weapons (bow and arrow, muzzleloader, and crossbow) on the primitive weapons sambar deer hunt and the primitive weapons white-tailed deer hunt. We limit the archery hunt to bow and arrow, and crossbow. You may take feral hog and raccoon only with the weapons allowed for that period.
 
 (viii) We allow only stand, still, and stalk hunting. We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
@@ -440,7 +492,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the taking of frog and/or turtle (see § 27.21 of this chapter).
 
-(n) *Ten Thousand Islands National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
+(o) *Ten Thousand Islands National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting each day during the early wood duck/teal season.
 
@@ -465,3 +517,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) We prohibit the use of trotlines, gigs, spears, bush hooks, and snatch hooks in the freshwater and brackish marsh area of the refuge.
 
 (iv) Anglers and crabbers must attend their lines at all times.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54107, Aug. 31, 2020]

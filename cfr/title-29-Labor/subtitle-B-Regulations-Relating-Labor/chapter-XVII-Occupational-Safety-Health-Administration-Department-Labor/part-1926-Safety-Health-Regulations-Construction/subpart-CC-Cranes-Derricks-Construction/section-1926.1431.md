@@ -20,7 +20,7 @@ The requirements of this section are supplemental to the other requirements in t
 
 (2) Equipment with outriggers or stabilizers must have them all extended and locked. The amount of extension must be the same for all outriggers and stabilizers and in accordance with manufacturer procedures and load charts.
 
-(d) *Equipment criteria* - (1) *Capacity: Use of suspended personnel platforms.* The total load (with the platform loaded, including the hook, load line and rigging) must not exceed 50 percent of the rated capacity for the radius and configuration of the equipment, except during proof testing.
+(d) *Equipment criteria*—(1) *Capacity: Use of suspended personnel platforms.* The total load (with the platform loaded, including the hook, load line and rigging) must not exceed 50 percent of the rated capacity for the radius and configuration of the equipment, except during proof testing.
 
 (2) *Capacity: Use of boom-attached personnel platforms.* The total weight of the loaded personnel platform must not exceed 50 percent of the rated capacity for the radius and configuration of the equipment (except during proof testing).
 
@@ -98,7 +98,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (4) The number of employees occupying the personnel platform must not exceed the maximum number the platform was designed to hold or the number required to perform the work, whichever is less.
 
-(g) *Attachment and rigging* - (1) *Hooks and other detachable devices.* (i) Hooks used in the connection between the hoist line and the personnel platform (including hooks on overhaul ball assemblies, lower load blocks, bridle legs, or other attachment assemblies or components) must be:
+(g) *Attachment and rigging*—(1) *Hooks and other detachable devices.* (i) Hooks used in the connection between the hoist line and the personnel platform (including hooks on overhaul ball assemblies, lower load blocks, bridle legs, or other attachment assemblies or components) must be:
 
 (A) Of a type that can be closed and locked, eliminating the throat opening.
 
@@ -130,7 +130,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (3) The competent person must determine that:
 
-(i) Safety devices and operational aids required by this section are activated and functioning properly. Other safety devices and operational aids must meet the requirements of § 1926.1415 and § 1926.1416.
+(i) Safety devices and operational aids required by this section are activated and functioning properly. Other safety devices and operational aids must meet the requirements of §§ 1926.1415 and 1926.1416.
 
 (ii) Nothing interferes with the equipment or the personnel platform in the course of the trial lift.
 
@@ -196,7 +196,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (iii) The platform operating manual must be in the platform or on the equipment.
 
-(8) *Environmental conditions* - (i) *Wind.* When wind speed (sustained or gusts) exceeds 20 mph at the personnel platform, a qualified person must determine if, in light of the wind conditions, it is not safe to lift personnel. If it is not, the lifting operation must not begin (or, if already in progress, must be terminated).
+(8) *Environmental conditions*—(i) *Wind.* When wind speed (sustained or gusts) exceeds 20 mph at the personnel platform, a qualified person must determine if, in light of the wind conditions, it is not safe to lift personnel. If it is not, the lifting operation must not begin (or, if already in progress, must be terminated).
 
 (ii) *Other weather and environmental conditions.* A qualified person must determine if, in light of indications of dangerous weather conditions, or other impending or existing danger, it is not safe to lift personnel. If it is not, the lifting operation must not begin (or, if already in progress, must be terminated).
 
@@ -210,7 +210,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (ii) *Factory-produced boom-mounted personnel platforms that incorporate a winch as original equipment.* Loads are permitted to be hoisted by such a winch while employees occupy the personnel platform only where the load on the winch line does not exceed 500 pounds and does not exceed the rated capacity of the winch and platform.
 
-(12) *Traveling - equipment other than derricks.* (i) Hoisting of employees while the equipment is traveling is prohibited, except for:
+(12) *Traveling—equipment other than derricks.* (i) Hoisting of employees while the equipment is traveling is prohibited, except for:
 
 (A) Equipment that travels on fixed rails; or
 
@@ -230,7 +230,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (E) A complete trial run must be performed to test the route of travel before employees are allowed to occupy the platform. This trial run can be performed at the same time as the trial lift required by paragraph (h) of this section which tests the lift route.
 
-(13) *Traveling - derricks.* Derricks are prohibited from traveling while personnel are hoisted.
+(13) *Traveling—derricks.* Derricks are prohibited from traveling while personnel are hoisted.
 
 (l) [Reserved]
 
@@ -326,4 +326,4 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (vi) No more than one person must be hoisted at a time.
 
-[5 FR 48135, Aug. 9, 2010, as amended at 85 FR 8746, Feb. 18, 2020]
+[75 FR 48135, Aug. 9, 2010, as amended at 85 FR 8746, Feb. 18, 2020]

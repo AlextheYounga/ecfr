@@ -1,5 +1,7 @@
 ##### § 210.3-18 Special provisions as to registered management investment companies and companies required to be registered as management investment companies. #####
 
+Link to an amendment published at 85 FR 54064, Aug. 31, 2020.
+
 (a) For filings by registered management investment companies, the following financial statements shall be filed:
 
 (1) An audited balance sheet or statement of assets and liabilities as of the end of the most recent fiscal year;

@@ -1,5 +1,7 @@
 ##### § 210.3-06 Financial statements covering a period of nine to twelve months. #####
 
+Link to an amendment published at 85 FR 54062, Aug. 31, 2020.
+
 Except with respect to registered investment companies, the filing of financial statements covering a period of 9 to 12 months shall be deemed to satisfy a requirement for filing financial statements for a period of 1 year where:
 
 (a) The issuer has changed its fiscal year;

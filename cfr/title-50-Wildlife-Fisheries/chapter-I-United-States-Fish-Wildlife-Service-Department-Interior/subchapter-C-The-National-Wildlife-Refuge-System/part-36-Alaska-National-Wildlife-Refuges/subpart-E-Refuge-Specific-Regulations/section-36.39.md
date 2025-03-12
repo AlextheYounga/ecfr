@@ -2,7 +2,7 @@
 
 (a) *General.* Public use of Alaska National Wildlife Refuges (NWR) is permitted subject to all other parts of 50 CFR part 36, those sections of 50 CFR subchapter C not supplemented by part 36, and the following refuge-specific requirements:
 
-(b) *Alaska Maritime National Wildlife Refuge.* (1) Amchitka Island - closed to all public access, occupancy and use, unless specifically authorized by a special use permit issued jointly by the Refuge Manager and the U.S. Navy (Commanding Officer, Fleet Surveillance Support Command, Chesapeake, Virginia).
+(b) *Alaska Maritime National Wildlife Refuge.* (1) Amchitka Island—closed to all public access, occupancy and use, unless specifically authorized by a special use permit issued jointly by the Refuge Manager and the U.S. Navy (Commanding Officer, Fleet Surveillance Support Command, Chesapeake, Virginia).
 
 (c) *Alaska Peninsula/Becharof National Wildlife Refuge Complex.* (1) The Alaska Peninsula/Becharof National Wildlife Refuge (Complex) includes the Becharof National Wildlife Refuge, the Chignik and Ugashik Units of the Alaska Peninsula National Wildlife Refuge and the Seal Cape Area of the Alaska Maritime National Wildlife Refuge.
 
@@ -30,7 +30,9 @@
 
 (ii) Except for administrative purposes, new temporary facilities are prohibited in the following areas: within1/4 mile of the shorelines of Gertrude Lake and Long Lake; within1/4 mile of the airstrip on the south side of the King Salmon River approximately1/2 mile above the confluence of Gertrude Creek and the King Salmon River; within1/4 mile of the shoreline of Upper and Lower Ugashik Lakes; within1/4 mile of the shoreline of Becharof Lake outlet; and within1/4 mile of the shoreline of Big Creek. Maps of the above areas are available from the Refuge Manager.
 
-(d)-(h) [Reserved]
+(d) *Arctic National Wildlife Refuge.* We prohibit all domestic sheep, goats, and camelids on the refuge.
+
+(e)-(h) [Reserved]
 
 (i) *Kenai National Wildlife Refuge.* Maps of designated areas open to specific public use activities on the refuge are available from Refuge Headquarters at the following address: 1 Ski Hill Road, Soldotna, AK.
 
@@ -276,7 +278,7 @@
 
 (C) At the two refuge public fishing facilities and the boat launching facility along Keystone Drive within the Moose Range Meadows Subdivision, including within parking areas, and on trails, fishing platforms, and associated refuge lands.
 
-(9) *Other uses and activities* - (i) *Must I register to canoe on the refuge?* Canoeists on the Swanson River and Swan Lake Canoe Routes must register at entrance points using the registration forms provided. The maximum group size on the Canoe Routes is 15 people. The Refuge Manager may authorize larger groups under the terms and conditions of a special use permit (FWS Form 3-1383-G).
+(9) *Other uses and activities*—(i) *Must I register to canoe on the refuge?* Canoeists on the Swanson River and Swan Lake Canoe Routes must register at entrance points using the registration forms provided. The maximum group size on the Canoe Routes is 15 people. The Refuge Manager may authorize larger groups under the terms and conditions of a special use permit (FWS Form 3-1383-G).
 
 (ii) *May I use motorized equipment within designated Wilderness areas on the refuge?* Within the Kenai Wilderness, except as provided in this paragraph (i), we prohibit the use of motorized equipment, including, but not limited to, chainsaws; generators; power tools; powered ice augers; and electric, gas, or diesel power units. We allow the use of motorized wheelchairs, when used by those whose disabilities require wheelchairs for locomotion. We allow the use of snowmobiles, airplanes, and motorboats in designated areas in accordance with the regulations in this paragraph (i).
 
@@ -326,7 +328,7 @@
 
 (13) *Area-specific regulations for Alaska Native Claims Settlement Act Section 17(b) easements.* Where the refuge administers Alaska Native Claims Settlement Act Section 17(b) easements to provide access to refuge lands, no person may block, alter, or destroy any section of the road, trail, or undeveloped easement, unless such use is authorized under the terms and conditions of a special use permit (FWS Form 3-1383-G) issued by the Refuge Manager. No person may interfere with lawful use of the easement or create a public safety hazard on the easement. Section 17(b) easements are depicted on a map available from Refuge Headquarters.
 
-(j) *Kodiak National Wildlife Refuge* - (1) *Seasonal public use closure of the O'Malley River Area.* The area within the Kodiak National Wildlife Refuge described in this paragraph (j)(1) is closed to all public access, occupancy, and use from June 25 through September 30, except for individuals participating in the O'Malley River Bear-Viewing Program. The area subject to seasonal closure consists of lands and waters located within Township 33 South, Range 30 West, Seward Meridian, Alaska, consisting of approximately 2,560 acres, and more particularly described as follows: Township 33 South, Range 30 West, Seward Meridian, Alaska, all of Section 25; all of Section 26, excluding U.S. Survey 10875 and the adjacent riparian ownership (Koniag Inc.) fronting the survey and extending to the center of Karluk Lake; and all of Sections 35 and 36, excluding U.S. Survey 10876 and the adjacent riparian ownership (Koniag Inc.) fronting the survey and extending to the center of Karluk Lake. Maps of the closure area are available from the Refuge.
+(j) *Kodiak National Wildlife Refuge*—(1) *Seasonal public use closure of the O'Malley River Area.* The area within the Kodiak National Wildlife Refuge described in this paragraph (j)(1) is closed to all public access, occupancy, and use from June 25 through September 30, except for individuals participating in the O'Malley River Bear-Viewing Program. The area subject to seasonal closure consists of lands and waters located within Township 33 South, Range 30 West, Seward Meridian, Alaska, consisting of approximately 2,560 acres, and more particularly described as follows: Township 33 South, Range 30 West, Seward Meridian, Alaska, all of Section 25; all of Section 26, excluding U.S. Survey 10875 and the adjacent riparian ownership (Koniag Inc.) fronting the survey and extending to the center of Karluk Lake; and all of Sections 35 and 36, excluding U.S. Survey 10876 and the adjacent riparian ownership (Koniag Inc.) fronting the survey and extending to the center of Karluk Lake. Maps of the closure area are available from the Refuge.
 
 (2) *Access easement provision.* Notwithstanding any other provision of this paragraph (j), there exists a 25-foot-wide access easement on an existing trail within the Koniag Inc. Regional Native Corporation lands within properties described in paragraph (j)(1) of this section in favor of the United States of America.
 
@@ -344,4 +346,4 @@
 
 (5) *Snowmachine prohibition.* Snowmachines, as defined in § 36.2, are prohibited within an approximately 4,972-acre area encompassing Den Mountain and adjacent highlands. The summit of Den Mountain is located within Township 29 South, Range 24 West, Seward Meridian, Alaska. Maps of the closed area are available from Refuge Headquarters in Kodiak, Alaska.
 
-[51 FR 32332, Sept. 11, 1986, as amended at 51 FR 41509, Nov. 17, 1986; 60 FR 37311, July 19, 1995; 61 FR 29497, June 11, 1996; 64 FR 14154, Mar. 24, 1999; 71 FR 33259, June 8, 2006; 75 FR 16639, Apr. 1, 2010; 81 FR 27043, May 5, 2016]
+[51 FR 32332, Sept. 11, 1986, as amended at 51 FR 41509, Nov. 17, 1986; 60 FR 37311, July 19, 1995; 61 FR 29497, June 11, 1996; 64 FR 14154, Mar. 24, 1999; 71 FR 33259, June 8, 2006; 75 FR 16639, Apr. 1, 2010; 81 FR 27043, May 5, 2016; 85 FR 54145, Aug. 31, 2020]

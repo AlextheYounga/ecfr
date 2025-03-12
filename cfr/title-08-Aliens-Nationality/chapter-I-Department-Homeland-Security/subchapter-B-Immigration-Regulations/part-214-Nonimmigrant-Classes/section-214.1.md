@@ -1,6 +1,6 @@
 ##### § 214.1 Requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 85 FR 46923, Aug. 3, 2020.
+Link to an amendment published at 85 FR 46923, Aug. 3, 2020.Link to a correction published at 85 FR 53645, Aug. 31, 2020.
 
 (a) *General* - (1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
 

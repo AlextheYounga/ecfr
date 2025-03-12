@@ -1,6 +1,6 @@
 ##### § 286.9 Fee for processing applications and issuing documentation at land border Ports-of-Entry. #####
 
-Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
+Link to an amendment published at 85 FR 46928, Aug. 3, 2020.Link to a correction published at 85 FR 53645, Aug. 31, 2020.
 
 (a) *General.* A fee may be charged and collected by the Commissioner for the processing and issuance of specified Service documents at land border Ports-of-Entry. These fees, as specified in § 103.7(b)(1) of this chapter, shall be dedicated to funding the cost of providing application-processing services at land border ports.
 

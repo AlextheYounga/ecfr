@@ -2,7 +2,10 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Banks Lake National Wildlife Refuge.* (1)-(3) [Reserved]
+(a) *Banks Lake National Wildlife Refuge.* (1)-(2)
+[Reserved]
+
+(3) *Big game hunting.* We allow alligator hunting on designated areas of the refuge subject to the following condition: We only allow alligator hunting during the first two weekends (from legal sunset Friday through legal sunrise Monday) of the State alligator season.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -264,17 +267,19 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You may take feral hog and coyote during all refuge hunts (migratory bird, upland, and big game) with weapons authorized and legal for those hunts.
 
-(iv) We allow the use of dogs for retrieving migratory birds.
+(iv) We allow the incidental take of armadillo, beaver, opossum, and raccoon during all refuge hunts (migratory bird, upland, and big game) with firearms and other equipment authorized for use on refuge lands in Georgia only.
+
+(v) We allow the use of dogs for retrieving migratory birds.
 
 (2) *Upland game hunting.* We allow hunting of squirrel and rabbit on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (h)(1)(i) and (iii) of this section apply.
+(i) The conditions set forth at paragraphs (h)(1)(i), (iii), and (iv) of this section apply.
 
 (ii) You may not hunt on or within 100 yards (90 meters) of public roads, refuge facilities, roads and trails, and railroad rights-of-way, or in closed areas.
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer, turkey, feral hog, and coyote on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer, turkey, alligator, feral hog, and coyote on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (h)(1)(i) and (iii) of this section apply.
+(i) The conditions set forth at paragraphs (h)(1)(i), (iii), and (iv) of this section apply.
 
 (ii) To participate in the quota gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). To participate in the quota youth turkey hunt and learn weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
@@ -285,6 +290,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (v) Hunters may take as many as five deer (no more than two antlered). There is no bag limit on feral hog or coyote.
 
 (vi) We allow only shotguns with approved nontoxic #2 shot or smaller, and bows, as governed by State regulations, for turkey hunting. We prohibit the use of slugs or buckshot for turkey hunting.
+
+(vii) We prohibit catch-and-release of alligators.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -331,3 +338,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (j) *Wolf Island National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions: We allow saltwater fishing year-round in the estuarine waters adjacent to the refuge.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020]

@@ -2,115 +2,171 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Flint Hills National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, rail, woodcock, crow, and common snipe on designated areas of the refuge subject to the following conditions:
+(a) *Flint Hills National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, mourning dove, duck, goose, rail, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge hunt permit (signed brochure) when hunting.
+(i) You must remove portable hunting blinds and decoys at the end of each day's hunt (see § 27.93 of this chapter).
 
-(ii) We prohibit shooting from or over roads and parking areas.
+(ii) We only allow rimfire firearms, shotguns, and archery equipment.
 
-(iii) You may leave temporary blinds (other than portable blinds) constructed of natural vegetation found on site overnight (see § 27.93 of this chapter).
+(iii) We prohibit shooting from or over roads and parking areas.
 
-(iv) We allow crow hunting on designated areas of the refuge subject to the following conditions:
+(iv) We allow the use of dogs when hunting migratory birds.
 
-(A) We prohibit the use of centerfire rifles and pistols for hunting on the refuge.
+(v) We close hunting areas on the north side of the Neosho River to all hunting from November 1 through March 1.
 
-(B) We close hunting areas on the north side of the Neosho River to all hunting from November 1 through March 1.
+(2) *Upland game hunting.* We allow hunting of coyote, pheasant, prairie chicken, quail, rabbit, State-defined furbearers, and squirrel on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of pheasant, quail, prairie chicken, rabbit, and squirrel on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) and (a)(1)(iv)(A) and (B) of this section apply.
+(i) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
+
+(ii) Shooting hours for upland game species are1/2 hour before legal sunrise until legal sunset.
+
+(iii) We prohibit the harvest of beaver and otter.
+
+(iv) The conditions set forth at paragraphs (a)(1)(ii) and (iii) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow shotguns, muzzleloading firearms (see § 27.42 of this chapter), and archery equipment for deer hunting.
+(i) You may possess only approved nontoxic shot for turkey hunting (see § 32.2(k)).
 
-(ii) We do not open for deer hunting during the extended white-tailed deer antlerless season in January.
+(ii) We allow one portable blind or stand per hunter. You may place a stand on the refuge no more than 14 days prior to the season, and you must remove it within 14 days of the close of the season. You must remove a portable blind at the end of each day's hunt (see § 27.93 of this chapter). You must label any portable blind or stand with the owner's name and Kansas Department of Wildlife, Parks and Tourism (KDWPT) number. Labels must be clearly visible from the ground.
 
-(iii) We require the use of approved nontoxic shot for turkey hunting (see § 32.2(k)).
+(iii) We prohibit the use of dogs when hunting turkey.
 
-(iv) The conditions set forth at paragraphs (a)(1)(i) and (a)(1)(iv)(A) of this section apply.
+(iv) The condition set forth at paragraph (a)(1)(iii) of this section applies.
 
-(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
+(v) We only allow muzzleloaders, shotguns, and archery equipment.
 
-(i) We close areas on the north side of the Neosho River to all fishing from November 1 through March 1, except for the Dove Roost Pond and the Upper Burgess Marsh.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the take of reptiles and amphibians.
 
-(ii) We prohibit the take of reptiles and amphibians (see § 27.21 of this chapter).
+(b) *Kirwin National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, duck, goose, merganser, mourning dove, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(b) *Kirwin National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, merganser, coot, mourning dove, and snipe on designated areas of the refuge subject to the following conditions:
+(i) You must remove portable hunting blinds and decoys at the end of each day's hunt (see § 27.93 of this chapter).
 
-(i) You may use natural vegetation to construct a temporary blind.
+(ii) We prohibit shooting from or over roads and parking areas.
 
-(ii) You may use portable hunting blinds.
+(iii) In Bow Creek, we allow hunting access by boat or on foot year round.
 
-(iii) In Bow Creek, we allow waterfowl hunting only by boat. You may not create a wake while in Bow Creek.
+(iv) We allow the use of dogs when hunting migratory birds.
 
-(2) *Upland game hunting.* We allow hunting of pheasant, quail, prairie chicken, fox squirrel, cottontail rabbit, and turkey on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of cottontail rabbit, jack rabbit, pheasant, prairie chicken, quail, State-defined furbearers, and squirrel (fox and grey) on designated areas of the refuge subject to the following conditions:
 
-(i) You may only possess bow and arrow or shotguns no larger than 10 gauge on the refuge.
+(i) We only allow shotguns and archery equipment when hunting upland game.
 
-(ii) During pheasant season, we allow hunting of only pheasant, fox squirrel, and cottontail rabbit.
+(ii) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
+
+(iii) Shooting hours for upland game species are1/2 hour before legal sunrise until legal sunset.
+
+(iv) We prohibit the harvest of beaver and otter.
+
+(v) The condition set forth at paragraph (b)(1)(ii) of this section applies.
 
 (3) *Big game hunting.* We allow hunting of deer and turkey on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow archery hunting of deer.
 
-(ii) You must obtain a refuge-issued permit (FWS Form 3-2405, Self-Clearing Check-in/out Permit) to hunt deer on the refuge.
+(ii) We allow one portable blind or stand per hunter. You may place a stand on the refuge no more than 14 days prior to the season, and you must remove it within 14 days of the close of the season. You must remove a portable blind at the end of each day's hunt (see § 27.93 of this chapter). You must label any portable blind or stand with the owner's name and KDWPT number. Labels must be clearly visible from the ground.
 
-(iii) You may use natural vegetation to construct a temporary blind.
+(iii) You must obtain a refuge-issued permit (FWS Form 3-2405, Self-Clearing Check-In/Out Permit) to hunt deer on the refuge.
 
-(iv) We prohibit retrieving deer or turkey from an area closed to deer or turkey hunting.
+(iv) The condition set forth at paragraph (b)(1)(ii) of this section applies.
+
+(v) We prohibit the use of dogs when hunting turkey.
+
+(vi) You may possess only approved nontoxic shot for turkey hunting (see § 32.2(k)).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas on the refuge subject to the following conditions:
 
-(i) We allow access to Kirwin Reservoir by foot for bank or ice fishing.
+(i) We only allow boats for activities related to fishing.
 
-(ii) We allow noncommercial collection of bait fish as governed by State regulations.
+(ii) We prohibit boating for fishing between October 1 and April 1 when the reservoir water elevation falls below 1,722 feet (measured on October 1), except in the Bow Creek Hunting Unit. Boats may be launched only at Scout Cove during this period.
 
-(iii) We prohibit fishing tournaments on the refuge.
+(iii) We allow boating for fishing year-round, on the entire reservoir, only when the reservoir water elevation is above 1,722 feet (measured on October 1).
 
-(c) *Marais des Cygnes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, rail, snipe, woodcock, and mourning dove on designated areas of the refuge subject to the following conditions:
+(iv) We allow noncommercial collection of baitfish as governed by State regulations.
 
-(i) You must possess and carry a signed refuge hunt permit (signed brochure) when hunting.
+(v) We prohibit all activities associated with fishing tournaments, outside of sport fishing itself, to include organized gatherings, registrations, weigh-ins, and award presentations to be held or organized on the refuge.
 
-(ii) We prohibit discharge of firearms within 150 yards (135 meters) of any residence or occupied building.
+(vi) We prohibit the take of reptiles and amphibians.
 
-(iii) We allow only temporary portable blinds and blinds made from natural vegetation.
+(c) *Marais des Cygnes National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, duck, goose, mourning dove, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of cottontail rabbit, squirrel, and upland birds on designated areas of the refuge subject to the following conditions:
+(i) You must remove portable hunting blinds and decoys at the end of each day's hunt (see § 27.93 of this chapter).
 
-(i) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
+(ii) We prohibit shooting from or over roads and parking areas.
 
-(ii) We prohibit centerfire and rimfire rifles and pistols.
+(iii) We allow the use of dogs when hunting migratory birds.
 
-(iii) You may possess only bow and arrow or shotguns smaller than 10 gauge while hunting upland game.
+(iv) We only allow shotguns and archery equipment.
+
+(2) *Upland game hunting.* We allow hunting of coyote, cottontail rabbit, State-defined furbearers, squirrel, and upland birds on designated areas of the refuge subject to the following conditions:
+
+(i) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
+
+(ii) Shooting hours for upland game species are1/2 hour before legal sunrise until legal sunset.
+
+(iii) We prohibit the harvest of beaver and otter.
+
+(iv) The conditions set forth at paragraphs (c)(1)(i), (ii), and (iv) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (c)(1)(i), (ii), and (iii) and (c)(2)(ii) of this section apply.
+(i) You must possess and carry a State-issued refuge access permit to hunt deer and spring turkey.
 
-(ii) You must possess and carry a refuge access permit to hunt deer and spring turkey.
+(ii) We allow one portable blind or stand per hunter. You may place a stand on the refuge no more than 14 days prior to the season, and you must remove it within 14 days of the close of the season. You must remove a portable blind at the end of each day's hunt (see § 27.93 of this chapter). You must label any portable blind or stand with the owner's name and KDWPT number. Labels must be clearly visible from the ground.
 
-(iii) You may possess only approved nontoxic shot for turkey hunting (see § 32.2(k)).
+(iii) We prohibit the use of dogs when hunting turkey.
 
-(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+(iv) You may possess only approved nontoxic shot for turkey hunting (see § 32.2(k)).
 
-(d) *Quivira National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, Virginia and Sora rail, mourning dove, and snipe on designated areas of the refuge subject to the following conditions:
+(v) The condition set forth at paragraph (c)(1)(ii) of this section applies.
+
+(vi) We only allow archery deer hunting, except during the January antlerless deer season when we allow the use of archery, muzzleloader, and shotgun.
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the take of reptiles and amphibians.
+
+(d) *Quivira National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, crow, duck, goose, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We open refuge hunting areas from September 1 through February 28.
 
-(ii) The refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset. Hunters must remove all decoys within 1 hour following the end of legal shooting time (legal sunset).
+(ii) The refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset.
 
 (iii) We prohibit the retrieval of game from areas closed to hunting.
 
-(2) *Upland game hunting.* We allow hunting of pheasant, quail, squirrel, and rabbit on designated areas of the refuge subject to the following conditions:
+(iv) You must remove portable hunting blinds and decoys at the end of each day's hunt (see § 27.93 of this chapter).
 
-(i) The conditions set forth at paragraphs (d)(1)(i) and (ii) of this section apply.
+(v) We prohibit shooting from or over roads and parking areas.
 
-(ii) We only allow shotguns for hunting on the refuge.
+(vi) We allow the use of dogs when hunting migratory birds.
 
-(3) [Reserved]
+(vii) We only allow shotguns and archery equipment.
+
+(2) *Upland game hunting.* We allow hunting of coyote, pheasant, quail, State-defined furbearers, squirrel, and rabbit on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (d)(1)(i) through (iii), (v), and (vii) of this section apply.
+
+(ii) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
+
+(iii) We prohibit the harvest of beaver and otter.
+
+(iv) You must possess a State-issued refuge access permit for coyote and State-defined furbearer hunting.
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
+
+(i) You may possess only approved nontoxic ammunition for turkey and deer hunting (see § 32.2(k)).
+
+(ii) You must possess a State-issued refuge access permit for deer and turkey hunting.
+
+(iii) We allow one portable blind or stand per hunter. You may place a stand on the refuge no more than 14 days prior to the season, and you must remove it within 14 days of the close of the season. You must remove a portable blind at the end of each day's hunt (see § 27.93 of this chapter). You must label any portable blind or stand with the owner's name and KDWPT number. Labels must be clearly visible from the ground.
+
+(iv) We prohibit the use of dogs when hunting turkey.
+
+(v) The conditions set forth at paragraphs (d)(1)(i) through (iii) and (v) of this section apply.
+
+(vi) We only allow muzzleloaders, shotguns, and archery equipment.
 
 (4) *Sport fishing.* We allow sport fishing on all waters on the refuge subject to the following conditions:
 
-(i) We prohibit taking of frog, snake, or any other wildlife (see § 27.21 of this chapter).
+(i) We prohibit taking of reptiles and amphibians.
 
 (ii) We prohibit the use of trotlines and setlines.
 
@@ -120,6 +176,10 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We restrict fishing in the designated “Kid's Pond,” approximately1/4 mile (.4 kilometers) west-southwest of headquarters, to youth age 14 and younger, and to a parent and/or guardian age 18 or older accompanying a youth.
 
-(vi) The bag limit for the Kid's Pond is one fish per day.
+(vi) The creel limit for the Kid's Pond is one fish per day.
 
 (vii) The condition set forth at paragraph (d)(1)(ii) of this section applies.
+
+(viii) The only live bait we allow is worms; we prohibit all other live bait.
+
+[85 FR 54111, Aug. 31, 2020]

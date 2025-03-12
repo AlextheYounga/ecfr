@@ -86,17 +86,23 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following condition: We prohibit shoreline fishing on the islands of the Snake River Sector from February 1 through May 31.
 
-(f) *Hart Mountain National Antelope Refuge.* (1) [Reserved]
+(f) *Hart Mountain National Antelope Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of chukar on designated areas of the refuge.
+(i) We allow only portable blinds and temporary blinds constructed of synthetic or nonliving natural materials.
+
+(ii) We prohibit digging of pit blinds for waterfowl hunting.
+
+(2) *Upland game hunting.* We allow hunting of chukar and California quail on designated areas of the refuge.
 
 (3) *Big game hunting.* We allow hunting of deer, antelope, and bighorn sheep on designated areas of the refuge subject to the following conditions:
 
-(i) We allow ground blinds, but we prohibit construction of them earlier than 1 week prior to the opening day of the legal season for which you have a valid permit.
+(i) We allow only portable blinds and temporary blinds constructed of synthetic or nonliving natural materials.
 
-(ii) You must remove blinds within 24 hours of harvesting an animal or at the end of the permittee's legal season (see § 27.93 of this chapter).
+(ii) We allow ground blinds, but we prohibit construction of them earlier than 1 week prior to the opening day of the legal season for which you have a valid permit.
 
-(iii) We limit hunters to one blind each, and you must tag blinds with the owner's State license or permit number.
+(iii) You must remove blinds within 24 hours of harvesting an animal or at the end of the permittee's legal season (see § 27.93 of this chapter).
+
+(iv) We limit hunters to one blind each, and you must tag blinds with the owner's State license or permit number.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
 
@@ -198,7 +204,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (m) *McNary National Wildlife Refuge.* Refer to § 32.66(h) for regulations.
 
-(n) *Nestucca Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
+(n) *Nestucca Bay National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove all blinds, decoys, shotshell hulls, and other personal equipment and refuse from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -300,7 +307,27 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing in designated areas of the refuge.
 
-(t) *William L. Finley National Wildlife Refuge.* (1)-(2) [Reserved]
+(t) *Wapato Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+
+(i) We allow hunting on Tuesdays, Thursdays, and Saturdays during the State waterfowl season.
+
+(ii) The hunt area is open for access 2 hours before and after legal shooting hours.
+
+(iii) All hunters must hunt from designated blinds except to retrieve downed birds. We prohibit hunting from levees.
+
+(iv) We allow a maximum occupancy of four persons per blind.
+
+(v) Disabled hunters must possess an Oregon Disabilities Hunting and Fishing Permit issued by the Oregon Department of Fish and Wildlife to qualify for preference in using the ADA Accessibility Guidelines blind or Federal Access pass.
+
+(vi) You must remove decoys, other personal property, and trash (including empty shotgun hulls) from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(vii) We allow the use of dogs for retrieving waterfowl.
+
+(viii) Hunters must submit a Migratory Bird Hunt Report (FWS Form 3-2361) at the end of each day's hunt.
+
+(2)-(4) [Reserved]
+
+(u) *William L. Finley National Wildlife Refuge.* (1)-(2) [Reserved]
 
 (3) *Big game hunting.* We allow deer and elk hunting on designated areas of the refuge subject to the following conditions:
 
@@ -315,3 +342,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (i) We allow fishing from legal sunrise to legal sunset.
 
 (ii) We allow anglers to use only pole and line, or rod and reel. Anglers must attend their line.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020]

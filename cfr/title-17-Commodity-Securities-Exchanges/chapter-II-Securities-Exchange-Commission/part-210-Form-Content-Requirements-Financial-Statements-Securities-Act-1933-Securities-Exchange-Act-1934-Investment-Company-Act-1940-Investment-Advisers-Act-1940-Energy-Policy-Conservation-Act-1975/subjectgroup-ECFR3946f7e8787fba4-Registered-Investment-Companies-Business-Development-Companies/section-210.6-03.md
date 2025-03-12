@@ -1,5 +1,7 @@
 ##### § 210.6-03 Special rules of general application to registered investment companies and business development companies. #####
 
+Link to an amendment published at 85 FR 54064, Aug. 31, 2020.
+
 The financial statements filed for persons to which §§ 210.6-01 to 210.6-10 are applicable shall be prepared in accordance with the following special rules in addition to the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, and 4). Where the requirements of a special rule differ from those prescribed in a general rule, the requirements of the special rule shall be met.
 
 (a) *Content of financial statements.* The financial statements shall be prepared in accordance with the requirements of this part (Regulation S-X) notwithstanding any provision of the articles of incorporation, trust indenture or other governing legal instruments specifying certain accounting procedures inconsistent with those required in §§ 210.6-01 to 210.6-10.

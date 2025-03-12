@@ -224,7 +224,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) Anglers may bank and wade fish with pole and line or rod and reel year-round.
 
-(ii) Anglers may use boats from March 1 through September 30 in designated waters.
+(ii) Anglers may use boats from March 1 through September 30 in designated waters unless otherwise specified on the fishing tearsheet.
 
 (iii) Anglers may “no-wake” boat fish during the boating season with line and pole or rod and reel, except in areas designated as sanctuary zones.
 
@@ -234,13 +234,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit use of any containers (jugs, bottles) as floats.
 
-(vii) Anglers may fish after legal sunset from a boat (during boating season) in the Cumberland Pool, except in the sanctuary zones. Anglers may fish after legal sunset at the headquarters area, Sandy Creek Bridge, Murray 23, and Nida Point.
+(vii) Anglers may fish after legal sunset from a boat (during boating season) in the Cumberland Pool, except in the sanctuary zones. Anglers may fish after legal sunset at the headquarters boat ramp area, Goose Pen Pond, Sandy Creek Bridge, Murray 23, and Nida Point.
 
-(viii) We prohibit bow fishing.
+(viii) We allow bowfishing in Pennington Creek and the Washita River during daylight hours.
 
-(ix) We prohibit take of fish by use of hands (noodling).
+(ix) We prohibit the take of fish by use of hands (noodling).
 
-(x) We prohibit take of frog, turtle, or mussel (see § 27.21 of this chapter).
+(x) We prohibit the take of frog, turtle, or mussel (see § 27.21 of this chapter).
 
 (h) *Tishomingo Wildlife Management Unit* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove and waterfowl on the Tishomingo Wildlife Management Unit of Tishomingo National Wildlife Refuge.
 
@@ -331,3 +331,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iii) Anglers may use motorized boats on Elmer Thomas Lake; however, we enforce a no-wake rule on the lake.
 
 (iv) We allow fishing after legal sunset on the refuge, but we prohibit all other boating after legal sunset.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020]

@@ -1,14 +1,12 @@
 ##### 52.209-5 Certification Regarding Responsibility Matters. #####
 
-Link to an amendment published at 85 FR 40067, July 2, 2020.
-
 As prescribed in 9.104-7(a), insert the following provision:
 
-Certification Regarding Responsibility Matters (OCT 2015)
+Certification Regarding Responsibility Matters (AUG 2020)
 
-(a)(1) The Offeror certifies, to the best of its knowledge and belief, that -
+(a)(1) The Offeror certifies, to the best of its knowledge and belief, that—
 
-(i) The Offeror and/or any of its Principals -
+(i) The Offeror and/or any of its Principals—
 
 (A) Are ( ) are not ( ) presently debarred, suspended, proposed for debarment, or declared ineligible for the award of contracts by any Federal agency;
 
@@ -16,7 +14,7 @@ Certification Regarding Responsibility Matters (OCT 2015)
 
 (C) Are ( ) are not ( ) presently indicted for, or otherwise criminally or civilly charged by a governmental entity with, commission of any of the offenses enumerated in subdivision (a)(1)(i)(B) of this provision; and
 
-(D) Have □ , have not □ ,within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds $3,500 for which the liability remains unsatisfied.
+(D) Have □ , have not □ ,within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds the threshold at 9.104-5(a)(2) for which the liability remains unsatisfied.
 
 (*1*) Federal taxes are considered delinquent if both of the following criteria apply:
 
@@ -44,4 +42,4 @@ Certification Regarding Responsibility Matters (OCT 2015)
 
 (e) The certification in paragraph (a) of this provision is a material representation of fact upon which reliance was placed when making award. If it is later determined that the Offeror knowingly rendered an erroneous certification, in addition to other remedies available to the Government, the Contracting Officer may terminate the contract resulting from this solicitation for default.
 
-(End of provision)[54 FR 19827, May 8, 1989, as amended at 61 FR 2633, Jan. 26, 1996; 65 FR 80265, Dec. 20, 2000; 66 FR 17756, Apr. 3, 2001; 66 FR 66986, 66990, Dec. 27, 2001; 73 FR 21798, Apr. 22, 2008; 73 FR 67092, Nov. 12, 2008; 75 FR 14066, Mar. 23, 2010; 80 FR 38299, July 2, 2015]
+(End of provision)[54 FR 19827, May 8, 1989, as amended at 61 FR 2633, Jan. 26, 1996; 65 FR 80265, Dec. 20, 2000; 66 FR 17756, Apr. 3, 2001; 66 FR 66986, 66990, Dec. 27, 2001; 73 FR 21798, Apr. 22, 2008; 73 FR 67092, Nov. 12, 2008; 75 FR 14066, Mar. 23, 2010; 80 FR 38299, July 2, 2015; 85 FR 40067, July 2, 2020]

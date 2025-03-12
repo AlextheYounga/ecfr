@@ -44,9 +44,7 @@
 
 (c) *Permissible Exposure Limit (PEL).* The employer shall assure that no employee is exposed to an airborne concentration of cadmium in excess of five micrograms per cubic meter of air (5 µg/m3), calculated as an eight-hour time-weighted average exposure (TWA).
 
-(d) *Exposure Monitoring* - (1) *General.*
-
-(i) Prior to the performance of any construction work where employees may be potentially exposed to cadmium, the employer shall establish the applicability of this standard by determining whether cadmium is present in the workplace and whether there is the possibility that employee exposures will be at or above the action level. The employer shall designate a competent person who shall make this determination. Investigation and material testing techniques shall be used, as appropriate, in the determination. Investigation shall include a review of relevant plans, past reports, Safety Data Sheets (SDS), and other available records, and consultations with the property owner and discussions with appropriate individuals and agencies.
+(d) *Exposure Monitoring* - (1) *General.* (i) Prior to the performance of any construction work where employees may be potentially exposed to cadmium, the employer shall establish the applicability of this standard by determining whether cadmium is present in the workplace and whether there is the possibility that employee exposures will be at or above the action level. The employer shall designate a competent person who shall make this determination. Investigation and material testing techniques shall be used, as appropriate, in the determination. Investigation shall include a review of relevant plans, past reports, Safety Data Sheets (SDS), and other available records, and consultations with the property owner and discussions with appropriate individuals and agencies.
 
 (ii) Where cadmium has been determined to be present in the workplace, and it has been determined that there is a possibility the employee's exposure will be at or above the action level, the competent person shall identify employees potentially exposed to cadmium at or above the action level.
 

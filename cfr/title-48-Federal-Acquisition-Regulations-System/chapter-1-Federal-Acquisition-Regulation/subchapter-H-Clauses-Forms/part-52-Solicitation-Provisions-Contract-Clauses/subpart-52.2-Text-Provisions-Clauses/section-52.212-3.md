@@ -1,10 +1,10 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 85 FR 40067, July 2, 2020.Link to an amendment published at 85 FR 53134, Aug. 27, 2020.
+Link to an amendment published at 85 FR 53134, Aug. 27, 2020.
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (JUN 2020)
+Offeror Representations and Certifications - Commercial Items (AUG 2020)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -275,7 +275,7 @@ Other End Products:
 
 (3) □ Are, □ are not presently indicted for, or otherwise criminally or civilly charged by a Government entity with, commission of any of these offenses enumerated in paragraph (h)(2) of this clause; and
 
-(4) Have,□ have not, within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds $3,500 for which the liability remains unsatisfied.
+(4) Have,□ have not, within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds the threshold at 9.104-5(a)(2) for which the liability remains unsatisfied.
 
 (i) Taxes are considered delinquent if both of the following criteria apply:
 

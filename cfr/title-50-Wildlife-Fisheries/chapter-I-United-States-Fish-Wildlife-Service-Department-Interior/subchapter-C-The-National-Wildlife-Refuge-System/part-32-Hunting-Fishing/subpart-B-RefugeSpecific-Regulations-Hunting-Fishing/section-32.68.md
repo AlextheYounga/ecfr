@@ -28,23 +28,53 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We only allow fishing from the shoreline; we prohibit fishing from docks, piers, and other structures.
 
-(c) *Hackmatack National Wildlife Refuge.* Refer to § 32.32(f) for regulations.
+(c) *Hackmatack National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
 
-(d) *Horicon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt.
+(2) *Upland game hunting.* We allow upland game and turkey hunting on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of wild turkey, ring-necked pheasant, gray partridge, squirrel, and cottontail rabbit on designated areas of the refuge subject to the following condition: For wild turkey hunting, hunters may possess only approved nontoxic shot shells (see § 32.2(k)) while in the field.
+(i) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer in designated areas of the refuge subject to the following conditions:
+(ii) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+
+(3) *Big game hunting.* We allow big game hunting on designated areas of the refuge subject to the following conditions:
+
+(i) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+
+(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the taking of turtle and frog (see § 27.21 of this chapter).
+
+(d) *Horicon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common moorhen, and American woodcock on designated areas of the refuge subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt goose, duck, coot, and common moorhen.
+
+(2) *Upland game hunting.* We allow hunting of wild turkey, ring-necked pheasant, gray partridge, ruffed grouse, squirrel, cottontail rabbit, snowshoe hare, raccoon, opossum, striped skunk, red fox, gray fox, coyote, and bobcat on designated areas of the refuge subject to the following conditions:
+
+(i) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+
+(iii) We allow the use of dogs while hunting upland game (except raccoon, opossum, striped skunk, red fox, gray fox, coyote, and bobcat), provided the dog is under the immediate control of the hunter at all times.
+
+(iv) Coyote, red fox, gray fox, and bobcat hunting begins on the first day of the traditional 9-day gun deer season.
+
+(v) Coyote hunting ends on the last day of the season for fox.
+
+(vi) You may only hunt striped skunk and opossum during the season for raccoon.
+
+(vii) You may only hunt snowshoe hare during the season for cottontail rabbit.
+
+(viii) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer and black bear in designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove all stands and personal property from the refuge following each day's hunt (see §§ 27.93 and 27.94 of this chapter). We prohibit hunting from any stand left up overnight.
 
-(ii) Hunters must possess a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to hunt in Area E (surrounding the office/visitor center).
+(ii) We prohibit hunting bear with dogs.
 
-(iii) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
+(iii) Hunters must possess a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to hunt in Area E (surrounding the office/visitor center).
 
-(iv) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange material visible from all directions.
+(iv) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
 
-(v) We prohibit the field possession of white-tailed deer in areas closed to white-tailed deer hunting.
+(v) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange or fluorescent pink material visible from all directions.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -189,3 +219,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (i) We allow fishing from legal sunrise to legal sunset only.
 
 (ii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020]
