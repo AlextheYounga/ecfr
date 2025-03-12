@@ -4,4 +4,4 @@
 
 (b) Application must be made on the official form furnished by the Wage and Hour Division and must be signed by the employer, the appropriate school official and the student-learner. A separate application must be filed by the employer for each student-learner the employer proposes to employ at subminimum wages.
 
-(The information collection requirements contained in paragraph (b) were approved by the Office of Management and Budget under control number 1215-0192.)
+(The information collection requirements contained in paragraph (b) were approved by the Office of Management and Budget under control number 1235-0001)[62 FR 64959, Dec. 9, 1997, as amended at 82 FR 2228, Jan. 9, 2017]

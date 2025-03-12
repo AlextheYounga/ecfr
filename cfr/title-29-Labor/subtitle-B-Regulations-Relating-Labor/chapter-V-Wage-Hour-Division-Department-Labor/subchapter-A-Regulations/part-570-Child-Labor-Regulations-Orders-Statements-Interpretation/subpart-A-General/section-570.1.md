@@ -14,8 +14,10 @@ As used in this part:
 
 (f) *Secretary” or Secretary of Labor* means the Secretary of Labor, United States Department of Labor, or his authorized representative.
 
-(g) *Wage and Hour Division* means the Wage and Hour Division, Employment Standards Administration, United States Department of Labor.
+(g) *Wage and Hour Division* means the Wage and Hour Division, United States Department of Labor.
 
 (h) *Administrator* means the Administrator of the Wage and Hour Division or his authorized representative.
 
 (i) *State agency* means any officer, executive department, board, bureau or commission of a State or any division or unit thereof authorized to take action with respect to the application of laws relating to minors.
+
+[41 FR 26834, June 29, 1976, as amended at 82 FR 2229, Jan. 9, 2017]

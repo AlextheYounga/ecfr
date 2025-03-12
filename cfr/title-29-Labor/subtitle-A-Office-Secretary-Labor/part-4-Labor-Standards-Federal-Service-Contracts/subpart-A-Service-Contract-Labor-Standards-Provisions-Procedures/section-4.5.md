@@ -2,7 +2,7 @@
 
 (a) Any contract in excess of $2,500 shall contain, as an attachment, the applicable, currently effective wage determination specifying the minimum wages and fringe benefits for service employees to be employed thereunder, including any information referred to in paragraphs (a)(1) or (2) of this section;
 
-(1) Any wage determination from the Wage and Hour Division, Employment Standards Administration, Department of Labor, responsive to the contracting agency's submission of an e98 or obtained through WDOL under § 4.4; or
+(1) Any wage determination from the Wage and Hour Division, Department of Labor, responsive to the contracting agency's submission of an e98 or obtained through WDOL under § 4.4; or
 
 (2) Any revision of a wage determination issued prior to the award of the contract or contracts which specifies minimum wage rates or fringe benefits for classes of service employees whose wages or fringe benefits were not previously covered by wage determinations, or which changes previously determined minimum wage rates and fringe benefits for service employees employed on covered contracts in the locality.
 
@@ -30,4 +30,4 @@
 
 (d) In cases where the contracting agency has filed an e98 and has not received a response from the Department of Labor, the contracting agency shall, with respect to any contract for which section 10 to the Act and § 4.3 for this part mandate the inclusion of an applicable wage determination, contact the Wage and Hour Division by e-mail or telephone for guidance.
 
-[48 FR 49762, Oct. 27, 1983, as amended at 70 FR 50897, Aug. 26, 2005]
+[48 FR 49762, Oct. 27, 1983, as amended at 70 FR 50897, Aug. 26, 2005; 82 FR 2224, Jan. 9, 2017]

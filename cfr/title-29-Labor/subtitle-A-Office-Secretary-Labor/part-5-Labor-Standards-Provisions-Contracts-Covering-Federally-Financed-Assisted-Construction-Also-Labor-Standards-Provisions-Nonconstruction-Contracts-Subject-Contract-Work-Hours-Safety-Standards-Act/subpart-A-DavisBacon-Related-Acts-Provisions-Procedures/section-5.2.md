@@ -2,7 +2,7 @@
 
 (a) The term *Secretary* includes the Secretary of Labor, the Deputy Under Secretary for Employment Standards, and their authorized representatives.
 
-(b) The term *Administrator* means the Administrator of the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, or authorized representative.
+(b) The term *Administrator* means the Administrator of the Wage and Hour Division, U.S. Department of Labor, or authorized representative.
 
 (c) The term *Federal agency* means the agency or instrumentality of the United States which enters into the contract or provides assistance through loan, grant, loan guarantee or insurance, or otherwise, to the project subject to a statute listed in § 5.1.
 
@@ -20,7 +20,7 @@
 
 (j) The terms *construction, prosecution, completion,* or *repair* mean the following:
 
-(1) All types of work done on a particular building or work at the site thereof, including work at a facility which is deemed a part of the site of the work within the meaning of (paragraph (l) of this section by laborers and mechanics employed by a construction contractor or construction subcontractor (or, under the United States Housing Act of 1937; the Housing Act of 1949; and the Native American Housing Assistance and Self-Determination Act of 1996, all work done in the construction or development of the project), including without limitation -
+(1) All types of work done on a particular building or work at the site thereof, including work at a facility which is deemed a part of the site of the work within the meaning of (paragraph (l) of this section by laborers and mechanics employed by a construction contractor or construction subcontractor (or, under the United States Housing Act of 1937; the Housing Act of 1949; and the Native American Housing Assistance and Self-Determination Act of 1996, all work done in the construction or development of the project), including without limitation—
 
 (i) Altering, remodeling, installation (where appropriate) on the site of the work of items fabricated off-site;
 
@@ -68,4 +68,4 @@
 
 (q) The term *wage determination* includes the original decision and any subsequent decisions modifying, superseding, correcting, or otherwise changing the provisions of the original decision. The application of the wage determination shall be in accordance with the provisions of § 1.6 of this title.
 
-[48 FR 19541, Apr. 29, 1983, as amended at 48 FR 50313, Nov. 1, 1983; 55 FR 50149, Dec. 4, 1990; 57 FR 19206, May 4, 1992; 65 FR 69693, Nov. 20, 2000; 65 FR 80278, Dec. 20, 2000]
+[48 FR 19541, Apr. 29, 1983, as amended at 48 FR 50313, Nov. 1, 1983; 55 FR 50149, Dec. 4, 1990; 57 FR 19206, May 4, 1992; 65 FR 69693, Nov. 20, 2000; 65 FR 80278, Dec. 20, 2000; 82 FR 2225, Jan. 9, 2017]

@@ -22,4 +22,4 @@
 
 (c) *Determination of adequacy.* The Administrator and Assistant Secretary shall determine the adequacy of assurances given pursuant to paragraphs (a) and (b) of this section within each of their respective areas of responsibilities, and may revise any such determination at any time.
 
-(The requirements in paragraph (b) were approved by the Office of Management and Budget under control number 1215-0017)[53 FR 23541, June 22, 1988; 53 FR 24171, June 27, 1988]
+(The requirements in paragraph (b) were approved by the Office of Management and Budget under control number 1235-0018)[53 FR 23541, June 22, 1988; 53 FR 24171, June 27, 1988, as amended at 82 FR 2227, Jan. 9, 2017]

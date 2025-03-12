@@ -2,7 +2,7 @@
 
 For purposes of this part:
 
-(a) *Administrator* means the Administrator of the Wage and Hour Division, Employment Standards Administration, United States Department of Labor, and such authorized representatives as may be designated by the Administrator to perform any of the functions of the Administrator under this part.
+(a) *Administrator* means the Administrator of the Wage and Hour Division, United States Department of Labor, and such authorized representatives as may be designated by the Administrator to perform any of the functions of the Administrator under this part.
 
 (b) *Administrative Law Judge* means a person appointed as provided in title 5 U.S.C. and qualified to preside at hearings under 5 U.S.C. 557. *Chief Administrative Law Judge* means the Chief Administrative Law Judge, United States Department of Labor, 800 K Street, NW., Suite 400, Washington, DC 20001-8002.
 
@@ -138,4 +138,4 @@ Department of Labor for purposes of entering into agreements to carry out the Ac
 
 (y) The *Immigration and Nationality Act* (INA) as amended by the *Immigration Reform and Control Act of 1986* (IRCA) to effectively control unauthorized immigration to the United States and for other purposes, is set out in 8 U.S.C. 1101 *et seq.*
 
-[48 FR 36741, Aug. 12, 1983; 48 FR 38374, Aug. 23, 1983, as amended at 54 FR 13329, Mar. 31, 1989; 56 FR 54708, Oct. 22, 1991; 62 FR 11747, Mar. 12, 1997]
+[48 FR 36741, Aug. 12, 1983; 48 FR 38374, Aug. 23, 1983, as amended at 54 FR 13329, Mar. 31, 1989; 56 FR 54708, Oct. 22, 1991; 62 FR 11747, Mar. 12, 1997; 82 FR 2227, Jan. 9, 2017]

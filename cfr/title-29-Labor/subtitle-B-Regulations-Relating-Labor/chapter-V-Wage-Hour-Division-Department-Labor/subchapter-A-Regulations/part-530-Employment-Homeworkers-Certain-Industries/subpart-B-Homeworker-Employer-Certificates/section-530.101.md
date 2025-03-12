@@ -10,4 +10,6 @@
 
 (b) This certificate may be issued irrespective of whether individual homeworkers meet the conditions set forth in paragraph (a) of § 530.4 of Subpart A. Unless suspended or revoked, such certificates are valid for two-year periods. Applications for renewals must be submitted no later than thirty (30) days prior to the expiration date of the current certificate. Except as provided in subpart A, in the absence of a certificate, the employment of homeworkers in these industries is prohibited, and an employer violating this prohibition is subject to all the sanctions provided in the Fair Labor Standards Act and in this part, including an injunction restraining the employment of homeworkers.
 
-(c) Certificates authorizing such employment may be issued on the following terms and conditions upon written application to the Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210.
+(c) Certificates authorizing such employment may be issued on the following terms and conditions upon written application to the Administrator, Wage and Hour Division, U.S. Department of Labor, 200 Constitution Avenue NW., Washington, DC 20210.
+
+[53 FR 45722, Nov. 10, 1988, as amended at 82 FR 2228, Jan. 9, 2017]

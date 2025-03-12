@@ -20,4 +20,4 @@
 
 (f) The employer's contributions shall be apportioned among the individual employees in accordance with a definite formula or method of calculation specified in the plan, which formula or method of calculation is based on the amount saved or the length of time the individual employee retains his savings or investment in the plan: *Provided,* That no employee's share determined in accordance with the plan may be diminished because of any other remuneration received by him.
 
-(Approved by the Office of Management and Budget under control number 1215-0119)[19 FR 4864, Aug. 3, 1954, as amended at 47 FR 145, Jan. 5, 1982; 71 FR 16666, Apr. 3, 2006]
+(Approved by the Office of Management and Budget under control number 1235-0013)[19 FR 4864, Aug. 3, 1954, as amended at 47 FR 145, Jan. 5, 1982; 71 FR 16666, Apr. 3, 2006; 82 FR 2228, Jan. 9, 2017]

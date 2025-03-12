@@ -1,5 +1,7 @@
 ##### § 1926.55 Gases, vapors, fumes, dusts, and mists. #####
 
+Link to an amendment published at 82 FR 2750, Jan. 9, 2017.
+
 (a) Exposure of employees to inhalation, ingestion, skin absorption, or contact with any material or substance at a concentration above those specified in the “Threshold Limit Values of Airborne Contaminants for 1970” of the American Conference of Governmental Industrial Hygienists, shall be avoided. See appendix A to this section.
 
 (b) To achieve compliance with paragraph (a) of this section, administrative or engineering controls must first be implemented whenever feasible. When such controls are not feasible to achieve full compliance, protective equipment or other protective measures shall be used to keep the exposure of employees to air contaminants within the limits prescribed in this section. Any equipment and technical measures used for this purpose must first be approved for each particular use by a competent industrial hygienist or other technically qualified person. Whenever respirators are used, their use shall comply with § 1926.103.

@@ -1,6 +1,8 @@
 ##### § 1915.1000 Air contaminants. #####
 
-Wherever this section applies, an employees's exposure to any substance listed in Table Z - Shipyards of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
+Link to an amendment published at 82 FR 2744, Jan. 9, 2017.
+
+Wherever this section applies, an employee's exposure to any substance listed in Table Z - Shipyards of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
 
 (a)(1) *Substances with limits preceded by “C” - Ceiling values.* An employee's exposure to any substance in Table Z - Shipyards, the exposure limit of which is preceded by a “C,” shall at no time exceed the exposure limit given for that substance. If instantaneous monitoring is not feasible, then the ceiling shall be assessed as a 15-minute time weighted average exposure which shall not be exceeded at any time over a working day.
 

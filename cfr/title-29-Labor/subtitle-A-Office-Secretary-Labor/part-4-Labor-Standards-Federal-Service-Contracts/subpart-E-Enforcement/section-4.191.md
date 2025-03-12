@@ -6,7 +6,7 @@
 
 (c) Any other report of breach or violation may be in writing and addressed to the Assistant Regional Administrator of a Wage and Hour Division's regional office, U.S. Department of Labor, or to the Administrator of the Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210.
 
-(d) In the event that an Assistant Regional Administrator for the Wage and Hour Division, Employment Standards Administration, is notified of a breach or violation which also involves safety and health standards, the Regional Administrator of the Employment Standards Administration shall notify the appropriate Regional Administrator of the Occupational Safety and Health Administration who shall with respect to the safety and health violation take action commensurate with his responsibilities pertaining to safety and health standards.
+(d) In the event that an Assistant Regional Administrator for the Wage and Hour Division, is notified of a breach or violation which also involves safety and health standards, the Regional Administrator of the Wage and Hour Division shall notify the appropriate Regional Administrator of the Occupational Safety and Health Administration who shall with respect to the safety and health violations take action commensurate with his responsibilities pertaining to safety and health standards.
 
 (e) Any report should contain the following:
 
@@ -15,3 +15,5 @@
 (2) The full name and address of the person against whom the report is made.
 
 (3) A clear and concise statement of the facts constituting the alleged breach or violation of any of the provisions of the McNamara-O'Hara Service Contract Act, or of any of the rules or regulations prescribed thereunder.
+
+[48 FR 49762, Oct. 27, 1983, as amended at 82 FR 2225, Jan. 9, 2017]

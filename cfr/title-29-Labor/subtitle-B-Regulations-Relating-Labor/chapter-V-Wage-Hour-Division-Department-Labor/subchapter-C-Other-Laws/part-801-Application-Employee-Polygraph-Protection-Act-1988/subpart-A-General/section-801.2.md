@@ -14,7 +14,7 @@ For purposes of this part:
 
 (2) The term *lie detector* does not include medical tests used to determine the presence or absence of controlled substances or alcohol in bodily fluids. Also not included in the definition of *lie detector* are written or oral tests commonly referred to as “honesty” or “paper and pencil” tests, machine-scored or otherwise; and graphology tests commonly referred to as handwriting tests.
 
-(e) The term *polygraph* means an instrument that -
+(e) The term *polygraph* means an instrument that—
 
 (1) Records continuously, visually, permanently, and simultaneously changes in cardiovascular, respiratory, and electrodermal patterns as minimum instrumentation standards; and
 
@@ -24,8 +24,8 @@ For purposes of this part:
 
 (g) The term *Secretary* means the Secretary of Labor or authorized representative.
 
-(h) *Employment Standards Administration* means the agency within the Department of Labor, which includes the Wage and Hour Division.
+(h) *Wage and Hour Division* means the organizational unit of the Department of Labor to which is assigned primary responsibility for enforcement and administration of the Act.
 
-(i) *Wage and Hour Division* means the organizational unit in the Employment Standards Administration of the Department of Labor to which is assigned primary responsibility for enforcement and administration of the Act.
+(i) *Administrator* means the Administrator of the Wage and Hour Division, or authorized representative.
 
-(j) *Administrator* means the Administrator of the Wage and Hour Division, or authorized representative.
+[56 FR 9064, Mar. 4, 1991, as amended at 82 FR 2230, Jan. 9, 2017]

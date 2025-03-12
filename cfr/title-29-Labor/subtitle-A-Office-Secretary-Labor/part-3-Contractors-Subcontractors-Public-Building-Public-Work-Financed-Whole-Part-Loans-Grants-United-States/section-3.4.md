@@ -4,4 +4,4 @@
 
 (b) Each contractor or subcontractor shall preserve his weekly payroll records for a period of three years from date of completion of the contract. The payroll records shall set out accurately and completely the name and address of each laborer and mechanic, his correct classification, rate of pay, daily and weekly number of hours worked, deductions made, and actual wages paid. Such payroll records shall be made available at all times for inspection by the contracting officer or his authorized representative, and by authorized representatives of the Department of Labor.
 
-(Reporting and recordkeeping requirements in paragraph (b) have been approved by the Office of Management and Budget under control number 1215-0017)[29 FR 97, Jan. 4, 1964, as amended at 47 FR 145, Jan. 5, 1982]
+(Reporting and recordkeeping requirements in paragraph (b) have been approved by the Office of Management and Budget under control number 1235-0008).[29 FR 97, Jan. 4, 1964, as amended at 47 FR 145, Jan. 5, 1982; 82 FR 2224, Jan. 9, 2017]

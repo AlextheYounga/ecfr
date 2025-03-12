@@ -12,4 +12,4 @@
 
 (b) No homeworker shall perform industrial homework for more than one employer in the same industry, but homework employment in one industry shall not be a bar to the issuance of certificates for other industries.
 
-(Information collection requirements contained in paragraph (a) were approved by the Office of Management and Budget under control number 1215-0005)[24 FR 729, Feb. 3, 1959, as amended at 43 FR 28470, June 30, 1978; 46 FR 50349, Oct. 9, 1981; 49 FR 44270, Nov. 5, 1984; 53 FR 45722, Nov. 10, 1988]
+(Information collection requirements contained in paragraph (a) were approved by the Office of Management and Budget under control number 1235-0001)[24 FR 729, Feb. 3, 1959, as amended at 43 FR 28470, June 30, 1978; 46 FR 50349, Oct. 9, 1981; 49 FR 44270, Nov. 5, 1984; 53 FR 45722, Nov. 10, 1988; 82 FR 2228, Jan. 9, 2017]

@@ -1,7 +1,5 @@
 ##### § 200.4 State law exception. #####
 
-Link to an amendment published at 81 FR 88933, December 8, 2016.
-
 (a) If a State provides satisfactory evidence to the Secretary that neither the State educational agency (SEA) nor any other State government official, agency, or entity has sufficient authority under State law to adopt academic content standards, student academic achievement standards, and academic assessments applicable to all students enrolled in the State's public schools, the State may meet the requirements under §§ 200.1 and 200.2 by -
 
 (1) Adopting academic standards and academic assessments that meet the requirements of §§ 200.1 and 200.2 on a Statewide basis and limiting their applicability to students served under subpart A of this part; or
@@ -28,10 +26,10 @@ Link to an amendment published at 81 FR 88933, December 8, 2016.
 
 (A) Are equivalent to one another in their content coverage, difficulty, and quality;
 
-(B) Have comparable validity and reliability with respect to groups of students described in section 1111(b)(2)(C)(v) of the Act; and
+(B) Have comparable validity and reliability with respect to groups of students described in section 1111(c)(2) of the Act; and
 
-(C) Provide unbiased, rational, and consistent determinations of the annual progress of LEAs and schools within the State; and
+(C) Provide unbiased, rational, and consistent determinations of the annual progress of schools within the State; and
 
-(3) Be able to aggregate, with confidence, data from local assessments to determine whether the State has made adequate yearly progress.
+(3) Be able to aggregate, with confidence, data from local assessments to make accountability determinations under section 1111(c) of the Act.
 
-(Authority: 20 U.S.C. 6311(b)(5))[67 FR 45041, July 5, 2002]
+(Authority: 20 U.S.C. 6311(b)(5))[67 FR 45041, July 5, 2002, as amended at 81 FR 88933, Dec. 8, 2016]

@@ -8,10 +8,10 @@
 
 (b) The term *area* in determining wage rates under the Davis-Bacon Act and the prevailing wage provisions of the other statutes listed in appendix A shall mean the city, town, village, county or other civil subdivision of the State in which the work is to be performed.
 
-(c) The term *Administrator* shall mean the Administrator of the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, or authorized representative.
+(c) The term *Administrator* shall mean the Administrator of the Wage and Hour Division, U.S. Department of Labor, or authorized representative.
 
 (d) The term *agency* shall mean the Federal agency, State highway department under 23 U.S.C. 113, or recipient State or local government under title 1 of the State and Local Fiscal Assistance Act of 1972.
 
 (e) The term *Wage Determinations OnLine (WDOL)* shall mean the Government Internet Web site for both Davis-Bacon Act and Service Contract Act wage determinations available at *http://www.wdol.gov.* In addition, WDOL provides compliance assistance information. The term will also apply to any other Internet Web site or electronic means that the Department of Labor may approve for these purposes.
 
-[48 FR 19533, Apr. 29, 1983, as amended at 48 FR 50313, Nov. 1, 1983; 70 FR 50894, Aug. 26, 2005]
+[48 FR 19533, Apr. 29, 1983, as amended at 48 FR 50313, Nov. 1, 1983; 70 FR 50894, Aug. 26, 2005; 82 FR 2223, Jan. 9, 2017]

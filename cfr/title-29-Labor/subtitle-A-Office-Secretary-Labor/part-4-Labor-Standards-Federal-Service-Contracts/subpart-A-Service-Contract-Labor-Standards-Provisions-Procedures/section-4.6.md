@@ -8,7 +8,7 @@ The clauses set forth in the following paragraphs shall be included in full by t
 
 (2)(i) If there is such a wage determination attached to this contract, the contracting officer shall require that any class of service employee which is not listed therein and which is to be employed under the contract (i.e., the work to be performed is not performed by any classification listed in the wage determination), be classified by the contractor so as to provide a reasonable relationship (i.e., appropriate level of skill comparison) between such unlisted classifications and the classifications listed in the wage determination. Such conformed class of employees shall be paid the monetary wages and furnished the fringe benefits as are determined pursuant to the procedures in this section.
 
-(ii) Such conforming procedure shall be initiated by the contractor prior to the performance of contract work by such unlisted class of employee. A written report of the proposed conforming action, including information regarding the agreement or disagreement of the authorized representative of the employees involved or, where there is no authorized representative, the employees themselves, shall be submitted by the contractor to the contracting officer no later than 30 days after such unlisted class of employees performs any contract work. The contracting officer shall review the proposed action and promptly submit a report of the action, together with the agency's recommendation and all pertinent information including the position of the contractor and the employees, to the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, for review. The Wage and Hour Division will approve, modify, or disapprove the action or render a final determination in the event of disagreement within 30 days of receipt or will notify the contracting officer within 30 days of receipt that additional time is necessary.
+(ii) Such conforming procedure shall be initiated by the contractor prior to the performance of contract work by such unlisted class of employee. A written report of the proposed conforming action, including information regarding the agreement or disagreement of the authorized representative of the employees involved or, where there is no authorized representative, the employees themselves, shall be submitted by the contractor to the contracting officer no later than 30 days after such unlisted class of employees performs any contract work. The contracting officer shall review the proposed action and promptly submit a report of the action, together with the agency's recommendation and all pertinent information including the position of the contractor and the employees, to the Wage and Hour Division, U.S. Department of Labor, for review. The Wage and Hour Division will approve, modify, or disapprove the action or render a final determination in the event of disagreement within 30 days of receipt or will notify the contracting officer within 30 days of receipt that additional time is necessary.
 
 (iii) The final determination of the conformance action by the Wage and Hour Division shall be transmitted to the contracting officer who shall promptly notify the contractor of the action taken. Each affected employee shall be furnished by the contractor with a written copy of such determination or it shall be posted as a part of the wage determination.
 
@@ -22,7 +22,7 @@ The clauses set forth in the following paragraphs shall be included in full by t
 
 (vi) Upon discovery of failure to comply with paragraphs (b)(2)(i) through (v) of this section, the Wage and Hour Division shall make a final determination of conformed classification, wage rate, and/or fringe benefits which shall be retroactive to the date such class of employees commenced contract work.
 
-(3) If, as authorized pursuant to section 4(d) of the Service Contract Act of 1965 as amended, the term of this contract is more than 1 year, the minimum monetary wages and fringe benefits required to be paid or furnished thereunder to service employees shall be subject to adjustment after 1 year and not less often than once every 2 years, pursuant to wage determinations to be issued by the Wage and Hour Division, Employment Standards Administration of the Department of Labor as provided in such Act.
+(3) If, as authorized pursuant to section 4(d) of the Service Contract Act of 1965 as amended, the term of this contract is more than 1 year, the minimum monetary wages and fringe benefits required to be paid or furnished thereunder to service employees shall be subject to adjustment after 1 year and not less often than once every 2 years, pursuant to wage determinations to be issued by the Wage and Hour Division of the Department of Labor as provided in such Act.
 
 (c) The contractor or subcontractor may discharge the obligation to furnish fringe benefits specified in the attachment or determined conformably thereto by furnishing any equivalent combinations of bona fide fringe benefits, or by making equivalent or differential payments in cash in accordance with the applicable rules set forth in subpart D of 29 CFR part 4, and not otherwise.
 
@@ -34,7 +34,7 @@ The clauses set forth in the following paragraphs shall be included in full by t
 
 (f) The contractor or subcontractor shall not permit any part of the services called for by this contract to be performed in buildings or surroundings or under working conditions provided by or under the control or supervision of the contractor or subcontractor which are unsanitary or hazardous or dangerous to the health or safety of service employees engaged to furnish these services, and the contractor or subcontractor shall comply with the safety and health standards applied under 29 CFR part 1925.
 
-(g)(1) The contractor and each subcontractor performing work subject to the Act shall make and maintain for 3 years from the completion of the work records containing the information specified in paragraphs (g)(1) (i) through (vi) of this section for each employee subject to the Act and shall make them available for inspection and transcription by authorized representatives of the Wage and Hour Division, Employment Standards Administration of the U.S. Department of Labor:
+(g)(1) The contractor and each subcontractor performing work subject to the Act shall make and maintain for 3 years from the completion of the work records containing the information specified in paragraphs (g)(1)(i) through (vi) of this section for each employee subject to the Act and shall make them available for inspection and transcription by authorized representatives of the Wage and Hour Division of the U.S. Department of Labor:
 
 (i) Name and address and social security number of each employee.
 
@@ -108,13 +108,14 @@ The following classes of service employees expected to be employed under the con
 
 (The information collection, recordkeeping, and reporting requirements contained in this section have been approved by the Office of Management and Budget under the following numbers:
 
-|   Paragraph    |OMB control number|
-|----------------|------------------|
-|(b)(2) (i)-(iv) |    1215-0150     |
-|      (e)       |    1215-0150     |
-|(g)(1) (i)-(iv) |    1215-0017     |
-|(g)(1) (v), (vi)|    1215-0150     |
-|  (l) (1), (2)  |    1215-0150     |
-|     (q)(3)     |    1215-0017     |
+|  Paragraph   |OMB  <br/>Control No.|
+|--------------|---------------------|
+|(b)(2)(i)-(iv)|      1235-0007      |
+|     (e)      |      1235-0007      |
+|(g)(1)(i)-(iv)|      1235-0007      |
+|              |      1235-0018      |
+|(g)(1)(v)-(vi)|      1235-0007      |
+| (l)(1), (2)  |      1235-0007      |
+|    (q)(3)    |      1235-0007      |
 
-[48 FR 49762, Oct. 27, 1983; 48 FR 50529, Nov. 2, 1983, as amended at 61 FR 68663, Dec. 30, 1996]
+[48 FR 49762, Oct. 27, 1983; 48 FR 50529, Nov. 2, 1983, as amended at 61 FR 68663, Dec. 30, 1996; 82 FR 2224, Jan. 9, 2017]

@@ -2,7 +2,7 @@
 
 (a) The meaning of the terms person, employ, employer, employee, goods, and production, as used in this part, is the same as in the Fair Labor Standards Act of 1938, as amended.
 
-(b) *Administrator* as used in this part means the Administrator of the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, or an authorized representative of the Administrator.
+(b) *Administrator* as used in this part means the Administrator of the Wage and Hour Division, U.S. Department of Labor, or an authorized representative of the Administrator.
 
 (c) *Industrial homeworker* and *homeworker,* as used in this part, mean any employee employed or suffered or permitted to perform industrial homework for an employer.
 
@@ -50,4 +50,4 @@
 
 (l) As used throughout this part the terms “Secretary” or “Secretary of Labor” shall mean the Secretary of Labor, U.S. Department of Labor, or his or her designee.
 
-[24 FR 729, Feb. 3, 1959, as amended at 46 FR 50349, Oct. 9, 1981; 49 FR 22036, May 24, 1984; 53 FR 45722, Nov. 10, 1988; 61 FR 19986, May 3, 1996]
+[24 FR 729, Feb. 3, 1959, as amended at 46 FR 50349, Oct. 9, 1981; 49 FR 22036, May 24, 1984; 53 FR 45722, Nov. 10, 1988; 61 FR 19986, May 3, 1996; 82 FR 2228, Jan. 9, 2017]

@@ -14,8 +14,10 @@
 
 (c) In case of disobedience to a subpoena, the Secretary may invoke the aid of a United States District Court which is authorized to issue an order requiring the person to obey such subpoena.
 
-(d) Any person may report a violation of the Act or these regulations to the Secretary by advising any local office of the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, or any authorized representative of the Administrator. The office or person receiving such a report shall refer it to the appropriate office of the Wage and Hour Division, Employment Standards Administration, for the region or area in which the reported violation is alleged to have occurred.
+(d) Any person may report a violation of the Act or these regulations to the Secretary by advising any local office of the Wage and Hour Division, U.S. Department of Labor, or any authorized representative of the Administrator. The office or person receiving such a report shall refer it to the appropriate office of the Wage and Hour Division for the region or area in which the reported violation is alleged to have occurred.
 
 (e) The Secretary shall conduct investigations in a manner which, to the extent practicable, protects the confidentiality of any complainant or other party who provides information to the Secretary in good faith.
 
 (f) It is a violation of these regulations for any person to resist, oppose, impede, intimidate, or interfere with any official of the Department of Labor assigned to perform an investigation, inspection, or law enforcement function pursuant to the Act during the performance of such duties.
+
+[56 FR 9064, Mar. 4, 1991, as amended at 82 FR 2230, Jan. 9, 2017]

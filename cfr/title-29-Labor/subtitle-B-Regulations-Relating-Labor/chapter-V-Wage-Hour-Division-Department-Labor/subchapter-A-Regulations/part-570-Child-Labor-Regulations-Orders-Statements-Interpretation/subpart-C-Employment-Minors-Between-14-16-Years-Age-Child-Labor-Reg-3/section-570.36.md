@@ -52,4 +52,4 @@
 
 (f) Programs shall be in force and effect for a period of two (2) school years from the date of their approval by the Administrator of the Wage and Hour Division. A new application for approval must be filed at the end of that period. Failure to meet the requirements of this section may result in withdrawal of approval.
 
-(The information collection requirements contained in paragraphs (b)(3)(vi) and (4) were approved by the Office of Management and Budget under control number 1215-0121)[40 FR 40801, Sept. 4, 1975; 40 FR 44130, Sept. 25, 1975; 47 FR 145, Jan. 5, 1982; 47 FR 28095, June 29, 1982, as amended at 49 FR 18294, Apr. 30, 1984; 60 FR 19339, Apr. 17, 1995. Redesignated and amended at 75 FR 28452, May 20, 2010]
+(The information collection requirements contained in paragraphs (b)(3)(vi) and (4) were approved by the Office of Management and Budget under control number 1235-0018)[40 FR 40801, Sept. 4, 1975; 40 FR 44130, Sept. 25, 1975; 47 FR 145, Jan. 5, 1982; 47 FR 28095, June 29, 1982, as amended at 49 FR 18294, Apr. 30, 1984; 60 FR 19339, Apr. 17, 1995. Redesignated and amended at 75 FR 28452, May 20, 2010; 82 FR 2229, Jan. 9, 2017]

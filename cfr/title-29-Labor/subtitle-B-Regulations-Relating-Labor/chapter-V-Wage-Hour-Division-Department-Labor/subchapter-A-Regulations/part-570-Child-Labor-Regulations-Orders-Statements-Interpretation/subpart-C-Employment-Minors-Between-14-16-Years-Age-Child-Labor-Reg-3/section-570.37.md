@@ -28,4 +28,4 @@
 
 (d) Programs shall be in force and effect for a period to be determined by the Administrator of the Wage and Hour Division, but in no case shall be in effect for longer than two school years from the date of their approval by the Administrator of the Wage and Hour Division. A new application for approval must be filed at the end of that period. Failure to meet the requirements of this section may result in withdrawal of the approval.
 
-(The information collection requirements contained in § 570.37 were approved by the OMB under Control No. 1215-0208)[75 FR 28452, May 20, 2010]
+(The information collection requirements contained in § 570.37 were approved by the Office of Management and Budget under control number 1235-0018)[75 FR 28452, May 20, 2010, as amended at 82 FR 2229, Jan. 9, 2017]

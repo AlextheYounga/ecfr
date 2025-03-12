@@ -26,4 +26,4 @@ Student-learner applications must contain:
 
 (3) The occupation must not be one for which a student-learner application was previously submitted by the employer and a special certificate was denied by the Administrator.
 
-(The information collection requirements contained in paragraphs (a), (b), (c), (d), (e), (f), (g), (h) and (i) were approved by the Office of Management and Budget under control number 1215-0192.)
+(The information collection requirements in paragraphs (a), (b), (c), (d), (e), (f), (g), (h), and (i) were approved by the Office of Management and Budget under control number 1235-0001)[62 FR 64959, Dec. 9, 1997, as amended at 82 FR 2228, Jan. 9, 2017]

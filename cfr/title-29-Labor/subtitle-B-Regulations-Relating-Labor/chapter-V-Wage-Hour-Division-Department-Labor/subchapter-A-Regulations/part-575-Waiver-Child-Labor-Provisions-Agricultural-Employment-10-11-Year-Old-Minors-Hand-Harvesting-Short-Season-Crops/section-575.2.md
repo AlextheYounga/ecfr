@@ -4,7 +4,7 @@ As used in this part:
 
 *Act* means the Fair Labor Standards Act of 1938, as amended (52 Stat. 1060, as amended; 29 U.S.C. 201, *et seq.*).
 
-*Administrator* means the Administrator of the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, and includes an authorized representative designated by the Administrator to perform any of the functions of the Administrator under this part.
+*Administrator* means the Administrator of the Wage and Hour Division, U.S. Department of Labor, and includes an authorized representative designated by the Administrator to perform any of the functions of the Administrator under this part.
 
 *Agriculture* means agriculture as defined in section 3(f) of the Act and as interpreted in part 780 of this chapter.
 
@@ -26,4 +26,4 @@ As used in this part:
 
 *Waiver* means a letter signed by the Administrator advising the named employer or group of employers that 10 and 11 year old minors may be employed in the hand-harvesting of the specified short season crop or crops for the period designated, in accordance with the terms and conditions set forth in section 13(c)(4) of the Act and this part.
 
-[43 FR 26562, June 21, 1978; 43 FR 28471, June 30, 1978]
+[43 FR 26562, June 21, 1978; 43 FR 28471, June 30, 1978, as amended at 82 FR 2229, Jan. 9, 2017]

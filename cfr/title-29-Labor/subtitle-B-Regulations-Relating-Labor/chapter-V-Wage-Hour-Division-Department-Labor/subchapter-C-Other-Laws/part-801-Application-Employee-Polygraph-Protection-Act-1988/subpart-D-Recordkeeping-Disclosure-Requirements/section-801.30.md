@@ -20,4 +20,4 @@
 
 (d) All records shall be available for inspection and copying by the Secretary or an authorized representative. Information for which disclosure is restricted under section 9 of the Act and § 801.35 of this part shall be made available to the Secretary or the Secretary's representative where the examinee has designated the Secretary, in writing, to receive such information, or by order of a court of competent jurisdiction.
 
-(Approved by the Office of Management and Budget under control number 1215-0170)
+(Approved by the Office of Management and Budget under control number 1235-0005)[56 FR 9064, Mar. 4, 1991, as amended at 82 FR 2230, Jan. 9, 2017]

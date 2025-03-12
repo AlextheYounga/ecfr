@@ -4,7 +4,7 @@
 
 (b) *Ineligibility.* See § 4.188 of this part for the Secretary's rulings and interpretations with respect to substantial interest.
 
-(c)(1) A request for a determination under this section may be made by any interested party, including contractors or prospective contractors, and associations of contractors, representatives of employees, and interested Government agencies. Such a request shall be submitted in writing to the Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, Washington, DC 20210.
+(c)(1) A request for a determination under this section may be made by any interested party, including contractors or prospective contractors, and associations of contractors, representatives of employees, and interested Government agencies. Such a request shall be submitted in writing to the Administrator, Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210.
 
 (2) The request shall include a statement setting forth in detail why the petitioner believes that a person or firm whose name appears on the debarred bidders list has a substantial interest in any firm, corporation, partnership, or association which is seeking or has been awarded a contract of the United States or the District of Columbia. No particular form is prescribed for the submission of a request under this section.
 
@@ -23,3 +23,5 @@
 (e) *Referral to the Chief Administrative Law Judge.* The Administrator on his/her own motion, or upon a request for a hearing where the Administrator determines that relevant facts are in dispute, shall by order refer the issue to the Chief Administrative Law Judge, for designation of an Administrative Law Judge who shall conduct such hearings as may be necessary to render a decision solely on the issue of substantial interest. As provided in section 4(a) of the Act, the provisions of sections 4 and 5 of the Walsh-Healey Public Contracts Act (41 U.S.C. 38, 39) shall be applicable to such proceedings, which shall be conducted in accordance with the procedures set forth at 29 CFR part 6.
 
 (f) *Referral to the Administrative Review Board.* When the person or firm requests a hearing and the Administrator determines that relevant facts are not in dispute, the Administrator will refer the issue and the record compiled thereon to the Administrative Review Board to render a decision solely on the issue of substantial interest. Such proceeding shall be conducted in accordance with the procedures set forth at 29 CFR part 8.
+
+[48 FR 49762, Oct. 27, 1983, as amended at 82 FR 2225, Jan. 9, 2017]

@@ -12,4 +12,4 @@ Every employer, or where appropriate (in the case of records verifying the worke
 
 (e) The records required under all of the applicable provisions of part 516 of this title, except that any provision pertaining to homeworker handbooks shall not be applicable to workers with disabilities who are employed by a recognized nonprofit rehabilitation facility and working in or about a home, apartment, tenement, or room in a residential establishment. (See § 525.15) Records required by this section shall be maintained and preserved for the periods specified in part 516 of this title.
 
-(Approved by the Office of Management and Budget under control number 1215-0017)
+(Approved by the Office of Management and Budget under control number 1235-0001)[54 FR 32928, Aug. 10, 1989, as amended at 82 FR 2228, Jan. 9, 2017]

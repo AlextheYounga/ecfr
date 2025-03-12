@@ -24,4 +24,4 @@
 
 (c) Any applicant may also submit such additional information as may be pertinent. Applications which fail to provide the information required by the form may be returned to the applicant with a notation of deficiencies and without prejudice against submission of a new or revised application.
 
-(The information collection requirements contained in paragraphs (a), (b) and (c) were approved by the Office of Management and Budget under control number 1215-0192.)
+(The information collection requirements contained in paragraphs (a), (b), and (c) were approved by the Office of Management and Budget under control number 1235-0001)[62 FR 64959, Dec. 9, 1997, as amended at 82 FR 2227, Jan. 9, 2017]

@@ -1,39 +1,41 @@
-##### § 200.5 Timeline for assessments. #####
+##### § 200.5 Assessment administration. #####
 
-Link to an amendment published at 81 FR 88933, December 8, 2016.
+(a) *Frequency.* (1) A State must administer the assessments required under § 200.2 annually as follows:
 
-(a) *Reading/language arts and mathematics.* (1) Through the 2004-2005 school year, a State must administer the assessments required under § 200.2 at least once during -
+(i) With respect to both the reading/language arts and mathematics assessments—
 
-(i) Grades 3 through 5;
+(A) In each of grades 3 through 8; and
 
-(ii) Grades 6 through 9; and
+(B) At least once in grades 9 through 12.
 
-(iii) Grades 10 through 12.
+(ii) With respect to science assessments, not less than one time during each of—
 
-(2) Except as provided in paragraph (a)(3) of this section, beginning no later than the 2005-2006 school year, a State must administer both the reading/language arts and mathematics assessments required under § 200.2 -
+(A) Grades 3 through 5;
 
-(i) In each of grades 3 through 8; and
+(B) Grades 6 through 9; and
 
-(ii) At least once in grades 10 through 12.
+(C) Grades 10 through 12.
 
-(3) The Secretary may extend, for one additional year, the timeline in paragraph (a)(2) of this section if a State demonstrates that -
+(2) A State must administer the English language proficiency assessment required under § 200.6(h) annually to all English learners in schools served by the State in all grades in which there are English learners, kindergarten through grade 12.
 
-(i) Full implementation is not possible due to exceptional or uncontrollable circumstances such as -
+(3) With respect to any other subject chosen by a State, the State may administer the assessments at its discretion.
 
-(A) A natural disaster; or
+(b) *Middle school mathematics exception.* A State that administers an end-of-course mathematics assessment to meet the requirements under paragraph (a)(1)(i)(B) of this section may exempt an eighth-grade student from the mathematics assessment typically administered in eighth grade under paragraph (a)(1)(i)(A) of this section if—
 
-(B) A precipitous and unforeseen decline in the financial resources of the State; and
+(1) The student instead takes the end-of-course mathematics assessment the State administers to high school students under paragraph (a)(1)(i)(B) of this section;
 
-(ii) The State can complete implementation within the additional one-year period.
+(2) The student's performance on the high school assessment is used in the year in which the student takes the assessment for purposes of measuring academic achievement under section 1111(c)(4)(B)(i) of the Act and participation in assessments under section 1111(c)(4)(E) of the Act;
 
-(b) *Science.* Beginning no later than the 2007-2008 school year, the science assessments required under § 200.2 must be administered at least once during -
+(3) In high school—
 
-(1) Grades 3 through 5;
+(i) The student takes a State-administered end-of-course assessment or nationally recognized high school academic assessment as defined in § 200.3(d) in mathematics that—
 
-(2) Grades 6 through 9; and
+(A) Is more advanced than the assessment the State administers under paragraph (a)(1)(i)(B) of this section; and
 
-(3) Grades 10 through 12.
+(B) Provides for appropriate accommodations consistent with § 200.6(b) and (f); and
 
-(c) *Timing of results.* Beginning with the 2002-2003 school year, a State must promptly provide the results of its assessments no later than before the beginning of the next school year to LEAs, schools, and teachers in a manner that is clear and easy to understand.
+(ii) The student's performance on the more advanced mathematics assessment is used for purposes of measuring academic achievement under section 1111(c)(4)(B)(i) of the Act and participation in assessments under section 1111(c)(4)(E) of the Act; and
 
-(Authority: 20 U.S.C. 6311(b)(3))[67 FR 45041, July 5, 2002]
+(4) The State describes in its State plan, with regard to this exception, its strategies to provide all students in the State the opportunity to be prepared for and to take advanced mathematics coursework in middle school.
+
+(Approved by the Office of Management and Budget under control number 1810-0576)(Authority: 20 U.S.C. 1221e-3, 3474, 6311(b)(2)(B)(v), (b)(2)(C), and (b)(2)(G), and 6571)[81 FR 88933, Dec. 8, 2016]

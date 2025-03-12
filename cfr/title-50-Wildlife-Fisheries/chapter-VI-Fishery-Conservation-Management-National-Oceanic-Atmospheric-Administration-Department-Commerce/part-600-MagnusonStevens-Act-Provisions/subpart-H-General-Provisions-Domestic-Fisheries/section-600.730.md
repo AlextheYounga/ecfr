@@ -32,8 +32,8 @@
 
 (1) “AA” repeated (.-.-) is the call to an unknown station. The operator of the signaled vessel should respond by identifying the vessel by radiotelephone or by illuminating the vessel's identification.
 
-(2) “RY-CY” (.-. -. - -.-. -. - ) means “you should proceed at slow speed, a boat is coming to you.” This signal is normally employed when conditions allow an enforcement boarding without the necessity of the vessel being boarded coming to a complete stop, or, in some cases, without retrieval of fishing gear which may be in the water.
+(2) “RY-CY” (.-. -.— -.-. -.—) means “you should proceed at slow speed, a boat is coming to you.” This signal is normally employed when conditions allow an enforcement boarding without the necessity of the vessel being boarded coming to a complete stop, or, in some cases, without retrieval of fishing gear which may be in the water.
 
-(3) “SQ3” (... - .- ... - ) means “you should stop or heave to; I am going to board you.”
+(3) “SQ3” (... —.- ...—) means “you should stop or heave to; I am going to board you.”
 
-[61 FR 32540, June 24, 1996, as amended at 61 FR 37225, July 17, 1996; 63 FR 7075, Feb. 12, 1998; 73 FR 67809, Nov. 17, 2008]
+[61 FR 32540, June 24, 1996, as amended at 61 FR 37225, July 17, 1996; 63 FR 7075, Feb. 12, 1998; 73 FR 67809, Nov. 17, 2008; 81 FR 88998, Dec. 9, 2016]

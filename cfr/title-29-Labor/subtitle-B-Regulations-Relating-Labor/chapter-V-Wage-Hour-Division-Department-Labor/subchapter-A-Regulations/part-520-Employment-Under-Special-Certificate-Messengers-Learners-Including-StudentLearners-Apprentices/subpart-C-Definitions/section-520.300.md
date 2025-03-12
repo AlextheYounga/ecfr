@@ -1,6 +1,6 @@
 ##### § 520.300 Definitions. #####
 
-*Administrator* means the Administrator of the Wage and Hour Division, Employment Standards Administration, United States Department of Labor, or his/her authorized representative.
+*Administrator* means the Administrator of the Wage and Hour Division, United States Department of Labor, or his/her authorized representative.
 
 *Apparel industry* means the manufacturing of the following products as referred to in subpart D of this part:
 
@@ -72,4 +72,6 @@
 
 *Vocational Training Program.* See “Bona fide vocational training program”.
 
-*Wage and Hour Division* means the Wage and Hour Division, Employment Standards Administration, United States Department of Labor.
+*Wage and Hour Division* means the Wage and Hour Division, United States Department of Labor.
+
+[62 FR 64959, Dec. 9, 1997, as amended at 82 FR 2227, Jan. 9, 2017]

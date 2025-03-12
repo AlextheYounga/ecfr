@@ -1,5 +1,7 @@
 ##### § 1910.1000 Air contaminants. #####
 
+Link to an amendment published at 82 FR 2735, Jan. 9, 2017.
+
 An employee's exposure to any substance listed in Tables Z-1, Z-2, or Z-3 of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
 
 (a) *Table Z-1* - (1) *Substances with limits preceded by “C” - Ceiling Values.* An employee's exposure to any substance in Table Z-1, the exposure limit of which is preceded by a “C”, shall at no time exceed the exposure limit given for that substance. If instantaneous monitoring is not feasible, then the ceiling shall be assessed as a 15-minute time weighted average exposure which shall not be exceeded at any time during the working day.

@@ -1,6 +1,6 @@
 ##### § 575.3 Application for waiver. #####
 
-(a) An application for a waiver shall be filed with the Administrator of the Wage and Hour Division, Employment Standards Administration, United States Department of Labor, Washington, DC 20210. To permit adequate time for processing, it is recommended that such applications be filed 6 weeks prior to the period the waiver is to be in effect.
+(a) An application for a waiver shall be filed with the Administrator of the Wage and Hour Division, United States Department of Labor, Washington, DC 20210. To permit adequate time for processing, it is recommended that such applications be filed 6 weeks prior to the period the waiver is to be in effect.
 
 (b) No particular form is prescribed. The application, which may be in letter form, shall be typewritten or clearly written and shall include the following information:
 
@@ -36,4 +36,4 @@
 
 (c) The application shall be signed and dated by the employer or group of employers requesting the waiver or by the authorized representative of such employer or group.
 
-(Approved by the Office of Management and Budget under control number 1215-0120)[43 FR 26562, June 21, 1978, as amended at 47 FR 145, Jan. 5, 1982]
+(Approved by the Office of Management and Budget under control number 1215-0120)[43 FR 26562, June 21, 1978, as amended at 47 FR 145, Jan. 5, 1982; 82 FR 2229, Jan. 9, 2017]

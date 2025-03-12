@@ -22,4 +22,4 @@
 
 (g) Provision is made either for payment to the individual employees of their respective shares of profits within a reasonable period after the determination of the amount of profits to be distributed, or for the irrevocable deposit by the employer of his employees' distributive shares of profits with a trustee for deferred distribution to such employees of their respective shares after a stated period of time or upon the occurrence of appropriate contingencies specified in the plan or trust: *Provided, however,* That the right of an employee to receive his share is not made dependent upon his continuing in the employ of the employer after the period for which the determination of profits has been made.
 
-(Approved by the Office of Management and Budget under control number 1215-0119)[18 FR 3292, June 10, 1953, as amended at 47 FR 145, Jan. 5, 1982; 71 FR 16666, Apr. 3, 2006]
+(Approved by the Office of Management and Budget under control number 1235-0013)[18 FR 3292, June 10, 1953, as amended at 47 FR 145, Jan. 5, 1982; 71 FR 16666, Apr. 3, 2006; 82 FR 2229, Jan. 9, 2017]

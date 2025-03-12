@@ -1,11 +1,9 @@
 ##### § 516.0 Display of OMB control numbers. #####
 
-|Subpart or section where information collection requirement is located|Currently assigned OMB control No.|
-|----------------------------------------------------------------------|----------------------------------|
-|                       Subpart A (except 516.8)                       |            1215.0017             |
-|                                516.8                                 |            1215.0006             |
-|                      Subpart B (except 516.31)                       |            1215.0017             |
-|                                516.31                                |            1215.0013             |
-|                                516.34                                |            1215.0175             |
+|Subpart or section where  <br/>information collection  <br/> requirement is located|Currently  <br/>assigned  <br/>OMB Control  <br/>No.|
+|-----------------------------------------------------------------------------------|----------------------------------------------------|
+|                                     Subpart A                                     |                     1235-0018                      |
+|                                     Subpart B                                     |                     1235-0018                      |
+|                             516.31 also discussed in                              |                     1235-0001                      |
 
-[52 FR 24896, July 1, 1987, as amended at 71 FR 16665, Apr. 3, 2006]
+[82 FR 2227, Jan. 9, 2017]
