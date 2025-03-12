@@ -1,0 +1,5 @@
+##### 811.501-70 Policy—statutory requirement. #####
+
+(a) Contracting officers are required to include a liquidated damages clause in contracts for the performance of any Department function which requires access to VA sensitive personal information (*see* the definition in 802.101), in accordance with 38 U.S.C. 5725(b). The liquidated damages are to be paid by the contractor to the Department of Veterans Affairs in the event of a data breach involving sensitive personal information maintained, processed, or utilized by contractors or any subcontractors.
+
+(b) The purpose of the liquidated damages to be paid for by the contractor in the event of a data breach of personal sensitive information is for VA to provide credit protection services to affected individuals pursuant to 38 U.S.C. 5724(a)-(b).

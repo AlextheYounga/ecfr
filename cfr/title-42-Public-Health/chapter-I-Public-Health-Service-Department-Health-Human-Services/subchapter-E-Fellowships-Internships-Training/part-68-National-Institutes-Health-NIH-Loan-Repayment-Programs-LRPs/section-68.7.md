@@ -1,7 +1,5 @@
 ##### § 68.7 How are applicants selected to participate in the NIH LRPs? #####
 
-Link to an amendment published at 88 FR 4739, Jan. 25, 2023.
-
 The NIH LRP awards are competitive. To be selected for participation in an NIH LRP, applicants must satisfy the following requirements:
 
 (a) Applicants must meet the eligibility requirements specified in §§ 68.3 and 68.4 of this part.
@@ -30,4 +28,6 @@ The NIH LRP awards are competitive. To be selected for participation in an NIH L
 
 (B) Quality and appropriateness of institutional resources and facilities.
 
-(iii) For the Health Disparities Research LRP, at least 50 percent of the contracts are required by statute to be for appropriately qualified health professionals who are members of a health disparity population.
+(iii) For the Health Disparities Research subcategory, at least 50 percent of the contracts are required by statute to be for appropriately qualified health professionals who are members of a health disparity population.
+
+[78 FR 20468, Apr. 5, 2013, as amended at 88 FR 4739, Jan. 25, 2023]

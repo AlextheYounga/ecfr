@@ -1,8 +1,10 @@
 ##### § 2520.103-10 Annual report financial schedules. #####
 
+Link to an amendment published at 88 FR 11811, Feb. 24, 2023.
+
 (a) *General.* The administrator of a plan filing an annual report pursuant to § 2520.103-1(a)(2) or the report for a group insurance arrangement pursuant to § 2520.103-2 shall, as provided in the instructions to the Form 5500 “Annual Return/Report of Employee Benefit Plan,” include as part of the annual report the separate financial schedules described in paragraph (b) of this section.
 
-(b) *Schedules* - (1) *Assets held for investment.* (i) A schedule of all assets held for investment purposes at the end of the plan year (see § 2520.103-11) with assets aggregated and identified by:
+(b) *Schedules*—(1) *Assets held for investment.* (i) A schedule of all assets held for investment purposes at the end of the plan year (see § 2520.103-11) with assets aggregated and identified by:
 
 (A) Identity of issue, borrower, lessor or similar party to the transaction (including a notation as to whether such party is known to be a party in interest);
 

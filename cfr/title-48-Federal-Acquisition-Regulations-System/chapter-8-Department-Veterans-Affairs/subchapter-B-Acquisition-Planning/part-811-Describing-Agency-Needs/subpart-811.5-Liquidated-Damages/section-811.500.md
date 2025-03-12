@@ -1,0 +1,3 @@
+##### 811.500 Scope. #####
+
+This subpart prescribes policies and procedures for using a liquidated damages clause in solicitations and contracts that involve VA sensitive personal information. This also pertains to any solicitations and contracts involving VA sensitive personal information issued by another agency for or on behalf of VA through an interagency acquisition in accordance with FAR subpart 17.5 and subpart 817.5.

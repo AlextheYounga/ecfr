@@ -6,7 +6,7 @@
 
 (3) [Reserved]
 
-(4) There is no *de minimis* level for U.S.-origin technology controlled by ECCN 9E003.a.1 through a.8,.h, .i., and .j., when redrawn, used, consulted, or otherwise commingled abroad.
+(4) There is no *de minimis* level for U.S.-origin technology controlled by ECCN 9E003.a.1 through a.8, h, .i, and .k, when redrawn, used, consulted, or otherwise commingled abroad.
 
 (5) There is no *de minimis* level for foreign-made “military commodities” incorporating one or more of the commodities described in ECCN 0A919.a.1 when destined for a country listed in Country Group D:5 of supplement no. 1 to part 740 of the EAR.
 

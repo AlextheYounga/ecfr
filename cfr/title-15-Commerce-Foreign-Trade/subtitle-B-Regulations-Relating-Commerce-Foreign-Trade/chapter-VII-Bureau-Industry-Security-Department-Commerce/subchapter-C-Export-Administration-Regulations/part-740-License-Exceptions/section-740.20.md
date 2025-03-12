@@ -6,13 +6,13 @@ Note 1 to paragraph (a):
 
 License Exception STA authorizes transfers (in-country) but is only needed to authorize a transfer (in-country) when an EAR authorization is required. If a transfer (in-country) is not being made under STA, the requirements specified in this section do not apply (see Note 1 to paragraphs (b)(2) and (b)(3) of this section for requirements specific to staying within the scope of the original License Exception STA authorization and the concept of 'completing the chain' for purposes of “600 series” items originally authorized under License Exception STA).
 
-(b) *Requirements and Limitations* - (1) *Requirements for Using License Exception STA.* (i) *All* of the reasons for control that impose a part 742 license requirement on the *export, reexport or in country transfer* must be addressed in at least one authorizing paragraph of this section.
+(b) *Requirements and Limitations*—(1) *Requirements for Using License Exception STA.* (i) *All* of the reasons for control that impose a part 742 license requirement on the *export, reexport or in country transfer* must be addressed in at least one authorizing paragraph of this section.
 
 (ii) The party using License Exception STA must comply with all of the requirements in paragraph (d) of this section.
 
 (2) *Limitations on Use of License Exception STA.* The prohibitions and limits of this paragraph (b)(2) apply notwithstanding the authorizations in paragraph (c) of this section.
 
-(i) License Exception STA may not be used in lieu of any license requirement imposed by “Part 744 - Control Policy: End User and End Use Based” or by “Part 746 - Embargoes and Other Special Controls” of the EAR.
+(i) License Exception STA may not be used in lieu of any license requirement imposed by “Part 744—Control Policy: End User and End Use Based” or by “Part 746—Embargoes and Other Special Controls” of the EAR.
 
 (ii) License Exception STA may not be used for:
 
@@ -36,25 +36,27 @@ License Exception STA authorizes transfers (in-country) but is only needed to au
 
 (viii) Commerce Control List Category 9 limitations on use of License Exception STA.
 
-(A) License Exception STA may not be used for 9D001 or 9D002 “software” that is specially designed or modified for the “development” or “production” of:
+(A) License Exception STA may not be used for 9B001 when destined to a country in Country Group A:6.
+
+(B) License Exception STA may not be used for 9D001 or 9D002 “software” that is specially designed or modified for the “development” or “production” of:
 
 (*1*) Components of engines controlled by ECCN 9A001 if such components incorporate any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines), 9E003.h; or
 
 (*2*) Equipment controlled by 9B001.
 
-(B) License Exception STA may not be used for 9D001 “software” that is specially designed or modified for the “development” of “technology” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) or 9E003.h.
+(C) License Exception STA may not be used for 9D001 “software” that is specially designed or modified for the “development” of “technology” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) or 9E003.h.
 
-(C) License Exception STA may not be used for 9D004.f or 9D004.g “software”.
+(D) License Exception STA may not be used for 9D004.f or 9D004.g “software”.
 
-(D) License Exception STA may not be used for 9E001 “technology” according to the General Technology Note for the “development” of 9A001.b engines or components of engines controlled by 9A001.b if such components incorporate:
+(E) License Exception STA may not be used for 9E001 “technology” according to the General Technology Note for the “development” of 9A001.b engines or components of engines controlled by 9A001.b if such components incorporate:
 
 (*1*) Any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) or 9E003.h;
 
 (*2*) Any of the 9D001 or 9D002 software in paragraphs (b)(2)(viii)(A) or (B) of this section.
 
-(E) License Exception STA may not be used for 9E002 “technology” according to the General Technology Note for the “production” of components of engines controlled by 9A001.b if such components incorporate any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) 9E003.h.
+(F) License Exception STA may not be used for 9E002 “technology” according to the General Technology Note for the “production” of components of engines controlled by 9A001.b if such components incorporate any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) 9E003.h.
 
-(F) License Exception STA may not be used for “technology” in 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) 9E003.h.
+(G) License Exception STA may not be used for “technology” in 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) 9E003.h.
 
 (ix) [Reserved]
 
@@ -82,9 +84,9 @@ License Exception STA authorizes transfers (in-country) but is only needed to au
 
 Note 1 to paragraphs (b)(2) and (b)(3):
 
-Any export, reexport, or transfer (in-country) originally authorized under License Exception STA must stay within the scope of the original authorization. For example, for “600 series” items authorized under License Exception STA, such items must be provided to an eligible ultimate end user, such as a Country Group A:5 military, to stay in compliance with the original authorization. This requirement for the “600 series” is referred to as 'completing the chain,' meaning regardless of how many times the “600 series” item is transferred (in-country) or whether the “600 series” item is incorporated into higher level assemblies or other items, the “600 series” item must ultimately be provided to an eligible ultimate end user, or be otherwise authorized under the EAR. This applies regardless of whether the “600 series” item has been incorporated into a foreign-made item that may no longer be “subject to the EAR.” Because the other items eligible for authorization under License Exception STA (9x515 and other non-600 series ECCNs) do not include the “600 series” requirements specific to ultimate end user, this 'completing the chain' concept does not apply to 9x515 and other non-600 series ECCNs authorized under License Exception STA. However, the original export, reexport, or transfer (in-country) made under License Exception STA for 9x515 and other non-600 series ECCNs still must comply with the original authorization - meaning the terms and conditions of License Exception STA.
+Any export, reexport, or transfer (in-country) originally authorized under License Exception STA must stay within the scope of the original authorization. For example, for “600 series” items authorized under License Exception STA, such items must be provided to an eligible ultimate end user, such as a Country Group A:5 military, to stay in compliance with the original authorization. This requirement for the “600 series” is referred to as 'completing the chain,' meaning regardless of how many times the “600 series” item is transferred (in-country) or whether the “600 series” item is incorporated into higher level assemblies or other items, the “600 series” item must ultimately be provided to an eligible ultimate end user, or be otherwise authorized under the EAR. This applies regardless of whether the “600 series” item has been incorporated into a foreign-made item that may no longer be “subject to the EAR.” Because the other items eligible for authorization under License Exception STA (9x515 and other non-600 series ECCNs) do not include the “600 series” requirements specific to ultimate end user, this 'completing the chain' concept does not apply to 9x515 and other non-600 series ECCNs authorized under License Exception STA. However, the original export, reexport, or transfer (in-country) made under License Exception STA for 9x515 and other non-600 series ECCNs still must comply with the original authorization—meaning the terms and conditions of License Exception STA.
 
-(c) *Authorizing paragraphs* - (1) *Multiple reasons for control.* Exports, reexports, and transfers (in-country) in which the only applicable reason(s) for control is (are) national security (NS); chemical or biological weapons (CB); nuclear nonproliferation (NP); regional stability (RS); crime control (CC), and/or significant items (SI) are authorized for destinations in or nationals of Country Group A:5 (See supplement no.1 to part 740 of the EAR).
+(c) *Authorizing paragraphs*—(1) *Multiple reasons for control.* Exports, reexports, and transfers (in-country) in which the only applicable reason(s) for control is (are) national security (NS); chemical or biological weapons (CB); nuclear nonproliferation (NP); regional stability (RS); crime control (CC), and/or significant items (SI) are authorized for destinations in or nationals of Country Group A:5 (See supplement no.1 to part 740 of the EAR).
 
 Note to paragraph (c)(1).
 
@@ -92,7 +94,7 @@ Note to paragraph (c)(1).
 
 (2) *Controls of lesser sensitivity.* Exports, reexports and transfers (in-country) in which the only applicable reason for control is national security (NS) and the item being exported, reexported or transferred (in-country) is not designated in the STA paragraph in the License Exception section of the ECCN that lists the item are authorized for destinations in or nationals of Country Group A:6 (See supplement no. 1 to this part).
 
-(d) *Conditions* - (1) *Requirement to furnish Export Control Classification Number.* (i) The exporter must furnish to the consignee the ECCN of each item to be exported pursuant to this section. Once furnished to a particular consignee, the ECCN that applies to any item need not be refurnished to that consignee at the time the same exporter makes an additional export of the same item, if the information remains accurate at the time of the additional export.
+(d) *Conditions*—(1) *Requirement to furnish Export Control Classification Number.* (i) The exporter must furnish to the consignee the ECCN of each item to be exported pursuant to this section. Once furnished to a particular consignee, the ECCN that applies to any item need not be refurnished to that consignee at the time the same exporter makes an additional export of the same item, if the information remains accurate at the time of the additional export.
 
 (ii) A reexporter or transferor must furnish to subsequent consignees the ECCN, provided by the exporter or a prior reexporter or transferor, of each item to be reexported or transferred (in-country) pursuant to this section. Once furnished to a particular consignee, the ECCN that applies to any item need not be refurnished to that consignee at the time the same reexporter or transferor makes an additional reexport or transfer (in-country) of the same item, if the information remains accurate at the time of the additional reexport or transfer (in-country).
 
@@ -150,7 +152,7 @@ While the exporter, reexporter, and transferor must furnish the applicable ECCN 
 
 (f) *Applicability of Wassenaar Arrangement reporting requirements.* See § 743.1 of the EAR for special reporting requirements that apply to some exports made pursuant to this section.
 
-(g) *License Exception STA eligibility requests for 9x515 and “600 series” items* - (1) *Applicability.* Any person may request License Exception STA eligibility for end items described in ECCN 0A606.a, ECCN 8A609.a, ECCNs 8A620.a or .b, “spacecraft” in ECCNs 9A515.a.1, .a.2, .a.3, or .a.4, “sub-orbital craft,” or items in 9A515.g, 9A610.a, or technology ECCNs 9E515.b, .d, .e, or .f.
+(g) *License Exception STA eligibility requests for 9x515 and “600 series” items*—(1) *Applicability.* Any person may request License Exception STA eligibility for end items described in ECCN 0A606.a, ECCN 8A609.a, ECCNs 8A620.a or .b, “spacecraft” in ECCNs 9A515.a.1, .a.2, .a.3, or .a.4, “sub-orbital craft,” or items in 9A515.g, 9A610.a, or technology ECCNs 9E515.b, .d, .e, or .f.
 
 (2) *Required information and manner of requests.* Requests for License Exception STA eligibility must be made via the BIS Simplified Network Application Process-Redesign(SNAP-R) system unless BIS authorizes submission via the paper BIS-748-P Multipurpose Application form. For situations in which BIS 748-P submissions may be authorized, see § 748.1(d)(1). For required information specific to License Exception STA eligibility requests, see supplement no. 1 to part 748, Blocks 5 and 6 and supplement no. 2 to part 748, paragraph (w). In SNAP-R the work type for these applications is “Export.”
 
@@ -158,7 +160,7 @@ While the exporter, reexporter, and transferor must furnish the applicable ECCN 
 
 (4) *Review criteria.* The Departments of Commerce, Defense and State will determine whether the “end item” is eligible for this license exception based on an assessment of whether it provides a critical military or intelligence advantage to the United States or is otherwise available in countries that are not regime partners or close allies. If the “end item” does not provide a critical military or intelligence advantage to the United States or is otherwise available in countries that are not regime partners or close allies, the Departments will determine that License Exception STA is available unless an overarching foreign policy rationale for restricting STA availability can be articulated. Consensus among the Departments is required in order for an “end item” to be eligible for License Exception STA. Such determinations are made by the departments' representatives to the Advisory Committee on Export Policy (ACEP), or their designees.
 
-(5) *Disposition of License Exception STA eligibility requests* - (i) *Approvals.* If the request for STA eligibility is approved, the applicant will receive notification from BIS authorizing the use of the additional License Exception STA for the specific end items requested. This will be in the form of a notice generated by SNAP-R to the applicant. Applicants who receive an approval notification may share it with companies affiliated with them, such as a branch or distributor, and may also take steps to make it public (e.g., on their Web site) if the applicants so wish. In addition, BIS will add a description of the approved end item in the relevant ECCN and in an online table posted on the BIS Web site, which removes the restriction on the use of License Exception STA for the end item identified in the approved request. BIS will publish, as needed, a final rule adding this license exception eligibility to the EAR for that ECCN entry or end item.
+(5) *Disposition of License Exception STA eligibility requests*—(i) *Approvals.* If the request for STA eligibility is approved, the applicant will receive notification from BIS authorizing the use of the additional License Exception STA for the specific end items requested. This will be in the form of a notice generated by SNAP-R to the applicant. Applicants who receive an approval notification may share it with companies affiliated with them, such as a branch or distributor, and may also take steps to make it public (e.g., on their Web site) if the applicants so wish. In addition, BIS will add a description of the approved end item in the relevant ECCN and in an online table posted on the BIS Web site, which removes the restriction on the use of License Exception STA for the end item identified in the approved request. BIS will publish, as needed, a final rule adding this license exception eligibility to the EAR for that ECCN entry or end item.
 
 (ii) *Denials.* If the STA eligibility request is not approved, the applicant will receive written notification from BIS. This will be in the form of a notice generated by SNAP-R to the applicant. Applicants may re-submit STA eligibility requests at any time.
 

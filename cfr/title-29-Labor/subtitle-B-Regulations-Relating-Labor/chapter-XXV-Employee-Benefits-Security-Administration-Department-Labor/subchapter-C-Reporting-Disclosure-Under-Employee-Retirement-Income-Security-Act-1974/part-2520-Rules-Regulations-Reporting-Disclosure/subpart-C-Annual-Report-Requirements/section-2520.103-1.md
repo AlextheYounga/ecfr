@@ -1,5 +1,7 @@
 ##### § 2520.103-1 Contents of the annual report. #####
 
+Link to an amendment published at 88 FR 11810, Feb. 24, 2023.
+
 (a) *In general.* The administrator of a plan required to file an annual report in accordance with section 104(a)(1) of the Act shall include with the annual report the information prescribed in paragraph (a)(1) of this section or in the simplified report, limited exemption or alternative method of compliance described in paragraph (a)(2) of this section.
 
 (1) The annual report shall contain the information prescribed in section 103 of the Act.
@@ -22,7 +24,7 @@
 
 (5) A report of an independent qualified public accountant.
 
-(i) *Technical requirements.* The accountant's report -
+(i) *Technical requirements.* The accountant's report—
 
 (A) Shall be dated;
 
@@ -32,7 +34,7 @@
 
 (D) Shall identify without detailed enumeration the financial statements and schedules covered by the report.
 
-(ii) *Representations as to the audit.* The accountant's report -
+(ii) *Representations as to the audit.* The accountant's report—
 
 (A) Shall state whether the audit was made in accordance with generally accepted auditing standards; and
 
@@ -46,7 +48,7 @@
 
 (iv) *Exceptions.* Any matters to which the accountant takes exception shall be clearly identified, the exception thereto specifically and clearly stated, and, to the extent practicable, the effect of the matters to which the accountant takes exception on the related financial statements given. The matters to which the accountant takes exception shall be further identified as (A) those that are the result of DOL regulations, and (B) all others.
 
-(c) *Contents of the annual report for plans with fewer than 100 participants.* (1) Except as provided in paragraph (c)(2), paragraph (d) and paragraph (f) of this section, and in §§ 2520.104-43, 2520.104a-6, and 2520.104-44, the annual report of an employee benefit plan that covers fewer than 100 participants at the beginning of the plan year shall include a Form 5500 “Annual Return/Report of Employee Benefit Plan” and any statements or schedules required to be attached to the form, completed in accordance with the instructions for the form, including Schedule A (Insurance Information), Schedule SB (Single Employer Defined Benefit Plan Actuarial Information), Schedule MB (Multiemployer Defined Benefit Plan and Certain Money Purchase Plan Actuarial Information), Schedule D (DFE/Participating Plan Information), Schedule I (Financial Information - Small Plan), and Schedule R (Retirement Plan Information). See the instructions for this form.
+(c) *Contents of the annual report for plans with fewer than 100 participants.* (1) Except as provided in paragraph (c)(2), paragraph (d) and paragraph (f) of this section, and in §§ 2520.104-43, 2520.104a-6, and 2520.104-44, the annual report of an employee benefit plan that covers fewer than 100 participants at the beginning of the plan year shall include a Form 5500 “Annual Return/Report of Employee Benefit Plan” and any statements or schedules required to be attached to the form, completed in accordance with the instructions for the form, including Schedule A (Insurance Information), Schedule SB (Single Employer Defined Benefit Plan Actuarial Information), Schedule MB (Multiemployer Defined Benefit Plan and Certain Money Purchase Plan Actuarial Information), Schedule D (DFE/Participating Plan Information), Schedule I (Financial Information—Small Plan), and Schedule R (Retirement Plan Information). See the instructions for this form.
 
 (2)(i) The annual report of an employee benefit plan that covers fewer than 100 participants at the beginning of the plan year and that meets the conditions in paragraph (c)(2)(ii) of this section with respect to a plan year may, as an alternative to the requirements of paragraph (c)(1) of this section, meet its annual reporting requirements by filing the Form 5500-SF “Short Form Annual Return/Report of Small Employee Benefit Plan” and any statements or schedules required to be attached to the form, including Schedule SB (Single Employer Defined Benefit Plan Actuarial Information) and Schedule MB (Multiemployer Defined Benefit Plan and Certain Money Purchase Plan Actuarial Information), completed in accordance with the instructions for the form. See the instructions for this form.
 

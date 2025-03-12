@@ -1,5 +1,7 @@
 ##### § 2520.104a-5 Annual reporting filing requirements. #####
 
+Link to an amendment published at 88 FR 11812, Feb. 24, 2023.
+
 (a) *Filing obligation.* Except as provided in § 2520.104a-6, the administrator of an employee benefit plan required to file an annual report pursuant to section 104(a)(1) of the Act shall file an annual report containing the items prescribed in § 2520.103-1 within:
 
 (1) [Reserved]

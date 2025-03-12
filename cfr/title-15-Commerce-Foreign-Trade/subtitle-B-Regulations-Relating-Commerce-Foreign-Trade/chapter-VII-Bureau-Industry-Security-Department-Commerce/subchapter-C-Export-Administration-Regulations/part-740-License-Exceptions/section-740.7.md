@@ -1,5 +1,7 @@
 ##### § 740.7 Computers (APP). #####
 
+Link to an amendment published at 88 FR 12112, Feb. 24, 2023.
+
 (a) *Scope* - (1) *Commodities.* License Exception APP authorizes exports, reexports and transfers (in-country) of computers, including “electronic assemblies” and specially designed components therefor controlled by ECCN 4A003 exported or reexported separately or as part of a system for consumption in Computer Tier countries as provided by this section. When evaluating your computer to determine License Exception APP eligibility, use the APP parameter to the exclusion of other technical parameters in ECCN 4A003.
 
 (2) *Technology and software.* License Exception APP authorizes exports of technology and software controlled by ECCNs 4D001 and 4E001 specially designed or modified for the “development,” “production,” or “use” of computers, including “electronic assemblies” and specially designed components therefor classified in ECCN 4A003 to Computer Tier countries as provided by this section.
@@ -24,9 +26,9 @@
 
 (3) *Eligible technology and software.* (i) Technology and software described in paragraph (a)(2) of this section for computers of unlimited APP are eligible for export, reexport, transfer (in-country) under License Exception APP to countries listed in Country Group A:5, see supplement no. 1 to this part; and
 
-(ii) “Development” and “production” technology and source code described in paragraph (a)(2) of this section for computers with a APP less than or equal to 40 Weighted TeraFLOPS (WT) are eligible for deemed exports under License Exception APP to foreign nationals of Tier 1 destinations, other than the destinations that are listed in paragraph (c)(3)(i) of this section, subject to the restrictions in paragraph (b) of this section.
+(ii) “Development” and “production” technology and source code described in paragraph (a)(2) of this section for computers with a APP less than or equal to 175 Weighted TeraFLOPS (WT) are eligible for deemed exports under License Exception APP to foreign nationals of Tier 1 destinations, other than the destinations that are listed in paragraph (c)(3)(i) of this section, subject to the restrictions in paragraph (b) of this section.
 
-(iii) “Use” technology and source code described in paragraph (a)(2) of this section for computers with a APP less than or equal to 200 WT are eligible for deemed exports under License Exception APP to foreign nationals of Tier 1 destinations, other than the destinations that are listed in paragraph (c)(3)(i) of this section, subject to the restrictions in paragraph (b) of this section.
+(iii) “Use” technology and source code described in paragraph (a)(2) of this section for computers with a APP less than or equal to 500 WT are eligible for deemed exports under License Exception APP to foreign nationals of Tier 1 destinations, other than the destinations that are listed in paragraph (c)(3)(i) of this section, subject to the restrictions in paragraph (b) of this section.
 
 (d) *Computer Tier 3 destinations* - (1) *Eligible destinations.* Eligible destinations under paragraph (d) of this section are: Afghanistan, Algeria, Andorra, Angola, Armenia, Azerbaijan, Bahrain, Belarus, Bosnia & Herzegovina, Burma, Cambodia, China (People's Republic of), Comoros, Djibouti, Egypt, Georgia, India, Iraq, Israel, Jordan, Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Laos, Lebanon, Libya, Macau, Macedonia (The Former Yugoslav Republic of), Mauritania, Moldova, Mongolia, Montenegro, Morocco, Oman, Pakistan, Qatar, Russia, Saudi Arabia, Serbia, Sudan, Tajikistan, Tunisia, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Vanuatu, Vietnam, and Yemen.
 

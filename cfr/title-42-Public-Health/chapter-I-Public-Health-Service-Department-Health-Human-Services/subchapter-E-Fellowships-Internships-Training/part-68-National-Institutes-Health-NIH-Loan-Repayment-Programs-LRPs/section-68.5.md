@@ -1,7 +1,5 @@
 ##### § 68.5 Who is ineligible to participate? #####
 
-Link to an amendment published at 88 FR 4739, Jan. 25, 2023.
-
 The following individuals are ineligible for NIH LRP participation:
 
 (a) Persons who do not meet the eligibility requirements as specified under § 68.3 of this part;
@@ -30,7 +28,7 @@ The following individuals are ineligible for NIH LRP participation:
 
 (10) Public Health Service Scholarship (PHS) Program;
 
-(d) For extramural LRPs only: Individuals who receive any research funding support or salary from a for-profit institution or organization, or Federal Government employees working more than 20 hours per week;
+(d) For Extramural LRP only: Individuals who receive any salary support or participate in research that receives funding support from a for-profit institution or organization, or Federal Government employees working more than 20 hours per week;
 
 (e) Current recipients of NIH intramural training awards, e.g., NIH Intramural Research Training Awards (IRTA) or Cancer Research Training Awards (CRTA);
 
@@ -39,3 +37,5 @@ The following individuals are ineligible for NIH LRP participation:
 (g) Individuals with only ineligible loans or loans that are not educational; and
 
 (h) Individuals who do not have sufficient qualifying educational debt to meet the debt threshold.
+
+[78 FR 20468, Apr. 5, 2013, as amended at 88 FR 4739, Jan. 25, 2023]

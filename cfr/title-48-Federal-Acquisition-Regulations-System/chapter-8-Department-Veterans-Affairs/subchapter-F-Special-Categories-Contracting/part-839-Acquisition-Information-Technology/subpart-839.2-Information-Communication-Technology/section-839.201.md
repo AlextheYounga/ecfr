@@ -1,0 +1,3 @@
+##### 839.201 Scope of subpart. #####
+
+This subpart applies to the acquisition of Information and Communication Technology (ICT) supplies and services. It concerns the access to and use of information and data by both Federal employees with disabilities and members of the public with disabilities in accordance with FAR 39.201. This subpart implements VA policy on section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) and 36 CFR parts 1193 and 1194 as it applies to contracts and acquisitions when developing, procuring, maintaining, or using ICT.

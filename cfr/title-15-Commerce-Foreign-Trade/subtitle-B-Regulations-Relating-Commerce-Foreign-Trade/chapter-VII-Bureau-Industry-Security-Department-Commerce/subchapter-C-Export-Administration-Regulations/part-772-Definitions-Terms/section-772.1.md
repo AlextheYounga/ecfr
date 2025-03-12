@@ -14,13 +14,13 @@ For the most current list of MDE, see Appendix 1, (Nonrecurring Cost Recoupment 
 
 *Accessories.* These are associated items for any “component,” “end item,” or “system,” and which are not necessary for their operation, but which enhance their usefulness or effectiveness. For example, for a riding lawnmower, “accessories” and “attachments” will include the bag to capture the cut grass, and a canopy to protect the operator from the sun and rain. For purposes of this definition, “accessories” and “attachments” are the same.
 
-*Accuracy.* (Cat 2, 3, 6, 7 and 8) - “Accuracy” is usually measured in terms of inaccuracy. It is defined as the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.
+*Accuracy.* (Cat 2, 3, 6, 7 and 8)—“Accuracy” is usually measured in terms of inaccuracy. It is defined as the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.
 
-*Active flight control systems.* (Cat 7) - Function to prevent undesirable “aircraft” and “missile” motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
+*Active flight control systems.* (Cat 7)—Function to prevent undesirable “aircraft” and “missile” motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
 
-*Active pixel.* (Cat 6) - A minimum (single) element of the solid state array that has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
+*Active pixel.* (Cat 6)—A minimum (single) element of the solid state array that has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
 
-*Adaptive control.* (Cat 2) - A control system that adjusts the response from conditions detected during the operation (Ref. ISO 2806-1980).
+*Adaptive control.* (Cat 2)—A control system that adjusts the response from conditions detected during the operation (Ref. ISO 2806-1980).
 
 *Adjusted Peak Performance (APP).* (Cat 4) An adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications. The formula to calculate APP is contained in a technical note at the end of Category 4 of the Commerce Control List.
 
@@ -42,7 +42,7 @@ Note 3:
 
 For purposes of License Exception AGR and export license applications to Iran under the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control, agricultural commodities only include those that are classified as EAR99.
 
-*Aircraft.* (Cat 1, 6, 7, and 9) - A fixed wing, swivelwing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle. (See also “civil aircraft”.)
+*Aircraft.* (Cat 1, 6, 7, and 9)—A fixed wing, swivelwing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle. (See also “civil aircraft”.)
 
 *Airline.* Any person engaged primarily in the transport of persons or property by aircraft for compensation or hire, pursuant to authorization by the U.S. Government or a foreign government.
 
@@ -50,7 +50,7 @@ For purposes of License Exception AGR and export license applications to Iran un
 
 *All compensations available.* (Cat 2) means after all feasible measures available to the manufacturer to minimize all systematic positioning errors for the particular machine-tool model or measuring errors for the particular coordinate measuring machine are considered.
 
-*Allocated by the ITU.* (Cat 3 and Cat 5 part 1) - The allocation of frequency bands according to the current edition of the ITU Radio Regulations for primary, permitted and secondary services.
+*Allocated by the ITU.* (Cat 3 and Cat 5 part 1)—The allocation of frequency bands according to the current edition of the ITU Radio Regulations for primary, permitted and secondary services.
 
 N.B.
 
@@ -58,7 +58,7 @@ Additional and alternative allocations are not included.
 
 *Angle random walk.* (Cat 7) The angular error buildup with time that is due to white noise in angular rate. (IEEE STD 528-2001)
 
-*Angular position deviation.* (Cat 2) - The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
+*Angular position deviation.* (Cat 2)—The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
 
 *“APP”* See “Adjusted Peak Performance.” This term may also appear without quotation marks.
 
@@ -106,9 +106,9 @@ b. The common design and process technology; *and*
 
 c. The common basic characteristics.
 
-*Basic Scientific Research.* (GTN) - Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
+*Basic Scientific Research.* (GTN)—Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
 
-*Bias.* (accelerometer) (Cat 7) - The average over a specified time of accelerometer output measured at specified operating conditions, that has no correlation with input acceleration or rotation. “Bias” is expressed in g or in meters per second2 (g or m/s2) (IEEE Std 528-2001) (Micro g equals 1×10−6 g).
+*Bias.* (accelerometer) (Cat 7)—The average over a specified time of accelerometer output measured at specified operating conditions, that has no correlation with input acceleration or rotation. “Bias” is expressed in g or in meters per second2 (g or m/s2) (IEEE Std 528-2001) (Micro g equals 1×10−6 g).
 
 “Bias”. (gyro) (Cat 7) The average over a specified time of gyro output measured at specified operating conditions that has no correlation with input rotation or acceleration. “Bias” is typically expressed in degrees per hour (deg/hr). (IEEE Std 528-2001).
 
@@ -136,7 +136,7 @@ c. The common basic characteristics.
 
 *CCL Group.* The Commerce Control List (CCL) is divided into 10 categories. Each category is subdivided into five groups, designated by the letters A through E: (A) Equipment, assemblies and components; (B) Test, inspection and production equipment; (C) Materials; (D) Software; and (E) Technology. See § 738.2(b) of the EAR.
 
-*Camming.* (axial displacement) (Cat 2) - Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Ref.: ISO 230 Part 1-1986, paragraph 5.63).
+*Camming.* (axial displacement) (Cat 2)—Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Ref.: ISO 230 Part 1-1986, paragraph 5.63).
 
 *Canadian airline.* Any citizen of Canada who is authorized by the Canadian Government to engage in business as an airline. For purposes of this definition, a Canadian citizen is:
 
@@ -146,17 +146,17 @@ c. The common basic characteristics.
 
 (c) A Canadian firm incorporated or otherwise organized under the laws of Canada or any Canadian province, having a total foreign stock interest not greater than 40 percent and having the Chairman or Acting Chairman and at least two-thirds of the Directors thereof Canadian citizens.
 
-*Capable of.* (MTCR context) - See “usable in”.
+*Capable of.* (MTCR context)—See “usable in”.
 
 *Category.* The Commerce Control List (CCL) is divided into ten categories: (0) Nuclear Materials, Facilities and Equipment, and Miscellaneous; (1) Materials, Chemicals, “Microorganisms”, and Toxins; (2) Materials Processing; (3) Electronics Design, Development and Production; (4) Computers; (5) Telecommunications and Information Security; (6) Sensors; (7) Navigation and Avionics; (8) Marine; (9) Propulsion Systems, Space Vehicles, and Related Equipment. See § 738.2(a) of the EAR.
 
-*Chemical laser.* (Cat 6) - A “laser” in which the excited species is produced by the output energy from a chemical reaction.
+*Chemical laser.* (Cat 6)—A “laser” in which the excited species is produced by the output energy from a chemical reaction.
 
 *Chemical Weapons Convention (CWC).* Means “The Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction”, opened for signature on January 13, 1993.
 
 *Circular Error Probable.* (“CEP”) (Cat 7) In a circular normal distribution, the radius of the circle containing 50% of the individual measurements being made, or the radius of the circle within which there is a 50% probability of being located.
 
-*Circulation-controlled, anti-torque or circulation-controlled direction control systems* (Cat 7) - Control systems using air blown over aerodynamic surfaces to increase or control the forces generated by the surfaces.
+*Circulation-controlled, anti-torque or circulation-controlled direction control systems* (Cat 7)—Control systems using air blown over aerodynamic surfaces to increase or control the forces generated by the surfaces.
 
 *Civil aircraft.* (Cat 1, 3, 4, 7 and 9) Those “aircraft” listed by designation in published airworthiness certification lists by civil aviation authorities of one or more Wassenaar Arrangement Participating States to fly commercial civil internal and external routes or for legitimate civil, private or business use. (see also “aircraft”)
 
@@ -166,19 +166,19 @@ c. The common basic characteristics.
 
 *Commodity.* Any article, material, or supply except technology and software.
 
-*Communications Channel Controller.* (Cat 4) - The physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
+*Communications Channel Controller.* (Cat 4)—The physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
 
-*Compensation systems.* (Cat 6) Consist of the primary scalar sensor, one or more reference sensors (*e.g.,* vector “magnetometers”) together with software that permit reduction of rigid body rotation noise of the platform.
+*Compensation systems.* (Cat 6) Consist of the primary scalar sensor, one or more reference sensors (*e.g.,* vector “magnetometers”) together with software that permit reduction of the rigid body rotation noise of the platform.
 
 *Complete breech mechanisms.* The mechanism for opening and closing the breech of a breech-loading firearm, especially of a heavy-caliber weapon.
 
 *Component.* This is an item that is useful only when used in conjunction with an “end item.” “Components” are also commonly referred to as assemblies. For purposes of this definition an assembly and a “component” are the same. There are two types of “components”: “Major components” and “minor components.” A “major component” includes any assembled element which forms a portion of an “end item” without which the “end item” is inoperable. For example, for an automobile, “components” will include the engine, transmission, and battery. If you do not have all those items, the automobile will not function, or function as effectively. A “minor component” includes any assembled element of a “major component.” “Components” consist of “parts.” References in the CCL to “components” include both “major components” and “minor components.”
 
-*Composite.* (Cat 1, 2, 6, 8, and 9) - A “matrix” and an additional phase or additional phases consisting of particles, whiskers, fibers or any combination thereof, present for a specific purpose or purposes.
+*Composite.* (Cat 1, 2, 6, 8, and 9)—A “matrix” and an additional phase or additional phases consisting of particles, whiskers, fibers or any combination thereof, present for a specific purpose or purposes.
 
 “III/V compounds”. (Cat 3 and 6) Polycrystalline or binary or complex monocrystalline products consisting of elements of groups IIIA and VA of Mendeleyev's periodic classification table (e.g., gallium arsenide, gallium-aluminum arsenide, indium phosphide).
 
-*Contouring control.* (Cat 2) - Two or more “numerically controlled” motions operating in accordance with instructions that specify the next required position and the required feed rates to that position. These feed rates are varied in relation to each other so that a desired contour is generated (Ref. ISO/DIS 2806 - 1980).
+*Contouring control.* (Cat 2)—Two or more “numerically controlled” motions operating in accordance with instructions that specify the next required position and the required feed rates to that position. These feed rates are varied in relation to each other so that a desired contour is generated (Ref. ISO/DIS 2806—1980).
 
 *Controlled country.* Countries designated controlled for national security purposes under authority delegated to the Secretary of Commerce by Executive Order 12214 of May 2, 1980 pursuant to section 5(b) of the EAA. The controlled countries are: Albania, Armenia, Azerbaijan, Belarus, Cambodia, Cuba, the People's Republic of China, Georgia, Iraq, Kazakhstan, Kyrgyzstan, Laos, Macau, Moldova, Mongolia, North Korea, Russia, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, and Vietnam. All of the controlled countries except Cuba are listed in Country Group D:1 of the EAR. Cuba is listed in Country Group E:2. This definition does not apply to part 768 of the EAR (Foreign Availability), which provides a dedicated definition.
 
@@ -188,7 +188,7 @@ c. The common basic characteristics.
 
 *Country Groups.* For export control purposes, foreign countries are separated into five country groups designated by the symbols A, B, C, D, and E. (See supplement no. 1 to part 740 of the EAR for a list of countries in each Country Group.)
 
-*Critical temperature.* (Cat 1, 3, 5P1, and 6) - The “critical temperature” (sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
+*Critical temperature.* (Cat 1, 3, 5P1, and 6)—The “critical temperature” (sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
 
 *Crude oil.* A mixture of hydrocarbons that existed in liquid phase in underground reservoirs, remains liquid at atmospheric pressure (after passing through surface separating facilities), and has not been processed through a crude oil distillation tower. Crude oil includes reconstituted crude petroleum, lease condensate, and liquid hydrocarbons produced from tar sands, gilsonite, and oil shale. Drip gases are also included, but topped crude oil, residual oil, and other finished and unfinished oils are excluded.
 
@@ -214,7 +214,7 @@ Technical note 2 to definition of “Cryptographic activation”:
 
 Mechanisms for “cryptographic activation” can, for example, be serial number-based license keys or authentication instruments such as digitally signed certificates.
 
-*Cryptography* (Cat 5P2) - The discipline that embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more 'secret parameters' (*e.g.,* crypto variables) and/or associated key management.
+*Cryptography* (Cat 5P2)—The discipline that embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more 'secret parameters' (*e.g.,* crypto variables) and/or associated key management.
 
 Notes:
 
@@ -248,13 +248,13 @@ It is the maximum one-way rate, i.e., the maximum rate in either transmission or
 
 *Depleted uranium.* (Cat 0) means uranium depleted in the isotope 235 below that occurring in nature.
 
-*Designed or modified.* (MTCR context) - Equipment, parts, components, or “software” that, as a result of “development”, or modification, have specified properties that make them fit for a particular application. “Designed or modified” equipment, parts, components or “software” can be used for other applications. For example, a titanium coated pump designed for a “missile” may be used with corrosive fluids other than propellants.
+*Designed or modified.* (MTCR context)—Equipment, parts, components, or “software” that, as a result of “development”, or modification, have specified properties that make them fit for a particular application. “Designed or modified” equipment, parts, components or “software” can be used for other applications. For example, a titanium coated pump designed for a “missile” may be used with corrosive fluids other than propellants.
 
-*Development.* (General Technology Note) - “Development” is related to all stages prior to serial production, such as: design, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.
+*Development.* (General Technology Note)—“Development” is related to all stages prior to serial production, such as: design, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.
 
-*Diffusion bonding.* (Cat 1, 2, and 9) - A solid state joining of at least two separate pieces of metals into a single piece with a joint strength equivalent to that of the weakest material, wherein the principal mechanism is interdiffusion of atoms across the interface.
+*Diffusion bonding.* (Cat 1 and 2)—A solid state joining of at least two separate pieces of metals into a single piece with a joint strength equivalent to that of the weakest material, wherein the principal mechanism is interdiffusion of atoms across the interface.
 
-*Digital computer.* (Cat 4 and 5) - Equipment that can, in the form of one or more discrete variables, perform all of the following:
+*Digital computer.* (Cat 4 and 5)—Equipment that can, in the form of one or more discrete variables, perform all of the following:
 
 (a) Accept data;
 
@@ -268,7 +268,7 @@ Note:
 
 Modifications of a stored sequence of instructions include replacement of fixed storage devices, but not a physical change in wiring or interconnections.
 
-*Digital transfer rate.* (Cat 5) - The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
+*Digital transfer rate.* (Cat 5)—The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
 
 *Direct product.* The immediate product (including processes and services) produced directly by the use of technology or software.
 
@@ -276,7 +276,7 @@ Modifications of a stored sequence of instructions include replacement of fixed 
 
 *Dual use.* Items that have both commercial and military or proliferation applications. While this term is used informally to describe items that are subject to the EAR, purely commercial items and certain munitions items listed on the Wassenaar Arrangement Munitions List (WAML) or the Missile Technology Control Regime Annex are also subject to the EAR (see § 734.2(a) of the EAR).
 
-*Dynamic adaptive routing.* (Cat 5) - Automatic rerouting of traffic based on sensing and analysis of current actual network conditions.
+*Dynamic adaptive routing.* (Cat 5)—Automatic rerouting of traffic based on sensing and analysis of current actual network conditions.
 
 Note:
 
@@ -318,11 +318,11 @@ This does not include cases of routing decisions taken on predefined information
 
 *Equipment.* This is a combination of parts, components, accessories, attachments, firmware, or software that operate together to perform a function of, as, or for an end item or system. Equipment may be a subset of “end items” based on the characteristics of the equipment. Equipment that meets the definition of an end-item is an end-item. Equipment that does not meet the definition of an end-item is a part, component, accessory, attachment, firmware, or software.
 
-*Equivalent Density.* (Cat 6) - The mass of an optic per unit optical area projected onto the optical surface.
+*Equivalent Density.* (Cat 6)—The mass of an optic per unit optical area projected onto the optical surface.
 
-*Equivalent standards.* (Cat 1) - Comparable national or international standards recognized by one or more Wassenaar Arrangement Participating States and applicable to the relevant entry.
+*Equivalent standards.* (Cat 1)—Comparable national or international standards recognized by one or more Wassenaar Arrangement Participating States and applicable to the relevant entry.
 
-*Explosives.* (Cat 1) - see Annex “List of Explosives” located at the end of Category 1 of supplement no. 1 to part 774 “Commerce Control List”.
+*Explosives.* (Cat 1)—see Annex “List of Explosives” located at the end of Category 1 of supplement no. 1 to part 774 “Commerce Control List”.
 
 *Export.* See § 734.13 of the EAR.
 
@@ -330,7 +330,7 @@ This does not include cases of routing decisions taken on predefined information
 
 *Export Administration Regulations (EAR).* Regulations set forth in parts 730-774, inclusive, of Title 15 of the Code of Federal Regulations.
 
-*Export Administration Review Board* - The body authorized by Executive Order 12002 as amended by Executive Orders 12755 and 13286. The Export Administration Review Board's role in license application review is in accordance with Executive Order 12981 as amended by Executive Orders 13020, 13026 and 13117.
+*Export Administration Review Board*—The body authorized by Executive Order 12002 as amended by Executive Orders 12755 and 13286. The Export Administration Review Board's role in license application review is in accordance with Executive Order 12981 as amended by Executive Orders 13020, 13026 and 13117.
 
 *Export Control Classification Number (ECCN).* The numbers used in supplement no. 1 to part 774 of the EAR and throughout the EAR. The Export Control Classification Number consists of a set of digits and a letter. Reference § 738.2(c) of the EAR for a complete description of each ECCN's composition.
 
@@ -342,11 +342,11 @@ This does not include cases of routing decisions taken on predefined information
 
 *FADEC systems.* See “full authority digital engine control systems.”
 
-*FMU* - See “flexible manufacturing unit”
+*FMU*—See “flexible manufacturing unit”
 
 *Facilities.* This means a building or outdoor area in which people use an item that is built, installed, produced, or developed for a particular purpose.
 
-*Fibrous or filamentary materials.* (Cat 1, 2, 8 and 9) - The term “fibrous and filamentary materials” includes:
+*Fibrous or filamentary materials.* (Cat 1, 2, 8 and 9)—The term “fibrous and filamentary materials” includes:
 
 (a) Continuous monofilaments;
 
@@ -360,7 +360,7 @@ This does not include cases of routing decisions taken on predefined information
 
 (f) Aromatic polyimide pulp.
 
-*Film type integrated circuit.* (Cat 3) - An array of “circuit elements” and metallic interconnections formed by deposition of a thick or thin film on an insulating “substrate”.
+*Film type integrated circuit.* (Cat 3)—An array of “circuit elements” and metallic interconnections formed by deposition of a thick or thin film on an insulating “substrate”.
 
 Note:
 
@@ -384,7 +384,7 @@ Note:
 
 *Firm.* A corporation, partnership, limited partnership, association, company, trust, or any other kind of organization or body corporate, situated, residing, or doing business in the United States or any foreign country, including any government or agency thereof.
 
-*Flexible manufacturing unit.* (FMU), (sometimes also referred to as ‘flexible manufacturing system’ (FMS) or ‘flexible manufacturing cell’ (FMC)) (Cat 2) - An entity that includes a combination of at least:
+*Flexible manufacturing unit.* (FMU), (sometimes also referred to as ‘flexible manufacturing system’ (FMS) or ‘flexible manufacturing cell’ (FMC)) (Cat 2)—An entity that includes a combination of at least:
 
 (a) A “digital computer” including its own “main storage” and its own “related equipment”; and
 
@@ -408,7 +408,7 @@ Note:
 
 *Fly-by-wire system.* (Cat 7) A primary digital flight control system employing feedback to control the “aircraft” during flight, where the commands to the effectors/actuators are electrical signals.
 
-*Focal plane array.* (Cat 6 and 8) - A linear or two-dimensional planar layer, or combination of planar layers, of individual detector elements, with or without readout electronics, that work in the focal plane.
+*Focal plane array.* (Cat 6 and 8)—A linear or two-dimensional planar layer, or combination of planar layers, of individual detector elements, with or without readout electronics, that work in the focal plane.
 
 N.B.
 
@@ -430,9 +430,9 @@ This definition does not include a stack of single detector elements or any two,
 
 *Forwarding agent.* The person in the United States who is authorized by a principal party in interest to perform the services required to facilitate the export of the items from the United States. This may include air couriers or carriers. In routed export transactions, the forwarding agent and the exporter may be the same for compliance purposes under the EAR.
 
-*Fractional bandwidth.* (Cat 3, 5P1, 5P2) - The “instantaneous bandwidth” divided by the center frequency, expressed as a percentage.
+*Fractional bandwidth.* (Cat 3, 5P1, 5P2)—The “instantaneous bandwidth” divided by the center frequency, expressed as a percentage.
 
-*Frequency hopping.* (Cat 5P1, 5P2 and 6) - A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by a random or pseudo-random sequence of discrete steps.
+*Frequency hopping.* (Cat 5P1, 5P2 and 6)—A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by a random or pseudo-random sequence of discrete steps.
 
 *Frequency switching time.* (Cat 3) The time (*i.e.,* delay) taken by a signal when switched from an initial specified output frequency, to arrive at or within any of the following:
 
@@ -446,9 +446,9 @@ This definition does not include a stack of single detector elements or any two,
 
 *Fundamental research.* See § 734.8 of the EAR.
 
-*Fusible.* (Cat 1) - Capable of being cross-linked or polymerized further (cured) by the use of heat, radiation, catalysts, etc., or that can be melted without pyrolysis (charring).
+*Fusible.* (Cat 1)—Capable of being cross-linked or polymerized further (cured) by the use of heat, radiation, catalysts, etc., or that can be melted without pyrolysis (charring).
 
-*Gate-All-Around Field-Effect Transistor (“GAAFET”).* (Cat 3) - A device having a single or multiple semiconductor conduction channel element(s) with a common gate structure that surrounds and controls current in all of the semiconductor conduction channel elements. (*Note:* This definition includes nanosheet or nanowire field-effect and surrounding gate transistors and other “GAAFET” semiconductor channel element structures.)
+*Gate-All-Around Field-Effect Transistor (“GAAFET”).* (Cat 3)—A device having a single or multiple semiconductor conduction channel element(s) with a common gate structure that surrounds and controls current in all of the semiconductor conduction channel elements. (*Note:* This definition includes nanosheet or nanowire field-effect and surrounding gate transistors and other “GAAFET” semiconductor channel element structures.)
 
 *General prohibitions.* The 10 prohibitions found in part 736 of the EAR that prohibit certain exports, reexports, and other conduct, subject to the EAR, absent a license, license exception, or determination that no license is required (“NLR”).
 
@@ -458,7 +458,7 @@ This definition does not include a stack of single detector elements or any two,
 
 *Hold Without Action (HWA).* License applications may be held without action only in the limited circumstances described in § 750.4(b) of the EAR. Encryption review requests may be placed on hold without action status as provided in § 740.17(d)(2) and § 742.15(b)(2) of the EAR.
 
-*Hybrid computer.* (Cat 4) - Equipment that can:
+*Hybrid computer.* (Cat 4)—Equipment that can:
 
 (a) Accept data;
 
@@ -466,7 +466,7 @@ This definition does not include a stack of single detector elements or any two,
 
 (c) Provide output of data.
 
-*Hybrid integrated circuit.* (Cat 3) - Any combination of integrated circuit(s), or integrated circuit with “circuit elements” or “discrete components” connected together to perform (a) specific function(s), and having all of the following criteria:
+*Hybrid integrated circuit.* (Cat 3)—Any combination of integrated circuit(s), or integrated circuit with “circuit elements” or “discrete components” connected together to perform (a) specific function(s), and having all of the following criteria:
 
 (a) Containing at least one unencapsulated device;
 
@@ -482,15 +482,15 @@ Notes:
 
 2. “Discrete component”: a separately packaged “circuit element” with its own external connections.
 
-*Image enhancement.* (Cat 4) - The processing of externally derived information-bearing images by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). This does not include algorithms using only linear or rotational transformation of a single image, such as translation, feature extraction, registration or false coloration.
+*Image enhancement.* (Cat 4)—The processing of externally derived information-bearing images by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). This does not include algorithms using only linear or rotational transformation of a single image, such as translation, feature extraction, registration or false coloration.
 
-*Information security.* (Cat 5P2, GSIN, GSN) - All the means and functions ensuring the accessibility, confidentiality or integrity of information or communications, excluding the means and functions intended to safeguard against malfunctions. This includes “cryptography”, “cryptographic activation”, “cryptanalysis”, protection against compromising emanations and computer security.
+*Information security.* (Cat 5P2, GSIN, GSN)—All the means and functions ensuring the accessibility, confidentiality or integrity of information or communications, excluding the means and functions intended to safeguard against malfunctions. This includes “cryptography”, “cryptographic activation”, “cryptanalysis”, protection against compromising emanations and computer security.
 
 *Technical Note to definition of “Information security”:*
 
 *'Cryptanalysis': the analysis of a cryptographic system or its inputs and outputs to derive confidential variables or sensitive data, including clear text. (ISO 7498-2-1988 (E), paragraph 3.3.18)*
 
-*Instantaneous bandwidth.* (Cat 3 and 5) - The bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters.
+*Instantaneous bandwidth.* (Cat 3 and 5)—The bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters.
 
 *Intent to Deny (ITD) letter.* A letter informing the applicant:
 
@@ -502,7 +502,7 @@ Notes:
 
 *Intermediate consignee.* The person that acts as an agent for a principal party in interest for the purpose of effecting delivery of items to the ultimate consignee. The intermediate consignee may be a bank, forwarding agent, or other person who acts as an agent for a principal party in interest.
 
-*Intrinsic Magnetic Gradiometer.* (Cat 6) - A single magnetic field gradient sensing element and associated electronics the output of which is a measure of magnetic field gradient. (See also “Magnetic Gradiometer”)
+*Intrinsic Magnetic Gradiometer.* (Cat 6)—A single magnetic field gradient sensing element and associated electronics the output of which is a measure of magnetic field gradient. (See also “Magnetic Gradiometer”)
 
 *Intrusion software.* (5P2) “Software” specially designed or modified to avoid detection by 'monitoring tools', or to defeat 'protective countermeasures', of a computer or network-capable device, and performing any of the following:
 
@@ -526,7 +526,7 @@ Technical note 2 to “Intrusion software” definition:
 
 'Protective countermeasures': techniques designed to ensure the safe execution of code, such as Data Execution Prevention (DEP), Address Space Layout Randomization (ASLR) or sandboxing.
 
-*Isostatic presses.* (Cat 2) - Equipment capable of pressurizing a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
+*Isostatic presses.* (Cat 2)—Equipment capable of pressurizing a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
 
 *Item.* “Item” means “commodities, software, and technology.” When the EAR intend to refer specifically to commodities, software, or technology, the text will use the specific reference.
 
@@ -534,7 +534,7 @@ Technical note 2 to “Intrusion software” definition:
 
 *Knowledge.* Knowledge of a circumstance (the term may be a variant, such as “know,” “reason to know,” or “reason to believe”) includes not only positive knowledge that the circumstance exists or is substantially certain to occur, but also an awareness of a high probability of its existence or future occurrence. Such awareness is inferred from evidence of the conscious disregard of facts known to a person and is also inferred from a person's willful avoidance of facts. This definition does not apply to part 760 of the EAR (Restrictive Trade Practices or Boycotts).
 
-*Laser.* (Cat 1, 2, 3, 5P1, 6, 7, 8 and 9) - An item that produces spatially and temporally coherent light through amplification by stimulated emission of radiation. See also: “Chemical laser;” “Super High Power Laser;” and “Transfer laser.”
+*Laser.* (Cat 1, 2, 3, 5P1, 6, 7, 8 and 9)—An item that produces spatially and temporally coherent light through amplification by stimulated emission of radiation. See also: “Chemical laser;” “Super High Power Laser;” and “Transfer laser.”
 
 *Law or regulation relating to export control.* Any statute, proclamation, executive order, regulation, rule, license, or order applicable to any conduct involving an export transaction shall be deemed to be a “law or regulation relating to export control.”
 
@@ -606,7 +606,7 @@ Technical note 2 to “Intrusion software” definition:
 
 *Lighter-than-air vehicles.* (Cat 2 and 9) Balloons and “airships” that rely on hot air or on lighter-than-air gases such as helium or hydrogen for their lift.
 
-*Local area network.* (Cat 4 and 5 Part 1) - A data communication system that:
+*Local area network.* (Cat 4 and 5 Part 1)—A data communication system that:
 
 (a) Allows an arbitrary number of independent 'data devices' to communicate directly with each other; and
 
@@ -616,33 +616,33 @@ Technical note 2 to “Intrusion software” definition:
 
 *'Data device' means equipment capable of transmitting or receiving sequences of digital information.*
 
-*MBTR* - See “maximum bit transfer rate”.
+*MBTR*—See “maximum bit transfer rate”.
 
 *MTCR.* See Missile Technology Control Regime.
 
 *MTEC.* See Missile Technology Export Control Group.
 
-*Magnetic Gradiometers.* (Cat 6) - Are designed to detect the spatial variation of magnetic fields from sources external to the instrument. They consist of multiple “magnetometers” and associated electronics the output of which is a measure of magnetic field gradient. (See also “Intrinsic Magnetic Gradiometer”.)
+*Magnetic Gradiometers.* (Cat 6)—Are designed to detect the spatial variation of magnetic fields from sources external to the instrument. They consist of multiple “magnetometers” and associated electronics the output of which is a measure of magnetic field gradient. (See also “Intrinsic Magnetic Gradiometer”.)
 
-*Magnetometers.* (Cat 6) - Are designed to detect magnetic fields from sources external to the instrument. They consist of a single magnetic field sensing element and associated electronics the output of which is a measure of the magnetic field.
+*Magnetometers.* (Cat 6)—Are designed to detect magnetic fields from sources external to the instrument. They consist of a single magnetic field sensing element and associated electronics the output of which is a measure of the magnetic field.
 
 *Material.* This is any list-specified crude or processed matter that is not clearly identifiable as any of the types of items defined in § 772.1 under the defined terms, “end item,” “component,” “accessories,” “attachments,” “part,” “software,” “system, “equipment,” or “facilities.” The exclusion from the definition of material for clearly identifiable items defined in § 772.1, such as for “parts” and “components,” does not apply to the following ECCNs: 1C233, 1C234, 1C235, 1C236, 1C237, 1C239, 1C350, 1C395, 1C991, 1C992, and 1C995.
 
-*Matrix.* (Cat 1, 2, 8, and 9) - A substantially continuous phase that fills the space between particles, whiskers or fibers.
+*Matrix.* (Cat 1, 2, 8, and 9)—A substantially continuous phase that fills the space between particles, whiskers or fibers.
 
-*Maximum bit transfer rate.* (MBTR) (Cat 4) - Of solid state storage equipment: the number of data bits per second transferred between the equipment and its controller. Of a disk drive: the internal data transfer rate calculated as follows:
+*Maximum bit transfer rate.* (MBTR) (Cat 4)—Of solid state storage equipment: the number of data bits per second transferred between the equipment and its controller. Of a disk drive: the internal data transfer rate calculated as follows:
 
 “MBTR” (bits per second) = B × R × T, where:B = Maximum number of data bits per track available to read or write in a single revolution;R = Revolutions per second;T = Number of tracks that can be used or written simultaneously.
 
 *Measurement uncertainty.* (Cat 2) The characteristic parameter that specifies in what range around the output value the correct value of the measurable variable lies with a confidence level of 95%. It includes the uncorrected systematic deviations, the uncorrected backlash, and the random deviations (Ref.: ISO 10360-2).
 
-*Media access unit.* (Cat 5) - Equipment that contains one or more communication interfaces (“network access controller”, “communications channel controller”, modem or computer bus) to connect terminal equipment to a network.
+*Media access unit.* (Cat 5)—Equipment that contains one or more communication interfaces (“network access controller”, “communications channel controller”, modem or computer bus) to connect terminal equipment to a network.
 
 *Medical devices.* For purposes of the EAR, medical devices are “devices” as defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) including medical supplies, instruments, equipment, equipped ambulances, institutional washing machines for sterilization, and vehicles with medical testing equipment. Note that certain component parts and spares to be exported for incorporation into medical devices are on the Commerce Control List. Only items meeting the definition of “medical device” and that are classified as EAR99 are eligible for export to Iran and under the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control.
 
 *Medicines.* Medicines means “drug” as defined in section 201 of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321). For purposes of the EAR, medicines includes prescription and over the counter medicines for humans and animals. Note that certain medicines, such as vaccines and immunotoxins, are on the Commerce Control List. Only items meeting the definition of “medicine” and that are classified as EAR99 are eligible for export to Iran and under the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control.
 
-*Metal embrittlement agents.* (Cat. 0) - Non-lethal weapon substances that alter the crystal structure of metals within a short time span. Metal embrittlement agents severely weaken metals by chemically changing their molecular structure. These agents are compounded in various substances to include adhesives, liquids, aerosols, foams, and lubricants.
+*Metal embrittlement agents.* (Cat. 0)—Non-lethal weapon substances that alter the crystal structure of metals within a short time span. Metal embrittlement agents severely weaken metals by chemically changing their molecular structure. These agents are compounded in various substances to include adhesives, liquids, aerosols, foams, and lubricants.
 
 *Microcomputer microcircuit.* (Cat 3) means a “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing a series of general purpose instructions from an internal storage, on data contained in the internal storage.
 
@@ -660,7 +660,7 @@ This definition includes chip sets which are designed to operate together to pro
 
 *Microorganisms.* (Cat 1 and 2) means bacteria, viruses, mycoplasms, rickettsiae, chlamydiae or fungi, whether natural, enhanced or modified, either in the form of isolated live cultures or as material including living material which has been deliberately inoculated or contaminated with such cultures.
 
-*Microprocessor microcircuit.* (Cat 3) - A “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing a series of general purpose instructions from an external storage.
+*Microprocessor microcircuit.* (Cat 3)—A “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing a series of general purpose instructions from an external storage.
 
 N.B.
 
@@ -668,11 +668,11 @@ N.B.
 
 N.B. 2: This definition includes chip sets that are designed to operate together to provide the function of a “microprocessor microcircuit”.
 
-*Microprogram.* (Cat 4 and 5) - A sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the introduction of its reference instruction into an instruction register.
+*Microprogram.* (Cat 4 and 5)—A sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the introduction of its reference instruction into an instruction register.
 
 *Military commodity.* As used in § 734.4(a)(5), supplement no. 1 to part 738 (footnote No. 3), §§ 740.2(a)(11), 740.16(a)(2), 740.16(b)(2), 742.6(a)(3), 744.9(a)(2), 744.9(b), ECCN 0A919 and (*Related Controls*) in “600 series” ECCNs, “military commodity” or “military commodities” means an article, material, or supply that is described on the U.S. Munitions List (22 CFR Part 121) or on the Munitions List that is published by the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies, but does not include software, technology and any item listed in any ECCN for which the last three numerals are 018 or any item in the “600 series.”
 
-*Missile Technology Control Regime (MTCR).* The United States and other nations in this multilateral control regime have agreed to guidelines for restricting the export and reexport of dual-use items that may contribute to the development of missiles. The MTCR Annex lists missile-related equipment and technology controlled either by the Department of Commerce's Bureau of Industry and Security - Export Administration Regulations (15 CFR Parts 730 through 799) or by the Department of State's Directorate of Defense Trade Controls - International Traffic in Arms Regulations (22 CFR Parts 120 through 130).
+*Missile Technology Control Regime (MTCR).* The United States and other nations in this multilateral control regime have agreed to guidelines for restricting the export and reexport of dual-use items that may contribute to the development of missiles. The MTCR Annex lists missile-related equipment and technology controlled either by the Department of Commerce's Bureau of Industry and Security—Export Administration Regulations (15 CFR Parts 730 through 799) or by the Department of State's Directorate of Defense Trade Controls—International Traffic in Arms Regulations (22 CFR Parts 120 through 130).
 
 *Missile Technology Export Control Group (MTEC).* Chaired by the Department of State, the MTEC primarily reviews applications involving items controlled for Missile Technology (MT) reasons. The MTEC also reviews applications involving items not controlled for MT reasons, but destined for a country and/or end-use/end-user of concern.
 
@@ -680,7 +680,7 @@ N.B. 2: This definition includes chip sets that are designed to operate together
 
 “*MMIC*”. (Cat 3 and 5) See “Monolithic Microwave Integrated Circuit”
 
-*Monolithic integrated circuit.* (Cat 3) - A combination of passive or active “circuit elements” or both that:
+*Monolithic integrated circuit.* (Cat 3)—A combination of passive or active “circuit elements” or both that:
 
 (a) Are formed by means of diffusion processes, implantation processes or deposition processes in or on a single semiconducting piece of material, a so-called ‘chip’;
 
@@ -732,11 +732,11 @@ Note:
 
 (17) Public safety agencies and entities (including national/federal/royal agencies and departments of civil defense, emergency management, and first responders).
 
-*Motion control board.* (Cat 2) - An electronic “assembly” specially designed to provide a computer system with the capability to coordinate simultaneously the motion of axes of machine tools for “contouring control”.
+*Motion control board.* (Cat 2)—An electronic “assembly” specially designed to provide a computer system with the capability to coordinate simultaneously the motion of axes of machine tools for “contouring control”.
 
-*Multichip integrated circuit.* (Cat 3) - Two or more “monolithic integrated circuits” bonded to a common “substrate”.
+*Multichip integrated circuit.* (Cat 3)—Two or more “monolithic integrated circuits” bonded to a common “substrate”.
 
-*Multi-data-stream processing.* (Cat 4) - The “microprogram” or equipment architecture technique that permits simultaneous processing of two or more data sequences under the control of one or more instruction sequences by means such as:
+*Multi-data-stream processing.* (Cat 4)—The “microprogram” or equipment architecture technique that permits simultaneous processing of two or more data sequences under the control of one or more instruction sequences by means such as:
 
 (a) Single Instruction Multiple Data (SIMD) architectures such as vector or array processors;
 
@@ -748,7 +748,7 @@ Note:
 
 *Multiple channel Analog-to-Digital Converter (ADC).* (Cat 3) Devices that integrate more than one ADC, designed so that each ADC has a separate analog input.
 
-*Multispectral Imaging Sensors.* (Cat 6) - Are capable of simultaneous or serial acquisition of imaging data from two or more discrete spectral bands. Sensors having more than twenty discrete spectral bands are sometimes referred to as hyperspectral imaging sensors.
+*Multispectral Imaging Sensors.* (Cat 6)—Are capable of simultaneous or serial acquisition of imaging data from two or more discrete spectral bands. Sensors having more than twenty discrete spectral bands are sometimes referred to as hyperspectral imaging sensors.
 
 *N.E.S.* N.E.S or n.e.s. is an abbreviation meaning “not elsewhere specified”.
 
@@ -762,7 +762,7 @@ Note:
 
 *Net value.* The actual selling price, less shipping charges or current market price, whichever is the larger, to the same type of purchaser in the United States.
 
-*Network Access Controller.* (Cat 4) - A physical interface to a distributed switching network. It uses a common medium which operates throughout at the same “digital transfer rate” using arbitration (e.g., token or carrier sense) for transmission. Independently from any other, it selects data packets or data groups (e.g., IEEE 802) addressed to it. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
+*Network Access Controller.* (Cat 4)—A physical interface to a distributed switching network. It uses a common medium which operates throughout at the same “digital transfer rate” using arbitration (e.g., token or carrier sense) for transmission. Independently from any other, it selects data packets or data groups (e.g., IEEE 802) addressed to it. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
 
 *Non-standard cryptography.* Means any implementation of “cryptography” involving the incorporation or use of proprietary or unpublished cryptographic functionality, including encryption algorithms or protocols that have not been adopted or approved by a duly recognized international standards body (e.g., IEEE, IETF, ISO, ITU, ETSI, 3GPP, TIA, and GSMA) and have not otherwise been published.
 
@@ -770,15 +770,15 @@ Note:
 
 *Nuclear Suppliers Group (NSG).* The United States and other nations in this multilateral control regime have agreed to guidelines for restricting the export or reexport of items with nuclear applications. Members include: Argentina, Australia, Austria, Belarus, Belgium, Brazil, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Kazakhstan, Latvia, Lithuania, Luxembourg, Malta, Mexico, the Netherlands, New Zealand, Norway, People's Republic of China, Poland, Portugal, Republic of Korea, Romania, Russia, Serbia, Slovak Republic, Slovenia, South Africa, Spain, Sweden, Switzerland, Turkey, Ukraine, the United Kingdom, and the United States. See also § 742.3 of the EAR.
 
-*Numerical control.* (Cat 2) - The automatic control of a process performed by a device that makes use of numeric data usually introduced as the operation is in progress (Ref. ISO 2382).
+*Numerical control.* (Cat 2)—The automatic control of a process performed by a device that makes use of numeric data usually introduced as the operation is in progress (Ref. ISO 2382).
 
-*“Object code”.* (or object language) (GSN) - An equipment executable form of a convenient expression of one or more processes (“source code” (or source language)) that has been compiled by a programming system. (See also “source code”)
+*“Object code”.* (or object language) (GSN)—An equipment executable form of a convenient expression of one or more processes (“source code” (or source language)) that has been compiled by a programming system. (See also “source code”)
 
 *Office of Foreign Assets Control (FAC) or (OFAC).* The office at the Department of the Treasury responsible for blocking assets of foreign countries subject to economic sanctions, controlling participation by U.S. persons, including foreign subsidiaries, in transactions with specific countries or nationals of such countries, and administering embargoes on certain countries or areas of countries. (See 31 CFR parts 500 through 590.)
 
 *Open cryptographic interface.* A mechanism which is designed to allow a customer or other party to insert cryptographic functionality without the intervention, help or assistance of the manufacturer or its agents, e.g., manufacturer's signing of cryptographic code or proprietary interfaces. If the cryptographic interface implements a fixed set of cryptographic algorithms, key lengths or key exchange management systems, that cannot be changed, it will not be considered an “open” cryptographic interface. All general application programming interfaces (e.g., those that accept either a cryptographic or non-cryptographic interface but do not themselves maintain any cryptographic functionality) will not be considered “open” cryptographic interfaces.
 
-*Operate autonomously.* (Cat 8) - Fully submerged, without snorkel, all systems working and cruising at minimum speed at which the submersible can safely control its depth dynamically by using its depth planes only, with no need for a support vessel or support base on the surface, sea-bed or shore, and containing a propulsion system for submerged or surface use.
+*Operate autonomously.* (Cat 8)—Fully submerged, without snorkel, all systems working and cruising at minimum speed at which the submersible can safely control its depth dynamically by using its depth planes only, with no need for a support vessel or support base on the surface, sea-bed or shore, and containing a propulsion system for submerged or surface use.
 
 *Operating Committee (OC).* The OC voting members include representatives of appropriate agencies in the Departments of Commerce, State, Defense, Justice (for encryption exports), and Energy and the Arms Control and Disarmament Agency. The appropriate representatives of the Joint Chiefs of Staff and the Director of the Nonproliferation Center of the Central Intelligence Agency are non-voting members. The Department of Commerce representative, appointed by the Secretary, is the Chair of the OC and serves as the Executive Secretary of the Advisory Committee on Export Policy. The OC may invite representatives of other Government agencies or departments (other than those identified in this definition) to participate in the activities of the OC when matters of interest to such agencies or departments are under consideration.
 
@@ -804,9 +804,9 @@ Note:
 
 *b. Performing any cryptographic functionality on the forwarding or data plane of an item.*
 
-*Optical integrated circuit.* (Cat 3) - A “monolithic integrated circuit” or a “hybrid integrated circuit”, containing one or more parts designed to function as photosensor or photoemitter or to perform (an) optical or (an) electro-optical function(s).
+*Optical integrated circuit.* (Cat 3)—A “monolithic integrated circuit” or a “hybrid integrated circuit”, containing one or more parts designed to function as photosensor or photoemitter or to perform (an) optical or (an) electro-optical function(s).
 
-*Optical switching.* (Cat 5) - The routing of or switching of signals in optical form without conversion to electrical signals.
+*Optical switching.* (Cat 5)—The routing of or switching of signals in optical form without conversion to electrical signals.
 
 *Order Party.* The person in the United States who conducted the direct negotiations or correspondence with the foreign purchaser or ultimate consignee and who, as a result of these negotiations, received the order from the foreign purchaser or ultimate consignee.
 
@@ -814,13 +814,13 @@ Note:
 
 *Other party authorized to receive license.* The person authorized by the applicant to receive the license. If a person and address is listed in Block 15 of the application, the Bureau of Industry and Security will send the license to that person instead of the applicant. Designation of another party to receive the license does not alter the responsibilities of the applicant, licensee or exporter.
 
-*Overall current density.* (Cat 3) - The total number of ampere-turns in the coil (i.e., the sum of the number of turns multiplied by the maximum current carried by each turn) divided by the total cross-section of the coil (comprising the superconducting filaments, the metallic matrix in which the superconducting filaments are embedded, the encapsulating material, any cooling channels, etc.).
+*Overall current density.* (Cat 3)—The total number of ampere-turns in the coil (i.e., the sum of the number of turns multiplied by the maximum current carried by each turn) divided by the total cross-section of the coil (comprising the superconducting filaments, the metallic matrix in which the superconducting filaments are embedded, the encapsulating material, any cooling channels, etc.).
 
 *Part.* This is any single unassembled element of a “component,” “accessory,” or “attachment” which is not normally subject to disassembly without the destruction or the impairment of design use. Examples include threaded fasteners (e.g., screws, bolts, nuts, nut plates, studs, inserts), other fasteners (e.g., clips, rivets, pins), common hardware (e.g., washers, spacers, insulators, grommets, bushings), springs and wire.
 
-*Part program.* (Cat. 2) - An ordered set of instructions that is in a language and in a format required to cause operations to be effected under automatic control and that is either written in the form of a machine program on an input medium or prepared as input data for processing in a computer to obtain a machine program (Ref. ISO 2806-1980).
+*Part program.* (Cat. 2)—An ordered set of instructions that is in a language and in a format required to cause operations to be effected under automatic control and that is either written in the form of a machine program on an input medium or prepared as input data for processing in a computer to obtain a machine program (Ref. ISO 2806-1980).
 
-*Payload. (MTCR context)* - The total mass that can be carried or delivered by the specified rocket system or unmanned aerial vehicle (UAV) system that is not used to maintain flight.
+*Payload. (MTCR context)*—The total mass that can be carried or delivered by the specified rocket system or unmanned aerial vehicle (UAV) system that is not used to maintain flight.
 
 Note:
 
@@ -858,19 +858,19 @@ iii. Mechanisms and devices for safing, arming, fuzing or firing;
 
 iv. Any countermeasures equipment (e.g., decoys, jammers, or chaff dispensers) that can be removed without violating the structural integrity of the vehicle.
 
-b. Space Launch Vehicles - “Payload” includes:
+b. Space Launch Vehicles—“Payload” includes:
 
 1. Spacecraft (single or multiple), including satellites;
 
 2. Spacecraft-to-launch vehicle adapters including, if applicable, apogee/perigee kick motors or similar maneuvering systems and separation systems;
 
-c. Sounding Rockets - “Payload” includes:
+c. Sounding Rockets—“Payload” includes:
 
 1. Equipment required for a mission, such as data gathering, recording or transmitting devices for mission-specific data;
 
 2. Recovery equipment (e.g., parachutes) that can be removed without violating the structural integrity of the vehicle.
 
-d. Cruise Missiles - “Payload” includes:
+d. Cruise Missiles—“Payload” includes:
 
 1. Munitions of any type (e.g., explosive or non-explosive);
 
@@ -882,7 +882,7 @@ d. Cruise Missiles - “Payload” includes:
 
 5. Signature alteration equipment that can be removed without violating the structural integrity of the vehicle;
 
-e. Other UAVs - “Payload” includes:
+e. Other UAVs—“Payload” includes:
 
 1. Munitions of any type (e.g., explosive or non-explosive);
 
@@ -898,11 +898,11 @@ e. Other UAVs - “Payload” includes:
 
 7. Munitions supporting structures and deployment mechanisms that can be removed without violating the structural integrity of the vehicle.
 
-*Peak power.* (Cat 6) - The highest power attained in the “pulse duration.”
+*Peak power.* (Cat 6)—The highest power attained in the “pulse duration.”
 
 *Person.* A natural person, including a citizen or national of the United States or of any foreign country; any firm; any government, government agency, government department, or government commission; any labor union; any fraternal or social organization; and any other association or organization whether or not organized for profit. This definition does not apply to part 760 of the EAR (Restrictive Trade Practices or Boycotts).
 
-*Personal area network (Cat 5 Part 2)* - A data communication system having all of the following characteristics:
+*Personal area network (Cat 5 Part 2)*—A data communication system having all of the following characteristics:
 
 (1) Allows an arbitrary number of independent or interconnected 'data devices' to communicate directly with each other; and
 
@@ -916,19 +916,19 @@ Technical Notes:
 
 *Port of export.* The port where the cargo to be shipped abroad is laden aboard the exporting carrier. It includes, in the case of an export by mail, the place of mailing.
 
-*Principal element.* (Cat 4) - An element is a “principal element” when its replacement value is more than 35% of the total value of the system of which it is an element. Element value is the price paid for the element by the manufacturer of the system, or by the system integrator. Total value is the normal international selling price to unrelated parties at the point of manufacture or consolidation of shipment.
+*Principal element.* (Cat 4)—An element is a “principal element” when its replacement value is more than 35% of the total value of the system of which it is an element. Element value is the price paid for the element by the manufacturer of the system, or by the system integrator. Total value is the normal international selling price to unrelated parties at the point of manufacture or consolidation of shipment.
 
 *Principal parties in interest.* Those persons in a transaction that receive the primary benefit, monetary or otherwise, of the transaction. Generally, the principals in a transaction are the seller and the buyer. In most cases, the forwarding or other agent is not a principal party in interest.
 
-*Production.* (General Technology Note) (All Categories) - Means all production stages, such as: product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance.
+*Production.* (General Technology Note) (All Categories)—Means all production stages, such as: product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance.
 
-*Production equipment.* (MTCR context) - Tooling, templates, jigs, mandrels, moulds, dies, fixtures, alignment mechanisms, test equipment, other machinery and components therefor, limited to those specially designed or modified for “development” or for one or more phases of “production”.
+*Production equipment.* (MTCR context)—Tooling, templates, jigs, mandrels, moulds, dies, fixtures, alignment mechanisms, test equipment, other machinery and components therefor, limited to those specially designed or modified for “development” or for one or more phases of “production”.
 
-*Production Facilities.* (MTCR Context only). (Cat 7 and 9) - Means “production equipment” and specially designed “software” therefor integrated into installations for “development” or for one or more phases of “production”.
+*Production Facilities.* (MTCR Context only). (Cat 7 and 9)—Means “production equipment” and specially designed “software” therefor integrated into installations for “development” or for one or more phases of “production”.
 
-*Program.* (Cat 2, 4, 5, and 6) - A sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer.
+*Program.* (Cat 2, 4, 5, and 6) —A sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer.
 
-*Proof test.* (Cat 5) - On-line or off-line production screen testing that dynamically applies a prescribed tensile stress over a 0.5 to 3 m length of fiber at a running rate of 2 to 5 m/s while passing between capstans approximately 150 mm in diameter. The ambient temperature is a nominal 293 K (20 °C) and relative humidity 40%.
+*Proof test.* (Cat 5)—On-line or off-line production screen testing that dynamically applies a prescribed tensile stress over a 0.5 to 3 m length of fiber at a running rate of 2 to 5 m/s while passing between capstans approximately 150 mm in diameter. The ambient temperature is a nominal 293 K (20 °C) and relative humidity 40%.
 
 Note:
 
@@ -940,11 +940,11 @@ Equivalent national standards for executing the “proof test” may be used.
 
 *Published.* See § 734.7 of the EAR.
 
-*Pulse compression.* (Cat 6) - The coding and processing of a radar signal pulse of long time duration to one of short time duration, while maintaining the benefits of high pulse energy.
+*Pulse compression.* (Cat 6)—The coding and processing of a radar signal pulse of long time duration to one of short time duration, while maintaining the benefits of high pulse energy.
 
-*Pulse duration.* (Cat 6) - Duration of a “laser” pulse is the time between the half-power points on the leading edge and trailing edge of an individual pulse.
+*Pulse duration.* (Cat 6)—Duration of a “laser” pulse is the time between the half-power points on the leading edge and trailing edge of an individual pulse.
 
-*Pulsed Laser.* (Cat 6) - A pulsed “laser” is defined as having a “pulse duration” that is less than or equal to 0.25 seconds.
+*Pulsed Laser.* (Cat 6)—A pulsed “laser” is defined as having a “pulse duration” that is less than or equal to 0.25 seconds.
 
 *Purchaser.* The person abroad who has entered into a transaction to purchase an item for delivery to the ultimate consignee. In most cases, the purchaser is not a bank, forwarding agent, or intermediary. The purchaser and ultimate consignee may be the same entity.
 
@@ -954,19 +954,19 @@ Equivalent national standards for executing the “proof test” may be used.
 
 *RWA.* See Return Without Action.
 
-*Radar frequency agility.* (Cat 6) - Any technique that changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
+*Radar frequency agility.* (Cat 6)—Any technique that changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
 
-*Radar spread spectrum.* (Cat 6) - Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
+*Radar spread spectrum.* (Cat 6)—Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
 
-*Radiant sensitivity* (Cat 6) - Radiant sensitivity (mA/W) = 0.807 × (wavelength in nm) × 'Quantum Efficiency (QE)'.
+*Radiant sensitivity* (Cat 6)—Radiant sensitivity (mA/W) = 0.807 × (wavelength in nm) × 'Quantum Efficiency (QE)'.
 
 Technical Note:
 
 *'QE' is usually expressed as a percentage; however, for the purposes of this formula 'QE' is expressed as a decimal number less than one, e.g., 78% is 0.78.*
 
-*Range.* (Cat 8) - Half the maximum distance a submersible vehicle can cover.
+*Range.* (Cat 8)—Half the maximum distance a submersible vehicle can cover.
 
-*Range. (MTCR context)* - The maximum distance that the specified rocket system or unmanned aerial vehicle (UAV) system is capable of traveling in the mode of stable flight as measured by the projection of its trajectory over the surface of the Earth.
+*Range. (MTCR context)*—The maximum distance that the specified rocket system or unmanned aerial vehicle (UAV) system is capable of traveling in the mode of stable flight as measured by the projection of its trajectory over the surface of the Earth.
 
 Technical Notes:
 
@@ -998,13 +998,13 @@ Note to this definition:
 
 *Release.* See § 734.15 of the EAR.
 
-*Repeatability.* (Cat 7) - The closeness of agreement among repeated measurements of the same variable under the same operating conditions when changes in conditions or non-operating periods occur between measurements. (Reference: IEEE STD 528-2001 (one sigma standard deviation))
+*Repeatability.* (Cat 7)—The closeness of agreement among repeated measurements of the same variable under the same operating conditions when changes in conditions or non-operating periods occur between measurements. (Reference: IEEE STD 528-2001 (one sigma standard deviation))
 
-*Repeatability.* (MTCR Context only) (Cat 7) - According to IEEE Standard for Inertial Sensor Terminology 528-2001 in the Definitions section paragraph 2.214 titled repeatability (gyro, accelerometer) as follows: “The closeness of agreement among repeated measurements of the same variable under the same operating conditions when changes in conditions or non-operating periods occur between measurements.”
+*Repeatability.* (MTCR Context only) (Cat 7)—According to IEEE Standard for Inertial Sensor Terminology 528-2001 in the Definitions section paragraph 2.214 titled repeatability (gyro, accelerometer) as follows: “The closeness of agreement among repeated measurements of the same variable under the same operating conditions when changes in conditions or non-operating periods occur between measurements.”
 
 *Replacement license.* An authorization by the Bureau of Industry and Security revising the information, conditions, or riders stated on a license issued by BIS. See § 750.7 of the EAR.
 
-*Required.* (General Technology Note) - As applied to “technology” or “software,” refers to only that portion of “technology” or “software” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions. Such “required” “technology” or “software” may be shared by different products. For example, assume product “X” is controlled on the CCL if it operates at or above 400 MHz and is not controlled if it operates below 400 MHz. If production technologies “A,” “B,” and “C” allow production at no more than 399 MHz, then technologies “A,” “B,” and “C” are not “required” to produce the controlled product “X”. If technologies “A,” “B,” “C,” “D,” and “E” are used together, a manufacturer can produce product “X” that operates at or above 400 MHz. In this example, technologies “D” and “E” are peculiarly responsible for making the controlled product and are thus “required” technology under the General Technology Note. (See the General Technology Note.)
+*Required.* (General Technology Note) —As applied to “technology” or “software,” refers to only that portion of “technology” or “software” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions. Such “required” “technology” or “software” may be shared by different products. For example, assume product “X” is controlled on the CCL if it operates at or above 400 MHz and is not controlled if it operates below 400 MHz. If production technologies “A,” “B,” and “C” allow production at no more than 399 MHz, then technologies “A,” “B,” and “C” are not “required” to produce the controlled product “X”. If technologies “A,” “B,” “C,” “D,” and “E” are used together, a manufacturer can produce product “X” that operates at or above 400 MHz. In this example, technologies “D” and “E” are peculiarly responsible for making the controlled product and are thus “required” technology under the General Technology Note. (See the General Technology Note.)
 
 Note 1 to the definition of Required:
 
@@ -1034,7 +1034,7 @@ Unclassified technology not specifically enumerated on the USML is “subject to
 
 (e) The applicant cannot be reached after several attempts to request additional information necessary for processing of the application.
 
-*Robot.* (Cat 2 and 8) - A manipulation mechanism, which may be of the continuous path or of the point-to-point variety, may use “sensors”, and has all the following characteristics:
+*Robot.* (Cat 2 and 8)—A manipulation mechanism, which may be of the continuous path or of the point-to-point variety, may use “sensors”, and has all the following characteristics:
 
 (a) Is multifunctional;
 
@@ -1060,7 +1060,7 @@ This definition does not include the following devices:
 
 *Routed export transaction.* A transaction where the foreign principal party in interest authorizes a U.S. forwarding or other agent to facilitate export of items from the United States.
 
-*Run-out.* (out-of-true running) (Cat 2) - Radial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle axis at a point on the external or internal revolving surface to be tested (Ref.: ISO 230 Part 1-1986, paragraph 5.61).
+*Run-out.* (out-of-true running) (Cat 2)—Radial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle axis at a point on the external or internal revolving surface to be tested (Ref.: ISO 230 Part 1-1986, paragraph 5.61).
 
 *SHPL.* (Cat 6) is equivalent to “Super High Power Laser”, see definition for “super high power laser.”
 
@@ -1068,23 +1068,23 @@ This definition does not include the following devices:
 
 *Sample rate.* (Cat 3) For an Analog-to-Digital Converter (ADC) the maximum number of samples that are measured at the analog input over a period of one second, except for oversampling ADCs. For oversampling ADCs the “sample rate” is taken to be its output word rate. “Sample rate” may also be referred to as sampling rate, usually specified in Mega Samples Per Second (MSPS) or Giga Samples Per Second (GSPS), or conversion rate, usually specified in Hertz (Hz).
 
-*Satellite navigation system* (Cat 5P2, 7) - A system consisting of ground stations, a constellation of satellites, and receivers, that enables receiver locations to be calculated on the basis of signals received from the satellites. It includes Global Navigation Satellite Systems (GNSS) and Regional Navigation Satellite Systems (RNSS).
+*Satellite navigation system* (Cat 5P2, 7)—A system consisting of ground stations, a constellation of satellites, and receivers, that enables receiver locations to be calculated on the basis of signals received from the satellites. It includes Global Navigation Satellite Systems (GNSS) and Regional Navigation Satellite Systems (RNSS).
 
-*Scale factor.* (gyro or accelerometer) (Cat 7) - The ratio of change in output to a change in the input intended to be measured. Scale factor is generally evaluated as the slope of the straight line that can be fitted by the method of least squares to input-output data obtained by varying the input cyclically over the input range.
+*Scale factor.* (gyro or accelerometer) (Cat 7)—The ratio of change in output to a change in the input intended to be measured. Scale factor is generally evaluated as the slope of the straight line that can be fitted by the method of least squares to input-output data obtained by varying the input cyclically over the input range.
 
 *Schedule B numbers.* The commodity numbers appearing in the current edition of the Bureau of the Census publication, Schedule B Statistical Classification of Domestic and Foreign Commodities Exported from the United States. (See part 758 of the EAR for information on use of Schedule B numbers.)
 
 *Shield.* Chaired by the Department of State, the Shield primarily reviews applications involving items controlled for Chemical and Biological Weapons (CBW) reasons. The Shield also reviews applications involving items not controlled for CBW reasons, but destined for a country and/or end-use/end-user of concern. See § 750.4 of the EAR.
 
-*Signal analyzers.* (Cat 3) - Apparatus capable of measuring and displaying basic properties of the single-frequency components of multi-frequency signals.
+*Signal analyzers.* (Cat 3)—Apparatus capable of measuring and displaying basic properties of the single-frequency components of multi-frequency signals.
 
-*Signal processing.* (Cat 3, 4, 5, and 6) - The processing of externally derived information-bearing signals by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform).
+*Signal processing.* (Cat 3, 4, 5, and 6)—The processing of externally derived information-bearing signals by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform).
 
 *Single shipment.* All items moving at the same time from one exporter to one consignee or intermediate consignee on the same exporting carrier, even if these items will be forwarded to one or more ultimate consignees. Items being transported in this manner shall be treated as a single shipment even if the items represent more than one order or are in separate containers.
 
-*Software.* (Cat: all) - A collection of one or more “programs” or “microprograms” fixed in any tangible medium of expression.
+*Software.* (Cat: all)—A collection of one or more “programs” or “microprograms” fixed in any tangible medium of expression.
 
-*Source code (or source language).* (Cat 1, 4, 5P2, 6, 7, and 9) - A convenient expression of one or more processes that may be turned by a programming system into equipment executable form (“object code” (or object language)).
+*Source code (or source language).* (Cat 1, 4, 5P2, 6, 7, and 9)—A convenient expression of one or more processes that may be turned by a programming system into equipment executable form (“object code” (or object language)).
 
 *“Space-qualified”.* (Cat 3, 6, and 7) Designed, manufactured, or qualified through successful testing, for operation at altitudes greater than 100 km above the surface of the Earth.
 
@@ -1096,7 +1096,7 @@ Note 2:
 
 The terms 'designed' and 'manufactured' in this definition are synonymous with “specially designed.” Thus, for example, an item that is “specially designed” for a spacecraft is deemed to be 'designed' or 'manufactured' for operation at altitudes greater than 100 km and an item that is not “specially designed” for a spacecraft is not deemed to have been so 'designed' or 'manufactured.'
 
-*Spacecraft.* (Cat 9) - Active and passive satellites and space probes.
+*Spacecraft.* (Cat 9)—Active and passive satellites and space probes.
 
 *Spacecraft bus.* (Cat 9) Equipment that provides the support infrastructure of the “spacecraft” and location for the “spacecraft payload”.
 
@@ -1106,7 +1106,7 @@ The terms 'designed' and 'manufactured' in this definition are synonymous with �
 
 *Specially Designated Terrorist (SDT).* Any person who is determined by the Secretary of the Treasury to be a specially designated terrorist under notices or regulations issued by the Office of Foreign Assets Control (see 31 CFR chapter V).
 
-*Specially designed.* When applying this definition, follow this sequential analysis set forth below. (For additional guidance on the order of review of “specially designed,” including how the review of the term relates to the larger CCL, see supplement no. 4 to Part 774 of the EAR - Commerce Control List Order of Review.)
+*Specially designed.* When applying this definition, follow this sequential analysis set forth below. (For additional guidance on the order of review of “specially designed,” including how the review of the term relates to the larger CCL, see supplement no. 4 to Part 774 of the EAR—Commerce Control List Order of Review.)
 
 (a) Except for items described in (b), an “item” is “specially designed” if it:
 
@@ -1164,19 +1164,19 @@ Note to paragraphs (b)(4), (b)(5) and (b)(6):
 
 For a commodity or software to be not “specially designed” on the basis of paragraphs (b)(4), (b)(5) *or* (b)(6), documents contemporaneous with its “development,” in their totality, must establish the elements of paragraphs (b)(4), (b)(5) *or* (b)(6). Such documents may include concept design information, marketing plans, declarations in patent applications, or contracts. Absent such documents, the “commodity” may not be excluded from being “specially designed” by paragraphs (b)(4), (b)(5) *or* (b)(6).
 
-*“Specific modulus”*. (Cat 1) - Young's modulus in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and a relative humidity of (50 ±5)%.
+*“Specific modulus”*. (Cat 1)—Young's modulus in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and a relative humidity of (50 ±5)%.
 
-*“Specific tensile strength”*. (Cat 1) - Ultimate tensile strength in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and relative humidity of (50 ±5)%.
+*“Specific tensile strength”*. (Cat 1)—Ultimate tensile strength in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and relative humidity of (50 ±5)%.
 
-*Spectral efficiency.* (Cat 5) - A figure of merit parametrized to characterize the efficiency of transmission system that uses complex modulation schemes such as QAM (quadrature amplitude modulation), Trellis coding, QSPK (Q-phased shift key), etc. It is defined as follows:
+*Spectral efficiency.* (Cat 5)—A figure of merit parametrized to characterize the efficiency of transmission system that uses complex modulation schemes such as QAM (quadrature amplitude modulation), Trellis coding, QSPK (Q-phased shift key), etc. It is defined as follows:
 
 ![](/graphics/er25mr96.013.gif)
 
 *Spinning mass gyros.* (Cat 7) “Spinning mass gyros” are gyros which use a continually rotating mass to sense angular motion.
 
-*Spread spectrum.* (Cat 5) - The technique whereby energy in a relatively narrow-band communication channel is spread over a much wider energy spectrum.
+*Spread spectrum.* (Cat 5)—The technique whereby energy in a relatively narrow-band communication channel is spread over a much wider energy spectrum.
 
-*Spread spectrum radar.* (Cat 6) - (see “Radar spread spectrum”)
+*Spread spectrum radar.* (Cat 6)—(see “Radar spread spectrum”)
 
 *Stability* (Cat 7) Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
 
@@ -1188,7 +1188,7 @@ Note:
 
 *Steady state mode.* (Cat 9) The term “steady state mode” defines engine operation conditions, where the engine parameters, such as thrust/power, rpm and others, have no appreciable fluctuations, when the ambient air temperature and pressure at the engine inlet are constant.
 
-*Stored program controlled.* (Cat 2, 3, and 5) - A control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.
+*Stored program controlled.* (Cat 2, 3, and 5)—A control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.
 
 Note:
 
@@ -1208,15 +1208,15 @@ Equipment may be “stored program controlled” whether the electronic storage 
 
 (3) Land back on Earth with the people or cargo intact.
 
-*Substrate.* (Cat 3) - A sheet of base material with or without an interconnection pattern and on which or within which “discrete components” or integrated circuits or both can be located.
+*Substrate.* (Cat 3)—A sheet of base material with or without an interconnection pattern and on which or within which “discrete components” or integrated circuits or both can be located.
 
 Note:
 
 “Discrete component”: a separately packaged “circuit element” with its own external connections.
 
-*Substrate blanks.* (Cat 3 and 6) - Monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows.
+*Substrate blanks.* (Cat 3 and 6)—Monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows.
 
-*Super High Power Laser.* (SHPL) (Cat 6) - A “laser” capable of delivering (the total or any portion of) the output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
+*Super High Power Laser.* (SHPL) (Cat 6)—A “laser” capable of delivering (the total or any portion of) the output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
 
 *Superalloy.* (Cat 2 and 9) Nickel, cobalt, or iron base alloys having a stress rupture life greater than 1,000 hours at 400 MPa and an ultimate tensile strength greater than 850 MPa, at 922 K (649 °C) or higher.
 
@@ -1230,13 +1230,13 @@ Note 2 to “Supercomputer”:
 
 Typically, a 'supercomputer' is a high-performance multi-rack system having thousands of closely coupled compute cores connected in parallel with networking technology and having a high peak power capacity requiring cooling elements. They are used for computationally intensive tasks including scientific and engineering work. Supercomputers may include shared memory, distributed memory, or a combination of both.
 
-*Superconductive.* (Cat 1, 3, 5P1, 6, and 8) - Materials, i.e., metals, alloys, or compounds that can lose all electrical resistance, i.e., that can attain infinite electrical conductivity and carry very large electrical currents without Joule heating.
+*Superconductive.* (Cat 1, 3, 5P1, 6, and 8)—Materials, i.e., metals, alloys, or compounds that can lose all electrical resistance, i.e., that can attain infinite electrical conductivity and carry very large electrical currents without Joule heating.
 
 Note:
 
 The “superconductive” state of a material is individually characterized by a “critical temperature”, a critical magnetic field that is a function of temperature, and a critical current density that is a function of both magnetic field and temperature.
 
-*Superplastic forming.* (Cat 1 and 2) - A deformation process using heat for metals that are normally characterized by low elongation (less than 20%) at the breaking point as determined at room temperature by conventional tensile strength testing, in order to achieve elongations during processing that are at least 2 times those values.
+*Superplastic forming.* (Cat 1 and 2)—A deformation process using heat for metals that are normally characterized by low elongation (less than 20%) at the breaking point as determined at room temperature by conventional tensile strength testing, in order to achieve elongations during processing that are at least 2 times those values.
 
 *Symmetric algorithm.* (Cat 5, Part II) A cryptographic algorithm using an identical key for both encryption and decryption. A common use of “symmetric algorithms” is confidentiality of data.
 
@@ -1246,7 +1246,7 @@ Note:
 
 The industrial standards established by INCOSE and NASA provide examples for when commodities and software operate together to perform a function as a system. References to these standards are included in this note to provide additional examples for when commodities or software operate together to perform a function as a system. See the INCOSE standards for what constitutes a system at (*http://g2sebok.incose.org/app/mss/asset.cfm?ID=INCOSE%20G2SEBOK%202.00&ST=F*), and in the (INCOSE SE Handbook v3.1 2007; ISO/IEC 15288:2008). Also see the NASA standards for examples of what constitutes a system in the (NASA SE Handbook SP-2007-6105 Rev 1).
 
-*Technology. Technology* means:
+*Technology.**Technology* means:
 
 Information necessary for the “development,” “production,” “use,” operation, installation, maintenance, repair, overhaul, or refurbishing (or other terms specified in ECCNs on the CCL that control “technology”) of an item.
 
@@ -1262,19 +1262,19 @@ Note 2 to definition of Technology:
 
 The modification of the design of an existing item creates a new item and technology for the modified design is technology for the development or production of the new item.
 
-*Terminal interface equipment.* (Cat 4) - Equipment at which information enters or leaves the telecommunication systems, e.g., telephone, data device, computer, facsimile device.
+*Terminal interface equipment.* (Cat 4)—Equipment at which information enters or leaves the telecommunication systems, e.g., telephone, data device, computer, facsimile device.
 
 “*Three dimensional integrated circuit”.* (Cat 3) A collection of semiconductor dies or active device layers, integrated together, and having through semiconductor via connections passing completely through an interposer, substrate, die or layer to establish interconnections between the device layers. An interposer is an interface that enables electrical connections.
 
-*Tilting spindle.* (Cat 2) - A tool-handling spindle that alters, during the machining process, the angular position of its center line with respect to any other axis.
+*Tilting spindle.* (Cat 2)—A tool-handling spindle that alters, during the machining process, the angular position of its center line with respect to any other axis.
 
-*Time constant.* (Cat 6) - The time taken from the application of a light stimulus for the current increment to reach a value of 1-1/e times the final value (i.e., 63% of the final value).
+*Time constant.* (Cat 6)—The time taken from the application of a light stimulus for the current increment to reach a value of 1-1/e times the final value (i.e., 63% of the final value).
 
-“Tip shroud” (Cat 9) - A stationary ring component (solid or segmented) attached to the inner surface of the engine turbine casing or a feature at the outer tip of the turbine blade, which primarily provides a gas seal between the stationary and rotating components.
+“Tip shroud” (Cat 9)—A stationary ring component (solid or segmented) attached to the inner surface of the engine turbine casing or a feature at the outer tip of the turbine blade, which primarily provides a gas seal between the stationary and rotating components.
 
 *Total control of flight.* (Cat 7) means an automated control of “aircraft” state variables and flight path to meet mission objectives responding to real time changes in data regarding objectives, hazards or other “aircraft.”
 
-*Total digital transfer rate.* (Cat 5) - The number of bits, including line coding, overhead and so forth per unit time passing between corresponding equipment in a digital transmission system. (See also “digital transfer rate”.)
+*Total digital transfer rate.* (Cat 5)—The number of bits, including line coding, overhead and so forth per unit time passing between corresponding equipment in a digital transmission system. (See also “digital transfer rate”.)
 
 *Toxins.* (Cat 1 and 2) means toxins in the form of deliberately isolated preparations or mixtures, no matter how produced, other than toxins present as contaminants of other materials such as pathological specimens, crops, foodstuffs or seed stocks of “microorganisms.”
 
@@ -1284,7 +1284,7 @@ Note to definition of Transfer:
 
 This definition of “transfer” does not apply to § 750.10 of the EAR or Supplement No. 8 to part 760 of the EAR. The term “transfer” may also be included on licenses issued by BIS. In that regard, the changes that can be made to a BIS license are the non-material changes described in § 750.7(c) of the EAR. Any other change to a BIS license without authorization is a violation of the EAR. See §§ 750.7(c) and 764.2(e) of the EAR.
 
-*Tunable.* (Cat 6) - The ability of a “laser” to produce a continuous output at all wavelengths over a range of several “laser” transitions. A line selectable “laser” produces discrete wavelengths within one “laser” transition and is not considered “tunable”.
+*Tunable.* (Cat 6)—The ability of a “laser” to produce a continuous output at all wavelengths over a range of several “laser” transitions. A line selectable “laser” produces discrete wavelengths within one “laser” transition and is not considered “tunable”.
 
 *U.S. Person.* (a) For purposes of §§ 732.3(j), 736.2(b)(7), 740.21(e)(1), 744.6, 744.10, 744.11, 744.12, 744.13, 744.14, and 745.2(a)(1) of the EAR, the term U.S. person includes:
 
@@ -1332,15 +1332,15 @@ Note to definition of “Unmanned aerial vehicle” (“UAV”):
 
 For the purposes of § 744.3 of the EAR, unmanned air vehicles, which are the same as “unmanned aerial vehicles,” include, but are not limited to, cruise missiles, target drones and reconnaissance drones.
 
-*Usable in”, “usable for”, “usable as” or “Capable of”.* (MTCR context) - Equipment, parts, components, materials or “software” which are suitable for a particular purpose. There is no need for the equipment, parts, components, materials or “software” to have been configured, modified or specified for the particular purpose. For example, any military specification memory circuit would be “capable of” operation in a guidance system.
+*“Usable in”, “usable for”, “usable as” or “Capable of”.* (MTCR context)—Equipment, parts, components, materials or “software” which are suitable for a particular purpose. There is no need for the equipment, parts, components, materials or “software” to have been configured, modified or specified for the particular purpose. For example, any military specification memory circuit would be “capable of” operation in a guidance system.
 
-*Use.* (All categories and General Technology Note) - Operation, installation (including on-site installation), maintenance (checking), repair, overhaul and refurbishing.
+*Use.* (All categories and General Technology Note)—Operation, installation (including on-site installation), maintenance (checking), repair, overhaul and refurbishing.
 
 Note:
 
 If an ECCN specifies one or more of the six elements of “use” in the heading or control text, only those elements specified are classified under that ECCN.
 
-*User-accessible programmability.* (Cat 6) - The facility allowing a user to insert, modify, or replace “programs” by means other than:
+*User-accessible programmability.* (Cat 6)—The facility allowing a user to insert, modify, or replace “programs” by means other than:
 
 (a) A physical change in wiring or interconnections; or
 
@@ -1358,7 +1358,7 @@ If an ECCN specifies one or more of the six elements of “use” in the heading
 
 *Vacuum electronic devices* (Cat 3) Electronic devices based on the interaction of an electron beam with an electromagnetic wave propagating in a vacuum circuit or interacting with radio-frequency vacuum cavity resonators. “Vacuum electronic devices” include klystrons, travelling-wave tubes, and their derivatives.
 
-*Vector Rate.* (Cat 4) - See: “Two dimensional Vector Rate”; “Three dimensional Vector Rate”.
+*Vector Rate.* (Cat 4)—See: “Two dimensional Vector Rate”; “Three dimensional Vector Rate”.
 
 *Vulnerability disclosure.* (§ 740.22, Cat 4) means the process of identifying, reporting, or communicating a vulnerability to, or analyzing a vulnerability with, individuals or organizations responsible for conducting or coordinating remediation for the purpose of resolving the vulnerability.
 
