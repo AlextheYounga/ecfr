@@ -1,5 +1,7 @@
 ##### § 551.5 Frequency and other limitations. #####
 
+Link to an amendment published at 85 FR 55193, Sept. 4, 2020.
+
 (a) The Postal Service is authorized to issue semipostal stamps for a 10-year period beginning on the date on which semipostal stamps are first sold to the public under 39 U.S.C. 416. The Office of Stamp Services will determine the date of commencement of the 10-year period.
 
 (b) The Postal Service will offer only one discretionary semipostal stamp for sale at any given time during the 10-year period, although a discretionary semipostal stamp may be offered for sale at the same time as one or more congressionally mandated semipostal stamps.

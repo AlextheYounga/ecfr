@@ -1,6 +1,6 @@
-##### § 1.468A-5 Nuclear decommissioning fund qualification requirements; prohibitions against self-dealing; disqualification of nuclear decommissioning fund; termination of fund upon substantial completion of decommissioning. #####
+##### § 1.468A-5 Nuclear decommissioning fund—miscellaneous provisions. #####
 
-(a) *Qualification requirements* - (1) *In general.* (i) A nuclear decommissioning fund must be established and maintained at all times in the United States pursuant to an arrangement that qualifies as a trust under State law. Such trust must be established for the exclusive purpose of providing funds for the decommissioning of one or more nuclear power plants, but a single trust agreement may establish multiple funds for such purpose. Thus, for example -
+(a) *Qualification requirements*—(1) *In general.* (i) A nuclear decommissioning fund must be established and maintained at all times in the United States pursuant to an arrangement that qualifies as a trust under State law. Such trust must be established for the exclusive purpose of providing funds for the decommissioning of one or more nuclear power plants, but a single trust agreement may establish multiple funds for such purpose. Thus, for example—
 
 (A) Two or more nuclear decommissioning funds can be established and maintained pursuant to a single trust agreement; and
 
@@ -14,7 +14,7 @@
 
 (2) *Limitation on contributions.* Except as otherwise provided in § 1.468A-8 (relating to special transfers under section 468A(f)), a nuclear decommissioning fund is not permitted to accept any contributions in cash or property other than cash payments with respect to which a deduction is allowed under section 468A(a) and § 1.468A-2(a). Thus, for example, except in the case of a special transfer pursuant to § 1.468A-8, securities may not be contributed to a nuclear decommissioning fund even if the taxpayer or a fund established by the taxpayer previously held such securities for the purpose of providing funds for the decommissioning of a nuclear power plant.
 
-(3) *Limitation on use of fund* - (i) *In general.* The assets of a nuclear decommissioning fund are to be used exclusively -
+(3) *Limitation on use of fund*—(i) *In general.* The assets of a nuclear decommissioning fund are to be used exclusively—
 
 (A) To satisfy, in whole or in part, the liability of the electing taxpayer for decommissioning costs of the nuclear power plant to which the nuclear decommissioning fund relates;
 
@@ -26,11 +26,11 @@
 
 (4) *Trust provisions.* Each qualified nuclear decommissioning fund trust agreement must provide that assets in the fund must be used as authorized by section 468A and §§ 1.468A-1 through 1.468A-9 and that the agreement may not be amended so as to violate section 468A or §§ 1.468A-1 through 1.468A-9.
 
-(b) *Prohibitions against self-dealing* - (1) *In general.* Except as otherwise provided in this paragraph (b), the excise taxes imposed by section 4951 shall apply to each act of self-dealing between a disqualified person and a nuclear decommissioning fund.
+(b) *Prohibitions against self-dealing*—(1) *In general.* Except as otherwise provided in this paragraph (b), the excise taxes imposed by section 4951 shall apply to each act of self-dealing between a disqualified person and a nuclear decommissioning fund.
 
-(2) *Self-dealing defined.* For purposes of this paragraph (b), the term *self-dealing* means any act described in section 4951(d), except -
+(2) *Self-dealing defined.* For purposes of this paragraph (b), the term *self-dealing* means any act described in section 4951(d), except—
 
-(i) A payment by a nuclear decommissioning fund for the purpose of satisfying, in whole or in part, the liability of the electing taxpayer for decommissioning costs of the nuclear power plant to which the nuclear decommissioning fund relates;
+(i) A payment by a nuclear decommissioning fund for the purpose of satisfying, in whole or in part, the liability of the electing taxpayer for decommissioning costs of the nuclear power plant to which the nuclear decommissioning fund relates, whether such payment is made to an unrelated party in satisfaction of the decommissioning liability or to the plant operator or other otherwise disqualified person as reimbursement solely for actual expenses paid by such person in satisfaction of the decommissioning liability;
 
 (ii) A withdrawal of an excess contribution by the electing taxpayer pursuant to the rules of paragraph (c)(2) of this section;
 
@@ -38,7 +38,7 @@
 
 (iv) A payment of amounts remaining in a nuclear decommissioning fund to the electing taxpayer after the termination of such fund (as determined under paragraph (d) of this section);
 
-(v) Any act described in section 4951(d)(2)(B) or (C);
+(v) Any act described in section 4951(d)(2)(B) or (C). Whether payments under section 4951(c)(2)(C) are not excessive is determined under § 1.162-7. See § 53.4941(d)-3(c)(1). The fact that the amount of such payments that are not excessive are also more than the disqualified person's actual expenses for such personal services does not cause the payments to constitute acts of self-dealing, even if the difference is properly characterized as profit, or direct or indirect overhead;
 
 (vi) Any act that is described in § 53.4951-1(c) of this chapter and is undertaken to facilitate the temporary investment of assets or the payment of reasonable administrative expenses of the nuclear decommissioning fund; or
 
@@ -46,7 +46,7 @@
 
 (3) *Disqualified person defined.* For purposes of this paragraph (b), the term *disqualified person* includes each person described in section 4951(e)(4) and § 53.4951-1(d).
 
-(4) *General banking services.* The general banking services allowed by paragraph (b)(2)(vii) of this section are -
+(4) *General banking services.* The general banking services allowed by paragraph (b)(2)(vii) of this section are—
 
 (i) Checking accounts, as long as the bank does not charge interest on any overwithdrawals;
 
@@ -54,7 +54,7 @@
 
 (iii) Safekeeping activities (*see* § 53.4941(d)-3(c)(2), *Example 3,* of this chapter).
 
-(c) *Disqualification of nuclear decommissioning fund* - (1) *In general* - (i) *Disqualification events.* Except as otherwise provided in paragraph (c)(2) of this section, the IRS may, in its discretion, disqualify all or any portion of a nuclear decommissioning fund if at any time during a taxable year of the fund -
+(c) *Disqualification of nuclear decommissioning fund*—(1) *In general*—(i) *Disqualification events.* Except as otherwise provided in paragraph (c)(2) of this section, the IRS may, in its discretion, disqualify all or any portion of a nuclear decommissioning fund if at any time during a taxable year of the fund—
 
 (A) The fund does not satisfy the requirements of paragraph (a) of this section; or
 
@@ -66,7 +66,7 @@
 
 (iii) *Notice of disqualification.* The IRS will notify the electing taxpayer of the disqualification of a nuclear decommissioning fund and the date of disqualification by registered or certified mail to the last known address of the electing taxpayer (the notice of disqualification). For further guidance regarding the definition of last known address, *see* § 301.6212-2 of this chapter.
 
-(2) *Exception to disqualification* - (i) *In general.* A nuclear decommissioning fund will not be disqualified under paragraph (c)(1) of this section by reason of an excess contribution or the withdrawal of such excess contribution by an electing taxpayer if the amount of the excess contribution is withdrawn by the electing taxpayer on or before the date prescribed by law (including extensions) for filing the return of the nuclear decommissioning fund for the taxable year to which the excess contribution relates. In the case of an excess contribution that is the result of a payment made pursuant to § 1.468A-3(g)(1), a nuclear decommissioning fund will not be disqualified under paragraph (c)(1) of this section if the amount of the excess contribution is withdrawn by the electing taxpayer on or before the later of -
+(2) *Exception to disqualification*—(i) *In general.* A nuclear decommissioning fund will not be disqualified under paragraph (c)(1) of this section by reason of an excess contribution or the withdrawal of such excess contribution by an electing taxpayer if the amount of the excess contribution is withdrawn by the electing taxpayer on or before the date prescribed by law (including extensions) for filing the return of the nuclear decommissioning fund for the taxable year to which the excess contribution relates. In the case of an excess contribution that is the result of a payment made pursuant to § 1.468A-3(g)(1), a nuclear decommissioning fund will not be disqualified under paragraph (c)(1) of this section if the amount of the excess contribution is withdrawn by the electing taxpayer on or before the later of—
 
 (A) The date prescribed by law (including extensions) for filing the return of the nuclear decommissioning fund for the taxable year to which the excess contribution relates; or
 
@@ -76,13 +76,13 @@
 
 (iii) *Taxation of income attributable to an excess contribution.* The income of a nuclear decommissioning fund attributable to an excess contribution is required to be included in the gross income of the nuclear decommissioning fund under § 1.468A-4(b).
 
-(3) *Disqualification treated as distribution.* If all or any portion of a nuclear decommissioning fund is disqualified under paragraph (c)(1) of this section, the portion of the nuclear decommissioning fund that is disqualified is treated as distributed to the electing taxpayer on the date of disqualification. Such a distribution shall be treated for purposes of section 1001 as a disposition of property held by the nuclear decommissioning fund (*see* § 1.468A-4(c)(2)). In addition, the electing taxpayer must include in gross income for the taxable year that includes the date of disqualification an amount equal to the fair market value of the distributable assets of the nuclear decommissioning fund multiplied by the fraction of the nuclear decommissioning fund that was disqualified under paragraph (c)(1) of this section. For this purpose, the fair market value of the distributable assets of the nuclear decommissioning fund is equal to the fair market value of the assets of the fund determined as of the date of disqualification, reduced by -
+(3) *Disqualification treated as distribution.* If all or any portion of a nuclear decommissioning fund is disqualified under paragraph (c)(1) of this section, the portion of the nuclear decommissioning fund that is disqualified is treated as distributed to the electing taxpayer on the date of disqualification. Such a distribution shall be treated for purposes of section 1001 as a disposition of property held by the nuclear decommissioning fund (*see* § 1.468A-4(c)(2)). In addition, the electing taxpayer must include in gross income for the taxable year that includes the date of disqualification an amount equal to the fair market value of the distributable assets of the nuclear decommissioning fund multiplied by the fraction of the nuclear decommissioning fund that was disqualified under paragraph (c)(1) of this section. For this purpose, the fair market value of the distributable assets of the nuclear decommissioning fund is equal to the fair market value of the assets of the fund determined as of the date of disqualification, reduced by—
 
 (i) The amount of any excess contribution that was not withdrawn before the date of disqualification if no deduction was allowed with respect to such excess contribution;
 
 (ii) The amount of any deemed distribution that was not actually distributed before the date of disqualification (as determined under § 1.468A-2(d)(2)(iii)) if the amount of the deemed distribution was included in the gross income of the electing taxpayer for the taxable year in which the deemed distribution occurred; and
 
-(iii) The amount of any tax that -
+(iii) The amount of any tax that—
 
 (A) Is imposed on the income of the fund;
 
@@ -92,11 +92,11 @@
 
 (4) *Further effects of disqualification.* Contributions made to a disqualified fund after the date of disqualification are not deductible under section 468A(a) and § 1.468A-2(a), or, if the fund is disqualified only in part, are deductible only to the extent provided in the notice of disqualification. In addition, if any assets of the fund that are deemed distributed under paragraph (c)(3) of this section are held by the fund after the date of disqualification (or if additional assets are acquired with nondeductible contributions made to the fund after the date of disqualification), the income earned by such assets after the date of disqualification must be included in the gross income of the electing taxpayer (*see* section 671) to the extent that such income is otherwise includible under chapter 1 of the Internal Revenue Code (Code). An electing taxpayer can establish a nuclear decommissioning fund to replace a fund that has been disqualified in its entirety only if the IRS specifically consents to the establishment of a replacement fund in connection with the issuance of an initial schedule of ruling amounts for such replacement fund.
 
-(d) *Termination of nuclear decommissioning fund upon substantial completion of decommissioning* - (1) *In general.* Upon substantial completion of the decommissioning of a nuclear power plant to which a nuclear decommissioning fund relates, such nuclear decommissioning fund shall be considered terminated and treated as having distributed all of its assets on the date the termination occurs (the termination date). Such a distribution shall be treated for purposes of section 1001 as a disposition of property held by the nuclear decommissioning fund (*see* § 1.468A-4(c)(2)). In addition, the electing taxpayer shall include in gross income for the taxable year in which the termination occurs an amount equal to the fair market value of the assets of the fund determined as of the termination date, reduced by -
+(d) *Termination of nuclear decommissioning fund upon substantial completion of decommissioning*—(1) *In general.* Upon substantial completion of the decommissioning of a nuclear power plant to which a nuclear decommissioning fund relates, such nuclear decommissioning fund shall be considered terminated and treated as having distributed all of its assets on the date the termination occurs (the termination date). Such a distribution shall be treated for purposes of section 1001 as a disposition of property held by the nuclear decommissioning fund (*see* § 1.468A-4(c)(2)). In addition, the electing taxpayer shall include in gross income for the taxable year in which the termination occurs an amount equal to the fair market value of the assets of the fund determined as of the termination date, reduced by—
 
 (i) The amount of any deemed distribution that was not actually distributed before the termination date if the amount of the deemed distribution was included in the gross income of the electing taxpayer for the taxable year in which the deemed distribution occurred; and
 
-(ii) The amount of any tax that -
+(ii) The amount of any tax that—
 
 (A) Is imposed on the income of the fund;
 
@@ -106,8 +106,8 @@
 
 (2) *Additional rules.* Contributions made to a nuclear decommissioning fund after the termination date are not deductible under section 468A(a) and § 1.468A-2(a). In addition, if any assets are held by the fund after the termination date, the income earned by such assets after the termination date must be included in the gross income of the electing taxpayer (*see* section 671) to the extent that such income is otherwise includible under chapter 1 of the Code. Finally, under § 1.468A-2(e), an electing taxpayer using an accrual method of accounting is allowed a deduction for nuclear decommissioning costs that are incurred during any taxable year even if such costs are incurred after substantial completion of decommissioning (for example, expenses incurred to monitor or safeguard the plant site).
 
-(3) *Substantial completion of decommissioning and termination date.* (i) The substantial completion of the decommissioning of a nuclear power plant occurs on the date that the maximum acceptable radioactivity levels mandated by the Nuclear Regulatory Commission with respect to a decommissioned nuclear power plant are satisfied (the substantial completion date). Except as otherwise provided in paragraph (d)(3)(ii) of this section, the substantial completion date is also the termination date.
+(3) *Substantial completion of decommissioning and termination date.* (i) The substantial completion of the decommissioning of a nuclear power plant occurs on the date on which all Federal, state, local, and contractual decommissioning requirements are fully satisfied (the substantial completion date). Except as otherwise provided in paragraph (d)(3)(ii) of this section, the substantial completion date is also the termination date.
 
 (ii) If a significant portion of the total estimated decommissioning costs with respect to a nuclear power plant are not incurred on or before the substantial completion date, an electing taxpayer may request, and the IRS will issue, a ruling that designates a date subsequent to the substantial completion date as the termination date. The termination date designated in the ruling will not be later than the last day of the third taxable year after the taxable year that includes the substantial completion date. The request for a ruling under this paragraph (d)(3)(ii) must be filed during the taxable year that includes the substantial completion date and must comply with the procedural rules in effect at the time of the request.
 
-[T.D. 9512, 75 FR 80701, Dec. 23, 2010]
+[T.D. 9512, 75 FR 80701, Dec. 23, 2010, as amended by T.D. 9906, 85 FR 55190, Sept. 4, 2020]

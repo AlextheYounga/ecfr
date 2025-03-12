@@ -1,5 +1,7 @@
 ##### § 551.3 Procedure for selection of causes and recipient executive agencies. #####
 
+Link to an amendment published at 85 FR 55193, Sept. 4, 2020.
+
 The Postal Service has discretionary authority to select causes and recipient executive agencies to receive funds raised through the sale of semipostal stamps. These regulations apply only to such discretionary semipostal stamps and do not apply to semipostal stamps that are mandated by Act of Congress, such as the *Breast Cancer Research* stamp. The procedure for selection of causes and recipient executive agencies is as follows:
 
 (a) The Office of Stamp Services will accept proposals from interested persons for future semipostal stamps beginning on May 20, 2016. The Office of Stamp Services will begin considering proposals on July 5, 2016. The Postal Service intends to issue five semipostal stamps under these regulations during the 10-year period established by Congress in 39 U.S.C. 416(g). Each semipostal stamp will be sold for no more than two years. Proposals may be submitted and will be considered on a rolling basis until seven years after May 20, 2016. The Office of Stamp Services may publicize this request for proposals in the Federal Register or through other means, as it determines in its discretion. Proposals for semipostal stamps made prior to May 20, 2016 will not be given further consideration. Nothing in these regulations should be construed as barring the resubmission of previously submitted causes and recipient executive agencies.
