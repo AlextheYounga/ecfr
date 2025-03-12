@@ -1,0 +1,3 @@
+##### § 217.92 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to § 216.106 of this chapter and § 217.96, the Holder of the LOAs (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.90(b) by Level A harassment and Level B harassment associated with in-water pile driving and pile removal activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the applicable LOAs.
