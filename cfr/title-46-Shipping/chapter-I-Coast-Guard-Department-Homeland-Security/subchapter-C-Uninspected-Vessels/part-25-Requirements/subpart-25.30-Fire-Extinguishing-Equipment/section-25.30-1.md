@@ -1,5 +1,7 @@
 ##### § 25.30-1 Applicability. #####
 
+Link to an amendment published at 86 FR 58573, Oct. 22, 2021.
+
 (a) The provisions of this subpart, with the exception of §§ 25.30-80 and 25.30-90 of this subpart, as applicable, apply to all vessels contracted for on or after August 22, 2016.
 
 (b) Vessels contracted for prior to August 22, 2016 and after November 19, 1952, must meet the requirements of 46 CFR 25.30-80.

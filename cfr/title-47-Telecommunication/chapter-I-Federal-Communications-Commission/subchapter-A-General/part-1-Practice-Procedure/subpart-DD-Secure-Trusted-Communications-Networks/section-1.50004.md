@@ -1,12 +1,10 @@
 ##### § 1.50004 Secure and Trusted Communications Networks Reimbursement Program. #####
 
-Link to an amendment published at 86 FR 47021, Aug. 23, 2021.
+(a) *Eligibility.* Providers of advanced communications service with ten million or fewer customers are eligible to participate in the Reimbursement Program to reimburse such providers solely for costs reasonably incurred for the permanent replacement, removal, and disposal of covered communications equipment or services:
 
-(a) *Eligibility.* Providers of advanced communications service with two million or fewer customers are eligible to participate in the Reimbursement Program to reimburse such providers for costs reasonably incurred for the replacement, removal, and disposal of covered communications equipment or services if:
+(1) As defined in the Report and Order of the Commission in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (FCC 19-121; WC Docket No. 18-89; adopted November 22, 2019 (in this section referred to as the 'Report and Order'); or
 
-(1) The covered communications equipment or service to be removed, replaced, or disposed of was purchased, rented, leased or otherwise obtained before August 14, 2018 and on the initial Covered List published per § 1.50002; or
-
-(2) The covered communications equipment or service was added to the Covered List per § 1.50003, then no later than 60 days after the date of addition to the Covered List;
+(2) As determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20-690; PS Docket No. 19-351; adopted June 30, 2020) (DA 20-691; PS Docket No. 19-352; adopted June 30, 2020) (in this section collectively referred to as the 'Designation Orders');
 
 (3) The provider certifies:
 
@@ -56,14 +54,18 @@ Link to an amendment published at 86 FR 47021, Aug. 23, 2021.
 
 (e) *Funding allocation.* Once an application is approved, the Wireline Competition Bureau will allocate funding on the applicant's behalf to the United States Treasury for draw down by the Reimbursement Program recipient as expenses are incurred pursuant to the funding disbursement process provided for in paragraph (g) of this section.
 
-(f) *Prioritization of support.* The Wireline Competition Bureau shall issue funding allocations in accordance with this section after the close of a filing window. After a filing window closes, the Wireline Competition Bureau shall calculate the total demand for Reimbursement Program support submitted by all eligible providers during the filing window period. If the total demand received during the filing window exceeds the total funds available, then the Wireline Competition Bureau shall allocate the available funds consistent with the following priority schedule:
+(f) *Prioritization of Support.* The Wireline Competition Bureau shall issue funding allocations in accordance with this section after the close of a filing window. After a filing window closes, the Wireline Competition Bureau shall calculate the total demand for Reimbursement Program support submitted by all eligible providers during the filing window period. If the total demand received during the filing window exceeds the total funds available, then the Wireline Competition Bureau shall allocate the available funds consistent with the following priority schedule:
 
-Table 1 to Paragraph (f) - Prioritization Schedule
+Table 1 to Paragraph (f)
 
-|Priority 1: Advanced communication service providers with 2 million or fewer customers that are Eligible Telecommunication Carriers subject to section [54.11] (new removal and replacement requirement).|   Priority 1a: Costs reasonably incurred for transitioning core network(s).  <br/>Priority 1b: Costs reasonably incurred for non-core network transition.   |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Priority 2: Non-ETC providers of advanced communications service with 2 million or fewer customers that participated in the Supply Chain Security Information Collection, OMB Control No. 3060-1270.   |Priority 2a: \* Costs reasonably incurred for transitioning core network(s).  <br/>Priority 2b: \* Costs reasonably incurred for non-core network transition.|
-|                            Priority 3: Other non-Eligible Telecommunication Carriers that are providers of advanced communication service with 2 million or fewer customers.                            |   Priority 3a: Costs reasonably incurred for transitioning core network(s).  <br/>Priority 3b: Costs reasonably incurred for non-core network transition.   |
+|                                                                                                                                                                               Prioritization schedule                                                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                     Priority 1                                                                                                                                                                                      |
+|                                                                                                                                                     Advanced communication service providers with 2 million or fewer customers.                                                                                                                                                     |
+|                                                                                                                                                                                     Priority 2                                                                                                                                                                                      |
+|Advanced communications service providers that are accredited public or private non-commercial educational institutions providing their own facilities-based educational broadband service, as defined in part 27, subpart M of title 47, Code of Federal Regulations, or any successor regulation and health care providers and libraries providing advanced communications service.|
+|                                                                                                                                                                                     Priority 3                                                                                                                                                                                      |
+|                                                                                                                                          Any remaining approved applicants determined to be eligible for reimbursement under the Program.                                                                                                                                           |
 
 (1) *Application of prioritization schedule.* The Wireline Competition Bureau shall issue full funding allocations for all eligible providers in the Priority 1 prioritization category before issuing funding allocations in any subsequent prioritization categories. The Wireline Competition Bureau shall continue to review all funding requests and issue funding allocations by prioritization category until there are no available funds remaining. If there is insufficient funding to fully fund all requests in a particular prioritization category, then the Wireline Competition Bureau will pro-rate the available funding among all eligible providers in that prioritization category. Requests for funds in subsequent prioritization categories will be denied for lack of available funding.
 
@@ -101,9 +103,9 @@ Table 1 to Paragraph (f) - Prioritization Schedule
 
 (1) Use reimbursement funds to remove, replace or dispose of any covered communications equipment or service purchased, rented, leased, or otherwise obtained:
 
-(i) On or after August 14, 2018, if on the initial Covered List published per § 1.50002; or
+(i) on or after publication of the Report and Order; or
 
-(ii) On or after 60 days after the date of addition to the Covered List if the communications equipment or services were subsequently added to the Covered List per § 1.50003; or
+(ii) in the case of any covered communications equipment that only became covered pursuant to the Designation Orders, June 30, 2020; or
 
 (2) Purchase, rent, lease, or otherwise obtain any covered communications equipment or service, using reimbursement funds or any other funds (including funds derived from private sources).
 
@@ -149,4 +151,14 @@ Table 1 to Paragraph (f) - Prioritization Schedule
 
 (p) *Delegation of authority.* The Commission delegates authority to the Wireline Competition Bureau, to adopt the necessary policies and procedures relating to allocations, draw downs, payments, obligations, and expenditures of money from the Reimbursement Program to protect against waste, fraud, and abuse and in the event of bankruptcy, to establish a Catalog of Expenses Eligible for Reimbursement and predetermined cost estimates, review the estimated cost forms, issue funding allocations for costs reasonably incurred, set filing deadlines and review information and documentation regarding progress reports, allocations, and final accountings.
 
-[86 FR 2941, 2944, Jan. 13, 2021, as amended at 86 FR 55515, Oct. 6, 2021]
+(q) *Provider of Advanced Communications Services.* For purposes of the Secure and Trusted Communications Networks Reimbursement Program, the term “provider of advanced communications services” is defined as:
+
+(1) A person who provides advanced communications service to United States customers; and includes:
+
+(A) Accredited public or private non-commercial educational institutions, providing their own facilities-based educational broadband service, as defined in 47 CFR part 27, subpart M, or any successor regulation; and
+
+(B) Health care providers and libraries providing advanced communications service.
+
+(2) [Reserved]
+
+[86 FR 2941, 2944, Jan. 13, 2021, as amended at 86 FR 55515, Oct. 6, 2021; 86 FR 47021, Aug. 23, 2021]

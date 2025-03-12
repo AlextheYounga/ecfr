@@ -1,5 +1,7 @@
 ##### § 1.08-1 Applicability. #####
 
+Link to an amendment published at 86 FR 58571, Oct. 22, 2021.
+
 (a) The regulations in this subpart apply to certain violations of the following statutes and regulations for which Coast Guard boarding officers are authorized to issue written warnings instead of recommending civil or criminal penalty procedures under subpart 1.07 of this part:
 
 (1) 46 CFR 25.05 whistles or other sound producing devices;

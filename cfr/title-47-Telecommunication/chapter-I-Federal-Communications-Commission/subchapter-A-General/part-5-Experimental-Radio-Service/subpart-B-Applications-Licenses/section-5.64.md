@@ -36,7 +36,7 @@
 
 (6) A statement disclosing planned proximity operations, if any, and addressing debris generation that will or may result from the proposed operations, including any planned release of debris, the risk of accidental explosions, the risk of accidental collision, and measures taken to mitigate those risks.
 
-(7) A statement detailing the disposal plans for the space station, including the quantity of fuel - if any - that will be reserved for disposal maneuvers. In addition, the following specific provisions apply:
+(7) A statement detailing the disposal plans for the space station, including the quantity of fuel—if any—that will be reserved for disposal maneuvers. In addition, the following specific provisions apply:
 
 (i) For geostationary orbit space stations, the statement must disclose the altitude selected for a disposal orbit and the calculations that are used in deriving the disposal altitude.
 
@@ -54,4 +54,4 @@
 
 (*2*) An assessment as to whether portions of any individual spacecraft will survive atmospheric re-entry and impact the surface of the Earth with a kinetic energy in excess of 15 joules, and demonstration that the calculated casualty risk for an individual spacecraft using the NASA Debris Assessment Software or a higher fidelity assessment tool is less than 0.0001 (1 in 10,000).
 
-[78 FR 25162, Apr. 29, 2013, as amended at 85 FR 52449, Aug. 25, 2020; 86 FR 52100, Sept. 20, 2021]
+[78 FR 25162, Apr. 29, 2013, as amended at 85 FR 52449, Aug. 25, 2020; 86 FR 52101, Sept. 20, 2021]
