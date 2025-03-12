@@ -2,7 +2,7 @@
 
 As prescribed in 204.2105(c), use the following clause:
 
-Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services (DEC 2019)
+Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services (JAN 2021)
 
 (a) *Definitions.* As used in this clause -
 
@@ -56,10 +56,10 @@ Prohibition on the Acquisition of Covered Defense Telecommunications Equipment o
 
 (2) The Contractor shall report the following information pursuant to paragraph (d)(1) of this clause:
 
-(i) Within one business day from the date of such identification or notification: The contract number; the order number(s), if applicable; supplier name; brand; model number (original equipment manufacturer number, manufacturer part number, or wholesaler number); item description; and any readily available information about mitigation actions undertaken or recommended.
+(i) Within 3 business days from the date of such identification or notification: The contract number; the order number(s), if applicable; supplier name; brand; model number (original equipment manufacturer number, manufacturer part number, or wholesaler number); item description; and any readily available information about mitigation actions undertaken or recommended.
 
-(ii) Within 10 business days of submitting the information in paragraph (d)(2)(i) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of a covered defense telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
+(ii) Within 30 business days of submitting the information in paragraph (d)(2)(i) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of a covered defense telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
 
 (e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items.
 
-(End of clause)[84 FR 72237, Dec. 31, 2019]
+(End of clause)[84 FR 72237, Dec. 31, 2019, as amended at 86 FR 3835, Jan. 15, 2021]

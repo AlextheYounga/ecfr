@@ -12,19 +12,19 @@
 
 (5) Costs of financial, legal, and other professional services, including services necessary to obtain required licenses and permits and to prepare environmental reports and data;
 
-(6) Costs of issuing Eligible Project debt, such as fees, transaction, and costs referred to in § 609.10(a)(5), and other customary charges imposed by Eligible Lenders;
+(6) Costs of issuing Eligible Project debt, such as fees, transaction, and costs referred to in paragraph (a)(5) of this section, and other customary charges imposed by Eligible Lenders;
 
 (7) Costs of necessary and appropriate insurance and bonds of all types including letters of credit and any collateral required therefor;
 
-(8) Costs of design, engineering, startup, commissioning and shakedown;
+(8) Costs of design, engineering, startup, commissioning, and shakedown;
 
 (9) Costs of obtaining licenses to intellectual property necessary to design, construct, and operate the Eligible Project;
 
-(10) To the extent required by the Loan Guarantee Agreement and not intended or available for any cost referred to in § 609.10(b), costs of funding any reserve fund, including without limitation, a debt service reserve, a maintenance reserve, and a contingency reserve for cost overruns during construction; provided that proceeds of a Guaranteed Loan deposited to any reserve fund shall not be removed from such fund except to pay Project Costs, to pay principal of the Guaranteed Loan, or otherwise to be used as provided in the Loan Guarantee Agreement;
+(10) To the extent required by the Loan Guarantee Agreement and not intended or available for any cost referred to in paragraph (b) of this section, costs of funding any reserve fund, including without limitation, a debt service reserve, a maintenance reserve, and a contingency reserve for cost overruns during construction; provided that proceeds of a Guaranteed Loan deposited to any reserve fund shall not be removed from such fund except to pay Project Costs, to pay principal of the Guaranteed Loan, or otherwise to be used as provided in the Loan Guarantee Agreement;
 
 (11) Capitalized interest necessary to meet market requirements and other carrying costs during construction; and
 
-(12) Other necessary and reasonable costs.
+(12) Other necessary and reasonable costs, including, without limitation, previously acquired real estate, equipment, or other materials, and any engineering, construction, make-ready, design, permitting, or other work completed on an existing facility or project.
 
 (b) Project Costs do not include:
 
@@ -40,7 +40,7 @@
 
 (6) Costs that are excessive or are not directly required to carry out the Eligible Project, as determined by DOE;
 
-(7) Expenses incurred after startup, commissioning, and shakedown before the facility, or, in DOE's discretion, any portion of the facility, has been placed in service;
+(7) Expenses incurred after startup, commissioning, and shakedown of the facility, or, in DOE's discretion, any portion of the facility that has completed startup, commissioning, and shakedown;
 
 (8) Borrower-paid Credit Subsidy Costs, the Administrative Cost of Issuing a Loan Guarantee, and any other fee collected by DOE; and
 

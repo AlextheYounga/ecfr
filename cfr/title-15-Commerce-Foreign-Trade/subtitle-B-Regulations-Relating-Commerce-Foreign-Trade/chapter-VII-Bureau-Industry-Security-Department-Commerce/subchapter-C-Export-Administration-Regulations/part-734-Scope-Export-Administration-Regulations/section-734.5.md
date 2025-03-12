@@ -1,5 +1,7 @@
 ##### § 734.5 Activities of U.S. and foreign persons subject to the EAR. #####
 
+Link to an amendment published at 86 FR 4869, Jan. 15, 2021.
+
 The following kinds of activities are subject to the EAR:
 
 (a) Certain activities of U.S. persons related to the proliferation of nuclear explosive devices, chemical or biological weapons, missile technology as described in § 744.6 of the EAR, and the proliferation of chemical weapons as described in part 745 of the EAR.

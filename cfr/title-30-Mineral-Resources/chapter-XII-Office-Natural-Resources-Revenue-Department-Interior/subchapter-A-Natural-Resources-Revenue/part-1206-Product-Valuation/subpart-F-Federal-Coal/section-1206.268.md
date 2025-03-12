@@ -1,5 +1,7 @@
 ##### § 1206.268 How do I determine washing allowances if I have an arm's-length washing contract or no written arm's-length contract? #####
 
+Link to an amendment published at 86 FR 4658, Jan. 15, 2021.
+
 (a) If you or your affiliate incur(s) washing costs under an arm's-length washing contract, you may claim a washing allowance for the reasonable, actual costs incurred.
 
 (b) You must be able to demonstrate that your or your affiliate's contract is arm's-length.

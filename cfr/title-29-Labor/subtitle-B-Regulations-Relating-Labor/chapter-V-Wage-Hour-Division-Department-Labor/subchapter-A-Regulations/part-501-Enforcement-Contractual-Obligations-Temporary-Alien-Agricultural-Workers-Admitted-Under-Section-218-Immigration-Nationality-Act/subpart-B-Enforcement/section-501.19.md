@@ -18,11 +18,11 @@
 
 (7) The extent to which the violator achieved a financial gain due to the violation, or the potential financial loss or potential injury to the workers.
 
-(c) A civil money penalty for each violation of the work contract or a requirement of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part will not exceed $1,766 per violation, with the following exceptions:
+(c) A civil money penalty for each violation of the work contract or a requirement of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part will not exceed $1,787 per violation, with the following exceptions:
 
 (1) A civil money penalty for each willful violation of the work contract, or of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, or for each act of discrimination prohibited by § 501.4 shall not exceed $5,942;
 
-(2) A civil money penalty for a violation of a housing or transportation safety and health provision of the work contract, or any obligation under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, that proximately causes the death or serious injury of any worker shall not exceed $57,833 per worker;
+(2) A civil money penalty for a violation of a housing or transportation safety and health provision of the work contract, or any obligation under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, that proximately causes the death or serious injury of any worker shall not exceed $59,528 per worker;
 
 (3) For purposes of this section, the term serious injury includes, but is not limited to:
 
@@ -32,12 +32,12 @@
 
 (iii) Permanent paralysis or substantial impairment that causes loss of movement or mobility of an arm, leg, foot, hand or other body part.
 
-(4) A civil money penalty for a repeat or willful violation of a housing or transportation safety and health provision of the work contract, or any obligation under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, that proximately causes the death or serious injury of any worker, shall not exceed $117664 per worker.
+(4) A civil money penalty for a repeat or willful violation of a housing or transportation safety and health provision of the work contract, or any obligation under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, that proximately causes the death or serious injury of any worker, shall not exceed $119,055 per worker.
 
-(d) A civil money penalty for failure to cooperate with a WHD investigation shall not exceed $5,942 per investigation.
+(d) A civil money penalty for failure to cooperate with a WHD investigation shall not exceed $6,012 per investigation.
 
-(e) A civil money penalty for laying off or displacing any U.S. worker employed in work or activities that are encompassed by the approved *Application for Temporary Employment Certification* for H-2A workers in the area of intended employment either within 60 days preceding the date of need or during the validity period of the job order, including any approved extension thereof, other than for a lawful, job-related reason, shall not exceed $17,650 per violation per worker.
+(e) A civil money penalty for laying off or displacing any U.S. worker employed in work or activities that are encompassed by the approved *Application for Temporary Employment Certification* for H-2A workers in the area of intended employment either within 60 days preceding the date of need or during the validity period of the job order, including any approved extension thereof, other than for a lawful, job-related reason, shall not exceed $17,859 per violation per worker.
 
-(f) A civil money penalty for improperly rejecting a U.S. worker who is an applicant for employment, in violation of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, shall not exceed $17,650 per violation per worker.
+(f) A civil money penalty for improperly rejecting a U.S. worker who is an applicant for employment, in violation of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part, shall not exceed $17,859 per violation per worker.
 
-[75 FR 6978, Feb. 12, 2010, as amended at 81 FR 43450, July 1, 2016; 82 FR 5381, Jan. 18, 2017; 83 FR 12, Jan. 2, 2018; 84 FR 218, Jan. 23, 2019; 85 FR 2297, Jan. 15, 2020]
+[75 FR 6978, Feb. 12, 2010, as amended at 81 FR 43450, July 1, 2016; 82 FR 5381, Jan. 18, 2017; 83 FR 12, Jan. 2, 2018; 84 FR 218, Jan. 23, 2019; 85 FR 2297, Jan. 15, 2020; 86 FR 2968, Jan. 14, 2021]

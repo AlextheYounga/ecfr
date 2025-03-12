@@ -1,5 +1,7 @@
 ##### § 107.65 Aeronautical knowledge recency. #####
 
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+
 A person may not operate a small unmanned aircraft system unless that person has completed one of the following, within the previous 24 calendar months:
 
 (a) Passed an initial aeronautical knowledge test covering the areas of knowledge specified in § 107.73(a);

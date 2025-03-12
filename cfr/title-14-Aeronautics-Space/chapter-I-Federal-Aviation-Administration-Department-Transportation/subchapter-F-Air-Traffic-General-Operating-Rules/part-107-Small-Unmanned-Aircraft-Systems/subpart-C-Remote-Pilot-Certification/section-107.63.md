@@ -1,5 +1,7 @@
 ##### § 107.63 Issuance of a remote pilot certificate with a small UAS rating. #####
 
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+
 An applicant for a remote pilot certificate with a small UAS rating under this subpart must make the application in a form and manner acceptable to the Administrator.
 
 (a) The application must include either:

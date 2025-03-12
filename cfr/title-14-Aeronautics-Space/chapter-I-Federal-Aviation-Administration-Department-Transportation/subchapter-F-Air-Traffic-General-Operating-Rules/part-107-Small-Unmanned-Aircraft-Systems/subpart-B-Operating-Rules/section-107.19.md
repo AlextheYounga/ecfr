@@ -1,5 +1,7 @@
 ##### § 107.19 Remote pilot in command. #####
 
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+
 (a) A remote pilot in command must be designated before or during the flight of the small unmanned aircraft.
 
 (b) The remote pilot in command is directly responsible for and is the final authority as to the operation of the small unmanned aircraft system.

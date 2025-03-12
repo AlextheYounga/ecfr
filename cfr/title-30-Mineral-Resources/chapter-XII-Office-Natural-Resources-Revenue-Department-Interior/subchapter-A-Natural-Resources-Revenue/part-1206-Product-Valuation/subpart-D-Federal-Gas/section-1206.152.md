@@ -1,5 +1,7 @@
 ##### § 1206.152 What general transportation allowance requirements apply to me? #####
 
+Link to an amendment published at 86 FR 4656, Jan. 15, 2021.
+
 (a) ONRR will allow a deduction for the reasonable, actual costs to transport residue gas, gas plant products, or unprocessed gas from the lease to the point off of the lease under § 1206.153 or § 1206.154, as applicable. You may not deduct transportation costs that you incur when moving a particular volume of production to reduce royalties that you owe on production for which you did not incur those costs. This paragraph applies when:
 
 (1) You value unprocessed gas under § 1206.141(b) or residue gas and gas plant products under § 1206.142(b) based on a sale at a point off of the lease, unit, or communitized area where the residue gas, gas plant products, or unprocessed gas is produced; and

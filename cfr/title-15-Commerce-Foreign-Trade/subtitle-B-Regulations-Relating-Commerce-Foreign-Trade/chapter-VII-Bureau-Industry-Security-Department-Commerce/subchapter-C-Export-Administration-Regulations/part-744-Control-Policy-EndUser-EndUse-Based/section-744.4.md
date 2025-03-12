@@ -1,5 +1,7 @@
 ##### § 744.4 Restrictions on certain chemical and biological weapons end-uses. #####
 
+Link to an amendment published at 86 FR 4871, Jan. 15, 2021.
+
 (a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) an item subject to the EAR without a license if, at the time of export, reexport, or transfer (in-country) you know that the item will be used in the design, development, production, stockpiling, or use of chemical or biological weapons in or by any country or destination, worldwide.
 
 (b) *Additional prohibition on persons informed by BIS.* BIS may inform persons, either individually by specific notice or through amendment to the EAR, that a license is required for a specific export, reexport, or transfer (in-country), or for the export, reexport, or transfer (in-country) of specified items to a certain end-user, because there is an unacceptable risk of use in or diversion to the activities specified in paragraph (a) of this section, anywhere in the world. Specific notice is to be given only by, or at the direction of, the Deputy Assistant Secretary for Export Administration. When such notice is provided orally, it will be followed by a written notice within two working days signed by the Deputy Assistant Secretary for Export Administration. However, the absence of any such notification does not excuse persons from compliance with the license requirements of paragraph (a) of this section.

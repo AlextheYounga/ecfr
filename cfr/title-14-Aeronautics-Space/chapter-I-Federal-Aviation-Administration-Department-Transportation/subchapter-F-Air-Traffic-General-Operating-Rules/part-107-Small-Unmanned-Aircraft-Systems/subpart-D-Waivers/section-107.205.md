@@ -1,5 +1,7 @@
 ##### § 107.205 List of regulations subject to waiver. #####
 
+Link to an amendment published at 86 FR 438, Jan. 15, 2021.
+
 A certificate of waiver issued pursuant to § 107.200 may authorize a deviation from the following regulations of this part:
 
 (a) Section 107.25 - Operation from a moving vehicle or aircraft. However, no waiver of this provision will be issued to allow the carriage of property of another by aircraft for compensation or hire.

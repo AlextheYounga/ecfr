@@ -106,7 +106,7 @@
 
 *Hazardous chemical* means any chemical which is classified as a physical hazard or a health hazard, a simple asphyxiant, combustible dust, pyrophoric gas, or hazard not otherwise classified.
 
-*Health hazard* means a chemical which is classified as posing one of the following hazardous effects: acute toxicity (any route of exposure); skin corrosion or irritation; serious eye damage or eye irritation; respiratory or skin sensitization; germ cell mutagenicity; carcinogenicity; reproductive toxicity; specific target organ toxicity (single or repeated exposure); or aspiration hazard. The criteria for determining whether a chemical is classified as a health hazard are detailed in Appendix A to § 1910.1200 - Health Hazard Criteria.
+*Health hazard* means a chemical which is classified as posing one of the following hazardous effects: acute toxicity (any route of exposure); skin corrosion or irritation; serious eye damage or eye irritation; respiratory or skin sensitization; germ cell mutagenicity; carcinogenicity; reproductive toxicity; specific target organ toxicity (single or repeated exposure); or aspiration hazard. The criteria for determining whether a chemical is classified as a health hazard are detailed in Appendix A to § 1910.1200—Health Hazard Criteria.
 
 *Immediate use* means that the hazardous chemical will be under the control of and used only by the person who transfers it from a labeled container and only within the work shift in which it is transferred.
 
@@ -118,7 +118,7 @@
 
 *Mixture* means a combination or a solution composed of two or more substances in which they do not react.
 
-*Physical hazard* means a chemical that is classified as posing one of the following hazardous effects: explosive; flammable (gases, aerosols, liquids, or solids); oxidizer (liquid, solid or gas); self-reactive; pyrophoric (liquid or solid); self-heating; organic peroxide; corrosive to metal; gas under pressure; or in contact with water emits flammable gas. *See* Appendix B to § 1910.1200 - Physical Hazard Criteria.
+*Physical hazard* means a chemical that is classified as posing one of the following hazardous effects: explosive; flammable (gases, aerosols, liquids, or solids); oxidizer (liquid, solid or gas); self-reactive; pyrophoric (liquid or solid); self-heating; organic peroxide; corrosive to metal; gas under pressure; or in contact with water emits flammable gas. *See* Appendix B to § 1910.1200—Physical Hazard Criteria.
 
 *Pictogram* means a composition that may include a symbol plus other graphic elements, such as a border, background pattern, or color, that is intended to convey specific information about the hazards of a chemical. Eight pictograms are designated under this standard for application to a hazard category.
 
@@ -142,7 +142,7 @@
 
 *Substance* means chemical elements and their compounds in the natural state or obtained by any production process, including any additive necessary to preserve the stability of the product and any impurities deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition.
 
-*Trade secret* means any confidential formula, pattern, process, device, information or compilation of information that is used in an employer's business, and that gives the employer an opportunity to obtain an advantage over competitors who do not know or use it. Appendix E to § 1910.1200 - Definition of Trade Secret, sets out the criteria to be used in evaluating trade secrets.
+*Trade secret* means any confidential formula, pattern, process, device, information or compilation of information that is used in an employer's business, and that gives the employer an opportunity to obtain an advantage over competitors who do not know or use it. Appendix E to § 1910.1200—Definition of Trade Secret, sets out the criteria to be used in evaluating trade secrets.
 
 *Use* means to package, handle, react, emit, extract, generate as a byproduct, or transfer.
 
@@ -178,7 +178,7 @@
 
 (5) Where employees must travel between workplaces during a workshift, *i.e.,* their work is carried out at more than one geographical location, the written hazard communication program may be kept at the primary workplace facility.
 
-(f) *Labels and other forms of warning* - (1) *Labels on shipped containers.* The chemical manufacturer, importer, or distributor shall ensure that each container of hazardous chemicals leaving the workplace is labeled, tagged, or marked. Hazards not otherwise classified do not have to be addressed on the container. Where the chemical manufacturer or importer is required to label, tag or mark the following information shall be provided:
+(f) *Labels and other forms of warning*—(1) *Labels on shipped containers.* The chemical manufacturer, importer, or distributor shall ensure that each container of hazardous chemicals leaving the workplace is labeled, tagged, or marked. Hazards not otherwise classified do not have to be addressed on the container. Where the chemical manufacturer or importer is required to label, tag or mark the following information shall be provided:
 
 (i) Product identifier;
 
@@ -222,7 +222,7 @@
 
 (g) *Safety data sheets.* (1) Chemical manufacturers and importers shall obtain or develop a safety data sheet for each hazardous chemical they produce or import. Employers shall have a safety data sheet in the workplace for each hazardous chemical which they use.
 
-(2) The chemical manufacturer or importer preparing the safety data sheet shall ensure that it is in English (although the employer may maintain copies in other languages as well), and includes at least the following section numbers and headings, and associated information under each heading, in the order listed (*See* Appendix D to § 1910.1200 - Safety Data Sheets, for the specific content of each section of the safety data sheet):
+(2) The chemical manufacturer or importer preparing the safety data sheet shall ensure that it is in English (although the employer may maintain copies in other languages as well), and includes at least the following section numbers and headings, and associated information under each heading, in the order listed (*See* Appendix D to § 1910.1200—Safety Data Sheets, for the specific content of each section of the safety data sheet):
 
 (i) Section 1, Identification;
 
@@ -420,7 +420,7 @@ OSHA will not be enforcing information requirements in sections 12 through 15, a
 
 (3) Chemical manufacturers, importers, distributors, and employers may comply with either § 1910.1200 revised as of October 1, 2011, or the current version of this standard, or both during the transition period.
 
-Appendix A to § 1910.1200 - Health Hazard Criteria (Mandatory)A.0 GENERAL CLASSIFICATION CONSIDERATIONSA.0.1 Classification
+Appendix A to § 1910.1200—Health Hazard Criteria (Mandatory)A.0 GENERAL CLASSIFICATION CONSIDERATIONSA.0.1 Classification
 
 A.0.1.1 The term “hazard classification” is used to indicate that only the intrinsic hazardous properties of chemicals are considered. Hazard classification incorporates three steps:
 
@@ -536,29 +536,29 @@ A.1.2 Classification Criteria for Substances
 
 A.1.2.1 Substances can be allocated to one of four toxicity categories based on acute toxicity by the oral, dermal or inhalation route according to the numeric cut-off criteria as shown in Table A.1.1. Acute toxicity values are expressed as (approximate) LD50 (oral, dermal) or LC50 (inhalation) values or as acute toxicity estimates (ATE). See the footnotes following Table A.1.1 for further explanation on the application of these values.
 
-Table A.1.1 - Acute Toxicity Hazard Categories and Acute Toxicity Estimate (ATE) Values Defining the Respective Categories
+Table A.1.1—Acute Toxicity Hazard Categories and Acute Toxicity Estimate (ATE) Values Defining the Respective Categories
 
-|          Exposure route           |Category 1|  Category 2   |  Category 3   |    Category 4    |
-|-----------------------------------|----------|---------------|---------------|------------------|
-|      Oral (mg/kg bodyweight)      |          |               |               |                  |
-|           see: Note (a)           |    ≤5    |  \>5 and ≤50  | \>50 and ≤300 | \>300 and ≤2000. |
-|             Note (b)              |          |               |               |                  |
-|     Dermal (mg/kg bodyweight)     |          |               |               |                  |
-|           see: Note (a)           |   ≤50    | \>50 and ≤200 |\>200 and ≤1000|\>1000 and ≤2000. |
-|             Note (b)              |          |               |               |                  |
-|     Inhalation - Gases (ppmV)     |          |               |               |                  |
-|           see: Note (a)           |   ≤100   |\>100 and ≤500 |\>500 and ≤2500|\>2500 and ≤20000.|
-|             Note (b)              |          |               |               |                  |
-|             Note (c)              |          |               |               |                  |
-|    Inhalation - Vapors (mg/l)     |          |               |               |                  |
-|           see: Note (a)           |   ≤0.5   |\>0.5 and ≤2.0 |\>2.0 and ≤10.0|\>10.0 and ≤20.0. |
-|             Note (b)              |          |               |               |                  |
-|             Note (c)              |          |               |               |                  |
-|             Note (d)              |          |               |               |                  |
-|Inhalation - Dusts and Mists (mg/l)|          |               |               |                  |
-|           see: Note (a)           |  ≤0.05   |\>0.05 and ≤0.5|\>0.5 and ≤1.0 | \>1.0 and ≤5.0.  |
-|             Note (b)              |          |               |               |                  |
-|             Note (c)              |          |               |               |                  |
+|         Exposure route          |Category 1|  Category 2   |  Category 3   |    Category 4    |
+|---------------------------------|----------|---------------|---------------|------------------|
+|     Oral (mg/kg bodyweight)     |          |               |               |                  |
+|          see: Note (a)          |    ≤5    |  \>5 and ≤50  | \>50 and ≤300 | \>300 and ≤2000. |
+|            Note (b)             |          |               |               |                  |
+|    Dermal (mg/kg bodyweight)    |          |               |               |                  |
+|          see: Note (a)          |   ≤50    | \>50 and ≤200 |\>200 and ≤1000|\>1000 and ≤2000. |
+|            Note (b)             |          |               |               |                  |
+|     Inhalation—Gases (ppmV)     |          |               |               |                  |
+|          see: Note (a)          |   ≤100   |\>100 and ≤500 |\>500 and ≤2500|\>2500 and ≤20000.|
+|            Note (b)             |          |               |               |                  |
+|            Note (c)             |          |               |               |                  |
+|    Inhalation—Vapors (mg/l)     |          |               |               |                  |
+|          see: Note (a)          |   ≤0.5   |\>0.5 and ≤2.0 |\>2.0 and ≤10.0|\>10.0 and ≤20.0. |
+|            Note (b)             |          |               |               |                  |
+|            Note (c)             |          |               |               |                  |
+|            Note (d)             |          |               |               |                  |
+|Inhalation—Dusts and Mists (mg/l)|          |               |               |                  |
+|          see: Note (a)          |  ≤0.05   |\>0.05 and ≤0.5|\>0.5 and ≤1.0 | \>1.0 and ≤5.0.  |
+|            Note (b)             |          |               |               |                  |
+|            Note (c)             |          |               |               |                  |
 
 Note:Gas concentrations are expressed in parts per million per volume (ppmV).
 
@@ -654,7 +654,7 @@ A.1.3.6.2.4 If the total concentration of the relevant ingredient(s) with unknow
 
 ![](/graphics/er26mr12.062.gif)
 
-Table A.1.2 - Conversion From Experimentally Obtained Acute Toxicity Range Values (or Acute Toxicity Hazard Categories) to Acute Toxicity Point Estimates for Use in the Formulas for the Classification of Mixtures
+Table A.1.2—Conversion From Experimentally Obtained Acute Toxicity Range Values (or Acute Toxicity Hazard Categories) to Acute Toxicity Point Estimates for Use in the Formulas for the Classification of Mixtures
 
 |     Exposure routes     |Classification category or experimentally obtained acute  <br/>toxicity range estimate|Converted acute toxicity point estimate|
 |-------------------------|--------------------------------------------------------------------------------------|---------------------------------------|
@@ -695,7 +695,7 @@ A.2.2.1.1 A corrosive substance is a chemical that produces destruction of skin 
 
 A.2.2.1.2 Three sub-categories of Category 1 are provided in Table A.2.1, all of which shall be regulated as Category 1.
 
-Table A.2.1 - Skin Corrosion Category and Sub-Categories
+Table A.2.1—Skin Corrosion Category and Sub-Categories
 
 |Category 1: corrosive|Corrosive sub-categories|Corrosive in ≥1 of 3 animals|         |
 |---------------------|------------------------|----------------------------|---------|
@@ -708,7 +708,7 @@ A.2.2.2 Irritation
 
 A.2.2.2.1 A single irritant category (Category 2) is presented in the Table A.2.2. The major criterion for the irritant category is that at least 2 tested animals have a mean score of ≥2.3 ≤4.0.
 
-Table A.2.2 - Skin Irritation Category
+Table A.2.2—Skin Irritation Category
 
 |                     |                                                                                                                          Criteria                                                                                                                           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -754,7 +754,7 @@ A.2.4.3.5 On occasion, reliable data may show that the skin corrosion/irritation
 
 A.2.4.3.6 If there are data showing that (an) ingredient(s) may be corrosive or irritant at a concentration of \<1% (corrosive) or \<3% (irritant), the mixture shall be classified accordingly (See *Use of cut-off values/concentration limits,* paragraph A.0.4.3 of this Appendix).
 
-Table A.2.3 - Concentration of Ingredients of a Mixture Classified as Skin Category 1 or 2 That Would Trigger Classification of the Mixture as Hazardous to Skin
+Table A.2.3—Concentration of Ingredients of a Mixture Classified as Skin Category 1 or 2 That Would Trigger Classification of the Mixture as Hazardous to Skin
 
 [Category 1 or 2]
 
@@ -766,7 +766,7 @@ Table A.2.3 - Concentration of Ingredients of a Mixture Classified as Skin Categ
 |            Skin Category 2             |                                                        |    ≥10%.    |
 |(10 × Skin Category 1) + Skin Category 2|                                                        |    ≥10%.    |
 
-Table A.2.4 - Concentration of Ingredients of a Mixture for Which the Additivity Approach Does Not Apply, That Would Trigger Classification of the Mixture as Hazardous to Skin
+Table A.2.4—Concentration of Ingredients of a Mixture for Which the Additivity Approach Does Not Apply, That Would Trigger Classification of the Mixture as Hazardous to Skin
 
 |                                             Ingredient:                                              |Concentration:|Mixture  <br/>classified as:  <br/>Skin|
 |------------------------------------------------------------------------------------------------------|--------------|---------------------------------------|
@@ -789,7 +789,7 @@ A.3.2.1 Irreversible effects on the eye/serious damage to eyes (Category 1).
 
 A single hazard category is provided in Table A.3.1, for substances that have the potential to seriously damage the eyes. Category 1, irreversible effects on the eye, includes the criteria listed below. These observations include animals with grade 4 cornea lesions and other severe reactions (e.g. destruction of cornea) observed at any time during the test, as well as persistent corneal opacity, discoloration of the cornea by a dye substance, adhesion, pannus, and interference with the function of the iris or other effects that impair sight. In this context, persistent lesions are considered those which are not fully reversible within an observation period of normally 21 days. Category 1 also contains substances fulfilling the criteria of corneal opacity ≥3 and/or iritis \>1.5 detected in a Draize eye test with rabbits, because severe lesions like these usually do not reverse within a 21-day observation period.
 
-Table A.3.1 - Irreversible Eye Effects
+Table A.3.1—Irreversible Eye Effects
 
 |                                          A substance is classified as Serious Eye Damage Category 1 (irreversible effects on the eye) when it produces:                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -803,7 +803,7 @@ A.3.2.2 Reversible effects on the eye (Category 2).
 
 A single category is provided in Table A.3.2 for substances that have the potential to induce reversible eye irritation.
 
-Table A.3.2 - Reversible Eye Effects
+Table A.3.2—Reversible Eye Effects
 
 |               A substance is classified as Eye irritant Category 2A (irritating to eyes) when it produces in at least in 2 of 3 tested animals a positive response of:               |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -852,7 +852,7 @@ A.3.4.3.5 On occasion, reliable data may show that the reversible/irreversible e
 
 A.3.4.3.6 If there are data showing that (an) ingredient(s) may be corrosive or irritant at a concentration of \<1% (corrosive) or \<3% (irritant), the mixture should be classified accordingly (See also paragraph A.0.4.3, *Use of cut-off values/concentration limits*).
 
-Table A.3.3 - Concentration of Ingredients of a Mixture Classified as Skin Category 1 and/or Eye Category 1 or 2 That Would Trigger Classification of the Mixtures as Hazardous to the Eye
+Table A.3.3—Concentration of Ingredients of a Mixture Classified as Skin Category 1 and/or Eye Category 1 or 2 That Would Trigger Classification of the Mixtures as Hazardous to the Eye
 
 |           Sum of ingredients classified as:            |Concentration triggering classification of a mixture as:|             |
 |--------------------------------------------------------|--------------------------------------------------------|-------------|
@@ -866,7 +866,7 @@ Table A.3.3 - Concentration of Ingredients of a Mixture Classified as Skin Categ
 
 Note:A mixture may be classified as Eye Category 2B in cases when all relevant ingredients are classified as Eye Category 2B.
 
-Table A.3.4 - Concentration of Ingredients of a Mixture for Which the Additivity Approach Does Not Apply, That Would Trigger Classification of the Mixture as Hazardous to the Eye
+Table A.3.4—Concentration of Ingredients of a Mixture for Which the Additivity Approach Does Not Apply, That Would Trigger Classification of the Mixture as Hazardous to the Eye
 
 |                                              Ingredient                                              |Concentration|Mixture  <br/>classified as:  <br/>Eye|
 |------------------------------------------------------------------------------------------------------|-------------|--------------------------------------|
@@ -901,7 +901,7 @@ A.4.2.1.1.1 Effects seen in either humans or animals will normally justify class
 
 A.4.2.1.1.2 Where data are not sufficient for sub-categorization, respiratory sensitizers shall be classified in Category 1.
 
-Table A.4.1 - Hazard Category and Sub-Categories for Respiratory Sensitizers
+Table A.4.1—Hazard Category and Sub-Categories for Respiratory Sensitizers
 
 |  Category 1   |                                                                                                             Respiratory sensitizer                                                                                                              |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -961,7 +961,7 @@ A.4.2.2.1.1 Effects seen in either humans or animals will normally justify class
 
 A.4.2.2.1.2 Where data are not sufficient for sub-categorization, skin sensitizers shall be classified in Category 1.
 
-Table A.4.2 - Hazard Category and Sub-Categories for Skin Sensitizers
+Table A.4.2—Hazard Category and Sub-Categories for Skin Sensitizers
 
 |  Category 1   |                                                                                                             Skin sensitizer                                                                                                             |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -975,7 +975,7 @@ A.4.2.2.2 Human evidence.
 
 A.4.2.2.2.1 Human evidence for sub-category 1A may include:
 
-(a) Positive responses at ≤500 µg/cm2 (Human Repeat Insult Patch Test (HRIPT), Human Maximization Test (HMT) - induction threshold);
+(a) Positive responses at ≤500 µg/cm2 (Human Repeat Insult Patch Test (HRIPT), Human Maximization Test (HMT)—induction threshold);
 
 (b) Diagnostic patch test data where there is a relatively high and substantial incidence of reactions in a defined population in relation to relatively low exposure;
 
@@ -983,7 +983,7 @@ A.4.2.2.2.1 Human evidence for sub-category 1A may include:
 
 A.4.2.2.2.2 Human evidence for sub-category 1B may include:
 
-(a) Positive responses at \>500 µg/cm2 (HRIPT, HMT - induction threshold);
+(a) Positive responses at \>500 µg/cm2 (HRIPT, HMT—induction threshold);
 
 (b) Diagnostic patch test data where there is a relatively low but substantial incidence of reactions in a defined population in relation to relatively high exposure;
 
@@ -997,7 +997,7 @@ A.4.2.2.3.1 For Category 1, when an adjuvant type test method for skin sensitiza
 
 A.4.2.2.3.2 Animal test results for sub-category 1A can include data with values indicated in Table A.4.3 below:
 
-Table A.4.3 - Animal Test Results for Sub-Category 1A
+Table A.4.3—Animal Test Results for Sub-Category 1A
 
 |           Assay            |                          Criteria                          |
 |----------------------------|------------------------------------------------------------|
@@ -1011,7 +1011,7 @@ Note:EC3 refers to the estimated concentration of test chemical required to indu
 
 A.4.2.2.3.3 Animal test results for sub-category 1B can include data with values indicated in Table A.4.4 below:
 
-Table A.4.4 - Animal Test Results for Sub-Category 1B
+Table A.4.4—Animal Test Results for Sub-Category 1B
 
 |           Assay            |                               Criteria                                |
 |----------------------------|-----------------------------------------------------------------------|
@@ -1073,7 +1073,7 @@ A.4.3.3 Classification of Mixtures When Data Are Available for All Ingredients o
 
 The mixture shall be classified as a respiratory or skin sensitizer when at least one ingredient has been classified as a respiratory or skin sensitizer and is present at or above the appropriate cut-off value/concentration limit for the specific endpoint as shown in Table A.4.5.
 
-Table A.4.5 - Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Either Respiratory Sensitizers or Skin Sensitizers That Would Trigger Classification of the Mixture
+Table A.4.5—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Either Respiratory Sensitizers or Skin Sensitizers That Would Trigger Classification of the Mixture
 
 |       Ingredient classified as:       |Cut-off values/concentration limits triggering classification of a mixture as:|                   |     |
 |---------------------------------------|------------------------------------------------------------------------------|-------------------|-----|
@@ -1098,7 +1098,7 @@ A.5.2 Classification Criteria for Substances
 
 A.5.2.1 The classification system provides for two different categories of germ cell mutagens to accommodate the weight of evidence available. The two-category system is described in the Figure A.5.1.
 
-Figure A.5.1 - Hazard Categories for Germ Cell Mutagens
+Figure A.5.1—Hazard Categories for Germ Cell Mutagens
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1135,7 +1135,7 @@ A.5.3.1.1 Classification of mixtures shall be based on the available test data f
 
 A.5.3.1.2 The mixture will be classified as a mutagen when at least one ingredient has been classified as a Category 1A, Category 1B or Category 2 mutagen and is present at or above the appropriate cut-off value/concentration limit as shown in Table A.5.1 below for Category 1 and 2 respectively.
 
-Table A.5.1 - Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Germ Cell Mutagens That Would Trigger Classification of the Mixture
+Table A.5.1—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Germ Cell Mutagens That Would Trigger Classification of the Mixture
 
 |Ingredient classified as:|Cut-off/concentration limits triggering classification of a mixture as:|     |
 |-------------------------|-----------------------------------------------------------------------|-----|
@@ -1209,7 +1209,7 @@ A.6.2 Classification Criteria for Substances6
 
 A.6.2.1 For the purpose of classification for carcinogenicity, substances are allocated to one of two categories based on strength of evidence and additional weight of evidence considerations. In certain instances, route-specific classification may be warranted.
 
-Figure A.6.1 - Hazard Categories for Carcinogens
+Figure A.6.1—Hazard Categories for Carcinogens
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1218,8 +1218,8 @@ Figure A.6.1 - Hazard Categories for Carcinogens
 |                                                                                                                                                                                 Category 1A: Known to have carcinogenic potential for humans. Classification in this category is largely based on human evidence.                                                                                                                                                                                 |
 |                                                                                                                                                                               Category 1B: Presumed to have carcinogenic potential for humans. Classification in this category is largely based on animal evidence.                                                                                                                                                                               |
 |                                                                                                                                               The classification of a substance in Category 1A and 1B is based on strength of evidence together with weight of evidence considerations (See paragraph A.6.2.5). Such evidence may be derived from:                                                                                                                                                |
-|                                                                                                                                                                       \- human studies that establish a causal relationship between human exposure to a substance and the development of cancer (known human carcinogen); or                                                                                                                                                                      |
-|                                                                                                                                                                                  \- animal experiments for which there is sufficient evidence to demonstrate animal carcinogenicity (presumed human carcinogen).                                                                                                                                                                                  |
+|                                                                                                                                                                       —human studies that establish a causal relationship between human exposure to a substance and the development of cancer (known human carcinogen); or                                                                                                                                                                        |
+|                                                                                                                                                                                   —animal experiments for which there is sufficient evidence to demonstrate animal carcinogenicity (presumed human carcinogen).                                                                                                                                                                                   |
 |                                                                                                             In addition, on a case by case basis, scientific judgment may warrant a decision of presumed human carcinogenicity derived from studies showing limited evidence of carcinogenicity in humans together with limited evidence of carcinogenicity in experimental animals.                                                                                                              |
 |                                                                                                                                                                                                                             CATEGORY 2: Suspected human carcinogens.                                                                                                                                                                                                                              |
 |The classification of a substance in Category 2 is done on the basis of evidence obtained from human and/or animal studies, but which is not sufficiently convincing to place the substance in Category 1A or B. This classification is based on strength of evidence together with weight of evidence considerations (See paragraph A.6.2.5). Such evidence may be from either limited evidence of carcinogenicity in human studies or from limited evidence of carcinogenicity in animal studies.|
@@ -1275,7 +1275,7 @@ A.6.3 Classification Criteria for Mixtures7
 
 A.6.3.1 The mixture shall be classified as a carcinogen when at least one ingredient has been classified as a Category 1 or Category 2 carcinogen and is present at or above the appropriate cut-off value/concentration limit as shown in Table A.6.1.
 
-Table A.6.1 - Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Carcinogen That Would Trigger Classification of the Mixture
+Table A.6.1—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Carcinogen That Would Trigger Classification of the Mixture
 
 |Ingredient classified as:|Category 1  <br/>carcinogen|Category 2  <br/>carcinogen|
 |-------------------------|---------------------------|---------------------------|
@@ -1320,7 +1320,7 @@ A.7.2 Classification Criteria for Substances
 
 A.7.2.1 For the purpose of classification for reproductive toxicity, substances shall be classified in one of two categories in accordance with Figure A.7.1(a). Effects on sexual function and fertility, and on development, shall be considered. In addition, effects on or via lactation shall be classified in a separate hazard category in accordance with Figure A.7.1(b).
 
-Figure A.7.1(a) - Hazard Categories for Reproductive Toxicants
+Figure A.7.1(a)—Hazard Categories for Reproductive Toxicants
 
 |                                                                                                                                                                                                                                                                                                                                               CATEGORY 1: Known or presumed human reproductive toxicant.                                                                                                                                                                                                                                                                                                                                               |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1332,7 +1332,7 @@ Figure A.7.1(a) - Hazard Categories for Reproductive Toxicants
 |                                                                                                                                                                                                                                                                                                                                                   CATEGORY 2: Suspected human reproductive toxicant.                                                                                                                                                                                                                                                                                                                                                   |
 |Substances shall be classified in Category 2 for reproductive toxicity when there is some evidence from humans or experimental animals, possibly supplemented with other information, of an adverse effect on sexual function and fertility, or on development, in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of the other toxic effects, and where the evidence is not sufficiently convincing to place the substance in Category 1. For instance, deficiencies in the study may make the quality of evidence less convincing, and in view of this, Category 2 would be the more appropriate classification.|
 
-Figure A.7.1(b) - Hazard Category for Effects on or Via Lactation
+Figure A.7.1(b)—Hazard Category for Effects on or Via Lactation
 
 |                                                                                                                                                                                                           EFFECTS ON OR VIA LACTATION                                                                                                                                                                                                           |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1391,7 +1391,7 @@ A.7.2.5 Animal and Experimental Data
 
 A.7.2.5.1 A number of scientifically validated test methods are available, including methods for developmental toxicity testing (e.g., OECD Test Guideline 414, ICH Guideline S5A, 1993), methods for peri- and post-natal toxicity testing (e.g., ICH S5B, 1995), and methods for one or two-generation toxicity testing (e.g., OECD Test Guidelines 415, 416)
 
-A.7.2.5.2 Results obtained from screening tests (e.g., OECD Guidelines 421 - Reproduction/Developmental Toxicity Screening Test, and 422 - Combined Repeated Dose Toxicity Study with Reproduction/Development Toxicity Screening Test) can also be used to justify classification, although the quality of this evidence is less reliable than that obtained through full studies.
+A.7.2.5.2 Results obtained from screening tests (e.g., OECD Guidelines 421—Reproduction/Developmental Toxicity Screening Test, and 422—Combined Repeated Dose Toxicity Study with Reproduction/Development Toxicity Screening Test) can also be used to justify classification, although the quality of this evidence is less reliable than that obtained through full studies.
 
 A.7.2.5.3 Adverse effects or changes, seen in short- or long-term repeated dose toxicity studies, which are judged likely to impair reproductive function and which occur in the absence of significant generalized toxicity, may be used as a basis for classification, e.g., histopathological changes in the gonads.
 
@@ -1417,7 +1417,7 @@ A.7.3.1.1 The mixture shall be classified as a reproductive toxicant when at lea
 
 A.7.3.1.2 The mixture shall be classified for effects on or via lactation when at least one ingredient has been classified for effects on or via lactation and is present at or above the appropriate cut-off value/concentration limit specified in Table A.7.1 for the additional category for effects on or via lactation.
 
-Table A.7.1 - Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Reproductive Toxicants or for Effects on or via Lactation That Trigger Classification of the Mixture
+Table A.7.1—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Reproductive Toxicants or for Effects on or via Lactation That Trigger Classification of the Mixture
 
 |            Ingredients classified as:             |Cut-off values/concentration limits triggering classification of a mixture as:|                                                         |     |
 |---------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------|-----|
@@ -1436,7 +1436,7 @@ A.7.3.3.1 Where the mixture itself has not been tested to determine its reproduc
 
 A.8 SPECIFIC TARGET ORGAN TOXICITY SINGLE EXPOSUREA.8.1 Definitions and General Considerations
 
-A.8.1.1 *Specific target organ toxicity - single exposure, (STOT-SE)* means specific, non-lethal target organ toxicity arising from a single exposure to a chemical. All significant health effects that can impair function, both reversible and irreversible, immediate and/or delayed and not specifically addressed in A.1 to A.7 and A.10 of this Appendix are included. Specific target organ toxicity following repeated exposure is classified in accordance with *SPECIFIC TARGET ORGAN TOXICITY - REPEATED EXPOSURE* (A.9 of this Appendix) and is therefore not included here.
+A.8.1.1 *Specific target organ toxicity—single exposure, (STOT-SE)* means specific, non-lethal target organ toxicity arising from a single exposure to a chemical. All significant health effects that can impair function, both reversible and irreversible, immediate and/or delayed and not specifically addressed in A.1 to A.7 and A.10 of this Appendix are included. Specific target organ toxicity following repeated exposure is classified in accordance with *SPECIFIC TARGET ORGAN TOXICITY—REPEATED EXPOSURE* (A.9 of this Appendix) and is therefore not included here.
 
 A.8.1.2 Classification identifies the chemical as being a specific target organ toxicant and, as such, it presents a potential for adverse health effects in people who are exposed to it.
 
@@ -1452,7 +1452,7 @@ A.8.2 Classification Criteria for SubstancesA.8.2.1 Substances of Category 1 and
 
 A.8.2.1.1 Substances shall be classified for immediate or delayed effects separately, by the use of expert judgment on the basis of the weight of all evidence available, including the use of recommended guidance values (See A.8.2.1.9). Substances shall then be classified in Category 1 or 2, depending upon the nature and severity of the effect(s) observed, in accordance with Figure A.8.1.
 
-Figure A.8.1 - Hazard Categories for Specific Target Organ Toxicity Following Single Exposure
+Figure A.8.1—Hazard Categories for Specific Target Organ Toxicity Following Single Exposure
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1515,7 +1515,7 @@ A.8.2.1.9.2 Thus, in animal studies, when significant toxic effects are observed
 
 A.8.2.1.9.3 The guidance value (C) ranges for single-dose exposure which has produced a significant non-lethal toxic effect are those applicable to acute toxicity testing, as indicated in Table A.8.1.
 
-Table A.8.1 - Guidance Value Ranges for Single-Dose Exposures
+Table A.8.1—Guidance Value Ranges for Single-Dose Exposures
 
 |       Route of exposure       |      Units      |Guidance value ranges for:|                 |                             |
 |-------------------------------|-----------------|--------------------------|-----------------|-----------------------------|
@@ -1578,7 +1578,7 @@ A.8.3.4 Classification of Mixtures When Data Are Available for All Ingredients o
 
 A.8.3.4.1 Where there is no reliable evidence or test data for the specific mixture itself, and the bridging principles cannot be used to enable classification, then classification of the mixture is based on the classification of the ingredient substances. In this case, the mixture shall be classified as a specific target organ toxicant (specific organ specified), following single exposure, repeated exposure, or both when at least one ingredient has been classified as a Category 1 or Category 2 specific target organ toxicant and is present at or above the appropriate cut-off value/concentration limit specified in Table A.8.2 for Categories 1 and 2, respectively.
 
-Table A.8.2 - Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as a Specific Target Organ Toxicant That Would Trigger Classification of the Mixture as Category 1 or 2
+Table A.8.2—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as a Specific Target Organ Toxicant That Would Trigger Classification of the Mixture as Category 1 or 2
 
 |   Ingredient classified as:    |Cut-off values/concentration limits triggering classification of a mixture as:|     |
 |--------------------------------|------------------------------------------------------------------------------|-----|
@@ -1596,7 +1596,7 @@ A.8.3.4.5 Care shall be exercised when extrapolating the toxicity of a mixture t
 
 A.9 SPECIFIC TARGET ORGAN TOXICITY REPEATED OR PROLONGED EXPOSUREA.9.1 Definitions and general considerations
 
-A.9.1.1 *Specific target organ toxicity - repeated exposure (STOT-RE)* means specific target organ toxicity arising from repeated exposure to a substance or mixture. All significant health effects that can impair function, both reversible and irreversible, immediate and/or delayed and not specifically addressed in A.1 to A.7 and A.10 of this Appendix are included. Specific target organ toxicity following a single-event exposure is classified in accordance with *SPECIFIC TARGET ORGAN TOXICITY - SINGLE EXPOSURE* (A.8 of this Appendix) and is therefore not included here.
+A.9.1.1 *Specific target organ toxicity—repeated exposure (STOT-RE)* means specific target organ toxicity arising from repeated exposure to a substance or mixture. All significant health effects that can impair function, both reversible and irreversible, immediate and/or delayed and not specifically addressed in A.1 to A.7 and A.10 of this Appendix are included. Specific target organ toxicity following a single-event exposure is classified in accordance with *SPECIFIC TARGET ORGAN TOXICITY—SINGLE EXPOSURE* (A.8 of this Appendix) and is therefore not included here.
 
 A.9.1.2 Classification identifies the substance or mixture as being a specific target organ toxicant and, as such, it may present a potential for adverse health effects in people who are exposed to it.
 
@@ -1610,7 +1610,7 @@ A.9.2 Classification Criteria for Substances
 
 A.9.2.1 Substances shall be classified as STOT-RE by expert judgment on the basis of the weight of all evidence available, including the use of recommended guidance values which take into account the duration of exposure and the dose/concentration which produced the effect(s), (See A.9.2.9). Substances shall be placed in one of two categories, depending upon the nature and severity of the effect(s) observed, in accordance with Figure A.9.1.
 
-Figure A.9.1 - Hazard Categories for Specific Target Organ Toxicity Following Repeated Exposure
+Figure A.9.1—Hazard Categories for Specific Target Organ Toxicity Following Repeated Exposure
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1683,7 +1683,7 @@ A.9.2.9.5 The guidance values refer to effects seen in a standard 90-day toxicit
 
 A.9.2.9.6 Thus for Category 1 classification, significant toxic effects observed in a 90-day repeated-dose study conducted in experimental animals and seen to occur at or below the (suggested) guidance values (C) as indicated in Table A.9.1 would justify classification:
 
-Table A.9.1 - Guidance Values To Assist in Category 1 Classification
+Table A.9.1—Guidance Values To Assist in Category 1 Classification
 
 [Applicable to a 90-day study]
 
@@ -1697,7 +1697,7 @@ Table A.9.1 - Guidance Values To Assist in Category 1 Classification
 
 A.9.2.9.7 For Category 2 classification, significant toxic effects observed in a 90-day repeated-dose study conducted in experimental animals and seen to occur within the (suggested) guidance value ranges as indicated in Table A.9.2 would justify classification:
 
-Table A.9.2 - Guidance Values To Assist in Category 2 Classification
+Table A.9.2—Guidance Values To Assist in Category 2 Classification
 
 [Applicable to a 90-day study]
 
@@ -1737,7 +1737,7 @@ A.9.3.4 Classification of Mixtures When Data Are Available for All Ingredients o
 
 A.9.3.4.1 Where there is no reliable evidence or test data for the specific mixture itself, and the bridging principles cannot be used to enable classification, then classification of the mixture is based on the classification of the ingredient substances. In this case, the mixture shall be classified as a specific target organ toxicant (specific organ specified), following single exposure, repeated exposure, or both when at least one ingredient has been classified as a Category 1 or Category 2 specific target organ toxicant and is present at or above the appropriate cut-off value/concentration limit specified in Table A.9.3 for Category 1 and 2 respectively.
 
-Table A.9.3 - Cut-Off Value/Concentration Limits of Ingredients of a Mixture Classified as a Specific Target Organ Toxicant That Would Trigger Classification of the Mixture as Category 1 or 2
+Table A.9.3—Cut-Off Value/Concentration Limits of Ingredients of a Mixture Classified as a Specific Target Organ Toxicant That Would Trigger Classification of the Mixture as Category 1 or 2
 
 |   Ingredient classified as:    |Cut-off values/concentration  <br/>limits triggering classification of a  <br/>mixture as:|     |
 |--------------------------------|------------------------------------------------------------------------------------------|-----|
@@ -1775,7 +1775,7 @@ Aerosol and mist products are usually dispensed in containers such as self-press
 
 A.10.2 Classification Criteria for Substances
 
-Table A.10.1 - Criteria for Aspiration Toxicity
+Table A.10.1—Criteria for Aspiration Toxicity
 
 |                                                                 Category                                                                 |                                                                                                                                 Criteria                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1797,7 +1797,7 @@ A.10.3.3.1 A mixture which contains ≥10% of an ingredient or ingredients class
 
 A.10.3.3.2 In the case of a mixture which separates into two or more distinct layers, one of which contains ≥10% of an ingredient or ingredients classified in Category 1 and has a kinematic viscosity ≤20.5 mm2/s, measured at 40 °C, then the entire mixture shall be classified in Category 1.
 
-Appendix B to § 1910.1200 - Physical Criteria (Mandatory)B.1 EXPLOSIVESB.1.1 Definitions and General Considerations
+Appendix B to § 1910.1200—Physical Criteria (Mandatory)B.1 EXPLOSIVESB.1.1 Definitions and General Considerations
 
 B.1.1.1 An *explosive chemical* is a solid or liquid chemical which is in itself capable by chemical reaction of producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. Pyrotechnic chemicals are included even when they do not evolve gases.
 
@@ -1823,21 +1823,21 @@ B.1.2 Classification Criteria
 
 Chemicals and items of this class shall be classified as unstable explosives or shall be assigned to one of the following six divisions depending on the type of hazard they present:
 
-(a) Division 1.1 - Chemicals and items which have a mass explosion hazard (a mass explosion is one which affects almost the entire quantity present virtually instantaneously);
+(a) Division 1.1—Chemicals and items which have a mass explosion hazard (a mass explosion is one which affects almost the entire quantity present virtually instantaneously);
 
-(b) Division 1.2 - Chemicals and items which have a projection hazard but not a mass explosion hazard;
+(b) Division 1.2—Chemicals and items which have a projection hazard but not a mass explosion hazard;
 
-(c) Division 1.3 - Chemicals and items which have a fire hazard and either a minor blast hazard or a minor projection hazard or both, but not a mass explosion hazard:
+(c) Division 1.3—Chemicals and items which have a fire hazard and either a minor blast hazard or a minor projection hazard or both, but not a mass explosion hazard:
 
 (i) Combustion of which gives rise to considerable radiant heat; or
 
 (ii) Which burn one after another, producing minor blast or projection effects or both;
 
-(d) Division 1.4 - Chemicals and items which present no significant hazard: chemicals and items which present only a small hazard in the event of ignition or initiation. The effects are largely confined to the package and no projection of fragments of appreciable size or range is to be expected. An external fire shall not cause virtually instantaneous explosion of almost the entire contents of the package;
+(d) Division 1.4—Chemicals and items which present no significant hazard: chemicals and items which present only a small hazard in the event of ignition or initiation. The effects are largely confined to the package and no projection of fragments of appreciable size or range is to be expected. An external fire shall not cause virtually instantaneous explosion of almost the entire contents of the package;
 
-(e) Division 1.5 - Very insensitive chemicals which have a mass explosion hazard: chemicals which have a mass explosion hazard but are so insensitive that there is very little probability of initiation or of transition from burning to detonation under normal conditions;
+(e) Division 1.5—Very insensitive chemicals which have a mass explosion hazard: chemicals which have a mass explosion hazard but are so insensitive that there is very little probability of initiation or of transition from burning to detonation under normal conditions;
 
-(f) Division 1.6 - Extremely insensitive items which do not have a mass explosion hazard: items which contain only extremely insensitive detonating chemicals and which demonstrate a negligible probability of accidental initiation or propagation.
+(f) Division 1.6—Extremely insensitive items which do not have a mass explosion hazard: items which contain only extremely insensitive detonating chemicals and which demonstrate a negligible probability of accidental initiation or propagation.
 
 B.1.3 Additional Classification Considerations
 
@@ -1883,7 +1883,7 @@ B.2.2 Classification Criteria
 
 A flammable gas shall be classified in one of the two categories for this class in accordance with Table B.2.1:
 
-Table B.2.1 - Criteria for Flammable Gases
+Table B.2.1—Criteria for Flammable Gases
 
 |Category|                                                                         Criteria                                                                         |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1918,7 +1918,7 @@ Flammable aerosols do not fall additionally within the scope of flammable gases,
 
 B.3.2.2 A flammable aerosol shall be classified in one of the two categories for this class in accordance with Table B.3.1.
 
-Table B.3.1 - Criteria for Flammable Aerosols
+Table B.3.1—Criteria for Flammable Aerosols
 
 |Category|                                                                                                                                                                                                                                                                   Criteria                                                                                                                                                                                                                                                                   |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1955,7 +1955,7 @@ B.4.2 Classification Criteria
 
 An oxidizing gas shall be classified in a single category for this class in accordance with Table B.4.1:
 
-Table B.4.1 - Criteria for Oxidizing Gases
+Table B.4.1—Criteria for Oxidizing Gases
 
 |Category|                                                          Criteria                                                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -1975,7 +1975,7 @@ B.5.2 Classification Criteria
 
 Gases under pressure shall be classified in one of four groups in accordance with Table B.5.1:
 
-Table B.5.1 - Criteria for Gases Under Pressure
+Table B.5.1—Criteria for Gases Under Pressure
 
 |          Group           |                                                                      Criteria                                                                      |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1998,7 +1998,7 @@ B.6.2 Classification Criteria
 
 A flammable liquid shall be classified in one of four categories in accordance with Table B.6.1:
 
-Table B.6.1 - Criteria for Flammable Liquids
+Table B.6.1—Criteria for Flammable Liquids
 
 |Category|                                Criteria                                |
 |--------|------------------------------------------------------------------------|
@@ -2029,7 +2029,7 @@ B.7.2.3 Solids which may cause fire through friction shall be classified in this
 
 B.7.2.4 A flammable solid shall be classified in one of the two categories for this class using Method N.1 as described in Part III, sub-section 33.2.1 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.7.1:
 
-Table B.7.1 - Criteria for Flammable Solids
+Table B.7.1—Criteria for Flammable Solids
 
 |Category|                       Criteria                       |
 |--------|------------------------------------------------------|
@@ -2112,7 +2112,7 @@ B.9.2 Classification Criteria
 
 A pyrophoric liquid shall be classified in a single category for this class using test N.3 in Part III, sub-section 33.3.1.5 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.9.1:
 
-Table B.9.1 - Criteria for Pyrophoric Liquids
+Table B.9.1—Criteria for Pyrophoric Liquids
 
 |Category|                                                                         Criteria                                                                         |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2130,7 +2130,7 @@ B.10.2 Classification Criteria
 
 A pyrophoric solid shall be classified in a single category for this class using test N.2 in Part III, sub-section 33.3.1.4 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.10.1:
 
-Table B.10.1 - Criteria for Pyrophoric Solids
+Table B.10.1—Criteria for Pyrophoric Solids
 
 |Category|                           Criteria                            |
 |--------|---------------------------------------------------------------|
@@ -2156,7 +2156,7 @@ B.11.2 Classification Criteria
 
 B.11.2.1 A self-heating chemical shall be classified in one of the two categories for this class if, in tests performed in accordance with test method N.4 in Part III, sub-section 33.3.1.6 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), the result meets the criteria shown in Table B.11.1.
 
-Table B.11.1 - Criteria for Self-Heating Chemicals
+Table B.11.1—Criteria for Self-Heating Chemicals
 
 |Category|                                                                                    Criteria                                                                                     |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2188,7 +2188,7 @@ B.12.2 Classification Criteria
 
 B.12.2.1 A chemical which, in contact with water, emits flammable gases shall be classified in one of the three categories for this class, using test N.5 in Part III, sub-section 33.4.1.4 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.12.1:
 
-Table B.12.1 - Criteria for Chemicals Which, in Contact With Water, Emit Flammable Gases
+Table B.12.1—Criteria for Chemicals Which, in Contact With Water, Emit Flammable Gases
 
 |Category|                                                                                                                                                                         Criteria                                                                                                                                                                          |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2220,7 +2220,7 @@ B.13.2 Classification Criteria
 
 An oxidizing liquid shall be classified in one of the three categories for this class using test O.2 in Part III, sub-section 34.4.2 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.13.1:
 
-Table B.13.1 - Criteria for Oxidizing Liquids
+Table B.13.1—Criteria for Oxidizing Liquids
 
 |Category|                                                                                                                                               Criteria                                                                                                                                               |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2250,7 +2250,7 @@ B.14.2 Classification Criteria
 
 An oxidizing solid shall be classified in one of the three categories for this class using test O.1 in Part III, sub-section 34.4.1 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.14.1:
 
-Table B.14.1 - Criteria for Oxidizing Solids
+Table B.14.1—Criteria for Oxidizing Solids
 
 |Category|                                                                                                                                  Criteria                                                                                                                                   |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2342,7 +2342,7 @@ B.16.2 Classification Criteria
 
 A chemical which is corrosive to metals shall be classified in a single category for this class, using the test in Part III, sub-section 37.4 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.16.1:
 
-Table B.16.1 - Criteria for Chemicals Corrosive to Metal
+Table B.16.1—Criteria for Chemicals Corrosive to Metal
 
 |Category|                                                                       Criteria                                                                       |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2360,7 +2360,7 @@ The specimen to be used for the test shall be made of the following materials:
 
 (b) For the purposes of testing aluminium: Non-clad types 7075-T6 or AZ5GU-T6.
 
-Appendix C to § 1910.1200 - Allocation of Label Elements (Mandatory)
+Appendix C to § 1910.1200—Allocation of Label Elements (Mandatory)
 
 C.1 The label for each hazardous chemical shall include the product identifier used on the safety data sheet.
 
@@ -2414,11 +2414,11 @@ C.3.2 Where the chemical manufacturer, importer, or distributor chooses to add s
 
 C.3.3 Where an ingredient with unknown acute toxicity is used in a mixture at a concentration ≥1%, and the mixture is not classified based on testing of the mixture as a whole, a statement that X% of the mixture consists of ingredient(s) of unknown acute toxicity is required on the label.
 
-![](/graphics/er26mr12.071.gif)![](/graphics/er26mr12.072.gif)![](/graphics/er26mr12.073.gif)![](/graphics/er26mr12.074.gif)![](/graphics/er26mr12.075.gif)![](/graphics/er26mr12.076.gif)![](/graphics/er26mr12.077.gif)![](/graphics/er26mr12.078.gif)![](/graphics/er26mr12.079.gif)![](/graphics/er26mr12.080.gif)![](/graphics/er26mr12.081.gif)![](/graphics/er26mr12.082.gif)![](/graphics/er26mr12.083.gif)![](/graphics/er26mr12.084.gif)![](/graphics/er26mr12.085.gif)![](/graphics/er26mr12.086.gif)![](/graphics/er26mr12.087.gif)![](/graphics/er26mr12.088.gif)![](/graphics/er26mr12.089.gif)![](/graphics/er26mr12.090.gif)![](/graphics/er26mr12.091.gif)![](/graphics/er26mr12.092.gif)![](/graphics/er26mr12.093.gif)![](/graphics/er26mr12.094.gif)![](/graphics/er26mr12.095.gif)![](/graphics/er26mr12.096.gif)![](/graphics/er26mr12.097.gif)![](/graphics/er26mr12.098.gif)![](/graphics/er26mr12.099.gif)![](/graphics/er26mr12.100.gif)![](/graphics/er26mr12.101.gif)![](/graphics/er26mr12.102.gif)![](/graphics/er26mr12.103.gif)![](/graphics/er26mr12.104.gif)![](/graphics/er26mr12.105.gif)![](/graphics/er26mr12.106.gif)![](/graphics/er26mr12.107.gif)![](/graphics/er26mr12.108.gif)![](/graphics/er26mr12.109.gif)![](/graphics/er26mr12.110.gif)![](/graphics/er26mr12.111.gif)![](/graphics/er26mr12.112.gif)![](/graphics/er26mr12.113.gif)![](/graphics/er26mr12.114.gif)![](/graphics/er26mr12.115.gif)![](/graphics/er26mr12.116.gif)![](/graphics/er26mr12.117.gif)![](/graphics/er26mr12.118.gif)![](/graphics/er26mr12.119.gif)![](/graphics/er26mr12.120.gif)![](/graphics/er26mr12.121.gif)![](/graphics/er26mr12.122.gif)![](/graphics/er26mr12.123.gif)![](/graphics/er26mr12.124.gif)![](/graphics/er26mr12.125.gif)![](/graphics/er26mr12.126.gif)![](/graphics/er26mr12.127.gif)Appendix D to § 1910.1200 - Safety Data Sheets (Mandatory)
+![](/graphics/er26mr12.071.gif)![](/graphics/er26mr12.072.gif)![](/graphics/er26mr12.073.gif)![](/graphics/er26mr12.074.gif)![](/graphics/er26mr12.075.gif)![](/graphics/er26mr12.076.gif)![](/graphics/er26mr12.077.gif)![](/graphics/er26mr12.078.gif)![](/graphics/er26mr12.079.gif)![](/graphics/er26mr12.080.gif)![](/graphics/er26mr12.081.gif)![](/graphics/er26mr12.082.gif)![](/graphics/er26mr12.083.gif)![](/graphics/er26mr12.084.gif)![](/graphics/er26mr12.085.gif)![](/graphics/er26mr12.086.gif)![](/graphics/er26mr12.087.gif)![](/graphics/er26mr12.088.gif)![](/graphics/er26mr12.089.gif)![](/graphics/er26mr12.090.gif)![](/graphics/er26mr12.091.gif)![](/graphics/er26mr12.092.gif)![](/graphics/er26mr12.093.gif)![](/graphics/er26mr12.094.gif)![](/graphics/er26mr12.095.gif)![](/graphics/er26mr12.096.gif)![](/graphics/er26mr12.097.gif)![](/graphics/er26mr12.098.gif)![](/graphics/er26mr12.099.gif)![](/graphics/er26mr12.100.gif)![](/graphics/er26mr12.101.gif)![](/graphics/er26mr12.102.gif)![](/graphics/er26mr12.103.gif)![](/graphics/er26mr12.104.gif)![](/graphics/er26mr12.105.gif)![](/graphics/er26mr12.106.gif)![](/graphics/er26mr12.107.gif)![](/graphics/er26mr12.108.gif)![](/graphics/er26mr12.109.gif)![](/graphics/er26mr12.110.gif)![](/graphics/er26mr12.111.gif)![](/graphics/er26mr12.112.gif)![](/graphics/er26mr12.113.gif)![](/graphics/er26mr12.114.gif)![](/graphics/er26mr12.115.gif)![](/graphics/er26mr12.116.gif)![](/graphics/er26mr12.117.gif)![](/graphics/er26mr12.118.gif)![](/graphics/er26mr12.119.gif)![](/graphics/er26mr12.120.gif)![](/graphics/er26mr12.121.gif)![](/graphics/er26mr12.122.gif)![](/graphics/er26mr12.123.gif)![](/graphics/er26mr12.124.gif)![](/graphics/er26mr12.125.gif)![](/graphics/er26mr12.126.gif)![](/graphics/er26mr12.127.gif)Appendix D to § 1910.1200—Safety Data Sheets (Mandatory)
 
 A safety data sheet (SDS) shall include the information specified in Table D.1 under the section number and heading indicated for sections 1-11 and 16. If no relevant information is found for any given subheading within a section, the SDS shall clearly indicate that no applicable information is available. Sections 12-15 may be included in the SDS, but are not mandatory.
 
-Table D.1 - Minimum Information for an SDS
+Table D.1—Minimum Information for an SDS
 
 |                               Heading                               |                                                                                                                                                                                                                                                                                                                                                                                    Subheading                                                                                                                                                                                                                                                                                                                                                                                     |
 |---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2485,7 +2485,7 @@ Table D.1 - Minimum Information for an SDS
 |             15. Regulatory information (Non-mandatory)              |                                                                                                                                                                                                                                                                                                                                                Safety, health and environmental regulations specific for the product in question.                                                                                                                                                                                                                                                                                                                                                 |
 |16. Other information, including date of preparation or last revision|                                                                                                                                                                                                                                                                                                                                                           The date of preparation of the SDS or the last change to it.                                                                                                                                                                                                                                                                                                                                                            |
 
-Appendix E to § 1910.1200 - Definition of “Trade Secret” (Mandatory)
+Appendix E to § 1910.1200—Definition of “Trade Secret” (Mandatory)
 
 The following is a reprint of the *Restatement of Torts* section 757, comment *b* (1939):
 
@@ -2495,7 +2495,7 @@ The following is a reprint of the *Restatement of Torts* section 757, comment *b
 
 *Novelty and prior art.* A trade secret may be a device or process which is patentable; but it need not be that. It may be a device or process which is clearly anticipated in the prior art or one which is merely a mechanical improvement that a good mechanic can make. Novelty and invention are not requisite for a trade secret as they are for patentability. These requirements are essential to patentability because a patent protects against unlicensed use of the patented device or process even by one who discovers it properly through independent research. The patent monopoly is a reward to the inventor. But such is not the case with a trade secret. Its protection is not based on a policy of rewarding or otherwise encouraging the development of secret processes or devices. The protection is merely against breach of faith and reprehensible means of learning another's secret. For this limited protection it is not appropriate to require also the kind of novelty and invention which is a requisite of patentability. The nature of the secret is, however, an important factor in determining the kind of relief that is appropriate against one who is subject to liability under the rule stated in this Section. Thus, if the secret consists of a device or process which is a novel invention, one who acquires the secret wrongfully is ordinarily enjoined from further use of it and is required to account for the profits derived from his past use. If, on the other hand, the secret consists of mechanical improvements that a good mechanic can make without resort to the secret, the wrongdoer's liability may be limited to damages, and an injunction against future use of the improvements made with the aid of the secret may be inappropriate.
 
-Appendix F to § 1910.1200 - Guidance for Hazard Classifications Re: Carcinogenicity (Non-Mandatory)
+Appendix F to § 1910.1200—Guidance for Hazard Classifications Re: Carcinogenicity (Non-Mandatory)
 
 The mandatory criteria for classification of a chemical for carcinogenicity under HCS (§ 1910.1200) are found in Appendix A.6 to this section. This non-mandatory Appendix provides additional guidance on hazard classification for carcinogenicity. Part A of Appendix F includes background guidance provided by GHS based on the Preamble of the International Agency for Research on Cancer (IARC) “Monographs on the Evaluation of Carcinogenic Risks to Humans” (2006). Part B provides IARC classification information. Part C provides background guidance from the National Toxicology Program (NTP) “Report on Carcinogens” (RoC), and Part D is a table that compares GHS carcinogen hazard categories to carcinogen classifications under IARC and NTP, allowing classifiers to be able to use information from IARC and NTP RoC carcinogen classifications to complete their classifications under the GHS, and thus the HCS.
 
@@ -2577,9 +2577,9 @@ Group 2B: The agent is *possibly carcinogenic to humans.*
 
 This category is used for agents for which there is *limited evidence of carcinogenicity* in humans and less than *sufficient evidence of carcinogenicity* in experimental animals. It may also be used when there is *inadequate evidence of carcinogenicity* in humans but there is *sufficient evidence of carcinogenicity* in experimental animals. In some instances, an agent for which there is *inadequate evidence of carcinogenicity* in humans and less than *sufficient evidence of carcinogenicity* in experimental animals together with supporting evidence from mechanistic and other relevant data may be placed in this group. An agent may be classified in this category solely on the basis of strong evidence from mechanistic and other relevant data.
 
-Part C: National Toxicology Program (NTP), “Report on Carcinogens”, Background GuidanceNTP Listing Criteria4:
+Part C: National Toxicology Program (NTP), “Report on Carcinogens”, Background GuidanceNTP Listing Criteria4
 
-4*See: http://ntp.niehs.nih.gov/go/15209.*
+4*See:**http://ntp.niehs.nih.gov/go/15209.*
 
 The criteria for listing an agent, substance, mixture, or exposure circumstance in the Report on Carcinogens (RoC) are as follows:
 

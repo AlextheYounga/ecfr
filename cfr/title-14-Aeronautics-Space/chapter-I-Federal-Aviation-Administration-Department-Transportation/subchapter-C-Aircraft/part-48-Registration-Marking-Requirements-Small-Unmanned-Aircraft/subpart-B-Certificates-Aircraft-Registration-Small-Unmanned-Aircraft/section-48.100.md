@@ -1,5 +1,7 @@
 ##### § 48.100 Application. #####
 
+Link to an amendment published at 86 FR 4504, Jan. 15, 2021.
+
 (a) *Required information: Persons intending to use the small unmanned aircraft as other than a model aircraft.* Each applicant for a Certificate of Aircraft Registration issued under this part must submit all of the following information to the Registry:
 
 (1) Applicant name and, for an applicant other than an individual, the name of the authorized representative applying for a Certificate of Aircraft Registration.

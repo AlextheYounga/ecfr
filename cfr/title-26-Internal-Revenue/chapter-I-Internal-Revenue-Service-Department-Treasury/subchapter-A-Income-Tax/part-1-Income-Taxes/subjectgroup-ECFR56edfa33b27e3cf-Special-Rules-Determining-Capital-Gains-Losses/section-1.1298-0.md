@@ -1,6 +1,6 @@
-##### § 1.1298-0 Passive foreign investment company - table of contents. #####
+##### § 1.1298-0 Passive foreign investment company—table of contents. #####
 
-This section contains a listing of the paragraph headings for §§ 1.1298-1 and 1.1298-3.
+This section contains a listing of the paragraph headings for §§ 1.1298-1, 1.1298-2, 1.1298-3, and 1.1298-4.
 
 § 1.1298-1 Section 1298(f) annual reporting requirements for United States persons that are shareholders of a passive foreign investment company.
 
@@ -70,6 +70,34 @@ This section contains a listing of the paragraph headings for §§ 1.1298-1 and 
 
 (h) Applicability date.
 
+§ 1.1298-2 Rules for certain corporations changing businesses.
+
+(a) Overview.
+
+(b) Change of business exception.
+
+(c) Special rules.
+
+(d) Disposition of stock in a look-through subsidiary or partnership interests in a look-through partnership.
+
+(e) Application of change of business exception.
+
+(f) Examples.
+
+(1) Example 1.
+
+(i) Facts.
+
+(ii) Results.
+
+(2) Example 2.
+
+(i) Facts.
+
+(ii) Results.
+
+(g) Applicability date.
+
 § 1.1298-3 Deemed sale or deemed dividend election by a U.S. person that is a shareholder of a former PFIC.
 
 (a) In general.
@@ -122,4 +150,36 @@ This section contains a listing of the paragraph headings for §§ 1.1298-1 and 
 
 (f) Effective/applicability date.
 
-[T.D. 9360, 72 FR 54824, Sept. 27, 2007, as amended by T.D. 9806, 81 FR 95466, Dec. 28, 2016]
+§ 1.1298-4 Rules for certain foreign corporations owning stock in 25-percent-owned domestic corporations.
+
+(a) Overview.
+
+(b) Treatment of certain foreign corporations owning stock in a 25-percent-owned domestic corporation.
+
+(1) General rule.
+
+(2) Qualified stock and second-tier domestic corporation.
+
+(c) Indirect ownership of stock through a partnership.
+
+(d) Section 531 tax.
+
+(1) Subject to section 531 tax.
+
+(2) Waiver of treaty benefits.
+
+(i) Tested foreign corporation that files, or is required to file, a Federal income tax return.
+
+(ii) Tested foreign corporation that is not required to file a Federal income tax return.
+
+(e) Anti-abuse rule.
+
+(1) General rule.
+
+(2) [Reserved]
+
+(3) [Reserved]
+
+(f) Applicability date.
+
+[T.D. 9360, 72 FR 54824, Sept. 27, 2007, as amended by T.D. 9806, 81 FR 95466, Dec. 28, 2016; T.D. 9936, 86 FR 4576, Jan. 15, 2021]

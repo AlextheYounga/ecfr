@@ -1,8 +1,8 @@
-##### § 609.5 Programmatic, technical and financial evaluation of applications. #####
+##### § 609.5 Programmatic, technical, and financial evaluation of applications. #####
 
-(a) In reviewing completed Applications, and in prioritizing and selecting those as to which a Term Sheet should be offered, DOE will apply the criteria set forth in the Act, any applicable Solicitation, and this part. Applications will be considered in a competitive process, *i.e.* each Application will be evaluated against other Applications responsive to the Solicitation. Applications will be denied if:
+(a) In reviewing completed Applications, and in prioritizing and selecting those as to which a Term Sheet should be offered, DOE will apply the criteria set forth in the Act, any applicable Solicitation, and this part. Applications will be considered in a competitive process, *i.e.* each Application will be evaluated against other Applications responsive to the Solicitation. At any time, DOE may request additional information or supporting documentation from an Applicant. Applications will be denied if:
 
-(1) The proposed project is not an Eligible Project;
+(1) The proposed project is not an Eligible Project, however, DOE may provide an Applicant with a reasonable opportunity to correct or amend any Application in order to meet the conditions for an Eligible Project;
 
 (2) The applicable technology is not ready to be deployed commercially in the United States, cannot yield a commercially viable product or service in the use proposed in the Application, does not have the potential to be deployed in other commercial projects in the United States, or is not or will not be available for further commercial use in the United States;
 
@@ -14,15 +14,15 @@
 
 (6) The proposed project does not present a reasonable prospect of repayment of the Guaranteed Obligations.
 
-(b) If an Application has not been denied pursuant to § 609.5(a), DOE will evaluate the proposed Project based on the criteria set forth in the Act, any applicable Solicitation and the following:
+(b) If an Application has not been denied pursuant to paragraph (a) of this section, DOE will evaluate the proposed project based on the criteria set forth in the Act, any applicable Solicitation, and the following:
 
-(1) To what measurable extent the proposed project avoids, reduces, or sequesters air pollutants or anthropogenic emissions of greenhouses gases, or contributes to the avoidance, reduction or sequestration of air pollutants or anthropogenic emissions of greenhouse gases;
+(1) To what measurable extent the proposed project avoids, reduces, or sequesters air pollutants or anthropogenic emissions of greenhouses gases, as applicable, or contributes to the avoidance, reduction or sequestration of air pollutants or anthropogenic emissions of greenhouse gases;
 
-(2) To what extent the technology to be deployed in the proposed project -
+(2) To what extent the technology to be deployed in the proposed project—
 
 (i) Is ready to be deployed commercially in the United States, can be replicated, yields a commercially viable product or service in the use proposed in the proposed project, has potential to be deployed in other commercial projects in the United States, and is or will be available for further commercial use in the United States; and
 
-(ii) Constitutes an important improvement in technology, as compared to available Commercial Technologies, used to avoid, reduce or sequester air pollutants or anthropogenic emissions of greenhouse gases;
+(ii) Constitutes an important improvement in technology, as compared to available Commercial Technologies, used to avoid, reduce or sequester air pollutants or anthropogenic emissions of greenhouse gases, as applicable;
 
 (3) To what extent the Applicant has a plan to advance or assist in the advancement of that technology into the commercial marketplace in the United States;
 
@@ -54,6 +54,6 @@
 
 (14) Such other criteria that DOE deems relevant in evaluating the merits of an Application.
 
-(c) After DOE completes its review and evaluation of a proposed project pursuant to § 609.5(b) and this part, DOE will notify the Applicant in writing of its determination whether to proceed with due diligence and negotiation of a Term Sheet in accordance with § 609.6. DOE will proceed only if it determines that the proposed project is highly qualified and suitable for a Guarantee. Upon written confirmation from the Applicant that it desires to proceed, DOE and the Applicant will commence negotiations.
+(c) After DOE completes its review and evaluation of a proposed project pursuant to paragraph (b) of this section and this part, DOE will notify the Applicant in writing of its determination whether to proceed with due diligence and negotiation of a Term Sheet in accordance with § 609.6. DOE will proceed only if it determines that the proposed project is highly qualified and suitable for a Guarantee. Upon written confirmation from the Applicant that it desires to proceed, DOE and the Applicant will commence negotiations.
 
-(d) A determination by DOE not to proceed with a proposed project following evaluation pursuant to § 609.5(b) shall be final and non-appealable, but shall not prejudice the Applicant or other affected Persons from applying for a Guarantee in respect of a different proposed project pursuant to another, separate Application.
+(d) DOE shall provide all Applicants with a reasonable opportunity to correct or amend any Application in order to meet the criteria set forth in this part or any other conditions required by DOE, prior to any denial of such Application. A determination by DOE not to proceed with a proposed project following evaluation pursuant to paragraph (b) of this section shall be final and non-appealable, but shall not prejudice the Applicant or other affected Persons from applying for a Guarantee in respect of a different proposed project pursuant to another, separate Application. Prior to DOE's denial of any Application, DOE shall advise the Applicant in writing, not less than ten (10) business days prior to the effective date of such denial, and set forth the reasons for such proposed denial along with a list of items that may be corrected or amended by the Applicant in order to satisfy the requirements that would create an Eligible Application, if such items can be corrected or appropriately amended. If requested by any Applicant, DOE shall meet with such Applicant in order to address questions or concerns raised by the Applicant.

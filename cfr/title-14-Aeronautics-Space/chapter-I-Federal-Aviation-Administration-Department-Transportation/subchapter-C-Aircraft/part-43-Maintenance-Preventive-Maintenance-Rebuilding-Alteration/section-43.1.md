@@ -1,5 +1,7 @@
 ##### § 43.1 Applicability. #####
 
+Link to an amendment published at 86 FR 4381, Jan. 15, 2021.
+
 (a) Except as provided in paragraphs (b) and (d) of this section, this part prescribes rules governing the maintenance, preventive maintenance, rebuilding, and alteration of any -
 
 (1) Aircraft having a U.S. airworthiness certificate;

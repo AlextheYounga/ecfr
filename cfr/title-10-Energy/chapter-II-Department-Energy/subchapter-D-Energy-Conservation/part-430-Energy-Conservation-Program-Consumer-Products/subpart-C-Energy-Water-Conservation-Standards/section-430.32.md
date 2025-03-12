@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 85 FR 81375, Dec. 16, 2020.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -220,7 +218,7 @@ av = Total adjusted volume, expressed in Liters.
 
 \* Vr is the Rated Storage Volume (in gallons), as determined pursuant to 10 CFR 429.17.
 
-(e) *Furnaces and boilers.* (1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015:
+(e) *Furnaces and boilers* - (1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015:
 
 |                                                            Product class                                                             |AFUE  <br/>(percent)<sup>1</sup>|
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
@@ -345,14 +343,16 @@ av = Total adjusted volume, expressed in Liters.
 |iii. Front-loading, Compact (less than 1.6 ft<sup>3</sup> capacity) |                           1.13                           |                         8.3                          |
 |iv. Front-loading, Standard (1.6 ft<sup>3</sup> or greater capacity)|                           1.84                           |                         4.7                          |
 
-(4) Clothes washers manufactured on or after January 1, 2018 shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
+(4)(i) Except as provided in paragraph (g)(4)(ii) of this section, clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
 
-|                           Product class                            |Integrated modified energy factor  <br/>(cu.ft./kWh/cycle)|Integrated water  <br/>factor  <br/>(gal/cycle/cu.ft.)|
-|--------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------|
-|  i. Top-loading, Compact (less than 1.6 ft<sup>3</sup> capacity)   |                           1.15                           |                         12.0                         |
-| ii. Top-loading, Standard (1.6 ft<sup>3</sup> or greater capacity) |                           1.57                           |                         6.5                          |
-|iii. Front-loading, Compact (less than 1.6 ft<sup>3</sup> capacity) |                           1.13                           |                         8.3                          |
-|iv. Front-loading, Standard (1.6 ft<sup>3</sup> or greater capacity)|                           1.84                           |                         4.7                          |
+|                      Product class                      |Integrated  <br/>modified  <br/>energy factor  <br/>(cu.ft./kWh/cycle)|Integrated water  <br/>factor  <br/>(gal/cycle/cu.ft.)|
+|---------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------|
+|  (A) Top-loading, Compact (less than 1.6 ft3 capacity)  |                                 1.15                                 |                         12.0                         |
+| (B) Top-loading, Standard (1.6 ft3 or greater capacity) |                                 1.57                                 |                         6.5                          |
+| (C) Front-loading, Compact (less than 1.6 ft3 capacity) |                                 1.13                                 |                         8.3                          |
+|(D) Front-loading, Standard (1.6 ft3 or greater capacity)|                                 1.84                                 |                         4.7                          |
+
+(ii) Top-loading, standard clothes washers with an average cycle time of less than 30 minutes and front-loading, standard clothes washers with an average cycle time of less than 45 minutes are not currently subject to energy or water conservation standards.
 
 (h) *Clothes dryers.* (1) Gas clothes dryers manufactured after January 1, 1988 shall not be equipped with a constant burning pilot.
 
@@ -365,16 +365,18 @@ av = Total adjusted volume, expressed in Liters.
 |iii. Electric, Compact (240V) (less than 4.4 ft<sup>3</sup> capacity)|               2.90                |
 |                               iv. Gas                               |               2.67                |
 
-(3) Clothes dryers manufactured on or after January 1, 2015, shall have a combined energy factor no less than:
+(3)(i) Except as provided in paragraph (h)(3)(ii) of this section, clothes dryers manufactured on or after January 1, 2015, shall have a combined energy factor no less than:
 
-|                               Product class                                |Combined energy  <br/>factor  <br/>(lbs/kWh)|
-|----------------------------------------------------------------------------|--------------------------------------------|
-|   i. Vented Electric, Standard (4.4 ft<sup>3</sup> or greater capacity)    |                    3.73                    |
-|ii. Vented Electric, Compact (120V) (less than 4.4 ft<sup>3</sup> capacity) |                    3.61                    |
-|iii. Vented Electric, Compact (240V) (less than 4.4 ft<sup>3</sup> capacity)|                    3.27                    |
-|                               iv. Vented Gas                               |                    3.30                    |
-|v. Ventless Electric, Compact (240V) (less than 4.4 ft<sup>3</sup> capacity)|                    2.55                    |
-|              vi. Ventless Electric, Combination Washer-Dryer               |                    2.08                    |
+|                          Product class                           |Combined  <br/>energy factor  <br/>(lbs/kWh)|
+|------------------------------------------------------------------|--------------------------------------------|
+|   (A) Vented Electric, Standard (4.4 ft3 or greater capacity)    |                    3.73                    |
+| (B) Vented Electric, Compact (120V) (less than 4.4 ft3 capacity) |                    3.61                    |
+| (C) Vented Electric, Compact (240V) (less than 4.4 ft3 capacity) |                    3.27                    |
+|                          (D) Vented Gas                          |                    3.30                    |
+|(E) Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)|                    2.55                    |
+|         (F) Ventless Electric, Combination Washer-Dryer          |                    2.08                    |
+
+(ii) Vented, electric standard clothes dryers and vented gas clothes dryers with a cycle time of less than 30 minutes are not currently subject to energy conservation standards.
 
 (i) *Direct heating equipment.* (1) Vented home heating equipment manufactured on or after January 1, 1990 and before April 16, 2013, shall have an annual fuel utilization efficiency no less than:
 

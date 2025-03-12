@@ -1,5 +1,7 @@
 ##### § 1206.453 How will ONRR determine if my royalty payments are correct? #####
 
+Link to an amendment published at 86 FR 4658, Jan. 15, 2021.
+
 (a)(1) ONRR may monitor, review, and audit the royalties that you report. If ONRR determines that your reported value is inconsistent with the requirements of this subpart, ONRR will direct you to use a different measure of royalty value, or decide your value, under § 1206.454.
 
 (2) If ONRR directs you to use a different royalty value, you must either pay any underpaid royalties plus late payment interest calculated under § 1218.202 of this chapter or report a credit for, or request a refund of, any overpaid royalties.

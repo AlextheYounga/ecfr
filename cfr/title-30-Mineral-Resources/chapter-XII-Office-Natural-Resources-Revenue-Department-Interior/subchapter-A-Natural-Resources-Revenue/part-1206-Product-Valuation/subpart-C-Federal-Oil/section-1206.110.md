@@ -1,5 +1,7 @@
 ##### § 1206.110 What general transportation allowance requirements apply to me? #####
 
+Link to an amendment published at 86 FR 4654, Jan. 15, 2021.
+
 (a) ONRR will allow a deduction for the reasonable, actual costs to transport oil from the lease to the point off of the lease under § 1206.110, § 1206.111, or § 1206.112, as applicable. You may not deduct transportation costs that you incur to move a particular volume of production to reduce royalties that you owe on production for which you did not incur those costs. This paragraph applies when:
 
 (1)(i) The movement to the sales point is not gathering;

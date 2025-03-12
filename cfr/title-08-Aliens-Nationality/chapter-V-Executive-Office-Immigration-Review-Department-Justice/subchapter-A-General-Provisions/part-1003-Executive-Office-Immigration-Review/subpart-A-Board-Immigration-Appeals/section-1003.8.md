@@ -1,8 +1,8 @@
 ##### § 1003.8 Fees before the Board. #####
 
-Link to an amendment published at 85 FR 81750, Dec. 16, 2020.Link to an amendment published at 85 FR 82793, Dec. 18, 2020.
+Link to an amendment published at 85 FR 82793, Dec. 18, 2020.
 
-(a) *Appeals and motions before the Board - (1) When a fee is required.* Except as provided in paragraph (a)(2) of this section, a filing fee prescribed in 8 CFR 1103.7, or a fee waiver request pursuant to paragraph (a)(3) of this section, is required in connection with the filing of an appeal, a motion to reopen, or a motion to reconsider before the Board.
+(a) *Appeals and motions before the Board* - (1) *When a fee is required.* Except as provided in paragraph (a)(2) of this section and 8 CFR 1208.4(d)(3), a filing fee prescribed in 8 CFR 1103.7, or a fee waiver request pursuant to paragraph (a)(3) of this section, is required in connection with the filing of an appeal, a motion to reopen, or a motion to reconsider before the Board.
 
 (2) *When a fee is not required.* A filing fee is not required in the following instances:
 
@@ -32,4 +32,4 @@ Link to an amendment published at 85 FR 81750, Dec. 16, 2020.Link to an amendmen
 
 (b) *Applications for relief.* Fees for applications for relief are not collected by the Board, but instead are paid to the Department of Homeland Security in accordance with 8 CFR 103.7. When a motion before the Board is based upon an application for relief, only the fee for the motion to reopen shall be paid to the Board, and payment of the fee for the application for relief shall not accompany the motion. If the motion is granted and proceedings are remanded to the immigration judge, the application fee shall be paid in the manner specified in 8 CFR 1003.24(c)(1).
 
-[69 FR 44906, July 28, 2004]
+[69 FR 44906, July 28, 2004, as amended at 85 FR 81750, Dec. 16, 2020]

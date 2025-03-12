@@ -1,5 +1,7 @@
 ##### § 1241.70 How does ONRR decide the amount of the penalty to assess? #####
 
+Link to an amendment published at 86 FR 4659, Jan. 15, 2021.
+
 (a) ONRR will determine the amount of the penalty to assess by considering:
 
 (1) The severity of the violation.

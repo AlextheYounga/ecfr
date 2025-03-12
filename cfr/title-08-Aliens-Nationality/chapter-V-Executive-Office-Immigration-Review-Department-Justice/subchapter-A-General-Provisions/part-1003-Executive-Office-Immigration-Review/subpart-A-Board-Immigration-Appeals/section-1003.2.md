@@ -1,10 +1,8 @@
 ##### § 1003.2 Reopening or reconsideration before the Board of Immigration Appeals. #####
 
-Link to an amendment published at 85 FR 81654, Dec. 16, 2020.
+(a) *General.* The Board may at any time reopen or reconsider a case in which it has rendered a decision on its own motion solely in order to correct a ministerial mistake or typographical error in that decision or to reissue the decision to correct a defect in service. In all other cases, the Board may only reopen or reconsider any case in which it has rendered a decision solely pursuant to a motion filed by one or both parties. A request to reopen or reconsider any case in which a decision has been made by the Board, which request is made by the Service, or by the party affected by the decision, must be in the form of a written motion to the Board. The decision to grant or deny a motion to reopen or reconsider is within the discretion of the Board, subject to the restrictions of this section. The Board has discretion to deny a motion to reopen even if the party moving has made out a *prima facie* case for relief.
 
-(a) *General.* The Board may at any time reopen or reconsider on its own motion any case in which it has rendered a decision. A request to reopen or reconsider any case in which a decision has been made by the Board, which request is made by the Service, or by the party affected by the decision, must be in the form of a written motion to the Board. The decision to grant or deny a motion to reopen or reconsider is within the discretion of the Board, subject to the restrictions of this section. The Board has discretion to deny a motion to reopen even if the party moving has made out a *prima facie* case for relief.
-
-(b) *Motion to reconsider.* (1) A motion to reconsider shall state the reasons for the motion by specifying the errors of fact or law in the prior Board decision and shall be supported by pertinent authority. A motion to reconsider a decision rendered by an Immigration Judge or Service officer that is pending when an appeal is filed with the Board, or that is filed subsequent to the filing with the Board of an appeal from the decision sought to be reconsidered, may be deemed a motion to remand the decision for further proceedings before the Immigration Judge or the Service officer from whose decision the appeal was taken. Such motion may be consolidated with, and considered by the Board in connection with the appeal to the Board.
+(b) *Motion to reconsider.* (1) A motion to reconsider shall state the reasons for the motion by specifying the errors of fact or law in the prior Board decision and shall be supported by pertinent authority.
 
 (2) A motion to reconsider a decision must be filed with the Board within 30 days after the mailing of the Board decision or on or before July 31, 1996, whichever is later. A party may file only one motion to reconsider any given decision and may not seek reconsideration of a decision denying a previous motion to reconsider. In removal proceedings pursuant to section 240 of the Act, an alien may file only one motion to reconsider a decision that the alien is removable from the United States.
 
@@ -20,11 +18,19 @@ Link to an amendment published at 85 FR 81654, Dec. 16, 2020.
 
 (ii) To apply or reapply for asylum or withholding of deportation based on changed circumstances arising in the country of nationality or in the country to which deportation has been ordered, if such evidence is material and was not available and could not have been discovered or presented at the previous hearing;
 
-(iii) Agreed upon by all parties and jointly filed. Notwithstanding such agreement, the parties may contest the issues in a reopened proceeding; or
+(iii) Agreed upon by all parties and jointly filed. Notwithstanding such agreement, the parties may contest the issues in a reopened proceeding;
 
-(iv) Filed by the Service in exclusion or deportation proceedings when the basis of the motion is fraud in the original proceeding or a crime that would support termination of asylum in accordance with § 1208.22(f) of this chapter.
+(iv) Filed by the Service in exclusion or deportation proceedings when the basis of the motion is fraud in the original proceeding or a crime that would support termination of asylum in accordance with § 1208.22(f) of this chapter;
 
-(4) A motion to reopen a decision rendered by an Immigration Judge or Service officer that is pending when an appeal is filed, or that is filed while an appeal is pending before the Board, may be deemed a motion to remand for further proceedings before the Immigration Judge or the Service officer from whose decision the appeal was taken. Such motion may be consolidated with, and considered by the Board in connection with, the appeal to the Board.
+(v) For which a three-member panel of the Board agrees that reopening is warranted when the following circumstances are present, provided that a respondent may file only one motion to reopen pursuant to this paragraph (c)(3):
+
+(A) A material change in fact or law underlying a removability ground or grounds specified in section 212 or 237 of the Act that occurred after the entry of an administratively final order that vitiates all grounds of removability applicable to the alien; and
+
+(B) The movant exercised diligence in pursuing the motion to reopen;
+
+(vi) Filed based on specific allegations, supported by evidence, that the respondent is a United States citizen or national; or
+
+(vii) Filed by DHS in removal proceedings pursuant to section 240 of the Act or in proceedings initiated pursuant to § 1208.2(c) of this chapter.
 
 (d) *Departure, deportation, or removal.* A motion to reopen or a motion to reconsider shall not be made by or on behalf of a person who is the subject of exclusion, deportation, or removal proceedings subsequent to his or her departure from the United States. Any departure from the United States, including the deportation or removal of a person who is the subject of exclusion, deportation, or removal proceedings, occurring after the filing of a motion to reopen or a motion to reconsider, shall constitute a withdrawal of such motion.
 
@@ -46,4 +52,4 @@ Link to an amendment published at 85 FR 81654, Dec. 16, 2020.
 
 (i) *Ruling on motion.* Rulings upon motions to reopen or motions to reconsider shall be by written order. Any motion for reconsideration or reopening of a decision issued by a single Board member will be referred to the screening panel for disposition by a single Board member, unless the screening panel member determines, in the exercise of judgment, that the motion for reconsideration or reopening should be assigned to a three-member panel under the standards of § 1003.1(e)(6). If the order directs a reopening and further proceedings are necessary, the record shall be returned to the Immigration Court or the officer of the Service having administrative control over the place where the reopened proceedings are to be conducted. If the motion to reconsider is granted, the decision upon such reconsideration shall affirm, modify, or reverse the original decision made in the case.
 
-[61 FR 18904, Apr. 29, 1996; 61 FR 32924, June 26, 1996, as amended at 62 FR 10330, Mar. 6, 1997; 64 FR 56142, Oct. 18, 1999; 67 FR 54904, Aug. 26, 2002]
+[61 FR 18904, Apr. 29, 1996; 61 FR 32924, June 26, 1996, as amended at 62 FR 10330, Mar. 6, 1997; 64 FR 56142, Oct. 18, 1999; 67 FR 54904, Aug. 26, 2002; 85 FR 81654, Dec. 16, 2020]

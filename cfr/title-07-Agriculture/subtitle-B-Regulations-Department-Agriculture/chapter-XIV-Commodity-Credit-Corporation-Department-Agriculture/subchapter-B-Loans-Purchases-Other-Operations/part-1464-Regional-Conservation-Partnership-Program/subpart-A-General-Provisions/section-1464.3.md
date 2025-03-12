@@ -2,7 +2,7 @@
 
 The following definitions will apply to this part and all documents issued in accordance with this part, unless specified otherwise:
 
-*Agricultural operation* means a parcel or parcels of land whether contiguous or noncontiguous, that is -
+*Agricultural operation* means a parcel or parcels of land whether contiguous or noncontiguous, that is—
 
 (1) Under the effective control of the producer at the time the producer applies for a program contract; and
 
@@ -20,7 +20,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 *Conservation benefits* means the improvements in the status of resource concerns, priority resource concerns, and similar project goals resulting from the implementation of eligible activities in an RCPP project area.
 
-*Covered program* means the -
+*Covered program* means the—
 
 (1) Agricultural Conservation Easement Program administered under 7 CFR part 1468;
 
@@ -52,7 +52,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 *Lead partner* means an eligible partner who is the primary signatory of a partnership agreement with NRCS and is identified as the lead partner in that agreement.
 
-*Legal entity* means, as defined in part 1400 of this chapter, an entity created under Federal or State law that -
+*Legal entity* means, as defined in part 1400 of this chapter, an entity created under Federal or State law that—
 
 (1) Owns land or an agricultural commodity, product, or livestock; or
 
@@ -84,9 +84,9 @@ The following definitions will apply to this part and all documents issued in ac
 
 *Priority resource concern* means a natural resource concern located in a CCA that can be addressed through:
 
-(1) Water quality improvement, including through reducing erosion, promoting sediment control, and addressing nutrient management activities affecting large bodies of water of regional, national, or international significance;
+(1) Water quality improvement, including source water protection, through measures such as reducing erosion, promoting sediment control, or addressing nutrient management activities affecting large bodies of water of regional, national, or international significance;
 
-(2) Water quantity improvement, including improvement relating to:
+(2) Water quantity improvement, including protection or improvement relating to:
 
 (i) Drought;
 
@@ -129,3 +129,5 @@ The following definitions will apply to this part and all documents issued in ac
 (2) Selected by USDA to assist in program implementation through a supplemental agreement or otherwise through a procurement contract, contribution agreement, or cooperative agreement with USDA.
 
 *Veteran farmer or rancher* means a producer who meets the definition in section 2501(a)(7) of the Food, Agriculture, Conservation, and Trade Act of 1990, as amended (7 U.S.C. 2279(a)(7)).
+
+[85 FR 8137, Feb. 13, 2020, as amended at 86 FR 3744, Jan. 15, 2021]

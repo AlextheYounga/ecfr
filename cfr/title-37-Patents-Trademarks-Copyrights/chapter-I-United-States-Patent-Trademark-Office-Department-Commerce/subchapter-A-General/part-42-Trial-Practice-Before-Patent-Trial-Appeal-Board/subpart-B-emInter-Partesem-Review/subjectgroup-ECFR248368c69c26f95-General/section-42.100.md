@@ -1,5 +1,4 @@
-##### § 42.100 Procedure; pendency.
-. #####
+##### § 42.100 Procedure; pendency. #####
 
 (a) An *inter partes* review is a trial subject to the procedures set forth in subpart A of this part.
 

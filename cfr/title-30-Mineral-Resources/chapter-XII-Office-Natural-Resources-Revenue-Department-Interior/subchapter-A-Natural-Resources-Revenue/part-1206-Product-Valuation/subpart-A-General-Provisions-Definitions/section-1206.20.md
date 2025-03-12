@@ -1,5 +1,7 @@
 ##### § 1206.20 What definitions apply to this part? #####
 
+Link to an amendment published at 86 FR 4652, Jan. 15, 2021.
+
 *Ad valorem lease* means a lease where the royalty due to the lessor is based upon a percentage of the amount or value of the coal.
 
 *Affiliate* means a person who controls, is controlled by, or is under common control with another person. For the purposes of this subpart:

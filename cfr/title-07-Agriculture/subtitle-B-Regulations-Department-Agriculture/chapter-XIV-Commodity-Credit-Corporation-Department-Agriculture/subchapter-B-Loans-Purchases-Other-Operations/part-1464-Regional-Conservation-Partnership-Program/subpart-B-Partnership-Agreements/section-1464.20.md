@@ -8,9 +8,9 @@
 
 (b) A partnership agreement proposal submitted by the eligible partner must include the following:
 
-(1) The scope of the proposed project;
+(1) The scope of the proposed project, including one or more conservation benefits that the project must achieve;
 
-(2) A plan for monitoring, evaluating, and reporting on progress made toward achieving the project's objectives;
+(2) A plan for monitoring, evaluating, and reporting on progress made toward achieving the project's conservation objectives;
 
 (3) The estimated RCPP funding and other program resources requested for the project including any advance technical assistance for outreach in the project area;
 
@@ -19,3 +19,5 @@
 (5) Each eligible partner collaborating to achieve project objectives, including their roles, responsibilities, capabilities, and contribution; and
 
 (6) Other information NRCS may identify as necessary to evaluate and select proposals.
+
+[85 FR 8137, Feb. 13, 2020, as amended at 86 FR 3744, Jan. 15, 2021]

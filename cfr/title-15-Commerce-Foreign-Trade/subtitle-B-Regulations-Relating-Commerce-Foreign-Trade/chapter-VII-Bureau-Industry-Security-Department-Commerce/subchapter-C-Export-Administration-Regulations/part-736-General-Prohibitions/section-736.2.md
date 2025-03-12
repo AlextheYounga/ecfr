@@ -1,5 +1,7 @@
 ##### § 736.2 General prohibitions and determination of applicability. #####
 
+Link to an amendment published at 86 FR 4870, Jan. 15, 2021.
+
 (a) *Information or facts that determine the applicability of the general prohibitions.* The following five types of facts determine your obligations under the ten general prohibitions and the EAR generally:
 
 (1) *Classification of the item.* The classification of the item on the Commerce Control List (see part 774 of the EAR);

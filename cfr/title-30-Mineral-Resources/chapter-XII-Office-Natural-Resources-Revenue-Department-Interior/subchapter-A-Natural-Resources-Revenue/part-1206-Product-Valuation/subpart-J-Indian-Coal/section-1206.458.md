@@ -1,5 +1,7 @@
 ##### § 1206.458 How do I request a valuation determination? #####
 
+Link to an amendment published at 86 FR 4658, Jan. 15, 2021.
+
 (a) You may request a valuation determination from ONRR regarding any coal produced. Your request must:
 
 (1) Be in writing;

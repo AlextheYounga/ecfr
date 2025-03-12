@@ -1,5 +1,7 @@
 ##### § 107.49 Preflight familiarization, inspection, and actions for aircraft operation. #####
 
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+
 Prior to flight, the remote pilot in command must:
 
 (a) Assess the operating environment, considering risks to persons and property in the immediate vicinity both on the surface and in the air. This assessment must include:

@@ -1,5 +1,7 @@
 ##### § 107.1 Applicability. #####
 
+Link to an amendment published at 86 FR 4381, Jan. 15, 2021.
+
 (a) Except as provided in paragraph (b) of this section, this part applies to the registration, airman certification, and operation of civil small unmanned aircraft systems within the United States.
 
 (b) This part does not apply to the following:

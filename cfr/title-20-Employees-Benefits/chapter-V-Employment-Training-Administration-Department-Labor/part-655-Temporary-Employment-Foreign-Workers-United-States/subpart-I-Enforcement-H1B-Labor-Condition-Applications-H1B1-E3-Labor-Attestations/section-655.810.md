@@ -1,12 +1,10 @@
 ##### § 655.810 What remedies may be ordered if violations are found? #####
 
-Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
-
 (a) Upon determining that an employer has failed to pay wages or provide fringe benefits as required by § 655.731 and § 655.732, the Administrator shall assess and oversee the payment of back wages or fringe benefits to any H-1B nonimmigrant who has not been paid or provided fringe benefits as required. The back wages or fringe benefits shall be equal to the difference between the amount that should have been paid and the amount that actually was paid to (or with respect to) such nonimmigrant(s).
 
 (b) *Civil money penalties.* The Administrator may assess civil money penalties for violations as follows:
 
-(1) An amount not to exceed $1,928 per violation for:
+(1) An amount not to exceed $1,951 per violation for:
 
 (i) A violation pertaining to strike/lockout (§ 655.733) or displacement of U.S. workers (§ 655.738);
 
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
 
 (vi) Violation of the requirements of the regulations in this subpart I and subpart H of this part or the provisions regarding public access (§ 655.760) where the violation impedes the ability of the Administrator to determine whether a violation of sections 212(n) or (t) of the INA has occurred or the ability of members of the public to have information needed to file a complaint or information regarding alleged violations of sections 212(n) or (t) of the INA;
 
-(2) An amount not to exceed $7,846 per violation for:
+(2) An amount not to exceed $7,939 per violation for:
 
 (i) A willful failure pertaining to wages/working conditions (§§ 655.731, 655.732), strike/lockout, notification, labor condition application specificity, displacement (including placement of an H-1B nonimmigrant at a worksite where the other/secondary employer displaces a U.S. worker), or recruitment;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
 
 (iii) Discrimination against an employee (§ 655.801(a)); or
 
-(3) An amount not to exceed $54,921 per violation where an employer (whether or not the employer is an H-1B-dependent employer or willful violator) displaced a U.S. worker employed by the employer in the period beginning 90 days before and ending 90 days after the filing of an H-1B petition in conjunction with any of the following violations:
+(3) An amount not to exceed $55,570 per violation where an employer (whether or not the employer is an H-1B-dependent employer or willful violator) displaced a U.S. worker employed by the employer in the period beginning 90 days before and ending 90 days after the filing of an H-1B petition in conjunction with any of the following violations:
 
 (i) A willful violation of any of the provisions described in § 655.805(a)(2) through (9) pertaining to wages/working condition, strike/lockout, notification, labor condition application specificity, displacement, or recruitment; or
 
@@ -66,4 +64,4 @@ Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
 
 (g) The Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (28 U.S.C. 2461 note), requires that inflationary adjustments to civil money penalties in accordance with a specified cost-of-living formula be made, by regulation, at least every four years. The adjustments are to be based on changes in the Consumer Price Index for all Urban Consumers (CPI-U) for the U.S. City Average for All Items. The adjusted amounts will be published in the Federal Register. The amount of the penalty in a particular case will be based on the amount of the penalty in effect at the time the violation occurs.
 
-[65 FR 80236, Dec. 20, 2000, as amended at 69 FR 68229, Nov. 23, 2004; 81 FR 43448, July 1, 2016; 82 FR 5380, Jan. 18, 2017; 83 FR 11, Jan. 2, 2018; 84 FR 217, Jan. 23, 2019; 85 FR 2296, Jan. 15, 2019]
+[65 FR 80236, Dec. 20, 2000, as amended at 69 FR 68229, Nov. 23, 2004; 81 FR 43448, July 1, 2016; 82 FR 5380, Jan. 18, 2017; 83 FR 11, Jan. 2, 2018; 84 FR 217, Jan. 23, 2019; 85 FR 2296, Jan. 15, 2019; 86 FR 2967, Jan. 14, 2021]

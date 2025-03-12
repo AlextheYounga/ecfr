@@ -1,5 +1,7 @@
 ##### § 1206.141 How do I calculate royalty value for unprocessed gas that I or my affiliate sell(s) under an arm's-length or non-arm's-length contract? #####
 
+Link to an amendment published at 86 FR 4654, Jan. 15, 2021.
+
 (a) This section applies to unprocessed gas. Unprocessed gas is:
 
 (1) Gas that is not processed;

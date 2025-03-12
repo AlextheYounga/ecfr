@@ -1,5 +1,7 @@
 ##### § 91.215 ATC transponder and altitude reporting equipment and use. #####
 
+Link to an amendment published at 86 FR 4512, Jan. 15, 2021.
+
 (a) *All airspace: U.S.-registered civil aircraft.* For operations not conducted under part 121 or 135 of this chapter, ATC transponder equipment installed must meet the performance and environmental requirements of any class of TSO-C74b (Mode A) or any class of TSO-C74c (Mode A with altitude reporting capability) as appropriate, or the appropriate class of TSO-C112 (Mode S).
 
 (b) *All airspace.* Unless otherwise authorized or directed by ATC, no person may operate an aircraft in the airspace described in paragraphs (b)(1) through (b)(5) of this section, unless that aircraft is equipped with an operable coded radar beacon transponder having either Mode 3/A 4096 code capability, replying to Mode 3/A interrogations with the code specified by ATC, or a Mode S capability, replying to Mode 3/A interrogations with the code specified by ATC and intermode and Mode S interrogations in accordance with the applicable provisions specified in TSO C-112, and that aircraft is equipped with automatic pressure altitude reporting equipment having a Mode C capability that automatically replies to Mode C interrogations by transmitting pressure altitude information in 100-foot increments. This requirement applies -

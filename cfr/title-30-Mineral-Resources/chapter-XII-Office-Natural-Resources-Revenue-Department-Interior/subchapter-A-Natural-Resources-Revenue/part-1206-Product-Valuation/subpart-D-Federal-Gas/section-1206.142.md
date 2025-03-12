@@ -1,5 +1,7 @@
 ##### § 1206.142 How do I calculate royalty value for processed gas that I or my affiliate sell(s) under an arm's-length or non-arm's-length contract? #####
 
+Link to an amendment published at 86 FR 4655, Jan. 15, 2021.
+
 (a) This section applies to the valuation of processed gas, including but not limited to:
 
 (1) Gas that you or your affiliate do not sell, or otherwise dispose of, under an arm's-length contract prior to processing.

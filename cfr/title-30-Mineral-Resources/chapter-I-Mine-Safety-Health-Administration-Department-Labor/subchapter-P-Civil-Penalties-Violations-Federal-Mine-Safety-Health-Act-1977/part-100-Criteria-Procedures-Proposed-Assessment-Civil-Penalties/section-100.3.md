@@ -1,8 +1,6 @@
 ##### § 100.3 Determination of penalty amount; regular assessment. #####
 
-Link to an amendment published at 86 FR 2970, Jan. 14, 2021.
-
-(a) *General.* (1) Except as provided in § 100.5(e), the operator of any mine in which a violation occurs of a mandatory health or safety standard or who violates any other provision of the Mine Act, as amended, shall be assessed a civil penalty of not more than $73,901. Each occurrence of a violation of a mandatory safety or health standard may constitute a separate offense. The amount of the proposed civil penalty shall be based on the criteria set forth in sections 105(b) and 110(i) of the Mine Act. These criteria are:
+(a) *General.* (1) Except as provided in § 100.5(e), the operator of any mine in which a violation occurs of a mandatory health or safety standard or who violates any other provision of the Mine Act, as amended, shall be assessed a civil penalty of not more than $74,775. Each occurrence of a violation of a mandatory safety or health standard may constitute a separate offense. The amount of the proposed civil penalty shall be based on the criteria set forth in sections 105(b) and 110(i) of the Mine Act. These criteria are:
 
 (i) The appropriateness of the penalty to the size of the business of the operator charged;
 
@@ -48,88 +46,88 @@ Table XIV - Penalty Conversion Table
 
 |  Points   |Penalty  <br/>($)|
 |-----------|-----------------|
-|60 or fewer|       137       |
-|    61     |       150       |
-|    62     |       161       |
-|    63     |       175       |
-|    64     |       190       |
-|    65     |       206       |
-|    66     |       222       |
-|    67     |       242       |
-|    68     |       261       |
-|    69     |       283       |
-|    70     |       306       |
-|    71     |       332       |
-|    72     |       361       |
-|    73     |       390       |
-|    74     |       421       |
-|    75     |       458       |
-|    76     |       498       |
-|    77     |       536       |
-|    78     |       582       |
-|    79     |       631       |
-|    80     |       684       |
-|    81     |       740       |
-|    82     |       801       |
-|    83     |       869       |
-|    84     |       941       |
-|    85     |      1,021      |
-|    86     |      1,105      |
-|    87     |      1,196      |
-|    88     |      1,296      |
-|    89     |      1,404      |
-|    90     |      1,521      |
-|    91     |      1,648      |
-|    92     |      1,784      |
-|    93     |      1,932      |
-|    94     |      2,094      |
-|    95     |      2,268      |
-|    96     |      2,457      |
-|    97     |      2,661      |
-|    98     |      2,884      |
-|    99     |      3,124      |
-|    100    |      3,385      |
-|    101    |      3,666      |
-|    102    |      3,971      |
-|    103    |      4,302      |
-|    104    |      4,660      |
-|    105    |      5,049      |
-|    106    |      5,469      |
-|    107    |      5,925      |
-|    108    |      6,418      |
-|    109    |      6,953      |
-|    110    |      7,532      |
-|    111    |      8,157      |
-|    112    |      8,839      |
-|    113    |      9,575      |
-|    114    |     10,373      |
-|    115    |     11,236      |
-|    116    |     12,171      |
-|    117    |     13,186      |
-|    118    |     14,284      |
-|    119    |     15,474      |
-|    120    |     16,762      |
-|    121    |     18,159      |
-|    122    |     19,670      |
-|    123    |     21,309      |
-|    124    |     23,085      |
-|    125    |     25,004      |
-|    126    |     27,089      |
-|    127    |     29,346      |
-|    128    |     31,789      |
-|    129    |     34,437      |
-|    130    |     37,306      |
-|    131    |     40,413      |
-|    132    |     43,778      |
-|    133    |     47,423      |
-|    134    |     51,207      |
-|    135    |     54,988      |
-|    136    |     58,773      |
-|    137    |     62,553      |
-|    138    |     66,337      |
-|    139    |     70,118      |
-|140 or more|     73,901      |
+|60 or fewer|      $139       |
+|    61     |       152       |
+|    62     |       163       |
+|    63     |       177       |
+|    64     |       192       |
+|    65     |       208       |
+|    66     |       225       |
+|    67     |       245       |
+|    68     |       264       |
+|    69     |       286       |
+|    70     |       310       |
+|    71     |       336       |
+|    72     |       365       |
+|    73     |       395       |
+|    74     |       426       |
+|    75     |       463       |
+|    76     |       504       |
+|    77     |       542       |
+|    78     |       589       |
+|    79     |       638       |
+|    80     |       692       |
+|    81     |       749       |
+|    82     |       810       |
+|    83     |       879       |
+|    84     |       952       |
+|    85     |      1,033      |
+|    86     |      1,118      |
+|    87     |      1,210      |
+|    88     |      1,311      |
+|    89     |      1,421      |
+|    90     |      1,539      |
+|    91     |      1,667      |
+|    92     |      1,805      |
+|    93     |      1,955      |
+|    94     |      2,119      |
+|    95     |      2,295      |
+|    96     |      2,486      |
+|    97     |      2,692      |
+|    98     |      2,918      |
+|    99     |      3,161      |
+|    100    |      3,425      |
+|    101    |      3,709      |
+|    102    |      4,018      |
+|    103    |      4,353      |
+|    104    |      4,715      |
+|    105    |      5,109      |
+|    106    |      5,534      |
+|    107    |      5,995      |
+|    108    |      6,494      |
+|    109    |      7,035      |
+|    110    |      7,621      |
+|    111    |      8,253      |
+|    112    |      8,943      |
+|    113    |      9,688      |
+|    114    |     10,496      |
+|    115    |     11,369      |
+|    116    |     12,315      |
+|    117    |     13,342      |
+|    118    |     14,453      |
+|    119    |     15,657      |
+|    120    |     16,960      |
+|    121    |     18,374      |
+|    122    |     19,902      |
+|    123    |     21,561      |
+|    124    |     23,358      |
+|    125    |     25,300      |
+|    126    |     27,409      |
+|    127    |     29,693      |
+|    128    |     32,165      |
+|    129    |     34,844      |
+|    130    |     37,747      |
+|    131    |     40,891      |
+|    132    |     44,295      |
+|    133    |     47,984      |
+|    134    |     51,812      |
+|    135    |     55,638      |
+|    136    |     59,468      |
+|    137    |     63,292      |
+|    138    |     67,121      |
+|    139    |     70,947      |
+|140 or more|     74,775      |
 
 (h) The effect of the penalty on the operator's ability to continue in business. MSHA presumes that the operator's ability to continue in business will not be affected by the assessment of a civil penalty. The operator may, however, submit information to the District Manager concerning the financial status of the business. If the information provided by the operator indicates that the penalty will adversely affect the operator's ability to continue in business, the penalty may be reduced.
 
-[72 FR 13635, Mar. 22, 2007, as amended at 73 FR 7209, Feb. 7, 2008; 81 FR 43455, July 1, 2016; 82 FR 5383, Jan. 18, 2017; 83 FR 14, Jan. 2, 2018; 84 FR 219, Jan. 23, 2019; 85 FR 2299, Jan. 15, 2020]
+[72 FR 13635, Mar. 22, 2007, as amended at 73 FR 7209, Feb. 7, 2008; 81 FR 43455, July 1, 2016; 82 FR 5383, Jan. 18, 2017; 83 FR 14, Jan. 2, 2018; 84 FR 219, Jan. 23, 2019; 85 FR 2299, Jan. 15, 2020; 86 FR 2970, Jan. 14, 2021]

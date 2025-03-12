@@ -25,3 +25,7 @@
 (2) NRCS will select eligible applications for program contracts within CCAs that address one or more priority resource concerns for which the CCA is designated.
 
 (3) NRCS will identify the priority resource concerns and associated ranking criteria in any announcement under § 1464.20.
+
+(4) Lands outside of a CCA are not eligible for applications in the CCA, even where conservation efforts on such land may influence resource concerns within the CCA.
+
+[85 FR 8137, Feb. 13, 2020, as amended at 86 FR 3744, Jan. 15, 2021]

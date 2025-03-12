@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 85 FR 81359, Dec. 16, 2020.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
 *3-Way incandescent lamp* means an incandescent lamp that -
@@ -101,6 +99,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Battery charger* means a device that charges batteries for consumer products, including battery chargers embedded in other consumer products.
 
 *Blowout toilet* means a water closet that uses a non-siphonic bowl with an integral flushing rim, a trap at the rear of the bowl, and a visible or concealed jet that operates with a blowout action.
+
+*Body spray* means a shower device for spraying water onto a bather from other than the overhead position. A body spray is not a showerhead.
 
 *BPAR incandescent reflector lamp* means a reflector lamp as shown in figure C78.21-278 on page 32 of ANSI C78.21-2003 (incorporated by reference; *see* § 430.3).
 
@@ -767,6 +767,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *S-video* means a video display interface that transmits analog video over two channels: luma and chroma as defined by IEC 60933-5 Ed. 1.0 (incorporated by reference; see § 430.3).
 
+*Safety shower showerhead* means a showerhead designed to meet the requirements of ISEA Z358.1 (incorporated by reference, see § 430.3).
+
 *Secretary* means the Secretary of the Department of Energy.
 
 *Security or life safety alarm or surveillance system* means:
@@ -797,7 +799,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) Marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
 
-*Showerhead* means a component or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, excluding safety shower showerheads.
+*Showerhead* means any showerhead (including a handheld showerhead) other than a safety showerhead. DOE interprets the term “showerhead” to mean an accessory to a supply fitting for spraying water onto a bather, typically from an overhead position.
 
 *Single-duct portable air conditioner* means a portable air conditioner that draws all of the condenser inlet air from the conditioned space without the means of a duct, and discharges the condenser outlet air outside the conditioned space through a single duct attached to an adjustable window bracket.
 

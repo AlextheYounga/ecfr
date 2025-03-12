@@ -1,7 +1,5 @@
 ##### § 1240.26 Voluntary departure - authority of the Executive Office for Immigration Review. #####
 
-Link to an amendment published at 85 FR 81655, Dec. 16, 2020.
-
 (a) *Eligibility: general.* An alien previously granted voluntary departure under section 240B of the Act, including by the Service under § 240.25, and who fails to depart voluntarily within the time specified, shall thereafter be ineligible, for a period of ten years, for voluntary departure or for relief under sections 240A, 245, 248, and 249 of the Act.
 
 (b) *Prior to completion of removal proceedings* - (1) *Grant by the immigration judge.* (i) An alien may be granted voluntary departure by an immigration judge pursuant to section 240B(a) of the Act only if the alien:
@@ -82,6 +80,32 @@ Link to an amendment published at 85 FR 81655, Dec. 16, 2020.
 
 (i) *Effect of filing a petition for review.* If, prior to departing the United States, the alien files a petition for review pursuant to section 242 of the Act (8 U.S.C. 1252) or any other judicial challenge to the administratively final order, any grant of voluntary departure shall terminate automatically upon the filing of the petition or other judicial challenge and the alternate order of removal entered pursuant to paragraph (d) of this section shall immediately take effect, except that an alien granted the privilege of voluntary departure under 8 CFR 1240.26(c) will not be deemed to have departed under an order of removal if the alien departs the United States no later than 30 days following the filing of a petition for review, provides to DHS such evidence of his or her departure as the ICE Field Office Director may require, and provides evidence DHS deems sufficient that he or she remains outside of the United States. The Board shall advise the alien of the condition provided in this paragraph in writing if it reinstates the immigration judge's grant of voluntary departure. The automatic termination of a grant of voluntary departure and the effectiveness of the alternative order of removal shall not affect, in any way, the date that the order of the immigration judge or the Board became administratively final, as determined under the provisions of the applicable regulations in this chapter. Since the grant of voluntary departure is terminated by the filing of the petition for review, the alien will be subject to the alternate order of removal, but the penalties for failure to depart voluntarily under section 240B(d) of the Act shall not apply to an alien who files a petition for review, and who remains in the United States while the petition for review is pending.
 
-(j) *Penalty for failure to depart.* There shall be a rebuttable presumption that the civil penalty for failure to depart, pursuant to section 240B(d)(1)(A) of the Act, shall be set at $3,000 unless the immigration judge specifically orders a higher or lower amount at the time of granting voluntary departure within the permissible range allowed by law. The immigration judge shall advise the alien of the amount of this civil penalty at the time of granting voluntary departure.
+(j) [Reserved]
 
-[62 FR 10367, Mar. 6, 1997, as amended at 67 FR 39258, June 7, 2002; 73 FR 76937, Dec. 18, 2008]
+(k) *Authority of the Board to grant voluntary departure in the first instance.* The following procedures apply to any request for voluntary departure reviewed by the Board:
+
+(1) The Board shall not remand a case to an immigration judge to reconsider a request for voluntary departure. If the Board first finds that an immigration judge incorrectly denied an alien's request for voluntary departure or failed to provide appropriate advisals, the Board shall consider the alien's request for voluntary departure de novo and, if warranted, may enter its own order of voluntary departure with an alternate order of removal.
+
+(2) In cases which an alien has appealed an immigration judge's decision or in which DHS and the alien have both appealed an immigration judge's decision, the Board shall not grant voluntary departure under section 240B of the Act unless:
+
+(i) The alien requested voluntary departure under that section before the immigration judge, the immigration judge denied the request, and the alien timely appealed;
+
+(ii) The alien's notice of appeal specified that the alien is appealing the immigration judge's denial of voluntary departure and identified the specific factual and legal findings that the alien is challenging;
+
+(iii) The Board finds that the immigration judge's decision was in error; and
+
+(iv) The Board finds that the alien meets all applicable statutory and regulatory criteria for voluntary departure under that section.
+
+(3) In cases in which DHS has appealed an immigration judge's decision, the Board shall not grant voluntary departure under section 240B of the Act unless:
+
+(i) The alien requested voluntary departure under that section before the immigration judge and provided evidence or a proffer of evidence in support of the alien's request;
+
+(ii) The immigration judge either granted the request or did not rule on it; and,
+
+(iii) The Board finds that the alien meets all applicable statutory and regulatory criteria for voluntary departure under that section.
+
+(4) The Board may impose such conditions as it deems necessary to ensure the alien's timely departure from the United States, if supported by the record on appeal and within the scope of the Board's authority on appeal. Unless otherwise indicated in this section, the Board shall advise the alien in writing of the conditions set by the Board, consistent with the conditions set forth in paragraphs (b), (c), (d), (e), (h), and (i) of this section (other than paragraph (c)(3)(ii) of this section), except that the Board shall advise the alien of the duty to post the bond with the ICE Field Office Director within 10 business days of the Board's order granting voluntary departure if that order was served by mail and shall advise the alien of the duty to post the bond with the ICE Field Office Director within five business days of the Board's order granting voluntary departure if that order was served electronically. If documentation sufficient to assure lawful entry into the country to which the alien is departing is not contained in the record, but the alien continues to assert a request for voluntary departure under section 240B of the Act and the Board finds that the alien is otherwise eligible for voluntary departure under the Act, the Board may grant voluntary departure for a period not to exceed 120 days, subject to the condition that the alien within 60 days must secure such documentation and present it to DHS and the Board. If the Board imposes conditions beyond those specifically enumerated, the Board shall advise the alien in writing of such conditions. The alien may accept or decline the grant of voluntary departure and may manifest his or her declination either by written notice to the Board within five days of receipt of its decision, by failing to timely post any required bond, or by otherwise failing to comply with the Board's order. The grant of voluntary departure shall automatically terminate upon a filing by the alien of a motion to reopen or reconsider the Board's decision, or by filing a timely petition for review of the Board's decision. The alien may decline voluntary departure if he or she is unwilling to accept the amount of the bond or other conditions.
+
+(l) *Penalty for failure to depart.* There shall be a rebuttable presumption that the civil penalty for failure to depart, pursuant to section 240B(d)(1)(A) of the Act, shall be set at $3,000 unless the immigration judge specifically orders a higher or lower amount at the time of granting voluntary departure within the permissible range allowed by law. The immigration judge shall advise the alien of the amount of this civil penalty at the time of granting voluntary departure.
+
+[62 FR 10367, Mar. 6, 1997, as amended at 67 FR 39258, June 7, 2002; 73 FR 76937, Dec. 18, 2008; 85 FR 81655, Dec. 16, 2020]

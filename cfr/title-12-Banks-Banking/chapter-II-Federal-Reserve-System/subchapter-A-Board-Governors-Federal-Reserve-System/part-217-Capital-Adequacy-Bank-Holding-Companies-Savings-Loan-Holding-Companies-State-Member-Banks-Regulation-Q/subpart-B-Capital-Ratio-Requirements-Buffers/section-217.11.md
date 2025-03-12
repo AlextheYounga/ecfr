@@ -4,19 +4,11 @@
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
-(i) *Eligible retained income.* (A) The eligible retained income of a Board-regulated institution is the Board-regulated institution's net income, calculated in accordance with the instructions to the Call Report or the FR Y-9C, as applicable, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income.
+(i) *Eligible retained income.* The eligible retained income of a Board-regulated institution is the greater of:
 
-(B) Notwithstanding paragraph (a)(2)(i)(A) of this section, the eligible retained income of a Board-regulation institution subject to 12 CFR 225.8 is the average of the Board-regulated institution's net income, calculated in accordance with the instructions to the FR Y-9C for the four calendar quarters preceding the current calendar quarter, if:
+(A) The Board-regulated institution's net income, calculated in accordance with the instructions to the FR Y-9C or Call Report, as applicable, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
 
-(*1*) The Board-regulated institution is subject to a maximum payout ratio determined by its standardized approach capital conservation buffer under paragraph (c)(1)(ii) of this section; and
-
-(*2*) The Board-regulated institution's standardized approach capital conservation buffer is greater than the sum of:
-
-(*i*) 2.5 percent;
-
-(*ii*) Any applicable countercyclical capital buffer amount calculated in accordance with paragraph (b) of this section; and
-
-(*iii*) Any applicable GSIB surcharge calculated in accordance with paragraph (d) of this section.
+(B) The average of the Board-regulated institution's net income, calculated in accordance with the instructions to the FR Y-9C or Call Report, as applicable, for the four calendar quarters preceding the current calendar quarter.
 
 (ii) *Maximum payout amount.* A Board-regulated institution's maximum payout amount for the current calendar quarter is equal to the Board-regulated institution's eligible retained income, multiplied by its maximum payout ratio.
 
@@ -172,4 +164,4 @@ Table 2 to § 217.11(c)(4)(iii) - Calculation of Maximum Payout Ratio
 
 (d) *GSIB surcharge.* A global systemically important BHC must use its GSIB surcharge calculated in accordance with subpart H of this part for purposes of determining its maximum payout ratio under Table 2 to § 217.11(c)(4)(iii).
 
-[Reg. Q, 85 FR 15596, Mar. 18, 2020]
+[Reg. Q, 85 FR 15596, Mar. 18, 2020, as amended at 86 FR 3762, Jan. 15, 2021]

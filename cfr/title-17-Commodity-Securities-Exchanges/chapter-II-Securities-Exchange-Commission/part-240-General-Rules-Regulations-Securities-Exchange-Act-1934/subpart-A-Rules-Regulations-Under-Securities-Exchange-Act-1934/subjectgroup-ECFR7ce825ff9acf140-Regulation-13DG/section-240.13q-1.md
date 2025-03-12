@@ -1,5 +1,7 @@
 ##### § 240.13q-1 Disclosure of payments made by resource extraction issuers. #####
 
+Link to an amendment published at 86 FR 4714, Jan. 15, 2021.
+
 (a) *Resource extraction issuers.* Every issuer that is required to file an annual report with the Commission pursuant to Section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d)) and engages in the commercial development of oil, natural gas, or minerals must file a report on Form SD (17 CFR 249b.400) within the period specified in that Form disclosing the information required by the applicable items of Form SD as specified in that Form.
 
 (b) *Anti-evasion.* Disclosure is required under this section in circumstances in which an activity related to the commercial development of oil, natural gas, or minerals, or a payment or series of payments made by a resource extraction issuer to a foreign government or the Federal Government for the purpose of commercial development of oil, natural gas, or minerals is not, in form or characterization, within one of the categories of activities or payments specified in Form SD, but is part of a plan or scheme to evade the disclosure required under this section.

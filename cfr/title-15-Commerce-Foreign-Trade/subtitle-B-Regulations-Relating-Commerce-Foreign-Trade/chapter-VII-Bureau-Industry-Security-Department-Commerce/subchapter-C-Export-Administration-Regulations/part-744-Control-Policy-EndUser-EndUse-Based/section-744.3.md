@@ -1,5 +1,7 @@
 ##### § 744.3 Restrictions on certain rocket systems (including ballistic missiles, space launch vehicles and sounding rockets) and unmanned aerial vehicles (including cruise missiles, target drones and reconnaissance drones) end-uses. #####
 
+Link to an amendment published at 86 FR 4871, Jan. 15, 2021.
+
 (a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) an item subject to the EAR without a license if, at the time of export, reexport or transfer (in-country) you know that the item:
 
 (1) Will be used in the design, development, production or use of rocket systems or unmanned aerial vehicles capable of a range of at least 300 kilometers in or by a country listed in Country Group D:4 of supplement no. 1 to part 740 of the EAR.

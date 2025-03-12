@@ -1,5 +1,7 @@
 ##### § 1206.267 What general washing allowance requirements apply to me? #####
 
+Link to an amendment published at 86 FR 4658, Jan. 15, 2021.
+
 (a)(1) If you determine the value of your coal under § 1206.252 of this subpart, you may take a washing allowance for the reasonable, actual costs to wash the coal. The allowance is a deduction when determining coal royalty value for the costs that you incur to wash coal.
 
 (2) You do not need ONRR's approval before reporting a washing allowance.

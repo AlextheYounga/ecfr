@@ -1,5 +1,7 @@
 ##### § 107.7 Inspection, testing, and demonstration of compliance. #####
 
+Link to an amendment published at 86 FR 4381, Jan. 15, 2021.
+
 (a) A remote pilot in command, owner, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, make available to the Administrator:
 
 (1) The remote pilot certificate with a small UAS rating; and

@@ -38,7 +38,37 @@ This section contains a listing of the headings for §§ 1.1291-1, 1.1291-9, and
 
 (D) Grantor trusts.
 
-(iv) Examples.
+(iv) Successive application.
+
+(v) Examples.
+
+(A) Example 1.
+
+(*1*) Facts.
+
+(*2*) Results.
+
+(*i*) Treatment of DC.
+
+(*ii*) Treatment of A.
+
+(B) Example 2.
+
+(*1*) Facts.
+
+(*2*) Results.
+
+(C) Example 3.
+
+(*1*) Facts.
+
+(*2*) Results.
+
+(D) Example 4.
+
+(*1*) Facts.
+
+(*2*) Results.
 
 (c) Coordination with other PFIC rules.
 
@@ -164,4 +194,4 @@ This section contains a listing of the headings for §§ 1.1291-1, 1.1291-9, and
 
 (i) Effective date.
 
-[T.D. 8701, 61 FR 68151, Dec. 27, 1996, as amended by T.D. 8750, 63 FR 13, Jan. 2, 1998; T.D. 9123, 69 FR 24073, May 3, 2004; T.D. 9806, 81 FR 95465, Dec. 28, 2016]
+[T.D. 8701, 61 FR 68151, Dec. 27, 1996, as amended by T.D. 8750, 63 FR 13, Jan. 2, 1998; T.D. 9123, 69 FR 24073, May 3, 2004; T.D. 9806, 81 FR 95465, Dec. 28, 2016; T.D. 9936, 86 FR 4555, Jan. 15, 2021]

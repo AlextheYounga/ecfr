@@ -1,5 +1,7 @@
 ##### § 107.74 Initial and recurrent training courses. #####
 
+Link to an amendment published at 86 FR 4383, Jan. 15, 2021.
+
 (a) An initial training course covers the following areas of knowledge:
 
 (1) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;

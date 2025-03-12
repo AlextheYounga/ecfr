@@ -1,5 +1,7 @@
 ##### § 21.1 Applicability and definitions. #####
 
+Link to an amendment published at 86 FR 4381, Jan. 15, 2021.
+
 (a) Except for aircraft subject to the provisions of part 107 of this chapter, this part prescribes -
 
 (1) Procedural requirements for issuing and changing -

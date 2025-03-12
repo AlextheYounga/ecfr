@@ -1,0 +1,7 @@
+##### § 585.101 Relation of this part to other laws and regulations. #####
+
+This part is separate from, and independent of, the other parts of this chapter, with the exception of part 501 of this chapter, the recordkeeping and reporting requirements and license application and other procedures of which apply to this part. Actions taken pursuant to part 501 of this chapter with respect to the prohibitions contained in this part are considered actions taken pursuant to this part. Differing foreign policy and national security circumstances may result in differing interpretations of similar language among the parts of this chapter. No license or authorization contained in or issued pursuant to those other parts authorizes any transaction prohibited by this part. No license or authorization contained in or issued pursuant to any other provision of law or regulation authorizes any transaction prohibited by this part. No license or authorization contained in or issued pursuant to this part relieves the involved parties from complying with any other applicable laws or regulations.
+
+Note 1 to § 585.101.
+
+This part has been published in abbreviated form for the purpose of providing immediate guidance to the public. OFAC intends to supplement this part with a more comprehensive set of regulations, which may include additional interpretive and definitional guidance, general licenses, and statements of licensing policy.

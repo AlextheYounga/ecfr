@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 85 FR 81359, Dec. 16, 2020.Link to a correction published at 86 FR 1254, Jan. 8, 2021.
-
 (a) *General.* We incorporate by reference the following standards into this part. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Energy must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW, Washington, DC 20024, (202) 586-2945, or go to: *www1.eere.energy.gov/buildings/appliance\_\_standards/.* Standards can be obtained from the sources listed in this section. Material is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -56,13 +54,13 @@ Link to an amendment published at 85 FR 81359, Dec. 16, 2020.Link to a correctio
 
 (ii) Section 5 - Test Requirements, Section 5.1 (untitled), 5.1.3-5.1.4;
 
-(ii) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.5 - Airflow Requirements for Systems with Capacities \<65,000 Btu/h [19,000 W];
+(iii) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.5 - Airflow Requirements for Systems with Capacities \<65,000 Btu/h [19,000 W];
 
-(iii) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.6 - Outdoor-Coil Airflow Rate (Applies to all Air-to-Air Systems);
+(iv) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.6 - Outdoor-Coil Airflow Rate (Applies to all Air-to-Air Systems);
 
-(iv) Section 6 - Rating Requirements, Section 6.2 - Conditions for Standard Rating Test for Air-cooled Systems \< 65,000 Btu/h [19,000W] (except Table 8); and
+(v) Section 6 - Rating Requirements, Section 6.2 - Conditions for Standard Rating Test for Air-cooled Systems \< 65,000 Btu/h [19,000W] (except Table 8); and
 
-(v) Table 4 - Refrigerant Line Length Correction Factors.
+(vi) Table 4 - Refrigerant Line Length Correction Factors.
 
 (d) *AATCC.* American Association of Textile Chemists and Colorists, P.O. Box 12215, Research Triangle Park, NC 27709, (919) 549-3526, or go to *www.aatcc.org.*
 
@@ -450,7 +448,13 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (20) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
-(q) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
+(q) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
+
+(1) ANSI/ISEA Z358.1-2014 (“ISEA Z358.1”), American National Standard for Emergency Eyewash and Shower Equipment, ANSI-approved January 8, 2015, IBR approved for § 430.2.
+
+(2) [Reserved]
+
+(r) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
 
 (1) ITU-R BT.470-6, Conventional Television Systems, published November 1998; IBR approved for § 430.2.
 
@@ -458,25 +462,25 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (3) International Efficiency Marking Protocol for External Power Supplies, Version 3.0, September 2013, IBR approved for § 430.32.
 
-(r) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
+(s) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
 
 (1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for §§ 430.2 and 430.32.
 
 (2) [Reserved]
 
-(s) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
+(t) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
 
 (1) “Computation of Correlated Color Temperature and Distribution Temperature,” A.R. Robertson, Journal of the Optical Society of America, Volume 58, Number 11, November 1968, pages 1528-1535, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(t) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
+(u) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
 
 (1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television - Composite Analog Video Signal - NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(u) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
+(v) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
 
 (1) UL 729-2003 (“UL 729”), Standard for Safety for Oil-Fired Floor Furnaces, Sixth Edition, dated August 29, 2003, including revisions through April 22, 2010, IBR approved for appendix O to subpart B.
 

@@ -112,8 +112,6 @@
 
 (iii) The employer must make a copy of the written exposure control plan accessible to each employee who is, or can reasonably be expected to be, exposed to airborne beryllium in accordance with OSHA's Access to Employee Exposure and Medical Records (Records Access) standard (29 CFR 1910.1020(e)).
 
-(B) The employer is notified that an employee is eligible for medical removal in accordance with paragraph (l)(1) of this standard, referred for evaluation at a CBD diagnostic center, or shows signs or symptoms associated with exposure to beryllium; or
-
 (2) *Engineering and work practice controls.* The employer must use engineering and work practice controls to reduce and maintain employee airborne exposure to beryllium to or below the TWA PEL and STEL, unless the employer can demonstrate that such controls are not feasible. Wherever the employer demonstrates that it is not feasible to reduce airborne exposure to or below the PELs with engineering and work practice controls, the employer must implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls by using respiratory protection in accordance with paragraph (g) of this standard.
 
 (3) *Prohibition of rotation.* The employer must not rotate employees to different jobs to achieve compliance with the PELs.
@@ -130,7 +128,7 @@
 
 (2) *Respiratory protection program.* Where this standard requires an employer to provide respiratory protection, the selection and use of such respiratory protection must be in accordance with the Respiratory Protection standard (29 CFR 1910.134).
 
-(3) The employer must provide at no cost to the employee a powered air-purifying respirator (PAPR) instead of a negative pressure respirator when
+(3) The employer must provide at no cost to the employee a powered air-purifying respirator (PAPR) instead of a negative pressure respirator when:
 
 (i) Respiratory protection is required by this standard;
 
@@ -215,7 +213,7 @@
 
 (5) *Licensed physician's written medical report for the employee.* The employer must ensure that the employee receives a written medical report from the licensed physician within 45 days of the examination (including any follow-up BeLPT required under paragraph (k)(3)(ii)(E) of this standard) and that the PLHCP explains the results of the examination to the employee. The written medical report must contain:
 
-(i) A statement indicating the results of the medical examination, including the licensed physician's opinion as to whether the employee has
+(i) A statement indicating the results of the medical examination, including the licensed physician's opinion as to whether the employee has:
 
 (A) Any detected medical condition, such as CBD or beryllium sensitization (*i.e.,* the employee is confirmed positive, as defined in paragraph (b) of this standard), that may place the employee at increased risk from further airborne exposure, and
 
@@ -254,7 +252,6 @@
 (vi) The employer must ensure that each employee receives a copy of the written medical opinion described in paragraph (k)(6) of this standard within 45 days of any medical examination (including any follow-up BeLPT required under paragraph (k)(3)(ii)(E) of this standard) performed for that employee.
 
 (7) *CBD diagnostic center.*(i) The employer must provide an evaluation at no cost to the employee at a CBD diagnostic center that is mutually agreed upon by the employer and the employee. The evaluation at the CBD diagnostic center must be scheduled within 30 days, and must occur within a reasonable time, of:
-98.9 96
 
 (A) The employer's receipt of a physician's written medical opinion to the employer that recommends referral to a CBD diagnostic center; or
 
@@ -306,7 +303,7 @@
 
 DANGERREGULATED AREABERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAUTHORIZED PERSONNEL ONLYWEAR RESPIRATORY PROTECTION AND PERSONAL PROTECTIVE CLOTHING AND EQUIPMENT IN THIS AREA
 
-(3) *Employee information and training.* (i) For each employee who has, or can reasonably be expected to have, airborne exposure to beryllium;
+(3) *Employee information and training.* (i) For each employee who has, or can reasonably be expected to have, airborne exposure to beryllium:
 
 (A) The employer must provide information and training in accordance with the HCS (29 CFR 1910.1200(h));
 

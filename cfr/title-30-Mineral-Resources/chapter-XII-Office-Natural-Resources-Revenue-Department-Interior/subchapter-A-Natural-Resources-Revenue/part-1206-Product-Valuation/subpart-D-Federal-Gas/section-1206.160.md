@@ -1,5 +1,7 @@
 ##### § 1206.160 How do I determine a processing allowance if I have an arm's-length processing contract? #####
 
+Link to an amendment published at 86 FR 4657, Jan. 15, 2021.
+
 (a)(1) If you or your affiliate incur processing costs under an arm's-length processing contract, you may claim a processing allowance for the reasonable, actual costs incurred, as more fully explained in paragraph (b) of this section, except as provided in paragraphs (a)(3)(i) and (a)(3)(ii) of this section and subject to the limitation in § 1206.159(c)(2).
 
 (2) You must be able to demonstrate that your or your affiliate's contract is arm's-length.

@@ -1,7 +1,5 @@
 ##### § 2550.404a-1 Investment duties. #####
 
-Link to an amendment published at 85 FR 81694, Dec. 16, 2020.
-
 (a) *In general.* Section 404(a)(1)(A) and 404(a)(1)(B) of the Employee Retirement Income Security Act of 1974, as amended (ERISA or the Act) provide, in part, that a fiduciary shall discharge that person's duties with respect to the plan solely in the interests of the participants and beneficiaries, for the exclusive purpose of providing benefits to participants and their beneficiaries and defraying reasonable expenses of administering the plan, and with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims.
 
 (b) *Investment duties.* (1) With regard to the consideration of an investment or investment course of action taken by a fiduciary of an employee benefit plan pursuant to the fiduciary's investment duties, the requirements of section 404(a)(1)(B) of the Act set forth in paragraph (a) of this section are satisfied if the fiduciary:
@@ -46,7 +44,49 @@ Link to an amendment published at 85 FR 81694, Dec. 16, 2020.
 
 (ii) The investment fund, product, or model portfolio is not added or retained as, or as a component of, a qualified default investment alternative described in § 2550.404c-5 if its investment objectives or goals or its principal investment strategies include, consider, or indicate the use of one or more non-pecuniary factors.
 
-(e) [Reserved]
+(e) *Proxy voting and exercise of shareholder rights.* (1) The fiduciary duty to manage plan assets that are shares of stock includes the management of shareholder rights appurtenant to those shares, such as the right to vote proxies.
+
+(2)(i) When deciding whether to exercise shareholder rights and when exercising such rights, including the voting of proxies, fiduciaries must carry out their duties prudently and solely in the interests of the participants and beneficiaries and for the exclusive purpose of providing benefits to participants and beneficiaries and defraying the reasonable expenses of administering the plan.
+
+(ii) The fiduciary duty to manage shareholder rights appurtenant to shares of stock does not require the voting of every proxy or the exercise of every shareholder right. In order to fulfill the fiduciary obligations under paragraph (e)(2)(i) of this section, when deciding whether to exercise shareholder rights and when exercising shareholder rights, plan fiduciaries must:
+
+(A) Act solely in accordance with the economic interest of the plan and its participants and beneficiaries;
+
+(B) Consider any costs involved;
+
+(C) Not subordinate the interests of the participants and beneficiaries in their retirement income or financial benefits under the plan to any non-pecuniary objective, or promote non-pecuniary benefits or goals unrelated to those financial interests of the plan's participants and beneficiaries;
+
+(D) Evaluate material facts that form the basis for any particular proxy vote or other exercise of shareholder rights;
+
+(E) Maintain records on proxy voting activities and other exercises of shareholder rights; and
+
+(F) Exercise prudence and diligence in the selection and monitoring of persons, if any, selected to advise or otherwise assist with exercises of shareholder rights, such as providing research and analysis, recommendations regarding proxy votes, administrative services with voting proxies, and recordkeeping and reporting services.
+
+(iii) Where the authority to vote proxies or exercise shareholder rights has been delegated to an investment manager pursuant to ERISA section 403(a)(2), or a proxy voting firm or other person who performs advisory services as to the voting of proxies, a responsible plan fiduciary shall prudently monitor the proxy voting activities of such investment manager or proxy advisory firm and determine whether such activities are consistent with paragraphs (e)(2)(i) and (ii) and (e)(3) of this section.
+
+(iv) A fiduciary may not adopt a practice of following the recommendations of a proxy advisory firm or other service provider without a determination that such firm or service provider's proxy voting guidelines are consistent with the fiduciary's obligations described in paragraphs (e)(2)(ii)(A) through (E) of this section.
+
+(3)(i) In deciding whether to vote a proxy pursuant to paragraphs (e)(2)(i) and (ii) of this section, fiduciaries may adopt proxy voting policies providing that the authority to vote a proxy shall be exercised pursuant to specific parameters prudently designed to serve the plan's economic interest. Paragraphs (e)(3)(i)(A) and (B) of this section set forth optional means for satisfying the fiduciary responsibilities under sections 404(a)(1)(A) and 404(a)(1)(B) of ERISA with respect to decisions whether to vote, provided such policies are developed in accordance with a fiduciary's obligations under ERISA as set forth in the applicable provisions of paragraphs (e)(2)(i) and (ii) of this section. Paragraphs (e)(3)(i)(A) and (B) of this section do not establish minimum requirements or the exclusive means for satisfying these responsibilities. A plan may adopt either or both of the following policies:
+
+(A) A policy to limit voting resources to particular types of proposals that the fiduciary has prudently determined are substantially related to the issuer's business activities or are expected to have a material effect on the value of the investment.
+
+(B) A policy of refraining from voting on proposals or particular types of proposals when the plan's holding in a single issuer relative to the plan's total investment assets is below a quantitative threshold that the fiduciary prudently determines, considering its percentage ownership of the issuer and other relevant factors, is sufficiently small that the matter being voted upon is not expected to have a material effect on the investment performance of the plan's portfolio (or investment performance of assets under management in the case of an investment manager).
+
+(ii) Plan fiduciaries shall periodically review proxy voting policies adopted pursuant to paragraph (e)(3)(i) of this section.
+
+(iii) No proxy voting policies adopted pursuant to paragraph (e)(3)(i) of this section shall preclude submitting a proxy vote when the fiduciary prudently determines that the matter being voted upon is expected to have a material effect on the value of the investment or the investment performance of the plan's portfolio (or investment performance of assets under management in the case of an investment manager) after taking into account the costs involved, or refraining from voting when the fiduciary prudently determines that the matter being voted upon is not expected to have such a material effect after taking into account the costs involved.
+
+(4)(i)(A) The responsibility for exercising shareholder rights lies exclusively with the plan trustee except to the extent that either:
+
+(*1*) The trustee is subject to the directions of a named fiduciary pursuant to ERISA section 403(a)(1); or
+
+(*2*) The power to manage, acquire, or dispose of the relevant assets has been delegated by a named fiduciary to one or more investment managers pursuant to ERISA section 403(a)(2).
+
+(B) Where the authority to manage plan assets has been delegated to an investment manager pursuant to section 403(a)(2), the investment manager has exclusive authority to vote proxies or exercise other shareholder rights appurtenant to such plan assets in accordance with this section, except to the extent the plan, trust document, or investment management agreement expressly provides that the responsible named fiduciary has reserved to itself (or to another named fiduciary so authorized by the plan document) the right to direct a plan trustee regarding the exercise or management of some or all of such shareholder rights.
+
+(ii) An investment manager of a pooled investment vehicle that holds assets of more than one employee benefit plan may be subject to an investment policy statement that conflicts with the policy of another plan. Compliance with ERISA section 404(a)(1)(D) requires the investment manager to reconcile, insofar as possible, the conflicting policies (assuming compliance with each policy would be consistent with ERISA section 404(a)(1)(D)). In the case of proxy voting, to the extent permitted by applicable law, the investment manager must vote (or abstain from voting) the relevant proxies to reflect such policies in proportion to each plan's economic interest in the pooled investment vehicle. Such an investment manager may, however, develop an investment policy statement consistent with Title I of ERISA and this section, and require participating plans to accept the investment manager's investment policy statement, including any proxy voting policy, before they are allowed to invest. In such cases, a fiduciary must assess whether the investment manager's investment policy statement and proxy voting policy are consistent with Title I of ERISA and this section before deciding to retain the investment manager.
+
+(5) This section does not apply to voting, tender, and similar rights with respect to such securities that are passed through pursuant to the terms of an individual account plan to participants and beneficiaries with accounts holding such securities.
 
 (f) *Definitions.* For purposes of this section:
 
@@ -60,10 +100,12 @@ Link to an amendment published at 85 FR 81694, Dec. 16, 2020.
 
 (5) The term *designated investment alternative* means any investment alternative designated by the plan into which participants and beneficiaries may direct the investment of assets held in, or contributed to, their individual accounts. The term “designated investment alternative” shall not include “brokerage windows,” “self-directed brokerage accounts,” or similar plan arrangements that enable participants and beneficiaries to select investments beyond those designated by the plan.
 
-(g) *Effective date.* (1) This section shall be effective on January 12, 2021, and shall apply in its entirety to all investments made and investment courses of action taken after January 12, 2021.
+(g) *Applicability date.* (1) Except for paragraph (e) of this section, this section shall apply in its entirety to all investments made and investment courses of action taken after January 12, 2021.
 
-(2) Plans shall have until April 30, 2022 to make any changes to qualified default investment alternatives described in § 2550.404c-5, where necessary to comply with the requirements of paragraph (d)(2) of this section.
+(2) Plans shall have until April 30, 2022, to make any changes to qualified default investment alternatives described in § 2550.404c-5, where necessary to comply with the requirements of paragraph (d)(2) of this section.
+
+(3) Paragraph (e) of this section applies on January 15, 2021. Fiduciaries, other than investment advisers subject to 17 CFR 275.206(4)-6, shall have until January 31, 2022, to comply with the requirements of paragraphs (e)(2)(ii)(D) and (E) of this section. All fiduciaries shall have until January 31, 2022 to comply with the requirements of paragraphs (e)(2)(iv) and (e)(4)(ii) of this section.
 
 (h) *Severability.* If any provision of this section is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding shall be one of invalidity or unenforceability, in which event the provision shall be severable from this section and shall not affect the remainder thereof.
 
-[85 FR 72883, Nov. 13, 2020]
+[85 FR 72883, Nov. 13, 2020, as amended at 85 FR 81694, Dec. 16, 2020]

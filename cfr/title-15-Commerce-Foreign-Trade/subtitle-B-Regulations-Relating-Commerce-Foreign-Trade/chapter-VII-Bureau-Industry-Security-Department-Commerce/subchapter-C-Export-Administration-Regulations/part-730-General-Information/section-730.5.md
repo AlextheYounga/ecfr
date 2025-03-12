@@ -1,5 +1,7 @@
 ##### § 730.5 Coverage of more than exports. #####
 
+Link to an amendment published at 86 FR 4869, Jan. 15, 2021.
+
 The core of the export control provisions of the EAR concerns exports from the United States. You will find, however, that some provisions give broad meaning to the term “export”, apply to transactions outside of the United States, or apply to activities other than exports.
 
 (a) *Reexports.* Commodities, software, and technology that have been exported from the United States are generally subject to the EAR with respect to reexport. Many such reexports, however, may go to many destinations without a license or will qualify for an exception from licensing requirements.

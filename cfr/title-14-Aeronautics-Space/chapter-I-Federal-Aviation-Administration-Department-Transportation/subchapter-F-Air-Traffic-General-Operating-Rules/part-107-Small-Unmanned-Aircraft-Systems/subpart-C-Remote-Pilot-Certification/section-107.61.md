@@ -1,5 +1,7 @@
 ##### § 107.61 Eligibility. #####
 
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+
 Subject to the provisions of §§ 107.57 and 107.59, in order to be eligible for a remote pilot certificate with a small UAS rating under this subpart, a person must:
 
 (a) Be at least 16 years of age;

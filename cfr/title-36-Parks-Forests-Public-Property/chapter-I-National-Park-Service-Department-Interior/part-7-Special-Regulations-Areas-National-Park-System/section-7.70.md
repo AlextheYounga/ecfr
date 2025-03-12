@@ -1,5 +1,7 @@
 ##### § 7.70 Glen Canyon National Recreation Area. #####
 
+Link to an amendment published at 86 FR 3813, Jan. 15, 2021.
+
 (a) *Designated airstrips.* (1) Wahweap, latitude 36°59′45″ N., longitude 111°30′45″ W.
 
 (2) Bullfrog, latitude 37°33′00″ N., longitude 110°42′45″ W.

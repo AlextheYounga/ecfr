@@ -1,5 +1,7 @@
 ##### § 744.6 Restrictions on certain activities of U.S. persons. #####
 
+Link to an amendment published at 86 FR 4871, Jan. 15, 2021.
+
 (a) *General prohibitions* - (1) *Activities related to exports.* (i) No U.S. person as defined in paragraph (c) of this section may, without a license from BIS, export, reexport, or transfer (in-country) an item where that person knows that such item:
 
 (A) Will be used in the design, development, production, or use of nuclear explosive devices in or by a country listed in Country Group D:2 (see supplement no. 1 to part 740 of the EAR).

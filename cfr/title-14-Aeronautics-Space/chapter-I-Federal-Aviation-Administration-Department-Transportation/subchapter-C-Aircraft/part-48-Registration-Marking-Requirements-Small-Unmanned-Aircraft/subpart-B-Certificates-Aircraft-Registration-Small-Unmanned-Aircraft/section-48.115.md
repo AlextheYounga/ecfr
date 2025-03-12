@@ -1,5 +1,7 @@
 ##### § 48.115 Registration: Individuals intending to use small unmanned aircraft exclusively as a model aircraft. #####
 
+Link to an amendment published at 86 FR 4504, Jan. 15, 2021.
+
 (a) *Certificate of Aircraft Registration:* A Certificate of Aircraft Registration issued in accordance with § 48.100 for small unmanned aircraft used exclusively as model aircraft constitutes registration for all small unmanned aircraft used exclusively as model aircraft owned by the individual identified on the application.
 
 (b) *Effective date of registration.* An aircraft is registered when the applicant receives a Certificate of Aircraft Registration. The effective date of registration is shown by the date of issue on the Certificate of Aircraft Registration issued under this part.

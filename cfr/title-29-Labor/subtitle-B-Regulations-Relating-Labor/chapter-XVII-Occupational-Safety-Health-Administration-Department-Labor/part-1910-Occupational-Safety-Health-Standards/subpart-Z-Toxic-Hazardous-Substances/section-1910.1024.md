@@ -24,11 +24,13 @@
 
 (2) Where employees are, or can reasonably be expected to be, exposed to airborne beryllium at or above the action level.
 
+*CBD diagnostic center* means a medical diagnostic center that has a pulmonologist or pulmonary specialist on staff and on-site facilities to perform a clinical evaluation for the presence of chronic beryllium disease (CBD). The CBD diagnostic center must have the capacity to perform pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. The CBD diagnostic center must also have the capacity to transfer BAL samples to a laboratory for appropriate diagnostic testing within 24 hours. The pulmonologist or pulmonary specialist must be able to interpret the biopsy pathology and the BAL diagnostic test results.
+
 *Chronic beryllium disease (CBD)* means a chronic granulomatous lung disease caused by inhalation of airborne beryllium by an individual who is beryllium sensitized.
 
 *Confirmed positive* means the person tested has had two abnormal BeLPT test results, an abnormal and a borderline test result, or three borderline test results, obtained from tests conducted within a three-year period. It also means the result of a more reliable and accurate test indicating a person has been identified as having beryllium sensitization.
 
-*Contaminated with beryllium and beryllium-contaminated* mean contaminated with dust, fumes, mists, or solutions containing beryllium in concentrations greater than or equal to 0.1 percent by weight.
+*Contaminated with beryllium* and *beryllium-contaminated* mean contaminated with dust, fumes, mists, or solutions containing beryllium in concentrations greater than or equal to 0.1 percent by weight.
 
 *Dermal contact with beryllium* means skin exposure to:
 
@@ -52,11 +54,11 @@
 
 *This standard* means this beryllium standard, 29 CFR 1910.1024.
 
-(c) *Permissible Exposure Limits (PELs)* - (1) *Time-weighted average (TWA) PEL.* The employer must ensure that no employee is exposed to an airborne concentration of beryllium in excess of 0.2 µg/m3 calculated as an 8-hour TWA.
+(c) *Permissible Exposure Limits (PELs)*—(1) *Time-weighted average (TWA) PEL.* The employer must ensure that no employee is exposed to an airborne concentration of beryllium in excess of 0.2 µg/m3 calculated as an 8-hour TWA.
 
 (2) *Short-term exposure limit (STEL).* The employer must ensure that no employee is exposed to an airborne concentration of beryllium in excess of 2.0 µg/m3 as determined over a sampling period of 15 minutes.
 
-(d) *Exposure assessment* - (1) *General.* The employer must assess the airborne exposure of each employee who is or may reasonably be expected to be exposed to airborne beryllium in accordance with either the performance option in paragraph (d)(2) or the scheduled monitoring option in paragraph (d)(3) of this standard.
+(d) *Exposure assessment*—(1) *General.* The employer must assess the airborne exposure of each employee who is or may reasonably be expected to be exposed to airborne beryllium in accordance with either the performance option in paragraph (d)(2) or the scheduled monitoring option in paragraph (d)(3) of this standard.
 
 (2) *Performance option.* The employer must assess the 8-hour TWA exposure and the 15-minute short-term exposure for each employee on the basis of any combination of air monitoring data and objective data sufficient to accurately characterize airborne exposure to beryllium.
 
@@ -90,7 +92,7 @@
 
 (iii) The employer must ensure that each observer follows all other applicable safety and health procedures.
 
-(e) *Beryllium work areas and regulated areas* - (1) *Establishment.* (i) The employer must establish and maintain a beryllium work area wherever the criteria for a “beryllium work area” set forth in paragraph (b) of this standard are met.
+(e) *Beryllium work areas and regulated areas*—(1) *Establishment.* (i) The employer must establish and maintain a beryllium work area wherever the criteria for a “beryllium work area” set forth in paragraph (b) of this standard are met.
 
 (ii) The employer must establish and maintain a regulated area wherever employees are, or can reasonably be expected to be, exposed to airborne beryllium at levels above the TWA PEL or STEL.
 
@@ -112,7 +114,7 @@
 
 (ii) Personal protective clothing and equipment in accordance with paragraph (h) of this standard.
 
-(f) *Methods of compliance* - (1) *Written exposure control plan.* (i) The employer must establish, implement, and maintain a written exposure control plan, which must contain:
+(f) *Methods of compliance*—(1) *Written exposure control plan.* (i) The employer must establish, implement, and maintain a written exposure control plan, which must contain:
 
 (A) A list of operations and job titles reasonably expected to involve airborne exposure to or dermal contact with beryllium;
 
@@ -138,6 +140,8 @@
 
 (B) The employer is notified that an employee is eligible for medical removal in accordance with paragraph (l)(1) of this standard, referred for evaluation at a CBD diagnostic center, or shows signs or symptoms associated with exposure to beryllium; or
 
+(C) The employer has any reason to believe that new or additional airborne exposure is occurring or will occur.
+
 (iii) The employer must make a copy of the written exposure control plan accessible to each employee who is, or can reasonably be expected to be, exposed to airborne beryllium in accordance with OSHA's Access to Employee Exposure and Medical Records (Records Access) standard (§ 1910.1020(e)).
 
 (2) *Engineering and work practice controls.* (i) The employer must use engineering and work practice controls to reduce and maintain employee airborne exposure to beryllium to or below the PEL and STEL, unless the employer can demonstrate that such controls are not feasible. Wherever the employer demonstrates that it is not feasible to reduce airborne exposure to or below the PELs with engineering and work practice controls, the employer must implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls using respiratory protection in accordance with paragraph (g) of this standard.
@@ -160,7 +164,7 @@
 
 (3) *Prohibition of rotation.* The employer must not rotate employees to different jobs to achieve compliance with the PELs.
 
-(g) *Respiratory protection* - (1) *General.* The employer must provide respiratory protection at no cost to the employee and ensure that each employee uses respiratory protection:
+(g) *Respiratory protection*—(1) *General.* The employer must provide respiratory protection at no cost to the employee and ensure that each employee uses respiratory protection:
 
 (i) During periods necessary to install or implement feasible engineering and work practice controls where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL;
 
@@ -174,7 +178,7 @@
 
 (2) *Respiratory protection program.* Where this standard requires an employer to provide respiratory protection, the selection and use of such respiratory protection must be in accordance with the Respiratory Protection standard (§ 1910.134).
 
-(3) The employer must provide at no cost to the employee a powered air-purifying respirator (PAPR) instead of a negative pressure respirator when
+(3) The employer must provide at no cost to the employee a powered air-purifying respirator (PAPR) instead of a negative pressure respirator when:
 
 (i) Respiratory protection is required by this standard;
 
@@ -182,7 +186,7 @@
 
 (iii) The PAPR provides adequate protection to the employee in accordance with paragraph (g)(2) of this standard.
 
-(h) *Personal protective clothing and equipment* - (1) *Provision and use.* The employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective Equipment standards (subpart I of this part):
+(h) *Personal protective clothing and equipment*—(1) *Provision and use.* The employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective Equipment standards (subpart I of this part):
 
 (i) Where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL; or
 
@@ -192,7 +196,7 @@
 
 (ii) The employer must ensure that each employee removes beryllium-contaminated personal protective clothing and equipment as specified in the written exposure control plan required by paragraph (f)(1) of this standard.
 
-(iii) The employer must inform in writing the persons or the business entities who launder, clean, or repair the personal protective clothing or equipment required by this standard of the potentially harmful effects of exposure to beryllium and that the personal protective clothing and equipment must be handled in accordance with this standard.
+(iii) The employer must ensure that each employee stores and keeps beryllium-contaminated personal protective clothing and equipment separate from street clothing and that storage facilities prevent cross-contamination as specified in the written exposure control plan required by paragraph (f)(1) of this standard.
 
 (iv) The employer must ensure that no employee removes beryllium-contaminated personal protective clothing or equipment from the workplace, except for employees authorized to do so for the purposes of laundering, cleaning, maintaining or disposing of beryllium-contaminated personal protective clothing and equipment at an appropriate location or facility away from the workplace.
 
@@ -202,9 +206,9 @@
 
 (ii) The employer must ensure that beryllium is not removed from beryllium-contaminated personal protective clothing and equipment by blowing, shaking, or any other means that disperses beryllium into the air.
 
-(iii) The employer must inform in writing the persons or the business entities who launder, clean or repair the personal protective clothing or equipment required by this standard of the potentially harmful effects of airborne exposure to and dermal contact with beryllium and that the personal protective clothing and equipment must be handled in accordance with this standard.
+(iii) The employer must inform in writing the persons or the business entities who launder, clean, or repair the personal protective clothing or equipment required by this standard of the potentially harmful effects of exposure to beryllium and that the personal protective clothing and equipment must be handled in accordance with this standard.
 
-(i) *Hygiene areas and practices* - (1) *General.* For each employee working in a beryllium work area or who can reasonably be expected to have dermal contact with beryllium, the employer must:
+(i) *Hygiene areas and practices*—(1) *General.* For each employee working in a beryllium work area or who can reasonably be expected to have dermal contact with beryllium, the employer must:
 
 (i) Provide readily accessible washing facilities in accordance with this standard and the Sanitation standard (§ 1910.141) to remove beryllium from the hands, face, and neck; and
 
@@ -234,7 +238,7 @@
 
 (5) *Prohibited activities.* The employer must ensure that no employees eat, drink, smoke, chew tobacco or gum, or apply cosmetics in regulated areas.
 
-(j) *Housekeeping* - (1) *General.* (i) The employer must maintain all surfaces in beryllium work areas and regulated areas as free as practicable of beryllium and in accordance with the written exposure control plan required under paragraph (f)(1) and the cleaning methods required under paragraph (j)(2) of this standard; and
+(j) *Housekeeping*—(1) *General.* (i) The employer must maintain all surfaces in beryllium work areas and regulated areas as free as practicable of beryllium and in accordance with the written exposure control plan required under paragraph (f)(1) and the cleaning methods required under paragraph (j)(2) of this standard; and
 
 (ii) The employer must ensure that all spills and emergency releases of beryllium are cleaned up promptly and in accordance with the written exposure control plan required under paragraph (f)(1) and the cleaning methods required under paragraph (j)(2) of this standard.
 
@@ -256,7 +260,7 @@
 
 (iii) Except for intra-plant transfers, materials designated for recycling or reuse that contain at least 0.1 percent beryllium by weight or are contaminated with beryllium must be cleaned to be as free as practicable of beryllium or placed in enclosures that prevent the release of beryllium-containing particulate or solutions under normal conditions of use, storage, or transport, such as bags or containers.
 
-(k) *Medical surveillance* - (1) *General.* (i) The employer must make medical surveillance required by this paragraph available at no cost to the employee, and at a reasonable time and place, to each employee:
+(k) *Medical surveillance*—(1) *General.* (i) The employer must make medical surveillance required by this paragraph available at no cost to the employee, and at a reasonable time and place, to each employee:
 
 (A) Who is or is reasonably expected to be exposed at or above the action level for more than 30 days per year;
 
@@ -316,7 +320,7 @@
 
 (5) *Licensed physician's written medical report for the employee.* The employer must ensure that the employee receives a written medical report from the licensed physician within 45 days of the examination (including any follow-up BeLPT required under paragraph (k)(3)(ii)(E) of this standard) and that the PLHCP explains the results of the examination to the employee. The written medical report must contain:
 
-(i) A statement indicating the results of the medical examination, including the licensed physician's opinion as to whether the employee has
+(i) A statement indicating the results of the medical examination, including the licensed physician's opinion as to whether the employee has:
 
 (A) Any detected medical condition, such as CBD or beryllium sensitization (*i.e.,* the employee is confirmed positive, as defined in paragraph (b) of this standard), that may place the employee at increased risk from further airborne exposure, and
 
@@ -394,7 +398,7 @@
 
 (4) The employer's obligation to provide medical removal protection benefits to a removed employee shall be reduced to the extent that the employee receives compensation for earnings lost during the period of removal from a publicly or employer-funded compensation program, or receives income from another employer made possible by virtue of the employee's removal.
 
-(m) *Communication of hazards* - (1) *General.* (i) Chemical manufacturers, importers, distributors, and employers must comply with all requirements of the HCS (§ 1910.1200) for beryllium.
+(m) *Communication of hazards*—(1) *General.* (i) Chemical manufacturers, importers, distributors, and employers must comply with all requirements of the HCS (§ 1910.1200) for beryllium.
 
 (ii) In classifying the hazards of beryllium, at least the following hazards must be addressed: Cancer; lung effects (CBD and acute beryllium disease); beryllium sensitization; skin sensitization; and skin, eye, and respiratory tract irritation.
 
@@ -444,7 +448,7 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (iv) *Employee information.* The employer must make a copy of this standard and its appendices readily available at no cost to each employee and designated employee representative(s).
 
-(n) *Recordkeeping* - (1) *Air monitoring data.* (i) The employer must make and maintain a record of all exposure measurements taken to assess airborne exposure as prescribed in paragraph (d) of this standard.
+(n) *Recordkeeping*—(1) *Air monitoring data.* (i) The employer must make and maintain a record of all exposure measurements taken to assess airborne exposure as prescribed in paragraph (d) of this standard.
 
 (ii) This record must include at least the following information:
 
@@ -498,7 +502,7 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (6) *Transfer of records.* The employer must comply with the requirements involving transfer of records set forth in the Records Access standard (§ 1910.1020).
 
-(o) *Dates* - (1) *Effective date.* This standard shall become effective March 10, 2017.
+(o) *Dates*—(1) *Effective date.* This standard shall become effective March 10, 2017.
 
 (2) *Compliance dates.* (i) Obligations contained in paragraphs (c), (d), (g), (k), and (l) of this standard: March 12, 2018;
 
@@ -509,3 +513,93 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 (iv) All other obligations of this standard: December 12, 2018.
 
 (p) *Appendix.* Table A.1 in this appendix sets forth the operations that, where performed under the circumstances described in the column heading above the particular operations, trigger the requirement for a beryllium work area.
+
+Appendix A to § 1910.1024—Operations for Establishing Beryllium Work Areas
+
+Paragraph (b) of this standard defines a *beryllium work area* as any work area where materials that contain at least 0.1 percent beryllium by weight are processed (1) during any of the operations listed in Appendix A of this standard, or (2) where employees are, or can reasonably be expected to be, exposed to airborne beryllium at or above the action level. Table A.1 in this appendix sets forth the operations that, where performed under the circumstances described in the column heading above the particular operations, trigger the requirement for a beryllium work area.
+
+|Beryllium metal alloy operations  <br/>(generally \<10% beryllium by weight)|Beryllium composite operations  <br/>(generally \>10% beryllium by weight) and beryllium metal operations|            Beryllium oxide operations             |
+|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+|                             Abrasive Blasting.                             |                                           Abrasive Blasting.                                            |                Abrasive Blasting.                 |
+|                            Abrasive Processing.                            |                                          Abrasive Processing.                                           |               Abrasive Processing.                |
+|                              Abrasive Sawing.                              |                                            Abrasive Sawing.                                             |                 Abrasive Sawing.                  |
+|                                 Annealing.                                 |                                               Annealing.                                                |                      Boring.                      |
+|                              Bright Cleaning.                              |                                               Atomizing.                                                |               Brazing (\>1,100 °C).               |
+|                                 Brushing.                                  |                                              Attritioning.                                              |           Broaching with green ceramic.           |
+|                                  Buffing.                                  |                                                Blanking.                                                |                     Brushing.                     |
+|                                Burnishing.                                 |                                                Bonding.                                                 |                     Buffing.                      |
+|                                  Casting.                                  |                                                 Boring.                                                 |               Centerless grinding.                |
+|                            Centerless Grinding.                            |                                                Breaking.                                                |                Chemical Cleaning.                 |
+|                             Chemical Cleaning.                             |                                            Bright Cleaning.                                             |                 Chemical Etching.                 |
+|                             Chemical Etching.                              |                                               Broaching.                                                |                  CNC Machining.                   |
+|                             Chemical Milling.                              |                                                Brushing.                                                |          Cold Isostatic Pressing (CIP).           |
+|                              Dross Handling.                               |                                                Buffing.                                                 |                     Crushing.                     |
+|                           Deburring (grinding).                            |                                               Burnishing.                                               |                     Cutting.                      |
+|                    Electrical Chemical Machining (ECM).                    |                                                Casting.                                                 |               Deburring (grinding).               |
+|                   Electrical Discharge Machining (EDM).                    |                                          Centerless Grinding.                                           |             Deburring (non-grinding).             |
+|                                 Extrusion.                                 |                                           Chemical Cleaning.                                            |               Destructive Testing.                |
+|                                  Forging.                                  |                                            Chemical Etching                                             |                      Dicing.                      |
+|                                 Grinding.                                  |                                            Chemical Milling.                                            |                     Drilling.                     |
+|                          Heat Treating (in air).                           |                                              CNC Machining                                              |                 Dry/wet Tumbling.                 |
+|                    High Speed Machining (\>10,000 rpm).                    |                                        Cold Isostatic Pressing.                                         |                    Extrusion.                     |
+|                                Hot Rolling.                                |                                              Cold Pilger.                                               |                  Filing by Hand.                  |
+|                                  Lapping.                                  |                                                Crushing.                                                |             Firing of Green Ceramic.              |
+|                               Laser Cutting.                               |                                                Cutting.                                                 | Firing of Refractory Metallization (\>1,100 °C).  |
+|                              Laser Machining.                              |                                               Deburring.                                                |                     Grinding.                     |
+|                              Laser Scribing.                               |                                                 Dicing.                                                 |                      Honing.                      |
+|                               Laser Marking.                               |                                                Drawing.                                                 |           Hot Isostatic Pressing (HIP).           |
+|                                  Melting.                                  |                                                Drilling.                                                |                     Lapping.                      |
+|                               Photo-Etching.                               |                                             Dross Handling.                                             |                  Laser Cutting.                   |
+|                                 Pickling.                                  |                                  Electrical Chemical Machining (ECM).                                   |                 Laser Machining.                  |
+|                             Point and Chamfer.                             |                                  Electrical Discharge Machining (EDM).                                  |                  Laser Scribing.                  |
+|                                 Polishing.                                 |                                               Extrusion.                                                |                  Laser Marking.                   |
+|                    Torch Cutting (i.e., oxy-acetylene).                    |                                             Filing by Hand.                                             |                    Machining.                     |
+|                                 Tumbling.                                  |                                                Forging.                                                 |                     Milling.                      |
+|                             Water-jet Cutting.                             |                                                Grinding.                                                |                     Piercing.                     |
+|                                  Welding.                                  |                                                Heading.                                                 |                      Mixing.                      |
+|                                  Sanding.                                  |                                             Heat Treating.                                              |                   Plasma Spray.                   |
+|                               Slab Milling.                                |                                                 Honing.                                                 |                    Polishing.                     |
+|                                                                            |                                      Hot Isostatic Pressing (HIP).                                      |                 Powder Handling.                  |
+|                                                                            |                                                Lapping.                                                 |                 Powder Pressing.                  |
+|                                                                            |                                             Laser Cutting.                                              |                     Reaming.                      |
+|                                                                            |                                            Laser Machining.                                             |                     Sanding.                      |
+|                                                                            |                                             Laser Scribing.                                             |                    Sectioning.                    |
+|                                                                            |                                             Laser Marking.                                              |                     Shearing.                     |
+|                                                                            |                                               Machining.                                                |            Sintering of Green Ceramic.            |
+|                                                                            |                                                Melting.                                                 |Sintering of Refractory Metallization (\>1,100 °C).|
+|                                                                            |                                                Milling.                                                 |                     Snapping.                     |
+|                                                                            |                                                 Mixing.                                                 |                   Spray Drying.                   |
+|                                                                            |                                             Photo-Etching.                                              |                   Tape Casting.                   |
+|                                                                            |                                                Pickling.                                                |                     Turning.                      |
+|                                                                            |                                                Piercing.                                                |                Water Jet Cutting.                 |
+|                                                                            |                                                 Pilger.                                                 |                                                   |
+|                                                                            |                                              Plasma Spray.                                              |                                                   |
+|                                                                            |                                           Point and Chamfer.                                            |                                                   |
+|                                                                            |                                               Polishing.                                                |                                                   |
+|                                                                            |                                            Powder Handling.                                             |                                                   |
+|                                                                            |                                            Powder Pressing.                                             |                                                   |
+|                                                                            |                                                Pressing.                                                |                                                   |
+|                                                                            |                                                Reaming.                                                 |                                                   |
+|                                                                            |                                              Roll Bonding.                                              |                                                   |
+|                                                                            |                                                Rolling.                                                 |                                                   |
+|                                                                            |                                                Sanding.                                                 |                                                   |
+|                                                                            |                                          Sawing (tooth blade).                                          |                                                   |
+|                                                                            |                                                Shearing.                                                |                                                   |
+|                                                                            |                                                 Sizing.                                                 |                                                   |
+|                                                                            |                                                Skiving.                                                 |                                                   |
+|                                                                            |                                                Slitting.                                                |                                                   |
+|                                                                            |                                                Snapping.                                                |                                                   |
+|                                                                            |                                               Sputtering.                                               |                                                   |
+|                                                                            |                                                Stamping.                                                |                                                   |
+|                                                                            |                                              Spray Drying.                                              |                                                   |
+|                                                                            |                                                Tapping.                                                 |                                                   |
+|                                                                            |                                            Tensile Testing.                                             |                                                   |
+|                                                                            |                                  Torch Cutting (i.e., oxy acetylene).                                   |                                                   |
+|                                                                            |                                               Trepanning.                                               |                                                   |
+|                                                                            |                                                Tumbling                                                 |                                                   |
+|                                                                            |                                                Turning.                                                 |                                                   |
+|                                                                            |                                            Vapor Deposition.                                            |                                                   |
+|                                                                            |                                           Water-Jet Cutting.                                            |                                                   |
+|                                                                            |                                                Welding.                                                 |                                                   |
+
+[82 FR 2736, Jan. 9, 2017, as amended at 83 FR 19948, May 7, 2018; 83 FR 39360, Aug. 9, 2018; 85 FR 42625, July 14, 2020]

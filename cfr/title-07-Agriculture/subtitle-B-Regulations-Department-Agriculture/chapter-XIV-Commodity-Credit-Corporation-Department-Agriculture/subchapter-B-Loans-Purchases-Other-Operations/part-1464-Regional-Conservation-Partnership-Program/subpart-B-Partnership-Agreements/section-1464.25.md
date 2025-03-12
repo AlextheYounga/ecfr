@@ -6,7 +6,7 @@
 
 (1) Will achieve conservation benefits on a regional or watershed scale;
 
-(2) Involves investments in infrastructure (such as roads, dams, and irrigation facilities) related to agricultural or nonindustrial private forest production that would benefit multiple producers and address natural resource concerns such as drought, wildfire, or water quality impairment on the land within the proposal area;
+(2) Involves investments in infrastructure related to agricultural or nonindustrial private forest production that would benefit multiple producers and address natural resource concerns such as drought, wildfire, or water quality impairment on the land within the proposal area;
 
 (3) Addresses natural resource concerns, including the development and implementation of watershed, habitat, or other area restoration plans;
 
@@ -21,3 +21,5 @@
 (c) The terms of an alternative funding arrangement or grant agreement may be made expressly in the partnership agreement and may include providing financial assistance directly to the lead partner or to nonlead partners through supplemental agreements.
 
 (d) NRCS will not enter into more than 15 partnership agreements funded through an alternative funding arrangement or grant agreement each fiscal year.
+
+[85 FR 8137, Feb. 13, 2020, as amended at 86 FR 3744, Jan. 15, 2021]

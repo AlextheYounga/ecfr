@@ -42,15 +42,17 @@
 
 (10) Identify the terms and conditions under which either NRCS or the lead partner may enter into supplemental agreements to further the purposes of the partnership agreement;
 
-(11) Identify the other requirements identified by NRCS; and
+(11) Provide a detailed description of how the lead partner will facilitate participation of historically underserved producers (including through advance payment options, increased payment rates, outreach activities, or other methods for increasing participation by historically underserved producers) if the proposal received increased ranking priority as described in § 1464.21(b)(8);
 
-(12) Include any unique requirements if the partnership agreement is a grant agreement or alternative funding arrangement.
+(12) Identify the other requirements identified by NRCS; and
+
+(13) Include any unique requirements if the partnership agreement is a grant agreement or alternative funding arrangement.
 
 (e) *Supplemental agreements.* NRCS may enter into supplemental agreements with a lead partner or a nonlead partner to provide technical assistance or to assist producers with implementation of eligible activities in the project area as identified in § 1464.26.
 
 (f) *Partnership agreement renewal.* (1) As determined by NRCS, a partnership agreement may be renewed for a period not to exceed 5 years.
 
-(2) NRCS may agree to renew the partnership agreement through an expedited process if -
+(2) NRCS may agree to renew the partnership agreement through an expedited process if—
 
 (i) The lead partner requests such a renewal; and
 
@@ -63,3 +65,5 @@
 (5) Under a renewal of a partnership agreement, the parties may request to continue to implement the project as defined in the original partnership agreement or expand the scope of the project consistent with the objectives and purposes of the original partnership agreement.
 
 (g) *Notification.* All eligible partners who submit a proposal for a partnership agreement or submit a request to renew a partnership agreement will receive notification from NRCS regarding selection or nonselection of the project proposal or approval or denial of the renewal request.
+
+[85 FR 8137, Feb. 13, 2020, as amended at 86 FR 3744, Jan. 15, 2021]

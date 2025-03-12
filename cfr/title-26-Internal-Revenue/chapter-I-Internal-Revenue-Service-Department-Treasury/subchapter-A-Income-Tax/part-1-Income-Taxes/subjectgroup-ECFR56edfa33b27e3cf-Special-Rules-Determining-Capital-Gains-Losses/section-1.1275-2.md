@@ -144,4 +144,4 @@ Example 1.A issues a current-pay, increasing-rate note that provides for an earl
 
 (iii) *Applicability date for accounting method changes.* Paragraph (l)(1) of this section will not apply in applying section 13221(e) of Public Law 115-97, 131 Stat. 2054 (2017), to determine the section 481(a) adjustment period for any adjustment under section 481(a) for a qualified change in method of accounting required under section 451(b) and § 1.451-3 for a specified credit card fee.
 
-[T.D. 8517, 59 FR 4826, Feb. 2, 1994, as amended by T.D. 8674, 61 FR 30142, June 14, 1996; T.D. 8840, 64 FR 60343, Nov. 5, 1999; T.D. 8934, 66 FR 2816, Jan. 12, 2001; T.D. 9157, 69 FR 52829, Aug. 30, 2004; T.D. 9599, 77 FR 56538, Sept. 13, 2012; T.D. 9941, 86 FR 862, Jan. 6, 2021; 86 FR 1256, Jan. 8, 2021]
+[T.D. 8517, 59 FR 4826, Feb. 2, 1994, as amended by T.D. 8674, 61 FR 30142, June 14, 1996; T.D. 8840, 64 FR 60343, Nov. 5, 1999; T.D. 8934, 66 FR 2816, Jan. 12, 2001; T.D. 9157, 69 FR 52829, Aug. 30, 2004; T.D. 9599, 77 FR 56538, Sept. 13, 2012; T.D. 9941, 86 FR 862, Jan. 6, 2021; 86 FR 1256, Jan. 8, 2021; 86 FR 2974, Jan. 14, 2021]
