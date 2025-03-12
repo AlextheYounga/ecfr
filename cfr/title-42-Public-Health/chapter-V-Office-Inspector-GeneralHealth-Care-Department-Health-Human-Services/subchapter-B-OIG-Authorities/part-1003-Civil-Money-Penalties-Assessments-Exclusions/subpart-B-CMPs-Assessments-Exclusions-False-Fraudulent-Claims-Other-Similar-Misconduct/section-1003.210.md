@@ -1,6 +1,6 @@
 ##### § 1003.210 Amount of penalties and assessments. #####
 
-(a) *Penalties.*1/\> (1) Except as provided in this section, the OIG may impose a penalty of not more than $10,000 for each individual violation that is subject to a determination under this subpart.
+(a) *Penalties.*1 (1) Except as provided in this section, the OIG may impose a penalty of not more than $10,000 for each individual violation that is subject to a determination under this subpart.
 
 1 The penalty amounts in this section are updated annually, as adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 45 CFR part 102.
 
@@ -20,13 +20,13 @@
 
 (9) The OIG may impose a penalty of not more than $15,000 for each day of failure to grant timely access in violation of § 1003.200(b)(10).
 
-(10) For each false certification in violation of § 1003.200(c), the OIG may impose a penalty of not more than the greater of -
+(10) For each false certification in violation of § 1003.200(c), the OIG may impose a penalty of not more than the greater of—
 
 (i) $5,000; or
 
 (ii) Three times the amount of Medicare payments for home health services that are made with regard to the false certification of eligibility by a physician, as prohibited by section 1814(a)(2)(C) or 1835(a)(2)(A) of the Act.
 
-(11) For each false certification in violation of § 1003.200(d), the OIG may impose a penalty of not more than -
+(11) For each false certification in violation of § 1003.200(d), the OIG may impose a penalty of not more than—
 
 (i) $1,000 with respect to an individual who willfully and knowingly falsely certifies a material and false statement in a resident assessment; and
 
@@ -34,7 +34,7 @@
 
 (b) *Assessments.* (1) Except for violations of § 1003.200(b)(4), (5), and (7), and § 1003.200(c) and (d), the OIG may impose an assessment for each individual violation of § 1003.200, of not more than 3 times the amount claimed for each item or service.
 
-(2) For violations of § 1003.200(b)(4), the OIG may impose an assessment of not more than 3 times -
+(2) For violations of § 1003.200(b)(4), the OIG may impose an assessment of not more than 3 times—
 
 (i) The amount claimed for each separately billable item or service provided, furnished, ordered, or prescribed by an excluded individual or entity or
 

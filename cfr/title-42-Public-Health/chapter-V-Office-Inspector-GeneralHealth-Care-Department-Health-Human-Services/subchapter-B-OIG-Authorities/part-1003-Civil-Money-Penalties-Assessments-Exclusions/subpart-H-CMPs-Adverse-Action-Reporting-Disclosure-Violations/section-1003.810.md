@@ -1,6 +1,8 @@
 ##### § 1003.810 Amount of penalties. #####
 
-The OIG may impose a penalty of not more than7/\> -
+Link to an amendment published at 88 FR 42841, July 3, 2023.
+
+The OIG may impose a penalty of not more than7—
 
 7 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.
 

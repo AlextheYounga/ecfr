@@ -2,13 +2,13 @@
 
 (a) *Circumstance for exclusion.* (1) Except as provided for in paragraph (a)(2)(ii) of this section, the OIG may exclude any individual or entity that it determines has committed an act described in section 1128B(b) of the Act.
 
-(2) With respect to acts described in section 1128B of the Act, the OIG -
+(2) With respect to acts described in section 1128B of the Act, the OIG—
 
 (i) May exclude any individual or entity that it determines has knowingly and willfully solicited, received, offered or paid any remuneration in the manner and for the purposes described therein, irrespective of whether the individual or entity may be able to prove that the remuneration was also intended for some other purpose; and
 
 (ii) Will not exclude any individual or entity if that individual or entity can prove that the remuneration that is the subject of the exclusion is exempted from serving as the basis for an exclusion.
 
-(b) *Length of exclusion.* (1) The following factors will be considered in determining the length of exclusion in accordance with this section -
+(b) *Length of exclusion.* (1) The following factors will be considered in determining the length of exclusion in accordance with this section—
 
 (i) The nature and circumstances of the acts and other similar acts;
 
@@ -20,11 +20,11 @@
 
 (v) Any other facts bearing on the nature and seriousness of the individual's or entity's misconduct.
 
-(2) It will be considered a mitigating factor if -
+(2) It will be considered a mitigating factor if—
 
 (i) The individual had a documented mental, emotional, or physical condition before or during the commission of the prohibited act(s) that reduced the individual's culpability for the acts in question; or
 
-(ii) The individual's or entity's cooperation with Federal or State officials resulted in the -
+(ii) The individual's or entity's cooperation with Federal or State officials resulted in the—
 
 (A) Sanctioning of other individuals or entities, or
 

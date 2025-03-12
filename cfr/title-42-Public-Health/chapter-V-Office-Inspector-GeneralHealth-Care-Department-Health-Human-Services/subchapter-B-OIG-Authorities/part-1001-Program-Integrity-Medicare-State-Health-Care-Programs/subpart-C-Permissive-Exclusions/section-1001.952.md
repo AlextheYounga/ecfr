@@ -620,7 +620,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (i) *Downstream contractor* means an individual or entity that has a subcontract directly or indirectly with a first tier contractor for the provision or arrangement of items or services that are covered by an agreement between an eligible managed care organization and the first tier contractor.
 
-(ii) *Eligible managed care organization*1/\> means -
+(ii) *Eligible managed care organization*1 means -
 
 1 The eligible managed care organizations in paragraphs (u)(2)(ii)(A)-(F) of this section are only eligible with respect to items or services covered by the contracts specified in those paragraphs.
 

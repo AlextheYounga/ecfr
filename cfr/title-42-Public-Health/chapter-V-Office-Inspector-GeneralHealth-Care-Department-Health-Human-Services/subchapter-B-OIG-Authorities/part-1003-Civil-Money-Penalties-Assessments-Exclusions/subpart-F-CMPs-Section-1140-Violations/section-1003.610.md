@@ -1,6 +1,6 @@
 ##### § 1003.610 Amount of penalties. #####
 
-(a) The OIG may impose a penalty of not more than6/\> -
+(a) The OIG may impose a penalty of not more than6—
 
 6 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.
 
@@ -10,7 +10,7 @@
 
 (3) $25,000 for each individual violation in the case of such misuse related to a broadcast or telecast.
 
-(b) For purposes of this paragraph, a violation is defined as -
+(b) For purposes of this paragraph, a violation is defined as—
 
 (1) In the case of a direct mailing solicitation or advertisement, each separate piece of mail that contains one or more words, letters, symbols, or emblems related to a determination under § 1003.600(a);
 
