@@ -1,0 +1,3 @@
+##### § 51.330 Nursing care. #####
+
+The State home must provide an organized nursing service with a sufficient number of qualified nursing personnel to meet the total nursing care needs of all residents within the facility, 24 hours a day, 7 days a week, as determined by their comprehensive assessments and their comprehensive care plans. The nursing service must be under the direction of a full-time registered nurse who is currently licensed by the State and has, in writing, administrative authority, responsibility, and accountability for the functions, activities, and training of the nursing service's staff.

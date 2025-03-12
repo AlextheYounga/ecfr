@@ -1,5 +1,7 @@
 ##### § 8.2 Posting of project lands as to recreational use and availability of information. #####
 
+Link to an amendment published at 83 FR 67068, Dec. 28, 2018.
+
 (a) Following the issuance or amendment of a license, the licensee shall post and shall maintain at all points of public access which are required by the license (or at such access points as are specifically designated for this purpose by the licensee) and at such other points as are subsequently prescribed by the Commission on its own motion or upon the recommendation of a public recreation agency operating in the area in which the project is located, a conspicuous sign giving the name of the project and the owner of the project, a statement that it is licensed by the Commission and the project number, directions to the areas of the project which are available for public recreation use, permissible times and activities, and other regulations regarding such use, and advising that further information may be obtained at local offices of the licensee in the vicinity of the project. In addition, the licensee shall post at such locations conspicuous notice that the recreation facilities are open to all members of the public without discrimination.
 
 (b) The licensee shall make available for inspection at its local offices in the vicinity of the project the recreation plan approved by the Commission and the entire license instrument, properly indexed for easy reference to the license conditions designated for publications in § 8.1.

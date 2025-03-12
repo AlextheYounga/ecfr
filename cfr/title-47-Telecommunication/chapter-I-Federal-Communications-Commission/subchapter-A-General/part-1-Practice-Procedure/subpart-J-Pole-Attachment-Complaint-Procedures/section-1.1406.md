@@ -1,5 +1,7 @@
 ##### § 1.1406 Commission consideration of the complaint. #####
 
+Link to an amendment published at 83 FR 67121, December 28, 2018.
+
 (a) The complainant shall have the burden of establishing a *prima facie* case that the rate, term, or condition is not just and reasonable or that the denial of access violates 47 U.S.C. 224(f). If, however, a utility argues that the proposed rate is lower than its incremental costs, the utility has the burden of establishing that such rate is below the statutory minimum just and reasonable rate. In a case involving a denial of access, the utility shall have the burden of proving that the denial was lawful, once a *prima facie* case is established by the complainant.
 
 (b) The Commission shall determine whether the rate, term or condition complained of is just and reasonable. For the purposes of this paragraph, a rate is just and reasonable if it assures a utility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way. The Commission shall exclude from actual capital costs those reimbursements received by the utility from cable operators and telecommunications carriers for non-recurring costs.

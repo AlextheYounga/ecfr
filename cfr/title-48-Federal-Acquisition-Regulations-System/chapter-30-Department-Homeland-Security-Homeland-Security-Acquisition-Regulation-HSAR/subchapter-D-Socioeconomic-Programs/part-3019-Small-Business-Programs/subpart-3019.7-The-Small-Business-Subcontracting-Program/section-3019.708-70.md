@@ -1,5 +1,7 @@
 ##### 3019.708-70 Solicitation provision and contract clauses. #####
 
+Link to an amendment published at 83 FR 67124, Dec. 28, 2018.
+
 (a) The contracting officer shall insert the clause at (HSAR) 48 CFR 3052.219-70, Small Business Subcontracting Plan Reporting, in solicitations and contracts containing the clause at (FAR) 48 CFR 52.219-9.
 
 (b) The contracting officer shall insert the clause at (HSAR) 48 CFR 3052.219-71, DHS Mentor-Protégé Program in all solicitations that anticipate the need for a subcontracting plan.

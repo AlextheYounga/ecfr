@@ -1,5 +1,7 @@
 ##### § 61.55 Contract-based tariffs. #####
 
+Link to an amendment published at 83 FR 67123, Dec. 28, 2018.
+
 (a) This section shall apply to price cap local exchange carriers permitted to offer contract-based tariffs under § 1.776 or § 69.805 of this chapter.
 
 (b) Composition of contract-based tariffs shall comply with §§ 61.54(b) through (i).

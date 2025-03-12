@@ -1,5 +1,7 @@
 ##### § 32.11 Companies subject to this part. #####
 
+Link to an amendment published at 83 FR 67121, Dec. 28, 2018.
+
 (a) This part applies to every incumbent local exchange carrier, as defined in section 251(h) of the Communications Act, and any other carrier that the Commission designates by order. This part refers to such carriers as “companies” or “Class B companies.” Incumbent local exchange carriers' successor or assign companies, as defined in section 251(h)(1)(B)(ii) of the Communications Act, that are found to be non-dominant by the Commission, will not be subject to this Uniform System of Accounts.
 
 (b) - (f) [Reserved]

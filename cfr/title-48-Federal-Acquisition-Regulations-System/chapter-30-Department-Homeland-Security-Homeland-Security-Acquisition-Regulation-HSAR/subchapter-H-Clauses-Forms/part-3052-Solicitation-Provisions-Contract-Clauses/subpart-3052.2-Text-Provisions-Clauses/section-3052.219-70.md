@@ -1,5 +1,7 @@
 ##### 3052.219-70 Small Business subcontracting program reporting. #####
 
+Link to an amendment published at 83 FR 67124, Dec. 28, 2018.
+
 As prescribed in (HSAR) 48 CFR 3019.708-70(a), insert the following clause:
 
 Small Business Subcontracting Plan Reporting (JUN 2006)

@@ -1,5 +1,7 @@
 ##### § 32.1 Background. #####
 
+Link to an amendment published at 83 FR 67121, Dec. 28, 2018.
+
 The revised Uniform System of Accounts (USOA) is a historical financial accounting system which reports the results of operational and financial events in a manner which enables both management and regulators to assess these results within a specified accounting period. The USOA also provides the financial community and others with financial performance results. In order for an accounting system to fulfill these purposes, it must exhibit consistency and stability in financial reporting (including the results published for regulatory purposes). Accordingly, the USOA has been designed to reflect stable, recurring financial data based to the extent regulatory considerations permit upon the consistency of the well established body of accounting theories and principles commonly referred to as generally accepted accounting principles (GAAP). Price cap companies that have opted-out of USOA requirements pursuant to the conditions specified by the Commission in § 32.11(g) are relieved of the rules of this part in their entirety, including any other rules or orders that are derivative of or dependent on the rules in this part.
 
 [82 FR 20840, May 4, 2017]

@@ -1,0 +1,3 @@
+##### § 51.1 Purpose and scope of this part. #####
+
+The purpose of this part is to establish VA's policies, procedures, and standards applicable to the payment of per diem to State homes that provide nursing home care, domiciliary care, or adult day health care to eligible veterans. Subpart B of this part sets forth the procedures for recognition and certification of a State home. Subpart C sets forth requirements governing the rates of, and procedures applicable to, the payment of per diem; the provision of drugs and medicines; and for which veterans VA will pay per diem. Subparts D, E, and F set forth standards that any State home seeking per diem payments for nursing home care (subpart D), domiciliary care (subpart E), or adult day health care (subpart F) must meet.

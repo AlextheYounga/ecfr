@@ -1,7 +1,5 @@
 ##### § 1.1153 Schedule of annual regulatory fees and filing locations for mass media services. #####
 
-95
-
 |                                                                           |Fee amount|
 |---------------------------------------------------------------------------|----------|
 |                    Radio [AM and FM] (47 CFR part 73)                     |          |

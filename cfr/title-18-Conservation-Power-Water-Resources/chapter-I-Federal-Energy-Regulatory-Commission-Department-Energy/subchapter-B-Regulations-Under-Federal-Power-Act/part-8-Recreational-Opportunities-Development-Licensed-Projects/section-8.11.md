@@ -1,5 +1,7 @@
 ##### § 8.11 Information respecting use and development of public recreational opportunities. #####
 
+Link to an amendment published at 83 FR 67068, Dec. 28, 2018.
+
 (a) *Applicability.* (1) Except as provided in paragraph (b) of this section, each licensee of a project under major or minor Commission license shall prepare with respect to each development within such project a FERC Form No. 80 and submit them to the Secretary of the Commission in accordance with filing procedures posted on the Commission's Web site at *http://www.ferc.gov.*
 
 (2) FERC Form No. 80 is due on April 1, 2009, for data compiled during the calendar year ending December 31, 2008. Thereafter, FERC Form No. 80 is due on April 1 of every sixth year for data compiled during the previous calendar year.

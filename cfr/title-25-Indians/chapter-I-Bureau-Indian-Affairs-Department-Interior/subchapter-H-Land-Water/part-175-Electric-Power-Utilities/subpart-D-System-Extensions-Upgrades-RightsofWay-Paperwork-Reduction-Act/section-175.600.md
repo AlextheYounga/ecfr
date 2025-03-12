@@ -1,0 +1,3 @@
+##### § 175.600 How does the Paperwork Reduction Act affect this part? #####
+
+The collection of information contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned OMB Control Number 1076-0021. Response is required to obtain a benefit. A Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless the form or regulation requesting the information displays a currently valid OMB Control Number. Send comments regarding this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer—Indian Affairs, 1849 C Street NW, Washington, DC 20240.

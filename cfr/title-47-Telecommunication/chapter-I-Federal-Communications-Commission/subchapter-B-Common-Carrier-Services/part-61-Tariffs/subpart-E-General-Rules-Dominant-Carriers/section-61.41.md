@@ -1,5 +1,7 @@
 ##### § 61.41 Price cap requirements generally. #####
 
+Link to an amendment published at 83 FR 67122, Dec. 28, 2018.
+
 (a) Sections 61.42 through 61.49 shall apply as follows:
 
 (1) [Reserved]
