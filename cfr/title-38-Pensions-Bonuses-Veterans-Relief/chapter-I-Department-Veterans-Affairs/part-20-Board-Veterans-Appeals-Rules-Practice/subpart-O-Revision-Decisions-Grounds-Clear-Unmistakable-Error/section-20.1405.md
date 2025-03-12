@@ -1,6 +1,6 @@
 ##### § 20.1405 Rule 1405. Disposition. #####
 
-(a) *Docketing and assignment; notification of representative* - (1) *General.* Motions under this subpart will be docketed in the order received and will be assigned in accordance with § 20.106 (relating to assignment of proceedings). Where an appeal is pending on the same underlying issue at the time the motion is received, the motion and the appeal may be consolidated under the same docket number and disposed of as part of the same proceeding. A motion may not be assigned to any Member who participated in the decision that is the subject of the motion. If a motion is assigned to a panel, the decision will be by a majority vote of the panel Members.
+(a) *Docketing and assignment; notification of representative*—(1) *General.* Motions under this subpart will be docketed in the order received and will be assigned in accordance with § 20.106 (relating to assignment of proceedings). Where an appeal is pending on the same underlying issue at the time the motion is received, the motion and the appeal may be consolidated under the same docket number and disposed of as part of the same proceeding. A motion may not be assigned to any Member who participated in the decision that is the subject of the motion. If a motion is assigned to a panel, the decision will be by a majority vote of the panel Members.
 
 (2) *Advancement on the docket.* A motion may be advanced on the docket subject to the same substantive and procedural requirements as those applicable to an appeal under Rule 800, paragraph (c) (§ 20.800(c)) or, for legacy appeals, Rule 902, paragraph (c) (§ 20.902(c)).
 
@@ -8,9 +8,9 @@
 
 (b) *Evidence.* No new evidence will be considered in connection with the disposition of the motion. Material included in the record on the basis of Rule 1403(b)(2) (§ 20.1403(b)(2) of this part) is not considered new evidence.
 
-(c) *Hearing* - (1) *Availability.* The Board may, for good cause shown, grant a request for a hearing for the purpose of argument. No testimony or other evidence will be admitted in connection with such a hearing. The determination as to whether good cause has been shown shall be made by the member or panel to whom the motion is assigned.
+(c) *Hearing*—(1) *Availability.* The Board may, for good cause shown, grant a request for a hearing for the purpose of argument. No testimony or other evidence will be admitted in connection with such a hearing. The determination as to whether good cause has been shown shall be made by the member or panel to whom the motion is assigned.
 
-(2) *Submission of requests.* Requests for such a hearing shall be submitted to the following address: Planning and Analysis (014), Board of Veterans' Appeals, P.O. Box 27063, Washington, DC 20038.
+(2) *Submission of requests.* Requests for such a hearing shall be submitted to the following address: Board of Veterans' Appeals, P.O. Box 27063, Washington, DC 20038.
 
 (d) *Referral to ensure completeness of the record.* Subject to the provisions of paragraph (b) of this section, the Board may use the various agencies of original jurisdiction to ensure completeness of the record in connection with a motion under this subpart.
 
@@ -18,4 +18,4 @@
 
 (f) *Decision.* The decision of the Board on a motion under this subpart will be in writing. The decision will include separately stated findings of fact and conclusions of law on all material questions of fact and law presented on the record, the reasons or bases for those findings and conclusions, and an order granting or denying the motion.
 
-(Authority: 38 U.S.C. 501(a), 7104(d), 7111)[64 FR 2139, Jan. 13, 1999, as amended at 64 FR 7091, Feb. 12, 1999; 66 FR 37151, July 17, 2001; 68 FR 53682, Sept. 12, 2003; 81 FR 32650, May 24, 2016; 84 FR 192, Jan. 18, 2019]
+(Authority: 38 U.S.C. 501(a), 7104(d), 7111)[64 FR 2139, Jan. 13, 1999, as amended at 64 FR 7091, Feb. 12, 1999; 66 FR 37151, July 17, 2001; 68 FR 53682, Sept. 12, 2003; 81 FR 32650, May 24, 2016; 84 FR 192, Jan. 18, 2019; 84 FR 34788, July 19, 2019]

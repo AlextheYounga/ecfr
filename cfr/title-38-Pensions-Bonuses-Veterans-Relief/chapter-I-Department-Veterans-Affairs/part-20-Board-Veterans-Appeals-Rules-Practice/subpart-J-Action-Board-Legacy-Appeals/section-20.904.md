@@ -1,4 +1,4 @@
-##### § 20.904 Remand or referral for further action. #####
+##### § 20.904 Rule 904. Remand or referral for further action. #####
 
 (a) *Remand.* If further evidence, clarification of the evidence, correction of a procedural defect, or any other action is essential for a proper appellate decision, a Veterans Law Judge or panel of Veterans Law Judges shall remand the case to the agency of original jurisdiction, specifying the action to be undertaken.
 
@@ -20,4 +20,4 @@
 
 (6) Considering a matter over which the Board has original jurisdiction.
 
-(Authority: 38 U.S.C. 7102, 7103(c); 38 U.S.C. 7104(a), 7105 (2016)).[67 FR 3104, Jan. 23, 2002, as amended at 69 FR 53808, Sept. 3, 2004; 76 FR 17547, Mar. 30, 2011. Redesignated at 84 FR 177, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]
+(Authority: 38 U.S.C. 7102, 7103(c); 38 U.S.C. 7104(a), 7105 (2016)).[67 FR 3104, Jan. 23, 2002, as amended at 69 FR 53808, Sept. 3, 2004; 76 FR 17547, Mar. 30, 2011. Redesignated at 84 FR 177, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019; 84 FR 34788, July 19, 2019]

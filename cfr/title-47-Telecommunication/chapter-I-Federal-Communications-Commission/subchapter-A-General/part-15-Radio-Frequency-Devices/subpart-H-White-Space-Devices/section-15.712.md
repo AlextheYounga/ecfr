@@ -1,5 +1,7 @@
 ##### § 15.712 Interference protection requirements. #####
 
+Link to an amendment published at 84 FR 34798, July 19, 2019.
+
 The separation distances in this section apply to fixed and personal/portable white space devices with a location accuracy of ±50 meters. These distances must be increased by the amount that the location uncertainty of a white space device exceeds ±50 meters.
 
 (a) *Digital television stations, and digital and analog Class A TV, low power TV, TV translator and TV booster stations* - (1) *Protected contour.* White space devices must protect digital and analog TV services within the contours shown in the following table. These contours are calculated using the methodology in § 73.684 of this chapter and the R-6602 curves contained in § 73.699 of this chapter.

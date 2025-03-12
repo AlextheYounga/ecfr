@@ -97,7 +97,7 @@ The following sections or paragraphs each contain a collection of information re
 |   1926.1417   |   1218-0261   |
 |   1926.1423   |   1218-0261   |
 |   1926.1424   |   1218-0261   |
-|   1926.1427   |   1218-0261   |
+|   1926.1427   |   1218-0270   |
 |   1926.1428   |   1218-0261   |
 |   1926.1431   |   1218-0261   |
 |   1926.1433   |   1218-0261   |
@@ -107,4 +107,4 @@ The following sections or paragraphs each contain a collection of information re
 |   1926.1437   |   1218-0261   |
 |   1926.1441   |   1218-0261   |
 
-[61 FR 5509, Feb. 13, 1996, as amended at 63 FR 3814, Jan. 27, 1998; 63 FR 13340, Mar. 19, 1998; 63 FR 17094, Apr. 8, 1998; 64 FR 18810, Apr. 16, 1999; 71 FR 38086, July 5, 2006; 75 FR 68430, Nov. 8, 2010; 81 FR 48710, July 26, 2016; 81 FR 53268, Aug. 12, 2016; 83 FR 9703, Mar. 7, 2018]
+[61 FR 5509, Feb. 13, 1996, as amended at 63 FR 3814, Jan. 27, 1998; 63 FR 13340, Mar. 19, 1998; 63 FR 17094, Apr. 8, 1998; 64 FR 18810, Apr. 16, 1999; 71 FR 38086, July 5, 2006; 75 FR 68430, Nov. 8, 2010; 81 FR 48710, July 26, 2016; 81 FR 53268, Aug. 12, 2016; 83 FR 9703, Mar. 7, 2018; 84 FR 34785, July 19, 2019]

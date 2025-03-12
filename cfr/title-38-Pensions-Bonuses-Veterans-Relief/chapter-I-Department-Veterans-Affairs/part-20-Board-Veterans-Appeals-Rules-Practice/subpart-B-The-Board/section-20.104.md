@@ -1,4 +1,4 @@
-##### § 20.104 Rule 101. Jurisdiction of the Board. #####
+##### § 20.104 Rule 104. Jurisdiction of the Board. #####
 
 (a) *General.* All questions of law and fact necessary to a decision by the Secretary of Veterans Affairs under a law that affects the provision of benefits by the Secretary to veterans or their dependents or survivors are subject to review on appeal to the Secretary. Decisions in such appeals are made by the Board of Veterans' Appeals. Examples of the issues over which the Board has jurisdiction include, but are not limited to, the following:
 
@@ -70,4 +70,4 @@
 
 (2) *Application of 20.904 and 20.1305.* Section 20.904 of this part shall not apply to proceedings to determine the Board's own jurisdiction. However, the Board may remand a case to an agency of original jurisdiction in order to obtain assistance in securing evidence of jurisdictional facts. The time restrictions on requesting a hearing and submitting additional evidence in § 20.1305 of this part do not apply to a hearing requested, or evidence submitted, under paragraph (c) of this section.
 
-(Authority: 38 U.S.C. 511(a), 7104, 7105, 7108)[57 FR 4109, Feb. 3, 1992, as amended at 66 FR 53339, Oct. 22, 2001. Redesignated and amended at 84 FR 177, 180, Jan. 18, 2019]
+(Authority: 38 U.S.C. 511(a), 7104, 7105, 7108)[57 FR 4109, Feb. 3, 1992, as amended at 66 FR 53339, Oct. 22, 2001. Redesignated and amended at 84 FR 177, 180, Jan. 18, 2019; 84 FR 34788, July 19, 2019]

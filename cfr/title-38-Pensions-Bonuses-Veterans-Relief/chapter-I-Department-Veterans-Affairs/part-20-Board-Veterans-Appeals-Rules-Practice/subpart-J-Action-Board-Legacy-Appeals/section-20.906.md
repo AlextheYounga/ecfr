@@ -4,7 +4,7 @@
 
 (Authority: 38 U.S.C. 5103A(d), 7109)
 
-(b) *Joint Pathology Center.* The Board may refer pathologic material to the Joint Pathology Center and request an opinion based on that material.
+(b) *Joint Pathology Center opinions.* The Board may refer pathologic material to the Joint Pathology Center and request an opinion based on that material.
 
 (Authority: 38 U.S.C. 7109(a))
 
@@ -18,4 +18,4 @@
 
 (e) For purposes of this section, the term “the Board” includes the Chairman, the Vice Chairman, any Deputy Vice Chairman, and any Member of the Board before whom a case is pending.
 
-(Authority: 38 U.S.C. 5107(a), 7104(c), 7109)[57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20453, May 7, 1996; 66 FR 38159, July 23, 2001; 69 FR 19937, Apr. 15, 2004. Redesignated and amended at 84 FR 188, 190, Jan. 18, 2019]
+(Authority: 38 U.S.C. 5107(a), 7104(c), 7109)[57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20453, May 7, 1996; 66 FR 38159, July 23, 2001; 69 FR 19937, Apr. 15, 2004. Redesignated and amended at 84 FR 188, 190, Jan. 18, 2019; 84 FR 34788, July 19, 2019]

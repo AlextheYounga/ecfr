@@ -1,5 +1,7 @@
 ##### § 15.714 White space database administration fees. #####
 
+Link to an amendment published at 84 FR 34799, July 19, 2019.
+
 (a) A white space database administrator may charge a fee for provision of lists of available channels to fixed and personal/portable devices and for registering fixed devices. This provision applies to devices that operate in the TV bands, 600 MHz service band, and the 600 MHz guard bands and duplex gap.
 
 (b) A white space database administrator may charge a fee for provision of lists of available channels to wireless microphone users.

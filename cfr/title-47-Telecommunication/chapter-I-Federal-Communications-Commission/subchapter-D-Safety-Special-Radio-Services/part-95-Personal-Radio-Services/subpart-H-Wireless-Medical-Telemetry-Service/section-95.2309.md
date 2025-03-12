@@ -1,5 +1,7 @@
 ##### § 95.2309 WMTS frequency coordination. #####
 
+Link to an amendment published at 84 FR 34799, July 19, 2019.
+
 Operation of WMTS devices is subject to the frequency coordination procedures in this section.
 
 (a) *Frequency coordinators.* The FCC designates one or more frequency coordinators to manage WMTS use of the frequency bands designated for the operation of WMTS devices.

@@ -1,4 +1,4 @@
-##### § 20.711 Rule 713. Hearings in simultaneously contested claims. #####
+##### § 20.711 Rule 711. Hearings in simultaneously contested claims. #####
 
 (a) *General.* If a hearing is scheduled for any party to a simultaneously contested claim, the other contesting claimants and their representatives, if any, will be notified and afforded an opportunity to be present. The appellant will be allowed to present opening testimony and argument. Thereafter, any other contesting party who wishes to do so may present testimony and argument. The appellant will then be allowed an opportunity to present testimony and argument in rebuttal. Cross-examination will not be allowed.
 
@@ -10,4 +10,4 @@
 
 (3) A copy of any motion for a new hearing date required by these rules must be mailed to all other interested parties by certified mail, return receipt requested. The receipts, which must bear the signatures of the other interested parties, and a letter explaining that they relate to the motion for a new hearing date and containing the applicable Department of Veterans Affairs file number must be filed at the same address where the motion was filed as proof of service of the motion. Each interested party will be allowed a period of 10 days from the date that the copy of the motion was received by that party to file written argument in response to the motion.
 
-(Authority: 38 U.S.C. 7105A)[57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 187, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7105A)[57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 187, Jan. 18, 2019; 84 FR 34788, July 19, 2019]

@@ -1,5 +1,7 @@
 ##### § 15.707 Permissible channels of operation. #####
 
+Link to an amendment published at 84 FR 34796, July 19, 2019.
+
 (a)(1) All white space devices are permitted to operate on available channels in the frequency bands 470-698 MHz (TV channels 14-51), subject to the interference protection requirements in §§ 15.711 and 15.712, except as provided in paragraph (a)(2) of this section.
 
 (2) White space devices are not permitted to operate on the first channel above and below TV channel 37 (608-614 MHz) that are available (*i.e.,* not occupied by an authorized service) until June 23, 2017, but no later than release of the Channel Reassignment Public Notice upon completion of the broadcast television spectrum incentive auction, as defined in § 73.3700(a) of this chapter. If a channel is not available both above and below channel 37, operation is prohibited on the first two channels nearest to channel 37. These channels will be identified and protected in the white space database(s).
