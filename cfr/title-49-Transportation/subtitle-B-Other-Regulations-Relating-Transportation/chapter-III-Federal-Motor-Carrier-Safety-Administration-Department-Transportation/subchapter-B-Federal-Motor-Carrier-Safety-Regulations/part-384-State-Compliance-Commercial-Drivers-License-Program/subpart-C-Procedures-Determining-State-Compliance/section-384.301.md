@@ -1,7 +1,5 @@
 ##### § 384.301 Substantial compliance-general requirements. #####
 
-Link to an amendment published at 83 FR 48976, Sept. 28, 2018.
-
 (a) To be in substantial compliance with 49 U.S.C. 31311(a), a State must meet each and every standard of subpart B of this part by means of the demonstrable combined effect of its statutes, regulations, administrative procedures and practices, organizational structures, internal control mechanisms, resource assignments (facilities, equipment, and personnel), and enforcement practices.
 
 (b)(1) A State must come into substantial compliance with the requirements of subpart B of this part in effect as of September 30, 2002 as soon as practical, but, unless otherwise specifically provided in this part, not later than September 30, 2005.
@@ -26,4 +24,6 @@ Link to an amendment published at 83 FR 48976, Sept. 28, 2018.
 
 (k) A State must come into substantial compliance with the requirements of subpart B of this part and part 383 of this chapter in effect as of February 6, 2017, but not later than February 7, 2020.
 
-[67 FR 49763, July 31, 2002, as amended at 70 FR 56593, Sept. 28, 2005; 72 FR 36788, July 5, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 59135, Sept. 27, 2010; 76 FR 26896, May 9, 2011; 76 FR 39018, July 5, 2011; 76 FR 68332, Nov. 4, 2011; 76 FR 75486, Dec. 2, 2011; 78 FR 17882, Mar. 25, 2013; 80 FR 22812, Apr. 23, 2015; 81 FR 70646, Oct. 13, 2016; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018]
+(l) A State must come into substantial compliance with the requirements of subpart B of this part and part 383 of this chapter in effect as of November 27, 2018 as soon as practicable, but, unless otherwise specifically provided in this part, not later than November 27, 2021.
+
+[67 FR 49763, July 31, 2002, as amended at 70 FR 56593, Sept. 28, 2005; 72 FR 36788, July 5, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 59135, Sept. 27, 2010; 76 FR 26896, May 9, 2011; 76 FR 39018, July 5, 2011; 76 FR 68332, Nov. 4, 2011; 76 FR 75486, Dec. 2, 2011; 78 FR 17882, Mar. 25, 2013; 80 FR 22812, Apr. 23, 2015; 81 FR 70646, Oct. 13, 2016; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 48976, Sept. 28, 2018]

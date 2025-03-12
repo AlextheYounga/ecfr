@@ -1,5 +1,7 @@
 ##### § 90.209 Bandwidth limitations. #####
 
+Link to an amendment published at 83 FR 61096, Nov. 27, 2018.
+
 (a) Each authorization issued to a station licensed under this part will show an emission designator representing the class of emission authorized. The designator will be prefixed by a specified necessary bandwidth. This number does not necessarily indicate the bandwidth occupied by the emission at any instant. In those cases where § 2.202 of this chapter does not provide a formula for the computation of necessary bandwidth, the occupied bandwidth, as defined in part 2 of this chapter, may be used in lieu of the necessary bandwidth.
 
 (b) The maximum authorized single channel bandwidth of emission corresponding to the type of emission specified in § 90.207 is as follows:
@@ -16,23 +18,23 @@
 
 Standard Channel Spacing/Bandwidth
 
-|        Frequency band (MHz)        |Channel spacing (kHz)|Authorized bandwidth (kHz)|
-|------------------------------------|---------------------|--------------------------|
-|        Below 25<sup>2</sup>        |                     |                          |
-|               25-50                |         20          |            20            |
-|               72-76                |         20          |            20            |
-|              150-174               |   <sup>1</sup>7.5   |<sup>1 3</sup> 20/11.25/6 |
-|        216-220<sup>5</sup>         |        6.25         |        20/11.25/6        |
-|              220-222               |          5          |            4             |
-|        406-512<sup>2</sup>         |  <sup>1</sup> 6.25  |     1 3 6 20/11.25/6     |
-|          806-809/851-854           |        12.5         |            20            |
-|          809-824/854-869           |         25          |     <sup>6</sup> 20      |
-|          896-901/935-940           |        12.5         |           13.6           |
-|        902-928<sup>4</sup>         |                     |                          |
-|              929-930               |         25          |            20            |
-|       1427-1432<sup>5</sup>        |        12.5         |           12.5           |
-|<sup>3</sup> 2450-2483.5<sup>2</sup>|                     |                          |
-|       Above 2500<sup>2</sup>       |                     |                          |
+|        Frequency band (MHz)        |Channel spacing (kHz)|Authorized bandwidth (kHz) |
+|------------------------------------|---------------------|---------------------------|
+|        Below 25<sup>2</sup>        |                     |                           |
+|               25-50                |         20          |            20             |
+|               72-76                |         20          |            20             |
+|              150-174               |   <sup>1</sup>7.5   | <sup>1 3</sup> 20/11.25/6 |
+|        216-220<sup>5</sup>         |        6.25         |        20/11.25/6         |
+|              220-222               |          5          |             4             |
+|        406-512<sup>2</sup>         |  <sup>1</sup> 6.25  |<sup>1 3 6</sup> 20/11.25/6|
+|          806-809/851-854           |        12.5         |            20             |
+|          809-824/854-869           |         25          |      <sup>6</sup> 20      |
+|          896-901/935-940           |        12.5         |           13.6            |
+|        902-928<sup>4</sup>         |                     |                           |
+|              929-930               |         25          |            20             |
+|       1427-1432<sup>5</sup>        |        12.5         |           12.5            |
+|<sup>3</sup> 2450-2483.5<sup>2</sup>|                     |                           |
+|       Above 2500<sup>2</sup>       |                     |                           |
 
 <sup>1</sup> For stations authorized on or after August 18, 1995.
 

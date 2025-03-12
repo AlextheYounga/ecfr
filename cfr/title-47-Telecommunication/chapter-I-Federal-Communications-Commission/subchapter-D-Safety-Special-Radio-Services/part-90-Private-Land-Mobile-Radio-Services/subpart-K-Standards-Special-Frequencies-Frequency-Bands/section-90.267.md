@@ -1,5 +1,7 @@
 ##### § 90.267 Assignment and use of frequencies in the 450-470 MHz band for low power use. #####
 
+Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
+
 (a) The following frequencies between 450-470 MHz are designated for low-power use subject to the provisions of this section. For purposes of this section these frequencies are referred to as “low power frequencies.” Pairs are shown but single frequencies are available for simplex operations.
 
 (b) *Group A1 Frequencies.* The Industrial/Business Pool frequencies in Group A1 are available on a coordinated basis, pursuant to §§ 90.35(b)(2) and 90.175(b), as follows:

@@ -1,6 +1,6 @@
 ##### § 238.205 Anti-climbing mechanism. #####
 
-Link to an amendment published at 83 FR 59219, November 21, 2018.
+Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (a) Except as provided in paragraph (b) of this section, all passenger equipment placed in service for the first time on or after September 8, 2000, and prior to March 9, 2010, shall have at both the forward and rear ends an anti-climbing mechanism capable of resisting an upward or downward vertical force of 100,000 pounds without failure. All passenger equipment placed in service for the first time on or after March 9, 2010, shall have at both the forward and rear ends an anti-climbing mechanism capable of resisting an upward or downward vertical force of 100,000 pounds without permanent deformation. When coupled together in any combination to join two vehicles, AAR Type H and Type F tight-lock couplers satisfy the requirements of this paragraph (a).
 

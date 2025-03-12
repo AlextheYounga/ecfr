@@ -1,6 +1,6 @@
 ##### § 238.111 Pre-revenue service acceptance testing plan. #####
 
-Link to an amendment published at 83 FR 59218, November 21, 2018.
+Link to an amendment published at 83 FR 59218, Nov. 21, 2018.
 
 (a) *Passenger equipment that has previously been used in revenue service in the United States.* For passenger equipment that has previously been used in revenue service in the United States, each railroad shall test the equipment on its system prior to placing such equipment in revenue service for the first time on its railroad to ensure the compatibility of the equipment with the railroad's operating system (including the track, and signal system). A description of such testing shall be retained by the railroad and made available to FRA for inspection and copying upon request. For purposes of this paragraph, passenger equipment that has previously been used in revenue service in the United States means:
 

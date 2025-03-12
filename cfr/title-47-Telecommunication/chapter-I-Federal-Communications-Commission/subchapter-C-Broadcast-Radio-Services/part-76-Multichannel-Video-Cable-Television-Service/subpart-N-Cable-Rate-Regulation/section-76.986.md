@@ -1,5 +1,7 @@
 ##### § 76.986 “A la carte” offerings. #####
 
+Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
+
 (a) Collective offerings of unregulated per-channel or per-program (“a la carte”) video programming shall be regulated as CPSTs pursuant to § 76.922. For purposes of this section, “multiplexed” channels shall be treated as one channel.
 
 (b) A discounted package price offered by a cable system is not unreasonable with respect to any collective offering of channels if the component channels' collective offering also have been continuously available on the system on a per channel basis since April 1, 1993.

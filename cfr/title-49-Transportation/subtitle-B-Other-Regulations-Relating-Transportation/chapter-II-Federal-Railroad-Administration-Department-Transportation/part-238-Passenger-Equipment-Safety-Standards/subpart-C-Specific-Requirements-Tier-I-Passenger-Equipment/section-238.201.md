@@ -1,6 +1,6 @@
 ##### § 238.201 Scope/alternative compliance. #####
 
-Link to an amendment published at 83 FR 59219, November 21, 2018.
+Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (a) *Scope.* (1) This subpart contains requirements for railroad passenger equipment operating at speeds not exceeding 125 miles per hour. As stated in § 238.229, all such passenger equipment remains subject to the safety appliance requirements contained in Federal statute at 49 U.S.C. chapter 203 and in FRA regulations at part 231 and § 232.2 of this chapter. Unless otherwise specified, these requirements only apply to passenger equipment ordered on or after September 8, 2000 or placed in service for the first time on or after September 9, 2002.
 

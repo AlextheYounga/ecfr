@@ -1,5 +1,7 @@
 ##### § 90.613 Frequencies available. #####
 
+Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
+
 The following table indicates the channel designations of frequencies available for assignment to eligible applicants under this subpart. Frequencies shall be assigned in pairs, with mobile and control station transmitting frequencies taken from the 806-824 MHz band with corresponding base station frequencies being 45 MHz higher and taken from the 851-869 MHz band, or with mobile and control station frequencies taken from the 896-901 MHz band with corresponding base station frequencies being 39 MHz higher and taken from the 935-940 MHz band. Only the base station transmitting frequency of each pair is listed in the following tables.
 
 Table of 806-824/851-869 MHz Channel Designations

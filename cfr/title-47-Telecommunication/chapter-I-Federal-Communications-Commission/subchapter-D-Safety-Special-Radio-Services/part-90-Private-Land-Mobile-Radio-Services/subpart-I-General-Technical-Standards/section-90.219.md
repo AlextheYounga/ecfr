@@ -1,5 +1,7 @@
 ##### § 90.219 Use of signal boosters. #####
 
+Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
+
 This section contains technical and operational rules allowing the use of signal boosters in the Private Land Mobile Radio Services (PLMRS). Rules for signal booster operation in the Commercial Mobile Radio Services under part 90 are found in § 20.21 of this chapter.
 
 (a) *Definitions.* The definitions in this paragraph apply only to the rules in this section.

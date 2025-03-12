@@ -1,5 +1,7 @@
 ##### § 90.619 Operations within the U.S./Mexico and U.S./Canada border areas. #####
 
+Link to an amendment published at 83 FR 61104, Nov. 27, 2018.
+
 (a) *Use of frequencies in 800 MHz band in Mexico border region.* All operations in the 806-824/851-869 MHz band within 110 km (68.35 miles) of the U.S./Mexico border (“Sharing Zone”) shall be in accordance with international agreements between the U.S. and Mexico.
 
 (1) The U.S. and Mexico divide primary access to channels in the Sharing Zone as indicated in Table A1 below.

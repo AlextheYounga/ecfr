@@ -18,7 +18,7 @@
 
 (2) [Reserved]
 
-(c) *What should Project Applicants include when preparing a Marine Highway Project designation application?* (1) The market or customer base to be served by the service and the service's value proposition to customers. This includes -
+(c) *What should Project Applicants include when preparing a Marine Highway Project designation application?* (1) The market or customer base to be served by the service and the service's value proposition to customers. This includes—
 
 (i) A description of how the market is currently served by transportation options;
 
@@ -40,7 +40,7 @@
 
 (6) *Organization.* Provide the organizational structure of the proposed project, including an outline of the business affiliations, environmental, non-profit organizations and governmental or private sector stakeholders.
 
-(7) *Partnerships:* - (i) *Private sector partners.* Identify private sector partners and describe their levels of commitment to the proposed service. Private sector partners can include terminals, vessel operators, shipyards, shippers, trucking companies, railroads, third-party logistics providers, shipping lines, labor, workforce and other entities deemed appropriate by the Secretary.
+(7) *Partnerships:*—(i) *Private sector partners.* Identify private sector partners and describe their levels of commitment to the proposed service. Private sector partners can include terminals, vessel operators, shipyards, shippers, trucking companies, railroads, third-party logistics providers, shipping lines, labor, workforce and other entities deemed appropriate by the Secretary.
 
 (ii) *Public sector partners.* Identify State Departments of Transportation, metropolitan planning organizations, municipalities and other governmental entities, including tribal entities, that Project Applicants have engaged and the extent to which they support the service. Include any affiliations with environmental groups or civic associations.
 
@@ -96,9 +96,7 @@
 
 (f) *How will the Department protect confidential information?* (1) If your application, including attachments, includes information that you consider to be a trade secret or confidential commercial or financial information, or otherwise exempt from disclosure under the Freedom of Information Act (5 U.S.C. 552), as implemented by the Department at 49 CFR part 7, you may assert a claim of confidentiality.
 
-(2) *What should I do if I believe my Project designation application contains confidential or business sensitive information?*
-
-(i) Note on the front cover that the submission “Contains Confidential Business Information (CBI);”
+(2) *What should I do if I believe my Project designation application contains confidential or business sensitive information?* (i) Note on the front cover that the submission “Contains Confidential Business Information (CBI);”
 
 (ii) Mark each affected page “CBI;” and
 
@@ -112,7 +110,7 @@
 
 (h) *What does the Program Office do to ensure designated projects are developing properly?* (1) Once designated projects enter the operational phase (either start of a new service, or expansion of existing service), the Program Office will evaluate them regularly to determine if the project is likely to achieve its objectives.
 
-(2) Overall project performance will be assessed according to three categories - exceeds, meets, or does not meet original projections - in each of the three areas defined below:
+(2) Overall project performance will be assessed according to three categories—exceeds, meets, or does not meet original projections—in each of the three areas defined below:
 
 (i) *Public benefit.* Does the Project meet the stated goals in shifting specific numbers of vehicles (number of trucks, rail cars or automobiles) off the designated landside routes? The Program Office will assume other public benefits, including energy savings, reduced emissions, and safety improvements to be a direct derivative of either numbers of vehicles reduced, or vehicle/ton miles avoided, unless specific factors change (such as a change in vessel fuel or emissions).
 

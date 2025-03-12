@@ -1,5 +1,7 @@
 ##### § 76.987 New product tiers. #####
 
+Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
+
 (a) Operators may establish a category of CPSTs, referred to as “new product tiers” (“NPTs”), and offer these tiers to subscribers at prices they elect.
 
 (b) In order to be eligible to offer NPTs, cable operators must meet the following conditions:

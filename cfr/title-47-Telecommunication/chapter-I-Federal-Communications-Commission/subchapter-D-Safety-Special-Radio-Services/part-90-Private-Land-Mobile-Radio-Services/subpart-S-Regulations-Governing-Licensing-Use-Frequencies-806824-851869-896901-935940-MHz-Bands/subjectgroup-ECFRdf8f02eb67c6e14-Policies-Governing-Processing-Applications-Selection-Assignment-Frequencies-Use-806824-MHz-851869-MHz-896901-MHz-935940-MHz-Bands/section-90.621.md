@@ -1,5 +1,7 @@
 ##### § 90.621 Selection and assignment of frequencies. #####
 
+Link to an amendment published at 83 FR 61106, Nov. 27, 2018.
+
 (a) Applicants for frequencies in the Public Safety and Business/Industrial/Land Transportation Categories must specify on the application the frequencies on which the proposed system will operate pursuant to a recommendation by the applicable frequency coordinator. Applicants for frequencies in the SMR Category must request specific frequencies by including in their applications the frequencies requested.
 
 (1) For trunked systems, the assignment of frequencies will be made in accordance with applicable loading criteria and in accordance with the following:

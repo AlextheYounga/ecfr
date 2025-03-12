@@ -1,6 +1,6 @@
 ##### § 238.209 Forward end structure of locomotives, including cab cars and MU locomotives. #####
 
-Link to an amendment published at 83 FR 59219, November 21, 2018.
+Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (a)(1) The skin covering the forward-facing end of each locomotive, including a cab car and an MU locomotive, shall be:
 

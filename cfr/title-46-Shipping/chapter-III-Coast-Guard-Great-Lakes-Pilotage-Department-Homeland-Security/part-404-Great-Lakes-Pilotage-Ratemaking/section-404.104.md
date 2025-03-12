@@ -6,4 +6,4 @@
 
 (c) The Director determines each pilotage association's total target pilot compensation by multiplying individual target pilot compensation computed in paragraph (a) or (b) of this section by the number of pilots projected under § 404.103(d) or § 401.220(a) of this chapter, whichever is lower.
 
-[83 FR 26193, June 5, 2018]
+[USCG-2017-0903, 83 FR 26193, June 5, 2018]

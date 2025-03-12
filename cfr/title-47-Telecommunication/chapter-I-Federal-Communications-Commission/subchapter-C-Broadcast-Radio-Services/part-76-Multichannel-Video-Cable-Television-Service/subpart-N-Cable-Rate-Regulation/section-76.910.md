@@ -1,5 +1,7 @@
 ##### § 76.910 Franchising authority certification. #####
 
+Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
+
 (a) A franchising authority must be certified by the Commission in order to regulate the basic service tier and associated equipment of a cable system within its jurisdiction.
 
 (b) To be certified, the franchising authority must file with the Commission a written certification that:

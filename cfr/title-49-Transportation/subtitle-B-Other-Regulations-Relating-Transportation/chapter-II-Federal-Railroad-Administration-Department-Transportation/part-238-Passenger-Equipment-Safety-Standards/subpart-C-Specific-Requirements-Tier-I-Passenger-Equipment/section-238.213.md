@@ -1,6 +1,6 @@
 ##### § 238.213 Corner posts. #####
 
-Link to an amendment published at 83 FR 59219, November 21, 2018.
+Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (a)(1) Except as further specified in paragraphs (b) and (c) of this section and § 238.209(b), each passenger car shall have at each end of the car, placed ahead of the occupied volume, two full-height corner posts, each capable of resisting together with its supporting car body structure:
 

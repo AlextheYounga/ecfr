@@ -1,5 +1,7 @@
 ##### § 90.615 Individual channels available in the General Category in 806-824/851-869 MHz band. #####
 
+Link to an amendment published at 83 FR 61100, Nov. 27, 2018.
+
 The General Category will consist of channels 231-260 and 511-550 at locations farther then 110 km (68.4 miles) from the U.S./Mexico border and 140 km (87 miles) from the U.S./Canadian border. All entities will be eligible for licensing on these channels except as described in paragraphs (a) and (b) of this section.
 
 (a) In a given 800 MHz NPSPAC region, any channel in the 231-260 range which is vacated by a licensee relocating to channels 551-830 and which remains vacant after band reconfiguration will be available as follows:

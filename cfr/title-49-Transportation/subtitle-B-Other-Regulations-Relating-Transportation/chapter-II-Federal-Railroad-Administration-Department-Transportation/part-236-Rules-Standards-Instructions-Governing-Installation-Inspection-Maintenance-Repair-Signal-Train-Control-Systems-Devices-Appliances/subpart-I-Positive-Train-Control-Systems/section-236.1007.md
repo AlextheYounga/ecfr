@@ -1,6 +1,6 @@
 ##### § 236.1007 Additional requirements for high-speed service. #####
 
-Link to an amendment published at 83 FR 59218, November 21, 2018.
+Link to an amendment published at 83 FR 59218, Nov. 21, 2018.
 
 (a) A PTC railroad that conducts a passenger operation at or greater than 60 miles per hour or a freight operation at or greater than 50 miles per hour shall have installed a PTC system including or working in concert with technology that includes all of the safety-critical functional attributes of a block signal system meeting the requirements of this part, including appropriate fouling circuits and broken rail detection (or equivalent safeguards).
 

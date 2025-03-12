@@ -1,5 +1,7 @@
 ##### § 76.923 Rates for equipment and installation used to receive the basic service tier. #####
 
+Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
+
 (a) *Scope.* (1) The equipment regulated under this section consists of all equipment in a subscriber's home, provided and maintained by the operator, that is used to receive the basic service tier, regardless of whether such equipment is additionally used to receive other tiers of regulated programming service and/or unregulated service. Such equipment shall include, but is not limited to:
 
 (i) Converter boxes;

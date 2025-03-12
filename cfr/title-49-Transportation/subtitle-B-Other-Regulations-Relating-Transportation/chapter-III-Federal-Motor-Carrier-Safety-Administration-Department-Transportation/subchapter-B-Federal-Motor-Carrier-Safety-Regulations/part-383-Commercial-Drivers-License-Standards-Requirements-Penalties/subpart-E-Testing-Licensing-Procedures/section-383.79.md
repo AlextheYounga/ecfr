@@ -1,31 +1,35 @@
-##### § 383.79 Skills testing of out-of-State students; Knowledge and skills testing of military personnel. #####
+##### § 383.79 Driving skills testing of out-of-State students; knowledge and driving skills testing of military personnel. #####
 
-Link to an amendment published at 83 FR 48976, Sept. 28, 2018.
+(a) *CDL applicants trained out-of-State*—(1) *State that administers the driving skills test.* A State may administer its driving skills test, in accordance with subparts F, G, and H of this part, to a person who has taken training in that State and is to be licensed in another United States jurisdiction (*i.e.,* his or her State of domicile). Such test results must be transmitted electronically directly from the testing State to the licensing State in a direct, efficient and secure manner.
 
-(a) *CDL applicants trained out-of-State* - (1) *State that administers the skills test.* A State may administer its skills test, in accordance with subparts F, G, and H of this part, to a person who has taken training in that State and is to be licensed in another United States jurisdiction (*i.e.,* his or her State of domicile). Such test results must be transmitted electronically directly from the testing State to the licensing State in an efficient and secure manner.
+(2) *The State of domicile.* The State of domicile of a CDL applicant must accept the results of a driving skills test administered to the applicant by any other State, in accordance with subparts F, G, and H of this part, in fulfillment of the applicant's testing requirements under § 383.71, and the State's test administration requirements under § 383.73.
 
-(2) *The State of domicile.* The State of domicile of a CDL applicant must accept the results of a skills test administered to the applicant by any other State, in accordance with subparts F, G, and H of this part, in fulfillment of the applicant's testing requirements under § 383.71, and the State's test administration requirements under § 383.73.
+(b) *Active duty military service members.* An active-duty military service member may apply for a CLP or a CDL in the State where the individual is stationed but not domiciled if the requirements of this section are met.
 
-*(b) Military service member applicants for a CLP or CDL* - (1) *State of duty station.* A State where active duty military service members are stationed, but not domiciled, may:
+(1) *Role of State of duty station.* (i) Upon prior agreement with the State of domicile, a State where active-duty military service members are stationed, but not domiciled, may accept an application for a CLP or CDL, including an application for waiver of the knowledge test or driving skills test prescribed in §§ 383.23(a)(1) and 383.25(a)(3), from such a military service member who:
 
-(i) Accept an application for a CLP or CDL from such a military service member who has
+(A) Is regularly employed or was regularly employed within the last year in a military position requiring operation of a CMV;
 
-(A) A valid driver's license from his or her State of domicile,
+(B) Has a valid driver's license from his or her State of domicile;
 
-(B) A valid active duty military identification card, and
+(C) Has a valid active-duty military identification card; and
 
-(C) A current copy of either the service member's military leave and earnings statement or his or her orders;
+(D) Has a current copy of either the service member's military leave and earnings statement, or his or her orders.
 
-(ii) Administer the knowledge and skills tests to the military service member, as appropriate, in accordance with subparts F, G, and H of this part, or waive the skills test in accordance with § 383.77; and
+(ii) A State where active-duty military service members are stationed, but not domiciled, may:
 
-(iii) Destroy a driver's license on behalf of the State of domicile, unless the latter requires the license to be surrendered to its own driver licensing agency.
+(A) Administer the knowledge and driving skills tests to the military service member, as appropriate, in accordance with subparts F, G, and H of this part, if the State of domicile requires those tests; or
 
-(2) *Electronic transmission of the application and test results.* The State of duty station must transmit the completed application, the results of knowledge and skills tests, and any supporting documents, by a direct, secure, and efficient electronic system.
+(B) Waive the knowledge and driving skills tests in accordance with § 383.77, if the State of domicile has exercised the option to waive those tests; and
 
-(3) *State of domicile.* Upon completion of the applicant's application and testing requirements under § 383.71, and the State's test administration requirements under § 383.73, the State of domicile of the military service member applying for a CLP or CDL may
+(C) Destroy the military service member's civilian driver's license on behalf of the State of domicile, unless the latter requires the driver's license to be surrendered to its own driver licensing agency.
 
-(i) Accept the completed application; the results of knowledge and skills tests administered to the applicant by the State where he or she is currently stationed, or the notice of the waiver of the skills test, as authorized by paragraph (b)(1)(ii) of this section; and any supporting documents; and
+(iii) The State of duty station must transmit to the State of domicile by a direct, secure, and efficient electronic system the completed application, any supporting documents, and—if the State of domicile has not exercised its waiver option—the results of any knowledge and driving skills administered.
+
+(2) *Role of State of domicile.* Upon completion of the applicant's application pursuant to § 383.71 and any testing administered by the State of duty station pursuant to §§ 383.71 and 383.73, the State of domicile of the military service member applying for a CLP or CDL may:
+
+(i) Accept the completed application, any supporting documents, and the results of the knowledge and driving skills tests administered by the State of duty station (unless waived at the discretion of the State of domicile); and
 
 (ii) Issue the applicant a CLP or CDL.
 
-[81 FR 70646, Oct. 13, 2016]
+[83 FR 48976, Sept. 28, 2018]

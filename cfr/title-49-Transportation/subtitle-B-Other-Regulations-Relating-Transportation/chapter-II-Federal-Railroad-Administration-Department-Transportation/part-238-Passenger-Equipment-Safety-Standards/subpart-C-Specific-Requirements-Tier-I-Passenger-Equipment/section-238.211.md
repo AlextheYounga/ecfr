@@ -1,6 +1,6 @@
 ##### § 238.211 Collision posts. #####
 
-Link to an amendment published at 83 FR 59219, November 21, 2018.
+Link to an amendment published at 83 FR 59219, Nov. 21, 2018.
 
 (a) Except as further specified in this paragraph, paragraphs (b) through (d) of this section, and § 238.209(b) -
 

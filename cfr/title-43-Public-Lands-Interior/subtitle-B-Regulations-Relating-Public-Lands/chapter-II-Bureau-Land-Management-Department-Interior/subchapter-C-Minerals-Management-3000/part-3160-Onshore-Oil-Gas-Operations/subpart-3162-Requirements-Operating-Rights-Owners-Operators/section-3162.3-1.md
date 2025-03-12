@@ -1,7 +1,5 @@
 ##### § 3162.3-1 Drilling applications and plans. #####
 
-Link to an amendment published at 83 FR 49211, Sept. 28, 2018.
-
 (a) Each well shall be drilled in conformity with an acceptable well-spacing program at a surveyed well location approved or prescribed by the authorized officer after appropriate environmental and technical reviews (see § 3162.5-1 of this title). An acceptable well-spacing program may be either (1) one which conforms with a spacing order or field rule issued by a State Commission or Board and accepted by the authorized officer, or (2) one which is located on a lease committed to a communitized or unitized tract at a location approved by the authorized officer, or (3) any other program established by the authorized officer.
 
 (b) Any well drilled on restricted Indian land shall be subject to the location restrictions specified in the lease and/or Title 25 of the CFR.
@@ -36,46 +34,4 @@ The surface use plan of operations for National Forest System lands shall be app
 
 (i) Approval of the Application for Permit to Drill does not warrant or certify that the applicant holds legal or equitable title to the subject lease(s) which would entitle the applicant to conduct drilling operations.
 
-(j) Beginning January 17, 2019, when submitting an Application for Permit to Drill an oil well, the operator must also submit a plan to minimize waste of natural gas from that well. The waste minimization plan must accompany, but would not be part of, the Application for Permit to Drill. The waste minimization plan must set forth a strategy for how the operator will comply with the requirements of 43 CFR subpart 3179 regarding control of waste from venting and flaring, and must explain how the operator plans to capture associated gas upon the start of oil production, or as soon thereafter as reasonably possible, including an explanation of why any delay in capture of the associated gas would be required. Failure to submit a complete and adequate waste minimization plan is grounds for denying or disapproving an Application for Permit to Drill. The waste minimization plan must include the following information:
-
-(1) The anticipated completion date of the proposed well(s);
-
-(2) A description of anticipated production, including:
-
-(i) The anticipated date of first production;
-
-(ii) The expected oil and gas production rates and duration from the proposed well. If the proposed well is on a multi-well pad, the plan should include the total expected production for all wells being completed;
-
-(iii) The expected production decline curve of both oil and gas from the proposed well; and
-
-(iv) The expected Btu value for gas production from the proposed well.
-
-(3) Certification that the operator has provided one or more midstream processing companies with information about the operator's production plans, including the anticipated completion dates and gas production rates of the proposed well or wells;
-
-(4) Identification of a gas pipeline to which the operator plans to connect, with sufficient capacity to accommodate the anticipated production of the proposed well(s), and information on the pipeline, including, to the extent that the operator can obtain it, the following information:
-
-(i) Maximum current daily capacity of the pipeline;
-
-(ii) Current throughput of the pipeline;
-
-(iii) Anticipated daily capacity of the pipeline at the anticipated date of first gas sales from the proposed well;
-
-(iv) Anticipated throughput of the pipeline at the anticipated date of first gas sales from the proposed well; and
-
-(v) Any plans known to the operator for expansion of pipeline capacity for the area that includes the proposed well; and
-
-(5) If an operator cannot identify a gas pipeline with sufficient capacity to accommodate the anticipated production of the proposed well(s), the waste minimization plan must also include:
-
-(i) A gas pipeline system location map of sufficient detail, size, and scale as to show the field in which the proposed well will be located, and all existing gas trunklines within 20 miles of the well. The map should also contain:
-
-(A) The name and location of the gas processing plant(s) closest to the proposed well(s), and of the intended destination processing plant, if different;
-
-(B) The location and name of the operator of each gas trunkline within 20 miles of the proposed well;
-
-(C) The proposed route and tie-in point that connects or could connect the subject well to an existing gas trunkline;
-
-(ii) The total volume of produced gas, and percentage of total produced gas, that the operator is currently flaring or venting from wells in the same field and any wells within a 20-mile radius of that field; and
-
-(iii) A detailed evaluation, including estimates of costs and returns, of opportunities for on-site capture approaches, such as compression or liquefaction of natural gas, removal of natural gas liquids, or generation of electricity from gas.
-
-[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 52 FR 5391, Feb. 20, 1987; 53 FR 17363, May 16, 1988; 53 FR 22846, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 83078, Nov. 18, 2016; 82 FR 58072, Dec. 8, 2017]
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 52 FR 5391, Feb. 20, 1987; 53 FR 17363, May 16, 1988; 53 FR 22846, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 83078, Nov. 18, 2016; 82 FR 58072, Dec. 8, 2017; 83 FR 49211, Sept. 28, 2018]

@@ -1,5 +1,7 @@
 ##### § 76.901 Definitions. #####
 
+Link to an amendment published at 83 FR 60775, Nov. 27, 2018.
+
 (a) *Basic service.* The basic service tier shall, at a minimum, include all signals of domestic television broadcast stations provided to any subscriber (except a signal secondarily transmitted by satellite carrier beyond the local service area of such station, regardless of how such signal is ultimately received by the cable system) any public, educational, and governmental programming required by the franchise to be carried on the basic tier, and any additional video programming signals a service added to the basic tier by the cable operator.
 
 (b) *Cable programming service.* Cable programming service includes any video programming provided over a cable system, regardless of service tier, including installation or rental of equipment used for the receipt of such video programming, other than:

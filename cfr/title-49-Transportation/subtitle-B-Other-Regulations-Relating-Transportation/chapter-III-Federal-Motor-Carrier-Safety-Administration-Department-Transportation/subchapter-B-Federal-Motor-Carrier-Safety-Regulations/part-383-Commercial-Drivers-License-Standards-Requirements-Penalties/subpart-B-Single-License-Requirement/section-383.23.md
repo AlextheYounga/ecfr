@@ -1,8 +1,6 @@
 ##### § 383.23 Commercial driver's license. #####
 
-Link to an amendment published at 83 FR 48975, Sept. 28, 2018.
-
-(a) *General rule.* (1) No person shall operate a commercial motor vehicle unless such person has taken and passed written and driving tests for a CLP or CDL that meet the Federal standards contained in subparts F, G, and H of this part for the commercial motor vehicle that person operates or expects to operate.
+(a) *General rule.* (1) No person shall operate a CMV unless such person has taken and passed knowledge and driving skills tests for a CLP or CDL that meet the Federal standards contained in subparts F, G, and H of this part for the CMV that person operates or expects to operate.
 
 (2) Except as provided in paragraph (b) of this section, no person may legally operate a CMV unless such person possesses a CDL which meets the standards contained in subpart J of this part, issued by his/her State or jurisdiction of domicile.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 83 FR 48975, Sept. 28, 2018.
 
 (3) If an individual possesses a CLP, as defined in § 383.5, the individual is authorized to operate a class of CMV as provided by the CLP in accordance with § 383.25.
 
-[76 FR 26878, May 9, 2011, as amended at 83 FR 22875, May 17, 2018]
+[76 FR 26878, May 9, 2011, as amended at 83 FR 22875, May 17, 2018; 83 FR 48975, Sept. 28, 2018]
