@@ -1,7 +1,5 @@
 ##### § 158.240 Rebating premium if the applicable medical loss ratio standard is not met. #####
 
-Link to an amendment published at 86 FR 24294, May 5, 2021.
-
 (a) *General requirement.* For each MLR reporting year, an issuer must provide a rebate to each enrollee if the issuer's MLR does not meet or exceed the minimum percentage required by §§ 158.210 and 158.211 of this subpart.
 
 (b) *Definition of enrollee for purposes of rebate.* For the sole purpose of determining whom is entitled to receive a rebate pursuant to this part, the term “enrollee” means the subscriber, policyholder, and/or government entity that paid the premium for health care coverage received by an individual during the respective MLR reporting year.
@@ -16,4 +14,6 @@ Link to an amendment published at 86 FR 24294, May 5, 2021.
 
 (f) *Late payment interest.* An issuer that fails to pay any rebate owing to an enrollee or subscriber in accordance with paragraph (e) of this section or to take other required action within the time periods set forth in this part must, in addition to providing the required rebate to the enrollee, pay the enrollee interest at the current Federal Reserve Board lending rate or ten percent annually, whichever is higher, on the total amount of the rebate, accruing from the date payment was due under paragraph (e) of this section.
 
-[75 FR 74921, Dec. 1, 2010, as amended at 78 FR 15540, Mar. 11, 2013; 79 FR 13842, Mar. 11, 2014; 81 FR 94183, Dec. 22, 2016]
+(g) *Rebate prepayment and safe harbor.* An issuer may choose to pay a portion or all of its estimated rebate amount for a given MLR reporting year to enrollees in any form specified in § 158.241 prior to the rebate payment deadlines set forth in §§ 158.240(e) and 158.241(a)(2) and in advance of submitting the MLR report required in § 158.110 to the Secretary. Issuers that choose to prepay a portion or all of their rebates must do so for all eligible enrollees in a given state and market in a non-discriminatory manner, and consistently with State law or other applicable state authority. If, after submitting the MLR report required in § 158.110, an issuer determines that its rebate prepayment amount in a given state and market is at least 95 percent, but less than 100 percent, of the total rebate amount owed for the applicable MLR reporting year to enrollees in that state and market, the issuer may, without penalty or late payment interest under paragraph (f) of this section, provide the remaining rebate amount to those enrollees no later than the rebate deadlines in §§ 158.240(e) and 158.241(a)(2) applicable to the following MLR reporting year. If the total rebate owed to an enrollee for the MLR reporting year is above the *de minimis* threshold established in § 158.243(a), the issuer cannot treat the remaining rebate owed to an enrollee after prepayment as *de minimis,* even if the remaining rebate is below the *de minimis* threshold.
+
+[75 FR 74921, Dec. 1, 2010, as amended at 78 FR 15540, Mar. 11, 2013; 79 FR 13842, Mar. 11, 2014; 81 FR 94183, Dec. 22, 2016; 86 FR 24294, May 5, 2021]

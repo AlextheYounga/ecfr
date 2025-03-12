@@ -1,0 +1,5 @@
+##### § 182.41 Applicability. #####
+
+This subpart sets forth the provisions regarding drawback claims and duty-deferral programs under Article 2.5 of the USMCA and applies to any good that is a “good subject to USMCA drawback” within the meaning of 19 U.S.C. 4534. The provisions of this subpart apply to goods which are entered for consumption, or withdrawn from warehouse for consumption, into the United States on or after July 1, 2020. The requirements and procedures set forth in this subpart for USMCA drawback are in addition to the general definitions, requirements, and procedures for all drawback claims set forth in part 190 of this chapter, unless otherwise specifically provided in this subpart. Also, the requirements and procedures set forth in this subpart for USMCA duty-deferral programs are in addition to the requirements and procedures for manipulation, manufacturing, and smelting and refining warehouses contained in part 19 and part 144 of this chapter, for foreign trade zones under part 146 of this chapter, and for temporary importations under bond contained in part 10 of this chapter.
+
+[CBP Dec. 21-10, 86 FR 35587, July 6, 2021]

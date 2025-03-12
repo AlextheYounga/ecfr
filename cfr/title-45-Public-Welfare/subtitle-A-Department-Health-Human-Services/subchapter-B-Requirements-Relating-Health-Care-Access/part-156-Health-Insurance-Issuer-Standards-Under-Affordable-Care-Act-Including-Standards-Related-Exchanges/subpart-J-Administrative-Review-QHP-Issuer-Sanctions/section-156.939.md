@@ -1,0 +1,5 @@
+##### § 156.939 Effect of submission of proposed hearing exhibits. #####
+
+(a) Any proposed hearing exhibit submitted by a party in accordance with § 156.937 is deemed part of the record unless the opposing party raises an objection to that exhibit and the ALJ rules to exclude it from the record. An objection must be raised either in writing prior to the prehearing conference provided for in § 156.941 or at the prehearing conference. The ALJ may require a party to submit the original hearing exhibit on his or her own motion or in response to a challenge to the authenticity of a proposed hearing exhibit.
+
+(b) A party may introduce a proposed hearing exhibit following the times for submission specified in § 156.937 only if the party establishes to the satisfaction of the ALJ that it could not have produced the exhibit earlier and that the opposing party will not be prejudiced.

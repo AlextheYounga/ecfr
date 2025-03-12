@@ -1,6 +1,6 @@
 ##### § 190.51 Completion of drawback claims. #####
 
-(a) *General* - (1) *Complete claim.* Unless otherwise specified, a complete drawback claim under this part will consist of the successful electronic transmission to CBP of the drawback entry (as described in paragraph (a)(2) of this section), applicable Notice(s) of Intent to Export, Destroy, or Return Merchandise for Purposes of Drawback on CBP Form 7553, applicable import entry data, and evidence of exportation or destruction as provided for under subpart G of this part.
+(a) *General*—(1) *Complete claim.* Unless otherwise specified, a complete drawback claim under this part will consist of the successful electronic transmission to CBP of the drawback entry (as described in paragraph (a)(2) of this section), applicable Notice(s) of Intent to Export, Destroy, or Return Merchandise for Purposes of Drawback on CBP Form 7553, applicable import entry data, and evidence of exportation or destruction as provided for under subpart G of this part.
 
 (2) *Drawback entry.* The drawback entry is to be filed through a CBP-authorized electronic system and must include the following:
 
@@ -40,7 +40,7 @@
 
 (xiv) For substitution unused merchandise drawback claims under 19 U.S.C. 1313(j)(2), a certification from the claimant that provides as follows: “The undersigned hereby certifies that the substituted merchandise is unused in the United States and that the substituted merchandise was in our possession prior to exportation or destruction.”;
 
-(xv) For NAFTA drawback claims provided for in subpart E of part 181, the foreign entry number and date of entry, the HTSUS classification for the foreign entry, the amount of duties paid for the foreign entry and the applicable exchange rate, and, if applicable, a certification from the claimant that provides as follows: “Same condition to NAFTA countries - The undersigned certifies that the merchandise herein described is in the same condition as when it was imported under the above import entry(s) and further certifies that this merchandise was not subjected to any process of manufacture or other operation except the allowable operations as provided for by regulation.”; and
+(xv) For NAFTA and USMCA drawback claims provided for in subpart E of parts 181 and 182, the foreign entry number and date of entry, the HTSUS classification for the foreign entry, the amount of duties paid for the foreign entry and the applicable exchange rate, and, if applicable, a certification from the claimant that provides as follows: “Same condition—The undersigned certifies that the merchandise herein described is in the same condition as when it was imported under the above import entry(s) and further certifies that this merchandise was not subjected to any process of manufacture or other operation except the allowable operations as provided for by regulation.”; and
 
 (xvi) All certifications required in this part and as otherwise deemed necessary by CBP to establish compliance with the applicable laws and regulations, as well as the following declaration: “The undersigned acknowledges statutory requirements that all records supporting the information on this document are to be retained by the issuing party for a period of 3 years from the date of liquidation of the drawback claim. All required documentation that must be uploaded in accordance with 19 CFR 190.51 will be provided to CBP within 24 hours of the filing of the drawback claim. The undersigned acknowledges that a false certification of the foregoing renders the drawback claim incomplete and subject to denial. The undersigned is fully aware of the sanctions provided in 18 U.S.C. 1001, and 18 U.S.C. 550, and 19 U.S.C. 1593a.”
 
@@ -48,7 +48,7 @@
 
 (4) *Limitation on line item eligibility for imported merchandise.* Claimants filing substitution drawback claims under part 190 for imported merchandise associated with a line item on an entry summary if any other merchandise covered on that entry summary has been designated as the basis of a claim under part 191 must provide additional information enabling CBP to verify the availability of drawback for the indicated merchandise and associated line item within 30 days of claim submission. The information to be provided will include, but is not limited to: summary document specifying the lines used and unused on the import entry; the import entry summary, corresponding commercial invoices, and copies of all drawback claims that previously designated the import entry summary; and post summary/liquidation changes (for imports or drawback claims, if applicable).
 
-(b) *Drawback due* - (1) *Claimant required to calculate drawback.* Drawback claimants are required to correctly calculate the amount of drawback due. The amount of drawback requested on the drawback entry is generally to be 99 percent of the duties, taxes, and fees eligible for drawback. (For example, if $1,000 in import duties are eligible for drawback less 1 percent ($10), the amount claimed on the drawback entry should be for $990.) Claims exceeding 99 percent (or 100% when 100% of the duty is available for drawback) will not be paid until the calculations have been corrected by the claimant. Claims for less than 99 percent (or 100% when 100% of the duty is available for drawback) will be paid as filed, unless the claimant amends the claim in accordance with § 190.52(c). The amount of duties, taxes, and fees eligible for drawback is determined by whether a claim is based upon direct identification or substitution, as provided for below:
+(b) *Drawback due*—(1) *Claimant required to calculate drawback.* Drawback claimants are required to correctly calculate the amount of drawback due. The amount of drawback requested on the drawback entry is generally to be 99 percent of the duties, taxes, and fees eligible for drawback. (For example, if $1,000 in import duties are eligible for drawback less 1 percent ($10), the amount claimed on the drawback entry should be for $990.) Claims exceeding 99 percent (or 100% when 100% of the duty is available for drawback) will not be paid until the calculations have been corrected by the claimant. Claims for less than 99 percent (or 100% when 100% of the duty is available for drawback) will be paid as filed, unless the claimant amends the claim in accordance with § 190.52(c). The amount of duties, taxes, and fees eligible for drawback is determined by whether a claim is based upon direct identification or substitution, as provided for below:
 
 (i) *Direct identification.* The amounts eligible for drawback for a unit of merchandise consists of those duties, taxes, and fees that were paid for that unit of the designated imported merchandise. This may be the amount of duties, taxes, and fees actually tendered on that unit or those attributable to that unit, if identified pursuant to an approved accounting method (*see* 19 CFR 190.14).
 
@@ -66,7 +66,7 @@
 
 (v) Limitation on amount of merchandise processing fee eligible for drawback for substitution claims. The amount of a merchandise processing fee eligible for drawback per unit of merchandise for drawback claims based upon substitution is subject to the limitations set forth in §§ 190.22(a)(1)(ii) (manufacturing claims) and 190.32(b) (unused merchandise claims), as applicable.
 
-Example 1:Line item 1 - 5,000 articles valued at $10 each total $50,000Line item 2 - 6,000 articles valued at $15 each total $90,000Line item 3 - 10,000 articles valued at $20 each total $200,000Total units = 21,000Total value = $340,000Merchandise processing fee = $485 (for purposes of this example, the fee cap of $485 is assumed; see 19 CFR 24.23 for the current amount consistent with 19 U.S.C. 58c(a)(9)(B)(i)).
+Example 1:Line item 1—5,000 articles valued at $10 each total $50,000Line item 2—6,000 articles valued at $15 each total $90,000Line item 3—10,000 articles valued at $20 each total $200,000Total units = 21,000Total value = $340,000Merchandise processing fee = $485 (for purposes of this example, the fee cap of $485 is assumed; see 19 CFR 24.23 for the current amount consistent with 19 U.S.C. 58c(a)(9)(B)(i)).
 
 *Line item relative value ratios.* The relative value ratio for line item 1 is calculated by dividing the value of that line item by the total value ($50,000 ÷ 340,000 = .1471). The relative value ratio for line item 2 is .2647. The relative value ratio for line item 3 is .5882.
 
@@ -76,11 +76,11 @@ Example 1:Line item 1 - 5,000 articles valued at $10 each total $50,000Line item
 
 *Amount of merchandise processing fee eligible for drawback per unit of merchandise.* The amount of merchandise processing fee eligible for drawback per unit of merchandise is calculated by dividing the amount of fee eligible for drawback for the line item by the number of units in the line item. For line item 1, the amount of merchandise processing fee eligible for drawback per unit is $.0141 ($70.6301 ÷ 5,000 = $.0141). If 1,000 widgets form the basis of a claim for drawback under 19 U.S.C. 1313(j), the total amount of drawback attributable to the merchandise processing fee is $14.10 (1,000 × .0141 = $14.10). For line item 2, the amount of fee eligible for drawback per unit is $.0212 ($127.0957 ÷ 6,000 = $.0212). For line item 3, the amount of fee eligible for drawback per unit is $.0282 ($282.4242 ÷ 10,000 = $.0282).
 
-Example 2.This example illustrates the treatment of dutiable merchandise that is exempt from the merchandise processing fee and duty-free merchandise that is subject to the merchandise processing fee.Line item 1 - 700 meters of printed cloth valued at $10 per meter (total value $7,000) that is exempt from the merchandise processing fee under 19 U.S.C. 58c(b)(8)(B)(iii)Line item 2 - 15,000 articles valued at $100 each (total value $1,500,000)Line item 3 - 10,000 duty-free articles valued at $50 each (total value $500,000)
+Example 2.This example illustrates the treatment of dutiable merchandise that is exempt from the merchandise processing fee and duty-free merchandise that is subject to the merchandise processing fee.Line item 1—700 meters of printed cloth valued at $10 per meter (total value $7,000) that is exempt from the merchandise processing fee under 19 U.S.C. 58c(b)(8)(B)(iii)Line item 2—15,000 articles valued at $100 each (total value $1,500,000)Line item 3—10,000 duty-free articles valued at $50 each (total value $500,000)
 
 The relative value ratios are calculated using line items 2 and 3 only, as there is no merchandise processing fee imposed by reason of importation on line item 1.
 
-Line item 2 - 1,500,000 ÷ 2,000,000 = .75 (line items 2 and 3 form the total value of the merchandise subject to the merchandise processing fee).Line item 3 - 500,000 ÷ 2,000,000 = .25.
+Line item 2—1,500,000 ÷ 2,000,000 = .75 (line items 2 and 3 form the total value of the merchandise subject to the merchandise processing fee).Line item 3—500,000 ÷ 2,000,000 = .25.
 
 If the total merchandise processing fee paid was $485, the amount of the fee attributable to line item 2 is $363.75 (.75 × $485 = $363.75). The amount of the fee attributable to line item 3 is $121.25 (.25 × $485 = $121.25).
 
@@ -90,7 +90,7 @@ The amount of drawback on the merchandise processing fee attributable to each un
 
 If 1,000 units of line item 2 were exported, the drawback attributable to the merchandise processing fee is $24.00 ($.0240 × 1,000 = $24.00).
 
-(3) *Calculations for all other duties, taxes, and fees* - (i) *General.* Where a drawback claimant requests a refund of any other duties, taxes, and fees allowable in accordance with § 190.3, the claimant is required to accurately calculate (including apportionment using per unit averaging or inventory management methods, as appropriate) the duties, taxes, and fees attributable to the designated imported merchandise for which drawback is being claimed when calculating the amount of drawback requested on the drawback entry (generally 99% of the duties, taxes, and fees paid on the imported merchandise).
+(3) *Calculations for all other duties, taxes, and fees*—(i) *General.* Where a drawback claimant requests a refund of any other duties, taxes, and fees allowable in accordance with § 190.3, the claimant is required to accurately calculate (including apportionment using per unit averaging or inventory management methods, as appropriate) the duties, taxes, and fees attributable to the designated imported merchandise for which drawback is being claimed when calculating the amount of drawback requested on the drawback entry (generally 99% of the duties, taxes, and fees paid on the imported merchandise).
 
 (ii) *Examples.* As illustrated in the examples in this paragraph, in the case of customs duties, the type of calculation required to determine the amount of duties available for refund (generally 99% of the duties paid on the imported merchandise) will vary depending on whether the duty involved is ad valorem, specific, or compound.
 
@@ -98,11 +98,11 @@ Example 1: Ad valorem duty rate.Apportionment of the duties paid (and available 
 
 (4) *Limitation.* The amount of duties, taxes, and fees eligible for drawback per unit of merchandise for drawback claims based upon substituted merchandise is subject to the limitations set forth in § 190.22(a)(1)(ii) (manufacturing claims) and § 190.32(b) (unused merchandise claims), as applicable.
 
-(c) *HTSUS classification or Schedule B commodity number*(*s)* - (1) *General.* Drawback claimants are required to provide, on all drawback claims they submit, the 10-digit HTSUS classification or the Schedule B commodity number(s), for the following:
+(c) *HTSUS classification or Schedule B commodity number*(*s)*—(1) *General.* Drawback claimants are required to provide, on all drawback claims they submit, the 10-digit HTSUS classification or the Schedule B commodity number(s), for the following:
 
 (i) *Designated imported merchandise.* For imported merchandise designated on drawback claims, the HTSUS classification applicable at the time of entry (e.g., as required to be reported on the applicable entry summary(s) and other entry documentation).
 
-(ii) *Substituted merchandise on manufacturing claims.* For merchandise substituted on manufacturing drawback claims, and consistent with the applicable general manufacturing drawback ruling or the specific manufacturing drawback ruling, the applicable HTSUS classification numbers must be the same as either -
+(ii) *Substituted merchandise on manufacturing claims.* For merchandise substituted on manufacturing drawback claims, and consistent with the applicable general manufacturing drawback ruling or the specific manufacturing drawback ruling, the applicable HTSUS classification numbers must be the same as either—
 
 (A) If the substituted merchandise was imported, the HTSUS classification applicable at the time of entry (e.g., as required to be reported on the applicable entry summary(s) and other entry documentation); or,
 
@@ -120,7 +120,7 @@ Example 1: Ad valorem duty rate.Apportionment of the duties paid (and available 
 
 (d) *Method of filing.* All drawback claims must be submitted through a CBP-authorized system.
 
-(e) *Time of filing* - (1) *General.* A complete drawback claim is timely filed if it is successfully transmitted not later than 5 years after the date on which the merchandise designated as the basis for the drawback claim was imported and in compliance with all other applicable deadlines under this part.
+(e) *Time of filing*—(1) *General.* A complete drawback claim is timely filed if it is successfully transmitted not later than 5 years after the date on which the merchandise designated as the basis for the drawback claim was imported and in compliance with all other applicable deadlines under this part.
 
 (i) *Official date of filing.* The official date of filing is the date upon which CBP receives a complete claim, as provided in paragraph (a) of this section, via transmission through a CBP-authorized system, including the uploading of all required supporting documentation.
 
@@ -135,3 +135,5 @@ Example 1: Ad valorem duty rate.Apportionment of the duties paid (and available 
 (ii) The claimant files a request for such extension with CBP no later than 1 year from the last day of the 5-year period referred to in paragraph (e)(1) of this section.
 
 (3) *Record retention.* If an extension is granted with respect to a request filed under paragraph (e)(2)(ii) of this section, the periods of time for retaining records under 19 U.S.C. 1508(c)(3) will be extended for an additional 18 months.
+
+[83 FR 64997, Dec. 18, 2018, as amended by CBP Dec. 21-10, 86 FR 35594, July 6, 2021]

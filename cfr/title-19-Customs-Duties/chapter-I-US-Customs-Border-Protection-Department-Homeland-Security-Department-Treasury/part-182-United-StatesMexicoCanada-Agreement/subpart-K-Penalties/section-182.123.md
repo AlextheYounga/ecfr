@@ -1,0 +1,3 @@
+##### § 182.123 Corrected certification of origin by U.S. exporters or producers. #####
+
+Civil or administrative penalties provided for under 19 U.S.C. 1592 will not be imposed on an exporter or producer who completed a certification of origin for a good exported from the United States to Canada or Mexico when the exporter or producer promptly and voluntarily provides written notification pursuant to §§ 182.21(b) and 182.124 with respect to the making of an incorrect certification of origin.

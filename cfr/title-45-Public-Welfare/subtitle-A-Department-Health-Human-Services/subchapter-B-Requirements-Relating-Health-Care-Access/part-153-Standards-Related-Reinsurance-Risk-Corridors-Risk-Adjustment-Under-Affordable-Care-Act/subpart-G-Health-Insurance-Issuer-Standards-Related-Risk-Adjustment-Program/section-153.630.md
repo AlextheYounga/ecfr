@@ -1,7 +1,5 @@
 ##### § 153.630 Data validation requirements when HHS operates risk adjustment. #####
 
-Link to an amendment published at 86 FR 24287, May 5, 2021.
-
 (a) *General requirement.* An issuer of a risk adjustment covered plan in a State where HHS is operating risk adjustment on behalf of the State for the applicable benefit year must have an initial and second validation audit performed on its risk adjustment data as described in this section.
 
 (b) *Initial validation audit.* (1) An issuer of a risk adjustment covered plan must engage one or more independent auditors to perform an initial validation audit of a sample of its risk adjustment data selected by HHS. The issuer must provide HHS with the identity of the initial validation auditor, and must attest to the absence of conflicts of interest between the initial validation auditor (or the members of its audit team, owners, directors, officers, or employees) and the issuer (or its owners, directors, officers, or employees), to its knowledge, following reasonable investigation, and must attest that it has obtained an equivalent representation from the initial validation auditor, in a timeframe and manner to be specified by HHS.
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 24287, May 5, 2021.
 
 (6) An issuer must provide the initial validation auditor and the second validation auditor with all relevant source enrollment documentation, all claims and encounter data, and medical record documentation from providers of services to each enrollee in the applicable sample without unreasonable delay and in a manner that reasonably assures confidentiality and security in transmission. Notwithstanding any other provision of this section, a qualified provider that is licensed to diagnose mental illness by the State and that is prohibited from furnishing a complete medical record by applicable State privacy laws concerning any enrollee's treatment for one or more mental or behavioral health conditions may furnish a signed mental or behavioral health assessment that, to the extent permissible under applicable Federal and State privacy laws, should contain: The enrollee's name; sex; date of birth; current status of all mental or behavioral health diagnoses; and dates of service. The mental or behavioral health assessment should be signed by the provider and submitted with an attestation that the provider is prohibited from furnishing a complete medical record by applicable State privacy laws.
 
-(7) The risk score of each enrollee in the sample must be validated by -
+(7) The risk score of each enrollee in the sample must be validated by—
 
 (i) Validating the enrollee's enrollment data and demographic data in a manner to be determined by HHS.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 86 FR 24287, May 5, 2021.
 
 (8) The initial validation auditor must measure and report to the issuer and HHS, in a manner and timeframe specified by HHS, its inter-rater reliability rates among its reviewers. The initial validation auditor must achieve a consistency measure of at least 95 percent for his or her review outcomes, except that for validation of risk adjustment data for the 2015 and 2016 benefit years, the initial validation auditor may meet an inter-rater reliability standard of 85 percent for review outcomes.
 
-(9) HHS may impose civil money penalties in accordance with the procedures set forth in § 156.805(b) through (e) of this subchapter if an issuer of a risk adjustment covered plan -
+(9) HHS may impose civil money penalties in accordance with the procedures set forth in § 156.805(b) through (e) of this subchapter if an issuer of a risk adjustment covered plan—
 
 (i) Fails to engage an initial validation auditor;
 
@@ -48,7 +46,7 @@ Link to an amendment published at 86 FR 24287, May 5, 2021.
 
 (2) Within 30 calendar days of the notification by HHS of the findings of a second validation audit (if applicable) or the calculation of a risk score error rate, in the manner set forth by HHS, an issuer must confirm the findings of the second validation audit (if applicable) or the calculation of the risk score error rate as a result of risk adjustment data validation, or file a discrepancy report to dispute the findings of a second validation audit (if applicable) or the calculation of a risk score error rate as a result of risk adjustment data validation.
 
-(3) An issuer may appeal the findings of a second validation audit or the calculation of a risk score error rate as result of risk adjustment data validation, under the process set forth in § 156.1220 of this subchapter.
+(3) An issuer may appeal the findings of a second validation audit (if applicable) or the calculation of a risk score error rate as result of risk adjustment data validation, under the process set forth in § 156.1220 of this subchapter.
 
 (e) *Adjustment of payments and charges.* HHS may adjust payments and charges for issuers that do not comply with audit requirements and standards, as specified in paragraphs (b) and (c) of this section.
 
@@ -70,4 +68,8 @@ Link to an amendment published at 86 FR 24287, May 5, 2021.
 
 (iii) For purposes of this paragraph (g)(3), liquidation means that a State court has issued an order of liquidation for the issuer that fixes the rights and liabilities of the issuer and its creditors, policyholders, shareholders, members, and all other persons of interest.
 
-[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13836, Mar. 11, 2014; 81 FR 94174, Dec. 22, 2016; 83 FR 17059, Apr. 17, 2018; 84 FR 17562, Apr. 25, 2019]
+(4) The issuer only offered small group market carryover coverage during the benefit year that is being audited.
+
+(5) The issuer was the sole issuer in the state market risk pool during the benefit year that is being audited and did not participate in any other market risk pools in the State during the benefit year that is being audited.
+
+[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13836, Mar. 11, 2014; 81 FR 94174, Dec. 22, 2016; 83 FR 17059, Apr. 17, 2018; 84 FR 17562, Apr. 25, 2019; 86 FR 24287, May 5, 2021]

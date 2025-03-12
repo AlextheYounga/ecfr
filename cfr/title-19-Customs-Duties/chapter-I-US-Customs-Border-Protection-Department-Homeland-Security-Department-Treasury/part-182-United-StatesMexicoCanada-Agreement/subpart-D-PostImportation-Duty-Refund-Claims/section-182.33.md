@@ -1,0 +1,17 @@
+##### § 182.33 CBP processing procedures. #####
+
+(a) *Status determination.* After receipt of a post-importation claim made pursuant to § 182.32, CBP will determine whether the entry covering the good has been liquidated and, if liquidation has taken place, whether the liquidation has become final.
+
+(b) *Pending protest, petition, or request for reliquidation or judicial review.* If CBP determines that any protest, petition, or request for reliquidation relating to the good has not been finally decided, CBP will suspend action on the claim filed under § 182.32 until the decision on the protest, petition, or request for reliquidation becomes final. If a summons involving the tariff classification or dutiability of the good is filed in the Court of International Trade, CBP will suspend action on the claim filed under § 182.32 until judicial review has been completed.
+
+(c) *Allowance of claim*—(1) *Unliquidated entry.* If CBP determines that a claim for a refund filed under § 182.32 should be allowed and the entry covering the good has not been liquidated, CBP will take into account the claim for refund in connection with the liquidation of the entry.
+
+(2) *Liquidated entry.* If CBP determines that a claim for a refund filed under § 182.32 should be allowed and the entry covering the good has been liquidated, whether or not the liquidation has become final, the entry must be reliquidated in order to effect a refund of customs duties under this section. If the entry is otherwise to be reliquidated based on administrative review of a protest or as a result of judicial review, CBP will reliquidate the entry taking into account the claim for refund under § 182.32.
+
+(d) *Denial of claim*—(1) *General.* CBP may deny a claim for a refund filed under § 182.32 if the claim was not filed timely, if the importer has not complied with the requirements of § 182.32 or the other applicable requirements in this part, or if, following an origin verification, CBP determines either that the imported good was not an originating good at the time of importation or that a basis exists upon which preferential tariff treatment may be denied.
+
+(2) *Unliquidated entry.* If CBP determines that a claim for a refund filed under § 182.32 should be denied and the entry covering the good has not been liquidated, CBP will deny the claim in connection with the liquidation of the entry, and notice of the denial and the reason for the denial will be provided to the importer in writing or via a CBP-authorized electronic data interchange system.
+
+(3) *Liquidated entry.* If CBP determines that a claim for a refund filed under § 182.32 should be denied and the entry covering the good has been liquidated, whether or not the liquidation has become final, the claim may be denied without reliquidation of the entry. If the entry is otherwise to be reliquidated based on administrative review of a protest, petition, or request for reliquidation or as a result of judicial review, such reliquidation may include denial of the claim filed under this subpart. In either case, CBP will provide notice of the denial and the reason for the denial to the importer in writing or via a CBP-authorized electronic data interchange system.
+
+[CBP Dec. 21-10, 86 FR 35586, July 6, 2021]

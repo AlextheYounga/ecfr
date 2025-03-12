@@ -1,28 +1,26 @@
 ##### § 156.420 Plan variations. #####
 
-Link to an amendment published at 86 FR 24292, May 5, 2021.
-
-(a) *Submission of silver plan variations.* For each of its silver health plans that an issuer offers, or intends to offer in the individual market on an Exchange, the issuer must submit annually to the Exchange for certification prior to each benefit year the standard silver plan and three variations of the standard silver plan, as follows -
+(a) *Submission of silver plan variations.* For each of its silver health plans that an issuer offers, or intends to offer in the individual market on an Exchange, the issuer must submit annually to the Exchange for certification prior to each benefit year the standard silver plan and three variations of the standard silver plan, as follows—
 
 (1) For individuals eligible for cost-sharing reductions under § 155.305(g)(2)(i) of this subchapter, a variation of the standard silver plan with:
 
-(i) An annual limitation on cost sharing no greater than the reduced maximum annual limitation on cost sharing specified in the annual HHS notice of benefit and payment parameters for such individuals, and
+(i) An annual limitation on cost sharing no greater than the reduced maximum annual limitation on cost sharing specified in the annual HHS guidance or notice of benefit and payment parameters for such individuals, and
 
 (ii) Other cost-sharing reductions such that the AV of the silver plan variation is 94 percent plus or minus the de minimis variation for a silver plan variation;
 
 (2) For individuals eligible for cost-sharing reductions under § 155.305(g)(2)(ii) of this subchapter, a variation of the standard silver plan with:
 
-(i) An annual limitation on cost sharing no greater than the reduced maximum annual limitation on cost sharing specified in the annual HHS notice of benefit and payment parameters for such individuals, and
+(i) An annual limitation on cost sharing no greater than the reduced maximum annual limitation on cost sharing specified in the annual HHS guidance or notice of benefit and payment parameters for such individuals, and
 
 (ii) Other cost-sharing reductions such that the AV of the silver plan variation is 87 percent plus or minus the de minimis variation for a silver plan variation; and
 
 (3) For individuals eligible for cost-sharing reductions under § 155.305(g)(2)(iii) of this subchapter, a variation of the standard silver plan with:
 
-(i) An annual limitation on cost sharing no greater than the reduced maximum annual limitation on cost sharing specified in the annual HHS notice of benefit and payment parameters for such individuals, and
+(i) An annual limitation on cost sharing no greater than the reduced maximum annual limitation on cost sharing specified in the annual HHS guidance or notice of benefit and payment parameters for such individuals, and
 
 (ii) Other cost-sharing reductions such that the AV of the silver plan variation is 73 percent plus or minus the de minimis variation for a silver plan variation (subject to § 156.420(h)).
 
-(b) *Submission of zero and limited cost sharing plan variations.* For each of its health plans at any level of coverage that an issuer offers, or intends to offer in the individual market on an Exchange, the issuer must submit to the Exchange for certification the health plan and two variations of the health plan, as follows -
+(b) *Submission of zero and limited cost sharing plan variations.* For each of its health plans at any level of coverage that an issuer offers, or intends to offer in the individual market on an Exchange, the issuer must submit to the Exchange for certification the health plan and two variations of the health plan, as follows—
 
 (1) For individuals eligible for cost-sharing reductions under § 155.350(a) of this subchapter, a variation of the health plan with all cost sharing eliminated; and
 
@@ -40,4 +38,4 @@ Link to an amendment published at 86 FR 24292, May 5, 2021.
 
 (h) *Notice.* No later than November 1, 2015, for each plan variation that an issuer offers in accordance with the rules of this section, an issuer must provide a summary of benefits and coverage that accurately represents each plan variation consistent with the requirements set forth in § 147.200 of this subchapter.
 
-[78 FR 15535, Mar. 11, 2013, as amended at 79 FR 13840, Mar. 11, 2014; 80 FR 10875, Feb. 27, 2015]
+[78 FR 15535, Mar. 11, 2013, as amended at 79 FR 13840, Mar. 11, 2014; 80 FR 10875, Feb. 27, 2015; 86 FR 24292, May 5, 2021]

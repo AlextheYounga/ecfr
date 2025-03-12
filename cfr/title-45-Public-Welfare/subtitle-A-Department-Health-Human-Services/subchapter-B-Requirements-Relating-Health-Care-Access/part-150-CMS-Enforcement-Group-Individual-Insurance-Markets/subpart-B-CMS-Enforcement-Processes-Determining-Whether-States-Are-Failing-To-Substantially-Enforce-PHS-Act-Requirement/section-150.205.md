@@ -1,7 +1,5 @@
 ##### § 150.205 Sources of information triggering an investigation of State enforcement. #####
 
-Link to an amendment published at 86 FR 24286, May 5, 2021.
-
 Information that may trigger an investigation of State enforcement includes, but is not limited to, any of the following:
 
 (a) A complaint received by CMS.
@@ -16,8 +14,8 @@ Information that may trigger an investigation of State enforcement includes, but
 
 (1) Consistent with PHS Act requirements.
 
-(2) Not pre-empted as provided in § 146.143 (relating to group market provisions) and § 148.120 (relating to individual market requirements) on the basis that they prevent the application of a HIPAA requirement.
+(2) Not pre-empted as provided in § 146.143 (relating to group market provisions) and § 148.120 (relating to individual market requirements) on the basis that they prevent the application of a PHS Act requirement.
 
 (f) Any other information that indicates a possible failure to substantially enforce.
 
-[64 FR 45795, Aug. 20, 1999, as amended at 78 FR 13440, Feb. 27, 2013]
+[64 FR 45795, Aug. 20, 1999, as amended at 78 FR 13440, Feb. 27, 2013; 86 FR 24286, May 5, 2021]

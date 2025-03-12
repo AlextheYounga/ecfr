@@ -4,4 +4,6 @@
 
 (b) If, under any other provision of this part, the country of origin of a good which is originating within the meaning of § 181.1(q) of this chapter is determined to be the United States and that good has been exported from, and returned to, the United States after having been advanced in value or improved in condition in another NAFTA country, the country of origin of such good for Customs duty purposes is the last NAFTA country in which that good was advanced in value or improved in condition before its return to the United States.
 
-[T.D. 96-48, 61 FR 28957, June 6, 1996]
+(c) Paragraphs (a) and (b) of this section apply only to goods entered for consumption, or withdrawn from warehouse for consumption, prior to July 1, 2020.
+
+[T.D. 96-48, 61 FR 28957, June 6, 1996, as amended at 86 FR 35582, July 6, 2021]

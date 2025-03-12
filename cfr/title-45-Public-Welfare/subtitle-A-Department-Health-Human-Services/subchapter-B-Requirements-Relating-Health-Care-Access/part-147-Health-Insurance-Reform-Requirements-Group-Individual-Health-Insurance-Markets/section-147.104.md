@@ -1,7 +1,5 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
-Link to an amendment published at 86 FR 24285, May 5, 2021.
-
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 24285, May 5, 2021.
 
 (F) Section 155.420(d)(13) of this subchapter (concerning eligibility for insurance affordability programs or enrollment in the Exchange).
 
-(ii) In applying this paragraph (b)(2), a reference in § 155.420 (other than in § 155.420(a)(5)) of this subchapter to a “QHP” is deemed to refer to a plan, a reference to “the Exchange” is deemed to refer to the applicable State authority, and a reference to a “qualified individual” is deemed to refer to an individual in the individual market.
+(ii) In applying this paragraph (b)(2), a reference in § 155.420 (other than in § 155.420(a)(5) and (d)(4)) of this subchapter to a “QHP” is deemed to refer to a plan, a reference to “the Exchange” is deemed to refer to the applicable State authority, and a reference to a “qualified individual” is deemed to refer to an individual in the individual market. For purposes of § 155.420(d)(4) of this subchapter, “the Exchange” is deemed to refer to the Exchange or the health plan, as applicable.
 
 (iii) Notwithstanding anything to the contrary in § 155.420(d) of this subchapter, § 155.420(a)(4) of this subchapter does not apply to limited open enrollment periods under paragraph (b)(2) of this section.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 86 FR 24285, May 5, 2021.
 
 (4) *Length of enrollment periods.* (i) In the group market, enrollees must be provided 30 calendar days after the date of the qualifying event described in paragraph (b)(3) of this section to elect coverage.
 
-(ii) In the individual market, enrollees must be provided 60 calendar days after the date of an event described in paragraph (b)(2) and (3) of this section to elect coverage, as well as 60 calendar days before certain triggering events as provided for in § 155.420(c)(2) of this subchapter.
+(ii) In the individual market, subject to § 155.420(c)(5) of this subchapter, individuals must be provided 60 calendar days after the date of an event described in paragraph (b)(2) and (3) of this section to elect coverage, as well as 60 calendar days before certain triggering events as provided for in § 155.420(c)(2) of this subchapter.
 
 (5) *Effective date of coverage for limited open and special enrollment periods.* With respect to an election made under paragraph (b)(2) or (b)(3) of this section, coverage must become effective consistent with the dates described in § 155.420(b) of this subchapter.
 
@@ -82,4 +80,4 @@ Link to an amendment published at 86 FR 24285, May 5, 2021.
 
 (i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020; 86 FR 24285, May 5, 2021]

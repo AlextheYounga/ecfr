@@ -10,21 +10,24 @@
 
 (ii) Departmental Offices:
 
-|Number |                                System name                                |
-|-------|---------------------------------------------------------------------------|
-|DO .190|                   Investigation Data Management System.                   |
-|DO .220|                         SIGTARP Hotline Database.                         |
-|DO .221|                     SIGTARP Correspondence Database.                      |
-|DO .222|                    SIGTARP Investigative MIS Database.                    |
-|DO .223|                   SIGTARP Investigative Files Database.                   |
-|DO .224|                       SIGTARP Audit Files Database.                       |
-|DO .227|                       CFIUS Case Management System.                       |
-|DO .303|                       TIGTA General Correspondence.                       |
-|DO .307|TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.|
-|DO .308|                           TIGTA Data Extracts.                            |
-|DO .309|                      TIGTA Chief Counsel Case Files.                      |
-|DO .310|              TIGTA Chief Counsel Disclosure Section Records.              |
-|DO .311|                   TIGTA Office of Investigations Files.                   |
+|                           Number                            |                                System name                                |
+|-------------------------------------------------------------|---------------------------------------------------------------------------|
+|                           DO .190                           |                   Investigation Data Management System.                   |
+|                           DO .220                           |                         SIGTARP Hotline Database.                         |
+|                           DO .221                           |                     SIGTARP Correspondence Database.                      |
+|                           DO .222                           |                    SIGTARP Investigative MIS Database.                    |
+|                           DO .223                           |                   SIGTARP Investigative Files Database.                   |
+|                           DO .224                           |                       SIGTARP Audit Files Database.                       |
+|                           DO .227                           |                       CFIUS Case Management System.                       |
+|                           DO .303                           |                       TIGTA General Correspondence.                       |
+|                           DO .307                           |TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.|
+|                           DO .308                           |                           TIGTA Data Extracts.                            |
+|                           DO .309                           |                      TIGTA Chief Counsel Case Files.                      |
+|                           DO .310                           |              TIGTA Chief Counsel Disclosure Section Records.              |
+|                           DO .311                           |                   TIGTA Office of Investigations Files.                   |
+|         SIGPR .420 - Audit and Evaluations Records          |                                                                           |
+|SIGPR .421 - Case Management System and Investigative Records|                                                                           |
+|                 SIGPR .423 - Legal Records                  |                                                                           |
 
 (iii) Alcohol and Tobacco Tax and Trade Bureau.
 
@@ -189,24 +192,27 @@
 
 (ii) Departmental Offices:
 
-|Number |                                System name                                |
-|-------|---------------------------------------------------------------------------|
-|DO .120|  Records Related to Office of Foreign Assets Control Economic Sanctions.  |
-|DO .144|         General Counsel Litigation Referral and Reporting System.         |
-|DO .190|                   Investigation Data Management System.                   |
-|DO .220|                         SIGTARP Hotline Database.                         |
-|DO .221|                     SIGTARP Correspondence Database.                      |
-|DO .222|                    SIGTARP Investigative MIS Database.                    |
-|DO .223|                   SIGTARP Investigative Files Database.                   |
-|DO .224|                       SIGTARP Audit Files Database.                       |
-|DO .225|               TARP Fraud Investigation Information System.                |
-|DO .227|                       CFIUS Case Management System.                       |
-|DO .303|                       TIGTA General Correspondence.                       |
-|DO .307|TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.|
-|DO .308|                           TIGTA Data Extracts.                            |
-|DO .309|                      TIGTA Chief Counsel Case Files.                      |
-|DO .310|              TIGTA Chief Counsel Disclosure Section Records.              |
-|DO .311|                   TIGTA Office of Investigations Files.                   |
+|                           Number                            |                                System name                                |
+|-------------------------------------------------------------|---------------------------------------------------------------------------|
+|                           DO .120                           |  Records Related to Office of Foreign Assets Control Economic Sanctions.  |
+|                           DO .144                           |         General Counsel Litigation Referral and Reporting System.         |
+|                           DO .190                           |                   Investigation Data Management System.                   |
+|                           DO .220                           |                         SIGTARP Hotline Database.                         |
+|                           DO .221                           |                     SIGTARP Correspondence Database.                      |
+|                           DO .222                           |                    SIGTARP Investigative MIS Database.                    |
+|                           DO .223                           |                   SIGTARP Investigative Files Database.                   |
+|                           DO .224                           |                       SIGTARP Audit Files Database.                       |
+|                           DO .225                           |               TARP Fraud Investigation Information System.                |
+|                           DO .227                           |                       CFIUS Case Management System.                       |
+|                           DO .303                           |                       TIGTA General Correspondence.                       |
+|                           DO .307                           |TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.|
+|                           DO .308                           |                           TIGTA Data Extracts.                            |
+|                           DO .309                           |                      TIGTA Chief Counsel Case Files.                      |
+|                           DO .310                           |              TIGTA Chief Counsel Disclosure Section Records.              |
+|                           DO .311                           |                   TIGTA Office of Investigations Files.                   |
+|         SIGPR .420 - Audit and Evaluations Records          |                                                                           |
+|SIGPR .421 - Case Management System and Investigative Records|                                                                           |
+|                 SIGPR .423 - Legal Records                  |                                                                           |
 
 (iii) Alcohol and Tobacco Tax and Trade Bureau:
 
@@ -424,4 +430,4 @@ Departmental Officers:
 
 (o) *Exempt information included in another system.* Any information from a system of records for which an exemption is claimed under 5 U.S.C. 552a(j) or (k) which is also included in another system of records retains the same exempt status such information has in the system for which such exemption is claimed.
 
-[77 FR 28479, May 15, 2012, as amended at 77 FR 59548, Sept. 28, 2012; 79 FR 12944, Mar. 7, 2014; 80 FR 13765, Mar. 17, 2015; 85 FR 86512, Dec. 30, 2020]
+[77 FR 28479, May 15, 2012, as amended at 77 FR 59548, Sept. 28, 2012; 79 FR 12944, Mar. 7, 2014; 80 FR 13765, Mar. 17, 2015; 85 FR 86512, Dec. 30, 2020; 86 FR 35398, July 6, 2021]

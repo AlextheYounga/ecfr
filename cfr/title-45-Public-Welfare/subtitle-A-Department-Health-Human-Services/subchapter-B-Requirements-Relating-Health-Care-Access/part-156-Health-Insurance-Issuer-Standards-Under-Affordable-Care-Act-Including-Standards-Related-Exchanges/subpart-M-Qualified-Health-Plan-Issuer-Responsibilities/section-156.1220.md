@@ -1,8 +1,6 @@
 ##### § 156.1220 Administrative appeals. #####
 
-Link to an amendment published at 86 FR 24294, May 5, 2021.
-
-(a) *Requests for reconsideration* - (1) *Matters for reconsideration.* An issuer may file a request for reconsideration under this section to contest a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error only with respect to the following:
+(a) *Requests for reconsideration*—(1) *Matters for reconsideration.* An issuer may file a request for reconsideration under this section to contest a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error only with respect to the following:
 
 (i) The amount of advance payment of the premium tax credit, advance payment of cost-sharing reductions or Federally-facilitated Exchange user fees charge for a benefit year;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 24294, May 5, 2021.
 
 (vi) The amount of a risk corridors payment or charge for a benefit year;
 
-(vii) The findings of a second validation audit as a result of risk adjustment data validation with respect to risk adjustment data for the 2016 benefit year and beyond; or
+(vii) The findings of a second validation audit as a result of risk adjustment data validation (if applicable) with respect to risk adjustment data for the 2016 benefit year and beyond; or
 
 (viii) The calculation of a risk score error rate as a result of risk adjustment data validation with respect to risk adjustment data for the 2016 benefit year and beyond.
 
@@ -26,15 +24,17 @@ Link to an amendment published at 86 FR 24294, May 5, 2021.
 
 (i) For advance payments of the premium tax credit, advance payments of cost-sharing reductions, Federally-facilitated Exchange user fee charges, or State-based Exchanges utilizing the Federal platform fees, within 60 calendar days after the date of the final reconsideration notification specifying the aggregate amount of advance payments of the premium tax credit, advance payments of cost-sharing reductions, Federally-facilitated Exchange user fees, and State-based Exchanges utilizing the Federal platform fees for the applicable benefit year;
 
-(ii) For a risk adjustment payment or charge, including an assessment of risk adjustment user fees, the findings of a second validation audit, or the calculation of a risk score error rate as a result of risk adjustment data validation, within 30 calendar days of the date of the notification under § 153.310(e) of this subchapter;
+(ii) For a risk adjustment payment or charge, including an assessment of risk adjustment user fees, within 30 calendar days of the date of the notification under § 153.310(e) of this subchapter;
 
-(iii) For a reinsurance payment, within 30 calendar days of the date of the notification under § 153.240(b)(1)(ii) of this subchapter;
+(iii) For the findings of a second validation audit (if applicable), or the calculation of a risk score error rate as a result of risk adjustment data validation, within 30 calendar days of publication of the applicable benefit year's Summary Report of Benefit Year Risk Adjustment Data Validation Adjustments to Risk Adjustment Transfers;
 
-(iv) For a default risk adjustment charge, within 30 calendar days of the date of the notification of the default risk adjustment charge;
+(iv) For a reinsurance payment, within 30 calendar days of the date of the notification under § 153.240(b)(1)(ii) of this subchapter;
 
-(v) For reconciliation of the cost-sharing reduction portion of advance payments, within 60 calendar days of the date of the cost-sharing reduction reconciliation discrepancy resolution decision; and
+(v) For a default risk adjustment charge, within 30 calendar days of the date of the notification of the default risk adjustment charge;
 
-(vi) For a risk corridors payment or charge, within 30 calendar days of the date of the notification under § 153.510(d) of this subchapter.
+(vi) For reconciliation of the cost-sharing reduction portion of advance payments, within 60 calendar days of the date of the cost-sharing reduction reconciliation discrepancy resolution decision; and
+
+(vii) For a risk corridors payment or charge, within 30 calendar days of the date of the notification under § 153.510(d) of this subchapter.
 
 (4) *Content of request.* (i) The request for reconsideration must specify the findings or issues specified in paragraph (a)(1) of this section that the issuer challenges, and the reasons for the challenge.
 
@@ -66,4 +66,4 @@ Link to an amendment published at 86 FR 24294, May 5, 2021.
 
 (3) The Administrator of CMS's determination is final and binding.
 
-[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016]
+[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016; 86 FR 24294, May 5, 2021]

@@ -1,7 +1,5 @@
 ##### § 155.220 Ability of States to permit agents and brokers and web-brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 86 FR 24288, May 5, 2021.
-
 (a) *General rule.* A State may permit agents, brokers, and web-brokers to -
 
 (1) Enroll individuals, employers or employees in any QHP in the individual or small group market as soon as the QHP is offered through an Exchange in the State;
@@ -75,6 +73,28 @@ Link to an amendment published at 86 FR 24288, May 5, 2021.
 (ii) HHS retains the right to temporarily suspend the ability of a web-broker making its website available to transact information with HHS, if HHS discovers a security and privacy incident or breach, for the period in which HHS begins to conduct an investigation and until the incident or breach is remedied to HHS' satisfaction.
 
 (5) HHS or its designee may periodically monitor and audit an agent, broker, or web-broker under this subpart to assess its compliance with the applicable requirements of this section.
+
+(6) In addition to applicable requirements under § 155.221(b)(4), a web-broker must demonstrate operational readiness and compliance with applicable requirements prior to the web-broker's internet website being used to complete an Exchange eligibility application or a QHP selection, which may include submission or completion, in the form and manner specified by HHS, of the following:
+
+(i) Operational data including licensure information, points of contact, and third-party relationships;
+
+(ii) Enrollment testing, prior to approval or renewal;
+
+(iii) Website reviews performed by HHS;
+
+(iv) Security and privacy assessment documentation, including:
+
+(A) Penetration testing results;
+
+(B) Security and privacy assessment reports;
+
+(C) Vulnerability scan results;
+
+(D) Plans of action and milestones; and
+
+(E) System security and privacy plans.
+
+(v) Agreements between the web-broker and HHS.
 
 (d) *Agreement.* An agent, broker, or web-broker that enrolls qualified individuals in a QHP in a manner that constitutes enrollment through the Exchange or assists individuals in applying for advance payments of the premium tax credit and cost-sharing reductions for QHPs must comply with the terms of an agreement between the agent, broker, or web-broker and the Exchange under which the agent, broker, or web-broker at least:
 
@@ -178,4 +198,4 @@ Link to an amendment published at 86 FR 24288, May 5, 2021.
 
 (3) The Exchange may collect information from a web-broker during its registration with the Exchange under paragraph (d)(1) of this section, or at another time on an annual basis, in a form and manner to be specified by HHS, sufficient to establish the identities of the individuals who comprise its corporate ownership and leadership and to ascertain any corporate or business relationships it has with other entities that may seek to register with the Federally-facilitated Exchange as web-brokers.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).

@@ -1,0 +1,7 @@
+##### § 182.2 Confidentiality. #####
+
+(a) *Maintaining confidentiality.* Subject to paragraph (b) of this section, CBP must maintain the confidentiality of the information that it receives from the public when the information is considered trade secrets under the Trade Secrets Act (18 U.S.C. 1905), personally identifiable information under the Privacy Act (5 U.S.C. 552a), or privileged or confidential commercial or financial information. This information must be maintained as confidential in accordance with part 103 of this chapter, 6 CFR part 5, and all other applicable statutes and regulations.
+
+(b) *Authorized disclosures.* CBP may only disclose the confidential information in paragraph (a) of this section to third parties and to other USMCA countries for purposes of administration or enforcement of the customs laws or if otherwise authorized by law, and pursuant to the routine uses of the systems of record notices (SORNs) for the trade systems maintained by CBP. This does not preclude the disclosure of confidential information to U.S. government authorities responsible for the administration and enforcement of USMCA requirements, such as the Department of Labor, and of customs and revenue matters.
+
+[CBP Dec. 21-10, 86 FR 35584, July 6, 2021]

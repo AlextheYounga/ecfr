@@ -1,8 +1,6 @@
 ##### § 150.427 Form and service of submissions. #####
 
-Link to an amendment published at 86 FR 24286, May 5, 2021.
-
-(a) Every submission filed with the ALJ must be filed in triplicate, including one original of any signed documents, and include:
+(a) Every submission filed with the ALJ must be filed electronically and include:
 
 (1) A caption on the first page, setting forth the title of the case, the docket number (if known), and a description of the submission (such as “Motion for Discovery”).
 
@@ -10,4 +8,6 @@ Link to an amendment published at 86 FR 24286, May 5, 2021.
 
 (3) A signed certificate of service, specifying each address to which a copy of the submission is sent, the date on which it is sent, and the method of service.
 
-(b) A party filing a submission with the ALJ must, at the time of filing, serve a copy of such submission on the opposing party. An intervenor filing a submission with the ALJ must, at the time of filing, serve a copy of the submission on all parties. Service must be made by mailing or hand delivering a copy of the submission to the opposing party. If a party is represented by an attorney, service must be made on the attorney.
+(b) A party filing a submission with the ALJ must, at the time of filing, serve a copy of such submission on the opposing party. An intervenor filing a submission with the ALJ must, at the time of filing, serve a copy of the submission on all parties. If a party is represented by an attorney, service must be made on the attorney. An electronically filed submission is considered served on all parties using the electronic filing system.
+
+[64 FR 45795, Aug. 20, 1999, as amended at 86 FR 24286, May 5, 2021]

@@ -1,0 +1,5 @@
+##### § 182.31 Right to make post-importation claim for preferential tariff treatment and refund duties. #####
+
+Notwithstanding any other available remedy, where a good would have qualified as an originating good when it was imported into the United States but no claim for preferential tariff treatment was made, the importer of that good may file a claim for a refund of any excess customs duties at any time within one year after the date of importation of the good in accordance with 19 U.S.C. 1520(d) and the procedures set forth in § 182.32. Unless the importer fails to comply with the applicable requirements in this part, CBP may refund any excess customs duties by liquidation or reliquidation of the entry covering the good in accordance with § 182.33.
+
+[CBP Dec. 21-10, 86 FR 35586, July 6, 2021]

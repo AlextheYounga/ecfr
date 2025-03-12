@@ -18,7 +18,7 @@ I,\_\_\_\_\_\_\_\_, declare that the articles herein specified are the articles 
 
 I, \_\_\_\_\_,
 
-declare that the (above) (attached) declaration by the person who performed the repairs or alterations abroad is true and correct to the best of my knowledge and belief; that the articles were not manufactured or produced in the United States under subheading 9813.00.05, HTSUS; that such articles were exported from the United States for repairs or alterations and without benefit of drawback from \_\_\_\_\_\_\_\_ (port) on \_\_\_\_\_\_\_\_, 19\_\_; and that the articles entered in their repaired or altered condition are the same articles that were exported on the above date and that are identified in the (above) (attached) declaration.(Date)(Address)(Signature)(Capacity)
+declare that the (above) (attached) declaration by the person who performed the repairs or alterations abroad is true and correct to the best of my knowledge and belief; that the articles were not manufactured or produced in the United States under subheading 9813.00.05, HTSUS; that such articles were exported from the United States for repairs or alterations and without benefit of drawback (unless subject to USMCA drawback) from \_\_\_\_\_\_\_\_ (port) on \_\_\_\_\_\_\_\_, 19\_\_; and that the articles entered in their repaired or altered condition are the same articles that were exported on the above date and that are identified in the (above) (attached) declaration.(Date)(Address)(Signature)(Capacity)
 
 (b) The Center director may require such additional documentation as is deemed necessary to prove actual exportation of the articles from the United States for repairs or alterations, such as a foreign customs entry, foreign customs invoice, foreign landing certificate, bill of lading, or an airway bill.
 
@@ -26,4 +26,4 @@ declare that the (above) (attached) declaration by the person who performed the 
 
 (d) The port director or Center director shall require at the time of entry a deposit of estimated duties based upon the full cost or value of the repairs or alterations. The cost or value of the repairs or alterations outside the United States, which is to be set forth in the invoice and entry papers as the basis for the assessment of duty under subheading 9802.00.40 or 9802.00.50, HTSUS, shall be limited to the cost or value of the repairs or alterations actually performed abroad, which will include all domestic and foreign articles furnished for the repairs or alterations but shall not include any of the expenses incurred in this country whether by way of engineering costs, preparation of plans or specifications, furnishing of tools or equipment for doing the repairs or alterations abroad, or otherwise.
 
-[T.D. 94-47, 59 FR 25567, May 17, 1994, as amended by T.D. 95-68, 60 FR 46361, Sept. 6, 1995]
+[T.D. 94-47, 59 FR 25567, May 17, 1994, as amended by T.D. 95-68, 60 FR 46361, Sept. 6, 1995; 86 FR 35581, July 6, 2021]

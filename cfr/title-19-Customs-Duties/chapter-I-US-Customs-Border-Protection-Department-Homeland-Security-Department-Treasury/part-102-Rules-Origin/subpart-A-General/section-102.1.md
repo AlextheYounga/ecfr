@@ -1,6 +1,6 @@
 ##### § 102.1 Definitions. #####
 
-(a) *Advanced in value.* “Advanced in value” means an increase in the value of a good as a result of production with respect to that good, other than by means of those “minor processing” operations described in paragraphs (m)(5), (m)(6), and (m)(7) of this section.
+(a) *Advanced in value.* “Advanced in value” means an increase in the value of a good as a result of production with respect to that good, other than by means of those “minor processing” operations described in paragraphs (n)(5), (n)(6), and (n)(7) of this section.
 
 (b) *Commingled.* “Commingled” means physically combined or mixed.
 
@@ -40,7 +40,7 @@
 
 (h) *Harmonized System.* “Harmonized System” means the Harmonized Commodity Description and Coding System, including its general rules of Interpretation, Section Notes and Chapter Notes, as adopted and implemented by the United States.
 
-(i) *Improved in condition.* “Improved in condition” means the enhancement of the physical condition of a good as a result of production with respect to that good, other than by means of those “minor processing” operations described in paragraphs (m)(5), (m)(6), and (m)(7) of this section.
+(i) *Improved in condition.* “Improved in condition” means the enhancement of the physical condition of a good as a result of production with respect to that good, other than by means of those “minor processing” operations described in paragraphs (n)(5), (n)(6), and (n)(7) of this section.
 
 (j) *Incorporated.* “Incorporated” means physically incorporated into a good as a result of production with respect to that good.
 
@@ -62,9 +62,19 @@
 
 (8) Any other goods that are not incorporated into the good but whose use in the production of the good can reasonably be demonstrated to be a part of that production.
 
-(l) *Material.* “Material” means a good that is incorporated into another good as a result of production with respect to that other good, and includes parts, ingredients, subassemblies, and components.
+(l) *Inventory management method.* “Inventory management method” means:
 
-(m) *Minor processing.* “Minor processing” means the following:
+(1) Averaging;
+
+(2) “Last-in, first-out;”
+
+(3) “First-in, first-out;” or
+
+(4) Any other method that is recognized in the Generally Accepted Accounting Principles (GAAP) of the country in which the production is performed or is otherwise accepted by that country.
+
+(m) *Material.* “Material” means a good that is incorporated into another good as a result of production with respect to that other good, and includes parts, ingredients, subassemblies, and components.
+
+(n) *Minor processing.* “Minor processing” means the following:
 
 (1) Mere dilution with water or another substance that does not materially alter the characteristics of the good;
 
@@ -84,14 +94,16 @@
 
 (9) Repairs and alterations, washing, laundering, or sterilizing.
 
-(n) *Production.* “Production” means growing, mining, harvesting, fishing, trapping, hunting, manufacturing, processing or assembling a good.
+(o) *Production.* “Production” means growing, mining, harvesting, fishing, trapping, hunting, manufacturing, processing or assembling a good.
 
-(o) *Simple assembly.* “Simple assembly” means the fitting together of five or fewer parts all of which are foreign (excluding fasteners such as screws, bolts, etc.) by bolting, gluing, soldering, sewing or by other means without more than minor processing.
+(p) *Simple assembly.* “Simple assembly” means the fitting together of five or fewer parts all of which are foreign (excluding fasteners such as screws, bolts, etc.) by bolting, gluing, soldering, sewing or by other means without more than minor processing.
 
-(p) *Value.* “Value” means, with respect to § 102.13:
+(q) *Value.* “Value” means, with respect to § 102.13:
 
-(1) In the case of a good, its customs value or transaction value within the meaning of the appendix to part 181 of this chapter; or
+(1) In the case of a good under NAFTA, its customs value or transaction value within the meaning of the appendix to part 181 of this chapter; or
 
-(2) In the case of a material, its customs value or value within the meaning of the appendix to part 181 of this chapter.
+(2) In the case of a material under NAFTA, its customs value or value within the meaning of the appendix to part 181 of this chapter.
 
-[T.D. 96-48, 61 FR 28955, June 6, 1996]
+(3) In the case of a good or material under the USMCA, its customs value or transaction value within the meaning of appendix A to part 182 of this chapter.
+
+[T.D. 96-48, 61 FR 28955, June 6, 1996, as amended at 86 FR 35581, July 6, 2021]

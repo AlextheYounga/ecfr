@@ -14,7 +14,7 @@ The following rules shall apply for purposes of determining the country of origi
 
 (1) The country of origin of the good is the country or countries of origin of the single material that imparts the essential character to the good, or
 
-(2) If the material that imparts the essential character to the good is fungible, has been commingled, and direct physical identification of the origin of the commingled material is not practical, the country or countries of origin may be determined on the basis of an inventory management method provided under the appendix to part 181 of this chapter.
+(2) If the material that imparts the essential character to the good is fungible, has been commingled, and direct physical identification of the origin of the commingled material is not practical, the country or countries of origin may be determined on the basis of an inventory management method.
 
 (c) Where the country of origin cannot be determined under paragraph (a) or (b) of this section and the good is specifically described in the Harmonized System as a set or mixture, or classified as a set, mixture or composite good pursuant to General Rule of Interpretation 3, the country of origin of the good is the country or countries of origin of all materials that merit equal consideration for determining the essential character of the good.
 
@@ -26,4 +26,4 @@ The following rules shall apply for purposes of determining the country of origi
 
 (3) If the country of origin of the good cannot be determined under paragraph (d)(1) or (d)(2) of this section, the country of origin of the good is the last country in which the good underwent production.
 
-[T.D. 96-48, 61 FR 28956, June 6, 1996]
+[T.D. 96-48, 61 FR 28956, June 6, 1996, as amended at 86 FR 35581, July 6, 2021]
