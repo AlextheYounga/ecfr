@@ -1,7 +1,5 @@
 ##### § 635.27 Quotas. #####
 
-Link to an amendment published at 87 FR 25590, May 2, 2022.
-
 (a) *Bluefin tuna.* Consistent with ICCAT recommendations, and with paragraph (a)(10)(iv) of this section, NMFS may subtract the most recent, complete, and available estimate of dead discards from the annual U.S. bluefin tuna quota, and make the remainder available to be retained, possessed, or landed by persons and vessels subject to U.S. jurisdiction. The remaining baseline annual U.S. bluefin tuna quota will be allocated among the General, Angling, Harpoon, Purse Seine, Longline, Trap, and Reserve categories, as described in this section. Bluefin tuna quotas are specified in whole weight. The baseline annual U.S. bluefin tuna quota is 1,316.14 mt, not including an additional annual 25-mt allocation provided in paragraph (a)(3) of this section. The bluefin quota for the quota categories is calculated through the following process. First, 68 mt is subtracted from the baseline annual U.S. bluefin tuna quota and allocated to the Longline category quota. Second, the remaining quota is divided among the categories according to the following percentages: General - 47.1 percent (587.9 mt); Angling - 19.7 percent (245.9 mt), which includes the school bluefin tuna held in reserve as described under paragraph (a)(7)(ii) of this section; Harpoon - 3.9 percent (48.7 mt); Purse Seine - 18.6 percent (232.2 mt); Longline - 8.1 percent (101.1) plus the 68-mt allocation (*i.e.,* 169.1 mt total not including the 25-mt allocation from paragraph (a)(3)); Trap - 0.1 percent (1.2 mt); and Reserve - 2.5 percent (31.2 mt). NMFS may make inseason and annual adjustments to quotas as specified in paragraphs (a)(9) and (10) of this section, including quota adjustments as a result of the annual reallocation of Purse Seine quota described under paragraph (a)(4)(v) of this section.
 
 (1) *General category quota.* (i) Catches from vessels for which General category Atlantic Tunas permits have been issued and certain catches from vessels for which an HMS Charter/Headboat permit has been issued are counted against the General category quota in accordance with § 635.23(c)(3). Pursuant to paragraph (a) of this section, the amount of large medium and giant bluefin tuna that may be caught, retained, possessed, landed, or sold under the General category quota is 587.9 mt, and is apportioned as follows, unless modified as described under paragraph (a)(1)(ii) of this section:
@@ -15,16 +13,6 @@ Link to an amendment published at 87 FR 25590, May 2, 2022.
 (D) October 1 through November 30 - 13 percent (76.4 mt); and
 
 (E) December 1 through December 31 - 5.2 percent (30.6 mt).
-
-(A) January 1 through the effective date of a closure notice filed by NMFS announcing that the January subquota is reached, or projected to be reached under § 635.28(a)(1), or through March 31, whichever comes first - 5.3 percent (29.5 mt);
-
-(B) June 1 through August 31 - 50 percent (277.9 mt);
-
-(C) September 1 through September 30 - 26.5 percent (147.3 mt);
-
-(D) October 1 through November 30 - 13 percent (72.2 mt); and
-
-(E) December 1 through December 31 - 5.2 percent (28.9 mt).
 
 (ii) NMFS may adjust each period's apportionment based on overharvest or underharvest in the prior period, and may transfer subquota from one time period to another time period, earlier in the year, through inseason action or annual specifications. For example, subquota could be transferred from the December 1 through December 31 time period to the January time period; or from the October 1 through November 30 time period to the September time period. This inseason adjustment may occur prior to the start of that year. In other words, although subject to the inseason criteria under paragraph (a)(8) of this section, the adjustment could occur prior to the start of the fishing year. For example, an inseason action transferring the 2016 December 1 through December 31 time period subquota to the 2016 January 1 time period subquota could be filed in 2015.
 
