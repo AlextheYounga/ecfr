@@ -4,7 +4,7 @@ Though not exhaustive, terms and conditions of service as a leader include:
 
 (a) A leader makes a full-time commitment to serve as a leader, without regard to regular working hours, for a minimum of one year.
 
-(b) To the maximum extent practicable, a leader shall live among and at the economic level of the low-income community served by the project and actively seek opportunities to engage with that low-income community.
+(b) To the maximum extent practicable, a leader must live among and at the economic level of the low-income community served by the project.
 
 (c) A leader aids the communication of VISTA policies and administrative procedures to VISTAs.
 
@@ -22,4 +22,4 @@ Though not exhaustive, terms and conditions of service as a leader include:
 
 (j) A leader may serve as a collector of data for performance measures of the project and the VISTAs.
 
-(k) A leader is prohibited from supervising VISTAs. A leader is also prohibited from handling or managing, on behalf of the project, personnel-related matters affecting VISTAs. Personnel-related matters affecting VISTAs must be managed and handled by the project and in coordination with the appropriate CNCS State Office.
+(k) A leader is prohibited from supervising VISTAs. A leader is also prohibited from handling or managing, on behalf of the project, personnel-related matters affecting VISTAs. Personnel-related matters affecting VISTAs must be managed and handled by the project and in coordination with the appropriate AmeriCorps Region Office.

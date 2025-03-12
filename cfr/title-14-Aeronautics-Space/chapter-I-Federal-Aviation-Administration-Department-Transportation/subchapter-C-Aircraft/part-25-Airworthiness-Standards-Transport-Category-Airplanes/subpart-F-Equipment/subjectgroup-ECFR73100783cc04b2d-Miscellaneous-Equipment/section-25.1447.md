@@ -1,5 +1,7 @@
 ##### § 25.1447 Equipment standards for oxygen dispensing units. #####
 
+Link to an amendment published at 88 FR 39161, June 15, 2023.
+
 If oxygen dispensing units are installed, the following apply:
 
 (a) There must be an individual dispensing unit for each occupant for whom supplemental oxygen is to be supplied. Units must be designed to cover the nose and mouth and must be equipped with a suitable means to retain the unit in position on the face. Flight crew masks for supplemental oxygen must have provisions for the use of communication equipment.

@@ -1,5 +1,7 @@
 ##### 752.229-71 Reporting of foreign taxes. #####
 
+Link to an amendment published at 88 FR 39192, June 15, 2023.
+
 As prescribed in (48 CFR) AIDAR 729.402-70, insert the following clause in section I of applicable solicitations and resulting contracts. The contracting officer must insert address and point of contact at the Embassy, Mission, or M/CFO/CMP as appropriate under paragraph (d) of this clause.
 
 Reporting of Foreign Taxes (JUL 2007)

@@ -1,13 +1,13 @@
 ##### § 2556.100 Which entities are eligible to apply to become VISTA sponsors? #####
 
-The following entities are eligible to apply to become VISTA sponsors, and thereby undertake projects in the U.S. and certain U.S. territories:
+The following types of entities are eligible to apply to become VISTA sponsors and thereby undertake projects in the U.S. and certain U.S. territories:
 
-(a) Private nonprofit organization.
+(a) Private nonprofit organizations.
 
-(b) Public nonprofit organization.
+(b) Public nonprofit organizations.
 
-(c) State government or state government agency.
+(c) State government or state government agencies.
 
-(d) Local government or local government agency.
+(d) Local government or local government agencies.
 
-(e) Tribal government or tribal government agency.
+(e) Tribal government or tribal government agencies.

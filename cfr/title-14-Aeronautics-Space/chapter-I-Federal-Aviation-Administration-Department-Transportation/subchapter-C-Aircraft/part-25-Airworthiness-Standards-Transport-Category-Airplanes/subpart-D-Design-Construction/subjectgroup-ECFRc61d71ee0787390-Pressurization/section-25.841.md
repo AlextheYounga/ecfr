@@ -1,5 +1,7 @@
 ##### § 25.841 Pressurized cabins. #####
 
+Link to an amendment published at 88 FR 39160, June 15, 2023.
+
 (a) Pressurized cabins and compartments to be occupied must be equipped to provide a cabin pressure altitude of not more than 8,000 feet at the maximum operating altitude of the airplane under normal operating conditions.
 
 (1) If certification for operation above 25,000 feet is requested, the airplane must be designed so that occupants will not be exposed to cabin pressure altitudes in excess of 15,000 feet after any probable failure condition in the pressurization system.

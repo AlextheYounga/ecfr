@@ -1,5 +1,7 @@
 ##### § 170.3 Definitions. #####
 
+Link to an amendment published at 88 FR 39140, June 15, 2023.
+
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto;

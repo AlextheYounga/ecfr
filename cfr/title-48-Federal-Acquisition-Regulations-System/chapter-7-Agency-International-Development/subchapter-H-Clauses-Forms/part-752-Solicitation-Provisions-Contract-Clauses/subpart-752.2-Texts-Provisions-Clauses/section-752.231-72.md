@@ -1,5 +1,7 @@
 ##### 752.231-72 Conference planning and required approvals. #####
 
+Link to an amendment published at 88 FR 39193, June 15, 2023.
+
 As prescribed in (48 CFR) AIDAR 731.205-43, insert the following clause in section I of all solicitations and resulting contracts anticipated to include a requirement for a USAID-funded conference, as defined in the clause.
 
 Conference Planning and Required Approvals (AUG 2013)

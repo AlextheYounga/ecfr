@@ -1,6 +1,6 @@
 ##### § 2556.605 Who is eligible to apply to serve as a leader? #####
 
-An individual is eligible to apply to serve as a leader if he or she has successfully completed any of the following:
+An individual is eligible to apply to serve as a leader if they have successfully completed any of the following:
 
 (a) At least one year of service as a VISTA;
 

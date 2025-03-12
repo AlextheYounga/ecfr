@@ -1,6 +1,6 @@
 ##### 726.7102 PD 20 provision. #####
 
-Relocation of U.S. Businesses, Assistance to Export Processing Zones, Internationally Recognized Workers' Rights (JAN 1994)
+Link to an amendment published at 88 FR 39191, June 15, 2023.Relocation of U.S. Businesses, Assistance to Export Processing Zones, Internationally Recognized Workers' Rights (JAN 1994)
 
 No funds or other support provided hereunder may be used in an activity reasonably likely to involve the relocation or expansion outside of the United States of an enterprise located in the United States if non-U.S. production in such relocation or expansion replaces some or all of the production of, and reduces the number of employees at, said enterprise in the United States.
 

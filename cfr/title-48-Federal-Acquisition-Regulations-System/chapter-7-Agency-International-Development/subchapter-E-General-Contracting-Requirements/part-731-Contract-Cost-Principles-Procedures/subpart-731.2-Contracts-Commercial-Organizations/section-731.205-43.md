@@ -1,5 +1,7 @@
 ##### 731.205-43 Trade, business, technical and professional activity costs—USAID conference approval requirements. #####
 
+Link to an amendment published at 88 FR 39192, June 15, 2023.
+
 (a) The contractor must obtain prior written approval from the contracting officer, or the contracting officer's representative (COR), if delegated in the Contracting Officer's Representative Designation Letter, for costs related to conferences funded in whole or in part with USAID funds when:
 
 (1) Twenty (20) or more USAID employees are expected to attend.

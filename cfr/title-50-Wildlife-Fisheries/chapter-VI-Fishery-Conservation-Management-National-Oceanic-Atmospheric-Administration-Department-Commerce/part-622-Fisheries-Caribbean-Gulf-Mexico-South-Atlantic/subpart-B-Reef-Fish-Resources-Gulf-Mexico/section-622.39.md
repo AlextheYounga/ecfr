@@ -1,6 +1,6 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 88 FR 37478, June 8, 2023.
+Link to an amendment published at 88 FR 37478, June 8, 2023.Link to an amendment published at 88 FR 39201, June 15, 2023.
 
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
@@ -36,11 +36,7 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (iv) Tilefishes (including goldface tilefish, blueline tilefish, and tilefish)—582,000 lb (263,991 kg), gutted weight, that is, eviscerated but otherwise whole.
 
-(v) Greater amberjack—(A) For fishing year 2018—277,651 lb (125,940.38 kg), round weight.
-
-(B) For fishing year 2019—349,766 lb (158,651 kg), round weight.
-
-(C) For fishing year 2020 and subsequent years—421,411 lb (191,149 kg), round weight.
+(v) Greater amberjack—93,930 lb (42,606 kg), round weight.
 
 (vi) Gray triggerfish—88,273 lb (40,040 kg), round weight.
 

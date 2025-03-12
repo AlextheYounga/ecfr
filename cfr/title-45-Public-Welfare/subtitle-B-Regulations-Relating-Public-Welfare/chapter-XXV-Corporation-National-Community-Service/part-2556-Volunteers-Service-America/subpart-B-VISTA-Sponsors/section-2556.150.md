@@ -10,4 +10,4 @@
 
 (e) The requirements of paragraphs (b) through (d) of this section do not apply when the sponsor requires the service in order to avoid or relieve suffering threatened by, or resulting from, a disaster, civil disturbance, terrorism, or war.
 
-(f) A sponsor or subrecipient shall not request or receive any compensation from a VISTA; from a beneficiary of VISTA project services; or any other source for services of a VISTA.
+(f) A sponsor or subrecipient may not request or receive any compensation from a VISTA, from a beneficiary of VISTA project services, or any other source for services of a VISTA.

@@ -1,12 +1,12 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 37478, June 8, 2023.
+Link to an amendment published at 88 FR 37478, June 8, 2023.Link to an amendment published at 88 FR 39201, June 15, 2023.
 
 (a) *Greater amberjack*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
 (ii) In addition to the measures specified in paragraph (a)(1)(i) of this section, if commercial landings, as estimated by the SRD, exceed the commercial ACL, as specified in (a)(1)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACT (commercial quota) and the commercial ACL for that following year by the amount of any commercial ACL overage in the prior fishing year.
 
-(iii) The commercial ACL for greater amberjack, in round weight, is 319,140 lb (144,759 kg), for 2018, 402,030 lb (182,358 kg), for 2019, and 484,380 lb (219,711 kg), for 2020 and subsequent fishing years.
+(iii) The commercial ACL for greater amberjack, in round weight, is 101,000 lb (45,813 kg).
 
 (2) *Recreational sector.* (i) If recreational landings, as estimated by the SRD, reach or are projected to reach the ACT specified in § 622.39(a)(2)(ii) (recreational quota), the AA will file a notification with the Office of the Federal Register to close the recreational sector for the remainder of the fishing year.
 
