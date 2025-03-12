@@ -1,5 +1,7 @@
 ##### § 11.18 EAS Designations. #####
 
+Link to an amendment published at 83 FR 37759, August 2, 2018.
+
 (a) National Primary (NP) is a source of EAS Presidential messages.
 
 (b) Local Primary (LP) is a source of EAS Local Area messages. An LP source is responsible for coordinating the carriage of common emergency messages from sources such as the National Weather Service or local emergency management offices as specified in its EAS Local Area Plan. If it is unable to carry out this function, other LP sources in the Local Area may be assigned the responsibility as indicated in State and Local Area Plans. LP sources are assigned numbers (LP-1, 2, 3, etc.) in the sequence they are to be monitored by other broadcast stations in the Local Area.

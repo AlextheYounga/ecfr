@@ -1,5 +1,7 @@
 ##### § 22.321 Equal employment opportunities. #####
 
+Link to an amendment published at 83 FR 37763, Aug. 2, 2018.
+
 Public Mobile Services licensees shall afford equal opportunity in employment to all qualified persons, and personnel must not be discriminated against in employment because of sex, race, color, religion, or national origin.
 
 (a) *Equal employment opportunity program.* Each licensee shall establish, maintain, and carry out a positive continuing program of specific practices designed to assure equal opportunity in every aspect of employment policy and practice.

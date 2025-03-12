@@ -1,5 +1,7 @@
 ##### § 11.2 Definitions. #####
 
+Link to an amendment published at 83 FR 37759, August 2, 2018.
+
 The definitions of terms used in part 11 are:
 
 (a) *Emergency Action Notification (EAN).* The Emergency Action Notification is the notice to all EAS Participants and to the general public that the EAS has been activated for a national emergency. EAN messages that are formatted in the EAS Protocol (specified in § 11.31) are sent from a government origination point to broadcast stations and other entities participating in the PEP system, and are subsequently disseminated via EAS Participants. Dissemination arrangements for EAN messages that are formatted in the EAS Protocol (specified in § 11.31) at the State and local levels are specified in the State and Local Area plans (defined at § 11.21). A national activation of the EAS for a Presidential message with the Event code EAN as specified in § 11.31 must take priority over any other message and preempt it if it is in progress.

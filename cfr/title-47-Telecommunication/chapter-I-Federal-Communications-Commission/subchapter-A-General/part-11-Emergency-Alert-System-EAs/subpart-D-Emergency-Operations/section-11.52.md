@@ -1,5 +1,7 @@
 ##### § 11.52 EAS code and Attention Signal Monitoring requirements. #####
 
+Link to an amendment published at 83 FR 37759, August 2, 2018.
+
 (a) EAS Participants must be capable of receiving the Attention Signal required by § 11.31(a)(2) and emergency messages of other broadcast stations during their hours of operation. EAS Participants must install and operate during their hours of operation, equipment that is capable of receiving and decoding, either automatically or manually, the EAS header codes, emergency messages and EOM code, and which complies with the requirements in § 11.56.
 
 Note to paragraph (a):

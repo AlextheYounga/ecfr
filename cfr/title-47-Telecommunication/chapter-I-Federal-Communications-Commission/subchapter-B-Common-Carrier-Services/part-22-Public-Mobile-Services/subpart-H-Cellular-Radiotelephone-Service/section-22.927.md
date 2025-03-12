@@ -1,3 +1,5 @@
 ##### § 22.927 Responsibility for mobile stations. #####
 
+Link to an amendment published at 83 FR 37763, Aug. 2, 2018.
+
 Mobile stations that are subscribers in good standing to a cellular system, when receiving service from that cellular system, are considered to be operating under the authorization of that cellular system. Cellular system licensees are responsible for exercising effective operational control over mobile stations receiving service through their cellular systems. Mobile stations that are subscribers in good standing to a cellular system, while receiving service from a different cellular system, are considered to be operating under the authorization of such different system. The licensee of such different system is responsible, during such temporary period, for exercising effective operational control over such mobile stations as if they were subscribers to it.

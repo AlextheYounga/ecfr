@@ -1,5 +1,7 @@
 ##### § 11.55 EAS operation during a State or Local Area emergency. #####
 
+Link to an amendment published at 83 FR 37759, August 2, 2018.
+
 (a) The EAS may be activated at the State and Local Area levels by EAS Participants at their discretion for day-to-day emergency situations posing a threat to life and property. Examples of natural emergencies which may warrant state EAS activation are: Tornadoes, floods, hurricanes, earthquakes, heavy snows, icing conditions, widespread fires, etc. Man-made emergencies warranting state EAS activation may include: Toxic gas leaks or liquid spills, widespread power failures, industrial explosions, and civil disorders.
 
 (1) DBS providers shall pass through all EAS messages aired on local television broadcast stations carried by DBS providers under the Commission's broadcast signal carriage rules to subscribers receiving those channels.

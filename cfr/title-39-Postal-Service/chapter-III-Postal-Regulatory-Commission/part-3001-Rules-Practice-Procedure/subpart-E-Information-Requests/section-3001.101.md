@@ -1,0 +1,5 @@
+##### § 3001.101 Information request. #####
+
+(a) An information request may be issued at the discretion of the Commission, the Chairman of the Commission, or the presiding officer seeking that any person provide information, documents, or things covered by § 3001.100. An information request shall describe the information, documents, or things sought, briefly explain the reason for the request, and specify a date on which the response(s) shall be due.
+
+(b) Any person may request the issuance of an information request by motion. The motion shall list the information, documents, or things sought; explain the reasons the information request should be made, and justify why the information sought is relevant and material to the Commission's duties under title 39 of the U.S. Code. At any time after the motion, the Commission, the Chairman of the Commission, or the presiding officer may issue an information request that includes all or some of the proposed questions or modifies the proposed questions.
