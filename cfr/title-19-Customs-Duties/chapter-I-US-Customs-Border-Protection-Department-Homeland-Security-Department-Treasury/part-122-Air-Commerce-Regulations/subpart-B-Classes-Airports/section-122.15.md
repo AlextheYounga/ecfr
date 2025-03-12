@@ -22,12 +22,12 @@
 |Egg Harbor Township, New Jersey|     Atlantic City International Airport.     |
 |      Englewood, Colorado      |             Centennial Airport.              |
 |       Fort Worth, Texas       |         Fort Worth Alliance Airport.         |
+|       Fort Worth, Texas       |  Fort Worth Meacham International Airport.   |
 |      Fresno, California       |    Fresno Yosemite International Airport.    |
 |       Gypsum, Colorado        |        Eagle County Regional Airport.        |
 |       Harlingen, Texas        |        Valley International Airport.         |
 |       Hillsboro, Oregon       |              Hillsboro Airport.              |
 |    Johnson City, New York     |         Greater Binghamton Airport.          |
-|       Kennesaw, Georgia       |     Cobb County Airport-McCollum Field.      |
 |       Lakeland, Florida       |    Lakeland Linder International Airport.    |
 |       Lansing, Michigan       |    Capital Region International Airport.     |
 |       Leesburg, Florida       |       Leesburg International Airport.        |
@@ -48,9 +48,9 @@
 |      Ontario, California      |        Ontario International Airport.        |
 |       Orlando, Florida        |          Orlando Executive Airport.          |
 |   Palm Springs, California    |     Palm Springs International Airport.      |
+|     Plattsburgh, New York     |      Plattsburgh International Airport.      |
 |     Rochester, Minnesota      |       Rochester International Airport.       |
 |       Rogers, Arkansas        |   Rogers Executive Airport - Carter Field.   |
-|        Rome, New York         |       Griffiss International Airport.        |
 |  San Bernardino, California   |    San Bernardino International Airport.     |
 |      San Antonio, Texas       |              Kelly Field Annex.              |
 |     Santa Ana, California     |             John Wayne Airport.              |
@@ -58,6 +58,7 @@
 |      Scottsdale, Arizona      |             Scottsdale Airport.              |
 |      South Bend, Indiana      |      South Bend International Airport.       |
 |    St. Augustine, Florida     |     Northeast Florida Regional Airport.      |
+|        Stuart, Florida        |            Witham Field Airport.             |
 |       Sugar Land, Texas       |         Sugar Land Regional Airport.         |
 |      Trenton, New Jersey      |           Trenton Mercer Airport.            |
 |     Van Nuys, California      |              Van Nuys Airport.               |

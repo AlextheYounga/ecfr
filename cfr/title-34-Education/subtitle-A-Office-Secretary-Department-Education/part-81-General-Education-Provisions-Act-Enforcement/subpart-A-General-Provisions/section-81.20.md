@@ -14,11 +14,15 @@
 
 (iii) A statement of the reasons showing that the ruling complained of involves a controlling question of substantive or procedural law and why immediate review of the ruling will materially advance the disposition of the case, or why subsequent review will be an inadequate remedy.
 
-(2) A petition may not exceed ten pages, double-spaced, and must be accompanied by a copy of the ruling and any findings and opinions relating to the ruling. The petition must be filed with the Office of Hearings and Appeals, which immediately forwards the petition to the Office of the Secretary.
+(2) A petition may not exceed 10 pages, double-spaced, and must be accompanied by a copy of the ruling and any findings and opinions relating to the ruling.
 
-(c) A copy of the petition must be provided to the ALJ at the time the petition is filed under paragraph (b)(2) of this section, and a copy of a petition or any certification must be served upon the parties by certified mail, return receipt requested. The petition or certification must reflect that service.
+(c) If a party files a petition under this section, the ALJ may state to the Secretary a view as to whether review is appropriate by submitting a brief statement addressing the party's petition within 10 days of the ALJ's receipt of the petition for interlocutory review. The ALJ must serve a copy of the statement on all parties by submission to OES and, if the Secretary has permitted paper filing, by hand-delivery or regular mail.
 
-(d) If a party files a petition under this section, the ALJ may state to the Secretary a view as to whether review is appropriate or inappropriate by submitting a brief statement addressing the party's petition within 10 days of the ALJ's receipt of the petition for interlocutory review. A copy of the statement must be served on all parties by certified mail, return receipt requested.
+(d)(1) A party's response, if any, to a petition or certification for interlocutory review must be filed within seven days after service of the petition or certification, and may not exceed 10 pages, double-spaced, in length.
+
+(2) A copy of the response must be filed to OES unless the party shows the Secretary good cause why the response cannot be filed electronically. If the ALJ permits a party to file a petition in paper format, the filing party must file the petition with OHA on behalf of the Secretary by hand-delivery or regular mail.
+
+(3) If the Secretary has permitted a party to file the response in paper format, the party must file a copy of the response with the ALJ, and serve a copy of the response on all parties, on the filing date by hand delivery or regular mail.
 
 (e)(1) A party's response, if any, to a petition or certification for interlocutory review must be filed within seven days after service of the petition or certification, and may not exceed ten pages, double-spaced, in length. A copy of the response must be filed with the ALJ by hand delivery, by regular mail, or by facsimile transmission.
 
@@ -32,4 +36,4 @@
 
 (i) The Secretary may affirm, modify, set aside, or remand the ALJ's ruling.
 
-(Authority: 5 U.S.C. 557(b); 20 U.S.C. 1234(f)(1))[58 FR 43473, Aug. 16, 1993]
+(Authority: 5 U.S.C. 557(b); 20 U.S.C. 1234(f)(1))[58 FR 43473, Aug. 16, 1993, as amended at 86 FR 52832, Sept. 23, 2021]Editorial Note:At 86 FR 52832, Sept. 23, 2021, § 81.20 was amended; however, paragraph (b)(3) could not be added due to inaccurate amendatory instruction.

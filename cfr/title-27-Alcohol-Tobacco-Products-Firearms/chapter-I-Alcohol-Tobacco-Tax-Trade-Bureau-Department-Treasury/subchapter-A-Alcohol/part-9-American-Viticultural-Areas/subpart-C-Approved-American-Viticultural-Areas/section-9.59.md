@@ -1,6 +1,6 @@
 ##### § 9.59 Arroyo Seco. #####
 
-Link to an amendment published at 86 FR 47379, Aug. 25, 2021.
+Link to an amendment published at 86 FR 47379, Aug. 25, 2021.Link to a correcton published at 86 FR 52825, Sept. 23, 2021.
 
 (a) *Name.* The name of the viticultural area described in this section is “Arroyo Seco.”
 
