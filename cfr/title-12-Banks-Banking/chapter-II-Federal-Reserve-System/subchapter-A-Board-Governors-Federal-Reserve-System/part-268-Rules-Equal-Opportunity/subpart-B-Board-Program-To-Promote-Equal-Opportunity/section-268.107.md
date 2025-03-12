@@ -1,5 +1,7 @@
 ##### § 268.107 Investigation of complaints. #####
 
+Link to an amendment published at 84 FR 27029, June 11, 2019.
+
 (a) The investigation of complaints filed against the Board shall be conducted by the Board.
 
 (b) In accordance with instructions contained in Commission Management Directives, the Board shall develop an impartial and appropriate factual record upon which to make findings on the claims raised by the written complaint. An appropriate factual record is one that allows a reasonable fact finder to draw conclusions as to whether discrimination occurred. The Board may use an exchange of letters or memoranda, interrogatories, investigations, fact-finding conferences or any other fact-finding methods that efficiently and thoroughly address the matters at issue. The Board may incorporate alternative dispute resolution techniques into its investigative efforts in order to promote early resolution of complaints.

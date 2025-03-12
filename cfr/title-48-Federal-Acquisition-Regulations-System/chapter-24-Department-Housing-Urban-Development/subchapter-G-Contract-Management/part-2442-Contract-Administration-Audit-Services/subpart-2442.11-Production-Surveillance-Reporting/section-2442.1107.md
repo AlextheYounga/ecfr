@@ -1,19 +1,19 @@
 ##### 2442.1107 Contract clause. #####
 
-Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
+(a) For purposes of clause 2452.242-71, the term “contract” shall also include task orders and purchase orders.
 
-(a) The Contracting Officer shall insert a clause substantially the same as the clause at 2452.242-71, Contract Management System, in solicitations and contracts when all of the following conditions apply:
+(b) The Contracting Officer shall insert a clause substantially the same as the clause at 2452.242-71, Contract Management System, in solicitations and contracts when all of the following conditions apply:
 
-(1) The contract exceeds $500,000, including all options;
+(1) A contract exceeds $1,000,000, including all options; and
 
-(2) The contract requires services of an analytical nature (e.g., applied social science research); and
+(2) The contract is a completion type that requires the delivery of an overall end deliverable or solution (*e.g.,* evaluation, study, model).
 
-(3) The contract requires the delivery of an overall end product (e.g., evaluation, study, model).
+(c) To the extent the clause will not normally be included in commercial contracts meeting the requirements stated in paragraphs (a) and (b) of this section, and in instances where the clause is to be incorporated, pursuant to FAR 12.301(f), a waiver to the standard commercial requirements, to include the clause, is not required.
 
-(b) The Contracting Officer shall use the basic clause for cost type contracts for the services described in paragraph (a) of this section. The clause shall be used with its alternate for fixed-price type contracts for the services described in paragraph (a) of this section.
+(d) The Contracting Officer shall use the basic clause for cost type, labor-hour, and time and materials contracts for the services described in paragraph (b) of this section. The clause shall be used with its alternate for fixed-price type contracts for the services described in paragraph (b). The Contracting Officer may elect to incorporate the clause into contracts below the established threshold.
 
-(c) The Contracting Officer may use such a clause in contracts with a total value of $500,000 or less.
+(e) The clause is not applicable to contracts that only expend a level of effort without a completion deliverable/product due, *e.g.,* temporary services.
 
-(d) The clause shall not be used in contracts for information technology services.
+(f) This clause is not applicable to Information Technology service contracts being managed through Earned Value Management techniques that require reporting of Earned Value Management.
 
-[71 FR 2437, Jan. 13, 2006]
+[84 FR 15129, Apr. 15, 2019]

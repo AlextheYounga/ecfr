@@ -1,5 +1,7 @@
 ##### § 268.104 Pre-complaint processing. #####
 
+Link to an amendment published at 84 FR 27029, June 11, 2019.
+
 (a) Aggrieved persons who believe they have been discriminated against on the basis of race, color, religion, sex, national origin, age or disability must consult a Counselor prior to filing a complaint in order to try to informally resolve the matter.
 
 (1) An aggrieved person must initiate contact with a Counselor within 45 days of the date of the matter alleged to be discriminatory or, in the case of a personnel action, within 45 days of the effective date of the action.

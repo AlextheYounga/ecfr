@@ -1,7 +1,5 @@
 ##### 2452.215-70 Proposal content. #####
 
-Link to an amendment published at 84 FR 15130, Apr. 15, 2019.
-
 As prescribed in 2415.209(a), insert a provision substantially the same as the following:
 
 Proposal Content (MAR 2016)
@@ -24,16 +22,16 @@ Proposal Content (MAR 2016)
 
 The offeror shall describe in detail how the offeror will maintain the security of automated systems as required by clause 2452.239-70 in Section I of this solicitation and include it in Part II, Business Proposal.
 
-(End of provision)
+(End of provision)Alternate II\>PROPOSAL CONTENT ALTERNATE II (APR 2019)
 
-*Alternate II* (MAR 2016) As prescribed in 2415.209(a), add the following paragraph (e) when the size of any proposal Part I or Part II will be limited:
+As prescribed in 2415.209(a), add the following paragraph (e) when the size of any proposal Part I or Part II will be limited:
 
 (e) *Size limits of Parts I and II.* (1) Offerors shall limit submissions of Parts I and II of their initial proposals to the page limitations identified in the Instructions to Offerors. Offerors are cautioned that, if any Part of their proposal exceeds the stipulated limits for that Part, the Government will evaluate only the information contained in the pages up through the permitted number. Pages beyond that limit will not be evaluated.
 
-(2) A page shall consist of one side of a single sheet of 81/2″ × 11″ paper, single spaced, using not smaller than 12 point type font, and having margins at the top, bottom, and sides of the page of no less than one inch in width.
+(2) A page shall consist of one side of a single sheet of 8.5″ x 11″ paper, single-spaced, using not smaller than 12-point type font, and having margins at the top, bottom, and sides of the page of no less than one inch in width.
 
 (3) Any exemptions from this limitation are stipulated under the Instructions to Offerors.
 
 (4) Offerors are encouraged to use recycled paper and to use both sides of the paper (see the FAR clause at 52.204-4).
 
-(End of provision)[81 FR 13752, Mar. 15, 2016]
+(End of provision)[81 FR 13752, Mar. 15, 2016, as amended at 84 FR 15130, Apr. 15, 2019]

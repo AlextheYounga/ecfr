@@ -1,5 +1,7 @@
 ##### § 268.106 Dismissals of complaints. #####
 
+Link to an amendment published at 84 FR 27029, June 11, 2019.
+
 (a) Prior to a request for a hearing in a case, the Board shall dismiss an entire complaint:
 
 (1) That fails to state a claim under § 268.103 or § 268.105(a), or states the same claim that is pending before or has been decided by the Board or the Commission;

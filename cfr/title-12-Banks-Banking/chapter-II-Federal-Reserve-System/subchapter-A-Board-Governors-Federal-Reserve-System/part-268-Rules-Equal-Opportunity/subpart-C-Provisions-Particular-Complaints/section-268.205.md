@@ -1,5 +1,7 @@
 ##### § 268.205 Employment of aliens; Access to sensitive information. #####
 
+Link to an amendment published at 84 FR 27034, June 11, 2019.
+
 (a) *Definitions.* The definitions contained in this paragraph (a) apply only to this section:
 
 (1) *Classified Information* means information that is classified for national security purposes under Executive Order No. 12958, entitled “Classified National Security Information,” including any amendments or superseding orders that the President of the United States may issue from time to time.

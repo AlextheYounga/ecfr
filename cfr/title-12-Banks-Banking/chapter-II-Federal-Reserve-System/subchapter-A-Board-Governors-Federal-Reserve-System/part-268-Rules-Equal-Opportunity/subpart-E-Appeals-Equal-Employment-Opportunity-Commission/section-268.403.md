@@ -1,5 +1,7 @@
 ##### § 268.403 How to appeal. #####
 
+Link to an amendment published at 84 FR 27034, June 11, 2019.
+
 (a) The complainant, the Board, agent or individual class claimant (hereinafter appellant) must file an appeal with the Director, Office of Federal Operations, Equal Employment Opportunity Commission, at PO Box 19848, Washington, DC 20036, or by personal delivery or facsimile. The appellant should use EEOC Form 573, Notice of Appeal/Petition, and should indicate what is being appealed.
 
 (b) The appellant shall furnish a copy of the appeal to the opposing party at the same time it is filed with the Commission. In or attached to the appeal to the Commission, the appellant must certify the date and method by which service was made on the opposing party.

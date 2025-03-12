@@ -1,5 +1,7 @@
 ##### § 268.201 Age Discrimination in Employment Act. #####
 
+Link to an amendment published at 84 FR 27030, June 11, 2019.
+
 (a) As an alternative to filing a complaint under this part, an aggrieved individual may file a civil action in a United States district court under the ADEA against the Chairman of the Board of Governors after giving the Commission not less than 30 days' notice of the intent to file such an action. Such notice must be filed in writing with EEOC, at PO Box 19848, Washington, DC 20036, or by personal delivery or facsimile within 180 days of the occurrence of the alleged unlawful practice.
 
 (b) The Commission may exempt a position from the provisions of the ADEA if the Commission establishes a maximum age requirement for the position on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position.

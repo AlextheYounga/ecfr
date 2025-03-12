@@ -1,5 +1,7 @@
 ##### § 268.401 Appeals to the Equal Employment Opportunity Commission. #####
 
+Link to an amendment published at 84 FR 27034, June 11, 2019.
+
 (a) A complainant may appeal the Board's final action or dismissal of a complaint.
 
 (b) The Board may appeal as provided in § 268.109(a).

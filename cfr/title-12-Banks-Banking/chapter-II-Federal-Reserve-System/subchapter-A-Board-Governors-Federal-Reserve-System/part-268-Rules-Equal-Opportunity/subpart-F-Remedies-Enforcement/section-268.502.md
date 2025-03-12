@@ -1,5 +1,7 @@
 ##### § 268.502 Compliance with final Commission decisions. #####
 
+Link to an amendment published at 84 FR 27034, June 11, 2019.
+
 (a) Relief ordered in a final Commission decision, if accepted pursuant to § 268.405(c) as a final decision, or not acted upon the Board within the time periods of § 268.405(c), is mandatory and binding on the Board except as provided in this section. Failure to implement ordered relief shall be subject to judicial enforcement as specified in § 268.503(f).
 
 (b) Notwithstanding paragraph (a) of this section, when the Board requests reconsideration and the case involves removal, separation, or a suspension continuing beyond the date of the request for reconsideration, and when the decision orders retroactive restoration, the Board shall comply with the decision to the extent of the temporary or conditional restoration of the employee to duty status in the position specified by the Commission, pending the outcome of the Board's request for reconsideration.

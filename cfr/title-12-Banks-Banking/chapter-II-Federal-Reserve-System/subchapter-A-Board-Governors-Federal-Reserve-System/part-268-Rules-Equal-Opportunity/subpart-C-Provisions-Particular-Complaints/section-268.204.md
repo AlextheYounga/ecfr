@@ -1,5 +1,7 @@
 ##### § 268.204 Class complaints. #####
 
+Link to an amendment published at 84 FR 27034, June 11, 2019.
+
 (a) *Definitions* - (1) *Class* is a group of Board employees, former employees or applicants for employment who, it is alleged, have been or are being adversely affected by a Board personnel management policy or practice that discriminates against the group on the basis of their race, color, religion, sex, national origin, age or disability.
 
 (2) *Class complaint* is a written complaint of discrimination filed on behalf of a class by the agent of the class alleging that:

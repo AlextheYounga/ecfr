@@ -1,5 +1,7 @@
 ##### § 268.102 Board program for equal employment opportunity. #####
 
+Link to an amendment published at 84 FR 27029, June 11, 2019.
+
 (a) The Board shall maintain a continuing affirmative program to promote equal opportunity and to identify and eliminate discriminatory practices and policies. In support of this program, the Board shall:
 
 (1) Provide sufficient resources to its equal opportunity program to ensure efficient and successful operation;

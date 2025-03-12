@@ -1,5 +1,7 @@
 ##### § 268.710 Compliance procedures. #####
 
+Link to an amendment published at 84 FR 27035, June 11, 2019.
+
 (a) *Applicability.* Except as provided in paragraph (b) of this section, this section, rather than subpart B and § 268.203 of this part, applies to all allegations of discrimination on the basis of a disability in programs or activities conducted by the Board.
 
 (b) *Employment complaints.* The Board shall process complaints alleging discrimination in employment on the basis of a disability in accordance with subparts A through G of this part.

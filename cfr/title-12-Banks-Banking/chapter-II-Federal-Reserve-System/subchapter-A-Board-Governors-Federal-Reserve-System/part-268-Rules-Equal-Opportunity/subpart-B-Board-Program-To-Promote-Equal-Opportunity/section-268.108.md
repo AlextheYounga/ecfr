@@ -1,5 +1,7 @@
 ##### § 268.108 Hearings. #####
 
+Link to an amendment published at 84 FR 27030, June 11, 2019.
+
 (a) When a complainant requests a hearing, the Commission shall appoint an administrative judge to conduct a hearing in accordance with this section. Upon appointment, the administrative judge shall assume full responsibility for the adjudication of the complaint, including overseeing the development of the record. Any hearing will be conducted by an administrative judge or hearing examiner with appropriate security clearances.
 
 (b) *Dismissals.* Administrative judges may dismiss complaints pursuant to § 268.106, on their own initiative, after notice to the parties, or upon the Board's motion to dismiss a complaint.

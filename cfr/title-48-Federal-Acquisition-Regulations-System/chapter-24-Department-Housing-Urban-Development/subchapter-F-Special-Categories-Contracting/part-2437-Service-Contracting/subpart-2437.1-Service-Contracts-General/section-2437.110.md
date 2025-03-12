@@ -1,7 +1,5 @@
 ##### 2437.110 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
-
 (e)(1) The Contracting Officer shall insert the clause at 2452.237-70, Key Personnel, in solicitations and contracts when it is necessary for contract performance to identify Contractor Key personnel.
 
 (2) The Contracting Officer shall insert the clause at 2452.237-73, “Conduct of Work and Technical Guidance,” in all solicitations and contracts for services.
@@ -14,4 +12,8 @@ Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
 
 (6) The Contracting Officer shall insert the clause at 2452.237-81, “Labor Categories, Unit Prices Per Hour and Payment,” in all indefinite quantity and requirements solicitations and contracts when level of effort task orders will be issued.
 
-[77 FR 73531, Dec. 10, 2012, as amended at 81 FR 13752, Mar. 15, 2016]
+(7) The Contracting Officer shall insert provision 2452.237-82, Access to Controlled Unclassified Information (CUI), in Section L of solicitations when controlled unclassified information (“CUI”), as defined in the provision, will be provided to potential offerors for the purpose of preparing offers.
+
+(8) The Contracting Officer shall insert clause 2452.237-83 in Section H, Access to Controlled Unclassified Information (CUI), of solicitations and contracts under which contractor and/or subcontractor employees will be granted access to controlled unclassified information (CUI) as defined in the clause.
+
+[77 FR 73531, Dec. 10, 2012, as amended at 81 FR 13752, Mar. 15, 2016; 84 FR 15129, Apr. 15, 2019]

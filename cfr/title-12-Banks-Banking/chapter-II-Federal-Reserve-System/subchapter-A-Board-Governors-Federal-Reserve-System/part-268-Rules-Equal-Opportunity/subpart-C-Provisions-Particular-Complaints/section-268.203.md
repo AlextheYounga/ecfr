@@ -1,5 +1,7 @@
 ##### § 268.203 Rehabilitation Act. #####
 
+Link to an amendment published at 84 FR 27030, June 11, 2019.
+
 (a) *Model employer.* The Board shall be a model employer of individuals with disabilities. The Board shall give full consideration to the hiring, placement, and advancement of qualified individuals with disabilities.
 
 (b) *ADA standards.* The standards used to determine whether section 501 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 791), has been violated in a complaint alleging nonaffirmative action employment discrimination under this part shall be the standards applied under titles I and V (sections 501 through 504 and 510) of the Americans with Disabilities Act of 1990, as amended (42 U.S.C. 12101, 12111, 12201), as such sections relate to employment. These standards are set forth in the Commission's ADA regulation at 29 CFR part 1630.
