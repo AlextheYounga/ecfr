@@ -1,5 +1,7 @@
 ##### § 381.195 Definitions; requirements for importation into the United States. #####
 
+Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
+
 (a) When used in this part, the following terms are defined to mean:
 
 (1) *Import (imported).* To bring within the territorial limits of the United States whether that arrival is accomplished by land, air, or water.

@@ -1,7 +1,5 @@
 ##### § 51.917 Revenue recovery for Rate-of-Return Carriers. #####
 
-Link to an amendment published at 84 FR 57651, Oct. 28, 2019.
-
 (a) *Scope.* This section sets forth the extent to which Rate-of-Return Carriers may recover, through the recovery mechanism outlined in paragraphs (d) through (f) of this section, a portion of revenues lost due to rate reductions required by § 20.11(b) of this chapter, and §§ 51.705 and 51.909.
 
 (b) *Definitions.*
@@ -32,7 +30,7 @@ Link to an amendment published at 84 FR 57651, Oct. 28, 2019.
 
 (iii) Fiscal Year 2011 reciprocal compensation revenues received by March 31, 2012, less Fiscal Year 2011 reciprocal compensation payments paid and/or payable by March 31, 2012
 
-(c) 2011 Rate-of-Return Carrier Base Period Revenue shall be adjusted to reflect the removal of any increases in revenue requirement or revenues resulting from access stimulation activity the Rate-of-Return Carrier engaged in during the relevant measuring period. A Rate-of-Return Carrier should make this adjustment for its initial July 1, 2012, tariff filing, but the adjustment may result from a subsequent Commission or court ruling.
+(c) *Adjustment for Access Stimulation activity.* 2011 Rate-of-Return Carrier Base Period Revenue shall be adjusted to reflect the removal of any increases in revenue requirement or revenues resulting from Access Stimulation activity the Rate-of-Return Carrier engaged in during the relevant measuring period. A Rate-of-Return Carrier should make this adjustment for its initial July 1, 2012, tariff filing, but the adjustment may result from a subsequent Commission or court ruling.
 
 (d) *Eligible Recovery for Rate-of-Return Carriers.* (1) Notwithstanding any other provision of the Commission's rules, a Rate-of-Return Carrier may recover the amounts specified in this paragraph through the mechanisms described in paragraphs (e) and (f) of this section.
 
@@ -155,4 +153,4 @@ The per line per month imputation amount shall be equal to the Access Recovery C
 
 (B) If the former amount is equal to or less than the latter amount, the imputation on Consumer Broadband-Only Loops is limited to the difference between the two amounts.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 78 FR 26268, May 6, 2013; 79 FR 28847, May 20, 2014; 80 FR 15909, Mar. 26, 2015; 81 FR 24337, Apr. 25, 2016; 83 FR 14189, Apr. 3, 2018]
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 78 FR 26268, May 6, 2013; 79 FR 28847, May 20, 2014; 80 FR 15909, Mar. 26, 2015; 81 FR 24337, Apr. 25, 2016; 83 FR 14189, Apr. 3, 2018; 84 FR 57651, Oct. 28, 2019]

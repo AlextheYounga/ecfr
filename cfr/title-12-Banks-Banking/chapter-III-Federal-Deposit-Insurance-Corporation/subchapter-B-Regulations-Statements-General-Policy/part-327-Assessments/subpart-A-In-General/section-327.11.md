@@ -145,13 +145,13 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (10) *Mergers and consolidation include only legal mergers and consolidation.* For the purposes of this paragraph (c), a merger or consolidation does not include transactions in which an insured depository institution either directly or indirectly acquires the assets of, or assumes liability to pay any deposits made in, any other insured depository institution, but there is not a legal merger or consolidation of the two insured depository institutions.
 
-(11) *Use of credits.* (i) The FDIC shall apply assessment credits awarded under paragraph (c) of this section to an institution's deposit insurance assessments, as calculated under §§ 327.9 and 327.16, only for assessment periods in which the reserve ratio of the DIF is at least 1.38 percent.
+(11) *Use of credits.* (i) Effective as of July 1, 2019, the FDIC will apply assessment credits awarded under this paragraph (c) to an institution's deposit insurance assessments, as calculated under this part 327, beginning in the first assessment period in which the reserve ratio of the DIF is at least 1.38 percent, and in each assessment period thereafter in which the reserve ratio of the DIF is at least 1.35 percent, for no more than three additional assessment periods.
 
 (ii) The FDIC shall apply assessment credits to reduce an institution's quarterly deposit insurance assessments by each institution's remaining credits. The assessment credit applied to each institution's deposit insurance assessment for any assessment period shall not exceed the institution's total deposit insurance assessment for that assessment period.
 
-(iii) The amount of credits applied each quarter will not be recalculated as a result of amendments to the quarterly Reports of Condition and Income or the quarterly Reports of Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks pertaining to any quarter in which credits have been applied.
-
 (12) *Transfer or sale of credits.* Other than through merger or consolidation, credits may not be sold or transferred.
+
+(13) *Remittance of credits.* After assessment credits awarded under this paragraph (c) have been applied for four assessment periods, the FDIC will remit the full nominal value of an institution's remaining assessment credits in a single lump-sum payment to such institution in the next assessment period in which the reserve ratio is at least 1.35 percent.
 
 (d) *Request for review and appeals of assessment credits.* (1) An institution that disagrees with the basis for its assessment credits, or the Corporation's computation of its assessments credits under paragraph (c) of this section and seeks to change it must submit a written request for review and any supporting documentation to the FDIC's Director of the Division of Finance.
 
@@ -173,4 +173,4 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (5) *Adjustments to assessment credits.* Once the Director of the Division of Finance, or the Assessment Appeals Committee, as appropriate, has notified the requesting bank of its final determination, the FDIC will make appropriate adjustments to assessment credit amounts consistent with that determination. Adjustments to an insured depository institution's assessment credit amounts will not be applied retroactively to reduce or increase the quarterly deposit insurance assessment for a prior assessment period.
 
-[81 FR 16069, Mar. 25, 2016, as amended at 83 FR 14568, Apr. 5, 2018]
+[81 FR 16069, Mar. 25, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 65275, Nov. 27, 2019]

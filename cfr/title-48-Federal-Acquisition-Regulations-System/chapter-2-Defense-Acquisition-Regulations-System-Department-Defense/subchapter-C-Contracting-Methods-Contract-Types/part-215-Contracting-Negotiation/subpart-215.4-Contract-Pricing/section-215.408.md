@@ -56,4 +56,6 @@
 
 (ii) The submission of certified cost or pricing data or data other than certified cost or pricing data will be required.
 
-[63 FR 55040, Oct. 14, 1998, as amended at 72 FR 20760, Apr. 26, 2007; 73 FR 27472, May 13, 2008; 75 FR 48279, Aug. 10, 2010; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 76940, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 18872, Mar. 28, 2013; 78 FR 37986, June 25, 2013; 78 FR 65216, Oct. 31, 2013; 81 FR 28730, May 10, 2016; 81 FR 36473, June 7, 2016; 83 FR 4444, Jan. 31, 2018; 83 FR 30825, 30828, June 29, 2018; 84 FR 30949, June 28, 2019]
+(8) Use the clause at 252.215-7015, Program Should-Cost Review, in all solicitations and contracts for the development or production of a major weapon system, as defined in 234.7001.
+
+[63 FR 55040, Oct. 14, 1998, as amended at 72 FR 20760, Apr. 26, 2007; 73 FR 27472, May 13, 2008; 75 FR 48279, Aug. 10, 2010; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 76940, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 18872, Mar. 28, 2013; 78 FR 37986, June 25, 2013; 78 FR 65216, Oct. 31, 2013; 81 FR 28730, May 10, 2016; 81 FR 36473, June 7, 2016; 83 FR 4444, Jan. 31, 2018; 83 FR 30825, 30828, June 29, 2018; 84 FR 30949, June 28, 2019; 84 FR 65309, Nov. 27, 2019]

@@ -1,5 +1,7 @@
 ##### § 310.22 Specified risk materials from cattle and their handling and disposition. #####
 
+Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
+
 (a) The following materials from cattle are specified risk materials, except when they are from cattle from a country that can demonstrate that its bovine spongiform encephalopathy (BSE) risk status can reasonable be expected to provide the same level of protection from human exposure to the BSE agent as prohibiting specified risk materials for use as human food does in the United States:
 
 (1) The brain, skull, eyes, trigeminal ganglia, spinal cord, vertebral column (excluding the vertebrae of the tail, the transverse processes of the thoracic and lumbar vertebrae, and the wings of the sacrum), and dorsal root ganglia from cattle 30 months of age and older and

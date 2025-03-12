@@ -14,4 +14,6 @@
 
 (ii) The amount equal to 3 basis points of the institution's assessment base.
 
-[71 FR 61383, Oct. 18, 2006, as amended at 81 FR 16073, Mar. 25, 2016]
+(c) *Remittance of credits.* Subject to the limitations in paragraph (b) of this section, in the same assessment period that the FDIC remits the full nominal value of small bank assessment credits pursuant to § 327.11(c)(13), the FDIC shall remit the full nominal value of an institution's remaining one-time assessment credits provided under this subpart B in a single lump-sum payment to such institution.
+
+[71 FR 61383, Oct. 18, 2006, as amended at 81 FR 16073, Mar. 25, 2016; 84 FR 65276, Nov. 27, 2019]

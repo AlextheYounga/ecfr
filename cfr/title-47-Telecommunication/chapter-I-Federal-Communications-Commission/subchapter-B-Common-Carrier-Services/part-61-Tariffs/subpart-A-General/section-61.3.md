@@ -1,7 +1,5 @@
 ##### § 61.3 Definitions. #####
 
-Link to an amendment published at 84 FR 57651, Oct. 28, 2019.
-
 (a) *Act.* The Communications Act of 1934 (48 Stat. 1004; 47 U.S.C. chapter 5), as amended.
 
 (b) *Actual Price Index* (API). An index of the level of aggregate rate element rates in a basket, which index is calculated pursunt to § 61.46.
@@ -136,12 +134,26 @@ Average Price Cap CMT Revenue per Line Month in a study area = Price Cap CMT Rev
 
 Zone Average Revenue per Line = (25% \* (Loop + Port)) + U (Uniform revenue per line adjustment)Where:Loop = the price for unbundled loops in a UNE zone.Port = the price for switch ports in that UNE zone.U = [(Average Price Cap CMT Revenue per Line month in a study area \* price cap local exchange carrier Base Period Lines) − (25% \* Σ (price cap local exchange carrier Base Period Lines in a UNE Zone \* ((Loop + Port ) for all zones)))] ÷ price cap local exchange carrier Base Period Lines in a study area.
 
-(bbb) *Access stimulation.* (1) A rate-of-return local exchange carrier or a Competitive Local Exchange Carrier engages in access stimulation when it satisfies the following two conditions:
+(bbb) *Access Stimulation.* (1) A Competitive Local Exchange Carrier serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (ii) of this section; and a rate-of-return local exchange carrier serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (iii) of this section.
 
-(i) Has an access revenue sharing agreement, whether express, implied, written or oral, that, over the course of the agreement, would directly or indirectly result in a net payment to the other party (including affiliates) to the agreement, in which payment by the rate-of-return local exchange carrier or Competitive Local Exchange Carrier is based on the billing or collection of access charges from interexchange carriers or wireless carriers. When determining whether there is a net payment under this rule, all payments, discounts, credits, services, features, functions, and other items of value, regardless of form, provided by the rate-of-return local exchange carrier or Competitive Local Exchange Carrier to the other party to the agreement shall be taken into account; and
+(i) The rate-of-return local exchange carrier or a Competitive Local Exchange Carrier:
 
-(ii) Has either an interstate terminating-to-originating traffic ratio of at least 3:1 in a calendar month, or has had more than a 100 percent growth in interstate originating and/or terminating switched access minutes of use in a month compared to the same month in the preceding year.
+(A) Has an access revenue sharing agreement, whether express, implied, written or oral, that, over the course of the agreement, would directly or indirectly result in a net payment to the other party (including affiliates) to the agreement, in which payment by the rate-of-return local exchange carrier or Competitive Local Exchange Carrier is based on the billing or collection of access charges from interexchange carriers or wireless carriers. When determining whether there is a net payment under this part, all payments, discounts, credits, services, features, functions, and other items of value, regardless of form, provided by the rate-of-return local exchange carrier or Competitive Local Exchange Carrier to the other party to the agreement shall be taken into account; and
 
-(2) The local exchange carrier will continue to be engaging in access stimulation until it terminates all revenue sharing arrangements covered in paragraph (a)(1)(i) of this section. A local exchange carrier engaging in access stimulation is subject to revised interstate switched access charge rules under § 61.38 and § 69.3(e)(12) of this chapter.
+(B) Has either an interstate terminating-to-originating traffic ratio of at least 3:1 in a calendar month, or has had more than a 100 percent growth in interstate originating and/or terminating switched access minutes of use in a month compared to the same month in the preceding year.
+
+(ii) A Competitive Local Exchange Carrier has an interstate terminating-to-originating traffic ratio of at least 6:1 in an end office in a calendar month.
+
+(iii) A rate-of-return local exchange carrier has an interstate terminating-to-originating traffic ratio of at least 10:1 in an end office in a three calendar month period and has 500,000 minutes or more of interstate terminating minutes-of-use per month in the same end office in the same three calendar month period. These factors will be measured as an average over the three calendar month period.
+
+(2) A Competitive Local Exchange Carrier will continue to be engaging in Access Stimulation until: For a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section, it terminates all revenue sharing agreements covered in paragraph (bbb)(1)(i) of this section and does not engage in Access Stimulation as defined in paragraph (bbb)(1)(ii) of this section; and for a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(ii) of this section, its interstate terminating-to-originating traffic ratio falls below 6:1 for six consecutive months, and it does not engage in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section.
+
+(3) A rate-of-return local exchange carrier will continue to be engaging in Access Stimulation until: For a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section, it terminates all revenue sharing agreements covered in paragraph (bbb)(1)(i) of this section and does not engage in Access Stimulation as defined in paragraph (bbb)(1)(iii) of this section; and for a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(iii) of this section, its interstate terminating-to-originating traffic ratio falls below 10:1 for six consecutive months and its monthly interstate terminating minutes-of-use in an end office falls below 500,000 for six consecutive months, and it does not engage in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section.
+
+(4) A local exchange carrier engaging in Access Stimulation is subject to revised interstate switched access charge rules under § 61.26(g) (for Competitive Local Exchange Carriers) or § 61.38 and § 69.3(e)(12) of this chapter (for rate-of-return local exchange carriers).
+
+(ccc) *Intermediate Access Provider.* The term means, for purposes of this part and §§ 69.3(e)(12)(iv) and 69.5(b) of this chapter, any entity that carries or processes traffic at any point between the final Interexchange Carrier in a call path and a local exchange carrier engaged in Access Stimulation, as defined in paragraph (bbb) of this section.
+
+(ddd) *Interexchange Carrier.* The term means, for purposes of this part and §§ 69.3(e)(12)(iv) and 69.5(b) of this chapter, a retail or wholesale telecommunications carrier that uses the exchange access or information access services of another telecommunications carrier for the provision of telecommunications.
 
 [54 FR 19840, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

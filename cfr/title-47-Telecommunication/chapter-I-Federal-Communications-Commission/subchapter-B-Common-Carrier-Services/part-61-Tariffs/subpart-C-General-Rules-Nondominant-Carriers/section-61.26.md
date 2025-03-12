@@ -1,7 +1,5 @@
 ##### § 61.26 Tariffing of competitive interstate switched exchange access services. #####
 
-Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
-
 (a) *Definitions.* For purposes of this section, the following definitions shall apply:
 
 (1) *CLEC* shall mean a local exchange carrier that provides some or all of the interstate exchange access services used to send traffic to or from an end user and does not fall within the definition of “incumbent local exchange carrier” in 47 U.S.C. 251(h).
@@ -48,4 +46,10 @@ Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
 
 (2) A CLEC engaging in access stimulation, as that term is defined in § 61.3(bbb), shall file revised interstate switched access tariffs within forty-five (45) days of commencing access stimulation, as that term is defined in § 61.3(bbb), or within forty-five (45) days of [date] if the CLEC on that date is engaged in access stimulation, as that term is defined in § 61.3(bbb).
 
-[76 FR 73881, Nov. 29, 2011, as amended at 77 FR 20553, Apr. 5, 2012]
+(3) Notwithstanding any other provision of this part, if a CLEC is engaged in Access Stimulation, as defined in § 61.3(bbb), it shall:
+
+(i) Within 45 days of commencing Access Stimulation, or within 45 days of November 27, 2019, whichever is later, file tariff revisions removing from its tariff terminating switched access tandem switching and terminating switched access tandem transport access charges assessable to an Interexchange Carrier for any traffic between the tandem and the local exchange carrier's terminating end office or equivalent; and
+
+(ii) Within 45 days of commencing Access Stimulation, or within 45 days of November 27, 2019, whichever is later, the CLEC shall not file a tariffed rate that is assessable to an Interexchange Carrier for terminating switched access tandem switching or terminating switched access tandem transport access charges for any traffic between the tandem and the local exchange carrier's terminating end office or equivalent.
+
+[76 FR 73881, Nov. 29, 2011, as amended at 77 FR 20553, Apr. 5, 2012; 84 FR 57652, Oct. 28, 2019]

@@ -1,5 +1,7 @@
 ##### § 327.2 Eligibility of foreign countries for importation of products into the United States. #####
 
+Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
+
 (a)(1) Whenever it shall be determined by the Administrator that the system of meat inspection maintained by any foreign country, with respect to establishments preparing products in such country for export to the United States, insures compliance of such establishments and their products with requirements equivalent to all the inspection, building construction standards, and all other provisions of the Act and the regulations in this subchapter which are applied to official establishments in the United States, and their products, and that reliance can be placed upon certificates required under this part from authorities of such foreign country, notice of that fact will be given by including the name of such foreign country in paragraph (b) of this section. Thereafter, products prepared in such establishments which are certified and approved in accordance with paragraph (a)(3) of this section, shall be eligible so far as this subchapter is concerned for importation into the United States from such foreign country after applicable requirements of this subchapter have been met.
 
 (2) The determination of acceptability of a foreign meat inspection system for purposes of this section shall be based on an evaluation of the foreign program in accordance with the following requirements and procedures:

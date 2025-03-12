@@ -1,7 +1,5 @@
 ##### § 61.39 Optional supporting information to be submitted with letters of transmittal for Access Tariff filings by incumbent local exchange carriers serving 50,000 or fewer access lines in a given study area that are described as subset 3 carriers in § 69.602. #####
 
-Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
-
 (a*) Scope.* Except as provided in paragraph (g) of this section, This section provides for an optional method of filing for any local exchange carrier that is described as a subset 3 carrier in § 69.602 of this chapter, which elects to issue its own Access Tariff for a period commencing on or after April 1, 1989, and which serves 50,000 or fewer access lines in a study area as determined under § 36.611(a)(8) of this chapter. However, the Commission may require any carrier to submit such information as may be necessary for review of a tariff filing. This section (other than the preceding sentence of this paragraph) shall not apply to tariff filings of local exchange carriers subject to price cap regulation.
 
 (b) *Explanation and data supporting tariff changes.* The material to be submitted to either a tariff change or a new tariff which affects rates or charges must include an explanation of the filing in the transmittal as required by § 61.15. The basis for ratemaking must comply with the following requirements. Except as provided in paragraph (b)(5) of this section, it is not necessary to submit this supporting data at the time of filing. However, the incumbent local exchange carrier should be prepared to submit the data promptly upon reasonable request by the Commission or interested parties.
@@ -52,6 +50,6 @@ Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
 
 (f) On each page of cost support material submitted pursuant to this section, the issuing carrier shall indicate the transmittal number under which that page was submitted.
 
-(g) A local exchange carrier otherwise eligible to file a tariff pursuant to this section may not do so if it is engaging in access stimulation, as that term is defined in § 61.3(bbb) of this part, and has not terminated its access revenue sharing agreement(s). A carrier so engaged must file interstate access tariffs in accordance with § 61.38, and § 69.3(e)(12)(1) of this chapter.
+(g) *Engagement in Access Stimulation.* A local exchange carrier otherwise eligible to file a tariff pursuant to this section may not do so if it is engaging in Access Stimulation, as that term is defined in § 61.3(bbb). A carrier so engaged must file interstate access tariffs in accordance with § 61.38 and § 69.3(e)(12) of this chapter.
 
-[76 FR 43212, July 20, 2011, as amended at 76 FR 73882, Nov. 29, 2011]
+[76 FR 43212, July 20, 2011, as amended at 76 FR 73882, Nov. 29, 2011; 84 FR 57652, Oct. 28, 2019]

@@ -58,6 +58,8 @@
 
 (ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
 
+*Milestone decision authority,* with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 2431a).
+
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.
 
 *Obsolete electronic part* means an electronic part that is no longer available from the original manufacturer or an authorized aftermarket manufacturer.

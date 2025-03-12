@@ -34,8 +34,8 @@
 
 (c) The clause at 252.228-7003, Capture and Detention, may be used when contractor employees are subject to capture and detention and may not be covered by the War Hazards Compensation Act (42 U.S.C. 1701 *et seq.*).
 
-(d) The clause at 252.228-7005, Accident Reporting and Investigation Involving Aircraft, Missiles, and Space Launch Vehicles, may be used in solicitations and contracts which involve the manufacture, modification, overhaul, or repair of these items.
+(d) Use the clause at 252.228-7005, Mishap Reporting and Investigation Involving Aircraft, Missiles, and Space Launch Vehicles, in solicitations and contracts that involve the manufacture, modification, overhaul, or repair of aircraft, missiles, and space launch vehicles.
 
 (e) Use the clause at 252.228-7006, Compliance with Spanish Laws and Insurance, in solicitations and contracts for services or construction to be performed in Spain, unless the contractor is a Spanish concern.
 
-[56 FR 36404, July 31, 1991, as amended at 57 FR 42631, Sept. 15, 1992; 62 FR 34125, June 24, 1997; 63 FR 69006, Dec. 15, 1998; 75 FR 32644, June 8, 2010]
+[56 FR 36404, July 31, 1991, as amended at 57 FR 42631, Sept. 15, 1992; 62 FR 34125, June 24, 1997; 63 FR 69006, Dec. 15, 1998; 75 FR 32644, June 8, 2010; 84 FR 65312, Nov. 27, 2019]

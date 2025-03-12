@@ -1,7 +1,5 @@
 ##### § 51.903 Definitions. #####
 
-Link to an amendment published at 84 FR 57650, Oct. 28, 2019.
-
 For the purposes of this subpart:
 
 (a) *Competitive Local Exchange Carrier.* A *Competitive Local Exchange Carrier* is any local exchange carrier, as defined in § 51.5, that is not an incumbent local exchange carrier .
@@ -38,4 +36,10 @@ For incumbent local exchange carriers, residual rate elements may include, for e
 
 (j) *Transitional Intrastate Access Service* means terminating End Office Access Service that was subject to intrastate access rates as of December 31, 2011; terminating Tandem-Switched Transport Access Service that was subject to intrastate access rates as of December 31, 2011; and originating and terminating Dedicated Transport Access Service that was subject to intrastate access rates as of December 31, 2011.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 83 FR 67121, Dec. 28, 2018]
+(k) *Access Stimulation* has the same meaning as that term is defined in § 61.3(bbb) of this chapter.
+
+(l) *Intermediate Access Provider* has the same meaning as that term is defined in § 61.3(ccc) of this chapter.
+
+(m) *Interexchange Carrier* has the same meaning as that term is defined in § 61.3(ddd) of this chapter.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 83 FR 67121, Dec. 28, 2018; 84 FR 57650, Oct. 28, 2019]

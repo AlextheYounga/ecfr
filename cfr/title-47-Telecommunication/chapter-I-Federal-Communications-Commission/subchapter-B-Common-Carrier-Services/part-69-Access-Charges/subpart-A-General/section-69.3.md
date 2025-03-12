@@ -1,7 +1,5 @@
 ##### § 69.3 Filing of access service tariffs. #####
 
-Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
-
 (a) Except as provided in paragraphs (g) and (h) of this section, a tariff for access service shall be filed with this Commission for a two-year period. Such tariffs shall be filed with a scheduled effective date of July 1. Such tariff filings shall be limited to rate level changes.
 
 (b) The requirements imposed by paragraph (a) of this section shall not preclude the filing of revisions to those annual tariffs that will become effective on dates other than July 1.
@@ -39,6 +37,12 @@ Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
 (ii) Notwithstanding paragraphs (e)(6) and (e)(9) of this section, a local exchange carrier, or a group of affiliated carriers in which at least one carrier is engaging in access stimulation, as that term is defined in § 61.3(bbb) of this chapter, must withdraw from all interstate access tariffs issued by the association within forty-five (45) days of engaging in access stimulation, as that term is defined in § 61.3(bbb) of this chapter, or within forty-five (45) days of December 29, 2011 if the local exchange carrier on that date is engaged in access stimulation, as that term is defined in § 61.3(bbb) of this chapter.
 
 (iii) Any such carrier(s) shall notify the association when it begins access stimulation, or on December 29, 2011 if it is engaged in access stimulation, as that term is defined in § 61.3(bbb) of this chapter, on that date, of its intent to leave the association tariffs within forty-five (45) days.
+
+(iv) Notwithstanding any other provision of this part, if a rate-of-return local exchange carrier is engaged in Access Stimulation, or a group of affiliated carriers in which at least one carrier is engaging in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall:
+
+(A) Within 45 days of commencing Access Stimulation, or within 45 days of November 27, 2019, whichever is later, file tariff revisions removing from its tariff terminating switched access tandem switching and terminating switched access tandem transport access charges assessable to an Interexchange Carrier for any traffic between the tandem and the local exchange carrier's terminating end office or equivalent; and
+
+(B) Within 45 days of commencing Access Stimulation, or within 45 days of November 27, 2019, whichever is later, the local exchange carrier shall not file a tariffed rate for terminating switched access tandem switching or terminating switched access tandem transport access charges that is assessable to an Interexchange Carrier for any traffic between the tandem and the local exchange carrier's terminating end office or equivalent.
 
 (f)(1) A tariff for access service provided by a telephone company that is required to file an access tariff pursuant to § 61.38 of this Chapter shall be filed for a biennial period and with a scheduled effective date of July 1 of any even numbered year.
 
@@ -80,4 +84,4 @@ Link to an amendment published at 84 FR 57652, Oct. 28, 2019.
 
 (j) [Reserved]
 
-(47 U.S.C. 154 (i) and (j), 201, 202, 203, 205, 218 and 403 and 5 U.S.C. 553)[48 FR 10358, Mar. 11, 1983]Editorial Note:For Federal Register citations affecting § 69.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[48 FR 10358, Mar. 11, 1983]Editorial Note:For Federal Register citations affecting § 69.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -2,7 +2,7 @@
 
 (a) [Reserved]
 
-(b) *Advance payments for cost-sharing reductions* - (1) A QHP issuer will receive periodic advance payments based on the advance payment amounts calculated in accordance with § 155.1030(b)(3) of this subchapter.
+(b) *Advance payments for cost-sharing reductions.* (1) A QHP issuer will receive periodic advance payments based on the advance payment amounts calculated in accordance with § 155.1030(b)(3) of this subchapter.
 
 (2) HHS may adjust the advance payment amount for a particular QHP during the benefit year if the QHP issuer provides evidence, certified by a member of the American Academy of Actuaries in accordance with generally accepted actuarial principles and methodologies, that the advance payments for a particular QHP are likely to be substantially different than the cost-sharing reduction amounts that the QHP provides that will be reimbursed by HHS.
 

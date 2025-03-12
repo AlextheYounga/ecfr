@@ -1,7 +1,5 @@
 ##### § 101.8 Vending machines. #####
 
-Link to an amendment published at 84 FR 57610, Oct. 28, 2019.
-
 (a) *Definitions.* The definitions of terms in section 201 of the Federal Food, Drug, and Cosmetic Act apply to such terms when used in this section. In addition, for the purposes of this section:
 
 *Authorized official of a vending machine operator* means an owner, operator, agent in charge, or any other person authorized by a vending machine operator who is not otherwise subject to section 403(q)(5)(H)(viii) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343(q)(5)(H)(viii)), to register the vending machine operator with the Food and Drug Administration (“FDA”) for purposes of paragraph (d) of this section.
@@ -18,9 +16,9 @@ Link to an amendment published at 84 FR 57610, Oct. 28, 2019.
 
 (ii) The calories, serving size, and servings per container listed in a reproduction of the Nutrition Facts label on the vending machine food, provided that the reproduction is a reproduction of an actual Nutrition Facts label that complies with § 101.9 for a vending machine food, is presented in a size that permits the prospective purchaser to be able to easily read the nutrition information, and the calories, serving size, and servings per container are displayed by the vending machine before the prospective purchaser makes his or her purchase; or
 
-(2) The prospective purchaser can otherwise view visible nutrition information, including, at a minimum the total number of calories for the article of food as sold at the point of purchase. This visible nutrition information must appear on the food label itself. The visible nutrition information must be clear and conspicuous and able to be easily read on the article of food while in the vending machine, in a type size at least 50 percent of the size of the largest printed matter on the label and with sufficient color and contrasting background to other print on the label to permit the perspective purchaser to clearly distinguish the information.
+(2) The prospective purchaser can otherwise view visible nutrition information, including, at a minimum, the total number of calories for the article of food as sold at the point of purchase. This visible nutrition information must appear on the food label itself. The visible nutrition information must be clear and conspicuous and able to be easily read on the article of food while in the vending machine, in a type size at least 150 percent of the size required by § 101.7(i) for the net quantity of contents declaration on the front of the package, and with sufficient color and contrasting background to other print on the label to permit the prospective purchaser to clearly distinguish the information.
 
-(c) *Requirements for calorie labeling for certain food sold from vending machines* - (1) *Applicability; covered vending machine food.* For the purposes of this section, the term “covered vending machine food” means an article of food that is:
+(c) *Requirements for calorie labeling for certain food sold from vending machines*—(1) *Applicability; covered vending machine food.* For the purposes of this section, the term “covered vending machine food” means an article of food that is:
 
 (i) Sold from a vending machine that does not permit the prospective purchaser to examine the Nutrition Facts label prior to purchase as provided in paragraph (b)(1) of this section or otherwise provide visible nutrition information at the point of purchase as provided in paragraph (b)(2) of this section; and
 
@@ -54,7 +52,7 @@ Link to an amendment published at 84 FR 57610, Oct. 28, 2019.
 
 (F) For vending machines with few choices, *e.g.,* popcorn, the calorie declaration may appear on the face of the machine so long as the declaration is prominent, not crowded by other labeling on the machine, and the type size is no smaller than the name of the food on the machine (not the label), selection number, or price of the food as displayed on the vending machine, whichever is smallest.
 
-(d) *Voluntary provision of calorie labeling for foods sold from vending machines* - (1) *Applicability.* A vending machine operator that is not subject to the requirements of section 403(q)(5)(H)(viii) of the Federal Food, Drug, and Cosmetic Act may, through its authorized official, voluntarily register with FDA to be subject to the requirements established in paragraph (c)(2) of this section. An authorized official of a vending machine operator that voluntarily registers cannot be subject to any State or local nutrition labeling requirements that are not identical to the requirements in 403(q)(5)(H) of the Federal Food, Drug, and Cosmetic Act.
+(d) *Voluntary provision of calorie labeling for foods sold from vending machines*—(1) *Applicability.* A vending machine operator that is not subject to the requirements of section 403(q)(5)(H)(viii) of the Federal Food, Drug, and Cosmetic Act may, through its authorized official, voluntarily register with FDA to be subject to the requirements established in paragraph (c)(2) of this section. An authorized official of a vending machine operator that voluntarily registers cannot be subject to any State or local nutrition labeling requirements that are not identical to the requirements in 403(q)(5)(H) of the Federal Food, Drug, and Cosmetic Act.
 
 (2) *Who may register*? A vending machine operator that is not otherwise subject to the requirements of section 403(q)(5)(H) of the Federal Food, Drug, and Cosmetic Act may register with FDA.
 
@@ -80,4 +78,4 @@ Link to an amendment published at 84 FR 57610, Oct. 28, 2019.
 
 (f) *Signatures.* Signatures obtained under paragraph (d) of this section that meet the definition of electronic signatures in § 11.3(b)(7) of this chapter are exempt from the requirements of part 11 of this chapter.
 
-[79 FR 71291, Dec. 1, 2014]
+[79 FR 71291, Dec. 1, 2014, as amended at 84 FR 57610, Oct. 28, 2019]
