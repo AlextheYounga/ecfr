@@ -1,7 +1,5 @@
 ##### § 111.15-10 Ventilation. #####
 
-Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
-
 (a) *General.* Each room, locker, and box for storage batteries must be arranged or ventilated to prevent accumulation of flammable gas.
 
 (b) *Power ventilation.* If power ventilation is required, the following must be met:
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 
 (2) Electric motors must be outside the duct and compartment and:
 
-(i) Have an explosion-proof motor for a Class I, Division 1, Group B location; or
+(i) Have an explosion-proof motor for a Class I, Division 1, Group B or its IEC equivalent designation of Zone 1, IIB + H2 location; or
 
 (ii) Be at least 10 ft. (3 m) from the exhaust end of the duct.
 
@@ -44,4 +42,4 @@ q = 3.89(i)(n).where: q = quantity of expelled air in cubic feet per hour.i = Ma
 
 (g) *Boxes for small battery installations.* Each box for a small battery installation must have openings near the top to allow escape of gas. If the installation is in a non-environmentally-controlled location, the installation must prevent the ingress of water.
 
-[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28278, June 4, 1996]
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28278, June 4, 1996; USCG-2020-0075, 88 FR 16361, Mar. 16, 2023]

@@ -1,7 +1,5 @@
 ##### § 112.50-1 General. #####
 
-Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
-
 (a) The prime mover of a generator set must have:
 
 (1) All accessories necessary for operation and protection of the prime mover; and
@@ -18,9 +16,17 @@ Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
 
 (f) The generator set must maintain proper lubrication when inclined to the angles specified in § 112.05-5(c), and must be arranged so that it does not spill oil under a vessel roll of 30 degrees to each side of the vertical.
 
-(g) The generator set must shut down automatically upon loss of lubricating oil pressure, overspeed, or operation of a fixed fire extinguishing system in the emergency generator room (see § 111.12-1(b) for detailed overspeed trip requirements).
+(g) The following automatic shutdowns are required for the generator set:
 
-(h) If the prime mover is a diesel engine, there must be an audible alarm that sounds on low oil pressure and high cooling water temperature.
+(1) Overspeed; and
+
+(2) Operation of a fixed fire extinguishing system in the emergency generator room.
+
+(h) The following audible alarms are required for the generator set if the prime mover is a diesel engine:
+
+(1) Low oil pressure; and
+
+(2) High cooling water temperature.
 
 (i) If the prime mover is a gas turbine, it must meet the shutdown and alarm requirements in § 58.10-15(f) of this chapter.
 
@@ -28,4 +34,4 @@ Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
 
 (k) Each emergency generator that is arranged to be automatically started must be equipped with a starting device with an energy-storage capability of at least six consecutive starts. A second, separate source of starting energy may provide three of the required six starts. If a second source is provided, the system need only provide three consecutive starts.
 
-[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28287, June 4, 1996; USCG-2004-18884, 69 FR 58348, Sept. 30, 2004]
+[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28287, June 4, 1996; USCG-2004-18884, 69 FR 58348, Sept. 30, 2004; USCG-2020-0075, 88 FR 16369, Mar. 16, 2023]

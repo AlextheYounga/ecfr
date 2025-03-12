@@ -1,8 +1,6 @@
 ##### § 111.103-7 Ventilation stop stations. #####
 
-Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
-
-Each ventilation stop station must:
+Each power ventilation system stop station must:
 
 (a) Be protected by an enclosure with a glass-paneled door on the front;
 
@@ -13,3 +11,5 @@ Each ventilation stop station must:
 (d) Have a nameplate that identifies the system controlled; and
 
 (e) Be arranged so that damage to the switch or cable automatically stops the equipment controlled.
+
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by USCG-2020-0075, 88 FR 16365, Mar. 16, 2023]

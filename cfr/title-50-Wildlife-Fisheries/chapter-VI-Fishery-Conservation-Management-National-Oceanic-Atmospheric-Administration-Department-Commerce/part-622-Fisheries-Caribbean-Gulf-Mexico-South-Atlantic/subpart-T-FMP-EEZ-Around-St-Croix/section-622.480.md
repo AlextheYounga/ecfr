@@ -1,7 +1,5 @@
 ##### § 622.480 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 16196, Mar. 16, 2023.
-
 (a) *Reef fish.* (1) The ACLs are as follows and given in round weight.
 
 Table 1 to § 622.480(a)(1)
@@ -41,9 +39,9 @@ Table 1 to § 622.480(a)(1)
 
 (3) *Pelagic fish AM application.* At or near the beginning the fishing year, landings for the stock or stock complex will be evaluated relative to the ACT for the stock or stock complex based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the ACT specified in paragraph (b) of this section, NMFS in consultation with the Caribbean Fishery Management Council will determine appropriate corrective action.
 
-(c) *Spiny lobster.* (1) ACL—197,528 lb (89,597.1 kg), round weight.
+(c) *Spiny lobster.* (1) For the 2023 fishing year, the ACL is 140,667 lb (63,805 kg), round weight. For the 2024 and subsequent fishing years, the ACL is 120,830 lb (54,807 kg), round weight.
 
-(2) At or near the beginning the fishing year, landings will be evaluated relative to the ACL based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the ACL specified in paragraph (c)(1) of this section, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent landings from exceeding the ACL, unless NMFS determines that a fishing season reduction is not necessary based on the best scientific information available. If NMFS determines the ACL was exceeded because data collection or monitoring improved rather than because landings increased, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
+(2) At or near the beginning of the fishing year, NMFS will compare a 3 year average of available landings to the average ACLs effective during those same years, as described in the FMP. If NMFS estimates that average landings have exceeded the average ACLs, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent average landings from exceeding the ACL for that fishing year, as specified in paragraph (c)(1) of this section. If NMFS determines that a fishing season reduction is not necessary based on the best scientific information available, or if NMFS determines the ACL exceedance was due to improved data collection or monitoring rather than from increased landings, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
 
 (d) [Reserved]
 
@@ -52,3 +50,5 @@ Table 1 to § 622.480(a)(1)
 (2) If NMFS estimates landings reach or are projected to reach the ACL specified in paragraph (e)(1) of this section, the AA will close the area east of 64°34′ W longitude in the EEZ around St. Croix to the harvest and possession of queen conch by filing a notification of the closure with the Office of the Federal Register. During the closure period, no person may fish for or possess a queen conch in or from the area east of 64°34′ W longitude in the EEZ around St. Croix.
 
 (f) *Closure provisions for reef fish, spiny lobster, and queen conch.* The following restrictions apply during a fishing season closure for reef fish, spiny lobster, or queen conch in the EEZ around St. Croix. During the closure period announced in the notification filed pursuant to paragraph (a)(2), (c)(2), or (e)(2) of this section, such stock or stock complex in or from the EEZ around St. Croix may not be harvested, possessed, purchased, or sold, and the commercial trip limits and recreational bag and possession limits are zero.
+
+[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16196, Mar. 16, 2023]

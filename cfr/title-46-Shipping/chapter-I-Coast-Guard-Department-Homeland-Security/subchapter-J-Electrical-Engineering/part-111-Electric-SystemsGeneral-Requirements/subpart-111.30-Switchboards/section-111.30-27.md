@@ -1,7 +1,5 @@
 ##### § 111.30-27 Direct current ship's service switchboards. #####
 
-Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
-
 (a) Each direct current ship's service switchboard must have the equipment required by paragraphs (b) through (f) of this section.
 
 (b) For each connected generator, each switchboard must have the following:
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 
 (3) A field rheostat.
 
-(4) A pilot lamp connected between the generator and circuit breaker.
+(4) An indicator light connected between the generator and circuit breaker.
 
 (c) For each two-wire generator, each switchboard must have:
 
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 
 (iii) Neutral to negative.
 
-(e) Each switchboard must have ground detection that meets Subpart 111.05 for the:
+(e) Each switchboard must have ground detection that meets subpart 111.05 for the:
 
 (1) Main power system;
 
@@ -71,3 +69,5 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 (ii) Positive to neutral; and
 
 (iii) Neutral to negative.
+
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by USCG-2020-0075, 88 FR 16361, Mar. 16, 2023]

@@ -1,3 +1,1 @@
-##### § 1900.43 Determination(s) by Deputy Director(s). #####
-
-Each Deputy Director in charge of a directorate which originated or has an interest in any of the records subject to the appeal, or designee, is a required party to any appeal; other interested parties may become involved through the request of the Coordinator when it is determined that some or all of the information is also within their official cognizance. These parties shall respond in writing to the Coordinator with a finding as to the exempt status of the information. This response shall be provided expeditiously on a “first-in, first-out” basis taking into account the business requirements of the parties and consistent with the information rights of members of the general public under the various information review and release laws.
+##### § 1900.43 [Reserved] #####

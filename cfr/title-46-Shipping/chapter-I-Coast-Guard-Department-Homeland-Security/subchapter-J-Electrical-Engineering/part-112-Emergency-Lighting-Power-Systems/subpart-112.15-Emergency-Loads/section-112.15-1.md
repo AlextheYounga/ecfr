@@ -1,7 +1,5 @@
 ##### § 112.15-1 Temporary emergency loads. #####
 
-Link to an amendment published at 88 FR 16369, Mar. 16, 2023.
-
 On vessels required by § 112.05-5(a) to have a temporary emergency power source, the following emergency lighting and power loads must be arranged so that they can be energized from the temporary emergency power source:
 
 (a) Navigation lights.
@@ -38,6 +36,8 @@ On vessels required by § 112.05-5(a) to have a temporary emergency power source
 
 (q) All lighting relative to helicopter operations and landing if installed, unless provided for by another source of power (such as independent batteries separately charged by solar cells).
 
-(r) Each general emergency alarm system required by IMO SOLAS 74 (incorporated by reference; see 46 CFR 110.10-1).
+(r) Each general emergency alarm system required by IMO SOLAS 74 (incorporated by reference; see § 110.10-1 of this subchapter).
 
-[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28286, June 4, 1996; USCG-2003-16630, 73 FR 65201, Oct. 31, 2008]
+(s) Engineer's assistance-needed alarm.
+
+[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28286, June 4, 1996; USCG-2003-16630, 73 FR 65201, Oct. 31, 2008; USCG-2020-0075, 88 FR 16369, Mar. 16, 2023]

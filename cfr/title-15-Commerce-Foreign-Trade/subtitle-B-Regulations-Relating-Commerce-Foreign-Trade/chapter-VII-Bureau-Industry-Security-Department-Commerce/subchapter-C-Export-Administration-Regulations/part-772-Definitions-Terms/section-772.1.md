@@ -452,7 +452,7 @@ This definition does not include a stack of single detector elements or any two,
 
 *General prohibitions.* The 10 prohibitions found in part 736 of the EAR that prohibit certain exports, reexports, and other conduct, subject to the EAR, absent a license, license exception, or determination that no license is required (“NLR”).
 
-*Government end user” (as applied to encryption items*). A government end user is any foreign central, regional or local government department, agency, or other entity performing governmental functions; including governmental research institutions, governmental corporations or their separate business units (as defined in part 772 of the EAR) which are engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List, and international governmental organizations. This term does not include: Utilities (including telecommunications companies and Internet service providers); banks and financial institutions; transportation; broadcast or entertainment; educational organizations (except public schools and universities); civil health and medical organizations (including public civilian hospitals); retail or wholesale firms; and manufacturing or industrial entities not engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List.
+*“Government end user” (as applied to encryption items*). A government end user is any foreign central, regional or local government department, agency, or other entity performing governmental functions; including governmental research institutions, governmental corporations or their separate business units (as defined in part 772 of the EAR) which are engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List, and international governmental organizations. This term does not include: Utilities (including telecommunications companies and Internet service providers); banks and financial institutions; transportation; broadcast or entertainment; educational organizations (except public schools and universities); civil health and medical organizations (including public civilian hospitals); retail or wholesale firms; and manufacturing or industrial entities not engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List.
 
 *Hard selectors.* (Cat 5P1) Data or set of data, related to an individual (*e.g.,* family name, given name, email, street address, phone number or group affiliations).
 
@@ -936,7 +936,7 @@ Equivalent national standards for executing the “proof test” may be used.
 
 *Proscribed person.* A person who is prohibited from receiving the items at issue or participating in a transaction that is subject to the EAR without authorization under the EAR, such as persons on the Entity List or denied persons.
 
-*Publicly available encryption software. See* § 742.15(b) of the EAR.
+*Publicly available encryption software.* See § 742.15(b) of the EAR.
 
 *Published.* See § 734.7 of the EAR.
 

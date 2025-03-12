@@ -1,13 +1,17 @@
 ##### § 1900.22 Action and determination(s) by originator(s) or any interested party. #####
 
-(a) *Initial action for access.* CIA components tasked pursuant to a FOIA request shall search all relevant record systems within their cognizance which have not been excepted from search by the provisions of the CIA Information Act of 1984. They shall:
+(a) *Initial action for access.* (1) CIA components tasked pursuant to a FOIA request shall conduct a reasonable search of all relevant record systems within their areas of responsibility which have not been exempted from search, review, and disclosure under the FOIA by the CIA Information Act of 1984 and which are reasonably likely to contain records responsive to the request. They shall:
 
-(1) Determine whether a record exists;
+(i) Determine whether any responsive records exist;
 
-(2) Determine whether and to what extent any FOIA exemptions apply;
+(ii) Determine whether, and to what extent, any FOIA exemptions, as set forth in 5 U.S.C. 552(b), apply to the responsive records;
 
-(3) Approve the disclosure of all non-exempt records or portions of records for which they are the originator; and
+(iii) Review the exempt records to determine whether they contain any reasonably segregable, non-exempt material;
 
-(4) Forward to the Coordinator all records approved for release or necessary for coordination with or referral to another originator or interested party. In making these decisions, the CIA component officers shall be guided by the applicable law as well as the procedures specified at 32 CFR 1900.31 and 32 CFR 1900.32 regarding confidential commercial information and personal information (about persons other than the requester).
+(iv) Approve the disclosure of all non-exempt records, or portions of records, within their areas of responsibility; and
 
-(b) *Referrals and coordinations.* As applicable and within ten (10) days of receipt by the Coordinator, any CIA records containing information originated by other CIA components shall be forwarded to those entities for action in accordance with paragraph (a) of this section and return. Records originated by other federal agencies or CIA records containing other federal agency information shall be forwarded to such agencies within ten (10) days of our completion of initial action in the case for action under their regulations and direct response to the requester (for other agency records) or return to the CIA (for CIA records). Effective October 2, 1997, the ten (10) day provision is modified to twenty (20) days pursuant to the Electronic Freedom of Information Act Amendments of 1996.
+(v) Forward to the Coordinator all records approved for release or necessary for coordination with or referral to another component or interested party.
+
+(2) In making the decisions discussed in paragraph (a)(1) of this section, the CIA component officers shall be guided by the applicable law as well as the procedures specified at §§ 1900.31 and 1900.32 regarding confidential commercial or financial information and personal information (about persons other than the requester).
+
+(b) *Referrals and coordinations.* As applicable, any CIA records containing information originated by other CIA components shall be forwarded to those entities for appropriate action in accordance with paragraph (a) of this section. Records originated by other Federal agencies or CIA records containing other Federal agency information shall be forwarded to such agencies for appropriate action in accordance with the applicable procedures of each agency.

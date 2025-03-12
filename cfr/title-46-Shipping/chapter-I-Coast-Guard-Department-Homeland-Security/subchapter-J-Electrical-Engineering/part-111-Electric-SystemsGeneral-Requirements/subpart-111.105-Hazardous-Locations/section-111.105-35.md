@@ -1,8 +1,6 @@
 ##### § 111.105-35 Vessels carrying coal. #####
 
-Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
-
-(a) The following are Class II, Division 1, (Zone 10 or Z) locations on a vessel that carries coal:
+(a) The following are Class II, Division 1, (Zone 20) locations on a vessel that carries coal:
 
 (1) The interior of each coal bin and hold.
 
@@ -12,6 +10,6 @@ Link to an amendment published at 88 FR 16367, Mar. 16, 2023.
 
 (b) Each space that has a coal conveyer on a vessel that carries coal is a Class II, Division 2, (Zone 11 or Y) space.
 
-(c) A space that has a coal conveyer on a vessel that carries coal must have electrical equipment approved for Class II, Division 2, (Zone 11 or Y) hazardous locations, except watertight general emergency alarm signals.
+(c) A space that has a coal conveyer on a vessel that carries coal must have electrical equipment approved for Class II, Division 2, (Zone 22) hazardous locations, except watertight general emergency alarm signals.
 
-[CGD 94-108, 61 FR 28285, June 4, 1996]
+[CGD 94-108, 61 FR 28285, June 4, 1996, as amended by USCG-2020-0075, 88 FR 16367, Mar. 16, 2023]

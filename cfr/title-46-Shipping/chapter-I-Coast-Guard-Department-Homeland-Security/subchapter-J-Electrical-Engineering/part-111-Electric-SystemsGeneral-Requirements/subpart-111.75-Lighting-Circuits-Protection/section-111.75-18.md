@@ -1,11 +1,5 @@
 ##### § 111.75-18 Signaling lights. #####
 
-Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
+Each self-propelled vessel over 150 gross tons when engaged on an international voyage must have on board an approved daylight signaling lamp that meets ISO 25861 (incorporated by reference, see § 110.10-1 of this subchapter).
 
-Each self-propelled vessel over 150 gross tons when engaged on an international voyage must have on board an efficient daylight signaling lamp that may not be solely dependent upon the vessel's main source of electrical power and that meets the following:
-
-(a) The axial luminous intensity of the beam must be at least 60,000 candelas.
-
-(b) The luminous intensity of the beam in every direction within an angle of 0.7 degrees from the axial must be at least 50 percent of the axial luminous intensity.
-
-[CGD 94-108, 61 FR 28282, June 4, 1996]
+[USCG-2020-0075, 88 FR 16365, Mar. 16, 2023]

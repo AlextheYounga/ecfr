@@ -1,6 +1,4 @@
-##### § 111.30-24 Generation systems greater than 3000 kw. #####
-
-Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
+##### § 111.30-24 Generation systems greater than 3000 kW. #####
 
 Except on a non-self-propelled mobile offshore drilling unit (MODU) and a non-self-propelled floating Outer Continental Shelf facility, when the total installed electric power of the ship's service generation system is more than 3000 kW, the switchboard must have the following:
 

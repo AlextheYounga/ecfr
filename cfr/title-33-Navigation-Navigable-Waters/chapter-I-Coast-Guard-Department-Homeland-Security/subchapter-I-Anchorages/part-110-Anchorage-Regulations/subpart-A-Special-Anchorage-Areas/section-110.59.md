@@ -1,7 +1,5 @@
 ##### § 110.59 Eastern Long Island, NY. #####
 
-Link to an amendment published at 88 FR 16188, Mar. 16, 2023.
-
 (a) *Huntington Harbor.* Beginning on the shoreline at latitude 40°54′19.5″, longitude 73°26′07.9″; thence to latitude 40°54′19.5″, longitude 73°26′02.4″; thence along the eastern shoreline to the Mill Dam Road Bridge; thence along the downstream side of the bridge to the westerly side of Huntington Harbor; thence along the western shoreline to the point of beginning.
 
 (b) *Centerport Harbor.* Beginning at the shoreline at latitude 40°54′00″ , longitude 73°22′55.3″; thence to latitude 40°54′03.8″, longitude 73°22′52.1″; thence along the eastern shoreline to the Mill Dam Bridge; thence along the downstream side of the bridge to the westerly side of Centerport Harbor; thence along the western shoreline to the point of beginning.
@@ -16,12 +14,8 @@ Link to an amendment published at 88 FR 16188, Mar. 16, 2023.
 
 (g) *Harbor of Oyster Bay, New York, Moses Point to Brickyard Point.* That portion of the waters of the Harbor of Oyster Bay enclosed by a line beginning at Moses Point on Centre Island at latitude 40°53′11″ N., longitude 73°31′14″ W.; thence to latitude 40°53′02″ N., longitude 73°31′22″ W.; thence to latitude 40°53′02″ N., longitude 73°32′00″ W.; thence to Brickyard Point on Centre Island at 40°53′06″ N., longitude 73°32′00″ W.; thence following the shoreline to the point of beginning.
 
-Note:
-
-The anchoring of vessels and placement of temporary moorings in anchorage areas described in paragraph (g) of this section will be under the jurisdiction of the local Harbormaster appointed in accordance with Article 12 of the Village Ordinance of the Village of Centre Island, New York.
-
 (h) *Coecles Harbor at Shelter Island, New York.* That portion of Coecles Harbor bounded on the North by a line drawn between the northernmost point of land at Sungic Point and latitude 41°04′09″ North, longitude 72°17′54″ West, thence eastward along the shoreline to the point of origin.
 
 (i) *West Neck Harbor at Shelter Island, New York.* That portion of West Neck Harbor bounded on the North by a line drawn between latitude 41°02′48″ North, longitude 72°20′27″ West and a point on Shell Beach located at latitude 41°02′29″ North, longitude 72°20′59″ West; thence eastward along the shoreline to the point of origin.
 
-[USCG-2008-0179, 73 FR 35009, June 19, 2008, as amended by USCG-2014-0410, 79 FR 38432, July 7, 2014]
+[USCG-2008-0179, 73 FR 35009, June 19, 2008, as amended by USCG-2014-0410, 79 FR 38432, July 7, 2014; USCG-2019-0952, 88 FR 16188, Mar. 16, 2023]

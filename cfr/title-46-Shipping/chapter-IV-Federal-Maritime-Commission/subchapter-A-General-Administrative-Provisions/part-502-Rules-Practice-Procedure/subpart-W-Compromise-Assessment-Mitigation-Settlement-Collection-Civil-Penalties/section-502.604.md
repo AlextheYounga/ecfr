@@ -1,5 +1,7 @@
 ##### § 502.604 Compromise of penalties: Relation to assessment proceedings. #####
 
+Link to an amendment published at 88 FR 23363, Apr. 17, 2023.
+
 (a) *Scope.* Except in pending civil penalty assessment proceedings provided for in § 502.603, the Commission, when it has reason to believe a violation has occurred, may invoke the informal compromise procedures of this section after observing the procedures in § 502.63(d).
 
 (b) *Criteria for compromise.* In addition to the factors set forth in § 502.603(b), in compromising a penalty claim, the Commission may consider litigative probabilities, the cost of collecting the claim and enforcement policy.

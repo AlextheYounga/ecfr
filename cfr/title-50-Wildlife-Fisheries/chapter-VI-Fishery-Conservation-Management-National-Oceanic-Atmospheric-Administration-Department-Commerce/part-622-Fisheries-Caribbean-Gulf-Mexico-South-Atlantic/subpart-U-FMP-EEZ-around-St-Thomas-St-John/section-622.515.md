@@ -1,7 +1,5 @@
 ##### § 622.515 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 16196, Mar. 16, 2023.
-
 (a) *Reef fish.* (1) The following ACLs are as follows and given in round weight.
 
 Table 1 to § 622.515(a)(1)
@@ -41,10 +39,12 @@ Table 1 to § 622.515(a)(1)
 
 (3) *Pelagic fish AM application.* At or near the beginning the fishing year, landings for the stock or stock complex will be evaluated relative to the ACT for the stock or stock complex based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the ACT specified in paragraph (b) of this section, NMFS in consultation with the Caribbean Fishery Management Council will determine appropriate corrective action.
 
-(c) *Spiny lobster.* (1) ACL—209,210 lb (94,896 kg), round weight.
+(c) *Spiny lobster.* (1) For the 2023 fishing year, the ACL is 142,636 lb (64,698 kg), round weight. For the 2024 and subsequent fishing years, the ACL is 126,089 lb (57,193 kg), round weight.
 
-(2) At or near the beginning the fishing year, landings will be evaluated relative to the ACL based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the ACL specified in paragraph (c)(1) of this section, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent landings from exceeding the ACL, unless NMFS determines that a fishing season reduction is not necessary based on the best scientific information available. If NMFS determines the ACL was exceeded because data collection or monitoring improved rather than because landings increased, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
+(2) At or near the beginning of the fishing year, NMFS will compare a 3 year average of available landings to the average ACLs effective during those same years, as described in the FMP. If NMFS estimates that average landings have exceeded the average ACLs, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent average landings from exceeding the ACL for that fishing year, as specified in paragraph (c)(1) of this section. If NMFS determines that a fishing season reduction is not necessary based on the best scientific information available, or if NMFS determines the ACL exceedance was due to improved data collection or monitoring rather than from increased landings, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
 
 (d)-(e) [Reserved]
 
 (f) *Closure provisions for reef fish and spiny lobster.* The following restrictions apply during a fishing season closure for reef fish or spiny lobster in the EEZ around St. Thomas and St. John. During the closure period announced in the notification filed pursuant to paragraph (a)(2) or (c)(2) of this section, such stock or stock complex in or from the EEZ around St. Thomas and St. John may not be harvested, possessed, purchased, or sold, and the bag and possession limits for such stock or stock complex are zero.
+
+[87 FR 56217, Sept. 13, 2022, as amended at 88 FR 16196, Mar. 16, 2023]

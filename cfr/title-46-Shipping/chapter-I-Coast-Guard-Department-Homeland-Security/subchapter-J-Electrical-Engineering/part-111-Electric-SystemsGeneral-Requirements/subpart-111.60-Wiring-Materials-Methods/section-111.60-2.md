@@ -1,8 +1,6 @@
 ##### § 111.60-2 Specialty cable for communication and RF applications. #####
 
-Link to an amendment published at 88 FR 16363, Mar. 16, 2023.
-
-Specialty cable such as certain coaxial cable that cannot pass the flammability test contained in IEEE 1580, test VW-1 of UL 1581, or Category A of IEC 60332-3-22 (all three standards incorporated by reference; see 46 CFR 110.10-1) because of unique properties of construction, must:
+Specialty cable such as certain coaxial cable that cannot pass the flammability test contained in IEEE 1580, test FV-2/VW-1 of ANSI/UL 2556, IEC 60332-3-21:2018, or IEC 60332-3-22:2018 (all incorporated by reference; see § 110.10-1 of this subchapter) because of unique properties of construction, must:
 
 (a) Be installed physically separate from all other cable; and
 
@@ -18,4 +16,4 @@ Specialty cable such as certain coaxial cable that cannot pass the flammability 
 
 (5) In a cableway that has an A-60 fire rating.
 
-[CGD 94-108, 61 FR 28280, June 4, 1996, as amended by USCG-2003-16630, 73 FR 65198, Oct. 31, 2008; USCG-2013-0671, 78 FR 60153, Sept. 30, 2013]
+[CGD 94-108, 61 FR 28280, June 4, 1996, as amended by USCG-2003-16630, 73 FR 65198, Oct. 31, 2008; USCG-2013-0671, 78 FR 60153, Sept. 30, 2013; USCG-2020-0075, 88 FR 16363, Mar. 16, 2023]

@@ -1,7 +1,5 @@
 ##### § 622.440 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 16195, Mar. 16, 2023.
-
 (a) *Reef fish.* For those fishing commercially, the applicable ACL is the commercial ACL. For those fishing recreationally, the applicable ACL is the recreational ACL. When landings for one sector are not available for comparison to that sector's ACL, the ACL for the sector with available landings is the ACL for the stock or stock complex.
 
 (1) *Commercial ACLs.* The commercial ACLs are as follows and given in round weight.
@@ -151,9 +149,9 @@ Table 3 to § 622.440(a)(3)
 
 (7) *Pelagic fish AM application.* At or near the beginning the fishing year, landings for each stock, stock complex, or indicator stock will be evaluated relative to the applicable ACT for the stock or stock complex based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the applicable ACT specified in paragraph (b) of this section for a stock or stock complex, NMFS in consultation with the Caribbean Fishery Management Council will determine appropriate corrective action.
 
-(c) *Spiny lobster.* (1) ACL—527,232 lb (239,148.4 kg), round weight.
+(c) *Spiny lobster.* (1) For the 2023 fishing year, the ACL is 369,313 lb (167,517 kg), round weight. For the 2024 and subsequent fishing years, the ACL is 366,965 lb (166,452 kg), round weight.
 
-(2) At or near the beginning the fishing year, landings will be evaluated relative to the ACL based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the ACL specified in paragraph (c)(1) of this section, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent landings from exceeding the ACL, unless NMFS determines that a fishing season reduction is not necessary based on the best scientific information available. If NMFS determines the ACL was exceeded because data collection or monitoring improved rather than because landings increased, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
+(2) At or near the beginning of the fishing year, NMFS will compare a 3 year average of available landings to the average ACLs effective during those same years, as described in the FMP. If NMFS estimates that average landings have exceeded the average ACLs, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent average landings from exceeding the ACL for that fishing year, as specified in paragraph (c)(1) of this section. If NMFS determines that a fishing season reduction is not necessary based on the best scientific information available, or if NMFS determines the ACL exceedance was due to improved data collection or monitoring rather than from increased landings, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
 
 (d)-(e) [Reserved]
 
@@ -164,3 +162,5 @@ Table 3 to § 622.440(a)(3)
 (3) *Restrictions applicable during a closure for a reef fish stock or stock complex in the EEZ around Puerto Rico when only one sector's landings are available.* During the closure period announced in the notification filed pursuant to paragraph (a)(7) of this section, the fishing season for the reef fish stock or stock complex included in the notification is closed, and such stock or stock complex in or from the EEZ around Puerto Rico may not be harvested, possessed, purchased, or sold, and the bag and possession limits for such stock or stock complex are zero.
 
 (4) *Restrictions applicable during a spiny lobster closure in the EEZ around Puerto Rico.* During the closure period announced in the notification filed pursuant to paragraph (c)(2) of this section, the fishing season for spiny lobster is closed, and spiny lobster in or from the EEZ around Puerto Rico may not be harvested, possessed, purchased, or sold, and the bag and possession limits are zero.
+
+[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023]

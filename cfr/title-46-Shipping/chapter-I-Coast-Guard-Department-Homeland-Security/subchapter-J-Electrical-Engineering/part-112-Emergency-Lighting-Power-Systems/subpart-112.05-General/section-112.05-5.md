@@ -1,10 +1,6 @@
 ##### § 112.05-5 Emergency power source. #####
 
-Link to an amendment published at 88 FR 16368, Mar. 16, 2023.
-
-(a) The emergency power source must meet table 112.05-5(a) and have the capacity to supply all loads that are simultaneously connected to it, except a load on a bus-tie to the main switchboard or non-required loads that are connected in accordance with § 112.05-1(c).
-
-Table 112.05-5(a)
+(a) The emergency power source must meet Table 1 to 112.05-5 and have the capacity to supply all loads, at a unity (1.0) service factor, that are simultaneously connected to it, except a load on a bus-tie to the main switchboard or non-required loads that are connected in accordance with § 112.05-1(c).
 
 |                                                                              Size of vessel and service                                                                               |                                                                                 Type of emergency power source or lighting                                                                                 |  Period of operation and minimum capacity of emergency power   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -14,14 +10,10 @@ Table 112.05-5(a)
 |Cargo vessels; miscellaneous self-propelled vessels; tankships; barges with sleeping accommodations for more than 6 persons; mobile offshore drilling units; and oceanographic vessels:|                                                                                                                                                                                                            |                                                                |
 |                         Ocean, Great Lakes, or coastwise and 500 GT or more; on an international voyage and 500 GT or more; or all waters and 1600 GT or more                         |                                                Final emergency power source (automatically connected storage battery or an automatically started generator)                                                |                    18 hours.<sup>1 2</sup>                     |
 |   Ocean, Great Lakes, or coastwise and less than 500 GT; or other than ocean, Great Lakes, or coastwise, 300 GT or more but less than 1600 GT, and not on an international voyage.    |Emergency lighting provided by an automatically connected or manually controlled storage battery; automatically or manually started generator; or relay-controlled, battery-operated lanterns.<sup>3 4</sup>|      6 hours or twice the time of run, whichever is less.      |
-
-<sup>1</sup> A 12-hour power supply may be especially considered for vessels engaged regularly in voyages of short duration.
-
-<sup>2</sup> The capacity for the operation of the steering gear, as required by § 111.93, is for a period of 30 minutes continuous operation.
-
-<sup>3</sup> The emergency lighting requirements of § 112.15-1 (b), (c), (f), and (g) must be met.
-
-<sup>4</sup> Requirements of Subpart 112.39 must be met by the relay-controlled, battery-operated lanterns.
+|                             <sup>1</sup> A 12-hour power supply may be especially considered for vessels engaged regularly in voyages of short duration.                              |                                                                                                                                                                                                            |                                                                |
+|                   <sup>2</sup> The capacity for the operation of the steering gear, as required by § 58.25-65, is for a period of 30 minutes continuous operation.                    |                                                                                                                                                                                                            |                                                                |
+|                                          <sup>3</sup> The emergency lighting requirements of § 112.15-1 (b), (c), (f), and (g) must be met.                                           |                                                                                                                                                                                                            |                                                                |
+|                                      <sup>4</sup> Requirements of Subpart 112.39 must be met by the relay-controlled, battery-operated lanterns.                                      |                                                                                                                                                                                                            |                                                                |
 
 (b) The emergency power source must be independent of the ship's service lighting and powerplant and propulsion plant, except for the compressed air starting means allowed in § 112.50-7(c)(3)(i). A stop control for an emergency generator must be only in the space that has the emergency generator, except a remote mechanical reach rod is permitted for the fuel oil shut-off valve to an independent fuel oil tank located in the space.
 
@@ -39,4 +31,4 @@ Table 112.05-5(a)
 
 (i) The prime mover of an emergency generator must be either a diesel engine or a gas turbine.
 
-[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28286, June 4, 1996; 62 FR 23910, May 1, 1997]
+[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28286, June 4, 1996; 62 FR 23910, May 1, 1997; USCG-2020-0075, 88 FR 16368, Mar. 16, 2023]

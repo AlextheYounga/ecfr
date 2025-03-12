@@ -1,8 +1,6 @@
 ##### § 111.103-1 Power ventilation systems except machinery space ventilation systems. #####
 
-Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
-
-Each power ventilation system must have:
+Each power ventilation system that is not a machinery space ventilation system must have:
 
 (a) A control to stop the ventilation that is:
 
@@ -19,3 +17,5 @@ Each power ventilation system must have:
 Note:
 
 The requirements of this section do not apply to closed ventilation systems for motors or generators, diffuser fans for refrigerated spaces, room circulating fans, or exhaust fans for private toilets of an electrical rating comparable to that of a room circulating fan.
+
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by USCG-2020-0075, 88 FR 16365, Mar. 16, 2023]

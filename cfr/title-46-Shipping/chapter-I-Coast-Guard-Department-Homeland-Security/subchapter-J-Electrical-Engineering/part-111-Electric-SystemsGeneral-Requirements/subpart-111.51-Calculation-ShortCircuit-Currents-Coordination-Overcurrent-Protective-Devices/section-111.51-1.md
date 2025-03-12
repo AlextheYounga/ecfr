@@ -1,0 +1,3 @@
+##### § 111.51-1 General. #####
+
+Electrical installations must be protected against short circuits, by appropriate devices. The selection, arrangement and performance of various protective devices must provide coordinated automatic protection and selective operation in order to provide continuity of service for equipment vital to the propulsion, control, or safety of the vessel under short-circuit conditions through coordination and selective operation of overcurrent protective devices.

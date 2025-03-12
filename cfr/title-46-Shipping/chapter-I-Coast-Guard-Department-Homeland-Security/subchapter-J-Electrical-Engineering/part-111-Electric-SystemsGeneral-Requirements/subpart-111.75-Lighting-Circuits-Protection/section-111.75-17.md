@@ -1,7 +1,5 @@
 ##### § 111.75-17 Navigation lights. #####
 
-Link to an amendment published at 88 FR 16365, Mar. 16, 2023.
-
 Each navigation light system must meet the following:
 
 (a) *Feeders.* On vessels required to have a final emergency power source by § 112.05-5(a) of this chapter, each navigation light panel must be supplied by a feeder from the emergency switchboard (see § 112.43-13). The feeder must be protected by overcurrent devices rated or set at a value of at least twice that of the navigation light panel main fuses.
@@ -14,7 +12,7 @@ Each navigation light system must meet the following:
 
 (1) Meet the technical details of the applicable navigation rules.
 
-(2) Be certified by an independent laboratory to the requirements of UL 1104 (incorporated by reference; see 46 CFR 110.10-1) or an equivalent standard under 46 CFR 110.20-1. Portable battery powered lights need meet only the requirements of the standard applicable to those lights.
+(2) Be certified by an independent laboratory to the requirements of ANSI/UL 1104 or EN 14744 (incorporated by reference; see § 110.10-1 of this subchapter) or an equivalent standard under § 110.20-1 of this subchapter. Portable battery powered navigation lights need only be certified to the requirements of ANSI/UL 1104 applicable to those lights.
 
 (3) Be labeled with a label stating the following:
 
@@ -38,14 +36,4 @@ Ie = G/(0.2 + t2−t1)WhereIe = Luminous Intensity.G = Integral of Idt evaluated
 
 The limits, t1 and t2, are to be chosen so as to maximize Ie.
 
-(e) *Installation of navigation lights.* Each navigation light must:
-
-(1) Be installed so that its location and its angle of visibility meet the applicable navigation rules;
-
-(2) Except as permitted by the applicable navigation rules, be arranged so that light from a navigation light is not obstructed by any part of; the vessel's structure or rigging;
-
-(3) Be wired by a short length of heavy-duty, flexible cable to a watertight receptacle outlet next to the light or, for permanently mounted fixtures, by direct run of fixed cable; and
-
-(4) If it is a double-lens, two-lamp type, have each lamp connected to its branch circuit conductors either by an individual flexible cable and watertight receptacle plug or, for permanently mounted fixtures, by an individual direct run of fixed cable.
-
-[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28282, June 4, 1996; 61 FR 33045, June 26, 1996; 62 FR 23909, May 1, 1997; USCG-2003-16630, 73 FR 65199, Oct. 31, 2008]
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28282, June 4, 1996; 61 FR 33045, June 26, 1996; 62 FR 23909, May 1, 1997; USCG-2003-16630, 73 FR 65199, Oct. 31, 2008; USCG-2020-0075, 88 FR 16365, Mar. 16, 2023]

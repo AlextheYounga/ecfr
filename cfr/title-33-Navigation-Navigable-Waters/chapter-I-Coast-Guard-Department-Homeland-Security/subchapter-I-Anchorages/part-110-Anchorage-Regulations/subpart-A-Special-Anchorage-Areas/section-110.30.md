@@ -1,7 +1,5 @@
 ##### § 110.30 Boston Harbor, Mass. #####
 
-Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
-
 (a) *Vicinity of South Boston Yacht Club, South Boston.* Northerly of a line bearing 96° from the stack of the heating plant of the Boston Housing Authority in South Boston; easterly of a line bearing 5° from the west shaft of the tunnel of the Boston Main Drainage Pumping Station; southerly of the shoreline; and westerly of a line bearing 158° from the northeast corner of the iron fence marking the east boundary of the South Boston Yacht Club property.
 
 (b) *Dorchester Bay, in vicinity of Savin Hill Yacht Club.* Northerly of a line bearing 64° from the stack of the old power plant of the Boston Elevated Railway on Freeport Street in Dorchester; westerly of a line bearing 163° from the stack of the Boston Main Drainage Pumping Station on the Cow Pasture in Dorchester; and southerly and easterly of the shoreline.
@@ -18,10 +16,6 @@ Link to an amendment published at 88 FR 16187, Mar. 16, 2023.
 
 (h) *Weymouth Fore River, in the vicinity of Gull Point (PT).* All of the waters bound by the following points beginning at latitude 42°15′05″ N., longitude 70°57′26″ W.; thence to latitude 42°15′00″ N., longitude 70°57′26″ W.; thence to latitude 42°15′15″ N., longitude 70°56′50″ W.; thence to latitude 42°15′18″ N., longitude 70°56′50″ W.; thence to the point of the beginning. [NAD83]
 
-Note to paragraph (h):
-
-The area is principally for use by recreational craft. All anchoring in the area will be under the supervision of the local harbor master or such other authority as may be designated by the authorities of the Town of Weymouth, Massachusetts. All moorings are to be so placed that no moored vessel will extend beyond the limit of the anchorage area.
-
 (i) *Weymouth Back River, in vicinity of Eastern Neck.* The cove on the north side of the river lying northerly of a line bearing 264°30′ from the southwesterly corner of the American Agricultural Chemical Company's wharf (Bradley's Wharf) to the shore of Eastern Neck, about 2,200 feet distant.
 
 (j) *Area No. 1 in Allerton Harbor.* That area north of Spinnaker Island beginning at latitude 42°18′15.3″ N. 70°53′44.1″ W.; thence due east to latitude 42°18′15.3″ N. longitude 70°53′27.6″ W.; thence due south to latitude 42°18′07.8″ N. longitude 70°53′27.6″ W.; thence due west to latitude 42°18′07.8″ N. longitude 70°53′44.1″ W.; thence due north to the point of beginning. [NAD83]
@@ -29,10 +23,6 @@ The area is principally for use by recreational craft. All anchoring in the area
 (k) *Area No. 2 in Hull Bay.* That area south of Hog Island beginning at latitude 42°17′50.8″ N. longitude 70°54′05.1″ W.; thence due east to latitude 42°17′50.8″ N. longitude 70°53′27.6″ W.; thence due south to latitude 42°17′30.3″ N. longitude 70°53′27.6″ W.; thence due west to latitude 42°17′30.3″ N. longitude 70°54′5.1″ W.; thence due north to the point of beginning. [NAD83]
 
 (l) *Area No. 3 in Hull Bay.* That area north of Bumkin Island beginning at position latitude 42°17′22.3″ N. longitude 70°54′5.1″ W.; thence due east to latitude 42°17′22.3″ N. longitude 70°53′15.6″ W.; thence due south to latitude 42°17′01.3″ N. longitude 70°53′15.6″ W.; thence due west to latitude 42°17′01.3″ N. longitude 70°54′5.17″ W.; thence due north to the point of beginning. [NAD83].
-
-Note to paragraphs (j), (k), and (l):
-
-The areas will be principally for use by yachts and other recreational craft. Temporary floats or buoys for marking anchors will be allowed. Fixed mooring piles or stakes are prohibited. The anchoring of vessels and the placing of temporary moorings is under the jurisdiction, and at the discretion, of the local Harbor Master, Hull, Mass.
 
 (m) *Hingham Harbor Area 1.* Beginning at position latitude 42°15′39.3″ N. longitude 70°53′22.1″ W.; thence to latitude 42°15′53.8″ N. longitude 70°53′30.1″ W.; thence to latitude 42°15′56.3″ N. longitude 70°53′21.1″ W.; thence to latitude 42°15′42.3″ N. longitude 70°53′13.1″ W.; thence to point of beginning. [NAD83]
 
@@ -44,8 +34,4 @@ The areas will be principally for use by yachts and other recreational craft. Te
 
 (q) *Hingham Harbor Area 5.* Beginning at position latitude 42°14′48.3″ N. longitude 70°52′55.1″ W.; thence to latitude 42°14′48.8″ N. longitude 70°53′0.1″ W.; thence to latitude 42°14′58.3″ N. longitude 70°52′49.1″ W.; thence to latitude 42°14′53.8″ N. longitude 70°52′48.1″ W.; thence to point of beginning. [NAD83]
 
-Note to paragraphs (m), (n), (o), (p) and (q):
-
-The areas will be principally for use by yachts and other recreational craft. Temporary floats or buoys for marking anchors will be allowed in the areas but fixed piles or stakes may not be placed. The anchoring of vessels and the placing of moorings will be under the jurisdiction of the local Harbor Master.
-
-[USCG-2009-0416, 74 FR 27439, June 10, 2009]
+[USCG-2009-0416, 74 FR 27439, June 10, 2009, as amended by USCG-2019-0952, 88 FR 16187, Mar. 16, 2023]

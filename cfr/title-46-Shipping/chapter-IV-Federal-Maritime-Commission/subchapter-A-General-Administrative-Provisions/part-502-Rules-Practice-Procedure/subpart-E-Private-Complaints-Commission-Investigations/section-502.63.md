@@ -1,5 +1,7 @@
 ##### § 502.63 Commission enforcement action. #####
 
+Link to an amendment published at 88 FR 23363, Apr. 17, 2023.
+
 (a) The Commission may issue an Order of Investigation and Hearing commencing an adjudicatory investigation against one or more respondents alleging one or more violations of the statutes that it administers.
 
 (b) *Contents of Order of Investigation and Hearing.* The Order of Investigation and Hearing must contain the following:

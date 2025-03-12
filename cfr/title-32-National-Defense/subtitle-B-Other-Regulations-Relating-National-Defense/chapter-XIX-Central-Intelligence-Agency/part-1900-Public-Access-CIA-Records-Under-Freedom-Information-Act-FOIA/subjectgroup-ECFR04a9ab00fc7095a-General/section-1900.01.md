@@ -1,9 +1,7 @@
 ##### § 1900.01 Authority and purpose. #####
 
-This part is issued under the authority of and in order to implement the Freedom of Information Act (FOIA), as amended (5 U.S.C. 552); the CIA Information Act of 1984 (50 U.S.C. 431); sec. 102 of the National Security Act of 1947, as amended (50 U.S.C. 403); and sec. 6 of the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 403g). It prescribes procedures for:
+(a) This part is issued under the authority of and in order to implement the Freedom of Information Act (FOIA), as amended (5 U.S.C. 552); and in accordance with the CIA Information Act of 1984 (50 U.S.C. 3141); section 102A(i) of the National Security Act of 1947, as amended (50 U.S.C. 3024(i)); and section 6 of the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 3507). It contains procedures that CIA follows in processing requests for records submitted under the FOIA. The procedures in this part should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (OMB Fee Guidelines).
 
-(a) Requesting information on available CIA records, or the CIA administration of the FOIA, or estimates of fees that may become due as a result of a request;
+(b) Requests made by individuals for records about themselves under the Privacy Act of 1974 (5 U.S.C. 552a) are processed in accordance with CIA's Privacy Act regulations, set forth at 32 CFR part 1901, as well as under this part.
 
-(b) Requesting records pursuant to the FOIA; and
-
-(c) Filing an administrative appeal of an initial adverse decision under the FOIA.
+(c) Other than as expressly provided in this part, this part creates no right or benefit, substantive or procedural, enforceable by law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.

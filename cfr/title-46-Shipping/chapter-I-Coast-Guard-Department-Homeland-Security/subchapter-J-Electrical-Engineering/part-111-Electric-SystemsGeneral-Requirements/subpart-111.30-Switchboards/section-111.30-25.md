@@ -1,7 +1,5 @@
 ##### § 111.30-25 Alternating-current ship's service switchboards. #####
 
-Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
-
 (a) Except as allowed in paragraph (g) of this section, each alternating-current ship's service switchboard must have the equipment required by paragraphs (b) through (f) of this section.
 
 (b) For each connected generator, each switchboard must have the following:
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 
 (ii) If there is a switch in the generator neutral, each ungrounded conductor.
 
-(3) A pilot lamp connected between the generator and the circuit breaker.
+(3) An indicator light connected between the generator and the circuit breaker.
 
 (4) An ammeter with a selector switch that connects the ammeter to show the current in each phase.
 
@@ -40,13 +38,13 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 
 (1) A speed control for the prime mover of each generator;
 
-(2) An indicating wattmeter for each generator; and
+(2) A wattmeter for each generator; and
 
 (3) A synchroscope and synchronizing lamp that have a selector switch to show synchronization for paralleling generators.
 
 (e) Each switchboard must have the following:
 
-(1) Ground detection that meets Subpart 111.05 for the:
+(1) Ground detection that meets subpart 111.05 for the:
 
 (i) Ship's service power system;
 
@@ -62,11 +60,11 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 
 (1) A circuit breaker or fused switch;
 
-(2) A pilot light connected to the shore side of the circuit breaker or fused switch; and
+(2) An indicator connected to the shore side of the circuit breaker or fused switch; and
 
 (3) One of the voltmeters under paragraph (b)(5) of this section connected to show the voltage of each phase of the shore power connection.
 
-(g) The equipment under paragraphs (b), (d), (e), and (f) of this section, except the equipment under paragraphs (b)(1), (b)(2), and (f)(1), must be on the ship's service switchboard or on a central control console that:
+(g) The equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, except the equipment under paragraphs (b)(1), (b)(2), and (f)(1), must be on the ship's service switchboard or on a central control console that:
 
 (1) Is in the same control area as the main ship's service switchboard or can remotely control the ship's service generator circuit breaker;
 
@@ -79,3 +77,5 @@ Link to an amendment published at 88 FR 16361, Mar. 16, 2023.
 (i) Has only generator control and generator instrumentation circuits; and
 
 (ii) Is protected from mechanical damage.
+
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by USCG-2020-0075, 88 FR 16361, Mar. 16, 2023]

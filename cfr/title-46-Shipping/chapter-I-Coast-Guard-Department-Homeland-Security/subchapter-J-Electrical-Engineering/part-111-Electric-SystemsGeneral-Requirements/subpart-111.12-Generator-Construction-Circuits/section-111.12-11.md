@@ -1,7 +1,5 @@
 ##### § 111.12-11 Generator protection. #####
 
-Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
-
 (a) *Applicability.* This section applies to each generator except a propulsion generator.
 
 (b) *General.* Each ship's service generator and emergency generator must be protected by an individual, tripfree, air circuit breaker whose tripping characteristics can be set or adjusted to closely match the generator capabilities and meet the coordination requirements of Subpart 111.51. Each circuit breaker must contain the trips required by this section.
@@ -28,7 +26,11 @@ Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
 
 (f) *Reverse-power and reverse-current trips.* Each generator arranged for parallel operation must have reverse-power or reverse-current trips.
 
-(g) *Location.* A ship's service generator overcurrent protective device must be on the ship's service generator switchboard. The generator and its switchboard must be in the same space. (For the purposes of this section, the following are not considered separate from the machinery space: (1) A control room that is inside of the machinery casing and (2) a dedicated switch-gear and semiconductor rectifier (SCR) compartment on a mobile offshore drilling unit that is separate from but directly adjacent to and on the same level as the generator room).
+(g) Location. A ship's service generator overcurrent protective device must be on the ship's service generator switchboard. The generator and its switchboard must be in the same space. For the purposes of this section, the following are not considered separate from the machinery space:
+
+(1) A control room that is inside of the machinery casing; and
+
+(2) A dedicated switch-gear and semiconductor converter compartment on a mobile offshore drilling unit that is separate from but directly adjacent to and on the same level as the generator room.
 
 (h) *Three-wire, single-phase and four-wire, three-phase generators.* There must be circuit breaker poles for each generator lead, except in the neutral lead.
 
@@ -40,4 +42,4 @@ Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
 
 (j) *Circuit breaker reclosing.* Generator circuit breakers must not automatically close after tripping.
 
-[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 81-030, 53 FR 17847, May 18, 1988; CGD 94-108, 61 FR 28277, June 4, 1996; 62 FR 23908, May 1, 1997]
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 81-030, 53 FR 17847, May 18, 1988; CGD 94-108, 61 FR 28277, June 4, 1996; 62 FR 23908, May 1, 1997; USCG-2020-0075, 88 FR 16360, Mar. 16, 2023]

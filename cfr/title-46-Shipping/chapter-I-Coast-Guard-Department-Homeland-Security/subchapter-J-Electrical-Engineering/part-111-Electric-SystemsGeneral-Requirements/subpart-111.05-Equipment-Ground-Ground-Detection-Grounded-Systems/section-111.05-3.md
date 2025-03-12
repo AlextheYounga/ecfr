@@ -1,11 +1,11 @@
 ##### § 111.05-3 Design, construction, and installation; general. #####
 
-Link to an amendment published at 88 FR 16360, Mar. 16, 2023.
-
 (a) An electric apparatus must be designed, constructed, and installed to prevent any person from accidentally contacting energized parts.
 
 (b) Exposed, noncurrent-carrying metal parts of fixed equipment that may become energized because of any condition must be grounded.
 
-(c) Exposed, noncurrent-carrying metal parts of portable equipment must be grounded through a conductor in the supply cable to the grounding pole in the receptacle.
+(c) In a grounded distribution system, only grounded, three-prong appliances may be used. Adaptors that allow an ungrounded, two-prong appliance to fit into a grounded, three-prong, receptacle must not be used. This does not apply to double-insulated appliances or tools and low voltage appliances of 50 volts or less.
 
 (d) If the installation of the electrical equipment does not ensure a positive ground to the metal hull or equivalent conducting body, the apparatus must be grounded to the hull with a grounding conductor.
+
+[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by USCG-2020-0075, 88 FR 16360, Mar. 16, 2023]
