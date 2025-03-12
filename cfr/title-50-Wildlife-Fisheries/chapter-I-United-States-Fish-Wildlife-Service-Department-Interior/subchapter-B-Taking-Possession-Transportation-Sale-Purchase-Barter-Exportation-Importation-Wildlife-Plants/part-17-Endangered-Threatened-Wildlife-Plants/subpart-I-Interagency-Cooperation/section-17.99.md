@@ -1,5 +1,7 @@
 ##### § 17.99 Critical habitat; plants on the Hawaiian Islands. #####
 
+Link to an amendment published at 82 FR 49755, Oct. 27, 2017.
+
 (a) *Maps and critical habitat unit descriptions for the islands of Kauai and Niihau, HI.* The following paragraphs contain the legal descriptions of the critical habitat units designated for the Hawaiian Islands of Kauai and Niihau. Existing manmade features and structures within the boundaries of the mapped areas, such as buildings; roads; aqueducts and other water system features, including but not limited to pumping stations, irrigation ditches, pipelines, siphons, tunnels, water tanks, gaging stations, intakes, reservoirs, diversions, flumes, and wells; existing trails; campgrounds and their immediate surrounding landscaped area; scenic lookouts; remote helicopter landing sites; existing fences; telecommunications equipment towers and associated structures and equipment; electrical power transmission lines and distribution, and communication facilities and regularly maintained associated rights-of-way and access ways; radars, telemetry antennas; missile launch sites; arboreta and gardens; heiau (indigenous places of worship or shrines), and other archaeological sites; airports; other paved areas; and lawns and other rural residential landscaped areas do not contain one or more of the primary constituent elements described for each species in paragraph (b) of this section and therefore are not included in the critical habitat designations.
 
 (1) *Kauai.* Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the critical habitat units designated on the island of Kauai.
@@ -5396,7 +5398,7 @@ Kauai 10 - *Viola kauaiensis* var. *wahiawaensis* - a, identified in the legal d
 
 Family Aspleniaceae: *Asplenium dielerectum* (asplenium-leaved diellia
 
-Kauai 11 - *Asplenium dielerectum* - a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Asplenium dielerectum* - a on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Kauai 11 - *Asplenium dielerectum* - a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Asplenium dielerectum* - on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Brown granular soil with leaf litter and occasional terrestrial moss on north-facing slopes in deep shade on steep slopes or gulch bottoms in *Metrosideros polymorpha-Dicranopteris linearis* wet forest or *Metrosideros polymorpha* mixed mesic forest with *Acacia koa* and *Acacia koaia* as co-dominants and containing one or more of the following native plant species: *Asplenium aethiopicum, Asplenium contiguum, Asplenium macraei, Coprosma* spp., *Dodonaea viscosa, Dryopteris fusco-atra, Dryopteris unidentata, Hedyotis terminalis, Leptecophylla tameiameiae, Melicope* spp., *Microlepia strigosa, Myrsine* spp., *Nestegis sandwicensis, Psychotria* spp., *Syzygium sandwicensis,* or *Wikstroemia* spp.; and
 
@@ -17605,7 +17607,7 @@ Oahu - Lowland Mesic - Unit 1, Oahu - Lowland Mesic - Unit 2, Oahu - Lowland Mes
 
 *Asplenium dielerectum* (ASPLENIUM-LEAVED DIELLIA)
 
-Oahu - Lowland Mesic - Unit 4, Oahu - Lowland Mesic - Unit 5, Oahu - Lowland Mesic - Unit 6, and Oahu - Lowland Mesic - Unit 7, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *\>Asplenium dielerectum* on Oahu. Within these units, the physical and biological features of critical habitat are:
+Oahu - Lowland Mesic - Unit 4, Oahu - Lowland Mesic - Unit 5, Oahu - Lowland Mesic - Unit 6, and Oahu - Lowland Mesic - Unit 7, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Asplenium dielerectum* on Oahu. Within these units, the physical and biological features of critical habitat are:
 
 (i) Elevation: Less than 3,300 ft (1,000 m).
 
@@ -18865,8 +18867,9 @@ Hawaii 24 - *Asplenium peruvianum* var. *insulare* - a, identified in the legal 
 (ii) Elevations between 1,313 and 2,194 m (4,306 and 7,198 ft).
 
 Family Aspleniaceae: Diellia erecta (asplenium-leaved diellia)
+you've got 3 *s and 1*
 
-Hawaii 17 - *Asplenium dielerectum* - a and Hawaii 18 - *Asplenium dielerectum* - b, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Asplenium dielerectum* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Hawaii 17 - *Asplenium dielerectum - a* and Hawaii 18 - *Asplenium dielerectum - b*, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Asplenium dielerectum* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) *Metrosideros polymorpha-Nestegis sandwicensis* lowland mesic forest containing one or more of the following associated native plant species: *Antidesma platyphyllum, A. pulvinatum, Diospyros sandwicensis, Microlepia* sp., *Nephrolepis* spp. *Nestegis sandwicensis, Psydrax odorata, Wikstroemia phillyreifolia,* or *Wikstroemia sandwicensis;* and
 

@@ -8,4 +8,4 @@
 
 (d) The overtime pay requirements of this section shall be deemed to be complied with in the case of any employee employed as provided in section 7(b) of the Fair Labor Standards Act of 1938, as amended, pursuant to the provisions of paragraph (1) or (2) of that section.
 
-[7 FR 4494, June 16, 1942, as amended at 18 FR 1832, Apr. 2, 1953. Redesignated at 24 FR 10952, Dec. 30, 1959, as amended at 51 FR 12266, Apr. 9, 1986. Redesignated at 61 FR 40716, Aug. 5, 1996]
+[7 FR 4494, June 16, 1942, as amended at 18 FR 1832, Apr. 2, 1953. Redesignated at 24 FR 10952, Dec. 30, 1959, as amended at 51 FR 12266, Apr. 9, 1986. Further redesignated at 61 FR 40716, Aug. 5, 1996]

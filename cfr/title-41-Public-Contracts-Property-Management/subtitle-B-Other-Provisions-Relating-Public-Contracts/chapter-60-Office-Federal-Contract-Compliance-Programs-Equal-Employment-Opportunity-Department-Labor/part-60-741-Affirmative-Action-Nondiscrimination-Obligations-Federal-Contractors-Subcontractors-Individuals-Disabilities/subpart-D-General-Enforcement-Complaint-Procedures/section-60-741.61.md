@@ -4,7 +4,7 @@
 
 (b) *Place and time of filing.* Any applicant for employment with a contractor or any employee of a contractor may, personally, or by an authorized representative, file a written complaint with the Director alleging a violation of the act or the regulations in this part. The complaint may allege individual or class-wide violation(s). Complaints may be submitted to the OFCCP, 200 Constitution Avenue NW., Room C-3325, Washington, DC 20210, or to any OFCCP regional, district, or area office. Such complaint must be filed within 300 days of the date of the alleged violation, unless the time for filing is extended by OFCCP for good cause shown.
 
-(c) *Contents of complaints.* (1) *In general.* A complaint must be signed by the complainant or his or her authorized representative and must contain the following information:
+(c) *Contents of complaints*—(1) *In general.* A complaint must be signed by the complainant or his or her authorized representative and must contain the following information:
 
 (i) Name and address (including telephone number) of the complainant;
 

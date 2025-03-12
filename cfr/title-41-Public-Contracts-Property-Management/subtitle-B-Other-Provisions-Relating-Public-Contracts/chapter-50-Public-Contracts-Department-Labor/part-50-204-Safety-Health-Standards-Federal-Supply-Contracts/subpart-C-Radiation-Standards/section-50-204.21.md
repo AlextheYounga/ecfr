@@ -4,9 +4,9 @@
 
 |                                                                                   |Rems per calendar quarter|
 |-----------------------------------------------------------------------------------|-------------------------|
-|1. Whole body: Head and trunk; active blood-forming organs; lens of eyes; or gonads|        1<br/>1/4        |
-|                      2. Hands and forearms; feet and ankles                       |       18<br/>3/4        |
-|                               3. Skin of whole body                               |        7<br/>1/2        |
+|1. Whole body: Head and trunk; active blood-forming organs; lens of eyes; or gonads|          11/4           |
+|                      2. Hands and forearms; feet and ankles                       |          183/4          |
+|                               3. Skin of whole body                               |          71/2           |
 
 (b) An employer may permit an individual in a restricted area to receive doses to the whole body greater than those permitted under paragraph (a) of this section, so long as:
 

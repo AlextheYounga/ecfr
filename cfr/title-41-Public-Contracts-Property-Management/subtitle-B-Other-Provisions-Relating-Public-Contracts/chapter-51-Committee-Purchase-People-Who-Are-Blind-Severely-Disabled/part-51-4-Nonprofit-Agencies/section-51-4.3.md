@@ -28,7 +28,7 @@
 
 (2) Reports which state whether that individual is capable of engaging in normal competitive employment. These reports shall be signed by a person or persons qualified by training and experience to evaluate the work potential, interests, aptitudes, and abilities of persons with disabilities and shall normally consist of preadmission evaluations and reevaluations prepared at least annually. The file on individuals who have been in the nonprofit agency for less than two years shall contain the preadmission report and, where appropriate, the next annual reevaluation. The file on individuals who have been in the nonprofit agency for two or more years shall contain, as a minimum, the reports of the two most recent annual reevaluations.
 
-(d) The information collection requirements of § 51-4.2 and § 51-4.3 and the recordkeeping requirements of § 51-4.3 have been approved by the Office of Management and Budget (OMB) under the provisions of the Paperwork Reduction Act of 1980 (Public Law 96-511). The information collection requirements have been assigned the following OMB control numbers:
+(d) The information collection requirements of §§ 51-4.2 and 51-4.3 and the recordkeeping requirements of § 51-4.3 have been approved by the Office of Management and Budget (OMB) under the provisions of the Paperwork Reduction Act of 1980 (Public Law 96-511). The information collection requirements have been assigned the following OMB control numbers:
 
 |  Committee form  |OMB control No.|
 |------------------|---------------|
