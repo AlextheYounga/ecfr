@@ -1,5 +1,7 @@
 ##### § 172.407 Label specifications. #####
 
+Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
+
 (a) *Durability.* Each label, whether printed on or affixed to a package, must be durable and weather resistant. A label on a package must be able to withstand, without deterioration or a substantial change in color, a 30-day exposure to conditions incident to transportation that reasonably could be expected to be encountered by the labeled package.
 
 (b) *Design.* (1) Except for size and color, the printing, inner border, and symbol on each label must be as shown in §§ 172.411 through 172.448 of this subpart, as appropriate.

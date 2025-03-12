@@ -1,6 +1,6 @@
 ##### § 418.1001 What is this subpart about? #####
 
-This subpart relates to section 1839(i) of the Social Security Act (the Act), as added by section 811 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Pub. L. 108-173). Section 1839(i) establishes an income-related monthly adjustment to the Medicare Part B premium. Beneficiaries enrolled in Medicare Part B who have modified adjusted gross income over a threshold amount established in the statute will pay an income-related monthly adjustment amount in addition to the Medicare Part B standard monthly premium and any applicable premium increases as described in 42 CFR 408.20. The regulations in this subpart explain how we decide whether you are required to pay an income-related monthly adjustment amount, and if you are, the amount of your adjustment. The rules are divided into the following groups of sections:
+This subpart relates to section 1839(i) of the Social Security Act (the Act), as amended. Section 1839(i) establishes an income-related monthly adjustment to the Medicare Part B premium. Beneficiaries enrolled in Medicare Part B who have modified adjusted gross income over a threshold amount established in the statute will pay an income-related monthly adjustment amount in addition to the Medicare Part B standard monthly premium and any applicable premium increases as described in 42 CFR 408.20. The regulations in this subpart explain how we decide whether you are required to pay an income-related monthly adjustment amount, and if you are, the amount of your adjustment. The rules are divided into the following groups of sections:
 
 (a) Sections 418.1001 through 418.1010 contain the introduction, a statement of the general purpose of the income-related monthly adjustment amount, general provisions that apply to the income-related monthly adjustment amount, and definitions of terms that we use in this subpart.
 
@@ -10,4 +10,4 @@ This subpart relates to section 1839(i) of the Social Security Act (the Act), as
 
 (d) Sections 418.1301 through 418.1355 contain the rules that we will apply when you disagree with our determination regarding your income-related monthly adjustment amount. These sections explain your appeal rights and the circumstances under which you may request that we make a new initial determination of your income-related monthly adjustment amount.
 
-[71 FR 62931, Oct. 27, 2006, as amended at 78 FR 57259, Sept. 18, 2013]
+[71 FR 62931, Oct. 27, 2006, as amended at 78 FR 57259, Sept. 18, 2013; 83 FR 55628, Nov. 7, 2018]

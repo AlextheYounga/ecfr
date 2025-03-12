@@ -1,5 +1,7 @@
 ##### § 172.604 Emergency response telephone number. #####
 
+Link to an amendment published at 83 FR 55807, Nov. 7, 2018.
+
 (a) A person who offers a hazardous material for transportation must provide a numeric emergency response telephone number, including the area code, for use in an emergency involving the hazardous material. For telephone numbers outside the United States, the international access code or the “+” (plus) sign, country code, and city code, as appropriate, that are needed to complete the call must be included. The telephone number must be -
 
 (1) Monitored at all times the hazardous material is in transportation, including storage incidental to transportation;

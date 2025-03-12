@@ -1,5 +1,7 @@
 ##### § 173.5a Oilfield service vehicles, mechanical displacement meter provers, and roadway striping vehicles exceptions. #####
 
+Link to an amendment published at 83 FR 55807, Nov. 7, 2018.
+
 (a) *Oilfield service vehicles.* Notwithstanding § 173.29 of this subchapter, a cargo tank motor vehicle used in oilfield servicing operations is not subject to the specification requirements of this subchapter provided -
 
 (1) The cargo tank and equipment contains only residual amounts (*i.e.*, it is emptied so far as practicable) of a flammable liquid alone or in combination with water,

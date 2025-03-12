@@ -36,4 +36,4 @@
 
 (f) *Reverse logistics.* Except for Division 4.2 hazardous materials and self-reactive materials, hazardous materials meeting the definition of “reverse logistics” under § 171.8 of this subchapter and in compliance with paragraph (b) of this section may be offered for transport and transported in highway transportation in accordance with § 173.157.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended by Amdt. 173-231, 57 FR 52940, Nov. 5, 1992; Amdt. 173-234, 58 FR 51532, Oct. 1, 1993; Amdt. 173-255, 61 FR 50626, Sept. 26, 1996; 69 FR 76156, Dec. 20, 2004; 70 FR 34398, June 14, 2005; 71 FR 14602, Mar. 22, 2006; 72 FR 55692, Oct. 1, 2007; 76 FR 3373, Jan. 19, 2011; 76 FR 82177, Dec. 30, 2011; 78 FR 1114, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 81 FR 3673, Jan. 21, 2016; 81 FR 18539, Mar. 31, 2016]
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.151, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

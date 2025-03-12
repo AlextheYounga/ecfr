@@ -1,5 +1,7 @@
 ##### § 173.7 Government operations and materials. #####
 
+Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
+
 (a) Hazardous materials offered for transportation by, for, or to the Department of Defense (DOD) of the U.S. Government, including commercial shipments pursuant to a DOD contract, must be packaged in accordance with the regulations in this subchapter or in packagings of equal or greater strength and efficiency as certified by DOD in accordance with the procedures prescribed by “Packaging of Hazardous Material, DLAD 4145.41/AR 700-143/AFJI 24-210/NAVSUPINST 4030.55B/MCO 4030.40B (IBR, see § 171.7 of this subchapter).” Hazardous materials offered for transportation by DOD under this provision may be reshipped by any shipper to any consignee provided the original packaging has not been damaged or altered in any manner.
 
 (1) Hazardous materials sold by the DOD in packagings that are not marked in accordance with the requirements of this subchapter may be shipped from DOD installations if the DOD certifies in writing that the packagings are equal to or greater in strength and efficiency than the packaging prescribed in this subchapter. The shipper shall obtain such a certification in duplicate for each shipment. He shall give one copy to the originating carrier and retain the other for no less than 1 year.

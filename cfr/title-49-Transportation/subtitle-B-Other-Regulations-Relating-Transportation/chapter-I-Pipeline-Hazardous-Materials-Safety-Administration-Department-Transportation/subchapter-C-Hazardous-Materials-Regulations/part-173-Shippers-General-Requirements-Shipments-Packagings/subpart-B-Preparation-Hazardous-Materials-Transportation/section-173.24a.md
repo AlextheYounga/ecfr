@@ -1,5 +1,7 @@
 ##### § 173.24a Additional general requirements for non-bulk packagings and packages. #####
 
+Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
+
 (a) *Packaging design.* Except as provided in § 172.312 of this subchapter:
 
 (1) *Inner packaging closures.* A combination packaging containing liquid hazardous materials must be packed so that closures on inner packagings are upright.

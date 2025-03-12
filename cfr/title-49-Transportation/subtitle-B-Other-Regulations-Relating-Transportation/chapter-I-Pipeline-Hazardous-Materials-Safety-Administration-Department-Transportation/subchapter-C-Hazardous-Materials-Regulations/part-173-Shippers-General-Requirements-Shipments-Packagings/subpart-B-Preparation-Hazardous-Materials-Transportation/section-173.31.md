@@ -1,5 +1,7 @@
 ##### § 173.31 Use of tank cars. #####
 
+Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
+
 (a) *General.* (1) No person may offer a hazardous material for transportation in a tank car unless the tank car meets the applicable specification and packaging requirements of this subchapter or, when this subchapter authorizes the use of a non-DOT specification tank car, the applicable specification to which the tank was constructed.
 
 (2) Tank cars and appurtenances may be used for the transportation of any commodity for which they are authorized in this part and specified on the certificate of construction (AAR Form 4-2 or by addendum on Form R-1). See § 179.5 of this subchapter. Transfer of a tank car from one specified service on its certificate of construction to another may be made only by the owner or with the owner's authorization. A tank car proposed for a commodity service other than specified on its certificate of construction must be approved for such service by the AAR's Tank Car Committee.

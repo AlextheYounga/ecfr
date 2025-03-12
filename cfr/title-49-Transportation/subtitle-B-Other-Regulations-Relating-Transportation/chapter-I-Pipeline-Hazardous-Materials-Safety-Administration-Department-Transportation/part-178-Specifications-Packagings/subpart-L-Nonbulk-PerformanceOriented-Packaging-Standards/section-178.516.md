@@ -1,5 +1,7 @@
 ##### § 178.516 Standards for fiberboard boxes. #####
 
+Link to an amendment published at 83 FR 55810, November 7, 2018.
+
 (a) The identification code for a fiberboard box is 4G.
 
 (b) Construction requirements for fiberboard boxes are as follows:

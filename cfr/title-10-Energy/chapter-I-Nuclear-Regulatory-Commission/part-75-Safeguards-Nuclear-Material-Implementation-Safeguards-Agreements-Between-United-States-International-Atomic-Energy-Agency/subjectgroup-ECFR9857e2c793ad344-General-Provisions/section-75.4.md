@@ -32,7 +32,7 @@ Unless otherwise defined in this section, the terms defined in §§ 40.4, 50.2, 
 
 (3) A fuel fabrication plant;
 
-(4) An enrichment plant or isotope separation plant for the separation of isotopes of uranium or to increase the abundance of 235U.
+(4) An enrichment plant or isotope separation plant for the separation of isotopes of uranium or to increase the abundance of235U.
 
 (5) An installation designed to store nuclear material, such as an independent spent fuel storage installation (ISFSI) or a monitored retrievable storage installation (MRS) as defined in § 72.3 of this chapter; or
 

@@ -1,5 +1,7 @@
 ##### § 178.337-9 Pressure relief devices, piping, valves, hoses, and fittings. #####
 
+Link to an amendment published at 83 FR 55810, November 7, 2018.
+
 (a) *Pressure relief devices.* (1) See § 173.315(i) of this subchapter.
 
 (2) On cargo tanks for carbon dioxide or nitrous oxide see § 173.315 (i) (9) and (10) of this subchapter.

@@ -1,5 +1,7 @@
 ##### § 172.519 General specifications for placards. #####
 
+Link to an amendment published at 83 FR 55807, Nov. 7, 2018.
+
 (a) *Strength and durability.* Placards must conform to the following:
 
 (1) A placard may be made of any plastic, metal or other material capable of withstanding, without deterioration or a substantial reduction in effectiveness, a 30-day exposure to open weather conditions.

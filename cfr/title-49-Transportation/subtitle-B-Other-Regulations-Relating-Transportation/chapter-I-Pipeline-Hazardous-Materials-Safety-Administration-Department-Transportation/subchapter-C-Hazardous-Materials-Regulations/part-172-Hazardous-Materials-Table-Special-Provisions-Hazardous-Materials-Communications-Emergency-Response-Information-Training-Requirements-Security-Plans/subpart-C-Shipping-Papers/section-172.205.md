@@ -1,5 +1,7 @@
 ##### § 172.205 Hazardous waste manifest. #####
 
+Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
+
 (a) No person may offer, transport, transfer, or deliver a hazardous waste (waste) unless an EPA Form 8700-22 and 8700-22A (when necessary) hazardous waste manifest (manifest) is prepared in accordance with 40 CFR 262.20 and is signed, carried, and given as required of that person by this section.
 
 (b) The shipper (generator) shall prepare the manifest in accordance with 40 CFR part 262.

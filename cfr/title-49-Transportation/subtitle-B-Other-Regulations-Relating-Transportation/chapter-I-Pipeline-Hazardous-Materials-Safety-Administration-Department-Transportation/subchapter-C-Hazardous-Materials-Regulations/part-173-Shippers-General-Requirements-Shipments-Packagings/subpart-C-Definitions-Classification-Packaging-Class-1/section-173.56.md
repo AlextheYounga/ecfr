@@ -1,12 +1,14 @@
 ##### § 173.56 New explosives - definition and procedures for classification and approval. #####
 
-(a) Definition of new explosive. For the purposes of this subchapter a *new explosive* means an explosive produced by a person who:
+Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
+
+(a) *Definition of new explosive.* For the purposes of this subchapter a *new explosive* means an explosive produced by a person who:
 
 (1) Has not previously produced that explosive; or
 
 (2) Has previously produced that explosive but has made a change in the formulation, design or process so as to alter any of the properties of the explosive. An explosive will not be considered a “new explosive” if an agency listed in paragraph (b) of this section has determined, and confirmed in writing to the Associate Administrator, that there are no significant differences in hazard characteristics from the explosive previously approved.
 
-(b) Examination, classification and approval. Except as provided in §§ 173.64 and 173.65, no person may offer a new explosive for transportation unless that person has specified to the examining agency the ranges of composition of ingredients and compounds, showing the intended manufacturing tolerances in the composition of substances or design of articles which will be allowed in that material or device, and unless it has been examined, classed and approved as follows:
+(b) *Examination, classification and approval.* Except as provided in §§ 173.64 and 173.65, no person may offer a new explosive for transportation unless that person has specified to the examining agency the ranges of composition of ingredients and compounds, showing the intended manufacturing tolerances in the composition of substances or design of articles which will be allowed in that material or device, and unless it has been examined, classed and approved as follows:
 
 (1) Except for an explosive made by or under the direction or supervision of the Department of Defense (DOD) or the Department of Energy (DOE), a new explosive must be examined and assigned a recommended shipping description, division and compatibility group, based on the tests and criteria prescribed in §§ 173.52, 173.57 and 173.58. The person requesting approval of the new explosive must submit to the Associate Administrator a report of the examination and assignment of a recommended shipping description, division, and compatibility group. If the Associate Administrator finds the approval request meets the regulatory criteria, the new explosive will be approved in writing and assigned an EX number. The examination must be performed by a person who is approved by the Associate Administrator under the provisions of subpart H of part 107 of this chapter and who -
 
@@ -30,13 +32,13 @@
 
 (4) For a material shipped under the description of “ammonium nitrate-fuel oil mixture (ANFO)”, the only test required for classification purposes is the Cap Sensitivity Test - Test Method 5(a) prescribed in the Explosive Test Manual (UN Manual of Tests and Criteria) (IBR, see § 171.7 of the subchapter). The test must be performed by an agency listed in paragraph (b)(1), (b)(2), or (b)(3) of this section, the manufacturer, or the shipper. A copy of the test report must be submitted to the Associate Administrator before the material is offered for transportation, and a copy of the test report must be retained by the shipper for as long as that material is shipped. At a minimum, the test report must contain the name and address of the person or organization conducting the test, date of the test, quantitative description of the mixture, including prill size and porosity, and a description of the test results.
 
-(c) Filing DOD or DOE approval report. DOD or DOE must file a copy of each approval, accompanied by supporting laboratory data, with the Associate Administrator and receive acknowledgement in writing before offering the new explosive for transportation, unless the new explosive is:
+(c) *Filing DOD or DOE approval report.* DOD or DOE must file a copy of each approval, accompanied by supporting laboratory data, with the Associate Administrator and receive acknowledgement in writing before offering the new explosive for transportation, unless the new explosive is:
 
 (1) Being transported under paragraph (d) or (e) of this section; or
 
 (2) Covered by a national security classification currently in effect.
 
-(d) Transportation of explosive samples for examination. Notwithstanding the requirements of paragraph (b) of this section with regard to the transportation of a new explosive that has not been approved, a person may offer a sample of a new explosive for transportation, by railroad, highway, or vessel from the place where it was produced to an agency identified in paragraph (b) of this section, for examination if -
+(d) *Transportation of explosive samples for examination.* Notwithstanding the requirements of paragraph (b) of this section with regard to the transportation of a new explosive that has not been approved, a person may offer a sample of a new explosive for transportation, by railroad, highway, or vessel from the place where it was produced to an agency identified in paragraph (b) of this section, for examination if -
 
 (1) The new explosive has been assigned a tentative shipping description and class in writing by the testing agency;
 
@@ -50,7 +52,7 @@
 
 (iii) The tentative shipping name and identification number.
 
-(e) Transportation of unapproved explosives for developmental testing. Notwithstanding the requirements of paragraph (b) of this section, the owner of a new explosive that has not been examined or approved may transport that new explosive from the place where it was produced to an explosives testing range if -
+(e) *Transportation of unapproved explosives for developmental testing.* Notwithstanding the requirements of paragraph (b) of this section, the owner of a new explosive that has not been examined or approved may transport that new explosive from the place where it was produced to an explosives testing range if -
 
 (1) It is not a primary (a 1.1A initiating) explosive or a forbidden explosive according to this subchapter;
 
