@@ -2,7 +2,7 @@
 
 (a) *General.* This section prescribes rules pertaining to the registration of secure tests or a group of test items prepared for use in a secure test.
 
-(b) *Definitions.* For purposes of this section -
+(b) *Definitions.* For purposes of this section—
 
 (1) A *secure test* is a nonmarketed test administered under supervision at specified centers on scheduled dates, all copies of which are accounted for and either destroyed or returned to restricted locked storage or secure electronic storage following each administration. A test otherwise meeting the requirements of this paragraph shall be considered a secure test if it normally is administered at specified centers but is being administered online during the national emergency concerning the COVID-19 pandemic, provided the test administrator employs measures to maintain the security and integrity of the test that it reasonably determines to be substantially equivalent to the security and integrity provided by in-person proctors.
 
@@ -16,11 +16,11 @@
 
 (c) *Deposit requirements.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a secure test or a group of test items prepared for use in a secure test may be registered with identifying material, and the filing and examination fees required by § 201.3(c) and (d), if the following conditions are met:
 
-(1) The applicant must complete and submit a standard application. The application may be submitted by any of the parties listed in § 202.3(c)(1).
+(1) The applicant must complete and submit a Standard Application. The application may be submitted by any of the parties listed in § 202.3(c)(1).
 
-(2) In the case of a secure test, the applicant must submit a redacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must submit a redacted copy of each test item. In all cases the redacted copy must contain a sufficient amount of visible content to reasonably identify the work(s). In addition, the applicant must complete and submit the secure test questionnaire that is posted on the Copyright Office's Web site. The questionnaire and the redacted copy must be contained in separate electronic files, and each file must be uploaded to the electronic registration system in Portable Document Format (PDF). The Copyright Office will review these materials to determine if the work(s) qualify for an in-person examination. If they appear to be eligible, the Copyright Office will contact the applicant to schedule an appointment to examine an unredacted copy of the work(s) under secure conditions.
+(2) In case of a secure test, the applicant must submit a redacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must submit a redacted copy of each test item. In all cases the redacted copy must contain a sufficient amount of visible content to reasonably identify the work(s). In addition, the applicant must complete and submit the secure test questionnaire that is posted on the Copyright Office's website. The questionnaire and the redacted copy must be contained in separate electronic files, and each file must be uploaded to the electronic registration system in Portable Document Format (PDF). The Copyright Office will review these materials to determine if the work(s) qualify for an examination under secure conditions. If they appear to be eligible, the Copyright Office will contact the applicant to schedule an appointment to examine an unredacted copy of the work(s). The examination may be conducted in-person or through remote access as directed by the instructions provided on the Office's website.
 
-(3) On the appointed date, the applicant must bring the following materials to the Copyright Office:
+(3) On the appointed date, the applicant must provide the following materials to the Copyright Office:
 
 (i) A copy of the completed application.
 
@@ -30,9 +30,13 @@
 
 (iv) A signed declaration confirming that the redacted copy specified in paragraph (c)(3)(iii) of this section is identical to the redacted copy that was uploaded to the electronic registration system.
 
-(v) In the case of a secure test, the applicant must bring an unredacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must bring an unredacted copy of all the test items.
+(v) In the case of a secure test, the applicant must provide an unredacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must provide an unredacted copy of all the test items. The applicant shall include the following information in the metadata of an unredacted electronic file:
 
-(4) The Copyright Office will examine the copies specified in paragraphs (c)(3)(iii) and (v) of this section in the applicant's presence. When the examination is complete, the Office will stamp the date of the appointment on the copies and will return them to the applicant. The Office will retain the signed declaration and the redacted copy that was uploaded to the electronic registration system.
+(A) The date of the examination; and
+
+(B) The service request number generated by the electronic registration system.
+
+(4) The Copyright Office will examine the copies specified in paragraphs (c)(3)(iii) and (v) of this section under secure conditions. The Office will retain the signed declaration and the redacted copy that was uploaded to the electronic registration system. If the examination is conducted in-person, the Office will stamp the date of the appointment on the copies and will return them to the applicant when the examination is complete.
 
 (d) *Group registration requirements.* The Copyright Office may register a group of test items if the following conditions have been met:
 
@@ -46,4 +50,4 @@
 
 (5) All the works in the group must have the same author or authors, and the copyright claimant for each work must be the same. Claims in the selection, coordination, or arrangement of the group as a whole will not be permitted on the application. Each item in the group must be separately copyrightable or must be excluded from the group.
 
-[82 FR 26854, June 12, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 85 FR 27298, May 8, 2020]
+[82 FR 26854, June 12, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 85 FR 27298, May 8, 2020; 86 FR 10177, Feb. 19, 2021]

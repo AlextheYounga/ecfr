@@ -1,7 +1,5 @@
 ##### § 270.6c-11 Exchange-traded funds. #####
 
-Link to an amendment published at 85 FR 83291, Dec. 21, 2020.
-
 (a) *Definitions.* (1) For purposes of this section:
 
 *Authorized participant* means a member or participant of a clearing agency registered with the Commission, which has a written agreement with the exchange-traded fund or one of its service providers that allows the authorized participant to place orders for the purchase and redemption of creation units.
@@ -96,7 +94,7 @@ Link to an amendment published at 85 FR 83291, Dec. 21, 2020.
 
 (ii) Specify the titles or roles of the employees of the exchange-traded fund's investment adviser who are required to review each custom basket for compliance with those parameters.
 
-(4) The exchange-traded fund may not seek, directly or indirectly, to provide investment returns that correspond to the performance of a market index by a specified multiple, or to provide investment returns that have an inverse relationship to the performance of a market index, over a predetermined period of time.
+(4) An exchange-traded fund that seeks, directly or indirectly, to provide investment returns that correspond to the performance of a market index by a specified multiple, or to provide investment returns that have an inverse relationship to the performance of a market index, over a predetermined period of time, must comply with all applicable provisions of § 270.18f-4.
 
 (d) *Recordkeeping.* The exchange-traded fund must maintain and preserve for a period of not less than five years, the first two years in an easily accessible place:
 
@@ -112,4 +110,4 @@ Link to an amendment published at 85 FR 83291, Dec. 21, 2020.
 
 (iv) Identity of authorized participant transacting with the exchange-traded fund.
 
-[84 FR 57234, Oct. 24, 2019]
+[84 FR 57234, Oct. 24, 2019, as amended at 85 FR 83291, Dec. 21, 2020]

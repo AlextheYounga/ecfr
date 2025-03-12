@@ -1,7 +1,5 @@
 ##### § 1282.12 Single-family housing goals. #####
 
-Link to an amendment published at 85 FR 82895, Dec. 21, 2020.
-
 (a) *Single-family housing goals.* An Enterprise shall be in compliance with a single-family housing goal if its performance under the housing goal meets or exceeds either:
 
 (1) The share of the market that qualifies for the goal; or
@@ -26,13 +24,13 @@ Link to an amendment published at 85 FR 82895, Dec. 21, 2020.
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2018, 2019 and 2020 shall be 24 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2021 shall be 24 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
 (d) *Very low-income families housing goal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that consists of mortgages for very low-income families shall meet or exceed either:
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2018, 2019 and 2020 shall be 6 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2021 shall be 6 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
 (e) *Low-income areas housing goal.* The percentage share of each Enterprise's total purchases of purchase money mortgages on owner-occupied single-family housing that consists of mortgages for families in low-income areas shall meet or exceed either:
 
@@ -44,12 +42,12 @@ Link to an amendment published at 85 FR 82895, Dec. 21, 2020.
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2018, 2019 and 2020 shall be 14 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2021 shall be 14 percent of the total number of purchase money mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
 (g) *Refinancing housing goal.* The percentage share of each Enterprise's total purchases of refinancing mortgages on owner-occupied single-family housing that consists of refinancing mortgages for low-income families shall meet or exceed either:
 
 (1) The share of such mortgages in the market as defined in paragraph (b) of this section in each year; or
 
-(2) The benchmark level, which for 2018, 2019 and 2020 shall be 21 percent of the total number of refinancing mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
+(2) The benchmark level, which for 2021 shall be 21 percent of the total number of refinancing mortgages purchased by that Enterprise in each year that finance owner-occupied single-family properties.
 
-[80 FR 53430, Sept. 3, 2015, as amended at 83 FR 5899, Feb. 12, 2018]
+[80 FR 53430, Sept. 3, 2015, as amended at 83 FR 5899, Feb. 12, 2018; 85 FR 82895, Dec. 21, 2020]

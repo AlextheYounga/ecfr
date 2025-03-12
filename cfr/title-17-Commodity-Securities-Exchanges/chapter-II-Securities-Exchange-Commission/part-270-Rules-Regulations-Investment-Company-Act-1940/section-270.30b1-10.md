@@ -1,7 +1,5 @@
-##### § 270.30b1-10 Current report for open-end management investment companies. #####
+##### § 270.30b1-10 Current report for open-end and closed-end management investment companies. #####
 
-Link to an amendment published at 85 FR 83295, Dec. 21, 2020.
+Every registered open-end management investment company, or series thereof, and every registered closed-end management investment company, but not a fund that is regulated as a money market fund under § 270.2a-7, that experiences an event specified on Form N-RN, must file with the Commission a current report on Form N-RN within the period and according to the instructions specified in that form.
 
-Every registered open-end management investment company, or series thereof but not a fund that is regulated as a money market fund under § 270.2a-7, that experiences any event specified on Form N-LIQUID, must file with the Commission a current report on Form N-LIQUID within the period specified in that form.
-
-[81 FR 82266, Nov. 18, 2016]
+[85 FR 83295, Dec. 21, 2020]

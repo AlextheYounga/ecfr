@@ -1,7 +1,5 @@
 ##### § 270.22e-4 Liquidity risk management programs. #####
 
-Link to an amendment published at 85 FR 83295, Dec. 21, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Acquisition (or acquire)* means any purchase or subsequent rollover.
@@ -58,9 +56,11 @@ Note to paragraph (b)(1)(ii)introductory text: If an investment could be viewed 
 
 (B) In classifying and reviewing its portfolio investments or asset classes (as applicable), the fund must determine whether trading varying portions of a position in a particular portfolio investment or asset class, in sizes that the fund would reasonably anticipate trading, is reasonably expected to significantly affect its liquidity, and if so, the fund must take this determination into account when classifying the liquidity of that investment or asset class.
 
-(C) For derivatives transactions that the fund has classified as moderately liquid investments, less liquid investments, and illiquid investments, identify the percentage of the fund's highly liquid investments that it has segregated to cover, or pledged to satisfy margin requirements in connection with, derivatives transactions in each of these classification categories.
+(C) For derivatives transactions that the fund has classified as moderately liquid investments, less liquid investments, and illiquid investments, identify the percentage of the fund's highly liquid investments that it has pledged as margin or collateral in connection with derivatives transactions in each of these classification categories.
 
-Note to paragraph (b)(1)(ii)(C): For purposes of calculating these percentages, a fund that has segregated or pledged highly liquid investments and non-highly liquid investments to cover derivatives transactions classified as moderately liquid, less liquid, or illiquid investments first should apply segregated or pledged assets that are highly liquid investments to cover these transactions, unless it has specifically identified segregated non-highly liquid investments as covering such derivatives transactions.
+Note to paragraph (b)(1)(ii)(C):
+
+For purposes of calculating these percentages, a fund that has pledged highly liquid investments and non-highly liquid investments as margin or collateral in connection with derivatives transactions classified as moderately liquid, less liquid, or illiquid investments first should apply pledged assets that are highly liquid investments in connection with these transactions, unless it has specifically identified non-highly liquid investments as margin or collateral in connection with such derivatives transactions.
 
 (iii) *Highly liquid investment minimum.* (A) Any fund that does not primarily hold assets that are highly liquid investments must:
 
@@ -70,7 +70,7 @@ Note to paragraph (b)(1)(ii)(C): For purposes of calculating these percentages, 
 
 *(3)* Adopt and implement policies and procedures for responding to a shortfall of the fund's highly liquid investments below its highly liquid investment minimum, which must include requiring the person(s) designated to administer the program to report to the fund's board of directors no later than its next regularly scheduled meeting with a brief explanation of the causes of the shortfall, the extent of the shortfall, and any actions taken in response, and if the shortfall lasts more than 7 consecutive calendar days, must include requiring the person(s) designated to administer the program to report to the board within one business day thereafter with an explanation of how the fund plans to restore its minimum within a reasonable period of time.
 
-(B) For purposes of determining whether a fund primarily holds assets that are highly liquid investments, a fund must exclude from its calculations the percentage of the fund's assets that are highly liquid investments that it has segregated to cover all derivatives transactions that the fund has classified as moderately liquid investments, less liquid investments, and illiquid investments, or pledged to satisfy margin requirements in connection with those derivatives transactions, as determined pursuant to paragraph (b)(1)(ii)(C) of this section.
+(B) For purposes of determining whether a fund primarily holds assets that are highly liquid investments, a fund must exclude from its calculations the percentage of the fund's assets that are highly liquid investments that it has pledged as margin or collateral in connection with derivatives transactions that the fund has classified as moderately liquid investments, less liquid investments, and illiquid investments, as determined pursuant to paragraph (b)(1)(ii)(C) of this section.
 
 (iv) *Illiquid investments.* No fund or In-Kind ETF may acquire any illiquid investment if, immediately after the acquisition, the fund or In-Kind ETF would have invested more than 15% of its net assets in illiquid investments that are assets. If a fund or In-Kind ETF holds more than 15% of its net assets in illiquid investments that are assets:
 
@@ -98,4 +98,4 @@ Note to paragraph (b)(1)(ii)(C): For purposes of calculating these percentages, 
 
 (c) *UIT liquidity.* On or before the date of initial deposit of portfolio securities into a registered UIT, the UIT's principal underwriter or depositor must determine that the portion of the illiquid investments that the UIT holds or will hold at the date of deposit that are assets is consistent with the redeemable nature of the securities it issues, and must maintain a record of that determination for the life of the UIT and for five years thereafter.
 
-[81 FR 82264, Nov. 18, 2016]
+[81 FR 82264, Nov. 18, 2016, as amended at 85 FR 83295, Dec. 21, 2020]
