@@ -1,5 +1,7 @@
 ##### § 43.62 Reporting requirements for holders of international Section 214 authorizations and providers of international services. #####
 
+Link to an amendment published at 82 FR 55331, Nov. 21, 2017.
+
 (a) *Circuit Capacity Reports.* Not later than March 31 of each year:
 
 (1) *Satellite and Terrestrial Circuits.* Each facilities-based common carrier shall file a report showing its active common carrier circuits between the United States and any foreign point as of December 31 of the preceding calendar year in any terrestrial or satellite facility for the provision of service to an end user or resale carrier, which includes active circuits used by themselves or their affiliates. Each non-common carrier satellite licensee shall file a report showing its active circuits between the United States and any foreign point as of December 31 of the preceding calendar sold or leased to any customer, including themselves or their affiliates, other than a carrier authorized by the Commission to provide U.S. international common carrier services.

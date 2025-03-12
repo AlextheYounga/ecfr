@@ -8,7 +8,7 @@ International carriers authorized under Section 214 of the Communications Act of
 
 (c) Carriers regulated as dominant for the provision of a particular international communications service on a particular route for any reason other than a foreign carrier affiliation under § 63.10 shall file tariffs pursuant to Section 203 of the Communications Act, 47 U.S.C. 203, and part 61 of this chapter. Except as specified in § 20.15(d) of this chapter with respect to commercial mobile radio service providers, carriers regulated as non-dominant, as defined in § 61.3 of this chapter, and providing detariffed international services pursuant to § 61.19 of this chapter must comply with all applicable public disclosure and maintenance of information requirements in §§ 42.10 and 42.11 of this chapter.
 
-(d) Carriers must file annual international telecommunications traffic and revenue as required by § 43.62 of this chapter.
+(d) [Reserved]
 
 (e) Authorized carriers may not access or make use of specific U.S. customer proprietary network information that is derived from a foreign network unless the carrier obtains approval from that U.S. customer. In seeking to obtain approval, the carrier must notify the U.S. customer that the customer may require the carrier to disclose the information to unaffiliated third parties upon written request by the customer.
 
@@ -22,4 +22,4 @@ International carriers authorized under Section 214 of the Communications Act of
 
 (j) Subject to the availability of electronic forms, all notifications and other filings described in this section must be filed electronically through the International Bureau Filing System (IBFS). A list of forms that are available for electronic filing can be found on the IBFS homepage. For information on electronic filing requirements, see part 1, §§ 1.1000 through 1.10018 of this chapter and the IBFS homepage at *http://www.fcc.gov/ibfs.* See also §§ 63.20 and 63.53.
 
-[61 FR 15732, Apr. 9, 1996, as amended at 62 FR 45762, Aug. 29, 1997; 62 FR 64758, Dec. 9, 1997; 64 FR 19065, Apr. 19, 1999; 66 FR 16881, Mar. 28, 2001; 67 FR 45391, July 9, 2002; 67 FR 57344, Sept. 10, 2002; 70 FR 38798, July 6, 2005; 78 FR 15624, Mar. 12, 2013]
+[61 FR 15732, Apr. 9, 1996, as amended at 62 FR 45762, Aug. 29, 1997; 62 FR 64758, Dec. 9, 1997; 64 FR 19065, Apr. 19, 1999; 66 FR 16881, Mar. 28, 2001; 67 FR 45391, July 9, 2002; 67 FR 57344, Sept. 10, 2002; 70 FR 38798, July 6, 2005; 78 FR 15624, Mar. 12, 2013; 82 FR 55331, Nov. 21, 2017]Effective Date Note:At 82 FR 55331, Nov. 21, 2017, § 63.21 was amended by removing and reserving paragraph (d). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

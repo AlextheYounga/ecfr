@@ -1,5 +1,7 @@
 ##### § 905.306 Orange, Grapefruit, Tangerine and Tangelo Regulation. #####
 
+Link to an amendment published at 82 FR 55308, Nov. 21, 2017.
+
 (a) During the period specified in column (2) of Table I, no handler shall ship between the production area and any point outside thereof, in the 48 contiguous States and the District of Columbia of the United States, any variety of fruit listed in column (1) of Table I unless such variety meets the applicable minimum grade and size (with tolerances for size as specified in paragraph (c) of this section) specified for such variety in columns (3) and (4) of table I: *Provided,* That all grapefruit meet the minimum maturity requirements specified in paragraph (e) of this section.
 
 Table I
