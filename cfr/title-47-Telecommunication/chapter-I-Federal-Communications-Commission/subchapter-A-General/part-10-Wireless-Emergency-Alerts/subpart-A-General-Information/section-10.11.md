@@ -4,6 +4,4 @@
 
 (b) If a Participating CMS Provider's network infrastructure would generate and display WEA headers with the text “Presidential Alert” to subscribers upon receipt of a National Alert, or include the text “Presidential Alert” in a mobile device's settings menus, then by July 31, 2022, that Participating CMS Provider's network infrastructure shall either generate and display WEA headers and menus with the text “National Alert,” or no longer display those headers and menu text to the subscriber. Network infrastructure that is technically incapable of meeting this requirement, such as situations in which legacy devices or networks cannot be updated to support header display changes, are exempt from this requirement.
 
-(c) Compliance date(s) - paragraph (b) of this section contains an information-collection and recordkeeping requirement. Compliance with paragraph (b) will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing compliance date(s) with this paragraph and revising this paragraph accordingly.
-
-[78 FR 16807, Mar. 19, 2013, as amended at 86 FR 46790, Aug. 20, 2021]
+[78 FR 16807, Mar. 19, 2013, as amended at 86 FR 46790, Aug. 20, 2021; 87 FR 34213, June 6, 2022]

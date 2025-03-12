@@ -1,7 +1,5 @@
 ##### § 435.2 Definitions. #####
 
-Link to an amendment published at 87 FR 19613, Apr. 5, 2022.
-
 For purposes of this part, the following terms, phrases and words shall be defined as follows:
 
 *Design for construction* means the stage when the energy efficiency and sustainability details (such as insulation levels, HVAC systems, water-using systems, etc.) are either explicitly determined or implicitly included in a project cost specification.
@@ -14,11 +12,13 @@ For purposes of this part, the following terms, phrases and words shall be defin
 
 *IECC* means International Energy Conservation Code.
 
-*IECC Baseline Building 2004* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC International Energy Conservation Code, 2004 Supplement Edition, January 2005 (incorporated by reference, see § 435.3).
+*IECC Baseline Building 2004* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC IECC 2004 (incorporated by reference, see § 435.3).
 
-*IECC Baseline Building 2009* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC International Energy Conservation Code, 2009 Edition, January 2009 (incorporated by reference, see § 435.3).
+*IECC Baseline Building 2009* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC IECC 2009 (incorporated by reference, see § 435.3).
 
 *IECC Baseline Building 2015* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC IECC 2015 (incorporated by reference, see § 435.3).
+
+*IECC Baseline Building 2021* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in the ICC IECC 2021 (incorporated by reference, see § 435.3).
 
 *Life-cycle cost* means the total cost related to energy conservation measures of owning, operating and maintaining a building over its useful life as determined in accordance with 10 CFR part 436.
 
@@ -30,4 +30,4 @@ For purposes of this part, the following terms, phrases and words shall be defin
 
 *Proposed building* means the building design of a new Federal low-rise residential building proposed for construction.
 
-[71 FR 70283, Dec. 4, 2006, as amended at 72 FR 72571, Dec. 21, 2007; 76 FR 49285, Aug. 10, 2011; 82 FR 2867, Jan. 10, 2017]
+[71 FR 70283, Dec. 4, 2006, as amended at 72 FR 72571, Dec. 21, 2007; 76 FR 49285, Aug. 10, 2011; 82 FR 2867, Jan. 10, 2017; 87 FR 19613, Apr. 5, 2022]

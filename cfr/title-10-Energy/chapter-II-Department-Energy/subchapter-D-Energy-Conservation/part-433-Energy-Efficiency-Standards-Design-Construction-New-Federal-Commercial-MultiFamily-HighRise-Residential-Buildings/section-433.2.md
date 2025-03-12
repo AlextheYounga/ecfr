@@ -1,7 +1,5 @@
 ##### § 433.2 Definitions. #####
 
-Link to an amendment published at 87 FR 20293, Apr. 7, 2022.
-
 For purposes of this part, the following terms, phrases and words are defined as follows:
 
 *ANSI* means the American National Standards Institute.
@@ -14,7 +12,9 @@ For purposes of this part, the following terms, phrases and words are defined as
 
 *ASHRAE Baseline Building 2010* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in ANSI/ASHRAE/IESNA Standard 90.1-2010, Energy Standard for Buildings Except Low-Rise Residential Buildings, 2010 (incorporated by reference, see § 433.3).
 
-*ASHRAE Baseline Building 2013* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in ANSI/ASHRAE/IES Standard 90.1-2013, Energy Standard for Buildings Except Low-Rise Residential Buildings, 2013 (incorporated by reference, see § 433.3).
+*ASHRAE Baseline Building 2013* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in ASHRAE 90.1-2013 (incorporated by reference, see § 433.3).
+
+*ASHRAE Baseline Building 2019* means a building that is otherwise identical to the proposed building but is designed to meet, but not exceed, the energy efficiency specifications in ASHRAE 90.1-2019 (incorporated by reference, see § 433.3).
 
 *Commercial and multi-family high-rise residential building* means all buildings other than low-rise residential buildings.
 
@@ -32,7 +32,7 @@ For purposes of this part, the following terms, phrases and words are defined as
 
 *Low-rise residential building* means any building three stories or less in height above grade that includes sleeping accommodations where the occupants are primarily permanent in nature (30 days or more).
 
-*New Federal building* means any building to be constructed on a site that previously did not have a building or a complete replacement of an existing building from the foundation up, by, or for the use of, any Federal agency which is not legally subject to State or local building codes or similar requirements.
+*New Federal building* means any new building (including a complete replacement of an existing building from the foundation up) to be constructed by, or for the use of, any Federal agency. Such term shall include new buildings (including a complete replacement of an existing building from the foundation up) built for the purpose of being leased by a Federal agency, and privatized military housing.
 
 *Process load* means the load on a building resulting from energy consumed in support of a manufacturing, industrial, or commercial process. Process loads do not include energy consumed maintaining comfort and amenities for the occupants of the building (including space conditioning for human comfort).
 
@@ -40,4 +40,4 @@ For purposes of this part, the following terms, phrases and words are defined as
 
 *Receptacle load* means the load on a building resulting from energy consumed by any equipment plugged into electrical outlets.
 
-[71 FR 70281, Dec. 4, 2006, as amended at 72 FR 72570, Dec. 21, 2007; 76 FR 49284, Aug. 10, 2011; 78 FR 40953, July 9, 2013; 80 FR 68757, Nov. 6, 2015]
+[71 FR 70281, Dec. 4, 2006, as amended at 72 FR 72570, Dec. 21, 2007; 76 FR 49284, Aug. 10, 2011; 78 FR 40953, July 9, 2013; 80 FR 68757, Nov. 6, 2015; 87 FR 20293, Apr. 7, 2022]Editorial Note:At 87 FR 20293, Apr. 7, 2022, § 433.2 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

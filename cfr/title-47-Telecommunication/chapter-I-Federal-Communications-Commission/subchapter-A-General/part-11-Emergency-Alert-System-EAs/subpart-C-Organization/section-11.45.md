@@ -6,6 +6,4 @@
 
 (c) If the Administrator of the Federal Emergency Management Agency or a State, local, Tribal, or territorial government entity becomes aware of transmission of an EAS false alert to the public, they are encouraged to send an email to the Commission at the FCC Ops Center at *FCCOPS@fcc.gov,* informing the Commission of the event and of any details that they may have concerning the event.
 
-(d) Compliance date(s) - paragraph (c) of this section contains an information-collection and recordkeeping requirement. Compliance with paragraph (c) will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing compliance date(s) for this paragraph and revising this paragraph accordingly.
-
-[83 FR 39621, Aug. 10, 2018, as amended at 86 FR 46791, Aug. 20, 2021]
+[83 FR 39621, Aug. 10, 2018, as amended at 86 FR 46791, Aug. 20, 2021; 87 FR 34215, June 6, 2022]

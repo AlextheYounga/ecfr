@@ -1,0 +1,3 @@
+##### § 650.303 Applicability. #####
+
+The National Bridge Inspection Standards (NBIS) in this subpart apply to all structures defined as highway bridges located on all public roads, on and off Federal-aid highways, including tribally-owned and federally-owned bridges, private bridges that are connected to a public road on both ends of the bridge, temporary bridges, and bridges under construction with portions open to traffic.

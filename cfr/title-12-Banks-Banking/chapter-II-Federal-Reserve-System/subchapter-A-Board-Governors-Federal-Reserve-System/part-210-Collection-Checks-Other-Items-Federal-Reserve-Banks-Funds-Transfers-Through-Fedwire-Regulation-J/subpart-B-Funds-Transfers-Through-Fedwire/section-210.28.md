@@ -1,5 +1,7 @@
 ##### § 210.28 Agreement of sender. #####
 
+Link to an amendment published at 87 FR 34359, June 6, 2022.
+
 (a) *Payment of sender's obligation to a Federal Reserve Bank.* A sender (other than a Federal Reserve Bank), by maintaining or using an account with a Federal Reserve Bank, authorizes the sender's Federal Reserve Bank to obtain payment for the sender's payment orders by debiting the amount of the payment order from the sender's account.
 
 (b) *Overdrafts.* (1) A sender does not have the right to an overdraft in the sender's account. In the event an overdraft is created, the overdraft shall be due and payable immediately without the need for a demand by the Federal Reserve Bank, at the earliest of the following times:

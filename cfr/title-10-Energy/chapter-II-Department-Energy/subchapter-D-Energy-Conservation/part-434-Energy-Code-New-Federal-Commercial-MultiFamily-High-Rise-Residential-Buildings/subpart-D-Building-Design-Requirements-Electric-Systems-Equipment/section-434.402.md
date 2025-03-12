@@ -24,35 +24,30 @@ The thermal transmittance of each component of the building envelope shall be de
 
 ![](/graphics/er06oc00.023.gif)Where:Rt = the total resistance of the envelope assemblyRi = the resistance of the series elements (for i = 1 to n) excluding the parallel path element(s)Re = the equivalent resistance of the element containing the parallel path (R-value of insulation × Fc). Values for Fc and equivalent resistances shall be taken from Tables 402.1.2.1a or b.
 
-Table 402.1.2.1a - Parallel Path Correction Factors - Metal Roof Trusses Spaced 4 ft. o.c. or Greater That Penetrate the Insulation
+|                  Effective framing cavity R-values                   |Correction  <br/>factor  <br/>F<sub>c</sub>|Equivalent  <br/>resistance  <br/>R<sub>e</sub><sup>1</sup>|
+|----------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------|
+|                                 R-0                                  |                   1.00                    |                            R-0                            |
+|                                 R-5                                  |                   0.96                    |                           R-4.8                           |
+|                                 R-10                                 |                   0.92                    |                           R-9.2                           |
+|                                 R-15                                 |                   0.88                    |                          R-13.2                           |
+|                                 R-20                                 |                   0.85                    |                          R-17.0                           |
+|                                 R-25                                 |                   0.81                    |                          R-20.3                           |
+|                                 R-30                                 |                   0.79                    |                          R-23.7                           |
+|                                 R-35                                 |                   0.76                    |                          R-26.6                           |
+|                                 R-40                                 |                   0.73                    |                          R-29.2                           |
+|                                 R-45                                 |                   0.71                    |                          R-32.0                           |
+|                                 R-50                                 |                   0.69                    |                          R-34.5                           |
+|                                 R-55                                 |                   0.67                    |                          R-36.0                           |
+|<sup>1</sup> Based on 0.66-inch-diameter cross members every one foot.|                                           |                                                           |
 
-|Effective framing cavity R-values|Correction  <br/>factor  <br/>Fc|Equivalent  <br/>resistance  <br/>Re<sup>1</sup>|
-|---------------------------------|--------------------------------|------------------------------------------------|
-|               R-0               |              1.00              |                      R-0                       |
-|               R-5               |              0.96              |                     R-4.8                      |
-|              R-10               |              0.92              |                     R-9.2                      |
-|              R-15               |              0.88              |                     R-13.2                     |
-|              R-20               |              0.85              |                     R-17.0                     |
-|              R-25               |              0.81              |                     R-20.3                     |
-|              R-30               |              0.79              |                     R-23.7                     |
-|              R-35               |              0.76              |                     R-26.6                     |
-|              R-40               |              0.73              |                     R-29.2                     |
-|              R-45               |              0.71              |                     R-32.0                     |
-|              R-50               |              0.69              |                     R-34.5                     |
-|              R-55               |              0.67              |                     R-36.0                     |
-
-<sup>1</sup> Based on 0.66-inch-diameter cross members every one foot.
-
-Table 402.1.2.1b - Parallel Path Correction Factors - Metal Framed Walls With Studs 16 Ga. or Lighter
-
-|Size of members|Spacing of  <br/>framing, in.|Cavity  <br/>insulation R-Value|Correction  <br/>factor  <br/>Fc|Equivalent  <br/>resistance  <br/>Re|
-|---------------|-----------------------------|-------------------------------|--------------------------------|------------------------------------|
-|     2 × 4     |           16 O.C.           |  R-11  <br/>R-13  <br/>R-15   |   0.50  <br/>0.46  <br/>0.43   |   R-5.5  <br/>R-6.0  <br/>R-6.4    |
-|     2 × 4     |           24 O.C.           |  R-11  <br/>R-13  <br/>R-15   |   0.60  <br/>0.55  <br/>0.52   |   R-6.6  <br/>R-7.2  <br/>R-7.8    |
-|     2 × 6     |           16 O.C.           |        R-19  <br/>R-21        |        0.37  <br/>0.35         |         R-7.1  <br/>R-7.4          |
-|     2 × 6     |           24 O.C.           |        R-19  <br/>R-21        |        0.45  <br/>0.43         |         R-8.6  <br/>R-9.0          |
-|     2 × 8     |           16 O.C.           |             R-25              |              0.31              |               R-7.8                |
-|     2 × 8     |           24 O.C.           |             R-25              |              0.38              |               R-9.6                |
+|Size of members|Spacing of  <br/>framing, in.|Cavity  <br/>insulation R-Value|Correction  <br/>factor  <br/>F<sub>c</sub>|Equivalent  <br/>resistance  <br/>R<sub>e</sub>|
+|---------------|-----------------------------|-------------------------------|-------------------------------------------|-----------------------------------------------|
+|     2 × 4     |           16 O.C.           |  R-11  <br/>R-13  <br/>R-15   |        0.50  <br/>0.46  <br/>0.43         |         R-5.5  <br/>R-6.0  <br/>R-6.4         |
+|     2 × 4     |           24 O.C.           |  R-11  <br/>R-13  <br/>R-15   |        0.60  <br/>0.55  <br/>0.52         |         R-6.6  <br/>R-7.2  <br/>R-7.8         |
+|     2 × 6     |           16 O.C.           |        R-19  <br/>R-21        |              0.37  <br/>0.35              |               R-7.1  <br/>R-7.4               |
+|     2 × 6     |           24 O.C.           |        R-19  <br/>R-21        |              0.45  <br/>0.43              |               R-8.6  <br/>R-9.0               |
+|     2 × 8     |           16 O.C.           |             R-25              |                   0.31                    |                     R-7.8                     |
+|     2 × 8     |           24 O.C.           |             R-25              |                   0.38                    |                     R-9.6                     |
 
 402.1.2.2 *Envelope Assemblies Containing Nonmetal Framing.* The thermal transmittance of the envelope assembly shall be determined from laboratory or field test measurements based on RS-5, RS-6, RS-7, or RS-8 (incorporated by reference, see § 434.701) or from the series-parallel (isothermal planes) method provided in page 23.2 of Chapter 23 of RS-4 (incorporated by reference, see § 434.701).
 
@@ -88,35 +83,31 @@ Table 402.1.2.1b - Parallel Path Correction Factors - Metal Framed Walls With St
 
 (b) The air barrier shall be sealed at all penetrations of the opaque building wall for electrical and telecommunications equipment.
 
-Table 402.2.1 - Air Leakage for Fenestration and Doors Maximum Allowable Infiltration Rate
-
-|        Component         |Reference  <br/>standard|cfm/lin ft Sash  <br/>crack or cfm/ft<sup>2</sup>  <br/>of area|
-|--------------------------|------------------------|---------------------------------------------------------------|
-|       Fenestration       |                        |                                                               |
-|        Aluminum:         |                        |                                                               |
-|         Operable         |        RS-11\*         |                       0.37 cfm/lin ft.                        |
-|         Jalousie         |        RS-11\*         |                   1.50 cfm/ft<sup>2</sup>.                    |
-|          Fixed           |        RS-11\*         |                   0.15 cfm/ft<sup>2</sup>.                    |
-|Poly Vinyl Chloride (PVC):|                        |                                                               |
-|      Prime Windows       |        RS-12\*         |                   0.37 cfm/ft<sup>2</sup>.                    |
-|          Wood:           |                        |                                                               |
-|       Residential        |        RS-13\*         |                   0.37 cfm/ft<sup>2</sup>.                    |
-|     Light Commercial     |        RS-13\*         |                   0.25 cfm/ft<sup>2</sup>.                    |
-|     Heavy Commercial     |        RS-13\*         |                   0.15 cfm/ft<sup>2</sup>.                    |
-|   Sliding Glass Doors:   |                        |                                                               |
-|         Aluminum         |        RS-11\*         |                   0.37 cfm/ft<sup>2</sup>.                    |
-|           PVC            |        RS-12\*         |                       0.37 cfm/lin ft.                        |
-|      Doors - Wood:       |                        |                                                               |
-|       Residential        |        RS-14\*         |                   0.34 cfm/ft<sup>2</sup>.                    |
-|     Light Commercial     |        RS-14\*         |                   0.25 cfm/ft<sup>2</sup>.                    |
-|     Heavy Commercial     |        RS-14\*         |                   0.10 cfm/ft<sup>2</sup>.                    |
-|Commercial Entrance Doors |        RS-10\*         |                   1.25 cfm/ft<sup>2</sup>.                    |
-|Residential Swinging Doors|        RS-10\*         |                   0.50 cfm/ft<sup>2</sup>.                    |
-|  Wall Sections Aluminum  |        RS-10\*         |                   0.06 cfm/ft<sup>2</sup>.                    |
-
-Note: [The “Maximum Allowable Infiltration Rates” are from current standards to allow the use of available products.]
-
-\* Incorporated by reference, see § 434.701.
+|                                                        Component                                                        |Reference  <br/>standard|cfm/lin ft Sash  <br/>crack or cfm/ft<sup>2</sup>  <br/>of area|
+|-------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------|
+|                                                    **Fenestration**                                                     |                        |                                                               |
+|                                                        Aluminum:                                                        |                        |                                                               |
+|                                                        Operable                                                         |        RS-11\*         |                       0.37 cfm/lin ft.                        |
+|                                                        Jalousie                                                         |        RS-11\*         |                   1.50 cfm/ft<sup>2</sup>.                    |
+|                                                          Fixed                                                          |        RS-11\*         |                   0.15 cfm/ft<sup>2</sup>.                    |
+|                                               Poly Vinyl Chloride (PVC):                                                |                        |                                                               |
+|                                                      Prime Windows                                                      |        RS-12\*         |                   0.37 cfm/ft<sup>2</sup>.                    |
+|                                                          Wood:                                                          |                        |                                                               |
+|                                                       Residential                                                       |        RS-13\*         |                   0.37 cfm/ft<sup>2</sup>.                    |
+|                                                    Light Commercial                                                     |        RS-13\*         |                   0.25 cfm/ft<sup>2</sup>.                    |
+|                                                    Heavy Commercial                                                     |        RS-13\*         |                   0.15 cfm/ft<sup>2</sup>.                    |
+|                                                  Sliding Glass Doors:                                                   |                        |                                                               |
+|                                                        Aluminum                                                         |        RS-11\*         |                   0.37 cfm/ft<sup>2</sup>.                    |
+|                                                           PVC                                                           |        RS-12\*         |                       0.37 cfm/lin ft.                        |
+|                                                       Doors—Wood:                                                       |                        |                                                               |
+|                                                       Residential                                                       |        RS-14\*         |                   0.34 cfm/ft<sup>2</sup>.                    |
+|                                                    Light Commercial                                                     |        RS-14\*         |                   0.25 cfm/ft<sup>2</sup>.                    |
+|                                                    Heavy Commercial                                                     |        RS-14\*         |                   0.10 cfm/ft<sup>2</sup>.                    |
+|                                                Commercial Entrance Doors                                                |        RS-10\*         |                   1.25 cfm/ft<sup>2</sup>.                    |
+|                                               Residential Swinging Doors                                                |        RS-10\*         |                   0.50 cfm/ft<sup>2</sup>.                    |
+|                                                 Wall Sections Aluminum                                                  |        RS-10\*         |                   0.06 cfm/ft<sup>2</sup>.                    |
+|**Note:** [The “Maximum Allowable Infiltration Rates” are from current standards to allow the use of available products.]|                        |                                                               |
+|                                      \* Incorporated by reference, see § 434.701.                                       |                        |                                                               |
 
 402.2.2 *Building Envelope.* The following areas of the building envelope shall be sealed, caulked, gasketed, or weatherstripped to limit air leakage:
 
@@ -176,7 +167,7 @@ Exceptions are as follows: Outside air intakes, exhaust outlets, relief outlets,
 
 (c) All electric lighting fixtures within daylighted zones under skylights are controlled by automatic daylighting controls.
 
-(d) The Uo of the skylight assembly including framing does not exceed\_\_\_\_\_\_Btu/(h·ft2·°F) [Use 0.70 for ≤8000 HDD65 and 0.45 for \>8000 HDD65 or both if the jurisdiction includes cities that are both below and above 8000 HDD65.]
+(d) The Uo of the skylight assembly including framing does not exceed\_\_\_\_\_\_\_\_\_\_\_\_Btu/(h·ft2·°F) [Use 0.70 for ≤8000 HDD65 and 0.45 for \>8000 HDD65 or both if the jurisdiction includes cities that are both below and above 8000 HDD65.]
 
 (e) Skylight curb U-value does not exceed 0.21 Btu/(h·ft2·°F).
 
@@ -186,7 +177,7 @@ Exceptions are as follows: Outside air intakes, exhaust outlets, relief outlets,
 
 402.4 *Exterior Walls.* Exterior walls shall comply with either 402.4.1 or 402.4.2.
 
-402.4.1 *Prescriptive Criteria.* (a) The exterior wall shall be designed in accordance with subsections 402.4.1.1 and 402.4.1.2. When the internal load density range is not known, the 0-1.50 W/ft2 range shall be used for residential, hotel/motel guest rooms, or warehouse occupancies; the 3.01-3.50 w/ft2 range shall be used for retail stores smaller than 2,000 ft2 and technical and vocational schools smaller than 10,000 ft2; and the 1.51-3.00 W/ft2 range shall be used for all other occupancies and building sizes. When the building envelope is designed or constructed prior to knowing the building occupancy type, an internal load density of \_\_\_ W/ft2 shall be used. [Use 3.0 W/ft2 for HDD65 \<3000, 2.25 W/ft2 for 3000 \<HDD65 \<6000, and 1.5 W/ft2 for HDD65 \>6000.]
+402.4.1 *Prescriptive Criteria.* (a) The exterior wall shall be designed in accordance with subsections 402.4.1.1 and 402.4.1.2. When the internal load density range is not known, the 0-1.50 W/ft2 range shall be used for residential, hotel/motel guest rooms, or warehouse occupancies; the 3.01-3.50 w/ft2 range shall be used for retail stores smaller than 2,000 ft2 and technical and vocational schools smaller than 10,000 ft2; and the 1.51-3.00 W/ft2 range shall be used for all other occupancies and building sizes. When the building envelope is designed or constructed prior to knowing the building occupancy type, an internal load density of \_\_\_\_\_\_ W/ft2 shall be used. [Use 3.0 W/ft2 for HDD65 \<3000, 2.25 W/ft2 for 3000 \<HDD65 \<6000, and 1.5 W/ft2 for HDD65 \>6000.]
 
 (b) When more than one condition exists, area weighted averages shall be used. This requirement shall apply to all thermal transmittances, shading coefficients, projection factors, and internal load densities rounded to the same number of decimal places as shown in the respective table.
 
@@ -202,21 +193,18 @@ The example Alternate Component Package tables illustrate the requirements of su
 
 402.4.2 *System Performance Criteria.* The cumulative annual energy flux attributable to thermal transmittance and solar gains shall be less than the criteria determined using the ENVSTD24 computer program in Standard 90.1-1989, or the equations in RS-1, (incorporated by reference, see § 434.701) Attachment 8-B. The cumulative annual energy flux shall be calculated using the ENVSTD24 computer program or the equations in RS-1, (incorporated by reference, see § 434.701) Attachment 8-B.
 
-Table 402.4.2 - EQUIP Default Values for ENVSTD24
-
-|      Occupancy       |Default equipment power density<sup>1</sup>|Default occupant load adjustment<sup>1</sup>|Default adjusted equipment power density|
-|----------------------|-------------------------------------------|--------------------------------------------|----------------------------------------|
-|       Assembly       |                   0.25                    |                    0.75                    |                  1.00                  |
-| Health/Institutional |                   1.00                    |                   −0.26                    |                  0.74                  |
-|     Hotel/Motel      |                   0.25                    |                   −0.33                    |                  0.00                  |
-|  Warehouse/Storage   |                   0.10                    |                   −0.60                    |                  0.00                  |
-|Multi-Family High Rise|                   0.75                    |                    N/A                     |                  0.00                  |
-|        Office        |                   0.75                    |                   −0.35                    |                  0.40                  |
-|      Restaurant      |                   0.10                    |                    0.07                    |                  0.17                  |
-|        Retail        |                   0.25                    |                   −0.38                    |                  0.00                  |
-|        School        |                   0.50                    |                    0.30                    |                  0.80                  |
-
-<sup>1</sup> Defaults as defined in Section 8.6.10.5, Table 8-4, and Sections 8.6.10.6 and 13.7.2.1, Table 13-2 from RS-1 (incorporated by reference, see § 434.701).
+|                                                                              Occupancy                                                                              |Default equipment power density <sup>1</sup>|Default occupant load adjustment <sup>1</sup>|Default adjusted equipment power density|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------|----------------------------------------|
+|                                                                              Assembly                                                                               |                    0.25                    |                    0.75                     |                  1.00                  |
+|                                                                        Health/Institutional                                                                         |                    1.00                    |                    −0.26                    |                  0.74                  |
+|                                                                             Hotel/Motel                                                                             |                    0.25                    |                    −0.33                    |                  0.00                  |
+|                                                                          Warehouse/Storage                                                                          |                    0.10                    |                    −0.60                    |                  0.00                  |
+|                                                                       Multi-Family High Rise                                                                        |                    0.75                    |                     N/A                     |                  0.00                  |
+|                                                                               Office                                                                                |                    0.75                    |                    −0.35                    |                  0.40                  |
+|                                                                             Restaurant                                                                              |                    0.10                    |                    0.07                     |                  0.17                  |
+|                                                                               Retail                                                                                |                    0.25                    |                    −0.38                    |                  0.00                  |
+|                                                                               School                                                                                |                    0.50                    |                    0.30                     |                  0.80                  |
+|<sup>1</sup> Defaults as defined in Section 8.6.10.5, Table 8-4, and Sections 8.6.10.6 and 13.7.2.1, Table 13-2 from RS-1 (incorporated by reference, see § 434.701).|                                            |                                             |                                        |
 
 402.4.2.1 *Equipment Power Density (EQUIP).* The equipment power density used in the ENVSTD24 computer program shall use the actual equipment power density from the building plans and specifications or be taken from Table 402.4.2 using the column titled “Default Adjusted Equipment Power Density” or calculated for the building using the procedures of RS-1. (incorporated by reference, see § 434.701). The program limits consideration of the equipment power density to a maximum of 1 W/ft2.
 

@@ -1,5 +1,7 @@
 ##### § 187.7 What are the definitions of terms used in this part? #####
 
+Link to an amendment published at 87 FR 34190, June 6, 2022.
+
 As used in this part -
 
 *Approved Numbering System* means a numbering system approved by the Secretary of the Department of Homeland Security under 46 U.S.C. Chapter 123.

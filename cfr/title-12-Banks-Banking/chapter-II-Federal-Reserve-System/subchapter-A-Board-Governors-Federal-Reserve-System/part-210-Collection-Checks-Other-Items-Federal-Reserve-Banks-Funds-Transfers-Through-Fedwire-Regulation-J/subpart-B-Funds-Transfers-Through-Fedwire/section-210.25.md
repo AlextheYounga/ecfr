@@ -1,5 +1,7 @@
 ##### § 210.25 Authority, purpose, and scope. #####
 
+Link to an amendment published at 87 FR 34358, June 6, 2022.
+
 (a) *Authority and purpose.* This subpart provides rules to govern funds transfers through the Fedwire Funds Service, and has been issued pursuant to the Federal Reserve Act - section 13 (12 U.S.C. 342), paragraph (f) of section 19 (12 U.S.C. 464), paragraph 14 of section 16 (12 U.S.C. 248(o)), and paragraphs (i) and (j) of section 11 (12 U.S.C. 248(i) and (j)) - and other laws and has the force and effect of federal law. This subpart is not a funds-transfer system rule as defined in Section 4A-501(b) of Article 4A.
 
 (b) *Scope.* (1) This subpart incorporates the provisions of Article 4A set forth in appendix B to this subpart. In the event of an inconsistency between the provisions of the sections of this subpart and appendix B to this subpart, the provisions of the sections of this subpart shall prevail. In the event of an inconsistency between the provisions this subpart and section 919 of the Electronic Fund Transfer Act, section 919 of the Electronic Fund Transfer Act shall prevail.

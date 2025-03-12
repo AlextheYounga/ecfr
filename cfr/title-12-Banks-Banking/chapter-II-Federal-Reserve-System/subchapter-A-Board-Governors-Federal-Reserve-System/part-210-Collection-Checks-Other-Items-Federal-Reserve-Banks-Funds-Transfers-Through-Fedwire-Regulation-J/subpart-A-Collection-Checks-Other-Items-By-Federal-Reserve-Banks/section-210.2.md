@@ -1,5 +1,7 @@
 ##### § 210.2 Definitions. #####
 
+Link to an amendment published at 87 FR 34357, June 6, 2022.
+
 As used in this subpart, unless the context otherwise requires:
 
 (a) *Account* means an account on the books of a Federal Reserve Bank. A subaccount is an informational record of a subset of transactions that affect an account and is not a separate account.

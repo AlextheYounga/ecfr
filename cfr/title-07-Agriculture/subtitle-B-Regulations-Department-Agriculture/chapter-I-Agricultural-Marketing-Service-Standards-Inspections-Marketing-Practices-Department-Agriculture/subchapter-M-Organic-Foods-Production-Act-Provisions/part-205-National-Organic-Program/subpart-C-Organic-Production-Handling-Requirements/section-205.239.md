@@ -1,14 +1,12 @@
 ##### § 205.239 Livestock living conditions. #####
 
-Link to an amendment published at 87 FR 19773, Apr. 5, 2022.
-
 (a) The producer of an organic livestock operation must establish and maintain year-round livestock living conditions which accommodate the health and natural behavior of animals, including:
 
 (1) Year-round access for all animals to the outdoors, shade, shelter, exercise areas, fresh air, clean water for drinking, and direct sunlight, suitable to the species, its stage of life, the climate, and the environment: Except, that, animals may be temporarily denied access to the outdoors in accordance with §§ 205.239(b) and (c). Yards, feeding pads, and feedlots may be used to provide ruminants with access to the outdoors during the non-grazing season and supplemental feeding during the grazing season. Yards, feeding pads, and feedlots shall be large enough to allow all ruminant livestock occupying the yard, feeding pad, or feedlot to feed simultaneously without crowding and without competition for food. Continuous total confinement of any animal indoors is prohibited. Continuous total confinement of ruminants in yards, feeding pads, and feedlots is prohibited.
 
 (2) For all ruminants, management on pasture and daily grazing throughout the grazing season(s) to meet the requirements of § 205.237, except as provided for in paragraphs (b), (c), and (d) of this section.
 
-(3) Appropriate clean, dry bedding. When roughages are used as bedding, they shall have been organically produced in accordance with this part by an operation certified under this part, except as provided in § 205.236(a)(2)(i), and, if applicable, organically handled by operations certified to the NOP.
+(3) *Appropriate clean, dry bedding.* When roughages are used as bedding, they shall have been organically produced in accordance with this part by an operation certified under this part, except as provided in § 205.236(a)(2)(iii), and, if applicable, organically handled by operations certified under this part.
 
 (4) Shelter designed to allow for:
 
@@ -52,4 +50,4 @@ Link to an amendment published at 87 FR 19773, Apr. 5, 2022.
 
 (e) The producer of an organic livestock operation must manage manure in a manner that does not contribute to contamination of crops, soil, or water by plant nutrients, heavy metals, or pathogenic organisms and optimizes recycling of nutrients and must manage pastures and other outdoor access areas in a manner that does not put soil or water quality at risk.
 
-[65 FR 80637, Dec. 21, 2000, as amended at 75 FR 7193, Feb. 17, 2010]
+[65 FR 80637, Dec. 21, 2000, as amended at 75 FR 7193, Feb. 17, 2010; 87 FR 19773, Apr. 5, 2022]

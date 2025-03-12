@@ -1,7 +1,5 @@
 ##### § 205.2 Terms defined. #####
 
-Link to an amendment published at 87 FR 19772, Apr. 5, 2022.
-
 *Accreditation.* A determination made by the Secretary that authorizes a private, foreign, or State entity to conduct certification activities as a certifying agent under this part.
 
 *Act.* The Organic Foods Production Act of 1990, as amended (7 U.S.C. 6501 *et seq.*).
@@ -186,6 +184,8 @@ Link to an amendment published at 87 FR 19772, Apr. 5, 2022.
 
 *Organic.* A labeling term that refers to an agricultural product produced in accordance with the Act and the regulations in this part.
 
+*Organic management.* Management of a production or handling operation in compliance with all applicable provisions under this part.
+
 *Organic matter.* The remains, residues, or waste products of any organism.
 
 *Organic production.* A production system that is managed in accordance with the Act and regulations in this part to respond to site-specific conditions by integrating cultural, biological, and mechanical practices that foster cycling of resources, promote ecological balance, and conserve biodiversity.
@@ -262,7 +262,11 @@ Link to an amendment published at 87 FR 19772, Apr. 5, 2022.
 
 *Temporary and Temporarily.* Occurring for a limited time only (e.g., overnight, throughout a storm, during a period of illness, the period of time specified by the Administrator when granting a temporary variance), not permanent or lasting.
 
+*Third-year transitional crop.* Crops and forage from land included in the organic system plan of a producer's operation that is not certified organic but is in the third year of organic management and is eligible for organic certification in one year or less.
+
 *Tolerance.* The maximum legal level of a pesticide chemical residue in or on a raw or processed agricultural commodity or processed food.
+
+*Transitioned animal.* A dairy animal converted to organic milk production in accordance with § 205.236(a)(2) that has not been under continuous organic management from the last third of gestation; offspring born to a transitioned animal that, during its last third of gestation, consumes third-year transitional crops; and offspring born during the one-time transition exception that themselves consume third-year transitional crops.
 
 *Transplant.* A seedling which has been removed from its original place of production, transported, and replanted.
 
@@ -272,4 +276,4 @@ Link to an amendment published at 87 FR 19772, Apr. 5, 2022.
 
 *Yards/Feeding pad.* An area for feeding, exercising, and outdoor access for livestock during the non-grazing season and a high traffic area where animals may receive supplemental feeding during the grazing season.
 
-[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015]
+[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022]

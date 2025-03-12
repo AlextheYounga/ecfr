@@ -40,7 +40,7 @@ This License Exception authorizes various temporary exports and reexports; expor
 
 (8) *Assembly in Mexico.* Commodities may be exported to Mexico under Customs entries that require return to the United States after processing, assembly, or incorporation into end products by companies, factories, or facilities participating in Mexico's in-bond industrialization program (IMMEX) under this paragraph (a)(8), provided that all resulting end-products (or the commodities themselves) are returned to the United States as soon as practicable but no later than four years after the date of export or reexport.
 
-(9) *News media.* (i) Commodities necessary for news-gathering purposes (and software necessary to use such commodities) may be temporarily exported or reexported for accredited news media personnel (i.e., persons with credentials from a news-gathering or reporting firm) to Cuba, North Korea, or Syria (see supplement no. 1 to part 740) if the commodities:
+(9) *News media.* (i) Commodities necessary for news-gathering purposes (and software necessary to use such commodities) may be temporarily exported or reexported for accredited news media personnel (*i.e.,* persons with credentials from a news-gathering or reporting firm) to Cuba, North Korea, Syria (see supplement no. 1 to part 740), or the covered regions of Ukraine (as specified in § 746.6) if the commodities:
 
 (A) Are retained under “effective control” of the exporting news-gathering firm in the country of destination;
 

@@ -1,5 +1,7 @@
 ##### § 121.106 How does SBA calculate number of employees? #####
 
+Link to an amendment published at 87 FR 34120, June 6, 2022.
+
 (a) In determining a concern's number of employees, SBA counts all individuals employed on a full-time, part-time, or other basis. This includes employees obtained from a temporary employee agency, professional employee organization or leasing concern. SBA will consider the totality of the circumstances, including criteria used by the IRS for Federal income tax purposes, in determining whether individuals are employees of a concern. Volunteers (*i.e.*, individuals who receive no compensation, including no in-kind compensation, for work performed) are not considered employees.
 
 (b) Where the size standard is number of employees, the method for determining a concern's size includes the following principles:
