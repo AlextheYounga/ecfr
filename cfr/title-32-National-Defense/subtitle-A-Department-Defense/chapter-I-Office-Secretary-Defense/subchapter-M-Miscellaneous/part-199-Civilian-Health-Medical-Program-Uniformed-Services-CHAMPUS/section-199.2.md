@@ -1,7 +1,5 @@
 ##### § 199.2 Definitions. #####
 
-Link to an amendment published at 85 FR 15065, Mar. 17, 2020.
-
 (a) *General.* In an effort to be as specific as possible as to the word and intent of CHAMPUS, the following definitions have been developed. While many of the definitions are general and some assign meaning to relatively common terms within the health insurance environment, others are applicable only to CHAMPUS; however, they all appear in this part solely for the purpose of the Program. Except when otherwise specified, the definitions in this section apply generally throughout this part.
 
 (b) *Specific definitions. Abortion.* Abortion means the intentional termination of a pregnancy by artificial means done for a purpose other than that of producing a live birth. A spontaneous, missed or threatened abortion or termination of an ectopic (tubal) pregnancy are not included within the term “abortion” as used herein.
@@ -602,7 +600,7 @@ The fact that the U.S. Food and Drug Administration has approved a drug for test
 
 *Rare diseases.* TRICARE/CHAMPUS defines a rare disease as any disease or condition that has a prevalence of less than 200,000 persons in the United States.
 
-*Referral.* The act or an instance of referring a CHAMPUS beneficiary to another authorized provider to obtain necessary medical treatment. Under CHAMPUS, only a physician may make referrals.
+*Referral.* The act or an instance of referring a TRICARE beneficiary to another authorized provider to obtain necessary medical treatment. Generally, when a referral is required to qualify health care as a covered benefit, only a TRICARE-authorized physician may make such a referral unless this regulation specifically allows another category of TRICARE-authorized provider to make a referral as allowed within the scope of the provider's license. In addition to referrals which may be required for certain health care to be a covered TRICARE benefit, the TRICARE Prime program under § 199.17 generally requires Prime enrollees to obtain a referral for care through a primary care manager (PCM) or other authorized care coordinator to avoid paying higher deductible and cost-sharing for otherwise covered TRICARE benefits.
 
 *Registered nurse.* A person who is prepared specially in the scientific basis of nursing, who is a graduate of a school of nursing, and who is registered for practice after examination by a state board of nurse examiners or similar regulatory authority, who holds a current, valid license, and who is entitled legally to use the designation R.N.
 

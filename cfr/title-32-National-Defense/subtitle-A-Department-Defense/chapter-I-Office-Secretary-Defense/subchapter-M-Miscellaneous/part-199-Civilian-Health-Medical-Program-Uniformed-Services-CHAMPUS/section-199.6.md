@@ -1,7 +1,5 @@
 ##### § 199.6 TRICARE - authorized providers. #####
 
-Link to an amendment published at 85 FR 15066, Mar. 17, 2020.
-
 (a) *General.* This section sets forth general policies and procedures that are the basis for the CHAMPUS cost-sharing of medical services and supplies provided by institutions, individuals, or other types of providers. Providers seeking payment from the Federal Government through programs such as CHAMPUS have a duty to familiarize themselves with, and comply with, the program requirements.
 
 (1) *Listing of provider does not guarantee payment of benefits.* The fact that a type of provider is listed in this section is not to be construed to mean that CHAMPUS will automatically pay a claim for services or supplies provided by such a provider. The provider who actually furnishes the service(s) must, in fact, meet all licensing and other requirements established by this part to be an authorized provider; the provider must not be the subject of sanction under § 199.9; and, cost-sharing of the services must not otherwise be prohibited by this part. In addition, the patient must in fact be an eligible beneficiary and the services or supplies billed must be authorized and medically necessary, regardless of the standing of the provider.
@@ -233,7 +231,7 @@ range of diagnostic and therapeutic services to establish and implement an effec
 
 (*ii*) Partial hospitalization, which provides a less than 24-hour-per-day, seven-day-per-week treatment program for patients who continue to exhibit psychiatric problems but can function with support in some of the major life areas;
 
-*(iii*) A group home, which is a professionally directed living arrangement with the availability of psychiatric consultation and treatment for patients with significant family dysfunction and/or chronic but stable psychiatric disturbances;
+(*iii*) A group home, which is a professionally directed living arrangement with the availability of psychiatric consultation and treatment for patients with significant family dysfunction and/or chronic but stable psychiatric disturbances;
 
 (*iv*) Therapeutic school, which is an educational program supplemented by psychological and psychiatric services;
 
@@ -429,7 +427,7 @@ An infirmary in a boarding school also may qualify under this provision, subject
 
 (*7*) Certify that:
 
-*(i)* It is and will remain in compliance with the TRICARE standards and provisions of paragraph (b)(4)(xii) of this section establishing standards for psychiatric and substance use disorder partial hospitalization programs; and
+(*i*) It is and will remain in compliance with the TRICARE standards and provisions of paragraph (b)(4)(xii) of this section establishing standards for psychiatric and substance use disorder partial hospitalization programs; and
 
 (*ii*) It will maintain compliance with the CHAMPUS Standards for Psychiatric Substance Use Disorder Partial Hospitalization Programs, as issued by the Director, except for any such standards regarding which the facility notifies the Director, or designee, that it is not in compliance.
 
@@ -670,7 +668,7 @@ rendered. The audits may be conducted on a scheduled or unscheduled (unannounced
 
 (*v*) Audits conducted by the United States Government Accountability Office.
 
-(C) Other requirements applicable to Intensive Outpatient Programs (IOP). (*1*) Even though an IOP may qualify as a TRICARE authorized provider and may have entered into a participation agreement with CHAMPUS, payment by CHAMPUS for particular services provided is contingent upon the IOP also meeting all conditions set forth in § 199.4.
+(C) *Other requirements applicable to Intensive Outpatient Programs (IOP).* (*1*) Even though an IOP may qualify as a TRICARE authorized provider and may have entered into a participation agreement with CHAMPUS, payment by CHAMPUS for particular services provided is contingent upon the IOP also meeting all conditions set forth in § 199.4.
 
 (*2*) The IOP may not discriminate against CHAMPUS beneficiaries in any manner, including admission practices, placement in special or separate wings or rooms, or provisions of special or limited treatment.
 
@@ -878,9 +876,11 @@ Patients' organic medical problems must receive appropriate concurrent managemen
 
 (*2*) The services of the following individual professional providers of care to be considered for benefits on a fee-for-service basis may be provided only if the beneficiary is referred by a physician, a certified physician assistant or certified nurse practitioner and a physician, a certified physician assistant, or certified nurse practitioner must also provide continuing and ongoing oversight and supervision of the program or episode of treatment provided by these individual paramedical providers.
 
-(*i*) Licensed registered physical therapist and occupational therapist.
+(*i*) Licensed registered physical therapist (PT), including a licensed or certified physical therapist assistant (PTA) performing under the supervision of a TRICARE-authorized PT. PTAs shall meet the qualifications specified by Medicare (42 CFR 484.115, or successor regulation) and the Director, DHA, shall issue policy adopting, to the extent practicable, Medicare's requirements for PTA supervision.
 
-(*ii*) Licensed registered speech therapists (speech pathologists).
+(*ii*) Licensed registered occupational therapist (OT), including a licensed or certified occupational therapy assistant (OTA) performing under the supervision of a TRICARE authorized OT. OTAs shall meet the qualifications specified by Medicare (42 CFR 484.115, or successor regulation) and the Director, DHA, shall issue policy adopting, to the extent practicable, Medicare's requirements for OTA supervision.
+
+(*iii*) Licensed registered speech therapists (speech pathologists).
 
 (L) *Nutritionist.* The nutritionist must be licensed by the State in which the care is provided and must be under the supervision of a physician who is overseeing the episode of treatment or the covered program of services.
 
