@@ -2,7 +2,7 @@
 
 (a) *Related tolerances.* See § 556.670 of this chapter.
 
-(b)(1) *Sponsor.* See No. 000859 in § 510.600(c) of this chapter for use of a 22.5-gram sulfamethazine prolonged-release bolus.
+(b) *22.5-gram bolus* - (1) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter for use of a 22.5-gram sulfamethazine prolonged-release bolus.
 
 (2) *Conditions of use* - (i) *Amount.* Depending on the duration of therapeutic levels desired, administer boluses as a single dose as follows: 31/2 days - 1 bolus (22.5 grams) per 200 pounds of body weight; 5 days - 1 bolus per 100 pounds of body weight.
 
@@ -26,7 +26,7 @@
 
 (iii) *Limitations.* After 72 hours, all animals should be reexamined for persistence of observable disease signs. If signs are present, consult a veterinarian. It is strongly recommended that a second dose be given to provide for an additional 72 hours of therapy, particularly in more severe cases. The dosage schedule should be used at each 72-hour interval. Animals should not receive more than 2 doses because of the possibility of incurring residue violations. This drug, like all sulfonamides, may cause toxic reactions and irreparable injury unless administered with adequate and continuous supervision; *follow dosages carefully.* Fluid intake must be adequate at all times throughout the 3-day therapy, Do not use in female dairy cattle 20 months of age or older. Use of sulfamethazine in this class of cattle may cause milk residues. Do not treat animals within 12 days of slaughter.
 
-(e)(1) *Sponsor.* See 000859 in § 510.600(c) of this chapter for use of a 22.5-gram sulfamethazine sustained release bolus.
+(e) *22.5-gram bolus* - (1) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter for use of a 22.5-gram sulfamethazine sustained release bolus.
 
 (2) *Conditions of use* - (i) *Amount.* Administer 1 bolus (22.5 grams) per 200 pounds of body weight, as a single dose.
 
@@ -58,4 +58,4 @@
 
 (iii) *Limitations.* Do not use in calves to be slaughtered under 1 month of age or calves being fed an all milk diet. Do not use in female dairy cattle 20 months of age or older. If symptoms persist after 3 days, consult a veterinarian. Do not administer more than 2 consecutive doses. Do not slaughter animals for food for at least 8 days after the last dose. Do not crush bolus.
 
-[46 FR 36132, July 14, 1981, as amended at 48 FR 18803, Apr. 26, 1983; 48 FR 32760, July 19, 1983; 49 FR 29057, July 18, 1984; 50 FR 49372, Dec. 2, 1985; 51 FR 30212, Aug. 25, 1986; 53 FR 40727, Oct. 18, 1988; 54 FR 14341, Apr. 11, 1989; 55 FR 8462, Mar. 8, 1990; 56 FR 50653, Oct. 8, 1991; 59 FR 22754, May 3, 1994; 61 FR 4875, Feb. 9, 1996; 62 FR 35076, June 30, 1997; 66 FR 14073, Mar. 9, 2001; 68 FR 4915, Jan. 31, 2003; 70 FR 8290, Feb. 18, 2005; 78 FR 17596, Mar. 22, 2013; 79 FR 28830, May 20, 2014; 81 FR 22523, Apr. 18, 2016; 84 FR 8973, Mar. 13, 2019; 85 FR 18119, Apr. 1, 2020]
+[46 FR 36132, July 14, 1981, as amended at 48 FR 18803, Apr. 26, 1983; 48 FR 32760, July 19, 1983; 49 FR 29057, July 18, 1984; 50 FR 49372, Dec. 2, 1985; 51 FR 30212, Aug. 25, 1986; 53 FR 40727, Oct. 18, 1988; 54 FR 14341, Apr. 11, 1989; 55 FR 8462, Mar. 8, 1990; 56 FR 50653, Oct. 8, 1991; 59 FR 22754, May 3, 1994; 61 FR 4875, Feb. 9, 1996; 62 FR 35076, June 30, 1997; 66 FR 14073, Mar. 9, 2001; 68 FR 4915, Jan. 31, 2003; 70 FR 8290, Feb. 18, 2005; 78 FR 17596, Mar. 22, 2013; 79 FR 28830, May 20, 2014; 81 FR 22523, Apr. 18, 2016; 84 FR 8973, Mar. 13, 2019; 85 FR 18119, Apr. 1, 2020; 86 FR 14819, Mar. 19, 2021]

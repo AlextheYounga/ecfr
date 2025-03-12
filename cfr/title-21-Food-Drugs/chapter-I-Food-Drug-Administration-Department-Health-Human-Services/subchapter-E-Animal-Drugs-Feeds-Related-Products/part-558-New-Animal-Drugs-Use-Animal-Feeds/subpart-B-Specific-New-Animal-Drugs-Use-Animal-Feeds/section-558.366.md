@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing 25 percent nicarbazin.
 
-(b) *Sponsors.* See Nos. 058198, 060728, and 066104 in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
+(b) *Sponsors.* See Nos. 058198, 060728, and 066104 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.445 of this chapter.
 
@@ -23,4 +23,4 @@
 
 (2) [Reserved]
 
-[83 FR 64743, Dec. 18, 2018]
+[83 FR 64743, Dec. 18, 2018, as amended at 86 FR 14825, Mar. 19, 2021]

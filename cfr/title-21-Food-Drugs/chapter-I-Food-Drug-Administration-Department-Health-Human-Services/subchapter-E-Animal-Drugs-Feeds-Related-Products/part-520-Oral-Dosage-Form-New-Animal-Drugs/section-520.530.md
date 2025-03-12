@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter contains 15 milligrams of cythioate.
 
-(b) *Sponsor.* See Nos. 000859 and 054771 in § 510.600 of this chapter.
+(b) *Sponsor.* See Nos. 054771 and 058198 in § 510.600 of this chapter.
 
 (c) *Special considerations.* Cythioate is a cholinesterase inhibitor. Do not use this product in animals simultaneously with or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, insecticides, pesticides, or chemicals.
 
@@ -12,4 +12,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[49 FR 5614, Feb. 14, 1984, as amended at 67 FR 78355, Dec. 24, 2002; 79 FR 28819, May 20, 2014]
+[49 FR 5614, Feb. 14, 1984, as amended at 67 FR 78355, Dec. 24, 2002; 79 FR 28819, May 20, 2014; 86 FR 14818, Mar. 19, 2021]

@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles: 4 percent (18.1 grams per pound (g/lb)), 8 percent (36.2 g/lb), and 20 percent (90.7 g/lb) fenbendazole.
 
-(b) *Approvals.* See No. 000061 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.275 of this chapter.
 
@@ -90,4 +90,4 @@
 
 (ii) Lincomycin as in § 558.325.
 
-[66 FR 58935, Nov. 26, 2001, as amended at 68 FR 34534, June 10, 2003; 72 FR 66046, Nov. 27, 2007; 73 FR 58873, Oct. 8, 2008; 74 FR 61517, Nov. 25, 2009; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95005, Dec. 27, 2016; 84 FR 12499, Apr. 2, 2019]
+[66 FR 58935, Nov. 26, 2001, as amended at 68 FR 34534, June 10, 2003; 72 FR 66046, Nov. 27, 2007; 73 FR 58873, Oct. 8, 2008; 74 FR 61517, Nov. 25, 2009; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95005, Dec. 27, 2016; 84 FR 12499, Apr. 2, 2019; 86 FR 14822, Mar. 19, 2021]

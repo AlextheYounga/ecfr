@@ -6,7 +6,7 @@
 
 (2) 25 percent sulfadimethoxine and 5 percent ormetoprim.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section:
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
 (1) No. 054771 for use of the product described in paragraph (a)(1) as in paragraphs (e)(1), (e)(2)(i), and (e)(3)(i) through (iii) of this section.
 
@@ -44,4 +44,4 @@
 |(iv) 50 milligrams (mg) of active ingredients per kilogram of body weight per day.|Salmonids: For the control of furunculosis in salmonids (trout and salmon) caused by Aeromonas salmonicida strains susceptible to sulfadimethoxine and ormetoprim combination.|                                                   Administer for 5 consecutive days. Withdraw 42 days before release as stocker fish or slaughter.                                                    | 015331 |
 |       (v) 50 mg of active ingredients per kilogram of body weight per day.       |          Catfish: For control of enteric septicemia of catfish caused by Edwardsiella ictaluri strains susceptible to sulfadimethoxine and ormetoprim combination.           |                                                    Administer for 5 consecutive days. Withdraw 3 days before slaughter or release as stocker fish.                                                    | 015331 |
 
-[40 FR 13959, Mar. 27, 1975, as amended at 42 FR 13550, Mar. 11, 1977; 49 FR 33442, Aug. 23, 1984; 49 FR 46371, Nov. 26, 1984; 51 FR 7400, Mar. 3, 1986; 51 FR 18884, May 23, 1986; 52 FR 2686, Jan. 26, 1987; 54 FR 1686, Jan. 17, 1989; 63 FR 27846, May 21, 1998; 64 FR 26672, May 17, 1999; 64 FR 43910, Aug. 12, 1999; 66 FR 46707, Sept. 7, 2001; 70 FR 52292, Sept. 2, 2005; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 95013, Dec. 27, 2016; 83 FR 13637, Mar. 30, 2018; 84 FR 12502, Apr. 2, 2019]
+[40 FR 13959, Mar. 27, 1975, as amended at 42 FR 13550, Mar. 11, 1977; 49 FR 33442, Aug. 23, 1984; 49 FR 46371, Nov. 26, 1984; 51 FR 7400, Mar. 3, 1986; 51 FR 18884, May 23, 1986; 52 FR 2686, Jan. 26, 1987; 54 FR 1686, Jan. 17, 1989; 63 FR 27846, May 21, 1998; 64 FR 26672, May 17, 1999; 64 FR 43910, Aug. 12, 1999; 66 FR 46707, Sept. 7, 2001; 70 FR 52292, Sept. 2, 2005; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 95013, Dec. 27, 2016; 83 FR 13637, Mar. 30, 2018; 84 FR 12502, Apr. 2, 2019; 86 FR 14827, Mar. 19, 2021]

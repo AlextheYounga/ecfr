@@ -28,6 +28,6 @@
 
 (B) As in paragraph (d)(2)(ii)(A) of this section; and prophylaxis of bovine shipping fever in 300- to 500-pound beef calves.
 
-(iii) *Limitations.* Not for use within 30 days of slaughter. For Nos. 000859 and 061133: A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.
+(iii) *Limitations.* Not for use within 30 days of slaughter. For Nos. 000859 and 016592: A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.
 
-[66 FR 711, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 70 FR 21947, Apr. 28, 2005; 70 FR 50182, Aug. 26, 2005; 73 FR 16754, Mar. 31, 2008; 75 FR 54017, Sept. 3, 2010; 77 FR 4897, Feb. 1, 2012; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020]
+[66 FR 711, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 70 FR 21947, Apr. 28, 2005; 70 FR 50182, Aug. 26, 2005; 73 FR 16754, Mar. 31, 2008; 75 FR 54017, Sept. 3, 2010; 77 FR 4897, Feb. 1, 2012; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020; 86 FR 14820, Mar. 19, 2021]

@@ -1,32 +1,8 @@
 ##### § 558.311 Lasalocid. #####
 
-(a) *Specifications.* A minimum of 90 percent of lasalocid activity is derived from lasalocid A.
+(a) *Specifications.* Each pound of Type A medicated article contains 68 grams (15 percent), 90.7 grams (20 percent), or 150 grams (33.1 percent) lasalocid as lasalocid sodium activity. A minimum of 90 percent of lasalocid activity is derived from lasalocid A.
 
-(b) *Approvals.* Type A medicated articles approved for sponsors identified in § 510.600(c) of this chapter for use as in paragraph (e) of this section as follows:
-
-(1) 3.0, 3.3, 3.8, 4.0, 4.3, 4.4, 5.0, 5.1, 5.5, 5.7, 6.0, 6.3, 6.7, 7.2, 7.5, 8.0, 8.3, 10.0, 12.5, 15, 20, and 50 percent activity to No. 054771 for use as in paragraphs (e)(1) (i), (ii), (iii), (iv), and (x) of this section.
-
-(2) 15 percent activity to No. 066104 as provided by No. 054771 for use as in paragraph (e)(1)(v) of this section.
-
-(3) 15, 20, 33.1, and 50 percent activity to No. 054771 for use in cattle feeds as in paragraphs (e)(1)(vi), (vii), (ix), (xi), (xii), and (xv) of this section, and for use in sheep as in paragraph (e)(1)(viii) of this section.
-
-(4) 15 percent activity to No. 054771 for use in Type C rabbit feeds as in paragraph (e)(1)(xvi) of this section and for use in ruminant free-choice Type C feeds as in paragraphs (e)(2), (e)(3), and (e)(4) of this section.
-
-(5) 15 and 20 percent activity to Nos. 012286 and 017800 for use in free-choice mineral feeds for cattle as in paragraph (e)(1)(xviii) of this section.
-
-(6) 20 percent activity as a liquid Type A article to No. 054771 for use in cattle feeds as in paragraphs (e)(1)(vi), (e)(1)(vii), (e)(1)(ix), (e)(1)(xi), (e)(1)(xii), and (e)(3) of this section, and for use in sheep feeds as in paragraph (e)(1)(viii) of this section.
-
-(7) 20 percent activity to No. 054771 for use as follows:
-
-(i) Chukar partridges as in paragraph (e)(1)(xiii).
-
-(ii) Turkeys as in paragraph (e)(1)(xiv).
-
-(iii) Rabbits as in paragraph (e)(1)(xvi).
-
-(8) [Reserved]
-
-(9) 15 percent activity to No. 067949 for use in free-choice protein blocks for cattle as in paragraphs (e)(1)(xix) of this section.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerance.* See § 556.347 of this chapter.
 
@@ -58,36 +34,50 @@
 
 (6) Lasalocid Type A medicated articles containing lasalocid dried fermentation residue are for use in cattle and sheep feed only.
 
-(7) Each use in a free-choice Type C cattle feed as in paragraphs (e)(1)(xii) and (e)(1)(xviii) of this section must be the subject of an approved NADA or supplemental NADA as provided in § 510.455 of this chapter.
+(7) Each use in a free-choice Type C cattle feed as in paragraphs (e)(3)(vi) through (e)(3)(viii) of this section must be the subject of an approved NADA or supplemental NADA as provided in § 510.455 of this chapter.
 
-(e)(1) *Conditions of use.* It is used as follows:
+(e) *Conditions of use.* It is used as follows:
 
-|Lasalocid sodium activity in grams per ton|      Combination in grams per ton      |                                                                                                              Indications for use                                                                                                              |                                                                                                                            Limitations                                                                                                                            |      Sponsor      |
-|------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| (i) 68 (0.0075 pct) to 113 (0.0125 pct)  |                                        |                                                        For the prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima                                                         |                                                                                             For broiler or fryer chickens only; feed continuously as the sole ration                                                                                              |      054771       |
-| (ii) 68 (0.0075 pct) to 113 (0.0125 pct) |          Bambermycins 1 to 2           |               Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima; and for increased rate of weight gain and improved feed efficiency.               |                                                                              Feed continuously as sole ration. Bambermycins provided by No. 016592 in § 510.600(c) of this chapter.                                                                               |      016592       |
-|             (iii) [Reserved]             |                                        |                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                   |                   |
-|         (iv) 68 (0.0075 percent)         |          Bacitracin 10 to 50           |                        For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima, and for increased rate of weight gain and improved feed efficiency                         |                                                 For broiler or fryer chickens only; feed continuously as the sole ration; bacitracin methylenedisalicylate provided by No. 054771 in § 510.600(c) of this chapter                                                 |      054771       |
-|              (v) [Reserved]              |                                        |                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                   |                   |
-| (vi) 10 (0.0011 pct) to 30 (0.0033 pct)  |                                        |                                                                                                     Cattle; for improved feed efficiency                                                                                                      |                             In Type C feeds; for cattle fed in confinement for slaughter only; feed continuously in complete feed to provide not less than 100 mg nor more than 360 mg of lasalocid sodium activity per head per day                              |      054771       |
-| (vii) 25 (0.0027 pct) to 30 (0.0033 pct) |                                        |                                                                                    Cattle; for improved feed efficiency and increased rate of weight gain                                                                                     |                             In Type C feeds; for cattle fed in confinement for slaughter only; feed continuously in complete feed to provide not less than 250 mg nor more than 360 mg of lasalocid sodium activity per head per day                              |      054771       |
-|(viii) 20 (0.0022 pct) to 30 (0.0033 pct) |                                        |                                              Sheep; for the prevention of coccidiosis caused by Eimeria ovina, E. crandallis, E. ovinoidalis (E. ninakohlyakimovae), E. parva, and E. intricata                                               |                        In Type C feeds; for sheep maintained in confinement; feed continuously in complete feed to provide not less than 15 mg nor more than 70 mg of lasalocid sodium activity per head per day depending on body weight                         |      054771       |
-|                   (ix)                   |                                        |Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): for increased rate of weight gain. Intakes of lasalocid in excess of 200 mg/head/day have not been shown to be more effective than 200 mg/head/day.|                                           Feed continuously at a rate of not less than 60 mg or more than 300 mg of lasalocid per head per day when on pasture; the drug must be contained in at least 1 pound of feed.                                           |      054771       |
-| (x) 68 (0.0075 pct) to 113 (0.0125 pct)  |           Bacitracin 4 to 50           |                                Broiler chickens; for prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima; and for improved feed efficiency                                 |                                                     For broiler chickens only; feed continuously as the sole ration; bacitracin methylenedisalicylate provided by No. 054771 in § 510.600(c) of this chapter                                                      |      054771       |
-| (xi) 68 (0.0075 pct) to 113 (0.0125 pct) |        Bacitracin zinc 4 to 50         |               Broiler chickens. For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima, and for increased rate of weight gain and improved feed efficiency.               |                                                                 Feed continuously as sole ration. Bacitracin zinc and lasalocid sodium as provided by No. 054771 in § 510.600(c) of this chapter.                                                                 |      054771       |
-|                  (xii)                   |                                        |Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): For increased rate of weight gain. Intakes of lasalocid in excess of 200 mg/head/day have not been shown to be more effective than 200 mg/head/day.|                                                                   Feed continuously on a free-choice basis at a rate of not less than 60 mg or more than 300 mg of lasalocid per head per day.                                                                    |      054771       |
-|                  (xiii)                  |                                        |                                                                                Cattle; for control of coccidiosis caused by Eimeria bovis and Eimeria zuernii                                                                                 |                                        For cattle; hand feed at a rate of 1 mg of lasalocid per 2.2 pounds body weight per day to cattle weighing up to 800 pounds with a maximum of 360 mg of lasalocid per head per day                                         |      054771       |
-|          (xiv) 113 (0.0125 pct)          |                                        |                                                                                Chukar partridges; for prevention of coccidiosis caused by Eimeria legionensis                                                                                 |                                                                                                       Feed continuously as sole ration up to 8 weeks of age                                                                                                       |      054771       |
-| (xv) 68 (0.0075 pct) to 113 (0.0125 pct) |                                        |                                                                Growing turkeys; for prevention of coccidiosis caused by E. meleagrimitis, E. gallopavonis, and E. adenoeides.                                                                 |                                                                                                                 Feed continuously as sole ration                                                                                                                  |      054771       |
-|                                          |           Bacitracin 4 to 50           |                                Growing turkeys; for prevention of coccidiosis caused by E. meleagrimitis, E. gallopavonis, and E. adenoeides; for increased rate of weight gain and improved feed efficiency.                                 |                                                                                                                 Feed continuously as sole ration                                                                                                                  |      054771       |
-|                                          |Bacitracin methylenedisalicylate 4 to 50|                                Growing turkeys; for prevention of coccidiosis caused by E. meleagrimitis, E. gallopavonis, and E. adenoeides; for increased rate of weight gain and improved feed efficiency.                                 |                                                                   Feed continuously as sole ration. Bacitracin methylenedisalicylate as provided by No. 054771 in § 510.600(c) of this chapter.                                                                   |      054771       |
-|                  (xvi)                   |                                        |                                                                               Replacement calves; for control of coccidiosis caused by E. bovis and E. zuernii.                                                                               |In milk replacer powder; hand feed at a rate of 1 mg of lasalocid per 2.2 lb body weight per day; include on labeling warning: “A withdrawal period has not been established for lasalocid in pre-ruminating calves. Do not use in calves to be processed for veal”|      054771       |
-|         (xvii) 113 (0.0125 pct)          |                                        |                                                                                       Rabbits; for prevention of coccidiosis caused by Eimeria stiedae                                                                                        |                                                                                                     Feed continuously as sole ration up to 61/2 weeks of age                                                                                                      |      054771       |
-|               (xviii) 1440               |                                        |                                                        Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): For increased rate of weight gain.                                                         |                                                                   Feed continuously on a free-choice basis at a rate of not less than 60 mg nor more than 200 mg of lasalocid per head per day.                                                                   |021930  <br/>017800|
-|                (xix) 300                 |                                        |                                                        Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): for increased rate of weight gain.                                                         |                                                                   Feed continuously on a free-choice basis at a rate of not less than 60 mg nor more than 200 mg of lasalocid per head per day.                                                                   |      067949       |
-|         (xx)-(xxviii) [Reserved]         |                                        |                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                   |                   |
+(1) The conditions of use for chickens are:
 
-(2) It is used as a free-choice mineral Type C feed as follows:
+|Lasalocid in  <br/>grams/ton|      Combination in  <br/>grams/ton      |                                                                                               Indications for use                                                                                               |                                                         Limitations                                                          |Sponsor|
+|----------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------|
+|       (i) 68 to 113        |                                          |                             Broiler or fryer chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima.                              |                                            Feed continuously as the sole ration.                                             |054771 |
+|          (ii) 68           |Bacitracin methylenedisalicylate, 10 to 50|Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima; and for increased rate of weight gain and improved feed efficiency.|Feed continuously as the sole ration. Bacitracin methylenedisalicylate provided by No. 054771 in § 510.600(c) of this chapter.|054771 |
+|      (iii) 68 to 113       |Bacitracin methylenedisalicylate, 4 to 50 |                 Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima; and for improved feed efficiency.                 |Feed continuously as the sole ration. Bacitracin methylenedisalicylate provided by No. 054771 in § 510.600(c) of this chapter.|054771 |
+|       (iv) 68 to 113       |         Bacitracin zinc, 4 to 50         |Broiler chickens. For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima; and for increased rate of weight gain and improved feed efficiency.|        Feed continuously as the sole ration. Bacitracin zinc provided by No. 054771 in § 510.600(c) of this chapter.         |054771 |
+|       (v) 68 to 113        |           Bambermycins, 1 to 2           |Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. brunetti, E. mivati, and E. maxima; and for increased rate of weight gain and improved feed efficiency.|            Feed continuously as sole ration. Bambermycins provided by No. 016592 in § 510.600(c) of this chapter.            |016592 |
+
+(2) The conditions of use for turkeys are:
+
+|Lasalocid in  <br/>grams/ton|     Combination in  <br/>grams/ton      |                                                                               Indications for use                                                                                |                                                           Limitations                                                           |Sponsor|
+|----------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------|
+|       (i) 68 to 113        |                                         |                               Growing turkeys; For prevention of coccidiosis caused by Eimeria meleagrimitis, E. gallopavonis, and E. adenoeides.                                |                                                Feed continuously as sole ration.                                                |054771 |
+|       (ii) 68 to 113       |Bacitracin methylenedisalicylate, 4 to 50|Growing turkeys: For prevention of coccidiosis caused by E. meleagrimitis, E. gallopavonis, and E. adenoeides; and for increased rate of weight gain and improved feed efficiency.|Feed continuously as the sole ration. Bacitracin methylenedisalicylate as provided by No. 054771 in § 510.600(c) in this chapter.|054771 |
+|      (iii) 68 to 113       |        Bacitracin zinc, 4 to 50         |Growing turkeys: For prevention of coccidiosis caused by E. meleagrimitis, E. gallopavonis, and E. adenoeides; and for increased rate of weight gain and improved feed efficiency.|        Feed continuously as the sole ration. Bacitracin zinc as provided by No. 054771 in § 510.600(c) in this chapter.         |054771 |
+
+(3) The conditions of use for cattle are -
+
+|                             Lasalocid amount                              |                                                     Indications for use                                                      |                                                                                                                                            Limitations                                                                                                                                             |Sponsor|
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|                      (i) 10 to 30 grams/ton of feed                       |                            Cattle fed in confinement for slaughter: For improved feed efficiency.                            |                                                                        Feed continuously in complete feed to provide not less than 100 milligrams (mg) nor more than 360 mg of lasalocid sodium activity per head per day.                                                                         |054771 |
+|                      (ii) 25 to 30 grams/ton of feed                      |           Cattle fed in confinement for slaughter: For improved feed efficiency and increased rate of weight gain.           |                                                                               Feed continuously in complete feed to provide not less than 250 mg nor more than 360 mg of lasalocid sodium activity per head per day.                                                                               |054771 |
+|(iii) Not less than 60 mg or more than 300 mg of lasalocid per head per day|Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): For increased rate of weight gain.|Feed continuously at a rate of not less than 60 mg or more than 300 mg of lasalocid per head per day when on pasture. The drug must be contained in at least 1 pound of feed. Daily intakes of lasalocid in excess of 200 mg/head/day have not been shown to be more effective than 200 mg/head/day.|054771 |
+|        (iv) 1 mg lasalocid per 2.2 pounds (lb) body weight per day        |                   Cattle up to 800 lb: For control of coccidiosis caused by Eimeria bovis and E. zuernii.                    |                                                                        Hand feed continuously at a rate of 1 mg of lasalocid per 2.2 lb body weight per day to provide not more than 360 mg of lasalocid per head per day.                                                                         |054771 |
+|             (v) 1 mg lasalocid per 2.2 lb body weight per day             |                      Replacement calves: For control of coccidiosis caused by E. bovis and E. zuernii.                       |                               In milk replacer powder, hand feed at a rate of 1 mg of lasalocid per 2.2 lb body weight per day. A withdrawal period has not been established for lasalocid in pre-ruminating calves. Do not use in calves to be processed for veal.                                |054771 |
+|                           (vi) 1,440 grams/ton                            |Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): For increased rate of weight gain.|                                                                      As a free-choice Type C medicated loose mineral, feed continuously at a rate of not less than 60 mg nor more than 200 mg of lasalocid per head per day.                                                                       |012286 |
+|                           (vii) 1,440 grams/ton                           |Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): For increased rate of weight gain.|                                                                      As a free-choice Type C medicated mineral block, feed continuously at a rate of not less than 60 mg nor more than 200 mg of lasalocid per head per day.                                                                       |017800 |
+|                           (viii) 300 grams/ton                            |Pasture cattle (slaughter, stocker, feeder cattle, and dairy and beef replacement heifers): for increased rate of weight gain.|                                                                      As a free-choice Type C medicated protein block, feed continuously at a rate of not less than 60 mg nor more than 200 mg of lasalocid per head per day.                                                                       |067949 |
+
+(4) The conditions of use for minor species are:
+
+|Lasalocid in  <br/>grams/ton|                                                                           Indications for use                                                                           |                                                                               Limitations                                                                                |Sponsor|
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|        (i) 20 to 30        |Sheep maintained in confinement: For prevention of coccidiosis caused by Eimeria ovina, E. crandallis, E. ovinoidalis (E. ninakohlyakimovae), E. parva, and E. intricata.|Feed continuously in complete feed to provide not less than 15 milligrams (mg) nor more than 70 mg of lasalocid sodium activity per head per day depending on body weight.|054771 |
+|          (ii) 113          |                                               Chukar partridges: For prevention of coccidiosis caused by E. legionensis.                                                |                                                          Feed continuously as sole ration up to 8 weeks of age.                                                          |054771 |
+|         (iii) 113          |                                                      Rabbits: For prevention of coccidiosis caused by E. stiedae.                                                       |                                                        Feed continuously as sole ration up to 6 1/2 weeks of age                                                         |054771 |
+
+(5) It is used as a free-choice mineral Type C feed as follows:
 
 (i) *Specifications.*
 
@@ -119,22 +109,22 @@
 
 (v) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(3) It is used as a ruminant free-choice liquid Type C feed as follows:
+(6) It is used as a ruminant free-choice liquid Type C feed as follows:
 
 (i) *Specifications.*
 
-|                        Ingredient                        |Percent|International feed No.|
-|----------------------------------------------------------|-------|----------------------|
-|                      Cane molasses                       |55.167 |       4-13-241       |
-|         Condensed molasses fermentation solubles         | 24.0  |                      |
-|                50% Urea Solution (23% N)                 | 12.0  |                      |
-|             Ammonium polyphosphate solution              |  1.0  |       6-08-42        |
-|                  Phosphoric acid (54%)                   |  3.0  |       6-03-707       |
-|                       Xanthan gum                        | 0.05  |       8-15-818       |
-|                          Water                           |  4.0  |                      |
-|             Trace mineral premix<sup>1</sup>             |  0.5  |                      |
-|                Vitamin premix<sup>1</sup>                |  0.2  |                      |
-|Lasalocid Type A medicated article (90.7 g/lb)<sup>2</sup>| 0.083 |                      |
+|                           Ingredient                            |Percent|International feed No.|
+|-----------------------------------------------------------------|-------|----------------------|
+|                          Cane molasses                          |55.167 |       4-13-241       |
+|            Condensed molasses fermentation solubles             | 24.0  |                      |
+|                    50% Urea Solution (23% N)                    | 12.0  |                      |
+|                 Ammonium polyphosphate solution                 |  1.0  |       6-08-42        |
+|                      Phosphoric acid (54%)                      |  3.0  |       6-03-707       |
+|                           Xanthan gum                           | 0.05  |       8-15-818       |
+|                              Water                              |  4.0  |                      |
+|                Trace mineral premix<sup>1</sup>                 |  0.5  |                      |
+|                   Vitamin premix<sup>1</sup>                    |  0.2  |                      |
+|Lasalocid liquid Type A medicated article (90.7 g/lb)<sup>2</sup>| 0.083 |                      |
 
 <sup>1</sup> Content of the vitamin and trace mineral premixes may be varied; however, they should be comparable to those used by the firm for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Selenium must comply with 21 CFR 573.920. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18).
 
@@ -148,7 +138,7 @@
 
 (v) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(4) It is used as a free-choice, loose mineral Type C feed as follows:
+(7) It is used as a free-choice, loose mineral Type C feed as follows:
 
 (i) *Specifications.*
 
@@ -178,7 +168,7 @@
 
 (v) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(5) Lasalocid may also be used in combination with:
+(8) Lasalocid may also be used in combination with:
 
 (i) Chlortetracycline as in § 558.128.
 

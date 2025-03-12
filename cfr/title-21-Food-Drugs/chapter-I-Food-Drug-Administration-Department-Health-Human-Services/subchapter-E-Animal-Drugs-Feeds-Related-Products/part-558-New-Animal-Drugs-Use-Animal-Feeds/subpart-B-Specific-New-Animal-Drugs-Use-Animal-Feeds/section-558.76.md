@@ -4,17 +4,15 @@
 
 (2) Type A medicated article containing 50 grams bacitracin methylenedisalicylate per pound.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter:
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
-(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(iii), (e)(1)(v) through (xiii), and (e)(1)(xv) of this section.
+(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraph (d) of this section.
 
-(2) No. 069254 for use of products in paragraph (a)(2) of this section as in paragraphs (e)(1)(ii), (e)(1)(iv), (e)(1)(xiv), and (e)(1)(xvi) of this section.
+(2) No. 069254 for use of product in paragraph (a)(2) of this section as in paragraph (d) of this section.
 
-(c) *Special considerations.* The quantities of antibiotics are expressed in terms of the equivalent amount of antibiotic standard.
+(c) *Related tolerances.* See § 556.70 of this chapter.
 
-(d) *Related tolerances.* See § 556.70 of this chapter.
-
-(e) *Conditions of use.* (1) It is used as follows:
+(d) *Conditions of use.* (1) It is used as follows:
 
 | Bacitracin methylenedisalicylate amount |Combination in grams per ton  <br/>(g/ton)|                                                                                                                                                   Indications for use                                                                                                                                                    |                                                                                                                        Limitations                                                                                                                        |Sponsor|
 |-----------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|

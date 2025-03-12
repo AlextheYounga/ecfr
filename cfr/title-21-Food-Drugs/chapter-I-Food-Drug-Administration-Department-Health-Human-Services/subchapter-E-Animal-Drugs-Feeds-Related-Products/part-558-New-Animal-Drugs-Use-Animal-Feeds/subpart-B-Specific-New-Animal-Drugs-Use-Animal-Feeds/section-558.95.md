@@ -1,18 +1,20 @@
 ##### § 558.95 Bambermycins. #####
 
-(a) *Approvals.* See sponsors in § 510.600(c) of this chapter for use of Type A medicated articles as in paragraph (d) of this section:
+(a) *Specifications.* Type A medicated articles containing 2, 4, or 10 grams bambermycins per pound.
 
-(1) No. 016592: 2, 4, and 10 grams per pound for use as in paragraphs (d)(1), (d)(2), (d)(3), and (d)(4) of this section.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
-(2) No. 012286: 2 grams for use as in paragraph (d)(2) of this section and 0.4 and 2 grams per pound for use as in paragraph (d)(3).
+(1) No. 016592: 2, 4, and 10 grams per pound for use as in paragraphs (e)(1) through (4) of this section.
 
-(b) *Special considerations.* (1) Bambermycins liquid Type B feeds may be manufactured from dry bambermycins Type A articles. The liquid Type B feeds must have a pH of 3.8 to 7.5, moisture content of 30 to 45 percent.
-
-(2) The expiration date for the liquid Type B feed is 8 weeks after date of manufacture. The expiration date for the dry Type C feed made from the liquid Type B feed is 1 week after date of manufacture.
+(2) No. 012286: 2 grams for use as in paragraph (e)(2) of this section and 0.4 and 2 grams per pound for use as in paragraph (e)(3) of this section.
 
 (c) *Related tolerances.* See § 556.75 of this chapter.
 
-(d) *Conditions of use* - (1) *Chickens.* Use in medicated feed as follows:
+(d) *Special considerations.* (1) Bambermycins liquid Type B feeds may be manufactured from dry bambermycins Type A articles. The liquid Type B feeds must have a pH of 3.8 to 7.5, moisture content of 30 to 45 percent.
+
+(2) The expiration date for the liquid Type B feed is 8 weeks after date of manufacture. The expiration date for the dry Type C feed made from the liquid Type B feed is 1 week after date of manufacture.
+
+(e) *Conditions of use* - (1) *Chickens.* Use in medicated feed as follows:
 
 |Bambermycins in grams/ton|                              Indications for use                               |            Limitations             |Sponsor|
 |-------------------------|--------------------------------------------------------------------------------|------------------------------------|-------|
@@ -105,13 +107,13 @@
 
 (D) *Limitations.* For free-choice feeding to pasture cattle (slaughter, stocker, and feeder cattle; and dairy and beef replacement heifers). Feed a non-medicated commercial mineral product for 6 weeks to stabilize consumption between 2.66 and 10.66 ounces per head per day. Feed continuously to provide 10 to 40 milligrams bambermycins per head per day. Daily bambermycins intakes in excess of 20 mg/head/day have not been shown to be more effective than 20 mg/head/day.
 
-(5) Bambermycins may also be used in combination with:
+(5) *Combinations.* Bambermycins may also be used in combination with:
 
 (i) Amprolium as in § 558.55.
 
 (ii) Amprolium and ethopabate as in § 558.58.
 
-(iii) Clopidal as in § 558.175.
+(iii) Clopidol as in § 558.175.
 
 (iv) Diclazuril as in § 558.198.
 

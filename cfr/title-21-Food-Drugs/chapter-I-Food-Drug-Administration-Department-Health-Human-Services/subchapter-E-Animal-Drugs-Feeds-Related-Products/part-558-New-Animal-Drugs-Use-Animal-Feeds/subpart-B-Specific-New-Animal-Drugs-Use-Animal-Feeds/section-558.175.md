@@ -6,7 +6,7 @@
 
 (c) *Related tolerances.* See § 556.160 of this chapter.
 
-(d) *Conditions of use* - (1) *Chickens* -
+(d) *Conditions of use*—(1) *Chickens*—
 
 |Clopidol in  <br/>grams per ton|      Combination in grams per ton       |                                                                                                     Indications for use                                                                                                      |                                                                                                                  Limitations                                                                                                                  |  Sponsors   |
 |-------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -17,27 +17,17 @@
 |            (v) 227            |                                         |         Broiler and replacement chickens intended for use as caged layers: As an aid in the prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. maxima, E. brunetti, and E. mivati.          |Feed continuously as the sole ration; feed up to 16 weeks of age if intended for use as caged layers; withdraw 5 days before slaughter if given at the level of 0.025 percent in feed or reduce level to 0.0125 percent 5 days before slaughter|   016592    |
 |           (vi) 227            |          Bambermycins, 1 to 2           |  Broiler chickens: As an aid in prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E. maxima, E. brunetti, and E. mivati; and for increased rate of weight gain and improved feed efficiency.  |Feed continuously as sole ration until 5 days before slaughter. Withdraw 5 days before slaughter or feed 113.5 g/ton clopidol and 1 to 2 g/ton bambermycins during those 5 days before slaughter. Do not feed to chickens over 16 weeks of age |   016592    |
 
-(2) *Turkeys* -
+(2) *Turkeys*—
 
 |Clopidol in  <br/>grams per ton|Combination in grams per ton|                                   Indications for use                                   |                                                                                                            Limitations                                                                                                             |Sponsors|
 |-------------------------------|----------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 |       (i) 113.5 or 227        |                            |Turkeys: As an aid in the prevention of leucocytozoonosis caused by Leucocytozoon smithi.|For turkeys grown for meat purposes only; feed continuously as the sole ration at 0.0125 or 0.025 percent clopidol depending on management practices, degree of exposure, and amount of feed eaten; withdraw 5 days before slaughter| 016592 |
 |        (ii) [Reserved]        |                            |                                                                                         |                                                                                                                                                                                                                                    |        |
 
-(3) Clopidol may also be used in combination with:
+(3) *Combinations.* Clopidol may also be used in combination with:
 
-(i)-(ii) [Reserved]
+(i) Chlortetracycline as in § 558.128.
 
-(iii) Chlortetracycline as in § 558.128.
+(ii) Lincomycin as in § 558.325.
 
-(iv) Lincomycin as in § 558.325.
-
-(e) Clopidol may also be used in combination with:
-
-(1)-(2) [Reserved]
-
-(3) Chlortetracycline as in § 558.128.
-
-(4) Lincomycin as in § 558.325.
-
-[68 FR 17882, Apr. 14, 2003, as amended at 72 FR 60551, Oct. 25, 2007; 74 FR 61028, Nov. 23, 2009; 79 FR 10965, 10982, Feb. 27, 2014; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95004, Dec. 27, 2016; 84 FR 12495, Apr. 2, 2019]
+[68 FR 17882, Apr. 14, 2003, as amended at 72 FR 60551, Oct. 25, 2007; 74 FR 61028, Nov. 23, 2009; 79 FR 10965, 10982, Feb. 27, 2014; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95004, Dec. 27, 2016; 84 FR 12495, Apr. 2, 2019; 86 FR 14822, Mar. 19, 2021]

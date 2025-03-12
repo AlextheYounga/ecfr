@@ -10,13 +10,13 @@
 
 (1) Nos. 054771, 058829, and 069043 for use of the product described in paragraph (a)(1) as in paragraph (d)(1) of this section.
 
-(2) Nos. 000859, 054771, and 058829 for use of the products described in paragraph (a)(2) as in paragraph (d)(2) of this section.
+(2) Nos. 054771, 058198, and 058829 for use of the products described in paragraph (a)(2) of this section as in paragraph (d)(2) of this section.
 
 (3) No. 023851 for use of the product described in paragraph (a)(3) as in paragraph (d)(2) of this section.
 
 (c) *Special considerations.* See § 500.25 of this chapter.
 
-(d) *Conditions of use* - (1) *Horses and ponies.* It is used as follows:
+(d) *Conditions of use*—(1) *Horses and ponies.* It is used as follows:
 
 (i) *Amount.* 3 mg per pound (/lb) body weight as a single dose mixed with the usual grain ration, or by stomach tube or dose syringe.
 
@@ -26,16 +26,16 @@
 
 (2) *Dogs.* It is used as follows:
 
-(i) *Dogs and puppies* - (A) *Amount.* 2.27 mg/lb body weight as a single dose in the animal's feed bowl by itself or mixed in a small quantity of food.
+(i) *Dogs and puppies*—(A) *Amount.* 2.27 mg/lb body weight as a single dose in the animal's feed bowl by itself or mixed in a small quantity of food.
 
 (B) *Indications for use.* For the removal of large roundworms (*Toxocara canis* and *Toxascaris leonina*) and hookworms (*Ancylostoma caninum* and *Uncinaria stenocephala*).
 
 (C) *Limitations.* Additional treatment may be required and should be confirmed by fecal examination within 2 to 4 weeks.
 
-(ii) *Dogs, puppies, and lactating bitches after whelping* - (A) *Amount.* 2.27 mg/lb body weight.
+(ii) *Dogs, puppies, and lactating bitches after whelping*—(A) *Amount.* 2.27 mg/lb body weight.
 
 (B) *Indications for use.* To prevent reinfections of *T. canis.*
 
 (C) *Limitations.* Administer to puppies at 2, 3, 4, 6, 8, and 10 weeks of age. Administer to lactating bitches 2 to 3 weeks after whelping. Adult dogs kept in heavily contaminated quarters may be treated at monthly intervals.
 
-[67 FR 43248, June 27, 2002, as amended at 68 FR 54803, Sept. 19, 2003; 68 FR 55199, Sept. 23, 2003; 68 FR 55825, Sept. 29, 2003; 75 FR 52622, Aug. 27, 2010; 76 FR 17337, Mar. 29, 2011; 78 FR 17596, Mar. 22, 2013; 79 FR 28827, May 20, 2014; 80 FR 76386, Dec. 9, 2015; 81 FR 17607, Mar. 30, 2016]
+[67 FR 43248, June 27, 2002, as amended at 68 FR 54803, Sept. 19, 2003; 68 FR 55199, Sept. 23, 2003; 68 FR 55825, Sept. 29, 2003; 75 FR 52622, Aug. 27, 2010; 76 FR 17337, Mar. 29, 2011; 78 FR 17596, Mar. 22, 2013; 79 FR 28827, May 20, 2014; 80 FR 76386, Dec. 9, 2015; 81 FR 17607, Mar. 30, 2016; 86 FR 14819, Mar. 19, 2021]

@@ -1,6 +1,6 @@
 ##### § 1.767 Cable landing licenses. #####
 
-Link to an amendment published at 85 FR 76382, Nov. 27, 2020.
+Link to an amendment published at 85 FR 76382, Nov. 27, 2020.Link to an amendment published at 86 FR 15061, Mar. 19, 2021.
 
 (a) Applications for cable landing licenses under 47 U.S.C. 34-39 and Executive Order No. 10530, dated May 10, 1954, should be filed in accordance with the provisions of that Executive Order. These applications should contain:
 

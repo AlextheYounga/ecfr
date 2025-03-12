@@ -12,9 +12,9 @@
 
 (1) No. 054771 for use of the product described in paragraph (a)(1) as in paragraph (d)(1) of this section; for use of the product described in paragraph (a)(2) as in paragraph (d)(2) of this section; and for use of the product described in paragraph (a)(3) as in paragraph (d)(3) of this section.
 
-(2) No. 000859 for use of the product described in paragraph (a)(2) as in paragraph (d)(2) of this section.
+(2) No. 058198 for use of the product described in paragraph (a)(2) of this section as in paragraph (d)(2) of this section.
 
-(3) Nos. 000061, 000859, and 059399 for use of the product described in paragraph (a)(3) as in paragraph (d)(3) of this section.
+(3) Nos. 000061, 058198, and 059399 for use of the product described in paragraph (a)(3) of this section as in paragraph (d)(3) of this section.
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption.
 
-[72 FR 27957, May 18, 2007, as amended at 73 FR 31358, June 2, 2008; 74 FR 61516, Nov. 25, 2009; 75 FR 22524, Apr. 29, 2010; 77 FR 60302, Oct. 3, 2012; 78 FR 17597, Mar. 22, 2013; 79 FR 16184, Mar. 25, 2014; 79 FR 74020, Dec. 15, 2014; 80 FR 13229, Mar. 13, 2015]
+[72 FR 27957, May 18, 2007, as amended at 73 FR 31358, June 2, 2008; 74 FR 61516, Nov. 25, 2009; 75 FR 22524, Apr. 29, 2010; 77 FR 60302, Oct. 3, 2012; 78 FR 17597, Mar. 22, 2013; 79 FR 16184, Mar. 25, 2014; 79 FR 74020, Dec. 15, 2014; 80 FR 13229, Mar. 13, 2015; 86 FR 14819, Mar. 19, 2021]

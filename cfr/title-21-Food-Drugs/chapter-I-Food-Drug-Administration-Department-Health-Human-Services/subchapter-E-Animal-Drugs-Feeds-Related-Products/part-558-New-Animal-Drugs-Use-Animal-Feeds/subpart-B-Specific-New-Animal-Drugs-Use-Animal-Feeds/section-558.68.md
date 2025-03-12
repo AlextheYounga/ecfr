@@ -1,6 +1,6 @@
 ##### § 558.68 Avilamycin. #####
 
-(a) Each pound of Type A medicated article contains 45.4 or 90.7 grams of avilamycin.
+(a) *Specifications.* Each pound of Type A medicated article contains 45.4 or 90.7 grams of avilamycin.
 
 (b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
@@ -29,4 +29,4 @@
 |           (i) 73            |                       |Weaned pigs less than 14 weeks of age: For the reduction in incidence and overall severity of diarrhea in the presence of pathogenic Escherichia coli in groups of weaned pigs|Feed as the sole ration for 21 consecutive days. To assure responsible antimicrobial drug use in pigs, do not administer to pigs 14 weeks of age or older|058198 |
 |       (ii) [Reserved]       |                       |                                                                                                                                                                              |                                                                                                                                                         |       |
 
-[80 FR 61297, Oct. 13, 2015, as amended at 80 FR 76387, Dec. 9, 2015; 81 FR 17609, Mar. 30, 2016; 81 FR 48703, July 26, 2016; 81 FR 59134, Aug. 29, 2016; 81 FR 67152, Sept. 30, 2016; 82 FR 11509, Feb. 24, 2017; 83 FR 14587, Apr. 5, 2018; 83 FR 64741, Dec. 18, 2018; 84 FR 8974, Mar. 13, 2019; 84 FR 33001, July 11, 2019; 85 FR 4209, Jan. 24, 2020; 85 FR 45308, July 28, 2020; 86 FR 13188, Mar. 8, 2021]
+[80 FR 61297, Oct. 13, 2015, as amended at 80 FR 76387, Dec. 9, 2015; 81 FR 17609, Mar. 30, 2016; 81 FR 48703, July 26, 2016; 81 FR 59134, Aug. 29, 2016; 81 FR 67152, Sept. 30, 2016; 82 FR 11509, Feb. 24, 2017; 83 FR 14587, Apr. 5, 2018; 83 FR 64741, Dec. 18, 2018; 84 FR 8974, Mar. 13, 2019; 84 FR 33001, July 11, 2019; 85 FR 4209, Jan. 24, 2020; 85 FR 45308, July 28, 2020; 86 FR 13188, Mar. 8, 2021; 86 FR 14821, Mar. 19, 2021]

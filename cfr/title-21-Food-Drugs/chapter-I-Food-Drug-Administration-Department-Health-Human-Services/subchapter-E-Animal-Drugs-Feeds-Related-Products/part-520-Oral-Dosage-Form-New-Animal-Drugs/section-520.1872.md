@@ -8,7 +8,7 @@
 
 (3) Tablet No. 3: 136 milligrams (mg) praziquantel, 136 mg pyrantel base, and 680.4 mg febantel.
 
-(b) *Sponsor.* See 000859 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use* - (1) *Dogs* - (i) *Amount.* Administer as a single dose directly by mouth or in a small amount of food as follows:
 
@@ -30,4 +30,4 @@
 
 (iii) *Limitations.* Do not use in pregnant animals. Do not use in dogs weighing less than 0.9 kilogram (2 pounds) or puppies less than 3 weeks of age. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[59 FR 33908, July 1, 1994, as amended at 61 FR 29651, June 12, 1996; 68 FR 22293, Apr. 28, 2003; 71 FR 6677, Feb. 9, 2006]
+[59 FR 33908, July 1, 1994, as amended at 61 FR 29651, June 12, 1996; 68 FR 22293, Apr. 28, 2003; 71 FR 6677, Feb. 9, 2006; 86 FR 14819, Mar. 19, 2021]

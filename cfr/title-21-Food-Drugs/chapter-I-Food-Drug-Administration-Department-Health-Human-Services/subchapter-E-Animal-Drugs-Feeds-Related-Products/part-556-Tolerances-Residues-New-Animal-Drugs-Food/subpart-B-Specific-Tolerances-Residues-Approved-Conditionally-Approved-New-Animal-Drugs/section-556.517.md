@@ -8,4 +8,6 @@
 
 (2) [Reserved]
 
-(c) *Related conditions of use.* See §§ 520.1840, 558.464, and 558.465 of this chapter.
+(c) *Related conditions of use.* See §§ 520.1840 and 558.464 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 86 FR 14821, Mar. 19, 2021]

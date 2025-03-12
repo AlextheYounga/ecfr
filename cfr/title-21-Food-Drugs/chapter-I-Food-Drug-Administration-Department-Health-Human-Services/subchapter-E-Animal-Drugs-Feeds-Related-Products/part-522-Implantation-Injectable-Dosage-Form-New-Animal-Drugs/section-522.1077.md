@@ -16,11 +16,9 @@
 
 (2) No. 068504 for use of the 100-µg/mL product described in paragraph (a)(2) as in paragraph (e)(1)(iv) of this section.
 
-(3) No. 061133 for use of the 50-µg/mL product described in paragraph (a)(3) as in paragraphs (e)(1)(i) of this section.
+(3) Nos. 000010 and 061133 for use of the 50-µg/mL product described in paragraph (a)(3) of this section as in paragraphs (e)(1)(i) and (v) of this section.
 
-(4) No. 000010 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (e)(1)(i) and (v) of this section.
-
-(5) No. 054771 for use of the 50-µg/mL product described in paragraph (a)(4) as in paragraphs (e)(1)(ii) and (vi) of this section.
+(4) No. 054771 for use of the 50-µg/mL product described in paragraph (a)(4) as in paragraphs (e)(1)(ii) and (vi) of this section.
 
 (c) *Related tolerances.* See § 556.304 of this chapter.
 
@@ -50,4 +48,4 @@
 
 (2) [Reserved]
 
-[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019; 84 FR 39184, Aug. 9, 2019; 84 FR 32992, July 11, 2019; 86 FR 13184, Mar. 8, 2021]
+[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019; 84 FR 39184, Aug. 9, 2019; 84 FR 32992, July 11, 2019; 86 FR 13184, Mar. 8, 2021; 86 FR 14820, Mar. 19, 2021]

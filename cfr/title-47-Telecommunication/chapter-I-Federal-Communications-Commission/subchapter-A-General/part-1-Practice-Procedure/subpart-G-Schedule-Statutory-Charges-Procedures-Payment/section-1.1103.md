@@ -1,5 +1,7 @@
 ##### § 1.1103 Schedule of charges for assignment of grantee code, experimental radio services (or service). #####
 
+Link to an amendment published at 86 FR 15063, Mar. 19, 2021.
+
 Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees*.
 
 |                                                  Service                                                   |                         FCC Form No.                          |Fee amount|Payment type code|

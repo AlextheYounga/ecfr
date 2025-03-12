@@ -1,12 +1,14 @@
 ##### § 558.55 Amprolium. #####
 
-(a) *Approvals.* Type A medicated articles: 25 percent to No. 016592 in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
+(a) *Specifications.* Type A medicated article containing 25 percent amprolium.
 
-(b) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite.
+(b) *Sponsor.* No. 016592 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.50 of this chapter.
 
-(d) *Conditions of use* - (1) *Cattle.* It is used as follows:
+(d) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite.
+
+(e) *Conditions of use*—(1) *Cattle.* It is used as follows:
 
 |                            Amprolium in grams per ton                             |                                   Indications for use                                   |                                                                                                                                                              Limitations                                                                                                                                                               |Sponsor|
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|

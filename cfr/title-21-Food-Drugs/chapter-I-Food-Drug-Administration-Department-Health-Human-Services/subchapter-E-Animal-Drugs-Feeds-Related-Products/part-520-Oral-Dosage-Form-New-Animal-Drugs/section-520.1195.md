@@ -6,7 +6,7 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
 
-(1) Nos. 000010, 000859, 054925, and 058005 for use of product described in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(ii)(A), and (e)(1)(iii) of this section.
+(1) Nos. 000010, 054925, 058005, and 058198 for use of product described in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(ii)(A), and (e)(1)(iii) of this section.
 
 (2) No. 058829 for use of product described in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(ii)(B), and (e)(1)(iii) of this section.
 
@@ -16,7 +16,7 @@
 
 (d) *Special considerations.* See § 500.25 of this chapter.
 
-(e) *Conditions of use* - (1) *Horses* - (i) *Amount.* 200 micrograms (mcg) per kilogram (/kg) of body weight as a single dose by stomach tube or as an oral drench.
+(e) *Conditions of use*—(1) *Horses*—(i) *Amount.* 200 micrograms (mcg) per kilogram (/kg) of body weight as a single dose by stomach tube or as an oral drench.
 
 (ii) *Indications for use.* For treatment and control of:
 
@@ -26,10 +26,10 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(2) *Sheep* - (i) *Amount.* 200 mcg/kg (3 mL/26 pounds) of body weight as a single dose oral drench.
+(2) *Sheep*—(i) *Amount.* 200 mcg/kg (3 mL/26 pounds) of body weight as a single dose oral drench.
 
 (ii) *Indications for use.* For treatment and control of the adult and fourth-stage larvae of gastrointestinal roundworms (*Haemonchus contortus, H. placei* (adults only), *Ostertagia circumcincta, Trichostrongylus axei, T. colubriformis, Cooperia oncophora* (adults only), *C. curticei, Oesophagostomum columbianum, O. venulosum* (adults only), *Nematodirus battus, N. spathiger, S. papillosus* (adults only), *Chabertia ovina* (adult only), *Trichuris ovis* (adults only)); lungworms (*D. filaria*); and all larval stages of the nasal bot *Oestrus ovis.*
 
 (iii) *Limitations.* For use in sheep only. Do not use in other animal species as severe adverse reactions, including fatalities in dogs, may result. Do not treat sheep within 11 days of slaughter.
 
-[67 FR 50597, Aug. 5, 2002, as amended at 69 FR 57173, Sept. 24, 2004; 71 FR 13542, Mar. 16, 2006; 71 FR 38072, July 5, 2006; 72 FR 9456, Feb. 21, 2008; 78 FR 17596, Mar. 22, 2013; 79 FR 10964, Feb. 27, 2014; 84 FR 39183, Aug. 9, 2019]
+[67 FR 50597, Aug. 5, 2002, as amended at 69 FR 57173, Sept. 24, 2004; 71 FR 13542, Mar. 16, 2006; 71 FR 38072, July 5, 2006; 72 FR 9456, Feb. 21, 2008; 78 FR 17596, Mar. 22, 2013; 79 FR 10964, Feb. 27, 2014; 84 FR 39183, Aug. 9, 2019; 86 FR 14818, Mar. 19, 2021]

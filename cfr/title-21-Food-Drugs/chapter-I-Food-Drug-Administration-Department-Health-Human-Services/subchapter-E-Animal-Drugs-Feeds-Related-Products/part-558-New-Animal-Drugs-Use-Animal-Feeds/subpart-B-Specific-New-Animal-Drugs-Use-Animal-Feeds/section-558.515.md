@@ -1,12 +1,14 @@
 ##### § 558.515 Robenidine. #####
 
-(a) *Approvals.* Type A medicated articles: 30 grams per pound to 054771 in § 510.600(c) of this chapter.
+(a) *Specifications.* Type A medicated articles containing 30 grams per pound.
 
-(b) *Special considerations.* Type C feed containing robenidine hydrochloride must be fed within 50 days from the date of manufacture. Do not use in Type B or Type C medicated feeds containing bentonite.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.580 of this chapter.
 
-(d) *Conditions of use.* It is used in feed for chickens as follows:
+(d) *Special considerations.* Type C feed containing robenidine hydrochloride must be fed within 50 days from the date of manufacture. Do not use in Type B or Type C medicated feeds containing bentonite.
+
+(e) *Conditions of use.* It is used in feed for chickens as follows:
 
 |Robenidine hydrochloride in grams/ton|              Combination in  <br/>grams/ton               |                                                                                         Indications for use                                                                                          |                                                                                                                                                      Limitations                                                                                                                                                      |      Sponsor      |
 |-------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -18,7 +20,7 @@
 |                                     |          Bacitracin (as bacitracin zinc) 4 to 30          |For broiler and fryer chickens: As an aid in the prevention of coccidiosis caused by E. mivati, E. brunetti, E. tenella, E. acervulina, E. maxima, and E. necatrix. For increased rate of weight gain.|                                                                                                         Feed continuously as sole ration. Do not feed to laying chickens. Withdraw 5 days prior to slaughter.                                                                                                         |054771  <br/>054771|
 |                                     |         Bacitracin (as bacitracin zinc) 27 to 50          |  For broiler and fryer chickens: As an aid in the prevention of coccidiosis caused by E. mivati, E. brunetti, E. tenella, E. acervulina, E. maxima, and E. necatrix. For improved feed efficiency.   |                                                                                                         Feed continuously as sole ration. Do not feed to laying chickens. Withdraw 5 days prior to slaughter.                                                                                                         |054771  <br/>054771|
 
-(e) Robenidine may also be used in combination with:
+(f) Robenidine may also be used in combination with:
 
 (1) Chlortetracycline as in § 558.128.
 

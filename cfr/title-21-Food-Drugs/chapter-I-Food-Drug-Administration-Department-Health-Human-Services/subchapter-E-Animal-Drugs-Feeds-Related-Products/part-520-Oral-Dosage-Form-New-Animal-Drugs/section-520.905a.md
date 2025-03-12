@@ -36,14 +36,12 @@
 
 (5) *Chickens* - (i) *Amount.* Administer orally via drinking water at a daily dose of 1 mg/kg body weight (0.454 mg/lb) for 5 consecutive days.
 
-(ii) *Indications for use.* For the treatment and control of adult *Ascaridia galli* in broiler chickens and replacement chickens intended to become breeding chickens, and for the treatment and control of adult *A. galli* and *Heterakis gallinarum* in breeding chickens.
-
-(iii) *Limitations.* Not for use in laying hens and replacement chickens intended to become laying hens.
+(ii) *Indications for use.* For the treatment and control of adult *Ascaridia galli* in broiler chickens and replacement chickens, and for the treatment and control of adult *A. galli* and *Heterakis gallinarum* in breeding chickens and laying hens.
 
 (6) *Swine, except for nursing piglets* - (i) *Amount.* Administer orally via the drinking water at a daily dose of 2.2 mg/kg of body weight (1.0 mg/lb) for 3 consecutive days.
 
-(ii) *Indications for use.* For the treatment and control of lungworms: Adult *Metastrongylus apri,* adult *M. pudendotectus;* gastrointestinal worms: Adult and larvae (L3, L4 stages, liver, lung, intestinal forms) large roundworms (*Ascaris suum*); nodular worms (*Oesophagostomum dentatum, O. quadrispinulatum*); small stomach worms (*Hyostrongylus rubidus*): Adult and larvae (L2, L3, L4 stages - intestinal mucosal forms) whipworms (*Trichuris suis*); and kidney worms: Adult and larvae *Stephanurus dentatus*.
+(ii) *Indications for use.* For the treatment and control of: Lungworms: Adult *Metastrongylus apri,* Adult *Metastrongylus pudendotectus;* Gastrointestinal worms: Adult and larvae (L3, L4 stages, liver, lung, intestinal forms) large roundworms (*Ascaris suum*), Adult nodular worms (*Oesophagostomum dentatum, O. quadrispinulatum*), Adult small stomach worms (*Hyostrongylus rubidus*), Adult and larvae (L2, L3, L4 stages - intestinal mucosal forms) whipworms (*Trichuris suis*); and Kidney worms: Adult and larvae *Stephanurus dentatus.*
 
 (iii) *Limitations.* Swine intended for human consumption must not be slaughtered within 2 days from the last treatment.
 
-[42 FR 59069, Nov. 15, 1977; 43 FR 12311, Mar. 24, 1978. Redesignated at 44 FR 1375, Jan. 5, 1979, and amended at 46 FR 29464, June 2, 1981; 47 FR 15327, Apr. 9, 1982; 48 FR 42809, Sept. 20, 1983; 49 FR 1983, Jan. 17, 1984; 53 FR 40058, Oct. 13, 1988; 59 FR 26943, May 25, 1994; 61 FR 29478, June 11, 1996; 63 FR 63983, Nov. 18, 1998; 66 FR 47960, Sept. 17, 2001; 68 FR 26205, May 15, 2003; 74 FR 17770, Apr. 17, 2009; 74 FR 61516, Nov. 25, 2009; 76 FR 17336, Mar. 29, 2011; 80 FR 76386, Dec. 9, 2015; 81 FR 22523, Apr. 18, 2016]
+[42 FR 59069, Nov. 15, 1977; 43 FR 12311, Mar. 24, 1978. Redesignated at 44 FR 1375, Jan. 5, 1979, and amended at 46 FR 29464, June 2, 1981; 47 FR 15327, Apr. 9, 1982; 48 FR 42809, Sept. 20, 1983; 49 FR 1983, Jan. 17, 1984; 53 FR 40058, Oct. 13, 1988; 59 FR 26943, May 25, 1994; 61 FR 29478, June 11, 1996; 63 FR 63983, Nov. 18, 1998; 66 FR 47960, Sept. 17, 2001; 68 FR 26205, May 15, 2003; 74 FR 17770, Apr. 17, 2009; 74 FR 61516, Nov. 25, 2009; 76 FR 17336, Mar. 29, 2011; 80 FR 76386, Dec. 9, 2015; 81 FR 22523, Apr. 18, 2016; 86 FR 14818, Mar. 19, 2021]

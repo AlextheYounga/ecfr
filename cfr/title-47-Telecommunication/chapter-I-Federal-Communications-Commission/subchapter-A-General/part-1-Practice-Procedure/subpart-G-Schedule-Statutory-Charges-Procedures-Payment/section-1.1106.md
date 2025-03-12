@@ -1,5 +1,7 @@
 ##### § 1.1106 Schedule of charges for applications for enforcement services. #####
 
+Link to an amendment published at 86 FR 15065, Mar. 19, 2021.
+
 Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees*.
 
 [84 FR 8618, Mar. 11, 2019]

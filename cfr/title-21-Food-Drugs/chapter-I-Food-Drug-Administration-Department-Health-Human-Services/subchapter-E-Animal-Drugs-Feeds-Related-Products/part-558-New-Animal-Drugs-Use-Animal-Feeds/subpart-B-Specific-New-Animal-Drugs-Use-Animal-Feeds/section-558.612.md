@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A article containing 363.2 grams of tiamulin hydrogen fumarate per pound.
 
-(b) *Approvals.* See No. 058198 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.732 of this chapter.
 
@@ -12,7 +12,7 @@
 
 (3) Use as sole source of tiamulin.
 
-(e) *Conditions of use* - (1) *Swine.* It is used as follows:
+(e) *Conditions of use*—(1) *Swine.* It is used as follows:
 
 |Tiamulin hydrogen fumarate in grams per ton|Combination in grams per ton|                                                         Indications for use                                                          |                                                                                                Limitations                                                                                                 |Sponsor|
 |-------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -22,4 +22,4 @@
 
 (2) Tiamulin may also be used in combination with chlortetracycline as in § 558.128.
 
-[67 FR 7268, Feb. 19, 2002, as amended at 69 FR 62407, Oct. 26, 2004; 70 FR 75018, Dec. 19, 2005; 74 FR 6, Jan. 2, 2009; 77 FR 24139, Apr. 23, 2012; 79 FR 13546, Mar. 11, 2014. Redesignated and amended at 80 FR 13232, Mar. 13, 2015; 81 FR 95015, Dec. 27, 2016]
+[67 FR 7268, Feb. 19, 2002, as amended at 69 FR 62407, Oct. 26, 2004; 70 FR 75018, Dec. 19, 2005; 74 FR 6, Jan. 2, 2009; 77 FR 24139, Apr. 23, 2012; 79 FR 13546, Mar. 11, 2014. Redesignated and amended at 80 FR 13232, Mar. 13, 2015; 81 FR 95015, Dec. 27, 2016; 86 FR 14827, Mar. 19, 2021]

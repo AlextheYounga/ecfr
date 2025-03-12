@@ -1,30 +1,34 @@
 ##### § 558.600 Thiabendazole. #####
 
-(a) *Specifications.* Dry Type A medicated articles containing 22, 44.1, 66.1, or 88.2 percent thiabendazole. The 66.1 percent Type A medicated article is solely for the manufacture of cane molasses liquid Type B feed, which is mixed in dry feeds. The 88.2 percent Type A medicated article is used solely for the manufacture of an aqueous slurry for adding to a Type C dry cattle feed.
+(a) *Specifications.* Dry Type A medicated articles containing 22, 44.1, 66.1, or 88.2 percent thiabendazole.
 
 (b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.730 of this chapter.
 
-(d) *Special considerations.* Do not use in Type B or Type C medicated feed containing bentonite.
+(d) *Special considerations.* (1) The 66.1 percent Type A medicated article is solely for the manufacture of cane molasses liquid Type B feed, which is mixed in dry feeds.
+
+(2) The 88.2 percent Type A medicated article is used solely for the manufacture of an aqueous slurry for adding to a Type C dry cattle feed.
+
+(3) Do not use in Type B or Type C medicated feed containing bentonite.
 
 (e) *Conditions of use.* It is used in feed for animals as follows:
 
-(1) *Swine* -
+(1) *Swine*—
 
 |      Thiabendazole in grams/ton      |                                Indications for use                                 |                                                                                                                Limitations                                                                                                                 |Sponsor|
 |--------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 |(i) 45.4 to 908 (0.005 to 0.1 percent)|Swine: As an aid in the prevention of infections of large roundworms (genus Ascaris)|Administer continuously in feed containing 0.05 to 0.1 percent thiabendazole per ton for 2 weeks followed by feed containing 0.005 to 0.02 percent thiabendazole per ton for 8 to 14 weeks. Do not treat animals within 30 days of slaughter|000010 |
 |           (ii) [Reserved]            |                                                                                    |                                                                                                                                                                                                                                            |       |
 
-(2) *Cattle* -
+(2) *Cattle*—
 
 |        Thiabendazole amount        |                                                                                            Indications for use                                                                                             |                                                                                                                                                               Limitations                                                                                                                                                               |Sponsor|
 |------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 |(i) 3 grams per 100 lb. body weight |                       For control of infections of gastrointestinal roundworms (Trichostrongylus spp., Haemonchus spp., Ostertagia spp., Nematodirus spp., Oesophagostomum radiatum)                       |                                        Use 3 grams per 100 lb. body weight at a single dose; may repeat once in 2 to 3 weeks. Do not treat animals within 3 days of slaughter. Milk taken from treated animals within 96 hours (8 milkings) after the latest treatment must not be used for food                                        |000010 |
 |(ii) 5 grams per 100 lb. body weight|For control of severe infections of gastrointestinal roundworms (Trichostrongylus spp., Haemonchus spp., Ostertagia spp., Nematodirus spp., Oesophagostomum radiatum); control of infections of Cooperia spp|Use 5 grams per 100 lb. body weight at a single dose or divided into 3 equal doses, administered 1 dose each day, on succeeding days. May repeat once in 2 to 3 weeks. Do not treat animals within 3 days of slaughter. Milk taken from treated animals within 96 hours (8 milkings) after the latest treatment must not be used for food|000010 |
 
-(3) *Minor species* -
+(3) *Minor species*—
 
 |        Thiabendazole amount        |                                                                                                                                                                                                                                                                        Indications for use                                                                                                                                                                                                                                                                        |                                                                                                       Limitations                                                                                                       |Sponsor|
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -32,4 +36,4 @@
 |(ii) 3 grams per 100 lb. body weight|                                                                                                                                                         Goats: For control of severe infections of gastrointestinal roundworms (Trichostrongylus spp., Haemonchus spp., Ostertagia spp., Cooperia spp., Nematodirus spp., Bunostomum spp., Strongyloides spp., Chabertia spp., and Oesophagostomum spp.)                                                                                                                                                          |Use 3 grams per 100 lb. body weight at a single dose. Do not treat animals within 30 days of slaughter. Milk taken from treated animals within 96 hours (8 milkings) after the latest treatment must not be used for food|050604 |
 |  (iii) 454 grams per ton of feed   |                                                                                                                                                                                                                                                   Pheasants: For the treatment of gapeworms (Syngamus trachea)                                                                                                                                                                                                                                                    |Feed continuously for 2 weeks (14 days). Do not use treated pheasants for food for 21 days after last day of treatment. Fertility, hatchability, and other reproductive data are not available on use in breeding animals|050604 |
 
-[84 FR 39186, Aug. 9, 2019]
+[84 FR 39186, Aug. 9, 2019, as amended at 86 FR 14827, Mar. 19, 2021]

@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing 50 grams laidlomycin propionate potassium per pound.
 
-(b) *Approvals.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Tolerances.* See § 556.346 of this chapter.
 
@@ -31,4 +31,4 @@
 
 (f) Laidlomycin may also be used in combination with chlortetracycline as in § 558.128.
 
-[59 FR 18297, Apr. 18, 1994, as amended at 60 FR 53509, Oct. 16, 1995; 62 FR 9929, Mar. 5, 1997; 63 FR 27845, May 21, 1998; 66 FR 46706, Sept. 7, 2001; 68 FR 13839, Mar. 21, 2003; 68 FR 42590, July 18, 2003; 69 FR 30198, May 27, 2004; 79 FR 13545, Mar. 11, 2014; 81 FR 95005, Dec. 27, 2016]
+[59 FR 18297, Apr. 18, 1994, as amended at 60 FR 53509, Oct. 16, 1995; 62 FR 9929, Mar. 5, 1997; 63 FR 27845, May 21, 1998; 66 FR 46706, Sept. 7, 2001; 68 FR 13839, Mar. 21, 2003; 68 FR 42590, July 18, 2003; 69 FR 30198, May 27, 2004; 79 FR 13545, Mar. 11, 2014; 81 FR 95005, Dec. 27, 2016; 86 FR 14823, Mar. 19, 2021]

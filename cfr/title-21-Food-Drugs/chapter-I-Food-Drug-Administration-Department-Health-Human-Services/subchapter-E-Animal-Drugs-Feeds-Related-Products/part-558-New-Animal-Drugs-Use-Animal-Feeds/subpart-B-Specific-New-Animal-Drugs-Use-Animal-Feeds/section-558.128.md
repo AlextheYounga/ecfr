@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing either chlortetracycline calcium complex equivalent to chlortetracycline hydrochloride, or for products intended for use in milk replacer, chlortetracycline hydrochloride.
 
-(b) *Approvals.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
 (1) *No. 054771:* 50, 70, 80, 90, or 100 grams per pound (g/lb) Type A medicated article.
 
@@ -130,4 +130,4 @@
 
 (v) *Sponsors.* See Nos. 054771 and 069254 in § 510.600(c) of this chapter.
 
-[81 FR 94995, Dec. 27, 2016, as amended at 82 FR 21691, May 10, 2017; 82 FR 43485, Sept. 18, 2017; 83 FR 13636, Mar. 30, 2018; 83 FR 14588, Apr. 5, 2018; 83 FR 48947, Sept. 28, 2018; 83 FR 64741, Dec. 18, 2018; 84 FR 8975, Mar. 13, 2019; 84 FR 39185, Aug. 9, 2019; 86 FR 13189, Mar. 8, 2021]
+[81 FR 94995, Dec. 27, 2016, as amended at 82 FR 21691, May 10, 2017; 82 FR 43485, Sept. 18, 2017; 83 FR 13636, Mar. 30, 2018; 83 FR 14588, Apr. 5, 2018; 83 FR 48947, Sept. 28, 2018; 83 FR 64741, Dec. 18, 2018; 84 FR 8975, Mar. 13, 2019; 84 FR 39185, Aug. 9, 2019; 86 FR 13189, Mar. 8, 2021; 86 FR 14822, Mar. 19, 2021]

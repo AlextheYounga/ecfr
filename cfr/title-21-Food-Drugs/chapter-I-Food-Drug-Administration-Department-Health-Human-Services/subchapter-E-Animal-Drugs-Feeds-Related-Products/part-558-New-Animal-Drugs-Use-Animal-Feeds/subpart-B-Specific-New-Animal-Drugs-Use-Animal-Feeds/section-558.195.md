@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated article containing 6 percent decoquinate.
 
-(b) *Approvals.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.170 of this chapter.
 
@@ -14,7 +14,7 @@
 
 (e) *Conditions of use.* It is used as follows:
 
-(1) *Chickens* -
+(1) *Chickens*—
 
 |Decoquinate in  <br/>grams/ton|        Combination in grams/ton         |                                                                                              Indications for use                                                                                               |                                                                        Limitations                                                                         |Sponsor|
 |------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -22,7 +22,7 @@
 |          (ii) 27.2           |Bacitracin methylenedisalicylate, 4 to 50|Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. mivati, E. acervulina, E. maxima, and E. brunetti; and for increased rate of weight gain and improved feed efficiency|Feed continuously as sole ration; do not feed to laying chickens. Bacitracin methylenedisalicylate as provided by No. 054771 in § 510.600(c) of this chapter|054771 |
 |          (iii) 27.2          |        Bacitracin zinc, 10 to 50        |                                  Broiler chickens: For prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. mivati, E. acervulina, E. maxima, and E. brunetti                                  |        Feed continuously as sole ration; do not feed to laying chickens. Bacitracin zinc as provided by No. 054771 in § 510.600(c) of this chapter         |054771 |
 
-(2) *Cattle* -
+(2) *Cattle*—
 
 |Decoquinate in  <br/>grams/ton|Combination in grams/ton|                                                              Indications for use                                                              |                                                                                                                                                                                                                                           Limitations                                                                                                                                                                                                                                           |   Sponsor    |
 |------------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -30,7 +30,7 @@
 |      (ii) 12.9 to 90.8       |   Monensin, 5 to 30    |Cattle fed in confinement for slaughter: For prevention of coccidiosis caused by Eimeria bovis and E. zuernii; and for improved feed efficiency|Feed continuously as the sole ration to provide 22.7 mg of decoquinate per 100 lb of body weight per day and 50 to 360 mg of monensin per head per day. Feed at least 28 days during period of exposure to coccidiosis or when it is likely to be a hazard. Do not feed to animals producing milk for food. Do not feed to lactating dairy cattle. Also see paragraph (d)(1) of this section and § 558.355(d)(9)(i). Monensin as provided by No. 016592 or 058198 in § 510.600(c) of this chapter|016592, 054771|
 |     (iii) 90.9 to 535.7      |                        | Cattle (including ruminating and nonruminating calves and veal calves): For prevention of coccidiosis caused by Eimeria bovis and E. zuernii  |                                                                           Feed Type C medicated feed supplements as a top dress or mix into the daily ration to provide 22.7 mg per 100 lb of body weight (0.5 mg/kg) per day. Feed at least 28 days during periods of exposure to coccidiosis or when it is likely to be a hazard. Do not feed to cows producing milk for food. See paragraph (d)(3) of this section                                                                           |    054771    |
 
-(3) *Minor species* -
+(3) *Minor species*—
 
 |Decoquinate in grams/ton|Combination in grams/ton|                                                   Indications for use                                                    |                                                                                                                                                        Limitations                                                                                                                                                        |Sponsor|
 |------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -47,4 +47,4 @@
 
 (iv) Lincomycin as in § 558.325.
 
-[67 FR 72370, Dec. 5, 2002; 68 FR 15372, Mar. 31, 2003; 69 FR 26499, May 13, 2004; 69 FR 52816, Aug. 30, 2004; 69 FR 62407, Oct. 26, 2004; 69 FR 67264, Nov. 17, 2004; 70 FR 2567, Jan. 14, 2005; 78 FR 25183, Apr. 30, 2013; 79 FR 10982, Feb. 27, 2014; 79 FR 13545, Mar. 11, 2014; 79 FR 17860, Mar. 31, 2014; 80 FR 13231, Mar. 13, 2015; 81 FR 17609, Mar. 30, 2016; 81 FR 22525, Apr. 18, 2016; 81 FR 67152, Sept. 30, 2016; 81 FR 95004, Dec. 27, 2016; 83 FR 48947, Sept. 28, 2018; 84 FR 12496, Apr. 2, 2019; 85 FR 18121, Apr. 1, 2020]
+[67 FR 72370, Dec. 5, 2002; 68 FR 15372, Mar. 31, 2003; 69 FR 26499, May 13, 2004; 69 FR 52816, Aug. 30, 2004; 69 FR 62407, Oct. 26, 2004; 69 FR 67264, Nov. 17, 2004; 70 FR 2567, Jan. 14, 2005; 78 FR 25183, Apr. 30, 2013; 79 FR 10982, Feb. 27, 2014; 79 FR 13545, Mar. 11, 2014; 79 FR 17860, Mar. 31, 2014; 80 FR 13231, Mar. 13, 2015; 81 FR 17609, Mar. 30, 2016; 81 FR 22525, Apr. 18, 2016; 81 FR 67152, Sept. 30, 2016; 81 FR 95004, Dec. 27, 2016; 83 FR 48947, Sept. 28, 2018; 84 FR 12496, Apr. 2, 2019; 85 FR 18121, Apr. 1, 2020; 86 FR 14822, Mar. 19, 2021]

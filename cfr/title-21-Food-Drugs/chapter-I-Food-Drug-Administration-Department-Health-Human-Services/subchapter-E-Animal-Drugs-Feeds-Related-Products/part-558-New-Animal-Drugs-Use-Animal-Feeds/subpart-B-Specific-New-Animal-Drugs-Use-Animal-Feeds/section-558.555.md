@@ -6,7 +6,7 @@
 
 (2) 22.7 g/lb (50 g/kg) semduramicin (as semduramicin sodium biomass).
 
-(b) *Approvals.* See No. 066104 in § 510.600(c) of this chapter for use of product described in paragraph (a)(1) as in paragraph (d) of this section; for use of product described in paragraph (a)(2) as in paragraph (e) of this section.
+(b) *Sponsor.* See No. 066104 in § 510.600(c) of this chapter for use of product described in paragraph (a)(1) of this section as in paragraph (d) of this section; for use of product described in paragraph (a)(2) of this section as in paragraph (e) of this section.
 
 (c) *Related tolerances.* See § 556.597 of this chapter.
 
@@ -26,4 +26,4 @@
 
 (f) Semduramycin may also be used in combination with virginiamycin as in § 558.635.
 
-[59 FR 17477, Apr. 13, 1994, as amended at 60 FR 57928, Nov. 24, 1995; 61 FR 29481, June 11, 1996; 61 FR 43451, Aug. 23, 1996; 61 FR 66584, Dec. 18, 1996; 62 FR 66985, Dec. 23, 1997; 64 FR 48296, Sept. 3, 1999; 66 FR 47964, Sept. 17, 2001; 69 FR 13221, Mar. 22, 2004; 70 FR 41961, July 21, 2005; 73 FR 812, Jan. 4, 2008; 74 FR 41631, Aug. 18, 2009; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95013, Dec. 27, 2016]
+[59 FR 17477, Apr. 13, 1994, as amended at 60 FR 57928, Nov. 24, 1995; 61 FR 29481, June 11, 1996; 61 FR 43451, Aug. 23, 1996; 61 FR 66584, Dec. 18, 1996; 62 FR 66985, Dec. 23, 1997; 64 FR 48296, Sept. 3, 1999; 66 FR 47964, Sept. 17, 2001; 69 FR 13221, Mar. 22, 2004; 70 FR 41961, July 21, 2005; 73 FR 812, Jan. 4, 2008; 74 FR 41631, Aug. 18, 2009; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95013, Dec. 27, 2016; 86 FR 14826, Mar. 19, 2021]

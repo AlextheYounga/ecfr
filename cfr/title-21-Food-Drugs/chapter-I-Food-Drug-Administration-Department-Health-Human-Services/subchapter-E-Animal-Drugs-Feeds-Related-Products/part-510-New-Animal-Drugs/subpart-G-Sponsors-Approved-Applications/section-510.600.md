@@ -26,7 +26,6 @@
 |                                                Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France                                                 |     086009      |
 |                                                              B.L. Mitchell, Inc., 103 Hwy. 82 E., Leland, MS 38756                                                               |     067188      |
 |                                                    Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807                                                    |     099207      |
-|                                              Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201                                               |     000859      |
 |                                                       Belcher Pharmaceuticals, LLC, 6911 Bryan Dairy Rd., Largo, FL 33777                                                        |     062250      |
 |                                          Bimeda Animal Health Ltd., 1B The Herbert Building, The Park, Carrickmines, Dublin 18, Ireland                                          |     061133      |
 |                                               Boehringer Ingelheim Animal Health USA, Inc., 3239 Satellite Blvd., Duluth, GA 30096                                               |     000010      |
@@ -107,7 +106,6 @@
 |     000010      |                                               Boehringer Ingelheim Animal Health USA, Inc., 3239 Satellite Blvd., Duluth, GA 30096.                                               |
 |     000061      |                                                                Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940.                                                                |
 |     000115      |                                                         IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544.                                                         |
-|     000859      |                                              Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201.                                               |
 |     010515      |                                                        G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201.                                                        |
 |     010797      |                                                         American Regent, Inc., Animal Health Division, Shirley, NY 11967.                                                         |
 |     012164      |                                            Halocarbon Products Corp., 6525 The Corners Pkwy., Suite 200, Peachtree Corners, GA 30092.                                             |

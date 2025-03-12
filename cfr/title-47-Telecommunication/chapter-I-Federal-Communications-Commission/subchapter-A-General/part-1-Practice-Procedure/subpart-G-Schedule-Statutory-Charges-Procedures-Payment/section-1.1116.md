@@ -1,5 +1,7 @@
 ##### § 1.1116 General exemptions to charges. #####
 
+Link to an amendment published at 86 FR 15067, Mar. 19, 2021.
+
 No fee established in §§ 1.1102 through 1.1109 of this subpart, unless otherwise qualified herein, shall be required for:
 
 (a) Applications filed for the sole purpose of modifying an existing authorization (or a pending application for authorization) in order to comply with new or additional requirements of the Commission's rules or the rules of another Federal agency. However, if the applicant also requests an additional modification, renewal, or other action, the appropriate fee for such additional request must accompany the application. Cases in which a fee will be paid include applications by FM and TV licensees or permittees seeking to upgrade channel after a rulemaking.

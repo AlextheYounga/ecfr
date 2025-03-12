@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing bacitracin zinc equivalent to 10, 25, 40, or 50 grams per pound bacitracin.
 
-(b) *Approvals.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.70 of this chapter.
 

@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing 48 or 80 grams per pound pyrantel tartrate.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (e) of this section.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as follows:
 
 (1) No. 066104: 48 and 80 grams per pound for use as in paragraph (e)(1) of this section.
 
@@ -14,7 +14,7 @@
 
 (2) Do not mix in Type B or Type C medicated feeds containing bentonite.
 
-(e) *Conditions of use* - (1) *Swine* -
+(e) *Conditions of use*—(1) *Swine*—
 
 |Pyrantel  <br/>grams/ton|                                                                                        Indications for use                                                                                        |                                                                                                                   Limitations                                                                                                                   |Sponsor|
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -22,7 +22,7 @@
 |        (ii) 96         |                                                          Swine: For the removal and control of large roundworm (Ascaris suum) infections                                                          |                                                                            Feed for 3 days as the sole ration in a Type C feed. Withdraw 24 hours prior to slaughter                                                                            |066104 |
 |       (iii) 800        |                                        Swine: For the removal and control of large roundworm (Ascaris suum) and nodular worm (Oesophagostomum) infections                                         |Feed as the sole ration for a single therapeutic treatment in Type C feed at a rate of 1 lb of feed per 40 lb of body weight for animals up to 200 lb, and 5 lb of feed per head for animals 200 lb or over. Withdraw 24 hours prior to slaughter|066104 |
 
-(2) *Horses* -
+(2) *Horses*—
 
 |    Pyrantel  <br/>grams/ton    |                                                                                                                                                                                                  Indications for use                                                                                                                                                                                                   |                                                                                                                                                                                                                Limitations                                                                                                                                                                                                                |      Sponsor      |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -36,4 +36,4 @@
 
 (iii) Tylosin as in § 558.625.
 
-[83 FR 48948, Sept. 28, 2018, as amended at 83 FR 64744, Dec. 18, 2018]
+[83 FR 48948, Sept. 28, 2018, as amended at 83 FR 64744, Dec. 18, 2018; 86 FR 14826, Mar. 19, 2021]

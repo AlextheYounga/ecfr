@@ -1,6 +1,6 @@
 ##### § 558.363 Narasin. #####
 
-(a) *Specifications.* Type A medicated articles containing 36, 45, 54, 72, and 90 grams narasin per pound.
+(a) *Specifications.* Type A medicated articles containing 36, 45, 54, 72, or 90 grams narasin per pound.
 
 (b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
@@ -10,7 +10,7 @@
 
 (e) *Conditions of use.* It is used as follows:
 
-(1) *Chickens* -
+(1) *Chickens*—
 
 |Narasin  <br/>grams/ton|         Combination in grams/ton         |                                                                                              Indications for use                                                                                               |                                                                                                                                                         Limitations                                                                                                                                                          |Sponsor|
 |-----------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -19,7 +19,7 @@
 |    (iii) 54 to 72     |         Bacitracin zinc, 4 to 50         |Broiler chickens: For prevention of coccidiosis caused by Eimeria necatrix, E. tenella, E. acervulina, E. brunetti, E. mivati, and E. maxima, and for increased rate of weight gain and improved feed efficiency|                      For broiler chickens only. Feed continuously as sole ration. Do not allow adult turkeys, horses, or other equines access to narasin formulations. Ingestion of narasin by these species has been fatal. Bacitracin zinc as provided by No. 054771 in § 510.600(c) of this chapter                       |054771 |
 |     (iv) 54 to 72     |           Bambermycins, 1 to 2           |Broiler chickens: For prevention of coccidiosis caused by Eimeria necatrix, E. tenella, E. acervulina, E. brunetti, E. mivati, and E. maxima, and for increased rate of weight gain and improved feed efficiency|                        For broiler chickens only. Feed continuously as sole ration. Do not allow adult turkeys, horses, or other equines access to narasin formulations. Ingestion of narasin by these species has been fatal. Bambermycins as provided by No. 016592 in § 510.600(c) of this chapter                        |016592 |
 
-(2) *Swine* -
+(2) *Swine*—
 
 |Narasin  <br/>grams/ton|Combination in grams/ton|                                                 Indications for use                                                 |                                                                                                                                                                                                                                                                                                                                                                                Limitations                                                                                                                                                                                                                                                                                                                                                                                 |Sponsor|
 |-----------------------|------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -32,4 +32,4 @@
 
 (ii) [Reserved]
 
-[83 FR 64741, Dec. 18, 2018]
+[83 FR 64741, Dec. 18, 2018, as amended at 86 FR 14825, Mar. 19, 2021]
