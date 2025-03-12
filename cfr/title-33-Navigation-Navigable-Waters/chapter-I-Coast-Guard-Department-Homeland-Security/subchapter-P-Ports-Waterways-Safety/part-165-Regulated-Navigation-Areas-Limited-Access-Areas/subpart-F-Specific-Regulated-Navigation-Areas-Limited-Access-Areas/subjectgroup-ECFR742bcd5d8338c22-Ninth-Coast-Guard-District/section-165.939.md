@@ -1,5 +1,7 @@
 ##### § 165.939 Safety Zones; Annual Events in the Captain of the Port Buffalo Zone. #####
 
+Link to an amendment published at 83 FR 25572, June 4, 2018.
+
 (a) *Safety Zones.* The following are designated as safety zones. The enforcement dates and times for each of the safety zones listed in this section are subject to change, but the duration of enforcement would remain the same or nearly the same as the total number of hours as published. In the event of a change, the Captain of the Port Sector Buffalo will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners.
 
 (1) *Boldt Castle 4th of July Fireworks, Heart Island, NY.* (i) *Location.* All U.S. waters of the Saint Lawrence River within a 1,120 foot radius of land position 44°20′38.5″ N, 075°55′19.1″ W (NAD 83) at Heart Island, NY.

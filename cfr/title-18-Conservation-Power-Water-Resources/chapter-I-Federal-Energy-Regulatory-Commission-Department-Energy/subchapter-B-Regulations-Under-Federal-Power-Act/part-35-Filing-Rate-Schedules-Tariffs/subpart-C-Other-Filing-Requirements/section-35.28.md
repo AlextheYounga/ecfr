@@ -1,6 +1,6 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 83 FR 9631, Mar. 6, 2018.Link to an amendment published at 83 FR 18156, Apr. 25, 2018.
+Link to an amendment published at 83 FR 18156, Apr. 25, 2018.
 
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
@@ -19,6 +19,8 @@ Link to an amendment published at 83 FR 9631, Mar. 6, 2018.Link to an amendment 
 (7) *Market Monitoring Unit* means the person or entity responsible for carrying out the market monitoring functions that the Commission has ordered Commission-approved independent system operators and regional transmission organizations to perform.
 
 (8) *Market Violation* means a tariff violation, violation of a Commission-approved order, rule or regulation, market manipulation, or inappropriate dispatch that creates substantial concerns regarding unnecessary market inefficiencies.
+
+(9) *Electric storage resource* as used in this section means a resource capable of receiving electric energy from the grid and storing it for later injection of electric energy back to the grid.
 
 (c) *Non-discriminatory open access transmission tariffs.* (1) Every public utility that owns, controls, or operates facilities used for the transmission of electric energy in interstate commerce must have on file with the Commission an open access transmission tariff of general applicability for transmission services, including ancillary services, over such facilities. Such tariff must be the *pro forma* tariff promulgated by the Commission, as amended from time to time, or such other tariff as may be approved by the Commission consistent with the principles set forth in Commission rulemaking proceedings promulgating and amending the *pro forma* tariff.
 
@@ -232,6 +234,16 @@ Link to an amendment published at 83 FR 9631, Mar. 6, 2018.Link to an amendment 
 
 (8) *Frequency regulation compensation in ancillary services markets.* Each Commission-approved independent system operator or regional transmission organization that has a tariff that provides for the compensation for frequency regulation service must provide such compensation based on the actual service provided, including a capacity payment that includes the marginal unit's opportunity costs and a payment for performance that reflects the quantity of frequency regulation service provided by a resource when the resource is accurately following the dispatch signal.
 
-(9) A resource's incremental energy offer must be capped at the higher of $1,000/MWh or that resource's cost-based incremental energy offer. For the purpose of calculating Locational Marginal Prices, Regional Transmission Organizations and Independent System Operators must cap cost-based incremental energy offers at $2,000/MWh. The actual or expected costs underlying a resource's cost-based incremental energy offer above $1,000/MWh must be verified before that offer can be used for purposes of calculating Locational Marginal Prices. If a resource submits an incremental energy offer above $1,000/MWh and the actual or expected costs underlying that offer cannot be verified before the market clearing process begins, that offer may not be used to calculate Locational Marginal Prices and the resource would be eligible for a make-whole payment if that resource is dispatched and the resource's actual costs are verified after-the-fact. A resource would also be eligible for a make-whole payment if it is dispatched and its verified cost-based incremental energy offer exceeds $2,000/MWh. All resources, regardless of type, are eligible to submit cost-based incremental energy offers in excess of $1,000/MWh.
+(9) *Electric storage resources.* (i) Each Commission-approved independent system operator and regional transmission organization must have tariff provisions providing a participation model for electric storage resources that:
+
+(A) Ensures that a resource using the participation model for electric storage resources in an independent system operator or regional transmission organization market is eligible to provide all capacity, energy, and ancillary services that it is technically capable of providing;
+
+(B) Ensures that a resource using the participation model for electric storage resources can be dispatched and can set the wholesale market clearing price as both a wholesale seller and wholesale buyer consistent with rules that govern the conditions under which a resource can set the wholesale price;
+
+(C) Accounts for the physical and operational characteristics of electric storage resources through bidding parameters or other means; and
+
+(D) Establishes a minimum size requirement for resources using the participation model for electric storage resources that does not exceed 100 kW.
+
+(ii) The sale of electric energy from an independent system operator or regional transmission organization market to an electric storage resource that the resource then resells back to that market must be at the wholesale locational marginal price.
 
 [Order 888, 61 FR 21693, May 10, 1996]Editorial Note:For Federal Register citations affecting § 35.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

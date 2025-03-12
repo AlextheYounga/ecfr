@@ -28,23 +28,19 @@ Primary enclosures for dogs and cats must meet the following minimum requirement
 
 (xi) Provide sufficient space to allow each dog and cat to turn about freely, to stand, sit, and lie in a comfortable, normal position, and to walk in a normal manner; and
 
-(xii) Primary enclosures constructed on or after February 20, 1998 and floors replaced on or after that date, must comply with the requirements in this paragraph (a)(2). On or after January 21, 2000, all primary enclosures must be in compliance with the requirements in this paragraph (a)(2). If the suspended floor of a primary enclosure is constructed of metal strands, the strands must either be greater than1/8 of an inch in diameter (9 gauge) or coated with a material such as plastic or fiberglass. The suspended floor of any primary enclosure must be strong enough so that the floor does not sag or bend between the structural supports.
+(xii) If the suspended floor of a primary enclosure is constructed of metal strands, the strands must either be greater than1/8 of an inch in diameter (9 gauge) or coated with a material such as plastic or fiberglass. The suspended floor of any primary enclosure must be strong enough so that the floor does not sag or bend between the structural supports.
 
 (b) *Additional requirements for cats* - (1)*Space.* Each cat, including weaned kittens, that is housed in any primary enclosure must be provided minimum vertical space and floor space as follows:
 
-(i) Prior to February 15, 1994 each cat housed in any primary enclosure shall be provided a minimum of 21/2 square feet of floor space;
+(i) Each primary enclosure housing cats must be at least 24 in. high (60.96 cm);
 
-(ii) On and after February 15, 1994:
+(ii) Cats up to and including 8.8 lbs (4 kg) must be provided with at least 3.0 ft2 (0.28 m2);
 
-(A) Each primary enclosure housing cats must be at least 24 in. high (60.96 cm);
+(iii) Cats over 8.8 lbs (4 kg) must be provided with at least 4.0 ft2 (0.37 m2);
 
-(B) Cats up to and including 8.8 lbs (4 kg) must be provided with at least 3.0 ft2 (0.28 m2);
+(iv) Each queen with nursing kittens must be provided with an additional amount of floor space, based on her breed and behavioral characteristics, and in accordance with generally accepted husbandry practices. If the additional amount of floor space for each nursing kitten is equivalent to less than 5 percent of the minimum requirement for the queen, such housing must be approved by the attending veterinarian in the case of a research facility, and, in the case of dealers and exhibitors, such housing must be approved by the Administrator; and
 
-(C) Cats over 8.8 lbs (4 kg) must be provided with at least 4.0 ft2 (0.37 m2);
-
-(iii) Each queen with nursing kittens must be provided with an additional amount of floor space, based on her breed and behavioral characteristics, and in accordance with generally accepted husbandry practices. If the additional amount of floor space for each nursing kitten is equivalent to less than 5 percent of the minimum requirement for the queen, such housing must be approved by the attending veterinarian in the case of a research facility, and, in the case of dealers and exhibitors, such housing must be approved by the Administrator; and
-
-(iv) The minimum floor space required by this section is exclusive of any food or water pans. The litter pan may be considered part of the floor space if properly cleaned and sanitized.
+(v) The minimum floor space required by this section is exclusive of any food or water pans. The litter pan may be considered part of the floor space if properly cleaned and sanitized.
 
 (2) *Compatibility.* All cats housed in the same primary enclosure must be compatible, as determined by observation. Not more than 12 adult nonconditioned cats may be housed in the same primary enclosure. Queens in heat may not be housed in the same primary enclosure with sexually mature males, except for breeding. Except when maintained in breeding colonies, queens with litters may not be housed in the same primary enclosure with other adult cats, and kittens under 4 months of age may not be housed in the same primary enclosure with adult cats, other than the dam or foster dam. Cats with a vicious or aggressive disposition must be housed separately.
 
@@ -68,4 +64,4 @@ Primary enclosures for dogs and cats must meet the following minimum requirement
 
 (d) Innovative primary enclosures not precisely meeting the floor area and height requirements provided in paragraphs (b)(1) and (c)(1) of this section, but that provide the dogs or cats with a sufficient volume of space and the opportunity to express species-typical behavior, may be used at research facilities when approved by the Committee, and by dealers and exhibitors when approved by the Administrator.
 
-(Approved by the Office of Management and Budget under control number 0579-0093)[56 FR 6486, Feb. 15, 1991, as amended at 62 FR 43275, Aug. 13, 1997; 63 FR 3023, Jan. 21, 1998; 63 FR 37482, July 13, 1998]
+(Approved by the Office of Management and Budget under control number 0579-0093)[56 FR 6486, Feb. 15, 1991, as amended at 62 FR 43275, Aug. 13, 1997; 63 FR 3023, Jan. 21, 1998; 63 FR 37482, July 13, 1998; 83 FR 25555, June 4, 2018]

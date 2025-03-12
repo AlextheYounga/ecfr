@@ -16,6 +16,6 @@
 
 (4) For traveling facilities where appropriate alternative security measures are employed; or
 
-(5) Where the outdoor housing facility houses only farm animals, such as, but not limited to, cows, sheep, goats, pigs, horses (for regulated purposes), or donkeys, and the facility has in place effective and customary containment and security measures.
+(5) Where the outdoor housing facility houses only domesticated farm-type animals, such as, but not limited to, cows, sheep, goats, pigs, horses (for regulated purposes), or donkeys, and the facility has in place effective and customary containment and security measures.
 
-[36 FR 24925, Dec. 24, 1971. Redesignated at 44 FR 36874, July 22, 1979, as amended at 64 FR 56147, Oct. 18, 1999; 65 FR 70770, Nov. 28, 2000]
+[36 FR 24925, Dec. 24, 1971. Redesignated at 44 FR 36874, July 22, 1979, as amended at 64 FR 56147, Oct. 18, 1999; 65 FR 70770, Nov. 28, 2000; 83 FR 25555, June 4, 2018]
