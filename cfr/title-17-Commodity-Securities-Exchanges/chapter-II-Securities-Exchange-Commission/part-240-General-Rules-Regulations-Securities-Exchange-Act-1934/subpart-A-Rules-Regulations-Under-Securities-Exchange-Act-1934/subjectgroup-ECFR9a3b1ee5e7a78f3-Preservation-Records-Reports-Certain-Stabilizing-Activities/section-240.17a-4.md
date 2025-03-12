@@ -1,5 +1,7 @@
 ##### § 240.17a-4 Records to be preserved by certain exchange members, brokers and dealers. #####
 
+Link to an amendment published at 84 FR 68649, Dec. 16, 2019.
+
 (a) Every member, broker and dealer subject to § 240.17a-3 shall preserve for a period of not less than six years, the first two years in an easily accessible place, all records required to be made pursuant to paragraphs § 240.17a-3(a)(1), (a)(2), (a)(3), (a)(5), (a)(21), (a)(22), and analogous records created pursuant to paragraph § 240.17a-3(f).
 
 (b) Every member, broker and dealer subject to § 240.17a-3 shall preserve for a period of not less than three years, the first two years in an easily accessible place:

@@ -1,5 +1,7 @@
 ##### § 814.39 PMA supplements. #####
 
+Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
+
 (a) After FDA's approval of a PMA, an applicant shall submit a PMA supplement for review and approval by FDA before making a change affecting the safety or effectiveness of the device for which the applicant has an approved PMA, unless the change is of a type for which FDA, under paragraph (e) of this section, has advised that an alternate submission is permitted or is of a type which, under section 515(d)(6)(A) of the act and paragraph (f) of this section, does not require a PMA supplement under this paragraph. While the burden for determining whether a supplement is required is primarily on the PMA holder, changes for which an applicant shall submit a PMA supplement include, but are not limited to, the following types of changes if they affect the safety or effectiveness of the device:
 
 (1) New indications for use of the device.

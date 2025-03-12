@@ -1,7 +1,5 @@
 ##### § 50.4 Definitions. #####
 
-Link to an amendment published at 84 FR 62452, Nov. 15, 2019.
-
 For purposes of this part:
 
 (a) *Act* means the Terrorism Risk Insurance Act of 2002 (as amended).
@@ -124,13 +122,13 @@ For purposes of this part:
 
 (v) For calendar year 2019: $37,500,000,000.
 
-(2) For calendar years beginning with 2020 and any calendar year thereafter as may be necessary, such amount is the lesser of the aggregate amount, for all insurers, of insured losses once there has been a Program Trigger Event during the calendar year and the annual average of the sum of insurer deductibles for all insurers for the prior 3 years, to be calculated by taking
+(2) For calendar years beginning with 2020 and any calendar year thereafter as may be necessary, such amount is the lesser of the aggregate amount, for all insurers, of insured losses once there has been a Program Trigger Event during the calendar year and the annual average of the sum of insurer deductibles for all insurers for the prior 3 years, to be calculated by taking:
 
-(i) the total amount of direct earned premium reported by insurers to Treasury pursuant to section 50.51 for the three calendar years prior to the calendar year in question, and then dividing that figure by three; and
+(i) The total amount of direct earned premium reported by insurers to Treasury pursuant to § 50.51 in the three calendar years prior to the calendar year in question, and then dividing that figure by three; and
 
 (ii) Multiplying the resulting three-year average figure by 20%.
 
-(3) Beginning in 2020, Treasury shall publish in the Federal Register the insurance marketplace aggregate retention amount for that calendar year no later than April 30, 2020, and by every April 30 thereafter for any subsequent calendar years as necessary. To the extent the Secretary certifies an act as an act of terrorism prior to April 30 of any calendar year after 2019, Treasury will publish the relevant insurance marketplace aggregate retention amount as soon as practicable thereafter.
+(3) For calendar year 2020 and each subsequent calendar year, Treasury shall publish in the Federal Register the insurance marketplace aggregate retention amount no later than December 31 of the prior calendar year.
 
 (n) *Insured loss.* (1) The term insured loss means any loss resulting from an act of terrorism (including an act of war, in the case of workers' compensation) that is covered by primary or excess property and casualty insurance issued by an insurer if the loss:
 
@@ -261,3 +259,5 @@ For purposes of this part:
 (2) Are within the portions of losses in excess of insurer deductibles that are not compensated through payments made as a result of claims for the Federal share of compensation.
 
 (ff) *United States* means the several states, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280 and 2281).
+
+[81 FR 93765, Dec. 21, 2016, as amended at 84 FR 62452, Nov. 15, 2019]

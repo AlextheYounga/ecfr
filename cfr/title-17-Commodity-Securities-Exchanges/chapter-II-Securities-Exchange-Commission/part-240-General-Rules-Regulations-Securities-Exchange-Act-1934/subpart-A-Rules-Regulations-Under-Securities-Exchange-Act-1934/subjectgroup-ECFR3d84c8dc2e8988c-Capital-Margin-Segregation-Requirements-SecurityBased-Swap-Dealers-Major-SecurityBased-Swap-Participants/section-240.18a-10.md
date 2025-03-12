@@ -1,5 +1,7 @@
 ##### § 240.18a-10 Alternative compliance mechanism for security-based swap dealers that are registered as swap dealers and have limited security-based swap activities. #####
 
+Link to an amendment published at 84 FR 68668, Dec. 16, 2019.
+
 (a) A security-based swap dealer may comply with capital, margin, and segregation requirements of the Commodity Exchange Act and chapter I of title 17 of the Code of Federal Regulations applicable to swap dealers in lieu of complying with §§ 240.18a-1, 240.18a-3, and 240.18a-4 if:
 
 (1) The security-based swap dealer is registered as such pursuant to section 15F(b) of the Act and the rules thereunder;

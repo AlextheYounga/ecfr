@@ -1,8 +1,6 @@
 ##### § 2.45 When will the bureau waive fees? #####
 
-Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
-
-(a) The bureau will release records responsive to a request without charge (in other words, it will give you a full fee waiver) or at a reduced charge (in other words, it will give you a partial fee waiver, as discussed further in paragraph (b) of this section) if the bureau determines, based on all available information, that you have demonstrated (by addressing and meeting each of the criteria listed in § 2.48 of this subpart) that disclosing the information is:
+(a) The bureau will release records responsive to a request without charge (in other words, it will give you a full fee waiver) or at a reduced charge (in other words, it will give you a partial fee waiver, as discussed further in paragraph (b) of this section) if the bureau determines, considering the information you have provided, that you have demonstrated (by addressing and meeting each of the criteria listed in § 2.48 of this subpart) that disclosing the information is:
 
 (1) In the public interest because it is likely to contribute significantly to public understanding of government operations or activities, and
 
@@ -18,4 +16,4 @@ Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
 
 (f) The bureau must not make value judgments about whether the information at issue is “important” enough to be made public; it is not the bureau's role to attempt to determine the level of public interest in requested information.
 
-[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11130, Mar. 3, 2016]
+[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11130, Mar. 3, 2016; 84 FR 61828, Nov. 14, 2019]

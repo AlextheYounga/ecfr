@@ -1,5 +1,7 @@
 ##### § 807.95 Confidentiality of information. #####
 
+Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
+
 (a) The Food and Drug Administration will disclose publicly whether there exists a premarket notification submission under this part:
 
 (1) Where the device is on the market, i.e., introduced or delivered for introduction into interstate commerce for commercial distribution;

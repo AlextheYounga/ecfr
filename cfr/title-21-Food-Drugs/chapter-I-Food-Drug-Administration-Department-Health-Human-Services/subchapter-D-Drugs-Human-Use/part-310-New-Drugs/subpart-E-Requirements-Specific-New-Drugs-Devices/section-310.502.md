@@ -1,5 +1,7 @@
 ##### § 310.502 Certain drugs accorded new drug status through rulemaking procedures. #####
 
+Link to an amendment published at 84 FR 68334, Dec. 16, 2019.
+
 (a) The drugs listed in this paragraph have been determined by rulemaking procedures to be new drugs within the meaning of section 201(p) of the act. An approved new drug application under section 505 of the act and part 314 of this chapter is required for marketing the following drugs:
 
 (1) Aerosol drug products for human use containing 1,1,1-trichloroethane.

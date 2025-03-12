@@ -1,5 +1,7 @@
 ##### § 240.17a-11 Notification provisions for brokers and dealers. #####
 
+Link to an amendment published at 84 FR 68655, Dec. 16, 2019.
+
 (a) This section shall apply to every broker or dealer registered with the Commission pursuant to section 15 of the Act.
 
 (b)(1) Every broker or dealer whose net capital declines below the minimum amount required pursuant to § 240.15c3-1, or is insolvent as that term is defined in § 240.15c3-1(c)(16), must give notice of such deficiency that same day in accordance with paragraph (g) of this section.The notice shall specify the broker or dealer's net capital requirement and its current amount of net capital. If a broker or dealer is informed by its designated examining authority or the Commission that it is, or has been, in violation of § 240.15c3-1 and the broker or dealer has not given notice of the capital deficiency under this § 240.17a-11, the broker or dealer, even if it does not agree that it is, or has been, in violation of § 240.15c3-1, shall give notice of the claimed deficiency, which notice may specify the broker's or dealer's reasons for its disagreement.

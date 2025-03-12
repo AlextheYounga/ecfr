@@ -1,14 +1,14 @@
 ##### § 2.49 When will you be notified of anticipated fees? #####
 
-Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
-
 (a) The bureau will notify you under this section unless:
 
 (1) The anticipated fee is less than $50 (see § 2.37(g) of this subpart).
 
-(2) You have been granted a full fee waiver; or
+(2) You have been granted a full fee waiver;
 
-(3) You have previously agreed to pay all the fees associated with the request.
+(3)Your request does not reasonably describe the records sought and/or does not explicitly state that you will pay all fees associated with the processing of the request, that you will pay fees up to a specified amount, and/or that you are seeking a fee waiver; or
+
+(4) You have already agreed to pay all the fees associated with the request.
 
 (b) If none of the above exceptions apply, the bureau will:
 
@@ -32,6 +32,6 @@ Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
 
 (4) Give you an opportunity to reduce the fee by modifying the request.
 
-(e) If you wish to modify your request in an effort to reduce fees, the bureau's FOIA Public Liaison can assist you.
+(e) If you wish to modify your request in an effort to reduce fees, the bureau's FOIA Requester Center can assist you.
 
-[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11130, Mar. 3, 2016]
+[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11130, Mar. 3, 2016; 84 FR 61829, Nov. 14, 2019]

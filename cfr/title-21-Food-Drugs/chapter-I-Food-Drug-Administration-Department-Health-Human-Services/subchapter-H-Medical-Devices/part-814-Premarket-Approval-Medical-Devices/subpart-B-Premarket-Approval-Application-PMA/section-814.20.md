@@ -1,4 +1,7 @@
-##### § 814.20 Application. #####
+##### § 814.20 Application.
+- #####
+
+Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
 
 (a) The applicant or an authorized representative shall sign the PMA. If the applicant does not reside or have a place of business within the United States, the PMA shall be countersigned by an authorized representative residing or maintaining a place of business in the United States and shall identify the representative's name and address.
 

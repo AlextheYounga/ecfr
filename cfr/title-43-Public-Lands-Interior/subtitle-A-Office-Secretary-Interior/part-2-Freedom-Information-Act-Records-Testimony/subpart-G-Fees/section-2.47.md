@@ -1,7 +1,5 @@
 ##### § 2.47 How will the bureau notify you if it denies your fee waiver request? #####
 
-Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
-
 If the bureau denies your request for a fee waiver, it will notify you, in writing, of the following:
 
 (a) The basis for the denial, including a full explanation of why the fee waiver request does not meet the Department's fee waiver criteria in § 2.48 of this subpart;
@@ -10,8 +8,8 @@ If the bureau denies your request for a fee waiver, it will notify you, in writi
 
 (c) The name and title of the Office of the Solicitor attorney consulted;
 
-(d) Your right to appeal the denial under subpart H of this part and a description of the requirements set forth therein, within 30 workdays from the date of the fee waiver denial letter; and
+(d) Your right to appeal the denial under subpart H of this part and a description of the requirements set forth therein, within 90 workdays from the date of the fee waiver denial letter; and
 
 (e) Your anticipated fees, in accordance with § 2.49 of this subpart.
 
-[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11130, Mar. 3, 2016]
+[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11130, Mar. 3, 2016; 84 FR 61828, Nov. 14, 2019]

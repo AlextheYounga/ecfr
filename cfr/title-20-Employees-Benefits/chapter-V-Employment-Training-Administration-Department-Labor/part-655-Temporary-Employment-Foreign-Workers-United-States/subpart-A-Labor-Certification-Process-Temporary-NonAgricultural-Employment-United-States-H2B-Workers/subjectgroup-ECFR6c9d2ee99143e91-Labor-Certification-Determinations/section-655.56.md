@@ -1,7 +1,5 @@
 ##### § 655.56 Document retention requirements of H-2B employers. #####
 
-Link to an amendment published at 84 FR 62447, Nov. 15, 2019.
-
 (a) *Entities required to retain documents.* All employers filing an *Application for Temporary Employment Certification* requesting H-2B workers are required to retain the documents and records proving compliance with 29 CFR part 503 and this subpart, including but not limited to those specified in paragraph (c) of this section.
 
 (b) *Period of required retention.* The employer must retain records and documents for 3 years from the date of certification of the *Application for Temporary Employment Certification,* or from the date of adjudication if the *Application for Temporary Employment Certification* is denied, or 3 years from the day the Department of Labor receives the letter of withdrawal provided in accordance with § 655.62. For the purposes of this section, records and documents required to be retained in connection with an *H-2B Registration* must be retained in connection with all of the *Applications for Temporary Employment Certification* that are supported by it.
@@ -14,13 +12,11 @@ Link to an amendment published at 84 FR 62447, Nov. 15, 2019.
 
 (i) Job order placement as specified in § 655.16;
 
-(ii) Advertising as specified in §§ 655.41 and 655.42;
+(ii) Contact with former U.S. workers as specified in § 655.43;
 
-(iii) Contact with former U.S. workers as specified in § 655.43;
+(iii) Contact with bargaining representative(s), or a copy of the posting of the job opportunity, if applicable, as specified in § 655.45(a) or (b); and
 
-(iv) Contact with bargaining representative(s), or a copy of the posting of the job opportunity, if applicable, as specified in § 655.45(a) or (b); and
-
-(v) Additional employer-conducted recruitment efforts as specified in § 655.46;
+(iv) Additional employer-conducted recruitment efforts as specified in § 655.46;
 
 (3) Substantiation of the information submitted in the recruitment report prepared in accordance with § 655.48, such as evidence of nonapplicability of contact with former workers as specified in § 655.43;
 
@@ -45,3 +41,5 @@ Link to an amendment published at 84 FR 62447, Nov. 15, 2019.
 (13) Any collective bargaining agreement(s), individual employment contract(s), or payroll records from the previous year necessary to substantiate any claim that certain incumbent workers are not included in corresponding employment, as specified in § 655.5.
 
 (d) *Availability of documents for enforcement purposes.* An employer must make available to the Administrator, WHD within 72 hours following a request by the WHD the documents and records required under 29 CFR part 503 and this section so that the Administrator, WHD may copy, transcribe, or inspect them.
+
+[42 FR 45899, Sept. 13, 1977, as amended at 84 FR 62446, Nov. 15, 2019]

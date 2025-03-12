@@ -1,5 +1,7 @@
 ##### § 240.17a-5 Reports to be made by certain brokers and dealers. #####
 
+Link to an amendment published at 84 FR 68652, Dec. 16, 2019.
+
 (a) *Filing of monthly and quarterly reports.* (1) This paragraph (a) shall apply to every broker or dealer registered pursuant to section 15 of the Act.
 
 (2)(i) Every broker or dealer subject to this paragraph (a) who clears transactions or carries customer accounts must file with the Commission Part I of Form X-17A-5 (§ 249.617 of this chapter) within 10 business days after the end of each month.

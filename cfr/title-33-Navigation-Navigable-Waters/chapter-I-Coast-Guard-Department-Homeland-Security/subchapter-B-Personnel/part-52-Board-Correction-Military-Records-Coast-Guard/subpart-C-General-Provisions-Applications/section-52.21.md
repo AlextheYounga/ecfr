@@ -1,6 +1,6 @@
 ##### § 52.21 General requirements. #####
 
-(a) An application for correction of a Coast Guard record shall be submitted on DD Form 149 (Application for Correction of Military or Naval Record) or an exact copy thereof, and shall be addressed to: DHS Office of the General Counsel, Board for Correction of Military Records, Mailstop 485, 245 Murray Lane, Washington, DC 20528. Forms and explanatory material may be obtained from the Chair of the Board.
+(a) An application for correction of a Coast Guard record shall be submitted on DD Form 149 (Application for Correction of Military or Naval Record) or an exact copy thereof, and shall be addressed to: DHS Office of the General Counsel, Board for Correction of Military Records, 2707 Martin Luther King Jr. Avenue SE, Stop 0485, Washington, DC 20528-0485. Forms and explanatory material may be obtained from the Chair of the Board.
 
 (b) The application shall be signed by the person alleging error or injustice in his or her military record, except that an application may be signed by a family member or legal representative with respect to the record of a deceased, incapacitated, or missing person. The family member or legal representative must submit proof of his or her proper interest with the application.
 
@@ -16,4 +16,4 @@
 
 (e) Briefs in support of applications must be assembled in a manner that permits easy reproduction and may not exceed twenty-five double-spaced typewritten pages in a type size with no more than twelve characters per inch. This limitation does not apply to supporting documentary evidence. In complex cases, the Chair may waive this limitation.
 
-[OST Doc. No. 2002-13439, 68 FR 9886, Mar. 3, 2003, as amended by USCG-2014-0410, 79 FR 38431, July 7, 2014]
+[OST Doc. No. 2002-13439, 68 FR 9886, Mar. 3, 2003, as amended by USCG-2014-0410, 79 FR 38431, July 7, 2014; USCG-2019-0929, 84 FR 68343, Dec. 16, 2019]

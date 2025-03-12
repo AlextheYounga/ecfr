@@ -1,13 +1,29 @@
-##### § 2.66 What are public liaisons? #####
+##### § 2.66 What are FOIA Requester Centers and the FOIA Public Liaison? #####
 
-Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
+(a) FOIA Requester Centers typically serve as your first point of contact for questions about how the FOIA works. Before and after you make a request, FOIA Requester Centers can assist you by:
 
-(a) Each bureau has a FOIA Public Liaison who can assist requesters who have concerns about the service they received when seeking records or who are seeking assistance under § 2.3(d) or § 2.37(i) of this part.
+(1) Identifying information that is already posted and available;
 
-(b) FOIA Public Liaisons report to the Department's Chief FOIA Officer and you can raise concerns to them about the service you have received.
+(2) Informing you about the types of records maintained by the bureau;
 
-(c) FOIA Public Liaisons are responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in resolving disputes.
+(3) Providing guidance on formulating effective requests;
 
-(d) A list of the Department's FOIA Public Liaisons is available at *https://www.doi.gov/foia/servicecenters.*
+(4) Describing the Department's various processing tracks and the average processing times for the various tracks;
 
-[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11131, Mar. 3, 2016; 81 FR 92694, Dec. 20, 2016]
+(5) Answering questions about expedited processing standards and the FOIA's fee provisions; and
+
+(6) Answering questions about the status of an existing request.
+
+(b) The FOIA Public Liaison is responsible for:
+
+(1) Assisting in reducing delays;
+
+(2) Increasing transparency and understanding of the status of requests; and
+
+(3) Assisting in the resolution of disputes between you and the agency.
+
+(c) If you need further information or assistance after contacting the applicable FOIA Requester Center and the FOIA Public Liaison, you may wish to seek dispute resolution services from the Office of Government Information Services.
+
+(d) Contact information for the FOIA Requester Centers and FOIA Public Liaison is available at *https://www.doi.gov/foia/foiacenters.*
+
+[84 FR 61829, Nov. 14, 2019]

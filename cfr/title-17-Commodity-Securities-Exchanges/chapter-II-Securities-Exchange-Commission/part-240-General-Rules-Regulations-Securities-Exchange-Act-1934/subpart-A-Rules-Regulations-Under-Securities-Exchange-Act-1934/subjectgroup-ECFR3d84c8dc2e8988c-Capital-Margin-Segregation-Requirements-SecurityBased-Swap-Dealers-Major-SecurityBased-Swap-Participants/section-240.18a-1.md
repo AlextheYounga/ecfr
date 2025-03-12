@@ -1,5 +1,7 @@
 ##### § 240.18a-1 Net capital requirements for security-based swap dealers for which there is not a prudential regulator. #####
 
+Link to an amendment published at 84 FR 68656, Dec. 16, 2019.
+
 Sections 240.18a-1, 240.18a-1a, 240.18a-1b, 240.18a-1c, and 240.18a-1d apply to a security-based swap dealer registered under section 15F of the Act (15 U.S.C. 78*o*-10), including a security-based swap dealer that is an *OTC derivatives dealer* as that term is defined in § 240.3b-12. A security-based swap dealer registered under section 15F of the Act (15 U.S.C. 78*o*-10) that is also a broker or dealer registered under section 15 of the Act (15 U.S.C. 78o), other than an OTC derivatives dealer, is subject to the net capital requirements in § 240.15c3-1 and its appendices. A security-based swap dealer registered under section 15F of the Act that has a prudential regulator is not subject to § 240.18a-1, 240.18a-1a, 240.18a-1b, 240.18a-1c, and 240.18a-1d.
 
 (a) *Minimum requirements.* Every registered security-based swap dealer must at all times have and maintain net capital no less than the greater of the highest minimum requirements applicable to its business under paragraph (a)(1) or (2) of this section, and tentative net capital no less than the minimum requirement under paragraph (a)(2) of this section.

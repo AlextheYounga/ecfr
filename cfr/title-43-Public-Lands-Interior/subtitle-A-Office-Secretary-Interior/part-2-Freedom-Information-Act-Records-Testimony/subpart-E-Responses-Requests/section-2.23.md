@@ -1,7 +1,5 @@
 ##### § 2.23 When will the bureau deny a request or procedural benefits? #####
 
-Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
-
 (a) A bureau denies a request when it makes a decision that:
 
 (1) A requested record is exempt, in full or in part;
@@ -18,6 +16,6 @@ Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
 
 (2) Expedited processing will not be provided.
 
-(c) The bureau must consult with the Office of the Solicitor before it denies a fee waiver request or withholds all or part of a requested record.
+(c) The bureau must consult with the Office of the Solicitor before it denies a fee waiver request or withholds all or part of a requested record (unless the Office of the Solicitor has expressly preapproved such a withholding).
 
-[77 FR 76902, Dec. 31, 2012, as amended at 81 FR 11129, Mar. 3, 2016]
+[77 FR 76902, Dec. 31, 2012, as amended at 81 FR 11129, Mar. 3, 2016; 84 FR 61828, Nov. 14, 2019]

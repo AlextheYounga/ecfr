@@ -1,7 +1,5 @@
 ##### § 2.37 What general principles govern fees? #####
 
-Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
-
 (a) The bureau will charge for processing requests under the FOIA in accordance with this subpart and with the OMB Fee Guidelines.
 
 (b) The bureau may contact you for additional information to resolve fee issues.
@@ -30,6 +28,6 @@ Link to an amendment published at 84 FR 61828, Nov. 14, 2019.
 
 (h) If you fail to pay any FOIA-related fee within 30 calendar days of the date of billing, the processing of any new or ongoing requests and/or appeals from you shall ordinarily be suspended.
 
-(i) If you would like to reformulate your request so it will meet your needs at a lower cost, you may wish to seek assistance from the bureau's designated FOIA contact or its FOIA Public Liaison (see § 2.66 of this part).
+(i) If you would like to reformulate your request so it will meet your needs at a lower cost, you may wish to seek assistance from the bureau's designated FOIA contact or its FOIA Requester Center(see § 2.66 of this part).
 
-[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11129, Mar. 3, 2016; 81 FR 92694, Dec. 20, 2016]
+[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11129, Mar. 3, 2016; 81 FR 92694, Dec. 20, 2016; 84 FR 61828, Nov. 14, 2019]

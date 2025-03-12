@@ -1,8 +1,6 @@
 ##### § 2.4 Does where you send your request affect its processing? #####
 
-Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
-
-(a) A request to a particular bureau component (for example, a request addressed to a regional or field office) will be presumed to seek only records from that particular component.
+(a) A request to a particular bureau or a bureau component (for example, a request addressed to a regional or field office) will be presumed to seek only records from that particular bureau or component. A request will not be forwarded to another bureau or component unless it is clear on the face of your request that it was misdirected. For example, if you address your request to an appropriate FOIA contact in the National Park Service and ask for records concerning a specific park, but your request is delivered to the Fish and Wildlife Service, your request was clearly misdirected. In such a case, a FOIA contact in the receiving bureau or component will route the request to a FOIA contact in the proper bureau or component. If you need assistance determining where to send a request, you may seek assistance from the bureau's designated FOIA contact or FOIA Requester Center (see § 2.66 of this part).
 
 (b) If you seek records from an entire bureau, submit your request to the bureau FOIA Officer. The bureau FOIA Officer will forward it to the bureau component(s) that he or she believes has or are likely to have responsive records.
 
@@ -10,8 +8,4 @@ Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
 
 (d) If a request to a bureau states that it seeks records from other unspecified components within the same bureau, the appropriate FOIA contact will send the request to the Bureau FOIA Officer. He or she will forward it to the components that the bureau FOIA Officer believes have or are likely to have responsive records.
 
-(e) If your request is received by a bureau that believes it is not the appropriate bureau to process your request, the bureau that received your request will attempt to contact you (if possible, via telephone or email) to confirm that you deliberately sent your request to that bureau for processing. If you do not confirm this, the bureau will deem your request misdirected and route the misdirected request to the appropriate bureau to respond under the basic time limit outlined in § 2.17.
-
-(f) If a request to a bureau states that it seeks records from other unspecified bureaus, the bureau's FOIA Officer may forward the request to those bureaus which he or she believes have or are likely to have responsive records. If the bureau FOIA Officer forwards the request, they will notify you in writing and provide the name of a contact in the other bureau(s). If it does not forward the request, the bureau will return it to you, advise you to submit the request directly to the other bureaus, notify you that it cannot comply with the request, and close the request.
-
-[77 FR 76902, Dec. 31, 2012, as amended at 81 FR 92694, Dec. 20, 2016]
+[77 FR 76902, Dec. 31, 2012, as amended at 81 FR 92694, Dec. 20, 2016; 84 FR 61826, Nov. 14, 2019]

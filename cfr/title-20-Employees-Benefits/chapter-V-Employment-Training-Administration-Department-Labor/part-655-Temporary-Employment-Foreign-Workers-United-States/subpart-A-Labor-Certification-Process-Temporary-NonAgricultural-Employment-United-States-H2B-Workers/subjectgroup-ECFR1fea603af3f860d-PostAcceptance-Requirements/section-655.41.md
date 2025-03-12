@@ -1,8 +1,6 @@
 ##### § 655.41 Advertising requirements. #####
 
-Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
-
-(a) All recruitment conducted under §§ 655.42 through 655.46 must contain terms and conditions of employment that are not less favorable than those offered to the H-2B workers and, at a minimum, must comply with the assurances applicable to job orders as set forth in § 655.18(a).
+(a) All recruitment conducted under §§ 655.43 through 655.46 must contain terms and conditions of employment that are not less favorable than those offered to the H-2B workers and, at a minimum, must comply with the assurances applicable to job orders as set forth in § 655.18(a).
 
 (b) All advertising must contain the following information:
 
@@ -33,3 +31,5 @@ Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
 (13) A statement summarizing the three-fourths guarantee as required by § 655.20(f); and
 
 (14) A statement directing applicants to apply for the job opportunity at the nearest office of the SWA in the State in which the advertisement appeared, the SWA contact information, and, if applicable, the job order number.
+
+[42 FR 45899, Sept. 13, 1977, as amended at 84 FR 62446, Nov. 15, 2019]

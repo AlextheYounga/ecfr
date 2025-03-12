@@ -1,39 +1,25 @@
 ##### § 2.13 How do consultations and referrals work? #####
 
-Link to an amendment published at 84 FR 61826, Nov. 14, 2019.
+(a) When a bureau (other than the Office of Inspector General) locates responsive records that primarily concern another bureau or Federal Government agency that is subject to FOIA, the bureau will determine whether that bureau or agency would be better able to determine whether the record is exempt from disclosure.
 
-(a) Consultations and referrals can occur within the Department or outside the Department.
+(b) If the bureau processing the request believes that another bureau or agency would be better able to determine whether the record is exempt from disclosure, the bureau will contact that bureau or agency to determine whether it should refer the record to that bureau or agency or consult with that bureau or agency.
 
-(1) Paragraphs (b) and (c) of this section addresses consultations and referrals that occur within the Department when the bureau has responsive records.
+(1) If the bureau processing the request refers a record to another bureau or agency, that other bureau or agency will respond to you directly about that record. If the bureau processing the request consults with another bureau or agency, the bureau processing the request will respond to you directly.
 
-(2) Paragraphs (d) through (g) of this section address consultations and referrals that occur outside the Department when the bureau has responsive records.
+(2) If the bureau receives a request for records that another agency has classified under any applicable executive order concerning record classification, or that the bureau believes may be appropriate for classification by another agency, it will refer the request for those records to that agency for response.
 
-(3) Paragraph (h) of this section addresses what happens when the bureau has no responsive records but believes responsive records may be in the possession of a Federal agency outside the Department.
+(3) Whenever a bureau refers any part of the responsibility for responding to a request to another bureau or agency, it will:
 
-(b) If a bureau (other than the Office of Inspector General) receives a request for records in its possession that another bureau created or is substantially concerned with, it will either:
+(i) Document the referral;
 
-(1) Consult with the other bureau before deciding whether to release or withhold the records; or
+(ii) Maintain a copy of the referred record; and
 
-(2) Refer the request, along with the records, to that other bureau for direct response.
+(iii) Notify you in writing of the referral, including whether all or part of your request has been referred, the name of the bureau or agency to which the record was referred, and that bureau or agency's FOIA contact information.
 
-(c) The bureau that originally received the request will notify you of the referral in writing. When the bureau notifies you of the referral, it will tell you whether the referral was for part or all of your request and provide the name and contact information for the other bureau.
+(4) If disclosure of the identity of the agency to which the referral would be made could harm an interest protected by an applicable exemption, such as the exemption that protects ongoing law enforcement investigations, a referral would be inappropriate and the bureau will coordinate with the agency instead.
 
-(d) If, while responding to a request, the bureau locates records that originated with another Federal agency, it usually will refer the request and any responsive records to that other agency for a release determination and direct response.
+(c) When a bureau receives a referral, the bureau will assign the referral to the appropriate processing track as described in § 2.15 of this part and process it according to the date that the consulting or referring bureau or agency received your request as described in § 2.14 of this part.
 
-(e) If the bureau refers records to another agency, it will document the referral and maintain a copy of the records that it refers and notify you of the referral in writing, unless the notification will itself disclose a sensitive, exempt fact. When the bureau notifies you of the referral, it will tell you whether the referral was for part or all of your request and provide the name and contact information for the other agency. You may treat such a response as a denial of records and file an appeal, in accordance with the procedures in § 2.59 of this part.
+(d) Bureaus may establish written agreements with other bureaus or agencies to eliminate the need for consultations or referrals for particular types of records.
 
-(f) If the bureau locates records that originated with another Federal agency while responding to a request, the bureau will make the release determination itself (after consulting with the originating agency) when:
-
-(1) The record is of primary interest to the Department (for example, a record may be of primary interest to the Department if it was developed or prepared according to the Department's regulations or directives, or in response to a Departmental request);
-
-(2) The Department is in a better position than the originating agency to assess whether the record is exempt from disclosure;
-
-(3) The originating agency is not subject to the FOIA; or
-
-(4) It is more efficient or practical depending on the circumstances.
-
-(g) If the bureau receives a request for records that another Federal agency has classified under any applicable executive order concerning record classification, it must refer the request to that agency for response.
-
-(h) If the bureau receives a request for records not in its possession, but that the bureau believes may be in the possession of a Federal agency outside the Department, the bureau will return the request to you, may advise you to submit it directly to the agency, will notify you that the bureau cannot comply with the request, and will close the request. If you believe this response was in error, you may file an appeal in accordance with the procedures in § 2.59.
-
-[77 FR 76902, Dec. 31, 2012; 78 FR 6216, Jan. 30, 2013]
+[84 FR 61826, Nov. 14, 2019]

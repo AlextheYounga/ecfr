@@ -1,5 +1,7 @@
 ##### § 812.20 Application. #####
 
+Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
+
 (a) *Submission.* (1) A sponsor shall submit an application to FDA if the sponsor intends to use a significant risk device in an investigation, intends to conduct an investigation that involves an exception from informed consent under § 50.24 of this chapter, or if FDA notifies the sponsor that an application is required for an investigation.
 
 (2) A sponsor shall not begin an investigation for which FDA's approval of an application is required until FDA has approved the application.

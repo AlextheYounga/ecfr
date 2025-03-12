@@ -1,5 +1,7 @@
 ##### § 814.104 Original applications. #####
 
+Link to an amendment published at 84 FR 68340, Dec. 16, 2019.
+
 (a) *United States applicant or representative.* The applicant or an authorized representative shall sign the HDE. If the applicant does not reside or have a place of business within the United States, the HDE shall be countersigned by an authorized representative residing or maintaining a place of business in the United States and shall identify the representative's name and address.
 
 (b) *Contents.* Unless the applicant justifies an omission in accordance with paragraph (d) of this section, an HDE shall include:

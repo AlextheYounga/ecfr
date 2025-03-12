@@ -1,7 +1,5 @@
 ##### § 2.70 What definitions apply to subparts A through I of this part? #####
 
-Link to an amendment published at 84 FR 61829, Nov. 14, 2019.
-
 For the purposes of subparts A through I of this part, the following definitions apply:
 
 *Bureau* means any major component of the Department administering its own FOIA program. A list of these components is available at: *http://www.doi.gov/foia/contacts.*
@@ -18,7 +16,7 @@ For the purposes of subparts A through I of this part, the following definitions
 
 *Duplication* means reproducing a copy of a record or of the information contained in it necessary to respond to a FOIA request. Copies can take the form of paper, audiovisual materials, or electronic records, among others.
 
-*Educational institution* means any school that operates a program of scholarly research. In order to fall within this category, you must show that the request is authorized by and made under the auspices of, a qualifying institution and that the records are not sought for a commercial use, but rather are sought to further scholarly research.
+*Educational institution* means any school that operates a program of scholarly research. In order to fall within this category, you must show that the request is authorized by and made under the auspices of, a qualifying institution and that the records are not sought for a commercial use, but rather are sought to further scholarly research. Teachers (if they demonstrate how the requested records will further their teaching, scholarly research, or production of scholarly works) and students (if they demonstrate how the requested records will further their coursework or other school-sponsored activities) may also qualify as an educational institution for the purposes of this definition.
 
 *Exceptional circumstances* means a delay that does not result from a predictable workload of requests (unless the bureau demonstrates reasonable progress in reducing its backlog of pending requests).
 
@@ -36,7 +34,7 @@ For the purposes of subparts A through I of this part, the following definitions
 
 *Frequently requested records* means records that have been released to any person in response to a FOIA request and that have been requested, or that the bureau anticipates will be requested, at least two more times under the FOIA.
 
-*Multitrack processing* means placing simple requests, requiring relatively minimal review, in one processing track and more voluminous and complex requests in one or more other tracks. Requests in each track are ordinarily processed on a first-in/first-out basis.
+*Multitrack processing* means placing simple requests, requiring relatively minimal review, in one processing track and more voluminous and complex requests in one or more other tracks. Requests in each track are ordinarily processed on a first-in/first-out basis, but other factors, such as litigation, may affect the sequence and/or timing of processing.
 
 *Noncommercial scientific institution* means an institution that is not operated for commerce, trade or profit, and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. To be in this category, you must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are not sought for a commercial use but are sought to further scientific research.
 
@@ -52,7 +50,7 @@ For the purposes of subparts A through I of this part, the following definitions
 
 *Record* means an agency record that is either created or obtained by an agency and is under agency possession and control at the time of the FOIA request, or is maintained by an entity under Government contract for the purposes of records management.
 
-*Representative of the news media* means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. The term *news* as used in this definition means information that is about current events or that would be of current interest to the public. Examples of news media entities are newspapers, television, Web sites, or radio stations broadcasting to the public at large, and publishers of periodicals (but only if such entities qualify as disseminators of news) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all inclusive. As methods of news delivery evolve, alternative representatives of news media may come into being. A freelance journalist will qualify as a news-media entity if he or she can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by that entity (for example, a publication contract would present a solid basis for such an expectation).
+*Representative of the news media* means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. The term *news* as used in this definition means information that is about current events or that would be of current interest to the public. Simply distributing copies of released records, electronically or otherwise, does not qualify as using editorial skills to turn the raw materials into a distinct work. Examples of news media entities are newspapers, television, Web sites, or radio stations broadcasting to the public at large, and publishers of periodicals (but only if such entities qualify as disseminators of news) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all inclusive. As methods of news delivery evolve, alternative representatives of news media may come into being. A freelance journalist will qualify as a news-media entity if he or she can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by that entity (for example, a publication contract would present a solid basis for such an expectation).
 
 *Research data* means, for the purposes of § 2.69 of this subpart only, the recorded factual material commonly accepted in the scientific community as necessary to validate research findings, but not any of the following: preliminary analyses, drafts of scientific papers, plans for future research, peer reviews, or communications with colleagues. The term *recorded* as used in this definition excludes physical objects (e.g., laboratory samples). Research data also do not include:
 
@@ -72,4 +70,4 @@ For the purposes of subparts A through I of this part, the following definitions
 
 *You* means a person requesting records, or filing an appeal, under the FOIA.
 
-[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11131, Mar. 3, 2016]
+[77 FR 76906, Dec. 31, 2012, as amended at 81 FR 11131, Mar. 3, 2016; 84 FR 61829, Nov. 14, 2019]

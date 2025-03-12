@@ -1,5 +1,7 @@
 ##### § 240.17a-12 Reports to be made by certain OTC derivatives dealers. #####
 
+Link to an amendment published at 84 FR 68656, Dec. 16, 2019.
+
 (a) *Filing of quarterly reports.* (1) This paragraph (a) shall apply to every OTC derivatives dealer registered pursuant to Section 15 of the Act (15 U.S.C. 78o).
 
 (i) Every OTC derivatives dealer shall file Part IIB of Form X-17A-5 (§ 249.617 of this chapter) within 17 business days after the end of each calendar quarter and within 17 business days after the date selected for the annual audit of financial statements where said date is other than the end of the calendar quarter.

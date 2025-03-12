@@ -1,5 +1,7 @@
 ##### § 812.19 Address for IDE correspondence. #####
 
+Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
+
 (a) If you are sending an application, supplemental application, report, request for waiver, request for import or export approval, or other correspondence relating to matters covered by this part, you must send the submission to the appropriate address as follows:
 
 (1) For devices regulated by the Center for Devices and Radiological Health, send it to Food and Drug Administration, Center for Devices and Radiological Health, Document Mail Center, 10903 New Hampshire Ave., Bldg. 66, rm. G609, Silver Spring, MD 20993-0002.

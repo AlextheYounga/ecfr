@@ -52,7 +52,7 @@ Number of lines completedName of vesselVessel's official numberVessel's country 
 
 (2) Such activity is authorized by state law; and
 
-(3) The total number of dosage units of all controlled substances distributed by the pharmacy during any calendar year in which the pharmacy is registered to dispense does not exceed the limitations imposed upon such distribution by § 1307.11(a)(4) and (b) of this chapter.
+(3) The total number of dosage units of all controlled substances distributed by the pharmacy during any calendar year in which the pharmacy is registered to dispense does not exceed the limitations imposed upon such distribution by § 1307.11(a)(1)(iv) and (b) of this chapter.
 
 (g) Owners or operators of vessels, aircraft, or other entities described in this section shall not be deemed to possess or dispense any controlled substance acquired, stored and dispensed in accordance with this section. Additionally, owners or operators of vessels, aircraft, or other entities described in this section or in Article 32 of the Single Convention on Narcotic Drugs, 1961, or in Article 14 of the Convention on Psychotropic Substances, 1971, shall not be deemed to import or export any controlled substances purchased and stored in accordance with that section or applicable article.
 
@@ -60,4 +60,4 @@ Number of lines completedName of vesselVessel's official numberVessel's country 
 
 (i) Controlled substances acquired and possessed in accordance with this section shall be distributed only to persons under the general supervision of the medical officer employed by the owner or operator of the vessel, aircraft, or other entity, except in accordance with part 1317 of this chapter.
 
-[62 FR 13951, Mar. 24, 1997, as amended at 79 FR 53561, Sept. 9, 2014]
+[62 FR 13951, Mar. 24, 1997, as amended at 79 FR 53561, Sept. 9, 2014; 84 FR 68342, Dec. 16, 2019]

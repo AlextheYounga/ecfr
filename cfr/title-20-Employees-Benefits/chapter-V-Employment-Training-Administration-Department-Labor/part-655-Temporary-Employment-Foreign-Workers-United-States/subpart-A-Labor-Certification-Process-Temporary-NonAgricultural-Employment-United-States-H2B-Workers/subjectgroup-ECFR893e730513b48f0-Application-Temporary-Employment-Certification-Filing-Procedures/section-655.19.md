@@ -1,7 +1,5 @@
 ##### § 655.19 Job contractor filing requirements. #####
 
-Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
-
 (a) Provided that a job contractor and any employer-client are joint employers, a job contractor may submit an *Application for Temporary Employment Certification* on behalf of itself and that employer-client.
 
 (b) A job contractor must have separate contracts with each different employer-client. Each contract or agreement may support only one *Application for Temporary Employment Certification* for each employer-client job opportunity within a single area of intended employment.
@@ -12,6 +10,8 @@ Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
 
 (2) By signing the *Application for Temporary Employment Certification,* each employer independently attests to the conditions of employment required of an employer participating in the H-2B program and assumes full responsibility for the accuracy of the representations made in the application and for all of the responsibilities of an employer in the H-2B program.
 
+(e)(1) Either the job contractor or its employer-client may place the required job order and conduct recruitment as described in §§ 655.16 and 655.43 through 655.46. Also, either one of the joint employers may assume responsibility for interviewing applicants. However, both of the joint employers must sign the recruitment report that is submitted to the NPC with the *Application for Temporary Employment Certification,* ETA Form 9142B.
+
 (e)(1) Either the job contractor or its employer-client may place the required job order and conduct recruitment as described in § 655.16 and §§ 655.42 through 655.46. Also, either one of the joint employers may assume responsibility for interviewing applicants. However, both of the joint employers must sign the recruitment report that is submitted to the NPC with the *Application for Temporary Employment Certification,* ETA Form 9142B.
 
 (2) The job order and all recruitment conducted by joint employers must satisfy the content requirements identified in §§ 655.18 and 655.41. Additionally, in order to fully apprise applicants of the job opportunity and avoid potential confusion inherent in a job opportunity involving two employers, joint employer recruitment must clearly identify both employers (the job contractor and its employer-client) by name and must clearly identify the worksite location(s) where workers will perform labor or services.
@@ -21,3 +21,5 @@ Link to an amendment published at 84 FR 62446, Nov. 15, 2019.
 (ii) In addition, the advertisement must contain the following statement: “Applicants may apply for any or all of the jobs listed. When applying, please identify the job(s) (by company and work location) you are applying to for the entire period of employment specified.” If an applicant fails to identify one or more specific work location(s), that applicant is presumed to have applied to all work locations listed in the advertisement.
 
 (f) If an application for joint employers is approved, the NPC will issue one certification and send it to the job contractor. In order to ensure notice to both employers, a courtesy copy of the certification cover letter will be sent to the employer-client. (g) When submitting a certified *Application for Temporary Employment Certification* to USCIS, the job contractor should submit the complete ETA Form 9142B containing the original signatures of both the job contractor and employer-client.
+
+[42 FR 45899, Sept. 13, 1977, as amended at 84 FR 62446, Nov. 15, 2019]

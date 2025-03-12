@@ -1,5 +1,7 @@
 ##### § 807.90 Format of a premarket notification submission. #####
 
+Link to an amendment published at 84 FR 68339, Dec. 16, 2019.
+
 Each premarket notification submission pursuant to this part shall be submitted in accordance with this section. Each submission shall:
 
 (a)(1) For devices regulated by the Center for Devices and Radiological Health, be addressed to the Food and Drug Administration, Center for Devices and Radiological Health, Document Mail Center, 10903 New Hampshire Ave., Bldg. 66, rm. G609, Silver Spring, MD 20993-0002.
