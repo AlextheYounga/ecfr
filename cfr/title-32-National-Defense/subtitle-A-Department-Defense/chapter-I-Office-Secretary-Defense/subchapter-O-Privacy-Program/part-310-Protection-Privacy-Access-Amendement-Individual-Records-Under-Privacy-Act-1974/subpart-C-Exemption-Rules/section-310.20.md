@@ -1,7 +1,5 @@
 ##### § 310.20 Defense Intelligence Agency (DIA) exemptions. #####
 
-Link to an amendment published at 86 FR 31431, June 14, 2021.
-
 (a) All systems of records maintained by the Director Intelligence Agency shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive order to be kept secret in the interest of national defense or foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not specifically designated for exemption may contain isolated information which has been properly classified.
 
 (b) The Director, Defense Intelligence Agency, designated the systems of records listed below for exemptions under the specified provisions of the Privacy Act of 1974, as amended (Pub. L. 93-579).
@@ -32,33 +30,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (4) [Reserved]
 
-(5) *System identifier and name.* LDIA 10-0001, Equal Opportunity, Diversity and Alternate Dispute Resolution Records.
-
-(i) *Exemption.* Investigatory material compiled for law enforcement purposes, other than material within the scope of subsection 5 U.S.C. 552a(j)(2), may be exempt pursuant to 5 U.S.C. 552a(k)(2). However, if an individual is denied any right, privilege, or benefit for which he would otherwise be entitled by Federal law or for which he would otherwise be eligible, as a result of the maintenance of the information, the individual will be provided access to the information exempt to the extent that disclosure would reveal the identity of a confidential source.
-
-Note 1 to paragraph (b)(5)(i).
-
-When claimed, this exemption allows limited protection of investigative reports maintained in a system of records used in personnel or administrative actions. The specific sections of 5 U.S.C. 552a from which the system is to be exempted are 5 U.S.C. 552a (c)(3) and (c)(4), (d), (e)(1), (e)(2), (e)(3), (e)(4)(G), (H), and (I), (e)(5), (f), and (g).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2).
-
-(iii) *Reasons.* (A) From subsection (c)(3) because to grant access to an accounting of disclosures as required by the Privacy Act, including the date, nature, and purpose of each disclosure and the identity of the recipient, could alert the subject to the existence of the investigation or prospective interest by DIA or other agencies. This could seriously compromise case preparation by prematurely revealing its existence and nature; compromise or interfere with witnesses or make witnesses reluctant to cooperate; and lead to suppression, alteration, or destruction of evidence.
-
-(B) From subsections (c)(4), (d), and (f) because providing access to this information could result in the concealment, destruction or fabrication of evidence and jeopardize the safety and well being of informants, witnesses and their families, and law enforcement personnel and their families. Disclosure of this information could also reveal and render ineffectual investigative techniques, sources, and methods used by this component and could result in the invasion of privacy of individuals only incidentally related to an investigation. Investigatory material is exempt to the extent that the disclosure of such material would reveal the identity of a source who furnished the information to the Government under an express promise that the identity of the source would be held in confidence, or prior to September 27, 1975 under an implied promise that the identity of the source would be held in confidence. This exemption will protect the identities of certain sources that would be otherwise unwilling to provide information to the Government. The exemption of the individual's right of access to his/her records and the reasons therefore necessitate the exemptions of this system of records from the requirements of the other cited provisions.
-
-(C) From subsection (e)(1) because it is not always possible to detect the relevance or necessity of each piece of information in the early stages of an investigation. In some cases, it is only after the information is evaluated in light of other evidence that its relevance and necessity will be clear.
-
-(D) From subsection (e)(2) because collecting information to the fullest extent possible directly from the subject individual may or may not be practical in a criminal investigation.
-
-(E) From subsection (e)(3) because supplying an individual with a form containing a Privacy Act Statement would tend to inhibit cooperation by many individuals involved in a criminal investigation. The effect would be somewhat adverse to established investigative methods and techniques.
-
-(F) From subsections (e)(4)(G), (H), and (I) because it will provide protection against notification of investigatory material which might alert a subject to the fact that an investigation of that individual is taking place, and the disclosure of which would weaken the on-going investigation, reveal investigatory techniques, and place confidential informants in jeopardy who furnished information under an express promise that the sources' identity would be held in confidence (or prior to the effective date of the Act, under an implied promise). In addition, this system of records is exempt from the access provisions of subsection (d).
-
-(G) From subsection (e)(5) because the requirement that records be maintained with attention to accuracy, relevance, timeliness, and completeness would unfairly hamper the investigative process. It is the nature of law enforcement for investigations to uncover the commission of illegal acts at diverse stages. It is frequently impossible to determine initially what information is accurate, relevant, timely, and least of all complete. With the passage of time, seemingly irrelevant or untimely information may acquire new significance as further investigation brings new details to light.
-
-(H) From subsection (f) because the agency's rules are inapplicable to those portions of the system that are exempt and would place the burden on the agency of either confirming or denying the existence of a record pertaining to a requesting individual might in itself provide an answer to that individual relating to an on-going investigation. The conduct of a successful investigation leading to the indictment of a criminal offender precludes the applicability of established agency rules relating to verification of record, disclosure of the record to the individual and record amendment procedures for this record system.
-
-(I) From subsection (g) because this system of records should be exempt to the extent that the civil remedies relate to provisions of 5 U.S.C. 552a from which this rule exempts the system.
+(5) [Reserved]
 
 (6) *System identifier and name.* LDIA 10-0002, Foreign Intelligence and Counterintelligence Operation Records.
 
@@ -129,3 +101,5 @@ When claimed, this exemption allows limited protection of investigative reports 
 (ii) *Authority.* 5 U.S.C. 552a(k)(2) and (k)(5).
 
 (iii) *Reasons.* The reasons for asserting these exemptions are to ensure the integrity of an investigative or administrative process and to protect statistical records. The execution requires that information be provided in a free and open manner without fear of retribution or harassment in order to facilitate a just, thorough, and timely resolution during an investigation or administrative action. Disclosures from this system can enable individuals to conceal their wrongdoing or mislead the course of the investigation by concealing, destroying, or fabricating evidence or documents. In addition, disclosures can subject sources and witnesses to harassment or intimidation which may cause individuals to not to seek redress for concerns about occupational safety, health, environmental issues and accident reporting. Information is used to comply regulatory reporting requirements.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021]

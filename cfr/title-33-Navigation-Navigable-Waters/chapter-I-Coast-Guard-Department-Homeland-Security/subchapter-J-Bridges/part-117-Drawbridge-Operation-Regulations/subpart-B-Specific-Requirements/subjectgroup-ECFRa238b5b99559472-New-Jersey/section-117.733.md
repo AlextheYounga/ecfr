@@ -1,5 +1,7 @@
 ##### § 117.733 New Jersey Intracoastal Waterway. #####
 
+Link to an amendment published at 86 FR 46967, Aug. 23, 2021.
+
 (a) The draw of the Route 35 Bridge, mile 1.1 across Manasquan River at Brielle, shall open on signal except as follows:
 
 (1) From May 15 through September 30:

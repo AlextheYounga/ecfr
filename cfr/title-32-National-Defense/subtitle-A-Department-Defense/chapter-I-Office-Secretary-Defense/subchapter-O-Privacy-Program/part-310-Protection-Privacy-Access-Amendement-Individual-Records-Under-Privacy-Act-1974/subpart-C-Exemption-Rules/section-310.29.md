@@ -1,7 +1,5 @@
 ##### § 310.29 Office of the Secretary of Defense (OSD) exemptions. #####
 
-Link to an amendment published at 86 FR 31431, June 14, 2021.
-
 (a) *General information.* The Secretary of Defense designates those Office of the Secretary of Defense (OSD) systems of records which will be exempt from certain provisions of the Privacy Act. There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a system of records from all but a few requirements of the Act. The specific exemption authorizes exemption of a system of records or portion thereof, from only a few specific requirements. If an OSD Component originates a new system of records for which it proposes an exemption, or if it proposes an additional or new exemption for an existing system of records, it shall submit the recommended exemption with the records system notice as outlined in § 311.6. No exemption of a system of records shall be considered automatic for all records in the system. The systems manager shall review each requested record and apply the exemptions only when this will serve significant and legitimate Government purpose.
 
 (b) *General exemptions.* The general exemption provided by 5 U.S.C. 552a(j)(2) may be invoked for protection of systems of records maintained by law enforcement activities. Certain functional records of such activities are not subject to access provisions of the Privacy Act of 1974. Records identifying criminal offenders and alleged offenders consisting of identifying data and notations of arrests, the type and disposition of criminal charges, sentencing, confinement, release, parole, and probation status of individuals are protected from disclosure. Other records and reports compiled during criminal investigations, as well as any other records developed at any stage of the criminal law enforcement process from arrest to indictment through the final release from parole supervision are excluded from release.
@@ -14,33 +12,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (iii) *Reasons.* The Defense Protective Service is the law enforcement body for the jurisdiction of the Pentagon and immediate environs. The nature of certain records created and maintained by the DPS requires exemption from access provisions of the Privacy Act of 1974. The general exemption, 5 U.S.C. 552a(j)(2), is invoked to protect ongoing investigations and to protect from access, criminal investigation information contained in this record system, so as not to jeopardize any subsequent judicial or administrative process taken as a result of information contained in the file.
 
-(2) *System identifier and name.* JS006.CND, Department of Defense Counternarcotics C4I System.
-
-(i) *Exemption.* Portions of this system that fall within 5 U.S.C. 552a(j)(2) are exempt from the following provisions of 5 U.S.C. 552a, section (c)(3) and (4); (d)(1) through (d)(5); (e)(1) through (e)(3); (e)(4)(G) and (e)(4)(H); (e)(5); (f)(1) through (f)(5); (g)(1) through (g)(5) of the Act.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2).
-
-(iii) *Reasons.* (A) From subsection (c)(3) because the release of accounting of disclosure would inform a subject that he or she is under investigation. This information would provide considerable advantage to the subject in providing him or her with knowledge concerning the nature of the investigation and the coordinated investigative efforts and techniques employed by the cooperating agencies. This would greatly impede USSOUTHCOM's criminal law enforcement.
-
-(B) For subsections (c)(4) and (d) because notification would alert a subject to the fact that an investigation of that individual is taking place, and might weaken the on-going investigation, reveal investigatory techniques, and place confidential informants in jeopardy.
-
-(C) From subsections (e)(4)(G) and (H) because this system of records is exempt from the access provisions of subsection (d) pursuant to subsection (j).
-
-(D) From subsection (f) because the agency's rules are inapplicable to those portions of the system that are exempt and would place the burden on the agency of either confirming or denying the existence of a record pertaining to a requesting individual might in itself provide an answer to that individual relating to an on-going criminal investigation. The conduct of a successful investigation leading to the indictment of a criminal offender precludes the applicability of established agency rules relating to verification of record, disclosure of the record to that individual, and record amendment procedures for this record system.
-
-(E) For compatibility with the exemption claimed from subsection (f), the civil remedies provisions of subsection (g) must be suspended for this record system. Because of the nature of criminal investigations, standards of accuracy, relevance, timeliness and completeness cannot apply to this record system. Information gathered in criminal investigations is often fragmentary and leads relating to an individual in the context of one investigation may instead pertain to a second investigation.
-
-(F) From subsection (e)(1) because the nature of the criminal investigative function creates unique problems in prescribing a specific parameter in a particular case with respect to what information is relevant or necessary. Also, due to USSOUTHCOM's close liaison and working relationships with the other Federal, as well as state, local and foreign country law enforcement agencies, information may be received which may relate to a case under the investigative jurisdiction of another agency. The maintenance of this information may be necessary to provide leads for appropriate law enforcement purposes and to establish patterns of activity which may relate to the jurisdiction of other cooperating agencies.
-
-(G) From subsection (e)(2) because collecting information to the greatest extent possible directly from the subject individual may or may not be practicable in a criminal investigation. The individual may choose not to provide information and the law enforcement process will rely upon significant information about the subject from witnesses and informants.
-
-(H) From subsection (e)(3) because supplying an individual with a form containing a Privacy Act Statement would tend to inhibit cooperation by many individuals involved in a criminal investigation. The effect would be somewhat inimical to established investigative methods and techniques.
-
-(I) From subsection (e)(5) because the requirement that records be maintained with attention to accuracy, relevance, timeliness, and completeness would unfairly hamper the criminal investigative process. It is the nature of criminal law enforcement for investigations to uncover the commission of illegal acts at diverse stages. It is frequently impossible to determine initially what information is accurate, relevant, timely, and least of all complete. With the passage of time, seemingly irrelevant or untimely information may acquire new significant as further investigation brings new details to light.
-
-(J) From subsection (e)(8) because the notice requirements of this provision could present a serious impediment to criminal law enforcement by revealing investigative techniques, procedures, and existence of confidential investigations.
-
-(3)-(15) [Reserved]
+(2)-(15) [Reserved]
 
 (16) *System identifier and name.* DWHS E06, Enterprise Correspondence Control System (ECCS).
 
@@ -52,13 +24,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (c) *Specific exemptions:* All systems of records maintained by any OSD Component shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to subsection (k)(1) of that section to the extent that the system contains any information properly classified under Executive Order 11265, `National Security Information,' dated June 28, 552a(d) pursuant to subsection (k)(1) of that section to the extent that the system contains any information properly classified under E.O. 11265, `National Security Information,' dated June 28, 1979, as amended, and required by the Executive Order to be kept classified in the interest of national defense or foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not otherwise specifically designated for exemptions may contain isolated information which has been properly classified. The Secretary of Defense has designated the following OSD system of records described below specifically exempted from the appropriate provisions of the Privacy Act pursuant to the designated authority contained therein:
 
-(1) *System identifier and name.* DGC 16, Political Appointment Vetting Files.
-
-(i) *Exemption.* Portions of this system of records that fall within the provisions of 5 U.S.C. 552a(k)(5) may be exempt from the following subsections (d)(1) through (d)(5).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* From subsections (d)(1) through (d)(5) because the agency is required to protect the confidentiality of sources who furnished information to the Government under an expressed promise of confidentiality or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. This confidentiality is needed to maintain the Government's continued access to information from persons who otherwise might refuse to give it. This exemption is limited to disclosures that would reveal the identity of a confidential source.
+(1) [Reserved]
 
 (2) *System identifier and name.* DWHS P28, The Office of the Secretary of Defense Clearance File.
 
@@ -76,21 +42,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (iii) *Reasons.* This system of records is exempt from subsections (c)(3) and (d) of section 552a of 5 U.S.C. which would require the disclosure of investigatory material compiled solely for the purpose of determining access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an expressed promise that the identity of the source would be held in confidence, or prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. A determination will be made at the time of the request for a record concerning whether specific information would reveal the identity of a source. This exemption is required in order to protect the confidentiality of the sources of information compiled for the purpose of determining access to classified information. This confidentiality helps maintain the Government's continued access to information from persons who would otherwise refuse to give it.
 
-(4) *System identifier and name.* DWHS P32, Standards of Conduct Inquiry File.
-
-(i) *Exemption.* This system of records is exempted from subsections (c)(3) and (d) of 5 U.S.C. 552a, which would require the disclosure of: Investigatory material compiled for law enforcement purposes; or investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, or Federal contracts, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. If any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or otherwise be eligible, as a result of the maintenance of investigatory material compiled for law enforcement purposes, the material shall be provided to that individual, except to the extent that its disclosure would reveal the identity of a source who furnished information to the Government under an express promise or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. At the time of the request for a record, a determination will be made concerning whether a right, privilege, or benefit is denied or specific information would reveal the identity of a source.
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2) and (5).
-
-(iii) *Reasons.* These exemptions are necessary to protect the confidentiality of the records compiled for the purpose of: Enforcement of the conflict of interest statutes by the Department of Defense Standards of Conduct Counselor, General Counsel, or their designees; and determining suitability eligibility or qualifications for Federal civilian employment, military service or Federal contracts of those alleged to have violated or caused others to violate the Standards of Conduct regulations of the Department of Defense.
-
-(5) *System identifier and name.* DUSDP 02, Special Personnel Security Cases.
-
-(i) *Exemption.* All portions of this system which fall under 5 U.S.C. 552a(k)(5) are exempt from the following provisions of 5 U.S.C. 552a: (c)(3); (d).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* This system of records is exempt from subsections (c)(3) and (d) of 5 U.S.C. 552a which would require the disclosure of investigatory material compiled solely for the purpose of determining access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an expressed promise that the identity of the source would be held in confidence or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. A determination will be made at the time of the request for a record concerning whether specific information would reveal the identity of a source. This exemption is required in order to protect the confidentiality of the sources of information compiled for the purpose of determining access to classified information. This confidentiality helps maintain the Government's continued access to information from persons who would otherwise refuse to give it.
+(4)-(5) [Reserved]
 
 (6) *System identifier and name.* DODDS 02.0, Educator Application Files.
 
@@ -100,13 +52,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (iii) *Reasons.* It is imperative that the confidential nature of evaluation and investigatory material on teacher application files furnished the Department of Defense Dependent Schools (DoDDS) under promises of confidentiality be exempt from disclosure to the individual to insure the candid presentation of information necessary to make determinations involving applicants suitability for DoDDS teaching positions.
 
-(7) *System identifier and name.* DGC 20, DoD Presidential Appointee Vetting File.
-
-(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for federal civilian employment, military service, federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source. Portions of this system of records that may be exempt pursuant to 5 U.S.C. 552a(k)(5) are subsections (d)(1) through (d)(5).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* From (d)(1) through (d)(5) because the agency is required to protect the confidentiality of sources who furnished information to the Government under an expressed promise of confidentiality or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. This confidentiality is needed to maintain the Government's continued access to information from persons who otherwise might refuse to give it.
+(7) [Reserved]
 
 (8) *System identifier and name.* DWHS P29, Personnel Security Adjudications File.
 
@@ -168,13 +114,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (B) From (e)(1) because in the collection of information for investigatory purposes, it is not always possible to determine the relevance and necessity of particular information in the early stages of the investigation. In some cases, it is only after the information is evaluated in light of other information that its relevance and necessity becomes clear. Such information permits more informed decision making by the Department when making required suitability, eligibility, and qualification determinations.
 
-(15) *System identifier and name.* DCIFA 01, CIFA Operational and Analytical Records.
-
-(i) *Exemption.* This system of records is a compilation of information from other Department of Defense and U.S. Government systems of records. To the extent that copies of exempt records from those `other' systems of records are entered into this system, OSD hereby claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent (A) such provisions have been identified and an exemption claimed for the original record and (B) the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions are claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+(15) [Reserved]
 
 (16) *System identifier and name.* DMDC 15 DoD, Armed Services Military Accession Testing.
 
@@ -186,33 +126,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (B) From subsection (d)(1) when access to those portions of the Skill Qualification Test records would reveal the individual item responses and scoring keys. Disclosure of the individual item responses and scoring keys will compromise the objectivity and fairness of the test as well as the validity of future tests resulting in the Department being unable to use the testing battery as an individual assessment tool.
 
-(17) *System identifier and name.* DMDC 11, Investigative Records Repository.
-
-(i) *Exemption.* (A) Investigatory material compiled for law enforcement purposes may be exempt pursuant to 5 U.S.C. 552a(k)(2). However, if an individual is denied any right, privilege, or benefit for which he would otherwise be entitled by Federal law or for which he would otherwise be eligible, as a result of the maintenance of such information, the individual will be provided access to such information except to the extent that disclosure would reveal the identity of a confidential source.
-
-(B) Records maintained in connection with providing protective services to the President and other individuals under 18 U.S.C. 3506, may be exempt pursuant to 5 U.S.C. 552a(k)(3).
-
-(C) Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source.
-
-(D) Any portion of this system that falls under the provisions of 5 U.S.C. 552a(k)(2), (k)(3), or (k)(5) may be exempt from the following subsections of 5 U.S.C. 552(c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2), (k)(3), or (k)(5).
-
-(iii) *Reasons.* (A) From subsection (c)(3) because it will enable the Department to conduct certain investigations and relay law enforcement information without compromise of the information, protection of investigative techniques and efforts employed, and identities of confidential sources who might not otherwise come forward and who furnished information under an express promise that the sources' identity would be held in confidence (or prior to the effective date of the Act, under an implied promise).
-
-(B) From subsections (e)(1), (e)(4), (G), (H), and (I) because it will provide protection against notification of investigatory material including certain reciprocal investigations and counterintelligence information, which might alert a subject to the fact that an investigation of that individual is taking place, and the disclosure of which would weaken the on-going investigation, reveal investigatory techniques, and place confidential informants in jeopardy who furnished information under an express promise that the source's identity would be held in confidence (or prior to the effective date of the Act, under an implied promise).
-
-(C) From subsections (d) and (f) because requiring OSD to grant access to records and agency rules for access and amendment of records would unfairly impede the agency's investigation of allegations of unlawful activities. To require OSD to confirm or deny the existence of a record pertaining to a requesting individual may in itself provide an answer to that individual relating to an on-going investigation. The investigation of possible unlawful activities would be jeopardized by agency rules requiring verification of record, disclosure of the record to the subject, and record amendment procedures.
-
-(18) *System identifier and name.* DMDC 12 DoD, Joint Personnel Adjudication System (JPAS).
-
-(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source.
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* (A) From subsections (c)(3) and (d) when access to accounting disclosure and access to or amendment of records would cause the identity of a confidential source to be revealed. Disclosure of the source's identity not only will result in the Department breaching the promise of confidentiality made to the source but it will impair the Department's future ability to compile investigatory material for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, Federal contracts, or access to classified information. Unless sources can be assured that a promise of confidentiality will be honored, they will be less likely to provide information considered essential to the Department in making the required determinations.
-
-(B) From subsection (e)(1) because in the collection of information for investigatory purposes, it is not always possible to determine the relevance and necessity of particular information in the early stages of the investigation. It is only after the information is evaluated in light of other information that its relevance and necessity becomes clear. Such information permits more informed decision-making by the Department when making required suitability, eligibility, and qualification determinations.
+(17)-(18) [Reserved]
 
 (19) *System identifier and name.* DA&M 01, Civil Liberties Program Case Management System.
 
@@ -232,17 +146,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (F) From subsection (f) (agency rules for notifying subjects to the existence of records about them, for accessing and amending records, and for assessing fees) because the system is exempt from subsection (d) provisions regarding access and amendment of records by record subjects. Nevertheless, the Office of the Secretary of Defense has published agency rules concerning notification of a subject in response to his request if any system of records named by the subject contains a record pertaining to him and procedures by which the subject may access or amend the records. Notwithstanding exemption, the Office of the Secretary of Defense may determine it appropriate to satisfy a record subject's access request.
 
-(20) *System identifier and name.* DMDC 13 DoD, Defense Clearance and Investigations Index.
-
-(i) *Exemption.* Investigatory material compiled for law enforcement purposes may be exempt pursuant to 5 U.S.C. 552a(k)(2). However, if an individual is denied any right, privilege, or benefit for which he would otherwise be entitled by Federal law or for which he would otherwise be eligible, as a result of the maintenance of such information, the individual will be provided access to such information except to the extent that disclosure would reveal the identity of a confidential source. Any portion of this system that falls under the provisions of 5 U.S.C. 552a(k)(2) may be exempt from the following subjections of 5 U.S.C. 552a(c)(3); (d); (e)(1); (e)(4)(G), (H), and (I) and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2).
-
-(iii) *Reasons.* (A) From subsection (c)(3) because it will enable OSD components to conduct certain investigations and relay law enforcement information without compromise of the information, protection of investigative techniques and efforts employed, and identities of confidential sources who might not otherwise come forward and who furnished information under an express promise that the sources' identity would be held in confidence (or prior to the effective date of the Act, under an implied promise).
-
-(B) From subsections (e)(1), (e)(4)(G), (H), and (I) because it will provide protection against notification of investigatory material including certain reciprocal investigations and counterintelligence information, which might alert a subject to the fact that an investigation of that individual is taking place, and the disclosure of which would weaken the on-going investigation, reveal investigatory techniques, and place confidential informants in jeopardy who furnished information under an express promise that the sources' identity would be held in confidence (or prior to the effective date of the Act, under an implied promise).
-
-(C) From subsections (d) and (f) because requiring OSD to grant access to records and agency rules for access and amendment of records would unfairly impede the investigation of allegations of unlawful activities. To require OSD to confirm or deny the existence of a record pertaining to a requesting individual may in itself provide an answer to that individual relating to an ongoing investigation. The investigation of possible unlawful activities would be jeopardized by agency rules requiring verification of record, disclosure of the record to the subject, and record amendment procedures.
+(20) [Reserved]
 
 (21) *System identifier and name.* DWHS E05, Mandatory Declassification Review Files.
 
@@ -274,13 +178,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (H) From subsection (g) for compatibility with the exemption claimed from subsection (f), the civil remedies provisions of subsection (g) must be suspended for this record system. Because of the nature of criminal investigations, standards of accuracy, relevance, timeliness and completeness cannot apply to this record system. Information gathered in criminal investigations if often fragmentary and leads relating to an individual in the context of one investigation may instead pertain to a second investigation.
 
-(23) *System identifier and name.* DMDC 17 DoD, Continuous Evaluation Records for Personnel Security.
-
-(i) *Exemption.* In the course of carrying out records checks for continuous evaluation, exempt records from other systems of records may in turn become part of the case records maintained in this system. To the extent that copies of exempt records from those `other' systems of records are maintained into this system, OSD claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent that such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now maintained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy; to avoid interference during the conduct of criminal, civil, or administrative actions or investigations; to ensure protective services provided the President and others are not compromised; to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations; to preserve the confidentiality and integrity of Federal testing materials; and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+(23) [Reserved]
 
 (24) *System identifier and name.* DPFPA 06, Internal Affairs Records System.
 
@@ -346,15 +244,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (K) From subsection (g) to the extent that the system is exempt from other specific subsections of the Privacy Act.
 
-(27) *System identifier and name.* DMDC 24 DoD, Defense Information System for Security (DISS).
-
-(i) *Exemption.* Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source.
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(5).
-
-(iii) *Reasons.* (A) From subsections (c)(3) and (d) when access to accounting disclosure and access to or amendment of records would cause the identity of a confidential source to be revealed. Disclosure of the source's identity not only will result in the Department breaching the promise of confidentiality made to the source but it will impair the Department's future ability to compile investigatory material for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, Federal contracts, or access to classified information. Unless sources can be assured that a promise of confidentiality will be honored, they will be less likely to provide information considered essential to the Department in making the required determinations.
-
-(B) From subsection (e)(1) because in the collection of information for investigatory purposes, it is not always possible to determine the relevance and necessity of particular information in the early stages of the investigation. It is only after the information is evaluated in light of other information that its relevance and necessity becomes clear. Such information permits more informed decision-making by the Department when making required suitability, eligibility, and qualification determinations.
+(27) [Reserved]
 
 (28) *System identifier and name.* DMDC 18 DoD, Synchronized Predeployment and Operational Tracker Enterprise Suite (SPOT-ES) Records.
 
@@ -364,4 +254,4 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (iii) *Reasons.* From subsection 5 U.S.C. 552a(d) because granting access to information that is properly classified pursuant to E.O. 13526, as implemented by DoD Instruction 5200.01 and DoD Manual 5200.01, Volumes 1 and 3, may cause damage to the national security.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021; 86 FR 31431, June 14, 2021]

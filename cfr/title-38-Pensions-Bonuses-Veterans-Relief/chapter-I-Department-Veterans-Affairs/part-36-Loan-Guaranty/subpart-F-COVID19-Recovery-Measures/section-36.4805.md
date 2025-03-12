@@ -10,13 +10,13 @@
 
 (e)(1) Because VA will pay only one partial claim payment per guaranteed loan, and only one partial claim payment per veteran, a servicer must, when calculating the amount of partial claim payment to be paid by VA to the servicer, include the full amount of indebtedness that is necessary to bring the guaranteed loan current.
 
-(2) To bring the guaranteed loan current, servicers must include the full COVID-19 indebtedness, comprising -
+(2) To bring the guaranteed loan current, servicers must include the full COVID-19 indebtedness, comprising—
 
 (i) All scheduled but missed monthly payments of principal and interest; and
 
 (ii) As applicable, all scheduled but missed monthly escrow payments for real estate taxes and insurance premiums, or where the guaranteed loan documents do not provide for monthly escrowing, all payments the servicer made to real estate tax authorities and insurance providers, on the veteran's behalf, during the COVID-19 forbearance.
 
-(3) Also in bringing the guaranteed loan current, servicers must include -
+(3) Also in bringing the guaranteed loan current, servicers must include—
 
 (i) All scheduled monthly payments (comprising principal, interest, and escrow payments for real estate taxes and insurance premiums) due within 31 days of the date the servicer provides to the veteran the note and security instrument described in § 36.4806;
 
@@ -46,4 +46,4 @@
 
 (i) The servicer must not charge, or allow to be charged, to the veteran any fee in connection with the COVID-19 Veterans Assistance Partial Claim Payment program.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-XXXX)(Authority: 38 U.S.C. 3703(c), 3720, 3732)
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0889)(Authority: 38 U.S.C. 3703(c), 3720, 3732)[86 FR 28708, May 28, 2021, as amended at 86 FR 46983, Aug. 23, 2021]

@@ -1,7 +1,5 @@
 ##### § 310.16 Department of the Navy exemptions. #####
 
-Link to an amendment published at 86 FR 31431, June 14, 2021.
-
 (a) All systems of records maintained by the DON shall be exempt from the requirements of the access provision of the Privacy Act (5 U.S.C. 552a(d)) under the (k)(1) exemption, to the extent that the system contains information properly classified under E.O. 12958 and that is required by that E.O. to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein that contain isolated items of properly classified information.
 
 (1) *System identifier and name.* N01070-9, White House Support Program.
@@ -144,21 +142,7 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (iii) *Reasons.* Granting access to information in this system of records could result in the disclosure of classified material, or reveal the identity of a source who furnished information to the Government under an express or implied promise of confidentiality. Material will be screened to permit access to unclassified material and to information that will not disclose the identity of a confidential source.
 
-(12) *System identifier and name.* N05520-1, Personnel Security Eligibility Information System.
-
-(i) *Exemptions.* (A) Information specifically authorized to be classified under E.O. 12958, as implemented by DOD 5200.1-R, may be exempt pursuant to 5 U.S.C. 552a(k)(1).
-
-(B) Investigatory material compiled for law enforcement purposes may be exempt pursuant to 5 U.S.C. 552a(k)(2). However, if an individual is denied any right, privilege, or benefit for which he would otherwise be entitled by Federal law or for which he would otherwise be eligible, as a result of the maintenance of such information, the individual will be provided access to such information except to the extent that disclosure would reveal the identity of a confidential source.
-
-(C) Investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information may be exempt pursuant to 5 U.S.C. 552a(k)(5), but only to the extent that such material would reveal the identity of a confidential source.
-
-(D) Evaluation material used to determine potential for promotion in the Military Services may be exempt pursuant to 5 U.S.C. 552a(k)(7), but only to the extent that the disclosure of such material would reveal the identity of a confidential source.
-
-(E) Portions of this system of records are exempt from the following subsections of the Privacy Act: (c)(3), (d), (e)(4)(G) and (I), and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(1), (k)(2), (k)(5), and (k)(7).
-
-(iii) *Reasons.* Granting individuals access to information collected and maintained in this system of records could interfere with orderly investigations; result in the disclosure of classified material; jeopardize the safety of informants, witnesses, and their families; disclose investigative techniques; and result in the invasion of privacy of individuals only incidentally related to an investigation. Material will be screened to permit access to unclassified information that will not disclose the identity of sources who provide the information to the Government under an express or implied promise of confidentiality.
+(12) [Reserved]
 
 (13) *System identifier and name.* N05520-4, NCIS Investigative Files System.
 
@@ -353,3 +337,5 @@ Link to an amendment published at 86 FR 31431, June 14, 2021.
 (ii) *Authority.* 5 U.S.C. 552a(k)(5).
 
 (iii) *Reason.* The reason for asserting this exemption is ensure the integrity of the security and investigative material compiled for law enforcement purposes by the Department of the Navy and the Department of Defense.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021]

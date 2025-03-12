@@ -1,12 +1,12 @@
 ##### § 686.43 Obligation to repay the grant. #####
 
-(a)(1) The TEACH Grant amounts disbursed to the recipient will be converted into a Direct Unsubsidized Loan, with interest accruing from the date that each grant disbursement was made and be collected by the Secretary in accordance with the relevant provisions of subpart A of 34 CFR part 685 if -
+(a)(1) The TEACH Grant amounts disbursed to the recipient will be converted into a Direct Unsubsidized Loan, with interest accruing from the date that each grant disbursement was made and be collected by the Secretary in accordance with the relevant provisions of subpart A of 34 CFR part 685 if—
 
 (i) The grant recipient, regardless of enrollment status, requests that the TEACH Grant be converted into a Direct Unsubsidized Loan because he or she has decided not to teach in a qualified school or educational service agency, or not to teach in a high-need field, or for any other reason; or
 
 (ii) The grant recipient does not begin or maintain qualified employment within the timeframe that would allow that individual to complete the service obligation within the number of years required under § 686.12.
 
-(2) At least annually during the service obligation period under § 686.12, the Secretary notifies the grant recipient of -
+(2) At least annually during the service obligation period under § 686.12, the Secretary notifies the grant recipient of—
 
 (i) The terms and conditions that the grant recipient must meet to satisfy the service obligation;
 
@@ -30,7 +30,7 @@
 
 (5) Except as provided in paragraph (a)(8) of this section, if a grant recipient's TEACH Grant was converted to a Direct Unsubsidized Loan, the Secretary will reconvert the loan to a TEACH Grant based on documentation provided by the recipient or in the Secretary's records demonstrating that the recipient was satisfying the service obligation as described in § 686.12 or that the grant was converted to a loan in error.
 
-(6) If a grant recipient who requests reconsideration demonstrates to the satisfaction of the Secretary that a TEACH Grant was converted to a loan in error, the Secretary -
+(6) If a grant recipient who requests reconsideration demonstrates to the satisfaction of the Secretary that a TEACH Grant was converted to a loan in error, the Secretary—
 
 (i) Reconverts the loan to a TEACH Grant;
 
@@ -44,7 +44,7 @@
 
 (vi) Requests deletion of any derogatory information reported to the consumer reporting agencies related to the grant while it was in loan status and furnishes a statement confirming that the grant was converted to a loan in error that the recipient may provide to creditors until the recipient's credit history has been corrected.
 
-(7) If a grant recipient who requests reconsideration does not demonstrate to the satisfaction of the Secretary that a TEACH Grant was converted to a loan in error, the Secretary -
+(7) If a grant recipient who requests reconsideration does not demonstrate to the satisfaction of the Secretary that a TEACH Grant was converted to a loan in error, the Secretary—
 
 (i) Notifies the recipient that the loan cannot be converted to a TEACH Grant;
 
@@ -52,7 +52,7 @@
 
 (iii) Explains how the recipient may contact the Federal Student Aid Ombudsman if he or she continues to believe that the TEACH Grant was converted to a loan in error.
 
-(8) In the case of a grant recipient whose TEACH Grant was converted to a Direct Unsubsidized Loan in accordance with paragraph (a)(1)(i) of this section, the Secretary will reconvert the loan to a grant and restore the recipient's service obligation if -
+(8) In the case of a grant recipient whose TEACH Grant was converted to a Direct Unsubsidized Loan in accordance with paragraph (a)(1)(i) of this section, the Secretary will reconvert the loan to a grant and restore the recipient's service obligation if—
 
 (i) The grant recipient submits a request to the Secretary to reconvert the loan to a TEACH Grant;
 
@@ -64,10 +64,10 @@
 
 (b) A TEACH Grant that is converted to a loan, and is treated as a Direct Unsubsidized Loan, is not counted against the grant recipient's annual or aggregate loan limits under 34 CFR 685.203.
 
-(c) A grant recipient whose TEACH Grant has been converted to a Direct Unsubsidized Loan -
+(c) A grant recipient whose TEACH Grant has been converted to a Direct Unsubsidized Loan—
 
 (1) Enters a six-month grace period prior to entering repayment, and
 
 (2) Is eligible for all of the benefits of the Direct Loan Program.
 
-{85 FR 49827, Aug. 14, 2020]
+[85 FR 49827, Aug. 14, 2020]

@@ -1,5 +1,7 @@
 ##### § 71.5 Reporting points. #####
 
+Link to an amendment published at 86 FR 46963, Aug. 23, 2021.
+
 The reporting points listed in subpart H of FAA Order 7400.11E
 (incorporated by reference, see § 71.1) consist of geographic locations at which the position of an aircraft must be reported in accordance with part 91 of this chapter.
 

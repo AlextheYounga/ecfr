@@ -1,5 +1,7 @@
 ##### § 54.11 Requirement to remove and replace. #####
 
+Link to an amendment published at 86 FR 47022, Aug. 23, 2021.
+
 (a) Each Eligible Telecommunications Carrier receiving Universal Service Fund support must certify prior to receiving a funding commitment or support that it does not use covered communications equipment or services.
 
 (b) For purposes of paragraph (a) of this section, covered communications equipment or services means any communications equipment or service that is on the Covered list found in § 1.50002 of this chapter.

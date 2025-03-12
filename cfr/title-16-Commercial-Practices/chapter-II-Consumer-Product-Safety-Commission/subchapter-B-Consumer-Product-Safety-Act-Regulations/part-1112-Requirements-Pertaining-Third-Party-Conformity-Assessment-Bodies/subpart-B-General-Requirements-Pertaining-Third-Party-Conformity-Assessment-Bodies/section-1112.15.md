@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 86 FR 26658, May 17, 2021.Link to an amendment published at 86 FR 33071, June 23, 2021.
+Link to an amendment published at 86 FR 33071, June 23, 2021.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
@@ -204,7 +204,7 @@ Link to an amendment published at 86 FR 26658, May 17, 2021.Link to an amendment
 
 (42) 16 CFR part 1229, Safety Standard for Infant Bouncer Seats.
 
-(43) 16 CFR part 1232, Safety Standard for Children's Folding Chairs and Stools.
+(43) 16 CFR part 1232, Safety Standard for Children's Folding Chairs and Children's Folding Stools.
 
 (44) 16 CFR part 1231, Safety Standard for High Chairs.
 

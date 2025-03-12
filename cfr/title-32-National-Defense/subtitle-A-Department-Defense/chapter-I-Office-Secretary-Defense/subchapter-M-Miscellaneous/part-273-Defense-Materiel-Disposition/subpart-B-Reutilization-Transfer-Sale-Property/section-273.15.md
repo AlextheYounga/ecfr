@@ -928,7 +928,7 @@ Table 4 - NSNs With Radioactive Components
 
 (*iii*) Ensure all laws and regulations are properly met prior to initiating a transfer transaction. Use DoD Instruction 4160.28; 41 CFR chapters 101 and 102; 48 CFR subpart 9.4 and 48 CFR 45.602-1, 52.233-1, and 14.407 of the FAR, current edition; and 5 U.S.C. 552, Volume 11a, Chapter 5 of DoD 7000.14-R, and Office of Management and Budget Circular A-76, “Performance of Commercial Activities” (available at
 
-*http://www.whitehouse.gov/omb/circulars**\_a076\_a76\_incl\_tech\_correction*as governing documents.
+*http://www.whitehouse.gov/omb/circulars\_a076\_a76\_incl\_tech\_correction*) as governing documents.
 
 (*iv*) Comply with DLM 4000.25-1, since in-transit control requirements are not applicable to FCA turn-ins.
 

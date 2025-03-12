@@ -1,6 +1,6 @@
 ##### § 1.50004 Secure and Trusted Communications Networks Reimbursement Program. #####
 
-Link to an amendment published at 86 FR 2944, Jan. 13, 2021.
+Link to an amendment published at 86 FR 2944, Jan. 13, 2021.Link to an amendment published at 86 FR 47021, Aug. 23, 2021.
 
 (a) *Eligibility.* Providers of advanced communications service with two million or fewer customers are eligible to participate in the Reimbursement Program to reimburse such providers for costs reasonably incurred for the replacement, removal, and disposal of covered communications equipment or services if:
 

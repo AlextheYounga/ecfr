@@ -1,5 +1,7 @@
 ##### § 685.213 Total and permanent disability discharge. #####
 
+Link to an amendment published at 86 FR 46982, Aug. 23, 2021.
+
 (a) *General.* (1) A borrower's Direct Loan is discharged if the borrower becomes totally and permanently disabled, as defined in § 685.102(b), and satisfies the eligibility requirements in this section.
 
 (2) For a borrower who becomes totally and permanently disabled as described in paragraph (1) of the definition of that term in § 685.102(b), the borrower's loan discharge application is processed in accordance with paragraph (b) of this section.

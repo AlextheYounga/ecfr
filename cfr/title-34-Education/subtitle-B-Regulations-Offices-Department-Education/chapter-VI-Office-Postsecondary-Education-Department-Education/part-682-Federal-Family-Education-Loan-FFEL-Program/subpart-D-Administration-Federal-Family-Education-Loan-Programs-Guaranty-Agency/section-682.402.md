@@ -1,5 +1,7 @@
 ##### § 682.402 Death, disability, closed school, false certification, unpaid refunds, and bankruptcy payments. #####
 
+Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
+
 (a) *General.* (1) Rules governing the payment of claims based on filing for relief in bankruptcy, and discharge of loans due to death, total and permanent disability, attendance at a school that closes, false certification by a school of a borrower's eligibility for a loan, and unpaid refunds by a school are set forth in this section.
 
 (2) If a Consolidation loan was obtained jointly by a married couple, the amount of the Consolidation loan that is discharged if one of the borrowers dies or becomes totally and permanently disabled is equal to the portion of the outstanding balance of the Consolidation loan, as of the date the borrower died or became totally and permanently disabled, attributable to any of that borrower's loans that would have been eligible for discharge.
