@@ -22,6 +22,6 @@
 
 (d) *Removal of existing buildings.* Existing incompatible facilities must be removed by demolition or by relocation outside of the hazard area within 90 days of settlement of the property transaction. The FEMA Regional Administrator may grant an exception to this deadline only for a particular property based upon written justification if extenuating circumstances exist, but will specify a final date for removal.
 
-(e) *Deed Restriction.* The subrecipient, upon settlement of the property transaction, must record with the deed of the subject property notice of applicable land use restrictions and related procedures described in this part, consistent with FEMA model deed restriction language.
+(e) *Deed restriction.* The subrecipient, upon settlement of the property transaction, must record with the deed of the subject property notice of applicable land use restrictions and related procedures described in this part, consistent with FEMA model deed restriction language.
 
 [86 FR 50671, Sept. 10, 2021]

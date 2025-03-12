@@ -8,6 +8,4 @@
 
 (2) When a 100% evaluation can be assigned on another basis.
 
-(c) If left ventricular ejection fraction (LVEF) testing is not of record, evaluate based on the alternative criteria unless the examiner states that the LVEF test is needed in a particular case because the available medical information does not sufficiently reflect the severity of the veteran's cardiovascular disability.
-
-(Authority: 38 U.S.C. 1155)[71 FR 52460, Sept. 6, 2006, as amended at 86 FR 54093, Sept. 30, 2021]
+(Authority: 38 U.S.C. 1155)[71 FR 52460, Sept. 6, 2006, as amended at 86 FR 54093, Sept. 30, 2021; 86 FR 67654, Nov. 29, 2021]

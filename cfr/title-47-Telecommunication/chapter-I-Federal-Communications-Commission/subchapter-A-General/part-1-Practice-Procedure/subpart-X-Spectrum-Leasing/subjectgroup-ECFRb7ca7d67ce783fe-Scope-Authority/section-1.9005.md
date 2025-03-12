@@ -1,7 +1,5 @@
 ##### § 1.9005 Included services. #####
 
-Link to an amendment published at 86 FR 59869, Oct. 29, 2021.
-
 The spectrum leasing policies and rules of this subpart apply to the following services, which include Wireless Radio Services in which commercial or private licensees hold exclusive use rights and the Ancillary Terrestrial Component (ATC) of a Mobile Satellite Service:
 
 (a) The Paging and Radiotelephone Service (part 22 of this chapter);
@@ -82,10 +80,10 @@ The spectrum leasing policies and rules of this subpart apply to the following s
 
 (mm) The 3.7 GHz Service in the 3.7-3.98 GHz band;
 
-(nn) The 900 MHz Broadband Service (part 27 of this chapter);
+(nn) The 900 MHz Broadband Service (part 27 of this chapter); and
 
-(oo) The 4940-4990 MHz band (part 90 of this chapter); and
+(oo) [Reserved]
 
 (pp) The 3.45 GHz Service in the 3.45-3.55 GHz band (part 27 of this chapter).
 
-[69 FR 77551, Dec. 27, 2004, as amended at 71 FR 29815, May 24, 2006; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 76 FR 31259, May 31, 2011; 79 FR 596, Jan. 6, 2014; 79 FR 48533, Aug. 15, 2014; 81 FR 49065, July 26, 2016; 81 FR 79931, Nov. 14, 2016; 85 FR 22861, Apr. 23, 2020; 85 FR 43129, July 16, 2020; 85 FR 76479, Nov. 30, 2020; 86 FR 17942, Apr. 7, 2021]
+[69 FR 77551, Dec. 27, 2004, as amended at 71 FR 29815, May 24, 2006; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 76 FR 31259, May 31, 2011; 79 FR 596, Jan. 6, 2014; 79 FR 48533, Aug. 15, 2014; 81 FR 49065, July 26, 2016; 81 FR 79931, Nov. 14, 2016; 85 FR 22861, Apr. 23, 2020; 85 FR 43129, July 16, 2020; 85 FR 76479, Nov. 30, 2020; 86 FR 17942, Apr. 7, 2021; 86 FR 59869, Oct. 29, 2021]

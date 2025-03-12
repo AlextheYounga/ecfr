@@ -2,7 +2,7 @@
 
 (a) *General.* General policies for allowable costs for implementing awards and subawards are addressed in 2 CFR 200.101, 200.102, 200.400-200.476.
 
-(1) *Eligible management costs* - (i) *Recipient.* Recipients are eligible to receive management costs (direct and indirect administrative costs pursuant to 2 CFR part 200 Subpart E) consisting of a maximum of 10 percent of the planning and project activities awarded to the recipient, each fiscal year under FMA. These costs must be included in the application to FEMA.
+(1) *Eligible management costs*—(i) *Recipient.* Recipients are eligible to receive management costs (direct and indirect administrative costs pursuant to 2 CFR part 200 subpart E) consisting of a maximum of 10 percent of the planning and project activities awarded to the recipient, each fiscal year under FMA. These costs must be included in the application to FEMA.
 
 (ii) *Subrecipient.* Subapplicants may include a maximum of 5 percent of the total funds requested for their subapplication for management costs to support the implementation of their planning or project activity. These costs must be included in the subapplication to the recipient.
 
