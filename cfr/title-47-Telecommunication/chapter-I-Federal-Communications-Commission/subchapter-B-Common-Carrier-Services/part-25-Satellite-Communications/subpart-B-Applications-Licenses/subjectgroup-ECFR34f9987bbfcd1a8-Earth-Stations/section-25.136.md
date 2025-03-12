@@ -1,7 +1,5 @@
 ##### § 25.136 Earth Stations in the 24.75-25.25 GHz, 27.5-28.35 GHz, 37.5-40 GHz, 47.2-48.2, GHz and 50.4-51.4 GHz bands. #####
 
-Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
-
 (a) FSS is secondary to the Upper Microwave Flexible Use Service in the 27.5-28.35 GHz band. Notwithstanding that secondary status, an applicant for a license for a transmitting earth station in the 27.5-28.35 GHz band that meets one of the following criteria may be authorized to operate without providing interference protection to stations in the Upper Microwave Flexible Use Service:
 
 (1) The FSS licensee also holds the relevant Upper Microwave Flexible Use Service license(s) for the area in which the earth station generates a power flux density (PFD), at 10 meters above ground level, of greater than or equal to −77.6 dBm/m2/MHz;
@@ -104,4 +102,6 @@ Table 4 to Paragraph (e)(4)(ii)
 
 (g) Any earth station authorizations issued pursuant to paragraph (a)(4), (c), (d)(4), or (e)(4) of this section shall be conditioned upon operation being in compliance with the criteria contained in the applicable paragraph.
 
-[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018; 83 FR 34489, July 20, 2018; 84 FR 20819, May 13, 2019; 84 FR 47147, Sept. 9, 2019]
+(h) *Re-coordination.* An earth station licensed under this section that is brought into operation later than one year after the date of the license grant must be re-coordinated with UMFUS stations using the applicable processes in § 101.103(d) of this chapter. The earth station licensee must complete re-coordination within one year before its commencement of operation. The re-coordination should account for any demographic or geographic changes as well as changes to the earth station equipment or configuration. A re-coordination notice must be filed in IBFS before commencement of earth station operations.
+
+[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018; 83 FR 34489, July 20, 2018; 84 FR 20819, May 13, 2019; 84 FR 47147, Sept. 9, 2019; 86 FR 11887, Mar. 1, 2021]

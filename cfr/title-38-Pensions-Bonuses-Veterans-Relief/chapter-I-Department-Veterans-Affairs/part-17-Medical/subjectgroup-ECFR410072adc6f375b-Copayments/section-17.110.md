@@ -1,5 +1,7 @@
 ##### § 17.110 Copayments for medication. #####
 
+Link to an amendment published at 86 FR 52076, Sept. 20, 2021.
+
 (a) *General.* This section sets forth requirements regarding copayments for medications provided to veterans by VA. For purposes of this section, the term “medication” means prescription and over-the-counter medications, as determined by the Food and Drug Administration (FDA), but does not mean medical supplies, oral nutritional supplements, or medical devices. Oral nutritional supplements are commercially prepared nutritionally enhanced products used to supplement the intake of individuals who cannot meet nutrient needs by diet alone.
 
 (b) *Copayments.* (1) *Copayment amount.* Unless exempted under paragraph (c) of this section, a veteran is obligated to pay VA a copayment for each 30-day or less supply of medication provided by VA on an outpatient basis (other than medication administered during treatment).

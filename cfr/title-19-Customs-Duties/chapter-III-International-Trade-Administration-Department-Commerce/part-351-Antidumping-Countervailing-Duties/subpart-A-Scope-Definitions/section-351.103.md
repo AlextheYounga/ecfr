@@ -1,5 +1,7 @@
 ##### § 351.103 Central Records Unit and Administrative Protective Order and Dockets Unit. #####
 
+Link to an amendment published at 86 FR 52371, Sept. 20, 2021.
+
 (a) Enforcement and Compliance's Central Records Unit maintains a Public File Room in Room 7046, U.S. Department of Commerce, 14th Street and Constitution Avenue, NW., Washington, DC 20230. The office hours of the Public File Room are between 8:30 a.m. and 5 p.m. Eastern Time on business days. Among other things, the Central Records Unit is responsible for maintaining an official and public record for each antidumping and countervailing duty proceeding (see § 351.104).
 
 (b) Enforcement and Compliance's Administrative Protective Order and Dockets Unit (APO/Dockets Unit) is located in Room 18022, U.S. Department of Commerce, 14th Street and Constitution Avenue, NW., Washington, DC 20230. The office hours of the APO/Dockets Unit are between 8:30 a.m. and 5 p.m. Eastern Time on business days. Among other things, the APO/Dockets Unit is responsible for receiving submissions from interested parties, issuing administrative protective orders (APOs), maintaining the APO service list and the public service list as provided for in paragraph (d) of this section, releasing business proprietary information under APO, and conducting APO violation investigations. The APO/Dockets Unit also is the contact point for questions and concerns regarding claims for business proprietary treatment of information and proper public versions of submissions under § 351.105 and § 351.304.

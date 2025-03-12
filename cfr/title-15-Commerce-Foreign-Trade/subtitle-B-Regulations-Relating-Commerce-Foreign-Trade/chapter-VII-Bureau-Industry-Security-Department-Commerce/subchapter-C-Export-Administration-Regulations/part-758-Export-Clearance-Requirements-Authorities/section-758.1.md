@@ -1,7 +1,5 @@
 ##### § 758.1 The Electronic Export Information (EEI) filing to the Automated Export System (AES). #####
 
-Link to an amendment published at 86 FR 46595, Aug. 19, 2021.
-
 (a) The *Electronic Export Information (EEI) filing to the Automated Export System (AES).* The EEI is used by the Bureau of Census to collect trade statistics and by the Bureau of Industry and Security for export control purposes. The EEI collects basic information such as the names and addresses of the parties to a transaction; the Export Control Classification Number (ECCN) (when required), the Schedule B number or Harmonized Tariff Schedule of the United States (HTS) number, the description, quantity and value of the items exported; and the license authority for the export. The EEI is a statement to the United States Government that the transaction occurred as described.
 
 (b) *When is an EEI filing required to be filed in the AES.* Except when the export of items subject to the EAR is to take place electronically or in an otherwise intangible form, you must file EEI in the AES with the United States Government for items subject to the EAR, including exports by U.S. mail, in the following situations:
@@ -72,7 +70,7 @@ See the export clearance requirements for exports of firearms controlled under E
 
 (i) *Identifying end item firearms by manufacturer, model, caliber, and serial number in the EEI filing in AES.* For any export authorized under License Exception TMP or a BIS license authorizing a temporary export of items controlled under ECCNs 0A501.a or .b, or shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, in addition to any other required data for the associated EEI filing, you must report the manufacturer, model, caliber, and serial number of the exported items. The requirements of this paragraph (g)(4)(i) also apply to any other export authorized under a BIS license that includes a condition or proviso on the license requiring the submission of this information specified in paragraph (g) of this section when the EEI is filed in AES.
 
-(ii) *Identifying end item firearms by “items” level classification or other control descriptor in the EEI filing in AES.* For any export of items controlled under ECCNs 0A501.a or .b, or shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, in addition to any other required data for the associated EEI filing, you must include the six character ECCN classification (*i.e.,* 0A501.a, or 0A501.b), or for shotguns controlled under 0A502 the phrase “0A501 barrel length less than 18 inches” as the first text to appear in the Commodity description block in the EEI filing in AES. (*See* § 743.4(h) of the EAR for the use of this information for conventional arms reporting).
+(ii) *Identifying end item firearms by “items” level classification or other control descriptor in the EEI filing in AES.* For any export of items controlled under ECCNs 0A501.a or .b, or shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, in addition to any other required data for the associated EEI filing when an exporter will use the alternative submission method under § 743.4(h) for conventional arms reporting, you must include the items paragraph classification (*i.e.,* .a, or .b) for ECCN 0A501, or for shotguns controlled under 0A502 the letters “SB” for short barrel length less than 18 inches as the first text to appear in the Commodity description block in the EEI filing in AES. (*See* § 743.4(h) of the EAR for the use of this information for conventional arms reporting).
 
 Note 2 to paragraph (g)(4):
 
@@ -94,4 +92,4 @@ The Bureau of Census Foreign Trade Regulations impose additional requirements fo
 
 (i) *Filing the Electronic Export Information (EEI).* The EEI must be filed with the United States Government in the manner prescribed by the Bureau of Census Foreign Trade Regulations (15 CFR part 30).
 
-[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020]
+[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021]

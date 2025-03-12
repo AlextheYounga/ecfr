@@ -1,5 +1,7 @@
 ##### § 351.225 Scope rulings. #####
 
+Link to an amendment published at 86 FR 52374, Sept. 20, 2021.
+
 (a) *Introduction.* Issues arise as to whether a particular product is included within the scope of an antidumping or countervailing duty order or a suspended investigation. Such issues can arise because the descriptions of subject merchandise contained in the Department's determinations must be written in general terms. At other times, a domestic interested party may allege that changes to an imported product or the place where the imported product is assembled constitutes circumvention under section 781 of the Act. When such issues arise, the Department issues “scope rulings” that clarify the scope of an order or suspended investigation with respect to particular products. This section contains rules regarding scope rulings, requests for scope rulings, procedures for scope inquiries, and standards used in determining whether a product is within the scope of an order or suspended investigation.
 
 (b) *Self-initiation.* If the Secretary determines from available information that an inquiry is warranted to determine whether a product is included within the scope of an antidumping or countervailing duty order or a suspended investigation, the Secretary will initiate an inquiry, and will notify all parties on the Department's scope service list of its initiation of a scope inquiry.

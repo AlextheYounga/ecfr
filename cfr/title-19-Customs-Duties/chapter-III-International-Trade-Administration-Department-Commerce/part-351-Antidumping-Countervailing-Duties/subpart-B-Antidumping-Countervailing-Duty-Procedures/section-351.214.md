@@ -1,5 +1,7 @@
 ##### § 351.214 New shipper reviews under section 751(a)(2)(B) of the Act. #####
 
+Link to an amendment published at 86 FR 52371, Sept. 20, 2021.
+
 (a) *Introduction.* The URAA established a new procedure by which so-called “new shippers” can obtain their own individual dumping margin or countervailable subsidy rate on an expedited basis. In general, a new shipper is an exporter or producer that did not export, and is not affiliated with an exporter or producer that did export, to the United States during the period of investigation. This section contains rules regarding requests for new shipper reviews and procedures for conducting such reviews. In addition, this section contains rules regarding requests for expedited reviews by noninvestigated exporters in certain countervailing duty proceedings and procedures for conducting such reviews.
 
 (b) *Request for new shipper review* - (1) *Requirement of sale or export.* Subject to the requirements of section 751(a)(2)(B) of the Act and this section, an exporter or producer may request a new shipper review if it has exported, or sold for export, subject merchandise to the United States.

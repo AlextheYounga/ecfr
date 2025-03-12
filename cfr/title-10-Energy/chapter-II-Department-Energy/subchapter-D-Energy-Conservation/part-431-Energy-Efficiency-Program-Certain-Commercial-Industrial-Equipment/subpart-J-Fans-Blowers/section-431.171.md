@@ -1,0 +1,3 @@
+##### § 431.171 Purpose and scope. #####
+
+This subpart contains provisions regarding fans and blowers, pursuant to Part C of Title III of the Energy Policy and Conservation Act, as amended, 42 U.S.C. 6311-6317. This subpart does not cover “ceiling fans” as that term is defined and addressed in part 430 this chapter, nor does it cover “furnace fans” as that term is defined and addressed in part 430 of this chapter.

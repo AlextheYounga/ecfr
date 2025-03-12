@@ -1,7 +1,5 @@
 ##### § 10.320 Provider alert gateway requirements. #####
 
-Link to an amendment published at 86 FR 46790, Aug. 20, 2021.
-
 This section specifies the functions that each Participating Commercial Mobile Service provider is required to support and perform at its CMS provider gateways.
 
 (a) *General.* The CMS provider gateway must provide secure, redundant, and reliable connections to receive Alert Messages from the Federal alert gateway. Each CMS provider gateway must be identified by a unique IP address or domain name.
@@ -12,11 +10,11 @@ This section specifies the functions that each Participating Commercial Mobile S
 
 (d) *Geographic targeting.* The CMS provider gateway must determine whether the provider has elected to transmit an Alert Message within a specified alert area and, if so, map the Alert Message to an associated set of transmission sites.
 
-(e) *Message management* - (1) *Formatting.* The CMS provider gateway is not required to perform any formatting, reformatting, or translation of an Alert Message, except for transcoding a text, audio, video, or multimedia file into the format supported by mobile devices.
+(e) *Message management*—(1) *Formatting.* The CMS provider gateway is not required to perform any formatting, reformatting, or translation of an Alert Message, except for transcoding a text, audio, video, or multimedia file into the format supported by mobile devices.
 
 (2) Reception. The CMS provider gateway must support a mechanism to stop and start Alert Message deliveries from the Federal alert gateway to the CMS provider gateway.
 
-(3) Prioritization. The CMS provider gateway must process an Alert Message on a first in-first out basis except for Presidential Alerts, which must be processed before all non-Presidential alerts.
+(3) Prioritization. The CMS provider gateway must process an Alert Message on a first in-first out basis except for National Alerts, which must be processed before all non-National Alerts.
 
 (4) Distribution. A Participating CMS provider must deploy one or more CMS provider gateways to support distribution of Alert Messages and to manage Alert Message traffic.
 
@@ -27,8 +25,6 @@ This section specifies the functions that each Participating Commercial Mobile S
 (1) The information must be provided 30 days in advance of the date when the CMS provider begins to transmit WEA alerts.
 
 (2) Updates of any CMS provider profiles must be provided in writing at least 30 days in advance of the effective change date.
-
-Table 10.320(f) - CMSP Profile on Federal Alert Gateway
 
 |  Profile parameter   |   Parameter election    |                                                                 Description                                                                  |
 |----------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,4 +42,4 @@ Table 10.320(f) - CMSP Profile on Federal Alert Gateway
 
 (3) *Availability of logs.* Participating CMS Providers are required to make their alert logs available to the Commission and FEMA upon request. Participating CMS Providers are also required to make alert logs available to emergency management agencies that offer confidentiality protection at least equal to that provided by the federal Freedom of Information Act (FOIA) upon request, but only insofar as those logs pertain to Alert Messages initiated by that emergency management agency.
 
-[73 FR 43117, July 24, 2008, as amended at 78 FR 16808, Mar. 19, 2013; 81 FR 75725, Nov. 1, 2016]
+[73 FR 43117, July 24, 2008, as amended at 78 FR 16808, Mar. 19, 2013; 81 FR 75725, Nov. 1, 2016; 86 FR 46790, Aug. 20, 2021]

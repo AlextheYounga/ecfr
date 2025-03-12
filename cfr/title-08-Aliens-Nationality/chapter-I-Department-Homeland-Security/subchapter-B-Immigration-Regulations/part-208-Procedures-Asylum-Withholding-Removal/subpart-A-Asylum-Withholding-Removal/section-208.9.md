@@ -1,7 +1,5 @@
 ##### § 208.9 Procedure for interview before an asylum officer. #####
 
-Link to an amendment published at 86 FR 51781, Sept. 17, 2021.Link to an amendment published at 86 FR 51788, Sept. 17, 2021.
-
 (a) The Service shall adjudicate the claim of each asylum applicant whose application is complete within the meaning of § 208.3(c)(3) and is within the jurisdiction of the Service.
 
 (b) The asylum officer shall conduct the interview in a nonadversarial manner and, except at the request of the applicant, separate and apart from the general public. The purpose of the interview shall be to elicit all relevant and useful information bearing on the applicant's eligibility for asylum. At the time of the interview, the applicant must provide complete information regarding his or her identity, including name, date and place of birth, and nationality, and may be required to register this identity. The applicant may have counsel or a representative present, may present witnesses, and may submit affidavits of witnesses and other evidence.
@@ -20,11 +18,11 @@ Link to an amendment published at 86 FR 51781, Sept. 17, 2021.Link to an amendme
 
 (g) An applicant unable to proceed with the interview in English must provide, at no expense to the Service, a competent interpreter fluent in both English and the applicant's native language or any other language in which the applicant is fluent. The interpreter must be at least 18 years of age. Neither the applicant's attorney or representative of record, a witness testifying on the applicant's behalf, nor a representative or employee of the applicant's country of nationality, or if stateless, country of last habitual residence, may serve as the applicant's interpreter. Failure without good cause to comply with this paragraph may be considered a failure to appear for the interview for purposes of § 208.10.
 
-(h) *Asylum applicant interpreters.* For asylum interviews conducted between September 23, 2020 through September 20, 2021:
+(h) *Asylum applicant interpreters.* For asylum interviews conducted between September 21, 2021, through March 16, 2022:
 
 (1) Asylum applicants unable to proceed with the interview in English must use USCIS's telephonic interpreter services, so long as the applicant is fluent in one of the following languages: Akan, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Bengali, Burmese, Cantonese, Creole/Haitian Creole, Farsi-Afghani/Dari, Farsi-Iranian, Foo Chow/Fuzhou, French, Georgian, Gujarati, Hindi, Hmong, Hungarian, Indonesia/Bahasa, Konjobal, Korean, Kurdish, Lingala, Mam, Mandarin, Nepali, Pashto/Pushtu, Portuguese, Punjabi, Quiche/K'iche, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Swahili, Tagalog, Tamil, Tigrinya, Turkish, Twi, Ukrainian, Urdu, Uzbek, or Vietnamese.
 
-(i) If a USCIS interpreter is unavailable at the time of the interview, USCIS will reschedule the interview and attribute the interview delay to USCIS for the purposes of employment authorization pursuant to 8 CFR 208.7.
+(i) If a USCIS interpreter is unavailable, USCIS will either reschedule the interview and attribute the interview delay to USCIS for the purposes of employment authorization pursuant to § 208.7, or USCIS may, in its discretion, allow the applicant to provide an interpreter.
 
 (ii) Except as provided in paragraph (h)(1)(iii) of this section, if an applicant is fluent in a language listed in this paragraph (h)(1) but refuses to proceed with the USCIS interpreter in order to use his or her own interpreter, USCIS will consider this a failure without good cause to comply with this paragraph (h)(1). The applicant will be considered to have failed to appear for the interview for the purposes of 8 CFR 208.10.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 86 FR 51781, Sept. 17, 2021.Link to an amendme
 
 (2) [Reserved]
 
-[62 FR 10337, Mar. 6, 1997, as amended at 65 FR 76133, Dec. 6, 2000; 76 FR 53784, Aug. 29, 2011; 85 FR 38627, June 26, 2020; 85 FR 59660, Sept. 23, 2020; 86 FR 15076, Mar. 22, 2021]Effective Date Note:At 85 FR 59660, Sept. 23, 2020, § 208.9 was amended by adding paragraph (h), effective Sept. 23, 2020, through Mar. 22, 2021. At 86 FR 15076, Mar. 22, 2021, the expiration date for § 208.9(h) was extended to Sept. 20, 2021.
+[62 FR 10337, Mar. 6, 1997, as amended at 65 FR 76133, Dec. 6, 2000; 76 FR 53784, Aug. 29, 2011; 85 FR 38627, June 26, 2020; 85 FR 59660, Sept. 23, 2020; 86 FR 15076, Mar. 22, 2021; 86 FR 51788, Sept. 17, 2021]Effective Date Note:At 85 FR 59660, Sept. 23, 2020, § 208.9 was amended by adding paragraph (h), effective Sept. 23, 2020, through Mar. 22, 2021. At 86 FR 15076, Mar. 22, 2021, the expiration date for § 208.9(h) was extended to Sept. 20, 2021. At 86 FR 51788, Sept. 17, 2021, the paragraph was amended and the expiration date for § 208.9(h) was further extended to March 16, 2022.

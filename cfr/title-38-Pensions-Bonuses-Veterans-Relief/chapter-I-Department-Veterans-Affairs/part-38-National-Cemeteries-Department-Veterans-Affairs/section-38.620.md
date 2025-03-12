@@ -1,5 +1,7 @@
 ##### § 38.620 Persons eligible for burial. #####
 
+Link to an amendment published at 86 FR 52077, Sept. 20, 2021.
+
 The following is a list of those individuals who are eligible for burial in a national cemetery:
 
 (a) Any veteran (which for purposes of this section includes a person who died in the active military, naval, or air service).

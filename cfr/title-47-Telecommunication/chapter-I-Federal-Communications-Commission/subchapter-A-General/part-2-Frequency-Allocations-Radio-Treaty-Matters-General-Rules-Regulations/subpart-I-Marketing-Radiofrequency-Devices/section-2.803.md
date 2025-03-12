@@ -1,5 +1,7 @@
 ##### § 2.803 Marketing of radio frequency devices prior to equipment authorization. #####
 
+Link to an amendment published at 86 FR 52099, Sept. 20, 2021.
+
 (a) Marketing, as used in this section, includes sale or lease, or offering for sale or lease, including advertising for sale or lease, or importation, shipment, or distribution for the purpose of selling or leasing or offering for sale or lease.
 
 (b) *General rule.* No person may market a radio frequency device unless:

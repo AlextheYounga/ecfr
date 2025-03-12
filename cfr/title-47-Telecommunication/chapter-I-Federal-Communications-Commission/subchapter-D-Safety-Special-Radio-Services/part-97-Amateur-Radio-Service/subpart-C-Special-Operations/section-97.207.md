@@ -1,6 +1,6 @@
 ##### § 97.207 Space station. #####
 
-Link to an amendment published at 85 FR 52453, Aug. 25, 2020.
+Link to an amendment published at 85 FR 52453, Aug. 25, 2020.This amendment made effective Oct. 20, 2021 at 86 FR 52100, Sept. 20, 2021.
 
 (a) Any amateur station may be a space station. A holder of any class operator license may be the control operator of a space station, subject to the privileges of the class of operator license held by the control operator.
 

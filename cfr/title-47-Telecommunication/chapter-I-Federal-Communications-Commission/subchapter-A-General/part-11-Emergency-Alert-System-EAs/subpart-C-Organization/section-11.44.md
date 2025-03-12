@@ -1,3 +1,5 @@
-##### § 11.44 xxx #####
+##### § 11.44 Alert repetition. #####
 
-Link to an amendment published at 86 FR 46791, Aug. 20, 2021.
+An alert originator may “repeat” an alert by releasing the alert anew—*i.e.,* re-originating the alert—at least one minute subsequent to the time the message was initially released by the originator, as reflected in the repeat alert's JJJHHMM header code. Because alerts take time to activate across the EAS alert distribution chain, alert originators should consider an interval between the original and re-originated alert that is long enough to account for this process. If the re-originated alert is intended to reflect a valid time period consistent with the original, the valid time period code (the +TTTT header code identified in § 11.31(c)) set for the re-originated alert should be adjusted to account for the elapsed time between the original and re-originated alerts. Alert originators should be aware that repeating alerts routinely may cause alert fatigue among the public.
+
+[86 FR 46791, Aug. 20, 2021]

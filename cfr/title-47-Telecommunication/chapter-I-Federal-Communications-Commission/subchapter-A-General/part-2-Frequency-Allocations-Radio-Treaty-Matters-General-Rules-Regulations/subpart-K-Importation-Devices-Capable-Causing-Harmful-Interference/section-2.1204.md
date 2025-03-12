@@ -1,5 +1,7 @@
 ##### § 2.1204 Import conditions. #####
 
+Link to an amendment published at 86 FR 52100, Sept. 20, 2021.
+
 (a) Radio frequency devices may be imported only if one or more of these conditions are met:
 
 (1) The radio frequency device has been issued an equipment authorization by the FCC.

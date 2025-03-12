@@ -1,5 +1,7 @@
 ##### § 95.391 Manufacturing, importation, and sales of non-certified equipment prohibited. #####
 
+Link to an amendment published at 86 FR 52100, Sept. 20, 2021.
+
 No person shall manufacture, import, sell or offer for sale non-certified equipment for the Personal Radio Services. *See* § 302(b) of the Communications Act (47 U.S.C. 302a(b)). *See also* part 2, subpart I (§ 2.801 *et. seq.*) of this chapter for rules governing marketing of radiofrequency devices.
 
 (a) *Revoked or withdrawn certification.* In the event that the FCC revokes or withdraws a grant of equipment certification for a type of Personal Radio Service transmitter, the FCC will provide specific instructions and dates for cessation of manufacturing, importation and sales of the affected equipment.

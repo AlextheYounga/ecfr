@@ -1,5 +1,7 @@
 ##### § 351.305 Access to business proprietary information. #####
 
+Link to an amendment published at 86 FR 52384, Sept. 20, 2021.
+
 (a) *The administrative protective order.* The Secretary will place an administrative protective order on the record within two business days after the day on which a petition is filed or an investigation is self-initiated, within five business days after the day on which a request for a new shipper review is properly filed in accordance with §§ 351.214 and 351.303 or an application for a scope ruling is properly filed in accordance with §§ 351.225 and 351.303, within five business days after the day on which a request for a changed circumstances review is properly filed in accordance with §§ 351.216 and 351.303 or a changed circumstances review is self-initiated, or five business days after initiating any other segment of a proceeding. The administrative protective order will require the authorized applicant to:
 
 (1) Establish and follow procedures to ensure that no employee of the authorized applicant's firm releases business proprietary information to any person other than the submitting party, an authorized applicant, or an appropriate Department official identified in section 777(b) of the Act;

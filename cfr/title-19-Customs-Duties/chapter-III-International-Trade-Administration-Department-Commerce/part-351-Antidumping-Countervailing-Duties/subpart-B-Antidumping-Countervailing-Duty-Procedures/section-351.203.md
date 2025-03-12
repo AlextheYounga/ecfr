@@ -1,5 +1,7 @@
 ##### § 351.203 Determination of sufficiency of petition. #####
 
+Link to an amendment published at 86 FR 52371, Sept. 20, 2021.
+
 (a) *Introduction.* When a petition is filed under § 351.202, the Secretary must determine that the petition satisfies the relevant statutory requirements before initiating an antidumping or countervailing duty investigation. This section sets forth rules regarding a determination as to the sufficiency of a petition (including the determination that a petition is supported by the domestic industry), the deadline for making the determination, and the actions to be taken once the Secretary has made the determination.
 
 (b) *Determination of sufficiency* - (1) *In general.* Normally, not later than 20 days after a petition is filed, the Secretary, on the basis of sources readily available to the Secretary, will examine the accuracy and adequacy of the evidence provided in the petition and determine whether to initiate an investigation under section 702(c)(1)(A) or section 732(c)(1)(A) of the Act (whichever is applicable).
