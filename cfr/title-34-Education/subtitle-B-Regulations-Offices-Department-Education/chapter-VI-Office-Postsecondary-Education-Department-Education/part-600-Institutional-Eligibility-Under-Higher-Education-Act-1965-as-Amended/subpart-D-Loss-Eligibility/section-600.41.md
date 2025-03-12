@@ -1,12 +1,10 @@
 ##### § 600.41 Termination and emergency action proceedings. #####
 
-Link to an amendment published at 87 FR 66039, Nov. 1, 2022.
-
 (a) If the Secretary believes that a previously designated eligible institution as a whole, or at one or more of its locations, does not satisfy the statutory or regulatory requirements that define that institution as an eligible institution, the Secretary may—
 
 (1) Terminate the institution's eligibility designation in whole or as to a particular location—
 
-(i) Under the procedural provisions applicable to terminations contained in 34 CFR 668.81, 668.83, 668.86, 668.87, 668.88, 668.89, 668.90 (a)(1), (a)(4), and (c) through (f), and 668.91; or
+(i) Under the procedural provisions applicable to terminations contained in 34 CFR 668.81, 668.83, 668.86, 668.88, 668.89, 668.90(a)(1) and (4) and (c) through (f), and 668.91; or
 
 (ii) Under a show-cause hearing, if the institution's loss of eligibility results from—
 
@@ -70,4 +68,4 @@ Link to an amendment published at 87 FR 66039, Nov. 1, 2022.
 
 (3) If the basis for the loss of eligibility of a foreign graduate medical school is one or more annual pass rates on the U.S. Medical Licensing Examination below the threshold required in § 600.55(f)(1)(ii), the sole issue is whether one or more of the foreign medical school's pass rate or rates for the preceding calendar year fell below that threshold. For a foreign graduate medical school that opted to have the Educational Commission for Foreign Medical Graduates (ECFMG) calculate and provide the pass rates directly to the Secretary for the preceding calendar year as permitted under § 600.55(d)(2) in lieu of the foreign graduate medical school providing pass rate data to the Secretary under § 600.55(d)(1)(iii), the ECFMG's calculations of the school's rates are conclusive; and the presiding official has no authority to consider challenges to the computation of the rate or rates by the ECFMG.
 
-(Authority: 20 U.S.C. 1088, 1091, 1094, 1099a-3, and 1141)[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40623, July 29, 1998; 75 FR 67193, Nov. 1, 2010; 84 FR 58917, Nov. 1, 2019]
+(Authority: 20 U.S.C. 1088, 1091, 1094, 1099a-3, and 1141)[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40623, July 29, 1998; 75 FR 67193, Nov. 1, 2010; 84 FR 58917, Nov. 1, 2019; 87 FR 66039, Nov. 1, 2022]

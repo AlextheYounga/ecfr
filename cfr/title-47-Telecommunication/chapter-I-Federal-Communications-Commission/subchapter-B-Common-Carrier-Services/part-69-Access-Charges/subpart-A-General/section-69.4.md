@@ -1,7 +1,5 @@
 ##### § 69.4 Charges to be filed. #####
 
-Link to an amendment published at 88 FR 35764, June 1, 2023.
-
 (a) The end user charges for access service filed with this Commission shall include charges for the End User Common Line element, and for line port costs in excess of basic, analog service.
 
 (b) Except as provided in paragraphs (c), (e), and (h) of this section, and in § 69.118, the carrier's carrier charges for access service filed with this Commission shall include charges for each of the following elements:
@@ -74,6 +72,6 @@ Link to an amendment published at 88 FR 35764, June 1, 2023.
 
 (k) A non-price cap incumbent local exchange carrier may include a charge for the Consumer Broadband-Only Loop.
 
-(l) Notwithstanding paragraph (b)(5) of this section, a local exchange carrier engaged in Access Stimulation as defined in § 61.3(bbb) of this chapter or the Intermediate Access Provider it subtends may not bill an Interexchange Carrier as defined in § 61.3(bbb) of this chapter for terminating switched access tandem switching or terminating switched access tandem transport charges for any traffic between such local exchange carrier's terminating end office or equivalent and the associated access tandem switch.
+(l) Notwithstanding paragraph (b)(5) of this section, a competitive local exchange carrier or a rate-of-return local exchange carrier engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, the Intermediate Access Provider it subtends, or an Intermediate Access Provider that delivers traffic directly or indirectly to an IPES Provider engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, shall not bill an Interexchange Carrier, as defined in § 61.3(bbb) of this chapter, for interstate or intrastate terminating switched access tandem switching or terminating switched access tandem transport charges for any traffic between such competitive local exchange carrier's, such rate-of-return local exchange carrier's, or such IPES Provider's terminating end office or equivalent and the associated access tandem switch.
 
 [48 FR 43017, Sept. 21, 1983]Editorial Note:For Federal Register citations affecting § 69.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

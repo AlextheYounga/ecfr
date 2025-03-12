@@ -1,7 +1,5 @@
 ##### § 668.8 Eligible program. #####
 
-Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
-
 (a) *General.* An eligible program is an educational program that—
 
 (1) Is provided by a participating institution; and
@@ -152,6 +150,6 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (2) Has accreditation of distance education within the scope of its recognition.
 
-(n) For Title IV, HEA program purposes, *eligible program* includes a direct assessment program approved by the Secretary under § 668.10 and a comprehensive transition and postsecondary program approved by the Secretary under § 668.232.
+(n) *Other eligible programs.* For title IV, HEA program purposes, *eligible program* includes a direct assessment program approved by the Secretary under § 668.10, a comprehensive transition and postsecondary program approved by the Secretary under § 668.232, and an eligible prison education program under subpart P of this part.
 
 [59 FR 22421, Apr. 29, 1994]Editorial Note:For Federal Register citations affecting § 668.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

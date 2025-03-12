@@ -32,7 +32,7 @@
 
 (6) Itemizing all major equipment, facilities, and other resources to be furnished by each party to the joint venture, with a detailed schedule of cost or value of each, where practical. If a contract is indefinite in nature, such as an indefinite quantity contract or a multiple award contract where the level of effort or scope of work is not known, the joint venture must provide a general description of the anticipated major equipment, facilities, and other resources to be furnished by each party to the joint venture, without a detailed schedule of cost or value of each, or in the alternative, specify how the parties to the joint venture will furnish such resources to the joint venture once a definite scope of work is made publicly available;
 
-(7) Specifying the responsibilities of the parties with regard to negotiation of the contract, source of labor, and contract performance, including ways that the parties to the joint venture will ensure that the joint venture and the certified VOSB or SDVOSB partner(s) to the joint venture will meet the limitations on subcontracting requirements set forth in paragraph (b)(3) of this section, where practical. If a contract is indefinite in nature, such as an indefinite quantity contract or a multiple award contract where the level of effort or scope of work is not known, the joint venture must provide a general description of the anticipated responsibilities of the parties with regard to negotiation of the contract, source of labor, and contract performance, not including the ways that the parties to the joint venture will ensure that the joint venture and the certified VOSB or SDVOSB partner(s) to the joint venture will meet the limitations on subcontracting requirements set forth in paragraph (d) of this section, or in the alternative, specify how the parties to the joint venture will define such responsibilities once a definite scope of work is made publicly available;
+(7) Specifying the responsibilities of the parties with regard to negotiation of the contract, source of labor, and contract performance, including ways that the parties to the joint venture will ensure that the joint venture and the certified VOSB or SDVOSB partner(s) to the joint venture will meet the limitations on subcontracting requirements set forth in paragraph (d) of this section, where practical. If a contract is indefinite in nature, such as an indefinite quantity contract or a multiple award contract where the level of effort or scope of work is not known, the joint venture must provide a general description of the anticipated responsibilities of the parties with regard to negotiation of the contract, source of labor, and contract performance, not including the ways that the parties to the joint venture will ensure that the joint venture and the certified VOSB or SDVOSB partner(s) to the joint venture will meet the limitations on subcontracting requirements set forth in paragraph (d) of this section, or in the alternative, specify how the parties to the joint venture will define such responsibilities once a definite scope of work is made publicly available;
 
 (8) Obligating all parties to the joint venture to ensure performance of the VOSB or SDVOSB contract and to complete performance despite the withdrawal of any member;
 
@@ -46,7 +46,7 @@
 
 (d) *Limitations on subcontracting.* (1) For any VOSB or SDVOSB contract, including those between a protégé and a mentor authorized by § 125.9 of this chapter, the joint venture must perform the applicable percentage of work required by § 125.6 of this chapter.
 
-(2) The certified VOSB or SDVOSB partner(s) to the joint venture must perform at least 40% of the work performed by the joint venture, except that in the context of a joint venture between a prote´g´ VOSB or SDVOSB and its SBA-approved mentor the VOSB or SDVOSB protégé must individually perform at least 40% of the work performed by the joint venture.
+(2) The certified VOSB or SDVOSB partner(s) to the joint venture must perform at least 40% of the work performed by the joint venture, except that in the context of a joint venture between a protégé VOSB or SDVOSB and its SBA-approved mentor the VOSB or SDVOSB protégé must individually perform at least 40% of the work performed by the joint venture.
 
 (i) The work performed by the certified VOSB or SDVOSB partner(s) to a joint venture must be more than administrative or ministerial functions so that they gain substantive experience.
 
@@ -64,7 +64,7 @@
 
 (A) The parties have entered into a joint venture agreement that fully complies with paragraph (c) of this section;
 
-(B) The parties will perform the contract in compliance with the joint venture agreement and with the limitations on subcontracting requirements set forth in paragraph (e)(2)(i)(A) of this section.
+(B) The parties will perform the contract in compliance with the joint venture agreement and with the limitations on subcontracting requirements set forth in paragraph (d) of this section.
 
 (ii) Although the managing venturer must be a certified VOSB or SDVOSB as of the date of the joint venture's initial offer which includes price in order for the joint venture to qualify as an eligible VOSB or SDVOSB, the joint venture must meet the joint venture agreement requirements set forth in paragraph (c) of this section at the time the joint venture is identified as an apparent successful offeror.
 
@@ -78,16 +78,16 @@
 
 (1) The certified VOSB or SDVOSB partner to the joint venture must annually submit a report to the relevant contracting officer and to SBA, signed by an authorized official of each partner to the joint venture, explaining how and certifying that the performance of work requirements are being met.
 
-(2) At the completion of every VOSB or SDVOSB contract awarded to a joint venture, the certified VOSB or SDVOSB partner to the joint venture must submit a report to the relevant contracting officer and to SBA, signed by an authorized official of each partner to the joint venture, explaining how and certifying that the performance of work requirements were met for the contract, and further certifying that the contract was performed in accordance with the provisions of the joint venture agreement that are required under paragraph (b)(2) of this section.
+(2) At the completion of every VOSB or SDVOSB contract awarded to a joint venture, the certified VOSB or SDVOSB partner to the joint venture must submit a report to the relevant contracting officer and to SBA, signed by an authorized official of each partner to the joint venture, explaining how and certifying that the performance of work requirements were met for the contract, and further certifying that the contract was performed in accordance with the provisions of the joint venture agreement that are required under paragraph (c) of this section.
 
 (3) Any person with information concerning a joint venture's compliance with the performance of work requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
 (j) *Basis for suspension or debarment.* The Government may consider the following as a ground for suspension or debarment as a willful violation of a regulatory provision or requirement applicable to a public agreement or transaction:
 
-(1) Failure to enter a joint venture agreement that complies with paragraph (b)(2) of this section;
+(1) Failure to enter a joint venture agreement that complies with paragraph (c) of this section;
 
-(2) Failure to perform a contract in accordance with the joint venture agreement or limitations on subcontracting requirements in paragraph (b)(3) of this section; or
+(2) Failure to perform a contract in accordance with the joint venture agreement or limitations on subcontracting requirements in paragraph (d) of this section; or
 
-(3) Failure to submit the certification required by paragraph (b)(4) of this section or comply with paragraph (b)(7) of this section.
+(3) Failure to submit the certification required by paragraph (e) of this section or comply with paragraph (h) of this section.
 
-[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 88 FR 42593, July 3, 2023]

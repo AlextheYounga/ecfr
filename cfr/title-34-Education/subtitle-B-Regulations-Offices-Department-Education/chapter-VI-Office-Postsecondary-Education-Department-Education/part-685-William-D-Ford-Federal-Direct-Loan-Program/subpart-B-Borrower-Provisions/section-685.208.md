@@ -1,7 +1,5 @@
 ##### § 685.208 Repayment plans. #####
 
-Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
-
 (a) *General*—(1) *Borrowers who entered repayment before July 1, 2006.* (i) A Direct Subsidized Loan, a Direct Unsubsidized Loan, a Direct Subsidized Consolidation Loan, or a Direct Unsubsidized Consolidation Loan may be repaid under—
 
 (A) The standard repayment plan in accordance with paragraph (b) of this section;
@@ -162,10 +160,8 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (4) A borrower must repay a loan under an alternative repayment plan within 30 years of the date the loan entered repayment, not including periods of deferment and forbearance.
 
-(5) If the amount of a borrower's monthly payment under an alternative repayment plan is less than the accrued interest on the loan, the unpaid interest is capitalized until the outstanding principal amount is 10 percent greater than the original principal amount. After the outstanding principal amount is 10 percent greater than the original principal amount, interest continues to accrue but is not capitalized. For purposes of this paragraph, the original principal amount is the amount owed by the borrower when the borrower enters repayment.
-
 (m) *Income-based repayment plan.* (1) Under this repayment plan, the required monthly payment for a borrower who has a partial financial hardship is limited to no more than 15 percent or, for a new borrower as of July 1, 2014, as defined in § 685.221(a)(4), 10 percent of the amount by which the borrower's AGI exceeds 150 percent of the poverty guideline applicable to the borrower's family size, divided by 12. The Secretary determines annually whether the borrower continues to qualify for this reduced monthly payment based on the amount of the borrower's eligible loans, AGI, and poverty guideline.
 
 (2) The specific provisions governing the income-based repayment plan are in § 685.221.
 
-(Authority: 20 U.S.C. 1087a *et seq.*)[71 FR 45712, Aug. 9, 2006, as amended at 71 FR 64400, Nov. 1, 2006; 73 FR 63255, Oct. 23, 2008; 77 FR 66135, Nov. 1, 2012; 78 FR 65833, Nov. 1, 2013; 80 FR 67238, Oct. 30, 2015]
+(Authority: 20 U.S.C. 1087a *et seq.*)[71 FR 45712, Aug. 9, 2006, as amended at 71 FR 64400, Nov. 1, 2006; 73 FR 63255, Oct. 23, 2008; 77 FR 66135, Nov. 1, 2012; 78 FR 65833, Nov. 1, 2013; 80 FR 67238, Oct. 30, 2015; 87 FR 66058, Nov. 1, 2022]

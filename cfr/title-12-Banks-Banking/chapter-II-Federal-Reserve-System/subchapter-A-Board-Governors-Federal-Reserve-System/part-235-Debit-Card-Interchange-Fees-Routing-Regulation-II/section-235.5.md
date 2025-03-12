@@ -40,4 +40,4 @@
 
 (2) A fee imposed by the issuer for the first withdrawal per calendar month from an ATM that is part of the issuer's designated ATM network.
 
-[76 FR 43466, July 20, 2011, as amended at 85 FR 77362, Dec. 2, 2020]
+[Reg. II, 76 FR 43466, July 20, 2011, as amended at 85 FR 77362, Dec. 2, 2020]

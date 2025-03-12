@@ -1,7 +1,5 @@
 ##### § 682.414 Records, reports, and inspection requirements for guaranty agency programs. #####
 
-Link to an amendment published at 87 FR 66054, Nov. 1, 2022.
-
 (a) *Records.* (1)(i) The guaranty agency shall maintain current, complete, and accurate records of each loan that it holds, including, but not limited to, the records described in paragraph (a)(1)(ii) of this section. The records must be maintained in a system that allows ready identification of each loan's current status, updated at least once every 10 business days. Any reference to a guaranty agency under this section includes a third-party servicer that administers any aspect of the FFEL programs under a contract with the guaranty agency, if applicable.
 
 (ii) The agency shall maintain—
@@ -110,7 +108,7 @@ Link to an amendment published at 87 FR 66054, Nov. 1, 2022.
 
 (iv) The steps the agency has taken to ensure its compliance with § 682.410(c), including the identity of any law enforcement agency with which the agency has made arrangements for that purpose.
 
-(4) A report to the Secretary of the borrower's enrollment and loan status information, or any Title IV loan-related data required by the Secretary, by the deadline date established by the Secretary.
+(4) A report to the Secretary of the borrower's enrollment and loan status information, details related to the loans or borrower's deferments, forbearances, repayment plans, delinquency and contact information, or any title IV loan-related data required by the Secretary, by the deadline date established by the Secretary.
 
 (5) Any other information concerning its loan insurance program requested by the Secretary.
 
@@ -118,4 +116,4 @@ Link to an amendment published at 87 FR 66054, Nov. 1, 2022.
 
 (2) A guaranty agency shall require in its agreement with a lender or in its published rules or procedures that the lender or its agent give the Secretary or the Secretary's designee and the guaranty agency access to the lender's records for inspection and copying in order to verify the accuracy of the information provided by the lender pursuant to § 682.401(b) (12) and (13), and the right of the lender to receive or retain payments made under this part, or to permit the Secretary or the agency to enforce any right acquired by the Secretary or the agency under this part.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1082, 1087)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9120, Feb. 19, 1993; 59 FR 22455, 22489, Apr. 29, 1994; 59 FR 33358, June 28, 1994; 59 FR 34964, July 7, 1994; 61 FR 60493, Nov. 27, 1996; 64 FR 58632, Oct. 29, 1999; 64 FR 58963, Nov. 1, 1999; 65 FR 65621, Nov. 1, 2000; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 72 FR 62007, Nov. 1, 2007; 78 FR 65820, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1082, 1087)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9120, Feb. 19, 1993; 59 FR 22455, 22489, Apr. 29, 1994; 59 FR 33358, June 28, 1994; 59 FR 34964, July 7, 1994; 61 FR 60493, Nov. 27, 1996; 64 FR 58632, Oct. 29, 1999; 64 FR 58963, Nov. 1, 1999; 65 FR 65621, Nov. 1, 2000; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 72 FR 62007, Nov. 1, 2007; 78 FR 65820, Nov. 1, 2013; 87 FR 66054, Nov. 1, 2022]

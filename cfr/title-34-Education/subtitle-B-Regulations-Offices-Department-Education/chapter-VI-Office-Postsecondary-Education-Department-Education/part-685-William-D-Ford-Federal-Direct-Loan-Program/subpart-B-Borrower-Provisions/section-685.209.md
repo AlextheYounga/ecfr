@@ -1,7 +1,5 @@
 ##### § 685.209 Income-contingent repayment plans. #####
 
-Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
-
 (a) *Pay As You Earn repayment plan:* The Pay As You Earn repayment plan is an income-contingent repayment plan for eligible new borrowers.
 
 (1) *Definitions.* As used in this section, other than as expressly provided for in paragraph (c) of this section—
@@ -50,19 +48,9 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (iii) If the borrower's monthly payment amount is not sufficient to pay the accrued interest on the borrower's Direct Subsidized loan or the subsidized portion of a Direct Consolidation Loan, the Secretary does not charge the borrower the remaining accrued interest for a period not to exceed three consecutive years from the established repayment period start date on that loan under the Pay As You Earn repayment plan. Any period during which the Secretary has previously not charged the borrower accrued interest on an eligible loan under the income-based repayment plan or the Revised Pay As You Earn repayment plan counts toward the maximum three years of subsidy a borrower is eligible to receive under the Pay As You Earn repayment plan. On a Direct Consolidation Loan that repays loans on which the Secretary has not charged the borrower accrued interest, the three-year period includes the period for which the Secretary did not charge the borrower accrued interest on the underlying loans. This three-year period does not include any period during which the borrower receives an economic hardship deferment.
 
-(iv)(A) Except as provided in paragraph (a)(2)(iii) of this section, accrued interest is capitalized—
+(iv) If the borrower's monthly payment amount is not sufficient to pay any of the principal due, the payment of that principal is postponed until the borrower chooses to leave the Pay As You Earn repayment plan or no longer has a partial financial hardship.
 
-(*1*) When a borrower is determined to no longer have a partial financial hardship; or
-
-(*2*) At the time a borrower chooses to leave the Pay As You Earn repayment plan.
-
-(B)(*1*) The amount of accrued interest capitalized under paragraph (a)(2)(iv)(A)(*1*) of this section is limited to 10 percent of the original principal balance at the time the borrower entered repayment under the Pay As You Earn repayment plan.
-
-(*2*) After the amount of accrued interest reaches the limit described in paragraph (a)(2)(iv)(B)(*1*) of this section, interest continues to accrue, but is not capitalized while the borrower remains on the Pay As You Earn repayment plan.
-
-(v) If the borrower's monthly payment amount is not sufficient to pay any of the principal due, the payment of that principal is postponed until the borrower chooses to leave the Pay As You Earn repayment plan or no longer has a partial financial hardship.
-
-(vi) The repayment period for a borrower under the Pay As You Earn repayment plan may be greater than 10 years.
+(v) The repayment period for a borrower under the Pay As You Earn repayment plan may be greater than 10 years.
 
 (3) *Payment application and prepayment.* (i) The Secretary applies any payment made under the Pay As You Earn repayment plan in the following order:
 
@@ -220,7 +208,7 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (vi) If a borrower's monthly payment is calculated to be greater than $0 but less than or equal to $5.00, the amount payable by the borrower is $5.00.
 
-(vii) For purposes of the annual recalculation described in paragraph (b)(1)(v) of this section, after periods in which a borrower makes payments that are less than interest accrued on the loan, the payment amount is recalculated based upon unpaid accrued interest and the highest outstanding principal loan amount (including amount capitalized) calculated for that borrower while paying under the ICR plan.
+(vii) For purposes of the annual recalculation described in paragraph (b)(1)(v) of this section, after periods in which a borrower makes payments that are less than interest accrued on the loan, the payment amount is recalculated based upon unpaid accrued interest and the highest outstanding principal loan amount calculated for that borrower while paying under the ICR plan.
 
 (viii) For each calendar year, the Secretary publishes in the Federal Register a revised income percentage factor table reflecting changes based on inflation. This revised table is developed by changing each of the dollar amounts contained in the table by a percentage equal to the estimated percentage changes in the Consumer Price Index (as determined by the Secretary) between December 1995 and the December next preceding the beginning of such calendar year.
 
@@ -280,7 +268,7 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (*3*) Returns to the sender any payment received on a loan after loan forgiveness has been granted.
 
-(iv) *Limitation on capitalization of interest.* If the amount of a borrower's monthly payment is less than the accrued interest, the unpaid interest is capitalized until the outstanding principal amount is 10 percent greater than the original principal amount. After the outstanding principal amount is 10 percent greater than the original amount, interest continues to accrue but is not capitalized. For purposes of this paragraph, the original amount is the amount owed by the borrower when the borrower enters repayment.
+(iv) [Reserved]
 
 (v) *Notification of terms and conditions.* When a borrower elects or is required by the Secretary to repay a loan under the ICR plan, and for each subsequent year that the borrower remains on the plan, the Secretary sends the borrower a written notification that provides the terms and conditions of the plan, including—
 
@@ -378,11 +366,9 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (*3*) For a Direct Consolidation Loan, includes any period in which the underlying loans were repaid under the income-based repayment plan or the Pay As You Earn repayment plan.
 
-(iv) Any unpaid accrued interest is capitalized at the time a borrower leaves the REPAYE plan.
+(iv) If the borrower's monthly payment amount is not sufficient to pay any of the principal due, the payment of that principal is postponed until the borrower leaves the REPAYE plan.
 
-(v) If the borrower's monthly payment amount is not sufficient to pay any of the principal due, the payment of that principal is postponed until the borrower leaves the REPAYE plan.
-
-(vi) A borrower who no longer wishes to repay under the REPAYE plan may change to a different repayment plan in accordance with § 685.210(b). A borrower who changes to a different repayment plan in accordance with this paragraph or paragraph (c)(4)(vi)(C) of this section may return to the REPAYE plan pursuant to the requirements in paragraphs (c)(4)(vi)(D) and (E) of this section.
+(v) A borrower who no longer wishes to repay under the REPAYE plan may change to a different repayment plan in accordance with § 685.210(b). A borrower who changes to a different repayment plan in accordance with this paragraph or paragraph (c)(4)(vi)(C) of this section may return to the REPAYE plan pursuant to the requirements in paragraphs (c)(4)(vi)(D) and (E) of this section.
 
 (3) *Payment application and prepayment.* (i) The Secretary applies any payment made under the REPAYE plan in the following order:
 
@@ -420,7 +406,7 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (A) The date, no earlier than 35 days before the end of the borrower's annual payment period, by which the Secretary must receive all of the documentation described in paragraph (c)(4)(i) of this section (annual deadline); and
 
-(B) The consequences if the Secretary does not receive the information within 10 days following the annual deadline specified in the notice, as described in paragraphs (c)(2)(iv) and (c)(4)(v) of this section.
+(B) The consequences if the Secretary does not receive the information within 10 days following the annual deadline specified in the notice, as described in paragraph (c)(4)(v) of this section.
 
 (iv) If a borrower who is currently repaying under another repayment plan selects the REPAYE plan but does not provide the documentation described in paragraph (c)(4)(i)(A) or (B) of this section, the borrower remains on his or her current repayment plan.
 
@@ -524,4 +510,4 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 
 (*3*) Returns to the sender any payment received on a loan after loan forgiveness has been granted.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[77 FR 66136, Nov. 1, 2012, as amended at 80 FR 67238, Oct. 30, 2015; 81 FR 76081, Nov. 1, 2016]
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[77 FR 66136, Nov. 1, 2012, as amended at 80 FR 67238, Oct. 30, 2015; 81 FR 76081, Nov. 1, 2016; 87 FR 66058, Nov. 1, 2022]

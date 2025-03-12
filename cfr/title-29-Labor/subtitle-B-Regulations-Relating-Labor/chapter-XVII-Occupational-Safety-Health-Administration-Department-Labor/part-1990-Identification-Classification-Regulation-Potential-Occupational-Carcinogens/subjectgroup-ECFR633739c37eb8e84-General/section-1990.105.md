@@ -1,0 +1,3 @@
+##### § 1990.105 Advisory committees. #####
+
+The Secretary may appoint an Advisory Committee, pursuant to sections 6(b) and 7 of the Act, and 29 CFR part 1912, concerning any potential occupational carcinogen. The Secretary shall require the Advisory Committee to submit its recommendations to assist the Secretary in standard setting no later than ninety (90) days from the date of the Advisory Committee's appointment, unless extended by the Secretary for exceptional circumstances. If an Advisory Committee fails to file a timely report, the Secretary may proceed in standard setting activities without such a report.

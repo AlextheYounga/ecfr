@@ -1,6 +1,6 @@
 ##### § 128.102 What definitions are important in the Veteran Small Business Certification Program? #####
 
-*Applicant* means a firm applying for certification in the Veteran-Owned Small Business Contracting Program.
+*Applicant* means a firm applying for certification in the Veteran Small Business Certification Program.
 
 *Certification database* means the database of certified VOSBs and SDVOSBs eligible to participate in the Veteran Small Business Certification Program.
 
@@ -32,7 +32,7 @@
 
 *Service-connected* has the meaning given that term in 38 U.S.C. 101(16).
 
-*Service-disabled veteran* means a veteran who possesses either a valid disability rating letter issued by the Department of Veterans Affairs, establishing a service-connected rating between 0 and 100 percent, or a valid disability determination from the Department of Defense or is registered in the Beneficiary Identification and Records Locator Subsystem or successor system, maintained by Department of Veterans Affairs' Veterans Benefits Administration as a service-disabled veteran. Reservists or members of the National Guard disabled from a disease or injury incurred or aggravated in line of duty or while in training status also qualify.
+*Service-disabled veteran* means a veteran who is registered in the Beneficiary Identification and Records Locator Subsystem or successor system, maintained by Department of Veterans Affairs' Veterans Benefits Administration as a service-disabled veteran.
 
 *Service-Disabled Veteran-Owned Small Business Concern (SDVOSB)* means a small business concern that meets the requirements described in § 128.200(b).
 
@@ -51,3 +51,5 @@
 *Veterans Affairs Acquisition Regulation (VAAR)* is the set of rules, located at 48 CFR chapter 8, that specifically govern requirements exclusive to VA prime and subcontracting actions.
 
 *Veteran-Owned Small Business Concern (VOSB)* means a small business concern that meets the requirements described in § 128.200(a).
+
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 42592, July 3, 2023]

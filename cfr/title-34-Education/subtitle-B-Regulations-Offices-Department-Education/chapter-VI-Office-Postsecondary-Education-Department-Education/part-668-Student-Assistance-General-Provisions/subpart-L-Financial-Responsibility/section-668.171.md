@@ -1,7 +1,5 @@
 ##### § 668.171 General. #####
 
-Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
-
 (a) *Purpose.* To begin and to continue to participate in any title IV, HEA program, an institution must demonstrate to the Secretary that it is financially responsible under the standards established in this subpart. As provided under section 498(c)(1) of the HEA, the Secretary determines whether an institution is financially responsible based on the institution's ability to—
 
 (1) Provide the services described in its official publications and statements;
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 (3) The institution's State licensing or authorizing agency notified the institution that it has violated a State licensing or authorizing agency requirement and that the agency intends to withdraw or terminate the institution's licensure or authorization if the institution does not take the steps necessary to come into compliance with that requirement;
 
-(4) For its most recently completed fiscal year, a proprietary institution did not receive at least 10 percent of its revenue from sources other than title IV, HEA program funds, as provided under § 668.28(c);
+(4) For its most recently completed fiscal year, a proprietary institution did not receive at least 10 percent of its revenue from sources other than Federal funds, as provided under § 668.28(c);
 
 (5) As calculated by the Secretary, the institution has high annual dropout rates; or
 
@@ -114,7 +112,7 @@ Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 (vi) For a State agency notice relating to terminating an institution's licensure or authorization under paragraph (d)(3) of this section, 10 days after the date on which the institution receives that notice; and
 
-(vii) For the non-title IV revenue provision in paragraph (d)(4) of this section, no later than 45 days after the end of the institution's fiscal year, as provided in § 668.28(c)(3).
+(vii) For the non-Federal revenue provision in paragraph (d)(4) of this section, no later than 45 days after the end of the institution's fiscal year, as provided in § 668.28(c)(4).
 
 (2) The Secretary may take an administrative action under paragraph (i) of this section against an institution, or determine that the institution is not financially responsible, if it fails to provide timely notice to the Secretary as provided under paragraph (f)(1) of this section, or fails to respond, within the timeframe specified by the Secretary, to any determination made, or request for information, by the Secretary under paragraph (f)(3) of this section.
 
@@ -156,4 +154,4 @@ Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 (3) Deny the institution's application for certification or recertification to participate in the title IV, HEA programs.
 
-[84 FR 49911, Sept. 23, 2019, as amended at 85 FR 54818, Sept. 2, 2020]
+[84 FR 49911, Sept. 23, 2019, as amended at 85 FR 54818, Sept. 2, 2020; 87 FR 65495, Oct. 28, 2022]

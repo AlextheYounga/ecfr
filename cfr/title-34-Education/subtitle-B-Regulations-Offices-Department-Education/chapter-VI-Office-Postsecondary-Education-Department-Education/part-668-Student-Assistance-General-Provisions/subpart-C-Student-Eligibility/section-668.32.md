@@ -1,7 +1,5 @@
 ##### § 668.32 Student eligibility—general. #####
 
-Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
-
 A student is eligible to receive Title IV, HEA program assistance if the student either meets all of the requirements in paragraphs (a) through (m) of this section or meets the requirement in paragraph (n) of this section as follows:
 
 (a)(1) (i) Is a regular student enrolled, or accepted for enrollment, in an eligible program at an eligible institution;
@@ -22,7 +20,7 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (B) Is enrolled in a postbaccalaureate teacher certificate or licensing program as described in 34 CFR 690.6(c); and
 
-(ii) Is not incarcerated in a Federal or State penal institution;
+(ii) If the student is a confined or incarcerated individual as defined in 34 CFR 600.2, is enrolled in an eligible prison education program as defined in § 668.236;
 
 (3) For purposes of the Federal Perkins Loan, FFEL, and Direct Loan programs, is not incarcerated; and
 
@@ -96,4 +94,4 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (n) Is enrolled in a comprehensive transition and postsecondary program under subpart O of this part and meets the student eligibility criteria in that subpart.
 
-(Authority: 20 U.S.C. 1070g, 1091; 28 U.S.C. 3201(e))[60 FR 61810, Dec. 1, 1995, as amended at 63 FR 40624, July 29, 1998; 64 FR 57358, Oct. 22, 1999; 64 FR 58291, Oct. 28, 1999; 67 FR 67073, Nov. 1, 2002; 71 FR 38002, July 3, 2006; 71 FR 45696, Aug. 9, 2006; 73 FR 35493, June 23, 2008; 74 FR 20221, May 1, 2009; 74 FR 55942, Oct. 29, 2009; 75 FR 66952, Oct. 29, 2010]
+[60 FR 61810, Dec. 1, 1995, as amended at 63 FR 40624, July 29, 1998; 64 FR 57358, Oct. 22, 1999; 64 FR 58291, Oct. 28, 1999; 67 FR 67073, Nov. 1, 2002; 71 FR 38002, July 3, 2006; 71 FR 45696, Aug. 9, 2006; 73 FR 35493, June 23, 2008; 74 FR 20221, May 1, 2009; 74 FR 55942, Oct. 29, 2009; 75 FR 66952, Oct. 29, 2010; 87 FR 65495, Oct. 28, 2022]

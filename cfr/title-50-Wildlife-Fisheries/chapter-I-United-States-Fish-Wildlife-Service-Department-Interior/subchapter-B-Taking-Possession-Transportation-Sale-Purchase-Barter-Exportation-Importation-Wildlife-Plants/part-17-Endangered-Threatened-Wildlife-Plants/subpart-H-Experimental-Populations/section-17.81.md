@@ -1,5 +1,7 @@
 ##### § 17.81 Listing. #####
 
+Link to an amendment published at 88 FR 42651, July 3, 2023.
+
 (a) The Secretary may designate as an experimental population a population of endangered or threatened species that has been or will be released into suitable natural habitat outside the species' current natural range (but within its probable historic range, absent a finding by the Director in the extreme case that the primary habitat of the species has been unsuitably and irreversibly altered or destroyed), subject to the further conditions specified in this section; *provided,* that all designations of experimental populations must proceed by regulation adopted in accordance with 5 U.S.C. 553 and the requirements of this subpart.
 
 (b) Before authorizing the release as an experimental population of any population (including eggs, propagules, or individuals) of an endangered or threatened species, and before authorizing any necessary transportation to conduct the release, the Secretary must find by regulation that such release will further the conservation of the species. In making such a finding the Secretary shall utilize the best scientific and commercial data available to consider:

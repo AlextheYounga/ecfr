@@ -1,0 +1,3 @@
+##### § 668.234 Scope and purpose. #####
+
+This subpart establishes regulations that apply to an institution that offers prison education programs to confined or incarcerated individuals. A confined or incarcerated individual enrolled in an eligible prison education program is eligible for Federal financial assistance under the Federal Pell Grant program. Unless provided in this subpart, confined or incarcerated individuals and institutions that offer prison education programs are subject to the same regulations and procedures that otherwise apply to title IV, HEA program participants.

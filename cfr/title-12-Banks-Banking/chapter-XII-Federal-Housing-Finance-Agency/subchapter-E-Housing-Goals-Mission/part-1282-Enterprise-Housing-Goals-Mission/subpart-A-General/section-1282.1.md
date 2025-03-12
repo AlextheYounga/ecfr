@@ -1,7 +1,5 @@
 ##### § 1282.1 Definitions. #####
 
-Link to an amendment published at 88 FR 23563, Apr. 18, 2023.
-
 (a) *Statutory terms.* All terms defined in the Safety and Soundness Act are used in accordance with their statutory meaning unless otherwise defined in paragraph (b) of this section.
 
 (b) *Other terms.* As used in this part, the term:
@@ -23,6 +21,8 @@ Link to an amendment published at 88 FR 23563, Apr. 18, 2023.
 *Charter Act* means the Fannie Mae Charter Act, as amended, or the Freddie Mac Act, as amended.
 
 *Colonia,* for purposes of subpart C of this part, means an identifiable community that meets the definition of a colonia under a federal, State, tribal, or local program.
+
+*Colonia census tract,* for purposes of subpart C of this part, means a census tract that contains a colonia.
 
 *Community development financial institution,* for purposes of subpart C of this part, has the meaning in 12 CFR 1263.1.
 
@@ -78,7 +78,7 @@ Link to an amendment published at 88 FR 23563, Apr. 18, 2023.
 
 (ii) The Lower Mississippi Delta;
 
-(iii) A colonia; or
+(iii) A colonia census tract; or
 
 (iv) A tract located in a persistent poverty county and not included in Middle Appalachia, the Lower Mississippi Delta, or a colonia.
 
@@ -220,7 +220,11 @@ Link to an amendment published at 88 FR 23563, Apr. 18, 2023.
 
 (i) A census tract outside of a metropolitan statistical area as designated by the Office of Management and Budget; or
 
-(ii) A census tract in a metropolitan statistical area as designated by the Office of Management and Budget that is outside of the metropolitan statistical area's Urbanized Areas as designated by the U.S. Department of Agriculture's (USDA) Rural-Urban Commuting Area (RUCA) Code #1, and outside of tracts with a housing density of over 64 housing units per square mile for USDA's RUCA Code #2.
+(ii) A census tract in a metropolitan statistical area as designated by the Office of Management and Budget that is:
+
+(A) Outside of the metropolitan statistical area's Urbanized Areas as designated by the U.S. Department of Agriculture's (USDA) Rural-Urban Commuting Area (RUCA) Code #1, and outside of tracts with a housing density of over 64 housing units per square mile for USDA's RUCA Code #2; or
+
+(B) A colonia census tract that does not satisfy paragraphs (i) or (ii)(A) of this definition.
 
 *Seasoned mortgage* means a mortgage on which the date of the mortgage note is more than 1 year before the Enterprise purchased the mortgage.
 
@@ -248,4 +252,4 @@ Link to an amendment published at 88 FR 23563, Apr. 18, 2023.
 
 (ii) In the case of rental units, income not in excess of 50 percent of area median income, with adjustments for smaller and larger families in accordance with this part.
 
-[75 FR 55930, Sept. 14, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 80 FR 53430, Sept. 3, 2015; 81 FR 76300, Nov. 2, 2016; 81 FR 96292, Dec. 29, 2016; 83 FR 5899, Feb. 12, 2018; 86 FR 73657, Dec. 28, 2021]
+[75 FR 55930, Sept. 14, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 80 FR 53430, Sept. 3, 2015; 81 FR 76300, Nov. 2, 2016; 81 FR 96292, Dec. 29, 2016; 83 FR 5899, Feb. 12, 2018; 86 FR 73657, Dec. 28, 2021; 88 FR 23563, Apr. 18, 2023]

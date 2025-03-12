@@ -1,10 +1,12 @@
 ##### § 235.7 Limitations on payment card restrictions. #####
 
-Link to an amendment published at 87 FR 61230, Oct. 11, 2022.
-
 (a) *Prohibition on network exclusivity*—(1) *In general.* An issuer or payment card network shall not directly or through any agent, processor, or licensed member of a payment card network, by contract, requirement, condition, penalty, or otherwise, restrict the number of payment card networks on which an electronic debit transaction may be processed to less than two unaffiliated networks.
 
-(2) *Permitted arrangements.* An issuer satisfies the requirements of paragraph (a)(1) of this section only if the issuer allows an electronic debit transaction to be processed on at least two unaffiliated payment card networks, each of which does not, by rule or policy, restrict the operation of the network to a limited geographic area, specific merchant, or particular type of merchant or transaction, and each of which has taken steps reasonably designed to enable the network to process the electronic debit transactions that the network would reasonably expect will be routed to it, based on expected transaction volume.
+(2) *Permitted arrangements.* An issuer satisfies the requirements of paragraph (a)(1) of this section only if the issuer enables at least two unaffiliated payment card networks to process an electronic debit transaction—
+
+(i) Where such networks in combination do not, by their respective rules or policies or by contract with or other restriction imposed by the issuer, result in the operation of only one network or only multiple affiliated networks for a geographic area, specific merchant, particular type of merchant, or particular type of transaction, and
+
+(ii) Where each of these networks has taken steps reasonably designed to be able to process the electronic debit transactions that it would reasonably expect will be routed to it, based on expected transaction volume.
 
 (3) *Prohibited exclusivity arrangements by networks.* For purposes of paragraph (a)(1) of this section, a payment card network may not restrict or otherwise limit an issuer's ability to contract with any other payment card network that may process an electronic debit transaction involving the issuer's debit cards.
 
@@ -27,3 +29,5 @@ Link to an amendment published at 87 FR 61230, Oct. 11, 2022.
 (A) With respect to reloadable general-use prepaid cards sold and reloaded prior to April 1, 2013, the compliance date is May 1, 2013.
 
 (B) With respect to reloadable general-use prepaid cards sold prior to April 1, 2013, and reloaded on or after April 1, 2013, the compliance date is 30 days after the date of reloading.
+
+[Reg. II, 76 FR 43466, July 20, 2011, as amended at 87 FR 61230, Oct. 11, 2022]

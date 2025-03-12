@@ -1,0 +1,7 @@
+##### § 1977.5 Persons protected by section 11(c). #####
+
+(a) All employees are afforded the full protection of section 11(c). For purposes of the Act, an employee is defined as “an employee of an employer who is employed in a business of his employer which affects commerce.” The Act does not define the term “employ.” However, the broad remedial nature of this legislation demonstrates a clear congressional intent that the existence of an employment relationship, for purposes of section 11(c), is to be based upon economic realities rather than upon common law doctrines and concepts. See, *U.S.* v. *Silk,* 331 U.S. 704 (1947); *Rutherford Food Corporation* v. *McComb,* 331 U.S. 722 (1947).
+
+(b) For purposes of section 11(c), even an applicant for employment could be considered an employee. See, *NLRB* v. *Lamar Creamery,* 246 F. 2d 8 (5th Cir., 1957). Further, because section 11(c) speaks in terms of any employee, it is also clear that the employee need not be an employee of the discriminator. The principal consideration would be whether the person alleging discrimination was an “employee” at the time of engaging in protected activity.
+
+(c) In view of the definitions of “employer” and “employee” contained in the Act, employees of a State or political subdivision thereof would not ordinarily be within the contemplated coverage of section 11(c).

@@ -1,7 +1,5 @@
 ##### § 668.41 Reporting and disclosure of information. #####
 
-Link to an amendment published at 87 FR 66039, Nov. 1, 2022.
-
 (a) *Definitions.* The following definitions apply to this subpart:
 
 *Athletically related student aid* means any scholarship, grant, or other form of financial assistance, offered by an institution, the terms of which require the recipient to participate in a program of intercollegiate athletics at the institution. Other student aid, of which a student-athlete simply happens to be the recipient, is not athletically related student aid.
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 66039, Nov. 1, 2022.
 
 (c) *Notice to enrolled students.* (1) An institution annually must distribute to all enrolled students a notice of the availability of the information required to be disclosed pursuant to paragraphs (d), (e), and (g) of this section, and pursuant to 34 CFR 99.7 (§ 99.7 sets forth the notification requirements of the Family Educational Rights and Privacy Act of 1974). The notice must list and briefly describe the information and tell the student how to obtain the information.
 
-(2) An institution that discloses information to enrolled students as required under paragraph (d), (e), (g), or (h) of this section by posting the information on an Internet website or an Intranet website must include in the notice described in paragraph (c)(1) of this section—
+(2) An institution that discloses information to enrolled students as required under paragraph (d), (e), or (g) of this section by posting the information on an internet website or an Intranet website must include in the notice described in paragraph (c)(1) of this section—
 
 (i) The exact electronic address at which the information is posted; and
 
@@ -110,16 +108,4 @@ Link to an amendment published at 87 FR 66039, Nov. 1, 2022.
 
 (2) An institution must submit the report described in paragraph (g)(1)(i) of this section to the Secretary within 15 days of making it available to students, prospective students, and the public.
 
-(h) *Enrolled students, prospective students, and the public—disclosure of an institution's use of pre-dispute arbitration agreements and/or class action waivers as a condition of enrollment for students receiving title IV Federal student aid.* (1)(i) An institution of higher education that requires students receiving title IV Federal student aid to accept or agree to a pre-dispute arbitration agreement and/or a class action waiver as a condition of enrollment must make available to enrolled students, prospective students, and the public, a written (electronic) plain language disclosure of those conditions of enrollment. This plain language disclosure also must state that: The school cannot require the borrower to participate in arbitration or any internal dispute resolution process offered by the institution prior to filing a borrower defense to repayment application with the Department pursuant to § 685.206(e); the school cannot, in any way, require students to limit, relinquish, or waive their ability to pursue filing a borrower defense claim, pursuant to § 685.206(e) at any time; and any arbitration, required by a pre-dispute arbitration agreement, tolls the limitations period for filing a borrower defense to repayment application pursuant to § 685.206(e)(6)(ii).
-
-(ii) All statements in the plain language disclosure must be in 12-point font on the institution's admissions information web page and in the admissions section of the institution's catalogue. The institution may not rely solely on an intranet website for the purpose of providing this notice to prospective students or the public.
-
-(2) For the purposes of this paragraph (h), the following definitions apply:
-
-(i) *Class action* means a lawsuit or an arbitration proceeding in which one or more parties seeks class treatment pursuant to Federal Rule of Civil Procedure 23 or any State process analogous to Federal Rule of Civil Procedure 23.
-
-(ii) *Class action waiver* means any agreement or part of an agreement, regardless of its form or structure, between a school, or a party acting on behalf of a school, and a student that relates to the making of a Direct Loan or the provision of educational services for which the student received title IV funding and prevents an individual from filing or participating in a class action that pertains to those services.
-
-(iii) *Pre-dispute arbitration agreement* means any agreement or part of an agreement, regardless of its form or structure, between a school, or a party acting on behalf of a school, and a student requiring arbitration of any future dispute between the parties relating to the making of a Direct Loan or provision of educational services for which the student received title IV funding.
-
-(Approved by the Office of Management and Budget under control number 1845-0004)[64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009; 81 FR 76070, Nov. 1, 2016; 84 FR 58932, Nov. 1, 2019; 84 FR 49910, Sept. 23, 2019]
+(Approved by the Office of Management and Budget under control number 1845-0004)[64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009; 81 FR 76070, Nov. 1, 2016; 84 FR 58932, Nov. 1, 2019; 84 FR 49910, Sept. 23, 2019; 87 FR 66039, Nov. 1, 2022]

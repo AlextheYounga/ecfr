@@ -1,7 +1,5 @@
 ##### § 685.212 Discharge of a loan obligation. #####
 
-Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
-
 (a) *Death.* (1) If a borrower (or a student on whose behalf a parent borrowed a Direct PLUS Loan) dies, the Secretary discharges the obligation of the borrower and any endorser to make any further payments on the loan based on—
 
 (i) An original or certified copy of the death certificate;
@@ -79,5 +77,7 @@ Link to an amendment published at 87 FR 66058, Nov. 1, 2022.
 (B) The borrower proves that the loan to which the payment was credited was not legally enforceable under applicable law in the amount for which that payment was applied.
 
 (3) If a borrower's application for a discharge of a loan based on a borrower defense is approved under § 685.206(e), the Secretary discharges the obligation of the borrower, in whole or in part, in accordance with the procedures described in § 685.206(e).
+
+(4) If a borrower's application for a discharge of a loan based on a borrower defense is approved under 34 CFR part 685, subpart D, the Secretary discharges the obligation of the borrower, in accordance with the procedures described in subpart D of this part.
 
 (Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

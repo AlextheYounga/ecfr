@@ -1,7 +1,5 @@
 ##### § 685.202 Charges for which Direct Loan Program borrowers are responsible. #####
 
-Link to an amendment published at 87 FR 66055, Nov. 1, 2022.
-
 (a) *Interest*—(1) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans first disbursed before July 1, 1995.* During all periods, the interest rate during any twelve-month period beginning on July 1 and ending on June 30 is determined on the June 1 immediately preceding that period. The interest rate is equal to the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to that June 1 plus 3.1 percentage points, but does not exceed 8.25 percent.
 
 (2) *Interest rate for Direct Subsidized Loans and Direct Unsubsidized Loans first disbursed on or after July 1, 1995, and before July 1, 1998.* (i) *During the in-school, grace, and deferment periods.* The interest rate during any twelve-month period beginning on July 1 and ending on June 30 is determined on the June 1 immediately preceding that period. The interest rate is equal to the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to that June 1 plus 2.5 percentage points, but does not exceed 8.25 percent.
@@ -88,13 +86,7 @@ Link to an amendment published at 87 FR 66055, Nov. 1, 2022.
 
 (b) *Capitalization.* (1) The Secretary may add unpaid accrued interest to the borrower's unpaid principal balance. This increase in the principal balance of a loan is called “capitalization.”
 
-(2) For a Direct Unsubsidized Loan, a Direct Unsubsidized Consolidation Loan that qualifies for a grace period under the regulations that were in effect for consolidation applications received before July 1, 2006, a Direct PLUS Loan, or for a Direct Subsidized Loan for which the first disbursement is made on or after July 1, 2012, and before July 1, 2014, the Secretary may capitalize the unpaid interest that accrues on the loan when the borrower enters repayment.
-
-(3) Notwithstanding § 685.208(l)(5) and § 685.209(b)(3)(iv), for a Direct Loan not eligible for interest subsidies during periods of deferment, and for all Direct Loans during periods of forbearance, the Secretary capitalizes the unpaid interest that has accrued on the loan upon the expiration of the deferment or forbearance.
-
-(4) Except as provided in paragraph (b)(3) of this section and in §§ 685.208(l)(5) and 685.209(b)(3)(iv), the Secretary annually capitalizes unpaid interest when the borrower is paying under the alternative repayment plan or the income-contingent repayment plan described in § 685.209(b) and the borrower's scheduled payments do not cover the interest that has accrued on the loan.
-
-(5) The Secretary may capitalize unpaid interest when the borrower defaults on the loan.
+(2) For a Direct Loan not eligible for interest subsidies during periods of deferment, the Secretary capitalizes the unpaid interest that has accrued on the loan upon the expiration of the deferment.
 
 (c) *Loan fee for Direct Subsidized, Direct Unsubsidized, and Direct PLUS Loans.* The Secretary—
 
@@ -134,4 +126,4 @@ Link to an amendment published at 87 FR 66055, Nov. 1, 2022.
 
 (2) *Collection charges after default.* If a borrower defaults on a Direct Loan, the Secretary assesses collection costs on the basis of 34 CFR 30.60.
 
-(Authority: 20 U.S.C. 1087a *et seq.,* 1091a)[59 FR 61690, Dec. 1, 1994, as amended at 61 FR 29900, June 12, 1996; 62 FR 63434, Nov. 28, 1997; 64 FR 46254, Aug. 24, 1999; 66 FR 34765, June 29, 2001; 71 FR 45711, Aug. 9, 2006; 72 FR 62009, Nov. 1, 2007; 74 FR 56001, Oct. 29, 2009; 77 FR 66135, Nov. 1, 2012; 78 FR 28986, May 16, 2013; 78 FR 65825, Nov. 1, 2013; 80 FR 67238, Oct. 30, 2015]
+(Authority: 20 U.S.C. 1087a *et seq.,* 1091a)[59 FR 61690, Dec. 1, 1994, as amended at 61 FR 29900, June 12, 1996; 62 FR 63434, Nov. 28, 1997; 64 FR 46254, Aug. 24, 1999; 66 FR 34765, June 29, 2001; 71 FR 45711, Aug. 9, 2006; 72 FR 62009, Nov. 1, 2007; 74 FR 56001, Oct. 29, 2009; 77 FR 66135, Nov. 1, 2012; 78 FR 28986, May 16, 2013; 78 FR 65825, Nov. 1, 2013; 80 FR 67238, Oct. 30, 2015; 87 FR 66055, Nov. 1, 2022]

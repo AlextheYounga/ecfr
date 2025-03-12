@@ -1,7 +1,5 @@
 ##### § 61.3 Definitions. #####
 
-Link to an amendment published at 88 FR 35763, June 1, 2023.
-
 (a) *Act.* The Communications Act of 1934 (48 Stat. 1004; 47 U.S.C. chapter 5), as amended.
 
 (b) *Actual Price Index* (API). An index of the level of aggregate rate element rates in a basket, which index is calculated pursunt to § 61.46.
@@ -136,26 +134,46 @@ Average Price Cap CMT Revenue per Line Month in a study area = Price Cap CMT Rev
 
 Zone Average Revenue per Line = (25% \* (Loop + Port)) + U (Uniform revenue per line adjustment)Where:Loop = the price for unbundled loops in a UNE zone.Port = the price for switch ports in that UNE zone.U = [(Average Price Cap CMT Revenue per Line month in a study area \* price cap local exchange carrier Base Period Lines) − (25% \* Σ (price cap local exchange carrier Base Period Lines in a UNE Zone \* ((Loop + Port ) for all zones)))] ÷ price cap local exchange carrier Base Period Lines in a study area.
 
-(bbb) *Access Stimulation.* (1) A Competitive Local Exchange Carrier serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (ii) of this section; and a rate-of-return local exchange carrier serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (iii) of this section.
+(bbb) *Access Stimulation.* (1) A Competitive Local Exchange Carrier serving end user(s) or an IPES Provider serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (ii) of this section; and a rate-of-return local exchange carrier serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (iii) of this section.
 
-(i) The rate-of-return local exchange carrier or a Competitive Local Exchange Carrier:
+(i) The rate-of-return local exchange carrier, Competitive Local Exchange Carrier, or IPES Provider:
 
-(A) Has an access revenue sharing agreement, whether express, implied, written or oral, that, over the course of the agreement, would directly or indirectly result in a net payment to the other party (including affiliates) to the agreement, in which payment by the rate-of-return local exchange carrier or Competitive Local Exchange Carrier is based on the billing or collection of access charges from interexchange carriers or wireless carriers. When determining whether there is a net payment under this part, all payments, discounts, credits, services, features, functions, and other items of value, regardless of form, provided by the rate-of-return local exchange carrier or Competitive Local Exchange Carrier to the other party to the agreement shall be taken into account; and
+(A) Has an access revenue sharing agreement, whether express, implied, written or oral, that, over the course of the agreement, would directly or indirectly result in a net payment to the other party (including affiliates) to the agreement, in which payment by the rate-of-return local exchange carrier, Competitive Local Exchange Carrier, or IPES Provider is based on the billing or collection of access charges from interexchange carriers or wireless carriers. When determining whether there is a net payment under this rule, all payments, discounts, credits, services, features, functions, and other items of value, regardless of form, provided by the rate-of-return local exchange carrier, Competitive Local Exchange Carrier, or IPES Provider to the other party to the agreement shall be taken into account; and
 
-(B) Has either an interstate terminating-to-originating traffic ratio of at least 3:1 in a calendar month, or has had more than a 100 percent growth in interstate originating and/or terminating switched access minutes of use in a month compared to the same month in the preceding year.
+(B) Has either an interstate terminating-to-originating traffic ratio of at least 3:1 in an end office or equivalent in a calendar month, or has had more than a 100 percent growth in interstate originating and/or terminating switched access minutes of use in a month compared to the same month in the preceding year for such end office or equivalent.
 
-(ii) A Competitive Local Exchange Carrier has an interstate terminating-to-originating traffic ratio of at least 6:1 in an end office in a calendar month.
+(ii) A Competitive Local Exchange Carrier or IPES Provider has an interstate terminating-to-originating traffic ratio of at least 6:1 in an end office or equivalent in a calendar month.
 
-(iii) A rate-of-return local exchange carrier has an interstate terminating-to-originating traffic ratio of at least 10:1 in an end office in a three calendar month period and has 500,000 minutes or more of interstate terminating minutes-of-use per month in the same end office in the same three calendar month period. These factors will be measured as an average over the three calendar month period.
+(iii) A rate-of-return local exchange carrier has an interstate terminating-to-originating traffic ratio of at least 10:1 in an end office or equivalent in a three-calendar month period and has 500,000 minutes or more of interstate terminating minutes-of-use per month in the same end office in the same three-calendar month period. These factors will be measured as an average over the three-calendar month period.
 
-(2) A Competitive Local Exchange Carrier will continue to be engaging in Access Stimulation until: For a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section, it terminates all revenue sharing agreements covered in paragraph (bbb)(1)(i) of this section and does not engage in Access Stimulation as defined in paragraph (bbb)(1)(ii) of this section; and for a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(ii) of this section, its interstate terminating-to-originating traffic ratio falls below 6:1 for six consecutive months, and it does not engage in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section.
+(2) A Competitive Local Exchange Carrier serving end user(s), or an IPES Provider serving end user(s), that has engaged in Access Stimulation will continue to be deemed to be engaged in Access Stimulation until: For a carrier or provider engaging in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section, it terminates all revenue sharing agreements covered in paragraph (bbb)(1)(i) of this section and does not engage in Access Stimulation as defined in paragraph (bbb)(1)(ii) of this section; and for a carrier or provider engaging in Access Stimulation as defined in paragraph (bbb)(1)(ii) of this section, its interstate terminating-to-originating traffic ratio for an end office or equivalent falls below 6:1 for six consecutive months, and it does not engage in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section.
 
-(3) A rate-of-return local exchange carrier will continue to be engaging in Access Stimulation until: For a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section, it terminates all revenue sharing agreements covered in paragraph (bbb)(1)(i) of this section and does not engage in Access Stimulation as defined in paragraph (bbb)(1)(iii) of this section; and for a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(iii) of this section, its interstate terminating-to-originating traffic ratio falls below 10:1 for six consecutive months and its monthly interstate terminating minutes-of-use in an end office falls below 500,000 for six consecutive months, and it does not engage in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section.
+(3) A rate-of-return local exchange carrier serving end user(s) that has engaged in Access Stimulation will continue to be deemed to be engaged in Access Stimulation until: For a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section, it terminates all revenue sharing agreements covered in paragraph (bbb)(1)(i) of this section and does not engage in Access Stimulation as defined in paragraph (bbb)(1)(iii) of this section; and for a carrier engaging in Access Stimulation as defined in paragraph (bbb)(1)(iii) of this section, its interstate terminating-to-originating traffic ratio falls below 10:1 for six consecutive months and its monthly interstate terminating minutes-of-use in an end office or equivalent falls below 500,000 for six consecutive months, and it does not engage in Access Stimulation as defined in paragraph (bbb)(1)(i) of this section.
 
 (4) A local exchange carrier engaging in Access Stimulation is subject to revised interstate switched access charge rules under § 61.26(g) (for Competitive Local Exchange Carriers) or § 61.38 and § 69.3(e)(12) of this chapter (for rate-of-return local exchange carriers).
 
-(ccc) *Intermediate Access Provider.* The term means, for purposes of this part and §§ 69.3(e)(12)(iv) and 69.5(b) of this chapter, any entity that carries or processes traffic at any point between the final Interexchange Carrier in a call path and a local exchange carrier engaged in Access Stimulation, as defined in paragraph (bbb) of this section.
+(5) In calculating the interstate terminating-to-originating traffic ratio at each end office or equivalent under this paragraph (bbb), each Competitive Local Exchange Carrier, rate-of-return local exchange carrier or IPES Provider shall include in such calculation only traffic traversing that end office or equivalent and going to and from any telephone number associated with an Operating Company Number that has been issued to such Competitive Local Exchange Carrier, rate-of-return local exchange carrier or IPES Provider. The term “equivalent” in the phrase “end office or equivalent” means “End Office Equivalent,” as defined in this section.
+
+(ccc) *Intermediate Access Provider.* The term means, for purposes of this part and §§ 51.914, 69.4(1), and 69.5(b) of this chapter, any entity that provides terminating switched access tandem switching or terminating switched access tandem transport services between the final Interexchange Carrier in a call path and:
+
+(1) A local exchange carrier engaged in Access Stimulation, as defined in paragraph (bbb) of this section; or
+
+(2) A local exchange carrier delivering traffic to an IPES Provider engaged in Access Stimulation, as defined in paragraph (bbb) of this section; or
+
+(3) An IPES Provider engaged in Access Stimulation, as defined in paragraph (bbb) of this section, where the entity delivers calls directly to the IPES Provider.
 
 (ddd) *Interexchange Carrier.* The term means, for purposes of this part and §§ 69.3(e)(12)(iv) and 69.5(b) of this chapter, a retail or wholesale telecommunications carrier that uses the exchange access or information access services of another telecommunications carrier for the provision of telecommunications.
+
+(eee) *IPES (Internet Protocol Enabled Service) Provider.* The term means, for purposes of this part and §§ 51.914, 69.4(l) and 69.5(b) of this chapter, a provider offering a service that:
+
+(1) Enables communications;
+
+(2) Requires a broadband connection from the user's location or end to end;
+
+(3) Requires internet Protocol-compatible customer premises equipment (CPE); and
+
+(4) Permits users to receive calls that originate on the public switched telephone network or that originate from an Internet Protocol service.
+
+(fff) *End Office Equivalent.* For purposes of this part and §§ 51.914, 69.3(e)(12)(iv) and 69.4(l) of this chapter, an End Office Equivalent is the geographic location where traffic is delivered to an IPES Provider for delivery to an end user. This location shall be used as the terminating location for purposes of calculating terminating-to-originating traffic ratios, as provided in this section. For purposes of the Access Stimulation Rules, the term “equivalent” in the phrase “end office or equivalent” means End Office Equivalent.
 
 [54 FR 19840, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

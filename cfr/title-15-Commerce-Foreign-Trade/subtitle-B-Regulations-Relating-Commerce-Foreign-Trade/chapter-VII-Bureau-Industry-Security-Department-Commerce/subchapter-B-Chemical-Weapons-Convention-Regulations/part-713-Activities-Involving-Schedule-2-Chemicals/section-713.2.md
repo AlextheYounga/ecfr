@@ -26,11 +26,31 @@ A null “0” declaration is not required if you do not plan to produce, proces
 
 (ii) For the purpose of determining if a Schedule 2 chemical is subject to declaration, you must declare an intermediate Schedule 2 chemical, but not a transient intermediate Schedule 2 chemical.
 
-(3) *Mixtures containing a Schedule 2 chemical*—(i) *Mixtures that must be counted.* You must count the quantity of each Schedule 2 chemical in a mixture, when determining the total quantity of a Schedule 2 chemical produced, processed, or consumed at a plant on your plant site, if the concentration of each Schedule 2 chemical in the mixture is 30% or more by volume or by weight, whichever yields the lesser percent. Do not count a Schedule 2 chemical in the mixture that represents less than 30% by volume or by weight.
+(3) *Mixtures containing a Schedule 2 chemical*—(i) *Mixtures that must be counted.* When determining the total quantity of a Schedule 2 chemical produced, processed or consumed at a plant on your plant site, you must count the quantity of each Schedule 2 chemical in a mixture, in the following circumstances:
 
-(ii) *How to count the quantity of each Schedule 2 chemical in a mixture.* If your mixture contains 30% or more concentration of a Schedule 2 chemical, you must count the quantity (weight) of each Schedule 2 chemical in the mixture, not the total weight of the mixture. You must separately declare each Schedule 2 chemical with a concentration in the mixture that is 30% or more and exceeds the quantity threshold detailed in paragraphs (a)(1)(i)(A)(*1*) through (*3*) of this section.
+(A) *Schedule 2A chemicals in mixtures.* The concentration of each Schedule 2A chemical in the mixture is 10% or more by volume or weight, whichever yields the lesser percentage;
 
-(iii) *Determining declaration requirements for production, processing and consumption.* If the total quantity of a Schedule 2 chemical produced, processed or consumed at a plant on your plant site, including mixtures that contain 30% or more concentration of a Schedule 2 chemical, exceeds the applicable declaration threshold set forth in paragraphs (a)(1)(i)(A)(*1*) through (*3*) of this section, you have a declaration requirement. For example, if during calendar year 2001, a plant on your plant site produced a mixture containing 300 kilograms of thiodiglycol in a concentration of 32% and also produced 800 kilograms of thiodiglycol, the total amount of thiodiglycol produced at that plant for CWCR purposes would be 1100 kilograms, which exceeds the declaration threshold of 1 metric ton for that Schedule 2 chemical. You must declare past production of thiodiglycol at that plant site for calendar year 2001. If, on the other hand, a plant on your plant site processed a mixture containing 300 kilograms of thiodiglycol in a concentration of 25% and also processed 800 kilograms of thiodiglycol in other than mixture form, the total amount of thiodiglycol processed at that plant for CWCR purposes would be 800 kilograms and would not trigger a declaration requirement. This is because the concentration of thiodiglycol in the mixture is less than 30% and therefore did not have to be “counted” and added to the other 800 kilograms of processed thiodiglycol at that plant.
+(B) *Schedule 2B chemicals in mixtures.* The concentration of each Schedule 2B chemical in the mixture is 30% or more by volume or weight, whichever yields the lesser percentage.
+
+(ii) *How to count the quantity of each Schedule 2 chemical in a mixture.* You must count, separately, the quantity of each Schedule 2A or Schedule 2B chemical in a mixture when determining the total quantity of a Schedule 2 chemical produced, processed or consumed at a plant on your plant site. Do not count the total weight of a mixture.
+
+(iii) *Determining declaration requirements for production, processing and consumption.* If the total quantity of a Schedule 2 chemical produced, processed or consumed at a plant on your plant site, including mixtures that contain 10% or more concentration of a Schedule 2A chemical or 30% or more concentration of a Schedule 2B chemical, exceeds the applicable declaration threshold set forth in paragraphs (a)(1)(i)(A)(*1*) through (*3*) of this section, you have a declaration requirement and must separately declare each Schedule 2A or Schedule 2B chemical.
+
+Note 1 to § 713.2(a)(3)—Example:
+
+If, during the past calendar year, a plant on your plant site produced, processed, or consumed a mixture containing 130 kilograms of PFIB with a concentration of 12%, the total amount of PFIB produced, processed, or consumed at that plant for CWCR purposes would be 130 kilograms, which exceeds the declaration threshold of 100 kilograms for that Schedule 2A chemical. Consequently, you must declare 130 kilograms of production, processing, or consumption of PFIB at that plant site during the past calendar year.
+
+Note 2 to § 713.2(a)(3)—Example:
+
+If, during the past calendar year, a plant on your plant site produced, processed, or consumed a mixture containing 130 kilograms of PFIB with a concentration of 8%, the total amount of PFIB produced, processed, or consumed at that plant for CWCR purposes would be 0 kilograms, which would not trigger a declaration requirement. This outcome is based on the fact that the concentration of PFIB in the mixture is less than 10% and, for CWCR purposes would not have to be “counted.”
+
+Note 3 to § 713.2(a)(3)—Example:
+
+If, during the past calendar year, a plant on your plant site produced a mixture containing 300 kilograms of thiodiglycol with a concentration of 32% and also produced 800 kilograms of pure thiodiglycol, the total amount of thiodiglycol produced at that plant for CWCR purposes would be 1,100 kilograms, which exceeds the declaration threshold of 1 metric ton for that Schedule 2B chemical. Consequently, you must declare production of thiodiglycol at that plant site during the past calendar year.
+
+Note 4 to § 713.2(a)(3)—Example:
+
+If, during the past calendar year, a plant on your plant site processed a mixture containing 300 kilograms of thiodiglycol with a concentration of 25% and also processed 800 kilograms of pure thiodiglycol, the total amount of thiodiglycol processed at that plant for CWCR purposes would be 800 kilograms and would not trigger a declaration requirement. This outcome is based on the fact that the concentration of thiodiglycol in the mixture is less than 30% and, therefore, would not have to be “counted” and added to the 800 kilograms of pure thiodiglycol processed at that plant during the past calendar year.
 
 (b) *Types of declaration forms to be used*—(1) *Annual declaration on past activities.* You must complete the Certification Form and Forms 2-1, 2-2, 2-3, 2-3A, and Form A if one or more plants on your plant site produced, processed or consumed more than the applicable threshold quantity of a Schedule 2 chemical described in paragraphs (a)(1)(i)(A)(*1*) through (*3*) of this section in any of the three previous calendar years. Form B is optional. If you are subject to annual declaration requirements, you must include data for the previous calendar year only.
 
@@ -45,3 +65,5 @@ A null “0” declaration is not required if you do not plan to produce, proces
 (d) *“Declared” Schedule 2 plant site.* A plant site that submitted a declaration pursuant to paragraph (a)(1) of this section is a “declared” plant site.
 
 (e) *Declared Schedule 2 plant sites subject to initial and routine inspections.* A “declared” Schedule 2 plant site is subject to initial and routine inspection by the Organization for the Prohibition of Chemical Weapons if it produced, processed or consumed in any of the three previous calendar years, or is anticipated to produce, process or consume in the next calendar year, in excess of ten times the applicable declaration threshold set forth in paragraphs (a)(1)(i)(A)(*1*) through (*3*) of this section (see part 716 of the CWCR). A “declared” Schedule 2 plant site that has received an initial inspection is subject to routine inspection.
+
+[71 FR 24929, Apr. 27, 2006, as amended at 88 FR 42618, July 3, 2023]

@@ -22,12 +22,14 @@
 
 (i) *Decision.* OHA will serve a copy of the written decision on each party, or, if represented by counsel, on its counsel. The decision is considered the final agency action, and it becomes effective upon issuance.
 
-(j) *Effect of decision.* (1) A contracting officer may award a contract to a protested concern after the Judge has sustained the protest and determined either that the protested concern is an eligible VOSB or SDVOSB, and no OHA appeal has been filed, or has dismissed all protests against it.
+(j) *Effect of decision.* (1) A contracting officer may award a contract to a protested concern after the Judge has determined either that the protested concern is eligible for inclusion in SBA's certification database or has dismissed all protests against it.
 
-(2) A contracting officer shall not award a contract to a protested concern that the Judge has determined is not an eligible VOSB or SDVOSB. If the contract has already been awarded, then the awarded contract shall be deemed void *ab initio* (invalid from the outset), and the contracting officer shall rescind the contract and award the contract to the next eligible concern in line for the award.
+(2) A contracting officer shall not award a contract to a protested concern that the Judge has determined is not an eligible VOSB or SDVOSB. If the contract has already been awarded, the contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government. However, the contracting officer shall not exercise any options or award further task or delivery orders.
 
 (3) The contracting officer must update the Federal Procurement Data System (or successor system) and other procurement reporting databases to reflect the Judge's decision.
 
 (4) If the Judge finds the protested concern is not an eligible VOSB or SDVOSB, the D/GC must immediately remove the protested concern from the certification database.
 
 (5) A concern found to be ineligible may not submit an offer on a future VOSB or SDVOSB procurement until the protested concern reapplies to the Veteran Small Business Certification Program and has been designated by SBA as a VOSB or SDVOSB into the certification database.
+
+[87 FR 73425, Nov. 29, 2022, as amended at 88 FR 42593, July 3, 2023]

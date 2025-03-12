@@ -32,15 +32,23 @@ Declared and undeclared plant sites must count, for declaration or reporting pur
 
 (iii) 1 metric ton of any chemical listed in Schedule 2, Part B (see supplement no.1 to this part).
 
-(2) *Mixtures containing a Schedule 2 chemical.* The quantity of each Schedule 2 chemical contained in a mixture must be counted for the declaration or reporting of an export or import only if the concentration of each Schedule 2 chemical in the mixture is 30% or more by volume or by weight, whichever yields the lesser percent. You must declare separately each Schedule 2 chemical whose concentration in the mixture is 30% or more.
+(2) *Mixtures containing a Schedule 2 chemical*—(i) *Mixtures that must be counted.* The quantity of each Schedule 2 chemical contained in a mixture must be counted for the declaration or reporting of an export or import, in the following circumstances:
 
-Note 1 to § 713.3(b)(2):
+(A) *Schedule 2A chemicals in mixtures.* The concentration of each Schedule 2A chemical in the mixture is 10% or more by volume or weight, whichever yields the lesser percentage;
 
-See § 713.2(a)(2)(ii) of the CWCR for information on counting amounts of Schedule 2 chemicals contained in mixtures and determining declaration and reporting requirements.
+(B) *Schedule 2B chemicals in mixtures.* The concentration of each Schedule 2B chemical in the mixture is 30% or more by volume or weight, whichever yields the lesser percentage.
 
-Note 2 to § 713.3(b)(2):
+(ii) *How to count the quantity of each Schedule 2 chemical in a mixture.* You must count, separately, the quantity of each Schedule 2A or Schedule 2B chemical in a mixture when determining the total quantity of a Schedule 2 chemical that was exported from or imported to a declared plant site, or individually exported or imported, above the applicable threshold set forth in paragraphs (b)(1)(i) through (iii) of this section. Do not count the total weight of a mixture.
 
-The “30% and above” mixtures rule applies only for declaration and reporting purposes. This rule does not apply for purposes of determining whether the export of your mixture to a non-State Party requires an End-Use Certificate or for determining whether you need an export license from BIS (see § 742.2, § 742.18 and § 745.2 of the Export Administration Regulations) or from the Department of State (see the International Traffic in Arms Regulations (22 CFR parts 120 through130)).
+(iii) *Mixture concentration thresholds apply only for declaration and reporting purposes.* The concentration thresholds for Schedule 2A and Schedule 2B chemical mixtures set forth in paragraph (b)(2)(i) of this section apply only for the declaration and reporting purposes described in the CWCR. These thresholds do not apply for purposes of determining whether the export of your mixture to a non-State Party requires an End-Use Certificate. Nor do they apply for purposes of determining whether you need to obtain an export license from BIS (see § 742.2, § 742.18 and § 745.2 of the Export Administration Regulations (15 CFR parts 730 through 774)) or from the Department of State (see the International Traffic in Arms Regulations (22 CFR parts 120 through 130)).
+
+Note 1 to § 713.3(b)(2)—Example:
+
+If, during the past calendar year, your plant site exported or imported a mixture containing 3 kilograms of Amiton with a concentration of 12%, the total amount of Amiton exported or imported for CWCR purposes is 3 kilograms, which exceeds the declaration threshold of 1 kilogram for that Schedule 2A chemical. Consequently, you must declare 3 kilograms of export or import at that plant site during the past calendar year.
+
+Note 2 to § 713.2(b)(2)—Example:
+
+If, during the past calendar year, your plant site exported or imported a mixture containing 3 kilograms of Amiton with a concentration of 8%, the total amount of Amiton exported or imported for CWCR purposes would be 0 kilograms and would not trigger a declaration requirement. This outcome is based on the fact that the concentration of Amiton in the mixture is less than 10% and, therefore, would not have to be “counted.”
 
 (c) *Declaration and reporting requirements*—(1) *Annual declaration on past activities.* A plant site described in paragraph (a)(1) of this section that has an annual declaration requirement for the production, processing, or consumption of a Schedule 2 chemical for the previous calendar year also must declare the export and/or import of that same Schedule 2 chemical if the amount exceeded the applicable threshold set forth in paragraph (b) of this section. The plant site must declare such export or import information as part of its annual declaration of past activities.
 
@@ -59,3 +67,5 @@ The “30% and above” mixtures rule applies only for declaration and reporting
 (e) *Quantities to be declared*—(1) *Calculations.* If you exported from or imported to your plant site, trading company, or other location more than the applicable threshold of a Schedule 2 chemical in the previous calendar year, you must declare or report all exports and imports of that chemical by country of destination or country of origin, respectively, and indicate the total amount exported to or imported from each country.
 
 (2) *Rounding.* For purposes of declaring or reporting exports and imports of a Schedule 2 chemical, you must total all exports and imports per calendar year per recipient or source and then round as follows: For the chemical BZ, the total quantity for each country of destination or country of origin (source) should be reported to the nearest hundredth of a kilogram (10 grams); for PFIB and Amiton and corresponding alkylated or protonated salts, the quantity for each destination or source should be reported to the nearest 1 kilogram; and for all other Schedule 2 chemicals, the total quantity for each destination or source should be reported to the nearest 10 kilograms.
+
+[71 FR 24929, Apr. 27, 2006, as amended at 88 FR 42618, July 3, 2023]

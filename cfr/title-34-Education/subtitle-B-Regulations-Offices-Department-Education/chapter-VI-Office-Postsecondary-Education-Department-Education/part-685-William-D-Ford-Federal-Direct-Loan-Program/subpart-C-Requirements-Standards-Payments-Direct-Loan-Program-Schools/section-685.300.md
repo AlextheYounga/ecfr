@@ -1,7 +1,5 @@
 ##### § 685.300 Agreements between an eligible school and the Secretary for participation in the Direct Loan Program. #####
 
-Link to an amendment published at 87 FR 66066, Nov. 1, 2022.
-
 (a) *General.* Participation of a school in the Direct Loan Program means that eligible students at the school may receive Direct Loans. To participate in the Direct Loan Program, a school must—
 
 (1) Demonstrate to the satisfaction of the Secretary that the school meets the requirements for eligibility under the Act and applicable regulations; and
@@ -28,18 +26,116 @@ Link to an amendment published at 87 FR 66066, Nov. 1, 2022.
 
 (iii) Concerning student eligibility and need, for the alternative origination of loans to eligible students and parents in accordance with part D of the Act;
 
-(7) Provide assurances that the school will comply with requirements established by the Secretary relating to student loan information with respect to loans made under the Direct Loan Program;
+(7) Provide assurances that the school will comply with loan information requirements established by the Secretary with respect to loans made under the Direct Loan Program;
 
 (8) Accept responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
 
 (9) Provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with the school, to ensure that the school is complying with program requirements and meeting program objectives;
 
-(10) Provide that the school will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under part D of the Act or any benefits associated with such a loan;
+(10) Provide that the school will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or for the provision of information necessary for a student or parent to receive a loan under part D of the Act or for any benefits associated with such a loan;
 
-(11) Comply with other provisions that the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of part D of the Act; and
+(11) Comply with the provisions of paragraphs (d) through (i) of this section regarding student claims and disputes;
 
-(12) Accept responsibility and financial liability stemming from losses incurred by the Secretary for repayment of amounts discharged by the Secretary pursuant to §§ 685.206, 685.214, 685.215, 685.216, and 685.222.
+(12) Comply with other provisions that the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of part D of the Act; and
+
+(13) Accept responsibility and financial liability stemming from losses incurred by the Secretary for repayment of amounts discharged by the Secretary pursuant to §§ 685.206, 685.214, 685.215, 685.216, 685.222, and subpart D of this part.
 
 (c) *Origination.* A school that originates loans in the Direct Loan Program must originate loans to eligible students and parents in accordance with part D of the Act. The note or evidence of the borrower's obligation on the loan originated by the school is the property of the Secretary.
 
-[59 FR 61690, Dec. 1, 1994, as amended at 64 FR 58970, Nov. 1, 1999; 71 FR 64400, Nov. 1, 2006; 78 FR 65838, Nov. 1, 2013; 81 FR 76087, Nov. 1, 2016; 83 FR 34048, July 19, 2018; 84 FR 49933, Sept. 23, 2019]
+(d) *Borrower defense claims in an internal dispute process.* The school will not compel any student to pursue a complaint based on allegations that would provide a basis for a borrower defense claim through an internal dispute process before the student presents the complaint to an accrediting agency or government agency authorized to hear the complaint.
+
+(e) *Class action bans.* (1) The school will not seek to rely in any way on a pre-dispute arbitration agreement or on any other pre-dispute agreement with a student who has obtained or benefited from a Direct Loan, with respect to any aspect of a class action that is related to a borrower defense claim, unless and until the presiding court has ruled that the case may not proceed as a class action and, if that ruling may be subject to appellate review on an interlocutory basis, the time to seek such review has elapsed or the review has been resolved.
+
+(2) Reliance on a pre-dispute arbitration agreement, or on any other pre-dispute agreement, with a student, with respect to any aspect of a class action includes, but is not limited to, any of the following:
+
+(i) Seeking dismissal, deferral, or stay of any aspect of a class action;
+
+(ii) Seeking to exclude a person or persons from a class in a class action;
+
+(iii) Objecting to or seeking a protective order intended to avoid responding to discovery in a class action;
+
+(iv) Filing a claim in arbitration against a student who has filed a claim on the same issue in a class action;
+
+(v) Filing a claim in arbitration against a student who has filed a claim on the same issue in a class action after the trial court has denied a motion to certify the class but before an appellate court has ruled on an interlocutory appeal of that motion, if the time to seek such an appeal has not elapsed or the appeal has not been resolved; and
+
+(vi) Filing a claim in arbitration against a student who has filed a claim on the same issue in a class action, after the trial court in that class action has granted a motion to dismiss the claim and noted that the consumer has leave to refile the claim on a class basis, if the time to refile the claim has not elapsed.
+
+(3) Required provisions and notices: (i) After the effective date of this regulation, the school must include the following provision in any agreements with a student recipient of a Direct Loan for attendance at the school, or a student for whom the PLUS loan was obtained, that include pre-dispute arbitration or any other pre-dispute agreement addressing class actions: “We agree that this agreement cannot be used to stop you from being part of a class action lawsuit in court. You may file a class action lawsuit in court, or you may be a member of a class action lawsuit even if you do not file it. This provision applies only to class action claims concerning our acts or omissions regarding the making of the Direct Loan or our provision of educational services for which the Direct Loan was obtained. We agree that the court has exclusive jurisdiction to decide whether a claim asserted in the lawsuit is a claim regarding the making of the Federal Direct Loan or the provision of educational services for which the loan was obtained.”
+
+(ii) When a pre-dispute arbitration agreement or any other pre-dispute agreement addressing class actions has been entered into before the effective date of this regulation and does not contain the provision described in paragraph (e)(3)(i) of this section, the school must either ensure the agreement is amended to contain that provision or provide the student to whom the agreement applies with written notice of that provision.
+
+(iii) The school must ensure the agreement described in paragraph (e)(3)(ii) of this section is amended to contain the provision set forth in paragraph (e)(3)(i) or must provide the notice to students specified in that paragraph no later than the exit counseling required under § 685.304(b), or the date on which the school files its initial response to a demand for arbitration or service of a complaint from a student who has not already been sent a notice or amendment, whichever is earlier.
+
+(A) *Agreement provision.* “We agree that neither we, nor anyone else who later becomes a party to this agreement, will use it to stop you from being part of a class action lawsuit in court. You may file a class action lawsuit in court, or you may be a member of a class action lawsuit in court even if you do not file it. This provision applies only to class action claims concerning our acts or omissions regarding the making of the Federal Direct Loan or the provision by us of educational services for which the Federal Direct Loan was obtained. We agree that the court has exclusive jurisdiction to decide whether a claim asserted in the lawsuit is a claim regarding the making of the Federal Direct Loan or the provision of educational services for which the loan was obtained.”
+
+(B) *Notice provision.* “We agree not to use any pre-dispute agreement to stop you from being part of a class action lawsuit in court. You may file a class action lawsuit in court, or you may be a member of a class action lawsuit even if you do not file it. This provision applies only to class action claims concerning our acts or omissions regarding the making of the Federal Direct Loan or the provision by us of educational services for which the Federal Direct Loan was obtained. We agree that the court has exclusive jurisdiction to decide whether a claim asserted in the lawsuit is a claim regarding the making of the Federal Direct Loan or the provision of educational services for which the loan was obtained.”
+
+(f) *Pre-dispute arbitration agreements.* (1)(i) The school will not enter into a pre-dispute agreement to arbitrate a borrower defense claim or rely in any way on a pre-dispute arbitration agreement with respect to any aspect of a borrower defense claim.
+
+(ii) A student may enter into a voluntary post-dispute arbitration agreement with a school to arbitrate a borrower defense claim.
+
+(2) Reliance on a pre-dispute arbitration agreement with a student with respect to any aspect of a borrower defense claim includes, but is not limited to, any of the following:
+
+(i) Seeking dismissal, deferral, or stay of any aspect of a judicial action filed by the student, including joinder with others in an action;
+
+(ii) Objecting to or seeking a protective order intended to avoid responding to discovery in a judicial action filed by the student; and
+
+(iii) Filing a claim in arbitration against a student who has filed a suit on the same claim.
+
+(3) Required provisions and notices: (i) The school must include the following provision in any pre-dispute arbitration agreements with a student recipient of a Direct Loan for attendance at the school, or, with respect to a Parent PLUS Loan, a student for whom the PLUS loan was obtained, that include any agreement regarding arbitration and that are entered into after the effective date of this regulation: “We agree that neither we nor anyone else will use this agreement to stop you from bringing a lawsuit concerning our acts or omissions regarding the making of the Federal Direct Loan or the provision by us of educational services for which the Federal Direct Loan was obtained. You may file a lawsuit for such a claim, or you may be a member of a class action lawsuit for such a claim even if you do not file it. This provision does not apply to lawsuits concerning other claims. We agree that only the court is to decide whether a claim asserted in the lawsuit is a claim regarding the making of the Federal Direct Loan or the provision of educational services for which the loan was obtained.”
+
+(ii) When a pre-dispute arbitration agreement has been entered into before the effective date of this regulation, that did not contain the provision specified in paragraph (f)(3)(i) of this section, the school must either ensure the agreement is amended to contain the provision specified in paragraph (f)(3)(iii)(A) of this section or provide the student to whom the agreement applies with the written notice specified in paragraph (f)(3)(iii)(B) of this section.
+
+(iii) The school must ensure the agreement described in paragraph (f)(3)(ii) of this section is amended to contain the provision specified in paragraph (f)(3)(iii)(A) of this section or must provide the notice specified in paragraph (f)(3)(iii)(B) of this section to students no later than the exit counseling required under § 685.304(b), or the date on which the school files its initial response to a demand for arbitration or service of a complaint from a student who has not already been sent a notice or amendment, whichever is earlier.
+
+(A) *Agreement provision.* “We agree that neither we, nor anyone else who later becomes a party to this pre-dispute arbitration agreement, will use it to stop you from bringing a lawsuit concerning our acts or omissions regarding the making of the Federal Direct Loan or the provision by us of educational services for which the Federal Direct Loan was obtained. You may file a lawsuit for such a claim, or you may be a member of a class action lawsuit for such a claim even if you do not file it. This provision does not apply to other claims. We agree that only the court is to decide whether a claim asserted in the lawsuit is a claim regarding the making of the Federal Direct Loan or the provision of educational services for which the loan was obtained.”
+
+(B) *Notice provision.* “We agree not to use any pre-dispute arbitration agreement to stop you from bringing a lawsuit concerning our acts or omissions regarding the making of the Federal Direct Loan or the provision by us of educational services for which the Federal Direct Loan was obtained. You may file a lawsuit regarding such a claim, or you may be a member of a class action lawsuit regarding such a claim even if you do not file it. This provision does not apply to any other claims. We agree that only the court is to decide whether a claim asserted in the lawsuit is a claim regarding the making of the Direct Loan or the provision of educational services for which the loan was obtained.”
+
+(g) *Submission of arbitral records.* (1) A school must submit a copy of the following records to the Secretary, in the form and manner specified by the Secretary, in connection with any borrower defense claim filed in arbitration by or against the school:
+
+(i) The initial claim and any counterclaim;
+
+(ii) The arbitration agreement filed with the arbitrator or arbitration administrator;
+
+(iii) The judgment or award, if any, issued by the arbitrator or arbitration administrator;
+
+(iv) If an arbitrator or arbitration administrator refuses to administer or dismisses a claim due to the school's failure to pay required filing or administrative fees, any communication the school receives from the arbitrator or arbitration administrator related to such a refusal; and
+
+(v) Any communication the school receives from an arbitrator or an arbitration administrator related to a determination that a pre-dispute arbitration agreement regarding educational services provided by the school does not comply with the administrator's fairness principles, rules, or similar requirements, if such a determination occurs;
+
+(2) A school must submit any record required pursuant to paragraph (g)(1) of this section within 60 days of filing by the school of any such record with the arbitrator or arbitration administrator and within 60 days of receipt by the school of any such record filed or sent by someone other than the school, such as the arbitrator, the arbitration administrator, or the student.
+
+(3) The Secretary will publish the records submitted by schools in paragraph (g)(1) of this section in a centralized database accessible to the public.
+
+(h) *Submission of judicial records.* (1) A school must submit a copy of the following records to the Secretary, in the form and manner specified by the Secretary, in connection with any borrower defense claim filed in a lawsuit by the school against the student or by any party, including a government agency, against the school:
+
+(i) The complaint and any counterclaim;
+
+(ii) Any dispositive motion filed by a party to the suit; and
+
+(iii) The ruling on any dispositive motion and the judgment issued by the court;
+
+(2) A school must submit any record required pursuant to paragraph (h)(1) of this section within 30 days of filing or receipt, as applicable, of the complaint, answer, or dispositive motion, and within 30 days of receipt of any ruling on a dispositive motion or a final judgment;
+
+(3) The Secretary will publish the records submitted by schools in paragraph (h)(1) in a centralized database accessible to the public.
+
+(i) *Definitions.* For the purposes of paragraphs (d) through (h) of this section, the term—
+
+(1) *Borrower defense claim* means a claim based on an act or omission that is or could be asserted as a borrower defense as defined in:
+
+(i) § 685.206(c)(1);
+
+(ii) § 685.222(a)(5);
+
+(iii) § 685.206(e)(1)(iii); or
+
+(iv) § 685.401(a);
+
+(2) *Class action* means a lawsuit in which one or more parties seek class treatment pursuant to Federal Rule of Civil Procedure 23 or any State process analogous to Federal Rule of Civil Procedure 23;
+
+(3) *Dispositive motion* means a motion asking for a court order that entirely disposes of one or more claims in favor of the party who files the motion without need for further court proceedings;
+
+(4) *Pre-dispute arbitration agreement* means any agreement, regardless of its form or structure, between a school or a party acting on behalf of a school and a student that provides for arbitration of any future dispute between the parties.
+
+[59 FR 61690, Dec. 1, 1994, as amended at 64 FR 58970, Nov. 1, 1999; 71 FR 64400, Nov. 1, 2006; 78 FR 65838, Nov. 1, 2013; 81 FR 76087, Nov. 1, 2016; 83 FR 34048, July 19, 2018; 84 FR 49933, Sept. 23, 2019; 87 FR 66066, Nov. 1, 2022]

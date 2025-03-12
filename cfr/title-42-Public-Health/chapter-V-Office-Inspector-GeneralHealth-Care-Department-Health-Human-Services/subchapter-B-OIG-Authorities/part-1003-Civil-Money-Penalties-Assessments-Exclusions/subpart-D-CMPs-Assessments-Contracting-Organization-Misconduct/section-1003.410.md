@@ -1,5 +1,7 @@
 ##### § 1003.410 Amount of penalties and assessments for Contracting Organization. #####
 
+Link to an amendment published at 88 FR 42841, July 3, 2023.
+
 (a) *Penalties.*3 (1) The OIG may impose a penalty of up to $25,000 for each individual violation under § 1001.400, except as provided in this section.
 
 3 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.

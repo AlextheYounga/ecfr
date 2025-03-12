@@ -1,7 +1,5 @@
 ##### § 600.7 Conditions of institutional ineligibility. #####
 
-Link to an amendment published at 87 FR 65486, Oct. 28, 2022.
-
 (a) *General rule.* For purposes of title IV of the HEA, an educational institution that otherwise satisfies the requirements contained in §§ 600.4, 600.5, or 600.6 nevertheless does not qualify as an eligible institution under this part if—
 
 (1) For its latest complete award year—
@@ -40,15 +38,39 @@ Link to an amendment published at 87 FR 65486, Oct. 28, 2022.
 
 (ii) The Secretary waives the limitation contained in paragraph (a)(1)(ii) of this section for an institution that offers a 2-year associate-degree or a 4-year bachelor's-degree program if the students enrolled in the institution's correspondence courses receive no more than 5 percent of the title IV, HEA program funds received by students at that institution.
 
-(c) *Special provisions regarding incarcerated students*—(1) *Exception.* The Secretary may waive the prohibition contained in paragraph (a)(1)(iii) of this section, upon the application of an institution, if the institution is a nonprofit institution that provides four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma.
+(c) *Special provisions regarding confined or incarcerated individuals.* (1)(i) The Secretary may waive the prohibition contained in paragraph (a)(1)(iii) of this section, upon the application of an institution, if the institution is a nonprofit institution that provides four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma and has continuously provided an eligible prison education program approved by the Department under subpart P of 34 CFR part 668 for at least two years.
 
-(2) *Waiver for entire institution.* If the nonprofit institution that applies for a waiver consists solely of four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma, the Secretary waives the prohibition contained in paragraph (a)(1)(iii) of this section for the entire institution.
+(ii) The Secretary does not grant the waiver of the prohibition contained in paragraph (a)(1)(iii) of this section if—
 
-(3) *Other waivers.* If the nonprofit institution that applies for a waiver does not consist solely of four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma, the Secretary waives the prohibition contained in paragraph (a)(1)(iii) of this section—
+(A) For a program described under paragraph (c)(3)(ii) of this section, the program does not maintain a completion rate of 50 percent or greater; or
 
-(i) For the four-year and two-year programs for which it awards a bachelor's degree, an associate degree or a postsecondary diploma; and
+(B) For an institution described under paragraph (c)(2) or (3) of this section—
 
-(ii) For the other programs the institution provides, if the incarcerated regular students enrolled in those other programs have a completion rate of 50 percent or greater.
+(*1*) The institution provides one or more eligible prison education programs that is not compliant with the requirements of 34 CFR part 668, subpart P; or
+
+(*2*) The institution is not administratively capable under 34 CFR 668.16 or financially responsible under 34 CFR part 668, subpart L.
+
+(2) If the nonprofit institution that applies for a waiver consists solely of four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma, the Secretary may waive the prohibition contained in paragraph (a)(1)(iii) of this section for the entire institution.
+
+(3) If the nonprofit institution that applies for a waiver does not consist solely of four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma, the Secretary may waive the prohibition contained in paragraph (a)(1)(iii) of this section on a program-by-program basis—
+
+(i) For the four-year and two-year programs for which the institution awards a bachelor's degree, an associate degree, or a postsecondary diploma; and
+
+(ii) For the other programs the institution provides, if the confined or incarcerated individuals who are regular students enrolled in those other programs have a completion rate of 50 percent or greater.
+
+(4)(i)(A) For five years after the Secretary grants the waiver, no more than 50 percent of the institution's regular enrolled students may be confined or incarcerated individuals; and
+
+(B) Following the period described in paragraph (c)(4)(i)(A) of this section, no more than 75 percent of the institution's regular enrolled students may be confined or incarcerated individuals.
+
+(ii) The limitations in paragraph (c)(4)(i) of this section do not apply if the institution is a public institution chartered for the explicit purpose of educating confined or incarcerated individuals, as determined by the Secretary, and all students enrolled in the institution's prison education program are located in the State where the institution is chartered.
+
+(5) The Secretary limits or terminates the waiver described in this section if the Secretary determines the institution no longer meets the requirements established under paragraph (c)(1) of this section.
+
+(6) If the Secretary limits or terminates an institution's waiver under paragraph (c) of this section, the institution ceases to be eligible for the title IV, HEA programs at the end of the award year that begins after the Secretary's action unless the institution, by that time—
+
+(i) Demonstrates to the satisfaction of the Secretary that it meets the requirements under paragraph (c)(1) of this section; and
+
+(ii) The institution does not enroll any additional confined or incarcerated individuals upon the limitation or termination of the waiver and reduces its enrollment of confined or incarcerated individuals to no more than 25 percent of its regular enrolled students.
 
 (d) *Special provision for a nonprofit institution if more than 50 percent of its enrollment consists of students who do not have a high school diploma or its equivalent.* (1) Subject to the provisions contained in paragraphs (d)(2) and (d)(3) of this section, the Secretary waives the limitation contained in paragraph (a)(1)(iv) of this section for a nonprofit institution if that institution demonstrates to the Secretary's satisfaction that it exceeds that limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent.
 
@@ -110,4 +132,4 @@ Link to an amendment published at 87 FR 65486, Oct. 28, 2022.
 
 (2) If an institution loses its eligibility because of one of the prohibitions contained in paragraphs (a)(2) and (a)(3) of this section, this loss is permanent. The institution's eligibility cannot be reinstated.
 
-(Approved by the Office of Management and Budget under control number 1840-0098)[59 FR 22336, Apr. 29, 1994; 59 FR 32082, June 22, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 34430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 85 FR 54810, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1840-0098)[59 FR 22336, Apr. 29, 1994; 59 FR 32082, June 22, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 34430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 85 FR 54810, Sept. 2, 2020; 87 FR 65486, Oct. 28, 2022]

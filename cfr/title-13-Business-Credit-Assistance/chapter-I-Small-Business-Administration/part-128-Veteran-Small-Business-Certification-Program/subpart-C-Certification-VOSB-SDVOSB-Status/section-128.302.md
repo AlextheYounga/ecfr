@@ -4,7 +4,7 @@
 
 (b) SBA, in its sole discretion, may request clarification of information relating to eligibility at any time in the eligibility determination process. SBA will take into account any clarifications made by an Applicant in response to such a request.
 
-(c) SBA, in its sole discretion, may request additional documentation at any time in the eligibility determination process. Failure to adequately respond to the documentation request shall constitute grounds for a denial.
+(c) SBA, in its sole discretion, may request additional documentation at any time in the eligibility determination process. Failure to adequately respond to the documentation request shall constitute grounds for a denial. If an Applicant does not provide requested information within the allotted time provided by SBA, or if it submits incomplete information, SBA may draw an adverse inference and presume that the information that the Applicant failed to provide would demonstrate ineligibility and deny certification on this basis.
 
 (d) An Applicant's eligibility will be based on the totality of circumstances, including facts set forth in the application, supporting documentation, any information received in response to any SBA request for clarification, any independent research conducted by SBA, and any changed circumstances. The Applicant bears the burden of proof to demonstrate its eligibility as a VOSB or SDVOSB.
 
@@ -28,4 +28,4 @@
 
 (h) SBA will send a copy of the decision letter to the electronic mail address provided with the application. SBA will consider any decision sent to this electronic mail address provided to have been received by the applicant concern. It is the responsibility of the Applicant to ensure all contact information is current in the certification database.
 
-[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 88 FR 42592, July 3, 2023]

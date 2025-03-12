@@ -1,3 +1,5 @@
-##### § 600.22 xxx #####
+##### § 600.22 Severability. #####
 
-Link to an amendment published at 87 FR 65488, Oct. 28, 2022.
+If any provision of this subpart or its application to any person, act, or practice is held invalid, the remainder of the subpart or the application of its provisions to any person, act, or practice will not be affected thereby.
+
+[87 FR 65488, Oct. 28, 2022]

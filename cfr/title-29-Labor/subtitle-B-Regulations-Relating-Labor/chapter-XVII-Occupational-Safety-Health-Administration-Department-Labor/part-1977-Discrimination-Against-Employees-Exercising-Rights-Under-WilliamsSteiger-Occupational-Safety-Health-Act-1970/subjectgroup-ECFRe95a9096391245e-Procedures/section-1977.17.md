@@ -1,0 +1,3 @@
+##### § 1977.17 Withdrawal of complaint. #####
+
+Enforcement of the provisions of section 11(c) is not only a matter of protecting rights of individual employees, but also of public interest. Attempts by an employee to withdraw a previously filed complaint will not necessarily result in termination of the Secretary's investigation. The Secretary's jurisdiction cannot be foreclosed as a matter of law by unilateral action of the employee. However, a voluntary and uncoerced request from a complainant to withdraw his complaint will be given careful consideration and substantial weight as a matter of policy and sound enforcement procedure.

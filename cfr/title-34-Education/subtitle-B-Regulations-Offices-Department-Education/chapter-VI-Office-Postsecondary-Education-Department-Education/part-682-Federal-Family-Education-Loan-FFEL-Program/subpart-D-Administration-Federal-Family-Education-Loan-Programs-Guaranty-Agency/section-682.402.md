@@ -1,7 +1,5 @@
 ##### § 682.402 Death, disability, closed school, false certification, unpaid refunds, and bankruptcy payments. #####
 
-Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
-
 (a) *General.* (1) Rules governing the payment of claims based on filing for relief in bankruptcy, and discharge of loans due to death, total and permanent disability, attendance at a school that closes, false certification by a school of a borrower's eligibility for a loan, and unpaid refunds by a school are set forth in this section.
 
 (2) If a Consolidation loan was obtained jointly by a married couple, the amount of the Consolidation loan that is discharged if one of the borrowers dies or becomes totally and permanently disabled is equal to the portion of the outstanding balance of the Consolidation loan, as of the date the borrower died or became totally and permanently disabled, attributable to any of that borrower's loans that would have been eligible for discharge.
@@ -70,15 +68,27 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (iv) The borrower must submit to the Secretary an application for a total and permanent disability discharge on a form approved by the Secretary. The application must contain—
 
-(A) A certification by a physician, who is a doctor of medicine or osteopathy legally authorized to practice in a State, that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b); or
+(A) A certification by a physician, who is a doctor of medicine or osteopathy legally authorized to practice in a State, that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b);
 
-(B) An SSA notice of award for Social Security Disability Insurance (SSDI) or Supplemental Security Income (SSI) benefits indicating that the borrower's next scheduled disability review will be within five to seven years.
+(B) A certification by a nurse practitioner or physician assistant licensed by a State, or a licensed or certified psychologist at the independent practice level, that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b); or
 
-(v) The borrower must submit the application described in paragraph (c)(2)(iv) of this section to the Secretary within 90 days of the date the physician certifies the application, if applicable.
+(C) An SSA Benefit Planning Query (BPQY) or an SSA notice of award or other documentation deemed acceptable by the Secretary, indicating that—
 
-(vi) After the Secretary receives the application described in paragraph (c)(2)(iv) of this section, the Secretary notifies the holders of the borrower's title IV loans, that the Secretary has received a total and permanent disability discharge application from the borrower. The holders of the loans must notify the applicable guaranty agencies that the total and permanent disability discharge application has been received.
+(*1*) The borrower qualifies for Social Security Disability Insurance (SSDI) benefits or Supplemental Security Income (SSI) based on disability and the borrower's next continuing disability has been scheduled between 5 and 7 years;
 
-(vii) If the application is incomplete, the Secretary notifies the borrower of the missing information and requests the missing information from the borrower or the physician who provided the certification, as appropriate. The Secretary does not make a determination of eligibility until the application is complete.
+(*2*) The borrower qualifies for SSDI benefits or SSI based on disability and the borrower's next continuing disability review has been scheduled at 3 years;
+
+(*3*) The borrower has an established onset date for SSDI or SSI of at least 5 years prior or has been receiving SSDI benefits or SSI based on disability for at least 5 years prior to the application for a disability discharge;
+
+(*4*) The borrower qualifies for SSDI benefits or SSI based on a compassionate allowance; or
+
+(*5*) For a borrower who is currently receiving SSA retirement benefits, documentation that, prior to the borrower qualifying for SSA retirement benefits, the borrower met any of the requirements in paragraph (c)(2)(iv)(C) of this section.
+
+(v) The borrower must submit the application described in paragraph (c)(2)(iv) of this section to the Secretary within 90 days of the date the physician, nurse practitioner, physician assistant, or psychologist certifies the application, if applicable.
+
+(vi) After the Secretary receives the application described in paragraph (c)(2)(iv) of this section, the Secretary notifies the holders of the borrower's title IV loans that the Secretary has received a total and permanent disability discharge application from the borrower. The holders of the loans must notify the applicable guaranty agency that the total and permanent disability discharge application has been received.
+
+(vii) If the application is incomplete, the Secretary notifies the borrower of the missing information and requests the missing information from the borrower or the physician, nurse practitioner, physician assistant, or psychologist who provided the certification, as appropriate. The Secretary does not make a determination of eligibility until the application is complete.
 
 (viii) The lender notification described in paragraph (c)(2)(vi) of this section directs the borrower's loan holders to suspend collection activity or maintain the suspension of collection activity on the borrower's title IV loans.
 
@@ -90,19 +100,19 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (C) Explains the process for the Secretary's review of total and permanent disability discharge applications.
 
-(3) *Secretary's review of total and permanent disability discharge application.* (i) If, after reviewing the borrower's completed application, the Secretary determines that the physician's certification or the SSA notice of award for SSDI or SSI benefits supports the conclusion that the borrower is totally and permanently disabled, as described in paragraph (1) of the definition of that term in § 682.200(b), the borrower is considered totally and permanently disabled—
+(3) *Secretary's review of total and permanent disability discharge application.* (i) If, after reviewing the borrower's completed application, the Secretary determines that the data described in paragraph (c)(2)(iv) of this section supports the conclusion that the borrower is totally and permanently disabled, as described in paragraph (1) of the definition of that term in § 682.200(b), the borrower is considered totally and permanently disabled—
 
-(A) As of the date the physician certified the borrower's application; or
+(A) As of the date the physician, nurse practitioner, physician assistant, or psychologist certified the borrower's application; or
 
-(B) As of the date the Secretary received the SSA notice of award for SSDI or SSI benefits.
+(B) As of the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section.
 
-(ii) The Secretary may require the borrower to submit additional medical evidence if the Secretary determines that the borrower's application does not conclusively prove that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b). As part of the Secretary's review of the borrower's discharge application, the Secretary may require and arrange for an additional review of the borrower's condition by an independent physician at no expense to the borrower.
+(ii) If the Secretary determines that the borrower's application does not support the conclusion that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b) the Secretary may require the borrower to submit additional medical evidence. As part of the Secretary's review of the borrower's discharge application, the Secretary may require and arrange for an additional review of the borrower's condition by an independent physician or other medical professional identified by the Secretary at no expense to the borrower.
 
-(iii) After determining that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b), the Secretary notifies the borrower and the borrower's lenders that the application for a disability discharge has been approved. With this notification, the Secretary provides the date the physician certified the borrower's loan discharge application or the date the Secretary received the SSA notice of award for SSDI or SSI benefits and directs each lender to submit a disability claim to the guaranty agency so the loan can be assigned to the Secretary. The Secretary returns any payment received by the Secretary after the date the physician certified the borrower's loan discharge application or received the SSA notice of award for SSDI or SSI benefits to the person who made the payment.
+(iii) After determining that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b), the Secretary notifies the borrower and the borrower's lenders that the application for a disability discharge has been approved. With this notification, the Secretary provides the date the physician, nurse practitioner, physician assistant, or psychologist certified the borrower's loan discharge application or the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section and directs each lender to submit a disability claim to the guaranty agency so the loan can be assigned to the Secretary. The Secretary returns any payment received by the Secretary after the date the physician, nurse practitioner, physician assistant, or psychologist certified the borrower's loan discharge application or received the SSA data described in paragraph (c)(2)(iv)(C) of this section to the person who made the payment.
 
 (iv) After the loan is assigned, the Secretary discharges the borrower's obligation to make further payments on the loan and notifies the borrower and the lender that the loan has been discharged. The notification to the borrower explains the terms and conditions under which the borrower's obligation to repay the loan will be reinstated, as specified in paragraph (c)(6)(i) of this section.
 
-(v) If the Secretary determines that the physician's certification or SSA notice of award for SSDI or SSI benefits provided by the borrower does not support the conclusion that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b), the Secretary notifies the borrower and the lender that the application for a disability discharge has been denied. The notification includes—
+(v) If the Secretary determines that the physician, nurse practitioner, physician assistant, or psychologist certification or SSA data described in paragraph (c)(2)(iv)(C) of this section does not support the conclusion that the borrower is totally and permanently disabled as described in paragraph (1) of the definition of that term in § 682.200(b), the Secretary notifies the borrower and the lender that the application for a disability discharge has been denied. The notification includes—
 
 (A) The reason or reasons for the denial;
 
@@ -116,19 +126,11 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (vi) If the borrower requests re-evaluation in accordance with paragraph (c)(3)(v)(D) of this section or submits a new total and permanent disability discharge application in accordance with paragraph (c)(3)(v)(E) of this section, the request must include new information regarding the borrower's disabling condition that was not provided to the Secretary in connection with the prior application at the time the Secretary reviewed the borrower's initial application for a total and permanent disability discharge.
 
-(4) *Treatment of disbursements made during the period from the date of the physician's certification or the date the Secretary received the SSA notice of award for SSDI or SSI benefits until the date of discharge.* If a borrower received a title IV loan or TEACH Grant before the date the physician certified the borrower's discharge application or before the date the Secretary received the SSA notice of award for SSDI or SSI benefits and a disbursement of that loan or grant is made during the period from the date of the physician's certification or the Secretary's receipt of the SSA notice of award for SSDI or SSI benefits until the date the Secretary grants a discharge under this section, the processing of the borrower's loan discharge request will be suspended until the borrower ensures that the full amount of the disbursement has been returned to the loan holder or to the Secretary, as applicable.
+(4) *Treatment of disbursements made during the period from the date of the physician, nurse practitioner, physician assistant, or psychologist certification or the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section until the date of discharge.* If a borrower received a title IV loan or TEACH Grant before the date the physician, nurse practitioner, physician assistant, or psychologist certified the borrower's discharge application or before the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section and a disbursement of that loan or grant is made during the period from the date of the physician, nurse practitioner, physician assistant, or psychologist certification or the Secretary's receipt of the SSA data described in paragraph (c)(2)(iv)(C) of this section until the date the Secretary grants a discharge under this section, the processing of the borrower's loan discharge request will be suspended until the borrower ensures that the full amount of the disbursement has been returned to the loan holder or to the Secretary, as applicable.
 
-(5) *Receipt of new title IV loans or TEACH Grants after the date of the physician's certification or after the date the Secretary received the SSA notice of award for SSDI or SSI benefits.* If a borrower receives a disbursement of a new title IV loan or receives a new TEACH Grant made on or after the date the physician certified the borrower's discharge application or the date the Secretary received the SSA notice of award for SSDI or SSI benefits and before the date the Secretary grants a discharge under this section, the Secretary denies the borrower's discharge request and collection resumes on the borrower's loans.
+(5) *Receipt of new title IV loans or TEACH Grants after the date of the physician, nurse practitioner, physician assistant, or psychologist certification or after the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section.* If a borrower receives a disbursement of a new title IV loan or receives a new TEACH Grant made on or after the date the physician, nurse practitioner, physician assistant, or psychologist certified the borrower's discharge application or the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section and before the date the Secretary grants a discharge under this section, the Secretary denies the borrower's discharge request and collection resumes on the borrower's loans.
 
-(6) *Conditions for reinstatement of a loan after a total and permanent disability discharge.* (i) The Secretary reinstates the borrower's obligation to repay a loan that was discharged in accordance with paragraph (c)(3)(iii) of this section if, within three years after the date the Secretary granted the discharge, the borrower—
-
-(A) Has annual earnings from employment that exceed 100 percent of the poverty guideline for a family of two, as published annually by the United States Department of Health and Human Services pursuant to 42 U.S.C. 9902(2);
-
-(B) Receives a new TEACH Grant or a new loan under the Perkins or Direct Loan programs, except for a Direct Consolidation Loan that includes loans that were not discharged; or
-
-(C) Fails to ensure that the full amount of any disbursement of a title IV loan or TEACH Grant received prior to the discharge date that is made is returned to the loan holder or to the Secretary, as applicable, within 120 days of the disbursement date; or
-
-(D) Receives a notice from the SSA indicating that the borrower is no longer disabled or that the borrower's continuing disability review will no longer be the five- to seven-year period indicated in the SSA notice of award for SSDI or SSI benefits.
+(6) *Conditions for reinstatement of a loan after a total and permanent disability discharge.* (i) The Secretary reinstates the borrower's obligation to repay a loan that was discharged in accordance with (c)(3)(iii) of this section if, within 3 years after the date the Secretary granted the discharge, the borrower receives a new TEACH Grant or a new loan under the Direct Loan Program, except for a Direct Consolidation Loan that includes loans that were not discharged.
 
 (ii) If the borrower's obligation to repay a loan is reinstated, the Secretary—
 
@@ -142,11 +144,25 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (A) The reason or reasons for the reinstatement;
 
-(B) An explanation that the first payment due date on the loan following reinstatement will be no earlier than 60 days after the date of the notification of reinstatement; and
+(B) An explanation that the first payment due date on the loan following reinstatement will be no earlier than 90 days after the date of the notification of reinstatement; and
 
 (C) Information on how the borrower may contact the Secretary if the borrower has questions about the reinstatement or believes that the obligation to repay the loan was reinstated based on incorrect information.
 
-(7) *Borrower's responsibilities after a total and permanent disability discharge.* During the three-year period described in paragraph (c)(6)(i) of this section, the borrower must—
+(7) *Lender and guaranty agency actions.* (i) If the Secretary approves the borrower's total and permanent disability discharge application—
+
+(A) The lender must submit a disability claim to the guaranty agency, in accordance with paragraph (g)(1) of this section;
+
+(B) If the claim satisfies the requirements of paragraph (g)(1) of this section and § 682.406, the guaranty agency must pay the claim submitted by the lender;
+
+(C) After receiving a claim payment from the guaranty agency, the lender must return to the sender any payments received by the lender after the date the physician, nurse practitioner, physician assistant, or psychologist certified the borrower's loan discharge application or after the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section as well as any payments received after claim payment from or on behalf of the borrower;
+
+(D) The Secretary reimburses the guaranty agency for a disability claim paid to the lender after the agency pays the claim to the lender; and
+
+(E) The guaranty agency must assign the loan to the Secretary within 45 days of the date the guaranty agency pays the disability claim and receives the reimbursement payment, or within 45 days of the date the guaranty agency receives the notice described in paragraph (c)(3)(iii) of this section if a guaranty agency is the lender.
+
+(ii) If the Secretary does not approve the borrower's total and permanent disability discharge request, the lender must resume collection of the loan and is deemed to have exercised forbearance of payment of both principal and interest from the date collection activity was suspended. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except if the lender is a guaranty agency it may not capitalize accrued interest.
+
+(8) *Borrower's responsibilities after a total and permanent disability discharge.* During the three-year period described in paragraph (c)(6)(i) of this section, the borrower must—
 
 (i) Promptly notify the Secretary of any changes in the borrower's address or phone number;
 
@@ -156,87 +172,15 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (iv) Promptly notify the Secretary if the borrower receives a notice from the SSA indicating that the borrower is no longer disabled or that the borrower's continuing disability review will no longer be the five- to seven-year period indicated in the SSA notice of award for SSDI or SSI benefits.
 
-(8) *Lender and guaranty agency actions.* (i) If the Secretary approves the borrower's total and permanent disability discharge application—
+(9) *Discharge without an application.* The Secretary will discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary—
 
-(A) The lender must submit a disability claim to the guaranty agency, in accordance with paragraph (g)(1) of this section;
+(i) Obtains data from the Department of Veterans Affairs (VA) showing that the borrower is unemployable due to a service-connected disability; or
 
-(B) If the claim satisfies the requirements of paragraph (g)(1) of this section and § 682.406, the guaranty agency must pay the claim submitted by the lender;
+(ii) Obtains data from the Social Security Administration (SSA) described in paragraph (c)(2)(iv)(C) of this section.
 
-(C) After receiving a claim payment from the guaranty agency, the lender must return to the sender any payments received by the lender after the date the physician certified the borrower's loan discharge application or after the date the Secretary received the SSA notice of award for SSDI or SSI benefits as well as any payments received after claim payment from or on behalf of the borrower;
+(10) *Notifications and return of payments.* (i) After determining that a borrower qualifies for a total and permanent disability discharge under paragraph (c)(9) of this section, the Secretary sends a notification to the borrower informing the borrower that the Secretary will discharge the borrower's title IV loans unless the borrower notifies the Secretary, by a date specified in the Secretary's notification, that the borrower does not wish to receive the loan discharge.
 
-(D) The Secretary reimburses the guaranty agency for a disability claim paid to the lender after the agency pays the claim to the lender; and
-
-(E) The guaranty agency must assign the loan to the Secretary within 45 days of the date the guaranty agency pays the disability claim and receives the reimbursement payment, or within 45 days of the date the guaranty agency receives the notice described in paragraph (c)(3)(iii) of this section if a guaranty agency is the lender.
-
-(ii) If the Secretary does not approve the borrower's total and permanent disability discharge request, the lender must resume collection of the loan and is deemed to have exercised forbearance of payment of both principal and interest from the date collection activity was suspended. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except if the lender is a guaranty agency it may not capitalize accrued interest.
-
-(9) *Discharge application process for veterans who are totally and permanently disabled as described in paragraph (2) of the definition of that term in § 682.200(b)*—(i) *General.* If a veteran notifies the lender that the veteran claims to be totally and permanently disabled as described in paragraph (2) of the definition of that term in § 682.200(b), the lender must direct the veteran to notify the Secretary of the veteran's intent to submit an application for a total and permanent disability discharge and provide the veteran with the information needed for the veteran to apply for a total and permanent disability discharge to the Secretary.
-
-(ii) If the veteran notifies the Secretary of the veteran's intent to apply for a total and permanent disability discharge, the Secretary—
-
-(A) Provides the veteran with information needed for the veteran to apply for a total and permanent disability discharge;
-
-(B) Identifies all title IV loans owed by the veteran and notifies the lenders of the veteran's intent to apply for a total and permanent disability discharge;
-
-(C) Directs the lenders to suspend efforts to collect from the veteran for a period not to exceed 120 days; and
-
-(D) Informs the veteran that the suspension of collection activity described in paragraph (c)(9)(ii)(C) of this section will end after 120 days and the lender will resume collection on the loans if the veteran does not submit a total and permanent disability discharge application to the Secretary within that time.
-
-(iii) If the veteran fails to submit an application for a total and permanent disability discharge to the Secretary within 120 days, collection resumes on the veteran's title IV loans and the lender is deemed to have exercised forbearance of principal and interest from the date it suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except that if the lender is a guaranty agency it may not capitalize accrued interest.
-
-(iv) Except as provided in paragraph (c)(10) of this section, the veteran must submit to the Secretary an application for a total and permanent disability discharge on a form approved by the Secretary.
-
-(v) The application must be accompanied by documentation from the Department of Veterans Affairs showing that the Department of Veterans Affairs has determined that the veteran is unemployable due to a service-connected disability. The veteran will not be required to provide any additional documentation related to the veteran's disability.
-
-(vi) After the Secretary receives the application and supporting documentation described in paragraphs (c)(9)(iv) and (c)(9)(v) of this section, the Secretary notifies the holders of the veteran's title IV loans, that the Secretary has received a total and permanent disability discharge application from the veteran. The holders of the loans must notify the applicable guaranty agencies that the total and permanent disability discharge application has been received.
-
-(vii) If the application is incomplete, the Secretary notifies the veteran of the missing information and requests the missing information from the veteran or the veteran's representative. The Secretary does not make a determination of eligibility until the application is complete.
-
-(viii) The lender notification described in paragraph (c)(9)(vi) of this section directs the lenders to suspend collection activity or maintain the suspension of collection activity on the veteran's title IV loans.
-
-(ix) After the Secretary receives the disability discharge application, the Secretary sends a notice to the veteran that—
-
-(A) States that the application will be reviewed by the Secretary;
-
-(B) Informs the veteran that the veteran's lenders will suspend collection activity on the veteran's title IV loans while the Secretary reviews the veteran's application for a discharge; and
-
-(C) Explains the process for the Secretary's review of total and permanent disability discharge applications.
-
-(x) After making a determination that the veteran is totally and permanently disabled as described in paragraph (2) of the definition of that term in § 682.200(b), the Secretary notifies the veteran and the veteran's lenders that the application for a disability discharge has been approved. With this notification, the Secretary provides the effective date of the determination and directs each lender to submit a disability claim to the guaranty agency.
-
-(xi) If the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is not totally and permanently disabled as described in paragraph (2) of the definition of that term in § 682.200(b), the Secretary notifies the veteran and the lender that the application for a disability discharge has been denied. The notification includes—
-
-(A) The reason or reasons for the denial;
-
-(B) An explanation that the loan is due and payable to the lender under the terms of the promissory note and that the loan will return to the status it was in at the time the veteran applied for a total and permanent disability discharge;
-
-(C) An explanation that the lender will notify the veteran of the date the veteran must resume making payments on the loan;
-
-(D) An explanation that the veteran is not required to submit a new total and permanent disability discharge application if the veteran requests that the Secretary re-evaluate the application for discharge by providing, within 12 months of the date of the notification, additional documentation from the Department of Veterans Affairs that supports the veteran's eligibility for discharge; and
-
-(E) Information on how the veteran may reapply for a total and permanent disability discharge in accordance with procedures described in paragraphs (c)(2) through (c)(8) of this section, if the documentation from the Department of Veterans Affairs does not indicate that the veteran is totally and permanently disabled as described in paragraph (2) of the definition of that term in § 682.200(b), but indicates that the veteran may be totally and permanently disabled as described in paragraph (1) of the definition of that term.
-
-(xii)(A) If the Secretary approves the veteran's total and permanent disability discharge application based on documentation from the Department of Veterans Affairs the lender must submit a disability claim to the guaranty agency, in accordance with paragraph (g)(1) of this section.
-
-(B) If the claim meets the requirements of paragraph (g)(1) of this section and § 682.406, the guaranty agency must pay the claim and discharge the loan.
-
-(C) The Secretary reimburses the guaranty agency for a disability claim after the agency pays the claim to the lender.
-
-(D) Upon receipt of the claim payment from the guaranty agency, the lender returns any payments received by the lender on or after the effective date of the determination by the Department of Veterans Affairs to the person who made the payments.
-
-(E) If the Secretary does not approve the veteran's total and permanent disability discharge application based on documentation from the Department of Veterans Affairs, the lender must resume collection and is deemed to have exercised forbearance of payment of both principal and interest from the date collection activity was suspended. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except that if the lender is a guaranty agency it may not capitalize accrued interest.
-
-(10) *Discharge without an application.* (i) The Secretary may discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary—
-
-(A) Obtains data from the Department of Veterans Affairs (VA) showing that the borrower is unemployable due to a service-connected disability; or
-
-(B) Obtains data from the Social Security Administration (SSA) showing that the borrower qualifies for SSDI or SSI benefits and that the borrower's next scheduled disability review will be no earlier than five nor later than seven years.
-
-(ii) [Reserved]
-
-(11) *Notifications and return of payments.* (i) After determining that a borrower qualifies for a total and permanent disability discharge under paragraph (c)(10) of this section, the Secretary sends a notification to the borrower informing the borrower that the Secretary will discharge the borrower's title IV loans unless the borrower notifies the Secretary, by a date specified in the Secretary's notification, that the borrower does not wish to receive the loan discharge.
-
-(ii) Unless the borrower notifies the Secretary that the borrower does not wish to receive the discharge, the Secretary notifies the borrower's loan holders that the borrower has been approved for a disability discharge. With this notification the Secretary provides the effective date of the determination by VA or the date the Secretary received the SSA notice of award for SSDI or SSI benefits, and directs the holder of each FFELP loan made to the borrower to submit a disability claim to the guaranty agency in accordance with paragraph (g)(1) of this section.
+(ii) Unless the borrower notifies the Secretary that the borrower does not wish to receive the discharge, the Secretary notifies the borrower's loan holders that the borrower has been approved for a disability discharge. With this notification the Secretary provides the effective date of the determination by VA or the date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section and directs the holder of each FFEL Program loan made to the borrower to submit a disability claim to the guaranty agency in accordance with paragraph (g)(1) of this section.
 
 (iii) If the claim meets the requirements of paragraph (g)(1) of this section and § 682.406, the guaranty agency pays the claim and must—
 
@@ -250,31 +194,51 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (A) The effective date of the determination by VA that the borrower is unemployable due to a service-connected disability; or
 
-(B) The date the Secretary received the SSA notice of award for SSDI or SSI benefits.
+(B) The date the Secretary received the SSA data described in paragraph (c)(2)(iv)(C) of this section.
 
 (vi) For a loan that is assigned to the Secretary for discharge based on data from the SSA, the Secretary discharges the loan in accordance with paragraph (c)(3)(iv) of this section.
 
 (vii) If the borrower notifies the Secretary that they do not wish to receive the discharge, the borrower will remain responsible for repayment of the borrower's loans in accordance with the terms and conditions of the promissory notes that the borrower signed.
 
-(d) *Closed school*—(1) *General.* (i) The Secretary reimburses the holder of a loan received by a borrower on or after January 1, 1986, and discharges the borrower's obligation with respect to the loan in accordance with the provisions of paragraph (d) of this section, if the borrower (or the student for whom a parent received a PLUS loan) could not complete the program of study for which the loan was intended because the school at which the borrower (or student) was enrolled closed, or the borrower (or student) withdrew from the school not more than 120 days prior to the date the school closed. The Secretary may extend the 120-day period if the Secretary determines that exceptional circumstances related to a school's closing justify an extension. Exceptional circumstances for this purpose may include, but are not limited to: the school's loss of accreditation; the school's discontinuation of the majority of its academic programs; action by the State to revoke the school's license to operate or award academic credentials in the State; or a finding by a State or Federal government agency that the school violated State or Federal law.
+(d) *Closed school*—(1) *General.* (i) The Secretary reimburses the holder of a loan received by a borrower on or after January 1, 1986, and discharges the borrower's obligation with respect to the loan in accordance with the provisions of paragraph (d) of this section, if the borrower (or the student for whom a parent received a PLUS loan) could not complete the program of study for which the loan was intended because the school at which the borrower (or student) was enrolled closed, or the borrower (or student) withdrew from the school not more than 180 days prior to the date the school closed. The Secretary may extend the 180-day period if the Secretary determines that exceptional circumstances, as described in paragraph (d)(9) of this section, justify an extension.
 
 (ii) For purposes of the closed school discharge authorized by this section—
 
-(A) A school's closure date is the date that the school ceases to provide educational instruction in all programs, as determined by the Secretary;
+(A) If a school has closed, the school's closure date is the earlier of: the date, determined by the Secretary, that the school ceased to provide educational instruction in programs in which most students at the school were enrolled, or a date determined by the Secretary that reflects when the school ceased to provide educational instruction for all of its students;
 
-(B) The term “borrower” includes all endorsers on a loan; and
+(B) The term “borrower” includes all endorsers on a loan;
 
-(C) A “school” means a school's main campus or any location or branch of the main campus, regardless of whether the school or its location or branch is considered eligible.
+(C) A “school” means a school's main campus or any location or branch of the main campus, regardless of whether the school or its location or branch is considered title IV eligible, and
 
-(2) *Relief available pursuant to discharge.* (i) Discharge under paragraph (d) of this section relieves the borrower of an existing or past obligation to repay the loan and any charges imposed or costs incurred by the holder with respect to the loan that the borrower is, or was otherwise obligated to pay.
+(D) “Program” means the credential defined by the level and Classification of Instructional Program code in which a student is enrolled, except that the Secretary may define a borrower's program as multiple levels or Classification of Instructional Program codes if—
 
-(ii) A discharge of a loan under paragraph (d) of this section qualifies the borrower for reimbursement of amounts paid voluntarily or through enforced collection on a loan obligation discharged under paragraph (d) of this section.
+(*1*) The enrollment occurred at the same school in closely proximate periods;
 
-(iii) A borrower who has defaulted on a loan discharged under paragraph (d) of this section is not regarded as in default on the loan after discharge, and is eligible to receive assistance under the Title IV, HEA programs.
+(*2*) The school granted a credential in a program while the student was enrolled in a different program; or
 
-(iv) A discharge of a loan under paragraph (d) of this section must be reported by the loan holder to all credit reporting agencies to which the holder previously reported the status of the loan, so as to delete all adverse credit history assigned to the loan.
+(*3*) The programs must be taken in a set order or were presented as necessary for borrowers to complete in order to succeed in the relevant field of employment
 
-(3) *Borrower qualification for discharge.* Except as provided in paragraph (d)(8) of this section, in order to qualify for a discharge of a loan under paragraph (d) of this section, a borrower must submit a completed closed school discharge application on a form approved by the Secretary. By signing the application, the borrower certifies—
+(2) *Relief available pursuant to discharge.* (i) Discharge under this paragraph (d) relieves the borrower of any existing or past obligation to repay the loan and any charges imposed or costs incurred by the holder with respect to the loan that the borrower is or was otherwise obligated to pay.
+
+(ii) A discharge of a loan under this paragraph (d) qualifies the borrower for reimbursement of amounts paid voluntarily or through enforced collection on a loan obligation discharged under this paragraph (d).
+
+(iii) A borrower who has defaulted on a loan discharged under this paragraph (d) is not regarded as in default on the loan after discharge, and is eligible to receive assistance under the title IV, HEA programs.
+
+(iv) A discharge of a loan under this paragraph (d) must be reported by the loan holder to all consumer reporting agencies to which the holder previously reported the status of the loan, so as to delete all adverse credit history assigned to the loan.
+
+(3) *Borrower qualification for discharge.* Except as provided in paragraph (d)(8) of this section, to qualify for a discharge of a loan under this paragraph (d), a borrower must submit a completed closed school discharge application on a form approved by the Secretary and the factual assertions in the application must be true and must be made under penalty of perjury. The application explains the procedures and eligibility criteria for obtaining a discharge and requires the borrower to state that the borrower (or the student on whose behalf a parent borrowed)—
+
+(i) Received the proceeds of a loan, in whole or in part, on or after January 1, 1986, to attend a school;
+
+(ii) Did not complete the program of study at that school because the school closed while the student was enrolled, or the student withdrew from the school not more than 180 calendar days before the school closed. The Secretary may extend the 180-day period if the Secretary determines that exceptional circumstances, as described in paragraph (d)(9) of this section, justify an extension;
+
+(iii) On or after July 1, 2023, state that the borrower did not complete the program at another branch or location of the school or through a teach-out agreement at another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency; and
+
+(iv) State that the borrower (or student)—
+
+(A) Agrees to provide to the Secretary or the Secretary's designee upon request other documentation reasonably available to the borrower that demonstrates that the borrower meets the qualifications for discharge under this section; and
+
+(B) Agrees to cooperate with the Secretary or the Secretary's designee in enforcement actions in accordance with paragraph (d)(4) of this section and to transfer any right to recovery against a third party to the Secretary in accordance with paragraph (d)(5) of this section.
 
 (4) *Cooperation by borrower in enforcement actions.* (i) In any judicial or administrative proceeding brought by the Secretary or the Secretary's designee to recover for amounts discharged under paragraph (d) of this section or to take other enforcement action with respect to the conduct on which those claims were based, a borrower who requests or receives a discharge under paragraph (d) of this section must cooperate with the Secretary or the Secretary's designee. At the request of the Secretary or the Secretary's designee, and upon the Secretary's or the Secretary's designee's tendering to the borrower the fees and costs as are customarily provided in litigation to reimburse witnesses, the borrower shall—
 
@@ -330,11 +294,11 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (ii) *Procedures applicable if a school closed on or after June 13, 1994.* (A) A guaranty agency shall notify the Secretary immediately whenever it becomes aware of reliable information indicating a school may have closed. The designated guaranty agency in the state in which the school is located shall promptly investigate whether the school has closed and, within 30 days after receiving information indicating that the school may have closed, report the results of its investigation to the Secretary concerning the date of the school's closure and whether a teach-out of the closed school's program was made available to students.
 
-(B) If a guaranty agency determines that a school appears to have closed, it shall, within 30 days of making that determination, notify all lenders participating in its program to suspend collection efforts against individuals with respect to loans made for attendance at the closed school, if the student to whom (or on whose behalf) a loan was made, appears to have been enrolled at the school on the closing date, or withdrew not more than 120 days prior to the date the school appears to have closed. Within 30 days after receiving confirmation of the date of a school's closure from the Secretary, the agency shall—
+(B) If a guaranty agency determines that a school appears to have closed, it shall, within 30 days of making that determination, notify all lenders participating in its program to suspend collection efforts against individuals with respect to loans made for attendance at the closed school, if the student to whom (or on whose behalf) a loan was made, appears to have been enrolled at the school on the closing date, or withdrew not more than 180 days prior to the date the school appears to have closed. Within 30 days after receiving confirmation of the date of a school's closure from the Secretary, the agency shall—
 
 (*1*) Notify all lenders participating in its program to mail a discharge application explaining the procedures and eligibility criteria for obtaining a discharge and an explanation of the information that must be included in the application to all borrowers who may be eligible for a closed school discharge; and
 
-(*2*) Review the records of loans that it holds, identify the loans made to any borrower (or student) who appears to have been enrolled at the school on the school closure date or who withdrew not more than 120 days prior to the closure date, and mail a discharge application and an explanation of the information that must be included in the application to the borrower. The application shall inform the borrower of the procedures and eligibility criteria for obtaining a discharge.
+(*2*) Review the records of loans that it holds, identify the loans made to any borrower (or student) who appears to have been enrolled at the school on the school closure date or who withdrew not more than 180 days prior to the closure date, and mail a discharge application and an explanation of the information that must be included in the application to the borrower. The application shall inform the borrower of the procedures and eligibility criteria for obtaining a discharge.
 
 (C) If a loan identified under paragraph (d)(6)(ii)(B)(*2*) of this section is held by the guaranty agency as a defaulted loan and the borrower's current address is known, the guaranty agency shall immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments), and notify the borrower that the agency will provide additional information about the procedures for requesting a discharge after the agency has received confirmation from the Secretary that the school had closed.
 
@@ -360,7 +324,7 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (*2*) If the agency determines that the borrower does not qualify for a discharge, the agency shall, not later than 90 days after the agency received the claim, return the claim to the lender with an explanation of the reasons for its determination.
 
-(H) If a borrower described in paragraph (d)(6)(ii)(E) or (F) of this section fails to submit the completed application within 60 days of being notified of that option, the lender or guaranty agency shall resume collection.
+(H) If a borrower described in paragraph (d)(6)(ii)(E) or (F) of this section fails to submit the completed application within 90 days of being notified of that option, the lender or guaranty agency shall resume collection.
 
 (I) Upon resuming collection on any affected loan, the lender or guaranty agency provides the borrower another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
@@ -374,7 +338,7 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (7) *Lender responsibilities.* (i) A lender shall comply with the requirements prescribed in paragraph (d) of this section. In the absence of specific instructions from a guaranty agency or the Secretary, if a lender receives information from a source it believes to be reliable indicating that an existing or former borrower may be eligible for a loan discharge under paragraph (d) of this section, the lender shall immediately notify the guaranty agency, and suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments).
 
-(ii) If the borrower fails to submit a completed application described in paragraph (d)(3) of this section within 60 days of being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period. Upon resuming collection, the lender provides the borrower with another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
+(ii) If the borrower fails to submit a completed application described in paragraph (d)(3) of this section within 90days of being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period. Upon resuming collection, the lender provides the borrower with another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
 (iii) The lender shall file a closed school claim with the guaranty agency in accordance with § 682.402(g) no later than 60 days after the lender receives a completed application described in paragraph (d)(3) of this section from the borrower, or notification from the agency that the Secretary approved the borrower's appeal in accordance with paragraph (d)(6)(ii)(K)(*3*) of this section.
 
@@ -382,29 +346,67 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (v) Within 30 days after being notified by the guaranty agency that the borrower's request for a closed school discharge has been denied, the lender shall resume collection and notify the borrower of the reasons for the denial. The lender shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity, and may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
 
-(8) *Discharge without an application.* (i) A borrower's obligation to repay a FFEL Program loan may be discharged without an application from the borrower if the—
+(8) *Discharge without an application.* (i) A borrower's obligation to repay a FFEL Program loan will be discharged without an application from the borrower if the—
 
-(A) Borrower received a discharge on a loan pursuant to 34 CFR 674.33(g) under the Federal Perkins Loan Program, or 34 CFR 685.214 under the William D. Ford Federal Direct Loan Program; or
+(A) Borrower received a discharge on a loan pursuant to § 674.33(g) of this chapter under the Federal Perkins Loan Program, or § 685.214 of this chapter under the William D. Ford Federal Direct Loan Program; or
 
-(B) Secretary or the guaranty agency, with the Secretary's permission, determines that the borrower qualifies for a discharge based on information in the Secretary or guaranty agency's possession.
+(B) The Secretary or the guaranty agency, with the Secretary's permission, determines that the borrower qualifies for a discharge under sections (d)(3)(i), (ii) and (iii) based on information in the Secretary or guaranty agency's possession. The Secretary or guaranty agency discharges the loan without an application or any statement from the borrower 1 year after the institution's closure date if the borrower did not complete the program at another branch or location of the school or through a teach-out agreement at another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency.
 
-(ii) With respect to schools that closed on or after November 1, 2013, a borrower's obligation to repay a FFEL Program loan will be discharged without an application from the borrower if the Secretary or guaranty agency determines that the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years after the school closed.
+(ii) If the borrower accepts but does not complete a continuation of the program at another branch of location of the school or a teach-out agreement at another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency, then the Secretary or guaranty agency discharges the loan 1 year after the borrower's last date of attendance in the teach-out program.
 
-(e) *False certification by a school of a student's eligibility to borrow and unauthorized disbursements*—(1) *General.* (i) The Secretary reimburses the holder of a loan received by a borrower on or after January 1, 1986, and discharges a current or former borrower's obligation with respect to the loan in accordance with the provisions of paragraph (e) of this section, if the borrower's (or the student for whom a parent received a PLUS loan) eligibility to receive the loan was falsely certified by an eligible school. On or after July 1, 2006, the Secretary reimburses the holder of a loan, and discharges a borrower's obligation with respect to the loan in accordance with the provisions of paragraph (e) of this section, if the borrower's eligibility to receive the loan was falsely certified as a result of a crime of identity theft. For purposes of a false certification discharge, the term “borrower” includes all endorsers on a loan. A student's or other individual's eligibility to borrow shall be considered to have been falsely certified by the school if the school—
+(9) *Exceptional circumstances.* For purposes of this section, exceptional circumstances include, but are not limited to—
 
-(A) Certified the student's eligibility for a FFEL Program loan on the basis of ability to benefit from its training and the student did not meet the applicable requirements described in 34 CFR part 668 and section 484(d) of the Act, as applicable and as described in paragraph (e)(13) of this section; or
+(i) The revocation or withdrawal by an accrediting agency of the school's institutional accreditation;
 
-(B) Signed the borrower's name without authorization by the borrower on the loan application or promissory note.
+(ii) The school is or was placed on probation or issued a show-cause order, or placed on an accreditation status that poses an equivalent or greater risk to its accreditation, by its accrediting agency for failing to meet one or more of the agency's standards;
 
-(C) Certified the eligibility of an individual for an FFEL Program loan as a result of the crime of identity theft committed against the individual, as that crime is defined in § 682.402(e)(14).
+(iii) The revocation or withdrawal by the State authorization or licensing authority to operate or to award academic credentials in the State;
 
-(ii) The Secretary discharges the obligation of a borrower with respect to a loan disbursement for which the school, without the borrower's authorization, endorsed the borrower's loan check or authorization for electronic funds transfer, unless the student for whom the loan was made received the proceeds of the loan either by actual delivery of the loan funds or by a credit in the amount of the contested disbursement applied to charges owed to the school for that portion of the educational program completed by the student. However, the Secretary does not reimburse the lender with respect to any amount disbursed by means of a check bearing an unauthorized endorsement unless the school also executed the application or promissory note for that loan for the named borrower without that individual's consent.
+(iv) The termination by the Department of the school's participation in a title IV, HEA program;
 
-(iii) If a loan was made as a result of the crime of identity theft that was committed by an employee or agent of the lender, or if at the time the loan was made, an employee or agent of the lender knew of the identity theft of the individual named as the borrower—
+(v) A finding by a State or Federal government agency that the school violated State or Federal law related to education or services to students;
+
+(vi) A State or Federal court judgment that a School violated State or Federal law related to education or services to students;
+
+(vii) The teach-out of the student's educational program exceeds the 180-day look back period for a closed school discharge;
+
+(viii) The school responsible for the teach-out of the student's educational program fails to perform the material terms of the teach-out plan or agreement, such that the student does not have a reasonable opportunity to complete his or her program of study;
+
+(ix) The school discontinued a significant share of its academic programs.
+
+(x) The school permanently closed all or most of its ground-based or in-person locations while maintaining online programs.
+
+(xi) The school was placed on the heightened cash monitoring payment method as defined in § 668.162(d)(2).
+
+(e) *False certification by a school of a student's eligibility to borrow and unauthorized disbursements*—(1) *General.* (i) The Secretary reimburses the holder of a loan received by a borrower on or after January 1, 1986, and discharges a current or former borrower's obligation with respect to the loan in accordance with the provisions of this paragraph (e), if the borrower's (or the student for whom a parent received a PLUS loan) eligibility to receive the loan was falsely certified by an eligible school. On or after July 1, 2006, the Secretary reimburses the holder of a loan, and discharges a borrower's obligation with respect to the loan in accordance with the provisions of this paragraph (e), if the borrower's eligibility to receive the loan was falsely certified as a result of a crime of identity theft. For purposes of a false certification discharge, the term “borrower” includes all endorsers on a loan.
+
+(ii) A student's or other individual's eligibility to borrow will be considered to have been falsely certified by the school if the school—
+
+(A) Certified the eligibility for a FFEL Program loan of a student who—
+
+(*1*) Reported not having a high school diploma or its equivalent; and
+
+(*2*) Did not satisfy the alternative to graduation from high school requirements in 34 CFR 668.32(e) and section 484(d) of the Act that were in effect at the time the loan was certified, as applicable;
+
+(B) Certified the eligibility of a student who is not a high school graduate based on—
+
+(*1*) A high school graduation status falsified by the school; or
+
+(*2*) A high school diploma falsified by the school or a third party to which the school referred the borrower;
+
+(C) Certified the eligibility of the student who, because of a physical or mental condition, age, criminal record, or other reason accepted by the Secretary, would not meet State requirements for employment (in the student's State of residence when the loan was certified) in the occupation for which the training program supported by the loan was intended;
+
+(D) Signed the borrower's name without authorization by the borrower on the loan application or promissory note; or
+
+(E) Certified the eligibility of an individual for a FFEL Program loan as a result of the crime of identity theft committed against the individual, as that crime is defined in paragraph (e)(14) of this section.
+
+(iii) The Secretary discharges the obligation of a borrower with respect to a loan disbursement for which the school, without the borrower's authorization, endorsed the borrower's loan check or authorization for electronic funds transfer, unless the student for whom the loan was made received the proceeds of the loan either by actual delivery of the loan funds or by a credit in the amount of the contested disbursement applied to charges owed to the school for that portion of the educational program completed by the student. However, the Secretary does not reimburse the lender with respect to any amount disbursed by means of a check bearing an unauthorized endorsement unless the school also executed the application or promissory note for that loan for the named borrower without that individual's consent.
+
+(iv) If a loan was made as a result of the crime of identity theft that was committed by an employee or agent of the lender, or if at the time the loan was made, an employee or agent of the lender knew of the identity theft of the individual named as the borrower—
 
 (A) The Secretary does not pay reinsurance, and does not reimburse the holder, for any amount disbursed on the loan; and
 
-(B) Any amounts received by a holder as interest benefits and special allowance payments with respect to the loan must be refunded to the Secretary, as provided in paragraphs (e)(8)(ii)(B)(4) and (e)(10)(ii)(D) of this section.
+(B) Any amounts received by a holder as interest benefits and special allowance payments with respect to the loan must be refunded to the Secretary, as provided in paragraphs (e)(8)(ii)(B)(*4*) and (e)(10)(ii)(D) of this section.
 
 (2) *Relief available pursuant to discharge.* (i) Discharge under paragraph (e)(1)(i) of this section relieves the borrower of an existing or past obligation to repay the loan certified by the school, and any charges imposed or costs incurred by the holder with respect to the loan that the borrower is, or was, otherwise obligated to pay.
 
@@ -414,49 +416,51 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (iv) A discharge of a loan under paragraph (e) of this section is reported by the loan holder to all credit reporting agencies to which the holder previously reported the status of the loan, so as to delete all adverse or inaccurate credit history assigned to the loan.
 
-(v) Discharge under paragraph (e)(1)(ii) of this section qualifies the borrower for relief only with respect to the amount of the disbursement discharged.
+(v) Discharge under paragraph (e)(1)(iii) of this section qualifies the borrower for relief only with respect to the amount of the disbursement discharged.
 
-(3) *Borrower qualification for discharge.* Except as provided in paragraph (e)(15) of this section, to qualify for a discharge of a loan under paragraph (e) of this section, the borrower must submit to the holder of the loan a written request and a sworn statement. The statement need not be notarized, but must be made by the borrower under penalty of perjury, and, in the statement, the borrower must—
+(3) *Borrower qualification for discharge.* Except as provided in paragraph (e)(15) of this section, to qualify for a discharge of a loan under this paragraph (e), the borrower must submit to the holder of the loan an application for discharge on a form approved by the Secretary. The application need not be notarized, but must be made by the borrower under penalty of perjury, and, in the application, the borrower must—
 
 (i) State whether the student has made a claim with respect to the school's false certification with any third party, such as the holder of a performance bond or a tuition recovery program, and if so, the amount of any payment received by the borrower (or student) or credited to the borrower's loan obligation;
 
-(ii) In the case of a borrower requesting a discharge based on defective testing of the student's ability to benefit, state that the borrower (or the student for whom a parent received a PLUS loan)—
+(ii) In the case of a borrower requesting a discharge based on not having had a high school diploma and not having met the alternative to graduation from high school eligibility requirements in 34 CFR 668.32(e) and under section 484(d) of the Act applicable when the loan was certified, and the school or a third party to which the school referred the borrower falsified the student's high school diploma, the borrower must state in the application that the borrower (or the student for whom a parent received a PLUS loan)—
 
-(A) Received, on or after January 1, 1986, the proceeds of any disbursement of a loan disbursed, in whole or in part, on or after January 1, 1986 to attend a school; and
+(A) Received, on or after January 1, 1986, the proceeds of any disbursement of a loan disbursed, in whole or in part, on or after January 1, 1986, to attend a school;
 
-(B) Was admitted to that school on the basis of ability to benefit from its training and did not meet the applicable requirements for admission on the basis of ability to benefit as described in paragraph (e)(13) of this section;
+(B) Reported not having a valid high school diploma or its equivalent when the loan was certified; and
 
-(iii) In the case of a borrower requesting a discharge because the school signed the borrower's name on the loan application or promissory note—
+(C) Did not satisfy the alternative to graduation from high school statutory or regulatory eligibility requirements identified on the application form and applicable when the loan was certified.
 
-(A) State that the signature on either of those documents was not the signature of the borrower; and
+(iii) In the case of a borrower requesting a discharge based on a condition that would disqualify the borrower from employment in the occupation that the training program for which the borrower received the loan was intended, the borrower must state in the application that the borrower (or student for whom a parent received a PLUS loan) did not meet State requirements for employment in the student's State of residence in the occupation that the training program for which the borrower received the loan was intended because of a physical or mental condition, age, criminal record, or other reason accepted by the Secretary.
 
-(B) Provide five different specimens of his or her signature, two of which must be not earlier or later than one year before or after the date of the contested signature;
+(iv) In the case of a borrower requesting a discharge because the school signed the borrower's name on the loan application or promissory note without the borrower's authorization state that he or she did not sign the document in question or authorize the school to do so.
 
-(iv) In the case of a borrower requesting a discharge because the school, without authorization of the borrower, endorsed the borrower's name on the loan check or signed the authorization for electronic funds transfer or master check, the borrower shall—
+(v) In the case of a borrower requesting a discharge because the school, without authorization of the borrower, endorsed the borrower's name on the loan check or signed the authorization for electronic funds transfer or master check, the borrower must—
 
-(A) Certify that he or she did not endorse the loan check or sign the authorization for electronic funds transfer or master check, or authorize the school to do so;
+(A) State that he or she did not endorse the loan check or sign the authorization for electronic funds transfer or master check, or authorize the school to do so; and
 
-(B) Provide five different specimens of his or her signature, two of which must be not earlier or later than one year before or after the date of the contested signature; and
+(B) State that the proceeds of the contested disbursement were not received either through actual delivery of the loan funds or by a credit in the amount of the contested disbursement applied to charges owed to the school for that portion of the educational program completed by the student.
 
-(C) State that the proceeds of the contested disbursement were not received either through actual delivery of the loan funds or by a credit in the amount of the contested disbursement applied to charges owed to the school for that portion of the educational program completed by the student;
-
-(v) In the case of an individual who is requesting a discharge of a loan because the individual's eligibility was falsely certified as a result of a crime of identity theft committed against the individual—
+(vi) In the case of an individual whose eligibility to borrow was falsely certified because he or she was a victim of the crime of identity theft and is requesting a discharge—
 
 (A) Certify that the individual did not sign the promissory note, or that any other means of identification used to obtain the loan was used without the authorization of the individual claiming relief;
 
-(B) Certify that the individual did not receive or benefit from the proceeds of the loan with knowledge that the loan had been made without the authorization of the individual;
+(B) Certify that the individual did not receive or benefit from the proceeds of the loan with knowledge that the loan had been made without the authorization of the individual; and
 
-(C) Provide a copy of a local, State, or Federal court verdict or judgment that conclusively determines that the individual who is named as the borrower of the loan was the victim of a crime of identity theft by a perpetrator named in the verdict or judgment;
+(C) Provide a statement of facts and supporting evidence that demonstrate, to the satisfaction of the Secretary, that the individual's eligibility for the loan in question was falsely certified as a result of identity theft committed against that individual. Supporting evidence may include—
 
-(D) If the judicial determination of the crime does not expressly state that the loan was obtained as a result of the crime, provide—
+(*1*) A judicial determination of identity theft relating to the individual;
 
-(*1*) Authentic specimens of the signature of the individual, as provided in paragraph (e)(3)(iii)(B), or other means of identification of the individual, as applicable, corresponding to the means of identification falsely used to obtain the loan; and
+(*2*) A Federal Trade Commission identity theft affidavit;
 
-(*2*) A statement of facts that demonstrate, to the satisfaction of the Secretary, that eligibility for the loan in question was falsely certified as a result of the crime of identity theft committed against that individual.
+(*3*) A police report alleging identity theft relating to the individual;
 
-(vi) That the borrower agrees to provide upon request by the Secretary or the Secretary's designee, other documentation reasonably available to the borrower, that demonstrates, to the satisfaction of the Secretary or the Secretary's designee, that the student meets the qualifications in paragraph (e) of this section; and
+(*4*) Documentation of a dispute of the validity of the loan due to identity theft filed with at least three major consumer reporting agencies; and
 
-(vii) That the borrower agrees to cooperate with the Secretary or the Secretary's designee in enforcement actions in accordance with paragraph (e)(4) of this section, and to transfer any right to recovery against a third party in accordance with paragraph (e)(5) of this section.
+(*5*) Other evidence acceptable to the Secretary.
+
+(vii) That the borrower agrees to provide upon request by the Secretary or the Secretary's designee, other documentation reasonably available to the borrower, that demonstrates, to the satisfaction of the Secretary or the Secretary's designee, that the student meets the qualifications in this paragraph (e); and
+
+(viii) That the borrower agrees to cooperate with the Secretary or the Secretary's designee in enforcement actions in accordance with paragraph (e)(4) of this section, and to transfer any right to recovery against a third party in accordance with paragraph (e)(5) of this section.
 
 (4) *Cooperation by borrower in enforcement actions.* (i) In any judicial or administrative proceeding brought by the Secretary or the Secretary's designee to recover for amounts discharged under paragraph (e) of this section or to take other enforcement action with respect to the conduct on which those claims were based, a borrower who requests or receives a discharge under paragraph (e) of this section must cooperate with the Secretary or the Secretary's designee. At the request of the Secretary or the Secretary's designee, and upon the Secretary's or the Secretary's designee's tendering to the borrower the fees and costs as are customarily provided in litigation to reimburse witnesses, the borrower shall—
 
@@ -476,21 +480,43 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (iii) Nothing in this section shall be construed as limiting or foreclosing the borrower's (or student's) right to pursue legal and equitable relief regarding disputes arising from matters otherwise unrelated to the loan discharged.
 
-(6) *Guaranty agency responsibilities—general.* (i) A guaranty agency shall notify the Secretary immediately whenever it becomes aware of reliable information indicating that a school may have falsely certified a student's eligibility or caused an unauthorized disbursement of loan proceeds, as described in paragraph (e)(3) of this section. The designated guaranty agency in the state in which the school is located shall promptly investigate whether the school has falsely certified a student's eligibility and, within 30 days after receiving information indicating that the school may have done so, report the results of its preliminary investigation to the Secretary.
+(6) *Discharge procedures—general.* (i) If the holder of the borrower's loan determines that a borrower's FFEL Program loan may be eligible for a discharge under this section, the holder provides the borrower the application described in paragraph (e)(3) of this section and an explanation of the qualifications and procedures for obtaining a discharge. The holder also promptly suspends any efforts to collect from the borrower on any affected loan. The holder may continue to receive borrower payments.
 
-(ii) If the guaranty agency receives information it believes to be reliable indicating that a borrower whose loan is held by the agency may be eligible for a discharge under paragraph (e) of this section, the agency shall immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments), and inform the borrower of the procedures for requesting a discharge.
+(ii) If the borrower fails to submit the application for discharge and supporting information described in paragraph (e)(3) of this section within 60 days of the holder providing the application, the holder resumes collection and grants forbearance of principal and interest for the period in which collection activity was suspended.
 
-(iii) If the borrower fails to submit the written request and sworn statement described in paragraph (e)(3) of this section within 60 days of being notified of that option, the guaranty agency shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date it suspended collection activity.
+(iii) If the borrower submits an application for discharge that the holder determines is incomplete, the holder notifies the borrower of that determination and allows the borrower an additional 30-days to amend their application and provide supplemental information. If the borrower does not amend their application within 30 days of receiving the notification from the holder the borrower's application is closed as incomplete and the holder resumes collection of the loan and grants forbearance of principal and interest for the period in which collection activity was suspended.
 
-(iv) Upon receipt of a discharge claim filed by a lender or a request submitted by a borrower with respect to a loan held by the guaranty agency, the agency shall have up to 90 days to determine whether the discharge should be granted. The agency shall review the borrower's request and supporting sworn statement in light of information available from the records of the agency and from other sources, including other guaranty agencies, state authorities, and cognizant accrediting associations.
+(iv) If the borrower submits a complete application described in paragraph (e)(3) of this section, the holder files a claim with the guaranty agency no later than 60 days after the holder receives the borrower's complete application.
 
-(v) A borrower's request for discharge and sworn statement may not be denied solely on the basis of failing to meet any time limits set by the lender, the Secretary or the guaranty agency.
+(v) The guaranty agency determines whether the available evidence supports the claim for discharge. Available evidence includes evidence provided by the borrower and any other relevant information from the guaranty agency's records or gathered by the guaranty agency from other sources, including the Secretary, other guaranty agencies, Federal agencies, State authorities, test publishers, independent test administrators, school records, and cognizant accrediting associations.
 
-(7) *Guaranty agency responsibilities with respect to a claim filed by a lender based on the borrower's assertion that he or she did not sign the loan application or the promissory note that he or she was a victim of the crime of identity theft, or that the school failed to test, or improperly tested, the student's ability to benefit.* (i) The agency shall evaluate the borrower's request and consider relevant information it possesses and information available from other sources, and follow the procedures described in paragraph (e)(7) of this section.
+(vi) The guaranty agency issues a decision that explains the reasons for any adverse determination on the application, describes the evidence on which the decision was made, and provides the borrower, upon request, copies of the evidence. The guaranty agency considers any response from the borrower and any additional information from the borrower and notifies the borrower whether the determination is changed.
 
-(ii) If the agency determines that the borrower satisfies the requirements for discharge under paragraph (e) of this section, it shall, not later than 30 days after the agency makes that determination, pay the claim in accordance with § 682.402(h) and—
+(vii) If the guaranty agency determines that the borrower meets the applicable requirements for a discharge under this paragraph (e), the guaranty agency notifies the borrower in writing of that determination.
 
-(A) Notify the borrower that his or her liability with respect to the amount of the loan has been discharged, and that the lender has been informed of the actions required under paragraph (e)(7)(ii)(C) of this section;
+(viii) If the guaranty agency determines that the borrower does not qualify for a discharge, the guaranty agency notifies the borrower in writing of that determination and the reasons for the determination.
+
+(ix) If the guaranty agency determines that the borrower does not qualify for a discharge, the borrower may request that the Secretary review the guaranty agency's decision.
+
+(x) A borrower is not precluded from re-applying for a discharge under this paragraph (e) if the discharge request is closed as incomplete, or if the guaranty agency or Secretary determines that the borrower does not qualify for a discharge if the borrower provides additional supporting evidence.
+
+(7) *Guaranty agency responsibilities—general.* (i) A guaranty agency will notify the Secretary immediately whenever it becomes aware of reliable information indicating that a school may have falsely certified a student's eligibility or caused an unauthorized disbursement of loan proceeds, as described in paragraph (e)(3) of this section. The designated guaranty agency in the State in which the school is located will promptly investigate whether the school has falsely certified a student's eligibility and, within 30 days after receiving information indicating that the school may have done so, report the results of its preliminary investigation to the Secretary.
+
+(ii) If the guaranty agency receives information it believes to be reliable indicating that a borrower whose loan is held by the agency may be eligible for a discharge under this paragraph (e), the agency will immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments) and inform the borrower of the procedures for requesting a discharge.
+
+(iii) If the borrower fails to submit the Secretary's approved application described in paragraph (e)(3) of this section within 60 days of being notified of that option, the guaranty agency will resume collection and will be deemed to have exercised forbearance of payment of principal and interest from the date it suspended collection activity.
+
+(iv) If the borrower submits an application for discharge that the guaranty agency determines is incomplete, the guaranty agency notifies the borrower of that determination and allows the borrower an additional 30-days to amend their application and provide supplemental information. If the borrower does not amend their application within 30 days of receiving the notification from the guaranty agency the borrower's application is closed as incomplete and the guaranty agency resumes collection of the loan and grants forbearance of principal and interest for the period in which collection activity was suspended.
+
+(v) Upon receipt of a discharge claim filed by a lender or a complete application submitted by a borrower with respect to a loan held by the guaranty agency, the agency will have up to 90 days to determine whether the discharge should be granted. The agency will review the borrower's application in light of information available from the records of the agency and from other sources, including other guaranty agencies, State authorities, and cognizant accrediting associations.
+
+(vi) A borrower's application for discharge may not be denied solely on the basis of failing to meet any time limits set by the lender, the Secretary or the guaranty agency.
+
+(8) *Guaranty agency responsibilities with respect to a claim filed by a lender.* (i) The agency will evaluate the borrower's application and consider relevant information it possesses and information available from other sources, and follow the procedures described in this paragraph (e)(8).
+
+(ii) If the agency determines that the borrower satisfies the requirements for discharge under this paragraph (e), it will, not later than 30 days after the agency makes that determination, pay the claim in accordance with paragraph (h) of this section and—
+
+(A) Notify the borrower that his or her liability with respect to the amount of the loan has been discharged, and that the lender has been informed of the actions required under paragraph (e)(8)(ii)(C) of this section;
 
 (B) Refund to the borrower all amounts paid by the borrower to the lender or the agency with respect to the discharged loan amount, including any late fees or collection charges imposed by the lender or agency related to the discharged loan amount; and
 
@@ -502,27 +528,27 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (D) Within 30 days, demand payment in full from the perpetrator of the identity theft committed against the individual, and if payment is not received, pursue collection action thereafter against the perpetrator.
 
-(iii) If the agency determines that the borrower does not qualify for a discharge, it shall, within 30 days after making that determination—
+(iii) If the agency determines that the borrower does not qualify for a discharge, it will, within 30 days after making that determination—
 
-(A) Notify the lender that the borrower's liability on the loan is not discharged and that, depending on the borrower's decision under paragraph (e)(7)(iii)(B) of this section, the loan shall either be returned to the lender or paid as a default claim; and
+(A) Notify the lender that the borrower's liability on the loan is not discharged and that, depending on the borrower's decision under paragraph (e)(8)(iii)(B) of this section, the loan will either be returned to the lender or paid as a default claim; and
 
-(B) Notify the borrower that the borrower does not qualify for discharge, and state the reasons for that conclusion. The agency shall advise the borrower that he or she remains obligated to repay the loan and warn the borrower of the consequences of default, and explain that the borrower will be considered to be in default on the loan unless the borrower submits a written statement to the agency within 30 days stating that the borrower—
+(B) Notify the borrower that the borrower does not qualify for discharge and state the reasons for that conclusion. The agency will advise the borrower that he or she remains obligated to repay the loan and warn the borrower of the consequences of default, and explain that the borrower will be considered to be in default on the loan unless the borrower submits a written statement to the agency within 30 days stating that the borrower—
 
 (*1*) Acknowledges the debt and, if payments are due, will begin or resume making those payments to the lender; or
 
 (*2*) Requests the Secretary to review the agency's decision.
 
-(iv) Within 30 days after receiving the borrower's written statement described in paragraph (e)(7)(iii)(B)(*1*) of this section, the agency shall return the claim file to the lender and notify the lender to resume collection efforts if payments are due.
+(iv) Within 30 days after receiving the borrower's written statement described in paragraph (e)(8)(iii)(B)(*1*) of this section, the agency will return the claim file to the lender and notify the lender to resume collection efforts if payments are due.
 
-(v) Within 30 days after receiving the borrower's request for review by the Secretary, the agency shall forward the claim file to the Secretary for his review and take the actions required under paragraph (e)(11) of this section.
+(v) Within 30 days after receiving the borrower's request for review by the Secretary, the agency will forward the claim file to the Secretary for his review and take the actions required under paragraph (e)(12) of this section.
 
-(vi) The agency shall pay a default claim to the lender within 30 days after the borrower fails to return either of the written statements described in paragraph (e)(7)(iii)(B) of this section.
+(vi) The agency will pay a default claim to the lender within 30 days after the borrower fails to return either of the written statements described in paragraph (e)(8)(iii)(B) of this section.
 
-(8) *Guaranty agency responsibilities with respect to a claim filed by a lender based only on the borrower's assertion that he or she did not sign the loan check or the authorization for the release of loan funds via electronic funds transfer or master check.* (i) The agency shall evaluate the borrower's request and consider relevant information it possesses and information available from other sources, and follow the procedures described in paragraph (e)(8) of this section.
+(9) *Guaranty agency responsibilities with respect to a claim filed by a lender based only on the borrower's assertion that he or she did not sign the loan check or the authorization for the release of loan funds via electronic funds transfer or master check.* (i) The agency will evaluate the borrower's request and consider relevant information it possesses and information available from other sources, and follow the procedures described in this paragraph (e)(9).
 
-(ii) If the agency determines that a borrower who asserts that he or she did not endorse the loan check satisfies the requirements for discharge under paragraph (e)(3)(iv) of this section, it shall, within 30 days after making that determination—
+(ii) If the agency determines that a borrower who asserts that he or she did not endorse the loan check satisfies the requirements for discharge under paragraph (e)(3)(v) of this section, it will, within 30 days after making that determination—
 
-(A) Notify the borrower that his or her liability with respect to the amount of the contested disbursement of the loan has been discharged, and that the lender has been informed of the actions required under paragraph (e)(8)(ii)(B) of this section;
+(A) Notify the borrower that his or her liability with respect to the amount of the contested disbursement of the loan has been discharged, and that the lender has been informed of the actions required under paragraph (e)(9)(ii)(B) of this section;
 
 (B) Notify the lender that the borrower's liability with respect to the amount of the contested disbursement of the loan has been discharged, and that the lender must—
 
@@ -536,9 +562,9 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (C) Transfer to the lender the borrower's written assignment of any rights the borrower may have against third parties with respect to a loan disbursement that was discharged because the borrower did not sign the loan check.
 
-(iii) If the agency determines that a borrower who asserts that he or she did not sign the electronic funds transfer or master check authorization satisfies the requirements for discharge under paragraph (e)(3)(iv) of this section, it shall, within 30 days after making that determination, pay the claim in accordance with § 682.402(h) and—
+(iii) If the agency determines that a borrower who asserts that he or she did not sign the electronic funds transfer or master check authorization satisfies the requirements for discharge under paragraph (e)(3)(v) of this section, it will, within 30 days after making that determination, pay the claim in accordance with paragraph (h) of this section and—
 
-(A) Notify the borrower that his or her liability with respect to the amount of the contested disbursement of the loan has been discharged, and that the lender has been informed of the actions required under paragraph (e)(8)(iii)(C) of this section;
+(A) Notify the borrower that his or her liability with respect to the amount of the contested disbursement of the loan has been discharged, and that the lender has been informed of the actions required under paragraph (e)(9)(iii)(C) of this section;
 
 (B) Refund to the borrower all amounts paid by the borrower to the lender or the agency with respect to the discharged loan amount, including any late fees or collection charges imposed by the lender or agency related to the discharged loan amount; and
 
@@ -548,25 +574,25 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (*2*) Within 30 days, report to all credit reporting agencies to which the lender previously reported the status of the loan, so as to delete all adverse credit history assigned to the loan.
 
-(iv) If the agency determines that the borrower does not qualify for a discharge, it shall, within 30 days after making that determination—
+(iv) If the agency determines that the borrower does not qualify for a discharge, it will, within 30 days after making that determination—
 
-(A) Notify the lender that the borrower's liability on the loan is not discharged and that, depending on the borrower's decision under paragraph (e)(8)(iv)(B) of this section, the loan shall either be returned to the lender or paid as a default claim; and
+(A) Notify the lender that the borrower's liability on the loan is not discharged and that, depending on the borrower's decision under paragraph (e)(9)(iv)(B) of this section, the loan will either be returned to the lender or paid as a default claim; and
 
-(B) Notify the borrower that the borrower does not qualify for discharge, and state the reasons for that conclusion. The agency shall advise the borrower that he or she remains obligated to repay the loan and warn the borrower of the consequences of default, and explain that the borrower will be considered to be in default on the loan unless the borrower submits a written statement to the agency within 30 days stating that the borrower—
+(B) Notify the borrower that the borrower does not qualify for discharge and state the reasons for that conclusion. The agency will advise the borrower that he or she remains obligated to repay the loan and warn the borrower of the consequences of default, and explain that the borrower will be considered to be in default on the loan unless the borrower submits a written statement to the agency within 30 days stating that the borrower—
 
 (*1*) Acknowledges the debt and, if payments are due, will begin or resume making those payments to the lender; or
 
 (*2*) Requests the Secretary to review the agency's decision.
 
-(v) Within 30 days after receiving the borrower's written statement described in paragraph (e)(8)(iv)(B)(*1*) of this section, the agency shall return the claim file to the lender and notify the lender to resume collection efforts if payments are due.
+(v) Within 30 days after receiving the borrower's written statement described in paragraph (e)(9)(iv)(B)(*1*) of this section, the agency will return the claim file to the lender and notify the lender to resume collection efforts if payments are due.
 
-(vi) Within 30 days after receiving the borrower's request for review by the Secretary, the agency shall forward the claim file to the Secretary for his review and take the actions required under paragraph (e)(11) of this section.
+(vi) Within 30 days after receiving the borrower's request for review by the Secretary, the agency will forward the claim file to the Secretary for his review and take the actions required under paragraph (e)(12) of this section.
 
-(vii) The agency shall pay a default claim to the lender within 30 days after the borrower fails to return either of the written statements described in paragraph (e)(8)(iv)(B) of this section.
+(vii) The agency will pay a default claim to the lender within 30 days after the borrower fails to return either of the written statements described in paragraph (e)(9)(iv)(B) of this section.
 
-(9) *Guaranty agency responsibilities in the case of a loan held by the agency for which a discharge request is submitted by a borrower based on the borrower's assertion that he or she did not sign the loan application or the promissory note, that he or she was a victim of the crime of identity theft, or that the school failed to test, or improperly tested, the student's ability to benefit.* (i) The agency shall evaluate the borrower's request and consider relevant information it possesses and information available from other sources, and follow the procedures described in paragraph (e)(9) of this section.
+(10) *Guaranty agency responsibilities in the case of a loan held by the agency for which a discharge request is submitted by a borrower.* (i) The agency will evaluate the borrower's application and consider relevant information it possesses and information available from other sources, and follow the procedures described in this paragraph (e)(10).
 
-(ii) If the agency determines that the borrower satisfies the requirements for discharge under paragraph (e)(3) of this section, it shall immediately terminate any collection efforts against the borrower with respect to the discharged loan amount and any charges imposed or costs incurred by the agency related to the discharged loan amount that the borrower is, or was otherwise obligated to pay and, not later than 30 days after the agency makes the determination that the borrower satisfies the requirements for discharge—
+(ii) If the agency determines that the borrower satisfies the requirements for discharge under paragraph (e)(3) of this section, it will immediately terminate any collection efforts against the borrower with respect to the discharged loan amount and any charges imposed or costs incurred by the agency related to the discharged loan amount that the borrower is, or was otherwise obligated to pay and, not later than 30 days after the agency makes the determination that the borrower satisfies the requirements for discharge—
 
 (A) Notify the borrower that his or her liability with respect to the amount of the loan has been discharged;
 
@@ -576,19 +602,19 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (D) Within 30 days, demand payment in full from the perpetrator of the identity theft committed against the individual, and if payment is not received, pursue collection action thereafter against the perpetrator.
 
-(iii) If the agency determines that the borrower does not qualify for a discharge, it shall, within 30 days after making that determination, notify the borrower that the borrower's liability with respect to the amount of the loan is not discharged, state the reasons for that conclusion, and if the borrower is not then making payments in accordance with a repayment arrangement with the agency on the loan, advise the borrower of the consequences of continued failure to reach such an arrangement, and that collection action will resume on the loan unless within 30 days the borrower—
+(iii) If the agency determines that the borrower does not qualify for a discharge, it will, within 30 days after making that determination, notify the borrower that the borrower's liability with respect to the amount of the loan is not discharged, state the reasons for that conclusion, and if the borrower is not then making payments in accordance with a repayment arrangement with the agency on the loan, advise the borrower of the consequences of continued failure to reach such an arrangement, and that collection action will resume on the loan unless within 30 days the borrower—
 
 (A) Acknowledges the debt and, if payments are due, reaches a satisfactory arrangement to repay the loan or resumes making payments under such an arrangement to the agency; or
 
 (B) Requests the Secretary to review the agency's decision.
 
-(iv) Within 30 days after receiving the borrower's request for review by the Secretary, the agency shall forward the borrower's discharge request and all relevant documentation to the Secretary for his review and take the actions required under paragraph (e)(11) of this section.
+(iv) Within 30 days after receiving the borrower's request for review by the Secretary, the agency will forward the borrower's discharge request and all relevant documentation to the Secretary for his review and take the actions required under paragraph (e)(12) of this section.
 
-(v) The agency shall resume collection action if within 30 days of giving notice of its determination the borrower fails to seek review by the Secretary or agree to repay the loan.
+(v) The agency will resume collection action if within 30 days of giving notice of its determination the borrower fails to seek review by the Secretary or agree to repay the loan.
 
-(10) *Guaranty agency responsibilities in the case of a loan held by the agency for which a discharge request is submitted by a borrower based only on the borrower's assertion that he or she did not sign the loan check or the authorization for the release of loan proceeds via electronic funds transfer or master check.* (i) The agency shall evaluate the borrower's request and consider relevant information it possesses and information available from other sources, and follow the procedures described in paragraph (e)(10) of this section.
+(11) *Guaranty agency responsibilities in the case of a loan held by the agency for which a discharge request is submitted by a borrower based only on the borrower's assertion that he or she did not sign the loan check or the authorization for the release of loan proceeds via electronic funds transfer or master check.* (i) The agency will evaluate the borrower's application and consider relevant information it possesses and information available from other sources, and follow the procedures described in this paragraph (e)(11).
 
-(ii) If the agency determines that a borrower who asserts that he or she did not endorse the loan check satisfies the requirements for discharge under paragraph (e)(3)(iv) of this section, it shall refund to the Secretary the amount of reinsurance payment received with respect to the amount discharged on that loan less any repayments made by the lender under paragraph (e)(10)(ii)(D)(*2*) of this section, and within 30 days after making that determination—
+(ii) If the agency determines that a borrower who asserts that he or she did not endorse the loan check satisfies the requirements for discharge under paragraph (e)(3)(v) of this section, it will refund to the Secretary the amount of reinsurance payment received with respect to the amount discharged on that loan less any repayments made by the lender under paragraph (e)(11)(ii)(D)(*2*) of this section, and within 30 days after making that determination—
 
 (A) Notify the borrower that his or her liability with respect to the amount of the contested disbursement of the loan has been discharged;
 
@@ -600,13 +626,13 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (*1*) All interest benefits and special allowance payments received from the Secretary with respect to the loan disbursement that was discharged; and
 
-(*2*) The amount of the borrower's payments that were refunded to the borrower by the guaranty agency under paragraph (e)(10)(ii)(C) of this section that represent borrower payments previously paid to the lender with respect to the loan disbursement that was discharged;
+(*2*) The amount of the borrower's payments that were refunded to the borrower by the guaranty agency under paragraph (e)(11)(ii)(C) of this section that represent borrower payments previously paid to the lender with respect to the loan disbursement that was discharged;
 
-(E) Notify the lender to whom a claim payment was made that the lender must, within 30 days, reimburse the agency for the amount of the loan that was discharged, minus the amount of borrower payments made to the lender that were refunded to the borrower by the guaranty agency under paragraph (e)(10)(ii)(C) of this section; and
+(E) Notify the lender to whom a claim payment was made that the lender must, within 30 days, reimburse the agency for the amount of the loan that was discharged, minus the amount of borrower payments made to the lender that were refunded to the borrower by the guaranty agency under paragraph (e)(11)(ii)(C) of this section; and
 
 (F) Transfer to the lender the borrower's written assignment of any rights the borrower may have against third parties with respect to the loan disbursement that was discharged.
 
-(iii) In the case of a borrower who requests a discharge because he or she did not sign the electronic funds transfer or master check authorization, if the agency determines that the borrower meets the conditions for discharge, it shall immediately terminate any collection efforts against the borrower with respect to the discharged loan amount and any charges imposed or costs incurred by the agency related to the discharged loan amount that the borrower is, or was, otherwise obligated to pay, and within 30 days after making that determination—
+(iii) In the case of a borrower who requests a discharge because he or she did not sign the electronic funds transfer or master check authorization, if the agency determines that the borrower meets the conditions for discharge, it will immediately terminate any collection efforts against the borrower with respect to the discharged loan amount and any charges imposed or costs incurred by the agency related to the discharged loan amount that the borrower is, or was, otherwise obligated to pay, and within 30 days after making that determination—
 
 (A) Notify the borrower that his or her liability with respect to the amount of the contested disbursement of the loan has been discharged;
 
@@ -614,65 +640,33 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (C) Report to all credit reporting agencies to which the lender previously reported the status of the loan, so as to delete all adverse credit history assigned to the loan.
 
-(iv) The agency shall take the actions required under paragraphs (e)(9) (iii) through (v) if the agency determines that the borrower does not qualify for a discharge.
+(iv) The agency will take the actions required under paragraphs (e)(10)(iii) through (v) of this section if the agency determines that the borrower does not qualify for a discharge.
 
-(11) *Guaranty agency responsibilities if a borrower requests a review by the Secretary.* (i) Within 30 days after receiving the borrower's request for review under paragraph (e)(7)(iii)(B)(*2*), (e)(8)(iv)(B)(*2*), (e)(9)(iii)(B), or (e)(10)(iv) of this section, the agency shall forward the borrower's discharge request and all relevant documentation to the Secretary for his review.
+(12) *Guaranty agency responsibilities if a borrower requests a review by the Secretary.* (i) Within 30 days after receiving the borrower's request for review under paragraph (e)(8)(iii)(B)(*2*), (e)(9)(iv)(B)(*2*), (e)(10)(iii)(B), or (e)(11)(iv) of this section, the agency will forward the borrower's discharge application and all relevant documentation to the Secretary for review.
 
-(ii) The Secretary notifies the agency and the borrower of a determination on review. If the Secretary determines that the borrower is not eligible for a discharge under paragraph (e) of this section, within 30 days after being so informed, the agency shall take the actions described in paragraphs (e)(8) (iv) through (vii) or (e)(9)(iii) through (v) of this section, as applicable.
+(ii) The Secretary notifies the agency and the borrower of a determination on review. If the Secretary determines that the borrower is not eligible for a discharge under this paragraph (e), within 30 days after being so informed, the agency will take the actions described in paragraphs (e)(9)(iv) through (vii) or (e)(10)(iii) through (v) of this section, as applicable.
 
-(iii) If the Secretary determines that the borrower meets the requirements for a discharge under paragraph (e) of this section, the agency shall, within 30 days after being so informed, take the actions required under paragraph (e)(7)(ii), (e)(8)(ii), (e)(8)(iii), (e)(9)(ii), (e)(10)(ii), or (e)(10)(iii) of this section, as applicable.
+(iii) If the Secretary determines that the borrower meets the requirements for a discharge under paragraph (e) of this section, the agency will, within 30 days after being so informed, take the actions required under paragraph (e)(8)(ii), (e)(9)(ii) or (iii), (e)(10)(ii), or (e)(11)(ii) or (iii) of this section, as applicable.
 
-(12) *Lender Responsibilities.* (i) If the lender is notified by a guaranty agency or the Secretary, or receives information it believes to be reliable from another source indicating that a current or former borrower may be eligible for a discharge under paragraph (e) of this section, the lender shall immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments) and, within 30 days of receiving the information or notification, inform the borrower of the procedures for requesting a discharge.
+(13) *Lender responsibilities.* (i) If the lender is notified by a guaranty agency or the Secretary, or receives information it believes to be reliable from another source indicating that a current or former borrower may be eligible for a discharge under this paragraph (e), the lender will immediately suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments) and, within 30 days of receiving the information or notification, inform the borrower of the procedures for requesting a discharge.
 
-(ii) If the borrower fails to submit the written request and sworn statement described in paragraph (e)(3) of this section within 60 days of being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
+(ii) If the borrower fails to submit the Secretary's approved application within 60 days of being notified of that option, the lender will resume collection and will be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity on the loan. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
 
-(iii) The lender shall file a claim with the guaranty agency in accordance with § 682.402(g) no later than 60 days after the lender receives the borrower's written request and sworn statement described in paragraph (e)(3) of this section. If a lender receives a payment made by or on behalf of the borrower on the loan after the lender files a claim on the loan with the guaranty agency, the lender shall forward the payment to the guaranty agency within 30 days of its receipt. The lender shall assist the guaranty agency and the borrower in determining whether the borrower is eligible for discharge of the loan.
+(iii) If the borrower submits an application for discharge that the lender determines is incomplete, the lender notifies the borrower of that determination and allows the borrower an additional 30-days to amend their application and provide supplemental information. If the borrower does not amend their application within 30 days of receiving the notification from the lender the borrower's application is closed as incomplete and the lender resumes collection of the loan and grants forbearance of principal and interest for the period in which collection activity was suspended.
 
-(iv) The lender shall comply with all instructions received from the Secretary or a guaranty agency with respect to loan discharges under paragraph (e) of this section.
+(iv) The lender will file a claim with the guaranty agency in accordance with paragraph (g) of this section no later than 60 days after the lender receives the borrower's complete application described in paragraph (e)(3) of this section. If a lender receives a payment made by or on behalf of the borrower on the loan after the lender files a claim on the loan with the guaranty agency, the lender will forward the payment to the guaranty agency within 30 days of its receipt. The lender will assist the guaranty agency and the borrower in determining whether the borrower is eligible for discharge of the loan.
 
-(v) The lender shall review a claim that the borrower did not endorse and did not receive the proceeds of a loan check. The lender shall take the actions required under paragraphs (e)(8)(ii)(A) and (B) of this section if it determines that the borrower did not endorse the loan check, unless the lender secures persuasive evidence that the proceeds of the loan were received by the borrower or the student for whom the loan was made, as provided in paragraph (e)(1)(ii). If the lender determines that the loan check was properly endorsed or the proceeds were received by the borrower or student, the lender may consider the borrower's objection to repayment as a statement of intention not to repay the loan, and may file a claim with the guaranty agency for reimbursement on that ground, but shall not report the loan to consumer reporting agencies as in default until the guaranty agency, or, as applicable, the Secretary, reviews the claim for relief. By filing such a claim, the lender shall be deemed to have agreed to the following—
+(v) The lender will comply with all instructions received from the Secretary or a guaranty agency with respect to loan discharges under this paragraph (e).
+
+(vi) The lender will review a claim that the borrower did not endorse and did not receive the proceeds of a loan check. The lender will take the actions required under paragraphs (e)(9)(ii)(A) and (B) of this section if it determines that the borrower did not endorse the loan check, unless the lender secures persuasive evidence that the proceeds of the loan were received by the borrower or the student for whom the loan was made, as provided in paragraph (e)(1)(iii) of this section. If the lender determines that the loan check was properly endorsed or the proceeds were received by the borrower or student, the lender may consider the borrower's objection to repayment as a statement of intention not to repay the loan and may file a claim with the guaranty agency for reimbursement on that ground but will not report the loan to consumer reporting agencies as in default until the guaranty agency, or, as applicable, the Secretary, reviews the claim for relief. By filing such a claim, the lender will be deemed to have agreed to the following—
 
 (A) If the guarantor or the Secretary determines that the borrower endorsed the loan check or the proceeds of the loan were received by the borrower or the student, any failure to satisfy due diligence requirements by the lender prior to the filing of the claim that would have resulted in the loss of reinsurance on the loan in the event of default will be waived by the Secretary; and
 
-(B) If the guarantor or the Secretary determines that the borrower did not endorse the loan check and that the proceeds of the loan were not received by the borrower or the student, the lender will comply with the requirements specified in paragraph (e)(8)(ii)(B) of this section.
+(B) If the guarantor or the Secretary determines that the borrower did not endorse the loan check and that the proceeds of the loan were not received by the borrower or the student, the lender will comply with the requirements specified in paragraph (e)(9)(ii)(B) of this section.
 
-(vi) Within 30 days after being notified by the guaranty agency that the borrower's request for a discharge has been denied, the lender shall notify the borrower of the reasons for the denial and, if payments are due, resume collection against the borrower. The lender shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity, and may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
+(vii) Within 30 days after being notified by the guaranty agency that the borrower's request for a discharge has been denied, the lender will notify the borrower of the reasons for the denial and, if payments are due, resume collection against the borrower. The lender will be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity, and may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
 
-(13) *Requirements for certifying a borrower's eligibility for a loan.* (i) For periods of enrollment beginning between July 1, 1987 and June 30, 1991, a student who had a general education diploma or received one before the scheduled completion of the program of instruction is deemed to have the ability to benefit from the training offered by the school.
-
-(ii) A student not described in paragraph (e)(13)(i) of this section is considered to have the ability to benefit from training offered by the school if the student—
-
-(A) For periods of enrollment beginning prior to July 1, 1987, was determined to have the ability to benefit from the school's training in accordance with the requirements of 34 CFR 668.6, as in existence at the time the determination was made;
-
-(B) For periods of enrollment beginning between July 1, 1987 and June 30, 1996, achieved a passing grade on a test—
-
-(*1*) Approved by the Secretary, for periods of enrollment beginning on or after July 1, 1991, or by the accrediting agency for other periods; and
-
-(*2*) Administered substantially in accordance with the requirements for use of the test;
-
-(C) Successfully completed a program of developmental or remedial education provided by the school; or
-
-(D) For periods of enrollment beginning on or after July 1, 1996 through June 30, 2000—
-
-(*1*) Obtained, within 12 months before the date the student initially receives title IV, HEA program assistance, a passing score specified by the Secretary on an independently administered test in accordance with subpart J of 34 CFR part 668; or
-
-(*2*) Enrolled in an eligible institution that participates in a State process approved by the Secretary under subpart J of 34 CFR part 668.
-
-(E) For periods of enrollment beginning on or after July 1, 2000—
-
-(*1*) Met either of the conditions described in paragraph (e)(13)(ii)(D) of this section; or
-
-(*2*) Was home schooled and met the requirements of 34 CFR 668.32(e)(4).
-
-(iii) Notwithstanding paragraphs (e)(13)(i) and (ii) of this section, a student did not have the ability to benefit from training offered by the school if—
-
-(A) The school certified the eligibility of the student for a FFEL Program loan; and
-
-(B) At the time of certification, the student would not meet the requirements for employment (in the student's State of residence) in the occupation for which the training program supported by the loan was intended because of a physical or mental condition, age, or criminal record or other reason accepted by the Secretary.
-
-(iv) Notwithstanding paragraphs (e)(13)(i) and (ii) of this section, a student has the ability to benefit from the training offered by the school if the student received a high school diploma or its recognized equivalent prior to enrollment at the school.
-
-(14) *Identity theft.* (i) The unauthorized use of the identifying information of another individual that is punishable under 18 U.S.C. 1028, 1029, or 1030, or substantially comparable State or local law.
+(14) *Definition of identity theft.* (i) For purposes of this section, identity theft is defined as the unauthorized use of the identifying information of another individual that is punishable under 18 U.S.C. 1028, 1028A, 1029, or 1030, or substantially comparable State or local law.
 
 (ii) Identifying information includes, but is not limited to—
 
@@ -684,7 +678,9 @@ Link to an amendment published at 87 FR 66046, Nov. 1, 2022.
 
 (D) Telecommunication identifying information or access device (as defined in 18 U.S.C. 1029(e)).
 
-(15) *Discharge without an application.* A borrower's obligation to repay all or a portion of an FFEL Program loan may be discharged without an application from the borrower if the Secretary, or the guaranty agency with the Secretary's permission, determines that the borrower qualifies for a discharge based on information in the Secretary or guaranty agency's possession.
+(15) *Discharge without an application.* A borrower's obligation to repay all or a portion of an FFEL Program loan may be discharged without an application from the borrower if the Secretary, or the guaranty agency with the Secretary's permission, determines based on information in the Secretary's or the guaranty agency's possession that the borrower qualifies for a discharge. Such information includes, but is not limited to, evidence that the school has falsified the Satisfactory Academic Progress of its students, as described in § 668.34 of this chapter.
+
+(16) *Application for a group discharge from a State Attorney General or nonprofit legal services representative.* A State Attorney General or nonprofit legal services representative may submit to the Secretary an application for a group discharge under this section.
 
 (f) *Bankruptcy*—(1) *General.* If a borrower files a petition for relief under the Bankruptcy Code, the Secretary reimburses the holder of the loan for unpaid principal and interest on the loan in accordance with paragraphs (h) through (k) of this section.
 

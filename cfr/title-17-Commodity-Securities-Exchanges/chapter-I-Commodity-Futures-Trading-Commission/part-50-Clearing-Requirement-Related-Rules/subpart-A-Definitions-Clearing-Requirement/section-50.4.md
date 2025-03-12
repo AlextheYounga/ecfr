@@ -1,50 +1,36 @@
 ##### § 50.4 Classes of swaps required to be cleared. #####
 
-Link to an amendment published at 87 FR 52216, Aug. 24, 2022.
-
 (a) *Interest rate swaps.* Swaps that have the following specifications are required to be cleared under section 2(h)(1) of the Act, and shall be cleared pursuant to the rules of any derivatives clearing organization eligible to clear such swaps under § 39.5(a) of this chapter.
 
-Table 1 to Paragraph (a)
+|         Specification          |Fixed-to-floating swap class|                     |                   |                      |                   |                     |                   |                    |
+|--------------------------------|----------------------------|---------------------|-------------------|----------------------|-------------------|---------------------|-------------------|--------------------|
+|          1. Currency           |  Australian Dollar (AUD)   |Canadian Dollar (CAD)|    Euro (EUR)     |Hong Kong Dollar (HKD)|Mexican Peso (MXN) |Norwegian Krone (NOK)|Polish Zloty (PLN) |Swedish Krona (SEK).|
+|    2. Floating Rate Indexes    |            BBSW            |        CDOR         |      EURIBOR      |        HIBOR         |   TIIE-BANXICO    |        NIBOR        |       WIBOR       |      STIBOR.       |
+|3. Stated Termination Date Range|    28 days to 30 years     | 28 days to 30 years |28 days to 50 years| 28 days to 10 years  |28 days to 21 years| 28 days to 10 years |28 days to 10 years|28 days to 15 years.|
+|         4. Optionality         |             No             |         No          |        No         |          No          |        No         |         No          |        No         |        No.         |
+|       5. Dual Currencies       |             No             |         No          |        No         |          No          |        No         |         No          |        No         |        No.         |
+|6. Conditional Notional Amounts |             No             |         No          |        No         |          No          |        No         |         No          |        No         |        No.         |
 
-|                                |                            |                     |                   |                      |                   |                     |                   |                      |                   |                    |
-|--------------------------------|----------------------------|---------------------|-------------------|----------------------|-------------------|---------------------|-------------------|----------------------|-------------------|--------------------|
-|         Specification          |Fixed-to-floating swap class|                     |                   |                      |                   |                     |                   |                      |                   |                    |
-|          1. Currency           |  Australian Dollar (AUD)   |Canadian Dollar (CAD)| Euro  <br/>(EUR)  |Hong Kong Dollar (HKD)|Mexican Peso (MXN) |Norwegian Krone (NOK)|Polish Zloty (PLN) |Singapore Dollar (SGD)|Swedish Krona (SEK)| U.S. Dollar (USD). |
-|    2. Floating Rate Indexes    |            BBSW            |        CDOR         |      EURIBOR      |        HIBOR         |   TIIE-BANXICO    |        NIBOR        |       WIBOR       |       SOR-VWAP       |      STIBOR       |       LIBOR.       |
-|3. Stated Termination Date Range|    28 days to 30 years     | 28 days to 30 years |28 days to 50 years| 28 days to 10 years  |28 days to 21 years| 28 days to 10 years |28 days to 10 years| 28 days to 10 years  |28 days to 15 years|28 days to 50 years.|
-|         4. Optionality         |             No             |         No          |        No         |          No          |        No         |         No          |        No         |          No          |        No         |        No.         |
-|       5. Dual Currencies       |             No             |         No          |        No         |          No          |        No         |         No          |        No         |          No          |        No         |        No.         |
-|6. Conditional Notional Amounts |             No             |         No          |        No         |          No          |        No         |         No          |        No         |          No          |        No         |        No.         |
+|         Specification          |   Basis swap class    |                    |
+|--------------------------------|-----------------------|--------------------|
+|          1. Currency           |Australian Dollar (AUD)|    Euro (EUR).     |
+|    2. Floating Rate Indexes    |         BBSW          |      EURIBOR.      |
+|3. Stated Termination Date Range|  28 days to 30 years  |28 days to 50 years.|
+|         4. Optionality         |          No           |        No.         |
+|       5. Dual Currencies       |          No           |        No.         |
+|6. Conditional Notional Amounts |          No           |        No.         |
 
-Table 2 to Paragraph (a)
+|         Specification          |Forward rate agreement class|                  |                     |                    |
+|--------------------------------|----------------------------|------------------|---------------------|--------------------|
+|          1. Currency           |         Euro (EUR)         |Polish Zloty (PLN)|Norwegian Krone (NOK)|Swedish Krona (SEK).|
+|    2. Floating Rate Indexes    |          EURIBOR           |      WIBOR       |        NIBOR        |      STIBOR.       |
+|3. Stated Termination Date Range|     3 days to 3 years      |3 days to 2 years |  3 days to 2 years  | 3 days to 3 years. |
+|         4. Optionality         |             No             |        No        |         No          |        No.         |
+|       5. Dual Currencies       |             No             |        No        |         No          |        No.         |
+|6. Conditional Notional Amounts |             No             |        No        |         No          |        No.         |
 
-|                                |                       |                   |                    |
-|--------------------------------|-----------------------|-------------------|--------------------|
-|         Specification          |   Basis swap class    |                   |                    |
-|          1. Currency           |Australian Dollar (AUD)|    Euro (EUR)     | U.S. Dollar (USD). |
-|    2. Floating Rate Indexes    |         BBSW          |      EURIBOR      |       LIBOR.       |
-|3. Stated Termination Date Range|  28 days to 30 years  |28 days to 50 years|28 days to 50 years.|
-|         4. Optionality         |          No           |        No         |        No.         |
-|       5. Dual Currencies       |          No           |        No         |        No.         |
-|6. Conditional Notional Amounts |          No           |        No         |        No.         |
-
-Table 3 to Paragraph (a)
-
-|                                |                            |                       |                       |                       |                        |
-|--------------------------------|----------------------------|-----------------------|-----------------------|-----------------------|------------------------|
-|         Specification          |Forward rate agreement class|                       |                       |                       |                        |
-|          1. Currency           |         Euro (EUR)         |  Polish Zloty (PLN)   | Norwegian Krone (NOK) |  Swedish Krona (SEK)  |   U.S. Dollar (USD).   |
-|    2. Floating Rate Indexes    |          EURIBOR           |         WIBOR         |         NIBOR         |        STIBOR         |         LIBOR.         |
-|3. Stated Termination Date Range|  3 days to  <br/>3 years   |3 days to  <br/>2 years|3 days to  <br/>2 years|3 days to  <br/>3 years|3 days to  <br/>3 years.|
-|         4. Optionality         |             No             |          No           |          No           |          No           |          No.           |
-|       5. Dual Currencies       |             No             |          No           |          No           |          No           |          No.           |
-|6. Conditional Notional Amounts |             No             |          No           |          No           |          No           |          No.           |
-
-Table 4 to Paragraph (a)
-
-|                                |                          |                     |                 |                      |                  |                  |                 |                  |                   |
-|--------------------------------|--------------------------|---------------------|-----------------|----------------------|------------------|------------------|-----------------|------------------|-------------------|
 |         Specification          |Overnight index swap class|                     |                 |                      |                  |                  |                 |                  |                   |
+|--------------------------------|--------------------------|---------------------|-----------------|----------------------|------------------|------------------|-----------------|------------------|-------------------|
 |          1. Currency           | Australian Dollar (AUD)  |Canadian Dollar (CAD)|   Euro (EUR)    |Singapore Dollar (SGD)|  Sterling (GBP)  |Swiss Franc (CHF) |U.S. Dollar (USD)|U.S. Dollar (USD) |    Yen (JPY).     |
 |    2. Floating Rate Indexes    |        AONIA-OIS         |      CORRA-OIS      |      €STR       |         SORA         |      SONIA       |      SARON       |    FedFunds     |       SOFR       |       TONA.       |
 |3. Stated Termination Date Range|    7 days to 2 years     |  7 days to 2 years  |7 days to 3 years|  7 days to 10 years  |7 days to 50 years|7 days to 30 years|7 days to 3 years|7 days to 50 years|7 days to 30 years.|
@@ -83,4 +69,4 @@ Table 4 to Paragraph (a)
 |                  |  iTraxx Europe HiVol 5Y: Series 10 and all subsequent Series, up to and including the current Series.  |
 |     Tranched     |                                                  No.                                                   |
 
-[77 FR 74335, Dec. 13, 2012, as amended at 87 FR 52215, Aug. 24, 2022]
+[77 FR 74335, Dec. 13, 2012, as amended at 87 FR 52216, Aug. 24, 2022]

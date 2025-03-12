@@ -1,5 +1,7 @@
 ##### § 1003.140 Determinations regarding the amount of penalties and assessments and the period of exclusion. #####
 
+Link to an amendment published at 88 FR 42839, July 3, 2023.
+
 (a) Except as otherwise provided in this part, in determining the amount of any penalty or assessment or the period of exclusion in accordance with this part, the OIG will consider the following factors—
 
 (1) The nature and circumstances of the violation;

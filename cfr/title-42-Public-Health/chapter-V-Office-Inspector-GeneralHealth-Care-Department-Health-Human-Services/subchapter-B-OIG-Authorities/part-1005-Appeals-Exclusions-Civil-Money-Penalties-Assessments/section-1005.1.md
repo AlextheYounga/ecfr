@@ -1,5 +1,7 @@
 ##### § 1005.1 Definitions. #####
 
+Link to an amendment published at 88 FR 42841, July 3, 2023.
+
 *Civil money penalty cases* refer to all proceedings arising under any of the statutory bases for which the OIG has been delegated authority to impose civil money penalties under Medicare or the State health care programs.
 
 *DAB* refers to the Departmental Appeals Board or its delegatee.

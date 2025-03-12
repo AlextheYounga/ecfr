@@ -1,7 +1,5 @@
 ##### § 674.33 Repayment. #####
 
-Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
-
 (a) *Repayment Plan.* (1) The institution shall establish a repayment plan before the student ceases to be at least a half-time regular student.
 
 (2) If the last scheduled payment would be $25 or less the institution may combine it with the next-to-last repayment.
@@ -122,15 +120,25 @@ Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
 
 (ii) An institution may not use Federal funds, including Federal funds from the student loan fund, or institutional funds from the student loan fund to pay for any repayment incentive authorized by this section.
 
-(g) *Closed school discharge*—(1) *General.* (i) The holder of an NDSL or a Federal Perkins Loan discharges the borrower's (and any endorser's) obligation to repay the loan if the borrower did not complete the program of study for which the loan was made because the school at which the borrower was enrolled closed.
+(g) *Closed school discharge*—
+
+(1) *General.* (i) The holder of an NDSL or a Federal Perkins Loan discharges the borrower's (and any endorser's) obligation to repay the loan if the borrower did not complete the program of study for which the loan was made because the school at which the borrower was enrolled closed.
 
 (ii) For the purposes of this section—
 
-(A) A school's closure date is the date that the school ceases to provide educational instruction in all programs, as determined by the Secretary;
+(A) If a school has closed, the school's closure date is the earlier of: the date, determined by the Secretary, that the school ceased to provide educational instruction in programs in which most students at the school were enrolled, or a determined by the Secretary that reflects when the school ceased to provide educational instruction for all of its students;
 
-(B) “School” means a school's main campus or any location or branch of the main campus; and
+(B) “School” means a school's main campus or any location or branch of the main campus regardless of whether the school or its location or branch is considered title IV eligible;
 
-(C) The “holder” means the Secretary or the school that holds the loan.
+(C) The “holder” means the Secretary or the school that holds the loan; and
+
+(D) “Program” means the credential defined by the level and Classification of Instructional Program code in which a student is enrolled, except that the Secretary may define a borrower's program as multiple levels or Classification of Instructional Program codes if—
+
+(*1*) The enrollment occurred at the same school in closely proximate periods;
+
+(*2*) The school granted a credential in a program while the student was enrolled in a different program; or
+
+(*3*) The programs must be taken in a set order or were presented as necessary for students to complete in order to succeed in the relevant field of employment.
 
 (2) *Relief pursuant to discharge.* (i) Discharge under this section relieves the borrower of any past or present obligation to repay the loan and any accrued interest or collection costs with respect to the loan.
 
@@ -138,25 +146,25 @@ Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
 
 (iii) A borrower who has defaulted on a loan discharged under this section is not considered to have been in default on the loan after discharge, and such a borrower is eligible to receive assistance under programs authorized by title IV of the HEA.
 
-(iv) The Secretary or the school, if the school holds the loan, reports the discharge of a loan under this section to all credit bureaus to which the status of the loan was previously reported.
+(iv) The Secretary or the school, if the school holds the loan, reports the discharge of a loan under this section to all consumer reporting agencies to which the status of the loan was previously reported.
 
-(3) *Determination of borrower qualification for discharge by the Secretary.* (i) The Secretary may discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application if the Secretary determines that—
+(3) *Discharge without an application.* (i) The Secretary will discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application from the borrower if the—
 
-(A) The borrower qualified for and received a discharge on a loan pursuant to 34 CFR 682.402(d) (Federal Family Education Loan Program) or 34 CFR 685.214 (Federal Direct Loan Program), and was unable to receive a discharge on an NDSL or Federal Perkins Loan because the Secretary lacked the statutory authority to discharge the loan; or
+(A) Borrower qualified for and received a discharge on a loan pursuant to § 682.402(d) (Federal Family Education Loan Program) or § 685.214 (Federal Direct Loan Program) of this chapter, and was unable to receive a discharge on an NDSL or Federal Perkins Loan because the Secretary lacked the statutory authority to discharge the loan; or
 
-(B) Based on information in the Secretary's possession, the borrower qualifies for a discharge.
+(B) Secretary determines that the borrower qualifies for a discharge based on information in the Secretary's possession. The Secretary discharges the loan without an application from the borrower 1 year after the institution's closure date if the borrower did not complete the program at another branch or location of the school or through a teach-out agreement with another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency.
 
-(ii) With respect to schools that closed on or after November 1, 2013, the Secretary will discharge the borrower's obligation to repay an NDSL or Federal Perkins Loan without an application from the borrower if the Secretary determines that the borrower did not subsequently re-enroll in any title IV-eligible institution within a period of three years from the date the school closed.
+(ii) If the borrower accepts but does not complete a continuation of their program at a branch or another location of the institution or a teach-out agreement at another school approved by the school's accrediting agency and, if applicable, the school's State authorizing agency, then the Secretary discharges the loan 1 year after the borrower's last date of attendance at the institution or in the teach-out program.
 
-(4) *Borrower qualification for discharge.* Except as provided in paragraph (g)(3) of this section, in order to qualify for discharge of an NDSL or Federal Perkins Loan, a borrower must submit to the holder of the loan a written request and sworn statement, and the factual assertions in the statement must be true. The statement need not be notarized but must be made by the borrower under penalty of perjury. In the statement the borrower must—
+(4) *Borrower qualification for discharge.* Except as provided in paragraph (g)(3) of this section, to qualify for discharge of an NDSL or Federal Perkins Loan, a borrower must submit to the holder of the loan a completed closed school discharge application on a form approved by the Secretary, and the factual assertions in the application must be true and must be made by the borrower under penalty of perjury. The application explains the procedures and eligibility criteria for obtaining a discharge and requires the borrower to—
 
 (i) State that the borrower—
 
-(A) Received the proceeds of a loan to attend a school;
+(A) Received the proceeds of a loan, in whole or in part, on or after January 1, 1986, to attend a school;
 
-(B) Did not complete the program of study at that school because the school closed while the student was enrolled, or the student withdrew from the school not more than 120 days before the school closed. The Secretary may extend the 120-day period if the Secretary determines that exceptional circumstances related to the school's closing justify an extension. Exceptional circumstances for this purpose may include, but are not limited to: the school's loss of accreditation; The school's discontinuation of the majority of its academic programs; action by the State to revoke the school's license to operate or award academic credentials in the State; or a finding by a State or Federal government agency that the school violated State or Federal law; and
+(B) Did not complete the program of study at that school because the school closed while the student was enrolled, or the student withdrew from the school not more than 180 days before the school closed. The Secretary may extend the 180-day period if the Secretary determines that exceptional circumstances such as those described in paragraph (g)(9) of this section justify an extension; and
 
-(C) Did not complete and is not in the process of completing the program of study through a teachout at another school as defined in 34 CFR 600.2 and administered in accordance with 34 CFR 602.207(b)(6), by transferring academic credit earned at the closed school to another school, or by any other comparable means;
+(C) On or after July 1, 2023, did not complete the program at another branch or location of the institution or through a teach-out agreement at another school, approved by the school's accrediting agency and, if applicable, the school's State authorizing agency.
 
 (ii) State whether the borrower has made a claim with respect to the school's closing with any third party, such as the holder of a performance bond or a tuition recovery program, and, if so, the amount of any payment received by the borrower or credited to the borrower's loan obligation; and
 
@@ -168,7 +176,7 @@ Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
 
 (5) *Fraudulently obtained loans.* A borrower who secured a loan through fraudulent means, as determined by the ruling of a court or an administrative tribunal of competent jurisdiction, is ineligible for a discharge under this section.
 
-(6) *Cooperation by borrower in enforcement actions.* (i) In order to obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must—
+(6) *Cooperation by borrower in enforcement actions.* (i) To obtain a discharge under this section, a borrower must cooperate with the Secretary in any judicial or administrative proceeding brought by the Secretary to recover amounts discharged or to take other enforcement action with respect to the conduct on which the discharge was based. At the request of the Secretary and upon the Secretary's tendering to the borrower the fees and costs that are customarily provided in litigation to reimburse witnesses, the borrower must—
 
 (A) Provide testimony regarding any representation made by the borrower to support a request for discharge;
 
@@ -188,7 +196,7 @@ Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
 
 (iii) Nothing in this section limits or forecloses the borrower's right to pursue legal and equitable relief regarding disputes arising from matters unrelated to the discharged NDSL or Federal Perkins Loan.
 
-(8) *Discharge procedures.* (i) After confirming the date of a school's closure, the holder of the loan identifies any NDSL or Federal Perkins Loan borrower who appears to have been enrolled at the school on the school closure date or to have withdrawn not more than 120 days prior to the closure date.
+(8) *Discharge procedures.* (i) After confirming the date of a school's closure, the holder of the loan identifies any NDSL or Federal Perkins Loan borrower who appears to have been enrolled at the school on the school closure date or to have withdrawn not more than 180 days prior to the closure date.
 
 (ii) If the borrower's current address is known, the holder of the loan mails the borrower a discharge application and an explanation of the qualifications and procedures for obtaining a discharge. The holder of the loan also promptly suspends any efforts to collect from the borrower on any affected loan. The holder of the loan may continue to receive borrower payments.
 
@@ -196,11 +204,11 @@ Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
 
 (iv) In the case of a loan held by a school, if the borrower's current address is unknown, the school attempts to locate the borrower and determine the borrower's potential eligibility for a discharge under this section by taking steps required to locate the borrower under § 674.44.
 
-(v) If the borrower fails to submit the written request and sworn statement described in paragraph (g)(4) of this section within 60 days of the holder of the loan's mailing the discharge application, the holder of the loan resumes collection and grants forbearance of principal and interest for the period during which collection activity was suspended.
+(v) If the borrower fails to submit the completed application described in paragraph (g)(4) of this section within 90 days of the holder of the loan's mailing the discharge application, the holder of the loan resumes collection and grants forbearance of principal and interest for the period during which collection activity was suspended.
 
 (vi) Upon resuming collection on any affected loan, the Secretary provides the borrower another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
-(vii) If the holder of the loan determines that a borrower who requests a discharge meets the qualifications for a discharge, the holder of the loan notifies the borrower in writing of that determination.
+(vii) If the holder of the loan determines that a borrower who requests a discharge meets the qualifications for a discharge, the holder of the loan notifies the borrower in writing of that determination and the reasons for the determination.
 
 (viii) In the case of a loan held by the Secretary, if the Secretary determines that a borrower who requests a discharge does not meet the qualifications for a discharge, the Secretary notifies that borrower, in writing, of that determination and the reasons for the determination.
 
@@ -208,4 +216,28 @@ Link to an amendment published at 87 FR 66042, Nov. 1, 2022.
 
 (x) In the case of a loan held by a school and discharged by either the school or the Secretary, the school must reimburse its Fund for the entire amount of any outstanding principal and interest on the loan, and any collection costs charged to the Fund as a result of collection efforts on a discharged loan. The school must also reimburse the borrower for any amount of principal, interest, late charges or collection costs the borrower paid on a loan discharged under this section.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016; 84 FR 58933, Nov. 1, 2019]
+(9) *Exceptional circumstances.* For purposes of this section, exceptional circumstances include, but are not limited to—
+
+(i) The revocation or withdrawal by an accrediting agency of the school's institutional accreditation;
+
+(ii) The school is or was placed on probation or issued a show-cause order, or placed on an equivalent accreditation status, by its accrediting agency for failing to meet one or more of the agency's standards;
+
+(iii) The revocation or withdrawal by the State authorization or licensing authority to operate or to award academic credentials in the State;
+
+(iv) The termination by the Department of the school's participation in a title IV, HEA program;
+
+(v) A finding by a State or Federal government agency that the school violated State or Federal law related to education or services to students;
+
+(vi) A State or Federal court judgment that a School violated State or Federal law related to education or services to students;
+
+(vii) The teach-out of the student's educational program exceeds the 180-day look back period for a closed school discharge;
+
+(viii) The school responsible for the teach-out of the student's educational program fails to perform the material terms of the teach-out plan or agreement, such that the student does not have a reasonable opportunity to complete his or her program of study;
+
+(ix) The school discontinued a significant share of its academic programs;
+
+(x) The school permanently closed all or most of its in-person locations while maintaining online programs;
+
+(xi) The Department placed the school on the heightened cash monitoring payment method as defined in § 668.162(d)(2).
+
+(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016; 84 FR 58933, Nov. 1, 2019; 87 FR 66042, Nov. 1, 2022]

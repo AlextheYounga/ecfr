@@ -1,7 +1,5 @@
 ##### § 668.91 Initial and final decisions. #####
 
-Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
-
 (a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to—
 
 (A) The designated department official who began a proceeding against an institution or third-party servicer;
@@ -20,9 +18,7 @@ Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
 (C) The 50th day after the last day of the hearing, if the hearing official does not request the parties to make any posthearing submission.
 
-(2)(i) The hearing official's initial decision states whether the imposition of the fine, limitation, suspension, or termination or recovery sought by the designated department official is warranted, in whole or in part. If the designated department official brought a termination action against the institution or servicer, the hearing official may, if appropriate, issue an initial decision to fine the institution or servicer, as applicable, or, rather than terminating the institution's participation or servicer's eligibility, as applicable, impose one or more limitations on the institution's participation or servicer's eligibility.
-
-(ii) In a borrower defense and recovery proceeding conducted in two phases under § 668.87(a)(1)(iv)(B), the hearing official's initial decision determines whether the institution is liable for the act or omission described in the notice of intent to recover, and the hearing official issues an initial decision on liability only.
+(2) The hearing official's initial decision states whether the imposition of the fine, limitation, suspension, or termination or recovery sought by the designated department official is warranted, in whole or in part. If the designated department official brought a termination action against the institution or servicer, the hearing official may, if appropriate, issue an initial decision to fine the institution or servicer, as applicable, or, rather than terminating the institution's participation or servicer's eligibility, as applicable, impose one or more limitations on the institution's participation or servicer's eligibility.
 
 (3) Notwithstanding the provisions of paragraph (a)(2) of this section—
 
@@ -90,6 +86,4 @@ Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
 (ix) If the hearing official finds that a termination is warranted pursuant to paragraph (a)(3) of this section, the Secretary may affirm, modify, or reverse the initial decision, or may remand the case to the hearing official for further proceedings consistent with the Secretary's decision. If the Secretary affirms the initial decision without issuing a statement of reasons, the Secretary adopts the opinion of the hearing official as the decision of the Secretary. If the Secretary modifies, remands, or reverses the initial decision, in whole or in part, the Secretary's decision states the reasons for the action taken.
 
-(x) In a borrower defense and recovery proceeding conducted in two phases under § 668.87(a)(1)(iv)(B), if a party appeals an initial decision of the hearing official in the first phase, the Secretary may affirm, modify, or reverse the initial decision, or may remand the case to the hearing official for further proceedings consistent with the Secretary's decision.
-
-(Approved by the Office of Management and Budget under control number 1840-0537)[59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. 81 FR 76072, Nov. 1, 2016. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 201 7; 84 FR 49910, Sept. 23, 2019]
+(Approved by the Office of Management and Budget under control number 1840-0537)[59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. 81 FR 76072, Nov. 1, 2016. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 201 7; 84 FR 49910, Sept. 23, 2019; 87 FR 66041, Nov. 1, 2022]

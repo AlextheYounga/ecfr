@@ -1,7 +1,5 @@
 ##### § 600.2 Definitions. #####
 
-Link to an amendment published at 87 FR 65485, Oct. 28, 2022.
-
 The following definitions apply to terms used in this part:
 
 *Academic engagement:* Active participation by a student in an instructional activity related to the student's course of study that—
@@ -34,37 +32,27 @@ The following definitions apply to terms used in this part:
 
 *Accredited:* The status of public recognition that a nationally recognized accrediting agency grants to an institution or educational program that meets the agency's established requirements.
 
-*Additional location:* A facility that is geographically apart from the main campus of the institution and at which the institution offers at least 50 percent of a program and may qualify as a branch campus.
+*Additional location:* (1) A physical facility that is geographically separate from the main campus of the institution and within the same ownership structure of the institution, at which the institution offers at least 50 percent of an educational program. An additional location participates in the title IV, HEA programs only through the certification of the main campus.
+
+(2) A Federal, State, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or other similar correctional institution is considered to be an additional location even if a student receives instruction primarily through distance education or correspondence courses at that location.
 
 *Award year:* The period of time from July 1 of one year through June 30 of the following year.
 
-*Branch campus:* An additional location of an institution that is geographically apart and independent of the main campus of the institution. The Secretary considers a location of an institution to be independent of the main campus if the location—
+*Branch campus:* A physical facility that is geographically separate from the main campus of the institution and within the same ownership structure of the institution, and that also—
 
-(1) Is permanent in nature;
+(1) Is approved by the Secretary as a branch campus; and
 
-(2) Offers courses in educational programs leading to a degree, certificate, or other recognized educational credential;
+(2) Is independent from the main campus, meaning the location—
 
-(3) Has its own faculty and administrative or supervisory organization; and
+(i) Is permanent in nature;
 
-(4) Has its own budgetary and hiring authority.
+(ii) Offers courses in educational programs leading to a degree, certificate, or other recognized education credential;
 
-*Clock hour:* (1) A period of time consisting of—
+(iii) Has its own faculty and administrative or supervisory organization; and
 
-(i) A 50- to 60-minute class, lecture, or recitation in a 60-minute period;
+(iv) Has its own budgetary and hiring authority.
 
-(ii) A 50- to 60-minute faculty-supervised laboratory, shop training, or internship in a 60-minute period;
-
-(iii) Sixty minutes of preparation in a correspondence course; or
-
-(iv) In distance education, 50 to 60 minutes in a 60-minute period of attendance in—
-
-(A) A synchronous or asynchronous class, lecture, or recitation where there is opportunity for direct interaction between the instructor and students; or
-
-(B) An asynchronous learning activity involving academic engagement in which the student interacts with technology that can monitor and document the amount of time that the student participates in the activity.
-
-(2) A clock hour in a distance education program does not meet the requirements of this definition if it does not meet all accrediting agency and State requirements or if it exceeds an agency's or State's restrictions on the number of clock hours in a program that may be offered through distance education.
-
-(3) An institution must be capable of monitoring a student's attendance in 50 out of 60 minutes for each clock hour under this definition.
+*Confined or incarcerated individual:* An individual who is serving a criminal sentence in a Federal, State, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or other similar correctional institution. An individual is not considered incarcerated if that individual is subject to or serving an involuntary civil commitment, in a half-way house or home detention, or is sentenced to serve only weekends.
 
 *Correspondence course:* (1) A course provided by an institution under which the institution provides instructional materials, by mail or electronic transmission, including examinations on the materials, to students who are separated from the instructors. Interaction between instructors and students in a correspondence course is limited, is not regular and substantive, and is primarily initiated by the student.
 
@@ -136,8 +124,6 @@ The following definitions apply to terms used in this part:
 
 *Federal Family Education Loan (FFEL) Programs:* The loan programs (formerly called the Guaranteed Student Loan (GSL) programs) authorized by title IV-B of the HEA, including the Federal Stafford Loan, Federal PLUS, Federal Supplemental Loans for Students (Federal SLS), and Federal Consolidation Loan programs, in which lenders use their own funds to make loans to enable students or their parents to pay the costs of the students' attendance at eligible institutions. The Federal Stafford Loan, Federal PLUS, Federal SLS, and Federal Consolidation Loan programs are defined in 34 CFR part 668.
 
-*Incarcerated student:* A student who is serving a criminal sentence in a Federal, State, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or other similar correctional institution. A student is not considered incarcerated if that student is in a half-way house or home detention or is sentenced to serve only weekends. For purposes of Pell Grant eligibility under 34 CFR 668.32(c)(2)(ii), a student who is incarcerated in a juvenile justice facility, or in a local or county facility, is not considered to be incarcerated in a Federal or State penal institution, regardless of which governmental entity operates or has jurisdiction over the facility, including the Federal Government or a State, but is considered incarcerated for the purposes of determining costs of attendance under section 472 of the HEA in determining eligibility for and the amount of the Pell Grant.
-
 *Juvenile justice facility:* A public or private residential facility that is operated primarily for the care and rehabilitation of youth who, under State juvenile justice laws—
 
 (1) Are accused of committing a delinquent act;
@@ -146,17 +132,39 @@ The following definitions apply to terms used in this part:
 
 (3) Are determined to be in need of supervision.
 
+*Main campus:* The primary physical facility at which the institution offers eligible programs, within the same ownership structure of the institution, and certified as the main campus by the Department and the institution's accrediting agency.
+
 *Nationally recognized accrediting agency:* An agency or association that the Secretary recognizes as a reliable authority to determine the quality of education or training offered by an institution or a program offered by an institution. The Secretary recognizes these agencies and associations under the provisions of 34 CFR part 602 and publishes a list of the recognized agencies in the Federal Register.
 
-*Nonprofit institution:* An institution that—
+*Nonprofit institution:* (1) A nonprofit institution is a domestic public or private institution or foreign institution as to which the Secretary determines that no part of the net earnings of the institution benefits any private entity or natural person and that meets the requirements of paragraphs (2) through (4) of this definition, as applicable.
 
-(1)(i) Is owned and operated by one of more nonprofit corporations or associations, no part of the net earnings of which benefits any private shareholder or individual;
+(2) When making the determination under paragraph (1) of this definition, the Secretary considers the entirety of the relationship between the institution, the entities in its ownership structure, and other parties. For example, a nonprofit institution is generally not an institution that—
 
-(ii) Is legally authorized to operate as a nonprofit organization by each State in which it is physically located; and
+(i) Is an obligor (either directly or through any entity in its ownership chain) on a debt owed to a former owner of the institution or a natural person or entity related to or affiliated with the former owner of the institution;
 
-(iii) Is determined by the U.S. Internal Revenue Service to be an organization to which contributions are tax-deductible in accordance with section 501(c)(3) of the Internal Revenue Code (26 U.S.C. 501(c)(3)); or
+(ii) Either directly or through any entity in its ownership chain, enters into or maintains a revenue-sharing agreement, unless the Secretary determines that the payments and the terms under the revenue-sharing agreement are reasonable, based on the market price and terms for such services or materials, and the price bears a reasonable relationship to the cost of the services or materials provided, with—
 
-(2) For a foreign institution—
+(A) A former owner or current or former employee of the institution or member of its board; or
+
+(B) A natural person or entity related to or affiliated with the former owner or current or former employee of the institution or member of its board;
+
+(iii) Is a party (either directly or indirectly) to any other agreements (including lease agreements) under which the institution is obligated to make any payments, unless the Secretary determines that the payments and terms under the agreement are comparable to payments in an arm's-length transaction at fair market value, with—
+
+(A) A former owner or current or former employee of the institution or member of its board; or
+
+(B) A natural person or entity related to or affiliated with the former owner or current or former employee of the institution or member of its board; or
+
+(iv) Engages in an excess benefit transaction with any natural person or entity.
+
+(3) A private institution is a “nonprofit institution” only if it meets the requirements in paragraph (1) of this definition and is—
+
+(i) Owned and operated by one or more nonprofit corporations or associations;
+
+(ii) Legally authorized to operate as a nonprofit organization by each State in which it is physically located; and
+
+(iii) Determined by the U.S. Internal Revenue Service to be an organization described in section 501(c)(3) of the Internal Revenue Code (26 U.S.C. 501(c)(3)).
+
+(4) A foreign institution is a “nonprofit institution” only if it meets the requirements in paragraph (1) of this definition and is—
 
 (i) An institution that is owned and operated only by one or more nonprofit corporations or associations; and
 
@@ -202,4 +210,4 @@ The following definitions apply to terms used in this part:
 
 *Title IV, HEA program:* Any of the student financial assistance programs listed in 34 CFR 668.1(c).
 
-[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016; 84 FR 58914, Nov. 1, 2019' 85 FR 54808, Sept. 2, 2020]
+[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016; 84 FR 58914, Nov. 1, 2019' 85 FR 54808, Sept. 2, 2020; 87 FR 65485, Oct. 28, 2022]

@@ -1,7 +1,5 @@
 ##### § 668.89 Hearing. #####
 
-Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
-
 (a) A hearing is an orderly presentation of arguments and evidence conducted by a hearing official. At the discretion of the hearing official, any right to a hearing may be satisfied by one or more of the following: Summary disposition pursuant to § 668.88(e), with or without oral argument; an oral evidentiary hearing conducted in person, by telephone, by video conference, or any combination thereof; or a review limited to written evidence.
 
 (b)(1) Notwithstanding any provision to the contrary, the hearing official sets the procedures to be used in the hearing, and may take steps to expedite the proceeding as appropriate.
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
 (ii) The designated department official has the burden of persuasion in any fine, suspension, limitation, or termination proceeding under this subpart.
 
-(iii) The designated department official has the burden of persuasion in a borrower defense and recovery action; however, for a borrower defense claim based on a substantial misrepresentation under § 682.222(d), the designated department official has the burden of persuasion regarding the substantial misrepresentation, and the institution has the burden of persuasion in establishing any offsetting value of the education under § 685.222(i)(2)(i).
+(iii) For borrower defenses under §§ 685.206(c) and (e) and 685.222 of this chapter, the designated department official has the burden of persuasion in a borrower defense and recovery action; however, for a borrower defense claim based on a substantial misrepresentation under § 682.222(d) of this chapter, the designated department official has the burden of persuasion regarding the substantial misrepresentation, and the institution has the burden of persuasion in establishing any offsetting value of the education under § 685.222(i)(2)(i).
 
 (4) Discovery, as provided for under the Federal Rules of Civil Procedure, is not permitted.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
 (c) The hearing official makes a transcribed record of the proceeding and makes a copy of the record available to the designated Department official and to the institution or servicer.
 
-(Authority: 20 U.S.C. 1094)[82 FR 6258, Jan. 19, 2017]
+(Authority: 20 U.S.C. 1094)[82 FR 6258, Jan. 19, 2017, as amended at 87 FR 66041, Nov. 1, 2022]

@@ -1,0 +1,7 @@
+##### § 685.411 Transfer to the Secretary of the borrower's right of recovery against third parties. #####
+
+(a) Upon the granting of any discharge under this subpart, the borrower is deemed to have assigned to, and relinquished in favor of, the Secretary any right to a loan refund (up to the amount discharged) that the borrower may have by contract or applicable law with respect to the loan or the contract for educational services for which the loan was received, against the school, its principals, its affiliates, and their successors, its sureties, and any private fund.
+
+(b) The provisions of this section apply notwithstanding any provision of State law that would otherwise restrict transfer of those rights by the borrower, limit or prevent a transferee from exercising those rights, or establish procedures or a scheme of distribution that would prejudice the Secretary's ability to recover on those rights.
+
+(c) Nothing in this section limits or forecloses the borrower's right to pursue legal and equitable relief against a party described in this section for recovery of any portion of a claim exceeding that assigned to the Secretary or any other claims arising from matters unrelated to the claim on which the loan is discharged.

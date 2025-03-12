@@ -1,7 +1,5 @@
 ##### § 668.43 Institutional information. #####
 
-Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
-
 (a) Institutional information that the institution must make readily available to enrolled and prospective students under this subpart includes, but is not limited to—
 
 (1) The cost of attending the institution, including—
@@ -30,7 +28,7 @@ Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 (iii) The institution's faculty and other instructional personnel;
 
-(iv) Any plans by the institution for improving the academic program of the institution, upon a determination by the institution that such a plan exists; and
+(iv) Any plans by the institution for improving the academic program of the institution, upon a determination by the institution that such a plan exists;
 
 (v) If an educational program is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation, or is advertised as meeting such requirements, information regarding whether completion of that program would be sufficient to meet licensure requirements in a State for that occupation, including—
 
@@ -38,7 +36,9 @@ Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 (B) A list of all States for which the institution has determined that its curriculum does not meet the State educational requirements for licensure or certification; and
 
-(C) A list of all States for which the institution has not made a determination that its curriculum meets the State educational requirements for licensure or certification;
+(C) A list of all States for which the institution has not made a determination that its curriculum meets the State educational requirements for licensure or certification; and
+
+(vi) If a prison education program, as defined in § 668.236, is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation (as described in § 668.236(a)(7) and (8)), information regarding whether that occupation typically involves State or Federal prohibitions on the licensure or employment of formerly confined or incarcerated individuals in any other State for which the institution has made a determination about State prohibitions on the licensure or certification of formerly confined or incarcerated individuals;
 
 (6) The names of associations, agencies or governmental bodies that accredit, approve, or license the institution and its programs and the procedures by which documents describing that activity may be reviewed under paragraph (b) of this section;
 
@@ -112,4 +112,4 @@ Link to an amendment published at 87 FR 65495, Oct. 28, 2022.
 
 (C) An institution must make a determination regarding the State in which a student is located at the time of the student's initial enrollment in an educational program and, if applicable, upon formal receipt of information from the student, in accordance with the institution's procedures under paragraph (c)(3)(ii)(A) of this section, that the student's location has changed to another State.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1092)[64 FR 59068, Nov. 1, 1999, as amended at 74 FR 55943, Oct. 29, 2009; 75 FR 66954, Oct. 29, 2010; 84 FR 58932, Nov. 1, 2019]
+(Approved by the Office of Management and Budget under control number 1845-0022)[64 FR 59068, Nov. 1, 1999, as amended at 74 FR 55943, Oct. 29, 2009; 75 FR 66954, Oct. 29, 2010; 84 FR 58932, Nov. 1, 2019; 87 FR 65495, Oct. 28, 2022]

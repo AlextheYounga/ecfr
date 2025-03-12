@@ -1,93 +1,177 @@
-##### § 685.219 Public Service Loan Forgiveness Program. #####
+##### § 685.219 Public Service Loan Forgiveness Program (PSLF). #####
 
-Link to an amendment published at 87 FR 66063, Nov. 1, 2022.
-
-(a) *General.* The Public Service Loan Forgiveness Program is intended to encourage individuals to enter and continue in full-time public service employment by forgiving the remaining balance of their Direct loans after they satisfy the public service and loan payment requirements of this section.
+(a) *Purpose.* The Public Service Loan Forgiveness Program is intended to encourage individuals to enter and continue in full-time public service employment by forgiving the remaining balance of their Direct loans after they satisfy the public service and loan payment requirements of this section.
 
 (b) *Definitions.* The following definitions apply to this section:
 
-*AmeriCorps position* means a position approved by the Corporation for National and Community Service under section 123 of the National and Community Service Act of 1990 (42 U.S.C. 12573).
+*AmeriCorps service* means service in a position approved by the Corporation for National and Community Service under section 123 of the National and Community Service Act of 1990 (42 U.S.C. 12573).
 
-*Eligible Direct loan* means a Direct Subsidized Loan, Direct Unsubsidized Loan, Direct PLUS loan, or a Direct Consolidation loan.
+*Civilian service to the military* means providing services to or on behalf of members, veterans, or the families or survivors of deceased members of the U.S. Armed Forces or the National Guard that is provided to a person because of the person's status in one of those groups.
 
-*Employee or employed* means an individual who is hired and paid by a public service organization.
+*Early childhood education program* means an early childhood education program as defined in section 103(8) of the Act (20 U.S.C. 1003).
 
-*Full-time* (1) means working in qualifying employment in one or more jobs for the greater of—
+*Eligible Direct Loan* means a Direct Subsidized Loan, a Direct Unsubsidized Loan, a Direct PLUS Loan, or a Direct Consolidation Loan.
 
-(i)(A) An annual average of at least 30 hours per week, or
+*Emergency management services* means services that help remediate, lessen, or eliminate the effects or potential effects of emergencies that threaten human life or health, or real property.
 
-(B) For a contractual or employment period of at least 8 months, an average of 30 hours per week; or
+*Employee or employed* means an individual—
 
-(ii) Unless the qualifying employment is with two or more employers, the number of hours the employer considers full-time.
+(i) To whom an organization issues an IRS Form W-2;
 
-(2) Vacation or leave time provided by the employer or leave taken for a condition that is a qualifying reason for leave under the Family and Medical Leave Act of 1993, 29 U.S.C. 2612(a)(1) and (3) is not considered in determining the average hours worked on an annual or contract basis.
+(ii) Who receives an IRS Form W-2 from an organization that has contracted with a qualifying employer to provide payroll or similar services for the qualifying employer, and which provides the Form W-2 under that contract;
 
-*Government employee* means an individual who is employed by a local, State, Federal, or Tribal government, but does not include a member of the U.S. Congress.
+(iii) who works as a contracted employee for a qualifying employer in a position or providing services which, under applicable state law, cannot be filled or provided by a direct employee of the qualifying employer.
 
-*Law enforcement* means service performed by an employee of a public service organization that is publicly funded and whose principal activities pertain to crime prevention, control or reduction of crime, or the enforcement of criminal law.
+*Full-time* means:
 
-*Military service*, for uniformed members of the U.S. Armed Forces or the National Guard, means “active duty” service or “full-time National Guard duty” as defined in section 101(d)(1) and (d)(5) of title 10 in the United States Code, but does not include active duty for training or attendance at a service school. For civilians, “Military service” means service on behalf of the U.S. Armed Forces or the National Guard performed by an employee of a public service organization.
+(i) Working in qualifying employment in one or more jobs—
+
+(A) A minimum average of 30 hours per week during the period being certified,
+
+(B) A minimum of 30 hours per week throughout a contractual or employment period of at least 8 months in a 12-month period, such as elementary and secondary school teachers and professors and instructors, in higher education, in which case the borrower is deemed to have worked full time; or
+
+(C) The equivalent of 30 hours per week as determined by multiplying each credit or contact hour taught per week by at least 3.35 in non-tenure track employment at an institution of higher education.
+
+(ii) Routine paid vacation or paid leave time provided by the employer, and leave taken under the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)) will be considered when determining if the borrower is working full-time.
+
+*Law enforcement* means service that is publicly funded and whose principal activities pertain to crime prevention, control or reduction of crime, or the enforcement of criminal law.
+
+*Military service* means “active duty” service or “full-time National Guard duty” as defined in section 101(d)(1) and (d)(5) of title 10 in the United States Code and does not include active duty for training or attendance at a service school.
+
+*Non-governmental public service* means services provided by employees of a non-governmental qualified employer where the employer has devoted a majority of its full-time equivalent employees to working in at least one of the following areas (as defined in this section): emergency management, civilian service to military personnel military service, public safety, law enforcement, public interest law services, early childhood education, public service for individuals with disabilities or the elderly, public health, public education, public library services, school library, or other school-based services. Service as a member of the U.S. Congress is not qualifying public service employment for purposes of this section.
+
+*Non-tenure track employment* means work performed by adjunct, contingent or part time faculty, teachers, or lecturers who are paid based on the credit hours they teach at institutions of higher education.
+
+*Other school-based service* means the provision of services to schools or students in a school or a school-like setting that are not public education services, such as school health services and school nurse services, social work services in schools, and parent counseling and training.
 
 *Peace Corps position* means a full-time assignment under the Peace Corps Act as provided for under 22 U.S.C. 2504.
 
-*Public interest law* refers to legal services provided by a public service organization that are funded in whole or in part by a local, State, Federal, or Tribal government.
+*Public education service* means the provision of educational enrichment or support to students in a public school or a public school-like setting, including teaching.
 
-*Public service organization* means:
+*Public health* means those engaged in the following occupations (as those terms are defined by the Bureau of Labor Statistics): physicians, nurse practitioners, nurses in a clinical setting, health care practitioners, health care support, counselors, social workers, and other community and social service specialists.
 
-(i) A Federal, State, local, or Tribal government organization, agency, or entity;
+*Public interest law* is legal services that are funded in whole or in part by a local, State, Federal, or Tribal government.
+
+*Public library service* means the operation of public libraries or services that support their operation.
+
+*Public safety service* means services that seek to prevent the need for emergency management services.
+
+*Public service for individuals with disabilities* means services performed for or to assist individuals with disabilities (as defined in the Americans with Disabilities Act (42 U.S.C. 12102)) that is provided to a person because of the person's status as an individual with a disability.
+
+*Public service for the elderly* means services that are provided to individuals who are aged 62 years or older and that are provided to a person because of the person's status as an individual of that age.
+
+*Qualifying employer* means:
+
+(i) A United States-based Federal, State, local, or Tribal government organization, agency, or entity, including the U.S. Armed Forces or the National Guard;
 
 (ii) A public child or family service agency;
 
-(iii) A non-profit organization under section 501(c)(3) of the Internal Revenue Code that is exempt from taxation under section 501(a) of the Internal Revenue Code;
+(iii) An organization under section 501(c)(3) of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of the Internal Revenue Code;
 
 (iv) A Tribal college or university; or
 
-(v)(A) A private organization that provides the following public services: Emergency management, military service, public safety, law enforcement, public interest law services, early childhood education (including licensed or regulated child care, Head Start, and State funded pre-kindergarten), public service for individuals with disabilities and the elderly, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, public library services, school library or other school-based services; and
+(v) A nonprofit organization that—
+
+(A) Provides a non-governmental public service as defined in this section, attested to by the employer on a form approved by the Secretary; and
 
 (B) Is not a business organized for profit, a labor union, or a partisan political organization.
 
-(c) *Borrower eligibility.* (1) A borrower may obtain loan forgiveness under this program if he or she—
+*Qualifying repayment plan* means:
 
-(i) Is not in default on the loan for which forgiveness is requested;
+(i) An income-contingent repayment plan under § 685.209 or an income-based repayment plan under § 685.221;
 
-(ii) Is employed full-time by a public service organization or serving in a full-time AmeriCorps or Peace Corps position—
+(ii) The 10-year standard repayment plan under § 685.208(b) or the consolidation loan standard repayment plan with a 10-year repayment term under § 685.208(c); or
 
-(A) When the borrower makes the 120 monthly payments described under paragraph (c)(1)(iii) of this section;
+(iii) Except for the alternative repayment plan, any other repayment plan if the monthly payment amount is not less than what would have been paid under the 10-year standard repayment plan under § 685.208(b).
 
-(B) At the time of application for loan forgiveness; and
+*School library services* means the operations of school libraries or services that support their operation.
 
-(C) At the time the remaining principal and accrued interest are forgiven.
+(c) *Borrower eligibility.* (1) A borrower may obtain loan forgiveness under this program if the borrower—
 
-(iii) Makes 120 separate monthly payments after October 1, 2007, on eligible Direct loans for which forgiveness is sought. Except as provided in paragraph (c)(2) of this section for a borrower in an AmeriCorps or Peace Corps position or who qualifies for partial repayment of his or her loans under the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense,, the borrower must make the monthly payments within 15 days of the scheduled due date for the full scheduled installment amount; and
+(i) Is not in default on the loan at the time forgiveness is requested;
 
-(iv) Makes the required 120 monthly payments under one or more of the following repayment plans—
+(ii) Is employed full-time by a qualifying employer or serving in a full-time AmeriCorps or Peace Corps position—
 
-(A) Except for a parent PLUS borrower, an income-based repayment plan, as determined in accordance with § 685.221;
+(A) When the borrower satisfied the 120 monthly payments described under paragraph (c)(1)(iii) of this section; and
 
-(B) Except for a parent PLUS borrower, an income-contingent repayment plan, as determined in accordance with § 685.209;
+(B) At the time the borrower applies for forgiveness under paragraph (e) of this section; and
 
-(C) A standard repayment plan, as determined in accordance with § 685.208(b); or
+(iii) Satisfies the equivalent of 120 monthly payments after October 1, 2007, as described in paragraph (c)(2) of this section, on eligible Direct loans.
 
-(D) Except for the alternative repayment plan, any other repayment plan if the monthly payment amount is not less than what would have been paid under the Direct Loan standard repayment plan described in § 685.208(b).
+(2) A borrower will be considered to have made monthly payments under paragraph (c)(1)(iii) of this section by—
 
-(2) If a borrower makes a lump sum payment on an eligible loan for which the borrower is seeking forgiveness by using all or part of a Segal Education Award received after a year of AmeriCorps service, or by using all or part of a Peace Corps transition payment if the lump sum payment is made no later than six months after leaving the Peace Corps or if a lump sum payment is made on behalf of the borrower through the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense,, the Secretary will consider the borrower to have made qualifying payments equal to the lesser of—
+(i) Paying at least the full scheduled amount due for a monthly payment under the qualifying repayment plan;
 
-(i) The number of payments resulting after dividing the amount of the lump sum payment by the monthly payment amount the borrower would have made under paragraph (c)(1)(iv) of this section; or
+(ii) Paying in multiple installments that equal the full scheduled amount due for a monthly payment under the qualifying repayment plan;
 
-(ii) Twelve payments.
+(iii) For a borrower on an income-contingent repayment plan under § 685.209 or an income-based repayment plan under § 685.221, paying a lump sum or monthly payment amount that is equal to or greater than the full scheduled amount in advance of the borrower's scheduled payment due date for a period of months not to exceed the period from the Secretary's receipt of the payment until the borrower's next annual repayment plan recertification date under the qualifying repayment plan in which the borrower is enrolled;
 
-(3) The Secretary considers lump sum payments made on behalf of the borrower through the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense, to be qualifying payments in accordance with paragraph (c)(2) of this section for each year that a lump sum payment is made.
+(iv) For a borrower on the 10-year standard repayment plan under § 685.208(b) or the consolidation loan standard repayment plan with a 10-year repayment term under § 685.208(c), paying a lump sum or monthly payment amount that is equal to or greater than the full scheduled amount in advance of the borrower's scheduled payment due date for a period of months not to exceed the period from the Secretary's receipt of the payment until the lesser of 12 months from that date or the date upon which the Secretary receives the borrower's next submission under subsection (e).
 
-(d) *Forgiveness Amount.* The Secretary forgives the principal and accrued interest that remains on all eligible loans for which loan forgiveness is requested by the borrower. The Secretary forgives this amount after the borrower makes the 120 monthly qualifying payments under paragraph (c) of this section.
+(v) Receiving one of the following deferments or forbearances for the month:
 
-(e) *Application.* (1) After making the 120 monthly qualifying payments on the eligible loans for which loan forgiveness is requested, a borrower may request loan forgiveness on a form provided by the Secretary.
+(A) Cancer treatment deferment under section 455(f)(3) of the Act;
 
-(2) If the Secretary determines that the borrower meets the eligibility requirements for loan forgiveness under this section, the Secretary—
+(B) Economic hardship deferment under § 685.204(g);
+
+(C) Military service deferment under § 685.204(h);
+
+(D) Post-active-duty student deferment under § 685.204(i);
+
+(E) AmeriCorps forbearance under § 685.205(a)(4);
+
+(F) National Guard Duty forbearance under § 685.205(a)(7);
+
+(G) U.S. Department of Defense Student Loan Repayment Program forbearance under § 685.205(a)(9);
+
+(H) Administrative forbearance or mandatory administrative forbearance under § 685.205(b)(8) or (9); and
+
+(vi) Being employed full-time with a qualifying employer, as defined in this section, at any point during the month for which the payment is credited.
+
+(3) If a borrower consolidates one or more Direct Loans into a Direct Consolidation Loan, including a Direct PLUS Loan made to a parent borrower, the weighted average of the payments the borrower made on the Direct Loans prior to consolidating and that met the criteria in paragraphs (c)(2)(i) through (vi) of this section will count as qualifying payments on the Direct Consolidation Loan.
+
+(d) *Forgiveness amount.* The Secretary forgives the principal and accrued interest that remains on all loans for which the borrower meets the requirements of paragraph (c) of this section as of the date the borrower satisfied the last required monthly payment obligation.
+
+(e) *Application process.* (1) Notwithstanding paragraph (f) of this section, after making the 120 monthly qualifying payments on the eligible loans for which loan forgiveness is requested while working the 120 months of qualifying service, a borrower may request loan forgiveness by filing an application approved by the Secretary.
+
+(2) If the Secretary has sufficient information to determine the borrower's qualifying employer and length of employment, the Secretary informs the borrower if the borrower is eligible for forgiveness.
+
+(3) If the Secretary does not have sufficient information to make a determination of the borrower's eligibility for forgiveness, the borrower must provide additional information about the borrower's employment and employer on a form approved by the Secretary.
+
+(4) If the borrower is unable to secure a certification of employment from a qualifying employer, the Secretary may determine the borrower's qualifying employment or payments based on other documentation provided by the borrower at the Secretary's request.
+
+(5) The Secretary may request reasonable additional documentation pertaining to the borrower's employer or employment before providing a determination.
+
+(6) The Secretary may substantiate an employer's attestation of information provided on the form in paragraph (e)(3) of this section based on a review of information about the employer.
+
+(7) If the Secretary determines that the borrower meets the eligibility requirements for loan forgiveness under this section, the Secretary—
 
 (i) Notifies the borrower of this determination; and
 
 (ii) Forgives the outstanding balance of the eligible loans.
 
-(3) If the Secretary determines that the borrower does not meet the eligibility requirements for loan forgiveness under this section, the Secretary resumes collection of the loan and grants forbearance of payment on both principal and interest for the period in which collection activity was suspended. The Secretary notifies the borrower that the application has been denied, provides the basis for the denial, and informs the borrower that the Secretary will resume collection of the loan. The Secretary may capitalize any interest accrued and not paid during this period.
+(8) If the Secretary determines that the borrower does not meet the eligibility requirements for loan forgiveness under this section, grants forbearance of payment on both principal and interest for the period in which collection activity was suspended. The Secretary notifies the borrower that the application has been denied, provides the basis for the denial, and informs the borrower that the Secretary will resume collection of the loan. The Secretary does not capitalize any interest accrued and not paid during this period.
 
-(Authority: 20 U.S.C. 1087e(m))[73 FR 63256, Oct. 23, 2008, as amended at 74 FR 56005, Oct. 29, 2009; 77 FR 76414, Dec. 28, 2012; 80 FR 67242, Oct. 30, 2015; 85 FR 49821, Aug. 14, 2020]
+(f) *Application not required.* The Secretary forgives a loan under this section without an application from the borrower if the Secretary has sufficient information in the Secretary's possession to determine the borrower has satisfied the requirements for forgiveness under this section.
+
+(g) *Reconsideration process.* (1) Within 90 days of the date the Secretary sent the notice of denial of forgiveness under paragraph (e)(8) of this section to the borrower, the borrower may request that the Secretary reconsider whether the borrower's employer or any payment meets the requirements for credit toward forgiveness by requesting reconsideration on a form approved by the Secretary. Borrowers who were denied loan forgiveness under this section after October 1, 2017, and prior to [EFFECTIVE DATE OF FINAL RULE], have 180 days from the effective date of this Final Rule to request reconsideration.
+
+(2) To evaluate a reconsideration request, the Secretary considers—
+
+(i) Any relevant evidence that is obtained by the Secretary; and
+
+(ii) Additional supporting documentation not previously provided by the borrower or employer.
+
+(3) The Secretary notifies the borrower of the reconsideration decision and the reason for the Secretary's determination.
+
+(4) If the Secretary determines that the borrower qualifies for forgiveness, the Secretary adjusts the borrower's number of qualifying payments or forgives the loan, as appropriate.
+
+(5) After the Secretary makes a decision on the borrower's reconsideration request, the Secretary's decision is final, and the borrower will not receive additional reconsideration unless the borrower presents additional evidence.
+
+(6) For any months in which a borrower postponed monthly payments under a deferment or forbearance and was employed full-time at a qualifying employer as defined in this section but was in a deferment or forbearance status besides those listed in paragraph (c)(2)(v) of this section, the borrower may obtain credit toward forgiveness for those months, as defined in paragraph (d) of this section, for any months in which the borrower—
+
+(i) Makes an additional payment equal to or greater than the amount they would have paid at that time on a qualifying repayment plan or
+
+(ii) Otherwise qualified for a $0 payment on an income-driven repayment plan under § 685.209 and income-based repayment plan under § 685.221.
+
+[87 FR 66063, Nov. 1, 2022]

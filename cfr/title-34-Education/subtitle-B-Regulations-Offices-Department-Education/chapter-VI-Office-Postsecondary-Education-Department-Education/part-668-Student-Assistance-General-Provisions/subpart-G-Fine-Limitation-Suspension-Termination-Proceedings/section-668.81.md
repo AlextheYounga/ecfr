@@ -1,7 +1,5 @@
 ##### § 668.81 Scope and special definitions. #####
 
-Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
-
 (a) This subpart establishes regulations for the following actions with respect to a participating institution or third-party servicer:
 
 (1) An emergency action.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
 (5) The determination of—
 
-(i) Borrower defense to repayment claims that are brought by the Department against an institution under § 685.206 or § 685.222; and
+(i) Borrower defense to repayment claims that are brought by the Department against an institution under § 685.206, § 685.222 or part 685, subpart D, of this chapter; and
 
 (ii) Liability of an institution to the Secretary for losses to the Secretary arising from these claims.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 87 FR 66041, Nov. 1, 2022.
 
 (g) Unless directed by a court of competent jurisdiction, the hearing official, or the Secretary for good cause, if a collateral attack is brought in any court concerning all or any part of any proceeding under this subpart, the challenged proceeding shall continue without regard to the pendency of that court proceeding. No default or other failure to timely act as directed in a proceeding authorized by this subpart shall be excused based on the pendency of such court proceeding.
 
-(Authority: 20 U.S.C. 1094)[51 FR 43325, Dec. 1, 1986, as amended at 55 FR 32183, Aug. 7, 1990; 58 FR 13344, Mar. 10, 1993; 59 FR 22443, Apr. 29, 1994; 59 FR 61186, Nov. 29, 1994; 63 FR 40626, July 29, 1998; 82 FR 6256, Jan. 19, 2017]
+(Authority: 20 U.S.C. 1094)[51 FR 43325, Dec. 1, 1986, as amended at 55 FR 32183, Aug. 7, 1990; 58 FR 13344, Mar. 10, 1993; 59 FR 22443, Apr. 29, 1994; 59 FR 61186, Nov. 29, 1994; 63 FR 40626, July 29, 1998; 82 FR 6256, Jan. 19, 2017; 87 FR 66041, Nov. 1, 2022]

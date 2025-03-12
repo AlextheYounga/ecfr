@@ -1,8 +1,6 @@
 ##### § 600.21 Updating application information. #####
 
-Link to an amendment published at 87 FR 65488, Oct. 28, 2022.
-
-(a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary in a manner prescribed by the Secretary no later than 10 days after the change occurs, of any change in the following:
+(a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary, in a manner prescribed by the Secretary no later than 10 days after the change occurs, any change in the following:
 
 (1) Its name, the name of a branch, or the name of a previously reported location.
 
@@ -14,13 +12,21 @@ Link to an amendment published at 87 FR 65488, Oct. 28, 2022.
 
 (5) A decrease in the level of program offering (*e.g.* the institution drops its graduate programs).
 
-(6) A person's ability to affect substantially the actions of the institution if that person did not previously have this ability. The Secretary considers a person to have this ability if the person—
+(6)(i) *Changes in ownership.* (A) Any change in the ownership of the institution, whereby a natural person or entity acquires at least a 5 percent ownership interest (direct or indirect) of the institution but that does not result in a change of control as described in § 600.31.
 
-(i) Holds alone or together with another member or members of his or her family, at least a 25 percent “ownership interest” in the institution as defined in § 600.31(b);
+(B) Changes representing at least 5 percent but under 25 percent (either on a single or combined basis) must be reported quarterly (instead of within 10 days) based on the institution's fiscal year. However, when an institution plans to undergo a change in ownership, all unreported ownership changes of 5 percent or more in the existing ownership must be reported prior to submission of the 90-day notice required by § 600.20. Thereafter, any changes of 5 percent or more in the existing ownership must be reported within the 10-day deadline, up through the date of the change in ownership.
 
-(ii) Represents or holds, either alone or together with other persons, under a voting trust, power of attorney, proxy, or similar agreement at least a 25 percent “ownership interest” in the institution, as defined in § 600.31(b); or
+(ii) *Changes in control.* A natural person or legal entity's ability to affect substantially the actions of the institution if that natural person or legal entity did not previously have this ability. The Secretary considers a natural person or legal entity to have this ability if—
 
-(iii) Is a general partner, the chief executive officer, or chief financial officer of the institution.
+(A) The natural person acquires, alone or together with another member or members of their family, at least a 25 percent ownership interest (as defined in § 600.31(b)) in the institution;
+
+(B) The entity acquires, alone or together with an affiliated natural person or entity, at least a 25 percent ownership interest (as defined in § 600.31(b)) in the institution;
+
+(C) The natural person or entity acquires, alone or together with another natural person or entity, under a voting trust, power of attorney, proxy, or similar agreement, at least a 25 percent ownership interest (as defined in § 600.31(b)) in the institution;
+
+(D) The natural person becomes a general partner, managing member, chief executive officer, trustee or co-trustee of a trust, chief financial officer, director, or other officer of the institution or of an entity that has at least a 25 percent ownership interest (as defined in § 600.31(b)) in the institution; or
+
+(E) The entity becomes a general partner or managing member of an entity that has at least a 25 percent ownership interest (as defined in § 600.31(b)) in the institution.
 
 (7) The individual the institution designates under 34 CFR 668.16(b)(1) as its title IV, HEA Program administrator.
 
@@ -46,7 +52,11 @@ Link to an amendment published at 87 FR 65488, Oct. 28, 2022.
 
 (13) Its establishment of a written arrangement for an ineligible institution or organization to provide more than 25 percent of a program pursuant to 34 CFR 668.5(c).
 
-(b) *Additional reporting from institutions owned by publicly-traded corporations.* An institution that is owned by a publicly-traded corporation must report to the Secretary any change in the information described in paragraph (a)(6) of this section when it notifies its accrediting agency, but no later than 10 days after the institution learns of the change.
+(14) Its establishment or addition of an eligible prison education program at an additional location as defined under § 600.2 at a Federal, State, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or other similar correctional institution that was not previously included in the institution's application for approval as described under § 600.10.
+
+(15) Any change in the ownership of the institution that does not result in a change of control as described in § 600.31 and is not addressed under paragraph (a)(6) of this section, including the addition or elimination of any entities in the ownership structure, a change of entity from one type of business structure to another, and any excluded transactions under § 600.31(e).
+
+(b) *Additional reporting from institutions owned by publicly traded corporations.* An institution that is owned by a publicly traded corporation must report to the Secretary any change in the information described in paragraph (a)(6) or (15) of this section when it notifies its accrediting agency, but no later than 10 days after the institution learns of the change.
 
 (c) *Secretary's response to reporting.* The Secretary notifies an institution if any reported changes affects the institution's eligibility, and the effective date of that change.
 
@@ -64,4 +74,4 @@ Link to an amendment published at 87 FR 65488, Oct. 28, 2022.
 
 (4) Sibling's spouse.
 
-(Approved by the Office of Management and Budget under control number 1845-0012)[65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54812, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1845-0012)[65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54812, Sept. 2, 2020; 87 FR 65488, Oct. 28, 2022]
