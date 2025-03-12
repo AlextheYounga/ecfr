@@ -1,5 +1,7 @@
 ##### § 1.131 Scope and applicability of this subpart. #####
 
+Link to an amendment published at 82 FR 37171, Aug. 9, 2017.
+
 (a) The rules of practice in this subpart shall be applicable to all adjudicatory proceedings under the statutory provisions listed below as those provisions have been or may be amended from time to time,1 except that those rules shall not be applicable to reparation proceedings under section 6(c) of the Perishable Agricultural Commodities Act, 1930. Section 1.26 shall be inapplicable to the proceedings covered by this subpart.
 
 1 See also the regulations promulgated under these statutes for any supplemental rules relating to particular circumstances arising thereunder.

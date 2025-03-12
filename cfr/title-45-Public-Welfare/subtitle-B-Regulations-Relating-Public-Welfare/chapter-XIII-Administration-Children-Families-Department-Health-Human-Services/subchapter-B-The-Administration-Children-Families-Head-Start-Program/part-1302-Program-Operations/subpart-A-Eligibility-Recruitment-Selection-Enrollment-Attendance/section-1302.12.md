@@ -12,7 +12,7 @@
 
 (3) If a program has an alternate method to reasonably determine eligibility based on its community assessment, geographic and administrative data, or from other reliable data sources, it may petition the responsible HHS official to waive requirements in paragraphs (a)(1)(i) and (ii) of this section.
 
-(b) *Age requirements.* (1) For Early Head Start, except when the child is transitioning to Head Start, a child must be an infant or a toddler younger than three years old.
+(b)  *Age requirements.* (1) For Early Head Start, except when the child is transitioning to Head Start, a child must be an infant or a toddler younger than three years old.
 
 (2) For Head Start, a child must:
 

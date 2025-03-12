@@ -542,7 +542,7 @@
 
 (iii) Build partnerships within the scientific community by serving as a point of contact for interactions with other agencies of science, universities, and other external members of the scientific community for the purpose of leveraging and promoting relationships to explore common scientific interests and shared goals.
 
-(iv)Develop mechanisms to address scientific integrity within the Department.
+(iv) Develop mechanisms to address scientific integrity within the Department.
 
 (v) Serve as Chair of the USDA Science Council.
 
