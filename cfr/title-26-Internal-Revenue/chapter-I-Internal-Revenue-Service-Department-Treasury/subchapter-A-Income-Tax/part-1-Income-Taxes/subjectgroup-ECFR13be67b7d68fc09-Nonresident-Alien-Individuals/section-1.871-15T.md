@@ -28,12 +28,12 @@
 
 (5) *Example.* The following example illustrates the rules of paragraph (p) of this section:
 
-Example 1.CO is a domestic clearing organization and is not a broker as defined in § 1.871-15(a)(1). CO serves as a central counterparty clearing and settlement service provider for derivatives exchanges in the United States. EB and CB are brokers organized in the United States and members of CO. FC, a foreign corporation, instructs EB to execute the purchase of a call option that is a specified ELI (as described in § 1.871-15(e)). EB effects the trade for FC on the exchange and then, as instructed by FC, transfers the option to CB to be cleared with CO. The exchange matches FC's order with an order for a written call option with the same terms and then sends the matched trade to CO, which clears the trade. CB and the clearing member representing the person who sold the call option settle the trade with CO. Upon receiving the matched trade, the option contracts are novated and CO becomes the counterparty to CB and the counterparty to the clearing member representing the person who sold the call option. Both EB and CB are broker-dealers acting on behalf of FC for a potential section 871(m) transaction. Under paragraph (p)(1)(iii) of this section, however, only CB is required to make the determinations described in § 1.871-15(p).
+Example.CO is a domestic clearing organization and is not a broker as defined in § 1.871-15(a)(1). CO serves as a central counterparty clearing and settlement service provider for derivatives exchanges in the United States. EB and CB are brokers organized in the United States and members of CO. FC, a foreign corporation, instructs EB to execute the purchase of a call option that is a specified ELI (as described in § 1.871-15(e)). EB effects the trade for FC on the exchange and then, as instructed by FC, transfers the option to CB to be cleared with CO. The exchange matches FC's order with an order for a written call option with the same terms and then sends the matched trade to CO, which clears the trade. CB and the clearing member representing the person who sold the call option settle the trade with CO. Upon receiving the matched trade, the option contracts are novated and CO becomes the counterparty to CB and the counterparty to the clearing member representing the person who sold the call option. Both EB and CB are broker-dealers acting on behalf of FC for a potential section 871(m) transaction. Under paragraph (p)(1)(iii) of this section, however, only CB is required to make the determinations described in § 1.871-15(p).
 
-(q) through (r)(4) [Reserved]. For further guidance, see § 1.871-15(r)(1) through (4).
+(q) through (r)(3) [Reserved]. For further guidance, see § 1.871-15(q) through (r)(3).
 
-(5) Effective/applicability date. This section applies to payments made on or after on January 19, 2017.
+(4) Effective/applicability date. This section applies to payments made on or after January 19, 2017.
 
 (s) *Expiration date.* This section expires January 17, 2020.
 
-[T.D. 9815, 82 FR 8161, Jan. 24, 2017]
+[T.D. 9815, 82 FR 8161, Jan. 24, 2017; T.D. 9815, 82 FR 49509, Oct. 26, 2017]

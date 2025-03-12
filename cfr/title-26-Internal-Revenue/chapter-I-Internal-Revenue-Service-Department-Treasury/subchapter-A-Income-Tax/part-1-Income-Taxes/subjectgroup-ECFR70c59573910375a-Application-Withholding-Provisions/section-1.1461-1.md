@@ -104,7 +104,7 @@
 
 (L) Amounts described in § 1.1441-1(b)(4)(xviii) (dealing with certain amounts paid by the U.S. government).
 
-(iii) *Effective/applicability date.* Paragraph (c)(2)(i)(L) of this section applies on or after January 23, 2012. Paragraphs (c)(2)(i)(M) and (c)(2)(ii)(J) of this section apply beginning September 18, 2015.
+(iii) *Applicability date.* Paragraph (c)(2) of this section applies beginning January 19, 2017.
 
 (3) *Required information.* The information required to be furnished under this paragraph (c)(3) shall be based upon the information provided by or on behalf of the recipient of an amount subject to reporting (as corrected and supplemented based on the withholding agent's actual knowledge) or the presumption rules of §§ 1.1441-1(b)(3), 1.1441-4(a), 1.1441-5(d) and (e), 1.1441-9(b)(3), 1.1446-1(c)(3) (as applied to publicly traded partnerships required to pay tax under section 1446 on distributions of effectively connected income) or 1.6049-5(d). The reference in the previous sentence to presumption rules applicable to withholding under section 1446 shall apply to partnership taxable years beginning after May 18, 2005, or such earlier time as the regulations under §§ 1.1446-1 through 1.1446-5 apply by reason of an election under § 1.1446-7. The Form 1042-S must include the following information, if applicable -
 
@@ -168,4 +168,4 @@
 
 (i) *Effective/applicability date.* Except as otherwise provided in paragraph (c)(2)(iii) of this section, this section shall apply to returns required for payments made on or after January 6, 2017. (For payments made after June 30, 2014, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2016. For payments made after December 31, 2000, and before July 1, 2014, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2013.)
 
-[T.D. 8734, 62 FR 53467, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1461-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 8734, 62 FR 53467, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1461-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

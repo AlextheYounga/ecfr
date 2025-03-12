@@ -1,0 +1,9 @@
+##### § 63.1583 What are the emission points and control requirements for a Group 1 POTW treatment plant? #####
+
+(a) The emission points and control requirements for an existing Group 1 POTW treatment plant are specified in the appropriate NESHAP for the industrial user(s).
+
+(b) The emission points and control requirements for a new Group 1 POTW treatment plant are both those specified by the appropriate NESHAP which apply to the industrial user(s) who discharge their waste for treatment to the POTW, and those emission points and control requirements set forth in § 63.1586(b) or (c), as applicable.
+
+(c) If your existing or new Group 1 POTW treatment plant accepts one or more specific regulated industrial waste streams as part of compliance with one or more other NESHAP, then you are subject to all the requirements of each appropriate NESHAP for each waste stream.
+
+(d) At all times, the POTW must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require the POTW to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator, which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.

@@ -244,7 +244,16 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |                                                                                                     (12) [Reserved]                                                                                                     |       |
 |(13) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: 4-fluoroisobutyryl fentanyl, para-fluoroisobutyryl fentanyl)|(9824) |
 |                    (14) N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: acryl fentanyl, acryloylfentanyl)                    |(9811) |
+|                                                                                                     (15) [Reserved]                                                                                                     |       |
+|                                                                                                     (16) [Reserved]                                                                                                     |       |
+|                                                                                                     (17) [Reserved]                                                                                                     |       |
+|                                                                                                     (18) [Reserved]                                                                                                     |       |
+|           (19) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: ortho-fluorofentanyl, 2-fluorofentanyl)           |(9816) |
+|              (20) N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: tetrahydrofuranyl fentanyl)              |(9843) |
+|                     (21) 2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: methoxyacetyl fentanyl)                     |(9825) |
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20544, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
 2. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17) effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
+
+3. At 82 FR 49508, Oct. 26, 2017, § 1308.11 was amended by adding reserved paragraphs (h)(15) through (h)(18) and (h)(19), (20) and (21) effective Oct. 26, 2017 through Oct. 28, 2019.
