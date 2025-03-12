@@ -1,5 +1,7 @@
 ##### § 303.243 Brokered deposit waivers. #####
 
+Link to an amendment published at 86 FR 6787, Jan. 22, 2021.
+
 (a) *Scope.* Pursuant to section 29 of the FDI Act (12 U.S.C. 1831f) and part 337 of this chapter, an adequately capitalized insured depository institution may not accept, renew or roll over any brokered deposits unless it has obtained a waiver from the FDIC. A well-capitalized insured depository institution may accept brokered deposits without a waiver, and an undercapitalized insured depository institution may not accept, renew or roll over any brokered deposits under any circumstances. This section contains the procedures to be followed to file with the FDIC for a brokered deposit waiver. The FDIC will provide notice to the depository institution's appropriate federal banking agency and any state regulatory agency, as appropriate, that a request for a waiver has been filed and will consult with such agency or agencies, prior to taking action on the institution's request for a waiver. Prior notice and/or consultation shall not be required in any particular case if the FDIC determines that the circumstances require it to take action without giving such notice and opportunity for consultation.
 
 (b) *Where to file.* Applicants shall submit a letter application to the appropriate FDIC office.

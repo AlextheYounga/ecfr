@@ -1,5 +1,7 @@
 ##### § 337.6 Brokered deposits. #####
 
+Link to an amendment published at 86 FR 6789, Jan. 22, 2021.
+
 (a) *Definitions.* For the purposes of this § 337.6, the following definitions apply:
 
 (1) *Appropriate Federal banking agency* has the same meaning as provided under section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).
@@ -86,7 +88,7 @@
 
 (ii) An amount equal to 20 percent of the total liabilities of the agent institution.
 
-(2) *Additional definitions that apply to the limited exception for reciprocal deposits.* (i) *Agent institution* means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution:
+(2) *Additional definitions that apply to the limited exception for reciprocal deposits* - (i) *Agent institution* means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution:
 
 (A)(*1*) When most recently examined under section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) was found to have a composite condition of outstanding or good; and
 
