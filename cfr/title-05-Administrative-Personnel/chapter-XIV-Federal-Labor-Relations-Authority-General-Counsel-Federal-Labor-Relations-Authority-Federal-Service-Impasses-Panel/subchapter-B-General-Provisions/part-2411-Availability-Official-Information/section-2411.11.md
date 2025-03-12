@@ -1,5 +1,7 @@
 ##### § 2411.11 Modification of time limits. #####
 
+Link to an amendment published at 82 FR 2854, January 10, 2017.
+
 (a) In unusual circumstances as specified in this section, the time limits prescribed with respect to initial determinations or determinations on appeal may be extended by written notice from the agency component handling the request (either initial or on appeal) to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. As appropriate, the notice shall provide the requester with an opportunity to limit the scope of the request so that it may be processed within the time limit or an opportunity to arrange with the agency component an alternative time frame for processing the request or a modified request. To aid the requester, the FOIA Public Liaison shall assist in the resolution of any disputes between the requester and the processing agency component. No such notice shall specify a date that would result in a total extension of more than ten (10) working days.
 
 (b) As used in this section, “unusual or exceptional circumstances” means, but only to the extent reasonably necessary to the proper processing of the particular request:

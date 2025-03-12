@@ -1,5 +1,7 @@
 ##### § 2411.8 Time limits for processing requests. #####
 
+Link to an amendment published at 82 FR 2852, January 10, 2017.
+
 (a) The 20-day period (excepting Saturdays, Sundays, and legal public holidays), established in this section, shall commence on the date on which the request is first received by the appropriate component of the agency (Regional Director, the Freedom of Information Officer of the Office of the General Counsel, the Solicitor of the Authority, the Executive Director of the Panel, or the IG of the Authority), but in any event not later than ten days after the request is first received by any Authority component responsible for receiving FOIA requests under part 2411. The 20-day period does not run when -
 
 (1) The agency component makes one request to the requester for information and is awaiting such information that it has reasonably requested from the requester; or

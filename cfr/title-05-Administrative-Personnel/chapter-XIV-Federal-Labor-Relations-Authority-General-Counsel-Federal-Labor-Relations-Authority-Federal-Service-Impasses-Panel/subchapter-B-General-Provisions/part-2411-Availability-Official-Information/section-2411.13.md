@@ -1,5 +1,7 @@
 ##### § 2411.13 Fees. #####
 
+Link to an amendment published at 82 FR 2855, January 10, 2017.
+
 (a) *Definitions.* For the purpose of this section:
 
 (1) The term *direct costs* means those expenditures which the Authority, the General Counsel, the Panel, or the IG actually incurs in searching for and duplicating (and in the case of commercial requesters, reviewing) documents to respond to a FOIA request. Direct costs include, for example, the salary of the employee performing work (the basic rate of pay for the employee plus 16 percent of the rate to cover benefits) and the cost of operating duplicating machinery. Not included in direct costs are overhead expenses such as costs of space, and heating or lighting the facility in which the records are stored.

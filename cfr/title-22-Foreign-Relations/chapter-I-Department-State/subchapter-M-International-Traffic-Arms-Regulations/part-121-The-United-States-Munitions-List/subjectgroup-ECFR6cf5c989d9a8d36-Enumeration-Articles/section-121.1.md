@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 80 FR 78131, December 16, 2015.
+Link to an amendment published at 80 FR 78131, December 16, 2015.Link to an amendment published at 82 FR 2891, January 10, 2017.
 
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
@@ -1006,7 +1006,7 @@ Category VIII - Aircraft and Related Articles
 
 (ii) Foreign-origin aircraft specially designed to provide functions equivalent to those of the aircraft listed in paragraph (a)(15)(i) of this category; or
 
-(16) Aircraft that are armed or are specially designed to be used as a platform to deliver munitions or otherwise destroy targets (*e.g.,* firing lasers, launching rockets, firing missiles, dropping bombs, or strafing);
+(16) Aircraft that are armed or are specially designed to be used as a platform to deliver munitions or otherwise destroy targets (e.g., firing lasers, launching rockets, firing missiles, dropping bombs, or strafing);
 
 Note 1 to paragraph (a):
 
@@ -1014,7 +1014,7 @@ Aircraft specially designed for military applications that are not identified in
 
 Note 2 to paragraph (a):
 
-“Range” is the maximum distance that the specified aircraft system is capable of traveling in the mode of stable flight as measured by the projection of its trajectory over the surface of the Earth. The maximum capability based on the design characteristics of the system, when fully loaded with fuel or propellant, will be taken into consideration in determining range. The range for aircraft systems will be determined independently of any external factors such as operational restrictions, limitations imposed by telemetry, data links, or other external constraints. For aircraft systems, the range will be determined for a one-way distance using the most fuel-efficient flight profile (*e.g.,* cruise speed and altitude), assuming International Civil Aviation Organization (ICAO) standard atmosphere with zero wind, but with no fuel reserve.
+“Range” is the maximum distance that the specified aircraft system is capable of traveling in the mode of stable flight as measured by the projection of its trajectory over the surface of the Earth. The maximum capability based on the design characteristics of the system, when fully loaded with fuel or propellant, will be taken into consideration in determining range. The range for aircraft systems will be determined independently of any external factors such as operational restrictions, limitations imposed by telemetry, data links, or other external constraints. For aircraft systems, the range will be determined for a one-way distance using the most fuel-efficient flight profile (e.g., cruise speed and altitude), assuming International Civil Aviation Organization (ICAO) standard atmosphere with zero wind, but with no fuel reserve.
 
 (b)-(c) [Reserved]
 
@@ -1076,7 +1076,7 @@ Loss of lubrication means a situation where oil/lubrication is mostly or complet
 
 (F) The aircraft is designed to withstand maximum vertical maneuvering accelerations greater than +3.5g/−1.5g.
 
-(5) On-aircraft arresting gear (*e.g.,* tail hooks and drag chutes) and specially designed parts and components therefor;
+(5) On-aircraft arresting gear (e.g., tail hooks and drag chutes) and specially designed parts and components therefor;
 
 (6) Bomb racks, missile or rocket launchers, missile rails, weapon pylons, pylon-to-launcher adapters, unmanned aerial vehicle (UAV) airborne launching systems, external stores support systems for ordnance or weapons, and specially designed parts and components therefor (MT if the bomb rack, missile launcher, missile rail, weapon pylon, pylon-to-launcher adapter, UAV airborne launching system, or external stores support system is for an aircraft, excluding manned aircraft, or missile that has a “range” equal to or greater than 300 km);
 
@@ -1084,7 +1084,7 @@ Loss of lubrication means a situation where oil/lubrication is mostly or complet
 
 (8) Threat-adaptive autonomous flight control systems, where a “threat-adaptive autonomous flight control system” is a flight control system that, without input from the operator or pilot, adjusts the aircraft control or flight path to minimize risk caused by hostile threats;
 
-(9) Non-surface-based flight control systems and effectors (*e.g.,* thrust vectoring from gas ports other than main engine thrust vector);
+(9) Non-surface-based flight control systems and effectors (e.g., thrust vectoring from gas ports other than main engine thrust vector);
 
 (10) Radar altimeters with output power management LPI (low probability of intercept) or signal modulation (*i.e.,* frequency hopping, chirping, direct sequence-spectrum spreading) LPI capabilities (MT if for an aircraft, excluding manned aircraft, or missile that has a “range” equal to or greater than 300 km);
 
@@ -1096,9 +1096,9 @@ Loss of lubrication means a situation where oil/lubrication is mostly or complet
 
 (14) Lift fans, clutches, and roll posts for short take-off, vertical landing (STOVL) aircraft and specially designed parts and components for such lift fans and roll posts;
 
-(15) Integrated helmets incorporating optical sights or slewing devices, which include the ability to aim, launch, track, or manage munitions (*e.g.,* Helmet Mounted Cueing Systems, Joint Helmet Mounted Cueing Systems (JHMCS), Helmet Mounted Displays, Display and Sight Helmets (DASH)), and specially designed parts, components, accessories, and attachments therefor;
+(15) Integrated helmets incorporating optical sights or slewing devices, which include the ability to aim, launch, track, or manage munitions (e.g., Helmet Mounted Cueing Systems, Joint Helmet Mounted Cueing Systems (JHMCS), Helmet Mounted Displays, Display and Sight Helmets (DASH)), and specially designed parts, components, accessories, and attachments therefor;
 
-(16) Fire control computers, stores management systems, armaments control processors, and aircraft-weapon interface units and computers (*e.g.,* AGM-88 HARM Aircraft Launcher Interface Computer (ALIC));
+(16) Fire control computers, stores management systems, armaments control processors, and aircraft-weapon interface units and computers (e.g., AGM-88 HARM Aircraft Launcher Interface Computer (ALIC));
 
 (17) Mission computers, vehicle management computers, and integrated core processers specially designed for aircraft controlled in this category;
 
@@ -1690,7 +1690,7 @@ For controls on LIDAR, see paragraph (b)(6) of this category.
 
 \* (8) Remote wind-sensing systems specially designed for ballistic-corrected aiming; or
 
-(9) Helmet mounted display (HMD) systems or end items (*e.g.,* Combat Vehicle Crew HMD, Mounted Warrior HMD, Integrated Helmet Assembly Subsystem, Drivers Head Tracked Vision System), other than such items controlled in Category VIII, that:
+(9) Helmet mounted display (HMD) systems or end items (e.g., Combat Vehicle Crew HMD, Mounted Warrior HMD, Integrated Helmet Assembly Subsystem, Drivers Head Tracked Vision System), other than such items controlled in Category VIII, that:
 
 (i) Incorporate or interface (either via wired or wireless connection) with optical sights or slewing devices that aim, launch, track, or manage munitions; or
 
@@ -1718,7 +1718,7 @@ For controls on LIDAR, see paragraph (b)(6) of this category.
 
 (ii) A defense article controlled in paragraph (d) of this category (MT if designed or modified for rockets, missiles, space launch vehicles (SLVs), drones, or unmanned aerial vehicle systems capable of delivering at least a 500 kg payload to a range of at least 300 km);
 
-(5) Systems specially designed to use laser energy with an output wavelength exceeding 710 nm for exploiting differential target-background retroreflectance in order to detect optical/electro-optical equipment (*e.g.,* optical augmentation systems);
+(5) Systems specially designed to use laser energy with an output wavelength exceeding 710 nm for exploiting differential target-background retroreflectance in order to detect optical/electro-optical equipment (e.g., optical augmentation systems);
 
 (6) Light detection and ranging (LIDAR), laser detection and ranging (LADAR), or range-gated systems, specially designed for a military end user
 
@@ -1748,7 +1748,7 @@ This provision is applicable to those contracts or other funding authorizations 
 
 (iii) Having an infrared focal plane array or infrared imaging camera, and specially designed for a military end user;
 
-(2) Weapon sights (*i.e.,* with a reticle) or aiming or imaging systems (*e.g.,* clip-on), specially designed to mount to a weapon or to withstand weapon shock or recoil, with or without an integrated viewer or display, and also incorporating or specially designed to incorporate any of the following:
+(2) Weapon sights (*i.e.,* with a reticle) or aiming or imaging systems (e.g., clip-on), specially designed to mount to a weapon or to withstand weapon shock or recoil, with or without an integrated viewer or display, and also incorporating or specially designed to incorporate any of the following:
 
 (i) An infrared focal plane array having a peak response wavelength exceeding 1,000 nm;
 
@@ -1776,13 +1776,13 @@ This provision is applicable to those contracts or other funding authorizations 
 
 (6) Infrared imaging systems, as follows:
 
-(i) Mobile reconnaissance, scout, or surveillance systems providing real-time target recognition at ranges greater than 3 km (*e.g.,* LRAS, CIV, HTI, SeeSpot, MMS);
+(i) Mobile reconnaissance, scout, or surveillance systems providing real-time target recognition at ranges greater than 3 km (e.g., LRAS, CIV, HTI, SeeSpot, MMS);
 
 Note to paragraph (c)(6)(i):
 
 Target is defined as a NATO standard tank target having a frontal cross-section of 2.3 x 2.3 meters, and a side cross-section of 2.3 x 6.4 meters.
 
-(ii) Airborne stabilized systems specially designed for military reconnaissance (*e.g.,* DB-110, C-B4);
+(ii) Airborne stabilized systems specially designed for military reconnaissance (e.g., DB-110, C-B4);
 
 (iii) Multispectral imaging systems that provide automated classification or identification of military or intelligence targets or characteristics;
 
@@ -1826,7 +1826,7 @@ This provision is applicable to those contracts or other funding authorizations 
 
 (d) Guidance and navigation systems or end items, as follows:
 
-(1) Guidance or navigation systems (*e.g.,* inertial navigation systems, inertial reference units, attitude and heading reference systems) having any of the following:
+(1) Guidance or navigation systems (e.g., inertial navigation systems, inertial reference units, attitude and heading reference systems) having any of the following:
 
 (i) A circular error probability at fifty percent (CEP50) of position error rate less (better) than 0.28 nautical miles per hour, without the use of positional aiding references;
 
@@ -1848,7 +1848,7 @@ Inertial measurement units are described in paragraph (e) of this category.
 
 (i) GNSS receiving equipment specially designed for military applications (MT if designed or modified for airborne applications and capable of providing navigation information at speeds in excess of 600 m/s);
 
-(ii) Global Positioning System (GPS) receiving equipment specially designed for encryption or decryption (*e.g.,* Y-Code, M-Code) of GPS precise positioning service (PPS) signals (MT if designed or modified for airborne applications);
+(ii) Global Positioning System (GPS) receiving equipment specially designed for encryption or decryption (e.g., Y-Code, M-Code) of GPS precise positioning service (PPS) signals (MT if designed or modified for airborne applications);
 
 (iii) GNSS receiving equipment specially designed for use with an antenna described in Category XI(c)(10) (MT if designed or modified for airborne applications); or
 
@@ -1894,7 +1894,7 @@ For definition of “range” as it pertains to rocket systems, see Note 1 to pa
 
 (3) Laser stacked arrays specially designed for articles in this subchapter;
 
-(4) Night vision or infrared cameras (*e.g.,* camera core) specially designed for articles in this subchapter;
+(4) Night vision or infrared cameras (e.g., camera core) specially designed for articles in this subchapter;
 
 Note to paragraph (e)(4):
 
@@ -1914,7 +1914,7 @@ Second and third generation image intensifier tubes are defined as having a peak
 
 (9) Inertial measurement units specially designed for articles in this subchapter (MT for systems incorporating accelerometers specified in paragraph (e)(11) or gyroscopes or angular rate sensors specified in paragraph (e)(12) that are designated MT);
 
-(10) GNSS security devices (*e.g.,* Selective Availability Anti-Spoofing Modules (SAASM), Security Modules (SM), and Auxiliary Output Chips (AOC));
+(10) GNSS security devices (e.g., Selective Availability Anti-Spoofing Modules (SAASM), Security Modules (SM), and Auxiliary Output Chips (AOC));
 
 (11) Accelerometers having a bias repeatability of less (better) than 10 µg and a scale factor repeatability of less (better) than 10 parts per million, or capable of measuring greater than 100,000 g (MT);
 
@@ -1964,7 +1964,7 @@ For the purposes of this paragraph, treatments and coatings may be analyzed as a
 
 (19) Drive, control, signal, or image processing electronics, specially designed for articles controlled in this category;
 
-(20) Near-to-eye displays (*e.g.,* micro-displays) specially designed for articles controlled in this category;
+(20) Near-to-eye displays (e.g., micro-displays) specially designed for articles controlled in this category;
 
 (21) Resonators, receivers, transmitters, modulators, gain media, drive electronics, and frequency converters, specially designed for laser systems controlled in this category;
 
@@ -2292,7 +2292,7 @@ Regarding U.S. obligations under the Chemical Weapons Convention (CWC), refer to
 
 (A) Persistence in a field environment (*i.e.,* resistant to oxygen, UV damage, temperature extremes, arid conditions, or decontamination processes);
 
-(B) Dispersal characteristics (*e.g.,* reduced susceptibility to shear forces, optimized electrostatic charges); or
+(B) Dispersal characteristics (e.g., reduced susceptibility to shear forces, optimized electrostatic charges); or
 
 (C) The ability to defeat or overcome: standard detection methods, personnel protection, natural or acquired host immunity, or response to standard medical countermeasures.
 
@@ -2302,7 +2302,7 @@ Non-naturally occurring means that the modification has not already been observe
 
 Note 2 to paragraph (b):
 
-This paragraph does not control biological agents or biologically derived substances when these agents or substances have been demonstrated to be attenuated relative to natural pathogenic isolates and are incapable of causing disease or intoxication of ordinarily affected and relevant species (*e.g.,* humans, livestock, crop plants) due to the attenuation of virulence or pathogenic factors. This paragraph also does not control genetic elements, nucleic acids, or nucleic acid sequences (whether recombinant or synthetic) that are unable to produce or direct the biosynthesis of infectious or functional forms of the biological agents or biologically derived substances that are capable of causing disease or intoxication of ordinarily affected and relevant species.
+This paragraph does not control biological agents or biologically derived substances when these agents or substances have been demonstrated to be attenuated relative to natural pathogenic isolates and are incapable of causing disease or intoxication of ordinarily affected and relevant species (e.g., humans, livestock, crop plants) due to the attenuation of virulence or pathogenic factors. This paragraph also does not control genetic elements, nucleic acids, or nucleic acid sequences (whether recombinant or synthetic) that are unable to produce or direct the biosynthesis of infectious or functional forms of the biological agents or biologically derived substances that are capable of causing disease or intoxication of ordinarily affected and relevant species.
 
 Note 3 to paragraph (b):
 
@@ -2358,7 +2358,7 @@ Note 1 does not apply to defense articles enumerated on the USML.
 
 (ii) Filter cartridges containing sorbents controlled in paragraph (f)(4)(iii) or (n) of this category;
 
-(iii) Carbon meeting MIL-DTL-32101 specifications (*e.g.,* ASZM-TEDA carbon); or
+(iii) Carbon meeting MIL-DTL-32101 specifications (e.g., ASZM-TEDA carbon); or
 
 (iv) Ensembles, garments, suits, jackets, pants, boots, or socks for individual protection, and liners for collective protection that allow no more than 1% breakthrough of GD or no more than 2% breakthrough of any other chemical controlled in paragraph (a) of this category, when evaluated by executing the applicable standard method(s) of testing described in the current version of Test Operating Protocols (TOPs) 08-2-201 or 08-2-501 and using the defined Department of Defense-specific requirements;
 
@@ -2568,7 +2568,7 @@ Note to paragraph (h):
 
 See ECCN 1A607.k for military medical countermeasures such as autoinjectors, combopens, and creams.
 
-(i) Modeling or simulation tools, including software controlled in paragraph (m) of this category, for chemical or biological weapons design, development, or employment developed or produced under a Department of Defense contract or other funding authorization (*e.g.,* the Department of Defense's HPAC, SCIPUFF, and the Joint Effects Model (JEM)).
+(i) Modeling or simulation tools, including software controlled in paragraph (m) of this category, for chemical or biological weapons design, development, or employment developed or produced under a Department of Defense contract or other funding authorization (e.g., the Department of Defense's HPAC, SCIPUFF, and the Joint Effects Model (JEM)).
 
 (j)-(l) [Reserved]
 
@@ -2908,7 +2908,7 @@ Note to paragraph (d):
 
 Engines subject to the control of this paragraph are licensed by the Department of Commerce when incorporated in an aircraft subject to the EAR and controlled under ECCN 9A610. Such engines are subject to the controls of the ITAR in all other circumstances.
 
-\* (e) Digital engine control systems (*e.g.,* Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) specially designed for gas turbine engines controlled in this category (MT if the digital engine control system is for an aircraft, excluding manned aircraft, or missile that has a range equal to or greater than 300 km).
+\* (e) Digital engine control systems (e.g., Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) specially designed for gas turbine engines controlled in this category (MT if the digital engine control system is for an aircraft, excluding manned aircraft, or missile that has a range equal to or greater than 300 km).
 
 Note to paragraph (e):
 

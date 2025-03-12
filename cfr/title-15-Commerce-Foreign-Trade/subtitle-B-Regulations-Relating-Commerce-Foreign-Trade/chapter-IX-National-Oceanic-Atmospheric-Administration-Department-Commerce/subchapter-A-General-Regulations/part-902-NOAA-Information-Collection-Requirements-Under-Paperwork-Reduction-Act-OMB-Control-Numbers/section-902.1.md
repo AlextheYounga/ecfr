@@ -1,6 +1,6 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 81 FR 88996, Dec. 9, 2016.Link to an amendment published at 81 FR 95452, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95452, Dec. 28, 2016.
 
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
@@ -86,9 +86,6 @@ Link to an amendment published at 81 FR 88996, Dec. 9, 2016.Link to an amendment
 |                                           270.20                                           |                                          \-0556                                          |
 |                                           270.23                                           |                                          \-0556                                          |
 |                                           296.5                                            |                                          \-0082                                          |
-|                                           300.13                                           |                                          \-0304                                          |
-|                                           300.14                                           |                                          \-0348                                          |
-|                                           300.17                                           |                                          \-0349                                          |
 |                                           300.22                                           |                                          \-0148                                          |
 |                                        300.22(b)(3)                                        |                                          \-0387                                          |
 |                                           300.24                                           |                                          \-0202                                          |
@@ -138,6 +135,15 @@ Link to an amendment published at 81 FR 88996, Dec. 9, 2016.Link to an amendment
 |                                          600.205                                           |                                          \-0314                                          |
 |                                          600.215                                           |                                          \-0314                                          |
 |                                          600.235                                           |                                          \-0192                                          |
+|                                          300.322                                           |                                          \-0732                                          |
+|                                          300.323                                           |                                          \-0732                                          |
+|                                          300.324                                           |                                          \-0739                                          |
+|                                          300.333                                           |                                          \-0304                                          |
+|                                          300.336                                           |                                          \-0304                                          |
+|                                          300.337                                           |                                          \-0304                                          |
+|                                          300.338                                           |                                          \-0304                                          |
+|                                          300.339                                           |                                          \-0304                                          |
+|                                          300.341                                           |                                          \-0304                                          |
 |                                          600.501                                           |                                          \-0089                                          |
 |                                          600.502                                           |                                          \-0075                                          |
 |                                          600.503                                           |                                     \-0354 and -0356                                     |

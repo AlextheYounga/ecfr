@@ -1,6 +1,6 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
+Link to an amendment published at 82 FR 1475, Jan. 5, 2017.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
 
 (a) *General applicability of an AEDM.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.62 may not distribute any basic model of such equipment in commerce unless the manufacturer has determined the energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model, the manufacturer may not knowingly use an AEDM to overrate the efficiency (or underrate the consumption) of the model.
 
@@ -23,6 +23,8 @@ Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment
 (B) For those covered products with an energy-consumption metric, the predicted energy consumption for each model, calculated by applying the AEDM, may not be more than five percent less than the energy consumption determined from the corresponding test of the model.
 
 (C) For all covered products, the predicted energy efficiency or consumption for each model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation performance standard.
+
+(D) An AEDM that is validated based on test results obtained from one or more field tests (pursuant to § 431.86(c)) can only be used to certify the performance of basic models of commercial packaged boilers with a certified rated input greater than 5,000,000 Btu/h.
 
 (iii) *Additional test unit requirements.* (A) Each AEDM must be supported by test data obtained from physical tests of current models; and
 
@@ -429,4 +431,4 @@ Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment
 
 (ii) For an untested basic model having any heating element with an input rating that is lower than that of the corresponding heating element in the tested basic model, the represented value of the first-hour rating and the uniform energy factor is the same as that of a tested basic model, provided that the first-hour rating for the untested basic model results in the same draw pattern specified in Table I of appendix E for the simulated-use test as was applied to the tested basic model. To establish whether this condition is met, determine the first-hour ratings for the tested and the untested basic models in accordance with the procedure described in section 5.3.3 of 10 CFR part 430, subpart B, appendix E, then compare the appropriate draw pattern specified in Table I of appendix E for the first-hour rating of the tested basic model with that for the untested basic model. If this condition is not met, then the untested basic model must be tested and the appropriate sampling provisions applied to determine its uniform energy factor in accordance with appendix E and this part.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016]

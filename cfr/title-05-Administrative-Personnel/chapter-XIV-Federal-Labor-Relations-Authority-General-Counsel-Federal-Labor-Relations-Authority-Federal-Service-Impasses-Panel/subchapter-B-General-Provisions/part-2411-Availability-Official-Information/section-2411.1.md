@@ -1,3 +1,5 @@
 ##### § 2411.1 Purpose. #####
 
+Link to an amendment published at 82 FR 2850, January 10, 2017.
+
 This part contains the regulations of the Federal Labor Relations Authority (Authority), the General Counsel of the Federal Labor Relations Authority (General Counsel), the Federal Service Impasses Panel (Panel) and the Inspector General of the Federal Labor Relations Authority (IG) providing for public access to information from the Authority, the General Counsel, the Panel or the IG. These regulations implement the Freedom of Information Act, as amended, 5 U.S.C. 552, and the policy of the Authority, the General Counsel, the Panel and the IG to disseminate information on matters of interest to the public and to disclose to members of the public on request such information contained in records insofar as is compatible with the discharge of their responsibilities, consistent with applicable law.

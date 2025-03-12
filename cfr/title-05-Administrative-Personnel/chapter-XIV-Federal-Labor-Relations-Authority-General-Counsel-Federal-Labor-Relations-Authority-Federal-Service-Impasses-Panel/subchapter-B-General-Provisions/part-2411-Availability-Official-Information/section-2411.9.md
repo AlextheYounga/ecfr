@@ -1,5 +1,7 @@
 ##### § 2411.9 Business information. #####
 
+Link to an amendment published at 82 FR 2853, January 10, 2017.
+
 (a) *In general.* Business information obtained by the Authority from a submitter will be disclosed under the FOIA only under this section.
 
 (b) *Definitions.* For purposes of this section:

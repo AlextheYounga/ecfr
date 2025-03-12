@@ -1,5 +1,7 @@
 ##### § 2411.4 Information policy. #####
 
+Link to an amendment published at 82 FR 2850, January 10, 2017.
+
 (a) *Authority/General Counsel/Panel/IG.* (1) It is the policy of the Authority, the General Counsel, the Panel and IG to make available for public inspection and copying (unless they are published and copies are offered for sale):
 
 (i) Final decisions and orders of the Authority and administrative rulings of the General Counsel; and procedural determinations, final decisions and orders of the Panel; and factfinding and arbitration reports; and reports and executive summaries of the IG;

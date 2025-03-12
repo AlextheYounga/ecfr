@@ -1,5 +1,7 @@
 ##### § 2411.5 Procedure for obtaining information. #####
 
+Link to an amendment published at 82 FR 2851, January 10, 2017.
+
 (a) *Authority/General Counsel/Panel/IG.* Any person who desires to inspect or copy any records, documents or other information of the Authority, the General Counsel, the Panel or the IG, covered by this part, other than those specified in paragraphs (a)(1) and (c) of § 2411.4, shall submit a written, facsimiled, or e-mail request (*see* office and e-mail addresses listed at *http://www.flra.gov/foia/contacts.html*) to that effect as follows:
 
 (1) If the request is for records, documents or other information in a regional office of the Authority, it should be made to the appropriate Regional Director;

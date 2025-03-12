@@ -1,12 +1,12 @@
 ##### § 429.110 Enforcement testing. #####
 
-Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.
+Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.
 
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
 (2) DOE will select and test units pursuant to paragraphs (c) and (e) of this section.
 
-(3) Testing will be conducted at a lab accredited to the International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), “General requirements for the competence of testing and calibration laboratories,” ISO/IEC 17025:2005(E) (incorporated by reference; *see* § 429.4). If testing cannot be completed at an independent lab, DOE, at its discretion, may allow enforcement testing at a manufacturer's lab, so long as the lab is accredited to ISO/IEC 17025:2005(E) and DOE representatives witness the testing.
+(3) Testing will be conducted at a laboratory accredited to the International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), “General requirements for the competence of testing and calibration laboratories,” ISO/IEC 17025:2005(E) (incorporated by reference; see § 429.4). If testing cannot be completed at an independent laboratory, DOE, at its discretion, may allow enforcement testing at a manufacturer's laboratory, so long as the lab is accredited to ISO/IEC 17025:2005(E) and DOE representatives witness the testing. In addition, for commercial packaged boilers with rated input greater than 5,000,000 Btu/h, DOE, at its discretion, may allow enforcement testing of a commissioned commercial packaged boiler in the location in which it was commissioned for use, pursuant to the test provisions at § 431.86(c) of this chapter, for which accreditation to ISO/IEC 17025:2005(E) would not be required.
 
 (b) *Test notice.* (1) To obtain units for enforcement testing to determine compliance with an applicable standard, DOE will issue a test notice addressed to the manufacturer in accordance with the following requirements:
 
@@ -27,6 +27,8 @@ Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment
 (i) Manufacturer's warehouse, distributor, or other facility affiliated with the manufacturer. DOE will select a batch sample at random in accordance with the provisions in paragraph (e) of this section and the conditions specified in the test notice. DOE will randomly select an initial test sample of units from the batch sample for testing in accordance with appendices A through C of this subpart. DOE will make a determination whether an alternative sample size will be used in accordance with the provisions in paragraph (e)(1)(iv) of this section.
 
 (ii) Retailer or other facility not affiliated with the manufacturer. DOE will select an initial test sample of units at random that satisfies the minimum units necessary for testing in accordance with the provisions in appendices A through C of this subpart and the conditions specified in the test notice. Depending on the results of the testing, DOE may select additional units for testing from a retailer in accordance with appendices A through C of this subpart. If the full sample is not available from a retailer, DOE will make a determination whether an alternative sample size will be used in accordance with the provisions in paragraph (e)(1)(iv) of this section.
+
+(iii) Previously commissioned commercial packaged boilers with a rated input greater than 5,000,000 Btu/h. DOE may test a sample of at least one unit in the location in which it was commissioned for use.
 
 (2) Units tested in accordance with the applicable test procedure under this part by DOE or another Federal agency, pursuant to other provisions or programs, may count toward units in the test sample.
 
@@ -72,4 +74,4 @@ Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment
 
 (8) For the purposes of this section, available units are those that are available for distribution in commerce within the United States.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016]
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016]

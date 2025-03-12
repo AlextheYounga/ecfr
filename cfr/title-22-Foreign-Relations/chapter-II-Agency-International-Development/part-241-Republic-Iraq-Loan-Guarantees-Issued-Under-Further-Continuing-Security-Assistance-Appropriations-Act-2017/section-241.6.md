@@ -1,0 +1,3 @@
+##### § 241.6 Transferability of Guarantee; Note Register. #####
+
+A Noteholder may assign, transfer or pledge an Eligible Note to any Person, provided that such transfer is permitted under applicable law and regulation, including, without limitation, the Office of Foreign Assets Control (OFAC) regulations. Any such assignment, transfer or pledge shall be effective on the date that the name of the new Noteholder is entered on the Note Register required to be maintained by the Fiscal Agent pursuant to the Fiscal Agency Agreement. USAID shall be entitled to treat the Persons in whose names the Eligible Notes are registered as the owners thereof for all purposes of this Guarantee and USAID shall not be affected by notice to the contrary.

@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
+Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -152,7 +152,15 @@ Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment
 
 (2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 3.3 of the applicable test procedure in appendix A to subpart B part 430 of this chapter shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
 
-(m) [Reserved]
+(m) *Commercial packaged boilers* - (1) *Verification of fuel input rate.* The fuel input rate of each tested unit will be measured pursuant to the test requirements of § 431.86 of this chapter. The results of the measurement(s) will be compared to the value of rated input certified by the manufacturer. The certified rated input will be considered valid only if the measurement(s) (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) is within two percent of the certified rated input.
+
+(i) If the measured fuel input rate is within two-percent of the certified rated input, the certified rated input will serve as the basis for determination of the appropriate equipment class(es) and the mean measured fuel input rate will be used as the basis for calculation of combustion and/or thermal efficiency for the basic model.
+
+(ii) If the measured fuel input rate for a gas-fired commercial packaged boiler is not within two-percent of the certified rated input, DOE will first attempt to increase or decrease the gas manifold pressure within the range specified in manufacturer's installation and operation manual shipped with the commercial packaged boiler being tested (or, if not provided in the manual, in supplemental instructions provided by the manufacturer pursuant to § 429.60(b)(4) of this chapter) to achieve the certified rated input (within two-percent). If the fuel input rate is still not within two-percent of the certified rated input, DOE will attempt to increase or decrease the gas inlet pressure within the range specified in manufacturer's installation and operation manual shipped with the commercial packaged boiler being tested (or, if not provided in the manual, in supplemental instructions provided by the manufacturer pursuant to § 429.60(b)(4)) to achieve the certified rated input (within two-percent). If the fuel input rate is still not within two-percent of the certified rated input, DOE will attempt to modify the gas inlet orifice if the unit is equipped with one. If the fuel input rate still is not within two percent of the certified rated input, the mean measured fuel input rate (either for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) will serve as the basis for determination of the appropriate equipment class(es) and calculation of combustion and/or thermal efficiency for the basic model.
+
+(iii) If the measured fuel input rate for an oil-fired commercial packaged boiler is not within two-percent of the certified rated input, the mean measured fuel input rate (either for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) will serve as the basis for determination of the appropriate equipment class(es) and calculation of combustion and/or thermal efficiency for the basic model.
+
+(2) *Models capable of producing both hot water and steam.* For a model of commercial packaged boiler that is capable of producing both hot water and steam, DOE may measure the thermal or combustion efficiency as applicable (see § 431.87 of this chapter) for steam and/or hot water modes. DOE will evaluate compliance based on the measured thermal or combustion efficiency in steam and hot water modes, independently.
 
 (n) *Commercial water heating equipment other than residential-duty commercial water heaters* - (1) *Verification of fuel input rate.* The fuel input rate of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.106 of this chapter. The measured fuel input rate (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) will be compared to the rated input certified by the manufacturer. The certified rated input will be considered valid only if the measured fuel input rate is within two percent of the certified rated input.
 
@@ -164,4 +172,4 @@ Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment
 
 (2) [Reserved]
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016]

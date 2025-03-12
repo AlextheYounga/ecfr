@@ -1,5 +1,7 @@
 ##### § 2411.10 Appeal from denial of request. #####
 
+Link to an amendment published at 82 FR 2854, January 10, 2017.
+
 (a) *Authority/General Counsel/Panel/IG.* (1) Whenever any request for records is denied, a written appeal may be filed within thirty (30) days after the requester receives notification that the request has been denied or after the requester receives any records being made available, in the event of partial denial.
 
 (i) If the denial was made by a Regional Director or by the Freedom of Information Officer of the General Counsel, the appeal shall be filed with the General Counsel in Washington, DC.
