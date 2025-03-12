@@ -22,7 +22,7 @@
 
 (B) Accessing follow-up clinical data from procedures that subjects would undergo as part of clinical care.
 
-(2) [Reserved.]
+(2) [Reserved]
 
 (g) An IRB shall have authority to observe or have a third party observe the consent process and the research.
 

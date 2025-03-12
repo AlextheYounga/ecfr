@@ -1,5 +1,7 @@
 ##### § 1221.108 Establishment of the NASA Unified Visual Communications System. #####
 
+Link to an amendment published at 85 FR 71830, Nov. 12, 2020.
+
 (a) The NASA Administrator directed the establishment of a NASA Unified Visual Communications System. The system was developed under the Federal Design Improvement Program initiated by the President in May 1972. This system is the Agencywide program by which NASA projects a contemporary, business-like, progressive, and forward-looking image through the use of effective design for improved communications. The system provides a professional and cohesive NASA identity by imparting continuity of graphics design in all layout, reproduction art, stationery, forms, publications, signs, films, video productions, vehicles, aircraft, and spacecraft markings and other items. It creates a unified image which is representative and symbolic of NASA's progressive attitudes and programs.
 
 (b) The Associate Administrator for Public Affairs is responsible for the development and implementation of the NASA Unified Visual Communications System. With the development of the NASA Unified Visual Communications System, the Office of Public Affairs at NASA Headquarters created the NASA Graphics Standards Manual and the NASA Insignia Standards Supplement which are the official guides for the use and application of the NASA Insignia and the NASA Unified Visual Communications System.

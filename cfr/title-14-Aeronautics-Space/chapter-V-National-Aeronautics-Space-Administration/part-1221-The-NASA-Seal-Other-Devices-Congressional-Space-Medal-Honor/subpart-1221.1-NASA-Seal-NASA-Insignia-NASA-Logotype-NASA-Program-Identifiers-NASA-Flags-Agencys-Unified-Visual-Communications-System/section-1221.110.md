@@ -1,5 +1,7 @@
 ##### § 1221.110 Use of the NASA Insignia. #####
 
+Link to an amendment published at 85 FR 71831, Nov. 12, 2020.
+
 The NASA Insignia is authorized for use on the following:
 
 (a) *NASA articles.* (1) NASA letterhead stationary.

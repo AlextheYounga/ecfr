@@ -1,5 +1,7 @@
 ##### § 63.18 Contents of applications for international common carriers. #####
 
+Link to an amendment published at 85 FR 76385, Nov. 27, 2020.
+
 Except as otherwise provided in this part, any party seeking authority pursuant to Section 214 of the Communications Act of 1934, as amended, to construct a new line, or acquire or operate any line, or engage in transmission over or by means of such additional line for the provision of common carrier communications services between the United States, its territories or possessions, and a foreign point shall request such authority by formal application. The application shall include information demonstrating how the grant of the application will serve the public interest, convenience, and necessity. Such demonstration shall consist of the following information, as applicable:
 
 (a) The name, address, and telephone number of each applicant;

@@ -1,5 +1,7 @@
 ##### § 51.911 Access reciprocal compensation rates for competitive LECs. #####
 
+Link to an amendment published at 85 FR 75917, Nov. 27, 2020.
+
 (a) *Caps on Access Reciprocal Compensation and switched access rates.* Notwithstanding any other provision of the Commission's rules:
 
 (1) In the case of Competitive LECs operating in an area served by a Price Cap Carrier, no such Competitive LEC may increase the rate for any originating or terminating intrastate switched access service above the rate for such service in effect on December 29, 2011.

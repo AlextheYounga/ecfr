@@ -1,5 +1,7 @@
 ##### § 109.200 Application to become an ILP Intermediary. #####
 
+Link to an amendment published at 85 FR 75834, Nov. 27, 2020.
+
 (a) *Notice of Funds Availability (NOFA).* SBA will periodically publish a NOFA in the Federal Register, advising potential applicants of the availability of funds for the ILP program. Any eligible entity may then submit an application to become an ILP Intermediary. When submitting its application, an applicant must comply with both these regulations and any requirements specified in the NOFA, including submission deadlines. The NOFA may specify limitations, special rules, procedures, and restrictions for a particular funding round.
 
 (b) *Contents of application.* The application to become an ILP Intermediary must include:

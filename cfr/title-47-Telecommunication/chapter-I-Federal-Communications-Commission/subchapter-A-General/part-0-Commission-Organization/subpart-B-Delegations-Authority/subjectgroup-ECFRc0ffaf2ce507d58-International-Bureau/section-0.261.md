@@ -1,5 +1,7 @@
 ##### § 0.261 Authority delegated. #####
 
+Link to an amendment published at 85 FR 76381, Nov. 27, 2020.
+
 (a) Subject to the limitations set forth in paragraph (b) of this section, the Chief, International Bureau, is hereby delegated the authority to perform the functions and activities described in § 0.51, including without limitation the following:
 
 (1) To recommend rulemakings, studies, and analyses (legal, engineering, social, and economic) of various petitions for policy or rule changes submitted by industry or the public, and to assist the Commission in conducting the same;

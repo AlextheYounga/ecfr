@@ -1,5 +1,7 @@
 ##### § 1.47 Service of documents and proof of service. #####
 
+Link to an amendment published at 85 FR 76381, Nov. 27, 2020.
+
 (a) Where the Commission or any person is required by statute or by the provisions of this chapter to serve any document upon any person, service shall (in the absence of specific provisions in this chapter to the contrary) be made in accordance with the provisions of this section. Documents that are required to be served by the Commission in agency proceedings (*i.e.,* not in the context of judicial proceedings, Congressional investigations, or other proceedings outside the Commission) may be served in electronic form. In proceedings involving a large number of parties, and unless otherwise provided by statute, the Commission may satisfy its service obligation by issuing a public notice that identifies the documents required to be served and that explains how parties can obtain copies of the documents.
 
 Note to paragraph (a):

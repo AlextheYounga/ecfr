@@ -1,5 +1,7 @@
 ##### § 63.12 Processing of international Section 214 applications. #####
 
+Link to an amendment published at 85 FR 76385, Nov. 27, 2020.
+
 (a) Except as provided by paragraph (c) of this section, a complete application seeking authorization under § 63.18 of this part shall be granted by the Commission 14 days after the date of public notice listing the application as accepted for filing.
 
 (b) The applicant may commence operation on the 15th day after the date of public notice listing the application as accepted for filing, but only in accordance with the operations proposed in its application and the rules, regulations, and policies of the Commission. The public notice of the grant of the authorization shall represent the applicant's Section 214 certificate.

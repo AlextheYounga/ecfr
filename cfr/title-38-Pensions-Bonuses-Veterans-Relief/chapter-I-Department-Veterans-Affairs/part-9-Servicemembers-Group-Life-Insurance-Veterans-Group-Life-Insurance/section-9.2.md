@@ -1,5 +1,7 @@
 ##### § 9.2 Effective date; applications. #####
 
+Link to an amendment published at 85 FR 75859, Nov. 27, 2020.
+
 (a) The effective date of Servicemembers' Group Life Insurance will be in accordance with provisions set forth in 38 U.S.C. 1967.
 
 (b) The effective date of Veterans' Group Life Insurance will be as follows:

@@ -1,5 +1,7 @@
 ##### § 51.907 Transition of price cap carrier access charges. #####
 
+Link to an amendment published at 85 FR 75916, Nov. 27, 2020.
+
 (a) Notwithstanding any other provision of the Commission's rules, on December 29, 2011, a Price Cap Carrier shall cap the rates for all interstate and intrastate rate elements for services contained in the definitions of Interstate End Office Access Services, Tandem Switched Transport Access Services, and Dedicated Transport Access Services. In addition, a Price Cap Carrier shall also cap the rates for any interstate and intrastate rate elements in the traffic sensitive basket” and the “trunking basket” as described in 47 CFR 61.42(d)(2) and (3) to the extent that such rate elements are not contained in the definitions of Interstate End Office Access Services, Tandem Switched Transport Access Services, and Dedicated Transport Access Services. Carriers will remove these services from price cap regulation in their July 1, 2012 annual tariff filing.
 
 (b) *Step 1.* Beginning July 1, 2012, notwithstanding any other provision of the Commission's rules:

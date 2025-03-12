@@ -1,5 +1,7 @@
 ##### § 1221.112 Use of the NASA Program Identifiers. #####
 
+Link to an amendment published at 85 FR 71831, Nov. 12, 2020.
+
 (a) Official NASA Program Identifiers will be restricted to the uses set forth in this section and to such other uses as the Associate Administrator for Public Affairs may specifically approve.
 
 (b) Specific approval is given for the following uses:

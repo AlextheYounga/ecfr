@@ -1,5 +1,7 @@
 ##### § 63.24 Assignments and transfers of control. #####
 
+Link to an amendment published at 85 FR 76387, Nov. 27, 2020.
+
 (a) *General.* Except as otherwise provided in this section, an international section 214 authorization may be assigned, or control of such authorization may be transferred by the transfer of control of any entity holding such authorization, to another party, whether voluntarily or involuntarily, directly or indirectly, only upon application to and prior approval by the Commission.
 
 (b) *Assignments.* For purposes of this section, an assignment of an authorization is a transaction in which the authorization is assigned from one entity to another entity. Following an assignment, the authorization is held by an entity other than the one to which it was originally granted.

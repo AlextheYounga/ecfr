@@ -1,5 +1,7 @@
 ##### § 109.20 Definitions. #####
 
+Link to an amendment published at 85 FR 75834, Nov. 27, 2020.
+
 *Affiliate* is defined in § 121.301(f) of this chapter.
 
 *Associate.* (1) An Associate of an ILP Intermediary is:

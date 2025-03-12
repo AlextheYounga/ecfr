@@ -1,5 +1,7 @@
 ##### § 1221.107 Establishment of the NASA Administrator's, Deputy Administrator's, and Associate Deputy Administrator's Flags. #####
 
+Link to an amendment published at 85 FR 71830, Nov. 12, 2020.
+
 (a) Concurrently with the establishment of the NASA Flag in January 1960, the NASA Administrator also established NASA Flags to represent the NASA Administrator, Deputy Administrator, and Associate Deputy Administrator. Each of these flags conforms to the basic design of the NASA Flag except for the following:
 
 (1) The size of the flag is 3 feet × 4 feet;

@@ -1,5 +1,7 @@
 ##### § 1221.113 Use of the NASA Flags. #####
 
+Link to an amendment published at 85 FR 71831, Nov. 12, 2020.
+
 (a) The NASA Flag is authorized for use only as follows:
 
 (1) On or in front of NASA buildings.

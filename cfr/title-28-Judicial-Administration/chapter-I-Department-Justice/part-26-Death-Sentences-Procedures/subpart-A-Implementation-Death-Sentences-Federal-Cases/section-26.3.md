@@ -1,5 +1,7 @@
 ##### § 26.3 Date, time, place, and method of execution. #####
 
+Link to an amendment published at 85 FR 75854, Nov. 27, 2020.
+
 (a) Except to the extent a court orders otherwise, a sentence of death shall be executed:
 
 (1) On a date and at a time designated by the Director of the Federal Bureau of Prisons, which date shall be no sooner than 60 days from the entry of the judgment of death. If the date designated for execution passes by reason of a stay of execution, then a new date shall be designated promptly by the Director of the Federal Bureau of Prisons when the stay is lifted;

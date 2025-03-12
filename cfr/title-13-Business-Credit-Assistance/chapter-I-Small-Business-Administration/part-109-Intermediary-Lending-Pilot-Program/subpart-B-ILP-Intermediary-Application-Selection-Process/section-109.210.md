@@ -1,5 +1,7 @@
 ##### § 109.210 Evaluation and selection of ILP Intermediaries. #####
 
+Link to an amendment published at 85 FR 75834, Nov. 27, 2020.
+
 (a) *General.* SBA will evaluate and select applicants to participate in the ILP program in accordance with this section and the NOFA. SBA reserves the right, in its discretion, to loan less than all available funds.
 
 (b) *Number of ILP Intermediaries.* SBA will make loans to not more than 20 of the selected ILP Intermediaries in each of the fiscal years for which funding is available.

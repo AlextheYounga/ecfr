@@ -1,7 +1,5 @@
 ##### § 515.570 Remittances. #####
 
-Link to an amendment published at 85 FR 67989, Oct. 27, 2020.
-
 (a) *Family remittances authorized.* Persons subject to the jurisdiction of the United States who are 18 years of age or older are authorized to make remittances to nationals of Cuba who are close relatives, as defined in § 515.339 of this part, of the remitter, provided that:
 
 (1) The remitter's total remittances pursuant to paragraph (a) of this section to any one Cuban national do not exceed $1,000 in any consecutive three-month period;
@@ -42,7 +40,9 @@ Link to an amendment published at 85 FR 67989, Oct. 27, 2020.
 
 (i) *Remittances to third-country nationals for certain travel.* Persons subject to the jurisdiction of the United States are authorized to make remittances to third-country nationals for travel by third-country nationals to, from, or within Cuba, provided that such travel would be authorized by a general license issued pursuant to this part if the traveler were a person subject to U.S. jurisdiction.
 
-(j) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the following:
+(j) *Remittance transactions with entities or subentities on the Cuba Restricted List prohibited.* Nothing in paragraphs (a) through (i) authorizes a transaction relating to the collection, forwarding, or receipt of remittances involving any entity or subentity identified on the Cuba Restricted List, as published in the Federal Register and maintained by the State Department and available at *https://www.state.gov/cuba-sanctions/cuba-restricted-list/.*
+
+(k) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the following:
 
 (1) Remittances by persons subject to U.S. jurisdiction to a person in Cuba, directly or indirectly, for transactions to facilitate non-immigrant travel by an individual in Cuba to the United States under circumstances where humanitarian need is demonstrated, including illness or other medical emergency.
 
@@ -56,4 +56,4 @@ Note 2 to § 515.570:
 
 For the rules relating to the carrying of remittances to Cuba, see § 515.560(c)(4). See § 515.572 for an authorization related to the collection, forwarding, or receipt of certain remittances to or from Cuba.
 
-[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47122, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020]
+[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47122, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020]

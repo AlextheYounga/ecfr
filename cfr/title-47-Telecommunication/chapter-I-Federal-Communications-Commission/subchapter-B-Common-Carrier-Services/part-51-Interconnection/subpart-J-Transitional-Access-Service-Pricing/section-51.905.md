@@ -1,5 +1,7 @@
 ##### § 51.905 Implementation. #####
 
+Link to an amendment published at 85 FR 75916, Nov. 27, 2020.
+
 (a) The rates set forth in this section are default rates. Notwithstanding any other provision of the Commission's rules, telecommunications carriers may agree to rates different from the default rates.
 
 (b) LECs who are otherwise required to file tariffs are required to tariff rates no higher than the default transitional rates specified by this subpart.

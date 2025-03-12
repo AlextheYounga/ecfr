@@ -24,4 +24,6 @@ The following functions are assigned to and shall be conducted, handled, or supe
 
 (k) As the delegate of the Attorney General, performance of all functions which the Attorney General is required or authorized to perform by title III of Public Law 97-290 (15 U.S.C. 4011-4021) with respect to export trade certificates of review.
 
-[Order No. 617-75, 40 FR 36118, Aug. 19, 1975, as amended by Order No. 699-77, 42 FR 15315, Mar. 21, 1977; Order No. 960-81, 46 FR 52344, Oct. 27, 1981; Order Nos. 1002-83, 1003-83, 48 FR 9522, 9523, Mar. 7, 1983]
+(l) As the delegate of the Attorney General, performance of all functions that the Attorney General is required or authorized to perform by section 708 of the Defense Production Act (50 U.S.C. 4558).
+
+[Order No. 617-75, 40 FR 36118, Aug. 19, 1975, as amended by Order No. 699-77, 42 FR 15315, Mar. 21, 1977; Order No. 960-81, 46 FR 52344, Oct. 27, 1981; Order Nos. 1002-83, 1003-83, 48 FR 9522, 9523, Mar. 7, 1983; AG Order No. 4917-2020, 85 FR 75846, Nov. 27, 2020]

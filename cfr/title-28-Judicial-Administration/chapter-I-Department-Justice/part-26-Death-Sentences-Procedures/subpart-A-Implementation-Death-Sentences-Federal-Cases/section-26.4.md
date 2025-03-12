@@ -1,5 +1,7 @@
 ##### § 26.4 Other execution procedures. #####
 
+Link to an amendment published at 85 FR 75854, Nov. 27, 2020.
+
 Except to the extent a court orders otherwise:
 
 (a) The Warden of the designated institution shall notify the prisoner under sentence of death of the date designated for execution at least 20 days in advance, except when the date follows a postponement of fewer than 20 days of a previously scheduled and noticed date of execution, in which case the Warden shall notify the prisoner as soon as possible.

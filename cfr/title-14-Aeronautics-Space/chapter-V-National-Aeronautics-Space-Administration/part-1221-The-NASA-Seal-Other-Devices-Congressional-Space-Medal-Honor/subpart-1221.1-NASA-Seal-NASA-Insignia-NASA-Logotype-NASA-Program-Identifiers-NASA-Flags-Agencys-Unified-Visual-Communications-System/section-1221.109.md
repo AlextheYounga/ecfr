@@ -1,5 +1,7 @@
 ##### § 1221.109 Use of the NASA Seal. #####
 
+Link to an amendment published at 85 FR 71830, Nov. 12, 2020.
+
 (a) The Associate Deputy Administrator shall be responsible for custody of the NASA Impression Seal and custody of NASA replica (plaques) seals. The NASA Seal is restricted to the following:
 
 (1) NASA award certificates and medals.
