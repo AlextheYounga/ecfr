@@ -1,12 +1,10 @@
 ##### 23.802 Policy. #####
 
-Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
-
-It is the policy of the Federal Government that Federal agencies -
+It is the policy of the Federal Government that Federal agencies—
 
 (a) Implement cost-effective programs to minimize the procurement of materials and substances that contribute to the depletion of stratospheric ozone and/or result in the use, release or emission of high global warming potential hydrofluorocarbons;
 
-(b) Give preference to the procurement of acceptable alternative chemicals, products, and manufacturing processes that reduce overall risks to human health and the environment by minimizing -
+(b) Give preference to the procurement of acceptable alternative chemicals, products, and manufacturing processes that reduce overall risks to human health and the environment by minimizing—
 
 (1) The depletion of ozone in the upper atmosphere; and
 
@@ -14,7 +12,7 @@ It is the policy of the Federal Government that Federal agencies -
 
 (c) Lead efforts to reduce greenhouse gas emissions at the Federal level in accordance with Executive Order 13693; and
 
-(d) In order to better understand both direct and indirect greenhouse gas emissions that result from Federal activities, require offerors that are registered in the System for Award Management (SAM) database and received $7.5 million or more in Federal contract awards in the prior Federal fiscal year to -
+(d) In order to better understand both direct and indirect greenhouse gas emissions that result from Federal activities, require offerors that are registered in the System for Award Management (SAM) and received $7.5 million or more in Federal contract awards in the prior Federal fiscal year to—
 
 (1) Represent whether they publicly disclose greenhouse gas emissions;
 
@@ -22,4 +20,4 @@ It is the policy of the Federal Government that Federal agencies -
 
 (3) Provide the website for any such disclosures.
 
-[81 FR 30435, May 16, 2016, as amended at 81 FR 83906, Nov. 18, 2016; 83 FR 42573, Aug. 22, 2018]
+[81 FR 30435, May 16, 2016, as amended at 81 FR 83906, Nov. 18, 2016; 83 FR 42573, Aug. 22, 2018; 83 FR 48697, Sept. 26, 2018]

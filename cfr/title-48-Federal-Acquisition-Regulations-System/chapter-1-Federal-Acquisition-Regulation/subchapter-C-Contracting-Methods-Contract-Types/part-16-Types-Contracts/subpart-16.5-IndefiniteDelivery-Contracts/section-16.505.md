@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
-
 (a) *General* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -76,7 +74,7 @@ Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
 
 (ii) Award notices for orders shall follow the procedures in 5.705.
 
-(12) When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management database as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
+(12) When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
 
 (b) *Orders under multiple-award contracts* - (1) *Fair opportunity.* (i) The contracting officer must provide each awardee a fair opportunity to be considered for each order exceeding $3,500 issued under multiple delivery-order contracts or multiple task-order contracts, except as provided for in paragraph (b)(2) of this section.
 
@@ -246,4 +244,4 @@ Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
 
 (ii) The extension is necessary to ensure continuity of services, pending the award of the follow-on contract.
 
-[65 FR 24319, Apr. 25, 2000]Editorial Note:For Federal Register citations affecting section 16.505, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[65 FR 24319, Apr. 25, 2000]Editorial Note:For Federal Register citations affecting section 16.505, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

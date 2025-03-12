@@ -1,10 +1,8 @@
 ##### 52.244-6 Subcontracts for Commercial Items. #####
 
-Link to an amendment published at 83 FR 48700, Sept. 26, 2018.
-
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (AUG 2018)
+Subcontracts for Commercial Items (Oct 2018)
 
 (a) *Definitions.* As used in this clause -
 
@@ -26,7 +24,7 @@ Subcontracts for Commercial Items (AUG 2018)
 
 (v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(vi) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(vi) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (vii) 52.222-21**,** Prohibition of Segregated Facilities (APR 2015).
 

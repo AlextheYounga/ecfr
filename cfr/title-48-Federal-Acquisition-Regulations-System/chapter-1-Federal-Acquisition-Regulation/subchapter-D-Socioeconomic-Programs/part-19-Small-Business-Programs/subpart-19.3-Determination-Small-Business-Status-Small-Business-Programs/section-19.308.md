@@ -1,7 +1,5 @@
 ##### 19.308 Protesting a firm's status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program. #####
 
-Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
-
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 127.102.
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the offeror's status as an economically disadvantaged women-owned small business (EDWOSB) concern or as a WOSB concern eligible under the WOSB Program. For all other acquisitions, an interested party (see 13 CFR 127.102) may protest the apparent successful offeror's EDWOSB or WOSB status.
@@ -78,7 +76,7 @@ Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
 
 (ii) The contracting officer shall update the FPDS to reflect the final SBA decision; and
 
-(iii) The concern must remove its designation in the System for Award Management (SAM) as an EDWOSB or WOSB concern eligible under the WOSB Program, and shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved.
+(iii) The concern must remove its designation in SAM as an EDWOSB or WOSB concern eligible under the WOSB Program, and shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved.
 
 (4) If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, contract award has occurred, SBA has sustained the protest and determined that the concern is not eligible under the WOSB Program, and a timely OHA appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an OHA decision is rendered.
 
@@ -110,4 +108,4 @@ Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program. The OHA decision is the final agency decision and is binding on the parties.
 
-[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015]
+[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018]

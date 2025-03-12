@@ -1,5 +1,7 @@
 ##### § 989.53 Research and development. #####
 
+Link to an amendment published at 83 FR 53969, Oct. 26, 2018.
+
 (a) *General.* The Committee, with the approval of the Secretary, may establish or provide for the establishment of projects involving marketing research and development and marketing promotion including paid advertising, designed to assist, improve, or promote the marketing, distribution, and consumption of raisins in domestic and foreign markets. These projects may include, but need not be limited to those designed to:
 
 (1) Improve through research the accuracy of raisin production estimates;

@@ -1,5 +1,7 @@
 ##### § 989.91 Suspension or termination. #####
 
+Link to an amendment published at 83 FR 53972, Oct. 26, 2018.
+
 (a) The Secretary may, at any time, terminate the provisions of this amended subpart by giving at least one day's notice by means of a press release or in any other manner which he may determine.
 
 (b) The Secretary shall terminate or suspend the operation of any or all of the provisions of this amended subpart, whenever he finds that such provisions do not tend to effectuate the declared policy of the act.

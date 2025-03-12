@@ -1,13 +1,10 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 83 FR 48699, Sept. 26, 2018.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (AUG 2018)
+Offeror Representations and Certifications - Commercial Items (Oct 2018)
 
-The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site located at *https://www.sam.gov/portal*.
-If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (u) of this provision.
+The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (u)) of this provision.
 
 (a) *Definitions.* As used in this provision -
 
@@ -121,9 +118,9 @@ If the Offeror has not completed the annual representations and certifications e
 
 *Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127), means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States.
 
-(b)(1) *Annual Representations and Certifications.* Any changes provided by the offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications posted on the SAM website.
+(b)(1) *Annual Representations and Certifications.* Any changes provided by the Offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications in SAM.
 
-(2) The offeror has completed the annual representations and certifications electronically via the SAM website accessed through *http://www.acquisition.gov.* After reviewing the SAM database information, the offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications - Commercial Items, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_\_\_\_.
+(2) The offeror has completed the annual representations and certifications electronically in SAM accessed through *http://www.sam.gov.* After reviewing SAM information, the Offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications - Commercial Items, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), at the time this offer is submitted and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_.
 
 [*Offeror to identify the applicable paragraphs at (c) through (u) of this provision that the offeror has completed for the purposes of this solicitation only, if any.*
 
@@ -334,7 +331,7 @@ Listed End ProductListed Countries of Origin
 
 (ii) The Contracting Officer may not make an award to the offeror if the offeror fails to execute the certification in paragraph (k)(1) or (k)(2) of this clause or to contact the Contracting Officer as required in paragraph (k)(3)(i) of this clause.
 
-(l) *Taxpayer Identification Number (TIN) (26 U.S.C. 6109, 31 U.S.C. 7701).* (Not applicable if the offeror is required to provide this information to the SAM database to be eligible for award.)
+(l) *Taxpayer Identification Number (TIN) (26 U.S.C. 6109, 31 U.S.C. 7701).* (Not applicable if the offeror is required to provide this information to SAM to be eligible for award.)
 
 (1) All offerors must submit the information required in paragraphs (l)(3) through (l)(5) of this provision to comply with debt collection requirements of 31 U.S.C. 7701(c) and 3325(d), reporting requirements of 26 U.S.C. 6041, 6041A, and 6050M, and implementing regulations issued by the Internal Revenue Service (IRS).
 
@@ -456,7 +453,7 @@ Predecessor legal name: \_\_\_\_.
 
 (s) [Reserved]
 
-(t) *Public Disclosure of Greenhouse Gas Emissions and Reduction Goals*. Applies in all solicitations that require offerors to register in SAM (52.212-1(k)).
+(t) *Public Disclosure of Greenhouse Gas Emissions and Reduction Goals*. Applies in all solicitations that require offerors to register in SAM (12.301(d)(1)).
 
 (1) This representation shall be completed if the Offeror received $7.5 million or more in contract awards in the prior Federal fiscal year. The representation is optional if the Offeror received less than $7.5 million in Federal contract awards in the prior Federal fiscal year.
 
@@ -492,4 +489,4 @@ Predecessor legal name: \_\_\_\_.
 
 \_\_ Individual/concern, other than one of the preceding.
 
-(End of provision)[60 FR 48252, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(End of provision)[60 FR 48252, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

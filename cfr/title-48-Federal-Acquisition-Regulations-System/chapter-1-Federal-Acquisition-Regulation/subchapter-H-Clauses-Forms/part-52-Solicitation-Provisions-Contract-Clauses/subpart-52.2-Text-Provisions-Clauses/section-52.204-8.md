@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (JAN 2018)
+Annual Representations and Certifications (Oct 2018)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -14,7 +12,7 @@ Annual Representations and Certifications (JAN 2018)
 
 (b)(1) If the provision at 52.204-7, System for Award Management, is included in this solicitation, paragraph (d) of this provision applies.
 
-(2) If the provision at 52.204-7 is not included in this solicitation, and the offeror is currently registered in the System for Award Management (SAM), and has completed the Representations and Certifications section of SAM electronically, the offeror may choose to use paragraph (d) of this provision instead of completing the corresponding individual representations and certifications in the solicitation. The offeror shall indicate which option applies by checking one of the following boxes:
+(2) If the provision at 52.204-7, System for Award Management, is not included in this solicitation, and the Offeror has an active registration in the System for Award Management (SAM), the Offeror may choose to use paragraph (d) of this provision instead of completing the corresponding individual representations and certifications in the solicitation. The Offeror shall indicate which option applies by checking one of the following boxes:
 
 [ ] (i) Paragraph (d) applies.
 
@@ -118,10 +116,6 @@ Annual Representations and Certifications (JAN 2018)
 
 \_\_ (viii) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
 
-(d) The offeror has completed the annual representations and certifications electronically via the SAM Web site accessed through *https://www.acquisition.gov.* After reviewing the SAM database information, the offeror verifies by submission of the offer that the representations and certifications currently posted electronically that apply to this solicitation as indicated in paragraph (c) of this provision have been entered or updated within the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201); except for the changes identified below [*offeror to insert changes, identifying change by clause number, title, date*]. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.
+(d) The Offeror has completed the annual representations and certifications electronically in SAM accessed through *https://www.sam.gov.* After reviewing the SAM information, the Offeror verifies by submission of the offer that the representations and certifications currently posted electronically that apply to this solicitation as indicated in paragraph (c) of this provision have been entered or updated within the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201); except for the changes identified below [*offeror to insert changes, identifying change by clause number, title, date*]. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.
 
-|FAR Clause No.|Title|Date|Change|
-|--------------|-----|----|------|
-|              |     |    |      |
-
-Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted on SAM.(End of provision)[69 FR 76346, Dec. 20, 2004, as amended at 71 FR 227, Jan. 3, 2006; 74 FR 2730, Jan. 15, 2009; 75 FR 53134, Aug. 30, 2010; 75 FR 60257, Sept. 29, 2010; 75 FR 82568, Dec. 30, 2010; 76 FR 31402, 31414, May 31, 2011; 76 FR 68031, Nov. 2, 2011; 77 FR 188, Jan. 3, 2012; 77 FR 12934, Mar. 2, 2012; 77 FR 13954, Mar. 7, 2012; 77 FR 27548, May 10, 2012; 77 FR 73520, Dec. 10, 2012; 78 FR 37680, 37698, June 21, 2013; 78 FR 80381, Dec. 31, 2013;79 FR 4630, Jan. 29, 2014; 79 FR 24215, Apr. 29, 2014; 79 FR 61751, Oct. 14, 2014; 79 FR 31191, May 30, 2014; 79 FR 70342,70348, Nov. 25, 2014; 79 FR 74557, Dec. 15, 2014; 80 FR 81896, Dec. 31, 2015; 80 FR 75906, Dec. 4, 2015; 81 FR 11991, Mar. 7, 2016; 81 FR 58644, Aug. 25, 2016; 81 FR 83096, Nov. 18, 2016; 81 FR 91640, Dec. 16, 2016; 82 FR 4723, Jan. 13, 2017; 82 FR 51530, Nov. 6, 2017; 82 FR 51776, Nov. 8, 2017; 83 FR 3398, Jan. 24, 2018]
+(End of provision)Editorial Note:For Federal Register citations affecting section 52.204-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

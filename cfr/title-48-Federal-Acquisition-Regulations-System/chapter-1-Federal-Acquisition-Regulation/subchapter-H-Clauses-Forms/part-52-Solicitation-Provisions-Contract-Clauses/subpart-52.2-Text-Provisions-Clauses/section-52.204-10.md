@@ -1,10 +1,8 @@
 ##### 52.204-10 Reporting Executive Compensation and First-Tier Subcontract Awards. #####
 
-Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
-
 As prescribed in 4.1403(a), insert the following clause:
 
-Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2016)
+Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018)
 
 (a) *Definitions.* As used in this clause:
 
@@ -32,7 +30,7 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2016)
 
 (c) Nothing in this clause requires the disclosure of classified information.
 
-(d)(1) *Executive compensation of the prime contractor.* As a part of its annual registration requirement in the System for Award Management (SAM) database (FAR provision 52.204-7), the Contractor shall report the names and total compensation of each of the five most highly compensated executives for its preceding completed fiscal year, if -
+(d)(1) *Executive compensation of the prime contractor.* As a part of its annual registration requirement in the System for Award Management (SAM) (FAR provision 52.204-7), the Contractor shall report the names and total compensation of each of the five most highly compensated executives for its preceding completed fiscal year, if -
 
 (i) In the Contractor's preceding fiscal year, the Contractor received -
 
@@ -90,6 +88,6 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2016)
 
 (2) If a subcontractor in the previous tax year had gross income from all sources under $300,000, the Contractor does not need to report awards for that subcontractor.
 
-(h) The FSRS database at *http://www.fsrs.gov* will be prepopulated with some information from SAM and FPDS databases. If FPDS information is incorrect, the contractor should notify the contracting officer. If the SAM database information is incorrect, the contractor is responsible for correcting this information.
+(h) The FSRS database at *http://www.fsrs.gov* will be prepopulated with some information from SAM and the FPDS database. If FPDS information is incorrect, the contractor should notify the contracting officer. If the SAM information is incorrect, the contractor is responsible for correcting this information.
 
-(End of clause)[77 FR 44058, July 26, 2012, as amended at 78 FR 37681, 37698, June 21, 2013; 80 FR 38299, July 2, 2015; 81 FR 67739, Sept. 30, 2016]
+(End of clause)[77 FR 44058, July 26, 2012, as amended at 78 FR 37681, 37698, June 21, 2013; 80 FR 38299, July 2, 2015; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018]

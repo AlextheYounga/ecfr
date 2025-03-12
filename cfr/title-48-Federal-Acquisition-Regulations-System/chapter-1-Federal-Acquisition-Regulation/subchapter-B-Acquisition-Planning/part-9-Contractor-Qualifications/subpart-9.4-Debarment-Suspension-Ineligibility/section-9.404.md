@@ -1,16 +1,14 @@
-##### 9.404 System for Award Management Exclusions. #####
+##### 9.404 Exclusions in the System for Award Management. #####
 
-Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
+(a) The General Services Administration (GSA)—
 
-(a) The General Services Administration (GSA) -
-
-(1) Operates the web-based System for Award Management (SAM) Exclusions; and
+(1) Operates the web-based System for Award Management (SAM), which contains exclusion records; and
 
 (2) Provides technical assistance to Federal agencies in the use of SAM.
 
-(b) The SAM Exclusions contains the -
+(b) An exclusion record in SAM contains the—
 
-(1) Names and addresses of all contractors debarred, suspended, proposed for debarment, declared ineligible, or excluded or disqualified under the nonprocurement common rule, with cross-references when more than one name is involved in a single action;
+(1) Names and addresses of the entities debarred, suspended, proposed for debarment, declared ineligible, or excluded or disqualified under the nonprocurement common rule, with cross-references when more than one name is involved in a single action;
 
 (2) Name of the agency or other authority taking the action;
 
@@ -26,26 +24,28 @@ Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
 
 (8) Name and telephone number of the agency point of contact for the action.
 
-(c) Each agency must -
+(c) Each agency shall—
 
-(1) Obtain password(s) from GSA to access SAM for data entry;
+(1) Identify the individual(s) responsible for entering and updating exclusions data in SAM and assign the appropriate roles;
 
-(2) Notify GSA in the event a password needs to be rescinded (*e.g.,* when an agency employee leaves or changes function);
+(2) Remove the exclusion roles in SAM when the individual leaves the organization or changes functions;
 
-(3) Enter the information required by paragraph (b) of this section within 3 working days after the action becomes effective;
+(3) For each exclusion accomplished by the Agency—
 
-(4) Determine whether it is legally permitted to enter the SSN, EIN, or other TIN, under agency authority to suspend or debar;
+(i) Enter the information required by paragraph (b) of this section within 3 working days after the action becomes effective;
 
-(5) Update SAM Exclusions, generally within 5 working days after modifying or rescinding an action;
+(ii) Determine whether it is legally permitted to enter the SSN, EIN, or other TIN, under agency authority to suspend or debar; and
 
-(6) In accordance with internal retention procedures, maintain records relating to each debarment, suspension, or proposed debarment taken by the agency;
+(iii) Update the exclusion record in SAM, generally within 5 working days after modifying or rescinding an action;
 
-(7) Establish procedures to ensure that the agency does not solicit offers from, award contracts to, or consent to subcontracts with contractors whose names are in SAM Exclusions, except as otherwise provided in this subpart;
+(4) In accordance with internal retention procedures, maintain records relating to each debarment, suspension, or proposed debarment taken by the agency;
 
-(8) Direct inquiries concerning listed contractors to the agency or other authority that took the action; and
+(5) Establish procedures to ensure that the agency does not solicit offers from, award contracts to, or consent to subcontracts with contractors who have an active exclusion record in SAM, except as otherwise provided in this subpart;
 
-(9) Contact GSA for technical assistance with SAM, via the support email address or on the technical support phone line available at the SAM Web site provided in paragraph (d) of this section.
+(6) Direct inquiries concerning listed contractors and other entities to the agency or other authority that took the action; and
 
-(d) SAM is available via *https://www.acquisition.gov.*
+(7) Contact GSA for technical assistance with SAM, via the support email address or on the technical support phone line.
 
-[78 FR 37678, June 21, 2013, as amended at 81 FR 67739, Sept. 30, 2016]
+(d) SAM is available via *https://www.sam.gov*
+
+[78 FR 37678, June 21, 2013, as amended at 81 FR 67739, Sept. 30, 2016; 83 FR 48696, Sept. 26, 2018]

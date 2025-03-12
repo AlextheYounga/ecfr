@@ -1,5 +1,7 @@
 ##### § 989.79 Expenses. #####
 
+Link to an amendment published at 83 FR 53971, Oct. 26, 2018.
+
 The committee is authorized to incur such expenses (other than those specified in § 989.82) as the Secretary finds are reasonable and likely to be incurred by it during each crop year, for the maintenance and functioning of the committee and for such purposes as he may, pursuant to this subpart, determine to be appropriate. The funds to cover such expenses shall be obtained levying assessments as provided in § 989.80. The committee shall file with the Secretary for each crop year a proposed budget of these expenses and a proposal as to the assessment rate to be fixed pursuant to § 989.80, together with a report thereon. Such filing shall be not later than October 5 of the crop year, but this date may be extended by the committee not more than 5 days if warranted by a late crop. Also it shall file at the same time a proposed budget of the expenses likely to be incurred during the crop year in connection with reserve raisins held for the account of the committee, exclusive of the receiving, storing, fumigating, and handling expenses which are covered by a schedule of payments to handlers effective pursuant to § 989.66(f) or any rules and procedures established by the committee, and exclusive of any expenses it may incur in connection with the disposition of such raisins and which are unknown at the time. The said report shall also cover this proposed budget.
 
 [32 FR 12165, Aug. 24, 1967, as amended at 41 FR 32417, Aug. 3, 1976; 42 FR 37202, July 20, 1977]

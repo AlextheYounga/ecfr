@@ -1,12 +1,10 @@
 ##### 52.209-9 Updates of Publicly Available Information Regarding Responsibility Matters. #####
 
-Link to an amendment published at 83 FR 48699, Sept. 26, 2018.
-
 As prescribed at 9.104-7(c), insert the following clause:
 
-Updates of Publicly Available Information Regarding Responsibility Matters (JUL 2013)
+Updates of Publicly Available Information Regarding Responsibility Matters (Oct 2018)
 
-(a) The Contractor shall update the information in the Federal Awardee Performance and Integrity Information System (FAPIIS) on a semi-annual basis, throughout the life of the contract, by posting the required information in the System for Award Management database via *https://www.acquisition.gov*
+(a) The Contractor shall update the information in the Federal Awardee Performance and Integrity Information System (FAPIIS) on a semi-annual basis, throughout the life of the contract, by posting the required information in the System for Award Management via *https://www.sam.gov*.
 
 (b) As required by section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212), all information posted in FAPIIS on or after April 15, 2011, except past performance reviews, will be publicly available. FAPIIS consists of two segments -
 
@@ -34,4 +32,4 @@ Updates of Publicly Available Information Regarding Responsibility Matters (JUL 
 
 (d) Public requests for system information posted prior to April 15, 2011, will be handled under Freedom of Information Act procedures, including, where appropriate, procedures promulgated under E.O. 12600.
 
-(End of clause)[76 FR 4191, Jan. 24, 2011, as amended at 77 FR 188, 202, Jan. 3, 2012; 77 FR 12949, Mar. 2, 2012; 78 FR 37681, June 21, 2013]
+(End of clause)[76 FR 4191, Jan. 24, 2011, as amended at 77 FR 188, 202, Jan. 3, 2012; 77 FR 12949, Mar. 2, 2012; 78 FR 37681, June 21, 2013; 83 FR 48699, Sept. 26, 2018]

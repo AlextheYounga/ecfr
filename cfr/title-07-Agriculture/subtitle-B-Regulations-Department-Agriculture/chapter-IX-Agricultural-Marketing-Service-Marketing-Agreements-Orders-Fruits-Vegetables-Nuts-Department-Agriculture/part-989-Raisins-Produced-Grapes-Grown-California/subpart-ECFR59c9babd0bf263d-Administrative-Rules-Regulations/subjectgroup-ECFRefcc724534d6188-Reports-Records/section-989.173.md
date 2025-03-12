@@ -1,5 +1,7 @@
 ##### § 989.173 Reports. #####
 
+Link to an amendment published at 83 FR 53973, Oct. 26, 2018.
+
 (a) *Inventory reports.* Each handler shall submit to the Committee as of the close of business on July 31 of each crop year, and not later than the following August 6, an inventory report which shall show, with respect to each varietal type of raisins held by such handler: *Provided*, That, for the Other Seedless varietal type, handlers shall report the information required in this paragraph separately for the different types of Other Seedless raisins:
 
 (1) The quantity of free tonnage raisins, segregated as to locations where they are stored and whether they are natural condition or packed;

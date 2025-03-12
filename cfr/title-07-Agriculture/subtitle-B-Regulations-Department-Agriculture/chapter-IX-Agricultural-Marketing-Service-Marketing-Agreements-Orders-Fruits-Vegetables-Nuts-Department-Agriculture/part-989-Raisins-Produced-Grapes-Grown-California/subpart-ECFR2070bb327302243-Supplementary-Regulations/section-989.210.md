@@ -1,5 +1,7 @@
 ##### § 989.210 Handling of varietal types of raisins acquired pursuant to a weight dockage system. #####
 
+Link to an amendment published at 83 FR 53973, Oct. 26, 2018.
+
 (a) *General.* A handler may acquire as standard raisins lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, Sultana, Zante Currant, Muscat (including other raisins with seeds), and Other Seedless-Sulfured raisins under the weight dockage provisions described in §§ 989.212 and 989.213. The creditable weight of each lot of raisins acquired in this manner shall be that obtained by multiplying the net weight of the raisins in the lot by the applicable factor(s) from the appropriate dockage table(s) included in those sections.
 
 (b) *Free and reserve tonnage percentages.* Whenever free and reserve percentages are designated for raisins of the varietal types specified in paragraph (a) of this section for a crop year, such percentages shall be applicable to the creditable weight of any lot of such raisins acquired by a handler pursuant to a weight dockage system.

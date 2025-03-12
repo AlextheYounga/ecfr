@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 83 FR 48699, Sept. 26, 2018.Link to an amendment published at 83 FR 48701, Sept. 26, 2018.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (AUG 2018)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (Oct 2018)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -26,7 +24,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (3) 52.203-15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.)
 
-\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2016) (Pub. L. 109-282) (31 U.S.C. 6101 note).
+\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note).
 
 \_\_ (5) [Reserved]
 
@@ -36,7 +34,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (8) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (Oct 2015) (31 U.S.C. 6101 note).
 
-\_\_ (9) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (JUL 2013) (41 U.S.C. 2313).
+\_\_ (9) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (Oct 2018) (41 U.S.C. 2313).
 
 \_\_ (10) [Reserved]
 
@@ -62,7 +60,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (iii) *Alternate II* (MAR 2004) of 52.219-7.
 
-\_\_ (16) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)).
+\_\_ (16) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)).
 
 \_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (AUG 2018) (15 U.S.C. 637(d)(4)).
 
@@ -175,7 +173,7 @@ Disabilities (JUL 2014) (29 U.S.C. 793).
 
 \_\_ (54) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
 
-\_\_ (55) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (JUL 2013) (31 U.S.C. 3332).
+\_\_ (55) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (Oct 2018) (31 U.S.C. 3332).
 
 \_\_ (56) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
 
@@ -213,8 +211,6 @@ Disabilities (JUL 2014) (29 U.S.C. 793).
 
 \_\_ (10) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792).
 
-\_\_ (11) 52.237-11, Accepting and Dispensing of $1 Coin (SEP 2008) (31 U.S.C. 5112(p)(1)).
-
 (d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, and does not contain the clause at 52.215-2, Audit and Records - Negotiation.
 
 (1) The Comptroller General of the United States, or an authorized representative of the Comptroller General, shall have access to and right to examine any of the Contractor's directly pertinent records involving transactions related to this contract.
@@ -231,8 +227,7 @@ Disabilities (JUL 2014) (29 U.S.C. 793).
 
 (iii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
 
-(iv) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities.
-If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(iv) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (v) 52.222-17, Nondisplacement of Qualified Workers (MAY 2014) (E.O. 13495). Flow down required in accordance with paragraph (l) of FAR clause 52.222-17.
 
@@ -280,7 +275,7 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (AUG 2018). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (Oct 2018). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -300,8 +295,7 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 (C) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
 
-(D) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities.
-If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(D) 52.219-8, Utilization of Small Business Concerns (Oct 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (E) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 

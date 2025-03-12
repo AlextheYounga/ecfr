@@ -1,5 +1,7 @@
 ##### § 989.73 Reports. #####
 
+Link to an amendment published at 83 FR 53971, Oct. 26, 2018.
+
 (a) *Inventory reports.* Each handler shall, upon request of the committee, file promptly with the committee a certified report, showing such information as the committee shall specify with respect to any raisins which were held by him on a date designated by the committee, which information as specified may include, but not be limited to:
 
 (1) The quantity of any raisins so held, segregated as to varietal type, natural condition, packed, standard quality or off-grade quality; and

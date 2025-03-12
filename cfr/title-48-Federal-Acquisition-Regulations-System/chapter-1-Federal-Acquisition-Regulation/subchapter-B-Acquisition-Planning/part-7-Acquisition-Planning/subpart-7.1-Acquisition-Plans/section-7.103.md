@@ -1,7 +1,5 @@
 ##### 7.103 Agency-head responsibilities. #####
 
-Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
-
 The agency head or a designee shall prescribe procedures for -
 
 (a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (41 U.S.C. 3306(a)(1)).
@@ -44,7 +42,7 @@ The agency head or a designee shall prescribe procedures for -
 
 (2) Comply with the policy in 11.002(d) regarding procurement of biobased products, products containing recovered materials, environmentally preferable products and services (including Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, nontoxic or low-toxic alternatives), ENERGY STAR® and Federal Energy Management Program-designated products, renewable energy, water-efficient products, non-ozone-depleting products, and products and services that minimize or eliminate, when feasible, the use, release, or emission of high global warming potential hydrofluorocarbons, such as by using reclaimed instead of virgin hydrofluorocarbons;
 
-(3) Comply with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings. The Guiding Principles can be accessed at *https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings* and
+(3) Comply with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings. The Guiding Principles can be accessed at *https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings*; and
 
 (4) Require contractor compliance with Federal environmental requirements, when the contractor is operating Government-owned facilities or vehicles, to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles.
 
@@ -68,6 +66,6 @@ The agency head or a designee shall prescribe procedures for -
 
 (x) Encouraging agency planners to consider the use of a project labor agreement (see subpart 22.5).
 
-(y) Ensuring that contracting officers consult the Disaster Response Registry via *https://www.acquisition.gov*as a part of acquisition planning for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas. (See 26.205).
+(y) Ensuring that contracting officers consult the Disaster Response Registry via *https://www.sam.gov,* Search Records, Advanced Search, Disaster Response Registry Search as a part of acquisition planning for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas. (See 26.205).
 
-[48 FR 42124, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 7.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42124, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 7.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

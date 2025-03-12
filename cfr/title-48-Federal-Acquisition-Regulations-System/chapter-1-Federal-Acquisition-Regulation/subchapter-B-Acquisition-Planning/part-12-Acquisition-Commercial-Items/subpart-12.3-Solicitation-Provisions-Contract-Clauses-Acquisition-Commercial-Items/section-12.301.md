@@ -1,7 +1,5 @@
 ##### 12.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
-Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
-
 (a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial items shall, to the maximum extent practicable, include only those clauses -
 
 (1) Required to implement provisions of law or executive orders applicable to the acquisition of commercial items; or
@@ -36,23 +34,27 @@ Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
 
 (d) *Other required provisions and clauses.* Notwithstanding prescriptions contained elsewhere in the FAR, when acquiring commercial items, contracting officers shall be required to use only those provisions and clauses prescribed in this part. The provisions and clauses prescribed in this part shall be revised, as necessary, to reflect the applicability of statutes and executive orders to the acquisition of commercial items.
 
-(1) Insert the provision at 52.204-16, Commercial and Government Entity Code Reporting, when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation.
+(1) Insert the provision at 52.204-7, System for Award Management, as prescribed in 4.1105(a).
 
-(2) Insert the clause at 52.204-18, Commercial and Government Entity Code Maintenance, when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation.
+(2) Insert the clause at 52.204-13, System for Award Management Maintenance, as prescribed in 4.1105(b).
 
-(3) Insert the clause at 52.204-21, Basic Safeguarding of Covered Contractor Information Systems, in solicitations and contracts (except for acquisitions of COTS items), as prescribed in 4.1903.
+(3) Insert the provision at 52.204-16, Commercial and Government Entity Code Reporting, as prescribed in 4.1804(a).
 
-(4) Insert the provision at 52.207-6, Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts), as prescribed at 7.107-6.
+(4) Insert the clause at 52.204-18, Commercial and Government Entity Code Maintenance, as prescribed in 4.1804(c).
 
-(5) Insert the provision at 52.209-7, Information Regarding Responsibility Matters, as prescribed in 9.104-7(b).
+(5) Insert the clause at 52.204-21, Basic Safeguarding of Covered Contractor Information Systems, in solicitations and contracts (except for acquisitions of COTS items), as prescribed in 4.1903.
 
-(6) Insert the provision at 52.209-12, Certification Regarding Tax Matters, as prescribed at 9.104-7(e).
+(6) Insert the provision at 52.207-6, Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts), as prescribed at 7.107-6.
 
-(7) Insert the provision at 52.222-56, Certification Regarding Trafficking in Persons Compliance Plan, in solicitations as prescribed at 22.1705(b).
+(7) Insert the provision at 52.209-7, Information Regarding Responsibility Matters, as prescribed in 9.104-7(b).
 
-(8) Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4.
+(8) Insert the provision at 52.209-12, Certification Regarding Tax Matters, as prescribed at 9.104-7(e).
 
-(9) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
+(9) Insert the provision at 52.222-56, Certification Regarding Trafficking in Persons Compliance Plan, in solicitations as prescribed at 22.1705(b).
+
+(10) Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4.
+
+(11) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
 
 (e) *Discretionary use of FAR provisions and clauses.* The contracting officer may include in solicitations and contracts by addendum other FAR provisions and clauses when their use is consistent with the limitations contained in 12.302. For example:
 
@@ -62,8 +64,8 @@ Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
 
 (3) The contracting officer may use the provisions and clauses contained in Part 23 regarding the use of products containing recovered materials and biobased products when appropriate for the item being acquired.
 
-(4) When setting aside under the Stafford Act (Subpart 26.2), include the provision at 52.226-3, Disaster or Emergency Area Representation, in the solicitation. The representation in this provision is not in the System for Award Management database.
+(4) When setting aside under the Stafford Act (Subpart 26.2), include the provision at 52.226-3, Disaster or Emergency Area Representation, in the solicitation. The representation in this provision is not in the System for Award Management.
 
 (f) Agencies may supplement the provisions and clauses prescribed in this part (to require use of additional provisions and clauses) only as necessary to reflect agency unique statutes applicable to the acquisition of commercial items or as may be approved by the agency senior procurement executive, or the individual responsible for representing the agency on the FAR Council, without power of delegation.
 
-[60 FR 48241, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 12.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[60 FR 48241, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 12.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

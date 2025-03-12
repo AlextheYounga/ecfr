@@ -1,10 +1,8 @@
 ##### 52.209-7 Information Regarding Responsibility Matters. #####
 
-Link to an amendment published at 83 FR 48699, Sept. 26, 2018.
-
 As prescribed at 9.104-7(b), insert the following provision:
 
-Information Regarding Responsibility Matters (JUL 2013)
+Information Regarding Responsibility Matters (Oct 2018)
 
 (a) *Definitions.* As used in this provision -
 
@@ -38,6 +36,6 @@ Information Regarding Responsibility Matters (JUL 2013)
 
 (2) If the offeror has been involved in the last five years in any of the occurrences listed in (c)(1) of this provision, whether the offeror has provided the requested information with regard to each occurrence.
 
-(d) The offeror shall post the information in paragraphs (c)(1)(i) through (c)(1)(iv) of this provision in FAPIIS as required through maintaining an active registration in the System for Award Management database via *https://www.acquisition.gov* (see 52.204-7).
+(d) The offeror shall post the information in paragraphs (c)(1)(i) through (c)(1)(iv) of this provision in FAPIIS as required through maintaining an active registration in the System for Award Management, which can be accessed via *https://www.sam.gov* (see 52.204-7).
 
-(End of provision)[75 FR 14067, Mar. 23, 2010, as amended at 76 FR 4190, Jan. 24, 2011; 77 FR 188, Jan. 3, 2012; 78 FR 37681, June 21, 2013]
+(End of provision)[75 FR 14067, Mar. 23, 2010, as amended at 76 FR 4190, Jan. 24, 2011; 77 FR 188, Jan. 3, 2012; 78 FR 37681, June 21, 2013; 83 FR 48699, Sept. 26, 2018]

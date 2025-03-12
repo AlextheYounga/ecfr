@@ -1,5 +1,7 @@
 ##### § 201.40 Exemptions to prohibition against circumvention. #####
 
+Link to an amendment published at 83 FR 54028, October 26, 2018.
+
 (a) *General.* This section prescribes the classes of copyrighted works for which the Librarian of Congress has determined, pursuant to 17 U.S.C. 1201(a)(1)(C) and (D), that noninfringing uses by persons who are users of such works are, or are likely to be, adversely affected. The prohibition against circumvention of technological measures that control access to copyrighted works set forth in 17 U.S.C. 1201(a)(1)(A) shall not apply to such users of the prescribed classes of copyrighted works.
 
 (b) *Classes of copyrighted works.* Pursuant to the authority set forth in 17 U.S.C. 1201(a)(1)(C) and (D), and upon the recommendation of the Register of Copyrights, the Librarian has determined that the prohibition against circumvention of technological measures that effectively control access to copyrighted works set forth in 17 U.S.C. 1201(a)(1)(A) shall not apply to persons who engage in noninfringing uses of the following classes of copyrighted works:

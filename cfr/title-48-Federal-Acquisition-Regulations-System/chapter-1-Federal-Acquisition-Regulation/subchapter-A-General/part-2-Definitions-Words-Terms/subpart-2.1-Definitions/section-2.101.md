@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -712,11 +710,11 @@ Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
 
 *Recovered material* means waste materials and by-products recovered or diverted from solid waste, but the term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process. For use in subpart 11.3 for paper and paper products, see the definition at 11.301.
 
-*Registered in the System for Award Management (SAM) database* means that -
+*Registered in the System for Award Management (SAM)* means that -
 
-(1) The Contractor has entered all mandatory information, including the unique entity identifier and the Electronic Funds Transfer indicator (if applicable), the Commercial and Government Entity (CAGE) code, as well as data required by the Federal Funding Accountability and Transparency Act of 2006 (see subpart 4.14), into the SAM database;
+(1) The Contractor has entered all mandatory information, including the unique entity identifier and the Electronic Funds Transfer indicator (if applicable), the Commercial and Government Entity (CAGE) code, as well as data required by the Federal Funding Accountability and Transparency Act of 2006 (see subpart 4.14), into SAM;
 
-(2) The Contractor has completed the Core, Assertions, Representations and Certifications, and Points of Contact sections of the registration in the SAM database;
+(2) The Contractor has completed the Core, Assertions, Representations and Certifications, and Points of Contact sections of the registration in SAM;
 
 (3) The Government has validated all mandatory data fields, to include validation of the Taxpayer Identification Number (TIN) with the Internal Revenue Service (IRS). The contractor will be required to provide consent for TIN validation to the Government as a part of the SAM registration process; and
 
@@ -1024,4 +1022,4 @@ Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
 
 *Writing* or *written* (see “in writing”).
 
-[66 FR 2118, Jan. 10, 2001]Editorial Note:For Federal Register citations affecting section 2.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[66 FR 2118, Jan. 10, 2001]Editorial Note:For Federal Register citations affecting section 2.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

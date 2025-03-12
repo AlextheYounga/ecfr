@@ -1,10 +1,8 @@
 ##### 52.212-4 Contract Terms and Conditions - Commercial Items. #####
 
-Link to an amendment published at 83 FR 48699, Sept. 26, 2018.
-
 As prescribed in 12.301(b)(3), insert the following clause:
 
-Contract Terms and Conditions - Commercial Items (JAN 2017)
+Contract Terms and Conditions - Commercial Items (Oct 2018)
 
 (a) *Inspection/Acceptance.* The Contractor shall only tender for acceptance those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. If repair/replacement or reperformance will not correct the defects or is not possible, the Government may seek an equitable price reduction or adequate consideration for acceptance of nonconforming supplies or services. The Government must exercise its postacceptance rights (1) within a reasonable time after the defect was discovered or should have been discovered; and (2) before any substantial change occurs in the condition of the item, unless the change is due to the defect in the item.
 
@@ -126,15 +124,7 @@ Contract Terms and Conditions - Commercial Items (JAN 2017)
 
 (s) *Order of precedence.* Any inconsistencies in this solicitation or contract shall be resolved by giving precedence in the following order: (1) the schedule of supplies/services; (2) The Assignments, Disputes, Payments, Invoice, Other Compliances, Compliance with Laws Unique to Government Contracts, and Unauthorized Obligations paragraphs of this clause; (3) the clause at 52.212-5; (4) addenda to this solicitation or contract, including any license agreements for computer software; (5) solicitation provisions if this is a solicitation; (6) other paragraphs of this clause; (7) the Standard Form 1449; (8) other documents, exhibits, and attachments; and (9) the specification.
 
-(t) *System for Award Management (SAM)* (1) Unless exempted by an addendum to this contract, the Contractor is responsible during performance and through final payment of any contract for the accuracy and completeness of the data within the SAM database, and for any liability resulting from the Government's reliance on inaccurate or incomplete data. To remain registered in the SAM database after the initial registration, the Contractor is required to review and update on an annual basis from the date of initial registration or subsequent updates its information in the SAM database to ensure it is current, accurate and complete. Updating information in the SAM does not alter the terms and conditions of this contract and is not a substitute for a properly executed contractual document.
-
-(2)(i) If a Contractor has legally changed its business name, “doing business as” name, or division name (whichever is shown on the contract), or has transferred the assets used in performing the contract, but has not completed the necessary requirements regarding novation and change-of-name agreements in FAR subpart 42.12, the Contractor shall provide the responsible Contracting Officer a minimum of one business day's written notification of its intention to (A) change the name in the SAM database; (B) comply with the requirements of subpart 42.12; and (C) agree in writing to the timeline and procedures specified by the responsible Contracting Officer. The Contractor must provide with the notification sufficient documentation to support the legally changed name.
-
-(ii) If the Contractor fails to comply with the requirements of paragraph (t)(2)(i) of this clause, or fails to perform the agreement at paragraph (t)(2)(i)(C) of this clause, and, in the absence of a properly executed novation or change-of-name agreement, the SAM information that shows the Contractor to be other than the Contractor indicated in the contract will be considered to be incorrect information within the meaning of the “Suspension of Payment” paragraph of the electronic funds transfer (EFT) clause of this contract.
-
-(3) The Contractor shall not change the name or address for EFT payments or manual payments, as appropriate, in the SAM record to reflect an assignee for the purpose of assignment of claims (see Subpart 32.8, Assignment of Claims). Assignees shall be separately registered in the SAM database. Information provided to the Contractor's SAM record that indicates payments, including those made by EFT, to an ultimate recipient other than that Contractor will be considered to be incorrect information within the meaning of the “Suspension of payment” paragraph of the EFT clause of this contract.
-
-(4) Offerors and Contractors may obtain information on registration and annual confirmation requirements via SAM accessed through *https://www.acquisition.gov.*
+(t) [Reserved]
 
 (u) *Unauthorized Obligations.* (1) Except as stated in paragraph (u)(2) of this clause, when any supply or service acquired under this contract is subject to any End User License Agreement (EULA), Terms of Service (TOS), or similar legal instrument or agreement, that includes any clause requiring the Government to indemnify the Contractor or any person or entity for damages, costs, fees, or any other loss or liability that would create an Anti-Deficiency Act violation (31 U.S.C. 1341), the following shall govern:
 

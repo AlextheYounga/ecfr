@@ -1,10 +1,8 @@
 ##### 52.212-1 Instructions to Offerors - Commercial Items. #####
 
-Link to an amendment published at 83 FR 48699, Sept. 26, 2018.
-
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (AUG 2018)
+Instructions to Offerors - Commercial Items (Oct 2018)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code and small business size standard for this acquisition appear in Block 10 of the solicitation cover sheet (SF 1449). However, the small business size standard for a concern which submits an offer in its own name, but which proposes to furnish an item which it did not itself manufacture, is 500 employees.
 
@@ -82,9 +80,9 @@ Instructions to Offerors - Commercial Items (AUG 2018)
 
 (4) Nongovernment (voluntary) standards must be obtained from the organization responsible for their preparation, publication, or maintenance.
 
-(j) *Unique entity identifier.* (Applies to all offers exceeding $3,500, and offers of $3,500 or less if the solicitation requires the Contractor to be registered in the System for Award Management (SAM) database.) The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address. The Offeror also shall enter its Electronic Funds Transfer (EFT) indicator, if applicable. The EFT indicator is a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the Offeror to establish additional SAM records for identifying alternative EFT accounts (see subpart 32.11) for the same entity. If the Offeror does not have a unique entity identifier, it should contact the entity designated at *www.sam.gov* for unique entity identifier establishment directly to obtain one. The Offeror should indicate that it is an offeror for a Government contract when contacting the entity designated at *www.sam.gov* for establishing the unique entity identifier.
+(j) *Unique entity identifier.* (Applies to all offers exceeding $3,500, and offers of $3,500 or less if the solicitation requires the Contractor to be registered in the System for Award Management (SAM).) The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address. The Offeror also shall enter its Electronic Funds Transfer (EFT) indicator, if applicable. The EFT indicator is a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the Offeror to establish additional SAM records for identifying alternative EFT accounts (see subpart 32.11) for the same entity. If the Offeror does not have a unique entity identifier, it should contact the entity designated at *www.sam.gov* for unique entity identifier establishment directly to obtain one. The Offeror should indicate that it is an offeror for a Government contract when contacting the entity designated at *www.sam.gov* for establishing the unique entity identifier.
 
-(k) *System for Award Management.* Unless exempted by an addendum to this solicitation, by submission of an offer, the offeror acknowledges the requirement that a prospective awardee shall be registered in the SAM database prior to award, during performance and through final payment of any contract resulting from this solicitation. If the Offeror does not become registered in the SAM database in the time prescribed by the Contracting Officer, the Contracting Officer will proceed to award to the next otherwise successful registered Offeror. Offerors may obtain information on registration and annual confirmation requirements via the SAM database accessed through *https://www.acquisition.gov.*
+(k) [Reserved]
 
 (l) *Debriefing.* If a post-award debriefing is given to requesting offerors, the Government shall disclose the following information, if applicable:
 
@@ -100,4 +98,4 @@ Instructions to Offerors - Commercial Items (AUG 2018)
 
 (6) Reasonable responses to relevant questions posed by the debriefed offeror as to whether source-selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency.
 
-(End of provision)[60 FR 48251, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(End of provision)[60 FR 48251, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

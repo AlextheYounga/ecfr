@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 83 FR 48700, Sept. 26, 2018.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AUG 2018)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (Oct 2018)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -42,13 +40,13 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AU
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (AUG 2018).
+(viii) 52.244-6, Subcontracts for Commercial Items (Oct 2018).
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 
 (1) The clauses listed below implement provisions of law or Executive order:
 
-(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2016) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at $30,000 or more).
+(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Oct 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at $30,000 or more).
 
 (ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (Jan 2018) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold).
 
@@ -98,7 +96,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AU
 
 (xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792) (Applies to contracts greater than $25,000 that provide for the provision, the service, or the sale of food in the United States).
 
-(xix) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (JUL 2013) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) database as its source of EFT information.)
+(xix) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (Oct 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
 
 (xx) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 

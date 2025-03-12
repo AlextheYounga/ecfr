@@ -1,7 +1,5 @@
 ##### 1.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
-
 The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by the OMB. The following OMB control numbers apply:
 
 |   FAR segment    |              OMB control No.              |
@@ -112,10 +110,8 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |     52.211-7     |                 9000-0153                 |
 |     52.211-8     |                 9000-0043                 |
 |     52.211-9     |                 9000-0043                 |
-|   52.212-1(k)    |                 9000-0159                 |
 |     52.212-3     |                 9000-0136                 |
 |   52.212-3(h)    |                 9000-0094                 |
-|   52.212-4(t)    |                 9000-0159                 |
 |     52.212-5     |                 9000-0034                 |
 |    52.214-14     |                 9000-0047                 |
 |    52.214-15     |                 9000-0044                 |
@@ -347,4 +343,4 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |     SF 1445      |                 9000-0089                 |
 |     SF 1446      |                 9000-0089                 |
 
-[59 FR 67065, Dec. 28, 1994. Redesignated at 60 FR 34733, 34736, July 3, 1995]Editorial Note:For Federal Register citations affecting section 1.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[59 FR 67065, Dec. 28, 1994. Redesignated at 60 FR 34733, 34736, July 3, 1995]Editorial Note:For Federal Register citations affecting section 1.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

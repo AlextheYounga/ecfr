@@ -1,5 +1,7 @@
 ##### § 989.56 Raisin diversion program. #####
 
+Link to an amendment published at 83 FR 53969, Oct. 26, 2018.
+
 (a) *Announcement of program.* On or before November 30 of each crop year, the committee shall hold a meeting to review production data, supply data, demand data, including anticipated demand to all potential market outlets, desirable carryout inventory, and other matters relating to the quantity of raisins of all varietal types. When the committee determines that raisins exist in the reserve pool in excess of projected market needs for any varietal type, it may announce the amount of such tonnage eligible for diversion during the subsequent crop year. At the same time, the committee shall determine and announce to producers, handlers, and the cooperative bargaining association(s) the allowable harvest cost to be applicable to such diversion tonnage. A production cap of 2.75 tons of raisins per acre shall be established for any production unit approved for participation in a diversion program. The committee, with the approval of the Secretary, may recommend, at the same time that the diversion tonnage for that season is announced, a change in the production cap for that season's diversion program of less than 2.75 tons per acre for any production unit approved for the diversion program.
 
 (b) *Voluntary diversion.* No producer shall be required to participate in any raisin diversion program.

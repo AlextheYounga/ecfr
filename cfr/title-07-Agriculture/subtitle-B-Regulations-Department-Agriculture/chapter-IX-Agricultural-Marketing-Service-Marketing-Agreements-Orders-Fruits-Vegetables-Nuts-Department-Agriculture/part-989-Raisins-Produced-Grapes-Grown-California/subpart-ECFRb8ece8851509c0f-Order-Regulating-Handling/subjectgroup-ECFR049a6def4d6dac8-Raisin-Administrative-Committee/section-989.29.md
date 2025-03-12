@@ -1,5 +1,7 @@
 ##### § 989.29 Initial members and nomination of successor members. #####
 
+Link to an amendment published at 83 FR 53968, Oct. 26, 2018.
+
 (a) *Initial members.* Members and alternate members of the Committee serving immediately prior to the effective date of this amended subpart shall, if thereafter they are eligible, serve on the Committee until April 30, 1984, and until their respective successors have been selected and qualified.
 
 (b) *Nominations for successor members.* Nominations for successor

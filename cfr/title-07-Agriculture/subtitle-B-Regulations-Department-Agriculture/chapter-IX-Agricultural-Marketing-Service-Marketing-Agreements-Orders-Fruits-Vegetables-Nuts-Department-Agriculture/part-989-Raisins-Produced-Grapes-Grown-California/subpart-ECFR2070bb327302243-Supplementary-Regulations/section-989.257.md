@@ -1,5 +1,7 @@
 ##### § 989.257 Final free and reserve percentages. #####
 
+Link to an amendment published at 83 FR 53973, Oct. 26, 2018.
+
 (a) The final percentages for the respective varietal type(s) of raisins acquired by handlers during the crop year beginning August 1, which shall be free tonnage and reserve tonnage, respectively, are designated as follows:
 
 |Crop year|       Varietal type        |Free  <br/>percentage|Reserve  <br/>percentage|

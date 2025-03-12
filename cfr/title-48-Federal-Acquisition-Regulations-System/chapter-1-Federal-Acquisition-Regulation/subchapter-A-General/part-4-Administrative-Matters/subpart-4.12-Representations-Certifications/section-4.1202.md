@@ -1,8 +1,6 @@
 ##### 4.1202 Solicitation provision and contract clause. #####
 
-Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
-
-(a) Except for commercial item solicitations issued under FAR part 12, insert in solicitations the provision at 52.204-8, Annual Representations and Certifications. The contracting officer shall check the applicable provisions at 52.204-8(c)(2). When the provision at 52.204-7, System for Award Management, is included in the solicitation, do not include the following representations and certifications:
+(a) Insert the provision at 52.204-8, Annual Representations and Certifications, in solicitations, except for commercial item solicitations issued under FAR part 12. The contracting officer shall check the applicable provisions at 52.204-8(c)(2). When the provision at 52.204-7, System for Award Management, is included in the solicitation, do not separately include the following representations and certifications:
 
 (1) 52.203-2, Certificate of Independent Price Determination.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
 
 (b) The contracting officer shall insert the clause at 52.204-19, Incorporation by Reference of Representations and Certifications, in solicitations and contracts.
 
-[69 FR 76345, Dec. 20, 2004]Editorial Note:For Federal Register citations affecting section 4.1202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[69 FR 76345, Dec. 20, 2004]Editorial Note:For Federal Register citations affecting section 4.1202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

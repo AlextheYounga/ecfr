@@ -1,10 +1,8 @@
 ##### 52.219-8 Utilization of Small Business Concerns. #####
 
-Link to an amendment published at 83 FR 48700, Sept. 26, 2018.
-
 As prescribed in 19.708(a), insert the following clause:
 
-Utilization of Small Business Concerns (NOV 2016)
+Utilization of Small Business Concerns (Oct 2018)
 
 (a) *Definitions.* As used in this contract -
 
@@ -60,7 +58,7 @@ Utilization of Small Business Concerns (NOV 2016)
 
 (4) In accordance with 13 CFR 121.411, 124.1015, 125.29, 126.900, and 127.700, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
 
-(5) The Contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing the System for Award Management database or by contacting the SBA. Options for contacting the SBA include -
+(5) The Contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing the System for Award Management or by contacting the SBA. Options for contacting the SBA include -
 
 (i) HUBZone small business database search application Web page at *http://dsbs.sba.gov/dsbs/search/dsp\_searchhubzone.cfm;* or *http://www.sba.gov/hubzone;*
 
@@ -68,4 +66,4 @@ Utilization of Small Business Concerns (NOV 2016)
 
 (iii) The SBA HUBZone Help Desk at *hubzone@sba.gov.*
 
-(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 64 FR 3196, Jan. 20, 1999; 64 FR 10549, Mar. 4, 1999; 64 FR 32749, June 17, 1999; 64 FR 36224, July 2, 1999; 65 FR 60546, Oct. 11, 2000; 69 FR 25279, May 5, 2004; 75 FR 77739, Dec. 13, 2010; 75 FR 77733, Dec. 13, 2010; 78 FR 37683, June 21, 2013; 79 FR 24217, Apr. 29, 2014; 79 FR 61753, Oct. 14, 2014; 81 FR 45846, July 14, 2016]
+(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 64 FR 3196, Jan. 20, 1999; 64 FR 10549, Mar. 4, 1999; 64 FR 32749, June 17, 1999; 64 FR 36224, July 2, 1999; 65 FR 60546, Oct. 11, 2000; 69 FR 25279, May 5, 2004; 75 FR 77739, Dec. 13, 2010; 75 FR 77733, Dec. 13, 2010; 78 FR 37683, June 21, 2013; 79 FR 24217, Apr. 29, 2014; 79 FR 61753, Oct. 14, 2014; 81 FR 45846, July 14, 2016; 83 FR 48700, Sept. 26, 2018]
