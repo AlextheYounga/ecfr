@@ -16,7 +16,7 @@
 
 (iv) Is for payment for the provision of property or services which the person has not provided as claimed -
 
-Shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $10,957 for each such claim.
+Shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,181 for each such claim.
 
 (2) Each voucher, invoice, claim form, or other individual request or demand for property, services, or money constitutes a separate claim.
 
@@ -36,7 +36,7 @@ Shall be subject, in addition to any other remedy that may be prescribed by law,
 
 (ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement -
 
-Shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $10,957 for each such statement.
+Shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,181 for each such statement.
 
 (2) Each written representation, certification, or affirmation constitutes a separate statement.
 
@@ -48,4 +48,4 @@ Shall be subject, in addition to any other remedy that may be prescribed by law,
 
 (e) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of such persons.
 
-[52 FR 39498, Oct. 22, 1987, as amended at 54 FR 599, Jan. 9, 1989; 82 FR 28763, June 26, 2017; 82 FR 48762, Oct. 20, 2017]
+[52 FR 39498, Oct. 22, 1987, as amended at 54 FR 599, Jan. 9, 1989; 82 FR 28763, June 26, 2017; 82 FR 48762, Oct. 20, 2017; 83 FR 2046, Jan. 16, 2018]
