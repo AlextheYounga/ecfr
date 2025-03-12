@@ -1,7 +1,5 @@
 ##### § 524.920 Fenthion. #####
 
-Link to an amendment published at 84 FR 32993, July 11, 2019.
-
 (a) *Specifications.* (1) The drug is a liquid containing:
 
 (i) 3 percent of fenthion; or
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 32993, July 11, 2019.
 
 (3) No. 000859 for use of products described in paragraph (a)(2) as in paragraph (d)(3) of this section.
 
-(c) *Related tolerances.* See 40 CFR 180.214.
+(c) *Related tolerances.* See § 556.280 of this chapter.
 
 (d) *Conditions of use* - (1) *Beef cattle and nonlactating dairy cattle* - (i) *Amount.* It is used at the rate of one-half fluid ounce per 100 pounds of body weight applied topically on the backline of the animal. Only one application per season should be made for grub control and this will also provide initial control of lice. A second application for lice control may be made if animals become reinfested, but no sooner than 35 days after the first treatment. Proper timing of treatment is important for grub control; cattle should be treated as soon as possible after heel-fly activity ceases.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 84 FR 32993, July 11, 2019.
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 10968, Feb. 27, 2014]
+[79 FR 10968, Feb. 27, 2014, as amended at 84 FR 32993, July 11, 2019]

@@ -1,7 +1,5 @@
 ##### § 558.630 Tylosin and sulfamethazine. #####
 
-Link to an amendment published at 84 FR 33002, July 11, 2019.
-
 (a) *Specifications.* Type A medicated articles containing equal amounts of tylosin phosphate and sulfamethazine, available in concentrations of 5, 10, 20, or 40 grams each, per pound.
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 33002, July 11, 2019.
 
 (2) No. 054771: 10 or 40 grams per pound each for use as in paragraph (e)(2) of this section.
 
-(c) *Related tolerances.* See §§ 556.670 and 556.740 of this chapter.
+(c) *Related tolerances.* See §§ 556.670 and 556.746 of this chapter.
 
 (d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
 
@@ -25,4 +23,4 @@ Link to an amendment published at 84 FR 33002, July 11, 2019.
 |                     (1) 100 each                      |                        |For reduction in the severity of effects of atrophic rhinitis; lowering the incidence and severity of Bordetella bronchiseptica rhinitis; prevention of swine dysentery associated with Brachyspira hyodysenteriae; control of swine pneumonias caused by bacterial pathogens (Pasteurella multocida and/or Arcanobacterium pyogenes); reducing the incidence of cervical lymphadenitis (jowl abscesses) caused by Group E Streptococci. Only the sulfamethazine portion of this combination is active in controlling jowl abscesses|Withdraw 15 days before swine are slaughtered| 058198 |
 |                     (2) 100 each                      |                        |                                                                                             For reduction in the severity of effects of atrophic rhinitis; lowering the incidence and severity of Bordetella bronchiseptica rhinitis; prevention of swine dysentery associated with Brachyspira hyodysenteriae; and control of swine pneumonias caused by bacterial pathogens (Pasteurella multocida and/or Arcanobacterium pyogenes)                                                                                              |Withdraw 15 days before swine are slaughtered| 054771 |
 
-[81 FR 95021, Dec. 27, 2016]
+[81 FR 95021, Dec. 27, 2016, as amended at 84 FR 33002, July 11, 2019]

@@ -1,7 +1,5 @@
 ##### § 522.2640 Tylosin. #####
 
-Link to an amendment published at 84 FR 32992, July 11, 2019.
-
 (a) *Specifications.* Each milliliter (mL) of solution contains 50 or 200 milligrams (mg) of tylosin activity (as tylosin base).
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (2) Nos. 000010 and 061133 for use of a 200-mg/mL solution as in paragraphs (e)(1) and (2) of this section.
 
-(c) *Related tolerances.* See § 556.740 of this chapter.
+(c) *Related tolerances.* See § 556.746 of this chapter.
 
 (d) *Special considerations.* Labeling must bear the warning statements: “Do not administer to horses or other equines. Injection of tylosin in equines has been fatal.”
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[81 FR 67151, Sept. 30, 2016, as amended at 84 FR 8974, Mar. 13, 2019]
+[81 FR 67151, Sept. 30, 2016, as amended at 84 FR 8974, Mar. 13, 2019; 84 FR 32992, July 11, 2019]

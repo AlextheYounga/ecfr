@@ -1,7 +1,5 @@
 ##### § 50.54 Conditions of licenses. #####
 
-Link to an amendment published at 84 FR 39718, August 9, 2019.
-
 The following paragraphs of this section, with the exception of paragraphs (r) and (gg), and the applicable requirements of 10 CFR 50.55a, are conditions in every nuclear power reactor operating license issued under this part. The following paragraphs with the exception of paragraph (r), (s), and (u) of this section are conditions in every combined license issued under part 52 of this chapter, provided, however, that paragraphs (i) introductory text, (i)(1), (j), (k), (l), (m), (n), (w), (x), (y), (z), and (hh) of this section are only applicable after the Commission makes the finding under § 52.103(g) of this chapter.
 
 (a)(1) Each nuclear power plant or fuel reprocessing plant licensee subject to the quality assurance criteria in appendix B of this part shall implement, under § 50.34(b)(6)(ii) or § 52.79 of this chapter, the quality assurance program described or referenced in the safety analysis report, including changes to that report. However, a holder of a combined license under part 52 of this chapter shall implement the quality assurance program described or referenced in the safety analysis report applicable to operation 30 days prior to the scheduled date for the initial loading of fuel.
@@ -112,7 +110,7 @@ Minimum Requirements<sup>1</sup> Per Shift for On-Site Staffing of Nuclear Power
 
 (4) The review must include a review and audit of safeguards contingency procedures and practices, an audit of the security system testing and maintenance program, and a test of the safeguards systems along with commitments established for response by local law enforcement authorities. The results of the review and audit, along with recommendations for improvements, must be documented, reported to the licensee's corporate and plant management, and kept available at the plant for inspection for a period of 3 years.
 
-(q) *Emergency plans* - (1) Definitions for the purpose of this section:
+(q) *Emergency plans*—(1) Definitions for the purpose of this section:
 
 (i) *Change* means an action that results in modification or addition to, or removal from, the licensee's emergency plan. All such changes are subject to the provisions of this section except where the applicable regulations establish specific criteria for accomplishing a particular change.
 
@@ -264,15 +262,7 @@ A national security emergency is established by a law enacted by the Congress or
 
 (vii) Recall of site personnel.
 
-(2) Each licensee shall develop and implement guidance and strategies intended to maintain or restore core cooling, containment, and spent fuel pool cooling capabilities under the circumstances associated with loss of large areas of the plant due to explosions or fire, to include strategies in the following areas:
-
-(i) Fire fighting;
-
-(ii) Operations to mitigate fuel damage; and
-
-(iii) Actions to minimize radiological release.
-
-(3) This section does not apply to a nuclear power plant for which the certifications required under § 50.82(a) or § 52.110(a)(1) of this chapter have been submitted.
+(2) Paragraph (hh)(1) of this section does not apply to a licensee that has submitted the certifications required under § 50.82(a)(1) or § 52.110(a) of this chapter.
 
 (ii) [Reserved]
 

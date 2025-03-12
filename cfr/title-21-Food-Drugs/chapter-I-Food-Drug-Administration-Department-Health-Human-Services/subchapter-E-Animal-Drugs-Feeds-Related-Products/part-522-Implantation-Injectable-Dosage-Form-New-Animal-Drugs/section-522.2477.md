@@ -1,7 +1,5 @@
 ##### § 522.2477 Trenbolone acetate and estradiol. #####
 
-Link to an amendment published at 84 FR 32992, July 11, 2019.
-
 (a) [Reserved]
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (d) of this section.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (3) No. 054771 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(D), (d)(1)(ii), (d)(1)(iii), (d)(3)(i)(A), (d)(3)(ii), and (d)(3)(iii) of this section.
 
-(c) [Reserved]
+(c) *Related tolerances.* See §§ 556.240 and 556.739 of this chapter.
 
 (d) *Conditions of use* - (1) *Steers fed in confinement for slaughter* - (i) *Amount.* (A) 120 milligrams (mg) trenbolone acetate and 24 mg estradiol (one implant consisting of 6 pellets, each pellet containing 20 mg trenbolone acetate and 4 mg estradiol) per implant dose.
 

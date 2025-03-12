@@ -102,6 +102,4 @@ Table 4 to Paragraph (e)(4)(ii)
 
 (g) Any earth station authorizations issued pursuant to paragraph (a)(4), (c), (d)(4), or (e)(4) of this section shall be conditioned upon operation being in compliance with the criteria contained in the applicable paragraph.
 
-(h) Paragraphs (e), (f), and (g) of this section contain new or modified information-collection and recordkeeping requirements. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (h) accordingly.
-
-[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018; 83 FR 34489, July 20, 2018; 84 FR 20819, May 13, 2019]
+[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018; 83 FR 34489, July 20, 2018; 84 FR 20819, May 13, 2019; 84 FR 47147, Sept. 9, 2019]

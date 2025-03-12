@@ -122,4 +122,4 @@ Company A is the barge owner, and the barge transports corn from Minneapolis, MN
 
 (4) *Additional remedies.* Appropriate cases may also be referred to the local U.S. Attorney for prosecution, penalty collection, injunctive, and other relief by the Chief of the Waterborne Commerce Statistics Center.
 
-[56 FR 13765, Apr. 4, 1991, as amended by 84 FR 31497, July 2, 2019]
+[56 FR 13765, Apr. 4, 1991, as amended at 84 FR 31497, July 2, 2019]

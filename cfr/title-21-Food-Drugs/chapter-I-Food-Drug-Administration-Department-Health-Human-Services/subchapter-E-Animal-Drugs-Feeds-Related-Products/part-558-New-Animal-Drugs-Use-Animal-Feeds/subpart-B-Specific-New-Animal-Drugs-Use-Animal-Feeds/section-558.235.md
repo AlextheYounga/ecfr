@@ -1,10 +1,12 @@
 ##### § 558.235 Efrotomycin. #####
 
-Link to an amendment published at 84 FR 33001, July 11, 2019.Link to an amendment published at 84 FR 39185, Aug. 9, 2019.
+(a) *Specifications.* Type A medicated articles containing 14.5 grams efrotomycin per pound.
 
-(a) *Approvals.* Type A medicated article: 14.5 grams per pound to 050604 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
-(b) *Conditions of use* - (1) *Swine* - (i) *Amount.* 3.6 grams per ton.
+(c) *Related tolerances.* See § 556.224 of this chapter.
+
+(d) *Conditions of use* - (1) *Swine* - (i) *Amount.* 3.6 grams per ton.
 
 (A) *Indications for use.* For improved feed efficiency.
 
@@ -18,4 +20,4 @@ Link to an amendment published at 84 FR 33001, July 11, 2019.Link to an amendmen
 
 (2) [Reserved]
 
-[57 FR 38442, Aug. 25, 1992, as amended at 62 FR 63271, Nov. 28, 1997]
+[57 FR 38442, Aug. 25, 1992, as amended at 62 FR 63271, Nov. 28, 1997; 84 FR 33001, July 11, 2019; 84 FR 39185, Aug. 9, 2019]

@@ -1,7 +1,5 @@
 ##### § 50.34 Contents of applications; technical information. #####
 
-Link to an amendment published at 84 FR 39718, August 9, 2019.
-
 (a) *Preliminary safety analysis report.* Each application for a construction permit shall include a preliminary safety analysis report. The minimum information5 to be included shall consist of the following:
 
 5 The applicant may provide information required by this paragraph in the form of a discussion, with specific references, of similarities to and differences from, facilities of similar design for which applications have previously been filed with the Commission.
@@ -62,7 +60,7 @@ Link to an amendment published at 84 FR 39718, August 9, 2019.
 
 (12) On or after January 10, 1997, stationary power reactor applicants who apply for a construction permit, as partial conformance to General Design Criterion 2 of appendix A to this part, shall comply with the earthquake engineering criteria in appendix S to this part.
 
-(13) On or after July 13, 2009, stationary power reactor applicants who apply for a construction permit shall submit the information required by 10 CFR 50.150(b) as a part of their preliminary safety analysis report.
+(13) On or after July 13, 2009, power reactor applicants who apply for a construction permit shall submit the information required by 10 CFR 50.150(b) as a part of their preliminary safety analysis report.
 
 (b) *Final safety analysis report.* Each application for an operating license shall include a final safety analysis report. The final safety analysis report shall include information that describes the facility, presents the design bases and the limits on its operation, and presents a safety analysis of the structures, systems, and components and of the facility as a whole, and shall include the following:
 
@@ -106,7 +104,7 @@ Link to an amendment published at 84 FR 39718, August 9, 2019.
 
 (11) On or after January 10, 1997, stationary power reactor applicants who apply for an operating license, shall provide a description and safety assessment of the site and of the facility as in § 50.34(a)(1)(ii). However, for either an operating license applicant or holder whose construction permit was issued before January 10, 1997, the reactor site criteria in part 100 of this chapter and the seismic and geologic siting criteria in appendix A to part 100 of this chapter continues to apply.
 
-(12) On or after July 13, 2009, stationary power reactor applicants who apply for an operating license which is subject to 10 CFR 50.150(a) shall submit the information required by 10 CFR 50.150(b) as a part of their final safety analysis report.
+(12) On or after July 13, 2009, power reactor applicants who apply for an operating license which is subject to 10 CFR 50.150(a) shall submit the information required by 10 CFR 50.150(b) as a part of their final safety analysis report.
 
 (c) *Physical security plan.* (1) Each applicant for an operating license for a production or utilization facility that will be subject to §§ 73.50 and 73.60 of this chapter must include a physical security plan.
 
@@ -272,6 +270,6 @@ Link to an amendment published at 84 FR 39718, August 9, 2019.
 
 (3) The SRP was issued to establish criteria that the NRC staff intends to use in evaluating whether an applicant/licensee meets the Commission's regulations. The SRP is not a substitute for the regulations, and compliance is not a requirement. Applicants shall identify differences from the SRP acceptance criteria and evaluate how the proposed alternatives to the SRP criteria provide an acceptable method of complying with the Commission's regulations.
 
-(i) A description and plans for implementation of the guidance and strategies intended to maintain or restore core cooling, containment, and spent fuel pool cooling capabilities under the circumstances associated with the loss of large areas of the plant due to explosions or fire as required by § 50.54(hh)(2) of this chapter.
+(i) *Mitigation of beyond-design-basis events.* Each application for a power reactor operating license under this part must include the applicant's plans for implementing the requirements of § 50.155, including a schedule for achieving full compliance with these requirements and a description of the equipment upon which the strategies and guidelines required by § 50.155(b)(1) rely, including the planned locations of the equipment and how the equipment meets the requirements of § 50.155(c).
 
-[33 FR 18612, Dec. 17, 1968, as amended at 81 FR 86909, Dec. 2, 2016]Editorial Note:For Federal Register citations affecting § 50.34, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[33 FR 18612, Dec. 17, 1968]Editorial Note:For Federal Register citations affecting § 50.34, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 500.82 Definitions. #####
 
-Link to an amendment published at 84 FR 32992, July 11, 2019.
-
 (a) The definitions and interpretations contained in section 201 of the act apply to those terms when used in this subpart.
 
 (b) The following definitions apply to this subpart:
@@ -15,6 +13,8 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 *Limit of detection (LOD)* means the lowest concentration of analyte that can be confirmed by the approved regulatory method.
 
 *Marker residue* means the residue selected for assay whose concentration is in a known relationship to the concentration of the residue of carcinogenic concern in the last tissue to deplete to its Sm.
+
+*No residue* means the marker residue is below the limit of detection using the approved regulatory method. The “no residue” designation applies only to compounds of carcinogenic concern.
 
 *Preslaughter withdrawal period* or *milk discard time* means the time after cessation of administration of the sponsored compound at which no residue is detectable in the edible product using the approved regulatory method (i.e., the marker residue is below the LOD).
 
@@ -42,4 +42,4 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 *Threshold assessment* means FDA's review of data and information about a sponsored compound to determine whether chronic bioassays in test animals are necessary to resolve questions concerning the carcinogenicity of the compound.
 
-[52 FR 49586, Dec. 31, 1987, as amended at 67 FR 78174, Dec. 23, 2002; 77 FR 50593, Aug. 22, 2012]
+[52 FR 49586, Dec. 31, 1987, as amended at 67 FR 78174, Dec. 23, 2002; 77 FR 50593, Aug. 22, 2012; 84 FR 32992, July 11, 2019]

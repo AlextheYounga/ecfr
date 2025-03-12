@@ -1,12 +1,10 @@
 ##### § 522.468 Colistimethate sodium powder for injection. #####
 
-Link to an amendment published at 84 FR 32992, July 11, 2019.
-
 (a) *Specifications.* Each vial contains colistimethate sodium equivalent to 10 grams colistin activity and mannitol to be reconstituted with 62.5 milliliters sterile saline or sterile water for injection. The resulting solution contains colistimethate sodium equivalent to 133 milligrams per milliliter colistin activity.
 
 (b) *Sponsor.* See 054771 in § 510.600(c) of this chapter.
 
-(c) [Reserved]
+(c) *Related tolerances.* See § 556.167 of this chapter.
 
 (d) *Conditions of use.* (1) 1- to 3-day-old chickens.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (2) [Reserved]
 
-[63 FR 13123, Mar. 18, 1998, as amended at 79 FR 16185, Mar. 25, 2014]
+[63 FR 13123, Mar. 18, 1998, as amended at 79 FR 16185, Mar. 25, 2014; 84 FR 32992, July 11, 2019]

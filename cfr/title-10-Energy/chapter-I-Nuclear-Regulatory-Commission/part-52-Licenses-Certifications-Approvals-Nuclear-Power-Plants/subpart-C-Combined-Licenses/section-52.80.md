@@ -1,7 +1,5 @@
 ##### § 52.80 Contents of applications; additional technical information. #####
 
-Link to an amendment published at 84 FR 39719, Aug. 9, 2019.
-
 The application must contain:
 
 (a) The proposed inspections, tests, and analyses, including those applicable to emergency planning, that the licensee shall perform, and the acceptance criteria that are necessary and sufficient to provide reasonable assurance that, if the inspections, tests, and analyses are performed and the acceptance criteria met, the facility has been constructed and will be operated in conformity with the combined license, the provisions of the Act, and the Commission's rules and regulations.
@@ -16,6 +14,6 @@ The application must contain:
 
 (c) If the applicant wishes to request that a limited work authorization under 10 CFR 50.10 be issued before issuance of the combined license, the application must include the information otherwise required by 10 CFR 50.10, in accordance with either 10 CFR 2.101(a)(1) through (a)(4), or 10 CFR 2.101(a)(9).
 
-(d) A description and plans for implementation of the guidance and strategies intended to maintain or restore core cooling, containment, and spent fuel pool cooling capabilities under the circumstances associated with the loss of large areas of the plant due to explosions or fire as required by § 50.54(hh)(2) of this chapter.
+(d) The applicant's plans for implementing the requirements of § 50.155 of this chapter including a schedule for achieving full compliance with these requirements, and a description of the equipment upon which the strategies and guidelines required by § 50.155(b)(1) of this chapter rely, including the planned locations of the equipment and how the equipment meets the requirements of § 50.155(c) of this chapter.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57447, Oct. 9, 2007; 74 FR 13970, Mar. 27, 2009]
+[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57447, Oct. 9, 2007; 74 FR 13970, Mar. 27, 2009; 84 FR 39719, Aug. 8, 2019]

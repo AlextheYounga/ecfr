@@ -1,14 +1,12 @@
 ##### § 520.2640 Tylosin. #####
 
-Link to an amendment published at 84 FR 32992, July 11, 2019.
-
 (a) *Specifications.* Each container of soluble powder contains tylosin tartrate equivalent to either 100 or 256 grams tylosin base.
 
 (b) *Sponsors* - (1) Nos. 016592 and 058198 for use as in paragraph (e) of this section.
 
 (2) No. 061133 for use as in paragraphs (e)(1)(i)(A), (e)(1)(ii), (e)(2), (e)(3), and (e)(4) of this section.
 
-(c) *Related tolerances.* See § 556.740 of this chapter.
+(c) *Related tolerances.* See § 556.746 of this chapter.
 
 (d) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (iii) *Limitations.* The drug should be fed early in the spring or fall and consumed by the bees before the main honey flow begins, to avoid contamination of production honey. Complete treatments at least 4 weeks before main honey flow.
 
-[40 FR 13838, Mar. 27, 1975, as amended at 50 FR 49841, Dec. 5, 1985; 59 FR 14365, Mar. 28, 1994; 62 FR 39443, July 23, 1997; 68 FR 24879, May 9, 2003; 70 FR 69439, Nov. 16, 2005; 73 FR 76946, Dec. 18, 2008; 75 FR 76259, Dec. 8, 2010; 76 FR 59024, Sept. 23, 2011; 77 FR 29217, May 17, 2012; 79 FR 37620, July 2, 2014; 79 FR 53136, Sept. 8, 2014; 79 FR 64116, Oct. 28, 2014; 80 FR 34278, June 16, 2015; 83 FR 14587, Apr. 5, 2018; 84 FR 8973, Mar. 13, 2019]
+[40 FR 13838, Mar. 27, 1975, as amended at 50 FR 49841, Dec. 5, 1985; 59 FR 14365, Mar. 28, 1994; 62 FR 39443, July 23, 1997; 68 FR 24879, May 9, 2003; 70 FR 69439, Nov. 16, 2005; 73 FR 76946, Dec. 18, 2008; 75 FR 76259, Dec. 8, 2010; 76 FR 59024, Sept. 23, 2011; 77 FR 29217, May 17, 2012; 79 FR 37620, July 2, 2014; 79 FR 53136, Sept. 8, 2014; 79 FR 64116, Oct. 28, 2014; 80 FR 34278, June 16, 2015; 83 FR 14587, Apr. 5, 2018; 84 FR 8973, Mar. 13, 2019; 84 FR 32992, July 11, 2019]

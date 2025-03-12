@@ -1,7 +1,5 @@
 ##### § 522.1662a Oxytetracycline hydrochloride injection. #####
 
-Link to an amendment published at 84 FR 32992, July 11, 2019.
-
 (a)(1) *Specifications.* The drug contains 50 milligrams of oxytetracycline hydrochloride in each milliliter of sterile solution.
 
 (2) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
@@ -141,5 +139,7 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 (ii) *Indications for use.* Treatment of diseases due to oxytetracycline-susceptible organisms as follows: pneumonia and shipping fever complex associated with *Pasteurella* spp. and *Haemophilus* spp.; foot rot and diphtheria caused by *Fusobacterium necrophorum;* bacterial enteritis (scours) caused by *Escherichia coli*; wooden tongue caused by *Actinobacillus lignieresii*; leptospirosis caused by *Leptospira pomona*; acute metritis and wound infections caused by staphylococcal and streptococcal organisms; if labeled for use by or on the order of a licensed veterinarian, it may be used for treatment of anaplasmosis caused by *Anaplasma marginale* and anthrax caused by *Bacillus anthracis.*
 
 (iii) *Limitations.* Administer by intravenous injection. Treatment should be continued 24 to 48 hours following remission of disease symptoms, but not to exceed a total of 4 consecutive days. If no improvement occurs within 24 to 48 hours, reevaluate diagnosis and therapy. Discontinue use at least 19 days prior to slaughter. Not for use in lactating dairy cattle.
+
+(l) For related tolerances see § 556.500 of this chapter.
 
 [40 FR 13858, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 522.1662a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

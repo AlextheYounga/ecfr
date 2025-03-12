@@ -1,7 +1,5 @@
 ##### § 558.625 Tylosin. #####
 
-Link to an amendment published at 84 FR 33002, July 11, 2019.
-
 (a) *Specifications.* Type A medicated articles containing tylosin phosphate.
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 33002, July 11, 2019.
 
 (4) No. 066104: Type A medicated articles containing 20 or 40 g/lb.
 
-(c) *Related tolerances.* See § 556.740 of this chapter.
+(c) *Related tolerances.* See § 556.746 of this chapter.
 
 (d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
 
