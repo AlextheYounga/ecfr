@@ -1,5 +1,7 @@
 ##### § 391.45 Persons who must be medically examined and certified. #####
 
+Link to an amendment published at 87 FR 3419, Jan. 21, 2022.
+
 The following persons must be medically examined and certified in accordance with § 391.43 as physically qualified to operate a commercial motor vehicle:
 
 (a) Any person who has not been medically examined and certified as physically qualified to operate a commercial motor vehicle;

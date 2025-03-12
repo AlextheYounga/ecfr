@@ -1,1 +1,3 @@
-##### § 590.310 [Reserved] #####
+##### § 590.310 Person. #####
+
+The term *person* means an individual or entity.

@@ -1,13 +1,3 @@
-##### § 590.316 Hizballah. #####
+##### § 590.316 U.S. financial institution. #####
 
-The term *Hizballah* means:
-
-(a) The entity known as Hizballah and designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
-
-(b) Any person:
-
-(1) The property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*); and
-
-(2) Who is identified on the Specially Designated Nationals and Blocked Persons List (SDN List) maintained by OFAC as an agent, instrumentality, or affiliate of Hizballah.
-
-[84 FR 35311, July 23, 2019]
+The term *U.S. financial institution* means any U.S. entity (including its foreign branches) that is engaged in the business of accepting deposits, making, granting, transferring, holding, or brokering loans or other extensions of credit, or purchasing or selling foreign exchange, securities, commodity futures or options, or procuring purchasers and sellers thereof, as principal or agent. It includes depository institutions, banks, savings banks, trust companies, securities brokers and dealers, futures and options brokers and dealers, forward contract and foreign exchange merchants, securities and commodities exchanges, clearing corporations, investment companies, employee benefit plans, and U.S. holding companies, U.S. affiliates, or U.S. subsidiaries of any of the foregoing. This term includes those branches, offices, and agencies of foreign financial institutions that are located in the United States, but not such institutions' foreign branches, offices, or agencies.

@@ -1,7 +1,5 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
-Link to an amendment published at 86 FR 72524, Dec. 22, 2021.
-
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 
 (b) *Promises of confidentiality.* (1) Only the identity of and information furnished by sources that have been given an express promise of confidentiality may be protected from disclosure under this section, consistent with (k)(2), (k)(5), and (k)(7) of the Privacy Act, as applicable. However, the identity of sources who were given implied promises of confidentiality in inquiries conducted before September 27, 1975, also may be protected from disclosure.
@@ -56,9 +54,7 @@ Link to an amendment published at 86 FR 72524, Dec. 22, 2021.
 
 (iii) *Exemption from the particular subsections.* Exemption from the particular subsections is justified for the following reasons:
 
-(A) *Subsections (c)(3), (d)(1), and (d)(2)* -
-
-(*1*) *Exemption (k)(1).* Personnel investigations and vetting records may contain information properly classified pursuant to Executive Order. Application of exemption (k)(1) for such records may be necessary because access to, amendment of, or release of the accounting of disclosures of such records could disclose classified information that could be detrimental to national security.
+(A) *Subsections (c)(3), (d)(1), and (d)(2)* - (*1*) *Exemption (k)(1).* Personnel investigations and vetting records may contain information properly classified pursuant to Executive Order. Application of exemption (k)(1) for such records may be necessary because access to, amendment of, or release of the accounting of disclosures of such records could disclose classified information that could be detrimental to national security.
 
 (*2*) *Exemption (k)(2).* Personnel investigations and vetting records may contain investigatory material compiled for law enforcement purposes other than material within the scope of 5 U.S.C. 552a(j)(2). Application of exemption (k)(2) for such records may be necessary because access to, amendment of, or release of the accounting of disclosures of such records could: Inform the record subject of an investigation of the existence, nature, or scope of an actual or potential law enforcement or counterintelligence investigation, and thereby seriously impede law enforcement or counterintelligence efforts by permitting the record subject and other persons to whom he might disclose the records to avoid criminal penalties, civil remedies, or counterintelligence measures; interfere with a civil or administrative action or investigation which may impede those actions or investigations; and result in an unwarranted invasion of the privacy of others. Amendment of such records could also impose a highly impracticable administrative burden by requiring investigations to be continuously reinvestigated.
 
@@ -76,7 +72,19 @@ Link to an amendment published at 86 FR 72524, Dec. 22, 2021.
 
 (iv) *Exempt records from other systems.* In addition, in the course of carrying out personnel vetting, including records checks for continuous vetting, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained into this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the original primary system of which they are a part.
 
-(3) [Reserved]
+(3) *System identifier and name.* DoD-0004, “Defense Repository for Common Enterprise Data (DRCED).”
+
+(i) *Exemptions.* This system of records is exempt from subsections 5 U.S.C. 552a(c)(3), (d)(1), (d)(2), (d)(3), and (d)(4) of the Privacy Act.
+
+(ii) *Authority.* 5 U.S.C. 552a(k)(1).
+
+(iii) *Exemption from the particular subsections.* Exemption from the particular subsections is justified for the following reasons:
+
+(A) *Subsection (c)(3) (accounting of disclosures).* Because common enterprise records may contain information properly classified pursuant to executive order, the disclosure accountings of such records may also contain information properly classified pursuant to executive order, the disclosure of which may cause damage to national security.
+
+(B) *Subsections (d)(1), (2), (3), and (4) (record subject's right to access and amend records).* Access to and amendment of records by the record subject could disclose information properly classified pursuant to executive order. Disclosure of classified records to an individual may cause damage to national security.
+
+(iv) *Exempt records from other systems.* In addition, in the course of carrying out the overall purpose for this system, exempt records from other system of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
 (4) *System identifier and name.* DoD-0005, “Defense Training Records.”
 
@@ -114,4 +122,4 @@ Link to an amendment published at 86 FR 72524, Dec. 22, 2021.
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021]

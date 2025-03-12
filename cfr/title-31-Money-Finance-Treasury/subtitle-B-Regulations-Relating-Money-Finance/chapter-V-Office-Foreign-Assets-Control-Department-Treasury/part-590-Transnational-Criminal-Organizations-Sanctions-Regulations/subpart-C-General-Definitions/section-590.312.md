@@ -1,3 +1,3 @@
-##### § 590.312 United States. #####
+##### § 590.312 Significant transnational criminal organization. #####
 
-The term *United States* means the United States, its territories and possessions, and all areas under the jurisdiction or authority thereof.
+The term *significant transnational criminal organization* means a group of persons that includes one or more foreign persons; that engages in or facilitates an ongoing pattern of serious criminal activity involving the jurisdictions of at least two foreign states, or one foreign state and the United States; and that threatens the national security, foreign policy, or economy of the United States.

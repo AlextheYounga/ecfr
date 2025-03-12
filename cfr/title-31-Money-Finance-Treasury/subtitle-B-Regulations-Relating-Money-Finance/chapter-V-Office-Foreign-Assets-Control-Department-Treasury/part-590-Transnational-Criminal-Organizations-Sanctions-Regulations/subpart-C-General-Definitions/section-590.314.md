@@ -1,3 +1,3 @@
-##### § 590.314 United States person; U.S. person. #####
+##### § 590.314 United States. #####
 
-The term *United States**person* or *U.S. person* means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.
+The term *United States* means the United States, its territories and possessions, and all areas under the jurisdiction or authority thereof.

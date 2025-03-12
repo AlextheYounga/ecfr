@@ -1,4 +1,4 @@
-##### § 31.10-16 Inspection and certification of cargo gear - TB/ALL. #####
+##### § 31.10-16 Inspection and certification of cargo gear—TB/ALL. #####
 
 (a) The owner, operator or master shall provide the Officer in Charge, Marine Inspection with all current valid certificates and registers of cargo gear issued by competent persons or a recognized organization or nonprofit association approved by the Commandant to certify the suitability of the cargo gear.
 
@@ -10,7 +10,7 @@
 
 (3) Indicate that the cargo gear described in the certificate or register complies with the standards of the organization or association authorized to issue the certificate or register.
 
-(c) Competent persons for the purposes of this section are defined as -
+(c) Competent persons for the purposes of this section are defined as—
 
 (1) Surveyors of a classification society recognized by the Commandant under 46 U.S.C. 3316,
 
@@ -36,8 +36,8 @@
 
 (e) The authorization for organizations to perform the required inspection is granted by the Chief, Office of Vessel Activities, Commandant (CG-CVC), and will continue until superseded, canceled, or modified. The following organizations are currently recognized by the Commandant (CG-CVC) as having the technical competence to handle the required inspection:
 
-(1) National Cargo Bureau, Inc., with home offices at 17 Battery Place, Suite 1232, New York, NY 10004; on the Internet at *http://www.natcargo.org.*
+(1) National Cargo Bureau, Inc., with home offices at 180 Maiden Lane, Suite 903, New York, NY 10038; on the Internet at *http://www.natcargo.org.*
 
-(2) The International Cargo Gear Bureau, Inc., with home office at 321 West 44th Street, New York, NY 10036; on the Internet at *http://www.icgb.com.*
+(2) The International Cargo Gear Bureau, Inc., with home office at 481 Eighth Avenue, New York, NY 10001; on the Internet at *http://www.icgb.com.*
 
-[CGFR 65-50, 30 FR 16662, Dec. 30, 1965, as amended by CGD 95-028, 62 FR 51197, Sept. 30, 1997; USCG-2007-29018, 72 FR 53964, Sept. 21, 2007; USCG-2008-0394, 73 FR 35961, June 25, 2008; USCG-2008-0906, 73 FR 56509, Sept. 29, 2008]
+[CGFR 65-50, 30 FR 16662, Dec. 30, 1965, as amended by CGD 95-028, 62 FR 51197, Sept. 30, 1997; USCG-2007-29018, 72 FR 53964, Sept. 21, 2007; USCG-2008-0394, 73 FR 35961, June 25, 2008; USCG-2008-0906, 73 FR 56509, Sept. 29, 2008; USCG-2021-0348, 87 FR 3224, Jan. 21, 2022]

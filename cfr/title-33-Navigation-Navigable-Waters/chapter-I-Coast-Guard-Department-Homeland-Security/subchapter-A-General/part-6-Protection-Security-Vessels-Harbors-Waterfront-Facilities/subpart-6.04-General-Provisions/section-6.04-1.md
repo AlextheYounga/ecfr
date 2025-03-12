@@ -6,4 +6,6 @@
 
 (c) Any authority or power under this part vested in, delegated to, or exercised by a member of the Coast Guard shall be subject to the direction of the Secretary of the Department in which the Coast Guard is operating.
 
-[E.O. 13273, 67 FR 56215, Sept. 3, 2002]
+(d) Actions taken and decisions made under this part can be appealed through the procedures outlined in 33 CFR 160.7.
+
+[E.O. 13273, 67 FR 56215, Sept. 3, 2002, as amended by USCG-2021-0348, 87 FR 3222, Jan. 21, 2022]

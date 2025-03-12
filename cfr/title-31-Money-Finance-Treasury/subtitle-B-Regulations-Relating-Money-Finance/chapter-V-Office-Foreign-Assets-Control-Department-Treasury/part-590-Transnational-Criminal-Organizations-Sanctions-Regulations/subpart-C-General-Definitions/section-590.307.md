@@ -1,11 +1,3 @@
-##### § 590.307 Licenses; general and specific. #####
+##### § 590.307 Interest. #####
 
-(a) Except as otherwise specified, the term *license* means any license or authorization contained in or issued pursuant to this part.
-
-(b) The term *general license* means any license or authorization the terms of which are set forth in subpart E of this part.
-
-(c) The term *specific license* means any license or authorization not set forth in subpart E of this part but issued pursuant to this part.
-
-Note to § 590.307:
-
-See § 501.801 of this chapter on licensing procedures.
+Except as otherwise provided in this part, the term *interest,* when used with respect to property (*e.g.,* “an interest in property”), means an interest of any nature whatsoever, direct or indirect.

@@ -221,7 +221,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Cotati       |                        \*5                        |
 |     El Centro      |                       9, 22                       |
 |       Eureka       |                  3, \*11, 17, 28                  |
-|     Fort Bragg     |                         8                         |
+|     Fort Bragg     |                      \* 4, 8                      |
 |      Fremont       |                         S                         |
 |       Fresno       |                7, 20, 30, \*32, 34                |
 |    Garden Grove    |                         S                         |
@@ -637,7 +637,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Nevada       |                                                   |
 |        Elko        |                        10                         |
 |        Ely         |                        27                         |
-|     Henderson      |                         9                         |
+|     Henderson      |                        24                         |
 |     Las Vegas      |            2, 7, \*11, 13, 16, 22, 29             |
 |      Laughlin      |                        32                         |
 |      Paradise      |                        20                         |

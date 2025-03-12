@@ -14,7 +14,7 @@ As used in this subpart:
 
 (2) The loss of a mechanically propelled vessel of 100 or more gross tons;
 
-(3) Property damage initially estimated at $500,000 or more; or
+(3) Property damage initially estimated at $2,000,000 or more; or
 
 (4) Serious threat, as determined by the Commandant and concurred in by the Chairman, to life, property, or the environment by hazardous materials.
 
@@ -28,4 +28,4 @@ As used in this subpart:
 
 (3) Owned by a citizen or resident of the United States and not registered under a foreign flag.
 
-[CGD 76-149, 42 FR 61200, Dec. 1, 1977, as amended by CGD 95-028, 62 FR 51195, Sept. 30, 1997]
+[CGD 76-149, 42 FR 61200, Dec. 1, 1977, as amended by CGD 95-028, 62 FR 51195, Sept. 30, 1997; USCG-2021-0348, 87 FR 3223, Jan. 21, 2022]

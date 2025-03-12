@@ -1,4 +1,4 @@
-##### § 147.40 Materials requiring Commandant (CG-OES) approval. #####
+##### § 147.40 Materials requiring Commandant (CG-ENG) approval. #####
 
 (a) Commandant (CG-ENG) approval is required before the following hazardous materials may be on board a vessel as ships' stores:
 
@@ -14,4 +14,4 @@
 
 (c) Upon approval, the material is added to the list of materials approved under this section. A copy of this list is available from the Commandant (CG-ENG) at the address in § 147.5.
 
-[CGD 84-044, 53 FR 7749, Mar. 10, 1988, as amended by CGD 95-072, 60 FR 50465, Sept. 29, 19955; CGD 96-041, 61 FR 50731, Sept. 27, 1996; CGD 97-057, 62 FR 51048, Sept. 30, 1997; USCG-2013-0671, 78 FR 60154, Sept. 30, 2013]
+[CGD 84-044, 53 FR 7749, Mar. 10, 1988, as amended by CGD 95-072, 60 FR 50465, Sept. 29, 19955; CGD 96-041, 61 FR 50731, Sept. 27, 1996; CGD 97-057, 62 FR 51048, Sept. 30, 1997; USCG-2013-0671, 78 FR 60154, Sept. 30, 2013; USCG-2021-0348, 87 FR 3225, Jan. 21, 2022]

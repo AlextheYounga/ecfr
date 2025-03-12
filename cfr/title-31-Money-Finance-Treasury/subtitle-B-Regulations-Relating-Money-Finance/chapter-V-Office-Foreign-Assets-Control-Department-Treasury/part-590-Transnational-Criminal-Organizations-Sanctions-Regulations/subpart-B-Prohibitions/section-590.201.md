@@ -1,17 +1,37 @@
 ##### § 590.201 Prohibited transactions. #####
 
-All transactions prohibited pursuant to Executive Order 13581 of July 24, 2011 (76 FR 44757, July 27, 2011), as amended by Executive Order 13863 of March 15, 2019 (84 FR 10255, March 15, 2019), are also prohibited pursuant to this part.
+(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
 
-Note 1 to § 590.201:
+(1) The persons listed in the Annex to E.O. 13581 of July 24, 2011;
 
-The names of persons listed in or designated pursuant to Executive Order 13581, whose property and interests in property therefore are blocked pursuant to this section, are published in the Federal Register and incorporated into the Office of Foreign Assets Control's Specially Designated Nationals and Blocked Persons List (“SDN List”) with the identifier “[TCO].” The SDN List is accessible through the following page on the Office of Foreign Assets Control's Web site: *www.treasury.gov/sdn.* Additional information pertaining to the SDN List can be found in appendix A to this chapter. See § 590.406 concerning entities that may not be listed on the SDN List but whose property and interests in property are nevertheless blocked pursuant to this section.
+(2) Any person determined by the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State:
 
-Note 2 to § 590.201:
+(i) To be a foreign person that constitutes a significant transnational criminal organization;
 
-The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to this section also are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-TCO].”
+(ii) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; or
 
-Note 3 to § 590.201:
+(iii) To be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+
+(b) The prohibitions in paragraph (a) of this section include prohibitions on the following transactions:
+
+(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and
+
+(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+
+(c) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities.
+
+(d) The prohibitions in paragraph (a) of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date.
+
+(e) All transactions prohibited pursuant to any Executive order issued after March 15, 2019 pursuant to the national emergency declared in E.O. 13581 of July 24, 2011, are prohibited pursuant to this part.
+
+Note 1 to § 590.201.
+
+The names of persons listed in, or designated or identified pursuant to, E.O. 13581; E.O. 13581, as amended by E.O. 13863 of March 15, 2019 (“amended E.O. 13581”); or any further Executive orders issued pursuant to the national emergency declared in E.O. 13581, whose property and interests in property therefore are blocked pursuant to this section, are published in the Federal Register and incorporated into OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) using the following identifiers: For E.O. 13581 or amended E.O. 13581: “[TCO]”; and for any further Executive orders issued pursuant to the national emergency declared in E.O. 13581: Using the identifier formulation “[TCO-E.O.[E.O. number pursuant to which the person's property and interests in property are blocked]].” The SDN List is accessible through the following page on OFAC's website: *www.treas.gov/sdn.* Additional information pertaining to the SDN List can be found in appendix A to this chapter. *See* § 590.411 concerning entities that may not be listed on the SDN List but whose property and interests in property are nevertheless blocked pursuant to this section.
+
+Note 2 to § 590.201.
+
+The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to this section also are published in the Federal Register and incorporated into the SDN List using the following identifiers: For E.O. 13581 or amended E.O. 13581: “[BPI-TCO]”; and for any further Executive orders issued pursuant to the national emergency declared in E.O. 13581: Using the identifier formulation “[BPI-TCO-[E.O. number pursuant to which the person's property and interests in property are blocked pending investigation]].”
+
+Note 3 to § 590.201.
 
 Sections 501.806 and 501.807 of this chapter describe the procedures to be followed by persons seeking, respectively, the unblocking of funds that they believe were blocked due to mistaken identity, or administrative reconsideration of their status as persons whose property and interests in property are blocked pursuant to this section.
-
-[77 FR 1865, Jan. 12, 2012, as amended at 84 FR 35311, July 23, 2019]

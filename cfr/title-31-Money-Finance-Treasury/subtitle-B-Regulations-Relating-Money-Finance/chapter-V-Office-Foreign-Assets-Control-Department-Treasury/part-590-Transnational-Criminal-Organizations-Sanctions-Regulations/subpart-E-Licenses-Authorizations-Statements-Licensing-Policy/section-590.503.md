@@ -1,3 +1,3 @@
 ##### § 590.503 Exclusion from licenses. #####
 
-The Office of Foreign Assets Control reserves the right to exclude any person, property, transaction, or class thereof from the operation of any license or from the privileges conferred by any license. The Office of Foreign Assets Control also reserves the right to restrict the applicability of any license to particular persons, property, transactions, or classes thereof. Such actions are binding upon actual or constructive notice of the exclusions or restrictions.
+OFAC reserves the right to exclude any person, property, transaction, or class thereof from the operation of any license or from the privileges conferred by any license. OFAC also reserves the right to restrict the applicability of any license to particular persons, property, transactions, or classes thereof. Such actions are binding upon actual or constructive notice of the exclusions or restrictions.

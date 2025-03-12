@@ -1,5 +1,7 @@
 ##### § 391.51 General requirements for driver qualification files. #####
 
+Link to an amendment published at 87 FR 3419, Jan. 21, 2022.
+
 (a) Each motor carrier shall maintain a driver qualification file for each driver it employs. A driver's qualification file may be combined with his/her personnel file.
 
 (b) The qualification file for a driver must include:

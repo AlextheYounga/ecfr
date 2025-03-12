@@ -1,5 +1,7 @@
 ##### § 391.64 Grandfathering for certain drivers who participated in a vision waiver study program. #####
 
+Link to an amendment published at 87 FR 3419, Jan. 21, 2022.
+
 (a) [Reserved]
 
 (b) The provisions of § 391.41(b)(10) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by drivers with visual impairment in one eye; *provided:*

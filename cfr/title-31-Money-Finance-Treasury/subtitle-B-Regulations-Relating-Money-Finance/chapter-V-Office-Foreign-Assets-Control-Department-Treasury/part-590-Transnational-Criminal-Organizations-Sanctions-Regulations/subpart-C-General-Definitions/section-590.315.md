@@ -1,5 +1,3 @@
-##### § 590.315 Significant transnational criminal organization. #####
+##### § 590.315 United States person; U.S. person. #####
 
-The term *significant transnational criminal organization* means a group of persons that includes one or more foreign persons; that engages in or facilitates an ongoing pattern of serious criminal activity involving the jurisdictions of at least two foreign states, or one foreign state and the United States; and that threatens the national security, foreign policy, or economy of the United States.
-
-[84 FR 35311, July 23, 2019]
+The term *United States person* or *U.S. person* means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.

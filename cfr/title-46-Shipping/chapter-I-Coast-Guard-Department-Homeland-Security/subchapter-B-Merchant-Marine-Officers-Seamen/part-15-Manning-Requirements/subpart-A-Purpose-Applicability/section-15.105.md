@@ -12,9 +12,9 @@
 
 (f) Persons serving on any of the following vessels, or any owner or operator of any of these vessels, do not need to meet the requirements of subpart K of this part, because the vessels are exempt from application of STCW:
 
-(1) Fishing vessels as defined in 46 U.S.C. 2101(11)(a).
+(1) Fishing vessels as defined in 46 U.S.C. 2101(12).
 
-(2) Fishing vessels used as fish-tender vessels as defined in 46 U.S.C. 2101(11)(c).
+(2) Fishing vessels used as fish-tender vessels as defined in 46 U.S.C. 2101(14).
 
 (3) Barges as defined in 46 U.S.C. 102, including non-self-propelled mobile offshore drilling units.
 
@@ -32,4 +32,4 @@
 
 (h) Personnel serving on vessels identified in paragraphs (g)(1) and (g)(2) of this section may be issued, without additional proof of qualification, an appropriate STCW endorsement on their license or MMC when the Coast Guard determines that such an endorsement is necessary to enable the vessel to engage on a single international voyage of a non-routine nature. The STCW endorsement will be expressly limited to service on the vessel or the class of vessels and will not establish qualification for any other purpose.
 
-[USCG-2004-17914, 78 FR 78000, Dec. 24, 2013]
+[USCG-2004-17914, 78 FR 78000, Dec. 24, 2013, as amended at USCG-2021-0348, 87 FR 3223, Jan. 21, 2022]

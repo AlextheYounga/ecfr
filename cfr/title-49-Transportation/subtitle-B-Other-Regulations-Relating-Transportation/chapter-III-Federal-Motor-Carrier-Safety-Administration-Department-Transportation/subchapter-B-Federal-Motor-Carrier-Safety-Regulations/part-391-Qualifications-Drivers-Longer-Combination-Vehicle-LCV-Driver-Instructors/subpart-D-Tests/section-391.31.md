@@ -1,5 +1,7 @@
 ##### § 391.31 Road test. #####
 
+Link to an amendment published at 87 FR 3417, Jan. 21, 2022.
+
 (a) Except as provided in subpart G, a person shall not drive a commercial motor vehicle unless he/she has first successfully completed a road test and has been issued a certificate of driver's road test in accordance with this section.
 
 (b) The road test shall be given by the motor carrier or a person designated by it. However, a driver who is a motor carrier must be given the test by a person other than himself/herself. The test shall be given by a person who is competent to evaluate and determine whether the person who takes the test has demonstrated that he/she is capable of operating the commercial motor vehicle, and associated equipment, that the motor carrier intends to assign him/her.

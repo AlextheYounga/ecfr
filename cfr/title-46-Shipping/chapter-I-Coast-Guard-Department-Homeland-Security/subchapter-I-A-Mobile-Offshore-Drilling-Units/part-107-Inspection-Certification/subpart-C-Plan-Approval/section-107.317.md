@@ -12,6 +12,6 @@ Note:
 
 For classed vessels, the American Bureau of Shipping will, upon request by the submitter, arrange to forward the plans indicated with an asterisk in § 107.305 to the Coast Guard indicating ABS's action thereon.
 
-(d) International Cargo Gear Bureau, Inc., 321 West 44th Street, New York, NY 10036, on the internet at *http://www.icgb.com.*
+(d) International Cargo Gear Bureau, Inc., 481 Eighth Avenue, New York, NY 10001, on the internet at *http://www.icgb.com.*
 
-[CGD 73-251, 43 FR 56802, Dec. 4, 1978, as amended by CGD 85-048b, 51 FR 15498, Apr. 24, 1986; CGD 89-025, 54 FR 19571, May 8, 1989; CGD 96-041, 61 FR 50730, Sept. 27, 1996; USCG-2000-7790, 65 FR 58461, Sept. 29, 2000; USCG-2007-29018, 72 FR 53966, Sept. 21, 2007; USCG-2008-0906, 73 FR 56510, Sept. 29, 2008; USCG-2009-0702, 74 FR 49233, Sept. 25, 2009; USCG-2013-0671, 78 FR 60151, Sept. 30, 2013; USCG-2016-0498, 82 FR 35091, July 28, 2017]
+[CGD 73-251, 43 FR 56802, Dec. 4, 1978, as amended by CGD 85-048b, 51 FR 15498, Apr. 24, 1986; CGD 89-025, 54 FR 19571, May 8, 1989; CGD 96-041, 61 FR 50730, Sept. 27, 1996; USCG-2000-7790, 65 FR 58461, Sept. 29, 2000; USCG-2007-29018, 72 FR 53966, Sept. 21, 2007; USCG-2008-0906, 73 FR 56510, Sept. 29, 2008; USCG-2009-0702, 74 FR 49233, Sept. 25, 2009; USCG-2013-0671, 78 FR 60151, Sept. 30, 2013; USCG-2016-0498, 82 FR 35091, July 28, 2017; USCG-2021-0348, 87 FR 3224, Jan. 21, 2022]
