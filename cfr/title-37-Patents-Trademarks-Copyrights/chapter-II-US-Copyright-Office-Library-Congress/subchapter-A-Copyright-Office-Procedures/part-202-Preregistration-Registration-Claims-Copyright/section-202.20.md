@@ -1,6 +1,6 @@
 ##### § 202.20 Deposit of copies and phonorecords for copyright registration. #####
 
-Link to an amendment published at 82 FR 26854, June 12, 2017.Link to an amendment published at 82 FR 29414, June 29, 2017.
+Link to an amendment published at 82 FR 29414, June 29, 2017.
 
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published and unpublished works for the purpose of copyright registration under section 408 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for the Library of Congress under section 407 of title 17, except as expressly adopted in § 202.19.
 
@@ -42,13 +42,11 @@ Link to an amendment published at 82 FR 26854, June 12, 2017.Link to an amendmen
 
 (vii) *Motion pictures.* In the case of a published or unpublished motion picture, a copy is “complete” if the reproduction of all of the visual and aural elements comprising the copyrightable subject matter in the work is clean, undamaged, undeteriorated, and free of splices, and if the copy itself and its physical housing are free of any defects that would interfere with the performance of the work or that would cause mechanical, visual, or audible defects or distortions.
 
-(3) The terms *architectural works*, *copy, collective work*, *device*, *fixed*, *literary work*, *machine*, *motion picture*, *phonorecord*, *publication*, *sound recording*, *transmission program*, and *useful article*, and their variant forms, have the meanings given to them in 17 U.S.C. 101.
+(3) The term *secure test* has the meaning set forth in § 202.13(b).
 
-(4) A *secure test* is a nonmarketed test administered under supervision at specified centers on specific dates, all copies of which are accounted for and either destroyed or returned to restricted locked storage following each administration. For these purposes a test is not marketed if copies are not sold but it is distributed and used in such a manner that ownership and control of copies remain with the test sponsor or publisher.
+(4) *Title 17* means title 17 of the United States Code.
 
-(5) *Title 17* means title 17 of the United States Code, as amended by Pub. L. 94-553.
-
-(6) For the purposes of determining the applicable deposit requirements under this section only, the following shall be considered unpublished motion pictures: motion pictures that consist of television transmission programs and that have been published, if at all, only by reason of a license or other grant to a nonprofit institution of the right to make a fixation of such programs directly from a transmission to the public, with or without the right to make further uses of such fixations.
+(5) For the purposes of determining the applicable deposit requirements under this section only, the following shall be considered unpublished motion pictures: motion pictures that consist of television transmission programs and that have been published, if at all, only by reason of a license or other grant to a nonprofit institution of the right to make a fixation of such programs directly from a transmission to the public, with or without the right to make further uses of such fixations.
 
 (c) *Nature of required deposit.* (1) Subject to the provisions of paragraph (c)(2) of this section, the deposit required to accompany an application for registration of claim to copyright under section 408 of title 17 shall consist of:
 
@@ -104,7 +102,7 @@ The number of sets of instructions and identifying material shall be the same as
 
 (v) *Commercial prints and labels.* In the case of prints, labels, and other advertising matter, including catalogs, published in connection with the rental, lease, lending, licensing, or sale of articles of merchandise, works of authorship, or services, the deposit of one complete copy will suffice in lieu of two copies. Where the print or label is published in a larger work, such as a newspaper or other periodical, one copy of the entire page or pages upon which it appears may be submitted in lieu of the entire larger work. In the case of prints or labels physically inseparable from a three-dimensional object, identifying material complying with § 202.21 must be submitted rather than an actual copy or copies except under the conditions of paragraph (c)(2)(xi)(B)(*4*) of this section.
 
-(vi) *Tests.* In the case of tests, and answer material for tests, published separately from other literary works, the deposit of one complete copy will suffice in lieu of two copies. In the case of any secure test the Copyright Office will return the deposit to the applicant promptly after examination: Provided, That sufficient portions, description, or the like are retained so as to constitute a sufficient archival record of the deposit.
+(vi) *Tests.* In the case of tests, and answer material for tests, published separately from other literary works, the deposit of one complete copy will suffice in lieu of two copies. In the case of any secure test the applicant may submit identifying material in lieu of one complete copy if the conditions set forth in § 202.13(c) have been met.
 
 (vii) *Computer programs and databases embodied in machine-readable copies other than CD-ROM format.* In cases where a computer program, database, compilation, statistical compendium, or the like, if unpublished is fixed, or if published is published only in the form of machine-readable copies (such as magnetic tape or disks, punched cards, semiconductor chip products, or the like) other than a CD-ROM format, from which the work cannot ordinarily be perceived except with the aid of a machine or device, the deposit shall consist of:
 
